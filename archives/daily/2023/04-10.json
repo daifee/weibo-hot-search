@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681089653531,
+  "endTime": 1681090987869,
   "band_list": [
     {
       "raw_hot": 2164948,
@@ -11,20 +11,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1956887,
+      "num": 1193563,
+      "word": "iPhone15ProMax预计售价2万块",
+      "onboard_time": 1681088489,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1463179,
       "num": 489362,
       "word": "林俊杰 听说最近很多人想帮我理财",
       "onboard_time": 1681083383,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1193563,
-      "num": 1193563,
-      "word": "iPhone15ProMax预计售价2万块",
-      "onboard_time": 1681088489,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 1113597,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 944238,
-      "num": 286618,
+      "num": 288066,
       "word": "官方回应男子骂剖腹产妻子她疼她死",
       "onboard_time": 1681047569,
       "rank": 20,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703832,
+      "num": 703832,
+      "word": "林俊德去世前曾一次次拒绝儿子探望",
+      "onboard_time": 1681086086,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702316,
       "num": 702316,
       "word": "张艺谋第一次拍网剧",
@@ -83,11 +91,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 701424,
-      "num": 701424,
-      "word": "林俊德去世前曾一次次拒绝儿子探望",
-      "onboard_time": 1681086086,
-      "rank": 5,
+      "raw_hot": 635373,
+      "num": 635373,
+      "word": "在美流浪32年老人回国后续",
+      "onboard_time": 1681088248,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 495322,
+      "num": 495322,
+      "word": "山西晋城为改善空气禁止露天烧烤",
+      "onboard_time": 1681088667,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488357,
       "num": 488357,
       "word": "五月天告五人合唱知足",
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477018,
+      "num": 417668,
+      "word": "李兰迪被鸟屎砸中",
+      "onboard_time": 1681086330,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468418,
       "num": 468418,
       "word": "范丞丞来看小鬼音乐节",
@@ -155,28 +179,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 458417,
-      "num": 458417,
-      "word": "在美流浪32年老人回国后续",
-      "onboard_time": 1681088248,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 431142,
       "num": 431142,
       "word": "重庆姐弟坠亡案",
       "onboard_time": 1681082182,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417668,
-      "num": 417668,
-      "word": "李兰迪被鸟屎砸中",
-      "onboard_time": 1681086330,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 407700,
@@ -193,6 +201,14 @@
       "onboard_time": 1681049911,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 404940,
+      "num": 404940,
+      "word": "戈贝尔道歉",
+      "onboard_time": 1681088726,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 404923,
@@ -323,14 +339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280505,
-      "num": 280505,
-      "word": "山西晋城为改善空气禁止露天烧烤",
-      "onboard_time": 1681088667,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255648,
       "num": 255648,
       "word": "过度超前消费有多可怕",
@@ -339,20 +347,20 @@
       "category": "财经,社会议题"
     },
     {
+      "raw_hot": 241356,
+      "num": 241356,
+      "word": "长月烬明新副本细节",
+      "onboard_time": 1681089085,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238014,
       "num": 238014,
       "word": "第一份工作其实没那么重要",
       "onboard_time": 1681053571,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225703,
-      "num": 225703,
-      "word": "戈贝尔道歉",
-      "onboard_time": 1681088726,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 221373,
@@ -387,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205270,
+      "num": 205270,
+      "word": "易烊千玺说会创作出好角色回馈观众",
+      "onboard_time": 1681089927,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203473,
       "num": 203473,
       "word": "金智秀翻牌小朋友新歌挑战",
@@ -395,12 +411,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198589,
-      "num": 198589,
+      "raw_hot": 200852,
+      "num": 200852,
       "word": "2023年已经过了快3分之1",
       "onboard_time": 1681087529,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197436,
+      "num": 197436,
+      "word": "曾黎火烧云裙造型",
+      "onboard_time": 1681083925,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197119,
+      "num": 197119,
+      "word": "秦岚希望女性都能做最勇敢的自己",
+      "onboard_time": 1681085246,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 194907,
@@ -411,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190251,
-      "num": 190251,
-      "word": "长月烬明新副本细节",
-      "onboard_time": 1681089085,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 192173,
+      "num": 192173,
+      "word": "张晋拍动作戏受伤",
+      "onboard_time": 1681089027,
+      "rank": 35,
+      "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 191114,
+      "num": 191114,
+      "word": "面试时撒过最大的谎是什么",
+      "onboard_time": 1681090466,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 187920,
@@ -433,22 +473,6 @@
       "onboard_time": 1681049191,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 184293,
-      "num": 184293,
-      "word": "曾黎火烧云裙造型",
-      "onboard_time": 1681083925,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 181328,
-      "num": 181328,
-      "word": "张晋拍动作戏受伤",
-      "onboard_time": 1681089027,
-      "rank": 35,
-      "category": "艺人,影视"
     },
     {
       "raw_hot": 179493,
@@ -489,14 +513,6 @@
       "onboard_time": 1681082119,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 166264,
-      "num": 166264,
-      "word": "秦岚希望女性都能做最勇敢的自己",
-      "onboard_time": 1681085246,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 163111,
@@ -667,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116903,
+      "num": 116903,
+      "word": "祝绪丹蓝色头纱造型",
+      "onboard_time": 1681083083,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110885,
       "num": 110885,
       "word": "燃烧的巴黎圣母院",
@@ -681,6 +705,22 @@
       "onboard_time": 1681040125,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108107,
+      "num": 108107,
+      "word": "在杭州西湖遭遇划船刺客",
+      "onboard_time": 1681090946,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108043,
+      "num": 108043,
+      "word": "15省区市将有扬沙或浮尘天气",
+      "onboard_time": 1681090823,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108006,
@@ -737,14 +777,6 @@
       "onboard_time": 1681052970,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93382,
-      "num": 93382,
-      "word": "祝绪丹蓝色头纱造型",
-      "onboard_time": 1681083083,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 92605,

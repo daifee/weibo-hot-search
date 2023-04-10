@@ -1,0 +1,410 @@
+{
+  "runTime": 1681090987869,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1059489,
+        "num": 1059489,
+        "word": "苏州新晋网红竹筒奶茶",
+        "onboard_time": 1681085008,
+        "rank": 0,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 848071,
+        "num": 848071,
+        "word": "瑞丽通知泼水节可连休4天",
+        "onboard_time": 1681086628,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77421,
+        "num": 753074,
+        "word": "这些旅游专列已发车",
+        "onboard_time": 1681042525,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1956887,
+        "num": 750618,
+        "word": "iPhone15ProMax预计售价2万块",
+        "onboard_time": 1681088489,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 735628,
+        "num": 735628,
+        "word": "李坤城去世",
+        "onboard_time": 1681052670,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 703832,
+        "num": 703832,
+        "word": "林俊德去世前曾一次次拒绝儿子探望",
+        "onboard_time": 1681086086,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635373,
+        "num": 635373,
+        "word": "在美流浪32年老人回国后续",
+        "onboard_time": 1681088248,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574889,
+        "num": 574889,
+        "word": "上海辟谣一大巴载市委及家属旅游团",
+        "onboard_time": 1681080917,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495322,
+        "num": 495322,
+        "word": "山西晋城为改善空气禁止露天烧烤",
+        "onboard_time": 1681088667,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408582,
+        "num": 408582,
+        "word": "张艺谋第一次拍网剧",
+        "onboard_time": 1681052429,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1455609,
+        "num": 408456,
+        "word": "林俊杰 听说最近很多人想帮我理财",
+        "onboard_time": 1681083383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477018,
+        "num": 408311,
+        "word": "李兰迪被鸟屎砸中",
+        "onboard_time": 1681086330,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404940,
+        "num": 404940,
+        "word": "戈贝尔道歉",
+        "onboard_time": 1681088726,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403744,
+        "num": 403744,
+        "word": "北京一小区电动车爆炸起火致2死1伤",
+        "onboard_time": 1681083023,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 373466,
+        "num": 373466,
+        "word": "男子骑车下班被拦路光纤线割喉住院",
+        "onboard_time": 1681085549,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345348,
+        "num": 345348,
+        "word": "王力宏霍建华林心如聚会",
+        "onboard_time": 1681043309,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337217,
+        "num": 337217,
+        "word": "重庆姐弟坠亡案",
+        "onboard_time": 1681082182,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299198,
+        "num": 299198,
+        "word": "林靖恩",
+        "onboard_time": 1681082721,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298991,
+        "num": 298991,
+        "word": "又周一了",
+        "onboard_time": 1681085068,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293413,
+        "num": 293413,
+        "word": "湖南邵阳警方通报男子当街踹倒女子",
+        "onboard_time": 1681084345,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623923,
+        "num": 288066,
+        "word": "官方回应男子骂剖腹产妻子她疼她死",
+        "onboard_time": 1681047569,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 281497,
+        "num": 281497,
+        "word": "论文很烂但致谢被老师夸了",
+        "onboard_time": 1681048411,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241356,
+        "num": 241356,
+        "word": "长月烬明新副本细节",
+        "onboard_time": 1681089085,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240438,
+        "num": 240438,
+        "word": "田柾国近照",
+        "onboard_time": 1681084648,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218965,
+        "num": 218965,
+        "word": "A股进全面注册制时代",
+        "onboard_time": 1681086628,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215715,
+        "num": 215715,
+        "word": "重庆姐弟坠亡案改判可能性几乎为零",
+        "onboard_time": 1681050210,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205270,
+        "num": 205270,
+        "word": "易烊千玺说会创作出好角色回馈观众",
+        "onboard_time": 1681089927,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200852,
+        "num": 200852,
+        "word": "2023年已经过了快3分之1",
+        "onboard_time": 1681087529,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197436,
+        "num": 197436,
+        "word": "曾黎火烧云裙造型",
+        "onboard_time": 1681083925,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 197119,
+        "num": 197119,
+        "word": "秦岚希望女性都能做最勇敢的自己",
+        "onboard_time": 1681085246,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196459,
+        "num": 196459,
+        "word": "森林狼内讧",
+        "onboard_time": 1681082781,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192173,
+        "num": 192173,
+        "word": "张晋拍动作戏受伤",
+        "onboard_time": 1681089027,
+        "rank": 31,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 191420,
+        "num": 191420,
+        "word": "李凯尔",
+        "onboard_time": 1681088008,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191114,
+        "num": 191114,
+        "word": "面试时撒过最大的谎是什么",
+        "onboard_time": 1681090466,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189198,
+        "num": 189198,
+        "word": "金智秀翻牌小朋友新歌挑战",
+        "onboard_time": 1681088068,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171579,
+        "num": 171579,
+        "word": "第一份工作其实没那么重要",
+        "onboard_time": 1681053571,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166269,
+        "num": 166269,
+        "word": "许嵩音乐节",
+        "onboard_time": 1681051652,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153500,
+        "num": 153500,
+        "word": "湖人附加赛将对阵森林狼",
+        "onboard_time": 1681083624,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149756,
+        "num": 149756,
+        "word": "谭松韵许凯你比星光美丽拥抱路透",
+        "onboard_time": 1681086749,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147528,
+        "num": 147528,
+        "word": "日本坠机师团长曾妄议台湾问题",
+        "onboard_time": 1681056505,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 146063,
+        "num": 146063,
+        "word": "55岁小学老师去世后做了大体老师",
+        "onboard_time": 1681049911,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 137462,
+        "num": 137462,
+        "word": "顾客称吃85度C三明治发现番茄长毛",
+        "onboard_time": 1681062914,
+        "rank": 41,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 132864,
+        "num": 132864,
+        "word": "过度超前消费有多可怕",
+        "onboard_time": 1681042226,
+        "rank": 42,
+        "category": "财经,社会议题"
+      },
+      {
+        "raw_hot": 125218,
+        "num": 125218,
+        "word": "四川气温热到全国第一",
+        "onboard_time": 1681053750,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120957,
+        "num": 120957,
+        "word": "赵露思去游乐园只看不玩",
+        "onboard_time": 1681053447,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116903,
+        "num": 116903,
+        "word": "祝绪丹蓝色头纱造型",
+        "onboard_time": 1681083083,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112124,
+        "num": 112124,
+        "word": "舞台夹缝中的周深",
+        "onboard_time": 1681085246,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108107,
+        "num": 108107,
+        "word": "在杭州西湖遭遇划船刺客",
+        "onboard_time": 1681090946,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108043,
+        "num": 108043,
+        "word": "15省区市将有扬沙或浮尘天气",
+        "onboard_time": 1681090823,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56710,
+        "num": 107475,
+        "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
+        "onboard_time": 1681034546,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首会晤上满满岭南元素#"
+    }
+  }
+}

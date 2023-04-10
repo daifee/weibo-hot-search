@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681089653531,
+  "endTime": 1681090987869,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -835,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1956887,
+      "num": 1193563,
+      "word": "iPhone15ProMax预计售价2万块",
+      "onboard_time": 1681088489,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1952598,
       "num": 1952598,
       "word": "极限挑战第九季官宣",
@@ -1665,14 +1673,6 @@
       "onboard_time": 1680921090,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1193563,
-      "num": 1193563,
-      "word": "iPhone15ProMax预计售价2万块",
-      "onboard_time": 1681088489,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 1192024,
@@ -3547,6 +3547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 703832,
+      "num": 703832,
+      "word": "林俊德去世前曾一次次拒绝儿子探望",
+      "onboard_time": 1681086086,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702478,
       "num": 675679,
       "word": "坂本龙一微博告别",
@@ -3561,14 +3569,6 @@
       "onboard_time": 1680948868,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 701424,
-      "num": 701424,
-      "word": "林俊德去世前曾一次次拒绝儿子探望",
-      "onboard_time": 1681086086,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 701370,
@@ -4073,6 +4073,14 @@
       "onboard_time": 1680766110,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 635373,
+      "num": 635373,
+      "word": "在美流浪32年老人回国后续",
+      "onboard_time": 1681088248,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635026,
@@ -5475,6 +5483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495322,
+      "num": 495322,
+      "word": "山西晋城为改善空气禁止露天烧烤",
+      "onboard_time": 1681088667,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495319,
       "num": 495319,
       "word": "如果我变成蟑螂妈妈会怎么办",
@@ -5747,6 +5763,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 477018,
+      "num": 417668,
+      "word": "李兰迪被鸟屎砸中",
+      "onboard_time": 1681086330,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476554,
       "num": 476554,
       "word": "闵玧其官宣NBA全球大使",
@@ -5977,14 +6001,6 @@
       "onboard_time": 1680479308,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 458417,
-      "num": 458417,
-      "word": "在美流浪32年老人回国后续",
-      "onboard_time": 1681088248,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458101,
@@ -6595,14 +6611,6 @@
       "category": "军事,国内要闻"
     },
     {
-      "raw_hot": 417668,
-      "num": 417668,
-      "word": "李兰迪被鸟屎砸中",
-      "onboard_time": 1681086330,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 416697,
       "num": 382805,
       "word": "力灿承认曾性骚扰",
@@ -6785,6 +6793,14 @@
       "onboard_time": 1680523353,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 404940,
+      "num": 404940,
+      "word": "戈贝尔道歉",
+      "onboard_time": 1681088726,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 404923,
@@ -9579,14 +9595,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 280505,
-      "num": 280505,
-      "word": "山西晋城为改善空气禁止露天烧烤",
-      "onboard_time": 1681088667,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280268,
       "num": 199850,
       "word": "耳屎是怎样保护耳朵的",
@@ -10875,6 +10883,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 241356,
+      "num": 241356,
+      "word": "长月烬明新副本细节",
+      "onboard_time": 1681089085,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241200,
       "num": 210434,
       "word": "职场中文凭真的有那么重要吗",
@@ -11576,14 +11592,6 @@
       "word": "CBA常规赛排名出炉",
       "onboard_time": 1680706472,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 225703,
-      "num": 225703,
-      "word": "戈贝尔道歉",
-      "onboard_time": 1681088726,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -12939,6 +12947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205270,
+      "num": 205270,
+      "word": "易烊千玺说会创作出好角色回馈观众",
+      "onboard_time": 1681089927,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 205267,
       "num": 2645986,
       "word": "永远记住你",
@@ -13763,6 +13779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200852,
+      "num": 200852,
+      "word": "2023年已经过了快3分之1",
+      "onboard_time": 1681087529,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200812,
       "num": 198601,
       "word": "孙千说电影院见",
@@ -14139,14 +14163,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 198589,
-      "num": 198589,
-      "word": "2023年已经过了快3分之1",
-      "onboard_time": 1681087529,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198524,
       "num": 198524,
       "word": "李现怼脸动图",
@@ -14267,6 +14283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197436,
+      "num": 197436,
+      "word": "曾黎火烧云裙造型",
+      "onboard_time": 1681083925,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197416,
       "num": 197416,
       "word": "KPL春季赛第八周最佳阵容",
@@ -14328,6 +14352,14 @@
       "word": "卫视报道长空之王点映活动",
       "onboard_time": 1680354510,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197119,
+      "num": 197119,
+      "word": "秦岚希望女性都能做最勇敢的自己",
+      "onboard_time": 1681085246,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -14931,6 +14963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192173,
+      "num": 192173,
+      "word": "张晋拍动作戏受伤",
+      "onboard_time": 1681089027,
+      "rank": 35,
+      "category": "艺人,影视"
+    },
+    {
       "raw_hot": 192072,
       "num": 152257,
       "word": "回南天版哈利波特",
@@ -15041,6 +15081,14 @@
       "onboard_time": 1680856227,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191114,
+      "num": 191114,
+      "word": "面试时撒过最大的谎是什么",
+      "onboard_time": 1681090466,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 191088,
@@ -15177,14 +15225,6 @@
       "onboard_time": 1680498456,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190251,
-      "num": 190251,
-      "word": "长月烬明新副本细节",
-      "onboard_time": 1681089085,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 190186,
@@ -15835,14 +15875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184293,
-      "num": 184293,
-      "word": "曾黎火烧云裙造型",
-      "onboard_time": 1681083925,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 184291,
       "num": 197842,
       "word": "百想艺术大赏",
@@ -16097,14 +16129,6 @@
       "onboard_time": 1680570390,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181328,
-      "num": 181328,
-      "word": "张晋拍动作戏受伤",
-      "onboard_time": 1681089027,
-      "rank": 35,
-      "category": "艺人,影视"
     },
     {
       "raw_hot": 181273,
@@ -17104,14 +17128,6 @@
       "word": "梁友安钻进宋三川被窝",
       "onboard_time": 1680928228,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 166264,
-      "num": 166264,
-      "word": "秦岚希望女性都能做最勇敢的自己",
-      "onboard_time": 1681085246,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -20235,6 +20251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116903,
+      "num": 116903,
+      "word": "祝绪丹蓝色头纱造型",
+      "onboard_time": 1681083083,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116861,
       "num": 130583,
       "word": "LGD拿下S组首胜",
@@ -20505,6 +20529,22 @@
       "onboard_time": 1680340171,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108107,
+      "num": 108107,
+      "word": "在杭州西湖遭遇划船刺客",
+      "onboard_time": 1681090946,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108043,
+      "num": 108043,
+      "word": "15省区市将有扬沙或浮尘天气",
+      "onboard_time": 1681090823,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107973,
@@ -21097,14 +21137,6 @@
       "onboard_time": 1680333990,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 93382,
-      "num": 93382,
-      "word": "祝绪丹蓝色头纱造型",
-      "onboard_time": 1681083083,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 93370,
