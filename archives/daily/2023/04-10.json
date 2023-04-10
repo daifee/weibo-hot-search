@@ -1,10 +1,10 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681103792494,
+  "endTime": 1681104799459,
   "band_list": [
     {
-      "raw_hot": 3039122,
-      "num": 3039122,
+      "raw_hot": 3188779,
+      "num": 3188779,
       "word": "演员吴耀汉去世",
       "onboard_time": 1681101517,
       "rank": 0,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 655808,
-      "num": 415434,
+      "num": 440389,
       "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
       "onboard_time": 1681096409,
       "rank": 34,
@@ -371,6 +371,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530658,
+      "num": 530658,
+      "word": "凌晨的火车上全是大学生",
+      "onboard_time": 1681101454,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 504567,
+      "num": 504567,
+      "word": "被偷五年的小狗自己回来了",
+      "onboard_time": 1681101755,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 495322,
       "num": 495322,
       "word": "山西晋城为改善空气禁止露天烧烤",
@@ -403,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469632,
-      "num": 469632,
-      "word": "凌晨的火车上全是大学生",
-      "onboard_time": 1681101454,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 468418,
       "num": 468418,
       "word": "范丞丞来看小鬼音乐节",
@@ -425,14 +433,6 @@
       "onboard_time": 1681097789,
       "rank": 15,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 462572,
-      "num": 462572,
-      "word": "被偷五年的小狗自己回来了",
-      "onboard_time": 1681101755,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 459759,
@@ -515,6 +515,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 374043,
+      "num": 374043,
+      "word": "如梦之梦",
+      "onboard_time": 1681102713,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373754,
       "num": 373754,
       "word": "华为连发三款手机新品",
@@ -529,14 +537,6 @@
       "onboard_time": 1681094305,
       "rank": 42,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 367566,
-      "num": 367566,
-      "word": "如梦之梦",
-      "onboard_time": 1681102713,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 363673,
@@ -667,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289683,
+      "num": 289683,
+      "word": "于和伟 街溜子",
+      "onboard_time": 1681103968,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288397,
       "num": 288397,
       "word": "A股进全面注册制时代",
@@ -721,6 +729,14 @@
       "onboard_time": 1681102533,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261611,
+      "num": 261611,
+      "word": "上班只是为了钱吗",
+      "onboard_time": 1681103014,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 259953,
@@ -784,6 +800,14 @@
       "word": "第一份工作其实没那么重要",
       "onboard_time": 1681053571,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 236812,
+      "num": 236812,
+      "word": "我的工资和我的假期一样少",
+      "onboard_time": 1681102413,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -859,14 +883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219371,
-      "num": 219371,
-      "word": "上班只是为了钱吗",
-      "onboard_time": 1681103014,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 215765,
       "num": 215765,
       "word": "梁友安金屋藏娇被发现",
@@ -907,6 +923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208038,
+      "num": 208038,
+      "word": "央华版如梦之梦十周年",
+      "onboard_time": 1681103552,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207103,
       "num": 207103,
       "word": "神隐德塔文待播剧景气指数第一",
@@ -929,6 +953,14 @@
       "onboard_time": 1681088068,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202605,
+      "num": 202605,
+      "word": "谭维维黑长直造型",
+      "onboard_time": 1681104389,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201914,
@@ -955,12 +987,36 @@
       "category": "科技"
     },
     {
-      "raw_hot": 200582,
-      "num": 200582,
-      "word": "央华版如梦之梦十周年",
-      "onboard_time": 1681103552,
-      "rank": 40,
+      "raw_hot": 199223,
+      "num": 199223,
+      "word": "白宇在不同的剧里打卡医院",
+      "onboard_time": 1681104627,
+      "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198730,
+      "num": 198730,
+      "word": "五福星",
+      "onboard_time": 1681104389,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198129,
+      "num": 198129,
+      "word": "林俊杰出道20周年",
+      "onboard_time": 1681103909,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197599,
+      "num": 197599,
+      "word": "王源正在筹备自己的首次巡回演唱会",
+      "onboard_time": 1681102771,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 197436,
@@ -995,19 +1051,19 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 196587,
-      "num": 196587,
-      "word": "王源正在筹备自己的首次巡回演唱会",
-      "onboard_time": 1681102771,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 195953,
       "num": 195953,
       "word": "王一博长空之王我们这代人预告",
       "onboard_time": 1681093767,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195214,
+      "num": 195214,
+      "word": "笛安给龙城读者的一封信",
+      "onboard_time": 1681104089,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -1059,12 +1115,12 @@
       "category": "艺人,影视"
     },
     {
-      "raw_hot": 191657,
-      "num": 191657,
-      "word": "我的工资和我的假期一样少",
-      "onboard_time": 1681102413,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 191034,
+      "num": 198944,
+      "word": "BoysPlanet选手的年龄",
+      "onboard_time": 1681104151,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 189753,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1681100974,
       "rank": 45,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 189402,
+      "num": 189402,
+      "word": "pledis称SEVENTEEN此次回归为历代级",
+      "onboard_time": 1681104750,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 188348,
@@ -1145,6 +1209,14 @@
       "onboard_time": 1681102294,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185963,
+      "num": 198758,
+      "word": "五一就是拼凑起来的假期吧",
+      "onboard_time": 1681104151,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 185587,
@@ -1636,6 +1708,9 @@
     },
     {
       "word": "#中法元首会晤的三个关键词#"
+    },
+    {
+      "word": "#聚焦第三届消博会#"
     }
   ]
 }
