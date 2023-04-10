@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681100449357,
+  "endTime": 1681101279109,
   "band_list": [
     {
       "raw_hot": 2970044,
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1306370,
+      "num": 1306370,
+      "word": "原来真有大学生不会骑电车",
+      "onboard_time": 1681096949,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1269304,
       "num": 1269304,
       "word": "面试时撒过最大的谎是什么",
       "onboard_time": 1681090466,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1185744,
-      "num": 1185744,
-      "word": "原来真有大学生不会骑电车",
-      "onboard_time": 1681096949,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 1113597,
@@ -91,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 884833,
+      "num": 376096,
+      "word": "玫珂菲 成毅",
+      "onboard_time": 1681099951,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 854047,
       "num": 854047,
       "word": "上海辟谣一大巴载市委及家属旅游团",
@@ -115,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 820714,
-      "num": 820714,
+      "raw_hot": 829481,
+      "num": 829481,
       "word": "周雨彤签约壹心",
       "onboard_time": 1681096529,
       "rank": 36,
@@ -145,6 +153,14 @@
       "onboard_time": 1681093106,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745871,
+      "num": 745871,
+      "word": "今年的假期余额只剩6天了",
+      "onboard_time": 1681098928,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 710549,
@@ -196,11 +212,27 @@
     },
     {
       "raw_hot": 655808,
-      "num": 379351,
+      "num": 396206,
       "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
       "onboard_time": 1681096409,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651718,
+      "num": 651718,
+      "word": "西湖醋鱼换鱼了",
+      "onboard_time": 1681097008,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 637831,
+      "num": 637831,
+      "word": "五一上班3倍其余四天2倍工资",
+      "onboard_time": 1681099410,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 635373,
@@ -219,8 +251,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 615790,
-      "num": 563971,
+      "raw_hot": 619979,
+      "num": 619979,
       "word": "张艺兴牵羊",
       "onboard_time": 1681098567,
       "rank": 11,
@@ -233,14 +265,6 @@
       "onboard_time": 1681047812,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 605513,
-      "num": 605513,
-      "word": "西湖醋鱼换鱼了",
-      "onboard_time": 1681097008,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 579352,
@@ -355,14 +379,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 463230,
-      "num": 463230,
-      "word": "今年的假期余额只剩6天了",
-      "onboard_time": 1681098928,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 459759,
       "num": 332521,
       "word": "宋三川尿检结果异常",
@@ -435,12 +451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 376096,
-      "num": 376096,
-      "word": "玫珂菲 成毅",
-      "onboard_time": 1681099951,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 396545,
+      "num": 396545,
+      "word": "女生穿洛丽塔5秒反超跑第1",
+      "onboard_time": 1681099588,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393021,
+      "num": 393021,
+      "word": "曾妄议台湾问题的日军官坠机下落不明",
+      "onboard_time": 1681099111,
+      "rank": 23,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 373754,
@@ -499,20 +523,20 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 324348,
+      "num": 324348,
+      "word": "湖南邵阳路边打人事件",
+      "onboard_time": 1681100193,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 322912,
       "num": 284951,
       "word": "论文很烂但致谢被老师夸了",
       "onboard_time": 1681048411,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 320798,
-      "num": 320798,
-      "word": "曾妄议台湾问题的日军官坠机下落不明",
-      "onboard_time": 1681099111,
-      "rank": 23,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 318550,
@@ -537,6 +561,14 @@
       "onboard_time": 1681095024,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 311388,
+      "num": 311388,
+      "word": "易烊千玺称自己没把偶像当身份",
+      "onboard_time": 1681099651,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303361,
@@ -603,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279773,
+      "num": 279773,
+      "word": "UNINE成员聚会合照",
+      "onboard_time": 1681100011,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273545,
       "num": 273545,
       "word": "张彬彬代旭新剧官宣杀青",
@@ -627,14 +667,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 256301,
-      "num": 256301,
-      "word": "五一上班3倍其余四天2倍工资",
-      "onboard_time": 1681099410,
-      "rank": 31,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 255648,
       "num": 255648,
       "word": "过度超前消费有多可怕",
@@ -649,22 +681,6 @@
       "onboard_time": 1681091066,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248317,
-      "num": 248317,
-      "word": "易烊千玺称自己没把偶像当身份",
-      "onboard_time": 1681099651,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 243410,
-      "num": 243410,
-      "word": "女生穿洛丽塔5秒反超跑第1",
-      "onboard_time": 1681099588,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241356,
@@ -699,8 +715,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 233517,
-      "num": 233517,
+      "raw_hot": 235186,
+      "num": 235186,
       "word": "坐端正睡觉的猫咪",
       "onboard_time": 1681098267,
       "rank": 36,
@@ -723,16 +739,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 228093,
-      "num": 228093,
-      "word": "UNINE成员聚会合照",
-      "onboard_time": 1681100011,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 225188,
-      "num": 225188,
+      "raw_hot": 228636,
+      "num": 228636,
       "word": "金鼎轩回应被叫中年男人庇护所",
       "onboard_time": 1681098688,
       "rank": 38,
@@ -771,12 +779,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 215765,
+      "num": 215765,
+      "word": "梁友安金屋藏娇被发现",
+      "onboard_time": 1681099410,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213247,
       "num": 213247,
       "word": "湖人附加赛将对阵森林狼",
       "onboard_time": 1681083624,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213178,
+      "num": 213178,
+      "word": "马伊琍新剧长发齐刘海造型",
+      "onboard_time": 1681100369,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210492,
@@ -899,6 +923,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193249,
+      "num": 193249,
+      "word": "今年五一十大热门旅游城市",
+      "onboard_time": 1681100673,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 193102,
+      "num": 193102,
+      "word": "电影远大前程杀青",
+      "onboard_time": 1681101092,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192173,
       "num": 192173,
       "word": "张晋拍动作戏受伤",
@@ -907,12 +947,12 @@
       "category": "艺人,影视"
     },
     {
-      "raw_hot": 190754,
-      "num": 190754,
-      "word": "梁友安金屋藏娇被发现",
-      "onboard_time": 1681099410,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 189753,
+      "num": 189753,
+      "word": "王源杂志",
+      "onboard_time": 1681100974,
+      "rank": 45,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 188348,
@@ -963,12 +1003,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 183627,
-      "num": 180095,
-      "word": "马伊琍新剧长发齐刘海造型",
-      "onboard_time": 1681100369,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 185587,
+      "num": 185587,
+      "word": "五一5天小客车免费通行",
+      "onboard_time": 1681100492,
+      "rank": 46,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 180425,
@@ -1009,14 +1049,6 @@
       "onboard_time": 1681081939,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175865,
-      "num": 175865,
-      "word": "湖南邵阳路边打人事件",
-      "onboard_time": 1681100193,
-      "rank": 47,
-      "category": "社会负面"
     },
     {
       "raw_hot": 175682,
@@ -1064,6 +1096,14 @@
       "word": "小S去看张惠妹演唱会了",
       "onboard_time": 1681082119,
       "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 169333,
+      "num": 169333,
+      "word": "张杰演唱会",
+      "onboard_time": 1681101273,
+      "rank": 48,
       "category": "音乐"
     },
     {

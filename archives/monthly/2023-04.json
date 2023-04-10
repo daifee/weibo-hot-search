@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681100449357,
+  "endTime": 1681101279109,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1555,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1306370,
+      "num": 1306370,
+      "word": "原来真有大学生不会骑电车",
+      "onboard_time": 1681096949,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1304633,
       "num": 1304633,
       "word": "代号鸢",
@@ -1721,14 +1729,6 @@
       "onboard_time": 1680773430,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1185744,
-      "num": 1185744,
-      "word": "原来真有大学生不会骑电车",
-      "onboard_time": 1681096949,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 1184693,
@@ -2587,6 +2587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 884833,
+      "num": 376096,
+      "word": "玫珂菲 成毅",
+      "onboard_time": 1681099951,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 884026,
       "num": 884026,
       "word": "董志民致小花梅精神分裂",
@@ -2947,6 +2955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 829481,
+      "num": 829481,
+      "word": "周雨彤签约壹心",
+      "onboard_time": 1681096529,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 828867,
       "num": 396953,
       "word": "律师建议张继科不要逃避",
@@ -2985,14 +3001,6 @@
       "onboard_time": 1680851008,
       "rank": 24,
       "category": "其它"
-    },
-    {
-      "raw_hot": 820714,
-      "num": 820714,
-      "word": "周雨彤签约壹心",
-      "onboard_time": 1681096529,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 819130,
@@ -3361,6 +3369,14 @@
       "onboard_time": 1680842855,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 745871,
+      "num": 745871,
+      "word": "今年的假期余额只剩6天了",
+      "onboard_time": 1681098928,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 744478,
@@ -4020,7 +4036,7 @@
     },
     {
       "raw_hot": 655808,
-      "num": 379351,
+      "num": 396206,
       "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
       "onboard_time": 1681096409,
       "rank": 34,
@@ -4049,6 +4065,14 @@
       "onboard_time": 1681017148,
       "rank": 41,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 651718,
+      "num": 651718,
+      "word": "西湖醋鱼换鱼了",
+      "onboard_time": 1681097008,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 651346,
@@ -4177,6 +4201,14 @@
       "onboard_time": 1680955166,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 637831,
+      "num": 637831,
+      "word": "五一上班3倍其余四天2倍工资",
+      "onboard_time": 1681099410,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 636812,
@@ -4363,6 +4395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 619979,
+      "num": 619979,
+      "word": "张艺兴牵羊",
+      "onboard_time": 1681098567,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619907,
       "num": 619907,
       "word": "男孩扫墓跪求奶奶保佑不写作业不挨打",
@@ -4377,14 +4417,6 @@
       "onboard_time": 1680336331,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 615790,
-      "num": 563971,
-      "word": "张艺兴牵羊",
-      "onboard_time": 1681098567,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 614234,
@@ -4449,14 +4481,6 @@
       "onboard_time": 1680781409,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 605513,
-      "num": 605513,
-      "word": "西湖醋鱼换鱼了",
-      "onboard_time": 1681097008,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 603762,
@@ -6123,14 +6147,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 463230,
-      "num": 463230,
-      "word": "今年的假期余额只剩6天了",
-      "onboard_time": 1681098928,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 463056,
       "num": 463056,
       "word": "秋穗",
@@ -7155,6 +7171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 396545,
+      "num": 396545,
+      "word": "女生穿洛丽塔5秒反超跑第1",
+      "onboard_time": 1681099588,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395425,
       "num": 395425,
       "word": "研究称高脂饮食自由或将实现",
@@ -7233,6 +7257,14 @@
       "onboard_time": 1680782009,
       "rank": 16,
       "category": "自然"
+    },
+    {
+      "raw_hot": 393021,
+      "num": 393021,
+      "word": "曾妄议台湾问题的日军官坠机下落不明",
+      "onboard_time": 1681099111,
+      "rank": 23,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 393014,
@@ -7521,14 +7553,6 @@
       "onboard_time": 1680669692,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 376096,
-      "num": 376096,
-      "word": "玫珂菲 成毅",
-      "onboard_time": 1681099951,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 375457,
@@ -8659,6 +8683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324348,
+      "num": 324348,
+      "word": "湖南邵阳路边打人事件",
+      "onboard_time": 1681100193,
+      "rank": 47,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 323829,
       "num": 323829,
       "word": "4AM夺冠",
@@ -8713,14 +8745,6 @@
       "onboard_time": 1680836845,
       "rank": 30,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 320798,
-      "num": 320798,
-      "word": "曾妄议台湾问题的日军官坠机下落不明",
-      "onboard_time": 1681099111,
-      "rank": 23,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 320634,
@@ -8977,6 +9001,14 @@
       "onboard_time": 1680651560,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311388,
+      "num": 311388,
+      "word": "易烊千玺称自己没把偶像当身份",
+      "onboard_time": 1681099651,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 311142,
@@ -9891,6 +9923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 279773,
+      "num": 279773,
+      "word": "UNINE成员聚会合照",
+      "onboard_time": 1681100011,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279640,
       "num": 279640,
       "word": "网红景点vs去了以后",
@@ -10675,14 +10715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 256301,
-      "num": 256301,
-      "word": "五一上班3倍其余四天2倍工资",
-      "onboard_time": 1681099410,
-      "rank": 31,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 256159,
       "num": 256159,
       "word": "13岁男孩患急性脑脊髓炎突然瘫痪",
@@ -10971,14 +11003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248317,
-      "num": 248317,
-      "word": "易烊千玺称自己没把偶像当身份",
-      "onboard_time": 1681099651,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 248015,
       "num": 194636,
       "word": "真的还是假的",
@@ -11137,14 +11161,6 @@
       "onboard_time": 1680844951,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243410,
-      "num": 243410,
-      "word": "女生穿洛丽塔5秒反超跑第1",
-      "onboard_time": 1681099588,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243407,
@@ -11475,6 +11491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235186,
+      "num": 235186,
+      "word": "坐端正睡觉的猫咪",
+      "onboard_time": 1681098267,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 235171,
       "num": 235171,
       "word": "张杰武汉站演唱会官宣加场",
@@ -11545,14 +11569,6 @@
       "onboard_time": 1680520414,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233517,
-      "num": 233517,
-      "word": "坐端正睡觉的猫咪",
-      "onboard_time": 1681098267,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 233035,
@@ -11803,6 +11819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228636,
+      "num": 228636,
+      "word": "金鼎轩回应被叫中年男人庇护所",
+      "onboard_time": 1681098688,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228484,
       "num": 228484,
       "word": "EXO再唱咆哮",
@@ -11833,14 +11857,6 @@
       "onboard_time": 1680842011,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228093,
-      "num": 228093,
-      "word": "UNINE成员聚会合照",
-      "onboard_time": 1681100011,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 227868,
@@ -11977,14 +11993,6 @@
       "onboard_time": 1680694293,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 225188,
-      "num": 225188,
-      "word": "金鼎轩回应被叫中年男人庇护所",
-      "onboard_time": 1681098688,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224824,
@@ -12483,6 +12491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 215765,
+      "num": 215765,
+      "word": "梁友安金屋藏娇被发现",
+      "onboard_time": 1681099410,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215583,
       "num": 215583,
       "word": "四月",
@@ -12617,6 +12633,14 @@
       "onboard_time": 1680855867,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213178,
+      "num": 213178,
+      "word": "马伊琍新剧长发齐刘海造型",
+      "onboard_time": 1681100369,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213173,
@@ -15291,6 +15315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 193249,
+      "num": 193249,
+      "word": "今年五一十大热门旅游城市",
+      "onboard_time": 1681100673,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 193172,
       "num": 193172,
       "word": "哈哈哈哈哈",
@@ -15321,6 +15353,14 @@
       "onboard_time": 1680329429,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193102,
+      "num": 193102,
+      "word": "电影远大前程杀青",
+      "onboard_time": 1681101092,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 193040,
@@ -15571,14 +15611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 190754,
-      "num": 190754,
-      "word": "梁友安金屋藏娇被发现",
-      "onboard_time": 1681099410,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190696,
       "num": 190696,
       "word": "赛琳娜为霉霉应援",
@@ -15737,6 +15769,14 @@
       "onboard_time": 1680858090,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189753,
+      "num": 189753,
+      "word": "王源杂志",
+      "onboard_time": 1681100974,
+      "rank": 45,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 189709,
@@ -16227,6 +16267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185587,
+      "num": 185587,
+      "word": "五一5天小客车免费通行",
+      "onboard_time": 1681100492,
+      "rank": 46,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 185519,
       "num": 185519,
       "word": "WB对战狼队",
@@ -16425,14 +16473,6 @@
       "onboard_time": 1680833967,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183627,
-      "num": 180095,
-      "word": "马伊琍新剧长发齐刘海造型",
-      "onboard_time": 1681100369,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183611,
@@ -17009,14 +17049,6 @@
       "onboard_time": 1680962910,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175865,
-      "num": 175865,
-      "word": "湖南邵阳路边打人事件",
-      "onboard_time": 1681100193,
-      "rank": 47,
-      "category": "社会负面"
     },
     {
       "raw_hot": 175763,
