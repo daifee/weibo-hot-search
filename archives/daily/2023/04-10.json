@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681122806572,
+  "endTime": 1681125232889,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -75,6 +75,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1608508,
+      "num": 1608508,
+      "word": "石楠花好臭",
+      "onboard_time": 1681122988,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1536049,
       "num": 1536049,
       "word": "今年五一实际只放一天",
@@ -120,6 +128,14 @@
       "word": "长月烬明被删掉18集",
       "onboard_time": 1681113568,
       "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1130933,
+      "num": 1130933,
+      "word": "杨幂关雪定妆照",
+      "onboard_time": 1681122567,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -265,6 +281,14 @@
       "onboard_time": 1681049553,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 769958,
+      "num": 568234,
+      "word": "网友P瘦了的沈腾",
+      "onboard_time": 1681122027,
+      "rank": 18,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 766265,
@@ -659,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452672,
+      "num": 452672,
+      "word": "张元英part",
+      "onboard_time": 1681122988,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 438785,
       "num": 438785,
       "word": "上海海事大学称举报均不属实",
@@ -803,14 +835,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 371140,
-      "num": 371140,
-      "word": "杨幂关雪定妆照",
-      "onboard_time": 1681122567,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 367686,
       "num": 367686,
       "word": "女子起诉邻居装可视门铃法院判拆除",
@@ -843,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 355378,
-      "num": 355378,
-      "word": "网友P瘦了的沈腾",
-      "onboard_time": 1681122027,
-      "rank": 18,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 354690,
       "num": 354690,
       "word": "易烊千玺对镜头打招呼",
@@ -867,6 +883,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 344287,
+      "num": 972866,
+      "word": "隧道内百余辆车45度让出救援通道",
+      "onboard_time": 1681120827,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 343533,
       "num": 343533,
       "word": "顾客称吃85度C三明治发现番茄长毛",
@@ -881,14 +905,6 @@
       "onboard_time": 1681104750,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 342673,
-      "num": 972866,
-      "word": "隧道内百余辆车45度让出救援通道",
-      "onboard_time": 1681120827,
-      "rank": 4,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 331519,
@@ -1051,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284094,
+      "num": 284094,
+      "word": "澹台烬放财神爷一马",
+      "onboard_time": 1681120888,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 282076,
       "num": 282076,
       "word": "森林狼内讧",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1681097609,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269918,
+      "num": 269918,
+      "word": "你是想要正常双休还是调休凑小长假",
+      "onboard_time": 1681124068,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262546,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1681109128,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255909,
-      "num": 236147,
-      "word": "澹台烬放财神爷一马",
-      "onboard_time": 1681120888,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 255648,
@@ -1171,11 +1195,35 @@
       "category": "军事"
     },
     {
+      "raw_hot": 245321,
+      "num": 245321,
+      "word": "同居不同房的情侣是怎样的",
+      "onboard_time": 1681124546,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 242292,
+      "num": 242292,
+      "word": "读书是为了赚钱吗",
+      "onboard_time": 1681118787,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241356,
       "num": 241356,
       "word": "长月烬明新副本细节",
       "onboard_time": 1681089085,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 240706,
+      "num": 240706,
+      "word": "TVB律政剧法言人开播",
+      "onboard_time": 1681123765,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -1403,6 +1451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211067,
+      "num": 211067,
+      "word": "陈晓十六问高加林",
+      "onboard_time": 1681124186,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210492,
       "num": 210492,
       "word": "神隐全员动物设定",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1681096709,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206834,
+      "num": 206834,
+      "word": "王俊凯在镜子上签名",
+      "onboard_time": 1681124247,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 206080,
@@ -1939,14 +2003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174613,
-      "num": 174613,
-      "word": "读书是为了赚钱吗",
-      "onboard_time": 1681118787,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174186,
       "num": 174186,
       "word": "罗云熙冥夜转场视频",
@@ -2009,6 +2065,14 @@
       "onboard_time": 1681050089,
       "rank": 31,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 162099,
+      "num": 162099,
+      "word": "张凌赫陈哲远同框路透",
+      "onboard_time": 1681123465,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 161895,
@@ -2105,6 +2169,22 @@
       "onboard_time": 1681089208,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146439,
+      "num": 850217,
+      "word": "七旬奶奶说认真做书的温度会被看见",
+      "onboard_time": 1681120827,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 145842,
+      "num": 145842,
+      "word": "如何有效打击乡村赌博",
+      "onboard_time": 1681125145,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145273,
@@ -2267,6 +2347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124729,
+      "num": 124729,
+      "word": "五一当天三倍工资你愿意加班吗",
+      "onboard_time": 1681125145,
+      "rank": 45,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 122094,
       "num": 122094,
       "word": "苏有朋留胡子了",
@@ -2321,6 +2409,14 @@
       "onboard_time": 1681040125,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108437,
+      "num": 108437,
+      "word": "环台岛战备警巡和演习圆满完成",
+      "onboard_time": 1681125206,
+      "rank": 48,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 108043,
@@ -2379,12 +2475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97136,
-      "num": 821496,
-      "word": "七旬奶奶说认真做书的温度会被看见",
-      "onboard_time": 1681120827,
-      "rank": 6,
-      "category": "社会正能量"
+      "raw_hot": 95346,
+      "num": 105807,
+      "word": "可乐炒泡面",
+      "onboard_time": 1681124247,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 94166,

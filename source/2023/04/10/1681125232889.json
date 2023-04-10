@@ -1,0 +1,410 @@
+{
+  "runTime": 1681125232889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1884809,
+        "num": 1884809,
+        "word": "中国留学生称广岛原爆同情不起来",
+        "onboard_time": 1681117109,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1608508,
+        "num": 1608508,
+        "word": "石楠花好臭",
+        "onboard_time": 1681122988,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23501,
+        "num": 1158558,
+        "word": "2023第100天",
+        "onboard_time": 1681082540,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130933,
+        "num": 1130933,
+        "word": "杨幂关雪定妆照",
+        "onboard_time": 1681122567,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344287,
+        "num": 963633,
+        "word": "隧道内百余辆车45度让出救援通道",
+        "onboard_time": 1681120827,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 853991,
+        "num": 853991,
+        "word": "今年五一实际只放一天",
+        "onboard_time": 1681113988,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146439,
+        "num": 850217,
+        "word": "七旬奶奶说认真做书的温度会被看见",
+        "onboard_time": 1681120827,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 848623,
+        "num": 848623,
+        "word": "难听",
+        "onboard_time": 1681120827,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 803245,
+        "num": 803245,
+        "word": "竹筒奶茶 发霉",
+        "onboard_time": 1681113447,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 595622,
+        "num": 595622,
+        "word": "长月烬明被删掉18集",
+        "onboard_time": 1681113568,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 769958,
+        "num": 568234,
+        "word": "网友P瘦了的沈腾",
+        "onboard_time": 1681122027,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 456488,
+        "num": 456488,
+        "word": "淄博政府反应也好快",
+        "onboard_time": 1681114408,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452672,
+        "num": 452672,
+        "word": "张元英part",
+        "onboard_time": 1681122988,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 448149,
+        "num": 448149,
+        "word": "Liz瘦了",
+        "onboard_time": 1681121426,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433826,
+        "num": 433826,
+        "word": "倪妮生图",
+        "onboard_time": 1681117290,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346195,
+        "num": 346195,
+        "word": "薛之谦演唱会门票",
+        "onboard_time": 1681120348,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 345936,
+        "num": 345936,
+        "word": "KnowKnow道歉",
+        "onboard_time": 1681118248,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300033,
+        "num": 300033,
+        "word": "浙大着火",
+        "onboard_time": 1681108227,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284094,
+        "num": 284094,
+        "word": "澹台烬放财神爷一马",
+        "onboard_time": 1681120888,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283981,
+        "num": 283981,
+        "word": "演员吴耀汉去世",
+        "onboard_time": 1681101517,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269918,
+        "num": 269918,
+        "word": "你是想要正常双休还是调休凑小长假",
+        "onboard_time": 1681124068,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258515,
+        "num": 258515,
+        "word": "IVE主打曲iam",
+        "onboard_time": 1681114110,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245321,
+        "num": 245321,
+        "word": "同居不同房的情侣是怎样的",
+        "onboard_time": 1681124546,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242292,
+        "num": 242292,
+        "word": "读书是为了赚钱吗",
+        "onboard_time": 1681118787,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240706,
+        "num": 240706,
+        "word": "TVB律政剧法言人开播",
+        "onboard_time": 1681123765,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228348,
+        "num": 228348,
+        "word": "香港顶流姜涛直拍",
+        "onboard_time": 1681115609,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227763,
+        "num": 227763,
+        "word": "广东人最近穿黄色绿色衣服要留心",
+        "onboard_time": 1681119088,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211067,
+        "num": 211067,
+        "word": "陈晓十六问高加林",
+        "onboard_time": 1681124186,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206834,
+        "num": 206834,
+        "word": "王俊凯在镜子上签名",
+        "onboard_time": 1681124247,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196797,
+        "num": 196797,
+        "word": "男孩玩滑索坠湖父亲营救不幸遇难",
+        "onboard_time": 1681111228,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189710,
+        "num": 189710,
+        "word": "周杰伦香港演唱会",
+        "onboard_time": 1681119625,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184001,
+        "num": 184001,
+        "word": "韩国酵母",
+        "onboard_time": 1681117825,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178408,
+        "num": 178408,
+        "word": "天府绿道两骑行者相撞1人死亡",
+        "onboard_time": 1681118308,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 177383,
+        "num": 177383,
+        "word": "今年的假期余额只剩6天了",
+        "onboard_time": 1681098928,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176487,
+        "num": 176487,
+        "word": "广西人4月可以多放3天假",
+        "onboard_time": 1681119508,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169894,
+        "num": 169894,
+        "word": "淄博烧烤专列上车空手下车兜着走",
+        "onboard_time": 1681115309,
+        "rank": 35,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 162099,
+        "num": 162099,
+        "word": "张凌赫陈哲远同框路透",
+        "onboard_time": 1681123465,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153173,
+        "num": 153173,
+        "word": "迪丽热巴金世佳 利剑玫瑰",
+        "onboard_time": 1681099169,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149541,
+        "num": 149541,
+        "word": "任嘉伦直播",
+        "onboard_time": 1681122448,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145842,
+        "num": 145842,
+        "word": "如何有效打击乡村赌博",
+        "onboard_time": 1681125145,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142507,
+        "num": 142507,
+        "word": "巩俐 于佩尔",
+        "onboard_time": 1681112729,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138276,
+        "num": 138276,
+        "word": "除了卡针还能用什么取SIM卡",
+        "onboard_time": 1681118188,
+        "rank": 41,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 132901,
+        "num": 132901,
+        "word": "梁友安坦白自己不能生孩子",
+        "onboard_time": 1681107207,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126930,
+        "num": 126930,
+        "word": "原神绮良良",
+        "onboard_time": 1681117648,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126510,
+        "num": 126510,
+        "word": "易烊千玺单手摘眼镜",
+        "onboard_time": 1681109307,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124729,
+        "num": 124729,
+        "word": "五一当天三倍工资你愿意加班吗",
+        "onboard_time": 1681125145,
+        "rank": 45,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 120172,
+        "num": 120172,
+        "word": "赵丽颖早期旧照",
+        "onboard_time": 1681110393,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116056,
+        "num": 116056,
+        "word": "满江红第三次延长上映",
+        "onboard_time": 1681113929,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108437,
+        "num": 108437,
+        "word": "环台岛战备警巡和演习圆满完成",
+        "onboard_time": 1681125206,
+        "rank": 48,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 95346,
+        "num": 105807,
+        "word": "可乐炒泡面",
+        "onboard_time": 1681124247,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首会晤上满满岭南元素#"
+    }
+  }
+}
