@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681139773335,
+  "endTime": 1681140817934,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -195,6 +195,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1096065,
+      "num": 1096065,
+      "word": "被当街踹倒女子好友发声",
+      "onboard_time": 1681136310,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1074016,
       "num": 1074016,
       "word": "淄博政府反应也好快",
@@ -217,14 +225,6 @@
       "onboard_time": 1681098928,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 977353,
-      "num": 977353,
-      "word": "被当街踹倒女子好友发声",
-      "onboard_time": 1681136310,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 944993,
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 689285,
+      "num": 689285,
+      "word": "高加林终于知道顶替真相",
+      "onboard_time": 1681136490,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 686596,
       "num": 686596,
       "word": "30元竹筒奶茶是智商税吗",
@@ -465,14 +473,6 @@
       "onboard_time": 1681105349,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 661201,
-      "num": 661201,
-      "word": "高加林终于知道顶替真相",
-      "onboard_time": 1681136490,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 655808,
@@ -593,6 +593,14 @@
       "onboard_time": 1681052131,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576753,
+      "num": 392539,
+      "word": "权志龙许允真中村一叶合照",
+      "onboard_time": 1681139552,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 570728,
@@ -929,6 +937,14 @@
       "onboard_time": 1681126106,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422758,
+      "num": 258460,
+      "word": "当香港人在东北买水果时",
+      "onboard_time": 1681138768,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 416170,
@@ -1299,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296536,
+      "num": 266809,
+      "word": "罗云熙打戏",
+      "onboard_time": 1681138948,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 295210,
       "num": 295210,
       "word": "时间夺走了杨洋的什么",
@@ -1403,14 +1427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 266809,
-      "num": 266809,
-      "word": "罗云熙打戏",
-      "onboard_time": 1681138948,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 265244,
       "num": 239943,
       "word": "白鹿武戏没做满意哭了",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1681095807,
       "rank": 37,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 258460,
-      "num": 258460,
-      "word": "当香港人在东北买水果时",
-      "onboard_time": 1681138768,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 257983,
@@ -1747,11 +1755,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218818,
+      "num": 218818,
+      "word": "因家长决策失误而耽误过大事",
+      "onboard_time": 1681138409,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218625,
       "num": 208483,
       "word": "白鹿看长月烬明剧本哭了无数次",
       "onboard_time": 1681115189,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218404,
+      "num": 218404,
+      "word": "长空之王雷宇和父母对话好心酸",
+      "onboard_time": 1681140508,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -2115,6 +2139,14 @@
       "category": "影视,游戏"
     },
     {
+      "raw_hot": 196671,
+      "num": 196671,
+      "word": "妍珍越来越甜了",
+      "onboard_time": 1681140148,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196619,
       "num": 196619,
       "word": "投资者对苹果头显缺乏信心原因",
@@ -2177,14 +2209,6 @@
       "onboard_time": 1681096648,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193898,
-      "num": 193898,
-      "word": "权志龙许允真中村一叶合照",
-      "onboard_time": 1681139552,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 193249,
@@ -2379,6 +2403,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 182615,
+      "num": 182615,
+      "word": "恋综cp都在长沙红人节合体了",
+      "onboard_time": 1681140390,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181427,
       "num": 151019,
       "word": "冥夜区别对待桑酒天欢",
@@ -2393,6 +2425,14 @@
       "onboard_time": 1681097186,
       "rank": 42,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 180138,
+      "num": 180138,
+      "word": "无刺榴莲",
+      "onboard_time": 1681138169,
+      "rank": 38,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 179520,
@@ -2425,22 +2465,6 @@
       "onboard_time": 1681099169,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 177354,
-      "num": 177354,
-      "word": "因家长决策失误而耽误过大事",
-      "onboard_time": 1681138409,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 176634,
-      "num": 176634,
-      "word": "无刺榴莲",
-      "onboard_time": 1681138169,
-      "rank": 38,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 176302,
@@ -2651,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149722,
+      "num": 149722,
+      "word": "seventeen知道徐明浩cos袋鼠的反应",
+      "onboard_time": 1681140447,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149653,
       "num": 149653,
       "word": "惊天救援王千源人物预告",
@@ -2745,6 +2777,14 @@
       "onboard_time": 1681125206,
       "rank": 48,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 142026,
+      "num": 152798,
+      "word": "沙尘暴 柳絮",
+      "onboard_time": 1681140090,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142020,
