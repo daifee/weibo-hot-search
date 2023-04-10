@@ -1,0 +1,410 @@
+{
+  "runTime": 1681132817813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2066540,
+        "num": 2066540,
+        "word": "五一当天三倍工资你愿意加班吗",
+        "onboard_time": 1681125145,
+        "rank": 0,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1076413,
+        "num": 1076413,
+        "word": "蒋依依红毯拍照把裙尾扯掉了",
+        "onboard_time": 1681129645,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95764,
+        "num": 843658,
+        "word": "运20机长回忆志愿军烈士回家路",
+        "onboard_time": 1681127846,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777586,
+        "num": 777586,
+        "word": "石楠花好臭",
+        "onboard_time": 1681122988,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 593238,
+        "num": 593238,
+        "word": "陈鑫海二公子",
+        "onboard_time": 1681131810,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 562924,
+        "num": 562924,
+        "word": "杨幂关雪定妆照",
+        "onboard_time": 1681122567,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 535587,
+        "num": 535587,
+        "word": "家属称男孩坠湖景区安全绳不规范",
+        "onboard_time": 1681129825,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512571,
+        "num": 512571,
+        "word": "比亚迪发布会",
+        "onboard_time": 1681128684,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 444765,
+        "num": 444765,
+        "word": "长月烬明预告",
+        "onboard_time": 1681127667,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229619,
+        "num": 424901,
+        "word": "四川西昌突发森林火灾",
+        "onboard_time": 1681126106,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606593,
+        "num": 424238,
+        "word": "网友P瘦了的沈腾",
+        "onboard_time": 1681122027,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 416876,
+        "num": 416876,
+        "word": "北京沙尘暴",
+        "onboard_time": 1681130007,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369561,
+        "num": 369561,
+        "word": "孙怡谈这一年的变化",
+        "onboard_time": 1681132707,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312037,
+        "num": 312037,
+        "word": "淄博政府反应也好快",
+        "onboard_time": 1681114408,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309805,
+        "num": 309805,
+        "word": "放个屁风筝",
+        "onboard_time": 1681129527,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302683,
+        "num": 302683,
+        "word": "肖战白色开衫造型",
+        "onboard_time": 1681127488,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 288029,
+        "num": 288029,
+        "word": "为什么有人上班可以很快乐",
+        "onboard_time": 1681130606,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 285126,
+        "num": 285126,
+        "word": "叶舒华 喜欢赚钱",
+        "onboard_time": 1681125687,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242553,
+        "num": 242553,
+        "word": "云辇",
+        "onboard_time": 1681130066,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 240885,
+        "num": 240885,
+        "word": "竹筒奶茶 发霉",
+        "onboard_time": 1681113447,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 689794,
+        "num": 238445,
+        "word": "同居不同房的情侣是怎样的",
+        "onboard_time": 1681124546,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421064,
+        "num": 236031,
+        "word": "中国留学生称广岛原爆同情不起来",
+        "onboard_time": 1681117109,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265244,
+        "num": 233319,
+        "word": "白鹿武戏没做满意哭了",
+        "onboard_time": 1681130126,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226294,
+        "num": 226294,
+        "word": "哈尔滨1944",
+        "onboard_time": 1681127547,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215044,
+        "num": 215044,
+        "word": "冥夜桑酒诀别",
+        "onboard_time": 1681130426,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511158,
+        "num": 212229,
+        "word": "今年五一实际只放一天",
+        "onboard_time": 1681113988,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209401,
+        "num": 209401,
+        "word": "跟老爸说买了墓地旁边的房子",
+        "onboard_time": 1681132047,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198004,
+        "num": 198004,
+        "word": "文俊辉尹净汉双人画报",
+        "onboard_time": 1681130545,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196260,
+        "num": 196260,
+        "word": "倪妮生图",
+        "onboard_time": 1681117290,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184612,
+        "num": 184612,
+        "word": "瘫痪女童复健3年能骑自行车了",
+        "onboard_time": 1681127308,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187505,
+        "num": 180785,
+        "word": "天欢我劝你善良",
+        "onboard_time": 1681132107,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226072,
+        "num": 177308,
+        "word": "上海一写字楼内1人被捅伤身亡",
+        "onboard_time": 1681132285,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173517,
+        "num": 173517,
+        "word": "金钟仁去修手机了",
+        "onboard_time": 1681127605,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165876,
+        "num": 165876,
+        "word": "Liz瘦了",
+        "onboard_time": 1681121426,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148598,
+        "num": 148598,
+        "word": "香港顶流姜涛直拍",
+        "onboard_time": 1681115609,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138681,
+        "num": 138681,
+        "word": "KnowKnow道歉",
+        "onboard_time": 1681118248,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135436,
+        "num": 135436,
+        "word": "张元英part",
+        "onboard_time": 1681122988,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181427,
+        "num": 134774,
+        "word": "冥夜区别对待桑酒天欢",
+        "onboard_time": 1681132107,
+        "rank": 37,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 130607,
+        "num": 130607,
+        "word": "你是想要正常双休还是调休凑小长假",
+        "onboard_time": 1681124068,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130388,
+        "num": 130388,
+        "word": "薛之谦演唱会门票",
+        "onboard_time": 1681120348,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128945,
+        "num": 128945,
+        "word": "演员吴耀汉去世",
+        "onboard_time": 1681101517,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122597,
+        "num": 122597,
+        "word": "IVE主打曲iam",
+        "onboard_time": 1681114110,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121436,
+        "num": 121436,
+        "word": "网购别再只会看销量了",
+        "onboard_time": 1681131927,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118631,
+        "num": 118631,
+        "word": "广东人最近穿黄色绿色衣服要留心",
+        "onboard_time": 1681119088,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116521,
+        "num": 116521,
+        "word": "周杰伦香港演唱会",
+        "onboard_time": 1681119625,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116485,
+        "num": 116485,
+        "word": "林俊杰出道20周年直播",
+        "onboard_time": 1681129645,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115896,
+        "num": 115896,
+        "word": "毛雪汪下期宋茜做客",
+        "onboard_time": 1681128447,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104733,
+        "num": 104733,
+        "word": "川大研究称善于社交更长寿",
+        "onboard_time": 1681132646,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102328,
+        "num": 102328,
+        "word": "原神绮良良",
+        "onboard_time": 1681117648,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61222,
+        "num": 101996,
+        "word": "可乐炒泡面",
+        "onboard_time": 1681124247,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦第三届消博会#"
+    }
+  }
+}
