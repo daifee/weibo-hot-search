@@ -1,0 +1,410 @@
+{
+  "runTime": 1681093878449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2745654,
+        "num": 2745654,
+        "word": "今年五一连休五天",
+        "onboard_time": 1681091305,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252905,
+        "num": 1252905,
+        "word": "面试时撒过最大的谎是什么",
+        "onboard_time": 1681090466,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46846,
+        "num": 737415,
+        "word": "这些旅游专列已发车",
+        "onboard_time": 1681042525,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637349,
+        "num": 637349,
+        "word": "在杭州西湖遭遇划船刺客",
+        "onboard_time": 1681090946,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563830,
+        "num": 563830,
+        "word": "2万块的iPhone15你会买吗",
+        "onboard_time": 1681091847,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 534236,
+        "num": 534236,
+        "word": "Kpop圈首位印度成员ARIA",
+        "onboard_time": 1681091305,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1804514,
+        "num": 529713,
+        "word": "iPhone15ProMax预计售价2万块",
+        "onboard_time": 1681088489,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 503078,
+        "num": 503078,
+        "word": "苏州新晋网红竹筒奶茶",
+        "onboard_time": 1681085008,
+        "rank": 7,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 451704,
+        "num": 451704,
+        "word": "军队文职",
+        "onboard_time": 1681092686,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 407085,
+        "num": 407085,
+        "word": "山西晋城为改善空气禁止露天烧烤",
+        "onboard_time": 1681088667,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905803,
+        "num": 406863,
+        "word": "林俊杰 听说最近很多人想帮我理财",
+        "onboard_time": 1681083383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578146,
+        "num": 406853,
+        "word": "李坤城去世",
+        "onboard_time": 1681052670,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 520514,
+        "num": 406733,
+        "word": "韩国称美国监听自己不会动摇韩美同盟",
+        "onboard_time": 1681091785,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 406530,
+        "num": 406530,
+        "word": "30元竹筒奶茶是智商税吗",
+        "onboard_time": 1681092686,
+        "rank": 13,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 384297,
+        "num": 384297,
+        "word": "在美流浪32年老人回国后续",
+        "onboard_time": 1681088248,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373923,
+        "num": 373923,
+        "word": "李兰迪被鸟屎砸中",
+        "onboard_time": 1681086330,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354690,
+        "num": 354690,
+        "word": "易烊千玺对镜头打招呼",
+        "onboard_time": 1681092602,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331696,
+        "num": 331696,
+        "word": "林俊德去世前曾一次次拒绝儿子探望",
+        "onboard_time": 1681086086,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313473,
+        "num": 313473,
+        "word": "戈贝尔道歉",
+        "onboard_time": 1681088726,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302341,
+        "num": 302341,
+        "word": "华为连发三款手机新品",
+        "onboard_time": 1681092866,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 372011,
+        "num": 301473,
+        "word": "官方回应男子骂剖腹产妻子她疼她死",
+        "onboard_time": 1681047569,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 290841,
+        "num": 290841,
+        "word": "瑞丽通知泼水节可连休4天",
+        "onboard_time": 1681086628,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287531,
+        "num": 287531,
+        "word": "许嵩说我的外壳是冷的内心是热烈的",
+        "onboard_time": 1681091186,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 285360,
+        "num": 285360,
+        "word": "五一调休",
+        "onboard_time": 1681093106,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247034,
+        "num": 247034,
+        "word": "沈月回应青环比划猜有剧本",
+        "onboard_time": 1681091066,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240220,
+        "num": 240220,
+        "word": "想念澹台烬",
+        "onboard_time": 1681091066,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229158,
+        "num": 229158,
+        "word": "上海辟谣一大巴载市委及家属旅游团",
+        "onboard_time": 1681080917,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221713,
+        "num": 221713,
+        "word": "张艺谋第一次拍网剧",
+        "onboard_time": 1681052429,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220431,
+        "num": 220431,
+        "word": "徐明浩机场出发图",
+        "onboard_time": 1681091485,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201503,
+        "num": 201503,
+        "word": "重庆姐弟坠亡案",
+        "onboard_time": 1681082182,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200750,
+        "num": 200750,
+        "word": "手机市场为何还在下滑",
+        "onboard_time": 1681093407,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 195953,
+        "num": 195953,
+        "word": "王一博长空之王我们这代人预告",
+        "onboard_time": 1681093767,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194623,
+        "num": 194623,
+        "word": "五一假期出境游热度上升",
+        "onboard_time": 1681092866,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 193393,
+        "num": 193393,
+        "word": "林靖恩",
+        "onboard_time": 1681082721,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191153,
+        "num": 191153,
+        "word": "神隐杀青特辑",
+        "onboard_time": 1681093346,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187481,
+        "num": 187481,
+        "word": "晋江崩了",
+        "onboard_time": 1681093048,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186942,
+        "num": 186942,
+        "word": "极限挑战第九季阵容官宣",
+        "onboard_time": 1681093825,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186765,
+        "num": 186765,
+        "word": "曾黎火烧云裙造型",
+        "onboard_time": 1681083925,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178832,
+        "num": 178832,
+        "word": "长月烬明新副本细节",
+        "onboard_time": 1681089085,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175521,
+        "num": 175521,
+        "word": "男子骑车下班被拦路光纤线割喉住院",
+        "onboard_time": 1681085549,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173362,
+        "num": 173362,
+        "word": "范丞丞小鬼同框热聊",
+        "onboard_time": 1681091847,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171423,
+        "num": 171423,
+        "word": "冥夜说澹台烬马上回来",
+        "onboard_time": 1681093048,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165716,
+        "num": 165716,
+        "word": "论文很烂但致谢被老师夸了",
+        "onboard_time": 1681048411,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152692,
+        "num": 152692,
+        "word": "北京一小区电动车爆炸起火致2死1伤",
+        "onboard_time": 1681083023,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 148374,
+        "num": 148374,
+        "word": "田柾国近照",
+        "onboard_time": 1681084648,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144980,
+        "num": 144980,
+        "word": "冥夜嘴硬的下场",
+        "onboard_time": 1681093285,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142020,
+        "num": 142020,
+        "word": "王俊凯黑皮衣机场路透",
+        "onboard_time": 1681092748,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140865,
+        "num": 140865,
+        "word": "湖南邵阳警方通报男子当街踹倒女子",
+        "onboard_time": 1681084345,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130329,
+        "num": 130329,
+        "word": "金智秀翻牌小朋友新歌挑战",
+        "onboard_time": 1681088068,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126045,
+        "num": 126045,
+        "word": "李凯尔",
+        "onboard_time": 1681088008,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首会晤的三个关键词#"
+    }
+  }
+}
