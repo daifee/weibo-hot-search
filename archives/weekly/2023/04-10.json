@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681119208309,
+  "endTime": 1681121884936,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -41,6 +41,14 @@
       "onboard_time": 1681099169,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2278823,
+      "num": 2278823,
+      "word": "中国留学生称广岛原爆同情不起来",
+      "onboard_time": 1681117109,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2164948,
@@ -259,6 +267,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759997,
+      "num": 759997,
+      "word": "难听",
+      "onboard_time": 1681120827,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 750691,
+      "num": 750691,
+      "word": "KnowKnow道歉",
+      "onboard_time": 1681118248,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 710549,
       "num": 441397,
       "word": "王力宏霍建华林心如聚会",
@@ -281,14 +305,6 @@
       "onboard_time": 1681052429,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 701241,
-      "num": 701241,
-      "word": "中国留学生称广岛原爆同情不起来",
-      "onboard_time": 1681117109,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686596,
@@ -419,14 +435,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 579159,
-      "num": 579159,
-      "word": "KnowKnow道歉",
-      "onboard_time": 1681118248,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 578390,
       "num": 578390,
       "word": "贵州失联母子已平安找到",
@@ -465,6 +473,14 @@
       "onboard_time": 1681111228,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560762,
+      "num": 560762,
+      "word": "薛之谦演唱会门票",
+      "onboard_time": 1681120348,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 554915,
@@ -633,6 +649,14 @@
       "onboard_time": 1681095207,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 448758,
+      "num": 448758,
+      "word": "Liz瘦了",
+      "onboard_time": 1681121426,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 438785,
@@ -987,6 +1011,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286969,
+      "num": 286969,
+      "word": "韩国酵母",
+      "onboard_time": 1681117825,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 284437,
+      "num": 259988,
+      "word": "广东人最近穿黄色绿色衣服要留心",
+      "onboard_time": 1681119088,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282076,
       "num": 282076,
       "word": "森林狼内讧",
@@ -1123,6 +1163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238928,
+      "num": 238928,
+      "word": "天府绿道两骑行者相撞1人死亡",
+      "onboard_time": 1681118308,
+      "rank": 38,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 238014,
       "num": 238014,
       "word": "第一份工作其实没那么重要",
@@ -1153,14 +1201,6 @@
       "onboard_time": 1681098267,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 234971,
-      "num": 210003,
-      "word": "韩国酵母",
-      "onboard_time": 1681117825,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 234095,
@@ -1201,6 +1241,14 @@
       "onboard_time": 1681108107,
       "rank": 23,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 225685,
+      "num": 225685,
+      "word": "周杰伦香港演唱会",
+      "onboard_time": 1681119625,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 224976,
@@ -1275,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217514,
+      "num": 217514,
+      "word": "旅游特种兵",
+      "onboard_time": 1681119748,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216006,
       "num": 216006,
       "word": "花莲上空连传4声不明巨响",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1681099410,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215598,
+      "num": 215598,
+      "word": "原神绮良良",
+      "onboard_time": 1681117648,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 213247,
@@ -1369,14 +1433,6 @@
       "onboard_time": 1681089927,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203538,
-      "num": 203538,
-      "word": "原神绮良良",
-      "onboard_time": 1681117648,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 203473,
@@ -1507,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197977,
+      "num": 197977,
+      "word": "澹台烬放财神爷一马",
+      "onboard_time": 1681120888,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197599,
       "num": 197599,
       "word": "王源正在筹备自己的首次巡回演唱会",
@@ -1619,6 +1683,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 191400,
+      "num": 191400,
+      "word": "广西人4月可以多放3天假",
+      "onboard_time": 1681119508,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191034,
       "num": 198944,
       "word": "BoysPlanet选手的年龄",
@@ -1689,6 +1761,14 @@
       "onboard_time": 1681110268,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187584,
+      "num": 187584,
+      "word": "淄博烧烤专列上车空手下车兜着走",
+      "onboard_time": 1681115309,
+      "rank": 32,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 187434,
@@ -1787,12 +1867,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 176638,
-      "num": 176638,
-      "word": "淄博烧烤专列上车空手下车兜着走",
-      "onboard_time": 1681115309,
-      "rank": 32,
-      "category": "社会新闻,美食"
+      "raw_hot": 178720,
+      "num": 178720,
+      "word": "除了卡针还能用什么取SIM卡",
+      "onboard_time": 1681118188,
+      "rank": 47,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 176302,
@@ -1849,6 +1929,14 @@
       "onboard_time": 1681082119,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168921,
+      "num": 848354,
+      "word": "隧道内百余辆车45度让出救援通道",
+      "onboard_time": 1681120827,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 168073,
@@ -1955,14 +2043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149154,
-      "num": 170801,
-      "word": "天府绿道两骑行者相撞1人死亡",
-      "onboard_time": 1681118308,
-      "rank": 38,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 148457,
       "num": 148457,
       "word": "容易出错的跑姿你中招了吗",
@@ -1985,6 +2065,14 @@
       "onboard_time": 1681048769,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145158,
+      "num": 145158,
+      "word": "樱木花道是什么百搭cp体质",
+      "onboard_time": 1681120946,
+      "rank": 45,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 145103,
@@ -2033,14 +2121,6 @@
       "onboard_time": 1681110207,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141289,
-      "num": 170763,
-      "word": "除了卡针还能用什么取SIM卡",
-      "onboard_time": 1681118188,
-      "rank": 47,
-      "category": "科技,幽默"
     },
     {
       "raw_hot": 141078,
@@ -2097,6 +2177,14 @@
       "onboard_time": 1681084046,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130168,
+      "num": 130168,
+      "word": "主人带着狗狗划船过江",
+      "onboard_time": 1681121126,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 129269,
@@ -2171,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112706,
+      "num": 112706,
+      "word": "读书是为了赚钱吗",
+      "onboard_time": 1681118787,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110885,
       "num": 110885,
       "word": "燃烧的巴黎圣母院",
@@ -2243,14 +2339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95055,
-      "num": 95055,
-      "word": "广东人最近穿黄色绿色衣服要留心",
-      "onboard_time": 1681119088,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94166,
       "num": 94166,
       "word": "汪苏泷音乐节",
@@ -2305,6 +2393,14 @@
       "onboard_time": 1681048112,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69865,
+      "num": 821496,
+      "word": "七旬奶奶说认真做书的温度会被看见",
+      "onboard_time": 1681120827,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 67432,
