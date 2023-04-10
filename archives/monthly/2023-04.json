@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681146906614,
+  "endTime": 1681148008180,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -23947,6 +23947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 64027,
+      "num": 64027,
+      "word": "接受了永别却没忍住思念",
+      "onboard_time": 1681141825,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63920,
       "num": 63920,
       "word": "4月开机的电视剧",
@@ -24049,6 +24057,14 @@
       "onboard_time": 1680536791,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57090,
+      "num": 57090,
+      "word": "潘粤明消失的十一层合照",
+      "onboard_time": 1681147395,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 56815,
@@ -24161,14 +24177,6 @@
       "onboard_time": 1680728292,
       "rank": 37,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 44494,
-      "num": 44494,
-      "word": "接受了永别却没忍住思念",
-      "onboard_time": 1681141825,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 43997,
