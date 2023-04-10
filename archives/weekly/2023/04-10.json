@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681115649924,
+  "endTime": 1681118215461,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1440685,
+      "num": 1440685,
+      "word": "竹筒奶茶 发霉",
+      "onboard_time": 1681113447,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1306370,
       "num": 1306370,
       "word": "原来真有大学生不会骑电车",
@@ -91,16 +99,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1218193,
-      "num": 1218193,
-      "word": "竹筒奶茶 发霉",
-      "onboard_time": 1681113447,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 1131933,
-      "num": 1131933,
+      "raw_hot": 1190529,
+      "num": 1190529,
       "word": "长月烬明被删掉18集",
       "onboard_time": 1681113568,
       "rank": 6,
@@ -113,6 +113,22 @@
       "onboard_time": 1681085008,
       "rank": 1,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1074016,
+      "num": 1074016,
+      "word": "淄博政府反应也好快",
+      "onboard_time": 1681114408,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1052372,
+      "num": 1052372,
+      "word": "今年五一实际只放一天",
+      "onboard_time": 1681113988,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 991924,
@@ -187,6 +203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 845719,
+      "num": 845719,
+      "word": "IVE主打曲iam",
+      "onboard_time": 1681114110,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 831893,
       "num": 831893,
       "word": "极限挑战第九季阵容官宣",
@@ -209,14 +233,6 @@
       "onboard_time": 1681095448,
       "rank": 13,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 790830,
-      "num": 790830,
-      "word": "淄博政府反应也好快",
-      "onboard_time": 1681114408,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 779929,
@@ -329,6 +345,14 @@
       "onboard_time": 1681088248,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628086,
+      "num": 628086,
+      "word": "倪妮生图",
+      "onboard_time": 1681117290,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 627033,
@@ -451,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542846,
+      "num": 542846,
+      "word": "满江红第三次延长上映",
+      "onboard_time": 1681113929,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 540571,
       "num": 540571,
       "word": "又周一了",
@@ -497,6 +529,14 @@
       "onboard_time": 1681108706,
       "rank": 20,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 510448,
+      "num": 510448,
+      "word": "香港顶流姜涛直拍",
+      "onboard_time": 1681115609,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 506714,
@@ -579,12 +619,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 437979,
-      "num": 437979,
-      "word": "满江红第三次延长上映",
-      "onboard_time": 1681113929,
-      "rank": 15,
-      "category": "影视"
+      "raw_hot": 438785,
+      "num": 438785,
+      "word": "上海海事大学称举报均不属实",
+      "onboard_time": 1681113210,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 431142,
@@ -691,14 +731,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 384062,
-      "num": 384062,
-      "word": "上海海事大学称举报均不属实",
-      "onboard_time": 1681113210,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 377306,
       "num": 377306,
       "word": "卢洋洋陈鑫海想二搭",
@@ -795,11 +827,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331519,
+      "num": 331519,
+      "word": "王俊凯直播",
+      "onboard_time": 1681114408,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330373,
       "num": 330373,
       "word": "冥夜桑酒醉酒圆房",
       "onboard_time": 1681110447,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 329862,
+      "num": 236867,
+      "word": "去年是诀症今年是神烬病",
+      "onboard_time": 1681114467,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -859,14 +907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 312828,
-      "num": 312828,
-      "word": "王俊凯直播",
-      "onboard_time": 1681114408,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303361,
       "num": 303361,
       "word": "桑酒为救冥夜自愿献出仙髓",
@@ -905,14 +945,6 @@
       "onboard_time": 1681094606,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288989,
-      "num": 288989,
-      "word": "今年五一实际只放一天",
-      "onboard_time": 1681113988,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288397,
@@ -1043,6 +1075,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 242562,
+      "num": 242562,
+      "word": "无锡着火",
+      "onboard_time": 1681114288,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241356,
       "num": 241356,
       "word": "长月烬明新副本细节",
@@ -1123,6 +1163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229001,
+      "num": 229001,
+      "word": "中国留学生称广岛原爆同情不起来",
+      "onboard_time": 1681117109,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228636,
       "num": 228636,
       "word": "金鼎轩回应被叫中年男人庇护所",
@@ -1195,6 +1243,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 219130,
+      "num": 211014,
+      "word": "徐明浩黑色指甲",
+      "onboard_time": 1681115668,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216006,
       "num": 216006,
       "word": "花莲上空连传4声不明巨响",
@@ -1243,12 +1299,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 209146,
-      "num": 209146,
-      "word": "去年是诀症今年是神烬病",
-      "onboard_time": 1681114467,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 210003,
+      "num": 210003,
+      "word": "韩国酵母",
+      "onboard_time": 1681117825,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 208913,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1681055129,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208483,
+      "num": 208483,
+      "word": "白鹿看长月烬明剧本哭了无数次",
+      "onboard_time": 1681115189,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 208038,
@@ -1315,20 +1379,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 202339,
-      "num": 202339,
-      "word": "IVE主打曲iam",
-      "onboard_time": 1681114110,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 201914,
       "num": 201914,
       "word": "无锡苏州南京成五一热门赏花城市",
       "onboard_time": 1681103430,
       "rank": 39,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 201260,
+      "num": 201260,
+      "word": "周也线下活动生图",
+      "onboard_time": 1681117586,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200852,
@@ -1361,6 +1425,14 @@
       "onboard_time": 1681110393,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199781,
+      "num": 199781,
+      "word": "长月烬明特效",
+      "onboard_time": 1681117227,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 199223,
@@ -1537,6 +1609,14 @@
       "onboard_time": 1681100974,
       "rank": 45,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 189666,
+      "num": 201518,
+      "word": "北京柳絮",
+      "onboard_time": 1681117948,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189302,
@@ -1771,12 +1851,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 161441,
+      "num": 142238,
+      "word": "王鹤棣的健身房vlog",
+      "onboard_time": 1681118068,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161200,
       "num": 161200,
       "word": "EXO或将以LoveMeRight概念回归",
       "onboard_time": 1681044149,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161069,
+      "num": 161069,
+      "word": "淄博烧烤专列上车空手下车兜着走",
+      "onboard_time": 1681115309,
+      "rank": 32,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 157907,
@@ -1849,14 +1945,6 @@
       "onboard_time": 1681109847,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147540,
-      "num": 147540,
-      "word": "白鹿看长月烬明剧本哭了无数次",
-      "onboard_time": 1681115189,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 146536,
@@ -1937,6 +2025,14 @@
       "onboard_time": 1681034546,
       "rank": 36,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 140943,
+      "num": 140943,
+      "word": "原神绮良良",
+      "onboard_time": 1681117648,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 140230,
@@ -2043,14 +2139,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 117913,
-      "num": 117913,
-      "word": "无锡着火",
-      "onboard_time": 1681114288,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116903,
       "num": 116903,
       "word": "祝绪丹蓝色头纱造型",
@@ -2059,12 +2147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113635,
-      "num": 113635,
-      "word": "香港顶流姜涛直拍",
-      "onboard_time": 1681115609,
-      "rank": 48,
-      "category": "音乐"
+      "raw_hot": 111245,
+      "num": 111245,
+      "word": "除了卡针还能用什么取SIM卡",
+      "onboard_time": 1681118188,
+      "rank": 47,
+      "category": "科技,幽默"
     },
     {
       "raw_hot": 110885,

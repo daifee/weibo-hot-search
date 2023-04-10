@@ -1,0 +1,410 @@
+{
+  "runTime": 1681118215461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1440685,
+        "num": 1440685,
+        "word": "竹筒奶茶 发霉",
+        "onboard_time": 1681113447,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1190529,
+        "num": 1190529,
+        "word": "长月烬明被删掉18集",
+        "onboard_time": 1681113568,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42010,
+        "num": 1090710,
+        "word": "2023第100天",
+        "onboard_time": 1681082540,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1074016,
+        "num": 1074016,
+        "word": "淄博政府反应也好快",
+        "onboard_time": 1681114408,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052372,
+        "num": 1052372,
+        "word": "今年五一实际只放一天",
+        "onboard_time": 1681113988,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845719,
+        "num": 845719,
+        "word": "IVE主打曲iam",
+        "onboard_time": 1681114110,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 796910,
+        "num": 796910,
+        "word": "浙大着火",
+        "onboard_time": 1681108227,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721308,
+        "num": 721308,
+        "word": "演员吴耀汉去世",
+        "onboard_time": 1681101517,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628086,
+        "num": 628086,
+        "word": "倪妮生图",
+        "onboard_time": 1681117290,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 542846,
+        "num": 542846,
+        "word": "满江红第三次延长上映",
+        "onboard_time": 1681113929,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1733621,
+        "num": 539020,
+        "word": "李敏镐也没逃过韩国酵母",
+        "onboard_time": 1681111827,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 511441,
+        "num": 511441,
+        "word": "今年的假期余额只剩6天了",
+        "onboard_time": 1681098928,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 510448,
+        "num": 510448,
+        "word": "香港顶流姜涛直拍",
+        "onboard_time": 1681115609,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 438785,
+        "num": 438785,
+        "word": "上海海事大学称举报均不属实",
+        "onboard_time": 1681113210,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 408871,
+        "num": 408871,
+        "word": "男孩玩滑索坠湖父亲营救不幸遇难",
+        "onboard_time": 1681111228,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400046,
+        "num": 400046,
+        "word": "巩俐 于佩尔",
+        "onboard_time": 1681112729,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 331519,
+        "num": 331519,
+        "word": "王俊凯直播",
+        "onboard_time": 1681114408,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281934,
+        "num": 281934,
+        "word": "赵丽颖早期旧照",
+        "onboard_time": 1681110393,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242562,
+        "num": 242562,
+        "word": "无锡着火",
+        "onboard_time": 1681114288,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238947,
+        "num": 238947,
+        "word": "到底是谁发明了调休",
+        "onboard_time": 1681108706,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329862,
+        "num": 236867,
+        "word": "去年是诀症今年是神烬病",
+        "onboard_time": 1681114467,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234733,
+        "num": 234733,
+        "word": "原来真有大学生不会骑电车",
+        "onboard_time": 1681096949,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232623,
+        "num": 232623,
+        "word": "迪丽热巴金世佳 利剑玫瑰",
+        "onboard_time": 1681099169,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229001,
+        "num": 229001,
+        "word": "中国留学生称广岛原爆同情不起来",
+        "onboard_time": 1681117109,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211043,
+        "num": 211043,
+        "word": "被偷五年的小狗自己回来了",
+        "onboard_time": 1681101755,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219130,
+        "num": 211014,
+        "word": "徐明浩黑色指甲",
+        "onboard_time": 1681115668,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210003,
+        "num": 210003,
+        "word": "韩国酵母",
+        "onboard_time": 1681117825,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208768,
+        "num": 208768,
+        "word": "周杰伦起诉网易不正当竞争",
+        "onboard_time": 1681095266,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 208483,
+        "num": 208483,
+        "word": "白鹿看长月烬明剧本哭了无数次",
+        "onboard_time": 1681115189,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189666,
+        "num": 201518,
+        "word": "北京柳絮",
+        "onboard_time": 1681117948,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201260,
+        "num": 201260,
+        "word": "周也线下活动生图",
+        "onboard_time": 1681117586,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199781,
+        "num": 199781,
+        "word": "长月烬明特效",
+        "onboard_time": 1681117227,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161069,
+        "num": 161069,
+        "word": "淄博烧烤专列上车空手下车兜着走",
+        "onboard_time": 1681115309,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 187548,
+        "num": 159922,
+        "word": "冥夜桑酒醉酒圆房",
+        "onboard_time": 1681110447,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155389,
+        "num": 155389,
+        "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
+        "onboard_time": 1681096409,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180242,
+        "num": 151743,
+        "word": "张元英发布会生图",
+        "onboard_time": 1681113867,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170943,
+        "num": 148550,
+        "word": "易烊千玺单手摘眼镜",
+        "onboard_time": 1681109307,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163120,
+        "num": 147848,
+        "word": "梁友安坦白自己不能生孩子",
+        "onboard_time": 1681107207,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143468,
+        "num": 143468,
+        "word": "凌晨的火车上全是大学生",
+        "onboard_time": 1681101454,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142852,
+        "num": 142852,
+        "word": "只有大学生才明白的窒息",
+        "onboard_time": 1681106727,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 162039,
+        "num": 142420,
+        "word": "张杰演唱会门票谁抢走了",
+        "onboard_time": 1681105589,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161441,
+        "num": 142238,
+        "word": "王鹤棣的健身房vlog",
+        "onboard_time": 1681118068,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147133,
+        "num": 142128,
+        "word": "半熟恋人2全员红秀大片",
+        "onboard_time": 1681112549,
+        "rank": 42,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 141575,
+        "num": 141575,
+        "word": "卢洋洋陈鑫海想二搭",
+        "onboard_time": 1681109608,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140943,
+        "num": 140943,
+        "word": "原神绮良良",
+        "onboard_time": 1681117648,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123697,
+        "num": 123697,
+        "word": "WTT新乡冠军赛2023",
+        "onboard_time": 1681115368,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112201,
+        "num": 112201,
+        "word": "哈尔滨沙尘暴",
+        "onboard_time": 1681110689,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111245,
+        "num": 111245,
+        "word": "除了卡针还能用什么取SIM卡",
+        "onboard_time": 1681118188,
+        "rank": 47,
+        "category": "科技,幽默"
+      },
+      {
+        "raw_hot": 111182,
+        "num": 111182,
+        "word": "发明调休的 建议您两天都不要进餐",
+        "onboard_time": 1681113988,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96522,
+        "num": 111055,
+        "word": "男子一天狂刷7大景点",
+        "onboard_time": 1681108706,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦第三届消博会#"
+    }
+  }
+}
