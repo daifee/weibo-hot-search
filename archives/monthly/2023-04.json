@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681125232889,
+  "endTime": 1681126400618,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -915,6 +915,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1883835,
+      "num": 1883835,
+      "word": "石楠花好臭",
+      "onboard_time": 1681122988,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1883278,
       "num": 1883278,
       "word": "张元英姐姐出道",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1680437067,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1608508,
-      "num": 1608508,
-      "word": "石楠花好臭",
-      "onboard_time": 1681122988,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 1584064,
@@ -2667,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 894941,
+      "num": 580689,
+      "word": "网友P瘦了的沈腾",
+      "onboard_time": 1681122027,
+      "rank": 18,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 893134,
       "num": 893134,
       "word": "懒羊羊在第一季第十一集出门忘带羊角",
@@ -3211,6 +3219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 808773,
+      "num": 245321,
+      "word": "同居不同房的情侣是怎样的",
+      "onboard_time": 1681124546,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 805441,
       "num": 805441,
       "word": "董俊",
@@ -3385,14 +3401,6 @@
       "onboard_time": 1680488848,
       "rank": 29,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 769958,
-      "num": 568234,
-      "word": "网友P瘦了的沈腾",
-      "onboard_time": 1681122027,
-      "rank": 18,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 769928,
@@ -4592,6 +4600,14 @@
       "word": "成都锦城学院",
       "onboard_time": 1680336331,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614539,
+      "num": 614539,
+      "word": "你是想要正常双休还是调休凑小长假",
+      "onboard_time": 1681124068,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -7505,6 +7521,14 @@
       "onboard_time": 1681102413,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396626,
+      "num": 396626,
+      "word": "五一当天三倍工资你愿意加班吗",
+      "onboard_time": 1681125145,
+      "rank": 45,
+      "category": "社会议题"
     },
     {
       "raw_hot": 395425,
@@ -10683,14 +10707,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 269918,
-      "num": 269918,
-      "word": "你是想要正常双休还是调休凑小长假",
-      "onboard_time": 1681124068,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269652,
       "num": 269652,
       "word": "LGD",
@@ -11585,14 +11601,6 @@
       "onboard_time": 1681022367,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245321,
-      "num": 245321,
-      "word": "同居不同房的情侣是怎样的",
-      "onboard_time": 1681124546,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 244865,
@@ -13075,6 +13083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216511,
+      "num": 216511,
+      "word": "王俊凯在镜子上签名",
+      "onboard_time": 1681124247,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216437,
       "num": 216437,
       "word": "张俪短发骑摩托",
@@ -13851,14 +13867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206834,
-      "num": 206834,
-      "word": "王俊凯在镜子上签名",
-      "onboard_time": 1681124247,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206781,
       "num": 206781,
       "word": "牛杂葡挞",
@@ -14289,6 +14297,14 @@
       "onboard_time": 1680679228,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204151,
+      "num": 204151,
+      "word": "叶舒华 喜欢赚钱",
+      "onboard_time": 1681125687,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 204080,
@@ -16619,6 +16635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189767,
+      "num": 180149,
+      "word": "任嘉伦说武庚纪快杀青了",
+      "onboard_time": 1681125567,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189753,
       "num": 189753,
       "word": "王源杂志",
@@ -18923,6 +18947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162583,
+      "num": 162583,
+      "word": "张凌赫陈哲远同框路透",
+      "onboard_time": 1681123465,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162510,
       "num": 162510,
       "word": "BoysPlanet三公音源空降",
@@ -18945,14 +18977,6 @@
       "onboard_time": 1680781828,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162099,
-      "num": 162099,
-      "word": "张凌赫陈哲远同框路透",
-      "onboard_time": 1681123465,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 161895,
@@ -20819,6 +20843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135457,
+      "num": 135457,
+      "word": "环台岛战备警巡和演习圆满完成",
+      "onboard_time": 1681125206,
+      "rank": 48,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 135295,
       "num": 135295,
       "word": "接住春天的小朋友",
@@ -21507,14 +21539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124729,
-      "num": 124729,
-      "word": "五一当天三倍工资你愿意加班吗",
-      "onboard_time": 1681125145,
-      "rank": 45,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 124571,
       "num": 124571,
       "word": "独行侠无缘季后赛",
@@ -21569,6 +21593,14 @@
       "onboard_time": 1680344911,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123829,
+      "num": 123829,
+      "word": "四川西昌突发森林火灾",
+      "onboard_time": 1681126106,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123749,
@@ -21665,6 +21697,14 @@
       "onboard_time": 1680305660,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121116,
+      "num": 121116,
+      "word": "孙怡模仿TangoZ红毯姿势",
+      "onboard_time": 1681126348,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 121110,
@@ -22211,14 +22251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 108437,
-      "num": 108437,
-      "word": "环台岛战备警巡和演习圆满完成",
-      "onboard_time": 1681125206,
-      "rank": 48,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 108043,
       "num": 108043,
       "word": "15省区市将有扬沙或浮尘天气",
@@ -22377,6 +22409,14 @@
       "onboard_time": 1680935008,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104239,
+      "num": 105810,
+      "word": "可乐炒泡面",
+      "onboard_time": 1681124247,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 104131,
@@ -22753,14 +22793,6 @@
       "onboard_time": 1680960570,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95346,
-      "num": 105807,
-      "word": "可乐炒泡面",
-      "onboard_time": 1681124247,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 95174,
