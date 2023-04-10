@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681154017978,
+  "endTime": 1681155194132,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -3297,6 +3297,14 @@
       "onboard_time": 1681150813,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 8428,
+      "num": 14265,
+      "word": "多个商家注册竹筒奶茶店",
+      "onboard_time": 1681155073,
+      "rank": 49,
+      "category": "美食,社会新闻"
     }
   ],
   "hotgov_list": [

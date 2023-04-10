@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/10 00:21:19 ~ 2023/04/11 03:13:37
+本榜单时间：2023/04/10 00:21:19 ~ 2023/04/11 03:33:14
 </p>
 </blockquote>
 <p>
@@ -2483,6 +2483,12 @@ IVE正规专试听（热度：33990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%8E%E5%B8%82%E5%B7%A1%E6%B8%B8%E8%AE%B0%23" target="weibo">
 城市巡游记（热度：17126）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%AA%E5%95%86%E5%AE%B6%E6%B3%A8%E5%86%8C%E7%AB%B9%E7%AD%92%E5%A5%B6%E8%8C%B6%E5%BA%97%23" target="weibo">
+多个商家注册竹筒奶茶店（热度：8428）
 </a>
 </li>
 
