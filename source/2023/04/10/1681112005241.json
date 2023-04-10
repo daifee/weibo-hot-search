@@ -1,0 +1,410 @@
+{
+  "runTime": 1681112005241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2775573,
+        "num": 2775573,
+        "word": "浙大着火",
+        "onboard_time": 1681108227,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1561328,
+        "num": 1561328,
+        "word": "演员吴耀汉去世",
+        "onboard_time": 1681101517,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79968,
+        "num": 1017684,
+        "word": "2023第100天",
+        "onboard_time": 1681082540,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991924,
+        "num": 991924,
+        "word": "今年的假期余额只剩6天了",
+        "onboard_time": 1681098928,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 634108,
+        "num": 634108,
+        "word": "周杰伦起诉网易不正当竞争",
+        "onboard_time": 1681095266,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 627033,
+        "num": 627033,
+        "word": "到底是谁发明了调休",
+        "onboard_time": 1681108706,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558395,
+        "num": 558395,
+        "word": "原来真有大学生不会骑电车",
+        "onboard_time": 1681096949,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 516450,
+        "num": 516450,
+        "word": "男子一天狂刷7大景点",
+        "onboard_time": 1681108706,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 476454,
+        "num": 476454,
+        "word": "迪丽热巴金世佳 利剑玫瑰",
+        "onboard_time": 1681099169,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 473555,
+        "num": 473555,
+        "word": "哈尔滨",
+        "onboard_time": 1681110689,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417413,
+        "num": 417413,
+        "word": "易烊千玺单手摘眼镜",
+        "onboard_time": 1681109307,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414848,
+        "num": 414848,
+        "word": "白鹿看别人拍吻戏",
+        "onboard_time": 1681109248,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393193,
+        "num": 393193,
+        "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
+        "onboard_time": 1681096409,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381514,
+        "num": 381514,
+        "word": "罗云熙提裙",
+        "onboard_time": 1681102112,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377306,
+        "num": 377306,
+        "word": "卢洋洋陈鑫海想二搭",
+        "onboard_time": 1681109608,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373342,
+        "num": 373342,
+        "word": "赵丽颖早期旧照",
+        "onboard_time": 1681110393,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347462,
+        "num": 347462,
+        "word": "张杰演唱会门票谁抢走了",
+        "onboard_time": 1681105589,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 324302,
+        "num": 324302,
+        "word": "马伊琍前半生6年后再演家庭剧",
+        "onboard_time": 1681100734,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284138,
+        "num": 284138,
+        "word": "iPhone15ProMax预计售价2万块",
+        "onboard_time": 1681088489,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 553317,
+        "num": 283993,
+        "word": "什么时候优秀女性能逃过此类问题",
+        "onboard_time": 1681108768,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373184,
+        "num": 281613,
+        "word": "少女魔尊",
+        "onboard_time": 1681107748,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273637,
+        "num": 273637,
+        "word": "凌晨的火车上全是大学生",
+        "onboard_time": 1681101454,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270703,
+        "num": 270703,
+        "word": "被偷五年的小狗自己回来了",
+        "onboard_time": 1681101755,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257983,
+        "num": 257983,
+        "word": "沙尘暴",
+        "onboard_time": 1681109128,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255582,
+        "num": 255582,
+        "word": "东部战区组织环台岛战备警巡",
+        "onboard_time": 1681105349,
+        "rank": 24,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 253868,
+        "num": 253868,
+        "word": "浙大学生称着火点在农学院动物房",
+        "onboard_time": 1681110568,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 248128,
+        "num": 248128,
+        "word": "美舰擅闯南沙岛礁邻近海域南部战区回应",
+        "onboard_time": 1681107809,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 240814,
+        "num": 240814,
+        "word": "梁友安坦白自己不能生孩子",
+        "onboard_time": 1681107207,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236575,
+        "num": 236575,
+        "word": "黄晓明问贾乃亮龚俊我可以相信你们吗",
+        "onboard_time": 1681105349,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234095,
+        "num": 234095,
+        "word": "长月烬明片尾",
+        "onboard_time": 1681110393,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230548,
+        "num": 230548,
+        "word": "周雨彤签约壹心",
+        "onboard_time": 1681096529,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323450,
+        "num": 228254,
+        "word": "冥夜桑酒醉酒圆房",
+        "onboard_time": 1681110447,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212238,
+        "num": 212238,
+        "word": "女子起诉邻居装可视门铃法院判拆除",
+        "onboard_time": 1681104268,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211408,
+        "num": 211408,
+        "word": "只有大学生才明白的窒息",
+        "onboard_time": 1681106727,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 199073,
+        "num": 199073,
+        "word": "杭州城西某高校火情已熄灭",
+        "onboard_time": 1681111528,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 191478,
+        "num": 191478,
+        "word": "男孩玩滑索坠湖父亲营救不幸遇难",
+        "onboard_time": 1681111228,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189054,
+        "num": 189054,
+        "word": "王俊凯与掉落的金桔",
+        "onboard_time": 1681110393,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187178,
+        "num": 187178,
+        "word": "pledis称SEVENTEEN此次回归为历代级",
+        "onboard_time": 1681104750,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181753,
+        "num": 181753,
+        "word": "李敏镐也没逃过韩国酵母",
+        "onboard_time": 1681111827,
+        "rank": 38,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 174431,
+        "num": 174431,
+        "word": "今年五一连休五天",
+        "onboard_time": 1681091305,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159562,
+        "num": 159562,
+        "word": "卡维",
+        "onboard_time": 1681107148,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158239,
+        "num": 158239,
+        "word": "姐弟恋有何好处",
+        "onboard_time": 1681105949,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153459,
+        "num": 153459,
+        "word": "李宇春说新专辑像是私人日记",
+        "onboard_time": 1681111349,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150055,
+        "num": 150055,
+        "word": "为什么五一要调休",
+        "onboard_time": 1681096286,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143480,
+        "num": 143480,
+        "word": "anan柯南封面",
+        "onboard_time": 1681105827,
+        "rank": 44,
+        "category": "影视,作品衍生"
+      },
+      {
+        "raw_hot": 141889,
+        "num": 141889,
+        "word": "余宇涵下车摔倒",
+        "onboard_time": 1681110207,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136238,
+        "num": 136238,
+        "word": "女生穿洛丽塔5秒反超跑第1",
+        "onboard_time": 1681099588,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119609,
+        "num": 119609,
+        "word": "蔚来6月免费换电退坡",
+        "onboard_time": 1681111949,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 118907,
+        "num": 118907,
+        "word": "于和伟 街溜子",
+        "onboard_time": 1681103968,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101918,
+        "num": 116707,
+        "word": "30秒延时看芍药初开百步香",
+        "onboard_time": 1681111827,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局加把劲#"
+    }
+  }
+}

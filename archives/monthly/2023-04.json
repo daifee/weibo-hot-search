@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681110931876,
+  "endTime": 1681112005241,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2775573,
+      "num": 2775573,
+      "word": "浙大着火",
+      "onboard_time": 1681108227,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2687594,
       "num": 1780676,
       "word": "陈志龙",
@@ -512,14 +520,6 @@
       "word": "中山大学",
       "onboard_time": 1680847827,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2486182,
-      "num": 2486182,
-      "word": "浙大着火",
-      "onboard_time": 1681108227,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2235,6 +2235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 991924,
+      "num": 991924,
+      "word": "今年的假期余额只剩6天了",
+      "onboard_time": 1681098928,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 988266,
       "num": 988266,
       "word": "不要随便接陌生电话",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1680752668,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 969010,
-      "num": 969010,
-      "word": "今年的假期余额只剩6天了",
-      "onboard_time": 1681098928,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 967690,
@@ -4339,6 +4339,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 627033,
+      "num": 627033,
+      "word": "到底是谁发明了调休",
+      "onboard_time": 1681108706,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626902,
       "num": 356356,
       "word": "八年前愚人节的TFBOYS",
@@ -5539,6 +5547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516450,
+      "num": 516450,
+      "word": "男子一天狂刷7大景点",
+      "onboard_time": 1681108706,
+      "rank": 20,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 516370,
       "num": 507602,
       "word": "长月烬明刷新仙侠剧破万纪录",
@@ -6019,14 +6035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 478956,
-      "num": 478956,
-      "word": "到底是谁发明了调休",
-      "onboard_time": 1681108706,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 478943,
       "num": 389999,
       "word": "黑暗荣耀",
@@ -6145,6 +6153,14 @@
       "onboard_time": 1680761069,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 473555,
+      "num": 473555,
+      "word": "哈尔滨",
+      "onboard_time": 1681110689,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 472984,
@@ -6987,6 +7003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 414848,
+      "num": 414848,
+      "word": "白鹿看别人拍吻戏",
+      "onboard_time": 1681109248,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414472,
       "num": 375743,
       "word": "李彩领你可是爱豆啊",
@@ -7451,14 +7475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 389939,
-      "num": 389939,
-      "word": "白鹿看别人拍吻戏",
-      "onboard_time": 1681109248,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 389703,
       "num": 389703,
       "word": "Hero第三轮掉A",
@@ -7667,6 +7683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377306,
+      "num": 377306,
+      "word": "卢洋洋陈鑫海想二搭",
+      "onboard_time": 1681109608,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 375457,
       "num": 283214,
       "word": "我们都应该对月经羞耻说不",
@@ -7721,6 +7745,14 @@
       "onboard_time": 1681094305,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 373342,
+      "num": 373342,
+      "word": "赵丽颖早期旧照",
+      "onboard_time": 1681110393,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 372817,
@@ -8571,14 +8603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 333734,
-      "num": 333734,
-      "word": "卢洋洋陈鑫海想二搭",
-      "onboard_time": 1681109608,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 333623,
       "num": 333623,
       "word": "费曼发歌名怀念张国荣",
@@ -8843,20 +8867,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 324453,
-      "num": 324453,
-      "word": "男子一天狂刷7大景点",
-      "onboard_time": 1681108706,
-      "rank": 20,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 323829,
       "num": 323829,
       "word": "4AM夺冠",
       "onboard_time": 1680447042,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 323450,
+      "num": 228254,
+      "word": "冥夜桑酒醉酒圆房",
+      "onboard_time": 1681110447,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 323347,
@@ -10811,6 +10835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257983,
+      "num": 257983,
+      "word": "沙尘暴",
+      "onboard_time": 1681109128,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257943,
       "num": 257943,
       "word": "LPL春季赛四强确定",
@@ -10969,6 +11001,14 @@
       "onboard_time": 1680436588,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253868,
+      "num": 253868,
+      "word": "浙大学生称着火点在农学院动物房",
+      "onboard_time": 1681110568,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 253735,
@@ -11187,6 +11227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248128,
+      "num": 248128,
+      "word": "美舰擅闯南沙岛礁邻近海域南部战区回应",
+      "onboard_time": 1681107809,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 248015,
       "num": 194636,
       "word": "真的还是假的",
@@ -11281,14 +11329,6 @@
       "onboard_time": 1681022367,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245383,
-      "num": 245383,
-      "word": "美舰擅闯南沙岛礁邻近海域南部战区回应",
-      "onboard_time": 1681107809,
-      "rank": 38,
-      "category": "军事"
     },
     {
       "raw_hot": 244865,
@@ -11737,6 +11777,14 @@
       "onboard_time": 1680865407,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234095,
+      "num": 234095,
+      "word": "长月烬明片尾",
+      "onboard_time": 1681110393,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 233710,
@@ -12211,14 +12259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 225031,
-      "num": 219060,
-      "word": "冥夜桑酒醉酒圆房",
-      "onboard_time": 1681110447,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 224976,
       "num": 224976,
       "word": "澹台烬 优雅的疯子",
@@ -12321,14 +12361,6 @@
       "onboard_time": 1680365010,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222511,
-      "num": 222511,
-      "word": "赵丽颖早期旧照",
-      "onboard_time": 1681110393,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 222409,
@@ -12843,14 +12875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214027,
-      "num": 214027,
-      "word": "哈尔滨",
-      "onboard_time": 1681110689,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213929,
       "num": 213929,
       "word": "电竞少年踏春记",
@@ -12961,14 +12985,6 @@
       "onboard_time": 1681014089,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212580,
-      "num": 212580,
-      "word": "长月烬明片尾",
-      "onboard_time": 1681110393,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 212327,
@@ -14859,6 +14875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199073,
+      "num": 199073,
+      "word": "杭州城西某高校火情已熄灭",
+      "onboard_time": 1681111528,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 199066,
       "num": 199066,
       "word": "吴磊片场套圈",
@@ -15955,6 +15979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191478,
+      "num": 191478,
+      "word": "男孩玩滑索坠湖父亲营救不幸遇难",
+      "onboard_time": 1681111228,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191330,
       "num": 191330,
       "word": "姚琛重庆巡演",
@@ -16225,14 +16257,6 @@
       "onboard_time": 1680505828,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 189420,
-      "num": 187102,
-      "word": "浙大学生称着火点在农学院动物房",
-      "onboard_time": 1681110568,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 189344,
@@ -17099,6 +17123,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 181753,
+      "num": 181753,
+      "word": "李敏镐也没逃过韩国酵母",
+      "onboard_time": 1681111827,
+      "rank": 38,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 181622,
       "num": 181622,
       "word": "stayc无伴奏唱跳teddybear",
@@ -17177,14 +17209,6 @@
       "onboard_time": 1680604229,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180843,
-      "num": 180843,
-      "word": "沙尘暴",
-      "onboard_time": 1681109128,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180826,
@@ -19059,6 +19083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153459,
+      "num": 153459,
+      "word": "李宇春说新专辑像是私人日记",
+      "onboard_time": 1681111349,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 153432,
       "num": 153432,
       "word": "爱情而已为什么好看",
@@ -19835,6 +19867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141889,
+      "num": 141889,
+      "word": "余宇涵下车摔倒",
+      "onboard_time": 1681110207,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141738,
       "num": 141738,
       "word": "崔珉豪李硕珉棒球开球",
@@ -20344,14 +20384,6 @@
       "word": "文俊辉晒尹净汉金珉奎翻船直拍",
       "onboard_time": 1680771271,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 134757,
-      "num": 134757,
-      "word": "余宇涵下车摔倒",
-      "onboard_time": 1681110207,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -21267,6 +21299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119609,
+      "num": 119609,
+      "word": "蔚来6月免费换电退坡",
+      "onboard_time": 1681111949,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 119421,
       "num": 420730,
       "word": "罗永浩再现智能马桶名场面",
@@ -22001,6 +22041,14 @@
       "onboard_time": 1680452071,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101918,
+      "num": 116707,
+      "word": "30秒延时看芍药初开百步香",
+      "onboard_time": 1681111827,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 101823,

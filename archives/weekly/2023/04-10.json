@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681110931876,
+  "endTime": 1681112005241,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -27,8 +27,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2486182,
-      "num": 2486182,
+      "raw_hot": 2775573,
+      "num": 2775573,
       "word": "浙大着火",
       "onboard_time": 1681108227,
       "rank": 30,
@@ -91,8 +91,8 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 969010,
-      "num": 969010,
+      "raw_hot": 991924,
+      "num": 991924,
       "word": "今年的假期余额只剩6天了",
       "onboard_time": 1681098928,
       "rank": 16,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627033,
+      "num": 627033,
+      "word": "到底是谁发明了调休",
+      "onboard_time": 1681108706,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621010,
       "num": 621010,
       "word": "KnowKnow跳水压倒一片观众",
@@ -427,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516450,
+      "num": 516450,
+      "word": "男子一天狂刷7大景点",
+      "onboard_time": 1681108706,
+      "rank": 20,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 495322,
       "num": 495322,
       "word": "山西晋城为改善空气禁止露天烧烤",
@@ -459,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478956,
-      "num": 478956,
-      "word": "到底是谁发明了调休",
-      "onboard_time": 1681108706,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 477018,
       "num": 417668,
       "word": "李兰迪被鸟屎砸中",
       "onboard_time": 1681086330,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473555,
+      "num": 473555,
+      "word": "哈尔滨",
+      "onboard_time": 1681110689,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468418,
@@ -513,6 +529,14 @@
       "onboard_time": 1681105349,
       "rank": 12,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 414848,
+      "num": 414848,
+      "word": "白鹿看别人拍吻戏",
+      "onboard_time": 1681109248,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 407700,
@@ -587,11 +611,11 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 389939,
-      "num": 389939,
-      "word": "白鹿看别人拍吻戏",
-      "onboard_time": 1681109248,
-      "rank": 16,
+      "raw_hot": 377306,
+      "num": 377306,
+      "word": "卢洋洋陈鑫海想二搭",
+      "onboard_time": 1681109608,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -617,6 +641,14 @@
       "onboard_time": 1681094305,
       "rank": 42,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 373342,
+      "num": 373342,
+      "word": "赵丽颖早期旧照",
+      "onboard_time": 1681110393,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 367686,
@@ -683,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333734,
-      "num": 333734,
-      "word": "卢洋洋陈鑫海想二搭",
-      "onboard_time": 1681109608,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 329838,
       "num": 329838,
       "word": "于和伟 街溜子",
@@ -707,12 +731,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 324453,
-      "num": 324453,
-      "word": "男子一天狂刷7大景点",
-      "onboard_time": 1681108706,
-      "rank": 20,
-      "category": "旅游,社会新闻"
+      "raw_hot": 323450,
+      "num": 228254,
+      "word": "冥夜桑酒醉酒圆房",
+      "onboard_time": 1681110447,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 322912,
@@ -867,6 +891,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 257983,
+      "num": 257983,
+      "word": "沙尘暴",
+      "onboard_time": 1681109128,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255648,
       "num": 255648,
       "word": "过度超前消费有多可怕",
@@ -883,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253868,
+      "num": 253868,
+      "word": "浙大学生称着火点在农学院动物房",
+      "onboard_time": 1681110568,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 249331,
       "num": 249331,
       "word": "景区回应骆驼被轮番棒打屈膝求饶",
@@ -891,8 +931,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245383,
-      "num": 245383,
+      "raw_hot": 248128,
+      "num": 248128,
       "word": "美舰擅闯南沙岛礁邻近海域南部战区回应",
       "onboard_time": 1681107809,
       "rank": 38,
@@ -955,6 +995,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 234095,
+      "num": 234095,
+      "word": "长月烬明片尾",
+      "onboard_time": 1681110393,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232341,
       "num": 232341,
       "word": "车银优演唱会用粉丝手机自拍",
@@ -987,28 +1035,12 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 225031,
-      "num": 219060,
-      "word": "冥夜桑酒醉酒圆房",
-      "onboard_time": 1681110447,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 224976,
       "num": 224976,
       "word": "澹台烬 优雅的疯子",
       "onboard_time": 1681106667,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222511,
-      "num": 222511,
-      "word": "赵丽颖早期旧照",
-      "onboard_time": 1681110393,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 221373,
@@ -1075,14 +1107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214027,
-      "num": 214027,
-      "word": "哈尔滨",
-      "onboard_time": 1681110689,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213247,
       "num": 213247,
       "word": "湖人附加赛将对阵森林狼",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1681100369,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212580,
-      "num": 212580,
-      "word": "长月烬明片尾",
-      "onboard_time": 1681110393,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 210492,
@@ -1235,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199073,
+      "num": 199073,
+      "word": "杭州城西某高校火情已熄灭",
+      "onboard_time": 1681111528,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 198730,
       "num": 198730,
       "word": "五福星",
@@ -1363,6 +1387,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 191478,
+      "num": 191478,
+      "word": "男孩玩滑索坠湖父亲营救不幸遇难",
+      "onboard_time": 1681111228,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191034,
       "num": 198944,
       "word": "BoysPlanet选手的年龄",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1681100974,
       "rank": 45,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 189420,
-      "num": 187102,
-      "word": "浙大学生称着火点在农学院动物房",
-      "onboard_time": 1681110568,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 188348,
@@ -1491,12 +1515,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 180843,
-      "num": 180843,
-      "word": "沙尘暴",
-      "onboard_time": 1681109128,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 181753,
+      "num": 181753,
+      "word": "李敏镐也没逃过韩国酵母",
+      "onboard_time": 1681111827,
+      "rank": 38,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 180425,
@@ -1651,6 +1675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153459,
+      "num": 153459,
+      "word": "李宇春说新专辑像是私人日记",
+      "onboard_time": 1681111349,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 152029,
       "num": 152029,
       "word": "林俊杰新专辑重拾快乐",
@@ -1747,6 +1779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141889,
+      "num": 141889,
+      "word": "余宇涵下车摔倒",
+      "onboard_time": 1681110207,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141078,
       "num": 273277,
       "word": "懒人吹发头神器",
@@ -1777,14 +1817,6 @@
       "onboard_time": 1681106188,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134757,
-      "num": 134757,
-      "word": "余宇涵下车摔倒",
-      "onboard_time": 1681110207,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 134225,
@@ -1859,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119609,
+      "num": 119609,
+      "word": "蔚来6月免费换电退坡",
+      "onboard_time": 1681111949,
+      "rank": 47,
+      "category": "科技"
+    },
+    {
       "raw_hot": 116903,
       "num": 116903,
       "word": "祝绪丹蓝色头纱造型",
@@ -1921,6 +1961,14 @@
       "onboard_time": 1681055067,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101918,
+      "num": 116707,
+      "word": "30秒延时看芍药初开百步香",
+      "onboard_time": 1681111827,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 99938,
