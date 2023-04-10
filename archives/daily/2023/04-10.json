@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681132817813,
+  "endTime": 1681133598139,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -139,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1142032,
+      "num": 1142032,
+      "word": "蒋依依红毯拍照把裙尾扯掉了",
+      "onboard_time": 1681129645,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1130933,
       "num": 1130933,
       "word": "杨幂关雪定妆照",
@@ -153,14 +161,6 @@
       "onboard_time": 1681085008,
       "rank": 1,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 1076413,
-      "num": 1076413,
-      "word": "蒋依依红毯拍照把裙尾扯掉了",
-      "onboard_time": 1681129645,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 1074016,
@@ -185,6 +185,14 @@
       "onboard_time": 1681098928,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 980156,
+      "num": 980156,
+      "word": "陈鑫海二公子",
+      "onboard_time": 1681131810,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 944993,
@@ -371,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 674475,
+      "num": 488753,
+      "word": "上海一写字楼内1人被捅伤身亡",
+      "onboard_time": 1681132285,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 674399,
       "num": 674399,
       "word": "张杰演唱会门票谁抢走了",
@@ -483,14 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 593238,
-      "num": 593238,
-      "word": "陈鑫海二公子",
-      "onboard_time": 1681131810,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 589928,
       "num": 420180,
       "word": "什么时候优秀女性能逃过此类问题",
@@ -521,6 +529,14 @@
       "onboard_time": 1681052131,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573099,
+      "num": 573099,
+      "word": "WBG官宣easyhoon离队",
+      "onboard_time": 1681133129,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 570728,
@@ -593,6 +609,14 @@
       "onboard_time": 1681091305,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544176,
+      "num": 544176,
+      "word": "北京沙尘暴",
+      "onboard_time": 1681130007,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542846,
@@ -715,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 481308,
+      "num": 481308,
+      "word": "孙怡谈这一年的变化",
+      "onboard_time": 1681132707,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480125,
       "num": 480125,
       "word": "男子骑车下班被拦路光纤线割喉住院",
@@ -795,19 +827,19 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 429535,
+      "num": 429535,
+      "word": "为什么有人上班可以很快乐",
+      "onboard_time": 1681130606,
+      "rank": 16,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 425674,
       "num": 425674,
       "word": "四川西昌突发森林火灾",
       "onboard_time": 1681126106,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416876,
-      "num": 416876,
-      "word": "北京沙尘暴",
-      "onboard_time": 1681130007,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -939,14 +971,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 369561,
-      "num": 369561,
-      "word": "孙怡谈这一年的变化",
-      "onboard_time": 1681132707,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 367686,
       "num": 367686,
       "word": "女子起诉邻居装可视门铃法院判拆除",
@@ -961,6 +985,14 @@
       "onboard_time": 1681100193,
       "rank": 47,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 361661,
+      "num": 361661,
+      "word": "跟老爸说买了墓地旁边的房子",
+      "onboard_time": 1681132047,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 358836,
@@ -1171,14 +1203,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 288029,
-      "num": 288029,
-      "word": "为什么有人上班可以很快乐",
-      "onboard_time": 1681130606,
-      "rank": 16,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 287531,
       "num": 287531,
       "word": "许嵩说我的外壳是冷的内心是热烈的",
@@ -1236,7 +1260,7 @@
     },
     {
       "raw_hot": 265244,
-      "num": 233319,
+      "num": 239943,
       "word": "白鹿武戏没做满意哭了",
       "onboard_time": 1681130126,
       "rank": 23,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1681107809,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 243414,
+      "num": 243414,
+      "word": "长月烬明原著",
+      "onboard_time": 1681133068,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 242553,
@@ -1467,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226072,
-      "num": 177308,
-      "word": "上海一写字楼内1人被捅伤身亡",
-      "onboard_time": 1681132285,
-      "rank": 31,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 226028,
       "num": 226028,
       "word": "山东舰首次参加环台岛战备警巡",
@@ -1488,6 +1512,14 @@
       "word": "澹台烬 优雅的疯子",
       "onboard_time": 1681106667,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 222691,
+      "num": 222691,
+      "word": "冥夜桑酒诀别",
+      "onboard_time": 1681130426,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1595,14 +1627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215044,
-      "num": 215044,
-      "word": "冥夜桑酒诀别",
-      "onboard_time": 1681130426,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214505,
       "num": 214505,
       "word": "瘫痪女童复健3年能骑自行车了",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1681106126,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 209401,
-      "num": 209401,
-      "word": "跟老爸说买了墓地旁边的房子",
-      "onboard_time": 1681132047,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 208913,
@@ -2155,8 +2171,16 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 182597,
+      "num": 182597,
+      "word": "网购别再只会看销量了",
+      "onboard_time": 1681131927,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181427,
-      "num": 134774,
+      "num": 151019,
       "word": "冥夜区别对待桑酒天欢",
       "onboard_time": 1681132107,
       "rank": 37,
@@ -2233,6 +2257,14 @@
       "onboard_time": 1681122567,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173766,
+      "num": 173766,
+      "word": "你是什么门",
+      "onboard_time": 1681132948,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 171707,
@@ -2619,14 +2651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121436,
-      "num": 121436,
-      "word": "网购别再只会看销量了",
-      "onboard_time": 1681131927,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120665,
       "num": 131582,
       "word": "漫画创作没有容易二字",
@@ -2657,6 +2681,22 @@
       "onboard_time": 1681083083,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116804,
+      "num": 116804,
+      "word": "Lisa金智秀牵手跑",
+      "onboard_time": 1681133551,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113952,
+      "num": 113952,
+      "word": "川大研究称善于社交更长寿",
+      "onboard_time": 1681132646,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110885,
@@ -2713,14 +2753,6 @@
       "onboard_time": 1681082540,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 104733,
-      "num": 104733,
-      "word": "川大研究称善于社交更长寿",
-      "onboard_time": 1681132646,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102220,
@@ -2849,6 +2881,14 @@
       "onboard_time": 1681048530,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 25959,
+      "num": 1035474,
+      "word": "抢抓战略机遇增强发展信心",
+      "onboard_time": 1681132827,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24143,
