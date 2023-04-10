@@ -1,0 +1,410 @@
+{
+  "runTime": 1681115649924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1493333,
+        "num": 1493333,
+        "word": "浙大着火",
+        "onboard_time": 1681108227,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218193,
+        "num": 1218193,
+        "word": "竹筒奶茶 发霉",
+        "onboard_time": 1681113447,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 52979,
+        "num": 1151644,
+        "word": "2023第100天",
+        "onboard_time": 1681082540,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1796047,
+        "num": 1145462,
+        "word": "李敏镐也没逃过韩国酵母",
+        "onboard_time": 1681111827,
+        "rank": 3,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1131933,
+        "num": 1131933,
+        "word": "长月烬明被删掉18集",
+        "onboard_time": 1681113568,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 895325,
+        "num": 895325,
+        "word": "演员吴耀汉去世",
+        "onboard_time": 1681101517,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790830,
+        "num": 790830,
+        "word": "淄博政府反应也好快",
+        "onboard_time": 1681114408,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776104,
+        "num": 776104,
+        "word": "今年的假期余额只剩6天了",
+        "onboard_time": 1681098928,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 580960,
+        "num": 580960,
+        "word": "巩俐 于佩尔",
+        "onboard_time": 1681112729,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 562492,
+        "num": 562492,
+        "word": "男孩玩滑索坠湖父亲营救不幸遇难",
+        "onboard_time": 1681111228,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437979,
+        "num": 437979,
+        "word": "满江红第三次延长上映",
+        "onboard_time": 1681113929,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421645,
+        "num": 421645,
+        "word": "赵丽颖早期旧照",
+        "onboard_time": 1681110393,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397099,
+        "num": 397099,
+        "word": "到底是谁发明了调休",
+        "onboard_time": 1681108706,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384062,
+        "num": 384062,
+        "word": "上海海事大学称举报均不属实",
+        "onboard_time": 1681113210,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 355147,
+        "num": 355147,
+        "word": "原来真有大学生不会骑电车",
+        "onboard_time": 1681096949,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313187,
+        "num": 313187,
+        "word": "男子一天狂刷7大景点",
+        "onboard_time": 1681108706,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 312828,
+        "num": 312828,
+        "word": "王俊凯直播",
+        "onboard_time": 1681114408,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312516,
+        "num": 312516,
+        "word": "冥夜桑酒醉酒圆房",
+        "onboard_time": 1681110447,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306954,
+        "num": 306954,
+        "word": "哈尔滨沙尘暴",
+        "onboard_time": 1681110689,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288989,
+        "num": 288989,
+        "word": "今年五一实际只放一天",
+        "onboard_time": 1681113988,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818244,
+        "num": 285081,
+        "word": "发明调休的 建议您两天都不要进餐",
+        "onboard_time": 1681113988,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279206,
+        "num": 279206,
+        "word": "周杰伦起诉网易不正当竞争",
+        "onboard_time": 1681095266,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 262165,
+        "num": 262165,
+        "word": "迪丽热巴金世佳 利剑玫瑰",
+        "onboard_time": 1681099169,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253495,
+        "num": 253495,
+        "word": "张元英发布会生图",
+        "onboard_time": 1681113867,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238279,
+        "num": 238279,
+        "word": "易烊千玺单手摘眼镜",
+        "onboard_time": 1681109307,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217741,
+        "num": 217741,
+        "word": "罗云熙提裙",
+        "onboard_time": 1681102112,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212587,
+        "num": 212587,
+        "word": "马伊琍前半生6年后再演家庭剧",
+        "onboard_time": 1681100734,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209750,
+        "num": 209750,
+        "word": "白鹿看别人拍吻戏",
+        "onboard_time": 1681109248,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190693,
+        "num": 209199,
+        "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
+        "onboard_time": 1681096409,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209146,
+        "num": 209146,
+        "word": "去年是诀症今年是神烬病",
+        "onboard_time": 1681114467,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204043,
+        "num": 204043,
+        "word": "张杰演唱会门票谁抢走了",
+        "onboard_time": 1681105589,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203304,
+        "num": 203304,
+        "word": "卢洋洋陈鑫海想二搭",
+        "onboard_time": 1681109608,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202339,
+        "num": 202339,
+        "word": "IVE主打曲iam",
+        "onboard_time": 1681114110,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182649,
+        "num": 182649,
+        "word": "浙大学生称着火点在农学院动物房",
+        "onboard_time": 1681110568,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 179397,
+        "num": 179397,
+        "word": "被偷五年的小狗自己回来了",
+        "onboard_time": 1681101755,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173965,
+        "num": 173965,
+        "word": "半熟恋人2全员红秀大片",
+        "onboard_time": 1681112549,
+        "rank": 35,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 167463,
+        "num": 167463,
+        "word": "想去淄博吃烧烤",
+        "onboard_time": 1681113267,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166789,
+        "num": 166789,
+        "word": "梁友安坦白自己不能生孩子",
+        "onboard_time": 1681107207,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165561,
+        "num": 165561,
+        "word": "iPhone15ProMax预计售价2万块",
+        "onboard_time": 1681088489,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157907,
+        "num": 157907,
+        "word": "WTT新乡冠军赛2023",
+        "onboard_time": 1681115368,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152548,
+        "num": 152548,
+        "word": "凌晨的火车上全是大学生",
+        "onboard_time": 1681101454,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147540,
+        "num": 147540,
+        "word": "白鹿看长月烬明剧本哭了无数次",
+        "onboard_time": 1681115189,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134180,
+        "num": 134180,
+        "word": "只有大学生才明白的窒息",
+        "onboard_time": 1681106727,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 130807,
+        "num": 130807,
+        "word": "美舰擅闯南沙岛礁邻近海域南部战区回应",
+        "onboard_time": 1681107809,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 126176,
+        "num": 126176,
+        "word": "黄景瑜问贾乃亮真的吗亮哥",
+        "onboard_time": 1681112609,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117823,
+        "num": 117823,
+        "word": "无锡着火",
+        "onboard_time": 1681114288,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116288,
+        "num": 116288,
+        "word": "女子起诉邻居装可视门铃法院判拆除",
+        "onboard_time": 1681104268,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114533,
+        "num": 114533,
+        "word": "余宇涵下车摔倒",
+        "onboard_time": 1681110207,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113635,
+        "num": 113635,
+        "word": "香港顶流姜涛直拍",
+        "onboard_time": 1681115609,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112399,
+        "num": 112399,
+        "word": "周雨彤签约壹心",
+        "onboard_time": 1681096529,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#聚焦第三届消博会#"
+    }
+  }
+}

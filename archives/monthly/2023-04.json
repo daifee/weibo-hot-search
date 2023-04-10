@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681114902757,
+  "endTime": 1681115649924,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -995,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1796047,
+      "num": 1145462,
+      "word": "李敏镐也没逃过韩国酵母",
+      "onboard_time": 1681111827,
+      "rank": 38,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1790649,
       "num": 1790649,
       "word": "孙海洋女儿呼吁取消拐骗罪",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1680768331,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1713200,
-      "num": 964459,
-      "word": "李敏镐也没逃过韩国酵母",
-      "onboard_time": 1681111827,
-      "rank": 38,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1708478,
@@ -1731,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1218193,
+      "num": 1218193,
+      "word": "竹筒奶茶 发霉",
+      "onboard_time": 1681113447,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1203068,
       "num": 980041,
       "word": "白幼瘦审美",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1680522455,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1131933,
+      "num": 1131933,
+      "word": "长月烬明被删掉18集",
+      "onboard_time": 1681113568,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1131246,
@@ -2387,14 +2403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 941993,
-      "num": 941993,
-      "word": "竹筒奶茶 发霉",
-      "onboard_time": 1681113447,
-      "rank": 4,
-      "category": "美食"
-    },
-    {
       "raw_hot": 937006,
       "num": 937006,
       "word": "王宝强在老家广场唱戏",
@@ -2868,7 +2876,7 @@
     },
     {
       "raw_hot": 848628,
-      "num": 276808,
+      "num": 285081,
       "word": "发明调休的 建议您两天都不要进餐",
       "onboard_time": 1681113988,
       "rank": 20,
@@ -3227,6 +3235,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 790830,
+      "num": 790830,
+      "word": "淄博政府反应也好快",
+      "onboard_time": 1681114408,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 786782,
       "num": 786782,
       "word": "南京大学新校长到底是哪里人",
@@ -3329,14 +3345,6 @@
       "onboard_time": 1680331411,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 766596,
-      "num": 766596,
-      "word": "长月烬明被删掉18集",
-      "onboard_time": 1681113568,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 766265,
@@ -4987,6 +4995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562492,
+      "num": 562492,
+      "word": "男孩玩滑索坠湖父亲营救不幸遇难",
+      "onboard_time": 1681111228,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561886,
       "num": 172886,
       "word": "不要再盲掏耳朵了",
@@ -5273,14 +5289,6 @@
       "onboard_time": 1680409950,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 540011,
-      "num": 540011,
-      "word": "男孩玩滑索坠湖父亲营救不幸遇难",
-      "onboard_time": 1681111228,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 539965,
@@ -6651,6 +6659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437979,
+      "num": 437979,
+      "word": "满江红第三次延长上映",
+      "onboard_time": 1681113929,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 437380,
       "num": 313289,
       "word": "上班如上坟",
@@ -7649,6 +7665,14 @@
       "onboard_time": 1680667951,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384062,
+      "num": 384062,
+      "word": "上海海事大学称举报均不属实",
+      "onboard_time": 1681113210,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 384022,
@@ -8939,14 +8963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 323580,
-      "num": 323580,
-      "word": "满江红第三次延长上映",
-      "onboard_time": 1681113929,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 323347,
       "num": 323347,
       "word": "网友拍的张大大",
@@ -9241,6 +9257,14 @@
       "onboard_time": 1680847408,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312828,
+      "num": 312828,
+      "word": "王俊凯直播",
+      "onboard_time": 1681114408,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 312648,
@@ -9779,14 +9803,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 291487,
-      "num": 207659,
-      "word": "淄博政府反应也好快",
-      "onboard_time": 1681114408,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290886,
       "num": 290886,
       "word": "马克龙用普通话和粤语说大家好",
@@ -9843,20 +9859,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290013,
-      "num": 290013,
-      "word": "上海海事大学称举报均不属实",
-      "onboard_time": 1681113210,
-      "rank": 18,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 289322,
       "num": 289322,
       "word": "长月烬明一眼万年海报",
       "onboard_time": 1680578609,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 288989,
+      "num": 288989,
+      "word": "今年五一实际只放一天",
+      "onboard_time": 1681113988,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288694,
@@ -11105,6 +11121,14 @@
       "onboard_time": 1680477262,
       "rank": 48,
       "category": "自然"
+    },
+    {
+      "raw_hot": 253495,
+      "num": 253495,
+      "word": "张元英发布会生图",
+      "onboard_time": 1681113867,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 253305,
@@ -12923,14 +12947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214825,
-      "num": 214825,
-      "word": "张元英发布会生图",
-      "onboard_time": 1681113867,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 214772,
       "num": 214772,
       "word": "kpopSolo歌手历代初动排名",
@@ -13291,6 +13307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209146,
+      "num": 209146,
+      "word": "去年是诀症今年是神烬病",
+      "onboard_time": 1681114467,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209080,
       "num": 209080,
       "word": "纪录片月背之上",
@@ -13433,14 +13457,6 @@
       "onboard_time": 1680707312,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 208047,
-      "num": 208047,
-      "word": "今年五一实际只放一天",
-      "onboard_time": 1681113988,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208038,
@@ -13665,14 +13681,6 @@
       "onboard_time": 1680430406,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206562,
-      "num": 206562,
-      "word": "王俊凯直播",
-      "onboard_time": 1681114408,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 206529,
@@ -14377,6 +14385,14 @@
       "onboard_time": 1680375134,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202339,
+      "num": 202339,
+      "word": "IVE主打曲iam",
+      "onboard_time": 1681114110,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 202334,
@@ -18019,14 +18035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170269,
-      "num": 170269,
-      "word": "IVE主打曲iam",
-      "onboard_time": 1681114110,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 170228,
       "num": 170228,
       "word": "大妈咖啡店里开茶话会并择菜",
@@ -18923,6 +18931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157907,
+      "num": 157907,
+      "word": "WTT新乡冠军赛2023",
+      "onboard_time": 1681115368,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157704,
       "num": 149953,
       "word": "黄景瑜下班随拍",
@@ -19635,6 +19651,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 147540,
+      "num": 147540,
+      "word": "白鹿看长月烬明剧本哭了无数次",
+      "onboard_time": 1681115189,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147394,
       "num": 147394,
       "word": "一种很新的旅游方式",
@@ -19985,14 +20009,6 @@
       "onboard_time": 1681110207,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141796,
-      "num": 141796,
-      "word": "去年是诀症今年是神烬病",
-      "onboard_time": 1681114467,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 141738,
@@ -21681,6 +21697,14 @@
       "onboard_time": 1680292872,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113635,
+      "num": 113635,
+      "word": "香港顶流姜涛直拍",
+      "onboard_time": 1681115609,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 113528,
