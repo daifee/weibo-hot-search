@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681148008180,
+  "endTime": 1681150852597,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -3281,6 +3281,14 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17126,
+      "num": 24739,
+      "word": "城市巡游记",
+      "onboard_time": 1681150813,
+      "rank": 49,
+      "category": "旅游"
     }
   ],
   "hotgov_list": [
