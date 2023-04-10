@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681133598139,
+  "endTime": 1681136143100,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -947,6 +947,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1868775,
+      "num": 1868775,
+      "word": "上海一写字楼内1人被捅伤身亡",
+      "onboard_time": 1681132285,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1865561,
       "num": 485451,
       "word": "张佳宁点痣了",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1680429150,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1465661,
+      "num": 1465661,
+      "word": "陈鑫海二公子",
+      "onboard_time": 1681131810,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1463179,
@@ -2091,6 +2107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1081039,
+      "num": 1081039,
+      "word": "跟老爸说买了墓地旁边的房子",
+      "onboard_time": 1681132047,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1079859,
       "num": 1079859,
       "word": "EXO 蝴蝶少女",
@@ -2361,14 +2385,6 @@
       "onboard_time": 1680703952,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 980156,
-      "num": 980156,
-      "word": "陈鑫海二公子",
-      "onboard_time": 1681131810,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 976361,
@@ -2652,7 +2668,7 @@
     },
     {
       "raw_hot": 904228,
-      "num": 245321,
+      "num": 292089,
       "word": "同居不同房的情侣是怎样的",
       "onboard_time": 1681124546,
       "rank": 22,
@@ -3129,6 +3145,14 @@
       "onboard_time": 1681093825,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 830655,
+      "num": 515981,
+      "word": "虞书欣泳衣旧照",
+      "onboard_time": 1681134207,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 829481,
@@ -3691,6 +3715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 723218,
+      "num": 723218,
+      "word": "WBG官宣easyhoon离队",
+      "onboard_time": 1681133129,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 722515,
       "num": 541415,
       "word": "裳月烬明",
@@ -4057,14 +4089,6 @@
       "onboard_time": 1680756994,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 674475,
-      "num": 488753,
-      "word": "上海一写字楼内1人被捅伤身亡",
-      "onboard_time": 1681132285,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 674466,
@@ -4947,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581672,
+      "num": 581672,
+      "word": "北京沙尘暴",
+      "onboard_time": 1681130007,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581626,
       "num": 316628,
       "word": "黄子韬回应又演明星",
@@ -5033,14 +5065,6 @@
       "onboard_time": 1680942505,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573099,
-      "num": 573099,
-      "word": "WBG官宣easyhoon离队",
-      "onboard_time": 1681133129,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 572390,
@@ -5361,14 +5385,6 @@
       "onboard_time": 1681091305,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544176,
-      "num": 544176,
-      "word": "北京沙尘暴",
-      "onboard_time": 1681130007,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 543449,
@@ -5795,6 +5811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 516500,
+      "num": 516500,
+      "word": "长月烬明原著",
+      "onboard_time": 1681133068,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 516467,
       "num": 419788,
       "word": "易烊千玺单手摘眼镜",
@@ -5865,6 +5889,14 @@
       "onboard_time": 1680307583,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512601,
+      "num": 512601,
+      "word": "为什么有人上班可以很快乐",
+      "onboard_time": 1681130606,
+      "rank": 16,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 511775,
@@ -6451,6 +6483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472141,
+      "num": 472141,
+      "word": "Lisa金智秀牵手跑",
+      "onboard_time": 1681133551,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472015,
       "num": 472015,
       "word": "男子连喝10多年栀子茶险肠坏死",
@@ -7011,12 +7051,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429535,
-      "num": 429535,
-      "word": "为什么有人上班可以很快乐",
-      "onboard_time": 1681130606,
-      "rank": 16,
-      "category": "情感,幽默"
+      "raw_hot": 429479,
+      "num": 429479,
+      "word": "你是什么门",
+      "onboard_time": 1681132948,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 429468,
@@ -7569,6 +7609,14 @@
       "onboard_time": 1680649581,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 399685,
+      "num": 286642,
+      "word": "网购别再只会看销量了",
+      "onboard_time": 1681131927,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 399572,
@@ -8275,14 +8323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361661,
-      "num": 361661,
-      "word": "跟老爸说买了墓地旁边的房子",
-      "onboard_time": 1681132047,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 361549,
       "num": 298258,
       "word": "早期央视镜头下的迪丽热巴",
@@ -8912,6 +8952,14 @@
       "word": "看得出来长月的片场真的很冷",
       "onboard_time": 1681038805,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 335746,
+      "num": 335746,
+      "word": "人生之路",
+      "onboard_time": 1680356610,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -9811,6 +9859,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 301148,
+      "num": 283456,
+      "word": "热门歌手演唱会人头数",
+      "onboard_time": 1681134809,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 300999,
       "num": 300999,
       "word": "朱一龙持股成立影业公司",
@@ -10033,6 +10089,14 @@
       "onboard_time": 1680860787,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 293235,
+      "num": 293235,
+      "word": "孙颖莎晋级冠军赛16强",
+      "onboard_time": 1681134269,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 292973,
@@ -10699,6 +10763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272690,
+      "num": 272690,
+      "word": "张楚桐",
+      "onboard_time": 1681133790,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272594,
       "num": 272594,
       "word": "只给钱不给爱的婚姻该继续吗",
@@ -11089,14 +11161,6 @@
       "onboard_time": 1680566129,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260290,
-      "num": 260290,
-      "word": "人生之路",
-      "onboard_time": 1680356610,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 260265,
@@ -11811,14 +11875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 243414,
-      "num": 243414,
-      "word": "长月烬明原著",
-      "onboard_time": 1681133068,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243407,
       "num": 225696,
       "word": "不做饭的人冰箱都放什么",
@@ -12217,6 +12273,14 @@
       "onboard_time": 1680845970,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 234680,
+      "num": 234680,
+      "word": "任嘉伦给高考生送祝福",
+      "onboard_time": 1681134988,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 234532,
@@ -13592,6 +13656,14 @@
       "word": "陈晓十六问高加林",
       "onboard_time": 1681124186,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210966,
+      "num": 210966,
+      "word": "人生之路大结局",
+      "onboard_time": 1681135769,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -15715,6 +15787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197550,
+      "num": 197550,
+      "word": "罗云熙白鹿神图",
+      "onboard_time": 1681136130,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197522,
       "num": 197522,
       "word": "任嘉伦直播",
@@ -17707,14 +17787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182597,
-      "num": 182597,
-      "word": "网购别再只会看销量了",
-      "onboard_time": 1681131927,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182531,
       "num": 182531,
       "word": "张国荣逝世20周年",
@@ -18361,14 +18433,6 @@
       "onboard_time": 1680684329,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173766,
-      "num": 173766,
-      "word": "你是什么门",
-      "onboard_time": 1681132948,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 173559,
@@ -19955,6 +20019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151209,
+      "num": 151209,
+      "word": "网友解读江疏影欢乐颂4人设",
+      "onboard_time": 1681134389,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150691,
       "num": 150691,
       "word": "喜欢你4女三零票",
@@ -20032,6 +20104,14 @@
       "word": "孙茜谈主角和配角",
       "onboard_time": 1680317668,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150395,
+      "num": 150395,
+      "word": "三生友幸什么时候结婚",
+      "onboard_time": 1681135948,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -20777,6 +20857,14 @@
       "onboard_time": 1680341011,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139368,
+      "num": 139368,
+      "word": "南京紫峰广场内一女子从中庭坠落身亡",
+      "onboard_time": 1681135828,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 139333,
@@ -21611,6 +21699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127736,
+      "num": 127736,
+      "word": "迪丽热巴进组",
+      "onboard_time": 1681136130,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127546,
       "num": 109073,
       "word": "宇宙探索编辑部上映",
@@ -22227,14 +22323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116804,
-      "num": 116804,
-      "word": "Lisa金智秀牵手跑",
-      "onboard_time": 1681133551,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116222,
       "num": 116222,
       "word": "金晨快乐工作vlog",
@@ -22467,6 +22555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110109,
+      "num": 110109,
+      "word": "陈晓新剧收视率持续破3",
+      "onboard_time": 1681136069,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109934,
       "num": 109934,
       "word": "杨丞琳想和黄潇再合作",
@@ -22649,6 +22745,14 @@
       "onboard_time": 1681007846,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104882,
+      "num": 104882,
+      "word": "天津的小吃",
+      "onboard_time": 1681135350,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 104693,
@@ -23931,6 +24035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27093,
+      "num": 1465834,
+      "word": "抢抓战略机遇增强发展信心",
+      "onboard_time": 1681132827,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
@@ -23943,14 +24055,6 @@
       "num": 1967170,
       "word": "开局之年共奋进",
       "onboard_time": 1680876452,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25959,
-      "num": 1035474,
-      "word": "抢抓战略机遇增强发展信心",
-      "onboard_time": 1681132827,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -24146,6 +24250,9 @@
     },
     {
       "word": "#聚焦第三届消博会#"
+    },
+    {
+      "word": "#云逛消博会#"
     }
   ]
 }
