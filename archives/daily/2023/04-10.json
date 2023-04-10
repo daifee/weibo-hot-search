@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681118215461,
+  "endTime": 1681119208309,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -67,20 +67,28 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1536049,
+      "num": 1536049,
+      "word": "今年五一实际只放一天",
+      "onboard_time": 1681113988,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1482115,
+      "num": 1482115,
+      "word": "竹筒奶茶 发霉",
+      "onboard_time": 1681113447,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1463179,
       "num": 489362,
       "word": "林俊杰 听说最近很多人想帮我理财",
       "onboard_time": 1681083383,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1440685,
-      "num": 1440685,
-      "word": "竹筒奶茶 发霉",
-      "onboard_time": 1681113447,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 1306370,
@@ -123,20 +131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1052372,
-      "num": 1052372,
-      "word": "今年五一实际只放一天",
-      "onboard_time": 1681113988,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 991924,
       "num": 991924,
       "word": "今年的假期余额只剩6天了",
       "onboard_time": 1681098928,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 944993,
+      "num": 944993,
+      "word": "倪妮生图",
+      "onboard_time": 1681117290,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 944238,
@@ -275,6 +283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 701241,
+      "num": 701241,
+      "word": "中国留学生称广岛原爆同情不起来",
+      "onboard_time": 1681117109,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686596,
       "num": 686596,
       "word": "30元竹筒奶茶是智商税吗",
@@ -347,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628086,
-      "num": 628086,
-      "word": "倪妮生图",
-      "onboard_time": 1681117290,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 627033,
       "num": 627033,
       "word": "到底是谁发明了调休",
@@ -411,6 +419,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 579159,
+      "num": 579159,
+      "word": "KnowKnow道歉",
+      "onboard_time": 1681118248,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 578390,
       "num": 578390,
       "word": "贵州失联母子已平安找到",
@@ -457,6 +473,14 @@
       "onboard_time": 1681091785,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 554728,
+      "num": 554728,
+      "word": "香港顶流姜涛直拍",
+      "onboard_time": 1681115609,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 553038,
@@ -529,14 +553,6 @@
       "onboard_time": 1681108706,
       "rank": 20,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 510448,
-      "num": 510448,
-      "word": "香港顶流姜涛直拍",
-      "onboard_time": 1681115609,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 506714,
@@ -1059,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 251408,
+      "num": 251408,
+      "word": "无锡着火",
+      "onboard_time": 1681114288,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249331,
       "num": 249331,
       "word": "景区回应骆驼被轮番棒打屈膝求饶",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1681107809,
       "rank": 38,
       "category": "军事"
-    },
-    {
-      "raw_hot": 242562,
-      "num": 242562,
-      "word": "无锡着火",
-      "onboard_time": 1681114288,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241356,
@@ -1139,6 +1155,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 234971,
+      "num": 210003,
+      "word": "韩国酵母",
+      "onboard_time": 1681117825,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234095,
       "num": 234095,
       "word": "长月烬明片尾",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1681095687,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 229001,
-      "num": 229001,
-      "word": "中国留学生称广岛原爆同情不起来",
-      "onboard_time": 1681117109,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228636,
@@ -1251,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218625,
+      "num": 208483,
+      "word": "白鹿看长月烬明剧本哭了无数次",
+      "onboard_time": 1681115189,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216006,
       "num": 216006,
       "word": "花莲上空连传4声不明巨响",
@@ -1299,14 +1323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 210003,
-      "num": 210003,
-      "word": "韩国酵母",
-      "onboard_time": 1681117825,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208913,
       "num": 208913,
       "word": "如何用国产AI玩成语接龙",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1681055129,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208483,
-      "num": 208483,
-      "word": "白鹿看长月烬明剧本哭了无数次",
-      "onboard_time": 1681115189,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 208038,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1681089927,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203538,
+      "num": 203538,
+      "word": "原神绮良良",
+      "onboard_time": 1681117648,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 203473,
@@ -1425,6 +1441,22 @@
       "onboard_time": 1681110393,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199938,
+      "num": 176173,
+      "word": "王鹤棣的健身房vlog",
+      "onboard_time": 1681118068,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199797,
+      "num": 201518,
+      "word": "北京柳絮",
+      "onboard_time": 1681117948,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199781,
@@ -1611,14 +1643,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 189666,
-      "num": 201518,
-      "word": "北京柳絮",
-      "onboard_time": 1681117948,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189302,
       "num": 189302,
       "word": "半熟恋人2全员红秀大片",
@@ -1763,6 +1787,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 176638,
+      "num": 176638,
+      "word": "淄博烧烤专列上车空手下车兜着走",
+      "onboard_time": 1681115309,
+      "rank": 32,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 176302,
       "num": 176302,
       "word": "白鲨挺进春决会师AG",
@@ -1851,28 +1883,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 161441,
-      "num": 142238,
-      "word": "王鹤棣的健身房vlog",
-      "onboard_time": 1681118068,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161200,
       "num": 161200,
       "word": "EXO或将以LoveMeRight概念回归",
       "onboard_time": 1681044149,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161069,
-      "num": 161069,
-      "word": "淄博烧烤专列上车空手下车兜着走",
-      "onboard_time": 1681115309,
-      "rank": 32,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 157907,
@@ -1937,6 +1953,14 @@
       "onboard_time": 1681096350,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149154,
+      "num": 170801,
+      "word": "天府绿道两骑行者相撞1人死亡",
+      "onboard_time": 1681118308,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 148457,
@@ -2011,6 +2035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141289,
+      "num": 170763,
+      "word": "除了卡针还能用什么取SIM卡",
+      "onboard_time": 1681118188,
+      "rank": 47,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 141078,
       "num": 273277,
       "word": "懒人吹发头神器",
@@ -2025,14 +2057,6 @@
       "onboard_time": 1681034546,
       "rank": 36,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 140943,
-      "num": 140943,
-      "word": "原神绮良良",
-      "onboard_time": 1681117648,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 140230,
@@ -2147,14 +2171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111245,
-      "num": 111245,
-      "word": "除了卡针还能用什么取SIM卡",
-      "onboard_time": 1681118188,
-      "rank": 47,
-      "category": "科技,幽默"
-    },
-    {
       "raw_hot": 110885,
       "num": 110885,
       "word": "燃烧的巴黎圣母院",
@@ -2224,6 +2240,14 @@
       "word": "这些旅游专列已发车",
       "onboard_time": 1681042525,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95055,
+      "num": 95055,
+      "word": "广东人最近穿黄色绿色衣服要留心",
+      "onboard_time": 1681119088,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
