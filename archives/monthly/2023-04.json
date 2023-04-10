@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681121884936,
+  "endTime": 1681122806572,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2499424,
+      "num": 2499424,
+      "word": "中国留学生称广岛原爆同情不起来",
+      "onboard_time": 1681117109,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2455752,
       "num": 2455752,
       "word": "新冠病毒可能来源于人类",
@@ -641,14 +649,6 @@
       "onboard_time": 1680862171,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2278823,
-      "num": 2278823,
-      "word": "中国留学生称广岛原爆同情不起来",
-      "onboard_time": 1681117109,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2234743,
@@ -2107,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1068948,
+      "num": 1068948,
+      "word": "难听",
+      "onboard_time": 1681120827,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1063073,
       "num": 377361,
       "word": "肖战回应形象变化",
@@ -3387,14 +3395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 759997,
-      "num": 759997,
-      "word": "难听",
-      "onboard_time": 1681120827,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 759378,
       "num": 759378,
       "word": "香椿炒鸡蛋",
@@ -4321,6 +4321,14 @@
       "onboard_time": 1680580112,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 640383,
+      "num": 640383,
+      "word": "Liz瘦了",
+      "onboard_time": 1681121426,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 640290,
@@ -6635,14 +6643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 448758,
-      "num": 448758,
-      "word": "Liz瘦了",
-      "onboard_time": 1681121426,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 448752,
       "num": 448752,
       "word": "忠犬八公",
@@ -7955,6 +7955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371140,
+      "num": 371140,
+      "word": "杨幂关雪定妆照",
+      "onboard_time": 1681122567,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371030,
       "num": 371030,
       "word": "这就是中国人骨子里的温良吧",
@@ -8217,6 +8225,14 @@
       "onboard_time": 1680845010,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355378,
+      "num": 355378,
+      "word": "网友P瘦了的沈腾",
+      "onboard_time": 1681122027,
+      "rank": 18,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 355251,
@@ -8585,6 +8601,14 @@
       "onboard_time": 1680508531,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342673,
+      "num": 972866,
+      "word": "隧道内百余辆车45度让出救援通道",
+      "onboard_time": 1681120827,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 342475,
@@ -9939,6 +9963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289892,
+      "num": 289892,
+      "word": "广东人最近穿黄色绿色衣服要留心",
+      "onboard_time": 1681119088,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289322,
       "num": 289322,
       "word": "长月烬明一眼万年海报",
@@ -10113,14 +10145,6 @@
       "onboard_time": 1680496236,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 284437,
-      "num": 259988,
-      "word": "广东人最近穿黄色绿色衣服要留心",
-      "onboard_time": 1681119088,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284187,
@@ -11123,6 +11147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 255909,
+      "num": 236147,
+      "word": "澹台烬放财神爷一马",
+      "onboard_time": 1681120888,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255882,
       "num": 223589,
       "word": "什么精神状态设计出这茶漏",
@@ -11995,6 +12027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233957,
+      "num": 233957,
+      "word": "周杰伦香港演唱会",
+      "onboard_time": 1681119625,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233710,
       "num": 233710,
       "word": "密子君说小强是自己红油里的",
@@ -12449,14 +12489,6 @@
       "onboard_time": 1680706472,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225685,
-      "num": 225685,
-      "word": "周杰伦香港演唱会",
-      "onboard_time": 1681119625,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 225391,
@@ -14163,6 +14195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204217,
+      "num": 204217,
+      "word": "广西人4月可以多放3天假",
+      "onboard_time": 1681119508,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204205,
       "num": 204205,
       "word": "MSI",
@@ -15323,6 +15363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198142,
+      "num": 198142,
+      "word": "安宥真高音",
+      "onboard_time": 1681122210,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198129,
       "num": 198129,
       "word": "林俊杰出道20周年",
@@ -15371,14 +15419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 197977,
-      "num": 197977,
-      "word": "澹台烬放财神爷一马",
-      "onboard_time": 1681120888,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197964,
       "num": 182546,
       "word": "白鹿学舞",
@@ -15409,6 +15449,14 @@
       "onboard_time": 1681102771,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197522,
+      "num": 197522,
+      "word": "任嘉伦直播",
+      "onboard_time": 1681122448,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 197483,
@@ -16211,6 +16259,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 191758,
+      "num": 191758,
+      "word": "除了卡针还能用什么取SIM卡",
+      "onboard_time": 1681118188,
+      "rank": 47,
+      "category": "科技,幽默"
+    },
+    {
       "raw_hot": 191752,
       "num": 191752,
       "word": "卫国平今晚意能平吗",
@@ -16273,14 +16329,6 @@
       "onboard_time": 1680614493,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191400,
-      "num": 191400,
-      "word": "广西人4月可以多放3天假",
-      "onboard_time": 1681119508,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191330,
@@ -17699,14 +17747,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 178720,
-      "num": 178720,
-      "word": "除了卡针还能用什么取SIM卡",
-      "onboard_time": 1681118188,
-      "rank": 47,
-      "category": "科技,幽默"
-    },
-    {
       "raw_hot": 178650,
       "num": 170728,
       "word": "愚人节文案",
@@ -17979,11 +18019,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174613,
+      "num": 174613,
+      "word": "读书是为了赚钱吗",
+      "onboard_time": 1681118787,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174227,
       "num": 174227,
       "word": "罗云熙白鹿长月烬明猫眼登顶",
       "onboard_time": 1680834987,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 174186,
+      "num": 174186,
+      "word": "罗云熙冥夜转场视频",
+      "onboard_time": 1681122567,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -18321,14 +18377,6 @@
       "onboard_time": 1680525153,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168921,
-      "num": 848354,
-      "word": "隧道内百余辆车45度让出救援通道",
-      "onboard_time": 1681120827,
-      "rank": 4,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 168846,
@@ -21947,14 +21995,6 @@
       "category": "社会议题,旅游"
     },
     {
-      "raw_hot": 112706,
-      "num": 112706,
-      "word": "读书是为了赚钱吗",
-      "onboard_time": 1681118787,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112686,
       "num": 112686,
       "word": "当代女生对丑甲的执念",
@@ -22587,6 +22627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97136,
+      "num": 821496,
+      "word": "七旬奶奶说认真做书的温度会被看见",
+      "onboard_time": 1681120827,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 97119,
       "num": 97119,
       "word": "国际爱鸟日",
@@ -23033,14 +23081,6 @@
       "onboard_time": 1680768331,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 69865,
-      "num": 821496,
-      "word": "七旬奶奶说认真做书的温度会被看见",
-      "onboard_time": 1681120827,
-      "rank": 6,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 69500,
