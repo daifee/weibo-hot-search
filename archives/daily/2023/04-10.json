@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681107731601,
+  "endTime": 1681108525516,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666659,
+      "num": 666659,
+      "word": "黄晓明问贾乃亮龚俊我可以相信你们吗",
+      "onboard_time": 1681105349,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655808,
       "num": 440389,
       "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
@@ -265,14 +273,6 @@
       "onboard_time": 1681097008,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 640672,
-      "num": 640672,
-      "word": "黄晓明问贾乃亮龚俊我可以相信你们吗",
-      "onboard_time": 1681105349,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 635373,
@@ -467,8 +467,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422014,
-      "num": 422014,
+      "raw_hot": 431127,
+      "num": 431127,
       "word": "东部战区组织环台岛战备警巡",
       "onboard_time": 1681105349,
       "rank": 12,
@@ -571,6 +571,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 367686,
+      "num": 367686,
+      "word": "女子起诉邻居装可视门铃法院判拆除",
+      "onboard_time": 1681104268,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363673,
       "num": 363673,
       "word": "湖南邵阳路边打人事件",
@@ -635,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325756,
+      "num": 312339,
+      "word": "梁友安坦白自己不能生孩子",
+      "onboard_time": 1681107207,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322912,
       "num": 284951,
       "word": "论文很烂但致谢被老师夸了",
@@ -673,14 +689,6 @@
       "onboard_time": 1681095024,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 312670,
-      "num": 312670,
-      "word": "女子起诉邻居装可视门铃法院判拆除",
-      "onboard_time": 1681104268,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303361,
@@ -899,6 +907,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226028,
+      "num": 226028,
+      "word": "山东舰首次参加环台岛战备警巡",
+      "onboard_time": 1681108107,
+      "rank": 23,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 224976,
+      "num": 224976,
+      "word": "澹台烬 优雅的疯子",
+      "onboard_time": 1681106667,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221373,
       "num": 221373,
       "word": "周深的舞台里藏着待播电影名",
@@ -907,11 +931,11 @@
       "category": "影视,音乐"
     },
     {
-      "raw_hot": 220931,
-      "num": 220931,
-      "word": "澹台烬 优雅的疯子",
-      "onboard_time": 1681106667,
-      "rank": 25,
+      "raw_hot": 221338,
+      "num": 221338,
+      "word": "少女魔尊",
+      "onboard_time": 1681107748,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -945,14 +969,6 @@
       "onboard_time": 1681105949,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 217544,
-      "num": 213040,
-      "word": "梁友安坦白自己不能生孩子",
-      "onboard_time": 1681107207,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 216006,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1681096709,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205757,
+      "num": 200332,
+      "word": "浙大着火",
+      "onboard_time": 1681108227,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205270,
@@ -1227,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190015,
+      "num": 196618,
+      "word": "GR战队",
+      "onboard_time": 1681107987,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189753,
       "num": 189753,
       "word": "王源杂志",
@@ -1331,6 +1363,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 179520,
+      "num": 179520,
+      "word": "卡维",
+      "onboard_time": 1681107148,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179493,
       "num": 179493,
       "word": "白鹿桑酒妆造",
@@ -1379,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172021,
+      "num": 172021,
+      "word": "美舰擅闯南沙岛礁邻近海域南部战区回应",
+      "onboard_time": 1681107809,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 171707,
       "num": 171707,
       "word": "长月烬明",
@@ -1408,6 +1456,14 @@
       "word": "小S去看张惠妹演唱会了",
       "onboard_time": 1681082119,
       "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 168073,
+      "num": 168073,
+      "word": "新疆草莓音乐节",
+      "onboard_time": 1681107088,
+      "rank": 42,
       "category": "音乐"
     },
     {
@@ -1491,14 +1547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148600,
-      "num": 148600,
-      "word": "新疆草莓音乐节",
-      "onboard_time": 1681107088,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 146536,
       "num": 146536,
       "word": "张真源走路视频",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1681097369,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 138248,
-      "num": 138248,
-      "word": "卡维",
-      "onboard_time": 1681107148,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 135873,

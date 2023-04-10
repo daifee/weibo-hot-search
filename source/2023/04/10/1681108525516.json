@@ -1,0 +1,410 @@
+{
+  "runTime": 1681108525516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2383946,
+        "num": 2383946,
+        "word": "演员吴耀汉去世",
+        "onboard_time": 1681101517,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1048008,
+        "num": 1048008,
+        "word": "周杰伦起诉网易不正当竞争",
+        "onboard_time": 1681095266,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 89793,
+        "num": 942147,
+        "word": "2023第100天",
+        "onboard_time": 1681082540,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919714,
+        "num": 919714,
+        "word": "原来真有大学生不会骑电车",
+        "onboard_time": 1681096949,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 686285,
+        "num": 686285,
+        "word": "今年的假期余额只剩6天了",
+        "onboard_time": 1681098928,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 666659,
+        "num": 666659,
+        "word": "黄晓明问贾乃亮龚俊我可以相信你们吗",
+        "onboard_time": 1681105349,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661783,
+        "num": 661783,
+        "word": "迪丽热巴金世佳 利剑玫瑰",
+        "onboard_time": 1681099169,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532155,
+        "num": 532155,
+        "word": "张杰演唱会门票谁抢走了",
+        "onboard_time": 1681105589,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 523441,
+        "num": 523441,
+        "word": "今年五一连休五天",
+        "onboard_time": 1681091305,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516525,
+        "num": 516525,
+        "word": "罗云熙提裙",
+        "onboard_time": 1681102112,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 468963,
+        "num": 468963,
+        "word": "被偷五年的小狗自己回来了",
+        "onboard_time": 1681101755,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 431127,
+        "num": 431127,
+        "word": "东部战区组织环台岛战备警巡",
+        "onboard_time": 1681105349,
+        "rank": 11,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 395745,
+        "num": 395745,
+        "word": "马伊琍前半生6年后再演家庭剧",
+        "onboard_time": 1681100734,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381188,
+        "num": 381188,
+        "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
+        "onboard_time": 1681096409,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367686,
+        "num": 367686,
+        "word": "女子起诉邻居装可视门铃法院判拆除",
+        "onboard_time": 1681104268,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364060,
+        "num": 364060,
+        "word": "我的工资和我的假期一样少",
+        "onboard_time": 1681102413,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350874,
+        "num": 350874,
+        "word": "iPhone15ProMax预计售价2万块",
+        "onboard_time": 1681088489,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 350836,
+        "num": 350836,
+        "word": "凌晨的火车上全是大学生",
+        "onboard_time": 1681101454,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323565,
+        "num": 323565,
+        "word": "周雨彤签约壹心",
+        "onboard_time": 1681096529,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323030,
+        "num": 323030,
+        "word": "pledis称SEVENTEEN此次回归为历代级",
+        "onboard_time": 1681104750,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 325756,
+        "num": 312339,
+        "word": "梁友安坦白自己不能生孩子",
+        "onboard_time": 1681107207,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301250,
+        "num": 301250,
+        "word": "于和伟 街溜子",
+        "onboard_time": 1681103968,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234172,
+        "num": 234172,
+        "word": "易烊千玺称自己没把偶像当身份",
+        "onboard_time": 1681099651,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226028,
+        "num": 226028,
+        "word": "山东舰首次参加环台岛战备警巡",
+        "onboard_time": 1681108107,
+        "rank": 23,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 225911,
+        "num": 225911,
+        "word": "为什么五一要调休",
+        "onboard_time": 1681096286,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224976,
+        "num": 224976,
+        "word": "澹台烬 优雅的疯子",
+        "onboard_time": 1681106667,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221338,
+        "num": 221338,
+        "word": "少女魔尊",
+        "onboard_time": 1681107748,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212145,
+        "num": 212145,
+        "word": "五一上班3倍其余四天2倍工资",
+        "onboard_time": 1681099410,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 208006,
+        "num": 208006,
+        "word": "花莲上空连传4声不明巨响",
+        "onboard_time": 1681105768,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201791,
+        "num": 201791,
+        "word": "女生穿洛丽塔5秒反超跑第1",
+        "onboard_time": 1681099588,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205757,
+        "num": 200332,
+        "word": "浙大着火",
+        "onboard_time": 1681108227,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197666,
+        "num": 197666,
+        "word": "如何用国产AI玩成语接龙",
+        "onboard_time": 1681107329,
+        "rank": 31,
+        "category": "科技,科技"
+      },
+      {
+        "raw_hot": 197613,
+        "num": 197613,
+        "word": "姐弟恋有何好处",
+        "onboard_time": 1681105949,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190015,
+        "num": 196618,
+        "word": "GR战队",
+        "onboard_time": 1681107987,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191804,
+        "num": 196480,
+        "word": "Twins瑞丽封面",
+        "onboard_time": 1681107448,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196373,
+        "num": 196373,
+        "word": "anan柯南封面",
+        "onboard_time": 1681105827,
+        "rank": 35,
+        "category": "影视,作品衍生"
+      },
+      {
+        "raw_hot": 193652,
+        "num": 193652,
+        "word": "如梦之梦",
+        "onboard_time": 1681102713,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179520,
+        "num": 179520,
+        "word": "卡维",
+        "onboard_time": 1681107148,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172021,
+        "num": 172021,
+        "word": "美舰擅闯南沙岛礁邻近海域南部战区回应",
+        "onboard_time": 1681107809,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 170289,
+        "num": 170289,
+        "word": "江苏专转本",
+        "onboard_time": 1681106126,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168527,
+        "num": 168527,
+        "word": "陈都灵天欢妆造",
+        "onboard_time": 1681102533,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168073,
+        "num": 168073,
+        "word": "新疆草莓音乐节",
+        "onboard_time": 1681107088,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164612,
+        "num": 164612,
+        "word": "上班只是为了钱吗",
+        "onboard_time": 1681103014,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160531,
+        "num": 160531,
+        "word": "粉丝美国偶遇虞书欣",
+        "onboard_time": 1681098390,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154233,
+        "num": 154233,
+        "word": "骆驼被景区人员轮番棒打惨叫下跪",
+        "onboard_time": 1681095448,
+        "rank": 44,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 154049,
+        "num": 154049,
+        "word": "王源正在筹备自己的首次巡回演唱会",
+        "onboard_time": 1681102771,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146698,
+        "num": 146698,
+        "word": "湖南邵阳路边打人事件",
+        "onboard_time": 1681100193,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 142577,
+        "num": 142577,
+        "word": "BoysPlanet选手的年龄",
+        "onboard_time": 1681104151,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142185,
+        "num": 142185,
+        "word": "林俊杰新专辑重拾快乐",
+        "onboard_time": 1681106067,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138527,
+        "num": 138527,
+        "word": "西湖醋鱼换鱼了",
+        "onboard_time": 1681097008,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#开局加把劲#"
+    }
+  }
+}
