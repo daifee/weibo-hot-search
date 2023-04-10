@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681136143100,
+  "endTime": 1681137246208,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -67,6 +67,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2041902,
+      "num": 2041902,
+      "word": "上海一写字楼内1人被捅伤身亡",
+      "onboard_time": 1681132285,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1956887,
       "num": 1193563,
       "word": "iPhone15ProMax预计售价2万块",
@@ -81,14 +89,6 @@
       "onboard_time": 1681122988,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1868775,
-      "num": 1868775,
-      "word": "上海一写字楼内1人被捅伤身亡",
-      "onboard_time": 1681132285,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1796047,
@@ -129,6 +129,14 @@
       "onboard_time": 1681083383,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1345312,
+      "num": 1345312,
+      "word": "跟老爸说买了墓地旁边的房子",
+      "onboard_time": 1681132047,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 1306370,
@@ -179,14 +187,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 1081039,
-      "num": 1081039,
-      "word": "跟老爸说买了墓地旁边的房子",
-      "onboard_time": 1681132047,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1074016,
       "num": 1074016,
       "word": "淄博政府反应也好快",
@@ -201,6 +201,14 @@
       "onboard_time": 1681120827,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1021624,
+      "num": 557085,
+      "word": "虞书欣泳衣旧照",
+      "onboard_time": 1681134207,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 991924,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 904228,
-      "num": 292089,
+      "num": 386667,
       "word": "同居不同房的情侣是怎样的",
       "onboard_time": 1681124546,
       "rank": 22,
@@ -313,14 +321,6 @@
       "onboard_time": 1681093825,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 830655,
-      "num": 515981,
-      "word": "虞书欣泳衣旧照",
-      "onboard_time": 1681134207,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 829481,
@@ -457,6 +457,14 @@
       "onboard_time": 1681097008,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 650583,
+      "num": 650583,
+      "word": "迪丽热巴进组",
+      "onboard_time": 1681136130,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 640383,
@@ -609,6 +617,14 @@
       "onboard_time": 1681091785,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 554887,
+      "num": 554887,
+      "word": "人生之路大结局",
+      "onboard_time": 1681135769,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 554728,
@@ -843,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 452672,
+      "num": 381845,
+      "word": "网购别再只会看销量了",
+      "onboard_time": 1681131927,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 438785,
       "num": 438785,
       "word": "上海海事大学称举报均不属实",
@@ -897,6 +921,14 @@
       "onboard_time": 1681110689,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411548,
+      "num": 411548,
+      "word": "肖战做美式咖啡",
+      "onboard_time": 1681136252,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 407700,
@@ -955,14 +987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 399685,
-      "num": 286642,
-      "word": "网购别再只会看销量了",
-      "onboard_time": 1681131927,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 397875,
       "num": 397875,
       "word": "冥夜天欢VS冥夜桑酒",
@@ -985,6 +1009,14 @@
       "onboard_time": 1681099111,
       "rank": 23,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 381689,
+      "num": 381689,
+      "word": "热门歌手演唱会人头数",
+      "onboard_time": 1681134809,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 377306,
@@ -1032,6 +1064,14 @@
       "word": "湖南邵阳路边打人事件",
       "onboard_time": 1681100193,
       "rank": 47,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 358992,
+      "num": 358992,
+      "word": "南京紫峰广场内一女子从中庭坠落身亡",
+      "onboard_time": 1681135828,
+      "rank": 38,
       "category": "社会负面"
     },
     {
@@ -1179,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 313555,
+      "num": 313555,
+      "word": "罗云熙白鹿神图",
+      "onboard_time": 1681136130,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312886,
       "num": 312886,
       "word": "熊猫也有平替",
@@ -1211,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301148,
-      "num": 283456,
-      "word": "热门歌手演唱会人头数",
-      "onboard_time": 1681134809,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 298579,
       "num": 298579,
       "word": "UNINE成员聚会合照",
@@ -1240,6 +1280,14 @@
       "word": "孙颖莎晋级冠军赛16强",
       "onboard_time": 1681134269,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 290302,
+      "num": 397168,
+      "word": "张楚桐",
+      "onboard_time": 1681133790,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -1313,14 +1361,6 @@
       "onboard_time": 1681094666,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272690,
-      "num": 272690,
-      "word": "张楚桐",
-      "onboard_time": 1681133790,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 272041,
@@ -1425,6 +1465,14 @@
       "onboard_time": 1681107809,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 245658,
+      "num": 228525,
+      "word": "高加林终于知道顶替真相",
+      "onboard_time": 1681136490,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 242553,
@@ -1547,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233439,
+      "num": 227307,
+      "word": "陈晓新剧收视率持续破3",
+      "onboard_time": 1681136069,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232341,
       "num": 232341,
       "word": "车银优演唱会用粉丝手机自拍",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1681108107,
       "rank": 23,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 225834,
+      "num": 225834,
+      "word": "被当街踹倒女子好友发声",
+      "onboard_time": 1681136310,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224976,
@@ -1700,7 +1764,7 @@
     },
     {
       "raw_hot": 214505,
-      "num": 214505,
+      "num": 228617,
       "word": "瘫痪女童复健3年能骑自行车了",
       "onboard_time": 1681127308,
       "rank": 23,
@@ -1731,14 +1795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210966,
-      "num": 210966,
-      "word": "人生之路大结局",
-      "onboard_time": 1681135769,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210492,
       "num": 210492,
       "word": "神隐全员动物设定",
@@ -1761,6 +1817,14 @@
       "onboard_time": 1681107329,
       "rank": 32,
       "category": "科技,科技"
+    },
+    {
+      "raw_hot": 208641,
+      "num": 208641,
+      "word": "江宁路",
+      "onboard_time": 1681136730,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208618,
@@ -1809,6 +1873,14 @@
       "onboard_time": 1681119508,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203725,
+      "num": 203725,
+      "word": "樊振东晋级冠军赛16强",
+      "onboard_time": 1681136551,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 203473,
@@ -1971,14 +2043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 197550,
-      "num": 197550,
-      "word": "罗云熙白鹿神图",
-      "onboard_time": 1681136130,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 197522,
       "num": 197522,
       "word": "任嘉伦直播",
@@ -2011,12 +2075,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196941,
+      "num": 196941,
+      "word": "长月烬明神魔大战",
+      "onboard_time": 1681136909,
+      "rank": 37,
+      "category": "影视,游戏"
+    },
+    {
       "raw_hot": 196619,
       "num": 196619,
       "word": "投资者对苹果头显缺乏信心原因",
       "onboard_time": 1681095807,
       "rank": 35,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 196017,
+      "num": 196017,
+      "word": "王天辰发文告别高双星",
+      "onboard_time": 1681137151,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 195953,
@@ -2459,6 +2539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153956,
+      "num": 153956,
+      "word": "三生友幸什么时候结婚",
+      "onboard_time": 1681135948,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153459,
       "num": 153459,
       "word": "李宇春说新专辑像是私人日记",
@@ -2488,14 +2576,6 @@
       "word": "网友解读江疏影欢乐颂4人设",
       "onboard_time": 1681134389,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 150395,
-      "num": 150395,
-      "word": "三生友幸什么时候结婚",
-      "onboard_time": 1681135948,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -2643,20 +2723,20 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 140884,
+      "num": 140884,
+      "word": "曾凡博暴扣",
+      "onboard_time": 1681136191,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140230,
       "num": 140230,
       "word": "方芷衡郭声扬欢4醉酒戏上大分",
       "onboard_time": 1681097369,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139368,
-      "num": 139368,
-      "word": "南京紫峰广场内一女子从中庭坠落身亡",
-      "onboard_time": 1681135828,
-      "rank": 38,
-      "category": "社会负面"
     },
     {
       "raw_hot": 135873,
@@ -2731,14 +2811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127736,
-      "num": 127736,
-      "word": "迪丽热巴进组",
-      "onboard_time": 1681136130,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 126823,
       "num": 126823,
       "word": "吴磊后仰苏感",
@@ -2811,14 +2883,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 110109,
-      "num": 110109,
-      "word": "陈晓新剧收视率持续破3",
-      "onboard_time": 1681136069,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 109582,
       "num": 109582,
       "word": "EDG醒醒",
@@ -2860,7 +2924,7 @@
     },
     {
       "raw_hot": 104882,
-      "num": 104882,
+      "num": 116066,
       "word": "天津的小吃",
       "onboard_time": 1681135350,
       "rank": 48,
@@ -2987,20 +3051,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30717,
+      "num": 1465834,
+      "word": "抢抓战略机遇增强发展信心",
+      "onboard_time": 1681132827,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28108,
       "num": 28108,
       "word": "易烊千玺M榜年度影响力演员",
       "onboard_time": 1681048530,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27093,
-      "num": 1465834,
-      "word": "抢抓战略机遇增强发展信心",
-      "onboard_time": 1681132827,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24143,
