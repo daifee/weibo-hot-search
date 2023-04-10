@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681143739918,
+  "endTime": 1681144614969,
   "band_list": [
     {
       "raw_hot": 936247,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427539,
+      "num": 427539,
+      "word": "你怎么看年轻人更愿意搞钱",
+      "onboard_time": 1681140866,
+      "rank": 8,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 420445,
       "num": 214762,
       "word": "同居不同房的情侣是怎样的",
@@ -67,20 +75,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 403245,
+      "num": 403245,
+      "word": "沙尘暴 柳絮",
+      "onboard_time": 1681140090,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397673,
       "num": 214133,
       "word": "当香港人在东北买水果时",
       "onboard_time": 1681138768,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 393587,
-      "num": 393587,
-      "word": "沙尘暴 柳絮",
-      "onboard_time": 1681140090,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378643,
@@ -107,14 +115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 338243,
-      "num": 338243,
-      "word": "你怎么看年轻人更愿意搞钱",
-      "onboard_time": 1681140866,
-      "rank": 8,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 319800,
       "num": 319800,
       "word": "陈鑫海二公子",
@@ -137,6 +137,14 @@
       "onboard_time": 1681131927,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246824,
+      "num": 243220,
+      "word": "ive新歌和你xx的适配度",
+      "onboard_time": 1681142545,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 246524,
@@ -211,14 +219,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 184306,
-      "num": 184306,
-      "word": "ive新歌和你xx的适配度",
-      "onboard_time": 1681142545,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 178839,
       "num": 178839,
       "word": "金智秀说我是你们的宝宝",
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151535,
+      "num": 199271,
+      "word": "法考",
+      "onboard_time": 1681136252,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151484,
       "num": 151484,
       "word": "人生之路大结局",
@@ -307,20 +315,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 114754,
-      "num": 114754,
-      "word": "法考",
-      "onboard_time": 1681136252,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 112506,
       "num": 112506,
       "word": "无刺榴莲",
       "onboard_time": 1681138169,
       "rank": 41,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 102657,
+      "num": 102657,
+      "word": "原来熊猫也喜欢看热闹",
+      "onboard_time": 1681142964,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 96616,
@@ -339,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93811,
+      "num": 93811,
+      "word": "高加林高双星人生再次互换",
+      "onboard_time": 1681143205,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 92461,
       "num": 92461,
       "word": "淄博政府反应也好快",
@@ -353,22 +369,6 @@
       "onboard_time": 1681136069,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 79253,
-      "num": 76056,
-      "word": "高加林高双星人生再次互换",
-      "onboard_time": 1681143205,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 76518,
-      "num": 76518,
-      "word": "原来熊猫也喜欢看热闹",
-      "onboard_time": 1681142964,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 75262,

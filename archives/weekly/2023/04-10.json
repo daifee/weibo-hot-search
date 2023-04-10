@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681143739918,
+  "endTime": 1681144614969,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -939,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 427539,
+      "num": 427539,
+      "word": "你怎么看年轻人更愿意搞钱",
+      "onboard_time": 1681140866,
+      "rank": 8,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 425674,
       "num": 425674,
       "word": "四川西昌突发森林火灾",
@@ -1027,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403245,
+      "num": 403245,
+      "word": "沙尘暴 柳絮",
+      "onboard_time": 1681140090,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401575,
       "num": 401575,
       "word": "孙怡模仿TangoZ红毯姿势",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1681102413,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 393587,
-      "num": 393587,
-      "word": "沙尘暴 柳絮",
-      "onboard_time": 1681140090,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393021,
@@ -1201,14 +1209,6 @@
       "onboard_time": 1681104750,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338243,
-      "num": 338243,
-      "word": "你怎么看年轻人更愿意搞钱",
-      "onboard_time": 1681140866,
-      "rank": 8,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 335746,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1681107809,
       "rank": 38,
       "category": "军事"
+    },
+    {
+      "raw_hot": 246824,
+      "num": 243220,
+      "word": "ive新歌和你xx的适配度",
+      "onboard_time": 1681142545,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 242553,
@@ -2435,14 +2443,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 184306,
-      "num": 184306,
-      "word": "ive新歌和你xx的适配度",
-      "onboard_time": 1681142545,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 182615,
       "num": 182615,
       "word": "恋综cp都在长沙红人节合体了",
@@ -2705,6 +2705,14 @@
       "onboard_time": 1681142424,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151535,
+      "num": 199271,
+      "word": "法考",
+      "onboard_time": 1681136252,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 151209,
@@ -3019,14 +3027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114754,
-      "num": 114754,
-      "word": "法考",
-      "onboard_time": 1681136252,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 113952,
       "num": 113952,
       "word": "川大研究称善于社交更长寿",
@@ -3099,6 +3099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 102657,
+      "num": 102657,
+      "word": "原来熊猫也喜欢看热闹",
+      "onboard_time": 1681142964,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102220,
       "num": 102220,
       "word": "利物浦vs阿森纳",
@@ -3137,6 +3145,14 @@
       "onboard_time": 1681049130,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 93811,
+      "num": 93811,
+      "word": "高加林高双星人生再次互换",
+      "onboard_time": 1681143205,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 93525,
@@ -3179,27 +3195,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79253,
-      "num": 76056,
-      "word": "高加林高双星人生再次互换",
-      "onboard_time": 1681143205,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 77525,
       "num": 77525,
       "word": "光明正大薅熊猫毛的乌鸦",
       "onboard_time": 1681048112,
       "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 76518,
-      "num": 76518,
-      "word": "原来熊猫也喜欢看热闹",
-      "onboard_time": 1681142964,
-      "rank": 46,
       "category": "幽默"
     },
     {

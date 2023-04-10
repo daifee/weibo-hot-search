@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681143739918,
+  "endTime": 1681144614969,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -7163,6 +7163,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 427539,
+      "num": 427539,
+      "word": "你怎么看年轻人更愿意搞钱",
+      "onboard_time": 1681140866,
+      "rank": 8,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 427104,
       "num": 427104,
       "word": "MetGala 蔡徐坤",
@@ -7643,6 +7651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 403245,
+      "num": 403245,
+      "word": "沙尘暴 柳絮",
+      "onboard_time": 1681140090,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403142,
       "num": 403142,
       "word": "安乐传",
@@ -7848,14 +7864,6 @@
       "word": "员工有权利拒绝节假日加班",
       "onboard_time": 1680693812,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393587,
-      "num": 393587,
-      "word": "沙尘暴 柳絮",
-      "onboard_time": 1681140090,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -9025,14 +9033,6 @@
       "onboard_time": 1680338491,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 338243,
-      "num": 338243,
-      "word": "你怎么看年轻人更愿意搞钱",
-      "onboard_time": 1681140866,
-      "rank": 8,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 336628,
@@ -11865,6 +11865,14 @@
       "onboard_time": 1680421349,
       "rank": 17,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 246824,
+      "num": 243220,
+      "word": "ive新歌和你xx的适配度",
+      "onboard_time": 1681142545,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 246444,
@@ -17795,14 +17803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184306,
-      "num": 184306,
-      "word": "ive新歌和你xx的适配度",
-      "onboard_time": 1681142545,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 184291,
       "num": 197842,
       "word": "百想艺术大赏",
@@ -20227,6 +20227,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 151535,
+      "num": 199271,
+      "word": "法考",
+      "onboard_time": 1681136252,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151305,
       "num": 151305,
       "word": "SEVENTEEN新歌含义",
@@ -22627,14 +22635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114754,
-      "num": 114754,
-      "word": "法考",
-      "onboard_time": 1681136252,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 113952,
       "num": 113952,
       "word": "川大研究称善于社交更长寿",
@@ -23091,6 +23091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102657,
+      "num": 102657,
+      "word": "原来熊猫也喜欢看热闹",
+      "onboard_time": 1681142964,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102623,
       "num": 102623,
       "word": "王源唱骄傲",
@@ -23459,6 +23467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 93811,
+      "num": 93811,
+      "word": "高加林高双星人生再次互换",
+      "onboard_time": 1681143205,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 93711,
       "num": 93711,
       "word": "童年花式回忆杀",
@@ -23715,14 +23731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79253,
-      "num": 76056,
-      "word": "高加林高双星人生再次互换",
-      "onboard_time": 1681143205,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 77721,
       "num": 437012,
       "word": "过敏性鼻炎犯了有多难受",
@@ -23737,14 +23745,6 @@
       "onboard_time": 1680375016,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 76518,
-      "num": 76518,
-      "word": "原来熊猫也喜欢看热闹",
-      "onboard_time": 1681142964,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 76512,
