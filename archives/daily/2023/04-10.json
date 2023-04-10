@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681097613707,
+  "endTime": 1681100449357,
   "band_list": [
     {
       "raw_hot": 2970044,
@@ -11,12 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2733036,
-      "num": 2733036,
+      "raw_hot": 2957165,
+      "num": 2957165,
       "word": "周杰伦起诉网易不正当竞争",
       "onboard_time": 1681095266,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2287464,
+      "num": 2287464,
+      "word": "迪丽热巴金世佳 利剑玫瑰",
+      "onboard_time": 1681099169,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 2164948,
@@ -51,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1185744,
+      "num": 1185744,
+      "word": "原来真有大学生不会骑电车",
+      "onboard_time": 1681096949,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1113597,
       "num": 1113597,
       "word": "苏州新晋网红竹筒奶茶",
@@ -65,6 +81,14 @@
       "onboard_time": 1681047569,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 901498,
+      "num": 901498,
+      "word": "为什么五一要调休",
+      "onboard_time": 1681096286,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 854047,
@@ -91,6 +115,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 820714,
+      "num": 820714,
+      "word": "周雨彤签约壹心",
+      "onboard_time": 1681096529,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 810660,
+      "num": 810660,
+      "word": "骆驼被景区人员轮番棒打惨叫下跪",
+      "onboard_time": 1681095448,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 779929,
       "num": 779929,
       "word": "马龙",
@@ -105,14 +145,6 @@
       "onboard_time": 1681093106,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 728519,
-      "num": 728519,
-      "word": "周雨彤签约壹心",
-      "onboard_time": 1681096529,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 710549,
@@ -163,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 655808,
+      "num": 379351,
+      "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
+      "onboard_time": 1681096409,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635373,
       "num": 635373,
       "word": "在美流浪32年老人回国后续",
@@ -179,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 615790,
+      "num": 563971,
+      "word": "张艺兴牵羊",
+      "onboard_time": 1681098567,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613174,
       "num": 397987,
       "word": "宣璐发缝",
@@ -187,20 +235,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 584330,
-      "num": 584330,
-      "word": "骆驼被景区人员轮番棒打惨叫下跪",
-      "onboard_time": 1681095448,
-      "rank": 13,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 582420,
-      "num": 332662,
-      "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
-      "onboard_time": 1681096409,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 605513,
+      "num": 605513,
+      "word": "西湖醋鱼换鱼了",
+      "onboard_time": 1681097008,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 579352,
@@ -259,12 +299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 526885,
-      "num": 526885,
-      "word": "为什么五一要调休",
-      "onboard_time": 1681096286,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 537431,
+      "num": 537431,
+      "word": "粉丝美国偶遇虞书欣",
+      "onboard_time": 1681098390,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 495322,
@@ -305,6 +345,22 @@
       "onboard_time": 1681051112,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 463757,
+      "num": 463757,
+      "word": "报复性旅游",
+      "onboard_time": 1681097789,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 463230,
+      "num": 463230,
+      "word": "今年的假期余额只剩6天了",
+      "onboard_time": 1681098928,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 459759,
@@ -371,6 +427,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 397875,
+      "num": 397875,
+      "word": "冥夜天欢VS冥夜桑酒",
+      "onboard_time": 1681094966,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 376096,
+      "num": 376096,
+      "word": "玫珂菲 成毅",
+      "onboard_time": 1681099951,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373754,
       "num": 373754,
       "word": "华为连发三款手机新品",
@@ -385,14 +457,6 @@
       "onboard_time": 1681094305,
       "rank": 42,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 366618,
-      "num": 366618,
-      "word": "冥夜天欢VS冥夜桑酒",
-      "onboard_time": 1681094966,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 358836,
@@ -441,6 +505,14 @@
       "onboard_time": 1681048411,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320798,
+      "num": 320798,
+      "word": "曾妄议台湾问题的日军官坠机下落不明",
+      "onboard_time": 1681099111,
+      "rank": 23,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 318550,
@@ -539,12 +611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272041,
+      "num": 272041,
+      "word": "说唱是男人最好的医美",
+      "onboard_time": 1681097609,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259953,
       "num": 259953,
       "word": "苹果去年在爱尔兰利润增至693亿美元",
       "onboard_time": 1681095807,
       "rank": 37,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 256301,
+      "num": 256301,
+      "word": "五一上班3倍其余四天2倍工资",
+      "onboard_time": 1681099410,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 255648,
@@ -561,6 +649,22 @@
       "onboard_time": 1681091066,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248317,
+      "num": 248317,
+      "word": "易烊千玺称自己没把偶像当身份",
+      "onboard_time": 1681099651,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243410,
+      "num": 243410,
+      "word": "女生穿洛丽塔5秒反超跑第1",
+      "onboard_time": 1681099588,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241356,
@@ -595,6 +699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 233517,
+      "num": 233517,
+      "word": "坐端正睡觉的猫咪",
+      "onboard_time": 1681098267,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 232341,
       "num": 232341,
       "word": "车银优演唱会用粉丝手机自拍",
@@ -611,12 +723,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 222975,
-      "num": 220416,
-      "word": "西湖醋鱼换鱼了",
-      "onboard_time": 1681097008,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 228093,
+      "num": 228093,
+      "word": "UNINE成员聚会合照",
+      "onboard_time": 1681100011,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225188,
+      "num": 225188,
+      "word": "金鼎轩回应被叫中年男人庇护所",
+      "onboard_time": 1681098688,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221373,
@@ -665,14 +785,6 @@
       "onboard_time": 1681096467,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210443,
-      "num": 210443,
-      "word": "原来真有大学生不会骑电车",
-      "onboard_time": 1681096949,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 208618,
@@ -795,6 +907,22 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 190754,
+      "num": 190754,
+      "word": "梁友安金屋藏娇被发现",
+      "onboard_time": 1681099410,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188348,
+      "num": 188348,
+      "word": "龙城",
+      "onboard_time": 1681099410,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188012,
       "num": 188012,
       "word": "电影暴风潮汕话版终极预告",
@@ -835,6 +963,22 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 183627,
+      "num": 180095,
+      "word": "马伊琍新剧长发齐刘海造型",
+      "onboard_time": 1681100369,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180425,
+      "num": 180425,
+      "word": "周一至周五哪天更适合工作",
+      "onboard_time": 1681097186,
+      "rank": 42,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 179493,
       "num": 179493,
       "word": "白鹿桑酒妆造",
@@ -851,12 +995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179050,
+      "num": 179050,
+      "word": "失眠",
+      "onboard_time": 1681099169,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 176302,
       "num": 176302,
       "word": "白鲨挺进春决会师AG",
       "onboard_time": 1681081939,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175865,
+      "num": 175865,
+      "word": "湖南邵阳路边打人事件",
+      "onboard_time": 1681100193,
+      "rank": 47,
+      "category": "社会负面"
     },
     {
       "raw_hot": 175682,
@@ -888,6 +1048,14 @@
       "word": "冥夜说澹台烬马上回来",
       "onboard_time": 1681093048,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171027,
+      "num": 171027,
+      "word": "长月烬明壁纸",
+      "onboard_time": 1681097907,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -945,14 +1113,6 @@
       "onboard_time": 1681086749,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152074,
-      "num": 152074,
-      "word": "周一至周五哪天更适合工作",
-      "onboard_time": 1681097186,
-      "rank": 42,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 151957,
@@ -1075,14 +1235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130496,
-      "num": 130496,
-      "word": "说唱是男人最好的医美",
-      "onboard_time": 1681097609,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 129269,
       "num": 129269,
       "word": "华晨宇新世界连接太空光柱",
@@ -1188,7 +1340,7 @@
     },
     {
       "raw_hot": 99938,
-      "num": 1012443,
+      "num": 2386140,
       "word": "这些旅游专列已发车",
       "onboard_time": 1681042525,
       "rank": 2,
