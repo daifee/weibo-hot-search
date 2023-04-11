@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681205630389,
+  "endTime": 1681208337824,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1962562,
+      "num": 1441114,
+      "word": "仅1成多人拒绝下班秒回工作",
+      "onboard_time": 1681202547,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1959867,
       "num": 197609,
       "word": "电科",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1681181605,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1755939,
+      "num": 1755939,
+      "word": "郑彩率去世",
+      "onboard_time": 1681205488,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1748439,
@@ -1576,14 +1592,6 @@
       "word": "北极鲶鱼",
       "onboard_time": 1680586050,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1441114,
-      "num": 1441114,
-      "word": "仅1成多人拒绝下班秒回工作",
-      "onboard_time": 1681202547,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2073,6 +2081,14 @@
       "onboard_time": 1681190129,
       "rank": 12,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1143726,
+      "num": 1143726,
+      "word": "南京沙尘暴",
+      "onboard_time": 1681203447,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1142032,
@@ -3587,14 +3603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 796871,
-      "num": 796871,
-      "word": "南京沙尘暴",
-      "onboard_time": 1681203447,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 795051,
       "num": 795051,
       "word": "芬兰正式成为北约第31个成员国",
@@ -4291,6 +4299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 689255,
+      "num": 689255,
+      "word": "姜涛曾获全球百大帅哥第五名",
+      "onboard_time": 1681204349,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688414,
       "num": 688414,
       "word": "嘴大 冯晓桐",
@@ -4705,6 +4721,14 @@
       "onboard_time": 1680317368,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 645157,
+      "num": 301791,
+      "word": "赵露思给手表打码",
+      "onboard_time": 1681204648,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 643901,
@@ -5147,6 +5171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599040,
+      "num": 599040,
+      "word": "入职第一天是不是都很尴尬",
+      "onboard_time": 1681205248,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 597806,
       "num": 597806,
       "word": "我国新冠溯源研究情况发布会",
@@ -5225,6 +5257,14 @@
       "onboard_time": 1680661051,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 591827,
+      "num": 273204,
+      "word": "真的要开始存钱了",
+      "onboard_time": 1681205068,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 591156,
@@ -6195,14 +6235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519990,
-      "num": 301791,
-      "word": "赵露思给手表打码",
-      "onboard_time": 1681204648,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 519629,
       "num": 377050,
       "word": "肖战白色开衫造型",
@@ -6873,6 +6905,14 @@
       "onboard_time": 1680910341,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 474937,
+      "num": 474937,
+      "word": "墨西哥是全球上班时间最长国家",
+      "onboard_time": 1681205909,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 474709,
@@ -7595,6 +7635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427705,
+      "num": 272936,
+      "word": "罗云熙陈都灵错位图",
+      "onboard_time": 1681205969,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427541,
       "num": 389413,
       "word": "上海出发1小时就能到的城市",
@@ -7921,14 +7969,6 @@
       "onboard_time": 1680514112,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 413293,
-      "num": 400415,
-      "word": "姜涛曾获全球百大帅哥第五名",
-      "onboard_time": 1681204349,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 412985,
@@ -9667,6 +9707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 334657,
+      "num": 334657,
+      "word": "小米13Ultra订单增加50%",
+      "onboard_time": 1681204108,
+      "rank": 27,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 334380,
       "num": 292978,
       "word": "时代少年团的愚人节vlog",
@@ -9745,14 +9793,6 @@
       "onboard_time": 1680657510,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332035,
-      "num": 332035,
-      "word": "小米13Ultra订单增加50%",
-      "onboard_time": 1681204108,
-      "rank": 27,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 331910,
@@ -11547,6 +11587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274671,
+      "num": 274671,
+      "word": "BLG对战EDG",
+      "onboard_time": 1681201466,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274632,
       "num": 274632,
       "word": "曼城领先利物浦",
@@ -11657,6 +11705,14 @@
       "onboard_time": 1680756573,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 272158,
+      "num": 272158,
+      "word": "文咏珊高颅顶盘发",
+      "onboard_time": 1681206512,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272041,
@@ -13372,7 +13428,7 @@
     },
     {
       "raw_hot": 231867,
-      "num": 1034921,
+      "num": 1056329,
       "word": "中国科学家研讨在月球上盖房子",
       "onboard_time": 1681197685,
       "rank": 2,
@@ -14483,14 +14539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 215190,
-      "num": 215190,
-      "word": "BLG对战EDG",
-      "onboard_time": 1681201466,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 215089,
       "num": 215089,
       "word": "长月烬明登陆韩国大屏",
@@ -14585,6 +14633,14 @@
       "onboard_time": 1680830848,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213728,
+      "num": 945322,
+      "word": "网友跨城捐20万支持抗癌共享厨房",
+      "onboard_time": 1681207227,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 213704,
@@ -14777,6 +14833,14 @@
       "onboard_time": 1681124186,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210576,
+      "num": 778490,
+      "word": "女孩思念去世父亲哭泣同学拥抱安慰",
+      "onboard_time": 1681207227,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 210527,
@@ -15019,14 +15083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208495,
-      "num": 200125,
-      "word": "入职第一天是不是都很尴尬",
-      "onboard_time": 1681205248,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 208484,
       "num": 208484,
       "word": "2023春推会参展剧目",
@@ -15185,6 +15241,14 @@
       "onboard_time": 1680847528,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207442,
+      "num": 207442,
+      "word": "紧那罗典藏皮肤",
+      "onboard_time": 1681207888,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 207439,
@@ -15931,6 +15995,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 203057,
+      "num": 203057,
+      "word": "武庚纪好宠任嘉伦",
+      "onboard_time": 1681207648,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203045,
       "num": 188755,
       "word": "StrayKids人气",
@@ -15969,6 +16041,14 @@
       "onboard_time": 1680665429,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202883,
+      "num": 202883,
+      "word": "马嘉祺唱映山红",
+      "onboard_time": 1681207227,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 202878,
@@ -16475,6 +16555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200464,
+      "num": 200464,
+      "word": "突发疾病请假回家死亡算不算工伤",
+      "onboard_time": 1681208129,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200354,
       "num": 200354,
       "word": "山河之影",
@@ -16544,14 +16632,6 @@
       "word": "王鹤棣的健身房vlog",
       "onboard_time": 1681118068,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 199938,
-      "num": 199938,
-      "word": "郑彩率去世",
-      "onboard_time": 1681205488,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -18979,6 +19059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183942,
+      "num": 183942,
+      "word": "狂飙麻子到薄冰遭老罪了",
+      "onboard_time": 1681207168,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183917,
       "num": 183917,
       "word": "IU朴宝剑新剧将在网飞播出",
@@ -19811,6 +19899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174327,
+      "num": 174327,
+      "word": "薛之谦南京演唱会门票",
+      "onboard_time": 1681208129,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174227,
       "num": 174227,
       "word": "罗云熙白鹿长月烬明猫眼登顶",
@@ -20017,14 +20113,6 @@
       "onboard_time": 1681172487,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171096,
-      "num": 171096,
-      "word": "真的要开始存钱了",
-      "onboard_time": 1681205068,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 171070,
@@ -22843,6 +22931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134581,
+      "num": 134581,
+      "word": "梁静茹演唱会上海站官宣",
+      "onboard_time": 1681206869,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134532,
       "num": 134532,
       "word": "孤独症日音乐公益企划官宣",
@@ -23769,6 +23865,14 @@
       "onboard_time": 1680435748,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120341,
+      "num": 120341,
+      "word": "宋雨琦化妆视频",
+      "onboard_time": 1681206931,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 120328,

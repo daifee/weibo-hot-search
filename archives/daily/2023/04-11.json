@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681205630389,
+  "endTime": 1681208337824,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1962562,
+      "num": 1441114,
+      "word": "仅1成多人拒绝下班秒回工作",
+      "onboard_time": 1681202547,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1912705,
       "num": 1912705,
       "word": "法老 老乡鸡",
@@ -65,6 +73,14 @@
       "onboard_time": 1681181605,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1755939,
+      "num": 1755939,
+      "word": "郑彩率去世",
+      "onboard_time": 1681205488,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1728866,
@@ -107,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1441114,
-      "num": 1441114,
-      "word": "仅1成多人拒绝下班秒回工作",
-      "onboard_time": 1681202547,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1306396,
       "num": 1306396,
       "word": "王菊 我的肚子很可爱",
@@ -137,6 +145,14 @@
       "onboard_time": 1681190129,
       "rank": 12,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1143726,
+      "num": 1143726,
+      "word": "南京沙尘暴",
+      "onboard_time": 1681203447,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1096272,
@@ -243,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 796871,
-      "num": 796871,
-      "word": "南京沙尘暴",
-      "onboard_time": 1681203447,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 770031,
       "num": 770031,
       "word": "中方已做好迎接丫丫回国各项准备",
@@ -307,11 +315,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 689255,
+      "num": 689255,
+      "word": "姜涛曾获全球百大帅哥第五名",
+      "onboard_time": 1681204349,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667748,
       "num": 319617,
       "word": "虞书欣泳衣旧照",
       "onboard_time": 1681134207,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 645157,
+      "num": 301791,
+      "word": "赵露思给手表打码",
+      "onboard_time": 1681204648,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -363,6 +387,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 599040,
+      "num": 599040,
+      "word": "入职第一天是不是都很尴尬",
+      "onboard_time": 1681205248,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 591827,
+      "num": 273204,
+      "word": "真的要开始存钱了",
+      "onboard_time": 1681205068,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 551169,
       "num": 314636,
       "word": "白鹿影视资源",
@@ -411,14 +451,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 519990,
-      "num": 301791,
-      "word": "赵露思给手表打码",
-      "onboard_time": 1681204648,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 500696,
       "num": 500696,
       "word": "父母存得住钱的原因",
@@ -433,6 +465,14 @@
       "onboard_time": 1681140148,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 474937,
+      "num": 474937,
+      "word": "墨西哥是全球上班时间最长国家",
+      "onboard_time": 1681205909,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471551,
@@ -499,6 +539,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 427705,
+      "num": 272936,
+      "word": "罗云熙陈都灵错位图",
+      "onboard_time": 1681205969,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 427539,
       "num": 427539,
       "word": "你怎么看年轻人更愿意搞钱",
@@ -537,14 +585,6 @@
       "onboard_time": 1681136490,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 413293,
-      "num": 400415,
-      "word": "姜涛曾获全球百大帅哥第五名",
-      "onboard_time": 1681204349,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 405287,
@@ -707,8 +747,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 332035,
-      "num": 332035,
+      "raw_hot": 334657,
+      "num": 334657,
       "word": "小米13Ultra订单增加50%",
       "onboard_time": 1681204108,
       "rank": 27,
@@ -891,12 +931,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274671,
+      "num": 274671,
+      "word": "BLG对战EDG",
+      "onboard_time": 1681201466,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272976,
       "num": 227332,
       "word": "比亚迪",
       "onboard_time": 1681177645,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 272158,
+      "num": 272158,
+      "word": "文咏珊高颅顶盘发",
+      "onboard_time": 1681206512,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270099,
@@ -1020,7 +1076,7 @@
     },
     {
       "raw_hot": 231867,
-      "num": 1034921,
+      "num": 1056329,
       "word": "中国科学家研讨在月球上盖房子",
       "onboard_time": 1681197685,
       "rank": 2,
@@ -1147,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215190,
-      "num": 215190,
-      "word": "BLG对战EDG",
-      "onboard_time": 1681201466,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 215089,
       "num": 215089,
       "word": "长月烬明登陆韩国大屏",
@@ -1171,12 +1219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213728,
+      "num": 945322,
+      "word": "网友跨城捐20万支持抗癌共享厨房",
+      "onboard_time": 1681207227,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 211364,
       "num": 211364,
       "word": "成龙刘浩存郭麒麟芭莎大片",
       "onboard_time": 1681189053,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 210576,
+      "num": 778490,
+      "word": "女孩思念去世父亲哭泣同学拥抱安慰",
+      "onboard_time": 1681207227,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 209599,
@@ -1193,14 +1257,6 @@
       "onboard_time": 1681192827,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208495,
-      "num": 200125,
-      "word": "入职第一天是不是都很尴尬",
-      "onboard_time": 1681205248,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 208456,
@@ -1225,6 +1281,14 @@
       "onboard_time": 1681175607,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207442,
+      "num": 207442,
+      "word": "紧那罗典藏皮肤",
+      "onboard_time": 1681207888,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 207318,
@@ -1259,12 +1323,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203057,
+      "num": 203057,
+      "word": "武庚纪好宠任嘉伦",
+      "onboard_time": 1681207648,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202915,
       "num": 202915,
       "word": "郭麒麟金晨晏紫东演同事搭子",
       "onboard_time": 1681190847,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202883,
+      "num": 202883,
+      "word": "马嘉祺唱映山红",
+      "onboard_time": 1681207227,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 200563,
@@ -1275,12 +1355,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 199938,
-      "num": 199938,
-      "word": "郑彩率去世",
-      "onboard_time": 1681205488,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 200464,
+      "num": 200464,
+      "word": "突发疾病请假回家死亡算不算工伤",
+      "onboard_time": 1681208129,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199269,
@@ -1403,6 +1483,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 183942,
+      "num": 183942,
+      "word": "狂飙麻子到薄冰遭老罪了",
+      "onboard_time": 1681207168,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182953,
       "num": 182953,
       "word": "原神",
@@ -1475,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174327,
+      "num": 174327,
+      "word": "薛之谦南京演唱会门票",
+      "onboard_time": 1681208129,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171268,
       "num": 171268,
       "word": "冥夜嘴上说不爱眼里全是爱",
@@ -1489,14 +1585,6 @@
       "onboard_time": 1681172487,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171096,
-      "num": 171096,
-      "word": "真的要开始存钱了",
-      "onboard_time": 1681205068,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 171007,
@@ -1707,6 +1795,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 134581,
+      "num": 134581,
+      "word": "梁静茹演唱会上海站官宣",
+      "onboard_time": 1681206869,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132556,
       "num": 132556,
       "word": "狗过马路也要等红绿灯",
@@ -1761,6 +1857,14 @@
       "onboard_time": 1681198285,
       "rank": 46,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 120341,
+      "num": 120341,
+      "word": "宋雨琦化妆视频",
+      "onboard_time": 1681206931,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 120043,
@@ -1889,6 +1993,14 @@
       "onboard_time": 1681194205,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98500,
+      "num": 117318,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1681206329,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 96311,
