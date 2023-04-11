@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681202097910,
+  "endTime": 1681204650834,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -17,6 +17,14 @@
       "onboard_time": 1681197685,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2605832,
+      "num": 2605832,
+      "word": "刘亚仁体内检出第5种毒品",
+      "onboard_time": 1681202605,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2507301,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1043404,
+      "num": 1043404,
+      "word": "仅1成多人拒绝下班秒回工作",
+      "onboard_time": 1681202547,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 978693,
       "num": 978693,
       "word": "员工上班摸鱼被辞退",
@@ -185,6 +201,14 @@
       "onboard_time": 1681184548,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 899867,
+      "num": 899867,
+      "word": "RAIN逃过了韩国酵母",
+      "onboard_time": 1681200568,
+      "rank": 22,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 895725,
@@ -299,6 +323,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 625293,
+      "num": 625293,
+      "word": "娄底宝马女司机承认第一时间知道撞人",
+      "onboard_time": 1681200267,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616849,
       "num": 616849,
       "word": "直井怜暂停活动",
@@ -371,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 491011,
-      "num": 381631,
-      "word": "娄底宝马女司机承认第一时间知道撞人",
-      "onboard_time": 1681200267,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 486203,
       "num": 486203,
       "word": "妍珍越来越甜了",
@@ -393,14 +417,6 @@
       "onboard_time": 1681177645,
       "rank": 14,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 469922,
-      "num": 469922,
-      "word": "RAIN逃过了韩国酵母",
-      "onboard_time": 1681200568,
-      "rank": 22,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 468478,
@@ -427,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451175,
+      "num": 451175,
+      "word": "南京沙尘暴",
+      "onboard_time": 1681203447,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448604,
       "num": 448604,
       "word": "一位日本女读者写的跨国信",
       "onboard_time": 1681193487,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 431060,
+      "num": 431060,
+      "word": "双子座只会选择第一眼就心动的人",
+      "onboard_time": 1681200086,
+      "rank": 28,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 430066,
@@ -553,6 +585,14 @@
       "onboard_time": 1681176686,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385164,
+      "num": 385164,
+      "word": "张凌赫个人工作室成立",
+      "onboard_time": 1681203026,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 382244,
@@ -715,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311995,
-      "num": 311995,
-      "word": "双子座只会选择第一眼就心动的人",
-      "onboard_time": 1681200086,
-      "rank": 28,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 309325,
       "num": 309325,
       "word": "金晨说今天这风差点把狗吹走",
@@ -745,6 +777,14 @@
       "onboard_time": 1681198226,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303406,
+      "num": 303406,
+      "word": "许杨玉琢和法老是同一个家政阿姨",
+      "onboard_time": 1681204166,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 301409,
@@ -843,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265832,
+      "num": 246000,
+      "word": "李惠仁金发",
+      "onboard_time": 1681202425,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 262564,
       "num": 262564,
       "word": "冥夜救初凰也是在救黎苏苏",
@@ -891,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242636,
+      "num": 242636,
+      "word": "张兰",
+      "onboard_time": 1681204349,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242599,
       "num": 184152,
       "word": "白鹿更喜欢冥夜",
@@ -904,6 +960,14 @@
       "word": "大鹏导演新片热烈定档",
       "onboard_time": 1681181306,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 235458,
+      "num": 179698,
+      "word": "仙侠剧从未文学",
+      "onboard_time": 1681204166,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -932,7 +996,7 @@
     },
     {
       "raw_hot": 231867,
-      "num": 981774,
+      "num": 1034921,
       "word": "中国科学家研讨在月球上盖房子",
       "onboard_time": 1681197685,
       "rank": 2,
@@ -953,6 +1017,14 @@
       "onboard_time": 1681138409,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230587,
+      "num": 230587,
+      "word": "成毅李一桐新剧身高差",
+      "onboard_time": 1681201347,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 230228,
@@ -1016,6 +1088,14 @@
       "word": "Ravi退出VIXX",
       "onboard_time": 1681191805,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217857,
+      "num": 217857,
+      "word": "虞书欣工作室发长文回应",
+      "onboard_time": 1681199067,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1171,14 +1251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197291,
-      "num": 197291,
-      "word": "成毅李一桐新剧身高差",
-      "onboard_time": 1681201347,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196852,
       "num": 196852,
       "word": "桑酒被灭族",
@@ -1211,12 +1283,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194295,
+      "num": 194295,
+      "word": "小米13Ultra订单增加50%",
+      "onboard_time": 1681204108,
+      "rank": 27,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 193877,
       "num": 193877,
       "word": "北京沙尘暴",
       "onboard_time": 1681130007,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193542,
+      "num": 179444,
+      "word": "姜涛曾获全球百大帅哥第五名",
+      "onboard_time": 1681204349,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 192617,
@@ -1267,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186859,
-      "num": 186859,
-      "word": "虞书欣工作室发长文回应",
-      "onboard_time": 1681199067,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185287,
       "num": 224736,
       "word": "网友P瘦了的沈腾",
@@ -1296,6 +1376,14 @@
       "word": "长空之王雷宇片场旋转花絮",
       "onboard_time": 1681196667,
       "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179849,
+      "num": 179849,
+      "word": "热烈制片人怒怼网友",
+      "onboard_time": 1681204166,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -1531,6 +1619,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 139080,
+      "num": 139080,
+      "word": "网友P的罗云熙白鹿公主抱",
+      "onboard_time": 1681204529,
+      "rank": 38,
+      "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 138791,
+      "num": 138791,
+      "word": "四川烧烤板眼儿有好多",
+      "onboard_time": 1681203507,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 138735,
       "num": 138735,
       "word": "长月烬明流浪地球同一特效团队",
@@ -1545,6 +1649,14 @@
       "onboard_time": 1681199787,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 132221,
+      "num": 132221,
+      "word": "全网都知道熊猫赖床了",
+      "onboard_time": 1681204049,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127756,
@@ -1625,6 +1737,14 @@
       "onboard_time": 1681113988,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117267,
+      "num": 117267,
+      "word": "甲减都有哪些症状",
+      "onboard_time": 1681202847,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 116897,
@@ -1906,6 +2026,9 @@
     },
     {
       "word": "#以中国式现代化新成就为世界发展提供新机遇#"
+    },
+    {
+      "word": "#习近平总书记在广东考察调研#"
     }
   ]
 }
