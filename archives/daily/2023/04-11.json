@@ -1,18 +1,26 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681176104723,
+  "endTime": 1681177491618,
   "band_list": [
     {
-      "raw_hot": 2436723,
-      "num": 2436723,
+      "raw_hot": 3279243,
+      "num": 3279243,
       "word": "石楠花又腥又臭为何还大面积种",
       "onboard_time": 1681174168,
       "rank": 0,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2089041,
+      "num": 2089041,
+      "word": "沙尘暴",
+      "onboard_time": 1681170744,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2080254,
-      "num": 917409,
+      "num": 1781622,
       "word": "虞书欣让粉丝不要再push工作人员",
       "onboard_time": 1681173027,
       "rank": 3,
@@ -25,14 +33,6 @@
       "onboard_time": 1681169962,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1494228,
-      "num": 1494228,
-      "word": "沙尘暴",
-      "onboard_time": 1681170744,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 936247,
@@ -211,8 +211,16 @@
       "category": "军事"
     },
     {
-      "raw_hot": 320354,
-      "num": 320354,
+      "raw_hot": 340213,
+      "num": 340213,
+      "word": "假装上班能缓解待业焦虑吗",
+      "onboard_time": 1681174648,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 320786,
+      "num": 320786,
       "word": "95后海警执法员缉私战斗中牺牲",
       "onboard_time": 1681173807,
       "rank": 14,
@@ -233,6 +241,14 @@
       "onboard_time": 1681122988,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 300475,
+      "num": 300475,
+      "word": "陈都灵天欢绕腕好带感",
+      "onboard_time": 1681172008,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 297057,
@@ -256,14 +272,6 @@
       "word": "冥夜救初凰也是在救黎苏苏",
       "onboard_time": 1681174107,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 256495,
-      "num": 252328,
-      "word": "陈都灵天欢绕腕好带感",
-      "onboard_time": 1681172008,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -291,12 +299,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 237389,
-      "num": 237389,
-      "word": "假装上班能缓解待业焦虑吗",
-      "onboard_time": 1681174648,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 243274,
+      "num": 205062,
+      "word": "上海沙尘暴",
+      "onboard_time": 1681176686,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230889,
@@ -339,6 +347,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 207678,
+      "num": 207678,
+      "word": "十年前的追星手账",
+      "onboard_time": 1681175607,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193877,
       "num": 193877,
       "word": "北京沙尘暴",
@@ -369,6 +385,14 @@
       "onboard_time": 1681142665,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178143,
+      "num": 178143,
+      "word": "澹台烬的乌鸦太嚣张了",
+      "onboard_time": 1681176146,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 171128,
@@ -483,12 +507,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134498,
-      "num": 134498,
-      "word": "十年前的追星手账",
-      "onboard_time": 1681175607,
+      "raw_hot": 130401,
+      "num": 130401,
+      "word": "3年轻人20万开店日营业额仅79元",
+      "onboard_time": 1681177164,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 126365,
+      "num": 126365,
+      "word": "有这8种症状需警惕帕金森病",
+      "onboard_time": 1681176686,
       "rank": 33,
-      "category": "作品衍生"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124034,
@@ -555,6 +587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106802,
+      "num": 106802,
+      "word": "女子看直播一次性公款打赏三四十万",
+      "onboard_time": 1681177283,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105758,
       "num": 105758,
       "word": "高加林高双星人生再次互换",
@@ -601,6 +641,14 @@
       "onboard_time": 1681136069,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 90732,
+      "num": 90732,
+      "word": "男子邀异性游三亚钱全包妻子起诉索回",
+      "onboard_time": 1681177467,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75262,
@@ -668,7 +716,7 @@
     },
     {
       "raw_hot": 33465,
-      "num": 934457,
+      "num": 1885252,
       "word": "抢抓战略机遇增强发展信心",
       "onboard_time": 1681132827,
       "rank": 2,
