@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681190151813,
+  "endTime": 1681191208623,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1323,6 +1323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1567668,
+      "num": 1050060,
+      "word": "两男子将涉黄小卡片发到警车车窗",
+      "onboard_time": 1681188151,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1566496,
       "num": 452606,
       "word": "鞠婧祎",
@@ -2011,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1144862,
+      "num": 1144862,
+      "word": "张杰谢娜因名誉权起诉中介",
+      "onboard_time": 1681190129,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1142032,
       "num": 1142032,
       "word": "蒋依依红毯拍照把裙尾扯掉了",
@@ -2353,6 +2369,14 @@
       "onboard_time": 1680920968,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1015520,
+      "num": 1015520,
+      "word": "冯小刚说公众人物只能骂不还口打不还手",
+      "onboard_time": 1681189470,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1014800,
@@ -2760,14 +2784,6 @@
       "word": "单休相当于一年多上2个月班",
       "onboard_time": 1680848548,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 905962,
-      "num": 905962,
-      "word": "两男子将涉黄小卡片发到警车车窗",
-      "onboard_time": 1681188151,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3313,6 +3329,14 @@
       "onboard_time": 1681019246,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 822857,
+      "num": 822857,
+      "word": "迪奥",
+      "onboard_time": 1681190250,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822431,
@@ -3969,14 +3993,6 @@
       "onboard_time": 1680656247,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 711713,
-      "num": 611384,
-      "word": "张杰谢娜因名誉权起诉中介",
-      "onboard_time": 1681190129,
-      "rank": 12,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 709612,
@@ -5105,14 +5121,6 @@
       "onboard_time": 1681108768,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 588617,
-      "num": 588617,
-      "word": "冯小刚说公众人物只能骂不还口打不还手",
-      "onboard_time": 1681189470,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 588146,
@@ -6297,6 +6305,14 @@
       "onboard_time": 1681021405,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 500696,
+      "num": 500696,
+      "word": "父母存得住钱的原因",
+      "onboard_time": 1681188151,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 500210,
@@ -8043,14 +8059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397936,
-      "num": 397936,
-      "word": "父母存得住钱的原因",
-      "onboard_time": 1681188151,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 397875,
       "num": 397875,
       "word": "冥夜天欢VS冥夜桑酒",
@@ -9240,6 +9248,14 @@
       "word": "pledis称SEVENTEEN此次回归为历代级",
       "onboard_time": 1681104750,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343164,
+      "num": 193885,
+      "word": "何超莲晒毕业照",
+      "onboard_time": 1681190547,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -10760,6 +10776,14 @@
       "word": "广东人最近穿黄色绿色衣服要留心",
       "onboard_time": 1681119088,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289470,
+      "num": 289470,
+      "word": "女子下班回复工作消息获赔加班费",
+      "onboard_time": 1681189769,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -12995,6 +13019,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 232596,
+      "num": 232596,
+      "word": "唐朝诡事录之西行全员布局",
+      "onboard_time": 1681189291,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232490,
       "num": 232490,
       "word": "罗云熙回应十二神冥夜穿得最多",
@@ -13137,6 +13169,14 @@
       "onboard_time": 1681032327,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230410,
+      "num": 230410,
+      "word": "谁把熊猫晾这了",
+      "onboard_time": 1681188990,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 230289,
@@ -13665,14 +13705,6 @@
       "onboard_time": 1680361170,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220636,
-      "num": 220636,
-      "word": "唐朝诡事录之西行全员布局",
-      "onboard_time": 1681189291,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 220553,
@@ -15491,6 +15523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202915,
+      "num": 202915,
+      "word": "郭麒麟金晨晏紫东演同事搭子",
+      "onboard_time": 1681190847,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202904,
       "num": 202904,
       "word": "你不想加班时会怎么做",
@@ -16033,6 +16073,14 @@
       "onboard_time": 1680606511,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200105,
+      "num": 200105,
+      "word": "直井怜暂停活动",
+      "onboard_time": 1681190369,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 200044,
@@ -17873,6 +17921,14 @@
       "onboard_time": 1681141648,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188737,
+      "num": 188737,
+      "word": "娜扎江疏影曾给粉丝的回复",
+      "onboard_time": 1681190309,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 188515,
@@ -19875,14 +19931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165786,
-      "num": 165786,
-      "word": "女子下班回复工作消息获赔加班费",
-      "onboard_time": 1681189769,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165734,
       "num": 165734,
       "word": "人类幼崽对话珍稀动物",
@@ -21419,14 +21467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145913,
-      "num": 145913,
-      "word": "谁把熊猫晾这了",
-      "onboard_time": 1681188990,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 145842,
       "num": 145842,
       "word": "如何有效打击乡村赌博",
@@ -22768,6 +22808,14 @@
       "word": "阿凡达2中国平台榜单表现",
       "onboard_time": 1681012227,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "闫伟伦家暴丁漫漫",
+      "onboard_time": 1681190968,
+      "rank": 45,
       "category": "影视"
     },
     {

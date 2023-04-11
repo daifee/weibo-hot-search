@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681190151813,
+  "endTime": 1681191208623,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1567668,
+      "num": 1050060,
+      "word": "两男子将涉黄小卡片发到警车车窗",
+      "onboard_time": 1681188151,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1256877,
       "num": 1256877,
       "word": "3年轻人20万开店日营业额仅79元",
@@ -75,12 +83,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1144862,
+      "num": 1144862,
+      "word": "张杰谢娜因名誉权起诉中介",
+      "onboard_time": 1681190129,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1096272,
       "num": 1096272,
       "word": "保利 如梦之梦",
       "onboard_time": 1681184728,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1015520,
+      "num": 1015520,
+      "word": "冯小刚说公众人物只能骂不还口打不还手",
+      "onboard_time": 1681189470,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 936247,
@@ -115,20 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 905962,
-      "num": 905962,
-      "word": "两男子将涉黄小卡片发到警车车窗",
-      "onboard_time": 1681188151,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 895725,
       "num": 895725,
       "word": "郑晓龙评赵丽颖转型",
       "onboard_time": 1681169721,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 822857,
+      "num": 822857,
+      "word": "迪奥",
+      "onboard_time": 1681190250,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 818968,
@@ -161,14 +185,6 @@
       "onboard_time": 1681178725,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 711713,
-      "num": 611384,
-      "word": "张杰谢娜因名誉权起诉中介",
-      "onboard_time": 1681190129,
-      "rank": 12,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 701905,
@@ -219,14 +235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 588617,
-      "num": 588617,
-      "word": "冯小刚说公众人物只能骂不还口打不还手",
-      "onboard_time": 1681189470,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 551169,
       "num": 314636,
       "word": "白鹿影视资源",
@@ -265,6 +273,14 @@
       "onboard_time": 1681182026,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 500696,
+      "num": 500696,
+      "word": "父母存得住钱的原因",
+      "onboard_time": 1681188151,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 486203,
@@ -363,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397936,
-      "num": 397936,
-      "word": "父母存得住钱的原因",
-      "onboard_time": 1681188151,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 397673,
       "num": 251268,
       "word": "当香港人在东北买水果时",
@@ -449,6 +457,14 @@
       "onboard_time": 1681177706,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 343164,
+      "num": 193885,
+      "word": "何超莲晒毕业照",
+      "onboard_time": 1681190547,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 340213,
@@ -571,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289470,
+      "num": 289470,
+      "word": "女子下班回复工作消息获赔加班费",
+      "onboard_time": 1681189769,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281054,
       "num": 212898,
       "word": "网购别再只会看销量了",
@@ -667,6 +691,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 232596,
+      "num": 232596,
+      "word": "唐朝诡事录之西行全员布局",
+      "onboard_time": 1681189291,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231453,
       "num": 231453,
       "word": "iOS15.7.5正式版发布",
@@ -681,6 +713,14 @@
       "onboard_time": 1681138409,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230410,
+      "num": 230410,
+      "word": "谁把熊猫晾这了",
+      "onboard_time": 1681188990,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 229541,
@@ -729,14 +769,6 @@
       "onboard_time": 1681183587,
       "rank": 42,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 220636,
-      "num": 220636,
-      "word": "唐朝诡事录之西行全员布局",
-      "onboard_time": 1681189291,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 217193,
@@ -795,12 +827,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202915,
+      "num": 202915,
+      "word": "郭麒麟金晨晏紫东演同事搭子",
+      "onboard_time": 1681190847,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200563,
       "num": 200563,
       "word": "极端天气公司该不该通知居家办公",
       "onboard_time": 1681186831,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 200105,
+      "num": 200105,
+      "word": "直井怜暂停活动",
+      "onboard_time": 1681190369,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 196829,
@@ -867,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188737,
+      "num": 188737,
+      "word": "娜扎江疏影曾给粉丝的回复",
+      "onboard_time": 1681190309,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185287,
       "num": 224736,
       "word": "网友P瘦了的沈腾",
@@ -928,14 +984,6 @@
       "word": "中央气象台沙尘暴蓝色预警",
       "onboard_time": 1681187551,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165786,
-      "num": 165786,
-      "word": "女子下班回复工作消息获赔加班费",
-      "onboard_time": 1681189769,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1075,14 +1123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145913,
-      "num": 145913,
-      "word": "谁把熊猫晾这了",
-      "onboard_time": 1681188990,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142528,
       "num": 142528,
       "word": "接受了永别却没忍住思念",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1681189349,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 126446,
+      "num": 126446,
+      "word": "闫伟伦家暴丁漫漫",
+      "onboard_time": 1681190968,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 124034,
