@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681209259101,
+  "endTime": 1681211661071,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -121,6 +121,14 @@
       "onboard_time": 1681132285,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2027865,
+      "num": 2027865,
+      "word": "初代跑男重聚",
+      "onboard_time": 1681208666,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1987750,
@@ -425,6 +433,14 @@
       "onboard_time": 1681047569,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 942511,
+      "num": 942511,
+      "word": "冯小刚我人就在北京",
+      "onboard_time": 1681209748,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 915946,
@@ -899,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 611888,
+      "num": 611888,
+      "word": "墨西哥是全球上班时间最长国家",
+      "onboard_time": 1681205909,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610825,
       "num": 610825,
       "word": "入职第一天是不是都很尴尬",
@@ -916,7 +940,7 @@
     },
     {
       "raw_hot": 591827,
-      "num": 273204,
+      "num": 273803,
       "word": "真的要开始存钱了",
       "onboard_time": 1681205068,
       "rank": 39,
@@ -931,20 +955,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 589068,
+      "num": 589068,
+      "word": "长月烬明十二神全部陨落",
+      "onboard_time": 1681209448,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584940,
       "num": 584940,
       "word": "巩俐 于佩尔",
       "onboard_time": 1681112729,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 582758,
-      "num": 582758,
-      "word": "墨西哥是全球上班时间最长国家",
-      "onboard_time": 1681205909,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 581672,
@@ -1155,14 +1179,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 521014,
-      "num": 521014,
-      "word": "初代跑男重聚",
-      "onboard_time": 1681208666,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 519629,
       "num": 377050,
       "word": "肖战白色开衫造型",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1681125687,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489478,
+      "num": 489478,
+      "word": "张兰团队再现离职风波",
+      "onboard_time": 1681208666,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488357,
@@ -1377,6 +1401,14 @@
       "onboard_time": 1681113210,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 433690,
+      "num": 778490,
+      "word": "女孩思念去世父亲哭泣同学拥抱安慰",
+      "onboard_time": 1681207227,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 433277,
@@ -1577,14 +1609,6 @@
       "onboard_time": 1681126348,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 400599,
-      "num": 778490,
-      "word": "女孩思念去世父亲哭泣同学拥抱安慰",
-      "onboard_time": 1681207227,
-      "rank": 6,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 400508,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1681204108,
       "rank": 27,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 333156,
+      "num": 333156,
+      "word": "丫丫乐乐回国细节披露",
+      "onboard_time": 1681210947,
+      "rank": 15,
+      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 331519,
@@ -2155,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291488,
+      "num": 291488,
+      "word": "天欢好疯",
+      "onboard_time": 1681209927,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 290302,
       "num": 397168,
       "word": "张楚桐",
@@ -2169,6 +2209,14 @@
       "onboard_time": 1681094606,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289921,
+      "num": 289921,
+      "word": "突发疾病请假回家死亡算不算工伤",
+      "onboard_time": 1681208129,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289892,
@@ -2363,6 +2411,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 255689,
+      "num": 255689,
+      "word": "紧那罗典藏皮肤",
+      "onboard_time": 1681207888,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 255648,
       "num": 255648,
       "word": "过度超前消费有多可怕",
@@ -2385,14 +2441,6 @@
       "onboard_time": 1681091066,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 254359,
-      "num": 254359,
-      "word": "紧那罗典藏皮肤",
-      "onboard_time": 1681207888,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 253868,
@@ -2867,14 +2915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215998,
-      "num": 215998,
-      "word": "张兰团队再现离职风波",
-      "onboard_time": 1681208666,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215765,
       "num": 215765,
       "word": "梁友安金屋藏娇被发现",
@@ -3073,14 +3113,6 @@
       "onboard_time": 1681089927,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204699,
-      "num": 204699,
-      "word": "突发疾病请假回家死亡算不算工伤",
-      "onboard_time": 1681208129,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204217,
@@ -3731,6 +3763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182668,
+      "num": 182668,
+      "word": "半熟恋人2最终告白日",
+      "onboard_time": 1681209688,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182615,
       "num": 182615,
       "word": "恋综cp都在长沙红人节合体了",
@@ -3891,6 +3931,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172825,
+      "num": 172825,
+      "word": "当你给妈妈说想辞职了",
+      "onboard_time": 1681209508,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 172626,
+      "num": 172626,
+      "word": "半熟恋人",
+      "onboard_time": 1681209927,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171707,
       "num": 171707,
       "word": "长月烬明",
@@ -4035,6 +4091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159699,
+      "num": 159699,
+      "word": "李宇春龙丹妮跳舞镜头",
+      "onboard_time": 1681211069,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159025,
       "num": 159025,
       "word": "吴彤去看华晨宇的演唱会了",
@@ -4137,6 +4201,14 @@
       "onboard_time": 1681136252,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 151467,
+      "num": 188718,
+      "word": "淄博烧烤的灵魂到底是什么",
+      "onboard_time": 1681209688,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 151209,
@@ -4545,6 +4617,22 @@
       "onboard_time": 1681142964,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122907,
+      "num": 122907,
+      "word": "省吃俭用还能存到钱吗",
+      "onboard_time": 1681210589,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 122785,
+      "num": 122785,
+      "word": "上海的现实版莫奈花园",
+      "onboard_time": 1681211488,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 122759,

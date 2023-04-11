@@ -1,0 +1,410 @@
+{
+  "runTime": 1681211661071,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2027865,
+        "num": 2027865,
+        "word": "初代跑男重聚",
+        "onboard_time": 1681208666,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 942511,
+        "num": 942511,
+        "word": "冯小刚我人就在北京",
+        "onboard_time": 1681209748,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125218,
+        "num": 760326,
+        "word": "中国科学家研讨在月球上盖房子",
+        "onboard_time": 1681197685,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1626365,
+        "num": 742686,
+        "word": "郑彩率去世",
+        "onboard_time": 1681205488,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269024,
+        "num": 617858,
+        "word": "网友跨城捐20万支持抗癌共享厨房",
+        "onboard_time": 1681207227,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 611888,
+        "num": 611888,
+        "word": "墨西哥是全球上班时间最长国家",
+        "onboard_time": 1681205909,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433690,
+        "num": 598359,
+        "word": "女孩思念去世父亲哭泣同学拥抱安慰",
+        "onboard_time": 1681207227,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 589068,
+        "num": 589068,
+        "word": "长月烬明十二神全部陨落",
+        "onboard_time": 1681209448,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 501325,
+        "num": 501325,
+        "word": "南京沙尘暴",
+        "onboard_time": 1681203447,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579903,
+        "num": 499562,
+        "word": "长月烬明近三年仙侠剧第一",
+        "onboard_time": 1681194086,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 951390,
+        "num": 499356,
+        "word": "刘亚仁体内检出第5种毒品",
+        "onboard_time": 1681202605,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 782546,
+        "num": 494710,
+        "word": "男子入职6分钟身亡被认定工亡",
+        "onboard_time": 1681197685,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489478,
+        "num": 489478,
+        "word": "张兰团队再现离职风波",
+        "onboard_time": 1681208666,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 436483,
+        "num": 436483,
+        "word": "姜涛曾获全球百大帅哥第五名",
+        "onboard_time": 1681204349,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386755,
+        "num": 386755,
+        "word": "入职第一天是不是都很尴尬",
+        "onboard_time": 1681205248,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333156,
+        "num": 333156,
+        "word": "丫丫乐乐回国细节披露",
+        "onboard_time": 1681210947,
+        "rank": 15,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 303174,
+        "num": 303174,
+        "word": "王菊 我的肚子很可爱",
+        "onboard_time": 1681196725,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291488,
+        "num": 291488,
+        "word": "天欢好疯",
+        "onboard_time": 1681209927,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289921,
+        "num": 289921,
+        "word": "突发疾病请假回家死亡算不算工伤",
+        "onboard_time": 1681208129,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278248,
+        "num": 278248,
+        "word": "张兰",
+        "onboard_time": 1681204349,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1063843,
+        "num": 274585,
+        "word": "仅1成多人拒绝下班秒回工作",
+        "onboard_time": 1681202547,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416334,
+        "num": 274538,
+        "word": "赵露思给手表打码",
+        "onboard_time": 1681204648,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381689,
+        "num": 273803,
+        "word": "真的要开始存钱了",
+        "onboard_time": 1681205068,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263746,
+        "num": 263746,
+        "word": "罗云熙陈都灵错位图",
+        "onboard_time": 1681205969,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261038,
+        "num": 261038,
+        "word": "RAIN逃过了韩国酵母",
+        "onboard_time": 1681200568,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255689,
+        "num": 255689,
+        "word": "紧那罗典藏皮肤",
+        "onboard_time": 1681207888,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252901,
+        "num": 252901,
+        "word": "文咏珊高颅顶盘发",
+        "onboard_time": 1681206512,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212174,
+        "num": 212174,
+        "word": "薛之谦南京演唱会门票",
+        "onboard_time": 1681208129,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199406,
+        "num": 199406,
+        "word": "双子座只会选择第一眼就心动的人",
+        "onboard_time": 1681200086,
+        "rank": 28,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 151467,
+        "num": 188718,
+        "word": "淄博烧烤的灵魂到底是什么",
+        "onboard_time": 1681209688,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182668,
+        "num": 182668,
+        "word": "半熟恋人2最终告白日",
+        "onboard_time": 1681209688,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176231,
+        "num": 176231,
+        "word": "娄底宝马女司机承认第一时间知道撞人",
+        "onboard_time": 1681200267,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176000,
+        "num": 176000,
+        "word": "小米13Ultra订单增加50%",
+        "onboard_time": 1681204108,
+        "rank": 32,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 172825,
+        "num": 172825,
+        "word": "当你给妈妈说想辞职了",
+        "onboard_time": 1681209508,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 172626,
+        "num": 172626,
+        "word": "半熟恋人",
+        "onboard_time": 1681209927,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170711,
+        "num": 170711,
+        "word": "仙侠剧从未文学",
+        "onboard_time": 1681204166,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159699,
+        "num": 159699,
+        "word": "李宇春龙丹妮跳舞镜头",
+        "onboard_time": 1681211069,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142471,
+        "num": 142471,
+        "word": "BLG对战EDG",
+        "onboard_time": 1681201466,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138058,
+        "num": 138058,
+        "word": "虞书欣工作室发长文回应",
+        "onboard_time": 1681199067,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136084,
+        "num": 136084,
+        "word": "婚礼堵门1小时丈母娘吃2次救心丸",
+        "onboard_time": 1681191987,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133573,
+        "num": 133573,
+        "word": "印度将成全球人口第一大国",
+        "onboard_time": 1681198047,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133428,
+        "num": 133428,
+        "word": "张杰谢娜因名誉权起诉中介",
+        "onboard_time": 1681190129,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 129472,
+        "num": 129472,
+        "word": "许杨玉琢和法老是同一个家政阿姨",
+        "onboard_time": 1681204166,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128301,
+        "num": 128301,
+        "word": "员工上班摸鱼被辞退",
+        "onboard_time": 1681193306,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122907,
+        "num": 122907,
+        "word": "省吃俭用还能存到钱吗",
+        "onboard_time": 1681210589,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 122785,
+        "num": 122785,
+        "word": "上海的现实版莫奈花园",
+        "onboard_time": 1681211488,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116313,
+        "num": 116313,
+        "word": "宋茜绿发",
+        "onboard_time": 1681196546,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110535,
+        "num": 110535,
+        "word": "马嘉祺的图片排版",
+        "onboard_time": 1681208609,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110321,
+        "num": 110321,
+        "word": "中方已做好迎接丫丫回国各项准备",
+        "onboard_time": 1681199129,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109181,
+        "num": 109181,
+        "word": "热烈制片人怒怼网友",
+        "onboard_time": 1681204166,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广东考察调研#"
+    }
+  }
+}
