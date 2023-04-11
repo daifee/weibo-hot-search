@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681191208623,
+  "endTime": 1681194122673,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1483277,
+      "num": 1483277,
+      "word": "冯小刚说公众人物只能骂不还口打不还手",
+      "onboard_time": 1681189470,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1256877,
       "num": 1256877,
       "word": "3年轻人20万开店日营业额仅79元",
@@ -97,14 +105,6 @@
       "onboard_time": 1681184728,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1015520,
-      "num": 1015520,
-      "word": "冯小刚说公众人物只能骂不还口打不还手",
-      "onboard_time": 1681189470,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 936247,
@@ -225,6 +225,14 @@
       "onboard_time": 1681132285,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 616849,
+      "num": 616849,
+      "word": "直井怜暂停活动",
+      "onboard_time": 1681190369,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 600112,
@@ -355,6 +363,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 414673,
+      "num": 414673,
+      "word": "女子下班回复工作消息获赔加班费",
+      "onboard_time": 1681189769,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414050,
       "num": 414050,
       "word": "高加林终于知道顶替真相",
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399363,
+      "num": 399363,
+      "word": "明星和粉丝的关系",
+      "onboard_time": 1681192225,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397673,
       "num": 251268,
       "word": "当香港人在东北买水果时",
@@ -395,12 +419,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394839,
+      "num": 252883,
+      "word": "婚礼堵门1小时丈母娘吃2次救心丸",
+      "onboard_time": 1681191987,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394632,
       "num": 247642,
       "word": "上海沙尘暴",
       "onboard_time": 1681176686,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382244,
+      "num": 382244,
+      "word": "何超莲晒毕业照",
+      "onboard_time": 1681190547,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 379258,
@@ -459,14 +499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 343164,
-      "num": 193885,
-      "word": "何超莲晒毕业照",
-      "onboard_time": 1681190547,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340213,
       "num": 340213,
       "word": "假装上班能缓解待业焦虑吗",
@@ -481,6 +513,14 @@
       "onboard_time": 1681181485,
       "rank": 15,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 329927,
+      "num": 329927,
+      "word": "谁把熊猫晾这了",
+      "onboard_time": 1681188990,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 329613,
@@ -563,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300254,
+      "num": 300254,
+      "word": "罗云熙说神魔大战拍了22天",
+      "onboard_time": 1681191508,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297057,
       "num": 297057,
       "word": "陈鑫海公司名字叫好虚荣",
@@ -587,20 +635,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289470,
-      "num": 289470,
-      "word": "女子下班回复工作消息获赔加班费",
-      "onboard_time": 1681189769,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281054,
       "num": 212898,
       "word": "网购别再只会看销量了",
       "onboard_time": 1681131927,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273812,
+      "num": 273812,
+      "word": "小学生盘手串文具店直接卖疯了",
+      "onboard_time": 1681191868,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272976,
@@ -641,6 +689,14 @@
       "onboard_time": 1681178367,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 255124,
+      "num": 255124,
+      "word": "娜扎江疏影曾给粉丝的回复",
+      "onboard_time": 1681190309,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 254992,
@@ -715,14 +771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 230410,
-      "num": 230410,
-      "word": "谁把熊猫晾这了",
-      "onboard_time": 1681188990,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 229541,
       "num": 206296,
       "word": "徐明浩cos怪盗基德",
@@ -771,6 +819,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 221175,
+      "num": 221175,
+      "word": "Ravi退出VIXX",
+      "onboard_time": 1681191805,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217193,
       "num": 217193,
       "word": "谁家小狗吵架扮鬼脸啊",
@@ -801,6 +857,14 @@
       "onboard_time": 1681189053,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208927,
+      "num": 190685,
+      "word": "一位日本女读者写的跨国信",
+      "onboard_time": 1681193487,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 208456,
@@ -843,12 +907,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 200105,
-      "num": 200105,
-      "word": "直井怜暂停活动",
-      "onboard_time": 1681190369,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 199269,
+      "num": 199269,
+      "word": "爱很美味",
+      "onboard_time": 1681193846,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196852,
+      "num": 196852,
+      "word": "桑酒被灭族",
+      "onboard_time": 1681191387,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 196829,
@@ -907,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190115,
+      "num": 190115,
+      "word": "一个人也要活成一个春天",
+      "onboard_time": 1681193547,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 188799,
       "num": 188799,
       "word": "陈都灵说天欢和谁都没隔夜仇",
@@ -915,12 +995,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188737,
-      "num": 188737,
-      "word": "娜扎江疏影曾给粉丝的回复",
-      "onboard_time": 1681190309,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 188425,
+      "num": 188425,
+      "word": "石楠花拿铁",
+      "onboard_time": 1681191207,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 185287,
@@ -929,6 +1009,14 @@
       "onboard_time": 1681122027,
       "rank": 17,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 182953,
+      "num": 182953,
+      "word": "原神",
+      "onboard_time": 1681192105,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 178839,
@@ -987,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168922,
+      "num": 155609,
+      "word": "诅咒叶夕雾的魔女是真的桑酒",
+      "onboard_time": 1681192827,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165265,
       "num": 165265,
       "word": "被短片柜子惊艳到了",
@@ -1019,12 +1115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159730,
+      "num": 190695,
+      "word": "2023教资考试笔试成绩",
+      "onboard_time": 1681193006,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 159025,
       "num": 159025,
       "word": "吴彤去看华晨宇的演唱会了",
       "onboard_time": 1681171826,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156708,
+      "num": 156708,
+      "word": "郑州抗癌共享厨房面临关门困境",
+      "onboard_time": 1681192587,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156674,
@@ -1123,12 +1235,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144321,
+      "num": 144321,
+      "word": "员工上班摸鱼被辞退",
+      "onboard_time": 1681193306,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142528,
       "num": 142528,
       "word": "接受了永别却没忍住思念",
       "onboard_time": 1681141825,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138735,
+      "num": 138735,
+      "word": "长月烬明流浪地球同一特效团队",
+      "onboard_time": 1681191207,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 127756,
@@ -1219,6 +1347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110328,
+      "num": 110328,
+      "word": "陈伟霆汕头小公园宣传新电影",
+      "onboard_time": 1681192286,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 108909,
       "num": 108909,
       "word": "云南烧烤申请出战",
@@ -1235,11 +1371,27 @@
       "category": "科技"
     },
     {
+      "raw_hot": 107145,
+      "num": 107145,
+      "word": "大城市是小镇女生的避风港吗",
+      "onboard_time": 1681194025,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 105758,
       "num": 105758,
       "word": "高加林高双星人生再次互换",
       "onboard_time": 1681143205,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 103693,
+      "num": 103693,
+      "word": "长月烬明近三年仙侠剧第一",
+      "onboard_time": 1681194086,
+      "rank": 49,
       "category": "影视"
     },
     {

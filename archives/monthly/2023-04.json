@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681191208623,
+  "endTime": 1681194122673,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1483,6 +1483,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1483277,
+      "num": 1483277,
+      "word": "冯小刚说公众人物只能骂不还口打不还手",
+      "onboard_time": 1681189470,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1482115,
       "num": 1482115,
       "word": "竹筒奶茶 发霉",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1680920968,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1015520,
-      "num": 1015520,
-      "word": "冯小刚说公众人物只能骂不还口打不还手",
-      "onboard_time": 1681189470,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1014800,
@@ -4889,6 +4889,14 @@
       "onboard_time": 1680336331,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616849,
+      "num": 616849,
+      "word": "直井怜暂停活动",
+      "onboard_time": 1681190369,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 614539,
@@ -7731,6 +7739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 414673,
+      "num": 414673,
+      "word": "女子下班回复工作消息获赔加班费",
+      "onboard_time": 1681189769,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414472,
       "num": 375743,
       "word": "李彩领你可是爱豆啊",
@@ -8027,6 +8043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 399363,
+      "num": 399363,
+      "word": "明星和粉丝的关系",
+      "onboard_time": 1681192225,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398672,
       "num": 398672,
       "word": "重庆密室好卷",
@@ -8105,6 +8129,14 @@
       "onboard_time": 1681178787,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 394839,
+      "num": 252883,
+      "word": "婚礼堵门1小时丈母娘吃2次救心丸",
+      "onboard_time": 1681191987,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394749,
@@ -8409,6 +8441,14 @@
       "onboard_time": 1680960448,
       "rank": 36,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 382244,
+      "num": 382244,
+      "word": "何超莲晒毕业照",
+      "onboard_time": 1681190547,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 380827,
@@ -9251,14 +9291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343164,
-      "num": 193885,
-      "word": "何超莲晒毕业照",
-      "onboard_time": 1681190547,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343023,
       "num": 343023,
       "word": "你好星期六今晚好友组队局",
@@ -9601,6 +9633,14 @@
       "onboard_time": 1680842555,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329927,
+      "num": 329927,
+      "word": "谁把熊猫晾这了",
+      "onboard_time": 1681188990,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 329882,
@@ -10419,6 +10459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300254,
+      "num": 300254,
+      "word": "罗云熙说神魔大战拍了22天",
+      "onboard_time": 1681191508,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299942,
       "num": 263847,
       "word": "小区1天内20只流浪猫集体死亡",
@@ -10776,14 +10824,6 @@
       "word": "广东人最近穿黄色绿色衣服要留心",
       "onboard_time": 1681119088,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289470,
-      "num": 289470,
-      "word": "女子下班回复工作消息获赔加班费",
-      "onboard_time": 1681189769,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -11289,6 +11329,14 @@
       "onboard_time": 1680871588,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273812,
+      "num": 273812,
+      "word": "小学生盘手串文具店直接卖疯了",
+      "onboard_time": 1681191868,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273545,
@@ -12025,6 +12073,14 @@
       "onboard_time": 1681041866,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255124,
+      "num": 255124,
+      "word": "娜扎江疏影曾给粉丝的回复",
+      "onboard_time": 1681190309,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 254992,
@@ -13171,14 +13227,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 230410,
-      "num": 230410,
-      "word": "谁把熊猫晾这了",
-      "onboard_time": 1681188990,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 230289,
       "num": 221527,
       "word": "BLG为啥视野能这么差",
@@ -13689,6 +13737,14 @@
       "onboard_time": 1680768387,
       "rank": 29,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 221175,
+      "num": 221175,
+      "word": "Ravi退出VIXX",
+      "onboard_time": 1681191805,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 220801,
@@ -14553,6 +14609,14 @@
       "onboard_time": 1681017388,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208927,
+      "num": 190685,
+      "word": "一位日本女读者写的跨国信",
+      "onboard_time": 1681193487,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 208917,
@@ -16075,14 +16139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 200105,
-      "num": 200105,
-      "word": "直井怜暂停活动",
-      "onboard_time": 1681190369,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200044,
       "num": 200044,
       "word": "RW侠状态回来了",
@@ -16272,6 +16328,14 @@
       "word": "王祖蓝李亚男海豹式鼓掌",
       "onboard_time": 1681042826,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 199269,
+      "num": 199269,
+      "word": "爱很美味",
+      "onboard_time": 1680684329,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -16720,6 +16784,14 @@
       "word": "灿烂的转身今日开播",
       "onboard_time": 1680316167,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196852,
+      "num": 196852,
+      "word": "桑酒被灭族",
+      "onboard_time": 1681191387,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -17699,6 +17771,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 190115,
+      "num": 190115,
+      "word": "一个人也要活成一个春天",
+      "onboard_time": 1681193547,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190113,
       "num": 190113,
       "word": "春日暖阳收官",
@@ -17923,20 +18003,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188737,
-      "num": 188737,
-      "word": "娜扎江疏影曾给粉丝的回复",
-      "onboard_time": 1681190309,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188515,
       "num": 188515,
       "word": "马嘉祺宋亚轩黑白造型",
       "onboard_time": 1680663929,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188425,
+      "num": 188425,
+      "word": "石楠花拿铁",
+      "onboard_time": 1681191207,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 188386,
@@ -18617,6 +18697,14 @@
       "onboard_time": 1680429150,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182953,
+      "num": 182953,
+      "word": "原神",
+      "onboard_time": 1681069931,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 182865,
@@ -19339,14 +19427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173824,
-      "num": 173824,
-      "word": "爱很美味",
-      "onboard_time": 1680684329,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 173559,
       "num": 173559,
       "word": "华晨宇演唱会歌迷自发化火星妆",
@@ -19680,6 +19760,14 @@
       "word": "宋三川梁友安海边漫步",
       "onboard_time": 1680525153,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 168922,
+      "num": 155609,
+      "word": "诅咒叶夕雾的魔女是真的桑酒",
+      "onboard_time": 1681192827,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -20355,6 +20443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159730,
+      "num": 190695,
+      "word": "2023教资考试笔试成绩",
+      "onboard_time": 1681193006,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 159725,
       "num": 159725,
       "word": "勇士VS掘金",
@@ -20569,6 +20665,14 @@
       "onboard_time": 1680915146,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156708,
+      "num": 156708,
+      "word": "郑州抗癌共享厨房面临关门困境",
+      "onboard_time": 1681192587,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156674,
@@ -21595,6 +21699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144321,
+      "num": 144321,
+      "word": "员工上班摸鱼被辞退",
+      "onboard_time": 1681193306,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144279,
       "num": 144279,
       "word": "易烊千玺智族GQ微电影",
@@ -21969,6 +22081,14 @@
       "onboard_time": 1680673650,
       "rank": 46,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 138735,
+      "num": 138735,
+      "word": "长月烬明流浪地球同一特效团队",
+      "onboard_time": 1681191207,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 138713,
@@ -23659,6 +23779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110328,
+      "num": 110328,
+      "word": "陈伟霆汕头小公园宣传新电影",
+      "onboard_time": 1681192286,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109934,
       "num": 109934,
       "word": "杨丞琳想和黄潇再合作",
@@ -23769,6 +23897,14 @@
       "onboard_time": 1680999083,
       "rank": 41,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 107145,
+      "num": 107145,
+      "word": "大城市是小镇女生的避风港吗",
+      "onboard_time": 1681194025,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 107095,
@@ -23928,6 +24064,14 @@
       "word": "罗云熙眼神戏",
       "onboard_time": 1680972561,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 103693,
+      "num": 103693,
+      "word": "长月烬明近三年仙侠剧第一",
+      "onboard_time": 1681194086,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -24937,14 +25081,6 @@
       "onboard_time": 1680985572,
       "rank": 45,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 57297,
-      "num": 57297,
-      "word": "原神",
-      "onboard_time": 1681069931,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 57242,
