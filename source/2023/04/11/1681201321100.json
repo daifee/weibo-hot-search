@@ -1,0 +1,410 @@
+{
+  "runTime": 1681201321100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2621174,
+        "num": 2621174,
+        "word": "男子入职6分钟身亡被认定工亡",
+        "onboard_time": 1681197685,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836975,
+        "num": 836975,
+        "word": "印度将成全球人口第一大国",
+        "onboard_time": 1681198047,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231867,
+        "num": 833243,
+        "word": "中国科学家研讨在月球上盖房子",
+        "onboard_time": 1681197685,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877032,
+        "num": 833075,
+        "word": "王菊 我的肚子很可爱",
+        "onboard_time": 1681196725,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 831522,
+        "num": 831522,
+        "word": "长月烬明近三年仙侠剧第一",
+        "onboard_time": 1681194086,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 785426,
+        "num": 785426,
+        "word": "老乡鸡 我保证这次没有中间商赚差价",
+        "onboard_time": 1681196844,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 770031,
+        "num": 770031,
+        "word": "中方已做好迎接丫丫回国各项准备",
+        "onboard_time": 1681199129,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685000,
+        "num": 685000,
+        "word": "员工上班摸鱼被辞退",
+        "onboard_time": 1681193306,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466121,
+        "num": 466121,
+        "word": "两男子将涉黄小卡片发到警车车窗",
+        "onboard_time": 1681188151,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396287,
+        "num": 396287,
+        "word": "邓超腿艺人",
+        "onboard_time": 1681198826,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1062212,
+        "num": 368429,
+        "word": "冯小刚分不清迪丽热巴和古力娜扎",
+        "onboard_time": 1681195464,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 692948,
+        "num": 368017,
+        "word": "宋茜绿发",
+        "onboard_time": 1681196546,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326614,
+        "num": 326614,
+        "word": "小S二女儿侧拍照",
+        "onboard_time": 1681195766,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325376,
+        "num": 325376,
+        "word": "张杰谢娜因名誉权起诉中介",
+        "onboard_time": 1681190129,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 85500,
+        "num": 319065,
+        "word": "在外滩撸一种很新的猫",
+        "onboard_time": 1681196185,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317600,
+        "num": 317600,
+        "word": "法老 老乡鸡",
+        "onboard_time": 1681183107,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301409,
+        "num": 301409,
+        "word": "巴西总统将访华",
+        "onboard_time": 1681198704,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 291737,
+        "num": 291737,
+        "word": "哈尔滨下雪",
+        "onboard_time": 1681198226,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290127,
+        "num": 290127,
+        "word": "娄底宝马女司机承认第一时间知道撞人",
+        "onboard_time": 1681200267,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279478,
+        "num": 279478,
+        "word": "熊猫花花学会障眼法了",
+        "onboard_time": 1681197985,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302738,
+        "num": 260647,
+        "word": "婚礼堵门1小时丈母娘吃2次救心丸",
+        "onboard_time": 1681191987,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237998,
+        "num": 237998,
+        "word": "大城市是小镇女生的避风港吗",
+        "onboard_time": 1681194025,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 233833,
+        "num": 233833,
+        "word": "RAIN逃过了韩国酵母",
+        "onboard_time": 1681200568,
+        "rank": 22,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 230228,
+        "num": 230228,
+        "word": "周冬雨慢镜头",
+        "onboard_time": 1681197384,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223137,
+        "num": 223137,
+        "word": "石楠花又腥又臭为何还大面积种",
+        "onboard_time": 1681174168,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213337,
+        "num": 213337,
+        "word": "小学生盘手串文具店直接卖疯了",
+        "onboard_time": 1681191868,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206136,
+        "num": 206136,
+        "word": "父母存得住钱的原因",
+        "onboard_time": 1681188151,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197904,
+        "num": 197904,
+        "word": "高校回应女生从宿舍楼坠落",
+        "onboard_time": 1681196365,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 196719,
+        "num": 196719,
+        "word": "双子座只会选择第一眼就心动的人",
+        "onboard_time": 1681200086,
+        "rank": 28,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 184152,
+        "num": 184152,
+        "word": "白鹿更喜欢冥夜",
+        "onboard_time": 1681198344,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207316,
+        "num": 184047,
+        "word": "四句话教你活出精彩",
+        "onboard_time": 1681200985,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180991,
+        "num": 180991,
+        "word": "2023教资考试笔试成绩",
+        "onboard_time": 1681193006,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 174331,
+        "num": 174331,
+        "word": "减肥失败后以为自己是甲减",
+        "onboard_time": 1681195104,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174157,
+        "num": 174157,
+        "word": "虞书欣工作室发长文回应",
+        "onboard_time": 1681199067,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171126,
+        "num": 171126,
+        "word": "直井怜暂停活动",
+        "onboard_time": 1681190369,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166816,
+        "num": 166816,
+        "word": "什么是失望性情感隔离",
+        "onboard_time": 1681195704,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163480,
+        "num": 163480,
+        "word": "诅咒叶夕雾的魔女是真的桑酒",
+        "onboard_time": 1681192827,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162739,
+        "num": 162739,
+        "word": "iPhone15Pro相机厚约2枚1元硬币",
+        "onboard_time": 1681186347,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162499,
+        "num": 162499,
+        "word": "易烊千玺疑似出演英雄联盟网剧",
+        "onboard_time": 1681181605,
+        "rank": 38,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 160963,
+        "num": 160963,
+        "word": "原著里的冥夜桑酒",
+        "onboard_time": 1681199609,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152036,
+        "num": 152036,
+        "word": "沙尘暴",
+        "onboard_time": 1681170744,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157948,
+        "num": 150216,
+        "word": "德塔文认证罗云熙市场号召力",
+        "onboard_time": 1681200927,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138099,
+        "num": 138099,
+        "word": "马思纯进组后前后对比",
+        "onboard_time": 1681197505,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135728,
+        "num": 135728,
+        "word": "如何缓解手机电量焦虑",
+        "onboard_time": 1681199787,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135364,
+        "num": 135364,
+        "word": "女子下班回复工作消息获赔加班费",
+        "onboard_time": 1681189769,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130490,
+        "num": 130490,
+        "word": "石楠花拿铁",
+        "onboard_time": 1681191207,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127126,
+        "num": 127126,
+        "word": "一位日本女读者写的跨国信",
+        "onboard_time": 1681193487,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118455,
+        "num": 118455,
+        "word": "湖北一女局长被曝用公款配置休息室",
+        "onboard_time": 1681182686,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117145,
+        "num": 117145,
+        "word": "何超莲晒毕业照",
+        "onboard_time": 1681190547,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96602,
+        "num": 116792,
+        "word": "原神",
+        "onboard_time": 1681192105,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以中国式现代化新成就为世界发展提供新机遇#"
+    }
+  }
+}
