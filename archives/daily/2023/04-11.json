@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681183074165,
+  "endTime": 1681184029277,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -43,20 +43,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1595125,
+      "num": 1595125,
+      "word": "易烊千玺疑似出演英雄联盟网剧",
+      "onboard_time": 1681181605,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1256877,
       "num": 1256877,
       "word": "3年轻人20万开店日营业额仅79元",
       "onboard_time": 1681177164,
       "rank": 32,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1250614,
-      "num": 1250614,
-      "word": "易烊千玺疑似出演英雄联盟网剧",
-      "onboard_time": 1681181605,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 936247,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716926,
+      "num": 716926,
+      "word": "哪些人不能喝椰子水",
+      "onboard_time": 1681178725,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 701905,
       "num": 701905,
       "word": "iPhone15屏幕将使用M12材料",
@@ -107,20 +115,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 668416,
-      "num": 668416,
-      "word": "哪些人不能喝椰子水",
-      "onboard_time": 1681178725,
-      "rank": 11,
-      "category": "美食"
-    },
-    {
       "raw_hot": 667748,
       "num": 319617,
       "word": "虞书欣泳衣旧照",
       "onboard_time": 1681134207,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 643933,
+      "num": 311341,
+      "word": "湖北一女局长被曝用公款配置休息室",
+      "onboard_time": 1681182686,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 641120,
@@ -139,6 +147,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 614678,
+      "num": 614678,
+      "word": "法老 老乡鸡",
+      "onboard_time": 1681183107,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 551169,
       "num": 314636,
       "word": "白鹿影视资源",
@@ -153,6 +169,14 @@
       "onboard_time": 1681171587,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 525540,
+      "num": 425827,
+      "word": "阿里所有产品将接入通义千问",
+      "onboard_time": 1681182026,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 486203,
@@ -184,6 +208,14 @@
       "word": "吃土",
       "onboard_time": 1681173506,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433060,
+      "num": 433060,
+      "word": "卫健委回应出台政策鼓励早婚早育提案",
+      "onboard_time": 1681182385,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -219,20 +251,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405287,
+      "num": 405287,
+      "word": "叶夕雾是黎苏苏的一缕恶魂",
+      "onboard_time": 1681179143,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 403245,
       "num": 403245,
       "word": "沙尘暴 柳絮",
       "onboard_time": 1681140090,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398281,
-      "num": 398281,
-      "word": "叶夕雾是黎苏苏的一缕恶魂",
-      "onboard_time": 1681179143,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 397673,
@@ -283,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356740,
+      "num": 356740,
+      "word": "迪丽热巴到达贵阳",
+      "onboard_time": 1681182807,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 347907,
       "num": 347907,
       "word": "环台岛演习72小时",
@@ -307,12 +347,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331209,
+      "num": 331209,
+      "word": "柯南贝克街的亡灵全国上映",
+      "onboard_time": 1681181485,
+      "rank": 15,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 329613,
+      "num": 329613,
+      "word": "大侦探",
+      "onboard_time": 1681182204,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320786,
       "num": 320786,
       "word": "95后海警执法员缉私战斗中牺牲",
       "onboard_time": 1681173807,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320310,
+      "num": 320310,
+      "word": "苹果iPhone15Pro机模曝光",
+      "onboard_time": 1681182269,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 319800,
@@ -345,6 +409,14 @@
       "onboard_time": 1681122988,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302885,
+      "num": 302885,
+      "word": "长月烬明十二神归位",
+      "onboard_time": 1681182867,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 300475,
@@ -387,14 +459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279619,
-      "num": 279619,
-      "word": "柯南贝克街的亡灵全国上映",
-      "onboard_time": 1681181485,
-      "rank": 15,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 272976,
       "num": 227332,
       "word": "比亚迪",
@@ -419,14 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 259376,
-      "num": 259376,
-      "word": "大侦探",
-      "onboard_time": 1681182204,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258616,
       "num": 248686,
       "word": "受小朋友欢迎的狗狗长这样",
@@ -435,12 +491,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 250969,
-      "num": 246510,
-      "word": "迪丽热巴到达贵阳",
-      "onboard_time": 1681182807,
-      "rank": 23,
+      "raw_hot": 254800,
+      "num": 247030,
+      "word": "罗云熙双眼皮好多层",
+      "onboard_time": 1681182867,
+      "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250447,
+      "num": 250447,
+      "word": "比特币",
+      "onboard_time": 1681182686,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 249794,
@@ -467,20 +531,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 244236,
-      "num": 244236,
-      "word": "阿里所有产品将接入通义千问",
-      "onboard_time": 1681182026,
-      "rank": 26,
-      "category": "科技"
-    },
-    {
       "raw_hot": 238538,
       "num": 238538,
       "word": "大鹏导演新片热烈定档",
       "onboard_time": 1681181306,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231453,
+      "num": 231453,
+      "word": "iOS15.7.5正式版发布",
+      "onboard_time": 1681182748,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 230889,
@@ -507,6 +571,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228496,
+      "num": 228496,
+      "word": "男子痴迷炼金术6次偷拆他人汽车",
+      "onboard_time": 1681181904,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227984,
+      "num": 227984,
+      "word": "金晨说今天这风差点把狗吹走",
+      "onboard_time": 1681183225,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221867,
       "num": 221867,
       "word": "长月烬明原著",
@@ -531,22 +611,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214900,
-      "num": 214900,
-      "word": "苹果iPhone15Pro机模曝光",
-      "onboard_time": 1681182269,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 213890,
-      "num": 213890,
-      "word": "卫健委回应出台政策鼓励早婚早育提案",
-      "onboard_time": 1681182385,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208456,
       "num": 208456,
       "word": "南京紫峰广场内一女子从中庭坠落身亡",
@@ -563,12 +627,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203175,
-      "num": 203175,
-      "word": "罗云熙双眼皮好多层",
-      "onboard_time": 1681182867,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 203465,
+      "num": 203465,
+      "word": "胡彦斌长月烬明插曲月烬无声上线",
+      "onboard_time": 1681183048,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 196453,
@@ -595,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190039,
-      "num": 186034,
-      "word": "长月烬明十二神归位",
-      "onboard_time": 1681182867,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 188799,
       "num": 188799,
       "word": "陈都灵说天欢和谁都没隔夜仇",
@@ -611,28 +667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186744,
-      "num": 186744,
-      "word": "iOS15.7.5正式版发布",
-      "onboard_time": 1681182748,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 185287,
       "num": 224736,
       "word": "网友P瘦了的沈腾",
       "onboard_time": 1681122027,
       "rank": 17,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 181948,
-      "num": 181948,
-      "word": "男子痴迷炼金术6次偷拆他人汽车",
-      "onboard_time": 1681181904,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178839,
@@ -659,6 +699,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170577,
+      "num": 170577,
+      "word": "大侦探8明日之战高清剧照",
+      "onboard_time": 1681184008,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169305,
+      "num": 221328,
+      "word": "为什么说牡丹是大自然的修图工具",
+      "onboard_time": 1681181846,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163692,
       "num": 163692,
       "word": "恋综cp都在长沙红人节合体了",
@@ -672,14 +728,6 @@
       "word": "江宁路",
       "onboard_time": 1681136730,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161408,
-      "num": 161408,
-      "word": "湖北一女局长被曝用公款配置休息室",
-      "onboard_time": 1681182686,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -755,12 +803,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 148835,
+      "num": 148835,
+      "word": "当粉丝不让你质疑演技的时候",
+      "onboard_time": 1681183587,
+      "rank": 42,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 147768,
       "num": 147768,
       "word": "灌篮高手中国首映礼官宣",
       "onboard_time": 1681168699,
       "rank": 16,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 146782,
+      "num": 146782,
+      "word": "原来蒙娜丽莎也不想上班",
+      "onboard_time": 1681182148,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 146154,
@@ -779,28 +843,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125832,
-      "num": 125832,
-      "word": "为什么说牡丹是大自然的修图工具",
-      "onboard_time": 1681181846,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124034,
       "num": 124034,
       "word": "原来熊猫也喜欢看热闹",
       "onboard_time": 1681142964,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123354,
-      "num": 123354,
-      "word": "比特币",
-      "onboard_time": 1681182686,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 120043,
@@ -827,20 +875,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117960,
-      "num": 117960,
-      "word": "胡彦斌长月烬明插曲月烬无声上线",
-      "onboard_time": 1681183048,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 117487,
       "num": 117487,
       "word": "今年五一实际只放一天",
       "onboard_time": 1681113988,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116897,
+      "num": 116897,
+      "word": "你会选择义工旅行吗",
+      "onboard_time": 1681182988,
+      "rank": 49,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 113273,
@@ -865,14 +913,6 @@
       "onboard_time": 1681178725,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 109844,
-      "num": 109844,
-      "word": "原来蒙娜丽莎也不想上班",
-      "onboard_time": 1681182148,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 108909,
@@ -929,14 +969,6 @@
       "onboard_time": 1681164793,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 94320,
-      "num": 107480,
-      "word": "你会选择义工旅行吗",
-      "onboard_time": 1681182988,
-      "rank": 49,
-      "category": "旅游,情感"
     },
     {
       "raw_hot": 92461,

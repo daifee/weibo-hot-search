@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681183074165,
+  "endTime": 1681184029277,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1259,6 +1259,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1595125,
+      "num": 1595125,
+      "word": "易烊千玺疑似出演英雄联盟网剧",
+      "onboard_time": 1681181605,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1584064,
       "num": 550694,
       "word": "沈月 湖师大",
@@ -1793,14 +1801,6 @@
       "onboard_time": 1681177164,
       "rank": 32,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1250614,
-      "num": 1250614,
-      "word": "易烊千玺疑似出演英雄联盟网剧",
-      "onboard_time": 1681181605,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1241786,
@@ -3851,6 +3851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 716926,
+      "num": 716926,
+      "word": "哪些人不能喝椰子水",
+      "onboard_time": 1681178725,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 716821,
       "num": 716821,
       "word": "王楚钦世界排名升至第2",
@@ -4267,14 +4275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 668416,
-      "num": 668416,
-      "word": "哪些人不能喝椰子水",
-      "onboard_time": 1681178725,
-      "rank": 11,
-      "category": "美食"
-    },
-    {
       "raw_hot": 668117,
       "num": 668117,
       "word": "被闹钟惊醒对身体危害大",
@@ -4513,6 +4513,14 @@
       "onboard_time": 1680317368,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 643933,
+      "num": 311341,
+      "word": "湖北一女局长被曝用公款配置休息室",
+      "onboard_time": 1681182686,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 643901,
@@ -4801,6 +4809,14 @@
       "onboard_time": 1680336331,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614678,
+      "num": 614678,
+      "word": "法老 老乡鸡",
+      "onboard_time": 1681183107,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 614539,
@@ -5849,6 +5865,14 @@
       "onboard_time": 1680690152,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525540,
+      "num": 425827,
+      "word": "阿里所有产品将接入通义千问",
+      "onboard_time": 1681182026,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 525508,
@@ -7171,6 +7195,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 433060,
+      "num": 433060,
+      "word": "卫健委回应出台政策鼓励早婚早育提案",
+      "onboard_time": 1681182385,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432168,
       "num": 432168,
       "word": "Lisa日巡新发色",
@@ -7739,6 +7771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 405287,
+      "num": 405287,
+      "word": "叶夕雾是黎苏苏的一缕恶魂",
+      "onboard_time": 1681179143,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404940,
       "num": 404940,
       "word": "戈贝尔道歉",
@@ -7881,14 +7921,6 @@
       "onboard_time": 1680752849,
       "rank": 25,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 398281,
-      "num": 398281,
-      "word": "叶夕雾是黎苏苏的一缕恶魂",
-      "onboard_time": 1681179143,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 398253,
@@ -8651,6 +8683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356740,
+      "num": 356740,
+      "word": "迪丽热巴到达贵阳",
+      "onboard_time": 1681182807,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 356727,
       "num": 356727,
       "word": "马东锡头像",
@@ -9387,6 +9427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331209,
+      "num": 331209,
+      "word": "柯南贝克街的亡灵全国上映",
+      "onboard_time": 1681181485,
+      "rank": 15,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 330972,
       "num": 330972,
       "word": "奔跑吧",
@@ -9657,6 +9705,14 @@
       "onboard_time": 1681007426,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320310,
+      "num": 320310,
+      "word": "苹果iPhone15Pro机模曝光",
+      "onboard_time": 1681182269,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 320037,
@@ -10137,6 +10193,14 @@
       "onboard_time": 1680827370,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302885,
+      "num": 302885,
+      "word": "长月烬明十二神归位",
+      "onboard_time": 1681182867,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 302706,
@@ -10945,14 +11009,6 @@
       "onboard_time": 1680748827,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 279619,
-      "num": 279619,
-      "word": "柯南贝克街的亡灵全国上映",
-      "onboard_time": 1681181485,
-      "rank": 15,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 279196,
@@ -11819,6 +11875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254800,
+      "num": 247030,
+      "word": "罗云熙双眼皮好多层",
+      "onboard_time": 1681182867,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254711,
       "num": 254711,
       "word": "李沁刘巧珍哭戏共情力",
@@ -11987,14 +12051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250969,
-      "num": 246510,
-      "word": "迪丽热巴到达贵阳",
-      "onboard_time": 1681182807,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 250866,
       "num": 238306,
       "word": "他是谁剧组到底做了多少盒饭",
@@ -12033,6 +12089,14 @@
       "onboard_time": 1680513391,
       "rank": 46,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 250447,
+      "num": 250447,
+      "word": "比特币",
+      "onboard_time": 1681182686,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 250318,
@@ -12265,14 +12329,6 @@
       "onboard_time": 1680830129,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 244236,
-      "num": 244236,
-      "word": "阿里所有产品将接入通义千问",
-      "onboard_time": 1681182026,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 244012,
@@ -12851,6 +12907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231453,
+      "num": 231453,
+      "word": "iOS15.7.5正式版发布",
+      "onboard_time": 1681182748,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 231293,
       "num": 231293,
       "word": "我想和你唱",
@@ -13059,6 +13123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228496,
+      "num": 228496,
+      "word": "男子痴迷炼金术6次偷拆他人汽车",
+      "onboard_time": 1681181904,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228484,
       "num": 228484,
       "word": "EXO再唱咆哮",
@@ -13089,6 +13161,14 @@
       "onboard_time": 1680842011,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227984,
+      "num": 227984,
+      "word": "金晨说今天这风差点把狗吹走",
+      "onboard_time": 1681183225,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 227868,
@@ -13891,14 +13971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214900,
-      "num": 214900,
-      "word": "苹果iPhone15Pro机模曝光",
-      "onboard_time": 1681182269,
-      "rank": 31,
-      "category": "科技"
-    },
-    {
       "raw_hot": 214772,
       "num": 214772,
       "word": "kpopSolo歌手历代初动排名",
@@ -13945,14 +14017,6 @@
       "onboard_time": 1680506070,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213890,
-      "num": 213890,
-      "word": "卫健委回应出台政策鼓励早婚早育提案",
-      "onboard_time": 1681182385,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213824,
@@ -15107,6 +15171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203465,
+      "num": 203465,
+      "word": "胡彦斌长月烬明插曲月烬无声上线",
+      "onboard_time": 1681183048,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203446,
       "num": 155271,
       "word": "周柏豪武汉",
@@ -15193,14 +15265,6 @@
       "onboard_time": 1680333089,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203175,
-      "num": 203175,
-      "word": "罗云熙双眼皮好多层",
-      "onboard_time": 1681182867,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 203142,
@@ -17403,14 +17467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190039,
-      "num": 186034,
-      "word": "长月烬明十二神归位",
-      "onboard_time": 1681182867,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190023,
       "num": 190023,
       "word": "严浩翔明天有新歌",
@@ -17897,14 +17953,6 @@
       "onboard_time": 1680767489,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186744,
-      "num": 186744,
-      "word": "iOS15.7.5正式版发布",
-      "onboard_time": 1681182748,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 186713,
@@ -18409,14 +18457,6 @@
       "onboard_time": 1680847168,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181948,
-      "num": 181948,
-      "word": "男子痴迷炼金术6次偷拆他人汽车",
-      "onboard_time": 1681181904,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181886,
@@ -19251,6 +19291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170577,
+      "num": 170577,
+      "word": "大侦探8明日之战高清剧照",
+      "onboard_time": 1681184008,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170524,
       "num": 170524,
       "word": "荒野行动",
@@ -19345,6 +19393,14 @@
       "onboard_time": 1680355351,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169305,
+      "num": 221328,
+      "word": "为什么说牡丹是大自然的修图工具",
+      "onboard_time": 1681181846,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169282,
@@ -19913,14 +19969,6 @@
       "onboard_time": 1680359251,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161408,
-      "num": 161408,
-      "word": "湖北一女局长被曝用公款配置休息室",
-      "onboard_time": 1681182686,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160956,
@@ -20923,6 +20971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148835,
+      "num": 148835,
+      "word": "当粉丝不让你质疑演技的时候",
+      "onboard_time": 1681183587,
+      "rank": 42,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 148833,
       "num": 148833,
       "word": "金子涵清唱socliché",
@@ -21041,6 +21097,14 @@
       "onboard_time": 1680654988,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146782,
+      "num": 146782,
+      "word": "原来蒙娜丽莎也不想上班",
+      "onboard_time": 1681182148,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 146705,
@@ -22515,14 +22579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 125832,
-      "num": 125832,
-      "word": "为什么说牡丹是大自然的修图工具",
-      "onboard_time": 1681181846,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125644,
       "num": 125644,
       "word": "他是谁赵公子背景",
@@ -22673,14 +22729,6 @@
       "onboard_time": 1681003706,
       "rank": 43,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 123354,
-      "num": 123354,
-      "word": "比特币",
-      "onboard_time": 1681182686,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 123054,
@@ -22987,14 +23035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 117960,
-      "num": 117960,
-      "word": "胡彦斌长月烬明插曲月烬无声上线",
-      "onboard_time": 1681183048,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 117854,
       "num": 117854,
       "word": "苏新皓说谢谢你愿意为我而来",
@@ -23057,6 +23097,14 @@
       "onboard_time": 1681083083,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116897,
+      "num": 116897,
+      "word": "你会选择义工旅行吗",
+      "onboard_time": 1681182988,
+      "rank": 49,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 116861,
@@ -23321,14 +23369,6 @@
       "onboard_time": 1680935246,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109844,
-      "num": 109844,
-      "word": "原来蒙娜丽莎也不想上班",
-      "onboard_time": 1681182148,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 109609,
@@ -24009,14 +24049,6 @@
       "onboard_time": 1681022965,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 94320,
-      "num": 107480,
-      "word": "你会选择义工旅行吗",
-      "onboard_time": 1681182988,
-      "rank": 49,
-      "category": "旅游,情感"
     },
     {
       "raw_hot": 94010,
