@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681241617748,
+  "endTime": 1681244289628,
   "band_list": [
     {
       "raw_hot": 2314796,
@@ -403,8 +403,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64340,
-      "num": 64340,
+      "raw_hot": 66409,
+      "num": 66409,
       "word": "曼城vs拜仁",
       "onboard_time": 1681235834,
       "rank": 16,
@@ -433,6 +433,14 @@
       "onboard_time": 1681216706,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20853,
+      "num": 20853,
+      "word": "中方回应美方寻求重新安排布林肯访华",
+      "onboard_time": 1681243631,
+      "rank": 24,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
