@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681194914315,
+  "endTime": 1681197361993,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -51,6 +51,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1728866,
+      "num": 738957,
+      "word": "冯小刚分不清迪丽热巴和古力娜扎",
+      "onboard_time": 1681195464,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1712238,
       "num": 446349,
       "word": "李佳航泡温泉弄伤一根肋骨",
@@ -81,6 +89,14 @@
       "onboard_time": 1681188151,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1306396,
+      "num": 1306396,
+      "word": "王菊 我的肚子很可爱",
+      "onboard_time": 1681196725,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1256877,
@@ -163,10 +179,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804155,
+      "num": 804155,
+      "word": "长月烬明近三年仙侠剧第一",
+      "onboard_time": 1681194086,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 767785,
       "num": 356375,
       "word": "湖北一女局长被曝用公款配置休息室",
       "onboard_time": 1681182686,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738920,
+      "num": 738920,
+      "word": "员工上班摸鱼被辞退",
+      "onboard_time": 1681193306,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -339,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448604,
+      "num": 448604,
+      "word": "一位日本女读者写的跨国信",
+      "onboard_time": 1681193487,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 430066,
       "num": 430066,
       "word": "官方通报景点奶茶店使用霉变竹筒",
@@ -363,20 +403,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 419129,
+      "num": 252883,
+      "word": "婚礼堵门1小时丈母娘吃2次救心丸",
+      "onboard_time": 1681191987,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417507,
       "num": 417507,
       "word": "iPhone15Pro相机厚约2枚1元硬币",
       "onboard_time": 1681186347,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 416548,
-      "num": 252883,
-      "word": "婚礼堵门1小时丈母娘吃2次救心丸",
-      "onboard_time": 1681191987,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414050,
@@ -419,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 396550,
+      "num": 380852,
+      "word": "小S二女儿侧拍照",
+      "onboard_time": 1681195766,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395060,
       "num": 395060,
       "word": "杨丞琳献唱陈飞宇周也新片主题曲",
@@ -433,6 +481,14 @@
       "onboard_time": 1681176686,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392665,
+      "num": 392665,
+      "word": "2023教资考试笔试成绩",
+      "onboard_time": 1681193006,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 382244,
@@ -475,12 +531,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 357034,
+      "num": 357034,
+      "word": "小学生盘手串文具店直接卖疯了",
+      "onboard_time": 1681191868,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356740,
       "num": 356740,
       "word": "迪丽热巴到达贵阳",
       "onboard_time": 1681182807,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 356512,
+      "num": 356512,
+      "word": "宋茜绿发",
+      "onboard_time": 1681196546,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 347907,
@@ -561,14 +633,6 @@
       "onboard_time": 1681131810,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 319154,
-      "num": 319154,
-      "word": "小学生盘手串文具店直接卖疯了",
-      "onboard_time": 1681191868,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315949,
@@ -691,14 +755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 258895,
-      "num": 203153,
-      "word": "一位日本女读者写的跨国信",
-      "onboard_time": 1681193487,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 258616,
       "num": 248686,
       "word": "受小朋友欢迎的狗狗长这样",
@@ -723,14 +779,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 247877,
-      "num": 247877,
-      "word": "员工上班摸鱼被辞退",
-      "onboard_time": 1681193306,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246824,
       "num": 243220,
       "word": "ive新歌和你xx的适配度",
@@ -747,20 +795,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243866,
+      "num": 243866,
+      "word": "大城市是小镇女生的避风港吗",
+      "onboard_time": 1681194025,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238538,
       "num": 238538,
       "word": "大鹏导演新片热烈定档",
       "onboard_time": 1681181306,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234970,
-      "num": 234970,
-      "word": "2023教资考试笔试成绩",
-      "onboard_time": 1681193006,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 234558,
@@ -827,14 +875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225952,
-      "num": 225952,
-      "word": "长月烬明近三年仙侠剧第一",
-      "onboard_time": 1681194086,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 221867,
       "num": 221867,
       "word": "长月烬明原著",
@@ -883,6 +923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213836,
+      "num": 213836,
+      "word": "郑州抗癌共享厨房面临关门困境",
+      "onboard_time": 1681192587,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211364,
       "num": 211364,
       "word": "成龙刘浩存郭麒麟芭莎大片",
@@ -897,6 +945,14 @@
       "onboard_time": 1681191207,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208808,
+      "num": 208808,
+      "word": "诅咒叶夕雾的魔女是真的桑酒",
+      "onboard_time": 1681192827,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 208456,
@@ -920,6 +976,14 @@
       "word": "王一博旋转机训练",
       "onboard_time": 1681194865,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206999,
+      "num": 206999,
+      "word": "热烈海报细节",
+      "onboard_time": 1681196304,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -971,6 +1035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196502,
+      "num": 196502,
+      "word": "减肥失败后以为自己是甲减",
+      "onboard_time": 1681195104,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196453,
       "num": 196453,
       "word": "任嘉伦超话会掉落Q版任嘉伦",
@@ -1019,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190867,
+      "num": 190867,
+      "word": "老乡鸡 我保证这次没有中间商赚差价",
+      "onboard_time": 1681196844,
+      "rank": 31,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 190115,
       "num": 190115,
       "word": "一个人也要活成一个春天",
@@ -1027,12 +1107,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189974,
-      "num": 189974,
-      "word": "郑州抗癌共享厨房面临关门困境",
-      "onboard_time": 1681192587,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 189189,
+      "num": 189189,
+      "word": "罗云熙白鹿新浪扫楼预告",
+      "onboard_time": 1681196725,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 188799,
@@ -1059,6 +1139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181385,
+      "num": 181385,
+      "word": "长空之王雷宇片场旋转花絮",
+      "onboard_time": 1681196667,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178839,
       "num": 178839,
       "word": "金智秀说我是你们的宝宝",
@@ -1073,14 +1161,6 @@
       "onboard_time": 1681181846,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177656,
-      "num": 177656,
-      "word": "诅咒叶夕雾的魔女是真的桑酒",
-      "onboard_time": 1681192827,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 176331,
@@ -1113,6 +1193,14 @@
       "onboard_time": 1681172487,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171043,
+      "num": 171043,
+      "word": "高校回应女生从宿舍楼坠落",
+      "onboard_time": 1681196365,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 170234,
@@ -1267,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141572,
+      "num": 141572,
+      "word": "喻言CHAMPION体育画报周年刊大片",
+      "onboard_time": 1681195286,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138735,
       "num": 138735,
       "word": "长月烬明流浪地球同一特效团队",
@@ -1275,12 +1371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138615,
-      "num": 138615,
-      "word": "大城市是小镇女生的避风港吗",
-      "onboard_time": 1681194025,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 131393,
+      "num": 131393,
+      "word": "什么是失望性情感隔离",
+      "onboard_time": 1681195704,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 127756,
@@ -1289,6 +1385,14 @@
       "onboard_time": 1681189349,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 127402,
+      "num": 127402,
+      "word": "在外滩撸一种很新的猫",
+      "onboard_time": 1681196185,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126446,
