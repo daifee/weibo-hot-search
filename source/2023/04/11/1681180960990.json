@@ -1,0 +1,410 @@
+{
+  "runTime": 1681180960990,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2668793,
+        "num": 2668793,
+        "word": "石楠花又腥又臭为何还大面积种",
+        "onboard_time": 1681174168,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2115550,
+        "num": 2115550,
+        "word": "沙尘暴",
+        "onboard_time": 1681170744,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18521,
+        "num": 1827097,
+        "word": "抢抓战略机遇增强发展信心",
+        "onboard_time": 1681132827,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1642976,
+        "num": 1642976,
+        "word": "赵露思与替身合照",
+        "onboard_time": 1681177824,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1262237,
+        "num": 1262237,
+        "word": "虞书欣让粉丝不要再push工作人员",
+        "onboard_time": 1681173027,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1256877,
+        "num": 1256877,
+        "word": "3年轻人20万开店日营业额仅79元",
+        "onboard_time": 1681177164,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 716312,
+        "num": 716312,
+        "word": "男子邀异性游三亚钱全包妻子起诉索回",
+        "onboard_time": 1681177467,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531730,
+        "num": 531730,
+        "word": "喝预开口的椰子 进急诊",
+        "onboard_time": 1681172909,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415809,
+        "num": 415809,
+        "word": "郑晓龙评赵丽颖转型",
+        "onboard_time": 1681169721,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395060,
+        "num": 395060,
+        "word": "杨丞琳献唱陈飞宇周也新片主题曲",
+        "onboard_time": 1681178787,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 546373,
+        "num": 389378,
+        "word": "李佳航泡温泉弄伤一根肋骨",
+        "onboard_time": 1681169962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482420,
+        "num": 389169,
+        "word": "哪些人不能喝椰子水",
+        "onboard_time": 1681178725,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 475026,
+        "num": 389168,
+        "word": "iPhone15屏幕将使用M12材料",
+        "onboard_time": 1681179565,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 348218,
+        "num": 348218,
+        "word": "山东成五一国内游顶流",
+        "onboard_time": 1681177645,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 331129,
+        "num": 331129,
+        "word": "黎苏苏是最后一个神",
+        "onboard_time": 1681177706,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291163,
+        "num": 291163,
+        "word": "被当街踹倒女子好友发声",
+        "onboard_time": 1681136310,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309201,
+        "num": 290446,
+        "word": "叶夕雾是黎苏苏的一缕恶魂",
+        "onboard_time": 1681179143,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288415,
+        "num": 288415,
+        "word": "石楠花的花语 yue",
+        "onboard_time": 1681168879,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252075,
+        "num": 252075,
+        "word": "原生家庭对个人来说太重要了",
+        "onboard_time": 1681179087,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243799,
+        "num": 243799,
+        "word": "热烈",
+        "onboard_time": 1681178965,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 394632,
+        "num": 236963,
+        "word": "上海沙尘暴",
+        "onboard_time": 1681176686,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313746,
+        "num": 229564,
+        "word": "女子看直播一次性公款打赏三四十万",
+        "onboard_time": 1681177283,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272976,
+        "num": 227332,
+        "word": "比亚迪",
+        "onboard_time": 1681177645,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252035,
+        "num": 220204,
+        "word": "受小朋友欢迎的狗狗长这样",
+        "onboard_time": 1681178367,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 213148,
+        "num": 213148,
+        "word": "长月烬明登陆韩国大屏",
+        "onboard_time": 1681179805,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195372,
+        "num": 195372,
+        "word": "假装上班能缓解待业焦虑吗",
+        "onboard_time": 1681174648,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190174,
+        "num": 190174,
+        "word": "十年前的追星手账",
+        "onboard_time": 1681175607,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184768,
+        "num": 184768,
+        "word": "全聚德连亏三年",
+        "onboard_time": 1681171587,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183955,
+        "num": 183955,
+        "word": "澹台烬的乌鸦太嚣张了",
+        "onboard_time": 1681176146,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174355,
+        "num": 174355,
+        "word": "有这8种症状需警惕帕金森病",
+        "onboard_time": 1681176686,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180891,
+        "num": 174285,
+        "word": "当香港人在东北买水果时",
+        "onboard_time": 1681138768,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174083,
+        "num": 174083,
+        "word": "任嘉伦超话会掉落Q版任嘉伦",
+        "onboard_time": 1681177645,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154291,
+        "num": 154291,
+        "word": "陈都灵天欢绕腕好带感",
+        "onboard_time": 1681172008,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140718,
+        "num": 140718,
+        "word": "迪丽热巴进组",
+        "onboard_time": 1681136130,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130669,
+        "num": 130669,
+        "word": "95后海警执法员缉私战斗中牺牲",
+        "onboard_time": 1681173807,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125249,
+        "num": 125249,
+        "word": "从校园到社会的友情",
+        "onboard_time": 1681178725,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123726,
+        "num": 123726,
+        "word": "跟老爸说买了墓地旁边的房子",
+        "onboard_time": 1681132047,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116458,
+        "num": 116458,
+        "word": "环台岛演习72小时",
+        "onboard_time": 1681168459,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 114581,
+        "num": 114581,
+        "word": "吃土",
+        "onboard_time": 1681173506,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110840,
+        "num": 110840,
+        "word": "陈鑫海公司名字叫好虚荣",
+        "onboard_time": 1681171286,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103382,
+        "num": 103382,
+        "word": "王一博热烈找镜头",
+        "onboard_time": 1681180944,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100983,
+        "num": 100983,
+        "word": "如何分辨椰子水坏没坏",
+        "onboard_time": 1681178725,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99897,
+        "num": 99897,
+        "word": "国家安全教育日",
+        "onboard_time": 1681180286,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94381,
+        "num": 94381,
+        "word": "妍珍越来越甜了",
+        "onboard_time": 1681140148,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91688,
+        "num": 91688,
+        "word": "同居不同房的情侣是怎样的",
+        "onboard_time": 1681124546,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91140,
+        "num": 91140,
+        "word": "官方通报景点奶茶店使用霉变竹筒",
+        "onboard_time": 1681172254,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 89817,
+        "num": 89817,
+        "word": "因家长决策失误而耽误过大事",
+        "onboard_time": 1681138409,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84806,
+        "num": 84806,
+        "word": "南京紫峰广场内一女子从中庭坠落身亡",
+        "onboard_time": 1681135828,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 82788,
+        "num": 82788,
+        "word": "网购别再只会看销量了",
+        "onboard_time": 1681131927,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79285,
+        "num": 79285,
+        "word": "吴彤去看华晨宇的演唱会了",
+        "onboard_time": 1681171826,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#云逛消博会#"
+    }
+  }
+}

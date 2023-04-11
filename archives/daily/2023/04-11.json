@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681180354101,
+  "endTime": 1681180960990,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -35,16 +35,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1435548,
-      "num": 1435548,
+      "raw_hot": 1642976,
+      "num": 1642976,
       "word": "赵露思与替身合照",
       "onboard_time": 1681177824,
       "rank": 4,
       "category": "影视"
     },
     {
-      "raw_hot": 1162761,
-      "num": 1162761,
+      "raw_hot": 1256877,
+      "num": 1256877,
       "word": "3年轻人20万开店日营业额仅79元",
       "onboard_time": 1681177164,
       "rank": 32,
@@ -139,6 +139,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 482420,
+      "num": 389169,
+      "word": "哪些人不能喝椰子水",
+      "onboard_time": 1681178725,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 475026,
+      "num": 389168,
+      "word": "iPhone15屏幕将使用M12材料",
+      "onboard_time": 1681179565,
+      "rank": 17,
+      "category": "科技"
+    },
+    {
       "raw_hot": 461308,
       "num": 311622,
       "word": "权志龙许允真中村一叶合照",
@@ -161,14 +177,6 @@
       "onboard_time": 1681172254,
       "rank": 12,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 429128,
-      "num": 358813,
-      "word": "哪些人不能喝椰子水",
-      "onboard_time": 1681178725,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 427539,
@@ -211,8 +219,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 387353,
-      "num": 220439,
+      "raw_hot": 395060,
+      "num": 395060,
+      "word": "杨丞琳献唱陈飞宇周也新片主题曲",
+      "onboard_time": 1681178787,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 394632,
+      "num": 236963,
       "word": "上海沙尘暴",
       "onboard_time": 1681176686,
       "rank": 22,
@@ -243,12 +259,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 363427,
-      "num": 363427,
-      "word": "杨丞琳献唱陈飞宇周也新片主题曲",
-      "onboard_time": 1681178787,
-      "rank": 9,
-      "category": "影视"
+      "raw_hot": 348218,
+      "num": 348218,
+      "word": "山东成五一国内游顶流",
+      "onboard_time": 1681177645,
+      "rank": 14,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 347907,
@@ -291,12 +307,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314500,
-      "num": 314500,
-      "word": "山东成五一国内游顶流",
-      "onboard_time": 1681177645,
-      "rank": 14,
-      "category": "旅游,社会新闻"
+      "raw_hot": 313746,
+      "num": 229564,
+      "word": "女子看直播一次性公款打赏三四十万",
+      "onboard_time": 1681177283,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309201,
+      "num": 290446,
+      "word": "叶夕雾是黎苏苏的一缕恶魂",
+      "onboard_time": 1681179143,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 308535,
@@ -331,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 293330,
-      "num": 219921,
-      "word": "女子看直播一次性公款打赏三四十万",
-      "onboard_time": 1681177283,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281054,
       "num": 212898,
       "word": "网购别再只会看销量了",
@@ -347,20 +363,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 269796,
-      "num": 219089,
+      "raw_hot": 272976,
+      "num": 227332,
       "word": "比亚迪",
       "onboard_time": 1681177645,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 263396,
-      "num": 263396,
-      "word": "iPhone15屏幕将使用M12材料",
-      "onboard_time": 1681179565,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 262564,
@@ -371,20 +379,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252075,
+      "num": 252075,
+      "word": "原生家庭对个人来说太重要了",
+      "onboard_time": 1681179087,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 252035,
+      "num": 220204,
+      "word": "受小朋友欢迎的狗狗长这样",
+      "onboard_time": 1681178367,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 249794,
       "num": 249794,
       "word": "五一当天三倍工资你愿意加班吗",
       "onboard_time": 1681125145,
       "rank": 15,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 248457,
-      "num": 218728,
-      "word": "受小朋友欢迎的狗狗长这样",
-      "onboard_time": 1681178367,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 246824,
@@ -435,20 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220725,
-      "num": 220725,
-      "word": "叶夕雾是黎苏苏的一缕恶魂",
-      "onboard_time": 1681179143,
-      "rank": 19,
+      "raw_hot": 213148,
+      "num": 213148,
+      "word": "长月烬明登陆韩国大屏",
+      "onboard_time": 1681179805,
+      "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218147,
-      "num": 218147,
-      "word": "原生家庭对个人来说太重要了",
-      "onboard_time": 1681179087,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 208456,
@@ -515,20 +523,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174355,
+      "num": 183592,
+      "word": "有这8种症状需警惕帕金森病",
+      "onboard_time": 1681176686,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171128,
       "num": 171128,
       "word": "天津沙尘暴",
       "onboard_time": 1681172487,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166284,
-      "num": 147606,
-      "word": "长月烬明登陆韩国大屏",
-      "onboard_time": 1681179805,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 163692,
@@ -553,14 +561,6 @@
       "onboard_time": 1681171826,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 157080,
-      "num": 183592,
-      "word": "有这8种症状需警惕帕金森病",
-      "onboard_time": 1681176686,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156674,
@@ -731,6 +731,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103382,
+      "num": 103382,
+      "word": "王一博热烈找镜头",
+      "onboard_time": 1681180944,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 99897,
+      "num": 99897,
+      "word": "国家安全教育日",
+      "onboard_time": 1681180286,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96311,
       "num": 96311,
       "word": "白敬亭的翻包好物",
@@ -753,14 +769,6 @@
       "onboard_time": 1681164793,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93476,
-      "num": 93476,
-      "word": "国家安全教育日",
-      "onboard_time": 1681180286,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92461,

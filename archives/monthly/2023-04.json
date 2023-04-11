@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681180354101,
+  "endTime": 1681180960990,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1179,6 +1179,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1642976,
+      "num": 1642976,
+      "word": "赵露思与替身合照",
+      "onboard_time": 1681177824,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1642648,
       "num": 1642648,
       "word": "工作4年就诊了50次",
@@ -1515,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1435548,
-      "num": 1435548,
-      "word": "赵露思与替身合照",
-      "onboard_time": 1681177824,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1430909,
       "num": 1430909,
       "word": "五问张继科事件",
@@ -1787,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1256877,
+      "num": 1256877,
+      "word": "3年轻人20万开店日营业额仅79元",
+      "onboard_time": 1681177164,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1241786,
       "num": 638733,
       "word": "肖战电影",
@@ -1905,14 +1913,6 @@
       "onboard_time": 1680494855,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1162761,
-      "num": 1162761,
-      "word": "3年轻人20万开店日营业额仅79元",
-      "onboard_time": 1681177164,
-      "rank": 32,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1162326,
@@ -6427,6 +6427,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 482420,
+      "num": 389169,
+      "word": "哪些人不能喝椰子水",
+      "onboard_time": 1681178725,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 482121,
       "num": 482121,
       "word": "少女魔尊",
@@ -6577,6 +6585,14 @@
       "onboard_time": 1680910341,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 475026,
+      "num": 389168,
+      "word": "iPhone15屏幕将使用M12材料",
+      "onboard_time": 1681179565,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 474709,
@@ -7259,14 +7275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429128,
-      "num": 358813,
-      "word": "哪些人不能喝椰子水",
-      "onboard_time": 1681178725,
-      "rank": 11,
-      "category": "美食"
-    },
-    {
       "raw_hot": 427541,
       "num": 389413,
       "word": "上海出发1小时就能到的城市",
@@ -7923,12 +7931,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395060,
+      "num": 395060,
+      "word": "杨丞琳献唱陈飞宇周也新片主题曲",
+      "onboard_time": 1681178787,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394749,
       "num": 394749,
       "word": "EDG对战OMG",
       "onboard_time": 1680775111,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 394632,
+      "num": 236963,
+      "word": "上海沙尘暴",
+      "onboard_time": 1681176686,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394578,
@@ -8113,14 +8137,6 @@
       "onboard_time": 1680743728,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 387353,
-      "num": 220439,
-      "word": "上海沙尘暴",
-      "onboard_time": 1681176686,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387306,
@@ -8515,14 +8531,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 363427,
-      "num": 363427,
-      "word": "杨丞琳献唱陈飞宇周也新片主题曲",
-      "onboard_time": 1681178787,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 363085,
       "num": 378054,
       "word": "下班该不该回领导信息",
@@ -8849,6 +8857,14 @@
       "onboard_time": 1680878551,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348218,
+      "num": 348218,
+      "word": "山东成五一国内游顶流",
+      "onboard_time": 1681177645,
+      "rank": 14,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 348049,
@@ -9811,14 +9827,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 314500,
-      "num": 314500,
-      "word": "山东成五一国内游顶流",
-      "onboard_time": 1681177645,
-      "rank": 14,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 314070,
       "num": 314070,
       "word": "EXO出道颜值",
@@ -9841,6 +9849,14 @@
       "onboard_time": 1680512730,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313746,
+      "num": 229564,
+      "word": "女子看直播一次性公款打赏三四十万",
+      "onboard_time": 1681177283,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313555,
@@ -9921,6 +9937,14 @@
       "onboard_time": 1681041806,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 309201,
+      "num": 290446,
+      "word": "叶夕雾是黎苏苏的一缕恶魂",
+      "onboard_time": 1681179143,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 309102,
@@ -10401,14 +10425,6 @@
       "onboard_time": 1680860787,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293330,
-      "num": 219921,
-      "word": "女子看直播一次性公款打赏三四十万",
-      "onboard_time": 1681177283,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293235,
@@ -11091,6 +11107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272976,
+      "num": 227332,
+      "word": "比亚迪",
+      "onboard_time": 1681177645,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 272594,
       "num": 272594,
       "word": "只给钱不给爱的婚姻该继续吗",
@@ -11235,14 +11259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 269796,
-      "num": 219089,
-      "word": "比亚迪",
-      "onboard_time": 1681177645,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 269652,
       "num": 269652,
       "word": "LGD",
@@ -11377,14 +11393,6 @@
       "onboard_time": 1680581493,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 263396,
-      "num": 263396,
-      "word": "iPhone15屏幕将使用M12材料",
-      "onboard_time": 1681179565,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 263356,
@@ -11891,6 +11899,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252075,
+      "num": 252075,
+      "word": "原生家庭对个人来说太重要了",
+      "onboard_time": 1681179087,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 252035,
+      "num": 220204,
+      "word": "受小朋友欢迎的狗狗长这样",
+      "onboard_time": 1681178367,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 251780,
       "num": 251780,
       "word": "九尾直播听宋亚轩新歌",
@@ -12041,14 +12065,6 @@
       "onboard_time": 1680768691,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248457,
-      "num": 218728,
-      "word": "受小朋友欢迎的狗狗长这样",
-      "onboard_time": 1681178367,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 248128,
@@ -13379,14 +13395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220725,
-      "num": 220725,
-      "word": "叶夕雾是黎苏苏的一缕恶魂",
-      "onboard_time": 1681179143,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220553,
       "num": 220553,
       "word": "李凯尔",
@@ -13625,14 +13633,6 @@
       "onboard_time": 1680675990,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218147,
-      "num": 218147,
-      "word": "原生家庭对个人来说太重要了",
-      "onboard_time": 1681179087,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 218002,
@@ -13929,6 +13929,14 @@
       "onboard_time": 1680494976,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213148,
+      "num": 213148,
+      "word": "长月烬明登陆韩国大屏",
+      "onboard_time": 1681179805,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 213053,
@@ -18867,6 +18875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174355,
+      "num": 183592,
+      "word": "有这8种症状需警惕帕金森病",
+      "onboard_time": 1681176686,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174227,
       "num": 174227,
       "word": "罗云熙白鹿长月烬明猫眼登顶",
@@ -19440,14 +19456,6 @@
       "word": "梁友安钻进宋三川被窝",
       "onboard_time": 1680928228,
       "rank": 46,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 166284,
-      "num": 147606,
-      "word": "长月烬明登陆韩国大屏",
-      "onboard_time": 1681179805,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -20088,14 +20096,6 @@
       "word": "这不是山水画这是中国山河",
       "onboard_time": 1680522034,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157080,
-      "num": 183592,
-      "word": "有这8种症状需警惕帕金森病",
-      "onboard_time": 1681176686,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -23459,6 +23459,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 103382,
+      "num": 103382,
+      "word": "王一博热烈找镜头",
+      "onboard_time": 1681180944,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103380,
       "num": 103380,
       "word": "纪念币",
@@ -23657,6 +23665,14 @@
       "onboard_time": 1681018347,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99897,
+      "num": 99897,
+      "word": "国家安全教育日",
+      "onboard_time": 1681180286,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99835,
@@ -23873,14 +23889,6 @@
       "onboard_time": 1680333990,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 93476,
-      "num": 93476,
-      "word": "国家安全教育日",
-      "onboard_time": 1681180286,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93370,

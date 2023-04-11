@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681180354101,
+  "endTime": 1681180960990,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1642976,
+      "num": 1642976,
+      "word": "赵露思与替身合照",
+      "onboard_time": 1681177824,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1536049,
       "num": 1536049,
       "word": "今年五一实际只放一天",
@@ -171,14 +179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1435548,
-      "num": 1435548,
-      "word": "赵露思与替身合照",
-      "onboard_time": 1681177824,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1306370,
       "num": 1306370,
       "word": "原来真有大学生不会骑电车",
@@ -195,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1256877,
+      "num": 1256877,
+      "word": "3年轻人20万开店日营业额仅79元",
+      "onboard_time": 1681177164,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1198638,
       "num": 557085,
       "word": "虞书欣泳衣旧照",
@@ -209,14 +217,6 @@
       "onboard_time": 1681113568,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1162761,
-      "num": 1162761,
-      "word": "3年轻人20万开店日营业额仅79元",
-      "onboard_time": 1681177164,
-      "rank": 32,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1142032,
@@ -907,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 482420,
+      "num": 389169,
+      "word": "哪些人不能喝椰子水",
+      "onboard_time": 1681178725,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 482121,
       "num": 482121,
       "word": "少女魔尊",
@@ -937,6 +945,14 @@
       "onboard_time": 1681086330,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 475026,
+      "num": 389168,
+      "word": "iPhone15屏幕将使用M12材料",
+      "onboard_time": 1681179565,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 473555,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1681132948,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 429128,
-      "num": 358813,
-      "word": "哪些人不能喝椰子水",
-      "onboard_time": 1681178725,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 427539,
@@ -1195,20 +1203,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 395060,
+      "num": 395060,
+      "word": "杨丞琳献唱陈飞宇周也新片主题曲",
+      "onboard_time": 1681178787,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 394632,
+      "num": 236963,
+      "word": "上海沙尘暴",
+      "onboard_time": 1681176686,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393021,
       "num": 393021,
       "word": "曾妄议台湾问题的日军官坠机下落不明",
       "onboard_time": 1681099111,
       "rank": 23,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 387353,
-      "num": 220439,
-      "word": "上海沙尘暴",
-      "onboard_time": 1681176686,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 377306,
@@ -1259,14 +1275,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 363427,
-      "num": 363427,
-      "word": "杨丞琳献唱陈飞宇周也新片主题曲",
-      "onboard_time": 1681178787,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 358992,
       "num": 358992,
       "word": "南京紫峰广场内一女子从中庭坠落身亡",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1681033465,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 348218,
+      "num": 348218,
+      "word": "山东成五一国内游顶流",
+      "onboard_time": 1681177645,
+      "rank": 14,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 347907,
@@ -1451,12 +1467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 314500,
-      "num": 314500,
-      "word": "山东成五一国内游顶流",
-      "onboard_time": 1681177645,
-      "rank": 14,
-      "category": "旅游,社会新闻"
+      "raw_hot": 313746,
+      "num": 229564,
+      "word": "女子看直播一次性公款打赏三四十万",
+      "onboard_time": 1681177283,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313555,
@@ -1481,6 +1497,14 @@
       "onboard_time": 1681129527,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309201,
+      "num": 290446,
+      "word": "叶夕雾是黎苏苏的一缕恶魂",
+      "onboard_time": 1681179143,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 303361,
@@ -1545,14 +1569,6 @@
       "onboard_time": 1681178965,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 293330,
-      "num": 219921,
-      "word": "女子看直播一次性公款打赏三四十万",
-      "onboard_time": 1681177283,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293235,
@@ -1643,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272976,
+      "num": 227332,
+      "word": "比亚迪",
+      "onboard_time": 1681177645,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 272041,
       "num": 272041,
       "word": "说唱是男人最好的医美",
@@ -1651,28 +1675,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 269796,
-      "num": 219089,
-      "word": "比亚迪",
-      "onboard_time": 1681177645,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 265244,
       "num": 239943,
       "word": "白鹿武戏没做满意哭了",
       "onboard_time": 1681130126,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 263396,
-      "num": 263396,
-      "word": "iPhone15屏幕将使用M12材料",
-      "onboard_time": 1681179565,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 262564,
@@ -1739,6 +1747,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 252075,
+      "num": 252075,
+      "word": "原生家庭对个人来说太重要了",
+      "onboard_time": 1681179087,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 252035,
+      "num": 220204,
+      "word": "受小朋友欢迎的狗狗长这样",
+      "onboard_time": 1681178367,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 251408,
       "num": 251408,
       "word": "无锡着火",
@@ -1753,14 +1777,6 @@
       "onboard_time": 1681102413,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248457,
-      "num": 218728,
-      "word": "受小朋友欢迎的狗狗长这样",
-      "onboard_time": 1681178367,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 248128,
@@ -1987,14 +2003,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 220725,
-      "num": 220725,
-      "word": "叶夕雾是黎苏苏的一缕恶魂",
-      "onboard_time": 1681179143,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220553,
       "num": 220553,
       "word": "李凯尔",
@@ -2049,14 +2057,6 @@
       "onboard_time": 1681140508,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218147,
-      "num": 218147,
-      "word": "原生家庭对个人来说太重要了",
-      "onboard_time": 1681179087,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 217514,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1681100369,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213148,
+      "num": 213148,
+      "word": "长月烬明登陆韩国大屏",
+      "onboard_time": 1681179805,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 211067,
@@ -2803,6 +2811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174355,
+      "num": 183592,
+      "word": "有这8种症状需警惕帕金森病",
+      "onboard_time": 1681176686,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174186,
       "num": 174186,
       "word": "罗云熙冥夜转场视频",
@@ -2867,14 +2883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166284,
-      "num": 147606,
-      "word": "长月烬明登陆韩国大屏",
-      "onboard_time": 1681179805,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 163111,
       "num": 163111,
       "word": "小时候最喜欢的天然零食",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1681115368,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157080,
-      "num": 183592,
-      "word": "有这8种症状需警惕帕金森病",
-      "onboard_time": 1681176686,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156674,
@@ -3491,6 +3491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 103382,
+      "num": 103382,
+      "word": "王一博热烈找镜头",
+      "onboard_time": 1681180944,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 102220,
       "num": 102220,
       "word": "利物浦vs阿森纳",
@@ -3512,6 +3520,14 @@
       "word": "这些旅游专列已发车",
       "onboard_time": 1681042525,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99897,
+      "num": 99897,
+      "word": "国家安全教育日",
+      "onboard_time": 1681180286,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -3553,14 +3569,6 @@
       "onboard_time": 1681052970,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93476,
-      "num": 93476,
-      "word": "国家安全教育日",
-      "onboard_time": 1681180286,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92605,
