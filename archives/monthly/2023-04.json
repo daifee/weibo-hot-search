@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681240419330,
+  "endTime": 1681241617748,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -26323,6 +26323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64340,
+      "num": 64340,
+      "word": "曼城vs拜仁",
+      "onboard_time": 1681235834,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64206,
       "num": 64206,
       "word": "巧珍开面馆",
@@ -26361,14 +26369,6 @@
       "onboard_time": 1680853169,
       "rank": 49,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 62537,
-      "num": 62537,
-      "word": "曼城vs拜仁",
-      "onboard_time": 1681235834,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 61854,
