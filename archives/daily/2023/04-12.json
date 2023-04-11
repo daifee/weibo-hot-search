@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681248815679,
+  "endTime": 1681251326552,
   "band_list": [
     {
       "raw_hot": 2314796,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115350,
+      "num": 73747,
+      "word": "中方回应美方寻求重新安排布林肯访华",
+      "onboard_time": 1681243631,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 109538,
       "num": 109538,
       "word": "leave",
@@ -411,11 +419,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71756,
-      "num": 33319,
-      "word": "中方回应美方寻求重新安排布林肯访华",
-      "onboard_time": 1681243631,
-      "rank": 24,
+      "raw_hot": 70566,
+      "num": 70566,
+      "word": "耿爽在安理会点名某军事大国",
+      "onboard_time": 1681245012,
+      "rank": 44,
       "category": "国内要闻"
     },
     {
@@ -433,14 +441,6 @@
       "onboard_time": 1681229785,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 45058,
-      "num": 32226,
-      "word": "耿爽在安理会点名某军事大国",
-      "onboard_time": 1681245012,
-      "rank": 44,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 23830,
