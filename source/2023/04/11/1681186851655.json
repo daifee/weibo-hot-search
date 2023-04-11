@@ -1,0 +1,410 @@
+{
+  "runTime": 1681186851655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1912705,
+        "num": 1912705,
+        "word": "法老 老乡鸡",
+        "onboard_time": 1681183107,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1436604,
+        "num": 1436604,
+        "word": "石楠花又腥又臭为何还大面积种",
+        "onboard_time": 1681174168,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30378,
+        "num": 1204209,
+        "word": "2个关键词看消博会广交会",
+        "onboard_time": 1681185146,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1763384,
+        "num": 1182861,
+        "word": "易烊千玺疑似出演英雄联盟网剧",
+        "onboard_time": 1681181605,
+        "rank": 3,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 1109869,
+        "num": 1109869,
+        "word": "3年轻人20万开店日营业额仅79元",
+        "onboard_time": 1681177164,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1096272,
+        "num": 1096272,
+        "word": "保利 如梦之梦",
+        "onboard_time": 1681184728,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1063701,
+        "num": 1063701,
+        "word": "虞书欣让粉丝不要再push工作人员",
+        "onboard_time": 1681173027,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1059026,
+        "num": 1059026,
+        "word": "沙尘暴",
+        "onboard_time": 1681170744,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833402,
+        "num": 833402,
+        "word": "苏州大学回应网传复试确认仅3分钟",
+        "onboard_time": 1681184129,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 640736,
+        "num": 640736,
+        "word": "卫健委回应出台政策鼓励早婚早育提案",
+        "onboard_time": 1681182385,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1472508,
+        "num": 640261,
+        "word": "王菊肚子",
+        "onboard_time": 1681185928,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 600112,
+        "num": 600112,
+        "word": "长月烬明十二神归位",
+        "onboard_time": 1681182867,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576237,
+        "num": 576237,
+        "word": "群众生育观念已转向少生优育",
+        "onboard_time": 1681184548,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537448,
+        "num": 537448,
+        "word": "张艺兴张婧仪演兄妹",
+        "onboard_time": 1681184367,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 35824,
+        "num": 526265,
+        "word": "中国球员的时尚触觉",
+        "onboard_time": 1681186109,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521584,
+        "num": 521584,
+        "word": "哪些人不能喝椰子水",
+        "onboard_time": 1681178725,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 468478,
+        "num": 468478,
+        "word": "罗云熙双眼皮好多层",
+        "onboard_time": 1681182867,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396859,
+        "num": 396859,
+        "word": "阿里所有产品将接入通义千问",
+        "onboard_time": 1681182026,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 369934,
+        "num": 369934,
+        "word": "iPhone15屏幕将使用M12材料",
+        "onboard_time": 1681179565,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 358363,
+        "num": 358363,
+        "word": "比特币",
+        "onboard_time": 1681182686,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 767785,
+        "num": 356375,
+        "word": "湖北一女局长被曝用公款配置休息室",
+        "onboard_time": 1681182686,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345859,
+        "num": 345859,
+        "word": "叶夕雾是黎苏苏的一缕恶魂",
+        "onboard_time": 1681179143,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309325,
+        "num": 309325,
+        "word": "金晨说今天这风差点把狗吹走",
+        "onboard_time": 1681183225,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299476,
+        "num": 299476,
+        "word": "喝预开口的椰子 进急诊",
+        "onboard_time": 1681172909,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295727,
+        "num": 295727,
+        "word": "郑晓龙评赵丽颖转型",
+        "onboard_time": 1681169721,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281262,
+        "num": 281262,
+        "word": "李佳航泡温泉弄伤一根肋骨",
+        "onboard_time": 1681169962,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270513,
+        "num": 270513,
+        "word": "迪丽热巴到达贵阳",
+        "onboard_time": 1681182807,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245086,
+        "num": 245086,
+        "word": "苹果iPhone15Pro机模曝光",
+        "onboard_time": 1681182269,
+        "rank": 27,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 230705,
+        "num": 230705,
+        "word": "山东成五一国内游顶流",
+        "onboard_time": 1681177645,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 210797,
+        "num": 227290,
+        "word": "宝马女司机撞人拖行案开庭",
+        "onboard_time": 1681185748,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234558,
+        "num": 227283,
+        "word": "精准烟感报警器",
+        "onboard_time": 1681186589,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 225505,
+        "num": 225505,
+        "word": "柯南贝克街的亡灵全国上映",
+        "onboard_time": 1681181485,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 223582,
+        "num": 223582,
+        "word": "大侦探",
+        "onboard_time": 1681182204,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221803,
+        "num": 221803,
+        "word": "当粉丝不让你质疑演技的时候",
+        "onboard_time": 1681183587,
+        "rank": 33,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 219672,
+        "num": 219672,
+        "word": "SEVENTEEN新专史上强度最高编舞",
+        "onboard_time": 1681181364,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214690,
+        "num": 214690,
+        "word": "iOS15.7.5正式版发布",
+        "onboard_time": 1681182748,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209906,
+        "num": 209906,
+        "word": "那英狂飙后再唱OST",
+        "onboard_time": 1681186050,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207054,
+        "num": 207054,
+        "word": "去年中国人看网文花了300多亿",
+        "onboard_time": 1681186170,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 202987,
+        "num": 202987,
+        "word": "iPhone15Pro相机厚约2枚1元硬币",
+        "onboard_time": 1681186347,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196829,
+        "num": 196829,
+        "word": "芋泥凤凰奶糊",
+        "onboard_time": 1681186347,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196258,
+        "num": 196258,
+        "word": "谁家小狗吵架扮鬼脸啊",
+        "onboard_time": 1681185689,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192136,
+        "num": 192136,
+        "word": "暖阳的猫也有点功夫",
+        "onboard_time": 1681186769,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191249,
+        "num": 191249,
+        "word": "大侦探8明日之战高清剧照",
+        "onboard_time": 1681184008,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184827,
+        "num": 184827,
+        "word": "白鹿新剧名字含义",
+        "onboard_time": 1681186651,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184274,
+        "num": 184274,
+        "word": "原生家庭对个人来说太重要了",
+        "onboard_time": 1681179087,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182111,
+        "num": 182111,
+        "word": "黎苏苏是最后一个神",
+        "onboard_time": 1681177706,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176704,
+        "num": 176704,
+        "word": "为什么说牡丹是大自然的修图工具",
+        "onboard_time": 1681181846,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165785,
+        "num": 165785,
+        "word": "张元英安宥真再现摔倒名场面",
+        "onboard_time": 1681184246,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161732,
+        "num": 161732,
+        "word": "极端天气公司该不该通知居家办公",
+        "onboard_time": 1681186831,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 159861,
+        "num": 159861,
+        "word": "受小朋友欢迎的狗狗长这样",
+        "onboard_time": 1681178367,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国有约#"
+    }
+  }
+}

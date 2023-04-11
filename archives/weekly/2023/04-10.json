@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681184029277,
+  "endTime": 1681186851655,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -107,6 +107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1912705,
+      "num": 1912705,
+      "word": "法老 老乡鸡",
+      "onboard_time": 1681183107,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1883835,
       "num": 1883835,
       "word": "石楠花好臭",
@@ -121,6 +129,14 @@
       "onboard_time": 1681111827,
       "rank": 38,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1763384,
+      "num": 1595125,
+      "word": "易烊千玺疑似出演英雄联盟网剧",
+      "onboard_time": 1681181605,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1712238,
@@ -139,14 +155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1595125,
-      "num": 1595125,
-      "word": "易烊千玺疑似出演英雄联盟网剧",
-      "onboard_time": 1681181605,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1536049,
       "num": 1536049,
       "word": "今年五一实际只放一天",
@@ -161,6 +169,14 @@
       "onboard_time": 1681113447,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1472508,
+      "num": 640261,
+      "word": "王菊肚子",
+      "onboard_time": 1681185928,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1465661,
@@ -249,6 +265,14 @@
       "onboard_time": 1681085008,
       "rank": 1,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1096272,
+      "num": 1096272,
+      "word": "保利 如梦之梦",
+      "onboard_time": 1681184728,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1096065,
@@ -395,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 833402,
+      "num": 833402,
+      "word": "苏州大学回应网传复试确认仅3分钟",
+      "onboard_time": 1681184129,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 831893,
       "num": 831893,
       "word": "极限挑战第九季阵容官宣",
@@ -441,6 +473,14 @@
       "onboard_time": 1681049553,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 767785,
+      "num": 356375,
+      "word": "湖北一女局长被曝用公款配置休息室",
+      "onboard_time": 1681182686,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766265,
@@ -587,20 +627,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 643933,
-      "num": 311341,
-      "word": "湖北一女局长被曝用公款配置休息室",
-      "onboard_time": 1681182686,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 641120,
       "num": 641120,
       "word": "石楠花的花语 yue",
       "onboard_time": 1681168879,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 640736,
+      "num": 640736,
+      "word": "卫健委回应出台政策鼓励早婚早育提案",
+      "onboard_time": 1681182385,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640383,
@@ -651,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 614678,
-      "num": 614678,
-      "word": "法老 老乡鸡",
-      "onboard_time": 1681183107,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 614539,
       "num": 614539,
       "word": "你是想要正常双休还是调休凑小长假",
@@ -673,6 +705,14 @@
       "onboard_time": 1681047812,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 600112,
+      "num": 600112,
+      "word": "长月烬明十二神归位",
+      "onboard_time": 1681182867,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 589928,
@@ -721,6 +761,14 @@
       "onboard_time": 1681139552,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 576237,
+      "num": 576237,
+      "word": "群众生育观念已转向少生优育",
+      "onboard_time": 1681184548,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570728,
@@ -833,6 +881,14 @@
       "onboard_time": 1681101755,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 537448,
+      "num": 537448,
+      "word": "张艺兴张婧仪演兄妹",
+      "onboard_time": 1681184367,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 537431,
@@ -1011,6 +1067,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 468478,
+      "num": 468478,
+      "word": "罗云熙双眼皮好多层",
+      "onboard_time": 1681182867,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 468418,
       "num": 468418,
       "word": "范丞丞来看小鬼音乐节",
@@ -1065,14 +1129,6 @@
       "onboard_time": 1681113210,
       "rank": 18,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 433060,
-      "num": 433060,
-      "word": "卫健委回应出台政策鼓励早婚早育提案",
-      "onboard_time": 1681182385,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431142,
@@ -1347,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358363,
+      "num": 358363,
+      "word": "比特币",
+      "onboard_time": 1681182686,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 357715,
       "num": 357715,
       "word": "哈尔滨1944",
@@ -1587,19 +1651,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 309325,
+      "num": 309325,
+      "word": "金晨说今天这风差点把狗吹走",
+      "onboard_time": 1681183225,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303361,
       "num": 303361,
       "word": "桑酒为救冥夜自愿献出仙髓",
       "onboard_time": 1681052554,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 302885,
-      "num": 302885,
-      "word": "长月烬明十二神归位",
-      "onboard_time": 1681182867,
-      "rank": 37,
       "category": "影视"
     },
     {
@@ -1835,14 +1899,6 @@
       "category": "财经,社会议题"
     },
     {
-      "raw_hot": 254800,
-      "num": 247030,
-      "word": "罗云熙双眼皮好多层",
-      "onboard_time": 1681182867,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 254661,
       "num": 254661,
       "word": "沈月回应青环比划猜有剧本",
@@ -1873,14 +1929,6 @@
       "onboard_time": 1681114288,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250447,
-      "num": 250447,
-      "word": "比特币",
-      "onboard_time": 1681182686,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 249331,
@@ -2019,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234558,
+      "num": 227283,
+      "word": "精准烟感报警器",
+      "onboard_time": 1681186589,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 234095,
       "num": 234095,
       "word": "长月烬明片尾",
@@ -2099,14 +2155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227984,
-      "num": 227984,
-      "word": "金晨说今天这风差点把狗吹走",
-      "onboard_time": 1681183225,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226028,
       "num": 226028,
       "word": "山东舰首次参加环台岛战备警巡",
@@ -2129,6 +2177,14 @@
       "onboard_time": 1681130426,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 221803,
+      "num": 221803,
+      "word": "当粉丝不让你质疑演技的时候",
+      "onboard_time": 1681183587,
+      "rank": 42,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 221373,
@@ -2291,6 +2347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210797,
+      "num": 227290,
+      "word": "宝马女司机撞人拖行案开庭",
+      "onboard_time": 1681185748,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210492,
       "num": 210492,
       "word": "神隐全员动物设定",
@@ -2305,6 +2369,14 @@
       "onboard_time": 1681106126,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 209906,
+      "num": 209906,
+      "word": "那英狂飙后再唱OST",
+      "onboard_time": 1681186050,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 208913,
@@ -2345,6 +2417,14 @@
       "onboard_time": 1681096709,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207054,
+      "num": 207054,
+      "word": "去年中国人看网文花了300多亿",
+      "onboard_time": 1681186170,
+      "rank": 37,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 206080,
@@ -2401,6 +2481,14 @@
       "onboard_time": 1681183048,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202987,
+      "num": 202987,
+      "word": "iPhone15Pro相机厚约2枚1元硬币",
+      "onboard_time": 1681186347,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 202605,
@@ -2595,6 +2683,14 @@
       "category": "影视,游戏"
     },
     {
+      "raw_hot": 196829,
+      "num": 196829,
+      "word": "芋泥凤凰奶糊",
+      "onboard_time": 1681186347,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196619,
       "num": 196619,
       "word": "投资者对苹果头显缺乏信心原因",
@@ -2609,6 +2705,14 @@
       "onboard_time": 1681177645,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196258,
+      "num": 196258,
+      "word": "谁家小狗吵架扮鬼脸啊",
+      "onboard_time": 1681185689,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 196017,
@@ -2699,12 +2803,28 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 192136,
+      "num": 192136,
+      "word": "暖阳的猫也有点功夫",
+      "onboard_time": 1681186769,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191758,
       "num": 191758,
       "word": "除了卡针还能用什么取SIM卡",
       "onboard_time": 1681118188,
       "rank": 47,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 191249,
+      "num": 191249,
+      "word": "大侦探8明日之战高清剧照",
+      "onboard_time": 1681184008,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 191034,
@@ -2875,6 +2995,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 184827,
+      "num": 184827,
+      "word": "白鹿新剧名字含义",
+      "onboard_time": 1681186651,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182615,
       "num": 182615,
       "word": "恋综cp都在长沙红人节合体了",
@@ -2945,6 +3073,14 @@
       "onboard_time": 1681142665,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176704,
+      "num": 221328,
+      "word": "为什么说牡丹是大自然的修图工具",
+      "onboard_time": 1681181846,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176302,
@@ -3027,14 +3163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 170577,
-      "num": 170577,
-      "word": "大侦探8明日之战高清剧照",
-      "onboard_time": 1681184008,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170356,
       "num": 170356,
       "word": "周雨彤沙滩随拍",
@@ -3043,20 +3171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169305,
-      "num": 221328,
-      "word": "为什么说牡丹是大自然的修图工具",
-      "onboard_time": 1681181846,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168073,
       "num": 168073,
       "word": "新疆草莓音乐节",
       "onboard_time": 1681107088,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165785,
+      "num": 165785,
+      "word": "张元英安宥真再现摔倒名场面",
+      "onboard_time": 1681184246,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 163111,
@@ -3088,6 +3216,14 @@
       "word": "2023第100天",
       "onboard_time": 1681082540,
       "rank": 26,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 161732,
+      "num": 161732,
+      "word": "极端天气公司该不该通知居家办公",
+      "onboard_time": 1681186831,
+      "rank": 48,
       "category": "社会新闻,情感"
     },
     {
@@ -3249,14 +3385,6 @@
       "onboard_time": 1681178725,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148835,
-      "num": 148835,
-      "word": "当粉丝不让你质疑演技的时候",
-      "onboard_time": 1681183587,
-      "rank": 42,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 148457,
@@ -3867,6 +3995,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 35824,
+      "num": 526265,
+      "word": "中国球员的时尚触觉",
+      "onboard_time": 1681186109,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33990,
       "num": 33990,
       "word": "IVE正规专试听",
@@ -3879,6 +4015,14 @@
       "num": 1885252,
       "word": "抢抓战略机遇增强发展信心",
       "onboard_time": 1681132827,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30378,
+      "num": 1204209,
+      "word": "2个关键词看消博会广交会",
+      "onboard_time": 1681185146,
       "rank": 2,
       "category": "社会新闻"
     },
