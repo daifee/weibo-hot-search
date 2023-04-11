@@ -1,0 +1,410 @@
+{
+  "runTime": 1681223605548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1833230,
+        "num": 1833230,
+        "word": "初代跑男重聚",
+        "onboard_time": 1681208666,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1592218,
+        "num": 1592218,
+        "word": "王一博从ye到yue",
+        "onboard_time": 1681217067,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31216,
+        "num": 1193187,
+        "word": "消博会开馆首日有哪些亮点",
+        "onboard_time": 1681216706,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100029,
+        "num": 1100029,
+        "word": "鹿晗直播",
+        "onboard_time": 1681220849,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 988980,
+        "num": 988980,
+        "word": "卫健局回应男生高考体检被要求脱内裤",
+        "onboard_time": 1681214726,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 848192,
+        "num": 848192,
+        "word": "BLG晋级MSI",
+        "onboard_time": 1681220849,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 808357,
+        "num": 808357,
+        "word": "娜扎异域神女造型",
+        "onboard_time": 1681220908,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 653701,
+        "num": 653701,
+        "word": "马龙1比3林昀儒",
+        "onboard_time": 1681220249,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644551,
+        "num": 644551,
+        "word": "EDG",
+        "onboard_time": 1681221390,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 619032,
+        "num": 619032,
+        "word": "长月烬明",
+        "onboard_time": 1681219527,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 750753,
+        "num": 600785,
+        "word": "刘亚仁体内检出第5种毒品",
+        "onboard_time": 1681202605,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 557684,
+        "num": 557684,
+        "word": "口腔诊所借杨颖正畸案例宣传被罚",
+        "onboard_time": 1681215505,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 538511,
+        "num": 538511,
+        "word": "淄博烧烤的热度能持续多久",
+        "onboard_time": 1681218746,
+        "rank": 12,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 530625,
+        "num": 530625,
+        "word": "aespa妆造",
+        "onboard_time": 1681218508,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 511000,
+        "num": 511000,
+        "word": "领馆提醒中国留学生勿代收不明快递",
+        "onboard_time": 1681217488,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 491356,
+        "num": 491356,
+        "word": "男子入职6分钟身亡被认定工亡",
+        "onboard_time": 1681197685,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460069,
+        "num": 460069,
+        "word": "Ale石头人五杀",
+        "onboard_time": 1681220551,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 448530,
+        "num": 448530,
+        "word": "章若楠齐刘海卷发",
+        "onboard_time": 1681219527,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 432029,
+        "num": 432029,
+        "word": "冯小刚我人就在北京",
+        "onboard_time": 1681209748,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 418891,
+        "num": 418891,
+        "word": "长月烬明十二神全部陨落",
+        "onboard_time": 1681209448,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 511168,
+        "num": 408949,
+        "word": "高校图书馆非事业编岗位百人竞争",
+        "onboard_time": 1681219048,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 419463,
+        "num": 398950,
+        "word": "真的要开始存钱了",
+        "onboard_time": 1681205068,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385402,
+        "num": 385402,
+        "word": "郑彩率去世",
+        "onboard_time": 1681205488,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381045,
+        "num": 381045,
+        "word": "陈晓新剧再穿女装",
+        "onboard_time": 1681220729,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371372,
+        "num": 371372,
+        "word": "邓超晒跑男合照说weare伐木累",
+        "onboard_time": 1681222709,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361928,
+        "num": 361928,
+        "word": "男子让女店员帮试文胸遭怒怼",
+        "onboard_time": 1681217729,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318441,
+        "num": 318441,
+        "word": "丫丫乐乐回国细节披露",
+        "onboard_time": 1681210947,
+        "rank": 26,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 316196,
+        "num": 316196,
+        "word": "leave",
+        "onboard_time": 1681221027,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289210,
+        "num": 289210,
+        "word": "当没车的人去超市购物",
+        "onboard_time": 1681219468,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143086,
+        "num": 285926,
+        "word": "你会付费看网文吗",
+        "onboard_time": 1681212566,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283314,
+        "num": 283314,
+        "word": "顾曼丽被抓",
+        "onboard_time": 1681220551,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273108,
+        "num": 273108,
+        "word": "游客举报淄博出租司机不打表多收5元",
+        "onboard_time": 1681222709,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261144,
+        "num": 261144,
+        "word": "仅1成多人拒绝下班秒回工作",
+        "onboard_time": 1681202547,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251480,
+        "num": 251480,
+        "word": "赵露思给手表打码",
+        "onboard_time": 1681204648,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244415,
+        "num": 244415,
+        "word": "魔神是澹台烬",
+        "onboard_time": 1681213284,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243057,
+        "num": 243057,
+        "word": "CBA",
+        "onboard_time": 1681221990,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242925,
+        "num": 242925,
+        "word": "长月烬明近三年仙侠剧第一",
+        "onboard_time": 1681194086,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241277,
+        "num": 241277,
+        "word": "李兰迪露背黑裙",
+        "onboard_time": 1681215145,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233355,
+        "num": 233355,
+        "word": "突发疾病请假回家死亡算不算工伤",
+        "onboard_time": 1681208129,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211540,
+        "num": 211540,
+        "word": "不要把工作当成天大的事",
+        "onboard_time": 1681212629,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 206547,
+        "num": 206547,
+        "word": "山东事业编",
+        "onboard_time": 1681216706,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204552,
+        "num": 204552,
+        "word": "尘封十三载",
+        "onboard_time": 1681221811,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191791,
+        "num": 191791,
+        "word": "惊奇队长2首支预告",
+        "onboard_time": 1681219347,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191135,
+        "num": 191135,
+        "word": "长月烬明婚服造型大赏",
+        "onboard_time": 1681222469,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189822,
+        "num": 189822,
+        "word": "王源演唱会广州站许可证",
+        "onboard_time": 1681223366,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187513,
+        "num": 187513,
+        "word": "Elk好猛",
+        "onboard_time": 1681221811,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162524,
+        "num": 162524,
+        "word": "活死人 团综招商中",
+        "onboard_time": 1681216346,
+        "rank": 46,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 152489,
+        "num": 152489,
+        "word": "陈都灵孙千撞衫",
+        "onboard_time": 1681223549,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150049,
+        "num": 150049,
+        "word": "隐形战队",
+        "onboard_time": 1681222350,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141800,
+        "num": 141800,
+        "word": "林昀儒晋级冠军赛8强",
+        "onboard_time": 1681221090,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记在广东考察调研#"
+    }
+  }
+}

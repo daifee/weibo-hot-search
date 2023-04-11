@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681222566192,
+  "endTime": 1681223605548,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -219,20 +219,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 988980,
+      "num": 988980,
+      "word": "卫健局回应男生高考体检被要求脱内裤",
+      "onboard_time": 1681214726,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 978693,
       "num": 978693,
       "word": "员工上班摸鱼被辞退",
       "onboard_time": 1681193306,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 966953,
-      "num": 966953,
-      "word": "卫健局回应男生高考体检被要求脱内裤",
-      "onboard_time": 1681214726,
-      "rank": 7,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 954301,
@@ -323,8 +323,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 785131,
-      "num": 785131,
+      "raw_hot": 808357,
+      "num": 808357,
       "word": "娜扎异域神女造型",
       "onboard_time": 1681220908,
       "rank": 8,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 591827,
-      "num": 380518,
+      "num": 398950,
       "word": "真的要开始存钱了",
       "onboard_time": 1681205068,
       "rank": 39,
@@ -579,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 538511,
+      "num": 538511,
+      "word": "淄博烧烤的热度能持续多久",
+      "onboard_time": 1681218746,
+      "rank": 33,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 537448,
       "num": 537448,
       "word": "张艺兴张婧仪演兄妹",
@@ -603,6 +611,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 511168,
+      "num": 425115,
+      "word": "高校图书馆非事业编岗位百人竞争",
+      "onboard_time": 1681219048,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 500696,
       "num": 500696,
       "word": "父母存得住钱的原因",
@@ -625,22 +641,6 @@
       "onboard_time": 1681140148,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 480728,
-      "num": 425115,
-      "word": "高校图书馆非事业编岗位百人竞争",
-      "onboard_time": 1681219048,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 474191,
-      "num": 474191,
-      "word": "淄博烧烤的热度能持续多久",
-      "onboard_time": 1681218746,
-      "rank": 33,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 471551,
@@ -691,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 448530,
+      "num": 448530,
+      "word": "章若楠齐刘海卷发",
+      "onboard_time": 1681219527,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 443589,
       "num": 443589,
       "word": "张本智和止步冠军赛16强",
@@ -729,14 +737,6 @@
       "onboard_time": 1681172254,
       "rank": 12,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 429909,
-      "num": 429909,
-      "word": "章若楠齐刘海卷发",
-      "onboard_time": 1681219527,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 427705,
@@ -929,6 +929,14 @@
       "onboard_time": 1681136130,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371372,
+      "num": 371372,
+      "word": "邓超晒跑男合照说weare伐木累",
+      "onboard_time": 1681222709,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 365639,
@@ -1211,6 +1219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289210,
+      "num": 289210,
+      "word": "当没车的人去超市购物",
+      "onboard_time": 1681219468,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281476,
       "num": 945322,
       "word": "网友跨城捐20万支持抗癌共享厨房",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1681201466,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273108,
+      "num": 273108,
+      "word": "游客举报淄博出租司机不打表多收5元",
+      "onboard_time": 1681222709,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272976,
@@ -1315,14 +1339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251157,
-      "num": 251157,
-      "word": "当没车的人去超市购物",
-      "onboard_time": 1681219468,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 249794,
       "num": 249794,
       "word": "五一当天三倍工资你愿意加班吗",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1681133129,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243057,
+      "num": 243057,
+      "word": "CBA",
+      "onboard_time": 1681221990,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 242599,
@@ -1553,14 +1577,6 @@
       "onboard_time": 1681179805,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215014,
-      "num": 215014,
-      "word": "CBA",
-      "onboard_time": 1681221990,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 213836,
@@ -1875,6 +1891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189822,
+      "num": 189822,
+      "word": "王源演唱会广州站许可证",
+      "onboard_time": 1681223366,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189189,
       "num": 189189,
       "word": "罗云熙白鹿新浪扫楼预告",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1681134809,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152489,
+      "num": 152489,
+      "word": "陈都灵孙千撞衫",
+      "onboard_time": 1681223549,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 151736,
