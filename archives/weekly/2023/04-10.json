@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681245237607,
+  "endTime": 1681247696811,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -5195,6 +5195,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 129738,
+      "num": 129738,
+      "word": "曼城vs拜仁",
+      "onboard_time": 1681235834,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129494,
       "num": 143730,
       "word": "王楚钦3比0黄镇廷",
@@ -5667,12 +5675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66409,
-      "num": 66409,
-      "word": "曼城vs拜仁",
-      "onboard_time": 1681235834,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 64667,
+      "num": 30169,
+      "word": "中方回应美方寻求重新安排布林肯访华",
+      "onboard_time": 1681243631,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 58277,
@@ -5731,11 +5739,11 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 43352,
-      "num": 27664,
-      "word": "中方回应美方寻求重新安排布林肯访华",
-      "onboard_time": 1681243631,
-      "rank": 24,
+      "raw_hot": 40593,
+      "num": 29613,
+      "word": "耿爽在安理会点名某军事大国",
+      "onboard_time": 1681245012,
+      "rank": 44,
       "category": "国内要闻"
     },
     {
@@ -5801,14 +5809,6 @@
       "onboard_time": 1681150813,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 13695,
-      "num": 13695,
-      "word": "耿爽在安理会点名某军事大国",
-      "onboard_time": 1681245012,
-      "rank": 44,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

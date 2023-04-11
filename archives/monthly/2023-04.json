@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681245237607,
+  "endTime": 1681247696811,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -23979,6 +23979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129738,
+      "num": 129738,
+      "word": "曼城vs拜仁",
+      "onboard_time": 1681235834,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129669,
       "num": 129669,
       "word": "恋爱中不该说的四句话",
@@ -26299,14 +26307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 66409,
-      "num": 66409,
-      "word": "曼城vs拜仁",
-      "onboard_time": 1681235834,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65799,
       "num": 1258864,
       "word": "桃花映日出迎接四月",
@@ -26329,6 +26329,14 @@
       "onboard_time": 1681024285,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 64667,
+      "num": 30169,
+      "word": "中方回应美方寻求重新安排布林肯访华",
+      "onboard_time": 1681243631,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 64206,
@@ -26595,20 +26603,20 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 43352,
-      "num": 27664,
-      "word": "中方回应美方寻求重新安排布林肯访华",
-      "onboard_time": 1681243631,
-      "rank": 24,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 42273,
       "num": 42273,
       "word": "大学生在打一种很新的卡",
       "onboard_time": 1680627741,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40593,
+      "num": 29613,
+      "word": "耿爽在安理会点名某军事大国",
+      "onboard_time": 1681245012,
+      "rank": 44,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 39982,
@@ -26849,14 +26857,6 @@
       "onboard_time": 1680636792,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13695,
-      "num": 13695,
-      "word": "耿爽在安理会点名某军事大国",
-      "onboard_time": 1681245012,
-      "rank": 44,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 12137,
