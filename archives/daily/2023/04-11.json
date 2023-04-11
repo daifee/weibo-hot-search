@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681187655527,
+  "endTime": 1681190151813,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2291740,
+      "raw_hot": 2507301,
       "num": 770877,
       "word": "王菊肚子",
       "onboard_time": 1681185928,
@@ -107,6 +107,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 909731,
+      "num": 909731,
+      "word": "群众生育观念已转向少生优育",
+      "onboard_time": 1681184548,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905962,
+      "num": 905962,
+      "word": "两男子将涉黄小卡片发到警车车窗",
+      "onboard_time": 1681188151,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 895725,
       "num": 895725,
       "word": "郑晓龙评赵丽颖转型",
@@ -120,14 +136,6 @@
       "word": "喝预开口的椰子 进急诊",
       "onboard_time": 1681172909,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 792560,
-      "num": 792560,
-      "word": "群众生育观念已转向少生优育",
-      "onboard_time": 1681184548,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -153,6 +161,14 @@
       "onboard_time": 1681178725,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 711713,
+      "num": 611384,
+      "word": "张杰谢娜因名誉权起诉中介",
+      "onboard_time": 1681190129,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 701905,
@@ -203,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588617,
+      "num": 588617,
+      "word": "冯小刚说公众人物只能骂不还口打不还手",
+      "onboard_time": 1681189470,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551169,
       "num": 314636,
       "word": "白鹿影视资源",
@@ -217,6 +241,14 @@
       "onboard_time": 1681171587,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 540415,
+      "num": 540415,
+      "word": "宝马女司机撞人拖行案开庭",
+      "onboard_time": 1681185748,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537448,
@@ -299,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 417507,
+      "num": 417507,
+      "word": "iPhone15Pro相机厚约2枚1元硬币",
+      "onboard_time": 1681186347,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 414050,
       "num": 414050,
       "word": "高加林终于知道顶替真相",
@@ -321,6 +361,14 @@
       "onboard_time": 1681140090,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397936,
+      "num": 397936,
+      "word": "父母存得住钱的原因",
+      "onboard_time": 1681188151,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 397673,
@@ -385,14 +433,6 @@
       "onboard_time": 1681182807,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 354486,
-      "num": 354486,
-      "word": "宝马女司机撞人拖行案开庭",
-      "onboard_time": 1681185748,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347907,
@@ -505,14 +545,6 @@
       "onboard_time": 1681172008,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 299303,
-      "num": 299303,
-      "word": "iPhone15Pro相机厚约2枚1元硬币",
-      "onboard_time": 1681186347,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 297057,
@@ -659,6 +691,14 @@
       "category": "综艺,动漫"
     },
     {
+      "raw_hot": 229299,
+      "num": 229299,
+      "word": "笑果北京开业",
+      "onboard_time": 1681188389,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228524,
       "num": 228524,
       "word": "罗云熙打戏",
@@ -691,6 +731,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 220636,
+      "num": 220636,
+      "word": "唐朝诡事录之西行全员布局",
+      "onboard_time": 1681189291,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217193,
       "num": 217193,
       "word": "谁家小狗吵架扮鬼脸啊",
@@ -713,6 +761,14 @@
       "onboard_time": 1681179805,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 211364,
+      "num": 211364,
+      "word": "成龙刘浩存郭麒麟芭莎大片",
+      "onboard_time": 1681189053,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208456,
@@ -779,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192617,
+      "num": 192617,
+      "word": "如梦之梦西安",
+      "onboard_time": 1681189650,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192136,
       "num": 192136,
       "word": "暖阳的猫也有点功夫",
@@ -827,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176331,
+      "num": 176331,
+      "word": "淄博烧烤",
+      "onboard_time": 1681188209,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 175578,
       "num": 175578,
       "word": "张元英安宥真再现摔倒名场面",
@@ -859,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165786,
+      "num": 165786,
+      "word": "女子下班回复工作消息获赔加班费",
+      "onboard_time": 1681189769,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165265,
       "num": 165265,
       "word": "被短片柜子惊艳到了",
@@ -873,6 +953,14 @@
       "onboard_time": 1681140390,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162065,
+      "num": 162065,
+      "word": "INTO1正装告别海报",
+      "onboard_time": 1681187970,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 161785,
@@ -963,6 +1051,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 147170,
+      "num": 147170,
+      "word": "莎拉和小妍珍或将合作新剧",
+      "onboard_time": 1681188689,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146782,
       "num": 146782,
       "word": "原来蒙娜丽莎也不想上班",
@@ -979,12 +1075,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145913,
+      "num": 145913,
+      "word": "谁把熊猫晾这了",
+      "onboard_time": 1681188990,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142528,
       "num": 142528,
       "word": "接受了永别却没忍住思念",
       "onboard_time": 1681141825,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127756,
+      "num": 127756,
+      "word": "淄博不止有烧烤",
+      "onboard_time": 1681189349,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 124034,

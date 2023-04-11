@@ -1,0 +1,410 @@
+{
+  "runTime": 1681190151813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1413134,
+        "num": 1413134,
+        "word": "法老 老乡鸡",
+        "onboard_time": 1681183107,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1025067,
+        "num": 1025067,
+        "word": "石楠花又腥又臭为何还大面积种",
+        "onboard_time": 1681174168,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34545,
+        "num": 930605,
+        "word": "2个关键词看消博会广交会",
+        "onboard_time": 1681185146,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 909731,
+        "num": 909731,
+        "word": "群众生育观念已转向少生优育",
+        "onboard_time": 1681184548,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905962,
+        "num": 905962,
+        "word": "两男子将涉黄小卡片发到警车车窗",
+        "onboard_time": 1681188151,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839567,
+        "num": 839567,
+        "word": "虞书欣让粉丝不要再push工作人员",
+        "onboard_time": 1681173027,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805546,
+        "num": 805546,
+        "word": "苏州大学回应网传复试确认仅3分钟",
+        "onboard_time": 1681184129,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 705798,
+        "num": 705798,
+        "word": "沙尘暴",
+        "onboard_time": 1681170744,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695624,
+        "num": 695624,
+        "word": "3年轻人20万开店日营业额仅79元",
+        "onboard_time": 1681177164,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 618707,
+        "num": 618707,
+        "word": "保利 如梦之梦",
+        "onboard_time": 1681184728,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2507301,
+        "num": 615514,
+        "word": "王菊肚子",
+        "onboard_time": 1681185928,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 731153,
+        "num": 611882,
+        "word": "易烊千玺疑似出演英雄联盟网剧",
+        "onboard_time": 1681181605,
+        "rank": 11,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 711713,
+        "num": 611384,
+        "word": "张杰谢娜因名誉权起诉中介",
+        "onboard_time": 1681190129,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 588617,
+        "num": 588617,
+        "word": "冯小刚说公众人物只能骂不还口打不还手",
+        "onboard_time": 1681189470,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540415,
+        "num": 540415,
+        "word": "宝马女司机撞人拖行案开庭",
+        "onboard_time": 1681185748,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417507,
+        "num": 417507,
+        "word": "iPhone15Pro相机厚约2枚1元硬币",
+        "onboard_time": 1681186347,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 397936,
+        "num": 397936,
+        "word": "父母存得住钱的原因",
+        "onboard_time": 1681188151,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373409,
+        "num": 373409,
+        "word": "长月烬明十二神归位",
+        "onboard_time": 1681182867,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341534,
+        "num": 341534,
+        "word": "张艺兴张婧仪演兄妹",
+        "onboard_time": 1681184367,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333954,
+        "num": 333954,
+        "word": "哪些人不能喝椰子水",
+        "onboard_time": 1681178725,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 426615,
+        "num": 330254,
+        "word": "湖北一女局长被曝用公款配置休息室",
+        "onboard_time": 1681182686,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320957,
+        "num": 320957,
+        "word": "罗云熙双眼皮好多层",
+        "onboard_time": 1681182867,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303778,
+        "num": 303778,
+        "word": "去年中国人看网文花了300多亿",
+        "onboard_time": 1681186170,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 273085,
+        "num": 273085,
+        "word": "卫健委回应出台政策鼓励早婚早育提案",
+        "onboard_time": 1681182385,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239277,
+        "num": 239277,
+        "word": "郑晓龙评赵丽颖转型",
+        "onboard_time": 1681169721,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238162,
+        "num": 238162,
+        "word": "叶夕雾是黎苏苏的一缕恶魂",
+        "onboard_time": 1681179143,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 229299,
+        "num": 229299,
+        "word": "笑果北京开业",
+        "onboard_time": 1681188389,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220636,
+        "num": 220636,
+        "word": "唐朝诡事录之西行全员布局",
+        "onboard_time": 1681189291,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218335,
+        "num": 218335,
+        "word": "李佳航泡温泉弄伤一根肋骨",
+        "onboard_time": 1681169962,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211364,
+        "num": 211364,
+        "word": "成龙刘浩存郭麒麟芭莎大片",
+        "onboard_time": 1681189053,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202075,
+        "num": 202075,
+        "word": "喝预开口的椰子 进急诊",
+        "onboard_time": 1681172909,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200531,
+        "num": 200531,
+        "word": "比特币",
+        "onboard_time": 1681182686,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192617,
+        "num": 192617,
+        "word": "如梦之梦西安",
+        "onboard_time": 1681189650,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186763,
+        "num": 186763,
+        "word": "那英狂飙后再唱OST",
+        "onboard_time": 1681186050,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176331,
+        "num": 176331,
+        "word": "淄博烧烤",
+        "onboard_time": 1681188209,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175281,
+        "num": 175281,
+        "word": "金晨说今天这风差点把狗吹走",
+        "onboard_time": 1681183225,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167019,
+        "num": 167019,
+        "word": "极端天气公司该不该通知居家办公",
+        "onboard_time": 1681186831,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 165786,
+        "num": 165786,
+        "word": "女子下班回复工作消息获赔加班费",
+        "onboard_time": 1681189769,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165592,
+        "num": 165592,
+        "word": "迪丽热巴到达贵阳",
+        "onboard_time": 1681182807,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164778,
+        "num": 164778,
+        "word": "阿里所有产品将接入通义千问",
+        "onboard_time": 1681182026,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163190,
+        "num": 163190,
+        "word": "山东成五一国内游顶流",
+        "onboard_time": 1681177645,
+        "rank": 40,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 162065,
+        "num": 162065,
+        "word": "INTO1正装告别海报",
+        "onboard_time": 1681187970,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159383,
+        "num": 159383,
+        "word": "张元英安宥真再现摔倒名场面",
+        "onboard_time": 1681184246,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147170,
+        "num": 147170,
+        "word": "莎拉和小妍珍或将合作新剧",
+        "onboard_time": 1681188689,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146697,
+        "num": 146697,
+        "word": "大侦探8明日之战高清剧照",
+        "onboard_time": 1681184008,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145913,
+        "num": 145913,
+        "word": "谁把熊猫晾这了",
+        "onboard_time": 1681188990,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142332,
+        "num": 142332,
+        "word": "iPhone15屏幕将使用M12材料",
+        "onboard_time": 1681179565,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 140506,
+        "num": 140506,
+        "word": "当粉丝不让你质疑演技的时候",
+        "onboard_time": 1681183587,
+        "rank": 47,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 138063,
+        "num": 138063,
+        "word": "SEVENTEEN新专史上强度最高编舞",
+        "onboard_time": 1681181364,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127756,
+        "num": 127756,
+        "word": "淄博不止有烧烤",
+        "onboard_time": 1681189349,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#激活中国消费强引擎#"
+    }
+  }
+}

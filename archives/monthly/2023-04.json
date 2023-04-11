@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681187655527,
+  "endTime": 1681190151813,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -523,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2507301,
+      "num": 770877,
+      "word": "王菊肚子",
+      "onboard_time": 1681185928,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2507087,
       "num": 2507087,
       "word": "中山大学",
@@ -649,14 +657,6 @@
       "onboard_time": 1680422129,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2291740,
-      "num": 770877,
-      "word": "王菊肚子",
-      "onboard_time": 1681185928,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2287464,
@@ -2747,11 +2747,27 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 909731,
+      "num": 909731,
+      "word": "群众生育观念已转向少生优育",
+      "onboard_time": 1681184548,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908854,
       "num": 908854,
       "word": "单休相当于一年多上2个月班",
       "onboard_time": 1680848548,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 905962,
+      "num": 905962,
+      "word": "两男子将涉黄小卡片发到警车车窗",
+      "onboard_time": 1681188151,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3491,14 +3507,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 792560,
-      "num": 792560,
-      "word": "群众生育观念已转向少生优育",
-      "onboard_time": 1681184548,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 786782,
       "num": 786782,
       "word": "南京大学新校长到底是哪里人",
@@ -3961,6 +3969,14 @@
       "onboard_time": 1680656247,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 711713,
+      "num": 611384,
+      "word": "张杰谢娜因名誉权起诉中介",
+      "onboard_time": 1681190129,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 709612,
@@ -5091,6 +5107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 588617,
+      "num": 588617,
+      "word": "冯小刚说公众人物只能骂不还口打不还手",
+      "onboard_time": 1681189470,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588146,
       "num": 229114,
       "word": "Angelababy晒偶遇的猫头鹰",
@@ -5681,6 +5705,14 @@
       "onboard_time": 1680871770,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 540415,
+      "num": 540415,
+      "word": "宝马女司机撞人拖行案开庭",
+      "onboard_time": 1681185748,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540332,
@@ -7603,6 +7635,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 417507,
+      "num": 417507,
+      "word": "iPhone15Pro相机厚约2枚1元硬币",
+      "onboard_time": 1681186347,
+      "rank": 38,
+      "category": "科技"
+    },
+    {
       "raw_hot": 416697,
       "num": 382805,
       "word": "力灿承认曾性骚扰",
@@ -8001,6 +8041,14 @@
       "onboard_time": 1680946105,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397936,
+      "num": 397936,
+      "word": "父母存得住钱的原因",
+      "onboard_time": 1681188151,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 397875,
@@ -8841,14 +8889,6 @@
       "onboard_time": 1681092602,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 354486,
-      "num": 354486,
-      "word": "宝马女司机撞人拖行案开庭",
-      "onboard_time": 1681185748,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354334,
@@ -10377,14 +10417,6 @@
       "onboard_time": 1680479848,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299303,
-      "num": 299303,
-      "word": "iPhone15Pro相机厚约2枚1元硬币",
-      "onboard_time": 1681186347,
-      "rank": 38,
-      "category": "科技"
     },
     {
       "raw_hot": 298921,
@@ -13179,6 +13211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229299,
+      "num": 229299,
+      "word": "笑果北京开业",
+      "onboard_time": 1681188389,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229259,
       "num": 229259,
       "word": "金智秀FlowerMV播放量破亿",
@@ -13625,6 +13665,14 @@
       "onboard_time": 1680361170,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220636,
+      "num": 220636,
+      "word": "唐朝诡事录之西行全员布局",
+      "onboard_time": 1681189291,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 220553,
@@ -14297,6 +14345,14 @@
       "onboard_time": 1680737363,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211364,
+      "num": 211364,
+      "word": "成龙刘浩存郭麒麟芭莎大片",
+      "onboard_time": 1681189053,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 211339,
@@ -17235,6 +17291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192617,
+      "num": 192617,
+      "word": "如梦之梦西安",
+      "onboard_time": 1681189650,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192517,
       "num": 192517,
       "word": "周雨彤模仿吴磊小时候",
@@ -19811,6 +19875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165786,
+      "num": 165786,
+      "word": "女子下班回复工作消息获赔加班费",
+      "onboard_time": 1681189769,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165734,
       "num": 165734,
       "word": "人类幼崽对话珍稀动物",
@@ -20089,6 +20161,14 @@
       "onboard_time": 1680781828,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162065,
+      "num": 162065,
+      "word": "INTO1正装告别海报",
+      "onboard_time": 1681187970,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 161895,
@@ -21227,6 +21307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147170,
+      "num": 147170,
+      "word": "莎拉和小妍珍或将合作新剧",
+      "onboard_time": 1681188689,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147026,
       "num": 147026,
       "word": "五月天energy放手",
@@ -21329,6 +21417,14 @@
       "onboard_time": 1680277885,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145913,
+      "num": 145913,
+      "word": "谁把熊猫晾这了",
+      "onboard_time": 1681188990,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 145842,
@@ -22601,6 +22697,14 @@
       "onboard_time": 1680598951,
       "rank": 47,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 127756,
+      "num": 127756,
+      "word": "淄博不止有烧烤",
+      "onboard_time": 1681189349,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 127748,
