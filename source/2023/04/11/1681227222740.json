@@ -1,0 +1,410 @@
+{
+  "runTime": 1681227222740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443247,
+        "num": 1443247,
+        "word": "初代跑男重聚",
+        "onboard_time": 1681208666,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1173401,
+        "num": 1173401,
+        "word": "王一博从ye到yue",
+        "onboard_time": 1681217067,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41062,
+        "num": 1120835,
+        "word": "消博会开馆首日有哪些亮点",
+        "onboard_time": 1681216706,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116079,
+        "num": 1116079,
+        "word": "SEVENTEEN新歌预告照",
+        "onboard_time": 1681226009,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1076495,
+        "num": 1076495,
+        "word": "游客举报淄博出租司机不打表多收5元",
+        "onboard_time": 1681222709,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1050201,
+        "num": 1050201,
+        "word": "卫健局回应男生高考体检被要求脱内裤",
+        "onboard_time": 1681214726,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 985916,
+        "num": 985916,
+        "word": "专家称年轻人不生小孩是不对的",
+        "onboard_time": 1681225710,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828320,
+        "num": 828320,
+        "word": "陈都灵孙千撞衫",
+        "onboard_time": 1681223549,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 602083,
+        "num": 602083,
+        "word": "劣质衣服居然有致癌风险",
+        "onboard_time": 1681223308,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 582646,
+        "num": 582646,
+        "word": "杨幂新剧",
+        "onboard_time": 1681225647,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 580693,
+        "num": 580693,
+        "word": "鹿晗直播",
+        "onboard_time": 1681220849,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508463,
+        "num": 508463,
+        "word": "邓超晒跑男合照说weare伐木累",
+        "onboard_time": 1681222709,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483216,
+        "num": 483216,
+        "word": "娜扎异域神女造型",
+        "onboard_time": 1681220908,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 477558,
+        "num": 477558,
+        "word": "台媒报道吴磊周雨彤吻戏",
+        "onboard_time": 1681225591,
+        "rank": 13,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 388280,
+        "num": 388280,
+        "word": "口腔诊所借杨颖正畸案例宣传被罚",
+        "onboard_time": 1681215505,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 437154,
+        "num": 383725,
+        "word": "长月烬明",
+        "onboard_time": 1681219527,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376585,
+        "num": 376585,
+        "word": "刘亚仁体内检出第5种毒品",
+        "onboard_time": 1681202605,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 325550,
+        "num": 325550,
+        "word": "BLG晋级MSI",
+        "onboard_time": 1681220849,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273413,
+        "num": 273413,
+        "word": "马龙1比3林昀儒",
+        "onboard_time": 1681220249,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269956,
+        "num": 269956,
+        "word": "男子入职6分钟身亡被认定工亡",
+        "onboard_time": 1681197685,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450188,
+        "num": 268659,
+        "word": "买了个五斤的芒果",
+        "onboard_time": 1681225110,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 397283,
+        "num": 264913,
+        "word": "关晓彤曾说谁会闲的花七万买包",
+        "onboard_time": 1681226432,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388339,
+        "num": 263796,
+        "word": "刘雯再登美国版VOGUE封面",
+        "onboard_time": 1681224450,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328038,
+        "num": 260078,
+        "word": "高校图书馆非事业编岗位百人竞争",
+        "onboard_time": 1681219048,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 258299,
+        "num": 258299,
+        "word": "真的要开始存钱了",
+        "onboard_time": 1681205068,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376454,
+        "num": 257867,
+        "word": "韩国男爱豆小卡的手指甲",
+        "onboard_time": 1681224150,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335548,
+        "num": 256415,
+        "word": "王源演唱会广州站许可证",
+        "onboard_time": 1681223366,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313420,
+        "num": 254612,
+        "word": "网友在泰国偶遇杨紫",
+        "onboard_time": 1681226851,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294539,
+        "num": 251687,
+        "word": "追星要有边界感",
+        "onboard_time": 1681226368,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121159,
+        "num": 250897,
+        "word": "你会付费看网文吗",
+        "onboard_time": 1681212566,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278582,
+        "num": 248837,
+        "word": "玄彬东京活动生图",
+        "onboard_time": 1681223609,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 267604,
+        "num": 246960,
+        "word": "长月烬明十二神全部陨落",
+        "onboard_time": 1681209448,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246450,
+        "num": 246450,
+        "word": "男子让女店员帮试文胸遭怒怼",
+        "onboard_time": 1681217729,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228918,
+        "num": 228918,
+        "word": "丫丫乐乐回国细节披露",
+        "onboard_time": 1681210947,
+        "rank": 33,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 220557,
+        "num": 220557,
+        "word": "EDG",
+        "onboard_time": 1681221390,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265330,
+        "num": 214298,
+        "word": "aespa妆造",
+        "onboard_time": 1681218508,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264185,
+        "num": 212069,
+        "word": "内娱最强男腰精",
+        "onboard_time": 1681226491,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239668,
+        "num": 207315,
+        "word": "章若楠齐刘海卷发",
+        "onboard_time": 1681219527,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196549,
+        "num": 196549,
+        "word": "欧冠",
+        "onboard_time": 1681224570,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167729,
+        "num": 167729,
+        "word": "leave",
+        "onboard_time": 1681221027,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232394,
+        "num": 167080,
+        "word": "魔神是澹台烬",
+        "onboard_time": 1681213284,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220048,
+        "num": 166518,
+        "word": "郑彩率去世",
+        "onboard_time": 1681205488,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202404,
+        "num": 165942,
+        "word": "刘宇宁直播",
+        "onboard_time": 1681226190,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165338,
+        "num": 165338,
+        "word": "不要把工作当成天大的事",
+        "onboard_time": 1681212629,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 173615,
+        "num": 164284,
+        "word": "冯小刚我人就在北京",
+        "onboard_time": 1681209748,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161630,
+        "num": 161630,
+        "word": "该如何反击造自己黄谣的人",
+        "onboard_time": 1681226548,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160729,
+        "num": 160729,
+        "word": "Ale石头人五杀",
+        "onboard_time": 1681220551,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156571,
+        "num": 156571,
+        "word": "淄博烧烤的热度能持续多久",
+        "onboard_time": 1681218746,
+        "rank": 47,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 150631,
+        "num": 150631,
+        "word": "仅1成多人拒绝下班秒回工作",
+        "onboard_time": 1681202547,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134858,
+        "num": 150040,
+        "word": "当没车的人去超市购物",
+        "onboard_time": 1681219468,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广东考察调研#"
+    }
+  }
+}

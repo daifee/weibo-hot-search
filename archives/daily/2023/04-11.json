@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681226303882,
+  "endTime": 1681227222740,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1116079,
+      "num": 1116079,
+      "word": "SEVENTEEN新歌预告照",
+      "onboard_time": 1681226009,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1097633,
       "num": 1097633,
       "word": "冯小刚我人就在北京",
@@ -203,8 +211,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1070488,
-      "num": 1070488,
+      "raw_hot": 1076495,
+      "num": 1076495,
       "word": "游客举报淄博出租司机不打表多收5元",
       "onboard_time": 1681222709,
       "rank": 31,
@@ -227,20 +235,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1002187,
-      "num": 1002187,
-      "word": "SEVENTEEN新歌预告照",
-      "onboard_time": 1681226009,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 988980,
-      "num": 988980,
+      "raw_hot": 1050201,
+      "num": 1050201,
       "word": "卫健局回应男生高考体检被要求脱内裤",
       "onboard_time": 1681214726,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 985916,
+      "num": 985916,
+      "word": "专家称年轻人不生小孩是不对的",
+      "onboard_time": 1681225710,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 978693,
@@ -315,6 +323,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 828320,
+      "num": 828320,
+      "word": "陈都灵孙千撞衫",
+      "onboard_time": 1681223549,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 826057,
       "num": 826057,
       "word": "马龙1比3林昀儒",
@@ -344,14 +360,6 @@
       "word": "娜扎异域神女造型",
       "onboard_time": 1681220908,
       "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 784319,
-      "num": 784319,
-      "word": "陈都灵孙千撞衫",
-      "onboard_time": 1681223549,
-      "rank": 47,
       "category": "作品衍生,时尚"
     },
     {
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 632613,
-      "num": 429234,
+      "num": 508463,
       "word": "邓超晒跑男合照说weare伐木累",
       "onboard_time": 1681222709,
       "rank": 24,
@@ -547,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 602083,
+      "num": 602083,
+      "word": "劣质衣服居然有致癌风险",
+      "onboard_time": 1681223308,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 600112,
       "num": 600112,
       "word": "长月烬明十二神归位",
@@ -561,6 +577,14 @@
       "onboard_time": 1681205068,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 582646,
+      "num": 582646,
+      "word": "杨幂新剧",
+      "onboard_time": 1681225647,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 581203,
@@ -683,6 +707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 477558,
+      "num": 477558,
+      "word": "台媒报道吴磊周雨彤吻戏",
+      "onboard_time": 1681225591,
+      "rank": 26,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 471551,
       "num": 471551,
       "word": "山东成五一国内游顶流",
@@ -723,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 450188,
+      "num": 310130,
+      "word": "买了个五斤的芒果",
+      "onboard_time": 1681225110,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 448604,
       "num": 448604,
       "word": "一位日本女读者写的跨国信",
@@ -745,14 +785,6 @@
       "onboard_time": 1681216587,
       "rank": 18,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 434816,
-      "num": 434816,
-      "word": "劣质衣服居然有致癌风险",
-      "onboard_time": 1681223308,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 433690,
@@ -835,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 413252,
-      "num": 370984,
-      "word": "杨幂新剧",
-      "onboard_time": 1681225647,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 412212,
       "num": 412212,
       "word": "陈晓新剧再穿女装",
@@ -915,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 397283,
+      "num": 264913,
+      "word": "关晓彤曾说谁会闲的花七万买包",
+      "onboard_time": 1681226432,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396550,
       "num": 393498,
       "word": "小S二女儿侧拍照",
@@ -979,6 +1011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 376454,
+      "num": 311503,
+      "word": "韩国男爱豆小卡的手指甲",
+      "onboard_time": 1681224150,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373028,
       "num": 373028,
       "word": "天欢好疯",
@@ -995,28 +1035,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 368595,
-      "num": 311503,
-      "word": "韩国男爱豆小卡的手指甲",
-      "onboard_time": 1681224150,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 365639,
       "num": 365639,
       "word": "比特币",
       "onboard_time": 1681182686,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 364606,
-      "num": 310130,
-      "word": "买了个五斤的芒果",
-      "onboard_time": 1681225110,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 357034,
@@ -1187,19 +1211,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313685,
-      "num": 313685,
-      "word": "专家称年轻人不生小孩是不对的",
-      "onboard_time": 1681225710,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313519,
       "num": 313519,
       "word": "许杨玉琢和法老是同一个家政阿姨",
       "onboard_time": 1681204166,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 313420,
+      "num": 254612,
+      "word": "网友在泰国偶遇杨紫",
+      "onboard_time": 1681226851,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1233,14 +1257,6 @@
       "onboard_time": 1681198226,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307173,
-      "num": 307173,
-      "word": "台媒报道吴磊周雨彤吻戏",
-      "onboard_time": 1681225591,
-      "rank": 26,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 306291,
@@ -1305,6 +1321,14 @@
       "onboard_time": 1681178965,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294539,
+      "num": 251687,
+      "word": "追星要有边界感",
+      "onboard_time": 1681226368,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 289599,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1681202425,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 264185,
+      "num": 212069,
+      "word": "内娱最强男腰精",
+      "onboard_time": 1681226491,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262564,
@@ -1819,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202404,
+      "num": 192318,
+      "word": "刘宇宁直播",
+      "onboard_time": 1681226190,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202131,
       "num": 202131,
       "word": "马嘉祺的图片排版",
@@ -1961,14 +2001,6 @@
       "onboard_time": 1681189650,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 192318,
-      "num": 192318,
-      "word": "刘宇宁直播",
-      "onboard_time": 1681226190,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 192136,
@@ -2233,6 +2265,14 @@
       "onboard_time": 1681136730,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161630,
+      "num": 161630,
+      "word": "该如何反击造自己黄谣的人",
+      "onboard_time": 1681226548,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 161467,
