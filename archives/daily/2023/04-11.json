@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681220008043,
+  "endTime": 1681222566192,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1924998,
+      "num": 1924998,
+      "word": "王一博从ye到yue",
+      "onboard_time": 1681217067,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1912705,
       "num": 1912705,
       "word": "法老 老乡鸡",
@@ -123,20 +131,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1584042,
-      "num": 1584042,
-      "word": "王一博从ye到yue",
-      "onboard_time": 1681217067,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1567668,
       "num": 1050060,
       "word": "两男子将涉黄小卡片发到警车车窗",
       "onboard_time": 1681188151,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1343366,
+      "num": 1343366,
+      "word": "BLG晋级MSI",
+      "onboard_time": 1681220849,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1306396,
@@ -153,6 +161,14 @@
       "onboard_time": 1681177164,
       "rank": 32,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1185802,
+      "num": 1185802,
+      "word": "鹿晗直播",
+      "onboard_time": 1681220849,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1144862,
@@ -211,12 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 952279,
-      "num": 952279,
+      "raw_hot": 966953,
+      "num": 966953,
       "word": "卫健局回应男生高考体检被要求脱内裤",
       "onboard_time": 1681214726,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 954301,
+      "num": 954301,
+      "word": "EDG",
+      "onboard_time": 1681221390,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 936247,
@@ -275,6 +299,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 826057,
+      "num": 826057,
+      "word": "马龙1比3林昀儒",
+      "onboard_time": 1681220249,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 822857,
       "num": 822857,
       "word": "迪奥",
@@ -289,6 +321,14 @@
       "onboard_time": 1681172909,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785131,
+      "num": 785131,
+      "word": "娜扎异域神女造型",
+      "onboard_time": 1681220908,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 770031,
@@ -379,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 658870,
+      "num": 658870,
+      "word": "长月烬明",
+      "onboard_time": 1681219527,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 652681,
       "num": 652681,
       "word": "口腔诊所借杨颖正畸案例宣传被罚",
@@ -427,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 619376,
+      "num": 619376,
+      "word": "领馆提醒中国留学生勿代收不明快递",
+      "onboard_time": 1681217488,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 616849,
       "num": 616849,
       "word": "直井怜暂停活动",
@@ -451,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 603998,
+      "num": 603998,
+      "word": "aespa妆造",
+      "onboard_time": 1681218508,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 600112,
       "num": 600112,
       "word": "长月烬明十二神归位",
@@ -460,19 +524,11 @@
     },
     {
       "raw_hot": 591827,
-      "num": 344605,
+      "num": 380518,
       "word": "真的要开始存钱了",
       "onboard_time": 1681205068,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 591765,
-      "num": 591765,
-      "word": "aespa妆造",
-      "onboard_time": 1681218508,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 581203,
@@ -489,6 +545,14 @@
       "onboard_time": 1681216706,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 571985,
+      "num": 571985,
+      "word": "Ale石头人五杀",
+      "onboard_time": 1681220551,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 551169,
@@ -539,14 +603,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 510708,
-      "num": 510708,
-      "word": "领馆提醒中国留学生勿代收不明快递",
-      "onboard_time": 1681217488,
-      "rank": 14,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 500696,
       "num": 500696,
       "word": "父母存得住钱的原因",
@@ -569,6 +625,22 @@
       "onboard_time": 1681140148,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 480728,
+      "num": 425115,
+      "word": "高校图书馆非事业编岗位百人竞争",
+      "onboard_time": 1681219048,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 474191,
+      "num": 474191,
+      "word": "淄博烧烤的热度能持续多久",
+      "onboard_time": 1681218746,
+      "rank": 33,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 471551,
@@ -659,6 +731,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 429909,
+      "num": 429909,
+      "word": "章若楠齐刘海卷发",
+      "onboard_time": 1681219527,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 427705,
       "num": 272936,
       "word": "罗云熙陈都灵错位图",
@@ -707,6 +787,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412212,
+      "num": 412212,
+      "word": "陈晓新剧再穿女装",
+      "onboard_time": 1681220729,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 412204,
+      "num": 412204,
+      "word": "男子让女店员帮试文胸遭怒怼",
+      "onboard_time": 1681217729,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405287,
       "num": 405287,
       "word": "叶夕雾是黎苏苏的一缕恶魂",
@@ -747,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398652,
-      "num": 398652,
-      "word": "长月烬明",
-      "onboard_time": 1681219527,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 397673,
       "num": 251268,
       "word": "当香港人在东北买水果时",
@@ -793,6 +881,14 @@
       "onboard_time": 1681176686,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390743,
+      "num": 390743,
+      "word": "leave",
+      "onboard_time": 1681221027,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 382244,
@@ -915,14 +1011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342106,
-      "num": 342106,
-      "word": "男子让女店员帮试文胸遭怒怼",
-      "onboard_time": 1681217729,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 340213,
       "num": 340213,
       "word": "假装上班能缓解待业焦虑吗",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1681204166,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312354,
+      "num": 312354,
+      "word": "顾曼丽被抓",
+      "onboard_time": 1681220551,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 309325,
@@ -1131,14 +1227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 277090,
-      "num": 277090,
-      "word": "淄博烧烤的热度能持续多久",
-      "onboard_time": 1681218746,
-      "rank": 33,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 274671,
       "num": 274671,
       "word": "BLG对战EDG",
@@ -1177,14 +1265,6 @@
       "onboard_time": 1681181364,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 267838,
-      "num": 223245,
-      "word": "高校图书馆非事业编岗位百人竞争",
-      "onboard_time": 1681219048,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 267826,
@@ -1233,6 +1313,14 @@
       "onboard_time": 1681186651,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251157,
+      "num": 251157,
+      "word": "当没车的人去超市购物",
+      "onboard_time": 1681219468,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 249794,
@@ -1395,8 +1483,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220571,
+      "num": 220571,
+      "word": "尘封十三载",
+      "onboard_time": 1681221811,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219769,
-      "num": 226417,
+      "num": 295216,
       "word": "你会付费看网文吗",
       "onboard_time": 1681212566,
       "rank": 46,
@@ -1459,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215014,
+      "num": 215014,
+      "word": "CBA",
+      "onboard_time": 1681221990,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213836,
       "num": 213836,
       "word": "郑州抗癌共享厨房面临关门困境",
@@ -1467,12 +1571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211404,
-      "num": 211404,
-      "word": "章若楠齐刘海卷发",
-      "onboard_time": 1681219527,
-      "rank": 32,
-      "category": "作品衍生,时尚"
+      "raw_hot": 212191,
+      "num": 212191,
+      "word": "Elk好猛",
+      "onboard_time": 1681221811,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 211364,
@@ -1619,6 +1723,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 200562,
+      "num": 200562,
+      "word": "长月烬明婚服造型大赏",
+      "onboard_time": 1681222469,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199269,
       "num": 199269,
       "word": "爱很美味",
@@ -1632,6 +1744,14 @@
       "word": "罗云熙冥夜出场好帅",
       "onboard_time": 1681205427,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197390,
+      "num": 168312,
+      "word": "罗云熙十二神合照",
+      "onboard_time": 1681220849,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -1851,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178055,
+      "num": 178055,
+      "word": "MSI",
+      "onboard_time": 1681221329,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176331,
       "num": 176331,
       "word": "淄博烧烤",
@@ -1881,6 +2009,14 @@
       "onboard_time": 1681176686,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172982,
+      "num": 172982,
+      "word": "林昀儒晋级冠军赛8强",
+      "onboard_time": 1681221090,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 172626,
@@ -2019,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155021,
+      "num": 155021,
+      "word": "隐形战队",
+      "onboard_time": 1681222350,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154660,
       "num": 154660,
       "word": "小伙开车116公里去日照看日照金山",
@@ -2081,14 +2225,6 @@
       "onboard_time": 1681178725,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149263,
-      "num": 149263,
-      "word": "当没车的人去超市购物",
-      "onboard_time": 1681219468,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 149056,
@@ -2555,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39755,
+      "num": 1563563,
+      "word": "消博会开馆首日有哪些亮点",
+      "onboard_time": 1681216706,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37711,
       "num": 1204209,
       "word": "2个关键词看消博会广交会",
@@ -2577,14 +2721,6 @@
       "onboard_time": 1681118248,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31368,
-      "num": 1160195,
-      "word": "消博会开馆首日有哪些亮点",
-      "onboard_time": 1681216706,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27946,
@@ -2640,6 +2776,9 @@
     },
     {
       "word": "#习近平在广东考察调研#"
+    },
+    {
+      "word": "#习近平总书记在广东省考察调研#"
     }
   ]
 }
