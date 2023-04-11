@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681234426020,
+  "endTime": 1681237209958,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -5667,6 +5667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62537,
+      "num": 62537,
+      "word": "曼城vs拜仁",
+      "onboard_time": 1681235834,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58277,
       "num": 58277,
       "word": "极限挑战",
@@ -5683,20 +5691,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50680,
+      "num": 48724,
+      "word": "怎么判断自己是骨架大还是胖",
+      "onboard_time": 1681229785,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 48751,
       "num": 48751,
       "word": "折一条裤子可以有多快",
       "onboard_time": 1681142305,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 48724,
-      "num": 48724,
-      "word": "怎么判断自己是骨架大还是胖",
-      "onboard_time": 1681229785,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 46159,
