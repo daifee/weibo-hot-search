@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681204650834,
+  "endTime": 1681205630389,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2752458,
+      "num": 2752458,
+      "word": "刘亚仁体内检出第5种毒品",
+      "onboard_time": 1681202605,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2659473,
       "num": 2621174,
       "word": "男子入职6分钟身亡被认定工亡",
       "onboard_time": 1681197685,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2605832,
-      "num": 2605832,
-      "word": "刘亚仁体内检出第5种毒品",
-      "onboard_time": 1681202605,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2507301,
@@ -243,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1441114,
+      "num": 1441114,
+      "word": "仅1成多人拒绝下班秒回工作",
+      "onboard_time": 1681202547,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1306396,
       "num": 1306396,
       "word": "王菊 我的肚子很可爱",
@@ -369,14 +377,6 @@
       "onboard_time": 1681194086,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1043404,
-      "num": 1043404,
-      "word": "仅1成多人拒绝下班秒回工作",
-      "onboard_time": 1681202547,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 991924,
@@ -587,6 +587,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 796871,
+      "num": 796871,
+      "word": "南京沙尘暴",
+      "onboard_time": 1681203447,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779929,
       "num": 779929,
       "word": "马龙",
@@ -689,6 +697,14 @@
       "onboard_time": 1681179565,
       "rank": 17,
       "category": "科技"
+    },
+    {
+      "raw_hot": 694705,
+      "num": 694705,
+      "word": "张兰",
+      "onboard_time": 1681204349,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 689285,
@@ -1091,6 +1107,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 519990,
+      "num": 301791,
+      "word": "赵露思给手表打码",
+      "onboard_time": 1681204648,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519629,
       "num": 377050,
       "word": "肖战白色开衫造型",
@@ -1291,14 +1315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 451175,
-      "num": 451175,
-      "word": "南京沙尘暴",
-      "onboard_time": 1681203447,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 448604,
       "num": 448604,
       "word": "一位日本女读者写的跨国信",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1681113210,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 433277,
+      "num": 400636,
+      "word": "仙侠剧从未文学",
+      "onboard_time": 1681204166,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 431142,
@@ -1411,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413293,
+      "num": 400415,
+      "word": "姜涛曾获全球百大帅哥第五名",
+      "onboard_time": 1681204349,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412831,
       "num": 412831,
       "word": "哈尔滨沙尘暴",
@@ -1507,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400373,
+      "num": 400373,
+      "word": "张凌赫个人工作室成立",
+      "onboard_time": 1681203026,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399962,
       "num": 399962,
       "word": "白桃星座",
@@ -1577,14 +1617,6 @@
       "onboard_time": 1681099111,
       "rank": 23,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 385164,
-      "num": 385164,
-      "word": "张凌赫个人工作室成立",
-      "onboard_time": 1681203026,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 382244,
@@ -1771,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332035,
+      "num": 332035,
+      "word": "小米13Ultra订单增加50%",
+      "onboard_time": 1681204108,
+      "rank": 27,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 331519,
       "num": 331519,
       "word": "王俊凯直播",
@@ -1923,6 +1963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313519,
+      "num": 313519,
+      "word": "许杨玉琢和法老是同一个家政阿姨",
+      "onboard_time": 1681204166,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312886,
       "num": 312886,
       "word": "熊猫也有平替",
@@ -1953,14 +2001,6 @@
       "onboard_time": 1681198226,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303406,
-      "num": 303406,
-      "word": "许杨玉琢和法老是同一个家政阿姨",
-      "onboard_time": 1681204166,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 303361,
@@ -2315,14 +2355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 242636,
-      "num": 242636,
-      "word": "张兰",
-      "onboard_time": 1681204349,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242599,
       "num": 184152,
       "word": "白鹿更喜欢冥夜",
@@ -2417,14 +2449,6 @@
       "onboard_time": 1681093945,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 235458,
-      "num": 179698,
-      "word": "仙侠剧从未文学",
-      "onboard_time": 1681204166,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 235383,
@@ -2771,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215190,
+      "num": 215190,
+      "word": "BLG对战EDG",
+      "onboard_time": 1681201466,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215089,
       "num": 215089,
       "word": "长月烬明登陆韩国大屏",
@@ -2851,14 +2883,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 209139,
-      "num": 209139,
-      "word": "BLG对战EDG",
-      "onboard_time": 1681201466,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 208913,
       "num": 208913,
       "word": "如何用国产AI玩成语接龙",
@@ -2881,6 +2905,14 @@
       "onboard_time": 1681055129,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208495,
+      "num": 200125,
+      "word": "入职第一天是不是都很尴尬",
+      "onboard_time": 1681205248,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 208038,
@@ -3083,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199938,
+      "num": 199938,
+      "word": "郑彩率去世",
+      "onboard_time": 1681205488,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199797,
       "num": 201518,
       "word": "北京柳絮",
@@ -3160,6 +3200,14 @@
       "word": "白鹿桑酒嘴叼苹果",
       "onboard_time": 1681110447,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197887,
+      "num": 197887,
+      "word": "罗云熙冥夜出场好帅",
+      "onboard_time": 1681205427,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -3299,28 +3347,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 194295,
-      "num": 194295,
-      "word": "小米13Ultra订单增加50%",
-      "onboard_time": 1681204108,
-      "rank": 27,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 193905,
       "num": 193905,
       "word": "罗云熙白鹿新剧情感特辑",
       "onboard_time": 1681096648,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193542,
-      "num": 179444,
-      "word": "姜涛曾获全球百大帅哥第五名",
-      "onboard_time": 1681204349,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 193249,
@@ -3337,6 +3369,14 @@
       "onboard_time": 1681101092,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192775,
+      "num": 192775,
+      "word": "全网都知道熊猫赖床了",
+      "onboard_time": 1681204049,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192617,
@@ -3595,6 +3635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180533,
+      "num": 180533,
+      "word": "原著里的冥夜桑酒",
+      "onboard_time": 1681199609,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180425,
       "num": 180425,
       "word": "周一至周五哪天更适合工作",
@@ -3739,12 +3787,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171268,
+      "num": 171268,
+      "word": "冥夜嘴上说不爱眼里全是爱",
+      "onboard_time": 1681205427,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171128,
       "num": 171128,
       "word": "天津沙尘暴",
       "onboard_time": 1681172487,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171096,
+      "num": 171096,
+      "word": "真的要开始存钱了",
+      "onboard_time": 1681205068,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 171027,
@@ -3857,14 +3921,6 @@
       "onboard_time": 1681044149,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 160963,
-      "num": 160963,
-      "word": "原著里的冥夜桑酒",
-      "onboard_time": 1681199609,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 159025,
@@ -4259,20 +4315,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132556,
+      "num": 132556,
+      "word": "狗过马路也要等红绿灯",
+      "onboard_time": 1681205369,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132479,
       "num": 132479,
       "word": "这个东西只能小孩子玩",
       "onboard_time": 1681107567,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132221,
-      "num": 132221,
-      "word": "全网都知道熊猫赖床了",
-      "onboard_time": 1681204049,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131807,
@@ -4305,6 +4361,14 @@
       "onboard_time": 1681082302,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129077,
+      "num": 129077,
+      "word": "甲减都有哪些症状",
+      "onboard_time": 1681202847,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 128710,
@@ -4425,14 +4489,6 @@
       "onboard_time": 1681170443,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 117267,
-      "num": 117267,
-      "word": "甲减都有哪些症状",
-      "onboard_time": 1681202847,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 116903,
@@ -4846,6 +4902,9 @@
     },
     {
       "word": "#习近平总书记在广东考察调研#"
+    },
+    {
+      "word": "#习近平在广东考察调研#"
     }
   ]
 }

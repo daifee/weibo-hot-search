@@ -1,0 +1,410 @@
+{
+  "runTime": 1681205630389,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2752458,
+        "num": 2752458,
+        "word": "刘亚仁体内检出第5种毒品",
+        "onboard_time": 1681202605,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1441114,
+        "num": 1441114,
+        "word": "仅1成多人拒绝下班秒回工作",
+        "onboard_time": 1681202547,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156926,
+        "num": 882648,
+        "word": "中国科学家研讨在月球上盖房子",
+        "onboard_time": 1681197685,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 796871,
+        "num": 796871,
+        "word": "南京沙尘暴",
+        "onboard_time": 1681203447,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734515,
+        "num": 734515,
+        "word": "RAIN逃过了韩国酵母",
+        "onboard_time": 1681200568,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 694705,
+        "num": 694705,
+        "word": "张兰",
+        "onboard_time": 1681204349,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690751,
+        "num": 690751,
+        "word": "印度将成全球人口第一大国",
+        "onboard_time": 1681198047,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600206,
+        "num": 600206,
+        "word": "娄底宝马女司机承认第一时间知道撞人",
+        "onboard_time": 1681200267,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578793,
+        "num": 578793,
+        "word": "长月烬明近三年仙侠剧第一",
+        "onboard_time": 1681194086,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 401211,
+        "num": 401211,
+        "word": "双子座只会选择第一眼就心动的人",
+        "onboard_time": 1681200086,
+        "rank": 9,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 1647545,
+        "num": 401125,
+        "word": "男子入职6分钟身亡被认定工亡",
+        "onboard_time": 1681197685,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510280,
+        "num": 400909,
+        "word": "王菊 我的肚子很可爱",
+        "onboard_time": 1681196725,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487165,
+        "num": 400778,
+        "word": "冯小刚分不清迪丽热巴和古力娜扎",
+        "onboard_time": 1681195464,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433277,
+        "num": 400636,
+        "word": "仙侠剧从未文学",
+        "onboard_time": 1681204166,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413293,
+        "num": 400415,
+        "word": "姜涛曾获全球百大帅哥第五名",
+        "onboard_time": 1681204349,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400373,
+        "num": 400373,
+        "word": "张凌赫个人工作室成立",
+        "onboard_time": 1681203026,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348754,
+        "num": 348754,
+        "word": "员工上班摸鱼被辞退",
+        "onboard_time": 1681193306,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332035,
+        "num": 332035,
+        "word": "小米13Ultra订单增加50%",
+        "onboard_time": 1681204108,
+        "rank": 17,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 313519,
+        "num": 313519,
+        "word": "许杨玉琢和法老是同一个家政阿姨",
+        "onboard_time": 1681204166,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311525,
+        "num": 311525,
+        "word": "宋茜绿发",
+        "onboard_time": 1681196546,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519990,
+        "num": 301791,
+        "word": "赵露思给手表打码",
+        "onboard_time": 1681204648,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270791,
+        "num": 270791,
+        "word": "婚礼堵门1小时丈母娘吃2次救心丸",
+        "onboard_time": 1681191987,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264143,
+        "num": 264143,
+        "word": "两男子将涉黄小卡片发到警车车窗",
+        "onboard_time": 1681188151,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256189,
+        "num": 256189,
+        "word": "张杰谢娜因名誉权起诉中介",
+        "onboard_time": 1681190129,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 232715,
+        "num": 232715,
+        "word": "李惠仁金发",
+        "onboard_time": 1681202425,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 215190,
+        "num": 215190,
+        "word": "BLG对战EDG",
+        "onboard_time": 1681201466,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212119,
+        "num": 212119,
+        "word": "成毅李一桐新剧身高差",
+        "onboard_time": 1681201347,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209578,
+        "num": 209578,
+        "word": "小学生盘手串文具店直接卖疯了",
+        "onboard_time": 1681191868,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201791,
+        "num": 201791,
+        "word": "熊猫花花学会障眼法了",
+        "onboard_time": 1681197985,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196452,
+        "num": 200279,
+        "word": "中方已做好迎接丫丫回国各项准备",
+        "onboard_time": 1681199129,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208495,
+        "num": 200125,
+        "word": "入职第一天是不是都很尴尬",
+        "onboard_time": 1681205248,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199938,
+        "num": 199938,
+        "word": "郑彩率去世",
+        "onboard_time": 1681205488,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197887,
+        "num": 197887,
+        "word": "罗云熙冥夜出场好帅",
+        "onboard_time": 1681205427,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192775,
+        "num": 192775,
+        "word": "全网都知道熊猫赖床了",
+        "onboard_time": 1681204049,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187518,
+        "num": 187518,
+        "word": "虞书欣工作室发长文回应",
+        "onboard_time": 1681199067,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180533,
+        "num": 180533,
+        "word": "原著里的冥夜桑酒",
+        "onboard_time": 1681199609,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175589,
+        "num": 175589,
+        "word": "邓超腿艺人",
+        "onboard_time": 1681198826,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171327,
+        "num": 171327,
+        "word": "父母存得住钱的原因",
+        "onboard_time": 1681188151,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171268,
+        "num": 171268,
+        "word": "冥夜嘴上说不爱眼里全是爱",
+        "onboard_time": 1681205427,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171096,
+        "num": 171096,
+        "word": "真的要开始存钱了",
+        "onboard_time": 1681205068,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156377,
+        "num": 156377,
+        "word": "热烈制片人怒怼网友",
+        "onboard_time": 1681204166,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139617,
+        "num": 139617,
+        "word": "沙尘暴",
+        "onboard_time": 1681170744,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138227,
+        "num": 138227,
+        "word": "小S二女儿侧拍照",
+        "onboard_time": 1681195766,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137311,
+        "num": 137311,
+        "word": "哈尔滨下雪",
+        "onboard_time": 1681198226,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137194,
+        "num": 137194,
+        "word": "石楠花又腥又臭为何还大面积种",
+        "onboard_time": 1681174168,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135364,
+        "num": 135364,
+        "word": "巴西总统将访华",
+        "onboard_time": 1681198704,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 132556,
+        "num": 132556,
+        "word": "狗过马路也要等红绿灯",
+        "onboard_time": 1681205369,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129077,
+        "num": 129077,
+        "word": "甲减都有哪些症状",
+        "onboard_time": 1681202847,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113475,
+        "num": 128037,
+        "word": "四川烧烤板眼儿有好多",
+        "onboard_time": 1681203507,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102089,
+        "num": 127106,
+        "word": "易烊千玺疑似出演英雄联盟网剧",
+        "onboard_time": 1681181605,
+        "rank": 49,
+        "category": "游戏,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广东考察调研#"
+    }
+  }
+}
