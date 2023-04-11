@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681219253330,
+  "endTime": 1681220008043,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -123,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1584042,
+      "num": 1584042,
+      "word": "王一博从ye到yue",
+      "onboard_time": 1681217067,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1567668,
       "num": 1050060,
       "word": "两男子将涉黄小卡片发到警车车窗",
@@ -145,14 +153,6 @@
       "onboard_time": 1681177164,
       "rank": 32,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1185614,
-      "num": 1185614,
-      "word": "王一博从ye到yue",
-      "onboard_time": 1681217067,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 1144862,
@@ -379,8 +379,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 652681,
+      "num": 652681,
+      "word": "口腔诊所借杨颖正畸案例宣传被罚",
+      "onboard_time": 1681215505,
+      "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 645157,
-      "num": 301791,
+      "num": 315572,
       "word": "赵露思给手表打码",
       "onboard_time": 1681204648,
       "rank": 20,
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 619022,
-      "num": 619022,
-      "word": "口腔诊所借杨颖正畸案例宣传被罚",
-      "onboard_time": 1681215505,
-      "rank": 26,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 616849,
       "num": 616849,
       "word": "直井怜暂停活动",
@@ -460,11 +460,19 @@
     },
     {
       "raw_hot": 591827,
-      "num": 273872,
+      "num": 344605,
       "word": "真的要开始存钱了",
       "onboard_time": 1681205068,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 591765,
+      "num": 591765,
+      "word": "aespa妆造",
+      "onboard_time": 1681218508,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 581203,
@@ -475,8 +483,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570241,
-      "num": 570241,
+      "raw_hot": 573117,
+      "num": 573117,
       "word": "山东事业编",
       "onboard_time": 1681216706,
       "rank": 16,
@@ -531,6 +539,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 510708,
+      "num": 510708,
+      "word": "领馆提醒中国留学生勿代收不明快递",
+      "onboard_time": 1681217488,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 500696,
       "num": 500696,
       "word": "父母存得住钱的原因",
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 491849,
-      "num": 285148,
+      "num": 344606,
       "word": "李兰迪露背黑裙",
       "onboard_time": 1681215145,
       "rank": 20,
@@ -659,22 +675,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 427421,
-      "num": 427421,
-      "word": "aespa妆造",
-      "onboard_time": 1681218508,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 426366,
-      "num": 426366,
-      "word": "领馆提醒中国留学生勿代收不明快递",
-      "onboard_time": 1681217488,
-      "rank": 14,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 420445,
       "num": 251175,
       "word": "同居不同房的情侣是怎样的",
@@ -745,6 +745,14 @@
       "onboard_time": 1681192225,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398652,
+      "num": 398652,
+      "word": "长月烬明",
+      "onboard_time": 1681219527,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 397673,
@@ -860,7 +868,7 @@
     },
     {
       "raw_hot": 351199,
-      "num": 332900,
+      "num": 344606,
       "word": "灭族成桑酒心魔",
       "onboard_time": 1681213946,
       "rank": 15,
@@ -891,12 +899,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 345946,
+      "num": 345946,
+      "word": "活死人 团综招商中",
+      "onboard_time": 1681216346,
+      "rank": 36,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 343624,
       "num": 343624,
       "word": "黎苏苏是最后一个神",
       "onboard_time": 1681177706,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342106,
+      "num": 342106,
+      "word": "男子让女店员帮试文胸遭怒怼",
+      "onboard_time": 1681217729,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340213,
@@ -947,14 +971,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 323487,
-      "num": 264700,
-      "word": "男子让女店员帮试文胸遭怒怼",
-      "onboard_time": 1681217729,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320786,
       "num": 320786,
       "word": "95后海警执法员缉私战斗中牺牲",
@@ -985,14 +1001,6 @@
       "onboard_time": 1681194025,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 318916,
-      "num": 318916,
-      "word": "活死人 团综招商中",
-      "onboard_time": 1681216346,
-      "rank": 36,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 315949,
@@ -1123,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277090,
+      "num": 277090,
+      "word": "淄博烧烤的热度能持续多久",
+      "onboard_time": 1681218746,
+      "rank": 33,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 274671,
       "num": 274671,
       "word": "BLG对战EDG",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1681181364,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267838,
+      "num": 223245,
+      "word": "高校图书馆非事业编岗位百人竞争",
+      "onboard_time": 1681219048,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 267826,
@@ -1372,7 +1396,7 @@
     },
     {
       "raw_hot": 219769,
-      "num": 219769,
+      "num": 226417,
       "word": "你会付费看网文吗",
       "onboard_time": 1681212566,
       "rank": 46,
@@ -1443,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211404,
+      "num": 211404,
+      "word": "章若楠齐刘海卷发",
+      "onboard_time": 1681219527,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 211364,
       "num": 211364,
       "word": "成龙刘浩存郭麒麟芭莎大片",
@@ -1473,6 +1505,14 @@
       "onboard_time": 1681135828,
       "rank": 26,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 207881,
+      "num": 207881,
+      "word": "刘雨昕记录巴黎行vlog",
+      "onboard_time": 1681219647,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 207855,
@@ -1553,6 +1593,14 @@
       "onboard_time": 1681207227,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202597,
+      "num": 202597,
+      "word": "惊奇队长2首支预告",
+      "onboard_time": 1681219347,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 202131,
@@ -1811,6 +1859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 175774,
+      "num": 175774,
+      "word": "孔雪儿的背部曲线",
+      "onboard_time": 1681218386,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175578,
       "num": 175578,
       "word": "张元英安宥真再现摔倒名场面",
@@ -1825,14 +1881,6 @@
       "onboard_time": 1681176686,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173210,
-      "num": 173210,
-      "word": "淄博烧烤的热度能持续多久",
-      "onboard_time": 1681218746,
-      "rank": 33,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 172626,
@@ -1963,14 +2011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 156498,
-      "num": 156498,
-      "word": "孔雪儿的背部曲线",
-      "onboard_time": 1681218386,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 155330,
       "num": 155330,
       "word": "杨颖早期素颜花絮视频",
@@ -2043,6 +2083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149263,
+      "num": 149263,
+      "word": "当没车的人去超市购物",
+      "onboard_time": 1681219468,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149056,
       "num": 192869,
       "word": "比亚迪发布会",
@@ -2083,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146350,
+      "num": 146350,
+      "word": "大学生有多喜欢周末拉练式旅游",
+      "onboard_time": 1681219708,
+      "rank": 43,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 146154,
       "num": 146154,
       "word": "杨幂关雪定妆照",
@@ -2097,14 +2153,6 @@
       "onboard_time": 1681217307,
       "rank": 45,
       "category": "影视,游戏"
-    },
-    {
-      "raw_hot": 142583,
-      "num": 142583,
-      "word": "高校图书馆非事业编岗位百人竞争",
-      "onboard_time": 1681219048,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 142528,
@@ -2531,8 +2579,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 30413,
-      "num": 1095995,
+      "raw_hot": 31368,
+      "num": 1160195,
       "word": "消博会开馆首日有哪些亮点",
       "onboard_time": 1681216706,
       "rank": 2,
