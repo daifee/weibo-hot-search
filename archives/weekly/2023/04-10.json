@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681217415324,
+  "endTime": 1681219253330,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -315,6 +315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1185614,
+      "num": 1185614,
+      "word": "王一博从ye到yue",
+      "onboard_time": 1681217067,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1144862,
       "num": 1144862,
       "word": "张杰谢娜因名誉权起诉中介",
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 952279,
+      "num": 952279,
+      "word": "卫健局回应男生高考体检被要求脱内裤",
+      "onboard_time": 1681214726,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 944993,
       "num": 944993,
       "word": "倪妮生图",
@@ -513,14 +529,6 @@
       "onboard_time": 1681122027,
       "rank": 18,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 887914,
-      "num": 887914,
-      "word": "卫健局回应男生高考体检被要求脱内裤",
-      "onboard_time": 1681214726,
-      "rank": 7,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 884833,
@@ -915,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 619022,
+      "num": 619022,
+      "word": "口腔诊所借杨颖正畸案例宣传被罚",
+      "onboard_time": 1681215505,
+      "rank": 26,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 616849,
       "num": 616849,
       "word": "直井怜暂停活动",
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 591827,
-      "num": 273803,
+      "num": 273872,
       "word": "真的要开始存钱了",
       "onboard_time": 1681205068,
       "rank": 39,
@@ -1041,6 +1057,14 @@
       "onboard_time": 1681083023,
       "rank": 35,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 570241,
+      "num": 570241,
+      "word": "山东事业编",
+      "onboard_time": 1681216706,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 567268,
@@ -1276,7 +1300,7 @@
     },
     {
       "raw_hot": 491849,
-      "num": 227634,
+      "num": 285148,
       "word": "李兰迪露背黑裙",
       "onboard_time": 1681215145,
       "rank": 20,
@@ -1427,6 +1451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 443589,
+      "num": 443589,
+      "word": "张本智和止步冠军赛16强",
+      "onboard_time": 1681216587,
+      "rank": 18,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 438785,
       "num": 438785,
       "word": "上海海事大学称举报均不属实",
@@ -1507,6 +1539,22 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 427421,
+      "num": 427421,
+      "word": "aespa妆造",
+      "onboard_time": 1681218508,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 426366,
+      "num": 426366,
+      "word": "领馆提醒中国留学生勿代收不明快递",
+      "onboard_time": 1681217488,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 425674,
       "num": 425674,
       "word": "四川西昌突发森林火灾",
@@ -1531,28 +1579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418293,
-      "num": 319052,
-      "word": "王一博从ye到yue",
-      "onboard_time": 1681217067,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 417507,
       "num": 417507,
       "word": "iPhone15Pro相机厚约2枚1元硬币",
       "onboard_time": 1681186347,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 416799,
-      "num": 416799,
-      "word": "口腔诊所借杨颖正畸案例宣传被罚",
-      "onboard_time": 1681215505,
-      "rank": 26,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 416170,
@@ -1908,7 +1940,7 @@
     },
     {
       "raw_hot": 348215,
-      "num": 219154,
+      "num": 251263,
       "word": "魔神是澹台烬",
       "onboard_time": 1681213284,
       "rank": 22,
@@ -2051,6 +2083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 323487,
+      "num": 264700,
+      "word": "男子让女店员帮试文胸遭怒怼",
+      "onboard_time": 1681217729,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322912,
       "num": 284951,
       "word": "论文很烂但致谢被老师夸了",
@@ -2081,6 +2121,14 @@
       "onboard_time": 1681194025,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318916,
+      "num": 318916,
+      "word": "活死人 团综招商中",
+      "onboard_time": 1681216346,
+      "rank": 36,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 318550,
@@ -2147,14 +2195,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 311347,
-      "num": 311347,
-      "word": "山东事业编",
-      "onboard_time": 1681216706,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 309805,
       "num": 309805,
       "word": "放个屁风筝",
@@ -2180,7 +2220,7 @@
     },
     {
       "raw_hot": 306291,
-      "num": 222398,
+      "num": 245720,
       "word": "不要把工作当成天大的事",
       "onboard_time": 1681212629,
       "rank": 28,
@@ -2553,14 +2593,6 @@
       "onboard_time": 1681102413,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248942,
-      "num": 248942,
-      "word": "张本智和止步冠军赛16强",
-      "onboard_time": 1681216587,
-      "rank": 18,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 248128,
@@ -3499,6 +3531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197321,
+      "num": 197321,
+      "word": "2023LPL春季赛季后赛",
+      "onboard_time": 1681218208,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197119,
       "num": 197119,
       "word": "秦岚希望女性都能做最勇敢的自己",
@@ -3689,6 +3729,14 @@
       "onboard_time": 1681118188,
       "rank": 47,
       "category": "科技,幽默"
+    },
+    {
+      "raw_hot": 191684,
+      "num": 191684,
+      "word": "马嘉祺学舞娘动作",
+      "onboard_time": 1681218087,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191249,
@@ -4075,6 +4123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173210,
+      "num": 173210,
+      "word": "淄博烧烤的热度能持续多久",
+      "onboard_time": 1681218746,
+      "rank": 33,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 172626,
       "num": 172626,
       "word": "半熟恋人",
@@ -4259,6 +4315,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 158519,
+      "num": 158519,
+      "word": "陈梦晋级冠军赛8强",
+      "onboard_time": 1681217849,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157907,
       "num": 157907,
       "word": "WTT新乡冠军赛2023",
@@ -4267,20 +4331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157045,
-      "num": 157045,
-      "word": "活死人 团综招商中",
-      "onboard_time": 1681216346,
-      "rank": 36,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 156674,
       "num": 156674,
       "word": "陈晓说愿意演渣男",
       "onboard_time": 1681171466,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 156498,
+      "num": 156498,
+      "word": "孔雪儿的背部曲线",
+      "onboard_time": 1681218386,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155406,
@@ -4547,6 +4611,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142871,
+      "num": 142871,
+      "word": "冥夜桑酒好哭",
+      "onboard_time": 1681217307,
+      "rank": 45,
+      "category": "影视,游戏"
+    },
+    {
+      "raw_hot": 142583,
+      "num": 142583,
+      "word": "高校图书馆非事业编岗位百人竞争",
+      "onboard_time": 1681219048,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 142528,
       "num": 142528,
       "word": "接受了永别却没忍住思念",
@@ -4609,14 +4689,6 @@
       "onboard_time": 1681034546,
       "rank": 36,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 140998,
-      "num": 140998,
-      "word": "冥夜桑酒好哭",
-      "onboard_time": 1681217307,
-      "rank": 45,
-      "category": "影视,游戏"
     },
     {
       "raw_hot": 140884,
@@ -4865,6 +4937,14 @@
       "onboard_time": 1681206931,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119997,
+      "num": 119997,
+      "word": "那些监控下的倒霉蛋",
+      "onboard_time": 1681219109,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 119609,
@@ -5251,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30413,
+      "num": 1095995,
+      "word": "消博会开馆首日有哪些亮点",
+      "onboard_time": 1681216706,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28108,
       "num": 28108,
       "word": "易烊千玺M榜年度影响力演员",
@@ -5273,14 +5361,6 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23067,
-      "num": 949206,
-      "word": "消博会开馆首日有哪些亮点",
-      "onboard_time": 1681216706,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19346,
