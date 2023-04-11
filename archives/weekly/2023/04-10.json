@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681169625588,
+  "endTime": 1681176104723,
   "band_list": [
     {
       "raw_hot": 3188779,
@@ -51,6 +51,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 2436723,
+      "num": 2436723,
+      "word": "石楠花又腥又臭为何还大面积种",
+      "onboard_time": 1681174168,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2287464,
       "num": 2287464,
       "word": "迪丽热巴金世佳 利剑玫瑰",
@@ -65,6 +73,14 @@
       "onboard_time": 1681052670,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2080254,
+      "num": 917409,
+      "word": "虞书欣让粉丝不要再push工作人员",
+      "onboard_time": 1681173027,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2041902,
@@ -99,11 +115,27 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1712238,
+      "num": 446349,
+      "word": "李佳航泡温泉弄伤一根肋骨",
+      "onboard_time": 1681169962,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1536049,
       "num": 1536049,
       "word": "今年五一实际只放一天",
       "onboard_time": 1681113988,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1494228,
+      "num": 1494228,
+      "word": "沙尘暴",
+      "onboard_time": 1681109128,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -275,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 895725,
+      "num": 895725,
+      "word": "郑晓龙评赵丽颖转型",
+      "onboard_time": 1681169721,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 894941,
       "num": 580689,
       "word": "网友P瘦了的沈腾",
@@ -353,6 +393,14 @@
       "onboard_time": 1681138469,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 818968,
+      "num": 818968,
+      "word": "喝预开口的椰子 进急诊",
+      "onboard_time": 1681172909,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 810660,
@@ -489,6 +537,14 @@
       "onboard_time": 1681097008,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 641120,
+      "num": 641120,
+      "word": "石楠花的花语 yue",
+      "onboard_time": 1681168879,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 640383,
@@ -673,6 +729,14 @@
       "onboard_time": 1681101273,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 549184,
+      "num": 549184,
+      "word": "全聚德连亏三年",
+      "onboard_time": 1681171587,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 544237,
@@ -891,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 458458,
+      "num": 458458,
+      "word": "吃土",
+      "onboard_time": 1681173506,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452672,
       "num": 452672,
       "word": "张元英part",
@@ -929,6 +1001,14 @@
       "onboard_time": 1681105349,
       "rank": 12,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 430066,
+      "num": 430066,
+      "word": "官方通报景点奶茶店使用霉变竹筒",
+      "onboard_time": 1681172254,
+      "rank": 12,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 429479,
@@ -1187,6 +1267,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 347907,
+      "num": 347907,
+      "word": "环台岛演习72小时",
+      "onboard_time": 1681168459,
+      "rank": 44,
+      "category": "军事"
+    },
+    {
       "raw_hot": 344287,
       "num": 972866,
       "word": "隧道内百余辆车45度让出救援通道",
@@ -1267,6 +1355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 320354,
+      "num": 320354,
+      "word": "95后海警执法员缉私战斗中牺牲",
+      "onboard_time": 1681173807,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318550,
       "num": 280742,
       "word": "日本坠机师团长曾妄议台湾问题",
@@ -1336,6 +1432,14 @@
       "word": "UNINE成员聚会合照",
       "onboard_time": 1681100011,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 297057,
+      "num": 297057,
+      "word": "陈鑫海公司名字叫好虚荣",
+      "onboard_time": 1681171286,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1459,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 262564,
+      "num": 262564,
+      "word": "冥夜救初凰也是在救黎苏苏",
+      "onboard_time": 1681174107,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262546,
       "num": 262546,
       "word": "陈都灵天欢妆造",
@@ -1483,12 +1595,12 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 257983,
-      "num": 257983,
-      "word": "沙尘暴",
-      "onboard_time": 1681109128,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 256495,
+      "num": 252328,
+      "word": "陈都灵天欢绕腕好带感",
+      "onboard_time": 1681172008,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 255648,
@@ -1619,6 +1731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237389,
+      "num": 237389,
+      "word": "假装上班能缓解待业焦虑吗",
+      "onboard_time": 1681174648,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235888,
       "num": 215279,
       "word": "金钟仁去修手机了",
@@ -1692,7 +1812,7 @@
     },
     {
       "raw_hot": 230889,
-      "num": 218818,
+      "num": 230794,
       "word": "因家长决策失误而耽误过大事",
       "onboard_time": 1681138409,
       "rank": 37,
@@ -2515,14 +2635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 177849,
-      "num": 177849,
-      "word": "环台岛演习72小时",
-      "onboard_time": 1681168459,
-      "rank": 44,
-      "category": "军事"
-    },
-    {
       "raw_hot": 176302,
       "num": 176302,
       "word": "白鲨挺进春决会师AG",
@@ -2569,6 +2681,14 @@
       "onboard_time": 1681093048,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171128,
+      "num": 171128,
+      "word": "天津沙尘暴",
+      "onboard_time": 1681172487,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171027,
@@ -2643,12 +2763,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 159025,
+      "num": 159025,
+      "word": "吴彤去看华晨宇的演唱会了",
+      "onboard_time": 1681171826,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157907,
       "num": 157907,
       "word": "WTT新乡冠军赛2023",
       "onboard_time": 1681115368,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156674,
+      "num": 156674,
+      "word": "陈晓说愿意演渣男",
+      "onboard_time": 1681171466,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 155406,
@@ -2659,12 +2795,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155323,
-      "num": 155323,
-      "word": "石楠花的花语 yue",
-      "onboard_time": 1681168879,
-      "rank": 15,
-      "category": "情感"
+      "raw_hot": 155330,
+      "num": 155330,
+      "word": "杨颖早期素颜花絮视频",
+      "onboard_time": 1681170986,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155072,
@@ -2947,6 +3083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134498,
+      "num": 134498,
+      "word": "十年前的追星手账",
+      "onboard_time": 1681175607,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134225,
       "num": 134225,
       "word": "戈贝尔拳打安德森",
@@ -3019,6 +3163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124034,
+      "num": 124034,
+      "word": "原来熊猫也喜欢看热闹",
+      "onboard_time": 1681142964,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122094,
       "num": 122094,
       "word": "苏有朋留胡子了",
@@ -3051,6 +3203,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 118336,
+      "num": 118336,
+      "word": "戈贝尔被禁赛一场",
+      "onboard_time": 1681169119,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118169,
+      "num": 118169,
+      "word": "Angelababy相思令拍摄花絮照",
+      "onboard_time": 1681170443,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 116903,
       "num": 116903,
       "word": "祝绪丹蓝色头纱造型",
@@ -3064,6 +3232,14 @@
       "word": "川大研究称善于社交更长寿",
       "onboard_time": 1681132646,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113273,
+      "num": 113273,
+      "word": "沙尘来袭时如何防护",
+      "onboard_time": 1681175846,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -3091,6 +3267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108909,
+      "num": 108909,
+      "word": "云南烧烤申请出战",
+      "onboard_time": 1681169782,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 108043,
       "num": 108043,
       "word": "15省区市将有扬沙或浮尘天气",
@@ -3115,6 +3299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105758,
+      "num": 105758,
+      "word": "高加林高双星人生再次互换",
+      "onboard_time": 1681143205,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 105120,
       "num": 105120,
       "word": "闵玧其坂本龙一合作曲",
@@ -3129,14 +3321,6 @@
       "onboard_time": 1681135350,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 102657,
-      "num": 102657,
-      "word": "原来熊猫也喜欢看热闹",
-      "onboard_time": 1681142964,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 102220,
@@ -3163,6 +3347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96311,
+      "num": 96311,
+      "word": "白敬亭的翻包好物",
+      "onboard_time": 1681173268,
+      "rank": 49,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 95764,
       "num": 949794,
       "word": "运20机长回忆志愿军烈士回家路",
@@ -3185,14 +3377,6 @@
       "onboard_time": 1681049130,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 93811,
-      "num": 93811,
-      "word": "高加林高双星人生再次互换",
-      "onboard_time": 1681143205,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 93525,
@@ -3241,14 +3425,6 @@
       "onboard_time": 1681048112,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 69567,
-      "num": 69567,
-      "word": "戈贝尔被禁赛一场",
-      "onboard_time": 1681169119,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 67432,
