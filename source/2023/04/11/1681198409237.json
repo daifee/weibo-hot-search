@@ -1,0 +1,410 @@
+{
+  "runTime": 1681198409237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1258182,
+        "num": 1258182,
+        "word": "王菊 我的肚子很可爱",
+        "onboard_time": 1681196725,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1053810,
+        "num": 1053810,
+        "word": "长月烬明近三年仙侠剧第一",
+        "onboard_time": 1681194086,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87695,
+        "num": 981774,
+        "word": "中国科学家研讨在月球上盖房子",
+        "onboard_time": 1681197685,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1626507,
+        "num": 980521,
+        "word": "冯小刚分不清迪丽热巴和古力娜扎",
+        "onboard_time": 1681195464,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 978693,
+        "num": 978693,
+        "word": "员工上班摸鱼被辞退",
+        "onboard_time": 1681193306,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597927,
+        "num": 597927,
+        "word": "两男子将涉黄小卡片发到警车车窗",
+        "onboard_time": 1681188151,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420083,
+        "num": 420083,
+        "word": "一位日本女读者写的跨国信",
+        "onboard_time": 1681193487,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402317,
+        "num": 402317,
+        "word": "2023教资考试笔试成绩",
+        "onboard_time": 1681193006,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 395010,
+        "num": 395010,
+        "word": "石楠花又腥又臭为何还大面积种",
+        "onboard_time": 1681174168,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452571,
+        "num": 394844,
+        "word": "张杰谢娜因名誉权起诉中介",
+        "onboard_time": 1681190129,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 734589,
+        "num": 394776,
+        "word": "宋茜绿发",
+        "onboard_time": 1681196546,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393498,
+        "num": 393498,
+        "word": "小S二女儿侧拍照",
+        "onboard_time": 1681195766,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363110,
+        "num": 363110,
+        "word": "法老 老乡鸡",
+        "onboard_time": 1681183107,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342472,
+        "num": 342472,
+        "word": "小学生盘手串文具店直接卖疯了",
+        "onboard_time": 1681191868,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319570,
+        "num": 319570,
+        "word": "大城市是小镇女生的避风港吗",
+        "onboard_time": 1681194025,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 294777,
+        "num": 294777,
+        "word": "男子入职6分钟身亡被认定工亡",
+        "onboard_time": 1681197685,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263915,
+        "num": 263915,
+        "word": "父母存得住钱的原因",
+        "onboard_time": 1681188151,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261144,
+        "num": 261144,
+        "word": "女子下班回复工作消息获赔加班费",
+        "onboard_time": 1681189769,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237873,
+        "num": 237873,
+        "word": "直井怜暂停活动",
+        "onboard_time": 1681190369,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234448,
+        "num": 234448,
+        "word": "高校回应女生从宿舍楼坠落",
+        "onboard_time": 1681196365,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 360955,
+        "num": 234202,
+        "word": "婚礼堵门1小时丈母娘吃2次救心丸",
+        "onboard_time": 1681191987,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231673,
+        "num": 231673,
+        "word": "易烊千玺疑似出演英雄联盟网剧",
+        "onboard_time": 1681181605,
+        "rank": 21,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 217740,
+        "num": 217740,
+        "word": "iPhone15Pro相机厚约2枚1元硬币",
+        "onboard_time": 1681186347,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217544,
+        "num": 217544,
+        "word": "减肥失败后以为自己是甲减",
+        "onboard_time": 1681195104,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212114,
+        "num": 212114,
+        "word": "3年轻人20万开店日营业额仅79元",
+        "onboard_time": 1681177164,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 208107,
+        "num": 208107,
+        "word": "诅咒叶夕雾的魔女是真的桑酒",
+        "onboard_time": 1681192827,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186698,
+        "num": 186698,
+        "word": "何超莲晒毕业照",
+        "onboard_time": 1681190547,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186174,
+        "num": 186174,
+        "word": "湖北一女局长被曝用公款配置休息室",
+        "onboard_time": 1681182686,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179440,
+        "num": 179440,
+        "word": "郑州抗癌共享厨房面临关门困境",
+        "onboard_time": 1681192587,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171568,
+        "num": 171568,
+        "word": "石楠花拿铁",
+        "onboard_time": 1681191207,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295235,
+        "num": 171554,
+        "word": "老乡鸡 我保证这次没有中间商赚差价",
+        "onboard_time": 1681196844,
+        "rank": 30,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 242599,
+        "num": 171416,
+        "word": "白鹿更喜欢冥夜",
+        "onboard_time": 1681198344,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171007,
+        "num": 171007,
+        "word": "马思纯进组后前后对比",
+        "onboard_time": 1681197505,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169976,
+        "num": 169976,
+        "word": "苏州大学回应网传复试确认仅3分钟",
+        "onboard_time": 1681184129,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 161480,
+        "num": 161480,
+        "word": "周冬雨慢镜头",
+        "onboard_time": 1681197384,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218781,
+        "num": 161166,
+        "word": "虞书欣让粉丝不要再push工作人员",
+        "onboard_time": 1681173027,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160288,
+        "num": 160288,
+        "word": "谁把熊猫晾这了",
+        "onboard_time": 1681188990,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158566,
+        "num": 158566,
+        "word": "沙尘暴",
+        "onboard_time": 1681170744,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155443,
+        "num": 155443,
+        "word": "群众生育观念已转向少生优育",
+        "onboard_time": 1681184548,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148508,
+        "num": 148508,
+        "word": "桑酒被灭族",
+        "onboard_time": 1681191387,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144010,
+        "num": 144010,
+        "word": "Ravi退出VIXX",
+        "onboard_time": 1681191805,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142550,
+        "num": 142550,
+        "word": "什么是失望性情感隔离",
+        "onboard_time": 1681195704,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137885,
+        "num": 137885,
+        "word": "哈尔滨下雪",
+        "onboard_time": 1681198226,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126834,
+        "num": 126834,
+        "word": "熊猫花花学会障眼法了",
+        "onboard_time": 1681197985,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119507,
+        "num": 125831,
+        "word": "在外滩撸一种很新的猫",
+        "onboard_time": 1681196185,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125788,
+        "num": 125788,
+        "word": "印度将成全球人口第一大国",
+        "onboard_time": 1681198047,
+        "rank": 45,
+        "category": "社会新闻,国外要闻"
+      },
+      {
+        "raw_hot": 122759,
+        "num": 122759,
+        "word": "吴磊出演北影节主题短片",
+        "onboard_time": 1681198285,
+        "rank": 46,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 121170,
+        "num": 121170,
+        "word": "喻言CHAMPION体育画报周年刊大片",
+        "onboard_time": 1681195286,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118319,
+        "num": 118319,
+        "word": "工作之后会给爸妈生活费吗",
+        "onboard_time": 1681197985,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115013,
+        "num": 115013,
+        "word": "原神",
+        "onboard_time": 1681192105,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#激活中国消费强引擎#"
+    }
+  }
+}

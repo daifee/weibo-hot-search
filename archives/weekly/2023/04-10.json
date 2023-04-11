@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681197361993,
+  "endTime": 1681198409237,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1728866,
-      "num": 738957,
+      "num": 980521,
       "word": "冯小刚分不清迪丽热巴和古力娜扎",
       "onboard_time": 1681195464,
       "rank": 3,
@@ -339,12 +339,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1053810,
+      "num": 1053810,
+      "word": "长月烬明近三年仙侠剧第一",
+      "onboard_time": 1681194086,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 991924,
       "num": 991924,
       "word": "今年的假期余额只剩6天了",
       "onboard_time": 1681098928,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 978693,
+      "num": 978693,
+      "word": "员工上班摸鱼被辞退",
+      "onboard_time": 1681193306,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 944993,
@@ -523,14 +539,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 804155,
-      "num": 804155,
-      "word": "长月烬明近三年仙侠剧第一",
-      "onboard_time": 1681194086,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 779929,
       "num": 779929,
       "word": "马龙",
@@ -563,12 +571,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 738920,
-      "num": 738920,
-      "word": "员工上班摸鱼被辞退",
-      "onboard_time": 1681193306,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 734589,
+      "num": 394776,
+      "word": "宋茜绿发",
+      "onboard_time": 1681196546,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 732886,
@@ -1395,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402317,
+      "num": 402317,
+      "word": "2023教资考试笔试成绩",
+      "onboard_time": 1681193006,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 401575,
       "num": 401575,
       "word": "孙怡模仿TangoZ红毯姿势",
@@ -1444,7 +1460,7 @@
     },
     {
       "raw_hot": 396550,
-      "num": 380852,
+      "num": 393498,
       "word": "小S二女儿侧拍照",
       "onboard_time": 1681195766,
       "rank": 10,
@@ -1473,14 +1489,6 @@
       "onboard_time": 1681099111,
       "rank": 23,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 392665,
-      "num": 392665,
-      "word": "2023教资考试笔试成绩",
-      "onboard_time": 1681193006,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 382244,
@@ -1585,14 +1593,6 @@
       "onboard_time": 1681182807,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 356512,
-      "num": 356512,
-      "word": "宋茜绿发",
-      "onboard_time": 1681196546,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 355859,
@@ -1771,6 +1771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 319570,
+      "num": 319570,
+      "word": "大城市是小镇女生的避风港吗",
+      "onboard_time": 1681194025,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318550,
       "num": 280742,
       "word": "日本坠机师团长曾妄议台湾问题",
@@ -1907,6 +1915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295235,
+      "num": 190867,
+      "word": "老乡鸡 我保证这次没有中间商赚差价",
+      "onboard_time": 1681196844,
+      "rank": 31,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 295210,
       "num": 295210,
       "word": "时间夺走了杨洋的什么",
@@ -1921,6 +1937,14 @@
       "onboard_time": 1681178965,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294777,
+      "num": 294777,
+      "word": "男子入职6分钟身亡被认定工亡",
+      "onboard_time": 1681197685,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293235,
@@ -2171,11 +2195,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 243866,
-      "num": 243866,
-      "word": "大城市是小镇女生的避风港吗",
-      "onboard_time": 1681194025,
-      "rank": 47,
+      "raw_hot": 242599,
+      "num": 171416,
+      "word": "白鹿更喜欢冥夜",
+      "onboard_time": 1681198344,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -2297,6 +2321,14 @@
       "onboard_time": 1681186589,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 234448,
+      "num": 234448,
+      "word": "高校回应女生从宿舍楼坠落",
+      "onboard_time": 1681196365,
+      "rank": 36,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 234095,
@@ -2505,6 +2537,14 @@
       "onboard_time": 1681140508,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217544,
+      "num": 217544,
+      "word": "减肥失败后以为自己是甲减",
+      "onboard_time": 1681195104,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 217514,
@@ -3003,14 +3043,6 @@
       "category": "财经,科技"
     },
     {
-      "raw_hot": 196502,
-      "num": 196502,
-      "word": "减肥失败后以为自己是甲减",
-      "onboard_time": 1681195104,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196453,
       "num": 196453,
       "word": "任嘉伦超话会掉落Q版任嘉伦",
@@ -3145,14 +3177,6 @@
       "onboard_time": 1681104151,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190867,
-      "num": 190867,
-      "word": "老乡鸡 我保证这次没有中间商赚差价",
-      "onboard_time": 1681196844,
-      "rank": 31,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 190115,
@@ -3507,20 +3531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171043,
-      "num": 171043,
-      "word": "高校回应女生从宿舍楼坠落",
-      "onboard_time": 1681196365,
-      "rank": 36,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 171027,
       "num": 171027,
       "word": "长月烬明壁纸",
       "onboard_time": 1681097907,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171007,
+      "num": 171007,
+      "word": "马思纯进组后前后对比",
+      "onboard_time": 1681197505,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170876,
@@ -3601,6 +3625,14 @@
       "onboard_time": 1681082540,
       "rank": 26,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 161480,
+      "num": 161480,
+      "word": "周冬雨慢镜头",
+      "onboard_time": 1681197384,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 161200,
@@ -3867,6 +3899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142550,
+      "num": 142550,
+      "word": "什么是失望性情感隔离",
+      "onboard_time": 1681195704,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142528,
       "num": 142528,
       "word": "接受了永别却没忍住思念",
@@ -3955,6 +3995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137885,
+      "num": 137885,
+      "word": "哈尔滨下雪",
+      "onboard_time": 1681198226,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "白鹿叶夕雾害怕血鸦",
@@ -3993,14 +4041,6 @@
       "onboard_time": 1681084046,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131393,
-      "num": 131393,
-      "word": "什么是失望性情感隔离",
-      "onboard_time": 1681195704,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 130168,
@@ -4059,6 +4099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126834,
+      "num": 126834,
+      "word": "熊猫花花学会障眼法了",
+      "onboard_time": 1681197985,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126823,
       "num": 126823,
       "word": "吴磊后仰苏感",
@@ -4075,12 +4123,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125788,
+      "num": 125788,
+      "word": "印度将成全球人口第一大国",
+      "onboard_time": 1681198047,
+      "rank": 45,
+      "category": "社会新闻,国外要闻"
+    },
+    {
       "raw_hot": 124034,
       "num": 124034,
       "word": "原来熊猫也喜欢看热闹",
       "onboard_time": 1681142964,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122759,
+      "num": 122759,
+      "word": "吴磊出演北影节主题短片",
+      "onboard_time": 1681198285,
+      "rank": 46,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 122094,
@@ -4121,6 +4185,14 @@
       "onboard_time": 1681169119,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118319,
+      "num": 118319,
+      "word": "工作之后会给爸妈生活费吗",
+      "onboard_time": 1681197985,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 118169,
@@ -4369,6 +4441,14 @@
       "onboard_time": 1681082781,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 87695,
+      "num": 981774,
+      "word": "中国科学家研讨在月球上盖房子",
+      "onboard_time": 1681197685,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79889,
