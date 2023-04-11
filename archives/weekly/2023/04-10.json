@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681216421181,
+  "endTime": 1681217415324,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -355,6 +355,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1097633,
+      "num": 1097633,
+      "word": "冯小刚我人就在北京",
+      "onboard_time": 1681209748,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1096272,
       "num": 1096272,
       "word": "保利 如梦之梦",
@@ -401,14 +409,6 @@
       "onboard_time": 1681194086,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1043632,
-      "num": 1043632,
-      "word": "冯小刚我人就在北京",
-      "onboard_time": 1681209748,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 991924,
@@ -513,6 +513,14 @@
       "onboard_time": 1681122027,
       "rank": 18,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 887914,
+      "num": 887914,
+      "word": "卫健局回应男生高考体检被要求脱内裤",
+      "onboard_time": 1681214726,
+      "rank": 7,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 884833,
@@ -995,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 580738,
-      "num": 580738,
-      "word": "卫健局回应男生高考体检被要求脱内裤",
-      "onboard_time": 1681214726,
-      "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 579352,
       "num": 579352,
       "word": "2万块的iPhone15你会买吗",
@@ -1275,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 491849,
+      "num": 227634,
+      "word": "李兰迪露背黑裙",
+      "onboard_time": 1681215145,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 488357,
       "num": 488357,
       "word": "五月天告五人合唱知足",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1681107748,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 481853,
-      "num": 214370,
-      "word": "李兰迪露背黑裙",
-      "onboard_time": 1681215145,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 481308,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1681173506,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456550,
+      "num": 423901,
+      "word": "柳智敏金发首舞台",
+      "onboard_time": 1681214845,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 452672,
@@ -1507,14 +1515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423901,
-      "num": 423901,
-      "word": "柳智敏金发首舞台",
-      "onboard_time": 1681214845,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 422758,
       "num": 258460,
       "word": "当香港人在东北买水果时",
@@ -1531,12 +1531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418293,
+      "num": 319052,
+      "word": "王一博从ye到yue",
+      "onboard_time": 1681217067,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 417507,
       "num": 417507,
       "word": "iPhone15Pro相机厚约2枚1元硬币",
       "onboard_time": 1681186347,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 416799,
+      "num": 416799,
+      "word": "口腔诊所借杨颖正畸案例宣传被罚",
+      "onboard_time": 1681215505,
+      "rank": 26,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 416170,
@@ -1875,6 +1891,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 351199,
+      "num": 332900,
+      "word": "灭族成桑酒心魔",
+      "onboard_time": 1681213946,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 349316,
       "num": 349316,
       "word": "突发疾病请假回家死亡算不算工伤",
@@ -1884,7 +1908,7 @@
     },
     {
       "raw_hot": 348215,
-      "num": 210813,
+      "num": 219154,
       "word": "魔神是澹台烬",
       "onboard_time": 1681213284,
       "rank": 22,
@@ -1953,14 +1977,6 @@
       "onboard_time": 1681204108,
       "rank": 27,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 332900,
-      "num": 332900,
-      "word": "灭族成桑酒心魔",
-      "onboard_time": 1681213946,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 331519,
@@ -2131,6 +2147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 311347,
+      "num": 311347,
+      "word": "山东事业编",
+      "onboard_time": 1681216706,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 309805,
       "num": 309805,
       "word": "放个屁风筝",
@@ -2153,6 +2177,14 @@
       "onboard_time": 1681198226,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306291,
+      "num": 222398,
+      "word": "不要把工作当成天大的事",
+      "onboard_time": 1681212629,
+      "rank": 28,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 303361,
@@ -2193,14 +2225,6 @@
       "onboard_time": 1681191508,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 299650,
-      "num": 208230,
-      "word": "不要把工作当成天大的事",
-      "onboard_time": 1681212629,
-      "rank": 28,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 298579,
@@ -2529,6 +2553,14 @@
       "onboard_time": 1681102413,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248942,
+      "num": 248942,
+      "word": "张本智和止步冠军赛16强",
+      "onboard_time": 1681216587,
+      "rank": 18,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 248128,
@@ -2883,6 +2915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219769,
+      "num": 219769,
+      "word": "你会付费看网文吗",
+      "onboard_time": 1681212566,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219755,
       "num": 219755,
       "word": "薛之谦南京演唱会门票",
@@ -3171,14 +3211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205716,
-      "num": 205716,
-      "word": "口腔诊所借杨颖正畸案例宣传被罚",
-      "onboard_time": 1681215505,
-      "rank": 26,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 205270,
       "num": 205270,
       "word": "易烊千玺说会创作出好角色回馈观众",
@@ -3201,14 +3233,6 @@
       "onboard_time": 1681139070,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203765,
-      "num": 203765,
-      "word": "你会付费看网文吗",
-      "onboard_time": 1681212566,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203725,
@@ -4212,7 +4236,7 @@
     },
     {
       "raw_hot": 159026,
-      "num": 199738,
+      "num": 208344,
       "word": "九城上演橙色灯光秀",
       "onboard_time": 1681214604,
       "rank": 29,
@@ -4241,6 +4265,14 @@
       "onboard_time": 1681115368,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157045,
+      "num": 157045,
+      "word": "活死人 团综招商中",
+      "onboard_time": 1681216346,
+      "rank": 36,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 156674,
@@ -4283,6 +4315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154660,
+      "num": 154660,
+      "word": "小伙开车116公里去日照看日照金山",
+      "onboard_time": 1681213705,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153956,
       "num": 153956,
       "word": "三生友幸什么时候结婚",
@@ -4313,14 +4353,6 @@
       "onboard_time": 1681085246,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 151886,
-      "num": 151886,
-      "word": "小伙开车116公里去日照看日照金山",
-      "onboard_time": 1681213705,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151736,
@@ -4577,6 +4609,14 @@
       "onboard_time": 1681034546,
       "rank": 36,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 140998,
+      "num": 140998,
+      "word": "冥夜桑酒好哭",
+      "onboard_time": 1681217307,
+      "rank": 45,
+      "category": "影视,游戏"
     },
     {
       "raw_hot": 140884,
@@ -5233,6 +5273,14 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23067,
+      "num": 949206,
+      "word": "消博会开馆首日有哪些亮点",
+      "onboard_time": 1681216706,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19346,
