@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681211661071,
+  "endTime": 1681212817647,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2134910,
+      "num": 2134910,
+      "word": "初代跑男重聚",
+      "onboard_time": 1681208666,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2080254,
       "num": 1781622,
       "word": "虞书欣让粉丝不要再push工作人员",
       "onboard_time": 1681173027,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2027865,
-      "num": 2027865,
-      "word": "初代跑男重聚",
-      "onboard_time": 1681208666,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 1987750,
@@ -323,6 +323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 705712,
+      "num": 705712,
+      "word": "丫丫乐乐回国细节披露",
+      "onboard_time": 1681210947,
+      "rank": 15,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 701905,
       "num": 701905,
       "word": "iPhone15屏幕将使用M12材料",
@@ -337,6 +345,14 @@
       "onboard_time": 1681204349,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669596,
+      "num": 669596,
+      "word": "长月烬明十二神全部陨落",
+      "onboard_time": 1681209448,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 667748,
@@ -427,12 +443,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 589068,
-      "num": 589068,
-      "word": "长月烬明十二神全部陨落",
-      "onboard_time": 1681209448,
-      "rank": 7,
-      "category": "影视"
+      "raw_hot": 581203,
+      "num": 581203,
+      "word": "张兰团队再现离职风波",
+      "onboard_time": 1681208666,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 551169,
@@ -489,14 +505,6 @@
       "onboard_time": 1681188151,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 489478,
-      "num": 489478,
-      "word": "张兰团队再现离职风波",
-      "onboard_time": 1681208666,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486203,
@@ -731,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 373028,
+      "num": 373028,
+      "word": "天欢好疯",
+      "onboard_time": 1681209927,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 371489,
       "num": 371489,
       "word": "迪丽热巴进组",
@@ -763,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 349316,
+      "num": 349316,
+      "word": "突发疾病请假回家死亡算不算工伤",
+      "onboard_time": 1681208129,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347907,
       "num": 347907,
       "word": "环台岛演习72小时",
@@ -793,14 +817,6 @@
       "onboard_time": 1681204108,
       "rank": 27,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 333156,
-      "num": 333156,
-      "word": "丫丫乐乐回国细节披露",
-      "onboard_time": 1681210947,
-      "rank": 15,
-      "category": "社会新闻,社会新闻"
     },
     {
       "raw_hot": 331209,
@@ -961,22 +977,6 @@
       "onboard_time": 1681178965,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 291488,
-      "num": 291488,
-      "word": "天欢好疯",
-      "onboard_time": 1681209927,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 289921,
-      "num": 289921,
-      "word": "突发疾病请假回家死亡算不算工伤",
-      "onboard_time": 1681208129,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289599,
@@ -1395,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 202979,
+      "num": 202979,
+      "word": "当你给妈妈说想辞职了",
+      "onboard_time": 1681209508,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 202915,
       "num": 202915,
       "word": "郭麒麟金晨晏紫东演同事搭子",
@@ -1435,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198162,
+      "num": 198162,
+      "word": "不要把工作当成天大的事",
+      "onboard_time": 1681212629,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 197887,
       "num": 197887,
       "word": "罗云熙冥夜出场好帅",
@@ -1459,12 +1475,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196814,
+      "num": 196814,
+      "word": "上海的现实版莫奈花园",
+      "onboard_time": 1681211488,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 196453,
       "num": 196453,
       "word": "任嘉伦超话会掉落Q版任嘉伦",
       "onboard_time": 1681177645,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196136,
+      "num": 196136,
+      "word": "龚俊极限挑战9拍摄花絮",
+      "onboard_time": 1681212205,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 195243,
@@ -1635,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172825,
-      "num": 172825,
-      "word": "当你给妈妈说想辞职了",
-      "onboard_time": 1681209508,
-      "rank": 33,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 172626,
       "num": 172626,
       "word": "半熟恋人",
@@ -1723,8 +1747,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159699,
-      "num": 159699,
+      "raw_hot": 161467,
+      "num": 161467,
       "word": "李宇春龙丹妮跳舞镜头",
       "onboard_time": 1681211069,
       "rank": 36,
@@ -1788,7 +1812,7 @@
     },
     {
       "raw_hot": 151467,
-      "num": 188718,
+      "num": 197165,
       "word": "淄博烧烤的灵魂到底是什么",
       "onboard_time": 1681209688,
       "rank": 29,
@@ -1817,6 +1841,14 @@
       "onboard_time": 1681168699,
       "rank": 16,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 147176,
+      "num": 147176,
+      "word": "西湖音乐节",
+      "onboard_time": 1681211785,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 147170,
@@ -1955,14 +1987,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 122785,
-      "num": 122785,
-      "word": "上海的现实版莫奈花园",
-      "onboard_time": 1681211488,
-      "rank": 45,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 122759,
       "num": 122759,
       "word": "吴磊出演北影节主题短片",
@@ -2067,6 +2091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110540,
+      "num": 110540,
+      "word": "你会付费看网文吗",
+      "onboard_time": 1681212566,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110328,
       "num": 110328,
       "word": "陈伟霆汕头小公园宣传新电影",
@@ -2096,6 +2128,14 @@
       "word": "高加林高双星人生再次互换",
       "onboard_time": 1681143205,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 100457,
+      "num": 100457,
+      "word": "假如热播剧男主在同一个群",
+      "onboard_time": 1681212805,
+      "rank": 49,
       "category": "影视"
     },
     {
