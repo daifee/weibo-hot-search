@@ -1,10 +1,10 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681255007823,
+  "endTime": 1681256018744,
   "band_list": [
     {
-      "raw_hot": 2314796,
-      "num": 2314796,
+      "raw_hot": 2569622,
+      "num": 2569622,
       "word": "专家称年轻人不生小孩是不对的",
       "onboard_time": 1681225710,
       "rank": 0,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 618688,
-      "num": 618688,
+      "raw_hot": 622408,
+      "num": 622408,
       "word": "网红路牌为什么不网红了",
       "onboard_time": 1681227929,
       "rank": 12,
@@ -83,6 +83,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443744,
+      "num": 443744,
+      "word": "邓超晒跑男合照说weare伐木累",
+      "onboard_time": 1681222709,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364621,
       "num": 364621,
       "word": "游客举报淄博出租司机不打表多收5元",
@@ -97,14 +105,6 @@
       "onboard_time": 1681225110,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 360751,
-      "num": 360751,
-      "word": "邓超晒跑男合照说weare伐木累",
-      "onboard_time": 1681222709,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 349587,
@@ -147,12 +147,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 268811,
-      "num": 172970,
+      "raw_hot": 313858,
+      "num": 176159,
       "word": "高校图书馆非事业编岗位百人竞争",
       "onboard_time": 1681219048,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 267045,
+      "num": 267045,
+      "word": "中方回应美方寻求重新安排布林肯访华",
+      "onboard_time": 1681243631,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 264219,
+      "num": 264219,
+      "word": "曼城3比0拜仁",
+      "onboard_time": 1681254258,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 257966,
@@ -171,20 +187,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250821,
+      "num": 171873,
+      "word": "男子让女店员帮试文胸遭怒怼",
+      "onboard_time": 1681217729,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242510,
       "num": 165486,
       "word": "白鹿二搭定律",
       "onboard_time": 1681227569,
       "rank": 26,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 241818,
-      "num": 241818,
-      "word": "中方回应美方寻求重新安排布林肯访华",
-      "onboard_time": 1681243631,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 237287,
@@ -211,20 +227,36 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 211582,
-      "num": 168670,
-      "word": "男子让女店员帮试文胸遭怒怼",
-      "onboard_time": 1681217729,
-      "rank": 24,
+      "raw_hot": 211573,
+      "num": 211573,
+      "word": "年轻人不结婚不生娃反促进宠物经济",
+      "onboard_time": 1681255581,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 206116,
+      "num": 206116,
+      "word": "淄博青年驿站",
+      "onboard_time": 1681254860,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207111,
-      "num": 207111,
-      "word": "曼城3比0拜仁",
-      "onboard_time": 1681254258,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 203873,
+      "num": 203873,
+      "word": "耿爽在安理会点名某军事大国",
+      "onboard_time": 1681245012,
+      "rank": 44,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 200769,
+      "num": 200769,
+      "word": "玄彬东京活动生图",
+      "onboard_time": 1681223609,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196785,
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 181630,
-      "num": 162746,
+      "num": 168935,
       "word": "长月烬明十二神全部陨落",
       "onboard_time": 1681209448,
       "rank": 31,
@@ -248,14 +280,6 @@
       "word": "刘雯再登美国版VOGUE封面",
       "onboard_time": 1681224450,
       "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 175871,
-      "num": 175871,
-      "word": "玄彬东京活动生图",
-      "onboard_time": 1681223609,
-      "rank": 40,
       "category": "作品衍生,时尚"
     },
     {
@@ -275,20 +299,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 169200,
-      "num": 169200,
-      "word": "耿爽在安理会点名某军事大国",
-      "onboard_time": 1681245012,
-      "rank": 44,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 168696,
       "num": 168696,
       "word": "口腔诊所借杨颖正畸案例宣传被罚",
       "onboard_time": 1681215505,
       "rank": 23,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 165546,
+      "num": 165546,
+      "word": "怎么判断自己是骨架大还是胖",
+      "onboard_time": 1681229785,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 163234,
@@ -347,14 +371,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 138961,
-      "num": 118527,
-      "word": "怎么判断自己是骨架大还是胖",
-      "onboard_time": 1681229785,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 137225,
       "num": 137225,
       "word": "不要把工作当成天大的事",
@@ -411,16 +427,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119793,
-      "num": 107531,
-      "word": "淄博青年驿站",
-      "onboard_time": 1681254860,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118615,
-      "num": 118615,
+      "raw_hot": 121763,
+      "num": 121763,
       "word": "冯小刚我人就在北京",
       "onboard_time": 1681209748,
       "rank": 48,
@@ -443,8 +451,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98732,
-      "num": 98732,
+      "raw_hot": 101788,
+      "num": 101788,
       "word": "姜涛曾获全球百大帅哥第五名",
       "onboard_time": 1681204349,
       "rank": 33,
@@ -457,6 +465,14 @@
       "onboard_time": 1681251733,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 89346,
+      "num": 89346,
+      "word": "罗德里世界波",
+      "onboard_time": 1681255581,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 84391,
@@ -475,7 +491,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23893,
+      "raw_hot": 54935,
+      "num": 74843,
+      "word": "淄博烧烤何以突出重围",
+      "onboard_time": 1681255821,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 26859,
       "num": 522367,
       "word": "消博会开馆首日有哪些亮点",
       "onboard_time": 1681216706,
