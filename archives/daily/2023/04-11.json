@@ -1,6 +1,6 @@
 {
   "startTime": 1681143739918,
-  "endTime": 1681194122673,
+  "endTime": 1681194914315,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1660203,
+      "num": 1660203,
+      "word": "冯小刚说公众人物只能骂不还口打不还手",
+      "onboard_time": 1681189470,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1642976,
       "num": 1642976,
       "word": "赵露思与替身合照",
@@ -73,14 +81,6 @@
       "onboard_time": 1681188151,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1483277,
-      "num": 1483277,
-      "word": "冯小刚说公众人物只能骂不还口打不还手",
-      "onboard_time": 1681189470,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1256877,
@@ -275,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 526856,
+      "num": 526856,
+      "word": "女子下班回复工作消息获赔加班费",
+      "onboard_time": 1681189769,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525540,
       "num": 425827,
       "word": "阿里所有产品将接入通义千问",
@@ -363,11 +371,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 414673,
-      "num": 414673,
-      "word": "女子下班回复工作消息获赔加班费",
-      "onboard_time": 1681189769,
-      "rank": 37,
+      "raw_hot": 416548,
+      "num": 252883,
+      "word": "婚礼堵门1小时丈母娘吃2次救心丸",
+      "onboard_time": 1681191987,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -417,14 +425,6 @@
       "onboard_time": 1681178787,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 394839,
-      "num": 252883,
-      "word": "婚礼堵门1小时丈母娘吃2次救心丸",
-      "onboard_time": 1681191987,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394632,
@@ -563,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319154,
+      "num": 319154,
+      "word": "小学生盘手串文具店直接卖疯了",
+      "onboard_time": 1681191868,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315949,
       "num": 315949,
       "word": "原生家庭对个人来说太重要了",
@@ -643,14 +651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273812,
-      "num": 273812,
-      "word": "小学生盘手串文具店直接卖疯了",
-      "onboard_time": 1681191868,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272976,
       "num": 227332,
       "word": "比亚迪",
@@ -675,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 267826,
+      "num": 267826,
+      "word": "娜扎江疏影曾给粉丝的回复",
+      "onboard_time": 1681190309,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262564,
       "num": 262564,
       "word": "冥夜救初凰也是在救黎苏苏",
@@ -683,20 +691,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258895,
+      "num": 203153,
+      "word": "一位日本女读者写的跨国信",
+      "onboard_time": 1681193487,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258616,
       "num": 248686,
       "word": "受小朋友欢迎的狗狗长这样",
       "onboard_time": 1681178367,
       "rank": 23,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 255124,
-      "num": 255124,
-      "word": "娜扎江疏影曾给粉丝的回复",
-      "onboard_time": 1681190309,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 254992,
@@ -713,6 +721,14 @@
       "onboard_time": 1681125145,
       "rank": 15,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 247877,
+      "num": 247877,
+      "word": "员工上班摸鱼被辞退",
+      "onboard_time": 1681193306,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246824,
@@ -737,6 +753,14 @@
       "onboard_time": 1681181306,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234970,
+      "num": 234970,
+      "word": "2023教资考试笔试成绩",
+      "onboard_time": 1681193006,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 234558,
@@ -803,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225952,
+      "num": 225952,
+      "word": "长月烬明近三年仙侠剧第一",
+      "onboard_time": 1681194086,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 221867,
       "num": 221867,
       "word": "长月烬明原著",
@@ -859,12 +891,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 208927,
-      "num": 190685,
-      "word": "一位日本女读者写的跨国信",
-      "onboard_time": 1681193487,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 209599,
+      "num": 209599,
+      "word": "石楠花拿铁",
+      "onboard_time": 1681191207,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 208456,
@@ -881,6 +913,14 @@
       "onboard_time": 1681175607,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207318,
+      "num": 207318,
+      "word": "王一博旋转机训练",
+      "onboard_time": 1681194865,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 203465,
@@ -987,20 +1027,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189974,
+      "num": 189974,
+      "word": "郑州抗癌共享厨房面临关门困境",
+      "onboard_time": 1681192587,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188799,
       "num": 188799,
       "word": "陈都灵说天欢和谁都没隔夜仇",
       "onboard_time": 1681141648,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188425,
-      "num": 188425,
-      "word": "石楠花拿铁",
-      "onboard_time": 1681191207,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 185287,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1681181846,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177656,
+      "num": 177656,
+      "word": "诅咒叶夕雾的魔女是真的桑酒",
+      "onboard_time": 1681192827,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 176331,
@@ -1075,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168922,
-      "num": 155609,
-      "word": "诅咒叶夕雾的魔女是真的桑酒",
-      "onboard_time": 1681192827,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 165265,
       "num": 165265,
       "word": "被短片柜子惊艳到了",
@@ -1115,28 +1155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159730,
-      "num": 190695,
-      "word": "2023教资考试笔试成绩",
-      "onboard_time": 1681193006,
-      "rank": 29,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 159025,
       "num": 159025,
       "word": "吴彤去看华晨宇的演唱会了",
       "onboard_time": 1681171826,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156708,
-      "num": 156708,
-      "word": "郑州抗癌共享厨房面临关门困境",
-      "onboard_time": 1681192587,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156674,
@@ -1235,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144321,
-      "num": 144321,
-      "word": "员工上班摸鱼被辞退",
-      "onboard_time": 1681193306,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142528,
       "num": 142528,
       "word": "接受了永别却没忍住思念",
@@ -1256,6 +1272,14 @@
       "word": "长月烬明流浪地球同一特效团队",
       "onboard_time": 1681191207,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 138615,
+      "num": 138615,
+      "word": "大城市是小镇女生的避风港吗",
+      "onboard_time": 1681194025,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -1371,27 +1395,11 @@
       "category": "科技"
     },
     {
-      "raw_hot": 107145,
-      "num": 107145,
-      "word": "大城市是小镇女生的避风港吗",
-      "onboard_time": 1681194025,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 105758,
       "num": 105758,
       "word": "高加林高双星人生再次互换",
       "onboard_time": 1681143205,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 103693,
-      "num": 103693,
-      "word": "长月烬明近三年仙侠剧第一",
-      "onboard_time": 1681194086,
-      "rank": 49,
       "category": "影视"
     },
     {
@@ -1401,6 +1409,14 @@
       "onboard_time": 1681180286,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99639,
+      "num": 99639,
+      "word": "明星高速慢镜头",
+      "onboard_time": 1681194205,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 96311,

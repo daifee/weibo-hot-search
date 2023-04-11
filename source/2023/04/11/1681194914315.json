@@ -1,0 +1,410 @@
+{
+  "runTime": 1681194914315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1660203,
+        "num": 1660203,
+        "word": "冯小刚说公众人物只能骂不还口打不还手",
+        "onboard_time": 1681189470,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891875,
+        "num": 891875,
+        "word": "张杰谢娜因名誉权起诉中介",
+        "onboard_time": 1681190129,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 31482,
+        "num": 833065,
+        "word": "2个关键词看消博会广交会",
+        "onboard_time": 1681185146,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778231,
+        "num": 778231,
+        "word": "两男子将涉黄小卡片发到警车车窗",
+        "onboard_time": 1681188151,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556867,
+        "num": 556867,
+        "word": "直井怜暂停活动",
+        "onboard_time": 1681190369,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539562,
+        "num": 539562,
+        "word": "石楠花又腥又臭为何还大面积种",
+        "onboard_time": 1681174168,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526856,
+        "num": 526856,
+        "word": "女子下班回复工作消息获赔加班费",
+        "onboard_time": 1681189769,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450633,
+        "num": 450633,
+        "word": "虞书欣让粉丝不要再push工作人员",
+        "onboard_time": 1681173027,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416238,
+        "num": 416238,
+        "word": "3年轻人20万开店日营业额仅79元",
+        "onboard_time": 1681177164,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 384635,
+        "num": 384635,
+        "word": "法老 老乡鸡",
+        "onboard_time": 1681183107,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1340474,
+        "num": 384384,
+        "word": "王菊肚子",
+        "onboard_time": 1681185928,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 375039,
+        "num": 375039,
+        "word": "明星和粉丝的关系",
+        "onboard_time": 1681192225,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369976,
+        "num": 369976,
+        "word": "父母存得住钱的原因",
+        "onboard_time": 1681188151,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 353403,
+        "num": 353403,
+        "word": "何超莲晒毕业照",
+        "onboard_time": 1681190547,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322300,
+        "num": 322300,
+        "word": "易烊千玺疑似出演英雄联盟网剧",
+        "onboard_time": 1681181605,
+        "rank": 14,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 319154,
+        "num": 319154,
+        "word": "小学生盘手串文具店直接卖疯了",
+        "onboard_time": 1681191868,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293798,
+        "num": 293798,
+        "word": "谁把熊猫晾这了",
+        "onboard_time": 1681188990,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288133,
+        "num": 288133,
+        "word": "罗云熙说神魔大战拍了22天",
+        "onboard_time": 1681191508,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267826,
+        "num": 267826,
+        "word": "娜扎江疏影曾给粉丝的回复",
+        "onboard_time": 1681190309,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248541,
+        "num": 248541,
+        "word": "苏州大学回应网传复试确认仅3分钟",
+        "onboard_time": 1681184129,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 416548,
+        "num": 248487,
+        "word": "婚礼堵门1小时丈母娘吃2次救心丸",
+        "onboard_time": 1681191987,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247877,
+        "num": 247877,
+        "word": "员工上班摸鱼被辞退",
+        "onboard_time": 1681193306,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243030,
+        "num": 243030,
+        "word": "iPhone15Pro相机厚约2枚1元硬币",
+        "onboard_time": 1681186347,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234970,
+        "num": 234970,
+        "word": "2023教资考试笔试成绩",
+        "onboard_time": 1681193006,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 228757,
+        "num": 228757,
+        "word": "湖北一女局长被曝用公款配置休息室",
+        "onboard_time": 1681182686,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225952,
+        "num": 225952,
+        "word": "长月烬明近三年仙侠剧第一",
+        "onboard_time": 1681194086,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220116,
+        "num": 220116,
+        "word": "群众生育观念已转向少生优育",
+        "onboard_time": 1681184548,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216022,
+        "num": 216022,
+        "word": "Ravi退出VIXX",
+        "onboard_time": 1681191805,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209599,
+        "num": 209599,
+        "word": "石楠花拿铁",
+        "onboard_time": 1681191207,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207318,
+        "num": 207318,
+        "word": "王一博旋转机训练",
+        "onboard_time": 1681194865,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258895,
+        "num": 203153,
+        "word": "一位日本女读者写的跨国信",
+        "onboard_time": 1681193487,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189974,
+        "num": 189974,
+        "word": "郑州抗癌共享厨房面临关门困境",
+        "onboard_time": 1681192587,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188762,
+        "num": 188762,
+        "word": "爱很美味",
+        "onboard_time": 1681193846,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184579,
+        "num": 184579,
+        "word": "桑酒被灭族",
+        "onboard_time": 1681191387,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180249,
+        "num": 180249,
+        "word": "沙尘暴",
+        "onboard_time": 1681170744,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179311,
+        "num": 179311,
+        "word": "原神",
+        "onboard_time": 1681192105,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177656,
+        "num": 177656,
+        "word": "诅咒叶夕雾的魔女是真的桑酒",
+        "onboard_time": 1681192827,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166436,
+        "num": 166436,
+        "word": "保利 如梦之梦",
+        "onboard_time": 1681184728,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161041,
+        "num": 161041,
+        "word": "一个人也要活成一个春天",
+        "onboard_time": 1681193547,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156656,
+        "num": 156656,
+        "word": "唐朝诡事录之西行全员布局",
+        "onboard_time": 1681189291,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147245,
+        "num": 147245,
+        "word": "长月烬明十二神归位",
+        "onboard_time": 1681182867,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138615,
+        "num": 138615,
+        "word": "大城市是小镇女生的避风港吗",
+        "onboard_time": 1681194025,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119675,
+        "num": 119675,
+        "word": "去年中国人看网文花了300多亿",
+        "onboard_time": 1681186170,
+        "rank": 42,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 116969,
+        "num": 116969,
+        "word": "哪些人不能喝椰子水",
+        "onboard_time": 1681178725,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115505,
+        "num": 115505,
+        "word": "张艺兴张婧仪演兄妹",
+        "onboard_time": 1681184367,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107489,
+        "num": 107489,
+        "word": "陈伟霆汕头小公园宣传新电影",
+        "onboard_time": 1681192286,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100057,
+        "num": 100057,
+        "word": "卫健委回应出台政策鼓励早婚早育提案",
+        "onboard_time": 1681182385,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99639,
+        "num": 99639,
+        "word": "明星高速慢镜头",
+        "onboard_time": 1681194205,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97254,
+        "num": 97254,
+        "word": "闫伟伦家暴丁漫漫",
+        "onboard_time": 1681190968,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97040,
+        "num": 97040,
+        "word": "成龙刘浩存郭麒麟芭莎大片",
+        "onboard_time": 1681189053,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#激活中国消费强引擎#"
+    }
+  }
+}
