@@ -1,0 +1,410 @@
+{
+  "runTime": 1681263959839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1752987,
+        "num": 1752987,
+        "word": "淄博老板娘为赶高铁小伙1V1烤串",
+        "onboard_time": 1681257507,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928021,
+        "num": 928021,
+        "word": "成都草莓音乐节一男子对警察竖中指",
+        "onboard_time": 1681259131,
+        "rank": 1,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 21930,
+        "num": 643760,
+        "word": "消博会开馆首日有哪些亮点",
+        "onboard_time": 1681216706,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214230,
+        "num": 642389,
+        "word": "专家建议有实力有担当的人多生孩子",
+        "onboard_time": 1681258767,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640008,
+        "num": 640008,
+        "word": "沈阳三孩家庭每月发500元至孩子3岁",
+        "onboard_time": 1681259426,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1907702,
+        "num": 624738,
+        "word": "专家称年轻人不生小孩是不对的",
+        "onboard_time": 1681225710,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577586,
+        "num": 577586,
+        "word": "专家称子女是长周期的耐用消费品",
+        "onboard_time": 1681258108,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529262,
+        "num": 529262,
+        "word": "网红路牌为什么不网红了",
+        "onboard_time": 1681227929,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 447467,
+        "num": 447467,
+        "word": "熙米鹿",
+        "onboard_time": 1681260207,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386323,
+        "num": 386323,
+        "word": "去年国内人均存款增加1.2万",
+        "onboard_time": 1681261887,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1248099,
+        "num": 383272,
+        "word": "年轻人不结婚不生娃反促进宠物经济",
+        "onboard_time": 1681255581,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1186636,
+        "num": 383009,
+        "word": "关晓彤曾说谁会闲的花七万买包",
+        "onboard_time": 1681226432,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446234,
+        "num": 381218,
+        "word": "网友在泰国偶遇杨紫",
+        "onboard_time": 1681226851,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377365,
+        "num": 377365,
+        "word": "沙尘暴",
+        "onboard_time": 1681258530,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362716,
+        "num": 362716,
+        "word": "撒贝宁台下认真做笔记",
+        "onboard_time": 1681260689,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344802,
+        "num": 344802,
+        "word": "冥夜桑酒 哑巴爱情",
+        "onboard_time": 1681256606,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338282,
+        "num": 338282,
+        "word": "电锯人",
+        "onboard_time": 1681260088,
+        "rank": 16,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 326611,
+        "num": 326611,
+        "word": "邓超晒跑男合照说weare伐木累",
+        "onboard_time": 1681222709,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322741,
+        "num": 322741,
+        "word": "陈都灵孙千撞衫",
+        "onboard_time": 1681223549,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 246739,
+        "num": 246739,
+        "word": "本轮沙尘已跨过长江",
+        "onboard_time": 1681259549,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447642,
+        "num": 246543,
+        "word": "小伙被公司发配到乡镇惹网友羡慕",
+        "onboard_time": 1681258287,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325952,
+        "num": 245239,
+        "word": "菩提祖师才是悟空唯一的师父",
+        "onboard_time": 1681258647,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306229,
+        "num": 243782,
+        "word": "男子为养近200只猫雇4人轮班照顾",
+        "onboard_time": 1681260566,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276869,
+        "num": 243338,
+        "word": "冥夜被煮",
+        "onboard_time": 1681259969,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242641,
+        "num": 242641,
+        "word": "买了个五斤的芒果",
+        "onboard_time": 1681225110,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239800,
+        "num": 239800,
+        "word": "内娱最强男腰精",
+        "onboard_time": 1681226491,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237524,
+        "num": 237524,
+        "word": "ENHYPEN确定5月回归",
+        "onboard_time": 1681262547,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205020,
+        "num": 205020,
+        "word": "山东事业编",
+        "onboard_time": 1681263264,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202489,
+        "num": 202489,
+        "word": "Lisa将参与太阳新专辑",
+        "onboard_time": 1681263327,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200703,
+        "num": 200703,
+        "word": "熊猫宝宝吓到奶瓶都扔了",
+        "onboard_time": 1681261107,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199042,
+        "num": 199042,
+        "word": "格莱美慢镜头",
+        "onboard_time": 1681263623,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179740,
+        "num": 179740,
+        "word": "王一博从ye到yue",
+        "onboard_time": 1681217067,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174616,
+        "num": 174616,
+        "word": "劣质衣服居然有致癌风险",
+        "onboard_time": 1681223308,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168813,
+        "num": 168813,
+        "word": "男子让女店员帮试文胸遭怒怼",
+        "onboard_time": 1681217729,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148842,
+        "num": 148842,
+        "word": "哈兰德纪录收割机",
+        "onboard_time": 1681259730,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148087,
+        "num": 148087,
+        "word": "高校图书馆非事业编岗位百人竞争",
+        "onboard_time": 1681219048,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 138380,
+        "num": 138380,
+        "word": "LESSERAFIM新专预告图",
+        "onboard_time": 1681260627,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138058,
+        "num": 138058,
+        "word": "白鹿二搭定律",
+        "onboard_time": 1681227569,
+        "rank": 37,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 136422,
+        "num": 136422,
+        "word": "NBA附加赛",
+        "onboard_time": 1681263745,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135103,
+        "num": 135103,
+        "word": "杨幂新剧",
+        "onboard_time": 1681225647,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133027,
+        "num": 133027,
+        "word": "韩国男爱豆小卡的手指甲",
+        "onboard_time": 1681224150,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130292,
+        "num": 130292,
+        "word": "游客举报淄博出租司机不打表多收5元",
+        "onboard_time": 1681222709,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125194,
+        "num": 125194,
+        "word": "第一次接触到小朋友的烦恼",
+        "onboard_time": 1681224028,
+        "rank": 42,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 124994,
+        "num": 124994,
+        "word": "娜扎异域神女造型",
+        "onboard_time": 1681220908,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123723,
+        "num": 123723,
+        "word": "瘫痪女童复健3年能骑自行车了",
+        "onboard_time": 1681261587,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120016,
+        "num": 120016,
+        "word": "王俊凯艺术晚宴花絮",
+        "onboard_time": 1681258886,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119516,
+        "num": 119516,
+        "word": "台媒报道吴磊周雨彤吻戏",
+        "onboard_time": 1681225591,
+        "rank": 46,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 113091,
+        "num": 113091,
+        "word": "上班摸鱼会影响工作吗",
+        "onboard_time": 1681227749,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 94000,
+        "num": 113049,
+        "word": "BLG晋级MSI",
+        "onboard_time": 1681220849,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82116,
+        "num": 112873,
+        "word": "EDG",
+        "onboard_time": 1681221390,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记在广东省考察调研#"
+    }
+  }
+}

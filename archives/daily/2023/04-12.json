@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681262530912,
+  "endTime": 1681263959839,
   "band_list": [
     {
       "raw_hot": 2569622,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928021,
+      "num": 928021,
+      "word": "成都草莓音乐节一男子对警察竖中指",
+      "onboard_time": 1681259131,
+      "rank": 4,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 899284,
       "num": 225208,
       "word": "农妇因信访被控寻衅滋事",
       "onboard_time": 1681256965,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 737709,
-      "num": 737709,
-      "word": "成都草莓音乐节一男子对警察竖中指",
-      "onboard_time": 1681259131,
-      "rank": 4,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 682260,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 580001,
-      "num": 225193,
+      "num": 246543,
       "word": "小伙被公司发配到乡镇惹网友羡慕",
       "onboard_time": 1681258287,
       "rank": 21,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447467,
+      "num": 447467,
+      "word": "熙米鹿",
+      "onboard_time": 1681260207,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445061,
       "num": 445061,
       "word": "冥夜桑酒 哑巴爱情",
@@ -172,19 +180,19 @@
     },
     {
       "raw_hot": 423264,
-      "num": 225184,
+      "num": 245239,
       "word": "菩提祖师才是悟空唯一的师父",
       "onboard_time": 1681258647,
       "rank": 22,
       "category": "情感,影视"
     },
     {
-      "raw_hot": 395442,
-      "num": 395442,
-      "word": "熙米鹿",
-      "onboard_time": 1681260207,
-      "rank": 13,
-      "category": "影视"
+      "raw_hot": 386323,
+      "num": 386323,
+      "word": "去年国内人均存款增加1.2万",
+      "onboard_time": 1681261887,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 364621,
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361934,
-      "num": 225176,
-      "word": "买了个五斤的芒果",
-      "onboard_time": 1681225110,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 361927,
-      "num": 361927,
+      "raw_hot": 362716,
+      "num": 362716,
       "word": "撒贝宁台下认真做笔记",
       "onboard_time": 1681260689,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361934,
+      "num": 242641,
+      "word": "买了个五斤的芒果",
+      "onboard_time": 1681225110,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 349587,
@@ -217,6 +225,14 @@
       "onboard_time": 1681225647,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338282,
+      "num": 338282,
+      "word": "电锯人",
+      "onboard_time": 1681260088,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 337281,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 325599,
-      "num": 225151,
+      "num": 239800,
       "word": "内娱最强男腰精",
       "onboard_time": 1681226491,
       "rank": 21,
@@ -259,6 +275,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 306229,
+      "num": 243782,
+      "word": "男子为养近200只猫雇4人轮班照顾",
+      "onboard_time": 1681260566,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304815,
       "num": 304815,
       "word": "本轮沙尘已跨过长江",
@@ -267,24 +291,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301390,
-      "num": 225173,
-      "word": "男子为养近200只猫雇4人轮班照顾",
-      "onboard_time": 1681260566,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300651,
-      "num": 300651,
-      "word": "电锯人",
-      "onboard_time": 1681260088,
-      "rank": 18,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 267428,
-      "num": 225160,
+      "raw_hot": 276869,
+      "num": 243338,
       "word": "冥夜被煮",
       "onboard_time": 1681259969,
       "rank": 25,
@@ -339,6 +347,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 237524,
+      "num": 237524,
+      "word": "ENHYPEN确定5月回归",
+      "onboard_time": 1681262547,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237287,
       "num": 237287,
       "word": "高诗岩",
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205020,
+      "num": 205020,
+      "word": "山东事业编",
+      "onboard_time": 1681263264,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 203873,
       "num": 203873,
       "word": "耿爽在安理会点名某军事大国",
@@ -387,12 +411,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 202489,
+      "num": 202489,
+      "word": "Lisa将参与太阳新专辑",
+      "onboard_time": 1681263327,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200769,
       "num": 200769,
       "word": "玄彬东京活动生图",
       "onboard_time": 1681223609,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 199042,
+      "num": 199042,
+      "word": "格莱美慢镜头",
+      "onboard_time": 1681263623,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 196785,
@@ -547,12 +587,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 136445,
-      "num": 136445,
-      "word": "去年国内人均存款增加1.2万",
-      "onboard_time": 1681261887,
-      "rank": 42,
-      "category": "财经,社会新闻"
+      "raw_hot": 136422,
+      "num": 136422,
+      "word": "NBA附加赛",
+      "onboard_time": 1681263745,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 135977,
