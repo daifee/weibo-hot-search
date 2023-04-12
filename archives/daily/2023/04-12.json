@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681308983092,
+  "endTime": 1681310001232,
   "band_list": [
     {
       "raw_hot": 3091589,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2451633,
+      "num": 629998,
+      "word": "丈夫隐瞒性功能障碍被起诉撤销婚姻",
+      "onboard_time": 1681306111,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2444285,
       "num": 2444285,
       "word": "泰国坠崖孕妇仍无法离婚",
@@ -57,14 +65,6 @@
       "onboard_time": 1681284806,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2125017,
-      "num": 566561,
-      "word": "丈夫隐瞒性功能障碍被起诉撤销婚姻",
-      "onboard_time": 1681306111,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2124400,
@@ -105,6 +105,14 @@
       "onboard_time": 1681257507,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1767936,
+      "num": 1767936,
+      "word": "王者荣耀",
+      "onboard_time": 1681268905,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 1708768,
@@ -259,6 +267,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 947477,
+      "num": 947477,
+      "word": "王者荣耀东方来客新赛季",
+      "onboard_time": 1681308633,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 928021,
       "num": 928021,
       "word": "成都草莓音乐节一男子对警察竖中指",
@@ -305,14 +321,6 @@
       "onboard_time": 1681288889,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 769281,
-      "num": 769281,
-      "word": "王者荣耀",
-      "onboard_time": 1681268905,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 761885,
@@ -387,8 +395,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 653888,
-      "num": 653888,
+      "raw_hot": 672192,
+      "num": 672192,
+      "word": "陈都灵 电子木鱼",
+      "onboard_time": 1681308454,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 658125,
+      "num": 658125,
       "word": "白鹿能不能再演十集反派",
       "onboard_time": 1681306470,
       "rank": 6,
@@ -409,6 +425,14 @@
       "onboard_time": 1681208666,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 643519,
+      "num": 643519,
+      "word": "社保挂靠代缴已被明确为违法",
+      "onboard_time": 1681308032,
+      "rank": 22,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 631709,
@@ -459,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598934,
+      "num": 598934,
+      "word": "美生物实验室感染病毒的小白鼠逃了",
+      "onboard_time": 1681304548,
+      "rank": 19,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 598482,
       "num": 411487,
       "word": "网友在泰国偶遇杨紫",
@@ -473,14 +505,6 @@
       "onboard_time": 1681273410,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 594803,
-      "num": 594803,
-      "word": "美生物实验室感染病毒的小白鼠逃了",
-      "onboard_time": 1681304548,
-      "rank": 19,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 590120,
@@ -691,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464132,
+      "num": 464132,
+      "word": "偶遇虞书欣蹲在垃圾桶旁",
+      "onboard_time": 1681307554,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456316,
       "num": 456316,
       "word": "王一博从ye到yue",
@@ -779,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 429590,
-      "num": 429590,
-      "word": "偶遇虞书欣蹲在垃圾桶旁",
-      "onboard_time": 1681307554,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 423890,
       "num": 423890,
       "word": "故宫门票",
@@ -801,6 +825,14 @@
       "onboard_time": 1681258647,
       "rank": 22,
       "category": "情感,影视"
+    },
+    {
+      "raw_hot": 423210,
+      "num": 423210,
+      "word": "90所大学撤销公共事业管理专业",
+      "onboard_time": 1681305930,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 421644,
@@ -851,14 +883,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 408291,
-      "num": 408291,
-      "word": "90所大学撤销公共事业管理专业",
-      "onboard_time": 1681305930,
-      "rank": 38,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 404972,
       "num": 404972,
       "word": "迪丽热巴开机图",
@@ -897,14 +921,6 @@
       "onboard_time": 1681275749,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 389659,
-      "num": 389659,
-      "word": "王者荣耀东方来客新赛季",
-      "onboard_time": 1681308633,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 368497,
@@ -947,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363429,
+      "num": 352676,
+      "word": "减肥对外貌的改变可以有多大",
+      "onboard_time": 1681295547,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362716,
       "num": 362716,
       "word": "撒贝宁台下认真做笔记",
@@ -979,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360137,
+      "num": 360137,
+      "word": "身体出现小毛病的真实原因",
+      "onboard_time": 1681308092,
+      "rank": 32,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 359988,
       "num": 359988,
       "word": "商务部对台进行贸易壁垒调查",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1681267225,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 358771,
-      "num": 343754,
-      "word": "减肥对外貌的改变可以有多大",
-      "onboard_time": 1681295547,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 358059,
@@ -1075,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338555,
+      "num": 338555,
+      "word": "长月烬明 烬门",
+      "onboard_time": 1681308935,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 338282,
       "num": 338282,
       "word": "电锯人",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1681269807,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 328386,
+      "num": 328386,
+      "word": "75岁施瓦辛格发上街修路视频",
+      "onboard_time": 1681308214,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 327990,
@@ -1251,22 +1291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 295602,
-      "num": 295602,
-      "word": "社保挂靠代缴已被明确为违法",
-      "onboard_time": 1681308032,
-      "rank": 22,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 289518,
-      "num": 218652,
-      "word": "陈都灵 电子木鱼",
-      "onboard_time": 1681308454,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 288214,
       "num": 288214,
       "word": "MetGala拟邀嘉宾名单",
@@ -1355,6 +1379,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 269354,
+      "num": 269354,
+      "word": "魏大勋坐在机场回复粉丝",
+      "onboard_time": 1681309234,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267045,
       "num": 267045,
       "word": "中方回应美方寻求重新安排布林肯访华",
@@ -1395,12 +1427,12 @@
       "category": "科技,作品衍生"
     },
     {
-      "raw_hot": 259769,
-      "num": 259769,
-      "word": "75岁施瓦辛格发上街修路视频",
-      "onboard_time": 1681308214,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 259561,
+      "num": 259561,
+      "word": "王者新赛季",
+      "onboard_time": 1681309234,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 257966,
@@ -1419,12 +1451,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257270,
+      "num": 257270,
+      "word": "张杰说西安的你们懂我吗",
+      "onboard_time": 1681308575,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 256830,
       "num": 256830,
       "word": "小米",
       "onboard_time": 1681278926,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 255753,
+      "num": 255753,
+      "word": "宋雨琦奔跑吧拍摄花絮",
+      "onboard_time": 1681307373,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 254811,
@@ -1611,14 +1659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218679,
-      "num": 218679,
-      "word": "宋雨琦奔跑吧拍摄花絮",
-      "onboard_time": 1681307373,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217521,
       "num": 217521,
       "word": "校方要求学生外出实习是否必要",
@@ -1675,14 +1715,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 211168,
-      "num": 211168,
-      "word": "身体出现小毛病的真实原因",
-      "onboard_time": 1681308092,
-      "rank": 32,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 210037,
       "num": 210037,
       "word": "为什么你到现在还没谈恋爱",
@@ -1729,14 +1761,6 @@
       "onboard_time": 1681302568,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207090,
-      "num": 207090,
-      "word": "张杰说西安的你们懂我吗",
-      "onboard_time": 1681308575,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 206778,
@@ -2003,6 +2027,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 195026,
+      "num": 195026,
+      "word": "TTG战胜TES",
+      "onboard_time": 1681309535,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193981,
       "num": 211033,
       "word": "陈立农线上首唱会官宣",
@@ -2065,6 +2097,14 @@
       "onboard_time": 1681301186,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 188689,
+      "num": 188689,
+      "word": "添添",
+      "onboard_time": 1681309775,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188681,
@@ -2203,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182351,
+      "num": 182351,
+      "word": "王源上海演唱会许可证",
+      "onboard_time": 1681309715,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181630,
       "num": 168935,
       "word": "长月烬明十二神全部陨落",
@@ -2304,6 +2352,14 @@
       "word": "青春之城今日开播",
       "onboard_time": 1681277309,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171317,
+      "num": 171317,
+      "word": "董洁说飞天不是一个人是一群人",
+      "onboard_time": 1681309297,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -2515,14 +2571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154882,
-      "num": 154882,
-      "word": "长月烬明 烬门",
-      "onboard_time": 1681308935,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 154764,
       "num": 154764,
       "word": "也不知道谁给我妈下的任务",
@@ -2680,6 +2728,14 @@
       "word": "冥夜卷而不平是常态",
       "onboard_time": 1681284086,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140204,
+      "num": 140204,
+      "word": "澹台烬我劝你不要学冥夜",
+      "onboard_time": 1681309957,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -3040,6 +3096,9 @@
     },
     {
       "word": "#农村特色产业前景广阔#"
+    },
+    {
+      "word": "#习近平到南部战区海军视察调研#"
     }
   ]
 }

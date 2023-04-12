@@ -1,0 +1,410 @@
+{
+  "runTime": 1681310001232,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1767936,
+        "num": 1767936,
+        "word": "王者荣耀",
+        "onboard_time": 1681308814,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1445874,
+        "num": 1445874,
+        "word": "北京人均存款已接近27万",
+        "onboard_time": 1681303948,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 62241,
+        "num": 1173866,
+        "word": "中国有约",
+        "onboard_time": 1681304129,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1107293,
+        "num": 1107293,
+        "word": "不要穿试衣间里的鞋",
+        "onboard_time": 1681299570,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 947477,
+        "num": 947477,
+        "word": "王者荣耀东方来客新赛季",
+        "onboard_time": 1681308633,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 887046,
+        "num": 887046,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1681306592,
+        "rank": 5,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 787250,
+        "num": 787250,
+        "word": "蛟蚌分离",
+        "onboard_time": 1681297348,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 672192,
+        "num": 672192,
+        "word": "陈都灵 电子木鱼",
+        "onboard_time": 1681308454,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 658125,
+        "num": 658125,
+        "word": "白鹿能不能再演十集反派",
+        "onboard_time": 1681306470,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643519,
+        "num": 643519,
+        "word": "社保挂靠代缴已被明确为违法",
+        "onboard_time": 1681308032,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2451633,
+        "num": 629998,
+        "word": "丈夫隐瞒性功能障碍被起诉撤销婚姻",
+        "onboard_time": 1681306111,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598934,
+        "num": 598934,
+        "word": "美生物实验室感染病毒的小白鼠逃了",
+        "onboard_time": 1681304548,
+        "rank": 11,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 560711,
+        "num": 560711,
+        "word": "六公主谈柯南争议",
+        "onboard_time": 1681293089,
+        "rank": 12,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 464132,
+        "num": 464132,
+        "word": "偶遇虞书欣蹲在垃圾桶旁",
+        "onboard_time": 1681307554,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462406,
+        "num": 462406,
+        "word": "齐思钧直播",
+        "onboard_time": 1681305209,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456053,
+        "num": 456053,
+        "word": "女儿出首付母亲买房后把产权给儿子",
+        "onboard_time": 1681302627,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 455923,
+        "num": 455923,
+        "word": "特斯拉降价",
+        "onboard_time": 1681304248,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 423210,
+        "num": 423210,
+        "word": "90所大学撤销公共事业管理专业",
+        "onboard_time": 1681305930,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 378981,
+        "num": 378981,
+        "word": "彭小苒新剧红色婚服",
+        "onboard_time": 1681305450,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360137,
+        "num": 360137,
+        "word": "身体出现小毛病的真实原因",
+        "onboard_time": 1681308092,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 363429,
+        "num": 352676,
+        "word": "减肥对外貌的改变可以有多大",
+        "onboard_time": 1681295547,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338555,
+        "num": 338555,
+        "word": "长月烬明 烬门",
+        "onboard_time": 1681308935,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328386,
+        "num": 328386,
+        "word": "75岁施瓦辛格发上街修路视频",
+        "onboard_time": 1681308214,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319453,
+        "num": 319453,
+        "word": "冥夜桑酒BE真的太合理了",
+        "onboard_time": 1681304309,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 312762,
+        "num": 312762,
+        "word": "故宫门票",
+        "onboard_time": 1681305088,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 271430,
+        "num": 271430,
+        "word": "宋茜短发齐刘海",
+        "onboard_time": 1681305450,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269608,
+        "num": 269608,
+        "word": "罗云熙BJD娃娃",
+        "onboard_time": 1681305450,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269354,
+        "num": 269354,
+        "word": "魏大勋坐在机场回复粉丝",
+        "onboard_time": 1681309234,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259561,
+        "num": 259561,
+        "word": "王者新赛季",
+        "onboard_time": 1681309234,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257270,
+        "num": 257270,
+        "word": "张杰说西安的你们懂我吗",
+        "onboard_time": 1681308575,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255753,
+        "num": 255753,
+        "word": "宋雨琦奔跑吧拍摄花絮",
+        "onboard_time": 1681307373,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250063,
+        "num": 250063,
+        "word": "终于等到榴莲大降价",
+        "onboard_time": 1681297887,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243767,
+        "num": 243767,
+        "word": "半熟恋人 老孙",
+        "onboard_time": 1681297526,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224635,
+        "num": 224635,
+        "word": "两女子吃自助打包400元食材被拘",
+        "onboard_time": 1681298606,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203850,
+        "num": 203850,
+        "word": "电商主播年薪千万降到年薪百万",
+        "onboard_time": 1681299388,
+        "rank": 34,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 195026,
+        "num": 195026,
+        "word": "TTG战胜TES",
+        "onboard_time": 1681309535,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194741,
+        "num": 194741,
+        "word": "flower",
+        "onboard_time": 1681303888,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188689,
+        "num": 188689,
+        "word": "添添",
+        "onboard_time": 1681309775,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182351,
+        "num": 182351,
+        "word": "王源上海演唱会许可证",
+        "onboard_time": 1681309715,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171317,
+        "num": 171317,
+        "word": "董洁说飞天不是一个人是一群人",
+        "onboard_time": 1681309297,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1254047,
+        "num": 170845,
+        "word": "女演员称怀孕后丈夫多次收涉黄短信",
+        "onboard_time": 1681297287,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 170302,
+        "num": 170302,
+        "word": "减肥的人晚上都在吃什么",
+        "onboard_time": 1681284806,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162948,
+        "num": 162948,
+        "word": "中了一千万还去上班吗",
+        "onboard_time": 1681290928,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158101,
+        "num": 158101,
+        "word": "徐璐跳了flower",
+        "onboard_time": 1681301789,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153676,
+        "num": 153676,
+        "word": "KPOP追星最后悔三件事",
+        "onboard_time": 1681294885,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146164,
+        "num": 146164,
+        "word": "张柏芝路透状态",
+        "onboard_time": 1681301309,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140204,
+        "num": 140204,
+        "word": "澹台烬我劝你不要学冥夜",
+        "onboard_time": 1681309957,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140154,
+        "num": 140154,
+        "word": "极氪X",
+        "onboard_time": 1681305209,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139834,
+        "num": 139834,
+        "word": "谭松韵海洋馆随拍",
+        "onboard_time": 1681308153,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137760,
+        "num": 137760,
+        "word": "TTG",
+        "onboard_time": 1681307194,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平到南部战区海军视察调研#"
+    }
+  }
+}
