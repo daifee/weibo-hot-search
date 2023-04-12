@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681312688226,
+  "endTime": 1681313619098,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1659,6 +1659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1518877,
+      "num": 1091789,
+      "word": "添添",
+      "onboard_time": 1681309775,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1505814,
       "num": 209992,
       "word": "女子醉酒后在酒店遭两次性侵",
@@ -1713,14 +1721,6 @@
       "onboard_time": 1680429150,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1465791,
-      "num": 1091789,
-      "word": "添添",
-      "onboard_time": 1681309775,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1465661,
@@ -7011,6 +7011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 524598,
+      "num": 445614,
+      "word": "美香添添小崽要一起回家",
+      "onboard_time": 1681311694,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524114,
       "num": 524114,
       "word": "格莱美慢镜头",
@@ -8515,8 +8523,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 434437,
-      "num": 434437,
+      "raw_hot": 434897,
+      "num": 434897,
       "word": "长月烬明 烬门",
       "onboard_time": 1681308935,
       "rank": 47,
@@ -9811,6 +9819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384527,
+      "num": 384527,
+      "word": "感觉全网中了flower的毒",
+      "onboard_time": 1681310797,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 384022,
       "num": 384022,
       "word": "白鹿吻戏",
@@ -9857,14 +9873,6 @@
       "onboard_time": 1681190547,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381390,
-      "num": 381390,
-      "word": "感觉全网中了flower的毒",
-      "onboard_time": 1681310797,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 380827,
@@ -12320,14 +12328,6 @@
       "word": "大河报",
       "onboard_time": 1680479848,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299500,
-      "num": 299500,
-      "word": "美香添添小崽要一起回家",
-      "onboard_time": 1681311694,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -16619,6 +16619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214103,
+      "num": 214103,
+      "word": "王者荣耀S31赛季延迟更新",
+      "onboard_time": 1681311453,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214055,
       "num": 214055,
       "word": "钟南山称条件允许可不戴口罩",
@@ -17595,6 +17603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205764,
+      "num": 205764,
+      "word": "不吃晚餐真的会变瘦吗",
+      "onboard_time": 1681312653,
+      "rank": 48,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 205729,
       "num": 205729,
       "word": "澹台烬反杀成王",
@@ -18291,6 +18307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202554,
+      "num": 202554,
+      "word": "齐思钧直播推荐淄博烧烤",
+      "onboard_time": 1681313193,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202542,
       "num": 202542,
       "word": "刘耀文新歌唱rap",
@@ -18603,6 +18627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201134,
+      "num": 201134,
+      "word": "白敬亭宋轶长风渡6月播出",
+      "onboard_time": 1681313131,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201069,
       "num": 217363,
       "word": "一直不回家也不会想家",
@@ -18793,14 +18825,6 @@
       "onboard_time": 1681110393,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200204,
-      "num": 200204,
-      "word": "王者荣耀S31赛季延迟更新",
-      "onboard_time": 1681311453,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 200194,
@@ -21203,6 +21227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187062,
+      "num": 187062,
+      "word": "全圆佑 小卡",
+      "onboard_time": 1681313370,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186997,
       "num": 186997,
       "word": "张云龙顺着网线买单",
@@ -21649,6 +21681,14 @@
       "onboard_time": 1680589826,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183876,
+      "num": 183876,
+      "word": "杭州四季青部分市场禁止商家直播销售",
+      "onboard_time": 1681311934,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183844,
@@ -23859,6 +23899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159666,
+      "num": 159666,
+      "word": "开车出门千万要看好油表",
+      "onboard_time": 1681310194,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159508,
       "num": 159508,
       "word": "阿娇阿Sa同框合照",
@@ -23915,14 +23963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 159007,
-      "num": 159007,
-      "word": "开车出门千万要看好油表",
-      "onboard_time": 1681310194,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158998,
       "num": 158998,
       "word": "IVE正规专试听",
@@ -23961,6 +24001,14 @@
       "onboard_time": 1680995357,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158758,
+      "num": 158758,
+      "word": "猫咪进不了生肖是有原因的",
+      "onboard_time": 1681310313,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 158542,
@@ -26491,14 +26539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128987,
-      "num": 128987,
-      "word": "杭州四季青部分市场禁止商家直播销售",
-      "onboard_time": 1681311934,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128710,
       "num": 128710,
       "word": "黄景瑜问贾乃亮真的吗亮哥",
@@ -27049,14 +27089,6 @@
       "onboard_time": 1681110568,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 120468,
-      "num": 120468,
-      "word": "不吃晚餐真的会变瘦吗",
-      "onboard_time": 1681312653,
-      "rank": 48,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 120388,
