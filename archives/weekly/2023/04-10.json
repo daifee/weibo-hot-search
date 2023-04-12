@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681317541120,
+  "endTime": 1681319721325,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -947,6 +947,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 832139,
+      "num": 347471,
+      "word": "陈都灵早期等公交旧照",
+      "onboard_time": 1681316664,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 831893,
       "num": 831893,
       "word": "极限挑战第九季阵容官宣",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1681118248,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 742943,
-      "num": 347471,
-      "word": "陈都灵早期等公交旧照",
-      "onboard_time": 1681316664,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 735568,
@@ -8441,6 +8441,14 @@
       "onboard_time": 1681279226,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53786,
+      "num": 53786,
+      "word": "泼水节 拔拖鞋",
+      "onboard_time": 1681315527,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 48751,

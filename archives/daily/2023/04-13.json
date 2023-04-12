@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681317541120,
+  "endTime": 1681319721325,
   "band_list": [
     {
       "raw_hot": 2425491,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832139,
+      "num": 347471,
+      "word": "陈都灵早期等公交旧照",
+      "onboard_time": 1681316664,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 763269,
       "num": 94125,
       "word": "女演员称怀孕后丈夫多次收涉黄短信",
       "onboard_time": 1681297287,
       "rank": 42,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 742943,
-      "num": 347471,
-      "word": "陈都灵早期等公交旧照",
-      "onboard_time": 1681316664,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 714682,
@@ -409,6 +409,14 @@
       "onboard_time": 1681296087,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53786,
+      "num": 53786,
+      "word": "泼水节 拔拖鞋",
+      "onboard_time": 1681315527,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 37237,
