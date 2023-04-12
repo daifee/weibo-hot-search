@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681334081521,
+  "endTime": 1681335202766,
   "band_list": [
     {
       "raw_hot": 2425491,
@@ -451,6 +451,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 31606,
+      "num": 31606,
+      "word": "苏醒混迹内娱多年全凭三好",
+      "onboard_time": 1681333032,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29562,
       "num": 29562,
       "word": "欧冠联赛",
@@ -475,15 +483,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18758,
-      "num": 18758,
-      "word": "苏醒混迹内娱多年全凭三好",
-      "onboard_time": 1681333032,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14128,
+      "raw_hot": 14918,
       "num": 15680,
       "word": "井柏然白衬衫珍珠手链造型",
       "onboard_time": 1681329911,
