@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681276559989,
+  "endTime": 1681277595402,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -329,6 +329,14 @@
       "onboard_time": 1681255581,
       "rank": 14,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1344574,
+      "num": 1344574,
+      "word": "网店售三寸金莲缠足袜299一双",
+      "onboard_time": 1681275150,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1343366,
@@ -691,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 867049,
+      "num": 867049,
+      "word": "小伙年会喜提365天带薪休假",
+      "onboard_time": 1681275689,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 866668,
       "num": 866668,
       "word": "迪丽热巴进组",
@@ -819,12 +835,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 800971,
-      "num": 800971,
-      "word": "网店售三寸金莲缠足袜299一双",
-      "onboard_time": 1681275150,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 787358,
+      "num": 787358,
+      "word": "专家称北京打车太便宜应涨价",
+      "onboard_time": 1681275570,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 779929,
@@ -1475,14 +1491,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 553732,
-      "num": 553732,
-      "word": "专家称北京打车太便宜应涨价",
-      "onboard_time": 1681275570,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 553038,
       "num": 553038,
       "word": "张杰演唱会",
@@ -1779,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 476665,
-      "num": 476665,
-      "word": "小伙年会喜提365天带薪休假",
-      "onboard_time": 1681275689,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473555,
       "num": 473555,
       "word": "哈尔滨",
@@ -1857,6 +1857,14 @@
       "onboard_time": 1681214845,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 453646,
+      "num": 453646,
+      "word": "拉塞尔不愧为水拉",
+      "onboard_time": 1681275749,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 452672,
@@ -2067,6 +2075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 415303,
+      "num": 415303,
+      "word": "张凌赫高得好突出",
+      "onboard_time": 1681275451,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 414848,
       "num": 414848,
       "word": "白鹿看别人拍吻戏",
@@ -2113,14 +2129,6 @@
       "onboard_time": 1681136252,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409862,
-      "num": 409862,
-      "word": "拉塞尔不愧为水拉",
-      "onboard_time": 1681275749,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 407700,
@@ -2251,14 +2259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398889,
-      "num": 398889,
-      "word": "张凌赫高得好突出",
-      "onboard_time": 1681275451,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 397875,
       "num": 397875,
       "word": "冥夜天欢VS冥夜桑酒",
@@ -2313,6 +2313,14 @@
       "onboard_time": 1681099111,
       "rank": 23,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 392185,
+      "num": 392185,
+      "word": "白玉兰奖提名预测",
+      "onboard_time": 1681275749,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 390743,
@@ -2731,14 +2739,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 325863,
-      "num": 325863,
-      "word": "白玉兰奖提名预测",
-      "onboard_time": 1681275749,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325756,
       "num": 312339,
       "word": "梁友安坦白自己不能生孩子",
@@ -2777,6 +2777,14 @@
       "onboard_time": 1681182269,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 320094,
+      "num": 291817,
+      "word": "男子被捅后趴在地上淡定玩手机",
+      "onboard_time": 1681275389,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319570,
@@ -3147,6 +3155,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 278709,
+      "num": 278709,
+      "word": "湖人季后赛对阵灰熊",
+      "onboard_time": 1681277309,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278632,
       "num": 278632,
       "word": "利剑玫瑰",
@@ -3172,7 +3188,7 @@
     },
     {
       "raw_hot": 274055,
-      "num": 264885,
+      "num": 269636,
       "word": "今天好多剧开机",
       "onboard_time": 1681274790,
       "rank": 30,
@@ -3467,6 +3483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241421,
+      "num": 241421,
+      "word": "招惹",
+      "onboard_time": 1681275268,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241356,
       "num": 241356,
       "word": "长月烬明新副本细节",
@@ -3537,6 +3561,14 @@
       "onboard_time": 1681228049,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 236455,
+      "num": 236455,
+      "word": "詹姆斯传球",
+      "onboard_time": 1681275988,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 235888,
@@ -3643,14 +3675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231666,
-      "num": 231666,
-      "word": "招惹",
-      "onboard_time": 1681275268,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 231453,
       "num": 231453,
       "word": "iOS15.7.5正式版发布",
@@ -3737,14 +3761,6 @@
       "onboard_time": 1681181904,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227737,
-      "num": 227737,
-      "word": "詹姆斯传球",
-      "onboard_time": 1681275988,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 226028,
@@ -4179,6 +4195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206551,
+      "num": 206551,
+      "word": "LPL十大选手定妆照",
+      "onboard_time": 1681276529,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206116,
       "num": 206116,
       "word": "淄博青年驿站",
@@ -4201,6 +4225,14 @@
       "onboard_time": 1681089927,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204542,
+      "num": 204542,
+      "word": "湖人晋级季后赛",
+      "onboard_time": 1681277007,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 204312,
@@ -4369,14 +4401,6 @@
       "onboard_time": 1681103430,
       "rank": 39,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 201428,
-      "num": 201428,
-      "word": "男子被捅后趴在地上淡定玩手机",
-      "onboard_time": 1681275389,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201260,
@@ -4707,12 +4731,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 194917,
-      "num": 194917,
-      "word": "LPL十大选手定妆照",
-      "onboard_time": 1681276529,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 195196,
+      "num": 195196,
+      "word": "张兰招聘高学历主播",
+      "onboard_time": 1681275689,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 194907,
@@ -4745,6 +4769,14 @@
       "onboard_time": 1681096648,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193856,
+      "num": 193856,
+      "word": "施罗德绝杀",
+      "onboard_time": 1681277126,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 193629,
@@ -4857,6 +4889,14 @@
       "onboard_time": 1681128447,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189813,
+      "num": 182741,
+      "word": "女子疯狂网上购物确诊帕金森",
+      "onboard_time": 1681276889,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189779,
@@ -5211,6 +5251,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 179014,
+      "num": 179014,
+      "word": "伯远说最后两场演唱会不留遗憾",
+      "onboard_time": 1681277426,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178839,
       "num": 178839,
       "word": "金智秀说我是你们的宝宝",
@@ -5331,6 +5379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171813,
+      "num": 171813,
+      "word": "青春之城今日开播",
+      "onboard_time": 1681277309,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171423,
       "num": 171423,
       "word": "冥夜说澹台烬马上回来",
@@ -5425,14 +5481,6 @@
       "onboard_time": 1681272148,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 168447,
-      "num": 168447,
-      "word": "张兰招聘高学历主播",
-      "onboard_time": 1681275689,
-      "rank": 49,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 168073,
