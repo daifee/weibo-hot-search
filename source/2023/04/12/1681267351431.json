@@ -1,0 +1,410 @@
+{
+  "runTime": 1681267351431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1755523,
+        "num": 1755523,
+        "word": "淄博老板娘为赶高铁小伙1V1烤串",
+        "onboard_time": 1681257507,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1386251,
+        "num": 1386251,
+        "word": "00后网红马若松遭遇车祸身亡",
+        "onboard_time": 1681265725,
+        "rank": 1,
+        "category": "社会负面,网红"
+      },
+      {
+        "raw_hot": 19577,
+        "num": 1062304,
+        "word": "消博会开馆首日有哪些亮点",
+        "onboard_time": 1681216706,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988589,
+        "num": 988589,
+        "word": "丁克的我想通了生孩子的意义",
+        "onboard_time": 1681265845,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 817274,
+        "num": 817274,
+        "word": "法国续租大熊猫欢欢和圆仔",
+        "onboard_time": 1681264466,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665547,
+        "num": 665547,
+        "word": "奔跑吧第十一季定档",
+        "onboard_time": 1681266085,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658871,
+        "num": 658871,
+        "word": "去年国内人均存款增加1.2万",
+        "onboard_time": 1681261887,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 656163,
+        "num": 656163,
+        "word": "成都草莓音乐节一男子对警察竖中指",
+        "onboard_time": 1681259131,
+        "rank": 7,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 561095,
+        "num": 561095,
+        "word": "原神3.6",
+        "onboard_time": 1681265605,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 523603,
+        "num": 523603,
+        "word": "长月烬明微博开分7.3",
+        "onboard_time": 1681264286,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1035974,
+        "num": 523017,
+        "word": "年轻人不结婚不生娃反促进宠物经济",
+        "onboard_time": 1681255581,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 786786,
+        "num": 518578,
+        "word": "关晓彤曾说谁会闲的花七万买包",
+        "onboard_time": 1681226432,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599875,
+        "num": 515762,
+        "word": "泰国坠崖孕妇仍无法离婚",
+        "onboard_time": 1681266625,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640979,
+        "num": 512939,
+        "word": "专家称年轻人不生小孩是不对的",
+        "onboard_time": 1681225710,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512284,
+        "num": 512284,
+        "word": "格莱美慢镜头",
+        "onboard_time": 1681263623,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392120,
+        "num": 392120,
+        "word": "南京大屠杀幸存者郑锦阳逝世",
+        "onboard_time": 1681264823,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309449,
+        "num": 309449,
+        "word": "撒贝宁台下认真做笔记",
+        "onboard_time": 1681260689,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294660,
+        "num": 294660,
+        "word": "山东事业编",
+        "onboard_time": 1681263264,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292652,
+        "num": 292652,
+        "word": "利剑玫瑰开机路透",
+        "onboard_time": 1681264105,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280686,
+        "num": 280686,
+        "word": "白鹿想和杨幂互换衣橱",
+        "onboard_time": 1681266565,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407846,
+        "num": 279199,
+        "word": "专家称子女是长周期的耐用消费品",
+        "onboard_time": 1681258108,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306475,
+        "num": 278597,
+        "word": "Lisa将参与太阳新专辑",
+        "onboard_time": 1681263327,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272723,
+        "num": 272723,
+        "word": "小伙被公司发配到乡镇惹网友羡慕",
+        "onboard_time": 1681258287,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248334,
+        "num": 248334,
+        "word": "熙米鹿",
+        "onboard_time": 1681260207,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 345660,
+        "num": 246050,
+        "word": "专家建议有实力有担当的人多生孩子",
+        "onboard_time": 1681258767,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236923,
+        "num": 236923,
+        "word": "利剑玫瑰",
+        "onboard_time": 1681264286,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236311,
+        "num": 236311,
+        "word": "网红路牌为什么不网红了",
+        "onboard_time": 1681227929,
+        "rank": 26,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 313811,
+        "num": 229666,
+        "word": "沈阳三孩家庭每月发500元至孩子3岁",
+        "onboard_time": 1681259426,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218254,
+        "num": 218254,
+        "word": "利剑玫瑰全阵容官宣",
+        "onboard_time": 1681266444,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215891,
+        "num": 215891,
+        "word": "网友在泰国偶遇杨紫",
+        "onboard_time": 1681226851,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223328,
+        "num": 215815,
+        "word": "为什么大家反感专家",
+        "onboard_time": 1681265006,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214215,
+        "num": 214215,
+        "word": "韩素希紫色毛衫",
+        "onboard_time": 1681265546,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 211315,
+        "num": 211315,
+        "word": "NBA附加赛",
+        "onboard_time": 1681263745,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200094,
+        "num": 200094,
+        "word": "中国网友韩国偶遇崔显旭",
+        "onboard_time": 1681266686,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194710,
+        "num": 194710,
+        "word": "老鹰扑灭热火",
+        "onboard_time": 1681266205,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189583,
+        "num": 189583,
+        "word": "虞书欣去了洛杉矶环球影城",
+        "onboard_time": 1681267108,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188681,
+        "num": 188681,
+        "word": "奔跑吧",
+        "onboard_time": 1681266867,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188267,
+        "num": 188267,
+        "word": "男子为养近200只猫雇4人轮班照顾",
+        "onboard_time": 1681260566,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185837,
+        "num": 185837,
+        "word": "电锯人",
+        "onboard_time": 1681260088,
+        "rank": 38,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 185801,
+        "num": 185801,
+        "word": "INTO1新歌不说再见上线",
+        "onboard_time": 1681266085,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181255,
+        "num": 181255,
+        "word": "菩提祖师才是悟空唯一的师父",
+        "onboard_time": 1681258647,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180138,
+        "num": 180138,
+        "word": "陈都灵孙千撞衫",
+        "onboard_time": 1681223549,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180107,
+        "num": 180107,
+        "word": "森林狼vs湖人",
+        "onboard_time": 1681265485,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173784,
+        "num": 173784,
+        "word": "周三的精神状态",
+        "onboard_time": 1681265245,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 173208,
+        "num": 173208,
+        "word": "冥夜被煮",
+        "onboard_time": 1681259969,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171460,
+        "num": 171460,
+        "word": "剑网3",
+        "onboard_time": 1681265605,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168615,
+        "num": 168615,
+        "word": "冥夜桑酒 哑巴爱情",
+        "onboard_time": 1681256606,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152222,
+        "num": 165002,
+        "word": "是时候换台电车了",
+        "onboard_time": 1681267287,
+        "rank": 47,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 164783,
+        "num": 164783,
+        "word": "沙尘暴",
+        "onboard_time": 1681258530,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150624,
+        "num": 150624,
+        "word": "朴叙俊出演惊奇队长老公",
+        "onboard_time": 1681267225,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记在广东考察调研#"
+    }
+  }
+}
