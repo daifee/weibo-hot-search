@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681310001232,
+  "endTime": 1681312688226,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -48,6 +48,14 @@
       "word": "网店售三寸金莲缠足袜299一双",
       "onboard_time": 1681275150,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2861843,
+      "num": 629998,
+      "word": "丈夫隐瞒性功能障碍被起诉撤销婚姻",
+      "onboard_time": 1681306111,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -121,14 +129,6 @@
       "onboard_time": 1681125145,
       "rank": 45,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 2451633,
-      "num": 629998,
-      "word": "丈夫隐瞒性功能障碍被起诉撤销婚姻",
-      "onboard_time": 1681306111,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2444285,
@@ -403,6 +403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1465791,
+      "num": 1091789,
+      "word": "添添",
+      "onboard_time": 1681309775,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1465661,
       "num": 1465661,
       "word": "陈鑫海二公子",
@@ -649,6 +657,14 @@
       "onboard_time": 1681136310,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1088350,
+      "num": 1088350,
+      "word": "社保挂靠代缴已被明确为违法",
+      "onboard_time": 1681308032,
+      "rank": 22,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1076495,
@@ -1003,6 +1019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 797108,
+      "num": 797108,
+      "word": "陈都灵 电子木鱼",
+      "onboard_time": 1681308454,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 787358,
       "num": 787358,
       "word": "专家称北京打车太便宜应涨价",
@@ -1203,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690529,
+      "num": 537185,
+      "word": "魏大勋坐在机场回复粉丝",
+      "onboard_time": 1681309234,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 689285,
       "num": 689285,
       "word": "高加林终于知道顶替真相",
@@ -1257,14 +1289,6 @@
       "onboard_time": 1681092686,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 672192,
-      "num": 672192,
-      "word": "陈都灵 电子木鱼",
-      "onboard_time": 1681308454,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 669596,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1681204648,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 643519,
-      "num": 643519,
-      "word": "社保挂靠代缴已被明确为违法",
-      "onboard_time": 1681308032,
-      "rank": 22,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 641120,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1681289065,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 608035,
+      "num": 537174,
+      "word": "杨紫吃的什么面",
+      "onboard_time": 1681310915,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 603998,
@@ -2379,6 +2403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434437,
+      "num": 434437,
+      "word": "长月烬明 烬门",
+      "onboard_time": 1681308935,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 433690,
       "num": 778490,
       "word": "女孩思念去世父亲哭泣同学拥抱安慰",
@@ -2827,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381390,
+      "num": 381390,
+      "word": "感觉全网中了flower的毒",
+      "onboard_time": 1681310797,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 377306,
       "num": 377306,
       "word": "卢洋洋陈鑫海想二搭",
@@ -2849,6 +2889,14 @@
       "onboard_time": 1681102713,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 373910,
+      "num": 373910,
+      "word": "身体出现小毛病的真实原因",
+      "onboard_time": 1681308092,
+      "rank": 32,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 373754,
@@ -2953,14 +3001,6 @@
       "onboard_time": 1681298066,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 360137,
-      "num": 360137,
-      "word": "身体出现小毛病的真实原因",
-      "onboard_time": 1681308092,
-      "rank": 32,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 359988,
@@ -3195,14 +3235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 338555,
-      "num": 338555,
-      "word": "长月烬明 烬门",
-      "onboard_time": 1681308935,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 338282,
       "num": 338282,
       "word": "电锯人",
@@ -3435,6 +3467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315167,
+      "num": 315167,
+      "word": "欢门",
+      "onboard_time": 1681311033,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 314992,
       "num": 314992,
       "word": "易烊千玺称自己没把偶像当身份",
@@ -3617,6 +3657,14 @@
       "onboard_time": 1681191508,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 299500,
+      "num": 299500,
+      "word": "美香添添小崽要一起回家",
+      "onboard_time": 1681311694,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298579,
@@ -3923,14 +3971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269354,
-      "num": 269354,
-      "word": "魏大勋坐在机场回复粉丝",
-      "onboard_time": 1681309234,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267888,
       "num": 267888,
       "word": "SEVENTEEN新专史上强度最高编舞",
@@ -4201,6 +4241,14 @@
       "onboard_time": 1681221990,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242830,
+      "num": 242830,
+      "word": "为什么年轻人热衷考教资",
+      "onboard_time": 1681310373,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 242599,
@@ -4603,6 +4651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222656,
+      "num": 222656,
+      "word": "王源上海演唱会许可证",
+      "onboard_time": 1681309715,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221803,
       "num": 221803,
       "word": "当粉丝不让你质疑演技的时候",
@@ -4905,6 +4961,14 @@
       "onboard_time": 1681221811,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211887,
+      "num": 211887,
+      "word": "刀我别用薄冰刀",
+      "onboard_time": 1681312054,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 211364,
@@ -5409,6 +5473,14 @@
       "onboard_time": 1681110393,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200204,
+      "num": 200204,
+      "word": "王者荣耀S31赛季延迟更新",
+      "onboard_time": 1681311453,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 199938,
@@ -6019,14 +6091,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188689,
-      "num": 188689,
-      "word": "添添",
-      "onboard_time": 1681309775,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188681,
       "num": 188681,
       "word": "奔跑吧",
@@ -6321,14 +6385,6 @@
       "onboard_time": 1681140390,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 182351,
-      "num": 182351,
-      "word": "王源上海演唱会许可证",
-      "onboard_time": 1681309715,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 181427,
@@ -6937,6 +6993,14 @@
       "onboard_time": 1681171826,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159007,
+      "num": 159007,
+      "word": "开车出门千万要看好油表",
+      "onboard_time": 1681310194,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 158978,
@@ -7619,6 +7683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 130749,
+      "num": 130749,
+      "word": "沈小婷跳Nobody",
+      "onboard_time": 1681311754,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130168,
       "num": 130168,
       "word": "主人带着狗狗划船过江",
@@ -7657,6 +7729,14 @@
       "onboard_time": 1681202847,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128987,
+      "num": 128987,
+      "word": "杭州四季青部分市场禁止商家直播销售",
+      "onboard_time": 1681311934,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128710,
@@ -7731,6 +7811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124148,
+      "num": 124148,
+      "word": "余春羊欢迎陈浅加入组织",
+      "onboard_time": 1681311276,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124034,
       "num": 124034,
       "word": "原来熊猫也喜欢看热闹",
@@ -7785,6 +7873,14 @@
       "onboard_time": 1681050869,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 120468,
+      "num": 120468,
+      "word": "不吃晚餐真的会变瘦吗",
+      "onboard_time": 1681312653,
+      "rank": 48,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 120341,
