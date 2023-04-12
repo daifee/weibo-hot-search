@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681270433982,
+  "endTime": 1681273248036,
   "band_list": [
     {
       "raw_hot": 2748516,
@@ -19,12 +19,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2138209,
-      "num": 2138209,
+      "raw_hot": 2444285,
+      "num": 2444285,
       "word": "泰国坠崖孕妇仍无法离婚",
       "onboard_time": 1681266625,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1902088,
+      "num": 1902088,
+      "word": "唐朝诡事录",
+      "onboard_time": 1681270408,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1824614,
@@ -83,6 +91,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 919216,
+      "num": 919216,
+      "word": "张艺谋说满江红票房让他很意外",
+      "onboard_time": 1681270468,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 899284,
       "num": 225208,
       "word": "农妇因信访被控寻衅滋事",
@@ -107,7 +123,7 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 750159,
+      "raw_hot": 760394,
       "num": 750159,
       "word": "什么原因阻碍了你生小孩",
       "onboard_time": 1681268187,
@@ -139,20 +155,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 627349,
-      "num": 627349,
-      "word": "唐朝诡事录",
-      "onboard_time": 1681270408,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 622408,
       "num": 622408,
       "word": "网红路牌为什么不网红了",
       "onboard_time": 1681227929,
       "rank": 12,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 603174,
+      "num": 603174,
+      "word": "贾乃亮生日带罕见病儿童出游",
+      "onboard_time": 1681270587,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 598482,
@@ -371,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350604,
+      "num": 350604,
+      "word": "极限挑战全员上班路透",
+      "onboard_time": 1681270468,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349587,
       "num": 349587,
       "word": "杨幂新剧",
@@ -443,6 +467,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 310035,
+      "num": 310035,
+      "word": "李凯尔回应中国男篮归化",
+      "onboard_time": 1681271427,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 309436,
+      "num": 309436,
+      "word": "巴西总统访华",
+      "onboard_time": 1681272208,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 307203,
       "num": 278597,
       "word": "Lisa将参与太阳新专辑",
@@ -475,6 +515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295484,
+      "num": 288432,
+      "word": "没什么人做但很赚钱的工作",
+      "onboard_time": 1681270768,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 294697,
+      "num": 294697,
+      "word": "让全外网网友们爆炸震惊的男人",
+      "onboard_time": 1681269807,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278632,
       "num": 278632,
       "word": "利剑玫瑰",
@@ -505,6 +561,14 @@
       "onboard_time": 1681254258,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262679,
+      "num": 262679,
+      "word": "冥夜真身地包天",
+      "onboard_time": 1681271968,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 257966,
@@ -547,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244921,
+      "num": 244921,
+      "word": "MetGala拟邀嘉宾名单",
+      "onboard_time": 1681272509,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242510,
       "num": 165486,
       "word": "白鹿二搭定律",
@@ -569,6 +641,14 @@
       "onboard_time": 1681228049,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 233153,
+      "num": 233153,
+      "word": "罗云熙扫楼被送乌鸦",
+      "onboard_time": 1681271729,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 231032,
@@ -603,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214731,
+      "num": 214731,
+      "word": "王岳伦陪王诗龄拍汉服写真",
+      "onboard_time": 1681272989,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214215,
       "num": 214215,
       "word": "韩素希紫色毛衫",
@@ -617,6 +705,14 @@
       "onboard_time": 1681254860,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204312,
+      "num": 204312,
+      "word": "桑酒的必杀技",
+      "onboard_time": 1681272447,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 204063,
@@ -699,6 +795,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 185342,
+      "num": 185342,
+      "word": "浙江多地严重污染",
+      "onboard_time": 1681272566,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185309,
       "num": 185309,
       "word": "周三的精神状态",
@@ -731,6 +835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180106,
+      "num": 180106,
+      "word": "阿凡达2取景地",
+      "onboard_time": 1681269868,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175748,
       "num": 153891,
       "word": "aespa妆造",
@@ -747,12 +859,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 173090,
-      "num": 173090,
-      "word": "阿凡达2取景地",
-      "onboard_time": 1681269868,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 175417,
+      "num": 175417,
+      "word": "推特并入X公司",
+      "onboard_time": 1681272688,
+      "rank": 40,
+      "category": "科技,财经"
+    },
+    {
+      "raw_hot": 173156,
+      "num": 173156,
+      "word": "跃动青春",
+      "onboard_time": 1681273168,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 171090,
@@ -761,14 +881,6 @@
       "onboard_time": 1681269387,
       "rank": 38,
       "category": "社会新闻,音乐"
-    },
-    {
-      "raw_hot": 170737,
-      "num": 170737,
-      "word": "让全外网网友们爆炸震惊的男人",
-      "onboard_time": 1681269807,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 169563,
@@ -793,6 +905,14 @@
       "onboard_time": 1681269025,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 168961,
+      "num": 168961,
+      "word": "香菜热狗肠",
+      "onboard_time": 1681272148,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 168696,
@@ -833,6 +953,22 @@
       "onboard_time": 1681224570,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161024,
+      "num": 161024,
+      "word": "为什么你到现在还没谈恋爱",
+      "onboard_time": 1681272385,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 155594,
+      "num": 155594,
+      "word": "金世佳说无论你在哪里都要带你回家",
+      "onboard_time": 1681270108,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 153899,
@@ -907,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131897,
+      "num": 131897,
+      "word": "第28届上海电视节官宣",
+      "onboard_time": 1681271907,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130859,
       "num": 130859,
       "word": "章若楠齐刘海卷发",
@@ -921,14 +1065,6 @@
       "onboard_time": 1681221390,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130308,
-      "num": 130308,
-      "word": "金世佳说无论你在哪里都要带你回家",
-      "onboard_time": 1681270108,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 129738,
@@ -1019,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58208,
+      "num": 310756,
+      "word": "原神3.6版本更新 纳西妲",
+      "onboard_time": 1681272027,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54935,
       "num": 74843,
       "word": "淄博烧烤何以突出重围",
@@ -1028,7 +1172,7 @@
     },
     {
       "raw_hot": 28592,
-      "num": 1062304,
+      "num": 1634814,
       "word": "消博会开馆首日有哪些亮点",
       "onboard_time": 1681216706,
       "rank": 2,
@@ -1050,6 +1194,9 @@
     },
     {
       "word": "#习近平在广东考察调研#"
+    },
+    {
+      "word": "#习近平在茂名市考察调研#"
     }
   ]
 }
