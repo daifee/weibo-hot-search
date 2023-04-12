@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681280536722,
+  "endTime": 1681281324657,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -35,6 +35,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2873173,
+      "num": 2873173,
+      "word": "网店售三寸金莲缠足袜299一双",
+      "onboard_time": 1681275150,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2775573,
       "num": 2775573,
       "word": "浙大着火",
@@ -57,14 +65,6 @@
       "onboard_time": 1681265845,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2724441,
-      "num": 2724441,
-      "word": "网店售三寸金莲缠足袜299一双",
-      "onboard_time": 1681275150,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2659473,
@@ -275,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1572300,
+      "num": 1572300,
+      "word": "李金铭曾参加节目被要求当儿媳",
+      "onboard_time": 1681278085,
+      "rank": 1,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 1567668,
       "num": 1050060,
       "word": "两男子将涉黄小卡片发到警车车窗",
@@ -289,14 +297,6 @@
       "onboard_time": 1681265725,
       "rank": 1,
       "category": "社会负面,网红"
-    },
-    {
-      "raw_hot": 1546880,
-      "num": 1546880,
-      "word": "李金铭曾参加节目被要求当儿媳",
-      "onboard_time": 1681278085,
-      "rank": 1,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 1536049,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1336075,
+      "num": 1336075,
+      "word": "徐艺洋暧昧时期聊天都能上头",
+      "onboard_time": 1681277727,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1306396,
       "num": 1306396,
       "word": "王菊 我的肚子很可爱",
@@ -401,14 +409,6 @@
       "onboard_time": 1681177164,
       "rank": 32,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1209864,
-      "num": 1209864,
-      "word": "徐艺洋暧昧时期聊天都能上头",
-      "onboard_time": 1681277727,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1198638,
@@ -1523,12 +1523,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 546217,
+      "num": 546217,
+      "word": "南京26年前特大抢劫杀人案告破",
+      "onboard_time": 1681278867,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544237,
       "num": 544237,
       "word": "Kpop圈首位印度成员ARIA",
       "onboard_time": 1681091305,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544084,
+      "num": 460263,
+      "word": "李莎旻子一天打两份工",
+      "onboard_time": 1681280365,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 542846,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1681225110,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 449896,
+      "num": 449896,
+      "word": "澹台烬玲娜贝儿cp名",
+      "onboard_time": 1681279587,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 449634,
@@ -2353,14 +2377,6 @@
       "onboard_time": 1681221027,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 390735,
-      "num": 390735,
-      "word": "南京26年前特大抢劫杀人案告破",
-      "onboard_time": 1681278867,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382244,
@@ -3204,7 +3220,7 @@
     },
     {
       "raw_hot": 278909,
-      "num": 204984,
+      "num": 253510,
       "word": "Angelababy说在奔跑吧等你",
       "onboard_time": 1681279047,
       "rank": 30,
@@ -4083,28 +4099,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214856,
-      "num": 214856,
-      "word": "李莎旻子一天打两份工",
-      "onboard_time": 1681280365,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214505,
       "num": 228617,
       "word": "瘫痪女童复健3年能骑自行车了",
       "onboard_time": 1681127308,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214231,
-      "num": 214231,
-      "word": "澹台烬玲娜贝儿cp名",
-      "onboard_time": 1681279587,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 214215,
@@ -4659,6 +4659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197711,
+      "num": 197711,
+      "word": "明日方舟",
+      "onboard_time": 1681280307,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197599,
       "num": 197599,
       "word": "王源正在筹备自己的首次巡回演唱会",
@@ -4803,6 +4811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195339,
+      "num": 195339,
+      "word": "90后男生拿到京户离职被公司追偿",
+      "onboard_time": 1681278266,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195243,
       "num": 195243,
       "word": "澹台烬的乌鸦太嚣张了",
@@ -4913,6 +4929,14 @@
       "onboard_time": 1681186769,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191809,
+      "num": 186146,
+      "word": "杨幂新剧开机路透",
+      "onboard_time": 1681275810,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 191758,
@@ -5073,6 +5097,14 @@
       "onboard_time": 1681110268,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187685,
+      "num": 187685,
+      "word": "林墨说下一站上海看我们憋个大招吧",
+      "onboard_time": 1681280906,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 187584,
@@ -5243,14 +5275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181935,
-      "num": 181935,
-      "word": "明日方舟",
-      "onboard_time": 1681280307,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181427,
       "num": 151019,
       "word": "冥夜区别对待桑酒天欢",
@@ -5371,12 +5395,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 176497,
-      "num": 176497,
-      "word": "90后男生拿到京户离职被公司追偿",
-      "onboard_time": 1681278266,
+      "raw_hot": 176660,
+      "num": 176660,
+      "word": "侯明昊找个球场装修篇vlog",
+      "onboard_time": 1681281147,
       "rank": 34,
-      "category": "社会新闻"
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 176331,
@@ -5553,14 +5577,6 @@
       "onboard_time": 1681187551,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169610,
-      "num": 169610,
-      "word": "杨幂新剧开机路透",
-      "onboard_time": 1681275810,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 169469,
@@ -5753,6 +5769,14 @@
       "onboard_time": 1681171466,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155916,
+      "num": 155916,
+      "word": "男子骑偷来电动车被相亲对象认出",
+      "onboard_time": 1681279768,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155594,
@@ -6067,6 +6091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144194,
+      "num": 144194,
+      "word": "直井怜手写信",
+      "onboard_time": 1681280665,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144021,
       "num": 144021,
       "word": "刘宇宁直播唱长月烬明片头曲",
@@ -6187,6 +6219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136896,
+      "num": 136896,
+      "word": "最期待入围白玉兰的网剧",
+      "onboard_time": 1681280844,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "白鹿叶夕雾害怕血鸦",
@@ -6227,12 +6267,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133036,
-      "num": 133036,
-      "word": "男子骑偷来电动车被相亲对象认出",
-      "onboard_time": 1681279768,
+      "raw_hot": 133312,
+      "num": 133312,
+      "word": "异地工作你会考虑迁户口吗",
+      "onboard_time": 1681281085,
       "rank": 45,
-      "category": "社会新闻"
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 132556,
@@ -6803,6 +6843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 54546,
+      "num": 423906,
+      "word": "球迷追买中超球票",
+      "onboard_time": 1681279226,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48751,
       "num": 48751,
       "word": "折一条裤子可以有多快",
@@ -6841,14 +6889,6 @@
       "onboard_time": 1681185146,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35894,
-      "num": 363798,
-      "word": "球迷追买中超球票",
-      "onboard_time": 1681279226,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 33990,

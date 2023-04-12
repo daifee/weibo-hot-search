@@ -1,7 +1,15 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681280536722,
+  "endTime": 1681281324657,
   "band_list": [
+    {
+      "raw_hot": 2873173,
+      "num": 2873173,
+      "word": "网店售三寸金莲缠足袜299一双",
+      "onboard_time": 1681275150,
+      "rank": 5,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2748516,
       "num": 988589,
@@ -9,14 +17,6 @@
       "onboard_time": 1681265845,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2724441,
-      "num": 2724441,
-      "word": "网店售三寸金莲缠足袜299一双",
-      "onboard_time": 1681275150,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2569622,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1572300,
+      "num": 1572300,
+      "word": "李金铭曾参加节目被要求当儿媳",
+      "onboard_time": 1681278085,
+      "rank": 1,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 1550487,
       "num": 1550487,
       "word": "00后网红马若松遭遇车祸身亡",
       "onboard_time": 1681265725,
       "rank": 1,
       "category": "社会负面,网红"
-    },
-    {
-      "raw_hot": 1546880,
-      "num": 1546880,
-      "word": "李金铭曾参加节目被要求当儿媳",
-      "onboard_time": 1681278085,
-      "rank": 1,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 1454951,
@@ -83,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1336075,
+      "num": 1336075,
+      "word": "徐艺洋暧昧时期聊天都能上头",
+      "onboard_time": 1681277727,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1281022,
       "num": 1281022,
       "word": "专家建议有实力有担当的人多生孩子",
       "onboard_time": 1681258767,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1209864,
-      "num": 1209864,
-      "word": "徐艺洋暧昧时期聊天都能上头",
-      "onboard_time": 1681277727,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1189030,
@@ -283,6 +283,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 546217,
+      "num": 546217,
+      "word": "南京26年前特大抢劫杀人案告破",
+      "onboard_time": 1681278867,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544084,
+      "num": 460263,
+      "word": "李莎旻子一天打两份工",
+      "onboard_time": 1681280365,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536193,
       "num": 536193,
       "word": "长月烬明微博开分7.3",
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449896,
+      "num": 449896,
+      "word": "澹台烬玲娜贝儿cp名",
+      "onboard_time": 1681279587,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449634,
       "num": 449634,
       "word": "INTO1上海演唱会官宣",
@@ -457,14 +481,6 @@
       "onboard_time": 1681275749,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 390735,
-      "num": 390735,
-      "word": "南京26年前特大抢劫杀人案告破",
-      "onboard_time": 1681278867,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378353,
@@ -708,7 +724,7 @@
     },
     {
       "raw_hot": 278909,
-      "num": 204984,
+      "num": 253510,
       "word": "Angelababy说在奔跑吧等你",
       "onboard_time": 1681279047,
       "rank": 30,
@@ -931,22 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214856,
-      "num": 214856,
-      "word": "李莎旻子一天打两份工",
-      "onboard_time": 1681280365,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 214231,
-      "num": 214231,
-      "word": "澹台烬玲娜贝儿cp名",
-      "onboard_time": 1681279587,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 214215,
       "num": 214215,
       "word": "韩素希紫色毛衫",
@@ -1059,6 +1059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197711,
+      "num": 197711,
+      "word": "明日方舟",
+      "onboard_time": 1681280307,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196785,
       "num": 196785,
       "word": "BLG晋级MSI",
@@ -1075,12 +1083,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195339,
+      "num": 195339,
+      "word": "90后男生拿到京户离职被公司追偿",
+      "onboard_time": 1681278266,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195196,
       "num": 195196,
       "word": "张兰招聘高学历主播",
       "onboard_time": 1681275689,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 191809,
+      "num": 186146,
+      "word": "杨幂新剧开机路透",
+      "onboard_time": 1681275810,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 189779,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1681274971,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187685,
+      "num": 187685,
+      "word": "林墨说下一站上海看我们憋个大招吧",
+      "onboard_time": 1681280906,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 185953,
@@ -1155,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181935,
-      "num": 181935,
-      "word": "明日方舟",
-      "onboard_time": 1681280307,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181630,
       "num": 168935,
       "word": "长月烬明十二神全部陨落",
@@ -1195,12 +1219,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 176497,
-      "num": 176497,
-      "word": "90后男生拿到京户离职被公司追偿",
-      "onboard_time": 1681278266,
+      "raw_hot": 176660,
+      "num": 176660,
+      "word": "侯明昊找个球场装修篇vlog",
+      "onboard_time": 1681281147,
       "rank": 34,
-      "category": "社会新闻"
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 175748,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1681269387,
       "rank": 38,
       "category": "社会新闻,音乐"
-    },
-    {
-      "raw_hot": 169610,
-      "num": 169610,
-      "word": "杨幂新剧开机路透",
-      "onboard_time": 1681275810,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 169563,
@@ -1331,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155916,
+      "num": 155916,
+      "word": "男子骑偷来电动车被相亲对象认出",
+      "onboard_time": 1681279768,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155594,
       "num": 155594,
       "word": "金世佳说无论你在哪里都要带你回家",
@@ -1403,12 +1427,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 144194,
+      "num": 144194,
+      "word": "直井怜手写信",
+      "onboard_time": 1681280665,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137225,
       "num": 137225,
       "word": "不要把工作当成天大的事",
       "onboard_time": 1681212629,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 136896,
+      "num": 136896,
+      "word": "最期待入围白玉兰的网剧",
+      "onboard_time": 1681280844,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 135977,
@@ -1419,12 +1459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133036,
-      "num": 133036,
-      "word": "男子骑偷来电动车被相亲对象认出",
-      "onboard_time": 1681279768,
+      "raw_hot": 133312,
+      "num": 133312,
+      "word": "异地工作你会考虑迁户口吗",
+      "onboard_time": 1681281085,
       "rank": 45,
-      "category": "社会新闻"
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 131897,
@@ -1563,8 +1603,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 35894,
-      "num": 363798,
+      "raw_hot": 54546,
+      "num": 423906,
       "word": "球迷追买中超球票",
       "onboard_time": 1681279226,
       "rank": 14,
