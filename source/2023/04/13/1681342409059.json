@@ -1,0 +1,410 @@
+{
+  "runTime": 1681342409059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 999826,
+        "num": 999826,
+        "word": "不要穿试衣间里的鞋",
+        "onboard_time": 1681299570,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 803874,
+        "num": 803874,
+        "word": "社保挂靠代缴已被明确为违法",
+        "onboard_time": 1681308032,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 51681,
+        "num": 585365,
+        "word": "中国有约",
+        "onboard_time": 1681304129,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1357941,
+        "num": 572420,
+        "word": "添添",
+        "onboard_time": 1681309775,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510265,
+        "num": 510265,
+        "word": "美生物实验室感染病毒的小白鼠逃了",
+        "onboard_time": 1681304548,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 360629,
+        "num": 360629,
+        "word": "小杨哥称将在TikTok开设电商",
+        "onboard_time": 1681313730,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 345146,
+        "num": 345146,
+        "word": "北京人均存款已接近27万",
+        "onboard_time": 1681303948,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 343409,
+        "num": 343409,
+        "word": "女儿出首付母亲买房后把产权给儿子",
+        "onboard_time": 1681302627,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 319205,
+        "num": 319205,
+        "word": "不吃晚餐真的会变瘦吗",
+        "onboard_time": 1681312653,
+        "rank": 8,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 307846,
+        "num": 307846,
+        "word": "安徽爷孙离奇失联10天",
+        "onboard_time": 1681321935,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784546,
+        "num": 290273,
+        "word": "陈都灵早期等公交旧照",
+        "onboard_time": 1681316664,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242950,
+        "num": 242950,
+        "word": "空姐飞机上推销商品长达40分钟",
+        "onboard_time": 1681341502,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242026,
+        "num": 242026,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1681306592,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 218724,
+        "num": 218724,
+        "word": "孙珍妮微博里有和抑郁症粉丝的暗号",
+        "onboard_time": 1681341921,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191518,
+        "num": 191518,
+        "word": "为什么年轻人热衷考教资",
+        "onboard_time": 1681310373,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 187835,
+        "num": 187835,
+        "word": "美香添添小崽要一起回家",
+        "onboard_time": 1681311694,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185293,
+        "num": 185293,
+        "word": "杭州四季青部分市场禁止商家直播销售",
+        "onboard_time": 1681311934,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182848,
+        "num": 182848,
+        "word": "杨紫吃的什么面",
+        "onboard_time": 1681310915,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180136,
+        "num": 180136,
+        "word": "75岁施瓦辛格发上街修路视频",
+        "onboard_time": 1681308214,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168372,
+        "num": 168372,
+        "word": "冥夜的手串上有贝壳珠",
+        "onboard_time": 1681309115,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163917,
+        "num": 163917,
+        "word": "特斯拉降价",
+        "onboard_time": 1681304248,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163282,
+        "num": 163282,
+        "word": "猫咪进不了生肖是有原因的",
+        "onboard_time": 1681310313,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161905,
+        "num": 161905,
+        "word": "朱婷",
+        "onboard_time": 1681341803,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160659,
+        "num": 160659,
+        "word": "皇马2比0切尔西",
+        "onboard_time": 1681341202,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127503,
+        "num": 127503,
+        "word": "两女子吃自助打包400元食材被拘",
+        "onboard_time": 1681298606,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124407,
+        "num": 124407,
+        "word": "苏醒混迹内娱多年全凭三好",
+        "onboard_time": 1681333032,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124064,
+        "num": 124064,
+        "word": "王者荣耀S31赛季延迟更新",
+        "onboard_time": 1681311453,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122768,
+        "num": 122768,
+        "word": "90所大学撤销公共事业管理专业",
+        "onboard_time": 1681305930,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 120808,
+        "num": 120808,
+        "word": "陈建斌给陈晓夸不会了",
+        "onboard_time": 1681338375,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119218,
+        "num": 119218,
+        "word": "开车出门千万要看好油表",
+        "onboard_time": 1681310194,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127915,
+        "num": 118378,
+        "word": "你认为有必要强制婚前检查吗",
+        "onboard_time": 1681341803,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110877,
+        "num": 110877,
+        "word": "白鹿能不能再演十集反派",
+        "onboard_time": 1681306470,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110649,
+        "num": 110649,
+        "word": "身体出现小毛病的真实原因",
+        "onboard_time": 1681308092,
+        "rank": 32,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 108576,
+        "num": 108576,
+        "word": "淄博烧烤赢麻了",
+        "onboard_time": 1681342163,
+        "rank": 33,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 107123,
+        "num": 107123,
+        "word": "剧版哈利波特官宣",
+        "onboard_time": 1681342102,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99930,
+        "num": 99930,
+        "word": "终于等到榴莲大降价",
+        "onboard_time": 1681297887,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94782,
+        "num": 94782,
+        "word": "魏大勋坐在机场回复粉丝",
+        "onboard_time": 1681309234,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93606,
+        "num": 93606,
+        "word": "蛟蚌分离",
+        "onboard_time": 1681297348,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92316,
+        "num": 92316,
+        "word": "减肥对外貌的改变可以有多大",
+        "onboard_time": 1681295547,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91342,
+        "num": 91342,
+        "word": "长月烬明 烬门",
+        "onboard_time": 1681308935,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90498,
+        "num": 90498,
+        "word": "白敬亭宋轶长风渡6月播出",
+        "onboard_time": 1681313131,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87579,
+        "num": 87579,
+        "word": "深圳将取消六折人才房",
+        "onboard_time": 1681342043,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 86500,
+        "num": 86500,
+        "word": "学生进入货车盲区交警吹哨截停",
+        "onboard_time": 1681341682,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84824,
+        "num": 84824,
+        "word": "感觉全网中了flower的毒",
+        "onboard_time": 1681310797,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84023,
+        "num": 84023,
+        "word": "彭小苒新剧红色婚服",
+        "onboard_time": 1681305450,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75302,
+        "num": 75302,
+        "word": "六公主谈柯南争议",
+        "onboard_time": 1681293089,
+        "rank": 45,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 74261,
+        "num": 74261,
+        "word": "偶遇虞书欣蹲在垃圾桶旁",
+        "onboard_time": 1681307554,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73737,
+        "num": 73737,
+        "word": "王者荣耀",
+        "onboard_time": 1681308814,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71492,
+        "num": 71492,
+        "word": "全圆佑 小卡",
+        "onboard_time": 1681313370,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69354,
+        "num": 69354,
+        "word": "90后的动漫记忆是什么",
+        "onboard_time": 1681342345,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#农村特色产业前景广阔#"
+    }
+  }
+}

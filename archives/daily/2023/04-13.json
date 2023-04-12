@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681341402860,
+  "endTime": 1681342409059,
   "band_list": [
     {
       "raw_hot": 2425491,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999826,
+      "num": 999826,
+      "word": "不要穿试衣间里的鞋",
+      "onboard_time": 1681299570,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 832139,
       "num": 347471,
       "word": "陈都灵早期等公交旧照",
@@ -19,12 +27,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 827315,
-      "num": 827315,
-      "word": "不要穿试衣间里的鞋",
-      "onboard_time": 1681299570,
-      "rank": 1,
-      "category": "幽默"
+      "raw_hot": 803874,
+      "num": 803874,
+      "word": "社保挂靠代缴已被明确为违法",
+      "onboard_time": 1681308032,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 763269,
@@ -33,14 +41,6 @@
       "onboard_time": 1681297287,
       "rank": 42,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 719690,
-      "num": 719690,
-      "word": "社保挂靠代缴已被明确为违法",
-      "onboard_time": 1681308032,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 710676,
@@ -59,20 +59,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 510265,
+      "num": 510265,
+      "word": "美生物实验室感染病毒的小白鼠逃了",
+      "onboard_time": 1681304548,
+      "rank": 7,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 504531,
       "num": 504531,
       "word": "王者荣耀",
       "onboard_time": 1681308814,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 473637,
-      "num": 473637,
-      "word": "美生物实验室感染病毒的小白鼠逃了",
-      "onboard_time": 1681304548,
-      "rank": 7,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 458102,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343409,
+      "num": 343409,
+      "word": "女儿出首付母亲买房后把产权给儿子",
+      "onboard_time": 1681302627,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 339925,
       "num": 339925,
       "word": "美香添添小崽要一起回家",
@@ -115,20 +123,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 317399,
-      "num": 317399,
-      "word": "女儿出首付母亲买房后把产权给儿子",
-      "onboard_time": 1681302627,
-      "rank": 21,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 310267,
       "num": 310267,
       "word": "杨紫吃的什么面",
       "onboard_time": 1681310915,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307846,
+      "num": 307846,
+      "word": "安徽爷孙离奇失联10天",
+      "onboard_time": 1681321935,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304152,
@@ -155,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263942,
-      "num": 206198,
-      "word": "安徽爷孙离奇失联10天",
-      "onboard_time": 1681321935,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263471,
       "num": 263471,
       "word": "六公主谈柯南争议",
@@ -187,12 +187,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231338,
-      "num": 231338,
+      "raw_hot": 242950,
+      "num": 242950,
+      "word": "空姐飞机上推销商品长达40分钟",
+      "onboard_time": 1681341502,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242026,
+      "num": 242026,
       "word": "春天是精神病的高发时期",
       "onboard_time": 1681306592,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 218724,
+      "num": 218724,
+      "word": "孙珍妮微博里有和抑郁症粉丝的暗号",
+      "onboard_time": 1681341921,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 194818,
@@ -219,8 +235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191222,
-      "num": 191222,
+      "raw_hot": 191518,
+      "num": 191518,
       "word": "为什么年轻人热衷考教资",
       "onboard_time": 1681310373,
       "rank": 25,
@@ -235,6 +251,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 180136,
+      "num": 180136,
+      "word": "75岁施瓦辛格发上街修路视频",
+      "onboard_time": 1681308214,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176026,
       "num": 176026,
       "word": "白鹿能不能再演十集反派",
@@ -243,12 +267,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170309,
-      "num": 170309,
-      "word": "75岁施瓦辛格发上街修路视频",
-      "onboard_time": 1681308214,
+      "raw_hot": 168372,
+      "num": 168372,
+      "word": "冥夜的手串上有贝壳珠",
+      "onboard_time": 1681309115,
       "rank": 38,
-      "category": "艺人"
+      "category": "影视"
     },
     {
       "raw_hot": 168368,
@@ -267,12 +291,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150300,
-      "num": 150300,
+      "raw_hot": 163282,
+      "num": 163282,
       "word": "猫咪进不了生肖是有原因的",
       "onboard_time": 1681310313,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161905,
+      "num": 161905,
+      "word": "朱婷",
+      "onboard_time": 1681341803,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160659,
+      "num": 160659,
+      "word": "皇马2比0切尔西",
+      "onboard_time": 1681341202,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 149127,
@@ -281,14 +321,6 @@
       "onboard_time": 1681297526,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148495,
-      "num": 148495,
-      "word": "冥夜的手串上有贝壳珠",
-      "onboard_time": 1681309115,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 142187,
@@ -323,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127915,
+      "num": 118378,
+      "word": "你认为有必要强制婚前检查吗",
+      "onboard_time": 1681341803,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124260,
       "num": 124260,
       "word": "彭小苒新剧红色婚服",
@@ -331,8 +371,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 115746,
-      "num": 115746,
+      "raw_hot": 120808,
+      "num": 120808,
+      "word": "陈建斌给陈晓夸不会了",
+      "onboard_time": 1681338375,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119218,
+      "num": 119218,
       "word": "开车出门千万要看好油表",
       "onboard_time": 1681310194,
       "rank": 37,
@@ -345,6 +393,22 @@
       "onboard_time": 1681308575,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108576,
+      "num": 108576,
+      "word": "淄博烧烤赢麻了",
+      "onboard_time": 1681342163,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 107123,
+      "num": 107123,
+      "word": "剧版哈利波特官宣",
+      "onboard_time": 1681342102,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 105700,
@@ -371,14 +435,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 94360,
-      "num": 94360,
-      "word": "皇马2比0切尔西",
-      "onboard_time": 1681341202,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93131,
       "num": 93131,
       "word": "宋茜短发齐刘海",
@@ -393,14 +449,6 @@
       "onboard_time": 1681311754,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 93071,
-      "num": 93071,
-      "word": "陈建斌给陈晓夸不会了",
-      "onboard_time": 1681338375,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 92931,
@@ -427,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87579,
+      "num": 87579,
+      "word": "深圳将取消六折人才房",
+      "onboard_time": 1681342043,
+      "rank": 41,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 86500,
+      "num": 86500,
+      "word": "学生进入货车盲区交警吹哨截停",
+      "onboard_time": 1681341682,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81955,
       "num": 81955,
       "word": "桑酒打碎冰晶盏的原因",
@@ -441,6 +505,14 @@
       "onboard_time": 1681296087,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69354,
+      "num": 69354,
+      "word": "90后的动漫记忆是什么",
+      "onboard_time": 1681342345,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 69146,
@@ -491,6 +563,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 51681,
+      "num": 611434,
+      "word": "中国有约",
+      "onboard_time": 1681304129,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 51166,
       "num": 51166,
       "word": "何广智说尘封十三载好看",
@@ -513,14 +593,6 @@
       "onboard_time": 1681320137,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 37237,
-      "num": 611434,
-      "word": "中国有约",
-      "onboard_time": 1681304129,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 31823,

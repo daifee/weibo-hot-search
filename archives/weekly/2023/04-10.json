@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681341402860,
+  "endTime": 1681342409059,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -3595,6 +3595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307846,
+      "num": 307846,
+      "word": "安徽爷孙离奇失联10天",
+      "onboard_time": 1681321935,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307729,
       "num": 307729,
       "word": "哈尔滨下雪",
@@ -4067,14 +4075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263942,
-      "num": 206198,
-      "word": "安徽爷孙离奇失联10天",
-      "onboard_time": 1681321935,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263198,
       "num": 263198,
       "word": "朱洁静喊曾可妮原名",
@@ -4297,6 +4297,14 @@
       "onboard_time": 1681221990,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242950,
+      "num": 242950,
+      "word": "空姐飞机上推销商品长达40分钟",
+      "onboard_time": 1681341502,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242830,
@@ -4816,6 +4824,14 @@
       "word": "徐明浩黑色指甲",
       "onboard_time": 1681115668,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218724,
+      "num": 218724,
+      "word": "孙珍妮微博里有和抑郁症粉丝的暗号",
+      "onboard_time": 1681341921,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -6835,6 +6851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168372,
+      "num": 168372,
+      "word": "冥夜的手串上有贝壳珠",
+      "onboard_time": 1681309115,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168109,
       "num": 195970,
       "word": "你们公司是不招双眼皮吗",
@@ -6931,6 +6955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163282,
+      "num": 163282,
+      "word": "猫咪进不了生肖是有原因的",
+      "onboard_time": 1681310313,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163273,
       "num": 163273,
       "word": "丁程鑫用手护着娜扎",
@@ -6995,6 +7027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161905,
+      "num": 161905,
+      "word": "朱婷",
+      "onboard_time": 1681341803,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161895,
       "num": 1828119,
       "word": "2023第100天",
@@ -7043,6 +7083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160659,
+      "num": 160659,
+      "word": "皇马2比0切尔西",
+      "onboard_time": 1681341202,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159666,
       "num": 159666,
       "word": "开车出门千万要看好油表",
@@ -7073,14 +7121,6 @@
       "onboard_time": 1681215384,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 158758,
-      "num": 158758,
-      "word": "猫咪进不了生肖是有原因的",
-      "onboard_time": 1681310313,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 158519,
@@ -7337,14 +7377,6 @@
       "onboard_time": 1681178725,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 148495,
-      "num": 148495,
-      "word": "冥夜的手串上有贝壳珠",
-      "onboard_time": 1681309115,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 148457,
@@ -7843,6 +7875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127915,
+      "num": 118378,
+      "word": "你认为有必要强制婚前检查吗",
+      "onboard_time": 1681341803,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127756,
       "num": 127756,
       "word": "淄博不止有烧烤",
@@ -7937,6 +7977,14 @@
       "onboard_time": 1681038025,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 120808,
+      "num": 120808,
+      "word": "陈建斌给陈晓夸不会了",
+      "onboard_time": 1681338375,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 120665,
@@ -8115,6 +8163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108576,
+      "num": 108576,
+      "word": "淄博烧烤赢麻了",
+      "onboard_time": 1681342163,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 108501,
       "num": 108501,
       "word": "比亚迪云辇系统",
@@ -8144,6 +8200,14 @@
       "word": "宋妍霏新剧撞柱子好离谱",
       "onboard_time": 1681049669,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 107123,
+      "num": 107123,
+      "word": "剧版哈利波特官宣",
+      "onboard_time": 1681342102,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -8267,14 +8331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94360,
-      "num": 94360,
-      "word": "皇马2比0切尔西",
-      "onboard_time": 1681341202,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94166,
       "num": 94166,
       "word": "汪苏泷音乐节",
@@ -8289,14 +8345,6 @@
       "onboard_time": 1681052970,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93071,
-      "num": 93071,
-      "word": "陈建斌给陈晓夸不会了",
-      "onboard_time": 1681338375,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 92605,
@@ -8371,6 +8419,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 87579,
+      "num": 87579,
+      "word": "深圳将取消六折人才房",
+      "onboard_time": 1681342043,
+      "rank": 41,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 86500,
+      "num": 86500,
+      "word": "学生进入货车盲区交警吹哨截停",
+      "onboard_time": 1681341682,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81955,
       "num": 81955,
       "word": "桑酒打碎冰晶盏的原因",
@@ -8425,6 +8489,14 @@
       "onboard_time": 1681272027,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 69354,
+      "num": 69354,
+      "word": "90后的动漫记忆是什么",
+      "onboard_time": 1681342345,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 67564,
