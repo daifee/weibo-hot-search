@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681283732484,
+  "endTime": 1681284809013,
   "band_list": [
     {
       "raw_hot": 2873173,
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1598160,
+      "raw_hot": 1708768,
       "num": 1572300,
       "word": "李金铭曾参加节目被要求当儿媳",
       "onboard_time": 1681278085,
@@ -91,19 +91,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1282869,
+      "num": 1282869,
+      "word": "小伙年会喜提365天带薪休假",
+      "onboard_time": 1681275689,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1281022,
       "num": 1281022,
       "word": "专家建议有实力有担当的人多生孩子",
       "onboard_time": 1681258767,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1189030,
-      "num": 1189030,
-      "word": "小伙年会喜提365天带薪休假",
-      "onboard_time": 1681275689,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -187,8 +187,8 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 757671,
-      "num": 757671,
+      "raw_hot": 758006,
+      "num": 758006,
       "word": "南京26年前特大抢劫杀人案告破",
       "onboard_time": 1681278867,
       "rank": 12,
@@ -265,6 +265,14 @@
       "onboard_time": 1681273410,
       "rank": 46,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 594806,
+      "num": 307320,
+      "word": "张凌赫主页是贝壳",
+      "onboard_time": 1681284265,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 590120,
@@ -483,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384022,
+      "num": 384022,
+      "word": "马嘉祺被那英吐槽像下岗工人",
+      "onboard_time": 1681283727,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378353,
       "num": 378353,
       "word": "王者荣耀",
@@ -579,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340480,
+      "num": 293342,
+      "word": "广西一高校被曝送学生进厂打螺丝",
+      "onboard_time": 1681283546,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339045,
       "num": 339045,
       "word": "李凯尔回应中国男篮归化",
@@ -659,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318843,
+      "num": 286567,
+      "word": "异地工作你会考虑迁户口吗",
+      "onboard_time": 1681281085,
+      "rank": 45,
+      "category": "社会议题,情感"
+    },
+    {
       "raw_hot": 313858,
       "num": 203910,
       "word": "高校图书馆非事业编岗位百人竞争",
@@ -729,6 +761,14 @@
       "onboard_time": 1681272509,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285811,
+      "num": 285811,
+      "word": "长月烬明 吾学",
+      "onboard_time": 1681282107,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 283484,
@@ -811,14 +851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263950,
-      "num": 263950,
-      "word": "异地工作你会考虑迁户口吗",
-      "onboard_time": 1681281085,
-      "rank": 45,
-      "category": "社会议题,情感"
-    },
-    {
       "raw_hot": 263180,
       "num": 263180,
       "word": "长佩",
@@ -881,14 +913,6 @@
       "onboard_time": 1681265006,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 244885,
-      "num": 244885,
-      "word": "长月烬明 吾学",
-      "onboard_time": 1681282107,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 242510,
@@ -1019,6 +1043,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209900,
+      "num": 209900,
+      "word": "音律联觉",
+      "onboard_time": 1681284446,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 208579,
+      "num": 208579,
+      "word": "我的胃只有两种状态",
+      "onboard_time": 1681282765,
+      "rank": 35,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 208545,
       "num": 185539,
       "word": "冥夜桑酒竹林剧照",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1681254860,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205931,
+      "num": 205931,
+      "word": "商务部对台进行贸易壁垒调查",
+      "onboard_time": 1681283784,
+      "rank": 27,
+      "category": "国内要闻,财经"
     },
     {
       "raw_hot": 204542,
@@ -1097,6 +1145,14 @@
       "onboard_time": 1681279525,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201946,
+      "num": 201946,
+      "word": "剧版冥夜视角",
+      "onboard_time": 1681284506,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 200769,
@@ -1379,6 +1435,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 167444,
+      "num": 167444,
+      "word": "杨幂新剧演女间谍",
+      "onboard_time": 1681284446,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165546,
       "num": 165546,
       "word": "怎么判断自己是骨架大还是胖",
@@ -1435,14 +1499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 160785,
-      "num": 160785,
-      "word": "我的胃只有两种状态",
-      "onboard_time": 1681282765,
-      "rank": 35,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 155594,
       "num": 155594,
       "word": "金世佳说无论你在哪里都要带你回家",
@@ -1491,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146370,
+      "num": 146370,
+      "word": "95后复原女性发型史为粉发女孩发声",
+      "onboard_time": 1681284325,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145258,
       "num": 145258,
       "word": "马龙1比3林昀儒",
@@ -1523,12 +1587,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138771,
-      "num": 138771,
-      "word": "广西一高校被曝送学生进厂打螺丝",
-      "onboard_time": 1681283546,
-      "rank": 42,
-      "category": "社会新闻"
+      "raw_hot": 140404,
+      "num": 140404,
+      "word": "冥夜卷而不平是常态",
+      "onboard_time": 1681284086,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 137976,
+      "num": 137976,
+      "word": "教资",
+      "onboard_time": 1681284386,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 137225,
@@ -1553,6 +1625,14 @@
       "onboard_time": 1681205488,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132324,
+      "num": 132324,
+      "word": "奔跑吧11奇幻旅程主题海报",
+      "onboard_time": 1681283366,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 131897,
@@ -1605,10 +1685,10 @@
     {
       "raw_hot": 125761,
       "num": 125761,
-      "word": "奔跑吧11奇幻旅程主题海报",
-      "onboard_time": 1681283366,
-      "rank": 44,
-      "category": "综艺"
+      "word": "有必要和朋友说真实收入吗",
+      "onboard_time": 1681282405,
+      "rank": 45,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 124921,
