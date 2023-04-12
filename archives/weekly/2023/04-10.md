@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/10 00:21:19 ~ 2023/04/13 01:15:21
+本榜单时间：2023/04/10 00:21:19 ~ 2023/04/13 01:33:31
 </p>
 </blockquote>
 <p>
@@ -6377,6 +6377,12 @@ DRG对战RW（热度：108245）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%AA%E5%95%86%E5%AE%B6%E6%B3%A8%E5%86%8C%E7%AB%B9%E7%AD%92%E5%A5%B6%E8%8C%B6%E5%BA%97%23" target="weibo">
 多个商家注册竹筒奶茶店（热度：43870）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E6%96%B0%E6%AD%8C%E9%A2%84%E5%91%8A%23" target="weibo">
+太阳新歌预告（热度：38684）
 </a>
 </li>
 

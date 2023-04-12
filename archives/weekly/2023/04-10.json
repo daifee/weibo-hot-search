@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681319721325,
+  "endTime": 1681320811267,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -8489,6 +8489,14 @@
       "onboard_time": 1681155073,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 38684,
+      "num": 44059,
+      "word": "太阳新歌预告",
+      "onboard_time": 1681320137,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 37711,
