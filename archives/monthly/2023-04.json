@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681323662273,
+  "endTime": 1681324569633,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -28699,6 +28699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83165,
+      "num": 41217,
+      "word": "安徽爷孙离奇失联10天",
+      "onboard_time": 1681321935,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82186,
       "num": 82186,
       "word": "朋友借钱你会给吗",
@@ -28857,14 +28865,6 @@
       "onboard_time": 1680337172,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 70261,
-      "num": 41217,
-      "word": "安徽爷孙离奇失联10天",
-      "onboard_time": 1681321935,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70190,
@@ -29425,6 +29425,14 @@
       "onboard_time": 1680261326,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28688,
+      "num": 28688,
+      "word": "欧冠联赛",
+      "onboard_time": 1681323494,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 27509,
