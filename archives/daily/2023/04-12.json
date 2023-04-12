@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681287713625,
+  "endTime": 1681288496657,
   "band_list": [
     {
       "raw_hot": 2873173,
@@ -43,8 +43,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1859946,
-      "num": 1859946,
+      "raw_hot": 1865626,
+      "num": 1865626,
       "word": "小伙年会喜提365天带薪休假",
       "onboard_time": 1681275689,
       "rank": 13,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1324209,
+      "num": 1324209,
+      "word": "减肥的人晚上都在吃什么",
+      "onboard_time": 1681284806,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1281022,
       "num": 1281022,
       "word": "专家建议有实力有担当的人多生孩子",
@@ -137,14 +145,6 @@
       "onboard_time": 1681270468,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1058642,
-      "num": 1058642,
-      "word": "减肥的人晚上都在吃什么",
-      "onboard_time": 1681284806,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 928021,
@@ -225,6 +225,14 @@
       "onboard_time": 1681266085,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 705788,
+      "num": 317452,
+      "word": "杨紫泰国随拍",
+      "onboard_time": 1681286666,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 682260,
@@ -403,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 465998,
-      "num": 317452,
-      "word": "杨紫泰国随拍",
-      "onboard_time": 1681286666,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 456316,
       "num": 456316,
       "word": "王一博从ye到yue",
@@ -499,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 408594,
+      "num": 408594,
+      "word": "教资",
+      "onboard_time": 1681284386,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 403544,
       "num": 393096,
       "word": "冥夜真身地包天",
@@ -521,14 +529,6 @@
       "onboard_time": 1681266444,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 397166,
-      "num": 397166,
-      "word": "教资",
-      "onboard_time": 1681284386,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 392185,
@@ -569,6 +569,14 @@
       "onboard_time": 1681222709,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363768,
+      "num": 202666,
+      "word": "亲亲您这个什么您心里不清楚吗",
+      "onboard_time": 1681287746,
+      "rank": 30,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 362716,
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243768,
+      "num": 243768,
+      "word": "毕业第一份工作月薪需要多少",
+      "onboard_time": 1681287087,
+      "rank": 39,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 242510,
       "num": 165486,
       "word": "白鹿二搭定律",
@@ -1035,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236137,
+      "num": 236137,
+      "word": "冥夜赦免了天欢",
+      "onboard_time": 1681286608,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231032,
       "num": 231032,
       "word": "NBA附加赛",
@@ -1080,6 +1104,14 @@
       "word": "90后男生拿到京户离职被公司追偿",
       "onboard_time": 1681278266,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217340,
+      "num": 217340,
+      "word": "警方回应女生劝阻女子带男孩进更衣室遭打",
+      "onboard_time": 1681287685,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1211,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202707,
+      "num": 202707,
+      "word": "校方要求学生外出实习是否必要",
+      "onboard_time": 1681288107,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 202058,
       "num": 202058,
       "word": "平台回应网售三寸金莲缠足鞋袜",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1681275810,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190623,
+      "num": 190623,
+      "word": "严浩翔极挑白西装造型路透",
+      "onboard_time": 1681287805,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189779,
@@ -1603,14 +1651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 160979,
-      "num": 160979,
-      "word": "冥夜赦免了天欢",
-      "onboard_time": 1681286608,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 157867,
       "num": 153704,
       "word": "长月烬明的剪辑",
@@ -1624,6 +1664,14 @@
       "word": "金世佳说无论你在哪里都要带你回家",
       "onboard_time": 1681270108,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154548,
+      "num": 154548,
+      "word": "天欢被处雷刑",
+      "onboard_time": 1681288406,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1665,14 +1713,6 @@
       "onboard_time": 1681213284,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148858,
-      "num": 148858,
-      "word": "毕业第一份工作月薪需要多少",
-      "onboard_time": 1681287087,
-      "rank": 39,
-      "category": "社会议题"
     },
     {
       "raw_hot": 148377,
@@ -1721,6 +1761,14 @@
       "onboard_time": 1681284086,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139808,
+      "num": 139808,
+      "word": "大城市户口真的重要吗",
+      "onboard_time": 1681288045,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 137225,
@@ -1795,20 +1843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129218,
-      "num": 129218,
-      "word": "警方回应女生劝阻女子带男孩进更衣室遭打",
-      "onboard_time": 1681287685,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127381,
       "num": 127381,
       "word": "瘫痪女童复健3年能骑自行车了",
       "onboard_time": 1681261587,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127185,
+      "num": 127185,
+      "word": "老道 东吉",
+      "onboard_time": 1681288406,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 124921,

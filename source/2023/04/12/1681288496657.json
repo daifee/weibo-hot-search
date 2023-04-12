@@ -1,0 +1,410 @@
+{
+  "runTime": 1681288496657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1865626,
+        "num": 1865626,
+        "word": "小伙年会喜提365天带薪休假",
+        "onboard_time": 1681275689,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1324209,
+        "num": 1324209,
+        "word": "减肥的人晚上都在吃什么",
+        "onboard_time": 1681284806,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6175,
+        "num": 780253,
+        "word": "消博会开馆首日有哪些亮点",
+        "onboard_time": 1681216706,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473522,
+        "num": 473522,
+        "word": "南京26年前特大抢劫杀人案告破",
+        "onboard_time": 1681278867,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441339,
+        "num": 441339,
+        "word": "马嘉祺被那英吐槽像下岗工人",
+        "onboard_time": 1681283727,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412005,
+        "num": 412005,
+        "word": "招惹 纯爱战士应声倒地",
+        "onboard_time": 1681285286,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408594,
+        "num": 408594,
+        "word": "教资",
+        "onboard_time": 1681284386,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 385138,
+        "num": 385138,
+        "word": "李莎旻子一天打两份工",
+        "onboard_time": 1681280365,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365798,
+        "num": 365798,
+        "word": "女子疯狂网上购物确诊帕金森",
+        "onboard_time": 1681276889,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331356,
+        "num": 331356,
+        "word": "商务部对台进行贸易壁垒调查",
+        "onboard_time": 1681283784,
+        "rank": 9,
+        "category": "国内要闻,财经"
+      },
+      {
+        "raw_hot": 1214679,
+        "num": 325944,
+        "word": "李金铭曾参加节目被要求当儿媳",
+        "onboard_time": 1681278085,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783290,
+        "num": 320260,
+        "word": "网店售三寸金莲缠足袜299一双",
+        "onboard_time": 1681275150,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705788,
+        "num": 314763,
+        "word": "杨紫泰国随拍",
+        "onboard_time": 1681286666,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675438,
+        "num": 307009,
+        "word": "张凌赫主页是贝壳",
+        "onboard_time": 1681284265,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 504252,
+        "num": 301649,
+        "word": "徐艺洋暧昧时期聊天都能上头",
+        "onboard_time": 1681277727,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595942,
+        "num": 289439,
+        "word": "广西一高校被曝送学生进厂打螺丝",
+        "onboard_time": 1681283546,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455619,
+        "num": 283069,
+        "word": "丁克的我想通了生孩子的意义",
+        "onboard_time": 1681265845,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281948,
+        "num": 281948,
+        "word": "专家称北京打车太便宜应涨价",
+        "onboard_time": 1681275570,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 280552,
+        "num": 280552,
+        "word": "罗云熙的角色我分清了",
+        "onboard_time": 1681285768,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265971,
+        "num": 265971,
+        "word": "泰国坠崖孕妇仍无法离婚",
+        "onboard_time": 1681266625,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259524,
+        "num": 259524,
+        "word": "王岳伦陪王诗龄拍汉服写真",
+        "onboard_time": 1681272989,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243768,
+        "num": 243768,
+        "word": "毕业第一份工作月薪需要多少",
+        "onboard_time": 1681287087,
+        "rank": 21,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 238754,
+        "num": 238754,
+        "word": "95后复原女性发型史为粉发女孩发声",
+        "onboard_time": 1681284325,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236137,
+        "num": 236137,
+        "word": "冥夜赦免了天欢",
+        "onboard_time": 1681286608,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226913,
+        "num": 226913,
+        "word": "讨厌没有边界感的情侣",
+        "onboard_time": 1681285406,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225467,
+        "num": 225467,
+        "word": "00后网红马若松遭遇车祸身亡",
+        "onboard_time": 1681265725,
+        "rank": 25,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 217340,
+        "num": 217340,
+        "word": "警方回应女生劝阻女子带男孩进更衣室遭打",
+        "onboard_time": 1681287685,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207996,
+        "num": 207996,
+        "word": "高校回应被指强迫学生实习",
+        "onboard_time": 1681286129,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203361,
+        "num": 203361,
+        "word": "朱洁静喊曾可妮原名",
+        "onboard_time": 1681285706,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202707,
+        "num": 202707,
+        "word": "校方要求学生外出实习是否必要",
+        "onboard_time": 1681288107,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 363768,
+        "num": 202666,
+        "word": "亲亲您这个什么您心里不清楚吗",
+        "onboard_time": 1681287746,
+        "rank": 30,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 201014,
+        "num": 201014,
+        "word": "王楚然打卡淄博烧烤",
+        "onboard_time": 1681281684,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 190623,
+        "num": 190623,
+        "word": "严浩翔极挑白西装造型路透",
+        "onboard_time": 1681287805,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188263,
+        "num": 188263,
+        "word": "宋妍霏说徐钰终于摆脱异地恋",
+        "onboard_time": 1681287505,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189642,
+        "num": 186665,
+        "word": "长月烬明 吾学",
+        "onboard_time": 1681282107,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183899,
+        "num": 183899,
+        "word": "唐朝诡事录",
+        "onboard_time": 1681270408,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158380,
+        "num": 158380,
+        "word": "男子被捅后趴在地上淡定玩手机",
+        "onboard_time": 1681275389,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154548,
+        "num": 154548,
+        "word": "天欢被处雷刑",
+        "onboard_time": 1681288406,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151587,
+        "num": 151587,
+        "word": "有必要和朋友说真实收入吗",
+        "onboard_time": 1681282405,
+        "rank": 38,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 151000,
+        "num": 151000,
+        "word": "不生孩子的想法会随着年龄改变吗",
+        "onboard_time": 1681287087,
+        "rank": 39,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 144905,
+        "num": 144905,
+        "word": "陈建斌夸陈晓有演员的美德",
+        "onboard_time": 1681285587,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143809,
+        "num": 143809,
+        "word": "LPL十大选手定妆照",
+        "onboard_time": 1681276529,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140407,
+        "num": 140407,
+        "word": "杨幂新剧演女间谍",
+        "onboard_time": 1681284446,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139808,
+        "num": 139808,
+        "word": "大城市户口真的重要吗",
+        "onboard_time": 1681288045,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 136336,
+        "num": 136336,
+        "word": "澹台烬玲娜贝儿cp名",
+        "onboard_time": 1681279587,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127185,
+        "num": 127185,
+        "word": "老道 东吉",
+        "onboard_time": 1681288406,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126929,
+        "num": 126929,
+        "word": "90后男生拿到京户离职被公司追偿",
+        "onboard_time": 1681278266,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125579,
+        "num": 125579,
+        "word": "云南吃菌菇火锅店员取汤留样",
+        "onboard_time": 1681274849,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 77047,
+        "num": 124585,
+        "word": "明日方舟",
+        "onboard_time": 1681280307,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69474,
+        "num": 123839,
+        "word": "在火之前的淄博吃烧烤是一种什么体验",
+        "onboard_time": 1681283605,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥科技创新的支撑引领作用#"
+    }
+  }
+}

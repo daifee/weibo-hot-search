@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681287713625,
+  "endTime": 1681288496657,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1083,6 +1083,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1865626,
+      "num": 1865626,
+      "word": "小伙年会喜提365天带薪休假",
+      "onboard_time": 1681275689,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1865561,
       "num": 485451,
       "word": "张佳宁点痣了",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1681024648,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1859946,
-      "num": 1859946,
-      "word": "小伙年会喜提365天带薪休假",
-      "onboard_time": 1681275689,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1847263,
@@ -1843,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1324209,
+      "num": 1324209,
+      "word": "减肥的人晚上都在吃什么",
+      "onboard_time": 1681284806,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1317519,
       "num": 1317519,
       "word": "杭州悬赏100万出点子摆脱美食荒漠",
@@ -2553,14 +2561,6 @@
       "onboard_time": 1681198047,
       "rank": 45,
       "category": "社会新闻,国外要闻"
-    },
-    {
-      "raw_hot": 1058642,
-      "num": 1058642,
-      "word": "减肥的人晚上都在吃什么",
-      "onboard_time": 1681284806,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1055081,
@@ -4473,6 +4473,14 @@
       "onboard_time": 1680346531,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 705788,
+      "num": 317452,
+      "word": "杨紫泰国随拍",
+      "onboard_time": 1681286666,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 705712,
@@ -7635,14 +7643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 465998,
-      "num": 317452,
-      "word": "杨紫泰国随拍",
-      "onboard_time": 1681286666,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 464862,
       "num": 284337,
       "word": "易烊千玺顺毛眼镜造型",
@@ -8771,6 +8771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408594,
+      "num": 408594,
+      "word": "教资",
+      "onboard_time": 1681284386,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 408094,
       "num": 408094,
       "word": "哇唧唧哇",
@@ -9065,14 +9073,6 @@
       "onboard_time": 1680415825,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 397166,
-      "num": 397166,
-      "word": "教资",
-      "onboard_time": 1681284386,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 396927,
@@ -9777,6 +9777,14 @@
       "onboard_time": 1680694711,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363768,
+      "num": 202666,
+      "word": "亲亲您这个什么您心里不清楚吗",
+      "onboard_time": 1681287746,
+      "rank": 30,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 363673,
@@ -14075,6 +14083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 243768,
+      "num": 243768,
+      "word": "毕业第一份工作月薪需要多少",
+      "onboard_time": 1681287087,
+      "rank": 39,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 243649,
       "num": 243649,
       "word": "周雨彤为演戏去公司坐班",
@@ -14497,6 +14513,14 @@
       "onboard_time": 1681275988,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236137,
+      "num": 236137,
+      "word": "冥夜赦免了天欢",
+      "onboard_time": 1681286608,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 235888,
@@ -15753,6 +15777,14 @@
       "onboard_time": 1680765386,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217340,
+      "num": 217340,
+      "word": "警方回应女生劝阻女子带男孩进更衣室遭打",
+      "onboard_time": 1681287685,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217215,
@@ -17545,6 +17577,14 @@
       "onboard_time": 1680581734,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202707,
+      "num": 202707,
+      "word": "校方要求学生外出实习是否必要",
+      "onboard_time": 1681288107,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 202663,
@@ -19769,6 +19809,14 @@
       "onboard_time": 1680357930,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190623,
+      "num": 190623,
+      "word": "严浩翔极挑白西装造型路透",
+      "onboard_time": 1681287805,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190548,
@@ -22771,14 +22819,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 160979,
-      "num": 160979,
-      "word": "冥夜赦免了天欢",
-      "onboard_time": 1681286608,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160956,
       "num": 160956,
       "word": "打戏斗破苍穹会出手",
@@ -23323,6 +23363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154548,
+      "num": 154548,
+      "word": "天欢被处雷刑",
+      "onboard_time": 1681288406,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154515,
       "num": 154515,
       "word": "LPL十年回忆杀",
@@ -23857,14 +23905,6 @@
       "onboard_time": 1680399507,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 148858,
-      "num": 148858,
-      "word": "毕业第一份工作月薪需要多少",
-      "onboard_time": 1681287087,
-      "rank": 39,
-      "category": "社会议题"
     },
     {
       "raw_hot": 148833,
@@ -24585,6 +24625,14 @@
       "onboard_time": 1680409469,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139808,
+      "num": 139808,
+      "word": "大城市户口真的重要吗",
+      "onboard_time": 1681288045,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 139797,
@@ -25395,14 +25443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129218,
-      "num": 129218,
-      "word": "警方回应女生劝阻女子带男孩进更衣室遭打",
-      "onboard_time": 1681287685,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129203,
       "num": 129203,
       "word": "何洛洛说未来工作以表演为主",
@@ -25553,6 +25593,14 @@
       "onboard_time": 1680486149,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127185,
+      "num": 127185,
+      "word": "老道 东吉",
+      "onboard_time": 1681288406,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 126935,
