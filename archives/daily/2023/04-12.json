@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681267351431,
+  "endTime": 1681269464149,
   "band_list": [
     {
       "raw_hot": 2569622,
@@ -8,6 +8,22 @@
       "word": "专家称年轻人不生小孩是不对的",
       "onboard_time": 1681225710,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2513743,
+      "num": 988589,
+      "word": "丁克的我想通了生孩子的意义",
+      "onboard_time": 1681265845,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1994579,
+      "num": 1994579,
+      "word": "泰国坠崖孕妇仍无法离婚",
+      "onboard_time": 1681266625,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -19,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1550487,
+      "num": 1550487,
+      "word": "00后网红马若松遭遇车祸身亡",
+      "onboard_time": 1681265725,
+      "rank": 1,
+      "category": "社会负面,网红"
+    },
+    {
       "raw_hot": 1454951,
       "num": 523017,
       "word": "年轻人不结婚不生娃反促进宠物经济",
       "onboard_time": 1681255581,
       "rank": 14,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1386251,
-      "num": 1386251,
-      "word": "00后网红马若松遭遇车祸身亡",
-      "onboard_time": 1681265725,
-      "rank": 1,
-      "category": "社会负面,网红"
     },
     {
       "raw_hot": 1339113,
@@ -51,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 988589,
-      "num": 988589,
-      "word": "丁克的我想通了生孩子的意义",
-      "onboard_time": 1681265845,
-      "rank": 7,
-      "category": "情感"
+      "raw_hot": 1113389,
+      "num": 402816,
+      "word": "白鹿想和杨幂互换衣橱",
+      "onboard_time": 1681266565,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 928021,
@@ -91,20 +107,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 712765,
+      "num": 712765,
+      "word": "奔跑吧第十一季定档",
+      "onboard_time": 1681266085,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 682260,
       "num": 682260,
       "word": "沈阳三孩家庭每月发500元至孩子3岁",
       "onboard_time": 1681259426,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 665547,
-      "num": 665547,
-      "word": "奔跑吧第十一季定档",
-      "onboard_time": 1681266085,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 644434,
@@ -121,14 +137,6 @@
       "onboard_time": 1681227929,
       "rank": 12,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 599875,
-      "num": 515762,
-      "word": "泰国坠崖孕妇仍无法离婚",
-      "onboard_time": 1681266625,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598482,
@@ -227,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452336,
+      "num": 452336,
+      "word": "冯绍峰王丽坤新电影演夫妻",
+      "onboard_time": 1681268426,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447467,
       "num": 447467,
       "word": "熙米鹿",
@@ -259,12 +275,44 @@
       "category": "情感,影视"
     },
     {
+      "raw_hot": 408700,
+      "num": 274846,
+      "word": "什么原因阻碍了你生小孩",
+      "onboard_time": 1681268187,
+      "rank": 20,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 400512,
       "num": 400512,
       "word": "南京大屠杀幸存者郑锦阳逝世",
       "onboard_time": 1681264823,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400491,
+      "num": 400491,
+      "word": "利剑玫瑰全阵容官宣",
+      "onboard_time": 1681266444,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 368497,
+      "num": 266527,
+      "word": "中国网友韩国偶遇崔显旭",
+      "onboard_time": 1681266686,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 367374,
+      "num": 257431,
+      "word": "虞书欣去了洛杉矶环球影城",
+      "onboard_time": 1681267108,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 364621,
@@ -289,6 +337,14 @@
       "onboard_time": 1681225110,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 359119,
+      "num": 359119,
+      "word": "朴叙俊出演惊奇队长老公",
+      "onboard_time": 1681267225,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 349587,
@@ -387,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280686,
-      "num": 280686,
-      "word": "白鹿想和杨幂互换衣橱",
-      "onboard_time": 1681266565,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278632,
       "num": 278632,
       "word": "利剑玫瑰",
@@ -441,6 +489,14 @@
       "onboard_time": 1681224150,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254811,
+      "num": 254811,
+      "word": "原来猫咪也有法令纹",
+      "onboard_time": 1681267407,
+      "rank": 24,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 250821,
@@ -515,12 +571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218254,
-      "num": 218254,
-      "word": "利剑玫瑰全阵容官宣",
-      "onboard_time": 1681266444,
+      "raw_hot": 216912,
+      "num": 216912,
+      "word": "王者荣耀",
+      "onboard_time": 1681268905,
       "rank": 28,
-      "category": "影视"
+      "category": "游戏"
     },
     {
       "raw_hot": 214215,
@@ -529,6 +585,22 @@
       "onboard_time": 1681265546,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 206557,
+      "num": 206557,
+      "word": "迪丽热巴说无论你在哪都要带你回家",
+      "onboard_time": 1681269269,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206409,
+      "num": 206409,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1681265485,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 206116,
@@ -587,14 +659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200094,
-      "num": 200094,
-      "word": "中国网友韩国偶遇崔显旭",
-      "onboard_time": 1681266686,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196785,
       "num": 196785,
       "word": "BLG晋级MSI",
@@ -603,20 +667,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189583,
-      "num": 189583,
-      "word": "虞书欣去了洛杉矶环球影城",
-      "onboard_time": 1681267108,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188681,
       "num": 188681,
       "word": "奔跑吧",
       "onboard_time": 1681266867,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186516,
+      "num": 186516,
+      "word": "马若松父母曾反对他玩机车",
+      "onboard_time": 1681269269,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185309,
+      "num": 185309,
+      "word": "周三的精神状态",
+      "onboard_time": 1681265245,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 183502,
@@ -643,14 +715,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 180107,
-      "num": 180107,
-      "word": "森林狼vs湖人",
-      "onboard_time": 1681265485,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175748,
       "num": 153891,
       "word": "aespa妆造",
@@ -667,12 +731,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 174532,
-      "num": 174532,
-      "word": "周三的精神状态",
-      "onboard_time": 1681265245,
-      "rank": 43,
-      "category": "幽默,情感"
+      "raw_hot": 171090,
+      "num": 171090,
+      "word": "摇滚精神的本质是自由而非放纵",
+      "onboard_time": 1681269387,
+      "rank": 38,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 169563,
@@ -681,6 +745,22 @@
       "onboard_time": 1681205068,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169469,
+      "num": 169469,
+      "word": "陈伟霆用方言推荐电影暴风",
+      "onboard_time": 1681269269,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169010,
+      "num": 169010,
+      "word": "原神纳西妲",
+      "onboard_time": 1681269025,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 168696,
@@ -697,6 +777,14 @@
       "onboard_time": 1681229785,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 163253,
+      "num": 284780,
+      "word": "是时候换台电车了",
+      "onboard_time": 1681267287,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 163234,
@@ -745,22 +833,6 @@
       "onboard_time": 1681258886,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152222,
-      "num": 165002,
-      "word": "是时候换台电车了",
-      "onboard_time": 1681267287,
-      "rank": 47,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 150624,
-      "num": 150624,
-      "word": "朴叙俊出演惊奇队长老公",
-      "onboard_time": 1681267225,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 150092,

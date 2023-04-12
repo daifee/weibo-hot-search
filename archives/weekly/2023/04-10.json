@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681267351431,
+  "endTime": 1681269464149,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -65,6 +65,14 @@
       "onboard_time": 1681225710,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2513743,
+      "num": 988589,
+      "word": "丁克的我想通了生孩子的意义",
+      "onboard_time": 1681265845,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 2507301,
@@ -137,6 +145,14 @@
       "onboard_time": 1681132285,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1994579,
+      "num": 1994579,
+      "word": "泰国坠崖孕妇仍无法离婚",
+      "onboard_time": 1681266625,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1987750,
@@ -251,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1550487,
+      "num": 1550487,
+      "word": "00后网红马若松遭遇车祸身亡",
+      "onboard_time": 1681265725,
+      "rank": 1,
+      "category": "社会负面,网红"
+    },
+    {
       "raw_hot": 1536049,
       "num": 1536049,
       "word": "今年五一实际只放一天",
@@ -297,14 +321,6 @@
       "onboard_time": 1681255581,
       "rank": 14,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1386251,
-      "num": 1386251,
-      "word": "00后网红马若松遭遇车祸身亡",
-      "onboard_time": 1681265725,
-      "rank": 1,
-      "category": "社会负面,网红"
     },
     {
       "raw_hot": 1343366,
@@ -435,6 +451,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1113389,
+      "num": 402816,
+      "word": "白鹿想和杨幂互换衣橱",
+      "onboard_time": 1681266565,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1097633,
       "num": 1097633,
       "word": "冯小刚我人就在北京",
@@ -512,14 +536,6 @@
       "word": "今年的假期余额只剩6天了",
       "onboard_time": 1681098928,
       "rank": 16,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 988589,
-      "num": 988589,
-      "word": "丁克的我想通了生孩子的意义",
-      "onboard_time": 1681265845,
-      "rank": 7,
       "category": "情感"
     },
     {
@@ -867,6 +883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 712765,
+      "num": 712765,
+      "word": "奔跑吧第十一季定档",
+      "onboard_time": 1681266085,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 710549,
       "num": 441397,
       "word": "王力宏霍建华林心如聚会",
@@ -984,14 +1008,6 @@
       "word": "黄晓明问贾乃亮龚俊我可以相信你们吗",
       "onboard_time": 1681105349,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 665547,
-      "num": 665547,
-      "word": "奔跑吧第十一季定档",
-      "onboard_time": 1681266085,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -1193,14 +1209,6 @@
       "onboard_time": 1681182867,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 599875,
-      "num": 515762,
-      "word": "泰国坠崖孕妇仍无法离婚",
-      "onboard_time": 1681266625,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598482,
@@ -1763,6 +1771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 452336,
+      "num": 452336,
+      "word": "冯绍峰王丽坤新电影演夫妻",
+      "onboard_time": 1681268426,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 450188,
       "num": 310130,
       "word": "买了个五斤的芒果",
@@ -1987,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408700,
+      "num": 274846,
+      "word": "什么原因阻碍了你生小孩",
+      "onboard_time": 1681268187,
+      "rank": 20,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 407700,
       "num": 407700,
       "word": "许嵩音乐节",
@@ -2073,6 +2097,14 @@
       "onboard_time": 1681082721,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400491,
+      "num": 400491,
+      "word": "利剑玫瑰全阵容官宣",
+      "onboard_time": 1681266444,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 400373,
@@ -2219,12 +2251,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 368497,
+      "num": 266527,
+      "word": "中国网友韩国偶遇崔显旭",
+      "onboard_time": 1681266686,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367686,
       "num": 367686,
       "word": "女子起诉邻居装可视门铃法院判拆除",
       "onboard_time": 1681104268,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367374,
+      "num": 257431,
+      "word": "虞书欣去了洛杉矶环球影城",
+      "onboard_time": 1681267108,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 365639,
@@ -2249,6 +2297,14 @@
       "onboard_time": 1681260689,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359119,
+      "num": 359119,
+      "word": "朴叙俊出演惊奇队长老公",
+      "onboard_time": 1681267225,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 358992,
@@ -2883,14 +2939,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 280686,
-      "num": 280686,
-      "word": "白鹿想和杨幂互换衣橱",
-      "onboard_time": 1681266565,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278632,
       "num": 278632,
       "word": "利剑玫瑰",
@@ -3065,6 +3113,14 @@
       "onboard_time": 1681186651,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254811,
+      "num": 254811,
+      "word": "原来猫咪也有法令纹",
+      "onboard_time": 1681267407,
+      "rank": 24,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 254661,
@@ -3579,14 +3635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218254,
-      "num": 218254,
-      "word": "利剑玫瑰全阵容官宣",
-      "onboard_time": 1681266444,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 217857,
       "num": 217857,
       "word": "虞书欣工作室发长文回应",
@@ -3617,6 +3665,14 @@
       "onboard_time": 1681185689,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216912,
+      "num": 216912,
+      "word": "王者荣耀",
+      "onboard_time": 1681268905,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 216511,
@@ -3849,6 +3905,22 @@
       "onboard_time": 1681196304,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206557,
+      "num": 206557,
+      "word": "迪丽热巴说无论你在哪都要带你回家",
+      "onboard_time": 1681269269,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206409,
+      "num": 206409,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1681265485,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 206116,
@@ -4089,14 +4161,6 @@
       "onboard_time": 1681110393,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200094,
-      "num": 200094,
-      "word": "中国网友韩国偶遇崔显旭",
-      "onboard_time": 1681266686,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 199938,
@@ -4507,14 +4571,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 189583,
-      "num": 189583,
-      "word": "虞书欣去了洛杉矶环球影城",
-      "onboard_time": 1681267108,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189302,
       "num": 189302,
       "word": "半熟恋人2全员红秀大片",
@@ -4627,6 +4683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186516,
+      "num": 186516,
+      "word": "马若松父母曾反对他玩机车",
+      "onboard_time": 1681269269,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186462,
       "num": 186462,
       "word": "黄明昊加盟极限挑战9",
@@ -4665,6 +4729,14 @@
       "onboard_time": 1681100492,
       "rank": 46,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 185309,
+      "num": 185309,
+      "word": "周三的精神状态",
+      "onboard_time": 1681265245,
+      "rank": 43,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 184801,
@@ -4753,14 +4825,6 @@
       "onboard_time": 1681138169,
       "rank": 38,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 180107,
-      "num": 180107,
-      "word": "森林狼vs湖人",
-      "onboard_time": 1681265485,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 179849,
@@ -4883,14 +4947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174532,
-      "num": 174532,
-      "word": "周三的精神状态",
-      "onboard_time": 1681265245,
-      "rank": 43,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 174355,
       "num": 215113,
       "word": "有这8种症状需警惕帕金森病",
@@ -4947,6 +5003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171090,
+      "num": 171090,
+      "word": "摇滚精神的本质是自由而非放纵",
+      "onboard_time": 1681269387,
+      "rank": 38,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 171027,
       "num": 171027,
       "word": "长月烬明壁纸",
@@ -4987,6 +5051,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169469,
+      "num": 169469,
+      "word": "陈伟霆用方言推荐电影暴风",
+      "onboard_time": 1681269269,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169010,
+      "num": 169010,
+      "word": "原神纳西妲",
+      "onboard_time": 1681269025,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168073,
       "num": 168073,
       "word": "新疆草莓音乐节",
@@ -5017,6 +5097,14 @@
       "onboard_time": 1681187431,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163253,
+      "num": 284780,
+      "word": "是时候换台电车了",
+      "onboard_time": 1681267287,
+      "rank": 47,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 163234,
@@ -5219,14 +5307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152222,
-      "num": 165002,
-      "word": "是时候换台电车了",
-      "onboard_time": 1681267287,
-      "rank": 47,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 152029,
       "num": 152029,
       "word": "林俊杰新专辑重拾快乐",
@@ -5288,14 +5368,6 @@
       "word": "吴磊的小鸟依人",
       "onboard_time": 1681138710,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 150624,
-      "num": 150624,
-      "word": "朴叙俊出演惊奇队长老公",
-      "onboard_time": 1681267225,
-      "rank": 49,
       "category": "影视"
     },
     {
