@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681299210972,
+  "endTime": 1681302833917,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1619,6 +1619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1505814,
+      "num": 209992,
+      "word": "女子醉酒后在酒店遭两次性侵",
+      "onboard_time": 1681298848,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1499917,
       "num": 1499917,
       "word": "游客吐槽甘孜一公厕需凭空瓶进入",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1680586050,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1448735,
+      "num": 1448735,
+      "word": "蛟蚌分离",
+      "onboard_time": 1681297348,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 1437150,
@@ -3331,6 +3347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 879824,
+      "num": 879824,
+      "word": "电商主播年薪千万降到年薪百万",
+      "onboard_time": 1681299388,
+      "rank": 1,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 879225,
       "num": 879225,
       "word": "不上班的年轻人是怎么搞钱的",
@@ -4217,6 +4241,14 @@
       "onboard_time": 1680842855,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 747137,
+      "num": 747137,
+      "word": "不要穿试衣间里的鞋",
+      "onboard_time": 1681299570,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 744478,
@@ -5139,14 +5171,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 645954,
-      "num": 645954,
-      "word": "蛟蚌分离",
-      "onboard_time": 1681297348,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 645823,
       "num": 645823,
       "word": "更适合中国宝宝体质的",
@@ -5608,6 +5632,14 @@
       "word": "Amber 排名",
       "onboard_time": 1680593311,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 608679,
+      "num": 608679,
+      "word": "半熟恋人 老孙",
+      "onboard_time": 1681297526,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -6323,14 +6355,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 554117,
-      "num": 554117,
-      "word": "半熟恋人 老孙",
-      "onboard_time": 1681297526,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 553792,
       "num": 553792,
       "word": "辅导员你真的很不幽默",
@@ -6713,6 +6737,14 @@
       "onboard_time": 1680685770,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 532552,
+      "num": 532552,
+      "word": "终于等到榴莲大降价",
+      "onboard_time": 1681297887,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 532190,
@@ -10051,6 +10083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360139,
+      "num": 360139,
+      "word": "宋三川梁友安都戴了婚戒",
+      "onboard_time": 1681298066,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359988,
       "num": 359988,
       "word": "商务部对台进行贸易壁垒调查",
@@ -10881,6 +10921,14 @@
       "onboard_time": 1680671131,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334033,
+      "num": 334033,
+      "word": "张柏芝路透状态",
+      "onboard_time": 1681301309,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 333876,
@@ -12792,6 +12840,14 @@
       "word": "辽宁大连3.2级地震",
       "onboard_time": 1680782189,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280130,
+      "num": 227878,
+      "word": "两女子吃自助打包400元食材被拘",
+      "onboard_time": 1681298606,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -15307,6 +15363,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 227823,
+      "num": 227823,
+      "word": "徐璐跳了flower",
+      "onboard_time": 1681301789,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227805,
       "num": 227805,
       "word": "光明正大薅熊猫毛的乌鸦",
@@ -16107,6 +16171,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 216354,
+      "num": 216354,
+      "word": "TTG对战TES",
+      "onboard_time": 1681302808,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216349,
       "num": 216349,
       "word": "INTO1泰国演唱会第二场",
@@ -16339,14 +16411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213203,
-      "num": 182825,
-      "word": "终于等到榴莲大降价",
-      "onboard_time": 1681297887,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 213178,
       "num": 213178,
       "word": "马伊琍新剧长发齐刘海造型",
@@ -16384,6 +16448,14 @@
       "word": "澹台烬善良",
       "onboard_time": 1680959552,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212689,
+      "num": 212689,
+      "word": "罗云熙说搞点邪骨778",
+      "onboard_time": 1681299625,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -16681,6 +16753,14 @@
       "onboard_time": 1681017388,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208919,
+      "num": 208919,
+      "word": "冥夜说和桑酒没分",
+      "onboard_time": 1681302808,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 208917,
@@ -17115,14 +17195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206488,
-      "num": 172096,
-      "word": "宋三川梁友安都戴了婚戒",
-      "onboard_time": 1681298066,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206453,
       "num": 206453,
       "word": "艾怡良唱往事只能回味",
@@ -17417,6 +17489,14 @@
       "onboard_time": 1680678508,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 204606,
+      "num": 204606,
+      "word": "吴磊说宋三川再会",
+      "onboard_time": 1681302808,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 204542,
@@ -19355,6 +19435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195519,
+      "num": 195519,
+      "word": "宋三川男友视角vlog",
+      "onboard_time": 1681302089,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195499,
       "num": 195499,
       "word": "忠犬八公结局是HE",
@@ -19571,6 +19659,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 193981,
+      "num": 211033,
+      "word": "陈立农线上首唱会官宣",
+      "onboard_time": 1681302448,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193953,
       "num": 193953,
       "word": "孙千李沁双人大片",
@@ -19657,6 +19753,14 @@
       "onboard_time": 1680837685,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193510,
+      "num": 227971,
+      "word": "极氪发布会",
+      "onboard_time": 1681301609,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 193431,
@@ -20691,6 +20795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187378,
+      "num": 180643,
+      "word": "看爱情而已大结局belike",
+      "onboard_time": 1681302808,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187282,
       "num": 187282,
       "word": "宇宙探索编辑部 晕镜头",
@@ -20801,14 +20913,6 @@
       "onboard_time": 1680769051,
       "rank": 40,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 186605,
-      "num": 157456,
-      "word": "女子醉酒后在酒店遭两次性侵",
-      "onboard_time": 1681298848,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186516,
@@ -21475,6 +21579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181099,
+      "num": 181099,
+      "word": "长月烬明角色号互动",
+      "onboard_time": 1681302568,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181055,
       "num": 181055,
       "word": "李荣浩演唱会大合唱乌梅子酱",
@@ -21713,6 +21825,14 @@
       "onboard_time": 1681277426,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179013,
+      "num": 209567,
+      "word": "卢拉访华",
+      "onboard_time": 1681301186,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 178966,
@@ -22617,6 +22737,14 @@
       "onboard_time": 1680865349,
       "rank": 45,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 168109,
+      "num": 195970,
+      "word": "你们公司是不招双眼皮吗",
+      "onboard_time": 1681298308,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 168083,
@@ -26043,6 +26171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127085,
+      "num": 127085,
+      "word": "皇马VS切尔西",
+      "onboard_time": 1681302027,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126935,
       "num": 126935,
       "word": "猫咪爬上树默默看小狗寻找自己",
@@ -26401,14 +26537,6 @@
       "onboard_time": 1680603271,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121158,
-      "num": 121158,
-      "word": "两女子吃自助打包400元食材被拘",
-      "onboard_time": 1681298606,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121149,
@@ -26921,6 +27049,14 @@
       "onboard_time": 1680974418,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112560,
+      "num": 112560,
+      "word": "女儿出首付母亲买房后把产权给儿子",
+      "onboard_time": 1681302627,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 112299,

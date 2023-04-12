@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681299210972,
+  "endTime": 1681302833917,
   "band_list": [
     {
       "raw_hot": 3091589,
@@ -107,12 +107,28 @@
       "category": "社会负面,网红"
     },
     {
+      "raw_hot": 1505814,
+      "num": 209992,
+      "word": "女子醉酒后在酒店遭两次性侵",
+      "onboard_time": 1681298848,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1454951,
       "num": 523017,
       "word": "年轻人不结婚不生娃反促进宠物经济",
       "onboard_time": 1681255581,
       "rank": 14,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1448735,
+      "num": 1448735,
+      "word": "蛟蚌分离",
+      "onboard_time": 1681297348,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 1339113,
@@ -219,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 879824,
+      "num": 879824,
+      "word": "电商主播年薪千万降到年薪百万",
+      "onboard_time": 1681299388,
+      "rank": 1,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 863780,
       "num": 863780,
       "word": "法国续租大熊猫欢欢和圆仔",
@@ -265,6 +289,14 @@
       "onboard_time": 1681278867,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 747137,
+      "num": 747137,
+      "word": "不要穿试衣间里的鞋",
+      "onboard_time": 1681299570,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 734442,
@@ -323,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 645954,
-      "num": 645954,
-      "word": "蛟蚌分离",
-      "onboard_time": 1681297348,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 644434,
       "num": 644434,
       "word": "初代跑男重聚",
@@ -361,6 +385,14 @@
       "onboard_time": 1681294167,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 608679,
+      "num": 608679,
+      "word": "半熟恋人 老孙",
+      "onboard_time": 1681297526,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 608185,
@@ -459,14 +491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 554117,
-      "num": 554117,
-      "word": "半熟恋人 老孙",
-      "onboard_time": 1681297526,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 553240,
       "num": 553240,
       "word": "毕业第一份工作月薪需要多少",
@@ -481,6 +505,14 @@
       "onboard_time": 1681264286,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 532552,
+      "num": 532552,
+      "word": "终于等到榴莲大降价",
+      "onboard_time": 1681297887,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 531444,
@@ -803,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360139,
+      "num": 360139,
+      "word": "宋三川梁友安都戴了婚戒",
+      "onboard_time": 1681298066,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359988,
       "num": 359988,
       "word": "商务部对台进行贸易壁垒调查",
@@ -897,6 +937,14 @@
       "onboard_time": 1681282466,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334033,
+      "num": 334033,
+      "word": "张柏芝路透状态",
+      "onboard_time": 1681301309,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 331467,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1681276529,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280130,
+      "num": 227878,
+      "word": "两女子吃自助打包400元食材被拘",
+      "onboard_time": 1681298606,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278909,
@@ -1323,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227823,
+      "num": 227823,
+      "word": "徐璐跳了flower",
+      "onboard_time": 1681301789,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227246,
       "num": 165161,
       "word": "追星要有边界感",
@@ -1387,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216354,
+      "num": 216354,
+      "word": "TTG对战TES",
+      "onboard_time": 1681302808,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215298,
       "num": 215298,
       "word": "施罗德绝杀",
@@ -1403,12 +1475,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 213203,
-      "num": 182825,
-      "word": "终于等到榴莲大降价",
-      "onboard_time": 1681297887,
-      "rank": 48,
-      "category": "美食"
+      "raw_hot": 212689,
+      "num": 212689,
+      "word": "罗云熙说搞点邪骨778",
+      "onboard_time": 1681299625,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 210037,
@@ -1427,6 +1499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 208919,
+      "num": 208919,
+      "word": "冥夜说和桑酒没分",
+      "onboard_time": 1681302808,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208579,
       "num": 208579,
       "word": "我的胃只有两种状态",
@@ -1443,14 +1523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206488,
-      "num": 172096,
-      "word": "宋三川梁友安都戴了婚戒",
-      "onboard_time": 1681298066,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206116,
       "num": 206116,
       "word": "淄博青年驿站",
@@ -1464,6 +1536,14 @@
       "word": "桑酒有什么错呢她只是想吃全蛇宴",
       "onboard_time": 1681297647,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204606,
+      "num": 204606,
+      "word": "吴磊说宋三川再会",
+      "onboard_time": 1681302808,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1611,6 +1691,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 196828,
+      "num": 196828,
+      "word": "长月烬明预告",
+      "onboard_time": 1681299570,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196785,
       "num": 196785,
       "word": "BLG晋级MSI",
@@ -1643,6 +1731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195519,
+      "num": 195519,
+      "word": "宋三川男友视角vlog",
+      "onboard_time": 1681302089,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195196,
       "num": 195196,
       "word": "张兰招聘高学历主播",
@@ -1651,12 +1747,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 193981,
+      "num": 211033,
+      "word": "陈立农线上首唱会官宣",
+      "onboard_time": 1681302448,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193682,
       "num": 193682,
       "word": "陈建斌夸陈晓有演员的美德",
       "onboard_time": 1681285587,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193510,
+      "num": 227971,
+      "word": "极氪发布会",
+      "onboard_time": 1681301609,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 191865,
@@ -1723,20 +1835,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187378,
+      "num": 180643,
+      "word": "看爱情而已大结局belike",
+      "onboard_time": 1681302808,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186682,
       "num": 186682,
       "word": "科学家的休假时间都在做什么",
       "onboard_time": 1681297047,
       "rank": 35,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 186605,
-      "num": 157456,
-      "word": "女子醉酒后在酒店遭两次性侵",
-      "onboard_time": 1681298848,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186066,
@@ -1819,6 +1931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181099,
+      "num": 181099,
+      "word": "长月烬明角色号互动",
+      "onboard_time": 1681302568,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180402,
       "num": 162438,
       "word": "刘雯再登美国版VOGUE封面",
@@ -1841,6 +1961,14 @@
       "onboard_time": 1681277426,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179013,
+      "num": 209567,
+      "word": "卢拉访华",
+      "onboard_time": 1681301186,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 177318,
@@ -1969,6 +2097,14 @@
       "onboard_time": 1681215505,
       "rank": 23,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 168109,
+      "num": 195970,
+      "word": "你们公司是不招双眼皮吗",
+      "onboard_time": 1681298308,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 167615,
@@ -2299,12 +2435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128500,
+      "num": 128500,
+      "word": "京城大师赛",
+      "onboard_time": 1681301008,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127381,
       "num": 127381,
       "word": "瘫痪女童复健3年能骑自行车了",
       "onboard_time": 1681261587,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127085,
+      "num": 127085,
+      "word": "皇马VS切尔西",
+      "onboard_time": 1681302027,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 126531,
@@ -2339,20 +2491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 121158,
-      "num": 121158,
-      "word": "两女子吃自助打包400元食材被拘",
-      "onboard_time": 1681298606,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114422,
       "num": 114422,
       "word": "这屋顶怎么上去的",
       "onboard_time": 1681298426,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112560,
+      "num": 112560,
+      "word": "女儿出首付母亲买房后把产权给儿子",
+      "onboard_time": 1681302627,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 110556,

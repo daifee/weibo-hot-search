@@ -1,0 +1,410 @@
+{
+  "runTime": 1681302833917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1448735,
+        "num": 1448735,
+        "word": "蛟蚌分离",
+        "onboard_time": 1681297348,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 879824,
+        "num": 879824,
+        "word": "电商主播年薪千万降到年薪百万",
+        "onboard_time": 1681299388,
+        "rank": 1,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 42399,
+        "num": 867353,
+        "word": "看税收走基层",
+        "onboard_time": 1681289065,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866754,
+        "num": 866754,
+        "word": "减肥的人晚上都在吃什么",
+        "onboard_time": 1681284806,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 775331,
+        "num": 775331,
+        "word": "六公主谈柯南争议",
+        "onboard_time": 1681293089,
+        "rank": 4,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 747137,
+        "num": 747137,
+        "word": "不要穿试衣间里的鞋",
+        "onboard_time": 1681299570,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 608679,
+        "num": 608679,
+        "word": "半熟恋人 老孙",
+        "onboard_time": 1681297526,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532552,
+        "num": 532552,
+        "word": "终于等到榴莲大降价",
+        "onboard_time": 1681297887,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 360139,
+        "num": 360139,
+        "word": "宋三川梁友安都戴了婚戒",
+        "onboard_time": 1681298066,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279230,
+        "num": 344670,
+        "word": "中方对马克龙表态遭美批评不感到惊讶",
+        "onboard_time": 1681291047,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 620052,
+        "num": 339914,
+        "word": "亲亲您这个什么您心里不清楚吗",
+        "onboard_time": 1681287746,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 334033,
+        "num": 334033,
+        "word": "张柏芝路透状态",
+        "onboard_time": 1681301309,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331304,
+        "num": 331304,
+        "word": "雎晓雯怀孕做瑜伽",
+        "onboard_time": 1681296087,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322153,
+        "num": 322153,
+        "word": "蔡徐坤收到小学生送的奥特曼卡",
+        "onboard_time": 1681296087,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319067,
+        "num": 319067,
+        "word": "中了一千万还去上班吗",
+        "onboard_time": 1681290928,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 287346,
+        "num": 287346,
+        "word": "长月烬明天欢下线",
+        "onboard_time": 1681295609,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283712,
+        "num": 283712,
+        "word": "KPOP追星最后悔三件事",
+        "onboard_time": 1681294885,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252551,
+        "num": 252551,
+        "word": "长月烬明",
+        "onboard_time": 1681296328,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238306,
+        "num": 238306,
+        "word": "官方发布预防新冠佩戴口罩指引",
+        "onboard_time": 1681295309,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193510,
+        "num": 227971,
+        "word": "极氪发布会",
+        "onboard_time": 1681301609,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 297469,
+        "num": 227900,
+        "word": "减肥对外貌的改变可以有多大",
+        "onboard_time": 1681295547,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280130,
+        "num": 227878,
+        "word": "两女子吃自助打包400元食材被拘",
+        "onboard_time": 1681298606,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227823,
+        "num": 227823,
+        "word": "徐璐跳了flower",
+        "onboard_time": 1681301789,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216354,
+        "num": 216354,
+        "word": "TTG对战TES",
+        "onboard_time": 1681302808,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212689,
+        "num": 212689,
+        "word": "罗云熙说搞点邪骨778",
+        "onboard_time": 1681299625,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2581829,
+        "num": 212332,
+        "word": "女演员称怀孕后丈夫多次收涉黄短信",
+        "onboard_time": 1681297287,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 196896,
+        "num": 211308,
+        "word": "李金铭曾参加节目被要求当儿媳",
+        "onboard_time": 1681278085,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193981,
+        "num": 211033,
+        "word": "陈立农线上首唱会官宣",
+        "onboard_time": 1681302448,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1505814,
+        "num": 209992,
+        "word": "女子醉酒后在酒店遭两次性侵",
+        "onboard_time": 1681298848,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179013,
+        "num": 209567,
+        "word": "卢拉访华",
+        "onboard_time": 1681301186,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 208919,
+        "num": 208919,
+        "word": "冥夜说和桑酒没分",
+        "onboard_time": 1681302808,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305249,
+        "num": 208569,
+        "word": "杨幂卷发",
+        "onboard_time": 1681293327,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204606,
+        "num": 204606,
+        "word": "吴磊说宋三川再会",
+        "onboard_time": 1681302808,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196828,
+        "num": 196828,
+        "word": "长月烬明预告",
+        "onboard_time": 1681299570,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168109,
+        "num": 195970,
+        "word": "你们公司是不招双眼皮吗",
+        "onboard_time": 1681298308,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 195519,
+        "num": 195519,
+        "word": "宋三川男友视角vlog",
+        "onboard_time": 1681302089,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181099,
+        "num": 181099,
+        "word": "长月烬明角色号互动",
+        "onboard_time": 1681302568,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187378,
+        "num": 180643,
+        "word": "看爱情而已大结局belike",
+        "onboard_time": 1681302808,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174260,
+        "num": 174260,
+        "word": "迪丽热巴开机图",
+        "onboard_time": 1681296087,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155844,
+        "num": 155844,
+        "word": "这是在暗示你可以提涨薪了",
+        "onboard_time": 1681291586,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 371104,
+        "num": 154571,
+        "word": "独居未婚中年男子去世10天后被发现",
+        "onboard_time": 1681291285,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160199,
+        "num": 153596,
+        "word": "名侦探柯南",
+        "onboard_time": 1681296988,
+        "rank": 41,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 151903,
+        "num": 151903,
+        "word": "孔雪儿的肩",
+        "onboard_time": 1681296267,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145342,
+        "num": 145342,
+        "word": "男子分手后花一年时间减掉60斤",
+        "onboard_time": 1681289907,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144447,
+        "num": 144447,
+        "word": "教资",
+        "onboard_time": 1681284386,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128500,
+        "num": 128500,
+        "word": "京城大师赛",
+        "onboard_time": 1681301008,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151139,
+        "num": 128235,
+        "word": "杨紫琼带小金人扫墓",
+        "onboard_time": 1681298187,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142667,
+        "num": 127743,
+        "word": "桑酒有什么错呢她只是想吃全蛇宴",
+        "onboard_time": 1681297647,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127085,
+        "num": 127085,
+        "word": "皇马VS切尔西",
+        "onboard_time": 1681302027,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112560,
+        "num": 112560,
+        "word": "女儿出首付母亲买房后把产权给儿子",
+        "onboard_time": 1681302627,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在茂名市考察调研#"
+    }
+  }
+}
