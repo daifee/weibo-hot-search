@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681274068954,
+  "endTime": 1681276559989,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2259,6 +2259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1123352,
+      "num": 513517,
+      "word": "王岳伦陪王诗龄拍汉服写真",
+      "onboard_time": 1681272989,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1120836,
       "num": 331667,
       "word": "重庆姐弟坠亡案改判可能性几乎为零",
@@ -2292,7 +2300,7 @@
     },
     {
       "raw_hot": 1113389,
-      "num": 402816,
+      "num": 496254,
       "word": "白鹿想和杨幂互换衣橱",
       "onboard_time": 1681266565,
       "rank": 41,
@@ -3787,6 +3795,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 800971,
+      "num": 800971,
+      "word": "网店售三寸金莲缠足袜299一双",
+      "onboard_time": 1681275150,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 799786,
       "num": 799786,
       "word": "女子乐山大佛头顶盘膝打坐",
@@ -4169,6 +4185,14 @@
       "onboard_time": 1681196546,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 734442,
+      "num": 734442,
+      "word": "湖人战胜森林狼",
+      "onboard_time": 1681276050,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 732886,
@@ -4633,6 +4657,14 @@
       "onboard_time": 1680602552,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 678723,
+      "num": 678723,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1681265485,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 678671,
@@ -5507,6 +5539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597952,
+      "num": 597952,
+      "word": "国台办否认大陆有意赠台大熊猫",
+      "onboard_time": 1681273410,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 597806,
       "num": 597806,
       "word": "我国新冠溯源研究情况发布会",
@@ -6081,6 +6121,14 @@
       "onboard_time": 1680771449,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 553732,
+      "num": 553732,
+      "word": "专家称北京打车太便宜应涨价",
+      "onboard_time": 1681275570,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 553038,
@@ -6779,14 +6827,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 511202,
-      "num": 337551,
-      "word": "王岳伦陪王诗龄拍汉服写真",
-      "onboard_time": 1681272989,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 511168,
       "num": 425115,
       "word": "高校图书馆非事业编岗位百人竞争",
@@ -7331,6 +7371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476665,
+      "num": 476665,
+      "word": "小伙年会喜提365天带薪休假",
+      "onboard_time": 1681275689,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476554,
       "num": 476554,
       "word": "闵玧其官宣NBA全球大使",
@@ -7809,6 +7857,14 @@
       "onboard_time": 1681225110,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 449634,
+      "num": 449634,
+      "word": "INTO1上海演唱会官宣",
+      "onboard_time": 1681273649,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 448752,
@@ -8579,6 +8635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 409862,
+      "num": 409862,
+      "word": "拉塞尔不愧为水拉",
+      "onboard_time": 1681275749,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409205,
       "num": 409205,
       "word": "秀智近照",
@@ -8700,7 +8764,7 @@
     },
     {
       "raw_hot": 403544,
-      "num": 331471,
+      "num": 393096,
       "word": "冥夜真身地包天",
       "onboard_time": 1681271968,
       "rank": 25,
@@ -8849,6 +8913,14 @@
       "onboard_time": 1681192225,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398889,
+      "num": 398889,
+      "word": "张凌赫高得好突出",
+      "onboard_time": 1681275451,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 398672,
@@ -9843,6 +9915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354083,
+      "num": 354083,
+      "word": "云南吃菌菇火锅店员取汤留样",
+      "onboard_time": 1681274849,
+      "rank": 20,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 353715,
       "num": 371345,
       "word": "辽宁山火",
@@ -10347,6 +10427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339045,
+      "num": 339045,
+      "word": "李凯尔回应中国男篮归化",
+      "onboard_time": 1681271427,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 338455,
       "num": 186572,
       "word": "女歌手遭男子泼酒后霸气回泼",
@@ -10736,6 +10824,14 @@
       "word": "王鹤棣 白鹤亮翅",
       "onboard_time": 1681003406,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 325863,
+      "num": 325863,
+      "word": "白玉兰奖提名预测",
+      "onboard_time": 1681275749,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -11179,14 +11275,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 310035,
-      "num": 310035,
-      "word": "李凯尔回应中国男篮归化",
-      "onboard_time": 1681271427,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 309805,
       "num": 309805,
       "word": "放个屁风筝",
@@ -11561,14 +11649,6 @@
       "onboard_time": 1680479848,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 298925,
-      "num": 298925,
-      "word": "森林狼vs湖人",
-      "onboard_time": 1681265485,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 298921,
@@ -12475,6 +12555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274055,
+      "num": 264885,
+      "word": "今天好多剧开机",
+      "onboard_time": 1681274790,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273545,
       "num": 273545,
       "word": "张彬彬代旭新剧官宣杀青",
@@ -12585,6 +12673,14 @@
       "onboard_time": 1680518313,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271560,
+      "num": 271560,
+      "word": "向懒羊羊学习",
+      "onboard_time": 1681274071,
+      "rank": 28,
+      "category": "动漫,幽默"
     },
     {
       "raw_hot": 271466,
@@ -12785,6 +12881,14 @@
       "onboard_time": 1681243631,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 266012,
+      "num": 266012,
+      "word": "浙江多地严重污染",
+      "onboard_time": 1681272566,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265832,
@@ -13641,14 +13745,6 @@
       "onboard_time": 1680515012,
       "rank": 31,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 246092,
-      "num": 246092,
-      "word": "浙江多地严重污染",
-      "onboard_time": 1681272566,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246030,
@@ -14699,6 +14795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227737,
+      "num": 227737,
+      "word": "詹姆斯传球",
+      "onboard_time": 1681275988,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227590,
       "num": 227590,
       "word": "NewJeans将于夏天回归",
@@ -15411,20 +15515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217205,
+      "num": 217205,
+      "word": "湖人森林狼加时",
+      "onboard_time": 1681275570,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217193,
       "num": 217193,
       "word": "谁家小狗吵架扮鬼脸啊",
       "onboard_time": 1681185689,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217055,
-      "num": 217055,
-      "word": "INTO1上海演唱会官宣",
-      "onboard_time": 1681273649,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 217052,
@@ -15441,6 +15545,14 @@
       "onboard_time": 1680785129,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216924,
+      "num": 216924,
+      "word": "爱德华兹9分",
+      "onboard_time": 1681276288,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 216511,
@@ -15929,6 +16041,14 @@
       "onboard_time": 1681106126,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210037,
+      "num": 210037,
+      "word": "为什么你到现在还没谈恋爱",
+      "onboard_time": 1681272385,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 209978,
@@ -16803,6 +16923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204147,
+      "num": 204147,
+      "word": "浓眉致命犯规",
+      "onboard_time": 1681276170,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204080,
       "num": 213267,
       "word": "再进化就得上班了",
@@ -17417,6 +17545,14 @@
       "onboard_time": 1680477501,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201428,
+      "num": 201428,
+      "word": "男子被捅后趴在地上淡定玩手机",
+      "onboard_time": 1681275389,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201375,
@@ -18491,6 +18627,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 196068,
+      "num": 196068,
+      "word": "为什么感觉领导都很有精神",
+      "onboard_time": 1681274071,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196017,
       "num": 196017,
       "word": "王天辰发文告别高双星",
@@ -18633,6 +18777,14 @@
       "onboard_time": 1680783991,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194917,
+      "num": 194917,
+      "word": "LPL十大选手定妆照",
+      "onboard_time": 1681276529,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 194909,
@@ -19723,6 +19875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187934,
+      "num": 187934,
+      "word": "李沐宸旗袍造型",
+      "onboard_time": 1681274971,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187920,
       "num": 187920,
       "word": "留学生们在外面真的要好好保护自己",
@@ -20296,14 +20456,6 @@
       "word": "迪士尼里最适合我扮演的角色",
       "onboard_time": 1680672151,
       "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 183598,
-      "num": 183598,
-      "word": "为什么你到现在还没谈恋爱",
-      "onboard_time": 1681272385,
-      "rank": 44,
       "category": "情感"
     },
     {
@@ -21291,6 +21443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171859,
+      "num": 171859,
+      "word": "李宇春新歌鸵鸟逃跑了预告",
+      "onboard_time": 1681275268,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171543,
       "num": 171543,
       "word": "AG对战EDGM",
@@ -21593,6 +21753,14 @@
       "onboard_time": 1680421950,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168447,
+      "num": 168447,
+      "word": "张兰招聘高学历主播",
+      "onboard_time": 1681275689,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 168430,
@@ -21993,14 +22161,6 @@
       "onboard_time": 1680596791,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163562,
-      "num": 163562,
-      "word": "国台办否认大陆有意赠台大熊猫",
-      "onboard_time": 1681273410,
-      "rank": 46,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 163466,
