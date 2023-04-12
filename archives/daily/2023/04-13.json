@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681316585213,
+  "endTime": 1681317541120,
   "band_list": [
     {
       "raw_hot": 2425491,
@@ -19,20 +19,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 742943,
+      "num": 347471,
+      "word": "陈都灵早期等公交旧照",
+      "onboard_time": 1681316664,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 714682,
+      "num": 714682,
+      "word": "不要穿试衣间里的鞋",
+      "onboard_time": 1681299570,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 710676,
       "num": 710676,
       "word": "北京人均存款已接近27万",
       "onboard_time": 1681303948,
       "rank": 0,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 612513,
-      "num": 612513,
-      "word": "不要穿试衣间里的鞋",
-      "onboard_time": 1681299570,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 611045,
@@ -43,8 +51,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 548948,
-      "num": 548948,
+      "raw_hot": 554344,
+      "num": 554344,
       "word": "小杨哥称将在TikTok开设电商",
       "onboard_time": 1681313730,
       "rank": 5,
@@ -59,20 +67,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 458102,
+      "num": 458102,
+      "word": "不吃晚餐真的会变瘦吗",
+      "onboard_time": 1681312653,
+      "rank": 8,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 446098,
       "num": 446098,
       "word": "美生物实验室感染病毒的小白鼠逃了",
       "onboard_time": 1681304548,
       "rank": 7,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 444094,
-      "num": 444094,
-      "word": "不吃晚餐真的会变瘦吗",
-      "onboard_time": 1681312653,
-      "rank": 8,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 420427,
@@ -275,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128249,
+      "num": 98546,
+      "word": "冥夜的手串上有贝壳珠",
+      "onboard_time": 1681309115,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 126594,
       "num": 126594,
       "word": "两女子吃自助打包400元食材被拘",
@@ -363,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 92227,
+      "num": 92227,
+      "word": "石马修公司声明",
+      "onboard_time": 1681315589,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92191,
       "num": 92191,
       "word": "KPOP追星最后悔三件事",
@@ -371,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80984,
-      "num": 80984,
-      "word": "石马修公司声明",
-      "onboard_time": 1681315589,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 81955,
+      "num": 81955,
+      "word": "桑酒打碎冰晶盏的原因",
+      "onboard_time": 1681316546,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 70156,
@@ -387,15 +411,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66990,
-      "num": 66990,
-      "word": "桑酒打碎冰晶盏的原因",
-      "onboard_time": 1681316546,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 30642,
+      "raw_hot": 37237,
       "num": 611434,
       "word": "中国有约",
       "onboard_time": 1681304129,
