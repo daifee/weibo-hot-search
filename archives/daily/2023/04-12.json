@@ -1,7 +1,15 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681269464149,
+  "endTime": 1681270433982,
   "band_list": [
+    {
+      "raw_hot": 2748516,
+      "num": 988589,
+      "word": "丁克的我想通了生孩子的意义",
+      "onboard_time": 1681265845,
+      "rank": 7,
+      "category": "情感"
+    },
     {
       "raw_hot": 2569622,
       "num": 2569622,
@@ -11,16 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2513743,
-      "num": 988589,
-      "word": "丁克的我想通了生孩子的意义",
-      "onboard_time": 1681265845,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1994579,
-      "num": 1994579,
+      "raw_hot": 2138209,
+      "num": 2138209,
       "word": "泰国坠崖孕妇仍无法离婚",
       "onboard_time": 1681266625,
       "rank": 37,
@@ -107,6 +107,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 750159,
+      "num": 750159,
+      "word": "什么原因阻碍了你生小孩",
+      "onboard_time": 1681268187,
+      "rank": 20,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 712765,
       "num": 712765,
       "word": "奔跑吧第十一季定档",
@@ -129,6 +137,14 @@
       "onboard_time": 1681208666,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 627349,
+      "num": 627349,
+      "word": "唐朝诡事录",
+      "onboard_time": 1681270408,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 622408,
@@ -169,6 +185,14 @@
       "onboard_time": 1681265605,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 560532,
+      "num": 560532,
+      "word": "冯绍峰王丽坤新电影演夫妻",
+      "onboard_time": 1681268426,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 536193,
@@ -235,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 452336,
-      "num": 452336,
-      "word": "冯绍峰王丽坤新电影演夫妻",
-      "onboard_time": 1681268426,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 447467,
       "num": 447467,
       "word": "熙米鹿",
@@ -267,20 +283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 437075,
+      "num": 295553,
+      "word": "迪丽热巴说无论你在哪都要带你回家",
+      "onboard_time": 1681269269,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 423264,
       "num": 245239,
       "word": "菩提祖师才是悟空唯一的师父",
       "onboard_time": 1681258647,
       "rank": 22,
       "category": "情感,影视"
-    },
-    {
-      "raw_hot": 408700,
-      "num": 274846,
-      "word": "什么原因阻碍了你生小孩",
-      "onboard_time": 1681268187,
-      "rank": 20,
-      "category": "社会议题"
     },
     {
       "raw_hot": 400512,
@@ -299,8 +315,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378353,
+      "num": 378353,
+      "word": "王者荣耀",
+      "onboard_time": 1681268905,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 368497,
-      "num": 266527,
+      "num": 287927,
       "word": "中国网友韩国偶遇崔显旭",
       "onboard_time": 1681266686,
       "rank": 47,
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 367374,
-      "num": 257431,
+      "num": 280407,
       "word": "虞书欣去了洛杉矶环球影城",
       "onboard_time": 1681267108,
       "rank": 35,
@@ -443,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298925,
+      "num": 298925,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1681265485,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278632,
       "num": 278632,
       "word": "利剑玫瑰",
@@ -571,36 +603,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216912,
-      "num": 216912,
-      "word": "王者荣耀",
-      "onboard_time": 1681268905,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 214215,
       "num": 214215,
       "word": "韩素希紫色毛衫",
       "onboard_time": 1681265546,
       "rank": 36,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 206557,
-      "num": 206557,
-      "word": "迪丽热巴说无论你在哪都要带你回家",
-      "onboard_time": 1681269269,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 206409,
-      "num": 206409,
-      "word": "森林狼vs湖人",
-      "onboard_time": 1681265485,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 206116,
@@ -667,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189779,
+      "num": 189779,
+      "word": "马若松父母曾反对他玩机车",
+      "onboard_time": 1681269269,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188681,
       "num": 188681,
       "word": "奔跑吧",
@@ -675,12 +691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186516,
-      "num": 186516,
-      "word": "马若松父母曾反对他玩机车",
-      "onboard_time": 1681269269,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 185953,
+      "num": 182435,
+      "word": "如何看待沈阳发放三孩育儿补贴",
+      "onboard_time": 1681269687,
+      "rank": 35,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 185309,
@@ -731,12 +747,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173090,
+      "num": 173090,
+      "word": "阿凡达2取景地",
+      "onboard_time": 1681269868,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171090,
       "num": 171090,
       "word": "摇滚精神的本质是自由而非放纵",
       "onboard_time": 1681269387,
       "rank": 38,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 170737,
+      "num": 170737,
+      "word": "让全外网网友们爆炸震惊的男人",
+      "onboard_time": 1681269807,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 169563,
@@ -889,6 +921,14 @@
       "onboard_time": 1681221390,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130308,
+      "num": 130308,
+      "word": "金世佳说无论你在哪里都要带你回家",
+      "onboard_time": 1681270108,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 129738,
