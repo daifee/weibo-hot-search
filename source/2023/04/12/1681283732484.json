@@ -1,0 +1,410 @@
+{
+  "runTime": 1681283732484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1121064,
+        "num": 1121064,
+        "word": "李莎旻子一天打两份工",
+        "onboard_time": 1681280365,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1049764,
+        "num": 1049764,
+        "word": "小伙年会喜提365天带薪休假",
+        "onboard_time": 1681275689,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6208,
+        "num": 830890,
+        "word": "消博会开馆首日有哪些亮点",
+        "onboard_time": 1681216706,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1599311,
+        "num": 816574,
+        "word": "网店售三寸金莲缠足袜299一双",
+        "onboard_time": 1681275150,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1598160,
+        "num": 794159,
+        "word": "李金铭曾参加节目被要求当儿媳",
+        "onboard_time": 1681278085,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 757671,
+        "num": 757671,
+        "word": "南京26年前特大抢劫杀人案告破",
+        "onboard_time": 1681278867,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566617,
+        "num": 566617,
+        "word": "澹台烬玲娜贝儿cp名",
+        "onboard_time": 1681279587,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 470791,
+        "num": 470791,
+        "word": "女子疯狂网上购物确诊帕金森",
+        "onboard_time": 1681276889,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386206,
+        "num": 386206,
+        "word": "00后网红马若松遭遇车祸身亡",
+        "onboard_time": 1681265725,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 345778,
+        "num": 345778,
+        "word": "泰国坠崖孕妇仍无法离婚",
+        "onboard_time": 1681266625,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1275316,
+        "num": 344894,
+        "word": "徐艺洋暧昧时期聊天都能上头",
+        "onboard_time": 1681277727,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666808,
+        "num": 341678,
+        "word": "王岳伦陪王诗龄拍汉服写真",
+        "onboard_time": 1681272989,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510403,
+        "num": 338888,
+        "word": "丁克的我想通了生孩子的意义",
+        "onboard_time": 1681265845,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406129,
+        "num": 336861,
+        "word": "专家称北京打车太便宜应涨价",
+        "onboard_time": 1681275570,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 334171,
+        "num": 334171,
+        "word": "喜欢你我也是",
+        "onboard_time": 1681282466,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316166,
+        "num": 316166,
+        "word": "唐朝诡事录",
+        "onboard_time": 1681270408,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307473,
+        "num": 307473,
+        "word": "杨贤硕二审被求判刑三年",
+        "onboard_time": 1681281924,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 263950,
+        "num": 263950,
+        "word": "异地工作你会考虑迁户口吗",
+        "onboard_time": 1681281085,
+        "rank": 17,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 263180,
+        "num": 263180,
+        "word": "长佩",
+        "onboard_time": 1681281805,
+        "rank": 18,
+        "category": "科技,作品衍生"
+      },
+      {
+        "raw_hot": 260585,
+        "num": 260585,
+        "word": "罗云熙白鹿长月烬明新浪扫楼",
+        "onboard_time": 1681279885,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253600,
+        "num": 253600,
+        "word": "小米",
+        "onboard_time": 1681278926,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 252123,
+        "num": 252123,
+        "word": "王楚然打卡淄博烧烤",
+        "onboard_time": 1681281684,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 246902,
+        "num": 246902,
+        "word": "云南吃菌菇火锅店员取汤留样",
+        "onboard_time": 1681274849,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 244885,
+        "num": 244885,
+        "word": "长月烬明 吾学",
+        "onboard_time": 1681282107,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223841,
+        "num": 223841,
+        "word": "90后男生拿到京户离职被公司追偿",
+        "onboard_time": 1681278266,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219555,
+        "num": 219555,
+        "word": "张凌赫高得好突出",
+        "onboard_time": 1681275451,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199799,
+        "num": 199799,
+        "word": "男子被捅后趴在地上淡定玩手机",
+        "onboard_time": 1681275389,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191865,
+        "num": 191865,
+        "word": "长月烬明云合播放量新高",
+        "onboard_time": 1681282646,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189127,
+        "num": 189127,
+        "word": "Angelababy说在奔跑吧等你",
+        "onboard_time": 1681279047,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186066,
+        "num": 186066,
+        "word": "郑恺说其实我早就做好准备了",
+        "onboard_time": 1681282466,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208545,
+        "num": 185539,
+        "word": "冥夜桑酒竹林剧照",
+        "onboard_time": 1681282885,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184592,
+        "num": 184592,
+        "word": "LPL十大选手定妆照",
+        "onboard_time": 1681276529,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165423,
+        "num": 165423,
+        "word": "男子骑偷来电动车被相亲对象认出",
+        "onboard_time": 1681279768,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164277,
+        "num": 164277,
+        "word": "快乐小分队花样人生视频",
+        "onboard_time": 1681283245,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163423,
+        "num": 163423,
+        "word": "张艺谋说满江红票房让他很意外",
+        "onboard_time": 1681270468,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160785,
+        "num": 160785,
+        "word": "我的胃只有两种状态",
+        "onboard_time": 1681282765,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 159634,
+        "num": 159634,
+        "word": "迪丽热巴说无论你在哪都要带你回家",
+        "onboard_time": 1681269269,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155566,
+        "num": 155566,
+        "word": "国台办否认大陆有意赠台大熊猫",
+        "onboard_time": 1681273410,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 153028,
+        "num": 153028,
+        "word": "施罗德绝杀",
+        "onboard_time": 1681277126,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146339,
+        "num": 146339,
+        "word": "杨幂新剧开机路透",
+        "onboard_time": 1681275810,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140350,
+        "num": 140350,
+        "word": "白玉兰奖提名预测",
+        "onboard_time": 1681275749,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138993,
+        "num": 138993,
+        "word": "平台回应网售三寸金莲缠足鞋袜",
+        "onboard_time": 1681279525,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138771,
+        "num": 138771,
+        "word": "广西一高校被曝送学生进厂打螺丝",
+        "onboard_time": 1681283546,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129312,
+        "num": 129312,
+        "word": "湖人季后赛对阵灰熊",
+        "onboard_time": 1681277309,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125761,
+        "num": 125761,
+        "word": "奔跑吧11奇幻旅程主题海报",
+        "onboard_time": 1681283366,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120585,
+        "num": 120585,
+        "word": "没什么人做但很赚钱的工作",
+        "onboard_time": 1681270768,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118926,
+        "num": 118926,
+        "word": "什么原因阻碍了你生小孩",
+        "onboard_time": 1681268187,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 118043,
+        "num": 118043,
+        "word": "直井怜手写信",
+        "onboard_time": 1681280665,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102535,
+        "num": 117677,
+        "word": "明日方舟",
+        "onboard_time": 1681280307,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88295,
+        "num": 117553,
+        "word": "在火之前的淄博吃烧烤是一种什么体验",
+        "onboard_time": 1681283605,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记在广东省考察调研#"
+    }
+  }
+}

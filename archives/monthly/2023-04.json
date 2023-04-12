@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681281324657,
+  "endTime": 1681283732484,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1395,6 +1395,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1598160,
+      "num": 1572300,
+      "word": "李金铭曾参加节目被要求当儿媳",
+      "onboard_time": 1681278085,
+      "rank": 1,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 1584064,
       "num": 550694,
       "word": "沈月 湖师大",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1680613650,
       "rank": 11,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1572300,
-      "num": 1572300,
-      "word": "李金铭曾参加节目被要求当儿媳",
-      "onboard_time": 1681278085,
-      "rank": 1,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 1568428,
@@ -2297,6 +2297,14 @@
       "onboard_time": 1681272989,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1121064,
+      "num": 1121064,
+      "word": "李莎旻子一天打两份工",
+      "onboard_time": 1681280365,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1120836,
@@ -4048,6 +4056,14 @@
       "word": "养父母抱养25年后起诉养子补偿",
       "onboard_time": 1680669752,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757671,
+      "num": 757671,
+      "word": "南京26年前特大抢劫杀人案告破",
+      "onboard_time": 1681278867,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -5971,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566617,
+      "num": 566617,
+      "word": "澹台烬玲娜贝儿cp名",
+      "onboard_time": 1681279587,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 565997,
       "num": 565997,
       "word": "宝马女司机醉驾撞人拖行案下周开庭",
@@ -6251,14 +6275,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 546217,
-      "num": 546217,
-      "word": "南京26年前特大抢劫杀人案告破",
-      "onboard_time": 1681278867,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 546078,
       "num": 546078,
       "word": "陈晓说我要是双星我就翻脸了",
@@ -6281,14 +6297,6 @@
       "onboard_time": 1681091305,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544084,
-      "num": 460263,
-      "word": "李莎旻子一天打两份工",
-      "onboard_time": 1681280365,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 543449,
@@ -7905,14 +7913,6 @@
       "onboard_time": 1681225110,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 449896,
-      "num": 449896,
-      "word": "澹台烬玲娜贝儿cp名",
-      "onboard_time": 1681279587,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 449634,
@@ -10587,6 +10587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334171,
+      "num": 334171,
+      "word": "喜欢你我也是",
+      "onboard_time": 1680671131,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333876,
       "num": 333876,
       "word": "迪丽热巴微博之夜发型拆解",
@@ -11409,6 +11417,14 @@
       "onboard_time": 1681198226,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307473,
+      "num": 307473,
+      "word": "杨贤硕二审被求判刑三年",
+      "onboard_time": 1681281924,
+      "rank": 16,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 307203,
@@ -13027,6 +13043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263950,
+      "num": 263950,
+      "word": "异地工作你会考虑迁户口吗",
+      "onboard_time": 1681281085,
+      "rank": 45,
+      "category": "社会议题,情感"
+    },
+    {
       "raw_hot": 263884,
       "num": 263884,
       "word": "WE春季赛淘汰",
@@ -13073,6 +13097,14 @@
       "onboard_time": 1680773971,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 263180,
+      "num": 263180,
+      "word": "长佩",
+      "onboard_time": 1681281805,
+      "rank": 18,
+      "category": "科技,作品衍生"
     },
     {
       "raw_hot": 262960,
@@ -13603,6 +13635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252123,
+      "num": 252123,
+      "word": "王楚然打卡淄博烧烤",
+      "onboard_time": 1681281684,
+      "rank": 21,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 251780,
       "num": 251780,
       "word": "九尾直播听宋亚轩新歌",
@@ -13881,6 +13921,14 @@
       "onboard_time": 1681224570,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244885,
+      "num": 244885,
+      "word": "长月烬明 吾学",
+      "onboard_time": 1681282107,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 244865,
@@ -14859,14 +14907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228338,
-      "num": 228338,
-      "word": "喜欢你我也是",
-      "onboard_time": 1680671131,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228290,
       "num": 228290,
       "word": "IVE正规专预告照",
@@ -15089,6 +15129,14 @@
       "onboard_time": 1680869728,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223841,
+      "num": 223841,
+      "word": "90后男生拿到京户离职被公司追偿",
+      "onboard_time": 1681278266,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223442,
@@ -16304,6 +16352,14 @@
       "word": "宇宙探索编辑部",
       "onboard_time": 1680324870,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208545,
+      "num": 185539,
+      "word": "冥夜桑酒竹林剧照",
+      "onboard_time": 1681282885,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -18843,14 +18899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195339,
-      "num": 195339,
-      "word": "90后男生拿到京户离职被公司追偿",
-      "onboard_time": 1681278266,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195295,
       "num": 195295,
       "word": "芝士番茄焗意面",
@@ -19369,6 +19417,14 @@
       "onboard_time": 1680703591,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191865,
+      "num": 191865,
+      "word": "长月烬明云合播放量新高",
+      "onboard_time": 1681282646,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 191845,
@@ -20289,6 +20345,14 @@
       "onboard_time": 1681014568,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186066,
+      "num": 186066,
+      "word": "郑恺说其实我早就做好准备了",
+      "onboard_time": 1681282466,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 186007,
@@ -22203,6 +22267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165423,
+      "num": 165423,
+      "word": "男子骑偷来电动车被相亲对象认出",
+      "onboard_time": 1681279768,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165365,
       "num": 165365,
       "word": "孔雪儿MeToo舞",
@@ -22313,6 +22385,14 @@
       "onboard_time": 1680689252,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164277,
+      "num": 164277,
+      "word": "快乐小分队花样人生视频",
+      "onboard_time": 1681283245,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 164125,
@@ -22553,6 +22633,14 @@
       "onboard_time": 1680912624,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160785,
+      "num": 160785,
+      "word": "我的胃只有两种状态",
+      "onboard_time": 1681282765,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 160628,
@@ -22897,14 +22985,6 @@
       "onboard_time": 1681037910,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155916,
-      "num": 155916,
-      "word": "男子骑偷来电动车被相亲对象认出",
-      "onboard_time": 1681279768,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155779,
@@ -24379,6 +24459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 138771,
+      "num": 138771,
+      "word": "广西一高校被曝送学生进厂打螺丝",
+      "onboard_time": 1681283546,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138760,
       "num": 138760,
       "word": "男子30岁未婚回村后被大妈围着劝导",
@@ -24785,14 +24873,6 @@
       "onboard_time": 1680780092,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133312,
-      "num": 133312,
-      "word": "异地工作你会考虑迁户口吗",
-      "onboard_time": 1681281085,
-      "rank": 45,
-      "category": "社会议题,情感"
     },
     {
       "raw_hot": 133273,
@@ -25369,6 +25449,14 @@
       "onboard_time": 1680576931,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125761,
+      "num": 125761,
+      "word": "奔跑吧11奇幻旅程主题海报",
+      "onboard_time": 1681283366,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 125644,
@@ -27105,6 +27193,14 @@
       "onboard_time": 1681255581,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88295,
+      "num": 117553,
+      "word": "在火之前的淄博吃烧烤是一种什么体验",
+      "onboard_time": 1681283605,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 88202,
