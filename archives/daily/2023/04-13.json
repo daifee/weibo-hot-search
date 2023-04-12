@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681337782698,
+  "endTime": 1681338801077,
   "band_list": [
     {
       "raw_hot": 2425491,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126009,
+      "num": 105941,
+      "word": "安徽爷孙离奇失联10天",
+      "onboard_time": 1681321935,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124260,
       "num": 124260,
       "word": "彭小苒新剧红色婚服",
@@ -347,6 +355,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 96549,
+      "num": 96549,
+      "word": "苏醒混迹内娱多年全凭三好",
+      "onboard_time": 1681333032,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94538,
       "num": 94538,
       "word": "王源上海演唱会许可证",
@@ -369,14 +385,6 @@
       "onboard_time": 1681311754,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 93003,
-      "num": 74180,
-      "word": "安徽爷孙离奇失联10天",
-      "onboard_time": 1681321935,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92931,
@@ -411,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 72729,
-      "num": 72729,
-      "word": "苏醒混迹内娱多年全凭三好",
-      "onboard_time": 1681333032,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70156,
       "num": 70156,
       "word": "雎晓雯怀孕做瑜伽",
@@ -443,20 +443,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 51166,
+      "num": 51166,
+      "word": "何广智说尘封十三载好看",
+      "onboard_time": 1681336332,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 43481,
+      "num": 43481,
+      "word": "欧冠联赛",
+      "onboard_time": 1681323494,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42194,
+      "num": 42194,
+      "word": "上一次这么气人的还是素锦和灯芯",
+      "onboard_time": 1681329071,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 38684,
       "num": 44059,
       "word": "太阳新歌预告",
       "onboard_time": 1681320137,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 38595,
-      "num": 38595,
-      "word": "欧冠联赛",
-      "onboard_time": 1681323494,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 37237,
@@ -467,20 +483,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 37178,
-      "num": 37178,
-      "word": "何广智说尘封十三载好看",
-      "onboard_time": 1681336332,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 32965,
-      "num": 32965,
-      "word": "上一次这么气人的还是素锦和灯芯",
-      "onboard_time": 1681329071,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 31823,
+      "num": 31823,
+      "word": "井柏然白衬衫珍珠手链造型",
+      "onboard_time": 1681329911,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 29045,
@@ -491,11 +499,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 24044,
-      "num": 24044,
-      "word": "井柏然白衬衫珍珠手链造型",
-      "onboard_time": 1681329911,
-      "rank": 49,
+      "raw_hot": 28164,
+      "num": 28164,
+      "word": "陈建斌给陈晓夸不会了",
+      "onboard_time": 1681338375,
+      "rank": 44,
       "category": "艺人"
     }
   ],

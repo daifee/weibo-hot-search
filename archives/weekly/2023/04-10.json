@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681337782698,
+  "endTime": 1681338801077,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -7867,6 +7867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126009,
+      "num": 105941,
+      "word": "安徽爷孙离奇失联10天",
+      "onboard_time": 1681321935,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125775,
       "num": 125775,
       "word": "LPL十周年主题片",
@@ -8227,6 +8235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96549,
+      "num": 96549,
+      "word": "苏醒混迹内娱多年全凭三好",
+      "onboard_time": 1681333032,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96311,
       "num": 96311,
       "word": "白敬亭的翻包好物",
@@ -8265,14 +8281,6 @@
       "onboard_time": 1681052970,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 93003,
-      "num": 74180,
-      "word": "安徽爷孙离奇失联10天",
-      "onboard_time": 1681321935,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92605,
@@ -8395,14 +8403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 72729,
-      "num": 72729,
-      "word": "苏醒混迹内娱多年全凭三好",
-      "onboard_time": 1681333032,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72652,
       "num": 334265,
       "word": "原神3.6版本更新 纳西妲",
@@ -8467,6 +8467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 51166,
+      "num": 51166,
+      "word": "何广智说尘封十三载好看",
+      "onboard_time": 1681336332,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 48751,
       "num": 48751,
       "word": "折一条裤子可以有多快",
@@ -8507,6 +8515,22 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 43481,
+      "num": 43481,
+      "word": "欧冠联赛",
+      "onboard_time": 1681323494,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42194,
+      "num": 42194,
+      "word": "上一次这么气人的还是素锦和灯芯",
+      "onboard_time": 1681329071,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 38684,
       "num": 44059,
       "word": "太阳新歌预告",
@@ -8515,28 +8539,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 38595,
-      "num": 38595,
-      "word": "欧冠联赛",
-      "onboard_time": 1681323494,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 37711,
       "num": 1204209,
       "word": "2个关键词看消博会广交会",
       "onboard_time": 1681185146,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37178,
-      "num": 37178,
-      "word": "何广智说尘封十三载好看",
-      "onboard_time": 1681336332,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 33990,
@@ -8555,12 +8563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32965,
-      "num": 32965,
-      "word": "上一次这么气人的还是素锦和灯芯",
-      "onboard_time": 1681329071,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 31823,
+      "num": 31823,
+      "word": "井柏然白衬衫珍珠手链造型",
+      "onboard_time": 1681329911,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 29045,
@@ -8569,6 +8577,14 @@
       "onboard_time": 1681321395,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 28164,
+      "num": 28164,
+      "word": "陈建斌给陈晓夸不会了",
+      "onboard_time": 1681338375,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 28108,
@@ -8593,14 +8609,6 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 24044,
-      "num": 24044,
-      "word": "井柏然白衬衫珍珠手链造型",
-      "onboard_time": 1681329911,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 19346,
