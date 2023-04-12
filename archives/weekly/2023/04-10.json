@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681256018744,
+  "endTime": 1681262530912,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -187,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1824614,
+      "num": 1824614,
+      "word": "淄博老板娘为赶高铁小伙1V1烤串",
+      "onboard_time": 1681257507,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1796047,
       "num": 1145462,
       "word": "李敏镐也没逃过韩国酵母",
@@ -283,12 +291,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1454951,
+      "num": 439063,
+      "word": "年轻人不结婚不生娃反促进宠物经济",
+      "onboard_time": 1681255581,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1343366,
       "num": 1343366,
       "word": "BLG晋级MSI",
       "onboard_time": 1681220849,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1339113,
+      "num": 427223,
+      "word": "关晓彤曾说谁会闲的花七万买包",
+      "onboard_time": 1681226432,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1306396,
@@ -307,12 +331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1302574,
-      "num": 349404,
-      "word": "关晓彤曾说谁会闲的花七万买包",
-      "onboard_time": 1681226432,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 1281022,
+      "num": 1281022,
+      "word": "专家建议有实力有担当的人多生孩子",
+      "onboard_time": 1681258767,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1269304,
@@ -571,6 +595,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 899284,
+      "num": 225208,
+      "word": "农妇因信访被控寻衅滋事",
+      "onboard_time": 1681256965,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 895725,
       "num": 895725,
       "word": "郑晓龙评赵丽颖转型",
@@ -755,6 +787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 737709,
+      "num": 737709,
+      "word": "成都草莓音乐节一男子对警察竖中指",
+      "onboard_time": 1681259131,
+      "rank": 4,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 735568,
       "num": 735568,
       "word": "姜涛曾获全球百大帅哥第五名",
@@ -857,6 +897,14 @@
       "onboard_time": 1681092686,
       "rank": 13,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 682260,
+      "num": 682260,
+      "word": "沈阳三孩家庭每月发500元至孩子3岁",
+      "onboard_time": 1681259426,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 676884,
@@ -1108,7 +1156,7 @@
     },
     {
       "raw_hot": 598482,
-      "num": 348319,
+      "num": 411487,
       "word": "网友在泰国偶遇杨紫",
       "onboard_time": 1681226851,
       "rank": 27,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1681205068,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 590120,
+      "num": 590120,
+      "word": "专家称子女是长周期的耐用消费品",
+      "onboard_time": 1681258108,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589928,
@@ -1160,6 +1216,14 @@
       "word": "张兰团队再现离职风波",
       "onboard_time": 1681208666,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 580001,
+      "num": 225193,
+      "word": "小伙被公司发配到乡镇惹网友羡慕",
+      "onboard_time": 1681258287,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1651,6 +1715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 445061,
+      "num": 445061,
+      "word": "冥夜桑酒 哑巴爱情",
+      "onboard_time": 1681256606,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443589,
       "num": 443589,
       "word": "张本智和止步冠军赛16强",
@@ -1745,6 +1817,14 @@
       "onboard_time": 1681126106,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423264,
+      "num": 225184,
+      "word": "菩提祖师才是悟空唯一的师父",
+      "onboard_time": 1681258647,
+      "rank": 22,
+      "category": "情感,影视"
     },
     {
       "raw_hot": 422758,
@@ -1963,6 +2043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395442,
+      "num": 395442,
+      "word": "熙米鹿",
+      "onboard_time": 1681260207,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395060,
       "num": 395060,
       "word": "杨丞琳献唱陈飞宇周也新片主题曲",
@@ -2073,6 +2161,14 @@
       "onboard_time": 1681100193,
       "rank": 47,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 361927,
+      "num": 361927,
+      "word": "撒贝宁台下认真做笔记",
+      "onboard_time": 1681260689,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 358992,
@@ -2316,7 +2412,7 @@
     },
     {
       "raw_hot": 325599,
-      "num": 212069,
+      "num": 225151,
       "word": "内娱最强男腰精",
       "onboard_time": 1681226491,
       "rank": 36,
@@ -2459,6 +2555,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 304815,
+      "num": 304815,
+      "word": "本轮沙尘已跨过长江",
+      "onboard_time": 1681259549,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304758,
       "num": 285895,
       "word": "玄彬东京活动生图",
@@ -2489,6 +2593,22 @@
       "onboard_time": 1681198704,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 301390,
+      "num": 225173,
+      "word": "男子为养近200只猫雇4人轮班照顾",
+      "onboard_time": 1681260566,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300651,
+      "num": 300651,
+      "word": "电锯人",
+      "onboard_time": 1681260088,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 300475,
@@ -2729,6 +2849,14 @@
       "onboard_time": 1681190309,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267428,
+      "num": 225160,
+      "word": "冥夜被煮",
+      "onboard_time": 1681259969,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 267045,
@@ -3179,6 +3307,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 225149,
+      "num": 225149,
+      "word": "熊猫宝宝吓到奶瓶都扔了",
+      "onboard_time": 1681261107,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224976,
       "num": 224976,
       "word": "澹台烬 优雅的疯子",
@@ -3433,14 +3569,6 @@
       "onboard_time": 1681221811,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211573,
-      "num": 211573,
-      "word": "年轻人不结婚不生娃反促进宠物经济",
-      "onboard_time": 1681255581,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 211364,
@@ -4347,6 +4475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183502,
+      "num": 183502,
+      "word": "哈兰德纪录收割机",
+      "onboard_time": 1681259730,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182953,
       "num": 182953,
       "word": "原神",
@@ -4497,6 +4633,14 @@
       "onboard_time": 1681218386,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175748,
+      "num": 175748,
+      "word": "LESSERAFIM新专预告图",
+      "onboard_time": 1681260627,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 175682,
@@ -4835,6 +4979,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152698,
+      "num": 152698,
+      "word": "上班摸鱼会影响工作吗",
+      "onboard_time": 1681227749,
+      "rank": 15,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 152315,
+      "num": 152315,
+      "word": "王俊凯艺术晚宴花絮",
+      "onboard_time": 1681258886,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152029,
       "num": 152029,
       "word": "林俊杰新专辑重拾快乐",
@@ -5171,6 +5331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136445,
+      "num": 136445,
+      "word": "去年国内人均存款增加1.2万",
+      "onboard_time": 1681261887,
+      "rank": 42,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "白鹿叶夕雾害怕血鸦",
@@ -5257,14 +5425,6 @@
       "onboard_time": 1681128265,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129476,
-      "num": 129476,
-      "word": "上班摸鱼会影响工作吗",
-      "onboard_time": 1681227749,
-      "rank": 15,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 129269,
