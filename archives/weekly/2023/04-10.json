@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681331607674,
+  "endTime": 1681334081521,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -8539,20 +8539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29045,
+      "num": 27509,
+      "word": "三丽鸥明星人气评选",
+      "onboard_time": 1681321395,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 28108,
       "num": 28108,
       "word": "易烊千玺M榜年度影响力演员",
       "onboard_time": 1681048530,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 27579,
-      "num": 27509,
-      "word": "三丽鸥明星人气评选",
-      "onboard_time": 1681321395,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 24325,
@@ -8571,6 +8571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 21982,
+      "num": 21982,
+      "word": "上一次这么气人的还是素锦和灯芯",
+      "onboard_time": 1681329071,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 19346,
       "num": 19346,
       "word": "薄冰全员替身文学",
@@ -8579,12 +8587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 18194,
-      "num": 18194,
-      "word": "上一次这么气人的还是素锦和灯芯",
-      "onboard_time": 1681329071,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 18758,
+      "num": 18758,
+      "word": "苏醒混迹内娱多年全凭三好",
+      "onboard_time": 1681333032,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 17764,
@@ -8603,8 +8611,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 14069,
-      "num": 15405,
+      "raw_hot": 14128,
+      "num": 15680,
       "word": "井柏然白衬衫珍珠手链造型",
       "onboard_time": 1681329911,
       "rank": 49,
