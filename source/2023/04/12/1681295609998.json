@@ -1,0 +1,410 @@
+{
+  "runTime": 1681295609998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2160772,
+        "num": 2160772,
+        "word": "减肥的人晚上都在吃什么",
+        "onboard_time": 1681284806,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2744764,
+        "num": 1898914,
+        "word": "漳州万达砍人男子已被控制",
+        "onboard_time": 1681291948,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46216,
+        "num": 1388328,
+        "word": "看税收走基层",
+        "onboard_time": 1681289065,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159199,
+        "num": 1159199,
+        "word": "六公主谈柯南争议",
+        "onboard_time": 1681293089,
+        "rank": 3,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 165620,
+        "num": 1057240,
+        "word": "男子回乡养病意外带全村致富",
+        "onboard_time": 1681294226,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026604,
+        "num": 1026604,
+        "word": "独居未婚中年男子去世10天后被发现",
+        "onboard_time": 1681291285,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69939,
+        "num": 909207,
+        "word": "叫耿植的男孩获反诈小能手称号",
+        "onboard_time": 1681294288,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885873,
+        "num": 885873,
+        "word": "中了一千万还去上班吗",
+        "onboard_time": 1681290928,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 579778,
+        "num": 579778,
+        "word": "中方对马克龙表态遭美批评不感到惊讶",
+        "onboard_time": 1681291047,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 531530,
+        "num": 531530,
+        "word": "天欢认罪",
+        "onboard_time": 1681289728,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1744062,
+        "num": 531510,
+        "word": "亲亲您这个什么您心里不清楚吗",
+        "onboard_time": 1681287746,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 577357,
+        "num": 531481,
+        "word": "警方通报漳州万达砍人案",
+        "onboard_time": 1681294167,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 531444,
+        "num": 531444,
+        "word": "韩国米诺地尔",
+        "onboard_time": 1681292186,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 501455,
+        "num": 501455,
+        "word": "李金铭曾参加节目被要求当儿媳",
+        "onboard_time": 1681278085,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106054,
+        "num": 416317,
+        "word": "炸店是对无辜消费者的伤害",
+        "onboard_time": 1681293627,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405172,
+        "num": 405172,
+        "word": "杨幂卷发",
+        "onboard_time": 1681293327,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337932,
+        "num": 337932,
+        "word": "罗云熙35了",
+        "onboard_time": 1681288889,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328366,
+        "num": 328366,
+        "word": "小伙年会喜提365天带薪休假",
+        "onboard_time": 1681275689,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322623,
+        "num": 322623,
+        "word": "这是在暗示你可以提涨薪了",
+        "onboard_time": 1681291586,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 316366,
+        "num": 316366,
+        "word": "KPOP追星最后悔三件事",
+        "onboard_time": 1681294885,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550536,
+        "num": 316340,
+        "word": "长月烬明算爆了吗",
+        "onboard_time": 1681290387,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303175,
+        "num": 303175,
+        "word": "男子分手后花一年时间减掉60斤",
+        "onboard_time": 1681289907,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301142,
+        "num": 301142,
+        "word": "网店售三寸金莲缠足袜299一双",
+        "onboard_time": 1681275150,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245437,
+        "num": 245437,
+        "word": "白鹿拿的手机支架是陈星旭小时候",
+        "onboard_time": 1681289007,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233637,
+        "num": 233637,
+        "word": "警方回应女生劝阻女子带男孩进更衣室遭打",
+        "onboard_time": 1681287685,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227236,
+        "num": 227236,
+        "word": "徐艺洋暧昧时期聊天都能上头",
+        "onboard_time": 1681277727,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219193,
+        "num": 219193,
+        "word": "毕业第一份工作月薪需要多少",
+        "onboard_time": 1681287087,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 217642,
+        "num": 217642,
+        "word": "教资",
+        "onboard_time": 1681284386,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 212474,
+        "num": 212474,
+        "word": "丁克的我想通了生孩子的意义",
+        "onboard_time": 1681265845,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135017,
+        "num": 204916,
+        "word": "外交部回应马克龙涉台表态遭美批评",
+        "onboard_time": 1681295009,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 204139,
+        "num": 204139,
+        "word": "饮食减肥应该注意什么",
+        "onboard_time": 1681295486,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194316,
+        "num": 194316,
+        "word": "减肥对外貌的改变可以有多大",
+        "onboard_time": 1681295547,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190464,
+        "num": 190464,
+        "word": "官方发布预防新冠佩戴口罩指引",
+        "onboard_time": 1681295309,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185734,
+        "num": 185734,
+        "word": "南京26年前特大抢劫杀人案告破",
+        "onboard_time": 1681278867,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183672,
+        "num": 183672,
+        "word": "老默死而复生会发生什么",
+        "onboard_time": 1681295066,
+        "rank": 34,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 179834,
+        "num": 179834,
+        "word": "丁克族们后来都怎么样了",
+        "onboard_time": 1681289189,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175396,
+        "num": 175396,
+        "word": "杨紫泰国随拍",
+        "onboard_time": 1681286666,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170811,
+        "num": 170811,
+        "word": "孙珍妮跳了flower",
+        "onboard_time": 1681292425,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166325,
+        "num": 166325,
+        "word": "张凌赫主页是贝壳",
+        "onboard_time": 1681284265,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17764,
+        "num": 164232,
+        "word": "天猫预测五一户外新趋势",
+        "onboard_time": 1681293627,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163273,
+        "num": 163273,
+        "word": "丁程鑫用手护着娜扎",
+        "onboard_time": 1681293748,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159072,
+        "num": 159072,
+        "word": "王楚钦 达科",
+        "onboard_time": 1681289065,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142308,
+        "num": 142308,
+        "word": "大城市户口真的重要吗",
+        "onboard_time": 1681288045,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 141021,
+        "num": 141021,
+        "word": "车银优韩素希同框",
+        "onboard_time": 1681288764,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135249,
+        "num": 135249,
+        "word": "马嘉祺被那英吐槽像下岗工人",
+        "onboard_time": 1681283727,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133105,
+        "num": 133105,
+        "word": "四川鸳鸯除了锅还有面",
+        "onboard_time": 1681290869,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128107,
+        "num": 128107,
+        "word": "广西一高校被曝送学生进厂打螺丝",
+        "onboard_time": 1681283546,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125775,
+        "num": 125775,
+        "word": "LPL十周年主题片",
+        "onboard_time": 1681294467,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123316,
+        "num": 123316,
+        "word": "王楚然打卡淄博烧烤",
+        "onboard_time": 1681281684,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 117755,
+        "num": 117755,
+        "word": "柳智敏的比例",
+        "onboard_time": 1681291169,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在茂名市考察调研#"
+    }
+  }
+}

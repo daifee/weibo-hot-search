@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681294709387,
+  "endTime": 1681295609998,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -411,7 +411,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2703767,
+      "raw_hot": 2744764,
       "num": 2703767,
       "word": "漳州万达砍人男子已被控制",
       "onboard_time": 1681291948,
@@ -795,6 +795,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2160772,
+      "num": 2160772,
+      "word": "减肥的人晚上都在吃什么",
+      "onboard_time": 1681284806,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2140320,
       "num": 2140320,
       "word": "丫丫正式移交中方",
@@ -937,14 +945,6 @@
       "onboard_time": 1680609992,
       "rank": 13,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1994267,
-      "num": 1994267,
-      "word": "减肥的人晚上都在吃什么",
-      "onboard_time": 1681284806,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1989231,
@@ -2179,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1159199,
+      "num": 1159199,
+      "word": "六公主谈柯南争议",
+      "onboard_time": 1681293089,
+      "rank": 5,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 1153403,
       "num": 1153403,
       "word": "OMG战胜LNG",
@@ -3251,12 +3259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 886108,
-      "num": 886108,
-      "word": "六公主谈柯南争议",
-      "onboard_time": 1681293089,
-      "rank": 5,
-      "category": "影视,动漫"
+      "raw_hot": 885873,
+      "num": 885873,
+      "word": "中了一千万还去上班吗",
+      "onboard_time": 1681290928,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 885398,
@@ -3929,14 +3937,6 @@
       "onboard_time": 1680940527,
       "rank": 8,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 791679,
-      "num": 791679,
-      "word": "中了一千万还去上班吗",
-      "onboard_time": 1681290928,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 787358,
@@ -5939,6 +5939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579778,
+      "num": 579778,
+      "word": "中方对马克龙表态遭美批评不感到惊讶",
+      "onboard_time": 1681291047,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 579352,
       "num": 579352,
       "word": "2万块的iPhone15你会买吗",
@@ -6049,14 +6057,6 @@
       "onboard_time": 1680856827,
       "rank": 12,
       "category": "国内要闻,社会新闻"
-    },
-    {
-      "raw_hot": 572384,
-      "num": 572384,
-      "word": "中方对马克龙表态遭美批评不感到惊讶",
-      "onboard_time": 1681291047,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 571985,
@@ -6697,6 +6697,14 @@
       "onboard_time": 1680433288,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 531444,
+      "num": 531444,
+      "word": "韩国米诺地尔",
+      "onboard_time": 1681292186,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 530940,
@@ -7843,14 +7851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 458971,
-      "num": 458971,
-      "word": "韩国米诺地尔",
-      "onboard_time": 1681292186,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 458458,
       "num": 458458,
       "word": "吃土",
@@ -8961,6 +8961,14 @@
       "onboard_time": 1681179143,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405172,
+      "num": 405172,
+      "word": "杨幂卷发",
+      "onboard_time": 1681293327,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 404940,
@@ -11179,6 +11187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322623,
+      "num": 322623,
+      "word": "这是在暗示你可以提涨薪了",
+      "onboard_time": 1681291586,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322396,
       "num": 322396,
       "word": "1分钟了解长月烬明世界观",
@@ -11361,6 +11377,14 @@
       "onboard_time": 1681013008,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 316366,
+      "num": 316366,
+      "word": "KPOP追星最后悔三件事",
+      "onboard_time": 1681294885,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 316207,
@@ -12499,14 +12523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 284416,
-      "num": 284416,
-      "word": "杨幂卷发",
-      "onboard_time": 1681293327,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 284187,
       "num": 225175,
       "word": "金智秀Flower人歌初舞台",
@@ -13129,14 +13145,6 @@
       "onboard_time": 1680661650,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 269744,
-      "num": 269744,
-      "word": "这是在暗示你可以提涨薪了",
-      "onboard_time": 1681291586,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 269652,
@@ -17403,6 +17411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204139,
+      "num": 204139,
+      "word": "饮食减肥应该注意什么",
+      "onboard_time": 1681295486,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 204080,
       "num": 213267,
       "word": "再进化就得上班了",
@@ -19387,6 +19403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194316,
+      "num": 194316,
+      "word": "减肥对外貌的改变可以有多大",
+      "onboard_time": 1681295547,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194152,
       "num": 194152,
       "word": "马嘉祺在水一方高音",
@@ -19993,6 +20017,14 @@
       "onboard_time": 1680762267,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190464,
+      "num": 190464,
+      "word": "官方发布预防新冠佩戴口罩指引",
+      "onboard_time": 1681295309,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190463,
@@ -21025,6 +21057,14 @@
       "onboard_time": 1680833967,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183672,
+      "num": 183672,
+      "word": "老默死而复生会发生什么",
+      "onboard_time": 1681295066,
+      "rank": 34,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 183654,
@@ -22187,6 +22227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170811,
+      "num": 170811,
+      "word": "孙珍妮跳了flower",
+      "onboard_time": 1681292425,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170767,
       "num": 170767,
       "word": "四川一骑手背枪上路吓坏路人",
@@ -22635,6 +22683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165620,
+      "num": 1057240,
+      "word": "男子回乡养病意外带全村致富",
+      "onboard_time": 1681294226,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165588,
       "num": 165588,
       "word": "巴黎圣日耳曼0比1里昂",
@@ -22825,6 +22881,14 @@
       "onboard_time": 1680765867,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163273,
+      "num": 163273,
+      "word": "丁程鑫用手护着娜扎",
+      "onboard_time": 1681293748,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 163253,
@@ -23587,14 +23651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154388,
-      "num": 154388,
-      "word": "孙珍妮跳了flower",
-      "onboard_time": 1681292425,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 154318,
       "num": 154318,
       "word": "蔡徐坤在欧洲录歌",
@@ -23753,14 +23809,6 @@
       "onboard_time": 1680272670,
       "rank": 26,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 152228,
-      "num": 152228,
-      "word": "丁程鑫用手护着娜扎",
-      "onboard_time": 1681293748,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 152210,
@@ -25235,6 +25283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135017,
+      "num": 204916,
+      "word": "外交部回应马克龙涉台表态遭美批评",
+      "onboard_time": 1681295009,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 134982,
       "num": 134982,
       "word": "文俊辉晒尹净汉金珉奎翻船直拍",
@@ -25913,6 +25969,14 @@
       "onboard_time": 1680576931,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125775,
+      "num": 125775,
+      "word": "LPL十周年主题片",
+      "onboard_time": 1681294467,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 125644,
@@ -26939,6 +27003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106054,
+      "num": 477202,
+      "word": "炸店是对无辜消费者的伤害",
+      "onboard_time": 1681293627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105803,
       "num": 105803,
       "word": "高双星陈秀礼婚礼",
@@ -27161,14 +27233,6 @@
       "onboard_time": 1680932246,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102068,
-      "num": 110265,
-      "word": "LPL十周年主题片",
-      "onboard_time": 1681294467,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 102052,
@@ -27915,6 +27979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 69939,
+      "num": 909207,
+      "word": "叫耿植的男孩获反诈小能手称号",
+      "onboard_time": 1681294288,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69500,
       "num": 69500,
       "word": "有多少真心话被当成玩笑",
@@ -28081,14 +28153,6 @@
       "onboard_time": 1680522632,
       "rank": 43,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 61828,
-      "num": 477202,
-      "word": "炸店是对无辜消费者的伤害",
-      "onboard_time": 1681293627,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61613,
@@ -28275,6 +28339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46216,
+      "num": 1388328,
+      "word": "看税收走基层",
+      "onboard_time": 1681289065,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46159,
       "num": 526265,
       "word": "中国球员的时尚触觉",
@@ -28307,14 +28379,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 43473,
-      "num": 994755,
-      "word": "男子回乡养病意外带全村致富",
-      "onboard_time": 1681294226,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42273,
       "num": 42273,
       "word": "大学生在打一种很新的卡",
@@ -28328,22 +28392,6 @@
       "word": "当清明诗词遇上古人春日必做清单",
       "onboard_time": 1680564563,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39423,
-      "num": 792565,
-      "word": "叫耿植的男孩获反诈小能手称号",
-      "onboard_time": 1681294288,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38682,
-      "num": 1262503,
-      "word": "看税收走基层",
-      "onboard_time": 1681289065,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -28547,6 +28595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 17764,
+      "num": 164232,
+      "word": "天猫预测五一户外新趋势",
+      "onboard_time": 1681293627,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17126,
       "num": 24739,
       "word": "城市巡游记",
@@ -28561,14 +28617,6 @@
       "onboard_time": 1680549192,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 15890,
-      "num": 147207,
-      "word": "天猫预测五一户外新趋势",
-      "onboard_time": 1681293627,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15601,
