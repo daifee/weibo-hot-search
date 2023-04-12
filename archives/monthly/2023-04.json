@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681303816724,
+  "endTime": 1681305689241,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1681257507,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1824442,
+      "num": 1824442,
+      "word": "不要穿试衣间里的鞋",
+      "onboard_time": 1681299570,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 1824009,
@@ -2547,14 +2555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1080189,
-      "num": 1080189,
-      "word": "不要穿试衣间里的鞋",
-      "onboard_time": 1681299570,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1079859,
       "num": 1079859,
       "word": "EXO 蝴蝶少女",
@@ -2899,6 +2899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 968051,
+      "num": 968051,
+      "word": "女儿出首付母亲买房后把产权给儿子",
+      "onboard_time": 1681302627,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 967690,
       "num": 967690,
       "word": "燃烧的巴黎圣母院",
@@ -2929,6 +2937,14 @@
       "onboard_time": 1680877170,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 962638,
+      "num": 962638,
+      "word": "北京人均存款已接近27万",
+      "onboard_time": 1681303948,
+      "rank": 4,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 959032,
@@ -8667,6 +8683,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 421644,
+      "num": 255732,
+      "word": "flower",
+      "onboard_time": 1681303888,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 421536,
       "num": 421536,
       "word": "RW战胜TTG",
@@ -9091,6 +9115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404396,
+      "num": 404396,
+      "word": "冥夜桑酒BE真的太合理了",
+      "onboard_time": 1681304309,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 404217,
       "num": 404217,
       "word": "金珉奎晒与田柾国车银优聚会合照",
@@ -9409,14 +9441,6 @@
       "onboard_time": 1680521975,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 394366,
-      "num": 394366,
-      "word": "女儿出首付母亲买房后把产权给儿子",
-      "onboard_time": 1681302627,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 394354,
@@ -9947,6 +9971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367821,
+      "num": 446279,
+      "word": "两女子吃自助打包400元食材被拘",
+      "onboard_time": 1681298606,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367686,
       "num": 367686,
       "word": "女子起诉邻居装可视门铃法院判拆除",
@@ -10195,14 +10227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 356788,
-      "num": 446279,
-      "word": "两女子吃自助打包400元食材被拘",
-      "onboard_time": 1681298606,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356740,
       "num": 356740,
       "word": "迪丽热巴到达贵阳",
@@ -10265,6 +10289,14 @@
       "onboard_time": 1680922047,
       "rank": 17,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 355680,
+      "num": 355680,
+      "word": "冥夜说和桑酒没分",
+      "onboard_time": 1681302808,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 355419,
@@ -12763,6 +12795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282277,
+      "num": 282277,
+      "word": "徐璐跳了flower",
+      "onboard_time": 1681301789,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 282076,
       "num": 282076,
       "word": "森林狼内讧",
@@ -13555,6 +13595,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 262257,
+      "num": 262257,
+      "word": "美生物实验室感染病毒的小白鼠逃了",
+      "onboard_time": 1681304548,
+      "rank": 19,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 262004,
       "num": 262004,
       "word": "陈晓连播两部剧",
@@ -14195,14 +14243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248552,
-      "num": 248552,
-      "word": "徐璐跳了flower",
-      "onboard_time": 1681301789,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 248533,
       "num": 248533,
       "word": "再也不怕回南天了",
@@ -14729,6 +14769,14 @@
       "onboard_time": 1681262547,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 237524,
+      "num": 287677,
+      "word": "给豪华品牌打个样",
+      "onboard_time": 1681302927,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 237360,
@@ -15523,6 +15571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225116,
+      "num": 225116,
+      "word": "极氪X",
+      "onboard_time": 1681305209,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 224976,
       "num": 224976,
       "word": "澹台烬 优雅的疯子",
@@ -15809,14 +15865,6 @@
       "onboard_time": 1681023626,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 220301,
-      "num": 208919,
-      "word": "冥夜说和桑酒没分",
-      "onboard_time": 1681302808,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 220274,
@@ -17011,6 +17059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207548,
+      "num": 207548,
+      "word": "彭小苒新剧红色婚服",
+      "onboard_time": 1681305450,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207547,
       "num": 207547,
       "word": "快船战胜湖人",
@@ -17032,6 +17088,14 @@
       "word": "贺峻霖安利中传美食",
       "onboard_time": 1680847528,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207443,
+      "num": 207443,
+      "word": "齐思钧直播",
+      "onboard_time": 1681305209,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -17057,6 +17121,14 @@
       "onboard_time": 1681200985,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207287,
+      "num": 182437,
+      "word": "吴磊练习网球花絮",
+      "onboard_time": 1681304608,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 207270,
@@ -20763,6 +20835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187754,
+      "num": 187754,
+      "word": "宋茜短发齐刘海",
+      "onboard_time": 1681305450,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187752,
       "num": 187752,
       "word": "黄明昊是懂大张伟的",
@@ -20859,6 +20939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187155,
+      "num": 187155,
+      "word": "故宫门票",
+      "onboard_time": 1681305088,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 187085,
       "num": 187085,
       "word": "孙怡卸妆式擦脸",
@@ -20931,12 +21019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186785,
+      "num": 189777,
+      "word": "王鹤棣白衬衣直播造型",
+      "onboard_time": 1681305209,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186713,
       "num": 186713,
       "word": "李宇春新专辑12首歌",
       "onboard_time": 1681096887,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186685,
+      "num": 186685,
+      "word": "爱情而已是汪汪队石锤",
+      "onboard_time": 1681303709,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 186682,
@@ -21937,6 +22041,14 @@
       "onboard_time": 1680413428,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177564,
+      "num": 177564,
+      "word": "罗云熙BJD娃娃",
+      "onboard_time": 1681305450,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 177502,
@@ -22947,14 +23059,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 166179,
-      "num": 231208,
-      "word": "给豪华品牌打个样",
-      "onboard_time": 1681302927,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 166115,
       "num": 166115,
       "word": "王源健身vlog",
@@ -23345,14 +23449,6 @@
       "onboard_time": 1681273949,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161658,
-      "num": 161658,
-      "word": "爱情而已是汪汪队石锤",
-      "onboard_time": 1681303709,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 161630,
@@ -24075,6 +24171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153131,
+      "num": 153131,
+      "word": "樊振东3比1李尚洙",
+      "onboard_time": 1681304009,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153099,
       "num": 153099,
       "word": "网红带货该对质量问题担责吗",
@@ -24568,6 +24672,14 @@
       "word": "用流浪地球打开长月烬明",
       "onboard_time": 1681286848,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148367,
+      "num": 148367,
+      "word": "爱情而已带火网球热",
+      "onboard_time": 1681304009,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -25177,6 +25289,14 @@
       "onboard_time": 1681136191,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140700,
+      "num": 140700,
+      "word": "澹台烬带叶夕雾拜见母亲",
+      "onboard_time": 1681301309,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 140627,
@@ -28323,6 +28443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74649,
+      "num": 119437,
+      "word": "风箫戈娅MVP",
+      "onboard_time": 1681303888,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74537,
       "num": 368976,
       "word": "原神必胜客联动开启",
@@ -28761,6 +28889,14 @@
       "onboard_time": 1681155073,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 42396,
+      "num": 1015071,
+      "word": "中国有约",
+      "onboard_time": 1681304129,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 42273,
