@@ -1,0 +1,410 @@
+{
+  "runTime": 1681326833924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 127543,
+        "num": 127543,
+        "word": "不要穿试衣间里的鞋",
+        "onboard_time": 1681299570,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93147,
+        "num": 93147,
+        "word": "社保挂靠代缴已被明确为违法",
+        "onboard_time": 1681308032,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 10844,
+        "num": 78893,
+        "word": "中国有约",
+        "onboard_time": 1681304129,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 244627,
+        "num": 78827,
+        "word": "添添",
+        "onboard_time": 1681309775,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77509,
+        "num": 77509,
+        "word": "小杨哥称将在TikTok开设电商",
+        "onboard_time": 1681313730,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 76175,
+        "num": 76175,
+        "word": "美生物实验室感染病毒的小白鼠逃了",
+        "onboard_time": 1681304548,
+        "rank": 5,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 58470,
+        "num": 58470,
+        "word": "女儿出首付母亲买房后把产权给儿子",
+        "onboard_time": 1681302627,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 57482,
+        "num": 57482,
+        "word": "北京人均存款已接近27万",
+        "onboard_time": 1681303948,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 52101,
+        "num": 52101,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1681306592,
+        "rank": 8,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 41473,
+        "num": 41473,
+        "word": "感觉全网中了flower的毒",
+        "onboard_time": 1681310797,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200725,
+        "num": 40911,
+        "word": "陈都灵早期等公交旧照",
+        "onboard_time": 1681316664,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38452,
+        "num": 38452,
+        "word": "六公主谈柯南争议",
+        "onboard_time": 1681293089,
+        "rank": 11,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 38179,
+        "num": 38179,
+        "word": "王者荣耀S31赛季延迟更新",
+        "onboard_time": 1681311453,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37757,
+        "num": 37757,
+        "word": "长月烬明 烬门",
+        "onboard_time": 1681308935,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37756,
+        "num": 37756,
+        "word": "90所大学撤销公共事业管理专业",
+        "onboard_time": 1681305930,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 36827,
+        "num": 36827,
+        "word": "两女子吃自助打包400元食材被拘",
+        "onboard_time": 1681298606,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33934,
+        "num": 33934,
+        "word": "蛟蚌分离",
+        "onboard_time": 1681297348,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32519,
+        "num": 32519,
+        "word": "不吃晚餐真的会变瘦吗",
+        "onboard_time": 1681312653,
+        "rank": 17,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 31960,
+        "num": 31960,
+        "word": "杨紫吃的什么面",
+        "onboard_time": 1681310915,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31685,
+        "num": 31685,
+        "word": "75岁施瓦辛格发上街修路视频",
+        "onboard_time": 1681308214,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30973,
+        "num": 30973,
+        "word": "为什么年轻人热衷考教资",
+        "onboard_time": 1681310373,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 30441,
+        "num": 30441,
+        "word": "减肥对外貌的改变可以有多大",
+        "onboard_time": 1681295547,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30149,
+        "num": 30149,
+        "word": "美香添添小崽要一起回家",
+        "onboard_time": 1681311694,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29562,
+        "num": 29562,
+        "word": "欧冠联赛",
+        "onboard_time": 1681323494,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29242,
+        "num": 29242,
+        "word": "偶遇虞书欣蹲在垃圾桶旁",
+        "onboard_time": 1681307554,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28892,
+        "num": 28892,
+        "word": "王者荣耀东方来客新赛季",
+        "onboard_time": 1681308633,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28462,
+        "num": 28462,
+        "word": "杭州四季青部分市场禁止商家直播销售",
+        "onboard_time": 1681311934,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28197,
+        "num": 28197,
+        "word": "电商主播年薪千万降到年薪百万",
+        "onboard_time": 1681299388,
+        "rank": 27,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 26366,
+        "num": 26366,
+        "word": "王者荣耀",
+        "onboard_time": 1681308814,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25867,
+        "num": 25867,
+        "word": "白鹿能不能再演十集反派",
+        "onboard_time": 1681306470,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 76388,
+        "num": 25803,
+        "word": "安徽爷孙离奇失联10天",
+        "onboard_time": 1681321935,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25596,
+        "num": 25596,
+        "word": "欢门",
+        "onboard_time": 1681311033,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25458,
+        "num": 25458,
+        "word": "猫咪进不了生肖是有原因的",
+        "onboard_time": 1681310313,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25231,
+        "num": 25231,
+        "word": "身体出现小毛病的真实原因",
+        "onboard_time": 1681308092,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 24417,
+        "num": 24417,
+        "word": "冥夜的手串上有贝壳珠",
+        "onboard_time": 1681309115,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23978,
+        "num": 23978,
+        "word": "彭小苒新剧红色婚服",
+        "onboard_time": 1681305450,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23970,
+        "num": 23970,
+        "word": "泼水节 拔拖鞋",
+        "onboard_time": 1681315527,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 23105,
+        "num": 23105,
+        "word": "三丽鸥明星人气评选",
+        "onboard_time": 1681321395,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 22401,
+        "num": 22401,
+        "word": "特斯拉降价",
+        "onboard_time": 1681304248,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 22247,
+        "num": 22247,
+        "word": "魏大勋坐在机场回复粉丝",
+        "onboard_time": 1681309234,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21433,
+        "num": 21433,
+        "word": "全圆佑 小卡",
+        "onboard_time": 1681313370,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20459,
+        "num": 20459,
+        "word": "半熟恋人 老孙",
+        "onboard_time": 1681297526,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20210,
+        "num": 20210,
+        "word": "桑酒打碎冰晶盏的原因",
+        "onboard_time": 1681316546,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20122,
+        "num": 20122,
+        "word": "白敬亭宋轶长风渡6月播出",
+        "onboard_time": 1681313131,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19590,
+        "num": 19590,
+        "word": "flower",
+        "onboard_time": 1681303888,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18935,
+        "num": 18935,
+        "word": "终于等到榴莲大降价",
+        "onboard_time": 1681297887,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18297,
+        "num": 18297,
+        "word": "开车出门千万要看好油表",
+        "onboard_time": 1681310194,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17807,
+        "num": 18291,
+        "word": "KPOP追星最后悔三件事",
+        "onboard_time": 1681294885,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17155,
+        "num": 18277,
+        "word": "雎晓雯怀孕做瑜伽",
+        "onboard_time": 1681296087,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15191,
+        "num": 18273,
+        "word": "石马修公司声明",
+        "onboard_time": 1681315589,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#农村特色产业前景广阔#"
+    }
+  }
+}
