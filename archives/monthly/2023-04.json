@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681295609998,
+  "endTime": 1681298078489,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1867,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1318114,
+      "num": 1318114,
+      "word": "六公主谈柯南争议",
+      "onboard_time": 1681293089,
+      "rank": 5,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 1317519,
       "num": 1317519,
       "word": "杭州悬赏100万出点子摆脱美食荒漠",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1681043127,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1159199,
-      "num": 1159199,
-      "word": "六公主谈柯南争议",
-      "onboard_time": 1681293089,
-      "rank": 5,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 1153403,
@@ -2993,6 +2993,14 @@
       "onboard_time": 1681040125,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 930636,
+      "num": 430618,
+      "word": "女演员称怀孕后丈夫多次收涉黄短信",
+      "onboard_time": 1681297287,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 928021,
@@ -5299,6 +5307,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 631709,
+      "num": 631709,
+      "word": "杨幂卷发",
+      "onboard_time": 1681293327,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 630396,
       "num": 630396,
       "word": "半导体",
@@ -7219,6 +7235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496107,
+      "num": 427815,
+      "word": "KPOP追星最后悔三件事",
+      "onboard_time": 1681294885,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496015,
       "num": 331593,
       "word": "女子睡醒发现房顶被吹走",
@@ -8699,6 +8723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416488,
+      "num": 416488,
+      "word": "雎晓雯怀孕做瑜伽",
+      "onboard_time": 1681296087,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416482,
       "num": 346308,
       "word": "丁程鑫看张新成抱孙千的反应",
@@ -8963,12 +8995,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 405172,
-      "num": 405172,
-      "word": "杨幂卷发",
-      "onboard_time": 1681293327,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 404972,
+      "num": 404972,
+      "word": "迪丽热巴开机图",
+      "onboard_time": 1681296087,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 404940,
@@ -8985,6 +9017,14 @@
       "onboard_time": 1681084345,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404549,
+      "num": 404549,
+      "word": "长月烬明天欢下线",
+      "onboard_time": 1681295609,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 404217,
@@ -9217,6 +9257,14 @@
       "onboard_time": 1681102413,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396711,
+      "num": 396711,
+      "word": "蔡徐坤收到小学生送的奥特曼卡",
+      "onboard_time": 1681296087,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 396550,
@@ -10131,6 +10179,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 355452,
+      "num": 330114,
+      "word": "半熟恋人 老孙",
+      "onboard_time": 1681297526,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355419,
       "num": 355419,
       "word": "小花梅近况",
@@ -10691,6 +10747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 339361,
+      "num": 339361,
+      "word": "这是在暗示你可以提涨薪了",
+      "onboard_time": 1681291586,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 339076,
       "num": 339076,
       "word": "张多雅",
@@ -11163,6 +11227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323202,
+      "num": 323202,
+      "word": "减肥对外貌的改变可以有多大",
+      "onboard_time": 1681295547,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323015,
       "num": 323015,
       "word": "德班",
@@ -11184,14 +11256,6 @@
       "word": "这个摊没有小狗得散",
       "onboard_time": 1680427290,
       "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 322623,
-      "num": 322623,
-      "word": "这是在暗示你可以提涨薪了",
-      "onboard_time": 1681291586,
-      "rank": 39,
       "category": "幽默"
     },
     {
@@ -11323,6 +11387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318270,
+      "num": 1057240,
+      "word": "男子回乡养病意外带全村致富",
+      "onboard_time": 1681294226,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317973,
       "num": 317973,
       "word": "湖人vs快船",
@@ -11377,14 +11449,6 @@
       "onboard_time": 1681013008,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 316366,
-      "num": 316366,
-      "word": "KPOP追星最后悔三件事",
-      "onboard_time": 1681294885,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 316207,
@@ -12211,6 +12275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292924,
+      "num": 292924,
+      "word": "官方发布预防新冠佩戴口罩指引",
+      "onboard_time": 1681295309,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 292467,
       "num": 292467,
       "word": "孟羽童",
@@ -12537,6 +12609,14 @@
       "onboard_time": 1681120888,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284000,
+      "num": 284000,
+      "word": "孔雪儿的肩",
+      "onboard_time": 1681296267,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 283996,
@@ -16267,6 +16347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212958,
+      "num": 174007,
+      "word": "蛟蚌分离",
+      "onboard_time": 1681297348,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212890,
       "num": 212890,
       "word": "陈都灵叶冰裳哭戏",
@@ -19203,6 +19291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195848,
+      "num": 193496,
+      "word": "名侦探柯南",
+      "onboard_time": 1681296988,
+      "rank": 32,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 195840,
       "num": 195840,
       "word": "双向奔赴是一种什么样的体验",
@@ -19401,14 +19497,6 @@
       "onboard_time": 1680689317,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194316,
-      "num": 194316,
-      "word": "减肥对外貌的改变可以有多大",
-      "onboard_time": 1681295547,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 194152,
@@ -20019,14 +20107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190464,
-      "num": 190464,
-      "word": "官方发布预防新冠佩戴口罩指引",
-      "onboard_time": 1681295309,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190463,
       "num": 190463,
       "word": "孟菲斯邀请社会各界祝丫丫一路平安",
@@ -20483,6 +20563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187831,
+      "num": 187831,
+      "word": "季曼逃婚",
+      "onboard_time": 1681297465,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187752,
       "num": 187752,
       "word": "黄明昊是懂大张伟的",
@@ -20657,6 +20745,14 @@
       "onboard_time": 1681096887,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186682,
+      "num": 186682,
+      "word": "科学家的休假时间都在做什么",
+      "onboard_time": 1681297047,
+      "rank": 35,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 186680,
@@ -22051,6 +22147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172531,
+      "num": 172531,
+      "word": "金智秀flower宠物开花舞",
+      "onboard_time": 1681297047,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172374,
       "num": 172374,
       "word": "灌篮高手三井寿角色预告",
@@ -22611,6 +22715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166553,
+      "num": 166553,
+      "word": "桑酒有什么错呢她只是想吃全蛇宴",
+      "onboard_time": 1681297647,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166544,
       "num": 166544,
       "word": "范丞丞要久久爱直男打伞",
@@ -22681,14 +22793,6 @@
       "onboard_time": 1680741992,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165620,
-      "num": 1057240,
-      "word": "男子回乡养病意外带全村致富",
-      "onboard_time": 1681294226,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165588,
@@ -23065,6 +23169,14 @@
       "onboard_time": 1681211069,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161388,
+      "num": 161388,
+      "word": "假如你中了1000万",
+      "onboard_time": 1681296807,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 160956,
@@ -24907,6 +25019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139467,
+      "num": 139467,
+      "word": "陈卓璇写藏头诗",
+      "onboard_time": 1681297887,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139333,
       "num": 139333,
       "word": "深圳DYG",
@@ -25681,6 +25801,14 @@
       "onboard_time": 1680883886,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129598,
+      "num": 129598,
+      "word": "宋三川梁友安都戴了婚戒",
+      "onboard_time": 1681298066,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 129494,
@@ -27435,6 +27563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98041,
+      "num": 129459,
+      "word": "减肥食谱一日三餐",
+      "onboard_time": 1681296087,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 97431,
       "num": 97431,
       "word": "蔡徐坤说今年重点是巡演",
@@ -27747,6 +27883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88594,
+      "num": 129444,
+      "word": "终于等到榴莲大降价",
+      "onboard_time": 1681297887,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88295,
       "num": 126941,
       "word": "在火之前的淄博吃烧烤是一种什么体验",
@@ -27776,6 +27920,14 @@
       "word": "搜救犬飞檐走壁快到重影",
       "onboard_time": 1680399507,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86363,
+      "num": 909207,
+      "word": "叫耿植的男孩获反诈小能手称号",
+      "onboard_time": 1681294288,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -27977,14 +28129,6 @@
       "onboard_time": 1680768331,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 69939,
-      "num": 909207,
-      "word": "叫耿植的男孩获反诈小能手称号",
-      "onboard_time": 1681294288,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69500,
@@ -28331,20 +28475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46748,
+      "num": 1388328,
+      "word": "看税收走基层",
+      "onboard_time": 1681289065,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46509,
       "num": 46509,
       "word": "张馨予晒夜骑随拍",
       "onboard_time": 1680468310,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46216,
-      "num": 1388328,
-      "word": "看税收走基层",
-      "onboard_time": 1681289065,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46159,
