@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/12 23:33:39
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/13 00:23:05
 </p>
 </blockquote>
 <p>
@@ -497,6 +497,12 @@ BAP力灿承认猥亵队友（热度：2556209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%BD%95%E6%84%88%E6%BC%94%E6%84%88%E7%83%88%23" target="weibo">
 张继科事件为何愈演愈烈（热度：2432368）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%BB%E6%B7%BB%23" target="weibo">
+添添（热度：2425491）
 </a>
 </li>
 
@@ -1253,12 +1259,6 @@ iPhone15ProMax预计售价2万块（热度：1956887）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%85%E6%80%9D%E4%BD%9C%E6%96%87%20%E7%BB%9D%E6%9C%9B%E7%9A%84%E6%96%87%E7%9B%B2%23" target="weibo">
 雅思作文 绝望的文盲（热度：1523923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%BB%E6%B7%BB%23" target="weibo">
-添添（热度：1518877）
 </a>
 </li>
 
@@ -4917,6 +4917,12 @@ Lisa晒BLACKPINK科切拉彩排照（热度：565832）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E5%B0%86%E5%9C%A8TikTok%E5%BC%80%E8%AE%BE%E7%94%B5%E5%95%86%23" target="weibo">
+小杨哥称将在TikTok开设电商（热度：548948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE2015%E5%B9%B4%E5%B0%8F%E5%93%81%E5%8F%B0%E8%AF%8D%23" target="weibo">
 沈腾2015年小品台词（热度：547973）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK科切拉表演曲目（热度：471868）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%97%85%E6%B8%B8%23" target="weibo">
 报复性旅游（热度：463757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA4%E6%9C%88%E5%A5%BD%E5%A4%9A%E6%96%B0%E7%BB%BC%E8%89%BA%23" target="weibo">
-爱奇艺4月好多新综艺（热度：463670）
 </a>
 </li>
 

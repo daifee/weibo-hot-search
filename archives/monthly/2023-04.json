@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681313619098,
+  "endTime": 1681316585213,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -649,6 +649,14 @@
       "onboard_time": 1680824849,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2425491,
+      "num": 1091789,
+      "word": "添添",
+      "onboard_time": 1681309775,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2421591,
@@ -1657,14 +1665,6 @@
       "onboard_time": 1680325828,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1518877,
-      "num": 1091789,
-      "word": "添添",
-      "onboard_time": 1681309775,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1505814,
@@ -6539,6 +6539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 548948,
+      "num": 548948,
+      "word": "小杨哥称将在TikTok开设电商",
+      "onboard_time": 1681313730,
+      "rank": 5,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 547973,
       "num": 547973,
       "word": "沈腾2015年小品台词",
@@ -8387,6 +8395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444094,
+      "num": 444094,
+      "word": "不吃晚餐真的会变瘦吗",
+      "onboard_time": 1681312653,
+      "rank": 48,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 443589,
       "num": 443589,
       "word": "张本智和止步冠军赛16强",
@@ -8883,6 +8899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420427,
+      "num": 420427,
+      "word": "白敬亭宋轶长风渡6月播出",
+      "onboard_time": 1681313131,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 419670,
       "num": 365236,
       "word": "张大大希望内娱百花齐放",
@@ -9136,6 +9160,14 @@
       "word": "肖战做美式咖啡",
       "onboard_time": 1681136252,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 410861,
+      "num": 410861,
+      "word": "全圆佑 小卡",
+      "onboard_time": 1681313370,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -14267,6 +14299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 252245,
+      "num": 252245,
+      "word": "王者荣耀S31赛季延迟更新",
+      "onboard_time": 1681311453,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252235,
       "num": 252235,
       "word": "阿里版GPT官宣内测",
@@ -16619,14 +16659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214103,
-      "num": 214103,
-      "word": "王者荣耀S31赛季延迟更新",
-      "onboard_time": 1681311453,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 214055,
       "num": 214055,
       "word": "钟南山称条件允许可不戴口罩",
@@ -17601,14 +17633,6 @@
       "onboard_time": 1680430108,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205764,
-      "num": 205764,
-      "word": "不吃晚餐真的会变瘦吗",
-      "onboard_time": 1681312653,
-      "rank": 48,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 205729,
@@ -18625,14 +18649,6 @@
       "onboard_time": 1680757952,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201134,
-      "num": 201134,
-      "word": "白敬亭宋轶长风渡6月播出",
-      "onboard_time": 1681313131,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 201069,
@@ -20283,6 +20299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192905,
+      "num": 192905,
+      "word": "杭州四季青部分市场禁止商家直播销售",
+      "onboard_time": 1681311934,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192811,
       "num": 192811,
       "word": "欧盟委员会主席访华",
@@ -21227,14 +21251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187062,
-      "num": 187062,
-      "word": "全圆佑 小卡",
-      "onboard_time": 1681313370,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186997,
       "num": 186997,
       "word": "张云龙顺着网线买单",
@@ -21681,14 +21697,6 @@
       "onboard_time": 1680589826,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183876,
-      "num": 183876,
-      "word": "杭州四季青部分市场禁止商家直播销售",
-      "onboard_time": 1681311934,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183844,
@@ -28683,6 +28691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80984,
+      "num": 80984,
+      "word": "石马修公司声明",
+      "onboard_time": 1681315589,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80904,
       "num": 80904,
       "word": "本泽马7分钟帽子戏法",
@@ -28921,6 +28937,14 @@
       "onboard_time": 1680940824,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 66990,
+      "num": 66990,
+      "word": "桑酒打碎冰晶盏的原因",
+      "onboard_time": 1681316546,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 65799,
