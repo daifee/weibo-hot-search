@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681338801077,
+  "endTime": 1681341402860,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -4067,6 +4067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263942,
+      "num": 206198,
+      "word": "安徽爷孙离奇失联10天",
+      "onboard_time": 1681321935,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263198,
       "num": 263198,
       "word": "朱洁静喊曾可妮原名",
@@ -7331,6 +7339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148495,
+      "num": 148495,
+      "word": "冥夜的手串上有贝壳珠",
+      "onboard_time": 1681309115,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148457,
       "num": 148457,
       "word": "容易出错的跑姿你中招了吗",
@@ -7715,6 +7731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132432,
+      "num": 132432,
+      "word": "苏醒混迹内娱多年全凭三好",
+      "onboard_time": 1681333032,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132324,
       "num": 132324,
       "word": "奔跑吧11奇幻旅程主题海报",
@@ -7819,14 +7843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128249,
-      "num": 98546,
-      "word": "冥夜的手串上有贝壳珠",
-      "onboard_time": 1681309115,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 127756,
       "num": 127756,
       "word": "淄博不止有烧烤",
@@ -7865,14 +7881,6 @@
       "onboard_time": 1681190968,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 126009,
-      "num": 105941,
-      "word": "安徽爷孙离奇失联10天",
-      "onboard_time": 1681321935,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125775,
@@ -8235,14 +8243,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 96549,
-      "num": 96549,
-      "word": "苏醒混迹内娱多年全凭三好",
-      "onboard_time": 1681333032,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96311,
       "num": 96311,
       "word": "白敬亭的翻包好物",
@@ -8267,6 +8267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 94360,
+      "num": 94360,
+      "word": "皇马2比0切尔西",
+      "onboard_time": 1681341202,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94166,
       "num": 94166,
       "word": "汪苏泷音乐节",
@@ -8281,6 +8289,14 @@
       "onboard_time": 1681052970,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 93071,
+      "num": 93071,
+      "word": "陈建斌给陈晓夸不会了",
+      "onboard_time": 1681338375,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 92605,
@@ -8427,6 +8443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58534,
+      "num": 58534,
+      "word": "欧冠联赛",
+      "onboard_time": 1681323494,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58277,
       "num": 58277,
       "word": "极限挑战",
@@ -8459,8 +8483,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54244,
+      "num": 54244,
+      "word": "刘惜君吴优机场对视",
+      "onboard_time": 1681340419,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53786,
-      "num": 53786,
+      "num": 54238,
       "word": "泼水节 拔拖鞋",
       "onboard_time": 1681315527,
       "rank": 46,
@@ -8513,14 +8545,6 @@
       "onboard_time": 1681155073,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 43481,
-      "num": 43481,
-      "word": "欧冠联赛",
-      "onboard_time": 1681323494,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 42194,
@@ -8577,14 +8601,6 @@
       "onboard_time": 1681321395,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 28164,
-      "num": 28164,
-      "word": "陈建斌给陈晓夸不会了",
-      "onboard_time": 1681338375,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 28108,
