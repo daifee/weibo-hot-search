@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681291019893,
+  "endTime": 1681292013450,
   "band_list": [
     {
       "raw_hot": 2873173,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2073534,
+      "num": 1661878,
+      "word": "亲亲您这个什么您心里不清楚吗",
+      "onboard_time": 1681287746,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1902088,
       "num": 1902088,
       "word": "唐朝诡事录",
@@ -59,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1798327,
+      "num": 1798327,
+      "word": "减肥的人晚上都在吃什么",
+      "onboard_time": 1681284806,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1708768,
       "num": 1572300,
       "word": "李金铭曾参加节目被要求当儿媳",
       "onboard_time": 1681278085,
       "rank": 1,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 1661878,
-      "num": 1661878,
-      "word": "亲亲您这个什么您心里不清楚吗",
-      "onboard_time": 1681287746,
-      "rank": 30,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1550487,
@@ -89,14 +97,6 @@
       "onboard_time": 1681255581,
       "rank": 14,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1388914,
-      "num": 1388914,
-      "word": "减肥的人晚上都在吃什么",
-      "onboard_time": 1681284806,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1339113,
@@ -121,6 +121,14 @@
       "onboard_time": 1681258767,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1193583,
+      "num": 1193583,
+      "word": "长月烬明算爆了吗",
+      "onboard_time": 1681290387,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 1123352,
@@ -355,12 +363,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 561535,
+      "num": 561535,
+      "word": "警方回应女生劝阻女子带男孩进更衣室遭打",
+      "onboard_time": 1681287685,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560532,
       "num": 560532,
       "word": "冯绍峰王丽坤新电影演夫妻",
       "onboard_time": 1681268426,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 553240,
+      "num": 553240,
+      "word": "毕业第一份工作月薪需要多少",
+      "onboard_time": 1681287087,
+      "rank": 39,
+      "category": "社会议题"
     },
     {
       "raw_hot": 536193,
@@ -377,14 +401,6 @@
       "onboard_time": 1681263623,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 521888,
-      "num": 521888,
-      "word": "毕业第一份工作月薪需要多少",
-      "onboard_time": 1681287087,
-      "rank": 39,
-      "category": "社会议题"
     },
     {
       "raw_hot": 503803,
@@ -435,12 +451,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 479548,
-      "num": 479548,
-      "word": "警方回应女生劝阻女子带男孩进更衣室遭打",
-      "onboard_time": 1681287685,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 480876,
+      "num": 389680,
+      "word": "天欢认罪",
+      "onboard_time": 1681289728,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 474255,
@@ -491,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 447022,
-      "num": 447022,
-      "word": "长月烬明算爆了吗",
-      "onboard_time": 1681290387,
-      "rank": 7,
-      "category": "影视"
-    },
-    {
       "raw_hot": 445061,
       "num": 445061,
       "word": "冥夜桑酒 哑巴爱情",
@@ -513,6 +521,14 @@
       "onboard_time": 1681222709,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439166,
+      "num": 197515,
+      "word": "漳州万达砍人男子已被控制",
+      "onboard_time": 1681291948,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439045,
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 399588,
+      "num": 389666,
+      "word": "独居未婚中年男子去世10天后被发现",
+      "onboard_time": 1681291285,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392185,
       "num": 392185,
       "word": "白玉兰奖提名预测",
@@ -609,6 +633,14 @@
       "onboard_time": 1681268905,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 368671,
+      "num": 368671,
+      "word": "中方对马克龙表态遭美批评不感到惊讶",
+      "onboard_time": 1681291047,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 368497,
@@ -651,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 361934,
+      "num": 324953,
+      "word": "男子分手后花一年时间减掉60斤",
+      "onboard_time": 1681289907,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359988,
       "num": 359988,
       "word": "商务部对台进行贸易壁垒调查",
@@ -672,14 +712,6 @@
       "word": "罗云熙白鹿长月烬明新浪扫楼",
       "onboard_time": 1681279885,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 357012,
-      "num": 197888,
-      "word": "天欢认罪",
-      "onboard_time": 1681289728,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -811,14 +843,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 311080,
-      "num": 291934,
-      "word": "男子分手后花一年时间减掉60斤",
-      "onboard_time": 1681289907,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310183,
       "num": 310183,
       "word": "山东事业编",
@@ -849,6 +873,14 @@
       "onboard_time": 1681263327,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 306883,
+      "num": 306883,
+      "word": "中了一千万还去上班吗",
+      "onboard_time": 1681290928,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 306229,
@@ -1147,6 +1179,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 229056,
+      "num": 229056,
+      "word": "丁克族们后来都怎么样了",
+      "onboard_time": 1681289189,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227246,
       "num": 165161,
       "word": "追星要有边界感",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1681265546,
       "rank": 36,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 211883,
-      "num": 211883,
-      "word": "丁克族们后来都怎么样了",
-      "onboard_time": 1681289189,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 210037,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1681273649,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198936,
+      "num": 198936,
+      "word": "徐明浩闻花照",
+      "onboard_time": 1681290808,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 198914,
@@ -1531,6 +1571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183654,
+      "num": 183654,
+      "word": "柳智敏的比例",
+      "onboard_time": 1681291169,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183502,
       "num": 183502,
       "word": "哈兰德纪录收割机",
@@ -1571,20 +1619,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177318,
+      "num": 177318,
+      "word": "NBA",
+      "onboard_time": 1681289668,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176660,
       "num": 176660,
       "word": "侯明昊找个球场装修篇vlog",
       "onboard_time": 1681281147,
       "rank": 34,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 176098,
-      "num": 176098,
-      "word": "NBA",
-      "onboard_time": 1681289668,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 175748,
@@ -1601,6 +1649,14 @@
       "onboard_time": 1681260627,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173069,
+      "num": 173069,
+      "word": "四川鸳鸯除了锅还有面",
+      "onboard_time": 1681290869,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 171859,
@@ -1867,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141509,
+      "num": 141509,
+      "word": "这是在暗示你可以提涨薪了",
+      "onboard_time": 1681291586,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140404,
       "num": 140404,
       "word": "冥夜卷而不平是常态",
@@ -1939,22 +2003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130647,
-      "num": 130647,
-      "word": "徐明浩闻花照",
-      "onboard_time": 1681290808,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 129943,
-      "num": 129943,
-      "word": "四川鸳鸯除了锅还有面",
-      "onboard_time": 1681290869,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 129738,
       "num": 129738,
       "word": "曼城vs拜仁",
@@ -1969,14 +2017,6 @@
       "onboard_time": 1681261587,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126911,
-      "num": 126911,
-      "word": "中了一千万还去上班吗",
-      "onboard_time": 1681290928,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 126531,
@@ -2043,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88632,
+      "num": 1389967,
+      "word": "从中国空间站看祖国大地勃勃生机",
+      "onboard_time": 1681289368,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88295,
       "num": 126941,
       "word": "在火之前的淄博吃烧烤是一种什么体验",
@@ -2073,14 +2121,6 @@
       "onboard_time": 1681272027,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 66599,
-      "num": 1389967,
-      "word": "从中国空间站看祖国大地勃勃生机",
-      "onboard_time": 1681289368,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60453,
@@ -2133,6 +2173,9 @@
     },
     {
       "word": "#习近平在茂名市考察调研#"
+    },
+    {
+      "word": "#农村特色产业前景广阔#"
     }
   ]
 }
