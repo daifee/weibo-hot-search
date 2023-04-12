@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681320811267,
+  "endTime": 1681323662273,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -8395,6 +8395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70261,
+      "num": 41217,
+      "word": "安徽爷孙离奇失联10天",
+      "onboard_time": 1681321935,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67564,
       "num": 1284664,
       "word": "中国有约",
@@ -8529,6 +8537,14 @@
       "onboard_time": 1681048530,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27509,
+      "num": 27509,
+      "word": "三丽鸥明星人气评选",
+      "onboard_time": 1681321395,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 24325,
