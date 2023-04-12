@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681292013450,
+  "endTime": 1681294709387,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -65,6 +65,14 @@
       "onboard_time": 1681265845,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2703767,
+      "num": 2703767,
+      "word": "漳州万达砍人男子已被控制",
+      "onboard_time": 1681291948,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2659473,
@@ -171,6 +179,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1994267,
+      "num": 1994267,
+      "word": "减肥的人晚上都在吃什么",
+      "onboard_time": 1681284806,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1987750,
       "num": 1987750,
       "word": "郑彩率去世",
@@ -241,14 +257,6 @@
       "onboard_time": 1681257507,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1798327,
-      "num": 1798327,
-      "word": "减肥的人晚上都在吃什么",
-      "onboard_time": 1681284806,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1796047,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1120916,
+      "num": 1120916,
+      "word": "独居未婚中年男子去世10天后被发现",
+      "onboard_time": 1681291285,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1116079,
       "num": 1116079,
       "word": "SEVENTEEN新歌预告照",
@@ -747,6 +763,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 886108,
+      "num": 886108,
+      "word": "六公主谈柯南争议",
+      "onboard_time": 1681293089,
+      "rank": 5,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 884833,
       "num": 376096,
       "word": "玫珂菲 成毅",
@@ -881,6 +905,14 @@
       "onboard_time": 1681220908,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 791679,
+      "num": 791679,
+      "word": "中了一千万还去上班吗",
+      "onboard_time": 1681290928,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 787358,
@@ -1307,6 +1339,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 617605,
+      "num": 572491,
+      "word": "警方通报漳州万达砍人案",
+      "onboard_time": 1681294167,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 616849,
       "num": 616849,
       "word": "直井怜暂停活动",
@@ -1491,12 +1531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575993,
+      "num": 575993,
+      "word": "天欢认罪",
+      "onboard_time": 1681289728,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 573117,
       "num": 573117,
       "word": "山东事业编",
       "onboard_time": 1681216706,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 572384,
+      "num": 572384,
+      "word": "中方对马克龙表态遭美批评不感到惊讶",
+      "onboard_time": 1681291047,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 571985,
@@ -1899,14 +1955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 480876,
-      "num": 389680,
-      "word": "天欢认罪",
-      "onboard_time": 1681289728,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 480125,
       "num": 480125,
       "word": "男子骑车下班被拦路光纤线割喉住院",
@@ -1977,6 +2025,14 @@
       "onboard_time": 1681095207,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458971,
+      "num": 458971,
+      "word": "韩国米诺地尔",
+      "onboard_time": 1681292186,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 458458,
@@ -2081,14 +2137,6 @@
       "onboard_time": 1681216587,
       "rank": 18,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 439166,
-      "num": 197515,
-      "word": "漳州万达砍人男子已被控制",
-      "onboard_time": 1681291948,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439045,
@@ -2435,14 +2483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 399588,
-      "num": 389666,
-      "word": "独居未婚中年男子去世10天后被发现",
-      "onboard_time": 1681291285,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399363,
       "num": 399363,
       "word": "明星和粉丝的关系",
@@ -2585,14 +2625,6 @@
       "onboard_time": 1681209927,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 368671,
-      "num": 368671,
-      "word": "中方对马克龙表态遭美批评不感到惊讶",
-      "onboard_time": 1681291047,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 368497,
@@ -3155,14 +3187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 306883,
-      "num": 306883,
-      "word": "中了一千万还去上班吗",
-      "onboard_time": 1681290928,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 306291,
       "num": 245720,
       "word": "不要把工作当成天大的事",
@@ -3403,6 +3427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284416,
+      "num": 284416,
+      "word": "杨幂卷发",
+      "onboard_time": 1681293327,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284094,
       "num": 284094,
       "word": "澹台烬放财神爷一马",
@@ -3537,6 +3569,14 @@
       "onboard_time": 1681186050,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269744,
+      "num": 269744,
+      "word": "这是在暗示你可以提涨薪了",
+      "onboard_time": 1681291586,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 267888,
@@ -6307,6 +6347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154388,
+      "num": 154388,
+      "word": "孙珍妮跳了flower",
+      "onboard_time": 1681292425,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153956,
       "num": 153956,
       "word": "三生友幸什么时候结婚",
@@ -6337,6 +6385,14 @@
       "onboard_time": 1681258886,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152228,
+      "num": 152228,
+      "word": "丁程鑫用手护着娜扎",
+      "onboard_time": 1681293748,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 152029,
@@ -6595,6 +6651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143888,
+      "num": 143888,
+      "word": "生孩子会带给你什么",
+      "onboard_time": 1681292789,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142871,
       "num": 142871,
       "word": "冥夜桑酒好哭",
@@ -6649,14 +6713,6 @@
       "onboard_time": 1681129166,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 141509,
-      "num": 141509,
-      "word": "这是在暗示你可以提涨薪了",
-      "onboard_time": 1681291586,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 141078,
@@ -7067,6 +7123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110556,
+      "num": 110556,
+      "word": "你心目中的白玉兰最佳男女主是谁",
+      "onboard_time": 1681294648,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110386,
       "num": 110386,
       "word": "可乐炒泡面",
@@ -7105,6 +7169,14 @@
       "onboard_time": 1681181306,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 108245,
+      "num": 110282,
+      "word": "DRG对战RW",
+      "onboard_time": 1681292968,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 108043,
@@ -7161,6 +7233,14 @@
       "onboard_time": 1681055067,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102068,
+      "num": 110265,
+      "word": "LPL十周年主题片",
+      "onboard_time": 1681294467,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 101918,
@@ -7347,6 +7427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61828,
+      "num": 477202,
+      "word": "炸店是对无辜消费者的伤害",
+      "onboard_time": 1681293627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58277,
       "num": 58277,
       "word": "极限挑战",
@@ -7411,6 +7499,30 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 43473,
+      "num": 994755,
+      "word": "男子回乡养病意外带全村致富",
+      "onboard_time": 1681294226,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39423,
+      "num": 792565,
+      "word": "叫耿植的男孩获反诈小能手称号",
+      "onboard_time": 1681294288,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38682,
+      "num": 1262503,
+      "word": "看税收走基层",
+      "onboard_time": 1681289065,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37711,
       "num": 1204209,
       "word": "2个关键词看消博会广交会",
@@ -7473,6 +7585,14 @@
       "onboard_time": 1681150813,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 15890,
+      "num": 147207,
+      "word": "天猫预测五一户外新趋势",
+      "onboard_time": 1681293627,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

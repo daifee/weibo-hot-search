@@ -1,6 +1,6 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681292013450,
+  "endTime": 1681294709387,
   "band_list": [
     {
       "raw_hot": 2873173,
@@ -17,6 +17,14 @@
       "onboard_time": 1681265845,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2703767,
+      "num": 2703767,
+      "word": "漳州万达砍人男子已被控制",
+      "onboard_time": 1681291948,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2569622,
@@ -43,6 +51,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 1994267,
+      "num": 1994267,
+      "word": "减肥的人晚上都在吃什么",
+      "onboard_time": 1681284806,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1902088,
       "num": 1902088,
       "word": "唐朝诡事录",
@@ -65,14 +81,6 @@
       "onboard_time": 1681257507,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1798327,
-      "num": 1798327,
-      "word": "减肥的人晚上都在吃什么",
-      "onboard_time": 1681284806,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1708768,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1120916,
+      "num": 1120916,
+      "word": "独居未婚中年男子去世10天后被发现",
+      "onboard_time": 1681291285,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1113389,
       "num": 496254,
       "word": "白鹿想和杨幂互换衣橱",
@@ -179,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 886108,
+      "num": 886108,
+      "word": "六公主谈柯南争议",
+      "onboard_time": 1681293089,
+      "rank": 5,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 863780,
       "num": 863780,
       "word": "法国续租大熊猫欢欢和圆仔",
       "onboard_time": 1681264466,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 791679,
+      "num": 791679,
+      "word": "中了一千万还去上班吗",
+      "onboard_time": 1681290928,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 787358,
@@ -299,6 +331,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 617605,
+      "num": 572491,
+      "word": "警方通报漳州万达砍人案",
+      "onboard_time": 1681294167,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 608185,
       "num": 608185,
       "word": "王楚钦 达科",
@@ -345,6 +385,22 @@
       "onboard_time": 1681258287,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575993,
+      "num": 575993,
+      "word": "天欢认罪",
+      "onboard_time": 1681289728,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 572384,
+      "num": 572384,
+      "word": "中方对马克龙表态遭美批评不感到惊讶",
+      "onboard_time": 1681291047,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 566617,
@@ -451,20 +507,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 480876,
-      "num": 389680,
-      "word": "天欢认罪",
-      "onboard_time": 1681289728,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 474255,
       "num": 474255,
       "word": "劣质衣服居然有致癌风险",
       "onboard_time": 1681223308,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 458971,
+      "num": 458971,
+      "word": "韩国米诺地尔",
+      "onboard_time": 1681292186,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 456316,
@@ -521,14 +577,6 @@
       "onboard_time": 1681222709,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 439166,
-      "num": 197515,
-      "word": "漳州万达砍人男子已被控制",
-      "onboard_time": 1681291948,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439045,
@@ -611,14 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399588,
-      "num": 389666,
-      "word": "独居未婚中年男子去世10天后被发现",
-      "onboard_time": 1681291285,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392185,
       "num": 392185,
       "word": "白玉兰奖提名预测",
@@ -633,14 +673,6 @@
       "onboard_time": 1681268905,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 368671,
-      "num": 368671,
-      "word": "中方对马克龙表态遭美批评不感到惊讶",
-      "onboard_time": 1681291047,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 368497,
@@ -875,14 +907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 306883,
-      "num": 306883,
-      "word": "中了一千万还去上班吗",
-      "onboard_time": 1681290928,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 306229,
       "num": 243782,
       "word": "男子为养近200只猫雇4人轮班照顾",
@@ -929,6 +953,14 @@
       "onboard_time": 1681282107,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284416,
+      "num": 284416,
+      "word": "杨幂卷发",
+      "onboard_time": 1681293327,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 283484,
@@ -993,6 +1025,14 @@
       "onboard_time": 1681274071,
       "rank": 28,
       "category": "动漫,幽默"
+    },
+    {
+      "raw_hot": 269744,
+      "num": 269744,
+      "word": "这是在暗示你可以提涨薪了",
+      "onboard_time": 1681291586,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 267045,
@@ -1835,6 +1875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 154388,
+      "num": 154388,
+      "word": "孙珍妮跳了flower",
+      "onboard_time": 1681292425,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153899,
       "num": 167613,
       "word": "丫丫乐乐回国细节披露",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1681258886,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152228,
+      "num": 152228,
+      "word": "丁程鑫用手护着娜扎",
+      "onboard_time": 1681293748,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 150092,
@@ -1923,12 +1979,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141509,
-      "num": 141509,
-      "word": "这是在暗示你可以提涨薪了",
-      "onboard_time": 1681291586,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 143888,
+      "num": 143888,
+      "word": "生孩子会带给你什么",
+      "onboard_time": 1681292789,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 140404,
@@ -2043,6 +2099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 110556,
+      "num": 110556,
+      "word": "你心目中的白玉兰最佳男女主是谁",
+      "onboard_time": 1681294648,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 109538,
       "num": 109538,
       "word": "leave",
@@ -2051,11 +2115,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108245,
+      "num": 110282,
+      "word": "DRG对战RW",
+      "onboard_time": 1681292968,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102544,
       "num": 102544,
       "word": "Ale石头人五杀",
       "onboard_time": 1681220551,
       "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 102068,
+      "num": 110265,
+      "word": "LPL十周年主题片",
+      "onboard_time": 1681294467,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -2123,6 +2203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 61828,
+      "num": 477202,
+      "word": "炸店是对无辜消费者的伤害",
+      "onboard_time": 1681293627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60453,
       "num": 60453,
       "word": "赵露思给手表打码",
@@ -2147,11 +2235,43 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43473,
+      "num": 994755,
+      "word": "男子回乡养病意外带全村致富",
+      "onboard_time": 1681294226,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39423,
+      "num": 792565,
+      "word": "叫耿植的男孩获反诈小能手称号",
+      "onboard_time": 1681294288,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38682,
+      "num": 1262503,
+      "word": "看税收走基层",
+      "onboard_time": 1681289065,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28592,
       "num": 1634814,
       "word": "消博会开馆首日有哪些亮点",
       "onboard_time": 1681216706,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15890,
+      "num": 147207,
+      "word": "天猫预测五一户外新趋势",
+      "onboard_time": 1681293627,
+      "rank": 39,
       "category": "社会新闻"
     }
   ],
