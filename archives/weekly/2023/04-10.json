@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681263959839,
+  "endTime": 1681266787602,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1454951,
-      "num": 439063,
+      "num": 478350,
       "word": "年轻人不结婚不生娃反促进宠物经济",
       "onboard_time": 1681255581,
       "rank": 14,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1339113,
-      "num": 427223,
+      "num": 449246,
       "word": "关晓彤曾说谁会闲的花七万买包",
       "onboard_time": 1681226432,
       "rank": 21,
@@ -595,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 900038,
+      "num": 900038,
+      "word": "00后网红马若松遭遇车祸身亡",
+      "onboard_time": 1681265725,
+      "rank": 1,
+      "category": "社会负面,网红"
+    },
+    {
       "raw_hot": 899867,
       "num": 899867,
       "word": "RAIN逃过了韩国酵母",
@@ -641,6 +649,14 @@
       "onboard_time": 1681136130,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 863780,
+      "num": 863780,
+      "word": "法国续租大熊猫欢欢和圆仔",
+      "onboard_time": 1681264466,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 854047,
@@ -785,6 +801,14 @@
       "onboard_time": 1681093106,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 761885,
+      "num": 761885,
+      "word": "去年国内人均存款增加1.2万",
+      "onboard_time": 1681261887,
+      "rank": 42,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 750691,
@@ -1220,7 +1244,7 @@
     },
     {
       "raw_hot": 580001,
-      "num": 246543,
+      "num": 277839,
       "word": "小伙被公司发配到乡镇惹网友羡慕",
       "onboard_time": 1681258287,
       "rank": 21,
@@ -1289,6 +1313,22 @@
       "onboard_time": 1681099588,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565788,
+      "num": 565788,
+      "word": "原神3.6",
+      "onboard_time": 1681265605,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 565099,
+      "num": 565099,
+      "word": "丁克的我想通了生孩子的意义",
+      "onboard_time": 1681265845,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 562492,
@@ -1411,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536193,
+      "num": 536193,
+      "word": "长月烬明微博开分7.3",
+      "onboard_time": 1681264286,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 535587,
       "num": 535587,
       "word": "家属称男孩坠湖景区安全绳不规范",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1681182026,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 524114,
+      "num": 524114,
+      "word": "格莱美慢镜头",
+      "onboard_time": 1681263623,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 519629,
@@ -1987,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400512,
+      "num": 400512,
+      "word": "南京大屠杀幸存者郑锦阳逝世",
+      "onboard_time": 1681264823,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400508,
       "num": 400508,
       "word": "林靖恩",
@@ -2081,14 +2145,6 @@
       "onboard_time": 1681221027,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 386323,
-      "num": 386323,
-      "word": "去年国内人均存款增加1.2万",
-      "onboard_time": 1681261887,
-      "rank": 42,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 382244,
@@ -2193,6 +2249,14 @@
       "onboard_time": 1681029148,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 358827,
+      "num": 358827,
+      "word": "奔跑吧第十一季定档",
+      "onboard_time": 1681266085,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 357715,
@@ -2321,6 +2385,14 @@
       "onboard_time": 1681104750,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340920,
+      "num": 340920,
+      "word": "利剑玫瑰开机路透",
+      "onboard_time": 1681264105,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 340213,
@@ -2563,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307203,
+      "num": 278025,
+      "word": "Lisa将参与太阳新专辑",
+      "onboard_time": 1681263327,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 306291,
       "num": 245720,
       "word": "不要把工作当成天大的事",
@@ -2795,6 +2875,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 278632,
+      "num": 278632,
+      "word": "利剑玫瑰",
+      "onboard_time": 1681264286,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276869,
       "num": 243338,
       "word": "冥夜被煮",
@@ -3017,6 +3105,14 @@
       "onboard_time": 1681142545,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245829,
+      "num": 241251,
+      "word": "为什么大家反感专家",
+      "onboard_time": 1681265006,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 245090,
@@ -3249,6 +3345,14 @@
       "onboard_time": 1681182748,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 231032,
+      "num": 231032,
+      "word": "NBA附加赛",
+      "onboard_time": 1681263745,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 230889,
@@ -3755,6 +3859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204063,
+      "num": 204063,
+      "word": "人生路不熟预售开启",
+      "onboard_time": 1681265725,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203873,
       "num": 203873,
       "word": "耿爽在安理会点名某军事大国",
@@ -3763,11 +3875,27 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 203856,
+      "num": 203856,
+      "word": "剑网3",
+      "onboard_time": 1681265605,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203725,
       "num": 203725,
       "word": "樊振东晋级冠军赛16强",
       "onboard_time": 1681136551,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203551,
+      "num": 203551,
+      "word": "老鹰扑灭热火",
+      "onboard_time": 1681266205,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -3835,14 +3963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202489,
-      "num": 202489,
-      "word": "Lisa将参与太阳新专辑",
-      "onboard_time": 1681263327,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 202404,
       "num": 192318,
       "word": "刘宇宁直播",
@@ -3897,6 +4017,14 @@
       "onboard_time": 1681093407,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 200608,
+      "num": 200608,
+      "word": "INTO1新歌不说再见上线",
+      "onboard_time": 1681266085,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 200563,
@@ -3977,14 +4105,6 @@
       "onboard_time": 1681111528,
       "rank": 34,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 199042,
-      "num": 199042,
-      "word": "格莱美慢镜头",
-      "onboard_time": 1681263623,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 198730,
@@ -4107,6 +4227,14 @@
       "category": "影视,游戏"
     },
     {
+      "raw_hot": 196928,
+      "num": 196928,
+      "word": "韩素希紫色毛衫",
+      "onboard_time": 1681265546,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 196852,
       "num": 196852,
       "word": "桑酒被灭族",
@@ -4185,6 +4313,14 @@
       "onboard_time": 1681104089,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194939,
+      "num": 194939,
+      "word": "泰国坠崖孕妇仍无法离婚",
+      "onboard_time": 1681266625,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194907,
@@ -4539,6 +4675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182470,
+      "num": 182470,
+      "word": "白鹿想和杨幂互换衣橱",
+      "onboard_time": 1681266565,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181427,
       "num": 151019,
       "word": "冥夜区别对待桑酒天欢",
@@ -4699,6 +4843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174532,
+      "num": 174532,
+      "word": "周三的精神状态",
+      "onboard_time": 1681265245,
+      "rank": 43,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 174355,
       "num": 215113,
       "word": "有这8种症状需警惕帕金森病",
@@ -4795,6 +4947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169075,
+      "num": 169075,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1681265485,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168073,
       "num": 168073,
       "word": "新疆草莓音乐节",
@@ -4865,6 +5025,14 @@
       "onboard_time": 1681187970,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162000,
+      "num": 162000,
+      "word": "中国网友韩国偶遇崔显旭",
+      "onboard_time": 1681266686,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 161895,
@@ -5361,14 +5529,6 @@
       "onboard_time": 1681191207,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136422,
-      "num": 136422,
-      "word": "NBA附加赛",
-      "onboard_time": 1681263745,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 135873,
