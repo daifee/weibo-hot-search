@@ -1,0 +1,410 @@
+{
+  "runTime": 1681303816724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1592181,
+        "num": 1592181,
+        "word": "蛟蚌分离",
+        "onboard_time": 1681297348,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1080189,
+        "num": 1080189,
+        "word": "不要穿试衣间里的鞋",
+        "onboard_time": 1681299570,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43354,
+        "num": 984052,
+        "word": "看税收走基层",
+        "onboard_time": 1681289065,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977214,
+        "num": 977214,
+        "word": "电商主播年薪千万降到年薪百万",
+        "onboard_time": 1681299388,
+        "rank": 3,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 725903,
+        "num": 725903,
+        "word": "六公主谈柯南争议",
+        "onboard_time": 1681293089,
+        "rank": 4,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 635943,
+        "num": 635943,
+        "word": "减肥的人晚上都在吃什么",
+        "onboard_time": 1681284806,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 520411,
+        "num": 520411,
+        "word": "半熟恋人 老孙",
+        "onboard_time": 1681297526,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502625,
+        "num": 502625,
+        "word": "终于等到榴莲大降价",
+        "onboard_time": 1681297887,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 356788,
+        "num": 446279,
+        "word": "两女子吃自助打包400元食材被拘",
+        "onboard_time": 1681298606,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272625,
+        "num": 431628,
+        "word": "中方对马克龙表态遭美批评不感到惊讶",
+        "onboard_time": 1681291047,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 582361,
+        "num": 428201,
+        "word": "亲亲您这个什么您心里不清楚吗",
+        "onboard_time": 1681287746,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 420850,
+        "num": 420850,
+        "word": "张柏芝路透状态",
+        "onboard_time": 1681301309,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394366,
+        "num": 394366,
+        "word": "女儿出首付母亲买房后把产权给儿子",
+        "onboard_time": 1681302627,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 322565,
+        "num": 322565,
+        "word": "宋三川梁友安都戴了婚戒",
+        "onboard_time": 1681298066,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313949,
+        "num": 313949,
+        "word": "中了一千万还去上班吗",
+        "onboard_time": 1681290928,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313858,
+        "num": 313858,
+        "word": "雎晓雯怀孕做瑜伽",
+        "onboard_time": 1681296087,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267942,
+        "num": 267942,
+        "word": "蔡徐坤收到小学生送的奥特曼卡",
+        "onboard_time": 1681296087,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248552,
+        "num": 248552,
+        "word": "徐璐跳了flower",
+        "onboard_time": 1681301789,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246496,
+        "num": 246496,
+        "word": "KPOP追星最后悔三件事",
+        "onboard_time": 1681294885,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242571,
+        "num": 242571,
+        "word": "长月烬明天欢下线",
+        "onboard_time": 1681295609,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319629,
+        "num": 240624,
+        "word": "减肥对外貌的改变可以有多大",
+        "onboard_time": 1681295547,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166179,
+        "num": 231208,
+        "word": "给豪华品牌打个样",
+        "onboard_time": 1681302927,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 227616,
+        "num": 227616,
+        "word": "长月烬明",
+        "onboard_time": 1681296328,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212967,
+        "num": 212967,
+        "word": "官方发布预防新冠佩戴口罩指引",
+        "onboard_time": 1681295309,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207270,
+        "num": 207270,
+        "word": "长月烬明角色号互动",
+        "onboard_time": 1681302568,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204012,
+        "num": 204012,
+        "word": "TTG对战TES",
+        "onboard_time": 1681302808,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202539,
+        "num": 202539,
+        "word": "吴磊说宋三川再会",
+        "onboard_time": 1681302808,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188873,
+        "num": 188873,
+        "word": "卢拉访华",
+        "onboard_time": 1681301186,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 206613,
+        "num": 188830,
+        "word": "罗云熙说搞点邪骨778",
+        "onboard_time": 1681299625,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 197310,
+        "num": 188754,
+        "word": "看爱情而已大结局belike",
+        "onboard_time": 1681302808,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220301,
+        "num": 188667,
+        "word": "冥夜说和桑酒没分",
+        "onboard_time": 1681302808,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1346179,
+        "num": 188621,
+        "word": "女子醉酒后在酒店遭两次性侵",
+        "onboard_time": 1681298848,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174769,
+        "num": 188560,
+        "word": "陈立农线上首唱会官宣",
+        "onboard_time": 1681302448,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2184542,
+        "num": 188485,
+        "word": "女演员称怀孕后丈夫多次收涉黄短信",
+        "onboard_time": 1681297287,
+        "rank": 33,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 206778,
+        "num": 188399,
+        "word": "宋三川电子修勾",
+        "onboard_time": 1681303529,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188377,
+        "num": 188377,
+        "word": "梁友安暗自安排宋三川出国学习",
+        "onboard_time": 1681303468,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181518,
+        "num": 181518,
+        "word": "这是在暗示你可以提涨薪了",
+        "onboard_time": 1681291586,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166368,
+        "num": 166368,
+        "word": "爱情而已全员画表情包",
+        "onboard_time": 1681303647,
+        "rank": 37,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 162082,
+        "num": 162082,
+        "word": "爱情而已收官",
+        "onboard_time": 1681303048,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162191,
+        "num": 162075,
+        "word": "迪丽热巴开机图",
+        "onboard_time": 1681296087,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240968,
+        "num": 162055,
+        "word": "杨幂卷发",
+        "onboard_time": 1681293327,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161658,
+        "num": 161658,
+        "word": "爱情而已是汪汪队石锤",
+        "onboard_time": 1681303709,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157801,
+        "num": 157801,
+        "word": "你们公司是不招双眼皮吗",
+        "onboard_time": 1681298308,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155333,
+        "num": 155333,
+        "word": "极氪发布会",
+        "onboard_time": 1681301609,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 358378,
+        "num": 152367,
+        "word": "独居未婚中年男子去世10天后被发现",
+        "onboard_time": 1681291285,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146589,
+        "num": 146589,
+        "word": "男子分手后花一年时间减掉60斤",
+        "onboard_time": 1681289907,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146386,
+        "num": 146386,
+        "word": "教资",
+        "onboard_time": 1681284386,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140023,
+        "num": 140023,
+        "word": "李金铭曾参加节目被要求当儿媳",
+        "onboard_time": 1681278085,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135692,
+        "num": 135692,
+        "word": "杨紫琼带小金人扫墓",
+        "onboard_time": 1681298187,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79675,
+        "num": 124575,
+        "word": "京城大师赛",
+        "onboard_time": 1681301008,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在茂名市考察调研#"
+    }
+  }
+}

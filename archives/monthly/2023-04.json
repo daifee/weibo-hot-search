@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681302833917,
+  "endTime": 1681303816724,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1443,6 +1443,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1592181,
+      "num": 1592181,
+      "word": "蛟蚌分离",
+      "onboard_time": 1681297348,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1584064,
       "num": 550694,
       "word": "沈月 湖师大",
@@ -1729,14 +1737,6 @@
       "onboard_time": 1680586050,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1448735,
-      "num": 1448735,
-      "word": "蛟蚌分离",
-      "onboard_time": 1681297348,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 1437150,
@@ -2547,6 +2547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1080189,
+      "num": 1080189,
+      "word": "不要穿试衣间里的鞋",
+      "onboard_time": 1681299570,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1079859,
       "num": 1079859,
       "word": "EXO 蝴蝶少女",
@@ -2857,6 +2865,14 @@
       "onboard_time": 1681193306,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 977214,
+      "num": 977214,
+      "word": "电商主播年薪千万降到年薪百万",
+      "onboard_time": 1681299388,
+      "rank": 1,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 976361,
@@ -3345,14 +3361,6 @@
       "onboard_time": 1680423508,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 879824,
-      "num": 879824,
-      "word": "电商主播年薪千万降到年薪百万",
-      "onboard_time": 1681299388,
-      "rank": 1,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 879225,
@@ -4241,14 +4249,6 @@
       "onboard_time": 1680842855,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 747137,
-      "num": 747137,
-      "word": "不要穿试衣间里的鞋",
-      "onboard_time": 1681299570,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 744478,
@@ -8675,6 +8675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 420850,
+      "num": 420850,
+      "word": "张柏芝路透状态",
+      "onboard_time": 1681301309,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420730,
       "num": 405000,
       "word": "高加林刘巧珍爱情变亲情",
@@ -9401,6 +9409,14 @@
       "onboard_time": 1680521975,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394366,
+      "num": 394366,
+      "word": "女儿出首付母亲买房后把产权给儿子",
+      "onboard_time": 1681302627,
+      "rank": 49,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 394354,
@@ -10179,6 +10195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356788,
+      "num": 446279,
+      "word": "两女子吃自助打包400元食材被拘",
+      "onboard_time": 1681298606,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356740,
       "num": 356740,
       "word": "迪丽热巴到达贵阳",
@@ -10921,14 +10945,6 @@
       "onboard_time": 1680671131,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334033,
-      "num": 334033,
-      "word": "张柏芝路透状态",
-      "onboard_time": 1681301309,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 333876,
@@ -12843,14 +12859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280130,
-      "num": 227878,
-      "word": "两女子吃自助打包400元食材被拘",
-      "onboard_time": 1681298606,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280083,
       "num": 280083,
       "word": "女团univu5正式出道",
@@ -14187,6 +14195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248552,
+      "num": 248552,
+      "word": "徐璐跳了flower",
+      "onboard_time": 1681301789,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 248533,
       "num": 248533,
       "word": "再也不怕回南天了",
@@ -15363,14 +15379,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 227823,
-      "num": 227823,
-      "word": "徐璐跳了flower",
-      "onboard_time": 1681301789,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 227805,
       "num": 227805,
       "word": "光明正大薅熊猫毛的乌鸦",
@@ -15801,6 +15809,14 @@
       "onboard_time": 1681023626,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 220301,
+      "num": 208919,
+      "word": "冥夜说和桑酒没分",
+      "onboard_time": 1681302808,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 220274,
@@ -16755,14 +16771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208919,
-      "num": 208919,
-      "word": "冥夜说和桑酒没分",
-      "onboard_time": 1681302808,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 208917,
       "num": 208917,
       "word": "甜咸口青团大pk",
@@ -17051,6 +17059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207270,
+      "num": 207270,
+      "word": "长月烬明角色号互动",
+      "onboard_time": 1681302568,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207220,
       "num": 207220,
       "word": "北影节天坛奖入围影片公布",
@@ -17137,6 +17153,14 @@
       "onboard_time": 1680852450,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 206778,
+      "num": 188399,
+      "word": "宋三川电子修勾",
+      "onboard_time": 1681303529,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 206751,
@@ -19107,6 +19131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197310,
+      "num": 188754,
+      "word": "看爱情而已大结局belike",
+      "onboard_time": 1681302808,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197309,
       "num": 197309,
       "word": "T1晋级MSI",
@@ -20571,6 +20603,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 188873,
+      "num": 209567,
+      "word": "卢拉访华",
+      "onboard_time": 1681301186,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 188799,
       "num": 188799,
       "word": "陈都灵说天欢和谁都没隔夜仇",
@@ -20592,6 +20632,14 @@
       "word": "澹台烬的烬言烬语",
       "onboard_time": 1680877411,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188377,
+      "num": 188377,
+      "word": "梁友安暗自安排宋三川出国学习",
+      "onboard_time": 1681303468,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -20793,14 +20841,6 @@
       "onboard_time": 1681052070,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187378,
-      "num": 180643,
-      "word": "看爱情而已大结局belike",
-      "onboard_time": 1681302808,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 187282,
@@ -21579,14 +21619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181099,
-      "num": 181099,
-      "word": "长月烬明角色号互动",
-      "onboard_time": 1681302568,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181055,
       "num": 181055,
       "word": "李荣浩演唱会大合唱乌梅子酱",
@@ -21825,14 +21857,6 @@
       "onboard_time": 1681277426,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179013,
-      "num": 209567,
-      "word": "卢拉访华",
-      "onboard_time": 1681301186,
-      "rank": 29,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 178966,
@@ -22899,6 +22923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166368,
+      "num": 166368,
+      "word": "爱情而已全员画表情包",
+      "onboard_time": 1681303647,
+      "rank": 37,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 166332,
       "num": 166332,
       "word": "梁友安钻进宋三川被窝",
@@ -22913,6 +22945,14 @@
       "onboard_time": 1680271529,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 166179,
+      "num": 231208,
+      "word": "给豪华品牌打个样",
+      "onboard_time": 1681302927,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 166115,
@@ -23275,6 +23315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162082,
+      "num": 162082,
+      "word": "爱情而已收官",
+      "onboard_time": 1681303048,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162065,
       "num": 162065,
       "word": "INTO1正装告别海报",
@@ -23297,6 +23345,14 @@
       "onboard_time": 1681273949,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161658,
+      "num": 161658,
+      "word": "爱情而已是汪汪队石锤",
+      "onboard_time": 1681303709,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 161630,
@@ -27049,14 +27105,6 @@
       "onboard_time": 1680974418,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112560,
-      "num": 112560,
-      "word": "女儿出首付母亲买房后把产权给儿子",
-      "onboard_time": 1681302627,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 112299,
