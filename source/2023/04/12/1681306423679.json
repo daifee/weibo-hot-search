@@ -1,0 +1,410 @@
+{
+  "runTime": 1681306423679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2124400,
+        "num": 2124400,
+        "word": "不要穿试衣间里的鞋",
+        "onboard_time": 1681299570,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1372727,
+        "num": 1372727,
+        "word": "北京人均存款已接近27万",
+        "onboard_time": 1681303948,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 67564,
+        "num": 1284664,
+        "word": "中国有约",
+        "onboard_time": 1681304129,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1255432,
+        "num": 1255432,
+        "word": "蛟蚌分离",
+        "onboard_time": 1681297348,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 953136,
+        "num": 953136,
+        "word": "女儿出首付母亲买房后把产权给儿子",
+        "onboard_time": 1681302627,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 693464,
+        "num": 693464,
+        "word": "六公主谈柯南争议",
+        "onboard_time": 1681293089,
+        "rank": 5,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 591789,
+        "num": 591789,
+        "word": "电商主播年薪千万降到年薪百万",
+        "onboard_time": 1681299388,
+        "rank": 6,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 556844,
+        "num": 556844,
+        "word": "特斯拉降价",
+        "onboard_time": 1681304248,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 488846,
+        "num": 488846,
+        "word": "减肥的人晚上都在吃什么",
+        "onboard_time": 1681284806,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 447818,
+        "num": 447818,
+        "word": "美生物实验室感染病毒的小白鼠逃了",
+        "onboard_time": 1681304548,
+        "rank": 9,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 445055,
+        "num": 445055,
+        "word": "冥夜桑酒BE真的太合理了",
+        "onboard_time": 1681304309,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 441664,
+        "num": 441664,
+        "word": "齐思钧直播",
+        "onboard_time": 1681305209,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391402,
+        "num": 391402,
+        "word": "亲亲您这个什么您心里不清楚吗",
+        "onboard_time": 1681287746,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 383585,
+        "num": 383585,
+        "word": "故宫门票",
+        "onboard_time": 1681305088,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 364424,
+        "num": 364424,
+        "word": "终于等到榴莲大降价",
+        "onboard_time": 1681297887,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 347760,
+        "num": 347760,
+        "word": "张柏芝路透状态",
+        "onboard_time": 1681301309,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343128,
+        "num": 343128,
+        "word": "两女子吃自助打包400元食材被拘",
+        "onboard_time": 1681298606,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320336,
+        "num": 320336,
+        "word": "冥夜说和桑酒没分",
+        "onboard_time": 1681302808,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318883,
+        "num": 318883,
+        "word": "半熟恋人 老孙",
+        "onboard_time": 1681297526,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295775,
+        "num": 295775,
+        "word": "徐璐跳了flower",
+        "onboard_time": 1681301789,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 330115,
+        "num": 291154,
+        "word": "flower",
+        "onboard_time": 1681303888,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328236,
+        "num": 290412,
+        "word": "减肥对外貌的改变可以有多大",
+        "onboard_time": 1681295547,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285302,
+        "num": 285302,
+        "word": "中了一千万还去上班吗",
+        "onboard_time": 1681290928,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241312,
+        "num": 241312,
+        "word": "极氪X",
+        "onboard_time": 1681305209,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234566,
+        "num": 234566,
+        "word": "彭小苒新剧红色婚服",
+        "onboard_time": 1681305450,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225709,
+        "num": 225709,
+        "word": "宋茜短发齐刘海",
+        "onboard_time": 1681305450,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221940,
+        "num": 221940,
+        "word": "罗云熙BJD娃娃",
+        "onboard_time": 1681305450,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208202,
+        "num": 208202,
+        "word": "雎晓雯怀孕做瑜伽",
+        "onboard_time": 1681296087,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200819,
+        "num": 200819,
+        "word": "澹台烬带叶夕雾拜见母亲",
+        "onboard_time": 1681301309,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196038,
+        "num": 196038,
+        "word": "宋三川梁友安都戴了婚戒",
+        "onboard_time": 1681298066,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187388,
+        "num": 187388,
+        "word": "王鹤棣白衬衣直播造型",
+        "onboard_time": 1681305209,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187190,
+        "num": 187190,
+        "word": "KPOP追星最后悔三件事",
+        "onboard_time": 1681294885,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184296,
+        "num": 184296,
+        "word": "长月烬明",
+        "onboard_time": 1681296328,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183564,
+        "num": 183564,
+        "word": "丈夫隐瞒性功能障碍被起诉撤销婚姻",
+        "onboard_time": 1681306111,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167257,
+        "num": 167257,
+        "word": "男子分手后花一年时间减掉60斤",
+        "onboard_time": 1681289907,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163741,
+        "num": 163741,
+        "word": "中方对马克龙表态遭美批评不感到惊讶",
+        "onboard_time": 1681291047,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 161739,
+        "num": 161739,
+        "word": "蔡徐坤收到小学生送的奥特曼卡",
+        "onboard_time": 1681296087,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157467,
+        "num": 157467,
+        "word": "卢拉访华",
+        "onboard_time": 1681301186,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 156731,
+        "num": 156731,
+        "word": "90所大学撤销公共事业管理专业",
+        "onboard_time": 1681305930,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 152680,
+        "num": 152680,
+        "word": "爱情而已是汪汪队石锤",
+        "onboard_time": 1681303709,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1756194,
+        "num": 152214,
+        "word": "女演员称怀孕后丈夫多次收涉黄短信",
+        "onboard_time": 1681297287,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 151054,
+        "num": 151054,
+        "word": "这是在暗示你可以提涨薪了",
+        "onboard_time": 1681291586,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141365,
+        "num": 141365,
+        "word": "看爱情而已大结局belike",
+        "onboard_time": 1681302808,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138787,
+        "num": 138787,
+        "word": "极氪发布会",
+        "onboard_time": 1681301609,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138057,
+        "num": 138057,
+        "word": "迪丽热巴开机图",
+        "onboard_time": 1681296087,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133042,
+        "num": 133042,
+        "word": "给豪华品牌打个样",
+        "onboard_time": 1681302927,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 118722,
+        "num": 118722,
+        "word": "樊振东3比1李尚洙",
+        "onboard_time": 1681304009,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118383,
+        "num": 118383,
+        "word": "官方发布预防新冠佩戴口罩指引",
+        "onboard_time": 1681295309,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118052,
+        "num": 118052,
+        "word": "Liz高音",
+        "onboard_time": 1681306410,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60145,
+        "num": 114714,
+        "word": "风箫戈娅MVP",
+        "onboard_time": 1681303888,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#农村特色产业前景广阔#"
+    }
+  }
+}

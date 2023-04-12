@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681305689241,
+  "endTime": 1681306423679,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -851,6 +851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2124400,
+      "num": 2124400,
+      "word": "不要穿试衣间里的鞋",
+      "onboard_time": 1681299570,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2093688,
       "num": 2093688,
       "word": "工会介入员工痛批领导安排加班事件",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1681257507,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1824442,
-      "num": 1824442,
-      "word": "不要穿试衣间里的鞋",
-      "onboard_time": 1681299570,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 1824009,
@@ -1841,6 +1841,14 @@
       "onboard_time": 1680576867,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1372727,
+      "num": 1372727,
+      "word": "北京人均存款已接近27万",
+      "onboard_time": 1681303948,
+      "rank": 4,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1368434,
@@ -2937,14 +2945,6 @@
       "onboard_time": 1680877170,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 962638,
-      "num": 962638,
-      "word": "北京人均存款已接近27万",
-      "onboard_time": 1681303948,
-      "rank": 4,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 959032,
@@ -8211,6 +8211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447818,
+      "num": 447818,
+      "word": "美生物实验室感染病毒的小白鼠逃了",
+      "onboard_time": 1681304548,
+      "rank": 19,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 447729,
       "num": 188698,
       "word": "鹿晗广州",
@@ -8251,6 +8259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 445055,
+      "num": 445055,
+      "word": "冥夜桑酒BE真的太合理了",
+      "onboard_time": 1681304309,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445044,
       "num": 445044,
       "word": "鹅鸭杀",
@@ -8281,6 +8297,14 @@
       "onboard_time": 1680346350,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 441664,
+      "num": 441664,
+      "word": "齐思钧直播",
+      "onboard_time": 1681305209,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 440390,
@@ -8684,7 +8708,7 @@
     },
     {
       "raw_hot": 421644,
-      "num": 255732,
+      "num": 291154,
       "word": "flower",
       "onboard_time": 1681303888,
       "rank": 20,
@@ -9113,14 +9137,6 @@
       "onboard_time": 1681084345,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404396,
-      "num": 404396,
-      "word": "冥夜桑酒BE真的太合理了",
-      "onboard_time": 1681304309,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 404217,
@@ -9689,6 +9705,14 @@
       "onboard_time": 1680450336,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383585,
+      "num": 383585,
+      "word": "故宫门票",
+      "onboard_time": 1681305088,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 382422,
@@ -12259,6 +12283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295775,
+      "num": 295775,
+      "word": "徐璐跳了flower",
+      "onboard_time": 1681301789,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 295687,
       "num": 295687,
       "word": "水果麻辣拌",
@@ -12793,14 +12825,6 @@
       "onboard_time": 1680956488,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282277,
-      "num": 282277,
-      "word": "徐璐跳了flower",
-      "onboard_time": 1681301789,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 282076,
@@ -13593,14 +13617,6 @@
       "onboard_time": 1681050089,
       "rank": 29,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 262257,
-      "num": 262257,
-      "word": "美生物实验室感染病毒的小白鼠逃了",
-      "onboard_time": 1681304548,
-      "rank": 19,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 262004,
@@ -14555,6 +14571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241312,
+      "num": 241312,
+      "word": "极氪X",
+      "onboard_time": 1681305209,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 241200,
       "num": 210434,
       "word": "职场中文凭真的有那么重要吗",
@@ -14945,6 +14969,14 @@
       "onboard_time": 1681134988,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234566,
+      "num": 234566,
+      "word": "彭小苒新剧红色婚服",
+      "onboard_time": 1681305450,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 234558,
@@ -15547,6 +15579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225709,
+      "num": 225709,
+      "word": "宋茜短发齐刘海",
+      "onboard_time": 1681305450,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225391,
       "num": 225391,
       "word": "汪峰女儿小苹果自弹自唱",
@@ -15569,14 +15609,6 @@
       "onboard_time": 1681261107,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 225116,
-      "num": 225116,
-      "word": "极氪X",
-      "onboard_time": 1681305209,
-      "rank": 23,
-      "category": "科技"
     },
     {
       "raw_hot": 224976,
@@ -15712,6 +15744,14 @@
       "word": "SEVENTEEN关于青春的代名词",
       "onboard_time": 1680854249,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221940,
+      "num": 221940,
+      "word": "罗云熙BJD娃娃",
+      "onboard_time": 1681305450,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -17059,14 +17099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207548,
-      "num": 207548,
-      "word": "彭小苒新剧红色婚服",
-      "onboard_time": 1681305450,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 207547,
       "num": 207547,
       "word": "快船战胜湖人",
@@ -17088,14 +17120,6 @@
       "word": "贺峻霖安利中传美食",
       "onboard_time": 1680847528,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 207443,
-      "num": 207443,
-      "word": "齐思钧直播",
-      "onboard_time": 1681305209,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -18457,6 +18481,14 @@
       "onboard_time": 1681087529,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200819,
+      "num": 200819,
+      "word": "澹台烬带叶夕雾拜见母亲",
+      "onboard_time": 1681301309,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 200812,
@@ -20835,14 +20867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187754,
-      "num": 187754,
-      "word": "宋茜短发齐刘海",
-      "onboard_time": 1681305450,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187752,
       "num": 187752,
       "word": "黄明昊是懂大张伟的",
@@ -20923,6 +20947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187388,
+      "num": 189777,
+      "word": "王鹤棣白衬衣直播造型",
+      "onboard_time": 1681305209,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187282,
       "num": 187282,
       "word": "宇宙探索编辑部 晕镜头",
@@ -20937,14 +20969,6 @@
       "onboard_time": 1680952409,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187155,
-      "num": 187155,
-      "word": "故宫门票",
-      "onboard_time": 1681305088,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 187085,
@@ -21017,14 +21041,6 @@
       "onboard_time": 1680767489,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186785,
-      "num": 189777,
-      "word": "王鹤棣白衬衣直播造型",
-      "onboard_time": 1681305209,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 186713,
@@ -21473,6 +21489,14 @@
       "onboard_time": 1680672151,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183564,
+      "num": 183564,
+      "word": "丈夫隐瞒性功能障碍被起诉撤销婚姻",
+      "onboard_time": 1681306111,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183502,
@@ -22041,14 +22065,6 @@
       "onboard_time": 1680413428,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177564,
-      "num": 177564,
-      "word": "罗云熙BJD娃娃",
-      "onboard_time": 1681305450,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 177502,
@@ -23851,6 +23867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156731,
+      "num": 156731,
+      "word": "90所大学撤销公共事业管理专业",
+      "onboard_time": 1681305930,
+      "rank": 38,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 156674,
       "num": 156674,
       "word": "陈晓说愿意演渣男",
@@ -25289,14 +25313,6 @@
       "onboard_time": 1681136191,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140700,
-      "num": 140700,
-      "word": "澹台烬带叶夕雾拜见母亲",
-      "onboard_time": 1681301309,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 140627,
@@ -26971,6 +26987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118052,
+      "num": 118052,
+      "word": "Liz高音",
+      "onboard_time": 1681306410,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117854,
       "num": 117854,
       "word": "苏新皓说谢谢你愿意为我而来",
@@ -28563,6 +28587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 67564,
+      "num": 1284664,
+      "word": "中国有约",
+      "onboard_time": 1681304129,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 67476,
       "num": 67476,
       "word": "曼联1比0布伦特福德",
@@ -28889,14 +28921,6 @@
       "onboard_time": 1681155073,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 42396,
-      "num": 1015071,
-      "word": "中国有约",
-      "onboard_time": 1681304129,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 42273,
