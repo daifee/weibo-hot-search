@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681284809013,
+  "endTime": 1681287713625,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1859946,
+      "num": 1859946,
+      "word": "小伙年会喜提365天带薪休假",
+      "onboard_time": 1681275689,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1824614,
       "num": 1824614,
       "word": "淄博老板娘为赶高铁小伙1V1烤串",
@@ -385,14 +393,6 @@
       "onboard_time": 1681096949,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1282869,
-      "num": 1282869,
-      "word": "小伙年会喜提365天带薪休假",
-      "onboard_time": 1681275689,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1281022,
@@ -577,6 +577,14 @@
       "onboard_time": 1681198047,
       "rank": 45,
       "category": "社会新闻,国外要闻"
+    },
+    {
+      "raw_hot": 1058642,
+      "num": 1058642,
+      "word": "减肥的人晚上都在吃什么",
+      "onboard_time": 1681284806,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1053810,
@@ -963,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724376,
+      "num": 342774,
+      "word": "张凌赫主页是贝壳",
+      "onboard_time": 1681284265,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 723218,
       "num": 723218,
       "word": "WBG官宣easyhoon离队",
@@ -1128,6 +1144,14 @@
       "word": "爸爸抽烟甩手时不慎烫伤孩子眼睛",
       "onboard_time": 1681096409,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653440,
+      "num": 325190,
+      "word": "广西一高校被曝送学生进厂打螺丝",
+      "onboard_time": 1681283546,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1337,14 +1361,6 @@
       "onboard_time": 1681273410,
       "rank": 46,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 594806,
-      "num": 307320,
-      "word": "张凌赫主页是贝壳",
-      "onboard_time": 1681284265,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 591827,
@@ -1883,6 +1899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 465998,
+      "num": 317452,
+      "word": "杨紫泰国随拍",
+      "onboard_time": 1681286666,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463757,
       "num": 463757,
       "word": "报复性旅游",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1681219527,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 448119,
+      "num": 448119,
+      "word": "马嘉祺被那英吐槽像下岗工人",
+      "onboard_time": 1681283727,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 447467,
@@ -2113,6 +2145,14 @@
       "onboard_time": 1681191987,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418767,
+      "num": 418767,
+      "word": "招惹 纯爱战士应声倒地",
+      "onboard_time": 1681285286,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 417507,
@@ -2323,6 +2363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 397166,
+      "num": 397166,
+      "word": "教资",
+      "onboard_time": 1681284386,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 396927,
       "num": 396927,
       "word": "我的工资和我的假期一样少",
@@ -2385,14 +2433,6 @@
       "onboard_time": 1681221027,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 384022,
-      "num": 384022,
-      "word": "马嘉祺被那英吐槽像下岗工人",
-      "onboard_time": 1681283727,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 382244,
@@ -2505,6 +2545,14 @@
       "onboard_time": 1681260689,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359988,
+      "num": 359988,
+      "word": "商务部对台进行贸易壁垒调查",
+      "onboard_time": 1681283784,
+      "rank": 27,
+      "category": "国内要闻,财经"
     },
     {
       "raw_hot": 359119,
@@ -2689,14 +2737,6 @@
       "onboard_time": 1681264105,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340480,
-      "num": 293342,
-      "word": "广西一高校被曝送学生进厂打螺丝",
-      "onboard_time": 1681283546,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 340213,
@@ -2977,6 +3017,14 @@
       "onboard_time": 1681183225,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308033,
+      "num": 308033,
+      "word": "罗云熙的角色我分清了",
+      "onboard_time": 1681285768,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 307729,
@@ -3427,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263198,
+      "num": 263198,
+      "word": "朱洁静喊曾可妮原名",
+      "onboard_time": 1681285706,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263180,
       "num": 263180,
       "word": "长佩",
@@ -3595,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244681,
+      "num": 244681,
+      "word": "95后复原女性发型史为粉发女孩发声",
+      "onboard_time": 1681284325,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243057,
       "num": 243057,
       "word": "CBA",
@@ -3675,6 +3739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239864,
+      "num": 239864,
+      "word": "讨厌没有边界感的情侣",
+      "onboard_time": 1681285406,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238928,
       "num": 238928,
       "word": "天府绿道两骑行者相撞1人死亡",
@@ -3713,6 +3785,14 @@
       "onboard_time": 1681228049,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 237258,
+      "num": 237258,
+      "word": "高校回应被指强迫学生实习",
+      "onboard_time": 1681286129,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236455,
@@ -4403,14 +4483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205931,
-      "num": 205931,
-      "word": "商务部对台进行贸易壁垒调查",
-      "onboard_time": 1681283784,
-      "rank": 27,
-      "category": "国内要闻,财经"
-    },
-    {
       "raw_hot": 205270,
       "num": 205270,
       "word": "易烊千玺说会创作出好角色回馈观众",
@@ -4787,6 +4859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197619,
+      "num": 197619,
+      "word": "不生孩子的想法会随着年龄改变吗",
+      "onboard_time": 1681287087,
+      "rank": 28,
+      "category": "社会议题,情感"
+    },
+    {
       "raw_hot": 197599,
       "num": 197599,
       "word": "王源正在筹备自己的首次巡回演唱会",
@@ -4881,6 +4961,14 @@
       "onboard_time": 1681211488,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 196775,
+      "num": 196775,
+      "word": "宋妍霏说徐钰终于摆脱异地恋",
+      "onboard_time": 1681287505,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 196619,
@@ -4984,6 +5072,14 @@
       "word": "罗云熙白鹿新剧情感特辑",
       "onboard_time": 1681096648,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193682,
+      "num": 193682,
+      "word": "陈建斌夸陈晓有演员的美德",
+      "onboard_time": 1681285587,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -5691,6 +5787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170730,
+      "num": 170730,
+      "word": "有必要和朋友说真实收入吗",
+      "onboard_time": 1681282405,
+      "rank": 45,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 170356,
       "num": 170356,
       "word": "周雨彤沙滩随拍",
@@ -5875,6 +5979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160979,
+      "num": 160979,
+      "word": "冥夜赦免了天欢",
+      "onboard_time": 1681286608,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159026,
       "num": 208344,
       "word": "九城上演橙色灯光秀",
@@ -5913,6 +6025,14 @@
       "onboard_time": 1681115368,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157867,
+      "num": 153704,
+      "word": "长月烬明的剪辑",
+      "onboard_time": 1681286486,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 156674,
@@ -6107,12 +6227,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148858,
+      "num": 148858,
+      "word": "毕业第一份工作月薪需要多少",
+      "onboard_time": 1681287087,
+      "rank": 39,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 148457,
       "num": 148457,
       "word": "容易出错的跑姿你中招了吗",
       "onboard_time": 1681109847,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148377,
+      "num": 148377,
+      "word": "用流浪地球打开长月烬明",
+      "onboard_time": 1681286848,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 147768,
@@ -6161,14 +6297,6 @@
       "onboard_time": 1681120827,
       "rank": 6,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 146370,
-      "num": 146370,
-      "word": "95后复原女性发型史为粉发女孩发声",
-      "onboard_time": 1681284325,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146350,
@@ -6379,14 +6507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137976,
-      "num": 137976,
-      "word": "教资",
-      "onboard_time": 1681284386,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 136896,
       "num": 136896,
       "word": "最期待入围白玉兰的网剧",
@@ -6515,6 +6635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129218,
+      "num": 129218,
+      "word": "警方回应女生劝阻女子带男孩进更衣室遭打",
+      "onboard_time": 1681287685,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129077,
       "num": 129077,
       "word": "甲减都有哪些症状",
@@ -6569,14 +6697,6 @@
       "onboard_time": 1681190968,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125761,
-      "num": 125761,
-      "word": "有必要和朋友说真实收入吗",
-      "onboard_time": 1681282405,
-      "rank": 45,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 124034,
@@ -6956,7 +7076,7 @@
     },
     {
       "raw_hot": 88295,
-      "num": 117553,
+      "num": 126941,
       "word": "在火之前的淄博吃烧烤是一种什么体验",
       "onboard_time": 1681283605,
       "rank": 49,
