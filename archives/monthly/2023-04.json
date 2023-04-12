@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681306423679,
+  "endTime": 1681308983092,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -851,6 +851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2125017,
+      "num": 566561,
+      "word": "丈夫隐瞒性功能障碍被起诉撤销婚姻",
+      "onboard_time": 1681306111,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2124400,
       "num": 2124400,
       "word": "不要穿试衣间里的鞋",
@@ -1387,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1640889,
+      "num": 1640889,
+      "word": "北京人均存款已接近27万",
+      "onboard_time": 1681303948,
+      "rank": 4,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1639231,
       "num": 1639231,
       "word": "华晨宇回应华语乐坛永远的神",
@@ -1841,14 +1857,6 @@
       "onboard_time": 1680576867,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1372727,
-      "num": 1372727,
-      "word": "北京人均存款已接近27万",
-      "onboard_time": 1681303948,
-      "rank": 4,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1368434,
@@ -2857,6 +2865,14 @@
       "onboard_time": 1680650780,
       "rank": 18,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 983038,
+      "num": 983038,
+      "word": "春天是精神病的高发时期",
+      "onboard_time": 1681306592,
+      "rank": 3,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 980940,
@@ -4115,6 +4131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 769281,
+      "num": 769281,
+      "word": "王者荣耀",
+      "onboard_time": 1680496236,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 767785,
       "num": 356375,
       "word": "湖北一女局长被曝用公款配置休息室",
@@ -5099,6 +5123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 653888,
+      "num": 653888,
+      "word": "白鹿能不能再演十集反派",
+      "onboard_time": 1681306470,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 653611,
       "num": 653611,
       "word": "泰坦尼克号Rose床头的照片",
@@ -5809,6 +5841,14 @@
       "onboard_time": 1681011808,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594803,
+      "num": 594803,
+      "word": "美生物实验室感染病毒的小白鼠逃了",
+      "onboard_time": 1681304548,
+      "rank": 19,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 594470,
@@ -6704,6 +6744,14 @@
       "word": "粉丝美国偶遇虞书欣",
       "onboard_time": 1681098390,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 537318,
+      "num": 537318,
+      "word": "齐思钧直播",
+      "onboard_time": 1681305209,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -8211,14 +8259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 447818,
-      "num": 447818,
-      "word": "美生物实验室感染病毒的小白鼠逃了",
-      "onboard_time": 1681304548,
-      "rank": 19,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 447729,
       "num": 188698,
       "word": "鹿晗广州",
@@ -8297,14 +8337,6 @@
       "onboard_time": 1680346350,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 441664,
-      "num": 441664,
-      "word": "齐思钧直播",
-      "onboard_time": 1681305209,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 440390,
@@ -8408,6 +8440,14 @@
       "word": "杨紫车保罗199爱合影",
       "onboard_time": 1680498096,
       "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 435571,
+      "num": 435571,
+      "word": "彭小苒新剧红色婚服",
+      "onboard_time": 1681305450,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -8523,6 +8563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429590,
+      "num": 429590,
+      "word": "偶遇虞书欣蹲在垃圾桶旁",
+      "onboard_time": 1681307554,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429479,
       "num": 429479,
       "word": "你是什么门",
@@ -8633,6 +8681,14 @@
       "onboard_time": 1680968967,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 423890,
+      "num": 423890,
+      "word": "故宫门票",
+      "onboard_time": 1681305088,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 423684,
@@ -9057,6 +9113,14 @@
       "onboard_time": 1681284386,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 408291,
+      "num": 408291,
+      "word": "90所大学撤销公共事业管理专业",
+      "onboard_time": 1681305930,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 408094,
@@ -9587,6 +9651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 389659,
+      "num": 389659,
+      "word": "王者荣耀东方来客新赛季",
+      "onboard_time": 1681308633,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 389636,
       "num": 389636,
       "word": "癌细胞的出发点",
@@ -9707,14 +9779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383585,
-      "num": 383585,
-      "word": "故宫门票",
-      "onboard_time": 1681305088,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 382422,
       "num": 382422,
       "word": "SMTOWN和HYBE联合账号注销",
@@ -9801,14 +9865,6 @@
       "onboard_time": 1680669692,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 378353,
-      "num": 378353,
-      "word": "王者荣耀",
-      "onboard_time": 1680496236,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 377306,
@@ -10187,6 +10243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359391,
+      "num": 359391,
+      "word": "宋茜短发齐刘海",
+      "onboard_time": 1681305450,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 359119,
       "num": 359119,
       "word": "朴叙俊出演惊奇队长老公",
@@ -10204,7 +10268,7 @@
     },
     {
       "raw_hot": 358771,
-      "num": 323202,
+      "num": 343754,
       "word": "减肥对外貌的改变可以有多大",
       "onboard_time": 1681295547,
       "rank": 31,
@@ -11355,6 +11419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324005,
+      "num": 324005,
+      "word": "罗云熙BJD娃娃",
+      "onboard_time": 1681305450,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323829,
       "num": 323829,
       "word": "4AM夺冠",
@@ -12299,6 +12371,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 295602,
+      "num": 295602,
+      "word": "社保挂靠代缴已被明确为违法",
+      "onboard_time": 1681308032,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 295487,
       "num": 295487,
       "word": "王一博热烈找镜头",
@@ -12537,6 +12617,14 @@
       "onboard_time": 1681197985,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289518,
+      "num": 218652,
+      "word": "陈都灵 电子木鱼",
+      "onboard_time": 1681308454,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289322,
@@ -13713,6 +13801,14 @@
       "onboard_time": 1680592710,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 259769,
+      "num": 259769,
+      "word": "75岁施瓦辛格发上街修路视频",
+      "onboard_time": 1681308214,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 259723,
@@ -14971,14 +15067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234566,
-      "num": 234566,
-      "word": "彭小苒新剧红色婚服",
-      "onboard_time": 1681305450,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 234558,
       "num": 227283,
       "word": "精准烟感报警器",
@@ -15579,14 +15667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225709,
-      "num": 225709,
-      "word": "宋茜短发齐刘海",
-      "onboard_time": 1681305450,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225391,
       "num": 225391,
       "word": "汪峰女儿小苹果自弹自唱",
@@ -15744,14 +15824,6 @@
       "word": "SEVENTEEN关于青春的代名词",
       "onboard_time": 1680854249,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 221940,
-      "num": 221940,
-      "word": "罗云熙BJD娃娃",
-      "onboard_time": 1681305450,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -16057,6 +16129,14 @@
       "onboard_time": 1680874950,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218679,
+      "num": 218679,
+      "word": "宋雨琦奔跑吧拍摄花絮",
+      "onboard_time": 1681307373,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 218658,
@@ -16675,6 +16755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211168,
+      "num": 211168,
+      "word": "身体出现小毛病的真实原因",
+      "onboard_time": 1681308092,
+      "rank": 32,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 211067,
       "num": 211067,
       "word": "陈晓十六问高加林",
@@ -17201,6 +17289,14 @@
       "onboard_time": 1681096709,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207090,
+      "num": 207090,
+      "word": "张杰说西安的你们懂我吗",
+      "onboard_time": 1681308575,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 207086,
@@ -18379,6 +18475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201365,
+      "num": 201365,
+      "word": "谭松韵海洋馆随拍",
+      "onboard_time": 1681308153,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201314,
       "num": 201314,
       "word": "能为互关做的只有这么多了",
@@ -19193,6 +19297,14 @@
       "onboard_time": 1681043728,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197474,
+      "num": 197474,
+      "word": "蔡徐坤晒黑白海边花絮照",
+      "onboard_time": 1681307853,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 197436,
@@ -21491,14 +21603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183564,
-      "num": 183564,
-      "word": "丈夫隐瞒性功能障碍被起诉撤销婚姻",
-      "onboard_time": 1681306111,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183502,
       "num": 183502,
       "word": "哈兰德纪录收割机",
@@ -22363,6 +22467,14 @@
       "category": "影视,游戏"
     },
     {
+      "raw_hot": 174056,
+      "num": 174056,
+      "word": "TTG",
+      "onboard_time": 1681307194,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173949,
       "num": 173949,
       "word": "TF家族蝴蝶效应全新公式照",
@@ -23105,6 +23217,14 @@
       "onboard_time": 1680774811,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165763,
+      "num": 165763,
+      "word": "专家称应探索劳动强度与报酬对价模式",
+      "onboard_time": 1681307611,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165734,
@@ -23867,14 +23987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156731,
-      "num": 156731,
-      "word": "90所大学撤销公共事业管理专业",
-      "onboard_time": 1681305930,
-      "rank": 38,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 156674,
       "num": 156674,
       "word": "陈晓说愿意演渣男",
@@ -24049,6 +24161,14 @@
       "onboard_time": 1680449318,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 154882,
+      "num": 154882,
+      "word": "长月烬明 烬门",
+      "onboard_time": 1681308935,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 154764,
