@@ -1,0 +1,410 @@
+{
+  "runTime": 1681299210972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3091589,
+        "num": 3091589,
+        "word": "女演员称怀孕后丈夫多次收涉黄短信",
+        "onboard_time": 1681297287,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1471675,
+        "num": 1471675,
+        "word": "减肥的人晚上都在吃什么",
+        "onboard_time": 1681284806,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46334,
+        "num": 1256013,
+        "word": "看税收走基层",
+        "onboard_time": 1681289065,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048983,
+        "num": 1048983,
+        "word": "六公主谈柯南争议",
+        "onboard_time": 1681293089,
+        "rank": 3,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 287812,
+        "num": 650866,
+        "word": "男子回乡养病意外带全村致富",
+        "onboard_time": 1681294226,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645954,
+        "num": 645954,
+        "word": "蛟蚌分离",
+        "onboard_time": 1681297348,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88707,
+        "num": 577357,
+        "word": "叫耿植的男孩获反诈小能手称号",
+        "onboard_time": 1681294288,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554117,
+        "num": 554117,
+        "word": "半熟恋人 老孙",
+        "onboard_time": 1681297526,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539236,
+        "num": 539236,
+        "word": "中了一千万还去上班吗",
+        "onboard_time": 1681290928,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343677,
+        "num": 501589,
+        "word": "中方对马克龙表态遭美批评不感到惊讶",
+        "onboard_time": 1681291047,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 895118,
+        "num": 501501,
+        "word": "亲亲您这个什么您心里不清楚吗",
+        "onboard_time": 1681287746,
+        "rank": 10,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 501181,
+        "num": 501181,
+        "word": "蔡徐坤收到小学生送的奥特曼卡",
+        "onboard_time": 1681296087,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498891,
+        "num": 498891,
+        "word": "杨幂卷发",
+        "onboard_time": 1681293327,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497541,
+        "num": 497541,
+        "word": "长月烬明天欢下线",
+        "onboard_time": 1681295609,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467176,
+        "num": 467176,
+        "word": "雎晓雯怀孕做瑜伽",
+        "onboard_time": 1681296087,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459779,
+        "num": 459779,
+        "word": "KPOP追星最后悔三件事",
+        "onboard_time": 1681294885,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379830,
+        "num": 379830,
+        "word": "韩国米诺地尔",
+        "onboard_time": 1681292186,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332557,
+        "num": 332557,
+        "word": "李金铭曾参加节目被要求当儿媳",
+        "onboard_time": 1681278085,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325805,
+        "num": 325805,
+        "word": "官方发布预防新冠佩戴口罩指引",
+        "onboard_time": 1681295309,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268008,
+        "num": 268008,
+        "word": "这是在暗示你可以提涨薪了",
+        "onboard_time": 1681291586,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 602858,
+        "num": 260609,
+        "word": "独居未婚中年男子去世10天后被发现",
+        "onboard_time": 1681291285,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363107,
+        "num": 252693,
+        "word": "漳州万达砍人男子已被控制",
+        "onboard_time": 1681291948,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358771,
+        "num": 250203,
+        "word": "减肥对外貌的改变可以有多大",
+        "onboard_time": 1681295547,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288381,
+        "num": 243851,
+        "word": "迪丽热巴开机图",
+        "onboard_time": 1681296087,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285159,
+        "num": 231563,
+        "word": "孔雪儿的肩",
+        "onboard_time": 1681296267,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276248,
+        "num": 221763,
+        "word": "长月烬明",
+        "onboard_time": 1681296328,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220933,
+        "num": 220933,
+        "word": "杨紫琼带小金人扫墓",
+        "onboard_time": 1681298187,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218961,
+        "num": 218961,
+        "word": "长月烬明算爆了吗",
+        "onboard_time": 1681290387,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186460,
+        "num": 186460,
+        "word": "网店售三寸金莲缠足袜299一双",
+        "onboard_time": 1681275150,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184675,
+        "num": 184675,
+        "word": "教资",
+        "onboard_time": 1681284386,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213203,
+        "num": 182825,
+        "word": "终于等到榴莲大降价",
+        "onboard_time": 1681297887,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295263,
+        "num": 180335,
+        "word": "警方通报漳州万达砍人案",
+        "onboard_time": 1681294167,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 207960,
+        "num": 175890,
+        "word": "罗云熙35了",
+        "onboard_time": 1681288889,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206488,
+        "num": 172096,
+        "word": "宋三川梁友安都戴了婚戒",
+        "onboard_time": 1681298066,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205911,
+        "num": 169407,
+        "word": "桑酒有什么错呢她只是想吃全蛇宴",
+        "onboard_time": 1681297647,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199667,
+        "num": 164160,
+        "word": "名侦探柯南",
+        "onboard_time": 1681296988,
+        "rank": 35,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 195538,
+        "num": 162477,
+        "word": "金智秀flower宠物开花舞",
+        "onboard_time": 1681297047,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186605,
+        "num": 157456,
+        "word": "女子醉酒后在酒店遭两次性侵",
+        "onboard_time": 1681298848,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157120,
+        "num": 157120,
+        "word": "男子分手后花一年时间减掉60斤",
+        "onboard_time": 1681289907,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155595,
+        "num": 155595,
+        "word": "小伙年会喜提365天带薪休假",
+        "onboard_time": 1681275689,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165886,
+        "num": 155534,
+        "word": "老默死而复生会发生什么",
+        "onboard_time": 1681295066,
+        "rank": 40,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 153658,
+        "num": 153658,
+        "word": "叶夕雾金色面具造型",
+        "onboard_time": 1681298968,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152423,
+        "num": 152423,
+        "word": "陈卓璇写藏头诗",
+        "onboard_time": 1681297887,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173895,
+        "num": 151665,
+        "word": "入魔后的桑酒",
+        "onboard_time": 1681298548,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122263,
+        "num": 122263,
+        "word": "丁克的我想通了生孩子的意义",
+        "onboard_time": 1681265845,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142908,
+        "num": 121904,
+        "word": "长月烬明更新",
+        "onboard_time": 1681299088,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121158,
+        "num": 121158,
+        "word": "两女子吃自助打包400元食材被拘",
+        "onboard_time": 1681298606,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114422,
+        "num": 114422,
+        "word": "这屋顶怎么上去的",
+        "onboard_time": 1681298426,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81125,
+        "num": 113813,
+        "word": "饮食减肥应该注意什么",
+        "onboard_time": 1681295486,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76529,
+        "num": 113338,
+        "word": "减肥食谱一日三餐",
+        "onboard_time": 1681296087,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#农村特色产业前景广阔#"
+    }
+  }
+}

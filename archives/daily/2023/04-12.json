@@ -1,7 +1,15 @@
 {
   "startTime": 1681230184666,
-  "endTime": 1681298078489,
+  "endTime": 1681299210972,
   "band_list": [
+    {
+      "raw_hot": 3091589,
+      "num": 3091589,
+      "word": "女演员称怀孕后丈夫多次收涉黄短信",
+      "onboard_time": 1681297287,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
     {
       "raw_hot": 2873173,
       "num": 2873173,
@@ -187,14 +195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 930636,
-      "num": 430618,
-      "word": "女演员称怀孕后丈夫多次收涉黄短信",
-      "onboard_time": 1681297287,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 928021,
       "num": 928021,
       "word": "成都草莓音乐节一男子对警察竖中指",
@@ -321,6 +321,14 @@
       "onboard_time": 1681283546,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645954,
+      "num": 645954,
+      "word": "蛟蚌分离",
+      "onboard_time": 1681297348,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 644434,
@@ -451,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 554117,
+      "num": 554117,
+      "word": "半熟恋人 老孙",
+      "onboard_time": 1681297526,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 553240,
       "num": 553240,
       "word": "毕业第一份工作月薪需要多少",
@@ -499,6 +515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 501181,
+      "num": 501181,
+      "word": "蔡徐坤收到小学生送的奥特曼卡",
+      "onboard_time": 1681296087,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500801,
       "num": 500801,
       "word": "台媒报道吴磊周雨彤吻戏",
@@ -507,8 +531,16 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 497541,
+      "num": 497541,
+      "word": "长月烬明天欢下线",
+      "onboard_time": 1681295609,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 496107,
-      "num": 427815,
+      "num": 459779,
       "word": "KPOP追星最后悔三件事",
       "onboard_time": 1681294885,
       "rank": 19,
@@ -545,6 +577,14 @@
       "onboard_time": 1681223308,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 467176,
+      "num": 467176,
+      "word": "雎晓雯怀孕做瑜伽",
+      "onboard_time": 1681296087,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 456316,
@@ -635,14 +675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 416488,
-      "num": 416488,
-      "word": "雎晓雯怀孕做瑜伽",
-      "onboard_time": 1681296087,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 415303,
       "num": 415303,
       "word": "张凌赫高得好突出",
@@ -675,14 +707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 404549,
-      "num": 404549,
-      "word": "长月烬明天欢下线",
-      "onboard_time": 1681295609,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 403544,
       "num": 393096,
       "word": "冥夜真身地包天",
@@ -705,14 +729,6 @@
       "onboard_time": 1681266444,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 396711,
-      "num": 396711,
-      "word": "蔡徐坤收到小学生送的奥特曼卡",
-      "onboard_time": 1681296087,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 392185,
@@ -803,20 +819,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358771,
+      "num": 323202,
+      "word": "减肥对外貌的改变可以有多大",
+      "onboard_time": 1681295547,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358059,
       "num": 358059,
       "word": "罗云熙白鹿长月烬明新浪扫楼",
       "onboard_time": 1681279885,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 355452,
-      "num": 330114,
-      "word": "半熟恋人 老孙",
-      "onboard_time": 1681297526,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 354083,
@@ -907,20 +923,20 @@
       "category": "作品衍生,动漫"
     },
     {
+      "raw_hot": 325805,
+      "num": 325805,
+      "word": "官方发布预防新冠佩戴口罩指引",
+      "onboard_time": 1681295309,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325599,
       "num": 239800,
       "word": "内娱最强男腰精",
       "onboard_time": 1681226491,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 323202,
-      "num": 323202,
-      "word": "减肥对外貌的改变可以有多大",
-      "onboard_time": 1681295547,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 323170,
@@ -1027,14 +1043,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 292924,
-      "num": 292924,
-      "word": "官方发布预防新冠佩戴口罩指引",
-      "onboard_time": 1681295309,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288214,
       "num": 288214,
       "word": "MetGala拟邀嘉宾名单",
@@ -1051,7 +1059,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284000,
+      "raw_hot": 285159,
       "num": 284000,
       "word": "孔雪儿的肩",
       "onboard_time": 1681296267,
@@ -1347,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220933,
+      "num": 220933,
+      "word": "杨紫琼带小金人扫墓",
+      "onboard_time": 1681298187,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217521,
       "num": 217521,
       "word": "校方要求学生外出实习是否必要",
@@ -1387,12 +1403,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 212958,
-      "num": 174007,
-      "word": "蛟蚌分离",
-      "onboard_time": 1681297348,
-      "rank": 38,
-      "category": "影视"
+      "raw_hot": 213203,
+      "num": 182825,
+      "word": "终于等到榴莲大降价",
+      "onboard_time": 1681297887,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 210037,
@@ -1427,12 +1443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206488,
+      "num": 172096,
+      "word": "宋三川梁友安都戴了婚戒",
+      "onboard_time": 1681298066,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206116,
       "num": 206116,
       "word": "淄博青年驿站",
       "onboard_time": 1681254860,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205911,
+      "num": 169407,
+      "word": "桑酒有什么错呢她只是想吃全蛇宴",
+      "onboard_time": 1681297647,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 204542,
@@ -1531,6 +1563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199667,
+      "num": 193496,
+      "word": "名侦探柯南",
+      "onboard_time": 1681296988,
+      "rank": 32,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 199262,
       "num": 199262,
       "word": "唐朝诡事录之西行官宣",
@@ -1595,12 +1635,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195848,
-      "num": 193496,
-      "word": "名侦探柯南",
-      "onboard_time": 1681296988,
-      "rank": 32,
-      "category": "影视,动漫"
+      "raw_hot": 195538,
+      "num": 172531,
+      "word": "金智秀flower宠物开花舞",
+      "onboard_time": 1681297047,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195196,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1681297047,
       "rank": 35,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 186605,
+      "num": 157456,
+      "word": "女子醉酒后在酒店遭两次性侵",
+      "onboard_time": 1681298848,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186066,
@@ -1827,20 +1875,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173895,
+      "num": 151665,
+      "word": "入魔后的桑酒",
+      "onboard_time": 1681298548,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173069,
       "num": 173069,
       "word": "四川鸳鸯除了锅还有面",
       "onboard_time": 1681290869,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 172531,
-      "num": 172531,
-      "word": "金智秀flower宠物开花舞",
-      "onboard_time": 1681297047,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171859,
@@ -1936,14 +1984,6 @@
       "word": "杨幂新剧演女间谍",
       "onboard_time": 1681284446,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 166553,
-      "num": 166553,
-      "word": "桑酒有什么错呢她只是想吃全蛇宴",
-      "onboard_time": 1681297647,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -2067,12 +2107,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153658,
+      "num": 153658,
+      "word": "叶夕雾金色面具造型",
+      "onboard_time": 1681298968,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152698,
       "num": 152698,
       "word": "上班摸鱼会影响工作吗",
       "onboard_time": 1681227749,
       "rank": 15,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 152423,
+      "num": 152423,
+      "word": "陈卓璇写藏头诗",
+      "onboard_time": 1681297887,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 152315,
@@ -2147,20 +2203,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142908,
+      "num": 121904,
+      "word": "长月烬明更新",
+      "onboard_time": 1681299088,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140404,
       "num": 140404,
       "word": "冥夜卷而不平是常态",
       "onboard_time": 1681284086,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139467,
-      "num": 139467,
-      "word": "陈卓璇写藏头诗",
-      "onboard_time": 1681297887,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 137225,
@@ -2243,14 +2299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129598,
-      "num": 129598,
-      "word": "宋三川梁友安都戴了婚戒",
-      "onboard_time": 1681298066,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 127381,
       "num": 127381,
       "word": "瘫痪女童复健3年能骑自行车了",
@@ -2289,6 +2337,22 @@
       "onboard_time": 1681209748,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121158,
+      "num": 121158,
+      "word": "两女子吃自助打包400元食材被拘",
+      "onboard_time": 1681298606,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114422,
+      "num": 114422,
+      "word": "这屋顶怎么上去的",
+      "onboard_time": 1681298426,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 110556,
@@ -2363,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88707,
+      "num": 909207,
+      "word": "叫耿植的男孩获反诈小能手称号",
+      "onboard_time": 1681294288,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88632,
       "num": 1389967,
       "word": "从中国空间站看祖国大地勃勃生机",
@@ -2371,28 +2443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88594,
-      "num": 129444,
-      "word": "终于等到榴莲大降价",
-      "onboard_time": 1681297887,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 88295,
       "num": 126941,
       "word": "在火之前的淄博吃烧烤是一种什么体验",
       "onboard_time": 1681283605,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 86363,
-      "num": 909207,
-      "word": "叫耿植的男孩获反诈小能手称号",
-      "onboard_time": 1681294288,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84391,

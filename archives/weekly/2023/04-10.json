@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681298078489,
+  "endTime": 1681299210972,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -17,6 +17,14 @@
       "onboard_time": 1681101517,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3091589,
+      "num": 3091589,
+      "word": "女演员称怀孕后丈夫多次收涉黄短信",
+      "onboard_time": 1681297287,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2970044,
@@ -683,14 +691,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 930636,
-      "num": 430618,
-      "word": "女演员称怀孕后丈夫多次收涉黄短信",
-      "onboard_time": 1681297287,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 928021,
       "num": 928021,
       "word": "成都草莓音乐节一男子对警察竖中指",
@@ -1243,6 +1243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 645954,
+      "num": 645954,
+      "word": "蛟蚌分离",
+      "onboard_time": 1681297348,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 645157,
       "num": 315572,
       "word": "赵露思给手表打码",
@@ -1675,6 +1683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 554117,
+      "num": 554117,
+      "word": "半熟恋人 老孙",
+      "onboard_time": 1681297526,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 553240,
       "num": 553240,
       "word": "毕业第一份工作月薪需要多少",
@@ -1891,6 +1907,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 501181,
+      "num": 501181,
+      "word": "蔡徐坤收到小学生送的奥特曼卡",
+      "onboard_time": 1681296087,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 500801,
       "num": 500801,
       "word": "台媒报道吴磊周雨彤吻戏",
@@ -1907,8 +1931,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 497541,
+      "num": 497541,
+      "word": "长月烬明天欢下线",
+      "onboard_time": 1681295609,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 496107,
-      "num": 427815,
+      "num": 459779,
       "word": "KPOP追星最后悔三件事",
       "onboard_time": 1681294885,
       "rank": 19,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1681051112,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 467176,
+      "num": 467176,
+      "word": "雎晓雯怀孕做瑜伽",
+      "onboard_time": 1681296087,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 463757,
@@ -2307,14 +2347,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 416488,
-      "num": 416488,
-      "word": "雎晓雯怀孕做瑜伽",
-      "onboard_time": 1681296087,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 416170,
       "num": 416170,
       "word": "热门歌手演唱会人头数",
@@ -2443,14 +2475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404549,
-      "num": 404549,
-      "word": "长月烬明天欢下线",
-      "onboard_time": 1681295609,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 403544,
       "num": 393096,
       "word": "冥夜真身地包天",
@@ -2553,14 +2577,6 @@
       "onboard_time": 1681102413,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 396711,
-      "num": 396711,
-      "word": "蔡徐坤收到小学生送的奥特曼卡",
-      "onboard_time": 1681296087,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 396550,
@@ -2771,6 +2787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 358771,
+      "num": 323202,
+      "word": "减肥对外貌的改变可以有多大",
+      "onboard_time": 1681295547,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 358059,
       "num": 358059,
       "word": "罗云熙白鹿长月烬明新浪扫楼",
@@ -2808,14 +2832,6 @@
       "word": "张杰女儿的奖励",
       "onboard_time": 1681044809,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 355452,
-      "num": 330114,
-      "word": "半熟恋人 老孙",
-      "onboard_time": 1681297526,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -3075,6 +3091,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 325805,
+      "num": 325805,
+      "word": "官方发布预防新冠佩戴口罩指引",
+      "onboard_time": 1681295309,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325756,
       "num": 312339,
       "word": "梁友安坦白自己不能生孩子",
@@ -3089,14 +3113,6 @@
       "onboard_time": 1681226491,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 323202,
-      "num": 323202,
-      "word": "减肥对外貌的改变可以有多大",
-      "onboard_time": 1681295547,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 322912,
@@ -3427,14 +3443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 292924,
-      "num": 292924,
-      "word": "官方发布预防新冠佩戴口罩指引",
-      "onboard_time": 1681295309,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290302,
       "num": 397168,
       "word": "张楚桐",
@@ -3523,20 +3531,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285159,
+      "num": 284000,
+      "word": "孔雪儿的肩",
+      "onboard_time": 1681296267,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284094,
       "num": 284094,
       "word": "澹台烬放财神爷一马",
       "onboard_time": 1681120888,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 284000,
-      "num": 284000,
-      "word": "孔雪儿的肩",
-      "onboard_time": 1681296267,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 283484,
@@ -4323,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220933,
+      "num": 220933,
+      "word": "杨紫琼带小金人扫墓",
+      "onboard_time": 1681298187,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220801,
       "num": 220801,
       "word": "晋江崩了",
@@ -4563,20 +4579,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213203,
+      "num": 182825,
+      "word": "终于等到榴莲大降价",
+      "onboard_time": 1681297887,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 213178,
       "num": 213178,
       "word": "马伊琍新剧长发齐刘海造型",
       "onboard_time": 1681100369,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 212958,
-      "num": 174007,
-      "word": "蛟蚌分离",
-      "onboard_time": 1681297348,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 212191,
@@ -4747,6 +4763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206488,
+      "num": 172096,
+      "word": "宋三川梁友安都戴了婚戒",
+      "onboard_time": 1681298066,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206116,
       "num": 206116,
       "word": "淄博青年驿站",
@@ -4761,6 +4785,14 @@
       "onboard_time": 1681110026,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205911,
+      "num": 169407,
+      "word": "桑酒有什么错呢她只是想吃全蛇宴",
+      "onboard_time": 1681297647,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 205270,
@@ -5059,6 +5091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199667,
+      "num": 193496,
+      "word": "名侦探柯南",
+      "onboard_time": 1681296988,
+      "rank": 32,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 199269,
       "num": 199269,
       "word": "爱很美味",
@@ -5323,12 +5363,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195848,
-      "num": 193496,
-      "word": "名侦探柯南",
-      "onboard_time": 1681296988,
-      "rank": 32,
-      "category": "影视,动漫"
+      "raw_hot": 195538,
+      "num": 172531,
+      "word": "金智秀flower宠物开花舞",
+      "onboard_time": 1681297047,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195243,
@@ -5699,6 +5739,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 186605,
+      "num": 157456,
+      "word": "女子醉酒后在酒店遭两次性侵",
+      "onboard_time": 1681298848,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186462,
       "num": 186462,
       "word": "黄明昊加盟极限挑战9",
@@ -6059,6 +6107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 173895,
+      "num": 151665,
+      "word": "入魔后的桑酒",
+      "onboard_time": 1681298548,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173069,
       "num": 173069,
       "word": "四川鸳鸯除了锅还有面",
@@ -6081,14 +6137,6 @@
       "onboard_time": 1681209927,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172531,
-      "num": 172531,
-      "word": "金智秀flower宠物开花舞",
-      "onboard_time": 1681297047,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171859,
@@ -6249,14 +6297,6 @@
       "onboard_time": 1681195704,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166553,
-      "num": 166553,
-      "word": "桑酒有什么错呢她只是想吃全蛇宴",
-      "onboard_time": 1681297647,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 165546,
@@ -6531,6 +6571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153658,
+      "num": 153658,
+      "word": "叶夕雾金色面具造型",
+      "onboard_time": 1681298968,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153459,
       "num": 153459,
       "word": "李宇春说新专辑像是私人日记",
@@ -6545,6 +6593,14 @@
       "onboard_time": 1681227749,
       "rank": 15,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 152423,
+      "num": 152423,
+      "word": "陈卓璇写藏头诗",
+      "onboard_time": 1681297887,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 152315,
@@ -6819,6 +6875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142908,
+      "num": 121904,
+      "word": "长月烬明更新",
+      "onboard_time": 1681299088,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142871,
       "num": 142871,
       "word": "冥夜桑酒好哭",
@@ -6913,14 +6977,6 @@
       "onboard_time": 1681097369,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139467,
-      "num": 139467,
-      "word": "陈卓璇写藏头诗",
-      "onboard_time": 1681297887,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 139080,
@@ -7067,14 +7123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129598,
-      "num": 129598,
-      "word": "宋三川梁友安都戴了婚戒",
-      "onboard_time": 1681298066,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129494,
       "num": 143730,
       "word": "王楚钦3比0黄镇廷",
@@ -7195,6 +7243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121158,
+      "num": 121158,
+      "word": "两女子吃自助打包400元食材被拘",
+      "onboard_time": 1681298606,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120665,
       "num": 131582,
       "word": "漫画创作没有容易二字",
@@ -7281,6 +7337,14 @@
       "onboard_time": 1681201766,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114422,
+      "num": 114422,
+      "word": "这屋顶怎么上去的",
+      "onboard_time": 1681298426,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 113952,
@@ -7563,6 +7627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88707,
+      "num": 909207,
+      "word": "叫耿植的男孩获反诈小能手称号",
+      "onboard_time": 1681294288,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88632,
       "num": 1389967,
       "word": "从中国空间站看祖国大地勃勃生机",
@@ -7571,28 +7643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88594,
-      "num": 129444,
-      "word": "终于等到榴莲大降价",
-      "onboard_time": 1681297887,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 88295,
       "num": 126941,
       "word": "在火之前的淄博吃烧烤是一种什么体验",
       "onboard_time": 1681283605,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 86363,
-      "num": 909207,
-      "word": "叫耿植的男孩获反诈小能手称号",
-      "onboard_time": 1681294288,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80509,
