@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681367706986,
+  "endTime": 1681370158384,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -83,6 +83,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 1310341,
+      "num": 1310341,
+      "word": "优酷回应非会员遇3000多秒广告",
+      "onboard_time": 1681363590,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1185378,
       "num": 1185378,
       "word": "女子忘关窗回家扫土1小时",
@@ -105,14 +113,6 @@
       "onboard_time": 1681308032,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1001538,
-      "num": 1001538,
-      "word": "优酷回应非会员遇3000多秒广告",
-      "onboard_time": 1681363590,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 999826,
@@ -163,6 +163,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 849881,
+      "num": 496091,
+      "word": "网友偶遇陈赫张子萱看画展",
+      "onboard_time": 1681363469,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 832139,
       "num": 472259,
       "word": "陈都灵早期等公交旧照",
@@ -185,6 +193,14 @@
       "onboard_time": 1681355309,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 784993,
+      "num": 378050,
+      "word": "成龙口误说很高兴和烂演员合作",
+      "onboard_time": 1681368928,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 763269,
@@ -235,14 +251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 714859,
-      "num": 496091,
-      "word": "网友偶遇陈赫张子萱看画展",
-      "onboard_time": 1681363469,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 710676,
       "num": 710676,
       "word": "北京人均存款已接近27万",
@@ -275,12 +283,28 @@
       "category": "社会负面,教育"
     },
     {
+      "raw_hot": 668667,
+      "num": 668667,
+      "word": "在广东存款10多万算多吗",
+      "onboard_time": 1681366467,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662352,
       "num": 548771,
       "word": "泫雅黑色短发",
       "onboard_time": 1681356390,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 658497,
+      "num": 658497,
+      "word": "清华北大在校生五一可到淄博免费游",
+      "onboard_time": 1681364728,
+      "rank": 13,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 657989,
@@ -297,14 +321,6 @@
       "onboard_time": 1681354050,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 635574,
-      "num": 635574,
-      "word": "清华北大在校生五一可到淄博免费游",
-      "onboard_time": 1681364728,
-      "rank": 13,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 629263,
@@ -331,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 577236,
+      "num": 358044,
+      "word": "女子买房送超大阳台封窗却要20多万",
+      "onboard_time": 1681368808,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559844,
       "num": 559844,
       "word": "美生物实验室感染病毒的小白鼠逃了",
@@ -353,6 +377,14 @@
       "onboard_time": 1681360113,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 510867,
+      "num": 345314,
+      "word": "浙江广电称徐峥未被定性为劣迹艺人",
+      "onboard_time": 1681369527,
+      "rank": 15,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 504531,
@@ -603,6 +635,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 341866,
+      "num": 341866,
+      "word": "李钟硕李宝英合影",
+      "onboard_time": 1681367008,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339925,
       "num": 339925,
       "word": "美香添添小崽要一起回家",
@@ -771,6 +811,22 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 277395,
+      "num": 277395,
+      "word": "INTO1全员将录制奔跑吧",
+      "onboard_time": 1681369708,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 272761,
+      "num": 272761,
+      "word": "罗云熙即将进组",
+      "onboard_time": 1681369226,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 271722,
       "num": 271722,
       "word": "淄博烧烤赢麻了",
@@ -907,6 +963,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 234889,
+      "num": 234889,
+      "word": "男子地铁站故意裸露下体被行拘",
+      "onboard_time": 1681364608,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234557,
       "num": 234557,
       "word": "天欢下凡没有嘎",
@@ -939,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228215,
+      "num": 228215,
+      "word": "张元英绿色眼妆",
+      "onboard_time": 1681368447,
+      "rank": 25,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 227664,
       "num": 227664,
       "word": "NBA附加赛",
@@ -953,14 +1025,6 @@
       "onboard_time": 1681349130,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216263,
-      "num": 216263,
-      "word": "男子地铁站故意裸露下体被行拘",
-      "onboard_time": 1681364608,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210334,
@@ -979,12 +1043,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 208350,
-      "num": 208350,
-      "word": "在广东存款10多万算多吗",
-      "onboard_time": 1681366467,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 208363,
+      "num": 208363,
+      "word": "斯文江南第二季嘉宾阵容",
+      "onboard_time": 1681369347,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 208211,
@@ -1003,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202523,
+      "num": 202523,
+      "word": "爱很美味",
+      "onboard_time": 1681369347,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202509,
       "num": 202509,
       "word": "关晓彤陈采尼合拍视频",
@@ -1017,14 +1089,6 @@
       "onboard_time": 1681347691,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 201065,
-      "num": 175124,
-      "word": "李钟硕李宝英合影",
-      "onboard_time": 1681367008,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 200888,
@@ -1107,6 +1171,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194004,
+      "num": 170585,
+      "word": "武艺为了新歌宣传有多拼",
+      "onboard_time": 1681369108,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 192988,
+      "num": 169877,
+      "word": "范丞丞跑男家族第一个00后",
+      "onboard_time": 1681369767,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192905,
       "num": 192905,
       "word": "杭州四季青部分市场禁止商家直播销售",
@@ -1131,6 +1211,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 191334,
+      "num": 168954,
+      "word": "卢拉",
+      "onboard_time": 1681367787,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 190596,
       "num": 190596,
       "word": "毛不易唱爱很美味片尾曲",
@@ -1152,6 +1240,14 @@
       "word": "特斯拉降价",
       "onboard_time": 1681304248,
       "rank": 26,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 189445,
+      "num": 167273,
+      "word": "荣耀笔记本",
+      "onboard_time": 1681369347,
+      "rank": 33,
       "category": "科技"
     },
     {
@@ -1217,6 +1313,14 @@
       "onboard_time": 1681362811,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170868,
+      "num": 170868,
+      "word": "淄博烧烤炉卖断货",
+      "onboard_time": 1681368868,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169601,
@@ -1339,12 +1443,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151880,
+      "num": 151880,
+      "word": "李晨发文寻找狗主人",
+      "onboard_time": 1681369650,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149127,
       "num": 149127,
       "word": "半熟恋人 老孙",
       "onboard_time": 1681297526,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148882,
+      "num": 140395,
+      "word": "网友偶遇韩栋叫不出他的名字",
+      "onboard_time": 1681368508,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 148610,
@@ -1361,6 +1481,14 @@
       "onboard_time": 1681354469,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144327,
+      "num": 144327,
+      "word": "可能一辈子都用不上的东西",
+      "onboard_time": 1681368387,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 144261,
@@ -1395,20 +1523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140395,
+      "num": 140395,
+      "word": "容易疲劳的人有福了",
+      "onboard_time": 1681366225,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137683,
       "num": 137683,
       "word": "为什么说销售是最磨炼人的岗位",
       "onboard_time": 1681356568,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137216,
-      "num": 137216,
-      "word": "容易疲劳的人有福了",
-      "onboard_time": 1681366225,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 136914,
@@ -1595,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83314,
+      "num": 111086,
+      "word": "2023PEL春决开赛时间",
+      "onboard_time": 1681368986,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 81955,
       "num": 81955,
       "word": "桑酒打碎冰晶盏的原因",
@@ -1727,6 +1863,9 @@
     },
     {
       "word": "#新时代成就巡礼#"
+    },
+    {
+      "word": "#总书记再次点赞土特产#"
     }
   ]
 }
