@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681414405338,
+  "endTime": 1681417081348,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -11163,6 +11163,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 67807,
+      "num": 25569,
+      "word": "B站就上传用户真人照片致歉",
+      "onboard_time": 1681413434,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 67564,
       "num": 1284664,
       "word": "中国有约",
@@ -11331,14 +11339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35349,
-      "num": 25569,
-      "word": "B站就上传用户真人照片致歉",
-      "onboard_time": 1681413434,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 34812,
       "num": 120105,
       "word": "家用SUV选车什么是关键",
@@ -11465,6 +11465,14 @@
       "onboard_time": 1681150813,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 12080,
+      "num": 13743,
+      "word": "影视剧里一眼万年的蓝裙子",
+      "onboard_time": 1681416613,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 5478,

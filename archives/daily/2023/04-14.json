@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681414405338,
+  "endTime": 1681417081348,
   "band_list": [
     {
       "raw_hot": 1468739,
@@ -387,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67807,
+      "num": 25569,
+      "word": "B站就上传用户真人照片致歉",
+      "onboard_time": 1681413434,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 65471,
       "num": 33897,
       "word": "苏醒曾因为舞台事故甩脸",
@@ -409,14 +417,6 @@
       "onboard_time": 1681382551,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 35349,
-      "num": 25569,
-      "word": "B站就上传用户真人照片致歉",
-      "onboard_time": 1681413434,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 34348,
@@ -465,6 +465,14 @@
       "onboard_time": 1681391671,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12080,
+      "num": 13743,
+      "word": "影视剧里一眼万年的蓝裙子",
+      "onboard_time": 1681416613,
+      "rank": 46,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

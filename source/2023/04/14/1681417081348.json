@@ -1,0 +1,410 @@
+{
+  "runTime": 1681417081348,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 76055,
+        "num": 76055,
+        "word": "体重48公斤被学校谈话",
+        "onboard_time": 1681398392,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53884,
+        "num": 53884,
+        "word": "肌肤饥渴症",
+        "onboard_time": 1681394555,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 6554,
+        "num": 47913,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1681391671,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43289,
+        "num": 43289,
+        "word": "徐峥应该上综艺节目吗",
+        "onboard_time": 1681386148,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 29459,
+        "num": 29459,
+        "word": "SEVENTEEN新歌FML概念视频",
+        "onboard_time": 1681398992,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28835,
+        "num": 28835,
+        "word": "陈妍希问陈晓凶手到底是谁",
+        "onboard_time": 1681391131,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28811,
+        "num": 28811,
+        "word": "王国之泪最终预告",
+        "onboard_time": 1681396053,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26595,
+        "num": 26595,
+        "word": "罗云熙白鹿发文告别冥夜桑酒",
+        "onboard_time": 1681389510,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24721,
+        "num": 24721,
+        "word": "我国制裁一名美国反华议员",
+        "onboard_time": 1681391671,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 23039,
+        "num": 23039,
+        "word": "路西法黑脸",
+        "onboard_time": 1681400549,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67807,
+        "num": 22686,
+        "word": "B站就上传用户真人照片致歉",
+        "onboard_time": 1681413434,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 59480,
+        "num": 22233,
+        "word": "你能接受另一半捐精吗",
+        "onboard_time": 1681397731,
+        "rank": 11,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 49057,
+        "num": 22042,
+        "word": "为啥一块钱打火机20年不涨价",
+        "onboard_time": 1681400908,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 28423,
+        "num": 21408,
+        "word": "李湘回应王诗龄汉服造型",
+        "onboard_time": 1681386927,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21213,
+        "num": 21213,
+        "word": "引发烟台山火嫌疑人已被刑拘",
+        "onboard_time": 1681398333,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 19459,
+        "num": 19459,
+        "word": "烟台山火",
+        "onboard_time": 1681392811,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18927,
+        "num": 18927,
+        "word": "泫雅ins为金晓钟宣传新歌",
+        "onboard_time": 1681393114,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17832,
+        "num": 17832,
+        "word": "叶冰裳黑化了",
+        "onboard_time": 1681384949,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 16195,
+        "num": 16195,
+        "word": "李天泽中音音乐学系专业第一",
+        "onboard_time": 1681392092,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15833,
+        "num": 15833,
+        "word": "易烊千玺石上鸟胸针",
+        "onboard_time": 1681387769,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 64477,
+        "num": 15795,
+        "word": "北大全嘻嘻 清华张小年",
+        "onboard_time": 1681378889,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39655,
+        "num": 15776,
+        "word": "16岁女孩经常胃胀被查出胃癌晚期",
+        "onboard_time": 1681400130,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30263,
+        "num": 15741,
+        "word": "大三学生给同学洗鞋2个月赚8万",
+        "onboard_time": 1681387168,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26101,
+        "num": 15691,
+        "word": "何悯鸿怀孕",
+        "onboard_time": 1681389090,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15676,
+        "num": 15676,
+        "word": "张杰身骑白马戏腔",
+        "onboard_time": 1681388669,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25038,
+        "num": 15669,
+        "word": "儿时的友情注定渐行渐远吗",
+        "onboard_time": 1681398692,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24153,
+        "num": 15622,
+        "word": "二十五六岁谈段恋爱有多难",
+        "onboard_time": 1681395993,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22567,
+        "num": 15527,
+        "word": "西瓜被兔子咬了一千多口",
+        "onboard_time": 1681391250,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22183,
+        "num": 15471,
+        "word": "性单恋人群怎么谈恋爱",
+        "onboard_time": 1681385067,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12831,
+        "num": 15430,
+        "word": "2023教资笔试查分",
+        "onboard_time": 1681382551,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 62685,
+        "num": 15407,
+        "word": "我国未婚女性不能申请精子库",
+        "onboard_time": 1681386026,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29874,
+        "num": 15351,
+        "word": "Angelababy戴的项链预估价格九位数",
+        "onboard_time": 1681397432,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 28465,
+        "num": 15298,
+        "word": "苏醒曾因为舞台事故甩脸",
+        "onboard_time": 1681408878,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17702,
+        "num": 15256,
+        "word": "江疏影李浩菲直播用假手握手",
+        "onboard_time": 1681409715,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22918,
+        "num": 15198,
+        "word": "外卖配送费多少钱你能接受",
+        "onboard_time": 1681397671,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 15162,
+        "num": 15162,
+        "word": "马琳离场",
+        "onboard_time": 1681389693,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14901,
+        "num": 14901,
+        "word": "湖北博物馆鸡蛋都是编钟的",
+        "onboard_time": 1681400250,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14824,
+        "num": 14824,
+        "word": "田曦薇吊带珍珠纱裙",
+        "onboard_time": 1681392994,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14570,
+        "num": 14570,
+        "word": "周冬雨刘昊然主演电影入围戛纳",
+        "onboard_time": 1681383210,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14193,
+        "num": 14193,
+        "word": "井汲大翔淘汰",
+        "onboard_time": 1681395334,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14020,
+        "num": 14020,
+        "word": "那些尝试但失败了的副业",
+        "onboard_time": 1681404981,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 13939,
+        "num": 13939,
+        "word": "澹台烬是个学人烬",
+        "onboard_time": 1681389329,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13773,
+        "num": 13773,
+        "word": "突然觉得长大了真的很好",
+        "onboard_time": 1681399709,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12882,
+        "num": 13773,
+        "word": "赵露思黑色吊带长裙",
+        "onboard_time": 1681387108,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12518,
+        "num": 13763,
+        "word": "用音悦台的这群人竟然还在坚持追星啊",
+        "onboard_time": 1681396655,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12344,
+        "num": 13748,
+        "word": "中国中车",
+        "onboard_time": 1681401209,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12080,
+        "num": 13743,
+        "word": "影视剧里一眼万年的蓝裙子",
+        "onboard_time": 1681416613,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12054,
+        "num": 13731,
+        "word": "教资69",
+        "onboard_time": 1681386026,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11849,
+        "num": 13717,
+        "word": "华晨宇再为那英队拿下金曲",
+        "onboard_time": 1681390652,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11836,
+        "num": 13717,
+        "word": "KSG廉颇打野",
+        "onboard_time": 1681396593,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广州市考察调研#"
+    }
+  }
+}
