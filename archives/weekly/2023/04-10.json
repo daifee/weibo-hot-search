@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681362967867,
+  "endTime": 1681364004730,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -2203,6 +2203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 527594,
+      "num": 527594,
+      "word": "拔完牙后千万不要清理牙缝",
+      "onboard_time": 1681360113,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 526856,
       "num": 526856,
       "word": "女子下班回复工作消息获赔加班费",
@@ -2489,6 +2497,14 @@
       "onboard_time": 1681344510,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 469376,
+      "num": 469376,
+      "word": "黑马情侣自曝收入与男生家境状况",
+      "onboard_time": 1681363469,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468478,
@@ -3339,14 +3355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 371099,
-      "num": 371099,
-      "word": "拔完牙后千万不要清理牙缝",
-      "onboard_time": 1681360113,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 368497,
       "num": 287927,
       "word": "中国网友韩国偶遇崔显旭",
@@ -3545,6 +3553,14 @@
       "onboard_time": 1681274849,
       "rank": 20,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 352223,
+      "num": 352223,
+      "word": "你是尿眠体吗",
+      "onboard_time": 1681363169,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 351876,
@@ -3753,6 +3769,14 @@
       "onboard_time": 1681110447,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330136,
+      "num": 330136,
+      "word": "给一个6年全职主妇发了offer",
+      "onboard_time": 1681361493,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 329927,
@@ -4003,6 +4027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310377,
+      "num": 310377,
+      "word": "谭飞删博",
+      "onboard_time": 1681362631,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309805,
       "num": 309805,
       "word": "放个屁风筝",
@@ -4227,20 +4259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293245,
+      "num": 293245,
+      "word": "陶晶莹被问有没有到",
+      "onboard_time": 1681362392,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293235,
       "num": 293235,
       "word": "孙颖莎晋级冠军赛16强",
       "onboard_time": 1681134269,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 290877,
-      "num": 290877,
-      "word": "给一个6年全职主妇发了offer",
-      "onboard_time": 1681361493,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 290768,
@@ -4619,14 +4651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261822,
-      "num": 247883,
-      "word": "陶晶莹被问有没有到",
-      "onboard_time": 1681362392,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 261611,
       "num": 261611,
       "word": "上班只是为了钱吗",
@@ -4665,6 +4689,14 @@
       "onboard_time": 1681354469,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257668,
+      "num": 257668,
+      "word": "网友偶遇陈赫张子萱看画展",
+      "onboard_time": 1681363469,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 257464,
@@ -4819,6 +4851,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 247538,
+      "num": 247538,
+      "word": "英格拉姆",
+      "onboard_time": 1681361912,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246824,
       "num": 243220,
       "word": "ive新歌和你xx的适配度",
@@ -4905,6 +4945,14 @@
       "onboard_time": 1681118787,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241881,
+      "num": 241881,
+      "word": "吴磊孙怡倪虹洁对手戏",
+      "onboard_time": 1681361552,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 241421,
@@ -5129,14 +5177,6 @@
       "onboard_time": 1681136069,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233069,
-      "num": 233069,
-      "word": "英格拉姆",
-      "onboard_time": 1681361912,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 232596,
@@ -5760,6 +5800,14 @@
       "word": "冥夜桑酒竹林剧照",
       "onboard_time": 1681282885,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208211,
+      "num": 208211,
+      "word": "白宇不在乔家还是操着全家的心",
+      "onboard_time": 1681363349,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -6987,6 +7035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187121,
+      "num": 187121,
+      "word": "优酷回应非会员遇3000多秒广告",
+      "onboard_time": 1681363590,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 186868,
       "num": 186868,
       "word": "Lisa日巡新发色",
@@ -7443,14 +7499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171895,
-      "num": 171895,
-      "word": "谭飞删博",
-      "onboard_time": 1681362631,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171859,
       "num": 171859,
       "word": "李宇春新歌鸵鸟逃跑了预告",
@@ -7529,6 +7577,14 @@
       "onboard_time": 1681197505,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170910,
+      "num": 170910,
+      "word": "哈利波特",
+      "onboard_time": 1681362811,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 170876,
@@ -7817,14 +7873,6 @@
       "onboard_time": 1681226548,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161618,
-      "num": 161618,
-      "word": "哈利波特",
-      "onboard_time": 1681362811,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 161467,
@@ -8689,6 +8737,14 @@
       "onboard_time": 1681128265,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129406,
+      "num": 129406,
+      "word": "咖啡可以冷门但不可以邪门",
+      "onboard_time": 1681363829,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 129269,

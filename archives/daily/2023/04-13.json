@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681362967867,
+  "endTime": 1681364004730,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -283,6 +283,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 527594,
+      "num": 527594,
+      "word": "拔完牙后千万不要清理牙缝",
+      "onboard_time": 1681360113,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 504531,
       "num": 504531,
       "word": "王者荣耀",
@@ -329,6 +337,14 @@
       "onboard_time": 1681344510,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 469376,
+      "num": 469376,
+      "word": "黑马情侣自曝收入与男生家境状况",
+      "onboard_time": 1681363469,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465582,
@@ -467,20 +483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 371099,
-      "num": 371099,
-      "word": "拔完牙后千万不要清理牙缝",
-      "onboard_time": 1681360113,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 358294,
       "num": 358294,
       "word": "军队文职",
       "onboard_time": 1681350327,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 352223,
+      "num": 352223,
+      "word": "你是尿眠体吗",
+      "onboard_time": 1681363169,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 351876,
@@ -547,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330136,
+      "num": 330136,
+      "word": "给一个6年全职主妇发了offer",
+      "onboard_time": 1681361493,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 325639,
       "num": 325639,
       "word": "花神视频遭多位花神扮演者吐槽",
@@ -560,6 +584,14 @@
       "word": "杜淳王灿为女儿庆生",
       "onboard_time": 1681362032,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310377,
+      "num": 310377,
+      "word": "谭飞删博",
+      "onboard_time": 1681362631,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -611,12 +643,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 290877,
-      "num": 290877,
-      "word": "给一个6年全职主妇发了offer",
-      "onboard_time": 1681361493,
-      "rank": 25,
-      "category": "情感"
+      "raw_hot": 293245,
+      "num": 293245,
+      "word": "陶晶莹被问有没有到",
+      "onboard_time": 1681362392,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 290768,
@@ -691,20 +723,20 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 261822,
-      "num": 247883,
-      "word": "陶晶莹被问有没有到",
-      "onboard_time": 1681362392,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 257815,
       "num": 257815,
       "word": "吾夫冥夜",
       "onboard_time": 1681354469,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257668,
+      "num": 257668,
+      "word": "网友偶遇陈赫张子萱看画展",
+      "onboard_time": 1681363469,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 257464,
@@ -755,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247538,
+      "num": 247538,
+      "word": "英格拉姆",
+      "onboard_time": 1681361912,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245316,
       "num": 245316,
       "word": "我推的孩子",
@@ -779,6 +819,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 241881,
+      "num": 241881,
+      "word": "吴磊孙怡倪虹洁对手戏",
+      "onboard_time": 1681361552,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236441,
       "num": 236441,
       "word": "aki",
@@ -793,14 +841,6 @@
       "onboard_time": 1681346314,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 233069,
-      "num": 233069,
-      "word": "英格拉姆",
-      "onboard_time": 1681361912,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 229735,
@@ -857,6 +897,14 @@
       "onboard_time": 1681355309,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 208211,
+      "num": 208211,
+      "word": "白宇不在乔家还是操着全家的心",
+      "onboard_time": 1681363349,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 202509,
@@ -979,6 +1027,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 187121,
+      "num": 187121,
+      "word": "优酷回应非会员遇3000多秒广告",
+      "onboard_time": 1681363590,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 181114,
       "num": 181114,
       "word": "中国女性在职场上的现状",
@@ -1019,19 +1075,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171895,
-      "num": 171895,
-      "word": "谭飞删博",
-      "onboard_time": 1681362631,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171352,
       "num": 171352,
       "word": "天龙八部开播26周年",
       "onboard_time": 1681355249,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 170910,
+      "num": 170910,
+      "word": "哈利波特",
+      "onboard_time": 1681362811,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -1089,14 +1145,6 @@
       "onboard_time": 1681310313,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161618,
-      "num": 161618,
-      "word": "哈利波特",
-      "onboard_time": 1681362811,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 160659,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1681298606,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129406,
+      "num": 129406,
+      "word": "咖啡可以冷门但不可以邪门",
+      "onboard_time": 1681363829,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 127915,
