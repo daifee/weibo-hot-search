@@ -1,0 +1,410 @@
+{
+  "runTime": 1681377432003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1887364,
+        "num": 1887364,
+        "word": "徐峥",
+        "onboard_time": 1681371986,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1206225,
+        "num": 1206225,
+        "word": "离职一个月了还要教新人",
+        "onboard_time": 1681374811,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46481,
+        "num": 1204876,
+        "word": "一组高频数据看消费回暖",
+        "onboard_time": 1681354588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1204359,
+        "num": 1204359,
+        "word": "胡歌微博编辑记录",
+        "onboard_time": 1681372227,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 898223,
+        "num": 898223,
+        "word": "优酷回应非会员遇3000多秒广告",
+        "onboard_time": 1681363590,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 892789,
+        "num": 892789,
+        "word": "易梦玲 很开心缓解了大家的容貌焦虑",
+        "onboard_time": 1681365207,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 867570,
+        "num": 867570,
+        "word": "王楚钦",
+        "onboard_time": 1681375410,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659033,
+        "num": 659033,
+        "word": "员工因不批假与领导吵架牵出吃空饷",
+        "onboard_time": 1681371986,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641272,
+        "num": 641272,
+        "word": "B站活动上传用户真人照片",
+        "onboard_time": 1681371986,
+        "rank": 8,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 571570,
+        "num": 571570,
+        "word": "女子买房送超大阳台封窗却要20多万",
+        "onboard_time": 1681368808,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1726526,
+        "num": 512936,
+        "word": "成龙口误说很高兴和烂演员合作",
+        "onboard_time": 1681368928,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1499207,
+        "num": 483339,
+        "word": "清华张小年 人类精子库",
+        "onboard_time": 1681373851,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 434504,
+        "num": 434504,
+        "word": "刘奕君 你这样很失态",
+        "onboard_time": 1681374569,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376637,
+        "num": 376637,
+        "word": "泫雅也没逃过韩国酵母",
+        "onboard_time": 1681360052,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365100,
+        "num": 365100,
+        "word": "肖战被工作人员夸守时",
+        "onboard_time": 1681370968,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339484,
+        "num": 339484,
+        "word": "美国奶牛厂爆炸18000头牛死亡",
+        "onboard_time": 1681364908,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338726,
+        "num": 338726,
+        "word": "你是尿眠体吗",
+        "onboard_time": 1681363169,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313437,
+        "num": 313437,
+        "word": "网友偶遇陈赫张子萱看画展",
+        "onboard_time": 1681363469,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275776,
+        "num": 275776,
+        "word": "简历上写QQ邮箱会掉分吗",
+        "onboard_time": 1681356449,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265781,
+        "num": 265781,
+        "word": "清华北大在校生五一可到淄博免费游",
+        "onboard_time": 1681364728,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 554185,
+        "num": 264483,
+        "word": "银行发现7位数存款5年未动急寻人",
+        "onboard_time": 1681374267,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333069,
+        "num": 258747,
+        "word": "为什么辣条左上角都带一寸照片",
+        "onboard_time": 1681373908,
+        "rank": 21,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 248685,
+        "num": 248685,
+        "word": "AutoGPT",
+        "onboard_time": 1681372589,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 245344,
+        "num": 245344,
+        "word": "教资笔试成绩今日发布",
+        "onboard_time": 1681376608,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 241253,
+        "num": 241253,
+        "word": "江疏影的锁骨",
+        "onboard_time": 1681376250,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228076,
+        "num": 228076,
+        "word": "去世的小狗又回到了我家",
+        "onboard_time": 1681370310,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226080,
+        "num": 226080,
+        "word": "黑化得最令人心疼的角色",
+        "onboard_time": 1681373966,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224430,
+        "num": 224430,
+        "word": "饮料真的要少喝",
+        "onboard_time": 1681370369,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83519,
+        "num": 215433,
+        "word": "新势力缺台这样的SUV",
+        "onboard_time": 1681374869,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214885,
+        "num": 214885,
+        "word": "TFBOYS获得的第一个奖是音悦台给的",
+        "onboard_time": 1681364789,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202769,
+        "num": 202769,
+        "word": "王晶说赵露思是目前戏最好的花旦",
+        "onboard_time": 1681358670,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202615,
+        "num": 202615,
+        "word": "被狗抓破 狂犬病",
+        "onboard_time": 1681376608,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201417,
+        "num": 201417,
+        "word": "INTO1上海演唱会预售",
+        "onboard_time": 1681376910,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191778,
+        "num": 191778,
+        "word": "全圆佑剪短发",
+        "onboard_time": 1681375589,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 175091,
+        "num": 175091,
+        "word": "罗云熙即将进组",
+        "onboard_time": 1681369226,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172475,
+        "num": 172475,
+        "word": "长月烬明会be吗",
+        "onboard_time": 1681376189,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168406,
+        "num": 168406,
+        "word": "女明星古装撑伞盘点",
+        "onboard_time": 1681377212,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167228,
+        "num": 167228,
+        "word": "张靓颖助阵LPL十周年",
+        "onboard_time": 1681375109,
+        "rank": 37,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 164310,
+        "num": 164310,
+        "word": "燃冬 戛纳",
+        "onboard_time": 1681376968,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157041,
+        "num": 157041,
+        "word": "在广东存款10多万算多吗",
+        "onboard_time": 1681366467,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152911,
+        "num": 152911,
+        "word": "陈立农演唱会彩排",
+        "onboard_time": 1681377029,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150979,
+        "num": 150979,
+        "word": "范丞丞跑男家族第一个00后",
+        "onboard_time": 1681369767,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139123,
+        "num": 139123,
+        "word": "戛纳",
+        "onboard_time": 1681377089,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133938,
+        "num": 133938,
+        "word": "你为什么还在坚持用QQ",
+        "onboard_time": 1681371148,
+        "rank": 43,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 133284,
+        "num": 133284,
+        "word": "腺样体面容",
+        "onboard_time": 1681353207,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 131416,
+        "num": 131416,
+        "word": "会员广告",
+        "onboard_time": 1681376010,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 130264,
+        "num": 130264,
+        "word": "南京鸭血粉丝有多鲜",
+        "onboard_time": 1681375410,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128559,
+        "num": 128559,
+        "word": "可能一辈子都用不上的东西",
+        "onboard_time": 1681368387,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126436,
+        "num": 126436,
+        "word": "颜心记",
+        "onboard_time": 1681370608,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115393,
+        "num": 115393,
+        "word": "外卖配送费会影响你下单吗",
+        "onboard_time": 1681375709,
+        "rank": 49,
+        "category": "社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平到南部战区海军视察调研#"
+    }
+  }
+}

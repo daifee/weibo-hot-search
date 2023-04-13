@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681374904801,
+  "endTime": 1681377432003,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 2206456,
-      "num": 417774,
+      "num": 512936,
       "word": "成龙口误说很高兴和烂演员合作",
       "onboard_time": 1681368928,
       "rank": 11,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1499207,
+      "num": 483339,
+      "word": "清华张小年 人类精子库",
+      "onboard_time": 1681373851,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1482115,
       "num": 1482115,
       "word": "竹筒奶茶 发霉",
@@ -617,6 +625,14 @@
       "onboard_time": 1681372227,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1206225,
+      "num": 1206225,
+      "word": "离职一个月了还要教新人",
+      "onboard_time": 1681374811,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1198638,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1681099951,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 867570,
+      "num": 867570,
+      "word": "王楚钦",
+      "onboard_time": 1681375410,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 866668,
@@ -1611,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 659033,
+      "num": 659033,
+      "word": "员工因不批假与领导吵架牵出吃空饷",
+      "onboard_time": 1681371986,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658870,
       "num": 658870,
       "word": "长月烬明",
@@ -2147,14 +2179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 560132,
-      "num": 560132,
-      "word": "员工因不批假与领导吵架牵出吃空饷",
-      "onboard_time": 1681371986,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556844,
       "num": 556844,
       "word": "特斯拉降价",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1681313730,
       "rank": 5,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 554185,
+      "num": 264483,
+      "word": "银行发现7位数存款5年未动急寻人",
+      "onboard_time": 1681374267,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553240,
@@ -2603,14 +2635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 479026,
-      "num": 396918,
-      "word": "清华张小年 人类精子库",
-      "onboard_time": 1681373851,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 477018,
       "num": 417668,
       "word": "李兰迪被鸟屎砸中",
@@ -2897,6 +2921,14 @@
       "onboard_time": 1681308935,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 434504,
+      "num": 434504,
+      "word": "刘奕君 你这样很失态",
+      "onboard_time": 1681374569,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 433690,
@@ -3931,6 +3963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333069,
+      "num": 258747,
+      "word": "为什么辣条左上角都带一寸照片",
+      "onboard_time": 1681373908,
+      "rank": 39,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 331519,
       "num": 331519,
       "word": "王俊凯直播",
@@ -4931,14 +4971,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 256229,
-      "num": 208240,
-      "word": "为什么辣条左上角都带一寸照片",
-      "onboard_time": 1681373908,
-      "rank": 39,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 255753,
       "num": 255753,
       "word": "宋雨琦奔跑吧拍摄花絮",
@@ -4993,14 +5025,6 @@
       "onboard_time": 1681091066,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253952,
-      "num": 253952,
-      "word": "银行发现7位数存款5年未动急寻人",
-      "onboard_time": 1681374267,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253868,
@@ -5115,6 +5139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245344,
+      "num": 245344,
+      "word": "教资笔试成绩今日发布",
+      "onboard_time": 1681376608,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 245316,
       "num": 245316,
       "word": "我推的孩子",
@@ -5217,6 +5249,14 @@
       "onboard_time": 1681305209,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 241253,
+      "num": 241253,
+      "word": "江疏影的锁骨",
+      "onboard_time": 1681376250,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240706,
@@ -5593,6 +5633,14 @@
       "onboard_time": 1681349130,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226080,
+      "num": 226080,
+      "word": "黑化得最令人心疼的角色",
+      "onboard_time": 1681373966,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 226028,
@@ -6395,6 +6443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202615,
+      "num": 202615,
+      "word": "被狗抓破 狂犬病",
+      "onboard_time": 1681376608,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202605,
       "num": 202605,
       "word": "谭维维黑长直造型",
@@ -6489,6 +6545,14 @@
       "onboard_time": 1681103430,
       "rank": 39,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 201417,
+      "num": 201417,
+      "word": "INTO1上海演唱会预售",
+      "onboard_time": 1681376910,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 201365,
@@ -6963,14 +7027,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 195186,
-      "num": 195186,
-      "word": "黑化得最令人心疼的角色",
-      "onboard_time": 1681373966,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195026,
       "num": 195026,
       "word": "TTG战胜TES",
@@ -7131,6 +7187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191778,
+      "num": 191778,
+      "word": "全圆佑剪短发",
+      "onboard_time": 1681375589,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 191758,
       "num": 191758,
       "word": "除了卡针还能用什么取SIM卡",
@@ -7241,14 +7305,6 @@
       "onboard_time": 1681100974,
       "rank": 45,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 189676,
-      "num": 189676,
-      "word": "刘奕君 你这样很失态",
-      "onboard_time": 1681374569,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 189445,
@@ -7875,6 +7931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172475,
+      "num": 172475,
+      "word": "长月烬明会be吗",
+      "onboard_time": 1681376189,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171859,
       "num": 171859,
       "word": "李宇春新歌鸵鸟逃跑了预告",
@@ -8043,6 +8107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168406,
+      "num": 168406,
+      "word": "女明星古装撑伞盘点",
+      "onboard_time": 1681377212,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168372,
       "num": 168372,
       "word": "冥夜的手串上有贝壳珠",
@@ -8081,6 +8153,14 @@
       "onboard_time": 1681284446,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167228,
+      "num": 167228,
+      "word": "张靓颖助阵LPL十周年",
+      "onboard_time": 1681375109,
+      "rank": 37,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 167117,
@@ -8153,6 +8233,14 @@
       "onboard_time": 1681356749,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164310,
+      "num": 164310,
+      "word": "燃冬 戛纳",
+      "onboard_time": 1681376968,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 164277,
@@ -8521,6 +8609,14 @@
       "onboard_time": 1681304009,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152911,
+      "num": 152911,
+      "word": "陈立农演唱会彩排",
+      "onboard_time": 1681377029,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 152698,
@@ -8995,6 +9091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139123,
+      "num": 139123,
+      "word": "戛纳",
+      "onboard_time": 1681377089,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139080,
       "num": 139080,
       "word": "网友P的罗云熙白鹿公主抱",
@@ -9155,6 +9259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 131416,
+      "num": 131416,
+      "word": "会员广告",
+      "onboard_time": 1681376010,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 130749,
       "num": 130749,
       "word": "沈小婷跳Nobody",
@@ -9169,6 +9281,14 @@
       "onboard_time": 1681371510,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 130264,
+      "num": 130264,
+      "word": "南京鸭血粉丝有多鲜",
+      "onboard_time": 1681375410,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 130168,
@@ -9491,6 +9611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115393,
+      "num": 115393,
+      "word": "外卖配送费会影响你下单吗",
+      "onboard_time": 1681375709,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 114872,
       "num": 114872,
       "word": "腺样体面容有哪些特点",
@@ -9708,7 +9836,7 @@
     },
     {
       "raw_hot": 97982,
-      "num": 107923,
+      "num": 215433,
       "word": "新势力缺台这样的SUV",
       "onboard_time": 1681374869,
       "rank": 48,
