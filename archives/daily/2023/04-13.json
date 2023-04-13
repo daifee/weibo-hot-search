@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681392927023,
+  "endTime": 1681395372485,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -171,8 +171,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1243655,
-      "num": 1243655,
+      "raw_hot": 1303422,
+      "num": 1303422,
       "word": "陈妍希问陈晓凶手到底是谁",
       "onboard_time": 1681391131,
       "rank": 12,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 819775,
+      "num": 819775,
+      "word": "孙颖莎vs伊藤美诚",
+      "onboard_time": 1681393714,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 797035,
       "num": 797035,
       "word": "音悦台真的回来了",
@@ -451,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 673865,
+      "num": 673865,
+      "word": "泫雅ins为金晓钟宣传新歌",
+      "onboard_time": 1681393114,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 670149,
       "num": 670149,
       "word": "陕西一教师自称贿赂领导被逼自杀",
@@ -523,12 +539,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 637585,
+      "num": 637585,
+      "word": "我国制裁一名美国反华议员",
+      "onboard_time": 1681391671,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 629263,
       "num": 629263,
       "word": "美国奶牛厂爆炸18000头牛死亡",
       "onboard_time": 1681364908,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625833,
+      "num": 625833,
+      "word": "马琳离场",
+      "onboard_time": 1681389693,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 616446,
+      "num": 616446,
+      "word": "李天泽中音音乐学系专业第一",
+      "onboard_time": 1681392092,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 613644,
@@ -633,14 +673,6 @@
       "onboard_time": 1681376608,
       "rank": 23,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 509035,
-      "num": 509035,
-      "word": "马琳离场",
-      "onboard_time": 1681389693,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 504531,
@@ -779,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433814,
+      "num": 243462,
+      "word": "田曦薇吊带珍珠纱裙",
+      "onboard_time": 1681392994,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 430829,
       "num": 307184,
       "word": "饮料真的要少喝",
@@ -899,6 +939,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 394747,
+      "num": 394747,
+      "word": "王皓表情",
+      "onboard_time": 1681391911,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393522,
       "num": 393522,
       "word": "小米平板",
@@ -947,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 376275,
+      "num": 376275,
+      "word": "烟台山火",
+      "onboard_time": 1681392811,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373996,
       "num": 373996,
       "word": "罗云熙即将进组",
@@ -961,14 +1017,6 @@
       "onboard_time": 1681379671,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 360102,
-      "num": 360102,
-      "word": "王皓表情",
-      "onboard_time": 1681391911,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 358294,
@@ -1259,14 +1307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284144,
-      "num": 284144,
-      "word": "我国制裁一名美国反华议员",
-      "onboard_time": 1681391671,
-      "rank": 29,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 284049,
       "num": 284049,
       "word": "AutoGPT",
@@ -1411,14 +1451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 252237,
-      "num": 252237,
-      "word": "李天泽中音音乐学系专业第一",
-      "onboard_time": 1681392092,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251730,
       "num": 251730,
       "word": "小楼",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1681364608,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234815,
+      "num": 243972,
+      "word": "没有瑕疵的女性主义者",
+      "onboard_time": 1681394132,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 234557,
@@ -1611,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222831,
+      "num": 222831,
+      "word": "孙颖莎3比1伊藤美诚",
+      "onboard_time": 1681394854,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222645,
       "num": 212770,
       "word": "冥夜小作文",
@@ -1640,6 +1688,14 @@
       "word": "薄冰富大龙董洁对手戏",
       "onboard_time": 1681383808,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 219817,
+      "num": 219817,
+      "word": "杨烁李萌萌吻戏",
+      "onboard_time": 1681394373,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1923,6 +1979,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 196585,
+      "num": 196585,
+      "word": "别克e5",
+      "onboard_time": 1681394253,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 195686,
       "num": 195686,
       "word": "欢迎来到e次元空间",
@@ -2040,6 +2104,14 @@
       "word": "春闺梦里人",
       "onboard_time": 1681388250,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 190599,
+      "num": 190599,
+      "word": "影评人说王一博无名表演印象深刻",
+      "onboard_time": 1681394915,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -2195,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179905,
+      "num": 179905,
+      "word": "无畏想要三连胜",
+      "onboard_time": 1681394194,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178254,
       "num": 178254,
       "word": "金秋天MCD直拍",
@@ -2216,6 +2296,14 @@
       "word": "白鹿能不能再演十集反派",
       "onboard_time": 1681306470,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 173679,
+      "num": 173679,
+      "word": "北影节将放映悲情城市4K数字版",
+      "onboard_time": 1681394854,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -2475,6 +2563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153137,
+      "num": 153137,
+      "word": "井汲大翔淘汰",
+      "onboard_time": 1681395334,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152911,
       "num": 152911,
       "word": "陈立农演唱会彩排",
@@ -2585,14 +2681,6 @@
       "onboard_time": 1681353449,
       "rank": 45,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 136660,
-      "num": 136660,
-      "word": "烟台山火",
-      "onboard_time": 1681392811,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135555,
@@ -2708,7 +2796,7 @@
     },
     {
       "raw_hot": 121057,
-      "num": 160952,
+      "num": 189466,
       "word": "别克这次掀到地板了",
       "onboard_time": 1681392632,
       "rank": 44,
@@ -2859,6 +2947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 84662,
+      "num": 153332,
+      "word": "东北雪糕四大天王",
+      "onboard_time": 1681395032,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84596,
       "num": 230887,
       "word": "精装修买的没有送的香",
@@ -2881,6 +2977,14 @@
       "onboard_time": 1681316546,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 74937,
+      "num": 149908,
+      "word": "好心疼这些电池",
+      "onboard_time": 1681393413,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 70156,
@@ -2963,20 +3067,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43946,
+      "num": 791697,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1681391671,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42194,
       "num": 42194,
       "word": "上一次这么气人的还是素锦和灯芯",
       "onboard_time": 1681329071,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39137,
-      "num": 791697,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1681391671,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38684,

@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681392927023,
+  "endTime": 1681395372485,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -651,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1303422,
+      "num": 1303422,
+      "word": "陈妍希问陈晓凶手到底是谁",
+      "onboard_time": 1681391131,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1281022,
       "num": 1281022,
       "word": "专家建议有实力有担当的人多生孩子",
@@ -673,14 +681,6 @@
       "onboard_time": 1681177164,
       "rank": 32,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1243655,
-      "num": 1243655,
-      "word": "陈妍希问陈晓凶手到底是谁",
-      "onboard_time": 1681391131,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1243532,
@@ -1307,6 +1307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 819775,
+      "num": 819775,
+      "word": "孙颖莎vs伊藤美诚",
+      "onboard_time": 1681393714,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 818968,
       "num": 818968,
       "word": "喝预开口的椰子 进急诊",
@@ -1699,6 +1707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 673865,
+      "num": 673865,
+      "word": "泫雅ins为金晓钟宣传新歌",
+      "onboard_time": 1681393114,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 670149,
       "num": 670149,
       "word": "陕西一教师自称贿赂领导被逼自杀",
@@ -1875,6 +1891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 637585,
+      "num": 637585,
+      "word": "我国制裁一名美国反华议员",
+      "onboard_time": 1681391671,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 635373,
       "num": 635373,
       "word": "在美流浪32年老人回国后续",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1681108706,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625833,
+      "num": 625833,
+      "word": "马琳离场",
+      "onboard_time": 1681389693,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 625293,
@@ -1976,6 +2008,14 @@
       "word": "直井怜暂停活动",
       "onboard_time": 1681190369,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 616446,
+      "num": 616446,
+      "word": "李天泽中音音乐学系专业第一",
+      "onboard_time": 1681392092,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -2635,14 +2675,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 509035,
-      "num": 509035,
-      "word": "马琳离场",
-      "onboard_time": 1681389693,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 506714,
       "num": 439369,
       "word": "赵丽颖早期旧照",
@@ -3137,6 +3169,14 @@
       "onboard_time": 1681308935,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 433814,
+      "num": 243462,
+      "word": "田曦薇吊带珍珠纱裙",
+      "onboard_time": 1681392994,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433690,
@@ -3667,6 +3707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394747,
+      "num": 394747,
+      "word": "王皓表情",
+      "onboard_time": 1681391911,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394632,
       "num": 247642,
       "word": "上海沙尘暴",
@@ -3777,6 +3825,14 @@
       "onboard_time": 1681224150,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 376275,
+      "num": 376275,
+      "word": "烟台山火",
+      "onboard_time": 1681392811,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 374043,
@@ -3913,14 +3969,6 @@
       "onboard_time": 1681298066,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 360102,
-      "num": 360102,
-      "word": "王皓表情",
-      "onboard_time": 1681391911,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 359988,
@@ -4979,14 +5027,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284144,
-      "num": 284144,
-      "word": "我国制裁一名美国反华议员",
-      "onboard_time": 1681391671,
-      "rank": 29,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 284094,
       "num": 284094,
       "word": "澹台烬放财神爷一马",
@@ -5451,14 +5491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 252237,
-      "num": 252237,
-      "word": "李天泽中音音乐学系专业第一",
-      "onboard_time": 1681392092,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 252123,
       "num": 252123,
       "word": "王楚然打卡淄博烧烤",
@@ -5795,6 +5827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234815,
+      "num": 243972,
+      "word": "没有瑕疵的女性主义者",
+      "onboard_time": 1681394132,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234680,
       "num": 234680,
       "word": "任嘉伦给高考生送祝福",
@@ -6091,6 +6131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222831,
+      "num": 222831,
+      "word": "孙颖莎3比1伊藤美诚",
+      "onboard_time": 1681394854,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222691,
       "num": 222691,
       "word": "冥夜桑酒诀别",
@@ -6209,6 +6257,14 @@
       "onboard_time": 1681105949,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219817,
+      "num": 219817,
+      "word": "杨烁李萌萌吻戏",
+      "onboard_time": 1681394373,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 219769,
@@ -7499,6 +7555,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 196585,
+      "num": 196585,
+      "word": "别克e5",
+      "onboard_time": 1681394253,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 196453,
       "num": 196453,
       "word": "任嘉伦超话会掉落Q版任嘉伦",
@@ -7849,6 +7913,14 @@
       "onboard_time": 1681287805,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190599,
+      "num": 190599,
+      "word": "影评人说王一博无名表演印象深刻",
+      "onboard_time": 1681394915,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 190596,
@@ -8403,6 +8475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179905,
+      "num": 179905,
+      "word": "无畏想要三连胜",
+      "onboard_time": 1681394194,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179849,
       "num": 179849,
       "word": "热烈制片人怒怼网友",
@@ -8592,6 +8672,14 @@
       "word": "入魔后的桑酒",
       "onboard_time": 1681298548,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 173679,
+      "num": 173679,
+      "word": "北影节将放映悲情城市4K数字版",
+      "onboard_time": 1681394854,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -9363,6 +9451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153137,
+      "num": 153137,
+      "word": "井汲大翔淘汰",
+      "onboard_time": 1681395334,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153131,
       "num": 153131,
       "word": "樊振东3比1李尚洙",
@@ -9899,14 +9995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136660,
-      "num": 136660,
-      "word": "烟台山火",
-      "onboard_time": 1681392811,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "白鹿叶夕雾害怕血鸦",
@@ -10268,7 +10356,7 @@
     },
     {
       "raw_hot": 121057,
-      "num": 160952,
+      "num": 189466,
       "word": "别克这次掀到地板了",
       "onboard_time": 1681392632,
       "rank": 44,
@@ -10755,6 +10843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 84662,
+      "num": 153332,
+      "word": "东北雪糕四大天王",
+      "onboard_time": 1681395032,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 84596,
       "num": 230887,
       "word": "精装修买的没有送的香",
@@ -10809,6 +10905,14 @@
       "onboard_time": 1681048112,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74937,
+      "num": 149908,
+      "word": "好心疼这些电池",
+      "onboard_time": 1681393413,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 74649,
@@ -10947,6 +11051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43946,
+      "num": 791697,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1681391671,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43870,
       "num": 47769,
       "word": "多个商家注册竹筒奶茶店",
@@ -10961,14 +11073,6 @@
       "onboard_time": 1681329071,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39137,
-      "num": 791697,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1681391671,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38684,
