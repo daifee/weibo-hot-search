@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681348833894,
+  "endTime": 1681350256388,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -555,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1185378,
+      "num": 1185378,
+      "word": "女子忘关窗回家扫土1小时",
+      "onboard_time": 1681345953,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1144862,
       "num": 1144862,
       "word": "张杰谢娜因名誉权起诉中介",
@@ -723,14 +731,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1034951,
-      "num": 1034951,
-      "word": "女子忘关窗回家扫土1小时",
-      "onboard_time": 1681345953,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 991924,
       "num": 991924,
       "word": "今年的假期余额只剩6天了",
@@ -801,6 +801,14 @@
       "onboard_time": 1681047569,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 942854,
+      "num": 942854,
+      "word": "报告称41.93%的大学生单身且不想脱单",
+      "onboard_time": 1681347810,
+      "rank": 11,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 928021,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 832139,
-      "num": 424561,
+      "num": 472259,
       "word": "陈都灵早期等公交旧照",
       "onboard_time": 1681316664,
       "rank": 10,
@@ -1124,7 +1132,7 @@
     },
     {
       "raw_hot": 755193,
-      "num": 449891,
+      "num": 478348,
       "word": "孙珍妮微博里有和抑郁症粉丝的暗号",
       "onboard_time": 1681341921,
       "rank": 13,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1681177467,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727472,
+      "num": 727472,
+      "word": "特朗普回应是谁炸了北溪管道",
+      "onboard_time": 1681346852,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 724376,
@@ -1409,6 +1425,14 @@
       "onboard_time": 1681097008,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 651013,
+      "num": 651013,
+      "word": "频繁挖鼻孔或增加患病风险",
+      "onboard_time": 1681348828,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 645157,
@@ -1731,14 +1755,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 579461,
-      "num": 438683,
-      "word": "报告称41.93%的大学生单身且不想脱单",
-      "onboard_time": 1681347810,
-      "rank": 11,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 579352,
       "num": 579352,
       "word": "2万块的iPhone15你会买吗",
@@ -1953,14 +1969,6 @@
       "onboard_time": 1681185748,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539477,
-      "num": 416198,
-      "word": "特朗普回应是谁炸了北溪管道",
-      "onboard_time": 1681346852,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 538527,
@@ -2217,6 +2225,14 @@
       "onboard_time": 1681215145,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 489509,
+      "num": 489509,
+      "word": "大学党委副书记拟录取为本校博士",
+      "onboard_time": 1681347391,
+      "rank": 21,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 488536,
@@ -2635,6 +2651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 422464,
+      "num": 422464,
+      "word": "女子因未婚应聘被拒",
+      "onboard_time": 1681346912,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421644,
       "num": 291154,
       "word": "flower",
@@ -2720,14 +2744,6 @@
       "word": "江宁路",
       "onboard_time": 1681136730,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 412405,
-      "num": 412405,
-      "word": "女子因未婚应聘被拒",
-      "onboard_time": 1681346912,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3283,6 +3299,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 351462,
+      "num": 351462,
+      "word": "网友建议专家多生少说",
+      "onboard_time": 1681348769,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351199,
       "num": 344606,
       "word": "灭族成桑酒心魔",
@@ -3329,6 +3353,14 @@
       "onboard_time": 1681216346,
       "rank": 36,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 344450,
+      "num": 344450,
+      "word": "刘嘉玲何超琼杨紫琼林青霞合影",
+      "onboard_time": 1681347691,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 344287,
@@ -3505,14 +3537,6 @@
       "onboard_time": 1681273529,
       "rank": 18,
       "category": "作品衍生,动漫"
-    },
-    {
-      "raw_hot": 326448,
-      "num": 326448,
-      "word": "刘嘉玲何超琼杨紫琼林青霞合影",
-      "onboard_time": 1681347691,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 326367,
@@ -3715,6 +3739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308027,
+      "num": 308027,
+      "word": "嗯哼牙齿",
+      "onboard_time": 1681349908,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 307846,
       "num": 307846,
       "word": "安徽爷孙离奇失联10天",
@@ -3785,14 +3817,6 @@
       "onboard_time": 1681270768,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 303549,
-      "num": 303549,
-      "word": "大学党委副书记拟录取为本校博士",
-      "onboard_time": 1681347391,
-      "rank": 21,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 303361,
@@ -4161,6 +4185,14 @@
       "onboard_time": 1681186050,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269322,
+      "num": 269322,
+      "word": "女生为拍网红照爬到核酸屋顶",
+      "onboard_time": 1681347449,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267888,
@@ -4611,6 +4643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236441,
+      "num": 236441,
+      "word": "aki",
+      "onboard_time": 1681345351,
+      "rank": 27,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 236137,
       "num": 236137,
       "word": "冥夜赦免了天欢",
@@ -4667,20 +4707,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 234557,
+      "num": 234557,
+      "word": "天欢下凡没有嘎",
+      "onboard_time": 1681346314,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234448,
       "num": 234448,
       "word": "高校回应女生从宿舍楼坠落",
       "onboard_time": 1681196365,
       "rank": 36,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 234431,
-      "num": 234431,
-      "word": "aki",
-      "onboard_time": 1681345351,
-      "rank": 27,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 234095,
@@ -4697,14 +4737,6 @@
       "onboard_time": 1681119625,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233830,
-      "num": 233830,
-      "word": "女生为拍网红照爬到核酸屋顶",
-      "onboard_time": 1681347449,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233439,
@@ -4851,6 +4883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226517,
+      "num": 226517,
+      "word": "老孙",
+      "onboard_time": 1681349130,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226028,
       "num": 226028,
       "word": "山东舰首次参加环台岛战备警巡",
@@ -4897,14 +4937,6 @@
       "onboard_time": 1681309715,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 222007,
-      "num": 222007,
-      "word": "天欢下凡没有嘎",
-      "onboard_time": 1681346314,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 221803,
@@ -7347,6 +7379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157358,
+      "num": 157358,
+      "word": "教资笔试成绩今晚19点可查",
+      "onboard_time": 1681349908,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 156763,
       "num": 156763,
       "word": "seventeen新专打工人设定",
@@ -7369,6 +7409,14 @@
       "onboard_time": 1681348049,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156289,
+      "num": 156289,
+      "word": "竹筒奶茶是怎么火起来的",
+      "onboard_time": 1681349547,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 155594,
@@ -7955,14 +8003,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 135176,
-      "num": 135176,
-      "word": "网友建议专家多生少说",
-      "onboard_time": 1681348769,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135017,
       "num": 204916,
       "word": "外交部回应马克龙涉台表态遭美批评",
@@ -8041,14 +8081,6 @@
       "onboard_time": 1681279047,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 131710,
-      "num": 131710,
-      "word": "频繁挖鼻孔或增加患病风险",
-      "onboard_time": 1681348828,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130749,
@@ -8225,6 +8257,14 @@
       "onboard_time": 1681038025,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122069,
+      "num": 122069,
+      "word": "肖战中国视协演员学习内容摘要",
+      "onboard_time": 1681350208,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 120808,
