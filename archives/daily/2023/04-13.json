@@ -1,12 +1,36 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681342409059,
+  "endTime": 1681348833894,
   "band_list": [
     {
       "raw_hot": 2425491,
       "num": 611278,
       "word": "添添",
       "onboard_time": 1681309775,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1745939,
+      "num": 1745939,
+      "word": "空姐飞机上推销商品长达40分钟",
+      "onboard_time": 1681341502,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1131099,
+      "num": 1131099,
+      "word": "社保挂靠代缴已被明确为违法",
+      "onboard_time": 1681308032,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1034951,
+      "num": 1034951,
+      "word": "女子忘关窗回家扫土1小时",
+      "onboard_time": 1681345953,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -20,19 +44,11 @@
     },
     {
       "raw_hot": 832139,
-      "num": 347471,
+      "num": 424561,
       "word": "陈都灵早期等公交旧照",
       "onboard_time": 1681316664,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 803874,
-      "num": 803874,
-      "word": "社保挂靠代缴已被明确为违法",
-      "onboard_time": 1681308032,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 763269,
@@ -43,12 +59,60 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 755193,
+      "num": 449891,
+      "word": "孙珍妮微博里有和抑郁症粉丝的暗号",
+      "onboard_time": 1681341921,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 710676,
       "num": 710676,
       "word": "北京人均存款已接近27万",
       "onboard_time": 1681303948,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 684648,
+      "num": 684648,
+      "word": "剧版哈利波特官宣",
+      "onboard_time": 1681342102,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 683443,
+      "num": 683443,
+      "word": "为什么劝你不要辞职去创业",
+      "onboard_time": 1681343487,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 610186,
+      "num": 610186,
+      "word": "深圳将取消六折人才房",
+      "onboard_time": 1681342043,
+      "rank": 41,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 579461,
+      "num": 438683,
+      "word": "报告称41.93%的大学生单身且不想脱单",
+      "onboard_time": 1681347810,
+      "rank": 11,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 559844,
+      "num": 559844,
+      "word": "美生物实验室感染病毒的小白鼠逃了",
+      "onboard_time": 1681304548,
+      "rank": 7,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 554344,
@@ -59,12 +123,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 510265,
-      "num": 510265,
-      "word": "美生物实验室感染病毒的小白鼠逃了",
-      "onboard_time": 1681304548,
-      "rank": 7,
-      "category": "社会新闻,科技"
+      "raw_hot": 539477,
+      "num": 416198,
+      "word": "特朗普回应是谁炸了北溪管道",
+      "onboard_time": 1681346852,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 504531,
@@ -75,12 +139,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 470689,
+      "num": 470689,
+      "word": "冥夜 桑酒",
+      "onboard_time": 1681344510,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 458102,
       "num": 458102,
       "word": "不吃晚餐真的会变瘦吗",
       "onboard_time": 1681312653,
       "rank": 8,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 457656,
+      "num": 457656,
+      "word": "柯南联名T恤引争议",
+      "onboard_time": 1681343848,
+      "rank": 9,
+      "category": "动漫,时尚"
     },
     {
       "raw_hot": 420427,
@@ -91,12 +171,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 412405,
+      "num": 412405,
+      "word": "女子因未婚应聘被拒",
+      "onboard_time": 1681346912,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410861,
       "num": 410861,
       "word": "全圆佑 小卡",
       "onboard_time": 1681313370,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391110,
+      "num": 318020,
+      "word": "减肥才是最低成本的变美",
+      "onboard_time": 1681343672,
+      "rank": 20,
+      "category": "情感,美妆"
+    },
+    {
+      "raw_hot": 390010,
+      "num": 390010,
+      "word": "迪丽热巴利剑玫瑰下班视频",
+      "onboard_time": 1681347090,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 382630,
+      "num": 382630,
+      "word": "朱婷",
+      "onboard_time": 1681341803,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 343409,
@@ -123,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 326448,
+      "num": 326448,
+      "word": "刘嘉玲何超琼杨紫琼林青霞合影",
+      "onboard_time": 1681347691,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310267,
       "num": 310267,
       "word": "杨紫吃的什么面",
@@ -147,12 +267,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303549,
+      "num": 303549,
+      "word": "大学党委副书记拟录取为本校博士",
+      "onboard_time": 1681347391,
+      "rank": 21,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 295593,
+      "num": 295593,
+      "word": "咖啡店长应客人要求卖人血鸡尾酒",
+      "onboard_time": 1681346490,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294318,
       "num": 294318,
       "word": "王者荣耀东方来客新赛季",
       "onboard_time": 1681308633,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 271722,
+      "num": 271722,
+      "word": "淄博烧烤赢麻了",
+      "onboard_time": 1681342163,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 271434,
@@ -171,6 +315,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 257464,
+      "num": 257464,
+      "word": "巴西总统卢拉抵达上海",
+      "onboard_time": 1681344573,
+      "rank": 25,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 252245,
       "num": 252245,
       "word": "王者荣耀S31赛季延迟更新",
@@ -187,14 +339,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242950,
-      "num": 242950,
-      "word": "空姐飞机上推销商品长达40分钟",
-      "onboard_time": 1681341502,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242026,
       "num": 242026,
       "word": "春天是精神病的高发时期",
@@ -203,12 +347,52 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 218724,
-      "num": 218724,
-      "word": "孙珍妮微博里有和抑郁症粉丝的暗号",
-      "onboard_time": 1681341921,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 234431,
+      "num": 234431,
+      "word": "aki",
+      "onboard_time": 1681345351,
+      "rank": 27,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 233830,
+      "num": 233830,
+      "word": "女生为拍网红照爬到核酸屋顶",
+      "onboard_time": 1681347449,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229735,
+      "num": 229735,
+      "word": "中国人造太阳实现重大突破",
+      "onboard_time": 1681344388,
+      "rank": 29,
+      "category": "科技,国内要闻"
+    },
+    {
+      "raw_hot": 228891,
+      "num": 228891,
+      "word": "周杰伦演唱会套票秒售罄",
+      "onboard_time": 1681342645,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 222007,
+      "num": 222007,
+      "word": "天欢下凡没有嘎",
+      "onboard_time": 1681346314,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 201930,
+      "num": 201930,
+      "word": "gidle确定5月回归",
+      "onboard_time": 1681347691,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 194818,
@@ -235,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191578,
+      "num": 191578,
+      "word": "流浪地球2在俄罗斯首映",
+      "onboard_time": 1681344990,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191518,
       "num": 191518,
       "word": "为什么年轻人热衷考教资",
@@ -257,6 +449,14 @@
       "onboard_time": 1681308214,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176616,
+      "num": 176616,
+      "word": "刀哥下线",
+      "onboard_time": 1681342584,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 176026,
@@ -291,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165400,
+      "num": 165400,
+      "word": "卢拉抵沪准备参观华为",
+      "onboard_time": 1681345892,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 163282,
       "num": 163282,
       "word": "猫咪进不了生肖是有原因的",
       "onboard_time": 1681310313,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 161905,
-      "num": 161905,
-      "word": "朱婷",
-      "onboard_time": 1681341803,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 160659,
@@ -315,12 +515,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156763,
+      "num": 156763,
+      "word": "seventeen新专打工人设定",
+      "onboard_time": 1681347510,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 156509,
+      "num": 156509,
+      "word": "郑号锡将4月18日入伍",
+      "onboard_time": 1681348049,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149127,
       "num": 149127,
       "word": "半熟恋人 老孙",
       "onboard_time": 1681297526,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148610,
+      "num": 148610,
+      "word": "北海道",
+      "onboard_time": 1681343788,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 143164,
+      "num": 143164,
+      "word": "教资面试有哪些流程",
+      "onboard_time": 1681346614,
+      "rank": 45,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 142187,
@@ -339,12 +571,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135176,
+      "num": 135176,
+      "word": "网友建议专家多生少说",
+      "onboard_time": 1681348769,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132432,
       "num": 132432,
       "word": "苏醒混迹内娱多年全凭三好",
       "onboard_time": 1681333032,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131710,
+      "num": 131710,
+      "word": "频繁挖鼻孔或增加患病风险",
+      "onboard_time": 1681348828,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130974,
@@ -393,22 +641,6 @@
       "onboard_time": 1681308575,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 108576,
-      "num": 108576,
-      "word": "淄博烧烤赢麻了",
-      "onboard_time": 1681342163,
-      "rank": 33,
-      "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 107123,
-      "num": 107123,
-      "word": "剧版哈利波特官宣",
-      "onboard_time": 1681342102,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 105700,
@@ -473,14 +705,6 @@
       "onboard_time": 1681294885,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87579,
-      "num": 87579,
-      "word": "深圳将取消六折人才房",
-      "onboard_time": 1681342043,
-      "rank": 41,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 86500,
@@ -564,7 +788,7 @@
     },
     {
       "raw_hot": 51681,
-      "num": 611434,
+      "num": 1044688,
       "word": "中国有约",
       "onboard_time": 1681304129,
       "rank": 2,
