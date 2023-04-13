@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681396415552,
+  "endTime": 1681399081090,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -955,6 +955,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 981588,
+      "num": 981588,
+      "word": "肌肤饥渴症",
+      "onboard_time": 1681394555,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 978693,
       "num": 978693,
       "word": "员工上班摸鱼被辞退",
@@ -1345,6 +1353,14 @@
       "onboard_time": 1681308454,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 797060,
+      "num": 263824,
+      "word": "你能接受另一半捐精吗",
+      "onboard_time": 1681397731,
+      "rank": 10,
+      "category": "社会议题"
     },
     {
       "raw_hot": 797035,
@@ -2307,6 +2323,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 570058,
+      "num": 570058,
+      "word": "易烊千玺石上鸟胸针",
+      "onboard_time": 1681387769,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 568535,
+      "num": 568535,
+      "word": "SEVENTEEN新歌FML概念视频",
+      "onboard_time": 1681398992,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 567268,
       "num": 567268,
       "word": "女生穿洛丽塔5秒反超跑第1",
@@ -2331,12 +2363,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 565561,
-      "num": 565561,
-      "word": "易烊千玺石上鸟胸针",
-      "onboard_time": 1681387769,
-      "rank": 6,
-      "category": "作品衍生,时尚"
+      "raw_hot": 563348,
+      "num": 563348,
+      "word": "井汲大翔淘汰",
+      "onboard_time": 1681395334,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 562492,
@@ -2569,6 +2601,14 @@
       "onboard_time": 1681127667,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 529078,
+      "num": 205011,
+      "word": "Angelababy戴的项链预估价格九位数",
+      "onboard_time": 1681397432,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 527594,
@@ -3067,14 +3107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 450888,
-      "num": 431388,
-      "word": "井汲大翔淘汰",
-      "onboard_time": 1681395334,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 450188,
       "num": 310130,
       "word": "买了个五斤的芒果",
@@ -3353,6 +3385,14 @@
       "onboard_time": 1681303888,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 421523,
+      "num": 212857,
+      "word": "二十五六岁谈段恋爱有多难",
+      "onboard_time": 1681395993,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 421454,
@@ -4587,6 +4627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 313823,
+      "num": 255083,
+      "word": "虞书欣首张个人EP收官vlog",
+      "onboard_time": 1681397854,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 313746,
       "num": 245553,
       "word": "女子看直播一次性公款打赏三四十万",
@@ -5241,14 +5289,6 @@
       "onboard_time": 1681186050,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268635,
-      "num": 268635,
-      "word": "肌肤饥渴症",
-      "onboard_time": 1681394555,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 267888,
@@ -6019,6 +6059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230191,
+      "num": 230191,
+      "word": "引发烟台山火嫌疑人已被刑拘",
+      "onboard_time": 1681398333,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 230132,
       "num": 230132,
       "word": "可能一辈子都用不上的东西",
@@ -6153,6 +6201,14 @@
       "onboard_time": 1681106667,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224434,
+      "num": 224434,
+      "word": "体重48公斤被学校谈话",
+      "onboard_time": 1681398392,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 223841,
@@ -6323,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218667,
+      "num": 209858,
+      "word": "钟楚曦说又见我的女人何穗",
+      "onboard_time": 1681396294,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218625,
       "num": 208483,
       "word": "白鹿看长月烬明剧本哭了无数次",
@@ -6336,6 +6400,14 @@
       "word": "长空之王雷宇和父母对话好心酸",
       "onboard_time": 1681140508,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218384,
+      "num": 205886,
+      "word": "影评人说王一博无名表演印象深刻",
+      "onboard_time": 1681394915,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -6808,14 +6880,6 @@
       "word": "桑酒有什么错呢她只是想吃全蛇宴",
       "onboard_time": 1681297647,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 205886,
-      "num": 205886,
-      "word": "影评人说王一博无名表演印象深刻",
-      "onboard_time": 1681394915,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -7387,14 +7451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198163,
-      "num": 198163,
-      "word": "二十五六岁谈段恋爱有多难",
-      "onboard_time": 1681395993,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198142,
       "num": 198142,
       "word": "安宥真高音",
@@ -7851,6 +7907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192759,
+      "num": 192759,
+      "word": "AG战胜KSG",
+      "onboard_time": 1681398269,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192694,
       "num": 192694,
       "word": "阿云嘎渐变灰西装造型",
@@ -7985,14 +8049,6 @@
       "onboard_time": 1681193547,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190093,
-      "num": 190093,
-      "word": "钟楚曦说又见我的女人何穗",
-      "onboard_time": 1681396294,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 190015,
@@ -8699,6 +8755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175180,
+      "num": 175180,
+      "word": "KSG廉颇打野",
+      "onboard_time": 1681396593,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175005,
       "num": 175005,
       "word": "刘宇宁也不知道安乐传什么时候播出",
@@ -8985,6 +9049,14 @@
       "onboard_time": 1681309115,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168346,
+      "num": 174756,
+      "word": "外卖配送费多少钱你能接受",
+      "onboard_time": 1681397671,
+      "rank": 39,
+      "category": "社会议题"
     },
     {
       "raw_hot": 168109,
@@ -10003,6 +10075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139827,
+      "num": 139827,
+      "word": "一诺狄仁杰三连决胜",
+      "onboard_time": 1681397555,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139080,
       "num": 139080,
       "word": "网友P的罗云熙白鹿公主抱",
@@ -10033,6 +10113,14 @@
       "onboard_time": 1681356568,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136936,
+      "num": 136936,
+      "word": "崔胜澈 克拉盘",
+      "onboard_time": 1681399054,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136914,

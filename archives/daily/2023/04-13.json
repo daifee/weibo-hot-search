@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681396415552,
+  "endTime": 1681399081090,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -251,6 +251,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 981588,
+      "num": 981588,
+      "word": "肌肤饥渴症",
+      "onboard_time": 1681394555,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 978314,
       "num": 978314,
       "word": "你是尿眠体吗",
@@ -345,6 +353,14 @@
       "onboard_time": 1681393714,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 797060,
+      "num": 263824,
+      "word": "你能接受另一半捐精吗",
+      "onboard_time": 1681397731,
+      "rank": 10,
+      "category": "社会议题"
     },
     {
       "raw_hot": 797035,
@@ -611,12 +627,28 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 565561,
-      "num": 565561,
+      "raw_hot": 570058,
+      "num": 570058,
       "word": "易烊千玺石上鸟胸针",
       "onboard_time": 1681387769,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 568535,
+      "num": 568535,
+      "word": "SEVENTEEN新歌FML概念视频",
+      "onboard_time": 1681398992,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 563348,
+      "num": 563348,
+      "word": "井汲大翔淘汰",
+      "onboard_time": 1681395334,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 561274,
@@ -649,6 +681,14 @@
       "onboard_time": 1681381770,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529078,
+      "num": 205011,
+      "word": "Angelababy戴的项链预估价格九位数",
+      "onboard_time": 1681397432,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 527594,
@@ -819,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 450888,
-      "num": 431388,
-      "word": "井汲大翔淘汰",
-      "onboard_time": 1681395334,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 433814,
       "num": 243839,
       "word": "田曦薇吊带珍珠纱裙",
@@ -873,6 +905,14 @@
       "onboard_time": 1681346912,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421523,
+      "num": 212857,
+      "word": "二十五六岁谈段恋爱有多难",
+      "onboard_time": 1681395993,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 421454,
@@ -1187,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313823,
+      "num": 255083,
+      "word": "虞书欣首张个人EP收官vlog",
+      "onboard_time": 1681397854,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 311897,
       "num": 311897,
       "word": "王子浩镜头多了",
@@ -1393,14 +1441,6 @@
       "onboard_time": 1681390652,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268635,
-      "num": 268635,
-      "word": "肌肤饥渴症",
-      "onboard_time": 1681394555,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 263789,
@@ -1619,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 230191,
+      "num": 230191,
+      "word": "引发烟台山火嫌疑人已被刑拘",
+      "onboard_time": 1681398333,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 230132,
       "num": 230132,
       "word": "可能一辈子都用不上的东西",
@@ -1683,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224434,
+      "num": 224434,
+      "word": "体重48公斤被学校谈话",
+      "onboard_time": 1681398392,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222645,
       "num": 212770,
       "word": "冥夜小作文",
@@ -1720,6 +1776,22 @@
       "word": "杨烁李萌萌吻戏",
       "onboard_time": 1681394373,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 218667,
+      "num": 209858,
+      "word": "钟楚曦说又见我的女人何穗",
+      "onboard_time": 1681396294,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218384,
+      "num": 205886,
+      "word": "影评人说王一博无名表演印象深刻",
+      "onboard_time": 1681394915,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -1793,14 +1865,6 @@
       "onboard_time": 1681371148,
       "rank": 47,
       "category": "科技,情感"
-    },
-    {
-      "raw_hot": 205886,
-      "num": 205886,
-      "word": "影评人说王一博无名表演印象深刻",
-      "onboard_time": 1681394915,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 205532,
@@ -1995,14 +2059,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 198163,
-      "num": 198163,
-      "word": "二十五六岁谈段恋爱有多难",
-      "onboard_time": 1681395993,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 197393,
       "num": 197393,
       "word": "一起露营吧2嘉宾真实精神状态",
@@ -2115,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192759,
+      "num": 192759,
+      "word": "AG战胜KSG",
+      "onboard_time": 1681398269,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192694,
       "num": 192694,
       "word": "阿云嘎渐变灰西装造型",
@@ -2169,14 +2233,6 @@
       "onboard_time": 1681352906,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 190093,
-      "num": 190093,
-      "word": "钟楚曦说又见我的女人何穗",
-      "onboard_time": 1681396294,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 189910,
@@ -2363,6 +2419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175180,
+      "num": 175180,
+      "word": "KSG廉颇打野",
+      "onboard_time": 1681396593,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173679,
       "num": 173679,
       "word": "北影节将放映悲情城市4K数字版",
@@ -2457,6 +2521,14 @@
       "onboard_time": 1681308092,
       "rank": 28,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 168346,
+      "num": 174756,
+      "word": "外卖配送费多少钱你能接受",
+      "onboard_time": 1681397671,
+      "rank": 39,
+      "category": "社会议题"
     },
     {
       "raw_hot": 167228,
@@ -2723,12 +2795,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139827,
+      "num": 139827,
+      "word": "一诺狄仁杰三连决胜",
+      "onboard_time": 1681397555,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137683,
       "num": 137683,
       "word": "为什么说销售是最磨炼人的岗位",
       "onboard_time": 1681356568,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136936,
+      "num": 136936,
+      "word": "崔胜澈 克拉盘",
+      "onboard_time": 1681399054,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136914,
