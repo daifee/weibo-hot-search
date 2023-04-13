@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681384461030,
+  "endTime": 1681385624685,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2307,6 +2307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1199611,
+      "num": 1199611,
+      "word": "周冬雨刘昊然主演电影入围戛纳",
+      "onboard_time": 1681383210,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1198638,
       "num": 557085,
       "word": "虞书欣泳衣旧照",
@@ -3707,14 +3715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 868563,
-      "num": 868563,
-      "word": "周冬雨刘昊然主演电影入围戛纳",
-      "onboard_time": 1681383210,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 867570,
       "num": 867570,
       "word": "王楚钦",
@@ -5035,6 +5035,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 699416,
+      "num": 699416,
+      "word": "三峡移民",
+      "onboard_time": 1681380151,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 699244,
       "num": 699244,
       "word": "长月烬明陈都灵邓为戏份",
@@ -5281,14 +5289,6 @@
       "onboard_time": 1680751408,
       "rank": 40,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 676165,
-      "num": 676165,
-      "word": "三峡移民",
-      "onboard_time": 1681380151,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 674631,
@@ -7308,7 +7308,7 @@
     },
     {
       "raw_hot": 534117,
-      "num": 421716,
+      "num": 421884,
       "word": "张信哲粉丝为20年前的行为道歉",
       "onboard_time": 1681381770,
       "rank": 32,
@@ -9475,6 +9475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 421454,
+      "num": 421454,
+      "word": "教资面试",
+      "onboard_time": 1681384888,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 420850,
       "num": 420850,
       "word": "张柏芝路透状态",
@@ -10505,6 +10513,14 @@
       "onboard_time": 1680767369,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 385437,
+      "num": 218086,
+      "word": "张小年回应",
+      "onboard_time": 1681384587,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 385270,
@@ -15555,6 +15571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247274,
+      "num": 247274,
+      "word": "叶冰裳黑化了",
+      "onboard_time": 1681384949,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246824,
       "num": 243220,
       "word": "ive新歌和你xx的适配度",
@@ -17227,11 +17251,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220704,
+      "num": 220704,
+      "word": "SJM直播合体",
+      "onboard_time": 1681384828,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220571,
       "num": 220571,
       "word": "尘封十三载",
       "onboard_time": 1680750207,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220562,
+      "num": 220562,
+      "word": "薄冰富大龙董洁对手戏",
+      "onboard_time": 1681383808,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -19011,6 +19051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204763,
+      "num": 204763,
+      "word": "奇妙之城2今日收官",
+      "onboard_time": 1681384651,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204671,
       "num": 204671,
       "word": "秦岚张峻宁对手戏花絮",
@@ -19185,6 +19233,14 @@
       "onboard_time": 1680767609,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204078,
+      "num": 204078,
+      "word": "冥夜小作文",
+      "onboard_time": 1681384707,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 204073,
@@ -19931,6 +19987,14 @@
       "category": "科技,自然"
     },
     {
+      "raw_hot": 200966,
+      "num": 200966,
+      "word": "TF家族三代演唱会彩排路透",
+      "onboard_time": 1681384651,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200947,
       "num": 200947,
       "word": "敖瑞鹏首登时尚芭莎",
@@ -20081,6 +20145,14 @@
       "onboard_time": 1681046669,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200391,
+      "num": 200391,
+      "word": "安宥真kitschMCD直拍",
+      "onboard_time": 1681385310,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 200354,
@@ -20449,6 +20521,14 @@
       "onboard_time": 1680621271,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198788,
+      "num": 198788,
+      "word": "张元英棒球服造型直拍",
+      "onboard_time": 1681385427,
+      "rank": 40,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 198741,
@@ -22283,14 +22363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189128,
-      "num": 189128,
-      "word": "薄冰富大龙董洁对手戏",
-      "onboard_time": 1681383808,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189072,
       "num": 189072,
       "word": "罗云熙长月烬明角色诠释度",
@@ -23579,6 +23651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180176,
+      "num": 180176,
+      "word": "性单恋人群怎么谈恋爱",
+      "onboard_time": 1681385067,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180138,
       "num": 180138,
       "word": "无刺榴莲",
@@ -24257,6 +24337,14 @@
       "onboard_time": 1680609627,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171535,
+      "num": 295722,
+      "word": "建议不要在车里睡觉",
+      "onboard_time": 1681384051,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 171441,
@@ -25419,6 +25507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160615,
+      "num": 160615,
+      "word": "B站修改活动规则",
+      "onboard_time": 1681383690,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160271,
       "num": 160271,
       "word": "女子走独木桥男子用脚猛踹",
@@ -25891,6 +25987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155095,
+      "num": 818776,
+      "word": "快艇师傅6秒扑进河中救落水男童",
+      "onboard_time": 1681381651,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 155072,
       "num": 168233,
       "word": "柯基已经感到不妙了",
@@ -26065,14 +26169,6 @@
       "onboard_time": 1681359331,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153830,
-      "num": 159411,
-      "word": "建议不要在车里睡觉",
-      "onboard_time": 1681384051,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 153658,
@@ -26827,14 +26923,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 146427,
-      "num": 146427,
-      "word": "B站修改活动规则",
-      "onboard_time": 1681383690,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 146418,
       "num": 146418,
       "word": "献给所有为新中国付出鲜血和生命的人",
@@ -27377,14 +27465,6 @@
       "onboard_time": 1680269608,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140347,
-      "num": 747276,
-      "word": "快艇师傅6秒扑进河中救落水男童",
-      "onboard_time": 1681381651,
-      "rank": 4,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 140305,
