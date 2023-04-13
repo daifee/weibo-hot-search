@@ -1,0 +1,410 @@
+{
+  "runTime": 1681396415552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1444495,
+        "num": 1444495,
+        "word": "陈妍希问陈晓凶手到底是谁",
+        "onboard_time": 1681391131,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 768726,
+        "num": 768726,
+        "word": "孙颖莎vs伊藤美诚",
+        "onboard_time": 1681393714,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42694,
+        "num": 644701,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1681391671,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632184,
+        "num": 632184,
+        "word": "罗云熙白鹿发文告别冥夜桑酒",
+        "onboard_time": 1681389510,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 607337,
+        "num": 607337,
+        "word": "我国制裁一名美国反华议员",
+        "onboard_time": 1681391671,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 604445,
+        "num": 604445,
+        "word": "泫雅ins为金晓钟宣传新歌",
+        "onboard_time": 1681393114,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 569214,
+        "num": 569214,
+        "word": "李天泽中音音乐学系专业第一",
+        "onboard_time": 1681392092,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565561,
+        "num": 565561,
+        "word": "易烊千玺石上鸟胸针",
+        "onboard_time": 1681387769,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 521580,
+        "num": 521580,
+        "word": "烟台山火",
+        "onboard_time": 1681392811,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450151,
+        "num": 450151,
+        "word": "马琳离场",
+        "onboard_time": 1681389693,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 960874,
+        "num": 437317,
+        "word": "李湘回应王诗龄汉服造型",
+        "onboard_time": 1681386927,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450888,
+        "num": 431388,
+        "word": "井汲大翔淘汰",
+        "onboard_time": 1681395334,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418909,
+        "num": 418909,
+        "word": "教资69",
+        "onboard_time": 1681386026,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404980,
+        "num": 404980,
+        "word": "王子浩淘汰",
+        "onboard_time": 1681395633,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347814,
+        "num": 347814,
+        "word": "王皓表情",
+        "onboard_time": 1681391911,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336220,
+        "num": 336220,
+        "word": "叶冰裳黑化了",
+        "onboard_time": 1681384949,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323143,
+        "num": 323143,
+        "word": "徐峥应该上综艺节目吗",
+        "onboard_time": 1681386148,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 285904,
+        "num": 285904,
+        "word": "没有瑕疵的女性主义者",
+        "onboard_time": 1681394132,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275339,
+        "num": 275339,
+        "word": "周冬雨刘昊然主演电影入围戛纳",
+        "onboard_time": 1681383210,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 268635,
+        "num": 268635,
+        "word": "肌肤饥渴症",
+        "onboard_time": 1681394555,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568589,
+        "num": 265044,
+        "word": "北大全嘻嘻 清华张小年",
+        "onboard_time": 1681378889,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 465352,
+        "num": 262435,
+        "word": "大三学生给同学洗鞋2个月赚8万",
+        "onboard_time": 1681387168,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459431,
+        "num": 259338,
+        "word": "何悯鸿怀孕",
+        "onboard_time": 1681389090,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336727,
+        "num": 252798,
+        "word": "西瓜被兔子咬了一千多口",
+        "onboard_time": 1681391250,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274641,
+        "num": 251244,
+        "word": "性单恋人群怎么谈恋爱",
+        "onboard_time": 1681385067,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 411884,
+        "num": 243839,
+        "word": "田曦薇吊带珍珠纱裙",
+        "onboard_time": 1681392994,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 338394,
+        "num": 242588,
+        "word": "杨颖金色抹胸长裙",
+        "onboard_time": 1681389028,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239611,
+        "num": 239611,
+        "word": "孙颖莎3比1伊藤美诚",
+        "onboard_time": 1681394854,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82087,
+        "num": 239345,
+        "word": "别克这次掀到地板了",
+        "onboard_time": 1681392632,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 106160,
+        "num": 238631,
+        "word": "2023教资笔试查分",
+        "onboard_time": 1681382551,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1102816,
+        "num": 237892,
+        "word": "我国未婚女性不能申请精子库",
+        "onboard_time": 1681386026,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 750170,
+        "num": 237182,
+        "word": "曝张继科已生子",
+        "onboard_time": 1681377569,
+        "rank": 31,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 236863,
+        "num": 236863,
+        "word": "华晨宇再为那英队拿下金曲",
+        "onboard_time": 1681390652,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223264,
+        "num": 223264,
+        "word": "澹台烬是个学人烬",
+        "onboard_time": 1681389329,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220909,
+        "num": 220909,
+        "word": "赵露思黑色吊带长裙",
+        "onboard_time": 1681387108,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218068,
+        "num": 218068,
+        "word": "杨烁李萌萌吻戏",
+        "onboard_time": 1681394373,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215263,
+        "num": 215263,
+        "word": "离职一个月了还要教新人",
+        "onboard_time": 1681374811,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213294,
+        "num": 213294,
+        "word": "张杰身骑白马戏腔",
+        "onboard_time": 1681388669,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212350,
+        "num": 212350,
+        "word": "银行发现7位数存款5年未动急寻人",
+        "onboard_time": 1681374267,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211153,
+        "num": 211153,
+        "word": "王国之泪最终预告",
+        "onboard_time": 1681396053,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205886,
+        "num": 205886,
+        "word": "影评人说王一博无名表演印象深刻",
+        "onboard_time": 1681394915,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205525,
+        "num": 205525,
+        "word": "BoysPlanet三顺排名",
+        "onboard_time": 1681391969,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198163,
+        "num": 198163,
+        "word": "二十五六岁谈段恋爱有多难",
+        "onboard_time": 1681395993,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201176,
+        "num": 195302,
+        "word": "Ricky首进出道位",
+        "onboard_time": 1681396172,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190093,
+        "num": 190093,
+        "word": "钟楚曦说又见我的女人何穗",
+        "onboard_time": 1681396294,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186985,
+        "num": 186985,
+        "word": "怪不得公交车要自己一个道",
+        "onboard_time": 1681385909,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126014,
+        "num": 186474,
+        "word": "为什么辣条左上角都带一寸照片",
+        "onboard_time": 1681373908,
+        "rank": 46,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 118052,
+        "num": 186347,
+        "word": "AG对战KSG",
+        "onboard_time": 1681390890,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186261,
+        "num": 186261,
+        "word": "春楠晒杨颖怼脸视频",
+        "onboard_time": 1681395399,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86533,
+        "num": 185238,
+        "word": "好心疼这些电池",
+        "onboard_time": 1681393413,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广州市考察调研#"
+    }
+  }
+}

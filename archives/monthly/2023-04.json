@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681395372485,
+  "endTime": 1681396415552,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1915,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1444495,
+      "num": 1444495,
+      "word": "陈妍希问陈晓凶手到底是谁",
+      "onboard_time": 1681391131,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1437150,
       "num": 1245598,
       "word": "官方通报禁止村民栽种蔬菜瓜果",
@@ -2161,14 +2169,6 @@
       "onboard_time": 1680408267,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1303422,
-      "num": 1303422,
-      "word": "陈妍希问陈晓凶手到底是谁",
-      "onboard_time": 1681391131,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 1288162,
@@ -6859,6 +6859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 565561,
+      "num": 565561,
+      "word": "易烊千玺石上鸟胸针",
+      "onboard_time": 1681387769,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 564040,
       "num": 564040,
       "word": "面包脑袋",
@@ -7161,14 +7169,6 @@
       "onboard_time": 1680753027,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544866,
-      "num": 544866,
-      "word": "易烊千玺石上鸟胸针",
-      "onboard_time": 1681387769,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 544237,
@@ -7657,6 +7657,14 @@
       "onboard_time": 1680608069,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 521580,
+      "num": 521580,
+      "word": "烟台山火",
+      "onboard_time": 1681392811,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521368,
@@ -9003,6 +9011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 450888,
+      "num": 431388,
+      "word": "井汲大翔淘汰",
+      "onboard_time": 1681395334,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 450743,
       "num": 450743,
       "word": "湖南一家族20多人献了45万毫升血",
@@ -9276,7 +9292,7 @@
     },
     {
       "raw_hot": 433814,
-      "num": 243462,
+      "num": 243839,
       "word": "田曦薇吊带珍珠纱裙",
       "onboard_time": 1681392994,
       "rank": 25,
@@ -10083,6 +10099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404980,
+      "num": 404980,
+      "word": "王子浩淘汰",
+      "onboard_time": 1681395633,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404972,
       "num": 404972,
       "word": "迪丽热巴开机图",
@@ -10873,14 +10897,6 @@
       "onboard_time": 1681224150,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 376275,
-      "num": 376275,
-      "word": "烟台山火",
-      "onboard_time": 1681392811,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375457,
@@ -14019,6 +14035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 285904,
+      "num": 285904,
+      "word": "没有瑕疵的女性主义者",
+      "onboard_time": 1681394132,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285832,
       "num": 285832,
       "word": "华为回应什么时候可以再造5G手机",
@@ -14785,6 +14809,14 @@
       "onboard_time": 1680918750,
       "rank": 25,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 268635,
+      "num": 268635,
+      "word": "肌肤饥渴症",
+      "onboard_time": 1681394555,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 268466,
@@ -16235,6 +16267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239611,
+      "num": 239611,
+      "word": "孙颖莎3比1伊藤美诚",
+      "onboard_time": 1681394854,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239489,
       "num": 239489,
       "word": "369酒桶",
@@ -16521,14 +16561,6 @@
       "onboard_time": 1681364608,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234815,
-      "num": 243972,
-      "word": "没有瑕疵的女性主义者",
-      "onboard_time": 1681394132,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 234680,
@@ -17361,14 +17393,6 @@
       "onboard_time": 1680789873,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222831,
-      "num": 222831,
-      "word": "孙颖莎3比1伊藤美诚",
-      "onboard_time": 1681394854,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 222730,
@@ -18379,6 +18403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211153,
+      "num": 211153,
+      "word": "王国之泪最终预告",
+      "onboard_time": 1681396053,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211067,
       "num": 211067,
       "word": "陈晓十六问高加林",
@@ -19169,6 +19201,14 @@
       "onboard_time": 1680755498,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205886,
+      "num": 205886,
+      "word": "影评人说王一博无名表演印象深刻",
+      "onboard_time": 1681394915,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 205885,
@@ -20299,6 +20339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201176,
+      "num": 195302,
+      "word": "Ricky首进出道位",
+      "onboard_time": 1681396172,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201174,
       "num": 201174,
       "word": "詹姆斯37分",
@@ -21009,6 +21057,14 @@
       "onboard_time": 1680328952,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198163,
+      "num": 198163,
+      "word": "二十五六岁谈段恋爱有多难",
+      "onboard_time": 1681395993,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 198142,
@@ -22475,14 +22531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190599,
-      "num": 190599,
-      "word": "影评人说王一博无名表演印象深刻",
-      "onboard_time": 1681394915,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190596,
       "num": 190596,
       "word": "毛不易唱爱很美味片尾曲",
@@ -22601,6 +22649,14 @@
       "onboard_time": 1680530978,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190093,
+      "num": 190093,
+      "word": "钟楚曦说又见我的女人何穗",
+      "onboard_time": 1681396294,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 190078,
@@ -23273,6 +23329,14 @@
       "onboard_time": 1680787955,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186261,
+      "num": 186261,
+      "word": "春楠晒杨颖怼脸视频",
+      "onboard_time": 1681395399,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186136,
@@ -26707,14 +26771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153137,
-      "num": 153137,
-      "word": "井汲大翔淘汰",
-      "onboard_time": 1681395334,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153131,
       "num": 153131,
       "word": "樊振东3比1李尚洙",
@@ -29484,7 +29540,7 @@
     },
     {
       "raw_hot": 121057,
-      "num": 189466,
+      "num": 239345,
       "word": "别克这次掀到地板了",
       "onboard_time": 1681392632,
       "rank": 44,
@@ -31107,6 +31163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86533,
+      "num": 185238,
+      "word": "好心疼这些电池",
+      "onboard_time": 1681393413,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 86500,
       "num": 86500,
       "word": "学生进入货车盲区交警吹哨截停",
@@ -31305,14 +31369,6 @@
       "onboard_time": 1680622050,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 74937,
-      "num": 149908,
-      "word": "好心疼这些电池",
-      "onboard_time": 1681393413,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 74649,
