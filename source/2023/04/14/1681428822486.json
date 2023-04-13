@@ -1,0 +1,410 @@
+{
+  "runTime": 1681428822486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 394821,
+        "num": 394821,
+        "word": "引发烟台山火嫌疑人已被刑拘",
+        "onboard_time": 1681398333,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 335380,
+        "num": 335380,
+        "word": "体重48公斤被学校谈话",
+        "onboard_time": 1681398392,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22173,
+        "num": 294377,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1681391671,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256846,
+        "num": 256846,
+        "word": "陈妍希问陈晓凶手到底是谁",
+        "onboard_time": 1681391131,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251992,
+        "num": 251992,
+        "word": "烟台山火",
+        "onboard_time": 1681392811,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172047,
+        "num": 172047,
+        "word": "中国中车",
+        "onboard_time": 1681401209,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143328,
+        "num": 143328,
+        "word": "曼联2比2塞维利亚",
+        "onboard_time": 1681427542,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114646,
+        "num": 114646,
+        "word": "我国制裁一名美国反华议员",
+        "onboard_time": 1681391671,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 113051,
+        "num": 113051,
+        "word": "周冬雨刘昊然主演电影入围戛纳",
+        "onboard_time": 1681383210,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108635,
+        "num": 108635,
+        "word": "烟台黄渤海迷笛音乐节",
+        "onboard_time": 1681390829,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 224013,
+        "num": 108459,
+        "word": "李湘回应王诗龄汉服造型",
+        "onboard_time": 1681386927,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178810,
+        "num": 108238,
+        "word": "五角大楼军机泄密者是20多岁小伙",
+        "onboard_time": 1681427542,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137354,
+        "num": 107827,
+        "word": "为啥一块钱打火机20年不涨价",
+        "onboard_time": 1681400908,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 136975,
+        "num": 107260,
+        "word": "李天泽中音音乐学系专业第一",
+        "onboard_time": 1681392092,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123626,
+        "num": 106948,
+        "word": "大熊猫已经给乌鸦足够的体面",
+        "onboard_time": 1681428021,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106874,
+        "num": 106874,
+        "word": "罗云熙白鹿发文告别冥夜桑酒",
+        "onboard_time": 1681389510,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116332,
+        "num": 106671,
+        "word": "你能接受另一半捐精吗",
+        "onboard_time": 1681397731,
+        "rank": 16,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 112578,
+        "num": 106439,
+        "word": "B站就上传用户真人照片致歉",
+        "onboard_time": 1681413434,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 106110,
+        "num": 106110,
+        "word": "林俊杰新歌愿与愁",
+        "onboard_time": 1681428262,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98948,
+        "num": 98948,
+        "word": "马琳离场",
+        "onboard_time": 1681389693,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570534,
+        "num": 98486,
+        "word": "北大全嘻嘻 清华张小年",
+        "onboard_time": 1681378889,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 271774,
+        "num": 96873,
+        "word": "16岁女孩经常胃胀被查出胃癌晚期",
+        "onboard_time": 1681400130,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186605,
+        "num": 94299,
+        "word": "大三学生给同学洗鞋2个月赚8万",
+        "onboard_time": 1681387168,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154350,
+        "num": 92541,
+        "word": "江疏影李浩菲直播用假手握手",
+        "onboard_time": 1681409715,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103137,
+        "num": 90204,
+        "word": "性单恋人群怎么谈恋爱",
+        "onboard_time": 1681385067,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90119,
+        "num": 90119,
+        "word": "何悯鸿怀孕",
+        "onboard_time": 1681389090,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89412,
+        "num": 89412,
+        "word": "泫雅ins为金晓钟宣传新歌",
+        "onboard_time": 1681393114,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87941,
+        "num": 87941,
+        "word": "二十五六岁谈段恋爱有多难",
+        "onboard_time": 1681395993,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77430,
+        "num": 77430,
+        "word": "SEVENTEEN新歌FML概念视频",
+        "onboard_time": 1681398992,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75290,
+        "num": 75290,
+        "word": "肌肤饥渴症",
+        "onboard_time": 1681394555,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432067,
+        "num": 75239,
+        "word": "我国未婚女性不能申请精子库",
+        "onboard_time": 1681386026,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140381,
+        "num": 74586,
+        "word": "徐峥未持有TST公司股权",
+        "onboard_time": 1681419132,
+        "rank": 31,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 117766,
+        "num": 74131,
+        "word": "苏醒曾因为舞台事故甩脸",
+        "onboard_time": 1681408878,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84886,
+        "num": 73277,
+        "word": "Angelababy戴的项链预估价格九位数",
+        "onboard_time": 1681397432,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 81336,
+        "num": 72803,
+        "word": "涉疫货车司机仍被监视居住",
+        "onboard_time": 1681428323,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72587,
+        "num": 72587,
+        "word": "服美役",
+        "onboard_time": 1681419732,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 74554,
+        "num": 72507,
+        "word": "湖北博物馆鸡蛋都是编钟的",
+        "onboard_time": 1681400250,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71852,
+        "num": 71852,
+        "word": "温婉变身如月郡主上线",
+        "onboard_time": 1681423934,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71835,
+        "num": 71835,
+        "word": "路西法黑脸",
+        "onboard_time": 1681400549,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65959,
+        "num": 65959,
+        "word": "西瓜被兔子咬了一千多口",
+        "onboard_time": 1681391250,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60344,
+        "num": 60344,
+        "word": "易烊千玺活动下车视频",
+        "onboard_time": 1681428743,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58766,
+        "num": 58766,
+        "word": "突然觉得长大了真的很好",
+        "onboard_time": 1681399709,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56093,
+        "num": 56093,
+        "word": "赵露思黑色吊带长裙",
+        "onboard_time": 1681387108,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53514,
+        "num": 53514,
+        "word": "井汲大翔淘汰",
+        "onboard_time": 1681395334,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50750,
+        "num": 50750,
+        "word": "45元兰州牛肉拉面",
+        "onboard_time": 1681419073,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50226,
+        "num": 50226,
+        "word": "司机车祸山东大哥手撕车窗救人",
+        "onboard_time": 1681428502,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 49825,
+        "num": 49825,
+        "word": "叶冰裳黑化了",
+        "onboard_time": 1681384949,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47899,
+        "num": 47899,
+        "word": "尘封十三载",
+        "onboard_time": 1681428682,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45197,
+        "num": 45197,
+        "word": "王国之泪最终预告",
+        "onboard_time": 1681396053,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43605,
+        "num": 43605,
+        "word": "声生不息",
+        "onboard_time": 1681388310,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广州市考察调研#"
+    }
+  }
+}

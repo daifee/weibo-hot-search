@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681427847077,
+  "endTime": 1681428822486,
   "band_list": [
     {
       "raw_hot": 1468739,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 570534,
+      "num": 187794,
+      "word": "北大全嘻嘻 清华张小年",
+      "onboard_time": 1681378889,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 560889,
       "num": 560889,
       "word": "陈妍希问陈晓凶手到底是谁",
       "onboard_time": 1681391131,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497550,
-      "num": 187794,
-      "word": "北大全嘻嘻 清华张小年",
-      "onboard_time": 1681378889,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 418419,
@@ -57,6 +57,14 @@
       "onboard_time": 1681394555,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 394821,
+      "num": 394821,
+      "word": "引发烟台山火嫌疑人已被刑拘",
+      "onboard_time": 1681398333,
+      "rank": 7,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 366918,
@@ -81,14 +89,6 @@
       "onboard_time": 1681387769,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 337469,
-      "num": 337469,
-      "word": "引发烟台山火嫌疑人已被刑拘",
-      "onboard_time": 1681398333,
-      "rank": 7,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 331328,
@@ -137,6 +137,14 @@
       "onboard_time": 1681400549,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 251992,
+      "num": 251992,
+      "word": "烟台山火",
+      "onboard_time": 1681392811,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236255,
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202632,
-      "num": 202632,
-      "word": "烟台山火",
-      "onboard_time": 1681392811,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198333,
       "num": 153588,
       "word": "外卖配送费多少钱你能接受",
@@ -235,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178810,
+      "num": 108238,
+      "word": "五角大楼军机泄密者是20多岁小伙",
+      "onboard_time": 1681427542,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171559,
       "num": 171559,
       "word": "虞书欣首张个人EP收官vlog",
@@ -249,6 +257,14 @@
       "onboard_time": 1681385067,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154350,
+      "num": 92541,
+      "word": "江疏影李浩菲直播用假手握手",
+      "onboard_time": 1681409715,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 152622,
@@ -267,12 +283,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 143328,
+      "num": 143328,
+      "word": "曼联2比2塞维利亚",
+      "onboard_time": 1681427542,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142814,
       "num": 142814,
       "word": "洪知秀 特典",
       "onboard_time": 1681402348,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140381,
+      "num": 74586,
+      "word": "徐峥未持有TST公司股权",
+      "onboard_time": 1681419132,
+      "rank": 31,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 139797,
@@ -288,14 +320,6 @@
       "word": "澹台烬是个学人烬",
       "onboard_time": 1681389329,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 136426,
-      "num": 65441,
-      "word": "江疏影李浩菲直播用假手握手",
-      "onboard_time": 1681409715,
-      "rank": 47,
       "category": "影视"
     },
     {
@@ -315,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125627,
-      "num": 64708,
-      "word": "徐峥未持有TST公司股权",
-      "onboard_time": 1681419132,
-      "rank": 31,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 124592,
       "num": 124592,
       "word": "张杰身骑白马戏腔",
@@ -331,11 +347,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123626,
+      "num": 106948,
+      "word": "大熊猫已经给乌鸦足够的体面",
+      "onboard_time": 1681428021,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120974,
       "num": 120974,
       "word": "华晨宇再为那英队拿下金曲",
       "onboard_time": 1681390652,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117766,
+      "num": 74131,
+      "word": "苏醒曾因为舞台事故甩脸",
+      "onboard_time": 1681408878,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -347,20 +379,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116340,
-      "num": 64673,
-      "word": "苏醒曾因为舞台事故甩脸",
-      "onboard_time": 1681408878,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 109765,
-      "num": 109765,
+      "raw_hot": 113051,
+      "num": 113051,
       "word": "周冬雨刘昊然主演电影入围戛纳",
       "onboard_time": 1681383210,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112578,
+      "num": 106439,
+      "word": "B站就上传用户真人照片致歉",
+      "onboard_time": 1681413434,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 108635,
+      "num": 108635,
+      "word": "烟台黄渤海迷笛音乐节",
+      "onboard_time": 1681390829,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 107280,
@@ -371,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106110,
+      "num": 106110,
+      "word": "林俊杰新歌愿与愁",
+      "onboard_time": 1681428262,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 100730,
       "num": 100730,
       "word": "王国之泪最终预告",
@@ -379,11 +427,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 94509,
-      "num": 79622,
-      "word": "曼联2比2塞维利亚",
-      "onboard_time": 1681427542,
-      "rank": 13,
+      "raw_hot": 98948,
+      "num": 98948,
+      "word": "马琳离场",
+      "onboard_time": 1681389693,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -411,20 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 81609,
-      "num": 78226,
-      "word": "B站就上传用户真人照片致歉",
-      "onboard_time": 1681413434,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 80168,
-      "num": 80168,
-      "word": "马琳离场",
-      "onboard_time": 1681389693,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 81336,
+      "num": 72803,
+      "word": "涉疫货车司机仍被监视居住",
+      "onboard_time": 1681428323,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77308,
@@ -435,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71852,
+      "num": 71852,
+      "word": "温婉变身如月郡主上线",
+      "onboard_time": 1681423934,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 68597,
       "num": 68597,
       "word": "45元兰州牛肉拉面",
@@ -443,20 +491,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 68226,
-      "num": 64911,
-      "word": "温婉变身如月郡主上线",
-      "onboard_time": 1681423934,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 63895,
-      "num": 63895,
-      "word": "烟台黄渤海迷笛音乐节",
-      "onboard_time": 1681390829,
-      "rank": 35,
-      "category": "音乐"
+      "raw_hot": 60344,
+      "num": 60344,
+      "word": "易烊千玺活动下车视频",
+      "onboard_time": 1681428743,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 54202,
@@ -475,6 +515,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 50226,
+      "num": 50226,
+      "word": "司机车祸山东大哥手撕车窗救人",
+      "onboard_time": 1681428502,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 47899,
+      "num": 47899,
+      "word": "尘封十三载",
+      "onboard_time": 1681428682,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 43956,
       "num": 43956,
       "word": "那些尝试但失败了的副业",
@@ -483,12 +539,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 41156,
-      "num": 64814,
-      "word": "五角大楼军机泄密者是20多岁小伙",
-      "onboard_time": 1681427542,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 43605,
+      "num": 43605,
+      "word": "声生不息",
+      "onboard_time": 1681388310,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 36398,
@@ -497,14 +553,6 @@
       "onboard_time": 1681416613,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 33574,
-      "num": 33574,
-      "word": "声生不息",
-      "onboard_time": 1681388310,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 31523,
@@ -531,7 +579,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19679,
+      "raw_hot": 22173,
       "num": 436185,
       "word": "钢铁丝路好风光",
       "onboard_time": 1681391671,
