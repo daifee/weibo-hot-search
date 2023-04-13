@@ -1,0 +1,410 @@
+{
+  "runTime": 1681384461030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796971,
+        "num": 1796971,
+        "word": "2023教资笔试查分",
+        "onboard_time": 1681382551,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1287451,
+        "num": 1287451,
+        "word": "离职一个月了还要教新人",
+        "onboard_time": 1681374811,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13681,
+        "num": 1031848,
+        "word": "一组高频数据看消费回暖",
+        "onboard_time": 1681354588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868563,
+        "num": 868563,
+        "word": "周冬雨刘昊然主演电影入围戛纳",
+        "onboard_time": 1681383210,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140347,
+        "num": 736111,
+        "word": "快艇师傅6秒扑进河中救落水男童",
+        "onboard_time": 1681381651,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 681186,
+        "num": 681186,
+        "word": "YG否认朴彩英吸毒",
+        "onboard_time": 1681378651,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581259,
+        "num": 678013,
+        "word": "老板允许学生用满分试卷换雪糕",
+        "onboard_time": 1681381709,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 676165,
+        "num": 676165,
+        "word": "三峡移民",
+        "onboard_time": 1681380151,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568313,
+        "num": 568313,
+        "word": "被狗抓破 狂犬病",
+        "onboard_time": 1681376608,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523125,
+        "num": 523125,
+        "word": "1.4亿65岁以上老人与多病共存",
+        "onboard_time": 1681379191,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2439266,
+        "num": 503080,
+        "word": "清华张小年 人类精子库",
+        "onboard_time": 1681373851,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1225345,
+        "num": 483610,
+        "word": "曝张继科已生子",
+        "onboard_time": 1681377569,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 625027,
+        "num": 457566,
+        "word": "成龙口误说很高兴和烂演员合作",
+        "onboard_time": 1681368928,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 534117,
+        "num": 421716,
+        "word": "张信哲粉丝为20年前的行为道歉",
+        "onboard_time": 1681381770,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 419729,
+        "num": 419729,
+        "word": "胡歌微博编辑记录",
+        "onboard_time": 1681372227,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342800,
+        "num": 342800,
+        "word": "徐峥",
+        "onboard_time": 1681371986,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 341100,
+        "num": 341100,
+        "word": "罗云熙白鹿时尚芭莎合体大片",
+        "onboard_time": 1681379429,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324870,
+        "num": 324870,
+        "word": "女子买房送超大阳台封窗却要20多万",
+        "onboard_time": 1681368808,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312990,
+        "num": 312990,
+        "word": "B站活动上传用户真人照片",
+        "onboard_time": 1681371986,
+        "rank": 18,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 278249,
+        "num": 278249,
+        "word": "员工因不批假与领导吵架牵出吃空饷",
+        "onboard_time": 1681371986,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1998673,
+        "num": 276011,
+        "word": "北大全嘻嘻 清华张小年",
+        "onboard_time": 1681378889,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 381719,
+        "num": 275362,
+        "word": "银行发现7位数存款5年未动急寻人",
+        "onboard_time": 1681374267,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331888,
+        "num": 272610,
+        "word": "易梦玲黑裙",
+        "onboard_time": 1681380330,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 267926,
+        "num": 267926,
+        "word": "刘奕君 你这样很失态",
+        "onboard_time": 1681374569,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257563,
+        "num": 257563,
+        "word": "IVE新歌MCD回归舞台",
+        "onboard_time": 1681382310,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252847,
+        "num": 252847,
+        "word": "为什么辣条左上角都带一寸照片",
+        "onboard_time": 1681373908,
+        "rank": 25,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 231965,
+        "num": 231965,
+        "word": "白化病女孩迎光拍照被称像裘千尺",
+        "onboard_time": 1681378889,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215721,
+        "num": 215721,
+        "word": "周星驰最想对达叔说的话",
+        "onboard_time": 1681378590,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213879,
+        "num": 213879,
+        "word": "优酷回应非会员遇3000多秒广告",
+        "onboard_time": 1681363590,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 197108,
+        "num": 197108,
+        "word": "刘亦菲发库存vlog",
+        "onboard_time": 1681378590,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196929,
+        "num": 196929,
+        "word": "美国奶牛厂爆炸18000头牛死亡",
+        "onboard_time": 1681364908,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196588,
+        "num": 196588,
+        "word": "Hero轮换好炸裂",
+        "onboard_time": 1681379671,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191324,
+        "num": 191324,
+        "word": "张杰说外南街我回来了",
+        "onboard_time": 1681384051,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189128,
+        "num": 189128,
+        "word": "薄冰富大龙董洁对手戏",
+        "onboard_time": 1681383808,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173216,
+        "num": 173216,
+        "word": "你是尿眠体吗",
+        "onboard_time": 1681363169,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170650,
+        "num": 170650,
+        "word": "教资笔试成绩今日发布",
+        "onboard_time": 1681376608,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 170462,
+        "num": 170462,
+        "word": "如何辨别自己有嘴味",
+        "onboard_time": 1681380749,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 163400,
+        "num": 163400,
+        "word": "肖战被工作人员夸守时",
+        "onboard_time": 1681370968,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153830,
+        "num": 159411,
+        "word": "建议不要在车里睡觉",
+        "onboard_time": 1681384051,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156226,
+        "num": 156226,
+        "word": "云南猪脚烧烤申请出战",
+        "onboard_time": 1681384289,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154159,
+        "num": 154159,
+        "word": "泫雅也没逃过韩国酵母",
+        "onboard_time": 1681360052,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146427,
+        "num": 146427,
+        "word": "B站修改活动规则",
+        "onboard_time": 1681383690,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141032,
+        "num": 141032,
+        "word": "简历上写QQ邮箱会掉分吗",
+        "onboard_time": 1681356449,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139891,
+        "num": 139891,
+        "word": "马嘉祺宋亚轩出校门",
+        "onboard_time": 1681379730,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138049,
+        "num": 138049,
+        "word": "饮料真的要少喝",
+        "onboard_time": 1681370369,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137679,
+        "num": 137679,
+        "word": "易烊千玺赵露思或将演英雄联盟",
+        "onboard_time": 1681366225,
+        "rank": 45,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 123929,
+        "num": 123929,
+        "word": "张婧仪去看了宇宙探索编辑部",
+        "onboard_time": 1681383988,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117407,
+        "num": 117407,
+        "word": "戛纳电影节入围片单",
+        "onboard_time": 1681380868,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116497,
+        "num": 116497,
+        "word": "梁靖崑晋级冠军赛四强",
+        "onboard_time": 1681379191,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113850,
+        "num": 113850,
+        "word": "王楚钦",
+        "onboard_time": 1681375410,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代成就巡礼#"
+    }
+  }
+}
