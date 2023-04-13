@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681421600838,
+  "endTime": 1681424169536,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -31660,7 +31660,7 @@
     },
     {
       "raw_hot": 67807,
-      "num": 25569,
+      "num": 34961,
       "word": "B站就上传用户真人照片致歉",
       "onboard_time": 1681413434,
       "rank": 12,
@@ -31875,6 +31875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55701,
+      "num": 24796,
+      "word": "徐峥未持有TST公司股权",
+      "onboard_time": 1681419132,
+      "rank": 31,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 54935,
       "num": 74843,
       "word": "淄博烧烤何以突出重围",
@@ -32003,6 +32011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47982,
+      "num": 47982,
+      "word": "服美役",
+      "onboard_time": 1681419732,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 46748,
       "num": 1388328,
       "word": "看税收走基层",
@@ -32059,14 +32075,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 43555,
-      "num": 16875,
-      "word": "徐峥未持有TST公司股权",
-      "onboard_time": 1681419132,
-      "rank": 31,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 42273,
       "num": 42273,
       "word": "大学生在打一种很新的卡",
@@ -32080,6 +32088,14 @@
       "word": "上一次这么气人的还是素锦和灯芯",
       "onboard_time": 1681329071,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 40258,
+      "num": 29626,
+      "word": "江疏影李浩菲直播用假手握手",
+      "onboard_time": 1681409715,
+      "rank": 47,
       "category": "影视"
     },
     {
@@ -32267,20 +32283,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 27688,
-      "num": 29626,
-      "word": "江疏影李浩菲直播用假手握手",
-      "onboard_time": 1681409715,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
       "onboard_time": 1680795809,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26421,
+      "num": 24992,
+      "word": "影视剧里一眼万年的蓝裙子",
+      "onboard_time": 1681416613,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 26119,
@@ -32313,14 +32329,6 @@
       "onboard_time": 1680248546,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22777,
-      "num": 22777,
-      "word": "服美役",
-      "onboard_time": 1681419732,
-      "rank": 42,
-      "category": "美妆"
     },
     {
       "raw_hot": 21657,
@@ -32395,14 +32403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 16300,
-      "num": 16506,
-      "word": "影视剧里一眼万年的蓝裙子",
-      "onboard_time": 1681416613,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 15601,
       "num": 15601,
       "word": "德塔文认证徐正溪花琉璃有效播剧",
@@ -32417,6 +32417,14 @@
       "onboard_time": 1680636792,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12649,
+      "num": 15681,
+      "word": "温婉变身如月郡主上线",
+      "onboard_time": 1681423934,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 12137,
