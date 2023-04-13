@@ -1,0 +1,410 @@
+{
+  "runTime": 1681381088227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2133193,
+        "num": 2133193,
+        "word": "离职一个月了还要教新人",
+        "onboard_time": 1681374811,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1051717,
+        "num": 1051717,
+        "word": "被狗抓破 狂犬病",
+        "onboard_time": 1681376608,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29098,
+        "num": 995829,
+        "word": "一组高频数据看消费回暖",
+        "onboard_time": 1681354588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947057,
+        "num": 947057,
+        "word": "YG否认朴彩英吸毒",
+        "onboard_time": 1681378651,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717024,
+        "num": 717024,
+        "word": "徐峥",
+        "onboard_time": 1681371986,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 712870,
+        "num": 712870,
+        "word": "胡歌微博编辑记录",
+        "onboard_time": 1681372227,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529382,
+        "num": 529382,
+        "word": "王楚钦",
+        "onboard_time": 1681375410,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498628,
+        "num": 498628,
+        "word": "教资笔试成绩今日发布",
+        "onboard_time": 1681376608,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 450641,
+        "num": 450641,
+        "word": "员工因不批假与领导吵架牵出吃空饷",
+        "onboard_time": 1681371986,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424694,
+        "num": 424694,
+        "word": "1.4亿65岁以上老人与多病共存",
+        "onboard_time": 1681379191,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1710563,
+        "num": 418909,
+        "word": "清华张小年 人类精子库",
+        "onboard_time": 1681373851,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1483526,
+        "num": 418855,
+        "word": "曝张继科已生子",
+        "onboard_time": 1681377569,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1133242,
+        "num": 413599,
+        "word": "成龙口误说很高兴和烂演员合作",
+        "onboard_time": 1681368928,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 398975,
+        "num": 398975,
+        "word": "优酷回应非会员遇3000多秒广告",
+        "onboard_time": 1681363590,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385737,
+        "num": 385737,
+        "word": "刘奕君 你这样很失态",
+        "onboard_time": 1681374569,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380814,
+        "num": 380814,
+        "word": "女子买房送超大阳台封窗却要20多万",
+        "onboard_time": 1681368808,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375351,
+        "num": 375351,
+        "word": "B站活动上传用户真人照片",
+        "onboard_time": 1681371986,
+        "rank": 16,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 370857,
+        "num": 370857,
+        "word": "Hero轮换好炸裂",
+        "onboard_time": 1681379671,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 353106,
+        "num": 353106,
+        "word": "罗云熙白鹿时尚芭莎合体大片",
+        "onboard_time": 1681379429,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349974,
+        "num": 349974,
+        "word": "周星驰最想对达叔说的话",
+        "onboard_time": 1681378590,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1312416,
+        "num": 322942,
+        "word": "北大全嘻嘻 清华张小年",
+        "onboard_time": 1681378889,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 463182,
+        "num": 309956,
+        "word": "银行发现7位数存款5年未动急寻人",
+        "onboard_time": 1681374267,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283557,
+        "num": 283557,
+        "word": "白化病女孩迎光拍照被称像裘千尺",
+        "onboard_time": 1681378889,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281890,
+        "num": 281890,
+        "word": "为什么辣条左上角都带一寸照片",
+        "onboard_time": 1681373908,
+        "rank": 23,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 277673,
+        "num": 277673,
+        "word": "张颖颖假同学案胜诉",
+        "onboard_time": 1681377569,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236391,
+        "num": 236391,
+        "word": "你是尿眠体吗",
+        "onboard_time": 1681363169,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233507,
+        "num": 233507,
+        "word": "美国奶牛厂爆炸18000头牛死亡",
+        "onboard_time": 1681364908,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228644,
+        "num": 228644,
+        "word": "泫雅也没逃过韩国酵母",
+        "onboard_time": 1681360052,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210949,
+        "num": 210949,
+        "word": "简历上写QQ邮箱会掉分吗",
+        "onboard_time": 1681356449,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208564,
+        "num": 208564,
+        "word": "戛纳",
+        "onboard_time": 1681377089,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378396,
+        "num": 206723,
+        "word": "易梦玲黑裙",
+        "onboard_time": 1681380330,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 266407,
+        "num": 204066,
+        "word": "三峡移民",
+        "onboard_time": 1681380151,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201264,
+        "num": 201264,
+        "word": "肖战被工作人员夸守时",
+        "onboard_time": 1681370968,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198419,
+        "num": 198419,
+        "word": "燃冬 戛纳",
+        "onboard_time": 1681376968,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186208,
+        "num": 186208,
+        "word": "江疏影的锁骨",
+        "onboard_time": 1681376250,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184923,
+        "num": 184923,
+        "word": "外卖配送费会影响你下单吗",
+        "onboard_time": 1681375709,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 183375,
+        "num": 183375,
+        "word": "马嘉祺宋亚轩出校门",
+        "onboard_time": 1681379730,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182015,
+        "num": 182015,
+        "word": "网友偶遇陈赫张子萱看画展",
+        "onboard_time": 1681363469,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179675,
+        "num": 179675,
+        "word": "易烊千玺赵露思或将演英雄联盟",
+        "onboard_time": 1681366225,
+        "rank": 38,
+        "category": "游戏,影视"
+      },
+      {
+        "raw_hot": 17321,
+        "num": 178651,
+        "word": "Maas或使小学生成开发者",
+        "onboard_time": 1681380029,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178483,
+        "num": 178483,
+        "word": "刘亦菲发库存vlog",
+        "onboard_time": 1681378590,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169092,
+        "num": 169092,
+        "word": "梁靖崑晋级冠军赛四强",
+        "onboard_time": 1681379191,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159331,
+        "num": 159331,
+        "word": "饮料真的要少喝",
+        "onboard_time": 1681370369,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155149,
+        "num": 155149,
+        "word": "TFBOYS获得的第一个奖是音悦台给的",
+        "onboard_time": 1681364789,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154212,
+        "num": 154212,
+        "word": "清华北大在校生五一可到淄博免费游",
+        "onboard_time": 1681364728,
+        "rank": 44,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 151969,
+        "num": 151969,
+        "word": "在广东存款10多万算多吗",
+        "onboard_time": 1681366467,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149050,
+        "num": 149050,
+        "word": "黑化得最令人心疼的角色",
+        "onboard_time": 1681373966,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146081,
+        "num": 146081,
+        "word": "泪失禁体质",
+        "onboard_time": 1681378528,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119078,
+        "num": 119078,
+        "word": "戛纳电影节入围片单",
+        "onboard_time": 1681380868,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109942,
+        "num": 118057,
+        "word": "奔跑吧全员送范丞丞开工红包",
+        "onboard_time": 1681380810,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次点赞土特产#"
+    }
+  }
+}

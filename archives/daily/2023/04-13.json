@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681378418785,
+  "endTime": 1681381088227,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -43,6 +43,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2133193,
+      "num": 2133193,
+      "word": "离职一个月了还要教新人",
+      "onboard_time": 1681374811,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1992142,
       "num": 497003,
       "word": "泫雅也没逃过韩国酵母",
@@ -59,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1710563,
+      "num": 483339,
+      "word": "清华张小年 人类精子库",
+      "onboard_time": 1681373851,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1701419,
       "num": 1250125,
       "word": "易梦玲 很开心缓解了大家的容貌焦虑",
       "onboard_time": 1681365207,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1679363,
-      "num": 1679363,
-      "word": "离职一个月了还要教新人",
-      "onboard_time": 1681374811,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1600472,
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1499207,
-      "num": 483339,
-      "word": "清华张小年 人类精子库",
-      "onboard_time": 1681373851,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1381174,
       "num": 1195602,
       "word": "易梦玲素颜",
@@ -121,6 +121,14 @@
       "onboard_time": 1681353087,
       "rank": 49,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 1312416,
+      "num": 322942,
+      "word": "北大全嘻嘻 清华张小年",
+      "onboard_time": 1681378889,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 1310341,
@@ -161,6 +169,14 @@
       "onboard_time": 1681308032,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1051717,
+      "num": 1051717,
+      "word": "被狗抓破 狂犬病",
+      "onboard_time": 1681376608,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 999826,
@@ -209,6 +225,14 @@
       "onboard_time": 1681366225,
       "rank": 5,
       "category": "游戏,影视"
+    },
+    {
+      "raw_hot": 947057,
+      "num": 947057,
+      "word": "YG否认朴彩英吸毒",
+      "onboard_time": 1681378651,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 942854,
@@ -499,20 +523,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 498628,
+      "num": 498628,
+      "word": "教资笔试成绩今日发布",
+      "onboard_time": 1681376608,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 495921,
       "num": 495921,
       "word": "TFBOYS获得的第一个奖是音悦台给的",
       "onboard_time": 1681364789,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 495772,
-      "num": 495772,
-      "word": "被狗抓破 狂犬病",
-      "onboard_time": 1681376608,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 492763,
@@ -611,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424694,
+      "num": 424694,
+      "word": "1.4亿65岁以上老人与多病共存",
+      "onboard_time": 1681379191,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422464,
       "num": 422464,
       "word": "女子因未婚应聘被拒",
@@ -659,14 +691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 397135,
-      "num": 397135,
-      "word": "教资笔试成绩今日发布",
-      "onboard_time": 1681376608,
-      "rank": 23,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 393522,
       "num": 393522,
       "word": "小米平板",
@@ -707,12 +731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378396,
+      "num": 206723,
+      "word": "易梦玲黑裙",
+      "onboard_time": 1681380330,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 373996,
       "num": 373996,
       "word": "罗云熙即将进组",
       "onboard_time": 1681369226,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 370857,
+      "num": 370857,
+      "word": "Hero轮换好炸裂",
+      "onboard_time": 1681379671,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 358294,
@@ -731,6 +771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 353106,
+      "num": 353106,
+      "word": "罗云熙白鹿时尚芭莎合体大片",
+      "onboard_time": 1681379429,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351876,
       "num": 351876,
       "word": "左然",
@@ -745,6 +793,14 @@
       "onboard_time": 1681348769,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349974,
+      "num": 349974,
+      "word": "周星驰最想对达叔说的话",
+      "onboard_time": 1681378590,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 344450,
@@ -963,6 +1019,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 283557,
+      "num": 283557,
+      "word": "白化病女孩迎光拍照被称像裘千尺",
+      "onboard_time": 1681378889,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283358,
       "num": 283358,
       "word": "教资真的好考吗",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1681309234,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266407,
+      "num": 204066,
+      "word": "三峡移民",
+      "onboard_time": 1681380151,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 263789,
@@ -1531,6 +1603,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184923,
+      "num": 184923,
+      "word": "外卖配送费会影响你下单吗",
+      "onboard_time": 1681375709,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 183375,
+      "num": 183375,
+      "word": "马嘉祺宋亚轩出校门",
+      "onboard_time": 1681379730,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181983,
       "num": 181983,
       "word": "全民国家安全教育日",
@@ -1560,6 +1648,14 @@
       "word": "75岁施瓦辛格发上街修路视频",
       "onboard_time": 1681308214,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178483,
+      "num": 178483,
+      "word": "刘亦菲发库存vlog",
+      "onboard_time": 1681378590,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1619,6 +1715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169092,
+      "num": 169092,
+      "word": "梁靖崑晋级冠军赛四强",
+      "onboard_time": 1681379191,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168383,
       "num": 168383,
       "word": "WTT",
@@ -1657,14 +1761,6 @@
       "onboard_time": 1681313193,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166239,
-      "num": 166239,
-      "word": "外卖配送费会影响你下单吗",
-      "onboard_time": 1681375709,
-      "rank": 49,
-      "category": "社会议题"
     },
     {
       "raw_hot": 165554,
@@ -1809,6 +1905,14 @@
       "onboard_time": 1681343788,
       "rank": 44,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 146081,
+      "num": 146081,
+      "word": "泪失禁体质",
+      "onboard_time": 1681378528,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 144504,
@@ -2011,6 +2115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119078,
+      "num": 119078,
+      "word": "戛纳电影节入围片单",
+      "onboard_time": 1681380868,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119070,
       "num": 119070,
       "word": "李亚男回应最离谱的谣言",
@@ -2033,6 +2145,14 @@
       "onboard_time": 1681308575,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109942,
+      "num": 118057,
+      "word": "奔跑吧全员送范丞丞开工红包",
+      "onboard_time": 1681380810,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 105700,
@@ -2257,6 +2377,14 @@
       "onboard_time": 1681321395,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 17321,
+      "num": 178651,
+      "word": "Maas或使小学生成开发者",
+      "onboard_time": 1681380029,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

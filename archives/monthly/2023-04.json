@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681378418785,
+  "endTime": 1681381088227,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -875,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2133193,
+      "num": 2133193,
+      "word": "离职一个月了还要教新人",
+      "onboard_time": 1681374811,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2129891,
       "num": 2129891,
       "word": "浙江工资不能低于这个数",
@@ -1379,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1710563,
+      "num": 483339,
+      "word": "清华张小年 人类精子库",
+      "onboard_time": 1681373851,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1708768,
       "num": 1572300,
       "word": "李金铭曾参加节目被要求当儿媳",
@@ -1417,14 +1433,6 @@
       "onboard_time": 1680788850,
       "rank": 10,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 1679363,
-      "num": 1679363,
-      "word": "离职一个月了还要教新人",
-      "onboard_time": 1681374811,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1660203,
@@ -1771,14 +1779,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 1499207,
-      "num": 483339,
-      "word": "清华张小年 人类精子库",
-      "onboard_time": 1681373851,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1498158,
       "num": 1498158,
       "word": "刘国梁连任中国乒协主席",
@@ -2065,6 +2065,14 @@
       "onboard_time": 1680493230,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1312416,
+      "num": 322942,
+      "word": "北大全嘻嘻 清华张小年",
+      "onboard_time": 1681378889,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 1310889,
@@ -2843,6 +2851,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1051717,
+      "num": 1051717,
+      "word": "被狗抓破 狂犬病",
+      "onboard_time": 1681376608,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1050201,
       "num": 1050201,
       "word": "卫健局回应男生高考体检被要求脱内裤",
@@ -3225,6 +3241,14 @@
       "onboard_time": 1681308633,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 947057,
+      "num": 947057,
+      "word": "YG否认朴彩英吸毒",
+      "onboard_time": 1681378651,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 944993,
@@ -7827,6 +7851,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 498628,
+      "num": 498628,
+      "word": "教资笔试成绩今日发布",
+      "onboard_time": 1681376608,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 498580,
       "num": 320825,
       "word": "王冰冰说一不小心和海虹撞了衫",
@@ -7873,14 +7905,6 @@
       "onboard_time": 1681364789,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 495772,
-      "num": 495772,
-      "word": "被狗抓破 狂犬病",
-      "onboard_time": 1681376608,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 495322,
@@ -9291,6 +9315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 424694,
+      "num": 424694,
+      "word": "1.4亿65岁以上老人与多病共存",
+      "onboard_time": 1681379191,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423890,
       "num": 423890,
       "word": "故宫门票",
@@ -10083,14 +10115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 397135,
-      "num": 397135,
-      "word": "教资笔试成绩今日发布",
-      "onboard_time": 1681376608,
-      "rank": 23,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 396927,
       "num": 396927,
       "word": "我的工资和我的假期一样少",
@@ -10571,6 +10595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 378396,
+      "num": 206723,
+      "word": "易梦玲黑裙",
+      "onboard_time": 1681380330,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 377306,
       "num": 377306,
       "word": "卢洋洋陈鑫海想二搭",
@@ -10721,6 +10753,14 @@
       "onboard_time": 1680350550,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 370857,
+      "num": 370857,
+      "word": "Hero轮换好炸裂",
+      "onboard_time": 1681379671,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 370545,
@@ -11203,6 +11243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353106,
+      "num": 353106,
+      "word": "罗云熙白鹿时尚芭莎合体大片",
+      "onboard_time": 1681379429,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 352991,
       "num": 352991,
       "word": "红月",
@@ -11297,6 +11345,14 @@
       "onboard_time": 1680333329,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 349974,
+      "num": 349974,
+      "word": "周星驰最想对达叔说的话",
+      "onboard_time": 1681378590,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 349494,
@@ -13779,6 +13835,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 283557,
+      "num": 283557,
+      "word": "白化病女孩迎光拍照被称像裘千尺",
+      "onboard_time": 1681378889,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283484,
       "num": 283484,
       "word": "LPL十大选手定妆照",
@@ -14489,6 +14553,14 @@
       "onboard_time": 1681243631,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 266407,
+      "num": 204066,
+      "word": "三峡移民",
+      "onboard_time": 1681380151,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 266012,
@@ -22835,6 +22907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184923,
+      "num": 184923,
+      "word": "外卖配送费会影响你下单吗",
+      "onboard_time": 1681375709,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 184850,
       "num": 184850,
       "word": "电竞人是会整活的",
@@ -23017,6 +23097,14 @@
       "onboard_time": 1680700534,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 183375,
+      "num": 183375,
+      "word": "马嘉祺宋亚轩出校门",
+      "onboard_time": 1681379730,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 183372,
@@ -23561,6 +23649,14 @@
       "onboard_time": 1680305360,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178483,
+      "num": 178483,
+      "word": "刘亦菲发库存vlog",
+      "onboard_time": 1681378590,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 178341,
@@ -24387,6 +24483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169092,
+      "num": 169092,
+      "word": "梁靖崑晋级冠军赛四强",
+      "onboard_time": 1681379191,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169087,
       "num": 163096,
       "word": "宋三川梁友安海边漫步",
@@ -24681,14 +24785,6 @@
       "onboard_time": 1680928228,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166239,
-      "num": 166239,
-      "word": "外卖配送费会影响你下单吗",
-      "onboard_time": 1681375709,
-      "rank": 49,
-      "category": "社会议题"
     },
     {
       "raw_hot": 166236,
@@ -26657,6 +26753,14 @@
       "onboard_time": 1680755255,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146081,
+      "num": 146081,
+      "word": "泪失禁体质",
+      "onboard_time": 1681378528,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 146037,
@@ -28875,6 +28979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119078,
+      "num": 119078,
+      "word": "戛纳电影节入围片单",
+      "onboard_time": 1681380868,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119070,
       "num": 119070,
       "word": "李亚男回应最离谱的谣言",
@@ -29321,6 +29433,14 @@
       "onboard_time": 1681192286,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109942,
+      "num": 118057,
+      "word": "奔跑吧全员送范丞丞开工红包",
+      "onboard_time": 1681380810,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 109934,
@@ -31239,6 +31359,14 @@
       "num": 164232,
       "word": "天猫预测五一户外新趋势",
       "onboard_time": 1681293627,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17321,
+      "num": 178651,
+      "word": "Maas或使小学生成开发者",
+      "onboard_time": 1681380029,
       "rank": 39,
       "category": "社会新闻"
     },
