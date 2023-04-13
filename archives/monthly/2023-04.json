@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681353731636,
+  "endTime": 1681355876438,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2179,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1203669,
+      "num": 1003412,
+      "word": "易梦玲素颜",
+      "onboard_time": 1681354894,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1203068,
       "num": 980041,
       "word": "白幼瘦审美",
@@ -2547,6 +2555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1096907,
+      "num": 1096907,
+      "word": "麦当劳肯德基配送费为什么降不下来",
+      "onboard_time": 1681353087,
+      "rank": 49,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 1096272,
       "num": 1096272,
       "word": "保利 如梦之梦",
@@ -2873,6 +2889,14 @@
       "onboard_time": 1680402627,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 997690,
+      "num": 997690,
+      "word": "腺样体面容",
+      "onboard_time": 1681353207,
+      "rank": 16,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 997507,
@@ -3921,6 +3945,14 @@
       "onboard_time": 1680944604,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 819102,
+      "num": 819102,
+      "word": "旱的旱死涝的涝死",
+      "onboard_time": 1681352607,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 818968,
@@ -5395,6 +5427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 641545,
+      "num": 641545,
+      "word": "网红悬崖试胆石被砸断",
+      "onboard_time": 1681353387,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 641320,
       "num": 641320,
       "word": "青春环游记4定档",
@@ -5609,6 +5649,14 @@
       "onboard_time": 1680499830,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 624045,
+      "num": 624045,
+      "word": "罗云熙戴了白鹿串的手链",
+      "onboard_time": 1681354050,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 623852,
@@ -8107,6 +8155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 465582,
+      "num": 465582,
+      "word": "向往的生活",
+      "onboard_time": 1681353026,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 464862,
       "num": 284337,
       "word": "易烊千玺顺毛眼镜造型",
@@ -8116,7 +8172,7 @@
     },
     {
       "raw_hot": 464374,
-      "num": 282540,
+      "num": 309534,
       "word": "女子晒用了7年的手机壳破烂不堪",
       "onboard_time": 1681351109,
       "rank": 20,
@@ -8689,14 +8745,6 @@
       "onboard_time": 1680659610,
       "rank": 13,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 435167,
-      "num": 435167,
-      "word": "旱的旱死涝的涝死",
-      "onboard_time": 1681352607,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 434897,
@@ -9353,6 +9401,14 @@
       "onboard_time": 1680606030,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 409713,
+      "num": 409713,
+      "word": "小伙辞职去旅行被留下当村长",
+      "onboard_time": 1681354110,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409205,
@@ -11051,14 +11107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345085,
-      "num": 345085,
-      "word": "腺样体面容",
-      "onboard_time": 1681353207,
-      "rank": 16,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 345083,
       "num": 234658,
       "word": "特朗普在法庭上做无罪辩护",
@@ -12139,14 +12187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313308,
-      "num": 313308,
-      "word": "向往的生活",
-      "onboard_time": 1681353026,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 312991,
       "num": 312991,
       "word": "原神愚人节整活",
@@ -12939,6 +12979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290768,
+      "num": 290768,
+      "word": "德罗赞女儿尖叫干扰罚球",
+      "onboard_time": 1681352788,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290697,
       "num": 290697,
       "word": "爱咖啡和爱榴莲的都沉默了",
@@ -13545,6 +13593,14 @@
       "onboard_time": 1680572011,
       "rank": 35,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 275155,
+      "num": 275155,
+      "word": "朴炯植回春了",
+      "onboard_time": 1681355549,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 275061,
@@ -14931,6 +14987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245316,
+      "num": 245316,
+      "word": "我推的孩子",
+      "onboard_time": 1681353626,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 245090,
       "num": 245090,
       "word": "欧冠",
@@ -15689,6 +15753,14 @@
       "onboard_time": 1680737064,
       "rank": 34,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 231916,
+      "num": 231916,
+      "word": "教资真的好考吗",
+      "onboard_time": 1681354767,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 231867,
@@ -16787,14 +16859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217393,
-      "num": 217393,
-      "word": "麦当劳肯德基配送费为什么降不下来",
-      "onboard_time": 1681353087,
-      "rank": 49,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 217215,
       "num": 171514,
       "word": "宋雨琦喊李晨晨叔叔",
@@ -16929,6 +16993,14 @@
       "onboard_time": 1681181605,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215313,
+      "num": 215313,
+      "word": "韩媒炒作沙尘暴起源于中国",
+      "onboard_time": 1681355309,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215298,
@@ -17307,6 +17379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210334,
+      "num": 210334,
+      "word": "电影爱很美味",
+      "onboard_time": 1681355067,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210245,
       "num": 189760,
       "word": "清明既是节气又是传统节日",
@@ -17673,6 +17753,14 @@
       "onboard_time": 1680948868,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207723,
+      "num": 207723,
+      "word": "蔡徐坤浴袍",
+      "onboard_time": 1681355309,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 207678,
@@ -18097,14 +18185,6 @@
       "onboard_time": 1680346952,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205152,
-      "num": 205152,
-      "word": "德罗赞女儿尖叫干扰罚球",
-      "onboard_time": 1681352788,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 205101,
@@ -20019,6 +20099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196826,
+      "num": 196826,
+      "word": "王石受张朝阳激励想研究微积分",
+      "onboard_time": 1681354708,
+      "rank": 37,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 196814,
       "num": 196814,
       "word": "上海的现实版莫奈花园",
@@ -20305,6 +20393,14 @@
       "onboard_time": 1681104089,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195203,
+      "num": 195203,
+      "word": "你知不知道什么叫外交理论",
+      "onboard_time": 1681354949,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 195196,
@@ -20985,6 +21081,14 @@
       "onboard_time": 1681104151,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190977,
+      "num": 190977,
+      "word": "吾夫冥夜",
+      "onboard_time": 1681354469,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 190967,
@@ -22475,6 +22579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180723,
+      "num": 180723,
+      "word": "吴世勋新剧主海报公开",
+      "onboard_time": 1681353927,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180688,
       "num": 945727,
       "word": "国产新型直升机AC332成功首飞",
@@ -23248,6 +23360,14 @@
       "word": "冥夜说澹台烬马上回来",
       "onboard_time": 1681093048,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171352,
+      "num": 171352,
+      "word": "天龙八部开播26周年",
+      "onboard_time": 1681355249,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -24169,14 +24289,6 @@
       "onboard_time": 1680956246,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162259,
-      "num": 162259,
-      "word": "网红悬崖试胆石被砸断",
-      "onboard_time": 1681353387,
-      "rank": 44,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 162171,
@@ -25827,6 +25939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144504,
+      "num": 144504,
+      "word": "白宇龙城MV哭的好惨",
+      "onboard_time": 1681354469,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144503,
       "num": 144503,
       "word": "没有回不了消息的人",
@@ -26209,6 +26329,14 @@
       "onboard_time": 1680341011,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139692,
+      "num": 139692,
+      "word": "父母辈为什么能存得住钱",
+      "onboard_time": 1681355849,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 139333,
@@ -26945,14 +27073,6 @@
       "onboard_time": 1680326669,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 130515,
-      "num": 130515,
-      "word": "我推的孩子",
-      "onboard_time": 1681353626,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 130433,
@@ -29369,6 +29489,14 @@
       "onboard_time": 1680487227,
       "rank": 14,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 74139,
+      "num": 1008531,
+      "word": "一组高频数据看消费回暖",
+      "onboard_time": 1681354588,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73754,
