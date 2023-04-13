@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681392051091,
+  "endTime": 1681392927023,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -115,6 +115,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1590376,
+      "num": 437716,
+      "word": "李湘回应王诗龄汉服造型",
+      "onboard_time": 1681386927,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1557149,
       "num": 1557149,
       "word": "教资69",
@@ -136,14 +144,6 @@
       "word": "嗯哼牙齿",
       "onboard_time": 1681349908,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1412557,
-      "num": 437716,
-      "word": "李湘回应王诗龄汉服造型",
-      "onboard_time": 1681386927,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -169,6 +169,14 @@
       "onboard_time": 1681363590,
       "rank": 36,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1243655,
+      "num": 1243655,
+      "word": "陈妍希问陈晓凶手到底是谁",
+      "onboard_time": 1681391131,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1243532,
@@ -331,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 801286,
-      "num": 343784,
-      "word": "陈妍希问陈晓凶手到底是谁",
-      "onboard_time": 1681391131,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 797035,
       "num": 797035,
       "word": "音悦台真的回来了",
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 723553,
-      "num": 255203,
+      "num": 279921,
       "word": "何悯鸿怀孕",
       "onboard_time": 1681389090,
       "rank": 40,
@@ -635,6 +635,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 509035,
+      "num": 509035,
+      "word": "马琳离场",
+      "onboard_time": 1681389693,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 504531,
       "num": 504531,
       "word": "王者荣耀",
@@ -667,8 +675,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 492983,
-      "num": 255104,
+      "raw_hot": 495522,
+      "num": 278445,
       "word": "大三学生给同学洗鞋2个月赚8万",
       "onboard_time": 1681387168,
       "rank": 21,
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 455623,
-      "num": 252309,
+      "num": 277087,
       "word": "杨颖金色抹胸长裙",
       "onboard_time": 1681389028,
       "rank": 36,
@@ -876,7 +884,7 @@
     },
     {
       "raw_hot": 398368,
-      "num": 251535,
+      "num": 275050,
       "word": "赵露思黑色吊带长裙",
       "onboard_time": 1681387108,
       "rank": 22,
@@ -931,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380459,
+      "num": 275945,
+      "word": "西瓜被兔子咬了一千多口",
+      "onboard_time": 1681391250,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 373996,
       "num": 373996,
       "word": "罗云熙即将进组",
@@ -947,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 360102,
+      "num": 360102,
+      "word": "王皓表情",
+      "onboard_time": 1681391911,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358294,
       "num": 358294,
       "word": "军队文职",
@@ -956,7 +980,7 @@
     },
     {
       "raw_hot": 357470,
-      "num": 254224,
+      "num": 273605,
       "word": "性单恋人群怎么谈恋爱",
       "onboard_time": 1681385067,
       "rank": 41,
@@ -1099,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311897,
+      "num": 311897,
+      "word": "王子浩镜头多了",
+      "onboard_time": 1681391010,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310377,
       "num": 310377,
       "word": "谭飞删博",
@@ -1227,6 +1259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284144,
+      "num": 284144,
+      "word": "我国制裁一名美国反华议员",
+      "onboard_time": 1681391671,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 284049,
       "num": 284049,
       "word": "AutoGPT",
@@ -1267,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 274397,
-      "num": 274397,
-      "word": "马琳离场",
-      "onboard_time": 1681389693,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271722,
       "num": 271722,
       "word": "淄博烧烤赢麻了",
@@ -1292,18 +1324,10 @@
     },
     {
       "raw_hot": 270769,
-      "num": 250028,
+      "num": 268631,
       "word": "华晨宇再为那英队拿下金曲",
       "onboard_time": 1681390652,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 268111,
-      "num": 268111,
-      "word": "王子浩镜头多了",
-      "onboard_time": 1681391010,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1371,12 +1395,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 252567,
+      "num": 252567,
+      "word": "樊振东3比2林诗栋",
+      "onboard_time": 1681392454,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252245,
       "num": 252245,
       "word": "王者荣耀S31赛季延迟更新",
       "onboard_time": 1681311453,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252237,
+      "num": 252237,
+      "word": "李天泽中音音乐学系专业第一",
+      "onboard_time": 1681392092,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 251730,
@@ -1401,14 +1441,6 @@
       "onboard_time": 1681369650,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248621,
-      "num": 248621,
-      "word": "西瓜被兔子咬了一千多口",
-      "onboard_time": 1681391250,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 247538,
@@ -1547,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228431,
+      "num": 228431,
+      "word": "BoysPlanet三顺排名",
+      "onboard_time": 1681391969,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228215,
       "num": 228215,
       "word": "张元英绿色眼妆",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1681355067,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209579,
+      "num": 209579,
+      "word": "唐嫣古装扮相",
+      "onboard_time": 1681391671,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 209533,
@@ -1713,6 +1761,14 @@
       "onboard_time": 1681388912,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203209,
+      "num": 180089,
+      "word": "BoysPlanet",
+      "onboard_time": 1681392393,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 203015,
@@ -2107,14 +2163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182751,
-      "num": 182751,
-      "word": "唐嫣古装扮相",
-      "onboard_time": 1681391671,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181983,
       "num": 181983,
       "word": "全民国家安全教育日",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1681306470,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175623,
-      "num": 175623,
-      "word": "王皓表情",
-      "onboard_time": 1681391911,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 172475,
@@ -2281,14 +2321,6 @@
       "onboard_time": 1681313193,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165970,
-      "num": 165970,
-      "word": "BoysPlanet三顺排名",
-      "onboard_time": 1681391969,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 165554,
@@ -2555,6 +2587,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 136660,
+      "num": 136660,
+      "word": "烟台山火",
+      "onboard_time": 1681392811,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135555,
       "num": 135555,
       "word": "张馨予晒童年旧照",
@@ -2667,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121057,
+      "num": 160952,
+      "word": "别克这次掀到地板了",
+      "onboard_time": 1681392632,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 120808,
       "num": 120808,
       "word": "陈建斌给陈晓夸不会了",
@@ -2713,14 +2761,6 @@
       "onboard_time": 1681308575,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 112369,
-      "num": 251161,
-      "word": "我国制裁一名美国反华议员",
-      "onboard_time": 1681391671,
-      "rank": 29,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 109942,
@@ -2931,6 +2971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 39137,
+      "num": 791697,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1681391671,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38684,
       "num": 44059,
       "word": "太阳新歌预告",
@@ -2944,6 +2992,14 @@
       "word": "家用SUV选车什么是关键",
       "onboard_time": 1681372168,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34560,
+      "num": 191993,
+      "word": "数字化助力文旅产业复苏",
+      "onboard_time": 1681390829,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2963,27 +3019,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 24207,
-      "num": 191993,
-      "word": "数字化助力文旅产业复苏",
-      "onboard_time": 1681390829,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20705,
       "num": 178651,
       "word": "Maas或使小学生成开发者",
       "onboard_time": 1681380029,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18077,
-      "num": 791697,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1681391671,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

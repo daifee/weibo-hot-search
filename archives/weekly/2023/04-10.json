@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681392051091,
+  "endTime": 1681392927023,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -475,6 +475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1590376,
+      "num": 437716,
+      "word": "李湘回应王诗龄汉服造型",
+      "onboard_time": 1681386927,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1567668,
       "num": 1050060,
       "word": "两男子将涉黄小卡片发到警车车窗",
@@ -571,14 +579,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1412557,
-      "num": 437716,
-      "word": "李湘回应王诗龄汉服造型",
-      "onboard_time": 1681386927,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1381174,
       "num": 1195602,
       "word": "易梦玲素颜",
@@ -673,6 +673,14 @@
       "onboard_time": 1681177164,
       "rank": 32,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1243655,
+      "num": 1243655,
+      "word": "陈妍希问陈晓凶手到底是谁",
+      "onboard_time": 1681391131,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 1243532,
@@ -1323,14 +1331,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 801286,
-      "num": 343784,
-      "word": "陈妍希问陈晓凶手到底是谁",
-      "onboard_time": 1681391131,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 797108,
       "num": 797108,
       "word": "陈都灵 电子木鱼",
@@ -1516,7 +1516,7 @@
     },
     {
       "raw_hot": 723553,
-      "num": 255203,
+      "num": 279921,
       "word": "何悯鸿怀孕",
       "onboard_time": 1681389090,
       "rank": 40,
@@ -2635,6 +2635,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 509035,
+      "num": 509035,
+      "word": "马琳离场",
+      "onboard_time": 1681389693,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 506714,
       "num": 439369,
       "word": "赵丽颖早期旧照",
@@ -2715,6 +2723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 495522,
+      "num": 278445,
+      "word": "大三学生给同学洗鞋2个月赚8万",
+      "onboard_time": 1681387168,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495322,
       "num": 495322,
       "word": "山西晋城为改善空气禁止露天烧烤",
@@ -2736,14 +2752,6 @@
       "word": "女子疯狂网上购物确诊帕金森",
       "onboard_time": 1681276889,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492983,
-      "num": 255104,
-      "word": "大三学生给同学洗鞋2个月赚8万",
-      "onboard_time": 1681387168,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2972,7 +2980,7 @@
     },
     {
       "raw_hot": 455623,
-      "num": 252309,
+      "num": 277087,
       "word": "杨颖金色抹胸长裙",
       "onboard_time": 1681389028,
       "rank": 36,
@@ -3604,7 +3612,7 @@
     },
     {
       "raw_hot": 398368,
-      "num": 251535,
+      "num": 275050,
       "word": "赵露思黑色吊带长裙",
       "onboard_time": 1681387108,
       "rank": 22,
@@ -3745,6 +3753,14 @@
       "onboard_time": 1681190547,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380459,
+      "num": 275945,
+      "word": "西瓜被兔子咬了一千多口",
+      "onboard_time": 1681391250,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 377306,
@@ -3899,6 +3915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360102,
+      "num": 360102,
+      "word": "王皓表情",
+      "onboard_time": 1681391911,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359988,
       "num": 359988,
       "word": "商务部对台进行贸易壁垒调查",
@@ -3956,7 +3980,7 @@
     },
     {
       "raw_hot": 357470,
-      "num": 254224,
+      "num": 273605,
       "word": "性单恋人群怎么谈恋爱",
       "onboard_time": 1681385067,
       "rank": 41,
@@ -4539,6 +4563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311897,
+      "num": 311897,
+      "word": "王子浩镜头多了",
+      "onboard_time": 1681391010,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310377,
       "num": 310377,
       "word": "谭飞删博",
@@ -4947,6 +4979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284144,
+      "num": 284144,
+      "word": "我国制裁一名美国反华议员",
+      "onboard_time": 1681391671,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 284094,
       "num": 284094,
       "word": "澹台烬放财神爷一马",
@@ -5059,14 +5099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 274397,
-      "num": 274397,
-      "word": "马琳离场",
-      "onboard_time": 1681389693,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 274055,
       "num": 269636,
       "word": "今天好多剧开机",
@@ -5132,7 +5164,7 @@
     },
     {
       "raw_hot": 270769,
-      "num": 250028,
+      "num": 268631,
       "word": "华晨宇再为那英队拿下金曲",
       "onboard_time": 1681390652,
       "rank": 30,
@@ -5145,14 +5177,6 @@
       "onboard_time": 1681186050,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268111,
-      "num": 268111,
-      "word": "王子浩镜头多了",
-      "onboard_time": 1681391010,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 267888,
@@ -5411,12 +5435,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 252567,
+      "num": 252567,
+      "word": "樊振东3比2林诗栋",
+      "onboard_time": 1681392454,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252245,
       "num": 252245,
       "word": "王者荣耀S31赛季延迟更新",
       "onboard_time": 1681311453,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252237,
+      "num": 252237,
+      "word": "李天泽中音音乐学系专业第一",
+      "onboard_time": 1681392092,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 252123,
@@ -5457,14 +5497,6 @@
       "onboard_time": 1681102413,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248621,
-      "num": 248621,
-      "word": "西瓜被兔子咬了一千多口",
-      "onboard_time": 1681391250,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 248128,
@@ -6003,6 +6035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228431,
+      "num": 228431,
+      "word": "BoysPlanet三顺排名",
+      "onboard_time": 1681391969,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228215,
       "num": 228215,
       "word": "张元英绿色眼妆",
@@ -6475,6 +6515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 209579,
+      "num": 209579,
+      "word": "唐嫣古装扮相",
+      "onboard_time": 1681391671,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209533,
       "num": 209533,
       "word": "爱很美味三观",
@@ -6849,6 +6897,14 @@
       "onboard_time": 1681183048,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203209,
+      "num": 180089,
+      "word": "BoysPlanet",
+      "onboard_time": 1681392393,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 203057,
@@ -8259,14 +8315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182751,
-      "num": 182751,
-      "word": "唐嫣古装扮相",
-      "onboard_time": 1681391671,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182668,
       "num": 182668,
       "word": "半熟恋人2最终告白日",
@@ -8497,14 +8545,6 @@
       "onboard_time": 1681091847,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 175623,
-      "num": 175623,
-      "word": "王皓表情",
-      "onboard_time": 1681391911,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 175578,
@@ -8857,14 +8897,6 @@
       "onboard_time": 1681303647,
       "rank": 37,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 165970,
-      "num": 165970,
-      "word": "BoysPlanet三顺排名",
-      "onboard_time": 1681391969,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 165763,
@@ -9867,6 +9899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136660,
+      "num": 136660,
+      "word": "烟台山火",
+      "onboard_time": 1681392811,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "白鹿叶夕雾害怕血鸦",
@@ -10227,6 +10267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121057,
+      "num": 160952,
+      "word": "别克这次掀到地板了",
+      "onboard_time": 1681392632,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 120808,
       "num": 120808,
       "word": "陈建斌给陈晓夸不会了",
@@ -10377,14 +10425,6 @@
       "onboard_time": 1681175846,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112369,
-      "num": 251161,
-      "word": "我国制裁一名美国反华议员",
-      "onboard_time": 1681391671,
-      "rank": 29,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 111161,
@@ -10923,6 +10963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 39137,
+      "num": 791697,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1681391671,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38684,
       "num": 44059,
       "word": "太阳新歌预告",
@@ -10944,6 +10992,14 @@
       "word": "家用SUV选车什么是关键",
       "onboard_time": 1681372168,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34560,
+      "num": 191993,
+      "word": "数字化助力文旅产业复苏",
+      "onboard_time": 1681390829,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -10995,14 +11051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 24207,
-      "num": 191993,
-      "word": "数字化助力文旅产业复苏",
-      "onboard_time": 1681390829,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24143,
       "num": 24143,
       "word": "看得出来她是真的喜欢讲话",
@@ -11025,14 +11073,6 @@
       "onboard_time": 1681151713,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 18077,
-      "num": 791697,
-      "word": "钢铁丝路好风光",
-      "onboard_time": 1681391671,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17764,
