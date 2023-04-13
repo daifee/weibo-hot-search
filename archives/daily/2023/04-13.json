@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681371209103,
+  "endTime": 1681374118684,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2206456,
+      "num": 417774,
+      "word": "成龙口误说很高兴和烂演员合作",
+      "onboard_time": 1681368928,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2158105,
       "num": 1922168,
       "word": "黑马情侣自曝收入与男生家境状况",
@@ -27,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2062537,
+      "num": 2062537,
+      "word": "徐峥",
+      "onboard_time": 1681371986,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1992142,
       "num": 497003,
       "word": "泫雅也没逃过韩国酵母",
       "onboard_time": 1681360052,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1785407,
-      "num": 417774,
-      "word": "成龙口误说很高兴和烂演员合作",
-      "onboard_time": 1681368928,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 1745939,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1701419,
-      "num": 1088076,
+      "num": 1200220,
       "word": "易梦玲 很开心缓解了大家的容貌焦虑",
       "onboard_time": 1681365207,
       "rank": 3,
@@ -107,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167379,
+      "num": 1167379,
+      "word": "胡歌微博编辑记录",
+      "onboard_time": 1681372227,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1159091,
       "num": 546204,
       "word": "王晶说赵露思是目前戏最好的花旦",
@@ -145,6 +161,14 @@
       "onboard_time": 1681363169,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 971887,
+      "num": 971887,
+      "word": "女子买房送超大阳台封窗却要20多万",
+      "onboard_time": 1681368808,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 959686,
@@ -187,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 835181,
-      "num": 416476,
-      "word": "女子买房送超大阳台封窗却要20多万",
-      "onboard_time": 1681368808,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 832139,
       "num": 472259,
       "word": "陈都灵早期等公交旧照",
@@ -217,6 +233,14 @@
       "onboard_time": 1681355309,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777709,
+      "num": 777709,
+      "word": "B站活动上传用户真人照片",
+      "onboard_time": 1681371986,
+      "rank": 6,
+      "category": "游戏,科技"
     },
     {
       "raw_hot": 763269,
@@ -387,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 511483,
+      "num": 394742,
+      "word": "肖战被工作人员夸守时",
+      "onboard_time": 1681370968,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504531,
       "num": 504531,
       "word": "王者荣耀",
@@ -491,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430829,
+      "num": 307184,
+      "word": "饮料真的要少喝",
+      "onboard_time": 1681370369,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 428746,
       "num": 428746,
       "word": "婚假多少天比较合适",
@@ -521,6 +561,14 @@
       "onboard_time": 1681313131,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418287,
+      "num": 373660,
+      "word": "员工因不批假与领导吵架牵出吃空饷",
+      "onboard_time": 1681371986,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410861,
@@ -835,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274598,
+      "num": 274598,
+      "word": "AutoGPT",
+      "onboard_time": 1681372589,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
       "raw_hot": 271722,
       "num": 271722,
       "word": "淄博烧烤赢麻了",
@@ -849,6 +905,14 @@
       "onboard_time": 1681309234,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266458,
+      "num": 266458,
+      "word": "去世的小狗又回到了我家",
+      "onboard_time": 1681370310,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 263789,
@@ -881,6 +945,14 @@
       "onboard_time": 1681344573,
       "rank": 25,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 255674,
+      "num": 255674,
+      "word": "颜心记",
+      "onboard_time": 1681370608,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 253115,
@@ -995,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 230132,
+      "num": 230132,
+      "word": "可能一辈子都用不上的东西",
+      "onboard_time": 1681368387,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229735,
       "num": 229735,
       "word": "中国人造太阳实现重大突破",
@@ -1025,14 +1105,6 @@
       "onboard_time": 1681368447,
       "rank": 25,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 228099,
-      "num": 228099,
-      "word": "饮料真的要少喝",
-      "onboard_time": 1681370369,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 227664,
@@ -1091,12 +1163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206427,
-      "num": 206427,
-      "word": "颜心记",
-      "onboard_time": 1681370608,
-      "rank": 26,
-      "category": "影视"
+      "raw_hot": 206780,
+      "num": 206780,
+      "word": "你为什么还在坚持用QQ",
+      "onboard_time": 1681371148,
+      "rank": 47,
+      "category": "科技,情感"
     },
     {
       "raw_hot": 204940,
@@ -1315,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181860,
+      "num": 181860,
+      "word": "清华张小年 人类精子库",
+      "onboard_time": 1681373851,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 181114,
       "num": 181114,
       "word": "中国女性在职场上的现状",
@@ -1329,14 +1409,6 @@
       "onboard_time": 1681353927,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180258,
-      "num": 180258,
-      "word": "肖战被工作人员夸守时",
-      "onboard_time": 1681370968,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 180136,
@@ -1361,14 +1433,6 @@
       "onboard_time": 1681306470,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174761,
-      "num": 174761,
-      "word": "可能一辈子都用不上的东西",
-      "onboard_time": 1681368387,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 171352,
@@ -1507,11 +1571,27 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 154253,
+      "num": 154253,
+      "word": "陈幸同3比2王曼昱",
+      "onboard_time": 1681372289,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153866,
       "num": 153866,
       "word": "大屏上的长月烬明海报",
       "onboard_time": 1681359331,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 149297,
+      "num": 149297,
+      "word": "陈若轩回应弃演流浪地球",
+      "onboard_time": 1681370849,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1544,6 +1624,14 @@
       "word": "白宇龙城MV哭的好惨",
       "onboard_time": 1681354469,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 144424,
+      "num": 144424,
+      "word": "白鹿跟桑酒说再见",
+      "onboard_time": 1681372528,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1611,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133697,
+      "num": 133697,
+      "word": "为什么辣条左上角都带一寸照片",
+      "onboard_time": 1681373908,
+      "rank": 39,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 132432,
       "num": 132432,
       "word": "苏醒混迹内娱多年全凭三好",
@@ -1627,12 +1723,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129598,
-      "num": 129598,
-      "word": "去世的小狗又回到了我家",
-      "onboard_time": 1681370310,
+      "raw_hot": 130724,
+      "num": 130724,
+      "word": "北影节大师影像展推荐官海报",
+      "onboard_time": 1681374090,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 130289,
+      "num": 130289,
+      "word": "长月烬明泰国预告",
+      "onboard_time": 1681371510,
       "rank": 42,
-      "category": "情感"
+      "category": "影视"
     },
     {
       "raw_hot": 129406,
@@ -1675,12 +1779,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122889,
+      "num": 122889,
+      "word": "大学老师辞职创业意外捧红老父亲",
+      "onboard_time": 1681370849,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120808,
       "num": 120808,
       "word": "陈建斌给陈晓夸不会了",
       "onboard_time": 1681338375,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119849,
+      "num": 119849,
+      "word": "丁禹兮春闺梦里人片场花絮",
+      "onboard_time": 1681373609,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 119218,
@@ -1699,14 +1819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116785,
-      "num": 116785,
-      "word": "大学老师辞职创业意外捧红老父亲",
-      "onboard_time": 1681370849,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114872,
       "num": 114872,
       "word": "腺样体面容有哪些特点",
@@ -1723,12 +1835,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113315,
-      "num": 113315,
-      "word": "你为什么还在坚持用QQ",
-      "onboard_time": 1681371148,
-      "rank": 47,
-      "category": "科技,情感"
+      "raw_hot": 113877,
+      "num": 113877,
+      "word": "黑化得最令人心疼的角色",
+      "onboard_time": 1681373966,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 105700,
@@ -1921,6 +2033,14 @@
       "onboard_time": 1681320137,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 34812,
+      "num": 120105,
+      "word": "家用SUV选车什么是关键",
+      "onboard_time": 1681372168,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31823,
