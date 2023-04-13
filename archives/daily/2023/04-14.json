@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681420502693,
+  "endTime": 1681421600838,
   "band_list": [
     {
       "raw_hot": 1468739,
@@ -419,8 +419,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 43074,
-      "num": 16549,
+      "raw_hot": 43555,
+      "num": 16875,
       "word": "徐峥未持有TST公司股权",
       "onboard_time": 1681419132,
       "rank": 31,
@@ -467,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 22777,
+      "num": 22777,
+      "word": "服美役",
+      "onboard_time": 1681419732,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 19679,
       "num": 436185,
       "word": "钢铁丝路好风光",
@@ -475,20 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14690,
+      "raw_hot": 16300,
       "num": 16506,
       "word": "影视剧里一眼万年的蓝裙子",
       "onboard_time": 1681416613,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 11498,
-      "num": 16454,
-      "word": "服美役",
-      "onboard_time": 1681419732,
-      "rank": 42,
-      "category": "美妆"
     }
   ],
   "hotgov_list": [
