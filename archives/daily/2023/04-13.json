@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681399081090,
+  "endTime": 1681400024044,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1401064,
+      "num": 428047,
+      "word": "你能接受另一半捐精吗",
+      "onboard_time": 1681397731,
+      "rank": 10,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1381174,
       "num": 1195602,
       "word": "易梦玲素颜",
@@ -235,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1000886,
+      "num": 1000886,
+      "word": "肌肤饥渴症",
+      "onboard_time": 1681394555,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 999826,
       "num": 999826,
       "word": "不要穿试衣间里的鞋",
@@ -249,14 +265,6 @@
       "onboard_time": 1681353207,
       "rank": 16,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 981588,
-      "num": 981588,
-      "word": "肌肤饥渴症",
-      "onboard_time": 1681394555,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 978314,
@@ -355,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 797060,
-      "num": 263824,
-      "word": "你能接受另一半捐精吗",
-      "onboard_time": 1681397731,
-      "rank": 10,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 797035,
       "num": 797035,
       "word": "音悦台真的回来了",
@@ -385,6 +385,14 @@
       "onboard_time": 1681371986,
       "rank": 6,
       "category": "游戏,科技"
+    },
+    {
+      "raw_hot": 775312,
+      "num": 775312,
+      "word": "SEVENTEEN新歌FML概念视频",
+      "onboard_time": 1681398992,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 763269,
@@ -417,6 +425,14 @@
       "onboard_time": 1681354110,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745815,
+      "num": 745815,
+      "word": "体重48公斤被学校谈话",
+      "onboard_time": 1681398392,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 727472,
@@ -633,14 +649,6 @@
       "onboard_time": 1681387769,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 568535,
-      "num": 568535,
-      "word": "SEVENTEEN新歌FML概念视频",
-      "onboard_time": 1681398992,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 563348,
@@ -977,6 +985,14 @@
       "onboard_time": 1681356809,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 402881,
+      "num": 437256,
+      "word": "引发烟台山火嫌疑人已被刑拘",
+      "onboard_time": 1681398333,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 402224,
@@ -1659,14 +1675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230191,
-      "num": 230191,
-      "word": "引发烟台山火嫌疑人已被刑拘",
-      "onboard_time": 1681398333,
-      "rank": 17,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 230132,
       "num": 230132,
       "word": "可能一辈子都用不上的东西",
@@ -1729,14 +1737,6 @@
       "onboard_time": 1681349130,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224434,
-      "num": 224434,
-      "word": "体重48公斤被学校谈话",
-      "onboard_time": 1681398392,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 222645,
@@ -1859,12 +1859,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 206924,
+      "num": 176157,
+      "word": "外卖配送费多少钱你能接受",
+      "onboard_time": 1681397671,
+      "rank": 39,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 206780,
       "num": 206780,
       "word": "你为什么还在坚持用QQ",
       "onboard_time": 1681371148,
       "rank": 47,
       "category": "科技,情感"
+    },
+    {
+      "raw_hot": 205553,
+      "num": 205553,
+      "word": "崔胜澈 克拉盘",
+      "onboard_time": 1681399054,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205532,
@@ -2483,6 +2499,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 170192,
+      "num": 126833,
+      "word": "迪丽热巴给儿童福利院捐物资",
+      "onboard_time": 1681399590,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169601,
       "num": 169601,
       "word": "吃到什么程度是七分饱",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1681308092,
       "rank": 28,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 168346,
-      "num": 174756,
-      "word": "外卖配送费多少钱你能接受",
-      "onboard_time": 1681397671,
-      "rank": 39,
-      "category": "社会议题"
     },
     {
       "raw_hot": 167228,
@@ -2811,14 +2827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136936,
-      "num": 136936,
-      "word": "崔胜澈 克拉盘",
-      "onboard_time": 1681399054,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 136914,
       "num": 136914,
       "word": "昆明至万象坐火车当天就能到",
@@ -2857,6 +2865,14 @@
       "onboard_time": 1681298606,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130409,
+      "num": 130409,
+      "word": "突然觉得长大了真的很好",
+      "onboard_time": 1681399709,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 130289,
@@ -2899,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125426,
+      "num": 119336,
+      "word": "林昀儒3比0菲卢斯",
+      "onboard_time": 1681399651,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125177,
       "num": 125177,
       "word": "张远长发侧颜",
@@ -2937,6 +2961,14 @@
       "onboard_time": 1681370849,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121983,
+      "num": 121983,
+      "word": "儿时的友情注定渐行渐远吗",
+      "onboard_time": 1681398692,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 121057,
@@ -3212,7 +3244,7 @@
     },
     {
       "raw_hot": 43946,
-      "num": 791697,
+      "num": 840712,
       "word": "钢铁丝路好风光",
       "onboard_time": 1681391671,
       "rank": 2,
