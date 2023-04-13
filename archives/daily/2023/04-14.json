@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681410069695,
+  "endTime": 1681410858416,
   "band_list": [
     {
       "raw_hot": 1468739,
@@ -387,7 +387,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 60934,
+      "raw_hot": 65471,
       "num": 33897,
       "word": "苏醒曾因为舞台事故甩脸",
       "onboard_time": 1681408878,
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27688,
+      "num": 29626,
+      "word": "江疏影李浩菲直播用假手握手",
+      "onboard_time": 1681409715,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24679,
       "num": 29641,
       "word": "AG战胜KSG",
@@ -435,12 +443,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24098,
-      "num": 29626,
-      "word": "江疏影李浩菲直播用假手握手",
-      "onboard_time": 1681409715,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 20112,
+      "num": 23981,
+      "word": "儿时的友情注定渐行渐远吗",
+      "onboard_time": 1681398692,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 19679,
@@ -454,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#习近平在广州市考察调研#"
+    },
+    {
+      "word": "#总书记再次点赞土特产#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681410069695,
+  "endTime": 1681410858416,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -11179,7 +11179,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60934,
+      "raw_hot": 65471,
       "num": 33897,
       "word": "苏醒曾因为舞台事故甩脸",
       "onboard_time": 1681408878,
@@ -11403,6 +11403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 27688,
+      "num": 29626,
+      "word": "江疏影李浩菲直播用假手握手",
+      "onboard_time": 1681409715,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 24325,
       "num": 25709,
       "word": "网剧藏药令杀青",
@@ -11417,14 +11425,6 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 24098,
-      "num": 29626,
-      "word": "江疏影李浩菲直播用假手握手",
-      "onboard_time": 1681409715,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 20705,

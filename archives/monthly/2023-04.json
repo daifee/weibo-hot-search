@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681410069695,
+  "endTime": 1681410858416,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -31707,6 +31707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65471,
+      "num": 33897,
+      "word": "苏醒曾因为舞台事故甩脸",
+      "onboard_time": 1681408878,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64842,
       "num": 64842,
       "word": "LCK宣传片",
@@ -31785,14 +31793,6 @@
       "onboard_time": 1680305299,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 60934,
-      "num": 33897,
-      "word": "苏醒曾因为舞台事故甩脸",
-      "onboard_time": 1681408878,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 59983,
@@ -32251,6 +32251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 27688,
+      "num": 29626,
+      "word": "江疏影李浩菲直播用假手握手",
+      "onboard_time": 1681409715,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
@@ -32281,14 +32289,6 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 24098,
-      "num": 29626,
-      "word": "江疏影李浩菲直播用假手握手",
-      "onboard_time": 1681409715,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 23161,
