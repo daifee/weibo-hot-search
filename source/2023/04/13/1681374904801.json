@@ -1,0 +1,410 @@
+{
+  "runTime": 1681374904801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2138150,
+        "num": 2138150,
+        "word": "徐峥",
+        "onboard_time": 1681371986,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1303338,
+        "num": 1303338,
+        "word": "优酷回应非会员遇3000多秒广告",
+        "onboard_time": 1681363590,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 55154,
+        "num": 1250288,
+        "word": "一组高频数据看消费回暖",
+        "onboard_time": 1681354588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1336712,
+        "num": 1250125,
+        "word": "易梦玲 很开心缓解了大家的容貌焦虑",
+        "onboard_time": 1681365207,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1243532,
+        "num": 1243532,
+        "word": "胡歌微博编辑记录",
+        "onboard_time": 1681372227,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 953820,
+        "num": 953820,
+        "word": "女子买房送超大阳台封窗却要20多万",
+        "onboard_time": 1681368808,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760697,
+        "num": 760697,
+        "word": "B站活动上传用户真人照片",
+        "onboard_time": 1681371986,
+        "rank": 6,
+        "category": "游戏,科技"
+      },
+      {
+        "raw_hot": 560132,
+        "num": 560132,
+        "word": "员工因不批假与领导吵架牵出吃空饷",
+        "onboard_time": 1681371986,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502376,
+        "num": 502376,
+        "word": "你是尿眠体吗",
+        "onboard_time": 1681363169,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 407006,
+        "num": 407006,
+        "word": "美国奶牛厂爆炸18000头牛死亡",
+        "onboard_time": 1681364908,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2080423,
+        "num": 403662,
+        "word": "成龙口误说很高兴和烂演员合作",
+        "onboard_time": 1681368928,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 561274,
+        "num": 402867,
+        "word": "肖战被工作人员夸守时",
+        "onboard_time": 1681370968,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479026,
+        "num": 396918,
+        "word": "清华张小年 人类精子库",
+        "onboard_time": 1681373851,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 467444,
+        "num": 396415,
+        "word": "网友偶遇陈赫张子萱看画展",
+        "onboard_time": 1681363469,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433750,
+        "num": 392779,
+        "word": "泫雅也没逃过韩国酵母",
+        "onboard_time": 1681360052,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389740,
+        "num": 389740,
+        "word": "简历上写QQ邮箱会掉分吗",
+        "onboard_time": 1681356449,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313018,
+        "num": 313018,
+        "word": "清华北大在校生五一可到淄博免费游",
+        "onboard_time": 1681364728,
+        "rank": 16,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 293565,
+        "num": 293565,
+        "word": "INTO1全员将录制奔跑吧",
+        "onboard_time": 1681369708,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292648,
+        "num": 292648,
+        "word": "腺样体面容",
+        "onboard_time": 1681353207,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 290967,
+        "num": 290967,
+        "word": "罗云熙即将进组",
+        "onboard_time": 1681369226,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361848,
+        "num": 290521,
+        "word": "饮料真的要少喝",
+        "onboard_time": 1681370369,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287744,
+        "num": 287744,
+        "word": "去世的小狗又回到了我家",
+        "onboard_time": 1681370310,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284049,
+        "num": 284049,
+        "word": "AutoGPT",
+        "onboard_time": 1681372589,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 278746,
+        "num": 278746,
+        "word": "王晶说赵露思是目前戏最好的花旦",
+        "onboard_time": 1681358670,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259711,
+        "num": 259711,
+        "word": "在广东存款10多万算多吗",
+        "onboard_time": 1681366467,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253952,
+        "num": 253952,
+        "word": "银行发现7位数存款5年未动急寻人",
+        "onboard_time": 1681374267,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226893,
+        "num": 226893,
+        "word": "可能一辈子都用不上的东西",
+        "onboard_time": 1681368387,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225783,
+        "num": 225783,
+        "word": "范丞丞跑男家族第一个00后",
+        "onboard_time": 1681369767,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223299,
+        "num": 223299,
+        "word": "颜心记",
+        "onboard_time": 1681370608,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148079,
+        "num": 208250,
+        "word": "麦当劳肯德基配送费为什么降不下来",
+        "onboard_time": 1681353087,
+        "rank": 29,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 256229,
+        "num": 208240,
+        "word": "为什么辣条左上角都带一寸照片",
+        "onboard_time": 1681373908,
+        "rank": 30,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 207838,
+        "num": 207838,
+        "word": "TFBOYS获得的第一个奖是音悦台给的",
+        "onboard_time": 1681364789,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202467,
+        "num": 202467,
+        "word": "你为什么还在坚持用QQ",
+        "onboard_time": 1681371148,
+        "rank": 32,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 195186,
+        "num": 195186,
+        "word": "黑化得最令人心疼的角色",
+        "onboard_time": 1681373966,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189676,
+        "num": 189676,
+        "word": "刘奕君 你这样很失态",
+        "onboard_time": 1681374569,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185705,
+        "num": 185705,
+        "word": "北影节大师影像展推荐官海报",
+        "onboard_time": 1681374090,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178569,
+        "num": 178569,
+        "word": "李钟硕李宝英合影",
+        "onboard_time": 1681367008,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171148,
+        "num": 171148,
+        "word": "李晨发文寻找狗主人",
+        "onboard_time": 1681369650,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138274,
+        "num": 138274,
+        "word": "陈幸同3比2王曼昱",
+        "onboard_time": 1681372289,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136405,
+        "num": 136405,
+        "word": "张元英绿色眼妆",
+        "onboard_time": 1681368447,
+        "rank": 39,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 135349,
+        "num": 135349,
+        "word": "男子地铁站故意裸露下体被行拘",
+        "onboard_time": 1681364608,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126522,
+        "num": 126522,
+        "word": "陈若轩回应弃演流浪地球",
+        "onboard_time": 1681370849,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124303,
+        "num": 124303,
+        "word": "卢拉访华",
+        "onboard_time": 1681370428,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 121631,
+        "num": 121631,
+        "word": "白鹿跟桑酒说再见",
+        "onboard_time": 1681372528,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118176,
+        "num": 118176,
+        "word": "时代峰峻欢迎音悦台回归",
+        "onboard_time": 1681364129,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116440,
+        "num": 116440,
+        "word": "丁禹兮春闺梦里人片场花絮",
+        "onboard_time": 1681373609,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112512,
+        "num": 112512,
+        "word": "大学老师辞职创业意外捧红老父亲",
+        "onboard_time": 1681370849,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108063,
+        "num": 108063,
+        "word": "长月烬明泰国预告",
+        "onboard_time": 1681371510,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97982,
+        "num": 107923,
+        "word": "新势力缺台这样的SUV",
+        "onboard_time": 1681374869,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 34412,
+        "num": 106443,
+        "word": "家用SUV选车什么是关键",
+        "onboard_time": 1681372168,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平到南部战区海军视察调研#"
+    }
+  }
+}

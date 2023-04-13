@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681374118684,
+  "endTime": 1681374904801,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2138150,
+      "num": 2138150,
+      "word": "徐峥",
+      "onboard_time": 1681371986,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2134910,
       "num": 2134910,
       "word": "初代跑男重聚",
@@ -233,14 +241,6 @@
       "onboard_time": 1681287746,
       "rank": 30,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 2062537,
-      "num": 2062537,
-      "word": "徐峥",
-      "onboard_time": 1681371986,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2041902,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1701419,
-      "num": 1200220,
+      "num": 1250125,
       "word": "易梦玲 很开心缓解了大家的容貌焦虑",
       "onboard_time": 1681365207,
       "rank": 3,
@@ -611,6 +611,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1243532,
+      "num": 1243532,
+      "word": "胡歌微博编辑记录",
+      "onboard_time": 1681372227,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1198638,
       "num": 557085,
       "word": "虞书欣泳衣旧照",
@@ -649,14 +657,6 @@
       "onboard_time": 1681345953,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1167379,
-      "num": 1167379,
-      "word": "胡歌微博编辑记录",
-      "onboard_time": 1681372227,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1159091,
@@ -2123,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561274,
+      "num": 402867,
+      "word": "肖战被工作人员夸守时",
+      "onboard_time": 1681370968,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560762,
       "num": 560762,
       "word": "薛之谦演唱会门票",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1681268426,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 560132,
+      "num": 560132,
+      "word": "员工因不批假与领导吵架牵出吃空饷",
+      "onboard_time": 1681371986,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556844,
@@ -2403,14 +2419,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 511483,
-      "num": 394742,
-      "word": "肖战被工作人员夸守时",
-      "onboard_time": 1681370968,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 511168,
       "num": 425115,
       "word": "高校图书馆非事业编岗位百人竞争",
@@ -2593,6 +2601,14 @@
       "onboard_time": 1681085549,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479026,
+      "num": 396918,
+      "word": "清华张小年 人类精子库",
+      "onboard_time": 1681373851,
+      "rank": 32,
+      "category": "网红"
     },
     {
       "raw_hot": 477018,
@@ -3065,14 +3081,6 @@
       "onboard_time": 1681285286,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 418287,
-      "num": 373660,
-      "word": "员工因不批假与领导吵架牵出吃空饷",
-      "onboard_time": 1681371986,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 417507,
@@ -4523,6 +4531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287744,
+      "num": 287744,
+      "word": "去世的小狗又回到了我家",
+      "onboard_time": 1681370310,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 287531,
       "num": 287531,
       "word": "许嵩说我的外壳是冷的内心是热烈的",
@@ -4585,6 +4601,14 @@
       "onboard_time": 1681120888,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284049,
+      "num": 284049,
+      "word": "AutoGPT",
+      "onboard_time": 1681372589,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 283484,
@@ -4673,14 +4697,6 @@
       "onboard_time": 1681201466,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 274598,
-      "num": 274598,
-      "word": "AutoGPT",
-      "onboard_time": 1681372589,
-      "rank": 22,
-      "category": "科技"
     },
     {
       "raw_hot": 274055,
@@ -4777,14 +4793,6 @@
       "onboard_time": 1681243631,
       "rank": 24,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 266458,
-      "num": 266458,
-      "word": "去世的小狗又回到了我家",
-      "onboard_time": 1681370310,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 266012,
@@ -4923,6 +4931,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 256229,
+      "num": 208240,
+      "word": "为什么辣条左上角都带一寸照片",
+      "onboard_time": 1681373908,
+      "rank": 39,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 255753,
       "num": 255753,
       "word": "宋雨琦奔跑吧拍摄花絮",
@@ -4977,6 +4993,14 @@
       "onboard_time": 1681091066,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253952,
+      "num": 253952,
+      "word": "银行发现7位数存款5年未动急寻人",
+      "onboard_time": 1681374267,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253868,
@@ -6939,6 +6963,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 195186,
+      "num": 195186,
+      "word": "黑化得最令人心疼的角色",
+      "onboard_time": 1681373966,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195026,
       "num": 195026,
       "word": "TTG战胜TES",
@@ -7211,6 +7243,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 189676,
+      "num": 189676,
+      "word": "刘奕君 你这样很失态",
+      "onboard_time": 1681374569,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189445,
       "num": 167273,
       "word": "荣耀笔记本",
@@ -7435,6 +7475,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 185705,
+      "num": 185705,
+      "word": "北影节大师影像展推荐官海报",
+      "onboard_time": 1681374090,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185697,
       "num": 185697,
       "word": "赵露思神隐杀青vlog",
@@ -7553,14 +7601,6 @@
       "onboard_time": 1681370728,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181860,
-      "num": 181860,
-      "word": "清华张小年 人类精子库",
-      "onboard_time": 1681373851,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 181427,
@@ -9059,14 +9099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133697,
-      "num": 133697,
-      "word": "为什么辣条左上角都带一寸照片",
-      "onboard_time": 1681373908,
-      "rank": 39,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 132556,
       "num": 132556,
       "word": "狗过马路也要等红绿灯",
@@ -9129,14 +9161,6 @@
       "onboard_time": 1681311754,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 130724,
-      "num": 130724,
-      "word": "北影节大师影像展推荐官海报",
-      "onboard_time": 1681374090,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 130289,
@@ -9228,7 +9252,7 @@
     },
     {
       "raw_hot": 127768,
-      "num": 1227274,
+      "num": 1250288,
       "word": "一组高频数据看消费回暖",
       "onboard_time": 1681354588,
       "rank": 2,
@@ -9491,14 +9515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113877,
-      "num": 113877,
-      "word": "黑化得最令人心疼的角色",
-      "onboard_time": 1681373966,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 113273,
       "num": 113273,
       "word": "沙尘来袭时如何防护",
@@ -9689,6 +9705,14 @@
       "onboard_time": 1681296087,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 97982,
+      "num": 107923,
+      "word": "新势力缺台这样的SUV",
+      "onboard_time": 1681374869,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 96311,
