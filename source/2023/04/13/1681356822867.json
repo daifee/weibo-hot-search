@@ -1,0 +1,410 @@
+{
+  "runTime": 1681356822867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1327397,
+        "num": 1327397,
+        "word": "麦当劳肯德基配送费为什么降不下来",
+        "onboard_time": 1681353087,
+        "rank": 0,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 1198460,
+        "num": 1198460,
+        "word": "频繁挖鼻孔或增加患病风险",
+        "onboard_time": 1681348828,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101177,
+        "num": 1021939,
+        "word": "一组高频数据看消费回暖",
+        "onboard_time": 1681354588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1381174,
+        "num": 996710,
+        "word": "易梦玲素颜",
+        "onboard_time": 1681354894,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 959686,
+        "num": 959686,
+        "word": "旱的旱死涝的涝死",
+        "onboard_time": 1681352607,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 958850,
+        "num": 958850,
+        "word": "腺样体面容",
+        "onboard_time": 1681353207,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 657989,
+        "num": 657989,
+        "word": "网红悬崖试胆石被砸断",
+        "onboard_time": 1681353387,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 639729,
+        "num": 639729,
+        "word": "罗云熙戴了白鹿串的手链",
+        "onboard_time": 1681354050,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 549337,
+        "num": 549337,
+        "word": "小伙辞职去旅行被留下当村长",
+        "onboard_time": 1681354110,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546678,
+        "num": 546678,
+        "word": "韩媒炒作沙尘暴起源于中国",
+        "onboard_time": 1681355309,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1426326,
+        "num": 535133,
+        "word": "嗯哼牙齿",
+        "onboard_time": 1681349908,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514327,
+        "num": 514327,
+        "word": "长月烬明开始断更",
+        "onboard_time": 1681351049,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499948,
+        "num": 499948,
+        "word": "朴炯植回春了",
+        "onboard_time": 1681355549,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 449232,
+        "num": 449232,
+        "word": "向往的生活",
+        "onboard_time": 1681353026,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367918,
+        "num": 367918,
+        "word": "社保挂靠代缴已被明确为违法",
+        "onboard_time": 1681308032,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 401989,
+        "num": 360490,
+        "word": "向往的生活拟邀谭松韵",
+        "onboard_time": 1681351408,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336549,
+        "num": 336549,
+        "word": "肖战中国视协演员学习内容摘要",
+        "onboard_time": 1681350208,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315311,
+        "num": 315311,
+        "word": "女子忘关窗回家扫土1小时",
+        "onboard_time": 1681345953,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301172,
+        "num": 301172,
+        "word": "特朗普回应是谁炸了北溪管道",
+        "onboard_time": 1681346852,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 295708,
+        "num": 295708,
+        "word": "宋丹丹沙溢陈赫回归向往的生活",
+        "onboard_time": 1681351825,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372081,
+        "num": 292072,
+        "word": "女子晒用了7年的手机壳破烂不堪",
+        "onboard_time": 1681351109,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283358,
+        "num": 283358,
+        "word": "教资真的好考吗",
+        "onboard_time": 1681354767,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 274946,
+        "num": 274946,
+        "word": "孙珍妮微博里有和抑郁症粉丝的暗号",
+        "onboard_time": 1681341921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257491,
+        "num": 257491,
+        "word": "德罗赞女儿尖叫干扰罚球",
+        "onboard_time": 1681352788,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246239,
+        "num": 246239,
+        "word": "空姐飞机上推销商品长达40分钟",
+        "onboard_time": 1681341502,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231224,
+        "num": 231224,
+        "word": "我推的孩子",
+        "onboard_time": 1681353626,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 229283,
+        "num": 229283,
+        "word": "哈尔滨三孩家庭拟每月补贴1000",
+        "onboard_time": 1681352006,
+        "rank": 26,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 227161,
+        "num": 227161,
+        "word": "简历上写QQ邮箱会掉分吗",
+        "onboard_time": 1681356449,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223901,
+        "num": 223901,
+        "word": "泫雅黑色短发",
+        "onboard_time": 1681356390,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217893,
+        "num": 217893,
+        "word": "陈都灵左耳发布会旧照",
+        "onboard_time": 1681356809,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216771,
+        "num": 216771,
+        "word": "冥夜留下好多遗产",
+        "onboard_time": 1681350327,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208784,
+        "num": 208784,
+        "word": "蔡徐坤浴袍",
+        "onboard_time": 1681355309,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 214103,
+        "num": 208751,
+        "word": "吾夫冥夜",
+        "onboard_time": 1681354469,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208213,
+        "num": 208213,
+        "word": "报告称41.93%的大学生单身且不想脱单",
+        "onboard_time": 1681347810,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 202509,
+        "num": 202509,
+        "word": "关晓彤陈采尼合拍视频",
+        "onboard_time": 1681356269,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196815,
+        "num": 196815,
+        "word": "QQ邮箱关联邮箱帐号功能将下线",
+        "onboard_time": 1681356027,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191768,
+        "num": 191768,
+        "word": "小楼",
+        "onboard_time": 1681350926,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 189455,
+        "num": 189455,
+        "word": "大学党委副书记拟录取为本校博士",
+        "onboard_time": 1681347391,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 184748,
+        "num": 184748,
+        "word": "假如国家是真人",
+        "onboard_time": 1681351767,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184221,
+        "num": 184221,
+        "word": "我志愿加入欢门",
+        "onboard_time": 1681350268,
+        "rank": 39,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 175963,
+        "num": 175963,
+        "word": "父母辈为什么能存得住钱",
+        "onboard_time": 1681355849,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175838,
+        "num": 175838,
+        "word": "柯南联名T恤引争议",
+        "onboard_time": 1681343848,
+        "rank": 41,
+        "category": "动漫,时尚"
+      },
+      {
+        "raw_hot": 161389,
+        "num": 161389,
+        "word": "吴世勋新剧主海报公开",
+        "onboard_time": 1681353927,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158414,
+        "num": 158414,
+        "word": "aki",
+        "onboard_time": 1681345351,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 147553,
+        "num": 147553,
+        "word": "为什么劝你不要辞职去创业",
+        "onboard_time": 1681343487,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138826,
+        "num": 138826,
+        "word": "剧版哈利波特官宣",
+        "onboard_time": 1681342102,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137683,
+        "num": 137683,
+        "word": "为什么说销售是最磨炼人的岗位",
+        "onboard_time": 1681356568,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124825,
+        "num": 124825,
+        "word": "张艺兴陈晓东打篮球",
+        "onboard_time": 1681356749,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123934,
+        "num": 123934,
+        "word": "五月回归的团好多",
+        "onboard_time": 1681355968,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123278,
+        "num": 123278,
+        "word": "军队文职",
+        "onboard_time": 1681350327,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平到南部战区海军视察调研#"
+    }
+  }
+}

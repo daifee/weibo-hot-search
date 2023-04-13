@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681355876438,
+  "endTime": 1681356822867,
   "band_list": [
     {
       "raw_hot": 2425491,
@@ -28,19 +28,27 @@
     },
     {
       "raw_hot": 1500332,
-      "num": 487726,
+      "num": 535133,
       "word": "嗯哼牙齿",
       "onboard_time": 1681349908,
       "rank": 22,
       "category": "艺人"
     },
     {
-      "raw_hot": 1203669,
+      "raw_hot": 1381174,
       "num": 1003412,
       "word": "易梦玲素颜",
       "onboard_time": 1681354894,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1327397,
+      "num": 1327397,
+      "word": "麦当劳肯德基配送费为什么降不下来",
+      "onboard_time": 1681353087,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 1185378,
@@ -59,14 +67,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 1096907,
-      "num": 1096907,
-      "word": "麦当劳肯德基配送费为什么降不下来",
-      "onboard_time": 1681353087,
-      "rank": 49,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 999826,
       "num": 999826,
       "word": "不要穿试衣间里的鞋",
@@ -83,6 +83,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 959686,
+      "num": 959686,
+      "word": "旱的旱死涝的涝死",
+      "onboard_time": 1681352607,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 942854,
       "num": 942854,
       "word": "报告称41.93%的大学生单身且不想脱单",
@@ -97,14 +105,6 @@
       "onboard_time": 1681316664,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 819102,
-      "num": 819102,
-      "word": "旱的旱死涝的涝死",
-      "onboard_time": 1681352607,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 763269,
@@ -163,16 +163,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 641545,
-      "num": 641545,
+      "raw_hot": 657989,
+      "num": 657989,
       "word": "网红悬崖试胆石被砸断",
       "onboard_time": 1681353387,
       "rank": 44,
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 624045,
-      "num": 624045,
+      "raw_hot": 639729,
+      "num": 639729,
       "word": "罗云熙戴了白鹿串的手链",
       "onboard_time": 1681354050,
       "rank": 7,
@@ -211,6 +211,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 549337,
+      "num": 549337,
+      "word": "小伙辞职去旅行被留下当村长",
+      "onboard_time": 1681354110,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546678,
+      "num": 546678,
+      "word": "韩媒炒作沙尘暴起源于中国",
+      "onboard_time": 1681355309,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504531,
       "num": 504531,
       "word": "王者荣耀",
@@ -225,6 +241,14 @@
       "onboard_time": 1681351408,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499948,
+      "num": 499948,
+      "word": "朴炯植回春了",
+      "onboard_time": 1681355549,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 489509,
@@ -305,14 +329,6 @@
       "onboard_time": 1681313370,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409713,
-      "num": 409713,
-      "word": "小伙辞职去旅行被留下当村长",
-      "onboard_time": 1681354110,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391110,
@@ -467,20 +483,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 283358,
+      "num": 283358,
+      "word": "教资真的好考吗",
+      "onboard_time": 1681354767,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 280596,
       "num": 274619,
       "word": "我志愿加入欢门",
       "onboard_time": 1681350268,
       "rank": 19,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 275155,
-      "num": 275155,
-      "word": "朴炯植回春了",
-      "onboard_time": 1681355549,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 271722,
@@ -587,14 +603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231916,
-      "num": 231916,
-      "word": "教资真的好考吗",
-      "onboard_time": 1681354767,
-      "rank": 30,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 229735,
       "num": 229735,
       "word": "中国人造太阳实现重大突破",
@@ -619,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227161,
+      "num": 227161,
+      "word": "简历上写QQ邮箱会掉分吗",
+      "onboard_time": 1681356449,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226517,
       "num": 226517,
       "word": "老孙",
@@ -627,12 +643,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215313,
-      "num": 215313,
-      "word": "韩媒炒作沙尘暴起源于中国",
-      "onboard_time": 1681355309,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 223901,
+      "num": 223901,
+      "word": "泫雅黑色短发",
+      "onboard_time": 1681356390,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217893,
+      "num": 217893,
+      "word": "陈都灵左耳发布会旧照",
+      "onboard_time": 1681356809,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214103,
+      "num": 208751,
+      "word": "吾夫冥夜",
+      "onboard_time": 1681354469,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 210334,
@@ -643,12 +675,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207723,
-      "num": 207723,
+      "raw_hot": 208784,
+      "num": 208784,
       "word": "蔡徐坤浴袍",
       "onboard_time": 1681355309,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 202509,
+      "num": 202509,
+      "word": "关晓彤陈采尼合拍视频",
+      "onboard_time": 1681356269,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 201930,
@@ -673,6 +713,14 @@
       "onboard_time": 1681354708,
       "rank": 37,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 196815,
+      "num": 196815,
+      "word": "QQ邮箱关联邮箱帐号功能将下线",
+      "onboard_time": 1681356027,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 195203,
@@ -731,14 +779,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 190977,
-      "num": 190977,
-      "word": "吾夫冥夜",
-      "onboard_time": 1681354469,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190596,
       "num": 190596,
       "word": "毛不易唱爱很美味片尾曲",
@@ -793,6 +833,14 @@
       "onboard_time": 1681306470,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175963,
+      "num": 175963,
+      "word": "父母辈为什么能存得住钱",
+      "onboard_time": 1681355849,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 171352,
@@ -931,12 +979,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139692,
-      "num": 139692,
-      "word": "父母辈为什么能存得住钱",
-      "onboard_time": 1681355849,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 137683,
+      "num": 137683,
+      "word": "为什么说销售是最磨炼人的岗位",
+      "onboard_time": 1681356568,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136914,
@@ -971,12 +1019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124825,
+      "num": 124825,
+      "word": "张艺兴陈晓东打篮球",
+      "onboard_time": 1681356749,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124260,
       "num": 124260,
       "word": "彭小苒新剧红色婚服",
       "onboard_time": 1681305450,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123934,
+      "num": 123934,
+      "word": "五月回归的团好多",
+      "onboard_time": 1681355968,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 120808,
@@ -1009,6 +1073,14 @@
       "onboard_time": 1681297887,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 101177,
+      "num": 1021939,
+      "word": "一组高频数据看消费回暖",
+      "onboard_time": 1681354588,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97659,
@@ -1081,14 +1153,6 @@
       "onboard_time": 1681316546,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 74139,
-      "num": 1008531,
-      "word": "一组高频数据看消费回暖",
-      "onboard_time": 1681354588,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70156,
