@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681350256388,
+  "endTime": 1681353127868,
   "band_list": [
     {
       "raw_hot": 3279243,
@@ -449,6 +449,22 @@
       "onboard_time": 1681255581,
       "rank": 14,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1426535,
+      "num": 1426535,
+      "word": "频繁挖鼻孔或增加患病风险",
+      "onboard_time": 1681348828,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1406933,
+      "num": 477290,
+      "word": "嗯哼牙齿",
+      "onboard_time": 1681349908,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1343366,
@@ -1251,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703021,
+      "num": 703021,
+      "word": "长月烬明开始断更",
+      "onboard_time": 1681351049,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 702316,
       "num": 702316,
       "word": "张艺谋第一次拍网剧",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1681097008,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 651013,
-      "num": 651013,
-      "word": "频繁挖鼻孔或增加患病风险",
-      "onboard_time": 1681348828,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 645157,
@@ -1640,6 +1656,14 @@
       "word": "贾乃亮生日带罕见病儿童出游",
       "onboard_time": 1681270587,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 602104,
+      "num": 602104,
+      "word": "肖战中国视协演员学习内容摘要",
+      "onboard_time": 1681350208,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -2155,6 +2179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 501371,
+      "num": 501371,
+      "word": "向往的生活拟邀谭松韵",
+      "onboard_time": 1681351408,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501181,
       "num": 501181,
       "word": "蔡徐坤收到小学生送的奥特曼卡",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1681296087,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464374,
+      "num": 263904,
+      "word": "女子晒用了7年的手机壳破烂不堪",
+      "onboard_time": 1681351109,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464132,
@@ -3443,6 +3483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335262,
+      "num": 335262,
+      "word": "宋丹丹沙溢陈赫回归向往的生活",
+      "onboard_time": 1681351825,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334657,
       "num": 334657,
       "word": "小米13Ultra订单增加50%",
@@ -3457,6 +3505,14 @@
       "onboard_time": 1681282466,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 332829,
+      "num": 261311,
+      "word": "肯德基",
+      "onboard_time": 1681350809,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 331519,
@@ -3585,6 +3641,14 @@
       "onboard_time": 1681048411,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 321373,
+      "num": 258506,
+      "word": "冥夜留下好多遗产",
+      "onboard_time": 1681350327,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 320786,
@@ -3737,14 +3801,6 @@
       "onboard_time": 1681285768,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308027,
-      "num": 308027,
-      "word": "嗯哼牙齿",
-      "onboard_time": 1681349908,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 307846,
@@ -3929,6 +3985,14 @@
       "onboard_time": 1681178965,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294568,
+      "num": 294568,
+      "word": "女生为拍网红照爬到核酸屋顶",
+      "onboard_time": 1681347449,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294539,
@@ -4187,14 +4251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269322,
-      "num": 269322,
-      "word": "女生为拍网红照爬到核酸屋顶",
-      "onboard_time": 1681347449,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267888,
       "num": 267888,
       "word": "SEVENTEEN新专史上强度最高编舞",
@@ -4233,6 +4289,14 @@
       "onboard_time": 1681202425,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 265426,
+      "num": 265426,
+      "word": "我志愿加入欢门",
+      "onboard_time": 1681350268,
+      "rank": 19,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 265244,
@@ -4403,6 +4467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 252976,
+      "num": 252976,
+      "word": "教资笔试成绩今晚19点可查",
+      "onboard_time": 1681349908,
+      "rank": 37,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 252245,
       "num": 252245,
       "word": "王者荣耀S31赛季延迟更新",
@@ -4425,6 +4497,14 @@
       "onboard_time": 1681114288,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251322,
+      "num": 251322,
+      "word": "假如国家是真人",
+      "onboard_time": 1681351767,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 249331,
@@ -4577,6 +4657,14 @@
       "onboard_time": 1681285406,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239823,
+      "num": 239823,
+      "word": "小楼",
+      "onboard_time": 1681350926,
+      "rank": 27,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 238928,
@@ -4939,6 +5027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222475,
+      "num": 222475,
+      "word": "旱的旱死涝的涝死",
+      "onboard_time": 1681352607,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221803,
       "num": 221803,
       "word": "当粉丝不让你质疑演技的时候",
@@ -5057,6 +5153,14 @@
       "onboard_time": 1681140508,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218048,
+      "num": 218048,
+      "word": "哈尔滨三孩家庭拟每月补贴1000",
+      "onboard_time": 1681352006,
+      "rank": 32,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 217857,
@@ -5955,6 +6059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197393,
+      "num": 197393,
+      "word": "一起露营吧2嘉宾真实精神状态",
+      "onboard_time": 1681352547,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197390,
       "num": 168312,
       "word": "罗云熙十二神合照",
@@ -6153,6 +6265,14 @@
       "onboard_time": 1681113267,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 194044,
+      "num": 194044,
+      "word": "长空之王真正的主角特辑",
+      "onboard_time": 1681352547,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 193981,
@@ -6707,6 +6827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181114,
+      "num": 181114,
+      "word": "中国女性在职场上的现状",
+      "onboard_time": 1681350926,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180533,
       "num": 180533,
       "word": "原著里的冥夜桑酒",
@@ -7059,6 +7187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169601,
+      "num": 169601,
+      "word": "吃到什么程度是七分饱",
+      "onboard_time": 1681350748,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169469,
       "num": 169469,
       "word": "陈伟霆用方言推荐电影暴风",
@@ -7145,6 +7281,14 @@
       "onboard_time": 1681303647,
       "rank": 37,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 165795,
+      "num": 165795,
+      "word": "毛不易唱爱很美味片尾曲",
+      "onboard_time": 1681352906,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 165763,
@@ -7377,14 +7521,6 @@
       "onboard_time": 1681286486,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 157358,
-      "num": 157358,
-      "word": "教资笔试成绩今晚19点可查",
-      "onboard_time": 1681349908,
-      "rank": 37,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 156763,
@@ -7715,6 +7851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146698,
+      "num": 146698,
+      "word": "向往的生活",
+      "onboard_time": 1681353026,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146536,
       "num": 146536,
       "word": "张真源走路视频",
@@ -7915,6 +8059,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 140983,
+      "num": 140983,
+      "word": "德罗赞女儿尖叫干扰罚球",
+      "onboard_time": 1681352788,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140884,
       "num": 140884,
       "word": "曾凡博暴扣",
@@ -8041,6 +8193,14 @@
       "onboard_time": 1681107567,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132448,
+      "num": 132448,
+      "word": "麦当劳肯德基配送费为什么降不下来",
+      "onboard_time": 1681353087,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 132432,
@@ -8257,14 +8417,6 @@
       "onboard_time": 1681038025,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122069,
-      "num": 122069,
-      "word": "肖战中国视协演员学习内容摘要",
-      "onboard_time": 1681350208,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 120808,

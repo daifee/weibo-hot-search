@@ -1,0 +1,410 @@
+{
+  "runTime": 1681353127868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1426535,
+        "num": 1426535,
+        "word": "频繁挖鼻孔或增加患病风险",
+        "onboard_time": 1681348828,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792572,
+        "num": 792572,
+        "word": "女子忘关窗回家扫土1小时",
+        "onboard_time": 1681345953,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26817,
+        "num": 782010,
+        "word": "中国有约",
+        "onboard_time": 1681304129,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 771980,
+        "num": 771980,
+        "word": "报告称41.93%的大学生单身且不想脱单",
+        "onboard_time": 1681347810,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 703021,
+        "num": 703021,
+        "word": "长月烬明开始断更",
+        "onboard_time": 1681351049,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 687359,
+        "num": 687359,
+        "word": "空姐飞机上推销商品长达40分钟",
+        "onboard_time": 1681341502,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602104,
+        "num": 602104,
+        "word": "肖战中国视协演员学习内容摘要",
+        "onboard_time": 1681350208,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571029,
+        "num": 571029,
+        "word": "社保挂靠代缴已被明确为违法",
+        "onboard_time": 1681308032,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 538767,
+        "num": 538767,
+        "word": "特朗普回应是谁炸了北溪管道",
+        "onboard_time": 1681346852,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 501371,
+        "num": 501371,
+        "word": "向往的生活拟邀谭松韵",
+        "onboard_time": 1681351408,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1406933,
+        "num": 477290,
+        "word": "嗯哼牙齿",
+        "onboard_time": 1681349908,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 592546,
+        "num": 460935,
+        "word": "孙珍妮微博里有和抑郁症粉丝的暗号",
+        "onboard_time": 1681341921,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443618,
+        "num": 443618,
+        "word": "大学党委副书记拟录取为本校博士",
+        "onboard_time": 1681347391,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 374594,
+        "num": 374594,
+        "word": "陈都灵早期等公交旧照",
+        "onboard_time": 1681316664,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358294,
+        "num": 358294,
+        "word": "军队文职",
+        "onboard_time": 1681350327,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335262,
+        "num": 335262,
+        "word": "宋丹丹沙溢陈赫回归向往的生活",
+        "onboard_time": 1681351825,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294568,
+        "num": 294568,
+        "word": "女生为拍网红照爬到核酸屋顶",
+        "onboard_time": 1681347449,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288212,
+        "num": 288212,
+        "word": "女子因未婚应聘被拒",
+        "onboard_time": 1681346912,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286788,
+        "num": 286788,
+        "word": "网友建议专家多生少说",
+        "onboard_time": 1681348769,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265426,
+        "num": 265426,
+        "word": "我志愿加入欢门",
+        "onboard_time": 1681350268,
+        "rank": 19,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 464374,
+        "num": 263904,
+        "word": "女子晒用了7年的手机壳破烂不堪",
+        "onboard_time": 1681351109,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332829,
+        "num": 261311,
+        "word": "肯德基",
+        "onboard_time": 1681350809,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 321373,
+        "num": 258506,
+        "word": "冥夜留下好多遗产",
+        "onboard_time": 1681350327,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255684,
+        "num": 255684,
+        "word": "剧版哈利波特官宣",
+        "onboard_time": 1681342102,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252976,
+        "num": 252976,
+        "word": "教资笔试成绩今晚19点可查",
+        "onboard_time": 1681349908,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 251322,
+        "num": 251322,
+        "word": "假如国家是真人",
+        "onboard_time": 1681351767,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245614,
+        "num": 245614,
+        "word": "柯南联名T恤引争议",
+        "onboard_time": 1681343848,
+        "rank": 26,
+        "category": "动漫,时尚"
+      },
+      {
+        "raw_hot": 239823,
+        "num": 239823,
+        "word": "小楼",
+        "onboard_time": 1681350926,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 227664,
+        "num": 227664,
+        "word": "NBA附加赛",
+        "onboard_time": 1681350388,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225409,
+        "num": 225409,
+        "word": "为什么劝你不要辞职去创业",
+        "onboard_time": 1681343487,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224409,
+        "num": 224409,
+        "word": "刘嘉玲何超琼杨紫琼林青霞合影",
+        "onboard_time": 1681347691,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222475,
+        "num": 222475,
+        "word": "旱的旱死涝的涝死",
+        "onboard_time": 1681352607,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218048,
+        "num": 218048,
+        "word": "哈尔滨三孩家庭拟每月补贴1000",
+        "onboard_time": 1681352006,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 197393,
+        "num": 197393,
+        "word": "一起露营吧2嘉宾真实精神状态",
+        "onboard_time": 1681352547,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196761,
+        "num": 196761,
+        "word": "减肥才是最低成本的变美",
+        "onboard_time": 1681343672,
+        "rank": 34,
+        "category": "情感,美妆"
+      },
+      {
+        "raw_hot": 194044,
+        "num": 194044,
+        "word": "长空之王真正的主角特辑",
+        "onboard_time": 1681352547,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189202,
+        "num": 189202,
+        "word": "美生物实验室感染病毒的小白鼠逃了",
+        "onboard_time": 1681304548,
+        "rank": 36,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 181114,
+        "num": 181114,
+        "word": "中国女性在职场上的现状",
+        "onboard_time": 1681350926,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177223,
+        "num": 177223,
+        "word": "aki",
+        "onboard_time": 1681345351,
+        "rank": 38,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 169601,
+        "num": 169601,
+        "word": "吃到什么程度是七分饱",
+        "onboard_time": 1681350748,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165795,
+        "num": 165795,
+        "word": "毛不易唱爱很美味片尾曲",
+        "onboard_time": 1681352906,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165737,
+        "num": 165737,
+        "word": "老孙",
+        "onboard_time": 1681349130,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146698,
+        "num": 146698,
+        "word": "向往的生活",
+        "onboard_time": 1681353026,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143044,
+        "num": 143044,
+        "word": "天欢下凡没有嘎",
+        "onboard_time": 1681346314,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140983,
+        "num": 140983,
+        "word": "德罗赞女儿尖叫干扰罚球",
+        "onboard_time": 1681352788,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140344,
+        "num": 140344,
+        "word": "深圳将取消六折人才房",
+        "onboard_time": 1681342043,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 133332,
+        "num": 133332,
+        "word": "gidle确定5月回归",
+        "onboard_time": 1681347691,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133013,
+        "num": 133013,
+        "word": "不要穿试衣间里的鞋",
+        "onboard_time": 1681299570,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133010,
+        "num": 133010,
+        "word": "迪丽热巴利剑玫瑰下班视频",
+        "onboard_time": 1681347090,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132448,
+        "num": 132448,
+        "word": "麦当劳肯德基配送费为什么降不下来",
+        "onboard_time": 1681353087,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#农村特色产业前景广阔#"
+    }
+  }
+}
