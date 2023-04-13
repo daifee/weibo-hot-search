@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681417081348,
+  "endTime": 1681418021631,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -32395,20 +32395,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14199,
+      "num": 14199,
+      "word": "影视剧里一眼万年的蓝裙子",
+      "onboard_time": 1681416613,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 12137,
       "num": 14932,
       "word": "热爱生活的人不会无聊",
       "onboard_time": 1680383591,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 12080,
-      "num": 13743,
-      "word": "影视剧里一眼万年的蓝裙子",
-      "onboard_time": 1681416613,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 5478,
