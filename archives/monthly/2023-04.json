@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681413222986,
+  "endTime": 1681414405338,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -32137,6 +32137,14 @@
       "onboard_time": 1680185788,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35349,
+      "num": 25569,
+      "word": "B站就上传用户真人照片致歉",
+      "onboard_time": 1681413434,
+      "rank": 12,
+      "category": "科技"
     },
     {
       "raw_hot": 34941,

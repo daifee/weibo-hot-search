@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681413222986,
+  "endTime": 1681414405338,
   "band_list": [
     {
       "raw_hot": 1468739,
@@ -411,6 +411,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 35349,
+      "num": 25569,
+      "word": "B站就上传用户真人照片致歉",
+      "onboard_time": 1681413434,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 34348,
       "num": 34348,
       "word": "那些尝试但失败了的副业",
@@ -435,20 +443,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25493,
+      "num": 23981,
+      "word": "儿时的友情注定渐行渐远吗",
+      "onboard_time": 1681398692,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 24679,
       "num": 29641,
       "word": "AG战胜KSG",
       "onboard_time": 1681398269,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 24231,
-      "num": 23981,
-      "word": "儿时的友情注定渐行渐远吗",
-      "onboard_time": 1681398692,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 19679,
