@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681389306438,
+  "endTime": 1681390330697,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2119616,
+      "num": 632454,
+      "word": "我国未婚女性不能申请精子库",
+      "onboard_time": 1681386026,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1998673,
       "num": 331331,
       "word": "北大全嘻嘻 清华张小年",
@@ -73,14 +81,6 @@
       "onboard_time": 1681360052,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1881228,
-      "num": 632454,
-      "word": "我国未婚女性不能申请精子库",
-      "onboard_time": 1681386026,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1796971,
@@ -195,12 +195,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1149340,
+      "num": 437716,
+      "word": "李湘回应王诗龄汉服造型",
+      "onboard_time": 1681386927,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1131099,
       "num": 1131099,
       "word": "社保挂靠代缴已被明确为违法",
       "onboard_time": 1681308032,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1129067,
+      "num": 1129067,
+      "word": "罗云熙白鹿发文告别冥夜桑酒",
+      "onboard_time": 1681389510,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1051717,
@@ -312,14 +328,6 @@
       "word": "陈都灵早期等公交旧照",
       "onboard_time": 1681316664,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 830636,
-      "num": 437716,
-      "word": "李湘回应王诗龄汉服造型",
-      "onboard_time": 1681386927,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -587,12 +595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516785,
+      "num": 241784,
+      "word": "何悯鸿怀孕",
+      "onboard_time": 1681389090,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 513769,
       "num": 513769,
       "word": "教资笔试成绩今日发布",
       "onboard_time": 1681376608,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 508974,
+      "num": 508974,
+      "word": "易烊千玺石上鸟胸针",
+      "onboard_time": 1681387769,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 504531,
@@ -659,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468132,
+      "num": 241606,
+      "word": "大三学生给同学洗鞋2个月赚8万",
+      "onboard_time": 1681387168,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465582,
       "num": 465582,
       "word": "向往的生活",
@@ -699,12 +731,12 @@
       "category": "动漫,时尚"
     },
     {
-      "raw_hot": 456630,
-      "num": 216710,
-      "word": "大三学生给同学洗鞋2个月赚8万",
-      "onboard_time": 1681387168,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 455623,
+      "num": 240921,
+      "word": "杨颖金色抹胸长裙",
+      "onboard_time": 1681389028,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 453209,
@@ -795,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405671,
+      "num": 405671,
+      "word": "张杰身骑白马戏腔",
+      "onboard_time": 1681388669,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405603,
       "num": 405603,
       "word": "父母辈为什么能存得住钱",
@@ -819,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398368,
+      "num": 240576,
+      "word": "赵露思黑色吊带长裙",
+      "onboard_time": 1681387108,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 395477,
       "num": 328890,
       "word": "易梦玲黑裙",
@@ -833,14 +881,6 @@
       "onboard_time": 1681359935,
       "rank": 41,
       "category": "科技"
-    },
-    {
-      "raw_hot": 393376,
-      "num": 216118,
-      "word": "赵露思黑色吊带长裙",
-      "onboard_time": 1681387108,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 392375,
@@ -900,7 +940,7 @@
     },
     {
       "raw_hot": 357470,
-      "num": 215703,
+      "num": 241301,
       "word": "性单恋人群怎么谈恋爱",
       "onboard_time": 1681385067,
       "rank": 41,
@@ -961,14 +1001,6 @@
       "onboard_time": 1681302627,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 341898,
-      "num": 341898,
-      "word": "张杰身骑白马戏腔",
-      "onboard_time": 1681388669,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 341866,
@@ -1187,6 +1219,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 283249,
+      "num": 283249,
+      "word": "声生不息",
+      "onboard_time": 1681388310,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280596,
       "num": 274619,
       "word": "我志愿加入欢门",
@@ -1339,6 +1379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242429,
+      "num": 242429,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1681389929,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242026,
       "num": 242026,
       "word": "春天是精神病的高发时期",
@@ -1355,8 +1403,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237292,
-      "num": 213274,
+      "raw_hot": 240436,
+      "num": 240436,
       "word": "怪不得公交车要自己一个道",
       "onboard_time": 1681385909,
       "rank": 26,
@@ -1409,6 +1457,14 @@
       "onboard_time": 1681373966,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230515,
+      "num": 230515,
+      "word": "誓约亲了久凡",
+      "onboard_time": 1681389390,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 230132,
@@ -1499,6 +1555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210585,
+      "num": 210585,
+      "word": "澹台烬是个学人烬",
+      "onboard_time": 1681389329,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210334,
       "num": 210334,
       "word": "电影爱很美味",
@@ -1561,6 +1625,14 @@
       "onboard_time": 1681365928,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204861,
+      "num": 204861,
+      "word": "陈梦3比2早田希娜",
+      "onboard_time": 1681389208,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 204836,
@@ -1635,20 +1707,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201511,
+      "num": 201511,
+      "word": "马嘉祺说现在是闪亮的日子",
+      "onboard_time": 1681389629,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201417,
       "num": 201417,
       "word": "INTO1上海演唱会预售",
       "onboard_time": 1681376910,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200974,
-      "num": 198392,
-      "word": "声生不息",
-      "onboard_time": 1681388310,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 200966,
@@ -1664,6 +1736,14 @@
       "word": "大侦探",
       "onboard_time": 1681365928,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200803,
+      "num": 200803,
+      "word": "Lizmcd直拍",
+      "onboard_time": 1681389570,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1723,6 +1803,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 195686,
+      "num": 195686,
+      "word": "欢迎来到e次元空间",
+      "onboard_time": 1681389749,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 195606,
       "num": 173607,
       "word": "音悦台APP已开放下载",
@@ -1739,12 +1827,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 194822,
-      "num": 194822,
-      "word": "杨颖金色抹胸长裙",
-      "onboard_time": 1681389028,
-      "rank": 36,
-      "category": "作品衍生,时尚"
+      "raw_hot": 195005,
+      "num": 195005,
+      "word": "张韶涵蔡旻佑于文文合唱爱",
+      "onboard_time": 1681390169,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 194818,
@@ -1785,6 +1873,14 @@
       "onboard_time": 1681311934,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192694,
+      "num": 192694,
+      "word": "阿云嘎渐变灰西装造型",
+      "onboard_time": 1681389329,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191778,
@@ -1873,14 +1969,6 @@
       "onboard_time": 1681367608,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187604,
-      "num": 187604,
-      "word": "何悯鸿怀孕",
-      "onboard_time": 1681389090,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 187331,
@@ -1977,14 +2065,6 @@
       "onboard_time": 1681388609,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178224,
-      "num": 178224,
-      "word": "陈梦3比2早田希娜",
-      "onboard_time": 1681389208,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 176616,
@@ -2145,6 +2225,14 @@
       "onboard_time": 1681310313,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162678,
+      "num": 162678,
+      "word": "钟楚曦白色高开叉长裙",
+      "onboard_time": 1681390169,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 160659,
@@ -2612,7 +2700,7 @@
     },
     {
       "raw_hot": 84596,
-      "num": 209169,
+      "num": 230887,
       "word": "精装修买的没有送的香",
       "onboard_time": 1681387408,
       "rank": 29,
