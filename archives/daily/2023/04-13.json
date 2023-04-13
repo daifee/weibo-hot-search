@@ -1,7 +1,15 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681356822867,
+  "endTime": 1681359663146,
   "band_list": [
+    {
+      "raw_hot": 3297011,
+      "num": 3297011,
+      "word": "简历上写QQ邮箱会掉分吗",
+      "onboard_time": 1681356449,
+      "rank": 27,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2425491,
       "num": 611278,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1500332,
-      "num": 535133,
+      "num": 556076,
       "word": "嗯哼牙齿",
       "onboard_time": 1681349908,
       "rank": 22,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1381174,
-      "num": 1003412,
+      "num": 1188126,
       "word": "易梦玲素颜",
       "onboard_time": 1681354894,
       "rank": 3,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 790390,
+      "num": 790390,
+      "word": "韩媒炒作沙尘暴起源于中国",
+      "onboard_time": 1681355309,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763269,
       "num": 94125,
       "word": "女演员称怀孕后丈夫多次收涉黄短信",
@@ -131,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 753054,
+      "num": 753054,
+      "word": "小伙辞职去旅行被留下当村长",
+      "onboard_time": 1681354110,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727472,
       "num": 727472,
       "word": "特朗普回应是谁炸了北溪管道",
       "onboard_time": 1681346852,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 722702,
+      "num": 722702,
+      "word": "华晨宇回应华语乐坛永远的神",
+      "onboard_time": 1681357468,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 710676,
@@ -161,6 +193,14 @@
       "onboard_time": 1681343487,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 662352,
+      "num": 548771,
+      "word": "泫雅黑色短发",
+      "onboard_time": 1681356390,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 657989,
@@ -195,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597324,
+      "num": 546204,
+      "word": "王晶说赵露思是目前戏最好的花旦",
+      "onboard_time": 1681358670,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 559844,
       "num": 559844,
       "word": "美生物实验室感染病毒的小白鼠逃了",
@@ -211,20 +259,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 549337,
-      "num": 549337,
-      "word": "小伙辞职去旅行被留下当村长",
-      "onboard_time": 1681354110,
+      "raw_hot": 529784,
+      "num": 529784,
+      "word": "陕西一教师自称贿赂领导被逼自杀",
+      "onboard_time": 1681357652,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546678,
-      "num": 546678,
-      "word": "韩媒炒作沙尘暴起源于中国",
-      "onboard_time": 1681355309,
-      "rank": 33,
-      "category": "社会新闻"
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 504531,
@@ -249,6 +289,14 @@
       "onboard_time": 1681355549,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 492763,
+      "num": 492763,
+      "word": "QQ邮箱关联邮箱帐号功能将下线",
+      "onboard_time": 1681356027,
+      "rank": 35,
+      "category": "科技"
     },
     {
       "raw_hot": 489509,
@@ -276,7 +324,7 @@
     },
     {
       "raw_hot": 464374,
-      "num": 309534,
+      "num": 361815,
       "word": "女子晒用了7年的手机壳破烂不堪",
       "onboard_time": 1681351109,
       "rank": 20,
@@ -323,12 +371,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 417404,
+      "num": 417404,
+      "word": "婚假多少天比较合适",
+      "onboard_time": 1681357652,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410861,
       "num": 410861,
       "word": "全圆佑 小卡",
       "onboard_time": 1681313370,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405603,
+      "num": 405603,
+      "word": "父母辈为什么能存得住钱",
+      "onboard_time": 1681355849,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 404135,
+      "num": 404135,
+      "word": "陈都灵左耳发布会旧照",
+      "onboard_time": 1681356809,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 391110,
@@ -475,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 285320,
+      "num": 285320,
+      "word": "左然",
+      "onboard_time": 1681358430,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284914,
       "num": 284914,
       "word": "哈尔滨三孩家庭拟每月补贴1000",
@@ -515,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263919,
+      "num": 263919,
+      "word": "何悯鸿搬离欢乐颂",
+      "onboard_time": 1681358371,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263789,
       "num": 263789,
       "word": "假如国家是真人",
@@ -531,12 +619,28 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 257815,
+      "num": 257815,
+      "word": "吾夫冥夜",
+      "onboard_time": 1681354469,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257464,
       "num": 257464,
       "word": "巴西总统卢拉抵达上海",
       "onboard_time": 1681344573,
       "rank": 25,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 253115,
+      "num": 248430,
+      "word": "长月烬明带火敦煌风汉服",
+      "onboard_time": 1681357532,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 252976,
@@ -561,6 +665,14 @@
       "onboard_time": 1681350926,
       "rank": 27,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 249683,
+      "num": 249683,
+      "word": "关晓彤吊带皮裙",
+      "onboard_time": 1681359572,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245316,
@@ -627,44 +739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227161,
-      "num": 227161,
-      "word": "简历上写QQ邮箱会掉分吗",
-      "onboard_time": 1681356449,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 226517,
       "num": 226517,
       "word": "老孙",
       "onboard_time": 1681349130,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223901,
-      "num": 223901,
-      "word": "泫雅黑色短发",
-      "onboard_time": 1681356390,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 217893,
-      "num": 217893,
-      "word": "陈都灵左耳发布会旧照",
-      "onboard_time": 1681356809,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 214103,
-      "num": 208751,
-      "word": "吾夫冥夜",
-      "onboard_time": 1681354469,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 210334,
@@ -715,12 +795,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 196815,
-      "num": 196815,
-      "word": "QQ邮箱关联邮箱帐号功能将下线",
-      "onboard_time": 1681356027,
+      "raw_hot": 196770,
+      "num": 196770,
+      "word": "花神视频遭多位花神扮演者吐槽",
+      "onboard_time": 1681359152,
       "rank": 35,
-      "category": "科技"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195203,
@@ -753,6 +833,14 @@
       "onboard_time": 1681352547,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193984,
+      "num": 193984,
+      "word": "变瘦对你来说很重要吗",
+      "onboard_time": 1681358851,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192905,
@@ -835,19 +923,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175963,
-      "num": 175963,
-      "word": "父母辈为什么能存得住钱",
-      "onboard_time": 1681355849,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171352,
       "num": 171352,
       "word": "天龙八部开播26周年",
       "onboard_time": 1681355249,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 170769,
+      "num": 170769,
+      "word": "刘浩存林一离心力改名脱轨",
+      "onboard_time": 1681359393,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -891,6 +979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 165211,
+      "num": 165211,
+      "word": "张艺兴陈晓东打篮球",
+      "onboard_time": 1681356749,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163282,
       "num": 163282,
       "word": "猫咪进不了生肖是有原因的",
@@ -929,6 +1025,14 @@
       "onboard_time": 1681349547,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 153866,
+      "num": 153866,
+      "word": "大屏上的长月烬明海报",
+      "onboard_time": 1681359331,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 149127,
@@ -1019,12 +1123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124825,
-      "num": 124825,
-      "word": "张艺兴陈晓东打篮球",
-      "onboard_time": 1681356749,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 127768,
+      "num": 1195130,
+      "word": "一组高频数据看消费回暖",
+      "onboard_time": 1681354588,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124260,
@@ -1073,14 +1177,6 @@
       "onboard_time": 1681297887,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 101177,
-      "num": 1021939,
-      "word": "一组高频数据看消费回暖",
-      "onboard_time": 1681354588,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97659,
@@ -1273,6 +1369,9 @@
     },
     {
       "word": "#习近平到南部战区海军视察调研#"
+    },
+    {
+      "word": "#习近平在广州市考察调研#"
     }
   ]
 }
