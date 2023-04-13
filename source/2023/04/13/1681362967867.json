@@ -1,0 +1,410 @@
+{
+  "runTime": 1681362967867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2639548,
+        "num": 2639548,
+        "word": "简历上写QQ邮箱会掉分吗",
+        "onboard_time": 1681356449,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044332,
+        "num": 1044332,
+        "word": "麦当劳肯德基配送费为什么降不下来",
+        "onboard_time": 1681353087,
+        "rank": 1,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 75544,
+        "num": 988631,
+        "word": "一组高频数据看消费回暖",
+        "onboard_time": 1681354588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978482,
+        "num": 978482,
+        "word": "易梦玲素颜",
+        "onboard_time": 1681354894,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 797035,
+        "num": 797035,
+        "word": "音悦台真的回来了",
+        "onboard_time": 1681359692,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 757723,
+        "num": 757723,
+        "word": "腺样体面容",
+        "onboard_time": 1681353207,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 670149,
+        "num": 670149,
+        "word": "陕西一教师自称贿赂领导被逼自杀",
+        "onboard_time": 1681357652,
+        "rank": 6,
+        "category": "社会负面,教育"
+      },
+      {
+        "raw_hot": 561676,
+        "num": 561676,
+        "word": "华晨宇回应华语乐坛永远的神",
+        "onboard_time": 1681357468,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 526461,
+        "num": 526461,
+        "word": "旱的旱死涝的涝死",
+        "onboard_time": 1681352607,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 471880,
+        "num": 471880,
+        "word": "小伙辞职去旅行被留下当村长",
+        "onboard_time": 1681354110,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1992142,
+        "num": 457842,
+        "word": "泫雅也没逃过韩国酵母",
+        "onboard_time": 1681360052,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1159091,
+        "num": 456692,
+        "word": "王晶说赵露思是目前戏最好的花旦",
+        "onboard_time": 1681358670,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 706181,
+        "num": 443517,
+        "word": "嗯哼牙齿",
+        "onboard_time": 1681349908,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426493,
+        "num": 426493,
+        "word": "变瘦对你来说很重要吗",
+        "onboard_time": 1681358851,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413738,
+        "num": 413738,
+        "word": "关晓彤吊带皮裙",
+        "onboard_time": 1681359572,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399977,
+        "num": 399977,
+        "word": "韩媒炒作沙尘暴起源于中国",
+        "onboard_time": 1681355309,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393522,
+        "num": 393522,
+        "word": "小米平板",
+        "onboard_time": 1681359935,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 371099,
+        "num": 371099,
+        "word": "拔完牙后千万不要清理牙缝",
+        "onboard_time": 1681360113,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369746,
+        "num": 369746,
+        "word": "频繁挖鼻孔或增加患病风险",
+        "onboard_time": 1681348828,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346894,
+        "num": 346894,
+        "word": "婚假多少天比较合适",
+        "onboard_time": 1681357652,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337886,
+        "num": 337886,
+        "word": "朴炯植回春了",
+        "onboard_time": 1681355549,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327051,
+        "num": 327051,
+        "word": "女子晒用了7年的手机壳破烂不堪",
+        "onboard_time": 1681351109,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319163,
+        "num": 319163,
+        "word": "杜淳王灿为女儿庆生",
+        "onboard_time": 1681362032,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310697,
+        "num": 310697,
+        "word": "花神视频遭多位花神扮演者吐槽",
+        "onboard_time": 1681359152,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302760,
+        "num": 302760,
+        "word": "长月烬明开始断更",
+        "onboard_time": 1681351049,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290877,
+        "num": 290877,
+        "word": "给一个6年全职主妇发了offer",
+        "onboard_time": 1681361493,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282672,
+        "num": 282672,
+        "word": "网红悬崖试胆石被砸断",
+        "onboard_time": 1681353387,
+        "rank": 26,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 261767,
+        "num": 261767,
+        "word": "罗云熙戴了白鹿串的手链",
+        "onboard_time": 1681354050,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251253,
+        "num": 251253,
+        "word": "韩国酵母",
+        "onboard_time": 1681362091,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247936,
+        "num": 247936,
+        "word": "QQ邮箱关联邮箱帐号功能将下线",
+        "onboard_time": 1681356027,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 261822,
+        "num": 247883,
+        "word": "陶晶莹被问有没有到",
+        "onboard_time": 1681362392,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247678,
+        "num": 247678,
+        "word": "父母辈为什么能存得住钱",
+        "onboard_time": 1681355849,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242002,
+        "num": 242002,
+        "word": "陈都灵左耳发布会旧照",
+        "onboard_time": 1681356809,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235156,
+        "num": 235156,
+        "word": "左然",
+        "onboard_time": 1681358430,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233069,
+        "num": 233069,
+        "word": "英格拉姆",
+        "onboard_time": 1681361912,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227456,
+        "num": 227456,
+        "word": "何悯鸿搬离欢乐颂",
+        "onboard_time": 1681358371,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217957,
+        "num": 217957,
+        "word": "肖战中国视协演员学习内容摘要",
+        "onboard_time": 1681350208,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202280,
+        "num": 202280,
+        "word": "刘浩存林一离心力改名脱轨",
+        "onboard_time": 1681359393,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199085,
+        "num": 199085,
+        "word": "种地吧",
+        "onboard_time": 1681361671,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193031,
+        "num": 193031,
+        "word": "特朗普回应是谁炸了北溪管道",
+        "onboard_time": 1681346852,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 191777,
+        "num": 191777,
+        "word": "报告称41.93%的大学生单身且不想脱单",
+        "onboard_time": 1681347810,
+        "rank": 40,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 189910,
+        "num": 189910,
+        "word": "音悦台",
+        "onboard_time": 1681361733,
+        "rank": 41,
+        "category": "音乐,综艺"
+      },
+      {
+        "raw_hot": 189450,
+        "num": 189450,
+        "word": "长月烬明带火敦煌风汉服",
+        "onboard_time": 1681357532,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171895,
+        "num": 171895,
+        "word": "谭飞删博",
+        "onboard_time": 1681362631,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165332,
+        "num": 165332,
+        "word": "女子忘关窗回家扫土1小时",
+        "onboard_time": 1681345953,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161618,
+        "num": 161618,
+        "word": "哈利波特",
+        "onboard_time": 1681362811,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155016,
+        "num": 155016,
+        "word": "冥夜留下好多遗产",
+        "onboard_time": 1681350327,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154492,
+        "num": 154492,
+        "word": "海豚吃到淄博烧烤有多满足",
+        "onboard_time": 1681360894,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 154546,
+        "num": 149728,
+        "word": "吾夫冥夜",
+        "onboard_time": 1681354469,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142690,
+        "num": 142690,
+        "word": "我推的孩子",
+        "onboard_time": 1681353626,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在广州市考察调研#"
+    }
+  }
+}

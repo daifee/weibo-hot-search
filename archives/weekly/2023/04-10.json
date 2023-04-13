@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681360477444,
+  "endTime": 1681362967867,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -225,6 +225,14 @@
       "onboard_time": 1681132285,
       "rank": 31,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1992142,
+      "num": 491392,
+      "word": "泫雅也没逃过韩国酵母",
+      "onboard_time": 1681360052,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1987750,
@@ -507,14 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1332549,
-      "num": 491392,
-      "word": "泫雅也没逃过韩国酵母",
-      "onboard_time": 1681360052,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1327397,
       "num": 1327397,
       "word": "麦当劳肯德基配送费为什么降不下来",
@@ -609,6 +609,14 @@
       "onboard_time": 1681345953,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1159091,
+      "num": 546204,
+      "word": "王晶说赵露思是目前戏最好的花旦",
+      "onboard_time": 1681358670,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1144862,
@@ -833,14 +841,6 @@
       "onboard_time": 1681352607,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 956008,
-      "num": 546204,
-      "word": "王晶说赵露思是目前戏最好的花旦",
-      "onboard_time": 1681358670,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 954301,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1681308454,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 797035,
+      "num": 797035,
+      "word": "音悦台真的回来了",
+      "onboard_time": 1681359692,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 790390,
@@ -1457,6 +1465,14 @@
       "onboard_time": 1681092686,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 670149,
+      "num": 670149,
+      "word": "陕西一教师自称贿赂领导被逼自杀",
+      "onboard_time": 1681357652,
+      "rank": 13,
+      "category": "社会负面,教育"
     },
     {
       "raw_hot": 669596,
@@ -1865,14 +1881,6 @@
       "onboard_time": 1681208666,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 581157,
-      "num": 529784,
-      "word": "陕西一教师自称贿赂领导被逼自杀",
-      "onboard_time": 1681357652,
-      "rank": 13,
-      "category": "社会负面,教育"
     },
     {
       "raw_hot": 580001,
@@ -2811,6 +2819,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 426493,
+      "num": 426493,
+      "word": "变瘦对你来说很重要吗",
+      "onboard_time": 1681358851,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425674,
       "num": 425674,
       "word": "四川西昌突发森林火灾",
@@ -3195,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393522,
+      "num": 393522,
+      "word": "小米平板",
+      "onboard_time": 1681359935,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 393021,
       "num": 393021,
       "word": "曾妄议台湾问题的日军官坠机下落不明",
@@ -3313,6 +3337,14 @@
       "onboard_time": 1681209927,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371099,
+      "num": 371099,
+      "word": "拔完牙后千万不要清理牙缝",
+      "onboard_time": 1681360113,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 368497,
@@ -3867,6 +3899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319163,
+      "num": 319163,
+      "word": "杜淳王灿为女儿庆生",
+      "onboard_time": 1681362032,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318843,
       "num": 286567,
       "word": "异地工作你会考虑迁户口吗",
@@ -3889,14 +3929,6 @@
       "onboard_time": 1681294226,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318024,
-      "num": 318024,
-      "word": "音悦台真的回来了",
-      "onboard_time": 1681359692,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 315949,
@@ -3929,14 +3961,6 @@
       "onboard_time": 1681099651,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 314502,
-      "num": 314502,
-      "word": "变瘦对你来说很重要吗",
-      "onboard_time": 1681358851,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313746,
@@ -4209,6 +4233,14 @@
       "onboard_time": 1681134269,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290877,
+      "num": 290877,
+      "word": "给一个6年全职主妇发了offer",
+      "onboard_time": 1681361493,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 290768,
@@ -4585,6 +4617,14 @@
       "onboard_time": 1681102533,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 261822,
+      "num": 247883,
+      "word": "陶晶莹被问有没有到",
+      "onboard_time": 1681362392,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261611,
@@ -5089,6 +5129,14 @@
       "onboard_time": 1681136069,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233069,
+      "num": 233069,
+      "word": "英格拉姆",
+      "onboard_time": 1681361912,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 232596,
@@ -6203,6 +6251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199085,
+      "num": 199085,
+      "word": "种地吧",
+      "onboard_time": 1681361671,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199073,
       "num": 199073,
       "word": "杭州城西某高校火情已熄灭",
@@ -6755,6 +6811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189910,
+      "num": 189910,
+      "word": "音悦台",
+      "onboard_time": 1681361733,
+      "rank": 41,
+      "category": "音乐,综艺"
+    },
+    {
       "raw_hot": 189779,
       "num": 189779,
       "word": "马若松父母曾反对他玩机车",
@@ -7251,14 +7315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177112,
-      "num": 177112,
-      "word": "小米平板",
-      "onboard_time": 1681359935,
-      "rank": 41,
-      "category": "科技"
-    },
-    {
       "raw_hot": 176660,
       "num": 176660,
       "word": "侯明昊找个球场装修篇vlog",
@@ -7385,6 +7441,14 @@
       "onboard_time": 1681209927,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171895,
+      "num": 171895,
+      "word": "谭飞删博",
+      "onboard_time": 1681362631,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 171859,
@@ -7755,6 +7819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161618,
+      "num": 161618,
+      "word": "哈利波特",
+      "onboard_time": 1681362811,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161467,
       "num": 161467,
       "word": "李宇春龙丹妮跳舞镜头",
@@ -7923,14 +7995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 154909,
-      "num": 154909,
-      "word": "拔完牙后千万不要清理牙缝",
-      "onboard_time": 1681360113,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154764,
       "num": 154764,
       "word": "也不知道谁给我妈下的任务",
@@ -7953,6 +8017,14 @@
       "onboard_time": 1681288406,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154492,
+      "num": 154492,
+      "word": "海豚吃到淄博烧烤有多满足",
+      "onboard_time": 1681360894,
+      "rank": 47,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 153956,
