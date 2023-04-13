@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681403900533,
+  "endTime": 1681406058675,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -4003,6 +4003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366918,
+      "num": 239659,
+      "word": "为啥一块钱打火机20年不涨价",
+      "onboard_time": 1681400908,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 365639,
       "num": 365639,
       "word": "比特币",
@@ -4721,14 +4729,6 @@
       "onboard_time": 1681129527,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 309509,
-      "num": 239659,
-      "word": "为啥一块钱打火机20年不涨价",
-      "onboard_time": 1681400908,
-      "rank": 14,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 309325,
@@ -11225,6 +11225,14 @@
       "onboard_time": 1681340419,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54202,
+      "num": 54202,
+      "word": "用音悦台的这群人竟然还在坚持追星啊",
+      "onboard_time": 1681396655,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 53786,

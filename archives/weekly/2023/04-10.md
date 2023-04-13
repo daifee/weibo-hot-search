@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/10 00:21:19 ~ 2023/04/14 00:38:20
+本榜单时间：2023/04/10 00:21:19 ~ 2023/04/14 01:14:18
 </p>
 </blockquote>
 <p>
@@ -3015,6 +3015,12 @@ Hero轮换好炸裂（热度：370857）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E4%B8%80%E5%9D%97%E9%92%B1%E6%89%93%E7%81%AB%E6%9C%BA20%E5%B9%B4%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
+为啥一块钱打火机20年不涨价（热度：366918）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%23" target="weibo">
 比特币（热度：365639）
 </a>
@@ -3551,12 +3557,6 @@ pledis称SEVENTEEN此次回归为历代级（热度：343202）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E4%B8%AA%E5%B1%81%E9%A3%8E%E7%AD%9D%23" target="weibo">
 放个屁风筝（热度：309805）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E4%B8%80%E5%9D%97%E9%92%B1%E6%89%93%E7%81%AB%E6%9C%BA20%E5%B9%B4%E4%B8%8D%E6%B6%A8%E4%BB%B7%23" target="weibo">
-为啥一块钱打火机20年不涨价（热度：309509）
 </a>
 </li>
 
@@ -8429,6 +8429,12 @@ DRG对战RW（热度：108245）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E5%90%B4%E4%BC%98%E6%9C%BA%E5%9C%BA%E5%AF%B9%E8%A7%86%23" target="weibo">
 刘惜君吴优机场对视（热度：54244）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E9%9F%B3%E6%82%A6%E5%8F%B0%E7%9A%84%E8%BF%99%E7%BE%A4%E4%BA%BA%E7%AB%9F%E7%84%B6%E8%BF%98%E5%9C%A8%E5%9D%9A%E6%8C%81%E8%BF%BD%E6%98%9F%E5%95%8A%23" target="weibo">
+用音悦台的这群人竟然还在坚持追星啊（热度：54202）
 </a>
 </li>
 
