@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681381088227,
+  "endTime": 1681382016034,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1067,6 +1067,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1975163,
+      "num": 494091,
+      "word": "清华张小年 人类精子库",
+      "onboard_time": 1681373851,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1971863,
       "num": 1971863,
       "word": "北京拆迁退出历史舞台",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1681169962,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1710563,
-      "num": 483339,
-      "word": "清华张小年 人类精子库",
-      "onboard_time": 1681373851,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 1708768,
@@ -1731,6 +1731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1524755,
+      "num": 331331,
+      "word": "北大全嘻嘻 清华张小年",
+      "onboard_time": 1681378889,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1524172,
       "num": 1524172,
       "word": "马克龙想续租大熊猫",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1680493230,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1312416,
-      "num": 322942,
-      "word": "北大全嘻嘻 清华张小年",
-      "onboard_time": 1681378889,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 1310889,
@@ -5667,6 +5667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 643543,
+      "num": 643543,
+      "word": "1.4亿65岁以上老人与多病共存",
+      "onboard_time": 1681379191,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642197,
       "num": 368182,
       "word": "离职半个月长出头发了",
@@ -6052,7 +6060,7 @@
     },
     {
       "raw_hot": 613644,
-      "num": 310610,
+      "num": 329531,
       "word": "银行发现7位数存款5年未动急寻人",
       "onboard_time": 1681374267,
       "rank": 25,
@@ -7603,6 +7611,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 513769,
+      "num": 513769,
+      "word": "教资笔试成绩今日发布",
+      "onboard_time": 1681376608,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 513451,
       "num": 513451,
       "word": "北飘7年的房租",
@@ -7657,6 +7673,14 @@
       "onboard_time": 1680859708,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510769,
+      "num": 420831,
+      "word": "三峡移民",
+      "onboard_time": 1681380151,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 509461,
@@ -7849,14 +7873,6 @@
       "onboard_time": 1680653485,
       "rank": 12,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 498628,
-      "num": 498628,
-      "word": "教资笔试成绩今日发布",
-      "onboard_time": 1681376608,
-      "rank": 23,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 498580,
@@ -9315,14 +9331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 424694,
-      "num": 424694,
-      "word": "1.4亿65岁以上老人与多病共存",
-      "onboard_time": 1681379191,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423890,
       "num": 423890,
       "word": "故宫门票",
@@ -10139,6 +10147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395477,
+      "num": 328890,
+      "word": "易梦玲黑裙",
+      "onboard_time": 1681380330,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 395425,
       "num": 395425,
       "word": "研究称高脂饮食自由或将实现",
@@ -10593,14 +10609,6 @@
       "onboard_time": 1680669692,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 378396,
-      "num": 206723,
-      "word": "易梦玲黑裙",
-      "onboard_time": 1681380330,
-      "rank": 30,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 377306,
@@ -13163,6 +13171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298807,
+      "num": 298807,
+      "word": "白化病女孩迎光拍照被称像裘千尺",
+      "onboard_time": 1681378889,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298588,
       "num": 298588,
       "word": "柳智敏粉发",
@@ -13833,14 +13849,6 @@
       "onboard_time": 1680681090,
       "rank": 26,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 283557,
-      "num": 283557,
-      "word": "白化病女孩迎光拍照被称像裘千尺",
-      "onboard_time": 1681378889,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283484,
@@ -14553,14 +14561,6 @@
       "onboard_time": 1681243631,
       "rank": 24,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 266407,
-      "num": 204066,
-      "word": "三峡移民",
-      "onboard_time": 1681380151,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 266012,
@@ -18803,6 +18803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205532,
+      "num": 205532,
+      "word": "刘亦菲发库存vlog",
+      "onboard_time": 1681378590,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205473,
       "num": 205473,
       "word": "湖人爵士加时",
@@ -18849,6 +18857,14 @@
       "onboard_time": 1680834147,
       "rank": 30,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 205224,
+      "num": 205224,
+      "word": "张信哲粉丝为20年前的行为道歉",
+      "onboard_time": 1681381770,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 205219,
@@ -22859,6 +22875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185422,
+      "num": 185422,
+      "word": "戛纳电影节入围片单",
+      "onboard_time": 1681380868,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185399,
       "num": 185399,
       "word": "丁程鑫宋亚轩刘耀文今年三首单曲战报",
@@ -23137,6 +23161,14 @@
       "onboard_time": 1681030824,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 183113,
+      "num": 183113,
+      "word": "马嘉祺声生不息星光舞台照",
+      "onboard_time": 1681381292,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 183061,
@@ -23649,14 +23681,6 @@
       "onboard_time": 1680305360,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178483,
-      "num": 178483,
-      "word": "刘亦菲发库存vlog",
-      "onboard_time": 1681378590,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 178341,
@@ -25523,6 +25547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158490,
+      "num": 158490,
+      "word": "泪失禁体质",
+      "onboard_time": 1681378528,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158484,
       "num": 158484,
       "word": "华晨宇演唱会杭州站游园打卡vlog",
@@ -26041,6 +26073,14 @@
       "onboard_time": 1680864327,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152941,
+      "num": 149854,
+      "word": "如何辨别自己有嘴味",
+      "onboard_time": 1681380749,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 152911,
@@ -26753,14 +26793,6 @@
       "onboard_time": 1680755255,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146081,
-      "num": 146081,
-      "word": "泪失禁体质",
-      "onboard_time": 1681378528,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 146037,
@@ -28979,14 +29011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119078,
-      "num": 119078,
-      "word": "戛纳电影节入围片单",
-      "onboard_time": 1681380868,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 119070,
       "num": 119070,
       "word": "李亚男回应最离谱的谣言",
@@ -31075,6 +31099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46057,
+      "num": 650495,
+      "word": "老板允许学生用满分试卷换雪糕",
+      "onboard_time": 1681381709,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 46011,
       "num": 46011,
       "word": "BLACKPINK同名换装手游VCR",
@@ -31307,6 +31339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 24069,
+      "num": 747276,
+      "word": "快艇师傅6秒扑进河中救落水男童",
+      "onboard_time": 1681381651,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 23161,
       "num": 1246932,
       "word": "带你共享花开烂漫时",
@@ -31321,6 +31361,14 @@
       "onboard_time": 1680384373,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20705,
+      "num": 178651,
+      "word": "Maas或使小学生成开发者",
+      "onboard_time": 1681380029,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20448,
@@ -31359,14 +31407,6 @@
       "num": 164232,
       "word": "天猫预测五一户外新趋势",
       "onboard_time": 1681293627,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17321,
-      "num": 178651,
-      "word": "Maas或使小学生成开发者",
-      "onboard_time": 1681380029,
       "rank": 39,
       "category": "社会新闻"
     },

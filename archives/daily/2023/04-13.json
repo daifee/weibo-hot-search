@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681381088227,
+  "endTime": 1681382016034,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1975163,
+      "num": 494091,
+      "word": "清华张小年 人类精子库",
+      "onboard_time": 1681373851,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1745939,
       "num": 1745939,
       "word": "空姐飞机上推销商品长达40分钟",
       "onboard_time": 1681341502,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1710563,
-      "num": 483339,
-      "word": "清华张小年 人类精子库",
-      "onboard_time": 1681373851,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 1701419,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1524755,
+      "num": 331331,
+      "word": "北大全嘻嘻 清华张小年",
+      "onboard_time": 1681378889,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1500332,
       "num": 556076,
       "word": "嗯哼牙齿",
@@ -121,14 +129,6 @@
       "onboard_time": 1681353087,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 1312416,
-      "num": 322942,
-      "word": "北大全嘻嘻 清华张小年",
-      "onboard_time": 1681378889,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 1310341,
@@ -419,6 +419,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 643543,
+      "num": 643543,
+      "word": "1.4亿65岁以上老人与多病共存",
+      "onboard_time": 1681379191,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 639729,
       "num": 639729,
       "word": "罗云熙戴了白鹿串的手链",
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 613644,
-      "num": 310610,
+      "num": 329531,
       "word": "银行发现7位数存款5年未动急寻人",
       "onboard_time": 1681374267,
       "rank": 25,
@@ -499,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513769,
+      "num": 513769,
+      "word": "教资笔试成绩今日发布",
+      "onboard_time": 1681376608,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 510769,
+      "num": 420831,
+      "word": "三峡移民",
+      "onboard_time": 1681380151,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 504531,
       "num": 504531,
       "word": "王者荣耀",
@@ -521,14 +545,6 @@
       "onboard_time": 1681355549,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 498628,
-      "num": 498628,
-      "word": "教资笔试成绩今日发布",
-      "onboard_time": 1681376608,
-      "rank": 23,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 495921,
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424694,
-      "num": 424694,
-      "word": "1.4亿65岁以上老人与多病共存",
-      "onboard_time": 1681379191,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422464,
       "num": 422464,
       "word": "女子因未婚应聘被拒",
@@ -691,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395477,
+      "num": 328890,
+      "word": "易梦玲黑裙",
+      "onboard_time": 1681380330,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 393522,
       "num": 393522,
       "word": "小米平板",
@@ -729,14 +745,6 @@
       "onboard_time": 1681341803,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 378396,
-      "num": 206723,
-      "word": "易梦玲黑裙",
-      "onboard_time": 1681380330,
-      "rank": 30,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 373996,
@@ -939,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298807,
+      "num": 298807,
+      "word": "白化病女孩迎光拍照被称像裘千尺",
+      "onboard_time": 1681378889,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295593,
       "num": 295593,
       "word": "咖啡店长应客人要求卖人血鸡尾酒",
@@ -1019,14 +1035,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 283557,
-      "num": 283557,
-      "word": "白化病女孩迎光拍照被称像裘千尺",
-      "onboard_time": 1681378889,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283358,
       "num": 283358,
       "word": "教资真的好考吗",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1681309234,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266407,
-      "num": 204066,
-      "word": "三峡移民",
-      "onboard_time": 1681380151,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 263789,
@@ -1355,6 +1355,22 @@
       "category": "科技,情感"
     },
     {
+      "raw_hot": 205532,
+      "num": 205532,
+      "word": "刘亦菲发库存vlog",
+      "onboard_time": 1681378590,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205224,
+      "num": 205224,
+      "word": "张信哲粉丝为20年前的行为道歉",
+      "onboard_time": 1681381770,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204940,
       "num": 204940,
       "word": "杨紫手拿番茄拍广告",
@@ -1603,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185422,
+      "num": 185422,
+      "word": "戛纳电影节入围片单",
+      "onboard_time": 1681380868,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184923,
       "num": 184923,
       "word": "外卖配送费会影响你下单吗",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1681379730,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183113,
+      "num": 183113,
+      "word": "马嘉祺声生不息星光舞台照",
+      "onboard_time": 1681381292,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 181983,
@@ -1648,14 +1680,6 @@
       "word": "75岁施瓦辛格发上街修路视频",
       "onboard_time": 1681308214,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 178483,
-      "num": 178483,
-      "word": "刘亦菲发库存vlog",
-      "onboard_time": 1681378590,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1811,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158490,
+      "num": 158490,
+      "word": "泪失禁体质",
+      "onboard_time": 1681378528,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158355,
       "num": 158355,
       "word": "2023华晨宇火星演唱会",
@@ -1867,6 +1899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 152941,
+      "num": 149854,
+      "word": "如何辨别自己有嘴味",
+      "onboard_time": 1681380749,
+      "rank": 46,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 152911,
       "num": 152911,
       "word": "陈立农演唱会彩排",
@@ -1905,14 +1945,6 @@
       "onboard_time": 1681343788,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 146081,
-      "num": 146081,
-      "word": "泪失禁体质",
-      "onboard_time": 1681378528,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 144504,
@@ -2113,14 +2145,6 @@
       "onboard_time": 1681310194,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119078,
-      "num": 119078,
-      "word": "戛纳电影节入围片单",
-      "onboard_time": 1681380868,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 119070,
@@ -2339,6 +2363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46057,
+      "num": 650495,
+      "word": "老板允许学生用满分试卷换雪糕",
+      "onboard_time": 1681381709,
+      "rank": 6,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 42194,
       "num": 42194,
       "word": "上一次这么气人的还是素锦和灯芯",
@@ -2379,7 +2411,15 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 17321,
+      "raw_hot": 24069,
+      "num": 747276,
+      "word": "快艇师傅6秒扑进河中救落水男童",
+      "onboard_time": 1681381651,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 20705,
       "num": 178651,
       "word": "Maas或使小学生成开发者",
       "onboard_time": 1681380029,
