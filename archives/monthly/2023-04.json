@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681407211396,
+  "endTime": 1681410069695,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -31787,6 +31787,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 60934,
+      "num": 33897,
+      "word": "苏醒曾因为舞台事故甩脸",
+      "onboard_time": 1681408878,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59983,
       "num": 444231,
       "word": "华为MateX3到底能有多轻",
@@ -32187,6 +32195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31523,
+      "num": 31523,
+      "word": "林俊杰Ella演过兄妹",
+      "onboard_time": 1681408994,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 31274,
       "num": 39713,
       "word": "华为2022年净利润356亿",
@@ -32265,6 +32281,14 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 24098,
+      "num": 29626,
+      "word": "江疏影李浩菲直播用假手握手",
+      "onboard_time": 1681409715,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 23161,
