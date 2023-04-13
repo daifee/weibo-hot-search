@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681370158384,
+  "endTime": 1681371209103,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1267,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1785407,
+      "num": 417774,
+      "word": "成龙口误说很高兴和烂演员合作",
+      "onboard_time": 1681368928,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1780219,
       "num": 1780219,
       "word": "曹格女儿说现在不喜欢被叫姐姐",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1681044809,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1701419,
+      "num": 1088076,
+      "word": "易梦玲 很开心缓解了大家的容貌焦虑",
+      "onboard_time": 1681365207,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1681764,
@@ -1657,14 +1673,6 @@
       "onboard_time": 1680845249,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1539466,
-      "num": 1088076,
-      "word": "易梦玲 很开心缓解了大家的容貌焦虑",
-      "onboard_time": 1681365207,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1536049,
@@ -3211,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 934612,
+      "num": 934612,
+      "word": "浙江广电称徐峥未被定性为劣迹艺人",
+      "onboard_time": 1681369527,
+      "rank": 15,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 933201,
       "num": 928125,
       "word": "鹭卓 抄袭",
@@ -3907,6 +3923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 835181,
+      "num": 416476,
+      "word": "女子买房送超大阳台封窗却要20多万",
+      "onboard_time": 1681368808,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834918,
       "num": 834918,
       "word": "你觉得工资越高越幸福吗",
@@ -4241,14 +4265,6 @@
       "onboard_time": 1680438688,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 784993,
-      "num": 378050,
-      "word": "成龙口误说很高兴和烂演员合作",
-      "onboard_time": 1681368928,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 784002,
@@ -6435,14 +6451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 577236,
-      "num": 358044,
-      "word": "女子买房送超大阳台封窗却要20多万",
-      "onboard_time": 1681368808,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 576753,
       "num": 392539,
       "word": "权志龙许允真中村一叶合照",
@@ -7529,14 +7537,6 @@
       "onboard_time": 1681219048,
       "rank": 42,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 510867,
-      "num": 345314,
-      "word": "浙江广电称徐峥未被定性为劣迹艺人",
-      "onboard_time": 1681369527,
-      "rank": 15,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 510842,
@@ -9619,6 +9619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 410035,
+      "num": 410035,
+      "word": "INTO1全员将录制奔跑吧",
+      "onboard_time": 1681369708,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409205,
       "num": 409205,
       "word": "秀智近照",
@@ -10496,6 +10504,14 @@
       "word": "如梦之梦",
       "onboard_time": 1680594628,
       "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 373996,
+      "num": 373996,
+      "word": "罗云熙即将进组",
+      "onboard_time": 1681369226,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -13771,6 +13787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280168,
+      "num": 280168,
+      "word": "范丞丞跑男家族第一个00后",
+      "onboard_time": 1681369767,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280083,
       "num": 280083,
       "word": "女团univu5正式出道",
@@ -13881,14 +13905,6 @@
       "onboard_time": 1680775052,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 277395,
-      "num": 277395,
-      "word": "INTO1全员将录制奔跑吧",
-      "onboard_time": 1681369708,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 277293,
@@ -14049,14 +14065,6 @@
       "onboard_time": 1681177645,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 272761,
-      "num": 272761,
-      "word": "罗云熙即将进组",
-      "onboard_time": 1681369226,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 272594,
@@ -15161,6 +15169,14 @@
       "onboard_time": 1680447343,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 250170,
+      "num": 250170,
+      "word": "李晨发文寻找狗主人",
+      "onboard_time": 1681369650,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 250010,
@@ -16483,6 +16499,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 228099,
+      "num": 228099,
+      "word": "饮料真的要少喝",
+      "onboard_time": 1681370369,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227868,
       "num": 196270,
       "word": "一生都在要链接的女人",
@@ -16785,6 +16809,14 @@
       "onboard_time": 1680854249,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221982,
+      "num": 221982,
+      "word": "音悦台关联公司涉多个诉讼纠纷",
+      "onboard_time": 1681370249,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221896,
@@ -18403,6 +18435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206427,
+      "num": 206427,
+      "word": "颜心记",
+      "onboard_time": 1681370608,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206375,
       "num": 206375,
       "word": "税务师成绩",
@@ -18619,6 +18659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204836,
+      "num": 204836,
+      "word": "卢拉",
+      "onboard_time": 1681367787,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 204815,
       "num": 216620,
       "word": "陈立农说期待再相会",
@@ -18745,6 +18793,14 @@
       "onboard_time": 1681053689,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204350,
+      "num": 209567,
+      "word": "卢拉访华",
+      "onboard_time": 1681301186,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 204312,
@@ -19065,6 +19121,14 @@
       "onboard_time": 1680675929,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203015,
+      "num": 197893,
+      "word": "挚年如愿",
+      "onboard_time": 1681370428,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 202979,
@@ -21219,14 +21283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192988,
-      "num": 169877,
-      "word": "范丞丞跑男家族第一个00后",
-      "onboard_time": 1681369767,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192985,
       "num": 192985,
       "word": "EXO将5月回归",
@@ -21489,14 +21545,6 @@
       "onboard_time": 1680614493,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191334,
-      "num": 168954,
-      "word": "卢拉",
-      "onboard_time": 1681367787,
-      "rank": 32,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 191330,
@@ -21953,14 +22001,6 @@
       "onboard_time": 1680946105,
       "rank": 36,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 188873,
-      "num": 209567,
-      "word": "卢拉访华",
-      "onboard_time": 1681301186,
-      "rank": 29,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 188799,
@@ -22915,6 +22955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181983,
+      "num": 181983,
+      "word": "全民国家安全教育日",
+      "onboard_time": 1681370728,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181977,
       "num": 181977,
       "word": "我被采访",
@@ -23137,6 +23185,14 @@
       "onboard_time": 1680348451,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180258,
+      "num": 180258,
+      "word": "肖战被工作人员夸守时",
+      "onboard_time": 1681370968,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 180138,
@@ -23585,6 +23641,14 @@
       "onboard_time": 1680876629,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174761,
+      "num": 174761,
+      "word": "可能一辈子都用不上的东西",
+      "onboard_time": 1681368387,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 174647,
@@ -25747,14 +25811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 151880,
-      "num": 151880,
-      "word": "李晨发文寻找狗主人",
-      "onboard_time": 1681369650,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151794,
       "num": 199676,
       "word": "有这样的老师天天都不舍得下课",
@@ -26060,7 +26116,7 @@
     },
     {
       "raw_hot": 148882,
-      "num": 140395,
+      "num": 140704,
       "word": "网友偶遇韩栋叫不出他的名字",
       "onboard_time": 1681368508,
       "rank": 40,
@@ -26489,14 +26545,6 @@
       "onboard_time": 1681227329,
       "rank": 39,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 144327,
-      "num": 144327,
-      "word": "可能一辈子都用不上的东西",
-      "onboard_time": 1681368387,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 144279,
@@ -27707,6 +27755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129598,
+      "num": 129598,
+      "word": "去世的小狗又回到了我家",
+      "onboard_time": 1681370310,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129494,
       "num": 143730,
       "word": "王楚钦3比0黄镇廷",
@@ -28659,6 +28715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116785,
+      "num": 116785,
+      "word": "大学老师辞职创业意外捧红老父亲",
+      "onboard_time": 1681370849,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116222,
       "num": 116222,
       "word": "金晨快乐工作vlog",
@@ -28793,6 +28857,14 @@
       "onboard_time": 1680434548,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113315,
+      "num": 113315,
+      "word": "你为什么还在坚持用QQ",
+      "onboard_time": 1681371148,
+      "rank": 47,
+      "category": "科技,情感"
     },
     {
       "raw_hot": 113273,
@@ -29937,6 +30009,14 @@
       "onboard_time": 1680326788,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 85772,
+      "num": 109055,
+      "word": "夏天减脂很需要这份凉拌菜",
+      "onboard_time": 1681370907,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 85672,

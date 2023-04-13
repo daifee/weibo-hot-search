@@ -1,0 +1,410 @@
+{
+  "runTime": 1681371209103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1277951,
+        "num": 1277951,
+        "word": "优酷回应非会员遇3000多秒广告",
+        "onboard_time": 1681363590,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 934612,
+        "num": 934612,
+        "word": "浙江广电称徐峥未被定性为劣迹艺人",
+        "onboard_time": 1681369527,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 56297,
+        "num": 672210,
+        "word": "一组高频数据看消费回暖",
+        "onboard_time": 1681354588,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1701419,
+        "num": 659386,
+        "word": "易梦玲 很开心缓解了大家的容貌焦虑",
+        "onboard_time": 1681365207,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 643350,
+        "num": 643350,
+        "word": "在广东存款10多万算多吗",
+        "onboard_time": 1681366467,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595747,
+        "num": 595747,
+        "word": "简历上写QQ邮箱会掉分吗",
+        "onboard_time": 1681356449,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568808,
+        "num": 568808,
+        "word": "你是尿眠体吗",
+        "onboard_time": 1681363169,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 511498,
+        "num": 511498,
+        "word": "清华北大在校生五一可到淄博免费游",
+        "onboard_time": 1681364728,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 482445,
+        "num": 482445,
+        "word": "美国奶牛厂爆炸18000头牛死亡",
+        "onboard_time": 1681364908,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418869,
+        "num": 418869,
+        "word": "腺样体面容",
+        "onboard_time": 1681353207,
+        "rank": 9,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1785407,
+        "num": 417774,
+        "word": "成龙口误说很高兴和烂演员合作",
+        "onboard_time": 1681368928,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 835181,
+        "num": 416476,
+        "word": "女子买房送超大阳台封窗却要20多万",
+        "onboard_time": 1681368808,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760753,
+        "num": 414340,
+        "word": "网友偶遇陈赫张子萱看画展",
+        "onboard_time": 1681363469,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613678,
+        "num": 411893,
+        "word": "王晶说赵露思是目前戏最好的花旦",
+        "onboard_time": 1681358670,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 572387,
+        "num": 410283,
+        "word": "泫雅也没逃过韩国酵母",
+        "onboard_time": 1681360052,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410035,
+        "num": 410035,
+        "word": "INTO1全员将录制奔跑吧",
+        "onboard_time": 1681369708,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373996,
+        "num": 373996,
+        "word": "罗云熙即将进组",
+        "onboard_time": 1681369226,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322137,
+        "num": 322137,
+        "word": "TFBOYS获得的第一个奖是音悦台给的",
+        "onboard_time": 1681364789,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313477,
+        "num": 313477,
+        "word": "李钟硕李宝英合影",
+        "onboard_time": 1681367008,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280168,
+        "num": 280168,
+        "word": "范丞丞跑男家族第一个00后",
+        "onboard_time": 1681369767,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1348762,
+        "num": 272561,
+        "word": "黑马情侣自曝收入与男生家境状况",
+        "onboard_time": 1681363469,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264865,
+        "num": 264865,
+        "word": "麦当劳肯德基配送费为什么降不下来",
+        "onboard_time": 1681353087,
+        "rank": 21,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 250170,
+        "num": 250170,
+        "word": "李晨发文寻找狗主人",
+        "onboard_time": 1681369650,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228099,
+        "num": 228099,
+        "word": "饮料真的要少喝",
+        "onboard_time": 1681370369,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223602,
+        "num": 223602,
+        "word": "魏大勋吴昕玩到一起不是没有道理的",
+        "onboard_time": 1681365026,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221982,
+        "num": 221982,
+        "word": "音悦台关联公司涉多个诉讼纠纷",
+        "onboard_time": 1681370249,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206427,
+        "num": 206427,
+        "word": "颜心记",
+        "onboard_time": 1681370608,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204836,
+        "num": 204836,
+        "word": "卢拉",
+        "onboard_time": 1681367787,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 204350,
+        "num": 204350,
+        "word": "卢拉访华",
+        "onboard_time": 1681370428,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 201712,
+        "num": 201712,
+        "word": "白鹿说长月烬明比周生如故更虐",
+        "onboard_time": 1681364489,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203015,
+        "num": 197893,
+        "word": "挚年如愿",
+        "onboard_time": 1681370428,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192599,
+        "num": 192599,
+        "word": "男子地铁站故意裸露下体被行拘",
+        "onboard_time": 1681364608,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192057,
+        "num": 192057,
+        "word": "张元英绿色眼妆",
+        "onboard_time": 1681368447,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 181983,
+        "num": 181983,
+        "word": "全民国家安全教育日",
+        "onboard_time": 1681370728,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180258,
+        "num": 180258,
+        "word": "肖战被工作人员夸守时",
+        "onboard_time": 1681370968,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178134,
+        "num": 178134,
+        "word": "时代峰峻欢迎音悦台回归",
+        "onboard_time": 1681364129,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174761,
+        "num": 174761,
+        "word": "可能一辈子都用不上的东西",
+        "onboard_time": 1681368387,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147962,
+        "num": 147962,
+        "word": "给一个6年全职主妇发了offer",
+        "onboard_time": 1681361493,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142994,
+        "num": 142994,
+        "word": "嗯哼牙齿",
+        "onboard_time": 1681349908,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140704,
+        "num": 140704,
+        "word": "网友偶遇韩栋叫不出他的名字",
+        "onboard_time": 1681368508,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135642,
+        "num": 135642,
+        "word": "容易疲劳的人有福了",
+        "onboard_time": 1681366225,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131613,
+        "num": 131613,
+        "word": "拔完牙后千万不要清理牙缝",
+        "onboard_time": 1681360113,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129598,
+        "num": 129598,
+        "word": "去世的小狗又回到了我家",
+        "onboard_time": 1681370310,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123893,
+        "num": 123893,
+        "word": "杨紫手拿番茄拍广告",
+        "onboard_time": 1681365928,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122220,
+        "num": 122220,
+        "word": "音悦台APP已开放下载",
+        "onboard_time": 1681366292,
+        "rank": 44,
+        "category": "科技,音乐"
+      },
+      {
+        "raw_hot": 118184,
+        "num": 118184,
+        "word": "长月烬明开始断更",
+        "onboard_time": 1681351049,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116785,
+        "num": 116785,
+        "word": "大学老师辞职创业意外捧红老父亲",
+        "onboard_time": 1681370849,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113315,
+        "num": 113315,
+        "word": "你为什么还在坚持用QQ",
+        "onboard_time": 1681371148,
+        "rank": 47,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 113178,
+        "num": 113178,
+        "word": "淄博烧烤炉卖断货",
+        "onboard_time": 1681368868,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85772,
+        "num": 109055,
+        "word": "夏天减脂很需要这份凉拌菜",
+        "onboard_time": 1681370907,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代成就巡礼#"
+    }
+  }
+}
