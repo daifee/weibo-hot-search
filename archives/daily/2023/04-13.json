@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681364004730,
+  "endTime": 1681366921537,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1992142,
-      "num": 491392,
+      "num": 497003,
       "word": "泫雅也没逃过韩国酵母",
       "onboard_time": 1681360052,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1922168,
+      "num": 1922168,
+      "word": "黑马情侣自曝收入与男生家境状况",
+      "onboard_time": 1681363469,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1745939,
@@ -41,6 +49,14 @@
       "onboard_time": 1681348828,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1527793,
+      "num": 1088076,
+      "word": "易梦玲 很开心缓解了大家的容貌焦虑",
+      "onboard_time": 1681365207,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1500332,
@@ -107,6 +123,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 978314,
+      "num": 978314,
+      "word": "你是尿眠体吗",
+      "onboard_time": 1681363169,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 959686,
       "num": 959686,
       "word": "旱的旱死涝的涝死",
@@ -115,12 +139,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 954154,
+      "num": 954154,
+      "word": "易烊千玺赵露思或将演英雄联盟",
+      "onboard_time": 1681366225,
+      "rank": 5,
+      "category": "游戏,影视"
+    },
+    {
       "raw_hot": 942854,
       "num": 942854,
       "word": "报告称41.93%的大学生单身且不想脱单",
       "onboard_time": 1681347810,
       "rank": 11,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 834450,
+      "num": 834450,
+      "word": "优酷回应非会员遇3000多秒广告",
+      "onboard_time": 1681363590,
+      "rank": 36,
+      "category": "科技"
     },
     {
       "raw_hot": 832139,
@@ -203,6 +243,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 703030,
+      "num": 496091,
+      "word": "网友偶遇陈赫张子萱看画展",
+      "onboard_time": 1681363469,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 684648,
       "num": 684648,
       "word": "剧版哈利波特官宣",
@@ -257,6 +305,14 @@
       "onboard_time": 1681342043,
       "rank": 41,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 610138,
+      "num": 610138,
+      "word": "美国奶牛厂爆炸18000头牛死亡",
+      "onboard_time": 1681364908,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602104,
@@ -315,12 +371,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 493486,
+      "num": 493486,
+      "word": "TFBOYS获得的第一个奖是音悦台给的",
+      "onboard_time": 1681364789,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 492763,
       "num": 492763,
       "word": "QQ邮箱关联邮箱帐号功能将下线",
       "onboard_time": 1681356027,
       "rank": 35,
       "category": "科技"
+    },
+    {
+      "raw_hot": 491431,
+      "num": 491431,
+      "word": "清华北大在校生五一可到淄博免费游",
+      "onboard_time": 1681364728,
+      "rank": 13,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 489509,
@@ -337,14 +409,6 @@
       "onboard_time": 1681344510,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 469376,
-      "num": 469376,
-      "word": "黑马情侣自曝收入与男生家境状况",
-      "onboard_time": 1681363469,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465582,
@@ -459,6 +523,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 392375,
+      "num": 392375,
+      "word": "魏大勋吴昕玩到一起不是没有道理的",
+      "onboard_time": 1681365026,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391110,
       "num": 318020,
       "word": "减肥才是最低成本的变美",
@@ -491,14 +563,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 352223,
-      "num": 352223,
-      "word": "你是尿眠体吗",
-      "onboard_time": 1681363169,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 351876,
       "num": 351876,
       "word": "左然",
@@ -529,6 +593,14 @@
       "onboard_time": 1681302627,
       "rank": 21,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 342439,
+      "num": 342439,
+      "word": "时代峰峻欢迎音悦台回归",
+      "onboard_time": 1681364129,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 339925,
@@ -616,6 +688,14 @@
       "word": "长月烬明 烬门",
       "onboard_time": 1681308935,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 299103,
+      "num": 299103,
+      "word": "白鹿说长月烬明比周生如故更虐",
+      "onboard_time": 1681364489,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -729,14 +809,6 @@
       "onboard_time": 1681354469,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257668,
-      "num": 257668,
-      "word": "网友偶遇陈赫张子萱看画展",
-      "onboard_time": 1681363469,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 257464,
@@ -883,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212173,
+      "num": 212173,
+      "word": "男子地铁站故意裸露下体被行拘",
+      "onboard_time": 1681364608,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210334,
       "num": 210334,
       "word": "电影爱很美味",
@@ -923,6 +1003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200888,
+      "num": 200888,
+      "word": "大侦探",
+      "onboard_time": 1681365928,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199085,
       "num": 199085,
       "word": "种地吧",
@@ -939,12 +1027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197148,
+      "num": 197148,
+      "word": "杨紫手拿番茄拍广告",
+      "onboard_time": 1681365928,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196826,
       "num": 196826,
       "word": "王石受张朝阳激励想研究微积分",
       "onboard_time": 1681354708,
       "rank": 37,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 195606,
+      "num": 173607,
+      "word": "音悦台APP已开放下载",
+      "onboard_time": 1681366292,
+      "rank": 30,
+      "category": "科技,音乐"
     },
     {
       "raw_hot": 195203,
@@ -1027,14 +1131,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 187121,
-      "num": 187121,
-      "word": "优酷回应非会员遇3000多秒广告",
-      "onboard_time": 1681363590,
-      "rank": 36,
-      "category": "科技"
-    },
-    {
       "raw_hot": 181114,
       "num": 181114,
       "word": "中国女性在职场上的现状",
@@ -1073,6 +1169,14 @@
       "onboard_time": 1681306470,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173935,
+      "num": 173935,
+      "word": "小米手环8",
+      "onboard_time": 1681365569,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 171352,
@@ -1139,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163417,
+      "num": 163417,
+      "word": "SEVENTEEN新专辑预售破400万",
+      "onboard_time": 1681364010,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163282,
       "num": 163282,
       "word": "猫咪进不了生肖是有原因的",
@@ -1153,6 +1265,14 @@
       "onboard_time": 1681341202,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158355,
+      "num": 158355,
+      "word": "2023华晨宇火星演唱会",
+      "onboard_time": 1681366109,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 156763,
@@ -1307,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126844,
+      "num": 126844,
+      "word": "在广东存款10多万算多吗",
+      "onboard_time": 1681366467,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124260,
       "num": 124260,
       "word": "彭小苒新剧红色婚服",
@@ -1336,6 +1464,22 @@
       "word": "开车出门千万要看好油表",
       "onboard_time": 1681310194,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 119070,
+      "num": 119070,
+      "word": "李亚男回应最离谱的谣言",
+      "onboard_time": 1681364908,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117111,
+      "num": 117111,
+      "word": "容易疲劳的人有福了",
+      "onboard_time": 1681366225,
+      "rank": 47,
       "category": "幽默"
     },
     {
