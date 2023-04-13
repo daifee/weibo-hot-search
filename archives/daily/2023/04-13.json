@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681390330697,
+  "endTime": 1681392051091,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1412557,
+      "num": 437716,
+      "word": "李湘回应王诗龄汉服造型",
+      "onboard_time": 1681386927,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1381174,
       "num": 1195602,
       "word": "易梦玲素颜",
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1229566,
+      "num": 1229566,
+      "word": "罗云熙白鹿发文告别冥夜桑酒",
+      "onboard_time": 1681389510,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1199611,
       "num": 1199611,
       "word": "周冬雨刘昊然主演电影入围戛纳",
@@ -195,28 +211,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1149340,
-      "num": 437716,
-      "word": "李湘回应王诗龄汉服造型",
-      "onboard_time": 1681386927,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1131099,
       "num": 1131099,
       "word": "社保挂靠代缴已被明确为违法",
       "onboard_time": 1681308032,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 1129067,
-      "num": 1129067,
-      "word": "罗云熙白鹿发文告别冥夜桑酒",
-      "onboard_time": 1681389510,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1051717,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801286,
+      "num": 343784,
+      "word": "陈妍希问陈晓凶手到底是谁",
+      "onboard_time": 1681391131,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 797035,
       "num": 797035,
       "word": "音悦台真的回来了",
@@ -393,6 +401,14 @@
       "onboard_time": 1681346852,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 723553,
+      "num": 255203,
+      "word": "何悯鸿怀孕",
+      "onboard_time": 1681389090,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 722702,
@@ -483,6 +499,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 654025,
+      "num": 654025,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1681389929,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 643543,
       "num": 643543,
       "word": "1.4亿65岁以上老人与多病共存",
@@ -571,6 +595,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 544866,
+      "num": 544866,
+      "word": "易烊千玺石上鸟胸针",
+      "onboard_time": 1681387769,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 534117,
       "num": 421884,
       "word": "张信哲粉丝为20年前的行为道歉",
@@ -595,28 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 516785,
-      "num": 241784,
-      "word": "何悯鸿怀孕",
-      "onboard_time": 1681389090,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 513769,
       "num": 513769,
       "word": "教资笔试成绩今日发布",
       "onboard_time": 1681376608,
       "rank": 23,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 508974,
-      "num": 508974,
-      "word": "易烊千玺石上鸟胸针",
-      "onboard_time": 1681387769,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 504531,
@@ -651,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 492983,
+      "num": 255104,
+      "word": "大三学生给同学洗鞋2个月赚8万",
+      "onboard_time": 1681387168,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492763,
       "num": 492763,
       "word": "QQ邮箱关联邮箱帐号功能将下线",
@@ -681,14 +705,6 @@
       "onboard_time": 1681344510,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 468132,
-      "num": 241606,
-      "word": "大三学生给同学洗鞋2个月赚8万",
-      "onboard_time": 1681387168,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465582,
@@ -732,7 +748,7 @@
     },
     {
       "raw_hot": 455623,
-      "num": 240921,
+      "num": 252309,
       "word": "杨颖金色抹胸长裙",
       "onboard_time": 1681389028,
       "rank": 36,
@@ -860,7 +876,7 @@
     },
     {
       "raw_hot": 398368,
-      "num": 240576,
+      "num": 251535,
       "word": "赵露思黑色吊带长裙",
       "onboard_time": 1681387108,
       "rank": 22,
@@ -940,7 +956,7 @@
     },
     {
       "raw_hot": 357470,
-      "num": 241301,
+      "num": 254224,
       "word": "性单恋人群怎么谈恋爱",
       "onboard_time": 1681385067,
       "rank": 41,
@@ -1115,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300000,
+      "num": 300000,
+      "word": "澹台烬是个学人烬",
+      "onboard_time": 1681389329,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299103,
       "num": 299103,
       "word": "白鹿说长月烬明比周生如故更虐",
@@ -1243,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274397,
+      "num": 274397,
+      "word": "马琳离场",
+      "onboard_time": 1681389693,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271722,
       "num": 271722,
       "word": "淄博烧烤赢麻了",
@@ -1257,6 +1289,22 @@
       "onboard_time": 1681309234,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270769,
+      "num": 250028,
+      "word": "华晨宇再为那英队拿下金曲",
+      "onboard_time": 1681390652,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268111,
+      "num": 268111,
+      "word": "王子浩镜头多了",
+      "onboard_time": 1681391010,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 263789,
@@ -1355,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248621,
+      "num": 248621,
+      "word": "西瓜被兔子咬了一千多口",
+      "onboard_time": 1681391250,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247538,
       "num": 247538,
       "word": "英格拉姆",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1681297348,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242429,
-      "num": 242429,
-      "word": "樊振东vs林诗栋",
-      "onboard_time": 1681389929,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 242026,
@@ -1555,18 +1603,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210585,
-      "num": 210585,
-      "word": "澹台烬是个学人烬",
-      "onboard_time": 1681389329,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210334,
       "num": 210334,
       "word": "电影爱很美味",
       "onboard_time": 1681355067,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 209533,
+      "num": 209533,
+      "word": "爱很美味三观",
+      "onboard_time": 1681390770,
       "rank": 34,
       "category": "影视"
     },
@@ -1747,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200471,
+      "num": 200471,
+      "word": "檀健次于文文跳拉丁",
+      "onboard_time": 1681391430,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200391,
       "num": 200391,
       "word": "安宥真kitschMCD直拍",
@@ -1792,6 +1848,14 @@
       "word": "小米手环8",
       "onboard_time": 1681365569,
       "rank": 29,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 197010,
+      "num": 197010,
+      "word": "蓝山",
+      "onboard_time": 1681391311,
+      "rank": 38,
       "category": "科技"
     },
     {
@@ -1971,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187976,
+      "num": 187976,
+      "word": "AG对战KSG",
+      "onboard_time": 1681390890,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187331,
       "num": 187331,
       "word": "马嘉祺连听三遍土味情话",
@@ -2003,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185216,
+      "num": 185216,
+      "word": "烟台黄渤海迷笛音乐节",
+      "onboard_time": 1681390829,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184923,
       "num": 184923,
       "word": "外卖配送费会影响你下单吗",
@@ -2024,6 +2104,14 @@
       "word": "马嘉祺声生不息星光舞台照",
       "onboard_time": 1681381292,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182751,
+      "num": 182751,
+      "word": "唐嫣古装扮相",
+      "onboard_time": 1681391671,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -2081,6 +2169,14 @@
       "onboard_time": 1681306470,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175623,
+      "num": 175623,
+      "word": "王皓表情",
+      "onboard_time": 1681391911,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 172475,
@@ -2185,6 +2281,14 @@
       "onboard_time": 1681313193,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165970,
+      "num": 165970,
+      "word": "BoysPlanet三顺排名",
+      "onboard_time": 1681391969,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 165554,
@@ -2297,6 +2401,14 @@
       "onboard_time": 1681384289,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 155654,
+      "num": 155654,
+      "word": "凌云志",
+      "onboard_time": 1681391370,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 155095,
@@ -2603,6 +2715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 112369,
+      "num": 251161,
+      "word": "我国制裁一名美国反华议员",
+      "onboard_time": 1681391671,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 109942,
       "num": 118057,
       "word": "奔跑吧全员送范丞丞开工红包",
@@ -2843,11 +2963,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 24207,
+      "num": 191993,
+      "word": "数字化助力文旅产业复苏",
+      "onboard_time": 1681390829,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20705,
       "num": 178651,
       "word": "Maas或使小学生成开发者",
       "onboard_time": 1681380029,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18077,
+      "num": 791697,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1681391671,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

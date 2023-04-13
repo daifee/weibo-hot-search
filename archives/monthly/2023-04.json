@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681390330697,
+  "endTime": 1681392051091,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1955,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1412557,
+      "num": 437716,
+      "word": "李湘回应王诗龄汉服造型",
+      "onboard_time": 1681386927,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1411076,
       "num": 1411076,
       "word": "麻六记因未给孕妇优待被打差评",
@@ -2291,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1229566,
+      "num": 1229566,
+      "word": "罗云熙白鹿发文告别冥夜桑酒",
+      "onboard_time": 1681389510,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1227387,
       "num": 499530,
       "word": "杭州阿里巴巴由122亿减资至1亿",
@@ -2467,14 +2483,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1149340,
-      "num": 437716,
-      "word": "李湘回应王诗龄汉服造型",
-      "onboard_time": 1681386927,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1148502,
       "num": 644861,
       "word": "朱一龙易烊千玺 合作",
@@ -2585,14 +2593,6 @@
       "onboard_time": 1680784351,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1129067,
-      "num": 1129067,
-      "word": "罗云熙白鹿发文告别冥夜桑酒",
-      "onboard_time": 1681389510,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1126628,
@@ -4291,6 +4291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801286,
+      "num": 343784,
+      "word": "陈妍希问陈晓凶手到底是谁",
+      "onboard_time": 1681391131,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 801125,
       "num": 801125,
       "word": "盘点张继科商业版图",
@@ -4857,6 +4865,14 @@
       "onboard_time": 1680499349,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 723553,
+      "num": 255203,
+      "word": "何悯鸿怀孕",
+      "onboard_time": 1681389090,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 723218,
@@ -5601,6 +5617,14 @@
       "onboard_time": 1681011266,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 654025,
+      "num": 654025,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1681389929,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 653611,
@@ -7099,6 +7123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544866,
+      "num": 544866,
+      "word": "易烊千玺石上鸟胸针",
+      "onboard_time": 1681387769,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 544237,
       "num": 544237,
       "word": "Kpop圈首位印度成员ARIA",
@@ -7635,14 +7667,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 516785,
-      "num": 241784,
-      "word": "何悯鸿怀孕",
-      "onboard_time": 1681389090,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 516596,
       "num": 516596,
       "word": "AG换打野等于换队",
@@ -7785,14 +7809,6 @@
       "onboard_time": 1680880590,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 508974,
-      "num": 508974,
-      "word": "易烊千玺石上鸟胸针",
-      "onboard_time": 1681387769,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 508652,
@@ -8057,6 +8073,14 @@
       "onboard_time": 1681046187,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 492983,
+      "num": 255104,
+      "word": "大三学生给同学洗鞋2个月赚8万",
+      "onboard_time": 1681387168,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492763,
@@ -8563,14 +8587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 468132,
-      "num": 241606,
-      "word": "大三学生给同学洗鞋2个月赚8万",
-      "onboard_time": 1681387168,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 467909,
       "num": 265701,
       "word": "王一博擦飞机",
@@ -8812,7 +8828,7 @@
     },
     {
       "raw_hot": 455623,
-      "num": 240921,
+      "num": 252309,
       "word": "杨颖金色抹胸长裙",
       "onboard_time": 1681389028,
       "rank": 36,
@@ -10244,7 +10260,7 @@
     },
     {
       "raw_hot": 398368,
-      "num": 240576,
+      "num": 251535,
       "word": "赵露思黑色吊带长裙",
       "onboard_time": 1681387108,
       "rank": 22,
@@ -11228,7 +11244,7 @@
     },
     {
       "raw_hot": 357470,
-      "num": 241301,
+      "num": 254224,
       "word": "性单恋人群怎么谈恋爱",
       "onboard_time": 1681385067,
       "rank": 41,
@@ -13315,6 +13331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300000,
+      "num": 300000,
+      "word": "澹台烬是个学人烬",
+      "onboard_time": 1681389329,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 299942,
       "num": 263847,
       "word": "小区1天内20只流浪猫集体死亡",
@@ -14379,6 +14403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274397,
+      "num": 274397,
+      "word": "马琳离场",
+      "onboard_time": 1681389693,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274335,
       "num": 274335,
       "word": "青团是用什么做青",
@@ -14579,6 +14611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 270769,
+      "num": 250028,
+      "word": "华晨宇再为那英队拿下金曲",
+      "onboard_time": 1681390652,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270736,
       "num": 270736,
       "word": "放弃治疗而进行临终关怀是不孝吗",
@@ -14689,6 +14729,14 @@
       "onboard_time": 1680398008,
       "rank": 31,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 268111,
+      "num": 268111,
+      "word": "王子浩镜头多了",
+      "onboard_time": 1681391010,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 267888,
@@ -15643,6 +15691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248621,
+      "num": 248621,
+      "word": "西瓜被兔子咬了一千多口",
+      "onboard_time": 1681391250,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248533,
       "num": 248533,
       "word": "再也不怕回南天了",
@@ -15945,14 +16001,6 @@
       "onboard_time": 1681037065,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242429,
-      "num": 242429,
-      "word": "樊振东vs林诗栋",
-      "onboard_time": 1681389929,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 242292,
@@ -18243,14 +18291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210585,
-      "num": 210585,
-      "word": "澹台烬是个学人烬",
-      "onboard_time": 1681389329,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210527,
       "num": 210527,
       "word": "张远问陈楚生站姐用了哪款美颜软件",
@@ -18393,6 +18433,14 @@
       "onboard_time": 1681191207,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 209533,
+      "num": 209533,
+      "word": "爱很美味三观",
+      "onboard_time": 1681390770,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 209468,
@@ -20347,6 +20395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200471,
+      "num": 200471,
+      "word": "檀健次于文文跳拉丁",
+      "onboard_time": 1681391430,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200391,
       "num": 200391,
       "word": "安宥真kitschMCD直拍",
@@ -21121,6 +21177,14 @@
       "onboard_time": 1680590008,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197010,
+      "num": 197010,
+      "word": "蓝山",
+      "onboard_time": 1681391311,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 197002,
@@ -23267,6 +23331,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 185216,
+      "num": 185216,
+      "word": "烟台黄渤海迷笛音乐节",
+      "onboard_time": 1681390829,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185191,
       "num": 185191,
       "word": "半熟恋人2",
@@ -23593,6 +23665,14 @@
       "onboard_time": 1680832947,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182751,
+      "num": 182751,
+      "word": "唐嫣古装扮相",
+      "onboard_time": 1681391671,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 182668,
@@ -24249,6 +24329,14 @@
       "onboard_time": 1681091847,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175623,
+      "num": 175623,
+      "word": "王皓表情",
+      "onboard_time": 1681391911,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 175578,
@@ -25235,6 +25323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165970,
+      "num": 165970,
+      "word": "BoysPlanet三顺排名",
+      "onboard_time": 1681391969,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165959,
       "num": 165959,
       "word": "澹台烬不被爱的前半生",
@@ -26185,6 +26281,14 @@
       "onboard_time": 1680318868,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155654,
+      "num": 155654,
+      "word": "凌云志",
+      "onboard_time": 1681391370,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 155594,
@@ -29779,6 +29883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112369,
+      "num": 251161,
+      "word": "我国制裁一名美国反华议员",
+      "onboard_time": 1681391671,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 112299,
       "num": 112299,
       "word": "傲寒戈娅四杀",
@@ -31755,6 +31867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 24207,
+      "num": 191993,
+      "word": "数字化助力文旅产业复苏",
+      "onboard_time": 1681390829,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24143,
       "num": 24143,
       "word": "看得出来她是真的喜欢讲话",
@@ -31817,6 +31937,14 @@
       "onboard_time": 1681151713,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 18077,
+      "num": 791697,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1681391671,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17764,
