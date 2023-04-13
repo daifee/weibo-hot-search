@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681377432003,
+  "endTime": 1681378418785,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -67,6 +67,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1679363,
+      "num": 1679363,
+      "word": "离职一个月了还要教新人",
+      "onboard_time": 1681374811,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1600472,
+      "num": 486654,
+      "word": "曝张继科已生子",
+      "onboard_time": 1681377569,
+      "rank": 11,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1555288,
       "num": 1555288,
       "word": "频繁挖鼻孔或增加患病风险",
@@ -121,14 +137,6 @@
       "onboard_time": 1681372227,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1206225,
-      "num": 1206225,
-      "word": "离职一个月了还要教新人",
-      "onboard_time": 1681374811,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1185378,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613644,
+      "num": 310610,
+      "word": "银行发现7位数存款5年未动急寻人",
+      "onboard_time": 1681374267,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610186,
       "num": 610186,
       "word": "深圳将取消六折人才房",
@@ -443,20 +459,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 554185,
-      "num": 264483,
-      "word": "银行发现7位数存款5年未动急寻人",
-      "onboard_time": 1681374267,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 527594,
       "num": 527594,
       "word": "拔完牙后千万不要清理牙缝",
       "onboard_time": 1681360113,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 517579,
+      "num": 450929,
+      "word": "刘奕君 你这样很失态",
+      "onboard_time": 1681374569,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 504531,
@@ -489,6 +505,14 @@
       "onboard_time": 1681364789,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 495772,
+      "num": 495772,
+      "word": "被狗抓破 狂犬病",
+      "onboard_time": 1681376608,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 492763,
@@ -563,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 434504,
-      "num": 434504,
-      "word": "刘奕君 你这样很失态",
-      "onboard_time": 1681374569,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430829,
       "num": 307184,
       "word": "饮料真的要少喝",
@@ -641,6 +657,14 @@
       "onboard_time": 1681356809,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 397135,
+      "num": 397135,
+      "word": "教资笔试成绩今日发布",
+      "onboard_time": 1681376608,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 393522,
@@ -747,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341415,
+      "num": 310375,
+      "word": "为什么辣条左上角都带一寸照片",
+      "onboard_time": 1681373908,
+      "rank": 39,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 339925,
       "num": 339925,
       "word": "美香添添小崽要一起回家",
@@ -779,14 +811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333069,
-      "num": 258747,
-      "word": "为什么辣条左上角都带一寸照片",
-      "onboard_time": 1681373908,
-      "rank": 39,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 330136,
       "num": 330136,
       "word": "给一个6年全职主妇发了offer",
@@ -808,6 +832,14 @@
       "word": "杜淳王灿为女儿庆生",
       "onboard_time": 1681362032,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318189,
+      "num": 318189,
+      "word": "张颖颖假同学案胜诉",
+      "onboard_time": 1681377569,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -897,6 +929,14 @@
       "onboard_time": 1681370310,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 286772,
+      "num": 286772,
+      "word": "江疏影的锁骨",
+      "onboard_time": 1681376250,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 284914,
@@ -1059,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245344,
-      "num": 245344,
-      "word": "教资笔试成绩今日发布",
-      "onboard_time": 1681376608,
-      "rank": 23,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 245316,
       "num": 245316,
       "word": "我推的孩子",
@@ -1099,14 +1131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241253,
-      "num": 241253,
-      "word": "江疏影的锁骨",
-      "onboard_time": 1681376250,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 236441,
       "num": 236441,
       "word": "aki",
@@ -1128,6 +1152,30 @@
       "word": "天欢下凡没有嘎",
       "onboard_time": 1681346314,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 231406,
+      "num": 231406,
+      "word": "戛纳",
+      "onboard_time": 1681377089,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 230858,
+      "num": 230858,
+      "word": "燃冬 戛纳",
+      "onboard_time": 1681376968,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 230838,
+      "num": 230838,
+      "word": "黑化得最令人心疼的角色",
+      "onboard_time": 1681373966,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -1185,14 +1233,6 @@
       "onboard_time": 1681349130,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226080,
-      "num": 226080,
-      "word": "黑化得最令人心疼的角色",
-      "onboard_time": 1681373966,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 221982,
@@ -1273,14 +1313,6 @@
       "onboard_time": 1681370428,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 202615,
-      "num": 202615,
-      "word": "被狗抓破 狂犬病",
-      "onboard_time": 1681376608,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 202523,
@@ -1467,12 +1499,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 189063,
+      "num": 189063,
+      "word": "你会为了美食专门奔赴一个城市吗",
+      "onboard_time": 1681377629,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188286,
       "num": 174994,
       "word": "打鼾竟然可以导致尿床",
       "onboard_time": 1681367608,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185794,
+      "num": 185794,
+      "word": "女明星古装撑伞盘点",
+      "onboard_time": 1681377212,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185705,
@@ -1571,12 +1619,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 168406,
-      "num": 168406,
-      "word": "女明星古装撑伞盘点",
-      "onboard_time": 1681377212,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 168383,
+      "num": 168383,
+      "word": "WTT",
+      "onboard_time": 1681378290,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 168372,
@@ -1611,6 +1659,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166239,
+      "num": 166239,
+      "word": "外卖配送费会影响你下单吗",
+      "onboard_time": 1681375709,
+      "rank": 49,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 165554,
+      "num": 165554,
+      "word": "烤肉店同款南瓜羹",
+      "onboard_time": 1681377509,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165400,
       "num": 165400,
       "word": "卢拉抵沪准备参观华为",
@@ -1625,14 +1689,6 @@
       "onboard_time": 1681356749,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164310,
-      "num": 164310,
-      "word": "燃冬 戛纳",
-      "onboard_time": 1681376968,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 163417,
@@ -1811,14 +1867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 139123,
-      "num": 139123,
-      "word": "戛纳",
-      "onboard_time": 1681377089,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 137683,
       "num": 137683,
       "word": "为什么说销售是最磨炼人的岗位",
@@ -1907,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125177,
+      "num": 125177,
+      "word": "张远长发侧颜",
+      "onboard_time": 1681377569,
+      "rank": 47,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 124260,
       "num": 124260,
       "word": "彭小苒新剧红色婚服",
@@ -1961,14 +2017,6 @@
       "onboard_time": 1681364908,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 115393,
-      "num": 115393,
-      "word": "外卖配送费会影响你下单吗",
-      "onboard_time": 1681375709,
-      "rank": 49,
-      "category": "社会议题"
     },
     {
       "raw_hot": 114872,
