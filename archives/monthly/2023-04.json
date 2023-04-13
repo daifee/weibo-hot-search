@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681402919723,
+  "endTime": 1681403900533,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -9811,6 +9811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418419,
+      "num": 187549,
+      "word": "16岁女孩经常胃胀被查出胃癌晚期",
+      "onboard_time": 1681400130,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417982,
       "num": 417982,
       "word": "小兰救柯南最后一跳",
@@ -9865,14 +9873,6 @@
       "onboard_time": 1681134809,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 416106,
-      "num": 187549,
-      "word": "16岁女孩经常胃胀被查出胃癌晚期",
-      "onboard_time": 1681400130,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415954,
@@ -13123,6 +13123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 309509,
+      "num": 239659,
+      "word": "为啥一块钱打火机20年不涨价",
+      "onboard_time": 1681400908,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 309455,
       "num": 221986,
       "word": "EXO新歌LetMeIn",
@@ -16347,14 +16355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239659,
-      "num": 239659,
-      "word": "为啥一块钱打火机20年不涨价",
-      "onboard_time": 1681400908,
-      "rank": 14,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 239611,
       "num": 239611,
       "word": "孙颖莎3比1伊藤美诚",
@@ -18331,6 +18331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213227,
+      "num": 213227,
+      "word": "中国中车",
+      "onboard_time": 1681401209,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 213226,
       "num": 213226,
       "word": "流浪地球2网播定档",
@@ -19489,14 +19497,6 @@
       "onboard_time": 1680358352,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204790,
-      "num": 204790,
-      "word": "中国中车",
-      "onboard_time": 1681401209,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 204786,
@@ -27899,6 +27899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142814,
+      "num": 142814,
+      "word": "洪知秀 特典",
+      "onboard_time": 1681402348,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142528,
       "num": 142528,
       "word": "接受了永别却没忍住思念",
@@ -29433,14 +29441,6 @@
       "onboard_time": 1680279865,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124833,
-      "num": 124833,
-      "word": "洪知秀 特典",
-      "onboard_time": 1681402348,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 124746,
