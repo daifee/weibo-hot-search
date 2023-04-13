@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681418021631,
+  "endTime": 1681420502693,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -32059,6 +32059,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 43074,
+      "num": 16549,
+      "word": "徐峥未持有TST公司股权",
+      "onboard_time": 1681419132,
+      "rank": 31,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 42273,
       "num": 42273,
       "word": "大学生在打一种很新的卡",
@@ -32395,8 +32403,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14199,
-      "num": 14199,
+      "raw_hot": 14690,
+      "num": 16506,
       "word": "影视剧里一眼万年的蓝裙子",
       "onboard_time": 1681416613,
       "rank": 46,
@@ -32409,6 +32417,14 @@
       "onboard_time": 1680383591,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 11498,
+      "num": 16454,
+      "word": "服美役",
+      "onboard_time": 1681419732,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 5478,
