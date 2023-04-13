@@ -1,6 +1,6 @@
 {
   "startTime": 1681316585213,
-  "endTime": 1681366921537,
+  "endTime": 1681367706986,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2158105,
+      "num": 1922168,
+      "word": "黑马情侣自曝收入与男生家境状况",
+      "onboard_time": 1681363469,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1992142,
       "num": 497003,
       "word": "泫雅也没逃过韩国酵母",
       "onboard_time": 1681360052,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1922168,
-      "num": 1922168,
-      "word": "黑马情侣自曝收入与男生家境状况",
-      "onboard_time": 1681363469,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1745939,
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1527793,
+      "raw_hot": 1539466,
       "num": 1088076,
       "word": "易梦玲 很开心缓解了大家的容貌焦虑",
       "onboard_time": 1681365207,
@@ -107,6 +107,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1001538,
+      "num": 1001538,
+      "word": "优酷回应非会员遇3000多秒广告",
+      "onboard_time": 1681363590,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 999826,
       "num": 999826,
       "word": "不要穿试衣间里的鞋",
@@ -153,14 +161,6 @@
       "onboard_time": 1681347810,
       "rank": 11,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 834450,
-      "num": 834450,
-      "word": "优酷回应非会员遇3000多秒广告",
-      "onboard_time": 1681363590,
-      "rank": 36,
-      "category": "科技"
     },
     {
       "raw_hot": 832139,
@@ -235,20 +235,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 714859,
+      "num": 496091,
+      "word": "网友偶遇陈赫张子萱看画展",
+      "onboard_time": 1681363469,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 710676,
       "num": 710676,
       "word": "北京人均存款已接近27万",
       "onboard_time": 1681303948,
       "rank": 0,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 703030,
-      "num": 496091,
-      "word": "网友偶遇陈赫张子萱看画展",
-      "onboard_time": 1681363469,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 684648,
@@ -299,20 +299,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 635574,
+      "num": 635574,
+      "word": "清华北大在校生五一可到淄博免费游",
+      "onboard_time": 1681364728,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 629263,
+      "num": 629263,
+      "word": "美国奶牛厂爆炸18000头牛死亡",
+      "onboard_time": 1681364908,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610186,
       "num": 610186,
       "word": "深圳将取消六折人才房",
       "onboard_time": 1681342043,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 610138,
-      "num": 610138,
-      "word": "美国奶牛厂爆炸18000头牛死亡",
-      "onboard_time": 1681364908,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 602104,
@@ -371,8 +379,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 493486,
-      "num": 493486,
+      "raw_hot": 495921,
+      "num": 495921,
       "word": "TFBOYS获得的第一个奖是音悦台给的",
       "onboard_time": 1681364789,
       "rank": 12,
@@ -385,14 +393,6 @@
       "onboard_time": 1681356027,
       "rank": 35,
       "category": "科技"
-    },
-    {
-      "raw_hot": 491431,
-      "num": 491431,
-      "word": "清华北大在校生五一可到淄博免费游",
-      "onboard_time": 1681364728,
-      "rank": 13,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 489509,
@@ -563,6 +563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 357276,
+      "num": 357276,
+      "word": "时代峰峻欢迎音悦台回归",
+      "onboard_time": 1681364129,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 351876,
       "num": 351876,
       "word": "左然",
@@ -593,14 +601,6 @@
       "onboard_time": 1681302627,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 342439,
-      "num": 342439,
-      "word": "时代峰峻欢迎音悦台回归",
-      "onboard_time": 1681364129,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 339925,
@@ -955,8 +955,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212173,
-      "num": 212173,
+      "raw_hot": 216263,
+      "num": 216263,
       "word": "男子地铁站故意裸露下体被行拘",
       "onboard_time": 1681364608,
       "rank": 24,
@@ -979,12 +979,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 208350,
+      "num": 208350,
+      "word": "在广东存款10多万算多吗",
+      "onboard_time": 1681366467,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208211,
       "num": 208211,
       "word": "白宇不在乔家还是操着全家的心",
       "onboard_time": 1681363349,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204940,
+      "num": 204940,
+      "word": "杨紫手拿番茄拍广告",
+      "onboard_time": 1681365928,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202509,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1681347691,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201065,
+      "num": 175124,
+      "word": "李钟硕李宝英合影",
+      "onboard_time": 1681367008,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 200888,
@@ -1027,12 +1051,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197148,
-      "num": 197148,
-      "word": "杨紫手拿番茄拍广告",
-      "onboard_time": 1681365928,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 197084,
+      "num": 197084,
+      "word": "小米手环8",
+      "onboard_time": 1681365569,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 196826,
@@ -1131,6 +1155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 188286,
+      "num": 174994,
+      "word": "打鼾竟然可以导致尿床",
+      "onboard_time": 1681367608,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181114,
       "num": 181114,
       "word": "中国女性在职场上的现状",
@@ -1169,14 +1201,6 @@
       "onboard_time": 1681306470,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173935,
-      "num": 173935,
-      "word": "小米手环8",
-      "onboard_time": 1681365569,
-      "rank": 29,
-      "category": "科技"
     },
     {
       "raw_hot": 171352,
@@ -1379,12 +1403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137216,
+      "num": 137216,
+      "word": "容易疲劳的人有福了",
+      "onboard_time": 1681366225,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136914,
       "num": 136914,
       "word": "昆明至万象坐火车当天就能到",
       "onboard_time": 1681353449,
       "rank": 45,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 135555,
+      "num": 135555,
+      "word": "张馨予晒童年旧照",
+      "onboard_time": 1681367367,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 132432,
@@ -1424,14 +1464,6 @@
       "word": "一组高频数据看消费回暖",
       "onboard_time": 1681354588,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126844,
-      "num": 126844,
-      "word": "在广东存款10多万算多吗",
-      "onboard_time": 1681366467,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1475,12 +1507,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117111,
-      "num": 117111,
-      "word": "容易疲劳的人有福了",
-      "onboard_time": 1681366225,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 114872,
+      "num": 114872,
+      "word": "腺样体面容有哪些特点",
+      "onboard_time": 1681367490,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114304,
