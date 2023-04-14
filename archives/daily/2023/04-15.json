@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681508016677,
+  "endTime": 1681510557558,
   "band_list": [
     {
       "raw_hot": 1959237,
@@ -251,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185068,
+      "num": 185068,
+      "word": "生源都不足了还要高价抢学区房吗",
+      "onboard_time": 1681503313,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 169536,
       "num": 169536,
       "word": "代号鸢",
@@ -281,6 +289,14 @@
       "onboard_time": 1681462769,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145274,
+      "num": 145274,
+      "word": "女子被质疑有房炫富还能申请到公租房",
+      "onboard_time": 1681504752,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 140727,
@@ -355,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98207,
-      "num": 32337,
-      "word": "生源都不足了还要高价抢学区房吗",
-      "onboard_time": 1681503313,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 97563,
       "num": 109816,
       "word": "怪盗基德 服部平次",
@@ -435,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 73287,
-      "num": 31914,
-      "word": "女子被质疑有房炫富还能申请到公租房",
-      "onboard_time": 1681504752,
-      "rank": 13,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 60326,
       "num": 60326,
       "word": "INTO1最后一次换头像",
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52118,
+      "num": 52118,
+      "word": "雨后春笋2天长30厘米顶翻木桌",
+      "onboard_time": 1681502113,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46659,
       "num": 62707,
       "word": "LPL",
@@ -467,20 +475,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 34457,
-      "num": 31201,
-      "word": "雨后春笋2天长30厘米顶翻木桌",
-      "onboard_time": 1681502113,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20007,
-      "num": 20007,
+      "raw_hot": 32335,
+      "num": 32335,
       "word": "冥夜是蛟龙不是恐龙",
       "onboard_time": 1681504332,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 19685,
+      "num": 21022,
+      "word": "你好星期六新预告好费脸",
+      "onboard_time": 1681509913,
+      "rank": 44,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
