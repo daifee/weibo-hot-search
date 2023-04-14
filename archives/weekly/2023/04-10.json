@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681485459834,
+  "endTime": 1681486417297,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1801631,
+      "num": 1801631,
+      "word": "建议微信出个头像屏蔽功能",
+      "onboard_time": 1681481010,
+      "rank": 34,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 1796971,
       "num": 1796971,
       "word": "2023教资笔试查分",
@@ -529,14 +537,6 @@
       "onboard_time": 1681303948,
       "rank": 4,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1606221,
-      "num": 1606221,
-      "word": "建议微信出个头像屏蔽功能",
-      "onboard_time": 1681481010,
-      "rank": 34,
-      "category": "幽默,科技"
     },
     {
       "raw_hot": 1600472,
@@ -2731,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580262,
+      "num": 580262,
+      "word": "陈都灵演技",
+      "onboard_time": 1681483771,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 580001,
       "num": 285965,
       "word": "小伙被公司发配到乡镇惹网友羡慕",
@@ -3627,14 +3635,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 471187,
-      "num": 471187,
-      "word": "陈都灵演技",
-      "onboard_time": 1681483771,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 470689,
       "num": 470689,
       "word": "冥夜 桑酒",
@@ -3777,6 +3777,14 @@
       "onboard_time": 1681214845,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 456309,
+      "num": 456309,
+      "word": "五哈 小婉",
+      "onboard_time": 1681481851,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 455623,
@@ -4339,6 +4347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408734,
+      "num": 408734,
+      "word": "淄博文旅局长",
+      "onboard_time": 1681485328,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 408701,
       "num": 408701,
       "word": "中国成功实施陆基中段反导拦截技术试验",
@@ -4585,14 +4601,6 @@
       "onboard_time": 1681195766,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396410,
-      "num": 396410,
-      "word": "五哈 小婉",
-      "onboard_time": 1681481851,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 396287,
@@ -6347,6 +6355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 267916,
+      "num": 267916,
+      "word": "孙颖莎4比0陈梦",
+      "onboard_time": 1681484430,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267888,
       "num": 267888,
       "word": "SEVENTEEN新专史上强度最高编舞",
@@ -6827,6 +6843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242884,
+      "num": 242884,
+      "word": "老道",
+      "onboard_time": 1681485151,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 242830,
       "num": 242830,
       "word": "为什么年轻人热衷考教资",
@@ -7188,7 +7212,7 @@
     },
     {
       "raw_hot": 231526,
-      "num": 1410926,
+      "num": 1635892,
       "word": "中国昆明与老挝万象的双向奔赴",
       "onboard_time": 1681471346,
       "rank": 2,
@@ -7209,6 +7233,14 @@
       "onboard_time": 1681377089,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231316,
+      "num": 231316,
+      "word": "马布里 Lol",
+      "onboard_time": 1681485570,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 231032,
@@ -7377,6 +7409,14 @@
       "onboard_time": 1681474346,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226915,
+      "num": 226915,
+      "word": "Angelababy说范丞丞返祖了",
+      "onboard_time": 1681485627,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 226810,
@@ -7763,6 +7803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215898,
+      "num": 215898,
+      "word": "代号鸢",
+      "onboard_time": 1681484013,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215765,
       "num": 215765,
       "word": "梁友安金屋藏娇被发现",
@@ -8065,14 +8113,6 @@
       "onboard_time": 1681369347,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208230,
-      "num": 208230,
-      "word": "孙颖莎4比0陈梦",
-      "onboard_time": 1681484430,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 208211,
@@ -9603,6 +9643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191389,
+      "num": 191389,
+      "word": "薛之谦佛山演唱会",
+      "onboard_time": 1681485691,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191324,
       "num": 191324,
       "word": "张杰说外南街我回来了",
@@ -9721,14 +9769,6 @@
       "onboard_time": 1681474948,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189345,
-      "num": 189345,
-      "word": "老道",
-      "onboard_time": 1681485151,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 189302,
@@ -10633,14 +10673,6 @@
       "onboard_time": 1681277309,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171766,
-      "num": 171766,
-      "word": "代号鸢",
-      "onboard_time": 1681484013,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 171535,
@@ -12915,14 +12947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115619,
-      "num": 137379,
-      "word": "淄博文旅局长",
-      "onboard_time": 1681485328,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 114872,
       "num": 114872,
       "word": "腺样体面容有哪些特点",
@@ -12961,6 +12985,22 @@
       "onboard_time": 1681453045,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113683,
+      "num": 113683,
+      "word": "擅长溺爱的粉丝",
+      "onboard_time": 1681486407,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113575,
+      "num": 113575,
+      "word": "宋雨琦脑回路",
+      "onboard_time": 1681485691,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 113273,
