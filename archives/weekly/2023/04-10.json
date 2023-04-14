@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681504422993,
+  "endTime": 1681506884021,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -13563,6 +13563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 81167,
+      "num": 31472,
+      "word": "生源都不足了还要高价抢学区房吗",
+      "onboard_time": 1681503313,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 80509,
       "num": 124098,
       "word": "游戏里的时尚妆容",
@@ -13721,6 +13729,14 @@
       "onboard_time": 1681147395,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55236,
+      "num": 29345,
+      "word": "女子被质疑有房炫富还能申请到公租房",
+      "onboard_time": 1681504752,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 54935,
@@ -13915,12 +13931,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 31472,
-      "num": 31472,
-      "word": "生源都不足了还要高价抢学区房吗",
-      "onboard_time": 1681503313,
-      "rank": 49,
-      "category": "社会新闻,教育"
+      "raw_hot": 30975,
+      "num": 29298,
+      "word": "雨后春笋2天长30厘米顶翻木桌",
+      "onboard_time": 1681502113,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29045,
@@ -13937,14 +13953,6 @@
       "onboard_time": 1681048530,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 26680,
-      "num": 26680,
-      "word": "雨后春笋2天长30厘米顶翻木桌",
-      "onboard_time": 1681502113,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24690,
@@ -13995,20 +14003,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17581,
+      "num": 17839,
+      "word": "冥夜是蛟龙不是恐龙",
+      "onboard_time": 1681504332,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 17126,
       "num": 24739,
       "word": "城市巡游记",
       "onboard_time": 1681150813,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 12091,
-      "num": 17839,
-      "word": "冥夜是蛟龙不是恐龙",
-      "onboard_time": 1681504332,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 5478,
