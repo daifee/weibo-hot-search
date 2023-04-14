@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681463820808,
+  "endTime": 1681464803376,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -35,6 +35,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 1766188,
+      "num": 1766188,
+      "word": "南京网红暴猴遭霸凌长期水上漂",
+      "onboard_time": 1681457666,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1562444,
       "num": 1562444,
       "word": "林生斌",
@@ -43,12 +51,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1515350,
-      "num": 1515350,
-      "word": "南京网红暴猴遭霸凌长期水上漂",
-      "onboard_time": 1681457666,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 1492091,
+      "num": 1492091,
+      "word": "曲婉婷名下两套房产被法拍",
+      "onboard_time": 1681462050,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1468739,
@@ -57,14 +65,6 @@
       "onboard_time": 1681397731,
       "rank": 10,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 1408071,
-      "num": 1408071,
-      "word": "曲婉婷名下两套房产被法拍",
-      "onboard_time": 1681462050,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1398190,
@@ -195,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730816,
+      "num": 270477,
+      "word": "女儿发现做月嫂的妈妈存款近500万",
+      "onboard_time": 1681461687,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728550,
       "num": 363930,
       "word": "广东人为何最敢生娃",
       "onboard_time": 1681433489,
       "rank": 11,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 718181,
-      "num": 270477,
-      "word": "女儿发现做月嫂的妈妈存款近500万",
-      "onboard_time": 1681461687,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 705507,
@@ -273,6 +273,14 @@
       "onboard_time": 1681461387,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 615429,
+      "num": 615429,
+      "word": "好友赚了2000万我却失眠了",
+      "onboard_time": 1681462769,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 614883,
@@ -499,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 458860,
+      "num": 458860,
+      "word": "SMTOWN艺人将入驻Weverse",
+      "onboard_time": 1681462587,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458512,
       "num": 458512,
       "word": "殷桃的腰",
@@ -587,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 402204,
+      "num": 358241,
+      "word": "小米回应被乌列入俄国际赞助商名单",
+      "onboard_time": 1681462169,
+      "rank": 15,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 394821,
       "num": 394821,
       "word": "引发烟台山火嫌疑人已被刑拘",
@@ -603,12 +627,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 370505,
-      "num": 370505,
-      "word": "SMTOWN艺人将入驻Weverse",
-      "onboard_time": 1681462587,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 368754,
+      "num": 368754,
+      "word": "女孩离家出走被男子收留后被性侵",
+      "onboard_time": 1681463911,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368712,
@@ -617,6 +641,14 @@
       "onboard_time": 1681442850,
       "rank": 42,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 367290,
+      "num": 367290,
+      "word": "音悦台向EXO和粉丝道歉",
+      "onboard_time": 1681464149,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 366918,
@@ -641,14 +673,6 @@
       "onboard_time": 1681387769,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 358241,
-      "num": 358241,
-      "word": "小米回应被乌列入俄国际赞助商名单",
-      "onboard_time": 1681462169,
-      "rank": 15,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 357917,
@@ -755,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288149,
+      "num": 288149,
+      "word": "符龙飞回应被扒",
+      "onboard_time": 1681461091,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284435,
       "num": 284435,
       "word": "王一博看到战斗机的反应",
@@ -801,14 +833,6 @@
       "onboard_time": 1681444950,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252780,
-      "num": 252780,
-      "word": "符龙飞回应被扒",
-      "onboard_time": 1681461091,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 252397,
@@ -907,14 +931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226192,
-      "num": 226192,
-      "word": "好友赚了2000万我却失眠了",
-      "onboard_time": 1681462769,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 222705,
       "num": 222705,
       "word": "张婧仪花朵编发",
@@ -945,6 +961,14 @@
       "onboard_time": 1681462829,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216055,
+      "num": 216055,
+      "word": "射手座的间歇性冷漠",
+      "onboard_time": 1681461627,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 215940,
@@ -1035,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207896,
+      "num": 207896,
+      "word": "如何一个字不说把老婆哄好",
+      "onboard_time": 1681463969,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 207656,
       "num": 207656,
       "word": "奔跑吧今晚播",
@@ -1107,6 +1139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200992,
+      "num": 200992,
+      "word": "100岁奶奶质问98岁爷爷爱不爱她",
+      "onboard_time": 1681464090,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200934,
       "num": 200934,
       "word": "奔跑吧宫廷风剧照",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1681428502,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 198353,
+      "num": 198353,
+      "word": "周也刘海随拍",
+      "onboard_time": 1681464090,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 198333,
@@ -1195,12 +1243,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194502,
+      "num": 194502,
+      "word": "月嫂算高收入人群吗",
+      "onboard_time": 1681463729,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 191088,
       "num": 375141,
       "word": "我国制裁一名美国反华议员",
       "onboard_time": 1681391671,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 188816,
+      "num": 188816,
+      "word": "宋亚轩早期登台rap视频",
+      "onboard_time": 1681464149,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188560,
@@ -1259,6 +1323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183728,
+      "num": 183728,
+      "word": "时代少年团旅游日常vlog预告视频",
+      "onboard_time": 1681464090,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183589,
       "num": 183589,
       "word": "谢谢内蒙森林消防",
@@ -1297,6 +1369,14 @@
       "onboard_time": 1681462349,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172940,
+      "num": 172940,
+      "word": "澹台烬求与叶夕雾一生一世",
+      "onboard_time": 1681463249,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 171559,
@@ -1395,12 +1475,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159975,
-      "num": 159975,
-      "word": "射手座的间歇性冷漠",
-      "onboard_time": 1681461627,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 160827,
+      "num": 160827,
+      "word": "家里网不好的原因找到了",
+      "onboard_time": 1681463669,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 158436,
@@ -1409,14 +1489,6 @@
       "onboard_time": 1681439127,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157913,
-      "num": 157913,
-      "word": "月嫂算高收入人群吗",
-      "onboard_time": 1681463729,
-      "rank": 40,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 157754,
@@ -1507,20 +1579,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144801,
+      "num": 144801,
+      "word": "音悦台称会偿还欠坤音的钱",
+      "onboard_time": 1681464748,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143855,
       "num": 143855,
       "word": "偶遇车银优洛杉矶逛街",
       "onboard_time": 1681435347,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143669,
-      "num": 143669,
-      "word": "家里网不好的原因找到了",
-      "onboard_time": 1681463669,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 143328,
@@ -1641,14 +1713,6 @@
       "onboard_time": 1681440447,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133830,
-      "num": 133830,
-      "word": "澹台烬求与叶夕雾一生一世",
-      "onboard_time": 1681463249,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 130840,
@@ -1931,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99237,
+      "num": 132980,
+      "word": "上海咖啡泡饭走红",
+      "onboard_time": 1681461928,
+      "rank": 49,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 98948,
       "num": 98948,
       "word": "马琳离场",
@@ -1953,14 +2025,6 @@
       "onboard_time": 1681429646,
       "rank": 45,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 94812,
-      "num": 116124,
-      "word": "上海咖啡泡饭走红",
-      "onboard_time": 1681461928,
-      "rank": 49,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 92281,
