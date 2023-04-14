@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681454126643,
+  "endTime": 1681456538528,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -27,6 +27,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 1835879,
+      "num": 1835879,
+      "word": "12306",
+      "onboard_time": 1681453767,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1562444,
       "num": 1562444,
       "word": "林生斌",
@@ -49,6 +57,14 @@
       "onboard_time": 1681443690,
       "rank": 3,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1232167,
+      "num": 1232167,
+      "word": "娜扎好像敦煌神女下凡了",
+      "onboard_time": 1681454487,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1190552,
@@ -75,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1050064,
+      "num": 1050064,
+      "word": "为什么说女明星是普女",
+      "onboard_time": 1681454606,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 886408,
       "num": 886408,
       "word": "罗云熙舌苔一看就没有湿气",
@@ -99,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 773885,
+      "num": 773885,
+      "word": "淮阴工学院",
+      "onboard_time": 1681454066,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 767837,
       "num": 767837,
       "word": "云南两女孩因骑摩托车发生事故去世",
@@ -108,7 +140,7 @@
     },
     {
       "raw_hot": 740685,
-      "num": 410664,
+      "num": 478886,
       "word": "小娇妻",
       "onboard_time": 1681452146,
       "rank": 13,
@@ -243,6 +275,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 536458,
+      "num": 536458,
+      "word": "原来白鹿也缺牙",
+      "onboard_time": 1681453345,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 523766,
       "num": 523766,
       "word": "安徽爷孙失联前曾被村民遇到",
@@ -275,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 490180,
+      "num": 478661,
+      "word": "校方回应教师朋友圈发遗言后跳楼",
+      "onboard_time": 1681454367,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 488152,
       "num": 488152,
       "word": "假如小兰不和新一在一起",
@@ -291,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483120,
+      "num": 477691,
+      "word": "金晨 泰国泼水音乐节",
+      "onboard_time": 1681453708,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482048,
       "num": 538046,
       "word": "胃是怎样一步步癌变的",
@@ -299,8 +355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472063,
-      "num": 472063,
+      "raw_hot": 480097,
+      "num": 480097,
       "word": "男子菜地里种罂粟和虞美人混一起",
       "onboard_time": 1681451608,
       "rank": 9,
@@ -411,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 404340,
+      "num": 404340,
+      "word": "彝族姑娘果果自曝老公出轨",
+      "onboard_time": 1681454966,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394821,
       "num": 394821,
       "word": "引发烟台山火嫌疑人已被刑拘",
@@ -451,12 +515,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 357917,
+      "num": 253371,
+      "word": "EXO机场生图",
+      "onboard_time": 1681454606,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357490,
       "num": 357490,
       "word": "张远陆虎王栎鑫为长沙唱歌",
       "onboard_time": 1681442427,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354219,
+      "num": 354219,
+      "word": "你一旦熬过夜",
+      "onboard_time": 1681455447,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 342724,
+      "num": 243346,
+      "word": "带薪喝水的杯子有多讲究",
+      "onboard_time": 1681453466,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 332569,
@@ -521,14 +609,6 @@
       "onboard_time": 1681439725,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 289117,
-      "num": 289117,
-      "word": "原来白鹿也缺牙",
-      "onboard_time": 1681453345,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 284435,
@@ -672,6 +752,14 @@
       "word": "井汲大翔淘汰",
       "onboard_time": 1681395334,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215717,
+      "num": 215717,
+      "word": "魏晨第一个推理成功",
+      "onboard_time": 1681454667,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -851,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196670,
+      "num": 196670,
+      "word": "声生不息歌手初印象和现印象",
+      "onboard_time": 1681455686,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195070,
       "num": 188690,
       "word": "打工人每天醒来的第一件事",
@@ -883,14 +979,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 188412,
-      "num": 188412,
-      "word": "金晨 泰国泼水音乐节",
-      "onboard_time": 1681453708,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188369,
       "num": 188369,
       "word": "电影稍微想起一些今日上映",
@@ -905,14 +993,6 @@
       "onboard_time": 1681434510,
       "rank": 33,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 187914,
-      "num": 187914,
-      "word": "带薪喝水的杯子有多讲究",
-      "onboard_time": 1681453466,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 187913,
@@ -961,14 +1041,6 @@
       "onboard_time": 1681448009,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 175257,
-      "num": 175257,
-      "word": "12306",
-      "onboard_time": 1681453767,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171559,
@@ -1227,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135193,
+      "num": 135193,
+      "word": "星痕无畏主打互相偶遇",
+      "onboard_time": 1681455987,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134535,
       "num": 134535,
       "word": "TF家族新歌一起长大吧笨蛋",
@@ -1331,6 +1411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118320,
+      "num": 118320,
+      "word": "杨颖对镜回眸随拍",
+      "onboard_time": 1681456288,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117766,
       "num": 74131,
       "word": "苏醒曾因为舞台事故甩脸",
@@ -1409,6 +1497,14 @@
       "onboard_time": 1681433847,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107465,
+      "num": 107465,
+      "word": "淄博烧烤",
+      "onboard_time": 1681455928,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107280,
@@ -1505,14 +1601,6 @@
       "onboard_time": 1681429646,
       "rank": 45,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 94151,
-      "num": 94151,
-      "word": "淮阴工学院",
-      "onboard_time": 1681454066,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 92281,
