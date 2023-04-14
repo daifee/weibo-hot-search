@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681460489020,
+  "endTime": 1681461257850,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -83,6 +83,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1182088,
+      "num": 1182088,
+      "word": "南京网红暴猴遭霸凌长期水上漂",
+      "onboard_time": 1681457666,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1170254,
       "num": 1170254,
       "word": "体重48公斤被学校谈话",
@@ -99,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 930899,
-      "num": 930899,
+      "raw_hot": 945277,
+      "num": 945277,
       "word": "Viper",
       "onboard_time": 1681459109,
       "rank": 4,
@@ -139,14 +147,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 860297,
-      "num": 860297,
-      "word": "南京网红暴猴遭霸凌长期水上漂",
-      "onboard_time": 1681457666,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 814621,
       "num": 814621,
       "word": "全红婵陈芋汐跳水世界杯金牌",
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762347,
+      "num": 762347,
+      "word": "用过iPhone后你还会用安卓机吗",
+      "onboard_time": 1681458089,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 740685,
       "num": 484979,
       "word": "小娇妻",
@@ -177,6 +185,14 @@
       "onboard_time": 1681433489,
       "rank": 11,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 705507,
+      "num": 705507,
+      "word": "明道 感谢大家记得单均昊和叶天喻",
+      "onboard_time": 1681457069,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 702982,
@@ -203,14 +219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 653324,
-      "num": 653324,
-      "word": "明道 感谢大家记得单均昊和叶天喻",
-      "onboard_time": 1681457069,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 645373,
       "num": 645373,
       "word": "你一旦熬过夜",
@@ -225,6 +233,14 @@
       "onboard_time": 1681439306,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 633202,
+      "num": 529410,
+      "word": "罗云熙的身高",
+      "onboard_time": 1681459947,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 625039,
@@ -243,20 +259,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606997,
+      "num": 606997,
+      "word": "王者荣耀",
+      "onboard_time": 1681459947,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 591443,
       "num": 537561,
       "word": "男子欠债百万杀妻后买冰柜藏尸",
       "onboard_time": 1681442130,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 586171,
-      "num": 586171,
-      "word": "用过iPhone后你还会用安卓机吗",
-      "onboard_time": 1681458089,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 577345,
@@ -347,12 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 530438,
-      "num": 530438,
-      "word": "王者荣耀",
-      "onboard_time": 1681459947,
-      "rank": 11,
-      "category": "游戏"
+      "raw_hot": 530303,
+      "num": 530303,
+      "word": "陈都灵cos的赤木晴子",
+      "onboard_time": 1681459227,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 526185,
+      "num": 526185,
+      "word": "周三放假非常科学的理由",
+      "onboard_time": 1681457848,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 523766,
@@ -371,20 +395,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510632,
+      "num": 510632,
+      "word": "为什么牙科医生都穿洞洞鞋",
+      "onboard_time": 1681458208,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 507128,
       "num": 507128,
       "word": "GUCCI肖战新图",
       "onboard_time": 1681452268,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 504289,
-      "num": 504289,
-      "word": "为什么牙科医生都穿洞洞鞋",
-      "onboard_time": 1681458208,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 501994,
@@ -433,14 +457,6 @@
       "onboard_time": 1681451608,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462484,
-      "num": 462484,
-      "word": "陈都灵cos的赤木晴子",
-      "onboard_time": 1681459227,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 460335,
@@ -515,14 +531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 414326,
-      "num": 414326,
-      "word": "周三放假非常科学的理由",
-      "onboard_time": 1681457848,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 414060,
       "num": 414060,
       "word": "肌肤饥渴症",
@@ -561,6 +569,14 @@
       "onboard_time": 1681398333,
       "rank": 7,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 372298,
+      "num": 372298,
+      "word": "为什么九成的手机品牌消失了",
+      "onboard_time": 1681458510,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 368712,
@@ -635,24 +651,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330628,
-      "num": 330628,
-      "word": "罗云熙的身高",
-      "onboard_time": 1681459947,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 328726,
-      "num": 328726,
-      "word": "为什么九成的手机品牌消失了",
-      "onboard_time": 1681458510,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 326124,
-      "num": 326124,
+      "raw_hot": 331169,
+      "num": 331169,
       "word": "何超莲何超琼同框合照",
       "onboard_time": 1681458628,
       "rank": 22,
@@ -779,20 +779,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245570,
+      "num": 245570,
+      "word": "aespa将5月8日回归",
+      "onboard_time": 1681458510,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244364,
       "num": 244364,
       "word": "LPL春决媒体发布会",
       "onboard_time": 1681451789,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241140,
-      "num": 241140,
-      "word": "aespa将5月8日回归",
-      "onboard_time": 1681458510,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 239923,
@@ -873,6 +873,14 @@
       "onboard_time": 1681457848,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216342,
+      "num": 216342,
+      "word": "jinni艺名改为jini",
+      "onboard_time": 1681460067,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 215940,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1681448610,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202418,
+      "num": 202418,
+      "word": "流浪地球2全网上线",
+      "onboard_time": 1681460248,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 200934,
@@ -1227,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169291,
+      "num": 169291,
+      "word": "马天宇被AI认可的演技",
+      "onboard_time": 1681458928,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169080,
       "num": 169080,
       "word": "流浪地球2流浪到鹅家",
@@ -1307,6 +1331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156710,
+      "num": 156710,
+      "word": "符龙飞回应被扒",
+      "onboard_time": 1681461091,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156523,
       "num": 156523,
       "word": "桑酒炼成倾世之玉",
@@ -1339,14 +1371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152615,
-      "num": 152615,
-      "word": "马天宇被AI认可的演技",
-      "onboard_time": 1681458928,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 149958,
       "num": 149958,
       "word": "蒲熠星猫坪村的一天",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1681440386,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147147,
-      "num": 147147,
-      "word": "jinni艺名改为jini",
-      "onboard_time": 1681460067,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 146670,
@@ -1563,14 +1579,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 125995,
-      "num": 125995,
-      "word": "流浪地球2全网上线",
-      "onboard_time": 1681460248,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 125121,
       "num": 125121,
       "word": "罗云熙符龙飞的双人舞",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1681436364,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 120429,
+      "num": 120429,
+      "word": "啜妮心疼蓝冰",
+      "onboard_time": 1681461028,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 119619,
@@ -1689,6 +1705,14 @@
       "onboard_time": 1681383210,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112023,
+      "num": 112023,
+      "word": "杨千嬅巡回演唱会官宣",
+      "onboard_time": 1681460849,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 110024,

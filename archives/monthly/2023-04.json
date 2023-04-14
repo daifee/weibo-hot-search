@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681460489020,
+  "endTime": 1681461257850,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2491,6 +2491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1182088,
+      "num": 1182088,
+      "word": "南京网红暴猴遭霸凌长期水上漂",
+      "onboard_time": 1681457666,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1181680,
       "num": 1181680,
       "word": "制裁台独顽固分子萧美琴",
@@ -3947,14 +3955,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 860297,
-      "num": 860297,
-      "word": "南京网红暴猴遭霸凌长期水上漂",
-      "onboard_time": 1681457666,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 860190,
       "num": 860190,
       "word": "还得是伊能静",
@@ -4699,6 +4699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 762347,
+      "num": 762347,
+      "word": "用过iPhone后你还会用安卓机吗",
+      "onboard_time": 1681458089,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 761885,
       "num": 761885,
       "word": "去年国内人均存款增加1.2万",
@@ -5217,6 +5225,14 @@
       "onboard_time": 1681210947,
       "rank": 15,
       "category": "社会新闻,社会新闻"
+    },
+    {
+      "raw_hot": 705507,
+      "num": 705507,
+      "word": "明道 感谢大家记得单均昊和叶天喻",
+      "onboard_time": 1681457069,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 705477,
@@ -5859,14 +5875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 653324,
-      "num": 653324,
-      "word": "明道 感谢大家记得单均昊和叶天喻",
-      "onboard_time": 1681457069,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 652681,
       "num": 652681,
       "word": "口腔诊所借杨颖正畸案例宣传被罚",
@@ -6121,6 +6129,14 @@
       "onboard_time": 1680589947,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 633202,
+      "num": 529410,
+      "word": "罗云熙的身高",
+      "onboard_time": 1681459947,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 633027,
@@ -6801,14 +6817,6 @@
       "onboard_time": 1680575068,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 586171,
-      "num": 586171,
-      "word": "用过iPhone后你还会用安卓机吗",
-      "onboard_time": 1681458089,
-      "rank": 8,
-      "category": "科技"
     },
     {
       "raw_hot": 585120,
@@ -7811,6 +7819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 530303,
+      "num": 530303,
+      "word": "陈都灵cos的赤木晴子",
+      "onboard_time": 1681459227,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 529558,
       "num": 529558,
       "word": "长月烬明预告",
@@ -7881,6 +7897,14 @@
       "onboard_time": 1680690152,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 526185,
+      "num": 526185,
+      "word": "周三放假非常科学的理由",
+      "onboard_time": 1681457848,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 525540,
@@ -8179,6 +8203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510632,
+      "num": 510632,
+      "word": "为什么牙科医生都穿洞洞鞋",
+      "onboard_time": 1681458208,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 509461,
       "num": 509461,
       "word": "一出站就被惊艳了的宝藏地铁口",
@@ -8241,14 +8273,6 @@
       "onboard_time": 1680681870,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 504289,
-      "num": 504289,
-      "word": "为什么牙科医生都穿洞洞鞋",
-      "onboard_time": 1681458208,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 504267,
@@ -9129,14 +9153,6 @@
       "onboard_time": 1680578546,
       "rank": 18,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 462484,
-      "num": 462484,
-      "word": "陈都灵cos的赤木晴子",
-      "onboard_time": 1681459227,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 461357,
@@ -10371,14 +10387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 414326,
-      "num": 414326,
-      "word": "周三放假非常科学的理由",
-      "onboard_time": 1681457848,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 412985,
       "num": 409686,
       "word": "易烊千玺曾饰演少年屈原",
@@ -11521,6 +11529,14 @@
       "onboard_time": 1680945146,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372298,
+      "num": 372298,
+      "word": "为什么九成的手机品牌消失了",
+      "onboard_time": 1681458510,
+      "rank": 21,
+      "category": "科技"
     },
     {
       "raw_hot": 372008,
@@ -12875,6 +12891,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 331169,
+      "num": 331169,
+      "word": "何超莲何超琼同框合照",
+      "onboard_time": 1681458628,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330972,
       "num": 330972,
       "word": "奔跑吧",
@@ -12897,14 +12921,6 @@
       "onboard_time": 1680307944,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330628,
-      "num": 330628,
-      "word": "罗云熙的身高",
-      "onboard_time": 1681459947,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 330373,
@@ -12985,14 +13001,6 @@
       "onboard_time": 1680303797,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 328726,
-      "num": 328726,
-      "word": "为什么九成的手机品牌消失了",
-      "onboard_time": 1681458510,
-      "rank": 21,
-      "category": "科技"
     },
     {
       "raw_hot": 328386,
@@ -13081,14 +13089,6 @@
       "onboard_time": 1680832346,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 326124,
-      "num": 326124,
-      "word": "何超莲何超琼同框合照",
-      "onboard_time": 1681458628,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 325962,
@@ -16603,6 +16603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245570,
+      "num": 245570,
+      "word": "aespa将5月8日回归",
+      "onboard_time": 1681458510,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245316,
       "num": 245316,
       "word": "我推的孩子",
@@ -16841,14 +16849,6 @@
       "onboard_time": 1680426150,
       "rank": 28,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 241140,
-      "num": 241140,
-      "word": "aespa将5月8日回归",
-      "onboard_time": 1681458510,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 240949,
@@ -18777,6 +18777,14 @@
       "onboard_time": 1680441632,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216342,
+      "num": 216342,
+      "word": "jinni艺名改为jini",
+      "onboard_time": 1681460067,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 216169,
@@ -20921,6 +20929,14 @@
       "onboard_time": 1681388790,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202418,
+      "num": 202418,
+      "word": "流浪地球2全网上线",
+      "onboard_time": 1681460248,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 202407,
@@ -26203,6 +26219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169291,
+      "num": 169291,
+      "word": "马天宇被AI认可的演技",
+      "onboard_time": 1681458928,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169282,
       "num": 169282,
       "word": "毛不易巡演官宣长沙站",
@@ -27491,6 +27515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156710,
+      "num": 156710,
+      "word": "符龙飞回应被扒",
+      "onboard_time": 1681461091,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156674,
       "num": 156674,
       "word": "陈晓说愿意演渣男",
@@ -27961,14 +27993,6 @@
       "onboard_time": 1681227749,
       "rank": 15,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 152615,
-      "num": 152615,
-      "word": "马天宇被AI认可的演技",
-      "onboard_time": 1681458928,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 152475,
@@ -28561,14 +28585,6 @@
       "onboard_time": 1681188689,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 147147,
-      "num": 147147,
-      "word": "jinni艺名改为jini",
-      "onboard_time": 1681460067,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 147026,
@@ -30531,14 +30547,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125995,
-      "num": 125995,
-      "word": "流浪地球2全网上线",
-      "onboard_time": 1681460248,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 125945,
       "num": 125945,
       "word": "用古诗词解读刘亦菲",
@@ -30969,6 +30977,14 @@
       "onboard_time": 1681436364,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 120429,
+      "num": 120429,
+      "word": "啜妮心疼蓝冰",
+      "onboard_time": 1681461028,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 120388,
@@ -31529,6 +31545,14 @@
       "onboard_time": 1681037606,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112023,
+      "num": 112023,
+      "word": "杨千嬅巡回演唱会官宣",
+      "onboard_time": 1681460849,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 111635,
