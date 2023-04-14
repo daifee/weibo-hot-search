@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681467486651,
+  "endTime": 1681468410974,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -27,8 +27,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 1965377,
-      "num": 478631,
+      "raw_hot": 1981527,
+      "num": 668564,
       "word": "传说中杨紫的朋友圈",
       "onboard_time": 1681465111,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 1798621,
-      "num": 1798621,
+      "raw_hot": 1887324,
+      "num": 1887324,
       "word": "好友赚了2000万我却失眠了",
       "onboard_time": 1681462769,
       "rank": 24,
@@ -81,6 +81,14 @@
       "onboard_time": 1681397731,
       "rank": 10,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1430057,
+      "num": 824192,
+      "word": "敖瑞鹏 我只站柯哀",
+      "onboard_time": 1681466547,
+      "rank": 7,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 1398190,
@@ -129,6 +137,14 @@
       "onboard_time": 1681427542,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1004893,
+      "num": 790439,
+      "word": "嗑CP被骂",
+      "onboard_time": 1681467089,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 972634,
@@ -185,14 +201,6 @@
       "onboard_time": 1681454066,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 824192,
-      "num": 824192,
-      "word": "敖瑞鹏 我只站柯哀",
-      "onboard_time": 1681466547,
-      "rank": 7,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 814621,
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426020,
+      "num": 426020,
+      "word": "五一高铁票",
+      "onboard_time": 1681465888,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421307,
       "num": 421307,
       "word": "柯南胸前的玫瑰",
@@ -715,6 +731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336518,
+      "num": 336518,
+      "word": "娱乐圈的普男有哪些",
+      "onboard_time": 1681467147,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332569,
       "num": 332569,
       "word": "男子拒付停车费顶着收费员开7公里",
@@ -729,6 +753,14 @@
       "onboard_time": 1681389510,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331291,
+      "num": 835579,
+      "word": "28岁妈妈离世捐器官帮更多家庭团圆",
+      "onboard_time": 1681466485,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331169,
@@ -771,12 +803,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 305450,
-      "num": 305450,
-      "word": "嗑CP被骂",
-      "onboard_time": 1681467089,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 305415,
+      "num": 299438,
+      "word": "再晚1分钟孩子就到学校了",
+      "onboard_time": 1681464688,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 301795,
@@ -803,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 299438,
-      "num": 299438,
-      "word": "再晚1分钟孩子就到学校了",
-      "onboard_time": 1681464688,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 295495,
       "num": 295495,
       "word": "校方回应男生疑偷拍多位女生裸照",
@@ -833,14 +857,6 @@
       "onboard_time": 1681445010,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 279527,
-      "num": 279527,
-      "word": "五一高铁票",
-      "onboard_time": 1681465888,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274749,
@@ -1331,6 +1347,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 193921,
+      "num": 193921,
+      "word": "周深见到范丞丞的第一反应是关门",
+      "onboard_time": 1681465407,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192617,
       "num": 192617,
       "word": "奔跑吧",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1681445551,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182947,
-      "num": 182947,
-      "word": "周深见到范丞丞的第一反应是关门",
-      "onboard_time": 1681465407,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 182404,
@@ -1571,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163517,
+      "num": 163517,
+      "word": "上海草莓音乐节",
+      "onboard_time": 1681467866,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162826,
       "num": 162826,
       "word": "全国各地的桑酒",
@@ -1635,20 +1659,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152747,
-      "num": 152747,
-      "word": "娱乐圈的普男有哪些",
-      "onboard_time": 1681467147,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152622,
       "num": 152622,
       "word": "叶冰裳黑化了",
       "onboard_time": 1681384949,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152279,
+      "num": 931742,
+      "word": "女儿用手语帮聋哑父亲同声传译",
+      "onboard_time": 1681466428,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 149958,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1681436185,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144951,
+      "num": 144951,
+      "word": "淮阴工学院回应",
+      "onboard_time": 1681468110,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 143855,
@@ -1865,14 +1897,6 @@
       "onboard_time": 1681429887,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124906,
-      "num": 835579,
-      "word": "28岁妈妈离世捐器官帮更多家庭团圆",
-      "onboard_time": 1681466485,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124592,
@@ -2147,14 +2171,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 93065,
-      "num": 931742,
-      "word": "女儿用手语帮聋哑父亲同声传译",
-      "onboard_time": 1681466428,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 92281,
       "num": 92281,
       "word": "利马伤退",
@@ -2315,6 +2331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24690,
+      "num": 168309,
+      "word": "上海车展值得期待的SUV",
+      "onboard_time": 1681466428,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24679,
       "num": 29641,
       "word": "AG战胜KSG",
@@ -2328,14 +2352,6 @@
       "word": "钢铁丝路好风光",
       "onboard_time": 1681391671,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20764,
-      "num": 168309,
-      "word": "上海车展值得期待的SUV",
-      "onboard_time": 1681466428,
-      "rank": 39,
       "category": "社会新闻"
     }
   ],

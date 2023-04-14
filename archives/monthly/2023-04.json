@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681467486651,
+  "endTime": 1681468410974,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1099,6 +1099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1981527,
+      "num": 668564,
+      "word": "传说中杨紫的朋友圈",
+      "onboard_time": 1681465111,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1979853,
       "num": 1979853,
       "word": "律师称若爆料属实张继科或涉多项违法",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1680481647,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1965377,
-      "num": 478631,
-      "word": "传说中杨紫的朋友圈",
-      "onboard_time": 1681465111,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1962562,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1681270408,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1887324,
+      "num": 1887324,
+      "word": "好友赚了2000万我却失眠了",
+      "onboard_time": 1681462769,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 1883835,
@@ -1329,14 +1337,6 @@
       "onboard_time": 1680872427,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1798621,
-      "num": 1798621,
-      "word": "好友赚了2000万我却失眠了",
-      "onboard_time": 1681462769,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 1796971,
@@ -2017,6 +2017,14 @@
       "onboard_time": 1680697951,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1430057,
+      "num": 824192,
+      "word": "敖瑞鹏 我只站柯哀",
+      "onboard_time": 1681466547,
+      "rank": 7,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 1423043,
@@ -3171,6 +3179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1004893,
+      "num": 790439,
+      "word": "嗑CP被骂",
+      "onboard_time": 1681467089,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1000886,
       "num": 1000886,
       "word": "肌肤饥渴症",
@@ -4321,14 +4337,6 @@
       "onboard_time": 1681019246,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 824192,
-      "num": 824192,
-      "word": "敖瑞鹏 我只站柯哀",
-      "onboard_time": 1681466547,
-      "rank": 7,
-      "category": "艺人,动漫"
     },
     {
       "raw_hot": 822857,
@@ -10043,6 +10051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426020,
+      "num": 426020,
+      "word": "五一高铁票",
+      "onboard_time": 1681465888,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425674,
       "num": 425674,
       "word": "四川西昌突发森林火灾",
@@ -12779,6 +12795,14 @@
       "category": "音乐,社会新闻"
     },
     {
+      "raw_hot": 336518,
+      "num": 336518,
+      "word": "娱乐圈的普男有哪些",
+      "onboard_time": 1681467147,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336144,
       "num": 336144,
       "word": "科学家建议体育比赛前不要玩手机",
@@ -12961,6 +12985,14 @@
       "onboard_time": 1680947607,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331291,
+      "num": 835579,
+      "word": "28岁妈妈离世捐器官帮更多家庭团圆",
+      "onboard_time": 1681466485,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331209,
@@ -13891,12 +13923,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 305450,
-      "num": 305450,
-      "word": "嗑CP被骂",
-      "onboard_time": 1681467089,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 305415,
+      "num": 299438,
+      "word": "再晚1分钟孩子就到学校了",
+      "onboard_time": 1681464688,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 305286,
@@ -14177,14 +14209,6 @@
       "onboard_time": 1680479848,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299438,
-      "num": 299438,
-      "word": "再晚1分钟孩子就到学校了",
-      "onboard_time": 1681464688,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 299103,
@@ -15105,14 +15129,6 @@
       "onboard_time": 1680748827,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 279527,
-      "num": 279527,
-      "word": "五一高铁票",
-      "onboard_time": 1681465888,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279196,
@@ -23115,6 +23131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193921,
+      "num": 193921,
+      "word": "周深见到范丞丞的第一反应是关门",
+      "onboard_time": 1681465407,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193905,
       "num": 193905,
       "word": "罗云熙白鹿新剧情感特辑",
@@ -25065,14 +25089,6 @@
       "onboard_time": 1681069931,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182947,
-      "num": 182947,
-      "word": "周深见到范丞丞的第一反应是关门",
-      "onboard_time": 1681465407,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 182865,
@@ -27107,6 +27123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163517,
+      "num": 163517,
+      "word": "上海草莓音乐节",
+      "onboard_time": 1681467866,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 163466,
       "num": 167053,
       "word": "我们的客栈云合数据登顶",
@@ -28243,14 +28267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152747,
-      "num": 152747,
-      "word": "娱乐圈的普男有哪些",
-      "onboard_time": 1681467147,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152724,
       "num": 152724,
       "word": "SEVENTEEN出道初VS后期的颜值变化",
@@ -28305,6 +28321,14 @@
       "onboard_time": 1680272670,
       "rank": 26,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 152279,
+      "num": 931742,
+      "word": "女儿用手语帮聋哑父亲同声传译",
+      "onboard_time": 1681466428,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 152210,
@@ -29081,6 +29105,14 @@
       "onboard_time": 1681039465,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144951,
+      "num": 144951,
+      "word": "淮阴工学院回应",
+      "onboard_time": 1681468110,
+      "rank": 44,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 144921,
@@ -30929,14 +30961,6 @@
       "onboard_time": 1680279865,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124906,
-      "num": 835579,
-      "word": "28岁妈妈离世捐器官帮更多家庭团圆",
-      "onboard_time": 1681466485,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124746,
@@ -32811,14 +32835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 93065,
-      "num": 931742,
-      "word": "女儿用手语帮聋哑父亲同声传译",
-      "onboard_time": 1681466428,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 92990,
       "num": 92990,
       "word": "宋三川霸气保护梁友安",
@@ -34043,6 +34059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24690,
+      "num": 168309,
+      "word": "上海车展值得期待的SUV",
+      "onboard_time": 1681466428,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24325,
       "num": 25709,
       "word": "网剧藏药令杀青",
@@ -34073,14 +34097,6 @@
       "onboard_time": 1680384373,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20764,
-      "num": 168309,
-      "word": "上海车展值得期待的SUV",
-      "onboard_time": 1681466428,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20705,
