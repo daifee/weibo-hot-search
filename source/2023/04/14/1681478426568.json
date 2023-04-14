@@ -1,0 +1,410 @@
+{
+  "runTime": 1681478426568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3089373,
+        "num": 3089373,
+        "word": "刘恋 薛凯琪",
+        "onboard_time": 1681477826,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 959057,
+        "num": 959057,
+        "word": "安徽亳州失联爷孙遗体已找到",
+        "onboard_time": 1681470686,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146442,
+        "num": 814327,
+        "word": "中国昆明与老挝万象的双向奔赴",
+        "onboard_time": 1681471346,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808526,
+        "num": 808526,
+        "word": "刘昊然周冬雨 燃冬",
+        "onboard_time": 1681477108,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 780793,
+        "num": 780793,
+        "word": "女儿发现做月嫂的妈妈存款近500万",
+        "onboard_time": 1681461687,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1340224,
+        "num": 780771,
+        "word": "女子举报继父上班时间家中约会女性",
+        "onboard_time": 1681471464,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636853,
+        "num": 636853,
+        "word": "柯南 处处吻",
+        "onboard_time": 1681472425,
+        "rank": 6,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 635371,
+        "num": 635371,
+        "word": "女心理咨询师卧底约死群8年",
+        "onboard_time": 1681475188,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538505,
+        "num": 538505,
+        "word": "梁靖崑 林昀儒",
+        "onboard_time": 1681475968,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482843,
+        "num": 482843,
+        "word": "鹿晗小时候看还珠格格和天龙八部",
+        "onboard_time": 1681476509,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1053744,
+        "num": 471234,
+        "word": "传说中杨紫的朋友圈",
+        "onboard_time": 1681465111,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764517,
+        "num": 469496,
+        "word": "24岁的周雨彤",
+        "onboard_time": 1681472367,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698614,
+        "num": 463117,
+        "word": "崔秀彬",
+        "onboard_time": 1681473386,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 451762,
+        "num": 451762,
+        "word": "好友赚了2000万我却失眠了",
+        "onboard_time": 1681462769,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401148,
+        "num": 401148,
+        "word": "为什么说女明星是普女",
+        "onboard_time": 1681454606,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385455,
+        "num": 385455,
+        "word": "吉安失踪4年童家姐弟疑似被找到",
+        "onboard_time": 1681475247,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375534,
+        "num": 375534,
+        "word": "孙珍妮追星成功白鹿",
+        "onboard_time": 1681476747,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362477,
+        "num": 362477,
+        "word": "曲婉婷名下两套房产被法拍",
+        "onboard_time": 1681462050,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359172,
+        "num": 359172,
+        "word": "为什么广东胖子少",
+        "onboard_time": 1681475787,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315562,
+        "num": 315562,
+        "word": "女孩离家出走被男子收留后被性侵",
+        "onboard_time": 1681463911,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348314,
+        "num": 313620,
+        "word": "娱乐圈的普男有哪些",
+        "onboard_time": 1681467147,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297636,
+        "num": 297636,
+        "word": "怪盗基德 服部平次",
+        "onboard_time": 1681469426,
+        "rank": 21,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 294877,
+        "num": 294877,
+        "word": "记忆里一直没涨价的东西",
+        "onboard_time": 1681471706,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214093,
+        "num": 214093,
+        "word": "LPL",
+        "onboard_time": 1681476809,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205548,
+        "num": 205548,
+        "word": "用过iPhone后你还会用安卓机吗",
+        "onboard_time": 1681458089,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 254928,
+        "num": 203200,
+        "word": "奔跑吧",
+        "onboard_time": 1681466248,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250236,
+        "num": 201567,
+        "word": "邓超 这只是喜剧效果",
+        "onboard_time": 1681477005,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224672,
+        "num": 199656,
+        "word": "音悦台向EXO和粉丝道歉",
+        "onboard_time": 1681464149,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193428,
+        "num": 193428,
+        "word": "王者荣耀",
+        "onboard_time": 1681459947,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192308,
+        "num": 192308,
+        "word": "eStar对战WB",
+        "onboard_time": 1681477168,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217265,
+        "num": 192290,
+        "word": "陈鑫海可爱",
+        "onboard_time": 1681477049,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194746,
+        "num": 192243,
+        "word": "吴磊 常熟",
+        "onboard_time": 1681469787,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188828,
+        "num": 192215,
+        "word": "范丞丞把郭麒麟五官认成宋雨琦",
+        "onboard_time": 1681477889,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177285,
+        "num": 192203,
+        "word": "南京网红暴猴遭霸凌长期水上漂",
+        "onboard_time": 1681457666,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170978,
+        "num": 192150,
+        "word": "再晚1分钟孩子就到学校了",
+        "onboard_time": 1681464688,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168259,
+        "num": 192125,
+        "word": "金智秀新歌FLOWER音银一位",
+        "onboard_time": 1681474948,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160886,
+        "num": 192089,
+        "word": "队长演唱会",
+        "onboard_time": 1681474346,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143141,
+        "num": 192070,
+        "word": "剖腹产不是划一刀就行的事",
+        "onboard_time": 1681475847,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134623,
+        "num": 192020,
+        "word": "五一高铁票",
+        "onboard_time": 1681465888,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130715,
+        "num": 191999,
+        "word": "100岁奶奶质问98岁爷爷爱不爱她",
+        "onboard_time": 1681464090,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157790,
+        "num": 191955,
+        "word": "长月烬明",
+        "onboard_time": 1681470087,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142973,
+        "num": 191942,
+        "word": "娜扎好像敦煌神女下凡了",
+        "onboard_time": 1681454487,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136287,
+        "num": 191917,
+        "word": "泫雅泰国泼水节 舞台上的野马",
+        "onboard_time": 1681478366,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130621,
+        "num": 191882,
+        "word": "为什么牙科医生都穿洞洞鞋",
+        "onboard_time": 1681458208,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130406,
+        "num": 191839,
+        "word": "陈都灵cos的赤木晴子",
+        "onboard_time": 1681459227,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126388,
+        "num": 191800,
+        "word": "重庆狼队",
+        "onboard_time": 1681473328,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125872,
+        "num": 191762,
+        "word": "罗云熙的身高",
+        "onboard_time": 1681459947,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125106,
+        "num": 191733,
+        "word": "LadyGaga 白宫",
+        "onboard_time": 1681471527,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114316,
+        "num": 191715,
+        "word": "射手座的间歇性冷漠",
+        "onboard_time": 1681461627,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108128,
+        "num": 191679,
+        "word": "Viper",
+        "onboard_time": 1681459109,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#广东制造背后的中国式现代化密码#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681476553612,
+  "endTime": 1681478426568,
   "band_list": [
+    {
+      "raw_hot": 3089373,
+      "num": 3089373,
+      "word": "刘恋 薛凯琪",
+      "onboard_time": 1681477826,
+      "rank": 0,
+      "category": "音乐"
+    },
     {
       "raw_hot": 3037186,
       "num": 3037186,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 965319,
-      "num": 444508,
+      "num": 469496,
       "word": "24岁的周雨彤",
       "onboard_time": 1681472367,
       "rank": 11,
@@ -243,12 +251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 808526,
+      "num": 808526,
+      "word": "刘昊然周冬雨 燃冬",
+      "onboard_time": 1681477108,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 791759,
       "num": 791759,
       "word": "音悦台向EXO和粉丝道歉",
       "onboard_time": 1681464149,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 780793,
+      "num": 780793,
+      "word": "女儿发现做月嫂的妈妈存款近500万",
+      "onboard_time": 1681461687,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 767837,
@@ -265,14 +289,6 @@
       "onboard_time": 1681458089,
       "rank": 8,
       "category": "科技"
-    },
-    {
-      "raw_hot": 761205,
-      "num": 761205,
-      "word": "女儿发现做月嫂的妈妈存款近500万",
-      "onboard_time": 1681461687,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 757223,
@@ -361,6 +377,14 @@
       "onboard_time": 1681439306,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 635371,
+      "num": 635371,
+      "word": "女心理咨询师卧底约死群8年",
+      "onboard_time": 1681475188,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 625039,
@@ -483,14 +507,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 541302,
-      "num": 541302,
-      "word": "女心理咨询师卧底约死群8年",
-      "onboard_time": 1681475188,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540191,
       "num": 540191,
       "word": "周三放假非常科学的理由",
@@ -505,6 +521,14 @@
       "onboard_time": 1681457909,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 538505,
+      "num": 538505,
+      "word": "梁靖崑 林昀儒",
+      "onboard_time": 1681475968,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 530303,
@@ -585,6 +609,14 @@
       "onboard_time": 1681453708,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 482843,
+      "num": 482843,
+      "word": "鹿晗小时候看还珠格格和天龙八部",
+      "onboard_time": 1681476509,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 482048,
@@ -763,6 +795,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385455,
+      "num": 385455,
+      "word": "吉安失踪4年童家姐弟疑似被找到",
+      "onboard_time": 1681475247,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375534,
+      "num": 375534,
+      "word": "孙珍妮追星成功白鹿",
+      "onboard_time": 1681476747,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 372298,
       "num": 372298,
       "word": "为什么九成的手机品牌消失了",
@@ -801,6 +849,14 @@
       "onboard_time": 1681387769,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 359172,
+      "num": 359172,
+      "word": "为什么广东胖子少",
+      "onboard_time": 1681475787,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357917,
@@ -947,14 +1003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282467,
-      "num": 282467,
-      "word": "吉安失踪4年童家姐弟疑似被找到",
-      "onboard_time": 1681475247,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274749,
       "num": 274749,
       "word": "招惹",
@@ -1003,12 +1051,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256437,
-      "num": 256437,
-      "word": "梁靖崑 林昀儒",
-      "onboard_time": 1681475968,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 254928,
+      "num": 214383,
+      "word": "奔跑吧",
+      "onboard_time": 1681466248,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 252397,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1681464806,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250236,
+      "num": 201567,
+      "word": "邓超 这只是喜剧效果",
+      "onboard_time": 1681477005,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 247502,
@@ -1179,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217265,
+      "num": 192290,
+      "word": "陈鑫海可爱",
+      "onboard_time": 1681477049,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217016,
       "num": 217016,
       "word": "侯明昊秀腹肌",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1681429166,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214093,
+      "num": 214093,
+      "word": "LPL",
+      "onboard_time": 1681476809,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 213227,
@@ -1329,14 +1401,6 @@
       "onboard_time": 1681392092,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204079,
-      "num": 214383,
-      "word": "奔跑吧",
-      "onboard_time": 1681466248,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 203520,
@@ -1515,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192308,
+      "num": 192308,
+      "word": "eStar对战WB",
+      "onboard_time": 1681477168,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191088,
       "num": 375141,
       "word": "我国制裁一名美国反华议员",
@@ -1523,19 +1595,19 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 189713,
-      "num": 210137,
-      "word": "为什么广东胖子少",
-      "onboard_time": 1681475787,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189391,
       "num": 210125,
       "word": "金智秀新歌FLOWER音银一位",
       "onboard_time": 1681474948,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188828,
+      "num": 192215,
+      "word": "范丞丞把郭麒麟五官认成宋雨琦",
+      "onboard_time": 1681477889,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1963,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143141,
+      "num": 192070,
+      "word": "剖腹产不是划一刀就行的事",
+      "onboard_time": 1681475847,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142814,
       "num": 142814,
       "word": "洪知秀 特典",
@@ -2041,6 +2121,14 @@
       "onboard_time": 1681389329,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136287,
+      "num": 191917,
+      "word": "泫雅泰国泼水节 舞台上的野马",
+      "onboard_time": 1681478366,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 136185,
@@ -2417,14 +2505,6 @@
       "onboard_time": 1681429284,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92263,
-      "num": 209825,
-      "word": "鹿晗小时候看还珠格格和天龙八部",
-      "onboard_time": 1681476509,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 92210,

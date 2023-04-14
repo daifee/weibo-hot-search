@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681476553612,
+  "endTime": 1681478426568,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -281,6 +281,14 @@
       "onboard_time": 1681297287,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 3089373,
+      "num": 3089373,
+      "word": "刘恋 薛凯琪",
+      "onboard_time": 1681477826,
+      "rank": 0,
+      "category": "音乐"
     },
     {
       "raw_hot": 3086020,
@@ -3388,7 +3396,7 @@
     },
     {
       "raw_hot": 965319,
-      "num": 444508,
+      "num": 469496,
       "word": "24岁的周雨彤",
       "onboard_time": 1681472367,
       "rank": 11,
@@ -4499,6 +4507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 808526,
+      "num": 808526,
+      "word": "刘昊然周冬雨 燃冬",
+      "onboard_time": 1681477108,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 808357,
       "num": 808357,
       "word": "娜扎异域神女造型",
@@ -4675,6 +4691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 780793,
+      "num": 780793,
+      "word": "女儿发现做月嫂的妈妈存款近500万",
+      "onboard_time": 1681461687,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779318,
       "num": 779318,
       "word": "坂本龙一曾举办最后的音乐会",
@@ -4809,14 +4833,6 @@
       "onboard_time": 1681261887,
       "rank": 42,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 761205,
-      "num": 761205,
-      "word": "女儿发现做月嫂的妈妈存款近500万",
-      "onboard_time": 1681461687,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 760394,
@@ -6232,6 +6248,14 @@
       "word": "在美流浪32年老人回国后续",
       "onboard_time": 1681088248,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635371,
+      "num": 635371,
+      "word": "女心理咨询师卧底约死群8年",
+      "onboard_time": 1681475188,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -7675,14 +7699,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 541302,
-      "num": 541302,
-      "word": "女心理咨询师卧底约死群8年",
-      "onboard_time": 1681475188,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540571,
       "num": 540571,
       "word": "又周一了",
@@ -7809,6 +7825,14 @@
       "onboard_time": 1681218746,
       "rank": 33,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 538505,
+      "num": 538505,
+      "word": "梁靖崑 林昀儒",
+      "onboard_time": 1681475968,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 537590,
@@ -8864,6 +8888,14 @@
       "word": "叶舒华愿意上小S节目的原因",
       "onboard_time": 1680584854,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 482843,
+      "num": 482843,
+      "word": "鹿晗小时候看还珠格格和天龙八部",
+      "onboard_time": 1681476509,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -11459,6 +11491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 385455,
+      "num": 385455,
+      "word": "吉安失踪4年童家姐弟疑似被找到",
+      "onboard_time": 1681475247,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385270,
       "num": 283250,
       "word": "研究发现早晨课越多成绩越差",
@@ -11617,6 +11657,14 @@
       "onboard_time": 1681224150,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 375534,
+      "num": 375534,
+      "word": "孙珍妮追星成功白鹿",
+      "onboard_time": 1681476747,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 375457,
@@ -12041,6 +12089,14 @@
       "onboard_time": 1681305450,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359172,
+      "num": 359172,
+      "word": "为什么广东胖子少",
+      "onboard_time": 1681475787,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359119,
@@ -15075,14 +15131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282467,
-      "num": 282467,
-      "word": "吉安失踪4年童家姐弟疑似被找到",
-      "onboard_time": 1681475247,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282367,
       "num": 282367,
       "word": "火焰戎装",
@@ -16275,14 +16323,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256437,
-      "num": 256437,
-      "word": "梁靖崑 林昀儒",
-      "onboard_time": 1681475968,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256410,
       "num": 256410,
       "word": "谷爱凌微博之夜六连拍",
@@ -16657,6 +16697,14 @@
       "onboard_time": 1680306319,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250236,
+      "num": 201567,
+      "word": "邓超 这只是喜剧效果",
+      "onboard_time": 1681477005,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 250199,
@@ -18995,6 +19043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217265,
+      "num": 192290,
+      "word": "陈鑫海可爱",
+      "onboard_time": 1681477049,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217215,
       "num": 171514,
       "word": "宋雨琦喊李晨晨叔叔",
@@ -19256,6 +19312,14 @@
       "word": "shanji三连MVP",
       "onboard_time": 1680443139,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 214093,
+      "num": 214093,
+      "word": "LPL",
+      "onboard_time": 1680442898,
+      "rank": 49,
       "category": "游戏"
     },
     {
@@ -23603,6 +23667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192308,
+      "num": 192308,
+      "word": "eStar对战WB",
+      "onboard_time": 1681477168,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192182,
       "num": 192182,
       "word": "刘耀文夜色侧颜随拍",
@@ -24083,14 +24155,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 189713,
-      "num": 210137,
-      "word": "为什么广东胖子少",
-      "onboard_time": 1681475787,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189709,
       "num": 189709,
       "word": "特朗普被正式拘捕",
@@ -24265,6 +24329,14 @@
       "onboard_time": 1680946105,
       "rank": 36,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 188828,
+      "num": 192215,
+      "word": "范丞丞把郭麒麟五官认成宋雨琦",
+      "onboard_time": 1681477889,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 188816,
@@ -29467,6 +29539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143141,
+      "num": 192070,
+      "word": "剖腹产不是划一刀就行的事",
+      "onboard_time": 1681475847,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143117,
       "num": 143117,
       "word": "IVE回归先行曲达成CAK",
@@ -30113,6 +30193,14 @@
       "onboard_time": 1680736701,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136287,
+      "num": 191917,
+      "word": "泫雅泰国泼水节 舞台上的野马",
+      "onboard_time": 1681478366,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 136267,
@@ -31771,14 +31859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117709,
-      "num": 117709,
-      "word": "LPL",
-      "onboard_time": 1680442898,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 117461,
       "num": 117461,
       "word": "看过赵小童宋木子表演的人都沉默了",
@@ -33105,14 +33185,6 @@
       "onboard_time": 1681429284,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92263,
-      "num": 209825,
-      "word": "鹿晗小时候看还珠格格和天龙八部",
-      "onboard_time": 1681476509,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 92227,
