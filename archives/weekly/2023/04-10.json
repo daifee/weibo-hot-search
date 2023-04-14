@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681449373760,
+  "endTime": 1681450404370,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -2043,6 +2043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 637850,
+      "num": 637850,
+      "word": "为什么杭州的姐弟恋越来越多",
+      "onboard_time": 1681439306,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 637585,
       "num": 637585,
       "word": "我国制裁一名美国反华议员",
@@ -2185,14 +2193,6 @@
       "onboard_time": 1681124068,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 614125,
-      "num": 614125,
-      "word": "为什么杭州的姐弟恋越来越多",
-      "onboard_time": 1681439306,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 613644,
@@ -2579,6 +2579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 560760,
+      "num": 273781,
+      "word": "魏大勋一句话骗到两个人",
+      "onboard_time": 1681448371,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 560532,
       "num": 560532,
       "word": "冯绍峰王丽坤新电影演夫妻",
@@ -2835,6 +2843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 523766,
+      "num": 523766,
+      "word": "安徽爷孙失联前曾被村民遇到",
+      "onboard_time": 1681447173,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521988,
       "num": 521988,
       "word": "刘雅瑟随地丢烟头",
@@ -2929,6 +2945,14 @@
       "onboard_time": 1681272208,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 501994,
+      "num": 501994,
+      "word": "张艺兴单依纯马伯骞Allin上线",
+      "onboard_time": 1681448371,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 501371,
@@ -3065,6 +3089,14 @@
       "onboard_time": 1681054531,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 488152,
+      "num": 488152,
+      "word": "假如小兰不和新一在一起",
+      "onboard_time": 1681446330,
+      "rank": 31,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 487053,
@@ -3227,14 +3259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460182,
-      "num": 460182,
-      "word": "安徽爷孙失联前曾被村民遇到",
-      "onboard_time": 1681447173,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 459760,
       "num": 459760,
       "word": "关晓彤吊带皮裙",
@@ -3345,14 +3369,6 @@
       "onboard_time": 1681351825,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 451758,
-      "num": 451758,
-      "word": "假如小兰不和新一在一起",
-      "onboard_time": 1681446330,
-      "rank": 31,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 450188,
@@ -4145,14 +4161,6 @@
       "onboard_time": 1681343672,
       "rank": 20,
       "category": "情感,美妆"
-    },
-    {
-      "raw_hot": 390791,
-      "num": 259212,
-      "word": "魏大勋一句话骗到两个人",
-      "onboard_time": 1681448371,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 390743,
@@ -5595,6 +5603,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275328,
+      "num": 275328,
+      "word": "女子遭遇诈骗24名同事刷屏提醒",
+      "onboard_time": 1681448971,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274749,
+      "num": 274749,
+      "word": "招惹",
+      "onboard_time": 1681275268,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 274671,
       "num": 274671,
       "word": "BLG对战EDG",
@@ -5713,6 +5737,14 @@
       "onboard_time": 1681243631,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 266512,
+      "num": 266512,
+      "word": "苹果5G芯片最快2025年将量产",
+      "onboard_time": 1681447713,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 266012,
@@ -5923,14 +5955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254294,
-      "num": 254294,
-      "word": "张艺兴单依纯马伯骞Allin上线",
-      "onboard_time": 1681448371,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 253868,
       "num": 253868,
       "word": "浙大学生称着火点在农学院动物房",
@@ -6136,14 +6160,6 @@
       "word": "吴磊孙怡倪虹洁对手戏",
       "onboard_time": 1681361552,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 241421,
-      "num": 241421,
-      "word": "招惹",
-      "onboard_time": 1681275268,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -6705,14 +6721,6 @@
       "onboard_time": 1681183587,
       "rank": 42,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 221647,
-      "num": 221647,
-      "word": "苹果5G芯片最快2025年将量产",
-      "onboard_time": 1681447713,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 221373,
@@ -8769,6 +8777,14 @@
       "onboard_time": 1681446451,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188466,
+      "num": 188466,
+      "word": "马力欧之父给小桀送礼物",
+      "onboard_time": 1681449388,
+      "rank": 27,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 188377,
@@ -10955,6 +10971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136093,
+      "num": 136093,
+      "word": "男子拒付停车费顶着收费员开7公里",
+      "onboard_time": 1681449388,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "白鹿叶夕雾害怕血鸦",
@@ -11123,14 +11147,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 129765,
-      "num": 129765,
-      "word": "女子遭遇诈骗24名同事刷屏提醒",
-      "onboard_time": 1681448971,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129738,
       "num": 129738,
       "word": "曼城vs拜仁",
@@ -11283,6 +11299,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 125159,
+      "num": 125159,
+      "word": "柯南贝克街的亡灵票房破4000万",
+      "onboard_time": 1681449809,
+      "rank": 42,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 125121,
       "num": 125121,
       "word": "罗云熙符龙飞的双人舞",
@@ -11353,6 +11377,14 @@
       "onboard_time": 1681198285,
       "rank": 46,
       "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 122440,
+      "num": 122440,
+      "word": "人民网评尘封十三载",
+      "onboard_time": 1681450286,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 122379,

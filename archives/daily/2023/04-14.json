@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681449373760,
+  "endTime": 1681450404370,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -139,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 637850,
+      "num": 637850,
+      "word": "为什么杭州的姐弟恋越来越多",
+      "onboard_time": 1681439306,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 625039,
       "num": 353204,
       "word": "这些常喝的饮料竟然都是糖分刺客",
@@ -153,14 +161,6 @@
       "onboard_time": 1681386026,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 614125,
-      "num": 614125,
-      "word": "为什么杭州的姐弟恋越来越多",
-      "onboard_time": 1681439306,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 591443,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 560760,
+      "num": 273781,
+      "word": "魏大勋一句话骗到两个人",
+      "onboard_time": 1681448371,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 542718,
       "num": 542718,
       "word": "新兰",
@@ -219,12 +227,36 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 523766,
+      "num": 523766,
+      "word": "安徽爷孙失联前曾被村民遇到",
+      "onboard_time": 1681447173,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521988,
       "num": 521988,
       "word": "刘雅瑟随地丢烟头",
       "onboard_time": 1681447590,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 501994,
+      "num": 501994,
+      "word": "张艺兴单依纯马伯骞Allin上线",
+      "onboard_time": 1681448371,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 488152,
+      "num": 488152,
+      "word": "假如小兰不和新一在一起",
+      "onboard_time": 1681446330,
+      "rank": 31,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 487053,
@@ -251,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 460182,
-      "num": 460182,
-      "word": "安徽爷孙失联前曾被村民遇到",
-      "onboard_time": 1681447173,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 458512,
       "num": 458512,
       "word": "殷桃的腰",
@@ -273,14 +297,6 @@
       "onboard_time": 1681429407,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 451758,
-      "num": 451758,
-      "word": "假如小兰不和新一在一起",
-      "onboard_time": 1681446330,
-      "rank": 31,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 447562,
@@ -361,14 +377,6 @@
       "onboard_time": 1681398333,
       "rank": 7,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 390791,
-      "num": 259212,
-      "word": "魏大勋一句话骗到两个人",
-      "onboard_time": 1681448371,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 368712,
@@ -475,6 +483,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275328,
+      "num": 275328,
+      "word": "女子遭遇诈骗24名同事刷屏提醒",
+      "onboard_time": 1681448971,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274749,
+      "num": 274749,
+      "word": "招惹",
+      "onboard_time": 1681448550,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 273785,
       "num": 273785,
       "word": "李湘回应王诗龄汉服造型",
@@ -491,20 +515,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 266512,
+      "num": 266512,
+      "word": "苹果5G芯片最快2025年将量产",
+      "onboard_time": 1681447713,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 260524,
       "num": 260524,
       "word": "为你逆光而来定档",
       "onboard_time": 1681444950,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 254294,
-      "num": 254294,
-      "word": "张艺兴单依纯马伯骞Allin上线",
-      "onboard_time": 1681448371,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 252397,
@@ -577,22 +601,6 @@
       "onboard_time": 1681444588,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226070,
-      "num": 226070,
-      "word": "招惹",
-      "onboard_time": 1681448550,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 221647,
-      "num": 221647,
-      "word": "苹果5G芯片最快2025年将量产",
-      "onboard_time": 1681447713,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 219708,
@@ -801,6 +809,14 @@
       "onboard_time": 1681446451,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188466,
+      "num": 188466,
+      "word": "马力欧之父给小桀送礼物",
+      "onboard_time": 1681449388,
+      "rank": 27,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 188369,
@@ -1075,6 +1091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 136093,
+      "num": 136093,
+      "word": "男子拒付停车费顶着收费员开7公里",
+      "onboard_time": 1681449388,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134535,
       "num": 134535,
       "word": "TF家族新歌一起长大吧笨蛋",
@@ -1091,20 +1115,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129765,
-      "num": 129765,
-      "word": "女子遭遇诈骗24名同事刷屏提醒",
-      "onboard_time": 1681448971,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129034,
       "num": 129034,
       "word": "非故意恋爱故事",
       "onboard_time": 1681443028,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125159,
+      "num": 125159,
+      "word": "柯南贝克街的亡灵票房破4000万",
+      "onboard_time": 1681449809,
+      "rank": 42,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 125121,
@@ -1129,6 +1153,14 @@
       "onboard_time": 1681433308,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122440,
+      "num": 122440,
+      "word": "人民网评尘封十三载",
+      "onboard_time": 1681450286,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 120998,
