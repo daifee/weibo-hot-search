@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681464803376,
+  "endTime": 1681467486651,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -27,12 +27,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1965377,
+      "num": 478631,
+      "word": "传说中杨紫的朋友圈",
+      "onboard_time": 1681465111,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1940353,
       "num": 1940353,
       "word": "小哀把吻还给了小兰",
       "onboard_time": 1681433968,
       "rank": 3,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 1798621,
+      "num": 1798621,
+      "word": "好友赚了2000万我却失眠了",
+      "onboard_time": 1681462769,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 1766188,
@@ -43,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1592909,
+      "num": 1592909,
+      "word": "曲婉婷名下两套房产被法拍",
+      "onboard_time": 1681462050,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1562444,
       "num": 1562444,
       "word": "林生斌",
       "onboard_time": 1681441467,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1492091,
-      "num": 1492091,
-      "word": "曲婉婷名下两套房产被法拍",
-      "onboard_time": 1681462050,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1468739,
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 884474,
+      "num": 884474,
+      "word": "女孩离家出走被男子收留后被性侵",
+      "onboard_time": 1681463911,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 863869,
       "num": 863869,
       "word": "iPhone15Pro音量双按键",
@@ -163,12 +187,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 824192,
+      "num": 824192,
+      "word": "敖瑞鹏 我只站柯哀",
+      "onboard_time": 1681466547,
+      "rank": 7,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 814621,
       "num": 814621,
       "word": "全红婵陈芋汐跳水世界杯金牌",
       "onboard_time": 1681444110,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 791759,
+      "num": 791759,
+      "word": "音悦台向EXO和粉丝道歉",
+      "onboard_time": 1681464149,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 767837,
@@ -196,7 +236,7 @@
     },
     {
       "raw_hot": 730816,
-      "num": 270477,
+      "num": 310203,
       "word": "女儿发现做月嫂的妈妈存款近500万",
       "onboard_time": 1681461687,
       "rank": 20,
@@ -273,14 +313,6 @@
       "onboard_time": 1681461387,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 615429,
-      "num": 615429,
-      "word": "好友赚了2000万我却失眠了",
-      "onboard_time": 1681462769,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 614883,
@@ -627,28 +659,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 368754,
-      "num": 368754,
-      "word": "女孩离家出走被男子收留后被性侵",
-      "onboard_time": 1681463911,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 368712,
       "num": 303242,
       "word": "初稿交了导师让我换个选题",
       "onboard_time": 1681442850,
       "rank": 42,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 367290,
-      "num": 367290,
-      "word": "音悦台向EXO和粉丝道歉",
-      "onboard_time": 1681464149,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 366918,
@@ -755,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 305450,
+      "num": 305450,
+      "word": "嗑CP被骂",
+      "onboard_time": 1681467089,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301795,
       "num": 209933,
       "word": "二十五六岁谈段恋爱有多难",
@@ -779,6 +803,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299438,
+      "num": 299438,
+      "word": "再晚1分钟孩子就到学校了",
+      "onboard_time": 1681464688,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 295495,
+      "num": 295495,
+      "word": "校方回应男生疑偷拍多位女生裸照",
+      "onboard_time": 1681465527,
+      "rank": 23,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 288149,
       "num": 288149,
       "word": "符龙飞回应被扒",
@@ -793,6 +833,14 @@
       "onboard_time": 1681445010,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279527,
+      "num": 279527,
+      "word": "五一高铁票",
+      "onboard_time": 1681465888,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274749,
@@ -848,6 +896,14 @@
       "word": "烟台山火",
       "onboard_time": 1681392811,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248911,
+      "num": 248911,
+      "word": "航天专家出国访学被策反",
+      "onboard_time": 1681464806,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -913,6 +969,14 @@
       "onboard_time": 1681460067,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232338,
+      "num": 232338,
+      "word": "100岁奶奶质问98岁爷爷爱不爱她",
+      "onboard_time": 1681464090,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230583,
@@ -1107,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203520,
+      "num": 203520,
+      "word": "IVE新曲音银舞台",
+      "onboard_time": 1681467386,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203310,
       "num": 203310,
       "word": "兄弟堂",
@@ -1137,14 +1209,6 @@
       "onboard_time": 1681460248,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200992,
-      "num": 200992,
-      "word": "100岁奶奶质问98岁爷爷爱不爱她",
-      "onboard_time": 1681464090,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200934,
@@ -1203,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197495,
+      "num": 197495,
+      "word": "音悦台称会偿还欠坤音的钱",
+      "onboard_time": 1681464748,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197382,
       "num": 197382,
       "word": "你平时睡眠时间有多长",
@@ -1217,6 +1289,14 @@
       "onboard_time": 1681459947,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196842,
+      "num": 196842,
+      "word": "澹台烬求与叶夕雾一生一世",
+      "onboard_time": 1681463249,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 196736,
@@ -1249,6 +1329,14 @@
       "onboard_time": 1681463729,
       "rank": 40,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 192617,
+      "num": 192617,
+      "word": "奔跑吧",
+      "onboard_time": 1681466248,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 191088,
@@ -1339,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182947,
+      "num": 182947,
+      "word": "周深见到范丞丞的第一反应是关门",
+      "onboard_time": 1681465407,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182404,
       "num": 182404,
       "word": "淄博烧烤",
@@ -1371,14 +1467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172940,
-      "num": 172940,
-      "word": "澹台烬求与叶夕雾一生一世",
-      "onboard_time": 1681463249,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 171559,
       "num": 171559,
       "word": "虞书欣首张个人EP收官vlog",
@@ -1393,6 +1481,14 @@
       "onboard_time": 1681451487,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170348,
+      "num": 170348,
+      "word": "LGD大鹅",
+      "onboard_time": 1681466908,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 170143,
@@ -1425,6 +1521,14 @@
       "onboard_time": 1681445372,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 167208,
+      "num": 167208,
+      "word": "朱一龙银色西装造型",
+      "onboard_time": 1681466128,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166853,
@@ -1499,6 +1603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157395,
+      "num": 157395,
+      "word": "马嘉祺17年机场",
+      "onboard_time": 1681465047,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156523,
       "num": 156523,
       "word": "桑酒炼成倾世之玉",
@@ -1521,6 +1633,14 @@
       "onboard_time": 1681409715,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152747,
+      "num": 152747,
+      "word": "娱乐圈的普男有哪些",
+      "onboard_time": 1681467147,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 152622,
@@ -1577,14 +1697,6 @@
       "onboard_time": 1681436185,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144801,
-      "num": 144801,
-      "word": "音悦台称会偿还欠坤音的钱",
-      "onboard_time": 1681464748,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 143855,
@@ -1753,6 +1865,14 @@
       "onboard_time": 1681429887,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124906,
+      "num": 835579,
+      "word": "28岁妈妈离世捐器官帮更多家庭团圆",
+      "onboard_time": 1681466485,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124592,
@@ -2027,6 +2147,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 93065,
+      "num": 931742,
+      "word": "女儿用手语帮聋哑父亲同声传译",
+      "onboard_time": 1681466428,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 92281,
       "num": 92281,
       "word": "利马伤退",
@@ -2200,6 +2328,14 @@
       "word": "钢铁丝路好风光",
       "onboard_time": 1681391671,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20764,
+      "num": 168309,
+      "word": "上海车展值得期待的SUV",
+      "onboard_time": 1681466428,
+      "rank": 39,
       "category": "社会新闻"
     }
   ],
