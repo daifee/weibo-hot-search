@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681511598391,
+  "endTime": 1681514216086,
   "band_list": [
     {
       "raw_hot": 1959237,
@@ -19,12 +19,20 @@
       "category": "幽默,科技"
     },
     {
-      "raw_hot": 1173555,
-      "num": 1173555,
+      "raw_hot": 1202818,
+      "num": 1202818,
       "word": "姚明",
       "onboard_time": 1681487786,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 997516,
+      "num": 997516,
+      "word": "生源都不足了还要高价抢学区房吗",
+      "onboard_time": 1681503313,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 977198,
@@ -147,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273841,
-      "num": 273841,
-      "word": "生源都不足了还要高价抢学区房吗",
-      "onboard_time": 1681503313,
-      "rank": 49,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 258966,
       "num": 258966,
       "word": "姐弟恋是怎么突然盛行起来的",
@@ -171,12 +171,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249062,
+      "num": 249062,
+      "word": "篮协要求调查上海江苏季后赛",
+      "onboard_time": 1681513819,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245218,
       "num": 245218,
       "word": "擅长溺爱的粉丝",
       "onboard_time": 1681486407,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239610,
+      "num": 198539,
+      "word": "腾讯视频不是吧我变成超人了",
+      "onboard_time": 1681513878,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238146,
+      "num": 238146,
+      "word": "女子被质疑有房炫富还能申请到公租房",
+      "onboard_time": 1681504752,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 222426,
@@ -235,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192872,
-      "num": 192872,
-      "word": "女子被质疑有房炫富还能申请到公租房",
-      "onboard_time": 1681504752,
-      "rank": 13,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 188824,
       "num": 188824,
       "word": "老道",
@@ -265,6 +281,14 @@
       "onboard_time": 1681479928,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177251,
+      "num": 177251,
+      "word": "宁波高速奥迪掉落砸中百万宝马",
+      "onboard_time": 1681493539,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169536,
@@ -299,20 +323,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155206,
+      "num": 155206,
+      "word": "雨后春笋2天长30厘米顶翻木桌",
+      "onboard_time": 1681502113,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140727,
       "num": 140727,
       "word": "孙珍妮追星成功白鹿",
       "onboard_time": 1681476747,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 130402,
-      "num": 96524,
-      "word": "宁波高速奥迪掉落砸中百万宝马",
-      "onboard_time": 1681493539,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121969,
@@ -395,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93072,
+      "num": 93072,
+      "word": "大张伟的回答合理且离谱",
+      "onboard_time": 1681492640,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89153,
       "num": 109732,
       "word": "WB战胜eStar",
@@ -435,20 +467,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74781,
-      "num": 74781,
-      "word": "大张伟的回答合理且离谱",
-      "onboard_time": 1681492640,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 65923,
-      "num": 65923,
-      "word": "雨后春笋2天长30厘米顶翻木桌",
-      "onboard_time": 1681502113,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 64614,
+      "num": 64614,
+      "word": "更适合中国宝宝的医美",
+      "onboard_time": 1681513939,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 60326,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52959,
+      "num": 51948,
+      "word": "冥夜是蛟龙不是恐龙",
+      "onboard_time": 1681504332,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 46659,
       "num": 62707,
       "word": "LPL",
@@ -475,20 +507,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33889,
-      "num": 33889,
+      "raw_hot": 43600,
+      "num": 46125,
       "word": "你好星期六新预告好费脸",
       "onboard_time": 1681509913,
       "rank": 44,
       "category": "综艺"
     },
     {
-      "raw_hot": 32601,
-      "num": 32601,
-      "word": "冥夜是蛟龙不是恐龙",
-      "onboard_time": 1681504332,
+      "raw_hot": 27761,
+      "num": 45563,
+      "word": "泰国泼水节",
+      "onboard_time": 1681478909,
       "rank": 49,
-      "category": "影视"
+      "category": "旅游"
     }
   ],
   "hotgov_list": [

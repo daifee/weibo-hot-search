@@ -1,0 +1,410 @@
+{
+  "runTime": 1681514216086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1202818,
+        "num": 1202818,
+        "word": "姚明",
+        "onboard_time": 1681487786,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 997516,
+        "num": 997516,
+        "word": "生源都不足了还要高价抢学区房吗",
+        "onboard_time": 1681503313,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 42756,
+        "num": 539597,
+        "word": "中国昆明与老挝万象的双向奔赴",
+        "onboard_time": 1681471346,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439749,
+        "num": 439749,
+        "word": "建议微信出个头像屏蔽功能",
+        "onboard_time": 1681481010,
+        "rank": 3,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 372227,
+        "num": 372227,
+        "word": "淄博文旅局长",
+        "onboard_time": 1681485328,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 348733,
+        "num": 348733,
+        "word": "泫雅泰国泼水节 舞台上的野马",
+        "onboard_time": 1681478366,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344136,
+        "num": 344136,
+        "word": "医院回应护士上班戴美甲给患者扎针",
+        "onboard_time": 1681479089,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313749,
+        "num": 313749,
+        "word": "假球",
+        "onboard_time": 1681479568,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249062,
+        "num": 249062,
+        "word": "篮协要求调查上海江苏季后赛",
+        "onboard_time": 1681513819,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238146,
+        "num": 238146,
+        "word": "女子被质疑有房炫富还能申请到公租房",
+        "onboard_time": 1681504752,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 588292,
+        "num": 229540,
+        "word": "许超医生 麻烦网红不要去碰瓷医院",
+        "onboard_time": 1681479869,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 359634,
+        "num": 219635,
+        "word": "刘恋 薛凯琪",
+        "onboard_time": 1681477826,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253684,
+        "num": 206992,
+        "word": "传说中杨紫的朋友圈",
+        "onboard_time": 1681465111,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239610,
+        "num": 198539,
+        "word": "腾讯视频不是吧我变成超人了",
+        "onboard_time": 1681513878,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195083,
+        "num": 195083,
+        "word": "女孩离家出走被男子收留后被性侵",
+        "onboard_time": 1681463911,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177251,
+        "num": 177251,
+        "word": "宁波高速奥迪掉落砸中百万宝马",
+        "onboard_time": 1681493539,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170918,
+        "num": 170918,
+        "word": "姐弟恋是怎么突然盛行起来的",
+        "onboard_time": 1681491322,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155206,
+        "num": 155206,
+        "word": "雨后春笋2天长30厘米顶翻木桌",
+        "onboard_time": 1681502113,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152572,
+        "num": 152572,
+        "word": "五哈 小婉",
+        "onboard_time": 1681481851,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141763,
+        "num": 141763,
+        "word": "女子举报继父上班时间家中约会女性",
+        "onboard_time": 1681471464,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139276,
+        "num": 139276,
+        "word": "忽然发现家里有点钱",
+        "onboard_time": 1681478966,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129611,
+        "num": 129611,
+        "word": "女儿发现做月嫂的妈妈存款近500万",
+        "onboard_time": 1681461687,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113788,
+        "num": 113788,
+        "word": "就差手把手教女生们怎么选男人",
+        "onboard_time": 1681479509,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 108572,
+        "num": 108572,
+        "word": "为什么广东胖子少",
+        "onboard_time": 1681475787,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103074,
+        "num": 103074,
+        "word": "刘昊然周冬雨 燃冬",
+        "onboard_time": 1681477108,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99990,
+        "num": 99990,
+        "word": "陈都灵演技",
+        "onboard_time": 1681483771,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 95401,
+        "num": 95401,
+        "word": "清华张小年",
+        "onboard_time": 1681486649,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93072,
+        "num": 93072,
+        "word": "大张伟的回答合理且离谱",
+        "onboard_time": 1681492640,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84827,
+        "num": 84827,
+        "word": "安徽亳州失联爷孙遗体已找到",
+        "onboard_time": 1681470686,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72102,
+        "num": 72102,
+        "word": "江苏男篮最后时刻连续失误",
+        "onboard_time": 1681480228,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69819,
+        "num": 69819,
+        "word": "柯南 处处吻",
+        "onboard_time": 1681472425,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 66591,
+        "num": 66591,
+        "word": "孙颖莎4比0陈梦",
+        "onboard_time": 1681484430,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64633,
+        "num": 64633,
+        "word": "中国成功实施陆基中段反导拦截技术试验",
+        "onboard_time": 1681482151,
+        "rank": 32,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 64614,
+        "num": 64614,
+        "word": "更适合中国宝宝的医美",
+        "onboard_time": 1681513939,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63775,
+        "num": 63775,
+        "word": "李楠",
+        "onboard_time": 1681479928,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62303,
+        "num": 62303,
+        "word": "好友赚了2000万我却失眠了",
+        "onboard_time": 1681462769,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60704,
+        "num": 60704,
+        "word": "喜欢一个人你会主动追吗",
+        "onboard_time": 1681491262,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60182,
+        "num": 60182,
+        "word": "曲婉婷名下两套房产被法拍",
+        "onboard_time": 1681462050,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59434,
+        "num": 59434,
+        "word": "南京红山动物园否认网红猴被霸凌",
+        "onboard_time": 1681480469,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55988,
+        "num": 55988,
+        "word": "24岁的周雨彤",
+        "onboard_time": 1681472367,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54365,
+        "num": 54365,
+        "word": "马布里 Lol",
+        "onboard_time": 1681485570,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54293,
+        "num": 54293,
+        "word": "孙珍妮追星成功白鹿",
+        "onboard_time": 1681476747,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52054,
+        "num": 52054,
+        "word": "樊振东比赛",
+        "onboard_time": 1681481188,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52959,
+        "num": 51948,
+        "word": "冥夜是蛟龙不是恐龙",
+        "onboard_time": 1681504332,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51639,
+        "num": 51639,
+        "word": "江苏肯帝亚",
+        "onboard_time": 1681482091,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46320,
+        "num": 46320,
+        "word": "薛之谦粤语口音走丢两年还没回来",
+        "onboard_time": 1681484190,
+        "rank": 45,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 46293,
+        "num": 46293,
+        "word": "CBA",
+        "onboard_time": 1681479209,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43600,
+        "num": 46125,
+        "word": "你好星期六新预告好费脸",
+        "onboard_time": 1681509913,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28574,
+        "num": 45960,
+        "word": "WB战胜eStar",
+        "onboard_time": 1681484730,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27761,
+        "num": 45563,
+        "word": "泰国泼水节",
+        "onboard_time": 1681478909,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化有目标有规划有战略#"
+    }
+  }
+}
