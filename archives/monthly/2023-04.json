@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681443240900,
+  "endTime": 1681446034445,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2619,6 +2619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1133022,
+      "num": 1133022,
+      "word": "乌克兰对小米进行制裁",
+      "onboard_time": 1681443690,
+      "rank": 3,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1131246,
       "num": 1131246,
       "word": "重庆姐弟坠亡案二审择期宣判",
@@ -3971,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 853671,
+      "num": 853671,
+      "word": "iPhone15Pro音量双按键",
+      "onboard_time": 1681442310,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 853174,
       "num": 853174,
       "word": "瑞丽通知泼水节可连休4天",
@@ -4289,6 +4305,14 @@
       "onboard_time": 1680872551,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814621,
+      "num": 814621,
+      "word": "全红婵陈芋汐跳水世界杯金牌",
+      "onboard_time": 1681444110,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 814505,
@@ -7619,6 +7643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 531109,
+      "num": 531109,
+      "word": "你为何不爱发朋友圈了",
+      "onboard_time": 1681442973,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530940,
       "num": 530940,
       "word": "张杰华晨宇互唱对方代表作",
@@ -8009,14 +8041,6 @@
       "onboard_time": 1680880590,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 508799,
-      "num": 508799,
-      "word": "iPhone15Pro音量双按键",
-      "onboard_time": 1681442310,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 508652,
@@ -8515,6 +8539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 482048,
+      "num": 538046,
+      "word": "胃是怎样一步步癌变的",
+      "onboard_time": 1681440748,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481977,
       "num": 481977,
       "word": "代号鸢 养卡",
@@ -8784,6 +8816,14 @@
       "word": "哈利波特或将拍摄剧版",
       "onboard_time": 1680576448,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 469244,
+      "num": 469244,
+      "word": "陈都灵好看",
+      "onboard_time": 1681443512,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -9659,14 +9699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428359,
-      "num": 538046,
-      "word": "胃是怎样一步步癌变的",
-      "onboard_time": 1681440748,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427705,
       "num": 272936,
       "word": "罗云熙陈都灵错位图",
@@ -10288,6 +10320,14 @@
       "word": "爱奇艺4月片单",
       "onboard_time": 1680584854,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 407792,
+      "num": 407792,
+      "word": "Jennie收到戛纳电影节邀请",
+      "onboard_time": 1681442850,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -12347,6 +12387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338521,
+      "num": 294782,
+      "word": "初稿交了导师让我换个选题",
+      "onboard_time": 1681442850,
+      "rank": 42,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 338455,
       "num": 186572,
       "word": "女歌手遭男子泼酒后霸气回泼",
@@ -12657,6 +12705,14 @@
       "onboard_time": 1681269807,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 329064,
+      "num": 329064,
+      "word": "张远陆虎王栎鑫为长沙唱歌",
+      "onboard_time": 1681442427,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 328950,
@@ -15899,6 +15955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252397,
+      "num": 252397,
+      "word": "EXO已有14支MV播放量破亿",
+      "onboard_time": 1681444227,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252245,
       "num": 252245,
       "word": "王者荣耀S31赛季延迟更新",
@@ -16281,14 +16345,6 @@
       "onboard_time": 1681284325,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244671,
-      "num": 244671,
-      "word": "Jennie收到戛纳电影节邀请",
-      "onboard_time": 1681442850,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 244485,
@@ -17459,6 +17515,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 227916,
+      "num": 227916,
+      "word": "王一博看到战斗机的反应",
+      "onboard_time": 1681445010,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227868,
       "num": 196270,
       "word": "一生都在要链接的女人",
@@ -17816,6 +17880,14 @@
       "word": "李雪琴开场秀",
       "onboard_time": 1680961229,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221560,
+      "num": 221560,
+      "word": "于正说招惹太上头",
+      "onboard_time": 1681444588,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -18393,6 +18465,14 @@
       "onboard_time": 1681212805,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 215618,
+      "num": 215618,
+      "word": "男子要钱未果烧掉对方前妻房子",
+      "onboard_time": 1681442427,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215598,
@@ -19619,11 +19699,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205812,
+      "num": 205812,
+      "word": "张小年",
+      "onboard_time": 1681441467,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205729,
       "num": 205729,
       "word": "澹台烬反杀成王",
       "onboard_time": 1680951865,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205721,
+      "num": 205721,
+      "word": "琴酒赶紧出来干活了",
+      "onboard_time": 1681445309,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -20345,6 +20441,14 @@
       "onboard_time": 1680581734,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 202681,
+      "num": 202681,
+      "word": "孟佳首场个人演唱会官宣",
+      "onboard_time": 1681445309,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 202663,
@@ -21211,6 +21315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199259,
+      "num": 199259,
+      "word": "为你逆光而来定档",
+      "onboard_time": 1681444950,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199248,
       "num": 199248,
       "word": "孙龙双冠",
@@ -21555,6 +21667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197907,
+      "num": 200457,
+      "word": "众星为长沙夜生活打call",
+      "onboard_time": 1681445612,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197887,
       "num": 197887,
       "word": "罗云熙冥夜出场好帅",
@@ -21659,6 +21779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197382,
+      "num": 197382,
+      "word": "你平时睡眠时间有多长",
+      "onboard_time": 1681444891,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197321,
       "num": 222520,
       "word": "2023LPL春季赛季后赛",
@@ -21681,14 +21809,6 @@
       "onboard_time": 1680344372,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197288,
-      "num": 197288,
-      "word": "张远陆虎王栎鑫为长沙唱歌",
-      "onboard_time": 1681442427,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 197237,
@@ -22283,14 +22403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194332,
-      "num": 194332,
-      "word": "张小年",
-      "onboard_time": 1681441467,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194152,
       "num": 194152,
       "word": "马嘉祺在水一方高音",
@@ -22305,6 +22417,14 @@
       "onboard_time": 1680352649,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194094,
+      "num": 194094,
+      "word": "奔跑吧宫廷风剧照",
+      "onboard_time": 1681443267,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 194051,
@@ -24011,6 +24131,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 184898,
+      "num": 197885,
+      "word": "黄景瑜白百何新片制服造型",
+      "onboard_time": 1681445372,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 184850,
       "num": 184850,
       "word": "电竞人是会整活的",
@@ -24657,14 +24785,6 @@
       "onboard_time": 1680840391,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179659,
-      "num": 179659,
-      "word": "你为何不爱发朋友圈了",
-      "onboard_time": 1681442973,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179530,
@@ -25673,6 +25793,14 @@
       "onboard_time": 1681272148,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168935,
+      "num": 168935,
+      "word": "灵动岛或引入Siri交互界面",
+      "onboard_time": 1681445372,
+      "rank": 43,
+      "category": "科技"
     },
     {
       "raw_hot": 168846,
@@ -26755,6 +26883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158434,
+      "num": 158434,
+      "word": "谢谢内蒙森林消防",
+      "onboard_time": 1681445551,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158355,
       "num": 158355,
       "word": "2023华晨宇火星演唱会",
@@ -27779,14 +27915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148682,
-      "num": 148682,
-      "word": "男子要钱未果烧掉对方前妻房子",
-      "onboard_time": 1681442427,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148646,
       "num": 148646,
       "word": "一诺观赛",
@@ -28401,6 +28529,14 @@
       "onboard_time": 1680430348,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142155,
+      "num": 142155,
+      "word": "女足国门赵丽娜宣布退役",
+      "onboard_time": 1681445971,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 142089,
@@ -29041,14 +29177,6 @@
       "onboard_time": 1680656126,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135351,
-      "num": 135351,
-      "word": "初稿交了导师让我换个选题",
-      "onboard_time": 1681442850,
-      "rank": 42,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 135295,
