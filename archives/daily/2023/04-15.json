@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681496458225,
+  "endTime": 1681497255442,
   "band_list": [
     {
       "raw_hot": 1959237,
@@ -291,20 +291,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130402,
+      "num": 96524,
+      "word": "宁波高速奥迪掉落砸中百万宝马",
+      "onboard_time": 1681493539,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121969,
       "num": 121969,
       "word": "江苏男篮最后时刻连续失误",
       "onboard_time": 1681480228,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120777,
-      "num": 96524,
-      "word": "宁波高速奥迪掉落砸中百万宝马",
-      "onboard_time": 1681493539,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119754,
