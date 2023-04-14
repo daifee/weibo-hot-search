@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681490314734,
+  "endTime": 1681492437960,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2619,6 +2619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1173555,
+      "num": 1173555,
+      "word": "姚明",
+      "onboard_time": 1681487786,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1170254,
       "num": 1170254,
       "word": "体重48公斤被学校谈话",
@@ -2801,14 +2809,6 @@
       "onboard_time": 1681272989,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1122473,
-      "num": 1122473,
-      "word": "姚明",
-      "onboard_time": 1681487786,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 1121064,
@@ -34251,6 +34251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55777,
+      "num": 62765,
+      "word": "喜欢一个人你会主动追吗",
+      "onboard_time": 1681491262,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54935,
       "num": 74843,
       "word": "淄博烧烤何以突出重围",
@@ -34305,6 +34313,14 @@
       "onboard_time": 1681396655,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 54146,
+      "num": 62744,
+      "word": "姐弟恋是怎么突然盛行起来的",
+      "onboard_time": 1681491322,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 53786,
