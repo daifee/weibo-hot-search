@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681456538528,
+  "endTime": 1681457612023,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -9,6 +9,14 @@
       "onboard_time": 1681430489,
       "rank": 0,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 2383349,
+      "num": 2383349,
+      "word": "12306",
+      "onboard_time": 1681453767,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2290734,
@@ -25,14 +33,6 @@
       "onboard_time": 1681433968,
       "rank": 3,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 1835879,
-      "num": 1835879,
-      "word": "12306",
-      "onboard_time": 1681453767,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1562444,
@@ -59,12 +59,20 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 1232167,
-      "num": 1232167,
+      "raw_hot": 1385345,
+      "num": 1385345,
       "word": "娜扎好像敦煌神女下凡了",
       "onboard_time": 1681454487,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1273735,
+      "num": 1273735,
+      "word": "为什么说女明星是普女",
+      "onboard_time": 1681454606,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1190552,
@@ -91,14 +99,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1050064,
-      "num": 1050064,
-      "word": "为什么说女明星是普女",
-      "onboard_time": 1681454606,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 886408,
       "num": 886408,
       "word": "罗云熙舌苔一看就没有湿气",
@@ -115,20 +115,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 861605,
+      "num": 861605,
+      "word": "淮阴工学院",
+      "onboard_time": 1681454066,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 814621,
       "num": 814621,
       "word": "全红婵陈芋汐跳水世界杯金牌",
       "onboard_time": 1681444110,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 773885,
-      "num": 773885,
-      "word": "淮阴工学院",
-      "onboard_time": 1681454066,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 767837,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 740685,
-      "num": 478886,
+      "num": 484979,
       "word": "小娇妻",
       "onboard_time": 1681452146,
       "rank": 13,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 645373,
+      "num": 645373,
+      "word": "你一旦熬过夜",
+      "onboard_time": 1681455447,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 637850,
       "num": 637850,
       "word": "为什么杭州的姐弟恋越来越多",
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586832,
+      "num": 480443,
+      "word": "彝族姑娘果果自曝老公出轨",
+      "onboard_time": 1681454966,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577345,
       "num": 577345,
       "word": "张朝阳建议年轻人别睡懒觉",
@@ -232,6 +248,14 @@
       "word": "陈都灵好看",
       "onboard_time": 1681443512,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 571168,
+      "num": 571168,
+      "word": "原来白鹿也缺牙",
+      "onboard_time": 1681453345,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -259,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 554833,
+      "num": 554833,
+      "word": "校方回应教师朋友圈发遗言后跳楼",
+      "onboard_time": 1681454367,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 554049,
       "num": 554049,
       "word": "女子遭遇诈骗24名同事刷屏提醒",
@@ -273,14 +305,6 @@
       "onboard_time": 1681433009,
       "rank": 4,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 536458,
-      "num": 536458,
-      "word": "原来白鹿也缺牙",
-      "onboard_time": 1681453345,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 523766,
@@ -313,14 +337,6 @@
       "onboard_time": 1681448371,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 490180,
-      "num": 478661,
-      "word": "校方回应教师朋友圈发遗言后跳楼",
-      "onboard_time": 1681454367,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 488152,
@@ -467,14 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 404340,
-      "num": 404340,
-      "word": "彝族姑娘果果自曝老公出轨",
-      "onboard_time": 1681454966,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394821,
       "num": 394821,
       "word": "引发烟台山火嫌疑人已被刑拘",
@@ -529,14 +537,6 @@
       "onboard_time": 1681442427,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 354219,
-      "num": 354219,
-      "word": "你一旦熬过夜",
-      "onboard_time": 1681455447,
-      "rank": 15,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 342724,
@@ -769,6 +769,14 @@
       "onboard_time": 1681429166,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214340,
+      "num": 214340,
+      "word": "明道 感谢大家记得单均昊和叶天喻",
+      "onboard_time": 1681457069,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 213227,
@@ -1027,6 +1035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182404,
+      "num": 182404,
+      "word": "淄博烧烤",
+      "onboard_time": 1681455928,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182047,
       "num": 182047,
       "word": "姚琛于文文张艺凡模仿安陵容",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1681445372,
       "rank": 43,
       "category": "科技"
+    },
+    {
+      "raw_hot": 166853,
+      "num": 166853,
+      "word": "五一假期准备去哪",
+      "onboard_time": 1681457188,
+      "rank": 30,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 163950,
@@ -1153,6 +1177,22 @@
       "onboard_time": 1681384949,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150773,
+      "num": 150773,
+      "word": "张婧仪花朵编发",
+      "onboard_time": 1681457426,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149958,
+      "num": 149958,
+      "word": "蒲熠星猫坪村的一天",
+      "onboard_time": 1681457488,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 149278,
@@ -1427,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116987,
+      "num": 116987,
+      "word": "发遗言后轻生老师妻子发声",
+      "onboard_time": 1681457188,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116425,
       "num": 116425,
       "word": "湖北博物馆鸡蛋都是编钟的",
@@ -1499,14 +1547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 107465,
-      "num": 107465,
-      "word": "淄博烧烤",
-      "onboard_time": 1681455928,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107280,
       "num": 107280,
       "word": "迪丽热巴给儿童福利院捐物资",
@@ -1537,6 +1577,14 @@
       "onboard_time": 1681437508,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102798,
+      "num": 102798,
+      "word": "超级红人节",
+      "onboard_time": 1681457549,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 102278,

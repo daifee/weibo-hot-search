@@ -1,0 +1,410 @@
+{
+  "runTime": 1681457612023,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2383349,
+        "num": 2383349,
+        "word": "12306",
+        "onboard_time": 1681453767,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1385345,
+        "num": 1385345,
+        "word": "娜扎好像敦煌神女下凡了",
+        "onboard_time": 1681454487,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35215,
+        "num": 1275902,
+        "word": "巩固脱贫成果乡村振兴开新局",
+        "onboard_time": 1681446751,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1273735,
+        "num": 1273735,
+        "word": "为什么说女明星是普女",
+        "onboard_time": 1681454606,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 861605,
+        "num": 861605,
+        "word": "淮阴工学院",
+        "onboard_time": 1681454066,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 799486,
+        "num": 799486,
+        "word": "林生斌",
+        "onboard_time": 1681441467,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645373,
+        "num": 645373,
+        "word": "你一旦熬过夜",
+        "onboard_time": 1681455447,
+        "rank": 6,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 571168,
+        "num": 571168,
+        "word": "原来白鹿也缺牙",
+        "onboard_time": 1681453345,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554833,
+        "num": 554833,
+        "word": "校方回应教师朋友圈发遗言后跳楼",
+        "onboard_time": 1681454367,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 496145,
+        "num": 496145,
+        "word": "iPhone15Pro音量双按键",
+        "onboard_time": 1681442310,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 665946,
+        "num": 484979,
+        "word": "小娇妻",
+        "onboard_time": 1681452146,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586832,
+        "num": 480443,
+        "word": "彝族姑娘果果自曝老公出轨",
+        "onboard_time": 1681454966,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461866,
+        "num": 461866,
+        "word": "金晨 泰国泼水音乐节",
+        "onboard_time": 1681453708,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396336,
+        "num": 396336,
+        "word": "GUCCI肖战新图",
+        "onboard_time": 1681452268,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381541,
+        "num": 381541,
+        "word": "小哀把吻还给了小兰",
+        "onboard_time": 1681433968,
+        "rank": 14,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 371049,
+        "num": 371049,
+        "word": "男子菜地里种罂粟和虞美人混一起",
+        "onboard_time": 1681451608,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306238,
+        "num": 306238,
+        "word": "女子遭遇诈骗24名同事刷屏提醒",
+        "onboard_time": 1681448971,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248124,
+        "num": 248124,
+        "word": "林生斌潼臻一生公司已注销",
+        "onboard_time": 1681438945,
+        "rank": 17,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 214340,
+        "num": 214340,
+        "word": "明道 感谢大家记得单均昊和叶天喻",
+        "onboard_time": 1681457069,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209332,
+        "num": 209332,
+        "word": "人民网评尘封十三载",
+        "onboard_time": 1681450286,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338716,
+        "num": 204188,
+        "word": "带薪喝水的杯子有多讲究",
+        "onboard_time": 1681453466,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262991,
+        "num": 199819,
+        "word": "EXO机场生图",
+        "onboard_time": 1681454606,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193118,
+        "num": 193118,
+        "word": "全红婵陈芋汐跳水世界杯金牌",
+        "onboard_time": 1681444110,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188285,
+        "num": 188285,
+        "word": "魏晨第一个推理成功",
+        "onboard_time": 1681454667,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183010,
+        "num": 183010,
+        "word": "声生不息歌手初印象和现印象",
+        "onboard_time": 1681455686,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182404,
+        "num": 182404,
+        "word": "淄博烧烤",
+        "onboard_time": 1681455928,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180028,
+        "num": 180028,
+        "word": "男子拒付停车费顶着收费员开7公里",
+        "onboard_time": 1681449388,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179990,
+        "num": 179990,
+        "word": "LPL春决媒体发布会",
+        "onboard_time": 1681451789,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170802,
+        "num": 170802,
+        "word": "你为何不爱发朋友圈了",
+        "onboard_time": 1681442973,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169798,
+        "num": 169798,
+        "word": "罗云熙舌苔一看就没有湿气",
+        "onboard_time": 1681437565,
+        "rank": 29,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 166853,
+        "num": 166853,
+        "word": "五一假期准备去哪",
+        "onboard_time": 1681457188,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 165994,
+        "num": 165994,
+        "word": "魏大勋一句话骗到两个人",
+        "onboard_time": 1681448371,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163540,
+        "num": 163540,
+        "word": "云南两女孩因骑摩托车发生事故去世",
+        "onboard_time": 1681437147,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160104,
+        "num": 160104,
+        "word": "为什么杭州的姐弟恋越来越多",
+        "onboard_time": 1681439306,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150773,
+        "num": 150773,
+        "word": "张婧仪花朵编发",
+        "onboard_time": 1681457426,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149958,
+        "num": 149958,
+        "word": "蒲熠星猫坪村的一天",
+        "onboard_time": 1681457488,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143245,
+        "num": 143245,
+        "word": "假如小兰不和新一在一起",
+        "onboard_time": 1681446330,
+        "rank": 36,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 139706,
+        "num": 139706,
+        "word": "符龙飞的命也是命",
+        "onboard_time": 1681451848,
+        "rank": 37,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 132641,
+        "num": 132641,
+        "word": "招惹男主居然是于正家的演员",
+        "onboard_time": 1681451487,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128687,
+        "num": 128687,
+        "word": "裴珠泫即将solo",
+        "onboard_time": 1681446634,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127995,
+        "num": 127995,
+        "word": "陈都灵好看",
+        "onboard_time": 1681443512,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116987,
+        "num": 116987,
+        "word": "发遗言后轻生老师妻子发声",
+        "onboard_time": 1681457188,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112430,
+        "num": 112430,
+        "word": "刘雅瑟随地丢烟头",
+        "onboard_time": 1681447590,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110814,
+        "num": 110814,
+        "word": "苹果5G芯片最快2025年将量产",
+        "onboard_time": 1681447713,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 105274,
+        "num": 105274,
+        "word": "招惹",
+        "onboard_time": 1681448550,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102798,
+        "num": 102798,
+        "word": "超级红人节",
+        "onboard_time": 1681457549,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 102277,
+        "num": 102277,
+        "word": "极限挑战第九季预告片",
+        "onboard_time": 1681452927,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102155,
+        "num": 102155,
+        "word": "周末可以精简到只有睡觉",
+        "onboard_time": 1681452927,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98174,
+        "num": 98174,
+        "word": "高圆圆穿搭vlog",
+        "onboard_time": 1681453528,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72610,
+        "num": 98083,
+        "word": "星痕无畏主打互相偶遇",
+        "onboard_time": 1681455987,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#广东在中国式现代化建设大局中地位重要#"
+    }
+  }
+}
