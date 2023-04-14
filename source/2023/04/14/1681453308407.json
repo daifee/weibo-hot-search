@@ -1,0 +1,410 @@
+{
+  "runTime": 1681453308407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 751811,
+        "num": 751811,
+        "word": "小哀把吻还给了小兰",
+        "onboard_time": 1681433968,
+        "rank": 0,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 554805,
+        "num": 554805,
+        "word": "iPhone15Pro音量双按键",
+        "onboard_time": 1681442310,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 33373,
+        "num": 540118,
+        "word": "巩固脱贫成果乡村振兴开新局",
+        "onboard_time": 1681446751,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 538418,
+        "num": 538418,
+        "word": "女子遭遇诈骗24名同事刷屏提醒",
+        "onboard_time": 1681448971,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479507,
+        "num": 479507,
+        "word": "为什么杭州的姐弟恋越来越多",
+        "onboard_time": 1681439306,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607818,
+        "num": 475977,
+        "word": "林生斌",
+        "onboard_time": 1681441467,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455910,
+        "num": 455910,
+        "word": "人民网评尘封十三载",
+        "onboard_time": 1681450286,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432759,
+        "num": 432759,
+        "word": "全红婵陈芋汐跳水世界杯金牌",
+        "onboard_time": 1681444110,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416966,
+        "num": 416966,
+        "word": "张艺兴单依纯马伯骞Allin上线",
+        "onboard_time": 1681448371,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387386,
+        "num": 387386,
+        "word": "男子菜地里种罂粟和虞美人混一起",
+        "onboard_time": 1681451608,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703807,
+        "num": 384100,
+        "word": "林生斌潼臻一生公司已注销",
+        "onboard_time": 1681438945,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 380178,
+        "num": 380178,
+        "word": "GUCCI肖战新图",
+        "onboard_time": 1681452268,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370070,
+        "num": 370070,
+        "word": "罗云熙舌苔一看就没有湿气",
+        "onboard_time": 1681437565,
+        "rank": 12,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 352848,
+        "num": 352848,
+        "word": "小娇妻",
+        "onboard_time": 1681452146,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350727,
+        "num": 350727,
+        "word": "安徽爷孙失联前曾被村民遇到",
+        "onboard_time": 1681447173,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347932,
+        "num": 347932,
+        "word": "刘雅瑟随地丢烟头",
+        "onboard_time": 1681447590,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341754,
+        "num": 341754,
+        "word": "云南两女孩因骑摩托车发生事故去世",
+        "onboard_time": 1681437147,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322985,
+        "num": 322985,
+        "word": "男子拒付停车费顶着收费员开7公里",
+        "onboard_time": 1681449388,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291829,
+        "num": 291829,
+        "word": "假如小兰不和新一在一起",
+        "onboard_time": 1681446330,
+        "rank": 18,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 280256,
+        "num": 280256,
+        "word": "你为何不爱发朋友圈了",
+        "onboard_time": 1681442973,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417002,
+        "num": 277491,
+        "word": "魏大勋一句话骗到两个人",
+        "onboard_time": 1681448371,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261203,
+        "num": 261203,
+        "word": "陈都灵好看",
+        "onboard_time": 1681443512,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248716,
+        "num": 248716,
+        "word": "苹果5G芯片最快2025年将量产",
+        "onboard_time": 1681447713,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 230054,
+        "num": 230054,
+        "word": "张朝阳建议年轻人别睡懒觉",
+        "onboard_time": 1681438047,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212685,
+        "num": 212685,
+        "word": "裴珠泫即将solo",
+        "onboard_time": 1681446634,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210633,
+        "num": 210633,
+        "word": "LPL春决媒体发布会",
+        "onboard_time": 1681451789,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200476,
+        "num": 200476,
+        "word": "符龙飞的命也是命",
+        "onboard_time": 1681451848,
+        "rank": 26,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 189138,
+        "num": 189138,
+        "word": "招惹",
+        "onboard_time": 1681448550,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174934,
+        "num": 174934,
+        "word": "琴酒赶紧出来干活了",
+        "onboard_time": 1681445309,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167699,
+        "num": 167699,
+        "word": "招惹男主居然是于正家的演员",
+        "onboard_time": 1681451487,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165740,
+        "num": 165740,
+        "word": "马力欧之父给小桀送礼物",
+        "onboard_time": 1681449388,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 162826,
+        "num": 162826,
+        "word": "全国各地的桑酒",
+        "onboard_time": 1681451969,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146215,
+        "num": 146215,
+        "word": "初稿交了导师让我换个选题",
+        "onboard_time": 1681442850,
+        "rank": 32,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 142489,
+        "num": 142489,
+        "word": "胃是怎样一步步癌变的",
+        "onboard_time": 1681440748,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139039,
+        "num": 139039,
+        "word": "Jennie收到戛纳电影节邀请",
+        "onboard_time": 1681442850,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138681,
+        "num": 138681,
+        "word": "极限挑战第九季预告片",
+        "onboard_time": 1681452927,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138172,
+        "num": 138172,
+        "word": "周末可以精简到只有睡觉",
+        "onboard_time": 1681452927,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137368,
+        "num": 137368,
+        "word": "柯哀亲了",
+        "onboard_time": 1681430489,
+        "rank": 37,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 130436,
+        "num": 130436,
+        "word": "杨烁李萌萌酒后对手戏",
+        "onboard_time": 1681451189,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127290,
+        "num": 127290,
+        "word": "柯南贝克街的亡灵票房破4000万",
+        "onboard_time": 1681449809,
+        "rank": 39,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 125042,
+        "num": 125042,
+        "word": "微信内测朋友圈置顶功能",
+        "onboard_time": 1681433788,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 116163,
+        "num": 116163,
+        "word": "王一博电影实绩",
+        "onboard_time": 1681450530,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113691,
+        "num": 113691,
+        "word": "长月烬明断更的日子",
+        "onboard_time": 1681453045,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113462,
+        "num": 113462,
+        "word": "广东人为何最敢生娃",
+        "onboard_time": 1681433489,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 109584,
+        "num": 109584,
+        "word": "Jinni签约新公司",
+        "onboard_time": 1681437026,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105828,
+        "num": 105828,
+        "word": "兄弟堂",
+        "onboard_time": 1681448310,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100436,
+        "num": 100436,
+        "word": "LPL十周年数据回顾",
+        "onboard_time": 1681450590,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99270,
+        "num": 99270,
+        "word": "为你逆光而来定档",
+        "onboard_time": 1681444950,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94060,
+        "num": 94060,
+        "word": "光与夜之恋",
+        "onboard_time": 1681448610,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92360,
+        "num": 92360,
+        "word": "黎姿谈金枝欲孽",
+        "onboard_time": 1681453286,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#广东在中国式现代化建设大局中地位重要#"
+    }
+  }
+}

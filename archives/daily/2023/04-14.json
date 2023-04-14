@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681450404370,
+  "endTime": 1681453308407,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 560760,
-      "num": 273781,
+      "num": 277491,
       "word": "魏大勋一句话骗到两个人",
       "onboard_time": 1681448371,
       "rank": 20,
@@ -225,6 +225,14 @@
       "onboard_time": 1681433009,
       "rank": 4,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 538418,
+      "num": 538418,
+      "word": "女子遭遇诈骗24名同事刷屏提醒",
+      "onboard_time": 1681448971,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523766,
@@ -289,6 +297,14 @@
       "onboard_time": 1681431687,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455910,
+      "num": 455910,
+      "word": "人民网评尘封十三载",
+      "onboard_time": 1681450286,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 454123,
@@ -379,6 +395,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 387386,
+      "num": 387386,
+      "word": "男子菜地里种罂粟和虞美人混一起",
+      "onboard_time": 1681451608,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380178,
+      "num": 380178,
+      "word": "GUCCI肖战新图",
+      "onboard_time": 1681452268,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 368712,
       "num": 303242,
       "word": "初稿交了导师让我换个选题",
@@ -419,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352848,
+      "num": 352848,
+      "word": "小娇妻",
+      "onboard_time": 1681452146,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331328,
       "num": 331328,
       "word": "罗云熙白鹿发文告别冥夜桑酒",
@@ -433,6 +473,14 @@
       "onboard_time": 1681438945,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 322985,
+      "num": 322985,
+      "word": "男子拒付停车费顶着收费员开7公里",
+      "onboard_time": 1681449388,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315138,
@@ -481,14 +529,6 @@
       "onboard_time": 1681445010,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 275328,
-      "num": 275328,
-      "word": "女子遭遇诈骗24名同事刷屏提醒",
-      "onboard_time": 1681448971,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274749,
@@ -643,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210633,
+      "num": 210633,
+      "word": "LPL春决媒体发布会",
+      "onboard_time": 1681451789,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210523,
       "num": 186707,
       "word": "田曦薇吊带珍珠纱裙",
@@ -729,6 +777,14 @@
       "onboard_time": 1681443267,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200476,
+      "num": 200476,
+      "word": "符龙飞的命也是命",
+      "onboard_time": 1681451848,
+      "rank": 26,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 200353,
@@ -907,6 +963,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 167699,
+      "num": 167699,
+      "word": "招惹男主居然是于正家的演员",
+      "onboard_time": 1681451487,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163950,
       "num": 128606,
       "word": "淄博人高亚麟助力淄博烧烤",
@@ -929,6 +993,14 @@
       "onboard_time": 1681441289,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162826,
+      "num": 162826,
+      "word": "全国各地的桑酒",
+      "onboard_time": 1681451969,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 158436,
@@ -1075,6 +1147,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138681,
+      "num": 138681,
+      "word": "极限挑战第九季预告片",
+      "onboard_time": 1681452927,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138172,
+      "num": 138172,
+      "word": "周末可以精简到只有睡觉",
+      "onboard_time": 1681452927,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138092,
       "num": 138092,
       "word": "澹台烬是个学人烬",
@@ -1089,14 +1177,6 @@
       "onboard_time": 1681389028,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 136093,
-      "num": 136093,
-      "word": "男子拒付停车费顶着收费员开7公里",
-      "onboard_time": 1681449388,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134535,
@@ -1115,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130436,
+      "num": 130436,
+      "word": "杨烁李萌萌酒后对手戏",
+      "onboard_time": 1681451189,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129034,
       "num": 129034,
       "word": "非故意恋爱故事",
@@ -1123,8 +1211,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125159,
-      "num": 125159,
+      "raw_hot": 127290,
+      "num": 127290,
       "word": "柯南贝克街的亡灵票房破4000万",
       "onboard_time": 1681449809,
       "rank": 42,
@@ -1153,14 +1241,6 @@
       "onboard_time": 1681433308,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122440,
-      "num": 122440,
-      "word": "人民网评尘封十三载",
-      "onboard_time": 1681450286,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 120998,
@@ -1219,12 +1299,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116163,
+      "num": 116163,
+      "word": "王一博电影实绩",
+      "onboard_time": 1681450530,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 113832,
       "num": 115383,
       "word": "天龙八部2手游",
       "onboard_time": 1681442908,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113691,
+      "num": 113691,
+      "word": "长月烬明断更的日子",
+      "onboard_time": 1681453045,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 113051,
@@ -1323,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100436,
+      "num": 100436,
+      "word": "LPL十周年数据回顾",
+      "onboard_time": 1681450590,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99999,
       "num": 99999,
       "word": "马奎尔乌龙",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1681429646,
       "rank": 45,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 92360,
+      "num": 92360,
+      "word": "黎姿谈金枝欲孽",
+      "onboard_time": 1681453286,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92281,
