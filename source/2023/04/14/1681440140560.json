@@ -1,0 +1,410 @@
+{
+  "runTime": 1681440140560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 988383,
+        "num": 988383,
+        "word": "小哀把吻还给了小兰",
+        "onboard_time": 1681433968,
+        "rank": 0,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 575403,
+        "num": 575403,
+        "word": "罗云熙舌苔一看就没有湿气",
+        "onboard_time": 1681437565,
+        "rank": 1,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 11684,
+        "num": 402839,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1681391671,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1610425,
+        "num": 382771,
+        "word": "柯哀亲了",
+        "onboard_time": 1681430489,
+        "rank": 3,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 359998,
+        "num": 359998,
+        "word": "五一档",
+        "onboard_time": 1681437624,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339938,
+        "num": 339938,
+        "word": "张朝阳建议年轻人别睡懒觉",
+        "onboard_time": 1681438047,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494746,
+        "num": 307313,
+        "word": "青山刚昌",
+        "onboard_time": 1681436307,
+        "rank": 6,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 274684,
+        "num": 274684,
+        "word": "体重48公斤被学校谈话",
+        "onboard_time": 1681398392,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266455,
+        "num": 266455,
+        "word": "男子双臂戴10块手表被海关截查",
+        "onboard_time": 1681438645,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255857,
+        "num": 255857,
+        "word": "林生斌潼臻一生公司已注销",
+        "onboard_time": 1681438945,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 989055,
+        "num": 255160,
+        "word": "微信内测朋友圈置顶功能",
+        "onboard_time": 1681433788,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 589795,
+        "num": 248182,
+        "word": "云南两女孩因骑摩托车发生事故去世",
+        "onboard_time": 1681437147,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572533,
+        "num": 246428,
+        "word": "离职前记得删除的文件",
+        "onboard_time": 1681436907,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384434,
+        "num": 238694,
+        "word": "Jinni签约新公司",
+        "onboard_time": 1681437026,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359187,
+        "num": 236907,
+        "word": "广东人为何最敢生娃",
+        "onboard_time": 1681433489,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 355585,
+        "num": 229171,
+        "word": "吃不胖竟然与基因有关",
+        "onboard_time": 1681437745,
+        "rank": 15,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 348316,
+        "num": 224120,
+        "word": "殷桃的腰",
+        "onboard_time": 1681431687,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332358,
+        "num": 223422,
+        "word": "五角大楼军机泄密者是20多岁小伙",
+        "onboard_time": 1681427542,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219063,
+        "num": 219063,
+        "word": "陈妍希问陈晓凶手到底是谁",
+        "onboard_time": 1681391131,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216380,
+        "num": 216380,
+        "word": "这些常喝的饮料竟然都是糖分刺客",
+        "onboard_time": 1681429525,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 202278,
+        "num": 202278,
+        "word": "斗破苍穹之少年归来首支预告",
+        "onboard_time": 1681438945,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197870,
+        "num": 197870,
+        "word": "网红试胆石有必要砸掉吗",
+        "onboard_time": 1681436006,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 165298,
+        "num": 165298,
+        "word": "新兰",
+        "onboard_time": 1681433009,
+        "rank": 22,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 156523,
+        "num": 156523,
+        "word": "桑酒炼成倾世之玉",
+        "onboard_time": 1681439788,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152128,
+        "num": 152128,
+        "word": "大熊猫已经给乌鸦足够的体面",
+        "onboard_time": 1681428021,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140108,
+        "num": 140108,
+        "word": "毕业论文的导师都是语言大师",
+        "onboard_time": 1681432349,
+        "rank": 25,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 136286,
+        "num": 136286,
+        "word": "杨紫机场绿色开衫造型路透",
+        "onboard_time": 1681436185,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122291,
+        "num": 122291,
+        "word": "仙侠剧恶毒女配之最",
+        "onboard_time": 1681429045,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122225,
+        "num": 122225,
+        "word": "SEVENTEEN致敬楚门的世界",
+        "onboard_time": 1681429166,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121123,
+        "num": 121123,
+        "word": "海南警方沉浸式曝光键盘侠套路",
+        "onboard_time": 1681435046,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193674,
+        "num": 120233,
+        "word": "柯南胸前的玫瑰",
+        "onboard_time": 1681439487,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 188707,
+        "num": 118352,
+        "word": "为什么杭州的姐弟恋越来越多",
+        "onboard_time": 1681439306,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163950,
+        "num": 116740,
+        "word": "淄博人高亚麟助力淄博烧烤",
+        "onboard_time": 1681436546,
+        "rank": 32,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 160077,
+        "num": 116225,
+        "word": "我国未婚女性不能申请精子库",
+        "onboard_time": 1681386026,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158436,
+        "num": 114286,
+        "word": "白百何晒给元宝外公做的早餐",
+        "onboard_time": 1681439127,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137485,
+        "num": 113061,
+        "word": "会叫奶奶接电话的狗狗",
+        "onboard_time": 1681438226,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 137375,
+        "num": 110725,
+        "word": "Angelababy戴的项链预估价格九位数",
+        "onboard_time": 1681397432,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 110433,
+        "num": 110433,
+        "word": "社保挂靠代缴风险有多大",
+        "onboard_time": 1681438945,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108160,
+        "num": 108160,
+        "word": "军队文职笔试成绩今天公布",
+        "onboard_time": 1681436364,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 105205,
+        "num": 105205,
+        "word": "二十五六岁谈段恋爱有多难",
+        "onboard_time": 1681395993,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104204,
+        "num": 104204,
+        "word": "人民日报刊文谈青少年短视频沉迷",
+        "onboard_time": 1681434510,
+        "rank": 40,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 103090,
+        "num": 103090,
+        "word": "那些爱上学校的瞬间",
+        "onboard_time": 1681439426,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98920,
+        "num": 98920,
+        "word": "我只是花农 并不是主人",
+        "onboard_time": 1681439725,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96594,
+        "num": 96594,
+        "word": "杨千嬅紫发",
+        "onboard_time": 1681437866,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 93499,
+        "num": 93499,
+        "word": "中国中车",
+        "onboard_time": 1681401209,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93458,
+        "num": 93458,
+        "word": "故宫承包了你的春日壁纸",
+        "onboard_time": 1681436845,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 92662,
+        "num": 92662,
+        "word": "睡眠时间越长就越好吗",
+        "onboard_time": 1681430125,
+        "rank": 46,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 92001,
+        "num": 92001,
+        "word": "偶遇车银优洛杉矶逛街",
+        "onboard_time": 1681435347,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88403,
+        "num": 88403,
+        "word": "流朱让甄嬛闻石楠花的香气",
+        "onboard_time": 1681429407,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87780,
+        "num": 87780,
+        "word": "何悯鸿怀孕",
+        "onboard_time": 1681389090,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次点赞土特产#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681439510688,
+  "endTime": 1681440140560,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 973724,
+      "raw_hot": 989055,
       "num": 344299,
       "word": "微信内测朋友圈置顶功能",
       "onboard_time": 1681433788,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 640445,
-      "num": 241931,
+      "num": 246428,
       "word": "离职前记得删除的文件",
       "onboard_time": 1681436907,
       "rank": 11,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 586054,
-      "num": 240921,
+      "raw_hot": 589795,
+      "num": 248182,
       "word": "云南两女孩因骑摩托车发生事故去世",
       "onboard_time": 1681437147,
       "rank": 12,
@@ -107,8 +107,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 575403,
+      "num": 575403,
+      "word": "罗云熙舌苔一看就没有湿气",
+      "onboard_time": 1681437565,
+      "rank": 1,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 562174,
-      "num": 278664,
+      "num": 307313,
       "word": "青山刚昌",
       "onboard_time": 1681436307,
       "rank": 8,
@@ -121,14 +129,6 @@
       "onboard_time": 1681391131,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 543504,
-      "num": 543504,
-      "word": "罗云熙舌苔一看就没有湿气",
-      "onboard_time": 1681437565,
-      "rank": 1,
-      "category": "影视,幽默"
     },
     {
       "raw_hot": 542718,
@@ -235,6 +235,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 339938,
+      "num": 339938,
+      "word": "张朝阳建议年轻人别睡懒觉",
+      "onboard_time": 1681438047,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331328,
       "num": 331328,
       "word": "罗云熙白鹿发文告别冥夜桑酒",
@@ -291,19 +299,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 266455,
+      "num": 266455,
+      "word": "男子双臂戴10块手表被海关截查",
+      "onboard_time": 1681438645,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255857,
+      "num": 255857,
+      "word": "林生斌潼臻一生公司已注销",
+      "onboard_time": 1681438945,
+      "rank": 20,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 251992,
       "num": 251992,
       "word": "烟台山火",
       "onboard_time": 1681392811,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244027,
-      "num": 244027,
-      "word": "张朝阳建议年轻人别睡懒觉",
-      "onboard_time": 1681438047,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -329,14 +345,6 @@
       "onboard_time": 1681387168,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228357,
-      "num": 228357,
-      "word": "林生斌潼臻一生公司已注销",
-      "onboard_time": 1681438945,
-      "rank": 20,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 219708,
@@ -403,8 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201179,
-      "num": 201179,
+      "raw_hot": 202278,
+      "num": 202278,
       "word": "斗破苍穹之少年归来首支预告",
       "onboard_time": 1681438945,
       "rank": 22,
@@ -435,12 +443,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 193674,
+      "num": 126146,
+      "word": "柯南胸前的玫瑰",
+      "onboard_time": 1681439487,
+      "rank": 30,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 191088,
       "num": 375141,
       "word": "我国制裁一名美国反华议员",
       "onboard_time": 1681391671,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 188707,
+      "num": 118352,
+      "word": "为什么杭州的姐弟恋越来越多",
+      "onboard_time": 1681439306,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 188218,
@@ -467,14 +491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173066,
-      "num": 126146,
-      "word": "柯南胸前的玫瑰",
-      "onboard_time": 1681439487,
-      "rank": 30,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 171559,
       "num": 171559,
       "word": "虞书欣首张个人EP收官vlog",
@@ -491,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163950,
+      "num": 125901,
+      "word": "淄博人高亚麟助力淄博烧烤",
+      "onboard_time": 1681436546,
+      "rank": 43,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 163914,
       "num": 209011,
       "word": "海南警方沉浸式曝光键盘侠套路",
@@ -499,12 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159122,
-      "num": 239642,
-      "word": "男子双臂戴10块手表被海关截查",
-      "onboard_time": 1681438645,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 158436,
+      "num": 118040,
+      "word": "白百何晒给元宝外公做的早餐",
+      "onboard_time": 1681439127,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156523,
+      "num": 156523,
+      "word": "桑酒炼成倾世之玉",
+      "onboard_time": 1681439788,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 154350,
@@ -521,14 +553,6 @@
       "onboard_time": 1681384949,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151694,
-      "num": 125901,
-      "word": "淄博人高亚麟助力淄博烧烤",
-      "onboard_time": 1681436546,
-      "rank": 43,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 149278,
@@ -675,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 118040,
-      "num": 118040,
-      "word": "白百何晒给元宝外公做的早餐",
-      "onboard_time": 1681439127,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117766,
       "num": 74131,
       "word": "苏醒曾因为舞台事故甩脸",
@@ -705,6 +721,14 @@
       "onboard_time": 1681383210,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110433,
+      "num": 110433,
+      "word": "社保挂靠代缴风险有多大",
+      "onboard_time": 1681438945,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110024,
@@ -779,14 +803,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 102944,
-      "num": 102944,
-      "word": "社保挂靠代缴风险有多大",
-      "onboard_time": 1681438945,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101386,
       "num": 101386,
       "word": "烟台山火已扑灭无人员伤亡",
@@ -803,14 +819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 100674,
-      "num": 100674,
-      "word": "为什么杭州的姐弟恋越来越多",
-      "onboard_time": 1681439306,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 99999,
       "num": 99999,
       "word": "马奎尔乌龙",
@@ -825,6 +833,14 @@
       "onboard_time": 1681389693,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98920,
+      "num": 98920,
+      "word": "我只是花农 并不是主人",
+      "onboard_time": 1681439725,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 97741,
