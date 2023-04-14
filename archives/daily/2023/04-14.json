@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681481743512,
+  "endTime": 1681482809820,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -107,6 +107,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1458629,
+      "num": 594415,
+      "word": "许超医生 麻烦网红不要去碰瓷医院",
+      "onboard_time": 1681479869,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1430057,
       "num": 824192,
       "word": "敖瑞鹏 我只站柯哀",
@@ -187,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1097400,
-      "num": 594415,
-      "word": "许超医生 麻烦网红不要去碰瓷医院",
-      "onboard_time": 1681479869,
-      "rank": 10,
-      "category": "网红"
-    },
-    {
       "raw_hot": 996390,
       "num": 996390,
       "word": "崔秀彬",
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 965319,
-      "num": 483303,
+      "num": 497639,
       "word": "24岁的周雨彤",
       "onboard_time": 1681472367,
       "rank": 11,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 885031,
+      "num": 885031,
+      "word": "李楠",
+      "onboard_time": 1681479928,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 884474,
       "num": 884474,
       "word": "女孩离家出走被男子收留后被性侵",
@@ -275,12 +283,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 852019,
-      "num": 852019,
-      "word": "李楠",
-      "onboard_time": 1681479928,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 854800,
+      "num": 854800,
+      "word": "忽然发现家里有点钱",
+      "onboard_time": 1681478966,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 814621,
@@ -345,14 +353,6 @@
       "onboard_time": 1681452146,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 732025,
-      "num": 732025,
-      "word": "忽然发现家里有点钱",
-      "onboard_time": 1681478966,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 728550,
@@ -627,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 510480,
+      "num": 510480,
+      "word": "医院回应护士上班戴美甲给患者扎针",
+      "onboard_time": 1681479089,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 507128,
       "num": 507128,
       "word": "GUCCI肖战新图",
@@ -747,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451437,
+      "num": 451437,
+      "word": "樊振东比赛",
+      "onboard_time": 1681481188,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 447562,
       "num": 372647,
       "word": "Jinni签约新公司",
@@ -843,6 +859,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 396410,
+      "num": 396410,
+      "word": "五哈 小婉",
+      "onboard_time": 1681481851,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396089,
       "num": 396089,
       "word": "刘恋演出",
@@ -872,14 +896,6 @@
       "word": "吉安失踪4年童家姐弟疑似被找到",
       "onboard_time": 1681475247,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372597,
-      "num": 372597,
-      "word": "医院回应护士上班戴美甲给患者扎针",
-      "onboard_time": 1681479089,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1099,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 284551,
+      "num": 284551,
+      "word": "建议微信出个头像屏蔽功能",
+      "onboard_time": 1681481010,
+      "rank": 34,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 284435,
       "num": 284435,
       "word": "王一博看到战斗机的反应",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1681471527,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271535,
-      "num": 271535,
-      "word": "樊振东比赛",
-      "onboard_time": 1681481188,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 267719,
@@ -1443,6 +1459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211480,
+      "num": 211480,
+      "word": "中国成功实施陆基中段反导拦截技术试验",
+      "onboard_time": 1681482151,
+      "rank": 31,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 210973,
       "num": 190581,
       "word": "何悯鸿怀孕",
@@ -1555,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203186,
+      "num": 203186,
+      "word": "上海男篮战胜江苏男篮",
+      "onboard_time": 1681481971,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202681,
       "num": 202681,
       "word": "孟佳首场个人演唱会官宣",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1681460248,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201533,
+      "num": 201533,
+      "word": "江苏肯帝亚",
+      "onboard_time": 1681482091,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 201128,
@@ -1721,14 +1761,6 @@
       "onboard_time": 1681465407,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192394,
-      "num": 192394,
-      "word": "建议微信出个头像屏蔽功能",
-      "onboard_time": 1681481010,
-      "rank": 34,
-      "category": "幽默,科技"
     },
     {
       "raw_hot": 192308,
@@ -2179,6 +2211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147325,
+      "num": 147325,
+      "word": "希望五年后的今天",
+      "onboard_time": 1681482630,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 147222,
       "num": 184913,
       "word": "泰国泼水节",
@@ -2353,6 +2393,14 @@
       "onboard_time": 1681479689,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133016,
+      "num": 133016,
+      "word": "如果长月烬明没有神魔大战",
+      "onboard_time": 1681482450,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 130840,
