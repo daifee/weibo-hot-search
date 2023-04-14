@@ -1,0 +1,410 @@
+{
+  "runTime": 1681470876796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1631923,
+        "num": 1631923,
+        "word": "好友赚了2000万我却失眠了",
+        "onboard_time": 1681462769,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 782417,
+        "num": 782417,
+        "word": "曲婉婷名下两套房产被法拍",
+        "onboard_time": 1681462050,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14345,
+        "num": 667631,
+        "word": "巩固脱贫成果乡村振兴开新局",
+        "onboard_time": 1681446751,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1265764,
+        "num": 637220,
+        "word": "嗑CP被骂",
+        "onboard_time": 1681467089,
+        "rank": 3,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 164323,
+        "num": 608270,
+        "word": "女儿用手语帮聋哑父亲同声传译",
+        "onboard_time": 1681466428,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 596240,
+        "num": 596240,
+        "word": "娱乐圈的普男有哪些",
+        "onboard_time": 1681467147,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386606,
+        "num": 516812,
+        "word": "28岁妈妈离世捐器官帮更多家庭团圆",
+        "onboard_time": 1681466485,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086586,
+        "num": 516745,
+        "word": "敖瑞鹏 我只站柯哀",
+        "onboard_time": 1681466547,
+        "rank": 7,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 515824,
+        "num": 515824,
+        "word": "南京网红暴猴遭霸凌长期水上漂",
+        "onboard_time": 1681457666,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565318,
+        "num": 501296,
+        "word": "怪盗基德 服部平次",
+        "onboard_time": 1681469426,
+        "rank": 9,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 1676544,
+        "num": 492070,
+        "word": "传说中杨紫的朋友圈",
+        "onboard_time": 1681465111,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677216,
+        "num": 490325,
+        "word": "女孩离家出走被男子收留后被性侵",
+        "onboard_time": 1681463911,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477616,
+        "num": 477616,
+        "word": "五一高铁票",
+        "onboard_time": 1681465888,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447779,
+        "num": 447779,
+        "word": "音悦台向EXO和粉丝道歉",
+        "onboard_time": 1681464149,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 378904,
+        "num": 378904,
+        "word": "吴磊 常熟",
+        "onboard_time": 1681469787,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337150,
+        "num": 337150,
+        "word": "娜扎好像敦煌神女下凡了",
+        "onboard_time": 1681454487,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329599,
+        "num": 329599,
+        "word": "用过iPhone后你还会用安卓机吗",
+        "onboard_time": 1681458089,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 300746,
+        "num": 300746,
+        "word": "罗云熙的身高",
+        "onboard_time": 1681459947,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295590,
+        "num": 295590,
+        "word": "为什么牙科医生都穿洞洞鞋",
+        "onboard_time": 1681458208,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286922,
+        "num": 286922,
+        "word": "淮阴工学院回应",
+        "onboard_time": 1681468110,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 489357,
+        "num": 286478,
+        "word": "女儿发现做月嫂的妈妈存款近500万",
+        "onboard_time": 1681461687,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280139,
+        "num": 280139,
+        "word": "Viper",
+        "onboard_time": 1681459109,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250706,
+        "num": 250706,
+        "word": "航天专家出国访学被策反",
+        "onboard_time": 1681464806,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249214,
+        "num": 249214,
+        "word": "金晨 泰国泼水音乐节",
+        "onboard_time": 1681453708,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246082,
+        "num": 246082,
+        "word": "再晚1分钟孩子就到学校了",
+        "onboard_time": 1681464688,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238566,
+        "num": 238566,
+        "word": "王者荣耀",
+        "onboard_time": 1681459947,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238084,
+        "num": 238084,
+        "word": "校方回应男生疑偷拍多位女生裸照",
+        "onboard_time": 1681465527,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 227588,
+        "num": 227588,
+        "word": "长月烬明",
+        "onboard_time": 1681470087,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226543,
+        "num": 226543,
+        "word": "100岁奶奶质问98岁爷爷爱不爱她",
+        "onboard_time": 1681464090,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225460,
+        "num": 225460,
+        "word": "为什么说女明星是普女",
+        "onboard_time": 1681454606,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217866,
+        "num": 217866,
+        "word": "安徽亳州失联爷孙遗体已找到",
+        "onboard_time": 1681470686,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215507,
+        "num": 215507,
+        "word": "陈都灵cos的赤木晴子",
+        "onboard_time": 1681459227,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177364,
+        "num": 215353,
+        "word": "张元英自拍照",
+        "onboard_time": 1681468646,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175229,
+        "num": 215271,
+        "word": "SMTOWN艺人将入驻Weverse",
+        "onboard_time": 1681462587,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169473,
+        "num": 215043,
+        "word": "12306",
+        "onboard_time": 1681453767,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166250,
+        "num": 214628,
+        "word": "周深见到范丞丞的第一反应是关门",
+        "onboard_time": 1681465407,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160291,
+        "num": 214531,
+        "word": "射手座的间歇性冷漠",
+        "onboard_time": 1681461627,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160211,
+        "num": 214383,
+        "word": "奔跑吧",
+        "onboard_time": 1681466248,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159210,
+        "num": 214000,
+        "word": "名侦探柯南",
+        "onboard_time": 1681469486,
+        "rank": 38,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 38807,
+        "num": 213759,
+        "word": "河南一景区惊现空中巴士",
+        "onboard_time": 1681470027,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157532,
+        "num": 213539,
+        "word": "为什么九成的手机品牌消失了",
+        "onboard_time": 1681458510,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152407,
+        "num": 213262,
+        "word": "上海草莓音乐节",
+        "onboard_time": 1681467866,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147873,
+        "num": 213049,
+        "word": "刘雅瑟道歉",
+        "onboard_time": 1681461387,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135889,
+        "num": 212823,
+        "word": "符龙飞回应被扒",
+        "onboard_time": 1681461091,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126623,
+        "num": 212681,
+        "word": "澹台烬求与叶夕雾一生一世",
+        "onboard_time": 1681463249,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126357,
+        "num": 212566,
+        "word": "jinni艺名改为jini",
+        "onboard_time": 1681460067,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124833,
+        "num": 212164,
+        "word": "马嘉祺17年机场",
+        "onboard_time": 1681465047,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122123,
+        "num": 212132,
+        "word": "LGD大鹅",
+        "onboard_time": 1681466908,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116953,
+        "num": 211858,
+        "word": "中国中车发梗图回应大陆高铁没靠背言论",
+        "onboard_time": 1681469848,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116622,
+        "num": 211555,
+        "word": "周三放假非常科学的理由",
+        "onboard_time": 1681457848,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化有目标有规划有战略#"
+    }
+  }
+}
