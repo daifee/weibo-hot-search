@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681478426568,
+  "endTime": 1681479211328,
   "band_list": [
     {
       "raw_hot": 3089373,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885854,
+      "num": 885854,
+      "word": "刘昊然周冬雨 燃冬",
+      "onboard_time": 1681477108,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 884474,
       "num": 884474,
       "word": "女孩离家出走被男子收留后被性侵",
@@ -251,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 808526,
-      "num": 808526,
-      "word": "刘昊然周冬雨 燃冬",
-      "onboard_time": 1681477108,
-      "rank": 3,
-      "category": "影视"
+      "raw_hot": 813237,
+      "num": 813237,
+      "word": "泫雅泰国泼水节 舞台上的野马",
+      "onboard_time": 1681478366,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 791759,
@@ -683,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451799,
+      "num": 397819,
+      "word": "孙珍妮追星成功白鹿",
+      "onboard_time": 1681476747,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 447562,
       "num": 372647,
       "word": "Jinni签约新公司",
@@ -803,20 +819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375534,
-      "num": 375534,
-      "word": "孙珍妮追星成功白鹿",
-      "onboard_time": 1681476747,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 372298,
       "num": 372298,
       "word": "为什么九成的手机品牌消失了",
       "onboard_time": 1681458510,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 372062,
+      "num": 372062,
+      "word": "为什么广东胖子少",
+      "onboard_time": 1681475787,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368712,
@@ -849,14 +865,6 @@
       "onboard_time": 1681387769,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 359172,
-      "num": 359172,
-      "word": "为什么广东胖子少",
-      "onboard_time": 1681475787,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 357917,
@@ -907,12 +915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329054,
+      "num": 329054,
+      "word": "剖腹产不是划一刀就行的事",
+      "onboard_time": 1681475847,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 325888,
       "num": 325888,
       "word": "斗破苍穹之少年归来首支预告",
       "onboard_time": 1681438945,
       "rank": 22,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 323663,
+      "num": 323663,
+      "word": "范丞丞把郭麒麟五官认成宋雨琦",
+      "onboard_time": 1681477889,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 315138,
@@ -1083,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250294,
+      "num": 230346,
+      "word": "陈鑫海可爱",
+      "onboard_time": 1681477049,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250236,
       "num": 201567,
       "word": "邓超 这只是喜剧效果",
@@ -1203,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225092,
+      "num": 225092,
+      "word": "LPL",
+      "onboard_time": 1681476809,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222705,
       "num": 222705,
       "word": "张婧仪花朵编发",
@@ -1227,19 +1267,19 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 217570,
+      "num": 192642,
+      "word": "五哈",
+      "onboard_time": 1681478549,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217308,
       "num": 217308,
       "word": "长月烬明加更了吗",
       "onboard_time": 1681457848,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 217265,
-      "num": 192290,
-      "word": "陈鑫海可爱",
-      "onboard_time": 1681477049,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -1281,14 +1321,6 @@
       "onboard_time": 1681429166,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214093,
-      "num": 214093,
-      "word": "LPL",
-      "onboard_time": 1681476809,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 213227,
@@ -1379,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205636,
+      "num": 205636,
+      "word": "忽然发现家里有点钱",
+      "onboard_time": 1681478966,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205045,
       "num": 205045,
       "word": "一旦熬过夜你这辈子就定型了",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1681460248,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201128,
+      "num": 201128,
+      "word": "CBA季后赛",
+      "onboard_time": 1681478609,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 200934,
@@ -1603,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188828,
-      "num": 192215,
-      "word": "范丞丞把郭麒麟五官认成宋雨琦",
-      "onboard_time": 1681477889,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188816,
       "num": 188816,
       "word": "宋亚轩早期登台rap视频",
@@ -1657,6 +1697,14 @@
       "onboard_time": 1681393114,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187583,
+      "num": 185516,
+      "word": "长空之王澳新中国内地同步上映",
+      "onboard_time": 1681478966,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 187272,
@@ -1843,6 +1891,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 164093,
+      "num": 184970,
+      "word": "灌篮高手北大首映",
+      "onboard_time": 1681479030,
+      "rank": 40,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 164031,
       "num": 164031,
       "word": "杨颖说加入了李晨的假发片团队",
@@ -1995,6 +2051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147222,
+      "num": 184913,
+      "word": "泰国泼水节",
+      "onboard_time": 1681478909,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146670,
       "num": 146670,
       "word": "教资69",
@@ -2033,14 +2097,6 @@
       "onboard_time": 1681452927,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143141,
-      "num": 192070,
-      "word": "剖腹产不是划一刀就行的事",
-      "onboard_time": 1681475847,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 142814,
@@ -2121,14 +2177,6 @@
       "onboard_time": 1681389329,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136287,
-      "num": 191917,
-      "word": "泫雅泰国泼水节 舞台上的野马",
-      "onboard_time": 1681478366,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 136185,
@@ -2353,6 +2401,14 @@
       "onboard_time": 1681460849,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 110268,
+      "num": 184181,
+      "word": "医院回应护士上班戴美甲给患者扎针",
+      "onboard_time": 1681479089,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110024,
