@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681503484776,
+  "endTime": 1681504422993,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -13915,6 +13915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 31472,
+      "num": 31472,
+      "word": "生源都不足了还要高价抢学区房吗",
+      "onboard_time": 1681503313,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 29045,
       "num": 27509,
       "word": "三丽鸥明星人气评选",
@@ -13929,6 +13937,14 @@
       "onboard_time": 1681048530,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26680,
+      "num": 26680,
+      "word": "雨后春笋2天长30厘米顶翻木桌",
+      "onboard_time": 1681502113,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24690,
@@ -13953,14 +13969,6 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21584,
-      "num": 21584,
-      "word": "雨后春笋2天长30厘米顶翻木桌",
-      "onboard_time": 1681502113,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20705,
@@ -13995,12 +14003,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 13359,
-      "num": 17710,
-      "word": "生源都不足了还要高价抢学区房吗",
-      "onboard_time": 1681503313,
+      "raw_hot": 12091,
+      "num": 17839,
+      "word": "冥夜是蛟龙不是恐龙",
+      "onboard_time": 1681504332,
       "rank": 49,
-      "category": "社会新闻,教育"
+      "category": "影视"
     },
     {
       "raw_hot": 5478,
