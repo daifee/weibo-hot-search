@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681446882142,
+  "endTime": 1681449373760,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614125,
+      "num": 614125,
+      "word": "为什么杭州的姐弟恋越来越多",
+      "onboard_time": 1681439306,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 591443,
       "num": 537561,
       "word": "男子欠债百万杀妻后买冰柜藏尸",
@@ -211,6 +219,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 521988,
+      "num": 521988,
+      "word": "刘雅瑟随地丢烟头",
+      "onboard_time": 1681447590,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487053,
       "num": 487053,
       "word": "大熊猫已经给乌鸦足够的体面",
@@ -235,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460182,
+      "num": 460182,
+      "word": "安徽爷孙失联前曾被村民遇到",
+      "onboard_time": 1681447173,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458512,
       "num": 458512,
       "word": "殷桃的腰",
@@ -251,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 451758,
+      "num": 451758,
+      "word": "假如小兰不和新一在一起",
+      "onboard_time": 1681446330,
+      "rank": 31,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 447562,
       "num": 372647,
       "word": "Jinni签约新公司",
@@ -259,12 +291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 432662,
-      "num": 432662,
-      "word": "为什么杭州的姐弟恋越来越多",
-      "onboard_time": 1681439306,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 439881,
+      "num": 439881,
+      "word": "裴珠泫即将solo",
+      "onboard_time": 1681446634,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 421307,
@@ -281,6 +313,14 @@
       "onboard_time": 1681400130,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416902,
+      "num": 416902,
+      "word": "琴酒赶紧出来干活了",
+      "onboard_time": 1681445309,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 414060,
@@ -323,12 +363,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 391618,
-      "num": 391618,
-      "word": "琴酒赶紧出来干活了",
-      "onboard_time": 1681445309,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 390791,
+      "num": 259212,
+      "word": "魏大勋一句话骗到两个人",
+      "onboard_time": 1681448371,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 368712,
@@ -459,6 +499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254294,
+      "num": 254294,
+      "word": "张艺兴单依纯马伯骞Allin上线",
+      "onboard_time": 1681448371,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 252397,
       "num": 252397,
       "word": "EXO已有14支MV播放量破亿",
@@ -531,12 +579,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 225421,
-      "num": 225421,
-      "word": "裴珠泫即将solo",
-      "onboard_time": 1681446634,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 226070,
+      "num": 226070,
+      "word": "招惹",
+      "onboard_time": 1681448550,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221647,
+      "num": 221647,
+      "word": "苹果5G芯片最快2025年将量产",
+      "onboard_time": 1681447713,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 219708,
@@ -603,12 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207846,
-      "num": 207846,
-      "word": "假如小兰不和新一在一起",
-      "onboard_time": 1681446330,
-      "rank": 31,
-      "category": "影视,动漫"
+      "raw_hot": 208039,
+      "num": 208039,
+      "word": "林俊杰愿与愁MV",
+      "onboard_time": 1681449088,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 207656,
@@ -635,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203310,
+      "num": 203310,
+      "word": "兄弟堂",
+      "onboard_time": 1681448310,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202681,
       "num": 202681,
       "word": "孟佳首场个人演唱会官宣",
@@ -643,11 +707,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 202507,
+      "num": 202507,
+      "word": "光与夜之恋",
+      "onboard_time": 1681448610,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200934,
       "num": 200934,
       "word": "奔跑吧宫廷风剧照",
       "onboard_time": 1681443267,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200353,
+      "num": 200353,
+      "word": "苏醒说论领导力陈楚生第一",
+      "onboard_time": 1681448310,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -771,6 +851,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182047,
+      "num": 182047,
+      "word": "姚琛于文文张艺凡模仿安陵容",
+      "onboard_time": 1681447468,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178688,
+      "num": 178688,
+      "word": "凌云志蒋依依开播就下线",
+      "onboard_time": 1681448009,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171559,
       "num": 171559,
       "word": "虞书欣首张个人EP收官vlog",
@@ -825,6 +921,14 @@
       "onboard_time": 1681439127,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157754,
+      "num": 157754,
+      "word": "小鬼2023巡演有效预热",
+      "onboard_time": 1681448971,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 156523,
@@ -985,6 +1089,14 @@
       "onboard_time": 1681399709,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129765,
+      "num": 129765,
+      "word": "女子遭遇诈骗24名同事刷屏提醒",
+      "onboard_time": 1681448971,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129034,
@@ -1331,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41778,
+      "num": 1502610,
+      "word": "巩固脱贫成果乡村振兴开新局",
+      "onboard_time": 1681446751,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 36398,
       "num": 34159,
       "word": "影视剧里一眼万年的蓝裙子",
@@ -1369,14 +1489,6 @@
       "onboard_time": 1681391671,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9804,
-      "num": 1502610,
-      "word": "巩固脱贫成果乡村振兴开新局",
-      "onboard_time": 1681446751,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

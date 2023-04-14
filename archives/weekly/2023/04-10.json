@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681446882142,
+  "endTime": 1681449373760,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -2187,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 614125,
+      "num": 614125,
+      "word": "为什么杭州的姐弟恋越来越多",
+      "onboard_time": 1681439306,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 613644,
       "num": 329531,
       "word": "银行发现7位数存款5年未动急寻人",
@@ -2827,6 +2835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 521988,
+      "num": 521988,
+      "word": "刘雅瑟随地丢烟头",
+      "onboard_time": 1681447590,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521580,
       "num": 521580,
       "word": "烟台山火",
@@ -3211,6 +3227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 460182,
+      "num": 460182,
+      "word": "安徽爷孙失联前曾被村民遇到",
+      "onboard_time": 1681447173,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459760,
       "num": 459760,
       "word": "关晓彤吊带皮裙",
@@ -3323,6 +3347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451758,
+      "num": 451758,
+      "word": "假如小兰不和新一在一起",
+      "onboard_time": 1681446330,
+      "rank": 31,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 450188,
       "num": 310130,
       "word": "买了个五斤的芒果",
@@ -3403,6 +3435,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 439881,
+      "num": 439881,
+      "word": "裴珠泫即将solo",
+      "onboard_time": 1681446634,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439045,
       "num": 439045,
       "word": "大城市户口真的重要吗",
@@ -3465,14 +3505,6 @@
       "onboard_time": 1681204166,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 432662,
-      "num": 432662,
-      "word": "为什么杭州的姐弟恋越来越多",
-      "onboard_time": 1681439306,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 431142,
@@ -3689,6 +3721,14 @@
       "onboard_time": 1681186347,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 416902,
+      "num": 416902,
+      "word": "琴酒赶紧出来干活了",
+      "onboard_time": 1681445309,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 416170,
@@ -4099,20 +4139,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 391618,
-      "num": 391618,
-      "word": "琴酒赶紧出来干活了",
-      "onboard_time": 1681445309,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 391110,
       "num": 318020,
       "word": "减肥才是最低成本的变美",
       "onboard_time": 1681343672,
       "rank": 20,
       "category": "情感,美妆"
+    },
+    {
+      "raw_hot": 390791,
+      "num": 259212,
+      "word": "魏大勋一句话骗到两个人",
+      "onboard_time": 1681448371,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 390743,
@@ -5883,6 +5923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254294,
+      "num": 254294,
+      "word": "张艺兴单依纯马伯骞Allin上线",
+      "onboard_time": 1681448371,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253868,
       "num": 253868,
       "word": "浙大学生称着火点在农学院动物房",
@@ -6595,14 +6643,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 225421,
-      "num": 225421,
-      "word": "裴珠泫即将solo",
-      "onboard_time": 1681446634,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225149,
       "num": 225149,
       "word": "熊猫宝宝吓到奶瓶都扔了",
@@ -6665,6 +6705,14 @@
       "onboard_time": 1681183587,
       "rank": 42,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 221647,
+      "num": 221647,
+      "word": "苹果5G芯片最快2025年将量产",
+      "onboard_time": 1681447713,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 221373,
@@ -7203,6 +7251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 208039,
+      "num": 208039,
+      "word": "林俊杰愿与愁MV",
+      "onboard_time": 1681449088,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208038,
       "num": 208038,
       "word": "央华版如梦之梦十周年",
@@ -7225,14 +7281,6 @@
       "onboard_time": 1681200927,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207846,
-      "num": 207846,
-      "word": "假如小兰不和新一在一起",
-      "onboard_time": 1681446330,
-      "rank": 31,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 207678,
@@ -7539,6 +7587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203310,
+      "num": 203310,
+      "word": "兄弟堂",
+      "onboard_time": 1681448310,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203209,
       "num": 180089,
       "word": "BoysPlanet",
@@ -7633,6 +7689,14 @@
       "onboard_time": 1681356269,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202507,
+      "num": 202507,
+      "word": "光与夜之恋",
+      "onboard_time": 1681448610,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 202450,
@@ -7832,6 +7896,14 @@
       "word": "安宥真kitschMCD直拍",
       "onboard_time": 1681385310,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200353,
+      "num": 200353,
+      "word": "苏醒说论领导力陈楚生第一",
+      "onboard_time": 1681448310,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -9107,6 +9179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182047,
+      "num": 182047,
+      "word": "姚琛于文文张艺凡模仿安陵容",
+      "onboard_time": 1681447468,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181983,
       "num": 181983,
       "word": "全民国家安全教育日",
@@ -9249,6 +9329,14 @@
       "onboard_time": 1681181846,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178688,
+      "num": 178688,
+      "word": "凌云志蒋依依开播就下线",
+      "onboard_time": 1681448009,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 178254,
@@ -10033,6 +10121,14 @@
       "onboard_time": 1681286486,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 157754,
+      "num": 157754,
+      "word": "小鬼2023巡演有效预热",
+      "onboard_time": 1681448971,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 156763,
@@ -11025,6 +11121,14 @@
       "onboard_time": 1681121126,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 129765,
+      "num": 129765,
+      "word": "女子遭遇诈骗24名同事刷屏提醒",
+      "onboard_time": 1681448971,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129738,
@@ -12203,6 +12307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 41778,
+      "num": 1502610,
+      "word": "巩固脱贫成果乡村振兴开新局",
+      "onboard_time": 1681446751,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 38684,
       "num": 44059,
       "word": "太阳新歌预告",
@@ -12337,14 +12449,6 @@
       "onboard_time": 1681150813,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 9804,
-      "num": 1502610,
-      "word": "巩固脱贫成果乡村振兴开新局",
-      "onboard_time": 1681446751,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 5478,
