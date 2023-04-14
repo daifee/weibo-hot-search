@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681436636532,
+  "endTime": 1681439510688,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973724,
+      "num": 344299,
+      "word": "微信内测朋友圈置顶功能",
+      "onboard_time": 1681433788,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 728550,
       "num": 363930,
       "word": "广东人为何最敢生娃",
@@ -57,6 +65,14 @@
       "onboard_time": 1681430125,
       "rank": 12,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 640445,
+      "num": 241931,
+      "word": "离职前记得删除的文件",
+      "onboard_time": 1681436907,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 625039,
@@ -75,12 +91,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586054,
+      "num": 240921,
+      "word": "云南两女孩因骑摩托车发生事故去世",
+      "onboard_time": 1681437147,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576339,
       "num": 187794,
       "word": "北大全嘻嘻 清华张小年",
       "onboard_time": 1681378889,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 562174,
+      "num": 278664,
+      "word": "青山刚昌",
+      "onboard_time": 1681436307,
+      "rank": 8,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 560889,
@@ -91,20 +123,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 543504,
+      "num": 543504,
+      "word": "罗云熙舌苔一看就没有湿气",
+      "onboard_time": 1681437565,
+      "rank": 1,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 542718,
       "num": 542718,
       "word": "新兰",
       "onboard_time": 1681433009,
       "rank": 4,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 503218,
-      "num": 344299,
-      "word": "微信内测朋友圈置顶功能",
-      "onboard_time": 1681433788,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 487053,
@@ -115,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460335,
+      "num": 460335,
+      "word": "五一档",
+      "onboard_time": 1681437624,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454123,
       "num": 454123,
       "word": "流朱让甄嬛闻石楠花的香气",
       "onboard_time": 1681429407,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 447562,
+      "num": 240350,
+      "word": "Jinni签约新公司",
+      "onboard_time": 1681437026,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 418419,
@@ -177,6 +225,14 @@
       "onboard_time": 1681387769,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 358699,
+      "num": 237780,
+      "word": "吃不胖竟然与基因有关",
+      "onboard_time": 1681437745,
+      "rank": 17,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 331328,
@@ -243,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244027,
+      "num": 244027,
+      "word": "张朝阳建议年轻人别睡懒觉",
+      "onboard_time": 1681438047,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239923,
       "num": 239923,
       "word": "e人聚会",
@@ -265,6 +329,22 @@
       "onboard_time": 1681387168,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228357,
+      "num": 228357,
+      "word": "林生斌潼臻一生公司已注销",
+      "onboard_time": 1681438945,
+      "rank": 20,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 219708,
+      "num": 219708,
+      "word": "网红试胆石有必要砸掉吗",
+      "onboard_time": 1681436006,
+      "rank": 24,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 215940,
@@ -299,14 +379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210827,
-      "num": 210827,
-      "word": "青山刚昌",
-      "onboard_time": 1681436307,
-      "rank": 8,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 210523,
       "num": 186707,
       "word": "田曦薇吊带珍珠纱裙",
@@ -329,6 +401,14 @@
       "onboard_time": 1681392092,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201179,
+      "num": 201179,
+      "word": "斗破苍穹之少年归来首支预告",
+      "onboard_time": 1681438945,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 199079,
@@ -387,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173066,
+      "num": 126146,
+      "word": "柯南胸前的玫瑰",
+      "onboard_time": 1681439487,
+      "rank": 30,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 171559,
       "num": 171559,
       "word": "虞书欣首张个人EP收官vlog",
@@ -411,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159389,
-      "num": 159389,
-      "word": "网红试胆石有必要砸掉吗",
-      "onboard_time": 1681436006,
-      "rank": 24,
-      "category": "社会新闻,情感"
+      "raw_hot": 159122,
+      "num": 239642,
+      "word": "男子双臂戴10块手表被海关截查",
+      "onboard_time": 1681438645,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154350,
@@ -435,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151694,
+      "num": 125901,
+      "word": "淄博人高亚麟助力淄博烧烤",
+      "onboard_time": 1681436546,
+      "rank": 43,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 149278,
       "num": 149278,
       "word": "涉疫货车司机仍被监视居住",
@@ -449,6 +545,14 @@
       "onboard_time": 1681386026,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146303,
+      "num": 146303,
+      "word": "杨紫机场绿色开衫造型路透",
+      "onboard_time": 1681436185,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143855,
@@ -473,6 +577,14 @@
       "onboard_time": 1681402348,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141714,
+      "num": 124331,
+      "word": "会叫奶奶接电话的狗狗",
+      "onboard_time": 1681438226,
+      "rank": 35,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 140381,
@@ -563,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118040,
+      "num": 118040,
+      "word": "白百何晒给元宝外公做的早餐",
+      "onboard_time": 1681439127,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117766,
       "num": 74131,
       "word": "苏醒曾因为舞台事故甩脸",
@@ -587,12 +707,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112618,
-      "num": 112618,
-      "word": "杨紫机场绿色开衫造型路透",
-      "onboard_time": 1681436185,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 110024,
+      "num": 110024,
+      "word": "那些爱上学校的瞬间",
+      "onboard_time": 1681439426,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 109873,
@@ -635,6 +755,38 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105708,
+      "num": 105708,
+      "word": "狗狗版flower",
+      "onboard_time": 1681437508,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 105015,
+      "num": 105015,
+      "word": "故宫承包了你的春日壁纸",
+      "onboard_time": 1681436845,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 103127,
+      "num": 103127,
+      "word": "杨千嬅紫发",
+      "onboard_time": 1681437866,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 102944,
+      "num": 102944,
+      "word": "社保挂靠代缴风险有多大",
+      "onboard_time": 1681438945,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101386,
       "num": 101386,
       "word": "烟台山火已扑灭无人员伤亡",
@@ -649,6 +801,14 @@
       "onboard_time": 1681396053,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100674,
+      "num": 100674,
+      "word": "为什么杭州的姐弟恋越来越多",
+      "onboard_time": 1681439306,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 99999,
@@ -697,14 +857,6 @@
       "onboard_time": 1681419732,
       "rank": 42,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 86455,
-      "num": 86455,
-      "word": "淄博人高亚麟助力淄博烧烤",
-      "onboard_time": 1681436546,
-      "rank": 43,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 86368,
