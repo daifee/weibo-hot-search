@@ -1,0 +1,410 @@
+{
+  "runTime": 1681463820808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1591435,
+        "num": 1591435,
+        "word": "12306",
+        "onboard_time": 1681453767,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1515350,
+        "num": 1515350,
+        "word": "南京网红暴猴遭霸凌长期水上漂",
+        "onboard_time": 1681457666,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26541,
+        "num": 1416315,
+        "word": "巩固脱贫成果乡村振兴开新局",
+        "onboard_time": 1681446751,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1408071,
+        "num": 1408071,
+        "word": "曲婉婷名下两套房产被法拍",
+        "onboard_time": 1681462050,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1064393,
+        "num": 1064393,
+        "word": "娜扎好像敦煌神女下凡了",
+        "onboard_time": 1681454487,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712948,
+        "num": 712948,
+        "word": "Viper",
+        "onboard_time": 1681459109,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 646102,
+        "num": 646102,
+        "word": "用过iPhone后你还会用安卓机吗",
+        "onboard_time": 1681458089,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 617799,
+        "num": 617799,
+        "word": "刘雅瑟道歉",
+        "onboard_time": 1681461387,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540191,
+        "num": 540191,
+        "word": "周三放假非常科学的理由",
+        "onboard_time": 1681457848,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 489846,
+        "num": 489846,
+        "word": "陈都灵cos的赤木晴子",
+        "onboard_time": 1681459227,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 972634,
+        "num": 488543,
+        "word": "罗云熙的身高",
+        "onboard_time": 1681459947,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 483542,
+        "num": 483542,
+        "word": "为什么说女明星是普女",
+        "onboard_time": 1681454606,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468325,
+        "num": 468325,
+        "word": "王者荣耀",
+        "onboard_time": 1681459947,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 436563,
+        "num": 436563,
+        "word": "为什么牙科医生都穿洞洞鞋",
+        "onboard_time": 1681458208,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370505,
+        "num": 370505,
+        "word": "SMTOWN艺人将入驻Weverse",
+        "onboard_time": 1681462587,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358241,
+        "num": 358241,
+        "word": "小米回应被乌列入俄国际赞助商名单",
+        "onboard_time": 1681462169,
+        "rank": 15,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 306149,
+        "num": 306149,
+        "word": "为什么九成的手机品牌消失了",
+        "onboard_time": 1681458510,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 294298,
+        "num": 294298,
+        "word": "iPhone15Pro音量双按键",
+        "onboard_time": 1681442310,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 284358,
+        "num": 284358,
+        "word": "BoysPlanet涉嫌造假",
+        "onboard_time": 1681457909,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273840,
+        "num": 273840,
+        "word": "金晨 泰国泼水音乐节",
+        "onboard_time": 1681453708,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 718181,
+        "num": 270477,
+        "word": "女儿发现做月嫂的妈妈存款近500万",
+        "onboard_time": 1681461687,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263374,
+        "num": 263374,
+        "word": "明道 感谢大家记得单均昊和叶天喻",
+        "onboard_time": 1681457069,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259247,
+        "num": 259247,
+        "word": "何超莲何超琼同框合照",
+        "onboard_time": 1681458628,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252780,
+        "num": 252780,
+        "word": "符龙飞回应被扒",
+        "onboard_time": 1681461091,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226192,
+        "num": 226192,
+        "word": "好友赚了2000万我却失眠了",
+        "onboard_time": 1681462769,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233056,
+        "num": 224679,
+        "word": "jinni艺名改为jini",
+        "onboard_time": 1681460067,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217016,
+        "num": 217016,
+        "word": "侯明昊秀腹肌",
+        "onboard_time": 1681462829,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212645,
+        "num": 212645,
+        "word": "周杰伦演唱会天津站官宣",
+        "onboard_time": 1681461748,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207497,
+        "num": 207497,
+        "word": "你一旦熬过夜",
+        "onboard_time": 1681455447,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 128233,
+        "num": 203157,
+        "word": "女子遭遇诈骗24名同事刷屏提醒",
+        "onboard_time": 1681448971,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439689,
+        "num": 201975,
+        "word": "彝族姑娘果果自曝老公出轨",
+        "onboard_time": 1681454966,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199550,
+        "num": 199550,
+        "word": "发遗言后轻生老师妻子发声",
+        "onboard_time": 1681457188,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198269,
+        "num": 198269,
+        "word": "林生斌",
+        "onboard_time": 1681441467,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177314,
+        "num": 177314,
+        "word": "霉霉演唱会泳池跳水门技术故障",
+        "onboard_time": 1681462349,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173435,
+        "num": 173435,
+        "word": "GUCCI肖战新图",
+        "onboard_time": 1681452268,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171889,
+        "num": 171889,
+        "word": "原来白鹿也缺牙",
+        "onboard_time": 1681453345,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170835,
+        "num": 170835,
+        "word": "小娇妻",
+        "onboard_time": 1681452146,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163504,
+        "num": 163504,
+        "word": "aespa将5月8日回归",
+        "onboard_time": 1681458510,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159975,
+        "num": 159975,
+        "word": "射手座的间歇性冷漠",
+        "onboard_time": 1681461627,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158374,
+        "num": 158374,
+        "word": "长月烬明加更了吗",
+        "onboard_time": 1681457848,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157913,
+        "num": 157913,
+        "word": "月嫂算高收入人群吗",
+        "onboard_time": 1681463729,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 143669,
+        "num": 143669,
+        "word": "家里网不好的原因找到了",
+        "onboard_time": 1681463669,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138538,
+        "num": 138538,
+        "word": "马天宇被AI认可的演技",
+        "onboard_time": 1681458928,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133830,
+        "num": 133830,
+        "word": "澹台烬求与叶夕雾一生一世",
+        "onboard_time": 1681463249,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128651,
+        "num": 128651,
+        "word": "流浪地球2全网上线",
+        "onboard_time": 1681460248,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128565,
+        "num": 128565,
+        "word": "校方回应教师朋友圈发遗言后跳楼",
+        "onboard_time": 1681454367,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 128417,
+        "num": 128417,
+        "word": "林生斌潼臻一生公司已注销",
+        "onboard_time": 1681438945,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 123864,
+        "num": 123864,
+        "word": "带薪喝水的杯子有多讲究",
+        "onboard_time": 1681453466,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119862,
+        "num": 119862,
+        "word": "EXO机场生图",
+        "onboard_time": 1681454606,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94812,
+        "num": 116124,
+        "word": "上海咖啡泡饭走红",
+        "onboard_time": 1681461928,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#广东在中国式现代化建设大局中地位重要#"
+    }
+  }
+}

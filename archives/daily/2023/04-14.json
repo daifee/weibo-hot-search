@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681461257850,
+  "endTime": 1681463820808,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -43,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1515350,
+      "num": 1515350,
+      "word": "南京网红暴猴遭霸凌长期水上漂",
+      "onboard_time": 1681457666,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1468739,
       "num": 308547,
       "word": "你能接受另一半捐精吗",
       "onboard_time": 1681397731,
       "rank": 10,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1408071,
+      "num": 1408071,
+      "word": "曲婉婷名下两套房产被法拍",
+      "onboard_time": 1681462050,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1398190,
@@ -83,14 +99,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1182088,
-      "num": 1182088,
-      "word": "南京网红暴猴遭霸凌长期水上漂",
-      "onboard_time": 1681457666,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1170254,
       "num": 1170254,
       "word": "体重48公斤被学校谈话",
@@ -105,6 +113,14 @@
       "onboard_time": 1681427542,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 972634,
+      "num": 529410,
+      "word": "罗云熙的身高",
+      "onboard_time": 1681459947,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 945277,
@@ -187,6 +203,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 718181,
+      "num": 270477,
+      "word": "女儿发现做月嫂的妈妈存款近500万",
+      "onboard_time": 1681461687,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705507,
       "num": 705507,
       "word": "明道 感谢大家记得单均昊和叶天喻",
@@ -235,20 +259,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 633202,
-      "num": 529410,
-      "word": "罗云熙的身高",
-      "onboard_time": 1681459947,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 625039,
       "num": 353204,
       "word": "这些常喝的饮料竟然都是糖分刺客",
       "onboard_time": 1681429525,
       "rank": 13,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 617799,
+      "num": 617799,
+      "word": "刘雅瑟道歉",
+      "onboard_time": 1681461387,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 614883,
@@ -355,6 +379,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 540191,
+      "num": 540191,
+      "word": "周三放假非常科学的理由",
+      "onboard_time": 1681457848,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 538935,
       "num": 538935,
       "word": "BoysPlanet涉嫌造假",
@@ -369,14 +401,6 @@
       "onboard_time": 1681459227,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 526185,
-      "num": 526185,
-      "word": "周三放假非常科学的理由",
-      "onboard_time": 1681457848,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 523766,
@@ -579,6 +603,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 370505,
+      "num": 370505,
+      "word": "SMTOWN艺人将入驻Weverse",
+      "onboard_time": 1681462587,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368712,
       "num": 303242,
       "word": "初稿交了导师让我换个选题",
@@ -609,6 +641,14 @@
       "onboard_time": 1681387769,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 358241,
+      "num": 358241,
+      "word": "小米回应被乌列入俄国际赞助商名单",
+      "onboard_time": 1681462169,
+      "rank": 15,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 357917,
@@ -763,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 252780,
+      "num": 252780,
+      "word": "符龙飞回应被扒",
+      "onboard_time": 1681461091,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 252397,
       "num": 252397,
       "word": "EXO已有14支MV播放量破亿",
@@ -835,6 +883,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 233056,
+      "num": 224679,
+      "word": "jinni艺名改为jini",
+      "onboard_time": 1681460067,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230583,
       "num": 187226,
       "word": "大三学生给同学洗鞋2个月赚8万",
@@ -849,6 +905,14 @@
       "onboard_time": 1681444588,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226192,
+      "num": 226192,
+      "word": "好友赚了2000万我却失眠了",
+      "onboard_time": 1681462769,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 222705,
@@ -875,12 +939,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 216342,
-      "num": 216342,
-      "word": "jinni艺名改为jini",
-      "onboard_time": 1681460067,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 217016,
+      "num": 217016,
+      "word": "侯明昊秀腹肌",
+      "onboard_time": 1681462829,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215940,
@@ -913,6 +977,14 @@
       "onboard_time": 1681401209,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 212645,
+      "num": 212645,
+      "word": "周杰伦演唱会天津站官宣",
+      "onboard_time": 1681461748,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 210973,
@@ -1219,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177314,
+      "num": 177314,
+      "word": "霉霉演唱会泳池跳水门技术故障",
+      "onboard_time": 1681462349,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171559,
       "num": 171559,
       "word": "虞书欣首张个人EP收官vlog",
@@ -1315,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159975,
+      "num": 159975,
+      "word": "射手座的间歇性冷漠",
+      "onboard_time": 1681461627,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158436,
       "num": 118040,
       "word": "白百何晒给元宝外公做的早餐",
@@ -1323,20 +1411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157913,
+      "num": 157913,
+      "word": "月嫂算高收入人群吗",
+      "onboard_time": 1681463729,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 157754,
       "num": 157754,
       "word": "小鬼2023巡演有效预热",
       "onboard_time": 1681448971,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156710,
-      "num": 156710,
-      "word": "符龙飞回应被扒",
-      "onboard_time": 1681461091,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 156523,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1681435347,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143669,
+      "num": 143669,
+      "word": "家里网不好的原因找到了",
+      "onboard_time": 1681463669,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 143328,
@@ -1545,6 +1641,14 @@
       "onboard_time": 1681440447,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133830,
+      "num": 133830,
+      "word": "澹台烬求与叶夕雾一生一世",
+      "onboard_time": 1681463249,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 130840,
@@ -1849,6 +1953,14 @@
       "onboard_time": 1681429646,
       "rank": 45,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 94812,
+      "num": 116124,
+      "word": "上海咖啡泡饭走红",
+      "onboard_time": 1681461928,
+      "rank": 49,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 92281,
