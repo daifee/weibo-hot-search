@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681446034445,
+  "endTime": 1681446882142,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -627,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1398190,
+      "num": 1398190,
+      "word": "乌克兰对小米进行制裁",
+      "onboard_time": 1681443690,
+      "rank": 3,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1381174,
       "num": 1195602,
       "word": "易梦玲素颜",
@@ -833,14 +841,6 @@
       "onboard_time": 1681129645,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1133022,
-      "num": 1133022,
-      "word": "乌克兰对小米进行制裁",
-      "onboard_time": 1681443690,
-      "rank": 3,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 1131099,
@@ -1283,6 +1283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 863869,
+      "num": 863869,
+      "word": "iPhone15Pro音量双按键",
+      "onboard_time": 1681442310,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 863780,
       "num": 863780,
       "word": "法国续租大熊猫欢欢和圆仔",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1681080917,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 853671,
-      "num": 853671,
-      "word": "iPhone15Pro音量双按键",
-      "onboard_time": 1681442310,
-      "rank": 12,
-      "category": "科技"
     },
     {
       "raw_hot": 853174,
@@ -1720,6 +1720,14 @@
       "word": "林俊德去世前曾一次次拒绝儿子探望",
       "onboard_time": 1681086086,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702982,
+      "num": 702982,
+      "word": "你为何不爱发朋友圈了",
+      "onboard_time": 1681442973,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -2443,6 +2451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 573809,
+      "num": 573809,
+      "word": "陈都灵好看",
+      "onboard_time": 1681443512,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 573117,
       "num": 573117,
       "word": "山东事业编",
@@ -2745,14 +2761,6 @@
       "onboard_time": 1681292186,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 531109,
-      "num": 531109,
-      "word": "你为何不爱发朋友圈了",
-      "onboard_time": 1681442973,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530658,
@@ -3136,14 +3144,6 @@
       "word": "冥夜 桑酒",
       "onboard_time": 1681344510,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 469244,
-      "num": 469244,
-      "word": "陈都灵好看",
-      "onboard_time": 1681443512,
-      "rank": 13,
       "category": "影视"
     },
     {
@@ -4099,6 +4099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 391618,
+      "num": 391618,
+      "word": "琴酒赶紧出来干活了",
+      "onboard_time": 1681445309,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391110,
       "num": 318020,
       "word": "减肥才是最低成本的变美",
@@ -4225,6 +4233,14 @@
       "onboard_time": 1681379671,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 368712,
+      "num": 303242,
+      "word": "初稿交了导师让我换个选题",
+      "onboard_time": 1681442850,
+      "rank": 42,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 368497,
@@ -4368,6 +4384,14 @@
       "word": "哈尔滨1944",
       "onboard_time": 1681127547,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 357490,
+      "num": 357490,
+      "word": "张远陆虎王栎鑫为长沙唱歌",
+      "onboard_time": 1681442427,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -4619,14 +4643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 338521,
-      "num": 294782,
-      "word": "初稿交了导师让我换个选题",
-      "onboard_time": 1681442850,
-      "rank": 42,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 338282,
       "num": 338282,
       "word": "电锯人",
@@ -4745,14 +4761,6 @@
       "onboard_time": 1681269807,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 329064,
-      "num": 329064,
-      "word": "张远陆虎王栎鑫为长沙唱歌",
-      "onboard_time": 1681442427,
-      "rank": 28,
-      "category": "影视"
     },
     {
       "raw_hot": 328386,
@@ -5435,6 +5443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284435,
+      "num": 284435,
+      "word": "王一博看到战斗机的反应",
+      "onboard_time": 1681445010,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284094,
       "num": 284094,
       "word": "澹台烬放财神爷一马",
@@ -5737,6 +5753,14 @@
       "onboard_time": 1681103014,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260524,
+      "num": 260524,
+      "word": "为你逆光而来定档",
+      "onboard_time": 1681444950,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 259953,
@@ -6147,6 +6171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238983,
+      "num": 238983,
+      "word": "张小年",
+      "onboard_time": 1681441467,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238928,
       "num": 238928,
       "word": "天府绿道两骑行者相撞1人死亡",
@@ -6185,6 +6217,14 @@
       "onboard_time": 1681302927,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 237492,
+      "num": 237492,
+      "word": "男子要钱未果烧掉对方前妻房子",
+      "onboard_time": 1681442427,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237287,
@@ -6531,11 +6571,11 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 227916,
-      "num": 227916,
-      "word": "王一博看到战斗机的反应",
-      "onboard_time": 1681445010,
-      "rank": 24,
+      "raw_hot": 226810,
+      "num": 226810,
+      "word": "于正说招惹太上头",
+      "onboard_time": 1681444588,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -6553,6 +6593,14 @@
       "onboard_time": 1681108107,
       "rank": 23,
       "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 225421,
+      "num": 225421,
+      "word": "裴珠泫即将solo",
+      "onboard_time": 1681446634,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 225149,
@@ -6617,14 +6665,6 @@
       "onboard_time": 1681183587,
       "rank": 42,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 221560,
-      "num": 221560,
-      "word": "于正说招惹太上头",
-      "onboard_time": 1681444588,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 221373,
@@ -6881,14 +6921,6 @@
       "onboard_time": 1681212805,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 215618,
-      "num": 215618,
-      "word": "男子要钱未果烧掉对方前妻房子",
-      "onboard_time": 1681442427,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215598,
@@ -7195,6 +7227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207846,
+      "num": 207846,
+      "word": "假如小兰不和新一在一起",
+      "onboard_time": 1681446330,
+      "rank": 31,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 207678,
       "num": 207678,
       "word": "十年前的追星手账",
@@ -7320,22 +7360,6 @@
       "word": "桑酒有什么错呢她只是想吃全蛇宴",
       "onboard_time": 1681297647,
       "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 205812,
-      "num": 205812,
-      "word": "张小年",
-      "onboard_time": 1681441467,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205721,
-      "num": 205721,
-      "word": "琴酒赶紧出来干活了",
-      "onboard_time": 1681445309,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -7723,6 +7747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200934,
+      "num": 200934,
+      "word": "奔跑吧宫廷风剧照",
+      "onboard_time": 1681443267,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200852,
       "num": 200852,
       "word": "2023年已经过了快3分之1",
@@ -7848,14 +7880,6 @@
       "word": "唐朝诡事录之西行官宣",
       "onboard_time": 1681273649,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 199259,
-      "num": 199259,
-      "word": "为你逆光而来定档",
-      "onboard_time": 1681444950,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -8163,6 +8187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196736,
+      "num": 191535,
+      "word": "五一档你期待哪部影片",
+      "onboard_time": 1681446030,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196619,
       "num": 196619,
       "word": "投资者对苹果头显缺乏信心原因",
@@ -8329,14 +8361,6 @@
       "onboard_time": 1681113267,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 194094,
-      "num": 194094,
-      "word": "奔跑吧宫廷风剧照",
-      "onboard_time": 1681443267,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 194044,
@@ -8665,6 +8689,14 @@
       "onboard_time": 1681266867,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188560,
+      "num": 188560,
+      "word": "吾陷烬去了",
+      "onboard_time": 1681446451,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 188377,
@@ -9017,6 +9049,14 @@
       "onboard_time": 1681291169,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183589,
+      "num": 183589,
+      "word": "谢谢内蒙森林消防",
+      "onboard_time": 1681445551,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183502,
@@ -9971,14 +10011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158434,
-      "num": 158434,
-      "word": "谢谢内蒙森林消防",
-      "onboard_time": 1681445551,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158355,
       "num": 158355,
       "word": "2023华晨宇火星演唱会",
@@ -10404,7 +10436,7 @@
     },
     {
       "raw_hot": 147943,
-      "num": 147943,
+      "num": 149063,
       "word": "花亦山心之月",
       "onboard_time": 1681440386,
       "rank": 29,
@@ -12305,6 +12337,14 @@
       "onboard_time": 1681150813,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 9804,
+      "num": 1502610,
+      "word": "巩固脱贫成果乡村振兴开新局",
+      "onboard_time": 1681446751,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 5478,
