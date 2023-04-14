@@ -1,0 +1,410 @@
+{
+  "runTime": 1681481743512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4059734,
+        "num": 4059734,
+        "word": "假球",
+        "onboard_time": 1681479568,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2591585,
+        "num": 2591585,
+        "word": "刘恋 薛凯琪",
+        "onboard_time": 1681477826,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109959,
+        "num": 1410926,
+        "word": "中国昆明与老挝万象的双向奔赴",
+        "onboard_time": 1681471346,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335125,
+        "num": 1335125,
+        "word": "泫雅泰国泼水节 舞台上的野马",
+        "onboard_time": 1681478366,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 852019,
+        "num": 852019,
+        "word": "李楠",
+        "onboard_time": 1681479928,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 831441,
+        "num": 831441,
+        "word": "安徽亳州失联爷孙遗体已找到",
+        "onboard_time": 1681470686,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738245,
+        "num": 738245,
+        "word": "女子举报继父上班时间家中约会女性",
+        "onboard_time": 1681471464,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732025,
+        "num": 732025,
+        "word": "忽然发现家里有点钱",
+        "onboard_time": 1681478966,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 725215,
+        "num": 725215,
+        "word": "女儿发现做月嫂的妈妈存款近500万",
+        "onboard_time": 1681461687,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597021,
+        "num": 597021,
+        "word": "陈梦VS孙颖莎",
+        "onboard_time": 1681479630,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1097400,
+        "num": 594415,
+        "word": "许超医生 麻烦网红不要去碰瓷医院",
+        "onboard_time": 1681479869,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 848590,
+        "num": 579123,
+        "word": "传说中杨紫的朋友圈",
+        "onboard_time": 1681465111,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562526,
+        "num": 562526,
+        "word": "刘昊然周冬雨 燃冬",
+        "onboard_time": 1681477108,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484305,
+        "num": 484305,
+        "word": "柯南 处处吻",
+        "onboard_time": 1681472425,
+        "rank": 13,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 483303,
+        "num": 483303,
+        "word": "24岁的周雨彤",
+        "onboard_time": 1681472367,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438858,
+        "num": 438858,
+        "word": "范丞丞把郭麒麟五官认成宋雨琦",
+        "onboard_time": 1681477889,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372597,
+        "num": 372597,
+        "word": "医院回应护士上班戴美甲给患者扎针",
+        "onboard_time": 1681479089,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370849,
+        "num": 370849,
+        "word": "孙珍妮追星成功白鹿",
+        "onboard_time": 1681476747,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328255,
+        "num": 328255,
+        "word": "女心理咨询师卧底约死群8年",
+        "onboard_time": 1681475188,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323662,
+        "num": 323662,
+        "word": "胡歌新电影",
+        "onboard_time": 1681479568,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 721734,
+        "num": 318760,
+        "word": "剖腹产不是划一刀就行的事",
+        "onboard_time": 1681475847,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300536,
+        "num": 300536,
+        "word": "为什么广东胖子少",
+        "onboard_time": 1681475787,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294328,
+        "num": 294328,
+        "word": "好友赚了2000万我却失眠了",
+        "onboard_time": 1681462769,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291529,
+        "num": 291529,
+        "word": "鹿晗给宝石老舅的歌即兴编舞",
+        "onboard_time": 1681481372,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278802,
+        "num": 278802,
+        "word": "女孩离家出走被男子收留后被性侵",
+        "onboard_time": 1681463911,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272076,
+        "num": 272076,
+        "word": "曲婉婷名下两套房产被法拍",
+        "onboard_time": 1681462050,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271535,
+        "num": 271535,
+        "word": "樊振东比赛",
+        "onboard_time": 1681481188,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266128,
+        "num": 266128,
+        "word": "徐明浩青春环游记跳hot",
+        "onboard_time": 1681480051,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258287,
+        "num": 258287,
+        "word": "江苏男篮最后时刻连续失误",
+        "onboard_time": 1681480228,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257485,
+        "num": 257485,
+        "word": "苏州肯帝亚",
+        "onboard_time": 1681479568,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253511,
+        "num": 253511,
+        "word": "崔秀彬",
+        "onboard_time": 1681473386,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218118,
+        "num": 218118,
+        "word": "陈鑫海可爱",
+        "onboard_time": 1681477049,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214400,
+        "num": 214400,
+        "word": "CBA",
+        "onboard_time": 1681479209,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209176,
+        "num": 209176,
+        "word": "音悦台向EXO和粉丝道歉",
+        "onboard_time": 1681464149,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192394,
+        "num": 192394,
+        "word": "建议微信出个头像屏蔽功能",
+        "onboard_time": 1681481010,
+        "rank": 34,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 189302,
+        "num": 189302,
+        "word": "南京红山动物园否认网红猴被霸凌",
+        "onboard_time": 1681480469,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188803,
+        "num": 188803,
+        "word": "李晨把张彬彬五官认成苏醒",
+        "onboard_time": 1681480350,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186197,
+        "num": 186197,
+        "word": "怪盗基德 服部平次",
+        "onboard_time": 1681469426,
+        "rank": 37,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 169426,
+        "num": 169426,
+        "word": "北京WB",
+        "onboard_time": 1681479689,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169309,
+        "num": 169309,
+        "word": "邓超 这只是喜剧效果",
+        "onboard_time": 1681477005,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169213,
+        "num": 169213,
+        "word": "吉安失踪4年童家姐弟疑似被找到",
+        "onboard_time": 1681475247,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164361,
+        "num": 164361,
+        "word": "梁靖崑 林昀儒",
+        "onboard_time": 1681475968,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163483,
+        "num": 163483,
+        "word": "LPL",
+        "onboard_time": 1681476809,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148949,
+        "num": 163482,
+        "word": "CBA季后赛",
+        "onboard_time": 1681478609,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140724,
+        "num": 163478,
+        "word": "王者荣耀",
+        "onboard_time": 1681459947,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137621,
+        "num": 163476,
+        "word": "为什么说女明星是普女",
+        "onboard_time": 1681454606,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134979,
+        "num": 163472,
+        "word": "用过iPhone后你还会用安卓机吗",
+        "onboard_time": 1681458089,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 134373,
+        "num": 163471,
+        "word": "吴磊 常熟",
+        "onboard_time": 1681469787,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134179,
+        "num": 163469,
+        "word": "上海男篮VS江苏男篮",
+        "onboard_time": 1681479689,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130886,
+        "num": 163465,
+        "word": "奔跑吧",
+        "onboard_time": 1681466248,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化有目标有规划有战略#"
+    }
+  }
+}
