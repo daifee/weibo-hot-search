@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681514216086,
+  "endTime": 1681515220131,
   "band_list": [
     {
       "raw_hot": 1959237,
@@ -11,6 +11,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1359655,
+      "num": 1359655,
+      "word": "生源都不足了还要高价抢学区房吗",
+      "onboard_time": 1681503313,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1316149,
       "num": 1316149,
       "word": "建议微信出个头像屏蔽功能",
@@ -19,20 +27,12 @@
       "category": "幽默,科技"
     },
     {
-      "raw_hot": 1202818,
-      "num": 1202818,
+      "raw_hot": 1215179,
+      "num": 1215179,
       "word": "姚明",
       "onboard_time": 1681487786,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 997516,
-      "num": 997516,
-      "word": "生源都不足了还要高价抢学区房吗",
-      "onboard_time": 1681503313,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 977198,
@@ -65,6 +65,14 @@
       "onboard_time": 1681478366,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 675922,
+      "num": 675922,
+      "word": "篮协要求调查上海江苏季后赛",
+      "onboard_time": 1681513819,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 562298,
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249062,
-      "num": 249062,
-      "word": "篮协要求调查上海江苏季后赛",
-      "onboard_time": 1681513819,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245218,
       "num": 245218,
       "word": "擅长溺爱的粉丝",
@@ -187,20 +187,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239610,
-      "num": 198539,
-      "word": "腾讯视频不是吧我变成超人了",
-      "onboard_time": 1681513878,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 238146,
-      "num": 238146,
+      "raw_hot": 243161,
+      "num": 243161,
       "word": "女子被质疑有房炫富还能申请到公租房",
       "onboard_time": 1681504752,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 239610,
+      "num": 212011,
+      "word": "腾讯视频不是吧我变成超人了",
+      "onboard_time": 1681513878,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 222426,
@@ -251,6 +251,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 194853,
+      "num": 194853,
+      "word": "宁波高速奥迪掉落砸中百万宝马",
+      "onboard_time": 1681493539,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194566,
       "num": 194566,
       "word": "Angelababy说范丞丞返祖了",
@@ -283,11 +291,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177251,
-      "num": 177251,
-      "word": "宁波高速奥迪掉落砸中百万宝马",
-      "onboard_time": 1681493539,
-      "rank": 49,
+      "raw_hot": 172358,
+      "num": 172358,
+      "word": "雨后春笋2天长30厘米顶翻木桌",
+      "onboard_time": 1681502113,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -323,12 +331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155206,
-      "num": 155206,
-      "word": "雨后春笋2天长30厘米顶翻木桌",
-      "onboard_time": 1681502113,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 148602,
+      "num": 148602,
+      "word": "更适合中国宝宝的医美",
+      "onboard_time": 1681513939,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 140727,
@@ -379,6 +387,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 102652,
+      "num": 102652,
+      "word": "幼升小offer",
+      "onboard_time": 1681514598,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 101144,
       "num": 109858,
       "word": "吴磊 常熟",
@@ -392,6 +408,14 @@
       "word": "鹿晗给宝石老舅的歌即兴编舞",
       "onboard_time": 1681481372,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97651,
+      "num": 97651,
+      "word": "大张伟的回答合理且离谱",
+      "onboard_time": 1681492640,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -419,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 93072,
-      "num": 93072,
-      "word": "大张伟的回答合理且离谱",
-      "onboard_time": 1681492640,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 89153,
       "num": 109732,
       "word": "WB战胜eStar",
@@ -451,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84098,
+      "num": 84098,
+      "word": "冥夜是蛟龙不是恐龙",
+      "onboard_time": 1681504332,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 82272,
       "num": 109678,
       "word": "南京红山动物园否认网红猴被霸凌",
@@ -464,14 +488,6 @@
       "word": "喜欢一个人你会主动追吗",
       "onboard_time": 1681491262,
       "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 64614,
-      "num": 64614,
-      "word": "更适合中国宝宝的医美",
-      "onboard_time": 1681513939,
-      "rank": 33,
       "category": "情感"
     },
     {
@@ -489,14 +505,6 @@
       "onboard_time": 1681471346,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52959,
-      "num": 51948,
-      "word": "冥夜是蛟龙不是恐龙",
-      "onboard_time": 1681504332,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 46659,
