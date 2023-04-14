@@ -1,7 +1,15 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681428822486,
+  "endTime": 1681435297509,
   "band_list": [
+    {
+      "raw_hot": 3037186,
+      "num": 3037186,
+      "word": "柯哀亲了",
+      "onboard_time": 1681430489,
+      "rank": 0,
+      "category": "动漫,影视"
+    },
     {
       "raw_hot": 1468739,
       "num": 308547,
@@ -19,6 +27,46 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1114853,
+      "num": 371388,
+      "word": "五角大楼军机泄密者是20多岁小伙",
+      "onboard_time": 1681427542,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799302,
+      "num": 799302,
+      "word": "小哀把吻还给了小兰",
+      "onboard_time": 1681433968,
+      "rank": 3,
+      "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 728550,
+      "num": 363930,
+      "word": "广东人为何最敢生娃",
+      "onboard_time": 1681433489,
+      "rank": 11,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 697271,
+      "num": 360165,
+      "word": "睡眠时间越长就越好吗",
+      "onboard_time": 1681430125,
+      "rank": 12,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 625039,
+      "num": 353204,
+      "word": "这些常喝的饮料竟然都是糖分刺客",
+      "onboard_time": 1681429525,
+      "rank": 13,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 614883,
       "num": 163787,
       "word": "我国未婚女性不能申请精子库",
@@ -27,7 +75,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570534,
+      "raw_hot": 576339,
       "num": 187794,
       "word": "北大全嘻嘻 清华张小年",
       "onboard_time": 1681378889,
@@ -43,8 +91,32 @@
       "category": "影视"
     },
     {
+      "raw_hot": 542718,
+      "num": 542718,
+      "word": "新兰",
+      "onboard_time": 1681433009,
+      "rank": 4,
+      "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 503218,
+      "num": 344299,
+      "word": "微信内测朋友圈置顶功能",
+      "onboard_time": 1681433788,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 487053,
+      "num": 487053,
+      "word": "大熊猫已经给乌鸦足够的体面",
+      "onboard_time": 1681428021,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418419,
-      "num": 187549,
+      "num": 210229,
       "word": "16岁女孩经常胃胀被查出胃癌晚期",
       "onboard_time": 1681400130,
       "rank": 21,
@@ -57,6 +129,14 @@
       "onboard_time": 1681394555,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 410486,
+      "num": 410486,
+      "word": "流朱让甄嬛闻石楠花的香气",
+      "onboard_time": 1681429407,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 394821,
@@ -91,6 +171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 341867,
+      "num": 341867,
+      "word": "殷桃的腰",
+      "onboard_time": 1681431687,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331328,
       "num": 331328,
       "word": "罗云熙白鹿发文告别冥夜桑酒",
@@ -107,6 +195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 308275,
+      "num": 308275,
+      "word": "毕业论文的导师都是语言大师",
+      "onboard_time": 1681432349,
+      "rank": 16,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 306885,
       "num": 306885,
       "word": "崔胜澈 克拉盘",
@@ -116,7 +212,7 @@
     },
     {
       "raw_hot": 301795,
-      "num": 187392,
+      "num": 209933,
       "word": "二十五六岁谈段恋爱有多难",
       "onboard_time": 1681395993,
       "rank": 22,
@@ -147,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239923,
+      "num": 239923,
+      "word": "e人聚会",
+      "onboard_time": 1681429465,
+      "rank": 17,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 236255,
       "num": 312884,
       "word": "徐峥应该上综艺节目吗",
@@ -171,8 +275,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215052,
+      "num": 215052,
+      "word": "SEVENTEEN致敬楚门的世界",
+      "onboard_time": 1681429166,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213227,
-      "num": 213227,
+      "num": 384255,
       "word": "中国中车",
       "onboard_time": 1681401209,
       "rank": 16,
@@ -180,7 +292,7 @@
     },
     {
       "raw_hot": 210973,
-      "num": 186946,
+      "num": 190581,
       "word": "何悯鸿怀孕",
       "onboard_time": 1681389090,
       "rank": 24,
@@ -195,12 +307,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208045,
+      "num": 208045,
+      "word": "仙侠剧恶毒女配之最",
+      "onboard_time": 1681429045,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204621,
       "num": 204621,
       "word": "李天泽中音音乐学系专业第一",
       "onboard_time": 1681392092,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199079,
+      "num": 199079,
+      "word": "司机车祸山东大哥手撕车窗救人",
+      "onboard_time": 1681428502,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 198333,
@@ -211,8 +339,16 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 198153,
+      "num": 210448,
+      "word": "B站就上传用户真人照片致歉",
+      "onboard_time": 1681413434,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 191088,
-      "num": 310186,
+      "num": 375141,
       "word": "我国制裁一名美国反华议员",
       "onboard_time": 1681391671,
       "rank": 9,
@@ -235,14 +371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178810,
-      "num": 108238,
-      "word": "五角大楼军机泄密者是20多岁小伙",
-      "onboard_time": 1681427542,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171559,
       "num": 171559,
       "word": "虞书欣首张个人EP收官vlog",
@@ -260,7 +388,7 @@
     },
     {
       "raw_hot": 154350,
-      "num": 92541,
+      "num": 127341,
       "word": "江疏影李浩菲直播用假手握手",
       "onboard_time": 1681409715,
       "rank": 47,
@@ -273,6 +401,14 @@
       "onboard_time": 1681384949,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149278,
+      "num": 149278,
+      "word": "涉疫货车司机仍被监视居住",
+      "onboard_time": 1681428323,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146670,
@@ -339,6 +475,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128819,
+      "num": 128819,
+      "word": "人民日报刊文谈青少年短视频沉迷",
+      "onboard_time": 1681434510,
+      "rank": 33,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 125121,
+      "num": 125121,
+      "word": "罗云熙符龙飞的双人舞",
+      "onboard_time": 1681429887,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124592,
       "num": 124592,
       "word": "张杰身骑白马戏腔",
@@ -347,12 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123626,
-      "num": 106948,
-      "word": "大熊猫已经给乌鸦足够的体面",
-      "onboard_time": 1681428021,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 122951,
+      "num": 122951,
+      "word": "电竞百灵鸟一诺再上线",
+      "onboard_time": 1681433308,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 120974,
@@ -387,12 +539,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 112578,
-      "num": 106439,
-      "word": "B站就上传用户真人照片致歉",
-      "onboard_time": 1681413434,
-      "rank": 12,
-      "category": "科技"
+      "raw_hot": 111134,
+      "num": 111134,
+      "word": "长月烬明周一见",
+      "onboard_time": 1681434568,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 108635,
@@ -400,6 +552,14 @@
       "word": "烟台黄渤海迷笛音乐节",
       "onboard_time": 1681390829,
       "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 107549,
+      "num": 107549,
+      "word": "防弹少年团演唱BASTIONS主题曲",
+      "onboard_time": 1681433847,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -419,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101386,
+      "num": 101386,
+      "word": "烟台山火已扑灭无人员伤亡",
+      "onboard_time": 1681434149,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100730,
       "num": 100730,
       "word": "王国之泪最终预告",
@@ -427,11 +595,51 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99999,
+      "num": 99999,
+      "word": "马奎尔乌龙",
+      "onboard_time": 1681433187,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98948,
       "num": 98948,
       "word": "马琳离场",
       "onboard_time": 1681389693,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97741,
+      "num": 97741,
+      "word": "知楠而退",
+      "onboard_time": 1681434388,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 97538,
+      "num": 97538,
+      "word": "海南警方沉浸式曝光键盘侠套路",
+      "onboard_time": 1681435046,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95507,
+      "num": 95507,
+      "word": "灌篮高手成动画片零点场票房冠军",
+      "onboard_time": 1681429646,
+      "rank": 45,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 92281,
+      "num": 92281,
+      "word": "利马伤退",
+      "onboard_time": 1681429284,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -451,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86325,
+      "num": 86325,
+      "word": "冥夜桑酒断舍离",
+      "onboard_time": 1681432531,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 84871,
       "num": 84871,
       "word": "影评人说王一博无名表演印象深刻",
@@ -459,20 +675,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 81336,
-      "num": 72803,
-      "word": "涉疫货车司机仍被监视居住",
-      "onboard_time": 1681428323,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77308,
       "num": 77308,
       "word": "KSG廉颇打野",
       "onboard_time": 1681396593,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75137,
+      "num": 75137,
+      "word": "职场title升级",
+      "onboard_time": 1681433609,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 71852,
@@ -513,14 +729,6 @@
       "onboard_time": 1681382551,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 50226,
-      "num": 50226,
-      "word": "司机车祸山东大哥手撕车窗救人",
-      "onboard_time": 1681428502,
-      "rank": 45,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 47899,
@@ -579,8 +787,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 22173,
-      "num": 436185,
+      "raw_hot": 22306,
+      "num": 802210,
       "word": "钢铁丝路好风光",
       "onboard_time": 1681391671,
       "rank": 2,
