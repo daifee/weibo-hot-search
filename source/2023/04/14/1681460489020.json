@@ -1,0 +1,410 @@
+{
+  "runTime": 1681460489020,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2192863,
+        "num": 2192863,
+        "word": "12306",
+        "onboard_time": 1681453767,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1391865,
+        "num": 1391865,
+        "word": "娜扎好像敦煌神女下凡了",
+        "onboard_time": 1681454487,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32263,
+        "num": 1076620,
+        "word": "巩固脱贫成果乡村振兴开新局",
+        "onboard_time": 1681446751,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 955858,
+        "num": 955858,
+        "word": "为什么说女明星是普女",
+        "onboard_time": 1681454606,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 930899,
+        "num": 930899,
+        "word": "Viper",
+        "onboard_time": 1681459109,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 886221,
+        "num": 886221,
+        "word": "彝族姑娘果果自曝老公出轨",
+        "onboard_time": 1681454966,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860297,
+        "num": 860297,
+        "word": "南京网红暴猴遭霸凌长期水上漂",
+        "onboard_time": 1681457666,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653324,
+        "num": 653324,
+        "word": "明道 感谢大家记得单均昊和叶天喻",
+        "onboard_time": 1681457069,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586171,
+        "num": 586171,
+        "word": "用过iPhone后你还会用安卓机吗",
+        "onboard_time": 1681458089,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 585382,
+        "num": 585382,
+        "word": "你一旦熬过夜",
+        "onboard_time": 1681455447,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 538935,
+        "num": 538935,
+        "word": "BoysPlanet涉嫌造假",
+        "onboard_time": 1681457909,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530438,
+        "num": 530438,
+        "word": "王者荣耀",
+        "onboard_time": 1681459947,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 504289,
+        "num": 504289,
+        "word": "为什么牙科医生都穿洞洞鞋",
+        "onboard_time": 1681458208,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490169,
+        "num": 490169,
+        "word": "淮阴工学院",
+        "onboard_time": 1681454066,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 484263,
+        "num": 484263,
+        "word": "金晨 泰国泼水音乐节",
+        "onboard_time": 1681453708,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462484,
+        "num": 462484,
+        "word": "陈都灵cos的赤木晴子",
+        "onboard_time": 1681459227,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 414326,
+        "num": 414326,
+        "word": "周三放假非常科学的理由",
+        "onboard_time": 1681457848,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396625,
+        "num": 396625,
+        "word": "iPhone15Pro音量双按键",
+        "onboard_time": 1681442310,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 345361,
+        "num": 345361,
+        "word": "原来白鹿也缺牙",
+        "onboard_time": 1681453345,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330628,
+        "num": 330628,
+        "word": "罗云熙的身高",
+        "onboard_time": 1681459947,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 352996,
+        "num": 329978,
+        "word": "校方回应教师朋友圈发遗言后跳楼",
+        "onboard_time": 1681454367,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 328726,
+        "num": 328726,
+        "word": "为什么九成的手机品牌消失了",
+        "onboard_time": 1681458510,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 326124,
+        "num": 326124,
+        "word": "何超莲何超琼同框合照",
+        "onboard_time": 1681458628,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300197,
+        "num": 300197,
+        "word": "发遗言后轻生老师妻子发声",
+        "onboard_time": 1681457188,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292293,
+        "num": 292293,
+        "word": "林生斌",
+        "onboard_time": 1681441467,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260396,
+        "num": 260396,
+        "word": "GUCCI肖战新图",
+        "onboard_time": 1681452268,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241140,
+        "num": 241140,
+        "word": "aespa将5月8日回归",
+        "onboard_time": 1681458510,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258270,
+        "num": 233811,
+        "word": "小娇妻",
+        "onboard_time": 1681452146,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222896,
+        "num": 222896,
+        "word": "小哀把吻还给了小兰",
+        "onboard_time": 1681433968,
+        "rank": 28,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 184928,
+        "num": 222746,
+        "word": "女子遭遇诈骗24名同事刷屏提醒",
+        "onboard_time": 1681448971,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222705,
+        "num": 222705,
+        "word": "张婧仪花朵编发",
+        "onboard_time": 1681457426,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217308,
+        "num": 217308,
+        "word": "长月烬明加更了吗",
+        "onboard_time": 1681457848,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209673,
+        "num": 209673,
+        "word": "Twins香槟蛋糕裙造型",
+        "onboard_time": 1681460310,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205622,
+        "num": 205622,
+        "word": "林生斌潼臻一生公司已注销",
+        "onboard_time": 1681438945,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 205045,
+        "num": 205045,
+        "word": "一旦熬过夜你这辈子就定型了",
+        "onboard_time": 1681459769,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200530,
+        "num": 200530,
+        "word": "带薪喝水的杯子有多讲究",
+        "onboard_time": 1681453466,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196890,
+        "num": 196890,
+        "word": "国家安全日",
+        "onboard_time": 1681459947,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174348,
+        "num": 174348,
+        "word": "男子菜地里种罂粟和虞美人混一起",
+        "onboard_time": 1681451608,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169731,
+        "num": 169731,
+        "word": "EXO机场生图",
+        "onboard_time": 1681454606,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169080,
+        "num": 169080,
+        "word": "流浪地球2流浪到鹅家",
+        "onboard_time": 1681459530,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165839,
+        "num": 165839,
+        "word": "声生不息歌手初印象和现印象",
+        "onboard_time": 1681455686,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164031,
+        "num": 164031,
+        "word": "杨颖说加入了李晨的假发片团队",
+        "onboard_time": 1681459827,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152615,
+        "num": 152615,
+        "word": "马天宇被AI认可的演技",
+        "onboard_time": 1681458928,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149739,
+        "num": 149739,
+        "word": "教资面试难考吗",
+        "onboard_time": 1681458328,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149379,
+        "num": 149379,
+        "word": "淄博烧烤",
+        "onboard_time": 1681455928,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147147,
+        "num": 147147,
+        "word": "jinni艺名改为jini",
+        "onboard_time": 1681460067,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144672,
+        "num": 144672,
+        "word": "符龙飞的命也是命",
+        "onboard_time": 1681451848,
+        "rank": 46,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 125995,
+        "num": 125995,
+        "word": "流浪地球2全网上线",
+        "onboard_time": 1681460248,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113477,
+        "num": 113477,
+        "word": "你为何不爱发朋友圈了",
+        "onboard_time": 1681442973,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92210,
+        "num": 106995,
+        "word": "Tabe决赛想3比0对手",
+        "onboard_time": 1681457727,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化有目标有规划有战略#"
+    }
+  }
+}
