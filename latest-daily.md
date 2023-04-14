@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/15 00:22:55 ~ 2023/04/15 05:14:44
+本榜单时间：2023/04/15 00:22:55 ~ 2023/04/15 05:33:36
 </p>
 </blockquote>
 <p>
@@ -279,6 +279,12 @@ Angelababy说范丞丞返祖了（热度：194566）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%BA%90%E9%83%BD%E4%B8%8D%E8%B6%B3%E4%BA%86%E8%BF%98%E8%A6%81%E9%AB%98%E4%BB%B7%E6%8A%A2%E5%AD%A6%E5%8C%BA%E6%88%BF%E5%90%97%23" target="weibo">
+生源都不足了还要高价抢学区房吗（热度：98207）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E7%9B%97%E5%9F%BA%E5%BE%B7%20%E6%9C%8D%E9%83%A8%E5%B9%B3%E6%AC%A1%23" target="weibo">
 怪盗基德 服部平次（热度：97563）
 </a>
@@ -321,12 +327,6 @@ WB战胜eStar（热度：89153）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%BA%90%E9%83%BD%E4%B8%8D%E8%B6%B3%E4%BA%86%E8%BF%98%E8%A6%81%E9%AB%98%E4%BB%B7%E6%8A%A2%E5%AD%A6%E5%8C%BA%E6%88%BF%E5%90%97%23" target="weibo">
-生源都不足了还要高价抢学区房吗（热度：81167）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BD%A0%E4%BC%9A%E4%B8%BB%E5%8A%A8%E8%BF%BD%E5%90%97%23" target="weibo">
 喜欢一个人你会主动追吗（热度：75962）
 </a>
@@ -335,6 +335,12 @@ WB战胜eStar（热度：89153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%9A%84%E5%9B%9E%E7%AD%94%E5%90%88%E7%90%86%E4%B8%94%E7%A6%BB%E8%B0%B1%23" target="weibo">
 大张伟的回答合理且离谱（热度：74781）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%89%E6%88%BF%E7%82%AB%E5%AF%8C%E8%BF%98%E8%83%BD%E7%94%B3%E8%AF%B7%E5%88%B0%E5%85%AC%E7%A7%9F%E6%88%BF%23" target="weibo">
+女子被质疑有房炫富还能申请到公租房（热度：73287）
 </a>
 </li>
 
@@ -351,12 +357,6 @@ INTO1最后一次换头像（热度：60326）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%89%E6%88%BF%E7%82%AB%E5%AF%8C%E8%BF%98%E8%83%BD%E7%94%B3%E8%AF%B7%E5%88%B0%E5%85%AC%E7%A7%9F%E6%88%BF%23" target="weibo">
-女子被质疑有房炫富还能申请到公租房（热度：55236）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23LPL%23" target="weibo">
 LPL（热度：46659）
 </a>
@@ -364,13 +364,13 @@ LPL（热度：46659）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%A8%E5%90%8E%E6%98%A5%E7%AC%8B2%E5%A4%A9%E9%95%BF30%E5%8E%98%E7%B1%B3%E9%A1%B6%E7%BF%BB%E6%9C%A8%E6%A1%8C%23" target="weibo">
-雨后春笋2天长30厘米顶翻木桌（热度：30975）
+雨后春笋2天长30厘米顶翻木桌（热度：34457）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%A5%E5%A4%9C%E6%98%AF%E8%9B%9F%E9%BE%99%E4%B8%8D%E6%98%AF%E6%81%90%E9%BE%99%23" target="weibo">
-冥夜是蛟龙不是恐龙（热度：17581）
+冥夜是蛟龙不是恐龙（热度：20007）
 </a>
 </li>
 
