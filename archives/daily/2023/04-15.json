@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681510557558,
+  "endTime": 1681511598391,
   "band_list": [
     {
       "raw_hot": 1959237,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273841,
+      "num": 273841,
+      "word": "生源都不足了还要高价抢学区房吗",
+      "onboard_time": 1681503313,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 258966,
       "num": 258966,
       "word": "姐弟恋是怎么突然盛行起来的",
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192872,
+      "num": 192872,
+      "word": "女子被质疑有房炫富还能申请到公租房",
+      "onboard_time": 1681504752,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 188824,
       "num": 188824,
       "word": "老道",
@@ -249,14 +265,6 @@
       "onboard_time": 1681479928,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185068,
-      "num": 185068,
-      "word": "生源都不足了还要高价抢学区房吗",
-      "onboard_time": 1681503313,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 169536,
@@ -289,14 +297,6 @@
       "onboard_time": 1681462769,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145274,
-      "num": 145274,
-      "word": "女子被质疑有房炫富还能申请到公租房",
-      "onboard_time": 1681504752,
-      "rank": 13,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 140727,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65923,
+      "num": 65923,
+      "word": "雨后春笋2天长30厘米顶翻木桌",
+      "onboard_time": 1681502113,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60326,
       "num": 60326,
       "word": "INTO1最后一次换头像",
@@ -459,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52118,
-      "num": 52118,
-      "word": "雨后春笋2天长30厘米顶翻木桌",
-      "onboard_time": 1681502113,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46659,
       "num": 62707,
       "word": "LPL",
@@ -475,20 +475,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32335,
-      "num": 32335,
-      "word": "冥夜是蛟龙不是恐龙",
-      "onboard_time": 1681504332,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 19685,
-      "num": 21022,
+      "raw_hot": 33889,
+      "num": 33889,
       "word": "你好星期六新预告好费脸",
       "onboard_time": 1681509913,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32601,
+      "num": 32601,
+      "word": "冥夜是蛟龙不是恐龙",
+      "onboard_time": 1681504332,
+      "rank": 49,
+      "category": "影视"
     }
   ],
   "hotgov_list": [

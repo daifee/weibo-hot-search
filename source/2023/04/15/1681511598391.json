@@ -1,0 +1,410 @@
+{
+  "runTime": 1681511598391,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 589826,
+        "num": 589826,
+        "word": "姚明",
+        "onboard_time": 1681487786,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273841,
+        "num": 273841,
+        "word": "生源都不足了还要高价抢学区房吗",
+        "onboard_time": 1681503313,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 20295,
+        "num": 240799,
+        "word": "中国昆明与老挝万象的双向奔赴",
+        "onboard_time": 1681471346,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221675,
+        "num": 221675,
+        "word": "建议微信出个头像屏蔽功能",
+        "onboard_time": 1681481010,
+        "rank": 3,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 192872,
+        "num": 192872,
+        "word": "女子被质疑有房炫富还能申请到公租房",
+        "onboard_time": 1681504752,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 187920,
+        "num": 187920,
+        "word": "假球",
+        "onboard_time": 1681479568,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175844,
+        "num": 175844,
+        "word": "泫雅泰国泼水节 舞台上的野马",
+        "onboard_time": 1681478366,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161061,
+        "num": 161061,
+        "word": "淄博文旅局长",
+        "onboard_time": 1681485328,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131287,
+        "num": 131287,
+        "word": "医院回应护士上班戴美甲给患者扎针",
+        "onboard_time": 1681479089,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104371,
+        "num": 104371,
+        "word": "五哈 小婉",
+        "onboard_time": 1681481851,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269791,
+        "num": 104072,
+        "word": "许超医生 麻烦网红不要去碰瓷医院",
+        "onboard_time": 1681479869,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197503,
+        "num": 102844,
+        "word": "刘恋 薛凯琪",
+        "onboard_time": 1681477826,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128355,
+        "num": 102208,
+        "word": "传说中杨紫的朋友圈",
+        "onboard_time": 1681465111,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100776,
+        "num": 100776,
+        "word": "女孩离家出走被男子收留后被性侵",
+        "onboard_time": 1681463911,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84215,
+        "num": 84215,
+        "word": "宁波高速奥迪掉落砸中百万宝马",
+        "onboard_time": 1681493539,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81976,
+        "num": 81976,
+        "word": "姐弟恋是怎么突然盛行起来的",
+        "onboard_time": 1681491322,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68011,
+        "num": 68011,
+        "word": "女儿发现做月嫂的妈妈存款近500万",
+        "onboard_time": 1681461687,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65923,
+        "num": 65923,
+        "word": "雨后春笋2天长30厘米顶翻木桌",
+        "onboard_time": 1681502113,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65664,
+        "num": 65664,
+        "word": "忽然发现家里有点钱",
+        "onboard_time": 1681478966,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62587,
+        "num": 62587,
+        "word": "清华张小年",
+        "onboard_time": 1681486649,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59784,
+        "num": 59784,
+        "word": "女子举报继父上班时间家中约会女性",
+        "onboard_time": 1681471464,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58720,
+        "num": 58720,
+        "word": "就差手把手教女生们怎么选男人",
+        "onboard_time": 1681479509,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 55175,
+        "num": 55175,
+        "word": "陈都灵演技",
+        "onboard_time": 1681483771,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50421,
+        "num": 50421,
+        "word": "为什么广东胖子少",
+        "onboard_time": 1681475787,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49933,
+        "num": 49933,
+        "word": "大张伟的回答合理且离谱",
+        "onboard_time": 1681492640,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49736,
+        "num": 49736,
+        "word": "刘昊然周冬雨 燃冬",
+        "onboard_time": 1681477108,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 47274,
+        "num": 47274,
+        "word": "安徽亳州失联爷孙遗体已找到",
+        "onboard_time": 1681470686,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43039,
+        "num": 43039,
+        "word": "中国成功实施陆基中段反导拦截技术试验",
+        "onboard_time": 1681482151,
+        "rank": 27,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 42353,
+        "num": 42353,
+        "word": "柯南 处处吻",
+        "onboard_time": 1681472425,
+        "rank": 28,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 40366,
+        "num": 40366,
+        "word": "江苏男篮最后时刻连续失误",
+        "onboard_time": 1681480228,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38683,
+        "num": 38683,
+        "word": "孙颖莎4比0陈梦",
+        "onboard_time": 1681484430,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37671,
+        "num": 37671,
+        "word": "曲婉婷名下两套房产被法拍",
+        "onboard_time": 1681462050,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36273,
+        "num": 36273,
+        "word": "好友赚了2000万我却失眠了",
+        "onboard_time": 1681462769,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35884,
+        "num": 35884,
+        "word": "李楠",
+        "onboard_time": 1681479928,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33889,
+        "num": 33889,
+        "word": "你好星期六新预告好费脸",
+        "onboard_time": 1681509913,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32982,
+        "num": 32982,
+        "word": "马布里 Lol",
+        "onboard_time": 1681485570,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32601,
+        "num": 32601,
+        "word": "冥夜是蛟龙不是恐龙",
+        "onboard_time": 1681504332,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31994,
+        "num": 31994,
+        "word": "南京红山动物园否认网红猴被霸凌",
+        "onboard_time": 1681480469,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31921,
+        "num": 31921,
+        "word": "Angelababy说范丞丞返祖了",
+        "onboard_time": 1681485627,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30487,
+        "num": 30487,
+        "word": "CBA",
+        "onboard_time": 1681479209,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30038,
+        "num": 30038,
+        "word": "喜欢一个人你会主动追吗",
+        "onboard_time": 1681491262,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30036,
+        "num": 30036,
+        "word": "江苏肯帝亚",
+        "onboard_time": 1681482091,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29624,
+        "num": 29624,
+        "word": "孙珍妮追星成功白鹿",
+        "onboard_time": 1681476747,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29515,
+        "num": 29515,
+        "word": "樊振东比赛",
+        "onboard_time": 1681481188,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26698,
+        "num": 29515,
+        "word": "24岁的周雨彤",
+        "onboard_time": 1681472367,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20679,
+        "num": 29515,
+        "word": "薛之谦粤语口音走丢两年还没回来",
+        "onboard_time": 1681484190,
+        "rank": 45,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 20677,
+        "num": 29514,
+        "word": "吴磊 常熟",
+        "onboard_time": 1681469787,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 18913,
+        "num": 29513,
+        "word": "老道",
+        "onboard_time": 1681485151,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17635,
+        "num": 29512,
+        "word": "WB战胜eStar",
+        "onboard_time": 1681484730,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14859,
+        "num": 29512,
+        "word": "王者荣耀",
+        "onboard_time": 1681459947,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统举行会谈#"
+    }
+  }
+}
