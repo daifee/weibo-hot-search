@@ -1,0 +1,410 @@
+{
+  "runTime": 1681454126643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 766653,
+        "num": 766653,
+        "word": "小哀把吻还给了小兰",
+        "onboard_time": 1681433968,
+        "rank": 0,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 655484,
+        "num": 655484,
+        "word": "iPhone15Pro音量双按键",
+        "onboard_time": 1681442310,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 32729,
+        "num": 594404,
+        "word": "巩固脱贫成果乡村振兴开新局",
+        "onboard_time": 1681446751,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 554049,
+        "num": 554049,
+        "word": "女子遭遇诈骗24名同事刷屏提醒",
+        "onboard_time": 1681448971,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507128,
+        "num": 507128,
+        "word": "GUCCI肖战新图",
+        "onboard_time": 1681452268,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 960459,
+        "num": 499699,
+        "word": "林生斌",
+        "onboard_time": 1681441467,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472063,
+        "num": 472063,
+        "word": "男子菜地里种罂粟和虞美人混一起",
+        "onboard_time": 1681451608,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467477,
+        "num": 467477,
+        "word": "全红婵陈芋汐跳水世界杯金牌",
+        "onboard_time": 1681444110,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459700,
+        "num": 459700,
+        "word": "人民网评尘封十三载",
+        "onboard_time": 1681450286,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 418050,
+        "num": 418050,
+        "word": "为什么杭州的姐弟恋越来越多",
+        "onboard_time": 1681439306,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 740685,
+        "num": 410664,
+        "word": "小娇妻",
+        "onboard_time": 1681452146,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333045,
+        "num": 333045,
+        "word": "张艺兴单依纯马伯骞Allin上线",
+        "onboard_time": 1681448371,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332569,
+        "num": 332569,
+        "word": "男子拒付停车费顶着收费员开7公里",
+        "onboard_time": 1681449388,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541536,
+        "num": 331755,
+        "word": "林生斌潼臻一生公司已注销",
+        "onboard_time": 1681438945,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 325716,
+        "num": 325716,
+        "word": "罗云熙舌苔一看就没有湿气",
+        "onboard_time": 1681437565,
+        "rank": 14,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 309634,
+        "num": 309634,
+        "word": "云南两女孩因骑摩托车发生事故去世",
+        "onboard_time": 1681437147,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289117,
+        "num": 289117,
+        "word": "原来白鹿也缺牙",
+        "onboard_time": 1681453345,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271100,
+        "num": 271100,
+        "word": "刘雅瑟随地丢烟头",
+        "onboard_time": 1681447590,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266545,
+        "num": 266545,
+        "word": "安徽爷孙失联前曾被村民遇到",
+        "onboard_time": 1681447173,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264927,
+        "num": 264927,
+        "word": "你为何不爱发朋友圈了",
+        "onboard_time": 1681442973,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375710,
+        "num": 261073,
+        "word": "魏大勋一句话骗到两个人",
+        "onboard_time": 1681448371,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255536,
+        "num": 255536,
+        "word": "假如小兰不和新一在一起",
+        "onboard_time": 1681446330,
+        "rank": 21,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 244364,
+        "num": 244364,
+        "word": "LPL春决媒体发布会",
+        "onboard_time": 1681451789,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228980,
+        "num": 228980,
+        "word": "陈都灵好看",
+        "onboard_time": 1681443512,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204923,
+        "num": 204923,
+        "word": "符龙飞的命也是命",
+        "onboard_time": 1681451848,
+        "rank": 24,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 191078,
+        "num": 191078,
+        "word": "裴珠泫即将solo",
+        "onboard_time": 1681446634,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188412,
+        "num": 188412,
+        "word": "金晨 泰国泼水音乐节",
+        "onboard_time": 1681453708,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187914,
+        "num": 187914,
+        "word": "带薪喝水的杯子有多讲究",
+        "onboard_time": 1681453466,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185454,
+        "num": 185454,
+        "word": "张朝阳建议年轻人别睡懒觉",
+        "onboard_time": 1681438047,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184408,
+        "num": 184408,
+        "word": "苹果5G芯片最快2025年将量产",
+        "onboard_time": 1681447713,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 179938,
+        "num": 179938,
+        "word": "招惹",
+        "onboard_time": 1681448550,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179282,
+        "num": 179282,
+        "word": "琴酒赶紧出来干活了",
+        "onboard_time": 1681445309,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175257,
+        "num": 175257,
+        "word": "12306",
+        "onboard_time": 1681453767,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171233,
+        "num": 171233,
+        "word": "招惹男主居然是于正家的演员",
+        "onboard_time": 1681451487,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149538,
+        "num": 149538,
+        "word": "全国各地的桑酒",
+        "onboard_time": 1681451969,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146057,
+        "num": 146057,
+        "word": "初稿交了导师让我换个选题",
+        "onboard_time": 1681442850,
+        "rank": 35,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 143241,
+        "num": 143241,
+        "word": "极限挑战第九季预告片",
+        "onboard_time": 1681452927,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142796,
+        "num": 142796,
+        "word": "黎姿谈金枝欲孽",
+        "onboard_time": 1681453286,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142281,
+        "num": 142281,
+        "word": "马力欧之父给小桀送礼物",
+        "onboard_time": 1681449388,
+        "rank": 38,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 137692,
+        "num": 137692,
+        "word": "周末可以精简到只有睡觉",
+        "onboard_time": 1681452927,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136159,
+        "num": 136159,
+        "word": "高圆圆穿搭vlog",
+        "onboard_time": 1681453528,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130950,
+        "num": 130950,
+        "word": "Jennie收到戛纳电影节邀请",
+        "onboard_time": 1681442850,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129900,
+        "num": 129900,
+        "word": "柯哀亲了",
+        "onboard_time": 1681430489,
+        "rank": 42,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 127315,
+        "num": 127315,
+        "word": "胃是怎样一步步癌变的",
+        "onboard_time": 1681440748,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126382,
+        "num": 126382,
+        "word": "杨烁李萌萌酒后对手戏",
+        "onboard_time": 1681451189,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118074,
+        "num": 118074,
+        "word": "柯南贝克街的亡灵票房破4000万",
+        "onboard_time": 1681449809,
+        "rank": 45,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 108368,
+        "num": 108368,
+        "word": "微信内测朋友圈置顶功能",
+        "onboard_time": 1681433788,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 94493,
+        "num": 94493,
+        "word": "广东人为何最敢生娃",
+        "onboard_time": 1681433489,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 94151,
+        "num": 94151,
+        "word": "淮阴工学院",
+        "onboard_time": 1681454066,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 86224,
+        "num": 86224,
+        "word": "LPL十周年数据回顾",
+        "onboard_time": 1681450590,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化有目标有规划有战略#"
+    }
+  }
+}
