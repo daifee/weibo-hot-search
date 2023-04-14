@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681472002239,
+  "endTime": 1681475559027,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -72,6 +72,14 @@
       "word": "林生斌",
       "onboard_time": 1681441467,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1530129,
+      "num": 1530129,
+      "word": "女子举报继父上班时间家中约会女性",
+      "onboard_time": 1681471464,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -155,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 996390,
+      "num": 996390,
+      "word": "崔秀彬",
+      "onboard_time": 1681473386,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 972634,
       "num": 529410,
       "word": "罗云熙的身高",
       "onboard_time": 1681459947,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 965319,
+      "num": 416851,
+      "word": "24岁的周雨彤",
+      "onboard_time": 1681472367,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 945277,
@@ -251,6 +275,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 749574,
+      "num": 749574,
+      "word": "柯南 处处吻",
+      "onboard_time": 1681472425,
+      "rank": 5,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 740685,
       "num": 484979,
       "word": "小娇妻",
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 730816,
-      "num": 516822,
+      "num": 698990,
       "word": "女儿发现做月嫂的妈妈存款近500万",
       "onboard_time": 1681461687,
       "rank": 20,
@@ -691,6 +723,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 396089,
+      "num": 396089,
+      "word": "刘恋演出",
+      "onboard_time": 1681473447,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 394821,
       "num": 394821,
       "word": "引发烟台山火嫌疑人已被刑拘",
@@ -891,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 283960,
+      "num": 283960,
+      "word": "记忆里一直没涨价的东西",
+      "onboard_time": 1681471706,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 274749,
       "num": 274749,
       "word": "招惹",
@@ -904,6 +952,14 @@
       "word": "李湘回应王诗龄汉服造型",
       "onboard_time": 1681386927,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 271773,
+      "num": 221911,
+      "word": "LadyGaga 白宫",
+      "onboard_time": 1681471527,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1035,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231526,
+      "num": 1042048,
+      "word": "中国昆明与老挝万象的双向奔赴",
+      "onboard_time": 1681471346,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230583,
       "num": 187226,
       "word": "大三学生给同学洗鞋2个月赚8万",
@@ -1059,12 +1123,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221911,
-      "num": 221911,
-      "word": "LadyGaga 白宫",
-      "onboard_time": 1681471527,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 220913,
+      "num": 196194,
+      "word": "曾黎朱一龙活动后台打招呼",
+      "onboard_time": 1681471464,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219708,
@@ -1275,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201913,
+      "num": 195329,
+      "word": "队长演唱会",
+      "onboard_time": 1681474346,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200934,
       "num": 200934,
       "word": "奔跑吧宫廷风剧照",
@@ -1379,20 +1451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195273,
+      "num": 195273,
+      "word": "爱情而已台湾预告",
+      "onboard_time": 1681474647,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195070,
       "num": 188690,
       "word": "打工人每天醒来的第一件事",
       "onboard_time": 1681442427,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194985,
-      "num": 194985,
-      "word": "女子举报继父上班时间家中约会女性",
-      "onboard_time": 1681471464,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194502,
@@ -1417,14 +1489,6 @@
       "onboard_time": 1681465407,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191545,
-      "num": 191545,
-      "word": "曾黎朱一龙活动后台打招呼",
-      "onboard_time": 1681471464,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 191088,
@@ -1483,6 +1547,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187349,
+      "num": 195783,
+      "word": "金智秀新歌FLOWER音银一位",
+      "onboard_time": 1681474948,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187272,
+      "num": 211858,
+      "word": "中国中车发梗图回应大陆高铁没靠背言论",
+      "onboard_time": 1681469848,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186696,
       "num": 186696,
       "word": "西瓜被兔子咬了一千多口",
@@ -1492,7 +1572,7 @@
     },
     {
       "raw_hot": 186067,
-      "num": 186067,
+      "num": 194365,
       "word": "到底谁觉得青山刚昌纯爱的",
       "onboard_time": 1681471286,
       "rank": 35,
@@ -1505,6 +1585,14 @@
       "onboard_time": 1681445372,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184881,
+      "num": 195045,
+      "word": "是否应该什么CP都嗑",
+      "onboard_time": 1681474587,
+      "rank": 35,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 183728,
@@ -1545,6 +1633,14 @@
       "onboard_time": 1681448009,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178500,
+      "num": 195538,
+      "word": "重庆狼队",
+      "onboard_time": 1681473328,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 177364,
@@ -1707,6 +1803,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 158630,
+      "num": 195239,
+      "word": "女心理咨询师卧底约死群8年",
+      "onboard_time": 1681475188,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158436,
       "num": 118040,
       "word": "白百何晒给元宝外公做的早餐",
@@ -1729,14 +1833,6 @@
       "onboard_time": 1681465047,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156941,
-      "num": 211858,
-      "word": "中国中车发梗图回应大陆高铁没靠背言论",
-      "onboard_time": 1681469848,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156523,
@@ -1875,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142149,
+      "num": 195167,
+      "word": "京城大师赛",
+      "onboard_time": 1681474167,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141714,
       "num": 138964,
       "word": "会叫奶奶接电话的狗狗",
@@ -1939,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134907,
+      "num": 194864,
+      "word": "完美世界竞技平台",
+      "onboard_time": 1681474106,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134535,
       "num": 134535,
       "word": "TF家族新歌一起长大吧笨蛋",
@@ -1961,6 +2073,14 @@
       "onboard_time": 1681451189,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129206,
+      "num": 194517,
+      "word": "吉安失踪4年童家姐弟疑似被找到",
+      "onboard_time": 1681475247,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129034,
@@ -2000,6 +2120,14 @@
       "word": "电竞百灵鸟一诺再上线",
       "onboard_time": 1681433308,
       "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 122736,
+      "num": 194412,
+      "word": "狼队对战LGD",
+      "onboard_time": 1681465588,
+      "rank": 45,
       "category": "游戏"
     },
     {
@@ -2067,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117731,
+      "num": 194303,
+      "word": "王艺迪4比1陈幸同",
+      "onboard_time": 1681474044,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116425,
       "num": 116425,
       "word": "湖北博物馆鸡蛋都是编钟的",
@@ -2113,14 +2249,6 @@
       "onboard_time": 1681460849,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 110806,
-      "num": 143737,
-      "word": "记忆里一直没涨价的东西",
-      "onboard_time": 1681471706,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 110024,
@@ -2360,14 +2488,6 @@
       "word": "河南一景区惊现空中巴士",
       "onboard_time": 1681470027,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56345,
-      "num": 854632,
-      "word": "中国昆明与老挝万象的双向奔赴",
-      "onboard_time": 1681471346,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
