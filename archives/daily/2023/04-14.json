@@ -1,6 +1,6 @@
 {
   "startTime": 1681402919723,
-  "endTime": 1681442271301,
+  "endTime": 1681443240900,
   "band_list": [
     {
       "raw_hot": 3037186,
@@ -11,8 +11,8 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 2009773,
-      "num": 2009773,
+      "raw_hot": 2290734,
+      "num": 2290734,
       "word": "林生斌潼臻一生公司已注销",
       "onboard_time": 1681438945,
       "rank": 20,
@@ -25,6 +25,14 @@
       "onboard_time": 1681433968,
       "rank": 3,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 1562444,
+      "num": 1562444,
+      "word": "林生斌",
+      "onboard_time": 1681441467,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1468739,
@@ -51,14 +59,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1154243,
-      "num": 1154243,
-      "word": "林生斌",
-      "onboard_time": 1681441467,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1114853,
       "num": 371388,
       "word": "五角大楼军机泄密者是20多岁小伙",
@@ -75,20 +75,20 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 767837,
+      "num": 767837,
+      "word": "云南两女孩因骑摩托车发生事故去世",
+      "onboard_time": 1681437147,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728550,
       "num": 363930,
       "word": "广东人为何最敢生娃",
       "onboard_time": 1681433489,
       "rank": 11,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 719905,
-      "num": 719905,
-      "word": "云南两女孩因骑摩托车发生事故去世",
-      "onboard_time": 1681437147,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 697271,
@@ -120,6 +120,22 @@
       "word": "我国未婚女性不能申请精子库",
       "onboard_time": 1681386026,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591443,
+      "num": 537561,
+      "word": "男子欠债百万杀妻后买冰柜藏尸",
+      "onboard_time": 1681442130,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577345,
+      "num": 577345,
+      "word": "张朝阳建议年轻人别睡懒觉",
+      "onboard_time": 1681438047,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -155,19 +171,19 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 508799,
+      "num": 508799,
+      "word": "iPhone15Pro音量双按键",
+      "onboard_time": 1681442310,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 487053,
       "num": 487053,
       "word": "大熊猫已经给乌鸦足够的体面",
       "onboard_time": 1681428021,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477358,
-      "num": 477358,
-      "word": "张朝阳建议年轻人别睡懒觉",
-      "onboard_time": 1681438047,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -203,6 +219,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432662,
+      "num": 432662,
+      "word": "为什么杭州的姐弟恋越来越多",
+      "onboard_time": 1681439306,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 428359,
+      "num": 538046,
+      "word": "胃是怎样一步步癌变的",
+      "onboard_time": 1681440748,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421307,
       "num": 421307,
       "word": "柯南胸前的玫瑰",
@@ -227,14 +259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 413774,
-      "num": 413774,
-      "word": "为什么杭州的姐弟恋越来越多",
-      "onboard_time": 1681439306,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 412816,
       "num": 412816,
       "word": "吃不胖竟然与基因有关",
@@ -248,14 +272,6 @@
       "word": "男子双臂戴10块手表被海关截查",
       "onboard_time": 1681438645,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398820,
-      "num": 398820,
-      "word": "胃是怎样一步步癌变的",
-      "onboard_time": 1681440748,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -339,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 299885,
+      "num": 299885,
+      "word": "我只是花农 并不是主人",
+      "onboard_time": 1681439725,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273785,
       "num": 273785,
       "word": "李湘回应王诗龄汉服造型",
@@ -363,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 245296,
-      "num": 245296,
-      "word": "我只是花农 并不是主人",
-      "onboard_time": 1681439725,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 244671,
+      "num": 244671,
+      "word": "Jennie收到戛纳电影节邀请",
+      "onboard_time": 1681442850,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 239923,
@@ -377,6 +401,14 @@
       "onboard_time": 1681429465,
       "rank": 17,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 236995,
+      "num": 236995,
+      "word": "发现间谍活动第一时间怎么做",
+      "onboard_time": 1681440206,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236255,
@@ -459,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207656,
+      "num": 207656,
+      "word": "奔跑吧今晚播",
+      "onboard_time": 1681442310,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206140,
       "num": 206140,
       "word": "陈飞宇周也新片告白吻戏",
@@ -499,6 +539,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 197288,
+      "num": 197288,
+      "word": "张远陆虎王栎鑫为长沙唱歌",
+      "onboard_time": 1681442427,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195070,
+      "num": 188690,
+      "word": "打工人每天醒来的第一件事",
+      "onboard_time": 1681442427,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194332,
       "num": 194332,
       "word": "张小年",
@@ -513,6 +569,14 @@
       "onboard_time": 1681391671,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 188369,
+      "num": 188369,
+      "word": "电影稍微想起一些今日上映",
+      "onboard_time": 1681442908,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 188218,
@@ -539,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 179659,
+      "num": 179659,
+      "word": "你为何不爱发朋友圈了",
+      "onboard_time": 1681442973,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171559,
       "num": 171559,
       "word": "虞书欣首张个人EP收官vlog",
@@ -553,14 +625,6 @@
       "onboard_time": 1681385067,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167195,
-      "num": 167195,
-      "word": "发现间谍活动第一时间怎么做",
-      "onboard_time": 1681440206,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163950,
@@ -579,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163592,
+      "num": 163592,
+      "word": "云南泼水节选错装备的后果",
+      "onboard_time": 1681441289,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158436,
       "num": 118040,
       "word": "白百何晒给元宝外公做的早餐",
@@ -593,6 +665,14 @@
       "onboard_time": 1681439788,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154706,
+      "num": 154706,
+      "word": "声生不息宝岛季下期有莫文蔚",
+      "onboard_time": 1681441654,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 154350,
@@ -616,6 +696,14 @@
       "word": "涉疫货车司机仍被监视居住",
       "onboard_time": 1681428323,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148682,
+      "num": 148682,
+      "word": "男子要钱未果烧掉对方前妻房子",
+      "onboard_time": 1681442427,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -643,14 +731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144373,
-      "num": 144373,
-      "word": "声生不息宝岛季下期有莫文蔚",
-      "onboard_time": 1681441654,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143855,
       "num": 143855,
       "word": "偶遇车银优洛杉矶逛街",
@@ -673,6 +753,14 @@
       "onboard_time": 1681402348,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142597,
+      "num": 142597,
+      "word": "泼水节",
+      "onboard_time": 1681443146,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141714,
@@ -699,14 +787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138143,
-      "num": 138143,
-      "word": "云南泼水节选错装备的后果",
-      "onboard_time": 1681441289,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138092,
       "num": 138092,
       "word": "澹台烬是个学人烬",
@@ -721,6 +801,14 @@
       "onboard_time": 1681389028,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 135351,
+      "num": 135351,
+      "word": "初稿交了导师让我换个选题",
+      "onboard_time": 1681442850,
+      "rank": 42,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 134535,
@@ -739,12 +827,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127421,
-      "num": 127421,
-      "word": "男子欠债百万杀妻后买冰柜藏尸",
-      "onboard_time": 1681442130,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 129034,
+      "num": 129034,
+      "word": "非故意恋爱故事",
+      "onboard_time": 1681443028,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 125121,
@@ -825,6 +913,14 @@
       "onboard_time": 1681400250,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113832,
+      "num": 115383,
+      "word": "天龙八部2手游",
+      "onboard_time": 1681442908,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 113051,
@@ -1100,7 +1196,7 @@
     },
     {
       "raw_hot": 22306,
-      "num": 1333483,
+      "num": 1551510,
       "word": "钢铁丝路好风光",
       "onboard_time": 1681391671,
       "rank": 2,

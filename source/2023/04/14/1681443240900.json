@@ -1,0 +1,410 @@
+{
+  "runTime": 1681443240900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2290734,
+        "num": 2290734,
+        "word": "林生斌潼臻一生公司已注销",
+        "onboard_time": 1681438945,
+        "rank": 0,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1562444,
+        "num": 1562444,
+        "word": "林生斌",
+        "onboard_time": 1681441467,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9272,
+        "num": 1551510,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1681391671,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1544225,
+        "num": 1544225,
+        "word": "小哀把吻还给了小兰",
+        "onboard_time": 1681433968,
+        "rank": 3,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 1092694,
+        "num": 1092694,
+        "word": "微信内测朋友圈置顶功能",
+        "onboard_time": 1681433788,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 767837,
+        "num": 767837,
+        "word": "云南两女孩因骑摩托车发生事故去世",
+        "onboard_time": 1681437147,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962642,
+        "num": 762827,
+        "word": "柯哀亲了",
+        "onboard_time": 1681430489,
+        "rank": 6,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 720865,
+        "num": 720865,
+        "word": "罗云熙舌苔一看就没有湿气",
+        "onboard_time": 1681437565,
+        "rank": 7,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 577345,
+        "num": 577345,
+        "word": "张朝阳建议年轻人别睡懒觉",
+        "onboard_time": 1681438047,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428359,
+        "num": 538046,
+        "word": "胃是怎样一步步癌变的",
+        "onboard_time": 1681440748,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591443,
+        "num": 537561,
+        "word": "男子欠债百万杀妻后买冰柜藏尸",
+        "onboard_time": 1681442130,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535757,
+        "num": 535757,
+        "word": "离职前记得删除的文件",
+        "onboard_time": 1681436907,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 508799,
+        "num": 508799,
+        "word": "iPhone15Pro音量双按键",
+        "onboard_time": 1681442310,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 432662,
+        "num": 432662,
+        "word": "为什么杭州的姐弟恋越来越多",
+        "onboard_time": 1681439306,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386175,
+        "num": 386175,
+        "word": "柯南胸前的玫瑰",
+        "onboard_time": 1681439487,
+        "rank": 14,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 380830,
+        "num": 380830,
+        "word": "吃不胖竟然与基因有关",
+        "onboard_time": 1681437745,
+        "rank": 15,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 376520,
+        "num": 376520,
+        "word": "男子双臂戴10块手表被海关截查",
+        "onboard_time": 1681438645,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356744,
+        "num": 356744,
+        "word": "Jinni签约新公司",
+        "onboard_time": 1681437026,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312486,
+        "num": 312486,
+        "word": "斗破苍穹之少年归来首支预告",
+        "onboard_time": 1681438945,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309917,
+        "num": 309917,
+        "word": "殷桃的腰",
+        "onboard_time": 1681431687,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309419,
+        "num": 309419,
+        "word": "五一档",
+        "onboard_time": 1681437624,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299885,
+        "num": 299885,
+        "word": "我只是花农 并不是主人",
+        "onboard_time": 1681439725,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244671,
+        "num": 244671,
+        "word": "Jennie收到戛纳电影节邀请",
+        "onboard_time": 1681442850,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236995,
+        "num": 236995,
+        "word": "发现间谍活动第一时间怎么做",
+        "onboard_time": 1681440206,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234818,
+        "num": 234818,
+        "word": "广东人为何最敢生娃",
+        "onboard_time": 1681433489,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 221703,
+        "num": 221703,
+        "word": "体重48公斤被学校谈话",
+        "onboard_time": 1681398392,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216342,
+        "num": 216342,
+        "word": "青山刚昌",
+        "onboard_time": 1681436307,
+        "rank": 26,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 207656,
+        "num": 207656,
+        "word": "奔跑吧今晚播",
+        "onboard_time": 1681442310,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197288,
+        "num": 197288,
+        "word": "张远陆虎王栎鑫为长沙唱歌",
+        "onboard_time": 1681442427,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188900,
+        "num": 188900,
+        "word": "胡可晒与沙溢迪士尼游玩照",
+        "onboard_time": 1681440148,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195070,
+        "num": 188690,
+        "word": "打工人每天醒来的第一件事",
+        "onboard_time": 1681442427,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188369,
+        "num": 188369,
+        "word": "电影稍微想起一些今日上映",
+        "onboard_time": 1681442908,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185434,
+        "num": 185434,
+        "word": "张小年",
+        "onboard_time": 1681441467,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179659,
+        "num": 179659,
+        "word": "你为何不爱发朋友圈了",
+        "onboard_time": 1681442973,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172068,
+        "num": 172068,
+        "word": "陈飞宇周也新片告白吻戏",
+        "onboard_time": 1681440506,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171610,
+        "num": 171610,
+        "word": "五角大楼军机泄密者是20多岁小伙",
+        "onboard_time": 1681427542,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164742,
+        "num": 164742,
+        "word": "这些常喝的饮料竟然都是糖分刺客",
+        "onboard_time": 1681429525,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 163592,
+        "num": 163592,
+        "word": "云南泼水节选错装备的后果",
+        "onboard_time": 1681441289,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154706,
+        "num": 154706,
+        "word": "声生不息宝岛季下期有莫文蔚",
+        "onboard_time": 1681441654,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148682,
+        "num": 148682,
+        "word": "男子要钱未果烧掉对方前妻房子",
+        "onboard_time": 1681442427,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142597,
+        "num": 142597,
+        "word": "泼水节",
+        "onboard_time": 1681443146,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137997,
+        "num": 137997,
+        "word": "花亦山心之月",
+        "onboard_time": 1681440386,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135351,
+        "num": 135351,
+        "word": "初稿交了导师让我换个选题",
+        "onboard_time": 1681442850,
+        "rank": 42,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 129034,
+        "num": 129034,
+        "word": "非故意恋爱故事",
+        "onboard_time": 1681443028,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126415,
+        "num": 126415,
+        "word": "淄博人高亚麟助力淄博烧烤",
+        "onboard_time": 1681436546,
+        "rank": 44,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 123735,
+        "num": 123735,
+        "word": "会叫奶奶接电话的狗狗",
+        "onboard_time": 1681438226,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 118912,
+        "num": 118912,
+        "word": "TF家族新歌一起长大吧笨蛋",
+        "onboard_time": 1681440447,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118720,
+        "num": 118720,
+        "word": "陈妍希问陈晓凶手到底是谁",
+        "onboard_time": 1681391131,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115509,
+        "num": 115509,
+        "word": "网红试胆石有必要砸掉吗",
+        "onboard_time": 1681436006,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 113832,
+        "num": 115383,
+        "word": "天龙八部2手游",
+        "onboard_time": 1681442908,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次点赞土特产#"
+    }
+  }
+}
