@@ -1,0 +1,410 @@
+{
+  "runTime": 1681476553612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1569621,
+        "num": 1569621,
+        "word": "女子举报继父上班时间家中约会女性",
+        "onboard_time": 1681471464,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859346,
+        "num": 859346,
+        "word": "安徽亳州失联爷孙遗体已找到",
+        "onboard_time": 1681470686,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222858,
+        "num": 769892,
+        "word": "中国昆明与老挝万象的双向奔赴",
+        "onboard_time": 1681471346,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951433,
+        "num": 766641,
+        "word": "崔秀彬",
+        "onboard_time": 1681473386,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 761205,
+        "num": 761205,
+        "word": "女儿发现做月嫂的妈妈存款近500万",
+        "onboard_time": 1681461687,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694439,
+        "num": 694439,
+        "word": "柯南 处处吻",
+        "onboard_time": 1681472425,
+        "rank": 5,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 625591,
+        "num": 625591,
+        "word": "好友赚了2000万我却失眠了",
+        "onboard_time": 1681462769,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 541302,
+        "num": 541302,
+        "word": "女心理咨询师卧底约死群8年",
+        "onboard_time": 1681475188,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513502,
+        "num": 513502,
+        "word": "为什么说女明星是普女",
+        "onboard_time": 1681454606,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456332,
+        "num": 456332,
+        "word": "怪盗基德 服部平次",
+        "onboard_time": 1681469426,
+        "rank": 9,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 1177649,
+        "num": 454868,
+        "word": "传说中杨紫的朋友圈",
+        "onboard_time": 1681465111,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 932868,
+        "num": 444508,
+        "word": "24岁的周雨彤",
+        "onboard_time": 1681472367,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419005,
+        "num": 419005,
+        "word": "记忆里一直没涨价的东西",
+        "onboard_time": 1681471706,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409615,
+        "num": 409615,
+        "word": "曲婉婷名下两套房产被法拍",
+        "onboard_time": 1681462050,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400174,
+        "num": 400174,
+        "word": "娱乐圈的普男有哪些",
+        "onboard_time": 1681467147,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384462,
+        "num": 384462,
+        "word": "女孩离家出走被男子收留后被性侵",
+        "onboard_time": 1681463911,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335519,
+        "num": 335519,
+        "word": "刘恋演出",
+        "onboard_time": 1681473447,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282467,
+        "num": 282467,
+        "word": "吉安失踪4年童家姐弟疑似被找到",
+        "onboard_time": 1681475247,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272224,
+        "num": 272224,
+        "word": "吴磊 常熟",
+        "onboard_time": 1681469787,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256437,
+        "num": 256437,
+        "word": "梁靖崑 林昀儒",
+        "onboard_time": 1681475968,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255516,
+        "num": 255516,
+        "word": "音悦台向EXO和粉丝道歉",
+        "onboard_time": 1681464149,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 252539,
+        "num": 252539,
+        "word": "王者荣耀",
+        "onboard_time": 1681459947,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222861,
+        "num": 222861,
+        "word": "南京网红暴猴遭霸凌长期水上漂",
+        "onboard_time": 1681457666,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218260,
+        "num": 218260,
+        "word": "LadyGaga 白宫",
+        "onboard_time": 1681471527,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210185,
+        "num": 210185,
+        "word": "用过iPhone后你还会用安卓机吗",
+        "onboard_time": 1681458089,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 204079,
+        "num": 210174,
+        "word": "奔跑吧",
+        "onboard_time": 1681466248,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191335,
+        "num": 210155,
+        "word": "娜扎好像敦煌神女下凡了",
+        "onboard_time": 1681454487,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189713,
+        "num": 210137,
+        "word": "为什么广东胖子少",
+        "onboard_time": 1681475787,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189391,
+        "num": 210125,
+        "word": "金智秀新歌FLOWER音银一位",
+        "onboard_time": 1681474948,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183589,
+        "num": 210116,
+        "word": "再晚1分钟孩子就到学校了",
+        "onboard_time": 1681464688,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227817,
+        "num": 210099,
+        "word": "队长演唱会",
+        "onboard_time": 1681474346,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188126,
+        "num": 210085,
+        "word": "曾黎朱一龙活动后台打招呼",
+        "onboard_time": 1681471464,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176969,
+        "num": 210057,
+        "word": "长月烬明",
+        "onboard_time": 1681470087,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171335,
+        "num": 210048,
+        "word": "为什么牙科医生都穿洞洞鞋",
+        "onboard_time": 1681458208,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166057,
+        "num": 210030,
+        "word": "重庆狼队",
+        "onboard_time": 1681473328,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160378,
+        "num": 210012,
+        "word": "陈都灵cos的赤木晴子",
+        "onboard_time": 1681459227,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153498,
+        "num": 209998,
+        "word": "罗云熙的身高",
+        "onboard_time": 1681459947,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142919,
+        "num": 209981,
+        "word": "中国中车发梗图回应大陆高铁没靠背言论",
+        "onboard_time": 1681469848,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135126,
+        "num": 209960,
+        "word": "100岁奶奶质问98岁爷爷爱不爱她",
+        "onboard_time": 1681464090,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132918,
+        "num": 209945,
+        "word": "五一高铁票",
+        "onboard_time": 1681465888,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130500,
+        "num": 209925,
+        "word": "Viper",
+        "onboard_time": 1681459109,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124952,
+        "num": 209906,
+        "word": "射手座的间歇性冷漠",
+        "onboard_time": 1681461627,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121423,
+        "num": 209897,
+        "word": "金晨 泰国泼水音乐节",
+        "onboard_time": 1681453708,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108945,
+        "num": 209876,
+        "word": "到底谁觉得青山刚昌纯爱的",
+        "onboard_time": 1681471286,
+        "rank": 43,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 106074,
+        "num": 209870,
+        "word": "航天专家出国访学被策反",
+        "onboard_time": 1681464806,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105771,
+        "num": 209848,
+        "word": "校方回应男生疑偷拍多位女生裸照",
+        "onboard_time": 1681465527,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 92263,
+        "num": 209825,
+        "word": "鹿晗小时候看还珠格格和天龙八部",
+        "onboard_time": 1681476509,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88621,
+        "num": 209815,
+        "word": "符龙飞回应被扒",
+        "onboard_time": 1681461091,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87604,
+        "num": 209803,
+        "word": "是否应该什么CP都嗑",
+        "onboard_time": 1681474587,
+        "rank": 48,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 85676,
+        "num": 209783,
+        "word": "王艺迪4比1陈幸同",
+        "onboard_time": 1681474044,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化有目标有规划有战略#"
+    }
+  }
+}
