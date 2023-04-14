@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681435297509,
+  "endTime": 1681436636532,
   "band_list": [
     {
       "raw_hot": 3564098,
@@ -321,6 +321,14 @@
       "onboard_time": 1681088489,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1940353,
+      "num": 1940353,
+      "word": "小哀把吻还给了小兰",
+      "onboard_time": 1681433968,
+      "rank": 3,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 1924998,
@@ -1377,14 +1385,6 @@
       "onboard_time": 1681220908,
       "rank": 8,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 799302,
-      "num": 799302,
-      "word": "小哀把吻还给了小兰",
-      "onboard_time": 1681433968,
-      "rank": 3,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 797108,
@@ -3147,6 +3147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 454123,
+      "num": 454123,
+      "word": "流朱让甄嬛闻石楠花的香气",
+      "onboard_time": 1681429407,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 453646,
       "num": 453646,
       "word": "拉塞尔不愧为水拉",
@@ -3611,20 +3619,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410486,
-      "num": 410486,
-      "word": "流朱让甄嬛闻石楠花的香气",
-      "onboard_time": 1681429407,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 410035,
       "num": 410035,
       "word": "INTO1全员将录制奔跑吧",
       "onboard_time": 1681369708,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408740,
+      "num": 341867,
+      "word": "殷桃的腰",
+      "onboard_time": 1681431687,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 408594,
@@ -4392,14 +4400,6 @@
       "word": "pledis称SEVENTEEN此次回归为历代级",
       "onboard_time": 1681104750,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 341867,
-      "num": 341867,
-      "word": "殷桃的腰",
-      "onboard_time": 1681431687,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -6779,6 +6779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210827,
+      "num": 210827,
+      "word": "青山刚昌",
+      "onboard_time": 1681436307,
+      "rank": 8,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 210492,
       "num": 210492,
       "word": "神隐全员动物设定",
@@ -8355,6 +8363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188218,
+      "num": 188218,
+      "word": "人民日报刊文谈青少年短视频沉迷",
+      "onboard_time": 1681434510,
+      "rank": 33,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 188204,
       "num": 188204,
       "word": "官方回应山西一城区禁止露天烧烤",
@@ -9371,6 +9387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163914,
+      "num": 209011,
+      "word": "海南警方沉浸式曝光键盘侠套路",
+      "onboard_time": 1681435046,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163417,
       "num": 163417,
       "word": "SEVENTEEN新专辑预售破400万",
@@ -9529,6 +9553,14 @@
       "onboard_time": 1681310194,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159389,
+      "num": 159389,
+      "word": "网红试胆石有必要砸掉吗",
+      "onboard_time": 1681436006,
+      "rank": 24,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 159026,
@@ -10147,6 +10179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143855,
+      "num": 143855,
+      "word": "偶遇车银优洛杉矶逛街",
+      "onboard_time": 1681435347,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143328,
       "num": 143328,
       "word": "曼联2比2塞维利亚",
@@ -10555,14 +10595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128819,
-      "num": 128819,
-      "word": "人民日报刊文谈青少年短视频沉迷",
-      "onboard_time": 1681434510,
-      "rank": 33,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 128710,
       "num": 128710,
       "word": "黄景瑜问贾乃亮真的吗亮哥",
@@ -10787,6 +10819,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 120593,
+      "num": 120593,
+      "word": "军队文职笔试成绩今天公布",
+      "onboard_time": 1681436364,
+      "rank": 33,
+      "category": "军事"
+    },
+    {
       "raw_hot": 120468,
       "num": 120468,
       "word": "冥夜桑酒的宿命早已注定",
@@ -10816,6 +10856,14 @@
       "word": "丁禹兮春闺梦里人片场花絮",
       "onboard_time": 1681373609,
       "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 119619,
+      "num": 119619,
+      "word": "长月烬明周一见",
+      "onboard_time": 1681434568,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -10939,20 +10987,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112618,
+      "num": 112618,
+      "word": "杨紫机场绿色开衫造型路透",
+      "onboard_time": 1681436185,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111161,
       "num": 111161,
       "word": "如何分辨椰子水坏没坏",
       "onboard_time": 1681178725,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 111134,
-      "num": 111134,
-      "word": "长月烬明周一见",
-      "onboard_time": 1681434568,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 110885,
@@ -10993,6 +11041,14 @@
       "onboard_time": 1681380810,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109873,
+      "num": 109873,
+      "word": "灌篮高手",
+      "onboard_time": 1681435526,
+      "rank": 37,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 109582,
@@ -11187,14 +11243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97538,
-      "num": 97538,
-      "word": "海南警方沉浸式曝光键盘侠套路",
-      "onboard_time": 1681435046,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96311,
       "num": 96311,
       "word": "白敬亭的翻包好物",
@@ -11345,6 +11393,14 @@
       "onboard_time": 1681341682,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86455,
+      "num": 86455,
+      "word": "淄博人高亚麟助力淄博烧烤",
+      "onboard_time": 1681436546,
+      "rank": 43,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 86325,

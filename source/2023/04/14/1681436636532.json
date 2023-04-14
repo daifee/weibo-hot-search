@@ -1,0 +1,410 @@
+{
+  "runTime": 1681436636532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1940353,
+        "num": 1940353,
+        "word": "小哀把吻还给了小兰",
+        "onboard_time": 1681433968,
+        "rank": 0,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 613766,
+        "num": 613766,
+        "word": "体重48公斤被学校谈话",
+        "onboard_time": 1681398392,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19435,
+        "num": 460905,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1681391671,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2739807,
+        "num": 460541,
+        "word": "柯哀亲了",
+        "onboard_time": 1681430489,
+        "rank": 3,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 454123,
+        "num": 454123,
+        "word": "流朱让甄嬛闻石楠花的香气",
+        "onboard_time": 1681429407,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435846,
+        "num": 435846,
+        "word": "新兰",
+        "onboard_time": 1681433009,
+        "rank": 5,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 342130,
+        "num": 342130,
+        "word": "陈妍希问陈晓凶手到底是谁",
+        "onboard_time": 1681391131,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 341737,
+        "num": 341737,
+        "word": "大熊猫已经给乌鸦足够的体面",
+        "onboard_time": 1681428021,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210827,
+        "num": 210827,
+        "word": "青山刚昌",
+        "onboard_time": 1681436307,
+        "rank": 8,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 163914,
+        "num": 209011,
+        "word": "海南警方沉浸式曝光键盘侠套路",
+        "onboard_time": 1681435046,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889761,
+        "num": 207866,
+        "word": "五角大楼军机泄密者是20多岁小伙",
+        "onboard_time": 1681427542,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700993,
+        "num": 205581,
+        "word": "广东人为何最敢生娃",
+        "onboard_time": 1681433489,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 480510,
+        "num": 203150,
+        "word": "这些常喝的饮料竟然都是糖分刺客",
+        "onboard_time": 1681429525,
+        "rank": 12,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 469685,
+        "num": 199813,
+        "word": "睡眠时间越长就越好吗",
+        "onboard_time": 1681430125,
+        "rank": 13,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 163893,
+        "num": 198053,
+        "word": "中国中车",
+        "onboard_time": 1681401209,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 440343,
+        "num": 195069,
+        "word": "微信内测朋友圈置顶功能",
+        "onboard_time": 1681433788,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 408740,
+        "num": 193137,
+        "word": "殷桃的腰",
+        "onboard_time": 1681431687,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300365,
+        "num": 190385,
+        "word": "毕业论文的导师都是语言大师",
+        "onboard_time": 1681432349,
+        "rank": 17,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 188218,
+        "num": 188218,
+        "word": "人民日报刊文谈青少年短视频沉迷",
+        "onboard_time": 1681434510,
+        "rank": 18,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 185363,
+        "num": 185363,
+        "word": "SEVENTEEN致敬楚门的世界",
+        "onboard_time": 1681429166,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177470,
+        "num": 177470,
+        "word": "仙侠剧恶毒女配之最",
+        "onboard_time": 1681429045,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174798,
+        "num": 174798,
+        "word": "16岁女孩经常胃胀被查出胃癌晚期",
+        "onboard_time": 1681400130,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171571,
+        "num": 171571,
+        "word": "二十五六岁谈段恋爱有多难",
+        "onboard_time": 1681395993,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161953,
+        "num": 161953,
+        "word": "何悯鸿怀孕",
+        "onboard_time": 1681389090,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159389,
+        "num": 159389,
+        "word": "网红试胆石有必要砸掉吗",
+        "onboard_time": 1681436006,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 159255,
+        "num": 159255,
+        "word": "司机车祸山东大哥手撕车窗救人",
+        "onboard_time": 1681428502,
+        "rank": 25,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 148699,
+        "num": 148699,
+        "word": "B站就上传用户真人照片致歉",
+        "onboard_time": 1681413434,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143855,
+        "num": 143855,
+        "word": "偶遇车银优洛杉矶逛街",
+        "onboard_time": 1681435347,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132029,
+        "num": 132029,
+        "word": "e人聚会",
+        "onboard_time": 1681429465,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 125829,
+        "num": 125829,
+        "word": "西瓜被兔子咬了一千多口",
+        "onboard_time": 1681391250,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335173,
+        "num": 125602,
+        "word": "我国未婚女性不能申请精子库",
+        "onboard_time": 1681386026,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208547,
+        "num": 125446,
+        "word": "Angelababy戴的项链预估价格九位数",
+        "onboard_time": 1681397432,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 125232,
+        "num": 125232,
+        "word": "李湘回应王诗龄汉服造型",
+        "onboard_time": 1681386927,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120593,
+        "num": 120593,
+        "word": "军队文职笔试成绩今天公布",
+        "onboard_time": 1681436364,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 119619,
+        "num": 119619,
+        "word": "长月烬明周一见",
+        "onboard_time": 1681434568,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118400,
+        "num": 118400,
+        "word": "大三学生给同学洗鞋2个月赚8万",
+        "onboard_time": 1681387168,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112618,
+        "num": 112618,
+        "word": "杨紫机场绿色开衫造型路透",
+        "onboard_time": 1681436185,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109873,
+        "num": 109873,
+        "word": "灌篮高手",
+        "onboard_time": 1681435526,
+        "rank": 37,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 107417,
+        "num": 107417,
+        "word": "泫雅ins为金晓钟宣传新歌",
+        "onboard_time": 1681393114,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99418,
+        "num": 99418,
+        "word": "电竞百灵鸟一诺再上线",
+        "onboard_time": 1681433308,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97896,
+        "num": 97896,
+        "word": "江疏影李浩菲直播用假手握手",
+        "onboard_time": 1681409715,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97443,
+        "num": 97443,
+        "word": "你能接受另一半捐精吗",
+        "onboard_time": 1681397731,
+        "rank": 41,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 91717,
+        "num": 91717,
+        "word": "涉疫货车司机仍被监视居住",
+        "onboard_time": 1681428323,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86455,
+        "num": 86455,
+        "word": "淄博人高亚麟助力淄博烧烤",
+        "onboard_time": 1681436546,
+        "rank": 43,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 83461,
+        "num": 83461,
+        "word": "防弹少年团演唱BASTIONS主题曲",
+        "onboard_time": 1681433847,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82878,
+        "num": 82878,
+        "word": "马奎尔乌龙",
+        "onboard_time": 1681433187,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82704,
+        "num": 82704,
+        "word": "知楠而退",
+        "onboard_time": 1681434388,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80017,
+        "num": 80017,
+        "word": "罗云熙符龙飞的双人舞",
+        "onboard_time": 1681429887,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79651,
+        "num": 79651,
+        "word": "我国制裁一名美国反华议员",
+        "onboard_time": 1681391671,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 76480,
+        "num": 76480,
+        "word": "冥夜桑酒断舍离",
+        "onboard_time": 1681432531,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记再次点赞土特产#"
+    }
+  }
+}
