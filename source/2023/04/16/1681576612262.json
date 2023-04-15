@@ -1,0 +1,410 @@
+{
+  "runTime": 1681576612262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 602836,
+        "num": 602836,
+        "word": "曝淄博酒店网上标价千元前台仅需200",
+        "onboard_time": 1681567707,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 368000,
+        "num": 368000,
+        "word": "徐明浩给张艺兴打电话",
+        "onboard_time": 1681569991,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41221,
+        "num": 363985,
+        "word": "乘车跨越中老边境线梦幻又震撼",
+        "onboard_time": 1681564948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360698,
+        "num": 360698,
+        "word": "网友质疑长月烬明抄袭仙剑三",
+        "onboard_time": 1681557865,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 336234,
+        "num": 336234,
+        "word": "许嵩音乐节",
+        "onboard_time": 1681574667,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 801066,
+        "num": 316195,
+        "word": "达赖舌吻男童有多恶心",
+        "onboard_time": 1681558224,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714824,
+        "num": 310296,
+        "word": "管泽元向余霜求婚",
+        "onboard_time": 1681567589,
+        "rank": 6,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 264732,
+        "num": 264732,
+        "word": "成龙退票事件完整视频",
+        "onboard_time": 1681558467,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214918,
+        "num": 214918,
+        "word": "检验师",
+        "onboard_time": 1681566568,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173189,
+        "num": 173189,
+        "word": "韩国 满汉全席",
+        "onboard_time": 1681553486,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 457582,
+        "num": 172244,
+        "word": "叶一茜曾说森碟需要减肥",
+        "onboard_time": 1681568489,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161817,
+        "num": 161817,
+        "word": "郑秀妍开北京首店",
+        "onboard_time": 1681559186,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149060,
+        "num": 149060,
+        "word": "张雨绮好辣",
+        "onboard_time": 1681555165,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146355,
+        "num": 146355,
+        "word": "灌篮高手口碑",
+        "onboard_time": 1681563507,
+        "rank": 13,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 142386,
+        "num": 142386,
+        "word": "郑州通报共享厨房相关情况",
+        "onboard_time": 1681565547,
+        "rank": 14,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 124589,
+        "num": 124589,
+        "word": "陈奕迅新加坡演唱会",
+        "onboard_time": 1681573649,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120735,
+        "num": 120735,
+        "word": "Tabe的BP被爆",
+        "onboard_time": 1681563327,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118459,
+        "num": 118459,
+        "word": "宋雨琦确诊感染新冠",
+        "onboard_time": 1681541186,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 118135,
+        "num": 118135,
+        "word": "模范出租车",
+        "onboard_time": 1681567890,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105696,
+        "num": 118128,
+        "word": "JDG夺冠",
+        "onboard_time": 1681560026,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 425499,
+        "num": 118119,
+        "word": "第一次见吃竹子手忙脚乱的大熊猫",
+        "onboard_time": 1681573649,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251808,
+        "num": 118113,
+        "word": "陈都灵胳膊好长",
+        "onboard_time": 1681574189,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215219,
+        "num": 118102,
+        "word": "为什么现在姐弟恋越来越多",
+        "onboard_time": 1681560329,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188855,
+        "num": 118098,
+        "word": "生气容易长结节吗",
+        "onboard_time": 1681575028,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 179920,
+        "num": 118092,
+        "word": "明道真的再演单均昊了",
+        "onboard_time": 1681570831,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134830,
+        "num": 118078,
+        "word": "张杰在西安唱大美中华",
+        "onboard_time": 1681569150,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129610,
+        "num": 118076,
+        "word": "龚俊易烊千玺同款石上鸟胸针",
+        "onboard_time": 1681565787,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110203,
+        "num": 118065,
+        "word": "陈粒演唱会",
+        "onboard_time": 1681569693,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99730,
+        "num": 118058,
+        "word": "网红店芋包王后厨被曝触目惊心",
+        "onboard_time": 1681552586,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 90843,
+        "num": 118049,
+        "word": "拜仁慕尼黑vs霍芬海姆",
+        "onboard_time": 1681572571,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219487,
+        "num": 118034,
+        "word": "摆摊卖周边 去展览馆办展",
+        "onboard_time": 1681574068,
+        "rank": 30,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 109054,
+        "num": 118033,
+        "word": "柳智敏神似爱丽丝",
+        "onboard_time": 1681561468,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1116469,
+        "num": 118021,
+        "word": "蔡徐坤的关注",
+        "onboard_time": 1681572810,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616095,
+        "num": 118010,
+        "word": "韩素希胯骨纹身",
+        "onboard_time": 1681570352,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102823,
+        "num": 118005,
+        "word": "听说这是世界上最快的速度",
+        "onboard_time": 1681575568,
+        "rank": 34,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 1358953,
+        "num": 117998,
+        "word": "钟丽缇直播哭了",
+        "onboard_time": 1681572450,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601716,
+        "num": 117992,
+        "word": "李维嘉回复网友评论",
+        "onboard_time": 1681571850,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691226,
+        "num": 117975,
+        "word": "李钟硕没逃过韩国酵母",
+        "onboard_time": 1681568309,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100070,
+        "num": 117968,
+        "word": "周星驰说喜欢Lisa",
+        "onboard_time": 1681549946,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92662,
+        "num": 117964,
+        "word": "汪峰演唱会",
+        "onboard_time": 1681568249,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90526,
+        "num": 117956,
+        "word": "马嘉祺你怎么这样",
+        "onboard_time": 1681559067,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84089,
+        "num": 117946,
+        "word": "如果我是马克龙 我还想来",
+        "onboard_time": 1681556306,
+        "rank": 41,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 81376,
+        "num": 117941,
+        "word": "苏丹首都多地发生武装冲突",
+        "onboard_time": 1681566028,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 79399,
+        "num": 117931,
+        "word": "崔秀彬崔杋圭跳了Flower",
+        "onboard_time": 1681568732,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78572,
+        "num": 117924,
+        "word": "切尔西4月首球",
+        "onboard_time": 1681574609,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77503,
+        "num": 117911,
+        "word": "369 一阵上单就是会赢无阵上单",
+        "onboard_time": 1681565307,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70516,
+        "num": 117901,
+        "word": "Hero零封AG",
+        "onboard_time": 1681567109,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68332,
+        "num": 117894,
+        "word": "内卷蚊香",
+        "onboard_time": 1681568070,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66160,
+        "num": 117890,
+        "word": "害怕给别人主动发消息",
+        "onboard_time": 1681576405,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 60759,
+        "num": 117876,
+        "word": "切尔西vs布莱顿",
+        "onboard_time": 1681569090,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家安全是民族复兴的根基#"
+    }
+  }
+}
