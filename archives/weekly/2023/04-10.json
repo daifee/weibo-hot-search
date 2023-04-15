@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681515220131,
+  "endTime": 1681521838729,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1883273,
+      "num": 1883273,
+      "word": "生源都不足了还要高价抢学区房吗",
+      "onboard_time": 1681503313,
+      "rank": 49,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1865626,
       "num": 1865626,
       "word": "小伙年会喜提365天带薪休假",
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1557335,
+      "num": 1557335,
+      "word": "女儿成绩不好 帮我写一封信给她",
+      "onboard_time": 1681515441,
+      "rank": 1,
+      "category": "情感,科技"
+    },
+    {
       "raw_hot": 1557149,
       "num": 1557149,
       "word": "教资69",
@@ -737,14 +753,6 @@
       "onboard_time": 1681354894,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1359655,
-      "num": 1359655,
-      "word": "生源都不足了还要高价抢学区房吗",
-      "onboard_time": 1681503313,
-      "rank": 49,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1343366,
@@ -1963,6 +1971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 721551,
+      "num": 253038,
+      "word": "试管生下龙凤胎父女间竟无血缘关系",
+      "onboard_time": 1681516463,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716926,
       "num": 716926,
       "word": "哪些人不能喝椰子水",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1681436907,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 679411,
+      "num": 679411,
+      "word": "微信回应工信部最新要求",
+      "onboard_time": 1681517605,
+      "rank": 5,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 678723,
@@ -3035,6 +3059,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 553212,
+      "num": 381816,
+      "word": "歪哥 蒲熠星",
+      "onboard_time": 1681520966,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553038,
       "num": 553038,
       "word": "张杰演唱会",
@@ -3595,6 +3627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481590,
+      "num": 481590,
+      "word": "五一火车票",
+      "onboard_time": 1681518865,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481308,
       "num": 481308,
       "word": "孙怡谈这一年的变化",
@@ -3729,6 +3769,14 @@
       "onboard_time": 1681097789,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 462986,
+      "num": 462986,
+      "word": "哪种旅游打卡照可能泄露国家秘密",
+      "onboard_time": 1681516822,
+      "rank": 8,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 460335,
@@ -6139,6 +6187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 286174,
+      "num": 286174,
+      "word": "上海江苏球迷大喊退票",
+      "onboard_time": 1681518323,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285904,
       "num": 285904,
       "word": "没有瑕疵的女性主义者",
@@ -6507,6 +6563,14 @@
       "category": "科技,作品衍生"
     },
     {
+      "raw_hot": 262791,
+      "num": 252333,
+      "word": "癌症早期症状有哪些",
+      "onboard_time": 1681517422,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262564,
       "num": 262564,
       "word": "冥夜救初凰也是在救黎苏苏",
@@ -6553,6 +6617,14 @@
       "onboard_time": 1681309234,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259044,
+      "num": 259044,
+      "word": "奔跑吧下周是城市追击战",
+      "onboard_time": 1681519405,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 258966,
@@ -6705,6 +6777,14 @@
       "onboard_time": 1681113867,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253264,
+      "num": 253264,
+      "word": "女子被质疑有房炫富还能申请到公租房",
+      "onboard_time": 1681504752,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 253115,
@@ -6889,14 +6969,6 @@
       "onboard_time": 1681451789,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 243161,
-      "num": 243161,
-      "word": "女子被质疑有房炫富还能申请到公租房",
-      "onboard_time": 1681504752,
-      "rank": 13,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 243057,
@@ -7739,6 +7811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218498,
+      "num": 218498,
+      "word": "淄博音乐节",
+      "onboard_time": 1681520244,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218404,
       "num": 218404,
       "word": "长空之王雷宇和父母对话好心酸",
@@ -8361,6 +8441,14 @@
       "onboard_time": 1681110026,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206026,
+      "num": 206026,
+      "word": "幼升小offer",
+      "onboard_time": 1681514598,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 205911,
@@ -9665,6 +9753,14 @@
       "onboard_time": 1681477168,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192289,
+      "num": 192289,
+      "word": "工信部听取329微信业务异常汇报",
+      "onboard_time": 1681518564,
+      "rank": 26,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 192173,
@@ -10979,6 +11075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168966,
+      "num": 168966,
+      "word": "更适合中国宝宝的医美",
+      "onboard_time": 1681513939,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168961,
       "num": 168961,
       "word": "香菜热狗肠",
@@ -11291,6 +11395,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162636,
+      "num": 162636,
+      "word": "When you come around",
+      "onboard_time": 1681515321,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162583,
       "num": 162583,
       "word": "张凌赫陈哲远同框路透",
@@ -11337,6 +11449,14 @@
       "onboard_time": 1681226548,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161629,
+      "num": 161629,
+      "word": "模范出租车2",
+      "onboard_time": 1681516404,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 161467,
@@ -11865,14 +11985,6 @@
       "onboard_time": 1681343788,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 148602,
-      "num": 148602,
-      "word": "更适合中国宝宝的医美",
-      "onboard_time": 1681513939,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 148457,
@@ -12579,6 +12691,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 129879,
+      "num": 129879,
+      "word": "淄博酒店",
+      "onboard_time": 1681521023,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 129738,
       "num": 129738,
       "word": "曼城vs拜仁",
@@ -12641,6 +12761,14 @@
       "onboard_time": 1681053869,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128075,
+      "num": 128075,
+      "word": "冥夜是蛟龙不是恐龙",
+      "onboard_time": 1681504332,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 127915,
@@ -12713,6 +12841,14 @@
       "onboard_time": 1681294467,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125537,
+      "num": 125537,
+      "word": "西施音乐节",
+      "onboard_time": 1681519884,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 125426,
@@ -13299,14 +13435,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 102652,
-      "num": 102652,
-      "word": "幼升小offer",
-      "onboard_time": 1681514598,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 102220,
       "num": 102220,
       "word": "利物浦vs阿森纳",
@@ -13387,6 +13515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98188,
+      "num": 98188,
+      "word": "利马赛季报销",
+      "onboard_time": 1681519224,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98041,
       "num": 129459,
       "word": "减肥食谱一日三餐",
@@ -13465,6 +13601,14 @@
       "onboard_time": 1681052970,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92811,
+      "num": 92811,
+      "word": "我想和你唱",
+      "onboard_time": 1681521386,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 92605,
@@ -13595,6 +13739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85424,
+      "num": 85424,
+      "word": "东吉 老道",
+      "onboard_time": 1681521685,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84662,
       "num": 153332,
       "word": "东北雪糕四大天王",
@@ -13611,12 +13763,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 84098,
-      "num": 84098,
-      "word": "冥夜是蛟龙不是恐龙",
-      "onboard_time": 1681504332,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 84004,
+      "num": 84004,
+      "word": "吴尊友称新冠已经趋于结束",
+      "onboard_time": 1681521744,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83314,

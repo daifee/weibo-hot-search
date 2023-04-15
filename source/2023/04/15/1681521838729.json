@@ -1,0 +1,410 @@
+{
+  "runTime": 1681521838729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1883273,
+        "num": 1883273,
+        "word": "生源都不足了还要高价抢学区房吗",
+        "onboard_time": 1681503313,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1557335,
+        "num": 1557335,
+        "word": "女儿成绩不好 帮我写一封信给她",
+        "onboard_time": 1681515441,
+        "rank": 1,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 40397,
+        "num": 1020082,
+        "word": "中国昆明与老挝万象的双向奔赴",
+        "onboard_time": 1681471346,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702088,
+        "num": 702088,
+        "word": "淄博文旅局长",
+        "onboard_time": 1681485328,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 680601,
+        "num": 680601,
+        "word": "泫雅泰国泼水节 舞台上的野马",
+        "onboard_time": 1681478366,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 679411,
+        "num": 679411,
+        "word": "微信回应工信部最新要求",
+        "onboard_time": 1681517605,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 481590,
+        "num": 481590,
+        "word": "五一火车票",
+        "onboard_time": 1681518865,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464136,
+        "num": 464136,
+        "word": "篮协要求调查上海江苏季后赛",
+        "onboard_time": 1681513819,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462986,
+        "num": 462986,
+        "word": "哪种旅游打卡照可能泄露国家秘密",
+        "onboard_time": 1681516822,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 383393,
+        "num": 383393,
+        "word": "建议微信出个头像屏蔽功能",
+        "onboard_time": 1681481010,
+        "rank": 9,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 772186,
+        "num": 382067,
+        "word": "许超医生 麻烦网红不要去碰瓷医院",
+        "onboard_time": 1681479869,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 553212,
+        "num": 381816,
+        "word": "歪哥 蒲熠星",
+        "onboard_time": 1681520966,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462439,
+        "num": 381167,
+        "word": "刘恋 薛凯琪",
+        "onboard_time": 1681477826,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 380206,
+        "num": 380206,
+        "word": "姚明",
+        "onboard_time": 1681487786,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286174,
+        "num": 286174,
+        "word": "上海江苏球迷大喊退票",
+        "onboard_time": 1681518323,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275634,
+        "num": 275634,
+        "word": "传说中杨紫的朋友圈",
+        "onboard_time": 1681465111,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260384,
+        "num": 260384,
+        "word": "医院回应护士上班戴美甲给患者扎针",
+        "onboard_time": 1681479089,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259044,
+        "num": 259044,
+        "word": "奔跑吧下周是城市追击战",
+        "onboard_time": 1681519405,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253384,
+        "num": 253384,
+        "word": "王者新赛季",
+        "onboard_time": 1681518865,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253264,
+        "num": 253264,
+        "word": "女子被质疑有房炫富还能申请到公租房",
+        "onboard_time": 1681504752,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 721551,
+        "num": 253038,
+        "word": "试管生下龙凤胎父女间竟无血缘关系",
+        "onboard_time": 1681516463,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262791,
+        "num": 252333,
+        "word": "癌症早期症状有哪些",
+        "onboard_time": 1681517422,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244264,
+        "num": 244264,
+        "word": "假球",
+        "onboard_time": 1681479568,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218498,
+        "num": 218498,
+        "word": "淄博音乐节",
+        "onboard_time": 1681520244,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 206026,
+        "num": 206026,
+        "word": "幼升小offer",
+        "onboard_time": 1681514598,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194210,
+        "num": 194210,
+        "word": "五哈 小婉",
+        "onboard_time": 1681481851,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192289,
+        "num": 192289,
+        "word": "工信部听取329微信业务异常汇报",
+        "onboard_time": 1681518564,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 184182,
+        "num": 184182,
+        "word": "姐弟恋是怎么突然盛行起来的",
+        "onboard_time": 1681491322,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168966,
+        "num": 168966,
+        "word": "更适合中国宝宝的医美",
+        "onboard_time": 1681513939,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166721,
+        "num": 166721,
+        "word": "宁波高速奥迪掉落砸中百万宝马",
+        "onboard_time": 1681493539,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162636,
+        "num": 162636,
+        "word": "When you come around",
+        "onboard_time": 1681515321,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161629,
+        "num": 161629,
+        "word": "模范出租车2",
+        "onboard_time": 1681516404,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148279,
+        "num": 148279,
+        "word": "刘昊然周冬雨 燃冬",
+        "onboard_time": 1681477108,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147226,
+        "num": 147226,
+        "word": "陈都灵演技",
+        "onboard_time": 1681483771,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138677,
+        "num": 138677,
+        "word": "忽然发现家里有点钱",
+        "onboard_time": 1681478966,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133735,
+        "num": 133735,
+        "word": "腾讯视频不是吧我变成超人了",
+        "onboard_time": 1681513878,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129879,
+        "num": 129879,
+        "word": "淄博酒店",
+        "onboard_time": 1681521023,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 128075,
+        "num": 128075,
+        "word": "冥夜是蛟龙不是恐龙",
+        "onboard_time": 1681504332,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125537,
+        "num": 125537,
+        "word": "西施音乐节",
+        "onboard_time": 1681519884,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122019,
+        "num": 122019,
+        "word": "就差手把手教女生们怎么选男人",
+        "onboard_time": 1681479509,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111127,
+        "num": 111127,
+        "word": "雨后春笋2天长30厘米顶翻木桌",
+        "onboard_time": 1681502113,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107463,
+        "num": 107463,
+        "word": "清华张小年",
+        "onboard_time": 1681486649,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100979,
+        "num": 100979,
+        "word": "为什么广东胖子少",
+        "onboard_time": 1681475787,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98188,
+        "num": 98188,
+        "word": "利马赛季报销",
+        "onboard_time": 1681519224,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92811,
+        "num": 92811,
+        "word": "我想和你唱",
+        "onboard_time": 1681521386,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85896,
+        "num": 85896,
+        "word": "柯南 处处吻",
+        "onboard_time": 1681472425,
+        "rank": 45,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 85424,
+        "num": 85424,
+        "word": "东吉 老道",
+        "onboard_time": 1681521685,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84004,
+        "num": 84004,
+        "word": "吴尊友称新冠已经趋于结束",
+        "onboard_time": 1681521744,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76030,
+        "num": 76030,
+        "word": "孙珍妮追星成功白鹿",
+        "onboard_time": 1681476747,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 75330,
+        "num": 75330,
+        "word": "女孩离家出走被男子收留后被性侵",
+        "onboard_time": 1681463911,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#广东制造背后的中国式现代化密码#"
+    }
+  }
+}
