@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681569205187,
+  "endTime": 1681571775038,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -611,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1641460,
+      "num": 617136,
+      "word": "管泽元向余霜求婚",
+      "onboard_time": 1681567589,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1640889,
       "num": 1640889,
       "word": "北京人均存款已接近27万",
@@ -659,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1569284,
-      "num": 617136,
-      "word": "管泽元向余霜求婚",
-      "onboard_time": 1681567589,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 1568100,
       "num": 1568100,
       "word": "网友质疑长月烬明抄袭仙剑三",
@@ -689,6 +689,14 @@
       "onboard_time": 1681441467,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1557601,
+      "num": 377626,
+      "word": "李钟硕没逃过韩国酵母",
+      "onboard_time": 1681568309,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1557149,
@@ -976,6 +984,14 @@
       "word": "3年轻人20万开店日营业额仅79元",
       "onboard_time": 1681177164,
       "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1255583,
+      "num": 1255583,
+      "word": "曝淄博酒店网上标价千元前台仅需200",
+      "onboard_time": 1681567707,
+      "rank": 30,
       "category": "社会新闻,财经"
     },
     {
@@ -1305,6 +1321,14 @@
       "onboard_time": 1681214726,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1001786,
+      "num": 368040,
+      "word": "叶一茜曾说森碟需要减肥",
+      "onboard_time": 1681568489,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1000886,
@@ -1795,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 830851,
-      "num": 354163,
-      "word": "曝淄博酒店网上标价千元前台仅需200",
-      "onboard_time": 1681567707,
-      "rank": 30,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 829481,
       "num": 829481,
       "word": "周雨彤签约壹心",
@@ -2115,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736428,
+      "num": 367330,
+      "word": "韩素希胯骨纹身",
+      "onboard_time": 1681570352,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 735568,
       "num": 735568,
       "word": "姜涛曾获全球百大帅哥第五名",
@@ -2209,14 +2233,6 @@
       "onboard_time": 1681516463,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 719889,
-      "num": 353911,
-      "word": "李钟硕没逃过韩国酵母",
-      "onboard_time": 1681568309,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 716926,
@@ -4051,6 +4067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476103,
+      "num": 476103,
+      "word": "检验师",
+      "onboard_time": 1681566568,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 473555,
       "num": 473555,
       "word": "哈尔滨",
@@ -4129,6 +4153,14 @@
       "onboard_time": 1681563327,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 465042,
+      "num": 465042,
+      "word": "徐明浩给张艺兴打电话",
+      "onboard_time": 1681569991,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 464374,
@@ -5593,14 +5625,6 @@
       "onboard_time": 1681279885,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 357922,
-      "num": 357922,
-      "word": "检验师",
-      "onboard_time": 1681566568,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 357917,
@@ -8387,6 +8411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227081,
+      "num": 227081,
+      "word": "张杰在西安唱大美中华",
+      "onboard_time": 1681569150,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226915,
       "num": 226915,
       "word": "Angelababy说范丞丞返祖了",
@@ -8409,14 +8441,6 @@
       "onboard_time": 1681349130,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226145,
-      "num": 185386,
-      "word": "叶一茜曾说森碟需要减肥",
-      "onboard_time": 1681568489,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 226028,
@@ -8739,6 +8763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217403,
+      "num": 217403,
+      "word": "明道真的再演单均昊了",
+      "onboard_time": 1681570831,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217308,
       "num": 217308,
       "word": "长月烬明加更了吗",
@@ -8889,14 +8921,6 @@
       "onboard_time": 1681127308,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214254,
-      "num": 176538,
-      "word": "张杰在西安唱大美中华",
-      "onboard_time": 1681569150,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 214215,
@@ -10051,6 +10075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199121,
+      "num": 199121,
+      "word": "Nflying唱想见你",
+      "onboard_time": 1681571490,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199085,
       "num": 199085,
       "word": "种地吧",
@@ -10739,6 +10771,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 193117,
+      "num": 193117,
+      "word": "陈粒演唱会",
+      "onboard_time": 1681569693,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193102,
       "num": 193102,
       "word": "电影远大前程杀青",
@@ -11036,7 +11076,7 @@
     },
     {
       "raw_hot": 189290,
-      "num": 153972,
+      "num": 161327,
       "word": "汪峰演唱会",
       "onboard_time": 1681568249,
       "rank": 30,
@@ -12803,6 +12843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160267,
+      "num": 227371,
+      "word": "内卷蚊香",
+      "onboard_time": 1681568070,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160260,
       "num": 1312594,
       "word": "我们的动车有多酷",
@@ -13075,14 +13123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154607,
-      "num": 154607,
-      "word": "内卷蚊香",
-      "onboard_time": 1681568070,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 154548,
       "num": 154548,
       "word": "天欢被处雷刑",
@@ -13100,7 +13140,7 @@
     },
     {
       "raw_hot": 154361,
-      "num": 154361,
+      "num": 155627,
       "word": "369 一阵上单就是会赢无阵上单",
       "onboard_time": 1681565307,
       "rank": 43,
@@ -13297,6 +13337,14 @@
       "onboard_time": 1681564048,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150150,
+      "num": 150150,
+      "word": "檀健次丁程鑫演的川渝帅哥",
+      "onboard_time": 1681569209,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 150120,
@@ -13651,8 +13699,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143601,
-      "num": 143601,
+      "raw_hot": 143659,
+      "num": 195165,
       "word": "苏丹首都多地发生武装冲突",
       "onboard_time": 1681566028,
       "rank": 37,
@@ -14217,6 +14265,14 @@
       "onboard_time": 1681202847,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129066,
+      "num": 129066,
+      "word": "白宇哭戏",
+      "onboard_time": 1681569928,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 129034,
@@ -15465,6 +15521,14 @@
       "onboard_time": 1681290086,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80170,
+      "num": 128965,
+      "word": "周柯宇Gemini连麦",
+      "onboard_time": 1681569991,
+      "rank": 45,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 79992,
