@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681532425352,
+  "endTime": 1681533242766,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -2195,6 +2195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 676858,
+      "num": 310782,
+      "word": "秋瓷炫 春天来了可我还要工作",
+      "onboard_time": 1681531704,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675922,
       "num": 675922,
       "word": "篮协要求调查上海江苏季后赛",
@@ -2281,6 +2289,14 @@
       "onboard_time": 1681356390,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 659201,
+      "num": 659201,
+      "word": "父母生二胎子女有权阻止吗",
+      "onboard_time": 1681530744,
+      "rank": 3,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 659033,
@@ -3291,14 +3307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 529528,
-      "num": 529528,
-      "word": "父母生二胎子女有权阻止吗",
-      "onboard_time": 1681530744,
-      "rank": 3,
-      "category": "社会新闻,影视"
-    },
-    {
       "raw_hot": 529078,
       "num": 205011,
       "word": "Angelababy戴的项链预估价格九位数",
@@ -3569,14 +3577,6 @@
       "onboard_time": 1681387168,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495482,
-      "num": 310782,
-      "word": "秋瓷炫 春天来了可我还要工作",
-      "onboard_time": 1681531704,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 495322,
@@ -4891,6 +4891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 384034,
+      "num": 384034,
+      "word": "易烊千玺双蜡像同台释出",
+      "onboard_time": 1681529304,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382630,
       "num": 382630,
       "word": "朱婷",
@@ -5355,12 +5363,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 347473,
-      "num": 347473,
-      "word": "易烊千玺双蜡像同台释出",
-      "onboard_time": 1681529304,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 346792,
+      "num": 346792,
+      "word": "流浪地球2",
+      "onboard_time": 1681529244,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 345946,
@@ -5667,14 +5675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 324690,
-      "num": 324690,
-      "word": "流浪地球2",
-      "onboard_time": 1681529244,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 324005,
       "num": 324005,
       "word": "罗云熙BJD娃娃",
@@ -5859,6 +5859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311173,
+      "num": 215129,
+      "word": "TFBOYS415九周年了",
+      "onboard_time": 1681531464,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310377,
       "num": 310377,
       "word": "谭飞删博",
@@ -5969,6 +5977,14 @@
       "onboard_time": 1681464688,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305002,
+      "num": 305002,
+      "word": "岸田文雄回应爆炸",
+      "onboard_time": 1681532786,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304815,
@@ -7691,6 +7707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228360,
+      "num": 228360,
+      "word": "李昀锐董洁新剧演母子",
+      "onboard_time": 1681531344,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228215,
       "num": 228215,
       "word": "张元英绿色眼妆",
@@ -8163,14 +8187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215129,
-      "num": 215129,
-      "word": "TFBOYS415九周年了",
-      "onboard_time": 1681531464,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215089,
       "num": 215089,
       "word": "长月烬明登陆韩国大屏",
@@ -8595,6 +8611,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 206225,
+      "num": 202842,
+      "word": "赞多穿西装皮鞋battle",
+      "onboard_time": 1681532667,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206140,
       "num": 206140,
       "word": "陈飞宇周也新片告白吻戏",
@@ -8641,14 +8665,6 @@
       "onboard_time": 1681378590,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205492,
-      "num": 205492,
-      "word": "李昀锐董洁新剧演母子",
-      "onboard_time": 1681531344,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 205270,
@@ -9643,6 +9659,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 196501,
+      "num": 152009,
+      "word": "明星召唤师祝福LPL十周年",
+      "onboard_time": 1681532725,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196453,
       "num": 196453,
       "word": "任嘉伦超话会掉落Q版任嘉伦",
@@ -10209,6 +10233,14 @@
       "onboard_time": 1681141648,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188684,
+      "num": 188684,
+      "word": "明日方舟音律联觉音乐会",
+      "onboard_time": 1681532606,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 188560,
@@ -10928,6 +10960,14 @@
       "word": "白鲨挺进春决会师AG",
       "onboard_time": 1681081939,
       "rank": 17,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 175833,
+      "num": 148419,
+      "word": "任天堂 真有你的啊",
+      "onboard_time": 1681532547,
+      "rank": 31,
       "category": "游戏"
     },
     {
@@ -13171,6 +13211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 123565,
+      "num": 123565,
+      "word": "西双版纳泼水节",
+      "onboard_time": 1681532725,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 122951,
       "num": 122951,
       "word": "电竞百灵鸟一诺再上线",
@@ -13425,6 +13473,14 @@
       "onboard_time": 1681182988,
       "rank": 49,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 116829,
+      "num": 116829,
+      "word": "普男普女算贬义词吗",
+      "onboard_time": 1681532725,
+      "rank": 39,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 116425,
@@ -13721,6 +13777,14 @@
       "onboard_time": 1681527324,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104486,
+      "num": 104486,
+      "word": "清北学生免费游淄博政策或推迟",
+      "onboard_time": 1681533145,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 103756,
