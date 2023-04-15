@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681533242766,
+  "endTime": 1681535738894,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -9,6 +9,14 @@
       "onboard_time": 1681524146,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2324320,
+      "num": 2324320,
+      "word": "成龙被观众当场要求退票",
+      "onboard_time": 1681534526,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1959237,
@@ -73,6 +81,14 @@
       "onboard_time": 1681520966,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1112805,
+      "num": 1112805,
+      "word": "长月烬明排播调整",
+      "onboard_time": 1681533865,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 977198,
@@ -163,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 558945,
+      "num": 558945,
+      "word": "岸田文雄回应爆炸",
+      "onboard_time": 1681532786,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534352,
       "num": 534352,
       "word": "五一火车票秒空",
@@ -185,6 +209,14 @@
       "onboard_time": 1681518865,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465866,
+      "num": 465866,
+      "word": "清北学生免费游淄博政策或推迟",
+      "onboard_time": 1681533145,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 462986,
@@ -307,6 +339,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 339108,
+      "num": 262259,
+      "word": "吉克隽逸泰妆",
+      "onboard_time": 1681533566,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332365,
+      "num": 260081,
+      "word": "姜太显哭了",
+      "onboard_time": 1681534828,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326810,
       "num": 326810,
       "word": "柯南 处处吻",
@@ -315,8 +363,16 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 323834,
+      "num": 253071,
+      "word": "任天堂 真有你的啊",
+      "onboard_time": 1681532547,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 311173,
-      "num": 215129,
+      "num": 223238,
       "word": "TFBOYS415九周年了",
       "onboard_time": 1681531464,
       "rank": 21,
@@ -329,14 +385,6 @@
       "onboard_time": 1681521023,
       "rank": 36,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 305002,
-      "num": 305002,
-      "word": "岸田文雄回应爆炸",
-      "onboard_time": 1681532786,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292959,
@@ -360,6 +408,22 @@
       "word": "女儿发现做月嫂的妈妈存款近500万",
       "onboard_time": 1681461687,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272920,
+      "num": 272920,
+      "word": "王俊凯第30届大学生电影节青春同路人",
+      "onboard_time": 1681534526,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 268347,
+      "num": 251915,
+      "word": "老汉抢座揪住女子衣领将其拎起",
+      "onboard_time": 1681534226,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -419,6 +483,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 248240,
+      "num": 248240,
+      "word": "科切拉音乐节",
+      "onboard_time": 1681535005,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 245218,
       "num": 245218,
       "word": "擅长溺爱的粉丝",
@@ -433,6 +505,14 @@
       "onboard_time": 1681529365,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244129,
+      "num": 244129,
+      "word": "普男普女算贬义词吗",
+      "onboard_time": 1681532725,
+      "rank": 39,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 243776,
@@ -465,6 +545,14 @@
       "onboard_time": 1681531344,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 223854,
+      "num": 223854,
+      "word": "女子推理社定档",
+      "onboard_time": 1681534106,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 222426,
@@ -547,6 +635,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 197263,
+      "num": 183848,
+      "word": "INTO1演唱会",
+      "onboard_time": 1681535364,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196821,
       "num": 99392,
       "word": "岸田文雄演讲场地传出爆炸声",
@@ -595,6 +691,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 190910,
+      "num": 183178,
+      "word": "檀健次新专辑花絮",
+      "onboard_time": 1681534526,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 189424,
+      "num": 165804,
+      "word": "姬小满的武道试炼",
+      "onboard_time": 1681535067,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188824,
       "num": 188824,
       "word": "老道",
@@ -627,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187350,
+      "num": 187350,
+      "word": "斗罗大陆",
+      "onboard_time": 1681533926,
+      "rank": 24,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 186738,
       "num": 186738,
       "word": "罗云熙澹台烬挑眉杀合辑",
@@ -643,12 +763,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 175833,
-      "num": 148419,
-      "word": "任天堂 真有你的啊",
-      "onboard_time": 1681532547,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 179460,
+      "num": 165117,
+      "word": "粉丝靠鞋认出鹿晗",
+      "onboard_time": 1681531644,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 178357,
+      "num": 178357,
+      "word": "隋唐洛阳城绝美华服秀",
+      "onboard_time": 1681535485,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 175654,
@@ -657,6 +785,14 @@
       "onboard_time": 1681529424,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175024,
+      "num": 164213,
+      "word": "宋妍霏驾照到手",
+      "onboard_time": 1681533506,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 172358,
@@ -707,6 +843,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 162132,
+      "num": 162132,
+      "word": "CP29",
+      "onboard_time": 1681534285,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 161629,
       "num": 161629,
       "word": "模范出租车2",
@@ -721,6 +865,14 @@
       "onboard_time": 1681462769,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160694,
+      "num": 160694,
+      "word": "潍坊风筝节",
+      "onboard_time": 1681534464,
+      "rank": 35,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 158620,
@@ -739,11 +891,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156099,
-      "num": 156099,
-      "word": "粉丝靠鞋认出鹿晗",
-      "onboard_time": 1681531644,
-      "rank": 29,
+      "raw_hot": 151157,
+      "num": 151157,
+      "word": "了不起舞社2舞台",
+      "onboard_time": 1681534705,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -763,6 +915,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141287,
+      "num": 141287,
+      "word": "西双版纳泼水节",
+      "onboard_time": 1681532725,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 140746,
+      "num": 140746,
+      "word": "森林狼季后赛对阵掘金",
+      "onboard_time": 1681534585,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140727,
       "num": 140727,
       "word": "孙珍妮追星成功白鹿",
@@ -777,6 +945,14 @@
       "onboard_time": 1681525944,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128825,
+      "num": 128825,
+      "word": "芒果迷综规则怪谈",
+      "onboard_time": 1681534347,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 128075,
@@ -795,12 +971,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 123565,
-      "num": 123565,
-      "word": "西双版纳泼水节",
-      "onboard_time": 1681532725,
-      "rank": 36,
-      "category": "旅游"
+      "raw_hot": 123896,
+      "num": 123896,
+      "word": "官鸿线上恋综线下送花",
+      "onboard_time": 1681533266,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 122236,
@@ -827,14 +1003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 116829,
-      "num": 116829,
-      "word": "普男普女算贬义词吗",
-      "onboard_time": 1681532725,
-      "rank": 39,
-      "category": "情感,艺人"
-    },
-    {
       "raw_hot": 116041,
       "num": 116041,
       "word": "曲婉婷名下两套房产被法拍",
@@ -848,6 +1016,14 @@
       "word": "青春环游记春日旅行海报",
       "onboard_time": 1681530506,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110453,
+      "num": 110453,
+      "word": "种地吧",
+      "onboard_time": 1681534045,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -873,14 +1049,6 @@
       "onboard_time": 1681527324,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 104486,
-      "num": 104486,
-      "word": "清北学生免费游淄博政策或推迟",
-      "onboard_time": 1681533145,
-      "rank": 47,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 103756,
@@ -1004,7 +1172,7 @@
     },
     {
       "raw_hot": 83515,
-      "num": 821998,
+      "num": 1225401,
       "word": "全民国家安全教育日公益短片",
       "onboard_time": 1681529124,
       "rank": 2,
