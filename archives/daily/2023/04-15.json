@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681564712199,
+  "endTime": 1681565608487,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -179,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1001493,
-      "num": 1001493,
+      "raw_hot": 1060116,
+      "num": 1060116,
       "word": "成龙退票事件完整视频",
       "onboard_time": 1681558467,
       "rank": 4,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542658,
+      "num": 209662,
+      "word": "肖战梦洁直播",
+      "onboard_time": 1681563808,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536337,
       "num": 381325,
       "word": "姜太显哭了",
@@ -457,6 +465,14 @@
       "onboard_time": 1681533145,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 465414,
+      "num": 465414,
+      "word": "Tabe的BP被爆",
+      "onboard_time": 1681563327,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 462986,
@@ -523,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 432469,
-      "num": 432469,
-      "word": "Tabe的BP被爆",
-      "onboard_time": 1681563327,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 423090,
       "num": 608540,
       "word": "那个失去双腿靠篮球行走的女孩长大了",
@@ -571,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395406,
+      "num": 239137,
+      "word": "为什么现在姐弟恋越来越多",
+      "onboard_time": 1681560329,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390595,
       "num": 331300,
       "word": "清华张小年",
@@ -595,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382564,
-      "num": 209662,
-      "word": "肖战梦洁直播",
-      "onboard_time": 1681563808,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 382248,
+      "num": 382248,
+      "word": "灌篮高手口碑",
+      "onboard_time": 1681563507,
+      "rank": 15,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 381469,
@@ -755,28 +771,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 304932,
-      "num": 239137,
-      "word": "为什么现在姐弟恋越来越多",
-      "onboard_time": 1681560329,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 301458,
       "num": 301458,
       "word": "JDG对战BLG",
       "onboard_time": 1681539926,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 299903,
-      "num": 299903,
-      "word": "灌篮高手口碑",
-      "onboard_time": 1681563507,
-      "rank": 15,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 295183,
@@ -1051,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225073,
+      "num": 208451,
+      "word": "柳智敏神似爱丽丝",
+      "onboard_time": 1681561468,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223854,
       "num": 223854,
       "word": "女子推理社定档",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1681479209,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221168,
-      "num": 208451,
-      "word": "柳智敏神似爱丽丝",
-      "onboard_time": 1681561468,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 220390,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1681539686,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195693,
+      "num": 195693,
+      "word": "AG对战Hero",
+      "onboard_time": 1681565068,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 195352,
@@ -1707,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151079,
+      "num": 151079,
+      "word": "牙膏困了",
+      "onboard_time": 1681564048,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150067,
       "num": 150067,
       "word": "BoysPlanet决赛见面会",
@@ -1787,20 +1803,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132684,
-      "num": 132684,
-      "word": "牙膏困了",
-      "onboard_time": 1681564048,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 131532,
       "num": 131532,
       "word": "一起露营吧2宣传片信息量",
       "onboard_time": 1681539867,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128983,
+      "num": 128983,
+      "word": "WTT",
+      "onboard_time": 1681565547,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 128825,
@@ -1841,6 +1857,14 @@
       "onboard_time": 1681540048,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126434,
+      "num": 126434,
+      "word": "时代少年团狗叫式交流法",
+      "onboard_time": 1681564887,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126421,
@@ -1913,6 +1937,14 @@
       "onboard_time": 1681462050,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115211,
+      "num": 115211,
+      "word": "369 一阵上单就是会赢无阵上单",
+      "onboard_time": 1681565307,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 113280,
@@ -1993,6 +2025,14 @@
       "onboard_time": 1681529605,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103493,
+      "num": 103493,
+      "word": "郑州通报共享厨房相关情况",
+      "onboard_time": 1681565547,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 103059,
@@ -2225,6 +2265,14 @@
       "onboard_time": 1681509913,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32458,
+      "num": 1073863,
+      "word": "乘车跨越中老边境线梦幻又震撼",
+      "onboard_time": 1681564948,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31910,
