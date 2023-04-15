@@ -1,0 +1,410 @@
+{
+  "runTime": 1681547604909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1341401,
+        "num": 1341401,
+        "word": "薛之谦唱到一半被伴舞撞飞了",
+        "onboard_time": 1681537406,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1483437,
+        "num": 1270789,
+        "word": "安倍晋三",
+        "onboard_time": 1681535967,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27917,
+        "num": 1082801,
+        "word": "全民国家安全教育日公益短片",
+        "onboard_time": 1681529124,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979321,
+        "num": 979321,
+        "word": "成龙被观众当场要求退票",
+        "onboard_time": 1681534526,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 876416,
+        "num": 876416,
+        "word": "张靓颖开场",
+        "onboard_time": 1681546586,
+        "rank": 4,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 706480,
+        "num": 706480,
+        "word": "柯哀牵手",
+        "onboard_time": 1681544908,
+        "rank": 5,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 664605,
+        "num": 664605,
+        "word": "FPX 没奖",
+        "onboard_time": 1681545147,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 659514,
+        "num": 659514,
+        "word": "12306候补",
+        "onboard_time": 1681539445,
+        "rank": 7,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 533579,
+        "num": 533579,
+        "word": "管泽元 余霜",
+        "onboard_time": 1681536989,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 269604,
+        "num": 438228,
+        "word": "老汉抢座揪住女子衣领将其拎起",
+        "onboard_time": 1681534226,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2259149,
+        "num": 432086,
+        "word": "宋雨琦确诊感染新冠",
+        "onboard_time": 1681541186,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 424587,
+        "num": 424587,
+        "word": "长月烬明排播调整",
+        "onboard_time": 1681533865,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391229,
+        "num": 391229,
+        "word": "现在就去法国排队",
+        "onboard_time": 1681543226,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379380,
+        "num": 379380,
+        "word": "郑元畅18年后再演江直树",
+        "onboard_time": 1681546227,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369793,
+        "num": 369793,
+        "word": "Meiko来进货的是吧",
+        "onboard_time": 1681542267,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 357094,
+        "num": 357094,
+        "word": "狐妖小红娘动画定档",
+        "onboard_time": 1681544005,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 336615,
+        "num": 336615,
+        "word": "赛琳娜自拍角度",
+        "onboard_time": 1681542206,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320829,
+        "num": 320829,
+        "word": "12306放票规则",
+        "onboard_time": 1681539686,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305568,
+        "num": 305568,
+        "word": "TF家族三代演唱会",
+        "onboard_time": 1681541245,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 292838,
+        "num": 292838,
+        "word": "那个失去双腿靠篮球行走的女孩长大了",
+        "onboard_time": 1681545447,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245166,
+        "num": 245166,
+        "word": "光渊",
+        "onboard_time": 1681543046,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244893,
+        "num": 244893,
+        "word": "李飞带三代练习生烧香",
+        "onboard_time": 1681542026,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221437,
+        "num": 221437,
+        "word": "姜太显哭了",
+        "onboard_time": 1681534828,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214996,
+        "num": 214996,
+        "word": "JackeyLove给Rookie颁奖",
+        "onboard_time": 1681544487,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212213,
+        "num": 212213,
+        "word": "LPL十周年纪念颁奖典礼",
+        "onboard_time": 1681542627,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198241,
+        "num": 212170,
+        "word": "十大选手 罚站",
+        "onboard_time": 1681547246,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185416,
+        "num": 212095,
+        "word": "男孩背患脑瘫同学10年从小学到高三",
+        "onboard_time": 1681536867,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 182998,
+        "num": 212021,
+        "word": "网友环球影城偶遇何洛洛",
+        "onboard_time": 1681543406,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146624,
+        "num": 212008,
+        "word": "父母生二胎子女有权阻止吗",
+        "onboard_time": 1681530744,
+        "rank": 28,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 140650,
+        "num": 211946,
+        "word": "蔡徐坤机场上错车",
+        "onboard_time": 1681538486,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131897,
+        "num": 211854,
+        "word": "JDG对战BLG",
+        "onboard_time": 1681539926,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125580,
+        "num": 211775,
+        "word": "周柏豪官宣广州见面会",
+        "onboard_time": 1681542206,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124303,
+        "num": 211707,
+        "word": "金智秀音中一位",
+        "onboard_time": 1681546287,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123340,
+        "num": 211663,
+        "word": "歪哥 蒲熠星",
+        "onboard_time": 1681520966,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117298,
+        "num": 211564,
+        "word": "INTO1最后一次签售会",
+        "onboard_time": 1681545987,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116754,
+        "num": 211525,
+        "word": "岸田文雄避难",
+        "onboard_time": 1681527863,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108758,
+        "num": 211461,
+        "word": "科切拉音乐节",
+        "onboard_time": 1681535005,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103887,
+        "num": 211414,
+        "word": "清北学生免费游淄博政策或推迟",
+        "onboard_time": 1681533145,
+        "rank": 37,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 103073,
+        "num": 211302,
+        "word": "试管生下龙凤胎父女间竟无血缘关系",
+        "onboard_time": 1681516463,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96570,
+        "num": 211255,
+        "word": "你好星期六好6团上班rap",
+        "onboard_time": 1681540346,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96032,
+        "num": 211188,
+        "word": "王俊凯第30届大学生电影节青春同路人",
+        "onboard_time": 1681534526,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 90504,
+        "num": 211141,
+        "word": "腾讯视频待播剧招商看点",
+        "onboard_time": 1681537347,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89530,
+        "num": 211051,
+        "word": "吴尊友称新冠已经趋于结束",
+        "onboard_time": 1681521744,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89501,
+        "num": 210992,
+        "word": "TFBOYS415九周年了",
+        "onboard_time": 1681531464,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89353,
+        "num": 210902,
+        "word": "王源撰文解析客厅狂欢演唱会",
+        "onboard_time": 1681546827,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88767,
+        "num": 210837,
+        "word": "张雨绮泰国音乐节路透",
+        "onboard_time": 1681536867,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87536,
+        "num": 210801,
+        "word": "英雄联盟",
+        "onboard_time": 1681541004,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81125,
+        "num": 210747,
+        "word": "恋与深空内测",
+        "onboard_time": 1681538127,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 80689,
+        "num": 210673,
+        "word": "摆完盘瞬间变贵了",
+        "onboard_time": 1681538006,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65229,
+        "num": 210574,
+        "word": "华为全新智能驾驶内测视频曝光",
+        "onboard_time": 1681547185,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同巴西总统举行会谈#"
+    }
+  }
+}
