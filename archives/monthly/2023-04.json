@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681529632048,
+  "endTime": 1681532425352,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 3118270,
-      "num": 317330,
+      "num": 321431,
       "word": "护士被扎20针",
       "onboard_time": 1681524146,
       "rank": 10,
@@ -1427,6 +1427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1775044,
+      "num": 1775044,
+      "word": "岸田文雄避难",
+      "onboard_time": 1681527863,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1767936,
       "num": 1767936,
       "word": "王者荣耀",
@@ -2280,14 +2288,6 @@
       "word": "杭州悬赏100万出点子摆脱美食荒漠",
       "onboard_time": 1680525394,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1316616,
-      "num": 1316616,
-      "word": "岸田文雄避难",
-      "onboard_time": 1681527863,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -8195,6 +8195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 529528,
+      "num": 529528,
+      "word": "父母生二胎子女有权阻止吗",
+      "onboard_time": 1681530744,
+      "rank": 3,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 529078,
       "num": 205011,
       "word": "Angelababy戴的项链预估价格九位数",
@@ -8345,6 +8353,14 @@
       "onboard_time": 1680833187,
       "rank": 16,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 522245,
+      "num": 522245,
+      "word": "日本首相演说现场传出爆炸声",
+      "onboard_time": 1681528285,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522177,
@@ -8841,6 +8857,14 @@
       "onboard_time": 1681387168,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495482,
+      "num": 310782,
+      "word": "秋瓷炫 春天来了可我还要工作",
+      "onboard_time": 1681531704,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 495322,
@@ -9552,14 +9576,6 @@
       "word": "浙江富家子开保时捷碰瓷",
       "onboard_time": 1681000946,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461148,
-      "num": 461148,
-      "word": "日本首相演说现场传出爆炸声",
-      "onboard_time": 1681528285,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -12075,6 +12091,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 371742,
+      "num": 371742,
+      "word": "陈粒演唱会门票",
+      "onboard_time": 1681529124,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 371415,
       "num": 345171,
       "word": "张国荣此间永远是少年",
@@ -12353,6 +12377,14 @@
       "onboard_time": 1680766708,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359852,
+      "num": 359852,
+      "word": "30000多个小时记录77种花开瞬间",
+      "onboard_time": 1681527504,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359673,
@@ -12817,6 +12849,14 @@
       "onboard_time": 1680649937,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 347473,
+      "num": 347473,
+      "word": "易烊千玺双蜡像同台释出",
+      "onboard_time": 1681529304,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 347133,
@@ -13688,6 +13728,14 @@
       "word": "龙马精神开分",
       "onboard_time": 1680867329,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 324690,
+      "num": 324690,
+      "word": "流浪地球2",
+      "onboard_time": 1681529244,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -15579,14 +15627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279484,
-      "num": 279484,
-      "word": "陈粒演唱会门票",
-      "onboard_time": 1681529124,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 279196,
       "num": 279196,
       "word": "薄冰",
@@ -16401,6 +16441,14 @@
       "onboard_time": 1680566129,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260555,
+      "num": 260555,
+      "word": "CBA对上海队与江苏队比赛展开调查",
+      "onboard_time": 1681525885,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 260524,
@@ -17387,6 +17435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244351,
+      "num": 244351,
+      "word": "马伊琍白宇新剧终极预告",
+      "onboard_time": 1681529365,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244012,
       "num": 228076,
       "word": "柳智敏中短发造型",
@@ -17760,6 +17816,14 @@
       "word": "大鹏导演新片热烈定档",
       "onboard_time": 1681181306,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 238211,
+      "num": 238211,
+      "word": "向佐或将出演垂涎",
+      "onboard_time": 1681529965,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -18651,14 +18715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 227238,
-      "num": 227238,
-      "word": "30000多个小时记录77种花开瞬间",
-      "onboard_time": 1681527504,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227007,
       "num": 227007,
       "word": "Newjeans的HypeBoy获人歌一位",
@@ -18961,14 +19017,6 @@
       "onboard_time": 1681370249,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221959,
-      "num": 221959,
-      "word": "CBA对上海队与江苏队比赛展开调查",
-      "onboard_time": 1681525885,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 221896,
@@ -19681,6 +19729,14 @@
       "onboard_time": 1680305119,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215129,
+      "num": 215129,
+      "word": "TFBOYS415九周年了",
+      "onboard_time": 1681531464,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 215089,
@@ -20643,6 +20699,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207157,
+      "num": 207157,
+      "word": "刘宇宁转光剑",
+      "onboard_time": 1681531166,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207103,
       "num": 207103,
       "word": "神隐德塔文待播剧景气指数第一",
@@ -20937,6 +21001,14 @@
       "onboard_time": 1681378590,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205492,
+      "num": 205492,
+      "word": "李昀锐董洁新剧演母子",
+      "onboard_time": 1681531344,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 205473,
@@ -24145,14 +24217,6 @@
       "onboard_time": 1680854907,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192659,
-      "num": 157916,
-      "word": "马伊琍白宇新剧终极预告",
-      "onboard_time": 1681529365,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 192617,
@@ -28787,6 +28851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156099,
+      "num": 156099,
+      "word": "粉丝靠鞋认出鹿晗",
+      "onboard_time": 1681531644,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156013,
       "num": 156013,
       "word": "张碧晨出席东方风云榜三十周年发布会",
@@ -29731,6 +29803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147969,
+      "num": 147969,
+      "word": "王濛踢足球好吵",
+      "onboard_time": 1681529723,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147943,
       "num": 149063,
       "word": "花亦山心之月",
@@ -30099,6 +30179,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 144271,
+      "num": 144271,
+      "word": "玉溪山火",
+      "onboard_time": 1681529424,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144261,
       "num": 144261,
       "word": "张杰身骑白马舞台预告",
@@ -30449,14 +30537,6 @@
       "onboard_time": 1681136191,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140696,
-      "num": 140696,
-      "word": "流浪地球2",
-      "onboard_time": 1681529244,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 140627,
@@ -32667,14 +32747,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 115471,
-      "num": 115471,
-      "word": "易烊千玺双蜡像同台释出",
-      "onboard_time": 1681529304,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115469,
       "num": 115469,
       "word": "杭州美食七大硬伤",
@@ -32785,6 +32857,14 @@
       "onboard_time": 1680434548,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113280,
+      "num": 113280,
+      "word": "青春环游记春日旅行海报",
+      "onboard_time": 1681530506,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 113273,
@@ -32953,6 +33033,14 @@
       "onboard_time": 1681439426,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109955,
+      "num": 109955,
+      "word": "贾乃亮严浩翔说我们真的很不错",
+      "onboard_time": 1681531704,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 109942,
@@ -33283,6 +33371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103756,
+      "num": 103756,
+      "word": "妈妈咪呀今日开播",
+      "onboard_time": 1681529605,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103751,
       "num": 103751,
       "word": "69岁成龙说我还能打还能跳",
@@ -33480,14 +33576,6 @@
       "word": "画手用镜子作画与古迹完美重合",
       "onboard_time": 1680353009,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101114,
-      "num": 101114,
-      "word": "玉溪山火",
-      "onboard_time": 1681529424,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -33913,14 +34001,6 @@
       "onboard_time": 1681081518,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92525,
-      "num": 92525,
-      "word": "妈妈咪呀今日开播",
-      "onboard_time": 1681529605,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 92456,
@@ -35456,6 +35536,9 @@
     },
     {
       "word": "#习近平同巴西总统举行会谈#"
+    },
+    {
+      "word": "#习主席用三个关键词定位中巴关系#"
     }
   ]
 }

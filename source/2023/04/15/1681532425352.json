@@ -1,0 +1,410 @@
+{
+  "runTime": 1681532425352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1775044,
+        "num": 1775044,
+        "word": "岸田文雄避难",
+        "onboard_time": 1681527863,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040389,
+        "num": 1040389,
+        "word": "吴尊友称新冠已经趋于结束",
+        "onboard_time": 1681521744,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36504,
+        "num": 720196,
+        "word": "全民国家安全教育日公益短片",
+        "onboard_time": 1681529124,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529528,
+        "num": 529528,
+        "word": "父母生二胎子女有权阻止吗",
+        "onboard_time": 1681530744,
+        "rank": 3,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 522245,
+        "num": 522245,
+        "word": "日本首相演说现场传出爆炸声",
+        "onboard_time": 1681528285,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503671,
+        "num": 503671,
+        "word": "五一火车票秒空",
+        "onboard_time": 1681526843,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 371742,
+        "num": 371742,
+        "word": "陈粒演唱会门票",
+        "onboard_time": 1681529124,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359852,
+        "num": 359852,
+        "word": "30000多个小时记录77种花开瞬间",
+        "onboard_time": 1681527504,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347473,
+        "num": 347473,
+        "word": "易烊千玺双蜡像同台释出",
+        "onboard_time": 1681529304,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324690,
+        "num": 324690,
+        "word": "流浪地球2",
+        "onboard_time": 1681529244,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2321030,
+        "num": 321431,
+        "word": "护士被扎20针",
+        "onboard_time": 1681524146,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906858,
+        "num": 311620,
+        "word": "歪哥 蒲熠星",
+        "onboard_time": 1681520966,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495482,
+        "num": 310782,
+        "word": "秋瓷炫 春天来了可我还要工作",
+        "onboard_time": 1681531704,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289814,
+        "num": 289814,
+        "word": "淄博酒店",
+        "onboard_time": 1681521023,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 260555,
+        "num": 260555,
+        "word": "CBA对上海队与江苏队比赛展开调查",
+        "onboard_time": 1681525885,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246275,
+        "num": 246275,
+        "word": "生源都不足了还要高价抢学区房吗",
+        "onboard_time": 1681503313,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 244977,
+        "num": 244977,
+        "word": "泫雅泰国泼水节 舞台上的野马",
+        "onboard_time": 1681478366,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244351,
+        "num": 244351,
+        "word": "马伊琍白宇新剧终极预告",
+        "onboard_time": 1681529365,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238211,
+        "num": 238211,
+        "word": "向佐或将出演垂涎",
+        "onboard_time": 1681529965,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221510,
+        "num": 221510,
+        "word": "奔跑吧下周是城市追击战",
+        "onboard_time": 1681519405,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338754,
+        "num": 221331,
+        "word": "试管生下龙凤胎父女间竟无血缘关系",
+        "onboard_time": 1681516463,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215129,
+        "num": 215129,
+        "word": "TFBOYS415九周年了",
+        "onboard_time": 1681531464,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212366,
+        "num": 212366,
+        "word": "贵州倪青青",
+        "onboard_time": 1681524203,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207157,
+        "num": 207157,
+        "word": "刘宇宁转光剑",
+        "onboard_time": 1681531166,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205492,
+        "num": 205492,
+        "word": "李昀锐董洁新剧演母子",
+        "onboard_time": 1681531344,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202962,
+        "num": 202962,
+        "word": "招惹唯一吻戏",
+        "onboard_time": 1681524384,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200875,
+        "num": 200875,
+        "word": "许超医生 麻烦网红不要去碰瓷医院",
+        "onboard_time": 1681479869,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165499,
+        "num": 165499,
+        "word": "微信回应工信部最新要求",
+        "onboard_time": 1681517605,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 164328,
+        "num": 164328,
+        "word": "罗云熙澹台烬挑眉杀合辑",
+        "onboard_time": 1681529003,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156099,
+        "num": 156099,
+        "word": "粉丝靠鞋认出鹿晗",
+        "onboard_time": 1681531644,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150312,
+        "num": 150312,
+        "word": "哪种旅游打卡照可能泄露国家秘密",
+        "onboard_time": 1681516822,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 147969,
+        "num": 147969,
+        "word": "王濛踢足球好吵",
+        "onboard_time": 1681529723,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144271,
+        "num": 144271,
+        "word": "玉溪山火",
+        "onboard_time": 1681529424,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137562,
+        "num": 137562,
+        "word": "抗癌共享厨房申请公益账户不符要求",
+        "onboard_time": 1681522165,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133862,
+        "num": 133862,
+        "word": "岸田演讲场地一男子被制服",
+        "onboard_time": 1681528764,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127141,
+        "num": 127141,
+        "word": "王者新赛季",
+        "onboard_time": 1681518865,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122476,
+        "num": 122476,
+        "word": "癌症早期症状有哪些",
+        "onboard_time": 1681517422,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114077,
+        "num": 114077,
+        "word": "淄博音乐节",
+        "onboard_time": 1681520244,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113280,
+        "num": 113280,
+        "word": "青春环游记春日旅行海报",
+        "onboard_time": 1681530506,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112811,
+        "num": 112811,
+        "word": "建议微信出个头像屏蔽功能",
+        "onboard_time": 1681481010,
+        "rank": 39,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 110564,
+        "num": 110564,
+        "word": "姚明",
+        "onboard_time": 1681487786,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109955,
+        "num": 109955,
+        "word": "贾乃亮严浩翔说我们真的很不错",
+        "onboard_time": 1681531704,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107267,
+        "num": 107267,
+        "word": "篮协要求调查上海江苏季后赛",
+        "onboard_time": 1681513819,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415525,
+        "num": 105569,
+        "word": "女儿成绩不好 帮我写一封信给她",
+        "onboard_time": 1681515441,
+        "rank": 43,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 103756,
+        "num": 103756,
+        "word": "妈妈咪呀今日开播",
+        "onboard_time": 1681529605,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101474,
+        "num": 101474,
+        "word": "刘恋 薛凯琪",
+        "onboard_time": 1681477826,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98175,
+        "num": 98175,
+        "word": "显微镜下的流浪地球2",
+        "onboard_time": 1681528644,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98144,
+        "num": 98144,
+        "word": "When you come around",
+        "onboard_time": 1681515321,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95605,
+        "num": 95605,
+        "word": "淄博文旅局长",
+        "onboard_time": 1681485328,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 93447,
+        "num": 93447,
+        "word": "PDD歌友会",
+        "onboard_time": 1681521864,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席用三个关键词定位中巴关系#"
+    }
+  }
+}

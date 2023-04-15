@@ -1,10 +1,10 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681529632048,
+  "endTime": 1681532425352,
   "band_list": [
     {
       "raw_hot": 3118270,
-      "num": 317330,
+      "num": 321431,
       "word": "护士被扎20针",
       "onboard_time": 1681524146,
       "rank": 10,
@@ -35,19 +35,19 @@
       "category": "情感,科技"
     },
     {
+      "raw_hot": 1775044,
+      "num": 1775044,
+      "word": "岸田文雄避难",
+      "onboard_time": 1681527863,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1736788,
       "num": 1736788,
       "word": "吴尊友称新冠已经趋于结束",
       "onboard_time": 1681521744,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1316616,
-      "num": 1316616,
-      "word": "岸田文雄避难",
-      "onboard_time": 1681527863,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -155,12 +155,36 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 529528,
+      "num": 529528,
+      "word": "父母生二胎子女有权阻止吗",
+      "onboard_time": 1681530744,
+      "rank": 3,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 522245,
+      "num": 522245,
+      "word": "日本首相演说现场传出爆炸声",
+      "onboard_time": 1681528285,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500477,
       "num": 500477,
       "word": "五一火车票",
       "onboard_time": 1681518865,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495482,
+      "num": 310782,
+      "word": "秋瓷炫 春天来了可我还要工作",
+      "onboard_time": 1681531704,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 462986,
@@ -176,14 +200,6 @@
       "word": "医院回应护士上班戴美甲给患者扎针",
       "onboard_time": 1681479089,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461148,
-      "num": 461148,
-      "word": "日本首相演说现场传出爆炸声",
-      "onboard_time": 1681528285,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -243,11 +259,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371742,
+      "num": 371742,
+      "word": "陈粒演唱会门票",
+      "onboard_time": 1681529124,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 361547,
       "num": 361547,
       "word": "安徽亳州失联爷孙遗体已找到",
       "onboard_time": 1681470686,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359852,
+      "num": 359852,
+      "word": "30000多个小时记录77种花开瞬间",
+      "onboard_time": 1681527504,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -259,12 +291,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 347473,
+      "num": 347473,
+      "word": "易烊千玺双蜡像同台释出",
+      "onboard_time": 1681529304,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326810,
       "num": 326810,
       "word": "柯南 处处吻",
       "onboard_time": 1681472425,
       "rank": 15,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 324690,
+      "num": 324690,
+      "word": "流浪地球2",
+      "onboard_time": 1681529244,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 308826,
@@ -291,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279484,
-      "num": 279484,
-      "word": "陈粒演唱会门票",
-      "onboard_time": 1681529124,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 276358,
       "num": 276358,
       "word": "女儿发现做月嫂的妈妈存款近500万",
@@ -321,6 +361,14 @@
       "onboard_time": 1681517422,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260555,
+      "num": 260555,
+      "word": "CBA对上海队与江苏队比赛展开调查",
+      "onboard_time": 1681525885,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 258966,
@@ -363,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244351,
+      "num": 244351,
+      "word": "马伊琍白宇新剧终极预告",
+      "onboard_time": 1681529365,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243776,
       "num": 243776,
       "word": "贵阳曾杨",
@@ -379,12 +435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 227238,
-      "num": 227238,
-      "word": "30000多个小时记录77种花开瞬间",
-      "onboard_time": 1681527504,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 238211,
+      "num": 238211,
+      "word": "向佐或将出演垂涎",
+      "onboard_time": 1681529965,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 222426,
@@ -392,14 +448,6 @@
       "word": "CBA",
       "onboard_time": 1681479209,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 221959,
-      "num": 221959,
-      "word": "CBA对上海队与江苏队比赛展开调查",
-      "onboard_time": 1681525885,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -427,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215129,
+      "num": 215129,
+      "word": "TFBOYS415九周年了",
+      "onboard_time": 1681531464,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212432,
       "num": 212432,
       "word": "为什么广东胖子少",
@@ -435,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207157,
+      "num": 207157,
+      "word": "刘宇宁转光剑",
+      "onboard_time": 1681531166,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206026,
       "num": 206026,
       "word": "幼升小offer",
       "onboard_time": 1681514598,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205492,
+      "num": 205492,
+      "word": "李昀锐董洁新剧演母子",
+      "onboard_time": 1681531344,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 202429,
@@ -489,14 +561,6 @@
       "onboard_time": 1681485627,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192659,
-      "num": 157916,
-      "word": "马伊琍白宇新剧终极预告",
-      "onboard_time": 1681529365,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 192289,
@@ -635,19 +699,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156099,
+      "num": 156099,
+      "word": "粉丝靠鞋认出鹿晗",
+      "onboard_time": 1681531644,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147969,
+      "num": 147969,
+      "word": "王濛踢足球好吵",
+      "onboard_time": 1681529723,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144271,
+      "num": 144271,
+      "word": "玉溪山火",
+      "onboard_time": 1681529424,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140727,
       "num": 140727,
       "word": "孙珍妮追星成功白鹿",
       "onboard_time": 1681476747,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 140696,
-      "num": 140696,
-      "word": "流浪地球2",
-      "onboard_time": 1681529244,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -707,12 +787,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115471,
-      "num": 115471,
-      "word": "易烊千玺双蜡像同台释出",
-      "onboard_time": 1681529304,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 113280,
+      "num": 113280,
+      "word": "青春环游记春日旅行海报",
+      "onboard_time": 1681530506,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109955,
+      "num": 109955,
+      "word": "贾乃亮严浩翔说我们真的很不错",
+      "onboard_time": 1681531704,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 109903,
@@ -731,6 +819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 103756,
+      "num": 103756,
+      "word": "妈妈咪呀今日开播",
+      "onboard_time": 1681529605,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103059,
       "num": 109886,
       "word": "希望五年后的今天",
@@ -745,14 +841,6 @@
       "onboard_time": 1681469787,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 101114,
-      "num": 101114,
-      "word": "玉溪山火",
-      "onboard_time": 1681529424,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100556,
@@ -817,14 +905,6 @@
       "onboard_time": 1681479568,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 92525,
-      "num": 92525,
-      "word": "妈妈咪呀今日开播",
-      "onboard_time": 1681529605,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 90678,
@@ -932,6 +1012,9 @@
     },
     {
       "word": "#中国式现代化有目标有规划有战略#"
+    },
+    {
+      "word": "#习主席用三个关键词定位中巴关系#"
     }
   ]
 }
