@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681540420337,
+  "endTime": 1681542897401,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -825,6 +825,14 @@
       "onboard_time": 1680862171,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2243455,
+      "num": 2243455,
+      "word": "宋雨琦确诊感染新冠",
+      "onboard_time": 1681541186,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2234743,
@@ -2196,7 +2204,7 @@
     },
     {
       "raw_hot": 1383472,
-      "num": 689814,
+      "num": 915612,
       "word": "管泽元 余霜",
       "onboard_time": 1681536989,
       "rank": 5,
@@ -2865,6 +2873,14 @@
       "onboard_time": 1680784351,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1129221,
+      "num": 1129221,
+      "word": "12306候补",
+      "onboard_time": 1681539445,
+      "rank": 30,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1126628,
@@ -6075,14 +6091,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 662381,
-      "num": 662381,
-      "word": "12306候补",
-      "onboard_time": 1681539445,
-      "rank": 30,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 662352,
       "num": 548771,
       "word": "泫雅黑色短发",
@@ -6729,6 +6737,14 @@
       "onboard_time": 1680591988,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619842,
+      "num": 619842,
+      "word": "TF家族三代演唱会",
+      "onboard_time": 1681541245,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 619376,
@@ -11875,6 +11891,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 385058,
+      "num": 385058,
+      "word": "12306放票规则",
+      "onboard_time": 1681539686,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385001,
       "num": 385001,
       "word": "果然娱乐律师声明",
@@ -14972,7 +14996,7 @@
     },
     {
       "raw_hot": 295183,
-      "num": 273784,
+      "num": 294826,
       "word": "男孩背患脑瘫同学10年从小学到高三",
       "onboard_time": 1681536867,
       "rank": 15,
@@ -15060,7 +15084,7 @@
     },
     {
       "raw_hot": 294038,
-      "num": 268952,
+      "num": 274429,
       "word": "蔡徐坤机场上错车",
       "onboard_time": 1681538486,
       "rank": 18,
@@ -15353,6 +15377,14 @@
       "onboard_time": 1680922527,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287302,
+      "num": 287302,
+      "word": "Meiko来进货的是吧",
+      "onboard_time": 1681542267,
+      "rank": 13,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 287216,
@@ -17201,6 +17233,14 @@
       "onboard_time": 1681114288,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251273,
+      "num": 251273,
+      "word": "李飞带三代练习生烧香",
+      "onboard_time": 1681542026,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 251234,
@@ -20003,6 +20043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213870,
+      "num": 213870,
+      "word": "赛琳娜自拍角度",
+      "onboard_time": 1681542206,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213836,
       "num": 213836,
       "word": "郑州抗癌共享厨房面临关门困境",
@@ -20929,6 +20977,14 @@
       "onboard_time": 1681397671,
       "rank": 39,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 206910,
+      "num": 206910,
+      "word": "朱志鑫舞台饭拍",
+      "onboard_time": 1681542026,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206849,
@@ -24163,6 +24219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 193823,
+      "num": 155650,
+      "word": "雪允唱mrchu",
+      "onboard_time": 1681542026,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193786,
       "num": 200278,
       "word": "王伟牺牲22年了",
@@ -25985,6 +26049,14 @@
       "onboard_time": 1680586230,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184421,
+      "num": 184421,
+      "word": "LPL十周年纪念颁奖典礼",
+      "onboard_time": 1681542627,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 184384,
@@ -28355,6 +28427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 163470,
+      "num": 163470,
+      "word": "英雄联盟",
+      "onboard_time": 1681541004,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163466,
       "num": 167053,
       "word": "我们的客栈云合数据登顶",
@@ -28979,14 +29059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158137,
-      "num": 158137,
-      "word": "12306放票规则",
-      "onboard_time": 1681539686,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158096,
       "num": 158096,
       "word": "二十二导演新片关注孤独症患者",
@@ -29313,6 +29385,14 @@
       "onboard_time": 1680449318,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 154875,
+      "num": 154875,
+      "word": "你好星期六好6团上班rap",
+      "onboard_time": 1681540346,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 154764,
@@ -29705,6 +29785,14 @@
       "onboard_time": 1680481710,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151280,
+      "num": 151280,
+      "word": "难哄第二季",
+      "onboard_time": 1681538546,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 151251,
@@ -30507,14 +30595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 144147,
-      "num": 144147,
-      "word": "难哄第二季",
-      "onboard_time": 1681538546,
-      "rank": 28,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 144027,
       "num": 144027,
       "word": "灿烂的转身爽点",
@@ -31209,6 +31289,14 @@
       "onboard_time": 1680343351,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136686,
+      "num": 136686,
+      "word": "摆完盘瞬间变贵了",
+      "onboard_time": 1681538006,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 136610,
@@ -32091,6 +32179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127749,
+      "num": 127749,
+      "word": "六公主播波西米亚狂想曲",
+      "onboard_time": 1681540586,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127748,
       "num": 127748,
       "word": "鹿晗王勉睡一张床",
@@ -32369,14 +32465,6 @@
       "onboard_time": 1680997159,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 124394,
-      "num": 124394,
-      "word": "摆完盘瞬间变贵了",
-      "onboard_time": 1681538006,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 124269,
@@ -33155,14 +33243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114161,
-      "num": 114161,
-      "word": "你好星期六好6团上班rap",
-      "onboard_time": 1681540346,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113952,
       "num": 113952,
       "word": "川大研究称善于社交更长寿",
@@ -33451,6 +33531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109354,
+      "num": 106207,
+      "word": "周柏豪官宣广州见面会",
+      "onboard_time": 1681542206,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 109104,
       "num": 109104,
       "word": "大锁用斧子给蒋敦豪宋木子修牛蹄",
@@ -33633,6 +33721,14 @@
       "onboard_time": 1681293627,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105854,
+      "num": 105854,
+      "word": "明日方舟嘉年华",
+      "onboard_time": 1681541968,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 105803,
@@ -34113,6 +34209,14 @@
       "onboard_time": 1680917486,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98862,
+      "num": 98862,
+      "word": "王千源演的王历文",
+      "onboard_time": 1681542866,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 98616,
@@ -34676,7 +34780,7 @@
     },
     {
       "raw_hot": 83515,
-      "num": 1689737,
+      "num": 1829227,
       "word": "全民国家安全教育日公益短片",
       "onboard_time": 1681529124,
       "rank": 2,
@@ -35641,6 +35745,14 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 23575,
+      "num": 279648,
+      "word": "V影响力峰会",
+      "onboard_time": 1681542026,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23161,

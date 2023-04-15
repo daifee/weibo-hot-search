@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681540420337,
+  "endTime": 1681542897401,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -25,6 +25,14 @@
       "onboard_time": 1681535967,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2243455,
+      "num": 2243455,
+      "word": "宋雨琦确诊感染新冠",
+      "onboard_time": 1681541186,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1959237,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1383472,
-      "num": 689814,
+      "num": 915612,
       "word": "管泽元 余霜",
       "onboard_time": 1681536989,
       "rank": 5,
@@ -97,6 +105,14 @@
       "onboard_time": 1681537406,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1129221,
+      "num": 1129221,
+      "word": "12306候补",
+      "onboard_time": 1681539445,
+      "rank": 30,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 1123745,
@@ -179,20 +195,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 662381,
-      "num": 662381,
-      "word": "12306候补",
-      "onboard_time": 1681539445,
-      "rank": 30,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 659201,
       "num": 659201,
       "word": "父母生二胎子女有权阻止吗",
       "onboard_time": 1681530744,
       "rank": 3,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 619842,
+      "num": 619842,
+      "word": "TF家族三代演唱会",
+      "onboard_time": 1681541245,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 603619,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385058,
+      "num": 385058,
+      "word": "12306放票规则",
+      "onboard_time": 1681539686,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 384034,
       "num": 384034,
       "word": "易烊千玺双蜡像同台释出",
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 295183,
-      "num": 273784,
+      "num": 294826,
       "word": "男孩背患脑瘫同学10年从小学到高三",
       "onboard_time": 1681536867,
       "rank": 15,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 294038,
-      "num": 268952,
+      "num": 274429,
       "word": "蔡徐坤机场上错车",
       "onboard_time": 1681538486,
       "rank": 18,
@@ -465,6 +489,14 @@
       "onboard_time": 1681518323,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287302,
+      "num": 287302,
+      "word": "Meiko来进货的是吧",
+      "onboard_time": 1681542267,
+      "rank": 13,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 284854,
@@ -553,6 +585,14 @@
       "onboard_time": 1681504752,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 251273,
+      "num": 251273,
+      "word": "李飞带三代练习生烧香",
+      "onboard_time": 1681542026,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 245218,
@@ -651,6 +691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 213870,
+      "num": 213870,
+      "word": "赛琳娜自拍角度",
+      "onboard_time": 1681542206,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212432,
       "num": 212432,
       "word": "为什么广东胖子少",
@@ -673,6 +721,14 @@
       "onboard_time": 1681531166,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206910,
+      "num": 206910,
+      "word": "朱志鑫舞台饭拍",
+      "onboard_time": 1681542026,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206225,
@@ -771,6 +827,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193823,
+      "num": 155650,
+      "word": "雪允唱mrchu",
+      "onboard_time": 1681542026,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 192913,
+      "num": 178018,
+      "word": "爱很美味",
+      "onboard_time": 1681542445,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192289,
       "num": 192289,
       "word": "工信部听取329微信业务异常汇报",
@@ -849,6 +921,14 @@
       "onboard_time": 1681529003,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184421,
+      "num": 184421,
+      "word": "LPL十周年纪念颁奖典礼",
+      "onboard_time": 1681542627,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 182469,
@@ -931,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163470,
+      "num": 163470,
+      "word": "英雄联盟",
+      "onboard_time": 1681541004,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162636,
       "num": 162636,
       "word": "When you come around",
@@ -987,20 +1075,28 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158137,
-      "num": 158137,
-      "word": "12306放票规则",
-      "onboard_time": 1681539686,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156305,
       "num": 156305,
       "word": "汪苏泷一笑倾城开口秒回校园",
       "onboard_time": 1681522703,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154875,
+      "num": 154875,
+      "word": "你好星期六好6团上班rap",
+      "onboard_time": 1681540346,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151280,
+      "num": 151280,
+      "word": "难哄第二季",
+      "onboard_time": 1681538546,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 151157,
@@ -1035,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144147,
-      "num": 144147,
-      "word": "难哄第二季",
-      "onboard_time": 1681538546,
-      "rank": 28,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 141287,
       "num": 141287,
       "word": "西双版纳泼水节",
@@ -1075,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136686,
+      "num": 136686,
+      "word": "摆完盘瞬间变贵了",
+      "onboard_time": 1681538006,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131532,
       "num": 131532,
       "word": "一起露营吧2宣传片信息量",
@@ -1099,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127749,
+      "num": 127749,
+      "word": "六公主播波西米亚狂想曲",
+      "onboard_time": 1681540586,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127274,
       "num": 127274,
       "word": "华晨宇演唱会",
@@ -1113,14 +1217,6 @@
       "onboard_time": 1681519884,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 124394,
-      "num": 124394,
-      "word": "摆完盘瞬间变贵了",
-      "onboard_time": 1681538006,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 123896,
@@ -1171,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114161,
-      "num": 114161,
-      "word": "你好星期六好6团上班rap",
-      "onboard_time": 1681540346,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113280,
       "num": 113280,
       "word": "青春环游记春日旅行海报",
@@ -1217,6 +1305,22 @@
       "onboard_time": 1681481188,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109354,
+      "num": 106207,
+      "word": "周柏豪官宣广州见面会",
+      "onboard_time": 1681542206,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 105854,
+      "num": 105854,
+      "word": "明日方舟嘉年华",
+      "onboard_time": 1681541968,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 104522,
@@ -1265,6 +1369,14 @@
       "onboard_time": 1681525405,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 98862,
+      "num": 98862,
+      "word": "王千源演的王历文",
+      "onboard_time": 1681542866,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 98188,
@@ -1364,7 +1476,7 @@
     },
     {
       "raw_hot": 83515,
-      "num": 1689737,
+      "num": 1829227,
       "word": "全民国家安全教育日公益短片",
       "onboard_time": 1681529124,
       "rank": 2,
@@ -1425,6 +1537,14 @@
       "onboard_time": 1681478909,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 23575,
+      "num": 279648,
+      "word": "V影响力峰会",
+      "onboard_time": 1681542026,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
