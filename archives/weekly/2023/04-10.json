@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681544012188,
+  "endTime": 1681546810141,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -779,6 +779,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 1421691,
+      "num": 1421691,
+      "word": "薛之谦唱到一半被伴舞撞飞了",
+      "onboard_time": 1681537406,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1398190,
       "num": 1398190,
       "word": "乌克兰对小米进行制裁",
@@ -969,14 +977,6 @@
       "onboard_time": 1681290387,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1191339,
-      "num": 1191339,
-      "word": "薛之谦唱到一半被伴舞撞飞了",
-      "onboard_time": 1681537406,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 1190552,
@@ -1713,6 +1713,14 @@
       "onboard_time": 1681220249,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 824838,
+      "num": 824838,
+      "word": "FPX 没奖",
+      "onboard_time": 1681545147,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 822857,
@@ -2955,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577560,
+      "num": 577560,
+      "word": "张靓颖开场",
+      "onboard_time": 1681546586,
+      "rank": 6,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 577345,
       "num": 577345,
       "word": "张朝阳建议年轻人别睡懒觉",
@@ -3129,6 +3145,14 @@
       "onboard_time": 1681532786,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557756,
+      "num": 557756,
+      "word": "柯哀牵手",
+      "onboard_time": 1681544908,
+      "rank": 7,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 556844,
@@ -4025,6 +4049,14 @@
       "onboard_time": 1681214845,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 456325,
+      "num": 456325,
+      "word": "现在就去法国排队",
+      "onboard_time": 1681543226,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 456309,
@@ -5153,6 +5185,14 @@
       "onboard_time": 1681379671,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 370142,
+      "num": 370142,
+      "word": "狐妖小红娘动画定档",
+      "onboard_time": 1681544005,
+      "rank": 32,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 368712,
@@ -6403,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290386,
+      "num": 290386,
+      "word": "LPL十周年纪念颁奖典礼",
+      "onboard_time": 1681542627,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290302,
       "num": 397168,
       "word": "张楚桐",
@@ -6473,14 +6521,6 @@
       "onboard_time": 1681370310,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 287616,
-      "num": 287616,
-      "word": "现在就去法国排队",
-      "onboard_time": 1681543226,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 287531,
@@ -6585,14 +6625,6 @@
       "onboard_time": 1681372589,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 283912,
-      "num": 283912,
-      "word": "LPL十周年纪念颁奖典礼",
-      "onboard_time": 1681542627,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 283484,
@@ -7328,6 +7360,14 @@
       "word": "LPL春决媒体发布会",
       "onboard_time": 1681451789,
       "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 244359,
+      "num": 244359,
+      "word": "JackeyLove给Rookie颁奖",
+      "onboard_time": 1681544487,
+      "rank": 22,
       "category": "游戏"
     },
     {
@@ -9491,6 +9531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199895,
+      "num": 292808,
+      "word": "那个失去双腿靠篮球行走的女孩长大了",
+      "onboard_time": 1681545447,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199797,
       "num": 201518,
       "word": "北京柳絮",
@@ -9577,6 +9625,14 @@
       "onboard_time": 1681290266,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198884,
+      "num": 220452,
+      "word": "郑元畅18年后再演江直树",
+      "onboard_time": 1681546227,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 198788,
@@ -9724,7 +9780,7 @@
     },
     {
       "raw_hot": 197401,
-      "num": 197401,
+      "num": 219376,
       "word": "恋与深空内测",
       "onboard_time": 1681538127,
       "rank": 19,
@@ -11596,7 +11652,7 @@
     },
     {
       "raw_hot": 169860,
-      "num": 169860,
+      "num": 219978,
       "word": "你好星期六好6团上班rap",
       "onboard_time": 1681540346,
       "rank": 35,
@@ -11740,7 +11796,7 @@
     },
     {
       "raw_hot": 167376,
-      "num": 167376,
+      "num": 220264,
       "word": "JDG对战BLG",
       "onboard_time": 1681539926,
       "rank": 23,
@@ -11924,7 +11980,7 @@
     },
     {
       "raw_hot": 163470,
-      "num": 163470,
+      "num": 220007,
       "word": "英雄联盟",
       "onboard_time": 1681541004,
       "rank": 27,
@@ -12131,6 +12187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160427,
+      "num": 220237,
+      "word": "网友环球影城偶遇何洛洛",
+      "onboard_time": 1681543406,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159666,
       "num": 159666,
       "word": "开车出门千万要看好油表",
@@ -12299,6 +12363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155616,
+      "num": 220185,
+      "word": "周柏豪官宣广州见面会",
+      "onboard_time": 1681542206,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155594,
       "num": 155594,
       "word": "金世佳说无论你在哪里都要带你回家",
@@ -12443,6 +12515,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153137,
+      "num": 220131,
+      "word": "INTO1最后一次签售会",
+      "onboard_time": 1681545987,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 153131,
       "num": 153131,
       "word": "樊振东3比1李尚洙",
@@ -12532,7 +12612,7 @@
     },
     {
       "raw_hot": 151280,
-      "num": 151280,
+      "num": 219315,
       "word": "难哄第二季",
       "onboard_time": 1681538546,
       "rank": 28,
@@ -12705,14 +12785,6 @@
       "onboard_time": 1681168699,
       "rank": 16,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 147382,
-      "num": 147382,
-      "word": "周柏豪官宣广州见面会",
-      "onboard_time": 1681542206,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 147222,
@@ -13196,7 +13268,7 @@
     },
     {
       "raw_hot": 136686,
-      "num": 136686,
+      "num": 219509,
       "word": "摆完盘瞬间变贵了",
       "onboard_time": 1681538006,
       "rank": 41,
@@ -13524,19 +13596,11 @@
     },
     {
       "raw_hot": 127749,
-      "num": 127749,
+      "num": 219466,
       "word": "六公主播波西米亚狂想曲",
       "onboard_time": 1681540586,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127445,
-      "num": 127445,
-      "word": "狐妖小红娘动画定档",
-      "onboard_time": 1681544005,
-      "rank": 32,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 127402,
@@ -13777,14 +13841,6 @@
       "onboard_time": 1681436364,
       "rank": 33,
       "category": "军事"
-    },
-    {
-      "raw_hot": 120526,
-      "num": 120526,
-      "word": "网友环球影城偶遇何洛洛",
-      "onboard_time": 1681543406,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 120468,
@@ -14403,6 +14459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97565,
+      "num": 219595,
+      "word": "金智秀音中一位",
+      "onboard_time": 1681546287,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96311,
       "num": 96311,
       "word": "白敬亭的翻包好物",
@@ -14713,6 +14777,14 @@
       "onboard_time": 1681423934,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71342,
+      "num": 219329,
+      "word": "淄博",
+      "onboard_time": 1681545687,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69354,
