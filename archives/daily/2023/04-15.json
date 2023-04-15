@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681542897401,
+  "endTime": 1681544012188,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -9,6 +9,14 @@
       "onboard_time": 1681524146,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2892350,
+      "num": 2892350,
+      "word": "宋雨琦确诊感染新冠",
+      "onboard_time": 1681541186,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2810484,
@@ -25,14 +33,6 @@
       "onboard_time": 1681535967,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2243455,
-      "num": 2243455,
-      "word": "宋雨琦确诊感染新冠",
-      "onboard_time": 1681541186,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1959237,
@@ -195,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 665743,
+      "num": 665743,
+      "word": "Meiko来进货的是吧",
+      "onboard_time": 1681542267,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 659201,
       "num": 659201,
       "word": "父母生二胎子女有权阻止吗",
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448042,
+      "num": 448042,
+      "word": "12306放票规则",
+      "onboard_time": 1681539686,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 444638,
       "num": 444638,
       "word": "五哈 小婉",
@@ -347,12 +363,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385058,
-      "num": 385058,
-      "word": "12306放票规则",
-      "onboard_time": 1681539686,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 385150,
+      "num": 385150,
+      "word": "李飞带三代练习生烧香",
+      "onboard_time": 1681542026,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 384034,
@@ -369,6 +385,14 @@
       "onboard_time": 1681485570,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380797,
+      "num": 380797,
+      "word": "赛琳娜自拍角度",
+      "onboard_time": 1681542206,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 371742,
@@ -443,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 317167,
+      "num": 317167,
+      "word": "光渊",
+      "onboard_time": 1681543046,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 311173,
       "num": 223238,
       "word": "TFBOYS415九周年了",
@@ -491,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287302,
-      "num": 287302,
-      "word": "Meiko来进货的是吧",
-      "onboard_time": 1681542267,
-      "rank": 13,
-      "category": "游戏,网红"
+      "raw_hot": 287616,
+      "num": 287616,
+      "word": "现在就去法国排队",
+      "onboard_time": 1681543226,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 284854,
@@ -505,6 +537,14 @@
       "onboard_time": 1681463911,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283912,
+      "num": 283912,
+      "word": "LPL十周年纪念颁奖典礼",
+      "onboard_time": 1681542627,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 276962,
@@ -585,14 +625,6 @@
       "onboard_time": 1681504752,
       "rank": 13,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 251273,
-      "num": 251273,
-      "word": "李飞带三代练习生烧香",
-      "onboard_time": 1681542026,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 245218,
@@ -689,14 +721,6 @@
       "onboard_time": 1681520244,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 213870,
-      "num": 213870,
-      "word": "赛琳娜自拍角度",
-      "onboard_time": 1681542206,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 212432,
@@ -923,14 +947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184421,
-      "num": 184421,
-      "word": "LPL十周年纪念颁奖典礼",
-      "onboard_time": 1681542627,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182469,
       "num": 182469,
       "word": "PDD歌友会",
@@ -969,6 +985,14 @@
       "onboard_time": 1681502113,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169860,
+      "num": 169860,
+      "word": "你好星期六好6团上班rap",
+      "onboard_time": 1681540346,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 169656,
@@ -1083,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154875,
-      "num": 154875,
-      "word": "你好星期六好6团上班rap",
-      "onboard_time": 1681540346,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151280,
       "num": 151280,
       "word": "难哄第二季",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1681529723,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147382,
+      "num": 147382,
+      "word": "周柏豪官宣广州见面会",
+      "onboard_time": 1681542206,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 144271,
@@ -1203,6 +1227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127445,
+      "num": 127445,
+      "word": "狐妖小红娘动画定档",
+      "onboard_time": 1681544005,
+      "rank": 32,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 127274,
       "num": 127274,
       "word": "华晨宇演唱会",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1681480228,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120526,
+      "num": 120526,
+      "word": "网友环球影城偶遇何洛洛",
+      "onboard_time": 1681543406,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 119754,
@@ -1305,14 +1345,6 @@
       "onboard_time": 1681481188,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109354,
-      "num": 106207,
-      "word": "周柏豪官宣广州见面会",
-      "onboard_time": 1681542206,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 105854,
@@ -1531,20 +1563,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31910,
+      "num": 293489,
+      "word": "V影响力峰会",
+      "onboard_time": 1681542026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27761,
       "num": 45563,
       "word": "泰国泼水节",
       "onboard_time": 1681478909,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 23575,
-      "num": 279648,
-      "word": "V影响力峰会",
-      "onboard_time": 1681542026,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

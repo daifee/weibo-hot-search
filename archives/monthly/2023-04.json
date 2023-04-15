@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681542897401,
+  "endTime": 1681544012188,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -376,6 +376,14 @@
       "word": "中国乒协证实张继科已退役",
       "onboard_time": 1680598111,
       "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2892350,
+      "num": 2892350,
+      "word": "宋雨琦确诊感染新冠",
+      "onboard_time": 1681541186,
+      "rank": 0,
       "category": "社会新闻,艺人"
     },
     {
@@ -825,14 +833,6 @@
       "onboard_time": 1680862171,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2243455,
-      "num": 2243455,
-      "word": "宋雨琦确诊感染新冠",
-      "onboard_time": 1681541186,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2234743,
@@ -6067,6 +6067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665743,
+      "num": 665743,
+      "word": "Meiko来进货的是吧",
+      "onboard_time": 1681542267,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 665639,
       "num": 665639,
       "word": "曾可妮搂刘雅瑟脖子",
@@ -10075,6 +10083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448042,
+      "num": 448042,
+      "word": "12306放票规则",
+      "onboard_time": 1681539686,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 447729,
       "num": 188698,
       "word": "鹿晗广州",
@@ -11891,12 +11907,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 385058,
-      "num": 385058,
-      "word": "12306放票规则",
-      "onboard_time": 1681539686,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 385150,
+      "num": 385150,
+      "word": "李飞带三代练习生烧香",
+      "onboard_time": 1681542026,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 385001,
@@ -11993,6 +12009,14 @@
       "onboard_time": 1680441754,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 380797,
+      "num": 380797,
+      "word": "赛琳娜自拍角度",
+      "onboard_time": 1681542206,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 380459,
@@ -15363,6 +15387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287616,
+      "num": 287616,
+      "word": "现在就去法国排队",
+      "onboard_time": 1681543226,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287531,
       "num": 287531,
       "word": "许嵩说我的外壳是冷的内心是热烈的",
@@ -15377,14 +15409,6 @@
       "onboard_time": 1680922527,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287302,
-      "num": 287302,
-      "word": "Meiko来进货的是吧",
-      "onboard_time": 1681542267,
-      "rank": 13,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 287216,
@@ -15585,6 +15609,14 @@
       "onboard_time": 1680663392,
       "rank": 32,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 283912,
+      "num": 283912,
+      "word": "LPL十周年纪念颁奖典礼",
+      "onboard_time": 1681542627,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 283652,
@@ -17233,14 +17265,6 @@
       "onboard_time": 1681114288,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251273,
-      "num": 251273,
-      "word": "李飞带三代练习生烧香",
-      "onboard_time": 1681542026,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 251234,
@@ -20041,14 +20065,6 @@
       "onboard_time": 1680506070,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213870,
-      "num": 213870,
-      "word": "赛琳娜自拍角度",
-      "onboard_time": 1681542206,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 213836,
@@ -26051,14 +26067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 184421,
-      "num": 184421,
-      "word": "LPL十周年纪念颁奖典礼",
-      "onboard_time": 1681542627,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 184384,
       "num": 184384,
       "word": "影院reaction已经假出境界了",
@@ -27697,6 +27705,14 @@
       "onboard_time": 1680677848,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169860,
+      "num": 169860,
+      "word": "你好星期六好6团上班rap",
+      "onboard_time": 1681540346,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 169851,
@@ -29387,14 +29403,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 154875,
-      "num": 154875,
-      "word": "你好星期六好6团上班rap",
-      "onboard_time": 1681540346,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154764,
       "num": 154764,
       "word": "也不知道谁给我妈下的任务",
@@ -30225,6 +30233,14 @@
       "onboard_time": 1680777151,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 147382,
+      "num": 147382,
+      "word": "周柏豪官宣广州见面会",
+      "onboard_time": 1681542206,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 147345,
@@ -32203,6 +32219,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 127445,
+      "num": 127445,
+      "word": "狐妖小红娘动画定档",
+      "onboard_time": 1681544005,
+      "rank": 32,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 127402,
       "num": 333988,
       "word": "在外滩撸一种很新的猫",
@@ -32777,6 +32801,14 @@
       "onboard_time": 1681436364,
       "rank": 33,
       "category": "军事"
+    },
+    {
+      "raw_hot": 120526,
+      "num": 120526,
+      "word": "网友环球影城偶遇何洛洛",
+      "onboard_time": 1681543406,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 120429,
@@ -33529,14 +33561,6 @@
       "onboard_time": 1680419126,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109354,
-      "num": 106207,
-      "word": "周柏豪官宣广州见面会",
-      "onboard_time": 1681542206,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 109104,
@@ -35643,6 +35667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31910,
+      "num": 293489,
+      "word": "V影响力峰会",
+      "onboard_time": 1681542026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31823,
       "num": 31823,
       "word": "井柏然白衬衫珍珠手链造型",
@@ -35745,14 +35777,6 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23575,
-      "num": 279648,
-      "word": "V影响力峰会",
-      "onboard_time": 1681542026,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23161,
