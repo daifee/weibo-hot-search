@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681526538686,
+  "endTime": 1681528663416,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2690471,
+      "num": 317330,
+      "word": "护士被扎20针",
+      "onboard_time": 1681524146,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2687594,
       "num": 1780676,
       "word": "陈志龙",
@@ -673,14 +681,6 @@
       "onboard_time": 1680446925,
       "rank": 3,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2437180,
-      "num": 317330,
-      "word": "护士被扎20针",
-      "onboard_time": 1681524146,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2432368,
@@ -5075,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749169,
+      "num": 749169,
+      "word": "岸田文雄避难",
+      "onboard_time": 1681527863,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 748812,
       "num": 748812,
       "word": "顶着周雨彤头像骂周雨彤",
@@ -6856,6 +6864,14 @@
       "word": "13岁孩子疑因游戏问题勒父亲脖子",
       "onboard_time": 1680919886,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603619,
+      "num": 309124,
+      "word": "贵州倪青青",
+      "onboard_time": 1681524203,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -10411,14 +10427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 423906,
-      "num": 309124,
-      "word": "贵州倪青青",
-      "onboard_time": 1681524203,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423890,
       "num": 423890,
       "word": "故宫门票",
@@ -12491,6 +12499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 355796,
+      "num": 355796,
+      "word": "招惹唯一吻戏",
+      "onboard_time": 1681524384,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 355779,
       "num": 355779,
       "word": "柯南贝克街的亡灵评分",
@@ -13563,6 +13579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326851,
+      "num": 326851,
+      "word": "五一火车票秒空",
+      "onboard_time": 1681526843,
+      "rank": 7,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 326847,
       "num": 326847,
       "word": "考研淘汰率或超八成你还会考么",
@@ -13921,14 +13945,6 @@
       "onboard_time": 1680823161,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316505,
-      "num": 316505,
-      "word": "招惹唯一吻戏",
-      "onboard_time": 1681524384,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 316428,
@@ -17355,6 +17371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 243776,
+      "num": 243776,
+      "word": "贵阳曾杨",
+      "onboard_time": 1681524446,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243649,
       "num": 243649,
       "word": "周雨彤为演戏去公司坐班",
@@ -19363,6 +19387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217807,
+      "num": 217807,
+      "word": "CBA对上海队与江苏队比赛展开调查",
+      "onboard_time": 1681525885,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217646,
       "num": 217646,
       "word": "原来外卖餐具还能这样用",
@@ -20721,6 +20753,14 @@
       "onboard_time": 1680350668,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206506,
+      "num": 206506,
+      "word": "日本首相演说现场传出爆炸声",
+      "onboard_time": 1681528285,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206453,
@@ -23227,6 +23267,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 196821,
+      "num": 99392,
+      "word": "岸田文雄演讲场地传出爆炸声",
+      "onboard_time": 1681527923,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196814,
       "num": 196814,
       "word": "上海的现实版莫奈花园",
@@ -23505,6 +23553,14 @@
       "onboard_time": 1680750328,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195352,
+      "num": 195352,
+      "word": "龙城今日开播",
+      "onboard_time": 1681527985,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 195295,
@@ -26449,14 +26505,6 @@
       "onboard_time": 1680443502,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 176865,
-      "num": 176865,
-      "word": "贵阳曾杨",
-      "onboard_time": 1681524446,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176660,
@@ -30291,6 +30339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141195,
+      "num": 141195,
+      "word": "30000多个小时记录77种花开瞬间",
+      "onboard_time": 1681527504,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141171,
       "num": 141171,
       "word": "原来国色天香美得如此大气",
@@ -31217,14 +31273,6 @@
       "onboard_time": 1680425969,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 131167,
-      "num": 131167,
-      "word": "CBA对上海队与江苏队比赛展开调查",
-      "onboard_time": 1681525885,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 130995,
@@ -33131,6 +33179,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 104522,
+      "num": 104522,
+      "word": "护师考试",
+      "onboard_time": 1681527324,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 104481,
       "num": 104481,
       "word": "Wolves对战ZETA",
@@ -33459,6 +33515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 99729,
+      "num": 99729,
+      "word": "广交会",
+      "onboard_time": 1681525405,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99693,
       "num": 1966460,
       "word": "黄河保护法今起施行",
@@ -33747,14 +33811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92810,
-      "num": 92810,
-      "word": "广交会",
-      "onboard_time": 1681525405,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 92804,
       "num": 92804,
       "word": "春天里的心愿清单",
@@ -33937,6 +33993,14 @@
       "onboard_time": 1681289368,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88572,
+      "num": 88572,
+      "word": "显微镜下的流浪地球2",
+      "onboard_time": 1681528644,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 88295,

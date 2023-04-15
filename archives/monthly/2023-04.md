@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/15 10:42:18
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/15 11:17:43
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ B站UP主发起停更潮（热度：3054432）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E8%A2%AB%E6%89%8E20%E9%92%88%23" target="weibo">
+护士被扎20针（热度：2690471）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BF%97%E9%BE%99%23" target="weibo">
 陈志龙（热度：2687594）
 </a>
@@ -515,12 +521,6 @@ BAP力灿承认猥亵队友（热度：2556209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%82%E9%9F%B3%E6%A1%A5%23" target="weibo">
 观音桥（热度：2437384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E8%A2%AB%E6%89%8E20%E9%92%88%23" target="weibo">
-护士被扎20针（热度：2437180）
 </a>
 </li>
 
@@ -3819,6 +3819,12 @@ KnowKnow道歉（热度：750691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B2%B8%E7%94%B0%E6%96%87%E9%9B%84%E9%81%BF%E9%9A%BE%23" target="weibo">
+岸田文雄避难（热度：749169）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%B6%E7%9D%80%E5%91%A8%E9%9B%A8%E5%BD%A4%E5%A4%B4%E5%83%8F%E9%AA%82%E5%91%A8%E9%9B%A8%E5%BD%A4%23" target="weibo">
 顶着周雨彤头像骂周雨彤（热度：748812）
 </a>
@@ -5157,6 +5163,12 @@ aespa妆造（热度：603998）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E5%80%AA%E9%9D%92%E9%9D%92%23" target="weibo">
+贵州倪青青（热度：603619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E7%94%9F%E6%97%A5%E5%B8%A6%E7%BD%95%E8%A7%81%E7%97%85%E5%84%BF%E7%AB%A5%E5%87%BA%E6%B8%B8%23" target="weibo">
 贾乃亮生日带罕见病儿童出游（热度：603174）
 </a>
@@ -5999,18 +6011,6 @@ BoysPlanet涉嫌造假（热度：538935）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%81%B7%E4%BA%94%E5%B9%B4%E7%9A%84%E5%B0%8F%E7%8B%97%E8%87%AA%E5%B7%B1%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 被偷五年的小狗自己回来了（热度：538527）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E7%9A%84%E7%83%AD%E5%BA%A6%E8%83%BD%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85%23" target="weibo">
-淄博烧烤的热度能持续多久（热度：538511）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%20%E6%9E%97%E6%98%80%E5%84%92%23" target="weibo">
-梁靖崑 林昀儒（热度：538505）
 </a>
 </li>
 
