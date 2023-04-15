@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/15 19:33:28
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/15 20:30:44
 </p>
 </blockquote>
 <p>
@@ -341,6 +341,12 @@ B站UP主发起停更潮（热度：3054432）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E8%A2%AB%E8%A7%82%E4%BC%97%E5%BD%93%E5%9C%BA%E8%A6%81%E6%B1%82%E9%80%80%E7%A5%A8%23" target="weibo">
 成龙被观众当场要求退票（热度：2810484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%BE%E8%B5%96%E8%88%8C%E5%90%BB%E7%94%B7%E7%AB%A5%E6%9C%89%E5%A4%9A%E6%81%B6%E5%BF%83%23" target="weibo">
+达赖舌吻男童有多恶心（热度：2805611）
 </a>
 </li>
 
@@ -1713,6 +1719,12 @@ OMG对战TES（热度：1472627）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E6%8A%84%E8%A2%AD%E4%BB%99%E5%89%91%E4%B8%89%23" target="weibo">
+网友质疑长月烬明抄袭仙剑三（热度：1345094）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7MSI%23" target="weibo">
 BLG晋级MSI（热度：1343366）
 </a>
@@ -1811,6 +1823,12 @@ BLG晋级MSI（热度：1343366）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%8F%B7%E9%B8%A2%23" target="weibo">
 代号鸢（热度：1304633）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E5%A4%BA%E5%86%A0%23" target="weibo">
+JDG夺冠（热度：1296367）
 </a>
 </li>
 
@@ -3029,6 +3047,12 @@ RAIN逃过了韩国酵母（热度：899867）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%B0%BA%E7%A0%81%23" target="weibo">
 现在的衣服尺码（热度：891877）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E9%80%80%E7%A5%A8%E4%BA%8B%E4%BB%B6%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91%23" target="weibo">
+成龙退票事件完整视频（热度：891655）
 </a>
 </li>
 
@@ -4433,6 +4457,12 @@ Kakao涉嫌操纵股价被调查（热度：691140）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E6%88%96%E5%B0%86%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6YG%23" target="weibo">
 BLACKPINK或将全员续约YG（热度：682753）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E5%A6%8D%E5%BC%80%E5%8C%97%E4%BA%AC%E9%A6%96%E5%BA%97%23" target="weibo">
+郑秀妍开北京首店（热度：682600）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ Lisa晒BLACKPINK科切拉彩排照（热度：565832）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%AA%E6%88%91%E6%80%9D%E5%AD%98%E8%BF%BD%E5%89%A7%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%23" target="weibo">
 匪我思存追剧长月烬明（热度：549713）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%81%9A%E5%BE%B7%E8%BF%9E%E4%BA%8F%E4%B8%89%E5%B9%B4%23" target="weibo">
-全聚德连亏三年（热度：549184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%85%83%E7%95%8518%E5%B9%B4%E5%90%8E%E5%86%8D%E6%BC%94%E6%B1%9F%E7%9B%B4%E6%A0%91%23" target="weibo">
-郑元畅18年后再演江直树（热度：548865）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE2015%E5%B9%B4%E5%B0%8F%E5%93%81%E5%8F%B0%E8%AF%8D%23" target="weibo">
-沈腾2015年小品台词（热度：547973）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94711%E7%BB%99%E4%BA%86%E4%BD%A0%E5%A4%9A%E5%B0%91%E9%92%B1%23" target="weibo">
-王嘉尔711给了你多少钱（热度：547537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E7%A7%9F%E5%80%9F%E5%90%88%E5%90%8C%E5%88%B0%E6%9C%9F%23" target="weibo">
-丫丫租借合同到期（热度：547242）
 </a>
 </li>
 

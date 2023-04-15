@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681558408512,
+  "endTime": 1681561844968,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -25,6 +25,14 @@
       "onboard_time": 1681534526,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2805611,
+      "num": 838944,
+      "word": "达赖舌吻男童有多恶心",
+      "onboard_time": 1681558224,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2505042,
@@ -99,12 +107,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1345094,
+      "num": 1345094,
+      "word": "网友质疑长月烬明抄袭仙剑三",
+      "onboard_time": 1681557865,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1316149,
       "num": 1316149,
       "word": "建议微信出个头像屏蔽功能",
       "onboard_time": 1681481010,
       "rank": 1,
       "category": "幽默,科技"
+    },
+    {
+      "raw_hot": 1296367,
+      "num": 1296367,
+      "word": "JDG夺冠",
+      "onboard_time": 1681560026,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1215179,
@@ -211,6 +235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 891655,
+      "num": 891655,
+      "word": "成龙退票事件完整视频",
+      "onboard_time": 1681558467,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 876416,
       "num": 876416,
       "word": "张靓颖开场",
@@ -259,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 682600,
+      "num": 682600,
+      "word": "郑秀妍开北京首店",
+      "onboard_time": 1681559186,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679411,
       "num": 679411,
       "word": "微信回应工信部最新要求",
@@ -276,7 +316,7 @@
     },
     {
       "raw_hot": 676340,
-      "num": 317408,
+      "num": 338556,
       "word": "张雨绮好辣",
       "onboard_time": 1681555165,
       "rank": 15,
@@ -467,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423662,
-      "num": 315821,
-      "word": "网友质疑长月烬明抄袭仙剑三",
-      "onboard_time": 1681557865,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 423090,
       "num": 608540,
       "word": "那个失去双腿靠篮球行走的女孩长大了",
@@ -497,6 +529,14 @@
       "onboard_time": 1681522165,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404513,
+      "num": 404513,
+      "word": "樊振东vs梁靖崑",
+      "onboard_time": 1681561109,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 390595,
@@ -587,12 +627,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 352169,
+      "num": 352169,
+      "word": "女生淄博丢包获陌生人留条帮保管",
+      "onboard_time": 1681558526,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351936,
+      "num": 331376,
+      "word": "马嘉祺你怎么这样",
+      "onboard_time": 1681559067,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 346792,
       "num": 346792,
       "word": "流浪地球2",
       "onboard_time": 1681529244,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 346201,
+      "num": 346201,
+      "word": "孙颖莎获女单冠军",
+      "onboard_time": 1681559067,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 339741,
@@ -604,7 +668,7 @@
     },
     {
       "raw_hot": 328532,
-      "num": 205707,
+      "num": 318278,
       "word": "如果我是马克龙 我还想来",
       "onboard_time": 1681556306,
       "rank": 30,
@@ -683,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 293084,
+      "num": 293084,
+      "word": "Ruler获FMVP",
+      "onboard_time": 1681560867,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292959,
       "num": 292959,
       "word": "上海江苏球迷大喊退票",
@@ -737,6 +809,14 @@
       "onboard_time": 1681528764,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264199,
+      "num": 264199,
+      "word": "五一酒店",
+      "onboard_time": 1681557025,
+      "rank": 47,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 262877,
@@ -851,6 +931,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 243856,
+      "num": 243856,
+      "word": "周觅solo舞台",
+      "onboard_time": 1681558166,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243776,
       "num": 243776,
       "word": "贵阳曾杨",
@@ -923,6 +1011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216557,
+      "num": 216557,
+      "word": "为什么现在姐弟恋越来越多",
+      "onboard_time": 1681560329,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212432,
       "num": 212432,
       "word": "为什么广东胖子少",
@@ -937,6 +1033,14 @@
       "onboard_time": 1681557207,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210998,
+      "num": 210998,
+      "word": "达赖",
+      "onboard_time": 1681561407,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210433,
@@ -979,6 +1083,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204151,
+      "num": 204151,
+      "word": "尔冬升邀请张大大参加金像奖",
+      "onboard_time": 1681560508,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202429,
       "num": 202429,
       "word": "就差手把手教女生们怎么选男人",
@@ -1009,6 +1121,14 @@
       "onboard_time": 1681554087,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198505,
+      "num": 198505,
+      "word": "MTG战胜TTG",
+      "onboard_time": 1681561468,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 197445,
@@ -1064,6 +1184,14 @@
       "word": "毛不易演唱会",
       "onboard_time": 1681539686,
       "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 196366,
+      "num": 196366,
+      "word": "草莓音乐节",
+      "onboard_time": 1681560448,
+      "rank": 30,
       "category": "音乐"
     },
     {
@@ -1203,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186645,
+      "num": 186645,
+      "word": "青春环游记",
+      "onboard_time": 1681557805,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186183,
       "num": 186183,
       "word": "尹子维车保罗合体拍封面",
@@ -1217,14 +1353,6 @@
       "onboard_time": 1681552825,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 183469,
-      "num": 205557,
-      "word": "五一酒店",
-      "onboard_time": 1681557025,
-      "rank": 47,
-      "category": "情感,旅游"
     },
     {
       "raw_hot": 182998,
@@ -1267,14 +1395,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 177302,
-      "num": 177302,
-      "word": "青春环游记",
-      "onboard_time": 1681557805,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175654,
       "num": 175654,
       "word": "张远说稍微想起一些余味不止当天",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1681547607,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172826,
+      "num": 172826,
+      "word": "五月天演唱会求婚现场",
+      "onboard_time": 1681557566,
+      "rank": 38,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 172358,
@@ -1395,6 +1523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162261,
+      "num": 162261,
+      "word": "BLG实力差距",
+      "onboard_time": 1681561286,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162214,
       "num": 162214,
       "word": "中国成功实施陆基中段反导拦截技术试验",
@@ -1436,7 +1572,7 @@
     },
     {
       "raw_hot": 160260,
-      "num": 1013659,
+      "num": 1312594,
       "word": "我们的动车有多酷",
       "onboard_time": 1681549887,
       "rank": 2,
@@ -1465,6 +1601,14 @@
       "onboard_time": 1681542206,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154343,
+      "num": 154343,
+      "word": "灌篮高手两代配音演员同台",
+      "onboard_time": 1681561588,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 153137,
@@ -1515,20 +1659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146093,
-      "num": 146093,
-      "word": "五月天演唱会求婚现场",
-      "onboard_time": 1681557566,
-      "rank": 38,
-      "category": "音乐,幽默"
-    },
-    {
       "raw_hot": 144271,
       "num": 144271,
       "word": "玉溪山火",
       "onboard_time": 1681529424,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142796,
+      "num": 142796,
+      "word": "柳智敏神似爱丽丝",
+      "onboard_time": 1681561468,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 141287,
@@ -1633,14 +1777,6 @@
       "onboard_time": 1681519884,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125031,
-      "num": 145767,
-      "word": "周觅solo舞台",
-      "onboard_time": 1681558166,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 124303,
@@ -2009,14 +2145,6 @@
       "onboard_time": 1681509913,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33305,
-      "num": 535283,
-      "word": "达赖舌吻男童有多恶心",
-      "onboard_time": 1681558224,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31910,
