@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681535738894,
+  "endTime": 1681536811567,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -427,6 +427,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 2810484,
+      "num": 2810484,
+      "word": "成龙被观众当场要求退票",
+      "onboard_time": 1681534526,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2780005,
       "num": 853344,
       "word": "人民文娱评李宇春的代言态度",
@@ -753,14 +761,6 @@
       "onboard_time": 1680948388,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2324320,
-      "num": 2324320,
-      "word": "成龙被观众当场要求退票",
-      "onboard_time": 1681534526,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2318401,
@@ -2852,7 +2852,7 @@
     },
     {
       "raw_hot": 1123745,
-      "num": 381816,
+      "num": 383781,
       "word": "歪哥 蒲熠星",
       "onboard_time": 1681520966,
       "rank": 11,
@@ -3369,6 +3369,14 @@
       "onboard_time": 1681098928,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 991158,
+      "num": 991158,
+      "word": "安倍晋三",
+      "onboard_time": 1681535967,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 988266,
@@ -5852,7 +5860,7 @@
     },
     {
       "raw_hot": 676858,
-      "num": 310782,
+      "num": 375298,
       "word": "秋瓷炫 春天来了可我还要工作",
       "onboard_time": 1681531704,
       "rank": 12,
@@ -8115,6 +8123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 536337,
+      "num": 381325,
+      "word": "姜太显哭了",
+      "onboard_time": 1681534828,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 536193,
       "num": 536193,
       "word": "长月烬明微博开分7.3",
@@ -9825,6 +9841,14 @@
       "onboard_time": 1680874771,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454503,
+      "num": 454503,
+      "word": "老汉抢座揪住女子衣领将其拎起",
+      "onboard_time": 1681534226,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454263,
@@ -12515,6 +12539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 357388,
+      "num": 357388,
+      "word": "科切拉音乐节",
+      "onboard_time": 1681535005,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 357276,
       "num": 357276,
       "word": "时代峰峻欢迎音悦台回归",
@@ -13227,6 +13259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339741,
+      "num": 339741,
+      "word": "吉克隽逸泰妆",
+      "onboard_time": 1681533566,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 339668,
       "num": 339668,
       "word": "事实证明衣服真的不能混洗",
@@ -13249,14 +13289,6 @@
       "onboard_time": 1681291586,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 339108,
-      "num": 262259,
-      "word": "吉克隽逸泰妆",
-      "onboard_time": 1681533566,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 339076,
@@ -13441,14 +13473,6 @@
       "onboard_time": 1681449388,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332365,
-      "num": 260081,
-      "word": "姜太显哭了",
-      "onboard_time": 1681534828,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 332273,
@@ -13804,7 +13828,7 @@
     },
     {
       "raw_hot": 323834,
-      "num": 253071,
+      "num": 321820,
       "word": "任天堂 真有你的啊",
       "onboard_time": 1681532547,
       "rank": 31,
@@ -15043,6 +15067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293095,
+      "num": 293095,
+      "word": "王俊凯第30届大学生电影节青春同路人",
+      "onboard_time": 1681534526,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292973,
       "num": 216755,
       "word": "顾客买小龙虾99元4斤称重仅2斤多",
@@ -15939,14 +15971,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 272920,
-      "num": 272920,
-      "word": "王俊凯第30届大学生电影节青春同路人",
-      "onboard_time": 1681534526,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 272594,
       "num": 272594,
       "word": "只给钱不给爱的婚姻该继续吗",
@@ -16185,14 +16209,6 @@
       "onboard_time": 1680398008,
       "rank": 31,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 268347,
-      "num": 251915,
-      "word": "老汉抢座揪住女子衣领将其拎起",
-      "onboard_time": 1681534226,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267916,
@@ -17289,14 +17305,6 @@
       "onboard_time": 1680768691,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248240,
-      "num": 248240,
-      "word": "科切拉音乐节",
-      "onboard_time": 1681535005,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 248128,
@@ -20211,6 +20219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210433,
+      "num": 210433,
+      "word": "龙马精神",
+      "onboard_time": 1680837928,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210361,
       "num": 210361,
       "word": "Hero对战LGD",
@@ -20641,14 +20657,6 @@
       "onboard_time": 1681463969,
       "rank": 28,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 207881,
-      "num": 207881,
-      "word": "龙马精神",
-      "onboard_time": 1680837928,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 207881,
@@ -25171,6 +25179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188341,
+      "num": 188341,
+      "word": "粉丝靠鞋认出鹿晗",
+      "onboard_time": 1681531644,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188286,
       "num": 174994,
       "word": "打鼾竟然可以导致尿床",
@@ -26545,14 +26561,6 @@
       "onboard_time": 1681107148,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 179460,
-      "num": 165117,
-      "word": "粉丝靠鞋认出鹿晗",
-      "onboard_time": 1681531644,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 179447,
@@ -29737,6 +29745,14 @@
       "onboard_time": 1680332732,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150067,
+      "num": 150067,
+      "word": "BoysPlanet决赛见面会",
+      "onboard_time": 1681536447,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 150018,
@@ -34099,6 +34115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95367,
+      "num": 95367,
+      "word": "自考笔果题库崩了",
+      "onboard_time": 1681536267,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 95174,
       "num": 95174,
       "word": "辅警白堤狂奔1公里为救护车开道",
@@ -34145,6 +34169,14 @@
       "onboard_time": 1681022965,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94187,
+      "num": 94187,
+      "word": "奔跑吧全员脸颊比心接力",
+      "onboard_time": 1681536386,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 94010,

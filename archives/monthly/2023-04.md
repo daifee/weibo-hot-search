@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/15 13:15:38
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/15 13:33:31
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@ B站UP主发起停更潮（热度：3054432）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E8%A2%AB%E8%A7%82%E4%BC%97%E5%BD%93%E5%9C%BA%E8%A6%81%E6%B1%82%E9%80%80%E7%A5%A8%23" target="weibo">
+成龙被观众当场要求退票（热度：2810484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%96%87%E5%A8%B1%E8%AF%84%E6%9D%8E%E5%AE%87%E6%98%A5%E7%9A%84%E4%BB%A3%E8%A8%80%E6%80%81%E5%BA%A6%23" target="weibo">
 人民文娱评李宇春的代言态度（热度：2780005）
 </a>
@@ -575,12 +581,6 @@ BAP力灿承认猥亵队友（热度：2556209）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%BF%94%E5%A4%9C%E5%B8%82%E6%91%86%E6%91%8A%23" target="weibo">
 陈翔夜市摆摊（热度：2333080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E8%A2%AB%E8%A7%82%E4%BC%97%E5%BD%93%E5%9C%BA%E8%A6%81%E6%B1%82%E9%80%80%E7%A5%A8%23" target="weibo">
-成龙被观众当场要求退票（热度：2324320）
 </a>
 </li>
 
@@ -2537,6 +2537,12 @@ OMG战胜TES（热度：1007605）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%9A%84%E5%81%87%E6%9C%9F%E4%BD%99%E9%A2%9D%E5%8F%AA%E5%89%A96%E5%A4%A9%E4%BA%86%23" target="weibo">
 今年的假期余额只剩6天了（热度：991924）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%23" target="weibo">
+安倍晋三（热度：991158）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ EDG晋级胜者组决赛（热度：539965）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E6%8E%A8%E7%89%B9%E5%9B%BE%E6%A0%87%E6%8D%A2%E6%88%90%E6%9F%B4%E7%8A%AC%23" target="weibo">
 马斯克将推特图标换成柴犬（热度：539032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BoysPlanet%E6%B6%89%E5%AB%8C%E9%80%A0%E5%81%87%23" target="weibo">
-BoysPlanet涉嫌造假（热度：538935）
 </a>
 </li>
 

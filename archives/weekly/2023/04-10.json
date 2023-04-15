@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681535738894,
+  "endTime": 1681536811567,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -97,6 +97,14 @@
       "onboard_time": 1681306111,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2810484,
+      "num": 2810484,
+      "word": "成龙被观众当场要求退票",
+      "onboard_time": 1681534526,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2775573,
@@ -201,14 +209,6 @@
       "onboard_time": 1681453767,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2324320,
-      "num": 2324320,
-      "word": "成龙被观众当场要求退票",
-      "onboard_time": 1681534526,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2290734,
@@ -1044,7 +1044,7 @@
     },
     {
       "raw_hot": 1123745,
-      "num": 381816,
+      "num": 383781,
       "word": "歪哥 蒲熠星",
       "onboard_time": 1681520966,
       "rank": 11,
@@ -1233,6 +1233,14 @@
       "onboard_time": 1681098928,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 991158,
+      "num": 991158,
+      "word": "安倍晋三",
+      "onboard_time": 1681535967,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 983038,
@@ -2212,7 +2220,7 @@
     },
     {
       "raw_hot": 676858,
-      "num": 310782,
+      "num": 375298,
       "word": "秋瓷炫 春天来了可我还要工作",
       "onboard_time": 1681531704,
       "rank": 12,
@@ -3259,6 +3267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536337,
+      "num": 381325,
+      "word": "姜太显哭了",
+      "onboard_time": 1681534828,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 536193,
       "num": 536193,
       "word": "长月烬明微博开分7.3",
@@ -3969,6 +3985,14 @@
       "onboard_time": 1681389028,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 454503,
+      "num": 454503,
+      "word": "老汉抢座揪住女子衣领将其拎起",
+      "onboard_time": 1681534226,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454123,
@@ -5243,6 +5267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357388,
+      "num": 357388,
+      "word": "科切拉音乐节",
+      "onboard_time": 1681535005,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 357276,
       "num": 357276,
       "word": "时代峰峻欢迎音悦台回归",
@@ -5491,20 +5523,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339741,
+      "num": 339741,
+      "word": "吉克隽逸泰妆",
+      "onboard_time": 1681533566,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 339361,
       "num": 339361,
       "word": "这是在暗示你可以提涨薪了",
       "onboard_time": 1681291586,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 339108,
-      "num": 262259,
-      "word": "吉克隽逸泰妆",
-      "onboard_time": 1681533566,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 339045,
@@ -5569,14 +5601,6 @@
       "onboard_time": 1681449388,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332365,
-      "num": 260081,
-      "word": "姜太显哭了",
-      "onboard_time": 1681534828,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 331519,
@@ -5732,7 +5756,7 @@
     },
     {
       "raw_hot": 323834,
-      "num": 253071,
+      "num": 321820,
       "word": "任天堂 真有你的啊",
       "onboard_time": 1681532547,
       "rank": 31,
@@ -6251,6 +6275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293095,
+      "num": 293095,
+      "word": "王俊凯第30届大学生电影节青春同路人",
+      "onboard_time": 1681534526,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 292959,
       "num": 292959,
       "word": "上海江苏球迷大喊退票",
@@ -6587,14 +6619,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 272920,
-      "num": 272920,
-      "word": "王俊凯第30届大学生电影节青春同路人",
-      "onboard_time": 1681534526,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 272158,
       "num": 272158,
       "word": "文咏珊高颅顶盘发",
@@ -6649,14 +6673,6 @@
       "onboard_time": 1681186050,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 268347,
-      "num": 251915,
-      "word": "老汉抢座揪住女子衣领将其拎起",
-      "onboard_time": 1681534226,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267916,
@@ -7105,14 +7121,6 @@
       "onboard_time": 1681102413,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248240,
-      "num": 248240,
-      "word": "科切拉音乐节",
-      "onboard_time": 1681535005,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 248128,
@@ -8400,6 +8408,14 @@
       "word": "神隐全员动物设定",
       "onboard_time": 1681096467,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 210433,
+      "num": 210433,
+      "word": "龙马精神",
+      "onboard_time": 1681536447,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -10395,6 +10411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188341,
+      "num": 188341,
+      "word": "粉丝靠鞋认出鹿晗",
+      "onboard_time": 1681531644,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188286,
       "num": 174994,
       "word": "打鼾竟然可以导致尿床",
@@ -10961,14 +10985,6 @@
       "onboard_time": 1681046729,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 179460,
-      "num": 165117,
-      "word": "粉丝靠鞋认出鹿晗",
-      "onboard_time": 1681531644,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 179447,
@@ -12353,6 +12369,14 @@
       "onboard_time": 1681042105,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150067,
+      "num": 150067,
+      "word": "BoysPlanet决赛见面会",
+      "onboard_time": 1681536447,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 149958,
@@ -14123,12 +14147,28 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 95367,
+      "num": 95367,
+      "word": "自考笔果题库崩了",
+      "onboard_time": 1681536267,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 94857,
       "num": 94857,
       "word": "陈晓陆行知定妆花絮",
       "onboard_time": 1681164793,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 94187,
+      "num": 94187,
+      "word": "奔跑吧全员脸颊比心接力",
+      "onboard_time": 1681536386,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 94166,

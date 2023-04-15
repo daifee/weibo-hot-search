@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681535738894,
+  "endTime": 1681536811567,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2324320,
-      "num": 2324320,
+      "raw_hot": 2810484,
+      "num": 2810484,
       "word": "成龙被观众当场要求退票",
       "onboard_time": 1681534526,
       "rank": 0,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1123745,
-      "num": 381816,
+      "num": 383781,
       "word": "歪哥 蒲熠星",
       "onboard_time": 1681520966,
       "rank": 11,
@@ -89,6 +89,14 @@
       "onboard_time": 1681533865,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 991158,
+      "num": 991158,
+      "word": "安倍晋三",
+      "onboard_time": 1681535967,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977198,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 676858,
-      "num": 310782,
+      "num": 375298,
       "word": "秋瓷炫 春天来了可我还要工作",
       "onboard_time": 1681531704,
       "rank": 12,
@@ -185,6 +193,14 @@
       "onboard_time": 1681532786,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536337,
+      "num": 381325,
+      "word": "姜太显哭了",
+      "onboard_time": 1681534828,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 534352,
@@ -241,6 +257,14 @@
       "onboard_time": 1681465111,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454503,
+      "num": 454503,
+      "word": "老汉抢座揪住女子衣领将其拎起",
+      "onboard_time": 1681534226,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448845,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357388,
+      "num": 357388,
+      "word": "科切拉音乐节",
+      "onboard_time": 1681535005,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355796,
       "num": 355796,
       "word": "招惹唯一吻戏",
@@ -339,19 +371,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339108,
-      "num": 262259,
+      "raw_hot": 339741,
+      "num": 339741,
       "word": "吉克隽逸泰妆",
       "onboard_time": 1681533566,
       "rank": 13,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 332365,
-      "num": 260081,
-      "word": "姜太显哭了",
-      "onboard_time": 1681534828,
-      "rank": 14,
       "category": "作品衍生"
     },
     {
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 323834,
-      "num": 253071,
+      "num": 321820,
       "word": "任天堂 真有你的啊",
       "onboard_time": 1681532547,
       "rank": 31,
@@ -385,6 +409,14 @@
       "onboard_time": 1681521023,
       "rank": 36,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 293095,
+      "num": 293095,
+      "word": "王俊凯第30届大学生电影节青春同路人",
+      "onboard_time": 1681534526,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 292959,
@@ -408,22 +440,6 @@
       "word": "女儿发现做月嫂的妈妈存款近500万",
       "onboard_time": 1681461687,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272920,
-      "num": 272920,
-      "word": "王俊凯第30届大学生电影节青春同路人",
-      "onboard_time": 1681534526,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 268347,
-      "num": 251915,
-      "word": "老汉抢座揪住女子衣领将其拎起",
-      "onboard_time": 1681534226,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -481,14 +497,6 @@
       "onboard_time": 1681504752,
       "rank": 13,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 248240,
-      "num": 248240,
-      "word": "科切拉音乐节",
-      "onboard_time": 1681535005,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 245218,
@@ -593,6 +601,14 @@
       "onboard_time": 1681475787,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210433,
+      "num": 210433,
+      "word": "龙马精神",
+      "onboard_time": 1681536447,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 207157,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188341,
+      "num": 188341,
+      "word": "粉丝靠鞋认出鹿晗",
+      "onboard_time": 1681531644,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187705,
       "num": 187705,
       "word": "李楠",
@@ -761,14 +785,6 @@
       "onboard_time": 1681521864,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 179460,
-      "num": 165117,
-      "word": "粉丝靠鞋认出鹿晗",
-      "onboard_time": 1681531644,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 178357,
@@ -896,6 +912,14 @@
       "word": "了不起舞社2舞台",
       "onboard_time": 1681534705,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150067,
+      "num": 150067,
+      "word": "BoysPlanet决赛见面会",
+      "onboard_time": 1681536447,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1121,6 +1145,22 @@
       "onboard_time": 1681528764,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95367,
+      "num": 95367,
+      "word": "自考笔果题库崩了",
+      "onboard_time": 1681536267,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 94187,
+      "num": 94187,
+      "word": "奔跑吧全员脸颊比心接力",
+      "onboard_time": 1681536386,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 93387,
