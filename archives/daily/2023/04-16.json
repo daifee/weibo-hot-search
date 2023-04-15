@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681578871668,
+  "endTime": 1681579999541,
   "band_list": [
     {
       "raw_hot": 1458294,
@@ -235,7 +235,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131148,
+      "raw_hot": 133116,
       "num": 117890,
       "word": "害怕给别人主动发消息",
       "onboard_time": 1681576405,
@@ -411,7 +411,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61244,
+      "raw_hot": 62164,
       "num": 63634,
       "word": "周觅solo舞台",
       "onboard_time": 1681558166,
@@ -435,7 +435,7 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 40247,
+      "raw_hot": 41384,
       "num": 63585,
       "word": "五月天香港演唱会",
       "onboard_time": 1681577662,
@@ -449,6 +449,14 @@
       "onboard_time": 1681539686,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28898,
+      "num": 62164,
+      "word": "音乐节",
+      "onboard_time": 1681568309,
+      "rank": 49,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
