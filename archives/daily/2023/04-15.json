@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681547604909,
+  "endTime": 1681550146460,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -139,6 +139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 946567,
+      "num": 946567,
+      "word": "十大选手 罚站",
+      "onboard_time": 1681547246,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 923137,
       "num": 399539,
       "word": "许超医生 麻烦网红不要去碰瓷医院",
@@ -179,20 +187,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 771518,
+      "num": 771518,
+      "word": "柯哀牵手",
+      "onboard_time": 1681544908,
+      "rank": 7,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 721551,
       "num": 253038,
       "word": "试管生下龙凤胎父女间竟无血缘关系",
       "onboard_time": 1681516463,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 706480,
-      "num": 706480,
-      "word": "柯哀牵手",
-      "onboard_time": 1681544908,
-      "rank": 7,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 679411,
@@ -265,6 +273,14 @@
       "onboard_time": 1681532786,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548865,
+      "num": 548865,
+      "word": "郑元畅18年后再演江直树",
+      "onboard_time": 1681546227,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 536337,
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423090,
+      "num": 423090,
+      "word": "那个失去双腿靠篮球行走的女孩长大了",
+      "onboard_time": 1681545447,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412733,
       "num": 412733,
       "word": "忽然发现家里有点钱",
@@ -425,14 +449,6 @@
       "onboard_time": 1681542206,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379380,
-      "num": 379380,
-      "word": "郑元畅18年后再演江直树",
-      "onboard_time": 1681546227,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 371742,
@@ -569,14 +585,6 @@
       "onboard_time": 1681518323,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292838,
-      "num": 292838,
-      "word": "那个失去双腿靠篮球行走的女孩长大了",
-      "onboard_time": 1681545447,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290386,
@@ -827,6 +835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 203922,
+      "num": 203922,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1681549045,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202429,
       "num": 202429,
       "word": "就差手把手教女生们怎么选男人",
@@ -843,12 +859,20 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 198241,
-      "num": 212170,
-      "word": "十大选手 罚站",
-      "onboard_time": 1681547246,
-      "rank": 25,
-      "category": "游戏"
+      "raw_hot": 200052,
+      "num": 200052,
+      "word": "周星驰说喜欢Lisa",
+      "onboard_time": 1681549946,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197445,
+      "num": 181369,
+      "word": "任嘉伦学粤语",
+      "onboard_time": 1681549946,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 197401,
@@ -931,12 +955,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192378,
+      "num": 220264,
+      "word": "JDG对战BLG",
+      "onboard_time": 1681539926,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192289,
       "num": 192289,
       "word": "工信部听取329微信业务异常汇报",
       "onboard_time": 1681518564,
       "rank": 26,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 191684,
+      "num": 191684,
+      "word": "朱正廷水下吻戏",
+      "onboard_time": 1681547965,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 190910,
@@ -1011,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186183,
+      "num": 186183,
+      "word": "尹子维车保罗合体拍封面",
+      "onboard_time": 1681549348,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 182998,
       "num": 220237,
       "word": "网友环球影城偶遇何洛洛",
@@ -1024,6 +1072,22 @@
       "word": "PDD歌友会",
       "onboard_time": 1681521864,
       "rank": 26,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 182156,
+      "num": 182156,
+      "word": "长空之王逐梦蓝天第一课",
+      "onboard_time": 1681549285,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181359,
+      "num": 181359,
+      "word": "陶白白签名",
+      "onboard_time": 1681549526,
+      "rank": 31,
       "category": "网红"
     },
     {
@@ -1049,6 +1113,14 @@
       "onboard_time": 1681533506,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174663,
+      "num": 174663,
+      "word": "IVE舞台",
+      "onboard_time": 1681547607,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172358,
@@ -1089,14 +1161,6 @@
       "onboard_time": 1681513939,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167376,
-      "num": 220264,
-      "word": "JDG对战BLG",
-      "onboard_time": 1681539926,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 166208,
@@ -1312,6 +1376,14 @@
       "word": "华晨宇演唱会",
       "onboard_time": 1681540048,
       "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 126421,
+      "num": 210902,
+      "word": "王源撰文解析客厅狂欢演唱会",
+      "onboard_time": 1681546827,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -1555,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89353,
-      "num": 210902,
-      "word": "王源撰文解析客厅狂欢演唱会",
-      "onboard_time": 1681546827,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 89153,
       "num": 109732,
       "word": "WB战胜eStar",
@@ -1664,6 +1728,14 @@
       "word": "V影响力峰会",
       "onboard_time": 1681542026,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28847,
+      "num": 1013659,
+      "word": "我们的动车有多酷",
+      "onboard_time": 1681549887,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

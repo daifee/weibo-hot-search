@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681547604909,
+  "endTime": 1681550146460,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -1379,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 946567,
+      "num": 946567,
+      "word": "十大选手 罚站",
+      "onboard_time": 1681547246,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 945277,
       "num": 945277,
       "word": "Viper",
@@ -1859,6 +1867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 771518,
+      "num": 771518,
+      "word": "柯哀牵手",
+      "onboard_time": 1681544908,
+      "rank": 7,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 770031,
       "num": 770031,
       "word": "中方已做好迎接丫丫回国各项准备",
@@ -2105,14 +2121,6 @@
       "onboard_time": 1681043309,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 706480,
-      "num": 706480,
-      "word": "柯哀牵手",
-      "onboard_time": 1681544908,
-      "rank": 7,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 705788,
@@ -3233,6 +3241,14 @@
       "onboard_time": 1681171587,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 548865,
+      "num": 548865,
+      "word": "郑元畅18年后再演江直树",
+      "onboard_time": 1681546227,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 544237,
@@ -4419,6 +4435,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 423090,
+      "num": 423090,
+      "word": "那个失去双腿靠篮球行走的女孩长大了",
+      "onboard_time": 1681545447,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422863,
       "num": 422863,
       "word": "张小年回应",
@@ -5089,14 +5113,6 @@
       "onboard_time": 1681391250,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 379380,
-      "num": 379380,
-      "word": "郑元畅18年后再演江直树",
-      "onboard_time": 1681546227,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 377306,
@@ -6433,14 +6449,6 @@
       "onboard_time": 1681518323,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 292838,
-      "num": 292838,
-      "word": "那个失去双腿靠篮球行走的女孩长大了",
-      "onboard_time": 1681545447,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291529,
@@ -9107,6 +9115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203922,
+      "num": 203922,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1681549045,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203873,
       "num": 203873,
       "word": "耿爽在安理会点名某军事大国",
@@ -9539,6 +9555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200052,
+      "num": 200052,
+      "word": "周星驰说喜欢Lisa",
+      "onboard_time": 1681549946,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199938,
       "num": 176173,
       "word": "王鹤棣的健身房vlog",
@@ -9659,14 +9683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198241,
-      "num": 212170,
-      "word": "十大选手 罚站",
-      "onboard_time": 1681547246,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198153,
       "num": 210448,
       "word": "B站就上传用户真人照片致歉",
@@ -9768,6 +9784,14 @@
       "word": "蔡徐坤晒黑白海边花絮照",
       "onboard_time": 1681307853,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197445,
+      "num": 181369,
+      "word": "任嘉伦学粤语",
+      "onboard_time": 1681549946,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -10307,6 +10331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192378,
+      "num": 220264,
+      "word": "JDG对战BLG",
+      "onboard_time": 1681539926,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192308,
       "num": 192308,
       "word": "eStar对战WB",
@@ -10377,6 +10409,14 @@
       "onboard_time": 1681218087,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191684,
+      "num": 191684,
+      "word": "朱正廷水下吻戏",
+      "onboard_time": 1681547965,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 191578,
@@ -10851,6 +10891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186183,
+      "num": 186183,
+      "word": "尹子维车保罗合体拍封面",
+      "onboard_time": 1681549348,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186067,
       "num": 209876,
       "word": "到底谁觉得青山刚昌纯爱的",
@@ -11107,6 +11155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182156,
+      "num": 182156,
+      "word": "长空之王逐梦蓝天第一课",
+      "onboard_time": 1681549285,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182047,
       "num": 182047,
       "word": "姚琛于文文张艺凡模仿安陵容",
@@ -11137,6 +11193,14 @@
       "onboard_time": 1681196667,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181359,
+      "num": 181359,
+      "word": "陶白白签名",
+      "onboard_time": 1681549526,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 181114,
@@ -11409,6 +11473,14 @@
       "onboard_time": 1681053689,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174663,
+      "num": 174663,
+      "word": "IVE舞台",
+      "onboard_time": 1681547607,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174355,
@@ -11809,14 +11881,6 @@
       "onboard_time": 1681284446,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167376,
-      "num": 220264,
-      "word": "JDG对战BLG",
-      "onboard_time": 1681539926,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 167228,
@@ -13659,6 +13723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126421,
+      "num": 210902,
+      "word": "王源撰文解析客厅狂欢演唱会",
+      "onboard_time": 1681546827,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125775,
       "num": 125775,
       "word": "LPL十周年主题片",
@@ -14603,14 +14675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 89353,
-      "num": 210902,
-      "word": "王源撰文解析客厅狂欢演唱会",
-      "onboard_time": 1681546827,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 89346,
       "num": 89346,
       "word": "罗德里世界波",
@@ -15105,6 +15169,14 @@
       "onboard_time": 1681321395,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 28847,
+      "num": 1013659,
+      "word": "我们的动车有多酷",
+      "onboard_time": 1681549887,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28108,
