@@ -1,0 +1,411 @@
+{
+  "startTime": 1681575693686,
+  "endTime": 1681575693686,
+  "band_list": [
+    {
+      "raw_hot": 1458294,
+      "num": 126850,
+      "word": "钟丽缇直播哭了",
+      "onboard_time": 1681572450,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1145175,
+      "num": 120777,
+      "word": "蔡徐坤的关注",
+      "onboard_time": 1681572810,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1016189,
+      "num": 288438,
+      "word": "达赖舌吻男童有多恶心",
+      "onboard_time": 1681558224,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946205,
+      "num": 109745,
+      "word": "李钟硕没逃过韩国酵母",
+      "onboard_time": 1681568309,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 827197,
+      "num": 286963,
+      "word": "管泽元向余霜求婚",
+      "onboard_time": 1681567589,
+      "rank": 6,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 737277,
+      "num": 107908,
+      "word": "韩素希胯骨纹身",
+      "onboard_time": 1681570352,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 701607,
+      "num": 701607,
+      "word": "曝淄博酒店网上标价千元前台仅需200",
+      "onboard_time": 1681567707,
+      "rank": 0,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 564011,
+      "num": 200367,
+      "word": "叶一茜曾说森碟需要减肥",
+      "onboard_time": 1681568489,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 556099,
+      "num": 106970,
+      "word": "李维嘉回复网友评论",
+      "onboard_time": 1681571850,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 476426,
+      "num": 171687,
+      "word": "葛斯齐说肖战上柔下刚",
+      "onboard_time": 1681574429,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 441422,
+      "num": 441422,
+      "word": "徐明浩给张艺兴打电话",
+      "onboard_time": 1681569991,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 413532,
+      "num": 413532,
+      "word": "网友质疑长月烬明抄袭仙剑三",
+      "onboard_time": 1681557865,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 308768,
+      "num": 308768,
+      "word": "成龙退票事件完整视频",
+      "onboard_time": 1681558467,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 293747,
+      "num": 119755,
+      "word": "第一次见吃竹子手忙脚乱的大熊猫",
+      "onboard_time": 1681573649,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259878,
+      "num": 259878,
+      "word": "检验师",
+      "onboard_time": 1681566568,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 249510,
+      "num": 112348,
+      "word": "为什么现在姐弟恋越来越多",
+      "onboard_time": 1681560329,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 249392,
+      "num": 103562,
+      "word": "陈都灵胳膊好长",
+      "onboard_time": 1681574189,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232573,
+      "num": 232573,
+      "word": "许嵩音乐节",
+      "onboard_time": 1681574667,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 215244,
+      "num": 103183,
+      "word": "明道真的再演单均昊了",
+      "onboard_time": 1681570831,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203683,
+      "num": 203683,
+      "word": "韩国 满汉全席",
+      "onboard_time": 1681553486,
+      "rank": 9,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 181927,
+      "num": 181927,
+      "word": "郑秀妍开北京首店",
+      "onboard_time": 1681559186,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169052,
+      "num": 103142,
+      "word": "张杰在西安唱大美中华",
+      "onboard_time": 1681569150,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 162271,
+      "num": 102518,
+      "word": "摆摊卖周边 去展览馆办展",
+      "onboard_time": 1681574068,
+      "rank": 33,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 156571,
+      "num": 156571,
+      "word": "灌篮高手口碑",
+      "onboard_time": 1681563507,
+      "rank": 13,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 156258,
+      "num": 156258,
+      "word": "张雨绮好辣",
+      "onboard_time": 1681555165,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 152765,
+      "num": 152765,
+      "word": "郑州通报共享厨房相关情况",
+      "onboard_time": 1681565547,
+      "rank": 15,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 141608,
+      "num": 98376,
+      "word": "龚俊易烊千玺同款石上鸟胸针",
+      "onboard_time": 1681565787,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133571,
+      "num": 133571,
+      "word": "Tabe的BP被爆",
+      "onboard_time": 1681563327,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 130817,
+      "num": 102340,
+      "word": "生气容易长结节吗",
+      "onboard_time": 1681575028,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 129925,
+      "num": 129925,
+      "word": "模范出租车",
+      "onboard_time": 1681567890,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129164,
+      "num": 129164,
+      "word": "宋雨琦确诊感染新冠",
+      "onboard_time": 1681541186,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 128603,
+      "num": 128603,
+      "word": "陈奕迅新加坡演唱会",
+      "onboard_time": 1681573649,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 123915,
+      "num": 97248,
+      "word": "陈粒演唱会",
+      "onboard_time": 1681569693,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 113418,
+      "num": 96561,
+      "word": "柳智敏神似爱丽丝",
+      "onboard_time": 1681561468,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 111689,
+      "num": 111689,
+      "word": "JDG夺冠",
+      "onboard_time": 1681560026,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 111442,
+      "num": 111442,
+      "word": "网红店芋包王后厨被曝触目惊心",
+      "onboard_time": 1681552586,
+      "rank": 25,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 105943,
+      "num": 93797,
+      "word": "汪峰演唱会",
+      "onboard_time": 1681568249,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 105483,
+      "num": 93534,
+      "word": "周星驰说喜欢Lisa",
+      "onboard_time": 1681549946,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103936,
+      "num": 103936,
+      "word": "拜仁慕尼黑vs霍芬海姆",
+      "onboard_time": 1681572571,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102007,
+      "num": 102007,
+      "word": "马嘉祺你怎么这样",
+      "onboard_time": 1681559067,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 93808,
+      "num": 93808,
+      "word": "苏丹首都多地发生武装冲突",
+      "onboard_time": 1681566028,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 90657,
+      "num": 90657,
+      "word": "崔秀彬崔杋圭跳了Flower",
+      "onboard_time": 1681568732,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 89237,
+      "num": 89237,
+      "word": "内卷蚊香",
+      "onboard_time": 1681568070,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 82490,
+      "num": 82490,
+      "word": "如果我是马克龙 我还想来",
+      "onboard_time": 1681556306,
+      "rank": 44,
+      "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 80189,
+      "num": 80189,
+      "word": "369 一阵上单就是会赢无阵上单",
+      "onboard_time": 1681565307,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 75681,
+      "num": 75681,
+      "word": "Hero零封AG",
+      "onboard_time": 1681567109,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 74917,
+      "num": 74917,
+      "word": "切尔西4月首球",
+      "onboard_time": 1681574609,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74368,
+      "num": 74368,
+      "word": "切尔西vs布莱顿",
+      "onboard_time": 1681569090,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72250,
+      "num": 74586,
+      "word": "檀健次丁程鑫演的川渝帅哥",
+      "onboard_time": 1681569209,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46216,
+      "num": 418266,
+      "word": "乘车跨越中老边境线梦幻又震撼",
+      "onboard_time": 1681564948,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#以新安全格局保障新发展格局#"
+    }
+  ]
+}

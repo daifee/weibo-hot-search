@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681572814564,
+  "endTime": 1681575693686,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2099,6 +2099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1458294,
+      "num": 290153,
+      "word": "钟丽缇直播哭了",
+      "onboard_time": 1681572450,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1457597,
       "num": 1457597,
       "word": "跟老爸说买了墓地旁边的房子",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1681029148,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1360895,
-      "num": 290153,
-      "word": "钟丽缇直播哭了",
-      "onboard_time": 1681572450,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1350707,
@@ -2857,6 +2857,14 @@
       "onboard_time": 1680817992,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1145175,
+      "num": 120777,
+      "word": "蔡徐坤的关注",
+      "onboard_time": 1681572810,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1145139,
@@ -7915,6 +7923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 556099,
+      "num": 226438,
+      "word": "李维嘉回复网友评论",
+      "onboard_time": 1681571850,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555516,
       "num": 345005,
       "word": "过度超前消费有多可怕",
@@ -9625,6 +9641,14 @@
       "onboard_time": 1680764546,
       "rank": 15,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 476426,
+      "num": 171687,
+      "word": "葛斯齐说肖战上柔下刚",
+      "onboard_time": 1681574429,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 476103,
@@ -15491,6 +15515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 293747,
+      "num": 119755,
+      "word": "第一次见吃竹子手忙脚乱的大熊猫",
+      "onboard_time": 1681573649,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293467,
       "num": 293467,
       "word": "长月烬明穿帮镜头",
@@ -17801,6 +17833,14 @@
       "onboard_time": 1680892633,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 249392,
+      "num": 103562,
+      "word": "陈都灵胳膊好长",
+      "onboard_time": 1681574189,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 249331,
@@ -22657,14 +22697,6 @@
       "onboard_time": 1680493410,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202284,
-      "num": 226438,
-      "word": "李维嘉回复网友评论",
-      "onboard_time": 1681571850,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 202240,
@@ -29307,6 +29339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162271,
+      "num": 102518,
+      "word": "摆摊卖周边 去展览馆办展",
+      "onboard_time": 1681574068,
+      "rank": 33,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 162171,
       "num": 162171,
       "word": "EXO见面会练习室花絮",
@@ -32667,6 +32707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130817,
+      "num": 102340,
+      "word": "生气容易长结节吗",
+      "onboard_time": 1681575028,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 130760,
       "num": 130760,
       "word": "用海贼王的画风画狂飙",
@@ -32905,6 +32953,14 @@
       "onboard_time": 1680913763,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128603,
+      "num": 128603,
+      "word": "陈奕迅新加坡演唱会",
+      "onboard_time": 1681573649,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 128538,
@@ -34691,6 +34747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103936,
+      "num": 103936,
+      "word": "拜仁慕尼黑vs霍芬海姆",
+      "onboard_time": 1681572571,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103756,
       "num": 103756,
       "word": "妈妈咪呀今日开播",
@@ -35817,6 +35881,14 @@
       "onboard_time": 1681433609,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74917,
+      "num": 74917,
+      "word": "切尔西4月首球",
+      "onboard_time": 1681574609,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 74649,
