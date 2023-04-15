@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681582791361,
+  "endTime": 1681583603751,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -36441,6 +36441,14 @@
       "onboard_time": 1680468310,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46320,
+      "num": 38572,
+      "word": "杨迪坚持最久的是嘴上运动",
+      "onboard_time": 1681583115,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 46159,
