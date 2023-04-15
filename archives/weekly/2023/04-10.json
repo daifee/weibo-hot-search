@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681536811567,
+  "endTime": 1681539655505,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -161,6 +161,14 @@
       "onboard_time": 1681185928,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2505042,
+      "num": 2505042,
+      "word": "安倍晋三",
+      "onboard_time": 1681535967,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2499424,
@@ -779,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1383472,
+      "num": 689814,
+      "word": "管泽元 余霜",
+      "onboard_time": 1681536989,
+      "rank": 5,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1381174,
       "num": 1195602,
       "word": "易梦玲素颜",
@@ -945,6 +961,14 @@
       "onboard_time": 1681290387,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1191339,
+      "num": 1191339,
+      "word": "薛之谦唱到一半被伴舞撞飞了",
+      "onboard_time": 1681537406,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1190552,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1681098928,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 991158,
-      "num": 991158,
-      "word": "安倍晋三",
-      "onboard_time": 1681535967,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 983038,
@@ -3427,6 +3443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 521068,
+      "num": 521068,
+      "word": "老汉抢座揪住女子衣领将其拎起",
+      "onboard_time": 1681534226,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519629,
       "num": 377050,
       "word": "肖战白色开衫造型",
@@ -3985,14 +4009,6 @@
       "onboard_time": 1681389028,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 454503,
-      "num": 454503,
-      "word": "老汉抢座揪住女子衣领将其拎起",
-      "onboard_time": 1681534226,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454123,
@@ -6899,6 +6915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257563,
+      "num": 246985,
+      "word": "张雨绮泰国音乐节路透",
+      "onboard_time": 1681536867,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 257485,
       "num": 257485,
       "word": "苏州肯帝亚",
@@ -7145,6 +7169,22 @@
       "onboard_time": 1681142545,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 246759,
+      "num": 246759,
+      "word": "腾讯视频待播剧招商看点",
+      "onboard_time": 1681537347,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246465,
+      "num": 246465,
+      "word": "男孩背患脑瘫同学10年从小学到高三",
+      "onboard_time": 1681536867,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 245829,
@@ -7753,6 +7793,14 @@
       "onboard_time": 1681289189,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228982,
+      "num": 228982,
+      "word": "蔡徐坤机场上错车",
+      "onboard_time": 1681538486,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 228891,
@@ -9585,6 +9633,14 @@
       "onboard_time": 1681093346,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197401,
+      "num": 197401,
+      "word": "恋与深空内测",
+      "onboard_time": 1681538127,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 197393,
@@ -11971,6 +12027,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 158821,
+      "num": 158821,
+      "word": "杨丞琳让粉丝过好自己的生活",
+      "onboard_time": 1681537226,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158620,
       "num": 158620,
       "word": "显微镜下的流浪地球2",
@@ -12675,6 +12739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144147,
+      "num": 144147,
+      "word": "难哄第二季",
+      "onboard_time": 1681538546,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 144021,
       "num": 144021,
       "word": "刘宇宁直播唱长月烬明片头曲",
@@ -13187,6 +13259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130235,
+      "num": 130235,
+      "word": "12306候补",
+      "onboard_time": 1681539445,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 130168,
       "num": 130168,
       "word": "主人带着狗狗划船过江",
@@ -13587,6 +13667,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 119461,
+      "num": 119461,
+      "word": "奔跑吧全员脸颊比心接力",
+      "onboard_time": 1681536386,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119238,
       "num": 119238,
       "word": "杨千嬅紫发",
@@ -13771,6 +13859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 111786,
+      "num": 111786,
+      "word": "ITZY新发色",
+      "onboard_time": 1681538127,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111161,
       "num": 111161,
       "word": "如何分辨椰子水坏没坏",
@@ -13897,6 +13993,14 @@
       "onboard_time": 1681433847,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107142,
+      "num": 107142,
+      "word": "摆完盘瞬间变贵了",
+      "onboard_time": 1681538006,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 107099,
@@ -14163,14 +14267,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94187,
-      "num": 94187,
-      "word": "奔跑吧全员脸颊比心接力",
-      "onboard_time": 1681536386,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94166,
       "num": 94166,
       "word": "汪苏泷音乐节",
@@ -14185,6 +14281,14 @@
       "onboard_time": 1681052970,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92818,
+      "num": 92818,
+      "word": "第五人格",
+      "onboard_time": 1681082781,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 92605,
@@ -14249,14 +14353,6 @@
       "onboard_time": 1681255581,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89207,
-      "num": 89207,
-      "word": "第五人格",
-      "onboard_time": 1681082781,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 88707,
@@ -14340,7 +14436,7 @@
     },
     {
       "raw_hot": 83515,
-      "num": 1225401,
+      "num": 1689737,
       "word": "全民国家安全教育日公益短片",
       "onboard_time": 1681529124,
       "rank": 2,
@@ -14864,6 +14960,9 @@
     },
     {
       "word": "#习主席用三个关键词定位中巴关系#"
+    },
+    {
+      "word": "#国家安全教育日#"
     }
   ]
 }

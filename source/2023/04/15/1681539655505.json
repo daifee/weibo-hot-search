@@ -1,0 +1,410 @@
+{
+  "runTime": 1681539655505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2538460,
+        "num": 2538460,
+        "word": "成龙被观众当场要求退票",
+        "onboard_time": 1681534526,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2505042,
+        "num": 2505042,
+        "word": "安倍晋三",
+        "onboard_time": 1681535967,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34657,
+        "num": 1689737,
+        "word": "全民国家安全教育日公益短片",
+        "onboard_time": 1681529124,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191339,
+        "num": 1191339,
+        "word": "薛之谦唱到一半被伴舞撞飞了",
+        "onboard_time": 1681537406,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 692876,
+        "num": 692876,
+        "word": "长月烬明排播调整",
+        "onboard_time": 1681533865,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1383472,
+        "num": 689814,
+        "word": "管泽元 余霜",
+        "onboard_time": 1681536989,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 665201,
+        "num": 665201,
+        "word": "岸田文雄避难",
+        "onboard_time": 1681527863,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521068,
+        "num": 521068,
+        "word": "老汉抢座揪住女子衣领将其拎起",
+        "onboard_time": 1681534226,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252537,
+        "num": 252537,
+        "word": "清北学生免费游淄博政策或推迟",
+        "onboard_time": 1681533145,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 305474,
+        "num": 252271,
+        "word": "父母生二胎子女有权阻止吗",
+        "onboard_time": 1681530744,
+        "rank": 9,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 483665,
+        "num": 251201,
+        "word": "姜太显哭了",
+        "onboard_time": 1681534828,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314021,
+        "num": 250134,
+        "word": "歪哥 蒲熠星",
+        "onboard_time": 1681520966,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297551,
+        "num": 248416,
+        "word": "秋瓷炫 春天来了可我还要工作",
+        "onboard_time": 1681531704,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257563,
+        "num": 246985,
+        "word": "张雨绮泰国音乐节路透",
+        "onboard_time": 1681536867,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246759,
+        "num": 246759,
+        "word": "腾讯视频待播剧招商看点",
+        "onboard_time": 1681537347,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246465,
+        "num": 246465,
+        "word": "男孩背患脑瘫同学10年从小学到高三",
+        "onboard_time": 1681536867,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 246043,
+        "num": 246043,
+        "word": "吴尊友称新冠已经趋于结束",
+        "onboard_time": 1681521744,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238839,
+        "num": 238839,
+        "word": "科切拉音乐节",
+        "onboard_time": 1681535005,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228982,
+        "num": 228982,
+        "word": "蔡徐坤机场上错车",
+        "onboard_time": 1681538486,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197401,
+        "num": 197401,
+        "word": "恋与深空内测",
+        "onboard_time": 1681538127,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225478,
+        "num": 195546,
+        "word": "试管生下龙凤胎父女间竟无血缘关系",
+        "onboard_time": 1681516463,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223989,
+        "num": 192823,
+        "word": "吉克隽逸泰妆",
+        "onboard_time": 1681533566,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200695,
+        "num": 191263,
+        "word": "王俊凯第30届大学生电影节青春同路人",
+        "onboard_time": 1681534526,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182762,
+        "num": 182762,
+        "word": "任天堂 真有你的啊",
+        "onboard_time": 1681532547,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170906,
+        "num": 170906,
+        "word": "淄博酒店",
+        "onboard_time": 1681521023,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 170230,
+        "num": 170230,
+        "word": "TFBOYS415九周年了",
+        "onboard_time": 1681531464,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158821,
+        "num": 158821,
+        "word": "杨丞琳让粉丝过好自己的生活",
+        "onboard_time": 1681537226,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145958,
+        "num": 145958,
+        "word": "女子推理社定档",
+        "onboard_time": 1681534106,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144147,
+        "num": 144147,
+        "word": "难哄第二季",
+        "onboard_time": 1681538546,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 139945,
+        "num": 139945,
+        "word": "岸田文雄回应爆炸",
+        "onboard_time": 1681532786,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130235,
+        "num": 130235,
+        "word": "12306候补",
+        "onboard_time": 1681539445,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 129867,
+        "num": 129867,
+        "word": "CBA对上海队与江苏队比赛展开调查",
+        "onboard_time": 1681525885,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128369,
+        "num": 128369,
+        "word": "五一火车票秒空",
+        "onboard_time": 1681526843,
+        "rank": 32,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 127190,
+        "num": 127190,
+        "word": "斗罗大陆",
+        "onboard_time": 1681533926,
+        "rank": 33,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 119461,
+        "num": 119461,
+        "word": "奔跑吧全员脸颊比心接力",
+        "onboard_time": 1681536386,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117084,
+        "num": 117084,
+        "word": "CP29",
+        "onboard_time": 1681534285,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111786,
+        "num": 111786,
+        "word": "ITZY新发色",
+        "onboard_time": 1681538127,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111167,
+        "num": 111167,
+        "word": "BoysPlanet决赛见面会",
+        "onboard_time": 1681536447,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110646,
+        "num": 110646,
+        "word": "粉丝靠鞋认出鹿晗",
+        "onboard_time": 1681531644,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110176,
+        "num": 110176,
+        "word": "普男普女算贬义词吗",
+        "onboard_time": 1681532725,
+        "rank": 39,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 107374,
+        "num": 107374,
+        "word": "易烊千玺双蜡像同台释出",
+        "onboard_time": 1681529304,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107142,
+        "num": 107142,
+        "word": "摆完盘瞬间变贵了",
+        "onboard_time": 1681538006,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102428,
+        "num": 102428,
+        "word": "龙马精神",
+        "onboard_time": 1681536447,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100488,
+        "num": 100488,
+        "word": "泫雅泰国泼水节 舞台上的野马",
+        "onboard_time": 1681478366,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95437,
+        "num": 95437,
+        "word": "宋妍霏驾照到手",
+        "onboard_time": 1681533506,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94966,
+        "num": 94966,
+        "word": "流浪地球2",
+        "onboard_time": 1681529244,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92818,
+        "num": 92818,
+        "word": "第五人格",
+        "onboard_time": 1681537828,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87383,
+        "num": 87383,
+        "word": "招惹唯一吻戏",
+        "onboard_time": 1681524384,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80647,
+        "num": 87237,
+        "word": "生源都不足了还要高价抢学区房吗",
+        "onboard_time": 1681503313,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 74376,
+        "num": 86987,
+        "word": "微信回应工信部最新要求",
+        "onboard_time": 1681517605,
+        "rank": 49,
+        "category": "科技,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家安全教育日#"
+    }
+  }
+}
