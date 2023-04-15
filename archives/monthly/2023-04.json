@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681539655505,
+  "endTime": 1681540420337,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -6072,6 +6072,14 @@
       "word": "山东推出399元高铁环游套票",
       "onboard_time": 1680909798,
       "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 662381,
+      "num": 662381,
+      "word": "12306候补",
+      "onboard_time": 1681539445,
+      "rank": 30,
       "category": "旅游,社会新闻"
     },
     {
@@ -14963,6 +14971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 295183,
+      "num": 273784,
+      "word": "男孩背患脑瘫同学10年从小学到高三",
+      "onboard_time": 1681536867,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 295182,
       "num": 295182,
       "word": "不要让女性成为话题焦点",
@@ -15041,6 +15057,14 @@
       "onboard_time": 1680345990,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 294038,
+      "num": 268952,
+      "word": "蔡徐坤机场上错车",
+      "onboard_time": 1681538486,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 293821,
@@ -15843,6 +15867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276962,
+      "num": 276962,
+      "word": "腾讯视频待播剧招商看点",
+      "onboard_time": 1681537347,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276869,
       "num": 243338,
       "word": "冥夜被煮",
@@ -16451,6 +16483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262877,
+      "num": 262877,
+      "word": "张雨绮泰国音乐节路透",
+      "onboard_time": 1681536867,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 262791,
       "num": 252333,
       "word": "癌症早期症状有哪些",
@@ -16777,14 +16817,6 @@
       "onboard_time": 1681382310,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257563,
-      "num": 246985,
-      "word": "张雨绮泰国音乐节路透",
-      "onboard_time": 1681536867,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 257485,
@@ -17385,22 +17417,6 @@
       "onboard_time": 1681142545,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 246759,
-      "num": 246759,
-      "word": "腾讯视频待播剧招商看点",
-      "onboard_time": 1681537347,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246465,
-      "num": 246465,
-      "word": "男孩背患脑瘫同学10年从小学到高三",
-      "onboard_time": 1681536867,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 246444,
@@ -18721,14 +18737,6 @@
       "onboard_time": 1681289189,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 228982,
-      "num": 228982,
-      "word": "蔡徐坤机场上错车",
-      "onboard_time": 1681538486,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 228891,
@@ -23659,6 +23667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196407,
+      "num": 196407,
+      "word": "毛不易演唱会",
+      "onboard_time": 1681539686,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196282,
       "num": 196282,
       "word": "赵弈钦新剧人设",
@@ -27627,6 +27643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169656,
+      "num": 163205,
+      "word": "杨丞琳让粉丝过好自己的生活",
+      "onboard_time": 1681537226,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169601,
       "num": 169601,
       "word": "吃到什么程度是七分饱",
@@ -28851,14 +28875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158821,
-      "num": 158821,
-      "word": "杨丞琳让粉丝过好自己的生活",
-      "onboard_time": 1681537226,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158620,
       "num": 158620,
       "word": "显微镜下的流浪地球2",
@@ -28961,6 +28977,14 @@
       "onboard_time": 1681043608,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158137,
+      "num": 158137,
+      "word": "12306放票规则",
+      "onboard_time": 1681539686,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 158096,
@@ -31683,6 +31707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 131532,
+      "num": 131532,
+      "word": "一起露营吧2宣传片信息量",
+      "onboard_time": 1681539867,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131470,
       "num": 131470,
       "word": "一身反骨的狗狗",
@@ -31809,14 +31841,6 @@
       "onboard_time": 1681375410,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 130235,
-      "num": 130235,
-      "word": "12306候补",
-      "onboard_time": 1681539445,
-      "rank": 30,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 130227,
@@ -32345,6 +32369,14 @@
       "onboard_time": 1680997159,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124394,
+      "num": 124394,
+      "word": "摆完盘瞬间变贵了",
+      "onboard_time": 1681538006,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 124269,
@@ -33123,6 +33155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114161,
+      "num": 114161,
+      "word": "你好星期六好6团上班rap",
+      "onboard_time": 1681540346,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113952,
       "num": 113952,
       "word": "川大研究称善于社交更长寿",
@@ -33521,14 +33561,6 @@
       "onboard_time": 1680999083,
       "rank": 41,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 107142,
-      "num": 107142,
-      "word": "摆完盘瞬间变贵了",
-      "onboard_time": 1681538006,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 107099,

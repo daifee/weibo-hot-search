@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681539655505,
+  "endTime": 1681540420337,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -177,6 +177,14 @@
       "onboard_time": 1681513819,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 662381,
+      "num": 662381,
+      "word": "12306候补",
+      "onboard_time": 1681539445,
+      "rank": 30,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 659201,
@@ -427,6 +435,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 295183,
+      "num": 273784,
+      "word": "男孩背患脑瘫同学10年从小学到高三",
+      "onboard_time": 1681536867,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 294038,
+      "num": 268952,
+      "word": "蔡徐坤机场上错车",
+      "onboard_time": 1681538486,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293095,
       "num": 293095,
       "word": "王俊凯第30届大学生电影节青春同路人",
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276962,
+      "num": 276962,
+      "word": "腾讯视频待播剧招商看点",
+      "onboard_time": 1681537347,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276358,
       "num": 276358,
       "word": "女儿发现做月嫂的妈妈存款近500万",
@@ -465,6 +497,14 @@
       "onboard_time": 1681528764,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262877,
+      "num": 262877,
+      "word": "张雨绮泰国音乐节路透",
+      "onboard_time": 1681536867,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 262791,
@@ -491,14 +531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 257563,
-      "num": 246985,
-      "word": "张雨绮泰国音乐节路透",
-      "onboard_time": 1681536867,
-      "rank": 13,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 257351,
       "num": 257351,
       "word": "24岁的周雨彤",
@@ -521,22 +553,6 @@
       "onboard_time": 1681504752,
       "rank": 13,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 246759,
-      "num": 246759,
-      "word": "腾讯视频待播剧招商看点",
-      "onboard_time": 1681537347,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246465,
-      "num": 246465,
-      "word": "男孩背患脑瘫同学10年从小学到高三",
-      "onboard_time": 1681536867,
-      "rank": 15,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 245218,
@@ -585,14 +601,6 @@
       "onboard_time": 1681529965,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228982,
-      "num": 228982,
-      "word": "蔡徐坤机场上错车",
-      "onboard_time": 1681538486,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 228360,
@@ -729,6 +737,14 @@
       "onboard_time": 1681532725,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196407,
+      "num": 196407,
+      "word": "毛不易演唱会",
+      "onboard_time": 1681539686,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 195352,
@@ -875,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169656,
+      "num": 163205,
+      "word": "杨丞琳让粉丝过好自己的生活",
+      "onboard_time": 1681537226,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169536,
       "num": 169536,
       "word": "代号鸢",
@@ -889,6 +913,14 @@
       "onboard_time": 1681513939,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167376,
+      "num": 167376,
+      "word": "JDG对战BLG",
+      "onboard_time": 1681539926,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 166208,
@@ -947,20 +979,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 158821,
-      "num": 158821,
-      "word": "杨丞琳让粉丝过好自己的生活",
-      "onboard_time": 1681537226,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158620,
       "num": 158620,
       "word": "显微镜下的流浪地球2",
       "onboard_time": 1681528644,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158137,
+      "num": 158137,
+      "word": "12306放票规则",
+      "onboard_time": 1681539686,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 156305,
@@ -1043,12 +1075,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130235,
-      "num": 130235,
-      "word": "12306候补",
-      "onboard_time": 1681539445,
-      "rank": 30,
-      "category": "旅游,社会新闻"
+      "raw_hot": 131532,
+      "num": 131532,
+      "word": "一起露营吧2宣传片信息量",
+      "onboard_time": 1681539867,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 128825,
@@ -1067,12 +1099,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127274,
+      "num": 127274,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1681540048,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125537,
       "num": 125537,
       "word": "西施音乐节",
       "onboard_time": 1681519884,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124394,
+      "num": 124394,
+      "word": "摆完盘瞬间变贵了",
+      "onboard_time": 1681538006,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 123896,
@@ -1123,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114161,
+      "num": 114161,
+      "word": "你好星期六好6团上班rap",
+      "onboard_time": 1681540346,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113280,
       "num": 113280,
       "word": "青春环游记春日旅行海报",
@@ -1161,14 +1217,6 @@
       "onboard_time": 1681481188,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107142,
-      "num": 107142,
-      "word": "摆完盘瞬间变贵了",
-      "onboard_time": 1681538006,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 104522,
