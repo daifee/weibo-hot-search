@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681583603751,
+  "endTime": 1681585979578,
   "band_list": [
     {
       "raw_hot": 1458294,
@@ -427,7 +427,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 46320,
+      "raw_hot": 60149,
       "num": 38572,
       "word": "杨迪坚持最久的是嘴上运动",
       "onboard_time": 1681583115,
@@ -475,20 +475,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 31482,
+      "num": 62164,
+      "word": "音乐节",
+      "onboard_time": 1681568309,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 30342,
       "num": 33987,
       "word": "樊振东获男单冠军",
       "onboard_time": 1681562248,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28898,
-      "num": 62164,
-      "word": "音乐节",
-      "onboard_time": 1681568309,
-      "rank": 49,
-      "category": "音乐"
     }
   ],
   "hotgov_list": [

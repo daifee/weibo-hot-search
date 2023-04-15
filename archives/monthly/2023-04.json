@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681583603751,
+  "endTime": 1681585979578,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -36219,6 +36219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60149,
+      "num": 38572,
+      "word": "杨迪坚持最久的是嘴上运动",
+      "onboard_time": 1681583115,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59983,
       "num": 444231,
       "word": "华为MateX3到底能有多轻",
@@ -36441,14 +36449,6 @@
       "onboard_time": 1680468310,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46320,
-      "num": 38572,
-      "word": "杨迪坚持最久的是嘴上运动",
-      "onboard_time": 1681583115,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 46159,
