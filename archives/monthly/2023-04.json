@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681553825028,
+  "endTime": 1681554805239,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3660,7 +3660,7 @@
     },
     {
       "raw_hot": 945836,
-      "num": 385881,
+      "num": 451952,
       "word": "周星驰说喜欢Lisa",
       "onboard_time": 1681549946,
       "rank": 21,
@@ -4273,6 +4273,14 @@
       "onboard_time": 1680964351,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 858428,
+      "num": 858428,
+      "word": "韩国 满汉全席",
+      "onboard_time": 1681553486,
+      "rank": 37,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 858240,
@@ -7235,6 +7243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 591012,
+      "num": 591012,
+      "word": "张韶涵 永远的公主小妹",
+      "onboard_time": 1681551807,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590896,
       "num": 590896,
       "word": "名侦探柯南黑铁的鱼影",
@@ -7579,6 +7595,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 570559,
+      "num": 351271,
+      "word": "无锡一中学学生春游划船侧翻有人伤亡",
+      "onboard_time": 1681553367,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570058,
       "num": 570058,
       "word": "易烊千玺石上鸟胸针",
@@ -7867,6 +7891,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 553152,
+      "num": 553152,
+      "word": "网红店芋包王后厨被爆触目惊心",
+      "onboard_time": 1681552586,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 553038,
       "num": 553038,
       "word": "张杰演唱会",
@@ -7921,14 +7953,6 @@
       "onboard_time": 1680941306,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 549399,
-      "num": 549399,
-      "word": "张韶涵 永远的公主小妹",
-      "onboard_time": 1681551807,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 549184,
@@ -10716,7 +10740,7 @@
     },
     {
       "raw_hot": 423090,
-      "num": 423090,
+      "num": 608540,
       "word": "那个失去双腿靠篮球行走的女孩长大了",
       "onboard_time": 1681545447,
       "rank": 19,
@@ -12377,14 +12401,6 @@
       "onboard_time": 1681544005,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 369765,
-      "num": 207244,
-      "word": "网红店芋包王后厨被爆触目惊心",
-      "onboard_time": 1681552586,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 368712,
@@ -17195,6 +17211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254205,
+      "num": 233882,
+      "word": "柳智敏金卷发",
+      "onboard_time": 1681552825,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254181,
       "num": 254181,
       "word": "传播他人私密视频最高可判无期",
@@ -18595,14 +18619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232207,
-      "num": 232207,
-      "word": "柳智敏金卷发",
-      "onboard_time": 1681552825,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 232021,
       "num": 232021,
       "word": "马克龙远道而来这些细节值得关注",
@@ -19241,14 +19257,6 @@
       "onboard_time": 1680415527,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224727,
-      "num": 224727,
-      "word": "无锡一中学学生春游划船侧翻有人伤亡",
-      "onboard_time": 1681553367,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224558,
@@ -22705,6 +22713,14 @@
       "onboard_time": 1681087529,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200833,
+      "num": 200833,
+      "word": "时代少年团旅游日常vlog",
+      "onboard_time": 1681554087,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 200819,
@@ -28771,6 +28787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162910,
+      "num": 162910,
+      "word": "TTG对战MTG",
+      "onboard_time": 1681554625,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162838,
       "num": 162838,
       "word": "阿尔瓦雷斯破门",
@@ -31411,6 +31435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138364,
+      "num": 206756,
+      "word": "刘昊然现身灌篮高手首映",
+      "onboard_time": 1681553546,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 138299,
       "num": 138299,
       "word": "AI自主学习让吴京刘德华重返20岁",
@@ -31913,14 +31945,6 @@
       "onboard_time": 1681053928,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132958,
-      "num": 206756,
-      "word": "刘昊然现身灌篮高手首映",
-      "onboard_time": 1681553546,
-      "rank": 36,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 132928,
@@ -32841,14 +32865,6 @@
       "onboard_time": 1681003706,
       "rank": 43,
       "category": "社会新闻,军事"
-    },
-    {
-      "raw_hot": 123419,
-      "num": 206735,
-      "word": "韩国 满汉全席",
-      "onboard_time": 1681553486,
-      "rank": 37,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 123054,
@@ -34043,6 +34059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105513,
+      "num": 137309,
+      "word": "我的记忆力be like",
+      "onboard_time": 1681554026,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105412,
       "num": 105412,
       "word": "中戏宣传片里的宋亚轩",
@@ -34881,6 +34905,14 @@
       "onboard_time": 1681004786,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90261,
+      "num": 137247,
+      "word": "TWICE五巡首尔场",
+      "onboard_time": 1681554745,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 90149,

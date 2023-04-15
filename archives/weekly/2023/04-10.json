@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681553825028,
+  "endTime": 1681554805239,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -1187,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1079384,
+      "num": 495059,
+      "word": "丫丫",
+      "onboard_time": 1681550847,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1076495,
       "num": 1076495,
       "word": "游客举报淄博出租司机不打表多收5元",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1681214726,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1045681,
-      "num": 390014,
-      "word": "丫丫",
-      "onboard_time": 1681550847,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1000886,
@@ -1404,7 +1404,7 @@
     },
     {
       "raw_hot": 945836,
-      "num": 385881,
+      "num": 451952,
       "word": "周星驰说喜欢Lisa",
       "onboard_time": 1681549946,
       "rank": 21,
@@ -1665,6 +1665,14 @@
       "onboard_time": 1681454066,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 858428,
+      "num": 858428,
+      "word": "韩国 满汉全席",
+      "onboard_time": 1681553486,
+      "rank": 37,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 854800,
@@ -2923,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 591012,
+      "num": 591012,
+      "word": "张韶涵 永远的公主小妹",
+      "onboard_time": 1681551807,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590120,
       "num": 590120,
       "word": "专家称子女是长周期的耐用消费品",
@@ -3099,6 +3115,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 570559,
+      "num": 351271,
+      "word": "无锡一中学学生春游划船侧翻有人伤亡",
+      "onboard_time": 1681553367,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 570058,
       "num": 570058,
       "word": "易烊千玺石上鸟胸针",
@@ -3267,20 +3291,20 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 553152,
+      "num": 553152,
+      "word": "网红店芋包王后厨被爆触目惊心",
+      "onboard_time": 1681552586,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 553038,
       "num": 553038,
       "word": "张杰演唱会",
       "onboard_time": 1681101273,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 549399,
-      "num": 549399,
-      "word": "张韶涵 永远的公主小妹",
-      "onboard_time": 1681551807,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 549184,
@@ -4484,7 +4508,7 @@
     },
     {
       "raw_hot": 423090,
-      "num": 423090,
+      "num": 608540,
       "word": "那个失去双腿靠篮球行走的女孩长大了",
       "onboard_time": 1681545447,
       "rank": 19,
@@ -5265,14 +5289,6 @@
       "onboard_time": 1681544005,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 369765,
-      "num": 207244,
-      "word": "网红店芋包王后厨被爆触目惊心",
-      "onboard_time": 1681552586,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 368712,
@@ -7259,6 +7275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254205,
+      "num": 233882,
+      "word": "柳智敏金卷发",
+      "onboard_time": 1681552825,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253868,
       "num": 253868,
       "word": "浙大学生称着火点在农学院动物房",
@@ -7883,14 +7907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232207,
-      "num": 232207,
-      "word": "柳智敏金卷发",
-      "onboard_time": 1681552825,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 231867,
       "num": 1056329,
       "word": "中国科学家研讨在月球上盖房子",
@@ -8153,14 +8169,6 @@
       "onboard_time": 1681106667,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224727,
-      "num": 224727,
-      "word": "无锡一中学学生春游划船侧翻有人伤亡",
-      "onboard_time": 1681553367,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223854,
@@ -9561,6 +9569,14 @@
       "onboard_time": 1681087529,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200833,
+      "num": 200833,
+      "word": "时代少年团旅游日常vlog",
+      "onboard_time": 1681554087,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 200819,
@@ -12211,6 +12227,14 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 162910,
+      "num": 162910,
+      "word": "TTG对战MTG",
+      "onboard_time": 1681554625,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162826,
       "num": 162826,
       "word": "全国各地的桑酒",
@@ -13403,6 +13427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138364,
+      "num": 206756,
+      "word": "刘昊然现身灌篮高手首映",
+      "onboard_time": 1681553546,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 138172,
       "num": 138172,
       "word": "周末可以精简到只有睡觉",
@@ -13545,14 +13577,6 @@
       "onboard_time": 1681479689,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132958,
-      "num": 206756,
-      "word": "刘昊然现身灌篮高手首映",
-      "onboard_time": 1681553546,
-      "rank": 36,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 132556,
@@ -13929,14 +13953,6 @@
       "onboard_time": 1681533266,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123419,
-      "num": 206735,
-      "word": "韩国 满汉全席",
-      "onboard_time": 1681553486,
-      "rank": 37,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 122951,
@@ -14491,6 +14507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105513,
+      "num": 137309,
+      "word": "我的记忆力be like",
+      "onboard_time": 1681554026,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105120,
       "num": 105120,
       "word": "闵玧其坂本龙一合作曲",
@@ -14785,6 +14809,14 @@
       "onboard_time": 1681521685,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90261,
+      "num": 137247,
+      "word": "TWICE五巡首尔场",
+      "onboard_time": 1681554745,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 90055,
