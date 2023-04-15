@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681550146460,
+  "endTime": 1681551205493,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -169,6 +169,14 @@
       "onboard_time": 1681546586,
       "rank": 6,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 869834,
+      "num": 385881,
+      "word": "周星驰说喜欢Lisa",
+      "onboard_time": 1681549946,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 837397,
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256228,
+      "num": 256228,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1681549045,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253384,
       "num": 253384,
       "word": "王者新赛季",
@@ -835,14 +851,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 203922,
-      "num": 203922,
-      "word": "张杰未live巡回演唱会",
-      "onboard_time": 1681549045,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 202429,
       "num": 202429,
       "word": "就差手把手教女生们怎么选男人",
@@ -859,16 +867,8 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 200052,
-      "num": 200052,
-      "word": "周星驰说喜欢Lisa",
-      "onboard_time": 1681549946,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197445,
-      "num": 181369,
+      "num": 187287,
       "word": "任嘉伦学粤语",
       "onboard_time": 1681549946,
       "rank": 30,
@@ -881,6 +881,14 @@
       "onboard_time": 1681538127,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197372,
+      "num": 197372,
+      "word": "周总理在西双版纳欢度泼水节画面",
+      "onboard_time": 1681549765,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197263,
@@ -1323,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139957,
+      "num": 139957,
+      "word": "北京国安",
+      "onboard_time": 1681550847,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137592,
       "num": 137592,
       "word": "热火逆转战胜公牛",
@@ -1427,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121147,
+      "num": 1013659,
+      "word": "我们的动车有多酷",
+      "onboard_time": 1681549887,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119754,
       "num": 119754,
       "word": "音悦台向EXO和粉丝道歉",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1681530506,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112262,
+      "num": 112262,
+      "word": "丫丫",
+      "onboard_time": 1681550847,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111786,
@@ -1667,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79992,
+      "num": 105876,
+      "word": "Ruler金克丝起飞",
+      "onboard_time": 1681550787,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75962,
       "num": 75962,
       "word": "喜欢一个人你会主动追吗",
@@ -1728,14 +1768,6 @@
       "word": "V影响力峰会",
       "onboard_time": 1681542026,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28847,
-      "num": 1013659,
-      "word": "我们的动车有多酷",
-      "onboard_time": 1681549887,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681550146460,
+  "endTime": 1681551205493,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -4153,6 +4153,14 @@
       "onboard_time": 1680752367,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869834,
+      "num": 385881,
+      "word": "周星驰说喜欢Lisa",
+      "onboard_time": 1681549946,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 868639,
@@ -17027,6 +17035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 256228,
+      "num": 256228,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1681549045,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 256159,
       "num": 256159,
       "word": "13岁男孩患急性脑脊髓炎突然瘫痪",
@@ -21723,14 +21739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 203922,
-      "num": 203922,
-      "word": "张杰未live巡回演唱会",
-      "onboard_time": 1681549045,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 203873,
       "num": 203873,
       "word": "耿爽在安理会点名某军事大国",
@@ -22795,14 +22803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 200052,
-      "num": 200052,
-      "word": "周星驰说喜欢Lisa",
-      "onboard_time": 1681549946,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200044,
       "num": 200044,
       "word": "RW侠状态回来了",
@@ -23444,7 +23444,7 @@
     },
     {
       "raw_hot": 197445,
-      "num": 181369,
+      "num": 187287,
       "word": "任嘉伦学粤语",
       "onboard_time": 1681549946,
       "rank": 30,
@@ -23504,6 +23504,14 @@
       "word": "你平时睡眠时间有多长",
       "onboard_time": 1681444891,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197372,
+      "num": 197372,
+      "word": "周总理在西双版纳欢度泼水节画面",
+      "onboard_time": 1681549765,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -31203,6 +31211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139957,
+      "num": 139957,
+      "word": "北京国安",
+      "onboard_time": 1681550847,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139827,
       "num": 139827,
       "word": "一诺狄仁杰三连决胜",
@@ -32873,6 +32889,14 @@
       "onboard_time": 1680305660,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121147,
+      "num": 1013659,
+      "word": "我们的动车有多酷",
+      "onboard_time": 1681549887,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121110,
@@ -35011,6 +35035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79992,
+      "num": 105876,
+      "word": "Ruler金克丝起飞",
+      "onboard_time": 1681550787,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79862,
       "num": 79862,
       "word": "北汽原董事长徐和谊被查",
@@ -35897,14 +35929,6 @@
       "onboard_time": 1681321395,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 28847,
-      "num": 1013659,
-      "word": "我们的动车有多酷",
-      "onboard_time": 1681549887,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26730,

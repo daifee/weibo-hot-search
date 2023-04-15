@@ -1,0 +1,410 @@
+{
+  "runTime": 1681551205493,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1077716,
+        "num": 1077716,
+        "word": "薛之谦唱到一半被伴舞撞飞了",
+        "onboard_time": 1681537406,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1388193,
+        "num": 1015281,
+        "word": "安倍晋三",
+        "onboard_time": 1681535967,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121147,
+        "num": 922428,
+        "word": "我们的动车有多酷",
+        "onboard_time": 1681549887,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874493,
+        "num": 874493,
+        "word": "成龙被观众当场要求退票",
+        "onboard_time": 1681534526,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 815309,
+        "num": 815309,
+        "word": "十大选手 罚站",
+        "onboard_time": 1681547246,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 598031,
+        "num": 598031,
+        "word": "柯哀牵手",
+        "onboard_time": 1681544908,
+        "rank": 5,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 498513,
+        "num": 498513,
+        "word": "郑元畅18年后再演江直树",
+        "onboard_time": 1681546227,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436831,
+        "num": 436831,
+        "word": "张靓颖开场",
+        "onboard_time": 1681546586,
+        "rank": 7,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 393068,
+        "num": 393068,
+        "word": "FPX 没奖",
+        "onboard_time": 1681545147,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 392854,
+        "num": 392854,
+        "word": "那个失去双腿靠篮球行走的女孩长大了",
+        "onboard_time": 1681545447,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1847599,
+        "num": 390035,
+        "word": "宋雨琦确诊感染新冠",
+        "onboard_time": 1681541186,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 869834,
+        "num": 385881,
+        "word": "周星驰说喜欢Lisa",
+        "onboard_time": 1681549946,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379449,
+        "num": 379449,
+        "word": "12306候补",
+        "onboard_time": 1681539445,
+        "rank": 12,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 363148,
+        "num": 363148,
+        "word": "长月烬明排播调整",
+        "onboard_time": 1681533865,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 310584,
+        "num": 310584,
+        "word": "管泽元 余霜",
+        "onboard_time": 1681536989,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 305217,
+        "num": 305217,
+        "word": "TF家族三代演唱会",
+        "onboard_time": 1681541245,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303991,
+        "num": 303991,
+        "word": "12306放票规则",
+        "onboard_time": 1681539686,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256228,
+        "num": 256228,
+        "word": "张杰未live巡回演唱会",
+        "onboard_time": 1681549045,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222592,
+        "num": 222592,
+        "word": "狐妖小红娘动画定档",
+        "onboard_time": 1681544005,
+        "rank": 18,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 197372,
+        "num": 197372,
+        "word": "周总理在西双版纳欢度泼水节画面",
+        "onboard_time": 1681549765,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189971,
+        "num": 189971,
+        "word": "现在就去法国排队",
+        "onboard_time": 1681543226,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187287,
+        "num": 187287,
+        "word": "任嘉伦学粤语",
+        "onboard_time": 1681549946,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184381,
+        "num": 184381,
+        "word": "JDG对战BLG",
+        "onboard_time": 1681539926,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180049,
+        "num": 180049,
+        "word": "老汉抢座揪住女子衣领将其拎起",
+        "onboard_time": 1681534226,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176231,
+        "num": 176231,
+        "word": "姜太显哭了",
+        "onboard_time": 1681534828,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170121,
+        "num": 170121,
+        "word": "朱正廷水下吻戏",
+        "onboard_time": 1681547965,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169826,
+        "num": 169826,
+        "word": "赛琳娜自拍角度",
+        "onboard_time": 1681542206,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163223,
+        "num": 163223,
+        "word": "男孩背患脑瘫同学10年从小学到高三",
+        "onboard_time": 1681536867,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 159078,
+        "num": 159078,
+        "word": "Meiko来进货的是吧",
+        "onboard_time": 1681542267,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 152738,
+        "num": 152738,
+        "word": "IVE舞台",
+        "onboard_time": 1681547607,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139957,
+        "num": 139957,
+        "word": "北京国安",
+        "onboard_time": 1681550847,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139620,
+        "num": 139620,
+        "word": "JackeyLove给Rookie颁奖",
+        "onboard_time": 1681544487,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131022,
+        "num": 131022,
+        "word": "李飞带三代练习生烧香",
+        "onboard_time": 1681542026,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128305,
+        "num": 128305,
+        "word": "光渊",
+        "onboard_time": 1681543046,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126328,
+        "num": 126328,
+        "word": "蔡徐坤机场上错车",
+        "onboard_time": 1681538486,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122694,
+        "num": 122694,
+        "word": "陶白白签名",
+        "onboard_time": 1681549526,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115244,
+        "num": 115244,
+        "word": "王源撰文解析客厅狂欢演唱会",
+        "onboard_time": 1681546827,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113711,
+        "num": 113711,
+        "word": "LPL十周年纪念颁奖典礼",
+        "onboard_time": 1681542627,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112262,
+        "num": 112262,
+        "word": "丫丫",
+        "onboard_time": 1681550847,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111690,
+        "num": 111690,
+        "word": "父母生二胎子女有权阻止吗",
+        "onboard_time": 1681530744,
+        "rank": 39,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 109038,
+        "num": 109038,
+        "word": "科切拉音乐节",
+        "onboard_time": 1681535005,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105939,
+        "num": 105939,
+        "word": "清北学生免费游淄博政策或推迟",
+        "onboard_time": 1681533145,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 97231,
+        "num": 105929,
+        "word": "王俊凯第30届大学生电影节青春同路人",
+        "onboard_time": 1681534526,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88048,
+        "num": 105923,
+        "word": "尹子维车保罗合体拍封面",
+        "onboard_time": 1681549348,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 83237,
+        "num": 105901,
+        "word": "恋与深空内测",
+        "onboard_time": 1681538127,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82741,
+        "num": 105896,
+        "word": "摆完盘瞬间变贵了",
+        "onboard_time": 1681538006,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79992,
+        "num": 105876,
+        "word": "Ruler金克丝起飞",
+        "onboard_time": 1681550787,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78721,
+        "num": 105864,
+        "word": "歪哥 蒲熠星",
+        "onboard_time": 1681520966,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75831,
+        "num": 105858,
+        "word": "网友环球影城偶遇何洛洛",
+        "onboard_time": 1681543406,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71198,
+        "num": 105842,
+        "word": "腾讯视频待播剧招商看点",
+        "onboard_time": 1681537347,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家安全教育日#"
+    }
+  }
+}
