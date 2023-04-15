@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681557201982,
+  "endTime": 1681558408512,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -2347,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 676340,
+      "num": 317408,
+      "word": "张雨绮好辣",
+      "onboard_time": 1681555165,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 675922,
       "num": 675922,
       "word": "篮协要求调查上海江苏季后赛",
@@ -3659,14 +3667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 511362,
-      "num": 303596,
-      "word": "张雨绮好辣",
-      "onboard_time": 1681555165,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 511168,
       "num": 425115,
       "word": "高校图书馆非事业编岗位百人竞争",
@@ -4497,6 +4497,14 @@
       "onboard_time": 1681305088,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 423662,
+      "num": 315821,
+      "word": "网友质疑长月烬明抄袭仙剑三",
+      "onboard_time": 1681557865,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 423264,
@@ -5897,6 +5905,14 @@
       "onboard_time": 1681269807,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 328532,
+      "num": 205707,
+      "word": "如果我是马克龙 我还想来",
+      "onboard_time": 1681556306,
+      "rank": 30,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 328386,
@@ -7371,6 +7387,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 251454,
+      "num": 251454,
+      "word": "舒淇曾黎同场活动",
+      "onboard_time": 1681556065,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251408,
       "num": 251408,
       "word": "无锡着火",
@@ -8699,6 +8723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211111,
+      "num": 211111,
+      "word": "龙城",
+      "onboard_time": 1681099410,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211067,
       "num": 211067,
       "word": "陈晓十六问高加林",
@@ -9657,14 +9689,6 @@
       "onboard_time": 1681385310,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200359,
-      "num": 205753,
-      "word": "舒淇曾黎同场活动",
-      "onboard_time": 1681556065,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 200353,
@@ -10787,14 +10811,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188348,
-      "num": 188348,
-      "word": "龙城",
-      "onboard_time": 1681099410,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 188341,
       "num": 188341,
       "word": "粉丝靠鞋认出鹿晗",
@@ -10969,14 +10985,6 @@
       "onboard_time": 1681529003,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186728,
-      "num": 205707,
-      "word": "如果我是马克龙 我还想来",
-      "onboard_time": 1681556306,
-      "rank": 30,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 186713,
@@ -11233,6 +11241,14 @@
       "onboard_time": 1681259730,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183469,
+      "num": 205557,
+      "word": "五一酒店",
+      "onboard_time": 1681557025,
+      "rank": 47,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 183375,
@@ -11529,6 +11545,14 @@
       "onboard_time": 1681462349,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177302,
+      "num": 177302,
+      "word": "青春环游记",
+      "onboard_time": 1681557805,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 176660,
@@ -11995,6 +12019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168198,
+      "num": 205644,
+      "word": "你好星期六",
+      "onboard_time": 1681556907,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168109,
       "num": 195970,
       "word": "你们公司是不招双眼皮吗",
@@ -12011,12 +12043,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167916,
+      "num": 205700,
+      "word": "东玄",
+      "onboard_time": 1681557086,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167615,
       "num": 167615,
       "word": "大象吃香蕉总共分几步",
       "onboard_time": 1681289608,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167475,
+      "num": 167475,
+      "word": "尹正金丝眼镜",
+      "onboard_time": 1681557984,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 167444,
@@ -12337,14 +12385,6 @@
       "onboard_time": 1681082540,
       "rank": 26,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 161855,
-      "num": 205700,
-      "word": "东玄",
-      "onboard_time": 1681557086,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 161663,
@@ -13097,6 +13137,14 @@
       "onboard_time": 1681436185,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146093,
+      "num": 146093,
+      "word": "五月天演唱会求婚现场",
+      "onboard_time": 1681557566,
+      "rank": 38,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 145842,
@@ -13955,6 +14003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125031,
+      "num": 145767,
+      "word": "周觅solo舞台",
+      "onboard_time": 1681558166,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124303,
       "num": 219595,
       "word": "金智秀音中一位",
@@ -14041,14 +14097,6 @@
       "onboard_time": 1681465588,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 122452,
-      "num": 205644,
-      "word": "你好星期六",
-      "onboard_time": 1681556907,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 122379,
@@ -14971,14 +15019,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 85322,
-      "num": 205557,
-      "word": "五一酒店",
-      "onboard_time": 1681557025,
-      "rank": 47,
-      "category": "情感,旅游"
-    },
-    {
       "raw_hot": 84662,
       "num": 153332,
       "word": "东北雪糕四大天王",
@@ -15379,6 +15419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33305,
+      "num": 535283,
+      "word": "达赖舌吻男童有多恶心",
+      "onboard_time": 1681558224,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31910,
       "num": 293489,
       "word": "V影响力峰会",
@@ -15555,6 +15603,9 @@
     },
     {
       "word": "#国家安全教育日#"
+    },
+    {
+      "word": "#以新安全格局保障新发展格局#"
     }
   ]
 }
