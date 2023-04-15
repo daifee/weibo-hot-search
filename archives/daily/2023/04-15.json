@@ -1,7 +1,15 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681523187282,
+  "endTime": 1681525998794,
   "band_list": [
+    {
+      "raw_hot": 2437180,
+      "num": 317330,
+      "word": "护士被扎20针",
+      "onboard_time": 1681524146,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1959237,
       "num": 1959237,
@@ -25,6 +33,14 @@
       "onboard_time": 1681515441,
       "rank": 1,
       "category": "情感,科技"
+    },
+    {
+      "raw_hot": 1580151,
+      "num": 1580151,
+      "word": "吴尊友称新冠已经趋于结束",
+      "onboard_time": 1681521744,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1316149,
@@ -107,14 +123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 671829,
-      "num": 671829,
-      "word": "吴尊友称新冠已经趋于结束",
-      "onboard_time": 1681521744,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 562298,
       "num": 562298,
       "word": "陈都灵演技",
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438093,
+      "num": 438093,
+      "word": "奔跑吧下周是城市追击战",
+      "onboard_time": 1681519405,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412733,
       "num": 412733,
       "word": "忽然发现家里有点钱",
@@ -187,6 +203,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380285,
+      "num": 380285,
+      "word": "抗癌共享厨房申请公益账户不符要求",
+      "onboard_time": 1681522165,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379392,
+      "num": 309124,
+      "word": "贵州倪青青",
+      "onboard_time": 1681524203,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361547,
       "num": 361547,
       "word": "安徽亳州失联爷孙遗体已找到",
@@ -195,20 +227,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353158,
-      "num": 353158,
-      "word": "奔跑吧下周是城市追击战",
-      "onboard_time": 1681519405,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 326810,
       "num": 326810,
       "word": "柯南 处处吻",
       "onboard_time": 1681472425,
       "rank": 15,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 308826,
+      "num": 308826,
+      "word": "淄博酒店",
+      "onboard_time": 1681521023,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 302470,
+      "num": 302470,
+      "word": "招惹唯一吻戏",
+      "onboard_time": 1681524384,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 292959,
@@ -339,14 +379,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 204506,
-      "num": 204506,
-      "word": "抗癌共享厨房申请公益账户不符要求",
-      "onboard_time": 1681522165,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202429,
       "num": 202429,
       "word": "就差手把手教女生们怎么选男人",
@@ -411,8 +443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180912,
-      "num": 180912,
+      "raw_hot": 182469,
+      "num": 182469,
       "word": "PDD歌友会",
       "onboard_time": 1681521864,
       "rank": 26,
@@ -441,14 +473,6 @@
       "onboard_time": 1681513939,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 166411,
-      "num": 166411,
-      "word": "淄博酒店",
-      "onboard_time": 1681521023,
-      "rank": 36,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 166208,
@@ -489,6 +513,22 @@
       "onboard_time": 1681462769,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 154026,
+      "num": 154026,
+      "word": "汪苏泷一笑倾城开口秒回校园",
+      "onboard_time": 1681522703,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145983,
+      "num": 145983,
+      "word": "贵阳曾杨",
+      "onboard_time": 1681524446,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140727,
@@ -539,20 +579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112018,
+      "num": 112018,
+      "word": "我想和你唱",
+      "onboard_time": 1681521386,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109903,
       "num": 109903,
       "word": "樊振东比赛",
       "onboard_time": 1681481188,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105674,
-      "num": 105674,
-      "word": "汪苏泷一笑倾城开口秒回校园",
-      "onboard_time": 1681522703,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 103059,
@@ -603,6 +643,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 96742,
+      "num": 96742,
+      "word": "热火逆转战胜公牛",
+      "onboard_time": 1681525944,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93387,
       "num": 109779,
       "word": "如果长月烬明没有神魔大战",
@@ -617,14 +665,6 @@
       "onboard_time": 1681479568,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 92811,
-      "num": 92811,
-      "word": "我想和你唱",
-      "onboard_time": 1681521386,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 90678,
@@ -659,12 +699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84839,
+      "num": 84839,
+      "word": "广交会",
+      "onboard_time": 1681525405,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82272,
       "num": 109678,
       "word": "南京红山动物园否认网红猴被霸凌",
       "onboard_time": 1681480469,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79580,
+      "num": 79580,
+      "word": "CBA对上海队与江苏队比赛展开调查",
+      "onboard_time": 1681525885,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 75962,

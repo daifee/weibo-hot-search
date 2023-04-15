@@ -1,0 +1,410 @@
+{
+  "runTime": 1681525998794,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1580151,
+        "num": 1580151,
+        "word": "吴尊友称新冠已经趋于结束",
+        "onboard_time": 1681521744,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1578280,
+        "num": 1578280,
+        "word": "女儿成绩不好 帮我写一封信给她",
+        "onboard_time": 1681515441,
+        "rank": 1,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 20694,
+        "num": 910209,
+        "word": "中国昆明与老挝万象的双向奔赴",
+        "onboard_time": 1681471346,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523916,
+        "num": 523916,
+        "word": "泫雅泰国泼水节 舞台上的野马",
+        "onboard_time": 1681478366,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 471637,
+        "num": 471637,
+        "word": "生源都不足了还要高价抢学区房吗",
+        "onboard_time": 1681503313,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 461478,
+        "num": 461478,
+        "word": "淄博文旅局长",
+        "onboard_time": 1681485328,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 438093,
+        "num": 438093,
+        "word": "奔跑吧下周是城市追击战",
+        "onboard_time": 1681519405,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380285,
+        "num": 380285,
+        "word": "抗癌共享厨房申请公益账户不符要求",
+        "onboard_time": 1681522165,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332563,
+        "num": 332563,
+        "word": "篮协要求调查上海江苏季后赛",
+        "onboard_time": 1681513819,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320011,
+        "num": 320011,
+        "word": "五一火车票",
+        "onboard_time": 1681518865,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2437180,
+        "num": 317330,
+        "word": "护士被扎20针",
+        "onboard_time": 1681524146,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010188,
+        "num": 316091,
+        "word": "歪哥 蒲熠星",
+        "onboard_time": 1681520966,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414795,
+        "num": 313675,
+        "word": "许超医生 麻烦网红不要去碰瓷医院",
+        "onboard_time": 1681479869,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 379392,
+        "num": 309124,
+        "word": "贵州倪青青",
+        "onboard_time": 1681524203,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308826,
+        "num": 308826,
+        "word": "淄博酒店",
+        "onboard_time": 1681521023,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 302470,
+        "num": 302470,
+        "word": "招惹唯一吻戏",
+        "onboard_time": 1681524384,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260854,
+        "num": 260854,
+        "word": "微信回应工信部最新要求",
+        "onboard_time": 1681517605,
+        "rank": 16,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 224818,
+        "num": 224818,
+        "word": "哪种旅游打卡照可能泄露国家秘密",
+        "onboard_time": 1681516822,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 221721,
+        "num": 221721,
+        "word": "建议微信出个头像屏蔽功能",
+        "onboard_time": 1681481010,
+        "rank": 18,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 211989,
+        "num": 211989,
+        "word": "刘恋 薛凯琪",
+        "onboard_time": 1681477826,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 477225,
+        "num": 208629,
+        "word": "试管生下龙凤胎父女间竟无血缘关系",
+        "onboard_time": 1681516463,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193394,
+        "num": 193394,
+        "word": "传说中杨紫的朋友圈",
+        "onboard_time": 1681465111,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182469,
+        "num": 182469,
+        "word": "PDD歌友会",
+        "onboard_time": 1681521864,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177940,
+        "num": 177940,
+        "word": "癌症早期症状有哪些",
+        "onboard_time": 1681517422,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175351,
+        "num": 175351,
+        "word": "淄博音乐节",
+        "onboard_time": 1681520244,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173297,
+        "num": 173297,
+        "word": "姐弟恋是怎么突然盛行起来的",
+        "onboard_time": 1681491322,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170898,
+        "num": 170898,
+        "word": "王者新赛季",
+        "onboard_time": 1681518865,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163493,
+        "num": 163493,
+        "word": "姚明",
+        "onboard_time": 1681487786,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162554,
+        "num": 162554,
+        "word": "女子被质疑有房炫富还能申请到公租房",
+        "onboard_time": 1681504752,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 157878,
+        "num": 157878,
+        "word": "上海江苏球迷大喊退票",
+        "onboard_time": 1681518323,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154026,
+        "num": 154026,
+        "word": "汪苏泷一笑倾城开口秒回校园",
+        "onboard_time": 1681522703,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149307,
+        "num": 149307,
+        "word": "医院回应护士上班戴美甲给患者扎针",
+        "onboard_time": 1681479089,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145983,
+        "num": 145983,
+        "word": "贵阳曾杨",
+        "onboard_time": 1681524446,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144635,
+        "num": 144635,
+        "word": "更适合中国宝宝的医美",
+        "onboard_time": 1681513939,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142381,
+        "num": 142381,
+        "word": "模范出租车2",
+        "onboard_time": 1681516404,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139681,
+        "num": 139681,
+        "word": "假球",
+        "onboard_time": 1681479568,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127174,
+        "num": 127174,
+        "word": "陈都灵演技",
+        "onboard_time": 1681483771,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117626,
+        "num": 117626,
+        "word": "When you come around",
+        "onboard_time": 1681515321,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112018,
+        "num": 112018,
+        "word": "我想和你唱",
+        "onboard_time": 1681521386,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111072,
+        "num": 111072,
+        "word": "冥夜是蛟龙不是恐龙",
+        "onboard_time": 1681504332,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107797,
+        "num": 107797,
+        "word": "宁波高速奥迪掉落砸中百万宝马",
+        "onboard_time": 1681493539,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106295,
+        "num": 106295,
+        "word": "五哈 小婉",
+        "onboard_time": 1681481851,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105819,
+        "num": 105819,
+        "word": "幼升小offer",
+        "onboard_time": 1681514598,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101523,
+        "num": 101523,
+        "word": "忽然发现家里有点钱",
+        "onboard_time": 1681478966,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97091,
+        "num": 97091,
+        "word": "工信部听取329微信业务异常汇报",
+        "onboard_time": 1681518564,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 96742,
+        "num": 96742,
+        "word": "热火逆转战胜公牛",
+        "onboard_time": 1681525944,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90108,
+        "num": 90108,
+        "word": "就差手把手教女生们怎么选男人",
+        "onboard_time": 1681479509,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 84839,
+        "num": 84839,
+        "word": "广交会",
+        "onboard_time": 1681525405,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79580,
+        "num": 79580,
+        "word": "CBA对上海队与江苏队比赛展开调查",
+        "onboard_time": 1681525885,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78436,
+        "num": 78436,
+        "word": "西施音乐节",
+        "onboard_time": 1681519884,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化有目标有规划有战略#"
+    }
+  }
+}
