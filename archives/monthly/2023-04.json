@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681525998794,
+  "endTime": 1681526538686,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1483,6 +1483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1736788,
+      "num": 1736788,
+      "word": "吴尊友称新冠已经趋于结束",
+      "onboard_time": 1681521744,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1735807,
       "num": 1566169,
       "word": "大量张继科周边被粉丝甩卖",
@@ -1721,14 +1729,6 @@
       "onboard_time": 1680610229,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1580151,
-      "num": 1580151,
-      "word": "吴尊友称新冠已经趋于结束",
-      "onboard_time": 1681521744,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1577630,
@@ -9891,6 +9891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 448845,
+      "num": 448845,
+      "word": "奔跑吧下周是城市追击战",
+      "onboard_time": 1681519405,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448752,
       "num": 448752,
       "word": "忠犬八公",
@@ -10081,14 +10089,6 @@
       "onboard_time": 1680480750,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438093,
-      "num": 438093,
-      "word": "奔跑吧下周是城市追击战",
-      "onboard_time": 1681519405,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 437380,
@@ -10409,6 +10409,14 @@
       "onboard_time": 1680968967,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 423906,
+      "num": 309124,
+      "word": "贵州倪青青",
+      "onboard_time": 1681524203,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423890,
@@ -10945,6 +10953,14 @@
       "onboard_time": 1680952287,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 408717,
+      "num": 408717,
+      "word": "抗癌共享厨房申请公益账户不符要求",
+      "onboard_time": 1681522165,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408701,
@@ -11835,14 +11851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 380285,
-      "num": 380285,
-      "word": "抗癌共享厨房申请公益账户不符要求",
-      "onboard_time": 1681522165,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380271,
       "num": 376622,
       "word": "今天开播三部新剧",
@@ -11856,14 +11864,6 @@
       "word": "孙海洋称人贩子吴飞龙案将开庭",
       "onboard_time": 1680396986,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379392,
-      "num": 309124,
-      "word": "贵州倪青青",
-      "onboard_time": 1681524203,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -13923,6 +13923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316505,
+      "num": 316505,
+      "word": "招惹唯一吻戏",
+      "onboard_time": 1681524384,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316428,
       "num": 242597,
       "word": "芭乐椰椰爽",
@@ -14472,14 +14480,6 @@
       "word": "小狐狸勾叶夕雾下巴",
       "onboard_time": 1680959610,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 302470,
-      "num": 302470,
-      "word": "招惹唯一吻戏",
-      "onboard_time": 1681524384,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -26451,6 +26451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176865,
+      "num": 176865,
+      "word": "贵阳曾杨",
+      "onboard_time": 1681524446,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176660,
       "num": 176660,
       "word": "侯明昊找个球场装修篇vlog",
@@ -28643,6 +28651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156305,
+      "num": 156305,
+      "word": "汪苏泷一笑倾城开口秒回校园",
+      "onboard_time": 1681522703,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156289,
       "num": 156289,
       "word": "竹筒奶茶是怎么火起来的",
@@ -28953,14 +28969,6 @@
       "onboard_time": 1680861688,
       "rank": 45,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 154026,
-      "num": 154026,
-      "word": "汪苏泷一笑倾城开口秒回校园",
-      "onboard_time": 1681522703,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 153956,
@@ -29819,14 +29827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145983,
-      "num": 145983,
-      "word": "贵阳曾杨",
-      "onboard_time": 1681524446,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145842,
       "num": 145842,
       "word": "如何有效打击乡村赌博",
@@ -30635,6 +30635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137592,
+      "num": 137592,
+      "word": "热火逆转战胜公牛",
+      "onboard_time": 1681525944,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137432,
       "num": 163661,
       "word": "AG对战TES",
@@ -31209,6 +31217,14 @@
       "onboard_time": 1680425969,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131167,
+      "num": 131167,
+      "word": "CBA对上海队与江苏队比赛展开调查",
+      "onboard_time": 1681525885,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130995,
@@ -33587,14 +33603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96742,
-      "num": 96742,
-      "word": "热火逆转战胜公牛",
-      "onboard_time": 1681525944,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96311,
       "num": 96311,
       "word": "白敬亭的翻包好物",
@@ -33737,6 +33745,14 @@
       "onboard_time": 1680342270,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92810,
+      "num": 92810,
+      "word": "广交会",
+      "onboard_time": 1681525405,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 92804,
@@ -34027,14 +34043,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 84839,
-      "num": 84839,
-      "word": "广交会",
-      "onboard_time": 1681525405,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 84717,
       "num": 1870534,
       "word": "让春风带去我们的思念",
@@ -34121,14 +34129,6 @@
       "onboard_time": 1680275010,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79580,
-      "num": 79580,
-      "word": "CBA对上海队与江苏队比赛展开调查",
-      "onboard_time": 1681525885,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 79460,
