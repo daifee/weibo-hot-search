@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681551205493,
+  "endTime": 1681553825028,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -1243,6 +1243,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1045681,
+      "num": 390014,
+      "word": "丫丫",
+      "onboard_time": 1681550847,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1000886,
       "num": 1000886,
       "word": "肌肤饥渴症",
@@ -1265,6 +1273,14 @@
       "onboard_time": 1681473386,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 995168,
+      "num": 995168,
+      "word": "张艺谋去看LPL决赛了",
+      "onboard_time": 1681551265,
+      "rank": 0,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 991924,
@@ -1387,6 +1403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 945836,
+      "num": 385881,
+      "word": "周星驰说喜欢Lisa",
+      "onboard_time": 1681549946,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 945277,
       "num": 945277,
       "word": "Viper",
@@ -1481,6 +1505,14 @@
       "onboard_time": 1681124546,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 903680,
+      "num": 903680,
+      "word": "周总理在西双版纳欢度泼水节画面",
+      "onboard_time": 1681549765,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 901498,
@@ -1593,14 +1625,6 @@
       "onboard_time": 1681546586,
       "rank": 6,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 869834,
-      "num": 385881,
-      "word": "周星驰说喜欢Lisa",
-      "onboard_time": 1681549946,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 867570,
@@ -2209,6 +2233,14 @@
       "onboard_time": 1681204349,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 690737,
+      "num": 690737,
+      "word": "龙马精神剧组辟谣退票事件",
+      "onboard_time": 1681553304,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 690529,
@@ -3241,6 +3273,14 @@
       "onboard_time": 1681101273,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 549399,
+      "num": 549399,
+      "word": "张韶涵 永远的公主小妹",
+      "onboard_time": 1681551807,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 549184,
@@ -5227,6 +5267,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 369765,
+      "num": 207244,
+      "word": "网红店芋包王后厨被爆触目惊心",
+      "onboard_time": 1681552586,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 368712,
       "num": 303242,
       "word": "初稿交了导师让我换个选题",
@@ -6259,6 +6307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301458,
+      "num": 301458,
+      "word": "JDG对战BLG",
+      "onboard_time": 1681539926,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301409,
       "num": 301409,
       "word": "巴西总统将访华",
@@ -6388,7 +6444,7 @@
     },
     {
       "raw_hot": 295183,
-      "num": 294826,
+      "num": 663822,
       "word": "男孩背患脑瘫同学10年从小学到高三",
       "onboard_time": 1681536867,
       "rank": 15,
@@ -6681,6 +6737,14 @@
       "onboard_time": 1681388310,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282535,
+      "num": 282535,
+      "word": "北京国安",
+      "onboard_time": 1681550847,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 282076,
@@ -7819,6 +7883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232207,
+      "num": 232207,
+      "word": "柳智敏金卷发",
+      "onboard_time": 1681552825,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231867,
       "num": 1056329,
       "word": "中国科学家研讨在月球上盖房子",
@@ -8081,6 +8153,14 @@
       "onboard_time": 1681106667,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224727,
+      "num": 224727,
+      "word": "无锡一中学学生春游划船侧翻有人伤亡",
+      "onboard_time": 1681553367,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223854,
@@ -9419,6 +9499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201405,
+      "num": 207530,
+      "word": "JDG拿到赛点",
+      "onboard_time": 1681553367,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201365,
       "num": 201365,
       "word": "谭松韵海洋馆随拍",
@@ -9843,14 +9931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197372,
-      "num": 197372,
-      "word": "周总理在西双版纳欢度泼水节画面",
-      "onboard_time": 1681549765,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197321,
       "num": 197321,
       "word": "2023LPL春季赛季后赛",
@@ -9864,6 +9944,14 @@
       "word": "看爱情而已大结局belike",
       "onboard_time": 1681302808,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197304,
+      "num": 207451,
+      "word": "王一博金靖长空之王花絮",
+      "onboard_time": 1681553304,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -10339,14 +10427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192378,
-      "num": 220264,
-      "word": "JDG对战BLG",
-      "onboard_time": 1681539926,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192308,
       "num": 192308,
       "word": "eStar对战WB",
@@ -10420,7 +10500,7 @@
     },
     {
       "raw_hot": 191684,
-      "num": 191684,
+      "num": 206524,
       "word": "朱正廷水下吻戏",
       "onboard_time": 1681547965,
       "rank": 24,
@@ -10939,6 +11019,14 @@
       "category": "社会议题,情感"
     },
     {
+      "raw_hot": 185860,
+      "num": 207314,
+      "word": "爱很美味治愈",
+      "onboard_time": 1681552825,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185794,
       "num": 185794,
       "word": "女明星古装撑伞盘点",
@@ -11204,7 +11292,7 @@
     },
     {
       "raw_hot": 181359,
-      "num": 181359,
+      "num": 206860,
       "word": "陶白白签名",
       "onboard_time": 1681549526,
       "rank": 31,
@@ -11484,7 +11572,7 @@
     },
     {
       "raw_hot": 174663,
-      "num": 174663,
+      "num": 206051,
       "word": "IVE舞台",
       "onboard_time": 1681547607,
       "rank": 32,
@@ -12273,6 +12361,14 @@
       "onboard_time": 1681383690,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160260,
+      "num": 1013659,
+      "word": "我们的动车有多酷",
+      "onboard_time": 1681549887,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159666,
@@ -13275,14 +13371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139957,
-      "num": 139957,
-      "word": "北京国安",
-      "onboard_time": 1681550847,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139827,
       "num": 139827,
       "word": "一诺狄仁杰三连决胜",
@@ -13457,6 +13545,14 @@
       "onboard_time": 1681479689,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132958,
+      "num": 206756,
+      "word": "刘昊然现身灌篮高手首映",
+      "onboard_time": 1681553546,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 132556,
@@ -13835,6 +13931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123419,
+      "num": 206735,
+      "word": "韩国 满汉全席",
+      "onboard_time": 1681553486,
+      "rank": 37,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 122951,
       "num": 122951,
       "word": "电竞百灵鸟一诺再上线",
@@ -13905,14 +14009,6 @@
       "onboard_time": 1681398692,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 121147,
-      "num": 1013659,
-      "word": "我们的动车有多酷",
-      "onboard_time": 1681549887,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121057,
@@ -14192,14 +14288,6 @@
       "word": "沙尘来袭时如何防护",
       "onboard_time": 1681175846,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112262,
-      "num": 112262,
-      "word": "丫丫",
-      "onboard_time": 1681550847,
-      "rank": 38,
       "category": "社会新闻"
     },
     {

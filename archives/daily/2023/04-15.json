@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681551205493,
+  "endTime": 1681553825028,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -131,6 +131,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1045681,
+      "num": 390014,
+      "word": "丫丫",
+      "onboard_time": 1681550847,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 995168,
+      "num": 995168,
+      "word": "张艺谋去看LPL决赛了",
+      "onboard_time": 1681551265,
+      "rank": 0,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 977198,
       "num": 977198,
       "word": "刘恋 薛凯琪",
@@ -147,12 +163,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 945836,
+      "num": 385881,
+      "word": "周星驰说喜欢Lisa",
+      "onboard_time": 1681549946,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 923137,
       "num": 399539,
       "word": "许超医生 麻烦网红不要去碰瓷医院",
       "onboard_time": 1681479869,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 903680,
+      "num": 903680,
+      "word": "周总理在西双版纳欢度泼水节画面",
+      "onboard_time": 1681549765,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 896384,
@@ -169,14 +201,6 @@
       "onboard_time": 1681546586,
       "rank": 6,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 869834,
-      "num": 385881,
-      "word": "周星驰说喜欢Lisa",
-      "onboard_time": 1681549946,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 837397,
@@ -209,6 +233,14 @@
       "onboard_time": 1681516463,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690737,
+      "num": 690737,
+      "word": "龙马精神剧组辟谣退票事件",
+      "onboard_time": 1681553304,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 679411,
@@ -281,6 +313,14 @@
       "onboard_time": 1681532786,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549399,
+      "num": 549399,
+      "word": "张韶涵 永远的公主小妹",
+      "onboard_time": 1681551807,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 548865,
@@ -475,6 +515,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 369765,
+      "num": 207244,
+      "word": "网红店芋包王后厨被爆触目惊心",
+      "onboard_time": 1681552586,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 361547,
       "num": 361547,
       "word": "安徽亳州失联爷孙遗体已找到",
@@ -563,8 +611,16 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 301458,
+      "num": 301458,
+      "word": "JDG对战BLG",
+      "onboard_time": 1681539926,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295183,
-      "num": 294826,
+      "num": 663822,
       "word": "男孩背患脑瘫同学10年从小学到高三",
       "onboard_time": 1681536867,
       "rank": 15,
@@ -609,6 +665,14 @@
       "onboard_time": 1681463911,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282535,
+      "num": 282535,
+      "word": "北京国安",
+      "onboard_time": 1681550847,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 276962,
@@ -755,12 +819,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232207,
+      "num": 232207,
+      "word": "柳智敏金卷发",
+      "onboard_time": 1681552825,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 228360,
       "num": 228360,
       "word": "李昀锐董洁新剧演母子",
       "onboard_time": 1681531344,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224727,
+      "num": 224727,
+      "word": "无锡一中学学生春游划船侧翻有人伤亡",
+      "onboard_time": 1681553367,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223854,
@@ -867,6 +947,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 201405,
+      "num": 207530,
+      "word": "JDG拿到赛点",
+      "onboard_time": 1681553367,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197445,
       "num": 187287,
       "word": "任嘉伦学粤语",
@@ -883,12 +971,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197372,
-      "num": 197372,
-      "word": "周总理在西双版纳欢度泼水节画面",
-      "onboard_time": 1681549765,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 197304,
+      "num": 207451,
+      "word": "王一博金靖长空之王花絮",
+      "onboard_time": 1681553304,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 197263,
@@ -963,14 +1051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192378,
-      "num": 220264,
-      "word": "JDG对战BLG",
-      "onboard_time": 1681539926,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192289,
       "num": 192289,
       "word": "工信部听取329微信业务异常汇报",
@@ -980,7 +1060,7 @@
     },
     {
       "raw_hot": 191684,
-      "num": 191684,
+      "num": 206524,
       "word": "朱正廷水下吻戏",
       "onboard_time": 1681547965,
       "rank": 24,
@@ -1067,6 +1147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 185860,
+      "num": 207314,
+      "word": "爱很美味治愈",
+      "onboard_time": 1681552825,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182998,
       "num": 220237,
       "word": "网友环球影城偶遇何洛洛",
@@ -1092,7 +1180,7 @@
     },
     {
       "raw_hot": 181359,
-      "num": 181359,
+      "num": 206860,
       "word": "陶白白签名",
       "onboard_time": 1681549526,
       "rank": 31,
@@ -1124,7 +1212,7 @@
     },
     {
       "raw_hot": 174663,
-      "num": 174663,
+      "num": 206051,
       "word": "IVE舞台",
       "onboard_time": 1681547607,
       "rank": 32,
@@ -1235,6 +1323,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 160260,
+      "num": 1013659,
+      "word": "我们的动车有多酷",
+      "onboard_time": 1681549887,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158620,
       "num": 158620,
       "word": "显微镜下的流浪地球2",
@@ -1331,14 +1427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 139957,
-      "num": 139957,
-      "word": "北京国安",
-      "onboard_time": 1681550847,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137592,
       "num": 137592,
       "word": "热火逆转战胜公牛",
@@ -1353,6 +1441,14 @@
       "onboard_time": 1681538006,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132958,
+      "num": 206756,
+      "word": "刘昊然现身灌篮高手首映",
+      "onboard_time": 1681553546,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 131532,
@@ -1427,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123419,
+      "num": 206735,
+      "word": "韩国 满汉全席",
+      "onboard_time": 1681553486,
+      "rank": 37,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 122236,
       "num": 122236,
       "word": "我想和你唱",
@@ -1441,14 +1545,6 @@
       "onboard_time": 1681480228,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121147,
-      "num": 1013659,
-      "word": "我们的动车有多酷",
-      "onboard_time": 1681549887,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119754,
@@ -1481,14 +1577,6 @@
       "onboard_time": 1681530506,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112262,
-      "num": 112262,
-      "word": "丫丫",
-      "onboard_time": 1681550847,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111786,
@@ -1777,6 +1865,14 @@
       "onboard_time": 1681478909,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 13330,
+      "num": 552043,
+      "word": "28岁妈妈离世捐器官帮更多家庭团圆",
+      "onboard_time": 1681466485,
+      "rank": 6,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
