@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681561844968,
+  "endTime": 1681562802116,
   "band_list": [
     {
       "raw_hot": 3118270,
@@ -19,20 +19,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2853968,
+      "num": 838944,
+      "word": "达赖舌吻男童有多恶心",
+      "onboard_time": 1681558224,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2810484,
       "num": 2810484,
       "word": "成龙被观众当场要求退票",
       "onboard_time": 1681534526,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2805611,
-      "num": 838944,
-      "word": "达赖舌吻男童有多恶心",
-      "onboard_time": 1681558224,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2505042,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1468061,
+      "num": 1468061,
+      "word": "网友质疑长月烬明抄袭仙剑三",
+      "onboard_time": 1681557865,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1421691,
       "num": 1421691,
       "word": "薛之谦唱到一半被伴舞撞飞了",
@@ -105,14 +113,6 @@
       "onboard_time": 1681536989,
       "rank": 5,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1345094,
-      "num": 1345094,
-      "word": "网友质疑长月烬明抄袭仙剑三",
-      "onboard_time": 1681557865,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 1316149,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1001493,
+      "num": 1001493,
+      "word": "成龙退票事件完整视频",
+      "onboard_time": 1681558467,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 995168,
       "num": 995168,
       "word": "张艺谋去看LPL决赛了",
@@ -235,14 +243,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 891655,
-      "num": 891655,
-      "word": "成龙退票事件完整视频",
-      "onboard_time": 1681558467,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 876416,
       "num": 876416,
       "word": "张靓颖开场",
@@ -275,6 +275,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 742486,
+      "num": 742486,
+      "word": "郑秀妍开北京首店",
+      "onboard_time": 1681559186,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 721551,
       "num": 253038,
       "word": "试管生下龙凤胎父女间竟无血缘关系",
@@ -289,14 +297,6 @@
       "onboard_time": 1681553304,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 682600,
-      "num": 682600,
-      "word": "郑秀妍开北京首店",
-      "onboard_time": 1681559186,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 679411,
@@ -369,6 +369,14 @@
       "onboard_time": 1681524203,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577912,
+      "num": 577912,
+      "word": "樊振东获男单冠军",
+      "onboard_time": 1681562248,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 562298,
@@ -467,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458352,
+      "num": 231125,
+      "word": "达赖",
+      "onboard_time": 1681561407,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456325,
       "num": 456325,
       "word": "现在就去法国排队",
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414513,
+      "num": 414513,
+      "word": "樊振东vs梁靖崑",
+      "onboard_time": 1681561109,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412733,
       "num": 412733,
       "word": "忽然发现家里有点钱",
@@ -531,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404513,
-      "num": 404513,
-      "word": "樊振东vs梁靖崑",
-      "onboard_time": 1681561109,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 402112,
+      "num": 402112,
+      "word": "女生淄博丢包获陌生人留条帮保管",
+      "onboard_time": 1681558526,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390595,
@@ -627,16 +651,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 352169,
-      "num": 352169,
-      "word": "女生淄博丢包获陌生人留条帮保管",
-      "onboard_time": 1681558526,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351936,
-      "num": 331376,
+      "num": 345006,
       "word": "马嘉祺你怎么这样",
       "onboard_time": 1681559067,
       "rank": 15,
@@ -811,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264679,
+      "num": 264679,
+      "word": "张杰未live巡回演唱会",
+      "onboard_time": 1681549045,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 264199,
       "num": 264199,
       "word": "五一酒店",
@@ -857,14 +881,6 @@
       "onboard_time": 1681472367,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256228,
-      "num": 256228,
-      "word": "张杰未live巡回演唱会",
-      "onboard_time": 1681549045,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 254205,
@@ -955,6 +971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239137,
+      "num": 239137,
+      "word": "为什么现在姐弟恋越来越多",
+      "onboard_time": 1681560329,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238211,
       "num": 238211,
       "word": "向佐或将出演垂涎",
@@ -963,12 +987,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 237473,
+      "num": 237473,
+      "word": "网红店芋包王后厨被曝触目惊心",
+      "onboard_time": 1681552586,
+      "rank": 22,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 231498,
+      "num": 231498,
+      "word": "BLG实力差距",
+      "onboard_time": 1681561286,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228360,
       "num": 228360,
       "word": "李昀锐董洁新剧演母子",
       "onboard_time": 1681531344,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 227835,
+      "num": 227835,
+      "word": "青春环游记",
+      "onboard_time": 1681557805,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 223854,
@@ -1011,14 +1059,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216557,
-      "num": 216557,
-      "word": "为什么现在姐弟恋越来越多",
-      "onboard_time": 1681560329,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212432,
       "num": 212432,
       "word": "为什么广东胖子少",
@@ -1035,20 +1075,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210998,
-      "num": 210998,
-      "word": "达赖",
-      "onboard_time": 1681561407,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210433,
       "num": 210433,
       "word": "龙马精神",
       "onboard_time": 1681536447,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209052,
+      "num": 209052,
+      "word": "MSI",
+      "onboard_time": 1681562007,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 207157,
@@ -1083,8 +1123,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 204151,
-      "num": 204151,
+      "raw_hot": 204582,
+      "num": 204582,
       "word": "尔冬升邀请张大大参加金像奖",
       "onboard_time": 1681560508,
       "rank": 27,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1681554087,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200667,
+      "num": 200667,
+      "word": "草莓音乐节",
+      "onboard_time": 1681560448,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 198505,
@@ -1187,14 +1235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196366,
-      "num": 196366,
-      "word": "草莓音乐节",
-      "onboard_time": 1681560448,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 195352,
       "num": 195352,
       "word": "龙城今日开播",
@@ -1224,6 +1264,14 @@
       "word": "雪允唱mrchu",
       "onboard_time": 1681542026,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 193436,
+      "num": 193436,
+      "word": "柳智敏神似爱丽丝",
+      "onboard_time": 1681561468,
+      "rank": 38,
       "category": "音乐"
     },
     {
@@ -1331,14 +1379,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 186645,
-      "num": 186645,
-      "word": "青春环游记",
-      "onboard_time": 1681557805,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186183,
       "num": 186183,
       "word": "尹子维车保罗合体拍封面",
@@ -1395,6 +1435,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 178195,
+      "num": 178195,
+      "word": "五月天演唱会求婚现场",
+      "onboard_time": 1681557566,
+      "rank": 38,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 175654,
       "num": 175654,
       "word": "张远说稍微想起一些余味不止当天",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1681547607,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172826,
-      "num": 172826,
-      "word": "五月天演唱会求婚现场",
-      "onboard_time": 1681557566,
-      "rank": 38,
-      "category": "音乐,幽默"
     },
     {
       "raw_hot": 172358,
@@ -1523,14 +1563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 162261,
-      "num": 162261,
-      "word": "BLG实力差距",
-      "onboard_time": 1681561286,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 162214,
       "num": 162214,
       "word": "中国成功实施陆基中段反导拦截技术试验",
@@ -1553,6 +1585,14 @@
       "onboard_time": 1681516404,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161215,
+      "num": 161215,
+      "word": "梁靖崑4比2林昀儒",
+      "onboard_time": 1681562610,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 161191,
@@ -1579,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160146,
+      "num": 160146,
+      "word": "灌篮高手两代配音演员同台",
+      "onboard_time": 1681561588,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 158620,
       "num": 158620,
       "word": "显微镜下的流浪地球2",
@@ -1603,20 +1651,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 154343,
-      "num": 154343,
-      "word": "灌篮高手两代配音演员同台",
-      "onboard_time": 1681561588,
-      "rank": 36,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 153137,
       "num": 220131,
       "word": "INTO1最后一次签售会",
       "onboard_time": 1681545987,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152102,
+      "num": 152102,
+      "word": "Tabe说期待BLG杀回来",
+      "onboard_time": 1681562787,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 151280,
@@ -1665,14 +1713,6 @@
       "onboard_time": 1681529424,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142796,
-      "num": 142796,
-      "word": "柳智敏神似爱丽丝",
-      "onboard_time": 1681561468,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 141287,
