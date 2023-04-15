@@ -1,9 +1,9 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681528663416,
+  "endTime": 1681529632048,
   "band_list": [
     {
-      "raw_hot": 2690471,
+      "raw_hot": 3118270,
       "num": 317330,
       "word": "护士被扎20针",
       "onboard_time": 1681524146,
@@ -40,6 +40,14 @@
       "word": "吴尊友称新冠已经趋于结束",
       "onboard_time": 1681521744,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1316616,
+      "num": 1316616,
+      "word": "岸田文雄避难",
+      "onboard_time": 1681527863,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -99,14 +107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 749169,
-      "num": 749169,
-      "word": "岸田文雄避难",
-      "onboard_time": 1681527863,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 721551,
       "num": 253038,
       "word": "试管生下龙凤胎父女间竟无血缘关系",
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 534352,
+      "num": 534352,
+      "word": "五一火车票秒空",
+      "onboard_time": 1681526843,
+      "rank": 7,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 500477,
       "num": 500477,
       "word": "五一火车票",
@@ -168,6 +176,14 @@
       "word": "医院回应护士上班戴美甲给患者扎针",
       "onboard_time": 1681479089,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461148,
+      "num": 461148,
+      "word": "日本首相演说现场传出爆炸声",
+      "onboard_time": 1681528285,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -243,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 326851,
-      "num": 326851,
-      "word": "五一火车票秒空",
-      "onboard_time": 1681526843,
-      "rank": 7,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 326810,
       "num": 326810,
       "word": "柯南 处处吻",
@@ -283,11 +291,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279484,
+      "num": 279484,
+      "word": "陈粒演唱会门票",
+      "onboard_time": 1681529124,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276358,
       "num": 276358,
       "word": "女儿发现做月嫂的妈妈存款近500万",
       "onboard_time": 1681461687,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266537,
+      "num": 266537,
+      "word": "岸田演讲场地一男子被制服",
+      "onboard_time": 1681528764,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -355,11 +379,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 227238,
+      "num": 227238,
+      "word": "30000多个小时记录77种花开瞬间",
+      "onboard_time": 1681527504,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222426,
       "num": 222426,
       "word": "CBA",
       "onboard_time": 1681479209,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221959,
+      "num": 221959,
+      "word": "CBA对上海队与江苏队比赛展开调查",
+      "onboard_time": 1681525885,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -387,27 +427,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 217807,
-      "num": 217807,
-      "word": "CBA对上海队与江苏队比赛展开调查",
-      "onboard_time": 1681525885,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212432,
       "num": 212432,
       "word": "为什么广东胖子少",
       "onboard_time": 1681475787,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206506,
-      "num": 206506,
-      "word": "日本首相演说现场传出爆炸声",
-      "onboard_time": 1681528285,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -467,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192659,
+      "num": 157916,
+      "word": "马伊琍白宇新剧终极预告",
+      "onboard_time": 1681529365,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192289,
       "num": 192289,
       "word": "工信部听取329微信业务异常汇报",
@@ -499,12 +531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186738,
+      "num": 186738,
+      "word": "罗云熙澹台烬挑眉杀合辑",
+      "onboard_time": 1681529003,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182469,
       "num": 182469,
       "word": "PDD歌友会",
       "onboard_time": 1681521864,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 175654,
+      "num": 175654,
+      "word": "张远说稍微想起一些余味不止当天",
+      "onboard_time": 1681529424,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 172358,
@@ -571,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158620,
+      "num": 158620,
+      "word": "显微镜下的流浪地球2",
+      "onboard_time": 1681528644,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156305,
       "num": 156305,
       "word": "汪苏泷一笑倾城开口秒回校园",
@@ -579,19 +635,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141195,
-      "num": 141195,
-      "word": "30000多个小时记录77种花开瞬间",
-      "onboard_time": 1681527504,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140727,
       "num": 140727,
       "word": "孙珍妮追星成功白鹿",
       "onboard_time": 1681476747,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140696,
+      "num": 140696,
+      "word": "流浪地球2",
+      "onboard_time": 1681529244,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -651,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115471,
+      "num": 115471,
+      "word": "易烊千玺双蜡像同台释出",
+      "onboard_time": 1681529304,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109903,
       "num": 109903,
       "word": "樊振东比赛",
@@ -681,6 +745,14 @@
       "onboard_time": 1681469787,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101114,
+      "num": 101114,
+      "word": "玉溪山火",
+      "onboard_time": 1681529424,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100556,
@@ -723,6 +795,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 96180,
+      "num": 96180,
+      "word": "爱很美味今日上映",
+      "onboard_time": 1681528764,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 93387,
       "num": 109779,
       "word": "如果长月烬明没有神魔大战",
@@ -737,6 +817,14 @@
       "onboard_time": 1681479568,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 92525,
+      "num": 92525,
+      "word": "妈妈咪呀今日开播",
+      "onboard_time": 1681529605,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 90678,
@@ -755,14 +843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 88572,
-      "num": 88572,
-      "word": "显微镜下的流浪地球2",
-      "onboard_time": 1681528644,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 88194,
       "num": 109709,
       "word": "徐明浩青春环游记跳hot",
@@ -777,6 +857,14 @@
       "onboard_time": 1681482091,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83515,
+      "num": 821998,
+      "word": "全民国家安全教育日公益短片",
+      "onboard_time": 1681529124,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82272,

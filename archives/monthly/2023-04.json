@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681528663416,
+  "endTime": 1681529632048,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -275,6 +275,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 3118270,
+      "num": 317330,
+      "word": "护士被扎20针",
+      "onboard_time": 1681524146,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3110609,
       "num": 3110609,
       "word": "丰县八孩案5人犯拐卖妇女罪",
@@ -456,14 +464,6 @@
       "word": "漳州万达砍人男子已被控制",
       "onboard_time": 1681291948,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2690471,
-      "num": 317330,
-      "word": "护士被扎20针",
-      "onboard_time": 1681524146,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2280,6 +2280,14 @@
       "word": "杭州悬赏100万出点子摆脱美食荒漠",
       "onboard_time": 1680525394,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1316616,
+      "num": 1316616,
+      "word": "岸田文雄避难",
+      "onboard_time": 1681527863,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -5072,14 +5080,6 @@
       "word": "张波叶诚尘二审翻供",
       "onboard_time": 1680839609,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 749169,
-      "num": 749169,
-      "word": "岸田文雄避难",
-      "onboard_time": 1681527863,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -8099,6 +8099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534352,
+      "num": 534352,
+      "word": "五一火车票秒空",
+      "onboard_time": 1681526843,
+      "rank": 7,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 534117,
       "num": 421884,
       "word": "张信哲粉丝为20年前的行为道歉",
@@ -9544,6 +9552,14 @@
       "word": "浙江富家子开保时捷碰瓷",
       "onboard_time": 1681000946,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461148,
+      "num": 461148,
+      "word": "日本首相演说现场传出爆炸声",
+      "onboard_time": 1681528285,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -13579,14 +13595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326851,
-      "num": 326851,
-      "word": "五一火车票秒空",
-      "onboard_time": 1681526843,
-      "rank": 7,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 326847,
       "num": 326847,
       "word": "考研淘汰率或超八成你还会考么",
@@ -15571,6 +15579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279484,
+      "num": 279484,
+      "word": "陈粒演唱会门票",
+      "onboard_time": 1681529124,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279196,
       "num": 279196,
       "word": "薄冰",
@@ -16121,6 +16137,14 @@
       "onboard_time": 1681243631,
       "rank": 24,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 266537,
+      "num": 266537,
+      "word": "岸田演讲场地一男子被制服",
+      "onboard_time": 1681528764,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266512,
@@ -18627,6 +18651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227238,
+      "num": 227238,
+      "word": "30000多个小时记录77种花开瞬间",
+      "onboard_time": 1681527504,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227007,
       "num": 227007,
       "word": "Newjeans的HypeBoy获人歌一位",
@@ -18929,6 +18961,14 @@
       "onboard_time": 1681370249,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221959,
+      "num": 221959,
+      "word": "CBA对上海队与江苏队比赛展开调查",
+      "onboard_time": 1681525885,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 221896,
@@ -19385,14 +19425,6 @@
       "onboard_time": 1681199067,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217807,
-      "num": 217807,
-      "word": "CBA对上海队与江苏队比赛展开调查",
-      "onboard_time": 1681525885,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 217646,
@@ -20753,14 +20785,6 @@
       "onboard_time": 1680350668,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206506,
-      "num": 206506,
-      "word": "日本首相演说现场传出爆炸声",
-      "onboard_time": 1681528285,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 206453,
@@ -24123,6 +24147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192659,
+      "num": 157916,
+      "word": "马伊琍白宇新剧终极预告",
+      "onboard_time": 1681529365,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192617,
       "num": 192617,
       "word": "如梦之梦西安",
@@ -25249,6 +25281,14 @@
       "onboard_time": 1680767489,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186738,
+      "num": 186738,
+      "word": "罗云熙澹台烬挑眉杀合辑",
+      "onboard_time": 1681529003,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 186713,
@@ -26609,6 +26649,14 @@
       "onboard_time": 1681091847,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175654,
+      "num": 175654,
+      "word": "张远说稍微想起一些余味不止当天",
+      "onboard_time": 1681529424,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 175578,
@@ -28483,6 +28531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158620,
+      "num": 158620,
+      "word": "显微镜下的流浪地球2",
+      "onboard_time": 1681528644,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158542,
       "num": 158542,
       "word": "谢谢你医生将加拿大播出",
@@ -30339,14 +30395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141195,
-      "num": 141195,
-      "word": "30000多个小时记录77种花开瞬间",
-      "onboard_time": 1681527504,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141171,
       "num": 141171,
       "word": "原来国色天香美得如此大气",
@@ -30401,6 +30449,14 @@
       "onboard_time": 1681136191,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140696,
+      "num": 140696,
+      "word": "流浪地球2",
+      "onboard_time": 1681529244,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 140627,
@@ -32611,6 +32667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115471,
+      "num": 115471,
+      "word": "易烊千玺双蜡像同台释出",
+      "onboard_time": 1681529304,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115469,
       "num": 115469,
       "word": "杭州美食七大硬伤",
@@ -33419,6 +33483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101114,
+      "num": 101114,
+      "word": "玉溪山火",
+      "onboard_time": 1681529424,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100895,
       "num": 100895,
       "word": "今年第一场旅行你想去哪里",
@@ -33675,6 +33747,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 96180,
+      "num": 96180,
+      "word": "爱很美味今日上映",
+      "onboard_time": 1681528764,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96134,
       "num": 96134,
       "word": "金智秀FlowerMVreaction视频",
@@ -33833,6 +33913,14 @@
       "onboard_time": 1681081518,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92525,
+      "num": 92525,
+      "word": "妈妈咪呀今日开播",
+      "onboard_time": 1681529605,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 92456,
@@ -33995,14 +34083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88572,
-      "num": 88572,
-      "word": "显微镜下的流浪地球2",
-      "onboard_time": 1681528644,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 88295,
       "num": 126941,
       "word": "在火之前的淄博吃烧烤是一种什么体验",
@@ -34129,6 +34209,14 @@
       "onboard_time": 1681387408,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83515,
+      "num": 821998,
+      "word": "全民国家安全教育日公益短片",
+      "onboard_time": 1681529124,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83509,

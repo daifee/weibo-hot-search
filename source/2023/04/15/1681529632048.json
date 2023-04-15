@@ -1,0 +1,410 @@
+{
+  "runTime": 1681529632048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1456127,
+        "num": 1456127,
+        "word": "吴尊友称新冠已经趋于结束",
+        "onboard_time": 1681521744,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1316616,
+        "num": 1316616,
+        "word": "岸田文雄避难",
+        "onboard_time": 1681527863,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83515,
+        "num": 821998,
+        "word": "全民国家安全教育日公益短片",
+        "onboard_time": 1681529124,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534352,
+        "num": 534352,
+        "word": "五一火车票秒空",
+        "onboard_time": 1681526843,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 461148,
+        "num": 461148,
+        "word": "日本首相演说现场传出爆炸声",
+        "onboard_time": 1681528285,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389587,
+        "num": 389587,
+        "word": "奔跑吧下周是城市追击战",
+        "onboard_time": 1681519405,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378391,
+        "num": 378391,
+        "word": "泫雅泰国泼水节 舞台上的野马",
+        "onboard_time": 1681478366,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 338058,
+        "num": 338058,
+        "word": "招惹唯一吻戏",
+        "onboard_time": 1681524384,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 327675,
+        "num": 327675,
+        "word": "生源都不足了还要高价抢学区房吗",
+        "onboard_time": 1681503313,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 292422,
+        "num": 292422,
+        "word": "淄博酒店",
+        "onboard_time": 1681521023,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 3118270,
+        "num": 291648,
+        "word": "护士被扎20针",
+        "onboard_time": 1681524146,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946225,
+        "num": 291465,
+        "word": "歪哥 蒲熠星",
+        "onboard_time": 1681520966,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517578,
+        "num": 291302,
+        "word": "贵州倪青青",
+        "onboard_time": 1681524203,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290609,
+        "num": 290609,
+        "word": "许超医生 麻烦网红不要去碰瓷医院",
+        "onboard_time": 1681479869,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 279484,
+        "num": 279484,
+        "word": "陈粒演唱会门票",
+        "onboard_time": 1681529124,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 266537,
+        "num": 266537,
+        "word": "岸田演讲场地一男子被制服",
+        "onboard_time": 1681528764,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227238,
+        "num": 227238,
+        "word": "30000多个小时记录77种花开瞬间",
+        "onboard_time": 1681527504,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223807,
+        "num": 223807,
+        "word": "抗癌共享厨房申请公益账户不符要求",
+        "onboard_time": 1681522165,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221959,
+        "num": 221959,
+        "word": "CBA对上海队与江苏队比赛展开调查",
+        "onboard_time": 1681525885,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209614,
+        "num": 209614,
+        "word": "贵阳曾杨",
+        "onboard_time": 1681524446,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687197,
+        "num": 208895,
+        "word": "女儿成绩不好 帮我写一封信给她",
+        "onboard_time": 1681515441,
+        "rank": 20,
+        "category": "情感,科技"
+      },
+      {
+        "raw_hot": 426671,
+        "num": 201295,
+        "word": "试管生下龙凤胎父女间竟无血缘关系",
+        "onboard_time": 1681516463,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186738,
+        "num": 186738,
+        "word": "罗云熙澹台烬挑眉杀合辑",
+        "onboard_time": 1681529003,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182798,
+        "num": 182798,
+        "word": "淄博文旅局长",
+        "onboard_time": 1681485328,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 180833,
+        "num": 180833,
+        "word": "哪种旅游打卡照可能泄露国家秘密",
+        "onboard_time": 1681516822,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 175993,
+        "num": 175993,
+        "word": "微信回应工信部最新要求",
+        "onboard_time": 1681517605,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 175654,
+        "num": 175654,
+        "word": "张远说稍微想起一些余味不止当天",
+        "onboard_time": 1681529424,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164173,
+        "num": 164173,
+        "word": "建议微信出个头像屏蔽功能",
+        "onboard_time": 1681481010,
+        "rank": 27,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 163794,
+        "num": 163794,
+        "word": "五一火车票",
+        "onboard_time": 1681518865,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158620,
+        "num": 158620,
+        "word": "显微镜下的流浪地球2",
+        "onboard_time": 1681528644,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192659,
+        "num": 157916,
+        "word": "马伊琍白宇新剧终极预告",
+        "onboard_time": 1681529365,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156169,
+        "num": 156169,
+        "word": "刘恋 薛凯琪",
+        "onboard_time": 1681477826,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153778,
+        "num": 153778,
+        "word": "篮协要求调查上海江苏季后赛",
+        "onboard_time": 1681513819,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141232,
+        "num": 141232,
+        "word": "癌症早期症状有哪些",
+        "onboard_time": 1681517422,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140696,
+        "num": 140696,
+        "word": "流浪地球2",
+        "onboard_time": 1681529244,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135970,
+        "num": 135970,
+        "word": "淄博音乐节",
+        "onboard_time": 1681520244,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133471,
+        "num": 133471,
+        "word": "王者新赛季",
+        "onboard_time": 1681518865,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131760,
+        "num": 131760,
+        "word": "姐弟恋是怎么突然盛行起来的",
+        "onboard_time": 1681491322,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128236,
+        "num": 128236,
+        "word": "PDD歌友会",
+        "onboard_time": 1681521864,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127965,
+        "num": 127965,
+        "word": "姚明",
+        "onboard_time": 1681487786,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124102,
+        "num": 124102,
+        "word": "龙城今日开播",
+        "onboard_time": 1681527985,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123233,
+        "num": 123233,
+        "word": "When you come around",
+        "onboard_time": 1681515321,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115471,
+        "num": 115471,
+        "word": "易烊千玺双蜡像同台释出",
+        "onboard_time": 1681529304,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106251,
+        "num": 106251,
+        "word": "女子被质疑有房炫富还能申请到公租房",
+        "onboard_time": 1681504752,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 104727,
+        "num": 104727,
+        "word": "陈都灵演技",
+        "onboard_time": 1681483771,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101114,
+        "num": 101114,
+        "word": "玉溪山火",
+        "onboard_time": 1681529424,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96180,
+        "num": 96180,
+        "word": "爱很美味今日上映",
+        "onboard_time": 1681528764,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93139,
+        "num": 93139,
+        "word": "传说中杨紫的朋友圈",
+        "onboard_time": 1681465111,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92616,
+        "num": 92616,
+        "word": "热火逆转战胜公牛",
+        "onboard_time": 1681525944,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92525,
+        "num": 92525,
+        "word": "妈妈咪呀今日开播",
+        "onboard_time": 1681529605,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#广东制造背后的中国式现代化密码#"
+    }
+  }
+}
