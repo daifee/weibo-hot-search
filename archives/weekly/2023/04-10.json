@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681600576661,
+  "endTime": 1681601622886,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2853968,
-      "num": 838944,
+      "num": 911687,
       "word": "达赖舌吻男童有多恶心",
       "onboard_time": 1681558224,
       "rank": 5,
@@ -11019,6 +11019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190704,
+      "num": 190704,
+      "word": "长月烬明剧方否认抄袭",
+      "onboard_time": 1681599916,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 190623,
       "num": 190623,
       "word": "严浩翔极挑白西装造型路透",
@@ -11947,6 +11955,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 177501,
+      "num": 107075,
+      "word": "李现游戏头像是马东锡",
+      "onboard_time": 1681600216,
+      "rank": 30,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 177364,
       "num": 215353,
       "word": "张元英自拍照",
@@ -12168,6 +12184,14 @@
       "word": "青春之城今日开播",
       "onboard_time": 1681277309,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171697,
+      "num": 69209,
+      "word": "陈情令开机五年了",
+      "onboard_time": 1681601179,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -15435,6 +15459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 93550,
+      "num": 93550,
+      "word": "张志磊 拳王",
+      "onboard_time": 1681600698,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93525,
       "num": 93525,
       "word": "杨采钰方芷衡俯卧撑挑战",
@@ -15537,6 +15569,14 @@
       "onboard_time": 1681289368,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88370,
+      "num": 88370,
+      "word": "康康说试飞员把蓝图带向蓝天",
+      "onboard_time": 1681600817,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 88295,
@@ -15689,6 +15729,14 @@
       "onboard_time": 1681491262,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75777,
+      "num": 75777,
+      "word": "曼城3比1莱斯特城",
+      "onboard_time": 1681600158,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 75137,
@@ -15859,14 +15907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 53817,
-      "num": 53817,
-      "word": "长月烬明剧方否认抄袭",
-      "onboard_time": 1681599916,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 53786,
       "num": 54238,
       "word": "泼水节 拔拖鞋",
@@ -15883,20 +15923,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 50156,
+      "num": 50156,
+      "word": "ive跳flower",
+      "onboard_time": 1681600999,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48751,
       "num": 48751,
       "word": "折一条裤子可以有多快",
       "onboard_time": 1681142305,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 47953,
-      "num": 47953,
-      "word": "李现游戏头像是马东锡",
-      "onboard_time": 1681600216,
-      "rank": 30,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 46748,
@@ -15979,12 +16019,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 41094,
+      "num": 47224,
+      "word": "马伊琍东霓人设",
+      "onboard_time": 1681596732,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 39431,
+      "num": 39431,
+      "word": "哈登23分13助攻",
+      "onboard_time": 1681601480,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38684,
       "num": 44059,
       "word": "太阳新歌预告",
       "onboard_time": 1681320137,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 38665,
+      "num": 38665,
+      "word": "张兰称32年滴酒不沾",
+      "onboard_time": 1681601539,
+      "rank": 41,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 37711,
@@ -16019,14 +16083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34344,
-      "num": 47523,
-      "word": "曼城3比1莱斯特城",
-      "onboard_time": 1681600158,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33990,
       "num": 33990,
       "word": "IVE正规专试听",
@@ -16043,20 +16099,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33223,
+      "num": 33223,
+      "word": "张真源爱在终局之前预告",
+      "onboard_time": 1681533266,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 32436,
+      "num": 32436,
+      "word": "切尔西1比2布莱顿",
+      "onboard_time": 1681601058,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31910,
       "num": 293489,
       "word": "V影响力峰会",
       "onboard_time": 1681542026,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31839,
-      "num": 47224,
-      "word": "马伊琍东霓人设",
-      "onboard_time": 1681596732,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 31823,

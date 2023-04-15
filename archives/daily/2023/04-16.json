@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681600576661,
+  "endTime": 1681601622886,
   "band_list": [
     {
       "raw_hot": 1458294,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1016189,
-      "num": 705088,
+      "num": 911687,
       "word": "达赖舌吻男童有多恶心",
       "onboard_time": 1681558224,
       "rank": 5,
@@ -171,6 +171,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 190704,
+      "num": 190704,
+      "word": "长月烬明剧方否认抄袭",
+      "onboard_time": 1681599916,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188855,
       "num": 118098,
       "word": "生气容易长结节吗",
@@ -185,6 +193,22 @@
       "onboard_time": 1681559186,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177501,
+      "num": 107075,
+      "word": "李现游戏头像是马东锡",
+      "onboard_time": 1681600216,
+      "rank": 30,
+      "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 171697,
+      "num": 69209,
+      "word": "陈情令开机五年了",
+      "onboard_time": 1681601179,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 169052,
@@ -363,6 +387,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 93550,
+      "num": 93550,
+      "word": "张志磊 拳王",
+      "onboard_time": 1681600698,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90657,
       "num": 117931,
       "word": "崔秀彬崔杋圭跳了Flower",
@@ -377,6 +409,22 @@
       "onboard_time": 1681568070,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88370,
+      "num": 88370,
+      "word": "康康说试飞员把蓝图带向蓝天",
+      "onboard_time": 1681600817,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 84212,
+      "num": 84212,
+      "word": "尘封十三载",
+      "onboard_time": 1681600879,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 84089,
@@ -400,6 +448,14 @@
       "word": "切尔西4月首球",
       "onboard_time": 1681574609,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75777,
+      "num": 75777,
+      "word": "曼城3比1莱斯特城",
+      "onboard_time": 1681600158,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -443,23 +499,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53817,
-      "num": 53817,
-      "word": "长月烬明剧方否认抄袭",
-      "onboard_time": 1681599916,
-      "rank": 27,
-      "category": "影视"
+      "raw_hot": 50156,
+      "num": 50156,
+      "word": "ive跳flower",
+      "onboard_time": 1681600999,
+      "rank": 34,
+      "category": "综艺"
     },
     {
-      "raw_hot": 47953,
-      "num": 47953,
-      "word": "李现游戏头像是马东锡",
-      "onboard_time": 1681600216,
-      "rank": 30,
-      "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 46216,
+      "raw_hot": 48715,
       "num": 418266,
       "word": "乘车跨越中老边境线梦幻又震撼",
       "onboard_time": 1681564948,
@@ -483,6 +531,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 41094,
+      "num": 47224,
+      "word": "马伊琍东霓人设",
+      "onboard_time": 1681596732,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 39431,
+      "num": 39431,
+      "word": "哈登23分13助攻",
+      "onboard_time": 1681601480,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38665,
+      "num": 38665,
+      "word": "张兰称32年滴酒不沾",
+      "onboard_time": 1681601539,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 37317,
       "num": 63566,
       "word": "12306放票规则",
@@ -491,11 +563,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34344,
-      "num": 47523,
-      "word": "曼城3比1莱斯特城",
-      "onboard_time": 1681600158,
-      "rank": 34,
+      "raw_hot": 33223,
+      "num": 33223,
+      "word": "张真源爱在终局之前预告",
+      "onboard_time": 1681533266,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 32485,
+      "num": 47098,
+      "word": "樊振东获男单冠军",
+      "onboard_time": 1681562248,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 32436,
+      "num": 32436,
+      "word": "切尔西1比2布莱顿",
+      "onboard_time": 1681601058,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -505,22 +593,6 @@
       "onboard_time": 1681571490,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31839,
-      "num": 47224,
-      "word": "马伊琍东霓人设",
-      "onboard_time": 1681596732,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 31645,
-      "num": 47098,
-      "word": "樊振东获男单冠军",
-      "onboard_time": 1681562248,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 31482,
