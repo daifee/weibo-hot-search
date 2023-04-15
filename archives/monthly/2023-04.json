@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681568081508,
+  "endTime": 1681569205187,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1803,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1569284,
+      "num": 617136,
+      "word": "管泽元向余霜求婚",
+      "onboard_time": 1681567589,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1568428,
       "num": 1568428,
       "word": "这不只是娱乐事件还涉及法律问题",
@@ -2363,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1311569,
+      "num": 1311569,
+      "word": "成龙退票事件完整视频",
+      "onboard_time": 1681558467,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1310889,
       "num": 1310889,
       "word": "丫丫上海检疫后将被北动接走",
@@ -2641,14 +2657,6 @@
       "onboard_time": 1681134207,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1195299,
-      "num": 1195299,
-      "word": "成龙退票事件完整视频",
-      "onboard_time": 1681558467,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 1193583,
@@ -4595,6 +4603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 830851,
+      "num": 354163,
+      "word": "曝淄博酒店网上标价千元前台仅需200",
+      "onboard_time": 1681567707,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 829481,
       "num": 829481,
       "word": "周雨彤签约壹心",
@@ -5531,6 +5547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 719889,
+      "num": 353911,
+      "word": "李钟硕没逃过韩国酵母",
+      "onboard_time": 1681568309,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 718006,
       "num": 718006,
       "word": "南烟斋笔录",
@@ -5777,14 +5801,6 @@
       "onboard_time": 1681430125,
       "rank": 12,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 696933,
-      "num": 617136,
-      "word": "管泽元向余霜求婚",
-      "onboard_time": 1681567589,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 695181,
@@ -11308,7 +11324,7 @@
     },
     {
       "raw_hot": 409800,
-      "num": 215319,
+      "num": 236967,
       "word": "龚俊易烊千玺同款石上鸟胸针",
       "onboard_time": 1681565787,
       "rank": 20,
@@ -12827,6 +12843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 357922,
+      "num": 357922,
+      "word": "检验师",
+      "onboard_time": 1681566568,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 357917,
       "num": 253371,
       "word": "EXO机场生图",
@@ -14049,6 +14073,14 @@
       "onboard_time": 1680963630,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 327689,
+      "num": 327689,
+      "word": "模范出租车",
+      "onboard_time": 1680392299,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 327125,
@@ -18259,6 +18291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240134,
+      "num": 240134,
+      "word": "Hero零封AG",
+      "onboard_time": 1681567109,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240128,
       "num": 240128,
       "word": "喜欢你4男一女一晨跑",
@@ -18747,6 +18787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233620,
+      "num": 233620,
+      "word": "王濛秒答林孝埈",
+      "onboard_time": 1681567231,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233544,
       "num": 233544,
       "word": "KPOP女solo最快获得一位天数",
@@ -19001,14 +19049,6 @@
       "onboard_time": 1681201347,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 230531,
-      "num": 230531,
-      "word": "Hero零封AG",
-      "onboard_time": 1681567109,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 230515,
@@ -19387,6 +19427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226145,
+      "num": 185386,
+      "word": "叶一茜曾说森碟需要减肥",
+      "onboard_time": 1681568489,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226028,
       "num": 226028,
       "word": "山东舰首次参加环台岛战备警巡",
@@ -19577,14 +19625,6 @@
       "onboard_time": 1680789873,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 222954,
-      "num": 213992,
-      "word": "王濛秒答林孝埈",
-      "onboard_time": 1681567231,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 222730,
@@ -20419,6 +20459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214254,
+      "num": 176538,
+      "word": "张杰在西安唱大美中华",
+      "onboard_time": 1681569150,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214221,
       "num": 214221,
       "word": "洪世贤感觉又要被艾莉抢走",
@@ -20721,14 +20769,6 @@
       "onboard_time": 1681124186,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210590,
-      "num": 210590,
-      "word": "检验师",
-      "onboard_time": 1681566568,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 210527,
@@ -21641,6 +21681,14 @@
       "onboard_time": 1680951865,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205669,
+      "num": 175862,
+      "word": "崔秀彬崔杋圭跳了Flower",
+      "onboard_time": 1681568732,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205594,
@@ -25619,6 +25667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189290,
+      "num": 153972,
+      "word": "汪峰演唱会",
+      "onboard_time": 1681568249,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189261,
       "num": 189261,
       "word": "最好嗑的姐弟恋",
@@ -26931,6 +26987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181965,
+      "num": 153956,
+      "word": "音乐节",
+      "onboard_time": 1681568309,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181886,
       "num": 181886,
       "word": "柯南贝克街的亡灵预售破500万",
@@ -27321,14 +27385,6 @@
       "onboard_time": 1681448009,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 178685,
-      "num": 172980,
-      "word": "曝淄博酒店网上标价千元前台仅需200",
-      "onboard_time": 1681567707,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 178650,
@@ -29259,6 +29315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161538,
+      "num": 161538,
+      "word": "切尔西vs布莱顿",
+      "onboard_time": 1681569090,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161534,
       "num": 161534,
       "word": "这个宿舍是选对了",
@@ -30041,6 +30105,14 @@
       "onboard_time": 1680937285,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 154607,
+      "num": 154607,
+      "word": "内卷蚊香",
+      "onboard_time": 1681568070,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 154548,
@@ -31473,14 +31545,6 @@
       "onboard_time": 1680657628,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 141934,
-      "num": 141934,
-      "word": "模范出租车",
-      "onboard_time": 1680392299,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 141889,
@@ -34139,6 +34203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110913,
+      "num": 110913,
+      "word": "大连人2比1南通支云",
+      "onboard_time": 1681568611,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110740,
       "num": 396814,
       "word": "仅退款是维护消费者权益",
@@ -34177,14 +34249,6 @@
       "onboard_time": 1681192286,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 110125,
-      "num": 110125,
-      "word": "内卷蚊香",
-      "onboard_time": 1681568070,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 110024,
