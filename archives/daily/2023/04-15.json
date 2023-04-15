@@ -1,6 +1,6 @@
 {
   "startTime": 1681489375067,
-  "endTime": 1681521838729,
+  "endTime": 1681523187282,
   "band_list": [
     {
       "raw_hot": 1959237,
@@ -19,8 +19,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1557335,
-      "num": 1557335,
+      "raw_hot": 1852818,
+      "num": 1852818,
       "word": "女儿成绩不好 帮我写一封信给她",
       "onboard_time": 1681515441,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1681487786,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1123745,
+      "num": 381816,
+      "word": "歪哥 蒲熠星",
+      "onboard_time": 1681520966,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 977198,
@@ -99,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 671829,
+      "num": 671829,
+      "word": "吴尊友称新冠已经趋于结束",
+      "onboard_time": 1681521744,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562298,
       "num": 562298,
       "word": "陈都灵演技",
@@ -107,16 +123,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 553212,
-      "num": 381816,
-      "word": "歪哥 蒲熠星",
-      "onboard_time": 1681520966,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 481590,
-      "num": 481590,
+      "raw_hot": 500477,
+      "num": 500477,
       "word": "五一火车票",
       "onboard_time": 1681518865,
       "rank": 6,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353158,
+      "num": 353158,
+      "word": "奔跑吧下周是城市追击战",
+      "onboard_time": 1681519405,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326810,
       "num": 326810,
       "word": "柯南 处处吻",
@@ -195,8 +211,8 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 286174,
-      "num": 286174,
+      "raw_hot": 292959,
+      "num": 292959,
       "word": "上海江苏球迷大喊退票",
       "onboard_time": 1681518323,
       "rank": 14,
@@ -225,14 +241,6 @@
       "onboard_time": 1681517422,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 259044,
-      "num": 259044,
-      "word": "奔跑吧下周是城市追击战",
-      "onboard_time": 1681519405,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 258966,
@@ -331,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 204506,
+      "num": 204506,
+      "word": "抗癌共享厨房申请公益账户不符要求",
+      "onboard_time": 1681522165,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202429,
       "num": 202429,
       "word": "就差手把手教女生们怎么选男人",
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180912,
+      "num": 180912,
+      "word": "PDD歌友会",
+      "onboard_time": 1681521864,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 172358,
       "num": 172358,
       "word": "雨后春笋2天长30厘米顶翻木桌",
@@ -417,6 +441,14 @@
       "onboard_time": 1681513939,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166411,
+      "num": 166411,
+      "word": "淄博酒店",
+      "onboard_time": 1681521023,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 166208,
@@ -467,14 +499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129879,
-      "num": 129879,
-      "word": "淄博酒店",
-      "onboard_time": 1681521023,
-      "rank": 36,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 128075,
       "num": 128075,
       "word": "冥夜是蛟龙不是恐龙",
@@ -521,6 +545,14 @@
       "onboard_time": 1681481188,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105674,
+      "num": 105674,
+      "word": "汪苏泷一笑倾城开口秒回校园",
+      "onboard_time": 1681522703,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 103059,
@@ -595,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90678,
+      "num": 90678,
+      "word": "东吉 老道",
+      "onboard_time": 1681521685,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89153,
       "num": 109732,
       "word": "WB战胜eStar",
@@ -617,22 +657,6 @@
       "onboard_time": 1681482091,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85424,
-      "num": 85424,
-      "word": "东吉 老道",
-      "onboard_time": 1681521685,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 84004,
-      "num": 84004,
-      "word": "吴尊友称新冠已经趋于结束",
-      "onboard_time": 1681521744,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82272,

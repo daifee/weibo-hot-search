@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681521838729,
+  "endTime": 1681523187282,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1852818,
+      "num": 1852818,
+      "word": "女儿成绩不好 帮我写一封信给她",
+      "onboard_time": 1681515441,
+      "rank": 1,
+      "category": "情感,科技"
+    },
+    {
       "raw_hot": 1824614,
       "num": 1824614,
       "word": "淄博老板娘为赶高铁小伙1V1烤串",
@@ -601,14 +609,6 @@
       "onboard_time": 1681441467,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1557335,
-      "num": 1557335,
-      "word": "女儿成绩不好 帮我写一封信给她",
-      "onboard_time": 1681515441,
-      "rank": 1,
-      "category": "情感,科技"
     },
     {
       "raw_hot": 1557149,
@@ -1009,6 +1009,14 @@
       "onboard_time": 1681122567,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1123745,
+      "num": 381816,
+      "word": "歪哥 蒲熠星",
+      "onboard_time": 1681520966,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1123352,
@@ -2195,6 +2203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 671829,
+      "num": 671829,
+      "word": "吴尊友称新冠已经趋于结束",
+      "onboard_time": 1681521744,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670149,
       "num": 670149,
       "word": "陕西一教师自称贿赂领导被逼自杀",
@@ -3059,14 +3075,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 553212,
-      "num": 381816,
-      "word": "歪哥 蒲熠星",
-      "onboard_time": 1681520966,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 553038,
       "num": 553038,
       "word": "张杰演唱会",
@@ -3467,6 +3475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500477,
+      "num": 500477,
+      "word": "五一火车票",
+      "onboard_time": 1681518865,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499948,
       "num": 499948,
       "word": "朴炯植回春了",
@@ -3624,14 +3640,6 @@
       "word": "胃是怎样一步步癌变的",
       "onboard_time": 1681440748,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481590,
-      "num": 481590,
-      "word": "五一火车票",
-      "onboard_time": 1681518865,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -5179,6 +5187,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 353158,
+      "num": 353158,
+      "word": "奔跑吧下周是城市追击战",
+      "onboard_time": 1681519405,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353106,
       "num": 353106,
       "word": "罗云熙白鹿时尚芭莎合体大片",
@@ -6059,6 +6075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292959,
+      "num": 292959,
+      "word": "上海江苏球迷大喊退票",
+      "onboard_time": 1681518323,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291529,
       "num": 291529,
       "word": "鹿晗给宝石老舅的歌即兴编舞",
@@ -6185,14 +6209,6 @@
       "onboard_time": 1681376250,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 286174,
-      "num": 286174,
-      "word": "上海江苏球迷大喊退票",
-      "onboard_time": 1681518323,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 285904,
@@ -6617,14 +6633,6 @@
       "onboard_time": 1681309234,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 259044,
-      "num": 259044,
-      "word": "奔跑吧下周是城市追击战",
-      "onboard_time": 1681519405,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 258966,
@@ -8537,6 +8545,14 @@
       "onboard_time": 1681277007,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204506,
+      "num": 204506,
+      "word": "抗癌共享厨房申请公益账户不符要求",
+      "onboard_time": 1681522165,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204350,
@@ -10523,6 +10539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180912,
+      "num": 180912,
+      "word": "PDD歌友会",
+      "onboard_time": 1681521864,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 180723,
       "num": 180723,
       "word": "吴世勋新剧主海报公开",
@@ -11185,6 +11209,14 @@
       "onboard_time": 1681195704,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166411,
+      "num": 166411,
+      "word": "淄博酒店",
+      "onboard_time": 1681521023,
+      "rank": 36,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 166368,
@@ -12691,14 +12723,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 129879,
-      "num": 129879,
-      "word": "淄博酒店",
-      "onboard_time": 1681521023,
-      "rank": 36,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 129738,
       "num": 129738,
       "word": "曼城vs拜仁",
@@ -13411,6 +13435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105674,
+      "num": 105674,
+      "word": "汪苏泷一笑倾城开口秒回校园",
+      "onboard_time": 1681522703,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105120,
       "num": 105120,
       "word": "闵玧其坂本龙一合作曲",
@@ -13651,6 +13683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90678,
+      "num": 90678,
+      "word": "东吉 老道",
+      "onboard_time": 1681521685,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90055,
       "num": 63680,
       "word": "王一博电影横跨上半年三大档期",
@@ -13739,14 +13779,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 85424,
-      "num": 85424,
-      "word": "东吉 老道",
-      "onboard_time": 1681521685,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84662,
       "num": 153332,
       "word": "东北雪糕四大天王",
@@ -13761,14 +13793,6 @@
       "onboard_time": 1681387408,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84004,
-      "num": 84004,
-      "word": "吴尊友称新冠已经趋于结束",
-      "onboard_time": 1681521744,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 83314,
