@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681670012301,
+  "endTime": 1681672389759,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -39145,6 +39145,14 @@
       "onboard_time": 1680459195,
       "rank": 47,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 19880,
+      "num": 19880,
+      "word": "多架民航客机在苏丹被击中",
+      "onboard_time": 1681672031,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19346,
