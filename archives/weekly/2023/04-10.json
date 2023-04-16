@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681629297888,
+  "endTime": 1681630406722,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -489,6 +489,14 @@
       "onboard_time": 1681515441,
       "rank": 1,
       "category": "情感,科技"
+    },
+    {
+      "raw_hot": 1825299,
+      "num": 392223,
+      "word": "陈都灵南航",
+      "onboard_time": 1681627825,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1824614,
@@ -1225,14 +1233,6 @@
       "onboard_time": 1681539445,
       "rank": 30,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 1126498,
-      "num": 391209,
-      "word": "陈都灵南航",
-      "onboard_time": 1681627825,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1123745,
@@ -2531,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 689947,
+      "num": 689947,
+      "word": "三天写完了论文初稿",
+      "onboard_time": 1681627227,
+      "rank": 6,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 689285,
       "num": 689285,
       "word": "高加林终于知道顶替真相",
@@ -3233,14 +3241,6 @@
       "onboard_time": 1681479630,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 595873,
-      "num": 595873,
-      "word": "三天写完了论文初稿",
-      "onboard_time": 1681627227,
-      "rank": 6,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 594436,
@@ -4795,6 +4795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435671,
+      "num": 381915,
+      "word": "余霜发博感谢管泽元",
+      "onboard_time": 1681628907,
+      "rank": 19,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 435571,
       "num": 435571,
       "word": "彭小苒新剧红色婚服",
@@ -5129,6 +5137,14 @@
       "onboard_time": 1681616424,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416210,
+      "num": 416210,
+      "word": "成毅虞书欣或将出演一厘米的阳光",
+      "onboard_time": 1681628545,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 416170,
@@ -6699,6 +6715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318221,
+      "num": 318221,
+      "word": "青环制片人回应嘉宾不熟",
+      "onboard_time": 1681629024,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318189,
       "num": 318189,
       "word": "张颖颖假同学案胜诉",
@@ -7591,14 +7615,6 @@
       "num": 243338,
       "word": "冥夜被煮",
       "onboard_time": 1681259969,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 276542,
-      "num": 191187,
-      "word": "成毅虞书欣或将出演一厘米的阳光",
-      "onboard_time": 1681628545,
       "rank": 25,
       "category": "影视"
     },
@@ -9123,14 +9139,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224554,
-      "num": 224554,
-      "word": "余霜发博感谢管泽元",
-      "onboard_time": 1681628907,
-      "rank": 19,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 223854,
       "num": 223854,
       "word": "女子推理社定档",
@@ -9841,6 +9849,14 @@
       "onboard_time": 1681369347,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208340,
+      "num": 193160,
+      "word": "邓紫棋素颜自拍",
+      "onboard_time": 1681630046,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 208211,
@@ -14339,6 +14355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148262,
+      "num": 193107,
+      "word": "吴昕为戚薇新综艺打call",
+      "onboard_time": 1681627048,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148192,
       "num": 148192,
       "word": "老道 东吉",
@@ -14379,12 +14403,12 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 147546,
-      "num": 141903,
-      "word": "吴昕为戚薇新综艺打call",
-      "onboard_time": 1681627048,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 147561,
+      "num": 209727,
+      "word": "斗破苍穹",
+      "onboard_time": 1681625846,
+      "rank": 48,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 147222,
@@ -14457,14 +14481,6 @@
       "onboard_time": 1681436185,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 146237,
-      "num": 209727,
-      "word": "斗破苍穹",
-      "onboard_time": 1681625846,
-      "rank": 48,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 145842,
@@ -15124,7 +15140,7 @@
     },
     {
       "raw_hot": 130871,
-      "num": 126898,
+      "num": 193093,
       "word": "张杰西安演唱会上教戏腔",
       "onboard_time": 1681623808,
       "rank": 36,
@@ -15417,14 +15433,6 @@
       "onboard_time": 1681377569,
       "rank": 47,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 125143,
-      "num": 125143,
-      "word": "青环制片人回应嘉宾不熟",
-      "onboard_time": 1681629024,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 125121,
@@ -15859,6 +15867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113484,
+      "num": 193122,
+      "word": "北京轨道交通已取消口罩要求",
+      "onboard_time": 1681629507,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113280,
       "num": 113280,
       "word": "青春环游记春日旅行海报",
@@ -16140,7 +16156,7 @@
     },
     {
       "raw_hot": 105355,
-      "num": 115577,
+      "num": 193050,
       "word": "毛晓彤西藏vlog",
       "onboard_time": 1681627706,
       "rank": 42,
@@ -16611,6 +16627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 86176,
+      "num": 193017,
+      "word": "研究表明八卦或能助人成功",
+      "onboard_time": 1681630225,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 85772,
       "num": 109055,
       "word": "夏天减脂很需要这份凉拌菜",
@@ -16665,6 +16689,14 @@
       "onboard_time": 1681602383,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82522,
+      "num": 193012,
+      "word": "专家称让多生难度不亚于过去让少生",
+      "onboard_time": 1681629927,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81955,
@@ -16889,6 +16921,14 @@
       "onboard_time": 1681492939,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60293,
+      "num": 192984,
+      "word": "青海一油罐车爆炸造成2人死亡",
+      "onboard_time": 1681630106,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 60149,
@@ -17267,8 +17307,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 15007,
-      "num": 124122,
+      "raw_hot": 15032,
+      "num": 193072,
       "word": "一张照片打卡红人节",
       "onboard_time": 1681629084,
       "rank": 39,

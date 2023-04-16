@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681629297888,
+  "endTime": 1681630406722,
   "band_list": [
     {
       "raw_hot": 2146519,
@@ -9,6 +9,14 @@
       "onboard_time": 1681610847,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1825299,
+      "num": 392223,
+      "word": "陈都灵南航",
+      "onboard_time": 1681627825,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1779535,
@@ -81,14 +89,6 @@
       "onboard_time": 1681623209,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1126498,
-      "num": 391209,
-      "word": "陈都灵南航",
-      "onboard_time": 1681627825,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1016189,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689947,
+      "num": 689947,
+      "word": "三天写完了论文初稿",
+      "onboard_time": 1681627227,
+      "rank": 6,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 659118,
       "num": 659118,
       "word": "1年内5名机车网红车祸身亡",
@@ -241,14 +249,6 @@
       "onboard_time": 1681617328,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 595873,
-      "num": 595873,
-      "word": "三天写完了论文初稿",
-      "onboard_time": 1681627227,
-      "rank": 6,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 594436,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435671,
+      "num": 381915,
+      "word": "余霜发博感谢管泽元",
+      "onboard_time": 1681628907,
+      "rank": 19,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 434041,
       "num": 434041,
       "word": "茄皇视力表",
@@ -409,6 +417,14 @@
       "onboard_time": 1681616424,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416210,
+      "num": 416210,
+      "word": "成毅虞书欣或将出演一厘米的阳光",
+      "onboard_time": 1681628545,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 413913,
@@ -496,6 +512,14 @@
       "word": "披3名单",
       "onboard_time": 1681624528,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318221,
+      "num": 318221,
+      "word": "青环制片人回应嘉宾不熟",
+      "onboard_time": 1681629024,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -611,14 +635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 276542,
-      "num": 191187,
-      "word": "成毅虞书欣或将出演一厘米的阳光",
-      "onboard_time": 1681628545,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263805,
       "num": 263805,
       "word": "法国抗议者冲进LV总部",
@@ -731,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224554,
-      "num": 224554,
-      "word": "余霜发博感谢管泽元",
-      "onboard_time": 1681628907,
-      "rank": 19,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 219487,
       "num": 128143,
       "word": "摆摊卖周边 去展览馆办展",
@@ -769,6 +777,14 @@
       "onboard_time": 1681613426,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208340,
+      "num": 193160,
+      "word": "邓紫棋素颜自拍",
+      "onboard_time": 1681630046,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 207454,
@@ -1035,6 +1051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148262,
+      "num": 193107,
+      "word": "吴昕为戚薇新综艺打call",
+      "onboard_time": 1681627048,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147802,
       "num": 147802,
       "word": "杜江说通信员就是消防员的眼睛",
@@ -1043,12 +1067,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147546,
-      "num": 141903,
-      "word": "吴昕为戚薇新综艺打call",
-      "onboard_time": 1681627048,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 147561,
+      "num": 209727,
+      "word": "斗破苍穹",
+      "onboard_time": 1681625846,
+      "rank": 48,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 146578,
@@ -1057,14 +1081,6 @@
       "onboard_time": 1681622907,
       "rank": 39,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 146237,
-      "num": 209727,
-      "word": "斗破苍穹",
-      "onboard_time": 1681625846,
-      "rank": 48,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 142573,
@@ -1132,7 +1148,7 @@
     },
     {
       "raw_hot": 130871,
-      "num": 126898,
+      "num": 193093,
       "word": "张杰西安演唱会上教戏腔",
       "onboard_time": 1681623808,
       "rank": 36,
@@ -1177,14 +1193,6 @@
       "onboard_time": 1681619007,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125143,
-      "num": 125143,
-      "word": "青环制片人回应嘉宾不熟",
-      "onboard_time": 1681629024,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 123915,
@@ -1233,6 +1241,14 @@
       "onboard_time": 1681623148,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113484,
+      "num": 193122,
+      "word": "北京轨道交通已取消口罩要求",
+      "onboard_time": 1681629507,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113418,
@@ -1324,7 +1340,7 @@
     },
     {
       "raw_hot": 105355,
-      "num": 115577,
+      "num": 193050,
       "word": "毛晓彤西藏vlog",
       "onboard_time": 1681627706,
       "rank": 42,
@@ -1451,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86176,
+      "num": 193017,
+      "word": "研究表明八卦或能助人成功",
+      "onboard_time": 1681630225,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 84668,
       "num": 84668,
       "word": "杨涛鸣等30多人涉嫌诈骗被刑拘",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1681602383,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82522,
+      "num": 193012,
+      "word": "专家称让多生难度不亚于过去让少生",
+      "onboard_time": 1681629927,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80340,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1681558166,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 60293,
+      "num": 192984,
+      "word": "青海一油罐车爆炸造成2人死亡",
+      "onboard_time": 1681630106,
+      "rank": 49,
+      "category": "社会负面"
     },
     {
       "raw_hot": 60149,
@@ -1707,8 +1747,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 15007,
-      "num": 124122,
+      "raw_hot": 15032,
+      "num": 193072,
       "word": "一张照片打卡红人节",
       "onboard_time": 1681629084,
       "rank": 39,
