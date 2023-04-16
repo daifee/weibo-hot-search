@@ -1,0 +1,410 @@
+{
+  "runTime": 1681608429495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1415735,
+        "num": 1415735,
+        "word": "赵丽颖 白玉兰",
+        "onboard_time": 1681603523,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 909281,
+        "num": 909281,
+        "word": "女生15元买15个螺肉疑为福寿螺",
+        "onboard_time": 1681603582,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54197,
+        "num": 872684,
+        "word": "乘车跨越中老边境线梦幻又震撼",
+        "onboard_time": 1681564948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851765,
+        "num": 851765,
+        "word": "关晓彤 张元英",
+        "onboard_time": 1681608267,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 699481,
+        "num": 699481,
+        "word": "达赖舌吻男童有多恶心",
+        "onboard_time": 1681558224,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695763,
+        "num": 695763,
+        "word": "德国即将全面淘汰核电",
+        "onboard_time": 1681604725,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573209,
+        "num": 573209,
+        "word": "官方回应多名中学生春游落水伤亡",
+        "onboard_time": 1681603823,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 569207,
+        "num": 569207,
+        "word": "曝淄博酒店网上标价千元前台仅需200",
+        "onboard_time": 1681567707,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 443473,
+        "num": 443473,
+        "word": "六公主连播朱一龙三部作品",
+        "onboard_time": 1681607066,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 381219,
+        "num": 381219,
+        "word": "跑男 贵州",
+        "onboard_time": 1681604906,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327313,
+        "num": 327313,
+        "word": "12306候补平均兑现率已达70%",
+        "onboard_time": 1681604304,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 312230,
+        "num": 312230,
+        "word": "管泽元向余霜求婚",
+        "onboard_time": 1681567589,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 300081,
+        "num": 300081,
+        "word": "女子自称滴滴员工打车弄脏座位不擦",
+        "onboard_time": 1681604003,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267659,
+        "num": 267659,
+        "word": "给多人候补订票最好用多个账户下单",
+        "onboard_time": 1681605566,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 263805,
+        "num": 263805,
+        "word": "法国抗议者冲进LV总部",
+        "onboard_time": 1681604846,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261827,
+        "num": 261827,
+        "word": "熊猫胡萝卜卡喉饲养员海姆立克施救",
+        "onboard_time": 1681606884,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247827,
+        "num": 247827,
+        "word": "西班牙女子在地下洞穴生活500多天",
+        "onboard_time": 1681603523,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230419,
+        "num": 230419,
+        "word": "girl门",
+        "onboard_time": 1681607549,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207454,
+        "num": 207454,
+        "word": "淄博政府回应经济酒店价格上千",
+        "onboard_time": 1681604123,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 199043,
+        "num": 199043,
+        "word": "白玉兰",
+        "onboard_time": 1681607307,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 432554,
+        "num": 198659,
+        "word": "女子鱼刺卡喉花1265元取出直呼贵",
+        "onboard_time": 1681603464,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246101,
+        "num": 198011,
+        "word": "第一次见吃竹子手忙脚乱的大熊猫",
+        "onboard_time": 1681573649,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220081,
+        "num": 197366,
+        "word": "叶一茜曾说森碟需要减肥",
+        "onboard_time": 1681568489,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196362,
+        "num": 196362,
+        "word": "为什么雨声容易让人犯困",
+        "onboard_time": 1681601659,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 188349,
+        "num": 188349,
+        "word": "长月烬明是懂调休的",
+        "onboard_time": 1681607247,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160402,
+        "num": 160402,
+        "word": "张志磊 拳王",
+        "onboard_time": 1681600698,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163840,
+        "num": 159370,
+        "word": "长月烬明剧方否认抄袭",
+        "onboard_time": 1681599916,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148933,
+        "num": 148933,
+        "word": "李现游戏头像是马东锡",
+        "onboard_time": 1681600216,
+        "rank": 27,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 146915,
+        "num": 146915,
+        "word": "陈情令开机五年了",
+        "onboard_time": 1681601179,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137147,
+        "num": 137147,
+        "word": "张杰说下一站武汉你们准备好了吗",
+        "onboard_time": 1681603102,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219856,
+        "num": 136890,
+        "word": "泼水节不是集体霸凌和骚扰女性的借口",
+        "onboard_time": 1681607848,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136574,
+        "num": 136574,
+        "word": "为什么现在姐弟恋越来越多",
+        "onboard_time": 1681560329,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123663,
+        "num": 123663,
+        "word": "检验师",
+        "onboard_time": 1681566568,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119394,
+        "num": 119394,
+        "word": "名侦探柯南黑铁的鱼影",
+        "onboard_time": 1681601840,
+        "rank": 33,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 113365,
+        "num": 113365,
+        "word": "生气容易长结节吗",
+        "onboard_time": 1681575028,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 106117,
+        "num": 106117,
+        "word": "张兰称32年滴酒不沾",
+        "onboard_time": 1681601539,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 104060,
+        "num": 104060,
+        "word": "明道真的再演单均昊了",
+        "onboard_time": 1681570831,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99044,
+        "num": 99044,
+        "word": "NBA",
+        "onboard_time": 1681602142,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98852,
+        "num": 98852,
+        "word": "徐明浩给张艺兴打电话",
+        "onboard_time": 1681569991,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96970,
+        "num": 96970,
+        "word": "许嵩音乐节",
+        "onboard_time": 1681574667,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90900,
+        "num": 90900,
+        "word": "陈都灵胳膊好长",
+        "onboard_time": 1681574189,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89226,
+        "num": 89226,
+        "word": "尘封十三载",
+        "onboard_time": 1681600879,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88709,
+        "num": 88709,
+        "word": "景区回应老人闯索道致缆车临停",
+        "onboard_time": 1681605205,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 83266,
+        "num": 83266,
+        "word": "哈兰德赛季第47球",
+        "onboard_time": 1681602383,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82582,
+        "num": 82582,
+        "word": "网友质疑长月烬明抄袭仙剑三",
+        "onboard_time": 1681557865,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81040,
+        "num": 81040,
+        "word": "康辉遇到不会念的字会问谁",
+        "onboard_time": 1681608147,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80340,
+        "num": 80340,
+        "word": "红树林像极了大自然的油画",
+        "onboard_time": 1681606408,
+        "rank": 46,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 77260,
+        "num": 77260,
+        "word": "苏丹首都多地发生武装冲突",
+        "onboard_time": 1681605985,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 69084,
+        "num": 69084,
+        "word": "哈登23分13助攻",
+        "onboard_time": 1681601480,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67577,
+        "num": 67577,
+        "word": "苏丹",
+        "onboard_time": 1681606165,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家安全是民族复兴的根基#"
+    }
+  }
+}

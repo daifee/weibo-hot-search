@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681601622886,
+  "endTime": 1681608429495,
   "band_list": [
     {
       "raw_hot": 1458294,
@@ -9,6 +9,14 @@
       "onboard_time": 1681572450,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1415735,
+      "num": 1415735,
+      "word": "赵丽颖 白玉兰",
+      "onboard_time": 1681603523,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1145175,
@@ -35,8 +43,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 909281,
+      "num": 909281,
+      "word": "女生15元买15个螺肉疑为福寿螺",
+      "onboard_time": 1681603582,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 851765,
+      "num": 851765,
+      "word": "关晓彤 张元英",
+      "onboard_time": 1681608267,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 827197,
-      "num": 310296,
+      "num": 312230,
       "word": "管泽元向余霜求婚",
       "onboard_time": 1681567589,
       "rank": 6,
@@ -59,12 +83,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 695763,
+      "num": 695763,
+      "word": "德国即将全面淘汰核电",
+      "onboard_time": 1681604725,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601716,
       "num": 117992,
       "word": "李维嘉回复网友评论",
       "onboard_time": 1681571850,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573209,
+      "num": 573209,
+      "word": "官方回应多名中学生春游落水伤亡",
+      "onboard_time": 1681603823,
+      "rank": 6,
+      "category": "社会负面"
     },
     {
       "raw_hot": 564011,
@@ -83,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 443473,
+      "num": 443473,
+      "word": "六公主连播朱一龙三部作品",
+      "onboard_time": 1681607066,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 441422,
       "num": 441422,
       "word": "徐明浩给张艺兴打电话",
@@ -91,8 +139,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432554,
+      "num": 198659,
+      "word": "女子鱼刺卡喉花1265元取出直呼贵",
+      "onboard_time": 1681603464,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425499,
-      "num": 119755,
+      "num": 198011,
       "word": "第一次见吃竹子手忙脚乱的大熊猫",
       "onboard_time": 1681573649,
       "rank": 22,
@@ -107,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 381219,
+      "num": 381219,
+      "word": "跑男 贵州",
+      "onboard_time": 1681604906,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336234,
       "num": 336234,
       "word": "许嵩音乐节",
@@ -115,12 +179,52 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 327313,
+      "num": 327313,
+      "word": "12306候补平均兑现率已达70%",
+      "onboard_time": 1681604304,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 308768,
       "num": 308768,
       "word": "成龙退票事件完整视频",
       "onboard_time": 1681558467,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 300081,
+      "num": 300081,
+      "word": "女子自称滴滴员工打车弄脏座位不擦",
+      "onboard_time": 1681604003,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267659,
+      "num": 267659,
+      "word": "给多人候补订票最好用多个账户下单",
+      "onboard_time": 1681605566,
+      "rank": 13,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 263805,
+      "num": 263805,
+      "word": "法国抗议者冲进LV总部",
+      "onboard_time": 1681604846,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261827,
+      "num": 261827,
+      "word": "熊猫胡萝卜卡喉饲养员海姆立克施救",
+      "onboard_time": 1681606884,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259878,
@@ -140,10 +244,34 @@
     },
     {
       "raw_hot": 249510,
-      "num": 118102,
+      "num": 136574,
       "word": "为什么现在姐弟恋越来越多",
       "onboard_time": 1681560329,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 247827,
+      "num": 247827,
+      "word": "西班牙女子在地下洞穴生活500多天",
+      "onboard_time": 1681603523,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230419,
+      "num": 230419,
+      "word": "girl门",
+      "onboard_time": 1681607549,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 219856,
+      "num": 136890,
+      "word": "泼水节不是集体霸凌和骚扰女性的借口",
+      "onboard_time": 1681607848,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -163,12 +291,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207454,
+      "num": 207454,
+      "word": "淄博政府回应经济酒店价格上千",
+      "onboard_time": 1681604123,
+      "rank": 18,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 203683,
       "num": 203683,
       "word": "韩国 满汉全席",
       "onboard_time": 1681553486,
       "rank": 9,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 199043,
+      "num": 199043,
+      "word": "白玉兰",
+      "onboard_time": 1681607307,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196362,
+      "num": 196362,
+      "word": "为什么雨声容易让人犯困",
+      "onboard_time": 1681601659,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 190704,
@@ -187,6 +339,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 188349,
+      "num": 188349,
+      "word": "长月烬明是懂调休的",
+      "onboard_time": 1681607247,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181927,
       "num": 181927,
       "word": "郑秀妍开北京首店",
@@ -196,7 +356,7 @@
     },
     {
       "raw_hot": 177501,
-      "num": 107075,
+      "num": 148933,
       "word": "李现游戏头像是马东锡",
       "onboard_time": 1681600216,
       "rank": 30,
@@ -204,7 +364,7 @@
     },
     {
       "raw_hot": 171697,
-      "num": 69209,
+      "num": 146915,
       "word": "陈情令开机五年了",
       "onboard_time": 1681601179,
       "rank": 30,
@@ -217,6 +377,14 @@
       "onboard_time": 1681569150,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 160402,
+      "num": 160402,
+      "word": "张志磊 拳王",
+      "onboard_time": 1681600698,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 156571,
@@ -257,6 +425,14 @@
       "onboard_time": 1681565787,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137147,
+      "num": 137147,
+      "word": "张杰说下一站武汉你们准备好了吗",
+      "onboard_time": 1681603102,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 133571,
@@ -307,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119394,
+      "num": 119394,
+      "word": "名侦探柯南黑铁的鱼影",
+      "onboard_time": 1681601840,
+      "rank": 33,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 117016,
       "num": 118005,
       "word": "听说这是世界上最快的速度",
@@ -337,6 +521,14 @@
       "onboard_time": 1681552586,
       "rank": 25,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 106117,
+      "num": 106117,
+      "word": "张兰称32年滴酒不沾",
+      "onboard_time": 1681601539,
+      "rank": 41,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 105943,
@@ -371,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99044,
+      "num": 99044,
+      "word": "NBA",
+      "onboard_time": 1681602142,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95189,
       "num": 95189,
       "word": "虎头局",
@@ -385,14 +585,6 @@
       "onboard_time": 1681566028,
       "rank": 39,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 93550,
-      "num": 93550,
-      "word": "张志磊 拳王",
-      "onboard_time": 1681600698,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 90657,
@@ -411,19 +603,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89226,
+      "num": 89226,
+      "word": "尘封十三载",
+      "onboard_time": 1681600879,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 88709,
+      "num": 88709,
+      "word": "景区回应老人闯索道致缆车临停",
+      "onboard_time": 1681605205,
+      "rank": 42,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 88370,
       "num": 88370,
       "word": "康康说试飞员把蓝图带向蓝天",
       "onboard_time": 1681600817,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 84212,
-      "num": 84212,
-      "word": "尘封十三载",
-      "onboard_time": 1681600879,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -433,6 +633,30 @@
       "onboard_time": 1681556306,
       "rank": 44,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 83266,
+      "num": 83266,
+      "word": "哈兰德赛季第47球",
+      "onboard_time": 1681602383,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81040,
+      "num": 81040,
+      "word": "康辉遇到不会念的字会问谁",
+      "onboard_time": 1681608147,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80340,
+      "num": 80340,
+      "word": "红树林像极了大自然的油画",
+      "onboard_time": 1681606408,
+      "rank": 46,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 80189,
@@ -483,6 +707,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69084,
+      "num": 69084,
+      "word": "哈登23分13助攻",
+      "onboard_time": 1681601480,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67577,
+      "num": 67577,
+      "word": "苏丹",
+      "onboard_time": 1681606165,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 62164,
       "num": 63634,
       "word": "周觅solo舞台",
@@ -499,20 +739,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54197,
+      "num": 872684,
+      "word": "乘车跨越中老边境线梦幻又震撼",
+      "onboard_time": 1681564948,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50156,
       "num": 50156,
       "word": "ive跳flower",
       "onboard_time": 1681600999,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 48715,
-      "num": 418266,
-      "word": "乘车跨越中老边境线梦幻又震撼",
-      "onboard_time": 1681564948,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42409,
@@ -537,22 +777,6 @@
       "onboard_time": 1681596732,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39431,
-      "num": 39431,
-      "word": "哈登23分13助攻",
-      "onboard_time": 1681601480,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 38665,
-      "num": 38665,
-      "word": "张兰称32年滴酒不沾",
-      "onboard_time": 1681601539,
-      "rank": 41,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 37317,
