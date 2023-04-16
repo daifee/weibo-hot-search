@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681677213285,
+  "endTime": 1681679667849,
   "band_list": [
     {
       "raw_hot": 1537387,
@@ -419,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 71012,
+      "num": 22782,
+      "word": "医生提醒不要频繁清嗓子",
+      "onboard_time": 1681677612,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70823,
       "num": 84522,
       "word": "金像奖获奖名单",
@@ -467,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50918,
+      "num": 22585,
+      "word": "游客称在淄博一烧烤店遇强制消费",
+      "onboard_time": 1681676711,
+      "rank": 45,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 29701,
       "num": 750732,
       "word": "风云三号07星成功发射",
@@ -483,12 +499,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12138,
-      "num": 12864,
-      "word": "游客称在淄博一烧烤店遇强制消费",
-      "onboard_time": 1681676711,
-      "rank": 45,
-      "category": "社会新闻,旅游"
+      "raw_hot": 10968,
+      "num": 13445,
+      "word": "路过男子跳入水中奋力救起落水男孩",
+      "onboard_time": 1681679652,
+      "rank": 47,
+      "category": "社会正能量"
     }
   ],
   "hotgov_list": [
