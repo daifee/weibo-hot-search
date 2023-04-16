@@ -1,0 +1,410 @@
+{
+  "runTime": 1681634002784,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2067884,
+        "num": 2067884,
+        "word": "回忆专用小马甲求婚",
+        "onboard_time": 1681630945,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1392849,
+        "num": 1392849,
+        "word": "苹果设备不断要求输入AppleID密码",
+        "onboard_time": 1681631606,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 8641,
+        "num": 1012392,
+        "word": "乘车跨越中老边境线梦幻又震撼",
+        "onboard_time": 1681564948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962596,
+        "num": 962596,
+        "word": "安徽高空坠落杂技女演员已身亡",
+        "onboard_time": 1681620089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804629,
+        "num": 804629,
+        "word": "官方称女演员坠亡演出无安全措施",
+        "onboard_time": 1681631667,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634465,
+        "num": 634465,
+        "word": "老人捡信用卡猜出密码取现被判刑",
+        "onboard_time": 1681623985,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476458,
+        "num": 476458,
+        "word": "三天写完了论文初稿",
+        "onboard_time": 1681627227,
+        "rank": 6,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 472227,
+        "num": 472227,
+        "word": "女子泼水节遭众男子围着泼水撕雨衣",
+        "onboard_time": 1681621888,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417228,
+        "num": 417228,
+        "word": "康康回应女孩想当飞行员",
+        "onboard_time": 1681632087,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405337,
+        "num": 405337,
+        "word": "专家称让多生难度不亚于过去让少生",
+        "onboard_time": 1681629927,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2161860,
+        "num": 403303,
+        "word": "陈都灵南航",
+        "onboard_time": 1681627825,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386758,
+        "num": 386758,
+        "word": "成毅虞书欣或将出演一厘米的阳光",
+        "onboard_time": 1681628545,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358042,
+        "num": 358042,
+        "word": "BLACKPINK 全开麦",
+        "onboard_time": 1681632748,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348123,
+        "num": 348123,
+        "word": "Jennie科切拉solo舞台",
+        "onboard_time": 1681623209,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 342019,
+        "num": 342019,
+        "word": "女子辟谣妈妈做月嫂存款近500万",
+        "onboard_time": 1681621826,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340878,
+        "num": 340878,
+        "word": "余霜发博感谢管泽元",
+        "onboard_time": 1681628907,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 331825,
+        "num": 331825,
+        "word": "青环制片人回应嘉宾不熟",
+        "onboard_time": 1681629024,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330146,
+        "num": 330146,
+        "word": "福宝和爷爷",
+        "onboard_time": 1681632866,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326126,
+        "num": 326126,
+        "word": "北京轨道交通已取消口罩要求",
+        "onboard_time": 1681629507,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324058,
+        "num": 324058,
+        "word": "宝妈梦到儿子流血查监控见保姆动粗",
+        "onboard_time": 1681610847,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292304,
+        "num": 292304,
+        "word": "破音",
+        "onboard_time": 1681625491,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269736,
+        "num": 269736,
+        "word": "该不该把音乐节价格打下来",
+        "onboard_time": 1681632328,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230805,
+        "num": 230805,
+        "word": "研究表明八卦或能助人成功",
+        "onboard_time": 1681630225,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 221323,
+        "num": 221323,
+        "word": "关晓彤 张元英",
+        "onboard_time": 1681608267,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193992,
+        "num": 193992,
+        "word": "蚌埠 长月烬明",
+        "onboard_time": 1681617328,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193320,
+        "num": 193320,
+        "word": "陶昕然评论赵丽颖白玉兰相关微博",
+        "onboard_time": 1681613547,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187824,
+        "num": 187824,
+        "word": "你更愿意请育儿嫂还是自己带娃",
+        "onboard_time": 1681633226,
+        "rank": 26,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 184254,
+        "num": 184254,
+        "word": "田柾国去了科切拉",
+        "onboard_time": 1681626266,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183122,
+        "num": 183122,
+        "word": "杭州一学区房小区挤掉泡沫每平降3万",
+        "onboard_time": 1681623808,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 162753,
+        "num": 162753,
+        "word": "向华强三十年前后对比",
+        "onboard_time": 1681625967,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314033,
+        "num": 154303,
+        "word": "公务接待喝20元一瓶白酒被处分",
+        "onboard_time": 1681633166,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145587,
+        "num": 145587,
+        "word": "朴彩英嗓音状态",
+        "onboard_time": 1681626626,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135218,
+        "num": 135218,
+        "word": "九尾红人节",
+        "onboard_time": 1681633767,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134175,
+        "num": 134175,
+        "word": "Lisa钢管舞剪影",
+        "onboard_time": 1681627348,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129762,
+        "num": 129762,
+        "word": "茄皇视力表",
+        "onboard_time": 1681622907,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129269,
+        "num": 129269,
+        "word": "金智秀ending镜头",
+        "onboard_time": 1681623266,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127967,
+        "num": 127967,
+        "word": "玉溪万人夹道欢送灭火英雄",
+        "onboard_time": 1681630706,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125384,
+        "num": 125384,
+        "word": "自助餐饮料柜每瓶都是山寨货",
+        "onboard_time": 1681616424,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120947,
+        "num": 120947,
+        "word": "长空之王导演谈创作缘起",
+        "onboard_time": 1681633166,
+        "rank": 38,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 114307,
+        "num": 114307,
+        "word": "邓紫棋素颜自拍",
+        "onboard_time": 1681630046,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103114,
+        "num": 103114,
+        "word": "科切拉",
+        "onboard_time": 1681618527,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102877,
+        "num": 102877,
+        "word": "长月烬明带火蚌埠旅游热",
+        "onboard_time": 1681625366,
+        "rank": 41,
+        "category": "影视,旅游"
+      },
+      {
+        "raw_hot": 101408,
+        "num": 101408,
+        "word": "詹姆斯儿子客串速度与激情10",
+        "onboard_time": 1681633826,
+        "rank": 42,
+        "category": "影视,体育"
+      },
+      {
+        "raw_hot": 98179,
+        "num": 98179,
+        "word": "披3名单",
+        "onboard_time": 1681624528,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94368,
+        "num": 94368,
+        "word": "跳水世界杯",
+        "onboard_time": 1681633767,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85235,
+        "num": 85235,
+        "word": "1年内5名机车网红车祸身亡",
+        "onboard_time": 1681610847,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85126,
+        "num": 85126,
+        "word": "吴昕为戚薇新综艺打call",
+        "onboard_time": 1681627048,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84874,
+        "num": 84874,
+        "word": "过度共情他人",
+        "onboard_time": 1681625246,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83785,
+        "num": 83785,
+        "word": "下班时间用微信工作可算作加班",
+        "onboard_time": 1681613666,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81361,
+        "num": 81361,
+        "word": "斗破苍穹",
+        "onboard_time": 1681625846,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化既造福中国人民又促进世界共同发展#"
+    }
+  }
+}

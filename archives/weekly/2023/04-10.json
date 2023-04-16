@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681633206381,
+  "endTime": 1681634002784,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -283,6 +283,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2161860,
+      "num": 403303,
+      "word": "陈都灵南航",
+      "onboard_time": 1681627825,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2160772,
       "num": 2160772,
       "word": "减肥的人晚上都在吃什么",
@@ -313,14 +321,6 @@
       "onboard_time": 1681371986,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2136611,
-      "num": 393954,
-      "word": "陈都灵南航",
-      "onboard_time": 1681627825,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2134910,
@@ -897,6 +897,14 @@
       "onboard_time": 1681443690,
       "rank": 3,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1392849,
+      "num": 1392849,
+      "word": "苹果设备不断要求输入AppleID密码",
+      "onboard_time": 1681631606,
+      "rank": 3,
+      "category": "科技"
     },
     {
       "raw_hot": 1391865,
@@ -1747,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 898959,
-      "num": 898959,
-      "word": "苹果设备不断要求输入AppleID密码",
-      "onboard_time": 1681631606,
-      "rank": 3,
-      "category": "科技"
-    },
-    {
       "raw_hot": 896384,
       "num": 896384,
       "word": "淄博文旅局长",
@@ -2065,6 +2065,14 @@
       "onboard_time": 1681220908,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 804629,
+      "num": 804629,
+      "word": "官方称女演员坠亡演出无安全措施",
+      "onboard_time": 1681631667,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 803376,
@@ -3304,14 +3312,6 @@
       "word": "医院回应护士上班戴美甲给患者扎针",
       "onboard_time": 1681479089,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 585475,
-      "num": 585475,
-      "word": "官方称女演员坠亡演出无安全措施",
-      "onboard_time": 1681631667,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -5155,6 +5155,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 417228,
+      "num": 417228,
+      "word": "康康回应女孩想当飞行员",
+      "onboard_time": 1681632087,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416902,
       "num": 416902,
       "word": "琴酒赶紧出来干活了",
@@ -6531,6 +6539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 330146,
+      "num": 330146,
+      "word": "福宝和爷爷",
+      "onboard_time": 1681632866,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 330136,
       "num": 330136,
       "word": "给一个6年全职主妇发了offer",
@@ -6841,6 +6857,14 @@
       "onboard_time": 1681099651,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314033,
+      "num": 154303,
+      "word": "公务接待喝20元一瓶白酒被处分",
+      "onboard_time": 1681633166,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313823,
@@ -7771,6 +7795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269736,
+      "num": 269736,
+      "word": "该不该把音乐节价格打下来",
+      "onboard_time": 1681632328,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 267916,
       "num": 267916,
       "word": "孙颖莎4比0陈梦",
@@ -8097,14 +8129,6 @@
       "onboard_time": 1681042226,
       "rank": 24,
       "category": "财经,社会议题"
-    },
-    {
-      "raw_hot": 255527,
-      "num": 255527,
-      "word": "康康回应女孩想当飞行员",
-      "onboard_time": 1681632087,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 254992,
@@ -12099,6 +12123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187824,
+      "num": 187824,
+      "word": "你更愿意请育儿嫂还是自己带娃",
+      "onboard_time": 1681633226,
+      "rank": 26,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 187752,
       "num": 187752,
       "word": "黄明昊是懂大张伟的",
@@ -12721,14 +12753,6 @@
       "onboard_time": 1681473328,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178479,
-      "num": 178479,
-      "word": "该不该把音乐节价格打下来",
-      "onboard_time": 1681632328,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 178357,
@@ -15067,6 +15091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135218,
+      "num": 135218,
+      "word": "九尾红人节",
+      "onboard_time": 1681633767,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135193,
       "num": 135193,
       "word": "星痕无畏主打互相偶遇",
@@ -15675,6 +15707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120947,
+      "num": 120947,
+      "word": "长空之王导演谈创作缘起",
+      "onboard_time": 1681633166,
+      "rank": 48,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 120808,
       "num": 120808,
       "word": "陈建斌给陈晓夸不会了",
@@ -15825,14 +15865,6 @@
       "onboard_time": 1681306410,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117982,
-      "num": 117982,
-      "word": "福宝和爷爷",
-      "onboard_time": 1681632866,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 117766,
@@ -16147,14 +16179,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 107693,
-      "num": 107693,
-      "word": "公务接待喝20元一瓶白酒被处分",
-      "onboard_time": 1681633166,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107549,
       "num": 107549,
       "word": "防弹少年团演唱BASTIONS主题曲",
@@ -16337,6 +16361,14 @@
       "onboard_time": 1681111827,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 101408,
+      "num": 101408,
+      "word": "詹姆斯儿子客串速度与激情10",
+      "onboard_time": 1681633826,
+      "rank": 42,
+      "category": "影视,体育"
     },
     {
       "raw_hot": 101386,
@@ -16545,6 +16577,14 @@
       "onboard_time": 1681164793,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 94368,
+      "num": 94368,
+      "word": "跳水世界杯",
+      "onboard_time": 1681633767,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 94166,
@@ -16801,14 +16841,6 @@
       "onboard_time": 1681569991,
       "rank": 45,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 81332,
-      "num": 81332,
-      "word": "长空之王导演谈创作缘起",
-      "onboard_time": 1681633166,
-      "rank": 48,
-      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 80509,
