@@ -1,0 +1,410 @@
+{
+  "runTime": 1681616013435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1489095,
+        "num": 1489095,
+        "word": "宝妈梦到儿子流血查监控见保姆动粗",
+        "onboard_time": 1681610847,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826992,
+        "num": 826992,
+        "word": "陶昕然评论赵丽颖白玉兰相关微博",
+        "onboard_time": 1681613547,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18292,
+        "num": 794443,
+        "word": "乘车跨越中老边境线梦幻又震撼",
+        "onboard_time": 1681564948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762724,
+        "num": 762724,
+        "word": "田曦薇官宣女子推理社",
+        "onboard_time": 1681613007,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606279,
+        "num": 606279,
+        "word": "1年内5名机车网红车祸身亡",
+        "onboard_time": 1681610847,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564230,
+        "num": 564230,
+        "word": "下班时间用微信工作可算作加班",
+        "onboard_time": 1681613666,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432744,
+        "num": 432744,
+        "word": "勇士VS国王",
+        "onboard_time": 1681610125,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402034,
+        "num": 402034,
+        "word": "刷手机不是打工人最好的摸鱼方式",
+        "onboard_time": 1681611685,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394845,
+        "num": 394845,
+        "word": "六公主连播朱一龙三部作品",
+        "onboard_time": 1681607066,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 393476,
+        "num": 393476,
+        "word": "白玉兰提名",
+        "onboard_time": 1681610607,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1286336,
+        "num": 393239,
+        "word": "关晓彤 张元英",
+        "onboard_time": 1681608267,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 406205,
+        "num": 393060,
+        "word": "深圳地铁回应乘客停留太久被收15元",
+        "onboard_time": 1681613129,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372329,
+        "num": 372329,
+        "word": "王鹤棣买龙虾",
+        "onboard_time": 1681611625,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344536,
+        "num": 344536,
+        "word": "康辉遇到不会念的字会问谁",
+        "onboard_time": 1681608147,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315646,
+        "num": 315646,
+        "word": "歌迷在张杰演唱会上卡点求婚",
+        "onboard_time": 1681610907,
+        "rank": 14,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 298294,
+        "num": 298294,
+        "word": "苏丹冲突已致25死183伤",
+        "onboard_time": 1681612647,
+        "rank": 15,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 267856,
+        "num": 267856,
+        "word": "女生15元买15个螺肉疑为福寿螺",
+        "onboard_time": 1681603582,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231700,
+        "num": 231700,
+        "word": "跑男 贵州",
+        "onboard_time": 1681604906,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225755,
+        "num": 225755,
+        "word": "内娱拉高审美阈值的明星",
+        "onboard_time": 1681609947,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219362,
+        "num": 219362,
+        "word": "曝淄博酒店网上标价千元前台仅需200",
+        "onboard_time": 1681567707,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 265739,
+        "num": 215641,
+        "word": "罗云熙的润玉VS澹台烬",
+        "onboard_time": 1681611148,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210555,
+        "num": 210555,
+        "word": "你需要的安静却是他们的日常",
+        "onboard_time": 1681614447,
+        "rank": 21,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 207508,
+        "num": 207508,
+        "word": "种地吧十个勤天挖笋卖笋",
+        "onboard_time": 1681615106,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205908,
+        "num": 205908,
+        "word": "王一博坐驴车花絮",
+        "onboard_time": 1681615287,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200230,
+        "num": 200230,
+        "word": "宋亚轩叫张真源呼安爸爸",
+        "onboard_time": 1681610486,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193472,
+        "num": 193472,
+        "word": "张远首张个人实体专辑嘉宾",
+        "onboard_time": 1681614984,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185166,
+        "num": 185166,
+        "word": "熊猫胡萝卜卡喉饲养员海姆立克施救",
+        "onboard_time": 1681606884,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183366,
+        "num": 183366,
+        "word": "韩国新增多例猴痘本土感染病例",
+        "onboard_time": 1681613426,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178509,
+        "num": 178509,
+        "word": "达赖舌吻男童有多恶心",
+        "onboard_time": 1681558224,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165467,
+        "num": 165467,
+        "word": "耳屎其实能保护耳道和鼓膜",
+        "onboard_time": 1681612168,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234347,
+        "num": 165185,
+        "word": "小伙的胡子会移动全球不到40例",
+        "onboard_time": 1681611086,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166432,
+        "num": 165102,
+        "word": "白宇为灌篮高手打call",
+        "onboard_time": 1681615106,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 164620,
+        "num": 164620,
+        "word": "淄博21条烧烤专线可线上查询",
+        "onboard_time": 1681613129,
+        "rank": 32,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 158818,
+        "num": 158818,
+        "word": "官方回应多名中学生春游落水伤亡",
+        "onboard_time": 1681603823,
+        "rank": 33,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 156934,
+        "num": 156934,
+        "word": "12306候补平均兑现率已达70%",
+        "onboard_time": 1681604304,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 151720,
+        "num": 151720,
+        "word": "德国即将全面淘汰核电",
+        "onboard_time": 1681604725,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149085,
+        "num": 149085,
+        "word": "极限挑战第九季开播",
+        "onboard_time": 1681613787,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147802,
+        "num": 147802,
+        "word": "杜江说通信员就是消防员的眼睛",
+        "onboard_time": 1681614984,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147778,
+        "num": 147778,
+        "word": "管泽元向余霜求婚",
+        "onboard_time": 1681567589,
+        "rank": 38,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 146054,
+        "num": 146054,
+        "word": "王俊凯新电影暂定春节档",
+        "onboard_time": 1681615768,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128441,
+        "num": 128441,
+        "word": "汉马",
+        "onboard_time": 1681612826,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126196,
+        "num": 126196,
+        "word": "长月烬明是懂调休的",
+        "onboard_time": 1681607247,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123019,
+        "num": 123019,
+        "word": "伊能静泰国旅行攻略",
+        "onboard_time": 1681615347,
+        "rank": 42,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 104645,
+        "num": 104645,
+        "word": "苏丹航空暂停国内国际航班",
+        "onboard_time": 1681613968,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102680,
+        "num": 102680,
+        "word": "女子鱼刺卡喉花1265元取出直呼贵",
+        "onboard_time": 1681603464,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97815,
+        "num": 97815,
+        "word": "祝卿好播出一周年",
+        "onboard_time": 1681615466,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88556,
+        "num": 88556,
+        "word": "张颜齐发博庆祝张志磊夺拳王",
+        "onboard_time": 1681610786,
+        "rank": 46,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 87581,
+        "num": 87581,
+        "word": "陈情令开机五年了",
+        "onboard_time": 1681601179,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85566,
+        "num": 85566,
+        "word": "灌篮高手",
+        "onboard_time": 1681610187,
+        "rank": 48,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 66854,
+        "num": 82308,
+        "word": "李现游戏头像是马东锡",
+        "onboard_time": 1681600216,
+        "rank": 49,
+        "category": "游戏,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家安全是民族复兴的根基#"
+    }
+  }
+}
