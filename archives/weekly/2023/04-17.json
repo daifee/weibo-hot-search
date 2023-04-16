@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681676251213,
+  "endTime": 1681677213285,
   "band_list": [
     {
       "raw_hot": 1537387,
@@ -395,20 +395,20 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 79137,
+      "num": 26111,
+      "word": "多架民航客机在苏丹被击中",
+      "onboard_time": 1681672031,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78948,
       "num": 78948,
       "word": "五一假期去哪个音乐节",
       "onboard_time": 1681664239,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 78509,
-      "num": 26111,
-      "word": "多架民航客机在苏丹被击中",
-      "onboard_time": 1681672031,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71614,
@@ -481,6 +481,14 @@
       "onboard_time": 1681518865,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12138,
+      "num": 12864,
+      "word": "游客称在淄博一烧烤店遇强制消费",
+      "onboard_time": 1681676711,
+      "rank": 45,
+      "category": "社会新闻,旅游"
     }
   ],
   "hotgov_list": [
