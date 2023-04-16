@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681640212410,
+  "endTime": 1681641204618,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -932,7 +932,7 @@
     },
     {
       "raw_hot": 2161860,
-      "num": 634579,
+      "num": 670807,
       "word": "陈都灵南航",
       "onboard_time": 1681627825,
       "rank": 10,
@@ -2883,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1159778,
+      "num": 1159778,
+      "word": "范丞丞听到李晨声音的反应",
+      "onboard_time": 1681639526,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1159091,
       "num": 546204,
       "word": "王晶说赵露思是目前戏最好的花旦",
@@ -3436,7 +3444,7 @@
     },
     {
       "raw_hot": 1031239,
-      "num": 804629,
+      "num": 996064,
       "word": "官方称女演员坠亡演出无安全措施",
       "onboard_time": 1681631667,
       "rank": 5,
@@ -5891,20 +5899,20 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 707259,
+      "num": 707259,
+      "word": "曝上瘾原定主演是宋威龙",
+      "onboard_time": 1681639408,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 707190,
       "num": 491242,
       "word": "迪丽热巴落肩鱼尾长裙",
       "onboard_time": 1680346531,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 705816,
-      "num": 705816,
-      "word": "范丞丞听到李晨声音的反应",
-      "onboard_time": 1681639526,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 705788,
@@ -7249,6 +7257,14 @@
       "onboard_time": 1681392092,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616227,
+      "num": 616227,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 614539,
@@ -10515,6 +10531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 454269,
+      "num": 454269,
+      "word": "女子吐槽淄博一宾馆一晚收费529元",
+      "onboard_time": 1681638447,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454263,
       "num": 454263,
       "word": "四月是你的谎言",
@@ -12187,6 +12211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400436,
+      "num": 318809,
+      "word": "Jennie水兵月双马尾",
+      "onboard_time": 1681637547,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400373,
       "num": 400373,
       "word": "张凌赫个人工作室成立",
@@ -12385,14 +12417,6 @@
       "onboard_time": 1681178787,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 395046,
-      "num": 395046,
-      "word": "女子吐槽淄博一宾馆一晚收费529元",
-      "onboard_time": 1681638447,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394749,
@@ -12953,14 +12977,6 @@
       "onboard_time": 1681623808,
       "rank": 16,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 374481,
-      "num": 318809,
-      "word": "Jennie水兵月双马尾",
-      "onboard_time": 1681637547,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 374043,
@@ -13683,14 +13699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 353049,
-      "num": 353049,
-      "word": "曝上瘾原定主演是宋威龙",
-      "onboard_time": 1681639408,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 352991,
       "num": 352991,
       "word": "红月",
@@ -13881,14 +13889,6 @@
       "onboard_time": 1680649937,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 347362,
-      "num": 347362,
-      "word": "泼水节被撕扯雨衣当事女生发声",
-      "onboard_time": 1681639047,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347133,
@@ -17715,6 +17715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261885,
+      "num": 194322,
+      "word": "幼儿职业技术学院",
+      "onboard_time": 1681638508,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 261783,
       "num": 238359,
       "word": "江疏影抢工作室物料",
@@ -20713,14 +20721,6 @@
       "onboard_time": 1681088008,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220506,
-      "num": 194322,
-      "word": "幼儿职业技术学院",
-      "onboard_time": 1681638508,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 220445,
@@ -25579,6 +25579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194912,
+      "num": 1763781,
+      "word": "玉溪万人夹道欢送灭火英雄",
+      "onboard_time": 1681630706,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194909,
       "num": 194909,
       "word": "吃过一次不想再吃的食物",
@@ -28291,6 +28299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 180543,
+      "num": 1425798,
+      "word": "学生团队用AI修复千名走失儿童旧照",
+      "onboard_time": 1681638625,
+      "rank": 4,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 180533,
       "num": 180533,
       "word": "原著里的冥夜桑酒",
@@ -30923,14 +30939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 158236,
-      "num": 1763781,
-      "word": "玉溪万人夹道欢送灭火英雄",
-      "onboard_time": 1681630706,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158195,
       "num": 158195,
       "word": "IVE正规专辑歌单",
@@ -31075,20 +31083,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156518,
+      "num": 156518,
+      "word": "LGD状态",
+      "onboard_time": 1681637547,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156509,
       "num": 156509,
       "word": "郑号锡将4月18日入伍",
       "onboard_time": 1681348049,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156448,
-      "num": 156448,
-      "word": "LGD状态",
-      "onboard_time": 1681637547,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 156305,
@@ -31795,8 +31803,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 150813,
-      "num": 150813,
+      "raw_hot": 150970,
+      "num": 150970,
       "word": "怦然3路透",
       "onboard_time": 1681638386,
       "rank": 36,
@@ -33331,6 +33339,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 136934,
+      "num": 136934,
+      "word": "美少女战士现身灌篮高手点映",
+      "onboard_time": 1681640307,
+      "rank": 40,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 136914,
       "num": 136914,
       "word": "昆明至万象坐火车当天就能到",
@@ -33841,6 +33857,14 @@
       "onboard_time": 1680563300,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131942,
+      "num": 131942,
+      "word": "RW对战狼队",
+      "onboard_time": 1681639946,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 131924,
@@ -34651,14 +34675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124076,
-      "num": 1425798,
-      "word": "学生团队用AI修复千名走失儿童旧照",
-      "onboard_time": 1681638625,
-      "rank": 4,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 124034,
       "num": 124034,
       "word": "原来熊猫也喜欢看热闹",
@@ -35171,14 +35187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 118691,
-      "num": 118691,
-      "word": "RW对战狼队",
-      "onboard_time": 1681639946,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 118460,
       "num": 118460,
       "word": "aespa新歌MV拍摄路透",
@@ -35547,6 +35555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113267,
+      "num": 113267,
+      "word": "上海申花vs山东泰山",
+      "onboard_time": 1681640907,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113240,
       "num": 113240,
       "word": "李沁眼神戏",
@@ -35585,6 +35601,14 @@
       "onboard_time": 1680974418,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112435,
+      "num": 112435,
+      "word": "灌篮高手开分",
+      "onboard_time": 1681641088,
+      "rank": 47,
+      "category": "影视,游戏"
     },
     {
       "raw_hot": 112299,
@@ -35697,6 +35721,14 @@
       "onboard_time": 1680602429,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110582,
+      "num": 110582,
+      "word": "陈妍希说白宇的命也是命",
+      "onboard_time": 1681641146,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 110556,
@@ -37364,7 +37396,7 @@
     },
     {
       "raw_hot": 75446,
-      "num": 115083,
+      "num": 174604,
       "word": "豪华品牌做电动车还有机会吗",
       "onboard_time": 1681639886,
       "rank": 44,
@@ -38067,6 +38099,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 41537,
+      "num": 136976,
+      "word": "超级红人节现场视频",
+      "onboard_time": 1681639227,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 41384,
       "num": 63585,
       "word": "五月天香港演唱会",
@@ -38201,14 +38241,6 @@
       "onboard_time": 1681132827,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33338,
-      "num": 127387,
-      "word": "超级红人节现场视频",
-      "onboard_time": 1681639227,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 33223,
@@ -38355,8 +38387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22813,
-      "num": 832587,
+      "raw_hot": 23146,
+      "num": 1035289,
       "word": "叶光富回忆太空之旅",
       "onboard_time": 1681639106,
       "rank": 6,
