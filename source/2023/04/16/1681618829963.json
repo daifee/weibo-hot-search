@@ -1,0 +1,410 @@
+{
+  "runTime": 1681618829963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1890933,
+        "num": 1890933,
+        "word": "宝妈梦到儿子流血查监控见保姆动粗",
+        "onboard_time": 1681610847,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803376,
+        "num": 803376,
+        "word": "下班时间用微信工作可算作加班",
+        "onboard_time": 1681613666,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10752,
+        "num": 686602,
+        "word": "乘车跨越中老边境线梦幻又震撼",
+        "onboard_time": 1681564948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681982,
+        "num": 681982,
+        "word": "陶昕然评论赵丽颖白玉兰相关微博",
+        "onboard_time": 1681613547,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 604702,
+        "num": 604702,
+        "word": "科切拉",
+        "onboard_time": 1681618527,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 480065,
+        "num": 480065,
+        "word": "蚌埠 长月烬明",
+        "onboard_time": 1681617328,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 467863,
+        "num": 467863,
+        "word": "1年内5名机车网红车祸身亡",
+        "onboard_time": 1681610847,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466813,
+        "num": 466813,
+        "word": "深圳地铁回应乘客停留太久被收15元",
+        "onboard_time": 1681613129,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466618,
+        "num": 466618,
+        "word": "种地吧十个勤天挖笋卖笋",
+        "onboard_time": 1681615106,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454332,
+        "num": 454332,
+        "word": "田曦薇官宣女子推理社",
+        "onboard_time": 1681613007,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1225552,
+        "num": 435952,
+        "word": "关晓彤 张元英",
+        "onboard_time": 1681608267,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 571485,
+        "num": 429735,
+        "word": "自助餐饮料柜每瓶都是山寨货",
+        "onboard_time": 1681616424,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416669,
+        "num": 416669,
+        "word": "白鹿微博粉丝数破2千万",
+        "onboard_time": 1681616424,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316474,
+        "num": 316474,
+        "word": "六公主连播朱一龙三部作品",
+        "onboard_time": 1681607066,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287134,
+        "num": 307891,
+        "word": "别让泼水节变流氓节",
+        "onboard_time": 1681616127,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 306994,
+        "num": 306994,
+        "word": "朴彩英科切拉",
+        "onboard_time": 1681618527,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304338,
+        "num": 304338,
+        "word": "王俊凯新电影暂定春节档",
+        "onboard_time": 1681615768,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265874,
+        "num": 265874,
+        "word": "歌迷在张杰演唱会上卡点求婚",
+        "onboard_time": 1681610907,
+        "rank": 17,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 240067,
+        "num": 240067,
+        "word": "勇士VS国王",
+        "onboard_time": 1681610125,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230226,
+        "num": 230226,
+        "word": "张兰称八岁五岁小孩都喜欢看她直播",
+        "onboard_time": 1681617208,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 257568,
+        "num": 228491,
+        "word": "李一桐又当卧底了",
+        "onboard_time": 1681617568,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248891,
+        "num": 228259,
+        "word": "戚薇带大侦探角色参加女子推理社",
+        "onboard_time": 1681617266,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226536,
+        "num": 226536,
+        "word": "刷手机不是打工人最好的摸鱼方式",
+        "onboard_time": 1681611685,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224941,
+        "num": 224941,
+        "word": "康辉遇到不会念的字会问谁",
+        "onboard_time": 1681608147,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214407,
+        "num": 214407,
+        "word": "苏丹冲突已致25死183伤",
+        "onboard_time": 1681612647,
+        "rank": 24,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 245305,
+        "num": 213402,
+        "word": "王鹤棣买龙虾",
+        "onboard_time": 1681611625,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244541,
+        "num": 213327,
+        "word": "女子推理社",
+        "onboard_time": 1681617386,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219737,
+        "num": 212489,
+        "word": "白玉兰提名",
+        "onboard_time": 1681610607,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209892,
+        "num": 209892,
+        "word": "韩国新增多例猴痘本土感染病例",
+        "onboard_time": 1681613426,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208851,
+        "num": 208851,
+        "word": "小伙的胡子会移动全球不到40例",
+        "onboard_time": 1681611086,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207544,
+        "num": 207544,
+        "word": "国王17年后季后赛再次取胜",
+        "onboard_time": 1681618347,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201627,
+        "num": 201627,
+        "word": "跑男 贵州",
+        "onboard_time": 1681604906,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196653,
+        "num": 201623,
+        "word": "王一博坐驴车花絮",
+        "onboard_time": 1681615287,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189341,
+        "num": 201612,
+        "word": "电影爱很美味豆瓣开分7.8",
+        "onboard_time": 1681618708,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180695,
+        "num": 201604,
+        "word": "女生15元买15个螺肉疑为福寿螺",
+        "onboard_time": 1681603582,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189002,
+        "num": 201598,
+        "word": "罗云熙的润玉VS澹台烬",
+        "onboard_time": 1681611148,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161799,
+        "num": 201580,
+        "word": "淄博21条烧烤专线可线上查询",
+        "onboard_time": 1681613129,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 156884,
+        "num": 201573,
+        "word": "下半年选秀或将重启",
+        "onboard_time": 1681618407,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142006,
+        "num": 201566,
+        "word": "熊猫胡萝卜卡喉饲养员海姆立克施救",
+        "onboard_time": 1681606884,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140371,
+        "num": 201557,
+        "word": "你需要的安静却是他们的日常",
+        "onboard_time": 1681614447,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 135472,
+        "num": 201541,
+        "word": "泼水节",
+        "onboard_time": 1681617328,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127087,
+        "num": 201533,
+        "word": "极限挑战第九季开播",
+        "onboard_time": 1681613787,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119452,
+        "num": 201526,
+        "word": "达赖舌吻男童有多恶心",
+        "onboard_time": 1681558224,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116104,
+        "num": 201518,
+        "word": "宋亚轩叫张真源呼安爸爸",
+        "onboard_time": 1681610486,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115535,
+        "num": 201510,
+        "word": "12306候补平均兑现率已达70%",
+        "onboard_time": 1681604304,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 112749,
+        "num": 201494,
+        "word": "内娱拉高审美阈值的明星",
+        "onboard_time": 1681609947,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111275,
+        "num": 201485,
+        "word": "官方回应多名中学生春游落水伤亡",
+        "onboard_time": 1681603823,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 108143,
+        "num": 201479,
+        "word": "耳屎其实能保护耳道和鼓膜",
+        "onboard_time": 1681612168,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107743,
+        "num": 201462,
+        "word": "德国即将全面淘汰核电",
+        "onboard_time": 1681604725,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102292,
+        "num": 201453,
+        "word": "管泽元向余霜求婚",
+        "onboard_time": 1681567589,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#蕴藏着勃勃生机的春耕图景#"
+    }
+  }
+}
