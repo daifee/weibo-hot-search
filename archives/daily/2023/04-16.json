@@ -1,7 +1,15 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681608429495,
+  "endTime": 1681609917139,
   "band_list": [
+    {
+      "raw_hot": 1551408,
+      "num": 1551408,
+      "word": "关晓彤 张元英",
+      "onboard_time": 1681608267,
+      "rank": 3,
+      "category": "音乐"
+    },
     {
       "raw_hot": 1458294,
       "num": 126850,
@@ -51,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 851765,
-      "num": 851765,
-      "word": "关晓彤 张元英",
-      "onboard_time": 1681608267,
-      "rank": 3,
-      "category": "音乐"
+      "raw_hot": 835119,
+      "num": 835119,
+      "word": "泼水节不是集体霸凌和骚扰女性的借口",
+      "onboard_time": 1681607848,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 827197,
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499178,
+      "num": 499178,
+      "word": "六公主连播朱一龙三部作品",
+      "onboard_time": 1681607066,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 476426,
       "num": 171687,
       "word": "葛斯齐说肖战上柔下刚",
@@ -123,12 +139,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 443473,
-      "num": 443473,
-      "word": "六公主连播朱一龙三部作品",
-      "onboard_time": 1681607066,
-      "rank": 8,
-      "category": "影视"
+      "raw_hot": 470450,
+      "num": 415531,
+      "word": "康辉遇到不会念的字会问谁",
+      "onboard_time": 1681608147,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441422,
@@ -163,12 +179,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 381219,
-      "num": 381219,
+      "raw_hot": 407852,
+      "num": 407852,
       "word": "跑男 贵州",
       "onboard_time": 1681604906,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369307,
+      "num": 369307,
+      "word": "12306候补平均兑现率已达70%",
+      "onboard_time": 1681604304,
+      "rank": 10,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 336234,
@@ -179,12 +203,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 327313,
-      "num": 327313,
-      "word": "12306候补平均兑现率已达70%",
-      "onboard_time": 1681604304,
-      "rank": 10,
-      "category": "财经,社会新闻"
+      "raw_hot": 319295,
+      "num": 319295,
+      "word": "熊猫胡萝卜卡喉饲养员海姆立克施救",
+      "onboard_time": 1681606884,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308768,
@@ -195,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300239,
+      "num": 300239,
+      "word": "给多人候补订票最好用多个账户下单",
+      "onboard_time": 1681605566,
+      "rank": 13,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 300081,
       "num": 300081,
       "word": "女子自称滴滴员工打车弄脏座位不擦",
@@ -203,27 +235,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267659,
-      "num": 267659,
-      "word": "给多人候补订票最好用多个账户下单",
-      "onboard_time": 1681605566,
-      "rank": 13,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 263805,
       "num": 263805,
       "word": "法国抗议者冲进LV总部",
       "onboard_time": 1681604846,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261827,
-      "num": 261827,
-      "word": "熊猫胡萝卜卡喉饲养员海姆立克施救",
-      "onboard_time": 1681606884,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -267,14 +283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219856,
-      "num": 136890,
-      "word": "泼水节不是集体霸凌和骚扰女性的借口",
-      "onboard_time": 1681607848,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 219487,
       "num": 128143,
       "word": "摆摊卖周边 去展览馆办展",
@@ -305,6 +313,14 @@
       "onboard_time": 1681553486,
       "rank": 9,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 201999,
+      "num": 188349,
+      "word": "长月烬明是懂调休的",
+      "onboard_time": 1681607247,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 199043,
@@ -339,14 +355,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 188349,
-      "num": 188349,
-      "word": "长月烬明是懂调休的",
-      "onboard_time": 1681607247,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 181927,
       "num": 181927,
       "word": "郑秀妍开北京首店",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 177501,
-      "num": 148933,
+      "num": 150583,
       "word": "李现游戏头像是马东锡",
       "onboard_time": 1681600216,
       "rank": 30,
@@ -523,6 +531,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 106687,
+      "num": 106687,
+      "word": "重庆的麻将馆服务",
+      "onboard_time": 1681608506,
+      "rank": 32,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 106117,
       "num": 106117,
       "word": "张兰称32年滴酒不沾",
@@ -561,6 +577,14 @@
       "onboard_time": 1681559067,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101326,
+      "num": 101326,
+      "word": "尘封十三载",
+      "onboard_time": 1681600879,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 99044,
@@ -603,14 +627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89226,
-      "num": 89226,
-      "word": "尘封十三载",
-      "onboard_time": 1681600879,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 88709,
       "num": 88709,
       "word": "景区回应老人闯索道致缆车临停",
@@ -641,14 +657,6 @@
       "onboard_time": 1681602383,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81040,
-      "num": 81040,
-      "word": "康辉遇到不会念的字会问谁",
-      "onboard_time": 1681608147,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80340,
@@ -723,6 +731,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 64485,
+      "num": 64485,
+      "word": "北京马拉松",
+      "onboard_time": 1681603041,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62164,
       "num": 63634,
       "word": "周觅solo舞台",
@@ -739,7 +755,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54197,
+      "raw_hot": 58333,
       "num": 872684,
       "word": "乘车跨越中老边境线梦幻又震撼",
       "onboard_time": 1681564948,
