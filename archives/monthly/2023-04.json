@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681648261072,
+  "endTime": 1681649218090,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3267,6 +3267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1091314,
+      "num": 1091314,
+      "word": "官方回应炫富女喜提公租房",
+      "onboard_time": 1681646366,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1090171,
       "num": 836989,
       "word": "父母抹酒精退烧致4岁女儿住进ICU",
@@ -3801,6 +3809,14 @@
       "onboard_time": 1680948027,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 956947,
+      "num": 852566,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 955249,
@@ -4569,14 +4585,6 @@
       "onboard_time": 1680911182,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 855986,
-      "num": 852566,
-      "word": "泼水节被撕扯雨衣当事女生发声",
-      "onboard_time": 1681639047,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 854800,
@@ -6411,14 +6419,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 671227,
-      "num": 361868,
-      "word": "官方回应炫富女喜提公租房",
-      "onboard_time": 1681646366,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 670816,
       "num": 670816,
       "word": "叶冰裳",
@@ -7193,6 +7193,14 @@
       "onboard_time": 1681227929,
       "rank": 12,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 622098,
+      "num": 622098,
+      "word": "金像奖获奖名单",
+      "onboard_time": 1681645824,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 621994,
@@ -8283,6 +8291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555090,
+      "num": 408557,
+      "word": "朱一龙直播",
+      "onboard_time": 1681647685,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 554915,
       "num": 554915,
       "word": "韩国称美国监听自己不会动摇韩美同盟",
@@ -9105,14 +9121,6 @@
       "onboard_time": 1681127488,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 518615,
-      "num": 518615,
-      "word": "金像奖获奖名单",
-      "onboard_time": 1681645824,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 517579,
@@ -10697,14 +10705,6 @@
       "onboard_time": 1680489627,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 450443,
-      "num": 356490,
-      "word": "朱一龙直播",
-      "onboard_time": 1681647685,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 450274,
@@ -12355,6 +12355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397996,
+      "num": 397996,
+      "word": "金像奖",
+      "onboard_time": 1681636047,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 397875,
       "num": 397875,
       "word": "冥夜天欢VS冥夜桑酒",
@@ -13832,14 +13840,6 @@
       "word": "灭族成桑酒心魔",
       "onboard_time": 1681213946,
       "rank": 15,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 350810,
-      "num": 350810,
-      "word": "金像奖",
-      "onboard_time": 1681636047,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -20507,6 +20507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224742,
+      "num": 224742,
+      "word": "刘德华姜涛合照",
+      "onboard_time": 1681647384,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 224558,
       "num": 224558,
       "word": "早期甜妹的杀伤力有多强",
@@ -22937,6 +22945,14 @@
       "onboard_time": 1681384651,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204680,
+      "num": 204680,
+      "word": "aner出道九分钟oner几年全白干",
+      "onboard_time": 1681648406,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 204671,
@@ -25467,6 +25483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195854,
+      "num": 195854,
+      "word": "金像奖最佳新演员",
+      "onboard_time": 1681647026,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195840,
       "num": 195840,
       "word": "双向奔赴是一种什么样的体验",
@@ -26753,14 +26777,6 @@
       "onboard_time": 1681269269,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189768,
-      "num": 189768,
-      "word": "金像奖最佳新演员",
-      "onboard_time": 1681647026,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 189767,
@@ -28080,6 +28096,14 @@
       "word": "导演说消失的她主演将带来颠覆表演",
       "onboard_time": 1681026988,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 183032,
+      "num": 181059,
+      "word": "无名最终票房",
+      "onboard_time": 1681649127,
+      "rank": 30,
       "category": "影视"
     },
     {
@@ -33203,6 +33227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140439,
+      "num": 140439,
+      "word": "张泽禹被保安抬上台",
+      "onboard_time": 1681647625,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140404,
       "num": 140404,
       "word": "冥夜卷而不平是常态",
@@ -33241,14 +33273,6 @@
       "onboard_time": 1680773494,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140299,
-      "num": 140299,
-      "word": "刘德华姜涛合照",
-      "onboard_time": 1681647384,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 140230,
@@ -33395,6 +33419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138727,
+      "num": 138727,
+      "word": "龚俊说新一季会笑到最后",
+      "onboard_time": 1681648406,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138713,
       "num": 190902,
       "word": "王哲林常规赛MVP",
@@ -33497,14 +33529,6 @@
       "onboard_time": 1681525944,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137459,
-      "num": 137459,
-      "word": "张泽禹被保安抬上台",
-      "onboard_time": 1681647625,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 137432,
@@ -34004,7 +34028,7 @@
     },
     {
       "raw_hot": 132789,
-      "num": 132789,
+      "num": 138248,
       "word": "郑在玹灰发",
       "onboard_time": 1681647747,
       "rank": 42,
@@ -34097,6 +34121,14 @@
       "onboard_time": 1680825931,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 131903,
+      "num": 150138,
+      "word": "交警用身体为女子挡住疾驰车辆",
+      "onboard_time": 1681648347,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 131897,
@@ -34641,6 +34673,14 @@
       "onboard_time": 1680659670,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126700,
+      "num": 146525,
+      "word": "油价",
+      "onboard_time": 1681648708,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 126632,
@@ -36891,6 +36931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 97426,
+      "num": 345130,
+      "word": "激光雷达是智商税吗",
+      "onboard_time": 1681643366,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 97340,
       "num": 151130,
       "word": "洛阳全城剧本杀",
@@ -36921,14 +36969,6 @@
       "onboard_time": 1681173268,
       "rank": 49,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 96309,
-      "num": 345130,
-      "word": "激光雷达是智商税吗",
-      "onboard_time": 1681643366,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 96180,
@@ -38617,6 +38657,14 @@
       "onboard_time": 1680795809,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26424,
+      "num": 636785,
+      "word": "风云三号07星成功发射",
+      "onboard_time": 1681648767,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26119,

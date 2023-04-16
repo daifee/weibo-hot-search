@@ -1,0 +1,410 @@
+{
+  "runTime": 1681649218090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1091314,
+        "num": 1091314,
+        "word": "官方回应炫富女喜提公租房",
+        "onboard_time": 1681646366,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668784,
+        "num": 668784,
+        "word": "公务接待喝20元一瓶白酒被处分",
+        "onboard_time": 1681633166,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26424,
+        "num": 636785,
+        "word": "风云三号07星成功发射",
+        "onboard_time": 1681648767,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879561,
+        "num": 629949,
+        "word": "范丞丞听到李晨声音的反应",
+        "onboard_time": 1681639526,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622098,
+        "num": 622098,
+        "word": "金像奖获奖名单",
+        "onboard_time": 1681645824,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1803333,
+        "num": 619052,
+        "word": "官方称女演员坠亡演出无安全措施",
+        "onboard_time": 1681631667,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587715,
+        "num": 587715,
+        "word": "无业男子冒充清华研究生成网红",
+        "onboard_time": 1681641927,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559712,
+        "num": 559712,
+        "word": "狼队 再输不礼貌了",
+        "onboard_time": 1681646547,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 521327,
+        "num": 521327,
+        "word": "苹果设备不断要求输入AppleID密码",
+        "onboard_time": 1681631606,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 417175,
+        "num": 417175,
+        "word": "回忆专用小马甲求婚",
+        "onboard_time": 1681630945,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 956947,
+        "num": 414185,
+        "word": "泼水节被撕扯雨衣当事女生发声",
+        "onboard_time": 1681639047,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555090,
+        "num": 408557,
+        "word": "朱一龙直播",
+        "onboard_time": 1681647685,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397996,
+        "num": 397996,
+        "word": "金像奖",
+        "onboard_time": 1681636047,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326641,
+        "num": 326641,
+        "word": "怦然心动20岁",
+        "onboard_time": 1681644026,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97426,
+        "num": 321551,
+        "word": "激光雷达是智商税吗",
+        "onboard_time": 1681643366,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 316634,
+        "num": 316634,
+        "word": "长月烬明预告",
+        "onboard_time": 1681645106,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298562,
+        "num": 298562,
+        "word": "曝上瘾原定主演是宋威龙",
+        "onboard_time": 1681639408,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275225,
+        "num": 275225,
+        "word": "郑秀文好美",
+        "onboard_time": 1681644745,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273309,
+        "num": 273309,
+        "word": "女子吐槽淄博一宾馆一晚收费529元",
+        "onboard_time": 1681638447,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224742,
+        "num": 224742,
+        "word": "刘德华姜涛合照",
+        "onboard_time": 1681647384,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221463,
+        "num": 221463,
+        "word": "Jennie水兵月双马尾",
+        "onboard_time": 1681637547,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221214,
+        "num": 221214,
+        "word": "多家银行向员工追薪",
+        "onboard_time": 1681634667,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 213290,
+        "num": 213290,
+        "word": "全红婵跳水世界杯银牌",
+        "onboard_time": 1681635806,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206080,
+        "num": 206080,
+        "word": "谈恋爱到什么阶段可以结婚",
+        "onboard_time": 1681642889,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204680,
+        "num": 204680,
+        "word": "aner出道九分钟oner几年全白干",
+        "onboard_time": 1681648406,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196952,
+        "num": 196952,
+        "word": "刘诗雯 乒坛没你不行",
+        "onboard_time": 1681635327,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195854,
+        "num": 195854,
+        "word": "金像奖最佳新演员",
+        "onboard_time": 1681647026,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192578,
+        "num": 192578,
+        "word": "BLACKPINK 全开麦",
+        "onboard_time": 1681632748,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191144,
+        "num": 191144,
+        "word": "aespa回归曲是夏日风",
+        "onboard_time": 1681642226,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181408,
+        "num": 181408,
+        "word": "福宝和爷爷",
+        "onboard_time": 1681632866,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183032,
+        "num": 181059,
+        "word": "无名最终票房",
+        "onboard_time": 1681649127,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162567,
+        "num": 162567,
+        "word": "尘封十三载今日收官",
+        "onboard_time": 1681645405,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156940,
+        "num": 156940,
+        "word": "你会为了另一半和好友绝交吗",
+        "onboard_time": 1681643906,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131903,
+        "num": 150138,
+        "word": "交警用身体为女子挡住疾驰车辆",
+        "onboard_time": 1681648347,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 126700,
+        "num": 146525,
+        "word": "油价",
+        "onboard_time": 1681648708,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 144810,
+        "num": 144810,
+        "word": "长月烬明",
+        "onboard_time": 1681638985,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140439,
+        "num": 140439,
+        "word": "张泽禹被保安抬上台",
+        "onboard_time": 1681647625,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119484,
+        "num": 140317,
+        "word": "狼队战胜RW",
+        "onboard_time": 1681647867,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119363,
+        "num": 140291,
+        "word": "老人捡信用卡猜出密码取现被判刑",
+        "onboard_time": 1681623985,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103030,
+        "num": 140278,
+        "word": "幼儿职业技术学院",
+        "onboard_time": 1681638508,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 140270,
+        "num": 140270,
+        "word": "极限挑战",
+        "onboard_time": 1681640065,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138844,
+        "num": 138844,
+        "word": "金像奖红毯",
+        "onboard_time": 1681636589,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138727,
+        "num": 138727,
+        "word": "龚俊说新一季会笑到最后",
+        "onboard_time": 1681648406,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120265,
+        "num": 138641,
+        "word": "陈妍希说白宇的命也是命",
+        "onboard_time": 1681641146,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 59573,
+        "num": 138375,
+        "word": "中国人造太阳让科幻有望成为现实",
+        "onboard_time": 1681635449,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118256,
+        "num": 138248,
+        "word": "郑在玹灰发",
+        "onboard_time": 1681647747,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116861,
+        "num": 138014,
+        "word": "马苏金像奖复古名伶造型",
+        "onboard_time": 1681643126,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103073,
+        "num": 137913,
+        "word": "蜜雪冰城冰淇淋音乐节",
+        "onboard_time": 1681635990,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94804,
+        "num": 137739,
+        "word": "杨昊夺男子十米台冠军",
+        "onboard_time": 1681645946,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77835,
+        "num": 137375,
+        "word": "余霜发博感谢管泽元",
+        "onboard_time": 1681628907,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#蕴藏着勃勃生机的春耕图景#"
+    }
+  }
+}

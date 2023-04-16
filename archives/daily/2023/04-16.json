@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681648261072,
+  "endTime": 1681649218090,
   "band_list": [
     {
       "raw_hot": 2583696,
@@ -131,11 +131,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1091314,
+      "num": 1091314,
+      "word": "官方回应炫富女喜提公租房",
+      "onboard_time": 1681646366,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1016189,
       "num": 911687,
       "word": "达赖舌吻男童有多恶心",
       "onboard_time": 1681558224,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 956947,
+      "num": 852566,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -185,14 +201,6 @@
       "onboard_time": 1681618947,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 855986,
-      "num": 852566,
-      "word": "泼水节被撕扯雨衣当事女生发声",
-      "onboard_time": 1681639047,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 850341,
@@ -315,14 +323,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 671227,
-      "num": 361868,
-      "word": "官方回应炫富女喜提公租房",
-      "onboard_time": 1681646366,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 659118,
       "num": 659118,
       "word": "1年内5名机车网红车祸身亡",
@@ -345,6 +345,14 @@
       "onboard_time": 1681646547,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 622098,
+      "num": 622098,
+      "word": "金像奖获奖名单",
+      "onboard_time": 1681645824,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 601716,
@@ -411,20 +419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 555090,
+      "num": 408557,
+      "word": "朱一龙直播",
+      "onboard_time": 1681647685,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522650,
       "num": 522650,
       "word": "金智秀ending镜头",
       "onboard_time": 1681623266,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 518615,
-      "num": 518615,
-      "word": "金像奖获奖名单",
-      "onboard_time": 1681645824,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 508617,
@@ -473,14 +481,6 @@
       "onboard_time": 1681611685,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 450443,
-      "num": 356490,
-      "word": "朱一龙直播",
-      "onboard_time": 1681647685,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 448226,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397996,
+      "num": 397996,
+      "word": "金像奖",
+      "onboard_time": 1681636047,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 396377,
       "num": 396377,
       "word": "田柾国去了科切拉",
@@ -697,14 +705,6 @@
       "onboard_time": 1681629024,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 350810,
-      "num": 350810,
-      "word": "金像奖",
-      "onboard_time": 1681636047,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 344051,
@@ -1059,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224742,
+      "num": 224742,
+      "word": "刘德华姜涛合照",
+      "onboard_time": 1681647384,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219487,
       "num": 128143,
       "word": "摆摊卖周边 去展览馆办展",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1681625246,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204680,
+      "num": 204680,
+      "word": "aner出道九分钟oner几年全白干",
+      "onboard_time": 1681648406,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 204568,
@@ -1235,6 +1251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195854,
+      "num": 195854,
+      "word": "金像奖最佳新演员",
+      "onboard_time": 1681647026,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195644,
       "num": 195644,
       "word": "严浩翔北电汇报演出",
@@ -1289,14 +1313,6 @@
       "onboard_time": 1681641088,
       "rank": 47,
       "category": "影视,游戏"
-    },
-    {
-      "raw_hot": 189768,
-      "num": 189768,
-      "word": "金像奖最佳新演员",
-      "onboard_time": 1681647026,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 189550,
@@ -1361,6 +1377,14 @@
       "onboard_time": 1681613787,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183032,
+      "num": 181059,
+      "word": "无名最终票房",
+      "onboard_time": 1681649127,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 182361,
@@ -1651,12 +1675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140299,
-      "num": 140299,
-      "word": "刘德华姜涛合照",
-      "onboard_time": 1681647384,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 140439,
+      "num": 140439,
+      "word": "张泽禹被保安抬上台",
+      "onboard_time": 1681647625,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 140038,
@@ -1675,20 +1699,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138727,
+      "num": 138727,
+      "word": "龚俊说新一季会笑到最后",
+      "onboard_time": 1681648406,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137752,
       "num": 137752,
       "word": "自考英语二",
       "onboard_time": 1681640425,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 137459,
-      "num": 137459,
-      "word": "张泽禹被保安抬上台",
-      "onboard_time": 1681647625,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 137147,
@@ -1756,7 +1780,7 @@
     },
     {
       "raw_hot": 132789,
-      "num": 132789,
+      "num": 138248,
       "word": "郑在玹灰发",
       "onboard_time": 1681647747,
       "rank": 42,
@@ -1769,6 +1793,14 @@
       "onboard_time": 1681639946,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131903,
+      "num": 150138,
+      "word": "交警用身体为女子挡住疾驰车辆",
+      "onboard_time": 1681648347,
+      "rank": 33,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 130871,
@@ -1817,6 +1849,14 @@
       "onboard_time": 1681631667,
       "rank": 34,
       "category": "社会议题,财经"
+    },
+    {
+      "raw_hot": 126700,
+      "num": 146525,
+      "word": "油价",
+      "onboard_time": 1681648708,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 125579,
@@ -2091,7 +2131,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 96309,
+      "raw_hot": 97426,
       "num": 345130,
       "word": "激光雷达是智商税吗",
       "onboard_time": 1681643366,
@@ -2465,6 +2505,14 @@
       "onboard_time": 1681621226,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 26424,
+      "num": 636785,
+      "word": "风云三号07星成功发射",
+      "onboard_time": 1681648767,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24855,
