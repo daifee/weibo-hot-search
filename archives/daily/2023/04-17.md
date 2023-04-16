@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/17 00:21:15 ~ 2023/04/17 05:33:30
+本榜单时间：2023/04/17 00:21:15 ~ 2023/04/17 06:15:51
 </p>
 </blockquote>
 <p>
@@ -93,6 +93,12 @@ aespa正规1变迷你3（热度：658392）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E4%B8%8D%E8%A6%81%E9%A2%91%E7%B9%81%E6%B8%85%E5%97%93%E5%AD%90%23" target="weibo">
+医生提醒不要频繁清嗓子（热度：299764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
 白桃星座（热度：298679）
 </a>
@@ -171,6 +177,12 @@ BLACKPINK科切拉人气（热度：197304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E6%B7%84%E5%8D%9A%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E9%81%87%E5%BC%BA%E5%88%B6%E6%B6%88%E8%B4%B9%23" target="weibo">
+游客称在淄博一烧烤店遇强制消费（热度：151508）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B0%B4%E8%90%BD%E8%8A%B1%23" target="weibo">
 流水落花（热度：150345）
 </a>
@@ -215,12 +227,6 @@ DRG对战eStar（热度：127424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%A1%E6%8E%A5%E5%BE%85%E5%96%9D20%E5%85%83%E4%B8%80%E7%93%B6%E7%99%BD%E9%85%92%E8%A2%AB%E5%A4%84%E5%88%86%23" target="weibo">
 公务接待喝20元一瓶白酒被处分（热度：118445）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E4%B8%8D%E8%A6%81%E9%A2%91%E7%B9%81%E6%B8%85%E5%97%93%E5%AD%90%23" target="weibo">
-医生提醒不要频繁清嗓子（热度：112356）
 </a>
 </li>
 
@@ -297,6 +303,12 @@ aner出道九分钟oner几年全白干（热度：101305）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%9E%B6%E6%B0%91%E8%88%AA%E5%AE%A2%E6%9C%BA%E5%9C%A8%E8%8B%8F%E4%B8%B9%E8%A2%AB%E5%87%BB%E4%B8%AD%23" target="weibo">
+多架民航客机在苏丹被击中（热度：87236）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E6%B7%84%E5%8D%9A%E4%B8%80%E5%AE%BE%E9%A6%86%E4%B8%80%E6%99%9A%E6%94%B6%E8%B4%B9529%E5%85%83%23" target="weibo">
 女子吐槽淄博一宾馆一晚收费529元（热度：85773）
 </a>
@@ -311,12 +323,6 @@ aner出道九分钟oner几年全白干（热度：101305）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B4%E7%81%BF%E7%83%88%E9%87%91%E9%92%9F%E4%BB%81%E6%89%8B%E5%BF%99%E8%84%9A%E4%B9%B1%E6%AF%94%E5%BF%83%23" target="weibo">
 朴灿烈金钟仁手忙脚乱比心（热度：84915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%9E%B6%E6%B0%91%E8%88%AA%E5%AE%A2%E6%9C%BA%E5%9C%A8%E8%8B%8F%E4%B8%B9%E8%A2%AB%E5%87%BB%E4%B8%AD%23" target="weibo">
-多架民航客机在苏丹被击中（热度：79137）
 </a>
 </li>
 
@@ -339,6 +345,12 @@ EXO新歌live舞台（热度：71614）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%AF%9F%E6%90%9E%E9%94%99%E5%87%BA%E8%AD%A6%E5%9C%B0%E5%9D%80%E5%90%8E%E8%AF%AF%E6%9D%80%E6%88%BF%E4%B8%BB%23" target="weibo">
+美国警察搞错出警地址后误杀房主（热度：70224）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%B7%84%E5%8D%9A%E4%B9%B0%E9%A5%BC%E8%A2%AB%E5%AE%B0%E7%BD%91%E5%8F%8B%E8%BD%AC%E8%B4%A6%E8%A1%A5%E5%B7%AE%E4%BB%B7%23" target="weibo">
 游客淄博买饼被宰网友转账补差价（热度：69433）
 </a>
@@ -347,12 +359,6 @@ EXO新歌live舞台（热度：71614）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%88%98%E9%98%9F%E5%A4%BA%E5%86%A0%23" target="weibo">
 周杰伦战队夺冠（热度：67670）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E5%9C%A8%E6%B7%84%E5%8D%9A%E4%B8%80%E7%83%A7%E7%83%A4%E5%BA%97%E9%81%87%E5%BC%BA%E5%88%B6%E6%B6%88%E8%B4%B9%23" target="weibo">
-游客称在淄博一烧烤店遇强制消费（热度：66983）
 </a>
 </li>
 
@@ -387,14 +393,8 @@ EXO新歌live舞台（热度：71614）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%AF%9F%E6%90%9E%E9%94%99%E5%87%BA%E8%AD%A6%E5%9C%B0%E5%9D%80%E5%90%8E%E8%AF%AF%E6%9D%80%E6%88%BF%E4%B8%BB%23" target="weibo">
-美国警察搞错出警地址后误杀房主（热度：15604）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%BF%87%E7%94%B7%E5%AD%90%E8%B7%B3%E5%85%A5%E6%B0%B4%E4%B8%AD%E5%A5%8B%E5%8A%9B%E6%95%91%E8%B5%B7%E8%90%BD%E6%B0%B4%E7%94%B7%E5%AD%A9%23" target="weibo">
-路过男子跳入水中奋力救起落水男孩（热度：13103）
+路过男子跳入水中奋力救起落水男孩（热度：22927）
 </a>
 </li>
 
