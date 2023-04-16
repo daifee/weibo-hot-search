@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681673602901,
+  "endTime": 1681676251213,
   "band_list": [
     {
       "raw_hot": 1537387,
@@ -403,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 78509,
+      "num": 26111,
+      "word": "多架民航客机在苏丹被击中",
+      "onboard_time": 1681672031,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71614,
       "num": 84939,
       "word": "EXO新歌live舞台",
@@ -457,14 +465,6 @@
       "onboard_time": 1681663641,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52920,
-      "num": 21985,
-      "word": "多架民航客机在苏丹被击中",
-      "onboard_time": 1681672031,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29701,
