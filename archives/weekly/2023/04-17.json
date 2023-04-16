@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681666408202,
+  "endTime": 1681669191159,
   "band_list": [
     {
       "raw_hot": 1537387,
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 69433,
+      "num": 49798,
+      "word": "游客淄博买饼被宰网友转账补差价",
+      "onboard_time": 1681666216,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 67670,
       "num": 83840,
       "word": "周杰伦战队夺冠",
@@ -451,20 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37864,
-      "num": 41342,
-      "word": "游客淄博买饼被宰网友转账补差价",
-      "onboard_time": 1681666216,
-      "rank": 49,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 29701,
       "num": 750732,
       "word": "风云三号07星成功发射",
       "onboard_time": 1681648767,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28413,
+      "num": 29338,
+      "word": "王者新赛季",
+      "onboard_time": 1681518865,
+      "rank": 43,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
