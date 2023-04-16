@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681612604512,
+  "endTime": 1681613131077,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -4315,6 +4315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 872121,
+      "num": 326047,
+      "word": "宝妈梦到儿子流血查监控见保姆动粗",
+      "onboard_time": 1681610847,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 868639,
       "num": 868639,
       "word": "五月天北京演唱会",
@@ -5833,14 +5841,6 @@
       "onboard_time": 1680450753,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 700294,
-      "num": 326047,
-      "word": "宝妈梦到儿子流血查监控见保姆动粗",
-      "onboard_time": 1681610847,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 699416,
@@ -8667,6 +8667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 525604,
+      "num": 525604,
+      "word": "1年内5名机车网红车祸身亡",
+      "onboard_time": 1681610847,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525540,
       "num": 425827,
       "word": "阿里所有产品将接入通义千问",
@@ -9019,6 +9027,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 508617,
+      "num": 508617,
+      "word": "六公主连播朱一龙三部作品",
+      "onboard_time": 1681607066,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 507498,
       "num": 507498,
       "word": "鬼灭之刃",
@@ -9209,14 +9225,6 @@
       "onboard_time": 1680943705,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 499178,
-      "num": 499178,
-      "word": "六公主连播朱一龙三部作品",
-      "onboard_time": 1681607066,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 498728,
@@ -10395,14 +10403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 450043,
-      "num": 450043,
-      "word": "1年内5名机车网红车祸身亡",
-      "onboard_time": 1681610847,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449634,
       "num": 449634,
       "word": "INTO1上海演唱会官宣",
@@ -10444,7 +10444,7 @@
     },
     {
       "raw_hot": 448226,
-      "num": 323247,
+      "num": 434304,
       "word": "歌迷在张杰演唱会上卡点求婚",
       "onboard_time": 1681610907,
       "rank": 12,
@@ -13891,6 +13891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 336808,
+      "num": 336808,
+      "word": "内娱拉高审美阈值的明星",
+      "onboard_time": 1681609947,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336628,
       "num": 336628,
       "word": "人民网评陈某龙造谣被行拘",
@@ -14145,6 +14153,14 @@
       "onboard_time": 1681110447,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 330282,
+      "num": 319913,
+      "word": "王鹤棣买龙虾",
+      "onboard_time": 1681611625,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 330136,
@@ -14555,14 +14571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 319525,
-      "num": 319525,
-      "word": "内娱拉高审美阈值的明星",
-      "onboard_time": 1681609947,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 319163,
       "num": 319163,
       "word": "杜淳王灿为女儿庆生",
@@ -14649,6 +14657,14 @@
       "onboard_time": 1680750146,
       "rank": 34,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 317795,
+      "num": 317795,
+      "word": "刷手机不是打工人最好的摸鱼方式",
+      "onboard_time": 1681611685,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317480,
@@ -14753,6 +14769,14 @@
       "onboard_time": 1681311033,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 315130,
+      "num": 240995,
+      "word": "罗云熙的润玉VS澹台烬",
+      "onboard_time": 1681611148,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314992,
@@ -15755,14 +15779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291821,
-      "num": 240995,
-      "word": "罗云熙的润玉VS澹台烬",
-      "onboard_time": 1681611148,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 291746,
       "num": 207944,
       "word": "李一桐玫瑰红裙造型",
@@ -15833,6 +15849,14 @@
       "onboard_time": 1681542627,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290304,
+      "num": 125100,
+      "word": "小伙的胡子会移动全球不到40例",
+      "onboard_time": 1681611086,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290302,
@@ -17233,14 +17257,6 @@
       "onboard_time": 1680787234,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261059,
-      "num": 125100,
-      "word": "小伙的胡子会移动全球不到40例",
-      "onboard_time": 1681611086,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261040,
@@ -19019,14 +19035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234323,
-      "num": 234323,
-      "word": "刷手机不是打工人最好的摸鱼方式",
-      "onboard_time": 1681611685,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234158,
       "num": 234158,
       "word": "金智秀酒综预告",
@@ -19601,14 +19609,6 @@
       "onboard_time": 1681368447,
       "rank": 25,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 227979,
-      "num": 227979,
-      "word": "王鹤棣买龙虾",
-      "onboard_time": 1681611625,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 227868,
@@ -24675,6 +24675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195909,
+      "num": 195909,
+      "word": "田曦薇官宣女子推理社",
+      "onboard_time": 1681613007,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195840,
       "num": 195840,
       "word": "双向奔赴是一种什么样的体验",
@@ -25801,6 +25809,14 @@
       "onboard_time": 1680923789,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190320,
+      "num": 190320,
+      "word": "勇士VS国王",
+      "onboard_time": 1681610125,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 190292,
@@ -28137,14 +28153,6 @@
       "onboard_time": 1681547607,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174649,
-      "num": 174649,
-      "word": "勇士VS国王",
-      "onboard_time": 1681610125,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 174647,
@@ -34155,12 +34163,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119104,
+      "num": 119104,
+      "word": "汉马",
+      "onboard_time": 1681612826,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119070,
       "num": 119070,
       "word": "李亚男回应最离谱的谣言",
       "onboard_time": 1681364908,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118915,
+      "num": 118915,
+      "word": "耳屎其实能保护耳道和鼓膜",
+      "onboard_time": 1681612168,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118835,
@@ -34337,6 +34361,14 @@
       "onboard_time": 1680946287,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116504,
+      "num": 116504,
+      "word": "苏丹冲突已致25死183伤",
+      "onboard_time": 1681612647,
+      "rank": 33,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 116425,
@@ -34755,6 +34787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109238,
+      "num": 109238,
+      "word": "维金斯替补",
+      "onboard_time": 1681611506,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109104,
       "num": 109104,
       "word": "大锁用斧子给蒋敦豪宋木子修牛蹄",
@@ -34801,14 +34841,6 @@
       "onboard_time": 1681181306,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 108376,
-      "num": 108376,
-      "word": "维金斯替补",
-      "onboard_time": 1681611506,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 108245,
@@ -35547,12 +35579,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97666,
-      "num": 97666,
-      "word": "耳屎其实能保护耳道和鼓膜",
-      "onboard_time": 1681612168,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 97652,
+      "num": 97652,
+      "word": "张兰回应运营团队风波",
+      "onboard_time": 1681610548,
+      "rank": 41,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 97651,
@@ -35625,14 +35657,6 @@
       "onboard_time": 1681127846,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95583,
-      "num": 95583,
-      "word": "张兰回应运营团队风波",
-      "onboard_time": 1681610548,
-      "rank": 41,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 95507,
@@ -36003,6 +36027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87512,
+      "num": 87512,
+      "word": "澹台烬说这就是开心的感觉",
+      "onboard_time": 1681612405,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 86947,
       "num": 86947,
       "word": "搜救犬飞檐走壁快到重影",
@@ -36169,14 +36201,6 @@
       "onboard_time": 1681569991,
       "rank": 45,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 81503,
-      "num": 81503,
-      "word": "澹台烬说这就是开心的感觉",
-      "onboard_time": 1681612405,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 80904,
