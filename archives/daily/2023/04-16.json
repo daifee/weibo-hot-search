@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681651141258,
+  "endTime": 1681651998256,
   "band_list": [
     {
       "raw_hot": 2583696,
@@ -67,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1619720,
+      "raw_hot": 1659423,
       "num": 1619720,
       "word": "官方回应炫富女喜提公租房",
       "onboard_time": 1681646366,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 902348,
+      "num": 902348,
+      "word": "无名最终票房",
+      "onboard_time": 1681649127,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 869487,
       "num": 869487,
       "word": "陶昕然评论赵丽颖白玉兰相关微博",
@@ -203,20 +211,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 854321,
-      "num": 854321,
-      "word": "无名最终票房",
-      "onboard_time": 1681649127,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 850341,
       "num": 850341,
       "word": "破音",
       "onboard_time": 1681625491,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 829052,
+      "num": 413310,
+      "word": "坠亡女演员丈夫否认吵架不系安全扣",
+      "onboard_time": 1681650449,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827197,
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 658904,
+      "num": 658904,
+      "word": "油价",
+      "onboard_time": 1681648708,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 654618,
       "num": 654618,
       "word": "刘诗雯 乒坛没你不行",
@@ -393,14 +409,6 @@
       "onboard_time": 1681621826,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592225,
-      "num": 592225,
-      "word": "油价",
-      "onboard_time": 1681648708,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 584041,
@@ -731,8 +739,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 345257,
-      "num": 268637,
+      "raw_hot": 347709,
+      "num": 289767,
       "word": "交警用身体为女子挡住疾驰车辆",
       "onboard_time": 1681648347,
       "rank": 33,
@@ -745,6 +753,14 @@
       "onboard_time": 1681644026,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337035,
+      "num": 337035,
+      "word": "张真源直播",
+      "onboard_time": 1681651349,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 336808,
@@ -761,14 +777,6 @@
       "onboard_time": 1681574667,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 334656,
-      "num": 201973,
-      "word": "坠亡女演员丈夫否认吵架不系安全扣",
-      "onboard_time": 1681650449,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334410,
@@ -939,6 +947,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 276172,
+      "num": 276172,
+      "word": "GOT7聚会合照",
+      "onboard_time": 1681650088,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271416,
       "num": 271416,
       "word": "极限挑战",
@@ -955,12 +971,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 264776,
-      "num": 264776,
-      "word": "GOT7聚会合照",
-      "onboard_time": 1681650088,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 264306,
+      "num": 264306,
+      "word": "金像奖最佳男配角",
+      "onboard_time": 1681650988,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 263805,
@@ -1059,8 +1075,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239469,
-      "num": 239469,
+      "raw_hot": 241999,
+      "num": 241999,
       "word": "刘德华姜涛合照",
       "onboard_time": 1681647384,
       "rank": 36,
@@ -1091,8 +1107,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 228417,
-      "num": 228417,
+      "raw_hot": 229698,
+      "num": 229698,
       "word": "原来它的小尾巴可以摇",
       "onboard_time": 1681649426,
       "rank": 24,
@@ -1139,12 +1155,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217766,
+      "num": 217766,
+      "word": "尘封十三载结局",
+      "onboard_time": 1681651588,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 215244,
       "num": 118092,
       "word": "明道真的再演单均昊了",
       "onboard_time": 1681570831,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214989,
+      "num": 214989,
+      "word": "女演员坠亡涉事演出公司曾受罚",
+      "onboard_time": 1681650205,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212367,
@@ -1243,14 +1275,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 203306,
-      "num": 203306,
-      "word": "女演员坠亡涉事演出公司曾受罚",
-      "onboard_time": 1681650205,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201999,
       "num": 188349,
       "word": "长月烬明是懂调休的",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1681637247,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196674,
+      "num": 196674,
+      "word": "茄皇回应视力表物料被指歧视女性",
+      "onboard_time": 1681649306,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196362,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1681614984,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193300,
+      "num": 193300,
+      "word": "Jasper当校园导游",
+      "onboard_time": 1681651468,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 192787,
@@ -1545,14 +1585,6 @@
       "onboard_time": 1681615106,
       "rank": 31,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 166381,
-      "num": 166381,
-      "word": "茄皇回应视力表物料被指歧视女性",
-      "onboard_time": 1681649306,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164620,
@@ -1883,14 +1915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 129558,
-      "num": 129558,
-      "word": "金像奖最佳男配角",
-      "onboard_time": 1681650988,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 129164,
       "num": 129164,
       "word": "宋雨琦确诊感染新冠",
@@ -2067,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109180,
+      "num": 128580,
+      "word": "为什么肝癌通常一发现就是晚期",
+      "onboard_time": 1681651826,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106687,
       "num": 106687,
       "word": "重庆的麻将馆服务",
@@ -2228,7 +2260,7 @@
     },
     {
       "raw_hot": 95091,
-      "num": 125507,
+      "num": 128462,
       "word": "DRG对战eStar",
       "onboard_time": 1681649788,
       "rank": 49,
@@ -2347,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77064,
+      "num": 366110,
+      "word": "审美被自主品牌玩明白了",
+      "onboard_time": 1681650028,
+      "rank": 14,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 75777,
       "num": 75777,
       "word": "曼城3比1莱斯特城",
@@ -2419,14 +2459,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 64874,
-      "num": 366110,
-      "word": "审美被自主品牌玩明白了",
-      "onboard_time": 1681650028,
-      "rank": 14,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 64485,
       "num": 64485,
       "word": "北京马拉松",
@@ -2467,18 +2499,18 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58333,
-      "num": 1345105,
-      "word": "乘车跨越中老边境线梦幻又震撼",
-      "onboard_time": 1681564948,
+      "raw_hot": 58588,
+      "num": 808066,
+      "word": "风云三号07星成功发射",
+      "onboard_time": 1681648767,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52222,
-      "num": 808066,
-      "word": "风云三号07星成功发射",
-      "onboard_time": 1681648767,
+      "raw_hot": 58333,
+      "num": 1345105,
+      "word": "乘车跨越中老边境线梦幻又震撼",
+      "onboard_time": 1681564948,
       "rank": 2,
       "category": "社会新闻"
     },
