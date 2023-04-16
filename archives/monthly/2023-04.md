@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/16 13:15:31
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/16 13:33:22
 </p>
 </blockquote>
 <p>
@@ -1773,6 +1773,12 @@ OMG对战TES（热度：1472627）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%20%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%23" target="weibo">
+肯德基 少爷和我（热度：1344149）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7MSI%23" target="weibo">
 BLG晋级MSI（热度：1343366）
 </a>
@@ -3333,6 +3339,12 @@ iPhone15Pro音量双按键（热度：863869）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E5%87%BA%E6%BC%94%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%9F%B3%E4%B9%90%E5%BA%86%E5%85%B8%23" target="weibo">
+BLACKPINK出演美国最大音乐庆典（热度：860235）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AF%E4%BC%8A%E8%83%BD%E9%9D%99%23" target="weibo">
 还得是伊能静（热度：860190）
 </a>
@@ -3401,12 +3413,6 @@ UP主列举B站7大问题（热度：857878）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E4%B8%BD%E9%80%9A%E7%9F%A5%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%8F%AF%E8%BF%9E%E4%BC%914%E5%A4%A9%23" target="weibo">
 瑞丽通知泼水节可连休4天（热度：853174）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BLACKPINK%E5%87%BA%E6%BC%94%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%A4%A7%E9%9F%B3%E4%B9%90%E5%BA%86%E5%85%B8%23" target="weibo">
-BLACKPINK出演美国最大音乐庆典（热度：852563）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Lisa晒BLACKPINK科切拉彩排照（热度：565832）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%8E%A9%E6%BB%91%E7%B4%A2%E5%9D%A0%E6%B9%96%E7%88%B6%E4%BA%B2%E8%90%A5%E6%95%91%E4%B8%8D%E5%B9%B8%E9%81%87%E9%9A%BE%23" target="weibo">
 男孩玩滑索坠湖父亲营救不幸遇难（热度：562492）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%86%8D%E7%9B%B2%E6%8E%8F%E8%80%B3%E6%9C%B5%E4%BA%86%23" target="weibo">
-不要再盲掏耳朵了（热度：561886）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681622131708,
+  "endTime": 1681623202484,
   "band_list": [
     {
       "raw_hot": 2146519,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1344149,
+      "num": 1344149,
+      "word": "肯德基 少爷和我",
+      "onboard_time": 1681621408,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1145175,
       "num": 120777,
       "word": "蔡徐坤的关注",
@@ -99,8 +107,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 852563,
-      "num": 852563,
+      "raw_hot": 860235,
+      "num": 860235,
       "word": "BLACKPINK出演美国最大音乐庆典",
       "onboard_time": 1681618947,
       "rank": 8,
@@ -275,6 +283,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 447047,
+      "num": 447047,
+      "word": "女子辟谣妈妈做月嫂存款近500万",
+      "onboard_time": 1681621826,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441422,
       "num": 441422,
       "word": "徐明浩给张艺兴打电话",
@@ -304,6 +320,14 @@
       "word": "女子鱼刺卡喉花1265元取出直呼贵",
       "onboard_time": 1681603464,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431987,
+      "num": 431987,
+      "word": "女子泼水节遭众男子围着泼水撕雨衣",
+      "onboard_time": 1681621888,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -345,14 +369,6 @@
       "onboard_time": 1681604906,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393761,
-      "num": 393761,
-      "word": "肯德基 少爷和我",
-      "onboard_time": 1681621408,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 369307,
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290080,
+      "num": 290080,
+      "word": "Kpop爱豆出圈神图",
+      "onboard_time": 1681619908,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263805,
       "num": 263805,
       "word": "法国抗议者冲进LV总部",
@@ -497,14 +521,6 @@
       "onboard_time": 1681566568,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 259433,
-      "num": 259433,
-      "word": "Kpop爱豆出圈神图",
-      "onboard_time": 1681619908,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 251808,
@@ -619,12 +635,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 204827,
-      "num": 230022,
-      "word": "女子泼水节遭众男子围着泼水撕雨衣",
-      "onboard_time": 1681621888,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 204568,
+      "num": 204568,
+      "word": "蚌埠烧饼夹里脊",
+      "onboard_time": 1681621708,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 203683,
@@ -697,6 +713,14 @@
       "onboard_time": 1681575028,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 187151,
+      "num": 187151,
+      "word": "招惹",
+      "onboard_time": 1681622488,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 186143,
@@ -779,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160066,
+      "num": 160066,
+      "word": "前印度官员在电视直播中遭枪杀",
+      "onboard_time": 1681622488,
+      "rank": 32,
+      "category": "社会新闻,国内要闻"
+    },
+    {
       "raw_hot": 156571,
       "num": 156571,
       "word": "灌篮高手口碑",
@@ -793,6 +825,14 @@
       "onboard_time": 1681555165,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153093,
+      "num": 198560,
+      "word": "蚌埠文旅",
+      "onboard_time": 1681619968,
+      "rank": 39,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 152765,
@@ -825,6 +865,14 @@
       "onboard_time": 1681614984,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146578,
+      "num": 146578,
+      "word": "肯德基不爱看皓史成双",
+      "onboard_time": 1681622907,
+      "rank": 39,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 142573,
@@ -883,14 +931,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 130484,
-      "num": 198560,
-      "word": "蚌埠文旅",
-      "onboard_time": 1681619968,
-      "rank": 39,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 129925,
       "num": 129925,
       "word": "模范出租车",
@@ -947,12 +987,12 @@
       "category": "艺人,旅游"
     },
     {
-      "raw_hot": 120107,
-      "num": 198559,
-      "word": "蚌埠烧饼夹里脊",
-      "onboard_time": 1681621708,
-      "rank": 46,
-      "category": "美食"
+      "raw_hot": 122256,
+      "num": 122256,
+      "word": "茄皇视力表",
+      "onboard_time": 1681622907,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119394,
@@ -971,20 +1011,20 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 115415,
+      "num": 115415,
+      "word": "金智秀科切拉solo",
+      "onboard_time": 1681623148,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 113418,
       "num": 118033,
       "word": "柳智敏神似爱丽丝",
       "onboard_time": 1681561468,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113212,
-      "num": 198559,
-      "word": "女子辟谣妈妈做月嫂存款近500万",
-      "onboard_time": 1681621826,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112099,
@@ -1308,7 +1348,7 @@
     },
     {
       "raw_hot": 58333,
-      "num": 892036,
+      "num": 1345105,
       "word": "乘车跨越中老边境线梦幻又震撼",
       "onboard_time": 1681564948,
       "rank": 2,
@@ -1403,20 +1443,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 28661,
+      "num": 341681,
+      "word": "红人节福利到底有多卷",
+      "onboard_time": 1681621226,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 24855,
       "num": 46144,
       "word": "JDG对战BLG",
       "onboard_time": 1681539926,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 24843,
-      "num": 341681,
-      "word": "红人节福利到底有多卷",
-      "onboard_time": 1681621226,
-      "rank": 14,
-      "category": "网红"
     }
   ],
   "hotgov_list": [

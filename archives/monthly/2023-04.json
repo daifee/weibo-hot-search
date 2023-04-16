@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681622131708,
+  "endTime": 1681623202484,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2347,6 +2347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1344149,
+      "num": 1344149,
+      "word": "肯德基 少爷和我",
+      "onboard_time": 1681621408,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1343366,
       "num": 1343366,
       "word": "BLG晋级MSI",
@@ -4427,6 +4435,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 860235,
+      "num": 860235,
+      "word": "BLACKPINK出演美国最大音乐庆典",
+      "onboard_time": 1681618947,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 860190,
       "num": 860190,
       "word": "还得是伊能静",
@@ -4521,14 +4537,6 @@
       "onboard_time": 1681086628,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 852563,
-      "num": 852563,
-      "word": "BLACKPINK出演美国最大音乐庆典",
-      "onboard_time": 1681618947,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 850971,
@@ -10595,6 +10603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447047,
+      "num": 447047,
+      "word": "女子辟谣妈妈做月嫂存款近500万",
+      "onboard_time": 1681621826,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445320,
       "num": 445320,
       "word": "痛仰 上海",
@@ -10857,6 +10873,14 @@
       "onboard_time": 1681049191,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 431987,
+      "num": 431987,
+      "word": "女子泼水节遭众男子围着泼水撕雨衣",
+      "onboard_time": 1681621888,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431731,
@@ -12225,14 +12249,6 @@
       "onboard_time": 1680693812,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393761,
-      "num": 393761,
-      "word": "肯德基 少爷和我",
-      "onboard_time": 1681621408,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 393522,
@@ -16043,6 +16059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290080,
+      "num": 290080,
+      "word": "Kpop爱豆出圈神图",
+      "onboard_time": 1681619908,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290052,
       "num": 290052,
       "word": "神隐",
@@ -17513,14 +17537,6 @@
       "onboard_time": 1681309234,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 259433,
-      "num": 259433,
-      "word": "Kpop爱豆出圈神图",
-      "onboard_time": 1681619908,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 259286,
@@ -22395,14 +22411,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 204827,
-      "num": 230022,
-      "word": "女子泼水节遭众男子围着泼水撕雨衣",
-      "onboard_time": 1681621888,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204815,
       "num": 216620,
       "word": "陈立农说期待再相会",
@@ -22489,6 +22497,14 @@
       "onboard_time": 1681302808,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204568,
+      "num": 204568,
+      "word": "蚌埠烧饼夹里脊",
+      "onboard_time": 1681621708,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 204542,
@@ -30179,6 +30195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160066,
+      "num": 160066,
+      "word": "前印度官员在电视直播中遭枪杀",
+      "onboard_time": 1681622488,
+      "rank": 32,
+      "category": "社会新闻,国内要闻"
+    },
+    {
       "raw_hot": 159997,
       "num": 159997,
       "word": "赵露思黄衣遮阳帽视频",
@@ -30987,6 +31011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153093,
+      "num": 198560,
+      "word": "蚌埠文旅",
+      "onboard_time": 1681619968,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 152911,
       "num": 152911,
       "word": "陈立农演唱会彩排",
@@ -31769,6 +31801,14 @@
       "onboard_time": 1680521253,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146578,
+      "num": 146578,
+      "word": "肯德基不爱看皓史成双",
+      "onboard_time": 1681622907,
+      "rank": 39,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 146536,
@@ -33379,14 +33419,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 130484,
-      "num": 198560,
-      "word": "蚌埠文旅",
-      "onboard_time": 1681619968,
-      "rank": 39,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 130436,
       "num": 130436,
       "word": "杨烁李萌萌酒后对手戏",
@@ -34219,6 +34251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122256,
+      "num": 122256,
+      "word": "茄皇视力表",
+      "onboard_time": 1681622907,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121983,
       "num": 121983,
       "word": "儿时的友情注定渐行渐远吗",
@@ -34377,14 +34417,6 @@
       "onboard_time": 1680336932,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 120107,
-      "num": 198559,
-      "word": "蚌埠烧饼夹里脊",
-      "onboard_time": 1681621708,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 120069,
@@ -34787,6 +34819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115415,
+      "num": 115415,
+      "word": "金智秀科切拉solo",
+      "onboard_time": 1681623148,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 115389,
       "num": 115389,
       "word": "预防甲流该怎么做",
@@ -34905,14 +34945,6 @@
       "onboard_time": 1680441215,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 113212,
-      "num": 198559,
-      "word": "女子辟谣妈妈做月嫂存款近500万",
-      "onboard_time": 1681621826,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113171,
@@ -35772,7 +35804,7 @@
     },
     {
       "raw_hot": 99910,
-      "num": 1073863,
+      "num": 1345105,
       "word": "乘车跨越中老边境线梦幻又震撼",
       "onboard_time": 1681564948,
       "rank": 2,
@@ -37595,6 +37627,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 28661,
+      "num": 341681,
+      "word": "红人节福利到底有多卷",
+      "onboard_time": 1681621226,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
@@ -37609,14 +37649,6 @@
       "onboard_time": 1680876452,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24843,
-      "num": 341681,
-      "word": "红人节福利到底有多卷",
-      "onboard_time": 1681621226,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 24690,

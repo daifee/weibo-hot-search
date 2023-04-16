@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681622131708,
+  "endTime": 1681623202484,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -905,6 +905,14 @@
       "onboard_time": 1681620089,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1344149,
+      "num": 1344149,
+      "word": "肯德基 少爷和我",
+      "onboard_time": 1681621408,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 1343366,
@@ -1835,6 +1843,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 860235,
+      "num": 860235,
+      "word": "BLACKPINK出演美国最大音乐庆典",
+      "onboard_time": 1681618947,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 854800,
       "num": 854800,
       "word": "忽然发现家里有点钱",
@@ -1857,14 +1873,6 @@
       "onboard_time": 1681086628,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 852563,
-      "num": 852563,
-      "word": "BLACKPINK出演美国最大音乐庆典",
-      "onboard_time": 1681618947,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 849881,
@@ -4659,6 +4667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 447047,
+      "num": 447047,
+      "word": "女子辟谣妈妈做月嫂存款近500万",
+      "onboard_time": 1681621826,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445061,
       "num": 445061,
       "word": "冥夜桑酒 哑巴爱情",
@@ -4784,6 +4800,14 @@
       "word": "女子鱼刺卡喉花1265元取出直呼贵",
       "onboard_time": 1681603464,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431987,
+      "num": 431987,
+      "word": "女子泼水节遭众男子围着泼水撕雨衣",
+      "onboard_time": 1681621888,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -5505,14 +5529,6 @@
       "onboard_time": 1681176686,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393761,
-      "num": 393761,
-      "word": "肯德基 少爷和我",
-      "onboard_time": 1681621408,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 393522,
@@ -7195,6 +7211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290080,
+      "num": 290080,
+      "word": "Kpop爱豆出圈神图",
+      "onboard_time": 1681619908,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290052,
       "num": 290052,
       "word": "神隐",
@@ -7793,14 +7817,6 @@
       "onboard_time": 1681309234,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 259433,
-      "num": 259433,
-      "word": "Kpop爱豆出圈神图",
-      "onboard_time": 1681619908,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 258966,
@@ -9979,14 +9995,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 204827,
-      "num": 230022,
-      "word": "女子泼水节遭众男子围着泼水撕雨衣",
-      "onboard_time": 1681621888,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204763,
       "num": 204763,
       "word": "奇妙之城2今日收官",
@@ -10001,6 +10009,14 @@
       "onboard_time": 1681302808,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204568,
+      "num": 204568,
+      "word": "蚌埠烧饼夹里脊",
+      "onboard_time": 1681621708,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 204542,
@@ -13515,6 +13531,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 160066,
+      "num": 160066,
+      "word": "前印度官员在电视直播中遭枪杀",
+      "onboard_time": 1681622488,
+      "rank": 32,
+      "category": "社会新闻,国内要闻"
+    },
+    {
       "raw_hot": 159666,
       "num": 159666,
       "word": "开车出门千万要看好油表",
@@ -13859,6 +13883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153093,
+      "num": 198560,
+      "word": "蚌埠文旅",
+      "onboard_time": 1681619968,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 152911,
       "num": 152911,
       "word": "陈立农演唱会彩排",
@@ -14201,6 +14233,14 @@
       "onboard_time": 1681182148,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146578,
+      "num": 146578,
+      "word": "肯德基不爱看皓史成双",
+      "onboard_time": 1681622907,
+      "rank": 39,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 146536,
@@ -14899,14 +14939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 130484,
-      "num": 198560,
-      "word": "蚌埠文旅",
-      "onboard_time": 1681619968,
-      "rank": 39,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 130436,
       "num": 130436,
       "word": "杨烁李萌萌酒后对手戏",
@@ -15291,6 +15323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122256,
+      "num": 122256,
+      "word": "茄皇视力表",
+      "onboard_time": 1681622907,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122236,
       "num": 122236,
       "word": "我想和你唱",
@@ -15377,14 +15417,6 @@
       "onboard_time": 1681206931,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120107,
-      "num": 198559,
-      "word": "蚌埠烧饼夹里脊",
-      "onboard_time": 1681621708,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 119997,
@@ -15555,6 +15587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115415,
+      "num": 115415,
+      "word": "金智秀科切拉solo",
+      "onboard_time": 1681623148,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 114872,
       "num": 114872,
       "word": "腺样体面容有哪些特点",
@@ -15616,14 +15656,6 @@
       "word": "沙尘来袭时如何防护",
       "onboard_time": 1681175846,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113212,
-      "num": 198559,
-      "word": "女子辟谣妈妈做月嫂存款近500万",
-      "onboard_time": 1681621826,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -15996,7 +16028,7 @@
     },
     {
       "raw_hot": 99910,
-      "num": 1073863,
+      "num": 1345105,
       "word": "乘车跨越中老边境线梦幻又震撼",
       "onboard_time": 1681564948,
       "rank": 2,
@@ -16915,20 +16947,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 28661,
+      "num": 341681,
+      "word": "红人节福利到底有多卷",
+      "onboard_time": 1681621226,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 28108,
       "num": 28108,
       "word": "易烊千玺M榜年度影响力演员",
       "onboard_time": 1681048530,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 24843,
-      "num": 341681,
-      "word": "红人节福利到底有多卷",
-      "onboard_time": 1681621226,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 24690,
