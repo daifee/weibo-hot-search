@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681634002784,
+  "endTime": 1681636549473,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2378944,
+      "num": 2378944,
+      "word": "苹果设备不断要求输入AppleID密码",
+      "onboard_time": 1681631606,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2369704,
       "num": 502482,
       "word": "景甜曾说司藤救赎了灰色世界的自己",
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 2161860,
-      "num": 403303,
+      "num": 432423,
       "word": "陈都灵南航",
       "onboard_time": 1681627825,
       "rank": 10,
@@ -2291,14 +2299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1392849,
-      "num": 1392849,
-      "word": "苹果设备不断要求输入AppleID密码",
-      "onboard_time": 1681631606,
-      "rank": 3,
-      "category": "科技"
-    },
-    {
       "raw_hot": 1391865,
       "num": 1391865,
       "word": "娜扎好像敦煌神女下凡了",
@@ -2320,6 +2320,14 @@
       "word": "武汉大暴雨白天秒变黑夜",
       "onboard_time": 1680507929,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1384443,
+      "num": 1384443,
+      "word": "公务接待喝20元一瓶白酒被处分",
+      "onboard_time": 1681633166,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -3425,6 +3433,14 @@
       "onboard_time": 1680947908,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1031239,
+      "num": 804629,
+      "word": "官方称女演员坠亡演出无安全措施",
+      "onboard_time": 1681631667,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1029327,
@@ -4995,14 +5011,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 804629,
-      "num": 804629,
-      "word": "官方称女演员坠亡演出无安全措施",
-      "onboard_time": 1681631667,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 803376,
       "num": 803376,
       "word": "下班时间用微信工作可算作加班",
@@ -5969,6 +5977,14 @@
       "onboard_time": 1680450753,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 699884,
+      "num": 699884,
+      "word": "福宝和爷爷",
+      "onboard_time": 1681632866,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 699416,
@@ -9371,6 +9387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500304,
+      "num": 500304,
+      "word": "刘诗雯 乒坛没你不行",
+      "onboard_time": 1681635327,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500210,
       "num": 243854,
       "word": "面包店赠试吃吐司块被顾客差评",
@@ -9649,6 +9673,14 @@
       "onboard_time": 1680489748,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 486837,
+      "num": 416314,
+      "word": "多家银行向员工追薪",
+      "onboard_time": 1681634667,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 486751,
@@ -10752,6 +10784,14 @@
       "word": "INTO1告别演唱会泰国场",
       "onboard_time": 1680346350,
       "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 443194,
+      "num": 443194,
+      "word": "BLACKPINK 全开麦",
+      "onboard_time": 1681632748,
+      "rank": 14,
       "category": "音乐"
     },
     {
@@ -13187,12 +13227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363944,
-      "num": 363944,
-      "word": "BLACKPINK 全开麦",
-      "onboard_time": 1681632748,
-      "rank": 14,
-      "category": "音乐"
+      "raw_hot": 363889,
+      "num": 363889,
+      "word": "范丞丞被密室NPC插到鼻孔",
+      "onboard_time": 1681635208,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 363673,
@@ -13265,6 +13305,14 @@
       "onboard_time": 1680707794,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361514,
+      "num": 361514,
+      "word": "该不该把音乐节价格打下来",
+      "onboard_time": 1681632328,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 360807,
@@ -14475,14 +14523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330146,
-      "num": 330146,
-      "word": "福宝和爷爷",
-      "onboard_time": 1681632866,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 330136,
       "num": 330136,
       "word": "给一个6年全职主妇发了offer",
@@ -15145,14 +15185,6 @@
       "onboard_time": 1680921568,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 314033,
-      "num": 154303,
-      "word": "公务接待喝20元一瓶白酒被处分",
-      "onboard_time": 1681633166,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313891,
@@ -16129,6 +16161,14 @@
       "onboard_time": 1681560867,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292983,
+      "num": 292983,
+      "word": "宋雨琦周洁琼加盟一起露营吧2",
+      "onboard_time": 1681635026,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 292973,
@@ -17259,14 +17299,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 269736,
-      "num": 269736,
-      "word": "该不该把音乐节价格打下来",
-      "onboard_time": 1681632328,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 269652,
       "num": 269652,
       "word": "LGD",
@@ -17441,6 +17473,14 @@
       "onboard_time": 1681130126,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264978,
+      "num": 264978,
+      "word": "全红婵跳水世界杯银牌",
+      "onboard_time": 1681635806,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 264516,
@@ -18665,6 +18705,14 @@
       "onboard_time": 1681486407,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245100,
+      "num": 245100,
+      "word": "陈芋汐跳水世界杯金牌",
+      "onboard_time": 1681635689,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 245090,
@@ -20449,6 +20497,14 @@
       "onboard_time": 1680854249,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222301,
+      "num": 222301,
+      "word": "蜜雪冰城冰淇淋音乐节",
+      "onboard_time": 1681635990,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 221982,
@@ -22977,6 +23033,14 @@
       "onboard_time": 1681628845,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203681,
+      "num": 203681,
+      "word": "朱一龙日常生活vlog",
+      "onboard_time": 1681636047,
+      "rank": 26,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 203573,
@@ -27323,6 +27387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185749,
+      "num": 185749,
+      "word": "梅西C罗并列五大联赛历史射手王",
+      "onboard_time": 1681634489,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 185705,
       "num": 185705,
       "word": "北影节大师影像展推荐官海报",
@@ -28376,6 +28448,14 @@
       "word": "王菊路演状态",
       "onboard_time": 1681031486,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 177958,
+      "num": 177958,
+      "word": "金像奖",
+      "onboard_time": 1681636047,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -30217,6 +30297,14 @@
       "onboard_time": 1681123465,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162555,
+      "num": 162555,
+      "word": "全红婵陈芋汐断层晋级决赛",
+      "onboard_time": 1681635748,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 162510,
@@ -32699,6 +32787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141126,
+      "num": 141126,
+      "word": "跳水梦之队包揽全部7枚金牌",
+      "onboard_time": 1681635926,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141044,
       "num": 141044,
       "word": "湖人vs森林狼",
@@ -34499,6 +34595,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 122968,
+      "num": 122968,
+      "word": "跳水世界杯",
+      "onboard_time": 1681633767,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122951,
       "num": 122951,
       "word": "电竞百灵鸟一诺再上线",
@@ -36084,7 +36188,7 @@
     },
     {
       "raw_hot": 101408,
-      "num": 101408,
+      "num": 118479,
       "word": "詹姆斯儿子客串速度与激情10",
       "onboard_time": 1681633826,
       "rank": 42,
@@ -36499,14 +36603,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94368,
-      "num": 94368,
-      "word": "跳水世界杯",
-      "onboard_time": 1681633767,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94330,
       "num": 94330,
       "word": "SZ对战ACT",
@@ -36553,6 +36649,14 @@
       "onboard_time": 1680766408,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93217,
+      "num": 1481479,
+      "word": "中国人造太阳让科幻有望成为现实",
+      "onboard_time": 1681635449,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92990,
