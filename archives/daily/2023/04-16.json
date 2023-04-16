@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681658176167,
+  "endTime": 1681659203464,
   "band_list": [
     {
       "raw_hot": 2826834,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1693518,
+      "num": 1693518,
+      "word": "老娘已经80多天没有放假了",
+      "onboard_time": 1681654289,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1659423,
       "num": 1619720,
       "word": "官方回应炫富女喜提公租房",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1298168,
-      "num": 242811,
+      "num": 272125,
       "word": "叶一茜写给森碟的一封信",
       "onboard_time": 1681656150,
       "rank": 10,
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1219480,
-      "num": 1219480,
-      "word": "老娘已经80多天没有放假了",
-      "onboard_time": 1681654289,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 1192667,
+      "num": 276462,
+      "word": "罗云熙微博小号",
+      "onboard_time": 1681658188,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1145175,
@@ -811,6 +819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 379333,
+      "num": 379333,
+      "word": "特斯拉中国工厂普通工人月薪1万块",
+      "onboard_time": 1681653327,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374713,
       "num": 374713,
       "word": "杭州一学区房小区挤掉泡沫每平降3万",
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 373964,
-      "num": 236823,
+      "num": 259044,
       "word": "朱一龙 火锅脑袋",
       "onboard_time": 1681656929,
       "rank": 13,
@@ -929,14 +945,6 @@
       "onboard_time": 1681645106,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 318495,
-      "num": 252989,
-      "word": "特斯拉中国工厂普通工人月薪1万块",
-      "onboard_time": 1681653327,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317922,
@@ -1187,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246457,
+      "num": 246457,
+      "word": "DRG对战eStar",
+      "onboard_time": 1681649788,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245100,
       "num": 245100,
       "word": "陈芋汐跳水世界杯金牌",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1681617386,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244424,
+      "num": 244424,
+      "word": "特斯拉上海新工厂正式开启招聘",
+      "onboard_time": 1681656629,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243063,
@@ -1273,6 +1297,14 @@
       "onboard_time": 1681622488,
       "rank": 32,
       "category": "社会新闻,国内要闻"
+    },
+    {
+      "raw_hot": 226315,
+      "num": 189449,
+      "word": "听了龚俊凡尔赛黄景瑜贾乃亮想走",
+      "onboard_time": 1681658608,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 225193,
@@ -1363,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208269,
+      "num": 187200,
+      "word": "员工称在家养病却飞往海南遭解雇",
+      "onboard_time": 1681655010,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207454,
       "num": 207454,
       "word": "淄博政府回应经济酒店价格上千",
@@ -1401,6 +1441,14 @@
       "onboard_time": 1681650088,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203993,
+      "num": 111489,
+      "word": "大张伟严浩翔有梗",
+      "onboard_time": 1681658728,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 203712,
@@ -1651,14 +1699,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 178214,
-      "num": 178214,
-      "word": "员工称在家养病却飞往海南遭解雇",
-      "onboard_time": 1681655010,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177909,
       "num": 172809,
       "word": "杨紫琼出席香港电影金像奖",
@@ -1681,14 +1721,6 @@
       "onboard_time": 1681600216,
       "rank": 30,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 176514,
-      "num": 176514,
-      "word": "特斯拉上海新工厂正式开启招聘",
-      "onboard_time": 1681656629,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171697,
@@ -2401,14 +2433,6 @@
       "onboard_time": 1681595171,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 95091,
-      "num": 128462,
-      "word": "DRG对战eStar",
-      "onboard_time": 1681649788,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 93808,
