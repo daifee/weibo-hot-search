@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681637593199,
+  "endTime": 1681640212410,
   "band_list": [
     {
       "raw_hot": 2583696,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2161860,
-      "num": 492492,
+      "num": 634579,
       "word": "陈都灵南航",
       "onboard_time": 1681627825,
       "rank": 10,
@@ -43,19 +43,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1744785,
+      "num": 1744785,
+      "word": "公务接待喝20元一瓶白酒被处分",
+      "onboard_time": 1681633166,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1723972,
       "num": 1723972,
       "word": "安徽高空坠落杂技女演员已身亡",
       "onboard_time": 1681620089,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1505600,
-      "num": 1505600,
-      "word": "公务接待喝20元一瓶白酒被处分",
-      "onboard_time": 1681633166,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 705816,
+      "num": 705816,
+      "word": "范丞丞听到李晨声音的反应",
+      "onboard_time": 1681639526,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 701607,
       "num": 701607,
       "word": "曝淄博酒店网上标价千元前台仅需200",
@@ -275,6 +283,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 677337,
+      "num": 677337,
+      "word": "多家银行向员工追薪",
+      "onboard_time": 1681634667,
+      "rank": 11,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 659118,
       "num": 659118,
       "word": "1年内5名机车网红车祸身亡",
@@ -305,6 +321,14 @@
       "onboard_time": 1681617328,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 596820,
+      "num": 596820,
+      "word": "蜜雪冰城冰淇淋音乐节",
+      "onboard_time": 1681635990,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 594436,
@@ -355,14 +379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 519403,
-      "num": 519403,
-      "word": "多家银行向员工追薪",
-      "onboard_time": 1681634667,
-      "rank": 11,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 508617,
       "num": 508617,
       "word": "六公主连播朱一龙三部作品",
@@ -409,14 +425,6 @@
       "onboard_time": 1681610907,
       "rank": 12,
       "category": "社会新闻,音乐"
-    },
-    {
-      "raw_hot": 446275,
-      "num": 446275,
-      "word": "蜜雪冰城冰淇淋音乐节",
-      "onboard_time": 1681635990,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 443194,
@@ -571,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 395046,
+      "num": 395046,
+      "word": "女子吐槽淄博一宾馆一晚收费529元",
+      "onboard_time": 1681638447,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384914,
       "num": 384914,
       "word": "朴彩英嗓音状态",
@@ -587,6 +603,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 374481,
+      "num": 318809,
+      "word": "Jennie水兵月双马尾",
+      "onboard_time": 1681637547,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 369307,
       "num": 369307,
       "word": "12306候补平均兑现率已达70%",
@@ -601,6 +625,22 @@
       "onboard_time": 1681629024,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353049,
+      "num": 353049,
+      "word": "曝上瘾原定主演是宋威龙",
+      "onboard_time": 1681639408,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 347362,
+      "num": 347362,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336808,
@@ -763,8 +803,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 264961,
-      "num": 264961,
+      "raw_hot": 283698,
+      "num": 283698,
+      "word": "长月烬明",
+      "onboard_time": 1681638985,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278360,
+      "num": 278360,
       "word": "金像奖",
       "onboard_time": 1681636047,
       "rank": 31,
@@ -899,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220506,
+      "num": 194322,
+      "word": "幼儿职业技术学院",
+      "onboard_time": 1681638508,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 219487,
       "num": 128143,
       "word": "摆摊卖周边 去展览馆办展",
@@ -913,6 +969,14 @@
       "onboard_time": 1681570831,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212367,
+      "num": 212367,
+      "word": "TF家族演唱会全程回顾",
+      "onboard_time": 1681637845,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 210555,
@@ -1051,6 +1115,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 195978,
+      "num": 195978,
+      "word": "金像奖红毯",
+      "onboard_time": 1681636589,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194722,
       "num": 201612,
       "word": "电影爱很美味豆瓣开分7.8",
@@ -1064,14 +1136,6 @@
       "word": "张远首张个人实体专辑嘉宾",
       "onboard_time": 1681614984,
       "rank": 24,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 193256,
-      "num": 193256,
-      "word": "Jennie水兵月双马尾",
-      "onboard_time": 1681637547,
-      "rank": 26,
       "category": "音乐"
     },
     {
@@ -1091,12 +1155,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189550,
+      "num": 189550,
+      "word": "金智秀Flower末放舞台",
+      "onboard_time": 1681637368,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188855,
       "num": 118098,
       "word": "生气容易长结节吗",
       "onboard_time": 1681575028,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 188359,
+      "num": 188359,
+      "word": "拍摄者回应女子被围着泼水撕雨衣",
+      "onboard_time": 1681636768,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187824,
@@ -1131,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180553,
-      "num": 174877,
-      "word": "拍摄者回应女子被围着泼水撕雨衣",
-      "onboard_time": 1681636768,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179278,
       "num": 179278,
       "word": "红人节",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1681600216,
       "rank": 30,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 173664,
-      "num": 173664,
-      "word": "金像奖红毯",
-      "onboard_time": 1681636589,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 171697,
@@ -1219,12 +1283,28 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 164225,
+      "num": 164225,
+      "word": "极限挑战",
+      "onboard_time": 1681640065,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162555,
       "num": 162555,
       "word": "全红婵陈芋汐断层晋级决赛",
       "onboard_time": 1681635748,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160836,
+      "num": 1747622,
+      "word": "中国人造太阳让科幻有望成为现实",
+      "onboard_time": 1681635449,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160402,
@@ -1235,11 +1315,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159386,
-      "num": 1605245,
-      "word": "中国人造太阳让科幻有望成为现实",
-      "onboard_time": 1681635449,
-      "rank": 2,
+      "raw_hot": 158236,
+      "num": 1763781,
+      "word": "玉溪万人夹道欢送灭火英雄",
+      "onboard_time": 1681630706,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1259,6 +1339,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 156448,
+      "num": 156448,
+      "word": "LGD状态",
+      "onboard_time": 1681637547,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156258,
       "num": 156258,
       "word": "张雨绮好辣",
@@ -1273,14 +1361,6 @@
       "onboard_time": 1681637488,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 154008,
-      "num": 154008,
-      "word": "金智秀Flower末放舞台",
-      "onboard_time": 1681637368,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 153093,
@@ -1305,6 +1385,14 @@
       "onboard_time": 1681619788,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150813,
+      "num": 150813,
+      "word": "怦然3路透",
+      "onboard_time": 1681638386,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 150610,
@@ -1427,28 +1515,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 131385,
-      "num": 131385,
-      "word": "LGD状态",
-      "onboard_time": 1681637547,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130871,
       "num": 193093,
       "word": "张杰西安演唱会上教戏腔",
       "onboard_time": 1681623808,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 130179,
-      "num": 130179,
-      "word": "玉溪万人夹道欢送灭火英雄",
-      "onboard_time": 1681630706,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129925,
@@ -1499,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124076,
+      "num": 1425798,
+      "word": "学生团队用AI修复千名走失儿童旧照",
+      "onboard_time": 1681638625,
+      "rank": 4,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 123915,
       "num": 118065,
       "word": "陈粒演唱会",
@@ -1537,6 +1617,14 @@
       "onboard_time": 1681601840,
       "rank": 33,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 118691,
+      "num": 118691,
+      "word": "RW对战狼队",
+      "onboard_time": 1681639946,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 117016,
@@ -1665,6 +1753,14 @@
       "onboard_time": 1681610187,
       "rank": 37,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 104702,
+      "num": 104702,
+      "word": "水星的魔女",
+      "onboard_time": 1681639227,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 103936,
@@ -1859,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75446,
+      "num": 115083,
+      "word": "豪华品牌做电动车还有机会吗",
+      "onboard_time": 1681639886,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74368,
       "num": 117876,
       "word": "切尔西vs布莱顿",
@@ -1987,6 +2091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 33338,
+      "num": 127387,
+      "word": "超级红人节现场视频",
+      "onboard_time": 1681639227,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 33223,
       "num": 33223,
       "word": "张真源爱在终局之前预告",
@@ -2049,6 +2161,14 @@
       "onboard_time": 1681539926,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22813,
+      "num": 832587,
+      "word": "叶光富回忆太空之旅",
+      "onboard_time": 1681639106,
+      "rank": 6,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 21764,

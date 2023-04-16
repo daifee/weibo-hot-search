@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681637593199,
+  "endTime": 1681640212410,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 2161860,
-      "num": 492492,
+      "num": 634579,
       "word": "陈都灵南航",
       "onboard_time": 1681627825,
       "rank": 10,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1744785,
+      "num": 1744785,
+      "word": "公务接待喝20元一瓶白酒被处分",
+      "onboard_time": 1681633166,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1736788,
       "num": 1736788,
       "word": "吴尊友称新冠已经趋于结束",
@@ -784,14 +792,6 @@
       "word": "女子醉酒后在酒店遭两次性侵",
       "onboard_time": 1681298848,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1505600,
-      "num": 1505600,
-      "word": "公务接待喝20元一瓶白酒被处分",
-      "onboard_time": 1681633166,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2467,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705816,
+      "num": 705816,
+      "word": "范丞丞听到李晨声音的反应",
+      "onboard_time": 1681639526,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 705788,
       "num": 415648,
       "word": "杨紫泰国随拍",
@@ -2649,6 +2657,14 @@
       "onboard_time": 1681265485,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 677337,
+      "num": 677337,
+      "word": "多家银行向员工追薪",
+      "onboard_time": 1681634667,
+      "rank": 11,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 676884,
@@ -3297,6 +3313,14 @@
       "onboard_time": 1681479630,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 596820,
+      "num": 596820,
+      "word": "蜜雪冰城冰淇淋音乐节",
+      "onboard_time": 1681635990,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 594436,
@@ -4017,14 +4041,6 @@
       "onboard_time": 1681127488,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 519403,
-      "num": 519403,
-      "word": "多家银行向员工追薪",
-      "onboard_time": 1681634667,
-      "rank": 11,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 517579,
@@ -4793,14 +4809,6 @@
       "onboard_time": 1681260207,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 446275,
-      "num": 446275,
-      "word": "蜜雪冰城冰淇淋音乐节",
-      "onboard_time": 1681635990,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 445061,
@@ -5715,6 +5723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395046,
+      "num": 395046,
+      "word": "女子吐槽淄博一宾馆一晚收费529元",
+      "onboard_time": 1681638447,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394747,
       "num": 394747,
       "word": "王皓表情",
@@ -5905,6 +5921,14 @@
       "onboard_time": 1681623808,
       "rank": 16,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 374481,
+      "num": 318809,
+      "word": "Jennie水兵月双马尾",
+      "onboard_time": 1681637547,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 374043,
@@ -6291,6 +6315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353049,
+      "num": 353049,
+      "word": "曝上瘾原定主演是宋威龙",
+      "onboard_time": 1681639408,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351936,
       "num": 345006,
       "word": "马嘉祺你怎么这样",
@@ -6361,6 +6393,14 @@
       "onboard_time": 1681168459,
       "rank": 44,
       "category": "军事"
+    },
+    {
+      "raw_hot": 347362,
+      "num": 347362,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 346792,
@@ -7731,6 +7771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278360,
+      "num": 278360,
+      "word": "金像奖",
+      "onboard_time": 1681636047,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 276962,
       "num": 276962,
       "word": "腾讯视频待播剧招商看点",
@@ -7944,14 +7992,6 @@
       "word": "白鹿武戏没做满意哭了",
       "onboard_time": 1681130126,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 264961,
-      "num": 264961,
-      "word": "金像奖",
-      "onboard_time": 1681636047,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -9427,6 +9467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220506,
+      "num": 194322,
+      "word": "幼儿职业技术学院",
+      "onboard_time": 1681638508,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 220431,
       "num": 220431,
       "word": "徐明浩机场出发图",
@@ -9784,6 +9832,14 @@
       "word": "周杰伦演唱会天津站官宣",
       "onboard_time": 1681461748,
       "rank": 27,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 212367,
+      "num": 212367,
+      "word": "TF家族演唱会全程回顾",
+      "onboard_time": 1681637845,
+      "rank": 26,
       "category": "音乐"
     },
     {
@@ -11467,6 +11523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195978,
+      "num": 195978,
+      "word": "金像奖红毯",
+      "onboard_time": 1681636589,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195953,
       "num": 195953,
       "word": "王一博长空之王我们这代人预告",
@@ -11712,14 +11776,6 @@
       "word": "张远首张个人实体专辑嘉宾",
       "onboard_time": 1681614984,
       "rank": 24,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 193256,
-      "num": 193256,
-      "word": "Jennie水兵月双马尾",
-      "onboard_time": 1681637547,
-      "rank": 26,
       "category": "音乐"
     },
     {
@@ -12011,6 +12067,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 189550,
+      "num": 189550,
+      "word": "金智秀Flower末放舞台",
+      "onboard_time": 1681637368,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189445,
       "num": 167273,
       "word": "荣耀笔记本",
@@ -12145,6 +12209,14 @@
       "onboard_time": 1681442908,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188359,
+      "num": 188359,
+      "word": "拍摄者回应女子被围着泼水撕雨衣",
+      "onboard_time": 1681636768,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188341,
@@ -12731,14 +12803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180553,
-      "num": 174877,
-      "word": "拍摄者回应女子被围着泼水撕雨衣",
-      "onboard_time": 1681636768,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180533,
       "num": 180533,
       "word": "原著里的冥夜桑酒",
@@ -13072,14 +13136,6 @@
       "word": "北影节将放映悲情城市4K数字版",
       "onboard_time": 1681394854,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 173664,
-      "num": 173664,
-      "word": "金像奖红毯",
-      "onboard_time": 1681636589,
-      "rank": 32,
       "category": "影视"
     },
     {
@@ -13643,6 +13699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164225,
+      "num": 164225,
+      "word": "极限挑战",
+      "onboard_time": 1681047391,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164093,
       "num": 184970,
       "word": "灌篮高手北大首映",
@@ -13899,6 +13963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160836,
+      "num": 1747622,
+      "word": "中国人造太阳让科幻有望成为现实",
+      "onboard_time": 1681635449,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160827,
       "num": 160827,
       "word": "家里网不好的原因找到了",
@@ -13971,14 +14043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159386,
-      "num": 1605245,
-      "word": "中国人造太阳让科幻有望成为现实",
-      "onboard_time": 1681635449,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159026,
       "num": 208344,
       "word": "九城上演橙色灯光秀",
@@ -14041,6 +14105,14 @@
       "onboard_time": 1681366109,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158236,
+      "num": 1763781,
+      "word": "玉溪万人夹道欢送灭火英雄",
+      "onboard_time": 1681630706,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157907,
@@ -14113,6 +14185,14 @@
       "onboard_time": 1681348049,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156448,
+      "num": 156448,
+      "word": "LGD状态",
+      "onboard_time": 1681637547,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 156305,
@@ -14281,14 +14361,6 @@
       "onboard_time": 1681372289,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154008,
-      "num": 154008,
-      "word": "金智秀Flower末放舞台",
-      "onboard_time": 1681637368,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 153956,
@@ -14481,6 +14553,14 @@
       "onboard_time": 1681564048,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150813,
+      "num": 150813,
+      "word": "怦然3路透",
+      "onboard_time": 1681638386,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 150610,
@@ -15419,14 +15499,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 131385,
-      "num": 131385,
-      "word": "LGD状态",
-      "onboard_time": 1681637547,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130871,
       "num": 193093,
       "word": "张杰西安演唱会上教戏腔",
@@ -15473,14 +15545,6 @@
       "onboard_time": 1681375410,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 130179,
-      "num": 130179,
-      "word": "玉溪万人夹道欢送灭火英雄",
-      "onboard_time": 1681630706,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130168,
@@ -15763,6 +15827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124076,
+      "num": 1425798,
+      "word": "学生团队用AI修复千名走失儿童旧照",
+      "onboard_time": 1681638625,
+      "rank": 4,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 124034,
       "num": 124034,
       "word": "原来熊猫也喜欢看热闹",
@@ -16017,6 +16089,14 @@
       "onboard_time": 1681364908,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118691,
+      "num": 118691,
+      "word": "RW对战狼队",
+      "onboard_time": 1681639946,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 118336,
@@ -16489,6 +16569,14 @@
       "onboard_time": 1681135350,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 104702,
+      "num": 104702,
+      "word": "水星的魔女",
+      "onboard_time": 1681639227,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 104522,
@@ -17099,6 +17187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75446,
+      "num": 115083,
+      "word": "豪华品牌做电动车还有机会吗",
+      "onboard_time": 1681639886,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 75137,
       "num": 75137,
       "word": "职场title升级",
@@ -17265,14 +17361,6 @@
       "onboard_time": 1681323494,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58277,
-      "num": 58277,
-      "word": "极限挑战",
-      "onboard_time": 1681047391,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 57090,
@@ -17491,6 +17579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33338,
+      "num": 127387,
+      "word": "超级红人节现场视频",
+      "onboard_time": 1681639227,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 33223,
       "num": 33223,
       "word": "张真源爱在终局之前预告",
@@ -17577,6 +17673,14 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22813,
+      "num": 832587,
+      "word": "叶光富回忆太空之旅",
+      "onboard_time": 1681639106,
+      "rank": 6,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 21764,
