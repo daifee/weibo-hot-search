@@ -1,10 +1,10 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681618829963,
+  "endTime": 1681619631205,
   "band_list": [
     {
-      "raw_hot": 1890933,
-      "num": 1890933,
+      "raw_hot": 2146519,
+      "num": 2146519,
       "word": "宝妈梦到儿子流血查监控见保姆动粗",
       "onboard_time": 1681610847,
       "rank": 11,
@@ -65,6 +65,14 @@
       "onboard_time": 1681568309,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 910732,
+      "num": 910732,
+      "word": "科切拉",
+      "onboard_time": 1681618527,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 909281,
@@ -139,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689565,
+      "num": 689565,
+      "word": "自助餐饮料柜每瓶都是山寨货",
+      "onboard_time": 1681616424,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659118,
       "num": 659118,
       "word": "1年内5名机车网红车祸身亡",
       "onboard_time": 1681610847,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 604702,
-      "num": 604702,
-      "word": "科切拉",
-      "onboard_time": 1681618527,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 601716,
@@ -163,20 +171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584041,
+      "num": 584041,
+      "word": "朴彩英科切拉",
+      "onboard_time": 1681618527,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 573209,
       "num": 573209,
       "word": "官方回应多名中学生春游落水伤亡",
       "onboard_time": 1681603823,
       "rank": 6,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 571485,
-      "num": 429735,
-      "word": "自助餐饮料柜每瓶都是山寨货",
-      "onboard_time": 1681616424,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564011,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559412,
+      "num": 559412,
+      "word": "蚌埠 长月烬明",
+      "onboard_time": 1681617328,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 508617,
       "num": 508617,
       "word": "六公主连播朱一龙三部作品",
@@ -195,12 +211,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 480065,
-      "num": 480065,
-      "word": "蚌埠 长月烬明",
-      "onboard_time": 1681617328,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 500459,
+      "num": 500459,
+      "word": "BLACKPINK出演美国最大音乐庆典",
+      "onboard_time": 1681618947,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 476426,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317307,
+      "num": 317307,
+      "word": "别让泼水节变流氓节",
+      "onboard_time": 1681616127,
+      "rank": 14,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 315130,
       "num": 240995,
       "word": "罗云熙的润玉VS澹台烬",
@@ -355,20 +379,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 309240,
+      "num": 246276,
+      "word": "李一桐又当卧底了",
+      "onboard_time": 1681617568,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308768,
       "num": 308768,
       "word": "成龙退票事件完整视频",
       "onboard_time": 1681558467,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 306994,
-      "num": 306994,
-      "word": "朴彩英科切拉",
-      "onboard_time": 1681618527,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 304338,
@@ -411,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295625,
+      "num": 295625,
+      "word": "下半年选秀或将重启",
+      "onboard_time": 1681618407,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290304,
-      "num": 208851,
+      "num": 218166,
       "word": "小伙的胡子会移动全球不到40例",
       "onboard_time": 1681611086,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287134,
-      "num": 307891,
-      "word": "别让泼水节变流氓节",
-      "onboard_time": 1681616127,
-      "rank": 14,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 263805,
@@ -443,12 +467,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 257568,
-      "num": 228491,
-      "word": "李一桐又当卧底了",
-      "onboard_time": 1681617568,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 257451,
+      "num": 257451,
+      "word": "张兰称八岁五岁小孩都喜欢看她直播",
+      "onboard_time": 1681617208,
+      "rank": 19,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 251808,
@@ -491,20 +515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230833,
+      "num": 200892,
+      "word": "吴奇隆空中一字马",
+      "onboard_time": 1681618947,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230419,
       "num": 230419,
       "word": "girl门",
       "onboard_time": 1681607549,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 230226,
-      "num": 230226,
-      "word": "张兰称八岁五岁小孩都喜欢看她直播",
-      "onboard_time": 1681617208,
-      "rank": 19,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 219487,
@@ -595,6 +619,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 194722,
+      "num": 201612,
+      "word": "电影爱很美味豆瓣开分7.8",
+      "onboard_time": 1681618708,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193472,
       "num": 193472,
       "word": "张远首张个人实体专辑嘉宾",
@@ -608,14 +640,6 @@
       "word": "长月烬明剧方否认抄袭",
       "onboard_time": 1681599916,
       "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 189341,
-      "num": 201612,
-      "word": "电影爱很美味豆瓣开分7.8",
-      "onboard_time": 1681618708,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -667,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169136,
+      "num": 200796,
+      "word": "丁程鑫北电汇演",
+      "onboard_time": 1681619127,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169052,
       "num": 118078,
       "word": "张杰在西安唱大美中华",
@@ -697,14 +729,6 @@
       "onboard_time": 1681600698,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156884,
-      "num": 201573,
-      "word": "下半年选秀或将重启",
-      "onboard_time": 1681618407,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 156571,
@@ -771,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133841,
+      "num": 200777,
+      "word": "檀健次首张专辑歌单",
+      "onboard_time": 1681619608,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133571,
       "num": 133571,
       "word": "Tabe的BP被爆",
@@ -817,6 +849,14 @@
       "onboard_time": 1681612826,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125579,
+      "num": 200772,
+      "word": "悬疑剧PTSD治好了",
+      "onboard_time": 1681619007,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 123915,
