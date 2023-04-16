@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681641204618,
+  "endTime": 1681643600472,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -939,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1373134,
+      "num": 1029328,
+      "word": "官方称女演员坠亡演出无安全措施",
+      "onboard_time": 1681631667,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1344149,
       "num": 1344149,
       "word": "肯德基 少爷和我",
@@ -1091,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1237872,
+      "num": 1237872,
+      "word": "范丞丞听到李晨声音的反应",
+      "onboard_time": 1681639526,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1229566,
       "num": 1229566,
       "word": "罗云熙白鹿发文告别冥夜桑酒",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1681398392,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1159778,
-      "num": 1159778,
-      "word": "范丞丞听到李晨声音的反应",
-      "onboard_time": 1681639526,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1159091,
@@ -1441,14 +1449,6 @@
       "onboard_time": 1681214726,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1031239,
-      "num": 996064,
-      "word": "官方称女演员坠亡演出无安全措施",
-      "onboard_time": 1681631667,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1001786,
@@ -1993,6 +1993,14 @@
       "onboard_time": 1681316664,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 831975,
+      "num": 831975,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 831893,
@@ -3137,14 +3145,6 @@
       "onboard_time": 1681392092,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 616227,
-      "num": 616227,
-      "word": "泼水节被撕扯雨衣当事女生发声",
-      "onboard_time": 1681639047,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614539,
@@ -4579,6 +4579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459855,
+      "num": 459855,
+      "word": "女子吐槽淄博一宾馆一晚收费529元",
+      "onboard_time": 1681638447,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459760,
       "num": 459760,
       "word": "关晓彤吊带皮裙",
@@ -4681,14 +4689,6 @@
       "onboard_time": 1681389028,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 454269,
-      "num": 454269,
-      "word": "女子吐槽淄博一宾馆一晚收费529元",
-      "onboard_time": 1681638447,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454123,
@@ -5835,6 +5835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387752,
+      "num": 387752,
+      "word": "无业男子冒充清华研究生成网红",
+      "onboard_time": 1681641927,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386606,
       "num": 835579,
       "word": "28岁妈妈离世捐器官帮更多家庭团圆",
@@ -5921,6 +5929,14 @@
       "onboard_time": 1681391250,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 379511,
+      "num": 379511,
+      "word": "aespa回归曲是夏日风",
+      "onboard_time": 1681642226,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 377306,
@@ -7707,6 +7723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282601,
+      "num": 1425798,
+      "word": "学生团队用AI修复千名走失儿童旧照",
+      "onboard_time": 1681638625,
+      "rank": 4,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 282535,
       "num": 282535,
       "word": "北京国安",
@@ -7899,6 +7923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269066,
+      "num": 269066,
+      "word": "幼儿职业技术学院",
+      "onboard_time": 1681638508,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 267916,
       "num": 267916,
       "word": "孙颖莎4比0陈梦",
@@ -8073,14 +8105,6 @@
       "onboard_time": 1681102533,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261885,
-      "num": 194322,
-      "word": "幼儿职业技术学院",
-      "onboard_time": 1681638508,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 261611,
@@ -8393,6 +8417,14 @@
       "onboard_time": 1681569150,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 250955,
+      "num": 250955,
+      "word": "陈妍希说白宇的命也是命",
+      "onboard_time": 1681641146,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 250706,
@@ -8769,6 +8801,14 @@
       "onboard_time": 1681181306,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238399,
+      "num": 238399,
+      "word": "极限挑战",
+      "onboard_time": 1681047391,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 238211,
@@ -11107,6 +11147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198536,
+      "num": 189875,
+      "word": "马苏金像奖复古名伶造型",
+      "onboard_time": 1681643126,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198505,
       "num": 198505,
       "word": "MTG战胜TTG",
@@ -11555,6 +11603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195644,
+      "num": 195644,
+      "word": "严浩翔北电汇报演出",
+      "onboard_time": 1681642648,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195606,
       "num": 173607,
       "word": "音悦台APP已开放下载",
@@ -11875,14 +11931,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 192282,
-      "num": 192282,
-      "word": "极限挑战",
-      "onboard_time": 1681047391,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192173,
       "num": 192173,
       "word": "张晋拍动作戏受伤",
@@ -12025,6 +12073,14 @@
       "onboard_time": 1681352906,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190569,
+      "num": 190569,
+      "word": "灌篮高手开分",
+      "onboard_time": 1681641088,
+      "rank": 47,
+      "category": "影视,游戏"
     },
     {
       "raw_hot": 190115,
@@ -12411,6 +12467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186741,
+      "num": 186741,
+      "word": "道在廷发布会",
+      "onboard_time": 1681642706,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186738,
       "num": 186738,
       "word": "罗云熙澹台烬挑眉杀合辑",
@@ -12747,6 +12811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 182361,
+      "num": 182361,
+      "word": "RC对战GW",
+      "onboard_time": 1681643006,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182156,
       "num": 182156,
       "word": "长空之王逐梦蓝天第一课",
@@ -12817,14 +12889,6 @@
       "onboard_time": 1681353927,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180543,
-      "num": 1425798,
-      "word": "学生团队用AI修复千名走失儿童旧照",
-      "onboard_time": 1681638625,
-      "rank": 4,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 180533,
@@ -14483,6 +14547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151905,
+      "num": 151905,
+      "word": "怦然3路透",
+      "onboard_time": 1681638386,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151736,
       "num": 151736,
       "word": "秦岚暴打渣男柠檬茶",
@@ -14561,14 +14633,6 @@
       "onboard_time": 1681564048,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150970,
-      "num": 150970,
-      "word": "怦然3路透",
-      "onboard_time": 1681638386,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 150610,
@@ -15267,6 +15331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137752,
+      "num": 137752,
+      "word": "自考英语二",
+      "onboard_time": 1681640425,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 137683,
       "num": 137683,
       "word": "为什么说销售是最磨炼人的岗位",
@@ -15963,6 +16035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122022,
+      "num": 122022,
+      "word": "杨紫琼出席香港电影金像奖",
+      "onboard_time": 1681643247,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121983,
       "num": 121983,
       "word": "儿时的友情注定渐行渐远吗",
@@ -16299,14 +16379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112435,
-      "num": 112435,
-      "word": "灌篮高手开分",
-      "onboard_time": 1681641088,
-      "rank": 47,
-      "category": "影视,游戏"
-    },
-    {
       "raw_hot": 112099,
       "num": 112099,
       "word": "苏丹航空暂停国内国际航班",
@@ -16360,14 +16432,6 @@
       "word": "燃烧的巴黎圣母院",
       "onboard_time": 1681037784,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 110582,
-      "num": 110582,
-      "word": "陈妍希说白宇的命也是命",
-      "onboard_time": 1681641146,
-      "rank": 48,
       "category": "影视"
     },
     {
@@ -16723,6 +16787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99920,
+      "num": 86745,
+      "word": "总台独家影像再揭日寇滔天罪行",
+      "onboard_time": 1681642586,
+      "rank": 49,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 99910,
       "num": 1345105,
       "word": "乘车跨越中老边境线梦幻又震撼",
@@ -17049,6 +17121,14 @@
       "onboard_time": 1681419732,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 86899,
+      "num": 86899,
+      "word": "激光雷达是智商税吗",
+      "onboard_time": 1681643366,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 86533,
@@ -17675,12 +17755,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 28614,
+      "num": 1035289,
+      "word": "叶光富回忆太空之旅",
+      "onboard_time": 1681639106,
+      "rank": 6,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 28108,
       "num": 28108,
       "word": "易烊千玺M榜年度影响力演员",
       "onboard_time": 1681048530,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 27792,
+      "num": 134554,
+      "word": "笑点低的人玩不了这游戏",
+      "onboard_time": 1681642827,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 24690,
@@ -17705,14 +17801,6 @@
       "onboard_time": 1681066814,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23146,
-      "num": 1035289,
-      "word": "叶光富回忆太空之旅",
-      "onboard_time": 1681639106,
-      "rank": 6,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 21764,

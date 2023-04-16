@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681641204618,
+  "endTime": 1681643600472,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2363,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1373134,
+      "num": 1029328,
+      "word": "官方称女演员坠亡演出无安全措施",
+      "onboard_time": 1681631667,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1368434,
       "num": 1368434,
       "word": "长月烬明化妆师",
@@ -2699,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237872,
+      "num": 1237872,
+      "word": "范丞丞听到李晨声音的反应",
+      "onboard_time": 1681639526,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1229566,
       "num": 1229566,
       "word": "罗云熙白鹿发文告别冥夜桑酒",
@@ -2881,14 +2897,6 @@
       "onboard_time": 1681043127,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1159778,
-      "num": 1159778,
-      "word": "范丞丞听到李晨声音的反应",
-      "onboard_time": 1681639526,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1159091,
@@ -3441,14 +3449,6 @@
       "onboard_time": 1680947908,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1031239,
-      "num": 996064,
-      "word": "官方称女演员坠亡演出无安全措施",
-      "onboard_time": 1681631667,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1029327,
@@ -4801,6 +4801,14 @@
       "onboard_time": 1681316664,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 831975,
+      "num": 831975,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 831893,
@@ -7257,14 +7265,6 @@
       "onboard_time": 1681392092,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 616227,
-      "num": 616227,
-      "word": "泼水节被撕扯雨衣当事女生发声",
-      "onboard_time": 1681639047,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 614539,
@@ -10323,6 +10323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 459855,
+      "num": 459855,
+      "word": "女子吐槽淄博一宾馆一晚收费529元",
+      "onboard_time": 1681638447,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459760,
       "num": 459760,
       "word": "关晓彤吊带皮裙",
@@ -10529,14 +10537,6 @@
       "onboard_time": 1680874771,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 454269,
-      "num": 454269,
-      "word": "女子吐槽淄博一宾馆一晚收费529元",
-      "onboard_time": 1681638447,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 454263,
@@ -12683,6 +12683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 387752,
+      "num": 387752,
+      "word": "无业男子冒充清华研究生成网红",
+      "onboard_time": 1681641927,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387306,
       "num": 387306,
       "word": "众星悼念坂本龙一",
@@ -12897,6 +12905,14 @@
       "onboard_time": 1680396986,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379511,
+      "num": 379511,
+      "word": "aespa回归曲是夏日风",
+      "onboard_time": 1681642226,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 379211,
@@ -16747,6 +16763,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 282601,
+      "num": 1425798,
+      "word": "学生团队用AI修复千名走失儿童旧照",
+      "onboard_time": 1681638625,
+      "rank": 4,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 282545,
       "num": 282545,
       "word": "宋慧乔获视后概率有多大",
@@ -17387,6 +17411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269066,
+      "num": 269066,
+      "word": "幼儿职业技术学院",
+      "onboard_time": 1681638508,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 268994,
       "num": 268994,
       "word": "北京最难约的博物馆竟不是故宫",
@@ -17713,14 +17745,6 @@
       "onboard_time": 1680496777,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261885,
-      "num": 194322,
-      "word": "幼儿职业技术学院",
-      "onboard_time": 1681638508,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 261783,
@@ -18449,6 +18473,14 @@
       "onboard_time": 1680509912,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250955,
+      "num": 250955,
+      "word": "陈妍希说白宇的命也是命",
+      "onboard_time": 1681641146,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 250866,
@@ -24611,6 +24643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198536,
+      "num": 189875,
+      "word": "马苏金像奖复古名伶造型",
+      "onboard_time": 1681643126,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198524,
       "num": 198524,
       "word": "李现怼脸动图",
@@ -25393,6 +25433,14 @@
       "onboard_time": 1681389749,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195644,
+      "num": 195644,
+      "word": "严浩翔北电汇报演出",
+      "onboard_time": 1681642648,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 195626,
@@ -26467,6 +26515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190569,
+      "num": 190569,
+      "word": "灌篮高手开分",
+      "onboard_time": 1681641088,
+      "rank": 47,
+      "category": "影视,游戏"
+    },
+    {
       "raw_hot": 190548,
       "num": 149420,
       "word": "马思唯歌词",
@@ -27307,6 +27363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186741,
+      "num": 186741,
+      "word": "道在廷发布会",
+      "onboard_time": 1681642706,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186738,
       "num": 186738,
       "word": "罗云熙澹台烬挑眉杀合辑",
@@ -28051,6 +28115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182361,
+      "num": 182361,
+      "word": "RC对战GW",
+      "onboard_time": 1681643006,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182346,
       "num": 182346,
       "word": "白敬亭春日海边随拍",
@@ -28297,14 +28369,6 @@
       "onboard_time": 1680666810,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180543,
-      "num": 1425798,
-      "word": "学生团队用AI修复千名走失儿童旧照",
-      "onboard_time": 1681638625,
-      "rank": 4,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 180533,
@@ -31683,6 +31747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151905,
+      "num": 151905,
+      "word": "怦然3路透",
+      "onboard_time": 1681638386,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151794,
       "num": 199676,
       "word": "有这样的老师天天都不舍得下课",
@@ -31801,14 +31873,6 @@
       "onboard_time": 1681564048,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150970,
-      "num": 150970,
-      "word": "怦然3路透",
-      "onboard_time": 1681638386,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 150691,
@@ -33273,6 +33337,14 @@
       "onboard_time": 1680944485,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137752,
+      "num": 137752,
+      "word": "自考英语二",
+      "onboard_time": 1681640425,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 137751,
@@ -34859,6 +34931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122022,
+      "num": 122022,
+      "word": "杨紫琼出席香港电影金像奖",
+      "onboard_time": 1681643247,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 121983,
       "num": 121983,
       "word": "儿时的友情注定渐行渐远吗",
@@ -35603,14 +35683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112435,
-      "num": 112435,
-      "word": "灌篮高手开分",
-      "onboard_time": 1681641088,
-      "rank": 47,
-      "category": "影视,游戏"
-    },
-    {
       "raw_hot": 112299,
       "num": 112299,
       "word": "傲寒戈娅四杀",
@@ -35721,14 +35793,6 @@
       "onboard_time": 1680602429,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110582,
-      "num": 110582,
-      "word": "陈妍希说白宇的命也是命",
-      "onboard_time": 1681641146,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 110556,
@@ -36475,6 +36539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99920,
+      "num": 86745,
+      "word": "总台独家影像再揭日寇滔天罪行",
+      "onboard_time": 1681642586,
+      "rank": 49,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 99910,
       "num": 1345105,
       "word": "乘车跨越中老边境线梦幻又震撼",
@@ -37121,6 +37193,14 @@
       "onboard_time": 1681419732,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 86899,
+      "num": 86899,
+      "word": "激光雷达是智商税吗",
+      "onboard_time": 1681643366,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 86533,
@@ -38339,6 +38419,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 28614,
+      "num": 1035289,
+      "word": "叶光富回忆太空之旅",
+      "onboard_time": 1681639106,
+      "rank": 6,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 27792,
+      "num": 134554,
+      "word": "笑点低的人玩不了这游戏",
+      "onboard_time": 1681642827,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
@@ -38385,14 +38481,6 @@
       "onboard_time": 1680248546,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23146,
-      "num": 1035289,
-      "word": "叶光富回忆太空之旅",
-      "onboard_time": 1681639106,
-      "rank": 6,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 21764,

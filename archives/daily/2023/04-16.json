@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681641204618,
+  "endTime": 1681643600472,
   "band_list": [
     {
       "raw_hot": 2583696,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1373134,
+      "num": 1029328,
+      "word": "官方称女演员坠亡演出无安全措施",
+      "onboard_time": 1681631667,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1344149,
       "num": 1344149,
       "word": "肯德基 少爷和我",
@@ -91,20 +99,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1237872,
+      "num": 1237872,
+      "word": "范丞丞听到李晨声音的反应",
+      "onboard_time": 1681639526,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1227218,
       "num": 1227218,
       "word": "老人捡信用卡猜出密码取现被判刑",
       "onboard_time": 1681623985,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1159778,
-      "num": 1159778,
-      "word": "范丞丞听到李晨声音的反应",
-      "onboard_time": 1681639526,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 1145175,
@@ -121,14 +129,6 @@
       "onboard_time": 1681623209,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1031239,
-      "num": 996064,
-      "word": "官方称女演员坠亡演出无安全措施",
-      "onboard_time": 1681631667,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1016189,
@@ -193,6 +193,14 @@
       "onboard_time": 1681625491,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 831975,
+      "num": 831975,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827197,
@@ -315,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 616227,
-      "num": 616227,
-      "word": "泼水节被撕扯雨衣当事女生发声",
-      "onboard_time": 1681639047,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 601716,
       "num": 117992,
       "word": "李维嘉回复网友评论",
@@ -427,8 +427,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 454269,
-      "num": 454269,
+      "raw_hot": 459855,
+      "num": 459855,
       "word": "女子吐槽淄博一宾馆一晚收费529元",
       "onboard_time": 1681638447,
       "rank": 15,
@@ -611,11 +611,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 387752,
+      "num": 387752,
+      "word": "无业男子冒充清华研究生成网红",
+      "onboard_time": 1681641927,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384914,
       "num": 384914,
       "word": "朴彩英嗓音状态",
       "onboard_time": 1681626626,
       "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 379511,
+      "num": 379511,
+      "word": "aespa回归曲是夏日风",
+      "onboard_time": 1681642226,
+      "rank": 15,
       "category": "音乐"
     },
     {
@@ -811,6 +827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 282601,
+      "num": 1425798,
+      "word": "学生团队用AI修复千名走失儿童旧照",
+      "onboard_time": 1681638625,
+      "rank": 4,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 278360,
       "num": 278360,
       "word": "金像奖",
@@ -819,20 +843,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269066,
+      "num": 269066,
+      "word": "幼儿职业技术学院",
+      "onboard_time": 1681638508,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 263805,
       "num": 263805,
       "word": "法国抗议者冲进LV总部",
       "onboard_time": 1681604846,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261885,
-      "num": 194322,
-      "word": "幼儿职业技术学院",
-      "onboard_time": 1681638508,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 259878,
@@ -857,6 +881,14 @@
       "onboard_time": 1681574189,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250955,
+      "num": 250955,
+      "word": "陈妍希说白宇的命也是命",
+      "onboard_time": 1681641146,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 250178,
@@ -904,6 +936,14 @@
       "word": "女子推理社",
       "onboard_time": 1681617386,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238399,
+      "num": 238399,
+      "word": "极限挑战",
+      "onboard_time": 1681640065,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1091,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198536,
+      "num": 189875,
+      "word": "马苏金像奖复古名伶造型",
+      "onboard_time": 1681643126,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197191,
       "num": 197191,
       "word": "梅西C罗并列五大联赛历史射手王",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1681636589,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195644,
+      "num": 195644,
+      "word": "严浩翔北电汇报演出",
+      "onboard_time": 1681642648,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 194912,
@@ -1155,20 +1211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192282,
-      "num": 192282,
-      "word": "极限挑战",
-      "onboard_time": 1681640065,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190704,
       "num": 190704,
       "word": "长月烬明剧方否认抄袭",
       "onboard_time": 1681599916,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190569,
+      "num": 190569,
+      "word": "灌篮高手开分",
+      "onboard_time": 1681641088,
+      "rank": 47,
+      "category": "影视,游戏"
     },
     {
       "raw_hot": 189550,
@@ -1211,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186741,
+      "num": 186741,
+      "word": "道在廷发布会",
+      "onboard_time": 1681642706,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186143,
       "num": 201533,
       "word": "极限挑战第九季开播",
@@ -1219,20 +1283,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182361,
+      "num": 182361,
+      "word": "RC对战GW",
+      "onboard_time": 1681643006,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181927,
       "num": 181927,
       "word": "郑秀妍开北京首店",
       "onboard_time": 1681559186,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180543,
-      "num": 1425798,
-      "word": "学生团队用AI修复千名走失儿童旧照",
-      "onboard_time": 1681638625,
-      "rank": 4,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 179278,
@@ -1387,20 +1451,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 151905,
+      "num": 151905,
+      "word": "怦然3路透",
+      "onboard_time": 1681638386,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151159,
       "num": 198560,
       "word": "科切拉直播",
       "onboard_time": 1681619788,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 150970,
-      "num": 150970,
-      "word": "怦然3路透",
-      "onboard_time": 1681638386,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 150610,
@@ -1473,6 +1537,14 @@
       "onboard_time": 1681624169,
       "rank": 33,
       "category": "网红,幽默"
+    },
+    {
+      "raw_hot": 137752,
+      "num": 137752,
+      "word": "自考英语二",
+      "onboard_time": 1681640425,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 137147,
@@ -1619,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122022,
+      "num": 122022,
+      "word": "杨紫琼出席香港电影金像奖",
+      "onboard_time": 1681643247,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 120947,
       "num": 120947,
       "word": "长空之王导演谈创作缘起",
@@ -1675,14 +1755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112435,
-      "num": 112435,
-      "word": "灌篮高手开分",
-      "onboard_time": 1681641088,
-      "rank": 47,
-      "category": "影视,游戏"
-    },
-    {
       "raw_hot": 112099,
       "num": 112099,
       "word": "苏丹航空暂停国内国际航班",
@@ -1713,14 +1785,6 @@
       "onboard_time": 1681552586,
       "rank": 25,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 110582,
-      "num": 110582,
-      "word": "陈妍希说白宇的命也是命",
-      "onboard_time": 1681641146,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 109238,
@@ -1835,6 +1899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 99920,
+      "num": 86745,
+      "word": "总台独家影像再揭日寇滔天罪行",
+      "onboard_time": 1681642586,
+      "rank": 49,
+      "category": "军事,国内要闻"
+    },
+    {
       "raw_hot": 99044,
       "num": 99044,
       "word": "NBA",
@@ -1921,6 +1993,14 @@
       "onboard_time": 1681614027,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86899,
+      "num": 86899,
+      "word": "激光雷达是智商税吗",
+      "onboard_time": 1681643366,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 84668,
@@ -2187,20 +2267,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 28614,
+      "num": 1035289,
+      "word": "叶光富回忆太空之旅",
+      "onboard_time": 1681639106,
+      "rank": 6,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 27792,
+      "num": 134554,
+      "word": "笑点低的人玩不了这游戏",
+      "onboard_time": 1681642827,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 24855,
       "num": 46144,
       "word": "JDG对战BLG",
       "onboard_time": 1681539926,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 23146,
-      "num": 1035289,
-      "word": "叶光富回忆太空之旅",
-      "onboard_time": 1681639106,
-      "rank": 6,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 21764,
