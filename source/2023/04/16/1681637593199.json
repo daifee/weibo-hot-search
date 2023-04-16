@@ -1,0 +1,410 @@
+{
+  "runTime": 1681637593199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2583696,
+        "num": 2583696,
+        "word": "苹果设备不断要求输入AppleID密码",
+        "onboard_time": 1681631606,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1713885,
+        "num": 1713885,
+        "word": "回忆专用小马甲求婚",
+        "onboard_time": 1681630945,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159386,
+        "num": 1605245,
+        "word": "中国人造太阳让科幻有望成为现实",
+        "onboard_time": 1681635449,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1505600,
+        "num": 1505600,
+        "word": "公务接待喝20元一瓶白酒被处分",
+        "onboard_time": 1681633166,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726485,
+        "num": 726485,
+        "word": "全红婵跳水世界杯银牌",
+        "onboard_time": 1681635806,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 887561,
+        "num": 699689,
+        "word": "官方称女演员坠亡演出无安全措施",
+        "onboard_time": 1681631667,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663119,
+        "num": 663119,
+        "word": "福宝和爷爷",
+        "onboard_time": 1681632866,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 654618,
+        "num": 654618,
+        "word": "刘诗雯 乒坛没你不行",
+        "onboard_time": 1681635327,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528500,
+        "num": 528500,
+        "word": "老人捡信用卡猜出密码取现被判刑",
+        "onboard_time": 1681623985,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519403,
+        "num": 519403,
+        "word": "多家银行向员工追薪",
+        "onboard_time": 1681634667,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1460587,
+        "num": 492492,
+        "word": "陈都灵南航",
+        "onboard_time": 1681627825,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446275,
+        "num": 446275,
+        "word": "蜜雪冰城冰淇淋音乐节",
+        "onboard_time": 1681635990,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414277,
+        "num": 414277,
+        "word": "专家称让多生难度不亚于过去让少生",
+        "onboard_time": 1681629927,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405384,
+        "num": 405384,
+        "word": "BLACKPINK 全开麦",
+        "onboard_time": 1681632748,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402315,
+        "num": 402315,
+        "word": "该不该把音乐节价格打下来",
+        "onboard_time": 1681632328,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 398752,
+        "num": 398752,
+        "word": "范丞丞被密室NPC插到鼻孔",
+        "onboard_time": 1681635208,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388453,
+        "num": 388453,
+        "word": "安徽高空坠落杂技女演员已身亡",
+        "onboard_time": 1681620089,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349076,
+        "num": 349076,
+        "word": "康康回应女孩想当飞行员",
+        "onboard_time": 1681632087,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275582,
+        "num": 275582,
+        "word": "女子泼水节遭众男子围着泼水撕雨衣",
+        "onboard_time": 1681621888,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273167,
+        "num": 273167,
+        "word": "宋雨琦周洁琼加盟一起露营吧2",
+        "onboard_time": 1681635026,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264961,
+        "num": 264961,
+        "word": "金像奖",
+        "onboard_time": 1681636047,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231099,
+        "num": 231099,
+        "word": "女子辟谣妈妈做月嫂存款近500万",
+        "onboard_time": 1681621826,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221803,
+        "num": 221803,
+        "word": "三天写完了论文初稿",
+        "onboard_time": 1681627227,
+        "rank": 22,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 220589,
+        "num": 220589,
+        "word": "陈芋汐跳水世界杯金牌",
+        "onboard_time": 1681635689,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197191,
+        "num": 197191,
+        "word": "梅西C罗并列五大联赛历史射手王",
+        "onboard_time": 1681634489,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 196759,
+        "num": 196759,
+        "word": "WB战胜LGD",
+        "onboard_time": 1681637247,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193256,
+        "num": 193256,
+        "word": "Jennie水兵月双马尾",
+        "onboard_time": 1681637547,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189660,
+        "num": 189660,
+        "word": "余霜发博感谢管泽元",
+        "onboard_time": 1681628907,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 179278,
+        "num": 179278,
+        "word": "红人节",
+        "onboard_time": 1681637307,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176216,
+        "num": 176216,
+        "word": "成毅虞书欣或将出演一厘米的阳光",
+        "onboard_time": 1681628545,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192787,
+        "num": 174970,
+        "word": "纪委回应公务接待喝20元酒被处分",
+        "onboard_time": 1681637008,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180553,
+        "num": 174877,
+        "word": "拍摄者回应女子被围着泼水撕雨衣",
+        "onboard_time": 1681636768,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173664,
+        "num": 173664,
+        "word": "金像奖红毯",
+        "onboard_time": 1681636589,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171664,
+        "num": 171664,
+        "word": "国际时尚色彩大会提及肖战",
+        "onboard_time": 1681636827,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162415,
+        "num": 162415,
+        "word": "蚌埠 长月烬明",
+        "onboard_time": 1681617328,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160852,
+        "num": 160852,
+        "word": "宝妈梦到儿子流血查监控见保姆动粗",
+        "onboard_time": 1681610847,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155834,
+        "num": 155834,
+        "word": "想看陈奕迅内地演唱会",
+        "onboard_time": 1681637488,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154008,
+        "num": 154008,
+        "word": "金智秀Flower末放舞台",
+        "onboard_time": 1681637368,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153260,
+        "num": 153260,
+        "word": "破音",
+        "onboard_time": 1681625491,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152723,
+        "num": 152723,
+        "word": "关晓彤 张元英",
+        "onboard_time": 1681608267,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138050,
+        "num": 138050,
+        "word": "田柾国去了科切拉",
+        "onboard_time": 1681626266,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134985,
+        "num": 134985,
+        "word": "青环制片人回应嘉宾不熟",
+        "onboard_time": 1681629024,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131385,
+        "num": 131385,
+        "word": "LGD状态",
+        "onboard_time": 1681637547,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130455,
+        "num": 130455,
+        "word": "朱一龙日常生活vlog",
+        "onboard_time": 1681636047,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 129980,
+        "num": 129980,
+        "word": "全红婵陈芋汐断层晋级决赛",
+        "onboard_time": 1681635748,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115392,
+        "num": 115392,
+        "word": "杭州一学区房小区挤掉泡沫每平降3万",
+        "onboard_time": 1681623808,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 106290,
+        "num": 106290,
+        "word": "北京轨道交通已取消口罩要求",
+        "onboard_time": 1681629507,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100733,
+        "num": 100733,
+        "word": "茄皇视力表",
+        "onboard_time": 1681622907,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92563,
+        "num": 92563,
+        "word": "詹姆斯儿子客串速度与激情10",
+        "onboard_time": 1681633826,
+        "rank": 48,
+        "category": "影视,体育"
+      },
+      {
+        "raw_hot": 91336,
+        "num": 91336,
+        "word": "陶昕然评论赵丽颖白玉兰相关微博",
+        "onboard_time": 1681613547,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡史上规模最大广交会#"
+    }
+  }
+}
