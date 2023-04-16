@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681626831782,
+  "endTime": 1681629297888,
   "band_list": [
     {
       "raw_hot": 2146519,
@@ -19,8 +19,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1667811,
-      "num": 1667811,
+      "raw_hot": 1723972,
+      "num": 1723972,
       "word": "安徽高空坠落杂技女演员已身亡",
       "onboard_time": 1681620089,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1227218,
+      "num": 1227218,
+      "word": "老人捡信用卡猜出密码取现被判刑",
+      "onboard_time": 1681623985,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1145175,
       "num": 120777,
       "word": "蔡徐坤的关注",
@@ -73,6 +81,14 @@
       "onboard_time": 1681623209,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1126498,
+      "num": 391209,
+      "word": "陈都灵南航",
+      "onboard_time": 1681627825,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1016189,
@@ -131,6 +147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 850341,
+      "num": 850341,
+      "word": "破音",
+      "onboard_time": 1681625491,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 827197,
       "num": 312230,
       "word": "管泽元向余霜求婚",
@@ -139,28 +163,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 808909,
-      "num": 423039,
-      "word": "老人捡信用卡猜出密码取现被判刑",
-      "onboard_time": 1681623985,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 803376,
       "num": 803376,
       "word": "下班时间用微信工作可算作加班",
       "onboard_time": 1681613666,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 766741,
-      "num": 766741,
-      "word": "破音",
-      "onboard_time": 1681625491,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 766387,
@@ -233,6 +241,14 @@
       "onboard_time": 1681617328,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 595873,
+      "num": 595873,
+      "word": "三天写完了论文初稿",
+      "onboard_time": 1681627227,
+      "rank": 6,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 594436,
@@ -355,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433360,
+      "num": 389837,
+      "word": "向华强三十年前后对比",
+      "onboard_time": 1681625967,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 432744,
       "num": 432744,
       "word": "勇士VS国王",
@@ -409,6 +433,22 @@
       "onboard_time": 1681604906,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396377,
+      "num": 396377,
+      "word": "田柾国去了科切拉",
+      "onboard_time": 1681626266,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 384914,
+      "num": 384914,
+      "word": "朴彩英嗓音状态",
+      "onboard_time": 1681626626,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 374713,
@@ -547,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293532,
+      "num": 222674,
+      "word": "Lisa钢管舞剪影",
+      "onboard_time": 1681627348,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290304,
       "num": 231163,
       "word": "小伙的胡子会移动全球不到40例",
@@ -561,6 +609,14 @@
       "onboard_time": 1681619908,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276542,
+      "num": 191187,
+      "word": "成毅虞书欣或将出演一厘米的阳光",
+      "onboard_time": 1681628545,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 263805,
@@ -627,14 +683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243524,
-      "num": 243524,
-      "word": "朴彩英嗓音状态",
-      "onboard_time": 1681626626,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 237194,
       "num": 237194,
       "word": "电影流浪地球2俄罗斯上映",
@@ -659,12 +707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229967,
-      "num": 229967,
-      "word": "向华强三十年前后对比",
-      "onboard_time": 1681625967,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 227478,
+      "num": 209969,
+      "word": "长月烬明带火蚌埠旅游热",
+      "onboard_time": 1681625366,
+      "rank": 25,
+      "category": "影视,旅游"
     },
     {
       "raw_hot": 226806,
@@ -683,12 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224330,
-      "num": 184811,
-      "word": "田柾国去了科切拉",
-      "onboard_time": 1681626266,
-      "rank": 25,
-      "category": "音乐"
+      "raw_hot": 224554,
+      "num": 224554,
+      "word": "余霜发博感谢管泽元",
+      "onboard_time": 1681628907,
+      "rank": 19,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 219487,
@@ -739,12 +787,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205340,
-      "num": 209969,
-      "word": "长月烬明带火蚌埠旅游热",
-      "onboard_time": 1681625366,
-      "rank": 25,
-      "category": "影视,旅游"
+      "raw_hot": 205192,
+      "num": 209765,
+      "word": "过度共情他人",
+      "onboard_time": 1681625246,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 204568,
@@ -753,6 +801,14 @@
       "onboard_time": 1681621708,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 203712,
+      "num": 203712,
+      "word": "PEL春决明星表演赛阵容",
+      "onboard_time": 1681628845,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 203683,
@@ -987,12 +1043,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147546,
+      "num": 141903,
+      "word": "吴昕为戚薇新综艺打call",
+      "onboard_time": 1681627048,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146578,
       "num": 146578,
       "word": "肯德基不爱看皓史成双",
       "onboard_time": 1681622907,
       "rank": 39,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 146237,
+      "num": 209727,
+      "word": "斗破苍穹",
+      "onboard_time": 1681625846,
+      "rank": 48,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 142573,
@@ -1059,14 +1131,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 131006,
-      "num": 209765,
-      "word": "过度共情他人",
-      "onboard_time": 1681625246,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130871,
       "num": 126898,
       "word": "张杰西安演唱会上教戏腔",
@@ -1115,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125143,
+      "num": 125143,
+      "word": "青环制片人回应嘉宾不熟",
+      "onboard_time": 1681629024,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123915,
       "num": 118065,
       "word": "陈粒演唱会",
@@ -1147,12 +1219,12 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 115509,
-      "num": 209727,
-      "word": "斗破苍穹",
-      "onboard_time": 1681625846,
-      "rank": 48,
-      "category": "动漫,影视"
+      "raw_hot": 115578,
+      "num": 115578,
+      "word": "郑秀妍独家派对",
+      "onboard_time": 1681628725,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 115415,
@@ -1249,6 +1321,14 @@
       "onboard_time": 1681549946,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105355,
+      "num": 115577,
+      "word": "毛晓彤西藏vlog",
+      "onboard_time": 1681627706,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 105077,
@@ -1483,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63270,
+      "num": 115558,
+      "word": "LGD对战WB",
+      "onboard_time": 1681628665,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 62164,
       "num": 63634,
       "word": "周觅solo舞台",
@@ -1615,6 +1703,14 @@
       "num": 209827,
       "word": "超级红人节见面会",
       "onboard_time": 1681624827,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 15007,
+      "num": 124122,
+      "word": "一张照片打卡红人节",
+      "onboard_time": 1681629084,
       "rank": 39,
       "category": "网红"
     }
