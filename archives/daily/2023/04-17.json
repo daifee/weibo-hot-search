@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681662075287,
+  "endTime": 1681663030025,
   "band_list": [
     {
       "raw_hot": 1537387,
@@ -19,6 +19,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 940901,
+      "num": 940901,
+      "word": "坠亡女演员和搭档是夫妻",
+      "onboard_time": 1681659327,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849986,
       "num": 849986,
       "word": "金像奖影后郑秀文",
@@ -33,14 +41,6 @@
       "onboard_time": 1681656150,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 689890,
-      "num": 689890,
-      "word": "坠亡女演员和搭档是夫妻",
-      "onboard_time": 1681659327,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 658392,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371998,
-      "num": 371998,
+      "raw_hot": 405439,
+      "num": 405439,
       "word": "鬼灭之刃",
       "onboard_time": 1681660168,
       "rank": 7,
@@ -115,6 +115,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 295196,
+      "num": 178054,
+      "word": "南京交警隧道查酒驾被滴滴司机撞飞",
+      "onboard_time": 1681660348,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295076,
       "num": 295076,
       "word": "曼城",
@@ -136,14 +144,6 @@
       "word": "村民疑被当成猎物遭枪击后死亡",
       "onboard_time": 1681653629,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271202,
-      "num": 178054,
-      "word": "南京交警隧道查酒驾被滴滴司机撞飞",
-      "onboard_time": 1681660348,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197304,
+      "num": 197304,
+      "word": "BLACKPINK科切拉人气",
+      "onboard_time": 1681660888,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190355,
       "num": 190355,
       "word": "特斯拉上海新工厂正式开启招聘",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 182828,
-      "num": 120847,
+      "num": 177869,
       "word": "你能接受的音乐节门票是多少",
       "onboard_time": 1681661006,
       "rank": 30,
@@ -195,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172100,
-      "num": 172100,
-      "word": "BLACKPINK科切拉人气",
-      "onboard_time": 1681660888,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 164809,
       "num": 164809,
       "word": "苹果设备不断要求输入AppleID密码",
@@ -211,7 +211,7 @@
       "category": "科技"
     },
     {
-      "raw_hot": 144137,
+      "raw_hot": 150345,
       "num": 144137,
       "word": "流水落花",
       "onboard_time": 1681659986,
@@ -275,8 +275,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109678,
-      "num": 109678,
+      "raw_hot": 110750,
+      "num": 110750,
       "word": "Jasper当校园导游",
       "onboard_time": 1681651468,
       "rank": 33,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80053,
+      "num": 80053,
+      "word": "言承旭说呼叫杉菜就会出现",
+      "onboard_time": 1681662743,
+      "rank": 40,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 71614,
       "num": 84939,
       "word": "EXO新歌live舞台",
@@ -395,6 +403,30 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 66532,
+      "num": 79091,
+      "word": "曝上瘾原定主演是宋威龙",
+      "onboard_time": 1681639408,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 62619,
+      "num": 79054,
+      "word": "金像奖",
+      "onboard_time": 1681636047,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 58204,
+      "num": 79071,
+      "word": "朴灿烈金钟仁手忙脚乱比心",
+      "onboard_time": 1681662981,
+      "rank": 47,
+      "category": "音乐,幽默"
+    },
+    {
       "raw_hot": 29701,
       "num": 750732,
       "word": "风云三号07星成功发射",
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#中国式现代化既造福中国人民又促进世界共同发展#"
+    },
+    {
+      "word": "#蕴藏着勃勃生机的春耕图景#"
     }
   ]
 }
