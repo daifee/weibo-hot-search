@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681643600472,
+  "endTime": 1681644801143,
   "band_list": [
     {
       "raw_hot": 2583696,
@@ -33,6 +33,14 @@
       "onboard_time": 1681630945,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1973104,
+      "num": 1029328,
+      "word": "官方称女演员坠亡演出无安全措施",
+      "onboard_time": 1681631667,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1779535,
@@ -83,14 +91,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1373134,
-      "num": 1029328,
-      "word": "官方称女演员坠亡演出无安全措施",
-      "onboard_time": 1681631667,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1344149,
       "num": 1344149,
       "word": "肯德基 少爷和我",
@@ -99,8 +99,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1237872,
-      "num": 1237872,
+      "raw_hot": 1284688,
+      "num": 1284688,
       "word": "范丞丞听到李晨声音的反应",
       "onboard_time": 1681639526,
       "rank": 7,
@@ -187,20 +187,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 852566,
+      "num": 852566,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850341,
       "num": 850341,
       "word": "破音",
       "onboard_time": 1681625491,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 831975,
-      "num": 831975,
-      "word": "泼水节被撕扯雨衣当事女生发声",
-      "onboard_time": 1681639047,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 827197,
@@ -369,6 +369,14 @@
       "onboard_time": 1681603823,
       "rank": 6,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 571158,
+      "num": 571158,
+      "word": "无业男子冒充清华研究生成网红",
+      "onboard_time": 1681641927,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567074,
@@ -611,20 +619,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 387752,
-      "num": 387752,
-      "word": "无业男子冒充清华研究生成网红",
-      "onboard_time": 1681641927,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384914,
       "num": 384914,
       "word": "朴彩英嗓音状态",
       "onboard_time": 1681626626,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 381497,
+      "num": 381497,
+      "word": "长月烬明",
+      "onboard_time": 1681638985,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 379511,
@@ -819,15 +827,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 283698,
-      "num": 283698,
-      "word": "长月烬明",
-      "onboard_time": 1681638985,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 282601,
+      "raw_hot": 285394,
       "num": 1425798,
       "word": "学生团队用AI修复千名走失儿童旧照",
       "onboard_time": 1681638625,
@@ -867,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 255241,
+      "num": 250955,
+      "word": "陈妍希说白宇的命也是命",
+      "onboard_time": 1681641146,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254577,
       "num": 254577,
       "word": "Lisa科切拉舞台饭拍视频",
@@ -875,20 +883,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 253452,
+      "num": 189875,
+      "word": "马苏金像奖复古名伶造型",
+      "onboard_time": 1681643126,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252106,
+      "num": 252106,
+      "word": "极限挑战",
+      "onboard_time": 1681640065,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251808,
       "num": 118113,
       "word": "陈都灵胳膊好长",
       "onboard_time": 1681574189,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 250955,
-      "num": 250955,
-      "word": "陈妍希说白宇的命也是命",
-      "onboard_time": 1681641146,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 250178,
@@ -936,14 +952,6 @@
       "word": "女子推理社",
       "onboard_time": 1681617386,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 238399,
-      "num": 238399,
-      "word": "极限挑战",
-      "onboard_time": 1681640065,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1033,6 +1041,14 @@
       "onboard_time": 1681613426,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209873,
+      "num": 209873,
+      "word": "怦然心动20岁",
+      "onboard_time": 1681644026,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 208340,
@@ -1131,14 +1147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 198536,
-      "num": 189875,
-      "word": "马苏金像奖复古名伶造型",
-      "onboard_time": 1681643126,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197191,
       "num": 197191,
       "word": "梅西C罗并列五大联赛历史射手王",
@@ -1235,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189453,
+      "num": 189453,
+      "word": "gw比赛遇bug",
+      "onboard_time": 1681643786,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188855,
       "num": 118098,
       "word": "生气容易长结节吗",
@@ -1307,6 +1323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 177909,
+      "num": 172809,
+      "word": "杨紫琼出席香港电影金像奖",
+      "onboard_time": 1681643247,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177796,
       "num": 201479,
       "word": "耳屎其实能保护耳道和鼓膜",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1681635748,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161177,
+      "num": 161177,
+      "word": "NCT道在廷新歌",
+      "onboard_time": 1681644327,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 160836,
@@ -1467,12 +1499,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150987,
+      "num": 150987,
+      "word": "邓佳鑫舞蹈练习vlog",
+      "onboard_time": 1681644327,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150610,
       "num": 198560,
       "word": "魔都制躁音乐节",
       "onboard_time": 1681621768,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148546,
+      "num": 148546,
+      "word": "你会为了另一半和好友绝交吗",
+      "onboard_time": 1681643906,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 148262,
@@ -1561,6 +1609,14 @@
       "onboard_time": 1681640307,
       "rank": 40,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 136927,
+      "num": 136927,
+      "word": "第五人格赛事",
+      "onboard_time": 1681644389,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 135472,
@@ -1689,14 +1745,6 @@
       "onboard_time": 1681633767,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122022,
-      "num": 122022,
-      "word": "杨紫琼出席香港电影金像奖",
-      "onboard_time": 1681643247,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 120947,
@@ -1883,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101810,
+      "num": 101810,
+      "word": "郑秀文好美",
+      "onboard_time": 1681644745,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101408,
       "num": 118479,
       "word": "詹姆斯儿子客串速度与激情10",
@@ -1897,6 +1953,14 @@
       "onboard_time": 1681600879,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 101199,
+      "num": 101199,
+      "word": "谈恋爱到什么阶段可以结婚",
+      "onboard_time": 1681642889,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 99920,
@@ -1929,6 +1993,14 @@
       "onboard_time": 1681610548,
       "rank": 41,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 95357,
+      "num": 101824,
+      "word": "激光雷达是智商税吗",
+      "onboard_time": 1681643366,
+      "rank": 48,
+      "category": "科技"
     },
     {
       "raw_hot": 95189,
@@ -1993,14 +2065,6 @@
       "onboard_time": 1681614027,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86899,
-      "num": 86899,
-      "word": "激光雷达是智商税吗",
-      "onboard_time": 1681643366,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 84668,
@@ -2211,6 +2275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37264,
+      "num": 136233,
+      "word": "笑点低的人玩不了这游戏",
+      "onboard_time": 1681642827,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 33223,
       "num": 33223,
       "word": "张真源爱在终局之前预告",
@@ -2251,6 +2323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 31398,
+      "num": 1035289,
+      "word": "叶光富回忆太空之旅",
+      "onboard_time": 1681639106,
+      "rank": 6,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 29088,
       "num": 46541,
       "word": "龙马精神剧组辟谣退票事件",
@@ -2264,22 +2344,6 @@
       "word": "红人节福利到底有多卷",
       "onboard_time": 1681621226,
       "rank": 14,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 28614,
-      "num": 1035289,
-      "word": "叶光富回忆太空之旅",
-      "onboard_time": 1681639106,
-      "rank": 6,
-      "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 27792,
-      "num": 134554,
-      "word": "笑点低的人玩不了这游戏",
-      "onboard_time": 1681642827,
-      "rank": 39,
       "category": "网红"
     },
     {
