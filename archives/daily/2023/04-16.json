@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681623202484,
+  "endTime": 1681626053505,
   "band_list": [
     {
       "raw_hot": 2146519,
@@ -17,6 +17,14 @@
       "onboard_time": 1681608267,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1659838,
+      "num": 1659838,
+      "word": "安徽高空坠落杂技女演员已身亡",
+      "onboard_time": 1681620089,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1458294,
@@ -43,14 +51,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1363848,
-      "num": 1363848,
-      "word": "安徽高空坠落杂技女演员已身亡",
-      "onboard_time": 1681620089,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1344149,
       "num": 1344149,
       "word": "肯德基 少爷和我",
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1129343,
+      "num": 1129343,
+      "word": "Jennie科切拉solo舞台",
+      "onboard_time": 1681623209,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1016189,
       "num": 911687,
       "word": "达赖舌吻男童有多恶心",
@@ -81,6 +89,14 @@
       "onboard_time": 1681568309,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 936876,
+      "num": 936876,
+      "word": "女子泼水节遭众男子围着泼水撕雨衣",
+      "onboard_time": 1681621888,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 910732,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602538,
+      "num": 423039,
+      "word": "老人捡信用卡猜出密码取现被判刑",
+      "onboard_time": 1681623985,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601716,
       "num": 117992,
       "word": "李维嘉回复网友评论",
@@ -201,6 +225,14 @@
       "onboard_time": 1681617328,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 594436,
+      "num": 594436,
+      "word": "女子辟谣妈妈做月嫂存款近500万",
+      "onboard_time": 1681621826,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 584041,
@@ -233,6 +265,14 @@
       "onboard_time": 1681568489,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 522650,
+      "num": 522650,
+      "word": "金智秀ending镜头",
+      "onboard_time": 1681623266,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 508617,
@@ -283,20 +323,20 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 447047,
-      "num": 447047,
-      "word": "女子辟谣妈妈做月嫂存款近500万",
-      "onboard_time": 1681621826,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441422,
       "num": 441422,
       "word": "徐明浩给张艺兴打电话",
       "onboard_time": 1681569991,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 434041,
+      "num": 434041,
+      "word": "茄皇视力表",
+      "onboard_time": 1681622907,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433423,
@@ -320,14 +360,6 @@
       "word": "女子鱼刺卡喉花1265元取出直呼贵",
       "onboard_time": 1681603464,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 431987,
-      "num": 431987,
-      "word": "女子泼水节遭众男子围着泼水撕雨衣",
-      "onboard_time": 1681621888,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -379,6 +411,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 345093,
+      "num": 345093,
+      "word": "破音",
+      "onboard_time": 1681625491,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 336808,
       "num": 336808,
       "word": "内娱拉高审美阈值的明星",
@@ -393,6 +433,14 @@
       "onboard_time": 1681574667,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 334661,
+      "num": 334661,
+      "word": "杭州一学区房小区挤掉泡沫每平降3万",
+      "onboard_time": 1681623808,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 333208,
@@ -523,6 +571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 254577,
+      "num": 254577,
+      "word": "Lisa科切拉舞台饭拍视频",
+      "onboard_time": 1681623209,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 251808,
       "num": 118113,
       "word": "陈都灵胳膊好长",
@@ -563,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244265,
+      "num": 244265,
+      "word": "披3名单",
+      "onboard_time": 1681624528,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237194,
       "num": 237194,
       "word": "电影流浪地球2俄罗斯上映",
@@ -585,6 +649,14 @@
       "onboard_time": 1681607549,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226806,
+      "num": 226806,
+      "word": "前印度官员在电视直播中遭枪杀",
+      "onboard_time": 1681622488,
+      "rank": 32,
+      "category": "社会新闻,国内要闻"
     },
     {
       "raw_hot": 219487,
@@ -636,7 +708,7 @@
     },
     {
       "raw_hot": 204568,
-      "num": 204568,
+      "num": 209896,
       "word": "蚌埠烧饼夹里脊",
       "onboard_time": 1681621708,
       "rank": 46,
@@ -657,6 +729,22 @@
       "onboard_time": 1681607247,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199588,
+      "num": 209969,
+      "word": "长月烬明带火蚌埠旅游热",
+      "onboard_time": 1681625366,
+      "rank": 25,
+      "category": "影视,旅游"
+    },
+    {
+      "raw_hot": 199549,
+      "num": 209912,
+      "word": "黄景瑜说今晚来极限挑战治愈烦恼",
+      "onboard_time": 1681625188,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 199043,
@@ -803,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160066,
-      "num": 160066,
-      "word": "前印度官员在电视直播中遭枪杀",
-      "onboard_time": 1681622488,
-      "rank": 32,
-      "category": "社会新闻,国内要闻"
-    },
-    {
       "raw_hot": 156571,
       "num": 156571,
       "word": "灌篮高手口碑",
@@ -828,7 +908,7 @@
     },
     {
       "raw_hot": 153093,
-      "num": 198560,
+      "num": 209790,
       "word": "蚌埠文旅",
       "onboard_time": 1681619968,
       "rank": 39,
@@ -889,6 +969,14 @@
       "onboard_time": 1681565787,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 140038,
+      "num": 209889,
+      "word": "一家四口共用一张脸",
+      "onboard_time": 1681624169,
+      "rank": 33,
+      "category": "网红,幽默"
     },
     {
       "raw_hot": 137147,
@@ -987,14 +1075,6 @@
       "category": "艺人,旅游"
     },
     {
-      "raw_hot": 122256,
-      "num": 122256,
-      "word": "茄皇视力表",
-      "onboard_time": 1681622907,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119394,
       "num": 119394,
       "word": "名侦探柯南黑铁的鱼影",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1681610786,
       "rank": 31,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 111824,
+      "num": 209780,
+      "word": "向华强三十年前后对比",
+      "onboard_time": 1681625967,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 111689,
@@ -1129,6 +1217,14 @@
       "onboard_time": 1681600879,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 99459,
+      "num": 209765,
+      "word": "过度共情他人",
+      "onboard_time": 1681625246,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 99044,
@@ -1243,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80967,
+      "num": 345844,
+      "word": "被明星种草的养肤防晒乳",
+      "onboard_time": 1681619729,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 80340,
       "num": 80340,
       "word": "红树林像极了大自然的油画",
@@ -1315,12 +1419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68757,
+      "num": 209727,
+      "word": "斗破苍穹",
+      "onboard_time": 1681625846,
+      "rank": 48,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 67577,
       "num": 67577,
       "word": "苏丹",
       "onboard_time": 1681606165,
       "rank": 49,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 67272,
+      "num": 209715,
+      "word": "建议麦当劳请哲史",
+      "onboard_time": 1681625906,
+      "rank": 49,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 64485,
@@ -1457,6 +1577,14 @@
       "onboard_time": 1681539926,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21764,
+      "num": 209827,
+      "word": "超级红人节见面会",
+      "onboard_time": 1681624827,
+      "rank": 39,
+      "category": "网红"
     }
   ],
   "hotgov_list": [
