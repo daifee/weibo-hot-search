@@ -1,6 +1,6 @@
 {
   "startTime": 1681057279449,
-  "endTime": 1681649218090,
+  "endTime": 1681651141258,
   "band_list": [
     {
       "raw_hot": 4059734,
@@ -689,6 +689,14 @@
       "onboard_time": 1681303948,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1619720,
+      "num": 1619720,
+      "word": "官方回应炫富女喜提公租房",
+      "onboard_time": 1681646366,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1600472,
@@ -1387,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1091314,
-      "num": 1091314,
-      "word": "官方回应炫富女喜提公租房",
-      "onboard_time": 1681646366,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1079384,
       "num": 495059,
       "word": "丫丫",
@@ -1531,6 +1531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 978061,
+      "num": 852566,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 977214,
       "num": 977214,
       "word": "电商主播年薪千万降到年薪百万",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1681352607,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 956947,
-      "num": 852566,
-      "word": "泼水节被撕扯雨衣当事女生发声",
-      "onboard_time": 1681639047,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 954301,
@@ -1945,6 +1945,14 @@
       "onboard_time": 1681478966,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 854321,
+      "num": 854321,
+      "word": "无名最终票房",
+      "onboard_time": 1681649127,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 854047,
@@ -2995,6 +3003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 638796,
+      "num": 638796,
+      "word": "金像奖获奖名单",
+      "onboard_time": 1681645824,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 637850,
       "num": 637850,
       "word": "为什么杭州的姐弟恋越来越多",
@@ -3105,14 +3121,6 @@
       "onboard_time": 1681227929,
       "rank": 12,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 622098,
-      "num": 622098,
-      "word": "金像奖获奖名单",
-      "onboard_time": 1681645824,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 621010,
@@ -3377,6 +3385,14 @@
       "onboard_time": 1681621826,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592225,
+      "num": 592225,
+      "word": "油价",
+      "onboard_time": 1681648708,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 591827,
@@ -3716,7 +3732,7 @@
     },
     {
       "raw_hot": 555090,
-      "num": 408557,
+      "num": 442387,
       "word": "朱一龙直播",
       "onboard_time": 1681647685,
       "rank": 12,
@@ -5139,6 +5155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424446,
+      "num": 424446,
+      "word": "aner出道九分钟oner几年全白干",
+      "onboard_time": 1681648406,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423890,
       "num": 423890,
       "word": "故宫门票",
@@ -6483,6 +6507,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 345257,
+      "num": 268637,
+      "word": "交警用身体为女子挡住疾驰车辆",
+      "onboard_time": 1681648347,
+      "rank": 33,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 344450,
       "num": 344450,
       "word": "刘嘉玲何超琼杨紫琼林青霞合影",
@@ -6633,6 +6665,14 @@
       "onboard_time": 1681204108,
       "rank": 27,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 334656,
+      "num": 201973,
+      "word": "坠亡女演员丈夫否认吵架不系安全扣",
+      "onboard_time": 1681650449,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334410,
@@ -7955,6 +7995,14 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 271416,
+      "num": 271416,
+      "word": "极限挑战",
+      "onboard_time": 1681047391,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270769,
       "num": 268631,
       "word": "华晨宇再为那英队拿下金曲",
@@ -8073,6 +8121,14 @@
       "onboard_time": 1681130126,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264776,
+      "num": 264776,
+      "word": "GOT7聚会合照",
+      "onboard_time": 1681650088,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 264219,
@@ -8441,14 +8497,6 @@
       "onboard_time": 1681281684,
       "rank": 21,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 252106,
-      "num": 252106,
-      "word": "极限挑战",
-      "onboard_time": 1681047391,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 251808,
@@ -8841,6 +8889,14 @@
       "onboard_time": 1681513878,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239469,
+      "num": 239469,
+      "word": "刘德华姜涛合照",
+      "onboard_time": 1681647384,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238983,
@@ -9315,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228417,
+      "num": 228417,
+      "word": "原来它的小尾巴可以摇",
+      "onboard_time": 1681649426,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228360,
       "num": 228360,
       "word": "李昀锐董洁新剧演母子",
@@ -9433,14 +9497,6 @@
       "onboard_time": 1681106667,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 224742,
-      "num": 224742,
-      "word": "刘德华姜涛合照",
-      "onboard_time": 1681647384,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 223854,
@@ -10499,14 +10555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204680,
-      "num": 204680,
-      "word": "aner出道九分钟oner几年全白干",
-      "onboard_time": 1681648406,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204606,
       "num": 204606,
       "word": "吴磊说宋三川再会",
@@ -10537,6 +10585,14 @@
       "onboard_time": 1681301186,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 204316,
+      "num": 204316,
+      "word": "演出公司回应女演员演杂技时坠亡",
+      "onboard_time": 1681650088,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204312,
@@ -10680,6 +10736,14 @@
       "word": "兄弟堂",
       "onboard_time": 1681448310,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203306,
+      "num": 203306,
+      "word": "女演员坠亡涉事演出公司曾受罚",
+      "onboard_time": 1681650205,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -12851,14 +12915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183032,
-      "num": 181059,
-      "word": "无名最终票房",
-      "onboard_time": 1681649127,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182998,
       "num": 220237,
       "word": "网友环球影城偶遇何洛洛",
@@ -13811,6 +13867,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 166381,
+      "num": 166381,
+      "word": "茄皇回应视力表物料被指歧视女性",
+      "onboard_time": 1681649306,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166368,
       "num": 166368,
       "word": "爱情而已全员画表情包",
@@ -14395,6 +14459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156352,
+      "num": 156352,
+      "word": "李现和钎城伪装切磋功夫",
+      "onboard_time": 1681650267,
+      "rank": 40,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 156305,
       "num": 156305,
       "word": "汪苏泷一笑倾城开口秒回校园",
@@ -14857,6 +14929,14 @@
       "onboard_time": 1681428323,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149015,
+      "num": 149015,
+      "word": "张泽禹被保安抬上台",
+      "onboard_time": 1681647625,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 148882,
@@ -15379,14 +15459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140439,
-      "num": 140439,
-      "word": "张泽禹被保安抬上台",
-      "onboard_time": 1681647625,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 140404,
       "num": 140404,
       "word": "冥夜卷而不平是常态",
@@ -15731,14 +15803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131903,
-      "num": 150138,
-      "word": "交警用身体为女子挡住疾驰车辆",
-      "onboard_time": 1681648347,
-      "rank": 33,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 131897,
       "num": 131897,
       "word": "第28届上海电视节官宣",
@@ -15841,6 +15905,14 @@
       "onboard_time": 1681235834,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129558,
+      "num": 129558,
+      "word": "金像奖最佳男配角",
+      "onboard_time": 1681650988,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 129494,
@@ -16027,14 +16099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126700,
-      "num": 146525,
-      "word": "油价",
-      "onboard_time": 1681648708,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 126446,
       "num": 126446,
       "word": "闫伟伦家暴丁漫漫",
@@ -16073,6 +16137,14 @@
       "onboard_time": 1681519884,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125512,
+      "num": 125512,
+      "word": "西汉姆联vs阿森纳",
+      "onboard_time": 1681649908,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 125426,
@@ -17163,6 +17235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95091,
+      "num": 125507,
+      "word": "DRG对战eStar",
+      "onboard_time": 1681649788,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94857,
       "num": 94857,
       "word": "陈晓陆行知定妆花絮",
@@ -17627,6 +17707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 64874,
+      "num": 366110,
+      "word": "审美被自主品牌玩明白了",
+      "onboard_time": 1681650028,
+      "rank": 14,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 64485,
       "num": 64485,
       "word": "北京马拉松",
@@ -17737,6 +17825,14 @@
       "onboard_time": 1681315527,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 52222,
+      "num": 808066,
+      "word": "风云三号07星成功发射",
+      "onboard_time": 1681648767,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51166,
@@ -17993,14 +18089,6 @@
       "onboard_time": 1681048530,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 26424,
-      "num": 636785,
-      "word": "风云三号07星成功发射",
-      "onboard_time": 1681648767,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24690,

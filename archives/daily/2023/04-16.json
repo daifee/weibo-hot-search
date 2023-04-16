@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681649218090,
+  "endTime": 1681651141258,
   "band_list": [
     {
       "raw_hot": 2583696,
@@ -64,6 +64,14 @@
       "word": "安徽高空坠落杂技女演员已身亡",
       "onboard_time": 1681620089,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1619720,
+      "num": 1619720,
+      "word": "官方回应炫富女喜提公租房",
+      "onboard_time": 1681646366,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -131,14 +139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1091314,
-      "num": 1091314,
-      "word": "官方回应炫富女喜提公租房",
-      "onboard_time": 1681646366,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1016189,
       "num": 911687,
       "word": "达赖舌吻男童有多恶心",
@@ -147,7 +147,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 956947,
+      "raw_hot": 978061,
       "num": 852566,
       "word": "泼水节被撕扯雨衣当事女生发声",
       "onboard_time": 1681639047,
@@ -201,6 +201,14 @@
       "onboard_time": 1681618947,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 854321,
+      "num": 854321,
+      "word": "无名最终票房",
+      "onboard_time": 1681649127,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 850341,
@@ -339,20 +347,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 638796,
+      "num": 638796,
+      "word": "金像奖获奖名单",
+      "onboard_time": 1681645824,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 634048,
       "num": 634048,
       "word": "狼队 再输不礼貌了",
       "onboard_time": 1681646547,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 622098,
-      "num": 622098,
-      "word": "金像奖获奖名单",
-      "onboard_time": 1681645824,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 601716,
@@ -385,6 +393,14 @@
       "onboard_time": 1681621826,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 592225,
+      "num": 592225,
+      "word": "油价",
+      "onboard_time": 1681648708,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 584041,
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 555090,
-      "num": 408557,
+      "num": 442387,
       "word": "朱一龙直播",
       "onboard_time": 1681647685,
       "rank": 12,
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424446,
+      "num": 424446,
+      "word": "aner出道九分钟oner几年全白干",
+      "onboard_time": 1681648406,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417228,
       "num": 417228,
       "word": "康康回应女孩想当飞行员",
@@ -707,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345257,
+      "num": 268637,
+      "word": "交警用身体为女子挡住疾驰车辆",
+      "onboard_time": 1681648347,
+      "rank": 33,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 344051,
       "num": 344051,
       "word": "怦然心动20岁",
@@ -729,6 +761,14 @@
       "onboard_time": 1681574667,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 334656,
+      "num": 201973,
+      "word": "坠亡女演员丈夫否认吵架不系安全扣",
+      "onboard_time": 1681650449,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334410,
@@ -899,12 +939,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 271416,
+      "num": 271416,
+      "word": "极限挑战",
+      "onboard_time": 1681640065,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269066,
       "num": 269066,
       "word": "幼儿职业技术学院",
       "onboard_time": 1681638508,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 264776,
+      "num": 264776,
+      "word": "GOT7聚会合照",
+      "onboard_time": 1681650088,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 263805,
@@ -945,14 +1001,6 @@
       "onboard_time": 1681643126,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 252106,
-      "num": 252106,
-      "word": "极限挑战",
-      "onboard_time": 1681640065,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 251808,
@@ -1011,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239469,
+      "num": 239469,
+      "word": "刘德华姜涛合照",
+      "onboard_time": 1681647384,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 237194,
       "num": 237194,
       "word": "电影流浪地球2俄罗斯上映",
@@ -1035,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228417,
+      "num": 228417,
+      "word": "原来它的小尾巴可以摇",
+      "onboard_time": 1681649426,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227478,
       "num": 209969,
       "word": "长月烬明带火蚌埠旅游热",
@@ -1057,14 +1121,6 @@
       "onboard_time": 1681626206,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224742,
-      "num": 224742,
-      "word": "刘德华姜涛合照",
-      "onboard_time": 1681647384,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 219487,
@@ -1147,20 +1203,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204680,
-      "num": 204680,
-      "word": "aner出道九分钟oner几年全白干",
-      "onboard_time": 1681648406,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204568,
       "num": 209896,
       "word": "蚌埠烧饼夹里脊",
       "onboard_time": 1681621708,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 204316,
+      "num": 204316,
+      "word": "演出公司回应女演员演杂技时坠亡",
+      "onboard_time": 1681650088,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203712,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1681636047,
       "rank": 26,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 203306,
+      "num": 203306,
+      "word": "女演员坠亡涉事演出公司曾受罚",
+      "onboard_time": 1681650205,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201999,
@@ -1379,14 +1443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183032,
-      "num": 181059,
-      "word": "无名最终票房",
-      "onboard_time": 1681649127,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182361,
       "num": 182361,
       "word": "RC对战GW",
@@ -1491,6 +1547,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 166381,
+      "num": 166381,
+      "word": "茄皇回应视力表物料被指歧视女性",
+      "onboard_time": 1681649306,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164620,
       "num": 201580,
       "word": "淄博21条烧烤专线可线上查询",
@@ -1553,6 +1617,14 @@
       "onboard_time": 1681637547,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156352,
+      "num": 156352,
+      "word": "李现和钎城伪装切磋功夫",
+      "onboard_time": 1681650267,
+      "rank": 40,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 156258,
@@ -1619,6 +1691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149015,
+      "num": 149015,
+      "word": "张泽禹被保安抬上台",
+      "onboard_time": 1681647625,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148262,
       "num": 193107,
       "word": "吴昕为戚薇新综艺打call",
@@ -1673,14 +1753,6 @@
       "onboard_time": 1681635926,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140439,
-      "num": 140439,
-      "word": "张泽禹被保安抬上台",
-      "onboard_time": 1681647625,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 140038,
@@ -1795,14 +1867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131903,
-      "num": 150138,
-      "word": "交警用身体为女子挡住疾驰车辆",
-      "onboard_time": 1681648347,
-      "rank": 33,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 130871,
       "num": 193093,
       "word": "张杰西安演唱会上教戏腔",
@@ -1816,6 +1880,14 @@
       "word": "模范出租车",
       "onboard_time": 1681567890,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 129558,
+      "num": 129558,
+      "word": "金像奖最佳男配角",
+      "onboard_time": 1681650988,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -1851,20 +1923,20 @@
       "category": "社会议题,财经"
     },
     {
-      "raw_hot": 126700,
-      "num": 146525,
-      "word": "油价",
-      "onboard_time": 1681648708,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 125579,
       "num": 200772,
       "word": "悬疑剧PTSD治好了",
       "onboard_time": 1681619007,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125512,
+      "num": 125512,
+      "word": "西汉姆联vs阿森纳",
+      "onboard_time": 1681649908,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 123915,
@@ -2155,6 +2227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95091,
+      "num": 125507,
+      "word": "DRG对战eStar",
+      "onboard_time": 1681649788,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93808,
       "num": 117941,
       "word": "苏丹首都多地发生武装冲突",
@@ -2339,6 +2419,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 64874,
+      "num": 366110,
+      "word": "审美被自主品牌玩明白了",
+      "onboard_time": 1681650028,
+      "rank": 14,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 64485,
       "num": 64485,
       "word": "北京马拉松",
@@ -2383,6 +2471,14 @@
       "num": 1345105,
       "word": "乘车跨越中老边境线梦幻又震撼",
       "onboard_time": 1681564948,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52222,
+      "num": 808066,
+      "word": "风云三号07星成功发射",
+      "onboard_time": 1681648767,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -2505,14 +2601,6 @@
       "onboard_time": 1681621226,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 26424,
-      "num": 636785,
-      "word": "风云三号07星成功发射",
-      "onboard_time": 1681648767,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24855,

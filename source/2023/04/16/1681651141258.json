@@ -1,0 +1,410 @@
+{
+  "runTime": 1681651141258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1619720,
+        "num": 1619720,
+        "word": "官方回应炫富女喜提公租房",
+        "onboard_time": 1681646366,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854321,
+        "num": 854321,
+        "word": "无名最终票房",
+        "onboard_time": 1681649127,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52222,
+        "num": 808066,
+        "word": "风云三号07星成功发射",
+        "onboard_time": 1681648767,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777295,
+        "num": 777295,
+        "word": "范丞丞听到李晨声音的反应",
+        "onboard_time": 1681639526,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638796,
+        "num": 638796,
+        "word": "金像奖获奖名单",
+        "onboard_time": 1681645824,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1432464,
+        "num": 625256,
+        "word": "官方称女演员坠亡演出无安全措施",
+        "onboard_time": 1681631667,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592225,
+        "num": 592225,
+        "word": "油价",
+        "onboard_time": 1681648708,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 504299,
+        "num": 504299,
+        "word": "苹果设备不断要求输入AppleID密码",
+        "onboard_time": 1681631606,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 490845,
+        "num": 490845,
+        "word": "公务接待喝20元一瓶白酒被处分",
+        "onboard_time": 1681633166,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453363,
+        "num": 453363,
+        "word": "狼队 再输不礼貌了",
+        "onboard_time": 1681646547,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 978061,
+        "num": 453249,
+        "word": "泼水节被撕扯雨衣当事女生发声",
+        "onboard_time": 1681639047,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458219,
+        "num": 442387,
+        "word": "朱一龙直播",
+        "onboard_time": 1681647685,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424446,
+        "num": 424446,
+        "word": "aner出道九分钟oner几年全白干",
+        "onboard_time": 1681648406,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389431,
+        "num": 389431,
+        "word": "无业男子冒充清华研究生成网红",
+        "onboard_time": 1681641927,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64874,
+        "num": 366110,
+        "word": "审美被自主品牌玩明白了",
+        "onboard_time": 1681650028,
+        "rank": 14,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 354338,
+        "num": 354338,
+        "word": "回忆专用小马甲求婚",
+        "onboard_time": 1681630945,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 332280,
+        "num": 332280,
+        "word": "金像奖",
+        "onboard_time": 1681636047,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303273,
+        "num": 303273,
+        "word": "女子吐槽淄博一宾馆一晚收费529元",
+        "onboard_time": 1681638447,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290647,
+        "num": 290647,
+        "word": "长月烬明预告",
+        "onboard_time": 1681645106,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 271416,
+        "num": 271416,
+        "word": "极限挑战",
+        "onboard_time": 1681640065,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345257,
+        "num": 268637,
+        "word": "交警用身体为女子挡住疾驰车辆",
+        "onboard_time": 1681648347,
+        "rank": 20,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 264776,
+        "num": 264776,
+        "word": "GOT7聚会合照",
+        "onboard_time": 1681650088,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262002,
+        "num": 262002,
+        "word": "Jennie水兵月双马尾",
+        "onboard_time": 1681637547,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239469,
+        "num": 239469,
+        "word": "刘德华姜涛合照",
+        "onboard_time": 1681647384,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228417,
+        "num": 228417,
+        "word": "原来它的小尾巴可以摇",
+        "onboard_time": 1681649426,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210248,
+        "num": 210248,
+        "word": "多家银行向员工追薪",
+        "onboard_time": 1681634667,
+        "rank": 25,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 204316,
+        "num": 204316,
+        "word": "演出公司回应女演员演杂技时坠亡",
+        "onboard_time": 1681650088,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204229,
+        "num": 204229,
+        "word": "郑秀文好美",
+        "onboard_time": 1681644745,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203306,
+        "num": 203306,
+        "word": "女演员坠亡涉事演出公司曾受罚",
+        "onboard_time": 1681650205,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203256,
+        "num": 203256,
+        "word": "全红婵跳水世界杯银牌",
+        "onboard_time": 1681635806,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334656,
+        "num": 201973,
+        "word": "坠亡女演员丈夫否认吵架不系安全扣",
+        "onboard_time": 1681650449,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197448,
+        "num": 197448,
+        "word": "BLACKPINK 全开麦",
+        "onboard_time": 1681632748,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195229,
+        "num": 195229,
+        "word": "曝上瘾原定主演是宋威龙",
+        "onboard_time": 1681639408,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194005,
+        "num": 194005,
+        "word": "怦然心动20岁",
+        "onboard_time": 1681644026,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195144,
+        "num": 190541,
+        "word": "谈恋爱到什么阶段可以结婚",
+        "onboard_time": 1681642889,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186833,
+        "num": 186833,
+        "word": "福宝和爷爷",
+        "onboard_time": 1681632866,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170341,
+        "num": 170341,
+        "word": "尘封十三载今日收官",
+        "onboard_time": 1681645405,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166381,
+        "num": 166381,
+        "word": "茄皇回应视力表物料被指歧视女性",
+        "onboard_time": 1681649306,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162333,
+        "num": 162333,
+        "word": "金像奖红毯",
+        "onboard_time": 1681636589,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158884,
+        "num": 158884,
+        "word": "刘诗雯 乒坛没你不行",
+        "onboard_time": 1681635327,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156352,
+        "num": 156352,
+        "word": "李现和钎城伪装切磋功夫",
+        "onboard_time": 1681650267,
+        "rank": 40,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 149015,
+        "num": 149015,
+        "word": "张泽禹被保安抬上台",
+        "onboard_time": 1681647625,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147402,
+        "num": 147402,
+        "word": "aespa回归曲是夏日风",
+        "onboard_time": 1681642226,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145806,
+        "num": 145806,
+        "word": "长月烬明",
+        "onboard_time": 1681638985,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129845,
+        "num": 129845,
+        "word": "幼儿职业技术学院",
+        "onboard_time": 1681638508,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 129558,
+        "num": 129558,
+        "word": "金像奖最佳男配角",
+        "onboard_time": 1681650988,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128090,
+        "num": 128090,
+        "word": "你会为了另一半和好友绝交吗",
+        "onboard_time": 1681643906,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127982,
+        "num": 127982,
+        "word": "陈妍希说白宇的命也是命",
+        "onboard_time": 1681641146,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125512,
+        "num": 125512,
+        "word": "西汉姆联vs阿森纳",
+        "onboard_time": 1681649908,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95091,
+        "num": 125507,
+        "word": "DRG对战eStar",
+        "onboard_time": 1681649788,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#蕴藏着勃勃生机的春耕图景#"
+    }
+  }
+}
