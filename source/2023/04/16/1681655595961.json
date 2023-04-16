@@ -1,0 +1,410 @@
+{
+  "runTime": 1681655595961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2089802,
+        "num": 2089802,
+        "word": "坠亡女演员丈夫否认吵架不系安全扣",
+        "onboard_time": 1681650449,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1665828,
+        "num": 1665828,
+        "word": "金像奖影后郑秀文",
+        "onboard_time": 1681655129,
+        "rank": 1,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 46683,
+        "num": 1207219,
+        "word": "风云三号07星成功发射",
+        "onboard_time": 1681648767,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1065398,
+        "num": 1065398,
+        "word": "官方回应炫富女喜提公租房",
+        "onboard_time": 1681646366,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892696,
+        "num": 892696,
+        "word": "无名最终票房",
+        "onboard_time": 1681649127,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 682502,
+        "num": 682502,
+        "word": "高叶结束了两部戏的拍摄",
+        "onboard_time": 1681652369,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652502,
+        "num": 652502,
+        "word": "金像奖获奖名单",
+        "onboard_time": 1681645824,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 700651,
+        "num": 557067,
+        "word": "村民疑被当成猎物遭枪击后死亡",
+        "onboard_time": 1681653629,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427439,
+        "num": 427439,
+        "word": "尘封十三载结局",
+        "onboard_time": 1681651588,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416739,
+        "num": 416739,
+        "word": "苹果设备不断要求输入AppleID密码",
+        "onboard_time": 1681631606,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 949239,
+        "num": 415829,
+        "word": "泼水节被撕扯雨衣当事女生发声",
+        "onboard_time": 1681639047,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547542,
+        "num": 413547,
+        "word": "范丞丞听到李晨声音的反应",
+        "onboard_time": 1681639526,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435520,
+        "num": 411088,
+        "word": "Jasper当校园导游",
+        "onboard_time": 1681651468,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408409,
+        "num": 408409,
+        "word": "王菀之金像奖最佳女配角",
+        "onboard_time": 1681652666,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369965,
+        "num": 369965,
+        "word": "油价",
+        "onboard_time": 1681648708,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 314173,
+        "num": 314173,
+        "word": "金像奖",
+        "onboard_time": 1681636047,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309320,
+        "num": 309320,
+        "word": "公务接待喝20元一瓶白酒被处分",
+        "onboard_time": 1681633166,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302911,
+        "num": 302911,
+        "word": "李健音乐节",
+        "onboard_time": 1681653208,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261701,
+        "num": 261701,
+        "word": "女子吐槽淄博一宾馆一晚收费529元",
+        "onboard_time": 1681638447,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256353,
+        "num": 256353,
+        "word": "无业男子冒充清华研究生成网红",
+        "onboard_time": 1681641927,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615977,
+        "num": 256015,
+        "word": "为什么肝癌通常一发现就是晚期",
+        "onboard_time": 1681651826,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534780,
+        "num": 254720,
+        "word": "老娘已经80多天没有放假了",
+        "onboard_time": 1681654289,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331635,
+        "num": 254263,
+        "word": "周杰伦战队夺冠",
+        "onboard_time": 1681653927,
+        "rank": 22,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 313714,
+        "num": 252989,
+        "word": "特斯拉中国工厂普通工人月薪1万块",
+        "onboard_time": 1681653327,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252986,
+        "num": 252986,
+        "word": "张真源直播",
+        "onboard_time": 1681651349,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230832,
+        "num": 230832,
+        "word": "回忆专用小马甲求婚",
+        "onboard_time": 1681630945,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 230185,
+        "num": 230185,
+        "word": "贾乃亮黄景瑜给路人唱生日歌",
+        "onboard_time": 1681653927,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208959,
+        "num": 208959,
+        "word": "交警用身体为女子挡住疾驰车辆",
+        "onboard_time": 1681648347,
+        "rank": 27,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 207005,
+        "num": 207005,
+        "word": "aner出道九分钟oner几年全白干",
+        "onboard_time": 1681648406,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201465,
+        "num": 201465,
+        "word": "原来它的小尾巴可以摇",
+        "onboard_time": 1681649426,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205602,
+        "num": 198589,
+        "word": "长月烬明预告",
+        "onboard_time": 1681645106,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220384,
+        "num": 197648,
+        "word": "金像奖红毯",
+        "onboard_time": 1681636589,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192527,
+        "num": 192527,
+        "word": "GOT7聚会合照",
+        "onboard_time": 1681650088,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188534,
+        "num": 188534,
+        "word": "谈恋爱到什么阶段可以结婚",
+        "onboard_time": 1681642889,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180432,
+        "num": 180432,
+        "word": "茄皇回应视力表物料被指歧视女性",
+        "onboard_time": 1681649306,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183139,
+        "num": 179686,
+        "word": "韦家辉金像奖最佳导演",
+        "onboard_time": 1681655372,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166249,
+        "num": 166249,
+        "word": "全红婵跳水世界杯银牌",
+        "onboard_time": 1681635806,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165786,
+        "num": 165786,
+        "word": "狼队 再输不礼貌了",
+        "onboard_time": 1681646547,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164487,
+        "num": 164487,
+        "word": "BLACKPINK 全开麦",
+        "onboard_time": 1681632748,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154044,
+        "num": 154044,
+        "word": "多家银行向员工追薪",
+        "onboard_time": 1681634667,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 163359,
+        "num": 154040,
+        "word": "EXO新歌live舞台",
+        "onboard_time": 1681652787,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154030,
+        "num": 154030,
+        "word": "白桃星座",
+        "onboard_time": 1681655498,
+        "rank": 41,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 146345,
+        "num": 146345,
+        "word": "Jennie水兵月双马尾",
+        "onboard_time": 1681637547,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141453,
+        "num": 141453,
+        "word": "长月烬明",
+        "onboard_time": 1681638985,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141320,
+        "num": 141320,
+        "word": "刘诗雯 乒坛没你不行",
+        "onboard_time": 1681635327,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131078,
+        "num": 131078,
+        "word": "福宝和爷爷",
+        "onboard_time": 1681632866,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116611,
+        "num": 116611,
+        "word": "女演员坠亡涉事演出公司曾受罚",
+        "onboard_time": 1681650205,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116572,
+        "num": 116572,
+        "word": "官方称女演员坠亡演出无安全措施",
+        "onboard_time": 1681631667,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116363,
+        "num": 116363,
+        "word": "曝上瘾原定主演是宋威龙",
+        "onboard_time": 1681639408,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84904,
+        "num": 116334,
+        "word": "DRG对战eStar",
+        "onboard_time": 1681649788,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化既造福中国人民又促进世界共同发展#"
+    }
+  }
+}

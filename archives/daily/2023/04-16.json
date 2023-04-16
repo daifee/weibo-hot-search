@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681654464070,
+  "endTime": 1681655595961,
   "band_list": [
     {
       "raw_hot": 2583696,
@@ -35,19 +35,19 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2089802,
+      "num": 2089802,
+      "word": "坠亡女演员丈夫否认吵架不系安全扣",
+      "onboard_time": 1681650449,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2072023,
       "num": 1029328,
       "word": "官方称女演员坠亡演出无安全措施",
       "onboard_time": 1681631667,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1904414,
-      "num": 1904414,
-      "word": "坠亡女演员丈夫否认吵架不系安全扣",
-      "onboard_time": 1681650449,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -73,6 +73,14 @@
       "onboard_time": 1681620089,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1665828,
+      "num": 1665828,
+      "word": "金像奖影后郑秀文",
+      "onboard_time": 1681655129,
+      "rank": 1,
+      "category": "影视,影视"
     },
     {
       "raw_hot": 1659423,
@@ -315,6 +323,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 700651,
+      "num": 557067,
+      "word": "村民疑被当成猎物遭枪击后死亡",
+      "onboard_time": 1681653629,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699884,
       "num": 699884,
       "word": "福宝和爷爷",
@@ -385,6 +401,14 @@
       "onboard_time": 1681646547,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 615977,
+      "num": 256684,
+      "word": "为什么肝癌通常一发现就是晚期",
+      "onboard_time": 1681651826,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601716,
@@ -459,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 527123,
-      "num": 256684,
-      "word": "为什么肝癌通常一发现就是晚期",
-      "onboard_time": 1681651826,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 534780,
+      "num": 254720,
+      "word": "老娘已经80多天没有放假了",
+      "onboard_time": 1681654289,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 522650,
@@ -524,7 +548,7 @@
     },
     {
       "raw_hot": 454258,
-      "num": 379302,
+      "num": 411088,
       "word": "Jasper当校园导游",
       "onboard_time": 1681651468,
       "rank": 33,
@@ -835,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331635,
+      "num": 254263,
+      "word": "周杰伦战队夺冠",
+      "onboard_time": 1681653927,
+      "rank": 44,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 331152,
       "num": 331152,
       "word": "郑秀文好美",
@@ -883,6 +915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 313714,
+      "num": 252989,
+      "word": "特斯拉中国工厂普通工人月薪1万块",
+      "onboard_time": 1681653327,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311097,
       "num": 311097,
       "word": "张兰称八岁五岁小孩都喜欢看她直播",
@@ -913,6 +953,14 @@
       "onboard_time": 1681615768,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302911,
+      "num": 302911,
+      "word": "李健音乐节",
+      "onboard_time": 1681653208,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 300239,
@@ -995,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271978,
-      "num": 271978,
-      "word": "村民疑被当成猎物遭枪击后死亡",
-      "onboard_time": 1681653629,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 271416,
       "num": 271416,
       "word": "极限挑战",
@@ -1041,14 +1081,6 @@
       "onboard_time": 1681566568,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 256989,
-      "num": 255679,
-      "word": "李健音乐节",
-      "onboard_time": 1681653208,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 255241,
@@ -1171,12 +1203,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229869,
-      "num": 229869,
-      "word": "特斯拉中国工厂普通工人月薪1万块",
-      "onboard_time": 1681653327,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 230185,
+      "num": 230185,
+      "word": "贾乃亮黄景瑜给路人唱生日歌",
+      "onboard_time": 1681653927,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 229698,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1681626206,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220384,
+      "num": 197648,
+      "word": "金像奖红毯",
+      "onboard_time": 1681636589,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 219487,
@@ -1403,14 +1443,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 195978,
-      "num": 195978,
-      "word": "金像奖红毯",
-      "onboard_time": 1681636589,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195854,
       "num": 195854,
       "word": "金像奖最佳新演员",
@@ -1515,14 +1547,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 187750,
-      "num": 187750,
-      "word": "贾乃亮黄景瑜给路人唱生日歌",
-      "onboard_time": 1681653927,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187151,
       "num": 187151,
       "word": "招惹",
@@ -1547,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183139,
+      "num": 179686,
+      "word": "韦家辉金像奖最佳导演",
+      "onboard_time": 1681655372,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182361,
       "num": 182361,
       "word": "RC对战GW",
@@ -1568,14 +1600,6 @@
       "word": "尘封十三载今日收官",
       "onboard_time": 1681645405,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 180811,
-      "num": 180811,
-      "word": "老娘已经80多天没有放假了",
-      "onboard_time": 1681654289,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -1747,6 +1771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154030,
+      "num": 154030,
+      "word": "白桃星座",
+      "onboard_time": 1681655498,
+      "rank": 41,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 153093,
       "num": 209790,
       "word": "蚌埠文旅",
@@ -1849,14 +1881,6 @@
       "onboard_time": 1681565787,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141489,
-      "num": 141489,
-      "word": "周杰伦战队夺冠",
-      "onboard_time": 1681653927,
-      "rank": 44,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 141126,
@@ -2580,7 +2604,7 @@
     },
     {
       "raw_hot": 58588,
-      "num": 808066,
+      "num": 1207219,
       "word": "风云三号07星成功发射",
       "onboard_time": 1681648767,
       "rank": 2,
