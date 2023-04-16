@@ -1,0 +1,410 @@
+{
+  "runTime": 1681666408202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 640278,
+        "num": 640278,
+        "word": "坠亡女演员和搭档是夫妻",
+        "onboard_time": 1681659327,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527385,
+        "num": 527385,
+        "word": "老娘已经80多天没有放假了",
+        "onboard_time": 1681654289,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14896,
+        "num": 321172,
+        "word": "风云三号07星成功发射",
+        "onboard_time": 1681648767,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228987,
+        "num": 228987,
+        "word": "金像奖影后郑秀文",
+        "onboard_time": 1681655129,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225438,
+        "num": 225438,
+        "word": "aespa正规1变迷你3",
+        "onboard_time": 1681660047,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181015,
+        "num": 181015,
+        "word": "鬼灭之刃",
+        "onboard_time": 1681660168,
+        "rank": 5,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 180152,
+        "num": 180152,
+        "word": "你能接受的音乐节门票是多少",
+        "onboard_time": 1681661006,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170363,
+        "num": 170363,
+        "word": "特斯拉中国工厂普通工人月薪1万块",
+        "onboard_time": 1681653327,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165952,
+        "num": 165952,
+        "word": "金子涵 身体目前已无大碍",
+        "onboard_time": 1681656028,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96600,
+        "num": 96600,
+        "word": "无业男子冒充清华研究生成网红",
+        "onboard_time": 1681641927,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613875,
+        "num": 96448,
+        "word": "罗云熙微博小号",
+        "onboard_time": 1681658188,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291581,
+        "num": 94468,
+        "word": "泼水节被撕扯雨衣当事女生发声",
+        "onboard_time": 1681639047,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270298,
+        "num": 91134,
+        "word": "叶一茜写给森碟的一封信",
+        "onboard_time": 1681656150,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137382,
+        "num": 89965,
+        "word": "范丞丞听到李晨声音的反应",
+        "onboard_time": 1681639526,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106337,
+        "num": 88178,
+        "word": "官方回应炫富女喜提公租房",
+        "onboard_time": 1681646366,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120743,
+        "num": 86320,
+        "word": "BLACKPINK科切拉人气",
+        "onboard_time": 1681660888,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 85507,
+        "num": 85507,
+        "word": "白桃星座",
+        "onboard_time": 1681655498,
+        "rank": 16,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 83350,
+        "num": 83350,
+        "word": "坠亡女演员丈夫否认吵架不系安全扣",
+        "onboard_time": 1681650449,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82874,
+        "num": 82874,
+        "word": "苹果设备不断要求输入AppleID密码",
+        "onboard_time": 1681631606,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 81456,
+        "num": 81456,
+        "word": "刘青云第三次获金像奖影帝",
+        "onboard_time": 1681656091,
+        "rank": 19,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 162443,
+        "num": 80155,
+        "word": "南京交警隧道查酒驾被滴滴司机撞飞",
+        "onboard_time": 1681660348,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125259,
+        "num": 80012,
+        "word": "为什么肝癌通常一发现就是晚期",
+        "onboard_time": 1681651826,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84915,
+        "num": 79357,
+        "word": "朴灿烈金钟仁手忙脚乱比心",
+        "onboard_time": 1681662981,
+        "rank": 22,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 78264,
+        "num": 78264,
+        "word": "五一假期去哪个音乐节",
+        "onboard_time": 1681664239,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 66667,
+        "num": 66667,
+        "word": "原来它的小尾巴可以摇",
+        "onboard_time": 1681649426,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70661,
+        "num": 66485,
+        "word": "言承旭说呼叫杉菜就会出现",
+        "onboard_time": 1681662743,
+        "rank": 25,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 66021,
+        "num": 66021,
+        "word": "无名最终票房",
+        "onboard_time": 1681649127,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64766,
+        "num": 64766,
+        "word": "流水落花",
+        "onboard_time": 1681659986,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61945,
+        "num": 61945,
+        "word": "谈恋爱到什么阶段可以结婚",
+        "onboard_time": 1681642889,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61781,
+        "num": 61781,
+        "word": "狼队 再输不礼貌了",
+        "onboard_time": 1681646547,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146714,
+        "num": 61726,
+        "word": "父母双亡女孩考研成功学校免其学费",
+        "onboard_time": 1681663819,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 60852,
+        "num": 60852,
+        "word": "aner出道九分钟oner几年全白干",
+        "onboard_time": 1681648406,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56963,
+        "num": 56963,
+        "word": "魏大勋说王鹤棣腰不行",
+        "onboard_time": 1681663641,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52889,
+        "num": 52889,
+        "word": "Jasper当校园导游",
+        "onboard_time": 1681651468,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52745,
+        "num": 52745,
+        "word": "员工称在家养病却飞往海南遭解雇",
+        "onboard_time": 1681655010,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52472,
+        "num": 52472,
+        "word": "女子吐槽淄博一宾馆一晚收费529元",
+        "onboard_time": 1681638447,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50497,
+        "num": 50497,
+        "word": "周杰伦战队夺冠",
+        "onboard_time": 1681653927,
+        "rank": 36,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 50016,
+        "num": 50016,
+        "word": "曼城",
+        "onboard_time": 1681659567,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49963,
+        "num": 49963,
+        "word": "长月烬明预告",
+        "onboard_time": 1681645106,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48439,
+        "num": 48439,
+        "word": "尘封十三载结局",
+        "onboard_time": 1681651588,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48236,
+        "num": 48236,
+        "word": "GOT7聚会合照",
+        "onboard_time": 1681650088,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46858,
+        "num": 46858,
+        "word": "交警用身体为女子挡住疾驰车辆",
+        "onboard_time": 1681648347,
+        "rank": 41,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 46025,
+        "num": 46025,
+        "word": "公务接待喝20元一瓶白酒被处分",
+        "onboard_time": 1681633166,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44946,
+        "num": 44946,
+        "word": "特斯拉上海新工厂正式开启招聘",
+        "onboard_time": 1681656629,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44647,
+        "num": 44647,
+        "word": "金像奖获奖名单",
+        "onboard_time": 1681645824,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43359,
+        "num": 43359,
+        "word": "曝上瘾原定主演是宋威龙",
+        "onboard_time": 1681639408,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42069,
+        "num": 42069,
+        "word": "高叶结束了两部戏的拍摄",
+        "onboard_time": 1681652369,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41356,
+        "num": 41356,
+        "word": "DRG对战eStar",
+        "onboard_time": 1681649788,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38967,
+        "num": 41355,
+        "word": "李健音乐节",
+        "onboard_time": 1681653208,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37864,
+        "num": 41342,
+        "word": "游客淄博买饼被宰网友转账补差价",
+        "onboard_time": 1681666216,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化既造福中国人民又促进世界共同发展#"
+    }
+  }
+}

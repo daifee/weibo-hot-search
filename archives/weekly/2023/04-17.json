@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681665261860,
+  "endTime": 1681666408202,
   "band_list": [
     {
       "raw_hot": 1537387,
@@ -219,20 +219,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146714,
+      "num": 77660,
+      "word": "父母双亡女孩考研成功学校免其学费",
+      "onboard_time": 1681663819,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 135499,
       "num": 135499,
       "word": "无业男子冒充清华研究生成网红",
       "onboard_time": 1681641927,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131999,
-      "num": 77660,
-      "word": "父母双亡女孩考研成功学校免其学费",
-      "onboard_time": 1681663819,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 130360,
@@ -387,7 +387,7 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 82189,
+      "raw_hot": 84915,
       "num": 82189,
       "word": "朴灿烈金钟仁手忙脚乱比心",
       "onboard_time": 1681662981,
@@ -443,12 +443,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 47188,
+      "raw_hot": 56963,
       "num": 59459,
       "word": "魏大勋说王鹤棣腰不行",
       "onboard_time": 1681663641,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37864,
+      "num": 41342,
+      "word": "游客淄博买饼被宰网友转账补差价",
+      "onboard_time": 1681666216,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 29701,
