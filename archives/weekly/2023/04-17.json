@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681663030025,
+  "endTime": 1681665261860,
   "band_list": [
     {
       "raw_hot": 1537387,
@@ -179,20 +179,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196487,
+      "num": 196487,
+      "word": "你能接受的音乐节门票是多少",
+      "onboard_time": 1681661006,
+      "rank": 30,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 190355,
       "num": 190355,
       "word": "特斯拉上海新工厂正式开启招聘",
       "onboard_time": 1681656629,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182828,
-      "num": 177869,
-      "word": "你能接受的音乐节门票是多少",
-      "onboard_time": 1681661006,
-      "rank": 30,
-      "category": "社会议题"
     },
     {
       "raw_hot": 182319,
@@ -225,6 +225,14 @@
       "onboard_time": 1681641927,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131999,
+      "num": 77660,
+      "word": "父母双亡女孩考研成功学校免其学费",
+      "onboard_time": 1681663819,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 130360,
@@ -371,12 +379,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 80053,
-      "num": 80053,
+      "raw_hot": 85159,
+      "num": 85159,
       "word": "言承旭说呼叫杉菜就会出现",
       "onboard_time": 1681662743,
       "rank": 40,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 82189,
+      "num": 82189,
+      "word": "朴灿烈金钟仁手忙脚乱比心",
+      "onboard_time": 1681662981,
+      "rank": 47,
+      "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 78948,
+      "num": 78948,
+      "word": "五一假期去哪个音乐节",
+      "onboard_time": 1681664239,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 71614,
@@ -419,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 58204,
-      "num": 79071,
-      "word": "朴灿烈金钟仁手忙脚乱比心",
-      "onboard_time": 1681662981,
-      "rank": 47,
-      "category": "音乐,幽默"
+      "raw_hot": 47188,
+      "num": 59459,
+      "word": "魏大勋说王鹤棣腰不行",
+      "onboard_time": 1681663641,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 29701,
