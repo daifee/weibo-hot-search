@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681686997814,
+  "endTime": 1681688009556,
   "band_list": [
     {
       "raw_hot": 1537387,
@@ -19,16 +19,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1156068,
-      "num": 1156068,
+      "raw_hot": 1416394,
+      "num": 1416394,
       "word": "坠亡女演员和搭档是夫妻",
       "onboard_time": 1681659327,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1051826,
-      "num": 1051826,
+      "raw_hot": 1313799,
+      "num": 1313799,
       "word": "医生提醒不要频繁清嗓子",
       "onboard_time": 1681677612,
       "rank": 11,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499493,
+      "num": 499493,
+      "word": "游客称在淄博一烧烤店遇强制消费",
+      "onboard_time": 1681676711,
+      "rank": 45,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 449007,
       "num": 449007,
       "word": "坠亡女演员丈夫否认吵架不系安全扣",
@@ -83,20 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446975,
-      "num": 446975,
-      "word": "游客称在淄博一烧烤店遇强制消费",
-      "onboard_time": 1681676711,
-      "rank": 45,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 405439,
       "num": 405439,
       "word": "鬼灭之刃",
       "onboard_time": 1681660168,
       "rank": 7,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 380905,
+      "num": 380905,
+      "word": "湖人战胜灰熊",
+      "onboard_time": 1681686982,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 334473,
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 303655,
-      "num": 181900,
+      "num": 192672,
       "word": "为什么肝癌通常一发现就是晚期",
       "onboard_time": 1681651826,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300861,
+      "num": 214477,
+      "word": "泫雅机场素颜照",
+      "onboard_time": 1681686501,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 299808,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 295196,
-      "num": 178054,
+      "num": 195495,
       "word": "南京交警隧道查酒驾被滴滴司机撞飞",
       "onboard_time": 1681660348,
       "rank": 21,
@@ -145,6 +161,22 @@
       "onboard_time": 1681659567,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290428,
+      "num": 213928,
+      "word": "多架民航客机在苏丹被击中",
+      "onboard_time": 1681672031,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287723,
+      "num": 212710,
+      "word": "赞多肚子",
+      "onboard_time": 1681686921,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280961,
@@ -163,20 +195,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263618,
-      "num": 166908,
-      "word": "多架民航客机在苏丹被击中",
-      "onboard_time": 1681672031,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246695,
-      "num": 246695,
+      "raw_hot": 247210,
+      "num": 247210,
       "word": "无名最终票房",
       "onboard_time": 1681649127,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228153,
+      "num": 212242,
+      "word": "莫兰特受伤",
+      "onboard_time": 1681687161,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217988,
+      "num": 217988,
+      "word": "无业男子冒充清华研究生成网红",
+      "onboard_time": 1681641927,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210879,
+      "num": 210879,
+      "word": "美国警察搞错出警地址后误杀房主",
+      "onboard_time": 1681680252,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210645,
@@ -211,14 +259,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 192095,
-      "num": 166288,
-      "word": "美国警察搞错出警地址后误杀房主",
-      "onboard_time": 1681680252,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190355,
       "num": 190355,
       "word": "特斯拉上海新工厂正式开启招聘",
@@ -228,18 +268,18 @@
     },
     {
       "raw_hot": 182319,
-      "num": 100869,
+      "num": 121951,
       "word": "听了龚俊凡尔赛黄景瑜贾乃亮想走",
       "onboard_time": 1681658608,
       "rank": 46,
       "category": "综艺"
     },
     {
-      "raw_hot": 177114,
-      "num": 177114,
-      "word": "无业男子冒充清华研究生成网红",
-      "onboard_time": 1681641927,
-      "rank": 25,
+      "raw_hot": 165043,
+      "num": 165043,
+      "word": "员工称在家养病却飞往海南遭解雇",
+      "onboard_time": 1681655010,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -260,19 +300,11 @@
     },
     {
       "raw_hot": 146714,
-      "num": 104931,
+      "num": 130980,
       "word": "父母双亡女孩考研成功学校免其学费",
       "onboard_time": 1681663819,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 144628,
-      "num": 130360,
-      "word": "员工称在家养病却飞往海南遭解雇",
-      "onboard_time": 1681655010,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127424,
@@ -297,6 +329,14 @@
       "onboard_time": 1681642889,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119645,
+      "num": 119645,
+      "word": "游客淄博买饼被宰网友转账补差价",
+      "onboard_time": 1681666216,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 118445,
@@ -331,8 +371,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 104183,
-      "num": 104183,
+      "raw_hot": 106095,
+      "num": 106095,
       "word": "原来它的小尾巴可以摇",
       "onboard_time": 1681649426,
       "rank": 35,
@@ -355,12 +395,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 101591,
-      "num": 101591,
-      "word": "游客淄博买饼被宰网友转账补差价",
-      "onboard_time": 1681666216,
-      "rank": 49,
-      "category": "社会新闻,旅游"
+      "raw_hot": 102159,
+      "num": 102159,
+      "word": "诺丁汉森林0比2曼联",
+      "onboard_time": 1681687283,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101682,
+      "num": 101682,
+      "word": "言承旭说呼叫杉菜就会出现",
+      "onboard_time": 1681662743,
+      "rank": 40,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 101539,
@@ -385,14 +433,6 @@
       "onboard_time": 1681648347,
       "rank": 40,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 97412,
-      "num": 97412,
-      "word": "泫雅机场素颜照",
-      "onboard_time": 1681686501,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 92712,
@@ -425,14 +465,6 @@
       "onboard_time": 1681638447,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85159,
-      "num": 85159,
-      "word": "言承旭说呼叫杉菜就会出现",
-      "onboard_time": 1681662743,
-      "rank": 40,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 84915,
@@ -491,14 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 62471,
-      "num": 62471,
-      "word": "湖人战胜灰熊",
-      "onboard_time": 1681686982,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56963,
       "num": 59459,
       "word": "魏大勋说王鹤棣腰不行",
@@ -507,16 +531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46702,
-      "num": 46702,
-      "word": "赞多肚子",
-      "onboard_time": 1681686921,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 46348,
-      "num": 46348,
+      "raw_hot": 47926,
+      "num": 57533,
       "word": "路过男子跳入水中奋力救起落水男孩",
       "onboard_time": 1681679652,
       "rank": 47,
