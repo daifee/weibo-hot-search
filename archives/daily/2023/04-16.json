@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681619631205,
+  "endTime": 1681622131708,
   "band_list": [
     {
       "raw_hot": 2146519,
@@ -41,6 +41,14 @@
       "onboard_time": 1681607848,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1363848,
+      "num": 1363848,
+      "word": "安徽高空坠落杂技女演员已身亡",
+      "onboard_time": 1681620089,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1145175,
@@ -91,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 852563,
+      "num": 852563,
+      "word": "BLACKPINK出演美国最大音乐庆典",
+      "onboard_time": 1681618947,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 827197,
       "num": 312230,
       "word": "管泽元向余霜求婚",
@@ -131,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 724867,
+      "num": 724867,
+      "word": "自助餐饮料柜每瓶都是山寨货",
+      "onboard_time": 1681616424,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 701607,
       "num": 701607,
       "word": "曝淄博酒店网上标价千元前台仅需200",
@@ -144,14 +168,6 @@
       "word": "德国即将全面淘汰核电",
       "onboard_time": 1681604725,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 689565,
-      "num": 689565,
-      "word": "自助餐饮料柜每瓶都是山寨货",
-      "onboard_time": 1681616424,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -171,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600577,
+      "num": 600577,
+      "word": "蚌埠 长月烬明",
+      "onboard_time": 1681617328,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584041,
       "num": 584041,
       "word": "朴彩英科切拉",
@@ -187,6 +211,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 567074,
+      "num": 567074,
+      "word": "下半年选秀或将重启",
+      "onboard_time": 1681618407,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564011,
       "num": 200367,
       "word": "叶一茜曾说森碟需要减肥",
@@ -195,28 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 559412,
-      "num": 559412,
-      "word": "蚌埠 长月烬明",
-      "onboard_time": 1681617328,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 508617,
       "num": 508617,
       "word": "六公主连播朱一龙三部作品",
       "onboard_time": 1681607066,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 500459,
-      "num": 500459,
-      "word": "BLACKPINK出演美国最大音乐庆典",
-      "onboard_time": 1681618947,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 476426,
@@ -331,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393761,
+      "num": 393761,
+      "word": "肯德基 少爷和我",
+      "onboard_time": 1681621408,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 369307,
       "num": 369307,
       "word": "12306候补平均兑现率已达70%",
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317922,
+      "num": 317922,
+      "word": "国王17年后季后赛再次取胜",
+      "onboard_time": 1681618347,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317307,
       "num": 317307,
       "word": "别让泼水节变流氓节",
@@ -377,6 +409,14 @@
       "onboard_time": 1681611148,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 311097,
+      "num": 311097,
+      "word": "张兰称八岁五岁小孩都喜欢看她直播",
+      "onboard_time": 1681617208,
+      "rank": 19,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 309240,
@@ -435,16 +475,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295625,
-      "num": 295625,
-      "word": "下半年选秀或将重启",
-      "onboard_time": 1681618407,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 290304,
-      "num": 218166,
+      "num": 231163,
       "word": "小伙的胡子会移动全球不到40例",
       "onboard_time": 1681611086,
       "rank": 30,
@@ -467,12 +499,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 257451,
-      "num": 257451,
-      "word": "张兰称八岁五岁小孩都喜欢看她直播",
-      "onboard_time": 1681617208,
-      "rank": 19,
-      "category": "社会新闻,艺人"
+      "raw_hot": 259433,
+      "num": 259433,
+      "word": "Kpop爱豆出圈神图",
+      "onboard_time": 1681619908,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251808,
@@ -515,8 +547,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237194,
+      "num": 237194,
+      "word": "电影流浪地球2俄罗斯上映",
+      "onboard_time": 1681620267,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230833,
-      "num": 200892,
+      "num": 222657,
       "word": "吴奇隆空中一字马",
       "onboard_time": 1681618947,
       "rank": 26,
@@ -563,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207544,
-      "num": 207544,
-      "word": "国王17年后季后赛再次取胜",
-      "onboard_time": 1681618347,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207454,
       "num": 207454,
       "word": "淄博政府回应经济酒店价格上千",
@@ -585,6 +617,14 @@
       "onboard_time": 1681615287,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204827,
+      "num": 230022,
+      "word": "女子泼水节遭众男子围着泼水撕雨衣",
+      "onboard_time": 1681621888,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203683,
@@ -609,6 +649,14 @@
       "onboard_time": 1681607307,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198560,
+      "num": 198560,
+      "word": "张真源新歌爆炸三连音",
+      "onboard_time": 1681621047,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 196362,
@@ -755,6 +803,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 151159,
+      "num": 198560,
+      "word": "科切拉直播",
+      "onboard_time": 1681619788,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 150610,
+      "num": 198560,
+      "word": "魔都制躁音乐节",
+      "onboard_time": 1681621768,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147802,
       "num": 147802,
       "word": "杜江说通信员就是消防员的眼睛",
@@ -819,6 +883,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 130484,
+      "num": 198560,
+      "word": "蚌埠文旅",
+      "onboard_time": 1681619968,
+      "rank": 39,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 129925,
       "num": 129925,
       "word": "模范出租车",
@@ -875,6 +947,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 120107,
+      "num": 198559,
+      "word": "蚌埠烧饼夹里脊",
+      "onboard_time": 1681621708,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119394,
       "num": 119394,
       "word": "名侦探柯南黑铁的鱼影",
@@ -897,6 +977,14 @@
       "onboard_time": 1681561468,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113212,
+      "num": 198559,
+      "word": "女子辟谣妈妈做月嫂存款近500万",
+      "onboard_time": 1681621826,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112099,
@@ -1220,7 +1308,7 @@
     },
     {
       "raw_hot": 58333,
-      "num": 872684,
+      "num": 892036,
       "word": "乘车跨越中老边境线梦幻又震撼",
       "onboard_time": 1681564948,
       "rank": 2,
@@ -1321,6 +1409,14 @@
       "onboard_time": 1681539926,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24843,
+      "num": 341681,
+      "word": "红人节福利到底有多卷",
+      "onboard_time": 1681621226,
+      "rank": 14,
+      "category": "网红"
     }
   ],
   "hotgov_list": [

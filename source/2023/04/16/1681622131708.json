@@ -1,0 +1,410 @@
+{
+  "runTime": 1681622131708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1997935,
+        "num": 1997935,
+        "word": "宝妈梦到儿子流血查监控见保姆动粗",
+        "onboard_time": 1681610847,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1363848,
+        "num": 1363848,
+        "word": "安徽高空坠落杂技女演员已身亡",
+        "onboard_time": 1681620089,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12050,
+        "num": 892036,
+        "word": "乘车跨越中老边境线梦幻又震撼",
+        "onboard_time": 1681564948,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852563,
+        "num": 852563,
+        "word": "BLACKPINK出演美国最大音乐庆典",
+        "onboard_time": 1681618947,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 803450,
+        "num": 803450,
+        "word": "科切拉",
+        "onboard_time": 1681618527,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 724867,
+        "num": 724867,
+        "word": "自助餐饮料柜每瓶都是山寨货",
+        "onboard_time": 1681616424,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600577,
+        "num": 600577,
+        "word": "蚌埠 长月烬明",
+        "onboard_time": 1681617328,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 567074,
+        "num": 567074,
+        "word": "下半年选秀或将重启",
+        "onboard_time": 1681618407,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525909,
+        "num": 525909,
+        "word": "朴彩英科切拉",
+        "onboard_time": 1681618527,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 407357,
+        "num": 407357,
+        "word": "下班时间用微信工作可算作加班",
+        "onboard_time": 1681613666,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084941,
+        "num": 407143,
+        "word": "关晓彤 张元英",
+        "onboard_time": 1681608267,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 431792,
+        "num": 405977,
+        "word": "陶昕然评论赵丽颖白玉兰相关微博",
+        "onboard_time": 1681613547,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393761,
+        "num": 393761,
+        "word": "肯德基 少爷和我",
+        "onboard_time": 1681621408,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390648,
+        "num": 390648,
+        "word": "1年内5名机车网红车祸身亡",
+        "onboard_time": 1681610847,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24843,
+        "num": 341681,
+        "word": "红人节福利到底有多卷",
+        "onboard_time": 1681621226,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 319304,
+        "num": 319304,
+        "word": "白鹿微博粉丝数破2千万",
+        "onboard_time": 1681616424,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317922,
+        "num": 317922,
+        "word": "国王17年后季后赛再次取胜",
+        "onboard_time": 1681618347,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317601,
+        "num": 317601,
+        "word": "种地吧十个勤天挖笋卖笋",
+        "onboard_time": 1681615106,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311097,
+        "num": 311097,
+        "word": "张兰称八岁五岁小孩都喜欢看她直播",
+        "onboard_time": 1681617208,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 269797,
+        "num": 269797,
+        "word": "别让泼水节变流氓节",
+        "onboard_time": 1681616127,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 259433,
+        "num": 259433,
+        "word": "Kpop爱豆出圈神图",
+        "onboard_time": 1681619908,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243596,
+        "num": 243596,
+        "word": "深圳地铁回应乘客停留太久被收15元",
+        "onboard_time": 1681613129,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237194,
+        "num": 237194,
+        "word": "电影流浪地球2俄罗斯上映",
+        "onboard_time": 1681620267,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215651,
+        "num": 231163,
+        "word": "小伙的胡子会移动全球不到40例",
+        "onboard_time": 1681611086,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204827,
+        "num": 230022,
+        "word": "女子泼水节遭众男子围着泼水撕雨衣",
+        "onboard_time": 1681621888,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229174,
+        "num": 229174,
+        "word": "白玉兰提名",
+        "onboard_time": 1681610607,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222657,
+        "num": 222657,
+        "word": "吴奇隆空中一字马",
+        "onboard_time": 1681618947,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208423,
+        "num": 208423,
+        "word": "李一桐又当卧底了",
+        "onboard_time": 1681617568,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198606,
+        "num": 198606,
+        "word": "康辉遇到不会念的字会问谁",
+        "onboard_time": 1681608147,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177953,
+        "num": 198574,
+        "word": "歌迷在张杰演唱会上卡点求婚",
+        "onboard_time": 1681610907,
+        "rank": 29,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 201056,
+        "num": 198567,
+        "word": "戚薇带大侦探角色参加女子推理社",
+        "onboard_time": 1681617266,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198560,
+        "num": 198560,
+        "word": "张真源新歌爆炸三连音",
+        "onboard_time": 1681621047,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171179,
+        "num": 198560,
+        "word": "王鹤棣买龙虾",
+        "onboard_time": 1681611625,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164803,
+        "num": 198560,
+        "word": "女生15元买15个螺肉疑为福寿螺",
+        "onboard_time": 1681603582,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142173,
+        "num": 198560,
+        "word": "你需要的安静却是他们的日常",
+        "onboard_time": 1681614447,
+        "rank": 34,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 169776,
+        "num": 198560,
+        "word": "王俊凯新电影暂定春节档",
+        "onboard_time": 1681615768,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166803,
+        "num": 198560,
+        "word": "女子推理社",
+        "onboard_time": 1681617386,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141798,
+        "num": 198560,
+        "word": "刷手机不是打工人最好的摸鱼方式",
+        "onboard_time": 1681611685,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163635,
+        "num": 198560,
+        "word": "田曦薇官宣女子推理社",
+        "onboard_time": 1681613007,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130484,
+        "num": 198560,
+        "word": "蚌埠文旅",
+        "onboard_time": 1681619968,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 162011,
+        "num": 198560,
+        "word": "跑男 贵州",
+        "onboard_time": 1681604906,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156134,
+        "num": 198560,
+        "word": "王一博坐驴车花絮",
+        "onboard_time": 1681615287,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151159,
+        "num": 198560,
+        "word": "科切拉直播",
+        "onboard_time": 1681619788,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118705,
+        "num": 198560,
+        "word": "熊猫胡萝卜卡喉饲养员海姆立克施救",
+        "onboard_time": 1681606884,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150610,
+        "num": 198560,
+        "word": "魔都制躁音乐节",
+        "onboard_time": 1681621768,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121871,
+        "num": 198560,
+        "word": "12306候补平均兑现率已达70%",
+        "onboard_time": 1681604304,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 120107,
+        "num": 198559,
+        "word": "蚌埠烧饼夹里脊",
+        "onboard_time": 1681621708,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117724,
+        "num": 198559,
+        "word": "苏丹冲突已致25死183伤",
+        "onboard_time": 1681612647,
+        "rank": 47,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 113212,
+        "num": 198559,
+        "word": "女子辟谣妈妈做月嫂存款近500万",
+        "onboard_time": 1681621826,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110441,
+        "num": 198559,
+        "word": "官方回应多名中学生春游落水伤亡",
+        "onboard_time": 1681603823,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#国家安全是民族复兴的根基#"
+    }
+  }
+}
