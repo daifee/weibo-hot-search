@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681644801143,
+  "endTime": 1681648261072,
   "band_list": [
     {
       "raw_hot": 2583696,
@@ -35,7 +35,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1973104,
+      "raw_hot": 2072023,
       "num": 1029328,
       "word": "官方称女演员坠亡演出无安全措施",
       "onboard_time": 1681631667,
@@ -187,7 +187,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 852566,
+      "raw_hot": 855986,
       "num": 852566,
       "word": "泼水节被撕扯雨衣当事女生发声",
       "onboard_time": 1681639047,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720787,
+      "num": 720787,
+      "word": "无业男子冒充清华研究生成网红",
+      "onboard_time": 1681641927,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707259,
       "num": 707259,
       "word": "曝上瘾原定主演是宋威龙",
@@ -307,6 +315,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 671227,
+      "num": 361868,
+      "word": "官方回应炫富女喜提公租房",
+      "onboard_time": 1681646366,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659118,
       "num": 659118,
       "word": "1年内5名机车网红车祸身亡",
@@ -321,6 +337,14 @@
       "onboard_time": 1681635327,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 634048,
+      "num": 634048,
+      "word": "狼队 再输不礼貌了",
+      "onboard_time": 1681646547,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 601716,
@@ -371,14 +395,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 571158,
-      "num": 571158,
-      "word": "无业男子冒充清华研究生成网红",
-      "onboard_time": 1681641927,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 567074,
       "num": 567074,
       "word": "下半年选秀或将重启",
@@ -401,6 +417,14 @@
       "onboard_time": 1681623266,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 518615,
+      "num": 518615,
+      "word": "金像奖获奖名单",
+      "onboard_time": 1681645824,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 508617,
@@ -449,6 +473,14 @@
       "onboard_time": 1681611685,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450443,
+      "num": 356490,
+      "word": "朱一龙直播",
+      "onboard_time": 1681647685,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 448226,
@@ -667,6 +699,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350810,
+      "num": 350810,
+      "word": "金像奖",
+      "onboard_time": 1681636047,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 344051,
+      "num": 344051,
+      "word": "怦然心动20岁",
+      "onboard_time": 1681644026,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336808,
       "num": 336808,
       "word": "内娱拉高审美阈值的明星",
@@ -699,12 +747,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331152,
+      "num": 331152,
+      "word": "郑秀文好美",
+      "onboard_time": 1681644745,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 327926,
       "num": 327926,
       "word": "披3名单",
       "onboard_time": 1681624528,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326957,
+      "num": 326957,
+      "word": "长月烬明预告",
+      "onboard_time": 1681645106,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 317922,
@@ -833,14 +897,6 @@
       "onboard_time": 1681638625,
       "rank": 4,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 278360,
-      "num": 278360,
-      "word": "金像奖",
-      "onboard_time": 1681636047,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 269066,
@@ -1011,6 +1067,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 218179,
+      "num": 218179,
+      "word": "谈恋爱到什么阶段可以结婚",
+      "onboard_time": 1681642889,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215244,
       "num": 118092,
       "word": "明道真的再演单均昊了",
@@ -1041,14 +1105,6 @@
       "onboard_time": 1681613426,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209873,
-      "num": 209873,
-      "word": "怦然心动20岁",
-      "onboard_time": 1681644026,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 208340,
@@ -1235,6 +1291,14 @@
       "category": "影视,游戏"
     },
     {
+      "raw_hot": 189768,
+      "num": 189768,
+      "word": "金像奖最佳新演员",
+      "onboard_time": 1681647026,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189550,
       "num": 189550,
       "word": "金智秀Flower末放舞台",
@@ -1315,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181825,
+      "num": 181825,
+      "word": "尘封十三载今日收官",
+      "onboard_time": 1681645405,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 179278,
       "num": 179278,
       "word": "红人节",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1681569150,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166858,
+      "num": 166858,
+      "word": "你会为了另一半和好友绝交吗",
+      "onboard_time": 1681643906,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 166432,
@@ -1515,14 +1595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 148546,
-      "num": 148546,
-      "word": "你会为了另一半和好友绝交吗",
-      "onboard_time": 1681643906,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 148262,
       "num": 193107,
       "word": "吴昕为戚薇新综艺打call",
@@ -1579,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140299,
+      "num": 140299,
+      "word": "刘德华姜涛合照",
+      "onboard_time": 1681647384,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140038,
       "num": 209889,
       "word": "一家四口共用一张脸",
@@ -1587,12 +1667,28 @@
       "category": "网红,幽默"
     },
     {
+      "raw_hot": 139314,
+      "num": 139314,
+      "word": "正义回廊",
+      "onboard_time": 1681647446,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137752,
       "num": 137752,
       "word": "自考英语二",
       "onboard_time": 1681640425,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137459,
+      "num": 137459,
+      "word": "张泽禹被保安抬上台",
+      "onboard_time": 1681647625,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 137147,
@@ -1657,6 +1753,14 @@
       "onboard_time": 1681576405,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 132789,
+      "num": 132789,
+      "word": "郑在玹灰发",
+      "onboard_time": 1681647747,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131942,
@@ -1747,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121940,
+      "num": 141720,
+      "word": "狼队战胜RW",
+      "onboard_time": 1681647867,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120947,
       "num": 120947,
       "word": "长空之王导演谈创作缘起",
@@ -1796,7 +1908,7 @@
     },
     {
       "raw_hot": 113267,
-      "num": 113267,
+      "num": 139406,
       "word": "上海申花vs山东泰山",
       "onboard_time": 1681640907,
       "rank": 46,
@@ -1931,14 +2043,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101810,
-      "num": 101810,
-      "word": "郑秀文好美",
-      "onboard_time": 1681644745,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 101408,
       "num": 118479,
       "word": "詹姆斯儿子客串速度与激情10",
@@ -1953,14 +2057,6 @@
       "onboard_time": 1681600879,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 101199,
-      "num": 101199,
-      "word": "谈恋爱到什么阶段可以结婚",
-      "onboard_time": 1681642889,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 99920,
@@ -1995,12 +2091,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 95357,
-      "num": 101824,
+      "raw_hot": 96309,
+      "num": 345130,
       "word": "激光雷达是智商税吗",
       "onboard_time": 1681643366,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 95671,
+      "num": 139353,
+      "word": "杨昊夺男子十米台冠军",
+      "onboard_time": 1681645946,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 95189,
@@ -2065,6 +2169,14 @@
       "onboard_time": 1681614027,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85943,
+      "num": 122060,
+      "word": "杨昊207B跳出满分108分",
+      "onboard_time": 1681647747,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 84668,
@@ -2145,6 +2257,14 @@
       "onboard_time": 1681569090,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73294,
+      "num": 122077,
+      "word": "大屏加语音就叫智能车吗",
+      "onboard_time": 1681644926,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 72250,

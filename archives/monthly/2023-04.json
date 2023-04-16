@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681644801143,
+  "endTime": 1681648261072,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1099,6 +1099,14 @@
       "category": "社会议题,财经"
     },
     {
+      "raw_hot": 2072023,
+      "num": 1029328,
+      "word": "官方称女演员坠亡演出无安全措施",
+      "onboard_time": 1681631667,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2054850,
       "num": 2054850,
       "word": "胖东来创始人称加班不道德",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1680489868,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1973104,
-      "num": 1029328,
-      "word": "官方称女演员坠亡演出无安全措施",
-      "onboard_time": 1681631667,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1971863,
@@ -4571,6 +4571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 855986,
+      "num": 852566,
+      "word": "泼水节被撕扯雨衣当事女生发声",
+      "onboard_time": 1681639047,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854800,
       "num": 854800,
       "word": "忽然发现家里有点钱",
@@ -4608,14 +4616,6 @@
       "word": "瑞丽通知泼水节可连休4天",
       "onboard_time": 1681086628,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 852566,
-      "num": 852566,
-      "word": "泼水节被撕扯雨衣当事女生发声",
-      "onboard_time": 1681639047,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -5787,6 +5787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720787,
+      "num": 720787,
+      "word": "无业男子冒充清华研究生成网红",
+      "onboard_time": 1681641927,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719911,
       "num": 420872,
       "word": "CETC陈志龙",
@@ -6403,6 +6411,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 671227,
+      "num": 361868,
+      "word": "官方回应炫富女喜提公租房",
+      "onboard_time": 1681646366,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670816,
       "num": 670816,
       "word": "叶冰裳",
@@ -6961,6 +6977,14 @@
       "onboard_time": 1680307642,
       "rank": 4,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 634048,
+      "num": 634048,
+      "word": "狼队 再输不礼貌了",
+      "onboard_time": 1681646547,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 633250,
@@ -8017,14 +8041,6 @@
       "onboard_time": 1681453345,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 571158,
-      "num": 571158,
-      "word": "无业男子冒充清华研究生成网红",
-      "onboard_time": 1681641927,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 570887,
@@ -9089,6 +9105,14 @@
       "onboard_time": 1681127488,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 518615,
+      "num": 518615,
+      "word": "金像奖获奖名单",
+      "onboard_time": 1681645824,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 517579,
@@ -10673,6 +10697,14 @@
       "onboard_time": 1680489627,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 450443,
+      "num": 356490,
+      "word": "朱一龙直播",
+      "onboard_time": 1681647685,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 450274,
@@ -13803,6 +13835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350810,
+      "num": 350810,
+      "word": "金像奖",
+      "onboard_time": 1681636047,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350604,
       "num": 350604,
       "word": "极限挑战全员上班路透",
@@ -14081,6 +14121,14 @@
       "onboard_time": 1681120827,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 344051,
+      "num": 344051,
+      "word": "怦然心动20岁",
+      "onboard_time": 1681644026,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 343624,
@@ -14561,6 +14609,14 @@
       "onboard_time": 1681458628,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331152,
+      "num": 331152,
+      "word": "郑秀文好美",
+      "onboard_time": 1681644745,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 330972,
@@ -16985,14 +17041,6 @@
       "onboard_time": 1681026026,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 278360,
-      "num": 278360,
-      "word": "金像奖",
-      "onboard_time": 1681636047,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 278096,
@@ -21051,6 +21099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218179,
+      "num": 218179,
+      "word": "谈恋爱到什么阶段可以结婚",
+      "onboard_time": 1681642889,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218167,
       "num": 218167,
       "word": "苏菲参加前夫婚礼",
@@ -21841,14 +21897,6 @@
       "onboard_time": 1681613426,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209873,
-      "num": 209873,
-      "word": "怦然心动20岁",
-      "onboard_time": 1681644026,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 209780,
@@ -26707,6 +26755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189768,
+      "num": 189768,
+      "word": "金像奖最佳新演员",
+      "onboard_time": 1681647026,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189767,
       "num": 180149,
       "word": "任嘉伦说武庚纪快杀青了",
@@ -28209,6 +28265,14 @@
       "onboard_time": 1680535474,
       "rank": 36,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 181825,
+      "num": 181825,
+      "word": "尘封十三载今日收官",
+      "onboard_time": 1681645405,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 181622,
@@ -29936,6 +30000,14 @@
       "word": "薄冰反派",
       "onboard_time": 1680405268,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 166858,
+      "num": 166858,
+      "word": "你会为了另一半和好友绝交吗",
+      "onboard_time": 1681643906,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -32259,14 +32331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148546,
-      "num": 148546,
-      "word": "你会为了另一半和好友绝交吗",
-      "onboard_time": 1681643906,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 148457,
       "num": 148457,
       "word": "容易出错的跑姿你中招了吗",
@@ -33179,6 +33243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140299,
+      "num": 140299,
+      "word": "刘德华姜涛合照",
+      "onboard_time": 1681647384,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140230,
       "num": 140230,
       "word": "方芷衡郭声扬欢4醉酒戏上大分",
@@ -33241,6 +33313,14 @@
       "onboard_time": 1680336752,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139314,
+      "num": 139314,
+      "word": "正义回廊",
+      "onboard_time": 1681647446,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 139184,
@@ -33417,6 +33497,14 @@
       "onboard_time": 1681525944,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137459,
+      "num": 137459,
+      "word": "张泽禹被保安抬上台",
+      "onboard_time": 1681647625,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 137432,
@@ -33913,6 +34001,14 @@
       "onboard_time": 1680937108,
       "rank": 29,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 132789,
+      "num": 132789,
+      "word": "郑在玹灰发",
+      "onboard_time": 1681647747,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132726,
@@ -34995,6 +35091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121940,
+      "num": 141720,
+      "word": "狼队战胜RW",
+      "onboard_time": 1681647867,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121811,
       "num": 121811,
       "word": "张远叶炫清献唱长月烬明插曲",
@@ -35684,7 +35788,7 @@
     },
     {
       "raw_hot": 113267,
-      "num": 113267,
+      "num": 139406,
       "word": "上海申花vs山东泰山",
       "onboard_time": 1681640907,
       "rank": 46,
@@ -36475,14 +36579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 101810,
-      "num": 101810,
-      "word": "郑秀文好美",
-      "onboard_time": 1681644745,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 101675,
       "num": 101675,
       "word": "岳云鹏第一次相亲没相上",
@@ -36529,14 +36625,6 @@
       "onboard_time": 1681556245,
       "rank": 41,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 101199,
-      "num": 101199,
-      "word": "谈恋爱到什么阶段可以结婚",
-      "onboard_time": 1681642889,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 100895,
@@ -36835,6 +36923,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 96309,
+      "num": 345130,
+      "word": "激光雷达是智商税吗",
+      "onboard_time": 1681643366,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 96180,
       "num": 96180,
       "word": "爱很美味今日上映",
@@ -36859,6 +36955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95671,
+      "num": 139353,
+      "word": "杨昊夺男子十米台冠军",
+      "onboard_time": 1681645946,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95507,
       "num": 95507,
       "word": "灌篮高手成动画片零点场票房冠军",
@@ -36881,14 +36985,6 @@
       "onboard_time": 1681536267,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 95357,
-      "num": 101824,
-      "word": "激光雷达是智商税吗",
-      "onboard_time": 1681643366,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 95189,
@@ -37299,6 +37395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85943,
+      "num": 122060,
+      "word": "杨昊207B跳出满分108分",
+      "onboard_time": 1681647747,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85804,
       "num": 85804,
       "word": "人生路不熟愚人节好好说话海报",
@@ -37593,6 +37697,14 @@
       "onboard_time": 1680416969,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73294,
+      "num": 122077,
+      "word": "大屏加语音就叫智能车吗",
+      "onboard_time": 1681644926,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 73066,
