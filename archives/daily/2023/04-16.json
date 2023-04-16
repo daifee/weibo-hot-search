@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681651998256,
+  "endTime": 1681654464070,
   "band_list": [
     {
       "raw_hot": 2583696,
@@ -40,6 +40,14 @@
       "word": "官方称女演员坠亡演出无安全措施",
       "onboard_time": 1681631667,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1904414,
+      "num": 1904414,
+      "word": "坠亡女演员丈夫否认吵架不系安全扣",
+      "onboard_time": 1681650449,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -219,14 +227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 829052,
-      "num": 413310,
-      "word": "坠亡女演员丈夫否认吵架不系安全扣",
-      "onboard_time": 1681650449,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 827197,
       "num": 312230,
       "word": "管泽元向余霜求婚",
@@ -289,6 +289,14 @@
       "onboard_time": 1681641927,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 719762,
+      "num": 719762,
+      "word": "高叶结束了两部戏的拍摄",
+      "onboard_time": 1681652369,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 707259,
@@ -363,8 +371,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 638796,
-      "num": 638796,
+      "raw_hot": 654518,
+      "num": 654518,
       "word": "金像奖获奖名单",
       "onboard_time": 1681645824,
       "rank": 7,
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527123,
+      "num": 256684,
+      "word": "为什么肝癌通常一发现就是晚期",
+      "onboard_time": 1681651826,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522650,
       "num": 522650,
       "word": "金智秀ending镜头",
@@ -464,6 +480,14 @@
       "word": "六公主连播朱一龙三部作品",
       "onboard_time": 1681607066,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 492152,
+      "num": 492152,
+      "word": "王菀之金像奖最佳女配角",
+      "onboard_time": 1681652666,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -499,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454258,
+      "num": 379302,
+      "word": "Jasper当校园导游",
+      "onboard_time": 1681651468,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452123,
       "num": 452123,
       "word": "刷手机不是打工人最好的摸鱼方式",
@@ -513,6 +545,14 @@
       "onboard_time": 1681610907,
       "rank": 12,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 447815,
+      "num": 447815,
+      "word": "尘封十三载结局",
+      "onboard_time": 1681651588,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 443194,
@@ -955,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271978,
+      "num": 271978,
+      "word": "村民疑被当成猎物遭枪击后死亡",
+      "onboard_time": 1681653629,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271416,
       "num": 271416,
       "word": "极限挑战",
@@ -993,6 +1041,14 @@
       "onboard_time": 1681566568,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 256989,
+      "num": 255679,
+      "word": "李健音乐节",
+      "onboard_time": 1681653208,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 255241,
@@ -1075,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243063,
+      "num": 243063,
+      "word": "茄皇回应视力表物料被指歧视女性",
+      "onboard_time": 1681649306,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241999,
       "num": 241999,
       "word": "刘德华姜涛合照",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1681607549,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229869,
+      "num": 229869,
+      "word": "特斯拉中国工厂普通工人月薪1万块",
+      "onboard_time": 1681653327,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229698,
@@ -1155,14 +1227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217766,
-      "num": 217766,
-      "word": "尘封十三载结局",
-      "onboard_time": 1681651588,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 215244,
       "num": 118092,
       "word": "明道真的再演单均昊了",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1681614447,
       "rank": 34,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 209900,
+      "num": 209900,
+      "word": "EXO新歌live舞台",
+      "onboard_time": 1681652787,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 209892,
@@ -1323,14 +1395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196674,
-      "num": 196674,
-      "word": "茄皇回应视力表物料被指歧视女性",
-      "onboard_time": 1681649306,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196362,
       "num": 196362,
       "word": "为什么雨声容易让人犯困",
@@ -1385,14 +1449,6 @@
       "onboard_time": 1681614984,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193300,
-      "num": 193300,
-      "word": "Jasper当校园导游",
-      "onboard_time": 1681651468,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 192787,
@@ -1459,6 +1515,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 187750,
+      "num": 187750,
+      "word": "贾乃亮黄景瑜给路人唱生日歌",
+      "onboard_time": 1681653927,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187151,
       "num": 187151,
       "word": "招惹",
@@ -1504,6 +1568,14 @@
       "word": "尘封十三载今日收官",
       "onboard_time": 1681645405,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180811,
+      "num": 180811,
+      "word": "老娘已经80多天没有放假了",
+      "onboard_time": 1681654289,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1777,6 +1849,14 @@
       "onboard_time": 1681565787,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141489,
+      "num": 141489,
+      "word": "周杰伦战队夺冠",
+      "onboard_time": 1681653927,
+      "rank": 44,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 141126,
@@ -2091,14 +2171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109180,
-      "num": 128580,
-      "word": "为什么肝癌通常一发现就是晚期",
-      "onboard_time": 1681651826,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106687,
       "num": 106687,
       "word": "重庆的麻将馆服务",
@@ -2409,6 +2481,14 @@
       "onboard_time": 1681639886,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75042,
+      "num": 141126,
+      "word": "长沙上演盛大灯光秀",
+      "onboard_time": 1681653690,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 74368,
