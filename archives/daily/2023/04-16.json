@@ -1,6 +1,6 @@
 {
   "startTime": 1681575693686,
-  "endTime": 1681613131077,
+  "endTime": 1681615070666,
   "band_list": [
     {
       "raw_hot": 1779535,
@@ -35,6 +35,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1298551,
+      "num": 1298551,
+      "word": "宝妈梦到儿子流血查监控见保姆动粗",
+      "onboard_time": 1681610847,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1145175,
       "num": 120777,
       "word": "蔡徐坤的关注",
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 872121,
-      "num": 326047,
-      "word": "宝妈梦到儿子流血查监控见保姆动粗",
-      "onboard_time": 1681610847,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 869487,
+      "num": 869487,
+      "word": "陶昕然评论赵丽颖白玉兰相关微博",
+      "onboard_time": 1681613547,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 827197,
@@ -99,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 730885,
+      "num": 730885,
+      "word": "田曦薇官宣女子推理社",
+      "onboard_time": 1681613007,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 701607,
       "num": 701607,
       "word": "曝淄博酒店网上标价千元前台仅需200",
@@ -112,6 +128,14 @@
       "word": "德国即将全面淘汰核电",
       "onboard_time": 1681604725,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659118,
+      "num": 659118,
+      "word": "1年内5名机车网红车祸身亡",
+      "onboard_time": 1681610847,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -139,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 525604,
-      "num": 525604,
-      "word": "1年内5名机车网红车祸身亡",
-      "onboard_time": 1681610847,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 508617,
       "num": 508617,
       "word": "六公主连播朱一龙三部作品",
@@ -161,6 +177,14 @@
       "onboard_time": 1681574429,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 452123,
+      "num": 452123,
+      "word": "刷手机不是打工人最好的摸鱼方式",
+      "onboard_time": 1681611685,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448226,
@@ -179,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433423,
+      "num": 433423,
+      "word": "白玉兰提名",
+      "onboard_time": 1681610607,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432554,
       "num": 198659,
       "word": "女子鱼刺卡喉花1265元取出直呼贵",
@@ -193,6 +225,14 @@
       "onboard_time": 1681573649,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 413913,
+      "num": 367560,
+      "word": "王鹤棣买龙虾",
+      "onboard_time": 1681611625,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 413532,
@@ -211,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396868,
-      "num": 396868,
-      "word": "白玉兰提名",
-      "onboard_time": 1681610607,
-      "rank": 6,
-      "category": "影视"
+      "raw_hot": 384207,
+      "num": 384207,
+      "word": "下班时间用微信工作可算作加班",
+      "onboard_time": 1681613666,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369307,
@@ -251,19 +291,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330282,
-      "num": 319913,
-      "word": "王鹤棣买龙虾",
-      "onboard_time": 1681611625,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 317795,
-      "num": 317795,
-      "word": "刷手机不是打工人最好的摸鱼方式",
-      "onboard_time": 1681611685,
-      "rank": 21,
+      "raw_hot": 323216,
+      "num": 323216,
+      "word": "深圳地铁回应乘客停留太久被收15元",
+      "onboard_time": 1681613129,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 290304,
-      "num": 125100,
+      "num": 161210,
       "word": "小伙的胡子会移动全球不到40例",
       "onboard_time": 1681611086,
       "rank": 30,
@@ -329,6 +361,14 @@
       "onboard_time": 1681566568,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 259089,
+      "num": 259089,
+      "word": "苏丹冲突已致25死183伤",
+      "onboard_time": 1681612647,
+      "rank": 33,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 251808,
@@ -369,6 +409,14 @@
       "onboard_time": 1681574068,
       "rank": 33,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 218730,
+      "num": 218730,
+      "word": "勇士VS国王",
+      "onboard_time": 1681610125,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 215244,
@@ -419,12 +467,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 195909,
-      "num": 195909,
-      "word": "田曦薇官宣女子推理社",
-      "onboard_time": 1681613007,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 191896,
+      "num": 191896,
+      "word": "张远首张个人实体专辑嘉宾",
+      "onboard_time": 1681614984,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 190704,
@@ -435,14 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 190320,
-      "num": 190320,
-      "word": "勇士VS国王",
-      "onboard_time": 1681610125,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188855,
       "num": 118098,
       "word": "生气容易长结节吗",
@@ -451,12 +491,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 186143,
+      "num": 186143,
+      "word": "极限挑战第九季开播",
+      "onboard_time": 1681613787,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181927,
       "num": 181927,
       "word": "郑秀妍开北京首店",
       "onboard_time": 1681559186,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177796,
+      "num": 177796,
+      "word": "耳屎其实能保护耳道和鼓膜",
+      "onboard_time": 1681612168,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177501,
@@ -491,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157020,
+      "num": 157020,
+      "word": "淄博21条烧烤专线可线上查询",
+      "onboard_time": 1681613129,
+      "rank": 31,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 156571,
       "num": 156571,
       "word": "灌篮高手口碑",
@@ -515,6 +579,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 149883,
+      "num": 149883,
+      "word": "韩国新增多例猴痘本土感染病例",
+      "onboard_time": 1681613426,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142573,
       "num": 68214,
       "word": "东亚家庭",
@@ -537,6 +609,14 @@
       "onboard_time": 1681603102,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135521,
+      "num": 135521,
+      "word": "你需要的安静却是他们的日常",
+      "onboard_time": 1681614447,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 133571,
@@ -587,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 119849,
+      "num": 119849,
+      "word": "杜江说通信员就是消防员的眼睛",
+      "onboard_time": 1681614984,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119394,
       "num": 119394,
       "word": "名侦探柯南黑铁的鱼影",
@@ -603,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118915,
-      "num": 118915,
-      "word": "耳屎其实能保护耳道和鼓膜",
-      "onboard_time": 1681612168,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117016,
       "num": 118005,
       "word": "听说这是世界上最快的速度",
@@ -619,20 +699,20 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 116504,
-      "num": 116504,
-      "word": "苏丹冲突已致25死183伤",
-      "onboard_time": 1681612647,
-      "rank": 33,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 113418,
       "num": 118033,
       "word": "柳智敏神似爱丽丝",
       "onboard_time": 1681561468,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112099,
+      "num": 112099,
+      "word": "苏丹航空暂停国内国际航班",
+      "onboard_time": 1681613968,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111960,
@@ -801,6 +881,22 @@
       "onboard_time": 1681612405,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 87291,
+      "num": 87291,
+      "word": "多地气温挑战今年首个30℃",
+      "onboard_time": 1681614027,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84668,
+      "num": 84668,
+      "word": "杨涛鸣等30多人涉嫌诈骗被刑拘",
+      "onboard_time": 1681614625,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84089,
