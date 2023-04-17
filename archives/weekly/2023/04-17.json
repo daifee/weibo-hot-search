@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681744716552,
+  "endTime": 1681745626529,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -363,6 +363,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 759149,
+      "num": 759149,
+      "word": "臀部发力的走路姿势我真的悟了",
+      "onboard_time": 1681743572,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 723098,
       "num": 723098,
       "word": "上班能挣几个钱",
@@ -539,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 573664,
+      "num": 299869,
+      "word": "张含韵 没想到30岁会这么好",
+      "onboard_time": 1681744290,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 573498,
       "num": 335764,
       "word": "吴镇宇 香港电影青黄不接",
@@ -625,14 +641,6 @@
       "onboard_time": 1681710865,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 492581,
-      "num": 343021,
-      "word": "臀部发力的走路姿势我真的悟了",
-      "onboard_time": 1681743572,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 482556,
@@ -771,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422686,
+      "num": 292300,
+      "word": "王鹤棣徐志胜同款逗号刘海",
+      "onboard_time": 1681743629,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 416483,
       "num": 416483,
       "word": "克拉盘",
@@ -803,11 +819,27 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 399827,
+      "num": 320667,
+      "word": "篮协曾提醒上海队和江苏队",
+      "onboard_time": 1681742010,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393388,
       "num": 393388,
       "word": "当事女生回应因吃面崩溃",
       "onboard_time": 1681725149,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390865,
+      "num": 390865,
+      "word": "大批学生特种兵留宿淄博海底捞",
+      "onboard_time": 1681741470,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -915,14 +947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 334353,
-      "num": 334353,
-      "word": "大批学生特种兵留宿淄博海底捞",
-      "onboard_time": 1681741470,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334315,
       "num": 326508,
       "word": "被自己的大屁股救了一命",
@@ -979,20 +1003,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320667,
-      "num": 320667,
-      "word": "篮协曾提醒上海队和江苏队",
-      "onboard_time": 1681742010,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 319105,
       "num": 319105,
       "word": "深圳男篮直接晋级半决赛",
       "onboard_time": 1681702166,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318995,
+      "num": 318995,
+      "word": "杨洋杨超越或将主演凡人修仙传",
+      "onboard_time": 1681743629,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 315753,
@@ -1075,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289344,
-      "num": 289344,
-      "word": "王鹤棣徐志胜同款逗号刘海",
-      "onboard_time": 1681743629,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 285795,
       "num": 294357,
       "word": "张含韵回应质疑",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1681716266,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276218,
-      "num": 276218,
-      "word": "杨洋杨超越或将主演凡人修仙传",
-      "onboard_time": 1681743629,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 276168,
@@ -1323,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215861,
+      "num": 202524,
+      "word": "澹台烬 纯爱",
+      "onboard_time": 1681744290,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214084,
       "num": 214084,
       "word": "小米13ultra",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1681740207,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206860,
-      "num": 206860,
-      "word": "张含韵 没想到30岁会这么好",
-      "onboard_time": 1681744290,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 206302,
@@ -1835,12 +1843,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160692,
-      "num": 160692,
-      "word": "澹台烬 纯爱",
-      "onboard_time": 1681744290,
-      "rank": 35,
-      "category": "影视"
+      "raw_hot": 160100,
+      "num": 160100,
+      "word": "杭州坠楼女童家属申请变更保姆罪名",
+      "onboard_time": 1681744826,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158898,
@@ -2073,6 +2081,14 @@
       "onboard_time": 1681689986,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131697,
+      "num": 131697,
+      "word": "长月烬明 乌鸦",
+      "onboard_time": 1681745427,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 129726,
