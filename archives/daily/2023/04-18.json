@@ -1,0 +1,411 @@
+{
+  "startTime": 1681748601360,
+  "endTime": 1681748601360,
+  "band_list": [
+    {
+      "raw_hot": 1371909,
+      "num": 278357,
+      "word": "杨幂聚餐",
+      "onboard_time": 1681742311,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1147601,
+      "num": 277552,
+      "word": "那英十年前为调休发声",
+      "onboard_time": 1681739546,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 977180,
+      "num": 977180,
+      "word": "臀部发力的走路姿势我真的悟了",
+      "onboard_time": 1681743572,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 822663,
+      "num": 822663,
+      "word": "张含韵 没想到30岁会这么好",
+      "onboard_time": 1681744290,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 585292,
+      "num": 585292,
+      "word": "要离职了被同事要求请吃饭",
+      "onboard_time": 1681744709,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 583091,
+      "num": 583091,
+      "word": "虞书欣丁禹兮 黑莲花",
+      "onboard_time": 1681741890,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 515492,
+      "num": 277183,
+      "word": "鹿晗又染粉发",
+      "onboard_time": 1681737867,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 402108,
+      "num": 275412,
+      "word": "大熊猫暖暖 被打",
+      "onboard_time": 1681736245,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386209,
+      "num": 386209,
+      "word": "在微信状态养个懒羊羊",
+      "onboard_time": 1681731267,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 363526,
+      "num": 274560,
+      "word": "生孩子一定要去公立医院",
+      "onboard_time": 1681726527,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 333789,
+      "num": 333789,
+      "word": "黑莲花 绝世大饼",
+      "onboard_time": 1681741890,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 330537,
+      "num": 330537,
+      "word": "杭州坠楼女童家属申请变更保姆罪名",
+      "onboard_time": 1681744826,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306798,
+      "num": 274331,
+      "word": "篮协曾提醒上海队和江苏队",
+      "onboard_time": 1681742010,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 295792,
+      "num": 273358,
+      "word": "林某侮辱诽谤江秋莲获刑2年3个月",
+      "onboard_time": 1681741167,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288670,
+      "num": 288670,
+      "word": "长月烬明 乌鸦",
+      "onboard_time": 1681745427,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 283952,
+      "num": 275859,
+      "word": "王鹤棣徐志胜同款逗号刘海",
+      "onboard_time": 1681743629,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 278618,
+      "num": 278618,
+      "word": "大批学生特种兵留宿淄博海底捞",
+      "onboard_time": 1681741470,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272974,
+      "num": 272974,
+      "word": "杨洋杨超越或将主演凡人修仙传",
+      "onboard_time": 1681743629,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 254414,
+      "num": 254414,
+      "word": "于正可以认识一下孙珍妮",
+      "onboard_time": 1681741167,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210608,
+      "num": 210608,
+      "word": "罗云熙嗑新兰",
+      "onboard_time": 1681737929,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 166430,
+      "num": 166430,
+      "word": "能不能接受五一放一天不调休",
+      "onboard_time": 1681716747,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161715,
+      "num": 161715,
+      "word": "李春江的最后一堂训练课",
+      "onboard_time": 1681739428,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159446,
+      "num": 159446,
+      "word": "大学教育现状",
+      "onboard_time": 1681746684,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 145827,
+      "num": 116563,
+      "word": "SpaceX星舰发射计划推迟",
+      "onboard_time": 1681738226,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 145541,
+      "num": 145541,
+      "word": "张杰演唱会",
+      "onboard_time": 1681740267,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 139494,
+      "num": 139494,
+      "word": "16岁女孩在父母二胎后确诊抑郁症",
+      "onboard_time": 1681722326,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130362,
+      "num": 130362,
+      "word": "害怕生孩子是心理障碍吗",
+      "onboard_time": 1681736007,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 129789,
+      "num": 129789,
+      "word": "孙俪 这个爸爸真的可以",
+      "onboard_time": 1681728570,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125807,
+      "num": 125807,
+      "word": "小时候的文具盒好高级啊",
+      "onboard_time": 1681745906,
+      "rank": 28,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 122060,
+      "num": 122060,
+      "word": "宁艺卓单封",
+      "onboard_time": 1681727189,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 117666,
+      "num": 117666,
+      "word": "周扬青刮痧",
+      "onboard_time": 1681731925,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117212,
+      "num": 117212,
+      "word": "澹台烬 纯爱",
+      "onboard_time": 1681744290,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 111815,
+      "num": 111815,
+      "word": "TF三代成员发文告别第一场演唱会",
+      "onboard_time": 1681737507,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 107243,
+      "num": 107243,
+      "word": "被自己的大屁股救了一命",
+      "onboard_time": 1681728148,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 104880,
+      "num": 104880,
+      "word": "陈都灵方否认恶意炒作",
+      "onboard_time": 1681735225,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 104738,
+      "num": 104738,
+      "word": "PDD歌友会",
+      "onboard_time": 1681732285,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 102978,
+      "num": 102978,
+      "word": "肖战GUCCI外网官网刷屏",
+      "onboard_time": 1681723527,
+      "rank": 38,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 102870,
+      "num": 102870,
+      "word": "月曜",
+      "onboard_time": 1681745667,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96160,
+      "num": 96160,
+      "word": "李秀满卖掉SMTOWN旧楼",
+      "onboard_time": 1681728327,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87579,
+      "num": 87579,
+      "word": "久事集团成立工作组调查上海男篮",
+      "onboard_time": 1681740867,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85781,
+      "num": 85781,
+      "word": "什么工作可以上半年休半年",
+      "onboard_time": 1681725027,
+      "rank": 42,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 85730,
+      "num": 85730,
+      "word": "长月烬明豆瓣开分6.2分",
+      "onboard_time": 1681732346,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 83462,
+      "num": 83462,
+      "word": "为何李春江李楠处罚力度有差别",
+      "onboard_time": 1681747104,
+      "rank": 44,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 74857,
+      "num": 74857,
+      "word": "一和父母对话就情绪不稳定",
+      "onboard_time": 1681747045,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 73502,
+      "num": 73502,
+      "word": "毛雪汪探班毛不易演唱会",
+      "onboard_time": 1681748005,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 65617,
+      "num": 699647,
+      "word": "这些旅游专列卷起来了",
+      "onboard_time": 1681737749,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61574,
+      "num": 73500,
+      "word": "淄博烧烤后厨有多忙",
+      "onboard_time": 1681733967,
+      "rank": 47,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 42651,
+      "num": 73500,
+      "word": "第五人格",
+      "onboard_time": 1681742128,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 41266,
+      "num": 122225,
+      "word": "调休为何让人更疲惫",
+      "onboard_time": 1681747166,
+      "rank": 29,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 40538,
+      "num": 73498,
+      "word": "球球大作战",
+      "onboard_time": 1681741589,
+      "rank": 49,
+      "category": "游戏"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#功勋模范引导时代征途#"
+    }
+  ]
+}
