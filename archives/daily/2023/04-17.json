@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681701492672,
+  "endTime": 1681702416155,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1321620,
-      "num": 1321620,
+      "raw_hot": 1364574,
+      "num": 1364574,
       "word": "周一",
       "onboard_time": 1681691726,
       "rank": 3,
@@ -73,6 +73,14 @@
       "onboard_time": 1681695326,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1084897,
+      "num": 1084897,
+      "word": "姚明称十分痛心",
+      "onboard_time": 1681701565,
+      "rank": 4,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 951121,
@@ -89,6 +97,14 @@
       "onboard_time": 1681655129,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 804634,
+      "num": 804634,
+      "word": "假球 消极比赛",
+      "onboard_time": 1681701148,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 802228,
@@ -115,6 +131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 651487,
+      "num": 651487,
+      "word": "提醒中国公民暂勿前往苏丹",
+      "onboard_time": 1681699105,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647917,
       "num": 647917,
       "word": "女演员坠亡涉事人员和单位接受调查",
@@ -123,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636297,
+      "num": 636297,
+      "word": "上海队苏州队季后赛消极比赛属实",
+      "onboard_time": 1681700726,
+      "rank": 11,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 607002,
       "num": 389035,
       "word": "赞多肚子",
       "onboard_time": 1681686921,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 598080,
-      "num": 321794,
-      "word": "提醒中国公民暂勿前往苏丹",
-      "onboard_time": 1681699105,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591009,
@@ -163,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 523529,
-      "num": 321767,
-      "word": "上海队苏州队季后赛消极比赛属实",
-      "onboard_time": 1681700726,
-      "rank": 11,
-      "category": "体育,社会新闻"
+      "raw_hot": 544178,
+      "num": 544178,
+      "word": "周杰伦起诉网易不正当竞争案开庭",
+      "onboard_time": 1681700247,
+      "rank": 30,
+      "category": "艺人,科技"
     },
     {
       "raw_hot": 502794,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 446465,
-      "num": 193263,
+      "num": 246458,
       "word": "威少太懂杜兰特了",
       "onboard_time": 1681698925,
       "rank": 32,
@@ -235,14 +259,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 386940,
-      "num": 142019,
-      "word": "周杰伦起诉网易不正当竞争案开庭",
-      "onboard_time": 1681700247,
-      "rank": 30,
-      "category": "艺人,科技"
-    },
-    {
       "raw_hot": 380905,
       "num": 380905,
       "word": "湖人战胜灰熊",
@@ -264,6 +280,14 @@
       "word": "刘青云 掌声嘘声总好过无声",
       "onboard_time": 1681688484,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 342386,
+      "num": 342386,
+      "word": "江疏影白得发光",
+      "onboard_time": 1681701446,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -371,11 +395,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233788,
-      "num": 233788,
-      "word": "假球 消极比赛",
-      "onboard_time": 1681701148,
-      "rank": 16,
+      "raw_hot": 234495,
+      "num": 234495,
+      "word": "快船战胜太阳",
+      "onboard_time": 1681701986,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -411,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212549,
+      "num": 212549,
+      "word": "白鹿官宣常州市文旅大使",
+      "onboard_time": 1681701565,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 211875,
       "num": 200353,
       "word": "父母双亡女孩考研成功学校免其学费",
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210427,
+      "num": 210427,
+      "word": "萌探3礼貌式阵容官宣",
+      "onboard_time": 1681702106,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208866,
       "num": 208866,
       "word": "官方回应炫富女喜提公租房",
@@ -435,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199927,
+      "num": 199927,
+      "word": "鹿晗择天记播出6周年",
+      "onboard_time": 1681699105,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197304,
       "num": 197304,
       "word": "BLACKPINK科切拉人气",
       "onboard_time": 1681660888,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196752,
+      "num": 196752,
+      "word": "王子文在拎一种很新的包",
+      "onboard_time": 1681701745,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 196487,
@@ -459,20 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189791,
-      "num": 189791,
-      "word": "鹿晗择天记播出6周年",
-      "onboard_time": 1681699105,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 182319,
       "num": 121951,
       "word": "听了龚俊凡尔赛黄景瑜贾乃亮想走",
       "onboard_time": 1681658608,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177606,
+      "num": 177606,
+      "word": "深圳男篮直接晋级半决赛",
+      "onboard_time": 1681702166,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 176753,
@@ -513,6 +569,14 @@
       "onboard_time": 1681631606,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 162405,
+      "num": 162405,
+      "word": "上班能挣几个钱",
+      "onboard_time": 1681702226,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 160900,
@@ -569,6 +633,14 @@
       "onboard_time": 1681666216,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 141820,
+      "num": 141820,
+      "word": "马斯克星舰迎首飞",
+      "onboard_time": 1681701865,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 132480,
@@ -745,14 +817,6 @@
       "onboard_time": 1681652369,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 91895,
-      "num": 108446,
-      "word": "江疏影白得发光",
-      "onboard_time": 1681701446,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 90107,

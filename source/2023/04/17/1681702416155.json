@@ -1,0 +1,410 @@
+{
+  "runTime": 1681702416155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3279071,
+        "num": 3279071,
+        "word": "调休",
+        "onboard_time": 1681695743,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2273197,
+        "num": 2273197,
+        "word": "李春江禁赛5年",
+        "onboard_time": 1681698205,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9360,
+        "num": 1743640,
+        "word": "风云三号07星成功发射",
+        "onboard_time": 1681648767,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364574,
+        "num": 1364574,
+        "word": "周一",
+        "onboard_time": 1681691726,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1084897,
+        "num": 1084897,
+        "word": "姚明称十分痛心",
+        "onboard_time": 1681701565,
+        "rank": 4,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 847028,
+        "num": 847028,
+        "word": "李楠禁赛3年",
+        "onboard_time": 1681698447,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 804634,
+        "num": 804634,
+        "word": "假球 消极比赛",
+        "onboard_time": 1681701148,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651487,
+        "num": 651487,
+        "word": "提醒中国公民暂勿前往苏丹",
+        "onboard_time": 1681699105,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636297,
+        "num": 636297,
+        "word": "上海队苏州队季后赛消极比赛属实",
+        "onboard_time": 1681700726,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 572987,
+        "num": 572987,
+        "word": "篮协对上海队江苏队作出处罚",
+        "onboard_time": 1681697904,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544178,
+        "num": 544178,
+        "word": "周杰伦起诉网易不正当竞争案开庭",
+        "onboard_time": 1681700247,
+        "rank": 10,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 367331,
+        "num": 367331,
+        "word": "沈月易梦玲路透",
+        "onboard_time": 1681696164,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342386,
+        "num": 342386,
+        "word": "江疏影白得发光",
+        "onboard_time": 1681701446,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331477,
+        "num": 331477,
+        "word": "赞多肚子",
+        "onboard_time": 1681686921,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284037,
+        "num": 284037,
+        "word": "老娘已经80多天没有放假了",
+        "onboard_time": 1681654289,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 282162,
+        "num": 282162,
+        "word": "罗云熙微博小号",
+        "onboard_time": 1681658188,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272200,
+        "num": 272200,
+        "word": "医生提醒不要频繁清嗓子",
+        "onboard_time": 1681677612,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271444,
+        "num": 271444,
+        "word": "王嘉尔二登科切拉",
+        "onboard_time": 1681688423,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264105,
+        "num": 264105,
+        "word": "叶一茜写给森碟的一封信",
+        "onboard_time": 1681656150,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247600,
+        "num": 247600,
+        "word": "CBA",
+        "onboard_time": 1681695326,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412362,
+        "num": 246458,
+        "word": "威少太懂杜兰特了",
+        "onboard_time": 1681698925,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234495,
+        "num": 234495,
+        "word": "快船战胜太阳",
+        "onboard_time": 1681701986,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233834,
+        "num": 233834,
+        "word": "坠亡女演员和搭档是夫妻",
+        "onboard_time": 1681659327,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212549,
+        "num": 212549,
+        "word": "白鹿官宣常州市文旅大使",
+        "onboard_time": 1681701565,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 210427,
+        "num": 210427,
+        "word": "萌探3礼貌式阵容官宣",
+        "onboard_time": 1681702106,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199927,
+        "num": 199927,
+        "word": "鹿晗择天记播出6周年",
+        "onboard_time": 1681699105,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196752,
+        "num": 196752,
+        "word": "王子文在拎一种很新的包",
+        "onboard_time": 1681701745,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177606,
+        "num": 177606,
+        "word": "深圳男篮直接晋级半决赛",
+        "onboard_time": 1681702166,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162405,
+        "num": 162405,
+        "word": "上班能挣几个钱",
+        "onboard_time": 1681702226,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159417,
+        "num": 159417,
+        "word": "游客称在淄博一烧烤店遇强制消费",
+        "onboard_time": 1681676711,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 148559,
+        "num": 148559,
+        "word": "这周日上班",
+        "onboard_time": 1681697304,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141820,
+        "num": 141820,
+        "word": "马斯克星舰迎首飞",
+        "onboard_time": 1681701865,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 138885,
+        "num": 138885,
+        "word": "刘德华对郑秀文说我爱你",
+        "onboard_time": 1681698266,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133093,
+        "num": 133093,
+        "word": "小美人鱼主演地广海报",
+        "onboard_time": 1681695985,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132109,
+        "num": 132109,
+        "word": "克拉盘",
+        "onboard_time": 1681691486,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126114,
+        "num": 126114,
+        "word": "泼水节被撕扯雨衣当事女生发声",
+        "onboard_time": 1681639047,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125040,
+        "num": 125040,
+        "word": "南京交警隧道查酒驾被滴滴司机撞飞",
+        "onboard_time": 1681660348,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112177,
+        "num": 112177,
+        "word": "父母双亡女孩考研成功学校免其学费",
+        "onboard_time": 1681663819,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 111261,
+        "num": 111261,
+        "word": "油价",
+        "onboard_time": 1681694065,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 106166,
+        "num": 106166,
+        "word": "女演员坠亡涉事人员和单位接受调查",
+        "onboard_time": 1681693047,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104505,
+        "num": 104505,
+        "word": "特斯拉中国工厂普通工人月薪1万块",
+        "onboard_time": 1681653327,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103345,
+        "num": 103345,
+        "word": "泫雅机场素颜照",
+        "onboard_time": 1681686501,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102041,
+        "num": 102041,
+        "word": "快船vs太阳",
+        "onboard_time": 1681693825,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98289,
+        "num": 102038,
+        "word": "哈妮克孜欢迎大家来家乡新疆",
+        "onboard_time": 1681696524,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96827,
+        "num": 102020,
+        "word": "aespa将公开先行曲",
+        "onboard_time": 1681697125,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94901,
+        "num": 102008,
+        "word": "游客淄博买饼被宰网友转账补差价",
+        "onboard_time": 1681666216,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 93727,
+        "num": 101999,
+        "word": "影后的复仇定档",
+        "onboard_time": 1681699466,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78389,
+        "num": 101982,
+        "word": "原神",
+        "onboard_time": 1681689747,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47765,
+        "num": 101970,
+        "word": "鬼灭之刃",
+        "onboard_time": 1681660168,
+        "rank": 48,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 38001,
+        "num": 101955,
+        "word": "周杰伦战队夺冠",
+        "onboard_time": 1681653927,
+        "rank": 49,
+        "category": "游戏,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化既造福中国人民又促进世界共同发展#"
+    }
+  }
+}

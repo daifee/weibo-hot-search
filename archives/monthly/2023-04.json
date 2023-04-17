@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681701492672,
+  "endTime": 1681702416155,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2459,6 +2459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1364574,
+      "num": 1364574,
+      "word": "周一",
+      "onboard_time": 1681691726,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1350707,
       "num": 1350707,
       "word": "8日起丫丫起居全部移交中方人员",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1681353087,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 1321620,
-      "num": 1321620,
-      "word": "周一",
-      "onboard_time": 1681691726,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1318114,
@@ -3393,6 +3393,14 @@
       "onboard_time": 1680575788,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1084897,
+      "num": 1084897,
+      "word": "姚明称十分痛心",
+      "onboard_time": 1681701565,
+      "rank": 4,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1083444,
@@ -5163,6 +5171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 804634,
+      "num": 804634,
+      "word": "假球 消极比赛",
+      "onboard_time": 1681701148,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 803376,
       "num": 803376,
       "word": "下班时间用微信工作可算作加班",
@@ -6931,6 +6947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 651487,
+      "num": 651487,
+      "word": "提醒中国公民暂勿前往苏丹",
+      "onboard_time": 1681699105,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651346,
       "num": 651346,
       "word": "陈小纭发长文迎接薄冰",
@@ -7137,6 +7161,14 @@
       "onboard_time": 1680766110,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 636297,
+      "num": 636297,
+      "word": "上海队苏州队季后赛消极比赛属实",
+      "onboard_time": 1681700726,
+      "rank": 11,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 635373,
@@ -7761,14 +7793,6 @@
       "onboard_time": 1681226851,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 598080,
-      "num": 321794,
-      "word": "提醒中国公民暂勿前往苏丹",
-      "onboard_time": 1681699105,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 597952,
@@ -8739,6 +8763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544178,
+      "num": 544178,
+      "word": "周杰伦起诉网易不正当竞争案开庭",
+      "onboard_time": 1681700247,
+      "rank": 30,
+      "category": "艺人,科技"
+    },
+    {
       "raw_hot": 543449,
       "num": 172317,
       "word": "意大利宣布禁止使用ChatGPT",
@@ -9249,14 +9281,6 @@
       "onboard_time": 1681447173,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523529,
-      "num": 321767,
-      "word": "上海队苏州队季后赛消极比赛属实",
-      "onboard_time": 1681700726,
-      "rank": 11,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 522650,
@@ -11076,7 +11100,7 @@
     },
     {
       "raw_hot": 446465,
-      "num": 193263,
+      "num": 246458,
       "word": "威少太懂杜兰特了",
       "onboard_time": 1681698925,
       "rank": 32,
@@ -13027,14 +13051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386940,
-      "num": 142019,
-      "word": "周杰伦起诉网易不正当竞争案开庭",
-      "onboard_time": 1681700247,
-      "rank": 30,
-      "category": "艺人,科技"
-    },
-    {
       "raw_hot": 386606,
       "num": 835579,
       "word": "28岁妈妈离世捐器官帮更多家庭团圆",
@@ -14537,6 +14553,14 @@
       "onboard_time": 1680526413,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342386,
+      "num": 342386,
+      "word": "江疏影白得发光",
+      "onboard_time": 1681701446,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 342347,
@@ -20107,6 +20131,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 234495,
+      "num": 234495,
+      "word": "快船战胜太阳",
+      "onboard_time": 1681701986,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234448,
       "num": 234448,
       "word": "高校回应女生从宿舍楼坠落",
@@ -20145,14 +20177,6 @@
       "onboard_time": 1681119625,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 233788,
-      "num": 233788,
-      "word": "假球 消极比赛",
-      "onboard_time": 1681701148,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 233710,
@@ -22139,6 +22163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212549,
+      "num": 212549,
+      "word": "白鹿官宣常州市文旅大使",
+      "onboard_time": 1681701565,
+      "rank": 23,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 212367,
       "num": 212367,
       "word": "TF家族演唱会全程回顾",
@@ -22313,6 +22345,14 @@
       "onboard_time": 1680837928,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210427,
+      "num": 210427,
+      "word": "萌探3礼貌式阵容官宣",
+      "onboard_time": 1681702106,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 210361,
@@ -24867,6 +24907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199927,
+      "num": 199927,
+      "word": "鹿晗择天记播出6周年",
+      "onboard_time": 1681699105,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199917,
       "num": 199917,
       "word": "李宇春新专辑宣传照曝光",
@@ -25825,6 +25873,14 @@
       "onboard_time": 1681637247,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196752,
+      "num": 196752,
+      "word": "王子文在拎一种很新的包",
+      "onboard_time": 1681701745,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 196741,
@@ -27321,14 +27377,6 @@
       "onboard_time": 1681361733,
       "rank": 41,
       "category": "音乐,综艺"
-    },
-    {
-      "raw_hot": 189791,
-      "num": 189791,
-      "word": "鹿晗择天记播出6周年",
-      "onboard_time": 1681699105,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 189779,
@@ -29339,6 +29387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177606,
+      "num": 177606,
+      "word": "深圳男篮直接晋级半决赛",
+      "onboard_time": 1681702166,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177501,
       "num": 150583,
       "word": "李现游戏头像是马东锡",
@@ -31208,6 +31264,14 @@
       "word": "梁友安叫宋三川吃狗粮",
       "onboard_time": 1680956246,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 162405,
+      "num": 162405,
+      "word": "上班能挣几个钱",
+      "onboard_time": 1681702226,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -33705,6 +33769,14 @@
       "onboard_time": 1681110207,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141820,
+      "num": 141820,
+      "word": "马斯克星舰迎首飞",
+      "onboard_time": 1681701865,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 141738,
@@ -37889,14 +37961,6 @@
       "onboard_time": 1681081879,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91895,
-      "num": 108446,
-      "word": "江疏影白得发光",
-      "onboard_time": 1681701446,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 91489,
