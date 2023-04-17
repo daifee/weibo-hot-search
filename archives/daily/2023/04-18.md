@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/18 00:23:21 ~ 2023/04/18 01:15:29
+本榜单时间：2023/04/18 00:23:21 ~ 2023/04/18 01:33:36
 </p>
 </blockquote>
 <p>
@@ -221,6 +221,12 @@ SpaceX星舰发射计划推迟（热度：145827）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B9%E5%8F%B0%E7%83%AC%20%E7%BA%AF%E7%88%B1%23" target="weibo">
 澹台烬 纯爱（热度：117212）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E6%9C%BA%23" target="weibo">
+长期戴耳机（热度：112762）
 </a>
 </li>
 

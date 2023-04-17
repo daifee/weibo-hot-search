@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/17 00:21:15 ~ 2023/04/18 01:15:29
+本榜单时间：2023/04/17 00:21:15 ~ 2023/04/18 01:33:36
 </p>
 </blockquote>
 <p>
@@ -1697,6 +1697,12 @@ DRG对战eStar（热度：127424）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E9%9F%B3%E4%B9%90%E8%8A%82%E5%AE%98%E5%AE%A3%23" target="weibo">
 西湖音乐节官宣（热度：115973）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E6%9C%BA%23" target="weibo">
+长期戴耳机（热度：112762）
 </a>
 </li>
 

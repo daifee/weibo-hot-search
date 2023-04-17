@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681751729973,
+  "endTime": 1681752816287,
   "band_list": [
     {
       "raw_hot": 1371909,
@@ -281,6 +281,14 @@
       "onboard_time": 1681744290,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 112762,
+      "num": 112762,
+      "word": "长期戴耳机",
+      "onboard_time": 1681750100,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 111815,
