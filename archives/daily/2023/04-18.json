@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681749547720,
+  "endTime": 1681751729973,
   "band_list": [
     {
       "raw_hot": 1371909,
@@ -131,6 +131,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281701,
+      "num": 281701,
+      "word": "间歇性讨厌朋友",
+      "onboard_time": 1681747944,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 279241,
+      "num": 279241,
+      "word": "大学教育现状",
+      "onboard_time": 1681746684,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 278618,
       "num": 278618,
       "word": "大批学生特种兵留宿淄博海底捞",
@@ -153,14 +169,6 @@
       "onboard_time": 1681741167,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221324,
-      "num": 221324,
-      "word": "大学教育现状",
-      "onboard_time": 1681746684,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 210608,
@@ -217,6 +225,14 @@
       "onboard_time": 1681722326,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133059,
+      "num": 133059,
+      "word": "一和父母对话就情绪不稳定",
+      "onboard_time": 1681747045,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 130362,
@@ -283,14 +299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106382,
-      "num": 106382,
-      "word": "一和父母对话就情绪不稳定",
-      "onboard_time": 1681747045,
-      "rank": 45,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 104880,
       "num": 104880,
       "word": "陈都灵方否认恶意炒作",
@@ -329,14 +337,6 @@
       "onboard_time": 1681728327,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92059,
-      "num": 92059,
-      "word": "间歇性讨厌朋友",
-      "onboard_time": 1681747944,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 87579,
@@ -409,6 +409,14 @@
       "onboard_time": 1681747166,
       "rank": 29,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 41272,
+      "num": 41272,
+      "word": "转发这个蚊香阵",
+      "onboard_time": 1681751237,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 40538,

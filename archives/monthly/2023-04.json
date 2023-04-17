@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681749547720,
+  "endTime": 1681751729973,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -18067,6 +18067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281701,
+      "num": 281701,
+      "word": "间歇性讨厌朋友",
+      "onboard_time": 1681747944,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281486,
       "num": 690221,
       "word": "汉代文物上写着五星出东方利中国",
@@ -18201,6 +18209,14 @@
       "onboard_time": 1680748827,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279241,
+      "num": 279241,
+      "word": "大学教育现状",
+      "onboard_time": 1681746684,
+      "rank": 23,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 279196,
@@ -22137,14 +22153,6 @@
       "onboard_time": 1681081761,
       "rank": 7,
       "category": "影视,音乐"
-    },
-    {
-      "raw_hot": 221324,
-      "num": 221324,
-      "word": "大学教育现状",
-      "onboard_time": 1681746684,
-      "rank": 23,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 221257,
@@ -36131,6 +36139,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 133059,
+      "num": 133059,
+      "word": "一和父母对话就情绪不稳定",
+      "onboard_time": 1681747045,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 133016,
       "num": 133016,
       "word": "三生友幸连麦睡觉",
@@ -38515,14 +38531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 106382,
-      "num": 106382,
-      "word": "一和父母对话就情绪不稳定",
-      "onboard_time": 1681747045,
-      "rank": 45,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 106145,
       "num": 382189,
       "word": "被明星种草的养肤防晒乳",
@@ -39585,14 +39593,6 @@
       "onboard_time": 1681457727,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 92059,
-      "num": 92059,
-      "word": "间歇性讨厌朋友",
-      "onboard_time": 1681747944,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 92035,
@@ -41001,6 +41001,14 @@
       "onboard_time": 1681577662,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 41272,
+      "num": 41272,
+      "word": "转发这个蚊香阵",
+      "onboard_time": 1681751237,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 41094,
