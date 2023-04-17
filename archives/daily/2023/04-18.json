@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681756496257,
+  "endTime": 1681758759576,
   "band_list": [
     {
       "raw_hot": 1371909,
@@ -443,7 +443,15 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18154,
+      "raw_hot": 28399,
+      "num": 28399,
+      "word": "强冷空气将带来俯冲式降温",
+      "onboard_time": 1681757293,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19817,
       "num": 21209,
       "word": "郑秀文获金像奖影后古天乐表情",
       "onboard_time": 1681756273,

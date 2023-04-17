@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681756496257,
+  "endTime": 1681758759576,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -41275,6 +41275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 28399,
+      "num": 28399,
+      "word": "强冷空气将带来俯冲式降温",
+      "onboard_time": 1681757293,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
@@ -41371,19 +41379,19 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 19817,
+      "num": 21209,
+      "word": "郑秀文获金像奖影后古天乐表情",
+      "onboard_time": 1681756273,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 19346,
       "num": 19346,
       "word": "薄冰全员替身文学",
       "onboard_time": 1681151713,
       "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 18154,
-      "num": 21209,
-      "word": "郑秀文获金像奖影后古天乐表情",
-      "onboard_time": 1681756273,
-      "rank": 47,
       "category": "影视"
     },
     {
