@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681769788300,
+  "endTime": 1681770794054,
   "band_list": [
     {
       "raw_hot": 1371909,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275607,
+      "num": 275607,
+      "word": "强冷空气将带来俯冲式降温",
+      "onboard_time": 1681757293,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272974,
       "num": 272974,
       "word": "杨洋杨超越或将主演凡人修仙传",
@@ -185,14 +193,6 @@
       "onboard_time": 1681737929,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 198598,
-      "num": 53431,
-      "word": "强冷空气将带来俯冲式降温",
-      "onboard_time": 1681757293,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166430,
@@ -283,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120046,
+      "num": 82824,
+      "word": "这些癌症都有哪些信号",
+      "onboard_time": 1681759933,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117666,
       "num": 117666,
       "word": "周扬青刮痧",
@@ -345,14 +353,6 @@
       "onboard_time": 1681745667,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97795,
-      "num": 51168,
-      "word": "这些癌症都有哪些信号",
-      "onboard_time": 1681759933,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96160,
@@ -427,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 42917,
+      "num": 38401,
+      "word": "根本没人敢坐我们旁边",
+      "onboard_time": 1681758852,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 42137,
       "num": 122225,
       "word": "调休为何让人更疲惫",
@@ -451,28 +459,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32877,
-      "num": 27511,
-      "word": "根本没人敢坐我们旁边",
-      "onboard_time": 1681758852,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 30568,
-      "num": 30568,
-      "word": "小S长发",
-      "onboard_time": 1681726407,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 25591,
-      "num": 25591,
+      "raw_hot": 32624,
+      "num": 32624,
       "word": "郑秀文获金像奖影后古天乐表情",
       "onboard_time": 1681756273,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 31754,
+      "num": 31754,
+      "word": "小S长发",
+      "onboard_time": 1681726407,
+      "rank": 40,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
