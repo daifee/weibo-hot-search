@@ -1,0 +1,410 @@
+{
+  "runTime": 1681756496257,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 239832,
+        "num": 239832,
+        "word": "长期戴耳机",
+        "onboard_time": 1681750100,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179582,
+        "num": 179582,
+        "word": "臀部发力的走路姿势我真的悟了",
+        "onboard_time": 1681743572,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13660,
+        "num": 131362,
+        "word": "这些旅游专列卷起来了",
+        "onboard_time": 1681737749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128267,
+        "num": 128267,
+        "word": "张含韵 没想到30岁会这么好",
+        "onboard_time": 1681744290,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78300,
+        "num": 78300,
+        "word": "要离职了被同事要求请吃饭",
+        "onboard_time": 1681744709,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74375,
+        "num": 74375,
+        "word": "虞书欣丁禹兮 黑莲花",
+        "onboard_time": 1681741890,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66760,
+        "num": 66760,
+        "word": "间歇性讨厌朋友",
+        "onboard_time": 1681747944,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68137,
+        "num": 62650,
+        "word": "黑莲花 绝世大饼",
+        "onboard_time": 1681741890,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 57276,
+        "num": 57276,
+        "word": "篮协曾提醒上海队和江苏队",
+        "onboard_time": 1681742010,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49281,
+        "num": 56808,
+        "word": "杭州坠楼女童家属申请变更保姆罪名",
+        "onboard_time": 1681744826,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235109,
+        "num": 56278,
+        "word": "杨幂聚餐",
+        "onboard_time": 1681742311,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199231,
+        "num": 55546,
+        "word": "那英十年前为调休发声",
+        "onboard_time": 1681739546,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127657,
+        "num": 55323,
+        "word": "大熊猫暖暖 被打",
+        "onboard_time": 1681736245,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93643,
+        "num": 54557,
+        "word": "生孩子一定要去公立医院",
+        "onboard_time": 1681726527,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85699,
+        "num": 53782,
+        "word": "鹿晗又染粉发",
+        "onboard_time": 1681737867,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79782,
+        "num": 53523,
+        "word": "林某侮辱诽谤江秋莲获刑2年3个月",
+        "onboard_time": 1681741167,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70029,
+        "num": 52864,
+        "word": "于正可以认识一下孙珍妮",
+        "onboard_time": 1681741167,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52451,
+        "num": 52451,
+        "word": "在微信状态养个懒羊羊",
+        "onboard_time": 1681731267,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48080,
+        "num": 48080,
+        "word": "一和父母对话就情绪不稳定",
+        "onboard_time": 1681747045,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 44506,
+        "num": 44506,
+        "word": "罗云熙嗑新兰",
+        "onboard_time": 1681737929,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42958,
+        "num": 42958,
+        "word": "大批学生特种兵留宿淄博海底捞",
+        "onboard_time": 1681741470,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42822,
+        "num": 42822,
+        "word": "大学教育现状",
+        "onboard_time": 1681746684,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 42182,
+        "num": 42182,
+        "word": "16岁女孩在父母二胎后确诊抑郁症",
+        "onboard_time": 1681722326,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41786,
+        "num": 41786,
+        "word": "长月烬明 乌鸦",
+        "onboard_time": 1681745427,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 41149,
+        "num": 41149,
+        "word": "害怕生孩子是心理障碍吗",
+        "onboard_time": 1681736007,
+        "rank": 24,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 38362,
+        "num": 38362,
+        "word": "王鹤棣徐志胜同款逗号刘海",
+        "onboard_time": 1681743629,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 37781,
+        "num": 37781,
+        "word": "长月烬明豆瓣开分6.2分",
+        "onboard_time": 1681732346,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34308,
+        "num": 34308,
+        "word": "周扬青刮痧",
+        "onboard_time": 1681731925,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36417,
+        "num": 34191,
+        "word": "陈都灵方否认恶意炒作",
+        "onboard_time": 1681735225,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 11576,
+        "num": 33789,
+        "word": "调休为何让人更疲惫",
+        "onboard_time": 1681747166,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 33724,
+        "num": 33724,
+        "word": "杨洋杨超越或将主演凡人修仙传",
+        "onboard_time": 1681743629,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 33188,
+        "num": 33188,
+        "word": "PDD歌友会",
+        "onboard_time": 1681732285,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31586,
+        "num": 31586,
+        "word": "张杰演唱会",
+        "onboard_time": 1681740267,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31326,
+        "num": 31326,
+        "word": "能不能接受五一放一天不调休",
+        "onboard_time": 1681716747,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29141,
+        "num": 29141,
+        "word": "李春江的最后一堂训练课",
+        "onboard_time": 1681739428,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28960,
+        "num": 28960,
+        "word": "小时候的文具盒好高级啊",
+        "onboard_time": 1681745906,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 27800,
+        "num": 27800,
+        "word": "被自己的大屁股救了一命",
+        "onboard_time": 1681728148,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27474,
+        "num": 27474,
+        "word": "为何李春江李楠处罚力度有差别",
+        "onboard_time": 1681747104,
+        "rank": 37,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 27434,
+        "num": 27434,
+        "word": "久事集团成立工作组调查上海男篮",
+        "onboard_time": 1681740867,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26841,
+        "num": 26841,
+        "word": "TF三代成员发文告别第一场演唱会",
+        "onboard_time": 1681737507,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26651,
+        "num": 26651,
+        "word": "李秀满卖掉SMTOWN旧楼",
+        "onboard_time": 1681728327,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26544,
+        "num": 26544,
+        "word": "小S长发",
+        "onboard_time": 1681726407,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25146,
+        "num": 25146,
+        "word": "宁艺卓单封",
+        "onboard_time": 1681727189,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24095,
+        "num": 24095,
+        "word": "什么工作可以上半年休半年",
+        "onboard_time": 1681725027,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 23194,
+        "num": 23194,
+        "word": "金智秀FLOWER横版直拍",
+        "onboard_time": 1681748601,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23055,
+        "num": 23055,
+        "word": "孙俪 这个爸爸真的可以",
+        "onboard_time": 1681728570,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21255,
+        "num": 21255,
+        "word": "月曜",
+        "onboard_time": 1681745667,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18154,
+        "num": 21209,
+        "word": "郑秀文获金像奖影后古天乐表情",
+        "onboard_time": 1681756273,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12209,
+        "num": 21015,
+        "word": "第五人格",
+        "onboard_time": 1681742128,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11165,
+        "num": 20997,
+        "word": "球球大作战",
+        "onboard_time": 1681741589,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以学铸魂坚定理想信念#"
+    }
+  }
+}
