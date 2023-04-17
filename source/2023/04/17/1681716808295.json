@@ -1,0 +1,410 @@
+{
+  "runTime": 1681716808295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257439,
+        "num": 1257439,
+        "word": "女生因为吃面崩溃",
+        "onboard_time": 1681704449,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 835795,
+        "num": 835795,
+        "word": "怨气可以养活邪剑仙了",
+        "onboard_time": 1681714525,
+        "rank": 1,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 44094,
+        "num": 649396,
+        "word": "神十五乘组刷新我国单个乘组出舱纪录",
+        "onboard_time": 1681703968,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1200580,
+        "num": 646318,
+        "word": "罗云熙被扒得只剩裤衩了",
+        "onboard_time": 1681708529,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 643173,
+        "num": 643173,
+        "word": "王宝强女友冯清已还清188万执行款",
+        "onboard_time": 1681704026,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1381692,
+        "num": 609336,
+        "word": "福原爱和男友从豪宅搬出",
+        "onboard_time": 1681712485,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514230,
+        "num": 514230,
+        "word": "张杰上台前10分钟还在健身",
+        "onboard_time": 1681712067,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 467613,
+        "num": 467613,
+        "word": "Lisa在台下看王嘉尔表演",
+        "onboard_time": 1681703426,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 387339,
+        "num": 387339,
+        "word": "五一档电影扎堆",
+        "onboard_time": 1681709605,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361082,
+        "num": 361082,
+        "word": "李春江禁赛5年",
+        "onboard_time": 1681698205,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1578103,
+        "num": 355541,
+        "word": "香港顶流",
+        "onboard_time": 1681713566,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397217,
+        "num": 350692,
+        "word": "上海男篮道歉",
+        "onboard_time": 1681715666,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342355,
+        "num": 342355,
+        "word": "白玉兰 入围名单",
+        "onboard_time": 1681709549,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340393,
+        "num": 340393,
+        "word": "余嘉诚艺考三校第一",
+        "onboard_time": 1681716266,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297471,
+        "num": 333691,
+        "word": "煤气灯效应",
+        "onboard_time": 1681712005,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331061,
+        "num": 331061,
+        "word": "蔡徐坤打戏",
+        "onboard_time": 1681710385,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 317771,
+        "num": 317771,
+        "word": "与凤行",
+        "onboard_time": 1681710865,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313375,
+        "num": 313375,
+        "word": "肖战聚餐旧照",
+        "onboard_time": 1681706553,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274877,
+        "num": 274877,
+        "word": "姚明称十分痛心",
+        "onboard_time": 1681701565,
+        "rank": 18,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 266683,
+        "num": 266683,
+        "word": "李春江 马布里",
+        "onboard_time": 1681704210,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252317,
+        "num": 252317,
+        "word": "叶冰裳开始抢澹台烬了",
+        "onboard_time": 1681704026,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207401,
+        "num": 207401,
+        "word": "华为nova11",
+        "onboard_time": 1681714225,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 206136,
+        "num": 206136,
+        "word": "LPL选手大会",
+        "onboard_time": 1681716626,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197373,
+        "num": 197373,
+        "word": "周一",
+        "onboard_time": 1681691726,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188935,
+        "num": 188935,
+        "word": "黄之锋被控藐视法庭罪判囚三个月",
+        "onboard_time": 1681712785,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189633,
+        "num": 188844,
+        "word": "战火中的青春",
+        "onboard_time": 1681716385,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188183,
+        "num": 188183,
+        "word": "2023LPL春季转会期",
+        "onboard_time": 1681715185,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183288,
+        "num": 183288,
+        "word": "易烊千玺新专辑预告照",
+        "onboard_time": 1681711406,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179096,
+        "num": 179096,
+        "word": "3名联合国人员在苏丹遇袭身亡",
+        "onboard_time": 1681707155,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 161524,
+        "num": 179025,
+        "word": "nova11首发人像新技术",
+        "onboard_time": 1681715965,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 340232,
+        "num": 177333,
+        "word": "白鹿的字",
+        "onboard_time": 1681716148,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197893,
+        "num": 176317,
+        "word": "上一星期班发现上错公司了",
+        "onboard_time": 1681716327,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181863,
+        "num": 174123,
+        "word": "能不能接受五一放一天不调休",
+        "onboard_time": 1681716747,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173805,
+        "num": 173805,
+        "word": "尹浩宇中戏考试合格",
+        "onboard_time": 1681710026,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28129,
+        "num": 172486,
+        "word": "问界发布会",
+        "onboard_time": 1681715785,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171820,
+        "num": 171820,
+        "word": "网红经济",
+        "onboard_time": 1681710686,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 157053,
+        "num": 157053,
+        "word": "长空之王",
+        "onboard_time": 1681715367,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156819,
+        "num": 156819,
+        "word": "武汉马拉松最后一名获社死安慰奖",
+        "onboard_time": 1681716266,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144633,
+        "num": 144633,
+        "word": "艺考之神",
+        "onboard_time": 1681716566,
+        "rank": 38,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 139423,
+        "num": 139423,
+        "word": "调休",
+        "onboard_time": 1681695743,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124478,
+        "num": 124478,
+        "word": "阿云嘎晒金像奖草原一家人合照",
+        "onboard_time": 1681715727,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122686,
+        "num": 122686,
+        "word": "萌探3礼貌式阵容官宣",
+        "onboard_time": 1681702106,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121602,
+        "num": 121602,
+        "word": "吴冠希说努力化为泡影",
+        "onboard_time": 1681715306,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114975,
+        "num": 114975,
+        "word": "爱奇艺大会将要放出物料的剧集",
+        "onboard_time": 1681706791,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113772,
+        "num": 113772,
+        "word": "李荣浩西安演唱会",
+        "onboard_time": 1681713445,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107762,
+        "num": 107762,
+        "word": "上班能挣几个钱",
+        "onboard_time": 1681702226,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 100754,
+        "num": 100754,
+        "word": "窦靖童长发封面",
+        "onboard_time": 1681705591,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100055,
+        "num": 100055,
+        "word": "青年大学习",
+        "onboard_time": 1681711708,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97775,
+        "num": 97775,
+        "word": "周杰伦起诉网易不正当竞争案开庭",
+        "onboard_time": 1681700247,
+        "rank": 48,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 91347,
+        "num": 97772,
+        "word": "今天就算是泰勒斯来了",
+        "onboard_time": 1681706910,
+        "rank": 49,
+        "category": "幽默,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#农业农村现代化的中国特色#"
+    }
+  }
+}

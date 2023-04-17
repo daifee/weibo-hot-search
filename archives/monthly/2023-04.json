@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681715776589,
+  "endTime": 1681716808295,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1947,6 +1947,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1578103,
+      "num": 448785,
+      "word": "香港顶流",
+      "onboard_time": 1681713566,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1577630,
       "num": 1577630,
       "word": "范志毅女儿",
@@ -2475,6 +2483,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1381692,
+      "num": 609336,
+      "word": "福原爱和男友从豪宅搬出",
+      "onboard_time": 1681712485,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1381174,
       "num": 1195602,
       "word": "易梦玲素颜",
@@ -2569,14 +2585,6 @@
       "onboard_time": 1680789752,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1328103,
-      "num": 526524,
-      "word": "福原爱和男友从豪宅搬出",
-      "onboard_time": 1681712485,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 1327397,
@@ -2808,14 +2816,6 @@
       "word": "嗑CP被骂",
       "onboard_time": 1681467089,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1262296,
-      "num": 448785,
-      "word": "香港顶流",
-      "onboard_time": 1681713566,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -4977,6 +4977,14 @@
       "onboard_time": 1680770791,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 835795,
+      "num": 835795,
+      "word": "怨气可以养活邪剑仙了",
+      "onboard_time": 1681714525,
+      "rank": 6,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 835495,
@@ -9459,14 +9467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 520288,
-      "num": 520288,
-      "word": "怨气可以养活邪剑仙了",
-      "onboard_time": 1681714525,
-      "rank": 6,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 520136,
       "num": 520136,
       "word": "尽快补上死亡教育这一课",
@@ -12859,6 +12859,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 397217,
+      "num": 350692,
+      "word": "上海男篮道歉",
+      "onboard_time": 1681715666,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 396927,
       "num": 396927,
       "word": "我的工资和我的假期一样少",
@@ -14817,6 +14825,22 @@
       "onboard_time": 1680617071,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 340393,
+      "num": 340393,
+      "word": "余嘉诚艺考三校第一",
+      "onboard_time": 1681716266,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 340232,
+      "num": 177333,
+      "word": "白鹿的字",
+      "onboard_time": 1681716148,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 340213,
@@ -23147,6 +23171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207401,
+      "num": 207401,
+      "word": "华为nova11",
+      "onboard_time": 1681714225,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 207318,
       "num": 207318,
       "word": "王一博旋转机训练",
@@ -23441,6 +23473,14 @@
       "onboard_time": 1681440506,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206136,
+      "num": 206136,
+      "word": "LPL选手大会",
+      "onboard_time": 1681716626,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 206116,
@@ -25155,14 +25195,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199873,
-      "num": 199873,
-      "word": "华为nova11",
-      "onboard_time": 1681714225,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
       "raw_hot": 199844,
       "num": 199844,
       "word": "陈哲是花琉璃里的裴少卿",
@@ -25721,6 +25753,14 @@
       "onboard_time": 1681445612,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197893,
+      "num": 176317,
+      "word": "上一星期班发现上错公司了",
+      "onboard_time": 1681716327,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 197887,
@@ -27675,6 +27715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189633,
+      "num": 188844,
+      "word": "战火中的青春",
+      "onboard_time": 1681716385,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189576,
       "num": 189576,
       "word": "狼队战胜eStar",
@@ -27859,6 +27907,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 188935,
+      "num": 199873,
+      "word": "黄之锋被控藐视法庭罪判囚三个月",
+      "onboard_time": 1681712785,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188880,
       "num": 188880,
       "word": "澹台烬身边哪有好人啊",
@@ -28009,6 +28065,14 @@
       "onboard_time": 1680485369,
       "rank": 37,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 188183,
+      "num": 199844,
+      "word": "2023LPL春季转会期",
+      "onboard_time": 1681715185,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 188118,
@@ -29155,6 +29219,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 181863,
+      "num": 174123,
+      "word": "能不能接受五一放一天不调休",
+      "onboard_time": 1681716747,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181825,
       "num": 181825,
       "word": "尘封十三载今日收官",
@@ -29337,14 +29409,6 @@
       "onboard_time": 1680686309,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180582,
-      "num": 199873,
-      "word": "黄之锋被控藐视法庭罪判囚三个月",
-      "onboard_time": 1681712785,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180577,
@@ -31651,6 +31715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161524,
+      "num": 179025,
+      "word": "nova11首发人像新技术",
+      "onboard_time": 1681715965,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 161522,
       "num": 189713,
       "word": "清明一天走过七座城",
@@ -32217,6 +32289,14 @@
       "onboard_time": 1681625906,
       "rank": 49,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 156819,
+      "num": 156819,
+      "word": "武汉马拉松最后一名获社死安慰奖",
+      "onboard_time": 1681716266,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 156763,
@@ -33777,6 +33857,14 @@
       "onboard_time": 1680683609,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144633,
+      "num": 144633,
+      "word": "艺考之神",
+      "onboard_time": 1681716566,
+      "rank": 38,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 144535,
@@ -35931,6 +36019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124478,
+      "num": 199852,
+      "word": "阿云嘎晒金像奖草原一家人合照",
+      "onboard_time": 1681715727,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124303,
       "num": 219595,
       "word": "金智秀音中一位",
@@ -36177,6 +36273,14 @@
       "onboard_time": 1681036224,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121602,
+      "num": 199834,
+      "word": "吴冠希说努力化为泡影",
+      "onboard_time": 1681715306,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 121346,
@@ -37211,14 +37315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107648,
-      "num": 199852,
-      "word": "阿云嘎晒金像奖草原一家人合照",
-      "onboard_time": 1681715727,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 107549,
       "num": 107549,
       "word": "防弹少年团演唱BASTIONS主题曲",
@@ -37273,14 +37369,6 @@
       "onboard_time": 1680406106,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106843,
-      "num": 199854,
-      "word": "上海男篮道歉",
-      "onboard_time": 1681715666,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 106818,
@@ -38355,14 +38443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90980,
-      "num": 199844,
-      "word": "2023LPL春季转会期",
-      "onboard_time": 1681715185,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 90930,
       "num": 90930,
       "word": "唐嫣说迎宾小糖要先和大家说再见啦",
@@ -38497,14 +38577,6 @@
       "onboard_time": 1681600817,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 88306,
-      "num": 199834,
-      "word": "吴冠希说努力化为泡影",
-      "onboard_time": 1681715306,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 88295,
@@ -39915,6 +39987,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 28129,
+      "num": 172486,
+      "word": "问界发布会",
+      "onboard_time": 1681715785,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
@@ -40269,6 +40349,9 @@
     },
     {
       "word": "#打卡史上规模最大广交会#"
+    },
+    {
+      "word": "#农业农村现代化的中国特色#"
     }
   ]
 }

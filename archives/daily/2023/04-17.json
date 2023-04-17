@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681715776589,
+  "endTime": 1681716808295,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1578103,
+      "num": 448785,
+      "word": "香港顶流",
+      "onboard_time": 1681713566,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1537387,
       "num": 336335,
       "word": "罗云熙微博小号",
@@ -107,19 +115,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1328103,
-      "num": 526524,
+      "raw_hot": 1381692,
+      "num": 609336,
       "word": "福原爱和男友从豪宅搬出",
       "onboard_time": 1681712485,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1262296,
-      "num": 448785,
-      "word": "香港顶流",
-      "onboard_time": 1681713566,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -153,6 +153,14 @@
       "onboard_time": 1681655129,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 835795,
+      "num": 835795,
+      "word": "怨气可以养活邪剑仙了",
+      "onboard_time": 1681714525,
+      "rank": 6,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 804634,
@@ -299,14 +307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 520288,
-      "num": 520288,
-      "word": "怨气可以养活邪剑仙了",
-      "onboard_time": 1681714525,
-      "rank": 6,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 502794,
       "num": 502794,
       "word": "金子涵 身体目前已无大碍",
@@ -419,6 +419,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 397217,
+      "num": 350692,
+      "word": "上海男篮道歉",
+      "onboard_time": 1681715666,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380905,
       "num": 380905,
       "word": "湖人战胜灰熊",
@@ -456,6 +464,22 @@
       "word": "尹浩宇中戏考试合格",
       "onboard_time": 1681710026,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 340393,
+      "num": 340393,
+      "word": "余嘉诚艺考三校第一",
+      "onboard_time": 1681716266,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 340232,
+      "num": 177333,
+      "word": "白鹿的字",
+      "onboard_time": 1681716148,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -699,12 +723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207401,
+      "num": 207401,
+      "word": "华为nova11",
+      "onboard_time": 1681714225,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 206171,
       "num": 274419,
       "word": "易烊千玺新专辑预告照",
       "onboard_time": 1681711406,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206136,
+      "num": 206136,
+      "word": "LPL选手大会",
+      "onboard_time": 1681716626,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 199927,
@@ -715,12 +755,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 199873,
-      "num": 199873,
-      "word": "华为nova11",
-      "onboard_time": 1681714225,
-      "rank": 23,
-      "category": "科技"
+      "raw_hot": 197893,
+      "num": 176317,
+      "word": "上一星期班发现上错公司了",
+      "onboard_time": 1681716327,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 197304,
@@ -771,6 +811,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189633,
+      "num": 188844,
+      "word": "战火中的青春",
+      "onboard_time": 1681716385,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 188935,
+      "num": 199873,
+      "word": "黄之锋被控藐视法庭罪判囚三个月",
+      "onboard_time": 1681712785,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188183,
+      "num": 199844,
+      "word": "2023LPL春季转会期",
+      "onboard_time": 1681715185,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182319,
       "num": 121951,
       "word": "听了龚俊凡尔赛黄景瑜贾乃亮想走",
@@ -779,20 +843,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181863,
+      "num": 174123,
+      "word": "能不能接受五一放一天不调休",
+      "onboard_time": 1681716747,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180987,
       "num": 199717,
       "word": "豆瓣崩了",
       "onboard_time": 1681706910,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 180582,
-      "num": 199873,
-      "word": "黄之锋被控藐视法庭罪判囚三个月",
-      "onboard_time": 1681712785,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179535,
@@ -875,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161524,
+      "num": 179025,
+      "word": "nova11首发人像新技术",
+      "onboard_time": 1681715965,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 160900,
       "num": 160900,
       "word": "长空之王致敬版海报",
@@ -905,6 +977,14 @@
       "onboard_time": 1681696524,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156819,
+      "num": 156819,
+      "word": "武汉马拉松最后一名获社死安慰奖",
+      "onboard_time": 1681716266,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 151115,
@@ -945,6 +1025,14 @@
       "onboard_time": 1681707989,
       "rank": 43,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 144633,
+      "num": 144633,
+      "word": "艺考之神",
+      "onboard_time": 1681716566,
+      "rank": 38,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 142691,
@@ -993,6 +1081,22 @@
       "onboard_time": 1681713445,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124478,
+      "num": 199852,
+      "word": "阿云嘎晒金像奖草原一家人合照",
+      "onboard_time": 1681715727,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121602,
+      "num": 199834,
+      "word": "吴冠希说努力化为泡影",
+      "onboard_time": 1681715306,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 121145,
@@ -1073,22 +1177,6 @@
       "onboard_time": 1681648347,
       "rank": 40,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 107648,
-      "num": 199852,
-      "word": "阿云嘎晒金像奖草原一家人合照",
-      "onboard_time": 1681715727,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 106843,
-      "num": 199854,
-      "word": "上海男篮道歉",
-      "onboard_time": 1681715666,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 104153,
@@ -1195,14 +1283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 90980,
-      "num": 199844,
-      "word": "2023LPL春季转会期",
-      "onboard_time": 1681715185,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 90107,
       "num": 90107,
       "word": "李健音乐节",
@@ -1217,14 +1297,6 @@
       "onboard_time": 1681688184,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 88306,
-      "num": 199834,
-      "word": "吴冠希说努力化为泡影",
-      "onboard_time": 1681715306,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 87175,
@@ -1369,6 +1441,14 @@
       "onboard_time": 1681518865,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 28129,
+      "num": 172486,
+      "word": "问界发布会",
+      "onboard_time": 1681715785,
+      "rank": 34,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1380,6 +1460,9 @@
     },
     {
       "word": "#打卡史上规模最大广交会#"
+    },
+    {
+      "word": "#农业农村现代化的中国特色#"
     }
   ]
 }
