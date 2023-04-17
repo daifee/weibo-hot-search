@@ -1,10 +1,26 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681695956409,
+  "endTime": 1681698862453,
   "band_list": [
     {
+      "raw_hot": 3314383,
+      "num": 3314383,
+      "word": "调休",
+      "onboard_time": 1681695743,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1904089,
+      "num": 1904089,
+      "word": "篮协对上海队江苏队作出处罚",
+      "onboard_time": 1681697904,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1537387,
-      "num": 313139,
+      "num": 334891,
       "word": "罗云熙微博小号",
       "onboard_time": 1681658188,
       "rank": 10,
@@ -35,6 +51,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1202341,
+      "num": 1202341,
+      "word": "CBA",
+      "onboard_time": 1681695326,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1048159,
+      "num": 1048159,
+      "word": "周一",
+      "onboard_time": 1681691726,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 857783,
+      "num": 394691,
+      "word": "李春江禁赛5年",
+      "onboard_time": 1681698205,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 849986,
       "num": 849986,
       "word": "金像奖影后郑秀文",
@@ -43,16 +83,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 802979,
-      "num": 802979,
-      "word": "周一",
-      "onboard_time": 1681691726,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 802228,
-      "num": 343287,
+      "num": 375433,
       "word": "叶一茜写给森碟的一封信",
       "onboard_time": 1681656150,
       "rank": 11,
@@ -84,11 +116,19 @@
     },
     {
       "raw_hot": 607002,
-      "num": 327797,
+      "num": 389035,
       "word": "赞多肚子",
       "onboard_time": 1681686921,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 591009,
+      "num": 591009,
+      "word": "沈月易梦玲路透",
+      "onboard_time": 1681696164,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 573498,
@@ -171,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373005,
+      "num": 137831,
+      "word": "李楠禁赛3年",
+      "onboard_time": 1681698447,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368748,
       "num": 297367,
       "word": "泫雅机场素颜照",
@@ -185,6 +233,14 @@
       "onboard_time": 1681688484,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332354,
+      "num": 332354,
+      "word": "上海男篮",
+      "onboard_time": 1681698024,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 315753,
@@ -259,6 +315,14 @@
       "category": "影视,影视"
     },
     {
+      "raw_hot": 276168,
+      "num": 276168,
+      "word": "这周日上班",
+      "onboard_time": 1681697304,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271719,
       "num": 85653,
       "word": "村民疑被当成猎物遭枪击后死亡",
@@ -289,6 +353,14 @@
       "onboard_time": 1681641927,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216032,
+      "num": 216032,
+      "word": "小美人鱼主演地广海报",
+      "onboard_time": 1681695985,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 211875,
@@ -371,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173557,
+      "num": 173557,
+      "word": "刘德华对郑秀文说我爱你",
+      "onboard_time": 1681698266,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172387,
       "num": 172387,
       "word": "李健音乐节连唱13首",
@@ -387,12 +467,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 154021,
-      "num": 154021,
-      "word": "调休",
-      "onboard_time": 1681695743,
+      "raw_hot": 158898,
+      "num": 158898,
+      "word": "aespa将公开先行曲",
+      "onboard_time": 1681697125,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 157026,
+      "num": 157026,
+      "word": "哈妮克孜欢迎大家来家乡新疆",
+      "onboard_time": 1681696524,
       "rank": 27,
-      "category": "社会新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 150416,
@@ -411,12 +499,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 149924,
-      "num": 149924,
-      "word": "CBA",
-      "onboard_time": 1681695326,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 145604,
+      "num": 145604,
+      "word": "李龙馥ELLE5月刊封面",
+      "onboard_time": 1681697362,
+      "rank": 28,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 142691,
@@ -540,7 +628,7 @@
     },
     {
       "raw_hot": 101682,
-      "num": 101682,
+      "num": 131287,
       "word": "言承旭说呼叫杉菜就会出现",
       "onboard_time": 1681662743,
       "rank": 40,
@@ -619,6 +707,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 82941,
+      "num": 131357,
+      "word": "黄河入海流真是辽阔啊",
+      "onboard_time": 1681696823,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78948,
       "num": 78948,
       "word": "五一假期去哪个音乐节",
@@ -628,7 +724,7 @@
     },
     {
       "raw_hot": 75840,
-      "num": 116372,
+      "num": 131271,
       "word": "周杰伦战队夺冠",
       "onboard_time": 1681653927,
       "rank": 49,
@@ -684,7 +780,7 @@
     },
     {
       "raw_hot": 29701,
-      "num": 884821,
+      "num": 1387927,
       "word": "风云三号07星成功发射",
       "onboard_time": 1681648767,
       "rank": 2,
