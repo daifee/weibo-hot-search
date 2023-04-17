@@ -1,0 +1,410 @@
+{
+  "runTime": 1681735843963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1649607,
+        "num": 1649607,
+        "word": "蒋胜男 我为什么反对996捍卫888",
+        "onboard_time": 1681730967,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1165087,
+        "num": 1165087,
+        "word": "在微信状态养个懒羊羊",
+        "onboard_time": 1681731267,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29905,
+        "num": 730118,
+        "word": "60秒速览广交会万商云集",
+        "onboard_time": 1681720408,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1562392,
+        "num": 684307,
+        "word": "生孩子一定要去公立医院",
+        "onboard_time": 1681726527,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 611126,
+        "num": 611126,
+        "word": "长月烬明豆瓣开分6.2分",
+        "onboard_time": 1681732346,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 573849,
+        "num": 573849,
+        "word": "能不能接受五一放一天不调休",
+        "onboard_time": 1681716747,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563581,
+        "num": 563581,
+        "word": "罗云熙版天欢",
+        "onboard_time": 1681732885,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331980,
+        "num": 331980,
+        "word": "李秀满卖掉SMTOWN旧楼",
+        "onboard_time": 1681728327,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444138,
+        "num": 331217,
+        "word": "陈都灵方否认恶意炒作",
+        "onboard_time": 1681735225,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281651,
+        "num": 330498,
+        "word": "炫富女住公租房消息不实",
+        "onboard_time": 1681730187,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216379,
+        "num": 329736,
+        "word": "孙俪 这个爸爸真的可以",
+        "onboard_time": 1681728570,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852862,
+        "num": 328798,
+        "word": "SpaceX星舰直播",
+        "onboard_time": 1681730786,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 509630,
+        "num": 328593,
+        "word": "周扬青刮痧",
+        "onboard_time": 1681731925,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479144,
+        "num": 327545,
+        "word": "马斯克星舰",
+        "onboard_time": 1681727368,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 69137,
+        "num": 327103,
+        "word": "华为发布旗舰SUV问界M9",
+        "onboard_time": 1681732826,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 455721,
+        "num": 326092,
+        "word": "16岁女孩在父母二胎后确诊抑郁症",
+        "onboard_time": 1681722326,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382292,
+        "num": 325042,
+        "word": "小S长发",
+        "onboard_time": 1681726407,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324721,
+        "num": 324721,
+        "word": "被自己的大屁股救了一命",
+        "onboard_time": 1681728148,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301632,
+        "num": 301632,
+        "word": "香港顶流",
+        "onboard_time": 1681713566,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258635,
+        "num": 258635,
+        "word": "肖战GUCCI外网官网刷屏",
+        "onboard_time": 1681723527,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 233096,
+        "num": 233096,
+        "word": "长月烬明第23集预告",
+        "onboard_time": 1681727549,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227110,
+        "num": 227110,
+        "word": "TF家族 三亚",
+        "onboard_time": 1681729649,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225460,
+        "num": 225460,
+        "word": "最成功的大男主IP",
+        "onboard_time": 1681728268,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211971,
+        "num": 211971,
+        "word": "淄博烧烤后厨有多忙",
+        "onboard_time": 1681733967,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 194660,
+        "num": 194660,
+        "word": "什么工作可以上半年休半年",
+        "onboard_time": 1681725027,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 214745,
+        "num": 192991,
+        "word": "宁艺卓单封",
+        "onboard_time": 1681727189,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197709,
+        "num": 192440,
+        "word": "下周就能看五一档新片了",
+        "onboard_time": 1681735286,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190770,
+        "num": 190770,
+        "word": "PDD歌友会",
+        "onboard_time": 1681732285,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172156,
+        "num": 172156,
+        "word": "白鹿的字",
+        "onboard_time": 1681716148,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108320,
+        "num": 167549,
+        "word": "扔掉地图智能驾驶怎么跑",
+        "onboard_time": 1681733785,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188539,
+        "num": 167488,
+        "word": "减肥舞",
+        "onboard_time": 1681733426,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167294,
+        "num": 167294,
+        "word": "一高中连续17年包绿皮火车游学",
+        "onboard_time": 1681725027,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 147397,
+        "num": 147397,
+        "word": "上一星期班发现上错公司了",
+        "onboard_time": 1681716327,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143100,
+        "num": 143100,
+        "word": "当事女生回应因吃面崩溃",
+        "onboard_time": 1681725149,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142941,
+        "num": 142941,
+        "word": "睡不好对颜值影响有多大",
+        "onboard_time": 1681723468,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135684,
+        "num": 135684,
+        "word": "刘宇宁骑马错位图",
+        "onboard_time": 1681735526,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135124,
+        "num": 135124,
+        "word": "错过一个很爱的人是怎样的",
+        "onboard_time": 1681730307,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130997,
+        "num": 130997,
+        "word": "国内首个机场音乐节",
+        "onboard_time": 1681734625,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129690,
+        "num": 129690,
+        "word": "香港顶流演变史",
+        "onboard_time": 1681731624,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98203,
+        "num": 127027,
+        "word": "纯电大G有意思",
+        "onboard_time": 1681732826,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 126723,
+        "num": 126723,
+        "word": "易烊千玺直播跟粉丝大合影",
+        "onboard_time": 1681726225,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123120,
+        "num": 123120,
+        "word": "龙城",
+        "onboard_time": 1681733847,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118832,
+        "num": 118832,
+        "word": "檀健次晒与丁程鑫合照",
+        "onboard_time": 1681729947,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117322,
+        "num": 117322,
+        "word": "五一档观影清单",
+        "onboard_time": 1681734446,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117109,
+        "num": 117109,
+        "word": "毛雪汪终于开火了",
+        "onboard_time": 1681728570,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112197,
+        "num": 112197,
+        "word": "李春江名下篮球俱乐部已注销",
+        "onboard_time": 1681721007,
+        "rank": 45,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 109265,
+        "num": 109265,
+        "word": "五月天西安",
+        "onboard_time": 1681724425,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101378,
+        "num": 101378,
+        "word": "茄子 eggplant",
+        "onboard_time": 1681727967,
+        "rank": 47,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 99938,
+        "num": 99938,
+        "word": "00后大学生痴迷戏曲每天自学2小时",
+        "onboard_time": 1681728866,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 61415,
+        "num": 99718,
+        "word": "LPL选手大会",
+        "onboard_time": 1681716626,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以学铸魂坚定理想信念#"
+    }
+  }
+}

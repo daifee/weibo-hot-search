@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681734862455,
+  "endTime": 1681735843963,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1819,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1649607,
+      "num": 1649607,
+      "word": "蒋胜男 我为什么反对996捍卫888",
+      "onboard_time": 1681730967,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1643326,
       "num": 1638319,
       "word": "债主获刑张继科会是共犯吗",
@@ -2411,14 +2419,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1418102,
-      "num": 1418102,
-      "word": "蒋胜男 我为什么反对996捍卫888",
-      "onboard_time": 1681730967,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1416394,
       "num": 1416394,
       "word": "坠亡女演员和搭档是夫妻",
@@ -2947,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1216379,
+      "num": 454250,
+      "word": "孙俪 这个爸爸真的可以",
+      "onboard_time": 1681728570,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215179,
       "num": 1215179,
       "word": "姚明",
@@ -3089,6 +3097,14 @@
       "onboard_time": 1681398392,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1165087,
+      "num": 1165087,
+      "word": "在微信状态养个懒羊羊",
+      "onboard_time": 1681731267,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1162326,
@@ -3371,14 +3387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1110904,
-      "num": 454250,
-      "word": "孙俪 这个爸爸真的可以",
-      "onboard_time": 1681728570,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1109691,
       "num": 1109691,
       "word": "4月1至5日将出现大范围强雨雪",
@@ -3649,14 +3657,6 @@
       "onboard_time": 1681214726,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1040498,
-      "num": 1040498,
-      "word": "在微信状态养个懒羊羊",
-      "onboard_time": 1681731267,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1037260,
@@ -4889,6 +4889,14 @@
       "onboard_time": 1681086628,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 852862,
+      "num": 328798,
+      "word": "SpaceX星舰直播",
+      "onboard_time": 1681730786,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 850971,
@@ -6771,14 +6779,6 @@
       "category": "教育,艺人"
     },
     {
-      "raw_hot": 670957,
-      "num": 313868,
-      "word": "SpaceX星舰直播",
-      "onboard_time": 1681730786,
-      "rank": 37,
-      "category": "科技"
-    },
-    {
       "raw_hot": 670816,
       "num": 670816,
       "word": "叶冰裳",
@@ -8036,7 +8036,7 @@
     },
     {
       "raw_hot": 597859,
-      "num": 474390,
+      "num": 563581,
       "word": "罗云熙版天欢",
       "onboard_time": 1681732885,
       "rank": 6,
@@ -9835,6 +9835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 509630,
+      "num": 328593,
+      "word": "周扬青刮痧",
+      "onboard_time": 1681731925,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509461,
       "num": 509461,
       "word": "一出站就被惊艳了的宝藏地铁口",
@@ -10515,6 +10523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479144,
+      "num": 353867,
+      "word": "马斯克星舰",
+      "onboard_time": 1681727368,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 478943,
       "num": 389999,
       "word": "黑暗荣耀",
@@ -10795,14 +10811,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 467236,
-      "num": 313608,
-      "word": "周扬青刮痧",
-      "onboard_time": 1681731925,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 467176,
       "num": 467176,
       "word": "雎晓雯怀孕做瑜伽",
@@ -10833,14 +10841,6 @@
       "onboard_time": 1681615106,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 466347,
-      "num": 353867,
-      "word": "马斯克星舰",
-      "onboard_time": 1681727368,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 465866,
@@ -11537,6 +11537,14 @@
       "onboard_time": 1680752127,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444138,
+      "num": 331217,
+      "word": "陈都灵方否认恶意炒作",
+      "onboard_time": 1681735225,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 443589,
@@ -13643,6 +13651,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 382292,
+      "num": 378961,
+      "word": "小S长发",
+      "onboard_time": 1681726407,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382244,
       "num": 382244,
       "word": "何超莲晒毕业照",
@@ -13729,14 +13745,6 @@
       "onboard_time": 1680925167,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378961,
-      "num": 378961,
-      "word": "小S长发",
-      "onboard_time": 1681726407,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 378584,
@@ -22875,6 +22883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211971,
+      "num": 211971,
+      "word": "淄博烧烤后厨有多忙",
+      "onboard_time": 1681733967,
+      "rank": 36,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 211936,
       "num": 211936,
       "word": "铃芽之旅",
@@ -26219,6 +26235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197709,
+      "num": 192440,
+      "word": "下周就能看五一档新片了",
+      "onboard_time": 1681735286,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197619,
       "num": 197619,
       "word": "不生孩子的想法会随着年龄改变吗",
@@ -27899,6 +27923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190770,
+      "num": 190770,
+      "word": "PDD歌友会",
+      "onboard_time": 1681521864,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 190704,
       "num": 190704,
       "word": "长月烬明剧方否认抄袭",
@@ -28417,6 +28449,14 @@
       "onboard_time": 1681446451,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188539,
+      "num": 167488,
+      "word": "减肥舞",
+      "onboard_time": 1681733426,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 188515,
@@ -29209,14 +29249,6 @@
       "onboard_time": 1680744806,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 185134,
-      "num": 185134,
-      "word": "PDD歌友会",
-      "onboard_time": 1681521864,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 184923,
@@ -30097,14 +30129,6 @@
       "onboard_time": 1681142665,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 178773,
-      "num": 163098,
-      "word": "减肥舞",
-      "onboard_time": 1681733426,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 178718,
@@ -35499,12 +35523,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 135617,
-      "num": 135617,
-      "word": "淄博烧烤后厨有多忙",
-      "onboard_time": 1681733967,
-      "rank": 36,
-      "category": "社会新闻,美食"
+      "raw_hot": 135684,
+      "num": 135684,
+      "word": "刘宇宁骑马错位图",
+      "onboard_time": 1681735526,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135607,
@@ -35939,6 +35963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130997,
+      "num": 130997,
+      "word": "国内首个机场音乐节",
+      "onboard_time": 1681734625,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 130995,
       "num": 130995,
       "word": "蔡徐坤黑夹克日内瓦随拍",
@@ -36097,6 +36129,14 @@
       "onboard_time": 1681721424,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129690,
+      "num": 129690,
+      "word": "香港顶流演变史",
+      "onboard_time": 1681731624,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 129669,
@@ -36315,14 +36355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 127922,
-      "num": 127922,
-      "word": "国内首个机场音乐节",
-      "onboard_time": 1681734625,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 127915,
       "num": 118378,
       "word": "你认为有必要强制婚前检查吗",
@@ -36369,14 +36401,6 @@
       "onboard_time": 1680878551,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127553,
-      "num": 127553,
-      "word": "香港顶流演变史",
-      "onboard_time": 1681731624,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 127546,
@@ -37963,6 +37987,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 108320,
+      "num": 167549,
+      "word": "扔掉地图智能驾驶怎么跑",
+      "onboard_time": 1681733785,
+      "rank": 29,
+      "category": "科技"
+    },
+    {
       "raw_hot": 108245,
       "num": 110282,
       "word": "DRG对战RW",
@@ -38755,6 +38787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98203,
+      "num": 129257,
+      "word": "纯电大G有意思",
+      "onboard_time": 1681732826,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 98188,
       "num": 98188,
       "word": "利马赛季报销",
@@ -39331,14 +39371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87983,
-      "num": 129257,
-      "word": "纯电大G有意思",
-      "onboard_time": 1681732826,
-      "rank": 39,
-      "category": "科技"
-    },
-    {
       "raw_hot": 87512,
       "num": 87512,
       "word": "澹台烬说这就是开心的感觉",
@@ -39619,14 +39651,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 78770,
-      "num": 163262,
-      "word": "扔掉地图智能驾驶怎么跑",
-      "onboard_time": 1681733785,
-      "rank": 29,
-      "category": "科技"
-    },
-    {
       "raw_hot": 78572,
       "num": 117924,
       "word": "切尔西4月首球",
@@ -39873,6 +39897,14 @@
       "onboard_time": 1680477201,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69137,
+      "num": 327103,
+      "word": "华为发布旗舰SUV问界M9",
+      "onboard_time": 1681732826,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 69135,
@@ -40185,14 +40217,6 @@
       "onboard_time": 1681323494,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57863,
-      "num": 313327,
-      "word": "华为发布旗舰SUV问界M9",
-      "onboard_time": 1681732826,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 57242,
