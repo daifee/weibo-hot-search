@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681688009556,
+  "endTime": 1681694571269,
   "band_list": [
     {
       "raw_hot": 1537387,
@@ -19,19 +19,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1446080,
+      "num": 1446080,
+      "word": "医生提醒不要频繁清嗓子",
+      "onboard_time": 1681677612,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1416394,
       "num": 1416394,
       "word": "坠亡女演员和搭档是夫妻",
       "onboard_time": 1681659327,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1313799,
-      "num": 1313799,
-      "word": "医生提醒不要频繁清嗓子",
-      "onboard_time": 1681677612,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -43,12 +43,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 802979,
+      "num": 802979,
+      "word": "周一",
+      "onboard_time": 1681691726,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 802228,
-      "num": 296984,
+      "num": 307472,
       "word": "叶一茜写给森碟的一封信",
       "onboard_time": 1681656150,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 776793,
+      "num": 776793,
+      "word": "游客称在淄博一烧烤店遇强制消费",
+      "onboard_time": 1681676711,
+      "rank": 45,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 658392,
@@ -59,11 +75,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 607002,
+      "num": 303589,
+      "word": "赞多肚子",
+      "onboard_time": 1681686921,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 569496,
-      "num": 296695,
+      "num": 297414,
       "word": "泼水节被撕扯雨衣当事女生发声",
       "onboard_time": 1681639047,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536137,
+      "num": 299168,
+      "word": "女演员坠亡涉事人员和单位接受调查",
+      "onboard_time": 1681693047,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -75,12 +107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 499493,
-      "num": 499493,
-      "word": "游客称在淄博一烧烤店遇强制消费",
-      "onboard_time": 1681676711,
-      "rank": 45,
-      "category": "社会新闻,旅游"
+      "raw_hot": 477702,
+      "num": 477702,
+      "word": "郑秀文 我等到花儿也谢了",
+      "onboard_time": 1681689687,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 451120,
+      "num": 451120,
+      "word": "特斯拉中国工厂普通工人月薪1万块",
+      "onboard_time": 1681653327,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449007,
@@ -99,6 +139,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 404196,
+      "num": 404196,
+      "word": "克拉盘",
+      "onboard_time": 1681691486,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 380905,
       "num": 380905,
       "word": "湖人战胜灰熊",
@@ -107,28 +155,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 334473,
-      "num": 334473,
-      "word": "特斯拉中国工厂普通工人月薪1万块",
-      "onboard_time": 1681653327,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303655,
-      "num": 192672,
-      "word": "为什么肝癌通常一发现就是晚期",
-      "onboard_time": 1681651826,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300861,
-      "num": 214477,
+      "raw_hot": 368748,
+      "num": 286059,
       "word": "泫雅机场素颜照",
       "onboard_time": 1681686501,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351320,
+      "num": 351320,
+      "word": "刘青云 掌声嘘声总好过无声",
+      "onboard_time": 1681688484,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 315753,
+      "num": 315753,
+      "word": "美国警察搞错出警地址后误杀房主",
+      "onboard_time": 1681680252,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303655,
+      "num": 193079,
+      "word": "为什么肝癌通常一发现就是晚期",
+      "onboard_time": 1681651826,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299808,
@@ -164,19 +220,19 @@
     },
     {
       "raw_hot": 290428,
-      "num": 213928,
+      "num": 239655,
       "word": "多架民航客机在苏丹被击中",
       "onboard_time": 1681672031,
       "rank": 42,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 287723,
-      "num": 212710,
-      "word": "赞多肚子",
-      "onboard_time": 1681686921,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 285575,
+      "num": 285575,
+      "word": "王嘉尔二登科切拉",
+      "onboard_time": 1681688423,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 280961,
@@ -219,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210879,
-      "num": 210879,
-      "word": "美国警察搞错出警地址后误杀房主",
-      "onboard_time": 1681680252,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 211875,
+      "num": 192417,
+      "word": "父母双亡女孩考研成功学校免其学费",
+      "onboard_time": 1681663819,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 210645,
@@ -241,6 +297,14 @@
       "onboard_time": 1681646366,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198683,
+      "num": 198683,
+      "word": "快船vs太阳",
+      "onboard_time": 1681693825,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 197304,
@@ -275,12 +339,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165043,
-      "num": 165043,
+      "raw_hot": 176753,
+      "num": 176753,
       "word": "员工称在家养病却飞往海南遭解雇",
       "onboard_time": 1681655010,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174182,
+      "num": 174182,
+      "word": "上海车展",
+      "onboard_time": 1681691365,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172387,
+      "num": 172387,
+      "word": "李健音乐节连唱13首",
+      "onboard_time": 1681690946,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 164809,
@@ -291,6 +371,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 150416,
+      "num": 150416,
+      "word": "原神",
+      "onboard_time": 1681689747,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150345,
       "num": 144137,
       "word": "流水落花",
@@ -299,12 +387,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146714,
-      "num": 130980,
-      "word": "父母双亡女孩考研成功学校免其学费",
-      "onboard_time": 1681663819,
-      "rank": 30,
-      "category": "教育,社会新闻"
+      "raw_hot": 146804,
+      "num": 146804,
+      "word": "油价",
+      "onboard_time": 1681648708,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 146376,
+      "num": 146376,
+      "word": "吴镇宇 香港电影青黄不接",
+      "onboard_time": 1681694304,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 142691,
+      "num": 142691,
+      "word": "游客淄博买饼被宰网友转账补差价",
+      "onboard_time": 1681666216,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 132480,
+      "num": 132480,
+      "word": "陆虎反正都是我巡演",
+      "onboard_time": 1681689986,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 127424,
@@ -331,14 +443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119645,
-      "num": 119645,
-      "word": "游客淄博买饼被宰网友转账补差价",
-      "onboard_time": 1681666216,
-      "rank": 49,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 118445,
       "num": 118445,
       "word": "公务接待喝20元一瓶白酒被处分",
@@ -363,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109433,
+      "num": 109433,
+      "word": "原来它的小尾巴可以摇",
+      "onboard_time": 1681649426,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109129,
       "num": 109129,
       "word": "狼队 再输不礼貌了",
@@ -371,20 +483,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106095,
-      "num": 106095,
-      "word": "原来它的小尾巴可以摇",
-      "onboard_time": 1681649426,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 108710,
+      "num": 108710,
+      "word": "交警用身体为女子挡住疾驰车辆",
+      "onboard_time": 1681648347,
+      "rank": 40,
+      "category": "社会正能量"
     },
     {
-      "raw_hot": 103605,
-      "num": 103605,
-      "word": "油价",
-      "onboard_time": 1681648708,
-      "rank": 36,
-      "category": "社会新闻,财经"
+      "raw_hot": 104153,
+      "num": 104153,
+      "word": "字母哥背部挫伤",
+      "onboard_time": 1681689205,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 102874,
@@ -401,6 +513,14 @@
       "onboard_time": 1681687283,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102128,
+      "num": 102128,
+      "word": "官方通报杂技女演员高空坠落事件",
+      "onboard_time": 1681688966,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101682,
@@ -427,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100367,
-      "num": 100367,
-      "word": "交警用身体为女子挡住疾驰车辆",
-      "onboard_time": 1681648347,
-      "rank": 40,
-      "category": "社会正能量"
+      "raw_hot": 96527,
+      "num": 98904,
+      "word": "这些影像是日寇美化侵略行径的罪证",
+      "onboard_time": 1681692807,
+      "rank": 46,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 92712,
@@ -459,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 89721,
+      "num": 98888,
+      "word": "严浩翔穿军装",
+      "onboard_time": 1681688184,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 85773,
       "num": 85773,
       "word": "女子吐槽淄博一宾馆一晚收费529元",
@@ -483,6 +611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74371,
+      "num": 98862,
+      "word": "周杰伦战队夺冠",
+      "onboard_time": 1681653927,
+      "rank": 49,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 71614,
       "num": 84939,
       "word": "EXO新歌live舞台",
@@ -497,14 +633,6 @@
       "onboard_time": 1681645824,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 67670,
-      "num": 83840,
-      "word": "周杰伦战队夺冠",
-      "onboard_time": 1681653927,
-      "rank": 49,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 66532,
@@ -540,7 +668,7 @@
     },
     {
       "raw_hot": 29701,
-      "num": 750732,
+      "num": 884821,
       "word": "风云三号07星成功发射",
       "onboard_time": 1681648767,
       "rank": 2,
