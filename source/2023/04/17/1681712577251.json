@@ -1,0 +1,410 @@
+{
+  "runTime": 1681712577251,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3253855,
+        "num": 3253855,
+        "word": "女生因为吃面崩溃",
+        "onboard_time": 1681704449,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1346894,
+        "num": 1346894,
+        "word": "王宝强女友冯清已还清188万执行款",
+        "onboard_time": 1681704026,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 46328,
+        "num": 846010,
+        "word": "神十五乘组刷新我国单个乘组出舱纪录",
+        "onboard_time": 1681703968,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1407501,
+        "num": 843707,
+        "word": "罗云熙被扒得只剩裤衩了",
+        "onboard_time": 1681708529,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 813806,
+        "num": 813806,
+        "word": "Lisa在台下看王嘉尔表演",
+        "onboard_time": 1681703426,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 787481,
+        "num": 787481,
+        "word": "白玉兰 入围名单",
+        "onboard_time": 1681709549,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 721991,
+        "num": 721991,
+        "word": "李春江禁赛5年",
+        "onboard_time": 1681698205,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627358,
+        "num": 627358,
+        "word": "周一",
+        "onboard_time": 1681691726,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 557750,
+        "num": 557750,
+        "word": "姚明称十分痛心",
+        "onboard_time": 1681701565,
+        "rank": 8,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 493660,
+        "num": 493660,
+        "word": "五一档电影扎堆",
+        "onboard_time": 1681709605,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 484576,
+        "num": 484576,
+        "word": "与凤行",
+        "onboard_time": 1681710865,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 474802,
+        "num": 474802,
+        "word": "3名联合国人员在苏丹遇袭身亡",
+        "onboard_time": 1681707155,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 462677,
+        "num": 462677,
+        "word": "蔡徐坤打戏",
+        "onboard_time": 1681710385,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 394396,
+        "num": 394396,
+        "word": "肖战聚餐旧照",
+        "onboard_time": 1681706553,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371332,
+        "num": 371332,
+        "word": "李春江 马布里",
+        "onboard_time": 1681704210,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349608,
+        "num": 349608,
+        "word": "尹浩宇中戏考试合格",
+        "onboard_time": 1681710026,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303840,
+        "num": 303840,
+        "word": "调休",
+        "onboard_time": 1681695743,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301998,
+        "num": 301998,
+        "word": "今天就算是泰勒斯来了",
+        "onboard_time": 1681706910,
+        "rank": 17,
+        "category": "幽默,音乐"
+      },
+      {
+        "raw_hot": 62103,
+        "num": 297277,
+        "word": "车企价格战背后在拼什么",
+        "onboard_time": 1681711764,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285795,
+        "num": 294357,
+        "word": "张含韵回应质疑",
+        "onboard_time": 1681707392,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294024,
+        "num": 294024,
+        "word": "爱奇艺大会将要放出物料的剧集",
+        "onboard_time": 1681706791,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286778,
+        "num": 286778,
+        "word": "叶冰裳开始抢澹台烬了",
+        "onboard_time": 1681704026,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274727,
+        "num": 274727,
+        "word": "萧山机场",
+        "onboard_time": 1681706253,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206171,
+        "num": 274419,
+        "word": "易烊千玺新专辑预告照",
+        "onboard_time": 1681711406,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143818,
+        "num": 272692,
+        "word": "假球 消极比赛",
+        "onboard_time": 1681701148,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192396,
+        "num": 272387,
+        "word": "上班能挣几个钱",
+        "onboard_time": 1681702226,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 177254,
+        "num": 271320,
+        "word": "窦靖童长发封面",
+        "onboard_time": 1681705591,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160837,
+        "num": 270226,
+        "word": "萌探3礼貌式阵容官宣",
+        "onboard_time": 1681702106,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143712,
+        "num": 268405,
+        "word": "网红经济",
+        "onboard_time": 1681710686,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140084,
+        "num": 267817,
+        "word": "李楠禁赛3年",
+        "onboard_time": 1681698447,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214711,
+        "num": 266649,
+        "word": "张杰上台前10分钟还在健身",
+        "onboard_time": 1681712067,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145565,
+        "num": 265744,
+        "word": "铃芽之旅中国内地票房超日本本土",
+        "onboard_time": 1681707989,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 139159,
+        "num": 264962,
+        "word": "青年大学习",
+        "onboard_time": 1681711708,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134662,
+        "num": 263894,
+        "word": "科切拉的风",
+        "onboard_time": 1681708648,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127508,
+        "num": 262892,
+        "word": "周杰伦起诉网易不正当竞争案开庭",
+        "onboard_time": 1681700247,
+        "rank": 34,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 121720,
+        "num": 261279,
+        "word": "煤气灯效应",
+        "onboard_time": 1681712005,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116961,
+        "num": 260051,
+        "word": "沈月易梦玲路透",
+        "onboard_time": 1681696164,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109029,
+        "num": 258855,
+        "word": "提醒中国公民暂勿前往苏丹",
+        "onboard_time": 1681699105,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108805,
+        "num": 258328,
+        "word": "华为nova11新配色",
+        "onboard_time": 1681709667,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 98545,
+        "num": 256717,
+        "word": "白鹿官宣常州市文旅大使",
+        "onboard_time": 1681701565,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 103522,
+        "num": 255426,
+        "word": "林俊杰新专辑",
+        "onboard_time": 1681707155,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 98855,
+        "num": 254648,
+        "word": "朱一龙袁弘将回汉参加文旅博览会",
+        "onboard_time": 1681704869,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95013,
+        "num": 253877,
+        "word": "威少太懂杜兰特了",
+        "onboard_time": 1681698925,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92634,
+        "num": 252470,
+        "word": "江疏影白得发光",
+        "onboard_time": 1681701446,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92015,
+        "num": 251244,
+        "word": "马斯克星舰迎首飞",
+        "onboard_time": 1681701865,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 87962,
+        "num": 250407,
+        "word": "深圳男篮直接晋级半决赛",
+        "onboard_time": 1681702166,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87484,
+        "num": 249890,
+        "word": "福原爱和男友从豪宅搬出",
+        "onboard_time": 1681712485,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80025,
+        "num": 248442,
+        "word": "野居一家官宣",
+        "onboard_time": 1681706070,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50942,
+        "num": 247706,
+        "word": "原神",
+        "onboard_time": 1681689747,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50220,
+        "num": 246686,
+        "word": "Hero全员国风再唱桃花笑",
+        "onboard_time": 1681705772,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡史上规模最大广交会#"
+    }
+  }
+}

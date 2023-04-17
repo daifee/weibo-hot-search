@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681709604180,
+  "endTime": 1681712577251,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -9,6 +9,14 @@
       "onboard_time": 1681695743,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3253855,
+      "num": 3253855,
+      "word": "女生因为吃面崩溃",
+      "onboard_time": 1681704449,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 3086164,
@@ -41,14 +49,6 @@
       "onboard_time": 1681704026,
       "rank": 10,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 2273778,
-      "num": 2273778,
-      "word": "女生因为吃面崩溃",
-      "onboard_time": 1681704449,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 2041749,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1407501,
+      "num": 1040981,
+      "word": "罗云熙被扒得只剩裤衩了",
+      "onboard_time": 1681708529,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1202341,
       "num": 1202341,
       "word": "CBA",
@@ -113,14 +121,6 @@
       "onboard_time": 1681704210,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1040981,
-      "num": 1040981,
-      "word": "罗云熙被扒得只剩裤衩了",
-      "onboard_time": 1681708529,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 951121,
@@ -153,6 +153,14 @@
       "onboard_time": 1681656150,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 787481,
+      "num": 787481,
+      "word": "白玉兰 入围名单",
+      "onboard_time": 1681709549,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 776793,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 584461,
-      "num": 266831,
+      "num": 286778,
       "word": "叶冰裳开始抢澹台烬了",
       "onboard_time": 1681704026,
       "rank": 20,
@@ -267,12 +275,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493660,
+      "num": 493660,
+      "word": "五一档电影扎堆",
+      "onboard_time": 1681709605,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 484576,
+      "num": 484576,
+      "word": "与凤行",
+      "onboard_time": 1681710865,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477702,
       "num": 477702,
       "word": "郑秀文 我等到花儿也谢了",
       "onboard_time": 1681689687,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 474802,
+      "num": 474802,
+      "word": "3名联合国人员在苏丹遇袭身亡",
+      "onboard_time": 1681707155,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 462677,
+      "num": 462677,
+      "word": "蔡徐坤打戏",
+      "onboard_time": 1681710385,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 451120,
@@ -300,7 +340,7 @@
     },
     {
       "raw_hot": 446465,
-      "num": 246458,
+      "num": 253877,
       "word": "威少太懂杜兰特了",
       "onboard_time": 1681698925,
       "rank": 32,
@@ -321,14 +361,6 @@
       "onboard_time": 1681702106,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 425418,
-      "num": 425418,
-      "word": "3名联合国人员在苏丹遇袭身亡",
-      "onboard_time": 1681707155,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 416483,
@@ -387,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 349608,
+      "num": 349608,
+      "word": "尹浩宇中戏考试合格",
+      "onboard_time": 1681710026,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332354,
       "num": 332354,
       "word": "上海男篮",
@@ -404,7 +444,7 @@
     },
     {
       "raw_hot": 320967,
-      "num": 266437,
+      "num": 294024,
       "word": "爱奇艺大会将要放出物料的剧集",
       "onboard_time": 1681706791,
       "rank": 21,
@@ -452,7 +492,7 @@
     },
     {
       "raw_hot": 297508,
-      "num": 231323,
+      "num": 256717,
       "word": "白鹿官宣常州市文旅大使",
       "onboard_time": 1681701565,
       "rank": 23,
@@ -481,6 +521,14 @@
       "onboard_time": 1681672031,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285795,
+      "num": 294357,
+      "word": "张含韵回应质疑",
+      "onboard_time": 1681707392,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 282120,
@@ -513,14 +561,6 @@
       "onboard_time": 1681653629,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260955,
-      "num": 260955,
-      "word": "张含韵回应质疑",
-      "onboard_time": 1681707392,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 247210,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 217320,
-      "num": 217320,
+      "num": 251244,
       "word": "马斯克星舰迎首飞",
       "onboard_time": 1681701865,
       "rank": 31,
@@ -577,6 +617,14 @@
       "onboard_time": 1681695985,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214711,
+      "num": 266649,
+      "word": "张杰上台前10分钟还在健身",
+      "onboard_time": 1681712067,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 214084,
@@ -611,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206171,
+      "num": 274419,
+      "word": "易烊千玺新专辑预告照",
+      "onboard_time": 1681711406,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199927,
       "num": 209561,
       "word": "鹿晗择天记播出6周年",
@@ -628,7 +684,7 @@
     },
     {
       "raw_hot": 197084,
-      "num": 209731,
+      "num": 254648,
       "word": "朱一龙袁弘将回汉参加文旅博览会",
       "onboard_time": 1681704869,
       "rank": 31,
@@ -676,7 +732,7 @@
     },
     {
       "raw_hot": 179535,
-      "num": 202814,
+      "num": 246686,
       "word": "Hero全员国风再唱桃花笑",
       "onboard_time": 1681705772,
       "rank": 30,
@@ -684,7 +740,7 @@
     },
     {
       "raw_hot": 177874,
-      "num": 202785,
+      "num": 248442,
       "word": "野居一家官宣",
       "onboard_time": 1681706070,
       "rank": 34,
@@ -740,7 +796,7 @@
     },
     {
       "raw_hot": 162287,
-      "num": 199842,
+      "num": 263894,
       "word": "科切拉的风",
       "onboard_time": 1681708648,
       "rank": 30,
@@ -772,7 +828,7 @@
     },
     {
       "raw_hot": 151115,
-      "num": 199821,
+      "num": 255426,
       "word": "林俊杰新专辑",
       "onboard_time": 1681707155,
       "rank": 36,
@@ -780,7 +836,7 @@
     },
     {
       "raw_hot": 150416,
-      "num": 209492,
+      "num": 247706,
       "word": "原神",
       "onboard_time": 1681689747,
       "rank": 30,
@@ -803,6 +859,22 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 145565,
+      "num": 265744,
+      "word": "铃芽之旅中国内地票房超日本本土",
+      "onboard_time": 1681707989,
+      "rank": 43,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 143712,
+      "num": 268405,
+      "word": "网红经济",
+      "onboard_time": 1681710686,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 142691,
       "num": 142691,
       "word": "游客淄博买饼被宰网友转账补差价",
@@ -817,6 +889,14 @@
       "onboard_time": 1681703065,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139159,
+      "num": 264962,
+      "word": "青年大学习",
+      "onboard_time": 1681711708,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 132480,
@@ -843,12 +923,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125799,
-      "num": 199785,
-      "word": "铃芽之旅中国内地票房超日本本土",
-      "onboard_time": 1681707989,
-      "rank": 43,
-      "category": "影视,动漫"
+      "raw_hot": 121720,
+      "num": 261279,
+      "word": "煤气灯效应",
+      "onboard_time": 1681712005,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 121145,
@@ -913,6 +993,14 @@
       "onboard_time": 1681646547,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108805,
+      "num": 258328,
+      "word": "华为nova11新配色",
+      "onboard_time": 1681709667,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 108710,
@@ -1027,20 +1115,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 89854,
-      "num": 199712,
-      "word": "白玉兰 入围名单",
-      "onboard_time": 1681709549,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 89721,
       "num": 98888,
       "word": "严浩翔穿军装",
       "onboard_time": 1681688184,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87484,
+      "num": 249890,
+      "word": "福原爱和男友从豪宅搬出",
+      "onboard_time": 1681712485,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 85773,
@@ -1129,6 +1217,14 @@
       "onboard_time": 1681636047,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 62103,
+      "num": 297277,
+      "word": "车企价格战背后在拼什么",
+      "onboard_time": 1681711764,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56963,
