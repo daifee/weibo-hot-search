@@ -1,0 +1,410 @@
+{
+  "runTime": 1681731209976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1914844,
+        "num": 1914844,
+        "word": "生孩子一定要去公立医院",
+        "onboard_time": 1681726527,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 435287,
+        "num": 1017181,
+        "word": "一高中连续17年包绿皮火车游学",
+        "onboard_time": 1681725027,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 26178,
+        "num": 967273,
+        "word": "60秒速览广交会万商云集",
+        "onboard_time": 1681720408,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937111,
+        "num": 937111,
+        "word": "能不能接受五一放一天不调休",
+        "onboard_time": 1681716747,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280702,
+        "num": 665689,
+        "word": "00后大学生痴迷戏曲每天自学2小时",
+        "onboard_time": 1681728866,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 526055,
+        "num": 526055,
+        "word": "李秀满卖掉SMTOWN旧楼",
+        "onboard_time": 1681728327,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181058,
+        "num": 496232,
+        "word": "深夜起火92岁奶奶喊醒一条街",
+        "onboard_time": 1681719385,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488260,
+        "num": 488260,
+        "word": "16岁女孩在父母二胎后确诊抑郁症",
+        "onboard_time": 1681722326,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473125,
+        "num": 473125,
+        "word": "最成功的大男主IP",
+        "onboard_time": 1681728268,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445007,
+        "num": 445007,
+        "word": "长月烬明第23集预告",
+        "onboard_time": 1681727549,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1100438,
+        "num": 444615,
+        "word": "孙俪 这个爸爸真的可以",
+        "onboard_time": 1681728570,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457648,
+        "num": 440518,
+        "word": "炫富女住公租房消息不实",
+        "onboard_time": 1681730187,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430395,
+        "num": 430395,
+        "word": "TF家族 三亚",
+        "onboard_time": 1681729649,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391858,
+        "num": 391858,
+        "word": "香港顶流",
+        "onboard_time": 1681713566,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389774,
+        "num": 389774,
+        "word": "宁艺卓单封",
+        "onboard_time": 1681727189,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353867,
+        "num": 353867,
+        "word": "马斯克星舰",
+        "onboard_time": 1681727368,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 340140,
+        "num": 340140,
+        "word": "什么工作可以上半年休半年",
+        "onboard_time": 1681725027,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 336051,
+        "num": 336051,
+        "word": "白鹿的字",
+        "onboard_time": 1681716148,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328115,
+        "num": 328115,
+        "word": "肖战GUCCI外网官网刷屏",
+        "onboard_time": 1681723527,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 321829,
+        "num": 321829,
+        "word": "单休人 连上12天班",
+        "onboard_time": 1681725149,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334315,
+        "num": 321299,
+        "word": "被自己的大屁股救了一命",
+        "onboard_time": 1681728148,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318047,
+        "num": 318047,
+        "word": "小S长发",
+        "onboard_time": 1681726407,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287947,
+        "num": 287947,
+        "word": "当事女生回应因吃面崩溃",
+        "onboard_time": 1681725149,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271958,
+        "num": 271958,
+        "word": "茄子 eggplant",
+        "onboard_time": 1681727967,
+        "rank": 23,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 262114,
+        "num": 262114,
+        "word": "易烊千玺直播跟粉丝大合影",
+        "onboard_time": 1681726225,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245516,
+        "num": 245516,
+        "word": "毛雪汪终于开火了",
+        "onboard_time": 1681728570,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219909,
+        "num": 219909,
+        "word": "上一星期班发现上错公司了",
+        "onboard_time": 1681716327,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209379,
+        "num": 209379,
+        "word": "檀健次晒与丁程鑫合照",
+        "onboard_time": 1681729947,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208796,
+        "num": 208796,
+        "word": "女生吃面 情感操控",
+        "onboard_time": 1681721967,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165840,
+        "num": 207998,
+        "word": "又一个中国技术登顶全球",
+        "onboard_time": 1681729409,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 207600,
+        "num": 207600,
+        "word": "蒋胜男 我为什么反对996捍卫888",
+        "onboard_time": 1681730967,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203365,
+        "num": 203365,
+        "word": "灭魂钉需要真心换真心",
+        "onboard_time": 1681726825,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201117,
+        "num": 201117,
+        "word": "睡不好对颜值影响有多大",
+        "onboard_time": 1681723468,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159333,
+        "num": 159333,
+        "word": "五月天西安",
+        "onboard_time": 1681724425,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158803,
+        "num": 158803,
+        "word": "艺考之神",
+        "onboard_time": 1681716566,
+        "rank": 34,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 152597,
+        "num": 152597,
+        "word": "你好星期六全员求赞",
+        "onboard_time": 1681728506,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152347,
+        "num": 152347,
+        "word": "李春江名下篮球俱乐部已注销",
+        "onboard_time": 1681721007,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 146821,
+        "num": 146821,
+        "word": "SpaceX星舰直播",
+        "onboard_time": 1681730786,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 128788,
+        "num": 128788,
+        "word": "福原爱和男友从豪宅搬出",
+        "onboard_time": 1681712485,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128008,
+        "num": 128008,
+        "word": "错过一个很爱的人是怎样的",
+        "onboard_time": 1681730307,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126562,
+        "num": 126562,
+        "word": "NCT道在廷空降",
+        "onboard_time": 1681728506,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61121,
+        "num": 124785,
+        "word": "什么是智能汽车天花板",
+        "onboard_time": 1681727906,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 124459,
+        "num": 124459,
+        "word": "罗云熙被扒得只剩裤衩了",
+        "onboard_time": 1681708529,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124336,
+        "num": 124336,
+        "word": "林俊杰说准备好了巴黎的朋友们",
+        "onboard_time": 1681727666,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117978,
+        "num": 117978,
+        "word": "鞠婧祎晒宫脇咲良To签专辑",
+        "onboard_time": 1681721424,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109640,
+        "num": 109640,
+        "word": "JYP发文感叹市价突破3万亿韩元",
+        "onboard_time": 1681723886,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104978,
+        "num": 104978,
+        "word": "怨气可以养活邪剑仙了",
+        "onboard_time": 1681714525,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 104629,
+        "num": 104629,
+        "word": "LPL选手大会",
+        "onboard_time": 1681716626,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104063,
+        "num": 104063,
+        "word": "煤气灯效应更多在关系建立阶段出现",
+        "onboard_time": 1681731088,
+        "rank": 48,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 43778,
+        "num": 103740,
+        "word": "2023LPL春季转会期",
+        "onboard_time": 1681715185,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以学铸魂坚定理想信念#"
+    }
+  }
+}

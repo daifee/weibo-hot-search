@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681730100259,
+  "endTime": 1681731209976,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1395,6 +1395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1914844,
+      "num": 1914844,
+      "word": "生孩子一定要去公立医院",
+      "onboard_time": 1681726527,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1912705,
       "num": 1912705,
       "word": "法老 老乡鸡",
@@ -2539,14 +2547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1364904,
-      "num": 1364904,
-      "word": "生孩子一定要去公立医院",
-      "onboard_time": 1681726527,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1355396,
       "num": 1355396,
       "word": "女生吃面 情感操控",
@@ -3401,6 +3401,14 @@
       "onboard_time": 1681553367,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1100438,
+      "num": 454250,
+      "word": "孙俪 这个爸爸真的可以",
+      "onboard_time": 1681728570,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1100322,
@@ -4264,14 +4272,6 @@
       "word": "马嘉祺丁程鑫暂停一期外务录制",
       "onboard_time": 1680741092,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 917844,
-      "num": 454250,
-      "word": "孙俪 这个爸爸真的可以",
-      "onboard_time": 1681728570,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -9451,6 +9451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526055,
+      "num": 526055,
+      "word": "李秀满卖掉SMTOWN旧楼",
+      "onboard_time": 1681728327,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 525540,
       "num": 425827,
       "word": "阿里所有产品将接入通义千问",
@@ -9609,14 +9617,6 @@
       "onboard_time": 1680662911,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 519983,
-      "num": 519983,
-      "word": "李秀满卖掉SMTOWN旧楼",
-      "onboard_time": 1681728327,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 519629,
@@ -10643,6 +10643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 473125,
+      "num": 473125,
+      "word": "最成功的大男主IP",
+      "onboard_time": 1681728268,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472984,
       "num": 472984,
       "word": "吴彤说我也想好好沉淀一下",
@@ -11033,6 +11041,14 @@
       "onboard_time": 1681343848,
       "rank": 9,
       "category": "动漫,时尚"
+    },
+    {
+      "raw_hot": 457648,
+      "num": 440518,
+      "word": "炫富女住公租房消息不实",
+      "onboard_time": 1681730187,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456779,
@@ -11451,6 +11467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 445007,
+      "num": 445007,
+      "word": "长月烬明第23集预告",
+      "onboard_time": 1681727549,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 444187,
       "num": 444187,
       "word": "王一博第一季度工作表",
@@ -11769,6 +11793,14 @@
       "onboard_time": 1680332185,
       "rank": 12,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 430395,
+      "num": 430395,
+      "word": "TF家族 三亚",
+      "onboard_time": 1681729649,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 430301,
@@ -13331,6 +13363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 389774,
+      "num": 389774,
+      "word": "宁艺卓单封",
+      "onboard_time": 1681727189,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 389703,
       "num": 389703,
       "word": "Hero第三轮掉A",
@@ -13377,14 +13417,6 @@
       "onboard_time": 1680743728,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 388125,
-      "num": 388125,
-      "word": "长月烬明第23集预告",
-      "onboard_time": 1681727549,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 387306,
@@ -14427,14 +14459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354189,
-      "num": 354189,
-      "word": "宁艺卓单封",
-      "onboard_time": 1681727189,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 354177,
       "num": 354177,
       "word": "井胧 中传",
@@ -14449,6 +14473,14 @@
       "onboard_time": 1681274849,
       "rank": 20,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 353867,
+      "num": 353867,
+      "word": "马斯克星舰",
+      "onboard_time": 1681727368,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 353715,
@@ -15219,6 +15251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334315,
+      "num": 326508,
+      "word": "被自己的大屁股救了一命",
+      "onboard_time": 1681728148,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 334266,
       "num": 247250,
       "word": "陈伟霆刘雯李沁同框",
@@ -15419,14 +15459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 330818,
-      "num": 330818,
-      "word": "最成功的大男主IP",
-      "onboard_time": 1681728268,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 330763,
       "num": 330763,
       "word": "孙国友首次回应种树破坏生态质疑",
@@ -15617,14 +15649,6 @@
       "onboard_time": 1680491790,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 326508,
-      "num": 326508,
-      "word": "被自己的大屁股救了一命",
-      "onboard_time": 1681728148,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 326367,
@@ -17276,7 +17300,7 @@
     },
     {
       "raw_hot": 290687,
-      "num": 210912,
+      "num": 271958,
       "word": "茄子 eggplant",
       "onboard_time": 1681727967,
       "rank": 30,
@@ -17827,6 +17851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 280702,
+      "num": 665689,
+      "word": "00后大学生痴迷戏曲每天自学2小时",
+      "onboard_time": 1681728866,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 280689,
       "num": 215097,
       "word": "空气炸锅还有多少惊喜是我不知道的",
@@ -18025,14 +18057,6 @@
       "onboard_time": 1681259969,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 276741,
-      "num": 276741,
-      "word": "马斯克星舰",
-      "onboard_time": 1681727368,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 276172,
@@ -23123,6 +23147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209379,
+      "num": 209379,
+      "word": "檀健次晒与丁程鑫合照",
+      "onboard_time": 1681729947,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209349,
       "num": 209349,
       "word": "张艺兴长沙夜生活片头曲MV预告",
@@ -23473,6 +23505,14 @@
       "onboard_time": 1681442310,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207600,
+      "num": 207600,
+      "word": "蒋胜男 我为什么反对996捍卫888",
+      "onboard_time": 1681730967,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 207595,
@@ -24345,14 +24385,6 @@
       "onboard_time": 1681295486,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 204129,
-      "num": 204129,
-      "word": "TF家族 三亚",
-      "onboard_time": 1681729649,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 204080,
@@ -29331,14 +29363,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183642,
-      "num": 164497,
-      "word": "檀健次晒与丁程鑫合照",
-      "onboard_time": 1681729947,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 183611,
       "num": 188992,
       "word": "迪士尼里最适合我扮演的角色",
@@ -30587,14 +30611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173145,
-      "num": 490424,
-      "word": "00后大学生痴迷戏曲每天自学2小时",
-      "onboard_time": 1681728866,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 173069,
       "num": 173069,
       "word": "四川鸳鸯除了锅还有面",
@@ -31569,6 +31585,14 @@
       "onboard_time": 1680774811,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165840,
+      "num": 212100,
+      "word": "又一个中国技术登顶全球",
+      "onboard_time": 1681729409,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 165763,
@@ -33299,14 +33323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152722,
-      "num": 212100,
-      "word": "又一个中国技术登顶全球",
-      "onboard_time": 1681729409,
-      "rank": 29,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 152698,
       "num": 152698,
       "word": "上班摸鱼会影响工作吗",
@@ -34089,6 +34105,14 @@
       "onboard_time": 1680654988,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146821,
+      "num": 146821,
+      "word": "SpaceX星舰直播",
+      "onboard_time": 1681730786,
+      "rank": 37,
+      "category": "科技"
     },
     {
       "raw_hot": 146782,
@@ -36235,6 +36259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128008,
+      "num": 128008,
+      "word": "错过一个很爱的人是怎样的",
+      "onboard_time": 1681730307,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127915,
       "num": 118378,
       "word": "你认为有必要强制婚前检查吗",
@@ -38177,6 +38209,14 @@
       "onboard_time": 1680327989,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104063,
+      "num": 104063,
+      "word": "煤气灯效应更多在关系建立阶段出现",
+      "onboard_time": 1681731088,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 103936,
