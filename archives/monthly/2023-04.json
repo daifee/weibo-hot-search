@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681712577251,
+  "endTime": 1681713391759,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -8067,6 +8067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 586587,
+      "num": 586587,
+      "word": "五一档电影扎堆",
+      "onboard_time": 1681709605,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 586387,
       "num": 586387,
       "word": "薛之谦官宣济南加场南昌开站",
@@ -9851,6 +9859,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498280,
+      "num": 498280,
+      "word": "与凤行",
+      "onboard_time": 1681710865,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 497840,
+      "num": 249890,
+      "word": "福原爱和男友从豪宅搬出",
+      "onboard_time": 1681712485,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497541,
       "num": 497541,
       "word": "长月烬明天欢下线",
@@ -9929,14 +9953,6 @@
       "onboard_time": 1681276889,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493660,
-      "num": 493660,
-      "word": "五一档电影扎堆",
-      "onboard_time": 1681709605,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 493191,
@@ -10131,14 +10147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 484576,
-      "num": 484576,
-      "word": "与凤行",
-      "onboard_time": 1681710865,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 484263,
       "num": 484263,
       "word": "金晨 泰国泼水音乐节",
@@ -10273,6 +10281,14 @@
       "onboard_time": 1681451608,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479988,
+      "num": 266649,
+      "word": "张杰上台前10分钟还在健身",
+      "onboard_time": 1681712067,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 479963,
@@ -22163,14 +22179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214711,
-      "num": 266649,
-      "word": "张杰上台前10分钟还在健身",
-      "onboard_time": 1681712067,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 214505,
       "num": 228617,
       "word": "瘫痪女童复健3年能骑自行车了",
@@ -27083,6 +27091,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 192271,
+      "num": 261279,
+      "word": "煤气灯效应",
+      "onboard_time": 1681712005,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192182,
       "num": 192182,
       "word": "刘耀文夜色侧颜随拍",
@@ -29739,6 +29755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176210,
+      "num": 268405,
+      "word": "网红经济",
+      "onboard_time": 1681710686,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 176130,
       "num": 176130,
       "word": "IVE先行曲一位",
@@ -32043,6 +32067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158073,
+      "num": 264962,
+      "word": "青年大学习",
+      "onboard_time": 1681711708,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 157907,
       "num": 157907,
       "word": "WTT新乡冠军赛2023",
@@ -33803,14 +33835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143712,
-      "num": 268405,
-      "word": "网红经济",
-      "onboard_time": 1681710686,
-      "rank": 28,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 143659,
       "num": 225806,
       "word": "苏丹首都多地发生武装冲突",
@@ -34313,14 +34337,6 @@
       "onboard_time": 1680926127,
       "rank": 48,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 139159,
-      "num": 264962,
-      "word": "青年大学习",
-      "onboard_time": 1681711708,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 139080,
@@ -36097,14 +36113,6 @@
       "onboard_time": 1680665610,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121720,
-      "num": 261279,
-      "word": "煤气灯效应",
-      "onboard_time": 1681712005,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 121657,
@@ -38435,20 +38443,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87484,
-      "num": 249890,
-      "word": "福原爱和男友从豪宅搬出",
-      "onboard_time": 1681712485,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87291,
       "num": 87291,
       "word": "多地气温挑战今年首个30℃",
       "onboard_time": 1681614027,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87175,
+      "num": 176102,
+      "word": "绿色原来自带C位属性",
+      "onboard_time": 1681712846,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 86947,
@@ -38705,6 +38713,14 @@
       "onboard_time": 1681574609,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77782,
+      "num": 176055,
+      "word": "黄之锋被控藐视法庭罪判囚三个月",
+      "onboard_time": 1681712785,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77721,
