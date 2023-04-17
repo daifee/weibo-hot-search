@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681726753100,
+  "endTime": 1681727672512,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -203,6 +203,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 826227,
+      "num": 826227,
+      "word": "单休人 连上12天班",
+      "onboard_time": 1681725149,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 804634,
       "num": 804634,
       "word": "假球 消极比赛",
@@ -233,14 +241,6 @@
       "onboard_time": 1681676711,
       "rank": 45,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 773821,
-      "num": 773821,
-      "word": "单休人 连上12天班",
-      "onboard_time": 1681725149,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 723098,
@@ -475,6 +475,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 454914,
+      "num": 2283580,
+      "word": "一高中连续17年包绿皮火车游学",
+      "onboard_time": 1681725027,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 451120,
       "num": 451120,
       "word": "特斯拉中国工厂普通工人月薪1万块",
@@ -505,6 +513,14 @@
       "onboard_time": 1681698925,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429605,
+      "num": 429605,
+      "word": "生孩子一定要去公立医院",
+      "onboard_time": 1681726527,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 426717,
@@ -555,6 +571,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 393388,
+      "num": 393388,
+      "word": "当事女生回应因吃面崩溃",
+      "onboard_time": 1681725149,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384708,
       "num": 384708,
       "word": "官方介入调查女子被泼水撕雨衣",
@@ -569,14 +593,6 @@
       "onboard_time": 1681686982,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 374679,
-      "num": 2068513,
-      "word": "一高中连续17年包绿皮火车游学",
-      "onboard_time": 1681725027,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 368748,
@@ -633,14 +649,6 @@
       "onboard_time": 1681723468,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 341923,
-      "num": 341923,
-      "word": "当事女生回应因吃面崩溃",
-      "onboard_time": 1681725149,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 332354,
@@ -721,6 +729,14 @@
       "onboard_time": 1681655498,
       "rank": 9,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 297845,
+      "num": 297845,
+      "word": "宁艺卓单封",
+      "onboard_time": 1681727189,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 297508,
@@ -827,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 261848,
+      "num": 261848,
+      "word": "小S长发",
+      "onboard_time": 1681726407,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249734,
       "num": 249734,
       "word": "校方通报男生因琐事纠纷动刀伤人",
@@ -857,6 +881,14 @@
       "onboard_time": 1681720885,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229201,
+      "num": 229201,
+      "word": "JYP发文感叹市价突破3万亿韩元",
+      "onboard_time": 1681723886,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 228523,
@@ -897,14 +929,6 @@
       "onboard_time": 1681710686,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 222498,
-      "num": 222498,
-      "word": "JYP发文感叹市价突破3万亿韩元",
-      "onboard_time": 1681723886,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 217988,
@@ -1003,6 +1027,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 203700,
+      "num": 203700,
+      "word": "灭魂钉需要真心换真心",
+      "onboard_time": 1681726825,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199927,
       "num": 209561,
       "word": "鹿晗择天记播出6周年",
@@ -1067,14 +1099,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 192540,
-      "num": 174780,
-      "word": "小S长发",
-      "onboard_time": 1681726407,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 190355,
       "num": 190355,
       "word": "特斯拉上海新工厂正式开启招聘",
@@ -1131,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182215,
+      "num": 182215,
+      "word": "叶夕雾陷入爱河",
+      "onboard_time": 1681726586,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180987,
       "num": 199717,
       "word": "豆瓣崩了",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1681655010,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176503,
+      "num": 156888,
+      "word": "长月烬明第23集预告",
+      "onboard_time": 1681727549,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 176097,
@@ -1403,20 +1443,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 143755,
-      "num": 143755,
-      "word": "叶夕雾陷入爱河",
-      "onboard_time": 1681726586,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 143128,
       "num": 143128,
       "word": "付款码隐私保护功能",
       "onboard_time": 1681719569,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 143128,
+      "num": 143128,
+      "word": "马斯克星舰",
+      "onboard_time": 1681727368,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 142691,
@@ -1443,20 +1483,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140310,
+      "num": 140310,
+      "word": "陈伟霆露营办开鸡仪式",
+      "onboard_time": 1681727606,
+      "rank": 44,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 138270,
       "num": 138270,
       "word": "周深武大靖ASMR挑战",
       "onboard_time": 1681723527,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134169,
-      "num": 134169,
-      "word": "生孩子一定要去公立医院",
-      "onboard_time": 1681726527,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 132480,
@@ -1707,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94834,
+      "num": 289085,
+      "word": "问界M9外观曝光",
+      "onboard_time": 1681726887,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 94619,
       "num": 209454,
       "word": "伦纳德38分",
@@ -1876,7 +1924,7 @@
     },
     {
       "raw_hot": 54507,
-      "num": 128530,
+      "num": 129458,
       "word": "决战平安京",
       "onboard_time": 1681717467,
       "rank": 49,
@@ -1891,7 +1939,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 41086,
+      "raw_hot": 42566,
       "num": 787688,
       "word": "长征七号遥七运载火箭运抵发射场",
       "onboard_time": 1681725088,
@@ -1900,7 +1948,7 @@
     },
     {
       "raw_hot": 38339,
-      "num": 2030365,
+      "num": 2089512,
       "word": "60秒速览广交会万商云集",
       "onboard_time": 1681720408,
       "rank": 2,
