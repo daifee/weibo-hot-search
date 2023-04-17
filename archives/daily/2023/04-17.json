@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681738406994,
+  "endTime": 1681741018122,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1836646,
+      "num": 1836646,
+      "word": "SpaceX星舰发射计划推迟",
+      "onboard_time": 1681738226,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1736797,
       "num": 1736797,
       "word": "在微信状态养个懒羊羊",
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1419966,
+      "num": 364121,
+      "word": "鹿晗又染粉发",
+      "onboard_time": 1681737867,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1416394,
       "num": 1416394,
       "word": "坠亡女演员和搭档是夫妻",
@@ -203,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1150604,
+      "num": 363381,
+      "word": "那英十年前为调休发声",
+      "onboard_time": 1681739546,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1105425,
       "num": 1105425,
       "word": "易烊千玺 华为发布会",
@@ -235,8 +259,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 967396,
-      "num": 967396,
+      "raw_hot": 997698,
+      "num": 997698,
       "word": "大熊猫暖暖 被打",
       "onboard_time": 1681736245,
       "rank": 5,
@@ -305,14 +329,6 @@
       "onboard_time": 1681709549,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 786555,
-      "num": 786555,
-      "word": "SpaceX星舰发射计划推迟",
-      "onboard_time": 1681738226,
-      "rank": 7,
-      "category": "科技"
     },
     {
       "raw_hot": 776793,
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452325,
+      "num": 360443,
+      "word": "李春江的最后一堂训练课",
+      "onboard_time": 1681739428,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451120,
       "num": 451120,
       "word": "特斯拉中国工厂普通工人月薪1万块",
@@ -787,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362927,
-      "num": 362927,
-      "word": "鹿晗又染粉发",
-      "onboard_time": 1681737867,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 361812,
       "num": 361812,
       "word": "今天就算是泰勒斯来了",
@@ -809,6 +825,14 @@
       "onboard_time": 1681719385,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354827,
+      "num": 151478,
+      "word": "秦霄贤孙珍妮合照",
+      "onboard_time": 1681738648,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 351320,
@@ -1059,6 +1083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265637,
+      "num": 265637,
+      "word": "张杰演唱会",
+      "onboard_time": 1681740267,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 249734,
       "num": 249734,
       "word": "校方通报男生因琐事纠纷动刀伤人",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1681723886,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229124,
+      "num": 229124,
+      "word": "TF三代成员发文告别第一场演唱会",
+      "onboard_time": 1681737507,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 228523,
@@ -1195,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214778,
+      "num": 214778,
+      "word": "手机号实名制之前",
+      "onboard_time": 1681736606,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214084,
       "num": 214084,
       "word": "小米13ultra",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1681656929,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209741,
+      "num": 209741,
+      "word": "久事集团成立工作组调查上海男篮",
+      "onboard_time": 1681740867,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 209379,
@@ -1259,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206987,
+      "num": 206987,
+      "word": "长空之王领跑五一档预售票房榜",
+      "onboard_time": 1681740207,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206171,
       "num": 274419,
       "word": "易烊千玺新专辑预告照",
@@ -1273,14 +1337,6 @@
       "onboard_time": 1681719149,
       "rank": 24,
       "category": "科技"
-    },
-    {
-      "raw_hot": 203670,
-      "num": 198924,
-      "word": "TF三代成员发文告别第一场演唱会",
-      "onboard_time": 1681737507,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 199927,
@@ -1379,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189680,
+      "num": 189680,
+      "word": "丁程鑫你好星期六白色外套路透",
+      "onboard_time": 1681740867,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189633,
       "num": 188844,
       "word": "战火中的青春",
@@ -1475,6 +1539,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 180416,
+      "num": 180416,
+      "word": "园方回应熊猫暖暖被饲养员用竹竿拍打",
+      "onboard_time": 1681738587,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179756,
       "num": 179756,
       "word": "国内首个机场音乐节",
@@ -1555,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171405,
+      "num": 171405,
+      "word": "前任请你参加婚礼要去吗",
+      "onboard_time": 1681736426,
+      "rank": 34,
+      "category": "情感,影视"
+    },
+    {
       "raw_hot": 170175,
       "num": 199865,
       "word": "檀健次新专辑试听",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1681735887,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168850,
+      "num": 167261,
+      "word": "白宇连续四部剧BE",
+      "onboard_time": 1681738768,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 166661,
@@ -1627,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161609,
-      "num": 169326,
-      "word": "手机号实名制之前",
-      "onboard_time": 1681736606,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161524,
       "num": 179025,
       "word": "nova11首发人像新技术",
@@ -1665,14 +1745,6 @@
       "onboard_time": 1681697125,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 158380,
-      "num": 158380,
-      "word": "前任请你参加婚礼要去吗",
-      "onboard_time": 1681736426,
-      "rank": 34,
-      "category": "情感,影视"
     },
     {
       "raw_hot": 158073,
@@ -1899,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127605,
+      "num": 127605,
+      "word": "capper巡演",
+      "onboard_time": 1681740148,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127424,
       "num": 127424,
       "word": "DRG对战eStar",
@@ -1931,6 +2011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125626,
+      "num": 125626,
+      "word": "NASA",
+      "onboard_time": 1681739010,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 125407,
       "num": 130378,
       "word": "五一档观影清单",
@@ -1961,6 +2049,14 @@
       "onboard_time": 1681642889,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120039,
+      "num": 1433011,
+      "word": "这些旅游专列卷起来了",
+      "onboard_time": 1681737749,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119597,
@@ -2371,20 +2467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54766,
-      "num": 1433011,
-      "word": "这些旅游专列卷起来了",
-      "onboard_time": 1681737749,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54507,
       "num": 129458,
       "word": "决战平安京",
       "onboard_time": 1681717467,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53572,
+      "num": 117483,
+      "word": "用花开的方式打开故宫的春天",
+      "onboard_time": 1681740509,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 47926,
@@ -2417,6 +2513,14 @@
       "onboard_time": 1681699885,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 31741,
+      "num": 151540,
+      "word": "飞猪回应五一酒店免房费",
+      "onboard_time": 1681740026,
+      "rank": 39,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 29701,

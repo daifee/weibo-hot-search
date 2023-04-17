@@ -1,0 +1,410 @@
+{
+  "runTime": 1681741018122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1836646,
+        "num": 1836646,
+        "word": "SpaceX星舰发射计划推迟",
+        "onboard_time": 1681738226,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1445764,
+        "num": 1445764,
+        "word": "在微信状态养个懒羊羊",
+        "onboard_time": 1681731267,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120039,
+        "num": 1264169,
+        "word": "这些旅游专列卷起来了",
+        "onboard_time": 1681737749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124388,
+        "num": 1124388,
+        "word": "生孩子一定要去公立医院",
+        "onboard_time": 1681726527,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 997698,
+        "num": 997698,
+        "word": "大熊猫暖暖 被打",
+        "onboard_time": 1681736245,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669221,
+        "num": 669221,
+        "word": "陈都灵方否认恶意炒作",
+        "onboard_time": 1681735225,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 656372,
+        "num": 656372,
+        "word": "蒋胜男 我为什么反对996捍卫888",
+        "onboard_time": 1681730967,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 647266,
+        "num": 647266,
+        "word": "SpaceX星舰",
+        "onboard_time": 1681737749,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 500905,
+        "num": 500905,
+        "word": "害怕生孩子是心理障碍吗",
+        "onboard_time": 1681736007,
+        "rank": 8,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 364731,
+        "num": 364731,
+        "word": "下周就能看五一档新片了",
+        "onboard_time": 1681735286,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1419966,
+        "num": 364121,
+        "word": "鹿晗又染粉发",
+        "onboard_time": 1681737867,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1150604,
+        "num": 363381,
+        "word": "那英十年前为调休发声",
+        "onboard_time": 1681739546,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768924,
+        "num": 362399,
+        "word": "孙俪 这个爸爸真的可以",
+        "onboard_time": 1681728570,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572035,
+        "num": 360781,
+        "word": "罗云熙嗑新兰",
+        "onboard_time": 1681737929,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452325,
+        "num": 360443,
+        "word": "李春江的最后一堂训练课",
+        "onboard_time": 1681739428,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359640,
+        "num": 359640,
+        "word": "能不能接受五一放一天不调休",
+        "onboard_time": 1681716747,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311306,
+        "num": 311306,
+        "word": "16岁女孩在父母二胎后确诊抑郁症",
+        "onboard_time": 1681722326,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265637,
+        "num": 265637,
+        "word": "张杰演唱会",
+        "onboard_time": 1681740267,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238995,
+        "num": 238995,
+        "word": "肖战GUCCI外网官网刷屏",
+        "onboard_time": 1681723527,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 234112,
+        "num": 234112,
+        "word": "被自己的大屁股救了一命",
+        "onboard_time": 1681728148,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229124,
+        "num": 229124,
+        "word": "TF三代成员发文告别第一场演唱会",
+        "onboard_time": 1681737507,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221059,
+        "num": 221059,
+        "word": "长月烬明豆瓣开分6.2分",
+        "onboard_time": 1681732346,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217053,
+        "num": 217053,
+        "word": "小S长发",
+        "onboard_time": 1681726407,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216968,
+        "num": 216968,
+        "word": "香港顶流",
+        "onboard_time": 1681713566,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214778,
+        "num": 214778,
+        "word": "手机号实名制之前",
+        "onboard_time": 1681736606,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209741,
+        "num": 209741,
+        "word": "久事集团成立工作组调查上海男篮",
+        "onboard_time": 1681740867,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206987,
+        "num": 206987,
+        "word": "长空之王领跑五一档预售票房榜",
+        "onboard_time": 1681740207,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189680,
+        "num": 189680,
+        "word": "丁程鑫你好星期六白色外套路透",
+        "onboard_time": 1681740867,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189184,
+        "num": 189184,
+        "word": "周扬青刮痧",
+        "onboard_time": 1681731925,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56656,
+        "num": 182003,
+        "word": "深夜起火92岁奶奶喊醒一条街",
+        "onboard_time": 1681719385,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180416,
+        "num": 180416,
+        "word": "园方回应熊猫暖暖被饲养员用竹竿拍打",
+        "onboard_time": 1681738587,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174247,
+        "num": 174247,
+        "word": "李秀满卖掉SMTOWN旧楼",
+        "onboard_time": 1681728327,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171405,
+        "num": 171405,
+        "word": "前任请你参加婚礼要去吗",
+        "onboard_time": 1681736426,
+        "rank": 32,
+        "category": "情感,影视"
+      },
+      {
+        "raw_hot": 167600,
+        "num": 167600,
+        "word": "宁艺卓单封",
+        "onboard_time": 1681727189,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168850,
+        "num": 167261,
+        "word": "白宇连续四部剧BE",
+        "onboard_time": 1681738768,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165165,
+        "num": 165165,
+        "word": "宋茜说演唱会来的都是自己人有底气",
+        "onboard_time": 1681737026,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160752,
+        "num": 160752,
+        "word": "淄博烧烤后厨有多忙",
+        "onboard_time": 1681733967,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 155138,
+        "num": 155138,
+        "word": "什么工作可以上半年休半年",
+        "onboard_time": 1681725027,
+        "rank": 37,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 153003,
+        "num": 153003,
+        "word": "PDD歌友会",
+        "onboard_time": 1681732285,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31741,
+        "num": 151540,
+        "word": "飞猪回应五一酒店免房费",
+        "onboard_time": 1681740026,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 354827,
+        "num": 151478,
+        "word": "秦霄贤孙珍妮合照",
+        "onboard_time": 1681738648,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151179,
+        "num": 151179,
+        "word": "TF家族 三亚",
+        "onboard_time": 1681729649,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147648,
+        "num": 147648,
+        "word": "长月烬明第23集预告",
+        "onboard_time": 1681727549,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129029,
+        "num": 129029,
+        "word": "刘宇宁骑马错位图",
+        "onboard_time": 1681735526,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127605,
+        "num": 127605,
+        "word": "capper巡演",
+        "onboard_time": 1681740148,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125626,
+        "num": 125626,
+        "word": "NASA",
+        "onboard_time": 1681739010,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 120333,
+        "num": 120333,
+        "word": "白鹿的字",
+        "onboard_time": 1681716148,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117965,
+        "num": 117965,
+        "word": "马斯克的星舰能否成功发射",
+        "onboard_time": 1681737808,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 70660,
+        "num": 117893,
+        "word": "茄子 eggplant",
+        "onboard_time": 1681727967,
+        "rank": 48,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 53572,
+        "num": 117483,
+        "word": "用花开的方式打开故宫的春天",
+        "onboard_time": 1681740509,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以学铸魂坚定理想信念#"
+    }
+  }
+}
