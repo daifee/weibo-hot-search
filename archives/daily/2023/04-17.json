@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681706107844,
+  "endTime": 1681708603690,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -41,6 +41,14 @@
       "onboard_time": 1681704026,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2134800,
+      "num": 2134800,
+      "word": "女生因为吃面崩溃",
+      "onboard_time": 1681704449,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 2041749,
@@ -89,14 +97,6 @@
       "onboard_time": 1681659327,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1366096,
-      "num": 1366096,
-      "word": "女生因为吃面崩溃",
-      "onboard_time": 1681704449,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1202341,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 584461,
-      "num": 231949,
+      "num": 266831,
       "word": "叶冰裳开始抢澹台烬了",
       "onboard_time": 1681704026,
       "rank": 20,
@@ -235,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559020,
+      "num": 494706,
+      "word": "肖战聚餐旧照",
+      "onboard_time": 1681706553,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 544178,
       "num": 544178,
       "word": "周杰伦起诉网易不正当竞争案开庭",
       "onboard_time": 1681700247,
       "rank": 30,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 525681,
+      "num": 525681,
+      "word": "罗云熙被扒得只剩裤衩了",
+      "onboard_time": 1681708529,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 502794,
@@ -289,6 +305,14 @@
       "onboard_time": 1681698925,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426717,
+      "num": 426717,
+      "word": "萧山机场",
+      "onboard_time": 1681706253,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426563,
@@ -347,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343197,
+      "num": 343197,
+      "word": "3名联合国人员在苏丹遇袭身亡",
+      "onboard_time": 1681707155,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 332354,
       "num": 332354,
       "word": "上海男篮",
@@ -361,6 +393,14 @@
       "onboard_time": 1681688423,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 320967,
+      "num": 266437,
+      "word": "爱奇艺大会将要放出物料的剧集",
+      "onboard_time": 1681706791,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 319105,
@@ -385,6 +425,14 @@
       "onboard_time": 1681651826,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303527,
+      "num": 303527,
+      "word": "今天就算是泰勒斯来了",
+      "onboard_time": 1681706910,
+      "rank": 17,
+      "category": "幽默,音乐"
     },
     {
       "raw_hot": 299808,
@@ -459,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264357,
+      "num": 264357,
+      "word": "窦靖童长发封面",
+      "onboard_time": 1681705591,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 247210,
       "num": 247210,
       "word": "无名最终票房",
@@ -491,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218986,
+      "num": 218986,
+      "word": "张含韵回应质疑",
+      "onboard_time": 1681707392,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217988,
       "num": 217988,
       "word": "无业男子冒充清华研究生成网红",
@@ -513,6 +577,14 @@
       "onboard_time": 1681695985,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214084,
+      "num": 214084,
+      "word": "小米13ultra",
+      "onboard_time": 1681706791,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 211875,
@@ -555,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197084,
+      "num": 209731,
+      "word": "朱一龙袁弘将回汉参加文旅博览会",
+      "onboard_time": 1681704869,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196752,
       "num": 209817,
       "word": "王子文在拎一种很新的包",
@@ -569,14 +649,6 @@
       "onboard_time": 1681661006,
       "rank": 30,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 195716,
-      "num": 209731,
-      "word": "朱一龙袁弘将回汉参加文旅博览会",
-      "onboard_time": 1681704869,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 190355,
@@ -595,12 +667,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180987,
+      "num": 191289,
+      "word": "豆瓣崩了",
+      "onboard_time": 1681706910,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 179535,
       "num": 202814,
       "word": "Hero全员国风再唱桃花笑",
       "onboard_time": 1681705772,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177874,
+      "num": 202785,
+      "word": "野居一家官宣",
+      "onboard_time": 1681706070,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 176753,
@@ -659,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160499,
-      "num": 202785,
-      "word": "野居一家官宣",
-      "onboard_time": 1681706070,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158898,
       "num": 158898,
       "word": "aespa将公开先行曲",
@@ -683,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151115,
+      "num": 191278,
+      "word": "林俊杰新专辑",
+      "onboard_time": 1681707155,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150416,
       "num": 209492,
       "word": "原神",
@@ -697,14 +785,6 @@
       "onboard_time": 1681659986,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146565,
-      "num": 202764,
-      "word": "窦靖童长发封面",
-      "onboard_time": 1681705591,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145604,
@@ -777,6 +857,14 @@
       "onboard_time": 1681633166,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116675,
+      "num": 191266,
+      "word": "铃芽之旅中国内地票房超日本本土",
+      "onboard_time": 1681707989,
+      "rank": 43,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 112190,
@@ -961,6 +1049,14 @@
       "onboard_time": 1681664239,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 77474,
+      "num": 284400,
+      "word": "智能驾驶会让你更安心吗",
+      "onboard_time": 1681707451,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75840,
