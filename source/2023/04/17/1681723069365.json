@@ -1,0 +1,410 @@
+{
+  "runTime": 1681723069365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2554328,
+        "num": 2554328,
+        "word": "能不能接受五一放一天不调休",
+        "onboard_time": 1681716747,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1196685,
+        "num": 1196685,
+        "word": "甘肃临夏4人强奸案一审宣判",
+        "onboard_time": 1681722026,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38339,
+        "num": 1125127,
+        "word": "60秒速览广交会万商云集",
+        "onboard_time": 1681720408,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1087231,
+        "num": 1087231,
+        "word": "女生吃面 情感操控",
+        "onboard_time": 1681721967,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 647321,
+        "num": 647321,
+        "word": "易烊千玺 华为发布会",
+        "onboard_time": 1681717286,
+        "rank": 4,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 613070,
+        "num": 613070,
+        "word": "胡锡进呼吁增加一天五一假期",
+        "onboard_time": 1681718606,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488042,
+        "num": 488042,
+        "word": "上一星期班发现上错公司了",
+        "onboard_time": 1681716327,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 473147,
+        "num": 473147,
+        "word": "艺考之神",
+        "onboard_time": 1681716566,
+        "rank": 7,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 400869,
+        "num": 400869,
+        "word": "福原爱和男友从豪宅搬出",
+        "onboard_time": 1681712485,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390543,
+        "num": 390543,
+        "word": "女生因为吃面崩溃",
+        "onboard_time": 1681704449,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1320581,
+        "num": 382608,
+        "word": "香港顶流",
+        "onboard_time": 1681713566,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836814,
+        "num": 379290,
+        "word": "白鹿的字",
+        "onboard_time": 1681716148,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 564834,
+        "num": 372997,
+        "word": "王鹤棣陈都灵CP超话",
+        "onboard_time": 1681721967,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356518,
+        "num": 356518,
+        "word": "深夜起火92岁奶奶喊醒一条街",
+        "onboard_time": 1681719385,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333269,
+        "num": 333269,
+        "word": "官方介入调查女子被泼水撕雨衣",
+        "onboard_time": 1681718667,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321167,
+        "num": 321167,
+        "word": "鞠婧祎晒宫脇咲良To签专辑",
+        "onboard_time": 1681721424,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292148,
+        "num": 292148,
+        "word": "上海男篮道歉",
+        "onboard_time": 1681715666,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282299,
+        "num": 282299,
+        "word": "罗云熙被扒得只剩裤衩了",
+        "onboard_time": 1681708529,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250705,
+        "num": 250705,
+        "word": "王宝强女友冯清已还清188万执行款",
+        "onboard_time": 1681704026,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 246594,
+        "num": 246594,
+        "word": "郭帆说流浪地球3明天拍后天上",
+        "onboard_time": 1681719806,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238273,
+        "num": 238273,
+        "word": "姜涛瘦过",
+        "onboard_time": 1681717350,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229480,
+        "num": 229480,
+        "word": "左手科技与迷信共存",
+        "onboard_time": 1681720885,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225246,
+        "num": 225246,
+        "word": "余嘉诚艺考三校第一",
+        "onboard_time": 1681716266,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217835,
+        "num": 217835,
+        "word": "怨气可以养活邪剑仙了",
+        "onboard_time": 1681714525,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 216337,
+        "num": 216337,
+        "word": "李春江名下篮球俱乐部已注销",
+        "onboard_time": 1681721007,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 214817,
+        "num": 214817,
+        "word": "江苏一小区物业经理上门扇业主耳光",
+        "onboard_time": 1681720047,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207854,
+        "num": 207854,
+        "word": "Lisa在台下看王嘉尔表演",
+        "onboard_time": 1681703426,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201423,
+        "num": 201423,
+        "word": "武汉马拉松最后一名获社死安慰奖",
+        "onboard_time": 1681716266,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197806,
+        "num": 197806,
+        "word": "LPL选手大会",
+        "onboard_time": 1681716626,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192601,
+        "num": 192601,
+        "word": "觉得饭不好吃告诉老板丢人吗",
+        "onboard_time": 1681722326,
+        "rank": 29,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 278186,
+        "num": 192255,
+        "word": "16岁女孩在父母二胎后确诊抑郁症",
+        "onboard_time": 1681722326,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207708,
+        "num": 190489,
+        "word": "四月份即将开播的剧",
+        "onboard_time": 1681721607,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187443,
+        "num": 187443,
+        "word": "CBA回应篮协处罚决定",
+        "onboard_time": 1681720408,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175284,
+        "num": 175284,
+        "word": "法考",
+        "onboard_time": 1681718248,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159216,
+        "num": 159216,
+        "word": "成都迎来历史最热四月",
+        "onboard_time": 1681719085,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151321,
+        "num": 151321,
+        "word": "肖战聚餐旧照",
+        "onboard_time": 1681706553,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150097,
+        "num": 150097,
+        "word": "2023优酷短剧片单",
+        "onboard_time": 1681721847,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148736,
+        "num": 148736,
+        "word": "四川乡村中学生给野生熊猫做体温计",
+        "onboard_time": 1681722026,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 145329,
+        "num": 145329,
+        "word": "华为发布会",
+        "onboard_time": 1681719149,
+        "rank": 38,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135341,
+        "num": 135341,
+        "word": "2023年调休一览表",
+        "onboard_time": 1681721307,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133525,
+        "num": 133525,
+        "word": "校方通报男生因琐事纠纷动刀伤人",
+        "onboard_time": 1681716927,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 133019,
+        "num": 133019,
+        "word": "白玉兰 入围名单",
+        "onboard_time": 1681709549,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129726,
+        "num": 129726,
+        "word": "江苏男篮",
+        "onboard_time": 1681721424,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127981,
+        "num": 127981,
+        "word": "张杰上台前10分钟还在健身",
+        "onboard_time": 1681712067,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127975,
+        "num": 127975,
+        "word": "你觉得长月烬明哪首OST最火",
+        "onboard_time": 1681716927,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127818,
+        "num": 127818,
+        "word": "蔡徐坤 CRYSTAL CLEAR",
+        "onboard_time": 1681721066,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118191,
+        "num": 118191,
+        "word": "耐摔是否会成为手机刚需",
+        "onboard_time": 1681719927,
+        "rank": 46,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 104901,
+        "num": 118004,
+        "word": "小猫是不可能表演的",
+        "onboard_time": 1681722865,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 60825,
+        "num": 117041,
+        "word": "2023LPL春季转会期",
+        "onboard_time": 1681715185,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40645,
+        "num": 116196,
+        "word": "决战平安京",
+        "onboard_time": 1681717467,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以学铸魂坚定理想信念#"
+    }
+  }
+}
