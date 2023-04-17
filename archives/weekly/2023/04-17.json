@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681735843963,
+  "endTime": 1681737681239,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1703788,
+      "num": 1703788,
+      "word": "在微信状态养个懒羊羊",
+      "onboard_time": 1681731267,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1649607,
       "num": 1649607,
       "word": "蒋胜男 我为什么反对996捍卫888",
@@ -179,14 +187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1165087,
-      "num": 1165087,
-      "word": "在微信状态养个懒羊羊",
-      "onboard_time": 1681731267,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1105425,
       "num": 1105425,
       "word": "易烊千玺 华为发布会",
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1013441,
+      "num": 1013441,
+      "word": "陈都灵方否认恶意炒作",
+      "onboard_time": 1681735225,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1003791,
       "num": 529982,
       "word": "白鹿的字",
@@ -217,6 +225,14 @@
       "onboard_time": 1681698447,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 854699,
+      "num": 353867,
+      "word": "马斯克星舰",
+      "onboard_time": 1681727368,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 852862,
@@ -249,6 +265,14 @@
       "onboard_time": 1681725149,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 826092,
+      "num": 826092,
+      "word": "大熊猫暖暖 被打",
+      "onboard_time": 1681736245,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 804634,
@@ -523,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 479144,
-      "num": 353867,
-      "word": "马斯克星舰",
-      "onboard_time": 1681727368,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 477702,
       "num": 477702,
       "word": "郑秀文 我等到花儿也谢了",
@@ -616,14 +632,6 @@
       "word": "长月烬明第23集预告",
       "onboard_time": 1681727549,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 444138,
-      "num": 331217,
-      "word": "陈都灵方否认恶意炒作",
-      "onboard_time": 1681735225,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -723,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375485,
+      "num": 375485,
+      "word": "害怕生孩子是心理障碍吗",
+      "onboard_time": 1681736007,
+      "rank": 8,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 368748,
       "num": 297367,
       "word": "泫雅机场素颜照",
@@ -787,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332465,
+      "num": 332465,
+      "word": "李佳琦直播",
+      "onboard_time": 1681736007,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 332354,
       "num": 332354,
       "word": "上海男篮",
@@ -817,6 +841,14 @@
       "onboard_time": 1681724425,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321286,
+      "num": 321286,
+      "word": "下周就能看五一档新片了",
+      "onboard_time": 1681735286,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 320967,
@@ -1075,6 +1107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224699,
+      "num": 224699,
+      "word": "淄博烧烤后厨有多忙",
+      "onboard_time": 1681733967,
+      "rank": 36,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 223365,
       "num": 268405,
       "word": "网红经济",
@@ -1121,14 +1161,6 @@
       "onboard_time": 1681706791,
       "rank": 25,
       "category": "科技"
-    },
-    {
-      "raw_hot": 211971,
-      "num": 211971,
-      "word": "淄博烧烤后厨有多忙",
-      "onboard_time": 1681733967,
-      "rank": 36,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 211875,
@@ -1203,19 +1235,19 @@
       "category": "科技"
     },
     {
+      "raw_hot": 203670,
+      "num": 169276,
+      "word": "TF三代成员发文告别第一场演唱会",
+      "onboard_time": 1681737507,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199927,
       "num": 209561,
       "word": "鹿晗择天记播出6周年",
       "onboard_time": 1681699105,
       "rank": 31,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 197709,
-      "num": 192440,
-      "word": "下周就能看五一档新片了",
-      "onboard_time": 1681735286,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -1257,6 +1289,14 @@
       "onboard_time": 1681661006,
       "rank": 30,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 195339,
+      "num": 195339,
+      "word": "网易科技直播",
+      "onboard_time": 1681737448,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 192902,
@@ -1308,7 +1348,7 @@
     },
     {
       "raw_hot": 188539,
-      "num": 167488,
+      "num": 183157,
       "word": "减肥舞",
       "onboard_time": 1681733426,
       "rank": 30,
@@ -1353,6 +1393,14 @@
       "onboard_time": 1681725927,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 183076,
+      "num": 169270,
+      "word": "嘴上说说罢了",
+      "onboard_time": 1681737448,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 182319,
@@ -1435,6 +1483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171419,
+      "num": 171419,
+      "word": "国内首个机场音乐节",
+      "onboard_time": 1681734625,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170175,
       "num": 199865,
       "word": "檀健次新专辑试听",
@@ -1448,6 +1504,14 @@
       "word": "中国说唱巅峰对决2023官宣",
       "onboard_time": 1681704268,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169221,
+      "num": 169221,
+      "word": "成韩彬中报第三",
+      "onboard_time": 1681735887,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1491,12 +1555,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161971,
+      "num": 161971,
+      "word": "刘宇宁骑马错位图",
+      "onboard_time": 1681735526,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161751,
       "num": 161751,
       "word": "成都迎来历史最热四月",
       "onboard_time": 1681719085,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161609,
+      "num": 169326,
+      "word": "手机号实名制之前",
+      "onboard_time": 1681736606,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 161524,
@@ -1531,6 +1611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158380,
+      "num": 158380,
+      "word": "前任请你参加婚礼要去吗",
+      "onboard_time": 1681736426,
+      "rank": 34,
+      "category": "情感,影视"
+    },
+    {
       "raw_hot": 158073,
       "num": 264962,
       "word": "青年大学习",
@@ -1553,6 +1641,14 @@
       "onboard_time": 1681696524,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154252,
+      "num": 154252,
+      "word": "宋茜说演唱会来的都是自己人有底气",
+      "onboard_time": 1681737026,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 154184,
@@ -1691,6 +1787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141674,
+      "num": 130569,
+      "word": "周也年代戏女大学生造型",
+      "onboard_time": 1681737328,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140310,
       "num": 140310,
       "word": "陈伟霆露营办开鸡仪式",
@@ -1715,14 +1819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135684,
-      "num": 135684,
-      "word": "刘宇宁骑马错位图",
-      "onboard_time": 1681735526,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 132826,
       "num": 132826,
       "word": "林俊杰说准备好了巴黎的朋友们",
@@ -1736,14 +1832,6 @@
       "word": "陆虎反正都是我巡演",
       "onboard_time": 1681689986,
       "rank": 35,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 130997,
-      "num": 130997,
-      "word": "国内首个机场音乐节",
-      "onboard_time": 1681734625,
-      "rank": 42,
       "category": "音乐"
     },
     {
@@ -1777,6 +1865,14 @@
       "onboard_time": 1681651588,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 126763,
+      "num": 126763,
+      "word": "家长和校外小卖部协商",
+      "onboard_time": 1681736367,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 125882,
@@ -2177,6 +2273,14 @@
       "onboard_time": 1681645824,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 69769,
+      "num": 102889,
+      "word": "我的奇妙厨房",
+      "onboard_time": 1681736788,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 69137,
