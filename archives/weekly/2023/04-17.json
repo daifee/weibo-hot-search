@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681742006557,
+  "endTime": 1681744716552,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2012865,
+      "num": 434221,
+      "word": "那英十年前为调休发声",
+      "onboard_time": 1681739546,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1914844,
       "num": 1914844,
       "word": "生孩子一定要去公立医院",
@@ -107,20 +115,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1761628,
+      "num": 351014,
+      "word": "杨幂聚餐",
+      "onboard_time": 1681742311,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1736797,
       "num": 1736797,
       "word": "在微信状态养个懒羊羊",
       "onboard_time": 1681731267,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1728847,
-      "num": 434221,
-      "word": "那英十年前为调休发声",
-      "onboard_time": 1681739546,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1649607,
@@ -185,6 +193,14 @@
       "onboard_time": 1681659327,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1410537,
+      "num": 1410537,
+      "word": "虞书欣丁禹兮 黑莲花",
+      "onboard_time": 1681741890,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 1407501,
@@ -273,6 +289,14 @@
       "onboard_time": 1681698447,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 907161,
+      "num": 907161,
+      "word": "黑莲花 绝世大饼",
+      "onboard_time": 1681741890,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 852862,
@@ -377,6 +401,14 @@
       "onboard_time": 1681716566,
       "rank": 38,
       "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 665866,
+      "num": 665866,
+      "word": "林某侮辱诽谤江秋莲获刑2年3个月",
+      "onboard_time": 1681741167,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661500,
@@ -571,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 503097,
+      "num": 503097,
+      "word": "李春江的最后一堂训练课",
+      "onboard_time": 1681739428,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 502794,
       "num": 502794,
       "word": "金子涵 身体目前已无大碍",
@@ -587,6 +627,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 492581,
+      "num": 343021,
+      "word": "臀部发力的走路姿势我真的悟了",
+      "onboard_time": 1681743572,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 482556,
+      "num": 349670,
+      "word": "于正可以认识一下孙珍妮",
+      "onboard_time": 1681741167,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480021,
       "num": 480021,
       "word": "上海男篮道歉",
@@ -601,14 +657,6 @@
       "onboard_time": 1681689687,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 475970,
-      "num": 475970,
-      "word": "李春江的最后一堂训练课",
-      "onboard_time": 1681739428,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 474802,
@@ -697,14 +745,6 @@
       "onboard_time": 1681727549,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 442962,
-      "num": 349670,
-      "word": "于正可以认识一下孙珍妮",
-      "onboard_time": 1681741167,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 430395,
@@ -875,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334353,
+      "num": 334353,
+      "word": "大批学生特种兵留宿淄博海底捞",
+      "onboard_time": 1681741470,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334315,
       "num": 326508,
       "word": "被自己的大屁股救了一命",
@@ -931,12 +979,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 319784,
-      "num": 319784,
-      "word": "林某侮辱诽谤江秋莲获刑2年3个月",
-      "onboard_time": 1681741167,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 320667,
+      "num": 320667,
+      "word": "篮协曾提醒上海队和江苏队",
+      "onboard_time": 1681742010,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 319105,
@@ -1027,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289344,
+      "num": 289344,
+      "word": "王鹤棣徐志胜同款逗号刘海",
+      "onboard_time": 1681743629,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 285795,
       "num": 294357,
       "word": "张含韵回应质疑",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1681716266,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276218,
+      "num": 276218,
+      "word": "杨洋杨超越或将主演凡人修仙传",
+      "onboard_time": 1681743629,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 276168,
@@ -1339,12 +1403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 206422,
-      "num": 206422,
-      "word": "虞书欣丁禹兮 黑莲花",
-      "onboard_time": 1681741890,
+      "raw_hot": 206860,
+      "num": 206860,
+      "word": "张含韵 没想到30岁会这么好",
+      "onboard_time": 1681744290,
       "rank": 25,
-      "category": "影视"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206302,
@@ -1459,6 +1523,14 @@
       "category": "情感,影视"
     },
     {
+      "raw_hot": 193394,
+      "num": 182162,
+      "word": "侮辱诽谤他人有哪些法律后果",
+      "onboard_time": 1681743868,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192902,
       "num": 192902,
       "word": "法考",
@@ -1553,14 +1625,6 @@
       "onboard_time": 1681658608,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182243,
-      "num": 182243,
-      "word": "黑莲花 绝世大饼",
-      "onboard_time": 1681741890,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 182215,
@@ -1768,6 +1832,14 @@
       "word": "长空之王致敬版海报",
       "onboard_time": 1681700185,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 160692,
+      "num": 160692,
+      "word": "澹台烬 纯爱",
+      "onboard_time": 1681744290,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -1987,14 +2059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132965,
-      "num": 132965,
-      "word": "大批学生特种兵留宿淄博海底捞",
-      "onboard_time": 1681741470,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132826,
       "num": 132826,
       "word": "林俊杰说准备好了巴黎的朋友们",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1681719267,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112380,
+      "num": 112380,
+      "word": "要离职了被同事要求请吃饭",
+      "onboard_time": 1681744709,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 112190,
@@ -2323,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93672,
+      "num": 182264,
+      "word": "飞猪回应五一酒店免房费",
+      "onboard_time": 1681740026,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 93363,
       "num": 132337,
       "word": "球球大作战",
@@ -2353,6 +2433,14 @@
       "onboard_time": 1681652369,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 91927,
+      "num": 112379,
+      "word": "第五人格",
+      "onboard_time": 1681742128,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 90832,
@@ -2531,14 +2619,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 52621,
-      "num": 159134,
-      "word": "飞猪回应五一酒店免房费",
-      "onboard_time": 1681740026,
-      "rank": 39,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 47926,
       "num": 57533,
       "word": "路过男子跳入水中奋力救起落水男孩",
@@ -2605,6 +2685,9 @@
     },
     {
       "word": "#一季度外贸热度稳步提升#"
+    },
+    {
+      "word": "#功勋模范引导时代征途#"
     }
   ]
 }
