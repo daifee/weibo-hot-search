@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681741018122,
+  "endTime": 1681742006557,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -115,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1728847,
+      "num": 434221,
+      "word": "那英十年前为调休发声",
+      "onboard_time": 1681739546,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1649607,
       "num": 1649607,
       "word": "蒋胜男 我为什么反对996捍卫888",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1419966,
-      "num": 364121,
+      "num": 400115,
       "word": "鹿晗又染粉发",
       "onboard_time": 1681737867,
       "rank": 13,
@@ -217,14 +225,6 @@
       "onboard_time": 1681695326,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1150604,
-      "num": 363381,
-      "word": "那英十年前为调休发声",
-      "onboard_time": 1681739546,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1105425,
@@ -603,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475970,
+      "num": 475970,
+      "word": "李春江的最后一堂训练课",
+      "onboard_time": 1681739428,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 474802,
       "num": 474802,
       "word": "3名联合国人员在苏丹遇袭身亡",
@@ -643,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 452325,
-      "num": 360443,
-      "word": "李春江的最后一堂训练课",
-      "onboard_time": 1681739428,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 451120,
       "num": 451120,
       "word": "特斯拉中国工厂普通工人月薪1万块",
@@ -683,12 +683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445811,
+      "num": 445811,
+      "word": "张杰演唱会",
+      "onboard_time": 1681740267,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 445007,
       "num": 445007,
       "word": "长月烬明第23集预告",
       "onboard_time": 1681727549,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442962,
+      "num": 349670,
+      "word": "于正可以认识一下孙珍妮",
+      "onboard_time": 1681741167,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 430395,
@@ -915,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 319784,
+      "num": 319784,
+      "word": "林某侮辱诽谤江秋莲获刑2年3个月",
+      "onboard_time": 1681741167,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319105,
       "num": 319105,
       "word": "深圳男篮直接晋级半决赛",
@@ -1083,11 +1107,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265637,
-      "num": 265637,
-      "word": "张杰演唱会",
-      "onboard_time": 1681740267,
-      "rank": 17,
+      "raw_hot": 267943,
+      "num": 267943,
+      "word": "TF三代成员发文告别第一场演唱会",
+      "onboard_time": 1681737507,
+      "rank": 30,
       "category": "音乐"
     },
     {
@@ -1131,20 +1155,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229457,
+      "num": 229457,
+      "word": "手机号实名制之前",
+      "onboard_time": 1681736606,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229201,
       "num": 229201,
       "word": "JYP发文感叹市价突破3万亿韩元",
       "onboard_time": 1681723886,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229124,
-      "num": 229124,
-      "word": "TF三代成员发文告别第一场演唱会",
-      "onboard_time": 1681737507,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 228523,
@@ -1235,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214778,
-      "num": 214778,
-      "word": "手机号实名制之前",
-      "onboard_time": 1681736606,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214084,
       "num": 214084,
       "word": "小米13ultra",
@@ -1323,6 +1339,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206422,
+      "num": 206422,
+      "word": "虞书欣丁禹兮 黑莲花",
+      "onboard_time": 1681741890,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 206302,
+      "num": 206302,
+      "word": "丁程鑫你好星期六白色外套路透",
+      "onboard_time": 1681740867,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206171,
       "num": 274419,
       "word": "易烊千玺新专辑预告照",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1681719149,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 201091,
+      "num": 201091,
+      "word": "PDD歌友会",
+      "onboard_time": 1681732285,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 199927,
@@ -1395,12 +1435,28 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 194148,
+      "num": 194148,
+      "word": "园方回应熊猫暖暖被饲养员用竹竿拍打",
+      "onboard_time": 1681738587,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194135,
       "num": 179954,
       "word": "嘴上说说罢了",
       "onboard_time": 1681737448,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193523,
+      "num": 193523,
+      "word": "前任请你参加婚礼要去吗",
+      "onboard_time": 1681736426,
+      "rank": 34,
+      "category": "情感,影视"
     },
     {
       "raw_hot": 192902,
@@ -1419,28 +1475,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 190770,
-      "num": 190770,
-      "word": "PDD歌友会",
-      "onboard_time": 1681732285,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 190355,
       "num": 190355,
       "word": "特斯拉上海新工厂正式开启招聘",
       "onboard_time": 1681656629,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189680,
-      "num": 189680,
-      "word": "丁程鑫你好星期六白色外套路透",
-      "onboard_time": 1681740867,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 189633,
@@ -1515,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182243,
+      "num": 182243,
+      "word": "黑莲花 绝世大饼",
+      "onboard_time": 1681741890,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182215,
       "num": 182215,
       "word": "叶夕雾陷入爱河",
@@ -1537,14 +1585,6 @@
       "onboard_time": 1681706910,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 180416,
-      "num": 180416,
-      "word": "园方回应熊猫暖暖被饲养员用竹竿拍打",
-      "onboard_time": 1681738587,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179756,
@@ -1625,14 +1665,6 @@
       "onboard_time": 1681690946,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 171405,
-      "num": 171405,
-      "word": "前任请你参加婚礼要去吗",
-      "onboard_time": 1681736426,
-      "rank": 34,
-      "category": "情感,影视"
     },
     {
       "raw_hot": 170175,
@@ -1787,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151596,
+      "num": 151596,
+      "word": "NASA",
+      "onboard_time": 1681739010,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 151115,
       "num": 255426,
       "word": "林俊杰新专辑",
@@ -1915,6 +1955,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 139207,
+      "num": 139207,
+      "word": "capper巡演",
+      "onboard_time": 1681740148,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138270,
       "num": 138270,
       "word": "周深武大靖ASMR挑战",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1681737867,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132965,
+      "num": 132965,
+      "word": "大批学生特种兵留宿淄博海底捞",
+      "onboard_time": 1681741470,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132826,
@@ -1971,12 +2027,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127605,
-      "num": 127605,
-      "word": "capper巡演",
-      "onboard_time": 1681740148,
-      "rank": 44,
-      "category": "音乐"
+      "raw_hot": 128464,
+      "num": 1433011,
+      "word": "这些旅游专列卷起来了",
+      "onboard_time": 1681737749,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127424,
@@ -2011,14 +2067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 125626,
-      "num": 125626,
-      "word": "NASA",
-      "onboard_time": 1681739010,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 125407,
       "num": 130378,
       "word": "五一档观影清单",
@@ -2049,14 +2097,6 @@
       "onboard_time": 1681642889,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120039,
-      "num": 1433011,
-      "word": "这些旅游专列卷起来了",
-      "onboard_time": 1681737749,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119597,
@@ -2283,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93363,
+      "num": 132337,
+      "word": "球球大作战",
+      "onboard_time": 1681741589,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92712,
       "num": 92712,
       "word": "长月烬明",
@@ -2483,6 +2531,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 52621,
+      "num": 159134,
+      "word": "飞猪回应五一酒店免房费",
+      "onboard_time": 1681740026,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 47926,
       "num": 57533,
       "word": "路过男子跳入水中奋力救起落水男孩",
@@ -2513,14 +2569,6 @@
       "onboard_time": 1681699885,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31741,
-      "num": 151540,
-      "word": "飞猪回应五一酒店免房费",
-      "onboard_time": 1681740026,
-      "rank": 39,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 29701,
@@ -2554,6 +2602,9 @@
     },
     {
       "word": "#以学铸魂坚定理想信念#"
+    },
+    {
+      "word": "#一季度外贸热度稳步提升#"
     }
   ]
 }
