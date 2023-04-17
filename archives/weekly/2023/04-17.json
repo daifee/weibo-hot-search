@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681708603690,
+  "endTime": 1681709604180,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -43,8 +43,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2134800,
-      "num": 2134800,
+      "raw_hot": 2273778,
+      "num": 2273778,
       "word": "女生因为吃面崩溃",
       "onboard_time": 1681704449,
       "rank": 30,
@@ -113,6 +113,14 @@
       "onboard_time": 1681704210,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1040981,
+      "num": 1040981,
+      "word": "罗云熙被扒得只剩裤衩了",
+      "onboard_time": 1681708529,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 951121,
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 588121,
+      "num": 588121,
+      "word": "肖战聚餐旧照",
+      "onboard_time": 1681706553,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 584461,
       "num": 266831,
       "word": "叶冰裳开始抢澹台烬了",
@@ -235,28 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 559020,
-      "num": 494706,
-      "word": "肖战聚餐旧照",
-      "onboard_time": 1681706553,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 544178,
       "num": 544178,
       "word": "周杰伦起诉网易不正当竞争案开庭",
       "onboard_time": 1681700247,
       "rank": 30,
       "category": "艺人,科技"
-    },
-    {
-      "raw_hot": 525681,
-      "num": 525681,
-      "word": "罗云熙被扒得只剩裤衩了",
-      "onboard_time": 1681708529,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 502794,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425418,
+      "num": 425418,
+      "word": "3名联合国人员在苏丹遇袭身亡",
+      "onboard_time": 1681707155,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 416483,
       "num": 416483,
       "word": "克拉盘",
@@ -363,20 +371,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361812,
+      "num": 361812,
+      "word": "今天就算是泰勒斯来了",
+      "onboard_time": 1681706910,
+      "rank": 17,
+      "category": "幽默,音乐"
+    },
+    {
       "raw_hot": 351320,
       "num": 351320,
       "word": "刘青云 掌声嘘声总好过无声",
       "onboard_time": 1681688484,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 343197,
-      "num": 343197,
-      "word": "3名联合国人员在苏丹遇袭身亡",
-      "onboard_time": 1681707155,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 332354,
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303527,
-      "num": 303527,
-      "word": "今天就算是泰勒斯来了",
-      "onboard_time": 1681706910,
-      "rank": 17,
-      "category": "幽默,音乐"
-    },
-    {
       "raw_hot": 299808,
       "num": 295935,
       "word": "范丞丞听到李晨声音的反应",
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282120,
+      "num": 282120,
+      "word": "窦靖童长发封面",
+      "onboard_time": 1681705591,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 280961,
       "num": 280961,
       "word": "刘青云第三次获金像奖影帝",
@@ -507,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264357,
-      "num": 264357,
-      "word": "窦靖童长发封面",
-      "onboard_time": 1681705591,
-      "rank": 36,
-      "category": "作品衍生,时尚"
+      "raw_hot": 260955,
+      "num": 260955,
+      "word": "张含韵回应质疑",
+      "onboard_time": 1681707392,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 247210,
@@ -545,14 +553,6 @@
       "onboard_time": 1681687161,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218986,
-      "num": 218986,
-      "word": "张含韵回应质疑",
-      "onboard_time": 1681707392,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 217988,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 180987,
-      "num": 191289,
+      "num": 199717,
       "word": "豆瓣崩了",
       "onboard_time": 1681706910,
       "rank": 30,
@@ -739,6 +739,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 162287,
+      "num": 199842,
+      "word": "科切拉的风",
+      "onboard_time": 1681708648,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160900,
       "num": 160900,
       "word": "长空之王致敬版海报",
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 151115,
-      "num": 191278,
+      "num": 199821,
       "word": "林俊杰新专辑",
       "onboard_time": 1681707155,
       "rank": 36,
@@ -835,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125799,
+      "num": 199785,
+      "word": "铃芽之旅中国内地票房超日本本土",
+      "onboard_time": 1681707989,
+      "rank": 43,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 121145,
       "num": 121145,
       "word": "谈恋爱到什么阶段可以结婚",
@@ -857,14 +873,6 @@
       "onboard_time": 1681633166,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116675,
-      "num": 191266,
-      "word": "铃芽之旅中国内地票房超日本本土",
-      "onboard_time": 1681707989,
-      "rank": 43,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 112190,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1681653208,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89854,
+      "num": 199712,
+      "word": "白玉兰 入围名单",
+      "onboard_time": 1681709549,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 89721,
