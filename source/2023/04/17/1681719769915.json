@@ -1,0 +1,410 @@
+{
+  "runTime": 1681719769915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1105425,
+        "num": 1105425,
+        "word": "易烊千玺 华为发布会",
+        "onboard_time": 1681717286,
+        "rank": 0,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 737452,
+        "num": 737452,
+        "word": "女生因为吃面崩溃",
+        "onboard_time": 1681704449,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36567,
+        "num": 676896,
+        "word": "神十五乘组刷新我国单个乘组出舱纪录",
+        "onboard_time": 1681703968,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 671981,
+        "num": 671981,
+        "word": "艺考之神",
+        "onboard_time": 1681716566,
+        "rank": 3,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 647240,
+        "num": 647240,
+        "word": "王鹤棣周也新剧官宣定档",
+        "onboard_time": 1681716986,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1132513,
+        "num": 645298,
+        "word": "福原爱和男友从豪宅搬出",
+        "onboard_time": 1681712485,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638579,
+        "num": 638579,
+        "word": "上一星期班发现上错公司了",
+        "onboard_time": 1681716327,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 573382,
+        "num": 573382,
+        "word": "怨气可以养活邪剑仙了",
+        "onboard_time": 1681714525,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 545285,
+        "num": 545285,
+        "word": "罗云熙被扒得只剩裤衩了",
+        "onboard_time": 1681708529,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480021,
+        "num": 480021,
+        "word": "上海男篮道歉",
+        "onboard_time": 1681715666,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1525957,
+        "num": 464032,
+        "word": "能不能接受五一放一天不调休",
+        "onboard_time": 1681716747,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1473509,
+        "num": 423214,
+        "word": "香港顶流",
+        "onboard_time": 1681713566,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1003791,
+        "num": 385540,
+        "word": "白鹿的字",
+        "onboard_time": 1681716148,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 661500,
+        "num": 340378,
+        "word": "余嘉诚艺考三校第一",
+        "onboard_time": 1681716266,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338347,
+        "num": 338347,
+        "word": "王宝强女友冯清已还清188万执行款",
+        "onboard_time": 1681704026,
+        "rank": 14,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 333566,
+        "num": 333566,
+        "word": "胡锡进呼吁增加一天五一假期",
+        "onboard_time": 1681718606,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333477,
+        "num": 333477,
+        "word": "Lisa在台下看王嘉尔表演",
+        "onboard_time": 1681703426,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297313,
+        "num": 297313,
+        "word": "LPL选手大会",
+        "onboard_time": 1681716626,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280033,
+        "num": 280033,
+        "word": "武汉马拉松最后一名获社死安慰奖",
+        "onboard_time": 1681716266,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278752,
+        "num": 278752,
+        "word": "官方介入调查女子被泼水撕雨衣",
+        "onboard_time": 1681718667,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271023,
+        "num": 271023,
+        "word": "姜涛瘦过",
+        "onboard_time": 1681717350,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249734,
+        "num": 249734,
+        "word": "校方通报男生因琐事纠纷动刀伤人",
+        "onboard_time": 1681716927,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 245367,
+        "num": 245367,
+        "word": "肖战聚餐旧照",
+        "onboard_time": 1681706553,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224155,
+        "num": 224155,
+        "word": "张杰上台前10分钟还在健身",
+        "onboard_time": 1681712067,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204171,
+        "num": 204171,
+        "word": "华为发布会",
+        "onboard_time": 1681719149,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198064,
+        "num": 198064,
+        "word": "蔡徐坤打戏",
+        "onboard_time": 1681710385,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196033,
+        "num": 196033,
+        "word": "白玉兰 入围名单",
+        "onboard_time": 1681709549,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171870,
+        "num": 171870,
+        "word": "法考",
+        "onboard_time": 1681718248,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154095,
+        "num": 154095,
+        "word": "叶冰裳开始抢澹台烬了",
+        "onboard_time": 1681704026,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152276,
+        "num": 152276,
+        "word": "五一档电影扎堆",
+        "onboard_time": 1681709605,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148391,
+        "num": 148391,
+        "word": "姚明称十分痛心",
+        "onboard_time": 1681701565,
+        "rank": 30,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 144980,
+        "num": 144980,
+        "word": "2023LPL春季转会期",
+        "onboard_time": 1681715185,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144278,
+        "num": 144278,
+        "word": "李春江 马布里",
+        "onboard_time": 1681704210,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138837,
+        "num": 138837,
+        "word": "与凤行",
+        "onboard_time": 1681710865,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137021,
+        "num": 137021,
+        "word": "你觉得长月烬明哪首OST最火",
+        "onboard_time": 1681716927,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136116,
+        "num": 136116,
+        "word": "李春江禁赛5年",
+        "onboard_time": 1681698205,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127970,
+        "num": 127970,
+        "word": "尹浩宇中戏考试合格",
+        "onboard_time": 1681710026,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116406,
+        "num": 116406,
+        "word": "煤气灯效应",
+        "onboard_time": 1681712005,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109297,
+        "num": 109297,
+        "word": "成都迎来历史最热四月",
+        "onboard_time": 1681719085,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108988,
+        "num": 108988,
+        "word": "华为nova11",
+        "onboard_time": 1681714225,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 108345,
+        "num": 108345,
+        "word": "西湖音乐节官宣",
+        "onboard_time": 1681719267,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106669,
+        "num": 106669,
+        "word": "如何看待怼脸拍摄女友哭泣过程",
+        "onboard_time": 1681717708,
+        "rank": 41,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 106438,
+        "num": 106438,
+        "word": "深夜起火92岁奶奶喊醒一条街",
+        "onboard_time": 1681719385,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96874,
+        "num": 96874,
+        "word": "读名著真的有用么",
+        "onboard_time": 1681716927,
+        "rank": 43,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 95981,
+        "num": 95981,
+        "word": "付款码隐私保护功能",
+        "onboard_time": 1681719569,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 94977,
+        "num": 94977,
+        "word": "陈星旭对镜随拍",
+        "onboard_time": 1681719626,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92035,
+        "num": 92035,
+        "word": "王石说市场会惩罚暴利",
+        "onboard_time": 1681718425,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 90832,
+        "num": 90832,
+        "word": "中新网评CBA两队被罚",
+        "onboard_time": 1681717827,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89335,
+        "num": 89335,
+        "word": "黄之锋被控藐视法庭罪判囚三个月",
+        "onboard_time": 1681712785,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53664,
+        "num": 89327,
+        "word": "决战平安京",
+        "onboard_time": 1681717467,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡史上规模最大广交会#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681716808295,
+  "endTime": 1681719769915,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1525957,
+      "num": 464032,
+      "word": "能不能接受五一放一天不调休",
+      "onboard_time": 1681716747,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1474414,
       "num": 1474414,
       "word": "老娘已经80多天没有放假了",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1381692,
-      "num": 609336,
+      "num": 645298,
       "word": "福原爱和男友从豪宅搬出",
       "onboard_time": 1681712485,
       "rank": 46,
@@ -131,12 +139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1105425,
+      "num": 1105425,
+      "word": "易烊千玺 华为发布会",
+      "onboard_time": 1681717286,
+      "rank": 0,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 1078287,
       "num": 1078287,
       "word": "李春江 马布里",
       "onboard_time": 1681704210,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1003791,
+      "num": 385540,
+      "word": "白鹿的字",
+      "onboard_time": 1681716148,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 951121,
@@ -203,6 +227,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 671981,
+      "num": 671981,
+      "word": "艺考之神",
+      "onboard_time": 1681716566,
+      "rank": 38,
+      "category": "教育,艺人"
+    },
+    {
+      "raw_hot": 661500,
+      "num": 340393,
+      "word": "余嘉诚艺考三校第一",
+      "onboard_time": 1681716266,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658392,
       "num": 658392,
       "word": "aespa正规1变迷你3",
@@ -225,6 +265,22 @@
       "onboard_time": 1681693047,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647240,
+      "num": 647240,
+      "word": "王鹤棣周也新剧官宣定档",
+      "onboard_time": 1681716986,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 638579,
+      "num": 638579,
+      "word": "上一星期班发现上错公司了",
+      "onboard_time": 1681716327,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 636297,
@@ -323,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 480021,
+      "num": 480021,
+      "word": "上海男篮道歉",
+      "onboard_time": 1681715666,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477702,
       "num": 477702,
       "word": "郑秀文 我等到花儿也谢了",
@@ -419,14 +483,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 397217,
-      "num": 350692,
-      "word": "上海男篮道歉",
-      "onboard_time": 1681715666,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 380905,
       "num": 380905,
       "word": "湖人战胜灰熊",
@@ -467,20 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340393,
-      "num": 340393,
-      "word": "余嘉诚艺考三校第一",
-      "onboard_time": 1681716266,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 340232,
-      "num": 177333,
-      "word": "白鹿的字",
-      "onboard_time": 1681716148,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 333566,
+      "num": 333566,
+      "word": "胡锡进呼吁增加一天五一假期",
+      "onboard_time": 1681718606,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332354,
@@ -563,6 +611,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 297313,
+      "num": 297313,
+      "word": "LPL选手大会",
+      "onboard_time": 1681716626,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 295196,
       "num": 209601,
       "word": "南京交警隧道查酒驾被滴滴司机撞飞",
@@ -611,6 +667,22 @@
       "category": "影视,影视"
     },
     {
+      "raw_hot": 280033,
+      "num": 280033,
+      "word": "武汉马拉松最后一名获社死安慰奖",
+      "onboard_time": 1681716266,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278752,
+      "num": 278752,
+      "word": "官方介入调查女子被泼水撕雨衣",
+      "onboard_time": 1681718667,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276168,
       "num": 276168,
       "word": "这周日上班",
@@ -625,6 +697,22 @@
       "onboard_time": 1681653629,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271023,
+      "num": 271023,
+      "word": "姜涛瘦过",
+      "onboard_time": 1681717350,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 249734,
+      "num": 249734,
+      "word": "校方通报男生因琐事纠纷动刀伤人",
+      "onboard_time": 1681716927,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 247210,
@@ -739,12 +827,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206136,
-      "num": 206136,
-      "word": "LPL选手大会",
-      "onboard_time": 1681716626,
-      "rank": 22,
-      "category": "游戏"
+      "raw_hot": 204171,
+      "num": 204171,
+      "word": "华为发布会",
+      "onboard_time": 1681719149,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 199927,
@@ -753,14 +841,6 @@
       "onboard_time": 1681699105,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197893,
-      "num": 176317,
-      "word": "上一星期班发现上错公司了",
-      "onboard_time": 1681716327,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 197304,
@@ -843,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181863,
-      "num": 174123,
-      "word": "能不能接受五一放一天不调休",
-      "onboard_time": 1681716747,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180987,
       "num": 199717,
       "word": "豆瓣崩了",
@@ -905,6 +977,14 @@
       "onboard_time": 1681690946,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171870,
+      "num": 171870,
+      "word": "法考",
+      "onboard_time": 1681718248,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 170175,
@@ -979,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156819,
-      "num": 156819,
-      "word": "武汉马拉松最后一名获社死安慰奖",
-      "onboard_time": 1681716266,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151115,
       "num": 255426,
       "word": "林俊杰新专辑",
@@ -1027,14 +1099,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 144633,
-      "num": 144633,
-      "word": "艺考之神",
-      "onboard_time": 1681716566,
-      "rank": 38,
-      "category": "教育,艺人"
-    },
-    {
       "raw_hot": 142691,
       "num": 142691,
       "word": "游客淄博买饼被宰网友转账补差价",
@@ -1048,6 +1112,14 @@
       "word": "王一博说战斗机升空很激动",
       "onboard_time": 1681703065,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 137021,
+      "num": 137021,
+      "word": "你觉得长月烬明哪首OST最火",
+      "onboard_time": 1681716927,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1155,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109297,
+      "num": 109297,
+      "word": "成都迎来历史最热四月",
+      "onboard_time": 1681719085,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109129,
       "num": 109129,
       "word": "狼队 再输不礼貌了",
@@ -1177,6 +1257,30 @@
       "onboard_time": 1681648347,
       "rank": 40,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 108345,
+      "num": 108345,
+      "word": "西湖音乐节官宣",
+      "onboard_time": 1681719267,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 106669,
+      "num": 106669,
+      "word": "如何看待怼脸拍摄女友哭泣过程",
+      "onboard_time": 1681717708,
+      "rank": 41,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 106438,
+      "num": 106438,
+      "word": "深夜起火92岁奶奶喊醒一条街",
+      "onboard_time": 1681719385,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104153,
@@ -1243,6 +1347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 96874,
+      "num": 96874,
+      "word": "读名著真的有用么",
+      "onboard_time": 1681716927,
+      "rank": 43,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 96527,
       "num": 116405,
       "word": "这些影像是日寇美化侵略行径的罪证",
@@ -1257,6 +1369,22 @@
       "onboard_time": 1681696823,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95981,
+      "num": 95981,
+      "word": "付款码隐私保护功能",
+      "onboard_time": 1681719569,
+      "rank": 44,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 94977,
+      "num": 94977,
+      "word": "陈星旭对镜随拍",
+      "onboard_time": 1681719626,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 94619,
@@ -1275,12 +1403,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 92035,
+      "num": 92035,
+      "word": "王石说市场会惩罚暴利",
+      "onboard_time": 1681718425,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 92026,
       "num": 92026,
       "word": "高叶结束了两部戏的拍摄",
       "onboard_time": 1681652369,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90832,
+      "num": 90832,
+      "word": "中新网评CBA两队被罚",
+      "onboard_time": 1681717827,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90107,
@@ -1409,6 +1553,14 @@
       "onboard_time": 1681663641,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53664,
+      "num": 89327,
+      "word": "决战平安京",
+      "onboard_time": 1681717467,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 47926,
