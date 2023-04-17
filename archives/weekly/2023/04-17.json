@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681737681239,
+  "endTime": 1681738406994,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -33,6 +33,14 @@
       "onboard_time": 1681701565,
       "rank": 4,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 2829326,
+      "num": 2829326,
+      "word": "SpaceX星舰",
+      "onboard_time": 1681737749,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 2588805,
@@ -91,8 +99,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1703788,
-      "num": 1703788,
+      "raw_hot": 1736797,
+      "num": 1736797,
       "word": "在微信状态养个懒羊羊",
       "onboard_time": 1681731267,
       "rank": 1,
@@ -121,6 +129,14 @@
       "onboard_time": 1681658188,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1535002,
+      "num": 353867,
+      "word": "马斯克星舰",
+      "onboard_time": 1681727368,
+      "rank": 42,
+      "category": "科技"
     },
     {
       "raw_hot": 1474414,
@@ -219,20 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 967396,
+      "num": 967396,
+      "word": "大熊猫暖暖 被打",
+      "onboard_time": 1681736245,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 951121,
       "num": 951121,
       "word": "李楠禁赛3年",
       "onboard_time": 1681698447,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 854699,
-      "num": 353867,
-      "word": "马斯克星舰",
-      "onboard_time": 1681727368,
-      "rank": 42,
-      "category": "科技"
     },
     {
       "raw_hot": 852862,
@@ -267,14 +283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 826092,
-      "num": 826092,
-      "word": "大熊猫暖暖 被打",
-      "onboard_time": 1681736245,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 804634,
       "num": 804634,
       "word": "假球 消极比赛",
@@ -299,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 786555,
+      "num": 786555,
+      "word": "SpaceX星舰发射计划推迟",
+      "onboard_time": 1681738226,
+      "rank": 7,
+      "category": "科技"
+    },
+    {
       "raw_hot": 776793,
       "num": 776793,
       "word": "游客称在淄博一烧烤店遇强制消费",
@@ -312,6 +328,14 @@
       "word": "上班能挣几个钱",
       "onboard_time": 1681702226,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 721362,
+      "num": 385162,
+      "word": "罗云熙嗑新兰",
+      "onboard_time": 1681737929,
+      "rank": 11,
       "category": "影视"
     },
     {
@@ -409,6 +433,14 @@
       "onboard_time": 1681722326,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608721,
+      "num": 608721,
+      "word": "害怕生孩子是心理障碍吗",
+      "onboard_time": 1681736007,
+      "rank": 8,
+      "category": "社会议题"
     },
     {
       "raw_hot": 607002,
@@ -707,6 +739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385011,
+      "num": 385011,
+      "word": "下周就能看五一档新片了",
+      "onboard_time": 1681735286,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 384708,
       "num": 384708,
       "word": "官方介入调查女子被泼水撕雨衣",
@@ -731,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 375485,
-      "num": 375485,
-      "word": "害怕生孩子是心理障碍吗",
-      "onboard_time": 1681736007,
-      "rank": 8,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 368748,
       "num": 297367,
       "word": "泫雅机场素颜照",
@@ -753,6 +785,14 @@
       "onboard_time": 1681721424,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362927,
+      "num": 362927,
+      "word": "鹿晗又染粉发",
+      "onboard_time": 1681737867,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 361812,
@@ -841,14 +881,6 @@
       "onboard_time": 1681724425,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 321286,
-      "num": 321286,
-      "word": "下周就能看五一档新片了",
-      "onboard_time": 1681735286,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 320967,
@@ -953,6 +985,14 @@
       "onboard_time": 1681707392,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283141,
+      "num": 283141,
+      "word": "网易科技直播",
+      "onboard_time": 1681737448,
+      "rank": 22,
+      "category": "科技"
     },
     {
       "raw_hot": 282120,
@@ -1236,7 +1276,7 @@
     },
     {
       "raw_hot": 203670,
-      "num": 169276,
+      "num": 198924,
       "word": "TF三代成员发文告别第一场演唱会",
       "onboard_time": 1681737507,
       "rank": 30,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1681660888,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197258,
+      "num": 197258,
+      "word": "马斯克的星舰能否成功发射",
+      "onboard_time": 1681737808,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 197084,
@@ -1291,12 +1339,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 195339,
-      "num": 195339,
-      "word": "网易科技直播",
+      "raw_hot": 194135,
+      "num": 179954,
+      "word": "嘴上说说罢了",
       "onboard_time": 1681737448,
-      "rank": 22,
-      "category": "科技"
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 192902,
@@ -1395,14 +1443,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 183076,
-      "num": 169270,
-      "word": "嘴上说说罢了",
-      "onboard_time": 1681737448,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182319,
       "num": 121951,
       "word": "听了龚俊凡尔赛黄景瑜贾乃亮想走",
@@ -1419,12 +1459,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181003,
+      "num": 181003,
+      "word": "周也年代戏女大学生造型",
+      "onboard_time": 1681737328,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 180987,
       "num": 199717,
       "word": "豆瓣崩了",
       "onboard_time": 1681706910,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 179756,
+      "num": 179756,
+      "word": "国内首个机场音乐节",
+      "onboard_time": 1681734625,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 179535,
@@ -1443,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176878,
+      "num": 176878,
+      "word": "刘宇宁骑马错位图",
+      "onboard_time": 1681735526,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176753,
       "num": 176753,
       "word": "员工称在家养病却飞往海南遭解雇",
@@ -1457,6 +1521,14 @@
       "onboard_time": 1681698266,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 175699,
+      "num": 175699,
+      "word": "宋茜说演唱会来的都是自己人有底气",
+      "onboard_time": 1681737026,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 174313,
@@ -1480,14 +1552,6 @@
       "word": "李健音乐节连唱13首",
       "onboard_time": 1681690946,
       "rank": 28,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 171419,
-      "num": 171419,
-      "word": "国内首个机场音乐节",
-      "onboard_time": 1681734625,
-      "rank": 42,
       "category": "音乐"
     },
     {
@@ -1553,14 +1617,6 @@
       "onboard_time": 1681708648,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161971,
-      "num": 161971,
-      "word": "刘宇宁骑马错位图",
-      "onboard_time": 1681735526,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161751,
@@ -1641,14 +1697,6 @@
       "onboard_time": 1681696524,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154252,
-      "num": 154252,
-      "word": "宋茜说演唱会来的都是自己人有底气",
-      "onboard_time": 1681737026,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 154184,
@@ -1787,14 +1835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141674,
-      "num": 130569,
-      "word": "周也年代戏女大学生造型",
-      "onboard_time": 1681737328,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 140310,
       "num": 140310,
       "word": "陈伟霆露营办开鸡仪式",
@@ -1817,6 +1857,14 @@
       "onboard_time": 1681730307,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133681,
+      "num": 133681,
+      "word": "天赐的声音",
+      "onboard_time": 1681737867,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 132826,
@@ -2321,6 +2369,14 @@
       "onboard_time": 1681663641,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54766,
+      "num": 1433011,
+      "word": "这些旅游专列卷起来了",
+      "onboard_time": 1681737749,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54507,
