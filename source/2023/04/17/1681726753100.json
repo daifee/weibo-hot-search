@@ -1,0 +1,410 @@
+{
+  "runTime": 1681726753100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3073854,
+        "num": 3073854,
+        "word": "能不能接受五一放一天不调休",
+        "onboard_time": 1681716747,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374679,
+        "num": 2068513,
+        "word": "一高中连续17年包绿皮火车游学",
+        "onboard_time": 1681725027,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 30841,
+        "num": 2030365,
+        "word": "60秒速览广交会万商云集",
+        "onboard_time": 1681720408,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2016041,
+        "num": 2016041,
+        "word": "甘肃临夏4人强奸案一审宣判",
+        "onboard_time": 1681722026,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298915,
+        "num": 1410170,
+        "word": "深夜起火92岁奶奶喊醒一条街",
+        "onboard_time": 1681719385,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883134,
+        "num": 883134,
+        "word": "女生吃面 情感操控",
+        "onboard_time": 1681721967,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41086,
+        "num": 787688,
+        "word": "长征七号遥七运载火箭运抵发射场",
+        "onboard_time": 1681725088,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773821,
+        "num": 773821,
+        "word": "单休人 连上12天班",
+        "onboard_time": 1681725149,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 645735,
+        "num": 645735,
+        "word": "肖战GUCCI外网官网刷屏",
+        "onboard_time": 1681723527,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 621980,
+        "num": 621980,
+        "word": "16岁女孩在父母二胎后确诊抑郁症",
+        "onboard_time": 1681722326,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529982,
+        "num": 529982,
+        "word": "白鹿的字",
+        "onboard_time": 1681716148,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 527849,
+        "num": 527849,
+        "word": "香港顶流",
+        "onboard_time": 1681713566,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460375,
+        "num": 460375,
+        "word": "什么工作可以上半年休半年",
+        "onboard_time": 1681725027,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 406672,
+        "num": 406672,
+        "word": "易烊千玺直播跟粉丝大合影",
+        "onboard_time": 1681726225,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343291,
+        "num": 343291,
+        "word": "睡不好对颜值影响有多大",
+        "onboard_time": 1681723468,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341923,
+        "num": 341923,
+        "word": "当事女生回应因吃面崩溃",
+        "onboard_time": 1681725149,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339454,
+        "num": 339454,
+        "word": "上一星期班发现上错公司了",
+        "onboard_time": 1681716327,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331918,
+        "num": 331918,
+        "word": "王鹤棣陈都灵CP超话",
+        "onboard_time": 1681721967,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322800,
+        "num": 322800,
+        "word": "五月天西安",
+        "onboard_time": 1681724425,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289376,
+        "num": 289376,
+        "word": "鞠婧祎晒宫脇咲良To签专辑",
+        "onboard_time": 1681721424,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279366,
+        "num": 279366,
+        "word": "艺考之神",
+        "onboard_time": 1681716566,
+        "rank": 20,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 232135,
+        "num": 232135,
+        "word": "女生因为吃面崩溃",
+        "onboard_time": 1681704449,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222498,
+        "num": 222498,
+        "word": "JYP发文感叹市价突破3万亿韩元",
+        "onboard_time": 1681723886,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205302,
+        "num": 205302,
+        "word": "李春江名下篮球俱乐部已注销",
+        "onboard_time": 1681721007,
+        "rank": 23,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 200220,
+        "num": 200220,
+        "word": "胡锡进呼吁增加一天五一假期",
+        "onboard_time": 1681718606,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199983,
+        "num": 199983,
+        "word": "福原爱和男友从豪宅搬出",
+        "onboard_time": 1681712485,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197984,
+        "num": 197984,
+        "word": "Lisa在台下看王嘉尔表演",
+        "onboard_time": 1681703426,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187382,
+        "num": 187382,
+        "word": "郭帆说流浪地球3明天拍后天上",
+        "onboard_time": 1681719806,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 186499,
+        "num": 186499,
+        "word": "华为笔记本首发超材料天线技术",
+        "onboard_time": 1681725927,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 178788,
+        "num": 178788,
+        "word": "王宝强女友冯清已还清188万执行款",
+        "onboard_time": 1681704026,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 216885,
+        "num": 175918,
+        "word": "这不算躺平吧",
+        "onboard_time": 1681726165,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192540,
+        "num": 174780,
+        "word": "小S长发",
+        "onboard_time": 1681726407,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172373,
+        "num": 172373,
+        "word": "罗云熙被扒得只剩裤衩了",
+        "onboard_time": 1681708529,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166661,
+        "num": 166661,
+        "word": "没有他俩腿早好了",
+        "onboard_time": 1681725027,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165654,
+        "num": 165654,
+        "word": "阁楼上的疯女人",
+        "onboard_time": 1681724846,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165613,
+        "num": 165613,
+        "word": "怨气可以养活邪剑仙了",
+        "onboard_time": 1681714525,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 164705,
+        "num": 164705,
+        "word": "江苏一小区物业经理上门扇业主耳光",
+        "onboard_time": 1681720047,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157752,
+        "num": 157752,
+        "word": "武汉马拉松最后一名获社死安慰奖",
+        "onboard_time": 1681716266,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151691,
+        "num": 151691,
+        "word": "上海男篮道歉",
+        "onboard_time": 1681715666,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150809,
+        "num": 150809,
+        "word": "问界发布会",
+        "onboard_time": 1681715785,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145413,
+        "num": 145413,
+        "word": "狗改不了吃屎原来是真的",
+        "onboard_time": 1681724548,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145080,
+        "num": 145080,
+        "word": "小猫是不可能表演的",
+        "onboard_time": 1681722865,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 143755,
+        "num": 143755,
+        "word": "叶夕雾陷入爱河",
+        "onboard_time": 1681726586,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140938,
+        "num": 140938,
+        "word": "余嘉诚艺考三校第一",
+        "onboard_time": 1681716266,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134169,
+        "num": 134169,
+        "word": "生孩子一定要去公立医院",
+        "onboard_time": 1681726527,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131119,
+        "num": 131119,
+        "word": "四月份即将开播的剧",
+        "onboard_time": 1681721607,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130860,
+        "num": 130860,
+        "word": "LPL选手大会",
+        "onboard_time": 1681716626,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46101,
+        "num": 129794,
+        "word": "2023LPL春季转会期",
+        "onboard_time": 1681715185,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128962,
+        "num": 128962,
+        "word": "蔡徐坤 CRYSTAL CLEAR",
+        "onboard_time": 1681721066,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 34603,
+        "num": 128530,
+        "word": "决战平安京",
+        "onboard_time": 1681717467,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以学铸魂坚定理想信念#"
+    }
+  }
+}
