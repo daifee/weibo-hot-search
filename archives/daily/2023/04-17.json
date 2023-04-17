@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681713391759,
+  "endTime": 1681715776589,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -105,6 +105,22 @@
       "onboard_time": 1681708529,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1328103,
+      "num": 526524,
+      "word": "福原爱和男友从豪宅搬出",
+      "onboard_time": 1681712485,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1262296,
+      "num": 448785,
+      "word": "香港顶流",
+      "onboard_time": 1681713566,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1202341,
@@ -275,6 +291,22 @@
       "category": "艺人,科技"
     },
     {
+      "raw_hot": 529579,
+      "num": 529579,
+      "word": "张杰上台前10分钟还在健身",
+      "onboard_time": 1681712067,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 520288,
+      "num": 520288,
+      "word": "怨气可以养活邪剑仙了",
+      "onboard_time": 1681714525,
+      "rank": 6,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 502794,
       "num": 502794,
       "word": "金子涵 身体目前已无大碍",
@@ -289,22 +321,6 @@
       "onboard_time": 1681710865,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 497840,
-      "num": 249890,
-      "word": "福原爱和男友从豪宅搬出",
-      "onboard_time": 1681712485,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 479988,
-      "num": 266649,
-      "word": "张杰上台前10分钟还在健身",
-      "onboard_time": 1681712067,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 477702,
@@ -449,6 +465,14 @@
       "onboard_time": 1681698024,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 328211,
+      "num": 374866,
+      "word": "煤气灯效应",
+      "onboard_time": 1681712005,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 323249,
@@ -611,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223365,
+      "num": 268405,
+      "word": "网红经济",
+      "onboard_time": 1681710686,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 217988,
       "num": 217988,
       "word": "无业男子冒充清华研究生成网红",
@@ -683,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199873,
+      "num": 199873,
+      "word": "华为nova11",
+      "onboard_time": 1681714225,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 197304,
       "num": 197304,
       "word": "BLACKPINK科切拉人气",
@@ -707,20 +747,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196618,
+      "num": 199870,
+      "word": "长空之王",
+      "onboard_time": 1681715367,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196487,
       "num": 196487,
       "word": "你能接受的音乐节门票是多少",
       "onboard_time": 1681661006,
       "rank": 30,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 192271,
-      "num": 261279,
-      "word": "煤气灯效应",
-      "onboard_time": 1681712005,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 190355,
@@ -747,6 +787,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 180582,
+      "num": 199873,
+      "word": "黄之锋被控藐视法庭罪判囚三个月",
+      "onboard_time": 1681712785,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179535,
       "num": 246686,
       "word": "Hero全员国风再唱桃花笑",
@@ -771,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176210,
-      "num": 268405,
-      "word": "网红经济",
-      "onboard_time": 1681710686,
-      "rank": 28,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 176097,
       "num": 209633,
       "word": "刘德华对郑秀文说我爱你",
@@ -799,6 +839,14 @@
       "num": 172387,
       "word": "李健音乐节连唱13首",
       "onboard_time": 1681690946,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 170175,
+      "num": 199865,
+      "word": "檀健次新专辑试听",
+      "onboard_time": 1681714947,
       "rank": 28,
       "category": "音乐"
     },
@@ -939,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125882,
+      "num": 199857,
+      "word": "李荣浩西安演唱会",
+      "onboard_time": 1681713445,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121145,
       "num": 121145,
       "word": "谈恋爱到什么阶段可以结婚",
@@ -1019,6 +1075,22 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 107648,
+      "num": 199852,
+      "word": "阿云嘎晒金像奖草原一家人合照",
+      "onboard_time": 1681715727,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 106843,
+      "num": 199854,
+      "word": "上海男篮道歉",
+      "onboard_time": 1681715666,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104153,
       "num": 116364,
       "word": "字母哥背部挫伤",
@@ -1075,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96952,
+      "num": 199843,
+      "word": "长空之王路演开启",
+      "onboard_time": 1681714105,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 96527,
       "num": 116405,
       "word": "这些影像是日寇美化侵略行径的罪证",
@@ -1115,6 +1195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 90980,
+      "num": 199844,
+      "word": "2023LPL春季转会期",
+      "onboard_time": 1681715185,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90107,
       "num": 90107,
       "word": "李健音乐节",
@@ -1131,8 +1219,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88306,
+      "num": 199834,
+      "word": "吴冠希说努力化为泡影",
+      "onboard_time": 1681715306,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87175,
-      "num": 176102,
+      "num": 199826,
       "word": "绿色原来自带C位属性",
       "onboard_time": 1681712846,
       "rank": 41,
@@ -1161,14 +1257,6 @@
       "onboard_time": 1681664239,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 77782,
-      "num": 176055,
-      "word": "黄之锋被控藐视法庭罪判囚三个月",
-      "onboard_time": 1681712785,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77474,
