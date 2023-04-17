@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681763630334,
+  "endTime": 1681766112571,
   "band_list": [
     {
       "raw_hot": 1371909,
@@ -379,20 +379,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 75366,
+      "num": 31789,
+      "word": "强冷空气将带来俯冲式降温",
+      "onboard_time": 1681757293,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73502,
       "num": 73502,
       "word": "毛雪汪探班毛不易演唱会",
       "onboard_time": 1681748005,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69710,
-      "num": 31789,
-      "word": "强冷空气将带来俯冲式降温",
-      "onboard_time": 1681757293,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65617,
@@ -411,7 +411,7 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 48717,
+      "raw_hot": 49122,
       "num": 24363,
       "word": "这些癌症都有哪些信号",
       "onboard_time": 1681759933,
@@ -467,8 +467,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 12028,
-      "num": 13824,
+      "raw_hot": 18090,
+      "num": 18877,
       "word": "根本没人敢坐我们旁边",
       "onboard_time": 1681758852,
       "rank": 42,

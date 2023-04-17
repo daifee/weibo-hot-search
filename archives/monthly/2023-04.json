@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681763630334,
+  "endTime": 1681766112571,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -40195,6 +40195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 75366,
+      "num": 31789,
+      "word": "强冷空气将带来俯冲式降温",
+      "onboard_time": 1681757293,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75137,
       "num": 75137,
       "word": "职场title升级",
@@ -40329,14 +40337,6 @@
       "onboard_time": 1681736788,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 69710,
-      "num": 31789,
-      "word": "强冷空气将带来俯冲式降温",
-      "onboard_time": 1681757293,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69500,
@@ -40859,20 +40859,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 49122,
+      "num": 24363,
+      "word": "这些癌症都有哪些信号",
+      "onboard_time": 1681759933,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48751,
       "num": 48751,
       "word": "折一条裤子可以有多快",
       "onboard_time": 1681142305,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 48717,
-      "num": 24363,
-      "word": "这些癌症都有哪些信号",
-      "onboard_time": 1681759933,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48644,
@@ -41403,6 +41403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 18090,
+      "num": 18877,
+      "word": "根本没人敢坐我们旁边",
+      "onboard_time": 1681758852,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17764,
       "num": 164232,
       "word": "天猫预测五一户外新趋势",
@@ -41457,14 +41465,6 @@
       "onboard_time": 1680383591,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 12028,
-      "num": 13824,
-      "word": "根本没人敢坐我们旁边",
-      "onboard_time": 1681758852,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 5478,
