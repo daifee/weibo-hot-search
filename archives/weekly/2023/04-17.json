@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681773427563,
+  "endTime": 1681774409989,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1014795,
+      "num": 977180,
+      "word": "臀部发力的走路姿势我真的悟了",
+      "onboard_time": 1681743572,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1013441,
       "num": 1013441,
       "word": "陈都灵方否认恶意炒作",
@@ -281,14 +289,6 @@
       "onboard_time": 1681736245,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 977180,
-      "num": 977180,
-      "word": "臀部发力的走路姿势我真的悟了",
-      "onboard_time": 1681743572,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 951121,
@@ -393,6 +393,14 @@
       "onboard_time": 1681737929,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 693475,
+      "num": 693475,
+      "word": "要离职了被同事要求请吃饭",
+      "onboard_time": 1681744709,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 679159,
@@ -529,14 +537,6 @@
       "onboard_time": 1681696164,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 589483,
-      "num": 589483,
-      "word": "要离职了被同事要求请吃饭",
-      "onboard_time": 1681744709,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 588121,
@@ -1563,6 +1563,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 195373,
+      "num": 195373,
+      "word": "星舰",
+      "onboard_time": 1681773379,
+      "rank": 23,
+      "category": "科技"
+    },
+    {
       "raw_hot": 194148,
       "num": 194148,
       "word": "园方回应熊猫暖暖被饲养员用竹竿拍打",
@@ -1585,6 +1593,14 @@
       "onboard_time": 1681736426,
       "rank": 34,
       "category": "情感,影视"
+    },
+    {
+      "raw_hot": 193483,
+      "num": 158196,
+      "word": "黄河两岸的布老虎都是大萌萌",
+      "onboard_time": 1681773379,
+      "rank": 45,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 193394,
@@ -1899,8 +1915,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159078,
-      "num": 146052,
+      "raw_hot": 159130,
+      "num": 159130,
       "word": "这些癌症都有哪些信号",
       "onboard_time": 1681759933,
       "rank": 46,
@@ -2275,14 +2291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 112508,
-      "num": 112508,
-      "word": "星舰",
-      "onboard_time": 1681773379,
-      "rank": 23,
-      "category": "科技"
-    },
-    {
       "raw_hot": 112190,
       "num": 112190,
       "word": "萨卡失点",
@@ -2571,6 +2579,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 85796,
+      "num": 85796,
+      "word": "为何李春江李楠处罚力度有差别",
+      "onboard_time": 1681747104,
+      "rank": 44,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 85773,
       "num": 85773,
       "word": "女子吐槽淄博一宾馆一晚收费529元",
@@ -2595,14 +2611,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 83462,
-      "num": 83462,
-      "word": "为何李春江李楠处罚力度有差别",
-      "onboard_time": 1681747104,
-      "rank": 44,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 78948,
       "num": 78948,
       "word": "五一假期去哪个音乐节",
@@ -2619,12 +2627,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77349,
+      "num": 77349,
+      "word": "张靓颖新歌",
+      "onboard_time": 1681773802,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 76614,
+      "num": 76614,
+      "word": "王濛单手拖跑丁程鑫",
+      "onboard_time": 1681772358,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75840,
       "num": 131271,
       "word": "周杰伦战队夺冠",
       "onboard_time": 1681653927,
       "rank": 49,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 73505,
+      "num": 73505,
+      "word": "郑秀文获金像奖影后古天乐表情",
+      "onboard_time": 1681756273,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 73502,
@@ -2667,14 +2699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 70410,
-      "num": 70410,
-      "word": "王濛单手拖跑丁程鑫",
-      "onboard_time": 1681772358,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 69769,
       "num": 102889,
       "word": "我的奇妙厨房",
@@ -2699,6 +2723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 63813,
+      "num": 73499,
+      "word": "特斯拉回应载孕妇轿车方向盘突然抱死",
+      "onboard_time": 1681774221,
+      "rank": 44,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 62619,
       "num": 79054,
       "word": "金像奖",
@@ -2713,14 +2745,6 @@
       "onboard_time": 1681711764,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61115,
-      "num": 61115,
-      "word": "郑秀文获金像奖影后古天乐表情",
-      "onboard_time": 1681756273,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 56963,
@@ -2753,14 +2777,6 @@
       "onboard_time": 1681679652,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 47161,
-      "num": 57408,
-      "word": "黄河两岸的布老虎都是大萌萌",
-      "onboard_time": 1681773379,
-      "rank": 45,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 42917,
