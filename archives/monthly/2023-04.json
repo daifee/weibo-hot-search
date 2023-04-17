@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681762696624,
+  "endTime": 1681763630334,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -40331,20 +40331,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 69710,
+      "num": 31789,
+      "word": "强冷空气将带来俯冲式降温",
+      "onboard_time": 1681757293,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69500,
       "num": 69500,
       "word": "有多少真心话被当成玩笑",
       "onboard_time": 1680337950,
       "rank": 48,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 69449,
-      "num": 31789,
-      "word": "强冷空气将带来俯冲式降温",
-      "onboard_time": 1681757293,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69354,
@@ -40867,6 +40867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48717,
+      "num": 24363,
+      "word": "这些癌症都有哪些信号",
+      "onboard_time": 1681759933,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48644,
       "num": 48644,
       "word": "小区不认识的狗送我上学",
@@ -40953,14 +40961,6 @@
       "onboard_time": 1681155073,
       "rank": 49,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 43823,
-      "num": 23849,
-      "word": "这些癌症都有哪些信号",
-      "onboard_time": 1681759933,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43600,
@@ -41457,6 +41457,14 @@
       "onboard_time": 1680383591,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 12028,
+      "num": 13824,
+      "word": "根本没人敢坐我们旁边",
+      "onboard_time": 1681758852,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 5478,

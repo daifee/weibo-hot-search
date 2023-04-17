@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681762696624,
+  "endTime": 1681763630334,
   "band_list": [
     {
       "raw_hot": 1371909,
@@ -387,7 +387,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69449,
+      "raw_hot": 69710,
       "num": 31789,
       "word": "强冷空气将带来俯冲式降温",
       "onboard_time": 1681757293,
@@ -411,8 +411,8 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 43823,
-      "num": 23849,
+      "raw_hot": 48717,
+      "num": 24363,
       "word": "这些癌症都有哪些信号",
       "onboard_time": 1681759933,
       "rank": 46,
@@ -465,6 +465,14 @@
       "onboard_time": 1681756273,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 12028,
+      "num": 13824,
+      "word": "根本没人敢坐我们旁边",
+      "onboard_time": 1681758852,
+      "rank": 42,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
