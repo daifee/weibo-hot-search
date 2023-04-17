@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681705279578,
+  "endTime": 1681706107844,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -315,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 3086164,
+      "num": 3086164,
+      "word": "姚明称十分痛心",
+      "onboard_time": 1681701565,
+      "rank": 4,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 3086020,
       "num": 3086020,
       "word": "李子柒油管广告收益",
@@ -337,14 +345,6 @@
       "onboard_time": 1680650358,
       "rank": 6,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 3025569,
-      "num": 3025569,
-      "word": "姚明称十分痛心",
-      "onboard_time": 1681701565,
-      "rank": 4,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 2990102,
@@ -595,6 +595,14 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 2588805,
+      "num": 2588805,
+      "word": "周一",
+      "onboard_time": 1681691726,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2584318,
       "num": 2539594,
       "word": "中电科确认不存在临时工情况",
@@ -721,14 +729,6 @@
       "onboard_time": 1680946587,
       "rank": 0,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 2455245,
-      "num": 2455245,
-      "word": "周一",
-      "onboard_time": 1681691726,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 2444285,
@@ -881,6 +881,14 @@
       "onboard_time": 1681099169,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2284572,
+      "num": 2284572,
+      "word": "王宝强女友冯清已还清188万执行款",
+      "onboard_time": 1681704026,
+      "rank": 10,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2284246,
@@ -2123,14 +2131,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1525541,
-      "num": 512793,
-      "word": "王宝强女友冯清已还清188万执行款",
-      "onboard_time": 1681704026,
-      "rank": 10,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 1524172,
       "num": 1524172,
       "word": "马克龙想续租大熊猫",
@@ -2489,6 +2489,14 @@
       "onboard_time": 1681029148,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1366096,
+      "num": 1366096,
+      "word": "女生因为吃面崩溃",
+      "onboard_time": 1681704449,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1350707,
@@ -3441,6 +3449,14 @@
       "onboard_time": 1680954326,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1078287,
+      "num": 1078287,
+      "word": "李春江 马布里",
+      "onboard_time": 1681704210,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1078251,
@@ -5883,14 +5899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 726835,
-      "num": 482306,
-      "word": "李春江 马布里",
-      "onboard_time": 1681704210,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 726485,
       "num": 726485,
       "word": "全红婵跳水世界杯银牌",
@@ -5945,6 +5953,14 @@
       "onboard_time": 1681133129,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 723098,
+      "num": 723098,
+      "word": "上班能挣几个钱",
+      "onboard_time": 1681702226,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 722515,
@@ -6312,14 +6328,6 @@
       "word": "长月烬明可以自己调滤镜",
       "onboard_time": 1680516271,
       "rank": 14,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 692125,
-      "num": 692125,
-      "word": "上班能挣几个钱",
-      "onboard_time": 1681702226,
-      "rank": 28,
       "category": "影视"
     },
     {
@@ -8059,6 +8067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 584461,
+      "num": 231949,
+      "word": "叶冰裳开始抢澹台烬了",
+      "onboard_time": 1681704026,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584041,
       "num": 584041,
       "word": "朴彩英科切拉",
@@ -8745,14 +8761,6 @@
       "onboard_time": 1680575427,
       "rank": 35,
       "category": "作品衍生,社会新闻"
-    },
-    {
-      "raw_hot": 547705,
-      "num": 209762,
-      "word": "女生因为吃面崩溃",
-      "onboard_time": 1681704449,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 547537,
@@ -11592,14 +11600,6 @@
       "word": "罗云熙陈都灵错位图",
       "onboard_time": 1681205969,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 427689,
-      "num": 231949,
-      "word": "叶冰裳开始抢澹台烬了",
-      "onboard_time": 1681704026,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -16492,7 +16492,7 @@
     },
     {
       "raw_hot": 297508,
-      "num": 230598,
+      "num": 231323,
       "word": "白鹿官宣常州市文旅大使",
       "onboard_time": 1681701565,
       "rank": 23,
@@ -21795,6 +21795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217320,
+      "num": 217320,
+      "word": "马斯克星舰迎首飞",
+      "onboard_time": 1681701865,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 217308,
       "num": 217308,
       "word": "长月烬明加更了吗",
@@ -22529,14 +22537,6 @@
       "onboard_time": 1681613426,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209854,
-      "num": 209854,
-      "word": "马斯克星舰迎首飞",
-      "onboard_time": 1681701865,
-      "rank": 31,
-      "category": "科技"
     },
     {
       "raw_hot": 209780,
@@ -29259,6 +29259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179535,
+      "num": 202814,
+      "word": "Hero全员国风再唱桃花笑",
+      "onboard_time": 1681705772,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179530,
       "num": 179530,
       "word": "陈乔恩晒她的三只狗狗",
@@ -30427,6 +30435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169228,
+      "num": 209689,
+      "word": "中国说唱巅峰对决2023官宣",
+      "onboard_time": 1681704268,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169136,
       "num": 200796,
       "word": "丁程鑫北电汇演",
@@ -31553,6 +31569,14 @@
       "onboard_time": 1681383690,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160499,
+      "num": 202785,
+      "word": "野居一家官宣",
+      "onboard_time": 1681706070,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 160402,
@@ -33299,6 +33323,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 146565,
+      "num": 202764,
+      "word": "窦靖童长发封面",
+      "onboard_time": 1681705591,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 146536,
       "num": 146536,
       "word": "张真源走路视频",
@@ -33627,14 +33659,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 143448,
-      "num": 209689,
-      "word": "中国说唱巅峰对决2023官宣",
-      "onboard_time": 1681704268,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143385,
       "num": 5295131,
       "word": "春天的花花美到挪不开眼",
@@ -33793,6 +33817,14 @@
       "onboard_time": 1681445971,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142155,
+      "num": 209653,
+      "word": "王一博说战斗机升空很激动",
+      "onboard_time": 1681703065,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 142149,
@@ -34971,14 +35003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130936,
-      "num": 209653,
-      "word": "王一博说战斗机升空很激动",
-      "onboard_time": 1681703065,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 130875,
       "num": 130875,
       "word": "NCTDREAM舞蹈挑战",
@@ -36139,6 +36163,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 119597,
+      "num": 209556,
+      "word": "威少关键篮板",
+      "onboard_time": 1681702949,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119461,
       "num": 119461,
       "word": "奔跑吧全员脸颊比心接力",
@@ -36489,14 +36521,6 @@
       "onboard_time": 1680828751,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115115,
-      "num": 209556,
-      "word": "威少关键篮板",
-      "onboard_time": 1681702949,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 114872,
@@ -38667,6 +38691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71174,
+      "num": 2331381,
+      "word": "神十五乘组刷新我国单个乘组出舱纪录",
+      "onboard_time": 1681703968,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 70599,
       "num": 70599,
       "word": "糕点太好吃男子连续4次盗窃被抓",
@@ -39177,14 +39209,6 @@
       "onboard_time": 1680343229,
       "rank": 39,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 49123,
-      "num": 2122980,
-      "word": "神十五乘组刷新我国单个乘组出舱纪录",
-      "onboard_time": 1681703968,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 48751,

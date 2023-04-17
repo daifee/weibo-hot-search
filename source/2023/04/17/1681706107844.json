@@ -1,0 +1,410 @@
+{
+  "runTime": 1681706107844,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3086164,
+        "num": 3086164,
+        "word": "姚明称十分痛心",
+        "onboard_time": 1681701565,
+        "rank": 0,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 2588805,
+        "num": 2588805,
+        "word": "周一",
+        "onboard_time": 1681691726,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71174,
+        "num": 2331381,
+        "word": "神十五乘组刷新我国单个乘组出舱纪录",
+        "onboard_time": 1681703968,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2284572,
+        "num": 2284572,
+        "word": "王宝强女友冯清已还清188万执行款",
+        "onboard_time": 1681704026,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1918863,
+        "num": 1918863,
+        "word": "Lisa在台下看王嘉尔表演",
+        "onboard_time": 1681703426,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1703320,
+        "num": 1703320,
+        "word": "调休",
+        "onboard_time": 1681695743,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1401192,
+        "num": 1401192,
+        "word": "李春江禁赛5年",
+        "onboard_time": 1681698205,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1366096,
+        "num": 1366096,
+        "word": "女生因为吃面崩溃",
+        "onboard_time": 1681704449,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1078287,
+        "num": 1078287,
+        "word": "李春江 马布里",
+        "onboard_time": 1681704210,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 723098,
+        "num": 723098,
+        "word": "上班能挣几个钱",
+        "onboard_time": 1681702226,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 688656,
+        "num": 688656,
+        "word": "假球 消极比赛",
+        "onboard_time": 1681701148,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 612381,
+        "num": 612381,
+        "word": "李楠禁赛3年",
+        "onboard_time": 1681698447,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440740,
+        "num": 440740,
+        "word": "上海队苏州队季后赛消极比赛属实",
+        "onboard_time": 1681700726,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 417371,
+        "num": 417371,
+        "word": "提醒中国公民暂勿前往苏丹",
+        "onboard_time": 1681699105,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417226,
+        "num": 417226,
+        "word": "萌探3礼貌式阵容官宣",
+        "onboard_time": 1681702106,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409916,
+        "num": 409916,
+        "word": "江疏影白得发光",
+        "onboard_time": 1681701446,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 343595,
+        "num": 343595,
+        "word": "周杰伦起诉网易不正当竞争案开庭",
+        "onboard_time": 1681700247,
+        "rank": 16,
+        "category": "艺人,科技"
+      },
+      {
+        "raw_hot": 309213,
+        "num": 309213,
+        "word": "深圳男篮直接晋级半决赛",
+        "onboard_time": 1681702166,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251022,
+        "num": 251022,
+        "word": "沈月易梦玲路透",
+        "onboard_time": 1681696164,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231410,
+        "num": 231410,
+        "word": "叶一茜写给森碟的一封信",
+        "onboard_time": 1681656150,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584461,
+        "num": 231362,
+        "word": "叶冰裳开始抢澹台烬了",
+        "onboard_time": 1681704026,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285959,
+        "num": 231323,
+        "word": "白鹿官宣常州市文旅大使",
+        "onboard_time": 1681701565,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 265616,
+        "num": 231271,
+        "word": "威少太懂杜兰特了",
+        "onboard_time": 1681698925,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231215,
+        "num": 231215,
+        "word": "老娘已经80多天没有放假了",
+        "onboard_time": 1681654289,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217320,
+        "num": 217320,
+        "word": "马斯克星舰迎首飞",
+        "onboard_time": 1681701865,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 202852,
+        "num": 202852,
+        "word": "篮协对上海队江苏队作出处罚",
+        "onboard_time": 1681697904,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199625,
+        "num": 202844,
+        "word": "坠亡女演员和搭档是夫妻",
+        "onboard_time": 1681659327,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190049,
+        "num": 202841,
+        "word": "罗云熙微博小号",
+        "onboard_time": 1681658188,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189860,
+        "num": 202833,
+        "word": "王子文在拎一种很新的包",
+        "onboard_time": 1681701745,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186067,
+        "num": 202823,
+        "word": "朱一龙袁弘将回汉参加文旅博览会",
+        "onboard_time": 1681704869,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179535,
+        "num": 202814,
+        "word": "Hero全员国风再唱桃花笑",
+        "onboard_time": 1681705772,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169228,
+        "num": 202803,
+        "word": "中国说唱巅峰对决2023官宣",
+        "onboard_time": 1681704268,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165314,
+        "num": 202801,
+        "word": "赞多肚子",
+        "onboard_time": 1681686921,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164600,
+        "num": 202795,
+        "word": "医生提醒不要频繁清嗓子",
+        "onboard_time": 1681677612,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160499,
+        "num": 202785,
+        "word": "野居一家官宣",
+        "onboard_time": 1681706070,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157601,
+        "num": 202771,
+        "word": "快船战胜太阳",
+        "onboard_time": 1681701986,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146565,
+        "num": 202764,
+        "word": "窦靖童长发封面",
+        "onboard_time": 1681705591,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142155,
+        "num": 202757,
+        "word": "王一博说战斗机升空很激动",
+        "onboard_time": 1681703065,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131531,
+        "num": 202755,
+        "word": "克拉盘",
+        "onboard_time": 1681691486,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130374,
+        "num": 202747,
+        "word": "CBA",
+        "onboard_time": 1681695326,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124680,
+        "num": 202736,
+        "word": "南京交警隧道查酒驾被滴滴司机撞飞",
+        "onboard_time": 1681660348,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123923,
+        "num": 202730,
+        "word": "游客称在淄博一烧烤店遇强制消费",
+        "onboard_time": 1681676711,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 121647,
+        "num": 202716,
+        "word": "刘德华对郑秀文说我爱你",
+        "onboard_time": 1681698266,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119597,
+        "num": 202711,
+        "word": "威少关键篮板",
+        "onboard_time": 1681702949,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119593,
+        "num": 202699,
+        "word": "原神",
+        "onboard_time": 1681689747,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118822,
+        "num": 202693,
+        "word": "女演员坠亡涉事人员和单位接受调查",
+        "onboard_time": 1681693047,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108778,
+        "num": 202682,
+        "word": "油价",
+        "onboard_time": 1681694065,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 106475,
+        "num": 202677,
+        "word": "父母双亡女孩考研成功学校免其学费",
+        "onboard_time": 1681663819,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 105677,
+        "num": 202670,
+        "word": "鹿晗择天记播出6周年",
+        "onboard_time": 1681699105,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63706,
+        "num": 202659,
+        "word": "鬼灭之刃",
+        "onboard_time": 1681660168,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#打卡史上规模最大广交会#"
+    }
+  }
+}
