@@ -1,0 +1,410 @@
+{
+  "runTime": 1681730100259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1468225,
+        "num": 1468225,
+        "word": "能不能接受五一放一天不调休",
+        "onboard_time": 1681716747,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550394,
+        "num": 1373671,
+        "word": "一高中连续17年包绿皮火车游学",
+        "onboard_time": 1681725027,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 24637,
+        "num": 1366388,
+        "word": "60秒速览广交会万商云集",
+        "onboard_time": 1681720408,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364904,
+        "num": 1364904,
+        "word": "生孩子一定要去公立医院",
+        "onboard_time": 1681726527,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233908,
+        "num": 758267,
+        "word": "深夜起火92岁奶奶喊醒一条街",
+        "onboard_time": 1681719385,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519983,
+        "num": 519983,
+        "word": "李秀满卖掉SMTOWN旧楼",
+        "onboard_time": 1681728327,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173145,
+        "num": 490424,
+        "word": "00后大学生痴迷戏曲每天自学2小时",
+        "onboard_time": 1681728866,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 488793,
+        "num": 488793,
+        "word": "16岁女孩在父母二胎后确诊抑郁症",
+        "onboard_time": 1681722326,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1635038,
+        "num": 473845,
+        "word": "甘肃临夏4人强奸案一审宣判",
+        "onboard_time": 1681722026,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458151,
+        "num": 458151,
+        "word": "单休人 连上12天班",
+        "onboard_time": 1681725149,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 917844,
+        "num": 454250,
+        "word": "孙俪 这个爸爸真的可以",
+        "onboard_time": 1681728570,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450213,
+        "num": 450213,
+        "word": "香港顶流",
+        "onboard_time": 1681713566,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426892,
+        "num": 426892,
+        "word": "什么工作可以上半年休半年",
+        "onboard_time": 1681725027,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 388125,
+        "num": 388125,
+        "word": "长月烬明第23集预告",
+        "onboard_time": 1681727549,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378961,
+        "num": 378961,
+        "word": "小S长发",
+        "onboard_time": 1681726407,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 375310,
+        "num": 375310,
+        "word": "白鹿的字",
+        "onboard_time": 1681716148,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 358073,
+        "num": 358073,
+        "word": "肖战GUCCI外网官网刷屏",
+        "onboard_time": 1681723527,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 354189,
+        "num": 354189,
+        "word": "宁艺卓单封",
+        "onboard_time": 1681727189,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346477,
+        "num": 346477,
+        "word": "当事女生回应因吃面崩溃",
+        "onboard_time": 1681725149,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85136,
+        "num": 331612,
+        "word": "什么是智能汽车天花板",
+        "onboard_time": 1681727906,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 330818,
+        "num": 330818,
+        "word": "最成功的大男主IP",
+        "onboard_time": 1681728268,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 326508,
+        "num": 326508,
+        "word": "被自己的大屁股救了一命",
+        "onboard_time": 1681728148,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295254,
+        "num": 295254,
+        "word": "易烊千玺直播跟粉丝大合影",
+        "onboard_time": 1681726225,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276741,
+        "num": 276741,
+        "word": "马斯克星舰",
+        "onboard_time": 1681727368,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 269302,
+        "num": 269302,
+        "word": "女生吃面 情感操控",
+        "onboard_time": 1681721967,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251271,
+        "num": 251271,
+        "word": "睡不好对颜值影响有多大",
+        "onboard_time": 1681723468,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247178,
+        "num": 247178,
+        "word": "毛雪汪终于开火了",
+        "onboard_time": 1681728570,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237864,
+        "num": 237864,
+        "word": "上一星期班发现上错公司了",
+        "onboard_time": 1681716327,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225404,
+        "num": 225404,
+        "word": "灭魂钉需要真心换真心",
+        "onboard_time": 1681726825,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152722,
+        "num": 212100,
+        "word": "又一个中国技术登顶全球",
+        "onboard_time": 1681729409,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 290687,
+        "num": 210912,
+        "word": "茄子 eggplant",
+        "onboard_time": 1681727967,
+        "rank": 30,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 68010,
+        "num": 207719,
+        "word": "问界M9外观曝光",
+        "onboard_time": 1681726887,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 207041,
+        "num": 207041,
+        "word": "周也林华珺的一滴泪",
+        "onboard_time": 1681729409,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204129,
+        "num": 204129,
+        "word": "TF家族 三亚",
+        "onboard_time": 1681729649,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201551,
+        "num": 201551,
+        "word": "五月天西安",
+        "onboard_time": 1681724425,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187761,
+        "num": 187761,
+        "word": "你好星期六全员求赞",
+        "onboard_time": 1681728506,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169963,
+        "num": 169963,
+        "word": "艺考之神",
+        "onboard_time": 1681716566,
+        "rank": 36,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 183642,
+        "num": 164497,
+        "word": "檀健次晒与丁程鑫合照",
+        "onboard_time": 1681729947,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156806,
+        "num": 156806,
+        "word": "李春江名下篮球俱乐部已注销",
+        "onboard_time": 1681721007,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 151009,
+        "num": 151009,
+        "word": "福原爱和男友从豪宅搬出",
+        "onboard_time": 1681712485,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141821,
+        "num": 141821,
+        "word": "NCT道在廷空降",
+        "onboard_time": 1681728506,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136425,
+        "num": 136425,
+        "word": "鞠婧祎晒宫脇咲良To签专辑",
+        "onboard_time": 1681721424,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136274,
+        "num": 136274,
+        "word": "JYP发文感叹市价突破3万亿韩元",
+        "onboard_time": 1681723886,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132826,
+        "num": 132826,
+        "word": "林俊杰说准备好了巴黎的朋友们",
+        "onboard_time": 1681727666,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129894,
+        "num": 129894,
+        "word": "怨气可以养活邪剑仙了",
+        "onboard_time": 1681714525,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 127820,
+        "num": 127820,
+        "word": "华为笔记本首发超材料天线技术",
+        "onboard_time": 1681725927,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 126823,
+        "num": 126823,
+        "word": "罗云熙被扒得只剩裤衩了",
+        "onboard_time": 1681708529,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193213,
+        "num": 125870,
+        "word": "王鹤棣陈都灵CP超话",
+        "onboard_time": 1681721967,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110942,
+        "num": 125082,
+        "word": "LPL选手大会",
+        "onboard_time": 1681716626,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44330,
+        "num": 124228,
+        "word": "2023LPL春季转会期",
+        "onboard_time": 1681715185,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#农业农村现代化的中国特色#"
+    }
+  }
+}

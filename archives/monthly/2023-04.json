@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681727672512,
+  "endTime": 1681730100259,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2539,6 +2539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1364904,
+      "num": 1364904,
+      "word": "生孩子一定要去公立医院",
+      "onboard_time": 1681726527,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1355396,
       "num": 1355396,
       "word": "女生吃面 情感操控",
@@ -4256,6 +4264,14 @@
       "word": "马嘉祺丁程鑫暂停一期外务录制",
       "onboard_time": 1680741092,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 917844,
+      "num": 454250,
+      "word": "孙俪 这个爸爸真的可以",
+      "onboard_time": 1681728570,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -8899,6 +8915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 550394,
+      "num": 2283580,
+      "word": "一高中连续17年包绿皮火车游学",
+      "onboard_time": 1681725027,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 549713,
       "num": 549713,
       "word": "匪我思存追剧长月烬明",
@@ -9585,6 +9609,14 @@
       "onboard_time": 1680662911,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519983,
+      "num": 519983,
+      "word": "李秀满卖掉SMTOWN旧楼",
+      "onboard_time": 1681728327,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 519629,
@@ -11091,14 +11123,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 454914,
-      "num": 2283580,
-      "word": "一高中连续17年包绿皮火车游学",
-      "onboard_time": 1681725027,
-      "rank": 1,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 454701,
       "num": 454701,
       "word": "中电科称网上的任免文件明显伪造",
@@ -11769,14 +11793,6 @@
       "onboard_time": 1680274590,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429605,
-      "num": 429605,
-      "word": "生孩子一定要去公立医院",
-      "onboard_time": 1681726527,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 429479,
@@ -13363,6 +13379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 388125,
+      "num": 388125,
+      "word": "长月烬明第23集预告",
+      "onboard_time": 1681727549,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387306,
       "num": 387306,
       "word": "众星悼念坂本龙一",
@@ -13617,6 +13641,14 @@
       "onboard_time": 1680925167,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378961,
+      "num": 378961,
+      "word": "小S长发",
+      "onboard_time": 1681726407,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 378584,
@@ -14393,6 +14425,14 @@
       "onboard_time": 1680526956,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354189,
+      "num": 354189,
+      "word": "宁艺卓单封",
+      "onboard_time": 1681727189,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 354177,
@@ -15379,6 +15419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 330818,
+      "num": 330818,
+      "word": "最成功的大男主IP",
+      "onboard_time": 1681728268,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 330763,
       "num": 330763,
       "word": "孙国友首次回应种树破坏生态质疑",
@@ -15569,6 +15617,14 @@
       "onboard_time": 1680491790,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 326508,
+      "num": 326508,
+      "word": "被自己的大屁股救了一命",
+      "onboard_time": 1681728148,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 326367,
@@ -16819,14 +16875,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 297845,
-      "num": 297845,
-      "word": "宁艺卓单封",
-      "onboard_time": 1681727189,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 297508,
       "num": 256717,
       "word": "白鹿官宣常州市文旅大使",
@@ -17225,6 +17273,14 @@
       "onboard_time": 1680858209,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 290687,
+      "num": 210912,
+      "word": "茄子 eggplant",
+      "onboard_time": 1681727967,
+      "rank": 30,
+      "category": "美食,情感"
     },
     {
       "raw_hot": 290428,
@@ -17971,6 +18027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276741,
+      "num": 276741,
+      "word": "马斯克星舰",
+      "onboard_time": 1681727368,
+      "rank": 42,
+      "category": "科技"
+    },
+    {
       "raw_hot": 276172,
       "num": 276172,
       "word": "GOT7聚会合照",
@@ -18697,14 +18761,6 @@
       "onboard_time": 1680496777,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261848,
-      "num": 261848,
-      "word": "小S长发",
-      "onboard_time": 1681726407,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 261783,
@@ -19673,6 +19729,14 @@
       "onboard_time": 1681361912,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247178,
+      "num": 247178,
+      "word": "毛雪汪终于开火了",
+      "onboard_time": 1681728570,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 246824,
@@ -21457,6 +21521,14 @@
       "onboard_time": 1680706472,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225404,
+      "num": 225404,
+      "word": "灭魂钉需要真心换真心",
+      "onboard_time": 1681726825,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 225391,
@@ -23555,6 +23627,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 207041,
+      "num": 207041,
+      "word": "周也林华珺的一滴泪",
+      "onboard_time": 1681729409,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207001,
       "num": 207001,
       "word": "WayV见面会官宣中国香港场",
@@ -24267,6 +24347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 204129,
+      "num": 204129,
+      "word": "TF家族 三亚",
+      "onboard_time": 1681729649,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204080,
       "num": 213267,
       "word": "再进化就得上班了",
@@ -24345,14 +24433,6 @@
       "onboard_time": 1681628845,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 203700,
-      "num": 203700,
-      "word": "灭魂钉需要真心换真心",
-      "onboard_time": 1681726825,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 203681,
@@ -28467,6 +28547,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 187761,
+      "num": 187761,
+      "word": "你好星期六全员求赞",
+      "onboard_time": 1681728506,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187752,
       "num": 187752,
       "word": "黄明昊是懂大张伟的",
@@ -29240,6 +29328,14 @@
       "word": "柳智敏的比例",
       "onboard_time": 1681291169,
       "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183642,
+      "num": 164497,
+      "word": "檀健次晒与丁程鑫合照",
+      "onboard_time": 1681729947,
+      "rank": 37,
       "category": "作品衍生"
     },
     {
@@ -30163,14 +30259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176503,
-      "num": 156888,
-      "word": "长月烬明第23集预告",
-      "onboard_time": 1681727549,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176379,
       "num": 176379,
       "word": "周柏豪演唱会",
@@ -30497,6 +30585,14 @@
       "onboard_time": 1681565727,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173145,
+      "num": 490424,
+      "word": "00后大学生痴迷戏曲每天自学2小时",
+      "onboard_time": 1681728866,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 173069,
@@ -33203,6 +33299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152722,
+      "num": 212100,
+      "word": "又一个中国技术登顶全球",
+      "onboard_time": 1681729409,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 152698,
       "num": 152698,
       "word": "上班摸鱼会影响工作吗",
@@ -34427,14 +34531,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 143128,
-      "num": 143128,
-      "word": "马斯克星舰",
-      "onboard_time": 1681727368,
-      "rank": 42,
-      "category": "科技"
-    },
-    {
       "raw_hot": 143117,
       "num": 143117,
       "word": "IVE回归先行曲达成CAK",
@@ -34609,6 +34705,14 @@
       "onboard_time": 1681110207,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141821,
+      "num": 141821,
+      "word": "NCT道在廷空降",
+      "onboard_time": 1681728506,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 141738,
@@ -35577,6 +35681,14 @@
       "onboard_time": 1680839249,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132826,
+      "num": 132826,
+      "word": "林俊杰说准备好了巴黎的朋友们",
+      "onboard_time": 1681727666,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 132823,
@@ -39217,6 +39329,14 @@
       "onboard_time": 1680296771,
       "rank": 32,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 85136,
+      "num": 331612,
+      "word": "什么是智能汽车天花板",
+      "onboard_time": 1681727906,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 84915,
