@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681758759576,
+  "endTime": 1681760161313,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -2707,6 +2707,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 50090,
+      "num": 31789,
+      "word": "强冷空气将带来俯冲式降温",
+      "onboard_time": 1681757293,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47926,
       "num": 57533,
       "word": "路过男子跳入水中奋力救起落水男孩",
@@ -2771,20 +2779,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28399,
-      "num": 28399,
-      "word": "强冷空气将带来俯冲式降温",
-      "onboard_time": 1681757293,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19817,
       "num": 21209,
       "word": "郑秀文获金像奖影后古天乐表情",
       "onboard_time": 1681756273,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13032,
+      "num": 15872,
+      "word": "这些癌症都有哪些信号",
+      "onboard_time": 1681759933,
+      "rank": 46,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
