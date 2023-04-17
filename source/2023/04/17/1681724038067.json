@@ -1,0 +1,410 @@
+{
+  "runTime": 1681724038067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3481767,
+        "num": 3481767,
+        "word": "能不能接受五一放一天不调休",
+        "onboard_time": 1681716747,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355396,
+        "num": 1355396,
+        "word": "女生吃面 情感操控",
+        "onboard_time": 1681721967,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36610,
+        "num": 784736,
+        "word": "60秒速览广交会万商云集",
+        "onboard_time": 1681720408,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1393056,
+        "num": 739217,
+        "word": "甘肃临夏4人强奸案一审宣判",
+        "onboard_time": 1681722026,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507142,
+        "num": 507142,
+        "word": "胡锡进呼吁增加一天五一假期",
+        "onboard_time": 1681718606,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489988,
+        "num": 489988,
+        "word": "易烊千玺 华为发布会",
+        "onboard_time": 1681717286,
+        "rank": 5,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 456619,
+        "num": 456619,
+        "word": "上一星期班发现上错公司了",
+        "onboard_time": 1681716327,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 434080,
+        "num": 434080,
+        "word": "艺考之神",
+        "onboard_time": 1681716566,
+        "rank": 7,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 364353,
+        "num": 364353,
+        "word": "肖战GUCCI外网官网刷屏",
+        "onboard_time": 1681723527,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 332956,
+        "num": 332956,
+        "word": "女生因为吃面崩溃",
+        "onboard_time": 1681704449,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1097187,
+        "num": 332732,
+        "word": "香港顶流",
+        "onboard_time": 1681713566,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688108,
+        "num": 332162,
+        "word": "白鹿的字",
+        "onboard_time": 1681716148,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454147,
+        "num": 331519,
+        "word": "王鹤棣陈都灵CP超话",
+        "onboard_time": 1681721967,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452969,
+        "num": 330625,
+        "word": "16岁女孩在父母二胎后确诊抑郁症",
+        "onboard_time": 1681722326,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364422,
+        "num": 330419,
+        "word": "鞠婧祎晒宫脇咲良To签专辑",
+        "onboard_time": 1681721424,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329972,
+        "num": 329972,
+        "word": "深夜起火92岁奶奶喊醒一条街",
+        "onboard_time": 1681719385,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293613,
+        "num": 293613,
+        "word": "福原爱和男友从豪宅搬出",
+        "onboard_time": 1681712485,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271143,
+        "num": 271143,
+        "word": "官方介入调查女子被泼水撕雨衣",
+        "onboard_time": 1681718667,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269811,
+        "num": 269811,
+        "word": "郭帆说流浪地球3明天拍后天上",
+        "onboard_time": 1681719806,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245979,
+        "num": 245979,
+        "word": "罗云熙被扒得只剩裤衩了",
+        "onboard_time": 1681708529,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 238798,
+        "num": 238798,
+        "word": "上海男篮道歉",
+        "onboard_time": 1681715666,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230011,
+        "num": 230011,
+        "word": "王宝强女友冯清已还清188万执行款",
+        "onboard_time": 1681704026,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 228123,
+        "num": 228123,
+        "word": "江苏一小区物业经理上门扇业主耳光",
+        "onboard_time": 1681720047,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227300,
+        "num": 227300,
+        "word": "李春江名下篮球俱乐部已注销",
+        "onboard_time": 1681721007,
+        "rank": 23,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 208305,
+        "num": 208305,
+        "word": "睡不好对颜值影响有多大",
+        "onboard_time": 1681723468,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200402,
+        "num": 200402,
+        "word": "怨气可以养活邪剑仙了",
+        "onboard_time": 1681714525,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 192145,
+        "num": 192145,
+        "word": "Lisa在台下看王嘉尔表演",
+        "onboard_time": 1681703426,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188794,
+        "num": 188794,
+        "word": "余嘉诚艺考三校第一",
+        "onboard_time": 1681716266,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184242,
+        "num": 184242,
+        "word": "四月份即将开播的剧",
+        "onboard_time": 1681721607,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183865,
+        "num": 183865,
+        "word": "姜涛瘦过",
+        "onboard_time": 1681717350,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175687,
+        "num": 175687,
+        "word": "CBA回应篮协处罚决定",
+        "onboard_time": 1681720408,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171687,
+        "num": 171687,
+        "word": "LPL选手大会",
+        "onboard_time": 1681716626,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171400,
+        "num": 171400,
+        "word": "武汉马拉松最后一名获社死安慰奖",
+        "onboard_time": 1681716266,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161751,
+        "num": 161751,
+        "word": "成都迎来历史最热四月",
+        "onboard_time": 1681719085,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159496,
+        "num": 159496,
+        "word": "左手科技与迷信共存",
+        "onboard_time": 1681720885,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156361,
+        "num": 156361,
+        "word": "觉得饭不好吃告诉老板丢人吗",
+        "onboard_time": 1681722326,
+        "rank": 35,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 154184,
+        "num": 154184,
+        "word": "另一半去找店家理论你会觉得没面子吗",
+        "onboard_time": 1681723708,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152605,
+        "num": 152605,
+        "word": "2023年调休一览表",
+        "onboard_time": 1681721307,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148706,
+        "num": 148706,
+        "word": "法考",
+        "onboard_time": 1681718248,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143423,
+        "num": 143423,
+        "word": "小猫是不可能表演的",
+        "onboard_time": 1681722865,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 142281,
+        "num": 142281,
+        "word": "蔡徐坤 CRYSTAL CLEAR",
+        "onboard_time": 1681721066,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138270,
+        "num": 138270,
+        "word": "周深武大靖ASMR挑战",
+        "onboard_time": 1681723527,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135545,
+        "num": 135545,
+        "word": "张杰上台前10分钟还在健身",
+        "onboard_time": 1681712067,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134679,
+        "num": 134679,
+        "word": "JYP发文感叹市价突破3万亿韩元",
+        "onboard_time": 1681723886,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134079,
+        "num": 134079,
+        "word": "华为发布会",
+        "onboard_time": 1681719149,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125369,
+        "num": 125369,
+        "word": "白玉兰 入围名单",
+        "onboard_time": 1681709549,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113375,
+        "num": 113375,
+        "word": "江苏男篮",
+        "onboard_time": 1681721424,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113064,
+        "num": 113064,
+        "word": "2023优酷短剧片单",
+        "onboard_time": 1681721847,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50562,
+        "num": 112726,
+        "word": "2023LPL春季转会期",
+        "onboard_time": 1681715185,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37343,
+        "num": 111743,
+        "word": "决战平安京",
+        "onboard_time": 1681717467,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#以学铸魂坚定理想信念#"
+    }
+  }
+}

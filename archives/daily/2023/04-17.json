@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681723069365,
+  "endTime": 1681724038067,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -8,6 +8,14 @@
       "word": "调休",
       "onboard_time": 1681695743,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3481767,
+      "num": 3481767,
+      "word": "能不能接受五一放一天不调休",
+      "onboard_time": 1681716747,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1681691726,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2554328,
-      "num": 2554328,
-      "word": "能不能接受五一放一天不调休",
-      "onboard_time": 1681716747,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2416808,
@@ -123,12 +123,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1393056,
+      "num": 1196685,
+      "word": "甘肃临夏4人强奸案一审宣判",
+      "onboard_time": 1681722026,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1381692,
       "num": 676705,
       "word": "福原爱和男友从豪宅搬出",
       "onboard_time": 1681712485,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1355396,
+      "num": 1355396,
+      "word": "女生吃面 情感操控",
+      "onboard_time": 1681721967,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1202341,
@@ -139,28 +155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1196685,
-      "num": 1196685,
-      "word": "甘肃临夏4人强奸案一审宣判",
-      "onboard_time": 1681722026,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1105425,
       "num": 1105425,
       "word": "易烊千玺 华为发布会",
       "onboard_time": 1681717286,
       "rank": 0,
       "category": "科技,艺人"
-    },
-    {
-      "raw_hot": 1087231,
-      "num": 1087231,
-      "word": "女生吃面 情感操控",
-      "onboard_time": 1681721967,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1078287,
@@ -443,6 +443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 452969,
+      "num": 330625,
+      "word": "16岁女孩在父母二胎后确诊抑郁症",
+      "onboard_time": 1681722326,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451120,
       "num": 451120,
       "word": "特斯拉中国工厂普通工人月薪1万块",
@@ -539,6 +547,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364422,
+      "num": 330419,
+      "word": "鞠婧祎晒宫脇咲良To签专辑",
+      "onboard_time": 1681721424,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 364353,
+      "num": 364353,
+      "word": "肖战GUCCI外网官网刷屏",
+      "onboard_time": 1681723527,
+      "rank": 8,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 361812,
       "num": 361812,
       "word": "今天就算是泰勒斯来了",
@@ -593,14 +617,6 @@
       "onboard_time": 1681688423,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 321167,
-      "num": 321167,
-      "word": "鞠婧祎晒宫脇咲良To签专辑",
-      "onboard_time": 1681721424,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 320967,
@@ -723,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278186,
-      "num": 192255,
-      "word": "16岁女孩在父母二胎后确诊抑郁症",
-      "onboard_time": 1681722326,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276168,
       "num": 276168,
       "word": "这周日上班",
@@ -755,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269811,
+      "num": 269811,
+      "word": "郭帆说流浪地球3明天拍后天上",
+      "onboard_time": 1681719806,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249734,
       "num": 249734,
       "word": "校方通报男生因琐事纠纷动刀伤人",
@@ -768,14 +784,6 @@
       "word": "无名最终票房",
       "onboard_time": 1681649127,
       "rank": 16,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246594,
-      "num": 246594,
-      "word": "郭帆说流浪地球3明天拍后天上",
-      "onboard_time": 1681719806,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -811,6 +819,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228123,
+      "num": 228123,
+      "word": "江苏一小区物业经理上门扇业主耳光",
+      "onboard_time": 1681720047,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227300,
+      "num": 227300,
+      "word": "李春江名下篮球俱乐部已注销",
+      "onboard_time": 1681721007,
+      "rank": 24,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 223365,
       "num": 268405,
       "word": "网红经济",
@@ -835,28 +859,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 216337,
-      "num": 216337,
-      "word": "李春江名下篮球俱乐部已注销",
-      "onboard_time": 1681721007,
-      "rank": 24,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 216032,
       "num": 216032,
       "word": "小美人鱼主演地广海报",
       "onboard_time": 1681695985,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 214817,
-      "num": 214817,
-      "word": "江苏一小区物业经理上门扇业主耳光",
-      "onboard_time": 1681720047,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214084,
@@ -889,6 +897,14 @@
       "onboard_time": 1681646366,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208305,
+      "num": 208305,
+      "word": "睡不好对颜值影响有多大",
+      "onboard_time": 1681723468,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 207708,
@@ -1131,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161751,
+      "num": 161751,
+      "word": "成都迎来历史最热四月",
+      "onboard_time": 1681719085,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161524,
       "num": 179025,
       "word": "nova11首发人像新技术",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1681700185,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159216,
-      "num": 159216,
-      "word": "成都迎来历史最热四月",
-      "onboard_time": 1681719085,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158898,
@@ -1193,6 +1209,22 @@
       "onboard_time": 1681696524,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154184,
+      "num": 154184,
+      "word": "另一半去找店家理论你会觉得没面子吗",
+      "onboard_time": 1681723708,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 152605,
+      "num": 152605,
+      "word": "2023年调休一览表",
+      "onboard_time": 1681721307,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151115,
@@ -1251,6 +1283,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 143423,
+      "num": 143423,
+      "word": "小猫是不可能表演的",
+      "onboard_time": 1681722865,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 143128,
       "num": 143128,
       "word": "付款码隐私保护功能",
@@ -1267,6 +1307,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 142281,
+      "num": 142281,
+      "word": "蔡徐坤 CRYSTAL CLEAR",
+      "onboard_time": 1681721066,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 142155,
       "num": 209653,
       "word": "王一博说战斗机升空很激动",
@@ -1275,12 +1323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135341,
-      "num": 135341,
-      "word": "2023年调休一览表",
-      "onboard_time": 1681721307,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 138270,
+      "num": 138270,
+      "word": "周深武大靖ASMR挑战",
+      "onboard_time": 1681723527,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134679,
+      "num": 134679,
+      "word": "JYP发文感叹市价突破3万亿韩元",
+      "onboard_time": 1681723886,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 132480,
@@ -1297,14 +1353,6 @@
       "onboard_time": 1681721424,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127818,
-      "num": 127818,
-      "word": "蔡徐坤 CRYSTAL CLEAR",
-      "onboard_time": 1681721066,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127424,
@@ -1449,14 +1497,6 @@
       "onboard_time": 1681717708,
       "rank": 41,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 104901,
-      "num": 118004,
-      "word": "小猫是不可能表演的",
-      "onboard_time": 1681722865,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 104153,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681723069365,
+  "endTime": 1681724038067,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -232,6 +232,14 @@
       "word": "调休",
       "onboard_time": 1681695743,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3481767,
+      "num": 3481767,
+      "word": "能不能接受五一放一天不调休",
+      "onboard_time": 1681716747,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -665,14 +673,6 @@
       "onboard_time": 1680703530,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2554328,
-      "num": 2554328,
-      "word": "能不能接受五一放一天不调休",
-      "onboard_time": 1681716747,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2552781,
@@ -2459,6 +2459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1393056,
+      "num": 1196685,
+      "word": "甘肃临夏4人强奸案一审宣判",
+      "onboard_time": 1681722026,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1391865,
       "num": 1391865,
       "word": "娜扎好像敦煌神女下凡了",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1681029148,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1355396,
+      "num": 1355396,
+      "word": "女生吃面 情感操控",
+      "onboard_time": 1681721967,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1350707,
@@ -2953,14 +2969,6 @@
       "onboard_time": 1681134207,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1196685,
-      "num": 1196685,
-      "word": "甘肃临夏4人强奸案一审宣判",
-      "onboard_time": 1681722026,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1193583,
@@ -3473,14 +3481,6 @@
       "onboard_time": 1680575788,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1087231,
-      "num": 1087231,
-      "word": "女生吃面 情感操控",
-      "onboard_time": 1681721967,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1083444,
@@ -11131,6 +11131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 452969,
+      "num": 330625,
+      "word": "16岁女孩在父母二胎后确诊抑郁症",
+      "onboard_time": 1681722326,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452790,
       "num": 452790,
       "word": "长月烬明冥夜桑酒角色海报",
@@ -13955,6 +13963,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364422,
+      "num": 330419,
+      "word": "鞠婧祎晒宫脇咲良To签专辑",
+      "onboard_time": 1681721424,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 364353,
+      "num": 364353,
+      "word": "肖战GUCCI外网官网刷屏",
+      "onboard_time": 1681723527,
+      "rank": 8,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 363673,
       "num": 363673,
       "word": "湖南邵阳路边打人事件",
@@ -15673,14 +15697,6 @@
       "onboard_time": 1680681570,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 321167,
-      "num": 321167,
-      "word": "鞠婧祎晒宫脇咲良To签专辑",
-      "onboard_time": 1681721424,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 320994,
@@ -17819,14 +17835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 278186,
-      "num": 192255,
-      "word": "16岁女孩在父母二胎后确诊抑郁症",
-      "onboard_time": 1681722326,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278096,
       "num": 278096,
       "word": "达尔文盒饭厂",
@@ -18241,6 +18249,14 @@
       "onboard_time": 1680661650,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 269811,
+      "num": 269811,
+      "word": "郭帆说流浪地球3明天拍后天上",
+      "onboard_time": 1681719806,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 269652,
@@ -19585,14 +19601,6 @@
       "onboard_time": 1681142545,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 246594,
-      "num": 246594,
-      "word": "郭帆说流浪地球3明天拍后天上",
-      "onboard_time": 1681719806,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 246457,
@@ -21163,6 +21171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228123,
+      "num": 228123,
+      "word": "江苏一小区物业经理上门扇业主耳光",
+      "onboard_time": 1681720047,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227868,
       "num": 196270,
       "word": "一生都在要链接的女人",
@@ -21217,6 +21233,14 @@
       "onboard_time": 1680364649,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227300,
+      "num": 227300,
+      "word": "李春江名下篮球俱乐部已注销",
+      "onboard_time": 1681721007,
+      "rank": 24,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 227296,
@@ -22227,14 +22251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216337,
-      "num": 216337,
-      "word": "李春江名下篮球俱乐部已注销",
-      "onboard_time": 1681721007,
-      "rank": 24,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 216169,
       "num": 216169,
       "word": "惠英红马思纯王锵voguefilm大片",
@@ -22385,14 +22401,6 @@
       "onboard_time": 1680496236,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 214817,
-      "num": 214817,
-      "word": "江苏一小区物业经理上门扇业主耳光",
-      "onboard_time": 1681720047,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214772,
@@ -23153,6 +23161,14 @@
       "onboard_time": 1681630046,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208305,
+      "num": 208305,
+      "word": "睡不好对颜值影响有多大",
+      "onboard_time": 1681723468,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 208300,
@@ -31867,6 +31883,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 161751,
+      "num": 161751,
+      "word": "成都迎来历史最热四月",
+      "onboard_time": 1681719085,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161663,
       "num": 161663,
       "word": "大张伟新歌要是你又不高兴了",
@@ -32185,14 +32209,6 @@
       "onboard_time": 1680276327,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 159216,
-      "num": 159216,
-      "word": "成都迎来历史最热四月",
-      "onboard_time": 1681719085,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159211,
@@ -32891,6 +32907,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 154184,
+      "num": 154184,
+      "word": "另一半去找店家理论你会觉得没面子吗",
+      "onboard_time": 1681723708,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154135,
       "num": 154135,
       "word": "丁程鑫秦霄贤杨迪卡点运镜",
@@ -33049,6 +33073,14 @@
       "onboard_time": 1681227749,
       "rank": 15,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 152605,
+      "num": 152605,
+      "word": "2023年调休一览表",
+      "onboard_time": 1681721307,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152475,
@@ -34187,6 +34219,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 143423,
+      "num": 143423,
+      "word": "小猫是不可能表演的",
+      "onboard_time": 1681722865,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 143385,
       "num": 5295131,
       "word": "春天的花花美到挪不开眼",
@@ -34329,6 +34369,14 @@
       "onboard_time": 1680316469,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142281,
+      "num": 142281,
+      "word": "蔡徐坤 CRYSTAL CLEAR",
+      "onboard_time": 1681721066,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142266,
@@ -34795,6 +34843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138270,
+      "num": 138270,
+      "word": "周深武大靖ASMR挑战",
+      "onboard_time": 1681723527,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138264,
       "num": 138264,
       "word": "静音车厢你爱了吗",
@@ -35123,14 +35179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 135341,
-      "num": 135341,
-      "word": "2023年调休一览表",
-      "onboard_time": 1681721307,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135295,
       "num": 135295,
       "word": "接住春天的小朋友",
@@ -35201,6 +35249,14 @@
       "onboard_time": 1680570212,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134679,
+      "num": 134679,
+      "word": "JYP发文感叹市价突破3万亿韩元",
+      "onboard_time": 1681723886,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 134581,
@@ -35921,14 +35977,6 @@
       "onboard_time": 1680598951,
       "rank": 47,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 127818,
-      "num": 127818,
-      "word": "蔡徐坤 CRYSTAL CLEAR",
-      "onboard_time": 1681721066,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127768,
@@ -37777,14 +37825,6 @@
       "onboard_time": 1681082540,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 104901,
-      "num": 118004,
-      "word": "小猫是不可能表演的",
-      "onboard_time": 1681722865,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 104887,
