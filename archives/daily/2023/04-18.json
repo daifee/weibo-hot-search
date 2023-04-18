@@ -1,10 +1,10 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681791661624,
+  "endTime": 1681792472432,
   "band_list": [
     {
-      "raw_hot": 4089574,
-      "num": 4089574,
+      "raw_hot": 4893886,
+      "num": 4893886,
       "word": "你还在用余额宝吗",
       "onboard_time": 1681786946,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1311338,
+      "num": 1311338,
+      "word": "离职后你一般怎么退出工作群",
+      "onboard_time": 1681788449,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1275635,
       "num": 1275635,
       "word": "迪丽热巴再现复古名伶",
@@ -139,20 +147,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 868614,
-      "num": 868614,
-      "word": "离职后你一般怎么退出工作群",
-      "onboard_time": 1681788449,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 822663,
       "num": 822663,
       "word": "张含韵 没想到30岁会这么好",
       "onboard_time": 1681744290,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 731572,
+      "num": 731572,
+      "word": "格林真脏",
+      "onboard_time": 1681792299,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 728527,
@@ -203,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 564774,
+      "num": 564774,
+      "word": "易烊千玺专辑封面是巩俐",
+      "onboard_time": 1681791870,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 534680,
       "num": 534680,
       "word": "从奖学金到助学金",
@@ -219,20 +235,20 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 533242,
+      "num": 366380,
+      "word": "女子85元买椰子螺开出4.52克美乐珠",
+      "onboard_time": 1681789529,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515492,
       "num": 277183,
       "word": "鹿晗又染粉发",
       "onboard_time": 1681737867,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 507469,
-      "num": 258393,
-      "word": "女子85元买椰子螺开出4.52克美乐珠",
-      "onboard_time": 1681789529,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484273,
@@ -291,6 +307,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 446006,
+      "num": 446006,
+      "word": "田柾国将正式solo出道",
+      "onboard_time": 1681790972,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 417472,
       "num": 417472,
       "word": "丫丫乐乐回国申请进入最后审核",
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370044,
+      "num": 370044,
+      "word": "勇士VS国王",
+      "onboard_time": 1681784906,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366906,
       "num": 366906,
       "word": "SMTOWN遭扣押搜查",
@@ -387,20 +419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320493,
+      "num": 320493,
+      "word": "虞书欣黑粉拒不道歉被法院公告",
+      "onboard_time": 1681791814,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 311988,
       "num": 311988,
       "word": "长沙暴雨",
       "onboard_time": 1681781246,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310836,
-      "num": 310836,
-      "word": "田柾国将正式solo出道",
-      "onboard_time": 1681790972,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 306798,
@@ -417,6 +449,14 @@
       "onboard_time": 1681741167,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300940,
+      "num": 300940,
+      "word": "光遇 红狐狸",
+      "onboard_time": 1681791752,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 300141,
@@ -491,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275516,
+      "num": 275516,
+      "word": "iPhone15Pro系列升级Action按钮交互",
+      "onboard_time": 1681788508,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 272974,
       "num": 272974,
       "word": "杨洋杨超越或将主演凡人修仙传",
@@ -531,28 +579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254081,
-      "num": 254081,
-      "word": "iPhone15Pro系列升级Action按钮交互",
-      "onboard_time": 1681788508,
-      "rank": 41,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 246005,
-      "num": 246005,
-      "word": "勇士VS国王",
-      "onboard_time": 1681784906,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 235460,
-      "num": 235460,
+      "raw_hot": 247145,
+      "num": 247145,
       "word": "现在的笔都这么高级了吗",
       "onboard_time": 1681787368,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246415,
+      "num": 246415,
+      "word": "北影节抢票",
+      "onboard_time": 1681791451,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 232211,
@@ -561,6 +601,14 @@
       "onboard_time": 1681778549,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227252,
+      "num": 227252,
+      "word": "恋与深空",
+      "onboard_time": 1681790370,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 226872,
@@ -587,12 +635,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 213469,
-      "num": 213469,
-      "word": "北影节抢票",
-      "onboard_time": 1681791451,
-      "rank": 32,
+      "raw_hot": 213571,
+      "num": 213571,
+      "word": "悲情城市",
+      "onboard_time": 1681792052,
+      "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213077,
+      "num": 213077,
+      "word": "勇士好多失误",
+      "onboard_time": 1681787247,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 210608,
@@ -611,14 +667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207805,
-      "num": 207805,
-      "word": "勇士好多失误",
-      "onboard_time": 1681787247,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207463,
       "num": 207463,
       "word": "海鸥售价",
@@ -635,12 +683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205130,
-      "num": 205130,
-      "word": "恋与深空",
-      "onboard_time": 1681790370,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 202939,
+      "num": 202939,
+      "word": "瓣人选的95花四美",
+      "onboard_time": 1681791814,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201609,
+      "num": 201609,
+      "word": "北京电影节",
+      "onboard_time": 1681791752,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 200180,
@@ -664,6 +720,14 @@
       "word": "男生花钱现状",
       "onboard_time": 1681776268,
       "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 197224,
+      "num": 197224,
+      "word": "更适合00后体质的生日",
+      "onboard_time": 1681790249,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -779,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171425,
-      "num": 171425,
-      "word": "更适合00后体质的生日",
-      "onboard_time": 1681790249,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170886,
       "num": 170886,
       "word": "gidle回归时间",
@@ -817,6 +873,14 @@
       "onboard_time": 1681759933,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152063,
+      "num": 152063,
+      "word": "甲仑榴莲",
+      "onboard_time": 1681791574,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 151957,
@@ -905,6 +969,14 @@
       "onboard_time": 1681747045,
       "rank": 45,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 132706,
+      "num": 132706,
+      "word": "拒绝加班到底有多难",
+      "onboard_time": 1681791391,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 130362,
@@ -1107,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83728,
+      "num": 1106373,
+      "word": "我为家乡特色美食来代言",
+      "onboard_time": 1681790311,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80504,
       "num": 125816,
       "word": "彩虹瀑布 忘不掉的奇景",
       "onboard_time": 1681782145,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 79588,
-      "num": 120459,
-      "word": "甲仑榴莲",
-      "onboard_time": 1681791574,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 77349,
@@ -1155,14 +1227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63602,
-      "num": 1106373,
-      "word": "我为家乡特色美食来代言",
-      "onboard_time": 1681790311,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61574,
       "num": 73500,
       "word": "淄博烧烤后厨有多忙",
@@ -1171,20 +1235,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 54310,
+      "num": 405479,
+      "word": "车展值得期待的纯电SUV",
+      "onboard_time": 1681790429,
+      "rank": 14,
+      "category": "科技"
+    },
+    {
       "raw_hot": 52692,
       "num": 57919,
       "word": "小S长发",
       "onboard_time": 1681726407,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 51558,
-      "num": 358097,
-      "word": "车展值得期待的纯电SUV",
-      "onboard_time": 1681790429,
-      "rank": 14,
-      "category": "科技"
     },
     {
       "raw_hot": 43644,
