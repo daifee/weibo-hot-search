@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681856185709,
+  "endTime": 1681857207572,
   "band_list": [
     {
       "raw_hot": 1664469,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324528,
+      "num": 324528,
+      "word": "山东一地要求公务人员回国后核酸",
+      "onboard_time": 1681835185,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314060,
       "num": 314060,
       "word": "如何评价王嘉尔二登科切拉",
@@ -129,14 +137,6 @@
       "onboard_time": 1681813110,
       "rank": 15,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 261826,
-      "num": 207296,
-      "word": "山东一地要求公务人员回国后核酸",
-      "onboard_time": 1681835185,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258589,
@@ -427,24 +427,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44405,
-      "num": 35799,
+      "raw_hot": 58152,
+      "num": 49604,
       "word": "孩子打人妈妈硬核反打教育",
       "onboard_time": 1681850531,
       "rank": 26,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 42216,
-      "num": 35170,
+      "raw_hot": 54884,
+      "num": 49584,
       "word": "女孩应聘商务专员因身高177cm被拒",
       "onboard_time": 1681848251,
       "rank": 33,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20592,
-      "num": 21442,
+      "raw_hot": 25827,
+      "num": 25827,
       "word": "小米13Ultra徕卡光学",
       "onboard_time": 1681817128,
       "rank": 48,

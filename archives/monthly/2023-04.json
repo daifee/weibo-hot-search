@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681856185709,
+  "endTime": 1681857207572,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -16891,6 +16891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 324528,
+      "num": 324528,
+      "word": "山东一地要求公务人员回国后核酸",
+      "onboard_time": 1681835185,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324005,
       "num": 324005,
       "word": "罗云熙BJD娃娃",
@@ -20161,14 +20169,6 @@
       "onboard_time": 1680496777,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261826,
-      "num": 207296,
-      "word": "山东一地要求公务人员回国后核酸",
-      "onboard_time": 1681835185,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261783,
@@ -42891,6 +42891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58152,
+      "num": 49604,
+      "word": "孩子打人妈妈硬核反打教育",
+      "onboard_time": 1681850531,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57242,
       "num": 57242,
       "word": "麻雀挠头",
@@ -42945,6 +42953,14 @@
       "onboard_time": 1681255821,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 54884,
+      "num": 49584,
+      "word": "女孩应聘商务专员因身高177cm被拒",
+      "onboard_time": 1681848251,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54808,
@@ -43147,14 +43163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44405,
-      "num": 35799,
-      "word": "孩子打人妈妈硬核反打教育",
-      "onboard_time": 1681850531,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43956,
       "num": 43956,
       "word": "那些尝试但失败了的副业",
@@ -43209,14 +43217,6 @@
       "onboard_time": 1680627741,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 42216,
-      "num": 35170,
-      "word": "女孩应聘商务专员因身高177cm被拒",
-      "onboard_time": 1681848251,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42194,
