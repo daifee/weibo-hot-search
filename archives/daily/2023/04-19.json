@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681842845066,
+  "endTime": 1681845260259,
   "band_list": [
     {
       "raw_hot": 1664469,
@@ -425,6 +425,14 @@
       "onboard_time": 1681817908,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15239,
+      "num": 21442,
+      "word": "小米13Ultra徕卡光学",
+      "onboard_time": 1681817128,
+      "rank": 48,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
