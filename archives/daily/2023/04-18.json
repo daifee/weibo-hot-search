@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681828790386,
+  "endTime": 1681831217337,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -283,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 922285,
+      "num": 922285,
+      "word": "超一半的年轻人有搭子",
+      "onboard_time": 1681826191,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 899239,
       "num": 899239,
       "word": "RNG官宣Angel离队",
       "onboard_time": 1681825831,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 895129,
+      "num": 895129,
+      "word": "杨幂综艺",
+      "onboard_time": 1681829911,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 894114,
@@ -408,14 +424,6 @@
       "word": "高空杂技坠亡女演员家属获公司赔偿",
       "onboard_time": 1681824030,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 640449,
-      "num": 640449,
-      "word": "超一半的年轻人有搭子",
-      "onboard_time": 1681826191,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -771,6 +779,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 375258,
+      "num": 240320,
+      "word": "杭州公开一批色狼行政处罚结果",
+      "onboard_time": 1681826792,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373793,
       "num": 373793,
       "word": "罗志祥曾是姜涛导师",
@@ -875,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351119,
-      "num": 240320,
-      "word": "杭州公开一批色狼行政处罚结果",
-      "onboard_time": 1681826792,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336869,
       "num": 336869,
       "word": "专家建议固定法定假日时间",
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326917,
+      "num": 224170,
+      "word": "上海人均存款21.26万",
+      "onboard_time": 1681828052,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 322573,
       "num": 322573,
       "word": "男子淄博烧烤摊醉酒闹事被秒带走",
@@ -937,6 +953,22 @@
       "onboard_time": 1681798469,
       "rank": 30,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 316011,
+      "num": 222741,
+      "word": "刘亦菲有风剧组聚会合照",
+      "onboard_time": 1681830570,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 313524,
+      "num": 313524,
+      "word": "长月烬明首周成绩单",
+      "onboard_time": 1681828231,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 311988,
@@ -1195,6 +1227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251090,
+      "num": 251090,
+      "word": "我追星的状态",
+      "onboard_time": 1681827093,
+      "rank": 38,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 247145,
       "num": 247145,
       "word": "现在的笔都这么高级了吗",
@@ -1227,20 +1267,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243813,
-      "num": 243813,
-      "word": "我追星的状态",
-      "onboard_time": 1681827093,
-      "rank": 38,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 241093,
       "num": 241093,
       "word": "大大担任eStar主教练",
       "onboard_time": 1681819406,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239038,
+      "num": 222398,
+      "word": "王源帮粉丝捡手机",
+      "onboard_time": 1681830030,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 238558,
@@ -1291,6 +1331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225359,
+      "num": 202243,
+      "word": "刘耀文戴两顶帽子",
+      "onboard_time": 1681831049,
+      "rank": 30,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 221986,
       "num": 221986,
       "word": "中国经济没有出现通缩",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1681808908,
       "rank": 19,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 220558,
+      "num": 220558,
+      "word": "让浴室地面倾斜十五度",
+      "onboard_time": 1681829731,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 219289,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1681784666,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207620,
+      "num": 207620,
+      "word": "是时候认识个山东朋友了",
+      "onboard_time": 1681830869,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 207463,
@@ -1555,14 +1619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198580,
-      "num": 214629,
-      "word": "上海人均存款21.26万",
-      "onboard_time": 1681828052,
-      "rank": 28,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 197224,
       "num": 197224,
       "word": "更适合00后体质的生日",
@@ -1601,6 +1657,14 @@
       "onboard_time": 1681773379,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 194633,
+      "num": 194633,
+      "word": "如何评价王嘉尔二登科切拉",
+      "onboard_time": 1681830570,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 194475,
@@ -1691,6 +1755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184508,
+      "num": 184508,
+      "word": "阿信说五月之约五月天没有忘记",
+      "onboard_time": 1681831049,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184064,
       "num": 184064,
       "word": "丁程鑫北电汇演人世间剧照",
@@ -1705,14 +1777,6 @@
       "onboard_time": 1681779211,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 182138,
-      "num": 213192,
-      "word": "长月烬明首周成绩单",
-      "onboard_time": 1681828231,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 181428,
@@ -1793,6 +1857,14 @@
       "onboard_time": 1681776567,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168678,
+      "num": 168678,
+      "word": "存够多少钱才会有安全感",
+      "onboard_time": 1681829852,
+      "rank": 34,
+      "category": "社会议题"
     },
     {
       "raw_hot": 167590,
@@ -2171,6 +2243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124678,
+      "num": 124678,
+      "word": "刘雨昕推荐艺术家劳尔马克斯",
+      "onboard_time": 1681830509,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122766,
       "num": 122766,
       "word": "澹台烬的一天花絮",
@@ -2393,6 +2473,14 @@
       "onboard_time": 1681728327,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94899,
+      "num": 94899,
+      "word": "2023水逆来了",
+      "onboard_time": 1681831171,
+      "rank": 49,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 91925,
