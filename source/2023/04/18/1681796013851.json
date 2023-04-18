@@ -1,0 +1,410 @@
+{
+  "runTime": 1681796013851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2739446,
+        "num": 2739446,
+        "word": "格林真脏",
+        "onboard_time": 1681792299,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1804429,
+        "num": 1804429,
+        "word": "你还在用余额宝吗",
+        "onboard_time": 1681786946,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71948,
+        "num": 1313033,
+        "word": "我为家乡特色美食来代言",
+        "onboard_time": 1681790311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5296527,
+        "num": 1305040,
+        "word": "窦骁何超莲官宣婚礼",
+        "onboard_time": 1681794096,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1008683,
+        "num": 1008683,
+        "word": "赵丽颖林更新谈再合作感受",
+        "onboard_time": 1681793316,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 654817,
+        "num": 654817,
+        "word": "左肩有你 振兴钢厂",
+        "onboard_time": 1681778068,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 613964,
+        "num": 613964,
+        "word": "离职后你一般怎么退出工作群",
+        "onboard_time": 1681788449,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 585832,
+        "num": 585832,
+        "word": "瓣人选的95花四美",
+        "onboard_time": 1681791814,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 559207,
+        "num": 559207,
+        "word": "易烊千玺专辑封面是巩俐",
+        "onboard_time": 1681791870,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 472012,
+        "num": 472012,
+        "word": "数名外籍女子晒中国游引出偷渡案",
+        "onboard_time": 1681781367,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 385360,
+        "num": 385360,
+        "word": "虞书欣黑粉拒不道歉被法院公告",
+        "onboard_time": 1681791814,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 368857,
+        "num": 368857,
+        "word": "库里生涯首次落后",
+        "onboard_time": 1681794334,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350214,
+        "num": 350214,
+        "word": "国内检出多例XBB.1.16",
+        "onboard_time": 1681784726,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329912,
+        "num": 329912,
+        "word": "专家建议固定法定假日时间",
+        "onboard_time": 1681793256,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325153,
+        "num": 325153,
+        "word": "消失的她",
+        "onboard_time": 1681793316,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318214,
+        "num": 318214,
+        "word": "周杰伦向网易索赔205万元",
+        "onboard_time": 1681777769,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 305125,
+        "num": 305125,
+        "word": "感觉新冠不再来了还用打疫苗吗",
+        "onboard_time": 1681778611,
+        "rank": 16,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 291258,
+        "num": 291258,
+        "word": "新生儿落户被标注文盲",
+        "onboard_time": 1681781786,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265378,
+        "num": 265378,
+        "word": "田柾国将正式solo出道",
+        "onboard_time": 1681790972,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262146,
+        "num": 262146,
+        "word": "追梦格林被驱逐",
+        "onboard_time": 1681792715,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430222,
+        "num": 261738,
+        "word": "女子85元买椰子螺开出4.52克美乐珠",
+        "onboard_time": 1681789529,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357212,
+        "num": 256259,
+        "word": "胖虎这次绝不会错过刘艳芬",
+        "onboard_time": 1681793915,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227526,
+        "num": 227526,
+        "word": "印尼为35万在台劳工制定撤侨计划",
+        "onboard_time": 1681786346,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222358,
+        "num": 222358,
+        "word": "徐怀钰贾静雯 乘风破浪",
+        "onboard_time": 1681789829,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213726,
+        "num": 213726,
+        "word": "丫丫乐乐回国申请进入最后审核",
+        "onboard_time": 1681787186,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210546,
+        "num": 210546,
+        "word": "光遇 红狐狸",
+        "onboard_time": 1681791752,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209154,
+        "num": 209154,
+        "word": "一起露营吧2终于定档了",
+        "onboard_time": 1681795412,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206598,
+        "num": 206598,
+        "word": "女子推理社开播",
+        "onboard_time": 1681795477,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203961,
+        "num": 203961,
+        "word": "时代少年团海口演唱会官宣",
+        "onboard_time": 1681789888,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202586,
+        "num": 202586,
+        "word": "田曦薇细节敏锐度",
+        "onboard_time": 1681795412,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822349,
+        "num": 202554,
+        "word": "赌王三太气质",
+        "onboard_time": 1681795477,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202435,
+        "num": 202435,
+        "word": "刘雯好薄",
+        "onboard_time": 1681774462,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199599,
+        "num": 199599,
+        "word": "iPhone15Pro系列升级Action按钮交互",
+        "onboard_time": 1681788508,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193026,
+        "num": 193026,
+        "word": "48岁妈妈参加恋综被说像偶像剧女主",
+        "onboard_time": 1681795829,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188153,
+        "num": 188153,
+        "word": "勇士VS国王",
+        "onboard_time": 1681784906,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181428,
+        "num": 181428,
+        "word": "王源公益纪录片",
+        "onboard_time": 1681795771,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171503,
+        "num": 171503,
+        "word": "宋茜说分手还可以做朋友",
+        "onboard_time": 1681778307,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168656,
+        "num": 168656,
+        "word": "甲仑榴莲",
+        "onboard_time": 1681791574,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167590,
+        "num": 167590,
+        "word": "女子推理社的男嘉宾",
+        "onboard_time": 1681795951,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161598,
+        "num": 161598,
+        "word": "警方通报村民疑被当成猎物遭枪击死亡",
+        "onboard_time": 1681785684,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160100,
+        "num": 160100,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1681795771,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 564337,
+        "num": 159683,
+        "word": "迪丽热巴再现复古名伶",
+        "onboard_time": 1681787008,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158143,
+        "num": 158143,
+        "word": "iOS17将允许非官方商店的应用程序",
+        "onboard_time": 1681785208,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152752,
+        "num": 152752,
+        "word": "乘风破浪4一公选曲分组",
+        "onboard_time": 1681784067,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150641,
+        "num": 150641,
+        "word": "要离职了被同事要求请吃饭",
+        "onboard_time": 1681744709,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148465,
+        "num": 148465,
+        "word": "现在的笔都这么高级了吗",
+        "onboard_time": 1681787368,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147836,
+        "num": 147836,
+        "word": "杨幂聚餐",
+        "onboard_time": 1681742311,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146770,
+        "num": 146770,
+        "word": "萨摩有点什么你接着说啊",
+        "onboard_time": 1681793977,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145866,
+        "num": 145866,
+        "word": "国王2比0勇士",
+        "onboard_time": 1681794034,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140573,
+        "num": 140573,
+        "word": "比亚迪",
+        "onboard_time": 1681786707,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#功勋模范引导时代征途#"
+    }
+  }
+}

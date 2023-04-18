@@ -1,10 +1,10 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681794967963,
+  "endTime": 1681796013851,
   "band_list": [
     {
-      "raw_hot": 5110743,
-      "num": 1224808,
+      "raw_hot": 5296527,
+      "num": 1305040,
       "word": "窦骁何超莲官宣婚礼",
       "onboard_time": 1681794096,
       "rank": 3,
@@ -179,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 822349,
+      "num": 202554,
+      "word": "赌王三太气质",
+      "onboard_time": 1681795477,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 728527,
       "num": 728527,
       "word": "国内检出多例XBB.1.16",
@@ -227,20 +235,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 585832,
+      "num": 585832,
+      "word": "瓣人选的95花四美",
+      "onboard_time": 1681791814,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 583091,
       "num": 583091,
       "word": "虞书欣丁禹兮 黑莲花",
       "onboard_time": 1681741890,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 539574,
-      "num": 539574,
-      "word": "瓣人选的95花四美",
-      "onboard_time": 1681791814,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 537251,
@@ -427,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368857,
+      "num": 368857,
+      "word": "库里生涯首次落后",
+      "onboard_time": 1681794334,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366906,
       "num": 366906,
       "word": "SMTOWN遭扣押搜查",
@@ -451,6 +467,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 357212,
+      "num": 285350,
+      "word": "胖虎这次绝不会错过刘艳芬",
+      "onboard_time": 1681793915,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 333789,
       "num": 333789,
       "word": "黑莲花 绝世大饼",
@@ -467,20 +491,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329912,
+      "num": 329912,
+      "word": "专家建议固定法定假日时间",
+      "onboard_time": 1681793256,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311988,
       "num": 311988,
       "word": "长沙暴雨",
       "onboard_time": 1681781246,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309729,
-      "num": 285350,
-      "word": "胖虎这次绝不会错过刘艳芬",
-      "onboard_time": 1681793915,
-      "rank": 21,
-      "category": "音乐"
     },
     {
       "raw_hot": 306798,
@@ -561,14 +585,6 @@
       "onboard_time": 1681747944,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 281077,
-      "num": 281077,
-      "word": "专家建议固定法定假日时间",
-      "onboard_time": 1681793256,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279241,
@@ -723,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209154,
+      "num": 209154,
+      "word": "一起露营吧2终于定档了",
+      "onboard_time": 1681795412,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208545,
       "num": 208545,
       "word": "长空之王险版预告",
@@ -739,20 +763,28 @@
       "category": "科技"
     },
     {
-      "raw_hot": 207227,
-      "num": 207227,
-      "word": "库里生涯首次落后",
-      "onboard_time": 1681794334,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206673,
       "num": 191406,
       "word": "提高免疫力要从人类幼崽抓起",
       "onboard_time": 1681785146,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206598,
+      "num": 206598,
+      "word": "女子推理社开播",
+      "onboard_time": 1681795477,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202586,
+      "num": 202586,
+      "word": "田曦薇细节敏锐度",
+      "onboard_time": 1681795412,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 201609,
@@ -843,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193026,
+      "num": 193026,
+      "word": "48岁妈妈参加恋综被说像偶像剧女主",
+      "onboard_time": 1681795829,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191889,
       "num": 191889,
       "word": "张颂文小米影像探索家",
@@ -891,6 +931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 181428,
+      "num": 181428,
+      "word": "王源公益纪录片",
+      "onboard_time": 1681795771,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 180188,
       "num": 180188,
       "word": "电影检察风云预售开启",
@@ -931,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167590,
+      "num": 167590,
+      "word": "女子推理社的男嘉宾",
+      "onboard_time": 1681795951,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167094,
       "num": 169650,
       "word": "F1官宣首日表演嘉宾王嘉尔",
@@ -953,6 +1009,14 @@
       "onboard_time": 1681779329,
       "rank": 31,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 160100,
+      "num": 160100,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1681795771,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 159130,
@@ -1260,7 +1324,7 @@
     },
     {
       "raw_hot": 83728,
-      "num": 1299801,
+      "num": 1313033,
       "word": "我为家乡特色美食来代言",
       "onboard_time": 1681790311,
       "rank": 2,
