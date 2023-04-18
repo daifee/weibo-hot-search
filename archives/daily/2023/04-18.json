@@ -1,14 +1,22 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681788840274,
+  "endTime": 1681791661624,
   "band_list": [
     {
-      "raw_hot": 2572439,
-      "num": 2572439,
+      "raw_hot": 4089574,
+      "num": 4089574,
       "word": "你还在用余额宝吗",
       "onboard_time": 1681786946,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2496880,
+      "num": 1035155,
+      "word": "张一山 窦骁何超莲婚礼",
+      "onboard_time": 1681789049,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1833510,
@@ -67,8 +75,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1232744,
-      "num": 1232744,
+      "raw_hot": 1275635,
+      "num": 1275635,
       "word": "迪丽热巴再现复古名伶",
       "onboard_time": 1681787008,
       "rank": 12,
@@ -99,6 +107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 948933,
+      "num": 948933,
+      "word": "徐怀钰贾静雯 乘风破浪",
+      "onboard_time": 1681789829,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 894114,
       "num": 894114,
       "word": "数名外籍女子晒中国游引出偷渡案",
@@ -121,6 +137,14 @@
       "onboard_time": 1681783885,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 868614,
+      "num": 868614,
+      "word": "离职后你一般怎么退出工作群",
+      "onboard_time": 1681788449,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 822663,
@@ -203,12 +227,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 507469,
+      "num": 258393,
+      "word": "女子85元买椰子螺开出4.52克美乐珠",
+      "onboard_time": 1681789529,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484273,
       "num": 484273,
       "word": "苹果版余额宝上线",
       "onboard_time": 1681782748,
       "rank": 8,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 470441,
+      "num": 470441,
+      "word": "时代少年团海口演唱会官宣",
+      "onboard_time": 1681789888,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 464455,
@@ -249,6 +289,22 @@
       "onboard_time": 1681785208,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 417472,
+      "num": 417472,
+      "word": "丫丫乐乐回国申请进入最后审核",
+      "onboard_time": 1681787186,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 415766,
+      "num": 415766,
+      "word": "印尼为35万在台劳工制定撤侨计划",
+      "onboard_time": 1681786346,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412565,
@@ -331,28 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319899,
-      "num": 319899,
-      "word": "印尼为35万在台劳工制定撤侨计划",
-      "onboard_time": 1681786346,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316602,
-      "num": 316602,
-      "word": "丫丫乐乐回国申请进入最后审核",
-      "onboard_time": 1681787186,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311988,
       "num": 311988,
       "word": "长沙暴雨",
       "onboard_time": 1681781246,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310836,
+      "num": 310836,
+      "word": "田柾国将正式solo出道",
+      "onboard_time": 1681790972,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 306798,
@@ -483,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254081,
+      "num": 254081,
+      "word": "iPhone15Pro系列升级Action按钮交互",
+      "onboard_time": 1681788508,
+      "rank": 41,
+      "category": "科技"
+    },
+    {
       "raw_hot": 246005,
       "num": 246005,
       "word": "勇士VS国王",
@@ -515,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221851,
+      "num": 221851,
+      "word": "新钉钉拍照可以生成小程序",
+      "onboard_time": 1681791451,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 219289,
       "num": 197897,
       "word": "仰望U8预售价",
@@ -523,12 +587,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 215463,
-      "num": 215463,
-      "word": "离职后你一般怎么退出工作群",
-      "onboard_time": 1681788449,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 213469,
+      "num": 213469,
+      "word": "北影节抢票",
+      "onboard_time": 1681791451,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 210608,
@@ -569,6 +633,14 @@
       "onboard_time": 1681785146,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205130,
+      "num": 205130,
+      "word": "恋与深空",
+      "onboard_time": 1681790370,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 200180,
@@ -625,6 +697,14 @@
       "onboard_time": 1681773379,
       "rank": 45,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 193482,
+      "num": 193482,
+      "word": "张子枫王景春新片是宠物题材",
+      "onboard_time": 1681790489,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 191889,
@@ -699,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171425,
+      "num": 171425,
+      "word": "更适合00后体质的生日",
+      "onboard_time": 1681790249,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170886,
       "num": 170886,
       "word": "gidle回归时间",
@@ -729,14 +817,6 @@
       "onboard_time": 1681759933,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156786,
-      "num": 156786,
-      "word": "iPhone15Pro系列升级Action按钮交互",
-      "onboard_time": 1681788508,
-      "rank": 41,
-      "category": "科技"
     },
     {
       "raw_hot": 151957,
@@ -1035,6 +1115,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 79588,
+      "num": 120459,
+      "word": "甲仑榴莲",
+      "onboard_time": 1681791574,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 77349,
       "num": 77349,
       "word": "张靓颖新歌",
@@ -1067,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63602,
+      "num": 1106373,
+      "word": "我为家乡特色美食来代言",
+      "onboard_time": 1681790311,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61574,
       "num": 73500,
       "word": "淄博烧烤后厨有多忙",
@@ -1081,6 +1177,14 @@
       "onboard_time": 1681726407,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51558,
+      "num": 358097,
+      "word": "车展值得期待的纯电SUV",
+      "onboard_time": 1681790429,
+      "rank": 14,
+      "category": "科技"
     },
     {
       "raw_hot": 43644,

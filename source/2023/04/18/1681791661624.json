@@ -1,0 +1,410 @@
+{
+  "runTime": 1681791661624,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4089574,
+        "num": 4089574,
+        "word": "你还在用余额宝吗",
+        "onboard_time": 1681786946,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1275635,
+        "num": 1275635,
+        "word": "迪丽热巴再现复古名伶",
+        "onboard_time": 1681787008,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 63602,
+        "num": 1106373,
+        "word": "我为家乡特色美食来代言",
+        "onboard_time": 1681790311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2496880,
+        "num": 1035155,
+        "word": "张一山 窦骁何超莲婚礼",
+        "onboard_time": 1681789049,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 948933,
+        "num": 948933,
+        "word": "徐怀钰贾静雯 乘风破浪",
+        "onboard_time": 1681789829,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868614,
+        "num": 868614,
+        "word": "离职后你一般怎么退出工作群",
+        "onboard_time": 1681788449,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 619984,
+        "num": 619984,
+        "word": "左肩有你 振兴钢厂",
+        "onboard_time": 1681778068,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 507301,
+        "num": 507301,
+        "word": "感觉新冠不再来了还用打疫苗吗",
+        "onboard_time": 1681778611,
+        "rank": 7,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 475211,
+        "num": 475211,
+        "word": "数名外籍女子晒中国游引出偷渡案",
+        "onboard_time": 1681781367,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 470441,
+        "num": 470441,
+        "word": "时代少年团海口演唱会官宣",
+        "onboard_time": 1681789888,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 479418,
+        "num": 459963,
+        "word": "周杰伦向网易索赔205万元",
+        "onboard_time": 1681777769,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 417472,
+        "num": 417472,
+        "word": "丫丫乐乐回国申请进入最后审核",
+        "onboard_time": 1681787186,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415766,
+        "num": 415766,
+        "word": "印尼为35万在台劳工制定撤侨计划",
+        "onboard_time": 1681786346,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400843,
+        "num": 400843,
+        "word": "国内检出多例XBB.1.16",
+        "onboard_time": 1681784726,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51558,
+        "num": 358097,
+        "word": "车展值得期待的纯电SUV",
+        "onboard_time": 1681790429,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 350743,
+        "num": 350743,
+        "word": "宋茜说分手还可以做朋友",
+        "onboard_time": 1681778307,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338645,
+        "num": 338645,
+        "word": "新生儿落户被标注文盲",
+        "onboard_time": 1681781786,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310836,
+        "num": 310836,
+        "word": "田柾国将正式solo出道",
+        "onboard_time": 1681790972,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294750,
+        "num": 294750,
+        "word": "比亚迪",
+        "onboard_time": 1681786707,
+        "rank": 18,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 258591,
+        "num": 258591,
+        "word": "iOS17将允许非官方商店的应用程序",
+        "onboard_time": 1681785208,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 507469,
+        "num": 258393,
+        "word": "女子85元买椰子螺开出4.52克美乐珠",
+        "onboard_time": 1681789529,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257291,
+        "num": 257291,
+        "word": "刘雯好薄",
+        "onboard_time": 1681774462,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254081,
+        "num": 254081,
+        "word": "iPhone15Pro系列升级Action按钮交互",
+        "onboard_time": 1681788508,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 416612,
+        "num": 252522,
+        "word": "易烊千玺新专辑刘艳芬",
+        "onboard_time": 1681783885,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 250242,
+        "num": 250242,
+        "word": "杨幂聚餐",
+        "onboard_time": 1681742311,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240480,
+        "num": 240480,
+        "word": "乘风破浪4一公选曲分组",
+        "onboard_time": 1681784067,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235887,
+        "num": 235887,
+        "word": "勇士VS国王",
+        "onboard_time": 1681784906,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232057,
+        "num": 232057,
+        "word": "泼水节被撕雨衣女生选择不立案",
+        "onboard_time": 1681785806,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230641,
+        "num": 230641,
+        "word": "现在的笔都这么高级了吗",
+        "onboard_time": 1681787368,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 871466,
+        "num": 227734,
+        "word": "女生称陪嫁300万男友更急着结婚",
+        "onboard_time": 1681778549,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 221851,
+        "num": 221851,
+        "word": "新钉钉拍照可以生成小程序",
+        "onboard_time": 1681791451,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 217815,
+        "num": 217815,
+        "word": "警方通报村民疑被当成猎物遭枪击死亡",
+        "onboard_time": 1681785684,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213469,
+        "num": 213469,
+        "word": "北影节抢票",
+        "onboard_time": 1681791451,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206524,
+        "num": 206524,
+        "word": "苹果版余额宝上线",
+        "onboard_time": 1681782748,
+        "rank": 33,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 205130,
+        "num": 205130,
+        "word": "恋与深空",
+        "onboard_time": 1681790370,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193697,
+        "num": 193697,
+        "word": "刘艳芬重出江湖",
+        "onboard_time": 1681785987,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193482,
+        "num": 193482,
+        "word": "张子枫王景春新片是宠物题材",
+        "onboard_time": 1681790489,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192110,
+        "num": 192110,
+        "word": "要离职了被同事要求请吃饭",
+        "onboard_time": 1681744709,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176270,
+        "num": 176270,
+        "word": "都暻秀好像只会跳EXO的舞",
+        "onboard_time": 1681787847,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175415,
+        "num": 175415,
+        "word": "长月烬明发布理性追剧声明",
+        "onboard_time": 1681777410,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171425,
+        "num": 171425,
+        "word": "更适合00后体质的生日",
+        "onboard_time": 1681790249,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164223,
+        "num": 164223,
+        "word": "2023考研报录比约6比1",
+        "onboard_time": 1681779089,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 160604,
+        "num": 160604,
+        "word": "八角笼中定档",
+        "onboard_time": 1681785626,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144362,
+        "num": 144362,
+        "word": "张含韵 没想到30岁会这么好",
+        "onboard_time": 1681744290,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138572,
+        "num": 138572,
+        "word": "勇士好多失误",
+        "onboard_time": 1681787247,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135749,
+        "num": 135749,
+        "word": "哪些人属于胃癌高危人群",
+        "onboard_time": 1681782027,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122395,
+        "num": 122395,
+        "word": "臀部发力的走路姿势我真的悟了",
+        "onboard_time": 1681743572,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121421,
+        "num": 121421,
+        "word": "SMTOWN遭扣押搜查",
+        "onboard_time": 1681783407,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 79588,
+        "num": 120459,
+        "word": "甲仑榴莲",
+        "onboard_time": 1681791574,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 65331,
+        "num": 118792,
+        "word": "年轻人游古城的正确打开方式",
+        "onboard_time": 1681781426,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#一季度外贸热度稳步提升#"
+    }
+  }
+}
