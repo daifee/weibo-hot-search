@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681821271857,
+  "endTime": 1681822239097,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2603,6 +2603,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1418449,
+      "num": 1214413,
+      "word": "男婴静脉被注射配方奶家长被瞒5天",
+      "onboard_time": 1681812809,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1416394,
       "num": 1416394,
       "word": "坠亡女演员和搭档是夫妻",
@@ -3177,14 +3185,6 @@
       "onboard_time": 1681487786,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1214413,
-      "num": 1214413,
-      "word": "男婴静脉被注射配方奶家长被瞒5天",
-      "onboard_time": 1681812809,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1203068,
@@ -3907,6 +3907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1045690,
+      "num": 1045690,
+      "word": "浙BWF896你做的好事藏不住了",
+      "onboard_time": 1681819590,
+      "rank": 5,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 1037260,
       "num": 612844,
       "word": "贾静雯状态",
@@ -4129,6 +4137,14 @@
       "onboard_time": 1681473386,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 995170,
+      "num": 995170,
+      "word": "黑人一巴掌打晕中国女友",
+      "onboard_time": 1681821146,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 995168,
@@ -8435,14 +8451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 600540,
-      "num": 600540,
-      "word": "浙BWF896你做的好事藏不住了",
-      "onboard_time": 1681819590,
-      "rank": 5,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 600112,
       "num": 600112,
       "word": "长月烬明十二神归位",
@@ -10147,6 +10155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 522527,
+      "num": 522527,
+      "word": "LOL前职业选手被警方立案",
+      "onboard_time": 1681818387,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 522340,
       "num": 522340,
       "word": "你会选择考公吗",
@@ -10225,14 +10241,6 @@
       "onboard_time": 1681127488,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 517802,
-      "num": 517802,
-      "word": "LOL前职业选手被警方立案",
-      "onboard_time": 1681818387,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 517579,
@@ -17532,7 +17540,7 @@
     },
     {
       "raw_hot": 304766,
-      "num": 213851,
+      "num": 218158,
       "word": "澹台烬你嘴呢",
       "onboard_time": 1681819590,
       "rank": 20,
@@ -21363,6 +21371,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 241093,
+      "num": 241093,
+      "word": "大大担任eStar主教练",
+      "onboard_time": 1681819406,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240949,
       "num": 240949,
       "word": "浙大一个走廊被紫藤花淹没",
@@ -23571,14 +23587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217448,
-      "num": 217448,
-      "word": "大大担任eStar主教练",
-      "onboard_time": 1681819406,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 217436,
       "num": 217436,
       "word": "半熟恋人2全员告白",
@@ -24193,6 +24201,14 @@
       "onboard_time": 1680568110,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211447,
+      "num": 211447,
+      "word": "小米13ultra价格",
+      "onboard_time": 1681821327,
+      "rank": 22,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 211422,
@@ -25161,6 +25177,14 @@
       "onboard_time": 1680350668,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206463,
+      "num": 206463,
+      "word": "你有勇气去gapyear吗",
+      "onboard_time": 1681819827,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 206453,
@@ -30883,6 +30907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184304,
+      "num": 184304,
+      "word": "幼童落水变植物人时隔2个月苏醒",
+      "onboard_time": 1681820007,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 184291,
       "num": 197842,
       "word": "百想艺术大赏",
@@ -31795,6 +31827,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 178190,
+      "num": 178190,
+      "word": "竹竿拍大熊猫饲养员先休假后调岗",
+      "onboard_time": 1681820968,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178098,
       "num": 178098,
       "word": "王菊路演状态",
@@ -32363,6 +32403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172805,
+      "num": 172805,
+      "word": "张本智和晋级澳门赛16强",
+      "onboard_time": 1681819646,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172761,
       "num": 172761,
       "word": "曼联VS埃弗顿",
@@ -32385,14 +32433,6 @@
       "onboard_time": 1680584492,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 172597,
-      "num": 164403,
-      "word": "竹竿拍大熊猫饲养员先休假后调岗",
-      "onboard_time": 1681820968,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172547,
@@ -33363,6 +33403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 165854,
+      "num": 165854,
+      "word": "翩然辞职",
+      "onboard_time": 1681821686,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 165840,
       "num": 212100,
       "word": "又一个中国技术登顶全球",
@@ -34164,7 +34212,7 @@
     },
     {
       "raw_hot": 160286,
-      "num": 214575,
+      "num": 230358,
       "word": "移动影像光学时代来了吗",
       "onboard_time": 1681820127,
       "rank": 19,
@@ -34193,14 +34241,6 @@
       "onboard_time": 1681549887,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160204,
-      "num": 160204,
-      "word": "你有勇气去gapyear吗",
-      "onboard_time": 1681819827,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 160146,
@@ -34747,14 +34787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 155771,
-      "num": 155771,
-      "word": "幼童落水变植物人时隔2个月苏醒",
-      "onboard_time": 1681820007,
-      "rank": 34,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 155747,
       "num": 155747,
       "word": "湖人VS火箭",
@@ -34769,14 +34801,6 @@
       "onboard_time": 1680318868,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155678,
-      "num": 155678,
-      "word": "张本智和晋级澳门赛16强",
-      "onboard_time": 1681819646,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 155654,
@@ -37611,6 +37635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133778,
+      "num": 133778,
+      "word": "他好像跟他的肌肉很熟",
+      "onboard_time": 1681821267,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133774,
       "num": 133774,
       "word": "无间",
@@ -37641,6 +37673,14 @@
       "onboard_time": 1680738268,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133436,
+      "num": 133436,
+      "word": "叶冰裳主动讨好澹台烬",
+      "onboard_time": 1681820653,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 133323,
@@ -39203,14 +39243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119505,
-      "num": 119505,
-      "word": "叶冰裳主动讨好澹台烬",
-      "onboard_time": 1681820653,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 119461,
       "num": 119461,
       "word": "奔跑吧全员脸颊比心接力",
@@ -39977,14 +40009,6 @@
       "onboard_time": 1681611506,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109217,
-      "num": 109217,
-      "word": "黑人一巴掌打晕中国女友",
-      "onboard_time": 1681821146,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109104,
@@ -41505,6 +41529,14 @@
       "onboard_time": 1680406468,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88052,
+      "num": 88052,
+      "word": "因为不按时下班被领导骂",
+      "onboard_time": 1681821868,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 88017,
