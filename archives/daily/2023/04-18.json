@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681806899280,
+  "endTime": 1681809433223,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -83,6 +83,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1498474,
+      "num": 1498474,
+      "word": "淄博一烧烤店生意太火爆停业休息",
+      "onboard_time": 1681801948,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1453630,
       "num": 520420,
       "word": "刘雯好薄",
@@ -147,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1096765,
-      "num": 1096765,
-      "word": "淄博一烧烤店生意太火爆停业休息",
-      "onboard_time": 1681801948,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1078914,
       "num": 323951,
       "word": "何超琼",
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 933814,
+      "num": 823089,
+      "word": "科学家发现男士避孕关键基因",
+      "onboard_time": 1681801530,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 894114,
       "num": 894114,
       "word": "数名外籍女子晒中国游引出偷渡案",
@@ -217,14 +225,6 @@
       "onboard_time": 1681783885,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 823089,
-      "num": 823089,
-      "word": "科学家发现男士避孕关键基因",
-      "onboard_time": 1681801530,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 822663,
@@ -563,6 +563,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 373793,
+      "num": 373793,
+      "word": "罗志祥曾是姜涛导师",
+      "onboard_time": 1681805247,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372931,
       "num": 359885,
       "word": "苹果公司已注册DailyCash商标",
@@ -611,6 +619,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 358244,
+      "num": 358244,
+      "word": "叶舒华以为摄影师是粉丝老公",
+      "onboard_time": 1681805192,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357212,
       "num": 285350,
       "word": "胖虎这次绝不会错过刘艳芬",
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322573,
+      "num": 322573,
+      "word": "男子淄博烧烤摊醉酒闹事被秒带走",
+      "onboard_time": 1681805548,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320568,
       "num": 227661,
       "word": "张雨绮问这个节目没有男的是吧",
@@ -660,7 +684,7 @@
     },
     {
       "raw_hot": 310061,
-      "num": 216141,
+      "num": 260576,
       "word": "罗云熙扛白鹿",
       "onboard_time": 1681804228,
       "rank": 21,
@@ -715,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293535,
+      "num": 293535,
+      "word": "百里守约调整共创",
+      "onboard_time": 1681806690,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292706,
       "num": 292706,
       "word": "玉骨遥或将5月播出",
@@ -737,6 +769,14 @@
       "onboard_time": 1681743629,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 283247,
+      "num": 283247,
+      "word": "睡前刷手机你会惭愧吗",
+      "onboard_time": 1681805130,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282422,
@@ -819,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263010,
+      "num": 263010,
+      "word": "杨迪谈被污名化",
+      "onboard_time": 1681808489,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262436,
       "num": 225438,
       "word": "千万不要跟风买墨镜",
@@ -833,14 +881,6 @@
       "onboard_time": 1681800447,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 259304,
-      "num": 215216,
-      "word": "罗志祥曾是姜涛导师",
-      "onboard_time": 1681805247,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 254615,
@@ -873,14 +913,6 @@
       "onboard_time": 1681791451,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 240205,
-      "num": 240205,
-      "word": "叶舒华以为摄影师是粉丝老公",
-      "onboard_time": 1681805192,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 237543,
@@ -947,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213980,
+      "num": 213980,
+      "word": "一个洞五百两个洞一千",
+      "onboard_time": 1681806866,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 213571,
       "num": 213571,
       "word": "悲情城市",
@@ -985,14 +1025,6 @@
       "onboard_time": 1681784666,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208505,
-      "num": 208505,
-      "word": "睡前刷手机你会惭愧吗",
-      "onboard_time": 1681805130,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207463,
@@ -1041,6 +1073,22 @@
       "onboard_time": 1681795412,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202536,
+      "num": 260587,
+      "word": "邓超问怎么扎麻花辫",
+      "onboard_time": 1681808908,
+      "rank": 19,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 201942,
+      "num": 163998,
+      "word": "超六成投票者还在用余额宝",
+      "onboard_time": 1681809207,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 201609,
@@ -1163,20 +1211,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187717,
-      "num": 221325,
-      "word": "男子淄博烧烤摊醉酒闹事被秒带走",
-      "onboard_time": 1681805548,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186846,
       "num": 186846,
       "word": "甲仑榴莲",
       "onboard_time": 1681791574,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186525,
+      "num": 186525,
+      "word": "王曼昱 WTT",
+      "onboard_time": 1681808787,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 185537,
@@ -1275,6 +1323,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 165334,
+      "num": 165334,
+      "word": "网传男生同时交往8个女友翻车",
+      "onboard_time": 1681808908,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163819,
       "num": 163819,
       "word": "茉莉花茶毛肚",
@@ -1331,6 +1387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155828,
+      "num": 155828,
+      "word": "优酷说陈都灵好惨一女的",
+      "onboard_time": 1681809086,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154863,
+      "num": 154863,
+      "word": "孙颖莎女单连胜榜第4",
+      "onboard_time": 1681806509,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153888,
       "num": 153888,
       "word": "李雪琴称呼宋茜维多利亚女士",
@@ -1376,14 +1448,6 @@
       "word": "COA6全球总决赛",
       "onboard_time": 1681798409,
       "rank": 31,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 148728,
-      "num": 148728,
-      "word": "百里守约调整共创",
-      "onboard_time": 1681806690,
-      "rank": 27,
       "category": "游戏"
     },
     {
@@ -1435,12 +1499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139418,
+      "num": 139418,
+      "word": "追剧看到大学同学是什么体验",
+      "onboard_time": 1681806448,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136337,
       "num": 136337,
       "word": "aespa新专概念预告视频",
       "onboard_time": 1681778248,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135778,
+      "num": 135778,
+      "word": "大学食堂的物价有多感人",
+      "onboard_time": 1681809207,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 135136,
@@ -1481,14 +1561,6 @@
       "onboard_time": 1681738648,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 129957,
-      "num": 129957,
-      "word": "孙颖莎女单连胜榜第4",
-      "onboard_time": 1681806509,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 129789,
@@ -1579,20 +1651,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 115208,
+      "num": 115208,
+      "word": "为什么成年人要学会自愈",
+      "onboard_time": 1681807528,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114771,
       "num": 114771,
       "word": "谢霆锋打拳击",
       "onboard_time": 1681797629,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112121,
-      "num": 102733,
-      "word": "追剧看到大学同学是什么体验",
-      "onboard_time": 1681806448,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 111815,
@@ -1609,6 +1681,14 @@
       "onboard_time": 1681737749,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108208,
+      "num": 108208,
+      "word": "毕雯珺现代版狼系少年",
+      "onboard_time": 1681808249,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 107243,
@@ -1803,14 +1883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70567,
-      "num": 88621,
-      "word": "一个洞五百两个洞一千",
-      "onboard_time": 1681806866,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 61574,
       "num": 73500,
       "word": "淄博烧烤后厨有多忙",
@@ -1873,6 +1945,14 @@
       "onboard_time": 1681741589,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19216,
+      "num": 133315,
+      "word": "在山东感受黄河文明的脉动",
+      "onboard_time": 1681808426,
+      "rank": 39,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
