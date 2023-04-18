@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681837998640,
+  "endTime": 1681839202852,
   "band_list": [
     {
       "raw_hot": 1664469,
@@ -131,19 +131,19 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 261826,
+      "num": 87730,
+      "word": "山东一地要求公务人员回国后核酸",
+      "onboard_time": 1681835185,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258589,
       "num": 258589,
       "word": "男婴静脉被注射配方奶家长被瞒5天",
       "onboard_time": 1681812809,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258547,
-      "num": 87730,
-      "word": "山东一地要求公务人员回国后核酸",
-      "onboard_time": 1681835185,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
