@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681798949770,
+  "endTime": 1681799740696,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -107,6 +107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 2024050,
+      "num": 359159,
+      "word": "赌王三太气质",
+      "onboard_time": 1681795477,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2016041,
       "num": 2016041,
       "word": "甘肃临夏4人强奸案一审宣判",
@@ -120,14 +128,6 @@
       "word": "那英十年前为调休发声",
       "onboard_time": 1681739546,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1953519,
-      "num": 359159,
-      "word": "赌王三太气质",
-      "onboard_time": 1681795477,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 1078914,
-      "num": 318481,
+      "num": 323951,
       "word": "何超琼",
       "onboard_time": 1681796849,
       "rank": 13,
@@ -795,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 567722,
+      "num": 206986,
+      "word": "戚薇说130斤的我观感欠佳",
+      "onboard_time": 1681798227,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564834,
       "num": 372997,
       "word": "王鹤棣陈都灵CP超话",
@@ -1139,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409029,
-      "num": 206986,
-      "word": "戚薇说130斤的我观感欠佳",
-      "onboard_time": 1681798227,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 406977,
       "num": 406977,
       "word": "油价",
@@ -1347,6 +1347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353437,
+      "num": 353437,
+      "word": "张艺兴 福建平潭",
+      "onboard_time": 1681798227,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351320,
       "num": 351320,
       "word": "刘青云 掌声嘘声总好过无声",
@@ -1361,6 +1369,14 @@
       "onboard_time": 1681710026,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345491,
+      "num": 345491,
+      "word": "被撕雨衣女生回应网络传言",
+      "onboard_time": 1681797751,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343291,
@@ -1457,6 +1473,14 @@
       "onboard_time": 1681743629,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 318443,
+      "num": 161101,
+      "word": "张雨绮问这个节目没有男的是吧",
+      "onboard_time": 1681798469,
+      "rank": 30,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 315753,
@@ -1681,6 +1705,14 @@
       "onboard_time": 1681653629,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271299,
+      "num": 271299,
+      "word": "玉骨遥或将5月播出",
+      "onboard_time": 1681798951,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 271023,
@@ -1923,6 +1955,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 217249,
+      "num": 197432,
+      "word": "赵露思三亚拍摄花絮",
+      "onboard_time": 1681799490,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216885,
       "num": 175918,
       "word": "这不算躺平吧",
@@ -2019,14 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208638,
-      "num": 208638,
-      "word": "被撕雨衣女生回应网络传言",
-      "onboard_time": 1681797751,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208545,
       "num": 208545,
       "word": "长空之王险版预告",
@@ -2107,16 +2139,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205164,
-      "num": 195605,
-      "word": "张艺兴 福建平潭",
-      "onboard_time": 1681798227,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204851,
-      "num": 204851,
+      "raw_hot": 205047,
+      "num": 205047,
       "word": "薛之谦西安",
       "onboard_time": 1681797029,
       "rank": 23,
@@ -2195,6 +2219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197679,
+      "num": 197679,
+      "word": "苹果公司已注册DailyCash商标",
+      "onboard_time": 1681798409,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 197304,
       "num": 197304,
       "word": "BLACKPINK科切拉人气",
@@ -2259,6 +2291,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 196260,
+      "num": 196260,
+      "word": "女子推理社",
+      "onboard_time": 1681799490,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195373,
       "num": 195373,
       "word": "星舰",
@@ -2321,14 +2361,6 @@
       "onboard_time": 1681718248,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 192802,
-      "num": 149333,
-      "word": "张雨绮问这个节目没有男的是吧",
-      "onboard_time": 1681798469,
-      "rank": 30,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 192601,
@@ -2425,14 +2457,6 @@
       "onboard_time": 1681791574,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 186635,
-      "num": 186635,
-      "word": "苹果公司已注册DailyCash商标",
-      "onboard_time": 1681798409,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 186499,
@@ -2811,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153888,
+      "num": 153888,
+      "word": "李雪琴称呼宋茜维多利亚女士",
+      "onboard_time": 1681797510,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152605,
       "num": 152605,
       "word": "2023年调休一览表",
@@ -2897,14 +2929,6 @@
       "onboard_time": 1681798409,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149470,
-      "num": 149470,
-      "word": "李雪琴称呼宋茜维多利亚女士",
-      "onboard_time": 1681797510,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 149155,
@@ -3185,6 +3209,14 @@
       "onboard_time": 1681715727,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122122,
+      "num": 122122,
+      "word": "茉莉花茶毛肚",
+      "onboard_time": 1681799188,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 121602,

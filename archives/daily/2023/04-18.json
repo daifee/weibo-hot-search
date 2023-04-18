@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681798949770,
+  "endTime": 1681799740696,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1953519,
+      "raw_hot": 2024050,
       "num": 359159,
       "word": "赌王三太气质",
       "onboard_time": 1681795477,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1078914,
-      "num": 318481,
+      "num": 323951,
       "word": "何超琼",
       "onboard_time": 1681796849,
       "rank": 13,
@@ -265,6 +265,14 @@
       "onboard_time": 1681741890,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 567722,
+      "num": 206986,
+      "word": "戚薇说130斤的我观感欠佳",
+      "onboard_time": 1681798227,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 537251,
@@ -403,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409029,
-      "num": 206986,
-      "word": "戚薇说130斤的我观感欠佳",
-      "onboard_time": 1681798227,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 386209,
       "num": 386209,
       "word": "在微信状态养个懒羊羊",
@@ -499,6 +499,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 353437,
+      "num": 353437,
+      "word": "张艺兴 福建平潭",
+      "onboard_time": 1681798227,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 345491,
+      "num": 345491,
+      "word": "被撕雨衣女生回应网络传言",
+      "onboard_time": 1681797751,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336869,
       "num": 336869,
       "word": "专家建议固定法定假日时间",
@@ -521,6 +537,14 @@
       "onboard_time": 1681744826,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318443,
+      "num": 161101,
+      "word": "张雨绮问这个节目没有男的是吧",
+      "onboard_time": 1681798469,
+      "rank": 30,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 311988,
@@ -643,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 271299,
+      "num": 271299,
+      "word": "玉骨遥或将5月播出",
+      "onboard_time": 1681798951,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265350,
       "num": 265350,
       "word": "姜涛曾参加快乐男声",
@@ -739,6 +771,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 217249,
+      "num": 197432,
+      "word": "赵露思三亚拍摄花絮",
+      "onboard_time": 1681799490,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213571,
       "num": 213571,
       "word": "悲情城市",
@@ -769,14 +809,6 @@
       "onboard_time": 1681795412,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208638,
-      "num": 208638,
-      "word": "被撕雨衣女生回应网络传言",
-      "onboard_time": 1681797751,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208545,
@@ -811,16 +843,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205164,
-      "num": 195605,
-      "word": "张艺兴 福建平潭",
-      "onboard_time": 1681798227,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204851,
-      "num": 204851,
+      "raw_hot": 205047,
+      "num": 205047,
       "word": "薛之谦西安",
       "onboard_time": 1681797029,
       "rank": 23,
@@ -875,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197679,
+      "num": 197679,
+      "word": "苹果公司已注册DailyCash商标",
+      "onboard_time": 1681798409,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 197224,
       "num": 197224,
       "word": "更适合00后体质的生日",
@@ -889,6 +921,14 @@
       "onboard_time": 1681781847,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196260,
+      "num": 196260,
+      "word": "女子推理社",
+      "onboard_time": 1681799490,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 195373,
@@ -923,14 +963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 192802,
-      "num": 149333,
-      "word": "张雨绮问这个节目没有男的是吧",
-      "onboard_time": 1681798469,
-      "rank": 30,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 191889,
       "num": 191889,
       "word": "张颂文小米影像探索家",
@@ -953,14 +985,6 @@
       "onboard_time": 1681791574,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 186635,
-      "num": 186635,
-      "word": "苹果公司已注册DailyCash商标",
-      "onboard_time": 1681798409,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 185537,
@@ -1083,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153888,
+      "num": 153888,
+      "word": "李雪琴称呼宋茜维多利亚女士",
+      "onboard_time": 1681797510,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151957,
       "num": 151957,
       "word": "刷短视频算不算阅读",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1681798409,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149470,
-      "num": 149470,
-      "word": "李雪琴称呼宋茜维多利亚女士",
-      "onboard_time": 1681797510,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 149155,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1681783286,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122122,
+      "num": 122122,
+      "word": "茉莉花茶毛肚",
+      "onboard_time": 1681799188,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 122060,

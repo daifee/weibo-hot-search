@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681798949770,
+  "endTime": 1681799740696,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1267,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2024050,
+      "num": 359159,
+      "word": "赌王三太气质",
+      "onboard_time": 1681795477,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2016041,
       "num": 2016041,
       "word": "甘肃临夏4人强奸案一审宣判",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1681088489,
       "rank": 0,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1953519,
-      "num": 359159,
-      "word": "赌王三太气质",
-      "onboard_time": 1681795477,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 1952598,
@@ -3708,7 +3708,7 @@
     },
     {
       "raw_hot": 1078914,
-      "num": 318481,
+      "num": 323951,
       "word": "何超琼",
       "onboard_time": 1681796849,
       "rank": 13,
@@ -8947,6 +8947,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 567722,
+      "num": 206986,
+      "word": "戚薇说130斤的我观感欠佳",
+      "onboard_time": 1681798227,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567268,
       "num": 567268,
       "word": "女生穿洛丽塔5秒反超跑第1",
@@ -13123,14 +13131,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 409029,
-      "num": 206986,
-      "word": "戚薇说130斤的我观感欠佳",
-      "onboard_time": 1681798227,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 408952,
       "num": 408952,
       "word": "长月烬明带动优酷APP下载量登顶",
@@ -15123,6 +15123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353437,
+      "num": 353437,
+      "word": "张艺兴 福建平潭",
+      "onboard_time": 1681798227,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353175,
       "num": 353175,
       "word": "topik",
@@ -15481,6 +15489,14 @@
       "onboard_time": 1680962551,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 345491,
+      "num": 345491,
+      "word": "被撕雨衣女生回应网络传言",
+      "onboard_time": 1681797751,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345281,
@@ -16633,6 +16649,14 @@
       "onboard_time": 1681056505,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 318443,
+      "num": 161101,
+      "word": "张雨绮问这个节目没有男的是吧",
+      "onboard_time": 1681798469,
+      "rank": 30,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 318363,
@@ -19048,6 +19072,14 @@
       "word": "消失的她剧照消失",
       "onboard_time": 1680331470,
       "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271299,
+      "num": 271299,
+      "word": "玉骨遥或将5月播出",
+      "onboard_time": 1681798951,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -23203,6 +23235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217249,
+      "num": 197432,
+      "word": "赵露思三亚拍摄花絮",
+      "onboard_time": 1681799490,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217215,
       "num": 171514,
       "word": "宋雨琦喊李晨晨叔叔",
@@ -24171,14 +24211,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 208638,
-      "num": 208638,
-      "word": "被撕雨衣女生回应网络传言",
-      "onboard_time": 1681797751,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208618,
       "num": 208618,
       "word": "金晨翻跳金智秀Flower",
@@ -25003,14 +25035,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205164,
-      "num": 195605,
-      "word": "张艺兴 福建平潭",
-      "onboard_time": 1681798227,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 205159,
       "num": 205159,
       "word": "赵丽颖与海鸥随拍",
@@ -25032,6 +25056,14 @@
       "word": "严浩翔原创单曲H",
       "onboard_time": 1681006465,
       "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 205047,
+      "num": 205047,
+      "word": "薛之谦西安",
+      "onboard_time": 1681797029,
+      "rank": 23,
       "category": "音乐"
     },
     {
@@ -25081,14 +25113,6 @@
       "onboard_time": 1680513150,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 204851,
-      "num": 204851,
-      "word": "薛之谦西安",
-      "onboard_time": 1681797029,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 204836,
@@ -27195,6 +27219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197679,
+      "num": 197679,
+      "word": "苹果公司已注册DailyCash商标",
+      "onboard_time": 1681798409,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 197619,
       "num": 197619,
       "word": "不生孩子的想法会随着年龄改变吗",
@@ -28561,14 +28593,6 @@
       "onboard_time": 1680797243,
       "rank": 23,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 192802,
-      "num": 149333,
-      "word": "张雨绮问这个节目没有男的是吧",
-      "onboard_time": 1681798469,
-      "rank": 30,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 192787,
@@ -29985,14 +30009,6 @@
       "onboard_time": 1680769051,
       "rank": 40,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 186635,
-      "num": 186635,
-      "word": "苹果公司已注册DailyCash商标",
-      "onboard_time": 1681798409,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 186516,
@@ -34483,6 +34499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153888,
+      "num": 153888,
+      "word": "李雪琴称呼宋茜维多利亚女士",
+      "onboard_time": 1681797510,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153866,
       "num": 153866,
       "word": "大屏上的长月烬明海报",
@@ -35113,14 +35137,6 @@
       "onboard_time": 1681178725,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149470,
-      "num": 149470,
-      "word": "李雪琴称呼宋茜维多利亚女士",
-      "onboard_time": 1681797510,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 149390,
@@ -38289,6 +38305,14 @@
       "onboard_time": 1680937824,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122122,
+      "num": 122122,
+      "word": "茉莉花茶毛肚",
+      "onboard_time": 1681799188,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 121983,

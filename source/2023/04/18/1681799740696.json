@@ -1,0 +1,410 @@
+{
+  "runTime": 1681799740696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1600731,
+        "num": 1600731,
+        "word": "格林真脏",
+        "onboard_time": 1681792299,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1096629,
+        "num": 1096629,
+        "word": "你还在用余额宝吗",
+        "onboard_time": 1681786946,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 51608,
+        "num": 561856,
+        "word": "我为家乡特色美食来代言",
+        "onboard_time": 1681790311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2429014,
+        "num": 537217,
+        "word": "窦骁何超莲官宣婚礼",
+        "onboard_time": 1681794096,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470471,
+        "num": 470471,
+        "word": "赵丽颖林更新谈再合作感受",
+        "onboard_time": 1681793316,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 453270,
+        "num": 453270,
+        "word": "易烊千玺专辑封面是巩俐",
+        "onboard_time": 1681791870,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 452564,
+        "num": 452564,
+        "word": "数名外籍女子晒中国游引出偷渡案",
+        "onboard_time": 1681781367,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 411925,
+        "num": 411925,
+        "word": "左肩有你 振兴钢厂",
+        "onboard_time": 1681778068,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371279,
+        "num": 371279,
+        "word": "库里生涯首次落后",
+        "onboard_time": 1681794334,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353437,
+        "num": 353437,
+        "word": "张艺兴 福建平潭",
+        "onboard_time": 1681798227,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2024050,
+        "num": 351552,
+        "word": "赌王三太气质",
+        "onboard_time": 1681795477,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345491,
+        "num": 345491,
+        "word": "被撕雨衣女生回应网络传言",
+        "onboard_time": 1681797751,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330845,
+        "num": 330845,
+        "word": "离职后你一般怎么退出工作群",
+        "onboard_time": 1681788449,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1046430,
+        "num": 323951,
+        "word": "何超琼",
+        "onboard_time": 1681796849,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276231,
+        "num": 276231,
+        "word": "瓣人选的95花四美",
+        "onboard_time": 1681791814,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271299,
+        "num": 271299,
+        "word": "玉骨遥或将5月播出",
+        "onboard_time": 1681798951,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265280,
+        "num": 265280,
+        "word": "专家建议固定法定假日时间",
+        "onboard_time": 1681793256,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252537,
+        "num": 252537,
+        "word": "国内检出多例XBB.1.16",
+        "onboard_time": 1681784726,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228605,
+        "num": 228605,
+        "word": "感觉新冠不再来了还用打疫苗吗",
+        "onboard_time": 1681778611,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 205047,
+        "num": 205047,
+        "word": "薛之谦西安",
+        "onboard_time": 1681797029,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 567722,
+        "num": 204687,
+        "word": "戚薇说130斤的我观感欠佳",
+        "onboard_time": 1681798227,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553182,
+        "num": 204608,
+        "word": "48岁妈妈参加恋综被说像偶像剧女主",
+        "onboard_time": 1681795829,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261481,
+        "num": 204513,
+        "word": "女子85元买椰子螺开出4.52克美乐珠",
+        "onboard_time": 1681789529,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204230,
+        "num": 204230,
+        "word": "虞书欣黑粉拒不道歉被法院公告",
+        "onboard_time": 1681791814,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 197679,
+        "num": 197679,
+        "word": "苹果公司已注册DailyCash商标",
+        "onboard_time": 1681798409,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 227621,
+        "num": 197618,
+        "word": "胖虎这次绝不会错过刘艳芬",
+        "onboard_time": 1681793915,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217249,
+        "num": 197432,
+        "word": "赵露思三亚拍摄花絮",
+        "onboard_time": 1681799490,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196260,
+        "num": 196260,
+        "word": "女子推理社",
+        "onboard_time": 1681799490,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187779,
+        "num": 187779,
+        "word": "新生儿落户被标注文盲",
+        "onboard_time": 1681781786,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162256,
+        "num": 162256,
+        "word": "印尼为35万在台劳工制定撤侨计划",
+        "onboard_time": 1681786346,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318443,
+        "num": 161101,
+        "word": "张雨绮问这个节目没有男的是吧",
+        "onboard_time": 1681798469,
+        "rank": 30,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 188515,
+        "num": 157675,
+        "word": "消失的她",
+        "onboard_time": 1681793316,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153888,
+        "num": 153888,
+        "word": "李雪琴称呼宋茜维多利亚女士",
+        "onboard_time": 1681797510,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138024,
+        "num": 138024,
+        "word": "徐怀钰贾静雯 乘风破浪",
+        "onboard_time": 1681789829,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126594,
+        "num": 126594,
+        "word": "iPhone15Pro系列升级Action按钮交互",
+        "onboard_time": 1681788508,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 123422,
+        "num": 123422,
+        "word": "田柾国将正式solo出道",
+        "onboard_time": 1681790972,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122122,
+        "num": 122122,
+        "word": "茉莉花茶毛肚",
+        "onboard_time": 1681799188,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120583,
+        "num": 120583,
+        "word": "丫丫乐乐回国申请进入最后审核",
+        "onboard_time": 1681787186,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117224,
+        "num": 117224,
+        "word": "警方通报村民疑被当成猎物遭枪击死亡",
+        "onboard_time": 1681785684,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113180,
+        "num": 113180,
+        "word": "COA6全球总决赛",
+        "onboard_time": 1681798409,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121022,
+        "num": 112904,
+        "word": "时代少年团海口演唱会官宣",
+        "onboard_time": 1681789888,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118199,
+        "num": 112680,
+        "word": "何广智为什么跪着玩游戏",
+        "onboard_time": 1681797389,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112101,
+        "num": 112101,
+        "word": "比亚迪",
+        "onboard_time": 1681786707,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 107727,
+        "num": 107727,
+        "word": "iOS17将允许非官方商店的应用程序",
+        "onboard_time": 1681785208,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 107323,
+        "num": 107323,
+        "word": "光遇 红狐狸",
+        "onboard_time": 1681791752,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99001,
+        "num": 99001,
+        "word": "现在的笔都这么高级了吗",
+        "onboard_time": 1681787368,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98550,
+        "num": 98550,
+        "word": "追梦格林被驱逐",
+        "onboard_time": 1681792715,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96200,
+        "num": 96200,
+        "word": "女子推理社开播",
+        "onboard_time": 1681795477,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94977,
+        "num": 94977,
+        "word": "乘风破浪4一公选曲分组",
+        "onboard_time": 1681784067,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93808,
+        "num": 93808,
+        "word": "周杰伦向网易索赔205万元",
+        "onboard_time": 1681777769,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以学铸魂坚定理想信念#"
+    }
+  }
+}
