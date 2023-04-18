@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681785754992,
+  "endTime": 1681787883741,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -115,6 +115,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1833510,
+      "num": 828103,
+      "word": "窦骁何超莲婚礼现场图",
+      "onboard_time": 1681786645,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1761628,
       "num": 500630,
       "word": "杨幂聚餐",
@@ -201,6 +209,14 @@
       "onboard_time": 1681677612,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1427414,
+      "num": 1427414,
+      "word": "徐怀钰 贾静雯",
+      "onboard_time": 1681786590,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1419966,
@@ -297,6 +313,14 @@
       "onboard_time": 1681704210,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1040877,
+      "num": 522583,
+      "word": "你还在用余额宝吗",
+      "onboard_time": 1681786946,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1014795,
@@ -441,6 +465,14 @@
       "onboard_time": 1681676711,
       "rank": 45,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 728527,
+      "num": 728527,
+      "word": "国内检出多例XBB.1.16",
+      "onboard_time": 1681784726,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 723212,
@@ -723,12 +755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 512018,
-      "num": 431882,
-      "word": "国内检出多例XBB.1.16",
-      "onboard_time": 1681784726,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 511119,
+      "num": 511119,
+      "word": "迪丽热巴再现复古名伶",
+      "onboard_time": 1681787008,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 509630,
@@ -851,8 +883,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451163,
-      "num": 451163,
+      "raw_hot": 456240,
+      "num": 456240,
       "word": "乘风破浪4一公选曲分组",
       "onboard_time": 1681784067,
       "rank": 15,
@@ -905,6 +937,14 @@
       "onboard_time": 1681727549,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 439488,
+      "num": 439488,
+      "word": "iOS17将允许非官方商店的应用程序",
+      "onboard_time": 1681785208,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 430395,
@@ -1057,6 +1097,14 @@
       "onboard_time": 1681783885,
       "rank": 16,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 371698,
+      "num": 371698,
+      "word": "泼水节被撕雨衣女生选择不立案",
+      "onboard_time": 1681785806,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368748,
@@ -1235,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300141,
+      "num": 300141,
+      "word": "刘艳芬重出江湖",
+      "onboard_time": 1681785987,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 299808,
       "num": 295935,
       "word": "范丞丞听到李晨声音的反应",
@@ -1379,12 +1435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279603,
+      "num": 279603,
+      "word": "比亚迪",
+      "onboard_time": 1681786707,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 279241,
       "num": 279241,
       "word": "大学教育现状",
       "onboard_time": 1681746684,
       "rank": 23,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 277943,
+      "num": 277943,
+      "word": "警方通报村民疑被当成猎物遭枪击死亡",
+      "onboard_time": 1681785684,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276168,
@@ -1435,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262338,
+      "num": 262338,
+      "word": "八角笼中定档",
+      "onboard_time": 1681785626,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254615,
       "num": 254615,
       "word": "腿粗是因为走路姿势不对",
@@ -1465,6 +1545,14 @@
       "onboard_time": 1681728570,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243688,
+      "num": 243688,
+      "word": "印尼为35万在台劳工制定撤侨计划",
+      "onboard_time": 1681786346,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234495,
@@ -1619,14 +1707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214910,
-      "num": 214910,
-      "word": "iOS17将允许非官方商店的应用程序",
-      "onboard_time": 1681785208,
-      "rank": 25,
-      "category": "科技"
-    },
-    {
       "raw_hot": 214084,
       "num": 214084,
       "word": "小米13ultra",
@@ -1681,6 +1761,22 @@
       "onboard_time": 1681784666,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208272,
+      "num": 208272,
+      "word": "勇士VS国王",
+      "onboard_time": 1681784906,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207805,
+      "num": 207805,
+      "word": "勇士好多失误",
+      "onboard_time": 1681787247,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 207708,
@@ -1745,14 +1841,6 @@
       "onboard_time": 1681719149,
       "rank": 24,
       "category": "科技"
-    },
-    {
-      "raw_hot": 202383,
-      "num": 202383,
-      "word": "八角笼中定档",
-      "onboard_time": 1681785626,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 201091,
@@ -1923,14 +2011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189950,
-      "num": 189950,
-      "word": "勇士VS国王",
-      "onboard_time": 1681784906,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 189633,
       "num": 188844,
       "word": "战火中的青春",
@@ -2041,6 +2121,14 @@
       "onboard_time": 1681706910,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 180188,
+      "num": 180188,
+      "word": "电影检察风云预售开启",
+      "onboard_time": 1681786590,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 179756,
@@ -2235,6 +2323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161660,
+      "num": 161660,
+      "word": "丫丫乐乐回国申请进入最后审核",
+      "onboard_time": 1681787186,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161657,
+      "num": 161657,
+      "word": "现在的笔都这么高级了吗",
+      "onboard_time": 1681787368,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161524,
       "num": 179025,
       "word": "nova11首发人像新技术",
@@ -2321,6 +2425,14 @@
       "onboard_time": 1681721307,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151957,
+      "num": 151957,
+      "word": "刷短视频算不算阅读",
+      "onboard_time": 1681787489,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 151684,
@@ -2515,6 +2627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135998,
+      "num": 135998,
+      "word": "海鸥售价",
+      "onboard_time": 1681787667,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 135860,
       "num": 135860,
       "word": "错过一个很爱的人是怎样的",
@@ -2569,6 +2689,14 @@
       "onboard_time": 1681731624,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129102,
+      "num": 129102,
+      "word": "都暻秀好像只会跳EXO的舞",
+      "onboard_time": 1681787847,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128577,
@@ -2641,14 +2769,6 @@
       "onboard_time": 1681715727,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122673,
-      "num": 122673,
-      "word": "警方通报村民疑被当成猎物遭枪击死亡",
-      "onboard_time": 1681785684,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121602,
@@ -3052,7 +3172,7 @@
     },
     {
       "raw_hot": 80504,
-      "num": 115757,
+      "num": 125816,
       "word": "彩虹瀑布 忘不掉的奇景",
       "onboard_time": 1681782145,
       "rank": 49,
