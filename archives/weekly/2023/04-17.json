@@ -1,7 +1,15 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681792472432,
+  "endTime": 1681794967963,
   "band_list": [
+    {
+      "raw_hot": 5110743,
+      "num": 1224808,
+      "word": "窦骁何超莲官宣婚礼",
+      "onboard_time": 1681794096,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4893886,
       "num": 4893886,
@@ -25,6 +33,14 @@
       "onboard_time": 1681716747,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3313365,
+      "num": 3313365,
+      "word": "格林真脏",
+      "onboard_time": 1681792299,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 3253855,
@@ -347,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1075192,
+      "num": 1075192,
+      "word": "赵丽颖林更新谈再合作感受",
+      "onboard_time": 1681793316,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1014795,
       "num": 977180,
       "word": "臀部发力的走路姿势我真的悟了",
@@ -499,14 +523,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 731572,
-      "num": 731572,
-      "word": "格林真脏",
-      "onboard_time": 1681792299,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 728527,
       "num": 728527,
       "word": "国内检出多例XBB.1.16",
@@ -545,6 +561,14 @@
       "onboard_time": 1681778307,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 686559,
+      "num": 686559,
+      "word": "易烊千玺专辑封面是巩俐",
+      "onboard_time": 1681791870,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 679159,
@@ -747,14 +771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 564774,
-      "num": 564774,
-      "word": "易烊千玺专辑封面是巩俐",
-      "onboard_time": 1681791870,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 550394,
       "num": 2283580,
       "word": "一高中连续17年包绿皮火车游学",
@@ -771,6 +787,22 @@
       "category": "艺人,科技"
     },
     {
+      "raw_hot": 539574,
+      "num": 539574,
+      "word": "瓣人选的95花四美",
+      "onboard_time": 1681791814,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 537251,
+      "num": 366380,
+      "word": "女子85元买椰子螺开出4.52克美乐珠",
+      "onboard_time": 1681789529,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534680,
       "num": 534680,
       "word": "从奖学金到助学金",
@@ -785,14 +817,6 @@
       "onboard_time": 1681774221,
       "rank": 44,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 533242,
-      "num": 366380,
-      "word": "女子85元买椰子螺开出4.52克美乐珠",
-      "onboard_time": 1681789529,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 529579,
@@ -897,6 +921,14 @@
       "onboard_time": 1681789888,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 468121,
+      "num": 468121,
+      "word": "追梦格林被驱逐",
+      "onboard_time": 1681792715,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 464455,
@@ -1067,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414842,
+      "num": 414842,
+      "word": "虞书欣黑粉拒不道歉被法院公告",
+      "onboard_time": 1681791814,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 412565,
       "num": 412565,
       "word": "哪些人属于胃癌高危人群",
@@ -1136,6 +1176,14 @@
       "word": "下周就能看五一档新片了",
       "onboard_time": 1681735286,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 384897,
+      "num": 384897,
+      "word": "消失的她",
+      "onboard_time": 1681793316,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -1339,14 +1387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 320493,
-      "num": 320493,
-      "word": "虞书欣黑粉拒不道歉被法院公告",
-      "onboard_time": 1681791814,
-      "rank": 22,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 319105,
       "num": 319105,
       "word": "深圳男篮直接晋级半决赛",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1681781246,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309729,
+      "num": 285350,
+      "word": "胖虎这次绝不会错过刘艳芬",
+      "onboard_time": 1681793915,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 303655,
@@ -1521,6 +1569,14 @@
       "onboard_time": 1681747944,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 281077,
+      "num": 281077,
+      "word": "专家建议固定法定假日时间",
+      "onboard_time": 1681793256,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280961,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1681791451,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 237543,
+      "num": 226540,
+      "word": "萨摩有点什么你接着说啊",
+      "onboard_time": 1681793977,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 234495,
@@ -1939,6 +2003,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 207227,
+      "num": 207227,
+      "word": "库里生涯首次落后",
+      "onboard_time": 1681794334,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207041,
       "num": 207041,
       "word": "周也林华珺的一滴泪",
@@ -1987,14 +2059,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 202939,
-      "num": 202939,
-      "word": "瓣人选的95花四美",
-      "onboard_time": 1681791814,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 201609,
       "num": 201609,
       "word": "北京电影节",
@@ -2009,6 +2073,14 @@
       "onboard_time": 1681732285,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200436,
+      "num": 200436,
+      "word": "国王2比0勇士",
+      "onboard_time": 1681794034,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 200180,
@@ -2259,6 +2331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186846,
+      "num": 186846,
+      "word": "甲仑榴莲",
+      "onboard_time": 1681791574,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186499,
       "num": 186499,
       "word": "华为笔记本首发超材料天线技术",
@@ -2475,6 +2555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167094,
+      "num": 169650,
+      "word": "F1官宣首日表演嘉宾王嘉尔",
+      "onboard_time": 1681793617,
+      "rank": 42,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 166661,
       "num": 166661,
       "word": "没有他俩腿早好了",
@@ -2609,14 +2697,6 @@
       "onboard_time": 1681721307,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152063,
-      "num": 152063,
-      "word": "甲仑榴莲",
-      "onboard_time": 1681791574,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 151957,
@@ -3356,7 +3436,7 @@
     },
     {
       "raw_hot": 83728,
-      "num": 1106373,
+      "num": 1299801,
       "word": "我为家乡特色美食来代言",
       "onboard_time": 1681790311,
       "rank": 2,
