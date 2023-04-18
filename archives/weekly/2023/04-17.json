@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681832078090,
+  "endTime": 1681834773301,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -241,6 +241,14 @@
       "onboard_time": 1681731267,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1664469,
+      "num": 306597,
+      "word": "何超莲称婚礼是窦骁一手包办",
+      "onboard_time": 1681832549,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1649607,
@@ -1315,6 +1323,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 451249,
+      "num": 451249,
+      "word": "存够多少钱才会有安全感",
+      "onboard_time": 1681829852,
+      "rank": 34,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 451120,
       "num": 451120,
       "word": "特斯拉中国工厂普通工人月薪1万块",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1681650449,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447586,
+      "num": 201770,
+      "word": "广东男子驾驶宝马撞死5人被判死刑",
+      "onboard_time": 1681831531,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 446824,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1681702106,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423418,
+      "num": 423418,
+      "word": "赵丽颖古装",
+      "onboard_time": 1681832010,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 422686,
@@ -1651,14 +1683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368102,
-      "num": 184666,
-      "word": "广东男子驾驶宝马撞死5人被判死刑",
-      "onboard_time": 1681831531,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 366906,
       "num": 366906,
       "word": "SMTOWN遭扣押搜查",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1681786707,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 362802,
+      "num": 362802,
+      "word": "让浴室地面倾斜十五度",
+      "onboard_time": 1681829731,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 362633,
@@ -1835,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328915,
+      "num": 302033,
+      "word": "马嘉祺说如果有人骂魏如萱我就去骂他",
+      "onboard_time": 1681832248,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328211,
       "num": 374866,
       "word": "煤气灯效应",
@@ -1915,14 +1955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315755,
-      "num": 294030,
-      "word": "让浴室地面倾斜十五度",
-      "onboard_time": 1681829731,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 315753,
       "num": 315753,
       "word": "美国警察搞错出警地址后误杀房主",
@@ -1931,12 +1963,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314404,
-      "num": 314404,
-      "word": "存够多少钱才会有安全感",
-      "onboard_time": 1681829852,
-      "rank": 34,
-      "category": "社会议题"
+      "raw_hot": 314060,
+      "num": 314060,
+      "word": "如何评价王嘉尔二登科切拉",
+      "onboard_time": 1681830570,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 311988,
@@ -1960,6 +1992,14 @@
       "word": "澹台烬伤心灭魂钉会退回",
       "onboard_time": 1681822288,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 308772,
+      "num": 308772,
+      "word": "叶冰裳彻底黑化",
+      "onboard_time": 1681832130,
+      "rank": 9,
       "category": "影视"
     },
     {
@@ -2307,6 +2347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257052,
+      "num": 197799,
+      "word": "入职了家全是关系户的公司",
+      "onboard_time": 1681831229,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 254615,
       "num": 254615,
       "word": "腿粗是因为走路姿势不对",
@@ -2321,6 +2369,14 @@
       "onboard_time": 1681827093,
       "rank": 38,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 250757,
+      "num": 191289,
+      "word": "忽然发现了上班的意义",
+      "onboard_time": 1681831649,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 249734,
@@ -2577,6 +2633,14 @@
       "onboard_time": 1681806866,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218387,
+      "num": 218387,
+      "word": "易小星说范丞丞自带一种憨憨的喜感",
+      "onboard_time": 1681831590,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 217988,
@@ -3049,14 +3113,6 @@
       "onboard_time": 1681773379,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 194633,
-      "num": 194633,
-      "word": "如何评价王嘉尔二登科切拉",
-      "onboard_time": 1681830570,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 194439,
@@ -3635,14 +3691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 160837,
-      "num": 160837,
-      "word": "易小星说范丞丞自带一种憨憨的喜感",
-      "onboard_time": 1681831590,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160535,
       "num": 160535,
       "word": "马斯克的AI项目命名为TruthGPT",
@@ -3883,14 +3931,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 147821,
-      "num": 147821,
-      "word": "入职了家全是关系户的公司",
-      "onboard_time": 1681831229,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 147480,
       "num": 147480,
       "word": "林俊杰新歌愿与愁",
@@ -4115,6 +4155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129477,
+      "num": 129477,
+      "word": "宣城来抢长月烬明了",
+      "onboard_time": 1681833266,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129432,
       "num": 129432,
       "word": "淄博烧烤为何火遍全国",
@@ -4249,6 +4297,14 @@
       "onboard_time": 1681828052,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119872,
+      "num": 119872,
+      "word": "杭州好多演唱会",
+      "onboard_time": 1681832488,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 119852,
@@ -4507,14 +4563,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 101565,
-      "num": 101565,
-      "word": "赵丽颖古装",
-      "onboard_time": 1681832010,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 101539,
       "num": 101539,
       "word": "GOT7聚会合照",
@@ -4555,14 +4603,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 98107,
-      "num": 98107,
-      "word": "忽然发现了上班的意义",
-      "onboard_time": 1681831649,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96952,
       "num": 199843,
       "word": "长空之王路演开启",
@@ -4593,6 +4633,14 @@
       "onboard_time": 1681692807,
       "rank": 46,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 96433,
+      "num": 96433,
+      "word": "肖俊沈小婷舞蹈挑战",
+      "onboard_time": 1681834346,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 96289,
