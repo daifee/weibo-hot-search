@@ -1,0 +1,410 @@
+{
+  "runTime": 1681785754992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1498954,
+        "num": 1498954,
+        "word": "感觉新冠不再来了还用打疫苗吗",
+        "onboard_time": 1681778611,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 881604,
+        "num": 881604,
+        "word": "数名外籍女子晒中国游引出偷渡案",
+        "onboard_time": 1681781367,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 55876,
+        "num": 873658,
+        "word": "这些旅游专列卷起来了",
+        "onboard_time": 1681737749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1452230,
+        "num": 873243,
+        "word": "女生称陪嫁300万男友更急着结婚",
+        "onboard_time": 1681778549,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 869107,
+        "num": 869107,
+        "word": "易烊千玺新专辑刘艳芬",
+        "onboard_time": 1681783885,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 723212,
+        "num": 723212,
+        "word": "新生儿落户被标注文盲",
+        "onboard_time": 1681781786,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687256,
+        "num": 687256,
+        "word": "左肩有你 振兴钢厂",
+        "onboard_time": 1681778068,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 613215,
+        "num": 613215,
+        "word": "宋茜说分手还可以做朋友",
+        "onboard_time": 1681778307,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484273,
+        "num": 484273,
+        "word": "苹果版余额宝上线",
+        "onboard_time": 1681782748,
+        "rank": 8,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 451163,
+        "num": 451163,
+        "word": "乘风破浪4一公选曲分组",
+        "onboard_time": 1681784067,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715931,
+        "num": 438934,
+        "word": "刘雯好薄",
+        "onboard_time": 1681774462,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 520320,
+        "num": 432309,
+        "word": "周杰伦向网易索赔205万元",
+        "onboard_time": 1681777769,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 512018,
+        "num": 431882,
+        "word": "国内检出多例XBB.1.16",
+        "onboard_time": 1681784726,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412565,
+        "num": 412565,
+        "word": "哪些人属于胃癌高危人群",
+        "onboard_time": 1681782027,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84437,
+        "num": 400939,
+        "word": "总要去一次黄河三角洲吧",
+        "onboard_time": 1681783225,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389369,
+        "num": 389369,
+        "word": "2023考研报录比约6比1",
+        "onboard_time": 1681779089,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 376698,
+        "num": 376698,
+        "word": "今年一季度GDP同比增长4.5%",
+        "onboard_time": 1681783885,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 366906,
+        "num": 366906,
+        "word": "SMTOWN遭扣押搜查",
+        "onboard_time": 1681783407,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 351929,
+        "num": 351929,
+        "word": "臀部发力的走路姿势我真的悟了",
+        "onboard_time": 1681743572,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336455,
+        "num": 336455,
+        "word": "杨幂聚餐",
+        "onboard_time": 1681742311,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282422,
+        "num": 282422,
+        "word": "黄牛你不要太离谱",
+        "onboard_time": 1681781546,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262549,
+        "num": 262549,
+        "word": "要离职了被同事要求请吃饭",
+        "onboard_time": 1681744709,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246009,
+        "num": 246009,
+        "word": "长沙暴雨",
+        "onboard_time": 1681781246,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245630,
+        "num": 245630,
+        "word": "长月烬明发布理性追剧声明",
+        "onboard_time": 1681777410,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217986,
+        "num": 217986,
+        "word": "张含韵 没想到30岁会这么好",
+        "onboard_time": 1681744290,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214910,
+        "num": 214910,
+        "word": "iOS17将允许非官方商店的应用程序",
+        "onboard_time": 1681785208,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 202383,
+        "num": 202383,
+        "word": "八角笼中定档",
+        "onboard_time": 1681785626,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200313,
+        "num": 200313,
+        "word": "特斯拉又在美国发生致命车祸",
+        "onboard_time": 1681781489,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198601,
+        "num": 198601,
+        "word": "腿粗是因为走路姿势不对",
+        "onboard_time": 1681781009,
+        "rank": 28,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 197897,
+        "num": 197897,
+        "word": "仰望U8预售价",
+        "onboard_time": 1681784188,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 191889,
+        "num": 191889,
+        "word": "张颂文小米影像探索家",
+        "onboard_time": 1681785025,
+        "rank": 30,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 206673,
+        "num": 191406,
+        "word": "提高免疫力要从人类幼崽抓起",
+        "onboard_time": 1681785146,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184021,
+        "num": 190168,
+        "word": "长空之王险版预告",
+        "onboard_time": 1681784666,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189950,
+        "num": 189950,
+        "word": "勇士VS国王",
+        "onboard_time": 1681784906,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184064,
+        "num": 184064,
+        "word": "丁程鑫北电汇演人世间剧照",
+        "onboard_time": 1681784305,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171787,
+        "num": 171787,
+        "word": "老师出门散步顺手救了个人",
+        "onboard_time": 1681781608,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169972,
+        "num": 169972,
+        "word": "从奖学金到助学金",
+        "onboard_time": 1681774762,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 162989,
+        "num": 162989,
+        "word": "长期戴耳机",
+        "onboard_time": 1681750100,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150830,
+        "num": 150830,
+        "word": "山东人均存款8.37万",
+        "onboard_time": 1681777288,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 147940,
+        "num": 147940,
+        "word": "小鹏G6",
+        "onboard_time": 1681785445,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 135136,
+        "num": 135136,
+        "word": "上海车展",
+        "onboard_time": 1681782387,
+        "rank": 40,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 131667,
+        "num": 131667,
+        "word": "虞书欣丁禹兮 黑莲花",
+        "onboard_time": 1681741890,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122673,
+        "num": 122673,
+        "word": "警方通报村民疑被当成猎物遭枪击死亡",
+        "onboard_time": 1681785684,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119699,
+        "num": 119699,
+        "word": "厦门暴雨",
+        "onboard_time": 1681777047,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116108,
+        "num": 116108,
+        "word": "NBA季后赛",
+        "onboard_time": 1681778549,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85278,
+        "num": 116041,
+        "word": "年轻人游古城的正确打开方式",
+        "onboard_time": 1681781426,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 93720,
+        "num": 115934,
+        "word": "将来的智能汽车什么样",
+        "onboard_time": 1681784246,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80504,
+        "num": 115757,
+        "word": "彩虹瀑布 忘不掉的奇景",
+        "onboard_time": 1681782145,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 51411,
+        "num": 115603,
+        "word": "不要低估川渝地区的微辣",
+        "onboard_time": 1681776567,
+        "rank": 48,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 115511,
+        "num": 115511,
+        "word": "鹿晗又染粉发",
+        "onboard_time": 1681737867,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#以学铸魂坚定理想信念#"
+    }
+  }
+}

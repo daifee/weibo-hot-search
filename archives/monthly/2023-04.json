@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681785160788,
+  "endTime": 1681785754992,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -4851,6 +4851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 869107,
+      "num": 869107,
+      "word": "易烊千玺新专辑刘艳芬",
+      "onboard_time": 1681783885,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 868639,
       "num": 868639,
       "word": "五月天北京演唱会",
@@ -5361,14 +5369,6 @@
       "onboard_time": 1681393714,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 819330,
-      "num": 819330,
-      "word": "易烊千玺新专辑刘艳芬",
-      "onboard_time": 1681783885,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 819130,
@@ -6243,6 +6243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 723212,
+      "num": 723212,
+      "word": "新生儿落户被标注文盲",
+      "onboard_time": 1681781786,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723098,
       "num": 723098,
       "word": "上班能挣几个钱",
@@ -6337,14 +6345,6 @@
       "onboard_time": 1680569250,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 716772,
-      "num": 716772,
-      "word": "新生儿落户被标注文盲",
-      "onboard_time": 1681781786,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 715671,
@@ -10027,6 +10027,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 512018,
+      "num": 431882,
+      "word": "国内检出多例XBB.1.16",
+      "onboard_time": 1681784726,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511775,
       "num": 511775,
       "word": "你平时午睡吗",
@@ -10603,6 +10611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 484273,
+      "num": 484273,
+      "word": "苹果版余额宝上线",
+      "onboard_time": 1681782748,
+      "rank": 8,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 484263,
       "num": 484263,
       "word": "金晨 泰国泼水音乐节",
@@ -11009,14 +11025,6 @@
       "onboard_time": 1681344510,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 470553,
-      "num": 470553,
-      "word": "苹果版余额宝上线",
-      "onboard_time": 1681782748,
-      "rank": 8,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 470050,
@@ -11600,6 +11608,14 @@
       "word": "再就业男团",
       "onboard_time": 1680931465,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 451163,
+      "num": 451163,
+      "word": "乘风破浪4一公选曲分组",
+      "onboard_time": 1681784067,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -12827,6 +12843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412565,
+      "num": 412565,
+      "word": "哪些人属于胃癌高危人群",
+      "onboard_time": 1681782027,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412212,
       "num": 412212,
       "word": "陈晓新剧再穿女装",
@@ -13987,14 +14011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380690,
-      "num": 380690,
-      "word": "哪些人属于胃癌高危人群",
-      "onboard_time": 1681782027,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380572,
       "num": 380572,
       "word": "强冷空气将带来俯冲式降温",
@@ -14073,6 +14089,14 @@
       "onboard_time": 1681109608,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 376698,
+      "num": 376698,
+      "word": "今年一季度GDP同比增长4.5%",
+      "onboard_time": 1681783885,
+      "rank": 16,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 376454,
@@ -14155,14 +14179,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 373533,
-      "num": 373533,
-      "word": "乘风破浪4一公选曲分组",
-      "onboard_time": 1681784067,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373383,
       "num": 373383,
       "word": "爱情而已马小跳",
@@ -14217,14 +14233,6 @@
       "onboard_time": 1681458510,
       "rank": 21,
       "category": "科技"
-    },
-    {
-      "raw_hot": 372189,
-      "num": 372189,
-      "word": "今年一季度GDP同比增长4.5%",
-      "onboard_time": 1681783885,
-      "rank": 16,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 372062,
@@ -14425,6 +14433,14 @@
       "onboard_time": 1681400908,
       "rank": 14,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 366906,
+      "num": 366906,
+      "word": "SMTOWN遭扣押搜查",
+      "onboard_time": 1681783407,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 366812,
@@ -14649,14 +14665,6 @@
       "onboard_time": 1681127547,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 357585,
-      "num": 357585,
-      "word": "SMTOWN遭扣押搜查",
-      "onboard_time": 1681783407,
-      "rank": 18,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 357490,
@@ -18219,6 +18227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282422,
+      "num": 282422,
+      "word": "黄牛你不要太离谱",
+      "onboard_time": 1681781546,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 282367,
       "num": 282367,
       "word": "火焰戎装",
@@ -18889,14 +18905,6 @@
       "onboard_time": 1680685107,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 269532,
-      "num": 269532,
-      "word": "国内检出多例XBB.1.16",
-      "onboard_time": 1681784726,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269369,
@@ -20233,14 +20241,6 @@
       "onboard_time": 1680533618,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 247628,
-      "num": 247628,
-      "word": "黄牛你不要太离谱",
-      "onboard_time": 1681781546,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 247559,
@@ -22636,7 +22636,7 @@
     },
     {
       "raw_hot": 219289,
-      "num": 180685,
+      "num": 197897,
       "word": "仰望U8预售价",
       "onboard_time": 1681784188,
       "rank": 30,
@@ -23137,6 +23137,14 @@
       "onboard_time": 1680484410,
       "rank": 32,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 214910,
+      "num": 214910,
+      "word": "iOS17将允许非官方商店的应用程序",
+      "onboard_time": 1681785208,
+      "rank": 25,
+      "category": "科技"
     },
     {
       "raw_hot": 214906,
@@ -24331,6 +24339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206673,
+      "num": 191406,
+      "word": "提高免疫力要从人类幼崽抓起",
+      "onboard_time": 1681785146,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206671,
       "num": 206671,
       "word": "闵玧其IU合作曲预告",
@@ -25505,6 +25521,14 @@
       "onboard_time": 1680591929,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202383,
+      "num": 202383,
+      "word": "八角笼中定档",
+      "onboard_time": 1681785626,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 202364,
@@ -28283,6 +28307,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 191889,
+      "num": 191889,
+      "word": "张颂文小米影像探索家",
+      "onboard_time": 1681785025,
+      "rank": 28,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 191873,
       "num": 191873,
       "word": "Bin打团",
@@ -29955,6 +29987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184064,
+      "num": 184064,
+      "word": "丁程鑫北电汇演人世间剧照",
+      "onboard_time": 1681784305,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184053,
       "num": 161377,
       "word": "INTO1海外演出收官",
@@ -30169,14 +30209,6 @@
       "onboard_time": 1681069931,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182923,
-      "num": 182923,
-      "word": "张颂文小米影像探索家",
-      "onboard_time": 1681785025,
-      "rank": 28,
-      "category": "科技,艺人"
     },
     {
       "raw_hot": 182865,
@@ -31491,6 +31523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171787,
+      "num": 171787,
+      "word": "老师出门散步顺手救了个人",
+      "onboard_time": 1681781608,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171697,
       "num": 146915,
       "word": "陈情令开机五年了",
@@ -31771,14 +31811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 170112,
-      "num": 170112,
-      "word": "提高免疫力要从人类幼崽抓起",
-      "onboard_time": 1681785146,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170111,
       "num": 170111,
       "word": "哪些食材烹饪前必须焯水",
@@ -31817,14 +31849,6 @@
       "onboard_time": 1680344011,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 169902,
-      "num": 169902,
-      "word": "老师出门散步顺手救了个人",
-      "onboard_time": 1681781608,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169882,
@@ -32761,14 +32785,6 @@
       "onboard_time": 1680344611,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162928,
-      "num": 162928,
-      "word": "丁程鑫北电汇演人世间剧照",
-      "onboard_time": 1681784305,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 162924,
@@ -34825,6 +34841,14 @@
       "onboard_time": 1681440386,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147940,
+      "num": 147940,
+      "word": "小鹏G6",
+      "onboard_time": 1681785445,
+      "rank": 39,
+      "category": "科技"
     },
     {
       "raw_hot": 147802,
@@ -37691,6 +37715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122673,
+      "num": 122673,
+      "word": "警方通报村民疑被当成猎物遭枪击死亡",
+      "onboard_time": 1681785684,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122658,
       "num": 122658,
       "word": "第25届上海国际电影节官宣",
@@ -39036,7 +39068,7 @@
     },
     {
       "raw_hot": 105340,
-      "num": 105340,
+      "num": 115934,
       "word": "将来的智能汽车什么样",
       "onboard_time": 1681784246,
       "rank": 46,
@@ -40395,6 +40427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84437,
+      "num": 400939,
+      "word": "总要去一次黄河三角洲吧",
+      "onboard_time": 1681783225,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83515,
       "num": 1829227,
       "word": "全民国家安全教育日公益短片",
@@ -40473,6 +40513,14 @@
       "onboard_time": 1681290086,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80504,
+      "num": 115757,
+      "word": "彩虹瀑布 忘不掉的奇景",
+      "onboard_time": 1681782145,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 80340,
@@ -40585,14 +40633,6 @@
       "onboard_time": 1680370038,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76260,
-      "num": 110048,
-      "word": "彩虹瀑布 忘不掉的奇景",
-      "onboard_time": 1681782145,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 75962,
@@ -40761,14 +40801,6 @@
       "onboard_time": 1681612586,
       "rank": 49,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 70527,
-      "num": 374531,
-      "word": "总要去一次黄河三角洲吧",
-      "onboard_time": 1681783225,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70325,
