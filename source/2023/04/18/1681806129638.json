@@ -1,0 +1,410 @@
+{
+  "runTime": 1681806129638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1422901,
+        "num": 1422901,
+        "word": "戚薇说130斤的我观感欠佳",
+        "onboard_time": 1681798227,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1057479,
+        "num": 1057479,
+        "word": "淄博一烧烤店生意太火爆停业休息",
+        "onboard_time": 1681801948,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78804,
+        "num": 1052681,
+        "word": "我为家乡特色美食来代言",
+        "onboard_time": 1681790311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1525686,
+        "num": 1052124,
+        "word": "窦骁何超莲官宣婚礼",
+        "onboard_time": 1681794096,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049291,
+        "num": 1049291,
+        "word": "陈飞宇周也主演电影被诉侵权",
+        "onboard_time": 1681805130,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 804435,
+        "num": 804435,
+        "word": "科学家发现男士避孕关键基因",
+        "onboard_time": 1681801530,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 673061,
+        "num": 673061,
+        "word": "你还在用余额宝吗",
+        "onboard_time": 1681786946,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 623392,
+        "num": 623392,
+        "word": "格林真脏",
+        "onboard_time": 1681792299,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560665,
+        "num": 560665,
+        "word": "智力障碍男生把迷路女童背到派出所",
+        "onboard_time": 1681802129,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 470143,
+        "num": 470143,
+        "word": "爱奇艺的存货好多",
+        "onboard_time": 1681804650,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2307026,
+        "num": 469724,
+        "word": "何超盈嫁妆",
+        "onboard_time": 1681802849,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535993,
+        "num": 469314,
+        "word": "住院8天花40万患者实付不到4万",
+        "onboard_time": 1681802672,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468208,
+        "num": 468208,
+        "word": "男子工伤身亡妻子移植胚胎产下男婴",
+        "onboard_time": 1681803690,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701304,
+        "num": 461128,
+        "word": "何超云",
+        "onboard_time": 1681802249,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426887,
+        "num": 426887,
+        "word": "王源的香槟三次举杯但没喝",
+        "onboard_time": 1681803749,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323320,
+        "num": 323320,
+        "word": "易烊千玺专辑封面是巩俐",
+        "onboard_time": 1681791870,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263110,
+        "num": 263110,
+        "word": "王一博票房号召力",
+        "onboard_time": 1681803749,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232916,
+        "num": 232916,
+        "word": "gidle特典",
+        "onboard_time": 1681800867,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208505,
+        "num": 208505,
+        "word": "睡前刷手机你会惭愧吗",
+        "onboard_time": 1681805130,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202924,
+        "num": 202924,
+        "word": "中国经济没有出现通缩",
+        "onboard_time": 1681803092,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384519,
+        "num": 196229,
+        "word": "考上研究生才知道的事",
+        "onboard_time": 1681801227,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310061,
+        "num": 193689,
+        "word": "罗云熙扛白鹿",
+        "onboard_time": 1681804228,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187717,
+        "num": 187717,
+        "word": "男子淄博烧烤摊醉酒闹事被秒带走",
+        "onboard_time": 1681805548,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743059,
+        "num": 187546,
+        "word": "赌王三太气质",
+        "onboard_time": 1681795477,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262436,
+        "num": 187090,
+        "word": "千万不要跟风买墨镜",
+        "onboard_time": 1681801109,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229918,
+        "num": 186791,
+        "word": "48岁妈妈参加恋综被说像偶像剧女主",
+        "onboard_time": 1681795829,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189201,
+        "num": 186518,
+        "word": "张雨绮问这个节目没有男的是吧",
+        "onboard_time": 1681798469,
+        "rank": 26,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 151570,
+        "num": 186410,
+        "word": "数名外籍女子晒中国游引出偷渡案",
+        "onboard_time": 1681781367,
+        "rank": 27,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 145747,
+        "num": 185992,
+        "word": "女子85元买椰子螺开出4.52克美乐珠",
+        "onboard_time": 1681789529,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324667,
+        "num": 185546,
+        "word": "何超琼",
+        "onboard_time": 1681796849,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185477,
+        "num": 185477,
+        "word": "国风无双姜贞羽一秒变装",
+        "onboard_time": 1681800447,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 259304,
+        "num": 182941,
+        "word": "罗志祥曾是姜涛导师",
+        "onboard_time": 1681805247,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173371,
+        "num": 173371,
+        "word": "赵丽颖林更新谈再合作感受",
+        "onboard_time": 1681793316,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253645,
+        "num": 168966,
+        "word": "张艺兴 福建平潭",
+        "onboard_time": 1681798227,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155945,
+        "num": 155945,
+        "word": "叶舒华以为摄影师是粉丝老公",
+        "onboard_time": 1681805192,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142314,
+        "num": 142314,
+        "word": "国内检出多例XBB.1.16",
+        "onboard_time": 1681784726,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140505,
+        "num": 140505,
+        "word": "汤唯现身上海车展",
+        "onboard_time": 1681805370,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130032,
+        "num": 130032,
+        "word": "苹果公司已注册DailyCash商标",
+        "onboard_time": 1681798409,
+        "rank": 37,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 129432,
+        "num": 129432,
+        "word": "淄博烧烤为何火遍全国",
+        "onboard_time": 1681804590,
+        "rank": 38,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 126172,
+        "num": 126172,
+        "word": "普尔在笑什么",
+        "onboard_time": 1681799369,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134912,
+        "num": 119699,
+        "word": "玉骨遥或将5月播出",
+        "onboard_time": 1681798951,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134742,
+        "num": 118849,
+        "word": "五一假期去哪个演唱会",
+        "onboard_time": 1681800447,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126418,
+        "num": 115906,
+        "word": "左肩有你 振兴钢厂",
+        "onboard_time": 1681778068,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 105214,
+        "num": 105214,
+        "word": "感觉新冠不再来了还用打疫苗吗",
+        "onboard_time": 1681778611,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 102032,
+        "num": 102032,
+        "word": "虞书欣黑粉拒不道歉被法院公告",
+        "onboard_time": 1681791814,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 101664,
+        "num": 101664,
+        "word": "离职后你一般怎么退出工作群",
+        "onboard_time": 1681788449,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101277,
+        "num": 101277,
+        "word": "库里生涯首次落后",
+        "onboard_time": 1681794334,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95763,
+        "num": 95763,
+        "word": "赵露思三亚拍摄花絮",
+        "onboard_time": 1681799490,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87015,
+        "num": 87015,
+        "word": "茉莉花茶毛肚",
+        "onboard_time": 1681799188,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 55477,
+        "num": 86656,
+        "word": "敦煌藏经洞百年来首次数字复现",
+        "onboard_time": 1681803148,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#功勋模范引导时代征途#"
+    }
+  }
+}
