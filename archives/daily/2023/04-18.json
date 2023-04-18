@@ -1,7 +1,15 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681787883741,
+  "endTime": 1681788840274,
   "band_list": [
+    {
+      "raw_hot": 2572439,
+      "num": 2572439,
+      "word": "你还在用余额宝吗",
+      "onboard_time": 1681786946,
+      "rank": 10,
+      "category": "财经"
+    },
     {
       "raw_hot": 1833510,
       "num": 828103,
@@ -17,6 +25,14 @@
       "onboard_time": 1681778549,
       "rank": 0,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1533065,
+      "num": 1533065,
+      "word": "徐怀钰 贾静雯",
+      "onboard_time": 1681786590,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1517109,
@@ -35,14 +51,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1427414,
-      "num": 1427414,
-      "word": "徐怀钰 贾静雯",
-      "onboard_time": 1681786590,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1406970,
       "num": 1406970,
       "word": "要离职了被同事要求请吃饭",
@@ -59,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1232744,
+      "num": 1232744,
+      "word": "迪丽热巴再现复古名伶",
+      "onboard_time": 1681787008,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1159971,
       "num": 1159971,
       "word": "左肩有你 振兴钢厂",
@@ -73,14 +89,6 @@
       "onboard_time": 1681739546,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1040877,
-      "num": 522583,
-      "word": "你还在用余额宝吗",
-      "onboard_time": 1681786946,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 1014795,
@@ -195,14 +203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 511119,
-      "num": 511119,
-      "word": "迪丽热巴再现复古名伶",
-      "onboard_time": 1681787008,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 484273,
       "num": 484273,
       "word": "苹果版余额宝上线",
@@ -243,8 +243,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439488,
-      "num": 439488,
+      "raw_hot": 451831,
+      "num": 451831,
       "word": "iOS17将允许非官方商店的应用程序",
       "onboard_time": 1681785208,
       "rank": 25,
@@ -307,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 363159,
+      "num": 363159,
+      "word": "比亚迪",
+      "onboard_time": 1681786707,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 333789,
       "num": 333789,
       "word": "黑莲花 绝世大饼",
@@ -320,6 +328,22 @@
       "word": "杭州坠楼女童家属申请变更保姆罪名",
       "onboard_time": 1681744826,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319899,
+      "num": 319899,
+      "word": "印尼为35万在台劳工制定撤侨计划",
+      "onboard_time": 1681786346,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 316602,
+      "num": 316602,
+      "word": "丫丫乐乐回国申请进入最后审核",
+      "onboard_time": 1681787186,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -403,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279603,
-      "num": 279603,
-      "word": "比亚迪",
-      "onboard_time": 1681786707,
-      "rank": 21,
-      "category": "科技"
-    },
-    {
       "raw_hot": 279241,
       "num": 279241,
       "word": "大学教育现状",
@@ -443,8 +459,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262338,
-      "num": 262338,
+      "raw_hot": 263093,
+      "num": 263093,
       "word": "八角笼中定档",
       "onboard_time": 1681785626,
       "rank": 26,
@@ -467,12 +483,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243688,
-      "num": 243688,
-      "word": "印尼为35万在台劳工制定撤侨计划",
-      "onboard_time": 1681786346,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 246005,
+      "num": 246005,
+      "word": "勇士VS国王",
+      "onboard_time": 1681784906,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 235460,
+      "num": 235460,
+      "word": "现在的笔都这么高级了吗",
+      "onboard_time": 1681787368,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 232211,
@@ -499,6 +523,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 215463,
+      "num": 215463,
+      "word": "离职后你一般怎么退出工作群",
+      "onboard_time": 1681788449,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210608,
       "num": 210608,
       "word": "罗云熙嗑新兰",
@@ -515,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208272,
-      "num": 208272,
-      "word": "勇士VS国王",
-      "onboard_time": 1681784906,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207805,
       "num": 207805,
       "word": "勇士好多失误",
@@ -531,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207463,
+      "num": 207463,
+      "word": "海鸥售价",
+      "onboard_time": 1681787667,
+      "rank": 44,
+      "category": "科技"
+    },
+    {
       "raw_hot": 206673,
       "num": 191406,
       "word": "提高免疫力要从人类幼崽抓起",
       "onboard_time": 1681785146,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200180,
+      "num": 200180,
+      "word": "张子枫电影说再见官宣",
+      "onboard_time": 1681787969,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 199768,
@@ -593,6 +633,22 @@
       "onboard_time": 1681785025,
       "rank": 28,
       "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 191050,
+      "num": 191050,
+      "word": "雷宇第一次见到隐身战机",
+      "onboard_time": 1681788149,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185537,
+      "num": 185537,
+      "word": "都暻秀好像只会跳EXO的舞",
+      "onboard_time": 1681787847,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184064,
@@ -659,22 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161660,
-      "num": 161660,
-      "word": "丫丫乐乐回国申请进入最后审核",
-      "onboard_time": 1681787186,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161657,
-      "num": 161657,
-      "word": "现在的笔都这么高级了吗",
-      "onboard_time": 1681787368,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160535,
       "num": 160535,
       "word": "马斯克的AI项目命名为TruthGPT",
@@ -689,6 +729,14 @@
       "onboard_time": 1681759933,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156786,
+      "num": 156786,
+      "word": "iPhone15Pro系列升级Action按钮交互",
+      "onboard_time": 1681788508,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 151957,
@@ -763,14 +811,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 135998,
-      "num": 135998,
-      "word": "海鸥售价",
-      "onboard_time": 1681787667,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 135136,
       "num": 135136,
       "word": "上海车展",
@@ -809,14 +849,6 @@
       "onboard_time": 1681728570,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129102,
-      "num": 129102,
-      "word": "都暻秀好像只会跳EXO的舞",
-      "onboard_time": 1681787847,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 128577,
@@ -876,7 +908,7 @@
     },
     {
       "raw_hot": 111415,
-      "num": 939937,
+      "num": 1327526,
       "word": "这些旅游专列卷起来了",
       "onboard_time": 1681737749,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681787883741,
+  "endTime": 1681788840274,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -641,6 +641,14 @@
       "onboard_time": 1681631606,
       "rank": 3,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2572439,
+      "num": 2572439,
+      "word": "你还在用余额宝吗",
+      "onboard_time": 1681786946,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 2569622,
@@ -2227,6 +2235,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1533065,
+      "num": 1533065,
+      "word": "徐怀钰 贾静雯",
+      "onboard_time": 1681786590,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1528353,
       "num": 1528353,
       "word": "成龙身体已经不能再打封闭了",
@@ -2473,14 +2489,6 @@
       "onboard_time": 1681466547,
       "rank": 7,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 1427414,
-      "num": 1427414,
-      "word": "徐怀钰 贾静雯",
-      "onboard_time": 1681786590,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1423043,
@@ -3017,6 +3025,14 @@
       "onboard_time": 1680329550,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1232744,
+      "num": 1232744,
+      "word": "迪丽热巴再现复古名伶",
+      "onboard_time": 1681787008,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1229566,
@@ -3769,14 +3785,6 @@
       "onboard_time": 1681214726,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1040877,
-      "num": 522583,
-      "word": "你还在用余额宝吗",
-      "onboard_time": 1681786946,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 1037260,
@@ -10083,14 +10091,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 511119,
-      "num": 511119,
-      "word": "迪丽热巴再现复古名伶",
-      "onboard_time": 1681787008,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 510842,
       "num": 510842,
       "word": "特斯拉员工被曝分享车主隐私画面",
@@ -11627,6 +11627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451831,
+      "num": 451831,
+      "word": "iOS17将允许非官方商店的应用程序",
+      "onboard_time": 1681785208,
+      "rank": 25,
+      "category": "科技"
+    },
+    {
       "raw_hot": 451799,
       "num": 397819,
       "word": "孙珍妮追星成功白鹿",
@@ -11913,14 +11921,6 @@
       "onboard_time": 1680608191,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 439488,
-      "num": 439488,
-      "word": "iOS17将允许非官方商店的应用程序",
-      "onboard_time": 1681785208,
-      "rank": 25,
-      "category": "科技"
     },
     {
       "raw_hot": 439045,
@@ -14555,6 +14555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 363159,
+      "num": 363159,
+      "word": "比亚迪",
+      "onboard_time": 1681177645,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 363085,
       "num": 378054,
       "word": "下班该不该回领导信息",
@@ -16371,6 +16379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 319899,
+      "num": 319899,
+      "word": "印尼为35万在台劳工制定撤侨计划",
+      "onboard_time": 1681786346,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319808,
       "num": 319808,
       "word": "陈晓被叫叔叔在线崩溃",
@@ -16529,6 +16545,14 @@
       "onboard_time": 1680929188,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316602,
+      "num": 316602,
+      "word": "丫丫乐乐回国申请进入最后审核",
+      "onboard_time": 1681787186,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316544,
@@ -18467,14 +18491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279603,
-      "num": 279603,
-      "word": "比亚迪",
-      "onboard_time": 1681177645,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 279241,
       "num": 279241,
       "word": "大学教育现状",
@@ -19283,6 +19299,14 @@
       "category": "科技,作品衍生"
     },
     {
+      "raw_hot": 263093,
+      "num": 263093,
+      "word": "八角笼中定档",
+      "onboard_time": 1681785626,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 262960,
       "num": 262960,
       "word": "为什么总感觉今天是周五",
@@ -19329,14 +19353,6 @@
       "onboard_time": 1680391098,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262338,
-      "num": 262338,
-      "word": "八角笼中定档",
-      "onboard_time": 1681785626,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 262262,
@@ -20595,14 +20611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 243688,
-      "num": 243688,
-      "word": "印尼为35万在台劳工制定撤侨计划",
-      "onboard_time": 1681786346,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243649,
       "num": 243649,
       "word": "周雨彤为演戏去公司坐班",
@@ -21209,6 +21217,14 @@
       "onboard_time": 1680965013,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235460,
+      "num": 235460,
+      "word": "现在的笔都这么高级了吗",
+      "onboard_time": 1681787368,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 235383,
@@ -23155,6 +23171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215463,
+      "num": 215463,
+      "word": "离职后你一般怎么退出工作群",
+      "onboard_time": 1681788449,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215298,
       "num": 215298,
       "word": "施罗德绝杀",
@@ -24193,6 +24217,14 @@
       "onboard_time": 1680847528,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207463,
+      "num": 207463,
+      "word": "海鸥售价",
+      "onboard_time": 1681787667,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 207454,
@@ -26209,6 +26241,14 @@
       "onboard_time": 1680446083,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200180,
+      "num": 200180,
+      "word": "张子枫电影说再见官宣",
+      "onboard_time": 1681787969,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 200173,
@@ -28579,6 +28619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191050,
+      "num": 191050,
+      "word": "雷宇第一次见到隐身战机",
+      "onboard_time": 1681788149,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191034,
       "num": 198944,
       "word": "BoysPlanet选手的年龄",
@@ -29833,6 +29881,14 @@
       "onboard_time": 1681100492,
       "rank": 46,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 185537,
+      "num": 185537,
+      "word": "都暻秀好像只会跳EXO的舞",
+      "onboard_time": 1681787847,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185519,
@@ -33027,22 +33083,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 161660,
-      "num": 161660,
-      "word": "丫丫乐乐回国申请进入最后审核",
-      "onboard_time": 1681787186,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161657,
-      "num": 161657,
-      "word": "现在的笔都这么高级了吗",
-      "onboard_time": 1681787368,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 161630,
       "num": 161630,
       "word": "该如何反击造自己黄谣的人",
@@ -33681,6 +33721,14 @@
       "onboard_time": 1681625906,
       "rank": 49,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 156786,
+      "num": 156786,
+      "word": "iPhone15Pro系列升级Action按钮交互",
+      "onboard_time": 1681788508,
+      "rank": 41,
+      "category": "科技"
     },
     {
       "raw_hot": 156763,
@@ -36363,14 +36411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135998,
-      "num": 135998,
-      "word": "海鸥售价",
-      "onboard_time": 1681787667,
-      "rank": 44,
-      "category": "科技"
-    },
-    {
       "raw_hot": 135993,
       "num": 135993,
       "word": "周雨彤哭戏镜头破碎感",
@@ -37105,14 +37145,6 @@
       "onboard_time": 1680347070,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129102,
-      "num": 129102,
-      "word": "都暻秀好像只会跳EXO的舞",
-      "onboard_time": 1681787847,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 129089,
