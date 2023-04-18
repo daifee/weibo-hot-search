@@ -1,0 +1,410 @@
+{
+  "runTime": 1681849126840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 108315,
+        "num": 108315,
+        "word": "浙BWF896你做的好事藏不住了",
+        "onboard_time": 1681819590,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 67566,
+        "num": 67566,
+        "word": "杨幂综艺",
+        "onboard_time": 1681829911,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15058,
+        "num": 54577,
+        "word": "总台独家影像再揭日寇滔天罪行",
+        "onboard_time": 1681824392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44357,
+        "num": 44357,
+        "word": "叶冰裳彻底黑化",
+        "onboard_time": 1681832130,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 42597,
+        "num": 42597,
+        "word": "杂技演员高空坠亡事故原因公布",
+        "onboard_time": 1681827452,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37133,
+        "num": 37133,
+        "word": "超一半的年轻人有搭子",
+        "onboard_time": 1681826191,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31694,
+        "num": 31694,
+        "word": "你有勇气去gapyear吗",
+        "onboard_time": 1681819827,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31006,
+        "num": 31006,
+        "word": "让浴室地面倾斜十五度",
+        "onboard_time": 1681829731,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29229,
+        "num": 29229,
+        "word": "小米发布会",
+        "onboard_time": 1681816169,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 28483,
+        "num": 28483,
+        "word": "建议下班回家后马上洗漱",
+        "onboard_time": 1681814009,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182800,
+        "num": 28353,
+        "word": "何超莲称婚礼是窦骁一手包办",
+        "onboard_time": 1681832549,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51002,
+        "num": 28112,
+        "word": "山东一地要求公务人员回国后核酸",
+        "onboard_time": 1681835185,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44872,
+        "num": 27652,
+        "word": "男子瘫痪儿子不愿供养将其活活饿死",
+        "onboard_time": 1681813889,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32749,
+        "num": 27509,
+        "word": "宋祖儿 轧戏",
+        "onboard_time": 1681811850,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29571,
+        "num": 27095,
+        "word": "男婴静脉被注射配方奶家长被瞒5天",
+        "onboard_time": 1681812809,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26912,
+        "num": 26912,
+        "word": "别用饭圈那一套对待国宝",
+        "onboard_time": 1681816169,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24400,
+        "num": 24400,
+        "word": "LOL前职业选手被警方立案",
+        "onboard_time": 1681818387,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23613,
+        "num": 23613,
+        "word": "RNG官宣Angel离队",
+        "onboard_time": 1681825831,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22995,
+        "num": 22995,
+        "word": "汤唯不知道Q3Q4的意思",
+        "onboard_time": 1681813110,
+        "rank": 18,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 22016,
+        "num": 22016,
+        "word": "存够多少钱才会有安全感",
+        "onboard_time": 1681829852,
+        "rank": 19,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 45047,
+        "num": 22013,
+        "word": "广东男子驾驶宝马撞死5人被判死刑",
+        "onboard_time": 1681831531,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 26381,
+        "num": 22010,
+        "word": "蛇族的美貌是家族遗传吧",
+        "onboard_time": 1681823790,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23795,
+        "num": 21996,
+        "word": "千万不要把小孩寄宿到亲戚家",
+        "onboard_time": 1681812629,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21960,
+        "num": 21960,
+        "word": "赵丽颖古装",
+        "onboard_time": 1681832010,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23161,
+        "num": 21557,
+        "word": "入职了家全是关系户的公司",
+        "onboard_time": 1681831229,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 22901,
+        "num": 21455,
+        "word": "杭州公开一批色狼行政处罚结果",
+        "onboard_time": 1681826792,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22186,
+        "num": 21192,
+        "word": "上海人均存款21.26万",
+        "onboard_time": 1681828052,
+        "rank": 26,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 20598,
+        "num": 20598,
+        "word": "郑渊洁称维权艰难不再发表作品",
+        "onboard_time": 1681817908,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19669,
+        "num": 19669,
+        "word": "竹竿拍大熊猫饲养员先休假后调岗",
+        "onboard_time": 1681820968,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19486,
+        "num": 19486,
+        "word": "高空杂技坠亡女演员家属获公司赔偿",
+        "onboard_time": 1681824030,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28150,
+        "num": 19182,
+        "word": "3岁男孩为治大片胎记脸上埋扩张器",
+        "onboard_time": 1681831709,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18862,
+        "num": 18862,
+        "word": "马嘉祺说如果有人骂魏如萱我就去骂他",
+        "onboard_time": 1681832248,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18590,
+        "num": 18590,
+        "word": "王源帮粉丝捡手机",
+        "onboard_time": 1681830030,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17546,
+        "num": 17546,
+        "word": "女孩应聘商务专员因身高177cm被拒",
+        "onboard_time": 1681848251,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17283,
+        "num": 17283,
+        "word": "忽然发现了上班的意义",
+        "onboard_time": 1681831649,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16974,
+        "num": 16974,
+        "word": "刘亦菲有风剧组聚会合照",
+        "onboard_time": 1681830570,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15988,
+        "num": 16974,
+        "word": "如何评价王嘉尔二登科切拉",
+        "onboard_time": 1681830570,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15343,
+        "num": 16974,
+        "word": "费曼建议金像奖加一个最佳陪跑奖",
+        "onboard_time": 1681822589,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14830,
+        "num": 16974,
+        "word": "成都偶遇鹿晗",
+        "onboard_time": 1681824690,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14823,
+        "num": 16974,
+        "word": "小米13Ultra徕卡光学",
+        "onboard_time": 1681817128,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 14086,
+        "num": 16973,
+        "word": "杭州好多演唱会",
+        "onboard_time": 1681832488,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13162,
+        "num": 16973,
+        "word": "澹台烬伤心灭魂钉会退回",
+        "onboard_time": 1681822288,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12695,
+        "num": 16973,
+        "word": "是时候认识个山东朋友了",
+        "onboard_time": 1681830869,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12664,
+        "num": 16973,
+        "word": "宣城来抢长月烬明了",
+        "onboard_time": 1681833266,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 12636,
+        "num": 16973,
+        "word": "肖俊沈小婷舞蹈挑战",
+        "onboard_time": 1681834346,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12327,
+        "num": 16973,
+        "word": "我追星的状态",
+        "onboard_time": 1681827093,
+        "rank": 45,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 12260,
+        "num": 16973,
+        "word": "公司取消了所有的调休",
+        "onboard_time": 1681809511,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11424,
+        "num": 16973,
+        "word": "WBG出征总决赛",
+        "onboard_time": 1681814849,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11008,
+        "num": 16972,
+        "word": "阿信说五月之约五月天没有忘记",
+        "onboard_time": 1681831049,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 10824,
+        "num": 16972,
+        "word": "郭艾伦辽宁队史季后赛得分王",
+        "onboard_time": 1681827754,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会倒计时100天主题片100%发布#"
+    }
+  }
+}
