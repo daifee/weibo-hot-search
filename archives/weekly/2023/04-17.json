@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681831217337,
+  "endTime": 1681832078090,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1304749,
+      "num": 1304749,
+      "word": "杨幂综艺",
+      "onboard_time": 1681829911,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1275635,
       "num": 1275635,
       "word": "迪丽热巴再现复古名伶",
@@ -577,14 +585,6 @@
       "onboard_time": 1681825831,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 895129,
-      "num": 895129,
-      "word": "杨幂综艺",
-      "onboard_time": 1681829911,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 894114,
@@ -1499,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395244,
+      "num": 222741,
+      "word": "刘亦菲有风剧组聚会合照",
+      "onboard_time": 1681830570,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393388,
       "num": 393388,
       "word": "当事女生回应因吃面崩溃",
@@ -1643,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368102,
+      "num": 184666,
+      "word": "广东男子驾驶宝马撞死5人被判死刑",
+      "onboard_time": 1681831531,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 366906,
       "num": 366906,
       "word": "SMTOWN遭扣押搜查",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1681723468,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 340667,
+      "num": 340667,
+      "word": "长月烬明首周成绩单",
+      "onboard_time": 1681828231,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 336869,
@@ -1891,12 +1915,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 316011,
-      "num": 222741,
-      "word": "刘亦菲有风剧组聚会合照",
-      "onboard_time": 1681830570,
-      "rank": 23,
-      "category": "影视"
+      "raw_hot": 315755,
+      "num": 294030,
+      "word": "让浴室地面倾斜十五度",
+      "onboard_time": 1681829731,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 315753,
@@ -1907,12 +1931,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313524,
-      "num": 313524,
-      "word": "长月烬明首周成绩单",
-      "onboard_time": 1681828231,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 314404,
+      "num": 314404,
+      "word": "存够多少钱才会有安全感",
+      "onboard_time": 1681829852,
+      "rank": 34,
+      "category": "社会议题"
     },
     {
       "raw_hot": 311988,
@@ -2267,6 +2291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260327,
+      "num": 222398,
+      "word": "王源帮粉丝捡手机",
+      "onboard_time": 1681830030,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260255,
       "num": 223899,
       "word": "国风无双姜贞羽一秒变装",
@@ -2353,14 +2385,6 @@
       "onboard_time": 1681819406,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239038,
-      "num": 222398,
-      "word": "王源帮粉丝捡手机",
-      "onboard_time": 1681830030,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 238558,
@@ -2475,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226825,
+      "num": 183535,
+      "word": "3岁男孩为治大片胎记脸上埋扩张器",
+      "onboard_time": 1681831709,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225404,
       "num": 225404,
       "word": "灭魂钉需要真心换真心",
@@ -2529,14 +2561,6 @@
       "onboard_time": 1681808908,
       "rank": 19,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 220558,
-      "num": 220558,
-      "word": "让浴室地面倾斜十五度",
-      "onboard_time": 1681829731,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 219289,
@@ -3115,6 +3139,14 @@
       "category": "科技,艺人"
     },
     {
+      "raw_hot": 191846,
+      "num": 184508,
+      "word": "阿信说五月之约五月天没有忘记",
+      "onboard_time": 1681831049,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191050,
       "num": 191050,
       "word": "雷宇第一次见到隐身战机",
@@ -3233,14 +3265,6 @@
       "onboard_time": 1681638985,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184508,
-      "num": 184508,
-      "word": "阿信说五月之约五月天没有忘记",
-      "onboard_time": 1681831049,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 184064,
@@ -3483,14 +3507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168678,
-      "num": 168678,
-      "word": "存够多少钱才会有安全感",
-      "onboard_time": 1681829852,
-      "rank": 34,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 167590,
       "num": 167590,
       "word": "女子推理社的男嘉宾",
@@ -3616,6 +3632,14 @@
       "word": "长空之王致敬版海报",
       "onboard_time": 1681700185,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 160837,
+      "num": 160837,
+      "word": "易小星说范丞丞自带一种憨憨的喜感",
+      "onboard_time": 1681831590,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -3857,6 +3881,14 @@
       "onboard_time": 1681785445,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 147821,
+      "num": 147821,
+      "word": "入职了家全是关系户的公司",
+      "onboard_time": 1681831229,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 147480,
@@ -4419,6 +4451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104159,
+      "num": 104159,
+      "word": "2023水逆来了",
+      "onboard_time": 1681831171,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 104153,
       "num": 116364,
       "word": "字母哥背部挫伤",
@@ -4467,6 +4507,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 101565,
+      "num": 101565,
+      "word": "赵丽颖古装",
+      "onboard_time": 1681832010,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101539,
       "num": 101539,
       "word": "GOT7聚会合照",
@@ -4507,6 +4555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 98107,
+      "num": 98107,
+      "word": "忽然发现了上班的意义",
+      "onboard_time": 1681831649,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96952,
       "num": 199843,
       "word": "长空之王路演开启",
@@ -4545,14 +4601,6 @@
       "onboard_time": 1681696823,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94899,
-      "num": 94899,
-      "word": "2023水逆来了",
-      "onboard_time": 1681831171,
-      "rank": 49,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 94834,
