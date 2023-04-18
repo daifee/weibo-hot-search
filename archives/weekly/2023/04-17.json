@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681853619714,
+  "endTime": 1681856185709,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -2332,7 +2332,7 @@
     },
     {
       "raw_hot": 261826,
-      "num": 87730,
+      "num": 207296,
       "word": "山东一地要求公务人员回国后核酸",
       "onboard_time": 1681835185,
       "rank": 49,
@@ -5011,6 +5011,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 44405,
+      "num": 35799,
+      "word": "孩子打人妈妈硬核反打教育",
+      "onboard_time": 1681850531,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42917,
       "num": 38401,
       "word": "根本没人敢坐我们旁边",
@@ -5024,6 +5032,14 @@
       "word": "长征七号遥七运载火箭运抵发射场",
       "onboard_time": 1681725088,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42216,
+      "num": 35170,
+      "word": "女孩应聘商务专员因身高177cm被拒",
+      "onboard_time": 1681848251,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -5059,14 +5075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32783,
-      "num": 22763,
-      "word": "女孩应聘商务专员因身高177cm被拒",
-      "onboard_time": 1681848251,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32635,
       "num": 108416,
       "word": "DRG战胜eStar",
@@ -5089,14 +5097,6 @@
       "onboard_time": 1681518865,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 23702,
-      "num": 21878,
-      "word": "孩子打人妈妈硬核反打教育",
-      "onboard_time": 1681850531,
-      "rank": 26,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
