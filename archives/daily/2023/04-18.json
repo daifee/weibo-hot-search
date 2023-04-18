@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681813111403,
+  "endTime": 1681814030720,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2202852,
+      "num": 2202852,
+      "word": "公司取消了所有的调休",
+      "onboard_time": 1681809511,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2024050,
       "num": 359159,
       "word": "赌王三太气质",
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2015933,
-      "num": 2015933,
-      "word": "公司取消了所有的调休",
-      "onboard_time": 1681809511,
+      "raw_hot": 1847795,
+      "num": 431698,
+      "word": "宋祖儿 轧戏",
+      "onboard_time": 1681811850,
       "rank": 10,
-      "category": "情感"
+      "category": "影视"
     },
     {
       "raw_hot": 1833510,
@@ -89,14 +97,6 @@
       "onboard_time": 1681778611,
       "rank": 4,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1500123,
-      "num": 431698,
-      "word": "宋祖儿 轧戏",
-      "onboard_time": 1681811850,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1498474,
@@ -259,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 788986,
+      "num": 357858,
+      "word": "男婴静脉被注射配方奶家长被瞒5天",
+      "onboard_time": 1681812809,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728527,
       "num": 728527,
       "word": "国内检出多例XBB.1.16",
@@ -363,20 +371,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566106,
+      "num": 431697,
+      "word": "涉嫌侮辱死者自嗨锅商家被罚80万",
+      "onboard_time": 1681811249,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560665,
       "num": 1144188,
       "word": "智力障碍男生把迷路女童背到派出所",
       "onboard_time": 1681802129,
       "rank": 28,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 545823,
-      "num": 431697,
-      "word": "涉嫌侮辱死者自嗨锅商家被罚80万",
-      "onboard_time": 1681811249,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 542125,
@@ -513,6 +521,14 @@
       "onboard_time": 1681790972,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 427445,
+      "num": 339099,
+      "word": "汤唯不知道Q3Q4的意思",
+      "onboard_time": 1681813110,
+      "rank": 13,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 426887,
@@ -665,6 +681,14 @@
       "onboard_time": 1681786707,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 362633,
+      "num": 205656,
+      "word": "千万不要把小孩寄宿到亲戚家",
+      "onboard_time": 1681812629,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 358244,
@@ -1067,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209535,
+      "num": 1049612,
+      "word": "3名勇救落水老人的小伙考研上岸了",
+      "onboard_time": 1681811428,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 209154,
       "num": 209154,
       "word": "一起露营吧2终于定档了",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1681801530,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203443,
+      "num": 203443,
+      "word": "狗狗看到主人妆容后瑟瑟发抖",
+      "onboard_time": 1681812388,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 202586,
@@ -1355,14 +1395,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 171864,
-      "num": 171864,
-      "word": "狗狗看到主人妆容后瑟瑟发抖",
-      "onboard_time": 1681812388,
-      "rank": 25,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 171787,
       "num": 171787,
       "word": "老师出门散步顺手救了个人",
@@ -1379,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169576,
+      "num": 169576,
+      "word": "男子瘫痪儿子不愿供养将其活活饿死",
+      "onboard_time": 1681813889,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167590,
       "num": 167590,
       "word": "女子推理社的男嘉宾",
@@ -1393,14 +1433,6 @@
       "onboard_time": 1681793617,
       "rank": 42,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 167047,
-      "num": 167047,
-      "word": "千万不要把小孩寄宿到亲戚家",
-      "onboard_time": 1681812629,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 164385,
@@ -1457,14 +1489,6 @@
       "onboard_time": 1681759933,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157327,
-      "num": 1049612,
-      "word": "3名勇救落水老人的小伙考研上岸了",
-      "onboard_time": 1681811428,
-      "rank": 4,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 156801,
@@ -1571,12 +1595,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 140842,
-      "num": 140842,
-      "word": "男婴静脉被注射配方奶家长被瞒5天",
-      "onboard_time": 1681812809,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 140701,
+      "num": 140701,
+      "word": "钉钉更新300次评分上涨不到1分",
+      "onboard_time": 1681813350,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 139494,
@@ -1689,6 +1713,14 @@
       "onboard_time": 1681783286,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 127739,
+      "num": 127739,
+      "word": "建议下班回家后马上洗漱",
+      "onboard_time": 1681814009,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 122766,
