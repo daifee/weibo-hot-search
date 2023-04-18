@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681852536457,
+  "endTime": 1681853619714,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -5059,6 +5059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32783,
+      "num": 22763,
+      "word": "女孩应聘商务专员因身高177cm被拒",
+      "onboard_time": 1681848251,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32635,
       "num": 108416,
       "word": "DRG战胜eStar",
@@ -5075,14 +5083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29628,
-      "num": 18761,
-      "word": "女孩应聘商务专员因身高177cm被拒",
-      "onboard_time": 1681848251,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28525,
       "num": 29338,
       "word": "王者新赛季",
@@ -5091,8 +5091,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20609,
-      "num": 20609,
+      "raw_hot": 23702,
+      "num": 21878,
       "word": "孩子打人妈妈硬核反打教育",
       "onboard_time": 1681850531,
       "rank": 26,
