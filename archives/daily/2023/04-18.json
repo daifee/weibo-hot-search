@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681824811416,
+  "endTime": 1681827614687,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2969977,
+      "num": 2969977,
+      "word": "浙BWF896你做的好事藏不住了",
+      "onboard_time": 1681819590,
+      "rank": 5,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 2503755,
       "num": 495156,
       "word": "何超盈嫁妆",
@@ -41,14 +49,6 @@
       "onboard_time": 1681789049,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2419208,
-      "num": 2419208,
-      "word": "浙BWF896你做的好事藏不住了",
-      "onboard_time": 1681819590,
-      "rank": 5,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 2202852,
@@ -105,6 +105,14 @@
       "onboard_time": 1681778549,
       "rank": 0,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1535915,
+      "num": 128797,
+      "word": "邓紫棋没去何超莲婚礼",
+      "onboard_time": 1681825470,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1533065,
@@ -177,6 +185,14 @@
       "onboard_time": 1681787008,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1251415,
+      "num": 1251415,
+      "word": "建议下班回家后马上洗漱",
+      "onboard_time": 1681814009,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 1159971,
@@ -257,6 +273,14 @@
       "onboard_time": 1681789829,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 899239,
+      "num": 899239,
+      "word": "RNG官宣Angel离队",
+      "onboard_time": 1681825831,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 894114,
@@ -371,12 +395,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 673887,
-      "num": 673887,
-      "word": "建议下班回家后马上洗漱",
-      "onboard_time": 1681814009,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 677798,
+      "num": 677798,
+      "word": "高空杂技坠亡女演员家属获公司赔偿",
+      "onboard_time": 1681824030,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634413,
@@ -449,6 +473,14 @@
       "onboard_time": 1681802129,
       "rank": 28,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 559999,
+      "num": 304318,
+      "word": "窦骁妈妈好有气质",
+      "onboard_time": 1681825470,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 542125,
@@ -595,6 +627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 449289,
+      "num": 225957,
+      "word": "蛇族的美貌是家族遗传吧",
+      "onboard_time": 1681823790,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 446006,
       "num": 446006,
       "word": "田柾国将正式solo出道",
@@ -649,6 +689,14 @@
       "onboard_time": 1681798227,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 404566,
+      "num": 404566,
+      "word": "今天是安欣48岁生日",
+      "onboard_time": 1681822829,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 386209,
@@ -819,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 333554,
-      "num": 333554,
-      "word": "今天是安欣48岁生日",
-      "onboard_time": 1681822829,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 332430,
       "num": 332430,
       "word": "WBG出征总决赛",
@@ -883,6 +923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 309407,
+      "num": 269986,
+      "word": "澹台烬伤心灭魂钉会退回",
+      "onboard_time": 1681822288,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306798,
       "num": 274331,
       "word": "篮协曾提醒上海队和江苏队",
@@ -899,12 +947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306269,
+      "num": 219754,
+      "word": "成都偶遇鹿晗",
+      "onboard_time": 1681824690,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304766,
       "num": 218158,
       "word": "澹台烬你嘴呢",
       "onboard_time": 1681819590,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 302417,
+      "num": 302417,
+      "word": "超一半的年轻人有搭子",
+      "onboard_time": 1681826191,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300940,
@@ -1043,14 +1107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 269986,
-      "num": 269986,
-      "word": "澹台烬伤心灭魂钉会退回",
-      "onboard_time": 1681822288,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 269369,
       "num": 295451,
       "word": "小米13ultra价格",
@@ -1139,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244379,
+      "num": 216179,
+      "word": "少爷和我还是得合体",
+      "onboard_time": 1681823130,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241093,
       "num": 241093,
       "word": "大大担任eStar主教练",
@@ -1163,14 +1227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234040,
-      "num": 178897,
-      "word": "蛇族的美貌是家族遗传吧",
-      "onboard_time": 1681823790,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 232211,
       "num": 232211,
       "word": "NBA季后赛",
@@ -1179,12 +1235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228944,
-      "num": 290192,
-      "word": "高空杂技坠亡女演员家属获公司赔偿",
-      "onboard_time": 1681824030,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 228319,
+      "num": 228319,
+      "word": "吉克隽逸用母语唱出彝族的淳朴",
+      "onboard_time": 1681827029,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 227252,
@@ -1603,6 +1659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182790,
+      "num": 169389,
+      "word": "杭州公开一批色狼行政处罚结果",
+      "onboard_time": 1681826792,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181428,
       "num": 181428,
       "word": "王源公益纪录片",
@@ -1707,14 +1771,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 166641,
-      "num": 166641,
-      "word": "少爷和我还是得合体",
-      "onboard_time": 1681823130,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164385,
       "num": 164385,
       "word": "为什么成年人要学会自愈",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1681739428,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161547,
+      "num": 161547,
+      "word": "小米平板6",
+      "onboard_time": 1681822466,
+      "rank": 31,
+      "category": "科技"
     },
     {
       "raw_hot": 160535,
@@ -1827,6 +1891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 151195,
+      "num": 151195,
+      "word": "杂技演员高空坠亡事故原因公布",
+      "onboard_time": 1681827452,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150556,
       "num": 150556,
       "word": "金智秀FLOWER横版直拍",
@@ -1875,6 +1947,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 147480,
+      "num": 147480,
+      "word": "林俊杰新歌愿与愁",
+      "onboard_time": 1681826492,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146150,
       "num": 146150,
       "word": "叶冰裳主动讨好澹台烬",
@@ -1905,6 +1985,14 @@
       "onboard_time": 1681740267,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143693,
+      "num": 143693,
+      "word": "我追星的状态",
+      "onboard_time": 1681827093,
+      "rank": 38,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 142668,
@@ -2059,6 +2147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 121666,
+      "num": 1044894,
+      "word": "总台独家影像再揭日寇滔天罪行",
+      "onboard_time": 1681824392,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119852,
       "num": 119852,
       "word": "王菊终于又跳舞了",
@@ -2107,20 +2203,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 115862,
-      "num": 115862,
-      "word": "成都偶遇鹿晗",
-      "onboard_time": 1681824690,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114771,
       "num": 114771,
       "word": "谢霆锋打拳击",
       "onboard_time": 1681797629,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112904,
+      "num": 112904,
+      "word": "速写60天挑战赛",
+      "onboard_time": 1681826911,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 112731,
@@ -2449,14 +2545,6 @@
       "onboard_time": 1681808426,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34648,
-      "num": 569250,
-      "word": "总台独家影像再揭日寇滔天罪行",
-      "onboard_time": 1681824392,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2474,6 +2562,9 @@
     },
     {
       "word": "#云逛广交会#"
+    },
+    {
+      "word": "#成都大运会倒计时100天主题片100%发布#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1681827614687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2969977,
+        "num": 2969977,
+        "word": "浙BWF896你做的好事藏不住了",
+        "onboard_time": 1681819590,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1251415,
+        "num": 1251415,
+        "word": "建议下班回家后马上洗漱",
+        "onboard_time": 1681814009,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121666,
+        "num": 1044894,
+        "word": "总台独家影像再揭日寇滔天罪行",
+        "onboard_time": 1681824392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899239,
+        "num": 899239,
+        "word": "RNG官宣Angel离队",
+        "onboard_time": 1681825831,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 677798,
+        "num": 677798,
+        "word": "高空杂技坠亡女演员家属获公司赔偿",
+        "onboard_time": 1681824030,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497295,
+        "num": 497295,
+        "word": "费曼建议金像奖加一个最佳陪跑奖",
+        "onboard_time": 1681822589,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462349,
+        "num": 462349,
+        "word": "公司取消了所有的调休",
+        "onboard_time": 1681809511,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404566,
+        "num": 404566,
+        "word": "今天是安欣48岁生日",
+        "onboard_time": 1681822829,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311487,
+        "num": 311487,
+        "word": "小米手环8",
+        "onboard_time": 1681822888,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 311098,
+        "num": 311098,
+        "word": "LOL前职业选手被警方立案",
+        "onboard_time": 1681818387,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1041944,
+        "num": 310639,
+        "word": "宋祖儿 轧戏",
+        "onboard_time": 1681811850,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 981077,
+        "num": 306885,
+        "word": "男婴静脉被注射配方奶家长被瞒5天",
+        "onboard_time": 1681812809,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615423,
+        "num": 305739,
+        "word": "男子瘫痪儿子不愿供养将其活活饿死",
+        "onboard_time": 1681813889,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559999,
+        "num": 304318,
+        "word": "窦骁妈妈好有气质",
+        "onboard_time": 1681825470,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302417,
+        "num": 302417,
+        "word": "超一半的年轻人有搭子",
+        "onboard_time": 1681826191,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284837,
+        "num": 284837,
+        "word": "别用饭圈那一套对待国宝",
+        "onboard_time": 1681816169,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273251,
+        "num": 273251,
+        "word": "你有勇气去gapyear吗",
+        "onboard_time": 1681819827,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268588,
+        "num": 268588,
+        "word": "汤唯不知道Q3Q4的意思",
+        "onboard_time": 1681813110,
+        "rank": 17,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 244357,
+        "num": 244357,
+        "word": "竹竿拍大熊猫饲养员先休假后调岗",
+        "onboard_time": 1681820968,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228319,
+        "num": 228319,
+        "word": "吉克隽逸用母语唱出彝族的淳朴",
+        "onboard_time": 1681827029,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449289,
+        "num": 225957,
+        "word": "蛇族的美貌是家族遗传吧",
+        "onboard_time": 1681823790,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322564,
+        "num": 225022,
+        "word": "千万不要把小孩寄宿到亲戚家",
+        "onboard_time": 1681812629,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309407,
+        "num": 222732,
+        "word": "澹台烬伤心灭魂钉会退回",
+        "onboard_time": 1681822288,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306269,
+        "num": 219754,
+        "word": "成都偶遇鹿晗",
+        "onboard_time": 1681824690,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244379,
+        "num": 216179,
+        "word": "少爷和我还是得合体",
+        "onboard_time": 1681823130,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214599,
+        "num": 214599,
+        "word": "小米13ultra价格",
+        "onboard_time": 1681821327,
+        "rank": 25,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 206396,
+        "num": 206396,
+        "word": "幼童落水变植物人时隔2个月苏醒",
+        "onboard_time": 1681820007,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 178052,
+        "num": 178052,
+        "word": "涉嫌侮辱死者自嗨锅商家被罚80万",
+        "onboard_time": 1681811249,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175806,
+        "num": 175806,
+        "word": "网传男生同时交往8个女友翻车",
+        "onboard_time": 1681808908,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170108,
+        "num": 170108,
+        "word": "辽宁男篮vs北京男篮",
+        "onboard_time": 1681819590,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182790,
+        "num": 169389,
+        "word": "杭州公开一批色狼行政处罚结果",
+        "onboard_time": 1681826792,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161547,
+        "num": 161547,
+        "word": "小米平板6",
+        "onboard_time": 1681822466,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 161198,
+        "num": 161198,
+        "word": "小米发布会",
+        "onboard_time": 1681816169,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 159654,
+        "num": 159654,
+        "word": "张镇麟战斧隔扣",
+        "onboard_time": 1681820066,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153415,
+        "num": 153415,
+        "word": "郑渊洁称维权艰难不再发表作品",
+        "onboard_time": 1681817908,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151195,
+        "num": 151195,
+        "word": "杂技演员高空坠亡事故原因公布",
+        "onboard_time": 1681827452,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150967,
+        "num": 150967,
+        "word": "科学家发现男士避孕关键基因",
+        "onboard_time": 1681801530,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147480,
+        "num": 147480,
+        "word": "林俊杰新歌愿与愁",
+        "onboard_time": 1681826492,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143693,
+        "num": 143693,
+        "word": "我追星的状态",
+        "onboard_time": 1681827093,
+        "rank": 38,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 142073,
+        "num": 142073,
+        "word": "优酷说陈都灵好惨一女的",
+        "onboard_time": 1681809086,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131840,
+        "num": 131840,
+        "word": "长月烬明",
+        "onboard_time": 1681811487,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128867,
+        "num": 128867,
+        "word": "WBG出征总决赛",
+        "onboard_time": 1681814849,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1535915,
+        "num": 128797,
+        "word": "邓紫棋没去何超莲婚礼",
+        "onboard_time": 1681825470,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129133,
+        "num": 128721,
+        "word": "翩然辞职",
+        "onboard_time": 1681821686,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127714,
+        "num": 127714,
+        "word": "淄博一烧烤店生意太火爆停业休息",
+        "onboard_time": 1681801948,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114666,
+        "num": 114666,
+        "word": "爱奇艺的存货好多",
+        "onboard_time": 1681804650,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112904,
+        "num": 112904,
+        "word": "速写60天挑战赛",
+        "onboard_time": 1681826911,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110230,
+        "num": 110230,
+        "word": "大大担任eStar主教练",
+        "onboard_time": 1681819406,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108483,
+        "num": 108483,
+        "word": "INTO1演唱会",
+        "onboard_time": 1681822589,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106616,
+        "num": 106616,
+        "word": "王一博新电影repo",
+        "onboard_time": 1681820367,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会倒计时100天主题片100%发布#"
+    }
+  }
+}
