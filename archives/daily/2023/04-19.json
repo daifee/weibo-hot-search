@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681850029445,
+  "endTime": 1681852536457,
   "band_list": [
     {
       "raw_hot": 1664469,
@@ -427,7 +427,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23920,
+      "raw_hot": 29628,
       "num": 18761,
       "word": "女孩应聘商务专员因身高177cm被拒",
       "onboard_time": 1681848251,
@@ -435,7 +435,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15239,
+      "raw_hot": 20609,
+      "num": 20609,
+      "word": "孩子打人妈妈硬核反打教育",
+      "onboard_time": 1681850531,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17281,
       "num": 21442,
       "word": "小米13Ultra徕卡光学",
       "onboard_time": 1681817128,
