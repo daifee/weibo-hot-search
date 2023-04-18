@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681834773301,
+  "endTime": 1681835662688,
   "band_list": [
     {
       "raw_hot": 1664469,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 352226,
+      "num": 352226,
+      "word": "叶冰裳彻底黑化",
+      "onboard_time": 1681832130,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328915,
       "num": 302033,
       "word": "马嘉祺说如果有人骂魏如萱我就去骂他",
@@ -105,14 +113,6 @@
       "onboard_time": 1681830570,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 308772,
-      "num": 308772,
-      "word": "叶冰裳彻底黑化",
-      "onboard_time": 1681832130,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 299896,
@@ -243,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151508,
-      "num": 151508,
+      "raw_hot": 151685,
+      "num": 151685,
       "word": "别用饭圈那一套对待国宝",
       "onboard_time": 1681816169,
       "rank": 31,
@@ -323,8 +323,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 96433,
-      "num": 96433,
+      "raw_hot": 102944,
+      "num": 102944,
       "word": "肖俊沈小婷舞蹈挑战",
       "onboard_time": 1681834346,
       "rank": 41,
@@ -379,6 +379,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 79553,
+      "num": 79553,
+      "word": "WBG出征总决赛",
+      "onboard_time": 1681814849,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 76375,
       "num": 76375,
       "word": "我追星的状态",
@@ -387,25 +395,36 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 76053,
-      "num": 76053,
-      "word": "WBG出征总决赛",
-      "onboard_time": 1681814849,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 73932,
       "num": 661259,
       "word": "总台独家影像再揭日寇滔天罪行",
       "onboard_time": 1681824392,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68188,
+      "num": 68188,
+      "word": "郑渊洁称维权艰难不再发表作品",
+      "onboard_time": 1681817908,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67884,
+      "num": 67884,
+      "word": "山东一地要求公务人员回国后核酸",
+      "onboard_time": 1681835185,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#成都大运会倒计时100天主题片100%发布#"
+    },
+    {
+      "word": "#云逛广交会#"
     }
   ]
 }

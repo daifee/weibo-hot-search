@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681834773301,
+  "endTime": 1681835662688,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -1787,6 +1787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352226,
+      "num": 352226,
+      "word": "叶冰裳彻底黑化",
+      "onboard_time": 1681832130,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 351320,
       "num": 351320,
       "word": "刘青云 掌声嘘声总好过无声",
@@ -1992,14 +2000,6 @@
       "word": "澹台烬伤心灭魂钉会退回",
       "onboard_time": 1681822288,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 308772,
-      "num": 308772,
-      "word": "叶冰裳彻底黑化",
-      "onboard_time": 1681832130,
-      "rank": 9,
       "category": "影视"
     },
     {
@@ -4531,6 +4531,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 102944,
+      "num": 102944,
+      "word": "肖俊沈小婷舞蹈挑战",
+      "onboard_time": 1681834346,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102870,
       "num": 102870,
       "word": "月曜",
@@ -4633,14 +4641,6 @@
       "onboard_time": 1681692807,
       "rank": 46,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 96433,
-      "num": 96433,
-      "word": "肖俊沈小婷舞蹈挑战",
-      "onboard_time": 1681834346,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 96289,
@@ -4929,6 +4929,14 @@
       "onboard_time": 1681732826,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 67884,
+      "num": 67884,
+      "word": "山东一地要求公务人员回国后核酸",
+      "onboard_time": 1681835185,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66532,

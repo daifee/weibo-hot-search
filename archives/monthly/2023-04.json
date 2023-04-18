@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681834773301,
+  "endTime": 1681835662688,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -15611,6 +15611,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 352226,
+      "num": 352226,
+      "word": "叶冰裳彻底黑化",
+      "onboard_time": 1681832130,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352083,
       "num": 352083,
       "word": "梁静茹演唱会",
@@ -17569,14 +17577,6 @@
       "onboard_time": 1681521023,
       "rank": 36,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 308772,
-      "num": 308772,
-      "word": "叶冰裳彻底黑化",
-      "onboard_time": 1681832130,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 308701,
@@ -40915,6 +40915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102944,
+      "num": 102944,
+      "word": "肖俊沈小婷舞蹈挑战",
+      "onboard_time": 1681834346,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102870,
       "num": 102870,
       "word": "月曜",
@@ -41441,14 +41449,6 @@
       "onboard_time": 1681692807,
       "rank": 46,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 96433,
-      "num": 96433,
-      "word": "肖俊沈小婷舞蹈挑战",
-      "onboard_time": 1681834346,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 96311,
@@ -42625,6 +42625,14 @@
       "onboard_time": 1680734656,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67884,
+      "num": 67884,
+      "word": "山东一地要求公务人员回国后核酸",
+      "onboard_time": 1681835185,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67577,
