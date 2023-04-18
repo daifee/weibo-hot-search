@@ -1,0 +1,410 @@
+{
+  "runTime": 1681860837915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1127006,
+        "num": 1127006,
+        "word": "浙BWF896你做的好事藏不住了",
+        "onboard_time": 1681819590,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 826491,
+        "num": 826491,
+        "word": "山东一地要求公务人员回国后核酸",
+        "onboard_time": 1681835185,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76850,
+        "num": 514542,
+        "word": "总台独家影像再揭日寇滔天罪行",
+        "onboard_time": 1681824392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513296,
+        "num": 513296,
+        "word": "郑渊洁告别书",
+        "onboard_time": 1681860141,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455419,
+        "num": 455419,
+        "word": "花花 猪八花",
+        "onboard_time": 1681859059,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359715,
+        "num": 359715,
+        "word": "超一半的年轻人有搭子",
+        "onboard_time": 1681826191,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338315,
+        "num": 338315,
+        "word": "建议下班回家后马上洗漱",
+        "onboard_time": 1681814009,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330208,
+        "num": 330208,
+        "word": "杂技演员高空坠亡事故原因公布",
+        "onboard_time": 1681827452,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309880,
+        "num": 309880,
+        "word": "杨幂综艺",
+        "onboard_time": 1681829911,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275482,
+        "num": 275482,
+        "word": "让浴室地面倾斜十五度",
+        "onboard_time": 1681829731,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1455991,
+        "num": 268407,
+        "word": "何超莲称婚礼是窦骁一手包办",
+        "onboard_time": 1681832549,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337318,
+        "num": 263367,
+        "word": "男子瘫痪儿子不愿供养将其活活饿死",
+        "onboard_time": 1681813889,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249966,
+        "num": 249966,
+        "word": "群演爆料王鹤棣片场骂人",
+        "onboard_time": 1681860805,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229057,
+        "num": 229057,
+        "word": "宋祖儿 轧戏",
+        "onboard_time": 1681811850,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208694,
+        "num": 208694,
+        "word": "演员宗利群去世",
+        "onboard_time": 1681860443,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154704,
+        "num": 154704,
+        "word": "叶冰裳彻底黑化",
+        "onboard_time": 1681832130,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147963,
+        "num": 147963,
+        "word": "男婴静脉被注射配方奶家长被瞒5天",
+        "onboard_time": 1681812809,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139992,
+        "num": 139992,
+        "word": "切尔西0比2皇马",
+        "onboard_time": 1681860264,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131974,
+        "num": 131974,
+        "word": "LOL前职业选手被警方立案",
+        "onboard_time": 1681818387,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129923,
+        "num": 129923,
+        "word": "汤唯不知道Q3Q4的意思",
+        "onboard_time": 1681813110,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 231273,
+        "num": 129911,
+        "word": "入职了家全是关系户的公司",
+        "onboard_time": 1681831229,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 218841,
+        "num": 129875,
+        "word": "广东男子驾驶宝马撞死5人被判死刑",
+        "onboard_time": 1681831531,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 173681,
+        "num": 129858,
+        "word": "3岁男孩为治大片胎记脸上埋扩张器",
+        "onboard_time": 1681831709,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159781,
+        "num": 129818,
+        "word": "忽然发现了上班的意义",
+        "onboard_time": 1681831649,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122894,
+        "num": 129794,
+        "word": "赵丽颖古装",
+        "onboard_time": 1681832010,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150368,
+        "num": 129747,
+        "word": "杭州公开一批色狼行政处罚结果",
+        "onboard_time": 1681826792,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145558,
+        "num": 129721,
+        "word": "女孩应聘商务专员因身高177cm被拒",
+        "onboard_time": 1681848251,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129712,
+        "num": 129712,
+        "word": "蛇族的美貌是家族遗传吧",
+        "onboard_time": 1681823790,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124287,
+        "num": 124287,
+        "word": "千万不要把小孩寄宿到亲戚家",
+        "onboard_time": 1681812629,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121894,
+        "num": 121894,
+        "word": "存够多少钱才会有安全感",
+        "onboard_time": 1681829852,
+        "rank": 29,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 107977,
+        "num": 107977,
+        "word": "刘亦菲有风剧组聚会合照",
+        "onboard_time": 1681830570,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102059,
+        "num": 102059,
+        "word": "高空杂技坠亡女演员家属获公司赔偿",
+        "onboard_time": 1681824030,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98266,
+        "num": 98266,
+        "word": "妈妈喊着靓仔发现是自己仔",
+        "onboard_time": 1681860502,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98066,
+        "num": 98066,
+        "word": "公司取消了所有的调休",
+        "onboard_time": 1681809511,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97759,
+        "num": 97759,
+        "word": "马嘉祺说如果有人骂魏如萱我就去骂他",
+        "onboard_time": 1681832248,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96850,
+        "num": 96850,
+        "word": "离职要不要请同事吃饭",
+        "onboard_time": 1681860502,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95571,
+        "num": 95571,
+        "word": "孩子打人妈妈硬核反打教育",
+        "onboard_time": 1681850531,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94718,
+        "num": 94718,
+        "word": "那不勒斯1比1AC米兰",
+        "onboard_time": 1681859360,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94078,
+        "num": 94078,
+        "word": "福建古田地震预警",
+        "onboard_time": 1681860323,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90643,
+        "num": 90643,
+        "word": "RNG官宣Angel离队",
+        "onboard_time": 1681825831,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89562,
+        "num": 89562,
+        "word": "费曼建议金像奖加一个最佳陪跑奖",
+        "onboard_time": 1681822589,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 82646,
+        "num": 82646,
+        "word": "宣城来抢长月烬明了",
+        "onboard_time": 1681833266,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 80610,
+        "num": 80610,
+        "word": "白鹿成优秀毕业生",
+        "onboard_time": 1681860744,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76709,
+        "num": 76709,
+        "word": "王源帮粉丝捡手机",
+        "onboard_time": 1681830030,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76141,
+        "num": 76141,
+        "word": "竹竿拍大熊猫饲养员先休假后调岗",
+        "onboard_time": 1681820968,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75746,
+        "num": 75746,
+        "word": "上海人均存款21.26万",
+        "onboard_time": 1681828052,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 74769,
+        "num": 74769,
+        "word": "郑渊洁称维权艰难不再发表作品",
+        "onboard_time": 1681817908,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73485,
+        "num": 73485,
+        "word": "你有勇气去gapyear吗",
+        "onboard_time": 1681819827,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72291,
+        "num": 72291,
+        "word": "别用饭圈那一套对待国宝",
+        "onboard_time": 1681816169,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38812,
+        "num": 71496,
+        "word": "眼周瑜伽",
+        "onboard_time": 1681860382,
+        "rank": 49,
+        "category": "美妆,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#云逛广交会#"
+    }
+  }
+}

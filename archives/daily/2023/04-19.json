@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681859838230,
+  "endTime": 1681860837915,
   "band_list": [
     {
       "raw_hot": 1664469,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1118825,
-      "num": 1118825,
+      "raw_hot": 1127006,
+      "num": 1127006,
       "word": "浙BWF896你做的好事藏不住了",
       "onboard_time": 1681819590,
       "rank": 0,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513296,
+      "num": 513296,
+      "word": "郑渊洁告别书",
+      "onboard_time": 1681860141,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489841,
       "num": 305796,
       "word": "宋祖儿 轧戏",
@@ -49,6 +57,14 @@
       "onboard_time": 1681813889,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455419,
+      "num": 455419,
+      "word": "花花 猪八花",
+      "onboard_time": 1681859059,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 451249,
@@ -171,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249966,
+      "num": 249966,
+      "word": "群演爆料王鹤棣片场骂人",
+      "onboard_time": 1681860805,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247733,
       "num": 188445,
       "word": "刘亦菲有风剧组聚会合照",
@@ -201,6 +225,14 @@
       "onboard_time": 1681823790,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208694,
+      "num": 208694,
+      "word": "演员宗利群去世",
+      "onboard_time": 1681860443,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 206213,
@@ -267,12 +299,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145558,
+      "num": 129721,
+      "word": "女孩应聘商务专员因身高177cm被拒",
+      "onboard_time": 1681848251,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141013,
       "num": 129206,
       "word": "福州一小区起火致2人身亡",
       "onboard_time": 1681835544,
       "rank": 14,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 139992,
+      "num": 139992,
+      "word": "切尔西0比2皇马",
+      "onboard_time": 1681860264,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 132029,
@@ -315,14 +363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125325,
-      "num": 100780,
-      "word": "女孩应聘商务专员因身高177cm被拒",
-      "onboard_time": 1681848251,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122362,
       "num": 122362,
       "word": "郭艾伦辽宁队史季后赛得分王",
@@ -355,14 +395,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 111813,
-      "num": 111813,
-      "word": "花花 猪八花",
-      "onboard_time": 1681859059,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 102944,
       "num": 102944,
       "word": "肖俊沈小婷舞蹈挑战",
@@ -379,6 +411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98266,
+      "num": 98266,
+      "word": "妈妈喊着靓仔发现是自己仔",
+      "onboard_time": 1681860502,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96850,
+      "num": 96850,
+      "word": "离职要不要请同事吃饭",
+      "onboard_time": 1681860502,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95947,
       "num": 95947,
       "word": "费曼建议金像奖加一个最佳陪跑奖",
@@ -387,11 +435,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 94307,
-      "num": 94307,
+      "raw_hot": 95571,
+      "num": 95571,
       "word": "孩子打人妈妈硬核反打教育",
       "onboard_time": 1681850531,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94078,
+      "num": 94078,
+      "word": "福建古田地震预警",
+      "onboard_time": 1681860323,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -427,12 +483,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 80610,
+      "num": 80610,
+      "word": "白鹿成优秀毕业生",
+      "onboard_time": 1681860744,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79553,
       "num": 79553,
       "word": "WBG出征总决赛",
       "onboard_time": 1681814849,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 76850,
+      "num": 661259,
+      "word": "总台独家影像再揭日寇滔天罪行",
+      "onboard_time": 1681824392,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76375,
@@ -443,20 +515,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 74206,
-      "num": 74206,
+      "raw_hot": 74769,
+      "num": 74769,
       "word": "郑渊洁称维权艰难不再发表作品",
       "onboard_time": 1681817908,
       "rank": 48,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73932,
-      "num": 661259,
-      "word": "总台独家影像再揭日寇滔天罪行",
-      "onboard_time": 1681824392,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 38812,
+      "num": 71496,
+      "word": "眼周瑜伽",
+      "onboard_time": 1681860382,
+      "rank": 49,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 25827,

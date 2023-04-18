@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681859838230,
+  "endTime": 1681860837915,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -1155,6 +1155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 513296,
+      "num": 513296,
+      "word": "郑渊洁告别书",
+      "onboard_time": 1681860141,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509630,
       "num": 328593,
       "word": "周扬青刮痧",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1681808908,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455419,
+      "num": 455419,
+      "word": "花花 猪八花",
+      "onboard_time": 1681859059,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 451831,
@@ -2387,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249966,
+      "num": 249966,
+      "word": "群演爆料王鹤棣片场骂人",
+      "onboard_time": 1681860805,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249734,
       "num": 249734,
       "word": "校方通报男生因琐事纠纷动刀伤人",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1681646366,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208694,
+      "num": 208694,
+      "word": "演员宗利群去世",
+      "onboard_time": 1681860443,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 208545,
@@ -3979,6 +4011,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 145558,
+      "num": 129721,
+      "word": "女孩应聘商务专员因身高177cm被拒",
+      "onboard_time": 1681848251,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145413,
       "num": 145413,
       "word": "狗改不了吃屎原来是真的",
@@ -4057,6 +4097,14 @@
       "onboard_time": 1681727606,
       "rank": 44,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 139992,
+      "num": 139992,
+      "word": "切尔西0比2皇马",
+      "onboard_time": 1681860264,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 139418,
@@ -4267,14 +4315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125325,
-      "num": 100780,
-      "word": "女孩应聘商务专员因身高177cm被拒",
-      "onboard_time": 1681848251,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124678,
       "num": 124678,
       "word": "刘雨昕推荐艺术家劳尔马克斯",
@@ -4417,14 +4457,6 @@
       "onboard_time": 1681659447,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111813,
-      "num": 111813,
-      "word": "花花 猪八花",
-      "onboard_time": 1681859059,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 110750,
@@ -4643,6 +4675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98266,
+      "num": 98266,
+      "word": "妈妈喊着靓仔发现是自己仔",
+      "onboard_time": 1681860502,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98203,
       "num": 129257,
       "word": "纯电大G有意思",
@@ -4665,6 +4705,14 @@
       "onboard_time": 1681716927,
       "rank": 43,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 96850,
+      "num": 96850,
+      "word": "离职要不要请同事吃饭",
+      "onboard_time": 1681860502,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 96692,
@@ -4691,6 +4739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95571,
+      "num": 95571,
+      "word": "孩子打人妈妈硬核反打教育",
+      "onboard_time": 1681850531,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94834,
       "num": 289085,
       "word": "问界M9外观曝光",
@@ -4707,11 +4763,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94307,
-      "num": 94307,
-      "word": "孩子打人妈妈硬核反打教育",
-      "onboard_time": 1681850531,
-      "rank": 26,
+      "raw_hot": 94078,
+      "num": 94078,
+      "word": "福建古田地震预警",
+      "onboard_time": 1681860323,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -4865,6 +4921,14 @@
       "onboard_time": 1681790311,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80610,
+      "num": 80610,
+      "word": "白鹿成优秀毕业生",
+      "onboard_time": 1681860744,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 80504,
@@ -5081,6 +5145,14 @@
       "onboard_time": 1681808426,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38812,
+      "num": 71496,
+      "word": "眼周瑜伽",
+      "onboard_time": 1681860382,
+      "rank": 49,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 38339,
