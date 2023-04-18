@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681796013851,
+  "endTime": 1681798949770,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -120,6 +120,14 @@
       "word": "那英十年前为调休发声",
       "onboard_time": 1681739546,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1953519,
+      "num": 359159,
+      "word": "赌王三太气质",
+      "onboard_time": 1681795477,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -355,6 +363,14 @@
       "category": "科技,艺人"
     },
     {
+      "raw_hot": 1078914,
+      "num": 318481,
+      "word": "何超琼",
+      "onboard_time": 1681796849,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1078287,
       "num": 1078287,
       "word": "李春江 马布里",
@@ -489,14 +505,6 @@
       "onboard_time": 1681744290,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 822349,
-      "num": 202554,
-      "word": "赌王三太气质",
-      "onboard_time": 1681795477,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 804634,
@@ -737,6 +745,14 @@
       "onboard_time": 1681706553,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 587075,
+      "num": 207020,
+      "word": "48岁妈妈参加恋综被说像偶像剧女主",
+      "onboard_time": 1681795829,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 586587,
@@ -1123,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409029,
+      "num": 206986,
+      "word": "戚薇说130斤的我观感欠佳",
+      "onboard_time": 1681798227,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406977,
       "num": 406977,
       "word": "油价",
@@ -1227,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378581,
+      "num": 378581,
+      "word": "库里生涯首次落后",
+      "onboard_time": 1681794334,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376698,
       "num": 376698,
       "word": "今年一季度GDP同比增长4.5%",
@@ -1248,14 +1280,6 @@
       "word": "勇士VS国王",
       "onboard_time": 1681784906,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 368857,
-      "num": 368857,
-      "word": "库里生涯首次落后",
-      "onboard_time": 1681794334,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -1347,6 +1371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 336869,
+      "num": 336869,
+      "word": "专家建议固定法定假日时间",
+      "onboard_time": 1681793256,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334315,
       "num": 326508,
       "word": "被自己的大屁股救了一命",
@@ -1376,14 +1408,6 @@
       "word": "杭州坠楼女童家属申请变更保姆罪名",
       "onboard_time": 1681744826,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329912,
-      "num": 329912,
-      "word": "专家建议固定法定假日时间",
-      "onboard_time": 1681793256,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1995,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208638,
+      "num": 208638,
+      "word": "被撕雨衣女生回应网络传言",
+      "onboard_time": 1681797751,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208545,
       "num": 208545,
       "word": "长空之王险版预告",
@@ -2071,6 +2103,22 @@
       "num": 274419,
       "word": "易烊千玺新专辑预告照",
       "onboard_time": 1681711406,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 205164,
+      "num": 195605,
+      "word": "张艺兴 福建平潭",
+      "onboard_time": 1681798227,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204851,
+      "num": 204851,
+      "word": "薛之谦西安",
+      "onboard_time": 1681797029,
       "rank": 23,
       "category": "音乐"
     },
@@ -2267,20 +2315,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193026,
-      "num": 193026,
-      "word": "48岁妈妈参加恋综被说像偶像剧女主",
-      "onboard_time": 1681795829,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192902,
       "num": 192902,
       "word": "法考",
       "onboard_time": 1681718248,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192802,
+      "num": 149333,
+      "word": "张雨绮问这个节目没有男的是吧",
+      "onboard_time": 1681798469,
+      "rank": 30,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 192601,
@@ -2377,6 +2425,14 @@
       "onboard_time": 1681791574,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186635,
+      "num": 186635,
+      "word": "苹果公司已注册DailyCash商标",
+      "onboard_time": 1681798409,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 186499,
@@ -2835,12 +2891,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150017,
+      "num": 150017,
+      "word": "Gr对战Wolves",
+      "onboard_time": 1681798409,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 149470,
+      "num": 149470,
+      "word": "李雪琴称呼宋茜维多利亚女士",
+      "onboard_time": 1681797510,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149155,
+      "num": 149155,
+      "word": "COA6全球总决赛",
+      "onboard_time": 1681798409,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148736,
       "num": 148736,
       "word": "四川乡村中学生给野生熊猫做体温计",
       "onboard_time": 1681722026,
       "rank": 37,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 148667,
+      "num": 148667,
+      "word": "何广智为什么跪着玩游戏",
+      "onboard_time": 1681797389,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 147940,
@@ -3123,6 +3211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119169,
+      "num": 119169,
+      "word": "龚俊精彩11周年纪念刊",
+      "onboard_time": 1681798050,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 118445,
       "num": 118445,
       "word": "公务接待喝20元一瓶白酒被处分",
@@ -3145,6 +3241,14 @@
       "onboard_time": 1681719267,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114771,
+      "num": 114771,
+      "word": "谢霆锋打拳击",
+      "onboard_time": 1681797629,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 112190,
