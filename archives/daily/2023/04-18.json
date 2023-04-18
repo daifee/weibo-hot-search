@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681799740696,
+  "endTime": 1681802170753,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 817202,
+      "num": 817202,
+      "word": "戚薇说130斤的我观感欠佳",
+      "onboard_time": 1681798227,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 728527,
       "num": 728527,
       "word": "国内检出多例XBB.1.16",
@@ -217,6 +225,14 @@
       "onboard_time": 1681778307,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 691913,
+      "num": 182207,
+      "word": "王源 倩碧",
+      "onboard_time": 1681800510,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 686559,
@@ -267,12 +283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 567722,
-      "num": 206986,
-      "word": "戚薇说130斤的我观感欠佳",
-      "onboard_time": 1681798227,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 542125,
+      "num": 345491,
+      "word": "被撕雨衣女生回应网络传言",
+      "onboard_time": 1681797751,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 537251,
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407283,
+      "num": 407283,
+      "word": "张艺兴 福建平潭",
+      "onboard_time": 1681798227,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 386209,
       "num": 386209,
       "word": "在微信状态养个懒羊羊",
@@ -449,6 +473,14 @@
       "onboard_time": 1681783885,
       "rank": 16,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 372931,
+      "num": 294738,
+      "word": "苹果公司已注册DailyCash商标",
+      "onboard_time": 1681798409,
+      "rank": 26,
+      "category": "科技"
     },
     {
       "raw_hot": 371698,
@@ -499,22 +531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 353437,
-      "num": 353437,
-      "word": "张艺兴 福建平潭",
-      "onboard_time": 1681798227,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 345491,
-      "num": 345491,
-      "word": "被撕雨衣女生回应网络传言",
-      "onboard_time": 1681797751,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336869,
       "num": 336869,
       "word": "专家建议固定法定假日时间",
@@ -539,8 +555,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318443,
-      "num": 161101,
+      "raw_hot": 320568,
+      "num": 179928,
       "word": "张雨绮问这个节目没有男的是吧",
       "onboard_time": 1681798469,
       "rank": 30,
@@ -587,6 +603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 299757,
+      "num": 299757,
+      "word": "科学家发现男士避孕关键基因",
+      "onboard_time": 1681801530,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 297058,
       "num": 297058,
       "word": "长期戴耳机",
@@ -601,6 +625,14 @@
       "onboard_time": 1681741470,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292706,
+      "num": 292706,
+      "word": "玉骨遥或将5月播出",
+      "onboard_time": 1681798951,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 288670,
@@ -667,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271299,
-      "num": 271299,
-      "word": "玉骨遥或将5月播出",
-      "onboard_time": 1681798951,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 265350,
       "num": 265350,
       "word": "姜涛曾参加快乐男声",
@@ -687,6 +711,14 @@
       "num": 263093,
       "word": "八角笼中定档",
       "onboard_time": 1681785626,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 260255,
+      "num": 178440,
+      "word": "国风无双姜贞羽一秒变装",
+      "onboard_time": 1681800447,
       "rank": 26,
       "category": "影视"
     },
@@ -755,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222289,
+      "num": 222289,
+      "word": "gidle特典",
+      "onboard_time": 1681800867,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221851,
       "num": 221851,
       "word": "新钉钉拍照可以生成小程序",
@@ -801,6 +841,14 @@
       "onboard_time": 1681737929,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210100,
+      "num": 181775,
+      "word": "考上研究生才知道的事",
+      "onboard_time": 1681801227,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 209154,
@@ -851,6 +899,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204838,
+      "num": 175640,
+      "word": "防弹少年团摸头照",
+      "onboard_time": 1681801530,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202586,
       "num": 202586,
       "word": "田曦薇细节敏锐度",
@@ -897,14 +953,6 @@
       "onboard_time": 1681776268,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 197679,
-      "num": 197679,
-      "word": "苹果公司已注册DailyCash商标",
-      "onboard_time": 1681798409,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 197224,
@@ -1011,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182324,
+      "num": 182324,
+      "word": "普尔在笑什么",
+      "onboard_time": 1681799369,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181428,
       "num": 181428,
       "word": "王源公益纪录片",
@@ -1043,6 +1099,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 172813,
+      "num": 172813,
+      "word": "智力障碍男生把迷路女童背到派出所",
+      "onboard_time": 1681802129,
+      "rank": 28,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 171787,
       "num": 171787,
       "word": "老师出门散步顺手救了个人",
@@ -1073,6 +1137,30 @@
       "onboard_time": 1681793617,
       "rank": 42,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 164160,
+      "num": 164160,
+      "word": "千万不要跟风买墨镜",
+      "onboard_time": 1681801109,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163819,
+      "num": 163819,
+      "word": "茉莉花茶毛肚",
+      "onboard_time": 1681799188,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 162953,
+      "num": 162953,
+      "word": "五一假期去哪个演唱会",
+      "onboard_time": 1681800447,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 161715,
@@ -1259,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128794,
+      "num": 128794,
+      "word": "李荣浩苏州演唱会",
+      "onboard_time": 1681801589,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128577,
       "num": 128577,
       "word": "小时候的文具盒好高级啊",
@@ -1275,12 +1371,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122122,
-      "num": 122122,
-      "word": "茉莉花茶毛肚",
-      "onboard_time": 1681799188,
-      "rank": 36,
-      "category": "美食"
+      "raw_hot": 122766,
+      "num": 122766,
+      "word": "澹台烬的一天花絮",
+      "onboard_time": 1681800447,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 122060,
@@ -1289,6 +1385,14 @@
       "onboard_time": 1681727189,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120606,
+      "num": 120606,
+      "word": "医院回应患者住院8天花40多万",
+      "onboard_time": 1681801709,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119169,
@@ -1313,6 +1417,14 @@
       "onboard_time": 1681744290,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 116974,
+      "num": 116974,
+      "word": "淄博一烧烤店生意太火爆停业休息",
+      "onboard_time": 1681801948,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116338,
@@ -1393,6 +1505,14 @@
       "onboard_time": 1681745667,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96692,
+      "num": 111099,
+      "word": "WB包揽第十周最佳阵容",
+      "onboard_time": 1681800447,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 96160,

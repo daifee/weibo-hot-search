@@ -1,0 +1,410 @@
+{
+  "runTime": 1681802170753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1062787,
+        "num": 1062787,
+        "word": "格林真脏",
+        "onboard_time": 1681792299,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 992793,
+        "num": 992793,
+        "word": "你还在用余额宝吗",
+        "onboard_time": 1681786946,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48303,
+        "num": 879789,
+        "word": "我为家乡特色美食来代言",
+        "onboard_time": 1681790311,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2016147,
+        "num": 858959,
+        "word": "窦骁何超莲官宣婚礼",
+        "onboard_time": 1681794096,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817202,
+        "num": 817202,
+        "word": "戚薇说130斤的我观感欠佳",
+        "onboard_time": 1681798227,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419295,
+        "num": 419295,
+        "word": "易烊千玺专辑封面是巩俐",
+        "onboard_time": 1681791870,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 407283,
+        "num": 407283,
+        "word": "张艺兴 福建平潭",
+        "onboard_time": 1681798227,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327716,
+        "num": 327716,
+        "word": "数名外籍女子晒中国游引出偷渡案",
+        "onboard_time": 1681781367,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 305091,
+        "num": 305091,
+        "word": "赵丽颖林更新谈再合作感受",
+        "onboard_time": 1681793316,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299757,
+        "num": 299757,
+        "word": "科学家发现男士避孕关键基因",
+        "onboard_time": 1681801530,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1886031,
+        "num": 299321,
+        "word": "赌王三太气质",
+        "onboard_time": 1681795477,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542125,
+        "num": 296363,
+        "word": "被撕雨衣女生回应网络传言",
+        "onboard_time": 1681797751,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372931,
+        "num": 294738,
+        "word": "苹果公司已注册DailyCash商标",
+        "onboard_time": 1681798409,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 957435,
+        "num": 293920,
+        "word": "何超琼",
+        "onboard_time": 1681796849,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292706,
+        "num": 292706,
+        "word": "玉骨遥或将5月播出",
+        "onboard_time": 1681798951,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 266916,
+        "num": 266916,
+        "word": "离职后你一般怎么退出工作群",
+        "onboard_time": 1681788449,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243528,
+        "num": 243528,
+        "word": "左肩有你 振兴钢厂",
+        "onboard_time": 1681778068,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222289,
+        "num": 222289,
+        "word": "gidle特典",
+        "onboard_time": 1681800867,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189215,
+        "num": 189215,
+        "word": "国内检出多例XBB.1.16",
+        "onboard_time": 1681784726,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182324,
+        "num": 182324,
+        "word": "普尔在笑什么",
+        "onboard_time": 1681799369,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 691913,
+        "num": 182207,
+        "word": "王源 倩碧",
+        "onboard_time": 1681800510,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371787,
+        "num": 182121,
+        "word": "48岁妈妈参加恋综被说像偶像剧女主",
+        "onboard_time": 1681795829,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227648,
+        "num": 181943,
+        "word": "女子85元买椰子螺开出4.52克美乐珠",
+        "onboard_time": 1681789529,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210100,
+        "num": 181775,
+        "word": "考上研究生才知道的事",
+        "onboard_time": 1681801227,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181631,
+        "num": 181631,
+        "word": "库里生涯首次落后",
+        "onboard_time": 1681794334,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320568,
+        "num": 179928,
+        "word": "张雨绮问这个节目没有男的是吧",
+        "onboard_time": 1681798469,
+        "rank": 25,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 260255,
+        "num": 178440,
+        "word": "国风无双姜贞羽一秒变装",
+        "onboard_time": 1681800447,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204838,
+        "num": 175640,
+        "word": "防弹少年团摸头照",
+        "onboard_time": 1681801530,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172813,
+        "num": 172813,
+        "word": "智力障碍男生把迷路女童背到派出所",
+        "onboard_time": 1681802129,
+        "rank": 28,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 164160,
+        "num": 164160,
+        "word": "千万不要跟风买墨镜",
+        "onboard_time": 1681801109,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163819,
+        "num": 163819,
+        "word": "茉莉花茶毛肚",
+        "onboard_time": 1681799188,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162953,
+        "num": 162953,
+        "word": "五一假期去哪个演唱会",
+        "onboard_time": 1681800447,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160836,
+        "num": 160836,
+        "word": "专家建议固定法定假日时间",
+        "onboard_time": 1681793256,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158833,
+        "num": 158833,
+        "word": "感觉新冠不再来了还用打疫苗吗",
+        "onboard_time": 1681778611,
+        "rank": 33,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 155077,
+        "num": 155077,
+        "word": "薛之谦西安",
+        "onboard_time": 1681797029,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154723,
+        "num": 154723,
+        "word": "胖虎这次绝不会错过刘艳芬",
+        "onboard_time": 1681793915,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147614,
+        "num": 147614,
+        "word": "赵露思三亚拍摄花絮",
+        "onboard_time": 1681799490,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139924,
+        "num": 139924,
+        "word": "李雪琴称呼宋茜维多利亚女士",
+        "onboard_time": 1681797510,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133472,
+        "num": 133472,
+        "word": "丫丫乐乐回国申请进入最后审核",
+        "onboard_time": 1681787186,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132622,
+        "num": 132622,
+        "word": "虞书欣黑粉拒不道歉被法院公告",
+        "onboard_time": 1681791814,
+        "rank": 39,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 131061,
+        "num": 131061,
+        "word": "瓣人选的95花四美",
+        "onboard_time": 1681791814,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128794,
+        "num": 128794,
+        "word": "李荣浩苏州演唱会",
+        "onboard_time": 1681801589,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123955,
+        "num": 123955,
+        "word": "何广智为什么跪着玩游戏",
+        "onboard_time": 1681797389,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122766,
+        "num": 122766,
+        "word": "澹台烬的一天花絮",
+        "onboard_time": 1681800447,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120606,
+        "num": 120606,
+        "word": "医院回应患者住院8天花40多万",
+        "onboard_time": 1681801709,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116974,
+        "num": 116974,
+        "word": "淄博一烧烤店生意太火爆停业休息",
+        "onboard_time": 1681801948,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115299,
+        "num": 115299,
+        "word": "印尼为35万在台劳工制定撤侨计划",
+        "onboard_time": 1681786346,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111571,
+        "num": 111571,
+        "word": "新生儿落户被标注文盲",
+        "onboard_time": 1681781786,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96692,
+        "num": 111099,
+        "word": "WB包揽第十周最佳阵容",
+        "onboard_time": 1681800447,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89554,
+        "num": 109721,
+        "word": "光遇 红狐狸",
+        "onboard_time": 1681791752,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#功勋模范引导时代征途#"
+    }
+  }
+}

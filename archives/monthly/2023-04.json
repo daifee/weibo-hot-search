@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681799740696,
+  "endTime": 1681802170753,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -5483,6 +5483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 817202,
+      "num": 817202,
+      "word": "戚薇说130斤的我观感欠佳",
+      "onboard_time": 1681798227,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 816279,
       "num": 816279,
       "word": "樊振东",
@@ -6753,6 +6761,14 @@
       "onboard_time": 1680496416,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 691913,
+      "num": 182207,
+      "word": "王源 倩碧",
+      "onboard_time": 1681800510,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 691140,
@@ -8947,14 +8963,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 567722,
-      "num": 206986,
-      "word": "戚薇说130斤的我观感欠佳",
-      "onboard_time": 1681798227,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 567268,
       "num": 567268,
       "word": "女生穿洛丽塔5秒反超跑第1",
@@ -9449,6 +9457,14 @@
       "onboard_time": 1680425909,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542125,
+      "num": 345491,
+      "word": "被撕雨衣女生回应网络传言",
+      "onboard_time": 1681797751,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540571,
@@ -13195,6 +13211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 407283,
+      "num": 407283,
+      "word": "张艺兴 福建平潭",
+      "onboard_time": 1681798227,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 407177,
       "num": 407177,
       "word": "白鹿 长月烬明",
@@ -14411,6 +14435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 372931,
+      "num": 294738,
+      "word": "苹果公司已注册DailyCash商标",
+      "onboard_time": 1681798409,
+      "rank": 26,
+      "category": "科技"
+    },
+    {
       "raw_hot": 372817,
       "num": 372817,
       "word": "间歇性冷漠",
@@ -15123,14 +15155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 353437,
-      "num": 353437,
-      "word": "张艺兴 福建平潭",
-      "onboard_time": 1681798227,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 353175,
       "num": 353175,
       "word": "topik",
@@ -15489,14 +15513,6 @@
       "onboard_time": 1680962551,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 345491,
-      "num": 345491,
-      "word": "被撕雨衣女生回应网络传言",
-      "onboard_time": 1681797751,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 345281,
@@ -16547,6 +16563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 320568,
+      "num": 179928,
+      "word": "张雨绮问这个节目没有男的是吧",
+      "onboard_time": 1681798469,
+      "rank": 30,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 320380,
       "num": 320380,
       "word": "瓜农刺死城管案律师作无罪辩护",
@@ -16649,14 +16673,6 @@
       "onboard_time": 1681056505,
       "rank": 37,
       "category": "军事"
-    },
-    {
-      "raw_hot": 318443,
-      "num": 161101,
-      "word": "张雨绮问这个节目没有男的是吧",
-      "onboard_time": 1681798469,
-      "rank": 30,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 318363,
@@ -17531,6 +17547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299757,
+      "num": 299757,
+      "word": "科学家发现男士避孕关键基因",
+      "onboard_time": 1681801530,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 299103,
       "num": 299103,
       "word": "白鹿说长月烬明比周生如故更虐",
@@ -17937,6 +17961,14 @@
       "onboard_time": 1681518323,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292706,
+      "num": 292706,
+      "word": "玉骨遥或将5月播出",
+      "onboard_time": 1681798951,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 292467,
@@ -19075,14 +19107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 271299,
-      "num": 271299,
-      "word": "玉骨遥或将5月播出",
-      "onboard_time": 1681798951,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 271107,
       "num": 271107,
       "word": "全圆佑这是报了个旅游团吧",
@@ -19665,6 +19689,14 @@
       "onboard_time": 1680952888,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 260255,
+      "num": 178440,
+      "word": "国风无双姜贞羽一秒变装",
+      "onboard_time": 1681800447,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 259986,
@@ -22651,6 +22683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222289,
+      "num": 222289,
+      "word": "gidle特典",
+      "onboard_time": 1681800867,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221982,
       "num": 221982,
       "word": "音悦台关联公司涉多个诉讼纠纷",
@@ -23955,6 +23995,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 210100,
+      "num": 181775,
+      "word": "考上研究生才知道的事",
+      "onboard_time": 1681801227,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210050,
       "num": 210050,
       "word": "桃花坞对面山头全是闪光灯",
@@ -25113,6 +25161,14 @@
       "onboard_time": 1680513150,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204838,
+      "num": 175640,
+      "word": "防弹少年团摸头照",
+      "onboard_time": 1681801530,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 204836,
@@ -27217,14 +27273,6 @@
       "onboard_time": 1680320789,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197679,
-      "num": 197679,
-      "word": "苹果公司已注册DailyCash商标",
-      "onboard_time": 1681798409,
-      "rank": 26,
-      "category": "科技"
     },
     {
       "raw_hot": 197619,
@@ -30763,6 +30811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182324,
+      "num": 182324,
+      "word": "普尔在笑什么",
+      "onboard_time": 1681799369,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182240,
       "num": 182240,
       "word": "李马克solo预告视频",
@@ -31889,6 +31945,14 @@
       "onboard_time": 1680852150,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172813,
+      "num": 172813,
+      "word": "智力障碍男生把迷路女童背到派出所",
+      "onboard_time": 1681802129,
+      "rank": 28,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 172761,
@@ -33123,6 +33187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164160,
+      "num": 164160,
+      "word": "千万不要跟风买墨镜",
+      "onboard_time": 1681801109,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164125,
       "num": 164125,
       "word": "2023KPL春季赛第三轮赛程",
@@ -33169,6 +33241,14 @@
       "onboard_time": 1680596791,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163819,
+      "num": 163819,
+      "word": "茉莉花茶毛肚",
+      "onboard_time": 1681799188,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 163592,
@@ -33281,6 +33361,14 @@
       "onboard_time": 1680344611,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162953,
+      "num": 162953,
+      "word": "五一假期去哪个演唱会",
+      "onboard_time": 1681800447,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 162924,
@@ -37587,6 +37675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128794,
+      "num": 128794,
+      "word": "李荣浩苏州演唱会",
+      "onboard_time": 1681801589,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128765,
       "num": 205675,
       "word": "WBG对战DOU5",
@@ -38251,6 +38347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122766,
+      "num": 122766,
+      "word": "澹台烬的一天花絮",
+      "onboard_time": 1681800447,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122759,
       "num": 122759,
       "word": "吴磊出演北影节主题短片",
@@ -38305,14 +38409,6 @@
       "onboard_time": 1680937824,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122122,
-      "num": 122122,
-      "word": "茉莉花茶毛肚",
-      "onboard_time": 1681799188,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 121983,
@@ -38449,6 +38545,14 @@
       "onboard_time": 1681110568,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 120606,
+      "num": 120606,
+      "word": "医院回应患者住院8天花40多万",
+      "onboard_time": 1681801709,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120593,
@@ -38809,6 +38913,14 @@
       "onboard_time": 1680449975,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116974,
+      "num": 116974,
+      "word": "淄博一烧烤店生意太火爆停业休息",
+      "onboard_time": 1681801948,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116903,
@@ -40329,6 +40441,14 @@
       "onboard_time": 1680655709,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96692,
+      "num": 111099,
+      "word": "WB包揽第十周最佳阵容",
+      "onboard_time": 1681800447,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 96527,
