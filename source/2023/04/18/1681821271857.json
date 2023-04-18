@@ -1,0 +1,410 @@
+{
+  "runTime": 1681821271857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2122425,
+        "num": 2122425,
+        "word": "郑渊洁称维权艰难不再发表作品",
+        "onboard_time": 1681817908,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875776,
+        "num": 875776,
+        "word": "别用饭圈那一套对待国宝",
+        "onboard_time": 1681816169,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16579,
+        "num": 780330,
+        "word": "年轻人游古城的正确打开方式",
+        "onboard_time": 1681781426,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881584,
+        "num": 768229,
+        "word": "窦骁何超莲官宣婚礼",
+        "onboard_time": 1681794096,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735786,
+        "num": 735786,
+        "word": "公司取消了所有的调休",
+        "onboard_time": 1681809511,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 600540,
+        "num": 600540,
+        "word": "浙BWF896你做的好事藏不住了",
+        "onboard_time": 1681819590,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 531808,
+        "num": 531808,
+        "word": "小米发布会",
+        "onboard_time": 1681816169,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 517802,
+        "num": 517802,
+        "word": "LOL前职业选手被警方立案",
+        "onboard_time": 1681818387,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 474632,
+        "num": 474632,
+        "word": "建议下班回家后马上洗漱",
+        "onboard_time": 1681814009,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 377831,
+        "num": 377831,
+        "word": "汤唯不知道Q3Q4的意思",
+        "onboard_time": 1681813110,
+        "rank": 9,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1490734,
+        "num": 337893,
+        "word": "宋祖儿 轧戏",
+        "onboard_time": 1681811850,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1118657,
+        "num": 334626,
+        "word": "男婴静脉被注射配方奶家长被瞒5天",
+        "onboard_time": 1681812809,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567189,
+        "num": 332418,
+        "word": "男子瘫痪儿子不愿供养将其活活饿死",
+        "onboard_time": 1681813889,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275994,
+        "num": 275994,
+        "word": "张镇麟战斧隔扣",
+        "onboard_time": 1681820066,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260048,
+        "num": 260048,
+        "word": "科学家发现男士避孕关键基因",
+        "onboard_time": 1681801530,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 246415,
+        "num": 246415,
+        "word": "公司回应取消所有长假调休",
+        "onboard_time": 1681816769,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237188,
+        "num": 237188,
+        "word": "优酷说陈都灵好惨一女的",
+        "onboard_time": 1681809086,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223276,
+        "num": 223276,
+        "word": "涉嫌侮辱死者自嗨锅商家被罚80万",
+        "onboard_time": 1681811249,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217448,
+        "num": 217448,
+        "word": "大大担任eStar主教练",
+        "onboard_time": 1681819406,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160286,
+        "num": 214575,
+        "word": "移动影像光学时代来了吗",
+        "onboard_time": 1681820127,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 304766,
+        "num": 213851,
+        "word": "澹台烬你嘴呢",
+        "onboard_time": 1681819590,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240765,
+        "num": 213811,
+        "word": "千万不要把小孩寄宿到亲戚家",
+        "onboard_time": 1681812629,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213019,
+        "num": 213019,
+        "word": "淄博一烧烤店生意太火爆停业休息",
+        "onboard_time": 1681801948,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203660,
+        "num": 203660,
+        "word": "王一博新电影repo",
+        "onboard_time": 1681820367,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 200425,
+        "num": 200425,
+        "word": "网传男生同时交往8个女友翻车",
+        "onboard_time": 1681808908,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199802,
+        "num": 199802,
+        "word": "辽宁男篮vs北京男篮",
+        "onboard_time": 1681819590,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194944,
+        "num": 194944,
+        "word": "智力障碍男生把迷路女童背到派出所",
+        "onboard_time": 1681802129,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 174604,
+        "num": 174604,
+        "word": "WBG出征总决赛",
+        "onboard_time": 1681814849,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173002,
+        "num": 173002,
+        "word": "戚薇说130斤的我观感欠佳",
+        "onboard_time": 1681798227,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167494,
+        "num": 167494,
+        "word": "CBA季后赛",
+        "onboard_time": 1681820187,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172597,
+        "num": 164403,
+        "word": "竹竿拍大熊猫饲养员先休假后调岗",
+        "onboard_time": 1681820968,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160204,
+        "num": 160204,
+        "word": "你有勇气去gapyear吗",
+        "onboard_time": 1681819827,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158992,
+        "num": 158992,
+        "word": "吴宣仪江南月完整版上线",
+        "onboard_time": 1681820127,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155921,
+        "num": 155921,
+        "word": "格林真脏",
+        "onboard_time": 1681792299,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155771,
+        "num": 155771,
+        "word": "幼童落水变植物人时隔2个月苏醒",
+        "onboard_time": 1681820007,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 155678,
+        "num": 155678,
+        "word": "张本智和晋级澳门赛16强",
+        "onboard_time": 1681819646,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154219,
+        "num": 154219,
+        "word": "爱奇艺的存货好多",
+        "onboard_time": 1681804650,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149434,
+        "num": 149434,
+        "word": "长月烬明预告",
+        "onboard_time": 1681818265,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143920,
+        "num": 143920,
+        "word": "马思纯最真实的人设",
+        "onboard_time": 1681814610,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142668,
+        "num": 142668,
+        "word": "湖北消费券",
+        "onboard_time": 1681820187,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 137367,
+        "num": 137367,
+        "word": "你还在用余额宝吗",
+        "onboard_time": 1681786946,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126343,
+        "num": 126343,
+        "word": "IVEIAM一位安可",
+        "onboard_time": 1681819706,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119505,
+        "num": 119505,
+        "word": "叶冰裳主动讨好澹台烬",
+        "onboard_time": 1681820653,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119058,
+        "num": 119058,
+        "word": "考上研究生才知道的事",
+        "onboard_time": 1681801227,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119333,
+        "num": 117858,
+        "word": "长月烬明",
+        "onboard_time": 1681811487,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109217,
+        "num": 109217,
+        "word": "黑人一巴掌打晕中国女友",
+        "onboard_time": 1681821146,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108440,
+        "num": 108440,
+        "word": "陈飞宇周也主演电影被诉侵权",
+        "onboard_time": 1681805130,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106372,
+        "num": 106372,
+        "word": "广东男篮vs广厦男篮",
+        "onboard_time": 1681820307,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105551,
+        "num": 105551,
+        "word": "7成留守儿童沉迷短视频",
+        "onboard_time": 1681819527,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101893,
+        "num": 101893,
+        "word": "王源的香槟三次举杯但没喝",
+        "onboard_time": 1681803749,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#功勋模范引导时代征途#"
+    }
+  }
+}

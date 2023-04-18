@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681817597435,
+  "endTime": 1681821271857,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -49,6 +49,14 @@
       "onboard_time": 1681809511,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2122425,
+      "num": 2122425,
+      "word": "郑渊洁称维权艰难不再发表作品",
+      "onboard_time": 1681817908,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2024050,
@@ -251,6 +259,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 875776,
+      "num": 875776,
+      "word": "别用饭圈那一套对待国宝",
+      "onboard_time": 1681816169,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869107,
       "num": 869107,
       "word": "易烊千玺新专辑刘艳芬",
@@ -355,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600540,
+      "num": 600540,
+      "word": "浙BWF896你做的好事藏不住了",
+      "onboard_time": 1681819590,
+      "rank": 5,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 598005,
       "num": 598005,
       "word": "山东人均存款8.37万",
@@ -451,6 +475,22 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 531808,
+      "num": 531808,
+      "word": "小米发布会",
+      "onboard_time": 1681816169,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 517802,
+      "num": 517802,
+      "word": "LOL前职业选手被警方立案",
+      "onboard_time": 1681818387,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 515492,
       "num": 277183,
       "word": "鹿晗又染粉发",
@@ -536,14 +576,6 @@
       "word": "iOS17将允许非官方商店的应用程序",
       "onboard_time": 1681785208,
       "rank": 25,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 450349,
-      "num": 450349,
-      "word": "小米发布会",
-      "onboard_time": 1681816169,
-      "rank": 15,
       "category": "科技"
     },
     {
@@ -819,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304766,
+      "num": 213851,
+      "word": "澹台烬你嘴呢",
+      "onboard_time": 1681819590,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300940,
       "num": 300940,
       "word": "光遇 红狐狸",
@@ -931,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275994,
+      "num": 275994,
+      "word": "张镇麟战斧隔扣",
+      "onboard_time": 1681820066,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275516,
       "num": 275516,
       "word": "iPhone15Pro系列升级Action按钮交互",
@@ -945,14 +993,6 @@
       "onboard_time": 1681743629,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269720,
-      "num": 269720,
-      "word": "别用饭圈那一套对待国宝",
-      "onboard_time": 1681816169,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265350,
@@ -1027,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246415,
+      "num": 246415,
+      "word": "公司回应取消所有长假调休",
+      "onboard_time": 1681816769,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237543,
       "num": 226540,
       "word": "萨摩有点什么你接着说啊",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1681806866,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217448,
+      "num": 217448,
+      "word": "大大担任eStar主教练",
+      "onboard_time": 1681819406,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 217249,
@@ -1203,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203660,
+      "num": 203660,
+      "word": "王一博新电影repo",
+      "onboard_time": 1681820367,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203461,
       "num": 158432,
       "word": "马思纯最真实的人设",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1681817128,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 199802,
+      "num": 199802,
+      "word": "辽宁男篮vs北京男篮",
+      "onboard_time": 1681819590,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 199768,
@@ -1363,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188343,
-      "num": 145580,
-      "word": "公司回应取消所有长假调休",
-      "onboard_time": 1681816769,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186846,
       "num": 186846,
       "word": "甲仑榴莲",
@@ -1467,6 +1531,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 172597,
+      "num": 164403,
+      "word": "竹竿拍大熊猫饲养员先休假后调岗",
+      "onboard_time": 1681820968,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172158,
       "num": 172158,
       "word": "陈幸同1比3斯佐科斯",
@@ -1497,6 +1569,14 @@
       "onboard_time": 1681795951,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167494,
+      "num": 167494,
+      "word": "CBA季后赛",
+      "onboard_time": 1681820187,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 167094,
@@ -1547,6 +1627,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 160286,
+      "num": 214575,
+      "word": "移动影像光学时代来了吗",
+      "onboard_time": 1681820127,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 160204,
+      "num": 160204,
+      "word": "你有勇气去gapyear吗",
+      "onboard_time": 1681819827,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160100,
       "num": 160100,
       "word": "崩坏星穹铁道",
@@ -1563,12 +1659,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158992,
+      "num": 158992,
+      "word": "吴宣仪江南月完整版上线",
+      "onboard_time": 1681820127,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 156801,
       "num": 140505,
       "word": "汤唯现身上海车展",
       "onboard_time": 1681805370,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155771,
+      "num": 155771,
+      "word": "幼童落水变植物人时隔2个月苏醒",
+      "onboard_time": 1681820007,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 155678,
+      "num": 155678,
+      "word": "张本智和晋级澳门赛16强",
+      "onboard_time": 1681819646,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 154863,
@@ -1619,6 +1739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149434,
+      "num": 149434,
+      "word": "长月烬明预告",
+      "onboard_time": 1681818265,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149155,
       "num": 149155,
       "word": "COA6全球总决赛",
@@ -1665,6 +1793,14 @@
       "onboard_time": 1681740267,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142668,
+      "num": 142668,
+      "word": "湖北消费券",
+      "onboard_time": 1681820187,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 139494,
@@ -1779,6 +1915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126343,
+      "num": 126343,
+      "word": "IVEIAM一位安可",
+      "onboard_time": 1681819706,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122766,
       "num": 122766,
       "word": "澹台烬的一天花絮",
@@ -1793,6 +1937,14 @@
       "onboard_time": 1681727189,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119505,
+      "num": 119505,
+      "word": "叶冰裳主动讨好澹台烬",
+      "onboard_time": 1681820653,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 119169,
@@ -1867,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109217,
+      "num": 109217,
+      "word": "黑人一巴掌打晕中国女友",
+      "onboard_time": 1681821146,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108208,
       "num": 108208,
       "word": "毕雯珺现代版狼系少年",
@@ -1881,6 +2041,22 @@
       "onboard_time": 1681728148,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106372,
+      "num": 106372,
+      "word": "广东男篮vs广厦男篮",
+      "onboard_time": 1681820307,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105551,
+      "num": 105551,
+      "word": "7成留守儿童沉迷短视频",
+      "onboard_time": 1681819527,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105340,

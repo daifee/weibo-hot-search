@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681817597435,
+  "endTime": 1681821271857,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1681299570,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2122425,
+      "num": 2122425,
+      "word": "郑渊洁称维权艰难不再发表作品",
+      "onboard_time": 1681817908,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2119616,
@@ -4987,6 +4995,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 875776,
+      "num": 875776,
+      "word": "别用饭圈那一套对待国宝",
+      "onboard_time": 1681816169,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875270,
       "num": 875270,
       "word": "警方通报女留学生在泰国遇害",
@@ -8419,6 +8435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 600540,
+      "num": 600540,
+      "word": "浙BWF896你做的好事藏不住了",
+      "onboard_time": 1681819590,
+      "rank": 5,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 600112,
       "num": 600112,
       "word": "长月烬明十二神归位",
@@ -9899,6 +9923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531808,
+      "num": 531808,
+      "word": "小米发布会",
+      "onboard_time": 1681816169,
+      "rank": 15,
+      "category": "科技"
+    },
+    {
       "raw_hot": 531444,
       "num": 531444,
       "word": "韩国米诺地尔",
@@ -10193,6 +10225,14 @@
       "onboard_time": 1681127488,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 517802,
+      "num": 517802,
+      "word": "LOL前职业选手被警方立案",
+      "onboard_time": 1681818387,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 517579,
@@ -11961,14 +12001,6 @@
       "onboard_time": 1680489627,
       "rank": 49,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 450349,
-      "num": 450349,
-      "word": "小米发布会",
-      "onboard_time": 1681816169,
-      "rank": 15,
-      "category": "科技"
     },
     {
       "raw_hot": 450274,
@@ -17499,6 +17531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304766,
+      "num": 213851,
+      "word": "澹台烬你嘴呢",
+      "onboard_time": 1681819590,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304758,
       "num": 285895,
       "word": "玄彬东京活动生图",
@@ -19123,6 +19163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275994,
+      "num": 275994,
+      "word": "张镇麟战斧隔扣",
+      "onboard_time": 1681820066,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 275805,
       "num": 275805,
       "word": "忠犬八公豆瓣评分涨至8.2",
@@ -19465,14 +19513,6 @@
       "onboard_time": 1681719806,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269720,
-      "num": 269720,
-      "word": "别用饭圈那一套对待国宝",
-      "onboard_time": 1681816169,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269652,
@@ -20913,6 +20953,14 @@
       "onboard_time": 1681791451,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246415,
+      "num": 246415,
+      "word": "公司回应取消所有长假调休",
+      "onboard_time": 1681816769,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246183,
@@ -23523,6 +23571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217448,
+      "num": 217448,
+      "word": "大大担任eStar主教练",
+      "onboard_time": 1681819406,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217436,
       "num": 217436,
       "word": "半熟恋人2全员告白",
@@ -25811,6 +25867,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 203660,
+      "num": 203660,
+      "word": "王一博新电影repo",
+      "onboard_time": 1681820367,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203573,
       "num": 203573,
       "word": "洪世贤来帮唱吗",
@@ -27017,6 +27081,14 @@
       "onboard_time": 1680530739,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199802,
+      "num": 199802,
+      "word": "辽宁男篮vs北京男篮",
+      "onboard_time": 1681819590,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 199800,
@@ -29963,14 +30035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188343,
-      "num": 145580,
-      "word": "公司回应取消所有长假调休",
-      "onboard_time": 1681816769,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188341,
       "num": 188341,
       "word": "粉丝靠鞋认出鹿晗",
@@ -32323,6 +32387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172597,
+      "num": 164403,
+      "word": "竹竿拍大熊猫饲养员先休假后调岗",
+      "onboard_time": 1681820968,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172547,
       "num": 172547,
       "word": "对巧珍好的人都不在了",
@@ -34091,6 +34163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160286,
+      "num": 214575,
+      "word": "移动影像光学时代来了吗",
+      "onboard_time": 1681820127,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 160271,
       "num": 160271,
       "word": "女子走独木桥男子用脚猛踹",
@@ -34113,6 +34193,14 @@
       "onboard_time": 1681549887,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160204,
+      "num": 160204,
+      "word": "你有勇气去gapyear吗",
+      "onboard_time": 1681819827,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 160146,
@@ -34264,6 +34352,14 @@
       "word": "IVE正规专试听",
       "onboard_time": 1681050691,
       "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 158992,
+      "num": 158992,
+      "word": "吴宣仪江南月完整版上线",
+      "onboard_time": 1681820127,
+      "rank": 32,
       "category": "音乐"
     },
     {
@@ -34651,6 +34747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155771,
+      "num": 155771,
+      "word": "幼童落水变植物人时隔2个月苏醒",
+      "onboard_time": 1681820007,
+      "rank": 34,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 155747,
       "num": 155747,
       "word": "湖人VS火箭",
@@ -34665,6 +34769,14 @@
       "onboard_time": 1680318868,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155678,
+      "num": 155678,
+      "word": "张本智和晋级澳门赛16强",
+      "onboard_time": 1681819646,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 155654,
@@ -36457,6 +36569,14 @@
       "onboard_time": 1681666216,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 142668,
+      "num": 142668,
+      "word": "湖北消费券",
+      "onboard_time": 1681820187,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 142597,
@@ -38371,6 +38491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126343,
+      "num": 126343,
+      "word": "IVEIAM一位安可",
+      "onboard_time": 1681819706,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126294,
       "num": 126294,
       "word": "GEN对战KT",
@@ -39073,6 +39201,14 @@
       "onboard_time": 1681702949,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119505,
+      "num": 119505,
+      "word": "叶冰裳主动讨好澹台烬",
+      "onboard_time": 1681820653,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 119461,
@@ -39843,6 +39979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109217,
+      "num": 109217,
+      "word": "黑人一巴掌打晕中国女友",
+      "onboard_time": 1681821146,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109104,
       "num": 109104,
       "word": "大锁用斧子给蒋敦豪宋木子修牛蹄",
@@ -40051,6 +40195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106372,
+      "num": 106372,
+      "word": "广东男篮vs广厦男篮",
+      "onboard_time": 1681820307,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106145,
       "num": 382189,
       "word": "被明星种草的养肤防晒乳",
@@ -40121,6 +40273,14 @@
       "onboard_time": 1680563722,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105551,
+      "num": 105551,
+      "word": "7成留守儿童沉迷短视频",
+      "onboard_time": 1681819527,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105513,
