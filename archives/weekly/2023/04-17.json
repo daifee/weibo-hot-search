@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681809433223,
+  "endTime": 1681810685185,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1017541,
+      "num": 823089,
+      "word": "科学家发现男士避孕关键基因",
+      "onboard_time": 1681801530,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1014795,
       "num": 977180,
       "word": "臀部发力的走路姿势我真的悟了",
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965316,
+      "num": 965316,
+      "word": "知乎崩了",
+      "onboard_time": 1681809869,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 951121,
       "num": 951121,
       "word": "李楠禁赛3年",
@@ -465,14 +481,6 @@
       "onboard_time": 1681789829,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 933814,
-      "num": 823089,
-      "word": "科学家发现男士避孕关键基因",
-      "onboard_time": 1681801530,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 907161,
@@ -569,6 +577,14 @@
       "onboard_time": 1681709549,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 779449,
+      "num": 456762,
+      "word": "公司取消了所有的调休",
+      "onboard_time": 1681809511,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 776793,
@@ -889,6 +905,14 @@
       "onboard_time": 1681700247,
       "rank": 30,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 543176,
+      "num": 543176,
+      "word": "优酷说陈都灵好惨一女的",
+      "onboard_time": 1681809086,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 542125,
@@ -1283,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399038,
+      "num": 266759,
+      "word": "网传男生同时交往8个女友翻车",
+      "onboard_time": 1681808908,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393388,
       "num": 393388,
       "word": "当事女生回应因吃面崩溃",
@@ -1473,6 +1505,14 @@
       "onboard_time": 1681719385,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355842,
+      "num": 355842,
+      "word": "杨迪谈被污名化",
+      "onboard_time": 1681808489,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 354827,
@@ -1923,14 +1963,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263010,
-      "num": 263010,
-      "word": "杨迪谈被污名化",
-      "onboard_time": 1681808489,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262436,
       "num": 225438,
       "word": "千万不要跟风买墨镜",
@@ -2131,12 +2163,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 221319,
+      "num": 260587,
+      "word": "邓超问怎么扎麻花辫",
+      "onboard_time": 1681808908,
+      "rank": 19,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 219289,
       "num": 197897,
       "word": "仰望U8预售价",
       "onboard_time": 1681784188,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 218464,
+      "num": 218464,
+      "word": "一个洞五百两个洞一千",
+      "onboard_time": 1681806866,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 217988,
@@ -2193,14 +2241,6 @@
       "onboard_time": 1681706791,
       "rank": 25,
       "category": "科技"
-    },
-    {
-      "raw_hot": 213980,
-      "num": 213980,
-      "word": "一个洞五百两个洞一千",
-      "onboard_time": 1681806866,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 213571,
@@ -2339,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206285,
+      "num": 206285,
+      "word": "王曼昱 WTT",
+      "onboard_time": 1681808787,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206171,
       "num": 274419,
       "word": "易烊千玺新专辑预告照",
@@ -2377,14 +2425,6 @@
       "onboard_time": 1681795412,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202536,
-      "num": 260587,
-      "word": "邓超问怎么扎麻花辫",
-      "onboard_time": 1681808908,
-      "rank": 19,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 201942,
@@ -2691,14 +2731,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 186525,
-      "num": 186525,
-      "word": "王曼昱 WTT",
-      "onboard_time": 1681808787,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186499,
       "num": 186499,
       "word": "华为笔记本首发超材料天线技术",
@@ -2713,6 +2745,14 @@
       "onboard_time": 1681787847,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185527,
+      "num": 185527,
+      "word": "淄博烧烤",
+      "onboard_time": 1681810466,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184064,
@@ -2971,20 +3011,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165334,
-      "num": 165334,
-      "word": "网传男生同时交往8个女友翻车",
-      "onboard_time": 1681808908,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164809,
       "num": 164809,
       "word": "苹果设备不断要求输入AppleID密码",
       "onboard_time": 1681631606,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 164385,
+      "num": 164385,
+      "word": "为什么成年人要学会自愈",
+      "onboard_time": 1681807528,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 163819,
@@ -3107,14 +3147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155828,
-      "num": 155828,
-      "word": "优酷说陈都灵好惨一女的",
-      "onboard_time": 1681809086,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 154863,
       "num": 154863,
       "word": "孙颖莎女单连胜榜第4",
@@ -3156,7 +3188,7 @@
     },
     {
       "raw_hot": 151684,
-      "num": 151684,
+      "num": 806409,
       "word": "年轻人游古城的正确打开方式",
       "onboard_time": 1681781426,
       "rank": 37,
@@ -3601,14 +3633,6 @@
       "onboard_time": 1681719267,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 115208,
-      "num": 115208,
-      "word": "为什么成年人要学会自愈",
-      "onboard_time": 1681807528,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 114771,
@@ -4227,6 +4251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 39967,
+      "num": 133315,
+      "word": "在山东感受黄河文明的脉动",
+      "onboard_time": 1681808426,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38339,
       "num": 2089512,
       "word": "60秒速览广交会万商云集",
@@ -4257,14 +4289,6 @@
       "onboard_time": 1681518865,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 19216,
-      "num": 133315,
-      "word": "在山东感受黄河文明的脉动",
-      "onboard_time": 1681808426,
-      "rank": 39,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

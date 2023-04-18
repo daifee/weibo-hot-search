@@ -1,6 +1,6 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681809433223,
+  "endTime": 1681810685185,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1017541,
+      "num": 823089,
+      "word": "科学家发现男士避孕关键基因",
+      "onboard_time": 1681801530,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1014795,
       "num": 977180,
       "word": "臀部发力的走路姿势我真的悟了",
@@ -187,20 +195,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 965316,
+      "num": 965316,
+      "word": "知乎崩了",
+      "onboard_time": 1681809869,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 948933,
       "num": 948933,
       "word": "徐怀钰贾静雯 乘风破浪",
       "onboard_time": 1681789829,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 933814,
-      "num": 823089,
-      "word": "科学家发现男士避孕关键基因",
-      "onboard_time": 1681801530,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 894114,
@@ -233,6 +241,14 @@
       "onboard_time": 1681744290,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 779449,
+      "num": 456762,
+      "word": "公司取消了所有的调休",
+      "onboard_time": 1681809511,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 728527,
@@ -337,6 +353,14 @@
       "onboard_time": 1681802129,
       "rank": 28,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 543176,
+      "num": 543176,
+      "word": "优酷说陈都灵好惨一女的",
+      "onboard_time": 1681809086,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 542125,
@@ -515,6 +539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 399038,
+      "num": 266759,
+      "word": "网传男生同时交往8个女友翻车",
+      "onboard_time": 1681808908,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386209,
       "num": 386209,
       "word": "在微信状态养个懒羊羊",
@@ -633,6 +665,14 @@
       "onboard_time": 1681793915,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 355842,
+      "num": 355842,
+      "word": "杨迪谈被污名化",
+      "onboard_time": 1681808489,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 336869,
@@ -859,14 +899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263010,
-      "num": 263010,
-      "word": "杨迪谈被污名化",
-      "onboard_time": 1681808489,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262436,
       "num": 225438,
       "word": "千万不要跟风买墨镜",
@@ -963,6 +995,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 221319,
+      "num": 260587,
+      "word": "邓超问怎么扎麻花辫",
+      "onboard_time": 1681808908,
+      "rank": 19,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 219289,
       "num": 197897,
       "word": "仰望U8预售价",
@@ -971,20 +1011,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 218464,
+      "num": 218464,
+      "word": "一个洞五百两个洞一千",
+      "onboard_time": 1681806866,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217249,
       "num": 197432,
       "word": "赵露思三亚拍摄花絮",
       "onboard_time": 1681799490,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213980,
-      "num": 213980,
-      "word": "一个洞五百两个洞一千",
-      "onboard_time": 1681806866,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 213571,
@@ -1051,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206285,
+      "num": 206285,
+      "word": "王曼昱 WTT",
+      "onboard_time": 1681808787,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205047,
       "num": 205047,
       "word": "薛之谦西安",
@@ -1073,14 +1121,6 @@
       "onboard_time": 1681795412,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202536,
-      "num": 260587,
-      "word": "邓超问怎么扎麻花辫",
-      "onboard_time": 1681808908,
-      "rank": 19,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 201942,
@@ -1219,20 +1259,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 186525,
-      "num": 186525,
-      "word": "王曼昱 WTT",
-      "onboard_time": 1681808787,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185537,
       "num": 185537,
       "word": "都暻秀好像只会跳EXO的舞",
       "onboard_time": 1681787847,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185527,
+      "num": 185527,
+      "word": "淄博烧烤",
+      "onboard_time": 1681810466,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184064,
@@ -1323,12 +1363,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 165334,
-      "num": 165334,
-      "word": "网传男生同时交往8个女友翻车",
-      "onboard_time": 1681808908,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 164385,
+      "num": 164385,
+      "word": "为什么成年人要学会自愈",
+      "onboard_time": 1681807528,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 163819,
@@ -1387,14 +1427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155828,
-      "num": 155828,
-      "word": "优酷说陈都灵好惨一女的",
-      "onboard_time": 1681809086,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 154863,
       "num": 154863,
       "word": "孙颖莎女单连胜榜第4",
@@ -1420,7 +1452,7 @@
     },
     {
       "raw_hot": 151684,
-      "num": 151684,
+      "num": 806409,
       "word": "年轻人游古城的正确打开方式",
       "onboard_time": 1681781426,
       "rank": 37,
@@ -1649,14 +1681,6 @@
       "onboard_time": 1681780770,
       "rank": 42,
       "category": "科技"
-    },
-    {
-      "raw_hot": 115208,
-      "num": 115208,
-      "word": "为什么成年人要学会自愈",
-      "onboard_time": 1681807528,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 114771,
@@ -1947,7 +1971,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19216,
+      "raw_hot": 39967,
       "num": 133315,
       "word": "在山东感受黄河文明的脉动",
       "onboard_time": 1681808426,

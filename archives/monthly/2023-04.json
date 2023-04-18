@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681809433223,
+  "endTime": 1681810685185,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3931,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1017541,
+      "num": 823089,
+      "word": "科学家发现男士避孕关键基因",
+      "onboard_time": 1681801530,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1015818,
       "num": 1015818,
       "word": "陈都灵戏份",
@@ -4251,6 +4259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 965316,
+      "num": 965316,
+      "word": "知乎崩了",
+      "onboard_time": 1681809869,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 964911,
       "num": 964911,
       "word": "泰国坠崖孕妇3年后站起来了",
@@ -4441,14 +4457,6 @@
       "onboard_time": 1681369527,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 933814,
-      "num": 823089,
-      "word": "科学家发现男士避孕关键基因",
-      "onboard_time": 1681801530,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 933201,
@@ -5801,6 +5809,14 @@
       "onboard_time": 1681461687,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779449,
+      "num": 456762,
+      "word": "公司取消了所有的调休",
+      "onboard_time": 1681809511,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 779318,
@@ -9481,6 +9497,14 @@
       "onboard_time": 1680503855,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 543176,
+      "num": 543176,
+      "word": "优酷说陈都灵好惨一女的",
+      "onboard_time": 1681809086,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 543070,
@@ -13635,6 +13659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399038,
+      "num": 266759,
+      "word": "网传男生同时交往8个女友翻车",
+      "onboard_time": 1681808908,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398752,
       "num": 398752,
       "word": "范丞丞被密室NPC插到鼻孔",
@@ -15153,6 +15185,14 @@
       "onboard_time": 1680945926,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 355842,
+      "num": 355842,
+      "word": "杨迪谈被污名化",
+      "onboard_time": 1681808489,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 355796,
@@ -19691,14 +19731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 263010,
-      "num": 263010,
-      "word": "杨迪谈被污名化",
-      "onboard_time": 1681808489,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262960,
       "num": 262960,
       "word": "为什么总感觉今天是周五",
@@ -22931,6 +22963,14 @@
       "category": "影视,音乐"
     },
     {
+      "raw_hot": 221319,
+      "num": 260587,
+      "word": "邓超问怎么扎麻花辫",
+      "onboard_time": 1681808908,
+      "rank": 19,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 221257,
       "num": 221257,
       "word": "薄冰剧情版预告",
@@ -23265,6 +23305,14 @@
       "onboard_time": 1681520244,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218464,
+      "num": 218464,
+      "word": "一个洞五百两个洞一千",
+      "onboard_time": 1681806866,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 218404,
@@ -23753,14 +23801,6 @@
       "onboard_time": 1680257544,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213980,
-      "num": 213980,
-      "word": "一个洞五百两个洞一千",
-      "onboard_time": 1681806866,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 213929,
@@ -25019,6 +25059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206285,
+      "num": 206285,
+      "word": "王曼昱 WTT",
+      "onboard_time": 1681808787,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206239,
       "num": 206239,
       "word": "长月烬明蛟龙入梦海报",
@@ -26049,14 +26097,6 @@
       "onboard_time": 1680836427,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 202536,
-      "num": 260587,
-      "word": "邓超问怎么扎麻花辫",
-      "onboard_time": 1681808908,
-      "rank": 19,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 202523,
@@ -30243,14 +30283,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 186525,
-      "num": 186525,
-      "word": "王曼昱 WTT",
-      "onboard_time": 1681808787,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186516,
       "num": 186516,
       "word": "品如剧本",
@@ -33243,14 +33275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 165334,
-      "num": 165334,
-      "word": "网传男生同时交往8个女友翻车",
-      "onboard_time": 1681808908,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165320,
       "num": 165320,
       "word": "高圆圆摩天轮游玩随拍",
@@ -33345,6 +33369,14 @@
       "onboard_time": 1680618334,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164385,
+      "num": 164385,
+      "word": "为什么成年人要学会自愈",
+      "onboard_time": 1681807528,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 164323,
@@ -34475,14 +34507,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 155828,
-      "num": 155828,
-      "word": "优酷说陈都灵好惨一女的",
-      "onboard_time": 1681809086,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155779,
       "num": 155779,
       "word": "李马克将发行solo曲",
@@ -35076,7 +35100,7 @@
     },
     {
       "raw_hot": 151684,
-      "num": 151684,
+      "num": 806409,
       "word": "年轻人游古城的正确打开方式",
       "onboard_time": 1681781426,
       "rank": 37,
@@ -39291,14 +39315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115208,
-      "num": 115208,
-      "word": "为什么成年人要学会自愈",
-      "onboard_time": 1681807528,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114872,
       "num": 114872,
       "word": "腺样体面容有哪些特点",
@@ -42499,6 +42515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39967,
+      "num": 133315,
+      "word": "在山东感受黄河文明的脉动",
+      "onboard_time": 1681808426,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38684,
       "num": 44059,
       "word": "太阳新歌预告",
@@ -42841,14 +42865,6 @@
       "onboard_time": 1681151713,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 19216,
-      "num": 133315,
-      "word": "在山东感受黄河文明的脉动",
-      "onboard_time": 1681808426,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17764,
