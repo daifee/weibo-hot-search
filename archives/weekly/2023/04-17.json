@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681806129638,
+  "endTime": 1681806899280,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2503755,
+      "num": 495156,
+      "word": "何超盈嫁妆",
+      "onboard_time": 1681802849,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2496880,
       "num": 1035155,
       "word": "张一山 窦骁何超莲婚礼",
@@ -89,14 +97,6 @@
       "onboard_time": 1681698205,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2307026,
-      "num": 469724,
-      "word": "何超盈嫁妆",
-      "onboard_time": 1681802849,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 2284572,
@@ -379,6 +379,14 @@
       "category": "科技,艺人"
     },
     {
+      "raw_hot": 1096765,
+      "num": 1096765,
+      "word": "淄博一烧烤店生意太火爆停业休息",
+      "onboard_time": 1681801948,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1078914,
       "num": 323951,
       "word": "何超琼",
@@ -401,14 +409,6 @@
       "onboard_time": 1681793316,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1057479,
-      "num": 1057479,
-      "word": "淄博一烧烤店生意太火爆停业休息",
-      "onboard_time": 1681801948,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1049291,
@@ -531,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 823089,
+      "num": 823089,
+      "word": "科学家发现男士避孕关键基因",
+      "onboard_time": 1681801530,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 822663,
       "num": 822663,
       "word": "张含韵 没想到30岁会这么好",
@@ -545,14 +553,6 @@
       "onboard_time": 1681701148,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 804435,
-      "num": 804435,
-      "word": "科学家发现男士避孕关键基因",
-      "onboard_time": 1681801530,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 802228,
@@ -729,6 +729,14 @@
       "onboard_time": 1681700726,
       "rank": 11,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 634413,
+      "num": 634413,
+      "word": "爱奇艺的存货好多",
+      "onboard_time": 1681804650,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 629779,
@@ -971,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 497040,
+      "num": 497040,
+      "word": "男子工伤身亡妻子移植胚胎产下男婴",
+      "onboard_time": 1681803690,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484273,
       "num": 484273,
       "word": "苹果版余额宝上线",
@@ -1025,22 +1041,6 @@
       "onboard_time": 1681789888,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 470143,
-      "num": 470143,
-      "word": "爱奇艺的存货好多",
-      "onboard_time": 1681804650,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 468208,
-      "num": 468208,
-      "word": "男子工伤身亡妻子移植胚胎产下男婴",
-      "onboard_time": 1681803690,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 468121,
@@ -1604,7 +1604,7 @@
     },
     {
       "raw_hot": 310061,
-      "num": 193689,
+      "num": 216141,
       "word": "罗云熙扛白鹿",
       "onboard_time": 1681804228,
       "rank": 21,
@@ -1900,7 +1900,7 @@
     },
     {
       "raw_hot": 259304,
-      "num": 182941,
+      "num": 215216,
       "word": "罗志祥曾是姜涛导师",
       "onboard_time": 1681805247,
       "rank": 31,
@@ -1953,6 +1953,14 @@
       "onboard_time": 1681791451,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240205,
+      "num": 240205,
+      "word": "叶舒华以为摄影师是粉丝老公",
+      "onboard_time": 1681805192,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 237543,
@@ -2073,6 +2081,14 @@
       "onboard_time": 1681710686,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 221986,
+      "num": 221986,
+      "word": "中国经济没有出现通缩",
+      "onboard_time": 1681803092,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221851,
@@ -2321,14 +2337,6 @@
       "onboard_time": 1681719149,
       "rank": 24,
       "category": "科技"
-    },
-    {
-      "raw_hot": 202924,
-      "num": 202924,
-      "word": "中国经济没有出现通缩",
-      "onboard_time": 1681803092,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202586,
@@ -2612,7 +2620,7 @@
     },
     {
       "raw_hot": 187717,
-      "num": 187717,
+      "num": 221325,
       "word": "男子淄博烧烤摊醉酒闹事被秒带走",
       "onboard_time": 1681805548,
       "rank": 22,
@@ -3035,11 +3043,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155945,
-      "num": 155945,
-      "word": "叶舒华以为摄影师是粉丝老公",
-      "onboard_time": 1681805192,
-      "rank": 34,
+      "raw_hot": 156801,
+      "num": 140505,
+      "word": "汤唯现身上海车展",
+      "onboard_time": 1681805370,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -3163,6 +3171,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 148728,
+      "num": 148728,
+      "word": "百里守约调整共创",
+      "onboard_time": 1681806690,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148667,
       "num": 148667,
       "word": "何广智为什么跪着玩游戏",
@@ -3259,14 +3275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 140505,
-      "num": 140505,
-      "word": "汤唯现身上海车展",
-      "onboard_time": 1681805370,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140310,
       "num": 140310,
       "word": "陈伟霆露营办开鸡仪式",
@@ -3345,6 +3353,14 @@
       "onboard_time": 1681689986,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129957,
+      "num": 129957,
+      "word": "孙颖莎女单连胜榜第4",
+      "onboard_time": 1681806509,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 129726,
@@ -3531,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112121,
+      "num": 102733,
+      "word": "追剧看到大学同学是什么体验",
+      "onboard_time": 1681806448,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 110750,
       "num": 110750,
       "word": "Jasper当校园导游",
@@ -3689,6 +3713,14 @@
       "onboard_time": 1681802968,
       "rank": 45,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 99902,
+      "num": 99902,
+      "word": "许巍巡演广州站官宣",
+      "onboard_time": 1681806145,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 98203,
@@ -4001,6 +4033,14 @@
       "onboard_time": 1681645824,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 70567,
+      "num": 88621,
+      "word": "一个洞五百两个洞一千",
+      "onboard_time": 1681806866,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 69769,
