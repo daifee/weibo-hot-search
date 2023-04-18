@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681857207572,
+  "endTime": 1681859838230,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -616,6 +616,14 @@
       "word": "别用饭圈那一套对待国宝",
       "onboard_time": 1681816169,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869587,
+      "num": 869587,
+      "word": "山东一地要求公务人员回国后核酸",
+      "onboard_time": 1681835185,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1897,14 +1905,6 @@
       "onboard_time": 1681828052,
       "rank": 28,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 324528,
-      "num": 324528,
-      "word": "山东一地要求公务人员回国后核酸",
-      "onboard_time": 1681835185,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 323249,
@@ -4267,6 +4267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125325,
+      "num": 100780,
+      "word": "女孩应聘商务专员因身高177cm被拒",
+      "onboard_time": 1681848251,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124678,
       "num": 124678,
       "word": "刘雨昕推荐艺术家劳尔马克斯",
@@ -4409,6 +4417,14 @@
       "onboard_time": 1681659447,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111813,
+      "num": 111813,
+      "word": "花花 猪八花",
+      "onboard_time": 1681859059,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 110750,
@@ -4619,6 +4635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98521,
+      "num": 98521,
+      "word": "那不勒斯1比1AC米兰",
+      "onboard_time": 1681859360,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98203,
       "num": 129257,
       "word": "纯电大G有意思",
@@ -4681,6 +4705,14 @@
       "onboard_time": 1681703909,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94307,
+      "num": 94307,
+      "word": "孩子打人妈妈硬核反打教育",
+      "onboard_time": 1681850531,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93672,
@@ -4971,28 +5003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58152,
-      "num": 49604,
-      "word": "孩子打人妈妈硬核反打教育",
-      "onboard_time": 1681850531,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56963,
       "num": 59459,
       "word": "魏大勋说王鹤棣腰不行",
       "onboard_time": 1681663641,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54884,
-      "num": 49584,
-      "word": "女孩应聘商务专员因身高177cm被拒",
-      "onboard_time": 1681848251,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54507,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681857207572,
+  "endTime": 1681859838230,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -5096,6 +5096,14 @@
       "word": "男子用手电筒吓死千只鸡获刑6个月",
       "onboard_time": 1680752367,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869587,
+      "num": 869587,
+      "word": "山东一地要求公务人员回国后核酸",
+      "onboard_time": 1681835185,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -16889,14 +16897,6 @@
       "onboard_time": 1681549045,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 324528,
-      "num": 324528,
-      "word": "山东一地要求公务人员回国后核酸",
-      "onboard_time": 1681835185,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324005,
@@ -39051,6 +39051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125325,
+      "num": 100780,
+      "word": "女孩应聘商务专员因身高177cm被拒",
+      "onboard_time": 1681848251,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125177,
       "num": 125177,
       "word": "张远长发侧颜",
@@ -40227,6 +40235,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 111813,
+      "num": 111813,
+      "word": "花花 猪八花",
+      "onboard_time": 1681859059,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111786,
       "num": 111786,
       "word": "ITZY新发色",
@@ -41323,6 +41339,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 98521,
+      "num": 98521,
+      "word": "那不勒斯1比1AC米兰",
+      "onboard_time": 1681859360,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98298,
       "num": 98298,
       "word": "华晨宇武汉演唱会门票秒售罄",
@@ -41609,6 +41633,14 @@
       "onboard_time": 1681022965,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94307,
+      "num": 94307,
+      "word": "孩子打人妈妈硬核反打教育",
+      "onboard_time": 1681850531,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94010,
@@ -42891,14 +42923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58152,
-      "num": 49604,
-      "word": "孩子打人妈妈硬核反打教育",
-      "onboard_time": 1681850531,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57242,
       "num": 57242,
       "word": "麻雀挠头",
@@ -42953,14 +42977,6 @@
       "onboard_time": 1681255821,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 54884,
-      "num": 49584,
-      "word": "女孩应聘商务专员因身高177cm被拒",
-      "onboard_time": 1681848251,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54808,
