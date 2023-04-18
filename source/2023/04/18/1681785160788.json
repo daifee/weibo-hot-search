@@ -1,0 +1,410 @@
+{
+  "runTime": 1681785160788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1517109,
+        "num": 1517109,
+        "word": "感觉新冠不再来了还用打疫苗吗",
+        "onboard_time": 1681778611,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 894114,
+        "num": 894114,
+        "word": "数名外籍女子晒中国游引出偷渡案",
+        "onboard_time": 1681781367,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 65649,
+        "num": 826451,
+        "word": "这些旅游专列卷起来了",
+        "onboard_time": 1681737749,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1460198,
+        "num": 823127,
+        "word": "女生称陪嫁300万男友更急着结婚",
+        "onboard_time": 1681778549,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 819330,
+        "num": 819330,
+        "word": "易烊千玺新专辑刘艳芬",
+        "onboard_time": 1681783885,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 782547,
+        "num": 782547,
+        "word": "左肩有你 振兴钢厂",
+        "onboard_time": 1681778068,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 716772,
+        "num": 716772,
+        "word": "新生儿落户被标注文盲",
+        "onboard_time": 1681781786,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579350,
+        "num": 579350,
+        "word": "宋茜说分手还可以做朋友",
+        "onboard_time": 1681778307,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470553,
+        "num": 470553,
+        "word": "苹果版余额宝上线",
+        "onboard_time": 1681782748,
+        "rank": 8,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 443271,
+        "num": 443271,
+        "word": "2023考研报录比约6比1",
+        "onboard_time": 1681779089,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 806687,
+        "num": 429666,
+        "word": "刘雯好薄",
+        "onboard_time": 1681774462,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 559191,
+        "num": 428664,
+        "word": "周杰伦向网易索赔205万元",
+        "onboard_time": 1681777769,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 411262,
+        "num": 411262,
+        "word": "臀部发力的走路姿势我真的悟了",
+        "onboard_time": 1681743572,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380690,
+        "num": 380690,
+        "word": "哪些人属于胃癌高危人群",
+        "onboard_time": 1681782027,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70527,
+        "num": 374531,
+        "word": "总要去一次黄河三角洲吧",
+        "onboard_time": 1681783225,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373533,
+        "num": 373533,
+        "word": "乘风破浪4一公选曲分组",
+        "onboard_time": 1681784067,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372189,
+        "num": 372189,
+        "word": "今年一季度GDP同比增长4.5%",
+        "onboard_time": 1681783885,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 370331,
+        "num": 370331,
+        "word": "杨幂聚餐",
+        "onboard_time": 1681742311,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357585,
+        "num": 357585,
+        "word": "SMTOWN遭扣押搜查",
+        "onboard_time": 1681783407,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 294890,
+        "num": 294890,
+        "word": "要离职了被同事要求请吃饭",
+        "onboard_time": 1681744709,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271849,
+        "num": 271849,
+        "word": "长沙暴雨",
+        "onboard_time": 1681781246,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270723,
+        "num": 270723,
+        "word": "长月烬明发布理性追剧声明",
+        "onboard_time": 1681777410,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269532,
+        "num": 269532,
+        "word": "国内检出多例XBB.1.16",
+        "onboard_time": 1681784726,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247628,
+        "num": 247628,
+        "word": "黄牛你不要太离谱",
+        "onboard_time": 1681781546,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228953,
+        "num": 228953,
+        "word": "张含韵 没想到30岁会这么好",
+        "onboard_time": 1681744290,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226872,
+        "num": 226872,
+        "word": "特斯拉又在美国发生致命车祸",
+        "onboard_time": 1681781489,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208545,
+        "num": 208545,
+        "word": "长空之王险版预告",
+        "onboard_time": 1681784666,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207850,
+        "num": 207850,
+        "word": "腿粗是因为走路姿势不对",
+        "onboard_time": 1681781009,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 182923,
+        "num": 182923,
+        "word": "张颂文小米影像探索家",
+        "onboard_time": 1681785025,
+        "rank": 28,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 180753,
+        "num": 180753,
+        "word": "从奖学金到助学金",
+        "onboard_time": 1681774762,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 219289,
+        "num": 180685,
+        "word": "仰望U8预售价",
+        "onboard_time": 1681784188,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 179125,
+        "num": 179125,
+        "word": "山东人均存款8.37万",
+        "onboard_time": 1681777288,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 178084,
+        "num": 178084,
+        "word": "长期戴耳机",
+        "onboard_time": 1681750100,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170112,
+        "num": 170112,
+        "word": "提高免疫力要从人类幼崽抓起",
+        "onboard_time": 1681785146,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169902,
+        "num": 169902,
+        "word": "老师出门散步顺手救了个人",
+        "onboard_time": 1681781608,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162928,
+        "num": 162928,
+        "word": "丁程鑫北电汇演人世间剧照",
+        "onboard_time": 1681784305,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157050,
+        "num": 157050,
+        "word": "勇士VS国王",
+        "onboard_time": 1681784906,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146453,
+        "num": 146453,
+        "word": "NBA季后赛",
+        "onboard_time": 1681778549,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137239,
+        "num": 137239,
+        "word": "虞书欣丁禹兮 黑莲花",
+        "onboard_time": 1681741890,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135059,
+        "num": 135059,
+        "word": "上海车展",
+        "onboard_time": 1681782387,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 134213,
+        "num": 134213,
+        "word": "厦门暴雨",
+        "onboard_time": 1681777047,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127804,
+        "num": 127804,
+        "word": "长空之王开预售",
+        "onboard_time": 1681783286,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121481,
+        "num": 121481,
+        "word": "kpop念经曲",
+        "onboard_time": 1681779211,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120458,
+        "num": 120458,
+        "word": "姜涛曾参加快乐男声",
+        "onboard_time": 1681778307,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118811,
+        "num": 118811,
+        "word": "特斯拉回应载孕妇轿车方向盘突然抱死",
+        "onboard_time": 1681774221,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 88684,
+        "num": 106483,
+        "word": "年轻人游古城的正确打开方式",
+        "onboard_time": 1681781426,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 105340,
+        "num": 105340,
+        "word": "将来的智能汽车什么样",
+        "onboard_time": 1681784246,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64587,
+        "num": 105337,
+        "word": "彩虹瀑布 忘不掉的奇景",
+        "onboard_time": 1681782145,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 50367,
+        "num": 105135,
+        "word": "不要低估川渝地区的微辣",
+        "onboard_time": 1681776567,
+        "rank": 48,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 116834,
+        "num": 104733,
+        "word": "黑莲花 绝世大饼",
+        "onboard_time": 1681741890,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#功勋模范引导时代征途#"
+    }
+  }
+}

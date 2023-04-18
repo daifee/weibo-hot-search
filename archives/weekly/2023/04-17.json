@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681782301590,
+  "endTime": 1681785160788,
   "band_list": [
     {
       "raw_hot": 3542608,
@@ -171,6 +171,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1517109,
+      "num": 1517109,
+      "word": "感觉新冠不再来了还用打疫苗吗",
+      "onboard_time": 1681778611,
+      "rank": 4,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1474414,
       "num": 1474414,
       "word": "老娘已经80多天没有放假了",
@@ -291,14 +299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1062747,
-      "num": 1062747,
-      "word": "感觉新冠不再来了还用打疫苗吗",
-      "onboard_time": 1681778611,
-      "rank": 4,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 1014795,
       "num": 977180,
       "word": "臀部发力的走路姿势我真的悟了",
@@ -347,6 +347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 894114,
+      "num": 894114,
+      "word": "数名外籍女子晒中国游引出偷渡案",
+      "onboard_time": 1681781367,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 890810,
       "num": 505908,
       "word": "周杰伦向网易索赔205万元",
@@ -393,6 +401,14 @@
       "onboard_time": 1681744290,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 819330,
+      "num": 819330,
+      "word": "易烊千玺新专辑刘艳芬",
+      "onboard_time": 1681783885,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 804634,
@@ -449,6 +465,14 @@
       "onboard_time": 1681778307,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 716772,
+      "num": 716772,
+      "word": "新生儿落户被标注文盲",
+      "onboard_time": 1681781786,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 679159,
@@ -771,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470553,
+      "num": 470553,
+      "word": "苹果版余额宝上线",
+      "onboard_time": 1681782748,
+      "rank": 8,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 464455,
       "num": 464455,
       "word": "厦门暴雨",
@@ -817,14 +849,6 @@
       "onboard_time": 1681653327,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449542,
-      "num": 386655,
-      "word": "数名外籍女子晒中国游引出偷渡案",
-      "onboard_time": 1681781367,
-      "rank": 13,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 449007,
@@ -995,12 +1019,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380690,
+      "num": 380690,
+      "word": "哪些人属于胃癌高危人群",
+      "onboard_time": 1681782027,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380572,
       "num": 380572,
       "word": "强冷空气将带来俯冲式降温",
       "onboard_time": 1681757293,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373533,
+      "num": 373533,
+      "word": "乘风破浪4一公选曲分组",
+      "onboard_time": 1681784067,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 372189,
+      "num": 372189,
+      "word": "今年一季度GDP同比增长4.5%",
+      "onboard_time": 1681783885,
+      "rank": 16,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 368748,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1681706910,
       "rank": 17,
       "category": "幽默,音乐"
+    },
+    {
+      "raw_hot": 357585,
+      "num": 357585,
+      "word": "SMTOWN遭扣押搜查",
+      "onboard_time": 1681783407,
+      "rank": 18,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 356518,
@@ -1347,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269532,
+      "num": 269532,
+      "word": "国内检出多例XBB.1.16",
+      "onboard_time": 1681784726,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267943,
       "num": 267943,
       "word": "TF三代成员发文告别第一场演唱会",
@@ -1379,6 +1443,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 247628,
+      "num": 247628,
+      "word": "黄牛你不要太离谱",
+      "onboard_time": 1681781546,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247210,
       "num": 247210,
       "word": "无名最终票房",
@@ -1409,14 +1481,6 @@
       "onboard_time": 1681778549,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231722,
-      "num": 165156,
-      "word": "黄牛你不要太离谱",
-      "onboard_time": 1681781546,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 229480,
@@ -1475,6 +1539,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 226872,
+      "num": 226872,
+      "word": "特斯拉又在美国发生致命车祸",
+      "onboard_time": 1681781489,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225404,
       "num": 225404,
       "word": "灭魂钉需要真心换真心",
@@ -1497,6 +1569,14 @@
       "onboard_time": 1681710686,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 219289,
+      "num": 180685,
+      "word": "仰望U8预售价",
+      "onboard_time": 1681784188,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 217988,
@@ -1587,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208545,
+      "num": 208545,
+      "word": "长空之王险版预告",
+      "onboard_time": 1681784666,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207708,
       "num": 190489,
       "word": "四月份即将开播的剧",
@@ -1673,14 +1761,6 @@
       "onboard_time": 1681776268,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198419,
-      "num": 198419,
-      "word": "特斯拉又在美国发生致命车祸",
-      "onboard_time": 1681781489,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197304,
@@ -1803,14 +1883,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 192068,
-      "num": 192068,
-      "word": "新生儿落户被标注文盲",
-      "onboard_time": 1681781786,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190355,
       "num": 190355,
       "word": "特斯拉上海新工厂正式开启招聘",
@@ -1889,6 +1961,14 @@
       "onboard_time": 1681779211,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182923,
+      "num": 182923,
+      "word": "张颂文小米影像探索家",
+      "onboard_time": 1681785025,
+      "rank": 28,
+      "category": "科技,艺人"
     },
     {
       "raw_hot": 182319,
@@ -2035,6 +2115,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170112,
+      "num": 170112,
+      "word": "提高免疫力要从人类幼崽抓起",
+      "onboard_time": 1681785146,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169902,
+      "num": 169902,
+      "word": "老师出门散步顺手救了个人",
+      "onboard_time": 1681781608,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169228,
       "num": 209689,
       "word": "中国说唱巅峰对决2023官宣",
@@ -2089,6 +2185,14 @@
       "onboard_time": 1681631606,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 162928,
+      "num": 162928,
+      "word": "丁程鑫北电汇演人世间剧照",
+      "onboard_time": 1681784305,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162287,
@@ -2171,6 +2275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157050,
+      "num": 157050,
+      "word": "勇士VS国王",
+      "onboard_time": 1681784906,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157026,
       "num": 157026,
       "word": "哈妮克孜欢迎大家来家乡新疆",
@@ -2185,14 +2297,6 @@
       "onboard_time": 1681723708,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153511,
-      "num": 153511,
-      "word": "哪些人属于胃癌高危人群",
-      "onboard_time": 1681782027,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152605,
@@ -2265,14 +2369,6 @@
       "onboard_time": 1681721847,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 149882,
-      "num": 149882,
-      "word": "老师出门散步顺手救了个人",
-      "onboard_time": 1681781608,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148736,
@@ -2467,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127804,
+      "num": 127804,
+      "word": "长空之王开预售",
+      "onboard_time": 1681783286,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 127424,
       "num": 127424,
       "word": "DRG对战eStar",
@@ -2641,6 +2745,14 @@
       "onboard_time": 1681717708,
       "rank": 41,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 105340,
+      "num": 105340,
+      "word": "将来的智能汽车什么样",
+      "onboard_time": 1681784246,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104153,
@@ -2993,6 +3105,14 @@
       "onboard_time": 1681645824,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 70527,
+      "num": 374531,
+      "word": "总要去一次黄河三角洲吧",
+      "onboard_time": 1681783225,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69769,
