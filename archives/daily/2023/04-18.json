@@ -1,9 +1,9 @@
 {
   "startTime": 1681748601360,
-  "endTime": 1681780885633,
+  "endTime": 1681782301590,
   "band_list": [
     {
-      "raw_hot": 1493833,
+      "raw_hot": 1746205,
       "num": 1493833,
       "word": "女生称陪嫁300万男友更急着结婚",
       "onboard_time": 1681778549,
@@ -35,6 +35,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1159971,
+      "num": 1159971,
+      "word": "左肩有你 振兴钢厂",
+      "onboard_time": 1681778068,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1147601,
       "num": 277552,
       "word": "那英十年前为调休发声",
@@ -43,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1062747,
+      "num": 1062747,
+      "word": "感觉新冠不再来了还用打疫苗吗",
+      "onboard_time": 1681778611,
+      "rank": 4,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1014795,
       "num": 977180,
       "word": "臀部发力的走路姿势我真的悟了",
       "onboard_time": 1681743572,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 934131,
-      "num": 934131,
-      "word": "左肩有你 振兴钢厂",
-      "onboard_time": 1681778068,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 890810,
@@ -75,14 +83,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 792792,
-      "num": 792792,
-      "word": "感觉新冠不再来了还用打疫苗吗",
-      "onboard_time": 1681778611,
-      "rank": 4,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 720330,
       "num": 720330,
       "word": "宋茜说分手还可以做朋友",
@@ -97,6 +97,14 @@
       "onboard_time": 1681777288,
       "rank": 7,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 591163,
+      "num": 591163,
+      "word": "2023考研报录比约6比1",
+      "onboard_time": 1681779089,
+      "rank": 16,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 583091,
@@ -155,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446069,
-      "num": 446069,
-      "word": "2023考研报录比约6比1",
-      "onboard_time": 1681779089,
-      "rank": 16,
-      "category": "教育,社会新闻"
+      "raw_hot": 449542,
+      "num": 386655,
+      "word": "数名外籍女子晒中国游引出偷渡案",
+      "onboard_time": 1681781367,
+      "rank": 13,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 386209,
@@ -200,6 +208,14 @@
       "word": "杭州坠楼女童家属申请变更保姆罪名",
       "onboard_time": 1681744826,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311988,
+      "num": 311988,
+      "word": "长沙暴雨",
+      "onboard_time": 1681781246,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -283,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254615,
+      "num": 254615,
+      "word": "腿粗是因为走路姿势不对",
+      "onboard_time": 1681781009,
+      "rank": 20,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 254414,
       "num": 254414,
       "word": "于正可以认识一下孙珍妮",
@@ -297,6 +321,14 @@
       "onboard_time": 1681778549,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231722,
+      "num": 165156,
+      "word": "黄牛你不要太离谱",
+      "onboard_time": 1681781546,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 210608,
@@ -323,6 +355,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198419,
+      "num": 198419,
+      "word": "特斯拉又在美国发生致命车祸",
+      "onboard_time": 1681781489,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196790,
+      "num": 196790,
+      "word": "是什么让你犹豫进入婚姻",
+      "onboard_time": 1681781847,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195373,
       "num": 195373,
       "word": "星舰",
@@ -347,6 +395,30 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 192068,
+      "num": 192068,
+      "word": "新生儿落户被标注文盲",
+      "onboard_time": 1681781786,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183820,
+      "num": 183820,
+      "word": "kpop念经曲",
+      "onboard_time": 1681779211,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 173638,
+      "num": 173638,
+      "word": "浙江武义火灾已完成两轮搜救工作",
+      "onboard_time": 1681781426,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173508,
       "num": 173508,
       "word": "马斯克回应星舰首飞推迟",
@@ -360,14 +432,6 @@
       "word": "gidle回归时间",
       "onboard_time": 1681776567,
       "rank": 28,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 170030,
-      "num": 170030,
-      "word": "kpop念经曲",
-      "onboard_time": 1681779211,
-      "rank": 30,
       "category": "音乐"
     },
     {
@@ -395,12 +459,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153511,
+      "num": 153511,
+      "word": "哪些人属于胃癌高危人群",
+      "onboard_time": 1681782027,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151684,
+      "num": 151684,
+      "word": "年轻人游古城的正确打开方式",
+      "onboard_time": 1681781426,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 150556,
       "num": 150556,
       "word": "金智秀FLOWER横版直拍",
       "onboard_time": 1681748601,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149882,
+      "num": 149882,
+      "word": "老师出门散步顺手救了个人",
+      "onboard_time": 1681781608,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145827,
@@ -641,6 +729,14 @@
       "onboard_time": 1681772358,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76260,
+      "num": 110048,
+      "word": "彩虹瀑布 忘不掉的奇景",
+      "onboard_time": 1681782145,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 73505,
