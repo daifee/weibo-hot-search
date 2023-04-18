@@ -1,0 +1,410 @@
+{
+  "runTime": 1681817597435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1562691,
+        "num": 1562691,
+        "word": "公司取消了所有的调休",
+        "onboard_time": 1681809511,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 369671,
+        "num": 1383932,
+        "word": "智力障碍男生把迷路女童背到派出所",
+        "onboard_time": 1681802129,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 18644,
+        "num": 1263545,
+        "word": "年轻人游古城的正确打开方式",
+        "onboard_time": 1681781426,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214413,
+        "num": 1214413,
+        "word": "男婴静脉被注射配方奶家长被瞒5天",
+        "onboard_time": 1681812809,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172680,
+        "num": 916819,
+        "word": "3名勇救落水老人的小伙考研上岸了",
+        "onboard_time": 1681811428,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 881459,
+        "num": 881459,
+        "word": "窦骁何超莲官宣婚礼",
+        "onboard_time": 1681794096,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32655,
+        "num": 809470,
+        "word": "我为家乡特色美食来代言",
+        "onboard_time": 1681790311,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784945,
+        "num": 784945,
+        "word": "男子瘫痪儿子不愿供养将其活活饿死",
+        "onboard_time": 1681813889,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673887,
+        "num": 673887,
+        "word": "建议下班回家后马上洗漱",
+        "onboard_time": 1681814009,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 628393,
+        "num": 628393,
+        "word": "汤唯不知道Q3Q4的意思",
+        "onboard_time": 1681813110,
+        "rank": 9,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1964435,
+        "num": 591432,
+        "word": "宋祖儿 轧戏",
+        "onboard_time": 1681811850,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 478304,
+        "num": 478304,
+        "word": "淄博一烧烤店生意太火爆停业休息",
+        "onboard_time": 1681801948,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450349,
+        "num": 450349,
+        "word": "小米发布会",
+        "onboard_time": 1681816169,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 338182,
+        "num": 338182,
+        "word": "科学家发现男士避孕关键基因",
+        "onboard_time": 1681801530,
+        "rank": 13,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 332430,
+        "num": 332430,
+        "word": "WBG出征总决赛",
+        "onboard_time": 1681814849,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326299,
+        "num": 326299,
+        "word": "涉嫌侮辱死者自嗨锅商家被罚80万",
+        "onboard_time": 1681811249,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293425,
+        "num": 293425,
+        "word": "优酷说陈都灵好惨一女的",
+        "onboard_time": 1681809086,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 269720,
+        "num": 269720,
+        "word": "别用饭圈那一套对待国宝",
+        "onboard_time": 1681816169,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239217,
+        "num": 239217,
+        "word": "你还在用余额宝吗",
+        "onboard_time": 1681786946,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220373,
+        "num": 220373,
+        "word": "格林真脏",
+        "onboard_time": 1681792299,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313242,
+        "num": 219900,
+        "word": "千万不要把小孩寄宿到亲戚家",
+        "onboard_time": 1681812629,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217924,
+        "num": 217924,
+        "word": "网传男生同时交往8个女友翻车",
+        "onboard_time": 1681808908,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199844,
+        "num": 199844,
+        "word": "小米13Ultra徕卡光学",
+        "onboard_time": 1681817128,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 181548,
+        "num": 181548,
+        "word": "戚薇说130斤的我观感欠佳",
+        "onboard_time": 1681798227,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179760,
+        "num": 179760,
+        "word": "爱奇艺的存货好多",
+        "onboard_time": 1681804650,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171505,
+        "num": 171505,
+        "word": "钉钉更新300次评分上涨不到1分",
+        "onboard_time": 1681813350,
+        "rank": 25,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 162496,
+        "num": 162496,
+        "word": "考上研究生才知道的事",
+        "onboard_time": 1681801227,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154921,
+        "num": 154921,
+        "word": "杨迪谈被污名化",
+        "onboard_time": 1681808489,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154549,
+        "num": 154549,
+        "word": "陈幸同1比3斯佐科斯",
+        "onboard_time": 1681815809,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146031,
+        "num": 146031,
+        "word": "王源的香槟三次举杯但没喝",
+        "onboard_time": 1681803749,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190326,
+        "num": 145913,
+        "word": "马思纯最真实的人设",
+        "onboard_time": 1681814610,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188343,
+        "num": 145580,
+        "word": "公司回应取消所有长假调休",
+        "onboard_time": 1681816769,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144676,
+        "num": 144676,
+        "word": "长月烬明",
+        "onboard_time": 1681811487,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130313,
+        "num": 130313,
+        "word": "狗狗看到主人妆容后瑟瑟发抖",
+        "onboard_time": 1681812388,
+        "rank": 33,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 120819,
+        "num": 120819,
+        "word": "陈飞宇周也主演电影被诉侵权",
+        "onboard_time": 1681805130,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115963,
+        "num": 115963,
+        "word": "王一博票房号召力",
+        "onboard_time": 1681803749,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107973,
+        "num": 107973,
+        "word": "罗云熙扛白鹿",
+        "onboard_time": 1681804228,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107837,
+        "num": 107837,
+        "word": "48岁妈妈参加恋综被说像偶像剧女主",
+        "onboard_time": 1681795829,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106718,
+        "num": 106718,
+        "word": "叶舒华以为摄影师是粉丝老公",
+        "onboard_time": 1681805192,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106231,
+        "num": 106231,
+        "word": "gidle特典",
+        "onboard_time": 1681800867,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103404,
+        "num": 103404,
+        "word": "一个洞五百两个洞一千",
+        "onboard_time": 1681806866,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92513,
+        "num": 92513,
+        "word": "张雨绮问这个节目没有男的是吧",
+        "onboard_time": 1681798469,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 91458,
+        "num": 91458,
+        "word": "男子工伤身亡妻子移植胚胎产下男婴",
+        "onboard_time": 1681803690,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90523,
+        "num": 90523,
+        "word": "千万不要跟风买墨镜",
+        "onboard_time": 1681801109,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84182,
+        "num": 90513,
+        "word": "淄博烧烤",
+        "onboard_time": 1681810466,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79993,
+        "num": 90508,
+        "word": "大雁飞行中被游客托起搭顺风艇",
+        "onboard_time": 1681815866,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 76194,
+        "num": 90496,
+        "word": "王曼昱 WTT",
+        "onboard_time": 1681808787,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71892,
+        "num": 90485,
+        "word": "百里守约调整共创",
+        "onboard_time": 1681806690,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 35701,
+        "num": 90470,
+        "word": "茉莉花茶毛肚",
+        "onboard_time": 1681799188,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 73137,
+        "num": 90456,
+        "word": "男子淄博烧烤摊醉酒闹事被秒带走",
+        "onboard_time": 1681805548,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#云逛广交会#"
+    }
+  }
+}
