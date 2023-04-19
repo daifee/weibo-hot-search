@@ -1,0 +1,410 @@
+{
+  "runTime": 1681878933446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1663995,
+        "num": 1663995,
+        "word": "北京长峰医院火灾事故情况通报会",
+        "onboard_time": 1681877791,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150072,
+        "num": 1150072,
+        "word": "清华爸爸被5岁女儿问懵了",
+        "onboard_time": 1681867947,
+        "rank": 1,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 5903,
+        "num": 930602,
+        "word": "数说消博会",
+        "onboard_time": 1681878811,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888134,
+        "num": 888134,
+        "word": "易烊千玺双开门冰箱",
+        "onboard_time": 1681872686,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 881132,
+        "num": 881132,
+        "word": "办公室里只有我没有年终奖",
+        "onboard_time": 1681874667,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1502888,
+        "num": 845573,
+        "word": "北京一医院发生火灾21人死亡",
+        "onboard_time": 1681871786,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713759,
+        "num": 713759,
+        "word": "群演爆料王鹤棣片场骂人",
+        "onboard_time": 1681860805,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688746,
+        "num": 688746,
+        "word": "张子枫说要让全世界听到我们的声音",
+        "onboard_time": 1681873407,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 362413,
+        "num": 362413,
+        "word": "王宝强把张艺兴童年照认成徐峥",
+        "onboard_time": 1681875626,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294966,
+        "num": 294966,
+        "word": "罗云熙白鹿泼寒节剧照",
+        "onboard_time": 1681873886,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2233327,
+        "num": 294355,
+        "word": "抑郁症女孩凌晨从8楼跳下",
+        "onboard_time": 1681872145,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099452,
+        "num": 293736,
+        "word": "何超欣不知道何超莲窦骁结婚",
+        "onboard_time": 1681874306,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733181,
+        "num": 292736,
+        "word": "导师招学生继承自己的衣钵",
+        "onboard_time": 1681875447,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 358794,
+        "num": 291949,
+        "word": "金小妹回应整容",
+        "onboard_time": 1681876769,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601220,
+        "num": 291168,
+        "word": "赌王三太的珍珠戒指",
+        "onboard_time": 1681867888,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345758,
+        "num": 290303,
+        "word": "陈都灵花仙子造型",
+        "onboard_time": 1681876708,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290054,
+        "num": 290054,
+        "word": "旅泰大熊猫林惠鼻部出血",
+        "onboard_time": 1681870588,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274195,
+        "num": 274195,
+        "word": "奔跑吧在拍一种很新的宣传片",
+        "onboard_time": 1681873466,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285124,
+        "num": 272643,
+        "word": "郑渊洁告别书",
+        "onboard_time": 1681860141,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270334,
+        "num": 270334,
+        "word": "张颂文素人时期的言论",
+        "onboard_time": 1681868308,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37730,
+        "num": 269431,
+        "word": "总台独家影像再揭日寇滔天罪行",
+        "onboard_time": 1681824392,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115703,
+        "num": 267562,
+        "word": "月薪1万的同事一年存了11万",
+        "onboard_time": 1681876168,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 437699,
+        "num": 266478,
+        "word": "大厂为了防厕所摸鱼有多拼",
+        "onboard_time": 1681875567,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335047,
+        "num": 264320,
+        "word": "老人绑架4岁孙女勒索女儿50万",
+        "onboard_time": 1681873587,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290304,
+        "num": 263542,
+        "word": "女子因心情不好扔掉7万元",
+        "onboard_time": 1681873466,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261847,
+        "num": 261847,
+        "word": "肖战最新怼脸状态",
+        "onboard_time": 1681873407,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260520,
+        "num": 260520,
+        "word": "快船vs太阳",
+        "onboard_time": 1681873587,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257762,
+        "num": 257762,
+        "word": "淄博烧烤吃了又好像没吃",
+        "onboard_time": 1681873646,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233161,
+        "num": 233161,
+        "word": "鹿晗动物戒指封面",
+        "onboard_time": 1681873407,
+        "rank": 28,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 227075,
+        "num": 227075,
+        "word": "何以智胜开播",
+        "onboard_time": 1681877971,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417027,
+        "num": 224628,
+        "word": "印度夫妻疑为祭祀制作断头台双双斩首",
+        "onboard_time": 1681877068,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208693,
+        "num": 208693,
+        "word": "格林禁赛",
+        "onboard_time": 1681878090,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195974,
+        "num": 195974,
+        "word": "青岛音乐节",
+        "onboard_time": 1681878211,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195158,
+        "num": 195158,
+        "word": "专家建议休假政策做一下民意调查",
+        "onboard_time": 1681863810,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185028,
+        "num": 185028,
+        "word": "男子辱骂捉弄女骑手惹怒派出所所长",
+        "onboard_time": 1681870224,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184206,
+        "num": 184206,
+        "word": "熊猫击剑当然是用竹子啦",
+        "onboard_time": 1681875807,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174943,
+        "num": 174943,
+        "word": "演员宗利群去世",
+        "onboard_time": 1681860443,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174360,
+        "num": 174360,
+        "word": "林俊杰新歌孤独娱乐",
+        "onboard_time": 1681877369,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163846,
+        "num": 163846,
+        "word": "杨千嬅演唱会",
+        "onboard_time": 1681875567,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163790,
+        "num": 163790,
+        "word": "喜欢你我也是",
+        "onboard_time": 1681878690,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160440,
+        "num": 160440,
+        "word": "85花综艺",
+        "onboard_time": 1681869746,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1923323,
+        "num": 160313,
+        "word": "刘亦菲不参加综艺的原因",
+        "onboard_time": 1681875390,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158185,
+        "num": 158185,
+        "word": "专家正对熊猫林惠开展会诊",
+        "onboard_time": 1681878453,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153337,
+        "num": 153337,
+        "word": "没有工作后房东比我还着急",
+        "onboard_time": 1681862789,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 151906,
+        "num": 151906,
+        "word": "长峰医院火灾现场仍有烧焦味道",
+        "onboard_time": 1681866330,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149196,
+        "num": 149196,
+        "word": "高中生扔书包怒砸歹徒救下6岁女童",
+        "onboard_time": 1681878453,
+        "rank": 45,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 139301,
+        "num": 139301,
+        "word": "李晟敏将trot出道",
+        "onboard_time": 1681872626,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146803,
+        "num": 139267,
+        "word": "长峰医院火灾家属看到新闻才知失火",
+        "onboard_time": 1681878391,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139211,
+        "num": 139211,
+        "word": "小猫被帅哥亲了也会害羞",
+        "onboard_time": 1681871726,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134438,
+        "num": 134438,
+        "word": "贾静雯组王佳宇repo",
+        "onboard_time": 1681876651,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会倒计时100天主题片100%发布#"
+    }
+  }
+}

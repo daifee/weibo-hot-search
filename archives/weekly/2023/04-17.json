@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681878080409,
+  "endTime": 1681878933446,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -211,6 +211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1923323,
+      "num": 1847560,
+      "word": "刘亦菲不参加综艺的原因",
+      "onboard_time": 1681875390,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1914844,
       "num": 1914844,
       "word": "生孩子一定要去公立医院",
@@ -225,14 +233,6 @@
       "onboard_time": 1681697904,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1847560,
-      "num": 1847560,
-      "word": "刘亦菲不参加综艺的原因",
-      "onboard_time": 1681875390,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1836646,
@@ -313,6 +313,14 @@
       "onboard_time": 1681832549,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1663995,
+      "num": 1663995,
+      "word": "北京长峰医院火灾事故情况通报会",
+      "onboard_time": 1681877791,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1649607,
@@ -531,12 +539,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1115703,
+      "num": 267562,
+      "word": "月薪1万的同事一年存了11万",
+      "onboard_time": 1681876168,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1105425,
       "num": 1105425,
       "word": "易烊千玺 华为发布会",
       "onboard_time": 1681717286,
       "rank": 0,
       "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 1099452,
+      "num": 489729,
+      "word": "何超欣不知道何超莲窦骁结婚",
+      "onboard_time": 1681874306,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1078914,
@@ -561,14 +585,6 @@
       "onboard_time": 1681793316,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1054019,
-      "num": 489729,
-      "word": "何超欣不知道何超莲窦骁结婚",
-      "onboard_time": 1681874306,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1049291,
@@ -609,14 +625,6 @@
       "onboard_time": 1681716148,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1002925,
-      "num": 251371,
-      "word": "月薪1万的同事一年存了11万",
-      "onboard_time": 1681876168,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 997698,
@@ -723,6 +731,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 881132,
+      "num": 881132,
+      "word": "办公室里只有我没有年终奖",
+      "onboard_time": 1681874667,
+      "rank": 25,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 875776,
       "num": 875776,
       "word": "别用饭圈那一套对待国宝",
@@ -761,14 +777,6 @@
       "onboard_time": 1681655129,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 847936,
-      "num": 847936,
-      "word": "办公室里只有我没有年终奖",
-      "onboard_time": 1681874667,
-      "rank": 25,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 835795,
@@ -843,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 733181,
+      "num": 432439,
+      "word": "导师招学生继承自己的衣钵",
+      "onboard_time": 1681875447,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 728527,
       "num": 728527,
       "word": "国内检出多例XBB.1.16",
@@ -897,14 +913,6 @@
       "onboard_time": 1681802249,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 701090,
-      "num": 432439,
-      "word": "导师招学生继承自己的衣钵",
-      "onboard_time": 1681875447,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 698944,
@@ -1315,14 +1323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 511690,
-      "num": 511690,
-      "word": "北京长峰医院火灾事故情况通报会",
-      "onboard_time": 1681877791,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509630,
       "num": 328593,
       "word": "周扬青刮痧",
@@ -1348,7 +1348,7 @@
     },
     {
       "raw_hot": 500594,
-      "num": 242922,
+      "num": 263542,
       "word": "女子因心情不好扔掉7万元",
       "onboard_time": 1681873466,
       "rank": 20,
@@ -1372,7 +1372,7 @@
     },
     {
       "raw_hot": 489130,
-      "num": 248085,
+      "num": 266478,
       "word": "大厂为了防厕所摸鱼有多拼",
       "onboard_time": 1681875567,
       "rank": 21,
@@ -1667,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417027,
+      "num": 224628,
+      "word": "印度夫妻疑为祭祀制作断头台双双斩首",
+      "onboard_time": 1681877068,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416483,
       "num": 416483,
       "word": "克拉盘",
@@ -1860,7 +1868,7 @@
     },
     {
       "raw_hot": 377672,
-      "num": 245657,
+      "num": 264320,
       "word": "老人绑架4岁孙女勒索女儿50万",
       "onboard_time": 1681873587,
       "rank": 33,
@@ -2019,6 +2027,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 358794,
+      "num": 291949,
+      "word": "金小妹回应整容",
+      "onboard_time": 1681876769,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358244,
       "num": 358244,
       "word": "叶舒华以为摄影师是粉丝老公",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1681710026,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345758,
+      "num": 325289,
+      "word": "陈都灵花仙子造型",
+      "onboard_time": 1681876708,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345626,
@@ -2203,16 +2227,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 325289,
-      "num": 325289,
-      "word": "陈都灵花仙子造型",
-      "onboard_time": 1681876708,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 324980,
-      "num": 235325,
+      "num": 257762,
       "word": "淄博烧烤吃了又好像没吃",
       "onboard_time": 1681873646,
       "rank": 24,
@@ -2363,14 +2379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302833,
-      "num": 216100,
-      "word": "印度夫妻疑为祭祀制作断头台双双斩首",
-      "onboard_time": 1681877068,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300940,
       "num": 300940,
       "word": "光遇 红狐狸",
@@ -2472,6 +2480,14 @@
       "word": "多架民航客机在苏丹被击中",
       "onboard_time": 1681672031,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290054,
+      "num": 290054,
+      "word": "旅泰大熊猫林惠鼻部出血",
+      "onboard_time": 1681870588,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -2595,28 +2611,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 278612,
-      "num": 278612,
-      "word": "旅泰大熊猫林惠鼻部出血",
-      "onboard_time": 1681870588,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277943,
       "num": 277943,
       "word": "警方通报村民疑被当成猎物遭枪击死亡",
       "onboard_time": 1681785684,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276404,
-      "num": 237885,
-      "word": "金小妹回应整容",
-      "onboard_time": 1681876769,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 276168,
@@ -2692,7 +2692,7 @@
     },
     {
       "raw_hot": 267527,
-      "num": 230954,
+      "num": 261847,
       "word": "肖战最新怼脸状态",
       "onboard_time": 1681873407,
       "rank": 27,
@@ -2729,6 +2729,14 @@
       "onboard_time": 1681801109,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260520,
+      "num": 260520,
+      "word": "快船vs太阳",
+      "onboard_time": 1681693825,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 260327,
@@ -2899,14 +2907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228523,
-      "num": 228523,
-      "word": "快船vs太阳",
-      "onboard_time": 1681693825,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228319,
       "num": 228319,
       "word": "吉克隽逸用母语唱出彝族的淳朴",
@@ -2945,6 +2945,14 @@
       "onboard_time": 1681790370,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 227075,
+      "num": 227075,
+      "word": "何以智胜开播",
+      "onboard_time": 1681877971,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 226872,
@@ -3201,6 +3209,14 @@
       "onboard_time": 1681646366,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208693,
+      "num": 208693,
+      "word": "格林禁赛",
+      "onboard_time": 1681878090,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 208545,
@@ -3587,6 +3603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195974,
+      "num": 195974,
+      "word": "青岛音乐节",
+      "onboard_time": 1681878211,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195373,
       "num": 195373,
       "word": "星舰",
@@ -3875,6 +3899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184206,
+      "num": 184206,
+      "word": "熊猫击剑当然是用竹子啦",
+      "onboard_time": 1681875807,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184064,
       "num": 184064,
       "word": "丁程鑫北电汇演人世间剧照",
@@ -4131,14 +4163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168999,
-      "num": 168999,
-      "word": "熊猫击剑当然是用竹子啦",
-      "onboard_time": 1681875807,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168850,
       "num": 167261,
       "word": "白宇连续四部剧BE",
@@ -4233,6 +4257,14 @@
       "onboard_time": 1681799188,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163790,
+      "num": 163790,
+      "word": "喜欢你我也是",
+      "onboard_time": 1681878690,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 162953,
@@ -4385,6 +4417,14 @@
       "onboard_time": 1681862729,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158185,
+      "num": 158185,
+      "word": "专家正对熊猫林惠开展会诊",
+      "onboard_time": 1681878453,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158073,
@@ -4563,6 +4603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149196,
+      "num": 149196,
+      "word": "高中生扔书包怒砸歹徒救下6岁女童",
+      "onboard_time": 1681878453,
+      "rank": 45,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 149155,
       "num": 149155,
       "word": "COA6全球总决赛",
@@ -4595,14 +4643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148644,
-      "num": 148644,
-      "word": "何以智胜开播",
-      "onboard_time": 1681877971,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147940,
       "num": 147940,
       "word": "小鹏G6",
@@ -4625,6 +4665,14 @@
       "onboard_time": 1681826492,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146803,
+      "num": 139267,
+      "word": "长峰医院火灾家属看到新闻才知失火",
+      "onboard_time": 1681878391,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146647,
@@ -5913,6 +5961,14 @@
       "onboard_time": 1681518865,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 5903,
+      "num": 930602,
+      "word": "数说消博会",
+      "onboard_time": 1681878811,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
