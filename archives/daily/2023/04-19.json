@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681902893394,
+  "endTime": 1681904010423,
   "band_list": [
     {
       "raw_hot": 5224491,
@@ -11,8 +11,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 2840635,
-      "num": 2840635,
+      "raw_hot": 3148219,
+      "num": 3148219,
       "word": "杭州公布色狼完整姓名合适吗",
       "onboard_time": 1681897225,
       "rank": 3,
@@ -179,20 +179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 974789,
+      "num": 974789,
+      "word": "宋雨琦回应没礼貌不懂分寸",
+      "onboard_time": 1681898966,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 946616,
       "num": 946616,
       "word": "易烊千玺双开门冰箱",
       "onboard_time": 1681872686,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 927362,
-      "num": 927362,
-      "word": "宋雨琦回应没礼貌不懂分寸",
-      "onboard_time": 1681898966,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 921466,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862277,
+      "num": 464434,
+      "word": "张一山祝福窦骁何超莲",
+      "onboard_time": 1681903286,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850088,
       "num": 573439,
       "word": "大S短发写真",
@@ -273,6 +281,14 @@
       "onboard_time": 1681875447,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 708384,
+      "num": 708384,
+      "word": "泗水交通事故致7死10伤",
+      "onboard_time": 1681902147,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 698944,
@@ -385,6 +401,14 @@
       "onboard_time": 1681891587,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 527751,
+      "num": 245521,
+      "word": "长峰医院被中国非公医协摘牌",
+      "onboard_time": 1681902207,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500594,
@@ -675,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371075,
+      "num": 243830,
+      "word": "长峰医院附近居民发声",
+      "onboard_time": 1681892604,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369707,
       "num": 369707,
       "word": "85花综艺",
@@ -713,6 +745,14 @@
       "onboard_time": 1681890088,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365045,
+      "num": 365045,
+      "word": "教育部公布21种本科新增专业",
+      "onboard_time": 1681900886,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 362802,
@@ -859,14 +899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 313717,
-      "num": 313717,
-      "word": "泗水交通事故致7死10伤",
-      "onboard_time": 1681902147,
-      "rank": 15,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 313551,
       "num": 244026,
       "word": "王嘉尔回复评论区",
@@ -889,14 +921,6 @@
       "onboard_time": 1681880313,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310750,
-      "num": 310750,
-      "word": "教育部公布21种本科新增专业",
-      "onboard_time": 1681900886,
-      "rank": 17,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 299896,
@@ -945,6 +969,14 @@
       "onboard_time": 1681863390,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 271146,
+      "num": 271146,
+      "word": "被小学同学抄袭了人生",
+      "onboard_time": 1681902927,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 268422,
@@ -1033,14 +1065,6 @@
       "onboard_time": 1681830570,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243830,
-      "num": 243830,
-      "word": "长峰医院附近居民发声",
-      "onboard_time": 1681892604,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238353,
@@ -1179,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208349,
-      "num": 208349,
-      "word": "长峰医院被中国非公医协摘牌",
-      "onboard_time": 1681902207,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207945,
       "num": 207945,
       "word": "李晟敏将trot出道",
@@ -1219,6 +1235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204932,
+      "num": 204932,
+      "word": "高铁上可以点外卖",
+      "onboard_time": 1681899685,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 203196,
       "num": 203196,
       "word": "王一博长空之王首映现场",
@@ -1235,12 +1259,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 203018,
-      "num": 203018,
-      "word": "高铁上可以点外卖",
-      "onboard_time": 1681899685,
-      "rank": 42,
-      "category": "旅游"
+      "raw_hot": 202171,
+      "num": 202171,
+      "word": "穿洞洞鞋千万要小心",
+      "onboard_time": 1681902266,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 202124,
@@ -1811,14 +1835,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138077,
-      "num": 138077,
-      "word": "穿洞洞鞋千万要小心",
-      "onboard_time": 1681902266,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134450,
       "num": 930346,
       "word": "硬核老爸用8年为孤独症儿子造火车",
@@ -2011,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112161,
+      "num": 112161,
+      "word": "淄博多部门回应方舱将改酒店一事",
+      "onboard_time": 1681903225,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110210,
       "num": 110210,
       "word": "剧好听的歌有好多人啊",
@@ -2067,12 +2091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97335,
+      "num": 97335,
+      "word": "没有边界感的同事有多烦人",
+      "onboard_time": 1681903466,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96850,
       "num": 96850,
       "word": "离职要不要请同事吃饭",
       "onboard_time": 1681860502,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95953,
+      "num": 95953,
+      "word": "电视剧南来北往杀青",
+      "onboard_time": 1681903947,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 95947,
@@ -2097,6 +2137,14 @@
       "onboard_time": 1681821327,
       "rank": 43,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 89923,
+      "num": 89923,
+      "word": "公司团建是看五月天演唱会",
+      "onboard_time": 1681903885,
+      "rank": 49,
+      "category": "情感,音乐"
     },
     {
       "raw_hot": 86596,
@@ -2163,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57144,
+      "num": 1728533,
+      "word": "人民海军74周岁",
+      "onboard_time": 1681901727,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 52610,
       "num": 192626,
       "word": "真正的豪华车哪有平替",
@@ -2177,14 +2233,6 @@
       "onboard_time": 1681891467,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40847,
-      "num": 1728533,
-      "word": "人民海军74周岁",
-      "onboard_time": 1681901727,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 38812,

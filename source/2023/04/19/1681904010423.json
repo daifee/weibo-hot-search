@@ -1,0 +1,410 @@
+{
+  "runTime": 1681904010423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3148219,
+        "num": 3148219,
+        "word": "杭州公布色狼完整姓名合适吗",
+        "onboard_time": 1681897225,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321454,
+        "num": 1439239,
+        "word": "程序员辞职带妈妈锻炼半年瘦20斤",
+        "onboard_time": 1681895129,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 57144,
+        "num": 1349449,
+        "word": "人民海军74周岁",
+        "onboard_time": 1681901727,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1337937,
+        "num": 1337937,
+        "word": "肉体上最疼的一次经历是什么",
+        "onboard_time": 1681896987,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143575,
+        "num": 976252,
+        "word": "高中生扔书包怒砸歹徒救下6岁女童",
+        "onboard_time": 1681878453,
+        "rank": 4,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 974789,
+        "num": 974789,
+        "word": "宋雨琦回应没礼貌不懂分寸",
+        "onboard_time": 1681898966,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121038,
+        "num": 835862,
+        "word": "硬核老爸用8年为孤独症儿子造火车",
+        "onboard_time": 1681897826,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769334,
+        "num": 769334,
+        "word": "蒋梦婕被恶意拍裙底勒索",
+        "onboard_time": 1681882888,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 708384,
+        "num": 708384,
+        "word": "泗水交通事故致7死10伤",
+        "onboard_time": 1681902147,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 481796,
+        "num": 481796,
+        "word": "北京长峰医院火灾事故已致29人死亡",
+        "onboard_time": 1681879592,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1264584,
+        "num": 475721,
+        "word": "男人真的喜欢女人吗",
+        "onboard_time": 1681887267,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 862277,
+        "num": 464434,
+        "word": "张一山祝福窦骁何超莲",
+        "onboard_time": 1681903286,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441759,
+        "num": 441759,
+        "word": "大S短发写真",
+        "onboard_time": 1681891826,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365045,
+        "num": 365045,
+        "word": "教育部公布21种本科新增专业",
+        "onboard_time": 1681900886,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 317349,
+        "num": 317349,
+        "word": "月薪1万的同事一年存了11万",
+        "onboard_time": 1681876168,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304975,
+        "num": 304975,
+        "word": "陈伟霆回应和章若楠炒cp",
+        "onboard_time": 1681890807,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298916,
+        "num": 298916,
+        "word": "李泰容开通微博",
+        "onboard_time": 1681900166,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271146,
+        "num": 271146,
+        "word": "被小学同学抄袭了人生",
+        "onboard_time": 1681902927,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247928,
+        "num": 247928,
+        "word": "鹿晗被吓跑了",
+        "onboard_time": 1681899147,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246023,
+        "num": 246023,
+        "word": "白鹿方严正声明",
+        "onboard_time": 1681882348,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527751,
+        "num": 245521,
+        "word": "长峰医院被中国非公医协摘牌",
+        "onboard_time": 1681902207,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289780,
+        "num": 244830,
+        "word": "内娱00后颜值有多高",
+        "onboard_time": 1681897588,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243211,
+        "num": 243211,
+        "word": "周洁琼回应抢那英话筒",
+        "onboard_time": 1681896927,
+        "rank": 22,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 371075,
+        "num": 238658,
+        "word": "长峰医院附近居民发声",
+        "onboard_time": 1681892604,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233970,
+        "num": 233970,
+        "word": "西班牙真人秀男嘉宾性侵女嘉宾",
+        "onboard_time": 1681898907,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209371,
+        "num": 209371,
+        "word": "泰国大熊猫林惠去世",
+        "onboard_time": 1681880612,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208168,
+        "num": 208168,
+        "word": "原来以前的五一是七天假",
+        "onboard_time": 1681896089,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204932,
+        "num": 204932,
+        "word": "高铁上可以点外卖",
+        "onboard_time": 1681899685,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 202639,
+        "num": 202639,
+        "word": "陈冰追长月烬明吃饭都上头",
+        "onboard_time": 1681895187,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202171,
+        "num": 202171,
+        "word": "穿洞洞鞋千万要小心",
+        "onboard_time": 1681902266,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198789,
+        "num": 198789,
+        "word": "刘诗诗好有气质",
+        "onboard_time": 1681895006,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186849,
+        "num": 186849,
+        "word": "于正买翡翠被骗",
+        "onboard_time": 1681889247,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183147,
+        "num": 183147,
+        "word": "oner腹肌照",
+        "onboard_time": 1681899089,
+        "rank": 32,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 173117,
+        "num": 173117,
+        "word": "Ming爆料RNG新中单",
+        "onboard_time": 1681895608,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161813,
+        "num": 161813,
+        "word": "济宁一村庄两货车相撞车头瞬间解体",
+        "onboard_time": 1681894946,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145240,
+        "num": 145240,
+        "word": "11岁女孩玩密室逃脱摔成9级伤残",
+        "onboard_time": 1681894826,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139524,
+        "num": 139524,
+        "word": "苹果手机失去市场份额第一",
+        "onboard_time": 1681885348,
+        "rank": 36,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 131650,
+        "num": 131650,
+        "word": "虞书欣首尔旅游vlog",
+        "onboard_time": 1681895968,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130742,
+        "num": 130742,
+        "word": "泗水",
+        "onboard_time": 1681893692,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112161,
+        "num": 112161,
+        "word": "淄博多部门回应方舱将改酒店一事",
+        "onboard_time": 1681903225,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109179,
+        "num": 109179,
+        "word": "徐艺洋不允许对象邀请前任来婚礼",
+        "onboard_time": 1681892068,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108977,
+        "num": 108977,
+        "word": "五条悟回归",
+        "onboard_time": 1681884090,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105652,
+        "num": 105652,
+        "word": "微信朋友圈上线11年了",
+        "onboard_time": 1681895788,
+        "rank": 42,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 102324,
+        "num": 102324,
+        "word": "特斯拉降价",
+        "onboard_time": 1681879713,
+        "rank": 43,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 100558,
+        "num": 100558,
+        "word": "赵丽颖毛晓彤陈都灵簪花女造型",
+        "onboard_time": 1681884627,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98960,
+        "num": 98960,
+        "word": "声生不息宝岛季",
+        "onboard_time": 1681899206,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97335,
+        "num": 97335,
+        "word": "没有边界感的同事有多烦人",
+        "onboard_time": 1681903466,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97158,
+        "num": 97158,
+        "word": "李现活动生图状态",
+        "onboard_time": 1681901546,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95953,
+        "num": 95953,
+        "word": "电视剧南来北往杀青",
+        "onboard_time": 1681903947,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 89923,
+        "num": 89923,
+        "word": "公司团建是看五月天演唱会",
+        "onboard_time": 1681903885,
+        "rank": 49,
+        "category": "情感,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会倒计时100天主题片100%发布#"
+    }
+  }
+}
