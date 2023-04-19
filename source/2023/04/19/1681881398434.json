@@ -1,0 +1,410 @@
+{
+  "runTime": 1681881398434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1881722,
+        "num": 1881722,
+        "word": "月薪1万的同事一年存了11万",
+        "onboard_time": 1681876168,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 869745,
+        "num": 869745,
+        "word": "易烊千玺双开门冰箱",
+        "onboard_time": 1681872686,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25107,
+        "num": 845523,
+        "word": "数说消博会",
+        "onboard_time": 1681878811,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2475159,
+        "num": 844850,
+        "word": "北京长峰医院火灾事故已致29人死亡",
+        "onboard_time": 1681879592,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843026,
+        "num": 843026,
+        "word": "泰国大熊猫林惠去世",
+        "onboard_time": 1681880612,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2377819,
+        "num": 749407,
+        "word": "北京长峰医院火灾事故情况通报会",
+        "onboard_time": 1681877791,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648252,
+        "num": 648252,
+        "word": "群演爆料王鹤棣片场骂人",
+        "onboard_time": 1681860805,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639590,
+        "num": 639590,
+        "word": "林惠",
+        "onboard_time": 1681879230,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620011,
+        "num": 620011,
+        "word": "清华爸爸被5岁女儿问懵了",
+        "onboard_time": 1681867947,
+        "rank": 8,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 505177,
+        "num": 505177,
+        "word": "办公室里只有我没有年终奖",
+        "onboard_time": 1681874667,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1418845,
+        "num": 502240,
+        "word": "何超欣不知道何超莲窦骁结婚",
+        "onboard_time": 1681874306,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1231110,
+        "num": 497296,
+        "word": "抑郁症女孩凌晨从8楼跳下",
+        "onboard_time": 1681872145,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591020,
+        "num": 488376,
+        "word": "导师招学生继承自己的衣钵",
+        "onboard_time": 1681875447,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 773503,
+        "num": 477404,
+        "word": "赌王三太的珍珠戒指",
+        "onboard_time": 1681867888,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566558,
+        "num": 477139,
+        "word": "长峰医院院长等12人被刑拘",
+        "onboard_time": 1681880012,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470374,
+        "num": 470374,
+        "word": "Lisa太阳新歌shoong预告照",
+        "onboard_time": 1681879649,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 429417,
+        "num": 429417,
+        "word": "特斯拉降价",
+        "onboard_time": 1681879713,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 384683,
+        "num": 384683,
+        "word": "陈都灵花仙子造型",
+        "onboard_time": 1681876708,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331653,
+        "num": 331653,
+        "word": "高中生扔书包怒砸歹徒救下6岁女童",
+        "onboard_time": 1681878453,
+        "rank": 18,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 328775,
+        "num": 328775,
+        "word": "金小妹回应整容",
+        "onboard_time": 1681876769,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408181,
+        "num": 323635,
+        "word": "大厂为了防厕所摸鱼有多拼",
+        "onboard_time": 1681875567,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331989,
+        "num": 322941,
+        "word": "刘亦菲纯白西装",
+        "onboard_time": 1681879171,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318051,
+        "num": 318051,
+        "word": "王宝强把张艺兴童年照认成徐峥",
+        "onboard_time": 1681875626,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311097,
+        "num": 311097,
+        "word": "张子枫说要让全世界听到我们的声音",
+        "onboard_time": 1681873407,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307137,
+        "num": 307137,
+        "word": "长峰医院火灾事故初步调查结果",
+        "onboard_time": 1681880313,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294040,
+        "num": 294040,
+        "word": "格林禁赛",
+        "onboard_time": 1681878090,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278383,
+        "num": 278383,
+        "word": "老人绑架4岁孙女勒索女儿50万",
+        "onboard_time": 1681873587,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256682,
+        "num": 256682,
+        "word": "高铁无座也是可以坐的",
+        "onboard_time": 1681880733,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 250649,
+        "num": 250649,
+        "word": "总领馆回应旅泰熊猫林惠鼻子出血",
+        "onboard_time": 1681879470,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236622,
+        "num": 236622,
+        "word": "罗云熙白鹿泼寒节剧照",
+        "onboard_time": 1681873886,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 352884,
+        "num": 235263,
+        "word": "印度夫妻疑为祭祀制作断头台双双斩首",
+        "onboard_time": 1681877068,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229333,
+        "num": 229333,
+        "word": "张颂文素人时期的言论",
+        "onboard_time": 1681868308,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228936,
+        "num": 228936,
+        "word": "女子因心情不好扔掉7万元",
+        "onboard_time": 1681873466,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219597,
+        "num": 219597,
+        "word": "内娱唱功天花板",
+        "onboard_time": 1681880909,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212587,
+        "num": 212587,
+        "word": "长峰医院火灾现场仍有烧焦味道",
+        "onboard_time": 1681866330,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210718,
+        "num": 210718,
+        "word": "肖战最新怼脸状态",
+        "onboard_time": 1681873407,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209130,
+        "num": 209130,
+        "word": "Jennie改歌词",
+        "onboard_time": 1681881209,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207205,
+        "num": 207205,
+        "word": "奔跑吧在拍一种很新的宣传片",
+        "onboard_time": 1681873466,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199293,
+        "num": 199293,
+        "word": "旅泰大熊猫林惠鼻部出血",
+        "onboard_time": 1681870588,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194375,
+        "num": 194375,
+        "word": "太阳1比1快船",
+        "onboard_time": 1681881028,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189594,
+        "num": 189594,
+        "word": "何以智胜开播",
+        "onboard_time": 1681877971,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187685,
+        "num": 187685,
+        "word": "威少",
+        "onboard_time": 1681879532,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187436,
+        "num": 187436,
+        "word": "喜欢你我也是",
+        "onboard_time": 1681878690,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187029,
+        "num": 187029,
+        "word": "北京长峰医院",
+        "onboard_time": 1681874306,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186640,
+        "num": 186640,
+        "word": "当被e人包围是什么体验",
+        "onboard_time": 1681880371,
+        "rank": 44,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 185868,
+        "num": 185868,
+        "word": "郑渊洁告别书",
+        "onboard_time": 1681860141,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180177,
+        "num": 180177,
+        "word": "淄博烧烤吃了又好像没吃",
+        "onboard_time": 1681873646,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164292,
+        "num": 164292,
+        "word": "鹿晗动物戒指封面",
+        "onboard_time": 1681873407,
+        "rank": 47,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 160517,
+        "num": 160517,
+        "word": "专家正对熊猫林惠开展会诊",
+        "onboard_time": 1681878453,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158201,
+        "num": 158201,
+        "word": "快船vs太阳",
+        "onboard_time": 1681873587,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#距成都大运会开幕还有100天#"
+    }
+  }
+}
