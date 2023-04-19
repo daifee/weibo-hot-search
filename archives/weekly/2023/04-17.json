@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681885356881,
+  "endTime": 1681886175049,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -883,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 753531,
+      "num": 753531,
+      "word": "白鹿方严正声明",
+      "onboard_time": 1681882348,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 733181,
       "num": 529734,
       "word": "导师招学生继承自己的衣钵",
@@ -985,14 +993,6 @@
       "onboard_time": 1681716327,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 677902,
-      "num": 677902,
-      "word": "白鹿方严正声明",
-      "onboard_time": 1681882348,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 677798,
@@ -1108,7 +1108,7 @@
     },
     {
       "raw_hot": 630689,
-      "num": 527905,
+      "num": 574046,
       "word": "北京丰台区副区长道歉",
       "onboard_time": 1681883246,
       "rank": 8,
@@ -1152,6 +1152,14 @@
       "word": "赞多肚子",
       "onboard_time": 1681686921,
       "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 598060,
+      "num": 598060,
+      "word": "赵丽颖毛晓彤陈都灵簪花女造型",
+      "onboard_time": 1681884627,
+      "rank": 7,
       "category": "作品衍生"
     },
     {
@@ -1355,14 +1363,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 529847,
-      "num": 529847,
-      "word": "赵丽颖毛晓彤陈都灵簪花女造型",
-      "onboard_time": 1681884627,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 529579,
       "num": 529579,
       "word": "张杰上台前10分钟还在健身",
@@ -1475,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481373,
+      "num": 481373,
+      "word": "Jennie改歌词",
+      "onboard_time": 1681881209,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 480021,
       "num": 480021,
       "word": "上海男篮道歉",
@@ -1531,14 +1539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 468910,
-      "num": 468910,
-      "word": "Jennie改歌词",
-      "onboard_time": 1681881209,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 468121,
       "num": 468121,
       "word": "追梦格林被驱逐",
@@ -1585,6 +1585,14 @@
       "onboard_time": 1681730187,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456654,
+      "num": 456654,
+      "word": "陈伟霆说的那个艺人是谁",
+      "onboard_time": 1681884689,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 456240,
@@ -2371,6 +2379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 324561,
+      "num": 249029,
+      "word": "姜贞羽霓裳羽衣舞",
+      "onboard_time": 1681884867,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323249,
       "num": 323249,
       "word": "王嘉尔二登科切拉",
@@ -2465,6 +2481,14 @@
       "onboard_time": 1681867768,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313548,
+      "num": 313548,
+      "word": "五条悟回归",
+      "onboard_time": 1681884090,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 311988,
@@ -2851,14 +2875,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267489,
-      "num": 267489,
-      "word": "陈伟霆说的那个艺人是谁",
-      "onboard_time": 1681884689,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265350,
       "num": 265350,
       "word": "姜涛曾参加快乐男声",
@@ -3011,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244056,
+      "num": 244056,
+      "word": "苹果手机失去市场份额第一",
+      "onboard_time": 1681885348,
+      "rank": 47,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 241093,
       "num": 241093,
       "word": "大大担任eStar主教练",
@@ -3025,6 +3049,14 @@
       "onboard_time": 1681820007,
       "rank": 34,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 238353,
+      "num": 238353,
+      "word": "李荣浩说井柏然对他不错",
+      "onboard_time": 1681884208,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 237543,
@@ -3131,14 +3163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226841,
-      "num": 226841,
-      "word": "五条悟回归",
-      "onboard_time": 1681884090,
-      "rank": 27,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 226825,
       "num": 183535,
       "word": "3岁男孩为治大片胎记脸上埋扩张器",
@@ -3219,14 +3243,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 220952,
-      "num": 220952,
-      "word": "姜贞羽霓裳羽衣舞",
-      "onboard_time": 1681884867,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219289,
       "num": 197897,
       "word": "仰望U8预售价",
@@ -3257,14 +3273,6 @@
       "onboard_time": 1681641927,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217970,
-      "num": 217970,
-      "word": "李荣浩说井柏然对他不错",
-      "onboard_time": 1681884208,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 217320,
@@ -3409,6 +3417,14 @@
       "onboard_time": 1681795412,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208887,
+      "num": 208887,
+      "word": "蔡徐坤今日直播造型",
+      "onboard_time": 1681884988,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208866,
@@ -3627,6 +3643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202124,
+      "num": 202124,
+      "word": "存钱真的会上瘾的",
+      "onboard_time": 1681885465,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201942,
       "num": 163998,
       "word": "超六成投票者还在用余额宝",
@@ -3777,6 +3801,14 @@
       "onboard_time": 1681701745,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196751,
+      "num": 196751,
+      "word": "贾玲张小斐或将二搭",
+      "onboard_time": 1681885769,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 196618,
@@ -3931,6 +3963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192657,
+      "num": 192657,
+      "word": "长峰医院患者家属已全部对接联系",
+      "onboard_time": 1681885645,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192601,
       "num": 192601,
       "word": "觉得饭不好吃告诉老板丢人吗",
@@ -4067,14 +4107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187350,
-      "num": 187350,
-      "word": "蔡徐坤今日直播造型",
-      "onboard_time": 1681884988,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 186986,
       "num": 186986,
       "word": "林俊杰新歌孤独娱乐",
@@ -4129,6 +4161,14 @@
       "onboard_time": 1681725927,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 186404,
+      "num": 186404,
+      "word": "周深特意跑出来和粉丝打招呼",
+      "onboard_time": 1681886125,
+      "rank": 36,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 186288,
@@ -4545,6 +4585,14 @@
       "onboard_time": 1681800447,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162689,
+      "num": 162689,
+      "word": "带女儿开出租车妈妈7年没买过衣服",
+      "onboard_time": 1681885826,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162313,
@@ -5059,6 +5107,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 140734,
+      "num": 140734,
+      "word": "张予曦苗疆造型",
+      "onboard_time": 1681885527,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140310,
       "num": 140310,
       "word": "陈伟霆露营办开鸡仪式",
@@ -5441,14 +5497,6 @@
       "onboard_time": 1681811189,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 116483,
-      "num": 116483,
-      "word": "苹果手机失去市场份额第一",
-      "onboard_time": 1681885348,
-      "rank": 47,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 116338,
@@ -5987,6 +6035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82758,
+      "num": 392735,
+      "word": "李健开车梦回狂飙",
+      "onboard_time": 1681884028,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80504,
       "num": 125816,
       "word": "彩虹瀑布 忘不掉的奇景",
@@ -6131,14 +6187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56106,
-      "num": 392735,
-      "word": "李健开车梦回狂飙",
-      "onboard_time": 1681884028,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 54507,
       "num": 129458,
       "word": "决战平安京",
@@ -6252,7 +6300,7 @@
     },
     {
       "raw_hot": 25107,
-      "num": 1385639,
+      "num": 1476346,
       "word": "数说消博会",
       "onboard_time": 1681878811,
       "rank": 2,
