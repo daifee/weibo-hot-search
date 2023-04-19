@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681911201135,
+  "endTime": 1681913785725,
   "band_list": [
     {
       "raw_hot": 5224491,
@@ -131,6 +131,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 1720363,
+      "num": 399292,
+      "word": "山东科技大学",
+      "onboard_time": 1681908749,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1678087,
       "num": 1678087,
       "word": "内马尔女友怀孕",
@@ -153,14 +161,6 @@
       "onboard_time": 1681874306,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1497739,
-      "num": 399292,
-      "word": "山东科技大学",
-      "onboard_time": 1681908749,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1344474,
@@ -203,12 +203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 951425,
+      "num": 951425,
+      "word": "千万不要有舔奶盖的习惯",
+      "onboard_time": 1681911989,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 946616,
       "num": 946616,
       "word": "易烊千玺双开门冰箱",
       "onboard_time": 1681872686,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 925721,
+      "num": 483190,
+      "word": "张一山祝福窦骁何超莲",
+      "onboard_time": 1681903286,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 921466,
@@ -224,14 +240,6 @@
       "word": "赌王三太的珍珠戒指",
       "onboard_time": 1681867888,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 908370,
-      "num": 483190,
-      "word": "张一山祝福窦骁何超莲",
-      "onboard_time": 1681903286,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -281,6 +289,14 @@
       "onboard_time": 1681880733,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 782372,
+      "num": 371513,
+      "word": "河南男子杀害3名亲属后自首",
+      "onboard_time": 1681911089,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 775963,
@@ -385,6 +401,22 @@
       "onboard_time": 1681883246,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622212,
+      "num": 622212,
+      "word": "澹台烬主动吻叶夕雾",
+      "onboard_time": 1681910728,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 612138,
+      "num": 361719,
+      "word": "三年前的刘宇宁",
+      "onboard_time": 1681910728,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 588271,
@@ -585,6 +617,14 @@
       "onboard_time": 1681879713,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 437762,
+      "num": 292123,
+      "word": "阿娇豪门千金黑裙造型",
+      "onboard_time": 1681910847,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423418,
@@ -1131,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249575,
+      "num": 249575,
+      "word": "公孙离新皮肤首曝",
+      "onboard_time": 1681909587,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 247733,
       "num": 188445,
       "word": "刘亦菲有风剧组聚会合照",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1681906286,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239362,
+      "num": 239362,
+      "word": "陈飞宇周也主演电影声明",
+      "onboard_time": 1681913490,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 238353,
@@ -1235,14 +1291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216650,
-      "num": 182617,
-      "word": "澹台烬主动吻叶夕雾",
-      "onboard_time": 1681910728,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216599,
       "num": 216599,
       "word": "黄子韬被气到说青岛话",
@@ -1304,14 +1352,6 @@
       "word": "李晟敏将trot出道",
       "onboard_time": 1681872626,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 206268,
-      "num": 206268,
-      "word": "三年前的刘宇宁",
-      "onboard_time": 1681910728,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1539,14 +1579,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 188115,
-      "num": 188115,
-      "word": "公孙离新皮肤首曝",
-      "onboard_time": 1681909587,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 187685,
       "num": 187685,
       "word": "威少",
@@ -1683,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176229,
+      "num": 176229,
+      "word": "吉克隽逸锁骨擦闪粉",
+      "onboard_time": 1681908567,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175590,
       "num": 175590,
       "word": "离职前还会认真工作吗",
@@ -1731,6 +1771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164542,
+      "num": 164542,
+      "word": "龚俊为了角色可以立马增肥",
+      "onboard_time": 1681911567,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164342,
       "num": 164342,
       "word": "承受不住压力离职是种失败吗",
@@ -1768,14 +1816,6 @@
       "word": "BLACKPINK柯登合照",
       "onboard_time": 1681889787,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161862,
-      "num": 161862,
-      "word": "吉克隽逸锁骨擦闪粉",
-      "onboard_time": 1681908567,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1891,6 +1931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149414,
+      "num": 149414,
+      "word": "叶夕雾的电车难题",
+      "onboard_time": 1681909948,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147993,
       "num": 147993,
       "word": "欧阳娜娜迪士尼游玩随拍",
@@ -1921,6 +1969,14 @@
       "onboard_time": 1681864953,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145871,
+      "num": 107321,
+      "word": "玥烬情苏宿命感",
+      "onboard_time": 1681913189,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 144907,
@@ -1993,14 +2049,6 @@
       "onboard_time": 1681876651,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 134489,
-      "num": 134489,
-      "word": "叶夕雾的电车难题",
-      "onboard_time": 1681909948,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 134450,
@@ -2107,6 +2155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122406,
+      "num": 122406,
+      "word": "WB锁定季后赛胜者组",
+      "onboard_time": 1681912168,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122362,
       "num": 122362,
       "word": "郭艾伦辽宁队史季后赛得分王",
@@ -2153,6 +2209,14 @@
       "onboard_time": 1681824030,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119384,
+      "num": 119384,
+      "word": "我国两部试飞员电影都由胡军主演",
+      "onboard_time": 1681913551,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 119373,
@@ -2259,14 +2323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98002,
-      "num": 98002,
-      "word": "阿娇豪门千金黑裙造型",
-      "onboard_time": 1681910847,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 97335,
       "num": 97335,
       "word": "没有边界感的同事有多烦人",
@@ -2353,6 +2409,14 @@
       "onboard_time": 1681816169,
       "rank": 47,
       "category": "科技"
+    },
+    {
+      "raw_hot": 80921,
+      "num": 101054,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1681911807,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 79553,

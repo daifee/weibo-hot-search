@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681911201135,
+  "endTime": 1681913785725,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2011,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1720363,
+      "num": 399292,
+      "word": "山东科技大学",
+      "onboard_time": 1681908749,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1712238,
       "num": 446349,
       "word": "李佳航泡温泉弄伤一根肋骨",
@@ -2577,14 +2585,6 @@
       "onboard_time": 1680752970,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1497739,
-      "num": 399292,
-      "word": "山东科技大学",
-      "onboard_time": 1681908749,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1497101,
@@ -4611,6 +4611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 951425,
+      "num": 951425,
+      "word": "千万不要有舔奶盖的习惯",
+      "onboard_time": 1681911989,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 951121,
       "num": 951121,
       "word": "李楠禁赛3年",
@@ -4779,6 +4787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 925721,
+      "num": 483190,
+      "word": "张一山祝福窦骁何超莲",
+      "onboard_time": 1681903286,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 925437,
       "num": 925437,
       "word": "刘少林破全国纪录",
@@ -4945,14 +4961,6 @@
       "onboard_time": 1680848548,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 908370,
-      "num": 483190,
-      "word": "张一山祝福窦骁何超莲",
-      "onboard_time": 1681903286,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 907161,
@@ -6169,6 +6177,14 @@
       "onboard_time": 1680782971,
       "rank": 8,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 782372,
+      "num": 371513,
+      "word": "河南男子杀害3名亲属后自首",
+      "onboard_time": 1681911089,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 782317,
@@ -8515,6 +8531,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 622212,
+      "num": 622212,
+      "word": "澹台烬主动吻叶夕雾",
+      "onboard_time": 1681910728,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 621994,
       "num": 621994,
       "word": "爱情而已大结局",
@@ -8680,6 +8704,14 @@
       "word": "Jennie一人分饰两角",
       "onboard_time": 1680431486,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 612138,
+      "num": 361719,
+      "word": "三年前的刘宇宁",
+      "onboard_time": 1681910728,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -12921,6 +12953,14 @@
       "onboard_time": 1680480750,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437762,
+      "num": 292123,
+      "word": "阿娇豪门千金黑裙造型",
+      "onboard_time": 1681910847,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 437380,
@@ -22027,6 +22067,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 249575,
+      "num": 249575,
+      "word": "公孙离新皮肤首曝",
+      "onboard_time": 1681909587,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249331,
       "num": 249331,
       "word": "景区回应骆驼被轮番棒打屈膝求饶",
@@ -22769,6 +22817,14 @@
       "onboard_time": 1680786153,
       "rank": 47,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 239362,
+      "num": 239362,
+      "word": "陈飞宇周也主演电影声明",
+      "onboard_time": 1681913490,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 238983,
@@ -25035,14 +25091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216650,
-      "num": 182617,
-      "word": "澹台烬主动吻叶夕雾",
-      "onboard_time": 1681910728,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216599,
       "num": 216599,
       "word": "黄子韬被气到说青岛话",
@@ -26617,14 +26665,6 @@
       "onboard_time": 1681808787,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206268,
-      "num": 206268,
-      "word": "三年前的刘宇宁",
-      "onboard_time": 1681910728,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 206239,
@@ -31763,14 +31803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 188115,
-      "num": 188115,
-      "word": "公孙离新皮肤首曝",
-      "onboard_time": 1681909587,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188060,
       "num": 188009,
       "word": "澹台烬靠叶夕雾的肩膀",
@@ -33763,6 +33795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176229,
+      "num": 176229,
+      "word": "吉克隽逸锁骨擦闪粉",
+      "onboard_time": 1681908567,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176130,
       "num": 176130,
       "word": "IVE先行曲一位",
@@ -35387,6 +35427,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 164542,
+      "num": 164542,
+      "word": "龚俊为了角色可以立马增肥",
+      "onboard_time": 1681911567,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164424,
       "num": 164424,
       "word": "五月天高雄vlog",
@@ -35793,14 +35841,6 @@
       "onboard_time": 1681082540,
       "rank": 26,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 161862,
-      "num": 161862,
-      "word": "吉克隽逸锁骨擦闪粉",
-      "onboard_time": 1681908567,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 161751,
@@ -37643,6 +37683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149414,
+      "num": 149414,
+      "word": "叶夕雾的电车难题",
+      "onboard_time": 1681909948,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149390,
       "num": 149390,
       "word": "贾乃亮呼吁关注孤独症群体",
@@ -38161,6 +38209,14 @@
       "onboard_time": 1680277885,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145871,
+      "num": 107321,
+      "word": "玥烬情苏宿命感",
+      "onboard_time": 1681913189,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 145842,
@@ -39627,14 +39683,6 @@
       "category": "艺人,音乐"
     },
     {
-      "raw_hot": 134489,
-      "num": 134489,
-      "word": "叶夕雾的电车难题",
-      "onboard_time": 1681909948,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 134450,
       "num": 930346,
       "word": "硬核老爸用8年为孤独症儿子造火车",
@@ -41051,6 +41099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122406,
+      "num": 122406,
+      "word": "WB锁定季后赛胜者组",
+      "onboard_time": 1681912168,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122394,
       "num": 122394,
       "word": "原来中国古代也有十二星座",
@@ -41409,6 +41465,14 @@
       "onboard_time": 1680357629,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 119384,
+      "num": 119384,
+      "word": "我国两部试飞员电影都由胡军主演",
+      "onboard_time": 1681913551,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 119374,
@@ -43185,14 +43249,6 @@
       "onboard_time": 1681296087,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 98002,
-      "num": 98002,
-      "word": "阿娇豪门千金黑裙造型",
-      "onboard_time": 1681910847,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 97982,
