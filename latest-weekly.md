@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/17 00:21:15 ~ 2023/04/20 05:33:26
+本榜单时间：2023/04/17 00:21:15 ~ 2023/04/20 06:16:20
 </p>
 </blockquote>
 <p>
@@ -3753,6 +3753,12 @@ kpop念经曲（热度：183820）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B1%B1%E7%A7%91%E5%A4%A7%E4%BC%A4%E4%BA%BA%E6%A1%88%23" target="weibo">
+警方通报山科大伤人案（热度：183219）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%8F%8C%E6%89%8B%E6%8F%92%E5%85%9C%E6%B5%B7%E6%8A%A5%23" target="weibo">
 贺峻霖双手插兜海报（热度：183215）
 </a>
@@ -4499,12 +4505,6 @@ NCT道在廷行程取消（热度：144266）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E6%B6%88%E8%B4%B9%E5%88%B8%23" target="weibo">
 湖北消费券（热度：142668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B1%B1%E7%A7%91%E5%A4%A7%E4%BC%A4%E4%BA%BA%E6%A1%88%23" target="weibo">
-警方通报山科大伤人案（热度：142283）
 </a>
 </li>
 
@@ -5391,6 +5391,12 @@ WB包揽第十周最佳阵容（热度：96692）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E6%88%96%E5%B0%86%E8%B5%94%E4%BB%981500%E4%B8%87%E6%B3%B0%E9%93%A2%23" target="weibo">
+泰国保险公司或将赔付1500万泰铢（热度：73982）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E6%96%87%E8%8E%B7%E9%87%91%E5%83%8F%E5%A5%96%E5%BD%B1%E5%90%8E%E5%8F%A4%E5%A4%A9%E4%B9%90%E8%A1%A8%E6%83%85%23" target="weibo">
 郑秀文获金像奖影后古天乐表情（热度：73505）
 </a>
@@ -5537,12 +5543,6 @@ EXO新歌live舞台（热度：71614）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%B1%B1%E4%B8%9C%E6%84%9F%E5%8F%97%E9%BB%84%E6%B2%B3%E6%96%87%E6%98%8E%E7%9A%84%E8%84%89%E5%8A%A8%23" target="weibo">
 在山东感受黄河文明的脉动（热度：39967）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E6%88%96%E5%B0%86%E8%B5%94%E4%BB%981500%E4%B8%87%E6%B3%B0%E9%93%A2%23" target="weibo">
-泰国保险公司或将赔付1500万泰铢（热度：39269）
 </a>
 </li>
 
