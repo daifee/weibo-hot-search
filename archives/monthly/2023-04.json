@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681928513476,
+  "endTime": 1681929225719,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -38923,6 +38923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142283,
+      "num": 103943,
+      "word": "警方通报山科大伤人案",
+      "onboard_time": 1681925599,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142281,
       "num": 142281,
       "word": "蔡徐坤 CRYSTAL CLEAR",
@@ -40129,14 +40137,6 @@
       "onboard_time": 1680310886,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132708,
-      "num": 103943,
-      "word": "警方通报山科大伤人案",
-      "onboard_time": 1681925599,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132706,
@@ -43499,6 +43499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98136,
+      "num": 98136,
+      "word": "她还享受着金色的生命",
+      "onboard_time": 1681925897,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98041,
       "num": 129459,
       "word": "减肥食谱一日三餐",
@@ -43945,14 +43953,6 @@
       "onboard_time": 1681777527,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91514,
-      "num": 91514,
-      "word": "她还享受着金色的生命",
-      "onboard_time": 1681925897,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 91489,
@@ -45419,6 +45419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42659,
+      "num": 42659,
+      "word": "杨洋起诉百草味侵权案将开庭",
+      "onboard_time": 1681926376,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 42566,
       "num": 787688,
       "word": "长征七号遥七运载火箭运抵发射场",
@@ -45433,14 +45441,6 @@
       "onboard_time": 1680627741,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 42230,
-      "num": 42230,
-      "word": "杨洋起诉百草味侵权案将开庭",
-      "onboard_time": 1681926376,
-      "rank": 33,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 42194,
