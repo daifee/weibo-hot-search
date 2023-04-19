@@ -1,0 +1,410 @@
+{
+  "runTime": 1681932812351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 485454,
+        "num": 485454,
+        "word": "文彬",
+        "onboard_time": 1681921705,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224719,
+        "num": 224719,
+        "word": "文秀雅",
+        "onboard_time": 1681922485,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8357,
+        "num": 163731,
+        "word": "人民海军74周岁",
+        "onboard_time": 1681901727,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 142743,
+        "num": 142743,
+        "word": "我给灌篮高手补张票",
+        "onboard_time": 1681917389,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108423,
+        "num": 108423,
+        "word": "千万不要有舔奶盖的习惯",
+        "onboard_time": 1681911989,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82036,
+        "num": 82036,
+        "word": "警方通报山科大伤人案",
+        "onboard_time": 1681925599,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68060,
+        "num": 68060,
+        "word": "180以下的男演员能不能拍偶像剧",
+        "onboard_time": 1681915050,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64840,
+        "num": 64840,
+        "word": "孙悟空",
+        "onboard_time": 1681919548,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53691,
+        "num": 53691,
+        "word": "被小学同学抄袭了人生",
+        "onboard_time": 1681902927,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41103,
+        "num": 50493,
+        "word": "河南男子杀害3名亲属后自首",
+        "onboard_time": 1681911089,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59685,
+        "num": 50087,
+        "word": "海清发声支持蒋梦婕",
+        "onboard_time": 1681915952,
+        "rank": 10,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 49370,
+        "num": 49370,
+        "word": "患癌晚期可以给孩子留下什么",
+        "onboard_time": 1681921824,
+        "rank": 11,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 47388,
+        "num": 47388,
+        "word": "她还享受着金色的生命",
+        "onboard_time": 1681925897,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46061,
+        "num": 46061,
+        "word": "终于等到灌篮高手全国大赛",
+        "onboard_time": 1681919906,
+        "rank": 13,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 42999,
+        "num": 42999,
+        "word": "杭州公布色狼完整姓名合适吗",
+        "onboard_time": 1681897225,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40663,
+        "num": 40663,
+        "word": "肉体上最疼的一次经历是什么",
+        "onboard_time": 1681896987,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36810,
+        "num": 36810,
+        "word": "还好邪骨不在叶冰裳身上",
+        "onboard_time": 1681914993,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34259,
+        "num": 34259,
+        "word": "十几年前妈妈的QQ空间",
+        "onboard_time": 1681916732,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 32436,
+        "num": 32436,
+        "word": "西班牙真人秀男嘉宾性侵女嘉宾",
+        "onboard_time": 1681898907,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31712,
+        "num": 31712,
+        "word": "8岁摄影师给易烊千玺拍照",
+        "onboard_time": 1681914812,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38336,
+        "num": 31481,
+        "word": "泰国保险公司或将赔付1500万泰铢",
+        "onboard_time": 1681928714,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 35013,
+        "num": 31460,
+        "word": "女子晒衣服不慎10楼跌落悬挂2楼",
+        "onboard_time": 1681922363,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31080,
+        "num": 31080,
+        "word": "长峰医院是如何搭建三甲医院朋友圈的",
+        "onboard_time": 1681920386,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29939,
+        "num": 29939,
+        "word": "张一山祝福窦骁何超莲",
+        "onboard_time": 1681903286,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28940,
+        "num": 28940,
+        "word": "astro",
+        "onboard_time": 1681921764,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28669,
+        "num": 28669,
+        "word": "香蜜扑哧君为罗云熙发声",
+        "onboard_time": 1681904727,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28431,
+        "num": 28431,
+        "word": "杨洋起诉百草味侵权案将开庭",
+        "onboard_time": 1681926376,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 27771,
+        "num": 27771,
+        "word": "三年前的刘宇宁",
+        "onboard_time": 1681910728,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26579,
+        "num": 26579,
+        "word": "穿洞洞鞋千万要小心",
+        "onboard_time": 1681902266,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19248,
+        "num": 26095,
+        "word": "教育部公布21种本科新增专业",
+        "onboard_time": 1681900886,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 25862,
+        "num": 25862,
+        "word": "叶夕雾跳城楼倒计时",
+        "onboard_time": 1681917568,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 25546,
+        "num": 25546,
+        "word": "一直不谈恋爱能等到更好的人吗",
+        "onboard_time": 1681916670,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24843,
+        "num": 24843,
+        "word": "原来上课偷吃东西那么明显",
+        "onboard_time": 1681916431,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22494,
+        "num": 22494,
+        "word": "男人真的喜欢女人吗",
+        "onboard_time": 1681887267,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21915,
+        "num": 21915,
+        "word": "梦想演唱会",
+        "onboard_time": 1681922546,
+        "rank": 34,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 21812,
+        "num": 21812,
+        "word": "阿娇豪门千金黑裙造型",
+        "onboard_time": 1681910847,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21637,
+        "num": 21637,
+        "word": "张大大迎宾气球",
+        "onboard_time": 1681915469,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20922,
+        "num": 20922,
+        "word": "北京长峰医院火灾事故已致29人死亡",
+        "onboard_time": 1681879592,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19504,
+        "num": 19504,
+        "word": "SEVENTEEN十辑新专试听",
+        "onboard_time": 1681918467,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19384,
+        "num": 19384,
+        "word": "公孙离新皮肤首曝",
+        "onboard_time": 1681909587,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18434,
+        "num": 18434,
+        "word": "卡地亚",
+        "onboard_time": 1681904847,
+        "rank": 40,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 18372,
+        "num": 18372,
+        "word": "BoysPlanet投票",
+        "onboard_time": 1681919906,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17853,
+        "num": 17853,
+        "word": "一张图明白钱的概念",
+        "onboard_time": 1681920986,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17608,
+        "num": 17608,
+        "word": "乐华全员为旗下选手打call",
+        "onboard_time": 1681916130,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17413,
+        "num": 17413,
+        "word": "江疏影回应在桃花坞摔屁股蹲",
+        "onboard_time": 1681904248,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17323,
+        "num": 17323,
+        "word": "宋雨琦回应没礼貌不懂分寸",
+        "onboard_time": 1681898966,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17037,
+        "num": 17037,
+        "word": "鹿晗被吓跑了",
+        "onboard_time": 1681899147,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17014,
+        "num": 17014,
+        "word": "李现白敬亭同框",
+        "onboard_time": 1681915649,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16608,
+        "num": 16608,
+        "word": "澹台烬主动吻叶夕雾",
+        "onboard_time": 1681910728,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 9490,
+        "num": 16606,
+        "word": "柯洁大司马连麦直播",
+        "onboard_time": 1681914993,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#距成都大运会开幕还有100天#"
+    }
+  }
+}
