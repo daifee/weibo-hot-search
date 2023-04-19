@@ -1,0 +1,410 @@
+{
+  "runTime": 1681885356881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5224491,
+        "num": 5224491,
+        "word": "蒋梦婕被恶意拍裙底勒索",
+        "onboard_time": 1681882888,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1815091,
+        "num": 1815091,
+        "word": "月薪1万的同事一年存了11万",
+        "onboard_time": 1681876168,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19761,
+        "num": 1385639,
+        "word": "数说消博会",
+        "onboard_time": 1681878811,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359057,
+        "num": 1359057,
+        "word": "泰国大熊猫林惠去世",
+        "onboard_time": 1681880612,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790701,
+        "num": 790701,
+        "word": "高铁无座也是可以坐的",
+        "onboard_time": 1681880733,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1267657,
+        "num": 755716,
+        "word": "北京长峰医院火灾事故已致29人死亡",
+        "onboard_time": 1681879592,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677902,
+        "num": 677902,
+        "word": "白鹿方严正声明",
+        "onboard_time": 1681882348,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529847,
+        "num": 529847,
+        "word": "赵丽颖毛晓彤陈都灵簪花女造型",
+        "onboard_time": 1681884627,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 630689,
+        "num": 527905,
+        "word": "北京丰台区副区长道歉",
+        "onboard_time": 1681883246,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522729,
+        "num": 522729,
+        "word": "易烊千玺双开门冰箱",
+        "onboard_time": 1681872686,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 936533,
+        "num": 516231,
+        "word": "何超欣不知道何超莲窦骁结婚",
+        "onboard_time": 1681874306,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675958,
+        "num": 498075,
+        "word": "抑郁症女孩凌晨从8楼跳下",
+        "onboard_time": 1681872145,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468910,
+        "num": 468910,
+        "word": "Jennie改歌词",
+        "onboard_time": 1681881209,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 455704,
+        "num": 455704,
+        "word": "赌王三太的珍珠戒指",
+        "onboard_time": 1681867888,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56106,
+        "num": 392735,
+        "word": "李健开车梦回狂飙",
+        "onboard_time": 1681884028,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389166,
+        "num": 389166,
+        "word": "特斯拉降价",
+        "onboard_time": 1681879713,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 361389,
+        "num": 361389,
+        "word": "长峰医院院长等12人被刑拘",
+        "onboard_time": 1681880012,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303566,
+        "num": 303566,
+        "word": "内娱唱功天花板",
+        "onboard_time": 1681880909,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283525,
+        "num": 283525,
+        "word": "群演爆料王鹤棣片场骂人",
+        "onboard_time": 1681860805,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267489,
+        "num": 267489,
+        "word": "陈伟霆说的那个艺人是谁",
+        "onboard_time": 1681884689,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446692,
+        "num": 265021,
+        "word": "演员不认识生僻字算娱乐圈文盲吗",
+        "onboard_time": 1681883487,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397380,
+        "num": 263176,
+        "word": "五条悟",
+        "onboard_time": 1681882048,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 258947,
+        "num": 258947,
+        "word": "高中生扔书包怒砸歹徒救下6岁女童",
+        "onboard_time": 1681878453,
+        "rank": 22,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 258024,
+        "num": 258024,
+        "word": "导师招学生继承自己的衣钵",
+        "onboard_time": 1681875447,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258200,
+        "num": 257443,
+        "word": "Lisa太阳新歌shoong预告照",
+        "onboard_time": 1681879649,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256661,
+        "num": 256661,
+        "word": "清华爸爸被5岁女儿问懵了",
+        "onboard_time": 1681867947,
+        "rank": 25,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 241886,
+        "num": 241886,
+        "word": "大厂为了防厕所摸鱼有多拼",
+        "onboard_time": 1681875567,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226841,
+        "num": 226841,
+        "word": "五条悟回归",
+        "onboard_time": 1681884090,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 220952,
+        "num": 220952,
+        "word": "姜贞羽霓裳羽衣舞",
+        "onboard_time": 1681884867,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217970,
+        "num": 217970,
+        "word": "李荣浩说井柏然对他不错",
+        "onboard_time": 1681884208,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216599,
+        "num": 216599,
+        "word": "黄子韬被气到说青岛话",
+        "onboard_time": 1681881750,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203171,
+        "num": 203171,
+        "word": "印度夫妻疑为祭祀制作断头台双双斩首",
+        "onboard_time": 1681877068,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195943,
+        "num": 195943,
+        "word": "女子因心情不好扔掉7万元",
+        "onboard_time": 1681873466,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187864,
+        "num": 187864,
+        "word": "老人绑架4岁孙女勒索女儿50万",
+        "onboard_time": 1681873587,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187350,
+        "num": 187350,
+        "word": "蔡徐坤今日直播造型",
+        "onboard_time": 1681884988,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174949,
+        "num": 174949,
+        "word": "北京长峰医院火灾事故情况通报会",
+        "onboard_time": 1681877791,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173294,
+        "num": 173294,
+        "word": "林惠",
+        "onboard_time": 1681879230,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172459,
+        "num": 172459,
+        "word": "张子枫说要让全世界听到我们的声音",
+        "onboard_time": 1681873407,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172184,
+        "num": 172184,
+        "word": "格林禁赛",
+        "onboard_time": 1681878090,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168657,
+        "num": 168657,
+        "word": "总领馆回应旅泰熊猫林惠鼻子出血",
+        "onboard_time": 1681879470,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163622,
+        "num": 163622,
+        "word": "办公室里只有我没有年终奖",
+        "onboard_time": 1681874667,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147725,
+        "num": 147725,
+        "word": "肖战最新怼脸状态",
+        "onboard_time": 1681873407,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139204,
+        "num": 139204,
+        "word": "刘亦菲纯白西装",
+        "onboard_time": 1681879171,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127785,
+        "num": 127785,
+        "word": "处女座需要的是互相崇拜",
+        "onboard_time": 1681884329,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123644,
+        "num": 123644,
+        "word": "金小妹回应整容",
+        "onboard_time": 1681876769,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117440,
+        "num": 117440,
+        "word": "张颂文素人时期的言论",
+        "onboard_time": 1681868308,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117226,
+        "num": 117226,
+        "word": "长峰医院火灾现场仍有烧焦味道",
+        "onboard_time": 1681866330,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116483,
+        "num": 116483,
+        "word": "苹果手机失去市场份额第一",
+        "onboard_time": 1681885348,
+        "rank": 47,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 109783,
+        "num": 109783,
+        "word": "王宝强把张艺兴童年照认成徐峥",
+        "onboard_time": 1681875626,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100631,
+        "num": 100631,
+        "word": "刘涛拉美卷造型",
+        "onboard_time": 1681882168,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#距成都大运会开幕还有100天#"
+    }
+  }
+}
