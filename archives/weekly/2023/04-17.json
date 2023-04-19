@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681875220550,
+  "endTime": 1681878080409,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -81,6 +81,14 @@
       "onboard_time": 1681737749,
       "rank": 0,
       "category": "科技"
+    },
+    {
+      "raw_hot": 2799061,
+      "num": 1803432,
+      "word": "抑郁症女孩凌晨从8楼跳下",
+      "onboard_time": 1681872145,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2588805,
@@ -219,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1847560,
+      "num": 1847560,
+      "word": "刘亦菲不参加综艺的原因",
+      "onboard_time": 1681875390,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1836646,
       "num": 1836646,
       "word": "SpaceX星舰发射计划推迟",
@@ -240,14 +256,6 @@
       "word": "男婴静脉被注射配方奶家长被瞒5天",
       "onboard_time": 1681812809,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1803432,
-      "num": 1803432,
-      "word": "抑郁症女孩凌晨从8楼跳下",
-      "onboard_time": 1681872145,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -555,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1054019,
+      "num": 489729,
+      "word": "何超欣不知道何超莲窦骁结婚",
+      "onboard_time": 1681874306,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1049291,
       "num": 1049291,
       "word": "陈飞宇周也主演电影被诉侵权",
@@ -587,20 +603,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1011761,
-      "num": 308285,
-      "word": "何超欣不知道何超莲窦骁结婚",
-      "onboard_time": 1681874306,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1003791,
       "num": 529982,
       "word": "白鹿的字",
       "onboard_time": 1681716148,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1002925,
+      "num": 251371,
+      "word": "月薪1万的同事一年存了11万",
+      "onboard_time": 1681876168,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 997698,
@@ -668,7 +684,7 @@
     },
     {
       "raw_hot": 909978,
-      "num": 324304,
+      "num": 363470,
       "word": "赌王三太的珍珠戒指",
       "onboard_time": 1681867888,
       "rank": 13,
@@ -747,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 847936,
+      "num": 847936,
+      "word": "办公室里只有我没有年终奖",
+      "onboard_time": 1681874667,
+      "rank": 25,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 835795,
       "num": 835795,
       "word": "怨气可以养活邪剑仙了",
@@ -811,6 +835,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 775963,
+      "num": 775963,
+      "word": "张子枫说要让全世界听到我们的声音",
+      "onboard_time": 1681873407,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 728527,
       "num": 728527,
       "word": "国内检出多例XBB.1.16",
@@ -867,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 701090,
+      "num": 432439,
+      "word": "导师招学生继承自己的衣钵",
+      "onboard_time": 1681875447,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 698944,
       "num": 317987,
       "word": "张颂文素人时期的言论",
@@ -897,14 +937,6 @@
       "onboard_time": 1681791870,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 682668,
-      "num": 682668,
-      "word": "张子枫说要让全世界听到我们的声音",
-      "onboard_time": 1681873407,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 679159,
@@ -1283,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 511690,
+      "num": 511690,
+      "word": "北京长峰医院火灾事故情况通报会",
+      "onboard_time": 1681877791,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509630,
       "num": 328593,
       "word": "周扬青刮痧",
@@ -1308,7 +1348,7 @@
     },
     {
       "raw_hot": 500594,
-      "num": 219507,
+      "num": 242922,
       "word": "女子因心情不好扔掉7万元",
       "onboard_time": 1681873466,
       "rank": 20,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1681803690,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489130,
+      "num": 248085,
+      "word": "大厂为了防厕所摸鱼有多拼",
+      "onboard_time": 1681875567,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 488223,
@@ -1700,7 +1748,7 @@
     },
     {
       "raw_hot": 396810,
-      "num": 221216,
+      "num": 230154,
       "word": "男子辱骂捉弄女骑手惹怒派出所所长",
       "onboard_time": 1681870224,
       "rank": 21,
@@ -1812,7 +1860,7 @@
     },
     {
       "raw_hot": 377672,
-      "num": 218655,
+      "num": 245657,
       "word": "老人绑架4岁孙女勒索女儿50万",
       "onboard_time": 1681873587,
       "rank": 33,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1681805247,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373496,
+      "num": 373496,
+      "word": "王宝强把张艺兴童年照认成徐峥",
+      "onboard_time": 1681875626,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 372931,
@@ -2147,8 +2203,16 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 325289,
+      "num": 325289,
+      "word": "陈都灵花仙子造型",
+      "onboard_time": 1681876708,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 324980,
-      "num": 215331,
+      "num": 235325,
       "word": "淄博烧烤吃了又好像没吃",
       "onboard_time": 1681873646,
       "rank": 24,
@@ -2296,6 +2360,14 @@
       "word": "为什么肝癌通常一发现就是晚期",
       "onboard_time": 1681651826,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302833,
+      "num": 216100,
+      "word": "印度夫妻疑为祭祀制作断头台双双斩首",
+      "onboard_time": 1681877068,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2539,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276404,
+      "num": 237885,
+      "word": "金小妹回应整容",
+      "onboard_time": 1681876769,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276168,
       "num": 276168,
       "word": "这周日上班",
@@ -2612,7 +2692,7 @@
     },
     {
       "raw_hot": 267527,
-      "num": 213090,
+      "num": 230954,
       "word": "肖战最新怼脸状态",
       "onboard_time": 1681873407,
       "rank": 27,
@@ -3073,14 +3153,6 @@
       "onboard_time": 1681663819,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 211334,
-      "num": 211334,
-      "word": "办公室里只有我没有年终奖",
-      "onboard_time": 1681874667,
-      "rank": 25,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 210645,
@@ -3723,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186986,
+      "num": 186986,
+      "word": "林俊杰新歌孤独娱乐",
+      "onboard_time": 1681877369,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186974,
       "num": 186974,
       "word": "龙城",
@@ -3745,6 +3825,14 @@
       "onboard_time": 1681791574,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186614,
+      "num": 186614,
+      "word": "刘耀文理想之途概念海报",
+      "onboard_time": 1681876949,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 186499,
@@ -3800,6 +3888,22 @@
       "word": "kpop念经曲",
       "onboard_time": 1681779211,
       "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 183215,
+      "num": 169273,
+      "word": "贺峻霖双手插兜海报",
+      "onboard_time": 1681877910,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 182397,
+      "num": 182397,
+      "word": "杨千嬅演唱会",
+      "onboard_time": 1681875567,
+      "rank": 35,
       "category": "音乐"
     },
     {
@@ -4027,6 +4131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168999,
+      "num": 168999,
+      "word": "熊猫击剑当然是用竹子啦",
+      "onboard_time": 1681875807,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168850,
       "num": 167261,
       "word": "白宇连续四部剧BE",
@@ -4179,6 +4291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161143,
+      "num": 161143,
+      "word": "丁程鑫演唱会单人概念海报",
+      "onboard_time": 1681877910,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160900,
       "num": 160900,
       "word": "长空之王致敬版海报",
@@ -4297,6 +4417,14 @@
       "onboard_time": 1681805370,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156404,
+      "num": 156404,
+      "word": "贾静雯组王佳宇repo",
+      "onboard_time": 1681876651,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 154863,
@@ -4467,12 +4595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148644,
+      "num": 148644,
+      "word": "何以智胜开播",
+      "onboard_time": 1681877971,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147940,
       "num": 147940,
       "word": "小鹏G6",
       "onboard_time": 1681785445,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 147571,
+      "num": 147571,
+      "word": "目击者称有人用床单窗帘逃生",
+      "onboard_time": 1681874968,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147480,
@@ -4635,6 +4779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138341,
+      "num": 138341,
+      "word": "李斯丹妮宋妍霏贴面双人舞",
+      "onboard_time": 1681876651,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138270,
       "num": 138270,
       "word": "周深武大靖ASMR挑战",
@@ -4713,6 +4865,14 @@
       "onboard_time": 1681689986,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131077,
+      "num": 136162,
+      "word": "这才是真的有效防晒吧",
+      "onboard_time": 1681876589,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 129726,
@@ -4865,14 +5025,6 @@
       "onboard_time": 1681800447,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122236,
-      "num": 122236,
-      "word": "目击者称有人用床单窗帘逃生",
-      "onboard_time": 1681874968,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121602,
