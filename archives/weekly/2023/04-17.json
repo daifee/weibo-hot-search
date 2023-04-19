@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681860837915,
+  "endTime": 1681867418833,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2493866,
+      "num": 1070044,
+      "word": "群演爆料王鹤棣片场骂人",
+      "onboard_time": 1681860805,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2416808,
       "num": 2416808,
       "word": "李春江禁赛5年",
@@ -121,6 +129,14 @@
       "onboard_time": 1681704026,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2240403,
+      "num": 278863,
+      "word": "长峰医院火灾现场仍有烧焦味道",
+      "onboard_time": 1681866330,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2202852,
@@ -243,12 +259,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1678087,
+      "num": 1678087,
+      "word": "内马尔女友怀孕",
+      "onboard_time": 1681865730,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1664469,
-      "num": 306597,
+      "num": 428654,
       "word": "何超莲称婚礼是窦骁一手包办",
       "onboard_time": 1681832549,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1658005,
+      "num": 1658005,
+      "word": "郑渊洁告别书",
+      "onboard_time": 1681860141,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1649607,
@@ -579,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921466,
+      "num": 921466,
+      "word": "演员宗利群去世",
+      "onboard_time": 1681860443,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 907161,
       "num": 907161,
       "word": "黑莲花 绝世大饼",
@@ -883,6 +923,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 638664,
+      "num": 638664,
+      "word": "专家建议休假政策做一下民意调查",
+      "onboard_time": 1681863810,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636297,
       "num": 636297,
       "word": "上海队苏州队季后赛消极比赛属实",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1681694304,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 572554,
+      "num": 572554,
+      "word": "三个女生组建小家庭会怎样",
+      "onboard_time": 1681862487,
+      "rank": 6,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 569496,
@@ -1155,14 +1211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 513296,
-      "num": 513296,
-      "word": "郑渊洁告别书",
-      "onboard_time": 1681860141,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509630,
       "num": 328593,
       "word": "周扬青刮痧",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1681803690,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488223,
+      "num": 488223,
+      "word": "白鹿成优秀毕业生",
+      "onboard_time": 1681860744,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 484273,
@@ -1372,7 +1428,7 @@
     },
     {
       "raw_hot": 447586,
-      "num": 201770,
+      "num": 419975,
       "word": "广东男子驾驶宝马撞死5人被判死刑",
       "onboard_time": 1681831531,
       "rank": 30,
@@ -1651,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378160,
+      "num": 277281,
+      "word": "没有工作后房东比我还着急",
+      "onboard_time": 1681862789,
+      "rank": 21,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 376698,
       "num": 376698,
       "word": "今年一季度GDP同比增长4.5%",
@@ -1713,6 +1777,14 @@
       "onboard_time": 1681783407,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 366425,
+      "num": 366425,
+      "word": "陈飞宇我在苏州学非遗汇报演讲",
+      "onboard_time": 1681862369,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 364422,
@@ -1899,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 329316,
+      "num": 329316,
+      "word": "陈都灵耳朵红了",
+      "onboard_time": 1681861046,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328915,
       "num": 302033,
       "word": "马嘉祺说如果有人骂魏如萱我就去骂他",
@@ -1953,6 +2033,14 @@
       "onboard_time": 1681820968,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322455,
+      "num": 322455,
+      "word": "摆摊卖烤肠真能月入过万吗",
+      "onboard_time": 1681861405,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 320967,
@@ -2235,6 +2323,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 280153,
+      "num": 280153,
+      "word": "C罗锁喉防守染黄",
+      "onboard_time": 1681864770,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280141,
+      "num": 280141,
+      "word": "五一档电影可以买票了",
+      "onboard_time": 1681863390,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 280033,
       "num": 280033,
       "word": "武汉马拉松最后一名获社死安慰奖",
@@ -2289,6 +2393,14 @@
       "onboard_time": 1681653629,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271495,
+      "num": 271495,
+      "word": "邓超帮女儿扎辫子",
+      "onboard_time": 1681865848,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 271023,
@@ -2372,7 +2484,7 @@
     },
     {
       "raw_hot": 257052,
-      "num": 197799,
+      "num": 236306,
       "word": "入职了家全是关系户的公司",
       "onboard_time": 1681831229,
       "rank": 38,
@@ -2396,19 +2508,11 @@
     },
     {
       "raw_hot": 250757,
-      "num": 191289,
+      "num": 249977,
       "word": "忽然发现了上班的意义",
       "onboard_time": 1681831649,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 249966,
-      "num": 249966,
-      "word": "群演爆料王鹤棣片场骂人",
-      "onboard_time": 1681860805,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 249734,
@@ -2803,14 +2907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208694,
-      "num": 208694,
-      "word": "演员宗利群去世",
-      "onboard_time": 1681860443,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208545,
       "num": 208545,
       "word": "长空之王险版预告",
@@ -2985,6 +3081,14 @@
       "onboard_time": 1681809207,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 201849,
+      "num": 201849,
+      "word": "15年前买房有多难",
+      "onboard_time": 1681861586,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 201609,
@@ -3667,6 +3771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164287,
+      "num": 164287,
+      "word": "檀健次王楚然爱情有烟火官宣",
+      "onboard_time": 1681863270,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163819,
       "num": 163819,
       "word": "茉莉花茶毛肚",
@@ -3731,6 +3843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160788,
+      "num": 160788,
+      "word": "女孩应聘商务专员因身高177cm被拒",
+      "onboard_time": 1681848251,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160535,
       "num": 160535,
       "word": "马斯克的AI项目命名为TruthGPT",
@@ -3755,6 +3875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159789,
+      "num": 159789,
+      "word": "唐诗逸白玉兰二次提名",
+      "onboard_time": 1681861527,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159130,
       "num": 159130,
       "word": "这些癌症都有哪些信号",
@@ -3777,6 +3905,14 @@
       "onboard_time": 1681697125,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158455,
+      "num": 158455,
+      "word": "李一桐田曦薇同框",
+      "onboard_time": 1681862729,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158073,
@@ -3816,6 +3952,14 @@
       "word": "孙颖莎女单连胜榜第4",
       "onboard_time": 1681806509,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154794,
+      "num": 154794,
+      "word": "C罗",
+      "onboard_time": 1681861827,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -3865,6 +4009,14 @@
       "onboard_time": 1681739010,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 151250,
+      "num": 151250,
+      "word": "妈妈喊着靓仔发现是自己仔",
+      "onboard_time": 1681860502,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151115,
@@ -3940,7 +4092,7 @@
     },
     {
       "raw_hot": 148782,
-      "num": 1044894,
+      "num": 1188965,
       "word": "总台独家影像再揭日寇滔天罪行",
       "onboard_time": 1681824392,
       "rank": 2,
@@ -3979,6 +4131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146647,
+      "num": 146647,
+      "word": "柳智敏宁艺卓预告照",
+      "onboard_time": 1681864953,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146150,
       "num": 146150,
       "word": "叶冰裳主动讨好澹台烬",
@@ -4009,14 +4169,6 @@
       "onboard_time": 1681707989,
       "rank": 43,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 145558,
-      "num": 129721,
-      "word": "女孩应聘商务专员因身高177cm被拒",
-      "onboard_time": 1681848251,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145413,
@@ -4235,6 +4387,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 129201,
+      "num": 129201,
+      "word": "电锯人",
+      "onboard_time": 1681866268,
+      "rank": 39,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 128794,
       "num": 128794,
       "word": "李荣浩苏州演唱会",
@@ -4387,6 +4547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119373,
+      "num": 119373,
+      "word": "黄绮珊靳东一起打网球",
+      "onboard_time": 1681863509,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119169,
       "num": 119169,
       "word": "龚俊精彩11周年纪念刊",
@@ -4451,6 +4619,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 112623,
+      "num": 112623,
+      "word": "欧冠",
+      "onboard_time": 1681862610,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112190,
       "num": 112190,
       "word": "萨卡失点",
@@ -4465,6 +4641,14 @@
       "onboard_time": 1681651468,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110179,
+      "num": 110179,
+      "word": "福建古田地震预警",
+      "onboard_time": 1681860323,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110135,
@@ -4675,20 +4859,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98266,
-      "num": 98266,
-      "word": "妈妈喊着靓仔发现是自己仔",
-      "onboard_time": 1681860502,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98203,
       "num": 129257,
       "word": "纯电大G有意思",
       "onboard_time": 1681732826,
       "rank": 39,
       "category": "科技"
+    },
+    {
+      "raw_hot": 97170,
+      "num": 97170,
+      "word": "儿子省考面试前父亲默默为其刷皮鞋",
+      "onboard_time": 1681867349,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96952,
@@ -4761,14 +4945,6 @@
       "onboard_time": 1681703909,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94078,
-      "num": 94078,
-      "word": "福建古田地震预警",
-      "onboard_time": 1681860323,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93672,
@@ -4921,14 +5097,6 @@
       "onboard_time": 1681790311,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80610,
-      "num": 80610,
-      "word": "白鹿成优秀毕业生",
-      "onboard_time": 1681860744,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 80504,

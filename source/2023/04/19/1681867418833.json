@@ -1,0 +1,410 @@
+{
+  "runTime": 1681867418833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1678087,
+        "num": 1678087,
+        "word": "内马尔女友怀孕",
+        "onboard_time": 1681865730,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1658005,
+        "num": 1658005,
+        "word": "郑渊洁告别书",
+        "onboard_time": 1681860141,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105399,
+        "num": 1188965,
+        "word": "总台独家影像再揭日寇滔天罪行",
+        "onboard_time": 1681824392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2493866,
+        "num": 1070044,
+        "word": "群演爆料王鹤棣片场骂人",
+        "onboard_time": 1681860805,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921466,
+        "num": 921466,
+        "word": "演员宗利群去世",
+        "onboard_time": 1681860443,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638664,
+        "num": 638664,
+        "word": "专家建议休假政策做一下民意调查",
+        "onboard_time": 1681863810,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572554,
+        "num": 572554,
+        "word": "三个女生组建小家庭会怎样",
+        "onboard_time": 1681862487,
+        "rank": 6,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 566970,
+        "num": 566970,
+        "word": "山东一地要求公务人员回国后核酸",
+        "onboard_time": 1681835185,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488223,
+        "num": 488223,
+        "word": "白鹿成优秀毕业生",
+        "onboard_time": 1681860744,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433995,
+        "num": 433995,
+        "word": "浙BWF896你做的好事藏不住了",
+        "onboard_time": 1681819590,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1115755,
+        "num": 428654,
+        "word": "何超莲称婚礼是窦骁一手包办",
+        "onboard_time": 1681832549,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419975,
+        "num": 419975,
+        "word": "广东男子驾驶宝马撞死5人被判死刑",
+        "onboard_time": 1681831531,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 381971,
+        "num": 381971,
+        "word": "建议下班回家后马上洗漱",
+        "onboard_time": 1681814009,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 369647,
+        "num": 369647,
+        "word": "花花 猪八花",
+        "onboard_time": 1681859059,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366425,
+        "num": 366425,
+        "word": "陈飞宇我在苏州学非遗汇报演讲",
+        "onboard_time": 1681862369,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 329316,
+        "num": 329316,
+        "word": "陈都灵耳朵红了",
+        "onboard_time": 1681861046,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 322455,
+        "num": 322455,
+        "word": "摆摊卖烤肠真能月入过万吗",
+        "onboard_time": 1681861405,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 281722,
+        "num": 281722,
+        "word": "杨幂综艺",
+        "onboard_time": 1681829911,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280153,
+        "num": 280153,
+        "word": "C罗锁喉防守染黄",
+        "onboard_time": 1681864770,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280141,
+        "num": 280141,
+        "word": "五一档电影可以买票了",
+        "onboard_time": 1681863390,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2240403,
+        "num": 278863,
+        "word": "长峰医院火灾现场仍有烧焦味道",
+        "onboard_time": 1681866330,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378160,
+        "num": 277281,
+        "word": "没有工作后房东比我还着急",
+        "onboard_time": 1681862789,
+        "rank": 21,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 271495,
+        "num": 271495,
+        "word": "邓超帮女儿扎辫子",
+        "onboard_time": 1681865848,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 257893,
+        "num": 257893,
+        "word": "超一半的年轻人有搭子",
+        "onboard_time": 1681826191,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249977,
+        "num": 249977,
+        "word": "忽然发现了上班的意义",
+        "onboard_time": 1681831649,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236306,
+        "num": 236306,
+        "word": "入职了家全是关系户的公司",
+        "onboard_time": 1681831229,
+        "rank": 25,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 201849,
+        "num": 201849,
+        "word": "15年前买房有多难",
+        "onboard_time": 1681861586,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180520,
+        "num": 180520,
+        "word": "杭州公开一批色狼行政处罚结果",
+        "onboard_time": 1681826792,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176513,
+        "num": 176513,
+        "word": "宋祖儿 轧戏",
+        "onboard_time": 1681811850,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176343,
+        "num": 176343,
+        "word": "蛇族的美貌是家族遗传吧",
+        "onboard_time": 1681823790,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176090,
+        "num": 176090,
+        "word": "让浴室地面倾斜十五度",
+        "onboard_time": 1681829731,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164287,
+        "num": 164287,
+        "word": "檀健次王楚然爱情有烟火官宣",
+        "onboard_time": 1681863270,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160788,
+        "num": 160788,
+        "word": "女孩应聘商务专员因身高177cm被拒",
+        "onboard_time": 1681848251,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159789,
+        "num": 159789,
+        "word": "唐诗逸白玉兰二次提名",
+        "onboard_time": 1681861527,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158455,
+        "num": 158455,
+        "word": "李一桐田曦薇同框",
+        "onboard_time": 1681862729,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154794,
+        "num": 154794,
+        "word": "C罗",
+        "onboard_time": 1681861827,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152797,
+        "num": 152797,
+        "word": "赵丽颖古装",
+        "onboard_time": 1681832010,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151250,
+        "num": 151250,
+        "word": "妈妈喊着靓仔发现是自己仔",
+        "onboard_time": 1681860502,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146647,
+        "num": 146647,
+        "word": "柳智敏宁艺卓预告照",
+        "onboard_time": 1681864953,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129201,
+        "num": 129201,
+        "word": "电锯人",
+        "onboard_time": 1681866268,
+        "rank": 39,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 128090,
+        "num": 128090,
+        "word": "RNG官宣Angel离队",
+        "onboard_time": 1681825831,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125114,
+        "num": 125114,
+        "word": "杂技演员高空坠亡事故原因公布",
+        "onboard_time": 1681827452,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123452,
+        "num": 123452,
+        "word": "叶冰裳彻底黑化",
+        "onboard_time": 1681832130,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120735,
+        "num": 120735,
+        "word": "刘亦菲有风剧组聚会合照",
+        "onboard_time": 1681830570,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119373,
+        "num": 119373,
+        "word": "黄绮珊靳东一起打网球",
+        "onboard_time": 1681863509,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117575,
+        "num": 117575,
+        "word": "男子瘫痪儿子不愿供养将其活活饿死",
+        "onboard_time": 1681813889,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112623,
+        "num": 112623,
+        "word": "欧冠",
+        "onboard_time": 1681862610,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110179,
+        "num": 110179,
+        "word": "福建古田地震预警",
+        "onboard_time": 1681860323,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97170,
+        "num": 97170,
+        "word": "儿子省考面试前父亲默默为其刷皮鞋",
+        "onboard_time": 1681867349,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86975,
+        "num": 95553,
+        "word": "LOL前职业选手被警方立案",
+        "onboard_time": 1681818387,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#云逛广交会#"
+    }
+  }
+}
