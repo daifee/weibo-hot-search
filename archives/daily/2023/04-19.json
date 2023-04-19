@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681908612553,
+  "endTime": 1681910476101,
   "band_list": [
     {
       "raw_hot": 5224491,
@@ -65,6 +65,14 @@
       "onboard_time": 1681871786,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2242901,
+      "num": 2242901,
+      "word": "肉体上最疼的一次经历是什么",
+      "onboard_time": 1681896987,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 2240403,
@@ -139,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1653802,
-      "num": 1653802,
-      "word": "肉体上最疼的一次经历是什么",
-      "onboard_time": 1681896987,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1523562,
       "num": 519991,
       "word": "何超欣不知道何超莲窦骁结婚",
@@ -161,6 +161,14 @@
       "onboard_time": 1681868308,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1255399,
+      "num": 399292,
+      "word": "山东科技大学",
+      "onboard_time": 1681908749,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1127006,
@@ -235,20 +243,20 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 878692,
+      "num": 483190,
+      "word": "张一山祝福窦骁何超莲",
+      "onboard_time": 1681903286,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869587,
       "num": 869587,
       "word": "山东一地要求公务人员回国后核酸",
       "onboard_time": 1681835185,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 862277,
-      "num": 483190,
-      "word": "张一山祝福窦骁何超莲",
-      "onboard_time": 1681903286,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 850088,
@@ -563,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444320,
+      "num": 407819,
+      "word": "王楚然好飒",
+      "onboard_time": 1681905929,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 438480,
       "num": 438480,
       "word": "特斯拉降价",
@@ -601,14 +617,6 @@
       "onboard_time": 1681826191,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407819,
-      "num": 407819,
-      "word": "王楚然好飒",
-      "onboard_time": 1681905929,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 397380,
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 340039,
-      "num": 340039,
+      "num": 420866,
       "word": "淄博多部门回应方舱将改酒店一事",
       "onboard_time": 1681903225,
       "rank": 39,
@@ -1051,6 +1059,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 263955,
+      "num": 263955,
+      "word": "国家卫健委指导长峰医院火灾伤员救治",
+      "onboard_time": 1681908266,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263394,
       "num": 263394,
       "word": "西班牙真人秀男嘉宾性侵女嘉宾",
@@ -1153,6 +1169,14 @@
       "onboard_time": 1681890807,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 230809,
+      "num": 110027,
+      "word": "喻言说吹吹晚风",
+      "onboard_time": 1681910009,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 227075,
@@ -1353,6 +1377,22 @@
       "onboard_time": 1681871726,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201276,
+      "num": 201276,
+      "word": "王源笑声自带烟花音效",
+      "onboard_time": 1681910189,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196273,
+      "num": 196273,
+      "word": "严浩翔写歌会听大张伟的歌",
+      "onboard_time": 1681909529,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 196100,
@@ -1603,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177641,
+      "num": 177641,
+      "word": "公孙离新皮肤首曝",
+      "onboard_time": 1681909587,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177092,
       "num": 177092,
       "word": "伊藤美诚止步冠军赛16强",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1681893386,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175084,
+      "num": 175084,
+      "word": "长沙一男子为戒酒成功植入戒酒芯片",
+      "onboard_time": 1681907848,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 174788,
@@ -1696,6 +1752,14 @@
       "word": "BLACKPINK柯登合照",
       "onboard_time": 1681889787,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161862,
+      "num": 161862,
+      "word": "吉克隽逸锁骨擦闪粉",
+      "onboard_time": 1681908567,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1859,14 +1923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144539,
-      "num": 144539,
-      "word": "国家卫健委指导长峰医院火灾伤员救治",
-      "onboard_time": 1681908266,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144266,
       "num": 144266,
       "word": "NCT道在廷行程取消",
@@ -2003,6 +2059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126053,
+      "num": 126053,
+      "word": "叶夕雾的电车难题",
+      "onboard_time": 1681909948,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125533,
       "num": 125533,
       "word": "北方大风降温沙尘又来了",
@@ -2115,14 +2179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111597,
-      "num": 111597,
-      "word": "长沙一男子为戒酒成功植入戒酒芯片",
-      "onboard_time": 1681907848,
-      "rank": 42,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 110210,
       "num": 110210,
       "word": "剧好听的歌有好多人啊",
@@ -2161,6 +2217,14 @@
       "onboard_time": 1681834346,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101110,
+      "num": 101110,
+      "word": "3D解读北京长峰医院火灾事故",
+      "onboard_time": 1681909706,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100865,
@@ -2217,14 +2281,6 @@
       "onboard_time": 1681850531,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94442,
-      "num": 94442,
-      "word": "吉克隽逸锁骨擦闪粉",
-      "onboard_time": 1681908567,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 93294,

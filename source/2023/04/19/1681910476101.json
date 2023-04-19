@@ -1,0 +1,410 @@
+{
+  "runTime": 1681910476101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2242901,
+        "num": 2242901,
+        "word": "肉体上最疼的一次经历是什么",
+        "onboard_time": 1681896987,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1774577,
+        "num": 1774577,
+        "word": "被小学同学抄袭了人生",
+        "onboard_time": 1681902927,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52680,
+        "num": 796515,
+        "word": "人民海军74周岁",
+        "onboard_time": 1681901727,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 639439,
+        "num": 639439,
+        "word": "香蜜扑哧君为罗云熙发声",
+        "onboard_time": 1681904727,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 532875,
+        "num": 532875,
+        "word": "宋雨琦回应没礼貌不懂分寸",
+        "onboard_time": 1681898966,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486953,
+        "num": 486953,
+        "word": "蒋梦婕被恶意拍裙底勒索",
+        "onboard_time": 1681882888,
+        "rank": 5,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 466766,
+        "num": 466766,
+        "word": "泗水交通事故致7死10伤",
+        "onboard_time": 1681902147,
+        "rank": 6,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 422646,
+        "num": 422646,
+        "word": "卡地亚",
+        "onboard_time": 1681904847,
+        "rank": 7,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 272056,
+        "num": 420866,
+        "word": "淄博多部门回应方舱将改酒店一事",
+        "onboard_time": 1681903225,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210797,
+        "num": 405719,
+        "word": "长峰医院被中国非公医协摘牌",
+        "onboard_time": 1681902207,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1255399,
+        "num": 399292,
+        "word": "山东科技大学",
+        "onboard_time": 1681908749,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1184561,
+        "num": 383971,
+        "word": "杭州公布色狼完整姓名合适吗",
+        "onboard_time": 1681897225,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878692,
+        "num": 372441,
+        "word": "张一山祝福窦骁何超莲",
+        "onboard_time": 1681903286,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444320,
+        "num": 367472,
+        "word": "王楚然好飒",
+        "onboard_time": 1681905929,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359558,
+        "num": 359558,
+        "word": "男人真的喜欢女人吗",
+        "onboard_time": 1681887267,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 309635,
+        "num": 309635,
+        "word": "穿洞洞鞋千万要小心",
+        "onboard_time": 1681902266,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263955,
+        "num": 263955,
+        "word": "国家卫健委指导长峰医院火灾伤员救治",
+        "onboard_time": 1681908266,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257089,
+        "num": 257089,
+        "word": "公司团建是看五月天演唱会",
+        "onboard_time": 1681903885,
+        "rank": 17,
+        "category": "情感,音乐"
+      },
+      {
+        "raw_hot": 238481,
+        "num": 238481,
+        "word": "江疏影回应在桃花坞摔屁股蹲",
+        "onboard_time": 1681904248,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217118,
+        "num": 217118,
+        "word": "鹿晗被吓跑了",
+        "onboard_time": 1681899147,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243899,
+        "num": 215508,
+        "word": "原来以前的五一是七天假",
+        "onboard_time": 1681896089,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218919,
+        "num": 211932,
+        "word": "内娱00后颜值有多高",
+        "onboard_time": 1681897588,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207546,
+        "num": 207546,
+        "word": "白敬亭镜中敬中镜",
+        "onboard_time": 1681906286,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202528,
+        "num": 202528,
+        "word": "西班牙真人秀男嘉宾性侵女嘉宾",
+        "onboard_time": 1681898907,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201895,
+        "num": 201895,
+        "word": "教育部公布21种本科新增专业",
+        "onboard_time": 1681900886,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 201276,
+        "num": 201276,
+        "word": "王源笑声自带烟花音效",
+        "onboard_time": 1681910189,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196273,
+        "num": 196273,
+        "word": "严浩翔写歌会听大张伟的歌",
+        "onboard_time": 1681909529,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193281,
+        "num": 193281,
+        "word": "大S短发写真",
+        "onboard_time": 1681891826,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191731,
+        "num": 191731,
+        "word": "北京长峰医院火灾事故已致29人死亡",
+        "onboard_time": 1681879592,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191464,
+        "num": 191464,
+        "word": "陈冰追长月烬明吃饭都上头",
+        "onboard_time": 1681895187,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184990,
+        "num": 184990,
+        "word": "月薪1万的同事一年存了11万",
+        "onboard_time": 1681876168,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177641,
+        "num": 177641,
+        "word": "公孙离新皮肤首曝",
+        "onboard_time": 1681909587,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177015,
+        "num": 177015,
+        "word": "11岁女孩玩密室逃脱摔成9级伤残",
+        "onboard_time": 1681894826,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175084,
+        "num": 175084,
+        "word": "长沙一男子为戒酒成功植入戒酒芯片",
+        "onboard_time": 1681907848,
+        "rank": 33,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 161862,
+        "num": 161862,
+        "word": "吉克隽逸锁骨擦闪粉",
+        "onboard_time": 1681908567,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151786,
+        "num": 151786,
+        "word": "伊藤美诚止步冠军赛16强",
+        "onboard_time": 1681906766,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126053,
+        "num": 126053,
+        "word": "叶夕雾的电车难题",
+        "onboard_time": 1681909948,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124910,
+        "num": 124910,
+        "word": "济宁一村庄两货车相撞车头瞬间解体",
+        "onboard_time": 1681894946,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121714,
+        "num": 121714,
+        "word": "于正买翡翠被骗",
+        "onboard_time": 1681889247,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119222,
+        "num": 119222,
+        "word": "虞书欣首尔旅游vlog",
+        "onboard_time": 1681895968,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110429,
+        "num": 110429,
+        "word": "徐艺洋不允许对象邀请前任来婚礼",
+        "onboard_time": 1681892068,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230809,
+        "num": 110027,
+        "word": "喻言说吹吹晚风",
+        "onboard_time": 1681910009,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182368,
+        "num": 109651,
+        "word": "白鹿方严正声明",
+        "onboard_time": 1681882348,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109150,
+        "num": 109150,
+        "word": "流浪地球刘培强竟是北京西城人",
+        "onboard_time": 1681906166,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106682,
+        "num": 106682,
+        "word": "程序员辞职带妈妈锻炼半年瘦20斤",
+        "onboard_time": 1681895129,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 105554,
+        "num": 105554,
+        "word": "李泰容开通微博",
+        "onboard_time": 1681900166,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101110,
+        "num": 101110,
+        "word": "3D解读北京长峰医院火灾事故",
+        "onboard_time": 1681909706,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99885,
+        "num": 99885,
+        "word": "泰国大熊猫林惠去世",
+        "onboard_time": 1681880612,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96061,
+        "num": 99878,
+        "word": "Ming爆料RNG新中单",
+        "onboard_time": 1681895608,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87482,
+        "num": 99874,
+        "word": "苹果手机失去市场份额第一",
+        "onboard_time": 1681885348,
+        "rank": 49,
+        "category": "科技,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#100天后成都见#"
+    }
+  }
+}

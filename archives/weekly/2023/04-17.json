@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681908612553,
+  "endTime": 1681910476101,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -185,6 +185,14 @@
       "onboard_time": 1681704026,
       "rank": 10,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2242901,
+      "num": 2242901,
+      "word": "肉体上最疼的一次经历是什么",
+      "onboard_time": 1681896987,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 2240403,
@@ -379,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1653802,
-      "num": 1653802,
-      "word": "肉体上最疼的一次经历是什么",
-      "onboard_time": 1681896987,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1649607,
       "num": 1649607,
       "word": "蒋胜男 我为什么反对996捍卫888",
@@ -577,6 +577,14 @@
       "onboard_time": 1681787008,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1255399,
+      "num": 399292,
+      "word": "山东科技大学",
+      "onboard_time": 1681908749,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1251415,
@@ -819,6 +827,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 878692,
+      "num": 483190,
+      "word": "张一山祝福窦骁何超莲",
+      "onboard_time": 1681903286,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 875776,
       "num": 875776,
       "word": "别用饭圈那一套对待国宝",
@@ -841,14 +857,6 @@
       "onboard_time": 1681783885,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 862277,
-      "num": 483190,
-      "word": "张一山祝福窦骁何超莲",
-      "onboard_time": 1681903286,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 852862,
@@ -1899,6 +1907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444320,
+      "num": 407819,
+      "word": "王楚然好飒",
+      "onboard_time": 1681905929,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 438480,
       "num": 438480,
       "word": "特斯拉降价",
@@ -2009,14 +2025,6 @@
       "onboard_time": 1681782027,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407819,
-      "num": 407819,
-      "word": "王楚然好飒",
-      "onboard_time": 1681905929,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 407283,
@@ -2588,7 +2596,7 @@
     },
     {
       "raw_hot": 340039,
-      "num": 340039,
+      "num": 420866,
       "word": "淄博多部门回应方舱将改酒店一事",
       "onboard_time": 1681903225,
       "rank": 39,
@@ -3219,6 +3227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263955,
+      "num": 263955,
+      "word": "国家卫健委指导长峰医院火灾伤员救治",
+      "onboard_time": 1681908266,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263394,
       "num": 263394,
       "word": "西班牙真人秀男嘉宾性侵女嘉宾",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1681778549,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230809,
+      "num": 110027,
+      "word": "喻言说吹吹晚风",
+      "onboard_time": 1681910009,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 229480,
@@ -4099,6 +4123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201276,
+      "num": 201276,
+      "word": "王源笑声自带烟花音效",
+      "onboard_time": 1681910189,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201091,
       "num": 201091,
       "word": "PDD歌友会",
@@ -4241,6 +4273,14 @@
       "onboard_time": 1681827754,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196273,
+      "num": 196273,
+      "word": "严浩翔写歌会听大张伟的歌",
+      "onboard_time": 1681909529,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 196260,
@@ -4795,6 +4835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177641,
+      "num": 177641,
+      "word": "公孙离新皮肤首曝",
+      "onboard_time": 1681909587,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177092,
       "num": 177092,
       "word": "伊藤美诚止步冠军赛16强",
@@ -4849,6 +4897,14 @@
       "onboard_time": 1681893386,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175084,
+      "num": 175084,
+      "word": "长沙一男子为戒酒成功植入戒酒芯片",
+      "onboard_time": 1681907848,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 174313,
@@ -5104,6 +5160,14 @@
       "word": "BLACKPINK柯登合照",
       "onboard_time": 1681889787,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161862,
+      "num": 161862,
+      "word": "吉克隽逸锁骨擦闪粉",
+      "onboard_time": 1681908567,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -5579,14 +5643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144539,
-      "num": 144539,
-      "word": "国家卫健委指导长峰医院火灾伤员救治",
-      "onboard_time": 1681908266,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144266,
       "num": 144266,
       "word": "NCT道在廷行程取消",
@@ -5923,6 +5979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126053,
+      "num": 126053,
+      "word": "叶夕雾的电车难题",
+      "onboard_time": 1681909948,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125882,
       "num": 199857,
       "word": "李荣浩西安演唱会",
@@ -6163,14 +6227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111597,
-      "num": 111597,
-      "word": "长沙一男子为戒酒成功植入戒酒芯片",
-      "onboard_time": 1681907848,
-      "rank": 42,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 110750,
       "num": 110750,
       "word": "Jasper当校园导游",
@@ -6387,6 +6443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101110,
+      "num": 101110,
+      "word": "3D解读北京长峰医院火灾事故",
+      "onboard_time": 1681909706,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100925,
       "num": 100925,
       "word": "日全环食20日上演",
@@ -6513,14 +6577,6 @@
       "onboard_time": 1681703909,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94442,
-      "num": 94442,
-      "word": "吉克隽逸锁骨擦闪粉",
-      "onboard_time": 1681908567,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 93672,
