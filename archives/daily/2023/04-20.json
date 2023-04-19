@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681942580209,
+  "endTime": 1681943603828,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258031,
+      "num": 258031,
+      "word": "警方通报山科大伤人案",
+      "onboard_time": 1681925599,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252806,
       "num": 252806,
       "word": "张一山祝福窦骁何超莲",
@@ -227,14 +235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183219,
-      "num": 183219,
-      "word": "警方通报山科大伤人案",
-      "onboard_time": 1681925599,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181106,
       "num": 181106,
       "word": "阿娇豪门千金黑裙造型",
@@ -249,6 +249,14 @@
       "onboard_time": 1681905929,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174329,
+      "num": 174329,
+      "word": "患癌晚期可以给孩子留下什么",
+      "onboard_time": 1681921824,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 174267,
@@ -313,14 +321,6 @@
       "onboard_time": 1681920386,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139774,
-      "num": 139774,
-      "word": "患癌晚期可以给孩子留下什么",
-      "onboard_time": 1681921824,
-      "rank": 48,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 135906,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93245,
+      "num": 93245,
+      "word": "泰国保险公司或将赔付1500万泰铢",
+      "onboard_time": 1681928714,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 92975,
       "num": 92975,
       "word": "内娱00后颜值有多高",
@@ -449,14 +457,6 @@
       "onboard_time": 1681920986,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73982,
-      "num": 73982,
-      "word": "泰国保险公司或将赔付1500万泰铢",
-      "onboard_time": 1681928714,
-      "rank": 21,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 51920,
@@ -481,6 +481,14 @@
       "onboard_time": 1681901727,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 29905,
+      "num": 29905,
+      "word": "叶冰裳偷走翩然情丝",
+      "onboard_time": 1681943054,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 14199,
