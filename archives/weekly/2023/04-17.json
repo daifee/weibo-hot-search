@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681922349124,
+  "endTime": 1681924534460,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -401,6 +401,14 @@
       "onboard_time": 1681908749,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1685303,
+      "num": 1685303,
+      "word": "文秀雅",
+      "onboard_time": 1681922485,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1678087,
@@ -3195,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290019,
+      "num": 233447,
+      "word": "梦想演唱会",
+      "onboard_time": 1681922546,
+      "rank": 10,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 288670,
       "num": 288670,
       "word": "长月烬明 乌鸦",
@@ -5171,6 +5187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173754,
+      "num": 139216,
+      "word": "女子晒衣服不慎10楼跌落悬挂2楼",
+      "onboard_time": 1681922363,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173638,
       "num": 173638,
       "word": "浙江武义火灾已完成两轮搜救工作",
@@ -7051,12 +7075,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83538,
+      "num": 104686,
+      "word": "一张图明白钱的概念",
+      "onboard_time": 1681920986,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82758,
       "num": 392735,
       "word": "李健开车梦回狂飙",
       "onboard_time": 1681884028,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 82755,
+      "num": 103277,
+      "word": "患癌晚期可以给孩子留下什么",
+      "onboard_time": 1681921824,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 80921,
@@ -7081,14 +7121,6 @@
       "onboard_time": 1681664239,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 77841,
-      "num": 104686,
-      "word": "一张图明白钱的概念",
-      "onboard_time": 1681920986,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 77474,
@@ -7225,14 +7257,6 @@
       "onboard_time": 1681663641,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54535,
-      "num": 103277,
-      "word": "患癌晚期可以给孩子留下什么",
-      "onboard_time": 1681921824,
-      "rank": 48,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 54507,
