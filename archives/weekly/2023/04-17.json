@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681881398434,
+  "endTime": 1681882409774,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2688006,
+      "num": 844850,
+      "word": "北京长峰医院火灾事故已致29人死亡",
+      "onboard_time": 1681879592,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2588805,
       "num": 2588805,
       "word": "周一",
@@ -123,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2475159,
-      "num": 844850,
-      "word": "北京长峰医院火灾事故已致29人死亡",
-      "onboard_time": 1681879592,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 2468980,
+      "num": 2468980,
+      "word": "月薪1万的同事一年存了11万",
+      "onboard_time": 1681876168,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 2416808,
@@ -251,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1881722,
-      "num": 1881722,
-      "word": "月薪1万的同事一年存了11万",
-      "onboard_time": 1681876168,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 1885954,
+      "num": 1885954,
+      "word": "泰国大熊猫林惠去世",
+      "onboard_time": 1681880612,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1836646,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1523562,
+      "num": 502240,
+      "word": "何超欣不知道何超莲窦骁结婚",
+      "onboard_time": 1681874306,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1517109,
       "num": 1517109,
       "word": "感觉新冠不再来了还用打疫苗吗",
@@ -441,14 +457,6 @@
       "onboard_time": 1681737867,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1418845,
-      "num": 502240,
-      "word": "何超欣不知道何超莲窦骁结婚",
-      "onboard_time": 1681874306,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 1416394,
@@ -787,14 +795,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 843026,
-      "num": 843026,
-      "word": "泰国大熊猫林惠去世",
-      "onboard_time": 1681880612,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 835795,
       "num": 835795,
       "word": "怨气可以养活邪剑仙了",
@@ -868,7 +868,7 @@
     },
     {
       "raw_hot": 733181,
-      "num": 488376,
+      "num": 529734,
       "word": "导师招学生继承自己的衣钵",
       "onboard_time": 1681875447,
       "rank": 11,
@@ -1219,7 +1219,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566558,
+      "raw_hot": 567324,
       "num": 477139,
       "word": "长峰医院院长等12人被刑拘",
       "onboard_time": 1681880012,
@@ -1404,7 +1404,7 @@
     },
     {
       "raw_hot": 489130,
-      "num": 323635,
+      "num": 324611,
       "word": "大厂为了防厕所摸鱼有多拼",
       "onboard_time": 1681875567,
       "rank": 21,
@@ -1651,20 +1651,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 438480,
+      "num": 438480,
+      "word": "特斯拉降价",
+      "onboard_time": 1681879713,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
       "raw_hot": 430395,
       "num": 430395,
       "word": "TF家族 三亚",
       "onboard_time": 1681729649,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429417,
-      "num": 429417,
-      "word": "特斯拉降价",
-      "onboard_time": 1681879713,
-      "rank": 16,
-      "category": "科技"
     },
     {
       "raw_hot": 426887,
@@ -1707,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 421830,
+      "num": 421830,
+      "word": "高铁无座也是可以坐的",
+      "onboard_time": 1681880733,
+      "rank": 27,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 417472,
       "num": 417472,
       "word": "丫丫乐乐回国申请进入最后审核",
@@ -1716,7 +1724,7 @@
     },
     {
       "raw_hot": 417027,
-      "num": 235263,
+      "num": 325477,
       "word": "印度夫妻疑为祭祀制作断头台双双斩首",
       "onboard_time": 1681877068,
       "rank": 30,
@@ -2003,6 +2011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369636,
+      "num": 369636,
+      "word": "高中生扔书包怒砸歹徒救下6岁女童",
+      "onboard_time": 1681878453,
+      "rank": 45,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 368748,
       "num": 297367,
       "word": "泫雅机场素颜照",
@@ -2112,6 +2128,14 @@
       "word": "胖虎这次绝不会错过刘艳芬",
       "onboard_time": 1681793915,
       "rank": 21,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 357135,
+      "num": 357135,
+      "word": "Jennie改歌词",
+      "onboard_time": 1681881209,
+      "rank": 36,
       "category": "音乐"
     },
     {
@@ -2243,14 +2267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 331653,
-      "num": 331653,
-      "word": "高中生扔书包怒砸歹徒救下6岁女童",
-      "onboard_time": 1681878453,
-      "rank": 45,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 330537,
       "num": 330537,
       "word": "杭州坠楼女童家属申请变更保姆罪名",
@@ -2273,6 +2289,14 @@
       "onboard_time": 1681832248,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328702,
+      "num": 328702,
+      "word": "内娱唱功天花板",
+      "onboard_time": 1681880909,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 328211,
@@ -2403,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311201,
+      "num": 311201,
+      "word": "长峰医院火灾事故初步调查结果",
+      "onboard_time": 1681880313,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310061,
       "num": 260576,
       "word": "罗云熙扛白鹿",
@@ -2417,14 +2449,6 @@
       "onboard_time": 1681822288,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 307137,
-      "num": 307137,
-      "word": "长峰医院火灾事故初步调查结果",
-      "onboard_time": 1681880313,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306269,
@@ -2843,14 +2867,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 256682,
-      "num": 256682,
-      "word": "高铁无座也是可以坐的",
-      "onboard_time": 1681880733,
-      "rank": 27,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 254615,
       "num": 254615,
       "word": "腿粗是因为走路姿势不对",
@@ -3139,14 +3155,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 219597,
-      "num": 219597,
-      "word": "内娱唱功天花板",
-      "onboard_time": 1681880909,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 219289,
       "num": 197897,
       "word": "仰望U8预售价",
@@ -3275,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210269,
+      "num": 210269,
+      "word": "羊驼烤肠机",
+      "onboard_time": 1681881808,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209741,
       "num": 209741,
       "word": "久事集团成立工作组调查上海男篮",
@@ -3307,12 +3323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209130,
-      "num": 209130,
-      "word": "Jennie改歌词",
-      "onboard_time": 1681881209,
-      "rank": 36,
-      "category": "音乐"
+      "raw_hot": 209001,
+      "num": 209001,
+      "word": "五条悟",
+      "onboard_time": 1681882048,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 208866,
@@ -3425,6 +3441,14 @@
       "onboard_time": 1681711406,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206122,
+      "num": 206122,
+      "word": "宋亚轩的视频配音",
+      "onboard_time": 1681881568,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205643,
@@ -3707,6 +3731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196100,
+      "num": 196100,
+      "word": "一起露营吧2开播",
+      "onboard_time": 1681881988,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195974,
       "num": 195974,
       "word": "青岛音乐节",
@@ -3841,6 +3873,14 @@
       "onboard_time": 1681831049,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191560,
+      "num": 191560,
+      "word": "龚俊行走旧屋随拍花絮",
+      "onboard_time": 1681881750,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191050,
@@ -4011,6 +4051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185855,
+      "num": 185855,
+      "word": "黄子韬被气到说青岛话",
+      "onboard_time": 1681881750,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185537,
       "num": 185537,
       "word": "都暻秀好像只会跳EXO的舞",
@@ -4089,6 +4137,14 @@
       "onboard_time": 1681726586,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181897,
+      "num": 187429,
+      "word": "2023PEL春决宣传片",
+      "onboard_time": 1681881628,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 181428,
@@ -4225,6 +4281,14 @@
       "onboard_time": 1681776868,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 173036,
+      "num": 173036,
+      "word": "刘涛拉美卷造型",
+      "onboard_time": 1681882168,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172805,
@@ -4369,6 +4433,14 @@
       "onboard_time": 1681807528,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164346,
+      "num": 164346,
+      "word": "白鹿方严正声明",
+      "onboard_time": 1681882348,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 164342,
