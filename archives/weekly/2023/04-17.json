@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681867418833,
+  "endTime": 1681868923178,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -433,6 +433,14 @@
       "onboard_time": 1681721967,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1344474,
+      "num": 317347,
+      "word": "窦骁礼服上绣着何超莲英文名",
+      "onboard_time": 1681868308,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1311338,
@@ -979,12 +987,28 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 608165,
+      "num": 608165,
+      "word": "清华爸爸被5岁女儿问懵了",
+      "onboard_time": 1681867947,
+      "rank": 4,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 607002,
       "num": 389035,
       "word": "赞多肚子",
       "onboard_time": 1681686921,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 600927,
+      "num": 282806,
+      "word": "赌王三太的珍珠戒指",
+      "onboard_time": 1681867888,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 598005,
@@ -1001,6 +1025,14 @@
       "onboard_time": 1681732885,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 596656,
+      "num": 311010,
+      "word": "张颂文素人时期的言论",
+      "onboard_time": 1681868308,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 591163,
@@ -2259,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283315,
+      "num": 283315,
+      "word": "邓超帮女儿扎辫子",
+      "onboard_time": 1681865848,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 283247,
       "num": 283247,
       "word": "睡前刷手机你会惭愧吗",
@@ -2395,20 +2435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271495,
-      "num": 271495,
-      "word": "邓超帮女儿扎辫子",
-      "onboard_time": 1681865848,
-      "rank": 22,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 271023,
       "num": 271023,
       "word": "姜涛瘦过",
       "onboard_time": 1681717350,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270231,
+      "num": 270231,
+      "word": "想让中国人多吃点肉多喝点奶",
+      "onboard_time": 1681867709,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269811,
@@ -2579,6 +2619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239702,
+      "num": 239702,
+      "word": "儿子省考面试前父亲默默为其刷皮鞋",
+      "onboard_time": 1681867349,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238558,
       "num": 235790,
       "word": "幼童落水变植物人时隔2个月苏醒",
@@ -2699,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226394,
+      "num": 226394,
+      "word": "王嘉尔回复评论区",
+      "onboard_time": 1681867768,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225404,
       "num": 225404,
       "word": "灭魂钉需要真心换真心",
@@ -2785,6 +2841,14 @@
       "onboard_time": 1681641927,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217662,
+      "num": 217662,
+      "word": "RNG",
+      "onboard_time": 1681868127,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 217320,
@@ -3283,6 +3347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193930,
+      "num": 193930,
+      "word": "要上6天班太累了",
+      "onboard_time": 1681867768,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 193523,
       "num": 193523,
       "word": "前任请你参加婚礼要去吗",
@@ -3361,6 +3433,14 @@
       "onboard_time": 1681656629,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190179,
+      "num": 190179,
+      "word": "异度神剑3",
+      "onboard_time": 1681868486,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 189633,
@@ -3755,6 +3835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165492,
+      "num": 165492,
+      "word": "万一他是真的喜欢王宝强呢",
+      "onboard_time": 1681868726,
+      "rank": 33,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 164809,
       "num": 164809,
       "word": "苹果设备不断要求输入AppleID密码",
@@ -3872,6 +3960,14 @@
       "word": "崩坏星穹铁道",
       "onboard_time": 1681795771,
       "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 160042,
+      "num": 160042,
+      "word": "阴阳师",
+      "onboard_time": 1681868068,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -4235,6 +4331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141243,
+      "num": 141243,
+      "word": "矢吹奈子本田仁美将出演QueendomPuzzle",
+      "onboard_time": 1681867587,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141013,
       "num": 129206,
       "word": "福州一小区起火致2人身亡",
@@ -4467,6 +4571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125533,
+      "num": 125533,
+      "word": "北方大风降温沙尘又来了",
+      "onboard_time": 1681868666,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125407,
       "num": 130378,
       "word": "五一档观影清单",
@@ -4489,6 +4601,14 @@
       "onboard_time": 1681715727,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123044,
+      "num": 123044,
+      "word": "承受不住压力离职是种失败吗",
+      "onboard_time": 1681868245,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 122766,
@@ -4865,14 +4985,6 @@
       "onboard_time": 1681732826,
       "rank": 39,
       "category": "科技"
-    },
-    {
-      "raw_hot": 97170,
-      "num": 97170,
-      "word": "儿子省考面试前父亲默默为其刷皮鞋",
-      "onboard_time": 1681867349,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96952,
