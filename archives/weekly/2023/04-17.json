@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681892538299,
+  "endTime": 1681893334180,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -1179,6 +1179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 612665,
+      "num": 431194,
+      "word": "大S短发写真",
+      "onboard_time": 1681891826,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608721,
       "num": 608721,
       "word": "害怕生孩子是心理障碍吗",
@@ -1227,20 +1235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 588271,
+      "num": 429879,
+      "word": "偶遇鹿晗王勉喝咖啡",
+      "onboard_time": 1681890566,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588121,
       "num": 588121,
       "word": "肖战聚餐旧照",
       "onboard_time": 1681706553,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 587900,
-      "num": 429879,
-      "word": "偶遇鹿晗王勉喝咖啡",
-      "onboard_time": 1681890566,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 587075,
@@ -1353,6 +1361,14 @@
       "onboard_time": 1681725027,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 550268,
+      "num": 550268,
+      "word": "Ming回应RNG卡合同",
+      "onboard_time": 1681891587,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 544178,
@@ -1761,14 +1777,6 @@
       "onboard_time": 1681727549,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 441807,
-      "num": 441807,
-      "word": "Ming回应RNG卡合同",
-      "onboard_time": 1681891587,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 438480,
@@ -2347,14 +2355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340194,
-      "num": 172787,
-      "word": "大S短发写真",
-      "onboard_time": 1681891826,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 336869,
       "num": 336869,
       "word": "专家建议固定法定假日时间",
@@ -2547,6 +2547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 318329,
+      "num": 237411,
+      "word": "徐艺洋不允许对象邀请前任来婚礼",
+      "onboard_time": 1681892068,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315753,
       "num": 315753,
       "word": "美国警察搞错出警地址后误杀房主",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1681867768,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313404,
+      "num": 313404,
+      "word": "范丞丞人生中最漫长的一分钟",
+      "onboard_time": 1681891647,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 311988,
@@ -2657,6 +2673,14 @@
       "onboard_time": 1681655498,
       "rank": 9,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 297586,
+      "num": 297586,
+      "word": "喜欢上班的人有福了",
+      "onboard_time": 1681890088,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 297508,
@@ -2899,14 +2923,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 272617,
-      "num": 272617,
-      "word": "喜欢上班的人有福了",
-      "onboard_time": 1681890088,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 271719,
       "num": 85653,
       "word": "村民疑被当成猎物遭枪击后死亡",
@@ -3147,14 +3163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237411,
-      "num": 237411,
-      "word": "徐艺洋不允许对象邀请前任来婚礼",
-      "onboard_time": 1681892068,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234495,
       "num": 234495,
       "word": "快船战胜太阳",
@@ -3393,14 +3401,6 @@
       "onboard_time": 1681726165,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 216781,
-      "num": 216781,
-      "word": "范丞丞人生中最漫长的一分钟",
-      "onboard_time": 1681891647,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 216599,
@@ -5603,6 +5603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120469,
+      "num": 120469,
+      "word": "长峰医院附近居民发声",
+      "onboard_time": 1681892604,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120418,
       "num": 120418,
       "word": "李沛恩新剧人设",
@@ -6411,6 +6419,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 46552,
+      "num": 110726,
+      "word": "穿衣自由去吹风",
+      "onboard_time": 1681891467,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42917,
       "num": 38401,
       "word": "根本没人敢坐我们旁边",
@@ -6465,14 +6481,6 @@
       "onboard_time": 1681720408,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37444,
-      "num": 110726,
-      "word": "穿衣自由去吹风",
-      "onboard_time": 1681891467,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 32635,

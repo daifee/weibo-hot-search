@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681892538299,
+  "endTime": 1681893334180,
   "band_list": [
     {
       "raw_hot": 5224491,
@@ -291,7 +291,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 587900,
+      "raw_hot": 612665,
+      "num": 431194,
+      "word": "大S短发写真",
+      "onboard_time": 1681891826,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 588271,
       "num": 429879,
       "word": "偶遇鹿晗王勉喝咖啡",
       "onboard_time": 1681890566,
@@ -321,6 +329,14 @@
       "onboard_time": 1681884689,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 550268,
+      "num": 550268,
+      "word": "Ming回应RNG卡合同",
+      "onboard_time": 1681891587,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 500594,
@@ -425,14 +441,6 @@
       "onboard_time": 1681883487,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 441807,
-      "num": 441807,
-      "word": "Ming回应RNG卡合同",
-      "onboard_time": 1681891587,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 438480,
@@ -627,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340194,
-      "num": 172787,
-      "word": "大S短发写真",
-      "onboard_time": 1681891826,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331989,
       "num": 322941,
       "word": "刘亦菲纯白西装",
@@ -699,6 +699,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 318329,
+      "num": 237411,
+      "word": "徐艺洋不允许对象邀请前任来婚礼",
+      "onboard_time": 1681892068,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314060,
       "num": 314060,
       "word": "如何评价王嘉尔二登科切拉",
@@ -715,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313404,
+      "num": 313404,
+      "word": "范丞丞人生中最漫长的一分钟",
+      "onboard_time": 1681891647,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311201,
       "num": 311201,
       "word": "长峰医院火灾事故初步调查结果",
@@ -729,6 +745,14 @@
       "onboard_time": 1681825831,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297586,
+      "num": 297586,
+      "word": "喜欢上班的人有福了",
+      "onboard_time": 1681890088,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 294040,
@@ -769,14 +793,6 @@
       "onboard_time": 1681863390,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 272617,
-      "num": 272617,
-      "word": "喜欢上班的人有福了",
-      "onboard_time": 1681890088,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 268422,
@@ -859,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237411,
-      "num": 237411,
-      "word": "徐艺洋不允许对象邀请前任来婚礼",
-      "onboard_time": 1681892068,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233547,
       "num": 233547,
       "word": "罗云熙打戏好是有原因的",
@@ -913,14 +921,6 @@
       "onboard_time": 1681831590,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 216781,
-      "num": 216781,
-      "word": "范丞丞人生中最漫长的一分钟",
-      "onboard_time": 1681891647,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 216599,
@@ -1627,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120469,
+      "num": 120469,
+      "word": "长峰医院附近居民发声",
+      "onboard_time": 1681892604,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120418,
       "num": 120418,
       "word": "李沛恩新剧人设",
@@ -1843,20 +1851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46552,
+      "num": 110726,
+      "word": "穿衣自由去吹风",
+      "onboard_time": 1681891467,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38812,
       "num": 71496,
       "word": "眼周瑜伽",
       "onboard_time": 1681860382,
       "rank": 49,
       "category": "美妆,时尚"
-    },
-    {
-      "raw_hot": 37444,
-      "num": 110726,
-      "word": "穿衣自由去吹风",
-      "onboard_time": 1681891467,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 25827,
