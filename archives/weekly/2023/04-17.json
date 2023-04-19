@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681899536475,
+  "endTime": 1681900455922,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1335160,
+      "num": 1335160,
+      "word": "杭州公布色狼完整姓名合适吗",
+      "onboard_time": 1681897225,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1311338,
       "num": 1311338,
       "word": "离职后你一般怎么退出工作群",
@@ -569,14 +577,6 @@
       "onboard_time": 1681728570,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1202757,
-      "num": 1202757,
-      "word": "杭州公布色狼完整姓名合适吗",
-      "onboard_time": 1681897225,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1202341,
@@ -828,7 +828,7 @@
     },
     {
       "raw_hot": 850088,
-      "num": 511217,
+      "num": 573439,
       "word": "大S短发写真",
       "onboard_time": 1681891826,
       "rank": 30,
@@ -1067,6 +1067,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 669886,
+      "num": 669886,
+      "word": "肉体上最疼的一次经历是什么",
+      "onboard_time": 1681896987,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 665866,
       "num": 665866,
       "word": "林某侮辱诽谤江秋莲获刑2年3个月",
@@ -1097,6 +1105,22 @@
       "onboard_time": 1681660047,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 656173,
+      "num": 1401433,
+      "word": "程序员辞职带妈妈锻炼半年瘦20斤",
+      "onboard_time": 1681895129,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 655077,
+      "num": 655077,
+      "word": "李泰容开通微博",
+      "onboard_time": 1681900166,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 651487,
@@ -1185,22 +1209,6 @@
       "onboard_time": 1681732346,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 628713,
-      "num": 353363,
-      "word": "肉体上最疼的一次经历是什么",
-      "onboard_time": 1681896987,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 622986,
-      "num": 1304100,
-      "word": "程序员辞职带妈妈锻炼半年瘦20斤",
-      "onboard_time": 1681895129,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 621980,
@@ -1635,6 +1643,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 473150,
+      "num": 415259,
+      "word": "周洁琼回应抢那英话筒",
+      "onboard_time": 1681896927,
+      "rank": 13,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 473125,
       "num": 473125,
       "word": "最成功的大男主IP",
@@ -1827,14 +1843,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 440678,
-      "num": 415259,
-      "word": "周洁琼回应抢那英话筒",
-      "onboard_time": 1681896927,
-      "rank": 13,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 438480,
       "num": 438480,
       "word": "特斯拉降价",
@@ -1891,6 +1899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 420482,
+      "num": 420482,
+      "word": "何超莲婚礼定制婚鞋",
+      "onboard_time": 1681894047,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417472,
       "num": 417472,
       "word": "丫丫乐乐回国申请进入最后审核",
@@ -1937,6 +1953,14 @@
       "onboard_time": 1681782027,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407326,
+      "num": 384107,
+      "word": "宋雨琦回应没礼貌不懂分寸",
+      "onboard_time": 1681898966,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 407283,
@@ -2003,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396206,
+      "num": 396206,
+      "word": "鹿晗被吓跑了",
+      "onboard_time": 1681899147,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 396063,
       "num": 271715,
       "word": "徐艺洋不允许对象邀请前任来婚礼",
@@ -2057,14 +2089,6 @@
       "onboard_time": 1681727189,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 388454,
-      "num": 388454,
-      "word": "何超莲婚礼定制婚鞋",
-      "onboard_time": 1681894047,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 385011,
@@ -2177,14 +2201,6 @@
       "onboard_time": 1681826792,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 375199,
-      "num": 375199,
-      "word": "鹿晗被吓跑了",
-      "onboard_time": 1681899147,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 373892,
@@ -2835,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294742,
+      "num": 294742,
+      "word": "内娱00后颜值有多高",
+      "onboard_time": 1681897588,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 294040,
       "num": 294040,
       "word": "格林禁赛",
@@ -3099,6 +3123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263394,
+      "num": 263394,
+      "word": "西班牙真人秀男嘉宾性侵女嘉宾",
+      "onboard_time": 1681898907,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263387,
       "num": 263387,
       "word": "陈冰追长月烬明吃饭都上头",
@@ -3283,12 +3315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237457,
-      "num": 237457,
-      "word": "内娱00后颜值有多高",
-      "onboard_time": 1681897588,
-      "rank": 27,
-      "category": "作品衍生"
+      "raw_hot": 234740,
+      "num": 234740,
+      "word": "oner腹肌照",
+      "onboard_time": 1681899089,
+      "rank": 35,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 234495,
@@ -3691,6 +3723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208729,
+      "num": 208729,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1681899206,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208545,
       "num": 208545,
       "word": "长空之王险版预告",
@@ -4011,14 +4051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 197422,
-      "num": 197422,
-      "word": "西班牙真人秀男嘉宾性侵女嘉宾",
-      "onboard_time": 1681898907,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197304,
       "num": 197304,
       "word": "BLACKPINK科切拉人气",
@@ -4129,14 +4161,6 @@
       "onboard_time": 1681773379,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 195067,
-      "num": 195067,
-      "word": "oner腹肌照",
-      "onboard_time": 1681899089,
-      "rank": 35,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 194439,
@@ -4345,14 +4369,6 @@
       "onboard_time": 1681716385,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188963,
-      "num": 188963,
-      "word": "宋雨琦回应没礼貌不懂分寸",
-      "onboard_time": 1681898966,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 188935,
@@ -5067,6 +5083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 159329,
+      "num": 159329,
+      "word": "山东泗水两货车相撞十余人受伤",
+      "onboard_time": 1681900226,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159130,
       "num": 159130,
       "word": "这些癌症都有哪些信号",
@@ -5115,6 +5139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157719,
+      "num": 157719,
+      "word": "高铁上可以点外卖",
+      "onboard_time": 1681899685,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 157026,
       "num": 157026,
       "word": "哈妮克孜欢迎大家来家乡新疆",
@@ -5161,14 +5193,6 @@
       "onboard_time": 1681723708,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153975,
-      "num": 153975,
-      "word": "声生不息宝岛季",
-      "onboard_time": 1681899206,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 153888,
@@ -5409,6 +5433,14 @@
       "onboard_time": 1681722865,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 144907,
+      "num": 144907,
+      "word": "王冰冰数字穿越敦煌千年洞窟",
+      "onboard_time": 1681899805,
+      "rank": 43,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 144266,
@@ -5793,6 +5825,14 @@
       "onboard_time": 1681800447,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122457,
+      "num": 658762,
+      "word": "硬核老爸用8年为孤独症儿子造火车",
+      "onboard_time": 1681897826,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121602,
@@ -6289,14 +6329,6 @@
       "onboard_time": 1681703909,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94070,
-      "num": 648757,
-      "word": "硬核老爸用8年为孤独症儿子造火车",
-      "onboard_time": 1681897826,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93672,
