@@ -1,7 +1,15 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681921399908,
+  "endTime": 1681922349124,
   "band_list": [
+    {
+      "raw_hot": 7528476,
+      "num": 7528476,
+      "word": "文彬",
+      "onboard_time": 1681921705,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 5296527,
       "num": 1305040,
@@ -121,6 +129,14 @@
       "onboard_time": 1681879592,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2608617,
+      "num": 2608617,
+      "word": "astro",
+      "onboard_time": 1681921764,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2588805,
@@ -691,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1018060,
+      "num": 1018060,
+      "word": "孙悟空",
+      "onboard_time": 1681919548,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1017541,
       "num": 941583,
       "word": "科学家发现男士避孕关键基因",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1681778307,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 717391,
-      "num": 717391,
-      "word": "孙悟空",
-      "onboard_time": 1681919548,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 715541,
@@ -5923,6 +5939,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 142762,
+      "num": 142762,
+      "word": "长峰医院是如何搭建三甲医院朋友圈的",
+      "onboard_time": 1681920386,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142691,
       "num": 142691,
       "word": "游客淄博买饼被宰网友转账补差价",
@@ -6699,14 +6723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102763,
-      "num": 102763,
-      "word": "长峰医院是如何搭建三甲医院朋友圈的",
-      "onboard_time": 1681920386,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102159,
       "num": 102159,
       "word": "诺丁汉森林0比2曼联",
@@ -7067,6 +7083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77841,
+      "num": 104686,
+      "word": "一张图明白钱的概念",
+      "onboard_time": 1681920986,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77474,
       "num": 284400,
       "word": "智能驾驶会让你更安心吗",
@@ -7113,14 +7137,6 @@
       "onboard_time": 1681748005,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 73148,
-      "num": 92975,
-      "word": "一张图明白钱的概念",
-      "onboard_time": 1681920986,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 72655,
@@ -7209,6 +7225,14 @@
       "onboard_time": 1681663641,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54535,
+      "num": 103277,
+      "word": "患癌晚期可以给孩子留下什么",
+      "onboard_time": 1681921824,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 54507,

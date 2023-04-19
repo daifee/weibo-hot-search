@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681921399908,
+  "endTime": 1681922349124,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -57,6 +57,14 @@
       "onboard_time": 1680497915,
       "rank": 1,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 7528476,
+      "num": 7528476,
+      "word": "文彬",
+      "onboard_time": 1681921705,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 7516988,
@@ -673,6 +681,14 @@
       "onboard_time": 1680853768,
       "rank": 1,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2608617,
+      "num": 2608617,
+      "word": "astro",
+      "onboard_time": 1681921764,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2601228,
@@ -4195,6 +4211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1018060,
+      "num": 1018060,
+      "word": "孙悟空",
+      "onboard_time": 1681919548,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1017908,
       "num": 1017908,
       "word": "姐弟坠亡案母亲称绝不放过叶诚尘",
@@ -6921,14 +6945,6 @@
       "onboard_time": 1680861330,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 717391,
-      "num": 717391,
-      "word": "孙悟空",
-      "onboard_time": 1681919548,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 716926,
@@ -38827,6 +38843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142762,
+      "num": 142762,
+      "word": "长峰医院是如何搭建三甲医院朋友圈的",
+      "onboard_time": 1681920386,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142691,
       "num": 142691,
       "word": "游客淄博买饼被宰网友转账补差价",
@@ -43027,14 +43051,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 102763,
-      "num": 102763,
-      "word": "长峰医院是如何搭建三甲医院朋友圈的",
-      "onboard_time": 1681920386,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102623,
       "num": 102623,
       "word": "王源唱骄傲",
@@ -44435,6 +44451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77841,
+      "num": 104686,
+      "word": "一张图明白钱的概念",
+      "onboard_time": 1681920986,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77721,
       "num": 437012,
       "word": "过敏性鼻炎犯了有多难受",
@@ -44609,14 +44633,6 @@
       "onboard_time": 1681644926,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 73148,
-      "num": 92975,
-      "word": "一张图明白钱的概念",
-      "onboard_time": 1681920986,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 73066,
@@ -45121,6 +45137,14 @@
       "onboard_time": 1681279226,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54535,
+      "num": 103277,
+      "word": "患癌晚期可以给孩子留下什么",
+      "onboard_time": 1681921824,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 54507,
