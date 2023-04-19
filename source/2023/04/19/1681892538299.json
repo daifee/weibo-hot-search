@@ -1,0 +1,410 @@
+{
+  "runTime": 1681892538299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2815419,
+        "num": 2815419,
+        "word": "蒋梦婕被恶意拍裙底勒索",
+        "onboard_time": 1681882888,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1307999,
+        "num": 1307999,
+        "word": "月薪1万的同事一年存了11万",
+        "onboard_time": 1681876168,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16814,
+        "num": 1068368,
+        "word": "数说消博会",
+        "onboard_time": 1681878811,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1480549,
+        "num": 1058342,
+        "word": "男人真的喜欢女人吗",
+        "onboard_time": 1681887267,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1017251,
+        "num": 1017251,
+        "word": "白鹿方严正声明",
+        "onboard_time": 1681882348,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 892631,
+        "num": 892631,
+        "word": "陈伟霆回应和章若楠炒cp",
+        "onboard_time": 1681890807,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737531,
+        "num": 737531,
+        "word": "泰国大熊猫林惠去世",
+        "onboard_time": 1681880612,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559285,
+        "num": 559285,
+        "word": "苹果手机失去市场份额第一",
+        "onboard_time": 1681885348,
+        "rank": 7,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 559099,
+        "num": 559099,
+        "word": "北京长峰医院火灾事故已致29人死亡",
+        "onboard_time": 1681879592,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441807,
+        "num": 441807,
+        "word": "Ming回应RNG卡合同",
+        "onboard_time": 1681891587,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 695460,
+        "num": 438685,
+        "word": "于正买翡翠被骗",
+        "onboard_time": 1681889247,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587900,
+        "num": 429879,
+        "word": "偶遇鹿晗王勉喝咖啡",
+        "onboard_time": 1681890566,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420859,
+        "num": 420859,
+        "word": "抑郁症女孩凌晨从8楼跳下",
+        "onboard_time": 1681872145,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353989,
+        "num": 353989,
+        "word": "何超欣不知道何超莲窦骁结婚",
+        "onboard_time": 1681874306,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336594,
+        "num": 336594,
+        "word": "工作人员为王鹤棣发声",
+        "onboard_time": 1681886788,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291388,
+        "num": 291388,
+        "word": "五条悟回归",
+        "onboard_time": 1681884090,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 272617,
+        "num": 272617,
+        "word": "喜欢上班的人有福了",
+        "onboard_time": 1681890088,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268724,
+        "num": 268724,
+        "word": "赵丽颖毛晓彤陈都灵簪花女造型",
+        "onboard_time": 1681884627,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252916,
+        "num": 252916,
+        "word": "北京丰台区副区长道歉",
+        "onboard_time": 1681883246,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240358,
+        "num": 240358,
+        "word": "特斯拉降价",
+        "onboard_time": 1681879713,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 240561,
+        "num": 239967,
+        "word": "演员不认识生僻字算娱乐圈文盲吗",
+        "onboard_time": 1681883487,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237411,
+        "num": 237411,
+        "word": "徐艺洋不允许对象邀请前任来婚礼",
+        "onboard_time": 1681892068,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235963,
+        "num": 235963,
+        "word": "Jennie改歌词",
+        "onboard_time": 1681881209,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233547,
+        "num": 233547,
+        "word": "罗云熙打戏好是有原因的",
+        "onboard_time": 1681890807,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216781,
+        "num": 216781,
+        "word": "范丞丞人生中最漫长的一分钟",
+        "onboard_time": 1681891647,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212993,
+        "num": 212993,
+        "word": "大厂为了防厕所摸鱼有多拼",
+        "onboard_time": 1681875567,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211918,
+        "num": 211918,
+        "word": "高铁无座也是可以坐的",
+        "onboard_time": 1681880733,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 197500,
+        "num": 197500,
+        "word": "樊振东",
+        "onboard_time": 1681888285,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188618,
+        "num": 188618,
+        "word": "姜贞羽霓裳羽衣舞",
+        "onboard_time": 1681884867,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177833,
+        "num": 177833,
+        "word": "高中生扔书包怒砸歹徒救下6岁女童",
+        "onboard_time": 1681878453,
+        "rank": 29,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 340194,
+        "num": 172787,
+        "word": "大S短发写真",
+        "onboard_time": 1681891826,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184306,
+        "num": 172247,
+        "word": "冯小刚说现在拍电影是生活的调节",
+        "onboard_time": 1681889666,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162503,
+        "num": 162503,
+        "word": "赌王三太的珍珠戒指",
+        "onboard_time": 1681867888,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162038,
+        "num": 162038,
+        "word": "BLACKPINK柯登合照",
+        "onboard_time": 1681889787,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158229,
+        "num": 158229,
+        "word": "老人绑架4岁孙女勒索女儿50万",
+        "onboard_time": 1681873587,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157819,
+        "num": 157819,
+        "word": "长月烬明最新情头",
+        "onboard_time": 1681888173,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156589,
+        "num": 156589,
+        "word": "易烊千玺双开门冰箱",
+        "onboard_time": 1681872686,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147993,
+        "num": 147993,
+        "word": "欧阳娜娜迪士尼游玩随拍",
+        "onboard_time": 1681887745,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143318,
+        "num": 143318,
+        "word": "长峰医院院长等12人被刑拘",
+        "onboard_time": 1681880012,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140319,
+        "num": 140319,
+        "word": "女子因心情不好扔掉7万元",
+        "onboard_time": 1681873466,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132202,
+        "num": 132202,
+        "word": "樊振东逆转晋级16强",
+        "onboard_time": 1681889067,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131528,
+        "num": 131528,
+        "word": "清华爸爸被5岁女儿问懵了",
+        "onboard_time": 1681867947,
+        "rank": 41,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 130734,
+        "num": 130734,
+        "word": "肖战最新怼脸状态",
+        "onboard_time": 1681873407,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123552,
+        "num": 123552,
+        "word": "导师招学生继承自己的衣钵",
+        "onboard_time": 1681875447,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121827,
+        "num": 121827,
+        "word": "李荣浩说井柏然对他不错",
+        "onboard_time": 1681884208,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120778,
+        "num": 120778,
+        "word": "蔡徐坤说今年可以多开几场演唱会",
+        "onboard_time": 1681886788,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118039,
+        "num": 118039,
+        "word": "SEVENTEEN的兄弟组合",
+        "onboard_time": 1681887207,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117237,
+        "num": 117237,
+        "word": "存钱真的会上瘾的",
+        "onboard_time": 1681885465,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37444,
+        "num": 110726,
+        "word": "穿衣自由去吹风",
+        "onboard_time": 1681891467,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110210,
+        "num": 110210,
+        "word": "剧好听的歌有好多人啊",
+        "onboard_time": 1681891228,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会倒计时100天主题片100%发布#"
+    }
+  }
+}
