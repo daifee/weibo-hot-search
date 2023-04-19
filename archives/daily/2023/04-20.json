@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681924534460,
+  "endTime": 1681925626294,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139774,
+      "num": 139774,
+      "word": "患癌晚期可以给孩子留下什么",
+      "onboard_time": 1681921824,
+      "rank": 48,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 135906,
       "num": 135906,
       "word": "公孙离新皮肤首曝",
@@ -427,20 +435,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82755,
-      "num": 103277,
-      "word": "患癌晚期可以给孩子留下什么",
-      "onboard_time": 1681921824,
-      "rank": 48,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 51920,
       "num": 101562,
       "word": "柯洁大司马连麦直播",
       "onboard_time": 1681914993,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39220,
+      "num": 49476,
+      "word": "警方通报山科大伤人案",
+      "onboard_time": 1681925599,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33883,
