@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/17 00:21:15 ~ 2023/04/20 04:33:43
+本榜单时间：2023/04/17 00:21:15 ~ 2023/04/20 05:15:03
 </p>
 </blockquote>
 <p>
@@ -5579,6 +5579,12 @@ DRG战胜eStar（热度：32635）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E6%B6%88%E5%8D%9A%E4%BC%9A%23" target="weibo">
 数说消博会（热度：25107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232023%E5%B0%8F%E7%B1%B3%E5%BE%95%E5%8D%A1%E5%BD%B1%E5%83%8F%E5%A4%A7%E8%B5%9B%23" target="weibo">
+2023小米徕卡影像大赛（热度：13831）
 </a>
 </li>
 

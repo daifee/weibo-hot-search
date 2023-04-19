@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681936423404,
+  "endTime": 1681938903705,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -45929,6 +45929,14 @@
       "onboard_time": 1680636792,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13831,
+      "num": 14553,
+      "word": "2023小米徕卡影像大赛",
+      "onboard_time": 1681937413,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 12137,
