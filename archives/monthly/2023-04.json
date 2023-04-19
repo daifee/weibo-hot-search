@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681886175049,
+  "endTime": 1681888571514,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 2688006,
-      "num": 844850,
+      "num": 851294,
       "word": "北京长峰医院火灾事故已致29人死亡",
       "onboard_time": 1681879592,
       "rank": 3,
@@ -2492,7 +2492,7 @@
     },
     {
       "raw_hot": 1523562,
-      "num": 516231,
+      "num": 519991,
       "word": "何超欣不知道何超莲窦骁结婚",
       "onboard_time": 1681874306,
       "rank": 13,
@@ -5419,6 +5419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 856038,
+      "num": 856038,
+      "word": "白鹿方严正声明",
+      "onboard_time": 1681882348,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 854800,
       "num": 854800,
       "word": "忽然发现家里有点钱",
@@ -6355,14 +6363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 753531,
-      "num": 753531,
-      "word": "白鹿方严正声明",
-      "onboard_time": 1681882348,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 753275,
       "num": 753275,
       "word": "调剂",
@@ -6697,6 +6697,14 @@
       "onboard_time": 1681389090,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 723414,
+      "num": 723414,
+      "word": "苹果手机失去市场份额第一",
+      "onboard_time": 1681885348,
+      "rank": 47,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 723218,
@@ -7641,6 +7649,14 @@
       "onboard_time": 1681356390,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661662,
+      "num": 661662,
+      "word": "赵丽颖毛晓彤陈都灵簪花女造型",
+      "onboard_time": 1681884627,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 661500,
@@ -8787,14 +8803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 598060,
-      "num": 598060,
-      "word": "赵丽颖毛晓彤陈都灵簪花女造型",
-      "onboard_time": 1681884627,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 598005,
       "num": 598005,
       "word": "山东人均存款8.37万",
@@ -9625,6 +9633,14 @@
       "onboard_time": 1680680310,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 556506,
+      "num": 556506,
+      "word": "陈伟霆说的那个艺人是谁",
+      "onboard_time": 1681884689,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 556443,
@@ -11307,6 +11323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 484682,
+      "num": 484682,
+      "word": "工作人员为王鹤棣发声",
+      "onboard_time": 1681886788,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484273,
       "num": 484273,
       "word": "苹果版余额宝上线",
@@ -12121,14 +12145,6 @@
       "onboard_time": 1680997759,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456654,
-      "num": 456654,
-      "word": "陈伟霆说的那个艺人是谁",
-      "onboard_time": 1681884689,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 456550,
@@ -13057,6 +13073,14 @@
       "onboard_time": 1680959311,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 426892,
+      "num": 426892,
+      "word": "男人真的喜欢女人吗",
+      "onboard_time": 1681887267,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 426887,
@@ -15635,6 +15659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360462,
+      "num": 360462,
+      "word": "五条悟回归",
+      "onboard_time": 1681884090,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 360139,
       "num": 360139,
       "word": "宋三川梁友安都戴了婚戒",
@@ -16393,6 +16425,14 @@
       "onboard_time": 1680767548,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344656,
+      "num": 344656,
+      "word": "贾玲张小斐或将二搭",
+      "onboard_time": 1681885769,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 344599,
@@ -17364,7 +17404,7 @@
     },
     {
       "raw_hot": 324561,
-      "num": 249029,
+      "num": 259863,
       "word": "姜贞羽霓裳羽衣舞",
       "onboard_time": 1681884867,
       "rank": 28,
@@ -17897,14 +17937,6 @@
       "onboard_time": 1681867768,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313548,
-      "num": 313548,
-      "word": "五条悟回归",
-      "onboard_time": 1681884090,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 313519,
@@ -22033,14 +22065,6 @@
       "onboard_time": 1681532725,
       "rank": 39,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 244056,
-      "num": 244056,
-      "word": "苹果手机失去市场份额第一",
-      "onboard_time": 1681885348,
-      "rank": 47,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 244012,
@@ -29147,14 +29171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196751,
-      "num": 196751,
-      "word": "贾玲张小斐或将二搭",
-      "onboard_time": 1681885769,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196741,
       "num": 125262,
       "word": "丁程鑫娜扎说悄悄话",
@@ -35147,6 +35163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 162597,
+      "num": 162597,
+      "word": "SEVENTEEN的兄弟组合",
+      "onboard_time": 1681887207,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162590,
       "num": 162590,
       "word": "陈小纭说和彭冠英第一次见面是在厕所",
@@ -37859,6 +37883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143841,
+      "num": 143841,
+      "word": "张予曦苗疆造型",
+      "onboard_time": 1681885527,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143659,
       "num": 225806,
       "word": "苏丹首都多地发生武装冲突",
@@ -38249,14 +38281,6 @@
       "onboard_time": 1681534585,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140734,
-      "num": 140734,
-      "word": "张予曦苗疆造型",
-      "onboard_time": 1681885527,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 140627,
@@ -40307,6 +40331,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 123068,
+      "num": 123068,
+      "word": "蔡徐坤说今年可以多开几场演唱会",
+      "onboard_time": 1681886788,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123054,
       "num": 901789,
       "word": "中国航天员在太空划船什么样",
@@ -40891,6 +40923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 118126,
+      "num": 118126,
+      "word": "杨丞琳官宣台北演唱会",
+      "onboard_time": 1681887684,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118052,
       "num": 118052,
       "word": "Liz高音",
@@ -40913,6 +40953,14 @@
       "onboard_time": 1681408878,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117749,
+      "num": 117749,
+      "word": "榴莲开了还能换",
+      "onboard_time": 1681886666,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 117731,
@@ -41897,6 +41945,14 @@
       "onboard_time": 1681135350,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 104743,
+      "num": 104743,
+      "word": "欧阳娜娜迪士尼游玩随拍",
+      "onboard_time": 1681887745,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 104693,
@@ -44217,6 +44273,14 @@
       "onboard_time": 1681740509,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 52610,
+      "num": 173252,
+      "word": "真正的豪华车哪有平替",
+      "onboard_time": 1681887808,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51166,

@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681886175049,
+  "endTime": 1681888571514,
   "band_list": [
     {
       "raw_hot": 5224491,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2688006,
-      "num": 844850,
+      "num": 851294,
       "word": "北京长峰医院火灾事故已致29人死亡",
       "onboard_time": 1681879592,
       "rank": 3,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1523562,
-      "num": 516231,
+      "num": 519991,
       "word": "何超欣不知道何超莲窦骁结婚",
       "onboard_time": 1681874306,
       "rank": 13,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856038,
+      "num": 856038,
+      "word": "白鹿方严正声明",
+      "onboard_time": 1681882348,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 790701,
       "num": 790701,
       "word": "高铁无座也是可以坐的",
@@ -203,14 +211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 753531,
-      "num": 753531,
-      "word": "白鹿方严正声明",
-      "onboard_time": 1681882348,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 733181,
       "num": 529734,
       "word": "导师招学生继承自己的衣钵",
@@ -219,12 +219,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 723414,
+      "num": 723414,
+      "word": "苹果手机失去市场份额第一",
+      "onboard_time": 1681885348,
+      "rank": 47,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 698944,
       "num": 317987,
       "word": "张颂文素人时期的言论",
       "onboard_time": 1681868308,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661662,
+      "num": 661662,
+      "word": "赵丽颖毛晓彤陈都灵簪花女造型",
+      "onboard_time": 1681884627,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 639590,
@@ -251,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 598060,
-      "num": 598060,
-      "word": "赵丽颖毛晓彤陈都灵簪花女造型",
-      "onboard_time": 1681884627,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 572554,
       "num": 572554,
       "word": "三个女生组建小家庭会怎样",
@@ -273,6 +281,14 @@
       "onboard_time": 1681880012,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556506,
+      "num": 556506,
+      "word": "陈伟霆说的那个艺人是谁",
+      "onboard_time": 1681884689,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 500594,
@@ -307,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484682,
+      "num": 484682,
+      "word": "工作人员为王鹤棣发声",
+      "onboard_time": 1681886788,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483508,
       "num": 303925,
       "word": "男子瘫痪儿子不愿供养将其活活饿死",
@@ -337,14 +361,6 @@
       "onboard_time": 1681879649,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 456654,
-      "num": 456654,
-      "word": "陈伟霆说的那个艺人是谁",
-      "onboard_time": 1681884689,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 455419,
@@ -385,6 +401,14 @@
       "onboard_time": 1681879713,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 426892,
+      "num": 426892,
+      "word": "男人真的喜欢女人吗",
+      "onboard_time": 1681887267,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 423418,
@@ -515,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 360462,
+      "num": 360462,
+      "word": "五条悟回归",
+      "onboard_time": 1681884090,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 358794,
       "num": 328775,
       "word": "金小妹回应整容",
@@ -553,6 +585,14 @@
       "onboard_time": 1681873466,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344656,
+      "num": 344656,
+      "word": "贾玲张小斐或将二搭",
+      "onboard_time": 1681885769,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 331989,
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 324561,
-      "num": 249029,
+      "num": 259863,
       "word": "姜贞羽霓裳羽衣舞",
       "onboard_time": 1681884867,
       "rank": 28,
@@ -625,14 +665,6 @@
       "onboard_time": 1681867768,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313548,
-      "num": 313548,
-      "word": "五条悟回归",
-      "onboard_time": 1681884090,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 311201,
@@ -761,14 +793,6 @@
       "onboard_time": 1681830570,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 244056,
-      "num": 244056,
-      "word": "苹果手机失去市场份额第一",
-      "onboard_time": 1681885348,
-      "rank": 47,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 238353,
@@ -937,14 +961,6 @@
       "onboard_time": 1681871726,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196751,
-      "num": 196751,
-      "word": "贾玲张小斐或将二搭",
-      "onboard_time": 1681885769,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 196100,
@@ -1155,6 +1171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171131,
+      "num": 171131,
+      "word": "樊振东",
+      "onboard_time": 1681888285,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169083,
       "num": 169083,
       "word": "孙珍妮翩然演技",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1681885826,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162597,
+      "num": 162597,
+      "word": "SEVENTEEN的兄弟组合",
+      "onboard_time": 1681887207,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 162313,
@@ -1323,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143841,
+      "num": 143841,
+      "word": "张予曦苗疆造型",
+      "onboard_time": 1681885527,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141243,
       "num": 141243,
       "word": "矢吹奈子本田仁美将出演QueendomPuzzle",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1681835544,
       "rank": 14,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 140734,
-      "num": 140734,
-      "word": "张予曦苗疆造型",
-      "onboard_time": 1681885527,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 139992,
@@ -1443,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123068,
+      "num": 123068,
+      "word": "蔡徐坤说今年可以多开几场演唱会",
+      "onboard_time": 1681886788,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122362,
       "num": 122362,
       "word": "郭艾伦辽宁队史季后赛得分王",
@@ -1491,6 +1531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118126,
+      "num": 118126,
+      "word": "杨丞琳官宣台北演唱会",
+      "onboard_time": 1681887684,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 117749,
+      "num": 117749,
+      "word": "榴莲开了还能换",
+      "onboard_time": 1681886666,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115063,
       "num": 109670,
       "word": "长峰医院今日起股票停牌",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1681824392,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104743,
+      "num": 104743,
+      "word": "欧阳娜娜迪士尼游玩随拍",
+      "onboard_time": 1681887745,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 102944,
@@ -1648,6 +1712,14 @@
       "word": "郑渊洁称维权艰难不再发表作品",
       "onboard_time": 1681817908,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52610,
+      "num": 173252,
+      "word": "真正的豪华车哪有平替",
+      "onboard_time": 1681887808,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
