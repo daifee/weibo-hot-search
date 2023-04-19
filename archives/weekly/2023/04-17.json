@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681914804490,
+  "endTime": 1681917502106,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2384433,
+      "num": 2384433,
+      "word": "千万不要有舔奶盖的习惯",
+      "onboard_time": 1681911989,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2377819,
       "num": 1663995,
       "word": "北京长峰医院火灾事故情况通报会",
@@ -305,14 +313,6 @@
       "onboard_time": 1681880612,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1875617,
-      "num": 1875617,
-      "word": "千万不要有舔奶盖的习惯",
-      "onboard_time": 1681911989,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 1836646,
@@ -587,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1297789,
+      "num": 1297789,
+      "word": "8岁摄影师给易烊千玺拍照",
+      "onboard_time": 1681914812,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1275635,
       "num": 1275635,
       "word": "迪丽热巴再现复古名伶",
@@ -601,6 +609,14 @@
       "onboard_time": 1681814009,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1220926,
+      "num": 1220926,
+      "word": "河南男子杀害3名亲属后自首",
+      "onboard_time": 1681911089,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1216379,
@@ -705,14 +721,6 @@
       "onboard_time": 1681716148,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1001606,
-      "num": 1001606,
-      "word": "河南男子杀害3名亲属后自首",
-      "onboard_time": 1681911089,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 997698,
@@ -913,6 +921,14 @@
       "onboard_time": 1681714525,
       "rank": 6,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 834317,
+      "num": 834317,
+      "word": "海清发声支持蒋梦婕",
+      "onboard_time": 1681915952,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 826227,
@@ -1244,7 +1260,7 @@
     },
     {
       "raw_hot": 634613,
-      "num": 361719,
+      "num": 387487,
       "word": "三年前的刘宇宁",
       "onboard_time": 1681910728,
       "rank": 21,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1681700247,
       "rank": 30,
       "category": "艺人,科技"
+    },
+    {
+      "raw_hot": 542661,
+      "num": 542661,
+      "word": "花间令 开机",
+      "onboard_time": 1681915533,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 542125,
@@ -1787,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466566,
+      "num": 466566,
+      "word": "李现白敬亭同框",
+      "onboard_time": 1681915649,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464455,
       "num": 464455,
       "word": "厦门暴雨",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1681653327,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449285,
+      "num": 449285,
+      "word": "180以下的男演员能不能拍偶像剧",
+      "onboard_time": 1681915050,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 449007,
@@ -2099,6 +2139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 405880,
+      "num": 405880,
+      "word": "京东崩了",
+      "onboard_time": 1681914390,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 405439,
       "num": 405439,
       "word": "鬼灭之刃",
@@ -2201,6 +2249,14 @@
       "onboard_time": 1681727189,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 387359,
+      "num": 387359,
+      "word": "还好邪骨不在叶冰裳身上",
+      "onboard_time": 1681914993,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 385011,
@@ -2651,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337190,
+      "num": 337190,
+      "word": "张大大迎宾气球",
+      "onboard_time": 1681915469,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336869,
       "num": 336869,
       "word": "专家建议固定法定假日时间",
@@ -2753,14 +2817,6 @@
       "onboard_time": 1681828052,
       "rank": 28,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 326112,
-      "num": 326112,
-      "word": "京东崩了",
-      "onboard_time": 1681914390,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 325915,
@@ -2945,6 +3001,14 @@
       "onboard_time": 1681651826,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301195,
+      "num": 232274,
+      "word": "山科大老师回应网传北门伤人事件",
+      "onboard_time": 1681916070,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 300940,
@@ -3641,6 +3705,14 @@
       "onboard_time": 1681831709,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225453,
+      "num": 220128,
+      "word": "乐华全员为旗下选手打call",
+      "onboard_time": 1681916130,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 225404,
@@ -4491,6 +4563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192960,
+      "num": 192960,
+      "word": "长空之王预售",
+      "onboard_time": 1681916791,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192902,
       "num": 192902,
       "word": "法考",
@@ -4593,6 +4673,14 @@
       "onboard_time": 1681868486,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189950,
+      "num": 189950,
+      "word": "原来上课偷吃东西那么明显",
+      "onboard_time": 1681916431,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 189789,
@@ -5683,6 +5771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145895,
+      "num": 145895,
+      "word": "一直不谈恋爱能等到更好的人吗",
+      "onboard_time": 1681916670,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145871,
       "num": 107321,
       "word": "玥烬情苏宿命感",
@@ -5963,12 +6059,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 131859,
+      "num": 131859,
+      "word": "柯洁大司马连麦直播",
+      "onboard_time": 1681914993,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131077,
       "num": 136162,
       "word": "这才是真的有效防晒吧",
       "onboard_time": 1681876589,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 129921,
+      "num": 129921,
+      "word": "十几年前妈妈的QQ空间",
+      "onboard_time": 1681916732,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 129726,
@@ -6505,6 +6617,14 @@
       "onboard_time": 1681731088,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 103784,
+      "num": 103784,
+      "word": "我给灌篮高手补张票",
+      "onboard_time": 1681917389,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 102944,

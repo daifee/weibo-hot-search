@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681914804490,
+  "endTime": 1681917502106,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -931,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2384433,
+      "num": 2384433,
+      "word": "千万不要有舔奶盖的习惯",
+      "onboard_time": 1681911989,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2383349,
       "num": 2383349,
       "word": "12306",
@@ -1673,14 +1681,6 @@
       "onboard_time": 1681503313,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1875617,
-      "num": 1875617,
-      "word": "千万不要有舔奶盖的习惯",
-      "onboard_time": 1681911989,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 1869711,
@@ -3155,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1297789,
+      "num": 1297789,
+      "word": "8岁摄影师给易烊千玺拍照",
+      "onboard_time": 1681914812,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1296367,
       "num": 1296367,
       "word": "JDG夺冠",
@@ -3377,6 +3385,14 @@
       "onboard_time": 1680323190,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1220926,
+      "num": 1220926,
+      "word": "河南男子杀害3名亲属后自首",
+      "onboard_time": 1681911089,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1218650,
@@ -4297,14 +4313,6 @@
       "onboard_time": 1681568489,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1001606,
-      "num": 1001606,
-      "word": "河南男子杀害3名亲属后自首",
-      "onboard_time": 1681911089,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1000886,
@@ -5761,6 +5769,14 @@
       "onboard_time": 1680658889,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 834317,
+      "num": 834317,
+      "word": "海清发声支持蒋梦婕",
+      "onboard_time": 1681915952,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 832139,
@@ -8284,7 +8300,7 @@
     },
     {
       "raw_hot": 634613,
-      "num": 361719,
+      "num": 387487,
       "word": "三年前的刘宇宁",
       "onboard_time": 1681910728,
       "rank": 21,
@@ -10104,6 +10120,14 @@
       "word": "满江红第三次延长上映",
       "onboard_time": 1681113929,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 542661,
+      "num": 542661,
+      "word": "花间令 开机",
+      "onboard_time": 1681915533,
+      "rank": 6,
       "category": "影视"
     },
     {
@@ -12075,6 +12099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466566,
+      "num": 466566,
+      "word": "李现白敬亭同框",
+      "onboard_time": 1681915649,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465866,
       "num": 465866,
       "word": "清北学生免费游淄博政策或推迟",
@@ -12681,6 +12713,14 @@
       "onboard_time": 1681273649,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 449285,
+      "num": 449285,
+      "word": "180以下的男演员能不能拍偶像剧",
+      "onboard_time": 1681915050,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 448845,
@@ -14163,6 +14203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 405880,
+      "num": 405880,
+      "word": "京东崩了",
+      "onboard_time": 1681914390,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 405671,
       "num": 405671,
       "word": "张杰身骑白马戏腔",
@@ -14969,6 +15017,14 @@
       "onboard_time": 1680743728,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 387359,
+      "num": 387359,
+      "word": "还好邪骨不在叶冰裳身上",
+      "onboard_time": 1681914993,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 387306,
@@ -17059,6 +17115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 337190,
+      "num": 337190,
+      "word": "张大大迎宾气球",
+      "onboard_time": 1681915469,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 337035,
       "num": 337035,
       "word": "张真源直播",
@@ -17649,14 +17713,6 @@
       "onboard_time": 1680832346,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 326112,
-      "num": 326112,
-      "word": "京东崩了",
-      "onboard_time": 1681914390,
-      "rank": 9,
-      "category": "科技"
     },
     {
       "raw_hot": 325962,
@@ -18841,6 +18897,14 @@
       "onboard_time": 1681198704,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 301195,
+      "num": 232274,
+      "word": "山科大老师回应网传北门伤人事件",
+      "onboard_time": 1681916070,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 300999,
@@ -24137,6 +24201,14 @@
       "onboard_time": 1680706472,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225453,
+      "num": 220128,
+      "word": "乐华全员为旗下选手打call",
+      "onboard_time": 1681916130,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 225404,
@@ -30675,6 +30747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192960,
+      "num": 192960,
+      "word": "长空之王预售",
+      "onboard_time": 1681916791,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192905,
       "num": 192905,
       "word": "杭州四季青部分市场禁止商家直播销售",
@@ -31377,6 +31457,14 @@
       "onboard_time": 1680858090,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189950,
+      "num": 189950,
+      "word": "原来上课偷吃东西那么明显",
+      "onboard_time": 1681916431,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 189939,
@@ -38243,6 +38331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145895,
+      "num": 145895,
+      "word": "一直不谈恋爱能等到更好的人吗",
+      "onboard_time": 1681916670,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145871,
       "num": 107321,
       "word": "玥烬情苏宿命感",
@@ -40011,6 +40107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131859,
+      "num": 131859,
+      "word": "柯洁大司马连麦直播",
+      "onboard_time": 1681914993,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131848,
       "num": 131848,
       "word": "马嘉祺声生不息reaction",
@@ -40209,6 +40313,14 @@
       "onboard_time": 1681121126,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 129921,
+      "num": 129921,
+      "word": "十几年前妈妈的QQ空间",
+      "onboard_time": 1681916732,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 129828,
@@ -42753,6 +42865,14 @@
       "onboard_time": 1681572571,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103784,
+      "num": 103784,
+      "word": "我给灌篮高手补张票",
+      "onboard_time": 1681917389,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 103756,
