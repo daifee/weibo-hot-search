@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681895851989,
+  "endTime": 1681896829195,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1547139,
+      "num": 1058342,
+      "word": "男人真的喜欢女人吗",
+      "onboard_time": 1681887267,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1537387,
       "num": 336335,
       "word": "罗云熙微博小号",
@@ -425,14 +433,6 @@
       "onboard_time": 1681801948,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1480549,
-      "num": 1058342,
-      "word": "男人真的喜欢女人吗",
-      "onboard_time": 1681887267,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 1474414,
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491099,
+      "num": 491099,
+      "word": "泗水",
+      "onboard_time": 1681893692,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489130,
       "num": 324611,
       "word": "大厂为了防厕所摸鱼有多拼",
@@ -1568,6 +1576,14 @@
       "word": "儿子省考面试前父亲默默为其刷皮鞋",
       "onboard_time": 1681867349,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478971,
+      "num": 478971,
+      "word": "济宁一村庄两货车相撞车头瞬间解体",
+      "onboard_time": 1681894946,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1883,14 +1899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409359,
-      "num": 409359,
-      "word": "泗水",
-      "onboard_time": 1681893692,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407283,
       "num": 407283,
       "word": "张艺兴 福建平潭",
@@ -1955,8 +1963,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395615,
-      "num": 237411,
+      "raw_hot": 396063,
+      "num": 271715,
       "word": "徐艺洋不允许对象邀请前任来婚礼",
       "onboard_time": 1681892068,
       "rank": 21,
@@ -2001,6 +2009,14 @@
       "onboard_time": 1681727189,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 388454,
+      "num": 388454,
+      "word": "何超莲婚礼定制婚鞋",
+      "onboard_time": 1681894047,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 385011,
@@ -2051,6 +2067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 381020,
+      "num": 381020,
+      "word": "11岁女孩玩密室逃脱摔成9级伤残",
+      "onboard_time": 1681894826,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380905,
       "num": 380905,
       "word": "湖人战胜灰熊",
@@ -2065,14 +2089,6 @@
       "onboard_time": 1681757293,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380467,
-      "num": 380467,
-      "word": "何超莲婚礼定制婚鞋",
-      "onboard_time": 1681894047,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 378581,
@@ -2113,6 +2129,14 @@
       "onboard_time": 1681826792,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 373892,
+      "num": 256726,
+      "word": "刘诗诗好有气质",
+      "onboard_time": 1681895006,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 373793,
@@ -2347,20 +2371,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 350619,
-      "num": 350619,
-      "word": "济宁一村庄两货车相撞车头瞬间解体",
-      "onboard_time": 1681894946,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349608,
       "num": 349608,
       "word": "尹浩宇中戏考试合格",
       "onboard_time": 1681710026,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348722,
+      "num": 348722,
+      "word": "Ming爆料RNG新中单",
+      "onboard_time": 1681895608,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 345626,
@@ -2393,6 +2417,14 @@
       "onboard_time": 1681828231,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338291,
+      "num": 338291,
+      "word": "秦岚不会跟前任做朋友",
+      "onboard_time": 1681894407,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 336869,
@@ -3011,14 +3043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265347,
-      "num": 265347,
-      "word": "秦岚不会跟前任做朋友",
-      "onboard_time": 1681894407,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263110,
       "num": 263110,
       "word": "王一博票房号召力",
@@ -3171,6 +3195,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240873,
+      "num": 240873,
+      "word": "陈冰追长月烬明吃饭都上头",
+      "onboard_time": 1681895187,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 239753,
+      "num": 239753,
+      "word": "程序员辞职带妈妈锻炼半年瘦20斤",
+      "onboard_time": 1681895129,
+      "rank": 42,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 238558,
       "num": 235790,
       "word": "幼童落水变植物人时隔2个月苏醒",
@@ -3217,6 +3257,14 @@
       "onboard_time": 1681778549,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231035,
+      "num": 231035,
+      "word": "长峰医院附近居民发声",
+      "onboard_time": 1681892604,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229480,
@@ -3427,14 +3475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217102,
-      "num": 217102,
-      "word": "长峰医院附近居民发声",
-      "onboard_time": 1681892604,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216885,
       "num": 175918,
       "word": "这不算躺平吧",
@@ -3491,14 +3531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 213192,
-      "num": 213192,
-      "word": "陈冰追长月烬明吃饭都上头",
-      "onboard_time": 1681895187,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213077,
       "num": 213077,
       "word": "勇士好多失误",
@@ -3537,14 +3569,6 @@
       "onboard_time": 1681881808,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 209774,
-      "num": 209774,
-      "word": "刘诗诗好有气质",
-      "onboard_time": 1681895006,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 209741,
@@ -3907,12 +3931,12 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 199758,
-      "num": 199758,
-      "word": "Ming爆料RNG新中单",
-      "onboard_time": 1681895608,
-      "rank": 27,
-      "category": "游戏"
+      "raw_hot": 199453,
+      "num": 199453,
+      "word": "虞书欣首尔旅游vlog",
+      "onboard_time": 1681895968,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 198594,
@@ -4331,6 +4355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 186828,
+      "num": 186828,
+      "word": "原来以前的五一是七天假",
+      "onboard_time": 1681896089,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186640,
       "num": 186640,
       "word": "当被e人包围是什么体验",
@@ -4425,14 +4457,6 @@
       "onboard_time": 1681779211,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 183797,
-      "num": 183797,
-      "word": "11岁女孩玩密室逃脱摔成9级伤残",
-      "onboard_time": 1681894826,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183215,
@@ -4585,6 +4609,14 @@
       "onboard_time": 1681737026,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175590,
+      "num": 175590,
+      "word": "离职前还会认真工作吗",
+      "onboard_time": 1681893386,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 174313,
@@ -5435,14 +5467,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 134928,
-      "num": 134928,
-      "word": "离职前还会认真工作吗",
-      "onboard_time": 1681893386,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133778,
       "num": 133778,
       "word": "他好像跟他的肌肉很熟",
@@ -5457,14 +5481,6 @@
       "onboard_time": 1681737867,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133680,
-      "num": 133680,
-      "word": "程序员辞职带妈妈锻炼半年瘦20斤",
-      "onboard_time": 1681895129,
-      "rank": 42,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 133059,
@@ -5571,6 +5587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127928,
+      "num": 127928,
+      "word": "微信朋友圈上线11年了",
+      "onboard_time": 1681895788,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 127804,
       "num": 127804,
       "word": "长空之王开预售",
@@ -5585,6 +5609,14 @@
       "onboard_time": 1681884329,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127606,
+      "num": 127606,
+      "word": "对男爱豆的身高应该有要求吗",
+      "onboard_time": 1681896089,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 127424,
@@ -5771,6 +5803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 116934,
+      "num": 116934,
+      "word": "张韶涵演唱会连宣13场",
+      "onboard_time": 1681896566,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116809,
       "num": 116809,
       "word": "公诉精英或将5月上线",
@@ -5793,14 +5833,6 @@
       "onboard_time": 1681719267,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 115468,
-      "num": 115468,
-      "word": "微信朋友圈上线11年了",
-      "onboard_time": 1681895788,
-      "rank": 48,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 115063,
