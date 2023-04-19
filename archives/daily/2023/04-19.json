@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681872231195,
+  "endTime": 1681874312649,
   "band_list": [
     {
       "raw_hot": 2493866,
@@ -19,12 +19,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2028424,
+      "num": 1127678,
+      "word": "北京一医院发生火灾21人死亡",
+      "onboard_time": 1681871786,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1803432,
+      "num": 1803432,
+      "word": "抑郁症女孩凌晨从8楼跳下",
+      "onboard_time": 1681872145,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1766343,
       "num": 1658005,
       "word": "郑渊洁告别书",
       "onboard_time": 1681860141,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1740127,
+      "num": 1740127,
+      "word": "清华爸爸被5岁女儿问懵了",
+      "onboard_time": 1681867947,
+      "rank": 4,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1678087,
@@ -41,14 +65,6 @@
       "onboard_time": 1681832549,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1576402,
-      "num": 1576402,
-      "word": "清华爸爸被5岁女儿问懵了",
-      "onboard_time": 1681867947,
-      "rank": 4,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1344474,
@@ -75,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 946616,
+      "num": 946616,
+      "word": "易烊千玺双开门冰箱",
+      "onboard_time": 1681872686,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 921466,
       "num": 921466,
       "word": "演员宗利群去世",
@@ -83,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 899152,
-      "num": 282806,
+      "raw_hot": 909978,
+      "num": 324304,
       "word": "赌王三太的珍珠戒指",
       "onboard_time": 1681867888,
       "rank": 13,
@@ -99,19 +123,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 728616,
-      "num": 168504,
-      "word": "北京一医院发生火灾21人死亡",
-      "onboard_time": 1681871786,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 698944,
-      "num": 311010,
+      "num": 317987,
       "word": "张颂文素人时期的言论",
       "onboard_time": 1681868308,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 673106,
+      "num": 289428,
+      "word": "何超欣不知道何超莲窦骁结婚",
+      "onboard_time": 1681874306,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -203,20 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403947,
+      "num": 209517,
+      "word": "女子因心情不好扔掉7万元",
+      "onboard_time": 1681873466,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396810,
+      "num": 221216,
+      "word": "男子辱骂捉弄女骑手惹怒派出所所长",
+      "onboard_time": 1681870224,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381971,
       "num": 381971,
       "word": "建议下班回家后马上洗漱",
       "onboard_time": 1681814009,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 378724,
-      "num": 221216,
-      "word": "男子辱骂捉弄女骑手惹怒派出所所长",
-      "onboard_time": 1681870224,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378160,
@@ -244,7 +276,7 @@
     },
     {
       "raw_hot": 367079,
-      "num": 249880,
+      "num": 301184,
       "word": "万一他是真的喜欢王宝强呢",
       "onboard_time": 1681868726,
       "rank": 33,
@@ -265,6 +297,14 @@
       "onboard_time": 1681829731,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 354694,
+      "num": 279559,
+      "word": "罗云熙白鹿泼寒节剧照",
+      "onboard_time": 1681873886,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 352226,
@@ -355,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 278612,
+      "num": 278612,
+      "word": "旅泰大熊猫林惠鼻部出血",
+      "onboard_time": 1681870588,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265306,
       "num": 265306,
       "word": "汤唯不知道Q3Q4的意思",
@@ -379,6 +427,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 252085,
+      "num": 203546,
+      "word": "老人绑架4岁孙女勒索女儿50万",
+      "onboard_time": 1681873587,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250757,
       "num": 249977,
       "word": "忽然发现了上班的意义",
@@ -392,6 +448,14 @@
       "word": "刘亦菲有风剧组聚会合照",
       "onboard_time": 1681830570,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226347,
+      "num": 226347,
+      "word": "张子枫说要让全世界听到我们的声音",
+      "onboard_time": 1681873407,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -409,6 +473,14 @@
       "onboard_time": 1681871906,
       "rank": 17,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 221727,
+      "num": 206352,
+      "word": "淄博烧烤吃了又好像没吃",
+      "onboard_time": 1681873646,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 219966,
@@ -451,12 +523,60 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210090,
+      "num": 210090,
+      "word": "鹿晗动物戒指封面",
+      "onboard_time": 1681873407,
+      "rank": 19,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 206213,
       "num": 206213,
       "word": "LOL前职业选手被警方立案",
       "onboard_time": 1681818387,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205643,
+      "num": 205643,
+      "word": "电影志愿军年轻战士群像",
+      "onboard_time": 1681873407,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205305,
+      "num": 205305,
+      "word": "李晟敏将trot出道",
+      "onboard_time": 1681872626,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204806,
+      "num": 204806,
+      "word": "肖战最新怼脸状态",
+      "onboard_time": 1681873407,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203196,
+      "num": 203196,
+      "word": "王一博长空之王首映现场",
+      "onboard_time": 1681873587,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 203166,
+      "num": 195887,
+      "word": "北京一医院发生火情21人死亡",
+      "onboard_time": 1681874306,
+      "rank": 37,
+      "category": "社会负面"
     },
     {
       "raw_hot": 201849,
@@ -467,6 +587,38 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198120,
+      "num": 207278,
+      "word": "奔跑吧在拍一种很新的宣传片",
+      "onboard_time": 1681873466,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 197787,
+      "num": 204609,
+      "word": "快船vs太阳",
+      "onboard_time": 1681873587,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193847,
+      "num": 204028,
+      "word": "朱一龙新电影海报",
+      "onboard_time": 1681873407,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193572,
+      "num": 180068,
+      "word": "北京长峰医院",
+      "onboard_time": 1681874306,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193394,
       "num": 193394,
       "word": "陈凯歌新片志愿军官宣",
@@ -475,12 +627,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193349,
-      "num": 193349,
-      "word": "旅泰大熊猫林惠鼻部出血",
-      "onboard_time": 1681870588,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 190467,
+      "num": 208180,
+      "word": "多个皮皮鲁近似商标申请被驳回",
+      "onboard_time": 1681873407,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 190179,
@@ -489,6 +641,14 @@
       "onboard_time": 1681868486,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189789,
+      "num": 203691,
+      "word": "长峰医院火灾中失联患者多为老人",
+      "onboard_time": 1681873526,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186878,
@@ -507,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179178,
+      "num": 179178,
+      "word": "小猫被帅哥亲了也会害羞",
+      "onboard_time": 1681871726,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179108,
       "num": 179108,
       "word": "阿信说五月之约五月天没有忘记",
@@ -521,6 +689,14 @@
       "onboard_time": 1681830869,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169083,
+      "num": 169083,
+      "word": "孙珍妮翩然演技",
+      "onboard_time": 1681869688,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 165120,
@@ -545,6 +721,14 @@
       "onboard_time": 1681863270,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162313,
+      "num": 176555,
+      "word": "是谁还在读报刊类读物",
+      "onboard_time": 1681873646,
+      "rank": 42,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 160788,
@@ -593,14 +777,6 @@
       "onboard_time": 1681861827,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153092,
-      "num": 153092,
-      "word": "孙珍妮翩然演技",
-      "onboard_time": 1681869688,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 151685,
@@ -732,7 +908,7 @@
     },
     {
       "raw_hot": 120591,
-      "num": 120591,
+      "num": 204359,
       "word": "买车喜欢标配还是定制化",
       "onboard_time": 1681872085,
       "rank": 38,
@@ -771,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113613,
-      "num": 113613,
-      "word": "抑郁症女孩凌晨从8楼跳下",
-      "onboard_time": 1681872145,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113463,
       "num": 113463,
       "word": "上海人均存款21.26万",
@@ -795,14 +963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112096,
-      "num": 112096,
-      "word": "小猫被帅哥亲了也会害羞",
-      "onboard_time": 1681871726,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 110179,
       "num": 110179,
       "word": "福建古田地震预警",
@@ -812,7 +972,7 @@
     },
     {
       "raw_hot": 105399,
-      "num": 1188965,
+      "num": 1222475,
       "word": "总台独家影像再揭日寇滔天罪行",
       "onboard_time": 1681824392,
       "rank": 2,

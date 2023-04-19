@@ -1,0 +1,410 @@
+{
+  "runTime": 1681874312649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1803432,
+        "num": 1803432,
+        "word": "抑郁症女孩凌晨从8楼跳下",
+        "onboard_time": 1681872145,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1740127,
+        "num": 1740127,
+        "word": "清华爸爸被5岁女儿问懵了",
+        "onboard_time": 1681867947,
+        "rank": 1,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 54364,
+        "num": 1222475,
+        "word": "总台独家影像再揭日寇滔天罪行",
+        "onboard_time": 1681824392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2028424,
+        "num": 1127678,
+        "word": "北京一医院发生火灾21人死亡",
+        "onboard_time": 1681871786,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018625,
+        "num": 1018625,
+        "word": "群演爆料王鹤棣片场骂人",
+        "onboard_time": 1681860805,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 946616,
+        "num": 946616,
+        "word": "易烊千玺双开门冰箱",
+        "onboard_time": 1681872686,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1148903,
+        "num": 866169,
+        "word": "内马尔女友怀孕",
+        "onboard_time": 1681865730,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1167153,
+        "num": 822107,
+        "word": "郑渊洁告别书",
+        "onboard_time": 1681860141,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408917,
+        "num": 408917,
+        "word": "儿子省考面试前父亲默默为其刷皮鞋",
+        "onboard_time": 1681867349,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329527,
+        "num": 329527,
+        "word": "85花综艺",
+        "onboard_time": 1681869746,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 909978,
+        "num": 324304,
+        "word": "赌王三太的珍珠戒指",
+        "onboard_time": 1681867888,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415892,
+        "num": 317987,
+        "word": "张颂文素人时期的言论",
+        "onboard_time": 1681868308,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355214,
+        "num": 301184,
+        "word": "万一他是真的喜欢王宝强呢",
+        "onboard_time": 1681868726,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 673106,
+        "num": 289428,
+        "word": "何超欣不知道何超莲窦骁结婚",
+        "onboard_time": 1681874306,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354694,
+        "num": 279559,
+        "word": "罗云熙白鹿泼寒节剧照",
+        "onboard_time": 1681873886,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278612,
+        "num": 278612,
+        "word": "旅泰大熊猫林惠鼻部出血",
+        "onboard_time": 1681870588,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269318,
+        "num": 269318,
+        "word": "想让中国人多吃点肉多喝点奶",
+        "onboard_time": 1681867709,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242453,
+        "num": 242453,
+        "word": "演员宗利群去世",
+        "onboard_time": 1681860443,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226347,
+        "num": 226347,
+        "word": "张子枫说要让全世界听到我们的声音",
+        "onboard_time": 1681873407,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210090,
+        "num": 210090,
+        "word": "鹿晗动物戒指封面",
+        "onboard_time": 1681873407,
+        "rank": 19,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 403947,
+        "num": 209517,
+        "word": "女子因心情不好扔掉7万元",
+        "onboard_time": 1681873466,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396810,
+        "num": 208571,
+        "word": "男子辱骂捉弄女骑手惹怒派出所所长",
+        "onboard_time": 1681870224,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190467,
+        "num": 208180,
+        "word": "多个皮皮鲁近似商标申请被驳回",
+        "onboard_time": 1681873407,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198120,
+        "num": 207278,
+        "word": "奔跑吧在拍一种很新的宣传片",
+        "onboard_time": 1681873466,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221727,
+        "num": 206352,
+        "word": "淄博烧烤吃了又好像没吃",
+        "onboard_time": 1681873646,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205643,
+        "num": 205643,
+        "word": "电影志愿军年轻战士群像",
+        "onboard_time": 1681873407,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205305,
+        "num": 205305,
+        "word": "李晟敏将trot出道",
+        "onboard_time": 1681872626,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204806,
+        "num": 204806,
+        "word": "肖战最新怼脸状态",
+        "onboard_time": 1681873407,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197787,
+        "num": 204609,
+        "word": "快船vs太阳",
+        "onboard_time": 1681873587,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111799,
+        "num": 204359,
+        "word": "买车喜欢标配还是定制化",
+        "onboard_time": 1681872085,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197168,
+        "num": 204281,
+        "word": "王嘉尔回复评论区",
+        "onboard_time": 1681867768,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193847,
+        "num": 204028,
+        "word": "朱一龙新电影海报",
+        "onboard_time": 1681873407,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189789,
+        "num": 203691,
+        "word": "长峰医院火灾中失联患者多为老人",
+        "onboard_time": 1681873526,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252085,
+        "num": 203546,
+        "word": "老人绑架4岁孙女勒索女儿50万",
+        "onboard_time": 1681873587,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650998,
+        "num": 203238,
+        "word": "长峰医院火灾现场仍有烧焦味道",
+        "onboard_time": 1681866330,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203196,
+        "num": 203196,
+        "word": "王一博长空之王首映现场",
+        "onboard_time": 1681873587,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202476,
+        "num": 202476,
+        "word": "专家建议休假政策做一下民意调查",
+        "onboard_time": 1681863810,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203166,
+        "num": 195887,
+        "word": "北京一医院发生火情21人死亡",
+        "onboard_time": 1681874306,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 189168,
+        "num": 189168,
+        "word": "三个女生组建小家庭会怎样",
+        "onboard_time": 1681862487,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 180371,
+        "num": 180371,
+        "word": "杨幂综艺",
+        "onboard_time": 1681829911,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193572,
+        "num": 180068,
+        "word": "北京长峰医院",
+        "onboard_time": 1681874306,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179178,
+        "num": 179178,
+        "word": "小猫被帅哥亲了也会害羞",
+        "onboard_time": 1681871726,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162313,
+        "num": 176555,
+        "word": "是谁还在读报刊类读物",
+        "onboard_time": 1681873646,
+        "rank": 42,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 173996,
+        "num": 173996,
+        "word": "要上6天班太累了",
+        "onboard_time": 1681867768,
+        "rank": 43,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 169083,
+        "num": 169083,
+        "word": "孙珍妮翩然演技",
+        "onboard_time": 1681869688,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139793,
+        "num": 139793,
+        "word": "花花 猪八花",
+        "onboard_time": 1681859059,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134780,
+        "num": 139214,
+        "word": "陈凯歌新片志愿军官宣",
+        "onboard_time": 1681871786,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139033,
+        "num": 139033,
+        "word": "RNG",
+        "onboard_time": 1681868127,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137143,
+        "num": 137143,
+        "word": "没有工作后房东比我还着急",
+        "onboard_time": 1681862789,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 128139,
+        "num": 128139,
+        "word": "承受不住压力离职是种失败吗",
+        "onboard_time": 1681868245,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会倒计时100天主题片100%发布#"
+    }
+  }
+}
