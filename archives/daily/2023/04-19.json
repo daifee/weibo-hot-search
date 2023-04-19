@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681900455922,
+  "endTime": 1681902893394,
   "band_list": [
     {
       "raw_hot": 5224491,
@@ -9,6 +9,14 @@
       "onboard_time": 1681882888,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2840635,
+      "num": 2840635,
+      "word": "杭州公布色狼完整姓名合适吗",
+      "onboard_time": 1681897225,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2799061,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1653802,
+      "num": 1653802,
+      "word": "肉体上最疼的一次经历是什么",
+      "onboard_time": 1681896987,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1523562,
       "num": 519991,
       "word": "何超欣不知道何超莲窦骁结婚",
@@ -137,14 +153,6 @@
       "onboard_time": 1681868308,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1335160,
-      "num": 1335160,
-      "word": "杭州公布色狼完整姓名合适吗",
-      "onboard_time": 1681897225,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1127006,
@@ -177,6 +185,14 @@
       "onboard_time": 1681872686,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 927362,
+      "num": 927362,
+      "word": "宋雨琦回应没礼貌不懂分寸",
+      "onboard_time": 1681898966,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 921466,
@@ -275,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 669886,
-      "num": 669886,
-      "word": "肉体上最疼的一次经历是什么",
-      "onboard_time": 1681896987,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 661662,
       "num": 661662,
       "word": "赵丽颖毛晓彤陈都灵簪花女造型",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 656173,
-      "num": 1401433,
+      "num": 1825444,
       "word": "程序员辞职带妈妈锻炼半年瘦20斤",
       "onboard_time": 1681895129,
       "rank": 42,
@@ -547,14 +555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407326,
-      "num": 384107,
-      "word": "宋雨琦回应没礼貌不懂分寸",
-      "onboard_time": 1681898966,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 397380,
       "num": 263176,
       "word": "五条悟",
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 369636,
-      "num": 800928,
+      "num": 993249,
       "word": "高中生扔书包怒砸歹徒救下6岁女童",
       "onboard_time": 1681878453,
       "rank": 45,
@@ -779,6 +779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342815,
+      "num": 294742,
+      "word": "内娱00后颜值有多高",
+      "onboard_time": 1681897588,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331989,
       "num": 322941,
       "word": "刘亦菲纯白西装",
@@ -851,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 313717,
+      "num": 313717,
+      "word": "泗水交通事故致7死10伤",
+      "onboard_time": 1681902147,
+      "rank": 15,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 313551,
       "num": 244026,
       "word": "王嘉尔回复评论区",
@@ -875,20 +891,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310750,
+      "num": 310750,
+      "word": "教育部公布21种本科新增专业",
+      "onboard_time": 1681900886,
+      "rank": 17,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 299896,
       "num": 299896,
       "word": "RNG官宣Angel离队",
       "onboard_time": 1681825831,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294742,
-      "num": 294742,
-      "word": "内娱00后颜值有多高",
-      "onboard_time": 1681897588,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 294040,
@@ -1019,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243830,
+      "num": 243830,
+      "word": "长峰医院附近居民发声",
+      "onboard_time": 1681892604,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238353,
       "num": 238353,
       "word": "李荣浩说井柏然对他不错",
@@ -1041,14 +1065,6 @@
       "onboard_time": 1681890807,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231035,
-      "num": 231035,
-      "word": "长峰医院附近居民发声",
-      "onboard_time": 1681892604,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227075,
@@ -1163,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208349,
+      "num": 208349,
+      "word": "长峰医院被中国非公医协摘牌",
+      "onboard_time": 1681902207,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207945,
       "num": 207945,
       "word": "李晟敏将trot出道",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1681874306,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 203018,
+      "num": 203018,
+      "word": "高铁上可以点外卖",
+      "onboard_time": 1681899685,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 202124,
@@ -1635,14 +1667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 157719,
-      "num": 157719,
-      "word": "高铁上可以点外卖",
-      "onboard_time": 1681899685,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 156404,
       "num": 156404,
       "word": "贾静雯组王佳宇repo",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1681861827,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153611,
+      "num": 153611,
+      "word": "李现活动生图状态",
+      "onboard_time": 1681901546,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151685,
@@ -1779,6 +1811,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138077,
+      "num": 138077,
+      "word": "穿洞洞鞋千万要小心",
+      "onboard_time": 1681902266,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 134450,
+      "num": 930346,
+      "word": "硬核老爸用8年为孤独症儿子造火车",
+      "onboard_time": 1681897826,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132029,
       "num": 131451,
       "word": "澹台烬伤心灭魂钉会退回",
@@ -1859,20 +1907,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125451,
+      "num": 125451,
+      "word": "薛之谦新歌Nothing预告",
+      "onboard_time": 1681901306,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124508,
       "num": 124508,
       "word": "榴莲开了还能换",
       "onboard_time": 1681886666,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 122457,
-      "num": 658762,
-      "word": "硬核老爸用8年为孤独症儿子造火车",
-      "onboard_time": 1681897826,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122362,
@@ -2003,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100865,
+      "num": 100865,
+      "word": "白敬亭说汪新已到站期待再相逢",
+      "onboard_time": 1681900526,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 98521,
       "num": 98521,
       "word": "那不勒斯1比1AC米兰",
@@ -2121,6 +2177,14 @@
       "onboard_time": 1681891467,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40847,
+      "num": 1728533,
+      "word": "人民海军74周岁",
+      "onboard_time": 1681901727,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 38812,
