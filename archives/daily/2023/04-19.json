@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681910476101,
+  "endTime": 1681911201135,
   "band_list": [
     {
       "raw_hot": 5224491,
@@ -25,6 +25,14 @@
       "onboard_time": 1681872145,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2705151,
+      "num": 2705151,
+      "word": "肉体上最疼的一次经历是什么",
+      "onboard_time": 1681896987,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 2688006,
@@ -65,14 +73,6 @@
       "onboard_time": 1681871786,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2242901,
-      "num": 2242901,
-      "word": "肉体上最疼的一次经历是什么",
-      "onboard_time": 1681896987,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 2240403,
@@ -155,20 +155,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1497739,
+      "num": 399292,
+      "word": "山东科技大学",
+      "onboard_time": 1681908749,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1344474,
       "num": 317347,
       "word": "窦骁礼服上绣着何超莲英文名",
       "onboard_time": 1681868308,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1255399,
-      "num": 399292,
-      "word": "山东科技大学",
-      "onboard_time": 1681908749,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1127006,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 908370,
+      "num": 483190,
+      "word": "张一山祝福窦骁何超莲",
+      "onboard_time": 1681903286,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 892631,
       "num": 892631,
       "word": "陈伟霆回应和章若楠炒cp",
@@ -241,14 +249,6 @@
       "onboard_time": 1681874667,
       "rank": 25,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 878692,
-      "num": 483190,
-      "word": "张一山祝福窦骁何超莲",
-      "onboard_time": 1681903286,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 869587,
@@ -1235,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 216650,
+      "num": 182617,
+      "word": "澹台烬主动吻叶夕雾",
+      "onboard_time": 1681910728,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216599,
       "num": 216599,
       "word": "黄子韬被气到说青岛话",
@@ -1296,6 +1304,14 @@
       "word": "李晟敏将trot出道",
       "onboard_time": 1681872626,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 206268,
+      "num": 206268,
+      "word": "三年前的刘宇宁",
+      "onboard_time": 1681910728,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1523,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188115,
+      "num": 188115,
+      "word": "公孙离新皮肤首曝",
+      "onboard_time": 1681909587,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187685,
       "num": 187685,
       "word": "威少",
@@ -1603,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183196,
+      "num": 183196,
+      "word": "长沙一男子为戒酒成功植入戒酒芯片",
+      "onboard_time": 1681907848,
+      "rank": 42,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 182397,
       "num": 182397,
       "word": "杨千嬅演唱会",
@@ -1643,14 +1675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177641,
-      "num": 177641,
-      "word": "公孙离新皮肤首曝",
-      "onboard_time": 1681909587,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 177092,
       "num": 177092,
       "word": "伊藤美诚止步冠军赛16强",
@@ -1665,14 +1689,6 @@
       "onboard_time": 1681893386,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175084,
-      "num": 175084,
-      "word": "长沙一男子为戒酒成功植入戒酒芯片",
-      "onboard_time": 1681907848,
-      "rank": 42,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 174788,
@@ -1979,6 +1995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134489,
+      "num": 134489,
+      "word": "叶夕雾的电车难题",
+      "onboard_time": 1681909948,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134450,
       "num": 930346,
       "word": "硬核老爸用8年为孤独症儿子造火车",
@@ -2057,14 +2081,6 @@
       "onboard_time": 1681812629,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126053,
-      "num": 126053,
-      "word": "叶夕雾的电车难题",
-      "onboard_time": 1681909948,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 125533,
@@ -2203,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107274,
+      "num": 107274,
+      "word": "3D解读北京长峰医院火灾事故",
+      "onboard_time": 1681909706,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105399,
       "num": 1659274,
       "word": "总台独家影像再揭日寇滔天罪行",
@@ -2219,14 +2243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 101110,
-      "num": 101110,
-      "word": "3D解读北京长峰医院火灾事故",
-      "onboard_time": 1681909706,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100865,
       "num": 100865,
       "word": "白敬亭说汪新已到站期待再相逢",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1681859360,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98002,
+      "num": 98002,
+      "word": "阿娇豪门千金黑裙造型",
+      "onboard_time": 1681910847,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 97335,
