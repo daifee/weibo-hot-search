@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681896829195,
+  "endTime": 1681899536475,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -259,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1910450,
+      "num": 1058342,
+      "word": "男人真的喜欢女人吗",
+      "onboard_time": 1681887267,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1904089,
       "num": 1904089,
       "word": "篮协对上海队江苏队作出处罚",
@@ -369,14 +377,6 @@
       "onboard_time": 1681713566,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1547139,
-      "num": 1058342,
-      "word": "男人真的喜欢女人吗",
-      "onboard_time": 1681887267,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 1537387,
@@ -569,6 +569,14 @@
       "onboard_time": 1681728570,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1202757,
+      "num": 1202757,
+      "word": "杭州公布色狼完整姓名合适吗",
+      "onboard_time": 1681897225,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1202341,
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 850088,
-      "num": 431194,
+      "num": 511217,
       "word": "大S短发写真",
       "onboard_time": 1681891826,
       "rank": 30,
@@ -1155,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 633581,
+      "num": 633581,
+      "word": "微信朋友圈上线11年了",
+      "onboard_time": 1681895788,
+      "rank": 48,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 630689,
       "num": 574046,
       "word": "北京丰台区副区长道歉",
@@ -1169,6 +1185,22 @@
       "onboard_time": 1681732346,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 628713,
+      "num": 353363,
+      "word": "肉体上最疼的一次经历是什么",
+      "onboard_time": 1681896987,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 622986,
+      "num": 1304100,
+      "word": "程序员辞职带妈妈锻炼半年瘦20斤",
+      "onboard_time": 1681895129,
+      "rank": 42,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 621980,
@@ -1795,6 +1827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 440678,
+      "num": 415259,
+      "word": "周洁琼回应抢那英话筒",
+      "onboard_time": 1681896927,
+      "rank": 13,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 438480,
       "num": 438480,
       "word": "特斯拉降价",
@@ -1979,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394878,
+      "num": 394878,
+      "word": "11岁女孩玩密室逃脱摔成9级伤残",
+      "onboard_time": 1681894826,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393388,
       "num": 393388,
       "word": "当事女生回应因吃面崩溃",
@@ -2067,14 +2115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 381020,
-      "num": 381020,
-      "word": "11岁女孩玩密室逃脱摔成9级伤残",
-      "onboard_time": 1681894826,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 380905,
       "num": 380905,
       "word": "湖人战胜灰熊",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1681757293,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380517,
+      "num": 380517,
+      "word": "Ming爆料RNG新中单",
+      "onboard_time": 1681895608,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 378581,
@@ -2131,8 +2179,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375199,
+      "num": 375199,
+      "word": "鹿晗被吓跑了",
+      "onboard_time": 1681899147,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373892,
-      "num": 256726,
+      "num": 328714,
       "word": "刘诗诗好有气质",
       "onboard_time": 1681895006,
       "rank": 25,
@@ -2161,6 +2217,14 @@
       "onboard_time": 1681798409,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 372065,
+      "num": 372065,
+      "word": "秦岚不会跟前任做朋友",
+      "onboard_time": 1681894407,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 371698,
@@ -2196,7 +2260,7 @@
     },
     {
       "raw_hot": 369636,
-      "num": 369636,
+      "num": 800928,
       "word": "高中生扔书包怒砸歹徒救下6岁女童",
       "onboard_time": 1681878453,
       "rank": 45,
@@ -2379,12 +2443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348722,
-      "num": 348722,
-      "word": "Ming爆料RNG新中单",
-      "onboard_time": 1681895608,
-      "rank": 27,
-      "category": "游戏"
+      "raw_hot": 349408,
+      "num": 349408,
+      "word": "原来以前的五一是七天假",
+      "onboard_time": 1681896089,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 345626,
@@ -2417,14 +2481,6 @@
       "onboard_time": 1681828231,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 338291,
-      "num": 338291,
-      "word": "秦岚不会跟前任做朋友",
-      "onboard_time": 1681894407,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 336869,
@@ -3043,6 +3099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263387,
+      "num": 263387,
+      "word": "陈冰追长月烬明吃饭都上头",
+      "onboard_time": 1681895187,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263110,
       "num": 263110,
       "word": "王一博票房号召力",
@@ -3195,22 +3259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 240873,
-      "num": 240873,
-      "word": "陈冰追长月烬明吃饭都上头",
-      "onboard_time": 1681895187,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 239753,
-      "num": 239753,
-      "word": "程序员辞职带妈妈锻炼半年瘦20斤",
-      "onboard_time": 1681895129,
-      "rank": 42,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 238558,
       "num": 235790,
       "word": "幼童落水变植物人时隔2个月苏醒",
@@ -3233,6 +3281,14 @@
       "onboard_time": 1681793977,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237457,
+      "num": 237457,
+      "word": "内娱00后颜值有多高",
+      "onboard_time": 1681897588,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234495,
@@ -3403,6 +3459,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 222592,
+      "num": 222592,
+      "word": "虞书欣首尔旅游vlog",
+      "onboard_time": 1681895968,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221986,
       "num": 221986,
       "word": "中国经济没有出现通缩",
@@ -3449,6 +3513,14 @@
       "onboard_time": 1681831590,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218250,
+      "num": 218250,
+      "word": "张韶涵演唱会连宣13场",
+      "onboard_time": 1681896566,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 217988,
@@ -3931,20 +4003,20 @@
       "category": "体育,音乐"
     },
     {
-      "raw_hot": 199453,
-      "num": 199453,
-      "word": "虞书欣首尔旅游vlog",
-      "onboard_time": 1681895968,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198594,
       "num": 198594,
       "word": "男生花钱现状",
       "onboard_time": 1681776268,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197422,
+      "num": 197422,
+      "word": "西班牙真人秀男嘉宾性侵女嘉宾",
+      "onboard_time": 1681898907,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197304,
@@ -4035,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196054,
+      "num": 196054,
+      "word": "林墨做珐琅青蛙翻车",
+      "onboard_time": 1681898427,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195974,
       "num": 195974,
       "word": "青岛音乐节",
@@ -4049,6 +4129,14 @@
       "onboard_time": 1681773379,
       "rank": 23,
       "category": "科技"
+    },
+    {
+      "raw_hot": 195067,
+      "num": 195067,
+      "word": "oner腹肌照",
+      "onboard_time": 1681899089,
+      "rank": 35,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 194439,
@@ -4259,6 +4347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188963,
+      "num": 188963,
+      "word": "宋雨琦回应没礼貌不懂分寸",
+      "onboard_time": 1681898966,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188935,
       "num": 199873,
       "word": "黄之锋被控藐视法庭罪判囚三个月",
@@ -4353,14 +4449,6 @@
       "onboard_time": 1681791574,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 186828,
-      "num": 186828,
-      "word": "原来以前的五一是七天假",
-      "onboard_time": 1681896089,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 186640,
@@ -5075,6 +5163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153975,
+      "num": 153975,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1681899206,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153888,
       "num": 153888,
       "word": "李雪琴称呼宋茜维多利亚女士",
@@ -5587,14 +5683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127928,
-      "num": 127928,
-      "word": "微信朋友圈上线11年了",
-      "onboard_time": 1681895788,
-      "rank": 48,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 127804,
       "num": 127804,
       "word": "长空之王开预售",
@@ -5715,6 +5803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121532,
+      "num": 121532,
+      "word": "DRG对战狼队",
+      "onboard_time": 1681898249,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121145,
       "num": 121145,
       "word": "谈恋爱到什么阶段可以结婚",
@@ -5800,14 +5896,6 @@
       "word": "杨丞琳官宣台北演唱会",
       "onboard_time": 1681887684,
       "rank": 45,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 116934,
-      "num": 116934,
-      "word": "张韶涵演唱会连宣13场",
-      "onboard_time": 1681896566,
-      "rank": 46,
       "category": "音乐"
     },
     {
@@ -6201,6 +6289,14 @@
       "onboard_time": 1681703909,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94070,
+      "num": 648757,
+      "word": "硬核老爸用8年为孤独症儿子造火车",
+      "onboard_time": 1681897826,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93672,
