@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681913785725,
+  "endTime": 1681914804490,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -305,6 +305,14 @@
       "onboard_time": 1681880612,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1875617,
+      "num": 1875617,
+      "word": "千万不要有舔奶盖的习惯",
+      "onboard_time": 1681911989,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1836646,
@@ -699,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1001606,
+      "num": 1001606,
+      "word": "河南男子杀害3名亲属后自首",
+      "onboard_time": 1681911089,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997698,
       "num": 997698,
       "word": "大熊猫暖暖 被打",
@@ -729,14 +745,6 @@
       "onboard_time": 1681809869,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 951425,
-      "num": 951425,
-      "word": "千万不要有舔奶盖的习惯",
-      "onboard_time": 1681911989,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 951121,
@@ -960,14 +968,6 @@
       "word": "男子瘫痪儿子不愿供养将其活活饿死",
       "onboard_time": 1681813889,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 782372,
-      "num": 371513,
-      "word": "河南男子杀害3名亲属后自首",
-      "onboard_time": 1681911089,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -1243,6 +1243,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 634613,
+      "num": 361719,
+      "word": "三年前的刘宇宁",
+      "onboard_time": 1681910728,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 634413,
       "num": 634413,
       "word": "爱奇艺的存货好多",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1681822589,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 612138,
-      "num": 361719,
-      "word": "三年前的刘宇宁",
-      "onboard_time": 1681910728,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 608721,
@@ -1635,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492688,
+      "num": 492688,
+      "word": "陈飞宇周也主演电影声明",
+      "onboard_time": 1681913490,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 491314,
       "num": 491314,
       "word": "卡地亚",
@@ -1811,6 +1819,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 460197,
+      "num": 292361,
+      "word": "阿娇豪门千金黑裙造型",
+      "onboard_time": 1681910847,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 457648,
       "num": 440518,
       "word": "炫富女住公租房消息不实",
@@ -1953,14 +1969,6 @@
       "onboard_time": 1681879713,
       "rank": 16,
       "category": "科技"
-    },
-    {
-      "raw_hot": 437762,
-      "num": 292123,
-      "word": "阿娇豪门千金黑裙造型",
-      "onboard_time": 1681910847,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 430395,
@@ -2747,6 +2755,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 326112,
+      "num": 326112,
+      "word": "京东崩了",
+      "onboard_time": 1681914390,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 325915,
       "num": 241677,
       "word": "樊振东",
@@ -3259,6 +3275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267221,
+      "num": 267221,
+      "word": "公孙离新皮肤首曝",
+      "onboard_time": 1681909587,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 265350,
       "num": 265350,
       "word": "姜涛曾参加快乐男声",
@@ -3395,14 +3419,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 249575,
-      "num": 249575,
-      "word": "公孙离新皮肤首曝",
-      "onboard_time": 1681909587,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 247210,
       "num": 247210,
       "word": "无名最终票房",
@@ -3465,14 +3481,6 @@
       "onboard_time": 1681819406,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239362,
-      "num": 239362,
-      "word": "陈飞宇周也主演电影声明",
-      "onboard_time": 1681913490,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 238558,
@@ -3585,6 +3593,14 @@
       "onboard_time": 1681720047,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227559,
+      "num": 227559,
+      "word": "马龙高球扣杀帅到我了",
+      "onboard_time": 1681913851,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 227300,
@@ -3769,6 +3785,14 @@
       "onboard_time": 1681726165,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216815,
+      "num": 216815,
+      "word": "我国两部试飞员电影都由胡军主演",
+      "onboard_time": 1681913551,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 216599,
@@ -4603,6 +4627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188280,
+      "num": 188280,
+      "word": "龚俊为了角色可以立马增肥",
+      "onboard_time": 1681911567,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188190,
       "num": 188190,
       "word": "长月烬明最新情头",
@@ -5043,6 +5075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170272,
+      "num": 170272,
+      "word": "谭维维乐队版山海",
+      "onboard_time": 1681913788,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 170175,
       "num": 199865,
       "word": "檀健次新专辑试听",
@@ -5145,14 +5185,6 @@
       "onboard_time": 1681631606,
       "rank": 23,
       "category": "科技"
-    },
-    {
-      "raw_hot": 164542,
-      "num": 164542,
-      "word": "龚俊为了角色可以立马增肥",
-      "onboard_time": 1681911567,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 164385,
@@ -5835,6 +5867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138330,
+      "num": 138330,
+      "word": "2023华晨宇火星演唱会",
+      "onboard_time": 1681914629,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138270,
       "num": 138270,
       "word": "周深武大靖ASMR挑战",
@@ -6193,14 +6233,6 @@
       "onboard_time": 1681702949,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119384,
-      "num": 119384,
-      "word": "我国两部试飞员电影都由胡军主演",
-      "onboard_time": 1681913551,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 119373,
@@ -6971,7 +7003,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57144,
+      "raw_hot": 58153,
       "num": 1728533,
       "word": "人民海军74周岁",
       "onboard_time": 1681901727,
