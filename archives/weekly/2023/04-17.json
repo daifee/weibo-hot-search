@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681888571514,
+  "endTime": 1681889622025,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -811,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 843408,
+      "num": 843408,
+      "word": "苹果手机失去市场份额第一",
+      "onboard_time": 1681885348,
+      "rank": 47,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 835795,
       "num": 835795,
       "word": "怨气可以养活邪剑仙了",
@@ -833,6 +841,14 @@
       "onboard_time": 1681744290,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 807283,
+      "num": 807283,
+      "word": "男人真的喜欢女人吗",
+      "onboard_time": 1681887267,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 804634,
@@ -905,14 +921,6 @@
       "onboard_time": 1681784726,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723414,
-      "num": 723414,
-      "word": "苹果手机失去市场份额第一",
-      "onboard_time": 1681885348,
-      "rank": 47,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 723212,
@@ -1747,14 +1755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 426892,
-      "num": 426892,
-      "word": "男人真的喜欢女人吗",
-      "onboard_time": 1681887267,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 426887,
       "num": 426887,
       "word": "王源的香槟三次举杯但没喝",
@@ -1921,6 +1921,14 @@
       "onboard_time": 1681725149,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390911,
+      "num": 390911,
+      "word": "五条悟回归",
+      "onboard_time": 1681884090,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 390865,
@@ -2187,14 +2195,6 @@
       "category": "幽默,音乐"
     },
     {
-      "raw_hot": 360462,
-      "num": 360462,
-      "word": "五条悟回归",
-      "onboard_time": 1681884090,
-      "rank": 27,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 358794,
       "num": 328775,
       "word": "金小妹回应整容",
@@ -2409,6 +2409,14 @@
       "onboard_time": 1681828052,
       "rank": 28,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 325915,
+      "num": 241677,
+      "word": "樊振东",
+      "onboard_time": 1681888285,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 324980,
@@ -3033,6 +3041,14 @@
       "onboard_time": 1681787368,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246463,
+      "num": 246463,
+      "word": "于正买翡翠被骗",
+      "onboard_time": 1681889247,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 246415,
@@ -3995,6 +4011,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 192395,
+      "num": 192395,
+      "word": "这就是有钱人的快乐",
+      "onboard_time": 1681889548,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191889,
       "num": 191889,
       "word": "张颂文小米影像探索家",
@@ -4017,6 +4041,14 @@
       "onboard_time": 1681881750,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191261,
+      "num": 191261,
+      "word": "樊振东逆转晋级16强",
+      "onboard_time": 1681889067,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 191050,
@@ -4081,6 +4113,14 @@
       "onboard_time": 1681733426,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188190,
+      "num": 188190,
+      "word": "长月烬明最新情头",
+      "onboard_time": 1681888173,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 188183,
@@ -4307,6 +4347,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 180742,
+      "num": 180742,
+      "word": "SEVENTEEN的兄弟组合",
+      "onboard_time": 1681887207,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180188,
       "num": 180188,
       "word": "电影检察风云预售开启",
@@ -4459,14 +4507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171131,
-      "num": 171131,
-      "word": "樊振东",
-      "onboard_time": 1681888285,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170886,
       "num": 170886,
       "word": "gidle回归时间",
@@ -4537,6 +4577,14 @@
       "onboard_time": 1681793617,
       "rank": 42,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 166902,
+      "num": 166902,
+      "word": "张予曦苗疆造型",
+      "onboard_time": 1681885527,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166661,
@@ -4617,14 +4665,6 @@
       "onboard_time": 1681885826,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162597,
-      "num": 162597,
-      "word": "SEVENTEEN的兄弟组合",
-      "onboard_time": 1681887207,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 162313,
@@ -5075,14 +5115,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 143841,
-      "num": 143841,
-      "word": "张予曦苗疆造型",
-      "onboard_time": 1681885527,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 143128,
       "num": 143128,
       "word": "付款码隐私保护功能",
@@ -5176,6 +5208,14 @@
       "word": "capper巡演",
       "onboard_time": 1681740148,
       "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 138728,
+      "num": 138728,
+      "word": "蔡徐坤说今年可以多开几场演唱会",
+      "onboard_time": 1681886788,
+      "rank": 43,
       "category": "音乐"
     },
     {
@@ -5273,6 +5313,14 @@
       "onboard_time": 1681876589,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 131033,
+      "num": 131033,
+      "word": "欧阳娜娜迪士尼游玩随拍",
+      "onboard_time": 1681887745,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 129726,
@@ -5419,20 +5467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124508,
+      "num": 124508,
+      "word": "榴莲开了还能换",
+      "onboard_time": 1681886666,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124478,
       "num": 199852,
       "word": "阿云嘎晒金像奖草原一家人合照",
       "onboard_time": 1681715727,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 123068,
-      "num": 123068,
-      "word": "蔡徐坤说今年可以多开几场演唱会",
-      "onboard_time": 1681886788,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 122766,
@@ -5537,14 +5585,6 @@
       "onboard_time": 1681887684,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 117749,
-      "num": 117749,
-      "word": "榴莲开了还能换",
-      "onboard_time": 1681886666,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 116809,
@@ -5745,14 +5785,6 @@
       "onboard_time": 1681784246,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104743,
-      "num": 104743,
-      "word": "欧阳娜娜迪士尼游玩随拍",
-      "onboard_time": 1681887745,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 104159,
@@ -6276,7 +6308,7 @@
     },
     {
       "raw_hot": 52610,
-      "num": 173252,
+      "num": 192626,
       "word": "真正的豪华车哪有平替",
       "onboard_time": 1681887808,
       "rank": 29,
