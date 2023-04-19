@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681871709072,
+  "endTime": 1681872231195,
   "band_list": [
     {
       "raw_hot": 2493866,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1559844,
-      "num": 1559844,
+      "raw_hot": 1576402,
+      "num": 1576402,
       "word": "清华爸爸被5岁女儿问懵了",
       "onboard_time": 1681867947,
       "rank": 4,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728616,
+      "num": 168504,
+      "word": "北京一医院发生火灾21人死亡",
+      "onboard_time": 1681871786,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698944,
       "num": 311010,
       "word": "张颂文素人时期的言论",
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479167,
+      "num": 479167,
+      "word": "儿子省考面试前父亲默默为其刷皮鞋",
+      "onboard_time": 1681867349,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455419,
       "num": 455419,
       "word": "花花 猪八花",
@@ -169,14 +185,6 @@
       "onboard_time": 1681831531,
       "rank": 20,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 430224,
-      "num": 430224,
-      "word": "儿子省考面试前父亲默默为其刷皮鞋",
-      "onboard_time": 1681867349,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 423418,
@@ -203,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 378724,
+      "num": 221216,
+      "word": "男子辱骂捉弄女骑手惹怒派出所所长",
+      "onboard_time": 1681870224,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378160,
       "num": 277281,
       "word": "没有工作后房东比我还着急",
@@ -219,12 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 368820,
-      "num": 368820,
+      "raw_hot": 369707,
+      "num": 369707,
       "word": "85花综艺",
       "onboard_time": 1681869746,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367079,
+      "num": 249880,
+      "word": "万一他是真的喜欢王宝强呢",
+      "onboard_time": 1681868726,
+      "rank": 33,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 366425,
@@ -243,14 +267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 352498,
-      "num": 221216,
-      "word": "男子辱骂捉弄女骑手惹怒派出所所长",
-      "onboard_time": 1681870224,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352226,
       "num": 352226,
       "word": "叶冰裳彻底黑化",
@@ -265,14 +281,6 @@
       "onboard_time": 1681827452,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347513,
-      "num": 249880,
-      "word": "万一他是真的喜欢王宝强呢",
-      "onboard_time": 1681868726,
-      "rank": 33,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 329316,
@@ -387,12 +395,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220889,
+      "raw_hot": 224746,
       "num": 220889,
       "word": "RNG",
       "onboard_time": 1681868127,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222740,
+      "num": 222740,
+      "word": "灌篮高手中配版预告",
+      "onboard_time": 1681871906,
+      "rank": 17,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 219966,
@@ -419,12 +435,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209065,
-      "num": 209065,
+      "raw_hot": 216152,
+      "num": 216152,
       "word": "要上6天班太累了",
       "onboard_time": 1681867768,
       "rank": 30,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 213007,
+      "num": 213007,
+      "word": "马丽范丞丞鞠躬神同步",
+      "onboard_time": 1681871906,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 206213,
@@ -443,12 +467,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193394,
+      "num": 193394,
+      "word": "陈凯歌新片志愿军官宣",
+      "onboard_time": 1681871786,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193349,
+      "num": 193349,
+      "word": "旅泰大熊猫林惠鼻部出血",
+      "onboard_time": 1681870588,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190179,
       "num": 190179,
       "word": "异度神剑3",
       "onboard_time": 1681868486,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 186878,
+      "num": 130832,
+      "word": "易烊千玺新专辑想要尝试不同曲风",
+      "onboard_time": 1681871786,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 180520,
@@ -497,14 +545,6 @@
       "onboard_time": 1681863270,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161018,
-      "num": 161018,
-      "word": "旅泰大熊猫林惠鼻部出血",
-      "onboard_time": 1681870588,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160788,
@@ -691,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120591,
+      "num": 120591,
+      "word": "买车喜欢标配还是定制化",
+      "onboard_time": 1681872085,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120418,
       "num": 120418,
       "word": "李沛恩新剧人设",
@@ -723,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113613,
+      "num": 113613,
+      "word": "抑郁症女孩凌晨从8楼跳下",
+      "onboard_time": 1681872145,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113463,
       "num": 113463,
       "word": "上海人均存款21.26万",
@@ -737,6 +793,14 @@
       "onboard_time": 1681862610,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112096,
+      "num": 112096,
+      "word": "小猫被帅哥亲了也会害羞",
+      "onboard_time": 1681871726,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 110179,

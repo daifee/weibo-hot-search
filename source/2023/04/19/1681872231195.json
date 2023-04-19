@@ -1,0 +1,410 @@
+{
+  "runTime": 1681872231195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1576402,
+        "num": 1576402,
+        "word": "清华爸爸被5岁女儿问懵了",
+        "onboard_time": 1681867947,
+        "rank": 0,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 479167,
+        "num": 479167,
+        "word": "儿子省考面试前父亲默默为其刷皮鞋",
+        "onboard_time": 1681867349,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55152,
+        "num": 391227,
+        "word": "总台独家影像再揭日寇滔天罪行",
+        "onboard_time": 1681824392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1547708,
+        "num": 382290,
+        "word": "郑渊洁告别书",
+        "onboard_time": 1681860141,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137068,
+        "num": 378055,
+        "word": "群演爆料王鹤棣片场骂人",
+        "onboard_time": 1681860805,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369707,
+        "num": 369707,
+        "word": "85花综艺",
+        "onboard_time": 1681869746,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337643,
+        "num": 337643,
+        "word": "想让中国人多吃点肉多喝点奶",
+        "onboard_time": 1681867709,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294529,
+        "num": 294529,
+        "word": "演员宗利群去世",
+        "onboard_time": 1681860443,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291135,
+        "num": 291135,
+        "word": "白鹿成优秀毕业生",
+        "onboard_time": 1681860744,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268579,
+        "num": 268579,
+        "word": "专家建议休假政策做一下民意调查",
+        "onboard_time": 1681863810,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132589,
+        "num": 264630,
+        "word": "内马尔女友怀孕",
+        "onboard_time": 1681865730,
+        "rank": 10,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1015013,
+        "num": 257654,
+        "word": "窦骁礼服上绣着何超莲英文名",
+        "onboard_time": 1681868308,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617657,
+        "num": 254276,
+        "word": "张颂文素人时期的言论",
+        "onboard_time": 1681868308,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367079,
+        "num": 244809,
+        "word": "万一他是真的喜欢王宝强呢",
+        "onboard_time": 1681868726,
+        "rank": 13,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 859654,
+        "num": 241196,
+        "word": "赌王三太的珍珠戒指",
+        "onboard_time": 1681867888,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292604,
+        "num": 229273,
+        "word": "王嘉尔回复评论区",
+        "onboard_time": 1681867768,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229257,
+        "num": 229257,
+        "word": "三个女生组建小家庭会怎样",
+        "onboard_time": 1681862487,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 222740,
+        "num": 222740,
+        "word": "灌篮高手中配版预告",
+        "onboard_time": 1681871906,
+        "rank": 17,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 216934,
+        "num": 216934,
+        "word": "花花 猪八花",
+        "onboard_time": 1681859059,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216152,
+        "num": 216152,
+        "word": "要上6天班太累了",
+        "onboard_time": 1681867768,
+        "rank": 19,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 1507142,
+        "num": 215751,
+        "word": "长峰医院火灾现场仍有烧焦味道",
+        "onboard_time": 1681866330,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378724,
+        "num": 215383,
+        "word": "男子辱骂捉弄女骑手惹怒派出所所长",
+        "onboard_time": 1681870224,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224746,
+        "num": 215034,
+        "word": "RNG",
+        "onboard_time": 1681868127,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214046,
+        "num": 214046,
+        "word": "杨幂综艺",
+        "onboard_time": 1681829911,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213007,
+        "num": 213007,
+        "word": "马丽范丞丞鞠躬神同步",
+        "onboard_time": 1681871906,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194396,
+        "num": 194396,
+        "word": "邓超帮女儿扎辫子",
+        "onboard_time": 1681865848,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 193394,
+        "num": 193394,
+        "word": "陈凯歌新片志愿军官宣",
+        "onboard_time": 1681871786,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193349,
+        "num": 193349,
+        "word": "旅泰大熊猫林惠鼻部出血",
+        "onboard_time": 1681870588,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175843,
+        "num": 175843,
+        "word": "没有工作后房东比我还着急",
+        "onboard_time": 1681862789,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 168515,
+        "num": 168515,
+        "word": "广东男子驾驶宝马撞死5人被判死刑",
+        "onboard_time": 1681831531,
+        "rank": 29,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 728616,
+        "num": 168504,
+        "word": "北京一医院发生火灾21人死亡",
+        "onboard_time": 1681871786,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168492,
+        "num": 168492,
+        "word": "陈都灵耳朵红了",
+        "onboard_time": 1681861046,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147687,
+        "num": 147687,
+        "word": "承受不住压力离职是种失败吗",
+        "onboard_time": 1681868245,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151921,
+        "num": 147281,
+        "word": "孙珍妮翩然演技",
+        "onboard_time": 1681869688,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146579,
+        "num": 146579,
+        "word": "C罗锁喉防守染黄",
+        "onboard_time": 1681864770,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137398,
+        "num": 137398,
+        "word": "矢吹奈子本田仁美将出演QueendomPuzzle",
+        "onboard_time": 1681867587,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186878,
+        "num": 130832,
+        "word": "易烊千玺新专辑想要尝试不同曲风",
+        "onboard_time": 1681871786,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121378,
+        "num": 121378,
+        "word": "妈妈喊着靓仔发现是自己仔",
+        "onboard_time": 1681860502,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120591,
+        "num": 120591,
+        "word": "买车喜欢标配还是定制化",
+        "onboard_time": 1681872085,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118933,
+        "num": 118933,
+        "word": "摆摊卖烤肠真能月入过万吗",
+        "onboard_time": 1681861405,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 117505,
+        "num": 117505,
+        "word": "建议下班回家后马上洗漱",
+        "onboard_time": 1681814009,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113613,
+        "num": 113613,
+        "word": "抑郁症女孩凌晨从8楼跳下",
+        "onboard_time": 1681872145,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113458,
+        "num": 113458,
+        "word": "浙BWF896你做的好事藏不住了",
+        "onboard_time": 1681819590,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 112096,
+        "num": 112096,
+        "word": "小猫被帅哥亲了也会害羞",
+        "onboard_time": 1681871726,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111125,
+        "num": 111125,
+        "word": "陈飞宇我在苏州学非遗汇报演讲",
+        "onboard_time": 1681862369,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107110,
+        "num": 107110,
+        "word": "忽然发现了上班的意义",
+        "onboard_time": 1681831649,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102955,
+        "num": 102955,
+        "word": "杭州公开一批色狼行政处罚结果",
+        "onboard_time": 1681826792,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101380,
+        "num": 101380,
+        "word": "山东一地要求公务人员回国后核酸",
+        "onboard_time": 1681835185,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95858,
+        "num": 100160,
+        "word": "阴阳师",
+        "onboard_time": 1681868068,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94270,
+        "num": 99801,
+        "word": "电锯人",
+        "onboard_time": 1681866268,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会倒计时100天主题片100%发布#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681871709072,
+  "endTime": 1681872231195,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -299,8 +299,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1559844,
-      "num": 1559844,
+      "raw_hot": 1576402,
+      "num": 1576402,
       "word": "清华爸爸被5岁女儿问懵了",
       "onboard_time": 1681867947,
       "rank": 4,
@@ -777,6 +777,14 @@
       "onboard_time": 1681676711,
       "rank": 45,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 728616,
+      "num": 168504,
+      "word": "北京一医院发生火灾21人死亡",
+      "onboard_time": 1681871786,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 728527,
@@ -1315,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 479167,
+      "num": 479167,
+      "word": "儿子省考面试前父亲默默为其刷皮鞋",
+      "onboard_time": 1681867349,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477702,
       "num": 477702,
       "word": "郑秀文 我等到花儿也谢了",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1681729649,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430224,
-      "num": 430224,
-      "word": "儿子省考面试前父亲默默为其刷皮鞋",
-      "onboard_time": 1681867349,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426887,
@@ -1739,6 +1747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378724,
+      "num": 221216,
+      "word": "男子辱骂捉弄女骑手惹怒派出所所长",
+      "onboard_time": 1681870224,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378581,
       "num": 378581,
       "word": "库里生涯首次落后",
@@ -1811,8 +1827,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 368820,
-      "num": 368820,
+      "raw_hot": 369707,
+      "num": 369707,
       "word": "85花综艺",
       "onboard_time": 1681869746,
       "rank": 6,
@@ -1825,6 +1841,14 @@
       "onboard_time": 1681686501,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367079,
+      "num": 249880,
+      "word": "万一他是真的喜欢王宝强呢",
+      "onboard_time": 1681868726,
+      "rank": 33,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 366906,
@@ -1939,14 +1963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 352498,
-      "num": 221216,
-      "word": "男子辱骂捉弄女骑手惹怒派出所所长",
-      "onboard_time": 1681870224,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352226,
       "num": 352226,
       "word": "叶冰裳彻底黑化",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1681710026,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347513,
-      "num": 249880,
-      "word": "万一他是真的喜欢王宝强呢",
-      "onboard_time": 1681868726,
-      "rank": 33,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 343291,
@@ -2795,6 +2803,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 224746,
+      "num": 220889,
+      "word": "RNG",
+      "onboard_time": 1681868127,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224699,
       "num": 224699,
       "word": "淄博烧烤后厨有多忙",
@@ -2809,6 +2825,14 @@
       "onboard_time": 1681710686,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 222740,
+      "num": 222740,
+      "word": "灌篮高手中配版预告",
+      "onboard_time": 1681871906,
+      "rank": 17,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 221986,
@@ -2833,14 +2857,6 @@
       "onboard_time": 1681808908,
       "rank": 19,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 220889,
-      "num": 220889,
-      "word": "RNG",
-      "onboard_time": 1681868127,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 219289,
@@ -2899,6 +2915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216152,
+      "num": 216152,
+      "word": "要上6天班太累了",
+      "onboard_time": 1681867768,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 216032,
       "num": 216032,
       "word": "小美人鱼主演地广海报",
@@ -2937,6 +2961,14 @@
       "onboard_time": 1681787247,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213007,
+      "num": 213007,
+      "word": "马丽范丞丞鞠躬神同步",
+      "onboard_time": 1681871906,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 211875,
@@ -2985,14 +3017,6 @@
       "onboard_time": 1681795412,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209065,
-      "num": 209065,
-      "word": "要上6天班太累了",
-      "onboard_time": 1681867768,
-      "rank": 30,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 208866,
@@ -3411,6 +3435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193394,
+      "num": 193394,
+      "word": "陈凯歌新片志愿军官宣",
+      "onboard_time": 1681871786,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193349,
+      "num": 193349,
+      "word": "旅泰大熊猫林惠鼻部出血",
+      "onboard_time": 1681870588,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192902,
       "num": 192902,
       "word": "法考",
@@ -3521,6 +3561,14 @@
       "onboard_time": 1681733847,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186878,
+      "num": 130832,
+      "word": "易烊千玺新专辑想要尝试不同曲风",
+      "onboard_time": 1681871786,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 186846,
@@ -3945,14 +3993,6 @@
       "onboard_time": 1681720525,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161018,
-      "num": 161018,
-      "word": "旅泰大熊猫林惠鼻部出血",
-      "onboard_time": 1681870588,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160900,
@@ -4675,6 +4715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120591,
+      "num": 120591,
+      "word": "买车喜欢标配还是定制化",
+      "onboard_time": 1681872085,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120418,
       "num": 120418,
       "word": "李沛恩新剧人设",
@@ -4763,6 +4811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113613,
+      "num": 113613,
+      "word": "抑郁症女孩凌晨从8楼跳下",
+      "onboard_time": 1681872145,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112904,
       "num": 112904,
       "word": "速写60天挑战赛",
@@ -4793,6 +4849,14 @@
       "onboard_time": 1681659447,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112096,
+      "num": 112096,
+      "word": "小猫被帅哥亲了也会害羞",
+      "onboard_time": 1681871726,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 110750,
