@@ -1,6 +1,6 @@
 {
   "startTime": 1681834773301,
-  "endTime": 1681868923178,
+  "endTime": 1681871709072,
   "band_list": [
     {
       "raw_hot": 2493866,
@@ -16,6 +16,14 @@
       "word": "长峰医院火灾现场仍有烧焦味道",
       "onboard_time": 1681866330,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1766343,
+      "num": 1658005,
+      "word": "郑渊洁告别书",
+      "onboard_time": 1681860141,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -35,12 +43,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1658005,
-      "num": 1658005,
-      "word": "郑渊洁告别书",
-      "onboard_time": 1681860141,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 1559844,
+      "num": 1559844,
+      "word": "清华爸爸被5岁女儿问懵了",
+      "onboard_time": 1681867947,
+      "rank": 4,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1344474,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 899152,
+      "num": 282806,
+      "word": "赌王三太的珍珠戒指",
+      "onboard_time": 1681867888,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869587,
       "num": 869587,
       "word": "山东一地要求公务人员回国后核酸",
@@ -83,36 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 698944,
+      "num": 311010,
+      "word": "张颂文素人时期的言论",
+      "onboard_time": 1681868308,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 638664,
       "num": 638664,
       "word": "专家建议休假政策做一下民意调查",
       "onboard_time": 1681863810,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 608165,
-      "num": 608165,
-      "word": "清华爸爸被5岁女儿问懵了",
-      "onboard_time": 1681867947,
-      "rank": 4,
-      "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 600927,
-      "num": 282806,
-      "word": "赌王三太的珍珠戒指",
-      "onboard_time": 1681867888,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 596656,
-      "num": 311010,
-      "word": "张颂文素人时期的言论",
-      "onboard_time": 1681868308,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 572554,
@@ -171,6 +171,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 430224,
+      "num": 430224,
+      "word": "儿子省考面试前父亲默默为其刷皮鞋",
+      "onboard_time": 1681867349,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423418,
       "num": 423418,
       "word": "赵丽颖古装",
@@ -203,6 +211,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 371537,
+      "num": 371537,
+      "word": "想让中国人多吃点肉多喝点奶",
+      "onboard_time": 1681867709,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368820,
+      "num": 368820,
+      "word": "85花综艺",
+      "onboard_time": 1681869746,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366425,
       "num": 366425,
       "word": "陈飞宇我在苏州学非遗汇报演讲",
@@ -219,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 352498,
+      "num": 221216,
+      "word": "男子辱骂捉弄女骑手惹怒派出所所长",
+      "onboard_time": 1681870224,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352226,
       "num": 352226,
       "word": "叶冰裳彻底黑化",
@@ -233,6 +265,14 @@
       "onboard_time": 1681827452,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347513,
+      "num": 249880,
+      "word": "万一他是真的喜欢王宝强呢",
+      "onboard_time": 1681868726,
+      "rank": 33,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 329316,
@@ -267,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 313551,
+      "num": 244026,
+      "word": "王嘉尔回复评论区",
+      "onboard_time": 1681867768,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299896,
       "num": 299896,
       "word": "RNG官宣Angel离队",
@@ -297,14 +345,6 @@
       "onboard_time": 1681863390,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 270231,
-      "num": 270231,
-      "word": "想让中国人多吃点肉多喝点奶",
-      "onboard_time": 1681867709,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265306,
@@ -347,20 +387,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239702,
-      "num": 239702,
-      "word": "儿子省考面试前父亲默默为其刷皮鞋",
-      "onboard_time": 1681867349,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226394,
-      "num": 226394,
-      "word": "王嘉尔回复评论区",
-      "onboard_time": 1681867768,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 220889,
+      "num": 220889,
+      "word": "RNG",
+      "onboard_time": 1681868127,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 219966,
@@ -379,20 +411,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217662,
-      "num": 217662,
-      "word": "RNG",
-      "onboard_time": 1681868127,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 216340,
       "num": 184384,
       "word": "蛇族的美貌是家族遗传吧",
       "onboard_time": 1681823790,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209065,
+      "num": 209065,
+      "word": "要上6天班太累了",
+      "onboard_time": 1681867768,
+      "rank": 30,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 206213,
@@ -409,14 +441,6 @@
       "onboard_time": 1681861586,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193930,
-      "num": 193930,
-      "word": "要上6天班太累了",
-      "onboard_time": 1681867768,
-      "rank": 30,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 190179,
@@ -451,19 +475,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165492,
-      "num": 165492,
-      "word": "万一他是真的喜欢王宝强呢",
-      "onboard_time": 1681868726,
-      "rank": 33,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 165120,
       "num": 165120,
       "word": "公司取消了所有的调休",
       "onboard_time": 1681809511,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164342,
+      "num": 164342,
+      "word": "承受不住压力离职是种失败吗",
+      "onboard_time": 1681868245,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -473,6 +497,14 @@
       "onboard_time": 1681863270,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161018,
+      "num": 161018,
+      "word": "旅泰大熊猫林惠鼻部出血",
+      "onboard_time": 1681870588,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160788,
@@ -521,6 +553,14 @@
       "onboard_time": 1681861827,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153092,
+      "num": 153092,
+      "word": "孙珍妮翩然演技",
+      "onboard_time": 1681869688,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 151685,
@@ -643,20 +683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123044,
-      "num": 123044,
-      "word": "承受不住压力离职是种失败吗",
-      "onboard_time": 1681868245,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 122362,
       "num": 122362,
       "word": "郭艾伦辽宁队史季后赛得分王",
       "onboard_time": 1681827754,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120418,
+      "num": 120418,
+      "word": "李沛恩新剧人设",
+      "onboard_time": 1681870166,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 119872,
@@ -761,6 +801,14 @@
       "onboard_time": 1681821327,
       "rank": 43,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 86596,
+      "num": 86596,
+      "word": "精神堡垒",
+      "onboard_time": 1681871545,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 86318,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1681871709072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1559844,
+        "num": 1559844,
+        "word": "清华爸爸被5岁女儿问懵了",
+        "onboard_time": 1681867947,
+        "rank": 0,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 430224,
+        "num": 430224,
+        "word": "儿子省考面试前父亲默默为其刷皮鞋",
+        "onboard_time": 1681867349,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64763,
+        "num": 398249,
+        "word": "总台独家影像再揭日寇滔天罪行",
+        "onboard_time": 1681824392,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1766343,
+        "num": 388832,
+        "word": "郑渊洁告别书",
+        "onboard_time": 1681860141,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160779,
+        "num": 382875,
+        "word": "群演爆料王鹤棣片场骂人",
+        "onboard_time": 1681860805,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371537,
+        "num": 371537,
+        "word": "想让中国人多吃点肉多喝点奶",
+        "onboard_time": 1681867709,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368820,
+        "num": 368820,
+        "word": "85花综艺",
+        "onboard_time": 1681869746,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315022,
+        "num": 315022,
+        "word": "演员宗利群去世",
+        "onboard_time": 1681860443,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309634,
+        "num": 309634,
+        "word": "白鹿成优秀毕业生",
+        "onboard_time": 1681860744,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291955,
+        "num": 291955,
+        "word": "专家建议休假政策做一下民意调查",
+        "onboard_time": 1681863810,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103821,
+        "num": 285941,
+        "word": "窦骁礼服上绣着何超莲英文名",
+        "onboard_time": 1681868308,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1076674,
+        "num": 278147,
+        "word": "内马尔女友怀孕",
+        "onboard_time": 1681865730,
+        "rank": 11,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 698944,
+        "num": 272358,
+        "word": "张颂文素人时期的言论",
+        "onboard_time": 1681868308,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899152,
+        "num": 265099,
+        "word": "赌王三太的珍珠戒指",
+        "onboard_time": 1681867888,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347513,
+        "num": 249880,
+        "word": "万一他是真的喜欢王宝强呢",
+        "onboard_time": 1681868726,
+        "rank": 14,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 313551,
+        "num": 244026,
+        "word": "王嘉尔回复评论区",
+        "onboard_time": 1681867768,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239344,
+        "num": 239344,
+        "word": "杨幂综艺",
+        "onboard_time": 1681829911,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238164,
+        "num": 238164,
+        "word": "三个女生组建小家庭会怎样",
+        "onboard_time": 1681862487,
+        "rank": 17,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 230009,
+        "num": 230009,
+        "word": "邓超帮女儿扎辫子",
+        "onboard_time": 1681865848,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 221665,
+        "num": 221665,
+        "word": "花花 猪八花",
+        "onboard_time": 1681859059,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1807831,
+        "num": 221323,
+        "word": "长峰医院火灾现场仍有烧焦味道",
+        "onboard_time": 1681866330,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352498,
+        "num": 221216,
+        "word": "男子辱骂捉弄女骑手惹怒派出所所长",
+        "onboard_time": 1681870224,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220889,
+        "num": 220889,
+        "word": "RNG",
+        "onboard_time": 1681868127,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209065,
+        "num": 209065,
+        "word": "要上6天班太累了",
+        "onboard_time": 1681867768,
+        "rank": 23,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 178469,
+        "num": 178469,
+        "word": "没有工作后房东比我还着急",
+        "onboard_time": 1681862789,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 176288,
+        "num": 176288,
+        "word": "广东男子驾驶宝马撞死5人被判死刑",
+        "onboard_time": 1681831531,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 170704,
+        "num": 170704,
+        "word": "陈都灵耳朵红了",
+        "onboard_time": 1681861046,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164342,
+        "num": 164342,
+        "word": "承受不住压力离职是种失败吗",
+        "onboard_time": 1681868245,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161018,
+        "num": 161018,
+        "word": "旅泰大熊猫林惠鼻部出血",
+        "onboard_time": 1681870588,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153092,
+        "num": 153092,
+        "word": "孙珍妮翩然演技",
+        "onboard_time": 1681869688,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152816,
+        "num": 152816,
+        "word": "C罗锁喉防守染黄",
+        "onboard_time": 1681864770,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136477,
+        "num": 136477,
+        "word": "矢吹奈子本田仁美将出演QueendomPuzzle",
+        "onboard_time": 1681867587,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133587,
+        "num": 133587,
+        "word": "建议下班回家后马上洗漱",
+        "onboard_time": 1681814009,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130454,
+        "num": 130454,
+        "word": "摆摊卖烤肠真能月入过万吗",
+        "onboard_time": 1681861405,
+        "rank": 33,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 129154,
+        "num": 129154,
+        "word": "浙BWF896你做的好事藏不住了",
+        "onboard_time": 1681819590,
+        "rank": 34,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 124832,
+        "num": 124832,
+        "word": "忽然发现了上班的意义",
+        "onboard_time": 1681831649,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123097,
+        "num": 123097,
+        "word": "山东一地要求公务人员回国后核酸",
+        "onboard_time": 1681835185,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121247,
+        "num": 121247,
+        "word": "陈飞宇我在苏州学非遗汇报演讲",
+        "onboard_time": 1681862369,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120418,
+        "num": 120418,
+        "word": "李沛恩新剧人设",
+        "onboard_time": 1681870166,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113631,
+        "num": 113631,
+        "word": "杭州公开一批色狼行政处罚结果",
+        "onboard_time": 1681826792,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112584,
+        "num": 112584,
+        "word": "五一档电影可以买票了",
+        "onboard_time": 1681863390,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106155,
+        "num": 106155,
+        "word": "电锯人",
+        "onboard_time": 1681866268,
+        "rank": 41,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 103537,
+        "num": 103537,
+        "word": "妈妈喊着靓仔发现是自己仔",
+        "onboard_time": 1681860502,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94012,
+        "num": 94012,
+        "word": "阴阳师",
+        "onboard_time": 1681868068,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92200,
+        "num": 92200,
+        "word": "入职了家全是关系户的公司",
+        "onboard_time": 1681831229,
+        "rank": 44,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 90093,
+        "num": 90093,
+        "word": "檀健次王楚然爱情有烟火官宣",
+        "onboard_time": 1681863270,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 88328,
+        "num": 88328,
+        "word": "赵丽颖古装",
+        "onboard_time": 1681832010,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86596,
+        "num": 86596,
+        "word": "精神堡垒",
+        "onboard_time": 1681871545,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86110,
+        "num": 86110,
+        "word": "蛇族的美貌是家族遗传吧",
+        "onboard_time": 1681823790,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82158,
+        "num": 82158,
+        "word": "柳智敏宁艺卓预告照",
+        "onboard_time": 1681864953,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#成都大运会倒计时100天主题片100%发布#"
+    }
+  }
+}

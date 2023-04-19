@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681868923178,
+  "endTime": 1681871709072,
   "band_list": [
     {
       "raw_hot": 5296527,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1766343,
+      "num": 1658005,
+      "word": "郑渊洁告别书",
+      "onboard_time": 1681860141,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1761628,
       "num": 500630,
       "word": "杨幂聚餐",
@@ -275,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1658005,
-      "num": 1658005,
-      "word": "郑渊洁告别书",
-      "onboard_time": 1681860141,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1649607,
       "num": 1649607,
       "word": "蒋胜男 我为什么反对996捍卫888",
@@ -297,6 +297,14 @@
       "onboard_time": 1681713566,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1559844,
+      "num": 1559844,
+      "word": "清华爸爸被5岁女儿问懵了",
+      "onboard_time": 1681867947,
+      "rank": 4,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 1537387,
@@ -643,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 899152,
+      "num": 282806,
+      "word": "赌王三太的珍珠戒指",
+      "onboard_time": 1681867888,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 894114,
       "num": 894114,
       "word": "数名外籍女子晒中国游引出偷渡案",
@@ -819,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698944,
+      "num": 311010,
+      "word": "张颂文素人时期的言论",
+      "onboard_time": 1681868308,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691913,
       "num": 182207,
       "word": "王源 倩碧",
@@ -987,28 +1011,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 608165,
-      "num": 608165,
-      "word": "清华爸爸被5岁女儿问懵了",
-      "onboard_time": 1681867947,
-      "rank": 4,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 607002,
       "num": 389035,
       "word": "赞多肚子",
       "onboard_time": 1681686921,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 600927,
-      "num": 282806,
-      "word": "赌王三太的珍珠戒指",
-      "onboard_time": 1681867888,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 598005,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1681732885,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 596656,
-      "num": 311010,
-      "word": "张颂文素人时期的言论",
-      "onboard_time": 1681868308,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 591163,
@@ -1515,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430224,
+      "num": 430224,
+      "word": "儿子省考面试前父亲默默为其刷皮鞋",
+      "onboard_time": 1681867349,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426887,
       "num": 426887,
       "word": "王源的香槟三次举杯但没喝",
@@ -1787,12 +1795,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371537,
+      "num": 371537,
+      "word": "想让中国人多吃点肉多喝点奶",
+      "onboard_time": 1681867709,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370044,
       "num": 370044,
       "word": "勇士VS国王",
       "onboard_time": 1681784906,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368820,
+      "num": 368820,
+      "word": "85花综艺",
+      "onboard_time": 1681869746,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 368748,
@@ -1915,6 +1939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352498,
+      "num": 221216,
+      "word": "男子辱骂捉弄女骑手惹怒派出所所长",
+      "onboard_time": 1681870224,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352226,
       "num": 352226,
       "word": "叶冰裳彻底黑化",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1681710026,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347513,
+      "num": 249880,
+      "word": "万一他是真的喜欢王宝强呢",
+      "onboard_time": 1681868726,
+      "rank": 33,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 343291,
@@ -2121,6 +2161,14 @@
       "onboard_time": 1681830570,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313551,
+      "num": 244026,
+      "word": "王嘉尔回复评论区",
+      "onboard_time": 1681867768,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 311988,
@@ -2443,14 +2491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270231,
-      "num": 270231,
-      "word": "想让中国人多吃点肉多喝点奶",
-      "onboard_time": 1681867709,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269811,
       "num": 269811,
       "word": "郭帆说流浪地球3明天拍后天上",
@@ -2619,14 +2659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239702,
-      "num": 239702,
-      "word": "儿子省考面试前父亲默默为其刷皮鞋",
-      "onboard_time": 1681867349,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238558,
       "num": 235790,
       "word": "幼童落水变植物人时隔2个月苏醒",
@@ -2747,14 +2779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226394,
-      "num": 226394,
-      "word": "王嘉尔回复评论区",
-      "onboard_time": 1681867768,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225404,
       "num": 225404,
       "word": "灭魂钉需要真心换真心",
@@ -2811,6 +2835,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 220889,
+      "num": 220889,
+      "word": "RNG",
+      "onboard_time": 1681868127,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219289,
       "num": 197897,
       "word": "仰望U8预售价",
@@ -2841,14 +2873,6 @@
       "onboard_time": 1681641927,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217662,
-      "num": 217662,
-      "word": "RNG",
-      "onboard_time": 1681868127,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 217320,
@@ -2961,6 +2985,14 @@
       "onboard_time": 1681795412,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209065,
+      "num": 209065,
+      "word": "要上6天班太累了",
+      "onboard_time": 1681867768,
+      "rank": 30,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 208866,
@@ -3345,14 +3377,6 @@
       "onboard_time": 1681737448,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193930,
-      "num": 193930,
-      "word": "要上6天班太累了",
-      "onboard_time": 1681867768,
-      "rank": 30,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 193523,
@@ -3835,14 +3859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 165492,
-      "num": 165492,
-      "word": "万一他是真的喜欢王宝强呢",
-      "onboard_time": 1681868726,
-      "rank": 33,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 164809,
       "num": 164809,
       "word": "苹果设备不断要求输入AppleID密码",
@@ -3856,6 +3872,14 @@
       "word": "为什么成年人要学会自愈",
       "onboard_time": 1681807528,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164342,
+      "num": 164342,
+      "word": "承受不住压力离职是种失败吗",
+      "onboard_time": 1681868245,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -3921,6 +3945,14 @@
       "onboard_time": 1681720525,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161018,
+      "num": 161018,
+      "word": "旅泰大熊猫林惠鼻部出血",
+      "onboard_time": 1681870588,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160900,
@@ -4073,6 +4105,14 @@
       "onboard_time": 1681797510,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153092,
+      "num": 153092,
+      "word": "孙珍妮翩然演技",
+      "onboard_time": 1681869688,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 152605,
@@ -4603,14 +4643,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 123044,
-      "num": 123044,
-      "word": "承受不住压力离职是种失败吗",
-      "onboard_time": 1681868245,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 122766,
       "num": 122766,
       "word": "澹台烬的一天花絮",
@@ -4641,6 +4673,14 @@
       "onboard_time": 1681828052,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120418,
+      "num": 120418,
+      "word": "李沛恩新剧人设",
+      "onboard_time": 1681870166,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 119872,
@@ -5145,6 +5185,14 @@
       "onboard_time": 1681712846,
       "rank": 41,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 86596,
+      "num": 86596,
+      "word": "精神堡垒",
+      "onboard_time": 1681871545,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 86422,
