@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681983218560,
+  "endTime": 1681985907061,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2350177,
+      "num": 349278,
+      "word": "宝马mini 打人",
+      "onboard_time": 1681981768,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2243382,
       "num": 2243382,
       "word": "ASTRO成员文彬去世",
@@ -113,14 +121,6 @@
       "onboard_time": 1681911989,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1500549,
-      "num": 349278,
-      "word": "宝马mini 打人",
-      "onboard_time": 1681981768,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1385979,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520905,
+      "num": 520905,
+      "word": "起底宝马冰淇淋背后公司",
+      "onboard_time": 1681979549,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 496437,
       "num": 496437,
       "word": "VICTON解散",
@@ -515,14 +523,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 425105,
-      "num": 346124,
-      "word": "起底宝马冰淇淋背后公司",
-      "onboard_time": 1681979549,
-      "rank": 25,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 423568,
       "num": 334348,
       "word": "出嫁后妈妈给了我一栋收租房",
@@ -545,6 +545,14 @@
       "onboard_time": 1681916670,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 416346,
+      "num": 273418,
+      "word": "宝马mini车展冰激凌最低35元一杯",
+      "onboard_time": 1681983929,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 412522,
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355653,
+      "num": 168501,
+      "word": "Luneurs回应宝马mini冰淇淋事件",
+      "onboard_time": 1681975891,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 345869,
       "num": 345869,
       "word": "第五人格",
@@ -672,6 +688,14 @@
       "word": "宋佳自称全演艺界最爱合影的人",
       "onboard_time": 1681957109,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 327430,
+      "num": 263690,
+      "word": "窦骁好像头上顶个水瓶",
+      "onboard_time": 1681983750,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -803,14 +827,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 287532,
-      "num": 168501,
-      "word": "Luneurs回应宝马mini冰淇淋事件",
-      "onboard_time": 1681975891,
-      "rank": 40,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 284102,
       "num": 284102,
       "word": "特斯拉一季度盈利暴跌20%",
@@ -873,6 +889,14 @@
       "onboard_time": 1681953511,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268497,
+      "num": 190600,
+      "word": "杜华想送儿子去德云社",
+      "onboard_time": 1681984709,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 266606,
@@ -963,6 +987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239699,
+      "num": 187792,
+      "word": "HR听完都闭嘴的离职原因",
+      "onboard_time": 1681985068,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 238598,
       "num": 238598,
       "word": "我推的孩子",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1681964252,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224041,
+      "num": 186271,
+      "word": "尹锡悦称台湾问题是全球问题",
+      "onboard_time": 1681984890,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223276,
@@ -1147,6 +1187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 204468,
+      "num": 838491,
+      "word": "消防员用奶茶救下轻生女孩",
+      "onboard_time": 1681973369,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203928,
       "num": 203928,
       "word": "也门首都踩踏造成至少80死220伤",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1681976308,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196185,
+      "num": 184490,
+      "word": "AG对战MTG",
+      "onboard_time": 1681984948,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 195011,
@@ -1451,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173377,
+      "num": 173377,
+      "word": "长月烬明",
+      "onboard_time": 1681985428,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172789,
       "num": 172789,
       "word": "姚琛新歌取名姚琛",
@@ -1481,14 +1545,6 @@
       "onboard_time": 1681964915,
       "rank": 46,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 170720,
-      "num": 237970,
-      "word": "消防员用奶茶救下轻生女孩",
-      "onboard_time": 1681973369,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169187,
@@ -1747,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123208,
+      "num": 494727,
+      "word": "钓鱼小伙救人后换个地方继续钓",
+      "onboard_time": 1681984227,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123166,
       "num": 161553,
       "word": "去迪士尼前的恶补",
@@ -1995,6 +2059,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 36379,
+      "num": 329103,
+      "word": "浙BWF896车主谈意外走红",
+      "onboard_time": 1681985547,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35441,
       "num": 1356691,
       "word": "中国汉字遇上锦绣山河有多惊艳",
@@ -2009,6 +2081,14 @@
       "onboard_time": 1681966834,
       "rank": 14,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 15253,
+      "num": 165125,
+      "word": "书写生态治理的北京答卷",
+      "onboard_time": 1681984227,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14199,
