@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681971754596,
+  "endTime": 1681972563981,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -6475,6 +6475,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 772161,
+      "num": 772161,
+      "word": "工作人员回应宝马mini被指区别对待",
+      "onboard_time": 1681962750,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 771518,
       "num": 771518,
       "word": "柯哀牵手",
@@ -6761,14 +6769,6 @@
       "onboard_time": 1680485609,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 744395,
-      "num": 744395,
-      "word": "工作人员回应宝马mini被指区别对待",
-      "onboard_time": 1681962750,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 742866,
@@ -10155,6 +10155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 554737,
+      "num": 176480,
+      "word": "宝马mini道歉",
+      "onboard_time": 1681972349,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 554728,
       "num": 554728,
       "word": "香港顶流姜涛直拍",
@@ -10896,6 +10904,14 @@
       "word": "谢娜黄丽玲曾可妮乘风破浪上班路透",
       "onboard_time": 1680690152,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 526344,
+      "num": 526344,
+      "word": "如何看待娱乐圈艺人大量接活",
+      "onboard_time": 1681970489,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -16409,14 +16425,6 @@
       "onboard_time": 1681706910,
       "rank": 17,
       "category": "幽默,音乐"
-    },
-    {
-      "raw_hot": 361586,
-      "num": 361586,
-      "word": "如何看待娱乐圈艺人大量接活",
-      "onboard_time": 1681970489,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 361549,
@@ -26459,6 +26467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210391,
+      "num": 210391,
+      "word": "宝马 Luneurs冰淇淋",
+      "onboard_time": 1681971025,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210361,
       "num": 210361,
       "word": "Hero对战LGD",
@@ -28779,6 +28795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202046,
+      "num": 202046,
+      "word": "长峰医院3名老人湿毛巾捂口鼻自救",
+      "onboard_time": 1681966956,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202030,
       "num": 190051,
       "word": "林俊杰出道20周年直播",
@@ -29233,14 +29257,6 @@
       "onboard_time": 1681093407,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 200719,
-      "num": 200719,
-      "word": "长峰医院3名老人湿毛巾捂口鼻自救",
-      "onboard_time": 1681966956,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200701,
@@ -35035,6 +35051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174840,
+      "num": 174840,
+      "word": "月经期间到底能吃啥水果",
+      "onboard_time": 1681971988,
+      "rank": 31,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 174769,
       "num": 174769,
       "word": "于文文电吉他版曹操练习室",
@@ -40035,6 +40059,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 140980,
+      "num": 140980,
+      "word": "庞博谈脱口秀KPI标准",
+      "onboard_time": 1681971627,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140968,
       "num": 140968,
       "word": "华晨宇看到奥特曼变身器的反应",
@@ -40065,14 +40097,6 @@
       "onboard_time": 1681534585,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140681,
-      "num": 140681,
-      "word": "宝马 Luneurs冰淇淋",
-      "onboard_time": 1681971025,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140627,
@@ -40777,6 +40801,14 @@
       "onboard_time": 1680656126,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135461,
+      "num": 135461,
+      "word": "张若昀到底有多爱阳光开朗大男孩",
+      "onboard_time": 1681972109,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 135295,
@@ -41849,14 +41881,6 @@
       "onboard_time": 1680659670,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126662,
-      "num": 126662,
-      "word": "庞博谈脱口秀KPI标准",
-      "onboard_time": 1681971627,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 126632,
@@ -43147,6 +43171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114745,
+      "num": 114745,
+      "word": "汉字为什么叫汉字",
+      "onboard_time": 1681969227,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114422,
       "num": 114422,
       "word": "这屋顶怎么上去的",
@@ -43281,6 +43313,14 @@
       "onboard_time": 1681826911,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112856,
+      "num": 112856,
+      "word": "范丞丞给乔杉易小星安排好吃的好玩的",
+      "onboard_time": 1681969346,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 112734,
@@ -43793,14 +43833,6 @@
       "onboard_time": 1681820307,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106282,
-      "num": 106282,
-      "word": "汉字为什么叫汉字",
-      "onboard_time": 1681969227,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 106145,
@@ -44505,14 +44537,6 @@
       "onboard_time": 1681859360,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98383,
-      "num": 98383,
-      "word": "范丞丞给乔杉易小星安排好吃的好玩的",
-      "onboard_time": 1681969346,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 98298,

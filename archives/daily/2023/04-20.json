@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681971754596,
+  "endTime": 1681972563981,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -211,8 +211,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 744395,
-      "num": 744395,
+      "raw_hot": 772161,
+      "num": 772161,
       "word": "工作人员回应宝马mini被指区别对待",
       "onboard_time": 1681962750,
       "rank": 28,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 554737,
+      "num": 176480,
+      "word": "宝马mini道歉",
+      "onboard_time": 1681972349,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 544011,
       "num": 544011,
       "word": "男子直播打骂奔现女网友被刑拘",
@@ -329,6 +337,14 @@
       "onboard_time": 1681964552,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 526344,
+      "num": 526344,
+      "word": "如何看待娱乐圈艺人大量接活",
+      "onboard_time": 1681970489,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 496437,
@@ -457,14 +473,6 @@
       "onboard_time": 1681950813,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 361586,
-      "num": 361586,
-      "word": "如何看待娱乐圈艺人大量接活",
-      "onboard_time": 1681970489,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 361175,
@@ -835,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210391,
+      "num": 210391,
+      "word": "宝马 Luneurs冰淇淋",
+      "onboard_time": 1681971025,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209035,
       "num": 209035,
       "word": "肖战最新怼脸拍摄大片",
@@ -907,20 +923,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 202046,
+      "num": 202046,
+      "word": "长峰医院3名老人湿毛巾捂口鼻自救",
+      "onboard_time": 1681966956,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200765,
       "num": 200765,
       "word": "云襄传智斗江湖版预告",
       "onboard_time": 1681958009,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200719,
-      "num": 200719,
-      "word": "长峰医院3名老人湿毛巾捂口鼻自救",
-      "onboard_time": 1681966956,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200701,
@@ -1131,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174840,
+      "num": 174840,
+      "word": "月经期间到底能吃啥水果",
+      "onboard_time": 1681971988,
+      "rank": 31,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 174267,
       "num": 233504,
       "word": "西班牙真人秀男嘉宾性侵女嘉宾",
@@ -1283,12 +1307,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140681,
-      "num": 140681,
-      "word": "宝马 Luneurs冰淇淋",
-      "onboard_time": 1681971025,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 140980,
+      "num": 140980,
+      "word": "庞博谈脱口秀KPI标准",
+      "onboard_time": 1681971627,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 140555,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1681943054,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135461,
+      "num": 135461,
+      "word": "张若昀到底有多爱阳光开朗大男孩",
+      "onboard_time": 1681972109,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 134407,
@@ -1395,14 +1427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126662,
-      "num": 126662,
-      "word": "庞博谈脱口秀KPI标准",
-      "onboard_time": 1681971627,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123166,
       "num": 161553,
       "word": "去迪士尼前的恶补",
@@ -1435,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114745,
+      "num": 114745,
+      "word": "汉字为什么叫汉字",
+      "onboard_time": 1681969227,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114398,
       "num": 162103,
       "word": "教育部公布21种本科新增专业",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1681946846,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112856,
+      "num": 112856,
+      "word": "范丞丞给乔杉易小星安排好吃的好玩的",
+      "onboard_time": 1681969346,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 110854,
@@ -1491,28 +1531,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 106282,
-      "num": 106282,
-      "word": "汉字为什么叫汉字",
-      "onboard_time": 1681969227,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103880,
       "num": 103880,
       "word": "钱天一3比1申裕斌",
       "onboard_time": 1681970789,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98383,
-      "num": 98383,
-      "word": "范丞丞给乔杉易小星安排好吃的好玩的",
-      "onboard_time": 1681969346,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 98136,
