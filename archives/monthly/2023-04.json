@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681972563981,
+  "endTime": 1681974969195,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -505,6 +505,14 @@
       "onboard_time": 1680305961,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2887176,
+      "num": 2887176,
+      "word": "宝马mini道歉",
+      "onboard_time": 1681972349,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 2883262,
@@ -5747,6 +5755,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 852341,
+      "num": 852341,
+      "word": "月经期间到底能吃啥水果",
+      "onboard_time": 1681971988,
+      "rank": 31,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 851554,
       "num": 851554,
       "word": "宝马mini展区被指区别对待",
@@ -8891,6 +8907,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 618939,
+      "num": 618939,
+      "word": "如何看待娱乐圈艺人大量接活",
+      "onboard_time": 1681970489,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 617799,
       "num": 617799,
       "word": "刘雅瑟道歉",
@@ -10155,14 +10179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 554737,
-      "num": 176480,
-      "word": "宝马mini道歉",
-      "onboard_time": 1681972349,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 554728,
       "num": 554728,
       "word": "香港顶流姜涛直拍",
@@ -10904,14 +10920,6 @@
       "word": "谢娜黄丽玲曾可妮乘风破浪上班路透",
       "onboard_time": 1680690152,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 526344,
-      "num": 526344,
-      "word": "如何看待娱乐圈艺人大量接活",
-      "onboard_time": 1681970489,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -15739,6 +15747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378719,
+      "num": 378719,
+      "word": "宝马 Luneurs冰淇淋",
+      "onboard_time": 1681971025,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378584,
       "num": 378584,
       "word": "双马一矿通报与孙国友协商进展",
@@ -18243,6 +18259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325518,
+      "num": 210180,
+      "word": "张颂文微博评论区回复",
+      "onboard_time": 1681973248,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325442,
       "num": 325442,
       "word": "龙马精神开分",
@@ -19971,6 +19995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292805,
+      "num": 292805,
+      "word": "宝马mini展台已撤下冰淇淋宣传物料",
+      "onboard_time": 1681973610,
+      "rank": 13,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 292706,
       "num": 292706,
       "word": "玉骨遥或将5月播出",
@@ -19985,6 +20017,14 @@
       "onboard_time": 1680861868,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292158,
+      "num": 292158,
+      "word": "灌篮高手周边卖断货",
+      "onboard_time": 1681972709,
+      "rank": 14,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 291954,
@@ -22305,6 +22345,14 @@
       "onboard_time": 1681041866,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255016,
+      "num": 209572,
+      "word": "易梦玲陈采尼环球影城游玩",
+      "onboard_time": 1681973549,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 254992,
@@ -24963,6 +25011,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 223891,
+      "num": 223891,
+      "word": "张雨绮可以面试下内娱吗",
+      "onboard_time": 1681974629,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223858,
       "num": 245004,
       "word": "Ame 超哥",
@@ -26291,6 +26347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 212063,
+      "num": 212063,
+      "word": "易烊千玺嘉人五月刊封面预告",
+      "onboard_time": 1681973069,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 212018,
       "num": 212018,
       "word": "极限挑战剪影阵容猜测",
@@ -26467,14 +26531,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210391,
-      "num": 210391,
-      "word": "宝马 Luneurs冰淇淋",
-      "onboard_time": 1681971025,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210361,
       "num": 210361,
       "word": "Hero对战LGD",
@@ -26577,6 +26633,14 @@
       "onboard_time": 1680447168,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209918,
+      "num": 193381,
+      "word": "贴吧崩了",
+      "onboard_time": 1681973610,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 209900,
@@ -31443,6 +31507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193277,
+      "num": 193277,
+      "word": "田曦薇说不想和没看过全国大赛的人说话",
+      "onboard_time": 1681974208,
+      "rank": 31,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 193265,
       "num": 190939,
       "word": "吴磊赵今麦侧颜同框路透",
@@ -35051,14 +35123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 174840,
-      "num": 174840,
-      "word": "月经期间到底能吃啥水果",
-      "onboard_time": 1681971988,
-      "rank": 31,
-      "category": "美食,情感"
-    },
-    {
       "raw_hot": 174769,
       "num": 174769,
       "word": "于文文电吉他版曹操练习室",
@@ -37835,6 +37899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155935,
+      "num": 193384,
+      "word": "消防员用奶茶救下轻生女孩",
+      "onboard_time": 1681973369,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155834,
       "num": 155834,
       "word": "想看陈奕迅内地演唱会",
@@ -38177,6 +38249,14 @@
       "onboard_time": 1681945521,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154061,
+      "num": 154061,
+      "word": "老人白发或可逆",
+      "onboard_time": 1681974029,
+      "rank": 38,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 153956,
@@ -39265,6 +39345,14 @@
       "onboard_time": 1680588868,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146696,
+      "num": 146696,
+      "word": "张若昀到底有多爱阳光开朗大男孩",
+      "onboard_time": 1681972109,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 146647,
@@ -40707,6 +40795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136040,
+      "num": 136040,
+      "word": "陈都灵邓为新浪扫楼",
+      "onboard_time": 1681974747,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135993,
       "num": 135993,
       "word": "周雨彤哭戏镜头破碎感",
@@ -40801,14 +40897,6 @@
       "onboard_time": 1680656126,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135461,
-      "num": 135461,
-      "word": "张若昀到底有多爱阳光开朗大男孩",
-      "onboard_time": 1681972109,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 135295,
@@ -43459,6 +43547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110866,
+      "num": 206751,
+      "word": "小米13Ultra值不值得买",
+      "onboard_time": 1681973248,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 110740,
       "num": 396814,
       "word": "仅退款是维护消费者权益",
@@ -43707,6 +43803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107590,
+      "num": 107590,
+      "word": "旅游中最让人反感的行为",
+      "onboard_time": 1681974868,
+      "rank": 48,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 107549,
       "num": 107549,
       "word": "防弹少年团演唱BASTIONS主题曲",
@@ -43897,6 +44001,14 @@
       "onboard_time": 1680563722,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105648,
+      "num": 105648,
+      "word": "你是买书就等于读书的人吗",
+      "onboard_time": 1681972647,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 105551,

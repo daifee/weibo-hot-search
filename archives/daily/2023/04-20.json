@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681972563981,
+  "endTime": 1681974969195,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -25,6 +25,14 @@
       "onboard_time": 1681960228,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2887176,
+      "num": 2887176,
+      "word": "宝马mini道歉",
+      "onboard_time": 1681972349,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 2608617,
@@ -195,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 852341,
+      "num": 852341,
+      "word": "月经期间到底能吃啥水果",
+      "onboard_time": 1681971988,
+      "rank": 31,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 851554,
       "num": 851554,
       "word": "宝马mini展区被指区别对待",
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 618939,
+      "num": 618939,
+      "word": "如何看待娱乐圈艺人大量接活",
+      "onboard_time": 1681970489,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 592846,
       "num": 382977,
       "word": "原来十年前的微信长这样",
@@ -305,14 +329,6 @@
       "onboard_time": 1681950394,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 554737,
-      "num": 176480,
-      "word": "宝马mini道歉",
-      "onboard_time": 1681972349,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 544011,
@@ -337,14 +353,6 @@
       "onboard_time": 1681964552,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 526344,
-      "num": 526344,
-      "word": "如何看待娱乐圈艺人大量接活",
-      "onboard_time": 1681970489,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 496437,
@@ -451,6 +459,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 378719,
+      "num": 378719,
+      "word": "宝马 Luneurs冰淇淋",
+      "onboard_time": 1681971025,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375242,
       "num": 375242,
       "word": "拉塞尔真拉",
@@ -531,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325518,
+      "num": 210180,
+      "word": "张颂文微博评论区回复",
+      "onboard_time": 1681973248,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324013,
       "num": 324013,
       "word": "赵露思对拖鞋的执念有多深",
@@ -593,6 +617,22 @@
       "onboard_time": 1681916732,
       "rank": 12,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 292805,
+      "num": 292805,
+      "word": "宝马mini展台已撤下冰淇淋宣传物料",
+      "onboard_time": 1681973610,
+      "rank": 13,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 292158,
+      "num": 292158,
+      "word": "灌篮高手周边卖断货",
+      "onboard_time": 1681972709,
+      "rank": 14,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 290019,
@@ -715,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255016,
+      "num": 209572,
+      "word": "易梦玲陈采尼环球影城游玩",
+      "onboard_time": 1681973549,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253379,
       "num": 253379,
       "word": "不良人",
@@ -779,6 +827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 223891,
+      "num": 223891,
+      "word": "张雨绮可以面试下内娱吗",
+      "onboard_time": 1681974629,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223276,
       "num": 191451,
       "word": "女子晒衣服不慎10楼跌落悬挂2楼",
@@ -808,6 +864,14 @@
       "word": "张真源校服造型概念视频",
       "onboard_time": 1681964615,
       "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 212063,
+      "num": 212063,
+      "word": "易烊千玺嘉人五月刊封面预告",
+      "onboard_time": 1681973069,
+      "rank": 19,
       "category": "作品衍生,时尚"
     },
     {
@@ -843,12 +907,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 210391,
-      "num": 210391,
-      "word": "宝马 Luneurs冰淇淋",
-      "onboard_time": 1681971025,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 209918,
+      "num": 193381,
+      "word": "贴吧崩了",
+      "onboard_time": 1681973610,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 209035,
@@ -969,6 +1033,14 @@
       "onboard_time": 1681967669,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193277,
+      "num": 193277,
+      "word": "田曦薇说不想和没看过全国大赛的人说话",
+      "onboard_time": 1681974208,
+      "rank": 31,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 193196,
@@ -1147,14 +1219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 174840,
-      "num": 174840,
-      "word": "月经期间到底能吃啥水果",
-      "onboard_time": 1681971988,
-      "rank": 31,
-      "category": "美食,情感"
-    },
-    {
       "raw_hot": 174267,
       "num": 233504,
       "word": "西班牙真人秀男嘉宾性侵女嘉宾",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1681968029,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172061,
+      "num": 172061,
+      "word": "明日方舟",
+      "onboard_time": 1681974689,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 171411,
@@ -1267,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155935,
+      "num": 193384,
+      "word": "消防员用奶茶救下轻生女孩",
+      "onboard_time": 1681973369,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155359,
       "num": 155359,
       "word": "哥斯拉大战金刚2片名",
@@ -1291,12 +1371,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154061,
+      "num": 154061,
+      "word": "老人白发或可逆",
+      "onboard_time": 1681974029,
+      "rank": 38,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 150272,
       "num": 150272,
       "word": "卡地亚",
       "onboard_time": 1681904847,
       "rank": 33,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 146696,
+      "num": 146696,
+      "word": "张若昀到底有多爱阳光开朗大男孩",
+      "onboard_time": 1681972109,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 141997,
@@ -1339,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136040,
+      "num": 136040,
+      "word": "陈都灵邓为新浪扫楼",
+      "onboard_time": 1681974747,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135906,
       "num": 135906,
       "word": "公孙离新皮肤首曝",
@@ -1353,14 +1457,6 @@
       "onboard_time": 1681943054,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135461,
-      "num": 135461,
-      "word": "张若昀到底有多爱阳光开朗大男孩",
-      "onboard_time": 1681972109,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 134407,
@@ -1499,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110866,
+      "num": 206751,
+      "word": "小米13Ultra值不值得买",
+      "onboard_time": 1681973248,
+      "rank": 27,
+      "category": "科技"
+    },
+    {
       "raw_hot": 110854,
       "num": 110854,
       "word": "张杰未live巡回演唱会",
@@ -1523,12 +1627,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 107590,
+      "num": 107590,
+      "word": "旅游中最让人反感的行为",
+      "onboard_time": 1681974868,
+      "rank": 48,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 106940,
       "num": 106940,
       "word": "杨洋起诉百草味侵权案将开庭",
       "onboard_time": 1681926376,
       "rank": 33,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 105648,
+      "num": 105648,
+      "word": "你是买书就等于读书的人吗",
+      "onboard_time": 1681972647,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 103880,
