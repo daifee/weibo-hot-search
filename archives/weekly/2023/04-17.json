@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682003882138,
+  "endTime": 1682004823472,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -41,6 +41,14 @@
       "onboard_time": 1681786946,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 3746183,
+      "num": 3746183,
+      "word": "BoysPlanet成团排名",
+      "onboard_time": 1682002358,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3725417,
@@ -169,6 +177,14 @@
       "onboard_time": 1681921764,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2605311,
+      "num": 2605311,
+      "word": "章昊C位出道",
+      "onboard_time": 1682004751,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 2588805,
@@ -305,14 +321,6 @@
       "onboard_time": 1681866330,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2207152,
-      "num": 2207152,
-      "word": "BoysPlanet成团排名",
-      "onboard_time": 1682002358,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 2202852,
@@ -547,18 +555,18 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1578103,
-      "num": 527849,
-      "word": "香港顶流",
-      "onboard_time": 1681713566,
+      "raw_hot": 1607034,
+      "num": 536525,
+      "word": "窦骁敷着面膜向何超莲求婚",
+      "onboard_time": 1682001934,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1550013,
-      "num": 536525,
-      "word": "窦骁敷着面膜向何超莲求婚",
-      "onboard_time": 1682001934,
+      "raw_hot": 1578103,
+      "num": 527849,
+      "word": "香港顶流",
+      "onboard_time": 1681713566,
       "rank": 10,
       "category": "艺人"
     },
@@ -859,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1182705,
+      "num": 1182705,
+      "word": "BoysPlanet决赛出道夜",
+      "onboard_time": 1681988788,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1159971,
       "num": 1159971,
       "word": "左肩有你 振兴钢厂",
@@ -881,14 +897,6 @@
       "onboard_time": 1681717286,
       "rank": 0,
       "category": "科技,艺人"
-    },
-    {
-      "raw_hot": 1100318,
-      "num": 1100318,
-      "word": "BoysPlanet决赛出道夜",
-      "onboard_time": 1681988788,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 1078914,
@@ -1019,6 +1027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 984392,
+      "num": 984392,
+      "word": "陈都灵采访 会说话有逻辑",
+      "onboard_time": 1682002535,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 974789,
       "num": 974789,
       "word": "宋雨琦回应没礼貌不懂分寸",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1681809869,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 964666,
+      "num": 964666,
+      "word": "韩维辰",
+      "onboard_time": 1682004751,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 958534,
@@ -1116,7 +1140,7 @@
     },
     {
       "raw_hot": 917185,
-      "num": 219151,
+      "num": 264182,
       "word": "宝马mini展台再现冲突",
       "onboard_time": 1681991426,
       "rank": 20,
@@ -1240,6 +1264,14 @@
       "word": "莫文蔚忽然之间全场大合唱",
       "onboard_time": 1681995209,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 855672,
+      "num": 718423,
+      "word": "Ricky第四出道",
+      "onboard_time": 1682003556,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -1467,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 718423,
-      "num": 718423,
-      "word": "Ricky第四出道",
-      "onboard_time": 1682003556,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 715541,
       "num": 715541,
       "word": "优酷说陈都灵好惨一女的",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1681902147,
       "rank": 15,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 707319,
-      "num": 494914,
-      "word": "陈都灵采访 会说话有逻辑",
-      "onboard_time": 1682002535,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 706931,
@@ -2051,8 +2067,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 551456,
-      "num": 184831,
+      "raw_hot": 551547,
+      "num": 430631,
       "word": "金在中悼念文彬",
       "onboard_time": 1682002655,
       "rank": 31,
@@ -2236,7 +2252,7 @@
     },
     {
       "raw_hot": 516410,
-      "num": 276734,
+      "num": 334483,
       "word": "很喜欢但停产了的东西",
       "onboard_time": 1681987048,
       "rank": 21,
@@ -2747,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429048,
+      "num": 429048,
+      "word": "俞敏洪建议董宇辉出国留学",
+      "onboard_time": 1682001033,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426887,
       "num": 426887,
       "word": "王源的香槟三次举杯但没喝",
@@ -2801,6 +2825,14 @@
       "onboard_time": 1681894047,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420196,
+      "num": 420196,
+      "word": "物业回应男童从27层坠楼离世",
+      "onboard_time": 1682002896,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419754,
@@ -3227,6 +3259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 373889,
+      "num": 331238,
+      "word": "沈小婷韩语发言",
+      "onboard_time": 1682003254,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373793,
       "num": 373793,
       "word": "罗志祥曾是姜涛导师",
@@ -3249,6 +3289,14 @@
       "onboard_time": 1681798409,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 372653,
+      "num": 372653,
+      "word": "喜欢和不喜欢的区别很明显",
+      "onboard_time": 1682002896,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 372393,
@@ -3313,14 +3361,6 @@
       "onboard_time": 1681878453,
       "rank": 45,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 369086,
-      "num": 222822,
-      "word": "俞敏洪建议董宇辉出国留学",
-      "onboard_time": 1682001033,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 368748,
@@ -3436,7 +3476,7 @@
     },
     {
       "raw_hot": 361400,
-      "num": 216545,
+      "num": 271706,
       "word": "迪丽热巴新剧过审",
       "onboard_time": 1682001757,
       "rank": 22,
@@ -3625,6 +3665,14 @@
       "onboard_time": 1681897588,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 341947,
+      "num": 341947,
+      "word": "957爆料WBG新教练",
+      "onboard_time": 1682003375,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 341451,
@@ -4907,14 +4955,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 234520,
-      "num": 234520,
-      "word": "物业回应男童从27层坠楼离世",
-      "onboard_time": 1682002896,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234495,
       "num": 234495,
       "word": "快船战胜太阳",
@@ -4985,6 +5025,14 @@
       "onboard_time": 1681990887,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228426,
+      "num": 179160,
+      "word": "澹台烬选择救叶冰裳的原因",
+      "onboard_time": 1682003915,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 228319,
@@ -5273,14 +5321,6 @@
       "onboard_time": 1681744290,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 214301,
-      "num": 184324,
-      "word": "沈小婷韩语发言",
-      "onboard_time": 1682003254,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 214084,
@@ -6715,12 +6755,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182010,
-      "num": 182010,
-      "word": "喜欢和不喜欢的区别很明显",
-      "onboard_time": 1682002896,
-      "rank": 34,
-      "category": "情感,幽默"
+      "raw_hot": 182047,
+      "num": 1641257,
+      "word": "中国航天下一站去哪",
+      "onboard_time": 1682001453,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181897,
@@ -7073,14 +7113,6 @@
       "onboard_time": 1681958608,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169084,
-      "num": 169084,
-      "word": "957爆料WBG新教练",
-      "onboard_time": 1682003375,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 169083,
@@ -7491,14 +7523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155832,
-      "num": 1326146,
-      "word": "中国航天下一站去哪",
-      "onboard_time": 1682001453,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155359,
       "num": 155359,
       "word": "哥斯拉大战金刚2片名",
@@ -7761,6 +7785,14 @@
       "onboard_time": 1681878391,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146707,
+      "num": 146707,
+      "word": "张小斐小心青城山的蚊子",
+      "onboard_time": 1682004812,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 146696,
@@ -8084,7 +8116,7 @@
     },
     {
       "raw_hot": 135895,
-      "num": 214828,
+      "num": 264245,
       "word": "过去一年你读了几本书",
       "onboard_time": 1681999417,
       "rank": 29,
