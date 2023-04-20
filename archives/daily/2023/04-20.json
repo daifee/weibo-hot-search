@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681960684248,
+  "endTime": 1681961618297,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1979067,
+      "raw_hot": 2088372,
       "num": 676253,
       "word": "梅西店铺将台湾列为国家",
       "onboard_time": 1681956628,
@@ -75,6 +75,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1477789,
+      "num": 1477789,
+      "word": "王一博片场意外翻车",
+      "onboard_time": 1681960228,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1227442,
       "num": 1227442,
       "word": "180以下的男演员能不能拍偶像剧",
@@ -99,6 +107,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 991393,
+      "num": 991393,
+      "word": "祝绪丹你是不是有什么难处",
+      "onboard_time": 1681950993,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 968998,
+      "num": 968998,
+      "word": "脱轨",
+      "onboard_time": 1681958428,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 929606,
       "num": 929606,
       "word": "河南男子杀害3名亲属后自首",
@@ -112,22 +136,6 @@
       "word": "电视剧脱轨官宣",
       "onboard_time": 1681957167,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 878780,
-      "num": 878780,
-      "word": "脱轨",
-      "onboard_time": 1681958428,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 852187,
-      "num": 852187,
-      "word": "祝绪丹你是不是有什么难处",
-      "onboard_time": 1681950993,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -155,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 690478,
-      "num": 690478,
+      "raw_hot": 700794,
+      "num": 700794,
       "word": "男子在迪士尼抽烟后逼哭工作人员",
       "onboard_time": 1681958848,
       "rank": 8,
@@ -227,20 +235,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 490747,
-      "num": 490747,
-      "word": "王一博片场意外翻车",
-      "onboard_time": 1681960228,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 483577,
       "num": 483577,
       "word": "云襄传",
       "onboard_time": 1681958487,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 439094,
+      "num": 439094,
+      "word": "男子被陌生人腰上贴膏药后晕倒",
+      "onboard_time": 1681960348,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433486,
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261320,
+      "num": 261320,
+      "word": "市民投诉成都地铁安检用鼻子闻水",
+      "onboard_time": 1681959327,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258134,
       "num": 258134,
       "word": "香蜜扑哧君为罗云熙发声",
@@ -505,6 +521,14 @@
       "onboard_time": 1681917389,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241579,
+      "num": 241579,
+      "word": "教练突然就想退私教费了",
+      "onboard_time": 1681959991,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 238598,
@@ -547,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220801,
-      "num": 220801,
-      "word": "市民投诉成都地铁安检用鼻子闻水",
-      "onboard_time": 1681959327,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 218014,
+      "num": 218014,
+      "word": "韩国艺人",
+      "onboard_time": 1681961428,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 217170,
@@ -707,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189470,
+      "num": 189470,
+      "word": "为你逆光而来开播",
+      "onboard_time": 1681961310,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186917,
       "num": 186917,
       "word": "恋与制作人",
@@ -731,12 +763,12 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 185849,
-      "num": 185849,
-      "word": "教练突然就想退私教费了",
-      "onboard_time": 1681959991,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 183865,
+      "num": 133076,
+      "word": "陈楚生说精神状态稳定欢迎一键查询",
+      "onboard_time": 1681961489,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 182247,
@@ -776,14 +808,6 @@
       "word": "新西兰举办比赛鼓励儿童杀野猫",
       "onboard_time": 1681952555,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175878,
-      "num": 175878,
-      "word": "男子被陌生人腰上贴膏药后晕倒",
-      "onboard_time": 1681960348,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -827,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169187,
+      "num": 169187,
+      "word": "我的阿童木啊",
+      "onboard_time": 1681958608,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167599,
       "num": 167599,
       "word": "京东崩了",
@@ -841,14 +873,6 @@
       "onboard_time": 1681954171,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166292,
-      "num": 166292,
-      "word": "我的阿童木啊",
-      "onboard_time": 1681958608,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 164155,
@@ -931,6 +955,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 137200,
+      "num": 137200,
+      "word": "王栎鑫挣钱致富经",
+      "onboard_time": 1681960950,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135906,
       "num": 135906,
       "word": "公孙离新皮肤首曝",
@@ -945,6 +977,14 @@
       "onboard_time": 1681943054,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 134407,
+      "num": 134407,
+      "word": "00后女生返乡当村医嘶吼式问诊",
+      "onboard_time": 1681960767,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129942,
@@ -1131,8 +1171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65047,
-      "num": 1075855,
+      "raw_hot": 84846,
+      "num": 1560761,
       "word": "卫星视角看祖国大地春耕图",
       "onboard_time": 1681959869,
       "rank": 2,
@@ -1172,6 +1212,9 @@
     },
     {
       "word": "#中加友好始终坚如磐石#"
+    },
+    {
+      "word": "#习近平同加蓬总统举行会谈#"
     }
   ]
 }

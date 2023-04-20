@@ -1,0 +1,410 @@
+{
+  "runTime": 1681961618297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2357255,
+        "num": 2357255,
+        "word": "车银优紧急回国",
+        "onboard_time": 1681951052,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1749027,
+        "num": 1749027,
+        "word": "宝马mini",
+        "onboard_time": 1681955429,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 84846,
+        "num": 1560761,
+        "word": "卫星视角看祖国大地春耕图",
+        "onboard_time": 1681959869,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1477789,
+        "num": 1477789,
+        "word": "王一博片场意外翻车",
+        "onboard_time": 1681960228,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 991393,
+        "num": 991393,
+        "word": "祝绪丹你是不是有什么难处",
+        "onboard_time": 1681950993,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 968998,
+        "num": 968998,
+        "word": "脱轨",
+        "onboard_time": 1681958428,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 764388,
+        "num": 764388,
+        "word": "ASTRO成员文彬去世",
+        "onboard_time": 1681921705,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700794,
+        "num": 700794,
+        "word": "男子在迪士尼抽烟后逼哭工作人员",
+        "onboard_time": 1681958848,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 645714,
+        "num": 645714,
+        "word": "日全环食20日上演",
+        "onboard_time": 1681957407,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561302,
+        "num": 561302,
+        "word": "寻找姓鸭的人",
+        "onboard_time": 1681956809,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2088372,
+        "num": 527633,
+        "word": "梅西店铺将台湾列为国家",
+        "onboard_time": 1681956628,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 611964,
+        "num": 503422,
+        "word": "电视剧脱轨官宣",
+        "onboard_time": 1681957167,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 451348,
+        "num": 451348,
+        "word": "女子入职58天迟到21次不满被辞",
+        "onboard_time": 1681949010,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439094,
+        "num": 439094,
+        "word": "男子被陌生人腰上贴膏药后晕倒",
+        "onboard_time": 1681960348,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406118,
+        "num": 406118,
+        "word": "云襄传",
+        "onboard_time": 1681958487,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 373075,
+        "num": 373075,
+        "word": "山科大北门伤人事件致1死6伤",
+        "onboard_time": 1681947267,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351763,
+        "num": 351763,
+        "word": "肿瘤早期5个报警信号",
+        "onboard_time": 1681955488,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314091,
+        "num": 314091,
+        "word": "拉塞尔真拉",
+        "onboard_time": 1681956990,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309504,
+        "num": 309504,
+        "word": "宋佳自称全演艺界最爱合影的人",
+        "onboard_time": 1681957109,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278692,
+        "num": 278692,
+        "word": "周柏豪门票",
+        "onboard_time": 1681959327,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 677562,
+        "num": 278518,
+        "word": "长沙县发现一具无名女尸",
+        "onboard_time": 1681949132,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 278272,
+        "num": 278272,
+        "word": "文秀雅所属组合取消延期本周行程",
+        "onboard_time": 1681954890,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261320,
+        "num": 261320,
+        "word": "市民投诉成都地铁安检用鼻子闻水",
+        "onboard_time": 1681959327,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241579,
+        "num": 241579,
+        "word": "教练突然就想退私教费了",
+        "onboard_time": 1681959991,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218014,
+        "num": 218014,
+        "word": "韩国艺人",
+        "onboard_time": 1681961428,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207955,
+        "num": 207955,
+        "word": "不良人",
+        "onboard_time": 1681958487,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 194778,
+        "num": 194778,
+        "word": "极限挑战第二期预告片",
+        "onboard_time": 1681958969,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189470,
+        "num": 189470,
+        "word": "为你逆光而来开播",
+        "onboard_time": 1681961310,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180362,
+        "num": 180362,
+        "word": "直播2023首次日食",
+        "onboard_time": 1681957889,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172007,
+        "num": 172007,
+        "word": "灌篮高手彩蛋",
+        "onboard_time": 1681946123,
+        "rank": 29,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 169187,
+        "num": 169187,
+        "word": "我的阿童木啊",
+        "onboard_time": 1681958608,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162585,
+        "num": 162585,
+        "word": "于正 维权的事忙到半夜",
+        "onboard_time": 1681958428,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161047,
+        "num": 161047,
+        "word": "马斯克回应特斯拉全球轮番降价",
+        "onboard_time": 1681955671,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158970,
+        "num": 158970,
+        "word": "VICTON解散",
+        "onboard_time": 1681952614,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147966,
+        "num": 147966,
+        "word": "男子直播打骂奔现女网友被刑拘",
+        "onboard_time": 1681949372,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137200,
+        "num": 137200,
+        "word": "王栎鑫挣钱致富经",
+        "onboard_time": 1681960950,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134977,
+        "num": 134977,
+        "word": "薛之谦新歌中文歌词是郭冠廷翻译的",
+        "onboard_time": 1681960050,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134407,
+        "num": 134407,
+        "word": "00后女生返乡当村医嘶吼式问诊",
+        "onboard_time": 1681960767,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183865,
+        "num": 133076,
+        "word": "陈楚生说精神状态稳定欢迎一键查询",
+        "onboard_time": 1681961489,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130805,
+        "num": 130805,
+        "word": "你能忍受别人经常迟到吗",
+        "onboard_time": 1681958548,
+        "rank": 39,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 132016,
+        "num": 130659,
+        "word": "我给灌篮高手补张票",
+        "onboard_time": 1681917389,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 129517,
+        "num": 129517,
+        "word": "哥斯拉大战金刚2片名",
+        "onboard_time": 1681959509,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127404,
+        "num": 127404,
+        "word": "被小学同学抄袭了人生",
+        "onboard_time": 1681902927,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120085,
+        "num": 120085,
+        "word": "原来这才是工作餐",
+        "onboard_time": 1681954171,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117286,
+        "num": 117286,
+        "word": "暮光之城拍剧版",
+        "onboard_time": 1681950813,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117201,
+        "num": 117201,
+        "word": "迪士尼回应男子抽烟后与工作人员起冲突",
+        "onboard_time": 1681959690,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 116239,
+        "num": 116239,
+        "word": "特斯拉一季度盈利暴跌20%",
+        "onboard_time": 1681952732,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116146,
+        "num": 116146,
+        "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
+        "onboard_time": 1681953511,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80541,
+        "num": 115105,
+        "word": "第五人格",
+        "onboard_time": 1681951290,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78032,
+        "num": 113765,
+        "word": "代号鸢",
+        "onboard_time": 1681953093,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同加蓬总统举行会谈#"
+    }
+  }
+}
