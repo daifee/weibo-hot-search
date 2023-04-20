@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681953641057,
+  "endTime": 1681955089679,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -1035,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 794516,
+      "num": 794516,
+      "word": "祝绪丹你是不是有什么难处",
+      "onboard_time": 1681950993,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 790701,
       "num": 790701,
       "word": "高铁无座也是可以坐的",
@@ -1144,14 +1152,6 @@
       "word": "优酷说陈都灵好惨一女的",
       "onboard_time": 1681809086,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 708759,
-      "num": 708759,
-      "word": "祝绪丹你是不是有什么难处",
-      "onboard_time": 1681950993,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -1619,6 +1619,14 @@
       "category": "艺人,科技"
     },
     {
+      "raw_hot": 544011,
+      "num": 544011,
+      "word": "男子直播打骂奔现女网友被刑拘",
+      "onboard_time": 1681949372,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542661,
       "num": 542661,
       "word": "花间令 开机",
@@ -1771,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496437,
+      "num": 496437,
+      "word": "VICTON解散",
+      "onboard_time": 1681952614,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493218,
       "num": 493218,
       "word": "叶夕雾跳城楼倒计时",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1681860744,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 484892,
-      "num": 484892,
-      "word": "男子直播打骂奔现女网友被刑拘",
-      "onboard_time": 1681949372,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484682,
@@ -1993,14 +2001,6 @@
       "onboard_time": 1681730187,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457517,
-      "num": 387649,
-      "word": "VICTON解散",
-      "onboard_time": 1681952614,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 456240,
@@ -2555,6 +2555,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 372393,
+      "num": 372393,
+      "word": "沙尘暴",
+      "onboard_time": 1681949731,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372065,
       "num": 372065,
       "word": "秦岚不会跟前任做朋友",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1681698024,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332153,
-      "num": 332153,
-      "word": "沙尘暴",
-      "onboard_time": 1681949731,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331989,
@@ -3539,6 +3539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269573,
+      "num": 200739,
+      "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
+      "onboard_time": 1681953511,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269369,
       "num": 295451,
       "word": "小米13ultra价格",
@@ -3771,6 +3779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245820,
+      "num": 245820,
+      "word": "特斯拉一季度盈利暴跌20%",
+      "onboard_time": 1681952732,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 244379,
       "num": 226626,
       "word": "少爷和我还是得合体",
@@ -3803,12 +3819,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238598,
+      "num": 238598,
+      "word": "我推的孩子",
+      "onboard_time": 1681949731,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 238558,
       "num": 235790,
       "word": "幼童落水变植物人时隔2个月苏醒",
       "onboard_time": 1681820007,
       "rank": 34,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 238548,
+      "num": 238548,
+      "word": "Fantagio发公告",
+      "onboard_time": 1681953213,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 238353,
@@ -3849,14 +3881,6 @@
       "onboard_time": 1681890807,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232925,
-      "num": 232925,
-      "word": "我推的孩子",
-      "onboard_time": 1681949731,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 232211,
@@ -4227,6 +4251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211676,
+      "num": 211676,
+      "word": "谷雨该吃啥",
+      "onboard_time": 1681954890,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 211366,
       "num": 211366,
       "word": "代号鸢",
@@ -4483,6 +4515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 203928,
+      "num": 203928,
+      "word": "也门首都踩踏造成至少80死220伤",
+      "onboard_time": 1681950751,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 203660,
       "num": 205376,
       "word": "王一博新电影repo",
@@ -4625,6 +4665,14 @@
       "onboard_time": 1681787969,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 199972,
+      "num": 199972,
+      "word": "难听",
+      "onboard_time": 1681952133,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 199927,
@@ -4891,14 +4939,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 192673,
-      "num": 192673,
-      "word": "特斯拉一季度盈利暴跌20%",
-      "onboard_time": 1681952732,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 192657,
       "num": 192657,
       "word": "长峰医院患者家属已全部对接联系",
@@ -4921,14 +4961,6 @@
       "onboard_time": 1681889548,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 192290,
-      "num": 192290,
-      "word": "也门首都踩踏造成至少80死220伤",
-      "onboard_time": 1681950751,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 191951,
@@ -4977,14 +5009,6 @@
       "onboard_time": 1681889067,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191123,
-      "num": 191123,
-      "word": "Fantagio发公告",
-      "onboard_time": 1681953213,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 191050,
@@ -5129,6 +5153,14 @@
       "onboard_time": 1681733847,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186917,
+      "num": 186917,
+      "word": "恋与制作人",
+      "onboard_time": 1681954050,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 186878,
@@ -5297,6 +5329,14 @@
       "onboard_time": 1681881628,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181814,
+      "num": 181814,
+      "word": "文秀雅所属组合取消延期本周行程",
+      "onboard_time": 1681954890,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 181428,
@@ -5651,14 +5691,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 164716,
-      "num": 171668,
-      "word": "难听",
-      "onboard_time": 1681952133,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 164385,
       "num": 164385,
       "word": "为什么成年人要学会自愈",
@@ -5827,6 +5859,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 160191,
+      "num": 160191,
+      "word": "速度与激情10全新预告",
+      "onboard_time": 1681953630,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160100,
       "num": 160100,
       "word": "崩坏星穹铁道",
@@ -5945,6 +5985,14 @@
       "onboard_time": 1681861827,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154431,
+      "num": 154431,
+      "word": "原来这才是工作餐",
+      "onboard_time": 1681954171,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 154421,
@@ -6249,14 +6297,6 @@
       "onboard_time": 1681899805,
       "rank": 43,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 144768,
-      "num": 144768,
-      "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
-      "onboard_time": 1681953511,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144635,
@@ -6649,14 +6689,6 @@
       "onboard_time": 1681713445,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 125715,
-      "num": 125715,
-      "word": "速度与激情10全新预告",
-      "onboard_time": 1681953630,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 125533,

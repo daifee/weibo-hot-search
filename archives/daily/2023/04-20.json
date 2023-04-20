@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681953641057,
+  "endTime": 1681955089679,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794516,
+      "num": 794516,
+      "word": "祝绪丹你是不是有什么难处",
+      "onboard_time": 1681950993,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 740315,
       "num": 740315,
       "word": "8岁摄影师给易烊千玺拍照",
@@ -105,14 +113,6 @@
       "onboard_time": 1681949010,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 708759,
-      "num": 708759,
-      "word": "祝绪丹你是不是有什么难处",
-      "onboard_time": 1681950993,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 675377,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544011,
+      "num": 544011,
+      "word": "男子直播打骂奔现女网友被刑拘",
+      "onboard_time": 1681949372,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540084,
       "num": 540084,
       "word": "警方通报山科大伤人案",
@@ -147,28 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496437,
+      "num": 496437,
+      "word": "VICTON解散",
+      "onboard_time": 1681952614,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493218,
       "num": 493218,
       "word": "叶夕雾跳城楼倒计时",
       "onboard_time": 1681917568,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 484892,
-      "num": 484892,
-      "word": "男子直播打骂奔现女网友被刑拘",
-      "onboard_time": 1681949372,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457517,
-      "num": 387649,
-      "word": "VICTON解散",
-      "onboard_time": 1681952614,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 431864,
@@ -203,6 +203,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 372393,
+      "num": 372393,
+      "word": "沙尘暴",
+      "onboard_time": 1681949731,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364391,
       "num": 364391,
       "word": "暮光之城拍剧版",
@@ -232,14 +240,6 @@
       "word": "长峰医院是如何搭建三甲医院朋友圈的",
       "onboard_time": 1681920386,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332153,
-      "num": 332153,
-      "word": "沙尘暴",
-      "onboard_time": 1681949731,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269573,
+      "num": 200739,
+      "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
+      "onboard_time": 1681953511,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266606,
       "num": 266606,
       "word": "灌篮高手彩蛋",
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245820,
+      "num": 245820,
+      "word": "特斯拉一季度盈利暴跌20%",
+      "onboard_time": 1681952732,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 244346,
       "num": 244346,
       "word": "我给灌篮高手补张票",
@@ -363,20 +379,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238598,
+      "num": 238598,
+      "word": "我推的孩子",
+      "onboard_time": 1681949731,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 238548,
+      "num": 238548,
+      "word": "Fantagio发公告",
+      "onboard_time": 1681953213,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233594,
       "num": 233594,
       "word": "乐华全员为旗下选手打call",
       "onboard_time": 1681916130,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232925,
-      "num": 232925,
-      "word": "我推的孩子",
-      "onboard_time": 1681949731,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 225092,
@@ -419,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211676,
+      "num": 211676,
+      "word": "谷雨该吃啥",
+      "onboard_time": 1681954890,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 211366,
       "num": 211366,
       "word": "代号鸢",
@@ -443,20 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192673,
-      "num": 192673,
-      "word": "特斯拉一季度盈利暴跌20%",
-      "onboard_time": 1681952732,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 192290,
-      "num": 192290,
+      "raw_hot": 203928,
+      "num": 203928,
       "word": "也门首都踩踏造成至少80死220伤",
       "onboard_time": 1681950751,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 199972,
+      "num": 199972,
+      "word": "难听",
+      "onboard_time": 1681952133,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 191951,
@@ -467,20 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191123,
-      "num": 191123,
-      "word": "Fantagio发公告",
-      "onboard_time": 1681953213,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191017,
       "num": 191017,
       "word": "fml居然是抒情",
       "onboard_time": 1681952555,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186917,
+      "num": 186917,
+      "word": "恋与制作人",
+      "onboard_time": 1681954050,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 186844,
@@ -497,6 +529,14 @@
       "onboard_time": 1681949251,
       "rank": 36,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 181814,
+      "num": 181814,
+      "word": "文秀雅所属组合取消延期本周行程",
+      "onboard_time": 1681954890,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 181106,
@@ -555,14 +595,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 164716,
-      "num": 171668,
-      "word": "难听",
-      "onboard_time": 1681952133,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 162006,
       "num": 162006,
       "word": "湖人vs灰熊",
@@ -587,11 +619,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160191,
+      "num": 160191,
+      "word": "速度与激情10全新预告",
+      "onboard_time": 1681953630,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159480,
       "num": 159480,
       "word": "穿洞洞鞋千万要小心",
       "onboard_time": 1681902266,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154431,
+      "num": 154431,
+      "word": "原来这才是工作餐",
+      "onboard_time": 1681954171,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -617,14 +665,6 @@
       "onboard_time": 1681904847,
       "rank": 33,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 144768,
-      "num": 144768,
-      "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
-      "onboard_time": 1681953511,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135906,
@@ -681,14 +721,6 @@
       "onboard_time": 1681896089,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125715,
-      "num": 125715,
-      "word": "速度与激情10全新预告",
-      "onboard_time": 1681953630,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 121130,
