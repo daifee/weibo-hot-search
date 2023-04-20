@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681965304679,
+  "endTime": 1681967801546,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2411859,
+      "num": 681869,
+      "word": "窦骁 你的名字我的姓氏",
+      "onboard_time": 1681964252,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2393627,
       "num": 735370,
       "word": "梅西店铺将台湾列为国家",
@@ -275,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2121799,
+      "num": 2121799,
+      "word": "宝马mini",
+      "onboard_time": 1681955429,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2061040,
       "num": 2061040,
       "word": "被小学同学抄袭了人生",
@@ -321,14 +337,6 @@
       "onboard_time": 1681811850,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1963234,
-      "num": 1963234,
-      "word": "宝马mini",
-      "onboard_time": 1681955429,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1923323,
@@ -496,14 +504,6 @@
       "word": "罗云熙微博小号",
       "onboard_time": 1681658188,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1536955,
-      "num": 681869,
-      "word": "窦骁 你的名字我的姓氏",
-      "onboard_time": 1681964252,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 1214683,
-      "num": 334396,
+      "num": 346328,
       "word": "长沙县发现一具无名女尸",
       "onboard_time": 1681949132,
       "rank": 20,
@@ -1299,6 +1299,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 688091,
+      "num": 688091,
+      "word": "工作人员回应宝马mini被指区别对待",
+      "onboard_time": 1681962750,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 686559,
       "num": 686559,
       "word": "易烊千玺专辑封面是巩俐",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1681732346,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 629665,
+      "num": 346994,
+      "word": "28岁存款6万的我裸辞了",
+      "onboard_time": 1681965031,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 622212,
@@ -1787,6 +1803,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 534656,
+      "num": 534656,
+      "word": "谭维维问双开门冰箱是什么意思",
+      "onboard_time": 1681964552,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533775,
       "num": 533775,
       "word": "特斯拉回应载孕妇轿车方向盘突然抱死",
@@ -1825,6 +1849,14 @@
       "onboard_time": 1681902207,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526820,
+      "num": 346432,
+      "word": "原来十年前的微信长这样",
+      "onboard_time": 1681965097,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 526055,
@@ -2099,12 +2131,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 463499,
+      "num": 463499,
+      "word": "未定事件簿 雷雨",
+      "onboard_time": 1681963592,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 462677,
       "num": 462677,
       "word": "蔡徐坤打戏",
       "onboard_time": 1681710385,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 461488,
+      "num": 461488,
+      "word": "陈飞宇周也赵小棠同框扫楼",
+      "onboard_time": 1681966536,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 460375,
@@ -2259,6 +2307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 440657,
+      "num": 345947,
+      "word": "办公室一天讲不了10句话",
+      "onboard_time": 1681965097,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 438480,
       "num": 438480,
       "word": "特斯拉降价",
@@ -2408,14 +2464,6 @@
       "word": "哪些人属于胃癌高危人群",
       "onboard_time": 1681782027,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408305,
-      "num": 408305,
-      "word": "工作人员回应宝马mini被指区别对待",
-      "onboard_time": 1681962750,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -3011,6 +3059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 345650,
+      "num": 345650,
+      "word": "甜馨谷雨汉服写真",
+      "onboard_time": 1681964674,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 345626,
       "num": 345626,
       "word": "奔跑吧在拍一种很新的宣传片",
@@ -3089,14 +3145,6 @@
       "onboard_time": 1681793256,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334447,
-      "num": 334447,
-      "word": "未定事件簿 雷雨",
-      "onboard_time": 1681963592,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 334315,
@@ -3225,6 +3273,14 @@
       "onboard_time": 1681884867,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324013,
+      "num": 324013,
+      "word": "赵露思对拖鞋的执念有多深",
+      "onboard_time": 1681965815,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 323249,
@@ -3369,14 +3425,6 @@
       "onboard_time": 1681781246,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311798,
-      "num": 311798,
-      "word": "办公室一天讲不了10句话",
-      "onboard_time": 1681965097,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 311201,
@@ -3907,19 +3955,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261328,
-      "num": 261328,
-      "word": "28岁存款6万的我裸辞了",
-      "onboard_time": 1681965031,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 261320,
       "num": 261320,
       "word": "市民投诉成都地铁安检用鼻子闻水",
       "onboard_time": 1681959327,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260939,
+      "num": 260939,
+      "word": "150天女婴浑身红点确诊高危白血病",
+      "onboard_time": 1681966357,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3947,14 +3995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257787,
-      "num": 257787,
-      "word": "原来十年前的微信长这样",
-      "onboard_time": 1681965097,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 257052,
       "num": 236306,
       "word": "入职了家全是关系户的公司",
@@ -3977,14 +4017,6 @@
       "onboard_time": 1681904248,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253581,
-      "num": 253581,
-      "word": "甜馨谷雨汉服写真",
-      "onboard_time": 1681964674,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 253379,
@@ -4352,14 +4384,6 @@
       "word": "虞书欣首尔旅游vlog",
       "onboard_time": 1681895968,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 222191,
-      "num": 222191,
-      "word": "谭维维问双开门冰箱是什么意思",
-      "onboard_time": 1681964552,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -4923,6 +4947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202105,
+      "num": 202105,
+      "word": "檀健次新专辑dreams上线",
+      "onboard_time": 1681966956,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202074,
       "num": 202074,
       "word": "鹿晗第九座公益球场开始建设",
@@ -4995,6 +5027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200701,
+      "num": 200701,
+      "word": "长沙夜生活爱情预告",
+      "onboard_time": 1681967731,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 200436,
       "num": 200436,
       "word": "国王2比0勇士",
@@ -5009,6 +5049,14 @@
       "onboard_time": 1681824330,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200307,
+      "num": 200307,
+      "word": "长峰医院3名老人湿毛巾捂口鼻自救",
+      "onboard_time": 1681966956,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200180,
@@ -5089,6 +5137,14 @@
       "onboard_time": 1681737808,
       "rank": 26,
       "category": "科技"
+    },
+    {
+      "raw_hot": 197246,
+      "num": 197246,
+      "word": "杨蓉说大侦探永远都会在",
+      "onboard_time": 1681967669,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 197224,
@@ -6355,6 +6411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160144,
+      "num": 160144,
+      "word": "医院墙上的棋局还有这个意思",
+      "onboard_time": 1681966054,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160100,
       "num": 160100,
       "word": "崩坏星穹铁道",
@@ -6841,6 +6905,14 @@
       "onboard_time": 1681703065,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 141997,
+      "num": 141997,
+      "word": "你认为读书需要仪式感吗",
+      "onboard_time": 1681966416,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 141821,
@@ -8345,6 +8417,14 @@
       "onboard_time": 1681937413,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 12683,
+      "num": 461681,
+      "word": "高伟喆教用手机拍大片",
+      "onboard_time": 1681966834,
+      "rank": 14,
+      "category": "社会新闻,影视"
     }
   ],
   "hotgov_list": [
