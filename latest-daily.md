@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/21 00:22:49 ~ 2023/04/21 05:14:54
+本榜单时间：2023/04/21 00:22:49 ~ 2023/04/21 05:33:20
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ BoysPlanet出道团名ZB1（热度：90007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%A5%8E%E5%BD%AC%E7%AC%AC%E4%B8%83%E5%87%BA%E9%81%93%23" target="weibo">
+金奎彬第七出道（热度：32757）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BoysPlanet%E5%86%B3%E8%B5%9B%E5%87%BA%E9%81%93%E5%A4%9C%23" target="weibo">
 BoysPlanet决赛出道夜（热度：29951）
 </a>
@@ -365,12 +371,6 @@ BoysPlanet决赛出道夜（热度：29951）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E6%9D%A5%E7%AC%AC%E5%85%AD%E5%87%BA%E9%81%93%23" target="weibo">
 金泰来第六出道（热度：29237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%A5%8E%E5%BD%AC%E7%AC%AC%E4%B8%83%E5%87%BA%E9%81%93%23" target="weibo">
-金奎彬第七出道（热度：26615）
 </a>
 </li>
 
