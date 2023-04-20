@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682015628870,
+  "endTime": 1682018059822,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -435,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40937,
+      "num": 37523,
+      "word": "放天欢回来杀叶冰裳吧",
+      "onboard_time": 1682014037,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 38768,
       "num": 159172,
       "word": "过去一年你读了几本书",
@@ -443,12 +451,28 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 37523,
-      "num": 37523,
-      "word": "放天欢回来杀叶冰裳吧",
-      "onboard_time": 1682014037,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 36103,
+      "num": 33932,
+      "word": "男子因嫌盛米饭少殴打食堂阿姨",
+      "onboard_time": 1682016254,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29237,
+      "num": 29237,
+      "word": "金泰来第六出道",
+      "onboard_time": 1682003134,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26615,
+      "num": 23546,
+      "word": "金奎彬第七出道",
+      "onboard_time": 1682002115,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
