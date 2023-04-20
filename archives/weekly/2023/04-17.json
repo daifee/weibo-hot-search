@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681968815549,
+  "endTime": 1681971754596,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -163,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2562538,
+      "num": 2562538,
+      "word": "宝马mini",
+      "onboard_time": 1681955429,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2503755,
       "num": 495156,
       "word": "何超盈嫁妆",
@@ -275,14 +283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2129463,
-      "num": 2129463,
-      "word": "宝马mini",
-      "onboard_time": 1681955429,
-      "rank": 1,
-      "category": "科技"
-    },
-    {
       "raw_hot": 2122425,
       "num": 2122425,
       "word": "郑渊洁称维权艰难不再发表作品",
@@ -329,6 +329,14 @@
       "onboard_time": 1681739546,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2005633,
+      "num": 435216,
+      "word": "C罗酒店将台湾列为国家",
+      "onboard_time": 1681968090,
+      "rank": 12,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 1987843,
@@ -627,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1385979,
+      "num": 1385979,
+      "word": "领导说你干不下去可以走时",
+      "onboard_time": 1681967611,
+      "rank": 9,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 1381692,
       "num": 676705,
       "word": "福原爱和男友从豪宅搬出",
@@ -641,6 +657,14 @@
       "onboard_time": 1681914812,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1360729,
+      "num": 708284,
+      "word": "周雨结婚",
+      "onboard_time": 1681970007,
+      "rank": 5,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1355396,
@@ -1083,7 +1107,7 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 839430,
+      "raw_hot": 839891,
       "num": 383042,
       "word": "28岁存款6万的我裸辞了",
       "onboard_time": 1681965031,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1681873407,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 744395,
+      "num": 744395,
+      "word": "工作人员回应宝马mini被指区别对待",
+      "onboard_time": 1681962750,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733181,
@@ -1313,14 +1345,6 @@
       "onboard_time": 1681813110,
       "rank": 13,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 688091,
-      "num": 688091,
-      "word": "工作人员回应宝马mini被指区别对待",
-      "onboard_time": 1681962750,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686559,
@@ -1793,14 +1817,6 @@
       "onboard_time": 1681925599,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537906,
-      "num": 435216,
-      "word": "C罗酒店将台湾列为国家",
-      "onboard_time": 1681968090,
-      "rank": 12,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 537251,
@@ -2313,14 +2329,6 @@
       "onboard_time": 1681905929,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 441655,
-      "num": 441655,
-      "word": "领导说你干不下去可以走时",
-      "onboard_time": 1681967611,
-      "rank": 9,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 440657,
@@ -2955,6 +2963,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 361586,
+      "num": 361586,
+      "word": "如何看待娱乐圈艺人大量接活",
+      "onboard_time": 1681970489,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361175,
       "num": 361175,
       "word": "文秀雅所属组合取消延期本周行程",
@@ -3433,6 +3449,14 @@
       "onboard_time": 1681891647,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 313129,
+      "num": 313129,
+      "word": "如梦之梦 深圳",
+      "onboard_time": 1681969707,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 311988,
@@ -6971,6 +6995,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 140681,
+      "num": 140681,
+      "word": "宝马 Luneurs冰淇淋",
+      "onboard_time": 1681971025,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140555,
       "num": 140555,
       "word": "徐钰和情敌成为知己",
@@ -7313,6 +7345,14 @@
       "onboard_time": 1681736367,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126662,
+      "num": 126662,
+      "word": "庞博谈脱口秀KPI标准",
+      "onboard_time": 1681971627,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 126343,
@@ -7747,6 +7787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106282,
+      "num": 106282,
+      "word": "汉字为什么叫汉字",
+      "onboard_time": 1681969227,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105551,
       "num": 105551,
       "word": "7成留守儿童沉迷短视频",
@@ -7785,6 +7833,14 @@
       "onboard_time": 1681731088,
       "rank": 48,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 103880,
+      "num": 103880,
+      "word": "钱天一3比1申裕斌",
+      "onboard_time": 1681970789,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 102944,
@@ -7865,6 +7921,14 @@
       "onboard_time": 1681859360,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98383,
+      "num": 98383,
+      "word": "范丞丞给乔杉易小星安排好吃的好玩的",
+      "onboard_time": 1681969346,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 98203,
@@ -8273,6 +8337,14 @@
       "onboard_time": 1681732826,
       "rank": 14,
       "category": "科技"
+    },
+    {
+      "raw_hot": 67732,
+      "num": 94289,
+      "word": "淄博炒锅饼",
+      "onboard_time": 1681971266,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 66532,

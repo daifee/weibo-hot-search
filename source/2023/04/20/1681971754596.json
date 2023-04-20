@@ -1,0 +1,410 @@
+{
+  "runTime": 1681971754596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2562538,
+        "num": 2562538,
+        "word": "宝马mini",
+        "onboard_time": 1681955429,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1385979,
+        "num": 1385979,
+        "word": "领导说你干不下去可以走时",
+        "onboard_time": 1681967611,
+        "rank": 1,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 46797,
+        "num": 1261541,
+        "word": "卫星视角看祖国大地春耕图",
+        "onboard_time": 1681959869,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1175382,
+        "num": 1175382,
+        "word": "王一博片场意外翻车",
+        "onboard_time": 1681960228,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 744395,
+        "num": 744395,
+        "word": "工作人员回应宝马mini被指区别对待",
+        "onboard_time": 1681962750,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360729,
+        "num": 708284,
+        "word": "周雨结婚",
+        "onboard_time": 1681970007,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 627272,
+        "num": 627272,
+        "word": "宝马mini展区被指区别对待",
+        "onboard_time": 1681962390,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575349,
+        "num": 575349,
+        "word": "夫妻赌气喝洁厕剂丈夫报警后让先救妻子",
+        "onboard_time": 1681961969,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453874,
+        "num": 453874,
+        "word": "陈飞宇周也赵小棠同框扫楼",
+        "onboard_time": 1681966536,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 445886,
+        "num": 445886,
+        "word": "车银优紧急回国",
+        "onboard_time": 1681951052,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2005633,
+        "num": 425131,
+        "word": "C罗酒店将台湾列为国家",
+        "onboard_time": 1681968090,
+        "rank": 10,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 1594737,
+        "num": 417878,
+        "word": "窦骁 你的名字我的姓氏",
+        "onboard_time": 1681964252,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637259,
+        "num": 413053,
+        "word": "梅西店铺将台湾列为国家",
+        "onboard_time": 1681956628,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361586,
+        "num": 361586,
+        "word": "如何看待娱乐圈艺人大量接活",
+        "onboard_time": 1681970489,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322020,
+        "num": 322020,
+        "word": "谭维维问双开门冰箱是什么意思",
+        "onboard_time": 1681964552,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316262,
+        "num": 316262,
+        "word": "ASTRO成员文彬去世",
+        "onboard_time": 1681921705,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313129,
+        "num": 313129,
+        "word": "如梦之梦 深圳",
+        "onboard_time": 1681969707,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284604,
+        "num": 284604,
+        "word": "男子在迪士尼抽烟后逼哭工作人员",
+        "onboard_time": 1681958848,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 264046,
+        "num": 264046,
+        "word": "未定事件簿 雷雨",
+        "onboard_time": 1681963592,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246727,
+        "num": 246727,
+        "word": "男子被陌生人腰上贴膏药后晕倒",
+        "onboard_time": 1681960348,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839891,
+        "num": 246703,
+        "word": "28岁存款6万的我裸辞了",
+        "onboard_time": 1681965031,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407902,
+        "num": 243232,
+        "word": "原来十年前的微信长这样",
+        "onboard_time": 1681965097,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259330,
+        "num": 241798,
+        "word": "办公室一天讲不了10句话",
+        "onboard_time": 1681965097,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238509,
+        "num": 238509,
+        "word": "150天女婴浑身红点确诊高危白血病",
+        "onboard_time": 1681966357,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219539,
+        "num": 219539,
+        "word": "甜馨谷雨汉服写真",
+        "onboard_time": 1681964674,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 216597,
+        "num": 216597,
+        "word": "长沙县发现一具无名女尸",
+        "onboard_time": 1681949132,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 206687,
+        "num": 206687,
+        "word": "赵露思对拖鞋的执念有多深",
+        "onboard_time": 1681965815,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198824,
+        "num": 198824,
+        "word": "张学友 抢票",
+        "onboard_time": 1681963892,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183296,
+        "num": 183296,
+        "word": "长峰医院3名老人湿毛巾捂口鼻自救",
+        "onboard_time": 1681966956,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160121,
+        "num": 181648,
+        "word": "肿瘤早期5个报警信号",
+        "onboard_time": 1681955488,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181116,
+        "num": 181116,
+        "word": "韩国艺人",
+        "onboard_time": 1681961428,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168117,
+        "num": 168117,
+        "word": "大侦探8收官",
+        "onboard_time": 1681967852,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155126,
+        "num": 155126,
+        "word": "出嫁后妈妈给了我一栋收租房",
+        "onboard_time": 1681961789,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152012,
+        "num": 152012,
+        "word": "官方回应烧秸秆被罚1.782亿",
+        "onboard_time": 1681963530,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140681,
+        "num": 140681,
+        "word": "宝马 Luneurs冰淇淋",
+        "onboard_time": 1681971025,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131453,
+        "num": 131453,
+        "word": "寻找姓鸭的人",
+        "onboard_time": 1681956809,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130565,
+        "num": 130565,
+        "word": "教练 我想打篮球",
+        "onboard_time": 1681964915,
+        "rank": 36,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 126662,
+        "num": 126662,
+        "word": "庞博谈脱口秀KPI标准",
+        "onboard_time": 1681971627,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126630,
+        "num": 126630,
+        "word": "日全环食",
+        "onboard_time": 1681961848,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112008,
+        "num": 112008,
+        "word": "祝绪丹你是不是有什么难处",
+        "onboard_time": 1681950993,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107451,
+        "num": 107451,
+        "word": "脱轨",
+        "onboard_time": 1681958428,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107405,
+        "num": 107405,
+        "word": "教练突然就想退私教费了",
+        "onboard_time": 1681959991,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106282,
+        "num": 106282,
+        "word": "汉字为什么叫汉字",
+        "onboard_time": 1681969227,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105177,
+        "num": 105177,
+        "word": "三分野",
+        "onboard_time": 1681963411,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103880,
+        "num": 103880,
+        "word": "钱天一3比1申裕斌",
+        "onboard_time": 1681970789,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98383,
+        "num": 98383,
+        "word": "范丞丞给乔杉易小星安排好吃的好玩的",
+        "onboard_time": 1681969346,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97774,
+        "num": 97774,
+        "word": "电视剧脱轨官宣",
+        "onboard_time": 1681957167,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 97550,
+        "num": 97550,
+        "word": "医院墙上的棋局还有这个意思",
+        "onboard_time": 1681966054,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94895,
+        "num": 94895,
+        "word": "不良人",
+        "onboard_time": 1681958487,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 67732,
+        "num": 94289,
+        "word": "淄博炒锅饼",
+        "onboard_time": 1681971266,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#100天后成都见#"
+    }
+  }
+}
