@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681978913440,
+  "endTime": 1681979719011,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3201063,
-      "num": 3201063,
+      "raw_hot": 3614386,
+      "num": 3614386,
       "word": "宝马mini道歉",
       "onboard_time": 1681972349,
       "rank": 30,
@@ -155,6 +155,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1109746,
+      "num": 1109746,
+      "word": "28岁存款6万的我裸辞了",
+      "onboard_time": 1681965031,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1018060,
       "num": 1018060,
       "word": "孙悟空",
@@ -225,14 +233,6 @@
       "onboard_time": 1681962390,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 845184,
-      "num": 845184,
-      "word": "28岁存款6万的我裸辞了",
-      "onboard_time": 1681965031,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 772161,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 613181,
+      "num": 613181,
+      "word": "王嘉尔公司退股张艺兴合伙企业",
+      "onboard_time": 1681978889,
+      "rank": 44,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 592846,
       "num": 382977,
       "word": "原来十年前的微信长这样",
@@ -353,6 +361,14 @@
       "onboard_time": 1681950394,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556402,
+      "num": 270060,
+      "word": "杭州大爷买3个包子付了19万6",
+      "onboard_time": 1681978408,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 544011,
@@ -467,8 +483,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 425714,
-      "num": 425714,
+      "raw_hot": 426797,
+      "num": 426797,
       "word": "五一酒店价格你能接受吗",
       "onboard_time": 1681975651,
       "rank": 47,
@@ -499,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 392240,
+      "num": 392240,
+      "word": "花花和弟弟要放假了",
+      "onboard_time": 1681977928,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389206,
       "num": 389206,
       "word": "牺牲生活质量的攒钱有必要吗",
@@ -513,6 +537,14 @@
       "onboard_time": 1681916070,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 387104,
+      "num": 387104,
+      "word": "今天好多剧官宣啊",
+      "onboard_time": 1681975948,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 380426,
@@ -593,14 +625,6 @@
       "onboard_time": 1681920386,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331345,
-      "num": 331345,
-      "word": "今天好多剧官宣啊",
-      "onboard_time": 1681975948,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 328675,
@@ -691,12 +715,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 295563,
+      "num": 308310,
+      "word": "时代少年团特权码",
+      "onboard_time": 1681977688,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 292158,
       "num": 292158,
       "word": "灌篮高手周边卖断货",
       "onboard_time": 1681972709,
       "rank": 14,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 290693,
+      "num": 314948,
+      "word": "徐艺洋说世界上会有完美的我们",
+      "onboard_time": 1681977270,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 290019,
@@ -787,28 +827,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 270170,
-      "num": 237025,
-      "word": "花花和弟弟要放假了",
-      "onboard_time": 1681977928,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270060,
-      "num": 270060,
-      "word": "杭州大爷买3个包子付了19万6",
-      "onboard_time": 1681978408,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269573,
       "num": 260000,
       "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
       "onboard_time": 1681953511,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268489,
+      "num": 268489,
+      "word": "起底宝马冰淇淋背后公司",
+      "onboard_time": 1681979549,
+      "rank": 25,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 266606,
@@ -841,14 +873,6 @@
       "onboard_time": 1681945944,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262694,
-      "num": 314948,
-      "word": "徐艺洋说世界上会有完美的我们",
-      "onboard_time": 1681977270,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 261400,
@@ -889,14 +913,6 @@
       "onboard_time": 1681958487,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 252998,
-      "num": 308310,
-      "word": "时代少年团特权码",
-      "onboard_time": 1681977688,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 252806,
@@ -1059,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207062,
+      "num": 207062,
+      "word": "上海车展",
+      "onboard_time": 1681978770,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 206295,
       "num": 206295,
       "word": "拜仁欧冠出局",
@@ -1155,8 +1179,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195191,
-      "num": 195191,
+      "raw_hot": 197178,
+      "num": 197178,
       "word": "警方调查银行男员工殴打女员工",
       "onboard_time": 1681976308,
       "rank": 34,
@@ -1299,8 +1323,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 180297,
-      "num": 180297,
+      "raw_hot": 180638,
+      "num": 180638,
       "word": "大天狗传说限定皮肤",
       "onboard_time": 1681977270,
       "rank": 38,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1681959446,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179678,
+      "num": 179678,
+      "word": "宝马家在中国",
+      "onboard_time": 1681973009,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 179554,
@@ -1441,14 +1473,6 @@
       "onboard_time": 1681958548,
       "rank": 36,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 163165,
-      "num": 163165,
-      "word": "上海车展",
-      "onboard_time": 1681978770,
-      "rank": 41,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 161972,
@@ -1603,12 +1627,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134683,
+      "num": 134683,
+      "word": "LPL选手亚运会集训",
+      "onboard_time": 1681979487,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134407,
       "num": 134407,
       "word": "00后女生返乡当村医嘶吼式问诊",
       "onboard_time": 1681960767,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131811,
+      "num": 131811,
+      "word": "今年暑期档阵容有多强",
+      "onboard_time": 1681979308,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 129942,
@@ -1625,14 +1665,6 @@
       "onboard_time": 1681957289,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128588,
-      "num": 128588,
-      "word": "王嘉尔公司退股张艺兴合伙企业",
-      "onboard_time": 1681978889,
-      "rank": 44,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 128095,
@@ -1667,20 +1699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126842,
-      "num": 126842,
-      "word": "宝马家在中国",
-      "onboard_time": 1681973009,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 126798,
       "num": 126798,
       "word": "原来以前的五一是七天假",
       "onboard_time": 1681896089,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125968,
+      "num": 125968,
+      "word": "DKZ李庚润因恐慌障碍暂停活动",
+      "onboard_time": 1681979369,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 123166,
@@ -1891,7 +1923,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51511,
+      "raw_hot": 51826,
       "num": 328187,
       "word": "苏醒现场版小城夏天",
       "onboard_time": 1681977628,
@@ -1907,7 +1939,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 27978,
+      "raw_hot": 35441,
       "num": 1150164,
       "word": "中国汉字遇上锦绣山河有多惊艳",
       "onboard_time": 1681951651,
