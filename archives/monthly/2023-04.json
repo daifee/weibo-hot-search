@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682028983766,
+  "endTime": 1682029998292,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -47515,6 +47515,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 53093,
+      "num": 53093,
+      "word": "男子因嫌盛米饭少殴打食堂阿姨",
+      "onboard_time": 1682016254,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52610,
       "num": 192626,
       "word": "真正的豪华车哪有平替",
@@ -47529,6 +47537,14 @@
       "onboard_time": 1681977628,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 51394,
+      "num": 51394,
+      "word": "鲁豫记忆力",
+      "onboard_time": 1682027173,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 51166,
@@ -47747,14 +47763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41194,
-      "num": 41194,
-      "word": "男子因嫌盛米饭少殴打食堂阿姨",
-      "onboard_time": 1682016254,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41094,
       "num": 47224,
       "word": "马伊琍东霓人设",
@@ -47764,7 +47772,7 @@
     },
     {
       "raw_hot": 40937,
-      "num": 37523,
+      "num": 39349,
       "word": "放天欢回来杀叶冰裳吧",
       "onboard_time": 1682014037,
       "rank": 41,
@@ -48051,12 +48059,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 26778,
-      "num": 28882,
-      "word": "鲁豫记忆力",
-      "onboard_time": 1682027173,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 27529,
+      "num": 39359,
+      "word": "骑手你是开花车过来的吗",
+      "onboard_time": 1682016133,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 26730,
@@ -48177,14 +48185,6 @@
       "onboard_time": 1682022071,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 17989,
-      "num": 28880,
-      "word": "骑手你是开花车过来的吗",
-      "onboard_time": 1682016133,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 17764,
