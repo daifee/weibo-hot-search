@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681985907061,
+  "endTime": 1681986833136,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -747,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2585875,
+      "num": 349278,
+      "word": "宝马mini 打人",
+      "onboard_time": 1681981768,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2584318,
       "num": 2539594,
       "word": "中电科确认不存在临时工情况",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1680612150,
       "rank": 28,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 2350177,
-      "num": 349278,
-      "word": "宝马mini 打人",
-      "onboard_time": 1681981768,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2349128,
@@ -10484,7 +10484,7 @@
     },
     {
       "raw_hot": 542800,
-      "num": 351692,
+      "num": 354556,
       "word": "陈都灵腿好细",
       "onboard_time": 1681979729,
       "rank": 10,
@@ -10851,6 +10851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 531502,
+      "num": 531502,
+      "word": "起底宝马冰淇淋背后公司",
+      "onboard_time": 1681979549,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 531444,
       "num": 531444,
       "word": "韩国米诺地尔",
@@ -11163,14 +11171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 520905,
-      "num": 520905,
-      "word": "起底宝马冰淇淋背后公司",
-      "onboard_time": 1681979549,
-      "rank": 25,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 520136,
       "num": 520136,
       "word": "尽快补上死亡教育这一课",
@@ -11185,6 +11185,14 @@
       "onboard_time": 1681127488,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 517938,
+      "num": 378320,
+      "word": "宝马mini车展冰激凌最低35元一杯",
+      "onboard_time": 1681983929,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 517579,
@@ -14283,6 +14291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417015,
+      "num": 417015,
+      "word": "小鹏发冰淇淋",
+      "onboard_time": 1681985910,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416902,
       "num": 416902,
       "word": "琴酒赶紧出来干活了",
@@ -14321,14 +14337,6 @@
       "onboard_time": 1680355651,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 416346,
-      "num": 273418,
-      "word": "宝马mini车展冰激凌最低35元一杯",
-      "onboard_time": 1681983929,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 416210,
@@ -16363,6 +16371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367099,
+      "num": 367099,
+      "word": "尹锡悦称台湾问题是全球问题",
+      "onboard_time": 1681984890,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367079,
       "num": 304278,
       "word": "万一他是真的喜欢王宝强呢",
@@ -16683,6 +16699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358239,
+      "num": 168501,
+      "word": "Luneurs回应宝马mini冰淇淋事件",
+      "onboard_time": 1681975891,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 358059,
       "num": 358059,
       "word": "罗云熙白鹿长月烬明新浪扫楼",
@@ -16883,14 +16907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 355653,
-      "num": 168501,
-      "word": "Luneurs回应宝马mini冰淇淋事件",
-      "onboard_time": 1681975891,
-      "rank": 40,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 355419,
       "num": 355419,
       "word": "小花梅近况",
@@ -17073,6 +17089,14 @@
       "onboard_time": 1680394945,
       "rank": 12,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 351582,
+      "num": 351582,
+      "word": "窦骁好像头上顶个水瓶",
+      "onboard_time": 1681983750,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 351462,
@@ -17441,6 +17465,14 @@
       "onboard_time": 1681120827,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 344125,
+      "num": 344125,
+      "word": "杜华想送儿子去德云社",
+      "onboard_time": 1681984709,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 344051,
@@ -18283,14 +18315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 327430,
-      "num": 263690,
-      "word": "窦骁好像头上顶个水瓶",
-      "onboard_time": 1681983750,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 327125,
       "num": 293008,
       "word": "老太地铁求座女子自称孕妇怒怼",
@@ -18345,6 +18369,14 @@
       "onboard_time": 1680832346,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 326009,
+      "num": 201834,
+      "word": "HR听完都闭嘴的离职原因",
+      "onboard_time": 1681985068,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 325962,
@@ -21611,14 +21643,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 268497,
-      "num": 190600,
-      "word": "杜华想送儿子去德云社",
-      "onboard_time": 1681984709,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268466,
       "num": 268466,
       "word": "GEN晋级MSI",
@@ -21769,6 +21793,14 @@
       "onboard_time": 1681480051,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266102,
+      "num": 838491,
+      "word": "消防员用奶茶救下轻生女孩",
+      "onboard_time": 1681973369,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266012,
@@ -23723,14 +23755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 239699,
-      "num": 187792,
-      "word": "HR听完都闭嘴的离职原因",
-      "onboard_time": 1681985068,
-      "rank": 25,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 239611,
       "num": 239611,
       "word": "孙颖莎3比1伊藤美诚",
@@ -23761,6 +23785,14 @@
       "onboard_time": 1680868409,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239455,
+      "num": 175284,
+      "word": "领导不让上班讲话主动离职了",
+      "onboard_time": 1681986146,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 239434,
@@ -25209,14 +25241,6 @@
       "onboard_time": 1681964252,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 224041,
-      "num": 186271,
-      "word": "尹锡悦称台湾问题是全球问题",
-      "onboard_time": 1681984890,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224006,
@@ -28257,14 +28281,6 @@
       "onboard_time": 1680351750,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 204468,
-      "num": 838491,
-      "word": "消防员用奶茶救下轻生女孩",
-      "onboard_time": 1681973369,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204433,
@@ -31443,6 +31459,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 194493,
+      "num": 183715,
+      "word": "华晨宇solo舞台",
+      "onboard_time": 1681986146,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194439,
       "num": 244563,
       "word": "普尔在笑什么",
@@ -31457,6 +31481,14 @@
       "onboard_time": 1681881028,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194308,
+      "num": 438968,
+      "word": "浙BWF896车主谈意外走红",
+      "onboard_time": 1681985547,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194152,
@@ -36811,12 +36843,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165203,
+      "num": 494727,
+      "word": "钓鱼小伙救人后换个地方继续钓",
+      "onboard_time": 1681984227,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165135,
       "num": 165135,
       "word": "王一博雷宇平安落地视频",
       "onboard_time": 1680407007,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165135,
+      "num": 165135,
+      "word": "月薪4K工作很闲要辞职吗",
+      "onboard_time": 1681986207,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 165067,
@@ -42627,14 +42675,6 @@
       "category": "社会新闻,军事"
     },
     {
-      "raw_hot": 123208,
-      "num": 494727,
-      "word": "钓鱼小伙救人后换个地方继续钓",
-      "onboard_time": 1681984227,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123166,
       "num": 161553,
       "word": "去迪士尼前的恶补",
@@ -44753,6 +44793,14 @@
       "onboard_time": 1680390978,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100534,
+      "num": 100534,
+      "word": "76岁大爷盗墓为过世孙子配婚获刑",
+      "onboard_time": 1681986748,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100436,
@@ -47081,14 +47129,6 @@
       "onboard_time": 1681416613,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 36379,
-      "num": 329103,
-      "word": "浙BWF896车主谈意外走红",
-      "onboard_time": 1681985547,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35859,
