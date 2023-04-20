@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681974969195,
+  "endTime": 1681976004812,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -195,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 916389,
+      "num": 852341,
+      "word": "月经期间到底能吃啥水果",
+      "onboard_time": 1681971988,
+      "rank": 31,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 908791,
       "num": 908791,
       "word": "电视剧脱轨官宣",
       "onboard_time": 1681957167,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 852341,
-      "num": 852341,
-      "word": "月经期间到底能吃啥水果",
-      "onboard_time": 1681971988,
-      "rank": 31,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 851554,
@@ -291,12 +291,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 656213,
+      "num": 264229,
+      "word": "张雨绮可以面试下内娱吗",
+      "onboard_time": 1681974629,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 653551,
       "num": 653551,
       "word": "海清发声支持蒋梦婕",
       "onboard_time": 1681915952,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 644212,
+      "num": 240380,
+      "word": "离职一年了还要我交接群",
+      "onboard_time": 1681975048,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 632038,
@@ -387,12 +403,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 468141,
+      "num": 378719,
+      "word": "宝马 Luneurs冰淇淋",
+      "onboard_time": 1681971025,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463499,
       "num": 463499,
       "word": "未定事件簿 雷雨",
       "onboard_time": 1681963592,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 447556,
+      "num": 292805,
+      "word": "宝马mini展台已撤下冰淇淋宣传物料",
+      "onboard_time": 1681973610,
+      "rank": 13,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 440657,
@@ -457,14 +489,6 @@
       "onboard_time": 1681916070,
       "rank": 8,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 378719,
-      "num": 378719,
-      "word": "宝马 Luneurs冰淇淋",
-      "onboard_time": 1681971025,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 375242,
@@ -619,20 +643,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 292805,
-      "num": 292805,
-      "word": "宝马mini展台已撤下冰淇淋宣传物料",
-      "onboard_time": 1681973610,
-      "rank": 13,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 292158,
       "num": 292158,
       "word": "灌篮高手周边卖断货",
       "onboard_time": 1681972709,
       "rank": 14,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 291344,
+      "num": 291344,
+      "word": "陈都灵邓为新浪扫楼",
+      "onboard_time": 1681974747,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 290019,
@@ -665,6 +689,14 @@
       "onboard_time": 1681952732,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 283960,
+      "num": 193277,
+      "word": "田曦薇说不想和没看过全国大赛的人说话",
+      "onboard_time": 1681974208,
+      "rank": 31,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 282558,
@@ -825,14 +857,6 @@
       "onboard_time": 1681964252,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223891,
-      "num": 223891,
-      "word": "张雨绮可以面试下内娱吗",
-      "onboard_time": 1681974629,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 223276,
@@ -1035,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193277,
-      "num": 193277,
-      "word": "田曦薇说不想和没看过全国大赛的人说话",
-      "onboard_time": 1681974208,
-      "rank": 31,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 193196,
       "num": 185718,
       "word": "迪士尼回应男子抽烟后与工作人员起冲突",
@@ -1203,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177931,
+      "num": 177931,
+      "word": "上海邮储银行男职工殴打女职工",
+      "onboard_time": 1681975468,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175656,
       "num": 175656,
       "word": "灰熊1比1湖人",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1681964915,
       "rank": 46,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 170720,
+      "num": 193384,
+      "word": "消防员用奶茶救下轻生女孩",
+      "onboard_time": 1681973369,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169187,
@@ -1339,14 +1371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155935,
-      "num": 193384,
-      "word": "消防员用奶茶救下轻生女孩",
-      "onboard_time": 1681973369,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155359,
       "num": 155359,
       "word": "哥斯拉大战金刚2片名",
@@ -1395,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144175,
+      "num": 144175,
+      "word": "Luneurs回应宝马mini冰淇淋事件",
+      "onboard_time": 1681975891,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 141997,
       "num": 141997,
       "word": "你认为读书需要仪式感吗",
@@ -1435,14 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136040,
-      "num": 136040,
-      "word": "陈都灵邓为新浪扫楼",
-      "onboard_time": 1681974747,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135906,
       "num": 135906,
       "word": "公孙离新皮肤首曝",
@@ -1456,6 +1480,14 @@
       "word": "叶冰裳偷走翩然情丝",
       "onboard_time": 1681943054,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 134951,
+      "num": 134951,
+      "word": "让人一眼就热血沸腾的电影",
+      "onboard_time": 1681975169,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -1499,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127519,
+      "num": 127519,
+      "word": "五一酒店价格你能接受吗",
+      "onboard_time": 1681975651,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 127448,
       "num": 127448,
       "word": "闵玧其新专主打曲叫解禁",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1681896089,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124859,
+      "num": 124859,
+      "word": "今天好多剧官宣啊",
+      "onboard_time": 1681975948,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 123166,

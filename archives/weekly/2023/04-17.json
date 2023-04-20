@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681974969195,
+  "endTime": 1681976004812,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -979,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 916389,
+      "num": 852341,
+      "word": "月经期间到底能吃啥水果",
+      "onboard_time": 1681971988,
+      "rank": 31,
+      "category": "美食,情感"
+    },
+    {
       "raw_hot": 909978,
       "num": 477404,
       "word": "赌王三太的珍珠戒指",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1681730786,
       "rank": 37,
       "category": "科技"
-    },
-    {
-      "raw_hot": 852341,
-      "num": 852341,
-      "word": "月经期间到底能吃啥水果",
-      "onboard_time": 1681971988,
-      "rank": 31,
-      "category": "美食,情感"
     },
     {
       "raw_hot": 851554,
@@ -1451,6 +1451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 656213,
+      "num": 264229,
+      "word": "张雨绮可以面试下内娱吗",
+      "onboard_time": 1681974629,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 656173,
       "num": 1825444,
       "word": "程序员辞职带妈妈锻炼半年瘦20斤",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1681723527,
       "rank": 8,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 644212,
+      "num": 240380,
+      "word": "离职一年了还要我交接群",
+      "onboard_time": 1681975048,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 639590,
@@ -2163,6 +2179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 468141,
+      "num": 378719,
+      "word": "宝马 Luneurs冰淇淋",
+      "onboard_time": 1681971025,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468121,
       "num": 468121,
       "word": "追梦格林被驱逐",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1681831531,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 447556,
+      "num": 292805,
+      "word": "宝马mini展台已撤下冰淇淋宣传物料",
+      "onboard_time": 1681973610,
+      "rank": 13,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 446824,
@@ -2737,14 +2769,6 @@
       "onboard_time": 1681895608,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 378719,
-      "num": 378719,
-      "word": "宝马 Luneurs冰淇淋",
-      "onboard_time": 1681971025,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378581,
@@ -3659,14 +3683,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 292805,
-      "num": 292805,
-      "word": "宝马mini展台已撤下冰淇淋宣传物料",
-      "onboard_time": 1681973610,
-      "rank": 13,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 292706,
       "num": 292706,
       "word": "玉骨遥或将5月播出",
@@ -3681,6 +3697,14 @@
       "onboard_time": 1681972709,
       "rank": 14,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 291344,
+      "num": 291344,
+      "word": "陈都灵邓为新浪扫楼",
+      "onboard_time": 1681974747,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 290687,
@@ -3753,6 +3777,14 @@
       "onboard_time": 1681952732,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 283960,
+      "num": 193277,
+      "word": "田曦薇说不想和没看过全国大赛的人说话",
+      "onboard_time": 1681974208,
+      "rank": 31,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 283315,
@@ -4449,14 +4481,6 @@
       "onboard_time": 1681964252,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223891,
-      "num": 223891,
-      "word": "张雨绮可以面试下内娱吗",
-      "onboard_time": 1681974629,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 223365,
@@ -5467,14 +5491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193277,
-      "num": 193277,
-      "word": "田曦薇说不想和没看过全国大赛的人说话",
-      "onboard_time": 1681974208,
-      "rank": 31,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 193196,
       "num": 185718,
       "word": "迪士尼回应男子抽烟后与工作人员起冲突",
@@ -6059,6 +6075,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 177931,
+      "num": 177931,
+      "word": "上海邮储银行男职工殴打女职工",
+      "onboard_time": 1681975468,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177874,
       "num": 248442,
       "word": "野居一家官宣",
@@ -6257,6 +6281,14 @@
       "onboard_time": 1681776567,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170720,
+      "num": 193384,
+      "word": "消防员用奶茶救下轻生女孩",
+      "onboard_time": 1681973369,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170272,
@@ -6675,14 +6707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155935,
-      "num": 193384,
-      "word": "消防员用奶茶救下轻生女孩",
-      "onboard_time": 1681973369,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155359,
       "num": 155359,
       "word": "哥斯拉大战金刚2片名",
@@ -7043,6 +7067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144175,
+      "num": 144175,
+      "word": "Luneurs回应宝马mini冰淇淋事件",
+      "onboard_time": 1681975891,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 143128,
       "num": 143128,
       "word": "付款码隐私保护功能",
@@ -7219,14 +7251,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 136040,
-      "num": 136040,
-      "word": "陈都灵邓为新浪扫楼",
-      "onboard_time": 1681974747,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135860,
       "num": 135860,
       "word": "错过一个很爱的人是怎样的",
@@ -7248,6 +7272,14 @@
       "word": "叶冰裳偷走翩然情丝",
       "onboard_time": 1681943054,
       "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 134951,
+      "num": 134951,
+      "word": "让人一眼就热血沸腾的电影",
+      "onboard_time": 1681975169,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -7435,6 +7467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127519,
+      "num": 127519,
+      "word": "五一酒店价格你能接受吗",
+      "onboard_time": 1681975651,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 127448,
       "num": 127448,
       "word": "闵玧其新专主打曲叫解禁",
@@ -7512,6 +7552,14 @@
       "word": "五一档观影清单",
       "onboard_time": 1681734446,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 124859,
+      "num": 124859,
+      "word": "今天好多剧官宣啊",
+      "onboard_time": 1681975948,
+      "rank": 49,
       "category": "影视"
     },
     {
