@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681958011407,
+  "endTime": 1681958589701,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2139,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1674775,
+      "num": 455775,
+      "word": "梅西店铺将台湾列为国家",
+      "onboard_time": 1681956628,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1664469,
       "num": 428654,
       "word": "何超莲称婚礼是窦骁一手包办",
@@ -2667,6 +2675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1482087,
+      "num": 1482087,
+      "word": "宝马mini",
+      "onboard_time": 1681955429,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1472627,
       "num": 1472627,
       "word": "OMG对战TES",
@@ -3099,14 +3115,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 1319295,
-      "num": 422470,
-      "word": "梅西店铺将台湾列为国家",
-      "onboard_time": 1681956628,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1318114,
       "num": 1318114,
       "word": "六公主谈柯南争议",
@@ -3281,14 +3289,6 @@
       "onboard_time": 1680779911,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1283150,
-      "num": 1283150,
-      "word": "宝马mini",
-      "onboard_time": 1681955429,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1281022,
@@ -5067,6 +5067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 908791,
+      "num": 908791,
+      "word": "电视剧脱轨官宣",
+      "onboard_time": 1681957167,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 907161,
       "num": 907161,
       "word": "黑莲花 绝世大饼",
@@ -5723,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 846725,
+      "num": 846725,
+      "word": "祝绪丹你是不是有什么难处",
+      "onboard_time": 1681950993,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 846221,
       "num": 288444,
       "word": "杨幂说一不小心回到小时候",
@@ -6193,14 +6209,6 @@
       "onboard_time": 1680616652,
       "rank": 6,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 794516,
-      "num": 794516,
-      "word": "祝绪丹你是不是有什么难处",
-      "onboard_time": 1681950993,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 793685,
@@ -6801,6 +6809,14 @@
       "onboard_time": 1680422670,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 730338,
+      "num": 730338,
+      "word": "寻找姓鸭的人",
+      "onboard_time": 1681956809,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729635,
@@ -9579,14 +9595,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 575560,
-      "num": 575560,
-      "word": "寻找姓鸭的人",
-      "onboard_time": 1681956809,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 575511,
       "num": 575511,
       "word": "迪丽热巴晒生活照",
@@ -10873,14 +10881,6 @@
       "onboard_time": 1680778289,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 522033,
-      "num": 522033,
-      "word": "电视剧脱轨官宣",
-      "onboard_time": 1681957167,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 521988,
@@ -12473,6 +12473,14 @@
       "onboard_time": 1681450286,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459677,
+      "num": 459677,
+      "word": "日全环食20日上演",
+      "onboard_time": 1681802968,
+      "rank": 45,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 459623,
@@ -15611,6 +15619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375242,
+      "num": 375242,
+      "word": "拉塞尔真拉",
+      "onboard_time": 1681956990,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375101,
       "num": 375101,
       "word": "马小跳妈妈成了宋三川丈母娘",
@@ -17939,14 +17955,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 326176,
-      "num": 326176,
-      "word": "日全环食20日上演",
-      "onboard_time": 1681802968,
-      "rank": 45,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 325962,
       "num": 325962,
       "word": "香芋肥肠鸡",
@@ -20171,6 +20179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284918,
+      "num": 284918,
+      "word": "宋佳自称全演艺界最爱合影的人",
+      "onboard_time": 1681957109,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284914,
       "num": 284914,
       "word": "哈尔滨三孩家庭拟每月补贴1000",
@@ -20241,14 +20257,6 @@
       "onboard_time": 1680663392,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 283699,
-      "num": 283699,
-      "word": "拉塞尔真拉",
-      "onboard_time": 1681956990,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 283652,
@@ -28339,14 +28347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 202417,
-      "num": 202417,
-      "word": "宋佳自称全演艺界最爱合影的人",
-      "onboard_time": 1681957109,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202407,
       "num": 202407,
       "word": "懂事的孩子更应该吃到糖",
@@ -28889,6 +28889,14 @@
       "onboard_time": 1681389570,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200765,
+      "num": 200765,
+      "word": "云襄传智斗江湖版预告",
+      "onboard_time": 1681958009,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 200750,
@@ -31211,6 +31219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192736,
+      "num": 192736,
+      "word": "马斯克回应特斯拉全球轮番降价",
+      "onboard_time": 1681955671,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192723,
       "num": 192723,
       "word": "武汉三镇夺得超级杯冠军",
@@ -31507,6 +31523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191574,
+      "num": 191574,
+      "word": "直播2023首次日食",
+      "onboard_time": 1681957889,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191560,
       "num": 191560,
       "word": "龚俊行走旧屋随拍花絮",
@@ -31585,6 +31609,14 @@
       "onboard_time": 1680856227,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191141,
+      "num": 191141,
+      "word": "乔杉漂移拍摄花絮",
+      "onboard_time": 1681958309,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 191088,
@@ -32337,14 +32369,6 @@
       "onboard_time": 1680444760,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 188106,
-      "num": 188106,
-      "word": "马斯克回应特斯拉全球轮番降价",
-      "onboard_time": 1681955671,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 188060,
@@ -33563,6 +33587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182247,
+      "num": 182247,
+      "word": "长空之王威版预告",
+      "onboard_time": 1681958369,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182240,
       "num": 182240,
       "word": "李马克solo预告视频",
@@ -34441,6 +34473,14 @@
       "onboard_time": 1681091847,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175656,
+      "num": 175656,
+      "word": "灰熊1比1湖人",
+      "onboard_time": 1681958009,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 175654,
@@ -36091,6 +36131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164155,
+      "num": 164155,
+      "word": "你能忍受别人经常迟到吗",
+      "onboard_time": 1681958548,
+      "rank": 36,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 164125,
       "num": 164125,
       "word": "2023KPL春季赛第三轮赛程",
@@ -36225,6 +36273,14 @@
       "onboard_time": 1681224028,
       "rank": 29,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 163198,
+      "num": 163198,
+      "word": "脱轨",
+      "onboard_time": 1681958428,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 163186,
@@ -39539,6 +39595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140758,
+      "num": 140758,
+      "word": "于正 维权的事忙到半夜",
+      "onboard_time": 1681958428,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140746,
       "num": 140746,
       "word": "森林狼季后赛对阵掘金",
@@ -39696,14 +39760,6 @@
       "word": "为何酒精能控制某些人的大脑",
       "onboard_time": 1680341011,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139589,
-      "num": 139589,
-      "word": "直播2023首次日食",
-      "onboard_time": 1681957889,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -41227,6 +41283,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 127448,
+      "num": 127448,
+      "word": "闵玧其新专主打曲叫解禁",
+      "onboard_time": 1681957650,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127402,
       "num": 333988,
       "word": "在外滩撸一种很新的猫",
@@ -41489,14 +41553,6 @@
       "onboard_time": 1681734446,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125385,
-      "num": 125385,
-      "word": "闵玧其新专主打曲叫解禁",
-      "onboard_time": 1681957650,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 125333,

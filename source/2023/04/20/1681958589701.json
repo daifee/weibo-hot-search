@@ -1,0 +1,410 @@
+{
+  "runTime": 1681958589701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2594826,
+        "num": 2594826,
+        "word": "车银优紧急回国",
+        "onboard_time": 1681951052,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1482087,
+        "num": 1482087,
+        "word": "宝马mini",
+        "onboard_time": 1681955429,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 21733,
+        "num": 1209257,
+        "word": "人民海军74周岁",
+        "onboard_time": 1681901727,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1047977,
+        "num": 1047977,
+        "word": "ASTRO成员文彬去世",
+        "onboard_time": 1681921705,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 908791,
+        "num": 908791,
+        "word": "电视剧脱轨官宣",
+        "onboard_time": 1681957167,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 846725,
+        "num": 846725,
+        "word": "祝绪丹你是不是有什么难处",
+        "onboard_time": 1681950993,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 730338,
+        "num": 730338,
+        "word": "寻找姓鸭的人",
+        "onboard_time": 1681956809,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661499,
+        "num": 661499,
+        "word": "山科大北门伤人事件致1死6伤",
+        "onboard_time": 1681947267,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586651,
+        "num": 586651,
+        "word": "女子入职58天迟到21次不满被辞",
+        "onboard_time": 1681949010,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459677,
+        "num": 459677,
+        "word": "日全环食20日上演",
+        "onboard_time": 1681957407,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1674775,
+        "num": 455775,
+        "word": "梅西店铺将台湾列为国家",
+        "onboard_time": 1681956628,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405213,
+        "num": 405213,
+        "word": "肿瘤早期5个报警信号",
+        "onboard_time": 1681955488,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375242,
+        "num": 375242,
+        "word": "拉塞尔真拉",
+        "onboard_time": 1681956990,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341845,
+        "num": 341845,
+        "word": "女性的痛苦被当做一种景观",
+        "onboard_time": 1681948286,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318910,
+        "num": 318910,
+        "word": "VICTON解散",
+        "onboard_time": 1681952614,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284918,
+        "num": 284918,
+        "word": "宋佳自称全演艺界最爱合影的人",
+        "onboard_time": 1681957109,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274359,
+        "num": 274359,
+        "word": "第五人格",
+        "onboard_time": 1681951290,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274248,
+        "num": 274248,
+        "word": "男子直播打骂奔现女网友被刑拘",
+        "onboard_time": 1681949372,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260641,
+        "num": 260641,
+        "word": "想起钟铉雪莉荷拉",
+        "onboard_time": 1681950394,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232718,
+        "num": 232718,
+        "word": "特斯拉一季度盈利暴跌20%",
+        "onboard_time": 1681952732,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 815268,
+        "num": 229768,
+        "word": "长沙县发现一具无名女尸",
+        "onboard_time": 1681949132,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 222954,
+        "num": 222954,
+        "word": "被小学同学抄袭了人生",
+        "onboard_time": 1681902927,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220072,
+        "num": 220072,
+        "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
+        "onboard_time": 1681953511,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204587,
+        "num": 204587,
+        "word": "千万不要有舔奶盖的习惯",
+        "onboard_time": 1681911989,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200765,
+        "num": 200765,
+        "word": "云襄传智斗江湖版预告",
+        "onboard_time": 1681958009,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192736,
+        "num": 192736,
+        "word": "马斯克回应特斯拉全球轮番降价",
+        "onboard_time": 1681955671,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191574,
+        "num": 191574,
+        "word": "直播2023首次日食",
+        "onboard_time": 1681957889,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191141,
+        "num": 191141,
+        "word": "乔杉漂移拍摄花絮",
+        "onboard_time": 1681958309,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183660,
+        "num": 183660,
+        "word": "暮光之城拍剧版",
+        "onboard_time": 1681950813,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182247,
+        "num": 182247,
+        "word": "长空之王威版预告",
+        "onboard_time": 1681958369,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 295720,
+        "num": 181398,
+        "word": "文秀雅所属组合取消延期本周行程",
+        "onboard_time": 1681954890,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180341,
+        "num": 180341,
+        "word": "灌篮高手彩蛋",
+        "onboard_time": 1681946123,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 178108,
+        "num": 178108,
+        "word": "180以下的男演员能不能拍偶像剧",
+        "onboard_time": 1681915050,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175656,
+        "num": 175656,
+        "word": "灰熊1比1湖人",
+        "onboard_time": 1681958009,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174690,
+        "num": 174690,
+        "word": "叶夕雾跳城楼倒计时",
+        "onboard_time": 1681917568,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170027,
+        "num": 170027,
+        "word": "代号鸢",
+        "onboard_time": 1681953093,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164155,
+        "num": 164155,
+        "word": "你能忍受别人经常迟到吗",
+        "onboard_time": 1681958548,
+        "rank": 36,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 163198,
+        "num": 163198,
+        "word": "脱轨",
+        "onboard_time": 1681958428,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162150,
+        "num": 162150,
+        "word": "原来这才是工作餐",
+        "onboard_time": 1681954171,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161331,
+        "num": 161331,
+        "word": "云襄传",
+        "onboard_time": 1681958487,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156315,
+        "num": 156315,
+        "word": "难听",
+        "onboard_time": 1681952133,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156268,
+        "num": 156268,
+        "word": "我给灌篮高手补张票",
+        "onboard_time": 1681917389,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154722,
+        "num": 154722,
+        "word": "花间令 开机",
+        "onboard_time": 1681915533,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150495,
+        "num": 150495,
+        "word": "不良人",
+        "onboard_time": 1681958487,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149222,
+        "num": 149222,
+        "word": "湖人vs灰熊",
+        "onboard_time": 1681949612,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140758,
+        "num": 140758,
+        "word": "于正 维权的事忙到半夜",
+        "onboard_time": 1681958428,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137867,
+        "num": 137867,
+        "word": "周星驰要组六月天",
+        "onboard_time": 1681950454,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130296,
+        "num": 130296,
+        "word": "山科大持刀伤人男子已被控制",
+        "onboard_time": 1681947387,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127448,
+        "num": 127448,
+        "word": "闵玧其新专主打曲叫解禁",
+        "onboard_time": 1681957650,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127197,
+        "num": 127197,
+        "word": "今天谷雨",
+        "onboard_time": 1681945944,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#距成都大运会开幕还有100天#"
+    }
+  }
+}
