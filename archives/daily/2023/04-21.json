@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682022805424,
+  "endTime": 1682025294718,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -459,8 +459,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 29375,
-      "num": 25734,
+      "raw_hot": 29951,
+      "num": 29951,
       "word": "BoysPlanet决赛出道夜",
       "onboard_time": 1681988788,
       "rank": 31,
@@ -497,6 +497,14 @@
       "onboard_time": 1682016133,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 12411,
+      "num": 14789,
+      "word": "灌篮高手 爷青回",
+      "onboard_time": 1682023272,
+      "rank": 46,
+      "category": "影视,动漫"
     }
   ],
   "hotgov_list": [
