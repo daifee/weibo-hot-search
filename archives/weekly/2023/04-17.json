@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681961618297,
+  "endTime": 1681964468357,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -81,6 +81,14 @@
       "onboard_time": 1681897225,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3130346,
+      "num": 3130346,
+      "word": "王一博片场意外翻车",
+      "onboard_time": 1681960228,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 3086164,
@@ -195,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2393627,
+      "num": 727385,
+      "word": "梅西店铺将台湾列为国家",
+      "onboard_time": 1681956628,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2384433,
       "num": 2384433,
       "word": "千万不要有舔奶盖的习惯",
@@ -257,14 +273,6 @@
       "onboard_time": 1681817908,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2088372,
-      "num": 676253,
-      "word": "梅西店铺将台湾列为国家",
-      "onboard_time": 1681956628,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 2061040,
@@ -539,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1477789,
-      "num": 1477789,
-      "word": "王一博片场意外翻车",
-      "onboard_time": 1681960228,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1474414,
       "num": 1474414,
       "word": "老娘已经80多天没有放假了",
@@ -665,6 +665,14 @@
       "onboard_time": 1681829911,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1297194,
+      "num": 1297194,
+      "word": "夫妻赌气喝洁厕剂丈夫报警后让先救妻子",
+      "onboard_time": 1681961969,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1275635,
@@ -843,20 +851,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 987080,
+      "num": 987080,
+      "word": "脱轨",
+      "onboard_time": 1681958428,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 974789,
       "num": 974789,
       "word": "宋雨琦回应没礼貌不懂分寸",
       "onboard_time": 1681898966,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 968998,
-      "num": 968998,
-      "word": "脱轨",
-      "onboard_time": 1681958428,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 965316,
@@ -883,12 +891,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 947951,
+      "num": 947951,
+      "word": "韩国艺人",
+      "onboard_time": 1681961428,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 946616,
       "num": 946616,
       "word": "易烊千玺双开门冰箱",
       "onboard_time": 1681872686,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 935479,
+      "num": 935479,
+      "word": "男子被陌生人腰上贴膏药后晕倒",
+      "onboard_time": 1681960348,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 925721,
@@ -1073,6 +1097,14 @@
       "onboard_time": 1681701148,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 804507,
+      "num": 804507,
+      "word": "宝马mini展区被指区别对待",
+      "onboard_time": 1681962390,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 802228,
@@ -1441,6 +1473,14 @@
       "onboard_time": 1681895788,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 632038,
+      "num": 632038,
+      "word": "日全环食",
+      "onboard_time": 1681961848,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 630689,
@@ -2203,14 +2243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 439094,
-      "num": 439094,
-      "word": "男子被陌生人腰上贴膏药后晕倒",
-      "onboard_time": 1681960348,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438480,
       "num": 438480,
       "word": "特斯拉降价",
@@ -2281,6 +2313,14 @@
       "onboard_time": 1681894047,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 419754,
+      "num": 419754,
+      "word": "杜小华在鄂尔多斯发现寻亲线索",
+      "onboard_time": 1681962027,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417596,
@@ -2385,6 +2425,14 @@
       "onboard_time": 1681660168,
       "rank": 7,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 404806,
+      "num": 255598,
+      "word": "出嫁后妈妈给了我一栋收租房",
+      "onboard_time": 1681961789,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 404566,
@@ -3539,6 +3587,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 282504,
+      "num": 222065,
+      "word": "张学友 抢票",
+      "onboard_time": 1681963892,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 282422,
       "num": 282422,
       "word": "黄牛你不要太离谱",
@@ -3737,6 +3793,14 @@
       "onboard_time": 1681778307,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 264841,
+      "num": 252362,
+      "word": "教练突然就想退私教费了",
+      "onboard_time": 1681959991,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 263955,
@@ -3955,14 +4019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241579,
-      "num": 241579,
-      "word": "教练突然就想退私教费了",
-      "onboard_time": 1681959991,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 241093,
       "num": 241093,
       "word": "大大担任eStar主教练",
@@ -4067,12 +4123,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229318,
+      "num": 229318,
+      "word": "三分野",
+      "onboard_time": 1681963411,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 229201,
       "num": 229201,
       "word": "JYP发文感叹市价突破3万亿韩元",
       "onboard_time": 1681723886,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229154,
+      "num": 229154,
+      "word": "工作人员回应宝马mini被指区别对待",
+      "onboard_time": 1681962750,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228319,
@@ -4187,6 +4259,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 224169,
+      "num": 166739,
+      "word": "严浩翔回眸镜头",
+      "onboard_time": 1681964252,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223365,
       "num": 268405,
       "word": "网红经济",
@@ -4219,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222283,
+      "num": 222283,
+      "word": "窦骁 你的名字我的姓氏",
+      "onboard_time": 1681964252,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221986,
       "num": 221986,
       "word": "中国经济没有出现通缩",
@@ -4241,6 +4329,14 @@
       "onboard_time": 1681808908,
       "rank": 19,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 220039,
+      "num": 220039,
+      "word": "官方回应烧秸秆被罚1.782亿",
+      "onboard_time": 1681963530,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219289,
@@ -4273,14 +4369,6 @@
       "onboard_time": 1681896566,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218014,
-      "num": 218014,
-      "word": "韩国艺人",
-      "onboard_time": 1681961428,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 217988,
@@ -4473,6 +4561,14 @@
       "onboard_time": 1681795412,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209035,
+      "num": 209035,
+      "word": "肖战最新怼脸拍摄大片",
+      "onboard_time": 1681964314,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208887,
@@ -4761,6 +4857,14 @@
       "onboard_time": 1681885465,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202074,
+      "num": 202074,
+      "word": "鹿晗第九座公益球场开始建设",
+      "onboard_time": 1681963289,
+      "rank": 34,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 201942,
@@ -5171,6 +5275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191953,
+      "num": 191953,
+      "word": "吉克隽逸腹肌",
+      "onboard_time": 1681963471,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191951,
       "num": 191951,
       "word": "曼城半决赛对阵皇马",
@@ -5353,6 +5465,14 @@
       "onboard_time": 1681879532,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187522,
+      "num": 187522,
+      "word": "花间令开机路透",
+      "onboard_time": 1681963712,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 187443,
@@ -5897,6 +6017,14 @@
       "onboard_time": 1681738768,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168310,
+      "num": 168310,
+      "word": "未定事件簿 雷雨",
+      "onboard_time": 1681963592,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 167590,
@@ -7057,6 +7185,14 @@
       "onboard_time": 1681715727,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123166,
+      "num": 135653,
+      "word": "去迪士尼前的恶补",
+      "onboard_time": 1681962390,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 122766,
