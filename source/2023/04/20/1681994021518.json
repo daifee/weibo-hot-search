@@ -1,0 +1,410 @@
+{
+  "runTime": 1681994021518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2450396,
+        "num": 2450396,
+        "word": "月薪4K工作很闲要辞职吗",
+        "onboard_time": 1681986207,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 805655,
+        "num": 805655,
+        "word": "泰裤辣",
+        "onboard_time": 1681989207,
+        "rank": 1,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 12028,
+        "num": 600916,
+        "word": "中国汉字遇上锦绣山河有多惊艳",
+        "onboard_time": 1681951651,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597454,
+        "num": 597454,
+        "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+        "onboard_time": 1681986990,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 579322,
+        "num": 579322,
+        "word": "灌篮高手",
+        "onboard_time": 1681989268,
+        "rank": 4,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 1776314,
+        "num": 569937,
+        "word": "宝马mini道歉",
+        "onboard_time": 1681972349,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 551954,
+        "num": 551954,
+        "word": "长月烬明一碗粥引发的血案",
+        "onboard_time": 1681989148,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389275,
+        "num": 389275,
+        "word": "杨幂录密逃了",
+        "onboard_time": 1681987168,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342176,
+        "num": 342176,
+        "word": "宝马mini车展冰激凌最低35元一杯",
+        "onboard_time": 1681983929,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 277409,
+        "num": 326571,
+        "word": "起底宝马冰淇淋背后公司",
+        "onboard_time": 1681979549,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 394539,
+        "num": 325227,
+        "word": "千万不要学博主穿丝巾",
+        "onboard_time": 1681988550,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383303,
+        "num": 324575,
+        "word": "流川枫好帅",
+        "onboard_time": 1681991487,
+        "rank": 11,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 323291,
+        "num": 323291,
+        "word": "BoysPlanet决赛出道夜",
+        "onboard_time": 1681988788,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293968,
+        "num": 293968,
+        "word": "宝马mini去年在华销量不到3万辆",
+        "onboard_time": 1681991366,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238531,
+        "num": 238531,
+        "word": "老鼠娶亲",
+        "onboard_time": 1681992928,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237744,
+        "num": 237744,
+        "word": "离职一年了还要我交接群",
+        "onboard_time": 1681975048,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232393,
+        "num": 232393,
+        "word": "浙BWF896车主谈意外走红",
+        "onboard_time": 1681985547,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229180,
+        "num": 229180,
+        "word": "声生不息",
+        "onboard_time": 1681990887,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152862,
+        "num": 213825,
+        "word": "下班需要带电脑回家吗",
+        "onboard_time": 1681993348,
+        "rank": 18,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 201951,
+        "num": 201951,
+        "word": "CBA",
+        "onboard_time": 1681992387,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 917185,
+        "num": 201554,
+        "word": "宝马mini展台再现冲突",
+        "onboard_time": 1681991426,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 702076,
+        "num": 200206,
+        "word": "姐姐未婚先孕用妹妹身份证结婚",
+        "onboard_time": 1681990049,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321800,
+        "num": 199610,
+        "word": "很喜欢但停产了的东西",
+        "onboard_time": 1681987048,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185447,
+        "num": 198169,
+        "word": "女性向",
+        "onboard_time": 1681993167,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295327,
+        "num": 197255,
+        "word": "女生称遭55岁老师掐脖子猥亵",
+        "onboard_time": 1681992507,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 292445,
+        "num": 195760,
+        "word": "C罗酒店将台湾列为国家",
+        "onboard_time": 1681968090,
+        "rank": 25,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 222976,
+        "num": 194388,
+        "word": "杭州大爷买3个包子付了19万6",
+        "onboard_time": 1681978408,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193995,
+        "num": 193995,
+        "word": "王一博被金靖逗到笑场",
+        "onboard_time": 1681990109,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193454,
+        "num": 193454,
+        "word": "花花和弟弟要放假了",
+        "onboard_time": 1681977928,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140111,
+        "num": 192937,
+        "word": "vivo折叠屏七大全球唯一",
+        "onboard_time": 1681992325,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 192519,
+        "num": 192519,
+        "word": "高校辟谣女生被3名黑人性侵",
+        "onboard_time": 1681988008,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186779,
+        "num": 186779,
+        "word": "辽宁男篮vs北京男篮",
+        "onboard_time": 1681993048,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174120,
+        "num": 174120,
+        "word": "电影版赤木晴子vs漫版赤木晴子",
+        "onboard_time": 1681976370,
+        "rank": 32,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 172591,
+        "num": 172591,
+        "word": "和闺蜜创业44天散伙了",
+        "onboard_time": 1681993048,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165959,
+        "num": 165959,
+        "word": "澹台烬帮翩然拿回情丝",
+        "onboard_time": 1681990647,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161244,
+        "num": 161244,
+        "word": "76岁大爷盗墓为过世孙子配婚获刑",
+        "onboard_time": 1681986748,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158524,
+        "num": 158524,
+        "word": "时间夺走了罗云熙的什么",
+        "onboard_time": 1681993768,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157044,
+        "num": 157044,
+        "word": "28岁存款6万的我裸辞了",
+        "onboard_time": 1681965031,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155623,
+        "num": 155623,
+        "word": "宝马mini展台已撤下冰淇淋宣传物料",
+        "onboard_time": 1681973610,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 151460,
+        "num": 151460,
+        "word": "HR听完都闭嘴的离职原因",
+        "onboard_time": 1681985068,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 159643,
+        "num": 151057,
+        "word": "Luneurs回应宝马mini冰淇淋事件",
+        "onboard_time": 1681975891,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 156357,
+        "num": 150711,
+        "word": "宝马mini展区被指区别对待",
+        "onboard_time": 1681962390,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150338,
+        "num": 150338,
+        "word": "原来十年前的微信长这样",
+        "onboard_time": 1681965097,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146007,
+        "num": 146007,
+        "word": "张佳宁说朱喆终于爆发了",
+        "onboard_time": 1681992387,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138198,
+        "num": 138198,
+        "word": "方时赫花350亿韩元买下LA豪宅",
+        "onboard_time": 1681989988,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128437,
+        "num": 128437,
+        "word": "星舰",
+        "onboard_time": 1681993889,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 127986,
+        "num": 127986,
+        "word": "胡先煦觉得自己长大的瞬间",
+        "onboard_time": 1681988306,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126056,
+        "num": 126056,
+        "word": "文彬文秀雅同框跳舞视频",
+        "onboard_time": 1681976130,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80308,
+        "num": 125577,
+        "word": "LPL选手亚运会集训",
+        "onboard_time": 1681979487,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73034,
+        "num": 123866,
+        "word": "月经期间到底能吃啥水果",
+        "onboard_time": 1681971988,
+        "rank": 49,
+        "category": "美食,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同加蓬总统举行会谈#"
+    }
+  }
+}

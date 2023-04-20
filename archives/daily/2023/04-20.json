@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681990415127,
+  "endTime": 1681994021518,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -59,6 +59,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2450396,
+      "num": 2450396,
+      "word": "月薪4K工作很闲要辞职吗",
+      "onboard_time": 1681986207,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2411859,
       "num": 681869,
       "word": "窦骁 你的名字我的姓氏",
@@ -113,14 +121,6 @@
       "onboard_time": 1681922485,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1616915,
-      "num": 1616915,
-      "word": "月薪4K工作很闲要辞职吗",
-      "onboard_time": 1681986207,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 1549388,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 917185,
+      "num": 201554,
+      "word": "宝马mini展台再现冲突",
+      "onboard_time": 1681991426,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 916389,
       "num": 852341,
       "word": "月经期间到底能吃啥水果",
@@ -273,6 +281,14 @@
       "onboard_time": 1681962390,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 805655,
+      "num": 805655,
+      "word": "泰裤辣",
+      "onboard_time": 1681989207,
+      "rank": 43,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 794862,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 727123,
-      "num": 478820,
+      "num": 597454,
       "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
       "onboard_time": 1681986990,
       "rank": 10,
@@ -329,6 +345,14 @@
       "onboard_time": 1681966536,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 702076,
+      "num": 216868,
+      "word": "姐姐未婚先孕用妹妹身份证结婚",
+      "onboard_time": 1681990049,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700794,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 609986,
-      "num": 575429,
+      "num": 579322,
       "word": "灌篮高手",
       "onboard_time": 1681989268,
       "rank": 20,
@@ -433,6 +457,14 @@
       "onboard_time": 1681950394,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551954,
+      "num": 551954,
+      "word": "长月烬明一碗粥引发的血案",
+      "onboard_time": 1681989148,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 544011,
@@ -579,14 +611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 440161,
-      "num": 440161,
-      "word": "长月烬明一碗粥引发的血案",
-      "onboard_time": 1681989148,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 433486,
       "num": 433486,
       "word": "肿瘤早期5个报警信号",
@@ -601,14 +625,6 @@
       "onboard_time": 1681902927,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 424035,
-      "num": 424035,
-      "word": "泰裤辣",
-      "onboard_time": 1681989207,
-      "rank": 43,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 423568,
@@ -651,6 +667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394539,
+      "num": 325227,
+      "word": "千万不要学博主穿丝巾",
+      "onboard_time": 1681988550,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 389206,
       "num": 389206,
       "word": "牺牲生活质量的攒钱有必要吗",
@@ -673,6 +697,14 @@
       "onboard_time": 1681975948,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 383303,
+      "num": 324575,
+      "word": "流川枫好帅",
+      "onboard_time": 1681991487,
+      "rank": 11,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 380426,
@@ -891,6 +923,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295327,
+      "num": 197255,
+      "word": "女生称遭55岁老师掐脖子猥亵",
+      "onboard_time": 1681992507,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 293968,
+      "num": 293968,
+      "word": "宝马mini去年在华销量不到3万辆",
+      "onboard_time": 1681991366,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 292158,
       "num": 292158,
       "word": "灌篮高手周边卖断货",
@@ -921,14 +969,6 @@
       "onboard_time": 1681897225,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288894,
-      "num": 206723,
-      "word": "千万不要学博主穿丝巾",
-      "onboard_time": 1681988550,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 288409,
@@ -1147,12 +1187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238531,
+      "num": 238531,
+      "word": "老鼠娶亲",
+      "onboard_time": 1681992928,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233594,
       "num": 233594,
       "word": "乐华全员为旗下选手打call",
       "onboard_time": 1681916130,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229180,
+      "num": 229180,
+      "word": "声生不息",
+      "onboard_time": 1681990887,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 225092,
@@ -1193,14 +1249,6 @@
       "onboard_time": 1681919906,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216868,
-      "num": 216868,
-      "word": "姐姐未婚先孕用妹妹身份证结婚",
-      "onboard_time": 1681990049,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216132,
@@ -1371,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201951,
+      "num": 201951,
+      "word": "CBA",
+      "onboard_time": 1681992387,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200765,
       "num": 200765,
       "word": "云襄传智斗江湖版预告",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1681986146,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193995,
+      "num": 193995,
+      "word": "王一博被金靖逗到笑场",
+      "onboard_time": 1681990109,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 193705,
@@ -1563,6 +1627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186779,
+      "num": 186779,
+      "word": "辽宁男篮vs北京男篮",
+      "onboard_time": 1681993048,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186307,
       "num": 186307,
       "word": "安陵容看了都要叫你声姐姐",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1681964674,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185447,
+      "num": 198169,
+      "word": "女性向",
+      "onboard_time": 1681993167,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 184693,
@@ -1691,6 +1771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172591,
+      "num": 172591,
+      "word": "和闺蜜创业44天散伙了",
+      "onboard_time": 1681993048,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172061,
       "num": 172061,
       "word": "明日方舟",
@@ -1737,6 +1825,14 @@
       "onboard_time": 1681954171,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165959,
+      "num": 165959,
+      "word": "澹台烬帮翩然拿回情丝",
+      "onboard_time": 1681990647,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 165203,
@@ -1803,6 +1899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158524,
+      "num": 158524,
+      "word": "时间夺走了罗云熙的什么",
+      "onboard_time": 1681993768,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155359,
       "num": 155359,
       "word": "哥斯拉大战金刚2片名",
@@ -1835,6 +1939,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 152862,
+      "num": 213825,
+      "word": "下班需要带电脑回家吗",
+      "onboard_time": 1681993348,
+      "rank": 18,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 150272,
       "num": 150272,
       "word": "卡地亚",
@@ -1849,6 +1961,14 @@
       "onboard_time": 1681972109,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146007,
+      "num": 146007,
+      "word": "张佳宁说朱喆终于爆发了",
+      "onboard_time": 1681992387,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 142979,
@@ -1881,6 +2001,14 @@
       "onboard_time": 1681968450,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140111,
+      "num": 192937,
+      "word": "vivo折叠屏七大全球唯一",
+      "onboard_time": 1681992325,
+      "rank": 29,
+      "category": "科技"
     },
     {
       "raw_hot": 138694,
@@ -1955,12 +2083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128638,
-      "num": 128638,
-      "word": "王一博被金靖逗到笑场",
-      "onboard_time": 1681990109,
+      "raw_hot": 128437,
+      "num": 128437,
+      "word": "星舰",
+      "onboard_time": 1681993889,
       "rank": 45,
-      "category": "影视"
+      "category": "科技"
     },
     {
       "raw_hot": 128095,
