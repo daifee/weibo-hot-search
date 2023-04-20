@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681982234072,
+  "endTime": 1681983218560,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -571,6 +571,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1500549,
+      "num": 349278,
+      "word": "宝马mini 打人",
+      "onboard_time": 1681981768,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1498474,
       "num": 1498474,
       "word": "淄博一烧烤店生意太火爆停业休息",
@@ -731,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1256735,
+      "num": 1256735,
+      "word": "王嘉尔公司退股张艺兴合伙企业",
+      "onboard_time": 1681978889,
+      "rank": 44,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 1251415,
       "num": 1251415,
       "word": "建议下班回家后马上洗漱",
@@ -793,14 +809,6 @@
       "onboard_time": 1681778068,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1146095,
-      "num": 1146095,
-      "word": "王嘉尔公司退股张艺兴合伙企业",
-      "onboard_time": 1681978889,
-      "rank": 44,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 1105425,
@@ -2499,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425105,
+      "num": 346124,
+      "word": "起底宝马冰淇淋背后公司",
+      "onboard_time": 1681979549,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 423568,
       "num": 334348,
       "word": "出嫁后妈妈给了我一栋收租房",
@@ -2603,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412522,
+      "num": 412522,
+      "word": "LPL选手亚运会集训",
+      "onboard_time": 1681979487,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 407283,
       "num": 407283,
       "word": "张艺兴 福建平潭",
@@ -2643,14 +2667,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 405118,
-      "num": 349278,
-      "word": "宝马mini 打人",
-      "onboard_time": 1681981768,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404566,
       "num": 404566,
       "word": "今天是安欣48岁生日",
@@ -2659,12 +2675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 400659,
-      "num": 400659,
-      "word": "LPL选手亚运会集训",
-      "onboard_time": 1681979487,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 401840,
+      "num": 401840,
+      "word": "王鹤棣新剧公主抱周也",
+      "onboard_time": 1681979909,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 399827,
@@ -3187,14 +3203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 352462,
-      "num": 352462,
-      "word": "王鹤棣新剧公主抱周也",
-      "onboard_time": 1681979909,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 352226,
       "num": 352226,
       "word": "叶冰裳彻底黑化",
@@ -3225,14 +3233,6 @@
       "onboard_time": 1681896089,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 346124,
-      "num": 346124,
-      "word": "起底宝马冰淇淋背后公司",
-      "onboard_time": 1681979549,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 345869,
@@ -3875,6 +3875,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 287532,
+      "num": 168501,
+      "word": "Luneurs回应宝马mini冰淇淋事件",
+      "onboard_time": 1681975891,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 285795,
       "num": 294357,
       "word": "张含韵回应质疑",
@@ -3945,14 +3953,6 @@
       "onboard_time": 1681781546,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 282188,
-      "num": 168501,
-      "word": "Luneurs回应宝马mini冰淇淋事件",
-      "onboard_time": 1681975891,
-      "rank": 40,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 282120,
@@ -5155,6 +5155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204957,
+      "num": 204957,
+      "word": "江疏影土味版flower",
+      "onboard_time": 1681982488,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204932,
       "num": 204932,
       "word": "高铁上可以点外卖",
@@ -5609,6 +5617,14 @@
       "onboard_time": 1681873407,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193705,
+      "num": 193705,
+      "word": "大天狗传说限定皮肤",
+      "onboard_time": 1681977270,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 193572,
@@ -6185,14 +6201,6 @@
       "onboard_time": 1681887207,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180638,
-      "num": 180638,
-      "word": "大天狗传说限定皮肤",
-      "onboard_time": 1681977270,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 180188,
@@ -8305,6 +8313,14 @@
       "onboard_time": 1681925897,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97837,
+      "num": 97837,
+      "word": "宝宝百日宴长辈送上百斤花式馒头",
+      "onboard_time": 1681982308,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97335,

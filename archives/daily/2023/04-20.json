@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681982234072,
+  "endTime": 1681983218560,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -115,6 +115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1500549,
+      "num": 349278,
+      "word": "宝马mini 打人",
+      "onboard_time": 1681981768,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1385979,
       "num": 1385979,
       "word": "领导说你干不下去可以走时",
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1256735,
+      "num": 1256735,
+      "word": "王嘉尔公司退股张艺兴合伙企业",
+      "onboard_time": 1681978889,
+      "rank": 44,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 1227442,
       "num": 1227442,
       "word": "180以下的男演员能不能拍偶像剧",
@@ -161,14 +177,6 @@
       "onboard_time": 1681965031,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1146095,
-      "num": 1146095,
-      "word": "王嘉尔公司退股张艺兴合伙企业",
-      "onboard_time": 1681978889,
-      "rank": 44,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 1018060,
@@ -507,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 425105,
+      "num": 346124,
+      "word": "起底宝马冰淇淋背后公司",
+      "onboard_time": 1681979549,
+      "rank": 25,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 423568,
       "num": 334348,
       "word": "出嫁后妈妈给了我一栋收租房",
@@ -531,20 +547,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 405118,
-      "num": 349278,
-      "word": "宝马mini 打人",
-      "onboard_time": 1681981768,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400659,
-      "num": 400659,
+      "raw_hot": 412522,
+      "num": 412522,
       "word": "LPL选手亚运会集训",
       "onboard_time": 1681979487,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 401840,
+      "num": 401840,
+      "word": "王鹤棣新剧公主抱周也",
+      "onboard_time": 1681979909,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 389206,
@@ -609,22 +625,6 @@
       "onboard_time": 1681954890,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352462,
-      "num": 352462,
-      "word": "王鹤棣新剧公主抱周也",
-      "onboard_time": 1681979909,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 346124,
-      "num": 346124,
-      "word": "起底宝马冰淇淋背后公司",
-      "onboard_time": 1681979549,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 345869,
@@ -803,6 +803,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 287532,
+      "num": 168501,
+      "word": "Luneurs回应宝马mini冰淇淋事件",
+      "onboard_time": 1681975891,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 284102,
       "num": 284102,
       "word": "特斯拉一季度盈利暴跌20%",
@@ -825,14 +833,6 @@
       "onboard_time": 1681959991,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 282188,
-      "num": 168501,
-      "word": "Luneurs回应宝马mini冰淇淋事件",
-      "onboard_time": 1681975891,
-      "rank": 40,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 281519,
@@ -1139,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204957,
+      "num": 204957,
+      "word": "江疏影土味版flower",
+      "onboard_time": 1681982488,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203928,
       "num": 203928,
       "word": "也门首都踩踏造成至少80死220伤",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1681977747,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193705,
+      "num": 193705,
+      "word": "大天狗传说限定皮肤",
+      "onboard_time": 1681977270,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 193196,
@@ -1361,14 +1377,6 @@
       "onboard_time": 1681910847,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180638,
-      "num": 180638,
-      "word": "大天狗传说限定皮肤",
-      "onboard_time": 1681977270,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 180114,
@@ -1896,6 +1904,14 @@
       "word": "北京长峰医院火灾事故已致29人死亡",
       "onboard_time": 1681879592,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97837,
+      "num": 97837,
+      "word": "宝宝百日宴长辈送上百斤花式馒头",
+      "onboard_time": 1681982308,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
