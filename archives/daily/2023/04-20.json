@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681986833136,
+  "endTime": 1681989280292,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -131,6 +131,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 1368182,
+      "num": 417015,
+      "word": "小鹏发冰淇淋",
+      "onboard_time": 1681985910,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1360729,
       "num": 708284,
       "word": "周雨结婚",
@@ -195,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 989863,
+      "num": 989863,
+      "word": "月薪4K工作很闲要辞职吗",
+      "onboard_time": 1681986207,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 987080,
       "num": 987080,
       "word": "脱轨",
@@ -209,6 +225,14 @@
       "onboard_time": 1681961428,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 942200,
+      "num": 942200,
+      "word": "尹锡悦称台湾问题是全球问题",
+      "onboard_time": 1681984890,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 935479,
@@ -315,12 +339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 684181,
+      "num": 684181,
+      "word": "杨幂录密逃了",
+      "onboard_time": 1681987168,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 683688,
       "num": 683688,
       "word": "日全环食20日上演",
       "onboard_time": 1681957407,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677430,
+      "num": 478820,
+      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+      "onboard_time": 1681986990,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 675377,
@@ -353,6 +393,14 @@
       "onboard_time": 1681970489,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 609986,
+      "num": 234016,
+      "word": "灌篮高手",
+      "onboard_time": 1681989268,
+      "rank": 20,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 592846,
@@ -436,7 +484,7 @@
     },
     {
       "raw_hot": 517938,
-      "num": 378320,
+      "num": 482349,
       "word": "宝马mini车展冰激凌最低35元一杯",
       "onboard_time": 1681983929,
       "rank": 11,
@@ -457,6 +505,14 @@
       "onboard_time": 1681917568,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 486311,
+      "num": 949606,
+      "word": "浙BWF896车主谈意外走红",
+      "onboard_time": 1681985547,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483577,
@@ -489,6 +545,14 @@
       "onboard_time": 1681971025,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464272,
+      "num": 233280,
+      "word": "很喜欢但停产了的东西",
+      "onboard_time": 1681987048,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 463499,
@@ -555,14 +619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 417015,
-      "num": 417015,
-      "word": "小鹏发冰淇淋",
-      "onboard_time": 1681985910,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412522,
       "num": 412522,
       "word": "LPL选手亚运会集训",
@@ -624,14 +680,6 @@
       "word": "沙尘暴",
       "onboard_time": 1681949731,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367099,
-      "num": 367099,
-      "word": "尹锡悦称台湾问题是全球问题",
-      "onboard_time": 1681984890,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -724,7 +772,7 @@
     },
     {
       "raw_hot": 326009,
-      "num": 201834,
+      "num": 230284,
       "word": "HR听完都闭嘴的离职原因",
       "onboard_time": 1681985068,
       "rank": 25,
@@ -1019,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246233,
+      "num": 228964,
+      "word": "灌篮高手官旗回应被抢空",
+      "onboard_time": 1681988609,
+      "rank": 26,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 244346,
       "num": 244346,
       "word": "我给灌篮高手补张票",
@@ -1057,6 +1113,14 @@
       "onboard_time": 1681916130,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228733,
+      "num": 228733,
+      "word": "高校辟谣女生被3名黑人性侵",
+      "onboard_time": 1681988008,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225092,
@@ -1195,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205665,
+      "num": 205665,
+      "word": "76岁大爷盗墓为过世孙子配婚获刑",
+      "onboard_time": 1681986748,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205311,
       "num": 205311,
       "word": "直播2023首次日食",
@@ -1283,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198273,
+      "num": 235485,
+      "word": "BoysPlanet决赛出道夜",
+      "onboard_time": 1681988788,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197246,
       "num": 197246,
       "word": "杨蓉说大侦探永远都会在",
@@ -1307,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195436,
+      "num": 195436,
+      "word": "外交部回应尹锡悦涉台言论",
+      "onboard_time": 1681988848,
+      "rank": 33,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 195011,
       "num": 195011,
       "word": "张真源教助理跳舞",
@@ -1323,20 +1411,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194308,
-      "num": 438968,
-      "word": "浙BWF896车主谈意外走红",
-      "onboard_time": 1681985547,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193705,
       "num": 193705,
       "word": "大天狗传说限定皮肤",
       "onboard_time": 1681977270,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193631,
+      "num": 193631,
+      "word": "倒数说爱你",
+      "onboard_time": 1681988427,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 193196,
@@ -1571,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171300,
+      "num": 171300,
+      "word": "千万不要学博主穿丝巾",
+      "onboard_time": 1681988550,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171109,
       "num": 171109,
       "word": "教练 我想打篮球",
@@ -1604,19 +1700,11 @@
     },
     {
       "raw_hot": 165203,
-      "num": 494727,
+      "num": 699862,
       "word": "钓鱼小伙救人后换个地方继续钓",
       "onboard_time": 1681984227,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165135,
-      "num": 165135,
-      "word": "月薪4K工作很闲要辞职吗",
-      "onboard_time": 1681986207,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 164155,
@@ -1715,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146006,
+      "num": 146006,
+      "word": "长月烬明一碗粥引发的血案",
+      "onboard_time": 1681989148,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141997,
       "num": 141997,
       "word": "你认为读书需要仪式感吗",
@@ -1787,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131923,
+      "num": 131923,
+      "word": "泰裤辣",
+      "onboard_time": 1681989207,
+      "rank": 43,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 129942,
       "num": 129942,
       "word": "江疏影回应在桃花坞摔屁股蹲",
@@ -1848,6 +1952,14 @@
       "word": "DKZ李庚润因恐慌障碍暂停活动",
       "onboard_time": 1681979369,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126301,
+      "num": 126301,
+      "word": "胡先煦觉得自己长大的瞬间",
+      "onboard_time": 1681988306,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1995,14 +2107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100534,
-      "num": 100534,
-      "word": "76岁大爷盗墓为过世孙子配婚获刑",
-      "onboard_time": 1681986748,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98136,
       "num": 98136,
       "word": "她还享受着金色的生命",
@@ -2113,6 +2217,14 @@
       "onboard_time": 1681951651,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26591,
+      "num": 270850,
+      "word": "你最期待谁画的明星妆容",
+      "onboard_time": 1681988427,
+      "rank": 14,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 17586,
