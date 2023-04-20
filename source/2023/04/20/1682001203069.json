@@ -1,0 +1,410 @@
+{
+  "runTime": 1682001203069,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9840962,
+        "num": 9840962,
+        "word": "SpaceX星舰发射失败",
+        "onboard_time": 1681998271,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1332769,
+        "num": 1332769,
+        "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+        "onboard_time": 1681986990,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 21499,
+        "num": 1088894,
+        "word": "中国汉字遇上锦绣山河有多惊艳",
+        "onboard_time": 1681951651,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1420232,
+        "num": 1025186,
+        "word": "姐姐未婚先孕用妹妹身份证结婚",
+        "onboard_time": 1681990049,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908298,
+        "num": 908298,
+        "word": "灌篮高手",
+        "onboard_time": 1681989268,
+        "rank": 4,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 1492145,
+        "num": 884442,
+        "word": "宝马mini道歉",
+        "onboard_time": 1681972349,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 796574,
+        "num": 796574,
+        "word": "月薪4K工作很闲要辞职吗",
+        "onboard_time": 1681986207,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 642778,
+        "num": 642778,
+        "word": "莫文蔚忽然之间全场大合唱",
+        "onboard_time": 1681995209,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596828,
+        "num": 596828,
+        "word": "孙颖莎让二追三",
+        "onboard_time": 1682000315,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546794,
+        "num": 546794,
+        "word": "BoysPlanet出道团名ZB1",
+        "onboard_time": 1681995749,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 838749,
+        "num": 523567,
+        "word": "SpaceX星舰今晚重新发射",
+        "onboard_time": 1681997311,
+        "rank": 10,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 484057,
+        "num": 484057,
+        "word": "BoysPlanet决赛出道夜",
+        "onboard_time": 1681988788,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410936,
+        "num": 410936,
+        "word": "李泰民悼念文彬",
+        "onboard_time": 1681994730,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402030,
+        "num": 402030,
+        "word": "流川枫好帅",
+        "onboard_time": 1681991487,
+        "rank": 13,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 368648,
+        "num": 368648,
+        "word": "长月烬明一碗粥引发的血案",
+        "onboard_time": 1681989148,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347954,
+        "num": 347954,
+        "word": "誓约",
+        "onboard_time": 1681994606,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303151,
+        "num": 303151,
+        "word": "赵继伟三分好牛",
+        "onboard_time": 1681996111,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303026,
+        "num": 303026,
+        "word": "小象是如何揉眼睛的",
+        "onboard_time": 1681998871,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297156,
+        "num": 297156,
+        "word": "张杰第九次唱别怕我伤心",
+        "onboard_time": 1681994668,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287215,
+        "num": 287215,
+        "word": "女性向",
+        "onboard_time": 1681993167,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 670071,
+        "num": 286849,
+        "word": "马斯克",
+        "onboard_time": 1681997430,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 537450,
+        "num": 279500,
+        "word": "女生称遭55岁老师掐脖子猥亵",
+        "onboard_time": 1681992507,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 516410,
+        "num": 276734,
+        "word": "很喜欢但停产了的东西",
+        "onboard_time": 1681987048,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347801,
+        "num": 274943,
+        "word": "和闺蜜创业44天散伙了",
+        "onboard_time": 1681993048,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288774,
+        "num": 269886,
+        "word": "何昶希作为演员新人我还有很多不足",
+        "onboard_time": 1681999835,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267663,
+        "num": 267663,
+        "word": "76岁大爷盗墓为过世孙子配婚获刑",
+        "onboard_time": 1681986748,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251179,
+        "num": 251179,
+        "word": "杨洋内八站姿",
+        "onboard_time": 1681998331,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248408,
+        "num": 248408,
+        "word": "长月烬明预告",
+        "onboard_time": 1681995689,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240173,
+        "num": 240173,
+        "word": "杨幂录密逃了",
+        "onboard_time": 1681987168,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89971,
+        "num": 214828,
+        "word": "过去一年你读了几本书",
+        "onboard_time": 1681999417,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 765155,
+        "num": 213735,
+        "word": "宝马mini展台再现冲突",
+        "onboard_time": 1681991426,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212374,
+        "num": 212374,
+        "word": "灌篮高手 屏摄",
+        "onboard_time": 1681996890,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 202181,
+        "num": 202181,
+        "word": "马嘉祺音色",
+        "onboard_time": 1681998093,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200456,
+        "num": 200456,
+        "word": "时间夺走了罗云熙的什么",
+        "onboard_time": 1681993768,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184577,
+        "num": 184577,
+        "word": "起底宝马冰淇淋背后公司",
+        "onboard_time": 1681979549,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 175287,
+        "num": 175287,
+        "word": "高校辟谣女生被3名黑人性侵",
+        "onboard_time": 1681988008,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168416,
+        "num": 168416,
+        "word": "C罗酒店将台湾列为国家",
+        "onboard_time": 1681968090,
+        "rank": 36,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 166149,
+        "num": 166149,
+        "word": "cp29",
+        "onboard_time": 1681995151,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164398,
+        "num": 164398,
+        "word": "杭州大爷买3个包子付了19万6",
+        "onboard_time": 1681978408,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99241,
+        "num": 156724,
+        "word": "手机秒变mini包",
+        "onboard_time": 1681996228,
+        "rank": 39,
+        "category": "科技,时尚"
+      },
+      {
+        "raw_hot": 154775,
+        "num": 154775,
+        "word": "千万不要学博主穿丝巾",
+        "onboard_time": 1681988550,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154519,
+        "num": 154519,
+        "word": "泰裤辣",
+        "onboard_time": 1681989207,
+        "rank": 41,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 148715,
+        "num": 148715,
+        "word": "HR听完都闭嘴的离职原因",
+        "onboard_time": 1681985068,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 135516,
+        "num": 135516,
+        "word": "BoysPlanet投票",
+        "onboard_time": 1681995629,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134977,
+        "num": 134977,
+        "word": "CBA",
+        "onboard_time": 1681992387,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134089,
+        "num": 134089,
+        "word": "电影版赤木晴子vs漫版赤木晴子",
+        "onboard_time": 1681976370,
+        "rank": 45,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 130997,
+        "num": 130997,
+        "word": "ZB1花名",
+        "onboard_time": 1682000673,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118144,
+        "num": 130725,
+        "word": "离职一年了还要我交接群",
+        "onboard_time": 1681975048,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117926,
+        "num": 130160,
+        "word": "澹台烬帮翩然拿回情丝",
+        "onboard_time": 1681990647,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 108175,
+        "num": 129326,
+        "word": "俞敏洪建议董宇辉出国留学",
+        "onboard_time": 1682001033,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中加友好始终坚如磐石#"
+    }
+  }
+}

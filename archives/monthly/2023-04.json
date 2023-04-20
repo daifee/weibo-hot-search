@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682000170385,
+  "endTime": 1682001203069,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -35,6 +35,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 9840962,
+      "num": 9840962,
+      "word": "SpaceX星舰发射失败",
+      "onboard_time": 1681998271,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
       "raw_hot": 9506486,
       "num": 9506486,
       "word": "张继科年收入曾达6000万元",
@@ -49,14 +57,6 @@
       "onboard_time": 1680683010,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9034181,
-      "num": 9034181,
-      "word": "SpaceX星舰发射失败",
-      "onboard_time": 1681998271,
-      "rank": 0,
-      "category": "科技"
     },
     {
       "raw_hot": 8591986,
@@ -2915,6 +2915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1420232,
+      "num": 1343314,
+      "word": "姐姐未婚先孕用妹妹身份证结婚",
+      "onboard_time": 1681990049,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1419966,
       "num": 400115,
       "word": "鹿晗又染粉发",
@@ -3161,14 +3169,6 @@
       "onboard_time": 1681220849,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1343314,
-      "num": 1343314,
-      "word": "姐姐未婚先孕用妹妹身份证结婚",
-      "onboard_time": 1681990049,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1341091,
@@ -5291,6 +5291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 908298,
+      "num": 908298,
+      "word": "灌篮高手",
+      "onboard_time": 1681435526,
+      "rank": 37,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 907161,
       "num": 907161,
       "word": "黑莲花 绝世大饼",
@@ -5609,14 +5617,6 @@
       "onboard_time": 1680572849,
       "rank": 43,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 877062,
-      "num": 877062,
-      "word": "灌篮高手",
-      "onboard_time": 1681435526,
-      "rank": 37,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 876639,
@@ -9483,6 +9483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 596828,
+      "num": 596828,
+      "word": "孙颖莎让二追三",
+      "onboard_time": 1682000315,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596820,
       "num": 596820,
       "word": "蜜雪冰城冰淇淋音乐节",
@@ -11411,6 +11419,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 516410,
+      "num": 276734,
+      "word": "很喜欢但停产了的东西",
+      "onboard_time": 1681987048,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 516370,
       "num": 507602,
       "word": "长月烬明刷新仙侠剧破万纪录",
@@ -12171,6 +12187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484057,
+      "num": 484057,
+      "word": "BoysPlanet决赛出道夜",
+      "onboard_time": 1681988788,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483778,
       "num": 483778,
       "word": "ppgod",
@@ -12793,14 +12817,6 @@
       "onboard_time": 1681351109,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464272,
-      "num": 273247,
-      "word": "很喜欢但停产了的东西",
-      "onboard_time": 1681987048,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 464132,
@@ -17355,14 +17371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350566,
-      "num": 350566,
-      "word": "BoysPlanet决赛出道夜",
-      "onboard_time": 1681988788,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 350461,
       "num": 350461,
       "word": "灿吧直播",
@@ -19795,6 +19803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303026,
+      "num": 303026,
+      "word": "小象是如何揉眼睛的",
+      "onboard_time": 1681998871,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302959,
       "num": 302959,
       "word": "五哈3在漠河舞厅杀青",
@@ -20657,6 +20673,14 @@
       "onboard_time": 1681219468,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288774,
+      "num": 269886,
+      "word": "何昶希作为演员新人我还有很多不足",
+      "onboard_time": 1681999835,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 288694,
@@ -21963,6 +21987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267663,
+      "num": 267663,
+      "word": "76岁大爷盗墓为过世孙子配婚获刑",
+      "onboard_time": 1681986748,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267527,
       "num": 261847,
       "word": "肖战最新怼脸状态",
@@ -23147,6 +23179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251179,
+      "num": 251179,
+      "word": "杨洋内八站姿",
+      "onboard_time": 1681998331,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251090,
       "num": 251090,
       "word": "我追星的状态",
@@ -23811,14 +23851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 242297,
-      "num": 242297,
-      "word": "76岁大爷盗墓为过世孙子配婚获刑",
-      "onboard_time": 1681986748,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242292,
       "num": 242292,
       "word": "读书是为了赚钱吗",
@@ -24017,14 +24049,6 @@
       "onboard_time": 1680943884,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239686,
-      "num": 239686,
-      "word": "杨洋内八站姿",
-      "onboard_time": 1681998331,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 239611,
@@ -26179,14 +26203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218314,
-      "num": 198637,
-      "word": "小象是如何揉眼睛的",
-      "onboard_time": 1681998871,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218309,
       "num": 201794,
       "word": "徐明浩也在追狂飙",
@@ -26849,6 +26865,14 @@
       "onboard_time": 1681014089,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212374,
+      "num": 212374,
+      "word": "灌篮高手 屏摄",
+      "onboard_time": 1681996890,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 212367,
@@ -31067,14 +31091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196855,
-      "num": 196855,
-      "word": "何昶希作为演员新人我还有很多不足",
-      "onboard_time": 1681999835,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196852,
       "num": 196852,
       "word": "桑酒被灭族",
@@ -32217,14 +32233,6 @@
       "onboard_time": 1680780150,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193014,
-      "num": 193014,
-      "word": "灌篮高手 屏摄",
-      "onboard_time": 1681996890,
-      "rank": 47,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 192985,
@@ -41532,7 +41540,7 @@
     },
     {
       "raw_hot": 135895,
-      "num": 200162,
+      "num": 214828,
       "word": "过去一年你读了几本书",
       "onboard_time": 1681999417,
       "rank": 29,
@@ -42113,6 +42121,14 @@
       "onboard_time": 1681876589,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 130997,
+      "num": 130997,
+      "word": "ZB1花名",
+      "onboard_time": 1682000673,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 130995,
@@ -44545,6 +44561,14 @@
       "onboard_time": 1681808249,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108175,
+      "num": 129326,
+      "word": "俞敏洪建议董宇辉出国留学",
+      "onboard_time": 1682001033,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108043,
