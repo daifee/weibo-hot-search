@@ -1,0 +1,410 @@
+{
+  "runTime": 1681968815549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2496039,
+        "num": 2496039,
+        "word": "王一博片场意外翻车",
+        "onboard_time": 1681960228,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2129463,
+        "num": 2129463,
+        "word": "宝马mini",
+        "onboard_time": 1681955429,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 46036,
+        "num": 998026,
+        "word": "卫星视角看祖国大地春耕图",
+        "onboard_time": 1681959869,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 960392,
+        "num": 960392,
+        "word": "夫妻赌气喝洁厕剂丈夫报警后让先救妻子",
+        "onboard_time": 1681961969,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744460,
+        "num": 744460,
+        "word": "车银优紧急回国",
+        "onboard_time": 1681951052,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706931,
+        "num": 706931,
+        "word": "陈飞宇周也赵小棠同框扫楼",
+        "onboard_time": 1681966536,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 705579,
+        "num": 705579,
+        "word": "宝马mini展区被指区别对待",
+        "onboard_time": 1681962390,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642704,
+        "num": 642704,
+        "word": "工作人员回应宝马mini被指区别对待",
+        "onboard_time": 1681962750,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585898,
+        "num": 585898,
+        "word": "ASTRO成员文彬去世",
+        "onboard_time": 1681921705,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441655,
+        "num": 441655,
+        "word": "领导说你干不下去可以走时",
+        "onboard_time": 1681967611,
+        "rank": 9,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 2371488,
+        "num": 437957,
+        "word": "窦骁 你的名字我的姓氏",
+        "onboard_time": 1681964252,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1093313,
+        "num": 436357,
+        "word": "梅西店铺将台湾列为国家",
+        "onboard_time": 1681956628,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 537906,
+        "num": 435216,
+        "word": "C罗酒店将台湾列为国家",
+        "onboard_time": 1681968090,
+        "rank": 12,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 432390,
+        "num": 432390,
+        "word": "男子被陌生人腰上贴膏药后晕倒",
+        "onboard_time": 1681960348,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17586,
+        "num": 426650,
+        "word": "高伟喆教用手机拍大片",
+        "onboard_time": 1681966834,
+        "rank": 14,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 487525,
+        "num": 424762,
+        "word": "谭维维问双开门冰箱是什么意思",
+        "onboard_time": 1681964552,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421621,
+        "num": 421621,
+        "word": "未定事件簿 雷雨",
+        "onboard_time": 1681963592,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 405375,
+        "num": 405375,
+        "word": "张学友 抢票",
+        "onboard_time": 1681963892,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 396977,
+        "num": 396977,
+        "word": "男子在迪士尼抽烟后逼哭工作人员",
+        "onboard_time": 1681958848,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 383100,
+        "num": 383100,
+        "word": "韩国艺人",
+        "onboard_time": 1681961428,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839430,
+        "num": 383042,
+        "word": "28岁存款6万的我裸辞了",
+        "onboard_time": 1681965031,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 592846,
+        "num": 382977,
+        "word": "原来十年前的微信长这样",
+        "onboard_time": 1681965097,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396424,
+        "num": 382889,
+        "word": "办公室一天讲不了10句话",
+        "onboard_time": 1681965097,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382789,
+        "num": 382789,
+        "word": "长沙县发现一具无名女尸",
+        "onboard_time": 1681949132,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 308706,
+        "num": 308706,
+        "word": "甜馨谷雨汉服写真",
+        "onboard_time": 1681964674,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 291490,
+        "num": 291490,
+        "word": "赵露思对拖鞋的执念有多深",
+        "onboard_time": 1681965815,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274935,
+        "num": 274935,
+        "word": "150天女婴浑身红点确诊高危白血病",
+        "onboard_time": 1681966357,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265146,
+        "num": 265146,
+        "word": "日全环食",
+        "onboard_time": 1681961848,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253252,
+        "num": 253252,
+        "word": "官方回应烧秸秆被罚1.782亿",
+        "onboard_time": 1681963530,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248881,
+        "num": 248881,
+        "word": "脱轨",
+        "onboard_time": 1681958428,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241603,
+        "num": 241603,
+        "word": "三分野",
+        "onboard_time": 1681963411,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234589,
+        "num": 234589,
+        "word": "祝绪丹你是不是有什么难处",
+        "onboard_time": 1681950993,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 228729,
+        "num": 228729,
+        "word": "出嫁后妈妈给了我一栋收租房",
+        "onboard_time": 1681961789,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205102,
+        "num": 205102,
+        "word": "大侦探8收官",
+        "onboard_time": 1681967852,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200719,
+        "num": 200719,
+        "word": "长峰医院3名老人湿毛巾捂口鼻自救",
+        "onboard_time": 1681966956,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188437,
+        "num": 188437,
+        "word": "寻找姓鸭的人",
+        "onboard_time": 1681956809,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181437,
+        "num": 181437,
+        "word": "山科大北门伤人事件致1死6伤",
+        "onboard_time": 1681947267,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178679,
+        "num": 178679,
+        "word": "肿瘤早期5个报警信号",
+        "onboard_time": 1681955488,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178031,
+        "num": 178031,
+        "word": "长沙夜生活爱情预告",
+        "onboard_time": 1681967731,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172789,
+        "num": 172789,
+        "word": "姚琛新歌取名姚琛",
+        "onboard_time": 1681968029,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168233,
+        "num": 168233,
+        "word": "女子入职58天迟到21次不满被辞",
+        "onboard_time": 1681949010,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162028,
+        "num": 162028,
+        "word": "罗云熙教白鹿勒自己脖子",
+        "onboard_time": 1681964495,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151644,
+        "num": 151644,
+        "word": "教练 我想打篮球",
+        "onboard_time": 1681964915,
+        "rank": 42,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 140555,
+        "num": 140555,
+        "word": "徐钰和情敌成为知己",
+        "onboard_time": 1681968450,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138889,
+        "num": 138889,
+        "word": "云襄传",
+        "onboard_time": 1681958487,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138169,
+        "num": 138169,
+        "word": "电视剧脱轨官宣",
+        "onboard_time": 1681957167,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133427,
+        "num": 133427,
+        "word": "日全环食20日上演",
+        "onboard_time": 1681957407,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129609,
+        "num": 129609,
+        "word": "不良人",
+        "onboard_time": 1681958487,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126809,
+        "num": 126809,
+        "word": "教练突然就想退私教费了",
+        "onboard_time": 1681959991,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96022,
+        "num": 123714,
+        "word": "去迪士尼前的恶补",
+        "onboard_time": 1681962390,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#100天后成都见#"
+    }
+  }
+}
