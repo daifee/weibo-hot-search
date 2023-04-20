@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681989280292,
+  "endTime": 1681990415127,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -523,6 +523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1616915,
+      "num": 1616915,
+      "word": "月薪4K工作很闲要辞职吗",
+      "onboard_time": 1681986207,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1578103,
       "num": 527849,
       "word": "香港顶流",
@@ -931,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 989863,
-      "num": 989863,
-      "word": "月薪4K工作很闲要辞职吗",
-      "onboard_time": 1681986207,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 987080,
       "num": 987080,
       "word": "脱轨",
@@ -1315,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727123,
+      "num": 478820,
+      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+      "onboard_time": 1681986990,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 723212,
       "num": 723212,
       "word": "新生儿落户被标注文盲",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1681824030,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677430,
-      "num": 478820,
-      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
-      "onboard_time": 1681986990,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 677413,
@@ -1684,7 +1684,7 @@
     },
     {
       "raw_hot": 609986,
-      "num": 234016,
+      "num": 575429,
       "word": "灌篮高手",
       "onboard_time": 1681989268,
       "rank": 20,
@@ -2139,6 +2139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 491781,
+      "num": 949606,
+      "word": "浙BWF896车主谈意外走红",
+      "onboard_time": 1681985547,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491314,
       "num": 491314,
       "word": "卡地亚",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1681860744,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486311,
-      "num": 949606,
-      "word": "浙BWF896车主谈意外走红",
-      "onboard_time": 1681985547,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484682,
@@ -2340,7 +2340,7 @@
     },
     {
       "raw_hot": 464272,
-      "num": 233280,
+      "num": 234228,
       "word": "很喜欢但停产了的东西",
       "onboard_time": 1681987048,
       "rank": 21,
@@ -2539,6 +2539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 440161,
+      "num": 440161,
+      "word": "长月烬明一碗粥引发的血案",
+      "onboard_time": 1681989148,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 438480,
       "num": 438480,
       "word": "特斯拉降价",
@@ -2585,6 +2593,14 @@
       "onboard_time": 1681702106,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424035,
+      "num": 424035,
+      "word": "泰裤辣",
+      "onboard_time": 1681989207,
+      "rank": 43,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 423568,
@@ -3307,6 +3323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 350566,
+      "num": 350566,
+      "word": "BoysPlanet决赛出道夜",
+      "onboard_time": 1681988788,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349608,
       "num": 349608,
       "word": "尹浩宇中戏考试合格",
@@ -3963,6 +3987,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 288894,
+      "num": 206723,
+      "word": "千万不要学博主穿丝巾",
+      "onboard_time": 1681988550,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288670,
       "num": 288670,
       "word": "长月烬明 乌鸦",
@@ -4379,6 +4411,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 256068,
+      "num": 228733,
+      "word": "高校辟谣女生被3名黑人性侵",
+      "onboard_time": 1681988008,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255016,
       "num": 209572,
       "word": "易梦玲陈采尼环球影城游玩",
@@ -4635,14 +4675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228733,
-      "num": 228733,
-      "word": "高校辟谣女生被3名黑人性侵",
-      "onboard_time": 1681988008,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228319,
       "num": 228319,
       "word": "吉克隽逸用母语唱出彝族的淳朴",
@@ -4819,6 +4851,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 220746,
+      "num": 220746,
+      "word": "76岁大爷盗墓为过世孙子配婚获刑",
+      "onboard_time": 1681986748,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219289,
       "num": 197897,
       "word": "仰望U8预售价",
@@ -4889,6 +4929,14 @@
       "onboard_time": 1681726165,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216868,
+      "num": 216868,
+      "word": "姐姐未婚先孕用妹妹身份证结婚",
+      "onboard_time": 1681990049,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216815,
@@ -5251,14 +5299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205665,
-      "num": 205665,
-      "word": "76岁大爷盗墓为过世孙子配婚获刑",
-      "onboard_time": 1681986748,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205643,
       "num": 205643,
       "word": "电影志愿军年轻战士群像",
@@ -5337,6 +5377,14 @@
       "onboard_time": 1681950751,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 203712,
+      "num": 203712,
+      "word": "vivo发布会",
+      "onboard_time": 1681989806,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 203660,
@@ -5577,14 +5625,6 @@
       "onboard_time": 1681776268,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198273,
-      "num": 235485,
-      "word": "BoysPlanet决赛出道夜",
-      "onboard_time": 1681988788,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 197304,
@@ -6251,6 +6291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184693,
+      "num": 184693,
+      "word": "音浪嘉年华",
+      "onboard_time": 1681989507,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184306,
       "num": 172247,
       "word": "冯小刚说现在拍电影是生活的调节",
@@ -6627,14 +6675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171300,
-      "num": 171300,
-      "word": "千万不要学博主穿丝巾",
-      "onboard_time": 1681988550,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171109,
       "num": 171109,
       "word": "教练 我想打篮球",
@@ -6808,6 +6848,14 @@
       "word": "檀健次王楚然爱情有烟火官宣",
       "onboard_time": 1681863270,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 164248,
+      "num": 164248,
+      "word": "为你逆光而来",
+      "onboard_time": 1681990166,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -7363,14 +7411,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146006,
-      "num": 146006,
-      "word": "长月烬明一碗粥引发的血案",
-      "onboard_time": 1681989148,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145871,
       "num": 107321,
       "word": "玥烬情苏宿命感",
@@ -7449,6 +7489,14 @@
       "onboard_time": 1681719569,
       "rank": 44,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 142979,
+      "num": 142979,
+      "word": "方时赫花350亿韩元买下LA豪宅",
+      "onboard_time": 1681989988,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 142691,
@@ -7691,6 +7739,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 132952,
+      "num": 132952,
+      "word": "胡先煦觉得自己长大的瞬间",
+      "onboard_time": 1681988306,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132826,
       "num": 132826,
       "word": "林俊杰说准备好了巴黎的朋友们",
@@ -7713,14 +7769,6 @@
       "onboard_time": 1681689986,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 131923,
-      "num": 131923,
-      "word": "泰裤辣",
-      "onboard_time": 1681989207,
-      "rank": 43,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 131859,
@@ -7793,6 +7841,14 @@
       "onboard_time": 1681957289,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128638,
+      "num": 128638,
+      "word": "王一博被金靖逗到笑场",
+      "onboard_time": 1681990109,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 128577,
@@ -7897,14 +7953,6 @@
       "onboard_time": 1681819706,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126301,
-      "num": 126301,
-      "word": "胡先煦觉得自己长大的瞬间",
-      "onboard_time": 1681988306,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 125882,
@@ -9075,6 +9123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39552,
+      "num": 358121,
+      "word": "你最期待谁画的明星妆容",
+      "onboard_time": 1681988427,
+      "rank": 14,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 38812,
       "num": 71496,
       "word": "眼周瑜伽",
@@ -9121,14 +9177,6 @@
       "onboard_time": 1681518865,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26591,
-      "num": 270850,
-      "word": "你最期待谁画的明星妆容",
-      "onboard_time": 1681988427,
-      "rank": 14,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 25107,

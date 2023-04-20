@@ -1,0 +1,410 @@
+{
+  "runTime": 1681990415127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1616915,
+        "num": 1616915,
+        "word": "月薪4K工作很闲要辞职吗",
+        "onboard_time": 1681986207,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 491781,
+        "num": 931966,
+        "word": "浙BWF896车主谈意外走红",
+        "onboard_time": 1681985547,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11954,
+        "num": 913238,
+        "word": "中国汉字遇上锦绣山河有多惊艳",
+        "onboard_time": 1681951651,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901542,
+        "num": 901542,
+        "word": "尹锡悦称台湾问题是全球问题",
+        "onboard_time": 1681984890,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168426,
+        "num": 685491,
+        "word": "消防员用奶茶救下轻生女孩",
+        "onboard_time": 1681973369,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2025524,
+        "num": 685293,
+        "word": "宝马mini道歉",
+        "onboard_time": 1681972349,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 151724,
+        "num": 657811,
+        "word": "钓鱼小伙救人后换个地方继续钓",
+        "onboard_time": 1681984227,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651404,
+        "num": 651404,
+        "word": "杨幂录密逃了",
+        "onboard_time": 1681987168,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575429,
+        "num": 575429,
+        "word": "灌篮高手",
+        "onboard_time": 1681989268,
+        "rank": 8,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 440161,
+        "num": 440161,
+        "word": "长月烬明一碗粥引发的血案",
+        "onboard_time": 1681989148,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 727123,
+        "num": 438962,
+        "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+        "onboard_time": 1681986990,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 431022,
+        "num": 431022,
+        "word": "离职一年了还要我交接群",
+        "onboard_time": 1681975048,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424035,
+        "num": 424035,
+        "word": "泰裤辣",
+        "onboard_time": 1681989207,
+        "rank": 12,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 415638,
+        "num": 415638,
+        "word": "宝马mini车展冰激凌最低35元一杯",
+        "onboard_time": 1681983929,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39552,
+        "num": 358121,
+        "word": "你最期待谁画的明星妆容",
+        "onboard_time": 1681988427,
+        "rank": 14,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 350566,
+        "num": 350566,
+        "word": "BoysPlanet决赛出道夜",
+        "onboard_time": 1681988788,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346249,
+        "num": 346249,
+        "word": "起底宝马冰淇淋背后公司",
+        "onboard_time": 1681979549,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 255483,
+        "num": 255483,
+        "word": "杜华想送儿子去德云社",
+        "onboard_time": 1681984709,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241279,
+        "num": 241279,
+        "word": "28岁存款6万的我裸辞了",
+        "onboard_time": 1681965031,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236379,
+        "num": 236379,
+        "word": "花花和弟弟要放假了",
+        "onboard_time": 1681977928,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451101,
+        "num": 234228,
+        "word": "很喜欢但停产了的东西",
+        "onboard_time": 1681987048,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299606,
+        "num": 230461,
+        "word": "C罗酒店将台湾列为国家",
+        "onboard_time": 1681968090,
+        "rank": 21,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 295873,
+        "num": 227026,
+        "word": "窦骁好像头上顶个水瓶",
+        "onboard_time": 1681983750,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284084,
+        "num": 226343,
+        "word": "杭州大爷买3个包子付了19万6",
+        "onboard_time": 1681978408,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256068,
+        "num": 222763,
+        "word": "高校辟谣女生被3名黑人性侵",
+        "onboard_time": 1681988008,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220746,
+        "num": 220746,
+        "word": "76岁大爷盗墓为过世孙子配婚获刑",
+        "onboard_time": 1681986748,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216868,
+        "num": 216868,
+        "word": "姐姐未婚先孕用妹妹身份证结婚",
+        "onboard_time": 1681990049,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210001,
+        "num": 210001,
+        "word": "电影版赤木晴子vs漫版赤木晴子",
+        "onboard_time": 1681976370,
+        "rank": 27,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 209246,
+        "num": 209246,
+        "word": "HR听完都闭嘴的离职原因",
+        "onboard_time": 1681985068,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 207710,
+        "num": 207710,
+        "word": "长月烬明",
+        "onboard_time": 1681985428,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 288894,
+        "num": 206723,
+        "word": "千万不要学博主穿丝巾",
+        "onboard_time": 1681988550,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242469,
+        "num": 205483,
+        "word": "宝马mini展台已撤下冰淇淋宣传物料",
+        "onboard_time": 1681973610,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 203712,
+        "num": 203712,
+        "word": "vivo发布会",
+        "onboard_time": 1681989806,
+        "rank": 32,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 193049,
+        "num": 193049,
+        "word": "灌篮高手官旗回应被抢空",
+        "onboard_time": 1681988609,
+        "rank": 33,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 184693,
+        "num": 184693,
+        "word": "音浪嘉年华",
+        "onboard_time": 1681989507,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183022,
+        "num": 183022,
+        "word": "原来十年前的微信长这样",
+        "onboard_time": 1681965097,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172393,
+        "num": 172393,
+        "word": "灌篮高手周边卖断货",
+        "onboard_time": 1681972709,
+        "rank": 36,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 168311,
+        "num": 168311,
+        "word": "文彬文秀雅同框跳舞视频",
+        "onboard_time": 1681976130,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164248,
+        "num": 164248,
+        "word": "为你逆光而来",
+        "onboard_time": 1681990166,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148334,
+        "num": 148334,
+        "word": "王鹤棣新剧公主抱周也",
+        "onboard_time": 1681979909,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260236,
+        "num": 147892,
+        "word": "Luneurs回应宝马mini冰淇淋事件",
+        "onboard_time": 1681975891,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 244281,
+        "num": 145456,
+        "word": "宝马mini展区被指区别对待",
+        "onboard_time": 1681962390,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142979,
+        "num": 142979,
+        "word": "方时赫花350亿韩元买下LA豪宅",
+        "onboard_time": 1681989988,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138341,
+        "num": 138341,
+        "word": "工作人员回应宝马mini被指区别对待",
+        "onboard_time": 1681962750,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132952,
+        "num": 132952,
+        "word": "胡先煦觉得自己长大的瞬间",
+        "onboard_time": 1681988306,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128638,
+        "num": 128638,
+        "word": "王一博被金靖逗到笑场",
+        "onboard_time": 1681990109,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125706,
+        "num": 125706,
+        "word": "宝马家在中国",
+        "onboard_time": 1681973009,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118491,
+        "num": 118491,
+        "word": "外交部回应尹锡悦涉台言论",
+        "onboard_time": 1681988848,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 109815,
+        "num": 109815,
+        "word": "LPL选手亚运会集训",
+        "onboard_time": 1681979487,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102672,
+        "num": 109805,
+        "word": "月经期间到底能吃啥水果",
+        "onboard_time": 1681971988,
+        "rank": 49,
+        "category": "美食,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中加友好始终坚如磐石#"
+    }
+  }
+}

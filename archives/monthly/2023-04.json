@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681989280292,
+  "endTime": 1681990415127,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2347,6 +2347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1616915,
+      "num": 1616915,
+      "word": "月薪4K工作很闲要辞职吗",
+      "onboard_time": 1681986207,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1610039,
       "num": 707764,
       "word": "律师解读张继科景甜视频风波",
@@ -4585,14 +4593,6 @@
       "onboard_time": 1681950993,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 989863,
-      "num": 989863,
-      "word": "月薪4K工作很闲要辞职吗",
-      "onboard_time": 1681986207,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 988266,
@@ -7051,6 +7051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727123,
+      "num": 478820,
+      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+      "onboard_time": 1681986990,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 727085,
       "num": 727085,
       "word": "起床后为何不该立马叠被子",
@@ -7825,14 +7833,6 @@
       "onboard_time": 1681824030,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 677430,
-      "num": 478820,
-      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
-      "onboard_time": 1681986990,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 677413,
@@ -9132,7 +9132,7 @@
     },
     {
       "raw_hot": 609986,
-      "num": 234016,
+      "num": 575429,
       "word": "灌篮高手",
       "onboard_time": 1681435526,
       "rank": 37,
@@ -11835,6 +11835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 491781,
+      "num": 949606,
+      "word": "浙BWF896车主谈意外走红",
+      "onboard_time": 1681985547,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491314,
       "num": 491314,
       "word": "卡地亚",
@@ -12009,14 +12017,6 @@
       "onboard_time": 1681030525,
       "rank": 21,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 486311,
-      "num": 949606,
-      "word": "浙BWF896车主谈意外走红",
-      "onboard_time": 1681985547,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 486203,
@@ -12668,7 +12668,7 @@
     },
     {
       "raw_hot": 464272,
-      "num": 233280,
+      "num": 234228,
       "word": "很喜欢但停产了的东西",
       "onboard_time": 1681987048,
       "rank": 21,
@@ -13491,6 +13491,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 440161,
+      "num": 440161,
+      "word": "长月烬明一碗粥引发的血案",
+      "onboard_time": 1681989148,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 440036,
       "num": 440036,
       "word": "他是谁",
@@ -13977,6 +13985,14 @@
       "onboard_time": 1681648406,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424035,
+      "num": 424035,
+      "word": "泰裤辣",
+      "onboard_time": 1681989207,
+      "rank": 43,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 423890,
@@ -17184,6 +17200,14 @@
       "word": "极限挑战全员上班路透",
       "onboard_time": 1681270468,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 350566,
+      "num": 350566,
+      "word": "BoysPlanet决赛出道夜",
+      "onboard_time": 1681988788,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -20467,6 +20491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 288894,
+      "num": 206723,
+      "word": "千万不要学博主穿丝巾",
+      "onboard_time": 1681988550,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288694,
       "num": 202618,
       "word": "宫胁咲良刘海",
@@ -22560,6 +22592,14 @@
       "word": "13岁男孩患急性脑脊髓炎突然瘫痪",
       "onboard_time": 1680755315,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256068,
+      "num": 228733,
+      "word": "高校辟谣女生被3名黑人性侵",
+      "onboard_time": 1681988008,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -24835,14 +24875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 228733,
-      "num": 228733,
-      "word": "高校辟谣女生被3名黑人性侵",
-      "onboard_time": 1681988008,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228641,
       "num": 228641,
       "word": "爱情而已第28集预告",
@@ -25619,6 +25651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220746,
+      "num": 220746,
+      "word": "76岁大爷盗墓为过世孙子配婚获刑",
+      "onboard_time": 1681986748,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220704,
       "num": 220704,
       "word": "SJM直播合体",
@@ -26169,6 +26209,14 @@
       "onboard_time": 1681726165,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216868,
+      "num": 216868,
+      "word": "姐姐未婚先孕用妹妹身份证结婚",
+      "onboard_time": 1681990049,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216815,
@@ -27979,14 +28027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205665,
-      "num": 205665,
-      "word": "76岁大爷盗墓为过世孙子配婚获刑",
-      "onboard_time": 1681986748,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205643,
       "num": 205643,
       "word": "电影志愿军年轻战士群像",
@@ -28561,6 +28601,14 @@
       "onboard_time": 1681628845,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 203712,
+      "num": 203712,
+      "word": "vivo发布会",
+      "onboard_time": 1681989806,
+      "rank": 32,
+      "category": "科技"
     },
     {
       "raw_hot": 203681,
@@ -30361,14 +30409,6 @@
       "onboard_time": 1680682171,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198273,
-      "num": 235485,
-      "word": "BoysPlanet决赛出道夜",
-      "onboard_time": 1681988788,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 198232,
@@ -34059,6 +34099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184693,
+      "num": 184693,
+      "word": "音浪嘉年华",
+      "onboard_time": 1681989507,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184605,
       "num": 184605,
       "word": "罗云熙冥夜倒计时视频",
@@ -35939,14 +35987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 171300,
-      "num": 171300,
-      "word": "千万不要学博主穿丝巾",
-      "onboard_time": 1681988550,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 171288,
       "num": 171288,
       "word": "周雨彤reaction帮三生友幸补糖",
@@ -37064,6 +37104,14 @@
       "word": "如果长月烬明没有神魔大战",
       "onboard_time": 1681482450,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 164248,
+      "num": 164248,
+      "word": "为你逆光而来",
+      "onboard_time": 1681990166,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -39859,14 +39907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146006,
-      "num": 146006,
-      "word": "长月烬明一碗粥引发的血案",
-      "onboard_time": 1681989148,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145871,
       "num": 107321,
       "word": "玥烬情苏宿命感",
@@ -40241,6 +40281,14 @@
       "onboard_time": 1680407189,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142979,
+      "num": 142979,
+      "word": "方时赫花350亿韩元买下LA豪宅",
+      "onboard_time": 1681989988,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 142941,
@@ -41555,6 +41603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 132952,
+      "num": 132952,
+      "word": "胡先煦觉得自己长大的瞬间",
+      "onboard_time": 1681988306,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132928,
       "num": 132928,
       "word": "抱团养老",
@@ -41689,14 +41745,6 @@
       "onboard_time": 1680825931,
       "rank": 38,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 131923,
-      "num": 131923,
-      "word": "泰裤辣",
-      "onboard_time": 1681989207,
-      "rank": 43,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 131897,
@@ -42107,6 +42155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128638,
+      "num": 128638,
+      "word": "王一博被金靖逗到笑场",
+      "onboard_time": 1681990109,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128607,
       "num": 121882,
       "word": "时代少年团今日下班视频",
@@ -42433,14 +42489,6 @@
       "onboard_time": 1681819706,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126301,
-      "num": 126301,
-      "word": "胡先煦觉得自己长大的瞬间",
-      "onboard_time": 1681988306,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 126294,
@@ -47147,6 +47195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39552,
+      "num": 358121,
+      "word": "你最期待谁画的明星妆容",
+      "onboard_time": 1681988427,
+      "rank": 14,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 38812,
       "num": 71496,
       "word": "眼周瑜伽",
@@ -47409,14 +47465,6 @@
       "onboard_time": 1680795809,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26591,
-      "num": 270850,
-      "word": "你最期待谁画的明星妆容",
-      "onboard_time": 1681988427,
-      "rank": 14,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 26119,
