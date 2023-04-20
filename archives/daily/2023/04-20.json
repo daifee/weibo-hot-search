@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681994021518,
+  "endTime": 1681994981781,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 917185,
-      "num": 201554,
+      "num": 219151,
       "word": "宝马mini展台再现冲突",
       "onboard_time": 1681991426,
       "rank": 20,
@@ -273,6 +273,14 @@
       "onboard_time": 1681957167,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 893028,
+      "num": 649351,
+      "word": "姐姐未婚先孕用妹妹身份证结婚",
+      "onboard_time": 1681990049,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 851554,
@@ -347,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 702076,
-      "num": 216868,
-      "word": "姐姐未婚先孕用妹妹身份证结婚",
-      "onboard_time": 1681990049,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 700794,
       "num": 700794,
       "word": "男子在迪士尼抽烟后逼哭工作人员",
@@ -411,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629125,
+      "num": 629125,
+      "word": "灌篮高手",
+      "onboard_time": 1681989268,
+      "rank": 20,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 618939,
       "num": 618939,
       "word": "如何看待娱乐圈艺人大量接活",
       "onboard_time": 1681970489,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 609986,
-      "num": 579322,
-      "word": "灌篮高手",
-      "onboard_time": 1681989268,
-      "rank": 20,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 592846,
@@ -459,8 +459,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 551954,
-      "num": 551954,
+      "raw_hot": 575832,
+      "num": 575832,
       "word": "长月烬明一碗粥引发的血案",
       "onboard_time": 1681989148,
       "rank": 42,
@@ -571,6 +571,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 469151,
+      "num": 469151,
+      "word": "流川枫好帅",
+      "onboard_time": 1681991487,
+      "rank": 11,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 468141,
       "num": 378719,
       "word": "宝马 Luneurs冰淇淋",
@@ -601,6 +609,14 @@
       "onboard_time": 1681973610,
       "rank": 13,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 444437,
+      "num": 444437,
+      "word": "女生称遭55岁老师掐脖子猥亵",
+      "onboard_time": 1681992507,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 440657,
@@ -668,7 +684,7 @@
     },
     {
       "raw_hot": 394539,
-      "num": 325227,
+      "num": 325995,
       "word": "千万不要学博主穿丝巾",
       "onboard_time": 1681988550,
       "rank": 36,
@@ -697,14 +713,6 @@
       "onboard_time": 1681975948,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 383303,
-      "num": 324575,
-      "word": "流川枫好帅",
-      "onboard_time": 1681991487,
-      "rank": 11,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 380426,
@@ -923,15 +931,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 295327,
-      "num": 197255,
-      "word": "女生称遭55岁老师掐脖子猥亵",
-      "onboard_time": 1681992507,
-      "rank": 24,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 293968,
+      "raw_hot": 295320,
       "num": 293968,
       "word": "宝马mini去年在华销量不到3万辆",
       "onboard_time": 1681991366,
@@ -961,6 +961,14 @@
       "onboard_time": 1681922546,
       "rank": 10,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 289685,
+      "num": 289685,
+      "word": "时间夺走了罗云熙的什么",
+      "onboard_time": 1681993768,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289388,
@@ -1035,6 +1043,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272567,
+      "num": 215637,
+      "word": "誓约",
+      "onboard_time": 1681994606,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 269761,
+      "num": 269761,
+      "word": "女性向",
+      "onboard_time": 1681993167,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269573,
       "num": 260000,
       "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
@@ -1075,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263007,
+      "num": 263007,
+      "word": "CBA",
+      "onboard_time": 1681992387,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262950,
       "num": 320167,
       "word": "文彬文秀雅同框跳舞视频",
@@ -1089,6 +1121,14 @@
       "onboard_time": 1681945944,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261439,
+      "num": 214249,
+      "word": "和闺蜜创业44天散伙了",
+      "onboard_time": 1681993048,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 261400,
@@ -1144,6 +1184,14 @@
       "word": "张一山祝福窦骁何超莲",
       "onboard_time": 1681903286,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 251470,
+      "num": 195882,
+      "word": "李泰民悼念文彬",
+      "onboard_time": 1681994730,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1265,6 +1313,14 @@
       "onboard_time": 1681964615,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 213147,
+      "num": 213147,
+      "word": "张杰第九次唱别怕我伤心",
+      "onboard_time": 1681994668,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 212063,
@@ -1419,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201951,
-      "num": 201951,
-      "word": "CBA",
-      "onboard_time": 1681992387,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200765,
       "num": 200765,
       "word": "云襄传智斗江湖版预告",
@@ -1491,6 +1539,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 195123,
+      "num": 195123,
+      "word": "王一博被金靖逗到笑场",
+      "onboard_time": 1681990109,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195011,
       "num": 195011,
       "word": "张真源教助理跳舞",
@@ -1505,14 +1561,6 @@
       "onboard_time": 1681986146,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193995,
-      "num": 193995,
-      "word": "王一博被金靖逗到笑场",
-      "onboard_time": 1681990109,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 193705,
@@ -1651,12 +1699,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185447,
-      "num": 198169,
-      "word": "女性向",
-      "onboard_time": 1681993167,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 184821,
+      "num": 184821,
+      "word": "星舰",
+      "onboard_time": 1681993889,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 184693,
@@ -1673,6 +1721,14 @@
       "onboard_time": 1681961489,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182718,
+      "num": 182718,
+      "word": "澹台烬帮翩然拿回情丝",
+      "onboard_time": 1681990647,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 182247,
@@ -1771,14 +1827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172591,
-      "num": 172591,
-      "word": "和闺蜜创业44天散伙了",
-      "onboard_time": 1681993048,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172061,
       "num": 172061,
       "word": "明日方舟",
@@ -1825,14 +1873,6 @@
       "onboard_time": 1681954171,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165959,
-      "num": 165959,
-      "word": "澹台烬帮翩然拿回情丝",
-      "onboard_time": 1681990647,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 165203,
@@ -1899,20 +1939,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158524,
-      "num": 158524,
-      "word": "时间夺走了罗云熙的什么",
-      "onboard_time": 1681993768,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 155359,
       "num": 155359,
       "word": "哥斯拉大战金刚2片名",
       "onboard_time": 1681959509,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155110,
+      "num": 220287,
+      "word": "下班需要带电脑回家吗",
+      "onboard_time": 1681993348,
+      "rank": 18,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 154421,
@@ -1939,14 +1979,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 152862,
-      "num": 213825,
-      "word": "下班需要带电脑回家吗",
-      "onboard_time": 1681993348,
-      "rank": 18,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 150272,
       "num": 150272,
       "word": "卡地亚",
@@ -1971,8 +2003,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 142979,
-      "num": 142979,
+      "raw_hot": 144492,
+      "num": 144492,
       "word": "方时赫花350亿韩元买下LA豪宅",
       "onboard_time": 1681989988,
       "rank": 42,
@@ -2004,7 +2036,7 @@
     },
     {
       "raw_hot": 140111,
-      "num": 192937,
+      "num": 203377,
       "word": "vivo折叠屏七大全球唯一",
       "onboard_time": 1681992325,
       "rank": 29,
@@ -2025,6 +2057,14 @@
       "onboard_time": 1681960950,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136139,
+      "num": 136139,
+      "word": "唐嫣香港旅行vlog",
+      "onboard_time": 1681994547,
+      "rank": 46,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 135906,
@@ -2067,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130011,
+      "num": 130011,
+      "word": "广东男篮vs广厦男篮",
+      "onboard_time": 1681994189,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129942,
       "num": 129942,
       "word": "江疏影回应在桃花坞摔屁股蹲",
@@ -2081,14 +2129,6 @@
       "onboard_time": 1681957289,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128437,
-      "num": 128437,
-      "word": "星舰",
-      "onboard_time": 1681993889,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 128095,

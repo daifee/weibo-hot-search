@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681994021518,
+  "endTime": 1681994981781,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -5108,7 +5108,7 @@
     },
     {
       "raw_hot": 917185,
-      "num": 201554,
+      "num": 219151,
       "word": "宝马mini展台再现冲突",
       "onboard_time": 1681991426,
       "rank": 20,
@@ -5393,6 +5393,14 @@
       "onboard_time": 1680995057,
       "rank": 12,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 893028,
+      "num": 649351,
+      "word": "姐姐未婚先孕用妹妹身份证结婚",
+      "onboard_time": 1681990049,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 892631,
@@ -7427,14 +7435,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 702076,
-      "num": 216868,
-      "word": "姐姐未婚先孕用妹妹身份证结婚",
-      "onboard_time": 1681990049,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 702033,
       "num": 702033,
       "word": "张云龙在三里屯摆摊",
@@ -8795,6 +8795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629125,
+      "num": 629125,
+      "word": "灌篮高手",
+      "onboard_time": 1681435526,
+      "rank": 37,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 628897,
       "num": 628897,
       "word": "安徽大学回应男老师让女生穿短裙跳操",
@@ -9153,14 +9161,6 @@
       "onboard_time": 1681342043,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 609986,
-      "num": 579322,
-      "word": "灌篮高手",
-      "onboard_time": 1681435526,
-      "rank": 37,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 609798,
@@ -9875,6 +9875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575832,
+      "num": 575832,
+      "word": "长月烬明一碗粥引发的血案",
+      "onboard_time": 1681989148,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 575575,
       "num": 575575,
       "word": "内娱追星成功天花板",
@@ -10385,14 +10393,6 @@
       "onboard_time": 1680565886,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 551954,
-      "num": 551954,
-      "word": "长月烬明一碗粥引发的血案",
-      "onboard_time": 1681989148,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 551938,
@@ -12579,6 +12579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469151,
+      "num": 469151,
+      "word": "流川枫好帅",
+      "onboard_time": 1681991487,
+      "rank": 11,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 468478,
       "num": 468478,
       "word": "罗云熙双眼皮好多层",
@@ -13457,6 +13465,14 @@
       "onboard_time": 1681727549,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 444437,
+      "num": 444437,
+      "word": "女生称遭55岁老师掐脖子猥亵",
+      "onboard_time": 1681992507,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 444320,
@@ -15388,7 +15404,7 @@
     },
     {
       "raw_hot": 394539,
-      "num": 325227,
+      "num": 325995,
       "word": "千万不要学博主穿丝巾",
       "onboard_time": 1681988550,
       "rank": 36,
@@ -15841,14 +15857,6 @@
       "onboard_time": 1680450336,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 383303,
-      "num": 324575,
-      "word": "流川枫好帅",
-      "onboard_time": 1681991487,
-      "rank": 11,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 382630,
@@ -20083,12 +20091,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 295327,
-      "num": 197255,
-      "word": "女生称遭55岁老师掐脖子猥亵",
-      "onboard_time": 1681992507,
-      "rank": 24,
-      "category": "社会新闻,教育"
+      "raw_hot": 295320,
+      "num": 293968,
+      "word": "宝马mini去年在华销量不到3万辆",
+      "onboard_time": 1681991366,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 295196,
@@ -20209,14 +20217,6 @@
       "onboard_time": 1681538486,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293968,
-      "num": 293968,
-      "word": "宝马mini去年在华销量不到3万辆",
-      "onboard_time": 1681991366,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 293821,
@@ -20513,6 +20513,14 @@
       "onboard_time": 1681119088,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289685,
+      "num": 289685,
+      "word": "时间夺走了罗云熙的什么",
+      "onboard_time": 1681993768,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289599,
@@ -21507,6 +21515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 272567,
+      "num": 215637,
+      "word": "誓约",
+      "onboard_time": 1681994606,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 272527,
       "num": 272527,
       "word": "又是周一",
@@ -21705,6 +21721,14 @@
       "onboard_time": 1681719806,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 269761,
+      "num": 269761,
+      "word": "女性向",
+      "onboard_time": 1681993167,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 269652,
@@ -22232,6 +22256,14 @@
       "word": "上班只是为了钱吗",
       "onboard_time": 1681103014,
       "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 261439,
+      "num": 214249,
+      "word": "和闺蜜创业44天散伙了",
+      "onboard_time": 1681993048,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -22985,6 +23017,14 @@
       "onboard_time": 1681350926,
       "rank": 27,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 251470,
+      "num": 195882,
+      "word": "李泰民悼念文彬",
+      "onboard_time": 1681994730,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 251454,
@@ -26632,6 +26672,14 @@
       "word": "哇唧唧哇六周年怪6的",
       "onboard_time": 1680494976,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213147,
+      "num": 213147,
+      "word": "张杰第九次唱别怕我伤心",
+      "onboard_time": 1681994668,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -31475,6 +31523,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 195123,
+      "num": 195123,
+      "word": "王一博被金靖逗到笑场",
+      "onboard_time": 1681990109,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195076,
       "num": 195076,
       "word": "张信哲唱孙燕姿的雨天",
@@ -31705,14 +31761,6 @@
       "onboard_time": 1681369108,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193995,
-      "num": 193995,
-      "word": "王一博被金靖逗到笑场",
-      "onboard_time": 1681990109,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 193985,
@@ -34019,14 +34067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185447,
-      "num": 198169,
-      "word": "女性向",
-      "onboard_time": 1681993167,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 185424,
       "num": 185424,
       "word": "马若松父亲发声",
@@ -34497,6 +34537,14 @@
       "onboard_time": 1680832947,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182718,
+      "num": 182718,
+      "word": "澹台烬帮翩然拿回情丝",
+      "onboard_time": 1681990647,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 182668,
@@ -35859,14 +35907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172591,
-      "num": 172591,
-      "word": "和闺蜜创业44天散伙了",
-      "onboard_time": 1681993048,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172547,
       "num": 172547,
       "word": "对巧珍好的人都不在了",
@@ -36888,14 +36928,6 @@
       "word": "澹台烬不被爱的前半生",
       "onboard_time": 1680774811,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 165959,
-      "num": 165959,
-      "word": "澹台烬帮翩然拿回情丝",
-      "onboard_time": 1681990647,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -38091,14 +38123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158524,
-      "num": 158524,
-      "word": "时间夺走了罗云熙的什么",
-      "onboard_time": 1681993768,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 158519,
       "num": 158519,
       "word": "陈梦晋级冠军赛8强",
@@ -38539,6 +38563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155110,
+      "num": 220287,
+      "word": "下班需要带电脑回家吗",
+      "onboard_time": 1681993348,
+      "rank": 18,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 155095,
       "num": 818776,
       "word": "快艇师傅6秒扑进河中救落水男童",
@@ -38913,14 +38945,6 @@
       "onboard_time": 1680836186,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152862,
-      "num": 213825,
-      "word": "下班需要带电脑回家吗",
-      "onboard_time": 1681993348,
-      "rank": 18,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 152842,
@@ -40227,6 +40251,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 144492,
+      "num": 144492,
+      "word": "方时赫花350亿韩元买下LA豪宅",
+      "onboard_time": 1681989988,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144424,
       "num": 144424,
       "word": "白鹿跟桑酒说再见",
@@ -40377,14 +40409,6 @@
       "onboard_time": 1680407189,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 142979,
-      "num": 142979,
-      "word": "方时赫花350亿韩元买下LA豪宅",
-      "onboard_time": 1681989988,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 142941,
@@ -40852,7 +40876,7 @@
     },
     {
       "raw_hot": 140111,
-      "num": 192937,
+      "num": 203377,
       "word": "vivo折叠屏七大全球唯一",
       "onboard_time": 1681992325,
       "rank": 29,
@@ -41321,6 +41345,14 @@
       "onboard_time": 1681453528,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136139,
+      "num": 136139,
+      "word": "唐嫣香港旅行vlog",
+      "onboard_time": 1681994547,
+      "rank": 46,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 136122,
@@ -42065,6 +42097,14 @@
       "onboard_time": 1681121126,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 130011,
+      "num": 130011,
+      "word": "广东男篮vs广厦男篮",
+      "onboard_time": 1681820307,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 129828,
@@ -44497,14 +44537,6 @@
       "onboard_time": 1680338672,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 106372,
-      "num": 106372,
-      "word": "广东男篮vs广厦男篮",
-      "onboard_time": 1681820307,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 106145,
