@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682026400505,
+  "endTime": 1682028983766,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -47747,6 +47747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41194,
+      "num": 41194,
+      "word": "男子因嫌盛米饭少殴打食堂阿姨",
+      "onboard_time": 1682016254,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41094,
       "num": 47224,
       "word": "马伊琍东霓人设",
@@ -47761,14 +47769,6 @@
       "onboard_time": 1682014037,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 40385,
-      "num": 33932,
-      "word": "男子因嫌盛米饭少殴打食堂阿姨",
-      "onboard_time": 1682016254,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39982,
@@ -48051,6 +48051,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 26778,
+      "num": 28882,
+      "word": "鲁豫记忆力",
+      "onboard_time": 1682027173,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
@@ -48171,6 +48179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 17989,
+      "num": 28880,
+      "word": "骑手你是开花车过来的吗",
+      "onboard_time": 1682016133,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17764,
       "num": 164232,
       "word": "天猫预测五一户外新趋势",
@@ -48241,14 +48257,6 @@
       "onboard_time": 1681937413,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 12732,
-      "num": 22845,
-      "word": "骑手你是开花车过来的吗",
-      "onboard_time": 1682016133,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 12411,

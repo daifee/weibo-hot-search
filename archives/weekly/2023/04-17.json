@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682026400505,
+  "endTime": 1682028983766,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -9699,20 +9699,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41194,
+      "num": 41194,
+      "word": "男子因嫌盛米饭少殴打食堂阿姨",
+      "onboard_time": 1682016254,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40937,
       "num": 37523,
       "word": "放天欢回来杀叶冰裳吧",
       "onboard_time": 1682014037,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 40385,
-      "num": 33932,
-      "word": "男子因嫌盛米饭少殴打食堂阿姨",
-      "onboard_time": 1682016254,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39967,
@@ -9779,6 +9779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26778,
+      "num": 28882,
+      "word": "鲁豫记忆力",
+      "onboard_time": 1682027173,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25107,
       "num": 1476346,
       "word": "数说消博会",
@@ -9793,6 +9801,14 @@
       "onboard_time": 1682022071,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17989,
+      "num": 28880,
+      "word": "骑手你是开花车过来的吗",
+      "onboard_time": 1682016133,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 17586,
@@ -9817,14 +9833,6 @@
       "onboard_time": 1681937413,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 12732,
-      "num": 22845,
-      "word": "骑手你是开花车过来的吗",
-      "onboard_time": 1682016133,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 12411,
