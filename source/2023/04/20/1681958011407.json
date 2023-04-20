@@ -1,0 +1,410 @@
+{
+  "runTime": 1681958011407,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2802520,
+        "num": 2802520,
+        "word": "车银优紧急回国",
+        "onboard_time": 1681951052,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1283150,
+        "num": 1283150,
+        "word": "宝马mini",
+        "onboard_time": 1681955429,
+        "rank": 1,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 25025,
+        "num": 1282540,
+        "word": "人民海军74周岁",
+        "onboard_time": 1681901727,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1282341,
+        "num": 1282341,
+        "word": "ASTRO成员文彬去世",
+        "onboard_time": 1681921705,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789372,
+        "num": 789372,
+        "word": "祝绪丹你是不是有什么难处",
+        "onboard_time": 1681950993,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 753957,
+        "num": 753957,
+        "word": "山科大北门伤人事件致1死6伤",
+        "onboard_time": 1681947267,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588226,
+        "num": 588226,
+        "word": "女子入职58天迟到21次不满被辞",
+        "onboard_time": 1681949010,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575560,
+        "num": 575560,
+        "word": "寻找姓鸭的人",
+        "onboard_time": 1681956809,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522033,
+        "num": 522033,
+        "word": "电视剧脱轨官宣",
+        "onboard_time": 1681957167,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433486,
+        "num": 433486,
+        "word": "肿瘤早期5个报警信号",
+        "onboard_time": 1681955488,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319295,
+        "num": 422470,
+        "word": "梅西店铺将台湾列为国家",
+        "onboard_time": 1681956628,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380859,
+        "num": 380859,
+        "word": "VICTON解散",
+        "onboard_time": 1681952614,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358721,
+        "num": 358721,
+        "word": "女性的痛苦被当做一种景观",
+        "onboard_time": 1681948286,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345869,
+        "num": 345869,
+        "word": "第五人格",
+        "onboard_time": 1681951290,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 326176,
+        "num": 326176,
+        "word": "日全环食20日上演",
+        "onboard_time": 1681957407,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312410,
+        "num": 312410,
+        "word": "男子直播打骂奔现女网友被刑拘",
+        "onboard_time": 1681949372,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304782,
+        "num": 304782,
+        "word": "想起钟铉雪莉荷拉",
+        "onboard_time": 1681950394,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284102,
+        "num": 284102,
+        "word": "特斯拉一季度盈利暴跌20%",
+        "onboard_time": 1681952732,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 283699,
+        "num": 283699,
+        "word": "拉塞尔真拉",
+        "onboard_time": 1681956990,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264351,
+        "num": 264351,
+        "word": "被小学同学抄袭了人生",
+        "onboard_time": 1681902927,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 925821,
+        "num": 263641,
+        "word": "长沙县发现一具无名女尸",
+        "onboard_time": 1681949132,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 260000,
+        "num": 260000,
+        "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
+        "onboard_time": 1681953511,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254699,
+        "num": 254699,
+        "word": "千万不要有舔奶盖的习惯",
+        "onboard_time": 1681911989,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214834,
+        "num": 214834,
+        "word": "180以下的男演员能不能拍偶像剧",
+        "onboard_time": 1681915050,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203349,
+        "num": 203349,
+        "word": "代号鸢",
+        "onboard_time": 1681953093,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202417,
+        "num": 202417,
+        "word": "宋佳自称全演艺界最爱合影的人",
+        "onboard_time": 1681957109,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200052,
+        "num": 200052,
+        "word": "暮光之城拍剧版",
+        "onboard_time": 1681950813,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198725,
+        "num": 198725,
+        "word": "难听",
+        "onboard_time": 1681952133,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194365,
+        "num": 194365,
+        "word": "灌篮高手彩蛋",
+        "onboard_time": 1681946123,
+        "rank": 28,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 188106,
+        "num": 188106,
+        "word": "马斯克回应特斯拉全球轮番降价",
+        "onboard_time": 1681955671,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 312307,
+        "num": 187552,
+        "word": "文秀雅所属组合取消延期本周行程",
+        "onboard_time": 1681954890,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186051,
+        "num": 186051,
+        "word": "叶夕雾跳城楼倒计时",
+        "onboard_time": 1681917568,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180042,
+        "num": 180042,
+        "word": "湖人vs灰熊",
+        "onboard_time": 1681949612,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170873,
+        "num": 170873,
+        "word": "花间令 开机",
+        "onboard_time": 1681915533,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170869,
+        "num": 170869,
+        "word": "我给灌篮高手补张票",
+        "onboard_time": 1681917389,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167208,
+        "num": 167208,
+        "word": "原来这才是工作餐",
+        "onboard_time": 1681954171,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156297,
+        "num": 156297,
+        "word": "沙尘暴",
+        "onboard_time": 1681949731,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155177,
+        "num": 155177,
+        "word": "周星驰要组六月天",
+        "onboard_time": 1681950454,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144385,
+        "num": 144385,
+        "word": "海清发声支持蒋梦婕",
+        "onboard_time": 1681915952,
+        "rank": 38,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 140957,
+        "num": 140957,
+        "word": "Fantagio发公告",
+        "onboard_time": 1681953213,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139589,
+        "num": 139589,
+        "word": "直播2023首次日食",
+        "onboard_time": 1681957889,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138694,
+        "num": 138694,
+        "word": "山东人为了外地游客有多拼",
+        "onboard_time": 1681955729,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 136578,
+        "num": 136578,
+        "word": "今天谷雨",
+        "onboard_time": 1681945944,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134083,
+        "num": 134083,
+        "word": "我推的孩子",
+        "onboard_time": 1681949731,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132495,
+        "num": 132495,
+        "word": "山科大持刀伤人男子已被控制",
+        "onboard_time": 1681947387,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132067,
+        "num": 132067,
+        "word": "也门首都踩踏造成至少80死220伤",
+        "onboard_time": 1681950751,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 128661,
+        "num": 128661,
+        "word": "超9成网友支持公开色狼姓名",
+        "onboard_time": 1681957289,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125385,
+        "num": 125385,
+        "word": "闵玧其新专主打曲叫解禁",
+        "onboard_time": 1681957650,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121410,
+        "num": 121410,
+        "word": "原来上课偷吃东西那么明显",
+        "onboard_time": 1681916431,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117919,
+        "num": 117919,
+        "word": "患癌晚期可以给孩子留下什么",
+        "onboard_time": 1681921824,
+        "rank": 49,
+        "category": "情感,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#距成都大运会开幕还有100天#"
+    }
+  }
+}

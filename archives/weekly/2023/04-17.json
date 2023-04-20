@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681955089679,
+  "endTime": 1681958011407,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1319295,
+      "num": 422470,
+      "word": "梅西店铺将台湾列为国家",
+      "onboard_time": 1681956628,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1311338,
       "num": 1311338,
       "word": "离职后你一般怎么退出工作群",
@@ -641,6 +649,14 @@
       "onboard_time": 1681829911,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1283150,
+      "num": 1283150,
+      "word": "宝马mini",
+      "onboard_time": 1681955429,
+      "rank": 1,
+      "category": "科技"
     },
     {
       "raw_hot": 1275635,
@@ -684,7 +700,7 @@
     },
     {
       "raw_hot": 1214683,
-      "num": 252057,
+      "num": 263641,
       "word": "长沙县发现一具无名女尸",
       "onboard_time": 1681949132,
       "rank": 20,
@@ -1108,7 +1124,7 @@
     },
     {
       "raw_hot": 727254,
-      "num": 250150,
+      "num": 588226,
       "word": "女子入职58天迟到21次不满被辞",
       "onboard_time": 1681949010,
       "rank": 21,
@@ -1523,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575560,
+      "num": 575560,
+      "word": "寻找姓鸭的人",
+      "onboard_time": 1681956809,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573498,
       "num": 335764,
       "word": "吴镇宇 香港电影青黄不接",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1681818387,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 522033,
+      "num": 522033,
+      "word": "电视剧脱轨官宣",
+      "onboard_time": 1681957167,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 509630,
@@ -2137,6 +2169,14 @@
       "onboard_time": 1681879713,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 433486,
+      "num": 433486,
+      "word": "肿瘤早期5个报警信号",
+      "onboard_time": 1681955488,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 430395,
@@ -2827,6 +2867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 345869,
+      "num": 345869,
+      "word": "第五人格",
+      "onboard_time": 1681742128,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 345626,
       "num": 345626,
       "word": "奔跑吧在拍一种很新的宣传片",
@@ -3003,6 +3051,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 326176,
+      "num": 326176,
+      "word": "日全环食20日上演",
+      "onboard_time": 1681802968,
+      "rank": 45,
+      "category": "自然,社会新闻"
+    },
+    {
       "raw_hot": 325915,
       "num": 241677,
       "word": "樊振东",
@@ -3137,6 +3193,14 @@
       "onboard_time": 1681891647,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312307,
+      "num": 187552,
+      "word": "文秀雅所属组合取消延期本周行程",
+      "onboard_time": 1681954890,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 311988,
@@ -3379,6 +3443,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284102,
+      "num": 284102,
+      "word": "特斯拉一季度盈利暴跌20%",
+      "onboard_time": 1681952732,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 283699,
+      "num": 283699,
+      "word": "拉塞尔真拉",
+      "onboard_time": 1681956990,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283315,
       "num": 283315,
       "word": "邓超帮女儿扎辫子",
@@ -3540,7 +3620,7 @@
     },
     {
       "raw_hot": 269573,
-      "num": 200739,
+      "num": 260000,
       "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
       "onboard_time": 1681953511,
       "rank": 44,
@@ -3777,14 +3857,6 @@
       "onboard_time": 1681816769,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245820,
-      "num": 245820,
-      "word": "特斯拉一季度盈利暴跌20%",
-      "onboard_time": 1681952732,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 244379,
@@ -4579,6 +4651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202417,
+      "num": 202417,
+      "word": "宋佳自称全演艺界最爱合影的人",
+      "onboard_time": 1681957109,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202124,
       "num": 202124,
       "word": "存钱真的会上瘾的",
@@ -5107,6 +5187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188106,
+      "num": 188106,
+      "word": "马斯克回应特斯拉全球轮番降价",
+      "onboard_time": 1681955671,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187761,
       "num": 187761,
       "word": "你好星期六全员求赞",
@@ -5331,14 +5419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181814,
-      "num": 181814,
-      "word": "文秀雅所属组合取消延期本周行程",
-      "onboard_time": 1681954890,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181428,
       "num": 181428,
       "word": "王源公益纪录片",
@@ -5377,6 +5457,14 @@
       "onboard_time": 1681786590,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180042,
+      "num": 180042,
+      "word": "湖人vs灰熊",
+      "onboard_time": 1681949612,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 179756,
@@ -5643,6 +5731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167208,
+      "num": 167208,
+      "word": "原来这才是工作餐",
+      "onboard_time": 1681954171,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167094,
       "num": 169650,
       "word": "F1官宣首日表演嘉宾王嘉尔",
@@ -5761,14 +5857,6 @@
       "onboard_time": 1681889787,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162006,
-      "num": 162006,
-      "word": "湖人vs灰熊",
-      "onboard_time": 1681949612,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 161751,
@@ -5985,14 +6073,6 @@
       "onboard_time": 1681861827,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154431,
-      "num": 154431,
-      "word": "原来这才是工作餐",
-      "onboard_time": 1681954171,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 154421,
@@ -6395,6 +6475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139589,
+      "num": 139589,
+      "word": "直播2023首次日食",
+      "onboard_time": 1681957889,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139418,
       "num": 139418,
       "word": "追剧看到大学同学是什么体验",
@@ -6417,6 +6505,14 @@
       "onboard_time": 1681886788,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138694,
+      "num": 138694,
+      "word": "山东人为了外地游客有多拼",
+      "onboard_time": 1681955729,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 138341,
@@ -6595,6 +6691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128661,
+      "num": 128661,
+      "word": "超9成网友支持公开色狼姓名",
+      "onboard_time": 1681957289,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128577,
       "num": 128577,
       "word": "小时候的文具盒好高级啊",
@@ -6713,6 +6817,14 @@
       "onboard_time": 1681734446,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125385,
+      "num": 125385,
+      "word": "闵玧其新专主打曲叫解禁",
+      "onboard_time": 1681957650,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 124678,
@@ -7179,14 +7291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100925,
-      "num": 100925,
-      "word": "日全环食20日上演",
-      "onboard_time": 1681802968,
-      "rank": 45,
-      "category": "自然,社会新闻"
-    },
-    {
       "raw_hot": 100865,
       "num": 100865,
       "word": "白敬亭说汪新已到站期待再相逢",
@@ -7361,14 +7465,6 @@
       "onboard_time": 1681652369,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 91927,
-      "num": 112379,
-      "word": "第五人格",
-      "onboard_time": 1681742128,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 91925,
