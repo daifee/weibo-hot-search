@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681964468357,
+  "endTime": 1681965304679,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 2393627,
-      "num": 727385,
+      "num": 735370,
       "word": "梅西店铺将台湾列为国家",
       "onboard_time": 1681956628,
       "rank": 10,
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1536955,
+      "num": 681869,
+      "word": "窦骁 你的名字我的姓氏",
+      "onboard_time": 1681964252,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1535915,
       "num": 128797,
       "word": "邓紫棋没去何超莲婚礼",
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 1214683,
-      "num": 303425,
+      "num": 334396,
       "word": "长沙县发现一具无名女尸",
       "onboard_time": 1681949132,
       "rank": 20,
@@ -1043,6 +1051,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 851554,
+      "num": 851554,
+      "word": "宝马mini展区被指区别对待",
+      "onboard_time": 1681962390,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 850088,
       "num": 573439,
       "word": "大S短发写真",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1681701148,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 804507,
-      "num": 804507,
-      "word": "宝马mini展区被指区别对待",
-      "onboard_time": 1681962390,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 802228,
@@ -2011,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475312,
+      "num": 475312,
+      "word": "张学友 抢票",
+      "onboard_time": 1681963892,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 474802,
       "num": 474802,
       "word": "3名联合国人员在苏丹遇袭身亡",
@@ -2291,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423568,
+      "num": 334348,
+      "word": "出嫁后妈妈给了我一栋收租房",
+      "onboard_time": 1681961789,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 423418,
       "num": 423418,
       "word": "赵丽颖古装",
@@ -2387,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408305,
+      "num": 408305,
+      "word": "工作人员回应宝马mini被指区别对待",
+      "onboard_time": 1681962750,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407283,
       "num": 407283,
       "word": "张艺兴 福建平潭",
@@ -2425,14 +2457,6 @@
       "onboard_time": 1681660168,
       "rank": 7,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 404806,
-      "num": 255598,
-      "word": "出嫁后妈妈给了我一栋收租房",
-      "onboard_time": 1681961789,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 404566,
@@ -3067,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334447,
+      "num": 334447,
+      "word": "未定事件簿 雷雨",
+      "onboard_time": 1681963592,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 334315,
       "num": 326508,
       "word": "被自己的大屁股救了一命",
@@ -3259,6 +3291,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 319640,
+      "num": 319640,
+      "word": "三分野",
+      "onboard_time": 1681963411,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 319228,
+      "num": 319228,
+      "word": "官方回应烧秸秆被罚1.782亿",
+      "onboard_time": 1681963530,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319105,
       "num": 319105,
       "word": "深圳男篮直接晋级半决赛",
@@ -3321,6 +3369,14 @@
       "onboard_time": 1681781246,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311798,
+      "num": 311798,
+      "word": "办公室一天讲不了10句话",
+      "onboard_time": 1681965097,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 311201,
@@ -3587,12 +3643,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 282504,
-      "num": 222065,
-      "word": "张学友 抢票",
-      "onboard_time": 1681963892,
-      "rank": 30,
-      "category": "音乐"
+      "raw_hot": 282558,
+      "num": 282558,
+      "word": "教练突然就想退私教费了",
+      "onboard_time": 1681959991,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 282422,
@@ -3795,14 +3851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 264841,
-      "num": 252362,
-      "word": "教练突然就想退私教费了",
-      "onboard_time": 1681959991,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 263955,
       "num": 263955,
       "word": "国家卫健委指导长峰医院火灾伤员救治",
@@ -3859,6 +3907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261328,
+      "num": 261328,
+      "word": "28岁存款6万的我裸辞了",
+      "onboard_time": 1681965031,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261320,
       "num": 261320,
       "word": "市民投诉成都地铁安检用鼻子闻水",
@@ -3891,6 +3947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257787,
+      "num": 257787,
+      "word": "原来十年前的微信长这样",
+      "onboard_time": 1681965097,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257052,
       "num": 236306,
       "word": "入职了家全是关系户的公司",
@@ -3913,6 +3977,14 @@
       "onboard_time": 1681904248,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253581,
+      "num": 253581,
+      "word": "甜馨谷雨汉服写真",
+      "onboard_time": 1681964674,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 253379,
@@ -4123,28 +4195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 229318,
-      "num": 229318,
-      "word": "三分野",
-      "onboard_time": 1681963411,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 229201,
       "num": 229201,
       "word": "JYP发文感叹市价突破3万亿韩元",
       "onboard_time": 1681723886,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229154,
-      "num": 229154,
-      "word": "工作人员回应宝马mini被指区别对待",
-      "onboard_time": 1681962750,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228319,
@@ -4299,11 +4355,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222283,
-      "num": 222283,
-      "word": "窦骁 你的名字我的姓氏",
-      "onboard_time": 1681964252,
-      "rank": 29,
+      "raw_hot": 222191,
+      "num": 222191,
+      "word": "谭维维问双开门冰箱是什么意思",
+      "onboard_time": 1681964552,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -4329,14 +4385,6 @@
       "onboard_time": 1681808908,
       "rank": 19,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 220039,
-      "num": 220039,
-      "word": "官方回应烧秸秆被罚1.782亿",
-      "onboard_time": 1681963530,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219289,
@@ -4459,6 +4507,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 213743,
+      "num": 213743,
+      "word": "张真源校服造型概念视频",
+      "onboard_time": 1681964615,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213571,
       "num": 213571,
       "word": "悲情城市",
@@ -4513,6 +4569,14 @@
       "onboard_time": 1681953093,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211235,
+      "num": 211235,
+      "word": "罗云熙教白鹿勒自己脖子",
+      "onboard_time": 1681964495,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 210645,
@@ -5579,6 +5643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185883,
+      "num": 185883,
+      "word": "张杰西安巡演vlog",
+      "onboard_time": 1681964674,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 185537,
       "num": 185537,
       "word": "都暻秀好像只会跳EXO的舞",
@@ -5737,6 +5809,14 @@
       "onboard_time": 1681786590,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180114,
+      "num": 180114,
+      "word": "警方回应男子迪士尼抽烟后起冲突",
+      "onboard_time": 1681965155,
+      "rank": 43,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 180042,
@@ -5955,6 +6035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171109,
+      "num": 171109,
+      "word": "教练 我想打篮球",
+      "onboard_time": 1681964915,
+      "rank": 46,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 170886,
       "num": 170886,
       "word": "gidle回归时间",
@@ -6017,14 +6105,6 @@
       "onboard_time": 1681738768,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168310,
-      "num": 168310,
-      "word": "未定事件簿 雷雨",
-      "onboard_time": 1681963592,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 167590,
@@ -7188,7 +7268,7 @@
     },
     {
       "raw_hot": 123166,
-      "num": 135653,
+      "num": 161553,
       "word": "去迪士尼前的恶补",
       "onboard_time": 1681962390,
       "rank": 49,
@@ -7924,7 +8004,7 @@
     },
     {
       "raw_hot": 84846,
-      "num": 1560761,
+      "num": 1614188,
       "word": "卫星视角看祖国大地春耕图",
       "onboard_time": 1681959869,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681964468357,
+  "endTime": 1681965304679,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2393627,
-      "num": 727385,
+      "num": 735370,
       "word": "梅西店铺将台湾列为国家",
       "onboard_time": 1681956628,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1536955,
+      "num": 681869,
+      "word": "窦骁 你的名字我的姓氏",
+      "onboard_time": 1681964252,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1297194,
       "num": 1297194,
       "word": "夫妻赌气喝洁厕剂丈夫报警后让先救妻子",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1214683,
-      "num": 303425,
+      "num": 334396,
       "word": "长沙县发现一具无名女尸",
       "onboard_time": 1681949132,
       "rank": 20,
@@ -163,8 +171,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 804507,
-      "num": 804507,
+      "raw_hot": 851554,
+      "num": 851554,
       "word": "宝马mini展区被指区别对待",
       "onboard_time": 1681962390,
       "rank": 8,
@@ -283,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 475312,
+      "num": 475312,
+      "word": "张学友 抢票",
+      "onboard_time": 1681963892,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 433486,
       "num": 433486,
       "word": "肿瘤早期5个报警信号",
@@ -297,6 +313,14 @@
       "onboard_time": 1681902927,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 423568,
+      "num": 334348,
+      "word": "出嫁后妈妈给了我一栋收租房",
+      "onboard_time": 1681961789,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 419754,
@@ -315,12 +339,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 404806,
-      "num": 255598,
-      "word": "出嫁后妈妈给了我一栋收租房",
-      "onboard_time": 1681961789,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 408305,
+      "num": 408305,
+      "word": "工作人员回应宝马mini被指区别对待",
+      "onboard_time": 1681962750,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389206,
@@ -403,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334447,
+      "num": 334447,
+      "word": "未定事件簿 雷雨",
+      "onboard_time": 1681963592,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328675,
       "num": 328675,
       "word": "宋佳自称全演艺界最爱合影的人",
@@ -419,12 +451,36 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 319640,
+      "num": 319640,
+      "word": "三分野",
+      "onboard_time": 1681963411,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 319228,
+      "num": 319228,
+      "word": "官方回应烧秸秆被罚1.782亿",
+      "onboard_time": 1681963530,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316276,
       "num": 316276,
       "word": "周柏豪门票",
       "onboard_time": 1681959327,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311798,
+      "num": 311798,
+      "word": "办公室一天讲不了10句话",
+      "onboard_time": 1681965097,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 308265,
@@ -475,12 +531,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 282504,
-      "num": 222065,
-      "word": "张学友 抢票",
-      "onboard_time": 1681963892,
-      "rank": 30,
-      "category": "音乐"
+      "raw_hot": 282558,
+      "num": 282558,
+      "word": "教练突然就想退私教费了",
+      "onboard_time": 1681959991,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 281519,
@@ -515,14 +571,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 264841,
-      "num": 252362,
-      "word": "教练突然就想退私教费了",
-      "onboard_time": 1681959991,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 264257,
       "num": 245225,
       "word": "原来上课偷吃东西那么明显",
@@ -547,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261328,
+      "num": 261328,
+      "word": "28岁存款6万的我裸辞了",
+      "onboard_time": 1681965031,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 261320,
       "num": 261320,
       "word": "市民投诉成都地铁安检用鼻子闻水",
@@ -561,6 +617,22 @@
       "onboard_time": 1681904727,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 257787,
+      "num": 257787,
+      "word": "原来十年前的微信长这样",
+      "onboard_time": 1681965097,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 253581,
+      "num": 253581,
+      "word": "甜馨谷雨汉服写真",
+      "onboard_time": 1681964674,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 253379,
@@ -611,22 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229318,
-      "num": 229318,
-      "word": "三分野",
-      "onboard_time": 1681963411,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 229154,
-      "num": 229154,
-      "word": "工作人员回应宝马mini被指区别对待",
-      "onboard_time": 1681962750,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225092,
       "num": 225092,
       "word": "泰国保险公司或将赔付1500万泰铢",
@@ -651,20 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222283,
-      "num": 222283,
-      "word": "窦骁 你的名字我的姓氏",
-      "onboard_time": 1681964252,
-      "rank": 29,
+      "raw_hot": 222191,
+      "num": 222191,
+      "word": "谭维维问双开门冰箱是什么意思",
+      "onboard_time": 1681964552,
+      "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220039,
-      "num": 220039,
-      "word": "官方回应烧秸秆被罚1.782亿",
-      "onboard_time": 1681963530,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217170,
@@ -681,6 +729,14 @@
       "onboard_time": 1681910728,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213743,
+      "num": 213743,
+      "word": "张真源校服造型概念视频",
+      "onboard_time": 1681964615,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 211868,
@@ -705,6 +761,14 @@
       "onboard_time": 1681953093,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211235,
+      "num": 211235,
+      "word": "罗云熙教白鹿勒自己脖子",
+      "onboard_time": 1681964495,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 209035,
@@ -883,6 +947,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 185883,
+      "num": 185883,
+      "word": "张杰西安巡演vlog",
+      "onboard_time": 1681964674,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183865,
       "num": 133076,
       "word": "陈楚生说精神状态稳定欢迎一键查询",
@@ -905,6 +977,14 @@
       "onboard_time": 1681910847,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180114,
+      "num": 180114,
+      "word": "警方回应男子迪士尼抽烟后起冲突",
+      "onboard_time": 1681965155,
+      "rank": 43,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 180042,
@@ -971,20 +1051,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171109,
+      "num": 171109,
+      "word": "教练 我想打篮球",
+      "onboard_time": 1681964915,
+      "rank": 46,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 169187,
       "num": 169187,
       "word": "我的阿童木啊",
       "onboard_time": 1681958608,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168310,
-      "num": 168310,
-      "word": "未定事件簿 雷雨",
-      "onboard_time": 1681963592,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 167599,
@@ -1172,7 +1252,7 @@
     },
     {
       "raw_hot": 123166,
-      "num": 135653,
+      "num": 161553,
       "word": "去迪士尼前的恶补",
       "onboard_time": 1681962390,
       "rank": 49,
@@ -1308,7 +1388,7 @@
     },
     {
       "raw_hot": 84846,
-      "num": 1560761,
+      "num": 1614188,
       "word": "卫星视角看祖国大地春耕图",
       "onboard_time": 1681959869,
       "rank": 2,
