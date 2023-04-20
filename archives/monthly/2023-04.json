@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681976004812,
+  "endTime": 1681978913440,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -331,6 +331,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 3201063,
+      "num": 3201063,
+      "word": "宝马mini道歉",
+      "onboard_time": 1681972349,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 3188779,
       "num": 3188779,
       "word": "演员吴耀汉去世",
@@ -505,14 +513,6 @@
       "onboard_time": 1680305961,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2887176,
-      "num": 2887176,
-      "word": "宝马mini道歉",
-      "onboard_time": 1681972349,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 2883262,
@@ -1441,6 +1441,14 @@
       "onboard_time": 1680822560,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2054616,
+      "num": 2054616,
+      "word": "离职一年了还要我交接群",
+      "onboard_time": 1681975048,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 2041902,
@@ -5859,6 +5867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845184,
+      "num": 845184,
+      "word": "28岁存款6万的我裸辞了",
+      "onboard_time": 1681965031,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 843954,
       "num": 461769,
       "word": "运动员退役必须要官宣吗",
@@ -5913,14 +5929,6 @@
       "onboard_time": 1680422850,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 839891,
-      "num": 383042,
-      "word": "28岁存款6万的我裸辞了",
-      "onboard_time": 1681965031,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 838570,
@@ -7515,6 +7523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 692248,
+      "num": 692248,
+      "word": "张雨绮可以面试下内娱吗",
+      "onboard_time": 1681974629,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 692007,
       "num": 692007,
       "word": "乘风破浪 翻红",
@@ -8179,14 +8195,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 656213,
-      "num": 264229,
-      "word": "张雨绮可以面试下内娱吗",
-      "onboard_time": 1681974629,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 656173,
       "num": 1825444,
       "word": "程序员辞职带妈妈锻炼半年瘦20斤",
@@ -8409,14 +8417,6 @@
       "onboard_time": 1681204648,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 644212,
-      "num": 240380,
-      "word": "离职一年了还要我交接群",
-      "onboard_time": 1681975048,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 643901,
@@ -9473,6 +9473,14 @@
       "onboard_time": 1680446323,
       "rank": 6,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 589217,
+      "num": 589217,
+      "word": "陈哲远去泰国找印度飞饼",
+      "onboard_time": 1681976130,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 588271,
@@ -10945,6 +10953,14 @@
       "onboard_time": 1681728327,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525665,
+      "num": 525665,
+      "word": "上海邮储银行男职工殴打女职工",
+      "onboard_time": 1681975468,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 525540,
@@ -13779,6 +13795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425714,
+      "num": 425714,
+      "word": "五一酒店价格你能接受吗",
+      "onboard_time": 1681975651,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 425674,
       "num": 425674,
       "word": "四川西昌突发森林火灾",
@@ -15737,6 +15761,14 @@
       "onboard_time": 1681391250,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 380426,
+      "num": 293878,
+      "word": "电影版赤木晴子vs漫版赤木晴子",
+      "onboard_time": 1681976370,
+      "rank": 21,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 380271,
@@ -17915,6 +17947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331345,
+      "num": 331345,
+      "word": "今天好多剧官宣啊",
+      "onboard_time": 1681975948,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 331209,
       "num": 331209,
       "word": "柯南贝克街的亡灵全国上映",
@@ -18284,7 +18324,7 @@
     },
     {
       "raw_hot": 325518,
-      "num": 210180,
+      "num": 212964,
       "word": "张颂文微博评论区回复",
       "onboard_time": 1681973248,
       "rank": 24,
@@ -18361,6 +18401,14 @@
       "onboard_time": 1680447042,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 323683,
+      "num": 323683,
+      "word": "陈都灵邓为新浪扫楼",
+      "onboard_time": 1681974747,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 323662,
@@ -20083,14 +20131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291344,
-      "num": 291344,
-      "word": "陈都灵邓为新浪扫楼",
-      "onboard_time": 1681974747,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 290886,
       "num": 290886,
       "word": "马克龙用普通话和粤语说大家好",
@@ -20572,7 +20612,7 @@
     },
     {
       "raw_hot": 283960,
-      "num": 193277,
+      "num": 257959,
       "word": "田曦薇说不想和没看过全国大赛的人说话",
       "onboard_time": 1681974208,
       "rank": 31,
@@ -20697,6 +20737,14 @@
       "onboard_time": 1680956488,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 282188,
+      "num": 168501,
+      "word": "Luneurs回应宝马mini冰淇淋事件",
+      "onboard_time": 1681975891,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 282120,
@@ -20881,6 +20929,14 @@
       "onboard_time": 1680663269,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279710,
+      "num": 279710,
+      "word": "5岁男孩上菜摔倒后先向爸爸道歉",
+      "onboard_time": 1681976249,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279640,
@@ -21379,12 +21435,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 270170,
+      "num": 237025,
+      "word": "花花和弟弟要放假了",
+      "onboard_time": 1681977928,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270099,
       "num": 270099,
       "word": "那英狂飙后再唱OST",
       "onboard_time": 1681186050,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 270060,
+      "num": 270060,
+      "word": "杭州大爷买3个包子付了19万6",
+      "onboard_time": 1681978408,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269968,
@@ -21819,6 +21891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262950,
+      "num": 320167,
+      "word": "文彬文秀雅同框跳舞视频",
+      "onboard_time": 1681976130,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262948,
       "num": 262948,
       "word": "今天谷雨",
@@ -21841,6 +21921,14 @@
       "onboard_time": 1681517422,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262694,
+      "num": 314948,
+      "word": "徐艺洋说世界上会有完美的我们",
+      "onboard_time": 1681977270,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 262564,
@@ -22553,6 +22641,14 @@
       "onboard_time": 1680958588,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252998,
+      "num": 308310,
+      "word": "时代少年团特权码",
+      "onboard_time": 1681977688,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252976,
@@ -31067,6 +31163,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 195191,
+      "num": 195191,
+      "word": "警方调查银行男员工殴打女员工",
+      "onboard_time": 1681976308,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195076,
       "num": 195076,
       "word": "张信哲唱孙燕姿的雨天",
@@ -31089,6 +31193,14 @@
       "onboard_time": 1681309535,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195011,
+      "num": 195011,
+      "word": "张真源教助理跳舞",
+      "onboard_time": 1681977747,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 195005,
@@ -34443,6 +34555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180297,
+      "num": 180297,
+      "word": "大天狗传说限定皮肤",
+      "onboard_time": 1681977270,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180188,
       "num": 180188,
       "word": "电影检察风云预售开启",
@@ -34745,14 +34865,6 @@
       "onboard_time": 1680703952,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177931,
-      "num": 177931,
-      "word": "上海邮储银行男职工殴打女职工",
-      "onboard_time": 1681975468,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177909,
@@ -35732,7 +35844,7 @@
     },
     {
       "raw_hot": 170720,
-      "num": 193384,
+      "num": 237970,
       "word": "消防员用奶茶救下轻生女孩",
       "onboard_time": 1681973369,
       "rank": 29,
@@ -39771,14 +39883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 144175,
-      "num": 144175,
-      "word": "Luneurs回应宝马mini冰淇淋事件",
-      "onboard_time": 1681975891,
-      "rank": 40,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 144027,
       "num": 144027,
       "word": "灿烂的转身爽点",
@@ -41747,6 +41851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128588,
+      "num": 128588,
+      "word": "王嘉尔公司退股张艺兴合伙企业",
+      "onboard_time": 1681978889,
+      "rank": 44,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 128577,
       "num": 128577,
       "word": "小时候的文具盒好高级啊",
@@ -41923,14 +42035,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 127519,
-      "num": 127519,
-      "word": "五一酒店价格你能接受吗",
-      "onboard_time": 1681975651,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 127448,
       "num": 127448,
       "word": "闵玧其新专主打曲叫解禁",
@@ -41993,6 +42097,14 @@
       "onboard_time": 1680506551,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 126842,
+      "num": 126842,
+      "word": "宝马家在中国",
+      "onboard_time": 1681973009,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 126763,
@@ -42249,14 +42361,6 @@
       "onboard_time": 1680279865,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124859,
-      "num": 124859,
-      "word": "今天好多剧官宣啊",
-      "onboard_time": 1681975948,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 124746,
@@ -46507,6 +46611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51511,
+      "num": 328187,
+      "word": "苏醒现场版小城夏天",
+      "onboard_time": 1681977628,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 51166,
       "num": 51166,
       "word": "何广智说尘封十三载好看",
@@ -46993,6 +47105,14 @@
       "onboard_time": 1681621226,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 27978,
+      "num": 1150164,
+      "word": "中国汉字遇上锦绣山河有多惊艳",
+      "onboard_time": 1681951651,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26730,

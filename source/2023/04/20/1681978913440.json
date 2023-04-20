@@ -1,0 +1,410 @@
+{
+  "runTime": 1681978913440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3201063,
+        "num": 3201063,
+        "word": "宝马mini道歉",
+        "onboard_time": 1681972349,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2054616,
+        "num": 2054616,
+        "word": "离职一年了还要我交接群",
+        "onboard_time": 1681975048,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27978,
+        "num": 1150164,
+        "word": "中国汉字遇上锦绣山河有多惊艳",
+        "onboard_time": 1681951651,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845184,
+        "num": 845184,
+        "word": "28岁存款6万的我裸辞了",
+        "onboard_time": 1681965031,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 692248,
+        "num": 692248,
+        "word": "张雨绮可以面试下内娱吗",
+        "onboard_time": 1681974629,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589217,
+        "num": 589217,
+        "word": "陈哲远去泰国找印度飞饼",
+        "onboard_time": 1681976130,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540723,
+        "num": 540723,
+        "word": "月经期间到底能吃啥水果",
+        "onboard_time": 1681971988,
+        "rank": 6,
+        "category": "美食,情感"
+      },
+      {
+        "raw_hot": 525665,
+        "num": 525665,
+        "word": "上海邮储银行男职工殴打女职工",
+        "onboard_time": 1681975468,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425714,
+        "num": 425714,
+        "word": "五一酒店价格你能接受吗",
+        "onboard_time": 1681975651,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 396352,
+        "num": 396352,
+        "word": "夫妻赌气喝洁厕剂丈夫报警后让先救妻子",
+        "onboard_time": 1681961969,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489349,
+        "num": 387959,
+        "word": "窦骁 你的名字我的姓氏",
+        "onboard_time": 1681964252,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374324,
+        "num": 374324,
+        "word": "领导说你干不下去可以走时",
+        "onboard_time": 1681967611,
+        "rank": 11,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 350939,
+        "num": 350939,
+        "word": "王一博片场意外翻车",
+        "onboard_time": 1681960228,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331345,
+        "num": 331345,
+        "word": "今天好多剧官宣啊",
+        "onboard_time": 1681975948,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 51511,
+        "num": 328187,
+        "word": "苏醒现场版小城夏天",
+        "onboard_time": 1681977628,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326056,
+        "num": 326056,
+        "word": "周雨结婚",
+        "onboard_time": 1681970007,
+        "rank": 15,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 323683,
+        "num": 323683,
+        "word": "陈都灵邓为新浪扫楼",
+        "onboard_time": 1681974747,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 262950,
+        "num": 320167,
+        "word": "文彬文秀雅同框跳舞视频",
+        "onboard_time": 1681976130,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262694,
+        "num": 314948,
+        "word": "徐艺洋说世界上会有完美的我们",
+        "onboard_time": 1681977270,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252998,
+        "num": 308310,
+        "word": "时代少年团特权码",
+        "onboard_time": 1681977688,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 827033,
+        "num": 302414,
+        "word": "C罗酒店将台湾列为国家",
+        "onboard_time": 1681968090,
+        "rank": 20,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 380426,
+        "num": 293878,
+        "word": "电影版赤木晴子vs漫版赤木晴子",
+        "onboard_time": 1681976370,
+        "rank": 21,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 365728,
+        "num": 282590,
+        "word": "宝马mini展台已撤下冰淇淋宣传物料",
+        "onboard_time": 1681973610,
+        "rank": 22,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 281944,
+        "num": 281944,
+        "word": "原来十年前的微信长这样",
+        "onboard_time": 1681965097,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279710,
+        "num": 279710,
+        "word": "5岁男孩上菜摔倒后先向爸爸道歉",
+        "onboard_time": 1681976249,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270060,
+        "num": 270060,
+        "word": "杭州大爷买3个包子付了19万6",
+        "onboard_time": 1681978408,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265174,
+        "num": 265174,
+        "word": "梅西店铺将台湾列为国家",
+        "onboard_time": 1681956628,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257959,
+        "num": 257959,
+        "word": "田曦薇说不想和没看过全国大赛的人说话",
+        "onboard_time": 1681974208,
+        "rank": 27,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 240466,
+        "num": 240466,
+        "word": "车银优紧急回国",
+        "onboard_time": 1681951052,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134336,
+        "num": 237970,
+        "word": "消防员用奶茶救下轻生女孩",
+        "onboard_time": 1681973369,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347735,
+        "num": 237284,
+        "word": "宝马mini展区被指区别对待",
+        "onboard_time": 1681962390,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270170,
+        "num": 237025,
+        "word": "花花和弟弟要放假了",
+        "onboard_time": 1681977928,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236253,
+        "num": 236253,
+        "word": "工作人员回应宝马mini被指区别对待",
+        "onboard_time": 1681962750,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212964,
+        "num": 212964,
+        "word": "张颂文微博评论区回复",
+        "onboard_time": 1681973248,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195191,
+        "num": 195191,
+        "word": "警方调查银行男员工殴打女员工",
+        "onboard_time": 1681976308,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195011,
+        "num": 195011,
+        "word": "张真源教助理跳舞",
+        "onboard_time": 1681977747,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193491,
+        "num": 193491,
+        "word": "办公室一天讲不了10句话",
+        "onboard_time": 1681965097,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187590,
+        "num": 187590,
+        "word": "如何看待娱乐圈艺人大量接活",
+        "onboard_time": 1681970489,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180297,
+        "num": 180297,
+        "word": "大天狗传说限定皮肤",
+        "onboard_time": 1681977270,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170805,
+        "num": 170805,
+        "word": "易梦玲陈采尼环球影城游玩",
+        "onboard_time": 1681973549,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282188,
+        "num": 168501,
+        "word": "Luneurs回应宝马mini冰淇淋事件",
+        "onboard_time": 1681975891,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 163165,
+        "num": 163165,
+        "word": "上海车展",
+        "onboard_time": 1681978770,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 161734,
+        "num": 161734,
+        "word": "灌篮高手周边卖断货",
+        "onboard_time": 1681972709,
+        "rank": 42,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 135051,
+        "num": 135051,
+        "word": "150天女婴浑身红点确诊高危白血病",
+        "onboard_time": 1681966357,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128588,
+        "num": 128588,
+        "word": "王嘉尔公司退股张艺兴合伙企业",
+        "onboard_time": 1681978889,
+        "rank": 44,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 127988,
+        "num": 127988,
+        "word": "易烊千玺嘉人五月刊封面预告",
+        "onboard_time": 1681973069,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126842,
+        "num": 126842,
+        "word": "宝马家在中国",
+        "onboard_time": 1681973009,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122513,
+        "num": 122513,
+        "word": "未定事件簿 雷雨",
+        "onboard_time": 1681963592,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119896,
+        "num": 119896,
+        "word": "如梦之梦 深圳",
+        "onboard_time": 1681969707,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118588,
+        "num": 118588,
+        "word": "陈飞宇周也赵小棠同框扫楼",
+        "onboard_time": 1681966536,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同加蓬总统举行会谈#"
+    }
+  }
+}
