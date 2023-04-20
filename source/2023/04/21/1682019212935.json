@@ -1,0 +1,410 @@
+{
+  "runTime": 1682019212935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 364109,
+        "num": 364109,
+        "word": "乐华赢麻了",
+        "onboard_time": 1682005653,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106509,
+        "num": 106509,
+        "word": "陈飞宇说运气是演员无法人为掌控的",
+        "onboard_time": 1682019192,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14735,
+        "num": 101363,
+        "word": "中国航天下一站去哪",
+        "onboard_time": 1682001453,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161995,
+        "num": 101212,
+        "word": "章昊C位出道",
+        "onboard_time": 1682004751,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99660,
+        "num": 99660,
+        "word": "淄博烧烤店老板多算钱隔天加微信退还",
+        "onboard_time": 1682007206,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100501,
+        "num": 97811,
+        "word": "宝马mini道歉",
+        "onboard_time": 1681972349,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 90746,
+        "num": 90746,
+        "word": "警方回应女子宝马展台前直播被架走",
+        "onboard_time": 1682006788,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60902,
+        "num": 60902,
+        "word": "原来兵马俑每天都在挖",
+        "onboard_time": 1682009782,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58563,
+        "num": 58563,
+        "word": "孕妈大笑时肚子里的宝宝",
+        "onboard_time": 1682006250,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57708,
+        "num": 57708,
+        "word": "姐姐未婚先孕用妹妹身份证结婚",
+        "onboard_time": 1681990049,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127965,
+        "num": 57084,
+        "word": "窦骁敷着面膜向何超莲求婚",
+        "onboard_time": 1682001934,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54632,
+        "num": 54632,
+        "word": "杜华你好大的福气",
+        "onboard_time": 1682006250,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43221,
+        "num": 43221,
+        "word": "女孩升职被同事造黄谣陷抑郁后裸辞",
+        "onboard_time": 1682005951,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42657,
+        "num": 42657,
+        "word": "俞敏洪建议董宇辉出国留学",
+        "onboard_time": 1682001033,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42220,
+        "num": 42220,
+        "word": "喜欢和不喜欢的区别很明显",
+        "onboard_time": 1682002896,
+        "rank": 14,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 36888,
+        "num": 36888,
+        "word": "月薪4K工作很闲要辞职吗",
+        "onboard_time": 1681986207,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34552,
+        "num": 34552,
+        "word": "誓约",
+        "onboard_time": 1681994606,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32754,
+        "num": 32754,
+        "word": "仁科 哈佛",
+        "onboard_time": 1682011219,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32668,
+        "num": 32668,
+        "word": "韩维辰",
+        "onboard_time": 1682004751,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32187,
+        "num": 32187,
+        "word": "流川枫传球给樱木花道",
+        "onboard_time": 1682006309,
+        "rank": 19,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 51608,
+        "num": 31916,
+        "word": "很喜欢但停产了的东西",
+        "onboard_time": 1681987048,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40780,
+        "num": 31515,
+        "word": "放天欢回来杀叶冰裳吧",
+        "onboard_time": 1682014037,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 40385,
+        "num": 31309,
+        "word": "男子因嫌盛米饭少殴打食堂阿姨",
+        "onboard_time": 1682016254,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37434,
+        "num": 31120,
+        "word": "澹台烬选择救叶冰裳的原因",
+        "onboard_time": 1682003915,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36434,
+        "num": 30552,
+        "word": "和闺蜜创业44天散伙了",
+        "onboard_time": 1681993048,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30475,
+        "num": 30475,
+        "word": "物业回应男童从27层坠楼离世",
+        "onboard_time": 1682002896,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29752,
+        "num": 29752,
+        "word": "BoysPlanet出道团名ZB1",
+        "onboard_time": 1681995749,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27757,
+        "num": 27757,
+        "word": "陈都灵采访 会说话有逻辑",
+        "onboard_time": 1682002535,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 26993,
+        "num": 26993,
+        "word": "金在中悼念文彬",
+        "onboard_time": 1682002655,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11488,
+        "num": 25072,
+        "word": "过去一年你读了几本书",
+        "onboard_time": 1681999417,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 114772,
+        "num": 25017,
+        "word": "宝马mini展台再现冲突",
+        "onboard_time": 1681991426,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29375,
+        "num": 25001,
+        "word": "BoysPlanet决赛出道夜",
+        "onboard_time": 1681988788,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24950,
+        "num": 24950,
+        "word": "957爆料WBG新教练",
+        "onboard_time": 1682003375,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24486,
+        "num": 24486,
+        "word": "76岁大爷盗墓为过世孙子配婚获刑",
+        "onboard_time": 1681986748,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24206,
+        "num": 24206,
+        "word": "小象是如何揉眼睛的",
+        "onboard_time": 1681998871,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23993,
+        "num": 23993,
+        "word": "高校辟谣女生被3名黑人性侵",
+        "onboard_time": 1681988008,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22259,
+        "num": 22259,
+        "word": "集美 集帅",
+        "onboard_time": 1682005173,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21504,
+        "num": 21504,
+        "word": "莫文蔚忽然之间全场大合唱",
+        "onboard_time": 1681995209,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20860,
+        "num": 20860,
+        "word": "灌篮高手",
+        "onboard_time": 1681989268,
+        "rank": 38,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 20537,
+        "num": 20537,
+        "word": "迪丽热巴新剧过审",
+        "onboard_time": 1682001757,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20815,
+        "num": 20177,
+        "word": "流川枫好帅",
+        "onboard_time": 1681991487,
+        "rank": 40,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 19640,
+        "num": 19640,
+        "word": "泰裤辣",
+        "onboard_time": 1681989207,
+        "rank": 41,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 19117,
+        "num": 19117,
+        "word": "千万不要学博主穿丝巾",
+        "onboard_time": 1681988550,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18291,
+        "num": 18291,
+        "word": "孙颖莎让二追三",
+        "onboard_time": 1682000315,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17932,
+        "num": 17932,
+        "word": "张小斐小心青城山的蚊子",
+        "onboard_time": 1682004812,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17904,
+        "num": 17904,
+        "word": "长月烬明一碗粥引发的血案",
+        "onboard_time": 1681989148,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 15582,
+        "num": 17898,
+        "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+        "onboard_time": 1681986990,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24063,
+        "num": 17896,
+        "word": "金泰来第六出道",
+        "onboard_time": 1682003134,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14878,
+        "num": 17888,
+        "word": "杨幂录密逃了",
+        "onboard_time": 1681987168,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14130,
+        "num": 17882,
+        "word": "LGD锁定季后赛胜者组",
+        "onboard_time": 1682006128,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同加蓬总统举行会谈#"
+    }
+  }
+}

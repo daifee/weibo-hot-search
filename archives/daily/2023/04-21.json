@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682018059822,
+  "endTime": 1682019212935,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -443,6 +443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40385,
+      "num": 33932,
+      "word": "男子因嫌盛米饭少殴打食堂阿姨",
+      "onboard_time": 1682016254,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38768,
       "num": 159172,
       "word": "过去一年你读了几本书",
@@ -451,12 +459,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 36103,
-      "num": 33932,
-      "word": "男子因嫌盛米饭少殴打食堂阿姨",
-      "onboard_time": 1682016254,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 29375,
+      "num": 25001,
+      "word": "BoysPlanet决赛出道夜",
+      "onboard_time": 1681988788,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 29237,

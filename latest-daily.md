@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/21 00:22:49 ~ 2023/04/21 03:14:19
+本榜单时间：2023/04/21 00:22:49 ~ 2023/04/21 03:33:32
 </p>
 </blockquote>
 <p>
@@ -345,14 +345,20 @@ BoysPlanet出道团名ZB1（热度：90007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AB%8C%E7%9B%9B%E7%B1%B3%E9%A5%AD%E5%B0%91%E6%AE%B4%E6%89%93%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8%23" target="weibo">
+男子因嫌盛米饭少殴打食堂阿姨（热度：40385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%BD%A0%E8%AF%BB%E4%BA%86%E5%87%A0%E6%9C%AC%E4%B9%A6%23" target="weibo">
 过去一年你读了几本书（热度：38768）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AB%8C%E7%9B%9B%E7%B1%B3%E9%A5%AD%E5%B0%91%E6%AE%B4%E6%89%93%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8%23" target="weibo">
-男子因嫌盛米饭少殴打食堂阿姨（热度：36103）
+<a href="https://s.weibo.com/weibo?q=%23BoysPlanet%E5%86%B3%E8%B5%9B%E5%87%BA%E9%81%93%E5%A4%9C%23" target="weibo">
+BoysPlanet决赛出道夜（热度：29375）
 </a>
 </li>
 
