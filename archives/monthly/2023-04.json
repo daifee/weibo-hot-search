@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681979719011,
+  "endTime": 1681982234072,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3595,6 +3595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1197645,
+      "num": 1197645,
+      "word": "28岁存款6万的我裸辞了",
+      "onboard_time": 1681965031,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1193583,
       "num": 1193583,
       "word": "长月烬明算爆了吗",
@@ -3769,6 +3777,14 @@
       "onboard_time": 1680952287,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1146095,
+      "num": 1146095,
+      "word": "王嘉尔公司退股张艺兴合伙企业",
+      "onboard_time": 1681978889,
+      "rank": 44,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 1145268,
@@ -3985,14 +4001,6 @@
       "onboard_time": 1681533865,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1109746,
-      "num": 1109746,
-      "word": "28岁存款6万的我裸辞了",
-      "onboard_time": 1681965031,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1109691,
@@ -6321,6 +6329,14 @@
       "onboard_time": 1680616652,
       "rank": 6,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 794862,
+      "num": 794862,
+      "word": "花花和弟弟要放假了",
+      "onboard_time": 1681977928,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 793685,
@@ -9011,14 +9027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613181,
-      "num": 613181,
-      "word": "王嘉尔公司退股张艺兴合伙企业",
-      "onboard_time": 1681978889,
-      "rank": 44,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 612781,
       "num": 612781,
       "word": "外卖小哥月入过万真的很容易吗",
@@ -9401,6 +9409,14 @@
       "onboard_time": 1680916225,
       "rank": 28,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 592616,
+      "num": 270060,
+      "word": "杭州大爷买3个包子付了19万6",
+      "onboard_time": 1681978408,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 591943,
@@ -10155,14 +10171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 556402,
-      "num": 270060,
-      "word": "杭州大爷买3个包子付了19万6",
-      "onboard_time": 1681978408,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 555516,
       "num": 345005,
       "word": "过度超前消费有多可怕",
@@ -10465,6 +10473,14 @@
       "onboard_time": 1681113929,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 542800,
+      "num": 351692,
+      "word": "陈都灵腿好细",
+      "onboard_time": 1681979729,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 542661,
@@ -12395,6 +12411,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 471231,
+      "num": 471231,
+      "word": "五一酒店价格你能接受吗",
+      "onboard_time": 1681975651,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 470711,
       "num": 470711,
       "word": "编剧吴迪",
@@ -13787,14 +13811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 426797,
-      "num": 426797,
-      "word": "五一酒店价格你能接受吗",
-      "onboard_time": 1681975651,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 426717,
       "num": 426717,
       "word": "萧山机场",
@@ -14707,6 +14723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405118,
+      "num": 349278,
+      "word": "宝马mini 打人",
+      "onboard_time": 1681981768,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404980,
       "num": 404980,
       "word": "王子浩淘汰",
@@ -14897,6 +14921,14 @@
       "onboard_time": 1681126348,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400659,
+      "num": 400659,
+      "word": "LPL选手亚运会集训",
+      "onboard_time": 1681979487,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 400512,
@@ -15345,14 +15377,6 @@
       "onboard_time": 1681365026,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392240,
-      "num": 392240,
-      "word": "花花和弟弟要放假了",
-      "onboard_time": 1681977928,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392185,
@@ -16971,6 +16995,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 352462,
+      "num": 352462,
+      "word": "王鹤棣新剧公主抱周也",
+      "onboard_time": 1681979909,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 352226,
       "num": 352226,
       "word": "叶冰裳彻底黑化",
@@ -17265,6 +17297,14 @@
       "onboard_time": 1680759327,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 346124,
+      "num": 346124,
+      "word": "起底宝马冰淇淋背后公司",
+      "onboard_time": 1681979549,
+      "rank": 25,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 345946,
@@ -21553,14 +21593,6 @@
       "onboard_time": 1680918750,
       "rank": 25,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 268489,
-      "num": 268489,
-      "word": "起底宝马冰淇淋背后公司",
-      "onboard_time": 1681979549,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 268466,
@@ -33043,6 +33075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187925,
+      "num": 187925,
+      "word": "今年暑期档阵容有多强",
+      "onboard_time": 1681979308,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187920,
       "num": 187920,
       "word": "留学生们在外面真的要好好保护自己",
@@ -41131,14 +41171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134683,
-      "num": 134683,
-      "word": "LPL选手亚运会集训",
-      "onboard_time": 1681979487,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134581,
       "num": 134581,
       "word": "梁静茹演唱会上海站官宣",
@@ -41481,14 +41513,6 @@
       "onboard_time": 1680931465,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131811,
-      "num": 131811,
-      "word": "今年暑期档阵容有多强",
-      "onboard_time": 1681979308,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 131807,
@@ -42187,6 +42211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126371,
+      "num": 126371,
+      "word": "DKZ李庚润因恐慌障碍暂停活动",
+      "onboard_time": 1681979369,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126343,
       "num": 126343,
       "word": "IVEIAM一位安可",
@@ -42225,14 +42257,6 @@
       "onboard_time": 1680619413,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125968,
-      "num": 125968,
-      "word": "DKZ李庚润因恐慌障碍暂停活动",
-      "onboard_time": 1681979369,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 125945,
@@ -44003,6 +44027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107461,
+      "num": 107461,
+      "word": "螺蛳粉芭乐龙井鸳鸯锅",
+      "onboard_time": 1681980090,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107343,
       "num": 107343,
       "word": "AG战胜EDGM",
@@ -45169,6 +45201,14 @@
       "onboard_time": 1681022965,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94146,
+      "num": 94146,
+      "word": "邮政回应员工打人事件",
+      "onboard_time": 1681980627,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94010,
@@ -46988,7 +47028,7 @@
     },
     {
       "raw_hot": 35441,
-      "num": 1150164,
+      "num": 1356691,
       "word": "中国汉字遇上锦绣山河有多惊艳",
       "onboard_time": 1681951651,
       "rank": 2,

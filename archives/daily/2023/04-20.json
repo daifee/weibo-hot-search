@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681979719011,
+  "endTime": 1681982234072,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -155,12 +155,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1109746,
-      "num": 1109746,
+      "raw_hot": 1197645,
+      "num": 1197645,
       "word": "28岁存款6万的我裸辞了",
       "onboard_time": 1681965031,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1146095,
+      "num": 1146095,
+      "word": "王嘉尔公司退股张艺兴合伙企业",
+      "onboard_time": 1681978889,
+      "rank": 44,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 1018060,
@@ -232,6 +240,14 @@
       "word": "宝马mini展区被指区别对待",
       "onboard_time": 1681962390,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794862,
+      "num": 794862,
+      "word": "花花和弟弟要放假了",
+      "onboard_time": 1681977928,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -331,20 +347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 613181,
-      "num": 613181,
-      "word": "王嘉尔公司退股张艺兴合伙企业",
-      "onboard_time": 1681978889,
-      "rank": 44,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 592846,
       "num": 382977,
       "word": "原来十年前的微信长这样",
       "onboard_time": 1681965097,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 592616,
+      "num": 270060,
+      "word": "杭州大爷买3个包子付了19万6",
+      "onboard_time": 1681978408,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 589217,
@@ -363,20 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 556402,
-      "num": 270060,
-      "word": "杭州大爷买3个包子付了19万6",
-      "onboard_time": 1681978408,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 544011,
       "num": 544011,
       "word": "男子直播打骂奔现女网友被刑拘",
       "onboard_time": 1681949372,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542800,
+      "num": 351692,
+      "word": "陈都灵腿好细",
+      "onboard_time": 1681979729,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 540084,
@@ -435,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 471231,
+      "num": 471231,
+      "word": "五一酒店价格你能接受吗",
+      "onboard_time": 1681975651,
+      "rank": 47,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 468141,
       "num": 378719,
       "word": "宝马 Luneurs冰淇淋",
@@ -483,14 +507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 426797,
-      "num": 426797,
-      "word": "五一酒店价格你能接受吗",
-      "onboard_time": 1681975651,
-      "rank": 47,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 423568,
       "num": 334348,
       "word": "出嫁后妈妈给了我一栋收租房",
@@ -515,12 +531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 392240,
-      "num": 392240,
-      "word": "花花和弟弟要放假了",
-      "onboard_time": 1681977928,
-      "rank": 31,
+      "raw_hot": 405118,
+      "num": 349278,
+      "word": "宝马mini 打人",
+      "onboard_time": 1681981768,
+      "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400659,
+      "num": 400659,
+      "word": "LPL选手亚运会集训",
+      "onboard_time": 1681979487,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 389206,
@@ -585,6 +609,22 @@
       "onboard_time": 1681954890,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352462,
+      "num": 352462,
+      "word": "王鹤棣新剧公主抱周也",
+      "onboard_time": 1681979909,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 346124,
+      "num": 346124,
+      "word": "起底宝马冰淇淋背后公司",
+      "onboard_time": 1681979549,
+      "rank": 25,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 345869,
@@ -833,14 +873,6 @@
       "onboard_time": 1681953511,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268489,
-      "num": 268489,
-      "word": "起底宝马冰淇淋背后公司",
-      "onboard_time": 1681979549,
-      "rank": 25,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 266606,
@@ -1259,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187925,
+      "num": 187925,
+      "word": "今年暑期档阵容有多强",
+      "onboard_time": 1681979308,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187522,
       "num": 187522,
       "word": "花间令开机路透",
@@ -1627,28 +1667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 134683,
-      "num": 134683,
-      "word": "LPL选手亚运会集训",
-      "onboard_time": 1681979487,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134407,
       "num": 134407,
       "word": "00后女生返乡当村医嘶吼式问诊",
       "onboard_time": 1681960767,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131811,
-      "num": 131811,
-      "word": "今年暑期档阵容有多强",
-      "onboard_time": 1681979308,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 129942,
@@ -1707,8 +1731,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125968,
-      "num": 125968,
+      "raw_hot": 126371,
+      "num": 126371,
       "word": "DKZ李庚润因恐慌障碍暂停活动",
       "onboard_time": 1681979369,
       "rank": 45,
@@ -1827,6 +1851,14 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 107461,
+      "num": 107461,
+      "word": "螺蛳粉芭乐龙井鸳鸯锅",
+      "onboard_time": 1681980090,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106940,
       "num": 106940,
       "word": "杨洋起诉百草味侵权案将开庭",
@@ -1881,6 +1913,14 @@
       "onboard_time": 1681920986,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94146,
+      "num": 94146,
+      "word": "邮政回应员工打人事件",
+      "onboard_time": 1681980627,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92975,
@@ -1940,7 +1980,7 @@
     },
     {
       "raw_hot": 35441,
-      "num": 1150164,
+      "num": 1356691,
       "word": "中国汉字遇上锦绣山河有多惊艳",
       "onboard_time": 1681951651,
       "rank": 2,
