@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681947235519,
+  "endTime": 1681953641057,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -33,6 +33,14 @@
       "onboard_time": 1681786946,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 3725417,
+      "num": 3725417,
+      "word": "车银优紧急回国",
+      "onboard_time": 1681951052,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3542608,
@@ -219,6 +227,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2243382,
+      "num": 2243382,
+      "word": "ASTRO成员文彬去世",
+      "onboard_time": 1681921705,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2240403,
       "num": 278863,
       "word": "长峰医院火灾现场仍有烧焦味道",
@@ -352,6 +368,14 @@
       "word": "男婴静脉被注射配方奶家长被瞒5天",
       "onboard_time": 1681812809,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1794932,
+      "num": 1794932,
+      "word": "山科大北门伤人事件致1死6伤",
+      "onboard_time": 1681947267,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -657,6 +681,14 @@
       "onboard_time": 1681728570,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1214683,
+      "num": 252057,
+      "word": "长沙县发现一具无名女尸",
+      "onboard_time": 1681949132,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1202341,
@@ -1067,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 727254,
+      "num": 250150,
+      "word": "女子入职58天迟到21次不满被辞",
+      "onboard_time": 1681949010,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 723212,
       "num": 723212,
       "word": "新生儿落户被标注文盲",
@@ -1104,6 +1144,14 @@
       "word": "优酷说陈都灵好惨一女的",
       "onboard_time": 1681809086,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 708759,
+      "num": 708759,
+      "word": "祝绪丹你是不是有什么难处",
+      "onboard_time": 1681950993,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -1185,6 +1233,14 @@
       "onboard_time": 1681718606,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675377,
+      "num": 389058,
+      "word": "女性的痛苦被当做一种景观",
+      "onboard_time": 1681948286,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 671981,
@@ -1457,6 +1513,14 @@
       "onboard_time": 1681704026,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 575878,
+      "num": 575878,
+      "word": "想起钟铉雪莉荷拉",
+      "onboard_time": 1681950394,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 573498,
@@ -1755,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484892,
+      "num": 484892,
+      "word": "男子直播打骂奔现女网友被刑拘",
+      "onboard_time": 1681949372,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484682,
       "num": 484682,
       "word": "工作人员为王鹤棣发声",
@@ -1921,6 +1993,14 @@
       "onboard_time": 1681730187,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457517,
+      "num": 387649,
+      "word": "VICTON解散",
+      "onboard_time": 1681952614,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 456240,
@@ -2315,6 +2395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 389206,
+      "num": 389206,
+      "word": "牺牲生活质量的攒钱有必要吗",
+      "onboard_time": 1681947506,
+      "rank": 9,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 387918,
       "num": 387918,
       "word": "山科大老师回应网传北门伤人事件",
@@ -2579,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364391,
+      "num": 364391,
+      "word": "暮光之城拍剧版",
+      "onboard_time": 1681950813,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363927,
       "num": 363927,
       "word": "小米手环8",
@@ -2835,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332153,
+      "num": 332153,
+      "word": "沙尘暴",
+      "onboard_time": 1681949731,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331989,
       "num": 322941,
       "word": "刘亦菲纯白西装",
@@ -2977,6 +3081,14 @@
       "onboard_time": 1681798469,
       "rank": 30,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 319668,
+      "num": 319668,
+      "word": "迪士尼玲娜贝儿被多次拍打头部",
+      "onboard_time": 1681948467,
+      "rank": 16,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 319105,
@@ -3243,6 +3355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288409,
+      "num": 288409,
+      "word": "小龙虾该按份卖还是按斤卖",
+      "onboard_time": 1681949552,
+      "rank": 17,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 285795,
       "num": 294357,
       "word": "张含韵回应质疑",
@@ -3252,7 +3372,7 @@
     },
     {
       "raw_hot": 284420,
-      "num": 244495,
+      "num": 245225,
       "word": "原来上课偷吃东西那么明显",
       "onboard_time": 1681916431,
       "rank": 32,
@@ -3457,6 +3577,14 @@
       "onboard_time": 1681909587,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266606,
+      "num": 266606,
+      "word": "灌篮高手彩蛋",
+      "onboard_time": 1681946123,
+      "rank": 44,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 265350,
@@ -3723,6 +3851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232925,
+      "num": 232925,
+      "word": "我推的孩子",
+      "onboard_time": 1681949731,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 232211,
       "num": 232211,
       "word": "NBA季后赛",
@@ -3884,7 +4020,7 @@
     },
     {
       "raw_hot": 223276,
-      "num": 191170,
+      "num": 191451,
       "word": "女子晒衣服不慎10楼跌落悬挂2楼",
       "onboard_time": 1681922363,
       "rank": 21,
@@ -4083,6 +4219,22 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 211868,
+      "num": 211868,
+      "word": "山科大持刀伤人男子已被控制",
+      "onboard_time": 1681947387,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211366,
+      "num": 211366,
+      "word": "代号鸢",
+      "onboard_time": 1681953093,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210645,
       "num": 210645,
       "word": "朱一龙 火锅脑袋",
@@ -4145,6 +4297,14 @@
       "onboard_time": 1681646366,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208859,
+      "num": 208859,
+      "word": "周星驰要组六月天",
+      "onboard_time": 1681950454,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 208729,
@@ -4627,14 +4787,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 195260,
-      "num": 195260,
-      "word": "灌篮高手彩蛋",
-      "onboard_time": 1681946123,
-      "rank": 44,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 194439,
       "num": 244563,
       "word": "普尔在笑什么",
@@ -4739,6 +4891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192673,
+      "num": 192673,
+      "word": "特斯拉一季度盈利暴跌20%",
+      "onboard_time": 1681952732,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192657,
       "num": 192657,
       "word": "长峰医院患者家属已全部对接联系",
@@ -4761,6 +4921,14 @@
       "onboard_time": 1681889548,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192290,
+      "num": 192290,
+      "word": "也门首都踩踏造成至少80死220伤",
+      "onboard_time": 1681950751,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 191951,
@@ -4811,12 +4979,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191123,
+      "num": 191123,
+      "word": "Fantagio发公告",
+      "onboard_time": 1681953213,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191050,
       "num": 191050,
       "word": "雷宇第一次见到隐身战机",
       "onboard_time": 1681788149,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191017,
+      "num": 191017,
+      "word": "fml居然是抒情",
+      "onboard_time": 1681952555,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 190467,
@@ -4995,6 +5179,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 186307,
+      "num": 186307,
+      "word": "安陵容看了都要叫你声姐姐",
+      "onboard_time": 1681949251,
+      "rank": 36,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 186288,
       "num": 186288,
       "word": "INTO1演唱会",
@@ -5153,6 +5345,14 @@
       "onboard_time": 1681734625,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179554,
+      "num": 179554,
+      "word": "新西兰举办比赛鼓励儿童杀野猫",
+      "onboard_time": 1681952555,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179535,
@@ -5451,6 +5651,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 164716,
+      "num": 171668,
+      "word": "难听",
+      "onboard_time": 1681952133,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164385,
       "num": 164385,
       "word": "为什么成年人要学会自愈",
@@ -5523,6 +5731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162006,
+      "num": 162006,
+      "word": "湖人vs灰熊",
+      "onboard_time": 1681949612,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161751,
       "num": 161751,
       "word": "成都迎来历史最热四月",
@@ -5592,6 +5808,14 @@
       "word": "专家正对熊猫林惠开展会诊",
       "onboard_time": 1681878453,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160452,
+      "num": 160452,
+      "word": "今天谷雨也是联合国中文日",
+      "onboard_time": 1681947748,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -6027,6 +6251,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 144768,
+      "num": 144768,
+      "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
+      "onboard_time": 1681953511,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144635,
       "num": 144635,
       "word": "流浪地球刘培强竟是北京西城人",
@@ -6339,6 +6571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127972,
+      "num": 127972,
+      "word": "2023首次日食今日午后上演",
+      "onboard_time": 1681950214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127804,
       "num": 127804,
       "word": "长空之王开预售",
@@ -6371,6 +6611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127345,
+      "num": 127345,
+      "word": "5岁男娃徒手抓羊出手稳准狠",
+      "onboard_time": 1681953332,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127121,
       "num": 127121,
       "word": "尘封十三载结局",
@@ -6401,6 +6649,14 @@
       "onboard_time": 1681713445,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125715,
+      "num": 125715,
+      "word": "速度与激情10全新预告",
+      "onboard_time": 1681953630,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 125533,
@@ -7356,7 +7612,7 @@
     },
     {
       "raw_hot": 58153,
-      "num": 1728533,
+      "num": 1876499,
       "word": "人民海军74周岁",
       "onboard_time": 1681901727,
       "rank": 2,
