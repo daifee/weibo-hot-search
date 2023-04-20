@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1681997762947,
+  "endTime": 1682000170385,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -49,6 +49,14 @@
       "onboard_time": 1680683010,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9034181,
+      "num": 9034181,
+      "word": "SpaceX星舰发射失败",
+      "onboard_time": 1681998271,
+      "rank": 0,
+      "category": "科技"
     },
     {
       "raw_hot": 8591986,
@@ -3019,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1390499,
+      "num": 1390499,
+      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+      "onboard_time": 1681986990,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1387526,
       "num": 1387526,
       "word": "武汉大暴雨白天秒变黑夜",
@@ -3145,6 +3161,14 @@
       "onboard_time": 1681220849,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1343314,
+      "num": 1343314,
+      "word": "姐姐未婚先孕用妹妹身份证结婚",
+      "onboard_time": 1681990049,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1341091,
@@ -3515,14 +3539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1238935,
-      "num": 1003923,
-      "word": "姐姐未婚先孕用妹妹身份证结婚",
-      "onboard_time": 1681990049,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1229566,
       "num": 1229566,
       "word": "罗云熙白鹿发文告别冥夜桑酒",
@@ -3777,14 +3793,6 @@
       "onboard_time": 1680613171,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1152295,
-      "num": 1152295,
-      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
-      "onboard_time": 1681986990,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 1151356,
@@ -4371,6 +4379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1030624,
+      "num": 996971,
+      "word": "SpaceX星舰今晚重新发射",
+      "onboard_time": 1681997311,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1029327,
       "num": 460233,
       "word": "贾静雯的体重",
@@ -4577,14 +4593,6 @@
       "onboard_time": 1680749786,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 996971,
-      "num": 996971,
-      "word": "SpaceX星舰今晚重新发射",
-      "onboard_time": 1681997311,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 996686,
@@ -5603,6 +5611,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 877062,
+      "num": 877062,
+      "word": "灌篮高手",
+      "onboard_time": 1681435526,
+      "rank": 37,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 876639,
       "num": 462117,
       "word": "马嘉祺只有51公斤",
@@ -6123,14 +6139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 829345,
-      "num": 829345,
-      "word": "灌篮高手",
-      "onboard_time": 1681435526,
-      "rank": 37,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 828867,
       "num": 396953,
       "word": "律师建议张继科不要逃避",
@@ -6193,6 +6201,14 @@
       "onboard_time": 1681190250,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822842,
+      "num": 390923,
+      "word": "马斯克",
+      "onboard_time": 1681997430,
+      "rank": 35,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 822663,
@@ -15411,6 +15427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395300,
+      "num": 395300,
+      "word": "赵继伟三分好牛",
+      "onboard_time": 1681996111,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395244,
       "num": 222741,
       "word": "刘亦菲有风剧组聚会合照",
@@ -18819,6 +18843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321298,
+      "num": 199039,
+      "word": "王楚钦晋级澳门站8强",
+      "onboard_time": 1681999055,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320994,
       "num": 320994,
       "word": "考公的压力有多大",
@@ -20337,14 +20369,6 @@
       "onboard_time": 1681627348,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 293489,
-      "num": 293489,
-      "word": "赵继伟三分好牛",
-      "onboard_time": 1681996111,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 293467,
@@ -23787,6 +23811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242297,
+      "num": 242297,
+      "word": "76岁大爷盗墓为过世孙子配婚获刑",
+      "onboard_time": 1681986748,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242292,
       "num": 242292,
       "word": "读书是为了赚钱吗",
@@ -23985,6 +24017,14 @@
       "onboard_time": 1680943884,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239686,
+      "num": 239686,
+      "word": "杨洋内八站姿",
+      "onboard_time": 1681998331,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239611,
@@ -24449,6 +24489,14 @@
       "onboard_time": 1680745349,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234396,
+      "num": 234396,
+      "word": "马嘉祺音色",
+      "onboard_time": 1681998093,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 234158,
@@ -25795,14 +25843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220746,
-      "num": 220746,
-      "word": "76岁大爷盗墓为过世孙子配婚获刑",
-      "onboard_time": 1681986748,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220704,
       "num": 220704,
       "word": "SJM直播合体",
@@ -26137,6 +26177,14 @@
       "onboard_time": 1680542179,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218314,
+      "num": 198637,
+      "word": "小象是如何揉眼睛的",
+      "onboard_time": 1681998871,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 218309,
@@ -31019,6 +31067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196855,
+      "num": 196855,
+      "word": "何昶希作为演员新人我还有很多不足",
+      "onboard_time": 1681999835,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196852,
       "num": 196852,
       "word": "桑酒被灭族",
@@ -32161,6 +32217,14 @@
       "onboard_time": 1680780150,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193014,
+      "num": 193014,
+      "word": "灌篮高手 屏摄",
+      "onboard_time": 1681996890,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 192985,
@@ -35227,14 +35291,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178934,
-      "num": 178934,
-      "word": "马斯克",
-      "onboard_time": 1681997430,
-      "rank": 35,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 178857,
       "num": 178857,
       "word": "你喜欢看抖音的二创视频吗",
@@ -38001,14 +38057,6 @@
       "onboard_time": 1680679827,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159909,
-      "num": 159909,
-      "word": "灌篮高手 屏摄",
-      "onboard_time": 1681996890,
-      "rank": 47,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 159901,
@@ -41483,6 +41531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135895,
+      "num": 200162,
+      "word": "过去一年你读了几本书",
+      "onboard_time": 1681999417,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 135873,
       "num": 135873,
       "word": "童瑶造型RCFA全球最佳红毯",
@@ -44228,7 +44284,7 @@
     },
     {
       "raw_hot": 111471,
-      "num": 120507,
+      "num": 178878,
       "word": "手机秒变mini包",
       "onboard_time": 1681996228,
       "rank": 49,

@@ -1,7 +1,15 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681997762947,
+  "endTime": 1682000170385,
   "band_list": [
+    {
+      "raw_hot": 9034181,
+      "num": 9034181,
+      "word": "SpaceX星舰发射失败",
+      "onboard_time": 1681998271,
+      "rank": 0,
+      "category": "科技"
+    },
     {
       "raw_hot": 7528476,
       "num": 7528476,
@@ -131,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1390499,
+      "num": 1390499,
+      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+      "onboard_time": 1681986990,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1385979,
       "num": 1385979,
       "word": "领导说你干不下去可以走时",
@@ -155,6 +171,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1343314,
+      "num": 1343314,
+      "word": "姐姐未婚先孕用妹妹身份证结婚",
+      "onboard_time": 1681990049,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1297194,
       "num": 1297194,
       "word": "夫妻赌气喝洁厕剂丈夫报警后让先救妻子",
@@ -169,14 +193,6 @@
       "onboard_time": 1681978889,
       "rank": 44,
       "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 1238935,
-      "num": 1003923,
-      "word": "姐姐未婚先孕用妹妹身份证结婚",
-      "onboard_time": 1681990049,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1227442,
@@ -203,20 +219,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1152295,
-      "num": 1152295,
-      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
-      "onboard_time": 1681986990,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1114248,
       "num": 1114248,
       "word": "BoysPlanet出道团名ZB1",
       "onboard_time": 1681995749,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1030624,
+      "num": 996971,
+      "word": "SpaceX星舰今晚重新发射",
+      "onboard_time": 1681997311,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 1018060,
@@ -232,14 +248,6 @@
       "word": "星舰",
       "onboard_time": 1681993889,
       "rank": 45,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 996971,
-      "num": 996971,
-      "word": "SpaceX星舰今晚重新发射",
-      "onboard_time": 1681997311,
-      "rank": 4,
       "category": "科技"
     },
     {
@@ -323,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 877062,
+      "num": 877062,
+      "word": "灌篮高手",
+      "onboard_time": 1681989268,
+      "rank": 20,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 859870,
       "num": 859870,
       "word": "莫文蔚忽然之间全场大合唱",
@@ -339,12 +355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 829345,
-      "num": 829345,
-      "word": "灌篮高手",
-      "onboard_time": 1681989268,
-      "rank": 20,
-      "category": "影视,动漫"
+      "raw_hot": 822842,
+      "num": 390923,
+      "word": "马斯克",
+      "onboard_time": 1681997430,
+      "rank": 35,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 805655,
@@ -755,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395300,
+      "num": 395300,
+      "word": "赵继伟三分好牛",
+      "onboard_time": 1681996111,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394539,
       "num": 325995,
       "word": "千万不要学博主穿丝巾",
@@ -955,6 +979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 321298,
+      "num": 199039,
+      "word": "王楚钦晋级澳门站8强",
+      "onboard_time": 1681999055,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319668,
       "num": 319668,
       "word": "迪士尼玲娜贝儿被多次拍打头部",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1681991366,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 293489,
-      "num": 293489,
-      "word": "赵继伟三分好牛",
-      "onboard_time": 1681996111,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 292158,
@@ -1267,6 +1291,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242297,
+      "num": 242297,
+      "word": "76岁大爷盗墓为过世孙子配婚获刑",
+      "onboard_time": 1681986748,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239686,
+      "num": 239686,
+      "word": "杨洋内八站姿",
+      "onboard_time": 1681998331,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239455,
       "num": 175284,
       "word": "领导不让上班讲话主动离职了",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1681992928,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234396,
+      "num": 234396,
+      "word": "马嘉祺音色",
+      "onboard_time": 1681998093,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 233594,
@@ -1339,12 +1387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220746,
-      "num": 220746,
-      "word": "76岁大爷盗墓为过世孙子配婚获刑",
-      "onboard_time": 1681986748,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 218314,
+      "num": 198637,
+      "word": "小象是如何揉眼睛的",
+      "onboard_time": 1681998871,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 217170,
@@ -1579,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196855,
+      "num": 196855,
+      "word": "何昶希作为演员新人我还有很多不足",
+      "onboard_time": 1681999835,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196185,
       "num": 184490,
       "word": "AG对战MTG",
@@ -1641,6 +1697,14 @@
       "onboard_time": 1681959690,
       "rank": 30,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 193014,
+      "num": 193014,
+      "word": "灌篮高手 屏摄",
+      "onboard_time": 1681996890,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 192736,
@@ -1787,6 +1851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181406,
+      "num": 181406,
+      "word": "长月烬明预告",
+      "onboard_time": 1681995689,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181106,
       "num": 181106,
       "word": "阿娇豪门千金黑裙造型",
@@ -1833,14 +1905,6 @@
       "onboard_time": 1681952555,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178934,
-      "num": 178934,
-      "word": "马斯克",
-      "onboard_time": 1681997430,
-      "rank": 35,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 175656,
@@ -2003,14 +2067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159909,
-      "num": 159909,
-      "word": "灌篮高手 屏摄",
-      "onboard_time": 1681996890,
-      "rank": 47,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 159480,
       "num": 159480,
       "word": "穿洞洞鞋千万要小心",
@@ -2171,12 +2227,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135654,
-      "num": 135654,
-      "word": "长月烬明预告",
-      "onboard_time": 1681995689,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 135895,
+      "num": 200162,
+      "word": "过去一年你读了几本书",
+      "onboard_time": 1681999417,
+      "rank": 29,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 135529,
@@ -2364,7 +2420,7 @@
     },
     {
       "raw_hot": 111471,
-      "num": 120507,
+      "num": 178878,
       "word": "手机秒变mini包",
       "onboard_time": 1681996228,
       "rank": 49,

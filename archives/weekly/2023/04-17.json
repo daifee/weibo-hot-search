@@ -1,7 +1,15 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1681997762947,
+  "endTime": 1682000170385,
   "band_list": [
+    {
+      "raw_hot": 9034181,
+      "num": 9034181,
+      "word": "SpaceX星舰发射失败",
+      "onboard_time": 1681998271,
+      "rank": 0,
+      "category": "科技"
+    },
     {
       "raw_hot": 7528476,
       "num": 7528476,
@@ -667,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1390499,
+      "num": 1390499,
+      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+      "onboard_time": 1681986990,
+      "rank": 10,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1385979,
       "num": 1385979,
       "word": "领导说你干不下去可以走时",
@@ -723,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1343314,
+      "num": 1343314,
+      "word": "姐姐未婚先孕用妹妹身份证结婚",
+      "onboard_time": 1681990049,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1311338,
       "num": 1311338,
       "word": "离职后你一般怎么退出工作群",
@@ -769,14 +793,6 @@
       "onboard_time": 1681814009,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1238935,
-      "num": 1003923,
-      "word": "姐姐未婚先孕用妹妹身份证结婚",
-      "onboard_time": 1681990049,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1227442,
@@ -835,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1152295,
-      "num": 1152295,
-      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
-      "onboard_time": 1681986990,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1114248,
       "num": 1114248,
       "word": "BoysPlanet出道团名ZB1",
@@ -889,6 +897,14 @@
       "onboard_time": 1681805130,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1030624,
+      "num": 996971,
+      "word": "SpaceX星舰今晚重新发射",
+      "onboard_time": 1681997311,
+      "rank": 4,
+      "category": "科技"
     },
     {
       "raw_hot": 1018060,
@@ -953,14 +969,6 @@
       "onboard_time": 1681736245,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 996971,
-      "num": 996971,
-      "word": "SpaceX星舰今晚重新发射",
-      "onboard_time": 1681997311,
-      "rank": 4,
-      "category": "科技"
     },
     {
       "raw_hot": 995170,
@@ -1163,6 +1171,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 877062,
+      "num": 877062,
+      "word": "灌篮高手",
+      "onboard_time": 1681989268,
+      "rank": 20,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 875776,
       "num": 875776,
       "word": "别用饭圈那一套对待国宝",
@@ -1251,20 +1267,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 829345,
-      "num": 829345,
-      "word": "灌篮高手",
-      "onboard_time": 1681989268,
-      "rank": 20,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 826227,
       "num": 826227,
       "word": "单休人 连上12天班",
       "onboard_time": 1681725149,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 822842,
+      "num": 390923,
+      "word": "马斯克",
+      "onboard_time": 1681997430,
+      "rank": 35,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 822663,
@@ -2915,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395300,
+      "num": 395300,
+      "word": "赵继伟三分好牛",
+      "onboard_time": 1681996111,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395244,
       "num": 222741,
       "word": "刘亦菲有风剧组聚会合照",
@@ -3779,6 +3803,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 321298,
+      "num": 199039,
+      "word": "王楚钦晋级澳门站8强",
+      "onboard_time": 1681999055,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320967,
       "num": 294024,
       "word": "爱奇艺大会将要放出物料的剧集",
@@ -4065,14 +4097,6 @@
       "onboard_time": 1681806690,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293489,
-      "num": 293489,
-      "word": "赵继伟三分好牛",
-      "onboard_time": 1681996111,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 292706,
@@ -4691,12 +4715,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242297,
+      "num": 242297,
+      "word": "76岁大爷盗墓为过世孙子配婚获刑",
+      "onboard_time": 1681986748,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241093,
       "num": 241093,
       "word": "大大担任eStar主教练",
       "onboard_time": 1681819406,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239686,
+      "num": 239686,
+      "word": "杨洋内八站姿",
+      "onboard_time": 1681998331,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 239455,
@@ -4769,6 +4809,14 @@
       "onboard_time": 1681701986,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234396,
+      "num": 234396,
+      "word": "马嘉祺音色",
+      "onboard_time": 1681998093,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 233547,
@@ -5003,14 +5051,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 220746,
-      "num": 220746,
-      "word": "76岁大爷盗墓为过世孙子配婚获刑",
-      "onboard_time": 1681986748,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219289,
       "num": 197897,
       "word": "仰望U8预售价",
@@ -5033,6 +5073,14 @@
       "onboard_time": 1681831590,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218314,
+      "num": 198637,
+      "word": "小象是如何揉眼睛的",
+      "onboard_time": 1681998871,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 218250,
@@ -5827,6 +5875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196855,
+      "num": 196855,
+      "word": "何昶希作为演员新人我还有很多不足",
+      "onboard_time": 1681999835,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196790,
       "num": 196790,
       "word": "是什么让你犹豫进入婚姻",
@@ -6057,6 +6113,14 @@
       "onboard_time": 1681959690,
       "rank": 30,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 193014,
+      "num": 193014,
+      "word": "灌篮高手 屏摄",
+      "onboard_time": 1681996890,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 192960,
@@ -6563,6 +6627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181406,
+      "num": 181406,
+      "word": "长月烬明预告",
+      "onboard_time": 1681645106,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 181003,
       "num": 181003,
       "word": "周也年代戏女大学生造型",
@@ -6657,14 +6729,6 @@
       "onboard_time": 1681813350,
       "rank": 32,
       "category": "科技"
-    },
-    {
-      "raw_hot": 178934,
-      "num": 178934,
-      "word": "马斯克",
-      "onboard_time": 1681997430,
-      "rank": 35,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 177874,
@@ -7219,14 +7283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159909,
-      "num": 159909,
-      "word": "灌篮高手 屏摄",
-      "onboard_time": 1681996890,
-      "rank": 47,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 159789,
       "num": 159789,
       "word": "唐诗逸白玉兰二次提名",
@@ -7497,14 +7553,6 @@
       "onboard_time": 1681918047,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 149434,
-      "num": 149434,
-      "word": "长月烬明预告",
-      "onboard_time": 1681645106,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 149414,
@@ -7905,6 +7953,14 @@
       "onboard_time": 1681778248,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135895,
+      "num": 200162,
+      "word": "过去一年你读了几本书",
+      "onboard_time": 1681999417,
+      "rank": 29,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 135860,
@@ -8508,7 +8564,7 @@
     },
     {
       "raw_hot": 111471,
-      "num": 120507,
+      "num": 178878,
       "word": "手机秒变mini包",
       "onboard_time": 1681996228,
       "rank": 49,
