@@ -1,0 +1,410 @@
+{
+  "runTime": 1682012004268,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1602365,
+        "num": 1602365,
+        "word": "乐华赢麻了",
+        "onboard_time": 1682005653,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509107,
+        "num": 509107,
+        "word": "淄博烧烤店老板多算钱隔天加微信退还",
+        "onboard_time": 1682007206,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38607,
+        "num": 420658,
+        "word": "中国航天下一站去哪",
+        "onboard_time": 1682001453,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1082383,
+        "num": 418438,
+        "word": "章昊C位出道",
+        "onboard_time": 1682004751,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415832,
+        "num": 415832,
+        "word": "警方回应女子宝马展台前直播被架走",
+        "onboard_time": 1682006788,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341154,
+        "num": 341154,
+        "word": "宝马mini道歉",
+        "onboard_time": 1681972349,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 319082,
+        "num": 319082,
+        "word": "陈飞宇说运气是演员无法人为掌控的",
+        "onboard_time": 1682011997,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231230,
+        "num": 231230,
+        "word": "杜华你好大的福气",
+        "onboard_time": 1682006250,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219453,
+        "num": 219453,
+        "word": "女孩升职被同事造黄谣陷抑郁后裸辞",
+        "onboard_time": 1682005951,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210523,
+        "num": 210523,
+        "word": "孕妈大笑时肚子里的宝宝",
+        "onboard_time": 1682006250,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460417,
+        "num": 210352,
+        "word": "窦骁敷着面膜向何超莲求婚",
+        "onboard_time": 1682001934,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210182,
+        "num": 210182,
+        "word": "喜欢和不喜欢的区别很明显",
+        "onboard_time": 1682002896,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 189106,
+        "num": 189106,
+        "word": "集美 集帅",
+        "onboard_time": 1682005173,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173289,
+        "num": 173289,
+        "word": "姐姐未婚先孕用妹妹身份证结婚",
+        "onboard_time": 1681990049,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141960,
+        "num": 141960,
+        "word": "金在中悼念文彬",
+        "onboard_time": 1682002655,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135488,
+        "num": 135488,
+        "word": "流川枫传球给樱木花道",
+        "onboard_time": 1682006309,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 129408,
+        "num": 129408,
+        "word": "俞敏洪建议董宇辉出国留学",
+        "onboard_time": 1682001033,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118297,
+        "num": 118297,
+        "word": "誓约",
+        "onboard_time": 1681994606,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118198,
+        "num": 118198,
+        "word": "BoysPlanet成团排名",
+        "onboard_time": 1682002358,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116400,
+        "num": 116400,
+        "word": "月薪4K工作很闲要辞职吗",
+        "onboard_time": 1681986207,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147606,
+        "num": 116061,
+        "word": "很喜欢但停产了的东西",
+        "onboard_time": 1681987048,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139212,
+        "num": 114582,
+        "word": "澹台烬选择救叶冰裳的原因",
+        "onboard_time": 1682003915,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137348,
+        "num": 114133,
+        "word": "原来兵马俑每天都在挖",
+        "onboard_time": 1682009782,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117727,
+        "num": 112884,
+        "word": "和闺蜜创业44天散伙了",
+        "onboard_time": 1681993048,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112335,
+        "num": 112335,
+        "word": "陈都灵采访 会说话有逻辑",
+        "onboard_time": 1682002535,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110402,
+        "num": 110402,
+        "word": "韩维辰",
+        "onboard_time": 1682004751,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100414,
+        "num": 100414,
+        "word": "仁科 哈佛",
+        "onboard_time": 1682011219,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97137,
+        "num": 97137,
+        "word": "灌篮高手",
+        "onboard_time": 1681989268,
+        "rank": 27,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 91034,
+        "num": 91034,
+        "word": "957爆料WBG新教练",
+        "onboard_time": 1682003375,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21824,
+        "num": 87910,
+        "word": "过去一年你读了几本书",
+        "onboard_time": 1681999417,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 406189,
+        "num": 87259,
+        "word": "宝马mini展台再现冲突",
+        "onboard_time": 1681991426,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85200,
+        "num": 85200,
+        "word": "高校辟谣女生被3名黑人性侵",
+        "onboard_time": 1681988008,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82708,
+        "num": 82708,
+        "word": "物业回应男童从27层坠楼离世",
+        "onboard_time": 1682002896,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80673,
+        "num": 80673,
+        "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+        "onboard_time": 1681986990,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78094,
+        "num": 78094,
+        "word": "莫文蔚忽然之间全场大合唱",
+        "onboard_time": 1681995209,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68181,
+        "num": 68181,
+        "word": "76岁大爷盗墓为过世孙子配婚获刑",
+        "onboard_time": 1681986748,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62089,
+        "num": 62089,
+        "word": "迪丽热巴新剧过审",
+        "onboard_time": 1682001757,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61979,
+        "num": 61979,
+        "word": "长月烬明一碗粥引发的血案",
+        "onboard_time": 1681989148,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61598,
+        "num": 61598,
+        "word": "LGD锁定季后赛胜者组",
+        "onboard_time": 1682006128,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59557,
+        "num": 59557,
+        "word": "泰裤辣",
+        "onboard_time": 1681989207,
+        "rank": 39,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 54023,
+        "num": 54023,
+        "word": "张小斐小心青城山的蚊子",
+        "onboard_time": 1682004812,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53504,
+        "num": 53504,
+        "word": "千万不要学博主穿丝巾",
+        "onboard_time": 1681988550,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49411,
+        "num": 49411,
+        "word": "流川枫好帅",
+        "onboard_time": 1681991487,
+        "rank": 42,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 48522,
+        "num": 48522,
+        "word": "小象是如何揉眼睛的",
+        "onboard_time": 1681998871,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46185,
+        "num": 46185,
+        "word": "重庆小学都没得鸳鸯锅了",
+        "onboard_time": 1682003854,
+        "rank": 44,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 46063,
+        "num": 46063,
+        "word": "张杰第九次唱别怕我伤心",
+        "onboard_time": 1681994668,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44642,
+        "num": 44642,
+        "word": "杨幂录密逃了",
+        "onboard_time": 1681987168,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43785,
+        "num": 43785,
+        "word": "C罗酒店将台湾列为国家",
+        "onboard_time": 1681968090,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 42901,
+        "num": 42901,
+        "word": "杨洋内八站姿",
+        "onboard_time": 1681998331,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38499,
+        "num": 42889,
+        "word": "孙颖莎让二追三",
+        "onboard_time": 1682000315,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中加友好始终坚如磐石#"
+    }
+  }
+}
