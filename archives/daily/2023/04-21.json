@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682021915149,
+  "endTime": 1682022805424,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -483,7 +483,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12390,
+      "raw_hot": 18894,
+      "num": 22506,
+      "word": "陆虎王栎鑫张远模仿灌篮高手",
+      "onboard_time": 1682022071,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 12732,
       "num": 22845,
       "word": "骑手你是开花车过来的吗",
       "onboard_time": 1682016133,
