@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681958589701,
+  "endTime": 1681960684248,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -35,6 +35,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1979067,
+      "num": 676253,
+      "word": "梅西店铺将台湾列为国家",
+      "onboard_time": 1681956628,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1963234,
+      "num": 1963234,
+      "word": "宝马mini",
+      "onboard_time": 1681955429,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1794932,
       "num": 1794932,
       "word": "山科大北门伤人事件致1死6伤",
@@ -51,28 +67,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1674775,
-      "num": 455775,
-      "word": "梅西店铺将台湾列为国家",
-      "onboard_time": 1681956628,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1549388,
       "num": 1549388,
       "word": "千万不要有舔奶盖的习惯",
       "onboard_time": 1681911989,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1482087,
-      "num": 1482087,
-      "word": "宝马mini",
-      "onboard_time": 1681955429,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1227442,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1214683,
-      "num": 263641,
+      "num": 303425,
       "word": "长沙县发现一具无名女尸",
       "onboard_time": 1681949132,
       "rank": 20,
@@ -115,8 +115,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 846725,
-      "num": 846725,
+      "raw_hot": 878780,
+      "num": 878780,
+      "word": "脱轨",
+      "onboard_time": 1681958428,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 852187,
+      "num": 852187,
       "word": "祝绪丹你是不是有什么难处",
       "onboard_time": 1681950993,
       "rank": 5,
@@ -144,6 +152,22 @@
       "word": "女子入职58天迟到21次不满被辞",
       "onboard_time": 1681949010,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690478,
+      "num": 690478,
+      "word": "男子在迪士尼抽烟后逼哭工作人员",
+      "onboard_time": 1681958848,
+      "rank": 8,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 683688,
+      "num": 683688,
+      "word": "日全环食20日上演",
+      "onboard_time": 1681957407,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -203,12 +227,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 459677,
-      "num": 459677,
-      "word": "日全环食20日上演",
-      "onboard_time": 1681957407,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 490747,
+      "num": 490747,
+      "word": "王一博片场意外翻车",
+      "onboard_time": 1681960228,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 483577,
+      "num": 483577,
+      "word": "云襄传",
+      "onboard_time": 1681958487,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 433486,
@@ -275,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361175,
+      "num": 361175,
+      "word": "文秀雅所属组合取消延期本周行程",
+      "onboard_time": 1681954890,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345869,
       "num": 345869,
       "word": "第五人格",
@@ -307,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328675,
+      "num": 328675,
+      "word": "宋佳自称全演艺界最爱合影的人",
+      "onboard_time": 1681957109,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319668,
       "num": 319668,
       "word": "迪士尼玲娜贝儿被多次拍打头部",
@@ -315,12 +363,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 312307,
-      "num": 187552,
-      "word": "文秀雅所属组合取消延期本周行程",
-      "onboard_time": 1681954890,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 316276,
+      "num": 316276,
+      "word": "周柏豪门票",
+      "onboard_time": 1681959327,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 308265,
@@ -361,14 +409,6 @@
       "onboard_time": 1681949552,
       "rank": 17,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 284918,
-      "num": 284918,
-      "word": "宋佳自称全演艺界最爱合影的人",
-      "onboard_time": 1681957109,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 284102,
@@ -443,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253379,
+      "num": 253379,
+      "word": "不良人",
+      "onboard_time": 1681958487,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 252806,
       "num": 252806,
       "word": "张一山祝福窦骁何超莲",
@@ -499,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220801,
+      "num": 220801,
+      "word": "市民投诉成都地铁安检用鼻子闻水",
+      "onboard_time": 1681959327,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217170,
       "num": 217170,
       "word": "BoysPlanet投票",
@@ -547,12 +603,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207468,
+      "num": 207468,
+      "word": "极限挑战第二期预告片",
+      "onboard_time": 1681958969,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206295,
       "num": 206295,
       "word": "拜仁欧冠出局",
       "onboard_time": 1681946303,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205311,
+      "num": 205311,
+      "word": "直播2023首次日食",
+      "onboard_time": 1681957889,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203928,
@@ -579,6 +651,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199699,
+      "num": 199699,
+      "word": "于正 维权的事忙到半夜",
+      "onboard_time": 1681958428,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193196,
+      "num": 185718,
+      "word": "迪士尼回应男子抽烟后与工作人员起冲突",
+      "onboard_time": 1681959690,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 192736,
       "num": 192736,
       "word": "马斯克回应特斯拉全球轮番降价",
@@ -595,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191574,
-      "num": 191574,
-      "word": "直播2023首次日食",
-      "onboard_time": 1681957889,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191141,
       "num": 191141,
       "word": "乔杉漂移拍摄花絮",
@@ -616,6 +696,14 @@
       "word": "fml居然是抒情",
       "onboard_time": 1681952555,
       "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 190132,
+      "num": 190132,
+      "word": "薛之谦新歌中文歌词是郭冠廷翻译的",
+      "onboard_time": 1681960050,
+      "rank": 28,
       "category": "音乐"
     },
     {
@@ -643,6 +731,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 185849,
+      "num": 185849,
+      "word": "教练突然就想退私教费了",
+      "onboard_time": 1681959991,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182247,
       "num": 182247,
       "word": "长空之王威版预告",
@@ -667,11 +763,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179917,
+      "num": 179917,
+      "word": "追更公众号算不算阅读",
+      "onboard_time": 1681959446,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179554,
       "num": 179554,
       "word": "新西兰举办比赛鼓励儿童杀野猫",
       "onboard_time": 1681952555,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175878,
+      "num": 175878,
+      "word": "男子被陌生人腰上贴膏药后晕倒",
+      "onboard_time": 1681960348,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -731,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166292,
+      "num": 166292,
+      "word": "我的阿童木啊",
+      "onboard_time": 1681958608,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164155,
       "num": 164155,
       "word": "你能忍受别人经常迟到吗",
@@ -739,27 +859,11 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 163198,
-      "num": 163198,
-      "word": "脱轨",
-      "onboard_time": 1681958428,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 161972,
       "num": 161972,
       "word": "澹台烬主动吻叶夕雾",
       "onboard_time": 1681910728,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 161331,
-      "num": 161331,
-      "word": "云襄传",
-      "onboard_time": 1681958487,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -787,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155359,
+      "num": 155359,
+      "word": "哥斯拉大战金刚2片名",
+      "onboard_time": 1681959509,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154421,
       "num": 154421,
       "word": "终于等到灌篮高手全国大赛",
@@ -803,28 +915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150495,
-      "num": 150495,
-      "word": "不良人",
-      "onboard_time": 1681958487,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 150272,
       "num": 150272,
       "word": "卡地亚",
       "onboard_time": 1681904847,
       "rank": 33,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 140758,
-      "num": 140758,
-      "word": "于正 维权的事忙到半夜",
-      "onboard_time": 1681958428,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 138694,
@@ -907,12 +1003,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121263,
+      "num": 121263,
+      "word": "雅安芦山地震十周年",
+      "onboard_time": 1681959928,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121130,
       "num": 121130,
       "word": "宋雨琦回应没礼貌不懂分寸",
       "onboard_time": 1681898966,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118961,
+      "num": 118961,
+      "word": "漫长的季节定档",
+      "onboard_time": 1681958789,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 114398,
@@ -1019,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65047,
+      "num": 1075855,
+      "word": "卫星视角看祖国大地春耕图",
+      "onboard_time": 1681959869,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 51920,
       "num": 101562,
       "word": "柯洁大司马连麦直播",
@@ -1049,6 +1169,9 @@
     },
     {
       "word": "#100天后成都见#"
+    },
+    {
+      "word": "#中加友好始终坚如磐石#"
     }
   ]
 }
