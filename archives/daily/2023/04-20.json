@@ -1,6 +1,6 @@
 {
   "startTime": 1681921399908,
-  "endTime": 1681997007864,
+  "endTime": 1681997762947,
   "band_list": [
     {
       "raw_hot": 7528476,
@@ -171,6 +171,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 1238935,
+      "num": 1003923,
+      "word": "姐姐未婚先孕用妹妹身份证结婚",
+      "onboard_time": 1681990049,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1227442,
       "num": 1227442,
       "word": "180以下的男演员能不能拍偶像剧",
@@ -187,20 +195,20 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1199828,
-      "num": 980547,
-      "word": "姐姐未婚先孕用妹妹身份证结婚",
-      "onboard_time": 1681990049,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1197645,
       "num": 1197645,
       "word": "28岁存款6万的我裸辞了",
       "onboard_time": 1681965031,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1152295,
+      "num": 1152295,
+      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
+      "onboard_time": 1681986990,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 1114248,
@@ -219,6 +227,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 998153,
+      "num": 292551,
+      "word": "星舰",
+      "onboard_time": 1681993889,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 996971,
+      "num": 996971,
+      "word": "SpaceX星舰今晚重新发射",
+      "onboard_time": 1681997311,
+      "rank": 4,
+      "category": "科技"
+    },
+    {
       "raw_hot": 991393,
       "num": 991393,
       "word": "祝绪丹你是不是有什么难处",
@@ -235,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 958534,
+      "num": 568953,
+      "word": "女生称遭55岁老师掐脖子猥亵",
+      "onboard_time": 1681992507,
+      "rank": 24,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 947951,
       "num": 947951,
       "word": "韩国艺人",
@@ -249,14 +281,6 @@
       "onboard_time": 1681984890,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 941106,
-      "num": 941106,
-      "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
-      "onboard_time": 1681986990,
-      "rank": 10,
-      "category": "影视"
     },
     {
       "raw_hot": 935479,
@@ -299,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 859870,
+      "num": 859870,
+      "word": "莫文蔚忽然之间全场大合唱",
+      "onboard_time": 1681995209,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 851554,
       "num": 851554,
       "word": "宝马mini展区被指区别对待",
@@ -307,20 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 828633,
-      "num": 828633,
-      "word": "莫文蔚忽然之间全场大合唱",
-      "onboard_time": 1681995209,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 819546,
-      "num": 568953,
-      "word": "女生称遭55岁老师掐脖子猥亵",
-      "onboard_time": 1681992507,
-      "rank": 24,
-      "category": "社会新闻,教育"
+      "raw_hot": 829345,
+      "num": 829345,
+      "word": "灌篮高手",
+      "onboard_time": 1681989268,
+      "rank": 20,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 805655,
@@ -345,14 +369,6 @@
       "onboard_time": 1681962750,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 762927,
-      "num": 762927,
-      "word": "灌篮高手",
-      "onboard_time": 1681989268,
-      "rank": 20,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 740315,
@@ -427,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 654011,
+      "num": 654011,
+      "word": "女性向",
+      "onboard_time": 1681993167,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 653551,
       "num": 653551,
       "word": "海清发声支持蒋梦婕",
@@ -449,6 +473,14 @@
       "onboard_time": 1681970489,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 613729,
+      "num": 613729,
+      "word": "誓约",
+      "onboard_time": 1681994606,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 592846,
@@ -489,22 +521,6 @@
       "onboard_time": 1681989148,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 573953,
-      "num": 573953,
-      "word": "女性向",
-      "onboard_time": 1681993167,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 569712,
-      "num": 569712,
-      "word": "誓约",
-      "onboard_time": 1681994606,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 563321,
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 464272,
-      "num": 234228,
+      "num": 273247,
       "word": "很喜欢但停产了的东西",
       "onboard_time": 1681987048,
       "rank": 21,
@@ -731,14 +747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 409094,
-      "num": 213550,
-      "word": "星舰",
-      "onboard_time": 1681993889,
-      "rank": 45,
-      "category": "科技"
-    },
-    {
       "raw_hot": 401840,
       "num": 401840,
       "word": "王鹤棣新剧公主抱周也",
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 365500,
-      "num": 214249,
+      "num": 278853,
       "word": "和闺蜜创业44天散伙了",
       "onboard_time": 1681993048,
       "rank": 33,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1681991366,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 293489,
+      "num": 293489,
+      "word": "赵继伟三分好牛",
+      "onboard_time": 1681996111,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 292158,
@@ -1819,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178934,
+      "num": 178934,
+      "word": "马斯克",
+      "onboard_time": 1681997430,
+      "rank": 35,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 175656,
       "num": 175656,
       "word": "灰熊1比1湖人",
@@ -1979,6 +2003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159909,
+      "num": 159909,
+      "word": "灌篮高手 屏摄",
+      "onboard_time": 1681996890,
+      "rank": 47,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 159480,
       "num": 159480,
       "word": "穿洞洞鞋千万要小心",
@@ -2040,6 +2072,14 @@
       "word": "张若昀到底有多爱阳光开朗大男孩",
       "onboard_time": 1681972109,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146608,
+      "num": 146608,
+      "word": "何炅模仿檀健次跳舞",
+      "onboard_time": 1681997188,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -2115,14 +2155,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 138470,
-      "num": 138470,
-      "word": "赵继伟三分好牛",
-      "onboard_time": 1681996111,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137200,
       "num": 137200,
       "word": "王栎鑫挣钱致富经",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1681909587,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135654,
+      "num": 135654,
+      "word": "长月烬明预告",
+      "onboard_time": 1681995689,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 135529,
@@ -2169,14 +2209,6 @@
       "onboard_time": 1681988306,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130436,
-      "num": 130436,
-      "word": "灌篮高手 屏摄",
-      "onboard_time": 1681996890,
-      "rank": 47,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 130011,
