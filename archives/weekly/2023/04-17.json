@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682012004268,
+  "endTime": 1682014863689,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -7859,6 +7859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146920,
+      "num": 146920,
+      "word": "原来兵马俑每天都在挖",
+      "onboard_time": 1682009782,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146803,
       "num": 139267,
       "word": "长峰医院火灾家属看到新闻才知失火",
@@ -8169,14 +8177,6 @@
       "onboard_time": 1681723527,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137348,
-      "num": 116226,
-      "word": "原来兵马俑每天都在挖",
-      "onboard_time": 1682009782,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 137200,
@@ -9737,6 +9737,14 @@
       "onboard_time": 1681951651,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34193,
+      "num": 34193,
+      "word": "放天欢回来杀叶冰裳吧",
+      "onboard_time": 1682014037,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 32635,
