@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682051694994,
+  "endTime": 1682054187671,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -169,6 +169,14 @@
       "onboard_time": 1681827694,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2887466,
+      "num": 2887466,
+      "word": "安以轩老公被判监禁14年",
+      "onboard_time": 1682052334,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2829326,
@@ -603,20 +611,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1645371,
+      "num": 1645371,
+      "word": "面试时叫了面试官宝贝",
+      "onboard_time": 1682047467,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1609226,
+      "num": 1609226,
+      "word": "宝马蒸发市值可买约5亿个冰淇淋",
+      "onboard_time": 1682050168,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1607034,
       "num": 536525,
       "word": "窦骁敷着面膜向何超莲求婚",
       "onboard_time": 1682001934,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1587925,
-      "num": 1587925,
-      "word": "面试时叫了面试官宝贝",
-      "onboard_time": 1682047467,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1578103,
@@ -689,6 +705,14 @@
       "onboard_time": 1682037394,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1475327,
+      "num": 1475327,
+      "word": "不要随便改微信名",
+      "onboard_time": 1682050228,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 1474414,
@@ -987,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1110669,
+      "num": 521342,
+      "word": "微信可免费听周杰伦",
+      "onboard_time": 1682050228,
+      "rank": 17,
+      "category": "科技,音乐"
+    },
+    {
       "raw_hot": 1105425,
       "num": 1105425,
       "word": "易烊千玺 华为发布会",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1681997311,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1019871,
+      "num": 1019871,
+      "word": "日本90名国会议员集体参拜靖国神社",
+      "onboard_time": 1682051975,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1018060,
@@ -1163,14 +1203,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 964299,
-      "num": 482706,
-      "word": "微信可免费听周杰伦",
-      "onboard_time": 1682050228,
-      "rank": 17,
-      "category": "科技,音乐"
-    },
-    {
       "raw_hot": 958534,
       "num": 568953,
       "word": "女生称遭55岁老师掐脖子猥亵",
@@ -1220,7 +1252,7 @@
     },
     {
       "raw_hot": 942683,
-      "num": 474071,
+      "num": 516280,
       "word": "景甜素颜自拍照",
       "onboard_time": 1682047706,
       "rank": 32,
@@ -1699,6 +1731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 709174,
+      "num": 521330,
+      "word": "宝马MINI展台仍排队领钥匙扣",
+      "onboard_time": 1682052334,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708384,
       "num": 708384,
       "word": "泗水交通事故致7死10伤",
@@ -1713,14 +1753,6 @@
       "onboard_time": 1681966536,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 701580,
-      "num": 462954,
-      "word": "宝马蒸发市值可买约5亿个冰淇淋",
-      "onboard_time": 1682050168,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 701304,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1681802968,
       "rank": 45,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 680238,
+      "num": 680238,
+      "word": "宝马股价",
+      "onboard_time": 1682051975,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 679159,
@@ -2051,12 +2091,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 615868,
-      "num": 456567,
-      "word": "不要随便改微信名",
-      "onboard_time": 1682050228,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 616282,
+      "num": 505760,
+      "word": "女子吐槽软卧车厢分配3男1女",
+      "onboard_time": 1682052697,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 613729,
@@ -2491,6 +2531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 521293,
+      "num": 521293,
+      "word": "张杰沈阳",
+      "onboard_time": 1682051614,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 518934,
       "num": 518934,
       "word": "特斯拉市值一夜蒸发超550亿美元",
@@ -2657,6 +2705,14 @@
       "onboard_time": 1682036128,
       "rank": 14,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 485173,
+      "num": 485173,
+      "word": "90后女生睡觉打呼噜获赔5万",
+      "onboard_time": 1682052334,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 484682,
@@ -3491,6 +3547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385193,
+      "num": 385193,
+      "word": "于正也曾喊话长月烬明制片方",
+      "onboard_time": 1682052034,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385011,
       "num": 385011,
       "word": "下周就能看五一档新片了",
@@ -3571,12 +3635,28 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 379115,
+      "num": 379115,
+      "word": "岸田文雄向靖国神社供奉祭品",
+      "onboard_time": 1682051192,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378581,
       "num": 378581,
       "word": "库里生涯首次落后",
       "onboard_time": 1681794334,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 378331,
+      "num": 378331,
+      "word": "向往的生活第七季即将播出",
+      "onboard_time": 1682053353,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 378160,
@@ -4515,14 +4595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 310352,
-      "num": 310352,
-      "word": "张杰沈阳",
-      "onboard_time": 1682051614,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 310061,
       "num": 260576,
       "word": "罗云熙扛白鹿",
@@ -4819,6 +4891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284880,
+      "num": 284880,
+      "word": "网易云十年听歌报告",
+      "onboard_time": 1682053653,
+      "rank": 29,
+      "category": "科技,音乐"
+    },
+    {
       "raw_hot": 284420,
       "num": 245225,
       "word": "原来上课偷吃东西那么明显",
@@ -5033,6 +5113,14 @@
       "onboard_time": 1681717350,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270262,
+      "num": 270262,
+      "word": "向往的生活",
+      "onboard_time": 1682053769,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 269811,
@@ -5403,6 +5491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 244647,
+      "num": 244647,
+      "word": "今天好多双人大片",
+      "onboard_time": 1682053592,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244379,
       "num": 226626,
       "word": "少爷和我还是得合体",
@@ -5505,6 +5601,14 @@
       "onboard_time": 1682006309,
       "rank": 23,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 235176,
+      "num": 235176,
+      "word": "疑似长月烬明编剧回应",
+      "onboard_time": 1682051434,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 234740,
@@ -5771,6 +5875,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 221703,
+      "num": 221703,
+      "word": "库里36分",
+      "onboard_time": 1682053056,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221319,
       "num": 260587,
       "word": "邓超问怎么扎麻花辫",
@@ -5907,6 +6019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215248,
+      "num": 215248,
+      "word": "大屏上的肖战",
+      "onboard_time": 1682051733,
+      "rank": 41,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 214084,
       "num": 214084,
       "word": "小米13ultra",
@@ -5945,6 +6065,14 @@
       "onboard_time": 1681871906,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212556,
+      "num": 212556,
+      "word": "勇士1比2国王",
+      "onboard_time": 1682053653,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 212374,
@@ -6248,6 +6376,14 @@
       "word": "电影志愿军年轻战士群像",
       "onboard_time": 1681873407,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205544,
+      "num": 205544,
+      "word": "金靖说王一博你长滴可得劲儿",
+      "onboard_time": 1682051614,
+      "rank": 49,
       "category": "影视"
     },
     {
@@ -6601,14 +6737,6 @@
       "onboard_time": 1682043447,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198018,
-      "num": 198018,
-      "word": "岸田文雄向靖国神社供奉祭品",
-      "onboard_time": 1682051192,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197304,
@@ -7099,6 +7227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188908,
+      "num": 188908,
+      "word": "陈鑫海新剧浴缸吻",
+      "onboard_time": 1682050228,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188539,
       "num": 183157,
       "word": "减肥舞",
@@ -7307,14 +7443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185646,
-      "num": 185646,
-      "word": "陈鑫海新剧浴缸吻",
-      "onboard_time": 1682050228,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185537,
       "num": 185537,
       "word": "都暻秀好像只会跳EXO的舞",
@@ -7329,14 +7457,6 @@
       "onboard_time": 1681810466,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184766,
-      "num": 184766,
-      "word": "疑似长月烬明编剧回应",
-      "onboard_time": 1682051434,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 184693,
@@ -7832,14 +7952,6 @@
       "word": "白宇连续四部剧BE",
       "onboard_time": 1681738768,
       "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 168187,
-      "num": 168187,
-      "word": "金靖说王一博你长滴可得劲儿",
-      "onboard_time": 1682051614,
-      "rank": 49,
       "category": "影视"
     },
     {
@@ -9451,6 +9563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117168,
+      "num": 1817418,
+      "word": "以漫画方式打开中国宝藏县城",
+      "onboard_time": 1682048428,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116809,
       "num": 116809,
       "word": "公诉精英或将5月上线",
@@ -9553,14 +9673,6 @@
       "onboard_time": 1681659447,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111536,
-      "num": 1817418,
-      "word": "以漫画方式打开中国宝藏县城",
-      "onboard_time": 1682048428,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111471,
