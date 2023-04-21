@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682044444779,
+  "endTime": 1682045000067,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -43,6 +43,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1347563,
+      "num": 1347563,
+      "word": "生活费一千五大学生存款6万",
+      "onboard_time": 1682043026,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1338844,
       "num": 712377,
       "word": "宝马mini道歉",
@@ -83,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1068677,
+      "num": 614420,
+      "word": "反问式道歉",
+      "onboard_time": 1682043208,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 981896,
       "num": 440932,
       "word": "韩维辰",
@@ -97,14 +113,6 @@
       "onboard_time": 1682035652,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 951309,
-      "num": 951309,
-      "word": "生活费一千五大学生存款6万",
-      "onboard_time": 1682043026,
-      "rank": 1,
-      "category": "情感"
     },
     {
       "raw_hot": 933722,
@@ -161,14 +169,6 @@
       "onboard_time": 1681991426,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 644992,
-      "num": 472536,
-      "word": "反问式道歉",
-      "onboard_time": 1682043208,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 617523,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449380,
+      "num": 449380,
+      "word": "刘诗诗赵丽颖上城士背影图",
+      "onboard_time": 1682043807,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 425066,
       "num": 425066,
       "word": "集美 集帅",
@@ -315,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397112,
+      "num": 397112,
+      "word": "成都烧烤为什么被大家吐槽",
+      "onboard_time": 1682042548,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 392996,
       "num": 392996,
       "word": "金在中悼念文彬",
@@ -323,12 +339,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 392791,
-      "num": 392791,
-      "word": "成都烧烤为什么被大家吐槽",
-      "onboard_time": 1682042548,
-      "rank": 15,
-      "category": "美食"
+      "raw_hot": 369858,
+      "num": 298454,
+      "word": "摸小奶猫被猫妈妈婉拒了",
+      "onboard_time": 1682041948,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 363163,
+      "num": 363163,
+      "word": "观影灌篮高手的仪式感是撞衫",
+      "onboard_time": 1682043746,
+      "rank": 21,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 359890,
@@ -337,14 +361,6 @@
       "onboard_time": 1682032042,
       "rank": 33,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 357066,
-      "num": 298454,
-      "word": "摸小奶猫被猫妈妈婉拒了",
-      "onboard_time": 1682041948,
-      "rank": 20,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 334118,
@@ -371,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314371,
-      "num": 314371,
-      "word": "刘诗诗赵丽颖上城士背影图",
-      "onboard_time": 1682043807,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 314311,
       "num": 314311,
       "word": "灌篮高手",
@@ -393,6 +401,14 @@
       "onboard_time": 1682041948,
       "rank": 18,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 296015,
+      "num": 296015,
+      "word": "中国说唱巅峰对决方言喊话官宣",
+      "onboard_time": 1682043686,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 295491,
@@ -411,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288549,
+      "num": 288549,
+      "word": "林更新吃生筋皮",
+      "onboard_time": 1682043567,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288295,
       "num": 288295,
       "word": "月薪4K工作很闲要辞职吗",
@@ -427,12 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 279091,
-      "num": 279091,
-      "word": "观影灌篮高手的仪式感是撞衫",
-      "onboard_time": 1682043746,
-      "rank": 21,
-      "category": "影视,动漫"
+      "raw_hot": 269614,
+      "num": 269614,
+      "word": "五一民宿预订现涨价毁约潮",
+      "onboard_time": 1682043328,
+      "rank": 29,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 257668,
@@ -475,22 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230575,
-      "num": 230575,
-      "word": "中国说唱巅峰对决方言喊话官宣",
-      "onboard_time": 1682043686,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 221624,
-      "num": 221624,
-      "word": "林更新吃生筋皮",
-      "onboard_time": 1682043567,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216655,
       "num": 216655,
       "word": "ZB1前五中国人含量比INTO1都高",
@@ -515,6 +523,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209189,
+      "num": 209189,
+      "word": "罗云熙白鹿时尚芭莎",
+      "onboard_time": 1682044767,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 207996,
+      "num": 207996,
+      "word": "长月烬明编剧",
+      "onboard_time": 1682044586,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206422,
       "num": 206422,
       "word": "官方辟谣菏泽亲友团闹洞房误杀新郎",
@@ -523,19 +547,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205612,
-      "num": 205612,
-      "word": "五一民宿预订现涨价毁约潮",
-      "onboard_time": 1682043328,
-      "rank": 29,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 201797,
       "num": 201797,
       "word": "李会泽陪跑",
       "onboard_time": 1682032161,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198199,
+      "num": 198199,
+      "word": "乐华五进四",
+      "onboard_time": 1682043447,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -571,6 +595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187095,
+      "num": 187095,
+      "word": "王嘉尔舞台BE美学",
+      "onboard_time": 1682044465,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 184626,
+      "num": 184626,
+      "word": "韩维辰下舞台第一时间找妈妈",
+      "onboard_time": 1682044049,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183341,
       "num": 183341,
       "word": "李晟说李佳航每个毛孔都散发着致命的魅力",
@@ -595,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176446,
-      "num": 176446,
-      "word": "乐华五进四",
-      "onboard_time": 1682043447,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175391,
       "num": 175391,
       "word": "小象是如何揉眼睛的",
@@ -616,14 +648,6 @@
       "word": "ZB1",
       "onboard_time": 1682032703,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 157661,
-      "num": 157661,
-      "word": "韩维辰下舞台第一时间找妈妈",
-      "onboard_time": 1682044049,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -649,6 +673,14 @@
       "onboard_time": 1681991487,
       "rank": 36,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 142493,
+      "num": 142493,
+      "word": "医生为安慰患者主动透露自己患癌",
+      "onboard_time": 1682044166,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142121,
@@ -745,14 +777,6 @@
       "onboard_time": 1682032099,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 116774,
-      "num": 116774,
-      "word": "医生为安慰患者主动透露自己患癌",
-      "onboard_time": 1682044166,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115611,
