@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682083226327,
+  "endTime": 1682084024201,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -33,6 +33,14 @@
       "onboard_time": 1682069668,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 3329888,
+      "num": 1010162,
+      "word": "老番茄求婚",
+      "onboard_time": 1682082869,
+      "rank": 5,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 3243479,
@@ -115,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1796189,
-      "num": 1796189,
+      "raw_hot": 1906329,
+      "num": 1906329,
       "word": "张子枫 C位烫脚",
       "onboard_time": 1682081250,
       "rank": 33,
@@ -203,12 +211,28 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 1279489,
+      "num": 1279489,
+      "word": "哇唧唧哇 空座",
+      "onboard_time": 1682081130,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1249131,
       "num": 425019,
       "word": "窦骁敷着面膜向何超莲求婚",
       "onboard_time": 1682001934,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1207836,
+      "num": 986532,
+      "word": "白鹿 孙珍妮",
+      "onboard_time": 1682079688,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1205046,
@@ -233,22 +257,6 @@
       "onboard_time": 1682007206,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1125888,
-      "num": 1010162,
-      "word": "老番茄求婚",
-      "onboard_time": 1682082869,
-      "rank": 5,
-      "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 1123108,
-      "num": 1123108,
-      "word": "哇唧唧哇 空座",
-      "onboard_time": 1682081130,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 1120934,
@@ -305,14 +313,6 @@
       "onboard_time": 1682035652,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 986532,
-      "num": 986532,
-      "word": "白鹿 孙珍妮",
-      "onboard_time": 1682079688,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 981896,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752298,
+      "num": 455908,
+      "word": "白百何说自己掉了1.2斤脂肪",
+      "onboard_time": 1682072911,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 748742,
       "num": 748742,
       "word": "吴昕李维嘉同框",
@@ -449,14 +457,6 @@
       "onboard_time": 1682006250,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 715113,
-      "num": 455908,
-      "word": "白百何说自己掉了1.2斤脂肪",
-      "onboard_time": 1682072911,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 711972,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591580,
+      "num": 314797,
+      "word": "唐诗逸 白玉兰戏剧主角奖",
+      "onboard_time": 1682082930,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 587112,
       "num": 424996,
       "word": "陈都灵采访 会说话有逻辑",
@@ -633,6 +641,14 @@
       "onboard_time": 1681990049,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534225,
+      "num": 324190,
+      "word": "中方要求韩方在台湾问题上谨言慎行",
+      "onboard_time": 1682082210,
+      "rank": 22,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 530009,
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 400126,
+      "num": 314311,
+      "word": "灌篮高手",
+      "onboard_time": 1681989268,
+      "rank": 15,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 400080,
       "num": 400080,
       "word": "五一民宿预订现涨价毁约潮",
@@ -987,14 +1011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 350629,
-      "num": 314311,
-      "word": "灌篮高手",
-      "onboard_time": 1681989268,
-      "rank": 15,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 349263,
       "num": 349263,
       "word": "女员工收到男领导微信称梦中与你亲热",
@@ -1099,6 +1115,22 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 306309,
+      "num": 306309,
+      "word": "樊振东vsA勒布伦",
+      "onboard_time": 1682083892,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 306293,
+      "num": 252151,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1682081550,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 300545,
       "num": 300545,
       "word": "章昊带领教资走出国门",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1682063552,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289022,
+      "num": 289022,
+      "word": "一曲这西施绝了",
+      "onboard_time": 1682083229,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 288549,
@@ -1299,14 +1339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 255898,
-      "num": 255898,
-      "word": "中方要求韩方在台湾问题上谨言慎行",
-      "onboard_time": 1682082210,
-      "rank": 22,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 255809,
       "num": 255809,
       "word": "张颜齐说宋雨琦是救命恩人",
@@ -1321,14 +1353,6 @@
       "onboard_time": 1682057130,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 252151,
-      "num": 252151,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1682081550,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 252073,
@@ -1651,14 +1675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207454,
-      "num": 178822,
-      "word": "唐诗逸 白玉兰戏剧主角奖",
-      "onboard_time": 1682082930,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 206422,
       "num": 206422,
       "word": "官方辟谣菏泽亲友团闹洞房误杀新郎",
@@ -1715,6 +1731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201491,
+      "num": 195445,
+      "word": "北京电影节男明星怼脸图",
+      "onboard_time": 1682084012,
+      "rank": 34,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 201364,
       "num": 400189,
       "word": "北影节红毯男星造型",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1682050713,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193107,
+      "num": 163555,
+      "word": "repo",
+      "onboard_time": 1682084012,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192831,
@@ -1843,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184448,
+      "num": 167167,
+      "word": "蔡徐坤隔空点亮水立方",
+      "onboard_time": 1682082869,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183754,
       "num": 183754,
       "word": "啜妮发文告别蓝冰",
@@ -1889,6 +1929,14 @@
       "onboard_time": 1682004812,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178340,
+      "num": 178340,
+      "word": "华侨大学时隔八年再夺东南王",
+      "onboard_time": 1682083409,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 177980,
@@ -2171,14 +2219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129625,
-      "num": 149022,
-      "word": "蔡徐坤隔空点亮水立方",
-      "onboard_time": 1682082869,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 128933,
       "num": 128933,
       "word": "男子因嫌盛米饭少殴打食堂阿姨",
@@ -2355,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82943,
+      "num": 333716,
+      "word": "北影节红毯女星造型",
+      "onboard_time": 1682082028,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 81885,
       "num": 81885,
       "word": "龚俊经常戴帽子的原因找到了",
@@ -2419,12 +2467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52126,
-      "num": 333716,
-      "word": "北影节红毯女星造型",
-      "onboard_time": 1682082028,
-      "rank": 14,
-      "category": "影视"
+      "raw_hot": 47499,
+      "num": 1314434,
+      "word": "县在出发",
+      "onboard_time": 1682083712,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42408,
