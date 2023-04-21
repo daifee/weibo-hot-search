@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682058150293,
+  "endTime": 1682058937595,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1832687,
+      "num": 1832687,
+      "word": "浙大学生因辱华言论被拒录公务员",
+      "onboard_time": 1682056050,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1813517,
       "num": 1214413,
       "word": "男婴静脉被注射配方奶家长被瞒5天",
@@ -857,14 +865,6 @@
       "onboard_time": 1682043208,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1349763,
-      "num": 1349763,
-      "word": "浙大学生因辱华言论被拒录公务员",
-      "onboard_time": 1682056050,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1344474,
@@ -2355,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552824,
+      "num": 552824,
+      "word": "谁是乐华的下一个王一博",
+      "onboard_time": 1682057547,
+      "rank": 22,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 551547,
       "num": 430631,
       "word": "金在中悼念文彬",
@@ -3459,6 +3467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399536,
+      "num": 399536,
+      "word": "日本",
+      "onboard_time": 1682058208,
+      "rank": 16,
+      "category": "社会新闻,国外要闻"
+    },
+    {
       "raw_hot": 397380,
       "num": 263176,
       "word": "五条悟",
@@ -3979,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359950,
+      "num": 359950,
+      "word": "吴昕李维嘉同框",
+      "onboard_time": 1682058448,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359890,
       "num": 359890,
       "word": "榴莲批发价1斤低至20元",
@@ -4307,6 +4331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 331678,
+      "num": 331678,
+      "word": "因姓氏太罕见全村集体改姓鸭",
+      "onboard_time": 1682057968,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330925,
       "num": 330925,
       "word": "公司团建是看五月天演唱会",
@@ -4377,14 +4409,6 @@
       "onboard_time": 1681828052,
       "rank": 28,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 326228,
-      "num": 326228,
-      "word": "谁是乐华的下一个王一博",
-      "onboard_time": 1682057547,
-      "rank": 22,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 326009,
@@ -5219,6 +5243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 267664,
+      "num": 267664,
+      "word": "原来考个本科真的很难",
+      "onboard_time": 1682058088,
+      "rank": 46,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 267527,
       "num": 261847,
       "word": "肖战最新怼脸状态",
@@ -5289,6 +5321,14 @@
       "onboard_time": 1681895187,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 263193,
+      "num": 263193,
+      "word": "王曼昱3比1钱天一",
+      "onboard_time": 1682057729,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 263110,
@@ -6179,6 +6219,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 212231,
+      "num": 212231,
+      "word": "杨幂到达长沙",
+      "onboard_time": 1682056651,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212063,
       "num": 212063,
       "word": "易烊千玺嘉人五月刊封面预告",
@@ -6249,14 +6297,6 @@
       "onboard_time": 1681973610,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 209885,
-      "num": 209885,
-      "word": "杨幂到达长沙",
-      "onboard_time": 1682056651,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 209741,
@@ -6345,6 +6385,14 @@
       "onboard_time": 1681872626,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207888,
+      "num": 207888,
+      "word": "北京国际电影节",
+      "onboard_time": 1682057787,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 207708,
@@ -7267,14 +7315,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 190948,
-      "num": 190948,
-      "word": "王曼昱3比1钱天一",
-      "onboard_time": 1682057729,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190559,
       "num": 190559,
       "word": "光明日报评追熊猫不宜饭圈化",
@@ -7297,14 +7337,6 @@
       "onboard_time": 1681656629,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190332,
-      "num": 190332,
-      "word": "北京国际电影节",
-      "onboard_time": 1682057787,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 190179,
@@ -8507,28 +8539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155576,
-      "num": 155576,
-      "word": "因姓氏太罕见全村集体改姓鸭",
-      "onboard_time": 1682057968,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155359,
       "num": 155359,
       "word": "哥斯拉大战金刚2片名",
       "onboard_time": 1681959509,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 155243,
-      "num": 155243,
-      "word": "原来考个本科真的很难",
-      "onboard_time": 1682058088,
-      "rank": 46,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 155110,
@@ -8609,6 +8625,14 @@
       "onboard_time": 1682047649,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152793,
+      "num": 152793,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1682058628,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 152605,
@@ -8745,6 +8769,14 @@
       "onboard_time": 1681909948,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149345,
+      "num": 149345,
+      "word": "艾尔登法环玛莲妮亚同人示范",
+      "onboard_time": 1682058869,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 149155,
@@ -9740,7 +9772,7 @@
     },
     {
       "raw_hot": 117168,
-      "num": 1817418,
+      "num": 1934740,
       "word": "以漫画方式打开中国宝藏县城",
       "onboard_time": 1682048428,
       "rank": 2,
