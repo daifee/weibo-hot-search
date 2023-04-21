@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682101269950,
+  "endTime": 1682102056830,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -203,19 +203,19 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 201056,
+      "num": 201056,
+      "word": "内娱小说男主代餐脸",
+      "onboard_time": 1682098098,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192146,
       "num": 155543,
       "word": "灌篮高手",
       "onboard_time": 1682077349,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 185038,
-      "num": 185038,
-      "word": "内娱小说男主代餐脸",
-      "onboard_time": 1682098098,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -443,7 +443,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 25799,
+      "raw_hot": 26048,
       "num": 38191,
       "word": "蔡徐坤隔空点亮水立方",
       "onboard_time": 1682082869,
