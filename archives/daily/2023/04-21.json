@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682087599492,
+  "endTime": 1682090257478,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -35,7 +35,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 3329888,
+      "raw_hot": 3558506,
       "num": 1010162,
       "word": "老番茄求婚",
       "onboard_time": 1682082869,
@@ -755,6 +755,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 486839,
+      "num": 394639,
+      "word": "宝马mini称两名女生离职消息不实",
+      "onboard_time": 1682089831,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 483597,
       "num": 483597,
       "word": "虞书欣翻跳Jennie新歌舞蹈",
@@ -763,20 +771,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 482661,
+      "num": 390030,
+      "word": "流川枫 樱木花道",
+      "onboard_time": 1682084193,
+      "rank": 18,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 477718,
       "num": 339279,
       "word": "基金",
       "onboard_time": 1682060728,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 463481,
-      "num": 341523,
-      "word": "流川枫 樱木花道",
-      "onboard_time": 1682084193,
-      "rank": 18,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 453884,
@@ -812,7 +820,7 @@
     },
     {
       "raw_hot": 427199,
-      "num": 314311,
+      "num": 338745,
       "word": "灌篮高手",
       "onboard_time": 1681989268,
       "rank": 15,
@@ -833,6 +841,14 @@
       "onboard_time": 1682005173,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 422887,
+      "num": 422887,
+      "word": "某幻 老番茄live嘉宾",
+      "onboard_time": 1682088454,
+      "rank": 8,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 419225,
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 391900,
-      "num": 265900,
+      "num": 273622,
       "word": "SEVENTEEN 克拉盘",
       "onboard_time": 1682084733,
       "rank": 20,
@@ -1099,12 +1115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327552,
+      "num": 271878,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1682081550,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 323349,
       "num": 323349,
       "word": "图书馆有存在的必要么",
       "onboard_time": 1682050289,
       "rank": 28,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 319734,
+      "num": 219177,
+      "word": "我想和你唱",
+      "onboard_time": 1682088454,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 316250,
@@ -1161,14 +1193,6 @@
       "onboard_time": 1682083892,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306293,
-      "num": 252151,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1682081550,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 300545,
@@ -1284,7 +1308,7 @@
     },
     {
       "raw_hot": 280183,
-      "num": 200539,
+      "num": 203686,
       "word": "王源巡演预售",
       "onboard_time": 1682085573,
       "rank": 35,
@@ -1305,6 +1329,14 @@
       "onboard_time": 1682061570,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 275443,
+      "num": 275443,
+      "word": "安以轩未现身陈荣炼庭审现场",
+      "onboard_time": 1682084733,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 274593,
@@ -1337,6 +1369,14 @@
       "onboard_time": 1682064690,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265769,
+      "num": 265769,
+      "word": "山西突降暴雪",
+      "onboard_time": 1682088932,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265489,
@@ -1587,6 +1627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226467,
+      "num": 226467,
+      "word": "父母姓氏组合而来的名字",
+      "onboard_time": 1682076389,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 225995,
       "num": 225995,
       "word": "张元英的愿望",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1682047887,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220399,
-      "num": 220399,
-      "word": "安以轩未现身陈荣炼庭审现场",
-      "onboard_time": 1682084733,
-      "rank": 33,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 219500,
@@ -1859,6 +1899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193262,
+      "num": 193262,
+      "word": "清清的吕布累坏了",
+      "onboard_time": 1682088810,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193107,
       "num": 163555,
       "word": "repo",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1681986748,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176362,
-      "num": 176362,
-      "word": "父母姓氏组合而来的名字",
-      "onboard_time": 1682076389,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 175391,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1682041465,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140494,
+      "num": 109132,
+      "word": "五哈主题曲",
+      "onboard_time": 1682084670,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 139747,
@@ -2465,6 +2513,14 @@
       "onboard_time": 1682011219,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100123,
+      "num": 100123,
+      "word": "我们为什么要读书",
+      "onboard_time": 1682087971,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 95240,
