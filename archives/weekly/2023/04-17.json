@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682073222891,
+  "endTime": 1682075658897,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1805300,
+      "num": 731541,
+      "word": "赵小棠红毯摔倒",
+      "onboard_time": 1682072851,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1794932,
       "num": 1794932,
       "word": "山科大北门伤人事件致1死6伤",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1681949132,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1205046,
+      "num": 1205046,
+      "word": "B站崩了",
+      "onboard_time": 1682072549,
+      "rank": 17,
+      "category": "科技"
     },
     {
       "raw_hot": 1202341,
@@ -1587,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 832772,
+      "num": 296912,
+      "word": "周也 冷脸小白花",
+      "onboard_time": 1682072911,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 829439,
       "num": 829439,
       "word": "长月烬明编剧",
@@ -1755,14 +1779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 731541,
-      "num": 731541,
-      "word": "赵小棠红毯摔倒",
-      "onboard_time": 1682072851,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 730338,
       "num": 730338,
       "word": "寻找姓鸭的人",
@@ -1872,6 +1888,14 @@
       "word": "陈飞宇周也赵小棠同框扫楼",
       "onboard_time": 1681966536,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 703549,
+      "num": 703549,
+      "word": "张颂文走红毯好忙",
+      "onboard_time": 1682071171,
+      "rank": 12,
       "category": "影视"
     },
     {
@@ -2275,14 +2299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 605813,
-      "num": 605813,
-      "word": "张颂文走红毯好忙",
-      "onboard_time": 1682071171,
-      "rank": 12,
-      "category": "影视"
-    },
-    {
       "raw_hot": 604529,
       "num": 604529,
       "word": "杨紫直播",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1681811249,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565468,
+      "num": 364025,
+      "word": "白百何说自己掉了1.2斤脂肪",
+      "onboard_time": 1682072911,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 564834,
@@ -3203,6 +3227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 454511,
+      "num": 214927,
+      "word": "宝马MINI",
+      "onboard_time": 1682075491,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453884,
       "num": 453884,
       "word": "赵露思许凯双人海报",
@@ -3401,14 +3433,6 @@
       "onboard_time": 1681702106,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 426029,
-      "num": 426029,
-      "word": "B站崩了",
-      "onboard_time": 1682072549,
-      "rank": 17,
-      "category": "科技"
     },
     {
       "raw_hot": 425066,
@@ -3795,6 +3819,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 388264,
+      "num": 2620770,
+      "word": "宝宝打针被医生哄到哭不出来",
+      "onboard_time": 1682070630,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387918,
       "num": 387918,
       "word": "山科大老师回应网传北门伤人事件",
@@ -3809,14 +3841,6 @@
       "onboard_time": 1681975948,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 387035,
-      "num": 2620770,
-      "word": "宝宝打针被医生哄到哭不出来",
-      "onboard_time": 1682070630,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385622,
@@ -5611,14 +5635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263495,
-      "num": 263495,
-      "word": "周也 冷脸小白花",
-      "onboard_time": 1682072911,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 263394,
       "num": 263394,
       "word": "西班牙真人秀男嘉宾性侵女嘉宾",
@@ -6035,14 +6051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238268,
-      "num": 238268,
-      "word": "白百何说自己掉了1.2斤脂肪",
-      "onboard_time": 1682072911,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 237543,
       "num": 226540,
       "word": "萨摩有点什么你接着说啊",
@@ -6299,6 +6307,22 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 224620,
+      "num": 1545100,
+      "word": "男子抵手机借钱店主拒收爽快给200",
+      "onboard_time": 1682070688,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224595,
+      "num": 214902,
+      "word": "原来这是老天在对我调休",
+      "onboard_time": 1682073990,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224169,
       "num": 166739,
       "word": "严浩翔回眸镜头",
@@ -6401,6 +6425,14 @@
       "onboard_time": 1682047887,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219500,
+      "num": 219500,
+      "word": "Hero零封TES",
+      "onboard_time": 1682075190,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 219289,
@@ -6539,6 +6571,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 214871,
+      "num": 214871,
+      "word": "我心目中的现偶TOP1",
+      "onboard_time": 1682071469,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214084,
       "num": 214084,
       "word": "小米13ultra",
@@ -6672,14 +6712,6 @@
       "word": "朱一龙 火锅脑袋",
       "onboard_time": 1681656929,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 210392,
-      "num": 210392,
-      "word": "我心目中的现偶TOP1",
-      "onboard_time": 1682071469,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -7081,14 +7113,6 @@
       "onboard_time": 1681824629,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202596,
-      "num": 1545100,
-      "word": "男子抵手机借钱店主拒收爽快给200",
-      "onboard_time": 1682070688,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202586,
@@ -7627,6 +7651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192831,
+      "num": 192831,
+      "word": "志愿军剧组红毯阵容好豪华",
+      "onboard_time": 1682075251,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192736,
       "num": 192736,
       "word": "马斯克回应特斯拉全球轮番降价",
@@ -8113,6 +8145,14 @@
       "onboard_time": 1681779211,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183754,
+      "num": 183754,
+      "word": "啜妮发文告别蓝冰",
+      "onboard_time": 1682075251,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 183215,
@@ -9177,6 +9217,14 @@
       "onboard_time": 1681715785,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150743,
+      "num": 150743,
+      "word": "奔跑吧",
+      "onboard_time": 1682073931,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 150556,
@@ -11425,6 +11473,14 @@
       "onboard_time": 1681518865,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 26737,
+      "num": 319206,
+      "word": "和黄晓明一起飙戏",
+      "onboard_time": 1682074829,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 25107,
