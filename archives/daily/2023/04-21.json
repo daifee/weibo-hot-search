@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682062417961,
+  "endTime": 1682065275975,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -25,6 +25,14 @@
       "onboard_time": 1682039609,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 3152057,
+      "num": 3152057,
+      "word": "原来考个本科真的很难",
+      "onboard_time": 1682058088,
+      "rank": 46,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 3091107,
@@ -73,14 +81,6 @@
       "onboard_time": 1682035288,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1838054,
-      "num": 1838054,
-      "word": "原来考个本科真的很难",
-      "onboard_time": 1682058088,
-      "rank": 46,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 1701640,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1129701,
+      "num": 1129701,
+      "word": "车银优眼睛哭肿了",
+      "onboard_time": 1682063129,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1120934,
       "num": 717963,
       "word": "杜华你好大的福气",
@@ -185,6 +193,14 @@
       "onboard_time": 1682052697,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1051559,
+      "num": 628699,
+      "word": "韩国网友把王宝强认成朴振英",
+      "onboard_time": 1682062410,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1019871,
@@ -291,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 742783,
+      "num": 742783,
+      "word": "选秀真的回来了",
+      "onboard_time": 1682063249,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 734511,
       "num": 734511,
       "word": "因姓氏太罕见全村集体改姓鸭",
@@ -347,12 +371,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 629359,
+      "num": 629359,
+      "word": "倪妮 油画里的美人",
+      "onboard_time": 1682062109,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 617523,
       "num": 617523,
       "word": "哈登 驱逐",
       "onboard_time": 1682041407,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 604529,
+      "num": 604529,
+      "word": "杨紫直播",
+      "onboard_time": 1682063190,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 587112,
@@ -457,6 +497,14 @@
       "onboard_time": 1682042548,
       "rank": 15,
       "category": "美食"
+    },
+    {
+      "raw_hot": 502017,
+      "num": 502017,
+      "word": "鹿晗宝石老舅成都逛街",
+      "onboard_time": 1682064451,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 488174,
@@ -595,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401106,
+      "num": 401106,
+      "word": "专家称生育率降低不只因为房价高",
+      "onboard_time": 1682063730,
+      "rank": 22,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 400080,
       "num": 400080,
       "word": "五一民宿预订现涨价毁约潮",
@@ -683,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340759,
+      "num": 340759,
+      "word": "最闷骚的星座",
+      "onboard_time": 1682064628,
+      "rank": 23,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 337934,
       "num": 337934,
       "word": "杨幂到达长沙",
@@ -721,6 +785,14 @@
       "onboard_time": 1682050289,
       "rank": 28,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 316250,
+      "num": 316250,
+      "word": "杨幂许凯密逃5再聚",
+      "onboard_time": 1682062948,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 315403,
@@ -771,6 +843,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 300545,
+      "num": 300545,
+      "word": "章昊带领教资走出国门",
+      "onboard_time": 1682062048,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296015,
       "num": 296015,
       "word": "中国说唱巅峰对决方言喊话官宣",
@@ -809,6 +889,14 @@
       "onboard_time": 1682059827,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 290800,
+      "num": 290800,
+      "word": "袁弘为张歆艺操碎了心",
+      "onboard_time": 1682063552,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 288549,
@@ -915,6 +1003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249700,
+      "num": 249700,
+      "word": "简历造假让我碰见了",
+      "onboard_time": 1682061089,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 247638,
       "num": 247638,
       "word": "王曼昱晋级",
@@ -971,20 +1067,20 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 234072,
-      "num": 234072,
-      "word": "章昊带领教资走出国门",
-      "onboard_time": 1682062048,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 234990,
+      "num": 234990,
+      "word": "王楚钦3比2张禹珍",
+      "onboard_time": 1682064690,
+      "rank": 33,
+      "category": "体育"
     },
     {
-      "raw_hot": 233635,
-      "num": 233635,
-      "word": "简历造假让我碰见了",
-      "onboard_time": 1682061089,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 231300,
+      "num": 231300,
+      "word": "QQ音乐巅峰榜",
+      "onboard_time": 1682064568,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 230922,
@@ -1123,20 +1219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201841,
-      "num": 201841,
-      "word": "倪妮 油画里的美人",
-      "onboard_time": 1682062109,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 201797,
       "num": 201797,
       "word": "李会泽陪跑",
       "onboard_time": 1682032161,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201484,
+      "num": 201484,
+      "word": "张元英的愿望",
+      "onboard_time": 1682064269,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 198199,
@@ -1152,6 +1248,14 @@
       "word": "迪丽热巴新剧过审",
       "onboard_time": 1682001757,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196369,
+      "num": 196369,
+      "word": "澹台烬放火想烧死自己给叶夕雾陪葬",
+      "onboard_time": 1682063610,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1235,6 +1339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179465,
+      "num": 179465,
+      "word": "XBB.1.16是否会导致结膜炎",
+      "onboard_time": 1682062888,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179296,
       "num": 155267,
       "word": "张小斐小心青城山的蚊子",
@@ -1273,6 +1385,14 @@
       "onboard_time": 1682054493,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 169026,
+      "num": 169026,
+      "word": "北影节开幕红毯",
+      "onboard_time": 1682065168,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 165496,
@@ -1395,6 +1515,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 143577,
+      "num": 143577,
+      "word": "逆水寒鸿音提前登陆老兵服",
+      "onboard_time": 1682065049,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142121,
       "num": 142121,
       "word": "民警破案后对监控比耶回应小偷挑衅",
@@ -1409,14 +1537,6 @@
       "onboard_time": 1682046148,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 137698,
-      "num": 137698,
-      "word": "韩国网友把王宝强认成朴振英",
-      "onboard_time": 1682062410,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 137114,
@@ -1665,6 +1785,14 @@
       "onboard_time": 1682007746,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60715,
+      "num": 544326,
+      "word": "小哥公园送外卖各出奇招",
+      "onboard_time": 1682064028,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40937,
