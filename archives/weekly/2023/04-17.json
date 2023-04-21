@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682086536641,
+  "endTime": 1682087599492,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -2436,7 +2436,7 @@
     },
     {
       "raw_hot": 591580,
-      "num": 314811,
+      "num": 382603,
       "word": "唐诗逸 白玉兰戏剧主角奖",
       "onboard_time": 1682082930,
       "rank": 35,
@@ -3259,6 +3259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 463481,
+      "num": 341523,
+      "word": "流川枫 樱木花道",
+      "onboard_time": 1682084193,
+      "rank": 18,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 462677,
       "num": 462677,
       "word": "蔡徐坤打戏",
@@ -3523,12 +3531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 425714,
-      "num": 292051,
-      "word": "流川枫 樱木花道",
-      "onboard_time": 1682084193,
-      "rank": 18,
-      "category": "影视,动漫"
+      "raw_hot": 425387,
+      "num": 425387,
+      "word": "九尾 探草",
+      "onboard_time": 1682084373,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 425066,
@@ -4595,6 +4603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 343141,
+      "num": 343141,
+      "word": "KSG战胜TTG",
+      "onboard_time": 1682087013,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 342815,
       "num": 294742,
       "word": "内娱00后颜值有多高",
@@ -4873,14 +4889,6 @@
       "onboard_time": 1681724425,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 322586,
-      "num": 322586,
-      "word": "九尾 探草",
-      "onboard_time": 1682084373,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 322573,
@@ -5563,6 +5571,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 280183,
+      "num": 200539,
+      "word": "王源巡演预售",
+      "onboard_time": 1682085573,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 280153,
       "num": 280153,
       "word": "C罗锁喉防守染黄",
@@ -6003,6 +6019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253110,
+      "num": 209794,
+      "word": "电影传说全阵容官宣",
+      "onboard_time": 1682086111,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252226,
       "num": 252226,
       "word": "华侨大学时隔八年再夺东南王",
@@ -6195,6 +6219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242361,
+      "num": 242361,
+      "word": "今屿 露娜的神",
+      "onboard_time": 1682087314,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241093,
       "num": 241093,
       "word": "大大担任eStar主教练",
@@ -6209,14 +6241,6 @@
       "onboard_time": 1681986146,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 239241,
-      "num": 209794,
-      "word": "电影传说全阵容官宣",
-      "onboard_time": 1682086111,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 238909,
@@ -6273,14 +6297,6 @@
       "onboard_time": 1681884208,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238002,
-      "num": 161981,
-      "word": "王源巡演预售",
-      "onboard_time": 1682085573,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 237543,
@@ -6673,6 +6689,14 @@
       "onboard_time": 1682047887,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220399,
+      "num": 220399,
+      "word": "安以轩未现身陈荣炼庭审现场",
+      "onboard_time": 1682084733,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 219500,
@@ -7145,14 +7169,6 @@
       "onboard_time": 1681740207,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206859,
-      "num": 206859,
-      "word": "安以轩未现身陈荣炼庭审现场",
-      "onboard_time": 1682084733,
-      "rank": 33,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 206673,
@@ -8636,7 +8652,7 @@
     },
     {
       "raw_hot": 179719,
-      "num": 138858,
+      "num": 154948,
       "word": "灌篮高手票房破2亿",
       "onboard_time": 1682083771,
       "rank": 42,
@@ -9411,6 +9427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155673,
+      "num": 1314434,
+      "word": "县在出发",
+      "onboard_time": 1682083712,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155359,
       "num": 155359,
       "word": "哥斯拉大战金刚2片名",
@@ -9928,14 +9952,6 @@
       "word": "民警破案后对监控比耶回应小偷挑衅",
       "onboard_time": 1682041465,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142049,
-      "num": 1314434,
-      "word": "县在出发",
-      "onboard_time": 1682083712,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

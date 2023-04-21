@@ -1,0 +1,410 @@
+{
+  "runTime": 1682087599492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1754996,
+        "num": 1754996,
+        "word": "张子枫 C位烫脚",
+        "onboard_time": 1682081250,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1519801,
+        "num": 1519801,
+        "word": "哇唧唧哇 空座",
+        "onboard_time": 1682081130,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155673,
+        "num": 1190672,
+        "word": "县在出发",
+        "onboard_time": 1682083712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875737,
+        "num": 875737,
+        "word": "中方要求韩方在台湾问题上谨言慎行",
+        "onboard_time": 1682082210,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 791204,
+        "num": 791204,
+        "word": "赵小棠红毯摔倒",
+        "onboard_time": 1682072851,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2888883,
+        "num": 769460,
+        "word": "老番茄求婚",
+        "onboard_time": 1682082869,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 710185,
+        "num": 710185,
+        "word": "胡先煦 发腮",
+        "onboard_time": 1682069668,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 689694,
+        "num": 689694,
+        "word": "章子怡的脸能打",
+        "onboard_time": 1682079570,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 471372,
+        "num": 471372,
+        "word": "樊振东2比3A勒布伦",
+        "onboard_time": 1682084613,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425387,
+        "num": 425387,
+        "word": "九尾 探草",
+        "onboard_time": 1682084373,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 970553,
+        "num": 410045,
+        "word": "白鹿 孙珍妮",
+        "onboard_time": 1682079688,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 594898,
+        "num": 385932,
+        "word": "白百何说自己掉了1.2斤脂肪",
+        "onboard_time": 1682072911,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 582758,
+        "num": 382603,
+        "word": "唐诗逸 白玉兰戏剧主角奖",
+        "onboard_time": 1682082930,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490766,
+        "num": 349201,
+        "word": "宝马MINI",
+        "onboard_time": 1682075491,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343141,
+        "num": 343141,
+        "word": "KSG战胜TTG",
+        "onboard_time": 1682087013,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 463481,
+        "num": 341523,
+        "word": "流川枫 樱木花道",
+        "onboard_time": 1682084193,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 435214,
+        "num": 341052,
+        "word": "魏晨状态",
+        "onboard_time": 1682076267,
+        "rank": 16,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 308991,
+        "num": 308991,
+        "word": "男方择偶条件要求女方没弟弟",
+        "onboard_time": 1682066910,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293735,
+        "num": 293735,
+        "word": "原来考个本科真的很难",
+        "onboard_time": 1682058088,
+        "rank": 18,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 242361,
+        "num": 242361,
+        "word": "今屿 露娜的神",
+        "onboard_time": 1682087314,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 424575,
+        "num": 233086,
+        "word": "灌篮高手",
+        "onboard_time": 1682077349,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 357028,
+        "num": 229488,
+        "word": "SEVENTEEN 克拉盘",
+        "onboard_time": 1682084733,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220399,
+        "num": 220399,
+        "word": "安以轩未现身陈荣炼庭审现场",
+        "onboard_time": 1682084733,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 212282,
+        "num": 212282,
+        "word": "华侨大学时隔八年再夺东南王",
+        "onboard_time": 1682083409,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202293,
+        "num": 202293,
+        "word": "下雪",
+        "onboard_time": 1682079270,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305609,
+        "num": 201053,
+        "word": "文彬",
+        "onboard_time": 1682070510,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291757,
+        "num": 200794,
+        "word": "娜扎的耳饰好大",
+        "onboard_time": 1682067510,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 280183,
+        "num": 200539,
+        "word": "王源巡演预售",
+        "onboard_time": 1682085573,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199632,
+        "num": 199632,
+        "word": "TTG bp我没懂",
+        "onboard_time": 1682080709,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187523,
+        "num": 187523,
+        "word": "TTG对战KSG",
+        "onboard_time": 1682079688,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1139701,
+        "num": 186864,
+        "word": "宝马mini两名发冰淇淋女生已离职",
+        "onboard_time": 1682071291,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277634,
+        "num": 186616,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1682081550,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265326,
+        "num": 186089,
+        "word": "张子枫帆布鞋配礼服",
+        "onboard_time": 1682066491,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253110,
+        "num": 184947,
+        "word": "电影传说全阵容官宣",
+        "onboard_time": 1682086111,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184776,
+        "num": 184776,
+        "word": "专家称生育率降低不只因为房价高",
+        "onboard_time": 1682063730,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 241255,
+        "num": 178841,
+        "word": "何悯鸿恋爱脑",
+        "onboard_time": 1682080649,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207369,
+        "num": 174190,
+        "word": "鹿晗巡演四站官宣",
+        "onboard_time": 1682069549,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190257,
+        "num": 173978,
+        "word": "北京电影节男明星怼脸图",
+        "onboard_time": 1682084012,
+        "rank": 37,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 166802,
+        "num": 166802,
+        "word": "父母姓氏组合而来的名字",
+        "onboard_time": 1682076389,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 160554,
+        "num": 160554,
+        "word": "殡葬业有多赚钱",
+        "onboard_time": 1682075787,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173351,
+        "num": 154948,
+        "word": "灌篮高手票房破2亿",
+        "onboard_time": 1682083771,
+        "rank": 40,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 167671,
+        "num": 154267,
+        "word": "白玉兰戏剧表演艺术奖",
+        "onboard_time": 1682083050,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164577,
+        "num": 152306,
+        "word": "repo",
+        "onboard_time": 1682084012,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147196,
+        "num": 147196,
+        "word": "cp29 抢票",
+        "onboard_time": 1682071769,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143496,
+        "num": 143496,
+        "word": "韩国网友把王宝强认成朴振英",
+        "onboard_time": 1682062410,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129063,
+        "num": 129063,
+        "word": "浙大学生因辱华言论被拒录公务员",
+        "onboard_time": 1682056050,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 128709,
+        "num": 128709,
+        "word": "专家称二套房贷政策是在帮助富人",
+        "onboard_time": 1682067030,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 124172,
+        "num": 124172,
+        "word": "司机拦住特警巡逻车救了自己一命",
+        "onboard_time": 1682077470,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 108755,
+        "num": 108755,
+        "word": "樊振东vsA勒布伦",
+        "onboard_time": 1682083892,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107367,
+        "num": 107367,
+        "word": "B站崩了",
+        "onboard_time": 1682072549,
+        "rank": 49,
+        "category": "动漫,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与应对气候变化全球治理#"
+    }
+  }
+}
