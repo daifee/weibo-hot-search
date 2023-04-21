@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682115365574,
+  "endTime": 1682116411450,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -48619,12 +48619,28 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 85416,
+      "num": 85416,
+      "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
+      "onboard_time": 1682105953,
+      "rank": 7,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 85136,
       "num": 331612,
       "word": "什么是智能汽车天花板",
       "onboard_time": 1681727906,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 85031,
+      "num": 85031,
+      "word": "范志毅把脸都不要了唱进五哈主题曲",
+      "onboard_time": 1682107391,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 84915,
@@ -48787,14 +48803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81589,
-      "num": 69824,
-      "word": "范志毅把脸都不要了唱进五哈主题曲",
-      "onboard_time": 1682107391,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81585,
       "num": 219344,
       "word": "周柯宇Gemini连麦",
@@ -48873,14 +48881,6 @@
       "onboard_time": 1681574609,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78528,
-      "num": 78528,
-      "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
-      "onboard_time": 1682105953,
-      "rank": 7,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 77721,
@@ -49145,6 +49145,14 @@
       "onboard_time": 1681736788,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 69598,
+      "num": 69598,
+      "word": "孝庄秘史 命运映照",
+      "onboard_time": 1682110091,
+      "rank": 26,
+      "category": "其它"
     },
     {
       "raw_hot": 69500,
@@ -49539,14 +49547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57031,
-      "num": 57031,
-      "word": "孝庄秘史 命运映照",
-      "onboard_time": 1682110091,
-      "rank": 26,
-      "category": "其它"
-    },
-    {
       "raw_hot": 56963,
       "num": 59459,
       "word": "魏大勋说王鹤棣腰不行",
@@ -49811,6 +49811,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 45928,
+      "num": 45928,
+      "word": "千万不要让男人去买菜",
+      "onboard_time": 1682110392,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 45271,
       "num": 1634814,
       "word": "消博会开馆首日有哪些亮点",
@@ -50051,6 +50059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36565,
+      "num": 33953,
+      "word": "AI怪盗积德",
+      "onboard_time": 1682111291,
+      "rank": 48,
+      "category": "动漫,科技"
+    },
+    {
       "raw_hot": 36398,
       "num": 34159,
       "word": "影视剧里一眼万年的蓝裙子",
@@ -50113,6 +50129,14 @@
       "onboard_time": 1680270870,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33955,
+      "num": 33955,
+      "word": "娜扎走了三次红毯",
+      "onboard_time": 1682102173,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 33465,
@@ -50219,14 +50243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29424,
-      "num": 26270,
-      "word": "AI怪盗积德",
-      "onboard_time": 1682111291,
-      "rank": 48,
-      "category": "动漫,科技"
-    },
-    {
       "raw_hot": 29045,
       "num": 27509,
       "word": "三丽鸥明星人气评选",
@@ -50243,28 +50259,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 27553,
-      "num": 25693,
-      "word": "娜扎走了三次红毯",
-      "onboard_time": 1682102173,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
       "onboard_time": 1680795809,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26300,
-      "num": 26300,
-      "word": "千万不要让男人去买菜",
-      "onboard_time": 1682110392,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 26119,
@@ -50407,6 +50407,14 @@
       "num": 16919,
       "word": "大学生旅游主打的就是随性",
       "onboard_time": 1680549192,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 16904,
+      "num": 33934,
+      "word": "一年被辞退四次是什么体验",
+      "onboard_time": 1682112251,
       "rank": 49,
       "category": "情感"
     },

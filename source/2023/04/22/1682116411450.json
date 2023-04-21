@@ -1,0 +1,410 @@
+{
+  "runTime": 1682116411450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 314243,
+        "num": 314243,
+        "word": "胡先煦回应发腮",
+        "onboard_time": 1682090970,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256466,
+        "num": 256466,
+        "word": "5岁女孩被拐26年后回家父母双亡",
+        "onboard_time": 1682091928,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20792,
+        "num": 170645,
+        "word": "县在出发",
+        "onboard_time": 1682083712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275730,
+        "num": 170505,
+        "word": "宝马mini称两名女生离职消息不实",
+        "onboard_time": 1682089831,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 163615,
+        "num": 163615,
+        "word": "男子网恋6年转142万对方是舅妈",
+        "onboard_time": 1682091209,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282300,
+        "num": 157563,
+        "word": "老番茄求婚",
+        "onboard_time": 1682082869,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 142029,
+        "num": 142029,
+        "word": "专家建议去旅游度假城市买房",
+        "onboard_time": 1682093786,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 123245,
+        "num": 123245,
+        "word": "张子枫 C位烫脚",
+        "onboard_time": 1682081250,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109259,
+        "num": 109259,
+        "word": "成都基地回应大熊猫福禄疑淋雨",
+        "onboard_time": 1682092649,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88635,
+        "num": 88635,
+        "word": "中方要求韩方在台湾问题上谨言慎行",
+        "onboard_time": 1682082210,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 87519,
+        "num": 87519,
+        "word": "章子怡的脸能打",
+        "onboard_time": 1682079570,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 85416,
+        "num": 85416,
+        "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
+        "onboard_time": 1682105953,
+        "rank": 11,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 85397,
+        "num": 85397,
+        "word": "山西突降暴雪",
+        "onboard_time": 1682088932,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85031,
+        "num": 85031,
+        "word": "范志毅把脸都不要了唱进五哈主题曲",
+        "onboard_time": 1682107391,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69598,
+        "num": 69598,
+        "word": "孝庄秘史 命运映照",
+        "onboard_time": 1682110091,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 66079,
+        "num": 66079,
+        "word": "内娱小说男主代餐脸",
+        "onboard_time": 1682098098,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64765,
+        "num": 64765,
+        "word": "辛柏青朱一龙张子枫演一家三口",
+        "onboard_time": 1682091269,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56574,
+        "num": 56574,
+        "word": "男方择偶条件要求女方没弟弟",
+        "onboard_time": 1682066910,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53227,
+        "num": 53227,
+        "word": "赵小棠红毯摔倒",
+        "onboard_time": 1682072851,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52008,
+        "num": 52008,
+        "word": "哇唧唧哇 空座",
+        "onboard_time": 1682081130,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53945,
+        "num": 51440,
+        "word": "熊猫宝宝卡屁股被游客嘲笑",
+        "onboard_time": 1682097080,
+        "rank": 20,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 50869,
+        "num": 50869,
+        "word": "原来这是老天在对我调休",
+        "onboard_time": 1682073990,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47382,
+        "num": 47382,
+        "word": "宝马MINI",
+        "onboard_time": 1682075491,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46053,
+        "num": 46053,
+        "word": "何悯鸿恋爱脑",
+        "onboard_time": 1682080649,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45928,
+        "num": 45928,
+        "word": "千万不要让男人去买菜",
+        "onboard_time": 1682110392,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44401,
+        "num": 44401,
+        "word": "专家称生育率降低不只因为房价高",
+        "onboard_time": 1682063730,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 37710,
+        "num": 37710,
+        "word": "白百何说自己掉了1.2斤脂肪",
+        "onboard_time": 1682072911,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36475,
+        "num": 36475,
+        "word": "你心中最理想的结婚年龄是多少岁",
+        "onboard_time": 1682090610,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34703,
+        "num": 34703,
+        "word": "流川枫 樱木花道",
+        "onboard_time": 1682084193,
+        "rank": 28,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 33955,
+        "num": 33955,
+        "word": "娜扎走了三次红毯",
+        "onboard_time": 1682102173,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 56491,
+        "num": 33954,
+        "word": "宝马mini两名发冰淇淋女生已离职",
+        "onboard_time": 1682071291,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36565,
+        "num": 33953,
+        "word": "AI怪盗积德",
+        "onboard_time": 1682111291,
+        "rank": 31,
+        "category": "动漫,科技"
+      },
+      {
+        "raw_hot": 31610,
+        "num": 33952,
+        "word": "父母姓氏组合而来的名字",
+        "onboard_time": 1682076389,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 30803,
+        "num": 33952,
+        "word": "唐诗逸 白玉兰戏剧主角奖",
+        "onboard_time": 1682082930,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29620,
+        "num": 33951,
+        "word": "殡葬业有多赚钱",
+        "onboard_time": 1682075787,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29263,
+        "num": 33949,
+        "word": "安以轩未现身陈荣炼庭审现场",
+        "onboard_time": 1682084733,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 29174,
+        "num": 33948,
+        "word": "我想和你唱",
+        "onboard_time": 1682088454,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28169,
+        "num": 33946,
+        "word": "樊振东2比3A勒布伦",
+        "onboard_time": 1682084613,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25882,
+        "num": 33945,
+        "word": "文彬",
+        "onboard_time": 1682070510,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23580,
+        "num": 33944,
+        "word": "鹿晗巡演四站官宣",
+        "onboard_time": 1682069549,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22769,
+        "num": 33944,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1682081550,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22173,
+        "num": 33942,
+        "word": "cp29 抢票",
+        "onboard_time": 1682071769,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21964,
+        "num": 33942,
+        "word": "王源巡演预售",
+        "onboard_time": 1682085573,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21836,
+        "num": 33941,
+        "word": "原来考个本科真的很难",
+        "onboard_time": 1682058088,
+        "rank": 43,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 20082,
+        "num": 33940,
+        "word": "清清的吕布累坏了",
+        "onboard_time": 1682088810,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19530,
+        "num": 33939,
+        "word": "蔡徐坤隔空点亮水立方",
+        "onboard_time": 1682082869,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19296,
+        "num": 33938,
+        "word": "九尾 探草",
+        "onboard_time": 1682084373,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19284,
+        "num": 33936,
+        "word": "SEVENTEEN 克拉盘",
+        "onboard_time": 1682084733,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17306,
+        "num": 33936,
+        "word": "repo",
+        "onboard_time": 1682084012,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16904,
+        "num": 33934,
+        "word": "一年被辞退四次是什么体验",
+        "onboard_time": 1682112251,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实开展主题教育#"
+    }
+  }
+}

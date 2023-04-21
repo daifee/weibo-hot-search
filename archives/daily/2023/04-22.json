@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682115365574,
+  "endTime": 1682116411450,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -379,6 +379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 85416,
+      "num": 85416,
+      "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
+      "onboard_time": 1682105953,
+      "rank": 7,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 85177,
       "num": 96833,
       "word": "华侨大学时隔八年再夺东南王",
@@ -387,20 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81589,
-      "num": 69824,
+      "raw_hot": 85031,
+      "num": 85031,
       "word": "范志毅把脸都不要了唱进五哈主题曲",
       "onboard_time": 1682107391,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78528,
-      "num": 78528,
-      "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
-      "onboard_time": 1682105953,
-      "rank": 7,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 75924,
@@ -435,6 +435,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 69598,
+      "num": 69598,
+      "word": "孝庄秘史 命运映照",
+      "onboard_time": 1682110091,
+      "rank": 26,
+      "category": "其它"
+    },
+    {
       "raw_hot": 66971,
       "num": 910589,
       "word": "县在出发",
@@ -451,12 +459,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 57031,
-      "num": 57031,
-      "word": "孝庄秘史 命运映照",
-      "onboard_time": 1682110091,
-      "rank": 26,
-      "category": "其它"
+      "raw_hot": 45928,
+      "num": 45928,
+      "word": "千万不要让男人去买菜",
+      "onboard_time": 1682110392,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 39171,
@@ -467,28 +475,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29424,
-      "num": 26270,
+      "raw_hot": 36565,
+      "num": 33953,
       "word": "AI怪盗积德",
       "onboard_time": 1682111291,
       "rank": 48,
       "category": "动漫,科技"
     },
     {
-      "raw_hot": 27553,
-      "num": 25693,
+      "raw_hot": 33955,
+      "num": 33955,
       "word": "娜扎走了三次红毯",
       "onboard_time": 1682102173,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 26300,
-      "num": 26300,
-      "word": "千万不要让男人去买菜",
-      "onboard_time": 1682110392,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 26048,
@@ -505,6 +505,14 @@
       "onboard_time": 1682087314,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16904,
+      "num": 33934,
+      "word": "一年被辞退四次是什么体验",
+      "onboard_time": 1682112251,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
