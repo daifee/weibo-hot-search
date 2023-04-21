@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682111695248,
+  "endTime": 1682112808634,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -11891,6 +11891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 49184,
+      "num": 47489,
+      "word": "范志毅把脸都不要了唱进五哈主题曲",
+      "onboard_time": 1682107391,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47926,
       "num": 57533,
       "word": "路过男子跳入水中奋力救起落水男孩",
@@ -11995,14 +12003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36524,
-      "num": 36524,
-      "word": "范志毅把脸都不要了唱进五哈主题曲",
-      "onboard_time": 1682107391,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 35441,
       "num": 1356691,
       "word": "中国汉字遇上锦绣山河有多惊艳",
@@ -12017,6 +12017,14 @@
       "onboard_time": 1681699885,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30019,
+      "num": 30019,
+      "word": "孝庄秘史 命运映照",
+      "onboard_time": 1682110091,
+      "rank": 26,
+      "category": "其它"
     },
     {
       "raw_hot": 29701,
@@ -12051,14 +12059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19479,
-      "num": 19479,
-      "word": "孝庄秘史 命运映照",
-      "onboard_time": 1682110091,
-      "rank": 26,
-      "category": "其它"
-    },
-    {
       "raw_hot": 18894,
       "num": 22506,
       "word": "陆虎王栎鑫张远模仿灌篮高手",
@@ -12073,6 +12073,14 @@
       "onboard_time": 1681966834,
       "rank": 14,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 16552,
+      "num": 16768,
+      "word": "AI怪盗积德",
+      "onboard_time": 1682111291,
+      "rank": 48,
+      "category": "动漫,科技"
     },
     {
       "raw_hot": 15253,
@@ -12105,14 +12113,6 @@
       "onboard_time": 1682023272,
       "rank": 46,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 10265,
-      "num": 16768,
-      "word": "AI怪盗积德",
-      "onboard_time": 1682111291,
-      "rank": 48,
-      "category": "动漫,科技"
     }
   ],
   "hotgov_list": [
