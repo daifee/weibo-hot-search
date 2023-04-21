@@ -1,0 +1,410 @@
+{
+  "runTime": 1682058150293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2553706,
+        "num": 2553706,
+        "word": "安以轩老公被判监禁14年",
+        "onboard_time": 1682052334,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2137685,
+        "num": 2137685,
+        "word": "不要随便改微信名",
+        "onboard_time": 1682050228,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88341,
+        "num": 1610166,
+        "word": "以漫画方式打开中国宝藏县城",
+        "onboard_time": 1682048428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1414065,
+        "num": 1414065,
+        "word": "MINI呼吁给发冰淇淋小姐姐多些宽容",
+        "onboard_time": 1682045247,
+        "rank": 3,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1349763,
+        "num": 1349763,
+        "word": "浙大学生因辱华言论被拒录公务员",
+        "onboard_time": 1682056050,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1186735,
+        "num": 1186735,
+        "word": "宝马蒸发市值可买约5亿个冰淇淋",
+        "onboard_time": 1682050168,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1080269,
+        "num": 1080269,
+        "word": "女子吐槽软卧车厢分配3男1女",
+        "onboard_time": 1682052697,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879784,
+        "num": 879784,
+        "word": "微信可免费听周杰伦",
+        "onboard_time": 1682050228,
+        "rank": 7,
+        "category": "科技,音乐"
+      },
+      {
+        "raw_hot": 596514,
+        "num": 596514,
+        "word": "面试时叫了面试官宝贝",
+        "onboard_time": 1682047467,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 514728,
+        "num": 514728,
+        "word": "向往的生活第七季即将播出",
+        "onboard_time": 1682053353,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1585718,
+        "num": 514127,
+        "word": "史诗级灾难公关",
+        "onboard_time": 1682048308,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768818,
+        "num": 513741,
+        "word": "宝马mini称老外是同事",
+        "onboard_time": 1682039609,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 543368,
+        "num": 513302,
+        "word": "景甜素颜自拍照",
+        "onboard_time": 1682047706,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511834,
+        "num": 511834,
+        "word": "宝马MINI展台仍排队领钥匙扣",
+        "onboard_time": 1682052334,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471129,
+        "num": 471129,
+        "word": "生活费一千五大学生存款6万",
+        "onboard_time": 1682043026,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419225,
+        "num": 419225,
+        "word": "齐司礼",
+        "onboard_time": 1682056945,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 416452,
+        "num": 416452,
+        "word": "宝马股价",
+        "onboard_time": 1682051975,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391740,
+        "num": 391740,
+        "word": "日本90名国会议员集体参拜靖国神社",
+        "onboard_time": 1682051975,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358856,
+        "num": 358856,
+        "word": "疑似长月烬明编剧回应",
+        "onboard_time": 1682051434,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 346720,
+        "num": 346720,
+        "word": "向往的生活",
+        "onboard_time": 1682053769,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510557,
+        "num": 342712,
+        "word": "女子痔疮自行用药致眼球摘除",
+        "onboard_time": 1682057069,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332831,
+        "num": 332831,
+        "word": "苏醒说让杜华带他致富",
+        "onboard_time": 1682055989,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326228,
+        "num": 326228,
+        "word": "谁是乐华的下一个王一博",
+        "onboard_time": 1682057547,
+        "rank": 22,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 306846,
+        "num": 306846,
+        "word": "岸田文雄向靖国神社供奉祭品",
+        "onboard_time": 1682051192,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294423,
+        "num": 294423,
+        "word": "快船五后卫",
+        "onboard_time": 1682056168,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294212,
+        "num": 294212,
+        "word": "罗云熙白鹿时尚芭莎",
+        "onboard_time": 1682044767,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 280569,
+        "num": 280569,
+        "word": "到宝马mini展台发冰淇淋博主发声",
+        "onboard_time": 1682040149,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253335,
+        "num": 253335,
+        "word": "光与夜之恋",
+        "onboard_time": 1682057130,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252073,
+        "num": 252073,
+        "word": "章昊 福师大",
+        "onboard_time": 1682055989,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247638,
+        "num": 247638,
+        "word": "王曼昱晋级",
+        "onboard_time": 1682057368,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241231,
+        "num": 241231,
+        "word": "于正也曾喊话长月烬明制片方",
+        "onboard_time": 1682052034,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225046,
+        "num": 225046,
+        "word": "张杰沈阳",
+        "onboard_time": 1682051614,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225006,
+        "num": 225006,
+        "word": "网易云十年听歌报告",
+        "onboard_time": 1682053653,
+        "rank": 32,
+        "category": "音乐,科技"
+      },
+      {
+        "raw_hot": 209885,
+        "num": 209885,
+        "word": "杨幂到达长沙",
+        "onboard_time": 1682056651,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197386,
+        "num": 197386,
+        "word": "A股",
+        "onboard_time": 1682049870,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190948,
+        "num": 190948,
+        "word": "王曼昱3比1钱天一",
+        "onboard_time": 1682057729,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190332,
+        "num": 190332,
+        "word": "北京国际电影节",
+        "onboard_time": 1682057787,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188598,
+        "num": 188598,
+        "word": "摸小奶猫被猫妈妈婉拒了",
+        "onboard_time": 1682041948,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 186643,
+        "num": 186643,
+        "word": "易烊千玺再现刘艳芬小红帽",
+        "onboard_time": 1682051494,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177799,
+        "num": 177799,
+        "word": "大屏上的肖战",
+        "onboard_time": 1682051733,
+        "rank": 39,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 174427,
+        "num": 174427,
+        "word": "刘诗诗赵丽颖上城士背影图",
+        "onboard_time": 1682043807,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168995,
+        "num": 168995,
+        "word": "大学男生 关水阀",
+        "onboard_time": 1682045006,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 168968,
+        "num": 168968,
+        "word": "蔡徐坤的女友视角视频",
+        "onboard_time": 1682054312,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162825,
+        "num": 162825,
+        "word": "林更新彩椒蘸蛋黄酱吃吐了",
+        "onboard_time": 1682057968,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 158080,
+        "num": 158080,
+        "word": "那英问华晨宇要签名",
+        "onboard_time": 1682056708,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155576,
+        "num": 155576,
+        "word": "因姓氏太罕见全村集体改姓鸭",
+        "onboard_time": 1682057968,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155243,
+        "num": 155243,
+        "word": "原来考个本科真的很难",
+        "onboard_time": 1682058088,
+        "rank": 46,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 153579,
+        "num": 153579,
+        "word": "夫妻嫌上班赚钱慢拍淫秽视频获刑",
+        "onboard_time": 1682035652,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152125,
+        "num": 152125,
+        "word": "为了防止考生作弊煞费苦心",
+        "onboard_time": 1682058088,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124923,
+        "num": 147371,
+        "word": "成都烧烤为什么被大家吐槽",
+        "onboard_time": 1682042548,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中加友好始终坚如磐石#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682055232263,
+  "endTime": 1682058150293,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1355,6 +1355,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2137685,
+      "num": 2137685,
+      "word": "不要随便改微信名",
+      "onboard_time": 1682050228,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2134910,
       "num": 2134910,
       "word": "初代跑男重聚",
@@ -2273,14 +2281,6 @@
       "onboard_time": 1681922485,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1685134,
-      "num": 1685134,
-      "word": "不要随便改微信名",
-      "onboard_time": 1682050228,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 1681764,
@@ -3265,6 +3265,14 @@
       "onboard_time": 1680484768,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1349763,
+      "num": 1349763,
+      "word": "浙大学生因辱华言论被拒录公务员",
+      "onboard_time": 1682056050,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1344474,
@@ -4361,6 +4369,14 @@
       "onboard_time": 1680932908,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1080269,
+      "num": 1080269,
+      "word": "女子吐槽软卧车厢分配3男1女",
+      "onboard_time": 1682052697,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1079859,
@@ -5569,14 +5585,6 @@
       "onboard_time": 1681096286,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 900588,
-      "num": 900588,
-      "word": "女子吐槽软卧车厢分配3男1女",
-      "onboard_time": 1682052697,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 899867,
@@ -11923,6 +11931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 510557,
+      "num": 342712,
+      "word": "女子痔疮自行用药致眼球摘除",
+      "onboard_time": 1682057069,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509630,
       "num": 328593,
       "word": "周扬青刮痧",
@@ -14843,6 +14859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 419225,
+      "num": 419225,
+      "word": "齐司礼",
+      "onboard_time": 1682056945,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 419129,
       "num": 285525,
       "word": "婚礼堵门1小时丈母娘吃2次救心丸",
@@ -17491,6 +17515,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 358856,
+      "num": 358856,
+      "word": "疑似长月烬明编剧回应",
+      "onboard_time": 1682051434,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358794,
       "num": 328775,
       "word": "金小妹回应整容",
@@ -18795,6 +18827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 332831,
+      "num": 332831,
+      "word": "苏醒说让杜华带他致富",
+      "onboard_time": 1682055989,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332805,
       "num": 332805,
       "word": "熊猫在树上蹦迪",
@@ -19217,6 +19257,14 @@
       "onboard_time": 1680832346,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 326228,
+      "num": 326228,
+      "word": "谁是乐华的下一个王一博",
+      "onboard_time": 1682057547,
+      "rank": 22,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 326009,
@@ -21001,6 +21049,14 @@
       "onboard_time": 1680846930,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294423,
+      "num": 294423,
+      "word": "快船五后卫",
+      "onboard_time": 1682056168,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 294134,
@@ -23715,6 +23771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253335,
+      "num": 253335,
+      "word": "光与夜之恋",
+      "onboard_time": 1680312927,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253305,
       "num": 253305,
       "word": "杨紫皮衣live图",
@@ -23825,6 +23889,14 @@
       "onboard_time": 1681281684,
       "rank": 21,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 252073,
+      "num": 252073,
+      "word": "章昊 福师大",
+      "onboard_time": 1682055989,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 251808,
@@ -24145,6 +24217,14 @@
       "onboard_time": 1680533618,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 247638,
+      "num": 247638,
+      "word": "王曼昱晋级",
+      "onboard_time": 1682057368,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 247559,
@@ -25201,14 +25281,6 @@
       "onboard_time": 1681098267,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 235176,
-      "num": 235176,
-      "word": "疑似长月烬明编剧回应",
-      "onboard_time": 1682051434,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 235171,
@@ -28075,6 +28147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209885,
+      "num": 209885,
+      "word": "杨幂到达长沙",
+      "onboard_time": 1682056651,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209780,
       "num": 185361,
       "word": "成龙再现回旋飞扇",
@@ -30153,14 +30233,6 @@
       "onboard_time": 1681356269,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202507,
-      "num": 202507,
-      "word": "光与夜之恋",
-      "onboard_time": 1680312927,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 202491,
@@ -33667,6 +33739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190948,
+      "num": 190948,
+      "word": "王曼昱3比1钱天一",
+      "onboard_time": 1682057729,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190910,
       "num": 183178,
       "word": "檀健次新专辑花絮",
@@ -33817,6 +33897,14 @@
       "onboard_time": 1680778589,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190332,
+      "num": 190332,
+      "word": "北京国际电影节",
+      "onboard_time": 1681208368,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 190331,
@@ -38571,6 +38659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162825,
+      "num": 162825,
+      "word": "林更新彩椒蘸蛋黄酱吃吐了",
+      "onboard_time": 1682057968,
+      "rank": 43,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 162689,
       "num": 162689,
       "word": "带女儿开出租车妈妈7年没买过衣服",
@@ -39371,6 +39467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158080,
+      "num": 158080,
+      "word": "那英问华晨宇要签名",
+      "onboard_time": 1682056708,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158073,
       "num": 264962,
       "word": "青年大学习",
@@ -39651,6 +39755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155576,
+      "num": 155576,
+      "word": "因姓氏太罕见全村集体改姓鸭",
+      "onboard_time": 1682057968,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155522,
       "num": 155522,
       "word": "维金斯计划对阵雷霆复出",
@@ -39697,6 +39809,14 @@
       "onboard_time": 1680394043,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155243,
+      "num": 155243,
+      "word": "原来考个本科真的很难",
+      "onboard_time": 1682058088,
+      "rank": 46,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 155233,
@@ -40201,6 +40321,14 @@
       "onboard_time": 1680787891,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152125,
+      "num": 152125,
+      "word": "为了防止考生作弊煞费苦心",
+      "onboard_time": 1682058088,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 152102,
@@ -44369,14 +44497,6 @@
       "onboard_time": 1680812651,
       "rank": 41,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 122379,
-      "num": 122379,
-      "word": "北京国际电影节",
-      "onboard_time": 1681208368,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 122327,

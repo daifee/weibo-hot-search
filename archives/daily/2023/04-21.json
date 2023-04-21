@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682055232263,
+  "endTime": 1682058150293,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -51,6 +51,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 2137685,
+      "num": 2137685,
+      "word": "不要随便改微信名",
+      "onboard_time": 1682050228,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1970557,
       "num": 1970557,
       "word": "台湾17岁少年街头扫射42枪",
@@ -65,14 +73,6 @@
       "onboard_time": 1682043026,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1685134,
-      "num": 1685134,
-      "word": "不要随便改微信名",
-      "onboard_time": 1682050228,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 1645371,
@@ -105,6 +105,14 @@
       "onboard_time": 1682043208,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1349763,
+      "num": 1349763,
+      "word": "浙大学生因辱华言论被拒录公务员",
+      "onboard_time": 1682056050,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1338844,
@@ -153,6 +161,14 @@
       "onboard_time": 1682050228,
       "rank": 17,
       "category": "科技,音乐"
+    },
+    {
+      "raw_hot": 1080269,
+      "num": 1080269,
+      "word": "女子吐槽软卧车厢分配3男1女",
+      "onboard_time": 1682052697,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1019871,
@@ -209,14 +225,6 @@
       "onboard_time": 1682002358,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 900588,
-      "num": 900588,
-      "word": "女子吐槽软卧车厢分配3男1女",
-      "onboard_time": 1682052697,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 838847,
@@ -387,6 +395,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 510557,
+      "num": 342712,
+      "word": "女子痔疮自行用药致眼球摘除",
+      "onboard_time": 1682057069,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506675,
       "num": 506675,
       "word": "成都烧烤为什么被大家吐槽",
@@ -457,6 +473,14 @@
       "onboard_time": 1682005173,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 419225,
+      "num": 419225,
+      "word": "齐司礼",
+      "onboard_time": 1682056945,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 418990,
@@ -571,6 +595,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 358856,
+      "num": 358856,
+      "word": "疑似长月烬明编剧回应",
+      "onboard_time": 1682051434,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353449,
       "num": 353449,
       "word": "鹿晗重启视频情绪点拉满",
@@ -587,8 +619,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342277,
-      "num": 342277,
+      "raw_hot": 346720,
+      "num": 346720,
       "word": "向往的生活",
       "onboard_time": 1682053769,
       "rank": 30,
@@ -603,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332831,
+      "num": 332831,
+      "word": "苏醒说让杜华带他致富",
+      "onboard_time": 1682055989,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329937,
       "num": 329937,
       "word": "官方通报摊主被陌生人贴膏药后晕倒",
       "onboard_time": 1682035047,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326228,
+      "num": 326228,
+      "word": "谁是乐华的下一个王一博",
+      "onboard_time": 1682057547,
+      "rank": 22,
+      "category": "综艺,幽默"
     },
     {
       "raw_hot": 323349,
@@ -683,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294423,
+      "num": 294423,
+      "word": "快船五后卫",
+      "onboard_time": 1682056168,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288549,
       "num": 288549,
       "word": "林更新吃生筋皮",
@@ -747,12 +803,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253335,
+      "num": 253335,
+      "word": "光与夜之恋",
+      "onboard_time": 1682057130,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 252073,
+      "num": 252073,
+      "word": "章昊 福师大",
+      "onboard_time": 1682055989,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250319,
       "num": 250319,
       "word": "宝马欧股跌超3%",
       "onboard_time": 1682033422,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 247638,
+      "num": 247638,
+      "word": "王曼昱晋级",
+      "onboard_time": 1682057368,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 246772,
@@ -793,14 +873,6 @@
       "onboard_time": 1682006309,
       "rank": 23,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 235176,
-      "num": 235176,
-      "word": "疑似长月烬明编剧回应",
-      "onboard_time": 1682051434,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 230922,
@@ -899,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209885,
+      "num": 209885,
+      "word": "杨幂到达长沙",
+      "onboard_time": 1682056651,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206422,
       "num": 206422,
       "word": "官方辟谣菏泽亲友团闹洞房误杀新郎",
@@ -963,12 +1043,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190948,
+      "num": 190948,
+      "word": "王曼昱3比1钱天一",
+      "onboard_time": 1682057729,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190559,
       "num": 190559,
       "word": "光明日报评追熊猫不宜饭圈化",
       "onboard_time": 1682039250,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190332,
+      "num": 190332,
+      "word": "北京国际电影节",
+      "onboard_time": 1682057787,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 188908,
@@ -1067,6 +1163,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162825,
+      "num": 162825,
+      "word": "林更新彩椒蘸蛋黄酱吃吐了",
+      "onboard_time": 1682057968,
+      "rank": 43,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 158080,
+      "num": 158080,
+      "word": "那英问华晨宇要签名",
+      "onboard_time": 1682056708,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155576,
+      "num": 155576,
+      "word": "因姓氏太罕见全村集体改姓鸭",
+      "onboard_time": 1682057968,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155243,
+      "num": 155243,
+      "word": "原来考个本科真的很难",
+      "onboard_time": 1682058088,
+      "rank": 46,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 153247,
       "num": 153247,
       "word": "郑秀妍首场音乐节",
@@ -1089,6 +1217,14 @@
       "onboard_time": 1681988008,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152125,
+      "num": 152125,
+      "word": "为了防止考生作弊煞费苦心",
+      "onboard_time": 1682058088,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 150344,
