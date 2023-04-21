@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682069613444,
+  "endTime": 1682072299383,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -289,6 +289,14 @@
       "onboard_time": 1681972349,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 3577448,
+      "num": 3577448,
+      "word": "胡先煦 发腮",
+      "onboard_time": 1682069668,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 3564098,
@@ -1443,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2105168,
+      "num": 382295,
+      "word": "宝马mini两名发冰淇淋女生已离职",
+      "onboard_time": 1682071291,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2103705,
       "num": 2103705,
       "word": "回忆专用小马甲求婚",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1681034425,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2033651,
+      "num": 2033651,
+      "word": "cp29 抢票",
+      "onboard_time": 1682071769,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 2026916,
@@ -2804,7 +2828,7 @@
     },
     {
       "raw_hot": 1522321,
-      "num": 677002,
+      "num": 701101,
       "word": "韩国网友把王宝强认成朴振英",
       "onboard_time": 1682062410,
       "rank": 48,
@@ -7851,6 +7875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 703298,
+      "num": 703298,
+      "word": "娜扎的耳饰好大",
+      "onboard_time": 1682067510,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 702982,
       "num": 702982,
       "word": "你为何不爱发朋友圈了",
@@ -8123,6 +8155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 688464,
+      "num": 688464,
+      "word": "男方择偶条件要求女方没弟弟",
+      "onboard_time": 1682066910,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688414,
       "num": 688414,
       "word": "嘴大 冯晓桐",
@@ -8257,14 +8297,6 @@
       "onboard_time": 1682069549,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 680572,
-      "num": 680572,
-      "word": "娜扎的耳饰好大",
-      "onboard_time": 1682067510,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 680238,
@@ -10731,12 +10763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 561450,
-      "num": 561450,
-      "word": "男方择偶条件要求女方没弟弟",
-      "onboard_time": 1682066910,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 561434,
+      "num": 561434,
+      "word": "张颂文走红毯好忙",
+      "onboard_time": 1682071171,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 561274,
@@ -16579,6 +16611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 385622,
+      "num": 385622,
+      "word": "陈都灵紫色抹胸长裙",
+      "onboard_time": 1682068708,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 385455,
       "num": 385455,
       "word": "吉安失踪4年童家姐弟疑似被找到",
@@ -16945,6 +16985,14 @@
       "onboard_time": 1680879397,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375033,
+      "num": 375033,
+      "word": "夫胜宽将缺席MCD录制",
+      "onboard_time": 1682069369,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 375022,
@@ -19555,6 +19603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324129,
+      "num": 324129,
+      "word": "cpp",
+      "onboard_time": 1682072070,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 324013,
       "num": 324013,
       "word": "赵露思对拖鞋的执念有多深",
@@ -21803,12 +21859,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 286572,
+      "num": 2620770,
+      "word": "宝宝打针被医生哄到哭不出来",
+      "onboard_time": 1682070630,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286456,
       "num": 286456,
       "word": "RedVelvet演唱会",
       "onboard_time": 1680349170,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 286260,
+      "num": 286260,
+      "word": "周冬雨亮黄色长裙",
+      "onboard_time": 1682069190,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 286083,
@@ -21833,14 +21905,6 @@
       "onboard_time": 1680271830,
       "rank": 7,
       "category": "科技"
-    },
-    {
-      "raw_hot": 285817,
-      "num": 285817,
-      "word": "陈都灵紫色抹胸长裙",
-      "onboard_time": 1682068708,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 285811,
@@ -22667,14 +22731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 271909,
-      "num": 254532,
-      "word": "周冬雨亮黄色长裙",
-      "onboard_time": 1682069190,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 271773,
       "num": 221911,
       "word": "LadyGaga 白宫",
@@ -23099,6 +23155,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 265489,
+      "num": 265489,
+      "word": "范丞丞坐玩具车走红毯",
+      "onboard_time": 1682071889,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265350,
       "num": 265350,
       "word": "姜涛曾参加快乐男声",
@@ -23112,6 +23176,14 @@
       "word": "白鹿武戏没做满意哭了",
       "onboard_time": 1681130126,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265042,
+      "num": 265042,
+      "word": "北京电影节",
+      "onboard_time": 1681791752,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -24507,14 +24579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247367,
-      "num": 247367,
-      "word": "夫胜宽将缺席MCD录制",
-      "onboard_time": 1682069369,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247178,
       "num": 247178,
       "word": "毛雪汪终于开火了",
@@ -24697,6 +24761,14 @@
       "onboard_time": 1681224570,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244970,
+      "num": 244970,
+      "word": "陈飞宇一字绑带黑西装",
+      "onboard_time": 1682068768,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244865,
@@ -26083,6 +26155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229888,
+      "num": 229888,
+      "word": "中方回应日本首相向靖国神社供奉祭品",
+      "onboard_time": 1682068470,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229735,
       "num": 229735,
       "word": "中国人造太阳实现重大突破",
@@ -26289,14 +26369,6 @@
       "onboard_time": 1681827029,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228293,
-      "num": 228293,
-      "word": "北京电影节",
-      "onboard_time": 1681791752,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 228290,
@@ -28259,6 +28331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211319,
+      "num": 211319,
+      "word": "傲寒公孙离抓到四个落单",
+      "onboard_time": 1682071830,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211235,
       "num": 211235,
       "word": "罗云熙教白鹿勒自己脖子",
@@ -28593,14 +28673,6 @@
       "onboard_time": 1681017388,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208939,
-      "num": 208939,
-      "word": "陈飞宇一字绑带黑西装",
-      "onboard_time": 1682068768,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208917,
@@ -29481,6 +29553,14 @@
       "onboard_time": 1680430108,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205847,
+      "num": 205847,
+      "word": "华晨宇声生不息三公上半场第一",
+      "onboard_time": 1682069727,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 205729,
@@ -33059,6 +33139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194718,
+      "num": 194718,
+      "word": "我心目中的现偶TOP1",
+      "onboard_time": 1682071469,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194623,
       "num": 194623,
       "word": "五一假期出境游热度上升",
@@ -33963,14 +34051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191447,
-      "num": 191447,
-      "word": "中方回应日本首相向靖国神社供奉祭品",
-      "onboard_time": 1682068470,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191389,
       "num": 191389,
       "word": "薛之谦佛山演唱会",
@@ -34665,6 +34745,14 @@
       "onboard_time": 1681532606,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188603,
+      "num": 188603,
+      "word": "郎平巩俐同框",
+      "onboard_time": 1682071052,
+      "rank": 44,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 188560,
@@ -41283,6 +41371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 148705,
+      "num": 148705,
+      "word": "北京国际电影节明星妆造",
+      "onboard_time": 1682072251,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148698,
       "num": 206756,
       "word": "刘昊然现身灌篮高手首映",
@@ -43595,6 +43691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 131945,
+      "num": 1545100,
+      "word": "男子抵手机借钱店主拒收爽快给200",
+      "onboard_time": 1682070688,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131942,
       "num": 131942,
       "word": "RW对战狼队",
@@ -44865,6 +44969,14 @@
       "onboard_time": 1680585334,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122621,
+      "num": 1195069,
+      "word": "金丝猴进村觅食村民热情招待",
+      "onboard_time": 1682070630,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122439,
@@ -48971,6 +49083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 50462,
+      "num": 2208215,
+      "word": "一起回顾中国载人航天高光时刻",
+      "onboard_time": 1682069308,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50264,
       "num": 50264,
       "word": "南安普顿1比4曼城",
@@ -49241,6 +49361,14 @@
       "onboard_time": 1681720408,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38051,
+      "num": 207282,
+      "word": "灌篮高手登顶淘宝热搜",
+      "onboard_time": 1682071227,
+      "rank": 39,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 37796,
@@ -49673,14 +49801,6 @@
       "onboard_time": 1682068290,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13243,
-      "num": 839368,
-      "word": "一起回顾中国载人航天高光时刻",
-      "onboard_time": 1682069308,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12411,

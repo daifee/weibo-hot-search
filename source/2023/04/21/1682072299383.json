@@ -1,0 +1,410 @@
+{
+  "runTime": 1682072299383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3577448,
+        "num": 3577448,
+        "word": "胡先煦 发腮",
+        "onboard_time": 1682069668,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 286572,
+        "num": 2620770,
+        "word": "宝宝打针被医生哄到哭不出来",
+        "onboard_time": 1682070630,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50462,
+        "num": 2208215,
+        "word": "一起回顾中国载人航天高光时刻",
+        "onboard_time": 1682069308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2033651,
+        "num": 2033651,
+        "word": "cp29 抢票",
+        "onboard_time": 1682071769,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 131945,
+        "num": 1545100,
+        "word": "男子抵手机借钱店主拒收爽快给200",
+        "onboard_time": 1682070688,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1532662,
+        "num": 1532662,
+        "word": "原来考个本科真的很难",
+        "onboard_time": 1682058088,
+        "rank": 5,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 122621,
+        "num": 1195069,
+        "word": "金丝猴进村觅食村民热情招待",
+        "onboard_time": 1682070630,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907871,
+        "num": 907871,
+        "word": "车银优眼睛哭肿了",
+        "onboard_time": 1682063129,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748664,
+        "num": 748664,
+        "word": "选秀真的回来了",
+        "onboard_time": 1682063249,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 703298,
+        "num": 703298,
+        "word": "娜扎的耳饰好大",
+        "onboard_time": 1682067510,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 950358,
+        "num": 701101,
+        "word": "韩国网友把王宝强认成朴振英",
+        "onboard_time": 1682062410,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688464,
+        "num": 688464,
+        "word": "男方择偶条件要求女方没弟弟",
+        "onboard_time": 1682066910,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561434,
+        "num": 561434,
+        "word": "张颂文走红毯好忙",
+        "onboard_time": 1682071171,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 552151,
+        "num": 552151,
+        "word": "安以轩老公被判监禁14年",
+        "onboard_time": 1682052334,
+        "rank": 13,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 541375,
+        "num": 541375,
+        "word": "文彬",
+        "onboard_time": 1682070510,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511336,
+        "num": 511336,
+        "word": "鹿晗巡演四站官宣",
+        "onboard_time": 1682069549,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 482024,
+        "num": 482024,
+        "word": "专家称二套房贷政策是在帮助富人",
+        "onboard_time": 1682067030,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 425003,
+        "num": 425003,
+        "word": "张子枫帆布鞋配礼服",
+        "onboard_time": 1682066491,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 395616,
+        "num": 395616,
+        "word": "MINI呼吁给发冰淇淋小姐姐多些宽容",
+        "onboard_time": 1682045247,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 385622,
+        "num": 385622,
+        "word": "陈都灵紫色抹胸长裙",
+        "onboard_time": 1682068708,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2105168,
+        "num": 382295,
+        "word": "宝马mini两名发冰淇淋女生已离职",
+        "onboard_time": 1682071291,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495868,
+        "num": 380091,
+        "word": "浙大学生因辱华言论被拒录公务员",
+        "onboard_time": 1682056050,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 375033,
+        "num": 375033,
+        "word": "夫胜宽将缺席MCD录制",
+        "onboard_time": 1682069369,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351830,
+        "num": 351830,
+        "word": "倪妮 油画里的美人",
+        "onboard_time": 1682062109,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 350208,
+        "num": 350208,
+        "word": "专家称生育率降低不只因为房价高",
+        "onboard_time": 1682063730,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 328955,
+        "num": 328955,
+        "word": "史诗级灾难公关",
+        "onboard_time": 1682048308,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324129,
+        "num": 324129,
+        "word": "cpp",
+        "onboard_time": 1682072070,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 318842,
+        "num": 318842,
+        "word": "宝马蒸发市值可买约5亿个冰淇淋",
+        "onboard_time": 1682050168,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291935,
+        "num": 291935,
+        "word": "日本",
+        "onboard_time": 1682058208,
+        "rank": 28,
+        "category": "社会新闻,国外要闻"
+      },
+      {
+        "raw_hot": 286260,
+        "num": 286260,
+        "word": "周冬雨亮黄色长裙",
+        "onboard_time": 1682069190,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 278542,
+        "num": 278542,
+        "word": "不要随便改微信名",
+        "onboard_time": 1682050228,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267151,
+        "num": 267151,
+        "word": "因姓氏太罕见全村集体改姓鸭",
+        "onboard_time": 1682057968,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265489,
+        "num": 265489,
+        "word": "范丞丞坐玩具车走红毯",
+        "onboard_time": 1682071889,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265042,
+        "num": 265042,
+        "word": "北京电影节",
+        "onboard_time": 1682068169,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 261749,
+        "num": 261749,
+        "word": "最闷骚的星座",
+        "onboard_time": 1682064628,
+        "rank": 34,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 249184,
+        "num": 249184,
+        "word": "宝马mini称老外是同事",
+        "onboard_time": 1682039609,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 244970,
+        "num": 244970,
+        "word": "陈飞宇一字绑带黑西装",
+        "onboard_time": 1682068768,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229888,
+        "num": 229888,
+        "word": "中方回应日本首相向靖国神社供奉祭品",
+        "onboard_time": 1682068470,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211319,
+        "num": 211319,
+        "word": "傲寒公孙离抓到四个落单",
+        "onboard_time": 1682071830,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 38051,
+        "num": 207282,
+        "word": "灌篮高手登顶淘宝热搜",
+        "onboard_time": 1682071227,
+        "rank": 39,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 205847,
+        "num": 205847,
+        "word": "华晨宇声生不息三公上半场第一",
+        "onboard_time": 1682069727,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201012,
+        "num": 201012,
+        "word": "女子吐槽软卧车厢分配3男1女",
+        "onboard_time": 1682052697,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194718,
+        "num": 194718,
+        "word": "我心目中的现偶TOP1",
+        "onboard_time": 1682071469,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191933,
+        "num": 191933,
+        "word": "微信可免费听周杰伦",
+        "onboard_time": 1682050228,
+        "rank": 43,
+        "category": "科技,音乐"
+      },
+      {
+        "raw_hot": 188603,
+        "num": 188603,
+        "word": "郎平巩俐同框",
+        "onboard_time": 1682071052,
+        "rank": 44,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 180570,
+        "num": 180570,
+        "word": "谁是乐华的下一个王一博",
+        "onboard_time": 1682057547,
+        "rank": 45,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 174163,
+        "num": 174163,
+        "word": "宝马MINI展台仍排队领钥匙扣",
+        "onboard_time": 1682052334,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171356,
+        "num": 171356,
+        "word": "杨紫说六月份进组",
+        "onboard_time": 1682069130,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169747,
+        "num": 169747,
+        "word": "景甜素颜自拍照",
+        "onboard_time": 1682047706,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148705,
+        "num": 148705,
+        "word": "北京国际电影节明星妆造",
+        "onboard_time": 1682072251,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与应对气候变化全球治理#"
+    }
+  }
+}
