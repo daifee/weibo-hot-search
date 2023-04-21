@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682040071350,
+  "endTime": 1682041508385,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -49,6 +49,14 @@
       "onboard_time": 1682004751,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3853315,
+      "num": 3853315,
+      "word": "宝马mini称老外是同事",
+      "onboard_time": 1682039609,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 3746183,
@@ -891,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1167755,
+      "num": 1167755,
+      "word": "杜华 章昊创造了历史",
+      "onboard_time": 1682035710,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1159971,
       "num": 1159971,
       "word": "左肩有你 振兴钢厂",
@@ -953,14 +969,6 @@
       "onboard_time": 1681793316,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1070456,
-      "num": 738872,
-      "word": "杜华 章昊创造了历史",
-      "onboard_time": 1682035710,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1049291,
@@ -1091,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 971423,
+      "num": 971423,
+      "word": "夫妻嫌上班赚钱慢拍淫秽视频获刑",
+      "onboard_time": 1682035652,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965316,
       "num": 965316,
       "word": "知乎崩了",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1681992507,
       "rank": 24,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 951779,
-      "num": 951779,
-      "word": "夫妻嫌上班赚钱慢拍淫秽视频获刑",
-      "onboard_time": 1682035652,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 951121,
@@ -1201,14 +1209,6 @@
       "onboard_time": 1681971988,
       "rank": 31,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 912596,
-      "num": 517356,
-      "word": "宝马mini称老外是同事",
-      "onboard_time": 1682039609,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 909978,
@@ -1315,6 +1315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 867076,
+      "num": 867076,
+      "word": "室友私生活问题该不该插手",
+      "onboard_time": 1682037394,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
       "raw_hot": 859870,
       "num": 859870,
       "word": "莫文蔚忽然之间全场大合唱",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1681885348,
       "rank": 47,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 838847,
+      "num": 838847,
+      "word": "12306还要候补多少天",
+      "onboard_time": 1682038110,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 835795,
@@ -1531,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 728317,
-      "num": 728317,
-      "word": "室友私生活问题该不该插手",
-      "onboard_time": 1682037394,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
       "raw_hot": 727254,
       "num": 588226,
       "word": "女子入职58天迟到21次不满被辞",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1681778307,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 717870,
+      "num": 717870,
+      "word": "孕妈大笑时肚子里的宝宝",
+      "onboard_time": 1682006250,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 715541,
@@ -1683,14 +1699,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 683108,
-      "num": 683108,
-      "word": "孕妈大笑时肚子里的宝宝",
-      "onboard_time": 1682006250,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 679159,
       "num": 679159,
       "word": "上一星期班发现上错公司了",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1681741167,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662066,
-      "num": 662066,
-      "word": "12306还要候补多少天",
-      "onboard_time": 1682038110,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 661662,
@@ -1832,6 +1832,14 @@
       "word": "林惠",
       "onboard_time": 1681879230,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638904,
+      "num": 496951,
+      "word": "到宝马mini展台发冰淇淋博主发声",
+      "onboard_time": 1682040149,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -3907,6 +3915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 334118,
+      "num": 334118,
+      "word": "妈妈用方言给娃取名叫江江好",
+      "onboard_time": 1682040208,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332465,
       "num": 332465,
       "word": "李佳琦直播",
@@ -4383,6 +4399,14 @@
       "num": 308310,
       "word": "时代少年团特权码",
       "onboard_time": 1681977688,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 295326,
+      "num": 295326,
+      "word": "虞书欣翻跳Jennie新歌舞蹈",
+      "onboard_time": 1682040447,
       "rank": 19,
       "category": "作品衍生"
     },
@@ -5171,6 +5195,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 234760,
+      "num": 234760,
+      "word": "高校申请撤销专业925个",
+      "onboard_time": 1682040028,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234740,
       "num": 234740,
       "word": "oner腹肌照",
@@ -5321,6 +5353,14 @@
       "onboard_time": 1681831709,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225619,
+      "num": 225619,
+      "word": "哈登 驱逐",
+      "onboard_time": 1682041407,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 225404,
@@ -6635,6 +6675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190559,
+      "num": 190559,
+      "word": "光明日报评追熊猫不宜饭圈化",
+      "onboard_time": 1682039250,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190467,
       "num": 208180,
       "word": "多个皮皮鲁近似商标申请被驳回",
@@ -7531,6 +7579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163083,
+      "num": 163083,
+      "word": "赵露思许凯双人海报",
+      "onboard_time": 1682040987,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162953,
       "num": 162953,
       "word": "五一假期去哪个演唱会",
@@ -7825,14 +7881,6 @@
       "onboard_time": 1681861827,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154544,
-      "num": 154544,
-      "word": "光明日报评追熊猫不宜饭圈化",
-      "onboard_time": 1682039250,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154421,
@@ -8379,6 +8427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137114,
+      "num": 137114,
+      "word": "过去八年是全球有记录以来最暖的八年",
+      "onboard_time": 1682041107,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136337,
       "num": 136337,
       "word": "aespa新专概念预告视频",
@@ -8536,6 +8592,14 @@
       "word": "广东男篮vs广厦男篮",
       "onboard_time": 1681820307,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129749,
+      "num": 129749,
+      "word": "76人vs篮网",
+      "onboard_time": 1682041346,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -8851,6 +8915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120856,
+      "num": 120856,
+      "word": "民警破案后对监控比耶回应小偷挑衅",
+      "onboard_time": 1682041465,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120729,
       "num": 208560,
       "word": "陈梦晋级澳门赛16强",
@@ -9113,14 +9185,6 @@
       "onboard_time": 1681649426,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109231,
-      "num": 109231,
-      "word": "高校申请撤销专业925个",
-      "onboard_time": 1682040028,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 109129,

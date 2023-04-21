@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682040071350,
+  "endTime": 1682041508385,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -9,6 +9,14 @@
       "onboard_time": 1682004751,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3853315,
+      "num": 3853315,
+      "word": "宝马mini称老外是同事",
+      "onboard_time": 1682039609,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 3091107,
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1167755,
+      "num": 1167755,
+      "word": "杜华 章昊创造了历史",
+      "onboard_time": 1682035710,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1156763,
       "num": 1035975,
       "word": "淄博烧烤店老板多算钱隔天加微信退还",
@@ -59,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1070456,
-      "num": 738872,
-      "word": "杜华 章昊创造了历史",
-      "onboard_time": 1682035710,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 981896,
       "num": 440932,
       "word": "韩维辰",
@@ -75,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 951779,
-      "num": 951779,
+      "raw_hot": 971423,
+      "num": 971423,
       "word": "夫妻嫌上班赚钱慢拍淫秽视频获刑",
       "onboard_time": 1682035652,
       "rank": 1,
@@ -91,12 +99,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 912596,
-      "num": 517356,
-      "word": "宝马mini称老外是同事",
-      "onboard_time": 1682039609,
-      "rank": 11,
-      "category": "科技"
+      "raw_hot": 867076,
+      "num": 867076,
+      "word": "室友私生活问题该不该插手",
+      "onboard_time": 1682037394,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 838847,
+      "num": 838847,
+      "word": "12306还要候补多少天",
+      "onboard_time": 1682038110,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 835320,
@@ -115,16 +131,8 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 728317,
-      "num": 728317,
-      "word": "室友私生活问题该不该插手",
-      "onboard_time": 1682037394,
-      "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 683108,
-      "num": 683108,
+      "raw_hot": 717870,
+      "num": 717870,
       "word": "孕妈大笑时肚子里的宝宝",
       "onboard_time": 1682006250,
       "rank": 21,
@@ -139,12 +147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 662066,
-      "num": 662066,
-      "word": "12306还要候补多少天",
-      "onboard_time": 1682038110,
-      "rank": 7,
-      "category": "情感"
+      "raw_hot": 638904,
+      "num": 496951,
+      "word": "到宝马mini展台发冰淇淋博主发声",
+      "onboard_time": 1682040149,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587112,
@@ -275,6 +283,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 334118,
+      "num": 334118,
+      "word": "妈妈用方言给娃取名叫江江好",
+      "onboard_time": 1682040208,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329937,
       "num": 329937,
       "word": "官方通报摊主被陌生人贴膏药后晕倒",
@@ -305,6 +321,14 @@
       "onboard_time": 1681987048,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 295326,
+      "num": 295326,
+      "word": "虞书欣翻跳Jennie新歌舞蹈",
+      "onboard_time": 1682040447,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294561,
@@ -363,6 +387,22 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 234760,
+      "num": 234760,
+      "word": "高校申请撤销专业925个",
+      "onboard_time": 1682040028,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 225619,
+      "num": 225619,
+      "word": "哈登 驱逐",
+      "onboard_time": 1682041407,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216655,
       "num": 216655,
       "word": "ZB1前五中国人含量比INTO1都高",
@@ -409,6 +449,14 @@
       "onboard_time": 1682001757,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190559,
+      "num": 190559,
+      "word": "光明日报评追熊猫不宜饭圈化",
+      "onboard_time": 1682039250,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188095,
@@ -467,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154544,
-      "num": 154544,
-      "word": "光明日报评追熊猫不宜饭圈化",
-      "onboard_time": 1682039250,
+      "raw_hot": 163083,
+      "num": 163083,
+      "word": "赵露思许凯双人海报",
+      "onboard_time": 1682040987,
       "rank": 36,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 153004,
@@ -499,6 +547,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 137114,
+      "num": 137114,
+      "word": "过去八年是全球有记录以来最暖的八年",
+      "onboard_time": 1682041107,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134946,
       "num": 134946,
       "word": "小伙凌晨爬楼托举卡头男童近1小时",
@@ -508,7 +564,7 @@
     },
     {
       "raw_hot": 132122,
-      "num": 957205,
+      "num": 1311002,
       "word": "中国航天下一站去哪",
       "onboard_time": 1682001453,
       "rank": 2,
@@ -520,6 +576,14 @@
       "word": "快船vs太阳",
       "onboard_time": 1682038948,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129749,
+      "num": 129749,
+      "word": "76人vs篮网",
+      "onboard_time": 1682041346,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -563,6 +627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 120856,
+      "num": 120856,
+      "word": "民警破案后对监控比耶回应小偷挑衅",
+      "onboard_time": 1682041465,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115611,
       "num": 115611,
       "word": "张杰第九次唱别怕我伤心",
@@ -585,14 +657,6 @@
       "onboard_time": 1682039968,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 109231,
-      "num": 109231,
-      "word": "高校申请撤销专业925个",
-      "onboard_time": 1682040028,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 106126,
