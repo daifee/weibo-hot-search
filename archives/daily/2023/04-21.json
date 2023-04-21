@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682048027583,
+  "endTime": 1682050867506,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -27,6 +27,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2621843,
+      "num": 2621843,
+      "word": "MINI呼吁给发冰淇淋小姐姐多些宽容",
+      "onboard_time": 1682045247,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 2536407,
+      "num": 2536407,
+      "word": "史诗级灾难公关",
+      "onboard_time": 1682048308,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1970557,
       "num": 1970557,
       "word": "台湾17岁少年街头扫射42枪",
@@ -51,12 +67,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1462348,
-      "num": 1462348,
-      "word": "MINI呼吁给发冰淇淋小姐姐多些宽容",
-      "onboard_time": 1682045247,
-      "rank": 6,
-      "category": "科技,社会新闻"
+      "raw_hot": 1463256,
+      "num": 1463256,
+      "word": "面试时叫了面试官宝贝",
+      "onboard_time": 1682047467,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1353711,
@@ -107,8 +123,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1008685,
-      "num": 1008685,
+      "raw_hot": 1011541,
+      "num": 1011541,
       "word": "夫妻嫌上班赚钱慢拍淫秽视频获刑",
       "onboard_time": 1682035652,
       "rank": 1,
@@ -145,6 +161,14 @@
       "onboard_time": 1682002358,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 894538,
+      "num": 460231,
+      "word": "景甜素颜自拍照",
+      "onboard_time": 1682047706,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 838847,
@@ -267,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 519575,
-      "num": 199667,
-      "word": "面试时叫了面试官宝贝",
-      "onboard_time": 1682047467,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 518934,
       "num": 518934,
       "word": "特斯拉市值一夜蒸发超550亿美元",
@@ -355,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413638,
+      "num": 413638,
+      "word": "微信可免费听周杰伦",
+      "onboard_time": 1682050228,
+      "rank": 17,
+      "category": "科技,音乐"
+    },
+    {
       "raw_hot": 409501,
       "num": 246962,
       "word": "澹台烬选择救叶冰裳的原因",
@@ -377,6 +401,14 @@
       "onboard_time": 1682002896,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402360,
+      "num": 402360,
+      "word": "乐华娱乐股票大涨",
+      "onboard_time": 1682046326,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 400080,
@@ -403,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379473,
+      "num": 379473,
+      "word": "宝马蒸发市值可买约5亿个冰淇淋",
+      "onboard_time": 1682050168,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 369858,
       "num": 317743,
       "word": "摸小奶猫被猫妈妈婉拒了",
@@ -427,6 +467,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 353449,
+      "num": 353449,
+      "word": "鹿晗重启视频情绪点拉满",
+      "onboard_time": 1682050168,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 334118,
       "num": 334118,
       "word": "妈妈用方言给娃取名叫江江好",
@@ -440,6 +488,14 @@
       "word": "官方通报摊主被陌生人贴膏药后晕倒",
       "onboard_time": 1682035047,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320556,
+      "num": 320556,
+      "word": "女员工收到男领导微信称梦中与你亲热",
+      "onboard_time": 1682048189,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -459,6 +515,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 312240,
+      "num": 312240,
+      "word": "中国科学家算出了银河系体重",
+      "onboard_time": 1682046148,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 309437,
       "num": 309437,
       "word": "南京Hero",
@@ -473,14 +537,6 @@
       "onboard_time": 1682041948,
       "rank": 18,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 298388,
-      "num": 298388,
-      "word": "乐华娱乐股票大涨",
-      "onboard_time": 1682046326,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 296015,
@@ -507,14 +563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 290029,
-      "num": 290029,
-      "word": "中国科学家算出了银河系体重",
-      "onboard_time": 1682046148,
-      "rank": 36,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 288549,
       "num": 288549,
       "word": "林更新吃生筋皮",
@@ -539,20 +587,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 282443,
+      "num": 282443,
+      "word": "A股",
+      "onboard_time": 1682049870,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 274591,
       "num": 274591,
       "word": "LCK亚运会预选阵容",
       "onboard_time": 1682046027,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 260040,
-      "num": 199503,
-      "word": "景甜素颜自拍照",
-      "onboard_time": 1682047706,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 257668,
@@ -579,12 +627,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 249843,
+      "num": 249843,
+      "word": "图书馆有存在的必要么",
+      "onboard_time": 1682050289,
+      "rank": 28,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 236026,
       "num": 236026,
       "word": "流川枫传球给樱木花道",
       "onboard_time": 1682006309,
       "rank": 23,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 235272,
+      "num": 201357,
+      "word": "不要随便改微信名",
+      "onboard_time": 1682050228,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 230922,
@@ -641,6 +705,14 @@
       "onboard_time": 1682036911,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202526,
+      "num": 202526,
+      "word": "金起范悼念文彬",
+      "onboard_time": 1682049028,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 201797,
@@ -739,12 +811,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170862,
+      "num": 170862,
+      "word": "中国的土地收回来绝不会再失去",
+      "onboard_time": 1682049991,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 165496,
       "num": 165496,
       "word": "ZB1",
       "onboard_time": 1682032703,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162565,
+      "num": 162565,
+      "word": "电影志愿军定档国庆",
+      "onboard_time": 1682050713,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 153247,
@@ -785,6 +873,30 @@
       "onboard_time": 1681991487,
       "rank": 36,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 149612,
+      "num": 157553,
+      "word": "朱一龙志愿军角色亮相视频",
+      "onboard_time": 1682049268,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 148871,
+      "num": 148871,
+      "word": "清洁工大叔花三个月工资给孩子买手机",
+      "onboard_time": 1682050652,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147095,
+      "num": 147095,
+      "word": "陈鑫海新剧浴缸吻",
+      "onboard_time": 1682050228,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 142121,
@@ -937,6 +1049,14 @@
       "onboard_time": 1681998331,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103560,
+      "num": 1817418,
+      "word": "以漫画方式打开中国宝藏县城",
+      "onboard_time": 1682048428,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101884,
@@ -1097,6 +1217,9 @@
     },
     {
       "word": "#中加友好始终坚如磐石#"
+    },
+    {
+      "word": "#积极参与应对气候变化全球治理#"
     }
   ]
 }
