@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682041508385,
+  "endTime": 1682044444779,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -33,6 +33,14 @@
       "onboard_time": 1682035288,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1491119,
+      "num": 1491119,
+      "word": "室友私生活问题该不该插手",
+      "onboard_time": 1682037394,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1338844,
@@ -91,20 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 951309,
+      "num": 951309,
+      "word": "生活费一千五大学生存款6万",
+      "onboard_time": 1682043026,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 933722,
+      "num": 933722,
+      "word": "到宝马mini展台发冰淇淋博主发声",
+      "onboard_time": 1682040149,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 917770,
       "num": 693254,
       "word": "BoysPlanet成团排名",
       "onboard_time": 1682002358,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 867076,
-      "num": 867076,
-      "word": "室友私生活问题该不该插手",
-      "onboard_time": 1682037394,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 838847,
@@ -147,12 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 638904,
-      "num": 496951,
-      "word": "到宝马mini展台发冰淇淋博主发声",
-      "onboard_time": 1682040149,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 644992,
+      "num": 472536,
+      "word": "反问式道歉",
+      "onboard_time": 1682043208,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 617523,
+      "num": 617523,
+      "word": "哈登 驱逐",
+      "onboard_time": 1682041407,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 587112,
@@ -211,6 +235,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 483597,
+      "num": 483597,
+      "word": "虞书欣翻跳Jennie新歌舞蹈",
+      "onboard_time": 1682040447,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 453884,
+      "num": 453884,
+      "word": "赵露思许凯双人海报",
+      "onboard_time": 1682040987,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 453807,
       "num": 453807,
       "word": "最后一个上救生艇的孩子是老师的",
@@ -251,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 406012,
+      "num": 406012,
+      "word": "高校申请撤销专业925个",
+      "onboard_time": 1682040028,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 403048,
       "num": 403048,
       "word": "物业回应男童从27层坠楼离世",
@@ -275,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392791,
+      "num": 392791,
+      "word": "成都烧烤为什么被大家吐槽",
+      "onboard_time": 1682042548,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 359890,
       "num": 359890,
       "word": "榴莲批发价1斤低至20元",
       "onboard_time": 1682032042,
       "rank": 33,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 357066,
+      "num": 298454,
+      "word": "摸小奶猫被猫妈妈婉拒了",
+      "onboard_time": 1682041948,
+      "rank": 20,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 334118,
@@ -307,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314371,
+      "num": 314371,
+      "word": "刘诗诗赵丽颖上城士背影图",
+      "onboard_time": 1682043807,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 314311,
       "num": 314311,
       "word": "灌篮高手",
@@ -315,20 +387,20 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 307970,
+      "num": 307970,
+      "word": "福州防空警报",
+      "onboard_time": 1682041948,
+      "rank": 18,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 295491,
       "num": 246273,
       "word": "很喜欢但停产了的东西",
       "onboard_time": 1681987048,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 295326,
-      "num": 295326,
-      "word": "虞书欣翻跳Jennie新歌舞蹈",
-      "onboard_time": 1682040447,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 294561,
@@ -353,6 +425,14 @@
       "onboard_time": 1682009782,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279091,
+      "num": 279091,
+      "word": "观影灌篮高手的仪式感是撞衫",
+      "onboard_time": 1682043746,
+      "rank": 21,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 257668,
@@ -387,20 +467,28 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 234760,
-      "num": 234760,
-      "word": "高校申请撤销专业925个",
-      "onboard_time": 1682040028,
-      "rank": 48,
-      "category": "教育"
+      "raw_hot": 230922,
+      "num": 230922,
+      "word": "国王vs勇士",
+      "onboard_time": 1682043926,
+      "rank": 26,
+      "category": "体育"
     },
     {
-      "raw_hot": 225619,
-      "num": 225619,
-      "word": "哈登 驱逐",
-      "onboard_time": 1682041407,
+      "raw_hot": 230575,
+      "num": 230575,
+      "word": "中国说唱巅峰对决方言喊话官宣",
+      "onboard_time": 1682043686,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221624,
+      "num": 221624,
+      "word": "林更新吃生筋皮",
+      "onboard_time": 1682043567,
       "rank": 28,
-      "category": "体育"
+      "category": "综艺"
     },
     {
       "raw_hot": 216655,
@@ -433,6 +521,14 @@
       "onboard_time": 1682036911,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205612,
+      "num": 205612,
+      "word": "五一民宿预订现涨价毁约潮",
+      "onboard_time": 1682043328,
+      "rank": 29,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 201797,
@@ -499,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176446,
+      "num": 176446,
+      "word": "乐华五进四",
+      "onboard_time": 1682043447,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175391,
       "num": 175391,
       "word": "小象是如何揉眼睛的",
@@ -515,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163083,
-      "num": 163083,
-      "word": "赵露思许凯双人海报",
-      "onboard_time": 1682040987,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 157661,
+      "num": 157661,
+      "word": "韩维辰下舞台第一时间找妈妈",
+      "onboard_time": 1682044049,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 153004,
@@ -545,6 +649,14 @@
       "onboard_time": 1681991487,
       "rank": 36,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 142121,
+      "num": 142121,
+      "word": "民警破案后对监控比耶回应小偷挑衅",
+      "onboard_time": 1682041465,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137114,
@@ -603,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126724,
+      "num": 118154,
+      "word": "keita可惜",
+      "onboard_time": 1682042248,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125582,
       "num": 125582,
       "word": "重庆小学都没得鸳鸯锅了",
@@ -627,10 +747,10 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 120856,
-      "num": 120856,
-      "word": "民警破案后对监控比耶回应小偷挑衅",
-      "onboard_time": 1682041465,
+      "raw_hot": 116774,
+      "num": 116774,
+      "word": "医生为安慰患者主动透露自己患癌",
+      "onboard_time": 1682044166,
       "rank": 45,
       "category": "社会新闻"
     },
