@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682094181559,
+  "endTime": 1682095086036,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -145,6 +145,14 @@
       "onboard_time": 1682058088,
       "rank": 46,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 3207478,
+      "num": 3207478,
+      "word": "李晨 女生是累赘",
+      "onboard_time": 1682094505,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 3148219,
@@ -2843,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527681,
+      "num": 527681,
+      "word": "5岁女孩被拐26年后回家父母双亡",
+      "onboard_time": 1682091928,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526055,
       "num": 526055,
       "word": "李秀满卖掉SMTOWN旧楼",
@@ -2968,14 +2984,6 @@
       "word": "女子因心情不好扔掉7万元",
       "onboard_time": 1681873466,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499111,
-      "num": 499111,
-      "word": "5岁女孩被拐26年后回家父母双亡",
-      "onboard_time": 1682091928,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -3265,6 +3273,14 @@
       "onboard_time": 1681792715,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 466606,
+      "num": 466606,
+      "word": "男子网恋6年转142万对方是舅妈",
+      "onboard_time": 1682091209,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464455,
@@ -3811,14 +3827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 404023,
-      "num": 404023,
-      "word": "男子网恋6年转142万对方是舅妈",
-      "onboard_time": 1682091209,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 402826,
       "num": 402826,
       "word": "岸田文雄向靖国神社供奉祭品",
@@ -3857,6 +3865,14 @@
       "onboard_time": 1681742010,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399176,
+      "num": 399176,
+      "word": "成都基地回应大熊猫福禄疑淋雨",
+      "onboard_time": 1682092649,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397380,
@@ -5753,14 +5769,6 @@
       "onboard_time": 1682046027,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 272934,
-      "num": 272934,
-      "word": "成都基地回应大熊猫福禄疑淋雨",
-      "onboard_time": 1682092649,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272700,
@@ -7721,6 +7729,14 @@
       "onboard_time": 1682043447,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197569,
+      "num": 197569,
+      "word": "专家建议去旅游度假城市买房",
+      "onboard_time": 1682093786,
+      "rank": 46,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 197304,
@@ -11659,14 +11675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76225,
-      "num": 96830,
-      "word": "专家建议去旅游度假城市买房",
-      "onboard_time": 1682093786,
-      "rank": 46,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 75840,
       "num": 131271,
       "word": "周杰伦战队夺冠",
@@ -11769,6 +11777,14 @@
       "onboard_time": 1682007746,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64770,
+      "num": 84172,
+      "word": "高中生演绎话剧雷雨演技超强",
+      "onboard_time": 1682093427,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 62619,

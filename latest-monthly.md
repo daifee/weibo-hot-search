@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/22 00:23:01
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/22 00:38:06
 </p>
 </blockquote>
 <p>
@@ -311,6 +311,12 @@ BoysPlanet成团排名（热度：3746183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E7%A7%91%E5%A4%A7%E5%AE%BF%E8%88%8D%E8%A2%AB%E9%9B%B7%E5%8A%88%E4%BA%86%23" target="weibo">
 华科大宿舍被雷劈了（热度：3212571）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%20%E5%A5%B3%E7%94%9F%E6%98%AF%E7%B4%AF%E8%B5%98%23" target="weibo">
+李晨 女生是累赘（热度：3207478）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ CETC陈志龙（热度：719911）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E9%81%93%20%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E8%AE%B0%E5%BE%97%E5%8D%95%E5%9D%87%E6%98%8A%E5%92%8C%E5%8F%B6%E5%A4%A9%E5%96%BB%23" target="weibo">
 明道 感谢大家记得单均昊和叶天喻（热度：705507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Doinb%E6%8A%8A%E5%86%A0%E5%86%9B%E5%A5%96%E6%9D%AF%E6%94%BE%E5%9C%B0%E4%B8%8A%23" target="weibo">
-Doinb把冠军奖杯放地上（热度：705477）
 </a>
 </li>
 
