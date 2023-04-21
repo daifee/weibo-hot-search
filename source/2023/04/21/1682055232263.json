@@ -1,0 +1,410 @@
+{
+  "runTime": 1682055232263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2820152,
+        "num": 2820152,
+        "word": "安以轩老公被判监禁14年",
+        "onboard_time": 1682052334,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 2050329,
+        "num": 2050329,
+        "word": "MINI呼吁给发冰淇淋小姐姐多些宽容",
+        "onboard_time": 1682045247,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 89327,
+        "num": 1719070,
+        "word": "以漫画方式打开中国宝藏县城",
+        "onboard_time": 1682048428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1685134,
+        "num": 1685134,
+        "word": "不要随便改微信名",
+        "onboard_time": 1682050228,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1512874,
+        "num": 1512874,
+        "word": "宝马蒸发市值可买约5亿个冰淇淋",
+        "onboard_time": 1682050168,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1506789,
+        "num": 1506789,
+        "word": "面试时叫了面试官宝贝",
+        "onboard_time": 1682047467,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1004703,
+        "num": 1004703,
+        "word": "微信可免费听周杰伦",
+        "onboard_time": 1682050228,
+        "rank": 6,
+        "category": "科技,音乐"
+      },
+      {
+        "raw_hot": 900588,
+        "num": 900588,
+        "word": "女子吐槽软卧车厢分配3男1女",
+        "onboard_time": 1682052697,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735275,
+        "num": 735275,
+        "word": "日本90名国会议员集体参拜靖国神社",
+        "onboard_time": 1682051975,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520770,
+        "num": 520770,
+        "word": "向往的生活第七季即将播出",
+        "onboard_time": 1682053353,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2934136,
+        "num": 520582,
+        "word": "史诗级灾难公关",
+        "onboard_time": 1682048308,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164665,
+        "num": 520559,
+        "word": "宝马mini称老外是同事",
+        "onboard_time": 1682039609,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 676920,
+        "num": 520184,
+        "word": "宝马MINI展台仍排队领钥匙扣",
+        "onboard_time": 1682052334,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632853,
+        "num": 520105,
+        "word": "景甜素颜自拍照",
+        "onboard_time": 1682047706,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519971,
+        "num": 519971,
+        "word": "90后女生睡觉打呼噜获赔5万",
+        "onboard_time": 1682052334,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506132,
+        "num": 506132,
+        "word": "宝马股价",
+        "onboard_time": 1682051975,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 472961,
+        "num": 472961,
+        "word": "生活费一千五大学生存款6万",
+        "onboard_time": 1682043026,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 458890,
+        "num": 458890,
+        "word": "到宝马mini展台发冰淇淋博主发声",
+        "onboard_time": 1682040149,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454001,
+        "num": 454001,
+        "word": "罗云熙白鹿时尚芭莎",
+        "onboard_time": 1682044767,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 411739,
+        "num": 411739,
+        "word": "张杰沈阳",
+        "onboard_time": 1682051614,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402826,
+        "num": 402826,
+        "word": "岸田文雄向靖国神社供奉祭品",
+        "onboard_time": 1682051192,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369931,
+        "num": 369931,
+        "word": "杜华 章昊创造了历史",
+        "onboard_time": 1682035710,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345633,
+        "num": 345633,
+        "word": "于正也曾喊话长月烬明制片方",
+        "onboard_time": 1682052034,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342277,
+        "num": 342277,
+        "word": "向往的生活",
+        "onboard_time": 1682053769,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331256,
+        "num": 331256,
+        "word": "易烊千玺再现刘艳芬小红帽",
+        "onboard_time": 1682051494,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 286917,
+        "num": 286917,
+        "word": "夫妻嫌上班赚钱慢拍淫秽视频获刑",
+        "onboard_time": 1682035652,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252698,
+        "num": 252698,
+        "word": "鹿晗重启视频情绪点拉满",
+        "onboard_time": 1682050168,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251363,
+        "num": 251363,
+        "word": "长月烬明编剧",
+        "onboard_time": 1682044586,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 251328,
+        "num": 251328,
+        "word": "大学男生 关水阀",
+        "onboard_time": 1682045006,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 250849,
+        "num": 250849,
+        "word": "乐华娱乐股票大涨",
+        "onboard_time": 1682046326,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237699,
+        "num": 237699,
+        "word": "A股",
+        "onboard_time": 1682049870,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 232315,
+        "num": 232315,
+        "word": "疑似长月烬明编剧回应",
+        "onboard_time": 1682051434,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231593,
+        "num": 231593,
+        "word": "刘诗诗赵丽颖上城士背影图",
+        "onboard_time": 1682043807,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222379,
+        "num": 222379,
+        "word": "蔡徐坤的女友视角视频",
+        "onboard_time": 1682054312,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217246,
+        "num": 217246,
+        "word": "中国人均读书每年5本",
+        "onboard_time": 1682055210,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213496,
+        "num": 213496,
+        "word": "宝马MINI两次道歉为何网友不买帐",
+        "onboard_time": 1682054731,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205337,
+        "num": 205337,
+        "word": "一诺登场KPL五周年",
+        "onboard_time": 1682054911,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204699,
+        "num": 204699,
+        "word": "大屏上的肖战",
+        "onboard_time": 1682051733,
+        "rank": 37,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 200633,
+        "num": 200633,
+        "word": "清洁工大叔花三个月工资给孩子买手机",
+        "onboard_time": 1682050652,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195642,
+        "num": 195642,
+        "word": "金靖说王一博你长滴可得劲儿",
+        "onboard_time": 1682051614,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193274,
+        "num": 193274,
+        "word": "台湾17岁少年街头扫射42枪",
+        "onboard_time": 1682035288,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187511,
+        "num": 187511,
+        "word": "陈鑫海新剧浴缸吻",
+        "onboard_time": 1682050228,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187335,
+        "num": 187335,
+        "word": "摸小奶猫被猫妈妈婉拒了",
+        "onboard_time": 1682041948,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 185470,
+        "num": 185470,
+        "word": "女员工收到男领导微信称梦中与你亲热",
+        "onboard_time": 1682048189,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185110,
+        "num": 185110,
+        "word": "图书馆有存在的必要么",
+        "onboard_time": 1682050289,
+        "rank": 44,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 184579,
+        "num": 184579,
+        "word": "库里36分",
+        "onboard_time": 1682053056,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174017,
+        "num": 174017,
+        "word": "网易云十年听歌报告",
+        "onboard_time": 1682053653,
+        "rank": 46,
+        "category": "音乐,科技"
+      },
+      {
+        "raw_hot": 172608,
+        "num": 172608,
+        "word": "严浩翔应援法视频",
+        "onboard_time": 1682054493,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128021,
+        "num": 168636,
+        "word": "成都烧烤为什么被大家吐槽",
+        "onboard_time": 1682042548,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106286,
+        "num": 166337,
+        "word": "南京Hero",
+        "onboard_time": 1682046926,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与应对气候变化全球治理#"
+    }
+  }
+}

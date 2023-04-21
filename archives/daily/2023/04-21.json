@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682054187671,
+  "endTime": 1682055232263,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -67,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1685134,
+      "num": 1685134,
+      "word": "不要随便改微信名",
+      "onboard_time": 1682050228,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1645371,
       "num": 1645371,
       "word": "面试时叫了面试官宝贝",
@@ -89,14 +97,6 @@
       "onboard_time": 1682037394,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1475327,
-      "num": 1475327,
-      "word": "不要随便改微信名",
-      "onboard_time": 1682050228,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 1353711,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1110669,
-      "num": 521342,
+      "num": 1004703,
       "word": "微信可免费听周杰伦",
       "onboard_time": 1682050228,
       "rank": 17,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 942683,
-      "num": 516280,
+      "num": 520105,
       "word": "景甜素颜自拍照",
       "onboard_time": 1682047706,
       "rank": 32,
@@ -209,6 +209,14 @@
       "onboard_time": 1682002358,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 900588,
+      "num": 900588,
+      "word": "女子吐槽软卧车厢分配3男1女",
+      "onboard_time": 1682052697,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838847,
@@ -307,14 +315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 616282,
-      "num": 505760,
-      "word": "女子吐槽软卧车厢分配3男1女",
-      "onboard_time": 1682052697,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587112,
       "num": 424996,
       "word": "陈都灵采访 会说话有逻辑",
@@ -363,6 +363,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 520770,
+      "num": 520770,
+      "word": "向往的生活第七季即将播出",
+      "onboard_time": 1682053353,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 519971,
+      "num": 519971,
+      "word": "90后女生睡觉打呼噜获赔5万",
+      "onboard_time": 1682052334,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 518934,
       "num": 518934,
       "word": "特斯拉市值一夜蒸发超550亿美元",
@@ -393,14 +409,6 @@
       "onboard_time": 1682036128,
       "rank": 14,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 485173,
-      "num": 485173,
-      "word": "90后女生睡觉打呼噜获赔5万",
-      "onboard_time": 1682052334,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483597,
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402826,
+      "num": 402826,
+      "word": "岸田文雄向靖国神社供奉祭品",
+      "onboard_time": 1682051192,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400080,
       "num": 400080,
       "word": "五一民宿预订现涨价毁约潮",
@@ -529,22 +545,6 @@
       "onboard_time": 1682052034,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 379115,
-      "num": 379115,
-      "word": "岸田文雄向靖国神社供奉祭品",
-      "onboard_time": 1682051192,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378331,
-      "num": 378331,
-      "word": "向往的生活第七季即将播出",
-      "onboard_time": 1682053353,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 369858,
@@ -585,6 +585,14 @@
       "onboard_time": 1682048189,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342277,
+      "num": 342277,
+      "word": "向往的生活",
+      "onboard_time": 1682053769,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 334118,
@@ -715,14 +723,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 270262,
-      "num": 270262,
-      "word": "向往的生活",
-      "onboard_time": 1682053769,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 257668,
       "num": 257668,
       "word": "澹台烬醋坛子炸了",
@@ -819,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222379,
+      "num": 222379,
+      "word": "蔡徐坤的女友视角视频",
+      "onboard_time": 1682054312,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221703,
       "num": 221703,
       "word": "库里36分",
@@ -833,6 +841,14 @@
       "onboard_time": 1682047887,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217246,
+      "num": 217246,
+      "word": "中国人均读书每年5本",
+      "onboard_time": 1682055210,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216655,
@@ -857,6 +873,14 @@
       "onboard_time": 1682051733,
       "rank": 41,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 213496,
+      "num": 213496,
+      "word": "宝马MINI两次道歉为何网友不买帐",
+      "onboard_time": 1682054731,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212556,
@@ -889,6 +913,14 @@
       "onboard_time": 1682051614,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205337,
+      "num": 205337,
+      "word": "一诺登场KPL五周年",
+      "onboard_time": 1682054911,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 202526,
@@ -1017,6 +1049,14 @@
       "onboard_time": 1681998871,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 172608,
+      "num": 172608,
+      "word": "严浩翔应援法视频",
+      "onboard_time": 1682054493,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 165496,
