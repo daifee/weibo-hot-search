@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682080354203,
+  "endTime": 1682081338553,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -4683,6 +4683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1019315,
+      "num": 1019315,
+      "word": "章子怡的脸能打",
+      "onboard_time": 1682079570,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1018060,
       "num": 1018060,
       "word": "孙悟空",
@@ -6915,6 +6923,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 786755,
+      "num": 786755,
+      "word": "白鹿 孙珍妮",
+      "onboard_time": 1682079688,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 785780,
       "num": 314476,
       "word": "夫妻结婚6年因3岁儿子转学想离婚",
@@ -7593,6 +7609,14 @@
       "onboard_time": 1681284265,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 724331,
+      "num": 724331,
+      "word": "下雪",
+      "onboard_time": 1682079270,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 723604,
@@ -8361,14 +8385,6 @@
       "onboard_time": 1682051975,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 680049,
-      "num": 680049,
-      "word": "章子怡的脸能打",
-      "onboard_time": 1682079570,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 679880,
@@ -17955,6 +17971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356803,
+      "num": 356803,
+      "word": "上海车展多家展商免费派发冰淇淋",
+      "onboard_time": 1682078549,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356740,
       "num": 356740,
       "word": "迪丽热巴到达贵阳",
@@ -18529,14 +18553,6 @@
       "onboard_time": 1680659491,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 345914,
-      "num": 256333,
-      "word": "白鹿 孙珍妮",
-      "onboard_time": 1682079688,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 345902,
@@ -21051,14 +21067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299744,
-      "num": 458086,
-      "word": "下雪",
-      "onboard_time": 1682079270,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299103,
       "num": 299103,
       "word": "白鹿说长月烬明比周生如故更虐",
@@ -23251,14 +23259,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 265703,
-      "num": 265703,
-      "word": "上海车展多家展商免费派发冰淇淋",
-      "onboard_time": 1682078549,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265674,
       "num": 265674,
       "word": "青山刚昌 端水",
@@ -24065,6 +24065,14 @@
       "onboard_time": 1681641146,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255169,
+      "num": 208211,
+      "word": "哇唧唧哇 空座",
+      "onboard_time": 1682081130,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 255126,
@@ -25019,6 +25027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244011,
+      "num": 182950,
+      "word": "张子枫 C位烫脚",
+      "onboard_time": 1682081250,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243856,
       "num": 243856,
       "word": "周觅solo舞台",
@@ -25401,6 +25417,14 @@
       "onboard_time": 1681118308,
       "rank": 38,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 238749,
+      "num": 238749,
+      "word": "司机拦住特警巡逻车救了自己一命",
+      "onboard_time": 1682077470,
+      "rank": 24,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 238735,
@@ -26921,14 +26945,6 @@
       "onboard_time": 1681964252,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 224126,
-      "num": 224126,
-      "word": "司机拦住特警巡逻车救了自己一命",
-      "onboard_time": 1682077470,
-      "rank": 24,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 224006,
@@ -28787,6 +28803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209438,
+      "num": 179241,
+      "word": "何悯鸿恋爱脑",
+      "onboard_time": 1682080649,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209379,
       "num": 209379,
       "word": "檀健次晒与丁程鑫合照",
@@ -29105,6 +29129,14 @@
       "onboard_time": 1681009587,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208009,
+      "num": 208009,
+      "word": "TTG bp我没懂",
+      "onboard_time": 1682080709,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 207959,
@@ -31241,6 +31273,14 @@
       "onboard_time": 1681308153,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201364,
+      "num": 400189,
+      "word": "北影节红毯男星造型",
+      "onboard_time": 1682078430,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 201314,
@@ -37259,6 +37299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176362,
+      "num": 176362,
+      "word": "父母姓氏组合而来的名字",
+      "onboard_time": 1682076389,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 176302,
       "num": 176302,
       "word": "白鲨挺进春决会师AG",
@@ -37579,6 +37627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173903,
+      "num": 154288,
+      "word": "欢乐颂",
+      "onboard_time": 1682078909,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173895,
       "num": 151665,
       "word": "入魔后的桑酒",
@@ -37649,14 +37705,6 @@
       "onboard_time": 1681882168,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173005,
-      "num": 154288,
-      "word": "欢乐颂",
-      "onboard_time": 1682078909,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 172982,
@@ -41529,14 +41577,6 @@
       "onboard_time": 1681647625,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 149006,
-      "num": 149006,
-      "word": "父母姓氏组合而来的名字",
-      "onboard_time": 1682076389,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 148900,
@@ -48235,14 +48275,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 85710,
-      "num": 400189,
-      "word": "北影节红毯男星造型",
-      "onboard_time": 1682078430,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 85672,
       "num": 85672,
       "word": "陈少熙昆曲表演玉簪记",
@@ -49275,7 +49307,7 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 52713,
+      "raw_hot": 52927,
       "num": 2208215,
       "word": "一起回顾中国载人航天高光时刻",
       "onboard_time": 1682069308,

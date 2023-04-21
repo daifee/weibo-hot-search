@@ -1,0 +1,410 @@
+{
+  "runTime": 1682081338553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1808079,
+        "num": 1808079,
+        "word": "赵小棠红毯摔倒",
+        "onboard_time": 1682072851,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1283428,
+        "num": 1283428,
+        "word": "胡先煦 发腮",
+        "onboard_time": 1682069668,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52927,
+        "num": 1175650,
+        "word": "一起回顾中国载人航天高光时刻",
+        "onboard_time": 1682069308,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132802,
+        "num": 1132802,
+        "word": "魏晨状态",
+        "onboard_time": 1682076267,
+        "rank": 3,
+        "category": "影视,时尚"
+      },
+      {
+        "raw_hot": 1019315,
+        "num": 1019315,
+        "word": "章子怡的脸能打",
+        "onboard_time": 1682079570,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 786755,
+        "num": 786755,
+        "word": "白鹿 孙珍妮",
+        "onboard_time": 1682079688,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 724331,
+        "num": 724331,
+        "word": "下雪",
+        "onboard_time": 1682079270,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462319,
+        "num": 462319,
+        "word": "原来考个本科真的很难",
+        "onboard_time": 1682058088,
+        "rank": 7,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 439758,
+        "num": 439758,
+        "word": "殡葬业有多赚钱",
+        "onboard_time": 1682075787,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391262,
+        "num": 391262,
+        "word": "男方择偶条件要求女方没弟弟",
+        "onboard_time": 1682066910,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703627,
+        "num": 391193,
+        "word": "白百何说自己掉了1.2斤脂肪",
+        "onboard_time": 1682072911,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 683272,
+        "num": 382865,
+        "word": "周也 冷脸小白花",
+        "onboard_time": 1682072911,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576949,
+        "num": 378263,
+        "word": "宝马MINI",
+        "onboard_time": 1682075491,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519011,
+        "num": 374181,
+        "word": "娜扎的耳饰好大",
+        "onboard_time": 1682067510,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201364,
+        "num": 364929,
+        "word": "北影节红毯男星造型",
+        "onboard_time": 1682078430,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 364447,
+        "num": 364447,
+        "word": "B站崩了",
+        "onboard_time": 1682072549,
+        "rank": 15,
+        "category": "动漫,科技"
+      },
+      {
+        "raw_hot": 362165,
+        "num": 362165,
+        "word": "张子枫帆布鞋配礼服",
+        "onboard_time": 1682066491,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 356803,
+        "num": 356803,
+        "word": "上海车展多家展商免费派发冰淇淋",
+        "onboard_time": 1682078549,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296253,
+        "num": 296253,
+        "word": "cp29 抢票",
+        "onboard_time": 1682071769,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 244719,
+        "num": 244719,
+        "word": "专家称生育率降低不只因为房价高",
+        "onboard_time": 1682063730,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 305439,
+        "num": 244099,
+        "word": "灌篮高手",
+        "onboard_time": 1682077349,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297144,
+        "num": 243208,
+        "word": "文彬",
+        "onboard_time": 1682070510,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270773,
+        "num": 241909,
+        "word": "浙大学生因辱华言论被拒录公务员",
+        "onboard_time": 1682056050,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 238749,
+        "num": 238749,
+        "word": "司机拦住特警巡逻车救了自己一命",
+        "onboard_time": 1682077470,
+        "rank": 23,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 208837,
+        "num": 208837,
+        "word": "安以轩老公被判监禁14年",
+        "onboard_time": 1682052334,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 281732,
+        "num": 208558,
+        "word": "车银优眼睛哭肿了",
+        "onboard_time": 1682063129,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267448,
+        "num": 208335,
+        "word": "韩国网友把王宝强认成朴振英",
+        "onboard_time": 1682062410,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255169,
+        "num": 208211,
+        "word": "哇唧唧哇 空座",
+        "onboard_time": 1682081130,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208009,
+        "num": 208009,
+        "word": "TTG bp我没懂",
+        "onboard_time": 1682080709,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190637,
+        "num": 190637,
+        "word": "原来这是老天在对我调休",
+        "onboard_time": 1682073990,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1592573,
+        "num": 189035,
+        "word": "宝马mini两名发冰淇淋女生已离职",
+        "onboard_time": 1682071291,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249307,
+        "num": 186593,
+        "word": "鹿晗巡演四站官宣",
+        "onboard_time": 1682069549,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 246222,
+        "num": 184489,
+        "word": "选秀真的回来了",
+        "onboard_time": 1682063249,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244011,
+        "num": 182950,
+        "word": "张子枫 C位烫脚",
+        "onboard_time": 1682081250,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209438,
+        "num": 179241,
+        "word": "何悯鸿恋爱脑",
+        "onboard_time": 1682080649,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204085,
+        "num": 177858,
+        "word": "奔跑吧",
+        "onboard_time": 1682073931,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176362,
+        "num": 176362,
+        "word": "父母姓氏组合而来的名字",
+        "onboard_time": 1682076389,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 155834,
+        "num": 155834,
+        "word": "专家称二套房贷政策是在帮助富人",
+        "onboard_time": 1682067030,
+        "rank": 37,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 150774,
+        "num": 150774,
+        "word": "TTG对战KSG",
+        "onboard_time": 1682079688,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124278,
+        "num": 150760,
+        "word": "宝宝打针被医生哄到哭不出来",
+        "onboard_time": 1682070630,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200945,
+        "num": 150714,
+        "word": "哈哈哈哈哈",
+        "onboard_time": 1682079148,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197004,
+        "num": 150642,
+        "word": "战至巅峰2阵容",
+        "onboard_time": 1682077168,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173903,
+        "num": 150572,
+        "word": "欢乐颂",
+        "onboard_time": 1682078909,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173726,
+        "num": 150523,
+        "word": "电影灌篮高手评分",
+        "onboard_time": 1682076510,
+        "rank": 43,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 164624,
+        "num": 150495,
+        "word": "长月烬明",
+        "onboard_time": 1682073509,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153783,
+        "num": 150439,
+        "word": "INTO1告别限定演唱会时光场",
+        "onboard_time": 1682077048,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153556,
+        "num": 150413,
+        "word": "澹台烬放火想烧死自己给叶夕雾陪葬",
+        "onboard_time": 1682063610,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150364,
+        "num": 150364,
+        "word": "因姓氏太罕见全村集体改姓鸭",
+        "onboard_time": 1682057968,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134873,
+        "num": 134873,
+        "word": "最闷骚的星座",
+        "onboard_time": 1682064628,
+        "rank": 48,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 122466,
+        "num": 134817,
+        "word": "宝马mini称老外是同事",
+        "onboard_time": 1682039609,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与应对气候变化全球治理#"
+    }
+  }
+}

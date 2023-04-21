@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682080354203,
+  "endTime": 1682081338553,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1019315,
+      "num": 1019315,
+      "word": "章子怡的脸能打",
+      "onboard_time": 1682079570,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1011541,
       "num": 1011541,
       "word": "夫妻嫌上班赚钱慢拍淫秽视频获刑",
@@ -371,6 +379,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 786755,
+      "num": 786755,
+      "word": "白鹿 孙珍妮",
+      "onboard_time": 1682079688,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 769027,
       "num": 769027,
       "word": "喜欢和不喜欢的区别很明显",
@@ -392,6 +408,14 @@
       "word": "因姓氏太罕见全村集体改姓鸭",
       "onboard_time": 1682057968,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 724331,
+      "num": 724331,
+      "word": "下雪",
+      "onboard_time": 1682079270,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -473,14 +497,6 @@
       "onboard_time": 1682051975,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 680049,
-      "num": 680049,
-      "word": "章子怡的脸能打",
-      "onboard_time": 1682079570,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 671865,
@@ -923,6 +939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356803,
+      "num": 356803,
+      "word": "上海车展多家展商免费派发冰淇淋",
+      "onboard_time": 1682078549,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353449,
       "num": 353449,
       "word": "鹿晗重启视频情绪点拉满",
@@ -945,14 +969,6 @@
       "onboard_time": 1682053769,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345914,
-      "num": 256333,
-      "word": "白鹿 孙珍妮",
-      "onboard_time": 1682079688,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 337934,
@@ -1057,14 +1073,6 @@
       "onboard_time": 1682062048,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 299744,
-      "num": 458086,
-      "word": "下雪",
-      "onboard_time": 1682079270,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296015,
@@ -1195,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265703,
-      "num": 265703,
-      "word": "上海车展多家展商免费派发冰淇淋",
-      "onboard_time": 1682078549,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265489,
       "num": 265489,
       "word": "范丞丞坐玩具车走红毯",
@@ -1257,6 +1257,14 @@
       "onboard_time": 1682051313,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255169,
+      "num": 208211,
+      "word": "哇唧唧哇 空座",
+      "onboard_time": 1682081130,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 253335,
@@ -1331,12 +1339,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244011,
+      "num": 182950,
+      "word": "张子枫 C位烫脚",
+      "onboard_time": 1682081250,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 240414,
       "num": 218251,
       "word": "长月烬明",
       "onboard_time": 1682073509,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238749,
+      "num": 238749,
+      "word": "司机拦住特警巡逻车救了自己一命",
+      "onboard_time": 1682077470,
+      "rank": 24,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 236678,
@@ -1417,14 +1441,6 @@
       "onboard_time": 1682070688,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 224126,
-      "num": 224126,
-      "word": "司机拦住特警巡逻车救了自己一命",
-      "onboard_time": 1682077470,
-      "rank": 24,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 223888,
@@ -1563,6 +1579,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209438,
+      "num": 179241,
+      "word": "何悯鸿恋爱脑",
+      "onboard_time": 1682080649,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 208009,
+      "num": 208009,
+      "word": "TTG bp我没懂",
+      "onboard_time": 1682080709,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207888,
       "num": 207888,
       "word": "北京国际电影节",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1682065769,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201364,
+      "num": 400189,
+      "word": "北影节红毯男星造型",
+      "onboard_time": 1682078430,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 200134,
@@ -1795,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176362,
+      "num": 176362,
+      "word": "父母姓氏组合而来的名字",
+      "onboard_time": 1682076389,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 175391,
       "num": 175391,
       "word": "小象是如何揉眼睛的",
@@ -1811,7 +1859,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173005,
+      "raw_hot": 173903,
       "num": 154288,
       "word": "欢乐颂",
       "onboard_time": 1682078909,
@@ -1961,14 +2009,6 @@
       "onboard_time": 1682058869,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149006,
-      "num": 149006,
-      "word": "父母姓氏组合而来的名字",
-      "onboard_time": 1682076389,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 148705,
@@ -2235,14 +2275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85710,
-      "num": 400189,
-      "word": "北影节红毯男星造型",
-      "onboard_time": 1682078430,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 84878,
       "num": 544326,
       "word": "小哥公园送外卖各出奇招",
@@ -2307,7 +2339,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 52713,
+      "raw_hot": 52927,
       "num": 2208215,
       "word": "一起回顾中国载人航天高光时刻",
       "onboard_time": 1682069308,
