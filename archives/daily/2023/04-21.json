@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682050867506,
+  "endTime": 1682051694994,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -9,6 +9,14 @@
       "onboard_time": 1682004751,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4184010,
+      "num": 4184010,
+      "word": "史诗级灾难公关",
+      "onboard_time": 1682048308,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3853315,
@@ -35,14 +43,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 2536407,
-      "num": 2536407,
-      "word": "史诗级灾难公关",
-      "onboard_time": 1682048308,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1970557,
       "num": 1970557,
       "word": "台湾17岁少年街头扫射42枪",
@@ -59,20 +59,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1587925,
+      "num": 1587925,
+      "word": "面试时叫了面试官宝贝",
+      "onboard_time": 1682047467,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1491119,
       "num": 1491119,
       "word": "室友私生活问题该不该插手",
       "onboard_time": 1682037394,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1463256,
-      "num": 1463256,
-      "word": "面试时叫了面试官宝贝",
-      "onboard_time": 1682047467,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1353711,
@@ -139,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964299,
+      "num": 482706,
+      "word": "微信可免费听周杰伦",
+      "onboard_time": 1682050228,
+      "rank": 17,
+      "category": "科技,音乐"
+    },
+    {
       "raw_hot": 948449,
       "num": 948449,
       "word": "大学男生 关水阀",
       "onboard_time": 1682045006,
       "rank": 5,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 942683,
+      "num": 474071,
+      "word": "景甜素颜自拍照",
+      "onboard_time": 1682047706,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 937203,
@@ -161,14 +177,6 @@
       "onboard_time": 1682002358,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 894538,
-      "num": 460231,
-      "word": "景甜素颜自拍照",
-      "onboard_time": 1682047706,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 838847,
@@ -227,6 +235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 701580,
+      "num": 462954,
+      "word": "宝马蒸发市值可买约5亿个冰淇淋",
+      "onboard_time": 1682050168,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 668450,
       "num": 205834,
       "word": "宝马mini展台再现冲突",
@@ -249,6 +265,14 @@
       "onboard_time": 1682041407,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 615868,
+      "num": 456567,
+      "word": "不要随便改微信名",
+      "onboard_time": 1682050228,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 587112,
@@ -307,6 +331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 488174,
+      "num": 488174,
+      "word": "易烊千玺再现刘艳芬小红帽",
+      "onboard_time": 1682051494,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 486885,
       "num": 486885,
       "word": "宝格丽",
@@ -337,6 +369,22 @@
       "onboard_time": 1682035288,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452150,
+      "num": 452150,
+      "word": "A股",
+      "onboard_time": 1682049870,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 444569,
+      "num": 444569,
+      "word": "乐华娱乐股票大涨",
+      "onboard_time": 1682046326,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 425066,
@@ -371,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413638,
-      "num": 413638,
-      "word": "微信可免费听周杰伦",
-      "onboard_time": 1682050228,
-      "rank": 17,
-      "category": "科技,音乐"
-    },
-    {
       "raw_hot": 409501,
       "num": 246962,
       "word": "澹台烬选择救叶冰裳的原因",
@@ -403,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402360,
-      "num": 402360,
-      "word": "乐华娱乐股票大涨",
-      "onboard_time": 1682046326,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 400080,
       "num": 400080,
       "word": "五一民宿预订现涨价毁约潮",
@@ -433,14 +465,6 @@
       "onboard_time": 1682002655,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379473,
-      "num": 379473,
-      "word": "宝马蒸发市值可买约5亿个冰淇淋",
-      "onboard_time": 1682050168,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 369858,
@@ -475,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349263,
+      "num": 349263,
+      "word": "女员工收到男领导微信称梦中与你亲热",
+      "onboard_time": 1682048189,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334118,
       "num": 334118,
       "word": "妈妈用方言给娃取名叫江江好",
@@ -491,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320556,
-      "num": 320556,
-      "word": "女员工收到男领导微信称梦中与你亲热",
-      "onboard_time": 1682048189,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 323349,
+      "num": 323349,
+      "word": "图书馆有存在的必要么",
+      "onboard_time": 1682050289,
+      "rank": 28,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 315403,
@@ -521,6 +553,14 @@
       "onboard_time": 1682046148,
       "rank": 36,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 310352,
+      "num": 310352,
+      "word": "张杰沈阳",
+      "onboard_time": 1682051614,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 309437,
@@ -587,14 +627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 282443,
-      "num": 282443,
-      "word": "A股",
-      "onboard_time": 1682049870,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 274591,
       "num": 274591,
       "word": "LCK亚运会预选阵容",
@@ -619,6 +651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 255809,
+      "num": 255809,
+      "word": "张颜齐说宋雨琦是救命恩人",
+      "onboard_time": 1682051313,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250319,
       "num": 250319,
       "word": "宝马欧股跌超3%",
@@ -627,12 +667,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 249843,
-      "num": 249843,
-      "word": "图书馆有存在的必要么",
-      "onboard_time": 1682050289,
-      "rank": 28,
-      "category": "情感,社会新闻"
+      "raw_hot": 246772,
+      "num": 246772,
+      "word": "中国的土地收回来绝不会再失去",
+      "onboard_time": 1682049991,
+      "rank": 41,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 246107,
+      "num": 246107,
+      "word": "时代少年团演唱会应援法",
+      "onboard_time": 1682051013,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 236678,
+      "num": 236678,
+      "word": "清洁工大叔花三个月工资给孩子买手机",
+      "onboard_time": 1682050652,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236026,
@@ -641,14 +697,6 @@
       "onboard_time": 1682006309,
       "rank": 23,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 235272,
-      "num": 201357,
-      "word": "不要随便改微信名",
-      "onboard_time": 1682050228,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 230922,
@@ -731,11 +779,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198018,
+      "num": 198018,
+      "word": "岸田文雄向靖国神社供奉祭品",
+      "onboard_time": 1682051192,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197264,
       "num": 197264,
       "word": "迪丽热巴新剧过审",
       "onboard_time": 1682001757,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 196298,
+      "num": 198732,
+      "word": "电影志愿军定档国庆",
+      "onboard_time": 1682050713,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -769,6 +833,30 @@
       "onboard_time": 1682044465,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186589,
+      "num": 192343,
+      "word": "张真源扎染牛仔外套",
+      "onboard_time": 1682050890,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185646,
+      "num": 185646,
+      "word": "陈鑫海新剧浴缸吻",
+      "onboard_time": 1682050228,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184766,
+      "num": 184766,
+      "word": "疑似长月烬明编剧回应",
+      "onboard_time": 1682051434,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 184626,
@@ -811,12 +899,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170862,
-      "num": 170862,
-      "word": "中国的土地收回来绝不会再失去",
-      "onboard_time": 1682049991,
-      "rank": 41,
-      "category": "国内要闻"
+      "raw_hot": 168187,
+      "num": 168187,
+      "word": "金靖说王一博你长滴可得劲儿",
+      "onboard_time": 1682051614,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 165496,
@@ -825,14 +913,6 @@
       "onboard_time": 1682032703,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162565,
-      "num": 162565,
-      "word": "电影志愿军定档国庆",
-      "onboard_time": 1682050713,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 153247,
@@ -880,22 +960,6 @@
       "word": "朱一龙志愿军角色亮相视频",
       "onboard_time": 1682049268,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 148871,
-      "num": 148871,
-      "word": "清洁工大叔花三个月工资给孩子买手机",
-      "onboard_time": 1682050652,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147095,
-      "num": 147095,
-      "word": "陈鑫海新剧浴缸吻",
-      "onboard_time": 1682050228,
-      "rank": 49,
       "category": "影视"
     },
     {
@@ -1027,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111536,
+      "num": 1817418,
+      "word": "以漫画方式打开中国宝藏县城",
+      "onboard_time": 1682048428,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110852,
       "num": 110852,
       "word": "教育部公布21种本科新增专业",
@@ -1049,14 +1121,6 @@
       "onboard_time": 1681998331,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103560,
-      "num": 1817418,
-      "word": "以漫画方式打开中国宝藏县城",
-      "onboard_time": 1682048428,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101884,
