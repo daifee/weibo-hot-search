@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682068617353,
+  "endTime": 1682069613444,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -115,6 +115,14 @@
       "category": "社会新闻,国外要闻"
     },
     {
+      "raw_hot": 1522321,
+      "num": 677002,
+      "word": "韩国网友把王宝强认成朴振英",
+      "onboard_time": 1682062410,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1499332,
       "num": 1499332,
       "word": "车银优眼睛哭肿了",
@@ -129,14 +137,6 @@
       "onboard_time": 1682037394,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1429544,
-      "num": 628699,
-      "word": "韩国网友把王宝强认成朴振英",
-      "onboard_time": 1682062410,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 1353711,
@@ -299,8 +299,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 795275,
-      "num": 795275,
+      "raw_hot": 822634,
+      "num": 822634,
       "word": "专家称生育率降低不只因为房价高",
       "onboard_time": 1682063730,
       "rank": 22,
@@ -363,12 +363,44 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 681699,
+      "num": 681699,
+      "word": "鹿晗巡演四站官宣",
+      "onboard_time": 1682069549,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 680572,
+      "num": 680572,
+      "word": "娜扎的耳饰好大",
+      "onboard_time": 1682067510,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 680238,
       "num": 680238,
       "word": "宝马股价",
       "onboard_time": 1682051975,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 671865,
+      "num": 671865,
+      "word": "张子枫帆布鞋配礼服",
+      "onboard_time": 1682066491,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 671208,
+      "num": 671208,
+      "word": "专家称二套房贷政策是在帮助富人",
+      "onboard_time": 1682067030,
+      "rank": 19,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 668450,
@@ -384,14 +416,6 @@
       "word": "罗云熙白鹿时尚芭莎",
       "onboard_time": 1682044767,
       "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 619681,
-      "num": 619681,
-      "word": "张子枫帆布鞋配礼服",
-      "onboard_time": 1682066491,
-      "rank": 9,
       "category": "作品衍生,时尚"
     },
     {
@@ -457,6 +481,14 @@
       "onboard_time": 1682035407,
       "rank": 8,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 561450,
+      "num": 561450,
+      "word": "男方择偶条件要求女方没弟弟",
+      "onboard_time": 1682066910,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541352,
@@ -643,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 416637,
-      "num": 416637,
-      "word": "娜扎的耳饰好大",
-      "onboard_time": 1682067510,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 409501,
       "num": 246962,
       "word": "澹台烬选择救叶冰裳的原因",
@@ -665,14 +689,6 @@
       "onboard_time": 1682040028,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 405671,
-      "num": 405671,
-      "word": "男方择偶条件要求女方没弟弟",
-      "onboard_time": 1682066910,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403048,
@@ -721,14 +737,6 @@
       "onboard_time": 1682052034,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 385001,
-      "num": 385001,
-      "word": "专家称二套房贷政策是在帮助富人",
-      "onboard_time": 1682067030,
-      "rank": 19,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 369858,
@@ -963,6 +971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 285817,
+      "num": 285817,
+      "word": "陈都灵紫色抹胸长裙",
+      "onboard_time": 1682068708,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284880,
       "num": 284880,
       "word": "网易云十年听歌报告",
@@ -985,6 +1001,14 @@
       "onboard_time": 1682046027,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 271909,
+      "num": 254532,
+      "word": "周冬雨亮黄色长裙",
+      "onboard_time": 1682069190,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 270765,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1681994606,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256830,
+      "num": 256830,
+      "word": "杨紫说六月份进组",
+      "onboard_time": 1682069130,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255809,
@@ -1065,6 +1097,14 @@
       "onboard_time": 1682057368,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247367,
+      "num": 247367,
+      "word": "夫胜宽将缺席MCD录制",
+      "onboard_time": 1682069369,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 246772,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1682043926,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228293,
+      "num": 228293,
+      "word": "北京电影节",
+      "onboard_time": 1682068169,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 225995,
@@ -1235,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208939,
+      "num": 208939,
+      "word": "陈飞宇一字绑带黑西装",
+      "onboard_time": 1682068768,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207888,
       "num": 207888,
       "word": "北京国际电影节",
@@ -1256,14 +1312,6 @@
       "word": "金靖说王一博你长滴可得劲儿",
       "onboard_time": 1682051614,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 205482,
-      "num": 207987,
-      "word": "北京电影节",
-      "onboard_time": 1682068169,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -1329,6 +1377,14 @@
       "onboard_time": 1682050713,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191447,
+      "num": 191447,
+      "word": "中方回应日本首相向靖国神社供奉祭品",
+      "onboard_time": 1682068470,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190559,
@@ -1449,14 +1505,6 @@
       "onboard_time": 1682054493,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 166853,
-      "num": 166853,
-      "word": "中方回应日本首相向靖国神社供奉祭品",
-      "onboard_time": 1682068470,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165496,
@@ -1747,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112933,
+      "num": 153711,
+      "word": "武汉烧烤申请出战",
+      "onboard_time": 1682066429,
+      "rank": 47,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 110852,
       "num": 110852,
       "word": "教育部公布21种本科新增专业",
@@ -1780,7 +1836,7 @@
     },
     {
       "raw_hot": 103575,
-      "num": 129010,
+      "num": 148603,
       "word": "DOTA2",
       "onboard_time": 1682065947,
       "rank": 49,
@@ -1793,14 +1849,6 @@
       "onboard_time": 1682027173,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101208,
-      "num": 129651,
-      "word": "武汉烧烤申请出战",
-      "onboard_time": 1682066429,
-      "rank": 47,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 100414,
@@ -1948,11 +1996,19 @@
     },
     {
       "raw_hot": 13741,
-      "num": 129102,
+      "num": 247756,
       "word": "袁弘说张歆艺开车有救了",
       "onboard_time": 1682068290,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13243,
+      "num": 839368,
+      "word": "一起回顾中国载人航天高光时刻",
+      "onboard_time": 1682069308,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12411,
@@ -1972,6 +2028,9 @@
     },
     {
       "word": "#积极参与应对气候变化全球治理#"
+    },
+    {
+      "word": "#扎实开展主题教育#"
     }
   ]
 }
