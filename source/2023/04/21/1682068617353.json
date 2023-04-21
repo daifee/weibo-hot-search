@@ -1,0 +1,410 @@
+{
+  "runTime": 1682068617353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2628959,
+        "num": 2628959,
+        "word": "原来考个本科真的很难",
+        "onboard_time": 1682058088,
+        "rank": 0,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 1499332,
+        "num": 1499332,
+        "word": "车银优眼睛哭肿了",
+        "onboard_time": 1682063129,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74910,
+        "num": 963546,
+        "word": "以漫画方式打开中国宝藏县城",
+        "onboard_time": 1682048428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906757,
+        "num": 906757,
+        "word": "选秀真的回来了",
+        "onboard_time": 1682063249,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 893551,
+        "num": 893551,
+        "word": "安以轩老公被判监禁14年",
+        "onboard_time": 1682052334,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 857898,
+        "num": 857898,
+        "word": "MINI呼吁给发冰淇淋小姐姐多些宽容",
+        "onboard_time": 1682045247,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 795275,
+        "num": 795275,
+        "word": "专家称生育率降低不只因为房价高",
+        "onboard_time": 1682063730,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 643128,
+        "num": 643128,
+        "word": "倪妮 油画里的美人",
+        "onboard_time": 1682062109,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 636263,
+        "num": 636263,
+        "word": "日本",
+        "onboard_time": 1682058208,
+        "rank": 8,
+        "category": "社会新闻,国外要闻"
+      },
+      {
+        "raw_hot": 619681,
+        "num": 619681,
+        "word": "张子枫帆布鞋配礼服",
+        "onboard_time": 1682066491,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1429544,
+        "num": 610357,
+        "word": "韩国网友把王宝强认成朴振英",
+        "onboard_time": 1682062410,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583484,
+        "num": 583484,
+        "word": "鹿晗宝石老舅成都逛街",
+        "onboard_time": 1682064451,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576481,
+        "num": 576481,
+        "word": "北影节开幕红毯",
+        "onboard_time": 1682065168,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 528454,
+        "num": 528454,
+        "word": "最闷骚的星座",
+        "onboard_time": 1682064628,
+        "rank": 13,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 500305,
+        "num": 500305,
+        "word": "宝马蒸发市值可买约5亿个冰淇淋",
+        "onboard_time": 1682050168,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 500155,
+        "num": 500155,
+        "word": "史诗级灾难公关",
+        "onboard_time": 1682048308,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421795,
+        "num": 421795,
+        "word": "不要随便改微信名",
+        "onboard_time": 1682050228,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 416637,
+        "num": 416637,
+        "word": "娜扎的耳饰好大",
+        "onboard_time": 1682067510,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 405671,
+        "num": 405671,
+        "word": "男方择偶条件要求女方没弟弟",
+        "onboard_time": 1682066910,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385001,
+        "num": 385001,
+        "word": "专家称二套房贷政策是在帮助富人",
+        "onboard_time": 1682067030,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 654846,
+        "num": 384925,
+        "word": "浙大学生因辱华言论被拒录公务员",
+        "onboard_time": 1682056050,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 367617,
+        "num": 367617,
+        "word": "女子吐槽软卧车厢分配3男1女",
+        "onboard_time": 1682052697,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359438,
+        "num": 359438,
+        "word": "宝马mini称老外是同事",
+        "onboard_time": 1682039609,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 348835,
+        "num": 348835,
+        "word": "因姓氏太罕见全村集体改姓鸭",
+        "onboard_time": 1682057968,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340197,
+        "num": 340197,
+        "word": "杨紫直播",
+        "onboard_time": 1682063190,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298587,
+        "num": 298587,
+        "word": "微信可免费听周杰伦",
+        "onboard_time": 1682050228,
+        "rank": 25,
+        "category": "科技,音乐"
+      },
+      {
+        "raw_hot": 262917,
+        "num": 262917,
+        "word": "长月烬明有八个编剧",
+        "onboard_time": 1682059648,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255390,
+        "num": 255390,
+        "word": "宝马MINI展台仍排队领钥匙扣",
+        "onboard_time": 1682052334,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232303,
+        "num": 232303,
+        "word": "杨幂许凯密逃5再聚",
+        "onboard_time": 1682062948,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216419,
+        "num": 216419,
+        "word": "简历造假让我碰见了",
+        "onboard_time": 1682061089,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216256,
+        "num": 216256,
+        "word": "谁是乐华的下一个王一博",
+        "onboard_time": 1682057547,
+        "rank": 30,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 213817,
+        "num": 213817,
+        "word": "景甜素颜自拍照",
+        "onboard_time": 1682047706,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211547,
+        "num": 211547,
+        "word": "毕雯珺金丝边眼镜",
+        "onboard_time": 1682068109,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205482,
+        "num": 207987,
+        "word": "北京电影节",
+        "onboard_time": 1682068169,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207810,
+        "num": 207810,
+        "word": "章昊带领教资走出国门",
+        "onboard_time": 1682062048,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206273,
+        "num": 206273,
+        "word": "QQ音乐巅峰榜",
+        "onboard_time": 1682064568,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200134,
+        "num": 200134,
+        "word": "澹台烬放火想烧死自己给叶夕雾陪葬",
+        "onboard_time": 1682063610,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193519,
+        "num": 193519,
+        "word": "面试时叫了面试官宝贝",
+        "onboard_time": 1682047467,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189605,
+        "num": 189605,
+        "word": "吴昕李维嘉同框",
+        "onboard_time": 1682058448,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179354,
+        "num": 179354,
+        "word": "生活费一千五大学生存款6万",
+        "onboard_time": 1682043026,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166853,
+        "num": 166853,
+        "word": "中方回应日本首相向靖国神社供奉祭品",
+        "onboard_time": 1682068470,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165907,
+        "num": 165907,
+        "word": "宝马股价",
+        "onboard_time": 1682051975,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161948,
+        "num": 161948,
+        "word": "XBB.1.16是否会导致结膜炎",
+        "onboard_time": 1682062888,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161734,
+        "num": 161734,
+        "word": "张元英的愿望",
+        "onboard_time": 1682064269,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158586,
+        "num": 158586,
+        "word": "赵小棠暗黑童话礼服裙",
+        "onboard_time": 1682067987,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130036,
+        "num": 130036,
+        "word": "鸿星尔克请网友吃冰淇淋",
+        "onboard_time": 1682068590,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114535,
+        "num": 129727,
+        "word": "阮佳",
+        "onboard_time": 1682058509,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 101208,
+        "num": 129651,
+        "word": "武汉烧烤申请出战",
+        "onboard_time": 1682066429,
+        "rank": 47,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 13741,
+        "num": 129102,
+        "word": "袁弘说张歆艺开车有救了",
+        "onboard_time": 1682068290,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78332,
+        "num": 129010,
+        "word": "DOTA2",
+        "onboard_time": 1682065947,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与应对气候变化全球治理#"
+    }
+  }
+}

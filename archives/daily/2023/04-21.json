@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682066049401,
+  "endTime": 1682068617353,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -115,12 +115,28 @@
       "category": "社会新闻,国外要闻"
     },
     {
+      "raw_hot": 1499332,
+      "num": 1499332,
+      "word": "车银优眼睛哭肿了",
+      "onboard_time": 1682063129,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1491119,
       "num": 1491119,
       "word": "室友私生活问题该不该插手",
       "onboard_time": 1682037394,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1429544,
+      "num": 628699,
+      "word": "韩国网友把王宝强认成朴振英",
+      "onboard_time": 1682062410,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1353711,
@@ -137,14 +153,6 @@
       "onboard_time": 1681972349,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1334697,
-      "num": 1334697,
-      "word": "车银优眼睛哭肿了",
-      "onboard_time": 1682063129,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1249131,
@@ -177,14 +185,6 @@
       "onboard_time": 1682006250,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1120155,
-      "num": 628699,
-      "word": "韩国网友把王宝强认成朴振英",
-      "onboard_time": 1682062410,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 1110669,
@@ -259,20 +259,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 906757,
+      "num": 906757,
+      "word": "选秀真的回来了",
+      "onboard_time": 1682063249,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838847,
       "num": 838847,
       "word": "12306还要候补多少天",
       "onboard_time": 1682038110,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 837977,
-      "num": 837977,
-      "word": "选秀真的回来了",
-      "onboard_time": 1682063249,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 835320,
@@ -297,6 +297,14 @@
       "onboard_time": 1682046627,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 795275,
+      "num": 795275,
+      "word": "专家称生育率降低不只因为房价高",
+      "onboard_time": 1682063730,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 769027,
@@ -379,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 619681,
+      "num": 619681,
+      "word": "张子枫帆布鞋配礼服",
+      "onboard_time": 1682066491,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 617523,
       "num": 617523,
       "word": "哈登 驱逐",
@@ -409,6 +425,14 @@
       "onboard_time": 1682064451,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 576481,
+      "num": 576481,
+      "word": "北影节开幕红毯",
+      "onboard_time": 1682065168,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 573889,
@@ -449,6 +473,14 @@
       "onboard_time": 1682006788,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528454,
+      "num": 528454,
+      "word": "最闷骚的星座",
+      "onboard_time": 1682064628,
+      "rank": 23,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 527980,
@@ -515,14 +547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 487402,
-      "num": 487402,
-      "word": "专家称生育率降低不只因为房价高",
-      "onboard_time": 1682063730,
-      "rank": 22,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 486885,
       "num": 486885,
       "word": "宝格丽",
@@ -579,28 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 433190,
-      "num": 433190,
-      "word": "最闷骚的星座",
-      "onboard_time": 1682064628,
-      "rank": 23,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 425066,
       "num": 425066,
       "word": "集美 集帅",
       "onboard_time": 1682005173,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 422263,
-      "num": 422263,
-      "word": "北影节开幕红毯",
-      "onboard_time": 1682065168,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 419225,
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416637,
+      "num": 416637,
+      "word": "娜扎的耳饰好大",
+      "onboard_time": 1682067510,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 409501,
       "num": 246962,
       "word": "澹台烬选择救叶冰裳的原因",
@@ -649,6 +665,14 @@
       "onboard_time": 1682040028,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 405671,
+      "num": 405671,
+      "word": "男方择偶条件要求女方没弟弟",
+      "onboard_time": 1682066910,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403048,
@@ -697,6 +721,14 @@
       "onboard_time": 1682052034,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 385001,
+      "num": 385001,
+      "word": "专家称二套房贷政策是在帮助富人",
+      "onboard_time": 1682067030,
+      "rank": 19,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 369858,
@@ -1187,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211547,
+      "num": 211547,
+      "word": "毕雯珺金丝边眼镜",
+      "onboard_time": 1682068109,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209971,
       "num": 209971,
       "word": "和闺蜜创业44天散伙了",
@@ -1216,6 +1256,14 @@
       "word": "金靖说王一博你长滴可得劲儿",
       "onboard_time": 1682051614,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205482,
+      "num": 207987,
+      "word": "北京电影节",
+      "onboard_time": 1682068169,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -1251,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200134,
+      "num": 200134,
+      "word": "澹台烬放火想烧死自己给叶夕雾陪葬",
+      "onboard_time": 1682063610,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198199,
       "num": 198199,
       "word": "乐华五进四",
@@ -1264,14 +1320,6 @@
       "word": "迪丽热巴新剧过审",
       "onboard_time": 1682001757,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 196369,
-      "num": 196369,
-      "word": "澹台烬放火想烧死自己给叶夕雾陪葬",
-      "onboard_time": 1682063610,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -1403,6 +1451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166853,
+      "num": 166853,
+      "word": "中方回应日本首相向靖国神社供奉祭品",
+      "onboard_time": 1682068470,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165496,
       "num": 165496,
       "word": "ZB1",
@@ -1425,6 +1481,14 @@
       "onboard_time": 1682057968,
       "rank": 43,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 158586,
+      "num": 158586,
+      "word": "赵小棠暗黑童话礼服裙",
+      "onboard_time": 1682067987,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158080,
@@ -1587,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130036,
+      "num": 130036,
+      "word": "鸿星尔克请网友吃冰淇淋",
+      "onboard_time": 1682068590,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129749,
       "num": 129749,
       "word": "76人vs篮网",
@@ -1708,7 +1780,7 @@
     },
     {
       "raw_hot": 103575,
-      "num": 119758,
+      "num": 129010,
       "word": "DOTA2",
       "onboard_time": 1682065947,
       "rank": 49,
@@ -1721,6 +1793,14 @@
       "onboard_time": 1682027173,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101208,
+      "num": 129651,
+      "word": "武汉烧烤申请出战",
+      "onboard_time": 1682066429,
+      "rank": 47,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 100414,
@@ -1865,6 +1945,14 @@
       "onboard_time": 1682022071,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 13741,
+      "num": 129102,
+      "word": "袁弘说张歆艺开车有救了",
+      "onboard_time": 1682068290,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 12411,

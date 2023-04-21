@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682066049401,
+  "endTime": 1682068617353,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2835,6 +2835,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1499332,
+      "num": 1499332,
+      "word": "车银优眼睛哭肿了",
+      "onboard_time": 1682063129,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1498474,
       "num": 1498474,
       "word": "淄博一烧烤店生意太火爆停业休息",
@@ -3025,6 +3033,14 @@
       "onboard_time": 1681466547,
       "rank": 7,
       "category": "艺人,动漫"
+    },
+    {
+      "raw_hot": 1429544,
+      "num": 628699,
+      "word": "韩国网友把王宝强认成朴振英",
+      "onboard_time": 1682062410,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1423043,
@@ -3345,14 +3361,6 @@
       "onboard_time": 1681478366,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1334697,
-      "num": 1334697,
-      "word": "车银优眼睛哭肿了",
-      "onboard_time": 1682063129,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1330361,
@@ -4185,14 +4193,6 @@
       "onboard_time": 1681050210,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1120155,
-      "num": 628699,
-      "word": "韩国网友把王宝强认成朴振英",
-      "onboard_time": 1682062410,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 1117063,
@@ -5571,6 +5571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 906757,
+      "num": 906757,
+      "word": "选秀真的回来了",
+      "onboard_time": 1682063249,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 905565,
       "num": 848508,
       "word": "建议每天最少走7000步",
@@ -6339,14 +6347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 837977,
-      "num": 837977,
-      "word": "选秀真的回来了",
-      "onboard_time": 1682063249,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 837939,
       "num": 837939,
       "word": "老乡鸡 我保证这次没有中间商赚差价",
@@ -6761,6 +6761,14 @@
       "onboard_time": 1681359692,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 795275,
+      "num": 795275,
+      "word": "专家称生育率降低不只因为房价高",
+      "onboard_time": 1682063730,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 795051,
@@ -9459,6 +9467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 619681,
+      "num": 619681,
+      "word": "张子枫帆布鞋配礼服",
+      "onboard_time": 1682066491,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 619376,
       "num": 619376,
       "word": "领馆提醒中国留学生勿代收不明快递",
@@ -10337,6 +10353,14 @@
       "onboard_time": 1681139552,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 576481,
+      "num": 576481,
+      "word": "北影节开幕红毯",
+      "onboard_time": 1682065168,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 576339,
@@ -11555,6 +11579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 528454,
+      "num": 528454,
+      "word": "最闷骚的星座",
+      "onboard_time": 1682064628,
+      "rank": 23,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 528331,
       "num": 528331,
       "word": "51岁的陈慧琳",
@@ -12625,14 +12657,6 @@
       "onboard_time": 1680960331,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487402,
-      "num": 487402,
-      "word": "专家称生育率降低不只因为房价高",
-      "onboard_time": 1682063730,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 487053,
@@ -14395,14 +14419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 433190,
-      "num": 433190,
-      "word": "最闷骚的星座",
-      "onboard_time": 1682064628,
-      "rank": 23,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 432744,
       "num": 432744,
       "word": "勇士VS国王",
@@ -14843,14 +14859,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 422263,
-      "num": 422263,
-      "word": "北影节开幕红毯",
-      "onboard_time": 1682065168,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 422193,
       "num": 422193,
       "word": "易烊千玺GQ杂志",
@@ -15161,6 +15169,14 @@
       "onboard_time": 1681616424,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416637,
+      "num": 416637,
+      "word": "娜扎的耳饰好大",
+      "onboard_time": 1682067510,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 416483,
@@ -15609,6 +15625,14 @@
       "onboard_time": 1681388669,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405671,
+      "num": 405671,
+      "word": "男方择偶条件要求女方没弟弟",
+      "onboard_time": 1682066910,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405603,
@@ -16585,6 +16609,14 @@
       "onboard_time": 1680667951,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385001,
+      "num": 385001,
+      "word": "专家称二套房贷政策是在帮助富人",
+      "onboard_time": 1682067030,
+      "rank": 19,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 384914,
@@ -28131,6 +28163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 211547,
+      "num": 211547,
+      "word": "毕雯珺金丝边眼镜",
+      "onboard_time": 1682068109,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211525,
       "num": 211525,
       "word": "武大靖给陈德全颁奖",
@@ -29448,6 +29488,14 @@
       "word": "翩然辞职",
       "onboard_time": 1681821686,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 205482,
+      "num": 207987,
+      "word": "北京电影节",
+      "onboard_time": 1681791752,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -30779,14 +30827,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201609,
-      "num": 201609,
-      "word": "北京电影节",
-      "onboard_time": 1681791752,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 201600,
       "num": 201600,
       "word": "IVE换官方队形",
@@ -31273,6 +31313,14 @@
       "onboard_time": 1680606511,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200134,
+      "num": 200134,
+      "word": "澹台烬放火想烧死自己给叶夕雾陪葬",
+      "onboard_time": 1682063610,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 200061,
@@ -32513,14 +32561,6 @@
       "onboard_time": 1681539686,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196369,
-      "num": 196369,
-      "word": "澹台烬放火想烧死自己给叶夕雾陪葬",
-      "onboard_time": 1682063610,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 196362,
@@ -38267,6 +38307,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 166853,
+      "num": 166853,
+      "word": "中方回应日本首相向靖国神社供奉祭品",
+      "onboard_time": 1682068470,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166828,
       "num": 166828,
       "word": "在宇宙中写诗的科幻小片",
@@ -39601,6 +39649,14 @@
       "onboard_time": 1681528644,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158586,
+      "num": 158586,
+      "word": "赵小棠暗黑童话礼服裙",
+      "onboard_time": 1682067987,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158542,
@@ -43731,6 +43787,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 130036,
+      "num": 130036,
+      "word": "鸿星尔克请网友吃冰淇淋",
+      "onboard_time": 1682068590,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130011,
       "num": 130011,
       "word": "广东男篮vs广厦男篮",
@@ -46524,7 +46588,7 @@
     },
     {
       "raw_hot": 103575,
-      "num": 119758,
+      "num": 129010,
       "word": "DOTA2",
       "onboard_time": 1682065947,
       "rank": 49,
@@ -46761,6 +46825,14 @@
       "onboard_time": 1681556245,
       "rank": 41,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 101208,
+      "num": 129651,
+      "word": "武汉烧烤申请出战",
+      "onboard_time": 1682066429,
+      "rank": 47,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 100895,
@@ -49545,6 +49617,14 @@
       "onboard_time": 1681937413,
       "rank": 45,
       "category": "科技"
+    },
+    {
+      "raw_hot": 13741,
+      "num": 129102,
+      "word": "袁弘说张歆艺开车有救了",
+      "onboard_time": 1682068290,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 12411,
