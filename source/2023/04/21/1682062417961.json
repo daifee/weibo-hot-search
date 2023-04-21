@@ -1,0 +1,410 @@
+{
+  "runTime": 1682062417961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2849380,
+        "num": 2849380,
+        "word": "浙大学生因辱华言论被拒录公务员",
+        "onboard_time": 1682056050,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1838054,
+        "num": 1838054,
+        "word": "原来考个本科真的很难",
+        "onboard_time": 1682058088,
+        "rank": 1,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 112145,
+        "num": 1650464,
+        "word": "以漫画方式打开中国宝藏县城",
+        "onboard_time": 1682048428,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1475169,
+        "num": 1475169,
+        "word": "安以轩老公被判监禁14年",
+        "onboard_time": 1682052334,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1301185,
+        "num": 1301185,
+        "word": "日本",
+        "onboard_time": 1682058208,
+        "rank": 4,
+        "category": "社会新闻,国外要闻"
+      },
+      {
+        "raw_hot": 1266609,
+        "num": 1266609,
+        "word": "不要随便改微信名",
+        "onboard_time": 1682050228,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 966568,
+        "num": 966568,
+        "word": "MINI呼吁给发冰淇淋小姐姐多些宽容",
+        "onboard_time": 1682045247,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 906000,
+        "num": 906000,
+        "word": "微信可免费听周杰伦",
+        "onboard_time": 1682050228,
+        "rank": 7,
+        "category": "科技,音乐"
+      },
+      {
+        "raw_hot": 734511,
+        "num": 734511,
+        "word": "因姓氏太罕见全村集体改姓鸭",
+        "onboard_time": 1682057968,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731830,
+        "num": 731830,
+        "word": "吴昕李维嘉同框",
+        "onboard_time": 1682058448,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 824260,
+        "num": 717225,
+        "word": "史诗级灾难公关",
+        "onboard_time": 1682048308,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667213,
+        "num": 667213,
+        "word": "宝马蒸发市值可买约5亿个冰淇淋",
+        "onboard_time": 1682050168,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 585866,
+        "num": 585866,
+        "word": "宝马mini称老外是同事",
+        "onboard_time": 1682039609,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 527980,
+        "num": 527980,
+        "word": "长月烬明有八个编剧",
+        "onboard_time": 1682059648,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 518491,
+        "num": 518491,
+        "word": "谁是乐华的下一个王一博",
+        "onboard_time": 1682057547,
+        "rank": 14,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 430510,
+        "num": 430510,
+        "word": "女子吐槽软卧车厢分配3男1女",
+        "onboard_time": 1682052697,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420356,
+        "num": 420356,
+        "word": "景甜素颜自拍照",
+        "onboard_time": 1682047706,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377875,
+        "num": 377875,
+        "word": "面试时叫了面试官宝贝",
+        "onboard_time": 1682047467,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346349,
+        "num": 346349,
+        "word": "宝马MINI展台仍排队领钥匙扣",
+        "onboard_time": 1682052334,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306649,
+        "num": 306649,
+        "word": "A股",
+        "onboard_time": 1682049870,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 285570,
+        "num": 285570,
+        "word": "杨幂到达长沙",
+        "onboard_time": 1682056651,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281536,
+        "num": 281536,
+        "word": "基金",
+        "onboard_time": 1682060728,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 275877,
+        "num": 275877,
+        "word": "许晴如梦之梦彩排图",
+        "onboard_time": 1682061570,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274179,
+        "num": 274179,
+        "word": "生活费一千五大学生存款6万",
+        "onboard_time": 1682043026,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272853,
+        "num": 272853,
+        "word": "股市",
+        "onboard_time": 1682059827,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 259261,
+        "num": 259261,
+        "word": "kms",
+        "onboard_time": 1682060610,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256318,
+        "num": 256318,
+        "word": "向往的生活第七季即将播出",
+        "onboard_time": 1682053353,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253817,
+        "num": 253817,
+        "word": "宝马股价",
+        "onboard_time": 1682051975,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249346,
+        "num": 249346,
+        "word": "齐司礼",
+        "onboard_time": 1682056945,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243811,
+        "num": 243811,
+        "word": "苏醒说让杜华带他致富",
+        "onboard_time": 1682055989,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243298,
+        "num": 243298,
+        "word": "网易云十年听歌报告",
+        "onboard_time": 1682053653,
+        "rank": 30,
+        "category": "音乐,科技"
+      },
+      {
+        "raw_hot": 234072,
+        "num": 234072,
+        "word": "章昊带领教资走出国门",
+        "onboard_time": 1682062048,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233635,
+        "num": 233635,
+        "word": "简历造假让我碰见了",
+        "onboard_time": 1682061089,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201841,
+        "num": 201841,
+        "word": "倪妮 油画里的美人",
+        "onboard_time": 1682062109,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185507,
+        "num": 185507,
+        "word": "阮佳",
+        "onboard_time": 1682058509,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 172977,
+        "num": 172977,
+        "word": "宝马mini的公关你给打几分",
+        "onboard_time": 1682061749,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163458,
+        "num": 163458,
+        "word": "疑似长月烬明编剧回应",
+        "onboard_time": 1682051434,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163070,
+        "num": 163070,
+        "word": "罗云熙白鹿时尚芭莎",
+        "onboard_time": 1682044767,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162896,
+        "num": 162896,
+        "word": "山西下雪",
+        "onboard_time": 1682059589,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155494,
+        "num": 155494,
+        "word": "向往的生活",
+        "onboard_time": 1682053769,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150703,
+        "num": 150703,
+        "word": "易烊千玺文字采访",
+        "onboard_time": 1682060969,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149674,
+        "num": 149674,
+        "word": "两年比我一辈子经历都多",
+        "onboard_time": 1682059408,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 149347,
+        "num": 149347,
+        "word": "快船五后卫",
+        "onboard_time": 1682056168,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147702,
+        "num": 147702,
+        "word": "日本国会",
+        "onboard_time": 1682061209,
+        "rank": 43,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 145900,
+        "num": 145900,
+        "word": "大屏上的肖战",
+        "onboard_time": 1682051733,
+        "rank": 44,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 141175,
+        "num": 141175,
+        "word": "大学男生 关水阀",
+        "onboard_time": 1682045006,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 140085,
+        "num": 140085,
+        "word": "到宝马mini展台发冰淇淋博主发声",
+        "onboard_time": 1682040149,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137791,
+        "num": 137791,
+        "word": "张杰沈阳",
+        "onboard_time": 1682051614,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137698,
+        "num": 137698,
+        "word": "韩国网友把王宝强认成朴振英",
+        "onboard_time": 1682062410,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109086,
+        "num": 130957,
+        "word": "KPL",
+        "onboard_time": 1682062229,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与应对气候变化全球治理#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682061367580,
+  "endTime": 1682062417961,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1931,6 +1931,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1838054,
+      "num": 1838054,
+      "word": "原来考个本科真的很难",
+      "onboard_time": 1682058088,
+      "rank": 46,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 1836646,
       "num": 1836646,
       "word": "SpaceX星舰发射计划推迟",
@@ -3451,12 +3459,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1304408,
-      "num": 1304408,
-      "word": "原来考个本科真的很难",
-      "onboard_time": 1682058088,
-      "rank": 46,
-      "category": "情感,教育"
+      "raw_hot": 1301185,
+      "num": 1301185,
+      "word": "日本",
+      "onboard_time": 1682058208,
+      "rank": 16,
+      "category": "社会新闻,国外要闻"
     },
     {
       "raw_hot": 1298168,
@@ -4473,14 +4481,6 @@
       "onboard_time": 1681120827,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1065766,
-      "num": 1065766,
-      "word": "日本",
-      "onboard_time": 1682058208,
-      "rank": 16,
-      "category": "社会新闻,国外要闻"
     },
     {
       "raw_hot": 1063073,
@@ -7339,6 +7339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734511,
+      "num": 734511,
+      "word": "因姓氏太罕见全村集体改姓鸭",
+      "onboard_time": 1682057968,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734442,
       "num": 734442,
       "word": "湖人战胜森林狼",
@@ -7465,14 +7473,6 @@
       "onboard_time": 1681635806,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 726143,
-      "num": 726143,
-      "word": "因姓氏太罕见全村集体改姓鸭",
-      "onboard_time": 1682057968,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 725902,
@@ -11523,6 +11523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527980,
+      "num": 527980,
+      "word": "长月烬明有八个编剧",
+      "onboard_time": 1682059648,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 527751,
       "num": 483242,
       "word": "长峰医院被中国非公医协摘牌",
@@ -12593,14 +12601,6 @@
       "onboard_time": 1682036128,
       "rank": 14,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 486831,
-      "num": 486831,
-      "word": "长月烬明有八个编剧",
-      "onboard_time": 1682059648,
-      "rank": 15,
-      "category": "影视"
     },
     {
       "raw_hot": 486751,
@@ -22323,6 +22323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275877,
+      "num": 275877,
+      "word": "许晴如梦之梦彩排图",
+      "onboard_time": 1682061570,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275805,
       "num": 275805,
       "word": "忠犬八公豆瓣评分涨至8.2",
@@ -25475,6 +25483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234072,
+      "num": 234072,
+      "word": "章昊带领教资走出国门",
+      "onboard_time": 1682062048,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233957,
       "num": 233957,
       "word": "周杰伦香港演唱会",
@@ -25505,6 +25521,14 @@
       "onboard_time": 1680783088,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233635,
+      "num": 233635,
+      "word": "简历造假让我碰见了",
+      "onboard_time": 1682061089,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 233620,
@@ -30587,6 +30611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201841,
+      "num": 201841,
+      "word": "倪妮 油画里的美人",
+      "onboard_time": 1682062109,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201797,
       "num": 201797,
       "word": "李会泽陪跑",
@@ -35267,6 +35299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185507,
+      "num": 185507,
+      "word": "阮佳",
+      "onboard_time": 1682058509,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 185498,
       "num": 185498,
       "word": "跃动青春",
@@ -35617,14 +35657,6 @@
       "onboard_time": 1681291169,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183648,
-      "num": 183648,
-      "word": "阮佳",
-      "onboard_time": 1682058509,
-      "rank": 36,
-      "category": "动漫"
     },
     {
       "raw_hot": 183611,
@@ -37113,6 +37145,14 @@
       "onboard_time": 1681221090,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172977,
+      "num": 172977,
+      "word": "宝马mini的公关你给打几分",
+      "onboard_time": 1682061749,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172963,
@@ -38705,6 +38745,14 @@
       "onboard_time": 1681554625,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162896,
+      "num": 162896,
+      "word": "山西下雪",
+      "onboard_time": 1682059589,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162838,
@@ -40819,6 +40867,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 149674,
+      "num": 149674,
+      "word": "两年比我一辈子经历都多",
+      "onboard_time": 1682059408,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 149653,
       "num": 149653,
       "word": "惊天救援王千源人物预告",
@@ -41145,6 +41201,14 @@
       "onboard_time": 1681168699,
       "rank": 16,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 147702,
+      "num": 147702,
+      "word": "日本国会",
+      "onboard_time": 1682061209,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 147587,
@@ -42563,6 +42627,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 137698,
+      "num": 137698,
+      "word": "韩国网友把王宝强认成朴振英",
+      "onboard_time": 1682062410,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137683,
       "num": 137683,
       "word": "为什么说销售是最磨炼人的岗位",
@@ -42593,14 +42665,6 @@
       "onboard_time": 1680941366,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137233,
-      "num": 137233,
-      "word": "山西下雪",
-      "onboard_time": 1682059589,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137200,
@@ -42801,14 +42865,6 @@
       "onboard_time": 1680936026,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 135900,
-      "num": 135900,
-      "word": "简历造假让我碰见了",
-      "onboard_time": 1682061089,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 135895,
@@ -43707,14 +43763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128905,
-      "num": 128905,
-      "word": "日本国会",
-      "onboard_time": 1682061209,
-      "rank": 46,
-      "category": "国外要闻,社会新闻"
-    },
-    {
       "raw_hot": 128825,
       "num": 128825,
       "word": "芒果迷综规则怪谈",
@@ -43729,14 +43777,6 @@
       "onboard_time": 1681801589,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 128793,
-      "num": 128793,
-      "word": "两年比我一辈子经历都多",
-      "onboard_time": 1682059408,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 128765,
