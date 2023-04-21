@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682102056830,
+  "endTime": 1682104391736,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -449,6 +449,14 @@
       "onboard_time": 1682082869,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19205,
+      "num": 22480,
+      "word": "今屿 露娜的神",
+      "onboard_time": 1682087314,
+      "rank": 46,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
