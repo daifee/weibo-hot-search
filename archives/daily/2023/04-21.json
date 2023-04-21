@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682084024201,
+  "endTime": 1682086536641,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -163,6 +163,14 @@
       "category": "社会新闻,国外要闻"
     },
     {
+      "raw_hot": 1536016,
+      "num": 1536016,
+      "word": "哇唧唧哇 空座",
+      "onboard_time": 1682081130,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1522321,
       "num": 701101,
       "word": "韩国网友把王宝强认成朴振英",
@@ -209,14 +217,6 @@
       "onboard_time": 1682076267,
       "rank": 33,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 1279489,
-      "num": 1279489,
-      "word": "哇唧唧哇 空座",
-      "onboard_time": 1682081130,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 1249131,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 891034,
+      "num": 891034,
+      "word": "中方要求韩方在台湾问题上谨言慎行",
+      "onboard_time": 1682082210,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 843268,
       "num": 804633,
       "word": "周也 冷脸小白花",
@@ -419,20 +427,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 762075,
+      "num": 455908,
+      "word": "白百何说自己掉了1.2斤脂肪",
+      "onboard_time": 1682072911,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 754935,
       "num": 754935,
       "word": "下雪",
       "onboard_time": 1682079270,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752298,
-      "num": 455908,
-      "word": "白百何说自己掉了1.2斤脂肪",
-      "onboard_time": 1682072911,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 748742,
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666656,
+      "num": 666656,
+      "word": "樊振东2比3A勒布伦",
+      "onboard_time": 1682084613,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 651383,
       "num": 651383,
       "word": "罗云熙白鹿时尚芭莎",
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 591580,
-      "num": 314797,
+      "num": 314811,
       "word": "唐诗逸 白玉兰戏剧主角奖",
       "onboard_time": 1682082930,
       "rank": 35,
@@ -641,14 +657,6 @@
       "onboard_time": 1681990049,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534225,
-      "num": 324190,
-      "word": "中方要求韩方在台湾问题上谨言慎行",
-      "onboard_time": 1682082210,
-      "rank": 22,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 530009,
@@ -795,6 +803,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427199,
+      "num": 314311,
+      "word": "灌篮高手",
+      "onboard_time": 1681989268,
+      "rank": 15,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 425714,
+      "num": 292051,
+      "word": "流川枫 樱木花道",
+      "onboard_time": 1682084193,
+      "rank": 18,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 425066,
       "num": 425066,
       "word": "集美 集帅",
@@ -875,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400126,
-      "num": 314311,
-      "word": "灌篮高手",
-      "onboard_time": 1681989268,
-      "rank": 15,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 400080,
       "num": 400080,
       "word": "五一民宿预订现涨价毁约潮",
@@ -905,6 +921,14 @@
       "onboard_time": 1682002655,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391900,
+      "num": 265900,
+      "word": "SEVENTEEN 克拉盘",
+      "onboard_time": 1682084733,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 391864,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1682050289,
       "rank": 28,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 322586,
+      "num": 322586,
+      "word": "九尾 探草",
+      "onboard_time": 1682084373,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 316250,
@@ -1355,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252226,
+      "num": 252226,
+      "word": "华侨大学时隔八年再夺东南王",
+      "onboard_time": 1682083409,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252073,
       "num": 252073,
       "word": "章昊 福师大",
@@ -1427,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239241,
+      "num": 209794,
+      "word": "电影传说全阵容官宣",
+      "onboard_time": 1682086111,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238909,
       "num": 196609,
       "word": "白玉兰戏剧表演艺术奖",
@@ -1441,6 +1489,14 @@
       "onboard_time": 1682077470,
       "rank": 24,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 238002,
+      "num": 161981,
+      "word": "王源巡演预售",
+      "onboard_time": 1682085573,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 236678,
@@ -1507,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226594,
+      "num": 226594,
+      "word": "TTG对战KSG",
+      "onboard_time": 1682079688,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225995,
       "num": 225995,
       "word": "张元英的愿望",
@@ -1568,14 +1632,6 @@
       "word": "Hero零封TES",
       "onboard_time": 1682075190,
       "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 219413,
-      "num": 223469,
-      "word": "TTG对战KSG",
-      "onboard_time": 1682079688,
-      "rank": 29,
       "category": "游戏"
     },
     {
@@ -1673,6 +1729,14 @@
       "onboard_time": 1682057787,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206859,
+      "num": 206859,
+      "word": "安以轩未现身陈荣炼庭审现场",
+      "onboard_time": 1682084733,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 206422,
@@ -1803,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189282,
+      "num": 142167,
+      "word": "鹿晗跳土味舞蹈",
+      "onboard_time": 1682085573,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188908,
       "num": 188908,
       "word": "陈鑫海新剧浴缸吻",
@@ -1915,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179719,
+      "num": 138858,
+      "word": "灌篮高手票房破2亿",
+      "onboard_time": 1682083771,
+      "rank": 42,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 179465,
       "num": 179465,
       "word": "XBB.1.16是否会导致结膜炎",
@@ -1929,14 +2009,6 @@
       "onboard_time": 1682004812,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178340,
-      "num": 178340,
-      "word": "华侨大学时隔八年再夺东南王",
-      "onboard_time": 1682083409,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 177980,
@@ -2043,6 +2115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153022,
+      "num": 132467,
+      "word": "朱一龙帮倪妮整理裙摆",
+      "onboard_time": 1682086469,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153004,
       "num": 153004,
       "word": "长月烬明一碗粥引发的血案",
@@ -2144,6 +2224,14 @@
       "word": "民警破案后对监控比耶回应小偷挑衅",
       "onboard_time": 1682041465,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142049,
+      "num": 1314434,
+      "word": "县在出发",
+      "onboard_time": 1682083712,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2463,14 +2551,6 @@
       "num": 2208215,
       "word": "一起回顾中国载人航天高光时刻",
       "onboard_time": 1682069308,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47499,
-      "num": 1314434,
-      "word": "县在出发",
-      "onboard_time": 1682083712,
       "rank": 2,
       "category": "社会新闻"
     },

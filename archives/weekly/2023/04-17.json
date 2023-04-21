@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682084024201,
+  "endTime": 1682086536641,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -731,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1536016,
+      "num": 1536016,
+      "word": "哇唧唧哇 空座",
+      "onboard_time": 1682081130,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1535915,
       "num": 128797,
       "word": "邓紫棋没去何超莲婚礼",
@@ -985,14 +993,6 @@
       "onboard_time": 1682076267,
       "rank": 33,
       "category": "影视,时尚"
-    },
-    {
-      "raw_hot": 1279489,
-      "num": 1279489,
-      "word": "哇唧唧哇 空座",
-      "onboard_time": 1682081130,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 1275635,
@@ -1531,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 891034,
+      "num": 891034,
+      "word": "中方要求韩方在台湾问题上谨言慎行",
+      "onboard_time": 1682082210,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 890810,
       "num": 505908,
       "word": "周杰伦向网易索赔205万元",
@@ -1803,20 +1811,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 762075,
+      "num": 455908,
+      "word": "白百何说自己掉了1.2斤脂肪",
+      "onboard_time": 1682072911,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 754935,
       "num": 754935,
       "word": "下雪",
       "onboard_time": 1682079270,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752298,
-      "num": 455908,
-      "word": "白百何说自己掉了1.2斤脂肪",
-      "onboard_time": 1682072911,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 748742,
@@ -2139,6 +2147,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 666656,
+      "num": 666656,
+      "word": "樊振东2比3A勒布伦",
+      "onboard_time": 1682084613,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 665866,
       "num": 665866,
       "word": "林某侮辱诽谤江秋莲获刑2年3个月",
@@ -2420,7 +2436,7 @@
     },
     {
       "raw_hot": 591580,
-      "num": 314797,
+      "num": 314811,
       "word": "唐诗逸 白玉兰戏剧主角奖",
       "onboard_time": 1682082930,
       "rank": 35,
@@ -2737,14 +2753,6 @@
       "onboard_time": 1681964552,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 534225,
-      "num": 324190,
-      "word": "中方要求韩方在台湾问题上谨言慎行",
-      "onboard_time": 1682082210,
-      "rank": 22,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 533775,
@@ -3515,6 +3523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425714,
+      "num": 292051,
+      "word": "流川枫 樱木花道",
+      "onboard_time": 1682084193,
+      "rank": 18,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 425066,
       "num": 425066,
       "word": "集美 集帅",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1681725149,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 391900,
+      "num": 265900,
+      "word": "SEVENTEEN 克拉盘",
+      "onboard_time": 1682084733,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 391864,
@@ -4849,6 +4873,14 @@
       "onboard_time": 1681724425,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 322586,
+      "num": 322586,
+      "word": "九尾 探草",
+      "onboard_time": 1682084373,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 322573,
@@ -5971,6 +6003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252226,
+      "num": 252226,
+      "word": "华侨大学时隔八年再夺东南王",
+      "onboard_time": 1682083409,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252073,
       "num": 252073,
       "word": "章昊 福师大",
@@ -6171,6 +6211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239241,
+      "num": 209794,
+      "word": "电影传说全阵容官宣",
+      "onboard_time": 1682086111,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 238909,
       "num": 196609,
       "word": "白玉兰戏剧表演艺术奖",
@@ -6225,6 +6273,14 @@
       "onboard_time": 1681884208,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238002,
+      "num": 161981,
+      "word": "王源巡演预售",
+      "onboard_time": 1682085573,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 237543,
@@ -6451,6 +6507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226594,
+      "num": 226594,
+      "word": "TTG对战KSG",
+      "onboard_time": 1682079688,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225995,
       "num": 225995,
       "word": "张元英的愿望",
@@ -6616,14 +6680,6 @@
       "word": "Hero零封TES",
       "onboard_time": 1682075190,
       "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 219413,
-      "num": 223469,
-      "word": "TTG对战KSG",
-      "onboard_time": 1682079688,
-      "rank": 29,
       "category": "游戏"
     },
     {
@@ -7089,6 +7145,14 @@
       "onboard_time": 1681740207,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206859,
+      "num": 206859,
+      "word": "安以轩未现身陈荣炼庭审现场",
+      "onboard_time": 1682084733,
+      "rank": 33,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 206673,
@@ -8059,6 +8123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189282,
+      "num": 142167,
+      "word": "鹿晗跳土味舞蹈",
+      "onboard_time": 1682085573,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188935,
       "num": 199873,
       "word": "黄之锋被控藐视法庭罪判囚三个月",
@@ -8563,6 +8635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179719,
+      "num": 138858,
+      "word": "灌篮高手票房破2亿",
+      "onboard_time": 1682083771,
+      "rank": 42,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 179678,
       "num": 179678,
       "word": "宝马家在中国",
@@ -8609,14 +8689,6 @@
       "onboard_time": 1682004812,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178340,
-      "num": 178340,
-      "word": "华侨大学时隔八年再夺东南王",
-      "onboard_time": 1682083409,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 177874,
@@ -9427,6 +9499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153022,
+      "num": 132467,
+      "word": "朱一龙帮倪妮整理裙摆",
+      "onboard_time": 1682086469,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152793,
       "num": 152793,
       "word": "中国说唱巅峰对决",
@@ -9848,6 +9928,14 @@
       "word": "民警破案后对监控比耶回应小偷挑衅",
       "onboard_time": 1682041465,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142049,
+      "num": 1314434,
+      "word": "县在出发",
+      "onboard_time": 1682083712,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11641,14 +11729,6 @@
       "onboard_time": 1681679652,
       "rank": 47,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 47499,
-      "num": 1314434,
-      "word": "县在出发",
-      "onboard_time": 1682083712,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46552,
