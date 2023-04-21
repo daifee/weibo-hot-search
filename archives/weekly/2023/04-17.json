@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682081338553,
+  "endTime": 1682083226327,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1796189,
+      "num": 1796189,
+      "word": "张子枫 C位烫脚",
+      "onboard_time": 1682081250,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1794932,
       "num": 1794932,
       "word": "山科大北门伤人事件致1死6伤",
@@ -1083,6 +1091,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1125888,
+      "num": 1010162,
+      "word": "老番茄求婚",
+      "onboard_time": 1682082869,
+      "rank": 5,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1123108,
+      "num": 1123108,
+      "word": "哇唧唧哇 空座",
+      "onboard_time": 1682081130,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1120934,
       "num": 717963,
       "word": "杜华你好大的福气",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1681958428,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 986532,
+      "num": 986532,
+      "word": "白鹿 孙珍妮",
+      "onboard_time": 1682079688,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 984392,
@@ -1731,14 +1763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 786755,
-      "num": 786755,
-      "word": "白鹿 孙珍妮",
-      "onboard_time": 1682079688,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 784945,
       "num": 784945,
       "word": "男子瘫痪儿子不愿供养将其活活饿死",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1682002896,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 754935,
+      "num": 754935,
+      "word": "下雪",
+      "onboard_time": 1682079270,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 748742,
@@ -1832,14 +1864,6 @@
       "word": "女子入职58天迟到21次不满被辞",
       "onboard_time": 1681949010,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 724331,
-      "num": 724331,
-      "word": "下雪",
-      "onboard_time": 1682079270,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4243,6 +4267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364141,
+      "num": 265075,
+      "word": "何悯鸿恋爱脑",
+      "onboard_time": 1682080649,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 363927,
       "num": 363927,
       "word": "小米手环8",
@@ -5555,12 +5587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274593,
+      "num": 274593,
+      "word": "TTG bp我没懂",
+      "onboard_time": 1682080709,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274591,
       "num": 274591,
       "word": "LCK亚运会预选阵容",
       "onboard_time": 1682046027,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 272700,
+      "num": 272700,
+      "word": "孙颖莎晋级澳门赛四强",
+      "onboard_time": 1682081789,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 271719,
@@ -5835,20 +5883,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255898,
+      "num": 255898,
+      "word": "中方要求韩方在台湾问题上谨言慎行",
+      "onboard_time": 1682082210,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 255809,
       "num": 255809,
       "word": "张颜齐说宋雨琦是救命恩人",
       "onboard_time": 1682051313,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255169,
-      "num": 208211,
-      "word": "哇唧唧哇 空座",
-      "onboard_time": 1682081130,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 255016,
@@ -5889,6 +5937,14 @@
       "onboard_time": 1682057130,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252151,
+      "num": 252151,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1682081550,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 252073,
@@ -6067,14 +6123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244011,
-      "num": 182950,
-      "word": "张子枫 C位烫脚",
-      "onboard_time": 1682081250,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 242416,
       "num": 242416,
       "word": "白敬亭镜中敬中镜",
@@ -6097,6 +6145,14 @@
       "onboard_time": 1681986146,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238909,
+      "num": 196609,
+      "word": "白玉兰戏剧表演艺术奖",
+      "onboard_time": 1682083050,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 238749,
@@ -6819,6 +6875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 210670,
+      "num": 186126,
+      "word": "朱一龙今天好忙",
+      "onboard_time": 1682082749,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210645,
       "num": 210645,
       "word": "朱一龙 火锅脑袋",
@@ -6857,14 +6921,6 @@
       "onboard_time": 1681811428,
       "rank": 4,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 209438,
-      "num": 179241,
-      "word": "何悯鸿恋爱脑",
-      "onboard_time": 1682080649,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 209379,
@@ -6931,14 +6987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208009,
-      "num": 208009,
-      "word": "TTG bp我没懂",
-      "onboard_time": 1682080709,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207945,
       "num": 207945,
       "word": "李晟敏将trot出道",
@@ -6985,6 +7033,14 @@
       "onboard_time": 1681787667,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 207454,
+      "num": 178822,
+      "word": "唐诗逸 白玉兰戏剧主角奖",
+      "onboard_time": 1682082930,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 207401,
@@ -8299,6 +8355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183287,
+      "num": 154288,
+      "word": "欢乐颂",
+      "onboard_time": 1682078909,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183215,
       "num": 169273,
       "word": "贺峻霖双手插兜海报",
@@ -8617,14 +8681,6 @@
       "onboard_time": 1681945643,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173903,
-      "num": 154288,
-      "word": "欢乐颂",
-      "onboard_time": 1682078909,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 173638,
@@ -9915,6 +9971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136839,
+      "num": 136839,
+      "word": "马龙3比0雨果",
+      "onboard_time": 1682081730,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136784,
       "num": 136784,
       "word": "张本智和3比1达科",
@@ -10113,6 +10177,14 @@
       "onboard_time": 1681731624,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129625,
+      "num": 149022,
+      "word": "蔡徐坤隔空点亮水立方",
+      "onboard_time": 1682082869,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129477,
@@ -11505,6 +11577,14 @@
       "onboard_time": 1681887808,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52126,
+      "num": 333716,
+      "word": "北影节红毯女星造型",
+      "onboard_time": 1682082028,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 51826,
