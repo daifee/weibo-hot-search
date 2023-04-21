@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682119012919,
+  "endTime": 1682120016150,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -51,20 +51,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 592047,
+      "num": 171002,
+      "word": "杨幂站姐放出原图",
+      "onboard_time": 1682118737,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 571325,
+      "num": 571325,
+      "word": "5岁女孩被拐26年后回家父母双亡",
+      "onboard_time": 1682091928,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 542652,
       "num": 542652,
       "word": "章子怡的脸能打",
       "onboard_time": 1682079570,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 527681,
-      "num": 527681,
-      "word": "5岁女孩被拐26年后回家父母双亡",
-      "onboard_time": 1682091928,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466606,
@@ -195,12 +203,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 234652,
+      "num": 169881,
+      "word": "杭州男子失踪7天找到时已失温",
+      "onboard_time": 1682118919,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225077,
       "num": 225077,
       "word": "某幻 老番茄live嘉宾",
       "onboard_time": 1682088454,
       "rank": 19,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 221786,
+      "num": 169151,
+      "word": "陈都灵礼服开线了",
+      "onboard_time": 1682118798,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201056,
@@ -217,6 +241,22 @@
       "onboard_time": 1682077349,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189421,
+      "num": 168308,
+      "word": "失业女生摆摊一天卖5块崩溃痛哭",
+      "onboard_time": 1682119459,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188398,
+      "num": 188398,
+      "word": "一年被辞退四次是什么体验",
+      "onboard_time": 1682112251,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 182424,
@@ -243,12 +283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175390,
-      "num": 175390,
-      "word": "一年被辞退四次是什么体验",
-      "onboard_time": 1682112251,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 172765,
+      "num": 172765,
+      "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
+      "onboard_time": 1682105953,
+      "rank": 7,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 170974,
@@ -267,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165748,
-      "num": 165748,
-      "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
-      "onboard_time": 1682105953,
-      "rank": 7,
-      "category": "社会正能量"
+      "raw_hot": 168290,
+      "num": 168290,
+      "word": "二手车贩直播砸宝马",
+      "onboard_time": 1682118137,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162042,
@@ -281,6 +321,14 @@
       "onboard_time": 1682084373,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152087,
+      "num": 152087,
+      "word": "宝马4S店弄坏客户摩托后私换零件",
+      "onboard_time": 1682118137,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148377,
@@ -315,6 +363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127561,
+      "num": 127561,
+      "word": "网传男孩将男童带顶楼踹出电梯",
+      "onboard_time": 1682119040,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123115,
       "num": 123115,
       "word": "樊振东2比3A勒布伦",
@@ -339,20 +395,28 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 112420,
+      "num": 87277,
+      "word": "宝马回应女生在展台直播被拖走事件",
+      "onboard_time": 1682119641,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112030,
+      "num": 112030,
+      "word": "范志毅把脸都不要了唱进五哈主题曲",
+      "onboard_time": 1682107391,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111133,
       "num": 111133,
       "word": "清清的吕布累坏了",
       "onboard_time": 1682088810,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110705,
-      "num": 110705,
-      "word": "杨幂站姐放出原图",
-      "onboard_time": 1682118737,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 108751,
@@ -363,6 +427,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 106243,
+      "num": 87212,
+      "word": "广东一40岁男子晋升为岳父",
+      "onboard_time": 1682119519,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105011,
       "num": 105011,
       "word": "安以轩未现身陈荣炼庭审现场",
@@ -371,8 +443,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 102444,
-      "num": 97451,
+      "raw_hot": 104800,
+      "num": 104800,
       "word": "熊猫宝宝卡屁股被游客嘲笑",
       "onboard_time": 1682097080,
       "rank": 48,
@@ -419,20 +491,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 86924,
-      "num": 86924,
-      "word": "范志毅把脸都不要了唱进五哈主题曲",
-      "onboard_time": 1682107391,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 85993,
       "num": 85993,
       "word": "千万不要让男人去买菜",
       "onboard_time": 1682110392,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85295,
+      "num": 85295,
+      "word": "阿森纳三连平",
+      "onboard_time": 1682118438,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 85177,
@@ -443,36 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84917,
-      "num": 67296,
-      "word": "阿森纳三连平",
-      "onboard_time": 1682118438,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 76698,
-      "num": 76698,
-      "word": "宝马4S店弄坏客户摩托后私换零件",
-      "onboard_time": 1682118137,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75924,
       "num": 96826,
       "word": "五哈主题曲",
       "onboard_time": 1682084670,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74106,
-      "num": 65668,
-      "word": "二手车贩直播砸宝马",
-      "onboard_time": 1682118137,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73847,
@@ -507,14 +555,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 63722,
-      "num": 63722,
-      "word": "陈都灵礼服开线了",
-      "onboard_time": 1682118798,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 62587,
       "num": 53509,
       "word": "张颂文走红毯好忙",
@@ -523,16 +563,32 @@
       "category": "影视"
     },
     {
-      "raw_hot": 57093,
-      "num": 57093,
+      "raw_hot": 61957,
+      "num": 61957,
       "word": "任敏暗黑魔女造型",
       "onboard_time": 1682117476,
       "rank": 37,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 46161,
-      "num": 46161,
+      "raw_hot": 59679,
+      "num": 59679,
+      "word": "长月烬明的反盗版声明",
+      "onboard_time": 1682119880,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 52500,
+      "num": 52500,
+      "word": "特斯拉",
+      "onboard_time": 1682120000,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 46345,
+      "num": 51439,
       "word": "AI怪盗积德",
       "onboard_time": 1682111291,
       "rank": 48,
@@ -545,14 +601,6 @@
       "onboard_time": 1682073509,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 39595,
-      "num": 43237,
-      "word": "杭州男子失踪7天找到时已失温",
-      "onboard_time": 1682118919,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39171,

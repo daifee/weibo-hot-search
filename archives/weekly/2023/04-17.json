@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682119012919,
+  "endTime": 1682120016150,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -2459,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592047,
+      "num": 171002,
+      "word": "杨幂站姐放出原图",
+      "onboard_time": 1682118737,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 591580,
       "num": 382603,
       "word": "唐诗逸 白玉兰戏剧主角奖",
@@ -2593,6 +2601,14 @@
       "onboard_time": 1681862487,
       "rank": 6,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 571325,
+      "num": 571325,
+      "word": "5岁女孩被拐26年后回家父母双亡",
+      "onboard_time": 1682091928,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 570693,
@@ -2848,14 +2864,6 @@
       "word": "长峰医院被中国非公医协摘牌",
       "onboard_time": 1681902207,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 527681,
-      "num": 527681,
-      "word": "5岁女孩被拐26年后回家父母双亡",
-      "onboard_time": 1682091928,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -6443,6 +6451,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 234652,
+      "num": 169881,
+      "word": "杭州男子失踪7天找到时已失温",
+      "onboard_time": 1682118919,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234495,
       "num": 234495,
       "word": "快船战胜太阳",
@@ -6761,6 +6777,14 @@
       "onboard_time": 1681791451,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 221786,
+      "num": 169151,
+      "word": "陈都灵礼服开线了",
+      "onboard_time": 1682118798,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221703,
@@ -8251,6 +8275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189421,
+      "num": 168308,
+      "word": "失业女生摆摊一天卖5块崩溃痛哭",
+      "onboard_time": 1682119459,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189282,
       "num": 142167,
       "word": "鹿晗跳土味舞蹈",
@@ -8288,6 +8320,14 @@
       "word": "减肥舞",
       "onboard_time": 1681733426,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188398,
+      "num": 188398,
+      "word": "一年被辞退四次是什么体验",
+      "onboard_time": 1682112251,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -8899,14 +8939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175390,
-      "num": 175390,
-      "word": "一年被辞退四次是什么体验",
-      "onboard_time": 1682112251,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175241,
       "num": 1195069,
       "word": "金丝猴进村觅食村民热情招待",
@@ -8977,6 +9009,14 @@
       "onboard_time": 1681968029,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172765,
+      "num": 172765,
+      "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
+      "onboard_time": 1682105953,
+      "rank": 7,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 172608,
@@ -9107,6 +9147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168290,
+      "num": 168290,
+      "word": "二手车贩直播砸宝马",
+      "onboard_time": 1682118137,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167792,
       "num": 151878,
       "word": "INTO1告别限定演唱会时光场",
@@ -9169,14 +9217,6 @@
       "onboard_time": 1681729409,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 165748,
-      "num": 165748,
-      "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
-      "onboard_time": 1682105953,
-      "rank": 7,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 165654,
@@ -9681,6 +9721,14 @@
       "onboard_time": 1682058088,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152087,
+      "num": 152087,
+      "word": "宝马4S店弄坏客户摩托后私换零件",
+      "onboard_time": 1682118137,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151957,
@@ -10579,6 +10627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127561,
+      "num": 127561,
+      "word": "网传男孩将男童带顶楼踹出电梯",
+      "onboard_time": 1682119040,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127448,
       "num": 127448,
       "word": "闵玧其新专主打曲叫解禁",
@@ -10987,12 +11043,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112420,
+      "num": 87277,
+      "word": "宝马回应女生在展台直播被拖走事件",
+      "onboard_time": 1682119641,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112190,
       "num": 112190,
       "word": "萨卡失点",
       "onboard_time": 1681659447,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112030,
+      "num": 112030,
+      "word": "范志毅把脸都不要了唱进五哈主题曲",
+      "onboard_time": 1682107391,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 111471,
@@ -11017,14 +11089,6 @@
       "onboard_time": 1681651468,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110705,
-      "num": 110705,
-      "word": "杨幂站姐放出原图",
-      "onboard_time": 1682118737,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 110210,
@@ -11171,6 +11235,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 106243,
+      "num": 87212,
+      "word": "广东一40岁男子晋升为岳父",
+      "onboard_time": 1682119519,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105648,
       "num": 105648,
       "word": "你是买书就等于读书的人吗",
@@ -11193,6 +11265,14 @@
       "onboard_time": 1681784246,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104800,
+      "num": 104800,
+      "word": "熊猫宝宝卡屁股被游客嘲笑",
+      "onboard_time": 1682097080,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 104159,
@@ -11249,14 +11329,6 @@
       "onboard_time": 1681745667,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102444,
-      "num": 97451,
-      "word": "熊猫宝宝卡屁股被游客嘲笑",
-      "onboard_time": 1682097080,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 102159,
@@ -11563,14 +11635,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 86924,
-      "num": 86924,
-      "word": "范志毅把脸都不要了唱进五哈主题曲",
-      "onboard_time": 1682107391,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86596,
       "num": 86596,
       "word": "精神堡垒",
@@ -11611,20 +11675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85295,
+      "num": 85295,
+      "word": "阿森纳三连平",
+      "onboard_time": 1682118438,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85136,
       "num": 331612,
       "word": "什么是智能汽车天花板",
       "onboard_time": 1681727906,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 84917,
-      "num": 67296,
-      "word": "阿森纳三连平",
-      "onboard_time": 1682118438,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 84915,
@@ -11739,14 +11803,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 76698,
-      "num": 76698,
-      "word": "宝马4S店弄坏客户摩托后私换零件",
-      "onboard_time": 1682118137,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76614,
       "num": 76614,
       "word": "王濛单手拖跑丁程鑫",
@@ -11761,14 +11817,6 @@
       "onboard_time": 1681653927,
       "rank": 49,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 74106,
-      "num": 65668,
-      "word": "二手车贩直播砸宝马",
-      "onboard_time": 1682118137,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73505,
@@ -11875,14 +11923,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 63722,
-      "num": 63722,
-      "word": "陈都灵礼服开线了",
-      "onboard_time": 1682118798,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 62619,
       "num": 79054,
       "word": "金像奖",
@@ -11899,20 +11939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61957,
+      "num": 61957,
+      "word": "任敏暗黑魔女造型",
+      "onboard_time": 1682117476,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 59679,
+      "num": 59679,
+      "word": "长月烬明的反盗版声明",
+      "onboard_time": 1682119880,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 58153,
       "num": 1876499,
       "word": "人民海军74周岁",
       "onboard_time": 1681901727,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 57093,
-      "num": 57093,
-      "word": "任敏暗黑魔女造型",
-      "onboard_time": 1682117476,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 56963,
@@ -11963,6 +12011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52500,
+      "num": 52500,
+      "word": "特斯拉",
+      "onboard_time": 1682120000,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 51826,
       "num": 328187,
       "word": "苏醒现场版小城夏天",
@@ -11987,8 +12043,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46161,
-      "num": 46161,
+      "raw_hot": 46345,
+      "num": 51439,
       "word": "AI怪盗积德",
       "onboard_time": 1682111291,
       "rank": 48,
@@ -12056,14 +12112,6 @@
       "word": "在山东感受黄河文明的脉动",
       "onboard_time": 1681808426,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39595,
-      "num": 43237,
-      "word": "杭州男子失踪7天找到时已失温",
-      "onboard_time": 1682118919,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
