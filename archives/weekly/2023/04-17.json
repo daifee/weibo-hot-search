@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682058937595,
+  "endTime": 1682061367580,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -153,6 +153,14 @@
       "onboard_time": 1681701565,
       "rank": 4,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 3003707,
+      "num": 3003707,
+      "word": "浙大学生因辱华言论被拒录公务员",
+      "onboard_time": 1682056050,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2969977,
@@ -513,14 +521,6 @@
       "onboard_time": 1681786645,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1832687,
-      "num": 1832687,
-      "word": "浙大学生因辱华言论被拒录公务员",
-      "onboard_time": 1682056050,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1813517,
@@ -891,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1304408,
+      "num": 1304408,
+      "word": "原来考个本科真的很难",
+      "onboard_time": 1682058088,
+      "rank": 46,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 1297194,
       "num": 1297194,
       "word": "夫妻赌气喝洁厕剂丈夫报警后让先救妻子",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1681793316,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1065766,
+      "num": 1065766,
+      "word": "日本",
+      "onboard_time": 1682058208,
+      "rank": 16,
+      "category": "社会新闻,国外要闻"
     },
     {
       "raw_hot": 1049291,
@@ -1651,6 +1667,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 748742,
+      "num": 748742,
+      "word": "吴昕李维嘉同框",
+      "onboard_time": 1682058448,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 733181,
       "num": 529734,
       "word": "导师招学生继承自己的衣钵",
@@ -1688,6 +1712,14 @@
       "word": "女子入职58天迟到21次不满被辞",
       "onboard_time": 1681949010,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 726143,
+      "num": 726143,
+      "word": "因姓氏太罕见全村集体改姓鸭",
+      "onboard_time": 1682057968,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2259,6 +2291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 573889,
+      "num": 573889,
+      "word": "谁是乐华的下一个王一博",
+      "onboard_time": 1682057547,
+      "rank": 22,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 573498,
       "num": 335764,
       "word": "吴镇宇 香港电影青黄不接",
@@ -2353,14 +2393,6 @@
       "onboard_time": 1681884689,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 552824,
-      "num": 552824,
-      "word": "谁是乐华的下一个王一博",
-      "onboard_time": 1682057547,
-      "rank": 22,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 551547,
@@ -2747,6 +2779,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 486831,
+      "num": 486831,
+      "word": "长月烬明有八个编剧",
+      "onboard_time": 1682059648,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484682,
       "num": 484682,
       "word": "工作人员为王鹤棣发声",
@@ -2825,6 +2865,14 @@
       "onboard_time": 1681994668,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 477718,
+      "num": 339279,
+      "word": "基金",
+      "onboard_time": 1682060728,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 477702,
@@ -3467,14 +3515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399536,
-      "num": 399536,
-      "word": "日本",
-      "onboard_time": 1682058208,
-      "rank": 16,
-      "category": "社会新闻,国外要闻"
-    },
-    {
       "raw_hot": 397380,
       "num": 263176,
       "word": "五条悟",
@@ -3995,14 +4035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359950,
-      "num": 359950,
-      "word": "吴昕李维嘉同框",
-      "onboard_time": 1682058448,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 359890,
       "num": 359890,
       "word": "榴莲批发价1斤低至20元",
@@ -4251,6 +4283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337934,
+      "num": 337934,
+      "word": "杨幂到达长沙",
+      "onboard_time": 1682056651,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337190,
       "num": 337190,
       "word": "张大大迎宾气球",
@@ -4329,14 +4369,6 @@
       "onboard_time": 1681879171,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 331678,
-      "num": 331678,
-      "word": "因姓氏太罕见全村集体改姓鸭",
-      "onboard_time": 1682057968,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 330925,
@@ -4651,6 +4683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 312585,
+      "num": 312585,
+      "word": "kms",
+      "onboard_time": 1682060610,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 312240,
       "num": 312240,
       "word": "中国科学家算出了银河系体重",
@@ -4873,6 +4913,14 @@
       "onboard_time": 1681806690,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292771,
+      "num": 292771,
+      "word": "股市",
+      "onboard_time": 1682059827,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 292706,
@@ -5241,14 +5289,6 @@
       "onboard_time": 1681737507,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 267664,
-      "num": 267664,
-      "word": "原来考个本科真的很难",
-      "onboard_time": 1682058088,
-      "rank": 46,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 267527,
@@ -5713,6 +5753,14 @@
       "onboard_time": 1682050652,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236339,
+      "num": 236339,
+      "word": "易烊千玺文字采访",
+      "onboard_time": 1682060969,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 236026,
@@ -6217,14 +6265,6 @@
       "onboard_time": 1681996890,
       "rank": 47,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 212231,
-      "num": 212231,
-      "word": "杨幂到达长沙",
-      "onboard_time": 1682056651,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 212063,
@@ -7673,6 +7713,14 @@
       "onboard_time": 1681779211,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183648,
+      "num": 183648,
+      "word": "阮佳",
+      "onboard_time": 1682058509,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 183215,
@@ -9171,6 +9219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137233,
+      "num": 137233,
+      "word": "山西下雪",
+      "onboard_time": 1682059589,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137200,
       "num": 137200,
       "word": "王栎鑫挣钱致富经",
@@ -9193,6 +9249,14 @@
       "onboard_time": 1681778248,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135900,
+      "num": 135900,
+      "word": "简历造假让我碰见了",
+      "onboard_time": 1682061089,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 135895,
@@ -9403,12 +9467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128905,
+      "num": 128905,
+      "word": "日本国会",
+      "onboard_time": 1682061209,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 128794,
       "num": 128794,
       "word": "李荣浩苏州演唱会",
       "onboard_time": 1681801589,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128793,
+      "num": 128793,
+      "word": "两年比我一辈子经历都多",
+      "onboard_time": 1682059408,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 128661,

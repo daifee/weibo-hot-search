@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682058937595,
+  "endTime": 1682061367580,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3003707,
+      "num": 3003707,
+      "word": "浙大学生因辱华言论被拒录公务员",
+      "onboard_time": 1682056050,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2887466,
       "num": 2887466,
       "word": "安以轩老公被判监禁14年",
@@ -65,14 +73,6 @@
       "onboard_time": 1682035288,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1832687,
-      "num": 1832687,
-      "word": "浙大学生因辱华言论被拒录公务员",
-      "onboard_time": 1682056050,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1701640,
@@ -123,6 +123,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1304408,
+      "num": 1304408,
+      "word": "原来考个本科真的很难",
+      "onboard_time": 1682058088,
+      "rank": 46,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 1249131,
       "num": 425019,
       "word": "窦骁敷着面膜向何超莲求婚",
@@ -169,6 +177,14 @@
       "onboard_time": 1682052697,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1065766,
+      "num": 1065766,
+      "word": "日本",
+      "onboard_time": 1682058208,
+      "rank": 16,
+      "category": "社会新闻,国外要闻"
     },
     {
       "raw_hot": 1019871,
@@ -267,6 +283,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 748742,
+      "num": 748742,
+      "word": "吴昕李维嘉同框",
+      "onboard_time": 1682058448,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 726143,
+      "num": 726143,
+      "word": "因姓氏太罕见全村集体改姓鸭",
+      "onboard_time": 1682057968,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717870,
       "num": 717870,
       "word": "孕妈大笑时肚子里的宝宝",
@@ -331,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 573889,
+      "num": 573889,
+      "word": "谁是乐华的下一个王一博",
+      "onboard_time": 1682057547,
+      "rank": 22,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 570693,
       "num": 548970,
       "word": "韩团选秀首个中C",
@@ -345,14 +385,6 @@
       "onboard_time": 1682035407,
       "rank": 8,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 552824,
-      "num": 552824,
-      "word": "谁是乐华的下一个王一博",
-      "onboard_time": 1682057547,
-      "rank": 22,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 541352,
@@ -435,12 +467,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 486831,
+      "num": 486831,
+      "word": "长月烬明有八个编剧",
+      "onboard_time": 1682059648,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483597,
       "num": 483597,
       "word": "虞书欣翻跳Jennie新歌舞蹈",
       "onboard_time": 1682040447,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 477718,
+      "num": 339279,
+      "word": "基金",
+      "onboard_time": 1682060728,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 453884,
@@ -555,14 +603,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 399536,
-      "num": 399536,
-      "word": "日本",
-      "onboard_time": 1682058208,
-      "rank": 16,
-      "category": "社会新闻,国外要闻"
-    },
-    {
       "raw_hot": 397166,
       "num": 397166,
       "word": "俞敏洪建议董宇辉出国留学",
@@ -601,14 +641,6 @@
       "onboard_time": 1682043746,
       "rank": 21,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 359950,
-      "num": 359950,
-      "word": "吴昕李维嘉同框",
-      "onboard_time": 1682058448,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 359890,
@@ -651,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337934,
+      "num": 337934,
+      "word": "杨幂到达长沙",
+      "onboard_time": 1682056651,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334118,
       "num": 334118,
       "word": "妈妈用方言给娃取名叫江江好",
@@ -665,14 +705,6 @@
       "onboard_time": 1682055989,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 331678,
-      "num": 331678,
-      "word": "因姓氏太罕见全村集体改姓鸭",
-      "onboard_time": 1682057968,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 329937,
@@ -705,6 +737,14 @@
       "onboard_time": 1681989268,
       "rank": 15,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 312585,
+      "num": 312585,
+      "word": "kms",
+      "onboard_time": 1682060610,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 312240,
@@ -763,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292771,
+      "num": 292771,
+      "word": "股市",
+      "onboard_time": 1682059827,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 288549,
       "num": 288549,
       "word": "林更新吃生筋皮",
@@ -801,14 +849,6 @@
       "onboard_time": 1682046027,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 267664,
-      "num": 267664,
-      "word": "原来考个本科真的很难",
-      "onboard_time": 1682058088,
-      "rank": 46,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 263193,
@@ -907,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236339,
+      "num": 236339,
+      "word": "易烊千玺文字采访",
+      "onboard_time": 1682060969,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 236026,
       "num": 236026,
       "word": "流川枫传球给樱木花道",
@@ -1001,14 +1049,6 @@
       "onboard_time": 1682053653,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212231,
-      "num": 212231,
-      "word": "杨幂到达长沙",
-      "onboard_time": 1682056651,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 209971,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1682044049,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183648,
+      "num": 183648,
+      "word": "阮佳",
+      "onboard_time": 1682058509,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 183341,
@@ -1299,12 +1347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137233,
+      "num": 137233,
+      "word": "山西下雪",
+      "onboard_time": 1682059589,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137114,
       "num": 137114,
       "word": "过去八年是全球有记录以来最暖的八年",
       "onboard_time": 1682041107,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135900,
+      "num": 135900,
+      "word": "简历造假让我碰见了",
+      "onboard_time": 1682061089,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 134946,
@@ -1345,6 +1409,22 @@
       "onboard_time": 1682016254,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128905,
+      "num": 128905,
+      "word": "日本国会",
+      "onboard_time": 1682061209,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 128793,
+      "num": 128793,
+      "word": "两年比我一辈子经历都多",
+      "onboard_time": 1682059408,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 128507,

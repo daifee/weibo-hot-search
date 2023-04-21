@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682058937595,
+  "endTime": 1682061367580,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -481,6 +481,14 @@
       "onboard_time": 1680650358,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3003707,
+      "num": 3003707,
+      "word": "浙大学生因辱华言论被拒录公务员",
+      "onboard_time": 1682056050,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2990102,
@@ -1953,14 +1961,6 @@
       "onboard_time": 1680845431,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1832687,
-      "num": 1832687,
-      "word": "浙大学生因辱华言论被拒录公务员",
-      "onboard_time": 1682056050,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1825439,
@@ -3451,6 +3451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1304408,
+      "num": 1304408,
+      "word": "原来考个本科真的很难",
+      "onboard_time": 1682058088,
+      "rank": 46,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 1298168,
       "num": 375433,
       "word": "叶一茜写给森碟的一封信",
@@ -4465,6 +4473,14 @@
       "onboard_time": 1681120827,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1065766,
+      "num": 1065766,
+      "word": "日本",
+      "onboard_time": 1682058208,
+      "rank": 16,
+      "category": "社会新闻,国外要闻"
     },
     {
       "raw_hot": 1063073,
@@ -7195,6 +7211,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 748742,
+      "num": 748742,
+      "word": "吴昕李维嘉同框",
+      "onboard_time": 1682058448,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 748132,
       "num": 748132,
       "word": "长月烬明吃席了",
@@ -7441,6 +7465,14 @@
       "onboard_time": 1681635806,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 726143,
+      "num": 726143,
+      "word": "因姓氏太罕见全村集体改姓鸭",
+      "onboard_time": 1682057968,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 725902,
@@ -10307,6 +10339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573889,
+      "num": 573889,
+      "word": "谁是乐华的下一个王一博",
+      "onboard_time": 1682057547,
+      "rank": 22,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 573809,
       "num": 573809,
       "word": "陈都灵好看",
@@ -10809,14 +10849,6 @@
       "onboard_time": 1680401488,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 552824,
-      "num": 552824,
-      "word": "谁是乐华的下一个王一博",
-      "onboard_time": 1682057547,
-      "rank": 22,
-      "category": "综艺,幽默"
     },
     {
       "raw_hot": 552794,
@@ -12563,6 +12595,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 486831,
+      "num": 486831,
+      "word": "长月烬明有八个编剧",
+      "onboard_time": 1682059648,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486751,
       "num": 486751,
       "word": "澹台烬才是真公主吧",
@@ -12849,6 +12889,14 @@
       "onboard_time": 1681994668,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 477718,
+      "num": 339279,
+      "word": "基金",
+      "onboard_time": 1682060728,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 477702,
@@ -15803,14 +15851,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 399536,
-      "num": 399536,
-      "word": "日本",
-      "onboard_time": 1682058208,
-      "rank": 16,
-      "category": "社会新闻,国外要闻"
-    },
-    {
       "raw_hot": 399363,
       "num": 399363,
       "word": "明星和粉丝的关系",
@@ -17475,14 +17515,6 @@
       "category": "国内要闻,财经"
     },
     {
-      "raw_hot": 359950,
-      "num": 359950,
-      "word": "吴昕李维嘉同框",
-      "onboard_time": 1682058448,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 359919,
       "num": 359919,
       "word": "定妆照诈骗",
@@ -18643,6 +18675,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 337934,
+      "num": 337934,
+      "word": "杨幂到达长沙",
+      "onboard_time": 1682056651,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337190,
       "num": 337190,
       "word": "张大大迎宾气球",
@@ -18937,14 +18977,6 @@
       "onboard_time": 1681052554,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 331678,
-      "num": 331678,
-      "word": "因姓氏太罕见全村集体改姓鸭",
-      "onboard_time": 1682057968,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331635,
@@ -20083,6 +20115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312585,
+      "num": 312585,
+      "word": "kms",
+      "onboard_time": 1681565727,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 312542,
       "num": 312542,
       "word": "窦骁何超莲佘诗曼聚餐",
@@ -21201,6 +21241,14 @@
       "onboard_time": 1681518323,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292771,
+      "num": 292771,
+      "word": "股市",
+      "onboard_time": 1682059827,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 292706,
@@ -22777,14 +22825,6 @@
       "onboard_time": 1681400549,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 267664,
-      "num": 267664,
-      "word": "原来考个本科真的很难",
-      "onboard_time": 1682058088,
-      "rank": 46,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 267527,
@@ -25257,6 +25297,14 @@
       "onboard_time": 1681345351,
       "rank": 27,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 236339,
+      "num": 236339,
+      "word": "易烊千玺文字采访",
+      "onboard_time": 1682060969,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 236137,
@@ -27857,14 +27905,6 @@
       "onboard_time": 1680687509,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 212231,
-      "num": 212231,
-      "word": "杨幂到达长沙",
-      "onboard_time": 1682056651,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 212191,
@@ -35579,6 +35619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183648,
+      "num": 183648,
+      "word": "阮佳",
+      "onboard_time": 1682058509,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 183611,
       "num": 188992,
       "word": "迪士尼里最适合我扮演的角色",
@@ -37041,14 +37089,6 @@
       "onboard_time": 1680600511,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173177,
-      "num": 173177,
-      "word": "kms",
-      "onboard_time": 1681565727,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 173069,
@@ -42555,6 +42595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137233,
+      "num": 137233,
+      "word": "山西下雪",
+      "onboard_time": 1682059589,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137200,
       "num": 137200,
       "word": "王栎鑫挣钱致富经",
@@ -42753,6 +42801,14 @@
       "onboard_time": 1680936026,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 135900,
+      "num": 135900,
+      "word": "简历造假让我碰见了",
+      "onboard_time": 1682061089,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 135895,
@@ -43651,6 +43707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128905,
+      "num": 128905,
+      "word": "日本国会",
+      "onboard_time": 1682061209,
+      "rank": 46,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 128825,
       "num": 128825,
       "word": "芒果迷综规则怪谈",
@@ -43665,6 +43729,14 @@
       "onboard_time": 1681801589,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128793,
+      "num": 128793,
+      "word": "两年比我一辈子经历都多",
+      "onboard_time": 1682059408,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 128765,
