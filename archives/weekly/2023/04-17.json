@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682065275975,
+  "endTime": 1682066049401,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -123,8 +123,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 3152057,
-      "num": 3152057,
+      "raw_hot": 3243479,
+      "num": 3243479,
       "word": "原来考个本科真的很难",
       "onboard_time": 1682058088,
       "rank": 46,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1556577,
+      "num": 1556577,
+      "word": "日本",
+      "onboard_time": 1682058208,
+      "rank": 16,
+      "category": "社会新闻,国外要闻"
+    },
+    {
       "raw_hot": 1537387,
       "num": 336335,
       "word": "罗云熙微博小号",
@@ -883,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1334697,
+      "num": 1334697,
+      "word": "车银优眼睛哭肿了",
+      "onboard_time": 1682063129,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1311338,
       "num": 1311338,
       "word": "离职后你一般怎么退出工作群",
@@ -897,14 +913,6 @@
       "onboard_time": 1681829911,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1301185,
-      "num": 1301185,
-      "word": "日本",
-      "onboard_time": 1682058208,
-      "rank": 16,
-      "category": "社会新闻,国外要闻"
     },
     {
       "raw_hot": 1297194,
@@ -1019,20 +1027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1129701,
-      "num": 1129701,
-      "word": "车银优眼睛哭肿了",
-      "onboard_time": 1682063129,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1120934,
       "num": 717963,
       "word": "杜华你好大的福气",
       "onboard_time": 1682006250,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1120155,
+      "num": 628699,
+      "word": "韩国网友把王宝强认成朴振英",
+      "onboard_time": 1682062410,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1114248,
@@ -1089,14 +1097,6 @@
       "onboard_time": 1681793316,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1051559,
-      "num": 628699,
-      "word": "韩国网友把王宝强认成朴振英",
-      "onboard_time": 1682062410,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 1049291,
@@ -1539,6 +1539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 837977,
+      "num": 837977,
+      "word": "选秀真的回来了",
+      "onboard_time": 1682063249,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 835795,
       "num": 835795,
       "word": "怨气可以养活邪剑仙了",
@@ -1691,14 +1699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 742783,
-      "num": 742783,
-      "word": "选秀真的回来了",
-      "onboard_time": 1682063249,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 734511,
       "num": 734511,
       "word": "因姓氏太罕见全村集体改姓鸭",
@@ -1841,6 +1841,14 @@
       "onboard_time": 1681958848,
       "rank": 8,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 699174,
+      "num": 699174,
+      "word": "倪妮 油画里的美人",
+      "onboard_time": 1682062109,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 698944,
@@ -2123,14 +2131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 629359,
-      "num": 629359,
-      "word": "倪妮 油画里的美人",
-      "onboard_time": 1682062109,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 622212,
       "num": 622212,
       "word": "澹台烬主动吻叶夕雾",
@@ -2313,6 +2313,14 @@
       "onboard_time": 1681704026,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 583709,
+      "num": 583709,
+      "word": "鹿晗宝石老舅成都逛街",
+      "onboard_time": 1682064451,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 575878,
@@ -2723,14 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 502017,
-      "num": 502017,
-      "word": "鹿晗宝石老舅成都逛街",
-      "onboard_time": 1682064451,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 500594,
       "num": 263542,
       "word": "女子因心情不好扔掉7万元",
@@ -2825,6 +2825,14 @@
       "onboard_time": 1682051494,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 487402,
+      "num": 487402,
+      "word": "专家称生育率降低不只因为房价高",
+      "onboard_time": 1682063730,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 486885,
@@ -3259,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433190,
+      "num": 433190,
+      "word": "最闷骚的星座",
+      "onboard_time": 1682064628,
+      "rank": 23,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 430395,
       "num": 430395,
       "word": "TF家族 三亚",
@@ -3328,6 +3344,14 @@
       "word": "王鹤棣徐志胜同款逗号刘海",
       "onboard_time": 1681743629,
       "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 422263,
+      "num": 422263,
+      "word": "北影节开幕红毯",
+      "onboard_time": 1682065168,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -3545,14 +3569,6 @@
       "onboard_time": 1681979909,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 401106,
-      "num": 401106,
-      "word": "专家称生育率降低不只因为房价高",
-      "onboard_time": 1682063730,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 400080,
@@ -4321,14 +4337,6 @@
       "onboard_time": 1681918467,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 340759,
-      "num": 340759,
-      "word": "最闷骚的星座",
-      "onboard_time": 1682064628,
-      "rank": 23,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 340667,
@@ -5347,6 +5355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270765,
+      "num": 270765,
+      "word": "王楚钦3比2张禹珍",
+      "onboard_time": 1682064690,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269811,
       "num": 269811,
       "word": "郭帆说流浪地球3明天拍后天上",
@@ -5875,14 +5891,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 234990,
-      "num": 234990,
-      "word": "王楚钦3比2张禹珍",
-      "onboard_time": 1682064690,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234740,
       "num": 234740,
       "word": "oner腹肌照",
@@ -6049,6 +6057,14 @@
       "onboard_time": 1681831709,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225995,
+      "num": 225995,
+      "word": "张元英的愿望",
+      "onboard_time": 1682064269,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 225404,
@@ -6931,12 +6947,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201484,
-      "num": 201484,
-      "word": "张元英的愿望",
-      "onboard_time": 1682064269,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 201499,
+      "num": 201499,
+      "word": "明星北京电影节出发图",
+      "onboard_time": 1682065769,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201276,
@@ -8315,14 +8331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169026,
-      "num": 169026,
-      "word": "北影节开幕红毯",
-      "onboard_time": 1682065168,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 168850,
       "num": 167261,
       "word": "白宇连续四部剧BE",
@@ -9427,6 +9435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136784,
+      "num": 136784,
+      "word": "张本智和3比1达科",
+      "onboard_time": 1682065414,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136337,
       "num": 136337,
       "word": "aespa新专概念预告视频",
@@ -10347,6 +10363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103575,
+      "num": 119758,
+      "word": "DOTA2",
+      "onboard_time": 1682065947,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102944,
       "num": 102944,
       "word": "肖俊沈小婷舞蹈挑战",
@@ -10707,6 +10731,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 84878,
+      "num": 544326,
+      "word": "小哥公园送外卖各出奇招",
+      "onboard_time": 1682064028,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84846,
       "num": 1614188,
       "word": "卫星视角看祖国大地春耕图",
@@ -10920,14 +10952,6 @@
       "word": "车企价格战背后在拼什么",
       "onboard_time": 1681711764,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60715,
-      "num": 544326,
-      "word": "小哥公园送外卖各出奇招",
-      "onboard_time": 1682064028,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682065275975,
+  "endTime": 1682066049401,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -363,6 +363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 3243479,
+      "num": 3243479,
+      "word": "原来考个本科真的很难",
+      "onboard_time": 1682058088,
+      "rank": 46,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 3220924,
       "num": 3220924,
       "word": "韩国男爱豆猥亵队友被判刑",
@@ -393,14 +401,6 @@
       "onboard_time": 1680534816,
       "rank": 18,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 3152057,
-      "num": 3152057,
-      "word": "原来考个本科真的很难",
-      "onboard_time": 1682058088,
-      "rank": 46,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 3148219,
@@ -2635,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1556577,
+      "num": 1556577,
+      "word": "日本",
+      "onboard_time": 1682058208,
+      "rank": 16,
+      "category": "社会新闻,国外要闻"
+    },
+    {
       "raw_hot": 1555288,
       "num": 1555288,
       "word": "频繁挖鼻孔或增加患病风险",
@@ -3339,6 +3347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1334697,
+      "num": 1334697,
+      "word": "车银优眼睛哭肿了",
+      "onboard_time": 1682063129,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1330361,
       "num": 943908,
       "word": "重庆姐弟坠亡案",
@@ -3457,14 +3473,6 @@
       "onboard_time": 1680408267,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1301185,
-      "num": 1301185,
-      "word": "日本",
-      "onboard_time": 1682058208,
-      "rank": 16,
-      "category": "社会新闻,国外要闻"
     },
     {
       "raw_hot": 1298168,
@@ -4115,14 +4123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1129701,
-      "num": 1129701,
-      "word": "车银优眼睛哭肿了",
-      "onboard_time": 1682063129,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1129221,
       "num": 1129221,
       "word": "12306候补",
@@ -4185,6 +4185,14 @@
       "onboard_time": 1681050210,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1120155,
+      "num": 628699,
+      "word": "韩国网友把王宝强认成朴振英",
+      "onboard_time": 1682062410,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 1117063,
@@ -4537,14 +4545,6 @@
       "onboard_time": 1681376608,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1051559,
-      "num": 628699,
-      "word": "韩国网友把王宝强认成朴振英",
-      "onboard_time": 1682062410,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 1050201,
@@ -6339,6 +6339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 837977,
+      "num": 837977,
+      "word": "选秀真的回来了",
+      "onboard_time": 1682063249,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 837939,
       "num": 837939,
       "word": "老乡鸡 我保证这次没有中间商赚差价",
@@ -7267,14 +7275,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 742783,
-      "num": 742783,
-      "word": "选秀真的回来了",
-      "onboard_time": 1682063249,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 742486,
       "num": 742486,
       "word": "郑秀妍开北京首店",
@@ -7937,6 +7937,14 @@
       "onboard_time": 1680963870,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 699174,
+      "num": 699174,
+      "word": "倪妮 油画里的美人",
+      "onboard_time": 1682062109,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 698944,
@@ -9235,14 +9243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 629359,
-      "num": 629359,
-      "word": "倪妮 油画里的美人",
-      "onboard_time": 1682062109,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 629263,
       "num": 629263,
       "word": "美国奶牛厂爆炸18000头牛死亡",
@@ -10177,6 +10177,14 @@
       "onboard_time": 1681618527,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 583709,
+      "num": 583709,
+      "word": "鹿晗宝石老舅成都逛街",
+      "onboard_time": 1682064451,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 583391,
@@ -12171,14 +12179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 502017,
-      "num": 502017,
-      "word": "鹿晗宝石老舅成都逛街",
-      "onboard_time": 1682064451,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 501994,
       "num": 501994,
       "word": "张艺兴单依纯马伯骞Allin上线",
@@ -12625,6 +12625,14 @@
       "onboard_time": 1680960331,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487402,
+      "num": 487402,
+      "word": "专家称生育率降低不只因为房价高",
+      "onboard_time": 1682063730,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 487053,
@@ -14387,6 +14395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433190,
+      "num": 433190,
+      "word": "最闷骚的星座",
+      "onboard_time": 1682064628,
+      "rank": 23,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 432744,
       "num": 432744,
       "word": "勇士VS国王",
@@ -14824,6 +14840,14 @@
       "word": "白鹿新剧一人分饰三角",
       "onboard_time": 1680489807,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 422263,
+      "num": 422263,
+      "word": "北影节开幕红毯",
+      "onboard_time": 1682065168,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -15809,14 +15833,6 @@
       "onboard_time": 1681126348,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401106,
-      "num": 401106,
-      "word": "专家称生育率降低不只因为房价高",
-      "onboard_time": 1682063730,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 400512,
@@ -18633,14 +18649,6 @@
       "onboard_time": 1680998182,
       "rank": 13,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 340759,
-      "num": 340759,
-      "word": "最闷骚的星座",
-      "onboard_time": 1682064628,
-      "rank": 23,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 340667,
@@ -22715,6 +22723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270765,
+      "num": 270765,
+      "word": "王楚钦3比2张禹珍",
+      "onboard_time": 1682064690,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270736,
       "num": 270736,
       "word": "放弃治疗而进行临终关怀是不孝吗",
@@ -25483,14 +25499,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 234990,
-      "num": 234990,
-      "word": "王楚钦3比2张禹珍",
-      "onboard_time": 1682064690,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234889,
       "num": 234889,
       "word": "男子地铁站故意裸露下体被行拘",
@@ -26457,6 +26465,14 @@
       "onboard_time": 1680315267,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225995,
+      "num": 225995,
+      "word": "张元英的愿望",
+      "onboard_time": 1682064269,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 225977,
@@ -30819,12 +30835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201484,
-      "num": 201484,
-      "word": "张元英的愿望",
-      "onboard_time": 1682064269,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 201499,
+      "num": 201499,
+      "word": "明星北京电影节出发图",
+      "onboard_time": 1682065769,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201474,
@@ -37931,14 +37947,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169026,
-      "num": 169026,
-      "word": "北影节开幕红毯",
-      "onboard_time": 1682065168,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169010,
       "num": 169010,
       "word": "原神纳西妲",
@@ -42859,6 +42867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136784,
+      "num": 136784,
+      "word": "张本智和3比1达科",
+      "onboard_time": 1682065414,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136718,
       "num": 136718,
       "word": "清清关羽无敌马腿",
@@ -46507,6 +46523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103575,
+      "num": 119758,
+      "word": "DOTA2",
+      "onboard_time": 1682065947,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103404,
       "num": 103404,
       "word": "短指症",
@@ -47803,6 +47827,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 84878,
+      "num": 544326,
+      "word": "小哥公园送外卖各出奇招",
+      "onboard_time": 1682064028,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84846,
       "num": 1614188,
       "word": "卫星视角看祖国大地春耕图",
@@ -48561,14 +48593,6 @@
       "onboard_time": 1680305299,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 60715,
-      "num": 544326,
-      "word": "小哥公园送外卖各出奇招",
-      "onboard_time": 1682064028,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60344,
