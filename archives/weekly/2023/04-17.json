@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682045000067,
+  "endTime": 1682047100491,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -547,6 +547,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1701640,
+      "num": 1347563,
+      "word": "生活费一千五大学生存款6万",
+      "onboard_time": 1682043026,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1685303,
       "num": 1685303,
       "word": "文秀雅",
@@ -795,11 +803,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1347563,
-      "num": 1347563,
-      "word": "生活费一千五大学生存款6万",
-      "onboard_time": 1682043026,
-      "rank": 1,
+      "raw_hot": 1353711,
+      "num": 614420,
+      "word": "反问式道歉",
+      "onboard_time": 1682043208,
+      "rank": 12,
       "category": "情感"
     },
     {
@@ -985,14 +993,6 @@
       "onboard_time": 1681793316,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1068677,
-      "num": 614420,
-      "word": "反问式道歉",
-      "onboard_time": 1682043208,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 1049291,
@@ -1187,19 +1187,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937203,
+      "num": 933722,
+      "word": "到宝马mini展台发冰淇淋博主发声",
+      "onboard_time": 1682040149,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 935479,
       "num": 935479,
       "word": "男子被陌生人腰上贴膏药后晕倒",
       "onboard_time": 1681960348,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 933722,
-      "num": 933722,
-      "word": "到宝马mini展台发冰淇淋博主发声",
-      "onboard_time": 1682040149,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1347,6 +1347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 860956,
+      "num": 860956,
+      "word": "大学男生 关水阀",
+      "onboard_time": 1682045006,
+      "rank": 5,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 859870,
       "num": 859870,
       "word": "莫文蔚忽然之间全场大合唱",
@@ -1425,6 +1433,22 @@
       "onboard_time": 1682007746,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 832780,
+      "num": 832780,
+      "word": "MINI呼吁给发冰淇淋小姐姐多些宽容",
+      "onboard_time": 1682045247,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 829386,
+      "num": 829386,
+      "word": "长月烬明编剧",
+      "onboard_time": 1682044586,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 826227,
@@ -1627,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709177,
+      "num": 709177,
+      "word": "刘诗诗赵丽颖上城士背影图",
+      "onboard_time": 1682043807,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 708384,
       "num": 708384,
       "word": "泗水交通事故致7死10伤",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1681699105,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651383,
+      "num": 651383,
+      "word": "罗云熙白鹿时尚芭莎",
+      "onboard_time": 1682044767,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 647917,
@@ -2235,6 +2275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 545441,
+      "num": 545441,
+      "word": "易烊千玺嘉人",
+      "onboard_time": 1682046627,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 544178,
       "num": 544178,
       "word": "周杰伦起诉网易不正当竞争案开庭",
@@ -2425,6 +2473,14 @@
       "onboard_time": 1681731925,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506675,
+      "num": 506675,
+      "word": "成都烧烤为什么被大家吐槽",
+      "onboard_time": 1682042548,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 503805,
@@ -2843,14 +2899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449380,
-      "num": 449380,
-      "word": "刘诗诗赵丽颖上城士背影图",
-      "onboard_time": 1682043807,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 449007,
       "num": 449007,
       "word": "坠亡女演员丈夫否认吵架不系安全扣",
@@ -3051,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418990,
+      "num": 318060,
+      "word": "朱一龙新电影哭戏",
+      "onboard_time": 1682046027,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418780,
       "num": 418780,
       "word": "华为宣布实现ERP自主可控",
@@ -3235,14 +3291,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 397112,
-      "num": 397112,
-      "word": "成都烧烤为什么被大家吐槽",
-      "onboard_time": 1682042548,
-      "rank": 15,
-      "category": "美食"
-    },
-    {
       "raw_hot": 396810,
       "num": 230154,
       "word": "男子辱骂捉弄女骑手惹怒派出所所长",
@@ -3305,6 +3353,14 @@
       "onboard_time": 1681725149,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392487,
+      "num": 392487,
+      "word": "五一民宿预订现涨价毁约潮",
+      "onboard_time": 1682043328,
+      "rank": 29,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 391589,
@@ -3588,7 +3644,7 @@
     },
     {
       "raw_hot": 369858,
-      "num": 298454,
+      "num": 317743,
       "word": "摸小奶猫被猫妈妈婉拒了",
       "onboard_time": 1682041948,
       "rank": 20,
@@ -4827,6 +4883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274591,
+      "num": 274591,
+      "word": "LCK亚运会预选阵容",
+      "onboard_time": 1682046027,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 271719,
       "num": 85653,
       "word": "村民疑被当成猎物遭枪击后死亡",
@@ -4857,14 +4921,6 @@
       "onboard_time": 1681719806,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269614,
-      "num": 269614,
-      "word": "五一民宿预订现涨价毁约潮",
-      "onboard_time": 1682043328,
-      "rank": 29,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 269573,
@@ -5827,14 +5883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209189,
-      "num": 209189,
-      "word": "罗云熙白鹿时尚芭莎",
-      "onboard_time": 1682044767,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 209154,
       "num": 209154,
       "word": "一起露营吧2终于定档了",
@@ -5888,14 +5936,6 @@
       "word": "长空之王险版预告",
       "onboard_time": 1681784666,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 207996,
-      "num": 207996,
-      "word": "长月烬明编剧",
-      "onboard_time": 1682044586,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -6931,6 +6971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187574,
+      "num": 187574,
+      "word": "乐华娱乐股票大涨",
+      "onboard_time": 1682046326,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187522,
       "num": 187522,
       "word": "花间令开机路透",
@@ -7931,6 +7979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158760,
+      "num": 158760,
+      "word": "中国科学家算出了银河系体重",
+      "onboard_time": 1682046148,
+      "rank": 36,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 158455,
       "num": 158455,
       "word": "李一桐田曦薇同框",
@@ -8137,6 +8193,14 @@
       "onboard_time": 1681659986,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150344,
+      "num": 150344,
+      "word": "医生为安慰患者主动透露自己患癌",
+      "onboard_time": 1682044166,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150097,
@@ -8387,14 +8451,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 142493,
-      "num": 142493,
-      "word": "医生为安慰患者主动透露自己患癌",
-      "onboard_time": 1682044166,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142281,
       "num": 142281,
       "word": "蔡徐坤 CRYSTAL CLEAR",
@@ -8505,6 +8561,14 @@
       "onboard_time": 1681994547,
       "rank": 46,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 139747,
+      "num": 139747,
+      "word": "长空之王预售海报细节",
+      "onboard_time": 1682046148,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 139418,
@@ -8819,6 +8883,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 128507,
+      "num": 128507,
+      "word": "2023年你读完的第一本书",
+      "onboard_time": 1682046567,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128464,
       "num": 1433011,
       "word": "这些旅游专列卷起来了",
@@ -8969,6 +9041,14 @@
       "onboard_time": 1681734446,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125289,
+      "num": 125289,
+      "word": "南京Hero",
+      "onboard_time": 1682046926,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 124829,
