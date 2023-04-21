@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682033624677,
+  "endTime": 1682040071350,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -409,6 +409,14 @@
       "onboard_time": 1681811850,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1970557,
+      "num": 1970557,
+      "word": "台湾17岁少年街头扫射42枪",
+      "onboard_time": 1682035288,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1923323,
@@ -891,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1156763,
+      "num": 1035975,
+      "word": "淄博烧烤店老板多算钱隔天加微信退还",
+      "onboard_time": 1682007206,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1120934,
       "num": 717963,
       "word": "杜华你好大的福气",
@@ -939,20 +955,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1070456,
+      "num": 738872,
+      "word": "杜华 章昊创造了历史",
+      "onboard_time": 1682035710,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1049291,
       "num": 1049291,
       "word": "陈飞宇周也主演电影被诉侵权",
       "onboard_time": 1681805130,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1035975,
-      "num": 1035975,
-      "word": "淄博烧烤店老板多算钱隔天加微信退还",
-      "onboard_time": 1682007206,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1030624,
@@ -1091,6 +1107,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 951779,
+      "num": 951779,
+      "word": "夫妻嫌上班赚钱慢拍淫秽视频获刑",
+      "onboard_time": 1682035652,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 951121,
       "num": 951121,
       "word": "李楠禁赛3年",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1681971988,
       "rank": 31,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 912596,
+      "num": 517356,
+      "word": "宝马mini称老外是同事",
+      "onboard_time": 1682039609,
+      "rank": 11,
+      "category": "科技"
     },
     {
       "raw_hot": 909978,
@@ -1347,6 +1379,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 835320,
+      "num": 800706,
+      "word": "陈飞宇说运气是演员无法人为掌控的",
+      "onboard_time": 1682007746,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 826227,
       "num": 826227,
       "word": "单休人 连上12天班",
@@ -1393,14 +1433,6 @@
       "onboard_time": 1681656150,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 800706,
-      "num": 800706,
-      "word": "陈飞宇说运气是演员无法人为掌控的",
-      "onboard_time": 1682007746,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 794862,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1681784726,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728317,
+      "num": 728317,
+      "word": "室友私生活问题该不该插手",
+      "onboard_time": 1682037394,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 727254,
@@ -1643,6 +1683,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 683108,
+      "num": 683108,
+      "word": "孕妈大笑时肚子里的宝宝",
+      "onboard_time": 1682006250,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 679159,
       "num": 679159,
       "word": "上一星期班发现上错公司了",
@@ -1689,6 +1737,14 @@
       "onboard_time": 1681741167,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662066,
+      "num": 662066,
+      "word": "12306还要候补多少天",
+      "onboard_time": 1682038110,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 661662,
@@ -2043,6 +2099,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 570693,
+      "num": 548970,
+      "word": "韩团选秀首个中C",
+      "onboard_time": 1682032642,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 569496,
       "num": 297445,
       "word": "泼水节被撕扯雨衣当事女生发声",
@@ -2073,6 +2137,14 @@
       "onboard_time": 1681721967,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 564655,
+      "num": 564655,
+      "word": "五一假期热门城市出炉",
+      "onboard_time": 1682035407,
+      "rank": 8,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 563321,
@@ -2129,14 +2201,6 @@
       "onboard_time": 1681891587,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 548970,
-      "num": 548970,
-      "word": "韩团选秀首个中C",
-      "onboard_time": 1682032642,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 544178,
@@ -2299,6 +2363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 518934,
+      "num": 518934,
+      "word": "特斯拉市值一夜蒸发超550亿美元",
+      "onboard_time": 1682036791,
+      "rank": 9,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 517938,
       "num": 482349,
       "word": "宝马mini车展冰激凌最低35元一杯",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1681860744,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486885,
+      "num": 486885,
+      "word": "宝格丽",
+      "onboard_time": 1682036128,
+      "rank": 14,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 484682,
@@ -2683,6 +2763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 453807,
+      "num": 453807,
+      "word": "最后一个上救生艇的孩子是老师的",
+      "onboard_time": 1682035288,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451831,
       "num": 451831,
       "word": "iOS17将允许非官方商店的应用程序",
@@ -2811,14 +2899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 430458,
-      "num": 430458,
-      "word": "孕妈大笑时肚子里的宝宝",
-      "onboard_time": 1682006250,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 430395,
       "num": 430395,
       "word": "TF家族 三亚",
@@ -2912,6 +2992,22 @@
       "word": "杜小华在鄂尔多斯发现寻亲线索",
       "onboard_time": 1681962027,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418780,
+      "num": 418780,
+      "word": "华为宣布实现ERP自主可控",
+      "onboard_time": 1682035167,
+      "rank": 16,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 418023,
+      "num": 418023,
+      "word": "中学校长酒吧行为不雅被撤职",
+      "onboard_time": 1682035829,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -3563,6 +3659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359890,
+      "num": 359890,
+      "word": "榴莲批发价1斤低至20元",
+      "onboard_time": 1682032042,
+      "rank": 33,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 358794,
       "num": 328775,
       "word": "金小妹回应整容",
@@ -3848,6 +3952,14 @@
       "word": "杭州坠楼女童家属申请变更保姆罪名",
       "onboard_time": 1681744826,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329937,
+      "num": 329937,
+      "word": "官方通报摊主被陌生人贴膏药后晕倒",
+      "onboard_time": 1682035047,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -4193,14 +4305,6 @@
       "onboard_time": 1681651826,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303052,
-      "num": 303052,
-      "word": "榴莲批发价1斤低至20元",
-      "onboard_time": 1682032042,
-      "rank": 33,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 300940,
@@ -4811,6 +4915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257668,
+      "num": 257668,
+      "word": "澹台烬醋坛子炸了",
+      "onboard_time": 1682037027,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257052,
       "num": 236306,
       "word": "入职了家全是关系户的公司",
@@ -4889,6 +5001,14 @@
       "onboard_time": 1681879470,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250319,
+      "num": 250319,
+      "word": "宝马欧股跌超3%",
+      "onboard_time": 1682033422,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 249734,
@@ -5387,6 +5507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 216655,
+      "num": 216655,
+      "word": "ZB1前五中国人含量比INTO1都高",
+      "onboard_time": 1682035528,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216599,
       "num": 216599,
       "word": "黄子韬被气到说青岛话",
@@ -5705,6 +5833,14 @@
       "onboard_time": 1681795477,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206422,
+      "num": 206422,
+      "word": "官方辟谣菏泽亲友团闹洞房误杀新郎",
+      "onboard_time": 1682036911,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206302,
@@ -6593,6 +6729,14 @@
       "onboard_time": 1681715185,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188095,
+      "num": 188095,
+      "word": "伦纳德缺席",
+      "onboard_time": 1682038530,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 187925,
@@ -7683,6 +7827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154544,
+      "num": 154544,
+      "word": "光明日报评追熊猫不宜饭圈化",
+      "onboard_time": 1682039250,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154421,
       "num": 154421,
       "word": "终于等到灌篮高手全国大赛",
@@ -8275,6 +8427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134946,
+      "num": 134946,
+      "word": "小伙凌晨爬楼托举卡头男童近1小时",
+      "onboard_time": 1682039368,
+      "rank": 39,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 134450,
       "num": 930346,
       "word": "硬核老爸用8年为孤独症儿子造火车",
@@ -8651,6 +8811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122327,
+      "num": 122327,
+      "word": "BLACKPINK将表演新歌",
+      "onboard_time": 1682032099,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121602,
       "num": 199834,
       "word": "吴冠希说努力化为泡影",
@@ -8777,14 +8945,6 @@
       "onboard_time": 1681811189,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 116596,
-      "num": 116596,
-      "word": "BLACKPINK将表演新歌",
-      "onboard_time": 1682032099,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 116338,
@@ -8953,6 +9113,14 @@
       "onboard_time": 1681649426,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109231,
+      "num": 109231,
+      "word": "高校申请撤销专业925个",
+      "onboard_time": 1682040028,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 109129,
@@ -9513,14 +9681,6 @@
       "onboard_time": 1681911807,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80559,
-      "num": 80559,
-      "word": "宝马欧股跌超3%",
-      "onboard_time": 1682033422,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 80504,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1682040071350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1970557,
+        "num": 1970557,
+        "word": "台湾17岁少年街头扫射42枪",
+        "onboard_time": 1682035288,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951779,
+        "num": 951779,
+        "word": "夫妻嫌上班赚钱慢拍淫秽视频获刑",
+        "onboard_time": 1682035652,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89223,
+        "num": 739133,
+        "word": "中国航天下一站去哪",
+        "onboard_time": 1682001453,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070456,
+        "num": 738872,
+        "word": "杜华 章昊创造了历史",
+        "onboard_time": 1682035710,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 728317,
+        "num": 728317,
+        "word": "室友私生活问题该不该插手",
+        "onboard_time": 1682037394,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1338844,
+        "num": 708659,
+        "word": "宝马mini道歉",
+        "onboard_time": 1681972349,
+        "rank": 5,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 683108,
+        "num": 683108,
+        "word": "孕妈大笑时肚子里的宝宝",
+        "onboard_time": 1682006250,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 662066,
+        "num": 662066,
+        "word": "12306还要候补多少天",
+        "onboard_time": 1682038110,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 564655,
+        "num": 564655,
+        "word": "五一假期热门城市出炉",
+        "onboard_time": 1682035407,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 518934,
+        "num": 518934,
+        "word": "特斯拉市值一夜蒸发超550亿美元",
+        "onboard_time": 1682036791,
+        "rank": 9,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 1235886,
+        "num": 518548,
+        "word": "乐华赢麻了",
+        "onboard_time": 1682005653,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 912596,
+        "num": 517356,
+        "word": "宝马mini称老外是同事",
+        "onboard_time": 1682039609,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 835320,
+        "num": 516698,
+        "word": "陈飞宇说运气是演员无法人为掌控的",
+        "onboard_time": 1682034746,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514943,
+        "num": 514943,
+        "word": "警方回应女子宝马展台前直播被架走",
+        "onboard_time": 1682006788,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486885,
+        "num": 486885,
+        "word": "宝格丽",
+        "onboard_time": 1682036128,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 453807,
+        "num": 453807,
+        "word": "最后一个上救生艇的孩子是老师的",
+        "onboard_time": 1682035288,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418780,
+        "num": 418780,
+        "word": "华为宣布实现ERP自主可控",
+        "onboard_time": 1682035167,
+        "rank": 16,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 418023,
+        "num": 418023,
+        "word": "中学校长酒吧行为不雅被撤职",
+        "onboard_time": 1682035829,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391294,
+        "num": 391294,
+        "word": "姐姐未婚先孕用妹妹身份证结婚",
+        "onboard_time": 1681990049,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359890,
+        "num": 359890,
+        "word": "榴莲批发价1斤低至20元",
+        "onboard_time": 1682032042,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1156763,
+        "num": 350923,
+        "word": "淄博烧烤店老板多算钱隔天加微信退还",
+        "onboard_time": 1682007206,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072611,
+        "num": 341634,
+        "word": "窦骁敷着面膜向何超莲求婚",
+        "onboard_time": 1682001934,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570693,
+        "num": 338875,
+        "word": "韩团选秀首个中C",
+        "onboard_time": 1682032642,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329937,
+        "num": 329937,
+        "word": "官方通报摊主被陌生人贴膏药后晕倒",
+        "onboard_time": 1682035047,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266580,
+        "num": 266580,
+        "word": "女孩升职被同事造黄谣陷抑郁后裸辞",
+        "onboard_time": 1682005951,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257668,
+        "num": 257668,
+        "word": "澹台烬醋坛子炸了",
+        "onboard_time": 1682037027,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256743,
+        "num": 256743,
+        "word": "原来兵马俑每天都在挖",
+        "onboard_time": 1682009782,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250319,
+        "num": 250319,
+        "word": "宝马欧股跌超3%",
+        "onboard_time": 1682033422,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 216655,
+        "num": 216655,
+        "word": "ZB1前五中国人含量比INTO1都高",
+        "onboard_time": 1682035528,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206422,
+        "num": 206422,
+        "word": "官方辟谣菏泽亲友团闹洞房误杀新郎",
+        "onboard_time": 1682036911,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299991,
+        "num": 205834,
+        "word": "宝马mini展台再现冲突",
+        "onboard_time": 1681991426,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200768,
+        "num": 200768,
+        "word": "澹台烬选择救叶冰裳的原因",
+        "onboard_time": 1682003915,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188095,
+        "num": 188095,
+        "word": "伦纳德缺席",
+        "onboard_time": 1682038530,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175391,
+        "num": 175391,
+        "word": "小象是如何揉眼睛的",
+        "onboard_time": 1681998871,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169147,
+        "num": 169147,
+        "word": "喜欢和不喜欢的区别很明显",
+        "onboard_time": 1682002896,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 155061,
+        "num": 155061,
+        "word": "俞敏洪建议董宇辉出国留学",
+        "onboard_time": 1682001033,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154544,
+        "num": 154544,
+        "word": "光明日报评追熊猫不宜饭圈化",
+        "onboard_time": 1682039250,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141883,
+        "num": 141883,
+        "word": "李会泽陪跑",
+        "onboard_time": 1682032161,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137727,
+        "num": 137727,
+        "word": "很喜欢但停产了的东西",
+        "onboard_time": 1681987048,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134946,
+        "num": 134946,
+        "word": "小伙凌晨爬楼托举卡头男童近1小时",
+        "onboard_time": 1682039368,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 130387,
+        "num": 130387,
+        "word": "快船vs太阳",
+        "onboard_time": 1682038948,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129247,
+        "num": 129247,
+        "word": "张小斐小心青城山的蚊子",
+        "onboard_time": 1682004812,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128752,
+        "num": 128752,
+        "word": "誓约",
+        "onboard_time": 1681994606,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127277,
+        "num": 127277,
+        "word": "灌篮高手",
+        "onboard_time": 1681989268,
+        "rank": 43,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 122327,
+        "num": 122327,
+        "word": "BLACKPINK将表演新歌",
+        "onboard_time": 1682032099,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118182,
+        "num": 118182,
+        "word": "迪丽热巴新剧过审",
+        "onboard_time": 1682001757,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113207,
+        "num": 113207,
+        "word": "金在中悼念文彬",
+        "onboard_time": 1682002655,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110852,
+        "num": 110852,
+        "word": "教育部公布21种本科新增专业",
+        "onboard_time": 1682039968,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 109231,
+        "num": 109231,
+        "word": "高校申请撤销专业925个",
+        "onboard_time": 1682040028,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108125,
+        "num": 108125,
+        "word": "957爆料WBG新教练",
+        "onboard_time": 1682003375,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中加友好始终坚如磐石#"
+    }
+  }
+}
