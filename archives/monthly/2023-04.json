@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682112808634,
+  "endTime": 1682115365574,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -48787,6 +48787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81589,
+      "num": 69824,
+      "word": "范志毅把脸都不要了唱进五哈主题曲",
+      "onboard_time": 1682107391,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81585,
       "num": 219344,
       "word": "周柯宇Gemini连麦",
@@ -49531,6 +49539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57031,
+      "num": 57031,
+      "word": "孝庄秘史 命运映照",
+      "onboard_time": 1682110091,
+      "rank": 26,
+      "category": "其它"
+    },
+    {
       "raw_hot": 56963,
       "num": 59459,
       "word": "魏大勋说王鹤棣腰不行",
@@ -49721,14 +49737,6 @@
       "onboard_time": 1680343229,
       "rank": 39,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 49184,
-      "num": 47489,
-      "word": "范志毅把脸都不要了唱进五哈主题曲",
-      "onboard_time": 1682107391,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 48751,
@@ -50203,20 +50211,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30019,
-      "num": 30019,
-      "word": "孝庄秘史 命运映照",
-      "onboard_time": 1682110091,
-      "rank": 26,
-      "category": "其它"
-    },
-    {
       "raw_hot": 29779,
       "num": 39709,
       "word": "孟晚舟回应轮值董事长",
       "onboard_time": 1680261326,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29424,
+      "num": 26270,
+      "word": "AI怪盗积德",
+      "onboard_time": 1682111291,
+      "rank": 48,
+      "category": "动漫,科技"
     },
     {
       "raw_hot": 29045,
@@ -50249,6 +50257,14 @@
       "onboard_time": 1680795809,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26300,
+      "num": 26300,
+      "word": "千万不要让男人去买菜",
+      "onboard_time": 1682110392,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 26119,
@@ -50393,14 +50409,6 @@
       "onboard_time": 1680549192,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16552,
-      "num": 16768,
-      "word": "AI怪盗积德",
-      "onboard_time": 1682111291,
-      "rank": 48,
-      "category": "动漫,科技"
     },
     {
       "raw_hot": 15601,

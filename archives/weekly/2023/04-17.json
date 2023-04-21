@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682112808634,
+  "endTime": 1682115365574,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -11635,6 +11635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81589,
+      "num": 69824,
+      "word": "范志毅把脸都不要了唱进五哈主题曲",
+      "onboard_time": 1682107391,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80921,
       "num": 101054,
       "word": "2023KPL春季赛",
@@ -11835,6 +11843,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 57031,
+      "num": 57031,
+      "word": "孝庄秘史 命运映照",
+      "onboard_time": 1682110091,
+      "rank": 26,
+      "category": "其它"
+    },
+    {
       "raw_hot": 56963,
       "num": 59459,
       "word": "魏大勋说王鹤棣腰不行",
@@ -11889,14 +11905,6 @@
       "onboard_time": 1681977628,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 49184,
-      "num": 47489,
-      "word": "范志毅把脸都不要了唱进五哈主题曲",
-      "onboard_time": 1682107391,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 47926,
@@ -12019,20 +12027,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 30019,
-      "num": 30019,
-      "word": "孝庄秘史 命运映照",
-      "onboard_time": 1682110091,
-      "rank": 26,
-      "category": "其它"
-    },
-    {
       "raw_hot": 29701,
       "num": 1825165,
       "word": "风云三号07星成功发射",
       "onboard_time": 1681648767,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29424,
+      "num": 26270,
+      "word": "AI怪盗积德",
+      "onboard_time": 1682111291,
+      "rank": 48,
+      "category": "动漫,科技"
     },
     {
       "raw_hot": 28525,
@@ -12049,6 +12057,14 @@
       "onboard_time": 1682102173,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 26300,
+      "num": 26300,
+      "word": "千万不要让男人去买菜",
+      "onboard_time": 1682110392,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 25107,
@@ -12073,14 +12089,6 @@
       "onboard_time": 1681966834,
       "rank": 14,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 16552,
-      "num": 16768,
-      "word": "AI怪盗积德",
-      "onboard_time": 1682111291,
-      "rank": 48,
-      "category": "动漫,科技"
     },
     {
       "raw_hot": 15253,
