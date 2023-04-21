@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/17 00:21:15 ~ 2023/04/22 03:13:11
+本榜单时间：2023/04/17 00:21:15 ~ 2023/04/22 03:33:33
 </p>
 </blockquote>
 <p>
@@ -9023,6 +9023,12 @@ DRG战胜eStar（热度：32635）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E8%B5%9B%E5%AD%A3%23" target="weibo">
 王者新赛季（热度：28525）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%B5%B0%E4%BA%86%E4%B8%89%E6%AC%A1%E7%BA%A2%E6%AF%AF%23" target="weibo">
+娜扎走了三次红毯（热度：26594）
 </a>
 </li>
 

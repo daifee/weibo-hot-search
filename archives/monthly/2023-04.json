@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682104391736,
+  "endTime": 1682105613169,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -50217,6 +50217,14 @@
       "onboard_time": 1680795809,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26594,
+      "num": 23640,
+      "word": "娜扎走了三次红毯",
+      "onboard_time": 1682102173,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 26119,
