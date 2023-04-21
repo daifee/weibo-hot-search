@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682076812376,
+  "endTime": 1682080354203,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1603,6 +1603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 2028102,
+      "num": 2028102,
+      "word": "赵小棠红毯摔倒",
+      "onboard_time": 1682072851,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2026916,
       "num": 2026916,
       "word": "四川警方通报学生寝室内死亡",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1680915927,
       "rank": 11,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 1843801,
-      "num": 731541,
-      "word": "赵小棠红毯摔倒",
-      "onboard_time": 1682072851,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 1841491,
@@ -3593,6 +3593,14 @@
       "onboard_time": 1680779911,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1282869,
+      "num": 1282869,
+      "word": "魏晨状态",
+      "onboard_time": 1682076267,
+      "rank": 33,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 1281022,
@@ -6348,7 +6356,7 @@
     },
     {
       "raw_hot": 843268,
-      "num": 390058,
+      "num": 804633,
       "word": "周也 冷脸小白花",
       "onboard_time": 1682072911,
       "rank": 29,
@@ -7764,7 +7772,7 @@
     },
     {
       "raw_hot": 715113,
-      "num": 386653,
+      "num": 455908,
       "word": "白百何说自己掉了1.2斤脂肪",
       "onboard_time": 1682072911,
       "rank": 33,
@@ -8353,6 +8361,14 @@
       "onboard_time": 1682051975,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 680049,
+      "num": 680049,
+      "word": "章子怡的脸能打",
+      "onboard_time": 1682079570,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 679880,
@@ -12747,6 +12763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 487873,
+      "num": 487873,
+      "word": "殡葬业有多赚钱",
+      "onboard_time": 1682075787,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 487727,
       "num": 298573,
       "word": "张继科代理律师称现阶段不便发声",
@@ -16443,6 +16467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391864,
+      "num": 391864,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1680872668,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391589,
       "num": 391589,
       "word": "小象是如何揉眼睛的",
@@ -18497,6 +18529,14 @@
       "onboard_time": 1680659491,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 345914,
+      "num": 256333,
+      "word": "白鹿 孙珍妮",
+      "onboard_time": 1682079688,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 345902,
@@ -21011,6 +21051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299744,
+      "num": 458086,
+      "word": "下雪",
+      "onboard_time": 1682079270,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299103,
       "num": 299103,
       "word": "白鹿说长月烬明比周生如故更虐",
@@ -23203,6 +23251,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 265703,
+      "num": 265703,
+      "word": "上海车展多家展商免费派发冰淇淋",
+      "onboard_time": 1682078549,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265674,
       "num": 265674,
       "word": "青山刚昌 端水",
@@ -23833,6 +23889,14 @@
       "onboard_time": 1681344573,
       "rank": 25,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 257276,
+      "num": 223138,
+      "word": "战至巅峰2阵容",
+      "onboard_time": 1682077168,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 257271,
@@ -26859,6 +26923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224126,
+      "num": 224126,
+      "word": "司机拦住特警巡逻车救了自己一命",
+      "onboard_time": 1682077470,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 224006,
       "num": 224006,
       "word": "你坐火车时最反感什么行为",
@@ -27403,6 +27475,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 219413,
+      "num": 223469,
+      "word": "TTG对战KSG",
+      "onboard_time": 1682079688,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219308,
       "num": 219308,
       "word": "假如现在抬了皓衣行",
@@ -27785,6 +27865,14 @@
       "onboard_time": 1681913551,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216812,
+      "num": 162928,
+      "word": "电影灌篮高手评分",
+      "onboard_time": 1682076510,
+      "rank": 39,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 216655,
@@ -33659,14 +33747,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 193172,
-      "num": 193172,
-      "word": "哈哈哈哈哈",
-      "onboard_time": 1680872668,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193169,
       "num": 148039,
       "word": "吴磊收工日落随拍",
@@ -33697,14 +33777,6 @@
       "onboard_time": 1680329429,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 193103,
-      "num": 193103,
-      "word": "魏晨状态",
-      "onboard_time": 1682076267,
-      "rank": 33,
-      "category": "影视,时尚"
     },
     {
       "raw_hot": 193102,
@@ -35315,6 +35387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186981,
+      "num": 186981,
+      "word": "能治愈你的很少是人类",
+      "onboard_time": 1682079148,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186954,
       "num": 186954,
       "word": "张杰曹操舞台打鼓",
@@ -35793,14 +35873,6 @@
       "onboard_time": 1680753330,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185188,
-      "num": 185188,
-      "word": "殡葬业有多赚钱",
-      "onboard_time": 1682075787,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 185169,
@@ -36417,6 +36489,14 @@
       "onboard_time": 1680535474,
       "rank": 36,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 181878,
+      "num": 156305,
+      "word": "五哈主题曲离谱又合理",
+      "onboard_time": 1682080049,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 181825,
@@ -37571,6 +37651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173005,
+      "num": 154288,
+      "word": "欢乐颂",
+      "onboard_time": 1682078909,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172982,
       "num": 172982,
       "word": "林昀儒晋级冠军赛8强",
@@ -38417,6 +38505,14 @@
       "onboard_time": 1681557086,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167792,
+      "num": 151878,
+      "word": "INTO1告别限定演唱会时光场",
+      "onboard_time": 1682077048,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 167615,
@@ -39273,14 +39369,6 @@
       "onboard_time": 1680777990,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162475,
-      "num": 162475,
-      "word": "电影灌篮高手评分",
-      "onboard_time": 1682076510,
-      "rank": 39,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 162453,
@@ -41441,6 +41529,14 @@
       "onboard_time": 1681647625,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149006,
+      "num": 149006,
+      "word": "父母姓氏组合而来的名字",
+      "onboard_time": 1682076389,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 148900,
@@ -48139,6 +48235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85710,
+      "num": 400189,
+      "word": "北影节红毯男星造型",
+      "onboard_time": 1682078430,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 85672,
       "num": 85672,
       "word": "陈少熙昆曲表演玉簪记",
@@ -49171,6 +49275,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 52713,
+      "num": 2208215,
+      "word": "一起回顾中国载人航天高光时刻",
+      "onboard_time": 1682069308,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52610,
       "num": 192626,
       "word": "真正的豪华车哪有平替",
@@ -49193,14 +49305,6 @@
       "onboard_time": 1681336332,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 50462,
-      "num": 2208215,
-      "word": "一起回顾中国载人航天高光时刻",
-      "onboard_time": 1682069308,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50264,

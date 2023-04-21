@@ -1,6 +1,6 @@
 {
   "startTime": 1682007769732,
-  "endTime": 1682076812376,
+  "endTime": 1682080354203,
   "band_list": [
     {
       "raw_hot": 4448587,
@@ -99,20 +99,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 2028102,
+      "num": 2028102,
+      "word": "赵小棠红毯摔倒",
+      "onboard_time": 1682072851,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1970557,
       "num": 1970557,
       "word": "台湾17岁少年街头扫射42枪",
       "onboard_time": 1682035288,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1843801,
-      "num": 731541,
-      "word": "赵小棠红毯摔倒",
-      "onboard_time": 1682072851,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 1701640,
@@ -185,6 +185,14 @@
       "onboard_time": 1681972349,
       "rank": 6,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1282869,
+      "num": 1282869,
+      "word": "魏晨状态",
+      "onboard_time": 1682076267,
+      "rank": 33,
+      "category": "影视,时尚"
     },
     {
       "raw_hot": 1249131,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 843268,
-      "num": 390058,
+      "num": 804633,
       "word": "周也 冷脸小白花",
       "onboard_time": 1682072911,
       "rank": 29,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 715113,
-      "num": 386653,
+      "num": 455908,
       "word": "白百何说自己掉了1.2斤脂肪",
       "onboard_time": 1682072911,
       "rank": 33,
@@ -465,6 +473,14 @@
       "onboard_time": 1682051975,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 680049,
+      "num": 680049,
+      "word": "章子怡的脸能打",
+      "onboard_time": 1682079570,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 671865,
@@ -659,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 487873,
+      "num": 487873,
+      "word": "殡葬业有多赚钱",
+      "onboard_time": 1682075787,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 486885,
       "num": 486885,
       "word": "宝格丽",
@@ -819,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391864,
+      "num": 391864,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1682079148,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388264,
       "num": 2620770,
       "word": "宝宝打针被医生哄到哭不出来",
@@ -913,6 +945,14 @@
       "onboard_time": 1682053769,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345914,
+      "num": 256333,
+      "word": "白鹿 孙珍妮",
+      "onboard_time": 1682079688,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337934,
@@ -1019,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299744,
+      "num": 458086,
+      "word": "下雪",
+      "onboard_time": 1682079270,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296015,
       "num": 296015,
       "word": "中国说唱巅峰对决方言喊话官宣",
@@ -1099,6 +1147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 284974,
+      "num": 223655,
+      "word": "奔跑吧",
+      "onboard_time": 1682073931,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284880,
       "num": 284880,
       "word": "网易云十年听歌报告",
@@ -1139,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265703,
+      "num": 265703,
+      "word": "上海车展多家展商免费派发冰淇淋",
+      "onboard_time": 1682078549,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265489,
       "num": 265489,
       "word": "范丞丞坐玩具车走红毯",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1681994606,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257276,
+      "num": 223138,
+      "word": "战至巅峰2阵容",
+      "onboard_time": 1682077168,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 256830,
@@ -1347,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224126,
+      "num": 224126,
+      "word": "司机拦住特警巡逻车救了自己一命",
+      "onboard_time": 1682077470,
+      "rank": 24,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 223888,
       "num": 199439,
       "word": "德云社节目单",
@@ -1395,12 +1475,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219413,
+      "num": 223469,
+      "word": "TTG对战KSG",
+      "onboard_time": 1682079688,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217246,
       "num": 217246,
       "word": "中国人均读书每年5本",
       "onboard_time": 1682055210,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216812,
+      "num": 162928,
+      "word": "电影灌篮高手评分",
+      "onboard_time": 1682076510,
+      "rank": 39,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 216655,
@@ -1563,14 +1659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 193103,
-      "num": 193103,
-      "word": "魏晨状态",
-      "onboard_time": 1682076267,
-      "rank": 33,
-      "category": "影视,时尚"
-    },
-    {
       "raw_hot": 192831,
       "num": 192831,
       "word": "志愿军剧组红毯阵容好豪华",
@@ -1627,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186981,
+      "num": 186981,
+      "word": "能治愈你的很少是人类",
+      "onboard_time": 1682079148,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186589,
       "num": 192343,
       "word": "张真源扎染牛仔外套",
@@ -1641,14 +1737,6 @@
       "onboard_time": 1682058509,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 185188,
-      "num": 185188,
-      "word": "殡葬业有多赚钱",
-      "onboard_time": 1682075787,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 184626,
@@ -1673,6 +1761,14 @@
       "onboard_time": 1681986990,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181878,
+      "num": 156305,
+      "word": "五哈主题曲离谱又合理",
+      "onboard_time": 1682080049,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 179465,
@@ -1715,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173005,
+      "num": 154288,
+      "word": "欢乐颂",
+      "onboard_time": 1682078909,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172977,
       "num": 172977,
       "word": "宝马mini的公关你给打几分",
@@ -1728,6 +1832,14 @@
       "word": "严浩翔应援法视频",
       "onboard_time": 1682054493,
       "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 167792,
+      "num": 151878,
+      "word": "INTO1告别限定演唱会时光场",
+      "onboard_time": 1682077048,
+      "rank": 44,
       "category": "音乐"
     },
     {
@@ -1755,14 +1867,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 162475,
-      "num": 162475,
-      "word": "电影灌篮高手评分",
-      "onboard_time": 1682076510,
-      "rank": 39,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 158586,
       "num": 158586,
       "word": "赵小棠暗黑童话礼服裙",
@@ -1775,14 +1879,6 @@
       "num": 158080,
       "word": "那英问华晨宇要签名",
       "onboard_time": 1682056708,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 156065,
-      "num": 156065,
-      "word": "奔跑吧",
-      "onboard_time": 1682073931,
       "rank": 44,
       "category": "综艺"
     },
@@ -1865,6 +1961,14 @@
       "onboard_time": 1682058869,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149006,
+      "num": 149006,
+      "word": "父母姓氏组合而来的名字",
+      "onboard_time": 1682076389,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 148705,
@@ -2131,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85710,
+      "num": 400189,
+      "word": "北影节红毯男星造型",
+      "onboard_time": 1682078430,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 84878,
       "num": 544326,
       "word": "小哥公园送外卖各出奇招",
@@ -2195,7 +2307,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 50462,
+      "raw_hot": 52713,
       "num": 2208215,
       "word": "一起回顾中国载人航天高光时刻",
       "onboard_time": 1682069308,
