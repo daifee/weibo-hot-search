@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682145254114,
+  "endTime": 1682147702137,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2449,6 +2449,14 @@
       "onboard_time": 1682047467,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1645338,
+      "num": 1645338,
+      "word": "孝庄秘史 抄袭",
+      "onboard_time": 1682144906,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1643326,
@@ -5539,6 +5547,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 933692,
+      "num": 933692,
+      "word": "高叶 礼服把我鲨疯了",
+      "onboard_time": 1682147608,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 933201,
       "num": 928125,
       "word": "鹭卓 抄袭",
@@ -7091,6 +7107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 790826,
+      "num": 790826,
+      "word": "女孩子真的越长大越没有家吗",
+      "onboard_time": 1682143886,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 790701,
       "num": 790701,
       "word": "高铁无座也是可以坐的",
@@ -8283,6 +8307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698837,
+      "num": 698837,
+      "word": "向往的生活或将是最后一季",
+      "onboard_time": 1682142506,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 698141,
       "num": 356276,
       "word": "韩素希说想成为宋慧乔的小狗",
@@ -9337,14 +9369,6 @@
       "onboard_time": 1681204648,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 644668,
-      "num": 644668,
-      "word": "向往的生活或将是最后一季",
-      "onboard_time": 1682142506,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 643901,
@@ -10491,6 +10515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 588753,
+      "num": 588753,
+      "word": "这件旗袍为她筛选掉了不好的人",
+      "onboard_time": 1682145267,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 588271,
       "num": 429879,
       "word": "偶遇鹿晗王勉喝咖啡",
@@ -10824,6 +10856,14 @@
       "word": "迪丽热巴晒生活照",
       "onboard_time": 1680845492,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 574716,
+      "num": 392131,
+      "word": "虞书欣美国库存照",
+      "onboard_time": 1682143825,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -11353,14 +11393,6 @@
       "onboard_time": 1680401488,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 552803,
-      "num": 392131,
-      "word": "虞书欣美国库存照",
-      "onboard_time": 1682143825,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 552794,
@@ -13497,14 +13529,6 @@
       "onboard_time": 1680764546,
       "rank": 15,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 476456,
-      "num": 390188,
-      "word": "孝庄秘史 抄袭",
-      "onboard_time": 1682144906,
-      "rank": 11,
-      "category": "影视"
     },
     {
       "raw_hot": 476426,
@@ -17875,14 +17899,6 @@
       "category": "社会正能量,教育"
     },
     {
-      "raw_hot": 369331,
-      "num": 369331,
-      "word": "女孩子真的越长大越没有家吗",
-      "onboard_time": 1682143886,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 369307,
       "num": 369307,
       "word": "12306候补平均兑现率已达70%",
@@ -18528,6 +18544,14 @@
       "word": "深夜起火92岁奶奶喊醒一条街",
       "onboard_time": 1681719385,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356460,
+      "num": 356460,
+      "word": "当事人要求宝马MINI道歉",
+      "onboard_time": 1682147007,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -19585,6 +19609,14 @@
       "onboard_time": 1681038805,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335838,
+      "num": 335838,
+      "word": "章昊成韩彬牵手下台",
+      "onboard_time": 1682145506,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 335746,
@@ -24337,6 +24369,14 @@
       "onboard_time": 1681800447,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260252,
+      "num": 260252,
+      "word": "流川枫",
+      "onboard_time": 1682145207,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 259986,
@@ -38299,6 +38339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176149,
+      "num": 136904,
+      "word": "一觉醒来被老板辞退了",
+      "onboard_time": 1682146648,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 176130,
       "num": 176130,
       "word": "IVE先行曲一位",
@@ -47579,6 +47627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111517,
+      "num": 111517,
+      "word": "罗翔说读书日可以不读书",
+      "onboard_time": 1682146407,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111512,
       "num": 104856,
       "word": "华晨宇演唱会航拍视频",
@@ -47675,6 +47731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 110257,
+      "num": 110257,
+      "word": "男子一口气买8公斤金条藏厕所楼道",
+      "onboard_time": 1682147366,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110210,
       "num": 110210,
       "word": "剧好听的歌有好多人啊",
@@ -47736,6 +47800,14 @@
       "word": "杨丞琳想和黄潇再合作",
       "onboard_time": 1680935246,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109659,
+      "num": 109659,
+      "word": "张婧仪说给大家比个心吧",
+      "onboard_time": 1682145326,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -47977,14 +48049,6 @@
       "onboard_time": 1681002327,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106729,
-      "num": 106729,
-      "word": "流川枫",
-      "onboard_time": 1682145207,
-      "rank": 47,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 106687,
@@ -48795,6 +48859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98346,
+      "num": 145646,
+      "word": "广东多地震感明显",
+      "onboard_time": 1682146048,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98298,
       "num": 98298,
       "word": "华晨宇武汉演唱会门票秒售罄",
@@ -48897,6 +48969,14 @@
       "onboard_time": 1681643366,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 97343,
+      "num": 97343,
+      "word": "世界难题被恋爱脑解决了",
+      "onboard_time": 1682146587,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 97340,
@@ -51497,6 +51577,14 @@
       "onboard_time": 1680383591,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 7606,
+      "num": 109777,
+      "word": "拜祖大典上的文化元素",
+      "onboard_time": 1682146825,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5478,
