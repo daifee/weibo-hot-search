@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682190802014,
+  "endTime": 1682192007092,
   "band_list": [
     {
       "raw_hot": 2603141,
@@ -456,6 +456,14 @@
       "word": "珍爱地球中国在行动",
       "onboard_time": 1682167049,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20721,
+      "num": 29183,
+      "word": "女子为给猪仔治病种4769株罂粟",
+      "onboard_time": 1682190853,
+      "rank": 29,
       "category": "社会新闻"
     }
   ],
