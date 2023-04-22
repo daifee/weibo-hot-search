@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682155990712,
+  "endTime": 1682158658093,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2003483,
-      "num": 726571,
+      "num": 1116589,
       "word": "女子喝中药一周发现成分是蟑螂",
       "onboard_time": 1682152707,
       "rank": 3,
@@ -81,6 +81,14 @@
       "onboard_time": 1682118737,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1468581,
+      "num": 1468581,
+      "word": "长月烬明怎么了",
+      "onboard_time": 1682155526,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 1315956,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790864,
+      "num": 790864,
+      "word": "向往的生活或将是最后一季",
+      "onboard_time": 1682142506,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 790826,
       "num": 790826,
       "word": "女孩子真的越长大越没有家吗",
@@ -241,14 +257,6 @@
       "onboard_time": 1682149887,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 698837,
-      "num": 698837,
-      "word": "向往的生活或将是最后一季",
-      "onboard_time": 1682142506,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 685416,
@@ -313,6 +321,14 @@
       "onboard_time": 1682081130,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 597356,
+      "num": 597356,
+      "word": "杨幂的耳骨钉",
+      "onboard_time": 1682156788,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 588753,
@@ -457,6 +473,14 @@
       "onboard_time": 1682131527,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400533,
+      "num": 1346556,
+      "word": "老人乘地铁用颤抖的手批改资料",
+      "onboard_time": 1682157027,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399176,
@@ -755,6 +779,22 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 258520,
+      "num": 210696,
+      "word": "因为喝水太多被领导提意见了",
+      "onboard_time": 1682156368,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 256640,
+      "num": 256640,
+      "word": "祝绪丹两部待播剧男主",
+      "onboard_time": 1682157807,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255791,
       "num": 255791,
       "word": "罗云熙白鹿直播",
@@ -811,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244591,
-      "num": 244591,
-      "word": "长月烬明怎么了",
-      "onboard_time": 1682155526,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 244405,
       "num": 244405,
       "word": "宝马MINI",
@@ -835,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242197,
+      "num": 208068,
+      "word": "主办方回应上海车展禁止送冰淇淋",
+      "onboard_time": 1682155108,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241228,
       "num": 241228,
       "word": "胡先煦眼角肿了",
@@ -849,6 +889,14 @@
       "onboard_time": 1682072911,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238475,
+      "num": 864652,
+      "word": "民警勇斗歹徒牺牲前画面看哭了",
+      "onboard_time": 1682150848,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238177,
@@ -881,6 +929,14 @@
       "onboard_time": 1682130808,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 230787,
+      "num": 206564,
+      "word": "程潇秒猜迪丽热巴冷笑话谐音梗",
+      "onboard_time": 1682155827,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 228440,
@@ -921,6 +977,14 @@
       "onboard_time": 1682126907,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214651,
+      "num": 204052,
+      "word": "熊猫阿宝耳朵被七仔咬成V形",
+      "onboard_time": 1682156908,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213820,
@@ -1139,14 +1203,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176636,
-      "num": 176636,
-      "word": "民警勇斗歹徒牺牲前画面看哭了",
-      "onboard_time": 1682150848,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173697,
       "num": 211619,
       "word": "为地球留住美好",
@@ -1211,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166144,
-      "num": 166144,
-      "word": "主办方回应上海车展禁止送冰淇淋",
-      "onboard_time": 1682155108,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165542,
       "num": 165542,
       "word": "Tangoz去了INTO1演唱会",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1682140645,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165043,
+      "num": 165043,
+      "word": "长月烬明带动安徽旅游经济",
+      "onboard_time": 1682158648,
+      "rank": 27,
+      "category": "旅游,影视"
     },
     {
       "raw_hot": 164980,
@@ -1547,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120861,
+      "num": 120861,
+      "word": "王源欧阳娜娜MV相似度",
+      "onboard_time": 1682158528,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 115725,
       "num": 115725,
       "word": "原来这是老天在对我调休",
@@ -1643,6 +1707,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 104302,
+      "num": 763906,
+      "word": "大学老师课堂分享初恋经历",
+      "onboard_time": 1682157027,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 103330,
       "num": 103330,
       "word": "长月烬明的反盗版声明",
@@ -1719,14 +1791,6 @@
       "num": 96668,
       "word": "乐华BoysPlanet收官战报",
       "onboard_time": 1682120844,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 95257,
-      "num": 95257,
-      "word": "程潇秒猜迪丽热巴冷笑话谐音梗",
-      "onboard_time": 1682155827,
       "rank": 45,
       "category": "综艺"
     },

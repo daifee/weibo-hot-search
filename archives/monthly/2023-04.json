@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682155990712,
+  "endTime": 1682158658093,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1692,7 +1692,7 @@
     },
     {
       "raw_hot": 2003483,
-      "num": 726571,
+      "num": 1116589,
       "word": "女子喝中药一周发现成分是蟑螂",
       "onboard_time": 1682152707,
       "rank": 3,
@@ -3041,6 +3041,14 @@
       "onboard_time": 1681397731,
       "rank": 10,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 1468581,
+      "num": 1468581,
+      "word": "长月烬明怎么了",
+      "onboard_time": 1682155526,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 1465661,
@@ -7123,6 +7131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 790864,
+      "num": 790864,
+      "word": "向往的生活或将是最后一季",
+      "onboard_time": 1682142506,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 790826,
       "num": 790826,
       "word": "女孩子真的越长大越没有家吗",
@@ -8337,14 +8353,6 @@
       "onboard_time": 1681868308,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 698837,
-      "num": 698837,
-      "word": "向往的生活或将是最后一季",
-      "onboard_time": 1682142506,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 698141,
@@ -10345,6 +10353,14 @@
       "onboard_time": 1680942085,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597356,
+      "num": 597356,
+      "word": "杨幂的耳骨钉",
+      "onboard_time": 1682156788,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 597334,
@@ -16489,6 +16505,14 @@
       "onboard_time": 1681126348,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400533,
+      "num": 1346556,
+      "word": "老人乘地铁用颤抖的手批改资料",
+      "onboard_time": 1682157027,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400512,
@@ -24611,6 +24635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258520,
+      "num": 210696,
+      "word": "因为喝水太多被领导提意见了",
+      "onboard_time": 1682156368,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 258320,
       "num": 258320,
       "word": "吴谨言央视古风造型",
@@ -24777,6 +24809,14 @@
       "onboard_time": 1682069130,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256640,
+      "num": 256640,
+      "word": "祝绪丹两部待播剧男主",
+      "onboard_time": 1682157807,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 256631,
@@ -25795,14 +25835,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 244591,
-      "num": 244591,
-      "word": "长月烬明怎么了",
-      "onboard_time": 1682155526,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 244541,
       "num": 213327,
       "word": "女子推理社",
@@ -26041,6 +26073,14 @@
       "onboard_time": 1681118787,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242197,
+      "num": 208068,
+      "word": "主办方回应上海车展禁止送冰淇淋",
+      "onboard_time": 1682155108,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241999,
@@ -26377,6 +26417,14 @@
       "onboard_time": 1681992928,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238475,
+      "num": 864652,
+      "word": "民警勇斗歹徒牺牲前画面看哭了",
+      "onboard_time": 1682150848,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238353,
@@ -27089,6 +27137,14 @@
       "onboard_time": 1681910009,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230787,
+      "num": 206564,
+      "word": "程潇秒猜迪丽热巴冷笑话谐音梗",
+      "onboard_time": 1682155827,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 230782,
@@ -29073,6 +29129,14 @@
       "onboard_time": 1680836006,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214651,
+      "num": 204052,
+      "word": "熊猫阿宝耳朵被七仔咬成V形",
+      "onboard_time": 1682156908,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214505,
@@ -38459,14 +38523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176636,
-      "num": 176636,
-      "word": "民警勇斗歹徒牺牲前画面看哭了",
-      "onboard_time": 1682150848,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176616,
       "num": 176616,
       "word": "刀哥下线",
@@ -40035,14 +40091,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 166144,
-      "num": 166144,
-      "word": "主办方回应上海车展禁止送冰淇淋",
-      "onboard_time": 1682155108,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166115,
       "num": 166115,
       "word": "王源健身vlog",
@@ -40265,6 +40313,14 @@
       "onboard_time": 1680443564,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165043,
+      "num": 165043,
+      "word": "长月烬明带动安徽旅游经济",
+      "onboard_time": 1682158648,
+      "rank": 27,
+      "category": "旅游,影视"
     },
     {
       "raw_hot": 165013,
@@ -46939,6 +46995,14 @@
       "category": "影视,社会新闻"
     },
     {
+      "raw_hot": 120861,
+      "num": 120861,
+      "word": "王源欧阳娜娜MV相似度",
+      "onboard_time": 1682158528,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120808,
       "num": 120808,
       "word": "陈建斌给陈晓夸不会了",
@@ -48491,6 +48555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104302,
+      "num": 763906,
+      "word": "大学老师课堂分享初恋经历",
+      "onboard_time": 1682157027,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 104254,
       "num": 104254,
       "word": "薛之谦演唱会小品",
@@ -49385,14 +49457,6 @@
       "onboard_time": 1681536267,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 95257,
-      "num": 95257,
-      "word": "程潇秒猜迪丽热巴冷笑话谐音梗",
-      "onboard_time": 1682155827,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 95189,
