@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682130850414,
+  "endTime": 1682131372574,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -35,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1551939,
-      "num": 1551939,
+      "raw_hot": 1588708,
+      "num": 1588708,
       "word": "李晨 对任何人都是尊重的",
       "onboard_time": 1682129967,
       "rank": 3,
@@ -99,8 +99,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 718435,
-      "num": 718435,
+      "raw_hot": 741727,
+      "num": 741727,
       "word": "张颂文朱一龙 互让C",
       "onboard_time": 1682128768,
       "rank": 4,
@@ -147,20 +147,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 587370,
+      "num": 587370,
+      "word": "莱昂纳德",
+      "onboard_time": 1682128226,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 571325,
       "num": 571325,
       "word": "5岁女孩被拐26年后回家父母双亡",
       "onboard_time": 1682091928,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 568387,
-      "num": 568387,
-      "word": "莱昂纳德",
-      "onboard_time": 1682128226,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 564183,
@@ -179,8 +179,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 476096,
-      "num": 476096,
+      "raw_hot": 484603,
+      "num": 484603,
       "word": "火腿肠为什么走向没落了",
       "onboard_time": 1682126848,
       "rank": 20,
@@ -193,6 +193,14 @@
       "onboard_time": 1682091209,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444051,
+      "num": 444051,
+      "word": "斯嘉丽说不会再演黑寡妇了",
+      "onboard_time": 1682129667,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 422555,
@@ -251,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358452,
-      "num": 358452,
-      "word": "斯嘉丽说不会再演黑寡妇了",
-      "onboard_time": 1682129667,
-      "rank": 14,
-      "category": "影视"
-    },
-    {
       "raw_hot": 355276,
       "num": 355276,
       "word": "杭州男子失踪7天找到时已失温",
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 328160,
-      "num": 219819,
+      "num": 322603,
       "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
       "onboard_time": 1682128649,
       "rank": 21,
@@ -355,6 +355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251776,
+      "num": 230421,
+      "word": "宝马称接待人员不是内部员工",
+      "onboard_time": 1682130025,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249225,
       "num": 249225,
       "word": "魏晨状态",
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230869,
+      "num": 230869,
+      "word": "招财猫原来不是假的",
+      "onboard_time": 1682130808,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228440,
       "num": 228440,
       "word": "三月三",
@@ -427,28 +443,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214441,
-      "num": 214441,
+      "raw_hot": 220073,
+      "num": 220073,
+      "word": "李兰迪 女儿国国王",
+      "onboard_time": 1682131347,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 218792,
+      "num": 218792,
       "word": "张婧仪周也近期生图",
       "onboard_time": 1682126907,
       "rank": 27,
       "category": "艺人"
     },
     {
-      "raw_hot": 209651,
-      "num": 209651,
+      "raw_hot": 216686,
+      "num": 216686,
       "word": "星巴克",
       "onboard_time": 1682126607,
       "rank": 41,
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 209249,
-      "num": 209249,
-      "word": "宝马称接待人员不是内部员工",
-      "onboard_time": 1682130025,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 201878,
+      "num": 201878,
+      "word": "公司五一放三天同事离职了",
+      "onboard_time": 1682130867,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 201056,
@@ -489,6 +513,14 @@
       "onboard_time": 1682077349,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189409,
+      "num": 189409,
+      "word": "芝士香橙熔岩吐司",
+      "onboard_time": 1682130808,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 188398,
@@ -571,28 +603,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159905,
-      "num": 159905,
-      "word": "芝士香橙熔岩吐司",
-      "onboard_time": 1682130808,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 157484,
-      "num": 157484,
+      "raw_hot": 161737,
+      "num": 161737,
       "word": "边牧和金毛同天偷跑聚网吧玩通宵",
       "onboard_time": 1682129308,
       "rank": 33,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 156719,
-      "num": 156719,
-      "word": "招财猫原来不是假的",
-      "onboard_time": 1682130808,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 152087,
@@ -641,6 +657,22 @@
       "onboard_time": 1682127867,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140280,
+      "num": 140280,
+      "word": "中国美院回应老师被指抄袭",
+      "onboard_time": 1682130685,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 138597,
+      "num": 138597,
+      "word": "魏如萱魔性笑声",
+      "onboard_time": 1682131048,
+      "rank": 39,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 137266,
@@ -731,20 +763,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 105851,
-      "num": 105851,
-      "word": "中国美院回应老师被指抄袭",
-      "onboard_time": 1682130685,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 105011,
       "num": 105011,
       "word": "安以轩未现身陈荣炼庭审现场",
       "onboard_time": 1682084733,
       "rank": 40,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 104340,
+      "num": 104340,
+      "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
+      "onboard_time": 1682129907,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 103330,
@@ -809,14 +841,6 @@
       "onboard_time": 1682120844,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94775,
-      "num": 94775,
-      "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
-      "onboard_time": 1682129907,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92380,

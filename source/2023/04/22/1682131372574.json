@@ -1,0 +1,410 @@
+{
+  "runTime": 1682131372574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1762973,
+        "num": 1762973,
+        "word": "新加坡鞭刑",
+        "onboard_time": 1682125109,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1715540,
+        "num": 1715540,
+        "word": "陈飞宇 周也",
+        "onboard_time": 1682124388,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43008,
+        "num": 1601196,
+        "word": "县在出发",
+        "onboard_time": 1682083712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1588708,
+        "num": 1588708,
+        "word": "李晨 对任何人都是尊重的",
+        "onboard_time": 1682129967,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741727,
+        "num": 741727,
+        "word": "张颂文朱一龙 互让C",
+        "onboard_time": 1682128768,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 602382,
+        "num": 602382,
+        "word": "陈都灵礼服开线了",
+        "onboard_time": 1682118798,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 587370,
+        "num": 587370,
+        "word": "莱昂纳德",
+        "onboard_time": 1682128226,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 584934,
+        "num": 584934,
+        "word": "宝马mini称两名女生离职消息不实",
+        "onboard_time": 1682089831,
+        "rank": 7,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 524383,
+        "num": 524383,
+        "word": "印度男子性骚扰韩国女游客",
+        "onboard_time": 1682125109,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 484603,
+        "num": 484603,
+        "word": "火腿肠为什么走向没落了",
+        "onboard_time": 1682126848,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 955682,
+        "num": 473898,
+        "word": "杨幂站姐放出原图",
+        "onboard_time": 1682118737,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 444051,
+        "num": 444051,
+        "word": "斯嘉丽说不会再演黑寡妇了",
+        "onboard_time": 1682129667,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371966,
+        "num": 371966,
+        "word": "老番茄求婚",
+        "onboard_time": 1682082869,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 370998,
+        "num": 370998,
+        "word": "今天好多明星演唱会抢票",
+        "onboard_time": 1682127329,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 365114,
+        "num": 365114,
+        "word": "入职前一天被HR提醒骗子公司别来",
+        "onboard_time": 1682122885,
+        "rank": 14,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 322603,
+        "num": 322603,
+        "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
+        "onboard_time": 1682128649,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287941,
+        "num": 287941,
+        "word": "胡先煦回应发腮",
+        "onboard_time": 1682090970,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287491,
+        "num": 287491,
+        "word": "hybe",
+        "onboard_time": 1682126309,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269469,
+        "num": 269469,
+        "word": "小米电视机凌晨突然飙女高音",
+        "onboard_time": 1682122586,
+        "rank": 18,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 260478,
+        "num": 260478,
+        "word": "宝马回应女生在展台直播被拖走事件",
+        "onboard_time": 1682119641,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937876,
+        "num": 253435,
+        "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
+        "onboard_time": 1682125467,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230869,
+        "num": 230869,
+        "word": "招财猫原来不是假的",
+        "onboard_time": 1682130808,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251776,
+        "num": 230421,
+        "word": "宝马称接待人员不是内部员工",
+        "onboard_time": 1682130025,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220073,
+        "num": 220073,
+        "word": "李兰迪 女儿国国王",
+        "onboard_time": 1682131347,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218792,
+        "num": 218792,
+        "word": "张婧仪周也近期生图",
+        "onboard_time": 1682126907,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216686,
+        "num": 216686,
+        "word": "星巴克",
+        "onboard_time": 1682126607,
+        "rank": 25,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 206973,
+        "num": 206973,
+        "word": "章昊以为自己是第二名",
+        "onboard_time": 1682121144,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201878,
+        "num": 201878,
+        "word": "公司五一放三天同事离职了",
+        "onboard_time": 1682130867,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201567,
+        "num": 201567,
+        "word": "日本陆上自卫队第8师团长坂本雄一死亡",
+        "onboard_time": 1682123965,
+        "rank": 28,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 193715,
+        "num": 193715,
+        "word": "玥烬情苏",
+        "onboard_time": 1682126483,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189409,
+        "num": 189409,
+        "word": "芝士香橙熔岩吐司",
+        "onboard_time": 1682130808,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183001,
+        "num": 183001,
+        "word": "95后女生打4份工全年无休",
+        "onboard_time": 1682120602,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179903,
+        "num": 179903,
+        "word": "广东一40岁男子晋升为岳父",
+        "onboard_time": 1682119519,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161737,
+        "num": 161737,
+        "word": "边牧和金毛同天偷跑聚网吧玩通宵",
+        "onboard_time": 1682129308,
+        "rank": 33,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 149095,
+        "num": 149095,
+        "word": "男子乘飞机旁边坐了尊妈祖神像",
+        "onboard_time": 1682120181,
+        "rank": 34,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 146702,
+        "num": 146702,
+        "word": "张子枫 C位烫脚",
+        "onboard_time": 1682081250,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205421,
+        "num": 145303,
+        "word": "王源说戒指谁抢到就送给谁",
+        "onboard_time": 1682121805,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142424,
+        "num": 142424,
+        "word": "杭州男子失踪7天找到时已失温",
+        "onboard_time": 1682118919,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140280,
+        "num": 140280,
+        "word": "中国美院回应老师被指抄袭",
+        "onboard_time": 1682130685,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 138597,
+        "num": 138597,
+        "word": "魏如萱魔性笑声",
+        "onboard_time": 1682131048,
+        "rank": 39,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 132730,
+        "num": 132730,
+        "word": "篮球场假摔求婚",
+        "onboard_time": 1682127867,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118232,
+        "num": 118232,
+        "word": "三月三",
+        "onboard_time": 1682124507,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115365,
+        "num": 115365,
+        "word": "二手车贩直播砸宝马",
+        "onboard_time": 1682118137,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110662,
+        "num": 110662,
+        "word": "薛之谦慢半拍被伴舞扛在肩上",
+        "onboard_time": 1682122644,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109455,
+        "num": 109455,
+        "word": "中国空间站里有只穿航天服的兔子",
+        "onboard_time": 1682119941,
+        "rank": 44,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 113541,
+        "num": 109323,
+        "word": "宝马MINI",
+        "onboard_time": 1682075491,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104340,
+        "num": 104340,
+        "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
+        "onboard_time": 1682129907,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99745,
+        "num": 99745,
+        "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
+        "onboard_time": 1682105953,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 93914,
+        "num": 93914,
+        "word": "肯尼迪侄子演讲不停夸中国喷美国",
+        "onboard_time": 1682122586,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 88949,
+        "num": 88949,
+        "word": "五哈3主题曲诞生实录",
+        "onboard_time": 1682130566,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实开展主题教育#"
+    }
+  }
+}
