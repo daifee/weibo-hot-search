@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/22 23:16:37
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/22 23:33:46
 </p>
 </blockquote>
 <p>
@@ -951,6 +951,12 @@ BAP力灿承认猥亵队友（热度：2556209）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23PGONE%E5%A4%8D%E5%87%BA%E4%B8%8D%E5%88%B024%E5%B0%8F%E6%97%B6%E8%A2%AB%E5%B0%81%23" target="weibo">
+PGONE复出不到24小时被封（热度：2288527）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%87%91%E4%B8%96%E4%BD%B3%20%E5%88%A9%E5%89%91%E7%8E%AB%E7%91%B0%23" target="weibo">
 迪丽热巴金世佳 利剑玫瑰（热度：2287464）
 </a>
@@ -989,12 +995,6 @@ ASTRO成员文彬去世（热度：2243382）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E8%80%83%E7%A0%94%E5%BD%95%E5%8F%96%E7%8E%87%E6%88%96%E4%B8%8D%E5%88%B0%E4%B8%A4%E6%88%90%23" target="weibo">
 今年考研录取率或不到两成（热度：2234267）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23PGONE%E5%A4%8D%E5%87%BA%E4%B8%8D%E5%88%B024%E5%B0%8F%E6%97%B6%E8%A2%AB%E5%B0%81%23" target="weibo">
-PGONE复出不到24小时被封（热度：2225050）
 </a>
 </li>
 

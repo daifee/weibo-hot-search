@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682176597801,
+  "endTime": 1682177626079,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2288527,
+      "num": 2288527,
+      "word": "PGONE复出不到24小时被封",
+      "onboard_time": 1682173233,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2284572,
       "num": 2284572,
       "word": "王宝强女友冯清已还清188万执行款",
@@ -433,14 +441,6 @@
       "onboard_time": 1681866330,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2225050,
-      "num": 2225050,
-      "word": "PGONE复出不到24小时被封",
-      "onboard_time": 1682173233,
-      "rank": 12,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2202852,
@@ -2739,6 +2739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 629015,
+      "num": 629015,
+      "word": "张颂文向陈凯歌介绍高叶",
+      "onboard_time": 1682174795,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622212,
       "num": 622212,
       "word": "澹台烬主动吻叶夕雾",
@@ -3243,14 +3251,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 533123,
-      "num": 533123,
-      "word": "张颂文向陈凯歌介绍高叶",
-      "onboard_time": 1682174795,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 532194,
       "num": 426332,
       "word": "虞书欣 刘虞佳",
@@ -3491,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498368,
+      "num": 498368,
+      "word": "多地网友晒抗原称二阳",
+      "onboard_time": 1682172092,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498280,
       "num": 498280,
       "word": "与凤行",
@@ -3721,14 +3729,6 @@
       "onboard_time": 1681689687,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 477098,
-      "num": 477098,
-      "word": "多地网友晒抗原称二阳",
-      "onboard_time": 1682172092,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475312,
@@ -4449,6 +4449,14 @@
       "onboard_time": 1681914390,
       "rank": 9,
       "category": "科技"
+    },
+    {
+      "raw_hot": 405653,
+      "num": 405653,
+      "word": "减肥减的根本不是肉",
+      "onboard_time": 1682174378,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 405439,
@@ -5363,6 +5371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348785,
+      "num": 348785,
+      "word": "嫖客被抓反告民警并胜诉",
+      "onboard_time": 1682176710,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348131,
       "num": 348131,
       "word": "专升本",
@@ -5473,14 +5489,6 @@
       "onboard_time": 1681828231,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340536,
-      "num": 340536,
-      "word": "减肥减的根本不是肉",
-      "onboard_time": 1682174378,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 340039,
@@ -5617,6 +5625,14 @@
       "onboard_time": 1681861046,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329130,
+      "num": 233645,
+      "word": "龚俊去了李荣浩的演唱会",
+      "onboard_time": 1682177312,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 328915,
@@ -5915,6 +5931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314330,
+      "num": 314330,
+      "word": "徐明浩有梗",
+      "onboard_time": 1682175634,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314060,
       "num": 314060,
       "word": "如何评价王嘉尔二登科切拉",
@@ -6201,6 +6225,14 @@
       "onboard_time": 1682056168,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294259,
+      "num": 294259,
+      "word": "小鬼 泰酷辣",
+      "onboard_time": 1682177192,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 294040,
@@ -6923,14 +6955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 262562,
-      "num": 262562,
-      "word": "徐明浩有梗",
-      "onboard_time": 1682175634,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262436,
       "num": 225438,
       "word": "千万不要跟风买墨镜",
@@ -7467,6 +7491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236985,
+      "num": 236985,
+      "word": "SEVENTEEN新歌预告",
+      "onboard_time": 1682177312,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 236678,
       "num": 236678,
       "word": "清洁工大叔花三个月工资给孩子买手机",
@@ -7891,6 +7923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221633,
+      "num": 221633,
+      "word": "WB零封狼队",
+      "onboard_time": 1682176773,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221515,
       "num": 221515,
       "word": "龚俊新剧MV有19套衣服",
@@ -8129,6 +8169,14 @@
       "onboard_time": 1682054731,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213141,
+      "num": 213141,
+      "word": "美因茨vs拜仁",
+      "onboard_time": 1682177192,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 213077,
@@ -8601,6 +8649,14 @@
       "onboard_time": 1681797029,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204965,
+      "num": 204965,
+      "word": "eStar全员发博庆祝胜利",
+      "onboard_time": 1682176653,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 204957,
@@ -9979,6 +10035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 182741,
+      "num": 182741,
+      "word": "四川人民主打一个大义灭亲",
+      "onboard_time": 1682176413,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182718,
       "num": 182718,
       "word": "澹台烬帮翩然拿回情丝",
@@ -11112,6 +11176,14 @@
       "word": "贾静雯组王佳宇repo",
       "onboard_time": 1681876651,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155722,
+      "num": 155722,
+      "word": "周深跑掉了两个手机",
+      "onboard_time": 1682176710,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -12744,14 +12816,6 @@
       "word": "汉字为什么叫汉字",
       "onboard_time": 1681969227,
       "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 113745,
-      "num": 113745,
-      "word": "四川人民主打一个大义灭亲",
-      "onboard_time": 1682176413,
-      "rank": 46,
       "category": "幽默"
     },
     {
