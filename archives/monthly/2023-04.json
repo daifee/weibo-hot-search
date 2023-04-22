@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682167630297,
+  "endTime": 1682169535230,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -336,6 +336,14 @@
       "word": "调休",
       "onboard_time": 1681695743,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3531580,
+      "num": 3531580,
+      "word": "新冠",
+      "onboard_time": 1682167468,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -4755,6 +4763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1065412,
+      "num": 1065412,
+      "word": "李晨需要道歉吗",
+      "onboard_time": 1682160268,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1063073,
       "num": 377361,
       "word": "肖战回应形象变化",
@@ -5945,14 +5961,6 @@
       "onboard_time": 1681825831,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 897977,
-      "num": 897977,
-      "word": "李晨需要道歉吗",
-      "onboard_time": 1682160268,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 897491,
@@ -10731,6 +10739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 584046,
+      "num": 584046,
+      "word": "何悯鸿怀孕还要给戚牧做保姆",
+      "onboard_time": 1682164949,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 584041,
       "num": 584041,
       "word": "朴彩英科切拉",
@@ -12028,7 +12044,7 @@
     },
     {
       "raw_hot": 532194,
-      "num": 300589,
+      "num": 426332,
       "word": "虞书欣 刘虞佳",
       "onboard_time": 1682160268,
       "rank": 28,
@@ -12635,6 +12651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 510970,
+      "num": 203990,
+      "word": "女子坚持足月生产诞下双胞胎后病危",
+      "onboard_time": 1682166450,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510842,
       "num": 510842,
       "word": "特斯拉员工被曝分享车主隐私画面",
@@ -13057,14 +13081,6 @@
       "onboard_time": 1681276889,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493621,
-      "num": 230250,
-      "word": "何悯鸿怀孕还要给戚牧做保姆",
-      "onboard_time": 1682164949,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 493218,
@@ -15859,6 +15875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 416895,
+      "num": 416895,
+      "word": "王楚钦4比0张本智和",
+      "onboard_time": 1682168191,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416697,
       "num": 382805,
       "word": "力灿承认曾性骚扰",
@@ -16225,14 +16249,6 @@
       "onboard_time": 1682157807,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 408527,
-      "num": 186065,
-      "word": "女子坚持足月生产诞下双胞胎后病危",
-      "onboard_time": 1682166450,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 408094,
@@ -16705,6 +16721,14 @@
       "onboard_time": 1680752849,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 398634,
+      "num": 398634,
+      "word": "伊能静来了也不认识秦昊",
+      "onboard_time": 1682168008,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 398368,
@@ -19681,6 +19705,14 @@
       "onboard_time": 1681271427,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338970,
+      "num": 338970,
+      "word": "杭州女教师接到陌生电话听出是求救",
+      "onboard_time": 1682167892,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 338455,
@@ -23652,7 +23684,7 @@
     },
     {
       "raw_hot": 273420,
-      "num": 223976,
+      "num": 258831,
       "word": "百亿补贴杀疯了",
       "onboard_time": 1682160268,
       "rank": 47,
@@ -26211,6 +26243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242251,
+      "num": 201882,
+      "word": "明日方舟直播",
+      "onboard_time": 1682162428,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241999,
       "num": 241999,
       "word": "刘德华姜涛合照",
@@ -28529,14 +28569,6 @@
       "onboard_time": 1681105949,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220065,
-      "num": 190665,
-      "word": "明日方舟直播",
-      "onboard_time": 1682162428,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 219936,
@@ -31075,6 +31107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205305,
+      "num": 205305,
+      "word": "凯尔希皮肤",
+      "onboard_time": 1682168311,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205270,
       "num": 205270,
       "word": "易烊千玺说会创作出好角色回馈观众",
@@ -32872,6 +32912,14 @@
       "word": "OMG团战",
       "onboard_time": 1680606511,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 200161,
+      "num": 200161,
+      "word": "PEL",
+      "onboard_time": 1682168550,
+      "rank": 25,
       "category": "游戏"
     },
     {
@@ -36297,6 +36345,14 @@
       "onboard_time": 1680663929,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188493,
+      "num": 188493,
+      "word": "千劫眉主演 罗云熙",
+      "onboard_time": 1682160330,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 188466,
@@ -39891,6 +39947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168658,
+      "num": 168658,
+      "word": "白鹿一口气读文章",
+      "onboard_time": 1682169511,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168611,
       "num": 168611,
       "word": "贝儿和妹妹盘手串",
@@ -41121,6 +41185,14 @@
       "onboard_time": 1681720525,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161271,
+      "num": 161271,
+      "word": "eStar战胜RW",
+      "onboard_time": 1682169211,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 161215,
@@ -44939,6 +45011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137865,
+      "num": 137865,
+      "word": "宫城良田眼里没有晴子",
+      "onboard_time": 1682166807,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137752,
       "num": 137752,
       "word": "自考英语二",
@@ -45017,6 +45097,14 @@
       "onboard_time": 1682041107,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137072,
+      "num": 137072,
+      "word": "向往的生活笑声预告",
+      "onboard_time": 1682164350,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 137028,
@@ -45689,14 +45777,6 @@
       "onboard_time": 1680359912,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 132227,
-      "num": 132227,
-      "word": "向往的生活笑声预告",
-      "onboard_time": 1682164350,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 132143,
@@ -47611,14 +47691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117267,
-      "num": 117267,
-      "word": "宫城良田眼里没有晴子",
-      "onboard_time": 1682166807,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 117198,
       "num": 117198,
       "word": "周雨彤片场读如何征服英俊少男",
@@ -47929,6 +48001,14 @@
       "onboard_time": 1680652703,
       "rank": 41,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 113518,
+      "num": 113518,
+      "word": "毛不易成都演唱会",
+      "onboard_time": 1682167709,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 113428,
@@ -49225,14 +49305,6 @@
       "onboard_time": 1681433187,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99941,
-      "num": 99941,
-      "word": "新冠",
-      "onboard_time": 1682167468,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99910,
@@ -51483,6 +51555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43400,
+      "num": 1232706,
+      "word": "珍爱地球中国在行动",
+      "onboard_time": 1682167049,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42917,
       "num": 38401,
       "word": "根本没人敢坐我们旁边",
@@ -52019,14 +52099,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 17130,
-      "num": 1023585,
-      "word": "珍爱地球中国在行动",
-      "onboard_time": 1682167049,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17126,
       "num": 24739,
       "word": "城市巡游记",
@@ -52365,6 +52437,9 @@
     },
     {
       "word": "#中国守护世界和平步伐坚定有力#"
+    },
+    {
+      "word": "#北京国际电影节开幕#"
     }
   ]
 }
