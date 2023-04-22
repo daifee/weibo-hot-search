@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682166665586,
+  "endTime": 1682167630297,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1848660,
+      "num": 1848660,
+      "word": "月收入过万是什么水平",
+      "onboard_time": 1682161948,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1836646,
       "num": 1836646,
       "word": "SpaceX星舰发射计划推迟",
@@ -809,14 +817,6 @@
       "onboard_time": 1681658188,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1536936,
-      "num": 1536936,
-      "word": "月收入过万是什么水平",
-      "onboard_time": 1682161948,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 1536016,
@@ -1715,8 +1715,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 897788,
-      "num": 897788,
+      "raw_hot": 897977,
+      "num": 897977,
       "word": "李晨需要道歉吗",
       "onboard_time": 1682160268,
       "rank": 15,
@@ -2019,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 785173,
+      "num": 785173,
+      "word": "刘宇宁把家人说成家人们",
+      "onboard_time": 1682163749,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 784945,
       "num": 784945,
       "word": "男子瘫痪儿子不愿供养将其活活饿死",
@@ -2081,14 +2089,6 @@
       "onboard_time": 1682079270,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 752077,
-      "num": 752077,
-      "word": "刘宇宁把家人说成家人们",
-      "onboard_time": 1682163749,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 748742,
@@ -3371,6 +3371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499555,
+      "num": 499555,
+      "word": "淄博烧烤",
+      "onboard_time": 1681810466,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498280,
       "num": 498280,
       "word": "与凤行",
@@ -3401,6 +3409,14 @@
       "onboard_time": 1681952614,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493621,
+      "num": 230250,
+      "word": "何悯鸿怀孕还要给戚牧做保姆",
+      "onboard_time": 1682164949,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 493218,
@@ -3915,14 +3931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 443373,
-      "num": 443373,
-      "word": "淄博烧烤",
-      "onboard_time": 1681810466,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 440657,
       "num": 382889,
       "word": "办公室一天讲不了10句话",
@@ -4217,6 +4225,14 @@
       "onboard_time": 1682157807,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 408527,
+      "num": 186065,
+      "word": "女子坚持足月生产诞下双胞胎后病危",
+      "onboard_time": 1682166450,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407283,
@@ -5875,14 +5891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 300937,
-      "num": 191544,
-      "word": "何悯鸿怀孕还要给戚牧做保姆",
-      "onboard_time": 1682164949,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 300545,
       "num": 300545,
       "word": "章昊带领教资走出国门",
@@ -6449,6 +6457,14 @@
       "onboard_time": 1682046027,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273420,
+      "num": 223976,
+      "word": "百亿补贴杀疯了",
+      "onboard_time": 1682160268,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272700,
@@ -7068,7 +7084,7 @@
     },
     {
       "raw_hot": 245471,
-      "num": 183389,
+      "num": 196789,
       "word": "王曼昱晋级澳门赛决赛",
       "onboard_time": 1682166570,
       "rank": 31,
@@ -7683,7 +7699,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220020,
+      "raw_hot": 220065,
       "num": 190665,
       "word": "明日方舟直播",
       "onboard_time": 1682162428,
@@ -10147,14 +10163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171661,
-      "num": 222777,
-      "word": "百亿补贴杀疯了",
-      "onboard_time": 1682160268,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171411,
       "num": 171411,
       "word": "拜仁vs曼城",
@@ -10619,6 +10627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160393,
+      "num": 160393,
+      "word": "按性别分配软卧车厢有必要吗",
+      "onboard_time": 1682166209,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 160286,
       "num": 230358,
       "word": "移动影像光学时代来了吗",
@@ -11081,6 +11097,14 @@
       "onboard_time": 1682059408,
       "rank": 47,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 149655,
+      "num": 149655,
+      "word": "无间",
+      "onboard_time": 1682167589,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 149612,
@@ -11667,14 +11691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136760,
-      "num": 186065,
-      "word": "女子坚持足月生产诞下双胞胎后病危",
-      "onboard_time": 1682166450,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136337,
       "num": 136337,
       "word": "aespa新专概念预告视频",
@@ -11817,6 +11833,14 @@
       "onboard_time": 1681689986,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132227,
+      "num": 132227,
+      "word": "向往的生活笑声预告",
+      "onboard_time": 1682164350,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 131859,
@@ -12331,20 +12355,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118298,
-      "num": 118298,
-      "word": "向往的生活笑声预告",
-      "onboard_time": 1682164350,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118126,
       "num": 118126,
       "word": "杨丞琳官宣台北演唱会",
       "onboard_time": 1681887684,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117267,
+      "num": 117267,
+      "word": "宫城良田眼里没有晴子",
+      "onboard_time": 1682166807,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 117168,
@@ -12521,14 +12545,6 @@
       "onboard_time": 1681651468,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110296,
-      "num": 110296,
-      "word": "按性别分配软卧车厢有必要吗",
-      "onboard_time": 1682166209,
-      "rank": 46,
-      "category": "社会议题"
     },
     {
       "raw_hot": 110210,
@@ -12873,6 +12889,14 @@
       "onboard_time": 1682120000,
       "rank": 46,
       "category": "科技"
+    },
+    {
+      "raw_hot": 99941,
+      "num": 99941,
+      "word": "新冠",
+      "onboard_time": 1682167468,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99902,
@@ -13713,6 +13737,14 @@
       "onboard_time": 1681966834,
       "rank": 14,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 17130,
+      "num": 1023585,
+      "word": "珍爱地球中国在行动",
+      "onboard_time": 1682167049,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15253,
