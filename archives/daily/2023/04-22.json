@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682170406822,
+  "endTime": 1682172881359,
   "band_list": [
     {
       "raw_hot": 3883116,
@@ -75,6 +75,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1801071,
+      "num": 1801071,
+      "word": "宋茜长发",
+      "onboard_time": 1682169870,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1669628,
       "num": 1669628,
       "word": "长月烬明怎么了",
@@ -105,6 +113,14 @@
       "onboard_time": 1682118737,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1497383,
+      "num": 1497383,
+      "word": "刘宇宁把家人说成家人们",
+      "onboard_time": 1682163749,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 1315956,
@@ -267,14 +283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 785173,
-      "num": 785173,
-      "word": "刘宇宁把家人说成家人们",
-      "onboard_time": 1682163749,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 772649,
       "num": 772649,
       "word": "赵继伟 晴子咋这样了",
@@ -297,6 +305,14 @@
       "onboard_time": 1682128768,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 739645,
+      "num": 739645,
+      "word": "何悯鸿怀孕还要给戚牧做保姆",
+      "onboard_time": 1682164949,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 716648,
@@ -331,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 661606,
+      "num": 661606,
+      "word": "孙颖莎 陈梦",
+      "onboard_time": 1682170230,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 647004,
       "num": 647004,
       "word": "张子枫 C位烫脚",
@@ -355,6 +379,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 630687,
+      "num": 630687,
+      "word": "陈梦4比0孙颖莎",
+      "onboard_time": 1682171494,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617436,
       "num": 617436,
       "word": "入职前一天被HR提醒骗子公司别来",
@@ -377,14 +409,6 @@
       "onboard_time": 1682081130,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 605796,
-      "num": 605796,
-      "word": "何悯鸿怀孕还要给戚牧做保姆",
-      "onboard_time": 1682164949,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 588753,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 540181,
-      "num": 203990,
+      "num": 310206,
       "word": "女子坚持足月生产诞下双胞胎后病危",
       "onboard_time": 1682166450,
       "rank": 29,
@@ -475,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499760,
+      "num": 499760,
+      "word": "夫妻欠300万10年不还旅游晒视频",
+      "onboard_time": 1682169630,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499555,
       "num": 499555,
       "word": "淄博烧烤",
@@ -491,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495401,
+      "num": 495401,
+      "word": "伊能静来了也不认识秦昊",
+      "onboard_time": 1682168008,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 484603,
       "num": 484603,
       "word": "火腿肠为什么走向没落了",
@@ -499,12 +539,28 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 470101,
+      "num": 470101,
+      "word": "AG 白鲨",
+      "onboard_time": 1682171853,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 466606,
       "num": 466606,
       "word": "男子网恋6年转142万对方是舅妈",
       "onboard_time": 1682091209,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445265,
+      "num": 445265,
+      "word": "故宫门票",
+      "onboard_time": 1682168851,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 444051,
@@ -521,6 +577,14 @@
       "onboard_time": 1682135067,
       "rank": 25,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 433903,
+      "num": 433903,
+      "word": "杭州女教师接到陌生电话听出是求救",
+      "onboard_time": 1682167892,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 422933,
@@ -563,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 414591,
-      "num": 414591,
-      "word": "杭州女教师接到陌生电话听出是求救",
-      "onboard_time": 1682167892,
-      "rank": 14,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 408548,
       "num": 408548,
       "word": "祝绪丹两部待播剧男主",
@@ -593,14 +649,6 @@
       "onboard_time": 1682092649,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398634,
-      "num": 398634,
-      "word": "伊能静来了也不认识秦昊",
-      "onboard_time": 1682168008,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 397509,
@@ -667,6 +715,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 378080,
+      "num": 378080,
+      "word": "四川烧烤申请出战",
+      "onboard_time": 1682171554,
+      "rank": 16,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 375085,
       "num": 375085,
       "word": "曾可妮拔四颗智齿",
@@ -689,14 +745,6 @@
       "onboard_time": 1682121805,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365795,
-      "num": 186980,
-      "word": "孙颖莎 陈梦",
-      "onboard_time": 1682170230,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 361505,
@@ -755,22 +803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 337806,
-      "num": 202387,
-      "word": "故宫门票",
-      "onboard_time": 1682168851,
-      "rank": 22,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 336412,
-      "num": 336412,
-      "word": "宋茜长发",
-      "onboard_time": 1682169870,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 335838,
       "num": 335838,
       "word": "章昊成韩彬牵手下台",
@@ -779,12 +811,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332757,
+      "num": 332757,
+      "word": "周涛 宝格丽",
+      "onboard_time": 1682172032,
+      "rank": 18,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 327447,
       "num": 327447,
       "word": "章昊以为自己是第二名",
       "onboard_time": 1682121144,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324859,
+      "num": 324859,
+      "word": "AG十冠王",
+      "onboard_time": 1682170412,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 318581,
@@ -817,6 +865,14 @@
       "onboard_time": 1682077349,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 298558,
+      "num": 201429,
+      "word": "多地网友晒抗原称二阳",
+      "onboard_time": 1682172092,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296954,
@@ -995,6 +1051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253356,
+      "num": 253356,
+      "word": "千劫眉主演 罗云熙",
+      "onboard_time": 1682160330,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252046,
       "num": 252046,
       "word": "指责型家庭",
@@ -1032,6 +1096,22 @@
       "word": "我想和你唱",
       "onboard_time": 1682088454,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248339,
+      "num": 248339,
+      "word": "张文宏建议做好药物储备应对二阳",
+      "onboard_time": 1682171914,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247729,
+      "num": 247729,
+      "word": "白鹿一口气读文章",
+      "onboard_time": 1682169511,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1088,14 +1168,6 @@
       "word": "周也 冷脸小白花",
       "onboard_time": 1682072911,
       "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 239160,
-      "num": 197963,
-      "word": "千劫眉主演 罗云熙",
-      "onboard_time": 1682160330,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -1243,14 +1315,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 207340,
-      "num": 190175,
-      "word": "白鹿一口气读文章",
-      "onboard_time": 1682169511,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207159,
       "num": 207159,
       "word": "浙江专升本",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1682168311,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201479,
+      "num": 201479,
+      "word": "主播雪梨直播带货拉踩被判赔20万",
+      "onboard_time": 1682172451,
+      "rank": 28,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 201056,
@@ -1507,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172423,
+      "num": 172423,
+      "word": "绥化",
+      "onboard_time": 1682172331,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171969,
       "num": 171969,
       "word": "鹿晗分享五哈主题曲",
@@ -1643,6 +1723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 160071,
+      "num": 160071,
+      "word": "王者简历",
+      "onboard_time": 1682171612,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158083,
       "num": 158083,
       "word": "蔡徐坤最新怼脸拍摄大片",
@@ -1737,14 +1825,6 @@
       "onboard_time": 1682069549,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 147579,
-      "num": 147579,
-      "word": "夫妻欠300万10年不还旅游晒视频",
-      "onboard_time": 1682169630,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147399,
@@ -2267,8 +2347,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 43400,
-      "num": 1232706,
+      "raw_hot": 45932,
+      "num": 1516851,
       "word": "珍爱地球中国在行动",
       "onboard_time": 1682167049,
       "rank": 2,
