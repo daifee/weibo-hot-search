@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682133474356,
+  "endTime": 1682134428370,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 1537599,
-      "num": 502277,
+      "num": 532366,
       "word": "杨幂站姐放出原图",
       "onboard_time": 1682118737,
       "rank": 15,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1681868308,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1315956,
+      "num": 1315956,
+      "word": "专八",
+      "onboard_time": 1682133329,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 1311338,
@@ -1571,6 +1579,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 908220,
+      "num": 908220,
+      "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
+      "onboard_time": 1682128649,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 907161,
       "num": 907161,
       "word": "黑莲花 绝世大饼",
@@ -1601,14 +1617,6 @@
       "onboard_time": 1681781367,
       "rank": 13,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 893629,
-      "num": 893629,
-      "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
-      "onboard_time": 1682128649,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 892631,
@@ -1761,6 +1769,14 @@
       "onboard_time": 1682007746,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 830373,
+      "num": 830373,
+      "word": "公司五一放三天同事离职了",
+      "onboard_time": 1682130867,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 829439,
@@ -1931,14 +1947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 748728,
-      "num": 748728,
-      "word": "公司五一放三天同事离职了",
-      "onboard_time": 1682130867,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 741727,
       "num": 741727,
       "word": "张颂文朱一龙 互让C",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1681904727,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 731692,
-      "num": 731692,
-      "word": "专八",
-      "onboard_time": 1682133329,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 730338,
@@ -2244,7 +2244,7 @@
     },
     {
       "raw_hot": 673780,
-      "num": 464453,
+      "num": 562520,
       "word": "李兰迪 女儿国国王",
       "onboard_time": 1682131347,
       "rank": 23,
@@ -2483,12 +2483,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 619153,
+      "num": 619153,
+      "word": "瑞幸 罚抄",
+      "onboard_time": 1682133208,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618939,
       "num": 618939,
       "word": "如何看待娱乐圈艺人大量接活",
       "onboard_time": 1681970489,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 618678,
+      "num": 618678,
+      "word": "张颂文高叶再现狂飙拥抱",
+      "onboard_time": 1682133690,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 617523,
@@ -3643,6 +3659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 444852,
+      "num": 444852,
+      "word": "被今年的就业难度震惊到",
+      "onboard_time": 1682132968,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 444569,
       "num": 444569,
       "word": "乐华娱乐股票大涨",
@@ -4011,6 +4035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402313,
+      "num": 402313,
+      "word": "男孩被拖行后第一句是爸爸不要怪我",
+      "onboard_time": 1682132187,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401892,
       "num": 401892,
       "word": "山西突降暴雪",
@@ -4361,6 +4393,14 @@
       "onboard_time": 1681956990,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375085,
+      "num": 375085,
+      "word": "曾可妮拔四颗智齿",
+      "onboard_time": 1682132367,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 375033,
@@ -5027,14 +5067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330237,
-      "num": 330237,
-      "word": "男孩被拖行后第一句是爸爸不要怪我",
-      "onboard_time": 1682132187,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329937,
       "num": 329937,
       "word": "官方通报摊主被陌生人贴膏药后晕倒",
@@ -5443,6 +5475,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 307392,
+      "num": 307392,
+      "word": "星巴克",
+      "onboard_time": 1682126607,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 306309,
       "num": 306309,
       "word": "樊振东vsA勒布伦",
@@ -5739,12 +5779,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 287380,
-      "num": 287380,
-      "word": "曾可妮拔四颗智齿",
-      "onboard_time": 1682132367,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 286530,
+      "num": 286530,
+      "word": "官方核查长峰医院违规办医养结合",
+      "onboard_time": 1682133448,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286260,
@@ -5963,6 +6003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276135,
+      "num": 276135,
+      "word": "老番茄求婚戒指",
+      "onboard_time": 1682131886,
+      "rank": 22,
+      "category": "游戏,自然"
+    },
+    {
       "raw_hot": 275994,
       "num": 275994,
       "word": "张镇麟战斧隔扣",
@@ -6123,6 +6171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 266965,
+      "num": 266965,
+      "word": "专八答案",
+      "onboard_time": 1682133927,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 266606,
       "num": 266606,
       "word": "灌篮高手彩蛋",
@@ -6233,14 +6289,6 @@
       "onboard_time": 1681945944,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262832,
-      "num": 262832,
-      "word": "星巴克",
-      "onboard_time": 1682126607,
-      "rank": 41,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 262436,
@@ -6473,14 +6521,6 @@
       "onboard_time": 1682057368,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247530,
-      "num": 247530,
-      "word": "老番茄求婚戒指",
-      "onboard_time": 1682131886,
-      "rank": 22,
-      "category": "游戏,自然"
     },
     {
       "raw_hot": 247210,
@@ -6745,6 +6785,14 @@
       "onboard_time": 1681890807,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232865,
+      "num": 232865,
+      "word": "长峰医院火灾在院治疗39人危重4人",
+      "onboard_time": 1682134109,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232211,
@@ -7155,6 +7203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217891,
+      "num": 195319,
+      "word": "第一次当婆婆没啥经验",
+      "onboard_time": 1682132788,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 217320,
       "num": 251244,
       "word": "马斯克星舰迎首飞",
@@ -7393,14 +7449,6 @@
       "onboard_time": 1681964495,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210702,
-      "num": 210702,
-      "word": "瑞幸 罚抄",
-      "onboard_time": 1682133208,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210670,
@@ -9123,6 +9171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179907,
+      "num": 179907,
+      "word": "易烊千玺刘艳芬预告音频",
+      "onboard_time": 1682131946,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179756,
       "num": 179756,
       "word": "国内首个机场音乐节",
@@ -9195,12 +9251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178892,
-      "num": 178892,
-      "word": "易烊千玺刘艳芬预告音频",
-      "onboard_time": 1682131946,
-      "rank": 31,
-      "category": "音乐"
+      "raw_hot": 178073,
+      "num": 178073,
+      "word": "我要逆风去片尾曲",
+      "onboard_time": 1682133690,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 177874,
@@ -9363,6 +9419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172787,
+      "num": 172787,
+      "word": "杨紫呼吁守护野生动物",
+      "onboard_time": 1682134050,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172765,
       "num": 172765,
       "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
@@ -9441,14 +9505,6 @@
       "onboard_time": 1681776567,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 170678,
-      "num": 170678,
-      "word": "被今年的就业难度震惊到",
-      "onboard_time": 1682132968,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 170272,
@@ -9601,6 +9657,14 @@
       "onboard_time": 1681984227,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164980,
+      "num": 164980,
+      "word": "王一博雷宇训练花絮视频",
+      "onboard_time": 1682133986,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 164809,
@@ -9923,6 +9987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158083,
+      "num": 158083,
+      "word": "蔡徐坤最新怼脸拍摄大片",
+      "onboard_time": 1682133086,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 158080,
       "num": 158080,
       "word": "那英问华晨宇要签名",
@@ -9961,14 +10033,6 @@
       "onboard_time": 1681805370,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156648,
-      "num": 156648,
-      "word": "第一次当婆婆没啥经验",
-      "onboard_time": 1682132788,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 156404,
@@ -10113,14 +10177,6 @@
       "onboard_time": 1682118137,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151964,
-      "num": 151964,
-      "word": "蔡徐坤最新怼脸拍摄大片",
-      "onboard_time": 1682133086,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 151957,
@@ -10395,6 +10451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145987,
+      "num": 145987,
+      "word": "那些百看不厌的电子榨菜",
+      "onboard_time": 1682133208,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 145871,
       "num": 107321,
       "word": "玥烬情苏宿命感",
@@ -10505,6 +10569,14 @@
       "onboard_time": 1681820187,
       "rank": 39,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 142508,
+      "num": 142508,
+      "word": "姜涩琪把应援棒甩出去了",
+      "onboard_time": 1682133866,
+      "rank": 44,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 142281,
@@ -10747,14 +10819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136522,
-      "num": 136522,
-      "word": "那些百看不厌的电子榨菜",
-      "onboard_time": 1682133208,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 136337,
       "num": 136337,
       "word": "aespa新专概念预告视频",
@@ -10897,6 +10961,14 @@
       "onboard_time": 1681876589,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 131028,
+      "num": 131028,
+      "word": "山东专升本",
+      "onboard_time": 1682134347,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 130997,
@@ -11899,14 +11971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97825,
-      "num": 97825,
-      "word": "官方核查长峰医院违规办医养结合",
-      "onboard_time": 1682133448,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97335,
       "num": 97335,
       "word": "没有边界感的同事有多烦人",
@@ -12595,6 +12659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36332,
+      "num": 160062,
+      "word": "癸卯年黄帝故里拜祖大典",
+      "onboard_time": 1682132426,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35441,
       "num": 1356691,
       "word": "中国汉字遇上锦绣山河有多惊艳",
@@ -12617,14 +12689,6 @@
       "onboard_time": 1681699885,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29774,
-      "num": 144976,
-      "word": "癸卯年黄帝故里拜祖大典",
-      "onboard_time": 1682132426,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29701,
