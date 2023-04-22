@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682174003785,
+  "endTime": 1682176597801,
   "band_list": [
     {
       "raw_hot": 4397877,
@@ -41,6 +41,14 @@
       "onboard_time": 1682169870,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2225050,
+      "num": 2225050,
+      "word": "PGONE复出不到24小时被封",
+      "onboard_time": 1682173233,
+      "rank": 12,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 2005856,
@@ -99,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1575250,
+      "num": 1575250,
+      "word": "刘宇宁把家人说成家人们",
+      "onboard_time": 1682163749,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1547399,
       "num": 1547399,
       "word": "台湾地震",
@@ -113,14 +129,6 @@
       "onboard_time": 1682118737,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1532520,
-      "num": 1532520,
-      "word": "刘宇宁把家人说成家人们",
-      "onboard_time": 1682163749,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1315956,
@@ -145,6 +153,14 @@
       "onboard_time": 1682147608,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1288861,
+      "num": 1288861,
+      "word": "张杰谢娜助理打手机",
+      "onboard_time": 1682174615,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1210468,
@@ -259,6 +275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 801490,
+      "num": 801490,
+      "word": "何悯鸿怀孕还要给戚牧做保姆",
+      "onboard_time": 1682164949,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 793155,
       "num": 793155,
       "word": "苏州一公司通知员工卖宝马否则开除",
@@ -291,12 +315,12 @@
       "category": "体育,影视"
     },
     {
-      "raw_hot": 747550,
-      "num": 747550,
-      "word": "何悯鸿怀孕还要给戚牧做保姆",
-      "onboard_time": 1682164949,
-      "rank": 20,
-      "category": "影视"
+      "raw_hot": 762420,
+      "num": 762420,
+      "word": "薛之谦 玫瑰没有雨怎么盛开",
+      "onboard_time": 1682174433,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 746183,
@@ -331,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 708029,
+      "num": 708029,
+      "word": "主播雪梨直播带货拉踩被判赔20万",
+      "onboard_time": 1682172451,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 685416,
       "num": 685416,
       "word": "当事人要求宝马MINI道歉",
@@ -361,6 +393,14 @@
       "onboard_time": 1682170230,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 661264,
+      "num": 661264,
+      "word": "张文宏建议做好药物储备应对二阳",
+      "onboard_time": 1682171914,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 647004,
@@ -459,14 +499,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 562816,
-      "num": 562816,
-      "word": "主播雪梨直播带货拉踩被判赔20万",
-      "onboard_time": 1682172451,
-      "rank": 28,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 542652,
       "num": 542652,
       "word": "章子怡的脸能打",
@@ -476,10 +508,18 @@
     },
     {
       "raw_hot": 540181,
-      "num": 310206,
+      "num": 336929,
       "word": "女子坚持足月生产诞下双胞胎后病危",
       "onboard_time": 1682166450,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 533123,
+      "num": 533123,
+      "word": "张颂文向陈凯歌介绍高叶",
+      "onboard_time": 1682174795,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -499,12 +539,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 528353,
-      "num": 528353,
-      "word": "PGONE复出不到24小时被封",
-      "onboard_time": 1682173233,
-      "rank": 12,
-      "category": "社会新闻,艺人"
+      "raw_hot": 521432,
+      "num": 521432,
+      "word": "马龙",
+      "onboard_time": 1682173355,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 512734,
@@ -553,6 +593,14 @@
       "onboard_time": 1682126848,
       "rank": 20,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 477098,
+      "num": 477098,
+      "word": "多地网友晒抗原称二阳",
+      "onboard_time": 1682172092,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470101,
@@ -611,6 +659,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 425553,
+      "num": 425553,
+      "word": "今晚到处都有娜扎",
+      "onboard_time": 1682173713,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 422933,
       "num": 422933,
       "word": "麻辣烫为何越来越贵",
@@ -665,14 +721,6 @@
       "onboard_time": 1682157807,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407743,
-      "num": 276130,
-      "word": "多地网友晒抗原称二阳",
-      "onboard_time": 1682172092,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405079,
@@ -779,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 362124,
-      "num": 271818,
-      "word": "张文宏建议做好药物储备应对二阳",
-      "onboard_time": 1682171914,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361505,
       "num": 361505,
       "word": "老番茄求婚戒指",
@@ -843,6 +883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340536,
+      "num": 340536,
+      "word": "减肥减的根本不是肉",
+      "onboard_time": 1682174378,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 335838,
       "num": 335838,
       "word": "章昊成韩彬牵手下台",
@@ -873,14 +921,6 @@
       "onboard_time": 1682119641,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315651,
-      "num": 266757,
-      "word": "马龙",
-      "onboard_time": 1682173355,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 307392,
@@ -1048,6 +1088,22 @@
       "word": "男子一口气买8公斤金条藏厕所楼道",
       "onboard_time": 1682147366,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262562,
+      "num": 262562,
+      "word": "徐明浩有梗",
+      "onboard_time": 1682175634,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 261933,
+      "num": 261933,
+      "word": "调休",
+      "onboard_time": 1682175272,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1467,12 +1523,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 188801,
+      "num": 188801,
+      "word": "马龙庆祝动作",
+      "onboard_time": 1682175691,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188398,
       "num": 188398,
       "word": "一年被辞退四次是什么体验",
       "onboard_time": 1682112251,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188364,
+      "num": 188364,
+      "word": "马龙晋级澳门赛决赛",
+      "onboard_time": 1682174615,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 187708,
@@ -1513,6 +1585,14 @@
       "onboard_time": 1682144964,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182904,
+      "num": 182904,
+      "word": "INTO1再唱起风了",
+      "onboard_time": 1682174615,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 182424,
@@ -1579,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175858,
+      "num": 175858,
+      "word": "按性别分配软卧车厢有必要吗",
+      "onboard_time": 1682166209,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 174774,
       "num": 763906,
       "word": "大学老师课堂分享初恋经历",
@@ -1641,14 +1729,6 @@
       "onboard_time": 1682090610,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169447,
-      "num": 169447,
-      "word": "按性别分配软卧车厢有必要吗",
-      "onboard_time": 1682166209,
-      "rank": 46,
-      "category": "社会议题"
     },
     {
       "raw_hot": 168290,
@@ -1761,14 +1841,6 @@
       "onboard_time": 1682171612,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158513,
-      "num": 158513,
-      "word": "今晚到处都有娜扎",
-      "onboard_time": 1682173713,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 158083,
@@ -2107,6 +2179,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 113745,
+      "num": 113745,
+      "word": "四川人民主打一个大义灭亲",
+      "onboard_time": 1682176413,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113518,
       "num": 113518,
       "word": "毛不易成都演唱会",
@@ -2121,6 +2201,14 @@
       "onboard_time": 1682132665,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113246,
+      "num": 113246,
+      "word": "WTT",
+      "onboard_time": 1682174915,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 112938,
@@ -2396,7 +2484,7 @@
     },
     {
       "raw_hot": 47953,
-      "num": 1516851,
+      "num": 1602984,
       "word": "珍爱地球中国在行动",
       "onboard_time": 1682167049,
       "rank": 2,

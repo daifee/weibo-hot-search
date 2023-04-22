@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682174003785,
+  "endTime": 1682176597801,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2225050,
+      "num": 2225050,
+      "word": "PGONE复出不到24小时被封",
+      "onboard_time": 1682173233,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2202852,
       "num": 2202852,
       "word": "公司取消了所有的调休",
@@ -803,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1575250,
+      "num": 1575250,
+      "word": "刘宇宁把家人说成家人们",
+      "onboard_time": 1682163749,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1556577,
       "num": 1556577,
       "word": "日本",
@@ -865,14 +881,6 @@
       "onboard_time": 1681786590,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1532520,
-      "num": 1532520,
-      "word": "刘宇宁把家人说成家人们",
-      "onboard_time": 1682163749,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1523562,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1682147608,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1288861,
+      "num": 1288861,
+      "word": "张杰谢娜助理打手机",
+      "onboard_time": 1682174615,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1282869,
@@ -1995,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801490,
+      "num": 801490,
+      "word": "何悯鸿怀孕还要给戚牧做保姆",
+      "onboard_time": 1682164949,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 794862,
       "num": 794862,
       "word": "花花和弟弟要放假了",
@@ -2091,6 +2115,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 762420,
+      "num": 762420,
+      "word": "薛之谦 玫瑰没有雨怎么盛开",
+      "onboard_time": 1682174433,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 762075,
       "num": 455908,
       "word": "白百何说自己掉了1.2斤脂肪",
@@ -2113,14 +2145,6 @@
       "onboard_time": 1682058448,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 747550,
-      "num": 747550,
-      "word": "何悯鸿怀孕还要给戚牧做保姆",
-      "onboard_time": 1682164949,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 746183,
@@ -2289,6 +2313,14 @@
       "onboard_time": 1681902147,
       "rank": 15,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 708029,
+      "num": 708029,
+      "word": "主播雪梨直播带货拉踩被判赔20万",
+      "onboard_time": 1682172451,
+      "rank": 28,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 706931,
@@ -2529,6 +2561,14 @@
       "onboard_time": 1681716266,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661264,
+      "num": 661264,
+      "word": "张文宏建议做好药物储备应对二阳",
+      "onboard_time": 1682171914,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658392,
@@ -3059,14 +3099,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 562816,
-      "num": 562816,
-      "word": "主播雪梨直播带货拉踩被判赔20万",
-      "onboard_time": 1682172451,
-      "rank": 28,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 560665,
       "num": 1383932,
       "word": "智力障碍男生把迷路女童背到派出所",
@@ -3156,7 +3188,7 @@
     },
     {
       "raw_hot": 540181,
-      "num": 310206,
+      "num": 336929,
       "word": "女子坚持足月生产诞下双胞胎后病危",
       "onboard_time": 1682166450,
       "rank": 29,
@@ -3209,6 +3241,14 @@
       "onboard_time": 1681774221,
       "rank": 44,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 533123,
+      "num": 533123,
+      "word": "张颂文向陈凯歌介绍高叶",
+      "onboard_time": 1682174795,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 532194,
@@ -3275,14 +3315,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 528353,
-      "num": 528353,
-      "word": "PGONE复出不到24小时被封",
-      "onboard_time": 1682173233,
-      "rank": 12,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 527980,
       "num": 527980,
       "word": "长月烬明有八个编剧",
@@ -3321,6 +3353,14 @@
       "onboard_time": 1681818387,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 521432,
+      "num": 521432,
+      "word": "马龙",
+      "onboard_time": 1682173355,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 521293,
@@ -3681,6 +3721,14 @@
       "onboard_time": 1681689687,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 477098,
+      "num": 477098,
+      "word": "多地网友晒抗原称二阳",
+      "onboard_time": 1682172092,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475312,
@@ -4107,6 +4155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425553,
+      "num": 425553,
+      "word": "今晚到处都有娜扎",
+      "onboard_time": 1682173713,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 425387,
       "num": 425387,
       "word": "九尾 探草",
@@ -4345,14 +4401,6 @@
       "onboard_time": 1682157807,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 407743,
-      "num": 276130,
-      "word": "多地网友晒抗原称二阳",
-      "onboard_time": 1682172092,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407283,
@@ -5107,14 +5155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 362124,
-      "num": 271818,
-      "word": "张文宏建议做好药物储备应对二阳",
-      "onboard_time": 1682171914,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361812,
       "num": 361812,
       "word": "今天就算是泰勒斯来了",
@@ -5433,6 +5473,14 @@
       "onboard_time": 1681828231,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 340536,
+      "num": 340536,
+      "word": "减肥减的根本不是肉",
+      "onboard_time": 1682174378,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 340039,
@@ -5857,14 +5905,6 @@
       "onboard_time": 1681680252,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315651,
-      "num": 266757,
-      "word": "马龙",
-      "onboard_time": 1682173355,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 315403,
@@ -6881,6 +6921,14 @@
       "onboard_time": 1681945944,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262562,
+      "num": 262562,
+      "word": "徐明浩有梗",
+      "onboard_time": 1682175634,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 262436,
@@ -9523,6 +9571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188801,
+      "num": 188801,
+      "word": "马龙庆祝动作",
+      "onboard_time": 1682175691,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188603,
       "num": 188603,
       "word": "郎平巩俐同框",
@@ -9545,6 +9601,14 @@
       "onboard_time": 1682112251,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188364,
+      "num": 188364,
+      "word": "马龙晋级澳门赛决赛",
+      "onboard_time": 1682174615,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 188280,
@@ -9907,6 +9971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182904,
+      "num": 182904,
+      "word": "INTO1再唱起风了",
+      "onboard_time": 1682174615,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182718,
       "num": 182718,
       "word": "澹台烬帮翩然拿回情丝",
@@ -10203,6 +10275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175858,
+      "num": 175858,
+      "word": "按性别分配软卧车厢有必要吗",
+      "onboard_time": 1682166209,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 175699,
       "num": 175699,
       "word": "宋茜说演唱会来的都是自己人有底气",
@@ -10433,14 +10513,6 @@
       "onboard_time": 1681714947,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169447,
-      "num": 169447,
-      "word": "按性别分配软卧车厢有必要吗",
-      "onboard_time": 1682166209,
-      "rank": 46,
-      "category": "社会议题"
     },
     {
       "raw_hot": 169228,
@@ -10960,14 +11032,6 @@
       "word": "赵小棠暗黑童话礼服裙",
       "onboard_time": 1682067987,
       "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 158513,
-      "num": 158513,
-      "word": "今晚到处都有娜扎",
-      "onboard_time": 1682173713,
-      "rank": 38,
       "category": "作品衍生"
     },
     {
@@ -12683,6 +12747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113745,
+      "num": 113745,
+      "word": "四川人民主打一个大义灭亲",
+      "onboard_time": 1682176413,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113662,
       "num": 113662,
       "word": "春天最后一个节气来了",
@@ -12713,6 +12785,14 @@
       "onboard_time": 1682132665,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113246,
+      "num": 113246,
+      "word": "WTT",
+      "onboard_time": 1682174915,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 112938,
@@ -13820,7 +13900,7 @@
     },
     {
       "raw_hot": 47953,
-      "num": 1516851,
+      "num": 1602984,
       "word": "珍爱地球中国在行动",
       "onboard_time": 1682167049,
       "rank": 2,
