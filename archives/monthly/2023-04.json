@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682181432856,
+  "endTime": 1682183681267,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -12803,6 +12803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 509191,
+      "num": 406768,
+      "word": "嗯哼长大了",
+      "onboard_time": 1682180006,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508652,
       "num": 508652,
       "word": "3岁还不主动喊爸爸妈妈要警惕孤独症",
@@ -13921,14 +13929,6 @@
       "onboard_time": 1680329492,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 472904,
-      "num": 406768,
-      "word": "嗯哼长大了",
-      "onboard_time": 1682180006,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 472141,
@@ -17689,6 +17689,14 @@
       "onboard_time": 1680450336,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382664,
+      "num": 382664,
+      "word": "朋友得了忧郁症告诉父母",
+      "onboard_time": 1682181383,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 382630,
@@ -50697,14 +50705,6 @@
       "onboard_time": 1681727906,
       "rank": 19,
       "category": "科技"
-    },
-    {
-      "raw_hot": 85010,
-      "num": 85010,
-      "word": "朋友得了忧郁症告诉父母",
-      "onboard_time": 1682181383,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 84915,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682181432856,
+  "endTime": 1682183681267,
   "band_list": [
     {
       "raw_hot": 2603141,
@@ -67,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472904,
+      "raw_hot": 509191,
       "num": 406768,
       "word": "嗯哼长大了",
       "onboard_time": 1682180006,
@@ -97,6 +97,14 @@
       "onboard_time": 1682155526,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 382664,
+      "num": 382664,
+      "word": "朋友得了忧郁症告诉父母",
+      "onboard_time": 1682181383,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 362909,
@@ -395,20 +403,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 85010,
-      "num": 85010,
-      "word": "朋友得了忧郁症告诉父母",
-      "onboard_time": 1682181383,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 72949,
       "num": 204776,
       "word": "浙江一大坝挖出生长十几年白蚁后",
       "onboard_time": 1682160448,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59127,
+      "num": 59127,
+      "word": "千劫眉主演 罗云熙",
+      "onboard_time": 1682160330,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 29860,
