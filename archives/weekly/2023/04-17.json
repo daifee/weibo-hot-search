@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682141618151,
+  "endTime": 1682144486804,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -753,6 +753,14 @@
       "onboard_time": 1682058208,
       "rank": 16,
       "category": "社会新闻,国外要闻"
+    },
+    {
+      "raw_hot": 1547399,
+      "num": 1547399,
+      "word": "台湾地震",
+      "onboard_time": 1682141425,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1537599,
@@ -1683,14 +1691,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 884690,
-      "num": 421433,
-      "word": "台湾地震",
-      "onboard_time": 1682141425,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 881132,
       "num": 881132,
       "word": "办公室里只有我没有年终奖",
@@ -1921,6 +1921,14 @@
       "onboard_time": 1681880733,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 790564,
+      "num": 790564,
+      "word": "苏州一公司通知员工卖宝马否则开除",
+      "onboard_time": 1682140645,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 787481,
@@ -2513,6 +2521,14 @@
       "onboard_time": 1681732346,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 622492,
+      "num": 622492,
+      "word": "向往的生活或将是最后一季",
+      "onboard_time": 1682142506,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 622212,
@@ -3835,6 +3851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 422933,
+      "num": 422933,
+      "word": "麻辣烫为何越来越贵",
+      "onboard_time": 1682140408,
+      "rank": 43,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 422887,
       "num": 422887,
       "word": "某幻 老番茄live嘉宾",
@@ -3857,14 +3881,6 @@
       "onboard_time": 1682093786,
       "rank": 46,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 421741,
-      "num": 421741,
-      "word": "苏州一公司通知员工卖宝马否则开除",
-      "onboard_time": 1682140645,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 420482,
@@ -4211,6 +4227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 394119,
+      "num": 394119,
+      "word": "台湾海峡南部4.7级地震",
+      "onboard_time": 1682143767,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393388,
       "num": 393388,
       "word": "当事女生回应因吃面崩溃",
@@ -4361,6 +4385,14 @@
       "onboard_time": 1681801227,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 383912,
+      "num": 383912,
+      "word": "尹正的脸",
+      "onboard_time": 1682141305,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 382292,
@@ -6307,14 +6339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265291,
-      "num": 265291,
-      "word": "麻辣烫为何越来越贵",
-      "onboard_time": 1682140408,
-      "rank": 43,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 264518,
       "num": 264518,
       "word": "长月烬明",
@@ -6553,6 +6577,14 @@
       "onboard_time": 1682055989,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252046,
+      "num": 252046,
+      "word": "指责型家庭",
+      "onboard_time": 1682140766,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 251179,
@@ -6939,6 +6971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229705,
+      "num": 229705,
+      "word": "虞书欣美国库存照",
+      "onboard_time": 1682143825,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229480,
       "num": 229480,
       "word": "左手科技与迷信共存",
@@ -7217,6 +7257,14 @@
       "onboard_time": 1682053056,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221515,
+      "num": 221515,
+      "word": "龚俊新剧MV有19套衣服",
+      "onboard_time": 1682143706,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 221380,
@@ -7691,14 +7739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207850,
-      "num": 207850,
-      "word": "指责型家庭",
-      "onboard_time": 1682140766,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207708,
       "num": 190489,
       "word": "四月份即将开播的剧",
@@ -7793,6 +7833,14 @@
       "onboard_time": 1681795477,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206492,
+      "num": 206492,
+      "word": "BLACKPINK科切拉后台照",
+      "onboard_time": 1682141966,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 206422,
@@ -8201,6 +8249,14 @@
       "onboard_time": 1681952133,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199933,
+      "num": 199933,
+      "word": "淄博鸭货店小哥回应因帅气走红",
+      "onboard_time": 1682143526,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199927,
@@ -8689,6 +8745,14 @@
       "onboard_time": 1681831049,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191809,
+      "num": 191809,
+      "word": "女孩子真的越长大越没有家吗",
+      "onboard_time": 1682143886,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 191788,
@@ -9353,6 +9417,14 @@
       "onboard_time": 1681973009,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179627,
+      "num": 162912,
+      "word": "破事精英2定档",
+      "onboard_time": 1682143706,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 179554,
@@ -10867,14 +10939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141105,
-      "num": 141105,
-      "word": "尹正的脸",
-      "onboard_time": 1682141305,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141013,
       "num": 129206,
       "word": "福州一小区起火致2人身亡",
@@ -10971,6 +11035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139415,
+      "num": 139415,
+      "word": "抢票次次陪跑",
+      "onboard_time": 1682141247,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139207,
       "num": 139207,
       "word": "capper巡演",
@@ -11019,20 +11091,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138302,
+      "num": 138302,
+      "word": "最近的互联网观剧观察",
+      "onboard_time": 1682143886,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 138270,
       "num": 138270,
       "word": "周深武大靖ASMR挑战",
       "onboard_time": 1681723527,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137363,
-      "num": 137363,
-      "word": "抢票次次陪跑",
-      "onboard_time": 1682141247,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 137266,
@@ -12625,6 +12697,14 @@
       "onboard_time": 1681772358,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76123,
+      "num": 138643,
+      "word": "蚂蚁集团再捐1亿元种树",
+      "onboard_time": 1682143226,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75840,

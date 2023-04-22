@@ -1,0 +1,410 @@
+{
+  "runTime": 1682144486804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1547399,
+        "num": 1547399,
+        "word": "台湾地震",
+        "onboard_time": 1682141425,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001336,
+        "num": 1001336,
+        "word": "李晨 对任何人都是尊重的",
+        "onboard_time": 1682129967,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30241,
+        "num": 889225,
+        "word": "2023中国网络媒体论坛",
+        "onboard_time": 1682136687,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 790564,
+        "num": 790564,
+        "word": "苏州一公司通知员工卖宝马否则开除",
+        "onboard_time": 1682140645,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745478,
+        "num": 745478,
+        "word": "公司五一放三天同事离职了",
+        "onboard_time": 1682130867,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 681548,
+        "num": 681548,
+        "word": "张颂文高叶再现狂飙拥抱",
+        "onboard_time": 1682133690,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 622492,
+        "num": 622492,
+        "word": "向往的生活或将是最后一季",
+        "onboard_time": 1682142506,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536137,
+        "num": 536137,
+        "word": "瑞幸 罚抄",
+        "onboard_time": 1682133208,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512339,
+        "num": 512339,
+        "word": "张杰郑州 秒没",
+        "onboard_time": 1682139925,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 422933,
+        "num": 422933,
+        "word": "麻辣烫为何越来越贵",
+        "onboard_time": 1682140408,
+        "rank": 9,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 394119,
+        "num": 394119,
+        "word": "台湾海峡南部4.7级地震",
+        "onboard_time": 1682143767,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383912,
+        "num": 383912,
+        "word": "尹正的脸",
+        "onboard_time": 1682141305,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 382608,
+        "num": 382608,
+        "word": "陈飞宇 周也",
+        "onboard_time": 1682124388,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380515,
+        "num": 380515,
+        "word": "长期不吃晚饭的怎么样了",
+        "onboard_time": 1682135187,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 352872,
+        "num": 352872,
+        "word": "专八 写不完",
+        "onboard_time": 1682137650,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 295737,
+        "num": 295737,
+        "word": "杨幂站姐放出原图",
+        "onboard_time": 1682118737,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252046,
+        "num": 252046,
+        "word": "指责型家庭",
+        "onboard_time": 1682140766,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233232,
+        "num": 233232,
+        "word": "老番茄求婚戒指",
+        "onboard_time": 1682131886,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 229705,
+        "num": 229705,
+        "word": "虞书欣美国库存照",
+        "onboard_time": 1682143825,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225887,
+        "num": 225887,
+        "word": "男孩被拖行后第一句是爸爸不要怪我",
+        "onboard_time": 1682132187,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221515,
+        "num": 221515,
+        "word": "龚俊新剧MV有19套衣服",
+        "onboard_time": 1682143706,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209920,
+        "num": 209920,
+        "word": "陈都灵礼服开线了",
+        "onboard_time": 1682118798,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206492,
+        "num": 206492,
+        "word": "BLACKPINK科切拉后台照",
+        "onboard_time": 1682141966,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199933,
+        "num": 199933,
+        "word": "淄博鸭货店小哥回应因帅气走红",
+        "onboard_time": 1682143526,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191809,
+        "num": 191809,
+        "word": "女孩子真的越长大越没有家吗",
+        "onboard_time": 1682143886,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191270,
+        "num": 191270,
+        "word": "专八",
+        "onboard_time": 1682133329,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190306,
+        "num": 190306,
+        "word": "肖战三年72场话剧",
+        "onboard_time": 1682136385,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185422,
+        "num": 185422,
+        "word": "专八答案",
+        "onboard_time": 1682133927,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169434,
+        "num": 169434,
+        "word": "曾可妮拔四颗智齿",
+        "onboard_time": 1682132367,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163854,
+        "num": 163854,
+        "word": "鹿晗演唱会官宣海报解读视频",
+        "onboard_time": 1682141546,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346501,
+        "num": 163516,
+        "word": "被今年的就业难度震惊到",
+        "onboard_time": 1682132968,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317038,
+        "num": 163365,
+        "word": "新加坡鞭刑",
+        "onboard_time": 1682125109,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179627,
+        "num": 162912,
+        "word": "破事精英2定档",
+        "onboard_time": 1682143706,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161938,
+        "num": 161938,
+        "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
+        "onboard_time": 1682128649,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156964,
+        "num": 156964,
+        "word": "李兰迪 女儿国国王",
+        "onboard_time": 1682131347,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155274,
+        "num": 155274,
+        "word": "第一次当婆婆没啥经验",
+        "onboard_time": 1682132788,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 155007,
+        "num": 155007,
+        "word": "宝马mini称两名女生离职消息不实",
+        "onboard_time": 1682089831,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 152251,
+        "num": 152251,
+        "word": "常熟实行工资全额数字人民币发放",
+        "onboard_time": 1682135067,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 139415,
+        "num": 139415,
+        "word": "抢票次次陪跑",
+        "onboard_time": 1682141247,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76123,
+        "num": 138643,
+        "word": "蚂蚁集团再捐1亿元种树",
+        "onboard_time": 1682143226,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139662,
+        "num": 138474,
+        "word": "宝马称接待人员不是内部员工",
+        "onboard_time": 1682130025,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138302,
+        "num": 138302,
+        "word": "最近的互联网观剧观察",
+        "onboard_time": 1682143886,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 133305,
+        "num": 133305,
+        "word": "看完灌篮高手破防了",
+        "onboard_time": 1682136626,
+        "rank": 42,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 127275,
+        "num": 127275,
+        "word": "王源像误入了盘丝洞",
+        "onboard_time": 1682131527,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127168,
+        "num": 127168,
+        "word": "火腿肠为什么走向没落了",
+        "onboard_time": 1682126848,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 126292,
+        "num": 126292,
+        "word": "印度男子性骚扰韩国女游客",
+        "onboard_time": 1682125109,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 124463,
+        "num": 124463,
+        "word": "网文作者属不属于作家范畴",
+        "onboard_time": 1682135785,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120104,
+        "num": 120104,
+        "word": "网易云十年十大金曲",
+        "onboard_time": 1682134828,
+        "rank": 47,
+        "category": "音乐,科技"
+      },
+      {
+        "raw_hot": 105680,
+        "num": 105680,
+        "word": "斯嘉丽说不会再演黑寡妇了",
+        "onboard_time": 1682129667,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83775,
+        "num": 97458,
+        "word": "星巴克",
+        "onboard_time": 1682126607,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实开展主题教育#"
+    }
+  }
+}

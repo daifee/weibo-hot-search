@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682141618151,
+  "endTime": 1682144486804,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2769,6 +2769,14 @@
       "onboard_time": 1680760469,
       "rank": 20,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1547399,
+      "num": 1547399,
+      "word": "台湾地震",
+      "onboard_time": 1682141425,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1547164,
@@ -6067,14 +6075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 884690,
-      "num": 421433,
-      "word": "台湾地震",
-      "onboard_time": 1682141425,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 884474,
       "num": 884474,
       "word": "女孩离家出走被男子收留后被性侵",
@@ -7089,6 +7089,14 @@
       "onboard_time": 1681880733,
       "rank": 27,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 790564,
+      "num": 790564,
+      "word": "苏州一公司通知员工卖宝马否则开除",
+      "onboard_time": 1682140645,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 790390,
@@ -9761,6 +9769,14 @@
       "onboard_time": 1680396386,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622492,
+      "num": 622492,
+      "word": "向往的生活或将是最后一季",
+      "onboard_time": 1682142506,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 622408,
@@ -15299,6 +15315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 422933,
+      "num": 422933,
+      "word": "麻辣烫为何越来越贵",
+      "onboard_time": 1682140408,
+      "rank": 43,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 422887,
       "num": 422887,
       "word": "某幻 老番茄live嘉宾",
@@ -15361,14 +15385,6 @@
       "onboard_time": 1680490948,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 421741,
-      "num": 421741,
-      "word": "苏州一公司通知员工卖宝马否则开除",
-      "onboard_time": 1682140645,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 421644,
@@ -16779,6 +16795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 394119,
+      "num": 394119,
+      "word": "台湾海峡南部4.7级地震",
+      "onboard_time": 1682143767,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393810,
       "num": 393810,
       "word": "员工有权利拒绝节假日加班",
@@ -17249,6 +17273,14 @@
       "onboard_time": 1680836309,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 383912,
+      "num": 383912,
+      "word": "尹正的脸",
+      "onboard_time": 1682141305,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 383911,
@@ -23899,14 +23931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265291,
-      "num": 265291,
-      "word": "麻辣烫为何越来越贵",
-      "onboard_time": 1682140408,
-      "rank": 43,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 265244,
       "num": 239943,
       "word": "白鹿武戏没做满意哭了",
@@ -24993,6 +25017,14 @@
       "onboard_time": 1682055989,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252046,
+      "num": 252046,
+      "word": "指责型家庭",
+      "onboard_time": 1682140766,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 251808,
@@ -26979,6 +27011,14 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 229705,
+      "num": 229705,
+      "word": "虞书欣美国库存照",
+      "onboard_time": 1682143825,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229702,
       "num": 229702,
       "word": "宋亚轩给鼠标穿裙子",
@@ -27897,6 +27937,14 @@
       "onboard_time": 1680931586,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221515,
+      "num": 221515,
+      "word": "龚俊新剧MV有19套衣服",
+      "onboard_time": 1682143706,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 221428,
@@ -29923,14 +29971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 207850,
-      "num": 207850,
-      "word": "指责型家庭",
-      "onboard_time": 1682140766,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 207780,
       "num": 185298,
       "word": "宋亚轩想看袁娅维的演唱会",
@@ -30321,6 +30361,14 @@
       "onboard_time": 1680350668,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206492,
+      "num": 206492,
+      "word": "BLACKPINK科切拉后台照",
+      "onboard_time": 1682141966,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 206453,
@@ -32473,6 +32521,14 @@
       "onboard_time": 1681118068,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199933,
+      "num": 199933,
+      "word": "淄博鸭货店小哥回应因帅气走红",
+      "onboard_time": 1682143526,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199927,
@@ -34945,6 +35001,14 @@
       "onboard_time": 1681275810,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191809,
+      "num": 191809,
+      "word": "女孩子真的越长大越没有家吗",
+      "onboard_time": 1682143886,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 191805,
@@ -37785,6 +37849,14 @@
       "onboard_time": 1681973009,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179627,
+      "num": 162912,
+      "word": "破事精英2定档",
+      "onboard_time": 1682143706,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 179554,
@@ -43819,14 +43891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141105,
-      "num": 141105,
-      "word": "尹正的脸",
-      "onboard_time": 1682141305,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141044,
       "num": 141044,
       "word": "湖人vs森林狼",
@@ -44099,6 +44163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139415,
+      "num": 139415,
+      "word": "抢票次次陪跑",
+      "onboard_time": 1682141247,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139333,
       "num": 139333,
       "word": "深圳DYG",
@@ -44251,6 +44323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 138302,
+      "num": 138302,
+      "word": "最近的互联网观剧观察",
+      "onboard_time": 1682143886,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 138299,
       "num": 138299,
       "word": "AI自主学习让吴京刘德华重返20岁",
@@ -44353,14 +44433,6 @@
       "onboard_time": 1681046368,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137363,
-      "num": 137363,
-      "word": "抢票次次陪跑",
-      "onboard_time": 1682141247,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 137344,
@@ -49865,6 +49937,14 @@
       "onboard_time": 1680370038,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76123,
+      "num": 138643,
+      "word": "蚂蚁集团再捐1亿元种树",
+      "onboard_time": 1682143226,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75962,
