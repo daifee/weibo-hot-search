@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682195606654,
+  "endTime": 1682198080064,
   "band_list": [
     {
       "raw_hot": 2603141,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38681,
+      "num": 36325,
+      "word": "浦东机场H登机口",
+      "onboard_time": 1682193912,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 29860,
       "num": 1111624,
       "word": "珍爱地球中国在行动",
@@ -467,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16933,
-      "num": 16933,
-      "word": "浦东机场H登机口",
-      "onboard_time": 1682193912,
-      "rank": 41,
-      "category": "旅游"
+      "raw_hot": 13916,
+      "num": 16479,
+      "word": "拥有多少资产才能算财富自由",
+      "onboard_time": 1682197213,
+      "rank": 42,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
