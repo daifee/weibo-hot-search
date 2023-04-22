@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682120016150,
+  "endTime": 1682126558340,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -12,11 +12,27 @@
     },
     {
       "raw_hot": 2005856,
-      "num": 601214,
+      "num": 658442,
       "word": "老番茄求婚",
       "onboard_time": 1682082869,
       "rank": 5,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 1630314,
+      "num": 1630314,
+      "word": "陈飞宇 周也",
+      "onboard_time": 1682124388,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1537599,
+      "num": 365669,
+      "word": "杨幂站姐放出原图",
+      "onboard_time": 1682118737,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1171099,
@@ -27,12 +43,44 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1116640,
+      "num": 361628,
+      "word": "失业女生摆摊一天卖5块崩溃痛哭",
+      "onboard_time": 1682119459,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1046384,
+      "num": 699721,
+      "word": "新加坡鞭刑",
+      "onboard_time": 1682125109,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976220,
       "num": 976220,
       "word": "宝马mini称两名女生离职消息不实",
       "onboard_time": 1682089831,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 937514,
+      "num": 347154,
+      "word": "新加坡一39岁已婚男子猥亵9岁女童",
+      "onboard_time": 1682120303,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728789,
+      "num": 728789,
+      "word": "陈都灵礼服开线了",
+      "onboard_time": 1682118798,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 647004,
@@ -43,20 +91,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 639493,
+      "num": 639493,
+      "word": "小米电视机凌晨突然飙女高音",
+      "onboard_time": 1682122586,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 607972,
       "num": 607972,
       "word": "哇唧唧哇 空座",
       "onboard_time": 1682081130,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 592047,
-      "num": 171002,
-      "word": "杨幂站姐放出原图",
-      "onboard_time": 1682118737,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 571325,
@@ -75,11 +123,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 533393,
+      "num": 360194,
+      "word": "入职前一天被HR提醒骗子公司别来",
+      "onboard_time": 1682122885,
+      "rank": 12,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 466606,
       "num": 466606,
       "word": "男子网恋6年转142万对方是舅妈",
       "onboard_time": 1682091209,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438736,
+      "num": 152012,
+      "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
+      "onboard_time": 1682125467,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -99,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 408006,
+      "num": 357812,
+      "word": "印度男子性骚扰韩国女游客",
+      "onboard_time": 1682125109,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 399176,
       "num": 399176,
       "word": "成都基地回应大熊猫福禄疑淋雨",
@@ -112,6 +184,30 @@
       "word": "山西突降暴雪",
       "onboard_time": 1682088932,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379229,
+      "num": 379229,
+      "word": "日本陆上自卫队第8师团长坂本雄一死亡",
+      "onboard_time": 1682123965,
+      "rank": 8,
+      "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 367676,
+      "num": 367676,
+      "word": "王源说戒指谁抢到就送给谁",
+      "onboard_time": 1682121805,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 355276,
+      "num": 355276,
+      "word": "杭州男子失踪7天找到时已失温",
+      "onboard_time": 1682118919,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -131,12 +227,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327447,
+      "num": 327447,
+      "word": "章昊以为自己是第二名",
+      "onboard_time": 1682121144,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318581,
+      "num": 318581,
+      "word": "宝马回应女生在展台直播被拖走事件",
+      "onboard_time": 1682119641,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289320,
       "num": 289320,
       "word": "薛之谦演唱会",
       "onboard_time": 1682081550,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 279303,
+      "num": 279303,
+      "word": "95后女生打4份工全年无休",
+      "onboard_time": 1682120602,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277089,
@@ -147,12 +267,28 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 268340,
+      "num": 268340,
+      "word": "肯尼迪侄子演讲不停夸中国喷美国",
+      "onboard_time": 1682122586,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 261176,
       "num": 145183,
       "word": "宝马mini两名发冰淇淋女生已离职",
       "onboard_time": 1682071291,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254556,
+      "num": 254556,
+      "word": "肖战如梦之梦首站两周年",
+      "onboard_time": 1682122104,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 249225,
@@ -203,12 +339,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 234652,
-      "num": 169881,
-      "word": "杭州男子失踪7天找到时已失温",
-      "onboard_time": 1682118919,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 228440,
+      "num": 228440,
+      "word": "三月三",
+      "onboard_time": 1682124507,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 225077,
@@ -219,12 +355,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 221786,
-      "num": 169151,
-      "word": "陈都灵礼服开线了",
-      "onboard_time": 1682118798,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 222905,
+      "num": 222905,
+      "word": "广东一40岁男子晋升为岳父",
+      "onboard_time": 1682119519,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201056,
@@ -235,6 +371,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197683,
+      "num": 197683,
+      "word": "张颂文小皇冠胸针",
+      "onboard_time": 1682124746,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193875,
+      "num": 193875,
+      "word": "男子乘飞机旁边坐了尊妈祖神像",
+      "onboard_time": 1682120181,
+      "rank": 26,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 192146,
       "num": 155543,
       "word": "灌篮高手",
@@ -243,20 +395,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189421,
-      "num": 168308,
-      "word": "失业女生摆摊一天卖5块崩溃痛哭",
-      "onboard_time": 1682119459,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188398,
       "num": 188398,
       "word": "一年被辞退四次是什么体验",
       "onboard_time": 1682112251,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187454,
+      "num": 187454,
+      "word": "hybe",
+      "onboard_time": 1682126309,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182424,
@@ -331,11 +483,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150513,
+      "num": 150513,
+      "word": "中国空间站里有只穿航天服的兔子",
+      "onboard_time": 1682119941,
+      "rank": 32,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 148377,
       "num": 144207,
       "word": "鹿晗巡演四站官宣",
       "onboard_time": 1682069549,
       "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 148219,
+      "num": 148219,
+      "word": "薛之谦慢半拍被伴舞扛在肩上",
+      "onboard_time": 1682122644,
+      "rank": 33,
       "category": "音乐"
     },
     {
@@ -355,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137266,
+      "num": 137266,
+      "word": "如果我不回家唱歌我们村可能会输",
+      "onboard_time": 1682120061,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127704,
       "num": 120732,
       "word": "王源巡演预售",
@@ -369,6 +545,14 @@
       "onboard_time": 1682119040,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125786,
+      "num": 125786,
+      "word": "熊猫宝宝卡屁股被游客嘲笑",
+      "onboard_time": 1682097080,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 123115,
@@ -395,14 +579,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 112420,
-      "num": 87277,
-      "word": "宝马回应女生在展台直播被拖走事件",
-      "onboard_time": 1682119641,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112030,
       "num": 112030,
       "word": "范志毅把脸都不要了唱进五哈主题曲",
@@ -419,20 +595,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110136,
+      "num": 110136,
+      "word": "马頔 五哈",
+      "onboard_time": 1682123005,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108751,
       "num": 108751,
       "word": "父母姓氏组合而来的名字",
       "onboard_time": 1682076389,
       "rank": 39,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 106243,
-      "num": 87212,
-      "word": "广东一40岁男子晋升为岳父",
-      "onboard_time": 1682119519,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105011,
@@ -443,12 +619,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 104800,
-      "num": 104800,
-      "word": "熊猫宝宝卡屁股被游客嘲笑",
-      "onboard_time": 1682097080,
-      "rank": 48,
-      "category": "社会正能量"
+      "raw_hot": 103330,
+      "num": 103330,
+      "word": "长月烬明的反盗版声明",
+      "onboard_time": 1682119880,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 101752,
@@ -483,12 +659,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96668,
+      "num": 96668,
+      "word": "乐华BoysPlanet收官战报",
+      "onboard_time": 1682120844,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92789,
+      "num": 92789,
+      "word": "玥烬情苏",
+      "onboard_time": 1682126483,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 92380,
       "num": 96835,
       "word": "娜扎的耳饰好大",
       "onboard_time": 1682067510,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 92287,
+      "num": 92287,
+      "word": "特斯拉",
+      "onboard_time": 1682120000,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 85993,
@@ -539,12 +739,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 66971,
+      "raw_hot": 71971,
       "num": 910589,
       "word": "县在出发",
       "onboard_time": 1682083712,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68784,
+      "num": 88714,
+      "word": "AI怪盗积德",
+      "onboard_time": 1682111291,
+      "rank": 48,
+      "category": "动漫,科技"
     },
     {
       "raw_hot": 64770,
@@ -569,30 +777,6 @@
       "onboard_time": 1682117476,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 59679,
-      "num": 59679,
-      "word": "长月烬明的反盗版声明",
-      "onboard_time": 1682119880,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 52500,
-      "num": 52500,
-      "word": "特斯拉",
-      "onboard_time": 1682120000,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
-      "raw_hot": 46345,
-      "num": 51439,
-      "word": "AI怪盗积德",
-      "onboard_time": 1682111291,
-      "rank": 48,
-      "category": "动漫,科技"
     },
     {
       "raw_hot": 40800,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682120016150,
+  "endTime": 1682126558340,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2491,6 +2491,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1630314,
+      "num": 1630314,
+      "word": "陈飞宇 周也",
+      "onboard_time": 1682124388,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1628847,
       "num": 705156,
       "word": "印度12名男子将妇人斩首献祭",
@@ -2769,6 +2777,14 @@
       "onboard_time": 1680845249,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1537599,
+      "num": 365669,
+      "word": "杨幂站姐放出原图",
+      "onboard_time": 1682118737,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1537387,
@@ -4299,6 +4315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1116640,
+      "num": 361628,
+      "word": "失业女生摆摊一天卖5块崩溃痛哭",
+      "onboard_time": 1682119459,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1116079,
       "num": 1116079,
       "word": "SEVENTEEN新歌预告照",
@@ -4673,6 +4697,14 @@
       "onboard_time": 1682089831,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1046384,
+      "num": 699721,
+      "word": "新加坡鞭刑",
+      "onboard_time": 1682125109,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1037260,
@@ -5376,6 +5408,14 @@
       "word": "尹锡悦称台湾问题是全球问题",
       "onboard_time": 1681984890,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 937514,
+      "num": 347154,
+      "word": "新加坡一39岁已婚男子猥亵9岁女童",
+      "onboard_time": 1682120303,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -7595,6 +7635,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 728789,
+      "num": 728789,
+      "word": "陈都灵礼服开线了",
+      "onboard_time": 1682118798,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 728550,
       "num": 363930,
       "word": "广东人为何最敢生娃",
@@ -9267,6 +9315,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 639493,
+      "num": 639493,
+      "word": "小米电视机凌晨突然飙女高音",
+      "onboard_time": 1682122586,
+      "rank": 6,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 638664,
       "num": 638664,
       "word": "专家建议休假政策做一下民意调查",
@@ -10193,14 +10249,6 @@
       "onboard_time": 1681978408,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 592047,
-      "num": 171002,
-      "word": "杨幂站姐放出原图",
-      "onboard_time": 1682118737,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 591943,
@@ -11665,6 +11713,14 @@
       "onboard_time": 1681774221,
       "rank": 44,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 533393,
+      "num": 360194,
+      "word": "入职前一天被HR提醒骗子公司别来",
+      "onboard_time": 1682122885,
+      "rank": 12,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 532727,
@@ -14523,6 +14579,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 438736,
+      "num": 152012,
+      "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
+      "onboard_time": 1682125467,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438162,
       "num": 438162,
       "word": "吴尊友谈戴口罩",
@@ -15793,6 +15857,14 @@
       "onboard_time": 1680421888,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408006,
+      "num": 357812,
+      "word": "印度男子性骚扰韩国女游客",
+      "onboard_time": 1682125109,
+      "rank": 13,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 407934,
@@ -17131,6 +17203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 379229,
+      "num": 379229,
+      "word": "日本陆上自卫队第8师团长坂本雄一死亡",
+      "onboard_time": 1682123965,
+      "rank": 8,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 379211,
       "num": 330638,
       "word": "张小斐蓝裙子直播状态",
@@ -17633,6 +17713,14 @@
       "onboard_time": 1681104268,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367676,
+      "num": 367676,
+      "word": "王源说戒指谁抢到就送给谁",
+      "onboard_time": 1682121805,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 367541,
@@ -18257,6 +18345,14 @@
       "onboard_time": 1681213407,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 355276,
+      "num": 355276,
+      "word": "杭州男子失踪7天找到时已失温",
+      "onboard_time": 1682118919,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355251,
@@ -19715,6 +19811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327447,
+      "num": 327447,
+      "word": "章昊以为自己是第二名",
+      "onboard_time": 1682121144,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327125,
       "num": 293008,
       "word": "老太地铁求座女子自称孕妇怒怼",
@@ -20209,6 +20313,14 @@
       "onboard_time": 1681281085,
       "rank": 45,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 318581,
+      "num": 318581,
+      "word": "宝马回应女生在展台直播被拖走事件",
+      "onboard_time": 1682119641,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318550,
@@ -22683,6 +22795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279303,
+      "num": 279303,
+      "word": "95后女生打4份工全年无休",
+      "onboard_time": 1682120602,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279241,
       "num": 279241,
       "word": "大学教育现状",
@@ -23329,6 +23449,14 @@
       "onboard_time": 1680398008,
       "rank": 31,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 268340,
+      "num": 268340,
+      "word": "肯尼迪侄子演讲不停夸中国喷美国",
+      "onboard_time": 1682122586,
+      "rank": 21,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 267943,
@@ -24353,6 +24481,14 @@
       "onboard_time": 1681623209,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 254556,
+      "num": 254556,
+      "word": "肖战如梦之梦首站两周年",
+      "onboard_time": 1682122104,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 254230,
@@ -26059,14 +26195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234652,
-      "num": 169881,
-      "word": "杭州男子失踪7天找到时已失温",
-      "onboard_time": 1682118919,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234558,
       "num": 227283,
       "word": "精准烟感报警器",
@@ -26739,6 +26867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228440,
+      "num": 228440,
+      "word": "三月三",
+      "onboard_time": 1682124507,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228431,
       "num": 228431,
       "word": "BoysPlanet三顺排名",
@@ -27307,6 +27443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222905,
+      "num": 222905,
+      "word": "广东一40岁男子晋升为岳父",
+      "onboard_time": 1682119519,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222740,
       "num": 222740,
       "word": "灌篮高手中配版预告",
@@ -27425,14 +27569,6 @@
       "onboard_time": 1681183587,
       "rank": 42,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 221786,
-      "num": 169151,
-      "word": "陈都灵礼服开线了",
-      "onboard_time": 1682118798,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 221773,
@@ -32635,6 +32771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197683,
+      "num": 197683,
+      "word": "张颂文小皇冠胸针",
+      "onboard_time": 1682124746,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197619,
       "num": 197619,
       "word": "不生孩子的想法会随着年龄改变吗",
@@ -33817,6 +33961,14 @@
       "onboard_time": 1681096648,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 193875,
+      "num": 193875,
+      "word": "男子乘飞机旁边坐了尊妈祖神像",
+      "onboard_time": 1682120181,
+      "rank": 26,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 193851,
@@ -35051,14 +35203,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189421,
-      "num": 168308,
-      "word": "失业女生摆摊一天卖5块崩溃痛哭",
-      "onboard_time": 1682119459,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189391,
       "num": 210125,
       "word": "金智秀新歌FLOWER音银一位",
@@ -35609,6 +35753,14 @@
       "onboard_time": 1680610289,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187454,
+      "num": 187454,
+      "word": "hybe",
+      "onboard_time": 1682126309,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187443,
@@ -41659,6 +41811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150513,
+      "num": 150513,
+      "word": "中国空间站里有只穿航天服的兔子",
+      "onboard_time": 1682119941,
+      "rank": 32,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 150474,
       "num": 150474,
       "word": "忠犬八公后劲好大",
@@ -42097,6 +42257,14 @@
       "onboard_time": 1681627048,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148219,
+      "num": 148219,
+      "word": "薛之谦慢半拍被伴舞扛在肩上",
+      "onboard_time": 1682122644,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 148192,
@@ -43633,6 +43801,14 @@
       "onboard_time": 1680941366,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137266,
+      "num": 137266,
+      "word": "如果我不回家唱歌我们村可能会输",
+      "onboard_time": 1682120061,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137200,
@@ -45219,6 +45395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125786,
+      "num": 125786,
+      "word": "熊猫宝宝卡屁股被游客嘲笑",
+      "onboard_time": 1682097080,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 125775,
       "num": 125775,
       "word": "LPL十周年主题片",
@@ -46619,14 +46803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112420,
-      "num": 87277,
-      "word": "宝马回应女生在展台直播被拖走事件",
-      "onboard_time": 1682119641,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112299,
       "num": 112299,
       "word": "傲寒戈娅四杀",
@@ -46817,6 +46993,14 @@
       "onboard_time": 1681860323,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110136,
+      "num": 110136,
+      "word": "马頔 五哈",
+      "onboard_time": 1682123005,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 110135,
@@ -47139,14 +47323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 106243,
-      "num": 87212,
-      "word": "广东一40岁男子晋升为岳父",
-      "onboard_time": 1682119519,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106145,
       "num": 382189,
       "word": "被明星种草的养肤防晒乳",
@@ -47281,14 +47457,6 @@
       "onboard_time": 1681135350,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 104800,
-      "num": 104800,
-      "word": "熊猫宝宝卡屁股被游客嘲笑",
-      "onboard_time": 1682097080,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 104693,
@@ -47465,6 +47633,14 @@
       "onboard_time": 1680884664,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103330,
+      "num": 103330,
+      "word": "长月烬明的反盗版声明",
+      "onboard_time": 1682119880,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 103270,
@@ -48067,6 +48243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96668,
+      "num": 96668,
+      "word": "乐华BoysPlanet收官战报",
+      "onboard_time": 1682120844,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96527,
       "num": 116405,
       "word": "这些影像是日寇美化侵略行径的罪证",
@@ -48323,6 +48507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92789,
+      "num": 92789,
+      "word": "玥烬情苏",
+      "onboard_time": 1682126483,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 92681,
       "num": 1302452,
       "word": "为孤独症的孩子点亮一盏灯",
@@ -48345,6 +48537,14 @@
       "onboard_time": 1680792518,
       "rank": 46,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 92287,
+      "num": 92287,
+      "word": "特斯拉",
+      "onboard_time": 1682120000,
+      "rank": 46,
+      "category": "科技"
     },
     {
       "raw_hot": 92281,
@@ -49315,6 +49515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68784,
+      "num": 88714,
+      "word": "AI怪盗积德",
+      "onboard_time": 1682111291,
+      "rank": 48,
+      "category": "动漫,科技"
+    },
+    {
       "raw_hot": 68688,
       "num": 86577,
       "word": "月亮",
@@ -49595,14 +49803,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 59679,
-      "num": 59679,
-      "word": "长月烬明的反盗版声明",
-      "onboard_time": 1682119880,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 59280,
       "num": 213759,
       "word": "河南一景区惊现空中巴士",
@@ -49811,14 +50011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52500,
-      "num": 52500,
-      "word": "特斯拉",
-      "onboard_time": 1682120000,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
       "raw_hot": 51826,
       "num": 328187,
       "word": "苏醒现场版小城夏天",
@@ -49913,14 +50105,6 @@
       "onboard_time": 1680468310,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46345,
-      "num": 51439,
-      "word": "AI怪盗积德",
-      "onboard_time": 1682111291,
-      "rank": 48,
-      "category": "动漫,科技"
     },
     {
       "raw_hot": 46159,
