@@ -1,0 +1,410 @@
+{
+  "runTime": 1682154942611,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1216544,
+        "num": 1216544,
+        "word": "高叶 礼服把我鲨疯了",
+        "onboard_time": 1682147608,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 716648,
+        "num": 716648,
+        "word": "张卫健从河里捞的东西逐渐离谱了",
+        "onboard_time": 1682149887,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32864,
+        "num": 714892,
+        "word": "2023中国网络媒体论坛",
+        "onboard_time": 1682136687,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1686064,
+        "num": 696109,
+        "word": "女子喝中药一周发现成分是蟑螂",
+        "onboard_time": 1682152707,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1217233,
+        "num": 686886,
+        "word": "孝庄秘史 抄袭",
+        "onboard_time": 1682144906,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1894430,
+        "num": 683103,
+        "word": "长月烬明被举报",
+        "onboard_time": 1682147967,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674087,
+        "num": 674087,
+        "word": "赵继伟 晴子咋这样了",
+        "onboard_time": 1682150786,
+        "rank": 6,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 463230,
+        "num": 463230,
+        "word": "向往的生活或将是最后一季",
+        "onboard_time": 1682142506,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425612,
+        "num": 425612,
+        "word": "这件旗袍为她筛选掉了不好的人",
+        "onboard_time": 1682145267,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381422,
+        "num": 381422,
+        "word": "台湾地震",
+        "onboard_time": 1682141425,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461387,
+        "num": 374907,
+        "word": "周也王鹤棣VS周也陈飞宇",
+        "onboard_time": 1682149168,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363389,
+        "num": 363389,
+        "word": "只有刘耀文穿了袜子",
+        "onboard_time": 1682152948,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340157,
+        "num": 340157,
+        "word": "女孩子真的越长大越没有家吗",
+        "onboard_time": 1682143886,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297550,
+        "num": 297550,
+        "word": "铁路曾试行女性包厢但匆匆退市",
+        "onboard_time": 1682152885,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270131,
+        "num": 270131,
+        "word": "李晨 对任何人都是尊重的",
+        "onboard_time": 1682129967,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268722,
+        "num": 268722,
+        "word": "灌篮高手",
+        "onboard_time": 1682147967,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 265759,
+        "num": 265759,
+        "word": "INTO1全员呼吁粉丝不要带灯牌",
+        "onboard_time": 1682148808,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332674,
+        "num": 260404,
+        "word": "公司五一放三天同事离职了",
+        "onboard_time": 1682130867,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252769,
+        "num": 252769,
+        "word": "路边的雄性生物不要捡",
+        "onboard_time": 1682148267,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235913,
+        "num": 235913,
+        "word": "长期不吃晚饭的怎么样了",
+        "onboard_time": 1682135187,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 251937,
+        "num": 235907,
+        "word": "骂领导傻悲不小心发到工作群",
+        "onboard_time": 1682149284,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231620,
+        "num": 231620,
+        "word": "胡先煦眼角肿了",
+        "onboard_time": 1682151265,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199730,
+        "num": 199730,
+        "word": "女子乘奔驰下乡顺走一只鸭",
+        "onboard_time": 1682153187,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194740,
+        "num": 194740,
+        "word": "瑞幸 罚抄",
+        "onboard_time": 1682133208,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179972,
+        "num": 179972,
+        "word": "男子一口气买8公斤金条藏厕所楼道",
+        "onboard_time": 1682147366,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210650,
+        "num": 178897,
+        "word": "罗云熙白鹿说长月烬明下周更虐",
+        "onboard_time": 1682148028,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176636,
+        "num": 176636,
+        "word": "民警勇斗歹徒牺牲前画面看哭了",
+        "onboard_time": 1682150848,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175222,
+        "num": 175222,
+        "word": "cp圈必备神文",
+        "onboard_time": 1682152527,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169611,
+        "num": 169611,
+        "word": "虞书欣美国库存照",
+        "onboard_time": 1682143825,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168559,
+        "num": 168559,
+        "word": "专八 写不完",
+        "onboard_time": 1682137650,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 598925,
+        "num": 166087,
+        "word": "当事人要求宝马MINI道歉",
+        "onboard_time": 1682147007,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175993,
+        "num": 164080,
+        "word": "被今年的就业难度震惊到",
+        "onboard_time": 1682132968,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161875,
+        "num": 161875,
+        "word": "张杰郑州 秒没",
+        "onboard_time": 1682139925,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147803,
+        "num": 147803,
+        "word": "胡歌为李佳航新剧打call",
+        "onboard_time": 1682147967,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147399,
+        "num": 147399,
+        "word": "长空之王预售票房破5000万",
+        "onboard_time": 1682153548,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143147,
+        "num": 143147,
+        "word": "成都龙泉市民拍下不明发光体",
+        "onboard_time": 1682149107,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140387,
+        "num": 140387,
+        "word": "灌篮高手票房破3亿",
+        "onboard_time": 1682148028,
+        "rank": 36,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 131066,
+        "num": 131066,
+        "word": "新加坡鞭刑",
+        "onboard_time": 1682125109,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130519,
+        "num": 130519,
+        "word": "淄博鸭货店小哥回应因帅气走红",
+        "onboard_time": 1682143526,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112835,
+        "num": 112835,
+        "word": "BLACKPINK科切拉后台照",
+        "onboard_time": 1682141966,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110934,
+        "num": 110934,
+        "word": "一觉醒来被老板辞退了",
+        "onboard_time": 1682146648,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 110625,
+        "num": 110625,
+        "word": "何洁面对恶评的心态转变",
+        "onboard_time": 1682147848,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106419,
+        "num": 106419,
+        "word": "肖战三年72场话剧",
+        "onboard_time": 1682136385,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104928,
+        "num": 104928,
+        "word": "流川枫",
+        "onboard_time": 1682145207,
+        "rank": 43,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 99137,
+        "num": 99137,
+        "word": "专八",
+        "onboard_time": 1682133329,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98358,
+        "num": 98358,
+        "word": "阮佳大战AI绘画",
+        "onboard_time": 1682154929,
+        "rank": 45,
+        "category": "科技,动漫"
+      },
+      {
+        "raw_hot": 97178,
+        "num": 97178,
+        "word": "世界难题被恋爱脑解决了",
+        "onboard_time": 1682146587,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96703,
+        "num": 96703,
+        "word": "代号鸢",
+        "onboard_time": 1682148927,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96677,
+        "num": 96677,
+        "word": "TheShy为WBG春决加油",
+        "onboard_time": 1682149284,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85799,
+        "num": 96673,
+        "word": "老番茄求婚戒指",
+        "onboard_time": 1682131886,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平总书记的读书心得#"
+    }
+  }
+}
