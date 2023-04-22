@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682148813907,
+  "endTime": 1682151619635,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530333,
+      "num": 530333,
+      "word": "周也王鹤棣VS周也陈飞宇",
+      "onboard_time": 1682149168,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 505877,
       "num": 505877,
       "word": "男孩被拖行后第一句是爸爸不要怪我",
@@ -425,6 +433,14 @@
       "onboard_time": 1682092649,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397509,
+      "num": 397509,
+      "word": "INTO1全员呼吁粉丝不要带灯牌",
+      "onboard_time": 1682148808,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 395956,
@@ -523,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345099,
+      "num": 345099,
+      "word": "路边的雄性生物不要捡",
+      "onboard_time": 1682148267,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344868,
       "num": 344868,
       "word": "中方要求韩方在台湾问题上谨言慎行",
@@ -536,6 +560,14 @@
       "word": "赵小棠红毯摔倒",
       "onboard_time": 1682072851,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 336171,
+      "num": 336171,
+      "word": "张卫健从河里捞的东西逐渐离谱了",
+      "onboard_time": 1682149887,
+      "rank": 13,
       "category": "影视"
     },
     {
@@ -571,11 +603,27 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 305515,
+      "num": 305515,
+      "word": "罗云熙白鹿说长月烬明下周更虐",
+      "onboard_time": 1682148028,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 304215,
       "num": 304215,
       "word": "灌篮高手",
       "onboard_time": 1682077349,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 296954,
+      "num": 263542,
+      "word": "胡歌为李佳航新剧打call",
+      "onboard_time": 1682147967,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -651,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263522,
+      "num": 263522,
+      "word": "男子一口气买8公斤金条藏厕所楼道",
+      "onboard_time": 1682147366,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261176,
       "num": 145183,
       "word": "宝马mini两名发冰淇淋女生已离职",
@@ -705,6 +761,14 @@
       "onboard_time": 1682088454,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246822,
+      "num": 246822,
+      "word": "骂领导傻悲不小心发到工作群",
+      "onboard_time": 1682149284,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 244405,
@@ -779,14 +843,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 222993,
-      "num": 222993,
-      "word": "男子一口气买8公斤金条藏厕所楼道",
-      "onboard_time": 1682147366,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222905,
       "num": 222905,
       "word": "广东一40岁男子晋升为岳父",
@@ -800,14 +856,6 @@
       "word": "龚俊新剧MV有19套衣服",
       "onboard_time": 1682143706,
       "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 220165,
-      "num": 220165,
-      "word": "胡歌为李佳航新剧打call",
-      "onboard_time": 1682147967,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -857,6 +905,14 @@
       "onboard_time": 1682137168,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206855,
+      "num": 162540,
+      "word": "赵继伟 晴子咋这样了",
+      "onboard_time": 1682150786,
+      "rank": 31,
+      "category": "体育,影视"
     },
     {
       "raw_hot": 206757,
@@ -1067,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170781,
+      "num": 170781,
+      "word": "何洁面对恶评的心态转变",
+      "onboard_time": 1682147848,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168290,
       "num": 168290,
       "word": "二手车贩直播砸宝马",
@@ -1099,12 +1163,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164928,
+      "num": 164928,
+      "word": "TheShy为WBG春决加油",
+      "onboard_time": 1682149284,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164518,
       "num": 164518,
       "word": "专八听力",
       "onboard_time": 1682137586,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164364,
+      "num": 164364,
+      "word": "代号鸢",
+      "onboard_time": 1682148927,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 164213,
@@ -1139,14 +1219,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 160247,
-      "num": 160247,
-      "word": "何洁面对恶评的心态转变",
-      "onboard_time": 1682147848,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 158083,
       "num": 158083,
       "word": "蔡徐坤最新怼脸拍摄大片",
@@ -1161,6 +1233,14 @@
       "onboard_time": 1682138008,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157508,
+      "num": 157508,
+      "word": "世界难题被恋爱脑解决了",
+      "onboard_time": 1682146587,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 155145,
@@ -1251,14 +1331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140004,
-      "num": 140004,
-      "word": "路边的雄性生物不要捡",
-      "onboard_time": 1682148267,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 139897,
       "num": 381283,
       "word": "时空中的绘旅人",
@@ -1307,14 +1379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137123,
-      "num": 137123,
-      "word": "世界难题被恋爱脑解决了",
-      "onboard_time": 1682146587,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136114,
       "num": 136114,
       "word": "张国政顽童分手",
@@ -1337,6 +1401,14 @@
       "onboard_time": 1682134347,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 128959,
+      "num": 128959,
+      "word": "胡先煦眼角肿了",
+      "onboard_time": 1682151265,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 127704,
@@ -1403,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113255,
+      "num": 113255,
+      "word": "成都龙泉市民拍下不明发光体",
+      "onboard_time": 1682149107,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112030,
       "num": 112030,
       "word": "范志毅把脸都不要了唱进五哈主题曲",
@@ -1425,6 +1505,14 @@
       "onboard_time": 1682088810,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110554,
+      "num": 110554,
+      "word": "民警勇斗歹徒牺牲前画面看哭了",
+      "onboard_time": 1682150848,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110136,
@@ -1473,6 +1561,14 @@
       "onboard_time": 1682063730,
       "rank": 41,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 101090,
+      "num": 101090,
+      "word": "中国华服日",
+      "onboard_time": 1682151508,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100644,
@@ -1617,6 +1713,14 @@
       "onboard_time": 1682093427,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 64292,
+      "num": 334651,
+      "word": "钎城冷空气夏日造型",
+      "onboard_time": 1682150427,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 62587,
