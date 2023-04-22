@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682154942611,
+  "endTime": 1682155990712,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -523,6 +523,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 2003483,
+      "num": 726571,
+      "word": "女子喝中药一周发现成分是蟑螂",
+      "onboard_time": 1682152707,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1987843,
       "num": 604939,
       "word": "宋祖儿 轧戏",
@@ -689,14 +697,6 @@
       "onboard_time": 1682043026,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1686064,
-      "num": 696109,
-      "word": "女子喝中药一周发现成分是蟑螂",
-      "onboard_time": 1682152707,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1685303,
@@ -1075,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1290580,
+      "num": 1290580,
+      "word": "高叶 礼服把我鲨疯了",
+      "onboard_time": 1682147608,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1282869,
       "num": 1282869,
       "word": "魏晨状态",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1681915050,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1222976,
-      "num": 1222976,
-      "word": "高叶 礼服把我鲨疯了",
-      "onboard_time": 1682147608,
-      "rank": 1,
-      "category": "影视"
     },
     {
       "raw_hot": 1220926,
@@ -2003,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 772649,
+      "num": 772649,
+      "word": "赵继伟 晴子咋这样了",
+      "onboard_time": 1682150786,
+      "rank": 31,
+      "category": "体育,影视"
+    },
+    {
       "raw_hot": 772161,
       "num": 772161,
       "word": "工作人员回应宝马mini被指区别对待",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1681948286,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 674087,
-      "num": 674087,
-      "word": "赵继伟 晴子咋这样了",
-      "onboard_time": 1682150786,
-      "rank": 31,
-      "category": "体育,影视"
     },
     {
       "raw_hot": 673780,
@@ -3312,6 +3312,14 @@
       "word": "男子工伤身亡妻子移植胚胎产下男婴",
       "onboard_time": 1681803690,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496798,
+      "num": 496798,
+      "word": "铁路曾试行女性包厢但匆匆退市",
+      "onboard_time": 1682152885,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -4651,6 +4659,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 372821,
+      "num": 372821,
+      "word": "只有刘耀文穿了袜子",
+      "onboard_time": 1682152948,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 372393,
       "num": 372393,
       "word": "沙尘暴",
@@ -4825,14 +4841,6 @@
       "onboard_time": 1681822888,
       "rank": 14,
       "category": "科技"
-    },
-    {
-      "raw_hot": 363389,
-      "num": 363389,
-      "word": "只有刘耀文穿了袜子",
-      "onboard_time": 1682152948,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 363163,
@@ -5811,14 +5819,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 297550,
-      "num": 297550,
-      "word": "铁路曾试行女性包厢但匆匆退市",
-      "onboard_time": 1682152885,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297508,
       "num": 256717,
       "word": "白鹿官宣常州市文旅大使",
@@ -6763,6 +6763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251250,
+      "num": 166268,
+      "word": "刘宇宁片场跳flower",
+      "onboard_time": 1682155226,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251179,
       "num": 251179,
       "word": "杨洋内八站姿",
@@ -6915,6 +6923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 244591,
+      "num": 244591,
+      "word": "长月烬明怎么了",
+      "onboard_time": 1682155526,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244379,
       "num": 226626,
       "word": "少爷和我还是得合体",
@@ -6953,6 +6969,14 @@
       "onboard_time": 1682087314,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241228,
+      "num": 241228,
+      "word": "胡先煦眼角肿了",
+      "onboard_time": 1682151265,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 241093,
@@ -7121,14 +7145,6 @@
       "onboard_time": 1681778549,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231620,
-      "num": 231620,
-      "word": "胡先煦眼角肿了",
-      "onboard_time": 1682151265,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 231300,
@@ -9371,6 +9387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184467,
+      "num": 175222,
+      "word": "cp圈必备神文",
+      "onboard_time": 1682152527,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184448,
       "num": 167167,
       "word": "蔡徐坤隔空点亮水立方",
@@ -9787,14 +9811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175222,
-      "num": 175222,
-      "word": "cp圈必备神文",
-      "onboard_time": 1682152527,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174313,
       "num": 174313,
       "word": "耐摔是否会成为手机刚需",
@@ -10089,6 +10105,14 @@
       "onboard_time": 1681725027,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166144,
+      "num": 166144,
+      "word": "主办方回应上海车展禁止送冰淇淋",
+      "onboard_time": 1682155108,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165840,
@@ -11203,6 +11227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141240,
+      "num": 141240,
+      "word": "灌篮高手票房破3亿",
+      "onboard_time": 1682148028,
+      "rank": 37,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 141013,
       "num": 129206,
       "word": "福州一小区起火致2人身亡",
@@ -11233,14 +11265,6 @@
       "onboard_time": 1682084670,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140387,
-      "num": 140387,
-      "word": "灌篮高手票房破3亿",
-      "onboard_time": 1682148028,
-      "rank": 37,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 140383,
@@ -12483,6 +12507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103105,
+      "num": 103105,
+      "word": "阮佳大战AI绘画",
+      "onboard_time": 1682154929,
+      "rank": 45,
+      "category": "科技,动漫"
+    },
+    {
       "raw_hot": 102944,
       "num": 102944,
       "word": "肖俊沈小婷舞蹈挑战",
@@ -12603,14 +12635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98358,
-      "num": 98358,
-      "word": "阮佳大战AI绘画",
-      "onboard_time": 1682154929,
-      "rank": 45,
-      "category": "科技,动漫"
-    },
-    {
       "raw_hot": 98346,
       "num": 145646,
       "word": "广东多地震感明显",
@@ -12721,6 +12745,14 @@
       "onboard_time": 1681850531,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95257,
+      "num": 95257,
+      "word": "程潇秒猜迪丽热巴冷笑话谐音梗",
+      "onboard_time": 1682155827,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 94834,

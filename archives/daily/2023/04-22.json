@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682154942611,
+  "endTime": 1682155990712,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -35,6 +35,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 2003483,
+      "num": 726571,
+      "word": "女子喝中药一周发现成分是蟑螂",
+      "onboard_time": 1682152707,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1874488,
       "num": 1874488,
       "word": "新加坡鞭刑",
@@ -49,14 +57,6 @@
       "onboard_time": 1682124388,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1686064,
-      "num": 696109,
-      "word": "女子喝中药一周发现成分是蟑螂",
-      "onboard_time": 1682152707,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1645338,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1222976,
-      "num": 1222976,
+      "raw_hot": 1290580,
+      "num": 1290580,
       "word": "高叶 礼服把我鲨疯了",
       "onboard_time": 1682147608,
       "rank": 1,
@@ -219,6 +219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 772649,
+      "num": 772649,
+      "word": "赵继伟 晴子咋这样了",
+      "onboard_time": 1682150786,
+      "rank": 31,
+      "category": "体育,影视"
+    },
+    {
       "raw_hot": 741727,
       "num": 741727,
       "word": "张颂文朱一龙 互让C",
@@ -249,14 +257,6 @@
       "onboard_time": 1682147007,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 674087,
-      "num": 674087,
-      "word": "赵继伟 晴子咋这样了",
-      "onboard_time": 1682150786,
-      "rank": 31,
-      "category": "体育,影视"
     },
     {
       "raw_hot": 673780,
@@ -376,6 +376,14 @@
       "word": "男孩被拖行后第一句是爸爸不要怪我",
       "onboard_time": 1682132187,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496798,
+      "num": 496798,
+      "word": "铁路曾试行女性包厢但匆匆退市",
+      "onboard_time": 1682152885,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -523,20 +531,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372821,
+      "num": 372821,
+      "word": "只有刘耀文穿了袜子",
+      "onboard_time": 1682152948,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 367676,
       "num": 367676,
       "word": "王源说戒指谁抢到就送给谁",
       "onboard_time": 1682121805,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 363389,
-      "num": 363389,
-      "word": "只有刘耀文穿了袜子",
-      "onboard_time": 1682152948,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 361505,
@@ -641,14 +649,6 @@
       "onboard_time": 1682077349,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 297550,
-      "num": 297550,
-      "word": "铁路曾试行女性包厢但匆匆退市",
-      "onboard_time": 1682152885,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296954,
@@ -787,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251250,
+      "num": 166268,
+      "word": "刘宇宁片场跳flower",
+      "onboard_time": 1682155226,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249225,
       "num": 249225,
       "word": "魏晨状态",
@@ -803,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244591,
+      "num": 244591,
+      "word": "长月烬明怎么了",
+      "onboard_time": 1682155526,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244405,
       "num": 244405,
       "word": "宝马MINI",
@@ -816,6 +832,14 @@
       "word": "辛柏青朱一龙张子枫演一家三口",
       "onboard_time": 1682091269,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241228,
+      "num": 241228,
+      "word": "胡先煦眼角肿了",
+      "onboard_time": 1682151265,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -849,14 +873,6 @@
       "onboard_time": 1682143526,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231620,
-      "num": 231620,
-      "word": "胡先煦眼角肿了",
-      "onboard_time": 1682151265,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 230869,
@@ -1051,6 +1067,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 184467,
+      "num": 175222,
+      "word": "cp圈必备神文",
+      "onboard_time": 1682152527,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183037,
       "num": 183037,
       "word": "网友长沙偶遇闫桉逛夜市",
@@ -1123,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175222,
-      "num": 175222,
-      "word": "cp圈必备神文",
-      "onboard_time": 1682152527,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 173697,
       "num": 211619,
       "word": "为地球留住美好",
@@ -1192,6 +1208,14 @@
       "word": "二手车贩直播砸宝马",
       "onboard_time": 1682118137,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166144,
+      "num": 166144,
+      "word": "主办方回应上海车展禁止送冰淇淋",
+      "onboard_time": 1682155108,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1411,8 +1435,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140387,
-      "num": 140387,
+      "raw_hot": 141240,
+      "num": 141240,
       "word": "灌篮高手票房破3亿",
       "onboard_time": 1682148028,
       "rank": 37,
@@ -1627,6 +1651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103105,
+      "num": 103105,
+      "word": "阮佳大战AI绘画",
+      "onboard_time": 1682154929,
+      "rank": 45,
+      "category": "科技,动漫"
+    },
+    {
       "raw_hot": 101752,
       "num": 101752,
       "word": "专家称生育率降低不只因为房价高",
@@ -1667,14 +1699,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 98358,
-      "num": 98358,
-      "word": "阮佳大战AI绘画",
-      "onboard_time": 1682154929,
-      "rank": 45,
-      "category": "科技,动漫"
-    },
-    {
       "raw_hot": 98346,
       "num": 145646,
       "word": "广东多地震感明显",
@@ -1695,6 +1719,14 @@
       "num": 96668,
       "word": "乐华BoysPlanet收官战报",
       "onboard_time": 1682120844,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95257,
+      "num": 95257,
+      "word": "程潇秒猜迪丽热巴冷笑话谐音梗",
+      "onboard_time": 1682155827,
       "rank": 45,
       "category": "综艺"
     },
