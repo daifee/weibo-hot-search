@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682126558340,
+  "endTime": 1682127933390,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1820975,
+      "num": 1820975,
+      "word": "陈飞宇 周也",
+      "onboard_time": 1682124388,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1813517,
       "num": 1214413,
       "word": "男婴静脉被注射配方奶家长被瞒5天",
@@ -699,14 +707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1630314,
-      "num": 1630314,
-      "word": "陈飞宇 周也",
-      "onboard_time": 1682124388,
-      "rank": 0,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1609226,
       "num": 1609226,
       "word": "宝马蒸发市值可买约5亿个冰淇淋",
@@ -731,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1574283,
+      "num": 788405,
+      "word": "新加坡鞭刑",
+      "onboard_time": 1682125109,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1556577,
       "num": 1556577,
       "word": "日本",
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 1537599,
-      "num": 365669,
+      "num": 502277,
       "word": "杨幂站姐放出原图",
       "onboard_time": 1682118737,
       "rank": 15,
@@ -1241,14 +1249,6 @@
       "onboard_time": 1682089831,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1046384,
-      "num": 699721,
-      "word": "新加坡鞭刑",
-      "onboard_time": 1682125109,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1030624,
@@ -1787,12 +1787,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 821552,
+      "num": 490332,
+      "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
+      "onboard_time": 1682125467,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805655,
       "num": 805655,
       "word": "泰裤辣",
       "onboard_time": 1681989207,
       "rank": 43,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 805434,
+      "num": 805434,
+      "word": "陈都灵礼服开线了",
+      "onboard_time": 1682118798,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 804634,
@@ -1929,14 +1945,6 @@
       "onboard_time": 1681956809,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 728789,
-      "num": 728789,
-      "word": "陈都灵礼服开线了",
-      "onboard_time": 1682118798,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 728527,
@@ -2443,6 +2451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 617436,
+      "num": 617436,
+      "word": "入职前一天被HR提醒骗子公司别来",
+      "onboard_time": 1682122885,
+      "rank": 12,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 615024,
+      "num": 615024,
+      "word": "hybe",
+      "onboard_time": 1682126309,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 613729,
       "num": 613729,
       "word": "誓约",
@@ -2851,14 +2875,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 533393,
-      "num": 360194,
-      "word": "入职前一天被HR提醒骗子公司别来",
-      "onboard_time": 1682122885,
-      "rank": 12,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 531808,
       "num": 531808,
       "word": "小米发布会",
@@ -2921,6 +2937,14 @@
       "onboard_time": 1681902207,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526903,
+      "num": 526903,
+      "word": "印度男子性骚扰韩国女游客",
+      "onboard_time": 1682125109,
+      "rank": 13,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 526055,
@@ -3579,14 +3603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 438736,
-      "num": 152012,
-      "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
-      "onboard_time": 1682125467,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438480,
       "num": 438480,
       "word": "特斯拉降价",
@@ -3841,14 +3857,6 @@
       "onboard_time": 1682003915,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 408006,
-      "num": 357812,
-      "word": "印度男子性骚扰韩国女游客",
-      "onboard_time": 1682125109,
-      "rank": 13,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 407283,
@@ -4953,6 +4961,14 @@
       "onboard_time": 1681832248,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328818,
+      "num": 236561,
+      "word": "火腿肠为什么走向没落了",
+      "onboard_time": 1682126848,
+      "rank": 20,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 328702,
@@ -7107,6 +7123,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 214652,
+      "num": 214652,
+      "word": "今天好多明星演唱会抢票",
+      "onboard_time": 1682127329,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214084,
       "num": 214084,
       "word": "小米13ultra",
@@ -8539,14 +8563,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187454,
-      "num": 187454,
-      "word": "hybe",
-      "onboard_time": 1682126309,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 187443,
       "num": 187443,
       "word": "CBA回应篮协处罚决定",
@@ -8713,6 +8729,14 @@
       "onboard_time": 1682058509,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 184837,
+      "num": 184837,
+      "word": "张婧仪周也近期生图",
+      "onboard_time": 1682126907,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 184693,
@@ -9003,6 +9027,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 179383,
+      "num": 179383,
+      "word": "薛之谦慢半拍被伴舞扛在肩上",
+      "onboard_time": 1682122644,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179296,
       "num": 155267,
       "word": "张小斐小心青城山的蚊子",
@@ -9017,6 +9049,14 @@
       "onboard_time": 1681706070,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177589,
+      "num": 177589,
+      "word": "玥烬情苏",
+      "onboard_time": 1682126483,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 177092,
@@ -10067,14 +10107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148219,
-      "num": 148219,
-      "word": "薛之谦慢半拍被伴舞扛在肩上",
-      "onboard_time": 1682122644,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 147993,
       "num": 147993,
       "word": "欧阳娜娜迪士尼游玩随拍",
@@ -10835,6 +10867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127287,
+      "num": 127287,
+      "word": "星巴克",
+      "onboard_time": 1682126607,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 127121,
       "num": 127121,
       "word": "尘封十三载结局",
@@ -11571,6 +11611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100145,
+      "num": 100145,
+      "word": "特斯拉",
+      "onboard_time": 1682120000,
+      "rank": 46,
+      "category": "科技"
+    },
+    {
       "raw_hot": 99902,
       "num": 99902,
       "word": "许巍巡演广州站官宣",
@@ -11747,22 +11795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92789,
-      "num": 92789,
-      "word": "玥烬情苏",
-      "onboard_time": 1682126483,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 92287,
-      "num": 92287,
-      "word": "特斯拉",
-      "onboard_time": 1682120000,
-      "rank": 46,
-      "category": "科技"
-    },
-    {
       "raw_hot": 92123,
       "num": 92123,
       "word": "国际米兰3比3本菲卡",
@@ -11793,6 +11825,14 @@
       "onboard_time": 1681777527,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91339,
+      "num": 91339,
+      "word": "篮球场假摔求婚",
+      "onboard_time": 1682127867,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 90832,

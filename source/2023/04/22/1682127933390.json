@@ -1,0 +1,410 @@
+{
+  "runTime": 1682127933390,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1820975,
+        "num": 1820975,
+        "word": "陈飞宇 周也",
+        "onboard_time": 1682124388,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 805434,
+        "num": 805434,
+        "word": "陈都灵礼服开线了",
+        "onboard_time": 1682118798,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63814,
+        "num": 788937,
+        "word": "县在出发",
+        "onboard_time": 1682083712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1574283,
+        "num": 788405,
+        "word": "新加坡鞭刑",
+        "onboard_time": 1682125109,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 784846,
+        "num": 784846,
+        "word": "宝马mini称两名女生离职消息不实",
+        "onboard_time": 1682089831,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 723019,
+        "num": 723019,
+        "word": "老番茄求婚",
+        "onboard_time": 1682082869,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 618327,
+        "num": 618327,
+        "word": "小米电视机凌晨突然飙女高音",
+        "onboard_time": 1682122586,
+        "rank": 6,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 617436,
+        "num": 617436,
+        "word": "入职前一天被HR提醒骗子公司别来",
+        "onboard_time": 1682122885,
+        "rank": 7,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 615024,
+        "num": 615024,
+        "word": "hybe",
+        "onboard_time": 1682126309,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526903,
+        "num": 526903,
+        "word": "印度男子性骚扰韩国女游客",
+        "onboard_time": 1682125109,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1372820,
+        "num": 502277,
+        "word": "杨幂站姐放出原图",
+        "onboard_time": 1682118737,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 821552,
+        "num": 490332,
+        "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
+        "onboard_time": 1682125467,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429286,
+        "num": 429286,
+        "word": "胡先煦回应发腮",
+        "onboard_time": 1682090970,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368867,
+        "num": 368867,
+        "word": "日本陆上自卫队第8师团长坂本雄一死亡",
+        "onboard_time": 1682123965,
+        "rank": 13,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 308956,
+        "num": 308956,
+        "word": "王源说戒指谁抢到就送给谁",
+        "onboard_time": 1682121805,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303433,
+        "num": 303433,
+        "word": "宝马回应女生在展台直播被拖走事件",
+        "onboard_time": 1682119641,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276560,
+        "num": 276560,
+        "word": "章昊以为自己是第二名",
+        "onboard_time": 1682121144,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274948,
+        "num": 274948,
+        "word": "杭州男子失踪7天找到时已失温",
+        "onboard_time": 1682118919,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248645,
+        "num": 248645,
+        "word": "张子枫 C位烫脚",
+        "onboard_time": 1682081250,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 237331,
+        "num": 237331,
+        "word": "肖战如梦之梦首站两周年",
+        "onboard_time": 1682122104,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 328818,
+        "num": 236561,
+        "word": "火腿肠为什么走向没落了",
+        "onboard_time": 1682126848,
+        "rank": 20,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 230302,
+        "num": 230302,
+        "word": "95后女生打4份工全年无休",
+        "onboard_time": 1682120602,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221377,
+        "num": 221377,
+        "word": "广东一40岁男子晋升为岳父",
+        "onboard_time": 1682119519,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214652,
+        "num": 214652,
+        "word": "今天好多明星演唱会抢票",
+        "onboard_time": 1682127329,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205806,
+        "num": 205806,
+        "word": "肯尼迪侄子演讲不停夸中国喷美国",
+        "onboard_time": 1682122586,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 197852,
+        "num": 197852,
+        "word": "三月三",
+        "onboard_time": 1682124507,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185590,
+        "num": 185590,
+        "word": "男子乘飞机旁边坐了尊妈祖神像",
+        "onboard_time": 1682120181,
+        "rank": 26,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 184837,
+        "num": 184837,
+        "word": "张婧仪周也近期生图",
+        "onboard_time": 1682126907,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184697,
+        "num": 184697,
+        "word": "张颂文小皇冠胸针",
+        "onboard_time": 1682124746,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179733,
+        "num": 179733,
+        "word": "5岁女孩被拐26年后回家父母双亡",
+        "onboard_time": 1682091928,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877824,
+        "num": 179658,
+        "word": "失业女生摆摊一天卖5块崩溃痛哭",
+        "onboard_time": 1682119459,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870883,
+        "num": 179618,
+        "word": "新加坡一39岁已婚男子猥亵9岁女童",
+        "onboard_time": 1682120303,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179383,
+        "num": 179383,
+        "word": "薛之谦慢半拍被伴舞扛在肩上",
+        "onboard_time": 1682122644,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177589,
+        "num": 177589,
+        "word": "玥烬情苏",
+        "onboard_time": 1682126483,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144794,
+        "num": 144794,
+        "word": "二手车贩直播砸宝马",
+        "onboard_time": 1682118137,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140161,
+        "num": 140161,
+        "word": "5岁弟弟忍痛抽骨髓救8岁哥哥",
+        "onboard_time": 1682105953,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 132179,
+        "num": 132179,
+        "word": "内娱小说男主代餐脸",
+        "onboard_time": 1682098098,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133390,
+        "num": 131440,
+        "word": "宝马MINI",
+        "onboard_time": 1682075491,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130459,
+        "num": 130459,
+        "word": "专家建议去旅游度假城市买房",
+        "onboard_time": 1682093786,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 129522,
+        "num": 129522,
+        "word": "中国空间站里有只穿航天服的兔子",
+        "onboard_time": 1682119941,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 129012,
+        "num": 129012,
+        "word": "章子怡的脸能打",
+        "onboard_time": 1682079570,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127287,
+        "num": 127287,
+        "word": "星巴克",
+        "onboard_time": 1682126607,
+        "rank": 41,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 122304,
+        "num": 122304,
+        "word": "成都基地回应大熊猫福禄疑淋雨",
+        "onboard_time": 1682092649,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116736,
+        "num": 116736,
+        "word": "熊猫宝宝卡屁股被游客嘲笑",
+        "onboard_time": 1682097080,
+        "rank": 43,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 114994,
+        "num": 114994,
+        "word": "如果我不回家唱歌我们村可能会输",
+        "onboard_time": 1682120061,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113758,
+        "num": 113758,
+        "word": "一年被辞退四次是什么体验",
+        "onboard_time": 1682112251,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113049,
+        "num": 113049,
+        "word": "流川枫 樱木花道",
+        "onboard_time": 1682084193,
+        "rank": 46,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 107416,
+        "num": 107416,
+        "word": "男子网恋6年转142万对方是舅妈",
+        "onboard_time": 1682091209,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100145,
+        "num": 100145,
+        "word": "特斯拉",
+        "onboard_time": 1682120000,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 91339,
+        "num": 91339,
+        "word": "篮球场假摔求婚",
+        "onboard_time": 1682127867,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实开展主题教育#"
+    }
+  }
+}
