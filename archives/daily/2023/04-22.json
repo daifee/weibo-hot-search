@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682140549197,
+  "endTime": 1682141618151,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1210468,
+      "num": 1210468,
+      "word": "公司五一放三天同事离职了",
+      "onboard_time": 1682130867,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1184084,
       "num": 1184084,
       "word": "张杰郑州 秒没",
@@ -89,14 +97,6 @@
       "onboard_time": 1682090970,
       "rank": 0,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1142927,
-      "num": 1142927,
-      "word": "公司五一放三天同事离职了",
-      "onboard_time": 1682130867,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 1116640,
@@ -144,6 +144,14 @@
       "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
       "onboard_time": 1682128649,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 884690,
+      "num": 421433,
+      "word": "台湾地震",
+      "onboard_time": 1682141425,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -313,6 +321,14 @@
       "onboard_time": 1682079688,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 421741,
+      "num": 421741,
+      "word": "苏州一公司通知员工卖宝马否则开除",
+      "onboard_time": 1682140645,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419120,
@@ -523,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265291,
+      "num": 265291,
+      "word": "麻辣烫为何越来越贵",
+      "onboard_time": 1682140408,
+      "rank": 43,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 263833,
       "num": 263833,
       "word": "宝马称接待人员不是内部员工",
@@ -643,6 +667,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 212297,
+      "num": 208038,
+      "word": "鹿晗演唱会官宣海报解读视频",
+      "onboard_time": 1682141546,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209653,
       "num": 209653,
       "word": "ike新衣",
@@ -657,6 +689,14 @@
       "onboard_time": 1682139569,
       "rank": 28,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 207850,
+      "num": 207850,
+      "word": "指责型家庭",
+      "onboard_time": 1682140766,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 207159,
@@ -875,6 +915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165184,
+      "num": 165184,
+      "word": "种地吧",
+      "onboard_time": 1682140645,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164980,
       "num": 164980,
       "word": "王一博雷宇训练花絮视频",
@@ -947,6 +995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154288,
+      "num": 154288,
+      "word": "网易云十年十大金曲",
+      "onboard_time": 1682134828,
+      "rank": 49,
+      "category": "音乐,科技"
+    },
+    {
       "raw_hot": 152087,
       "num": 152087,
       "word": "宝马4S店弄坏客户摩托后私换零件",
@@ -977,14 +1033,6 @@
       "onboard_time": 1682069549,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 146528,
-      "num": 146528,
-      "word": "网易云十年十大金曲",
-      "onboard_time": 1682134828,
-      "rank": 49,
-      "category": "音乐,科技"
     },
     {
       "raw_hot": 145987,
@@ -1019,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141105,
+      "num": 141105,
+      "word": "尹正的脸",
+      "onboard_time": 1682141305,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139897,
       "num": 381283,
       "word": "时空中的绘旅人",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1682131048,
       "rank": 39,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 137363,
+      "num": 137363,
+      "word": "抢票次次陪跑",
+      "onboard_time": 1682141247,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 137266,
@@ -1057,14 +1121,6 @@
       "onboard_time": 1682139267,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134453,
-      "num": 134453,
-      "word": "麻辣烫为何越来越贵",
-      "onboard_time": 1682140408,
-      "rank": 43,
-      "category": "美食,财经"
     },
     {
       "raw_hot": 131028,
@@ -1339,7 +1395,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 45434,
+      "raw_hot": 48756,
       "num": 1234236,
       "word": "2023中国网络媒体论坛",
       "onboard_time": 1682136687,

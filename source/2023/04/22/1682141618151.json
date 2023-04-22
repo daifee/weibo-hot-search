@@ -1,0 +1,410 @@
+{
+  "runTime": 1682141618151,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1789681,
+        "num": 1789681,
+        "word": "李晨 对任何人都是尊重的",
+        "onboard_time": 1682129967,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1210468,
+        "num": 1210468,
+        "word": "公司五一放三天同事离职了",
+        "onboard_time": 1682130867,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48756,
+        "num": 1200183,
+        "word": "2023中国网络媒体论坛",
+        "onboard_time": 1682136687,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1198798,
+        "num": 1198798,
+        "word": "瑞幸 罚抄",
+        "onboard_time": 1682133208,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866498,
+        "num": 866498,
+        "word": "张杰郑州 秒没",
+        "onboard_time": 1682139925,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 657775,
+        "num": 657775,
+        "word": "长期不吃晚饭的怎么样了",
+        "onboard_time": 1682135187,
+        "rank": 5,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 556079,
+        "num": 556079,
+        "word": "陈飞宇 周也",
+        "onboard_time": 1682124388,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 546058,
+        "num": 546058,
+        "word": "张颂文高叶再现狂飙拥抱",
+        "onboard_time": 1682133690,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496630,
+        "num": 496630,
+        "word": "专八 写不完",
+        "onboard_time": 1682137650,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 421741,
+        "num": 421741,
+        "word": "苏州一公司通知员工卖宝马否则开除",
+        "onboard_time": 1682140645,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884690,
+        "num": 421433,
+        "word": "台湾地震",
+        "onboard_time": 1682141425,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413439,
+        "num": 413439,
+        "word": "杨幂站姐放出原图",
+        "onboard_time": 1682118737,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384101,
+        "num": 384101,
+        "word": "网文作者属不属于作家范畴",
+        "onboard_time": 1682135785,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325526,
+        "num": 325526,
+        "word": "常熟实行工资全额数字人民币发放",
+        "onboard_time": 1682135067,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 318086,
+        "num": 318086,
+        "word": "老番茄求婚戒指",
+        "onboard_time": 1682131886,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 665677,
+        "num": 316507,
+        "word": "被今年的就业难度震惊到",
+        "onboard_time": 1682132968,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308666,
+        "num": 308666,
+        "word": "男孩被拖行后第一句是爸爸不要怪我",
+        "onboard_time": 1682132187,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303038,
+        "num": 303038,
+        "word": "陈都灵礼服开线了",
+        "onboard_time": 1682118798,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269323,
+        "num": 269323,
+        "word": "肖战三年72场话剧",
+        "onboard_time": 1682136385,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 265291,
+        "num": 265291,
+        "word": "麻辣烫为何越来越贵",
+        "onboard_time": 1682140408,
+        "rank": 19,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 502392,
+        "num": 261830,
+        "word": "新加坡鞭刑",
+        "onboard_time": 1682125109,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255773,
+        "num": 255773,
+        "word": "曾可妮拔四颗智齿",
+        "onboard_time": 1682132367,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239391,
+        "num": 239391,
+        "word": "火腿肠为什么走向没落了",
+        "onboard_time": 1682126848,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 235953,
+        "num": 235953,
+        "word": "宝马mini称两名女生离职消息不实",
+        "onboard_time": 1682089831,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 223115,
+        "num": 223115,
+        "word": "印度男子性骚扰韩国女游客",
+        "onboard_time": 1682125109,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 217586,
+        "num": 217586,
+        "word": "专八答案",
+        "onboard_time": 1682133927,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217294,
+        "num": 217294,
+        "word": "专八",
+        "onboard_time": 1682133329,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216038,
+        "num": 216038,
+        "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
+        "onboard_time": 1682128649,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208924,
+        "num": 208924,
+        "word": "专升本",
+        "onboard_time": 1682135608,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66496,
+        "num": 208207,
+        "word": "长峰医院火灾在院治疗39人危重4人",
+        "onboard_time": 1682134109,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212297,
+        "num": 208038,
+        "word": "鹿晗演唱会官宣海报解读视频",
+        "onboard_time": 1682141546,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207850,
+        "num": 207850,
+        "word": "指责型家庭",
+        "onboard_time": 1682140766,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205261,
+        "num": 205261,
+        "word": "李兰迪 女儿国国王",
+        "onboard_time": 1682131347,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183542,
+        "num": 183542,
+        "word": "我要逆风去",
+        "onboard_time": 1682140167,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176729,
+        "num": 176729,
+        "word": "第一次当婆婆没啥经验",
+        "onboard_time": 1682132788,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 166433,
+        "num": 166433,
+        "word": "惠英红向关锦鹏引荐胡先煦",
+        "onboard_time": 1682138906,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165184,
+        "num": 165184,
+        "word": "种地吧",
+        "onboard_time": 1682140645,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161859,
+        "num": 161859,
+        "word": "宝马称接待人员不是内部员工",
+        "onboard_time": 1682130025,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154288,
+        "num": 154288,
+        "word": "网易云十年十大金曲",
+        "onboard_time": 1682134828,
+        "rank": 38,
+        "category": "音乐,科技"
+      },
+      {
+        "raw_hot": 147414,
+        "num": 147414,
+        "word": "小动物被抓拍的瞬间好萌",
+        "onboard_time": 1682139806,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154124,
+        "num": 147265,
+        "word": "宝马回应女生在展台直播被拖走事件",
+        "onboard_time": 1682119641,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146224,
+        "num": 146224,
+        "word": "斯嘉丽说不会再演黑寡妇了",
+        "onboard_time": 1682129667,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144381,
+        "num": 144381,
+        "word": "王源像误入了盘丝洞",
+        "onboard_time": 1682131527,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141105,
+        "num": 141105,
+        "word": "尹正的脸",
+        "onboard_time": 1682141305,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137363,
+        "num": 137363,
+        "word": "抢票次次陪跑",
+        "onboard_time": 1682141247,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132279,
+        "num": 132279,
+        "word": "专八改错",
+        "onboard_time": 1682137226,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129078,
+        "num": 129078,
+        "word": "看完灌篮高手破防了",
+        "onboard_time": 1682136626,
+        "rank": 46,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 126305,
+        "num": 126305,
+        "word": "莱昂纳德",
+        "onboard_time": 1682128226,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107064,
+        "num": 107064,
+        "word": "星巴克",
+        "onboard_time": 1682126607,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 94591,
+        "num": 94591,
+        "word": "ike新衣",
+        "onboard_time": 1682139925,
+        "rank": 49,
+        "category": "动漫,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平总书记的读书心得#"
+    }
+  }
+}
