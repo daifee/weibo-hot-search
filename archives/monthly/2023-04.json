@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682180502530,
+  "endTime": 1682181432856,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -13923,6 +13923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472904,
+      "num": 406768,
+      "word": "嗯哼长大了",
+      "onboard_time": 1682180006,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472141,
       "num": 472141,
       "word": "Lisa金智秀牵手跑",
@@ -14897,6 +14905,14 @@
       "onboard_time": 1681790972,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 445660,
+      "num": 213227,
+      "word": "薛之谦突犯喉疾",
+      "onboard_time": 1682181025,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 445320,
@@ -19059,6 +19075,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 353875,
+      "num": 269932,
+      "word": "看起来体面但工资低的工作",
+      "onboard_time": 1682177912,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 353715,
       "num": 371345,
       "word": "辽宁山火",
@@ -19881,6 +19905,14 @@
       "onboard_time": 1681260088,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 337972,
+      "num": 337972,
+      "word": "INTO1 女团舞",
+      "onboard_time": 1682179107,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 337934,
@@ -21049,14 +21081,6 @@
       "onboard_time": 1681377569,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318161,
-      "num": 269932,
-      "word": "看起来体面但工资低的工作",
-      "onboard_time": 1682177912,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 317973,
@@ -23347,6 +23371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281957,
+      "num": 281957,
+      "word": "定闹钟",
+      "onboard_time": 1682178691,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281701,
       "num": 281701,
       "word": "间歇性讨厌朋友",
@@ -23385,14 +23417,6 @@
       "onboard_time": 1680763285,
       "rank": 16,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 281116,
-      "num": 281116,
-      "word": "INTO1 女团舞",
-      "onboard_time": 1682179107,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 281075,
@@ -26107,14 +26131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 245860,
-      "num": 245860,
-      "word": "定闹钟",
-      "onboard_time": 1682178691,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245829,
       "num": 241251,
       "word": "为什么大家反感专家",
@@ -27385,14 +27401,6 @@
       "onboard_time": 1681464090,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232335,
-      "num": 232335,
-      "word": "嗯哼长大了",
-      "onboard_time": 1682180006,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 232211,
@@ -30793,6 +30801,14 @@
       "onboard_time": 1681787667,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 207459,
+      "num": 207459,
+      "word": "是故意不小心还是故意的",
+      "onboard_time": 1682178090,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 207454,
@@ -41851,14 +41867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159406,
-      "num": 159406,
-      "word": "是故意不小心还是故意的",
-      "onboard_time": 1682178090,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 159329,
       "num": 159329,
       "word": "山东泗水两货车相撞十余人受伤",
@@ -45779,6 +45787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135102,
+      "num": 135102,
+      "word": "以为张婧仪在尹昉嘴边打蛋",
+      "onboard_time": 1682180187,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135055,
       "num": 135055,
       "word": "皇马vs巴拉多利德",
@@ -46753,14 +46769,6 @@
       "onboard_time": 1680598951,
       "rank": 47,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 127835,
-      "num": 127835,
-      "word": "以为张婧仪在尹昉嘴边打蛋",
-      "onboard_time": 1682180187,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 127804,
@@ -50689,6 +50697,14 @@
       "onboard_time": 1681727906,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 85010,
+      "num": 85010,
+      "word": "朋友得了忧郁症告诉父母",
+      "onboard_time": 1682181383,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 84915,

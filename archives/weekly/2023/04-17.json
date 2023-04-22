@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682180502530,
+  "endTime": 1682181432856,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -3779,6 +3779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 472904,
+      "num": 406768,
+      "word": "嗯哼长大了",
+      "onboard_time": 1682180006,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 472014,
       "num": 472014,
       "word": "李现白敬亭同框",
@@ -4049,6 +4057,14 @@
       "onboard_time": 1681740267,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 445660,
+      "num": 213227,
+      "word": "薛之谦突犯喉疾",
+      "onboard_time": 1682181025,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 445265,
@@ -5331,6 +5347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 353875,
+      "num": 269932,
+      "word": "看起来体面但工资低的工作",
+      "onboard_time": 1682177912,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 353449,
       "num": 353449,
       "word": "鹿晗重启视频情绪点拉满",
@@ -5513,6 +5537,14 @@
       "onboard_time": 1681903225,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337972,
+      "num": 337972,
+      "word": "INTO1 女团舞",
+      "onboard_time": 1682179107,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 337934,
@@ -5905,14 +5937,6 @@
       "onboard_time": 1681986748,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318161,
-      "num": 269932,
-      "word": "看起来体面但工资低的工作",
-      "onboard_time": 1682177912,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 316276,
@@ -6507,6 +6531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 281957,
+      "num": 281957,
+      "word": "定闹钟",
+      "onboard_time": 1682178691,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281701,
       "num": 281701,
       "word": "间歇性讨厌朋友",
@@ -6521,14 +6553,6 @@
       "onboard_time": 1681800867,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 281116,
-      "num": 281116,
-      "word": "INTO1 女团舞",
-      "onboard_time": 1682179107,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 280961,
@@ -7347,14 +7371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 245860,
-      "num": 245860,
-      "word": "定闹钟",
-      "onboard_time": 1682178691,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245652,
       "num": 204052,
       "word": "熊猫阿宝耳朵被七仔咬成V形",
@@ -7625,14 +7641,6 @@
       "onboard_time": 1682155827,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232335,
-      "num": 232335,
-      "word": "嗯哼长大了",
-      "onboard_time": 1682180006,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 232211,
@@ -8529,6 +8537,14 @@
       "onboard_time": 1681787667,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 207459,
+      "num": 207459,
+      "word": "是故意不小心还是故意的",
+      "onboard_time": 1682178090,
+      "rank": 38,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 207401,
@@ -11115,14 +11131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159406,
-      "num": 159406,
-      "word": "是故意不小心还是故意的",
-      "onboard_time": 1682178090,
-      "rank": 38,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 159329,
       "num": 159329,
       "word": "山东泗水两货车相撞十余人受伤",
@@ -12203,6 +12211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135102,
+      "num": 135102,
+      "word": "以为张婧仪在尹昉嘴边打蛋",
+      "onboard_time": 1682180187,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134951,
       "num": 134951,
       "word": "让人一眼就热血沸腾的电影",
@@ -12449,14 +12465,6 @@
       "onboard_time": 1681950214,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127835,
-      "num": 127835,
-      "word": "以为张婧仪在尹昉嘴边打蛋",
-      "onboard_time": 1682180187,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 127804,
@@ -13681,6 +13689,14 @@
       "onboard_time": 1681727906,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 85010,
+      "num": 85010,
+      "word": "朋友得了忧郁症告诉父母",
+      "onboard_time": 1682181383,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 84915,
