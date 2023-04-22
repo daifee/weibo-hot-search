@@ -1,0 +1,410 @@
+{
+  "runTime": 1682159607074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1669628,
+        "num": 1669628,
+        "word": "长月烬明怎么了",
+        "onboard_time": 1682155526,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540877,
+        "num": 1440991,
+        "word": "老人乘地铁用颤抖的手批改资料",
+        "onboard_time": 1682157027,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15351,
+        "num": 1212185,
+        "word": "2023中国网络媒体论坛",
+        "onboard_time": 1682136687,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1870719,
+        "num": 984933,
+        "word": "女子喝中药一周发现成分是蟑螂",
+        "onboard_time": 1682152707,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221520,
+        "num": 831322,
+        "word": "民警勇斗歹徒牺牲前画面看哭了",
+        "onboard_time": 1682150848,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715179,
+        "num": 715179,
+        "word": "向往的生活或将是最后一季",
+        "onboard_time": 1682142506,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139075,
+        "num": 664774,
+        "word": "大学老师课堂分享初恋经历",
+        "onboard_time": 1682157027,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 657723,
+        "num": 657723,
+        "word": "高叶 礼服把我鲨疯了",
+        "onboard_time": 1682147608,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 572692,
+        "num": 572692,
+        "word": "赵继伟 晴子咋这样了",
+        "onboard_time": 1682150786,
+        "rank": 8,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 555338,
+        "num": 555338,
+        "word": "孝庄秘史 抄袭",
+        "onboard_time": 1682144906,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 711120,
+        "num": 501384,
+        "word": "杨幂的耳骨钉",
+        "onboard_time": 1682156788,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 408548,
+        "num": 408548,
+        "word": "祝绪丹两部待播剧男主",
+        "onboard_time": 1682157807,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 380406,
+        "num": 380406,
+        "word": "张卫健从河里捞的东西逐渐离谱了",
+        "onboard_time": 1682149887,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335258,
+        "num": 335258,
+        "word": "铁路曾试行女性包厢但匆匆退市",
+        "onboard_time": 1682152885,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306843,
+        "num": 306843,
+        "word": "王源欧阳娜娜MV相似度",
+        "onboard_time": 1682158528,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299202,
+        "num": 299202,
+        "word": "灌篮高手",
+        "onboard_time": 1682147967,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 293249,
+        "num": 293249,
+        "word": "这件旗袍为她筛选掉了不好的人",
+        "onboard_time": 1682145267,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280164,
+        "num": 280164,
+        "word": "女孩子真的越长大越没有家吗",
+        "onboard_time": 1682143886,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219175,
+        "num": 219175,
+        "word": "台湾地震",
+        "onboard_time": 1682141425,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203740,
+        "num": 203740,
+        "word": "只有刘耀文穿了袜子",
+        "onboard_time": 1682152948,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270799,
+        "num": 201080,
+        "word": "因为喝水太多被领导提意见了",
+        "onboard_time": 1682156368,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 269051,
+        "num": 197774,
+        "word": "主办方回应上海车展禁止送冰淇淋",
+        "onboard_time": 1682155108,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233161,
+        "num": 195370,
+        "word": "程潇秒猜迪丽热巴冷笑话谐音梗",
+        "onboard_time": 1682155827,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207014,
+        "num": 190455,
+        "word": "熊猫阿宝耳朵被七仔咬成V形",
+        "onboard_time": 1682156908,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189990,
+        "num": 189990,
+        "word": "周也王鹤棣VS周也陈飞宇",
+        "onboard_time": 1682149168,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185357,
+        "num": 185357,
+        "word": "刘宇宁片场跳flower",
+        "onboard_time": 1682155226,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177023,
+        "num": 177023,
+        "word": "长期不吃晚饭的怎么样了",
+        "onboard_time": 1682135187,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 188622,
+        "num": 174658,
+        "word": "公司五一放三天同事离职了",
+        "onboard_time": 1682130867,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163194,
+        "num": 163194,
+        "word": "长月烬明带动安徽旅游经济",
+        "onboard_time": 1682158648,
+        "rank": 28,
+        "category": "旅游,影视"
+      },
+      {
+        "raw_hot": 147482,
+        "num": 147482,
+        "word": "男子一口气买8公斤金条藏厕所楼道",
+        "onboard_time": 1682147366,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453659,
+        "num": 147453,
+        "word": "当事人要求宝马MINI道歉",
+        "onboard_time": 1682147007,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140677,
+        "num": 140677,
+        "word": "LGD战胜DRG",
+        "onboard_time": 1682159247,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140396,
+        "num": 140396,
+        "word": "张杰郑州 秒没",
+        "onboard_time": 1682139925,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138080,
+        "num": 138080,
+        "word": "胡先煦眼角肿了",
+        "onboard_time": 1682151265,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136559,
+        "num": 136559,
+        "word": "灌篮高手票房破3亿",
+        "onboard_time": 1682148028,
+        "rank": 34,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 131790,
+        "num": 131790,
+        "word": "INTO1全员呼吁粉丝不要带灯牌",
+        "onboard_time": 1682148808,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125663,
+        "num": 125663,
+        "word": "淄博鸭货店小哥回应因帅气走红",
+        "onboard_time": 1682143526,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122557,
+        "num": 122557,
+        "word": "路边的雄性生物不要捡",
+        "onboard_time": 1682148267,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122452,
+        "num": 122452,
+        "word": "罗云熙白鹿说长月烬明下周更虐",
+        "onboard_time": 1682148028,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119809,
+        "num": 119809,
+        "word": "cp圈必备神文",
+        "onboard_time": 1682152527,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118806,
+        "num": 118806,
+        "word": "瑞幸 罚抄",
+        "onboard_time": 1682133208,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117876,
+        "num": 117876,
+        "word": "女子乘奔驰下乡顺走一只鸭",
+        "onboard_time": 1682153187,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109799,
+        "num": 109799,
+        "word": "虞书欣美国库存照",
+        "onboard_time": 1682143825,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107765,
+        "num": 107765,
+        "word": "灌篮高手首日票房超1亿",
+        "onboard_time": 1682146223,
+        "rank": 43,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 107518,
+        "num": 107518,
+        "word": "李晨 对任何人都是尊重的",
+        "onboard_time": 1682129967,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105501,
+        "num": 105501,
+        "word": "骂领导傻悲不小心发到工作群",
+        "onboard_time": 1682149284,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101413,
+        "num": 101413,
+        "word": "流川枫",
+        "onboard_time": 1682145207,
+        "rank": 46,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 93680,
+        "num": 101405,
+        "word": "专八 写不完",
+        "onboard_time": 1682137650,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83401,
+        "num": 101403,
+        "word": "胡歌为李佳航新剧打call",
+        "onboard_time": 1682147967,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 81575,
+        "num": 101394,
+        "word": "代号鸢",
+        "onboard_time": 1682148927,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平总书记的读书心得#"
+    }
+  }
+}
