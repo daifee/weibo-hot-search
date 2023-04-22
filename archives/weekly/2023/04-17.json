@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682134428370,
+  "endTime": 1682137244692,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2184037,
+      "num": 2184037,
+      "word": "李晨 对任何人都是尊重的",
+      "onboard_time": 1682129967,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2155605,
       "num": 382295,
       "word": "宝马mini两名发冰淇淋女生已离职",
@@ -713,14 +721,6 @@
       "onboard_time": 1682047467,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1615192,
-      "num": 1615192,
-      "word": "李晨 对任何人都是尊重的",
-      "onboard_time": 1682129967,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1609226,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1125198,
+      "num": 1125198,
+      "word": "瑞幸 罚抄",
+      "onboard_time": 1682133208,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1120934,
       "num": 717963,
       "word": "杜华你好大的福气",
@@ -1275,12 +1283,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1042582,
+      "num": 1042582,
+      "word": "公司五一放三天同事离职了",
+      "onboard_time": 1682130867,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1030624,
       "num": 996971,
       "word": "SpaceX星舰今晚重新发射",
       "onboard_time": 1681997311,
       "rank": 4,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1024509,
+      "num": 1024509,
+      "word": "被今年的就业难度震惊到",
+      "onboard_time": 1682132968,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 1019871,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1681984890,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 939808,
+      "num": 939808,
+      "word": "张颂文高叶再现狂飙拥抱",
+      "onboard_time": 1682133690,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 937514,
@@ -1769,14 +1801,6 @@
       "onboard_time": 1682007746,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 830373,
-      "num": 830373,
-      "word": "公司五一放三天同事离职了",
-      "onboard_time": 1682130867,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 829439,
@@ -2483,28 +2507,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 619153,
-      "num": 619153,
-      "word": "瑞幸 罚抄",
-      "onboard_time": 1682133208,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 618939,
       "num": 618939,
       "word": "如何看待娱乐圈艺人大量接活",
       "onboard_time": 1681970489,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 618678,
-      "num": 618678,
-      "word": "张颂文高叶再现狂飙拥抱",
-      "onboard_time": 1682133690,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 617523,
@@ -3115,6 +3123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 505877,
+      "num": 505877,
+      "word": "男孩被拖行后第一句是爸爸不要怪我",
+      "onboard_time": 1682132187,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503805,
       "num": 503805,
       "word": "李泰民悼念文彬",
@@ -3169,6 +3185,14 @@
       "onboard_time": 1681952614,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494045,
+      "num": 494045,
+      "word": "长期不吃晚饭的怎么样了",
+      "onboard_time": 1682135187,
+      "rank": 9,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 493218,
@@ -3659,14 +3683,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 444852,
-      "num": 444852,
-      "word": "被今年的就业难度震惊到",
-      "onboard_time": 1682132968,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 444569,
       "num": 444569,
       "word": "乐华娱乐股票大涨",
@@ -3841,6 +3857,14 @@
       "onboard_time": 1682056945,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 419120,
+      "num": 419120,
+      "word": "长峰医院火灾在院治疗39人危重4人",
+      "onboard_time": 1682134109,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418990,
@@ -4032,14 +4056,6 @@
       "word": "岸田文雄向靖国神社供奉祭品",
       "onboard_time": 1682051192,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402313,
-      "num": 402313,
-      "word": "男孩被拖行后第一句是爸爸不要怪我",
-      "onboard_time": 1682132187,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -4675,6 +4691,14 @@
       "category": "幽默,音乐"
     },
     {
+      "raw_hot": 361505,
+      "num": 361505,
+      "word": "老番茄求婚戒指",
+      "onboard_time": 1682131886,
+      "rank": 22,
+      "category": "游戏,自然"
+    },
+    {
       "raw_hot": 361400,
       "num": 271706,
       "word": "迪丽热巴新剧过审",
@@ -5219,6 +5243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 322654,
+      "num": 322654,
+      "word": "专升本",
+      "onboard_time": 1682135608,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 322573,
       "num": 322573,
       "word": "男子淄博烧烤摊醉酒闹事被秒带走",
@@ -5435,6 +5467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310749,
+      "num": 310749,
+      "word": "网文作者属不属于作家范畴",
+      "onboard_time": 1682135785,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310061,
       "num": 260576,
       "word": "罗云熙扛白鹿",
@@ -5579,6 +5619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297261,
+      "num": 297261,
+      "word": "肖战三年72场话剧",
+      "onboard_time": 1682136385,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 297058,
       "num": 297058,
       "word": "长期戴耳机",
@@ -5681,6 +5729,14 @@
       "onboard_time": 1681972709,
       "rank": 14,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 290889,
+      "num": 290889,
+      "word": "专八答案",
+      "onboard_time": 1682133927,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 290800,
@@ -6003,14 +6059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276135,
-      "num": 276135,
-      "word": "老番茄求婚戒指",
-      "onboard_time": 1682131886,
-      "rank": 22,
-      "category": "游戏,自然"
-    },
-    {
       "raw_hot": 275994,
       "num": 275994,
       "word": "张镇麟战斧隔扣",
@@ -6163,20 +6211,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267255,
+      "num": 217125,
+      "word": "第一次当婆婆没啥经验",
+      "onboard_time": 1682132788,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 267221,
       "num": 267221,
       "word": "公孙离新皮肤首曝",
       "onboard_time": 1681909587,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 266965,
-      "num": 266965,
-      "word": "专八答案",
-      "onboard_time": 1682133927,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 266606,
@@ -6449,6 +6497,14 @@
       "onboard_time": 1682055989,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251608,
+      "num": 251608,
+      "word": "常熟实行工资全额数字人民币发放",
+      "onboard_time": 1682135067,
+      "rank": 25,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 251179,
@@ -6785,14 +6841,6 @@
       "onboard_time": 1681890807,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 232865,
-      "num": 232865,
-      "word": "长峰医院火灾在院治疗39人危重4人",
-      "onboard_time": 1682134109,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232211,
@@ -7201,14 +7249,6 @@
       "onboard_time": 1681641927,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217891,
-      "num": 195319,
-      "word": "第一次当婆婆没啥经验",
-      "onboard_time": 1682132788,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 217320,
@@ -8587,6 +8627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190986,
+      "num": 190986,
+      "word": "易烊千玺刘艳芬预告音频",
+      "onboard_time": 1682131946,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190559,
       "num": 190559,
       "word": "光明日报评追熊猫不宜饭圈化",
@@ -9171,14 +9219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179907,
-      "num": 179907,
-      "word": "易烊千玺刘艳芬预告音频",
-      "onboard_time": 1682131946,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 179756,
       "num": 179756,
       "word": "国内首个机场音乐节",
@@ -9243,12 +9283,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179338,
+      "num": 179338,
+      "word": "专八改错",
+      "onboard_time": 1682137226,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 179296,
       "num": 155267,
       "word": "张小斐小心青城山的蚊子",
       "onboard_time": 1682004812,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179079,
+      "num": 179079,
+      "word": "邓超陈赫rap",
+      "onboard_time": 1682136327,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 178073,
@@ -9401,6 +9457,14 @@
       "onboard_time": 1682061749,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172891,
+      "num": 172891,
+      "word": "结婚一年新鲜感还有多少",
+      "onboard_time": 1682136747,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 172805,
@@ -9627,6 +9691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166218,
+      "num": 166218,
+      "word": "浙江专升本",
+      "onboard_time": 1682137168,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 165840,
       "num": 212100,
       "word": "又一个中国技术登顶全球",
@@ -9641,6 +9713,14 @@
       "onboard_time": 1681724846,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165542,
+      "num": 165542,
+      "word": "Tangoz去了INTO1演唱会",
+      "onboard_time": 1682134647,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 165496,
@@ -10059,6 +10139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155145,
+      "num": 155145,
+      "word": "专八阅读",
+      "onboard_time": 1682135608,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155110,
       "num": 220287,
       "word": "下班需要带电脑回家吗",
@@ -10217,6 +10305,14 @@
       "onboard_time": 1681707155,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150900,
+      "num": 150900,
+      "word": "姜涩琪把应援棒甩出去了",
+      "onboard_time": 1682133866,
+      "rank": 44,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 150809,
@@ -10571,14 +10667,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 142508,
-      "num": 142508,
-      "word": "姜涩琪把应援棒甩出去了",
-      "onboard_time": 1682133866,
-      "rank": 44,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 142281,
       "num": 142281,
       "word": "蔡徐坤 CRYSTAL CLEAR",
@@ -10827,6 +10915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136114,
+      "num": 136114,
+      "word": "张国政顽童分手",
+      "onboard_time": 1682137226,
+      "rank": 44,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 135895,
       "num": 264245,
       "word": "过去一年你读了几本书",
@@ -11009,6 +11105,14 @@
       "onboard_time": 1681721424,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129717,
+      "num": 129717,
+      "word": "看完灌篮高手破防了",
+      "onboard_time": 1682136626,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 129690,
@@ -11355,6 +11459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120672,
+      "num": 120672,
+      "word": "网易云十年十大金曲",
+      "onboard_time": 1682134828,
+      "rank": 49,
+      "category": "音乐,科技"
+    },
+    {
       "raw_hot": 120591,
       "num": 204359,
       "word": "买车喜欢标配还是定制化",
@@ -11633,6 +11745,14 @@
       "onboard_time": 1681719626,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109648,
+      "num": 381283,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1682136026,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 109620,
@@ -12659,6 +12779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37092,
+      "num": 1070242,
+      "word": "2023中国网络媒体论坛",
+      "onboard_time": 1682136687,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 36332,
       "num": 160062,
       "word": "癸卯年黄帝故里拜祖大典",
@@ -12814,6 +12942,9 @@
     },
     {
       "word": "#2023中国网络媒体论坛#"
+    },
+    {
+      "word": "#重温习近平总书记的读书心得#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1682137244692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2184037,
+        "num": 2184037,
+        "word": "李晨 对任何人都是尊重的",
+        "onboard_time": 1682129967,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1125198,
+        "num": 1125198,
+        "word": "瑞幸 罚抄",
+        "onboard_time": 1682133208,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37092,
+        "num": 1070242,
+        "word": "2023中国网络媒体论坛",
+        "onboard_time": 1682136687,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1042582,
+        "num": 1042582,
+        "word": "公司五一放三天同事离职了",
+        "onboard_time": 1682130867,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1024509,
+        "num": 1024509,
+        "word": "被今年的就业难度震惊到",
+        "onboard_time": 1682132968,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 939808,
+        "num": 939808,
+        "word": "张颂文高叶再现狂飙拥抱",
+        "onboard_time": 1682133690,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 860655,
+        "num": 860655,
+        "word": "陈飞宇 周也",
+        "onboard_time": 1682124388,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583095,
+        "num": 583095,
+        "word": "专八",
+        "onboard_time": 1682133329,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 505877,
+        "num": 505877,
+        "word": "男孩被拖行后第一句是爸爸不要怪我",
+        "onboard_time": 1682132187,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494045,
+        "num": 494045,
+        "word": "长期不吃晚饭的怎么样了",
+        "onboard_time": 1682135187,
+        "rank": 9,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 859728,
+        "num": 482512,
+        "word": "新加坡鞭刑",
+        "onboard_time": 1682125109,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459523,
+        "num": 459523,
+        "word": "李兰迪 女儿国国王",
+        "onboard_time": 1682131347,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441367,
+        "num": 441367,
+        "word": "杨幂站姐放出原图",
+        "onboard_time": 1682118737,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419120,
+        "num": 419120,
+        "word": "长峰医院火灾在院治疗39人危重4人",
+        "onboard_time": 1682134109,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109648,
+        "num": 381283,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1682136026,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 380928,
+        "num": 380928,
+        "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
+        "onboard_time": 1682128649,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361505,
+        "num": 361505,
+        "word": "老番茄求婚戒指",
+        "onboard_time": 1682131886,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 357939,
+        "num": 357939,
+        "word": "陈都灵礼服开线了",
+        "onboard_time": 1682118798,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357912,
+        "num": 357912,
+        "word": "曾可妮拔四颗智齿",
+        "onboard_time": 1682132367,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354506,
+        "num": 354506,
+        "word": "宝马mini称两名女生离职消息不实",
+        "onboard_time": 1682089831,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 322654,
+        "num": 322654,
+        "word": "专升本",
+        "onboard_time": 1682135608,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 310749,
+        "num": 310749,
+        "word": "网文作者属不属于作家范畴",
+        "onboard_time": 1682135785,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297261,
+        "num": 297261,
+        "word": "肖战三年72场话剧",
+        "onboard_time": 1682136385,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290889,
+        "num": 290889,
+        "word": "专八答案",
+        "onboard_time": 1682133927,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278092,
+        "num": 278092,
+        "word": "王源像误入了盘丝洞",
+        "onboard_time": 1682131527,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251608,
+        "num": 251608,
+        "word": "常熟实行工资全额数字人民币发放",
+        "onboard_time": 1682135067,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 244552,
+        "num": 244552,
+        "word": "印度男子性骚扰韩国女游客",
+        "onboard_time": 1682125109,
+        "rank": 26,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 226570,
+        "num": 226570,
+        "word": "宝马回应女生在展台直播被拖走事件",
+        "onboard_time": 1682119641,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221027,
+        "num": 221027,
+        "word": "斯嘉丽说不会再演黑寡妇了",
+        "onboard_time": 1682129667,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219081,
+        "num": 219081,
+        "word": "火腿肠为什么走向没落了",
+        "onboard_time": 1682126848,
+        "rank": 29,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 267255,
+        "num": 217125,
+        "word": "第一次当婆婆没啥经验",
+        "onboard_time": 1682132788,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 202616,
+        "num": 202616,
+        "word": "星巴克",
+        "onboard_time": 1682126607,
+        "rank": 31,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 199037,
+        "num": 199037,
+        "word": "宝马称接待人员不是内部员工",
+        "onboard_time": 1682130025,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195760,
+        "num": 195760,
+        "word": "莱昂纳德",
+        "onboard_time": 1682128226,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190986,
+        "num": 190986,
+        "word": "易烊千玺刘艳芬预告音频",
+        "onboard_time": 1682131946,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179338,
+        "num": 179338,
+        "word": "专八改错",
+        "onboard_time": 1682137226,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179079,
+        "num": 179079,
+        "word": "邓超陈赫rap",
+        "onboard_time": 1682136327,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172891,
+        "num": 172891,
+        "word": "结婚一年新鲜感还有多少",
+        "onboard_time": 1682136747,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166218,
+        "num": 166218,
+        "word": "浙江专升本",
+        "onboard_time": 1682137168,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165542,
+        "num": 165542,
+        "word": "Tangoz去了INTO1演唱会",
+        "onboard_time": 1682134647,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155145,
+        "num": 155145,
+        "word": "专八阅读",
+        "onboard_time": 1682135608,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150900,
+        "num": 150900,
+        "word": "姜涩琪把应援棒甩出去了",
+        "onboard_time": 1682133866,
+        "rank": 41,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 142506,
+        "num": 142506,
+        "word": "老番茄求婚",
+        "onboard_time": 1682082869,
+        "rank": 42,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 136742,
+        "num": 136742,
+        "word": "今天好多明星演唱会抢票",
+        "onboard_time": 1682127329,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136114,
+        "num": 136114,
+        "word": "张国政顽童分手",
+        "onboard_time": 1682137226,
+        "rank": 44,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 134474,
+        "num": 134474,
+        "word": "胡先煦回应发腮",
+        "onboard_time": 1682090970,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130913,
+        "num": 130913,
+        "word": "章昊以为自己是第二名",
+        "onboard_time": 1682121144,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129717,
+        "num": 129717,
+        "word": "看完灌篮高手破防了",
+        "onboard_time": 1682136626,
+        "rank": 47,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 121107,
+        "num": 121107,
+        "word": "入职前一天被HR提醒骗子公司别来",
+        "onboard_time": 1682122885,
+        "rank": 48,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 120672,
+        "num": 120672,
+        "word": "网易云十年十大金曲",
+        "onboard_time": 1682134828,
+        "rank": 49,
+        "category": "音乐,科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平总书记的读书心得#"
+    }
+  }
+}

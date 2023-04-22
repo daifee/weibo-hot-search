@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682134428370,
+  "endTime": 1682137244692,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -8,6 +8,14 @@
       "word": "李晨 女生是累赘",
       "onboard_time": 1682094505,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2184037,
+      "num": 2184037,
+      "word": "李晨 对任何人都是尊重的",
+      "onboard_time": 1682129967,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -35,14 +43,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1615192,
-      "num": 1615192,
-      "word": "李晨 对任何人都是尊重的",
-      "onboard_time": 1682129967,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1537599,
       "num": 532366,
       "word": "杨幂站姐放出原图",
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1125198,
+      "num": 1125198,
+      "word": "瑞幸 罚抄",
+      "onboard_time": 1682133208,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1116640,
       "num": 361628,
       "word": "失业女生摆摊一天卖5块崩溃痛哭",
@@ -83,12 +91,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1042582,
+      "num": 1042582,
+      "word": "公司五一放三天同事离职了",
+      "onboard_time": 1682130867,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1024509,
+      "num": 1024509,
+      "word": "被今年的就业难度震惊到",
+      "onboard_time": 1682132968,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 976220,
       "num": 976220,
       "word": "宝马mini称两名女生离职消息不实",
       "onboard_time": 1682089831,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 939808,
+      "num": 939808,
+      "word": "张颂文高叶再现狂飙拥抱",
+      "onboard_time": 1682133690,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 937514,
@@ -105,14 +137,6 @@
       "onboard_time": 1682128649,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 830373,
-      "num": 830373,
-      "word": "公司五一放三天同事离职了",
-      "onboard_time": 1682130867,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 805434,
@@ -153,22 +177,6 @@
       "onboard_time": 1682122586,
       "rank": 6,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 619153,
-      "num": 619153,
-      "word": "瑞幸 罚抄",
-      "onboard_time": 1682133208,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 618678,
-      "num": 618678,
-      "word": "张颂文高叶再现狂飙拥抱",
-      "onboard_time": 1682133690,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 617436,
@@ -227,6 +235,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 505877,
+      "num": 505877,
+      "word": "男孩被拖行后第一句是爸爸不要怪我",
+      "onboard_time": 1682132187,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494045,
+      "num": 494045,
+      "word": "长期不吃晚饭的怎么样了",
+      "onboard_time": 1682135187,
+      "rank": 9,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 484603,
       "num": 484603,
       "word": "火腿肠为什么走向没落了",
@@ -241,14 +265,6 @@
       "onboard_time": 1682091209,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444852,
-      "num": 444852,
-      "word": "被今年的就业难度震惊到",
-      "onboard_time": 1682132968,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 444051,
@@ -275,20 +291,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 419120,
+      "num": 419120,
+      "word": "长峰医院火灾在院治疗39人危重4人",
+      "onboard_time": 1682134109,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405079,
       "num": 405079,
       "word": "王源像误入了盘丝洞",
       "onboard_time": 1682131527,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402313,
-      "num": 402313,
-      "word": "男孩被拖行后第一句是爸爸不要怪我",
-      "onboard_time": 1682132187,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399176,
@@ -339,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361505,
+      "num": 361505,
+      "word": "老番茄求婚戒指",
+      "onboard_time": 1682131886,
+      "rank": 22,
+      "category": "游戏,自然"
+    },
+    {
       "raw_hot": 355276,
       "num": 355276,
       "word": "杭州男子失踪7天找到时已失温",
@@ -371,11 +395,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322654,
+      "num": 322654,
+      "word": "专升本",
+      "onboard_time": 1682135608,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 318581,
       "num": 318581,
       "word": "宝马回应女生在展台直播被拖走事件",
       "onboard_time": 1682119641,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310749,
+      "num": 310749,
+      "word": "网文作者属不属于作家范畴",
+      "onboard_time": 1682135785,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -385,6 +425,22 @@
       "onboard_time": 1682126607,
       "rank": 41,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 297261,
+      "num": 297261,
+      "word": "肖战三年72场话剧",
+      "onboard_time": 1682136385,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 290889,
+      "num": 290889,
+      "word": "专八答案",
+      "onboard_time": 1682133927,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 289320,
@@ -419,14 +475,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 276135,
-      "num": 276135,
-      "word": "老番茄求婚戒指",
-      "onboard_time": 1682131886,
-      "rank": 22,
-      "category": "游戏,自然"
-    },
-    {
       "raw_hot": 268340,
       "num": 268340,
       "word": "肯尼迪侄子演讲不停夸中国喷美国",
@@ -435,12 +483,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 266965,
-      "num": 266965,
-      "word": "专八答案",
-      "onboard_time": 1682133927,
-      "rank": 24,
-      "category": "教育"
+      "raw_hot": 267255,
+      "num": 217125,
+      "word": "第一次当婆婆没啥经验",
+      "onboard_time": 1682132788,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 263833,
@@ -465,6 +513,14 @@
       "onboard_time": 1682122104,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 251608,
+      "num": 251608,
+      "word": "常熟实行工资全额数字人民币发放",
+      "onboard_time": 1682135067,
+      "rank": 25,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 249225,
@@ -515,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 232865,
-      "num": 232865,
-      "word": "长峰医院火灾在院治疗39人危重4人",
-      "onboard_time": 1682134109,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230869,
       "num": 230869,
       "word": "招财猫原来不是假的",
@@ -561,14 +609,6 @@
       "onboard_time": 1682126907,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217891,
-      "num": 195319,
-      "word": "第一次当婆婆没啥经验",
-      "onboard_time": 1682132788,
-      "rank": 36,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 213820,
@@ -619,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190986,
+      "num": 190986,
+      "word": "易烊千玺刘艳芬预告音频",
+      "onboard_time": 1682131946,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189409,
       "num": 189409,
       "word": "芝士香橙熔岩吐司",
@@ -643,20 +691,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179907,
-      "num": 179907,
-      "word": "易烊千玺刘艳芬预告音频",
-      "onboard_time": 1682131946,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 179383,
       "num": 179383,
       "word": "薛之谦慢半拍被伴舞扛在肩上",
       "onboard_time": 1682122644,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179338,
+      "num": 179338,
+      "word": "专八改错",
+      "onboard_time": 1682137226,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 179079,
+      "num": 179079,
+      "word": "邓超陈赫rap",
+      "onboard_time": 1682136327,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 178163,
@@ -689,6 +745,14 @@
       "onboard_time": 1682132788,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172891,
+      "num": 172891,
+      "word": "结婚一年新鲜感还有多少",
+      "onboard_time": 1682136747,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 172787,
@@ -731,6 +795,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166218,
+      "num": 166218,
+      "word": "浙江专升本",
+      "onboard_time": 1682137168,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 165542,
+      "num": 165542,
+      "word": "Tangoz去了INTO1演唱会",
+      "onboard_time": 1682134647,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164980,
       "num": 164980,
       "word": "王一博雷宇训练花絮视频",
@@ -771,12 +851,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 155145,
+      "num": 155145,
+      "word": "专八阅读",
+      "onboard_time": 1682135608,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152087,
       "num": 152087,
       "word": "宝马4S店弄坏客户摩托后私换零件",
       "onboard_time": 1682118137,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150900,
+      "num": 150900,
+      "word": "姜涩琪把应援棒甩出去了",
+      "onboard_time": 1682133866,
+      "rank": 44,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 150513,
@@ -819,14 +915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 142508,
-      "num": 142508,
-      "word": "姜涩琪把应援棒甩出去了",
-      "onboard_time": 1682133866,
-      "rank": 44,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 141494,
       "num": 141494,
       "word": "篮球场假摔求婚",
@@ -851,12 +939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136114,
+      "num": 136114,
+      "word": "张国政顽童分手",
+      "onboard_time": 1682137226,
+      "rank": 44,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 131028,
       "num": 131028,
       "word": "山东专升本",
       "onboard_time": 1682134347,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129717,
+      "num": 129717,
+      "word": "看完灌篮高手破防了",
+      "onboard_time": 1682136626,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 127704,
@@ -889,6 +993,14 @@
       "onboard_time": 1682084613,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120672,
+      "num": 120672,
+      "word": "网易云十年十大金曲",
+      "onboard_time": 1682134828,
+      "rank": 49,
+      "category": "音乐,科技"
     },
     {
       "raw_hot": 115725,
@@ -937,6 +1049,14 @@
       "onboard_time": 1682123005,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109648,
+      "num": 381283,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1682136026,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 108751,
@@ -1131,6 +1251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37092,
+      "num": 1070242,
+      "word": "2023中国网络媒体论坛",
+      "onboard_time": 1682136687,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 36332,
       "num": 160062,
       "word": "癸卯年黄帝故里拜祖大典",
@@ -1172,6 +1300,9 @@
     },
     {
       "word": "#2023中国网络媒体论坛#"
+    },
+    {
+      "word": "#重温习近平总书记的读书心得#"
     }
   ]
 }
