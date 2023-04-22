@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682163205027,
+  "endTime": 1682166665586,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -811,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1536936,
+      "num": 1536936,
+      "word": "月收入过万是什么水平",
+      "onboard_time": 1682161948,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1536016,
       "num": 1536016,
       "word": "哇唧唧哇 空座",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1682035710,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1167478,
+      "num": 1167478,
+      "word": "王源演唱会门票",
+      "onboard_time": 1682164949,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1159971,
@@ -1699,6 +1715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 897788,
+      "num": 897788,
+      "word": "李晨需要道歉吗",
+      "onboard_time": 1682160268,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 894114,
       "num": 894114,
       "word": "数名外籍女子晒中国游引出偷渡案",
@@ -2057,6 +2081,14 @@
       "onboard_time": 1682079270,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 752077,
+      "num": 752077,
+      "word": "刘宇宁把家人说成家人们",
+      "onboard_time": 1682163749,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 748742,
@@ -3115,6 +3147,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 532194,
+      "num": 300589,
+      "word": "虞书欣 刘虞佳",
+      "onboard_time": 1682160268,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531808,
       "num": 531808,
       "word": "小米发布会",
@@ -3675,14 +3715,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 460866,
-      "num": 460866,
-      "word": "李晨需要道歉吗",
-      "onboard_time": 1682160268,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 460375,
       "num": 460375,
       "word": "什么工作可以上半年休半年",
@@ -3881,6 +3913,14 @@
       "onboard_time": 1682129667,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443373,
+      "num": 443373,
+      "word": "淄博烧烤",
+      "onboard_time": 1681810466,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440657,
@@ -5835,6 +5875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300937,
+      "num": 191544,
+      "word": "何悯鸿怀孕还要给戚牧做保姆",
+      "onboard_time": 1682164949,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300545,
       "num": 300545,
       "word": "章昊带领教资走出国门",
@@ -6100,7 +6148,7 @@
     },
     {
       "raw_hot": 287894,
-      "num": 149630,
+      "num": 182693,
       "word": "郑州地铁因李荣浩演唱会调整运营时间",
       "onboard_time": 1682162068,
       "rank": 31,
@@ -6321,14 +6369,6 @@
       "onboard_time": 1681746684,
       "rank": 23,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 279124,
-      "num": 167360,
-      "word": "虞书欣 刘虞佳",
-      "onboard_time": 1682160268,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 277943,
@@ -6803,6 +6843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253820,
+      "num": 253820,
+      "word": "天霸春决总冠军",
+      "onboard_time": 1682166149,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253716,
       "num": 253716,
       "word": "江疏影回应在桃花坞摔屁股蹲",
@@ -6931,14 +6979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 249571,
-      "num": 165635,
-      "word": "月收入过万是什么水平",
-      "onboard_time": 1682161948,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 248408,
       "num": 248408,
       "word": "长月烬明预告",
@@ -7025,6 +7065,14 @@
       "onboard_time": 1682156908,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245471,
+      "num": 183389,
+      "word": "王曼昱晋级澳门赛决赛",
+      "onboard_time": 1682166570,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 244970,
@@ -7635,6 +7683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220020,
+      "num": 190665,
+      "word": "明日方舟直播",
+      "onboard_time": 1682162428,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219500,
       "num": 219500,
       "word": "Hero零封TES",
@@ -7812,7 +7868,7 @@
     },
     {
       "raw_hot": 213764,
-      "num": 156951,
+      "num": 188860,
       "word": "史策是王皓最好的医美",
       "onboard_time": 1682161648,
       "rank": 36,
@@ -8827,14 +8883,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 195397,
-      "num": 159559,
-      "word": "明日方舟直播",
-      "onboard_time": 1682162428,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 195123,
       "num": 195123,
       "word": "王一博被金靖逗到笑场",
@@ -9507,14 +9555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 185527,
-      "num": 185527,
-      "word": "淄博烧烤",
-      "onboard_time": 1681810466,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185507,
       "num": 185507,
       "word": "阮佳",
@@ -10104,6 +10144,14 @@
       "word": "老师出门散步顺手救了个人",
       "onboard_time": 1681781608,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171661,
+      "num": 222777,
+      "word": "百亿补贴杀疯了",
+      "onboard_time": 1682160268,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -11283,6 +11331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143924,
+      "num": 187774,
+      "word": "武磊绝杀",
+      "onboard_time": 1682162309,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143577,
       "num": 143577,
       "word": "逆水寒鸿音提前登陆老兵服",
@@ -11609,6 +11665,14 @@
       "onboard_time": 1682065414,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136760,
+      "num": 186065,
+      "word": "女子坚持足月生产诞下双胞胎后病危",
+      "onboard_time": 1682166450,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136337,
@@ -12131,6 +12195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 121924,
+      "num": 121924,
+      "word": "你好星期六",
+      "onboard_time": 1682165368,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121602,
       "num": 199834,
       "word": "吴冠希说努力化为泡影",
@@ -12257,6 +12329,14 @@
       "onboard_time": 1681633166,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118298,
+      "num": 118298,
+      "word": "向往的生活笑声预告",
+      "onboard_time": 1682164350,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 118126,
@@ -12443,6 +12523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110296,
+      "num": 110296,
+      "word": "按性别分配软卧车厢有必要吗",
+      "onboard_time": 1682166209,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 110210,
       "num": 110210,
       "word": "剧好听的歌有好多人啊",
@@ -12473,14 +12561,6 @@
       "onboard_time": 1681719626,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 109667,
-      "num": 109667,
-      "word": "武磊绝杀",
-      "onboard_time": 1682162309,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 109659,
@@ -13033,14 +13113,6 @@
       "onboard_time": 1681688184,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 89189,
-      "num": 101049,
-      "word": "百亿补贴杀疯了",
-      "onboard_time": 1682160268,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88340,

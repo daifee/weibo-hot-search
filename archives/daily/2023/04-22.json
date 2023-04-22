@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682163205027,
+  "endTime": 1682166665586,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1536936,
+      "num": 1536936,
+      "word": "月收入过万是什么水平",
+      "onboard_time": 1682161948,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1315956,
       "num": 1315956,
       "word": "专八",
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1167478,
+      "num": 1167478,
+      "word": "王源演唱会门票",
+      "onboard_time": 1682164949,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1116640,
       "num": 361628,
       "word": "失业女生摆摊一天卖5块崩溃痛哭",
@@ -195,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897788,
+      "num": 897788,
+      "word": "李晨需要道歉吗",
+      "onboard_time": 1682160268,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812484,
       "num": 812484,
       "word": "长期不吃晚饭的怎么样了",
@@ -241,6 +265,14 @@
       "onboard_time": 1682150786,
       "rank": 31,
       "category": "体育,影视"
+    },
+    {
+      "raw_hot": 752077,
+      "num": 752077,
+      "word": "刘宇宁把家人说成家人们",
+      "onboard_time": 1682163749,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 746183,
@@ -387,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 532194,
+      "num": 300589,
+      "word": "虞书欣 刘虞佳",
+      "onboard_time": 1682160268,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530333,
       "num": 530333,
       "word": "周也王鹤棣VS周也陈飞宇",
@@ -435,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460866,
-      "num": 460866,
-      "word": "李晨需要道歉吗",
-      "onboard_time": 1682160268,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 444051,
       "num": 444051,
       "word": "斯嘉丽说不会再演黑寡妇了",
       "onboard_time": 1682129667,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443373,
+      "num": 443373,
+      "word": "淄博烧烤",
+      "onboard_time": 1682163688,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434191,
@@ -707,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 300937,
+      "num": 191544,
+      "word": "何悯鸿怀孕还要给戚牧做保姆",
+      "onboard_time": 1682164949,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 296954,
       "num": 285178,
       "word": "胡歌为李佳航新剧打call",
@@ -732,7 +780,7 @@
     },
     {
       "raw_hot": 287894,
-      "num": 149630,
+      "num": 182693,
       "word": "郑州地铁因李荣浩演唱会调整运营时间",
       "onboard_time": 1682162068,
       "rank": 31,
@@ -753,14 +801,6 @@
       "onboard_time": 1682120602,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279124,
-      "num": 167360,
-      "word": "虞书欣 刘虞佳",
-      "onboard_time": 1682160268,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 277648,
@@ -875,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253820,
+      "num": 253820,
+      "word": "天霸春决总冠军",
+      "onboard_time": 1682166149,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252046,
       "num": 252046,
       "word": "指责型家庭",
@@ -899,14 +947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 249571,
-      "num": 165635,
-      "word": "月收入过万是什么水平",
-      "onboard_time": 1682161948,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 249225,
       "num": 249225,
       "word": "魏晨状态",
@@ -929,6 +969,14 @@
       "onboard_time": 1682156908,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245471,
+      "num": 183389,
+      "word": "王曼昱晋级澳门赛决赛",
+      "onboard_time": 1682166570,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 244405,
@@ -1051,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220020,
+      "num": 190665,
+      "word": "明日方舟直播",
+      "onboard_time": 1682162428,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218792,
       "num": 218792,
       "word": "张婧仪周也近期生图",
@@ -1068,7 +1124,7 @@
     },
     {
       "raw_hot": 213764,
-      "num": 156951,
+      "num": 188860,
       "word": "史策是王皓最好的医美",
       "onboard_time": 1682161648,
       "rank": 36,
@@ -1145,14 +1201,6 @@
       "onboard_time": 1682124746,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 195397,
-      "num": 159559,
-      "word": "明日方舟直播",
-      "onboard_time": 1682162428,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 194895,
@@ -1337,6 +1385,14 @@
       "onboard_time": 1682137769,
       "rank": 41,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 171661,
+      "num": 222777,
+      "word": "百亿补贴杀疯了",
+      "onboard_time": 1682160268,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170974,
@@ -1563,6 +1619,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 143924,
+      "num": 187774,
+      "word": "武磊绝杀",
+      "onboard_time": 1682162309,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143215,
       "num": 143215,
       "word": "SEVENTEEN 克拉盘",
@@ -1651,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136760,
+      "num": 186065,
+      "word": "女子坚持足月生产诞下双胞胎后病危",
+      "onboard_time": 1682166450,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136114,
       "num": 136114,
       "word": "张国政顽童分手",
@@ -1715,12 +1787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121924,
+      "num": 121924,
+      "word": "你好星期六",
+      "onboard_time": 1682165368,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118898,
       "num": 118898,
       "word": "山东专升本计算机",
       "onboard_time": 1682162549,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 118298,
+      "num": 118298,
+      "word": "向往的生活笑声预告",
+      "onboard_time": 1682164350,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 115725,
@@ -1779,20 +1867,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110296,
+      "num": 110296,
+      "word": "按性别分配软卧车厢有必要吗",
+      "onboard_time": 1682166209,
+      "rank": 46,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 110136,
       "num": 110136,
       "word": "马頔 五哈",
       "onboard_time": 1682123005,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109667,
-      "num": 109667,
-      "word": "武磊绝杀",
-      "onboard_time": 1682162309,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 109659,
@@ -1913,14 +2001,6 @@
       "onboard_time": 1682067510,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 89189,
-      "num": 101049,
-      "word": "百亿补贴杀疯了",
-      "onboard_time": 1682160268,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88340,
