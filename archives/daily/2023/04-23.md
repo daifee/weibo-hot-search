@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/23 00:21:42 ~ 2023/04/23 01:14:41
+本榜单时间：2023/04/23 00:21:42 ~ 2023/04/23 01:33:31
 </p>
 </blockquote>
 <p>
@@ -88,7 +88,7 @@ PGONE复出不到24小时被封（热度：1744770）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%BE%97%E4%BA%86%E5%BF%A7%E9%83%81%E7%97%87%E5%91%8A%E8%AF%89%E7%88%B6%E6%AF%8D%23" target="weibo">
-朋友得了忧郁症告诉父母（热度：382664）
+朋友得了忧郁症告诉父母（热度：429009）
 </a>
 </li>
 
@@ -315,8 +315,20 @@ WB零封狼队（热度：127429）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E6%8A%8A%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E8%B4%A2%E7%A5%9E%E7%95%99%E4%B8%8B%E4%BA%86%23" target="weibo">
+优酷把长月烬明财神留下了（热度：82013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E5%A4%A7%E5%9D%9D%E6%8C%96%E5%87%BA%E7%94%9F%E9%95%BF%E5%8D%81%E5%87%A0%E5%B9%B4%E7%99%BD%E8%9A%81%E5%90%8E%23" target="weibo">
 浙江一大坝挖出生长十几年白蚁后（热度：72949）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%8F%E8%B1%AA%E7%8E%B0%E5%9C%BA%23" target="weibo">
+周柏豪现场（热度：61419）
 </a>
 </li>
 
