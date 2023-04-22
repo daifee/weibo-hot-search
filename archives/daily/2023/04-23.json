@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682202824182,
+  "endTime": 1682205392763,
   "band_list": [
     {
       "raw_hot": 2603141,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 710719,
+      "num": 406768,
+      "word": "嗯哼长大了",
+      "onboard_time": 1682180006,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 623436,
       "num": 623436,
       "word": "刘宇宁把家人说成家人们",
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 509191,
-      "num": 406768,
-      "word": "嗯哼长大了",
-      "onboard_time": 1682180006,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 561959,
+      "num": 561959,
+      "word": "朋友得了忧郁症告诉父母",
+      "onboard_time": 1682181383,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 463477,
@@ -97,14 +105,6 @@
       "onboard_time": 1682155526,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 429009,
-      "num": 429009,
-      "word": "朋友得了忧郁症告诉父母",
-      "onboard_time": 1682181383,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 362909,
@@ -153,6 +153,14 @@
       "onboard_time": 1682174433,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 318259,
+      "num": 199204,
+      "word": "淄博满街手机摄像头压力山大",
+      "onboard_time": 1682198651,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293289,
@@ -323,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136812,
+      "num": 136812,
+      "word": "XBB.1.16致病性没有提高",
+      "onboard_time": 1682199913,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135102,
       "num": 135102,
       "word": "以为张婧仪在尹昉嘴边打蛋",
@@ -345,6 +361,14 @@
       "onboard_time": 1682176773,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122546,
+      "num": 95602,
+      "word": "世界读书日",
+      "onboard_time": 1682205321,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121796,
@@ -403,12 +427,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102676,
+      "num": 102676,
+      "word": "浦东机场H登机口",
+      "onboard_time": 1682193912,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 101679,
       "num": 101679,
       "word": "伊能静来了也不认识秦昊",
       "onboard_time": 1682168008,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95807,
+      "num": 95807,
+      "word": "男孩扎留置针为住院妈妈买最爱榴莲",
+      "onboard_time": 1682198772,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 82664,
+      "num": 82664,
+      "word": "女子为给猪仔治病种4769株罂粟",
+      "onboard_time": 1682190853,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82013,
@@ -419,22 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 78908,
-      "num": 78908,
-      "word": "浦东机场H登机口",
-      "onboard_time": 1682193912,
-      "rank": 41,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 73236,
-      "num": 73236,
-      "word": "淄博满街手机摄像头压力山大",
-      "onboard_time": 1682198651,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72949,
       "num": 204776,
       "word": "浙江一大坝挖出生长十几年白蚁后",
@@ -443,12 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64414,
-      "num": 60017,
-      "word": "XBB.1.16致病性没有提高",
-      "onboard_time": 1682199913,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 61764,
+      "num": 61764,
+      "word": "灌篮高手票房",
+      "onboard_time": 1682203998,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 61549,
+      "num": 61549,
+      "word": "拥有多少资产才能算财富自由",
+      "onboard_time": 1682197213,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 61419,
@@ -457,6 +497,14 @@
       "onboard_time": 1682184199,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 59653,
+      "num": 59653,
+      "word": "威少37分",
+      "onboard_time": 1682205260,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 59127,
@@ -475,28 +523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 52978,
-      "num": 52978,
-      "word": "男孩扎留置针为住院妈妈买最爱榴莲",
-      "onboard_time": 1682198772,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49062,
-      "num": 49062,
-      "word": "拥有多少资产才能算财富自由",
-      "onboard_time": 1682197213,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 40027,
-      "num": 38950,
-      "word": "女子为给猪仔治病种4769株罂粟",
-      "onboard_time": 1682190853,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 54083,
+      "num": 54083,
+      "word": "谢楠晒儿子学武随拍",
+      "onboard_time": 1682205200,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 29860,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1682205392763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1393839,
+        "num": 1393839,
+        "word": "嫖客被抓反告民警并胜诉",
+        "onboard_time": 1682176710,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561959,
+        "num": 561959,
+        "word": "朋友得了忧郁症告诉父母",
+        "onboard_time": 1682181383,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19234,
+        "num": 426964,
+        "word": "珍爱地球中国在行动",
+        "onboard_time": 1682167049,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361738,
+        "num": 424142,
+        "word": "新冠",
+        "onboard_time": 1682167468,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420802,
+        "num": 420802,
+        "word": "张杰谢娜助理打手机",
+        "onboard_time": 1682174615,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282426,
+        "num": 282426,
+        "word": "张颂文向陈凯歌介绍高叶",
+        "onboard_time": 1682174795,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234828,
+        "num": 234828,
+        "word": "主播雪梨直播带货拉踩被判赔20万",
+        "onboard_time": 1682172451,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 214305,
+        "num": 214305,
+        "word": "刘宇宁把家人说成家人们",
+        "onboard_time": 1682163749,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203022,
+        "num": 203022,
+        "word": "张文宏建议做好药物储备应对二阳",
+        "onboard_time": 1682171914,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201402,
+        "num": 201402,
+        "word": "减肥减的根本不是肉",
+        "onboard_time": 1682174378,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 710719,
+        "num": 200092,
+        "word": "嗯哼长大了",
+        "onboard_time": 1682180006,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318259,
+        "num": 199204,
+        "word": "淄博满街手机摄像头压力山大",
+        "onboard_time": 1682198651,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193213,
+        "num": 193213,
+        "word": "月收入过万是什么水平",
+        "onboard_time": 1682161948,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183658,
+        "num": 183658,
+        "word": "夫妻欠300万10年不还旅游晒视频",
+        "onboard_time": 1682169630,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181447,
+        "num": 181447,
+        "word": "小鬼 泰酷辣",
+        "onboard_time": 1682177192,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174886,
+        "num": 174886,
+        "word": "调休",
+        "onboard_time": 1682175272,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163513,
+        "num": 163513,
+        "word": "何悯鸿怀孕还要给戚牧做保姆",
+        "onboard_time": 1682164949,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152226,
+        "num": 152226,
+        "word": "杜江路演站姿",
+        "onboard_time": 1682179827,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143950,
+        "num": 143950,
+        "word": "宋茜长发",
+        "onboard_time": 1682169870,
+        "rank": 18,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 142583,
+        "num": 142583,
+        "word": "多地网友晒抗原称二阳",
+        "onboard_time": 1682172092,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204936,
+        "num": 142196,
+        "word": "看起来体面但工资低的工作",
+        "onboard_time": 1682177912,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182575,
+        "num": 142039,
+        "word": "女子坚持足月生产诞下双胞胎后病危",
+        "onboard_time": 1682166450,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166840,
+        "num": 141688,
+        "word": "薛之谦突犯喉疾",
+        "onboard_time": 1682181025,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136812,
+        "num": 136812,
+        "word": "XBB.1.16致病性没有提高",
+        "onboard_time": 1682199913,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112462,
+        "num": 112462,
+        "word": "杭州女教师接到陌生电话听出是求救",
+        "onboard_time": 1682167892,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 107787,
+        "num": 107787,
+        "word": "长月烬明怎么了",
+        "onboard_time": 1682155526,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102676,
+        "num": 102676,
+        "word": "浦东机场H登机口",
+        "onboard_time": 1682193912,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 95987,
+        "num": 95987,
+        "word": "龚俊去了李荣浩的演唱会",
+        "onboard_time": 1682177312,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95942,
+        "num": 95942,
+        "word": "马琳",
+        "onboard_time": 1682186055,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95807,
+        "num": 95807,
+        "word": "男孩扎留置针为住院妈妈买最爱榴莲",
+        "onboard_time": 1682198772,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122546,
+        "num": 95602,
+        "word": "世界读书日",
+        "onboard_time": 1682205321,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94931,
+        "num": 94931,
+        "word": "女子喝中药一周发现成分是蟑螂",
+        "onboard_time": 1682152707,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88062,
+        "num": 88062,
+        "word": "四川人民主打一个大义灭亲",
+        "onboard_time": 1682176413,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82664,
+        "num": 82664,
+        "word": "女子为给猪仔治病种4769株罂粟",
+        "onboard_time": 1682190853,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79562,
+        "num": 79562,
+        "word": "青春环游记全员素颜",
+        "onboard_time": 1682177971,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71340,
+        "num": 71340,
+        "word": "是故意不小心还是故意的",
+        "onboard_time": 1682178090,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 65378,
+        "num": 65378,
+        "word": "今晚到处都有娜扎",
+        "onboard_time": 1682173713,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64917,
+        "num": 64917,
+        "word": "周深跑掉了两个手机",
+        "onboard_time": 1682176710,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62112,
+        "num": 62112,
+        "word": "INTO1 女团舞",
+        "onboard_time": 1682179107,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61764,
+        "num": 61764,
+        "word": "灌篮高手票房",
+        "onboard_time": 1682203998,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61656,
+        "num": 61656,
+        "word": "陈梦4比0孙颖莎",
+        "onboard_time": 1682171494,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61549,
+        "num": 61549,
+        "word": "拥有多少资产才能算财富自由",
+        "onboard_time": 1682197213,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59653,
+        "num": 59653,
+        "word": "威少37分",
+        "onboard_time": 1682205260,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58505,
+        "num": 58505,
+        "word": "故宫门票",
+        "onboard_time": 1682168851,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54083,
+        "num": 54083,
+        "word": "谢楠晒儿子学武随拍",
+        "onboard_time": 1682205200,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53812,
+        "num": 53812,
+        "word": "伊能静来了也不认识秦昊",
+        "onboard_time": 1682168008,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50821,
+        "num": 50821,
+        "word": "定闹钟",
+        "onboard_time": 1682178691,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49056,
+        "num": 49056,
+        "word": "李晨需要道歉吗",
+        "onboard_time": 1682160268,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45420,
+        "num": 45420,
+        "word": "SEVENTEEN新歌预告",
+        "onboard_time": 1682177312,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38975,
+        "num": 38975,
+        "word": "WB零封狼队",
+        "onboard_time": 1682176773,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023中国网络媒体论坛#"
+    }
+  }
+}
