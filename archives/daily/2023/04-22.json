@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682162039409,
+  "endTime": 1682163205027,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -395,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 512734,
+      "num": 373716,
+      "word": "浙江一大坝挖出生长十几年白蚁后",
+      "onboard_time": 1682160448,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505877,
       "num": 505877,
       "word": "男孩被拖行后第一句是爸爸不要怪我",
@@ -425,6 +433,14 @@
       "onboard_time": 1682091209,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460866,
+      "num": 460866,
+      "word": "李晨需要道歉吗",
+      "onboard_time": 1682160268,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 444051,
@@ -643,28 +659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 336827,
-      "num": 336827,
-      "word": "浙江一大坝挖出生长十几年白蚁后",
-      "onboard_time": 1682160448,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335838,
       "num": 335838,
       "word": "章昊成韩彬牵手下台",
       "onboard_time": 1682145506,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 331361,
-      "num": 331361,
-      "word": "李晨需要道歉吗",
-      "onboard_time": 1682160268,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 327447,
@@ -731,6 +731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287894,
+      "num": 149630,
+      "word": "郑州地铁因李荣浩演唱会调整运营时间",
+      "onboard_time": 1682162068,
+      "rank": 31,
+      "category": "音乐,社会新闻"
+    },
+    {
       "raw_hot": 286530,
       "num": 286530,
       "word": "官方核查长峰医院违规办医养结合",
@@ -745,6 +753,14 @@
       "onboard_time": 1682120602,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279124,
+      "num": 167360,
+      "word": "虞书欣 刘虞佳",
+      "onboard_time": 1682160268,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 277648,
@@ -883,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 249571,
+      "num": 165635,
+      "word": "月收入过万是什么水平",
+      "onboard_time": 1682161948,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249225,
       "num": 249225,
       "word": "魏晨状态",
@@ -995,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226352,
+      "num": 193555,
+      "word": "娜扎帮大鹏女儿追星徐明浩",
+      "onboard_time": 1682160209,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225077,
       "num": 225077,
       "word": "某幻 老番茄live嘉宾",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1682130685,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 213764,
+      "num": 156951,
+      "word": "史策是王皓最好的医美",
+      "onboard_time": 1682161648,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212297,
@@ -1107,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 195397,
+      "num": 159559,
+      "word": "明日方舟直播",
+      "onboard_time": 1682162428,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194895,
       "num": 194895,
       "word": "我要逆风去",
@@ -1129,14 +1177,6 @@
       "onboard_time": 1682120181,
       "rank": 26,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 193555,
-      "num": 193555,
-      "word": "娜扎帮大鹏女儿追星徐明浩",
-      "onboard_time": 1682160209,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 192265,
@@ -1387,14 +1427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163932,
-      "num": 163932,
-      "word": "虞书欣 刘虞佳",
-      "onboard_time": 1682160268,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163771,
       "num": 163771,
       "word": "看完灌篮高手破防了",
@@ -1547,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141713,
+      "num": 141713,
+      "word": "周也安慰赵小棠摔的很美",
+      "onboard_time": 1682162369,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141494,
       "num": 141494,
       "word": "篮球场假摔求婚",
@@ -1627,14 +1667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133080,
-      "num": 133080,
-      "word": "史策是王皓最好的医美",
-      "onboard_time": 1682161648,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 131028,
       "num": 131028,
       "word": "山东专升本",
@@ -1681,6 +1713,14 @@
       "onboard_time": 1682084613,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118898,
+      "num": 118898,
+      "word": "山东专升本计算机",
+      "onboard_time": 1682162549,
+      "rank": 39,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 115725,
@@ -1747,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109667,
+      "num": 109667,
+      "word": "武磊绝杀",
+      "onboard_time": 1682162309,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109659,
       "num": 109659,
       "word": "张婧仪说给大家比个心吧",
@@ -1793,14 +1841,6 @@
       "onboard_time": 1682154929,
       "rank": 45,
       "category": "科技,动漫"
-    },
-    {
-      "raw_hot": 102183,
-      "num": 102183,
-      "word": "月收入过万是什么水平",
-      "onboard_time": 1682161948,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 101752,
