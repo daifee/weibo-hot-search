@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682147702137,
+  "endTime": 1682148813907,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -9,6 +9,14 @@
       "onboard_time": 1682094505,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3029887,
+      "num": 3029887,
+      "word": "长月烬明被举报",
+      "onboard_time": 1682147967,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2497129,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1222976,
+      "num": 1222976,
+      "word": "高叶 礼服把我鲨疯了",
+      "onboard_time": 1682147608,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1210468,
       "num": 1210468,
       "word": "公司五一放三天同事离职了",
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 933692,
-      "num": 933692,
-      "word": "高叶 礼服把我鲨疯了",
-      "onboard_time": 1682147608,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 908220,
       "num": 908220,
       "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
@@ -217,6 +225,14 @@
       "onboard_time": 1682142506,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 685416,
+      "num": 685416,
+      "word": "当事人要求宝马MINI道歉",
+      "onboard_time": 1682147007,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673780,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 574716,
-      "num": 392131,
+      "num": 486496,
       "word": "虞书欣美国库存照",
       "onboard_time": 1682143825,
       "rank": 18,
@@ -483,14 +499,6 @@
       "category": "游戏,自然"
     },
     {
-      "raw_hot": 356460,
-      "num": 356460,
-      "word": "当事人要求宝马MINI道歉",
-      "onboard_time": 1682147007,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355276,
       "num": 355276,
       "word": "杭州男子失踪7天找到时已失温",
@@ -561,6 +569,14 @@
       "onboard_time": 1682126607,
       "rank": 41,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 304215,
+      "num": 304215,
+      "word": "灌篮高手",
+      "onboard_time": 1682077349,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 290889,
@@ -649,6 +665,14 @@
       "onboard_time": 1682145207,
       "rank": 47,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 255791,
+      "num": 255791,
+      "word": "罗云熙白鹿直播",
+      "onboard_time": 1682148387,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 254556,
@@ -755,6 +779,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 222993,
+      "num": 222993,
+      "word": "男子一口气买8公斤金条藏厕所楼道",
+      "onboard_time": 1682147366,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222905,
       "num": 222905,
       "word": "广东一40岁男子晋升为岳父",
@@ -768,6 +800,14 @@
       "word": "龚俊新剧MV有19套衣服",
       "onboard_time": 1682143706,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 220165,
+      "num": 220165,
+      "word": "胡歌为李佳航新剧打call",
+      "onboard_time": 1682147967,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -875,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192146,
-      "num": 155543,
-      "word": "灌篮高手",
-      "onboard_time": 1682077349,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190986,
       "num": 190986,
       "word": "易烊千玺刘艳芬预告音频",
@@ -905,6 +937,14 @@
       "onboard_time": 1682112251,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187708,
+      "num": 187708,
+      "word": "一觉醒来被老板辞退了",
+      "onboard_time": 1682146648,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 183037,
@@ -969,14 +1009,6 @@
       "onboard_time": 1682080649,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 176149,
-      "num": 136904,
-      "word": "一觉醒来被老板辞退了",
-      "onboard_time": 1682146648,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 173697,
@@ -1107,6 +1139,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 160247,
+      "num": 160247,
+      "word": "何洁面对恶评的心态转变",
+      "onboard_time": 1682147848,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158083,
       "num": 158083,
       "word": "蔡徐坤最新怼脸拍摄大片",
@@ -1163,6 +1203,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 149904,
+      "num": 149904,
+      "word": "破事精英",
+      "onboard_time": 1682147848,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148377,
       "num": 144207,
       "word": "鹿晗巡演四站官宣",
@@ -1203,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140004,
+      "num": 140004,
+      "word": "路边的雄性生物不要捡",
+      "onboard_time": 1682148267,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139897,
       "num": 381283,
       "word": "时空中的绘旅人",
@@ -1227,6 +1283,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 138535,
+      "num": 138535,
+      "word": "灌篮高手票房破3亿",
+      "onboard_time": 1682148028,
+      "rank": 37,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 138302,
       "num": 138302,
       "word": "最近的互联网观剧观察",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1682120061,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137123,
+      "num": 137123,
+      "word": "世界难题被恋爱脑解决了",
+      "onboard_time": 1682146587,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 136114,
@@ -1355,14 +1427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 110257,
-      "num": 110257,
-      "word": "男子一口气买8公斤金条藏厕所楼道",
-      "onboard_time": 1682147366,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110136,
       "num": 110136,
       "word": "马頔 五哈",
@@ -1449,14 +1513,6 @@
       "onboard_time": 1682146048,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97343,
-      "num": 97343,
-      "word": "世界难题被恋爱脑解决了",
-      "onboard_time": 1682146587,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 96835,
@@ -1580,7 +1636,7 @@
     },
     {
       "raw_hot": 48756,
-      "num": 1234236,
+      "num": 1279819,
       "word": "2023中国网络媒体论坛",
       "onboard_time": 1682136687,
       "rank": 2,
@@ -1635,8 +1691,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 7606,
-      "num": 109777,
+      "raw_hot": 14772,
+      "num": 292645,
+      "word": "红毯上的中国设计",
+      "onboard_time": 1682147967,
+      "rank": 14,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 13904,
+      "num": 136417,
       "word": "拜祖大典上的文化元素",
       "onboard_time": 1682146825,
       "rank": 39,
