@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682127933390,
+  "endTime": 1682130850414,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1874488,
+      "num": 1874488,
+      "word": "新加坡鞭刑",
+      "onboard_time": 1682125109,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1836646,
       "num": 1836646,
       "word": "SpaceX星舰发射计划推迟",
@@ -731,20 +739,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1574283,
-      "num": 788405,
-      "word": "新加坡鞭刑",
-      "onboard_time": 1682125109,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1556577,
       "num": 1556577,
       "word": "日本",
       "onboard_time": 1682058208,
       "rank": 16,
       "category": "社会新闻,国外要闻"
+    },
+    {
+      "raw_hot": 1551939,
+      "num": 1551939,
+      "word": "李晨 对任何人都是尊重的",
+      "onboard_time": 1682129967,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1537599,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1681717286,
       "rank": 0,
       "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 1094915,
+      "num": 490332,
+      "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
+      "onboard_time": 1682125467,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1089144,
@@ -1787,14 +1803,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 821552,
-      "num": 490332,
-      "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
-      "onboard_time": 1682125467,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 805655,
       "num": 805655,
       "word": "泰裤辣",
@@ -1993,6 +2001,14 @@
       "onboard_time": 1681778307,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 718435,
+      "num": 718435,
+      "word": "张颂文朱一龙 互让C",
+      "onboard_time": 1682128768,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 717870,
@@ -2699,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568387,
+      "num": 568387,
+      "word": "莱昂纳德",
+      "onboard_time": 1682128226,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 567324,
       "num": 477139,
       "word": "长峰医院院长等12人被刑拘",
@@ -2729,6 +2753,14 @@
       "onboard_time": 1682035407,
       "rank": 8,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 564183,
+      "num": 564183,
+      "word": "印度男子性骚扰韩国女游客",
+      "onboard_time": 1682125109,
+      "rank": 13,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 563321,
@@ -2937,14 +2969,6 @@
       "onboard_time": 1681902207,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526903,
-      "num": 526903,
-      "word": "印度男子性骚扰韩国女游客",
-      "onboard_time": 1682125109,
-      "rank": 13,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 526055,
@@ -3281,6 +3305,14 @@
       "onboard_time": 1681689687,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 476096,
+      "num": 476096,
+      "word": "火腿肠为什么走向没落了",
+      "onboard_time": 1682126848,
+      "rank": 20,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 475312,
@@ -4123,6 +4155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 386018,
+      "num": 386018,
+      "word": "今天好多明星演唱会抢票",
+      "onboard_time": 1682127329,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385622,
       "num": 385622,
       "word": "陈都灵紫色抹胸长裙",
@@ -4587,6 +4627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358452,
+      "num": 358452,
+      "word": "斯嘉丽说不会再演黑寡妇了",
+      "onboard_time": 1682129667,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 358244,
       "num": 358244,
       "word": "叶舒华以为摄影师是粉丝老公",
@@ -4963,14 +5011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 328818,
-      "num": 236561,
-      "word": "火腿肠为什么走向没落了",
-      "onboard_time": 1682126848,
-      "rank": 20,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 328702,
       "num": 328702,
       "word": "内娱唱功天花板",
@@ -4993,6 +5033,14 @@
       "onboard_time": 1681712005,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328160,
+      "num": 219819,
+      "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
+      "onboard_time": 1682128649,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327552,
@@ -7123,12 +7171,12 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 214652,
-      "num": 214652,
-      "word": "今天好多明星演唱会抢票",
-      "onboard_time": 1682127329,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 214441,
+      "num": 214441,
+      "word": "张婧仪周也近期生图",
+      "onboard_time": 1682126907,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 214084,
@@ -7299,6 +7347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209651,
+      "num": 209651,
+      "word": "星巴克",
+      "onboard_time": 1682126607,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 209535,
       "num": 1049612,
       "word": "3名勇救落水老人的小伙考研上岸了",
@@ -7313,6 +7369,14 @@
       "onboard_time": 1681729947,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209249,
+      "num": 209249,
+      "word": "宝马称接待人员不是内部员工",
+      "onboard_time": 1682130025,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209154,
@@ -8107,6 +8171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194719,
+      "num": 194719,
+      "word": "玥烬情苏",
+      "onboard_time": 1682126483,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194493,
       "num": 183715,
       "word": "华晨宇solo舞台",
@@ -8731,14 +8803,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 184837,
-      "num": 184837,
-      "word": "张婧仪周也近期生图",
-      "onboard_time": 1682126907,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184693,
       "num": 184693,
       "word": "音浪嘉年华",
@@ -9049,14 +9113,6 @@
       "onboard_time": 1681706070,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177589,
-      "num": 177589,
-      "word": "玥烬情苏",
-      "onboard_time": 1682126483,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 177092,
@@ -9683,6 +9739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159905,
+      "num": 159905,
+      "word": "芝士香橙熔岩吐司",
+      "onboard_time": 1682130808,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159789,
       "num": 159789,
       "word": "唐诗逸白玉兰二次提名",
@@ -9763,6 +9827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157484,
+      "num": 157484,
+      "word": "边牧和金毛同天偷跑聚网吧玩通宵",
+      "onboard_time": 1682129308,
+      "rank": 33,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 157026,
       "num": 157026,
       "word": "哈妮克孜欢迎大家来家乡新疆",
@@ -9779,6 +9851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156719,
+      "num": 156719,
+      "word": "招财猫原来不是假的",
+      "onboard_time": 1682130808,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156404,
       "num": 156404,
       "word": "贾静雯组王佳宇repo",
@@ -9788,7 +9868,7 @@
     },
     {
       "raw_hot": 155673,
-      "num": 1314434,
+      "num": 1601803,
       "word": "县在出发",
       "onboard_time": 1682083712,
       "rank": 2,
@@ -10347,6 +10427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141494,
+      "num": 141494,
+      "word": "篮球场假摔求婚",
+      "onboard_time": 1682127867,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141243,
       "num": 141243,
       "word": "矢吹奈子本田仁美将出演QueendomPuzzle",
@@ -10865,14 +10953,6 @@
       "onboard_time": 1681953332,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127287,
-      "num": 127287,
-      "word": "星巴克",
-      "onboard_time": 1682126607,
-      "rank": 41,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 127121,
@@ -11459,6 +11539,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 105851,
+      "num": 105851,
+      "word": "中国美院回应老师被指抄袭",
+      "onboard_time": 1682130685,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 105648,
       "num": 105648,
       "word": "你是买书就等于读书的人吗",
@@ -11601,6 +11689,14 @@
       "onboard_time": 1681900526,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 100644,
+      "num": 100644,
+      "word": "五哈3主题曲诞生实录",
+      "onboard_time": 1682130566,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 100414,
@@ -11755,6 +11851,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 94775,
+      "num": 94775,
+      "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
+      "onboard_time": 1682129907,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94742,
       "num": 104686,
       "word": "一张图明白钱的概念",
@@ -11825,14 +11929,6 @@
       "onboard_time": 1681777527,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91339,
-      "num": 91339,
-      "word": "篮球场假摔求婚",
-      "onboard_time": 1682127867,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 90832,
@@ -12507,6 +12603,9 @@
     },
     {
       "word": "#扎实开展主题教育#"
+    },
+    {
+      "word": "#2023中国网络媒体论坛#"
     }
   ]
 }

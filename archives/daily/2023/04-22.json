@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682127933390,
+  "endTime": 1682130850414,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -19,6 +19,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1874488,
+      "num": 1874488,
+      "word": "新加坡鞭刑",
+      "onboard_time": 1682125109,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1820975,
       "num": 1820975,
       "word": "陈飞宇 周也",
@@ -27,12 +35,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1574283,
-      "num": 788405,
-      "word": "新加坡鞭刑",
-      "onboard_time": 1682125109,
+      "raw_hot": 1551939,
+      "num": 1551939,
+      "word": "李晨 对任何人都是尊重的",
+      "onboard_time": 1682129967,
       "rank": 3,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 1537599,
@@ -59,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1094915,
+      "num": 490332,
+      "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
+      "onboard_time": 1682125467,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 976220,
       "num": 976220,
       "word": "宝马mini称两名女生离职消息不实",
@@ -75,19 +91,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 821552,
-      "num": 490332,
-      "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
-      "onboard_time": 1682125467,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 805434,
       "num": 805434,
       "word": "陈都灵礼服开线了",
       "onboard_time": 1682118798,
       "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 718435,
+      "num": 718435,
+      "word": "张颂文朱一龙 互让C",
+      "onboard_time": 1682128768,
+      "rank": 4,
       "category": "作品衍生"
     },
     {
@@ -139,6 +155,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568387,
+      "num": 568387,
+      "word": "莱昂纳德",
+      "onboard_time": 1682128226,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 564183,
+      "num": 564183,
+      "word": "印度男子性骚扰韩国女游客",
+      "onboard_time": 1682125109,
+      "rank": 13,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 542652,
       "num": 542652,
       "word": "章子怡的脸能打",
@@ -147,12 +179,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 526903,
-      "num": 526903,
-      "word": "印度男子性骚扰韩国女游客",
-      "onboard_time": 1682125109,
-      "rank": 13,
-      "category": "社会新闻,旅游"
+      "raw_hot": 476096,
+      "num": 476096,
+      "word": "火腿肠为什么走向没落了",
+      "onboard_time": 1682126848,
+      "rank": 20,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 466606,
@@ -195,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386018,
+      "num": 386018,
+      "word": "今天好多明星演唱会抢票",
+      "onboard_time": 1682127329,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 379229,
       "num": 379229,
       "word": "日本陆上自卫队第8师团长坂本雄一死亡",
@@ -209,6 +249,14 @@
       "onboard_time": 1682121805,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358452,
+      "num": 358452,
+      "word": "斯嘉丽说不会再演黑寡妇了",
+      "onboard_time": 1682129667,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 355276,
@@ -235,12 +283,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328818,
-      "num": 236561,
-      "word": "火腿肠为什么走向没落了",
-      "onboard_time": 1682126848,
-      "rank": 20,
-      "category": "美食,财经"
+      "raw_hot": 328160,
+      "num": 219819,
+      "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
+      "onboard_time": 1682128649,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327447,
@@ -379,12 +427,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214652,
-      "num": 214652,
-      "word": "今天好多明星演唱会抢票",
-      "onboard_time": 1682127329,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 214441,
+      "num": 214441,
+      "word": "张婧仪周也近期生图",
+      "onboard_time": 1682126907,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209651,
+      "num": 209651,
+      "word": "星巴克",
+      "onboard_time": 1682126607,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 209249,
+      "num": 209249,
+      "word": "宝马称接待人员不是内部员工",
+      "onboard_time": 1682130025,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201056,
@@ -401,6 +465,14 @@
       "onboard_time": 1682124746,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194719,
+      "num": 194719,
+      "word": "玥烬情苏",
+      "onboard_time": 1682126483,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 193875,
@@ -427,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184837,
-      "num": 184837,
-      "word": "张婧仪周也近期生图",
-      "onboard_time": 1682126907,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182424,
       "num": 153783,
       "word": "文彬",
@@ -457,14 +521,6 @@
       "onboard_time": 1682066910,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177589,
-      "num": 177589,
-      "word": "玥烬情苏",
-      "onboard_time": 1682126483,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 177569,
@@ -515,6 +571,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159905,
+      "num": 159905,
+      "word": "芝士香橙熔岩吐司",
+      "onboard_time": 1682130808,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 157484,
+      "num": 157484,
+      "word": "边牧和金毛同天偷跑聚网吧玩通宵",
+      "onboard_time": 1682129308,
+      "rank": 33,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 156719,
+      "num": 156719,
+      "word": "招财猫原来不是假的",
+      "onboard_time": 1682130808,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152087,
       "num": 152087,
       "word": "宝马4S店弄坏客户摩托后私换零件",
@@ -555,6 +635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141494,
+      "num": 141494,
+      "word": "篮球场假摔求婚",
+      "onboard_time": 1682127867,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137266,
       "num": 137266,
       "word": "如果我不回家唱歌我们村可能会输",
@@ -577,14 +665,6 @@
       "onboard_time": 1682119040,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127287,
-      "num": 127287,
-      "word": "星巴克",
-      "onboard_time": 1682126607,
-      "rank": 41,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 125786,
@@ -651,6 +731,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 105851,
+      "num": 105851,
+      "word": "中国美院回应老师被指抄袭",
+      "onboard_time": 1682130685,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 105011,
       "num": 105011,
       "word": "安以轩未现身陈荣炼庭审现场",
@@ -673,6 +761,14 @@
       "onboard_time": 1682063730,
       "rank": 41,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 100644,
+      "num": 100644,
+      "word": "五哈3主题曲诞生实录",
+      "onboard_time": 1682130566,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 100392,
@@ -715,20 +811,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94775,
+      "num": 94775,
+      "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
+      "onboard_time": 1682129907,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92380,
       "num": 96835,
       "word": "娜扎的耳饰好大",
       "onboard_time": 1682067510,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 91339,
-      "num": 91339,
-      "word": "篮球场假摔求婚",
-      "onboard_time": 1682127867,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 85993,
@@ -780,7 +876,7 @@
     },
     {
       "raw_hot": 71971,
-      "num": 910589,
+      "num": 1601803,
       "word": "县在出发",
       "onboard_time": 1682083712,
       "rank": 2,
@@ -865,6 +961,9 @@
     },
     {
       "word": "#扎实开展主题教育#"
+    },
+    {
+      "word": "#2023中国网络媒体论坛#"
     }
   ]
 }
