@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682172881359,
+  "endTime": 1682174003785,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4397877,
+      "num": 3883116,
+      "word": "新冠",
+      "onboard_time": 1682167468,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4386600,
       "num": 4386600,
       "word": "苹果天气",
@@ -241,14 +249,6 @@
       "onboard_time": 1681479568,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3883116,
-      "num": 3883116,
-      "word": "新冠",
-      "onboard_time": 1682167468,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3876545,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1681860805,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2490761,
+      "num": 2490761,
+      "word": "宋茜长发",
+      "onboard_time": 1682169870,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2468980,
@@ -2123,14 +2131,6 @@
       "category": "幽默,科技"
     },
     {
-      "raw_hot": 1801071,
-      "num": 1801071,
-      "word": "宋茜长发",
-      "onboard_time": 1682169870,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1798645,
       "num": 1798645,
       "word": "陈某龙故意散布谣言被依法行拘",
@@ -2915,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1532520,
+      "num": 1532520,
+      "word": "刘宇宁把家人说成家人们",
+      "onboard_time": 1682163749,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1528353,
       "num": 1528353,
       "word": "成龙身体已经不能再打封闭了",
@@ -3025,14 +3033,6 @@
       "onboard_time": 1680752970,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1497383,
-      "num": 1497383,
-      "word": "刘宇宁把家人说成家人们",
-      "onboard_time": 1682163749,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1497101,
@@ -7667,6 +7667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 747550,
+      "num": 747550,
+      "word": "何悯鸿怀孕还要给戚牧做保姆",
+      "onboard_time": 1682164949,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 747499,
       "num": 747499,
       "word": "纸嫁衣",
@@ -7729,14 +7737,6 @@
       "onboard_time": 1680850949,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739645,
-      "num": 739645,
-      "word": "何悯鸿怀孕还要给戚牧做保姆",
-      "onboard_time": 1682164949,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 739333,
@@ -9097,6 +9097,14 @@
       "onboard_time": 1680347130,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 665037,
+      "num": 665037,
+      "word": "夫妻欠300万10年不还旅游晒视频",
+      "onboard_time": 1682169630,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663175,
@@ -11291,6 +11299,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 562816,
+      "num": 562816,
+      "word": "主播雪梨直播带货拉踩被判赔20万",
+      "onboard_time": 1682172451,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 562492,
       "num": 562492,
       "word": "男孩玩滑索坠湖父亲营救不幸遇难",
@@ -12219,6 +12235,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 528353,
+      "num": 528353,
+      "word": "PGONE复出不到24小时被封",
+      "onboard_time": 1682173233,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 528331,
       "num": 528331,
       "word": "51岁的陈慧琳",
@@ -12969,14 +12993,6 @@
       "onboard_time": 1681355549,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 499760,
-      "num": 499760,
-      "word": "夫妻欠300万10年不还旅游晒视频",
-      "onboard_time": 1682169630,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499416,
@@ -14345,6 +14361,14 @@
       "onboard_time": 1680997759,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456752,
+      "num": 456752,
+      "word": "周涛 宝格丽",
+      "onboard_time": 1682172032,
+      "rank": 18,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 456550,
@@ -15763,6 +15787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 419319,
+      "num": 419319,
+      "word": "四川烧烤申请出战",
+      "onboard_time": 1682171554,
+      "rank": 16,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 419225,
       "num": 419225,
       "word": "齐司礼",
@@ -16337,6 +16369,14 @@
       "onboard_time": 1681442850,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407743,
+      "num": 276130,
+      "word": "多地网友晒抗原称二阳",
+      "onboard_time": 1682172092,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407283,
@@ -17763,14 +17803,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 378080,
-      "num": 378080,
-      "word": "四川烧烤申请出战",
-      "onboard_time": 1682171554,
-      "rank": 16,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 377672,
       "num": 278383,
       "word": "老人绑架4岁孙女勒索女儿50万",
@@ -18481,6 +18513,14 @@
       "onboard_time": 1680590246,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 362124,
+      "num": 271818,
+      "word": "张文宏建议做好药物储备应对二阳",
+      "onboard_time": 1682171914,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362121,
@@ -20017,14 +20057,6 @@
       "onboard_time": 1680348990,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 332757,
-      "num": 332757,
-      "word": "周涛 宝格丽",
-      "onboard_time": 1682172032,
-      "rank": 18,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 332569,
@@ -22019,14 +22051,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298558,
-      "num": 201429,
-      "word": "多地网友晒抗原称二阳",
-      "onboard_time": 1682172092,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298294,
       "num": 298294,
       "word": "苏丹冲突已致25死183伤",
@@ -23409,6 +23433,14 @@
       "onboard_time": 1680663269,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279927,
+      "num": 279927,
+      "word": "白鹿一口气读文章",
+      "onboard_time": 1682169511,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 279806,
@@ -25771,12 +25803,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248339,
-      "num": 248339,
-      "word": "张文宏建议做好药物储备应对二阳",
-      "onboard_time": 1682171914,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 248327,
+      "num": 248327,
+      "word": "邓紫棋音乐节",
+      "onboard_time": 1682173831,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 248128,
@@ -25808,14 +25840,6 @@
       "word": "小鬼说小鬼和王琳凯已就位",
       "onboard_time": 1680836125,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 247729,
-      "num": 247729,
-      "word": "白鹿一口气读文章",
-      "onboard_time": 1682169511,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -32571,14 +32595,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 201479,
-      "num": 201479,
-      "word": "主播雪梨直播带货拉踩被判赔20万",
-      "onboard_time": 1682172451,
-      "rank": 28,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 201474,
       "num": 201474,
       "word": "张新成说期待再次相见",
@@ -32769,6 +32785,14 @@
       "onboard_time": 1680433107,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200908,
+      "num": 200908,
+      "word": "绥化",
+      "onboard_time": 1682172331,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200892,
@@ -37003,6 +37027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 186719,
+      "num": 186719,
+      "word": "狼队对战WB",
+      "onboard_time": 1682172993,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186713,
       "num": 186713,
       "word": "李宇春新专辑12首歌",
@@ -39403,14 +39435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172423,
-      "num": 172423,
-      "word": "绥化",
-      "onboard_time": 1682172331,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172387,
       "num": 172387,
       "word": "李健音乐节连唱13首",
@@ -41785,6 +41809,14 @@
       "onboard_time": 1681217849,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158513,
+      "num": 158513,
+      "word": "今晚到处都有娜扎",
+      "onboard_time": 1682173713,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158490,
@@ -47715,6 +47747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118455,
+      "num": 118455,
+      "word": "TREASURE演唱会",
+      "onboard_time": 1682173474,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118414,
       "num": 118414,
       "word": "张杰把听带到了演唱会现场",
@@ -51587,6 +51627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47953,
+      "num": 1516851,
+      "word": "珍爱地球中国在行动",
+      "onboard_time": 1682167049,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47926,
       "num": 57533,
       "word": "路过男子跳入水中奋力救起落水男孩",
@@ -51633,14 +51681,6 @@
       "onboard_time": 1680728292,
       "rank": 37,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 45932,
-      "num": 1516851,
-      "word": "珍爱地球中国在行动",
-      "onboard_time": 1682167049,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45271,

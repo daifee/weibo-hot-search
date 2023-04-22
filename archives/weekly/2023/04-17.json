@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682172881359,
+  "endTime": 1682174003785,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -51,19 +51,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4397877,
+      "num": 3883116,
+      "word": "新冠",
+      "onboard_time": 1682167468,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4184010,
       "num": 4184010,
       "word": "史诗级灾难公关",
       "onboard_time": 1682048308,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3883116,
-      "num": 3883116,
-      "word": "新冠",
-      "onboard_time": 1682167468,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -337,6 +337,14 @@
       "onboard_time": 1681860805,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2490761,
+      "num": 2490761,
+      "word": "宋茜长发",
+      "onboard_time": 1682169870,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2468980,
@@ -651,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1801071,
-      "num": 1801071,
-      "word": "宋茜长发",
-      "onboard_time": 1682169870,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1794932,
       "num": 1794932,
       "word": "山科大北门伤人事件致1死6伤",
@@ -867,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1532520,
+      "num": 1532520,
+      "word": "刘宇宁把家人说成家人们",
+      "onboard_time": 1682163749,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1523562,
       "num": 519991,
       "word": "何超欣不知道何超莲窦骁结婚",
@@ -905,14 +913,6 @@
       "onboard_time": 1681801948,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1497383,
-      "num": 1497383,
-      "word": "刘宇宁把家人说成家人们",
-      "onboard_time": 1682163749,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 1491119,
@@ -2115,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 747550,
+      "num": 747550,
+      "word": "何悯鸿怀孕还要给戚牧做保姆",
+      "onboard_time": 1682164949,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 746183,
       "num": 1440991,
       "word": "老人乘地铁用颤抖的手批改资料",
@@ -2129,14 +2137,6 @@
       "onboard_time": 1682128768,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 739645,
-      "num": 739645,
-      "word": "何悯鸿怀孕还要给戚牧做保姆",
-      "onboard_time": 1682164949,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 734511,
@@ -2496,6 +2496,14 @@
       "word": "林某侮辱诽谤江秋莲获刑2年3个月",
       "onboard_time": 1681741167,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665037,
+      "num": 665037,
+      "word": "夫妻欠300万10年不还旅游晒视频",
+      "onboard_time": 1682169630,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3051,6 +3059,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 562816,
+      "num": 562816,
+      "word": "主播雪梨直播带货拉踩被判赔20万",
+      "onboard_time": 1682172451,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 560665,
       "num": 1383932,
       "word": "智力障碍男生把迷路女童背到派出所",
@@ -3259,6 +3275,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 528353,
+      "num": 528353,
+      "word": "PGONE复出不到24小时被封",
+      "onboard_time": 1682173233,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 527980,
       "num": 527980,
       "word": "长月烬明有八个编剧",
@@ -3416,14 +3440,6 @@
       "word": "女子因心情不好扔掉7万元",
       "onboard_time": 1681873466,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499760,
-      "num": 499760,
-      "word": "夫妻欠300万10年不还旅游晒视频",
-      "onboard_time": 1682169630,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3819,6 +3835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456752,
+      "num": 456752,
+      "word": "周涛 宝格丽",
+      "onboard_time": 1682172032,
+      "rank": 18,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 456240,
       "num": 456240,
       "word": "乘风破浪4一公选曲分组",
@@ -4171,6 +4195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419319,
+      "num": 419319,
+      "word": "四川烧烤申请出战",
+      "onboard_time": 1682171554,
+      "rank": 16,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 419225,
       "num": 419225,
       "word": "齐司礼",
@@ -4313,6 +4345,14 @@
       "onboard_time": 1682157807,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407743,
+      "num": 276130,
+      "word": "多地网友晒抗原称二阳",
+      "onboard_time": 1682172092,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407283,
@@ -4755,14 +4795,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 378080,
-      "num": 378080,
-      "word": "四川烧烤申请出战",
-      "onboard_time": 1682171554,
-      "rank": 16,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 377672,
       "num": 278383,
       "word": "老人绑架4岁孙女勒索女儿50万",
@@ -5073,6 +5105,14 @@
       "onboard_time": 1681812629,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362124,
+      "num": 271818,
+      "word": "张文宏建议做好药物储备应对二阳",
+      "onboard_time": 1682171914,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361812,
@@ -5467,14 +5507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 332757,
-      "num": 332757,
-      "word": "周涛 宝格丽",
-      "onboard_time": 1682172032,
-      "rank": 18,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 332465,
       "num": 332465,
       "word": "李佳琦直播",
@@ -5827,6 +5859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315651,
+      "num": 266757,
+      "word": "马龙",
+      "onboard_time": 1682173355,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315403,
       "num": 315403,
       "word": "女孩升职被同事造黄谣陷抑郁后裸辞",
@@ -6033,14 +6073,6 @@
       "onboard_time": 1681655498,
       "rank": 9,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 298558,
-      "num": 201429,
-      "word": "多地网友晒抗原称二阳",
-      "onboard_time": 1682172092,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297508,
@@ -6457,6 +6489,14 @@
       "onboard_time": 1681716266,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279927,
+      "num": 279927,
+      "word": "白鹿一口气读文章",
+      "onboard_time": 1682169511,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 279806,
@@ -7123,20 +7163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248339,
-      "num": 248339,
-      "word": "张文宏建议做好药物储备应对二阳",
-      "onboard_time": 1682171914,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247729,
-      "num": 247729,
-      "word": "白鹿一口气读文章",
-      "onboard_time": 1682169511,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 248327,
+      "num": 248327,
+      "word": "邓紫棋音乐节",
+      "onboard_time": 1682173831,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 247638,
@@ -8723,14 +8755,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 201479,
-      "num": 201479,
-      "word": "主播雪梨直播带货拉踩被判赔20万",
-      "onboard_time": 1682172451,
-      "rank": 28,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 201364,
       "num": 400189,
       "word": "北影节红毯男星造型",
@@ -8761,6 +8785,14 @@
       "onboard_time": 1682098098,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200908,
+      "num": 200908,
+      "word": "绥化",
+      "onboard_time": 1682172331,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200765,
@@ -9667,6 +9699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 186719,
+      "num": 186719,
+      "word": "狼队对战WB",
+      "onboard_time": 1682172993,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186640,
       "num": 186640,
       "word": "当被e人包围是什么体验",
@@ -10131,6 +10171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176653,
+      "num": 176653,
+      "word": "青春环游记",
+      "onboard_time": 1682168611,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176229,
       "num": 176229,
       "word": "吉克隽逸锁骨擦闪粉",
@@ -10297,22 +10345,6 @@
       "onboard_time": 1682054493,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 172535,
-      "num": 172535,
-      "word": "青春环游记",
-      "onboard_time": 1682168611,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 172423,
-      "num": 172423,
-      "word": "绥化",
-      "onboard_time": 1682172331,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172387,
@@ -10928,6 +10960,14 @@
       "word": "赵小棠暗黑童话礼服裙",
       "onboard_time": 1682067987,
       "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158513,
+      "num": 158513,
+      "word": "今晚到处都有娜扎",
+      "onboard_time": 1682173713,
+      "rank": 38,
       "category": "作品衍生"
     },
     {
@@ -12563,6 +12603,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 118455,
+      "num": 118455,
+      "word": "TREASURE演唱会",
+      "onboard_time": 1682173474,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118445,
       "num": 118445,
       "word": "公务接待喝20元一瓶白酒被处分",
@@ -13771,6 +13819,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 47953,
+      "num": 1516851,
+      "word": "珍爱地球中国在行动",
+      "onboard_time": 1682167049,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47926,
       "num": 57533,
       "word": "路过男子跳入水中奋力救起落水男孩",
@@ -13785,14 +13841,6 @@
       "onboard_time": 1681891467,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45932,
-      "num": 1516851,
-      "word": "珍爱地球中国在行动",
-      "onboard_time": 1682167049,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42917,
