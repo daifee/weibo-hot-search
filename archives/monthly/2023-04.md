@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/22 21:18:55
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/22 21:33:26
 </p>
 </blockquote>
 <p>
@@ -195,6 +195,12 @@ SpaceX星舰发射失败（热度：9840962）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%23" target="weibo">
+新冠（热度：3883116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BAi%E5%81%9Ae%23" target="weibo">
 为i做e（热度：3876545）
 </a>
@@ -263,12 +269,6 @@ BoysPlanet成团排名（热度：3746183）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%23" target="weibo">
 调休（热度：3542608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%23" target="weibo">
-新冠（热度：3531580）
 </a>
 </li>
 
