@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682159607074,
+  "endTime": 1682162039409,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -2067,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 746183,
+      "num": 1440991,
+      "word": "老人乘地铁用颤抖的手批改资料",
+      "onboard_time": 1682157027,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741727,
       "num": 741727,
       "word": "张颂文朱一龙 互让C",
@@ -3056,14 +3064,6 @@
       "word": "被撕雨衣女生回应网络传言",
       "onboard_time": 1681797751,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540877,
-      "num": 1440991,
-      "word": "老人乘地铁用颤抖的手批改资料",
-      "onboard_time": 1682157027,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -4483,6 +4483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 385559,
+      "num": 385559,
+      "word": "王源欧阳娜娜MV相似度",
+      "onboard_time": 1682158528,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385193,
       "num": 385193,
       "word": "于正也曾喊话长月烬明制片方",
@@ -5267,6 +5275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336827,
+      "num": 336827,
+      "word": "浙江一大坝挖出生长十几年白蚁后",
+      "onboard_time": 1682160448,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335838,
       "num": 335838,
       "word": "章昊成韩彬牵手下台",
@@ -5329,6 +5345,14 @@
       "onboard_time": 1681879171,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 331361,
+      "num": 331361,
+      "word": "李晨需要道歉吗",
+      "onboard_time": 1682160268,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 330925,
@@ -5761,14 +5785,6 @@
       "onboard_time": 1682126607,
       "rank": 41,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 306843,
-      "num": 306843,
-      "word": "王源欧阳娜娜MV相似度",
-      "onboard_time": 1682158528,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 306309,
@@ -6307,6 +6323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277648,
+      "num": 204747,
+      "word": "时代少年团 抢票",
+      "onboard_time": 1682160508,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276168,
       "num": 276168,
       "word": "这周日上班",
@@ -6417,6 +6441,14 @@
       "onboard_time": 1682064690,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270313,
+      "num": 203441,
+      "word": "刘涛路透状态",
+      "onboard_time": 1682160988,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269830,
@@ -6961,6 +6993,14 @@
       "onboard_time": 1682051013,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245652,
+      "num": 204052,
+      "word": "熊猫阿宝耳朵被七仔咬成V形",
+      "onboard_time": 1682156908,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244970,
@@ -7721,14 +7761,6 @@
       "onboard_time": 1682051733,
       "rank": 41,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 214651,
-      "num": 204052,
-      "word": "熊猫阿宝耳朵被七仔咬成V形",
-      "onboard_time": 1682156908,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214084,
@@ -8867,6 +8899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193555,
+      "num": 193555,
+      "word": "娜扎帮大鹏女儿追星徐明浩",
+      "onboard_time": 1682160209,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193523,
       "num": 193523,
       "word": "前任请你参加婚礼要去吗",
@@ -9875,6 +9915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174774,
+      "num": 763906,
+      "word": "大学老师课堂分享初恋经历",
+      "onboard_time": 1682157027,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 174313,
       "num": 174313,
       "word": "耐摔是否会成为手机刚需",
@@ -10305,6 +10353,14 @@
       "onboard_time": 1681958548,
       "rank": 36,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 163932,
+      "num": 163932,
+      "word": "虞书欣 刘虞佳",
+      "onboard_time": 1682160268,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 163819,
@@ -11419,14 +11475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139075,
-      "num": 763906,
-      "word": "大学老师课堂分享初恋经历",
-      "onboard_time": 1682157027,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 138728,
       "num": 138728,
       "word": "蔡徐坤说今年可以多开几场演唱会",
@@ -11625,6 +11673,14 @@
       "onboard_time": 1681737867,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133080,
+      "num": 133080,
+      "word": "史策是王皓最好的医美",
+      "onboard_time": 1682161648,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133059,
@@ -12611,6 +12667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102183,
+      "num": 102183,
+      "word": "月收入过万是什么水平",
+      "onboard_time": 1682161948,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102159,
       "num": 102159,
       "word": "诺丁汉森林0比2曼联",
@@ -12929,6 +12993,14 @@
       "onboard_time": 1681688184,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 89189,
+      "num": 101049,
+      "word": "百亿补贴杀疯了",
+      "onboard_time": 1682160268,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88340,

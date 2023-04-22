@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682159607074,
+  "endTime": 1682162039409,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -243,6 +243,14 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 746183,
+      "num": 1440991,
+      "word": "老人乘地铁用颤抖的手批改资料",
+      "onboard_time": 1682157027,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741727,
       "num": 741727,
       "word": "张颂文朱一龙 互让C",
@@ -377,14 +385,6 @@
       "onboard_time": 1682079570,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 540877,
-      "num": 1440991,
-      "word": "老人乘地铁用颤抖的手批改资料",
-      "onboard_time": 1682157027,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530333,
@@ -547,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 385559,
+      "num": 385559,
+      "word": "王源欧阳娜娜MV相似度",
+      "onboard_time": 1682158528,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 379229,
       "num": 379229,
       "word": "日本陆上自卫队第8师团长坂本雄一死亡",
@@ -635,12 +643,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336827,
+      "num": 336827,
+      "word": "浙江一大坝挖出生长十几年白蚁后",
+      "onboard_time": 1682160448,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335838,
       "num": 335838,
       "word": "章昊成韩彬牵手下台",
       "onboard_time": 1682145506,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331361,
+      "num": 331361,
+      "word": "李晨需要道歉吗",
+      "onboard_time": 1682160268,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 327447,
@@ -667,14 +691,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 306843,
-      "num": 306843,
-      "word": "王源欧阳娜娜MV相似度",
-      "onboard_time": 1682158528,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 305515,
       "num": 305515,
       "word": "罗云熙白鹿说长月烬明下周更虐",
@@ -683,8 +699,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 304215,
-      "num": 304215,
+      "raw_hot": 304933,
+      "num": 304933,
       "word": "灌篮高手",
       "onboard_time": 1682077349,
       "rank": 26,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277648,
+      "num": 204747,
+      "word": "时代少年团 抢票",
+      "onboard_time": 1682160508,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 277089,
       "num": 277089,
       "word": "流川枫 樱木花道",
@@ -745,6 +769,14 @@
       "onboard_time": 1682156368,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 270313,
+      "num": 203441,
+      "word": "刘涛路透状态",
+      "onboard_time": 1682160988,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269830,
@@ -867,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245652,
+      "num": 204052,
+      "word": "熊猫阿宝耳朵被七仔咬成V形",
+      "onboard_time": 1682156908,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244405,
       "num": 244405,
       "word": "宝马MINI",
@@ -987,14 +1027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214651,
-      "num": 204052,
-      "word": "熊猫阿宝耳朵被七仔咬成V形",
-      "onboard_time": 1682156908,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213820,
       "num": 213820,
       "word": "中国美院回应老师被指抄袭",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1682120181,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 193555,
+      "num": 193555,
+      "word": "娜扎帮大鹏女儿追星徐明浩",
+      "onboard_time": 1682160209,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 192265,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1682080649,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174774,
+      "num": 763906,
+      "word": "大学老师课堂分享初恋经历",
+      "onboard_time": 1682157027,
+      "rank": 6,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 173697,
@@ -1337,6 +1385,14 @@
       "onboard_time": 1682129907,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163932,
+      "num": 163932,
+      "word": "虞书欣 刘虞佳",
+      "onboard_time": 1682160268,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 163771,
@@ -1531,14 +1587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139075,
-      "num": 763906,
-      "word": "大学老师课堂分享初恋经历",
-      "onboard_time": 1682157027,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 138597,
       "num": 138597,
       "word": "魏如萱魔性笑声",
@@ -1577,6 +1625,14 @@
       "onboard_time": 1682139267,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133080,
+      "num": 133080,
+      "word": "史策是王皓最好的医美",
+      "onboard_time": 1682161648,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131028,
@@ -1739,6 +1795,14 @@
       "category": "科技,动漫"
     },
     {
+      "raw_hot": 102183,
+      "num": 102183,
+      "word": "月收入过万是什么水平",
+      "onboard_time": 1682161948,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101752,
       "num": 101752,
       "word": "专家称生育率降低不只因为房价高",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1682067510,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 89189,
+      "num": 101049,
+      "word": "百亿补贴杀疯了",
+      "onboard_time": 1682160268,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88340,
