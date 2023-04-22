@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682138059111,
+  "endTime": 1682140549197,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -1011,6 +1011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1315341,
+      "num": 1315341,
+      "word": "瑞幸 罚抄",
+      "onboard_time": 1682133208,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1311338,
       "num": 1311338,
       "word": "离职后你一般怎么退出工作群",
@@ -1131,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1184084,
+      "num": 1184084,
+      "word": "张杰郑州 秒没",
+      "onboard_time": 1682139925,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1182705,
       "num": 1182705,
       "word": "BoysPlanet决赛出道夜",
@@ -1179,12 +1195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1125198,
-      "num": 1125198,
-      "word": "瑞幸 罚抄",
-      "onboard_time": 1682133208,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 1142927,
+      "num": 1142927,
+      "word": "公司五一放三天同事离职了",
+      "onboard_time": 1682130867,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 1120934,
@@ -1209,14 +1225,6 @@
       "onboard_time": 1681995749,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1114205,
-      "num": 1114205,
-      "word": "公司五一放三天同事离职了",
-      "onboard_time": 1682130867,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 1110669,
@@ -1851,6 +1859,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 812484,
+      "num": 812484,
+      "word": "长期不吃晚饭的怎么样了",
+      "onboard_time": 1682135187,
+      "rank": 9,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 805655,
       "num": 805655,
       "word": "泰裤辣",
@@ -2403,6 +2419,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 643260,
+      "num": 643260,
+      "word": "专八 写不完",
+      "onboard_time": 1682137650,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 639590,
       "num": 639590,
       "word": "林惠",
@@ -2473,14 +2497,6 @@
       "onboard_time": 1681883246,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629944,
-      "num": 629944,
-      "word": "长期不吃晚饭的怎么样了",
-      "onboard_time": 1682135187,
-      "rank": 9,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 629779,
@@ -3723,6 +3739,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 434191,
+      "num": 434191,
+      "word": "常熟实行工资全额数字人民币发放",
+      "onboard_time": 1682135067,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 433486,
       "num": 433486,
       "word": "肿瘤早期5个报警信号",
@@ -4129,6 +4153,14 @@
       "onboard_time": 1681892068,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 395956,
+      "num": 395956,
+      "word": "网文作者属不属于作家范畴",
+      "onboard_time": 1682135785,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395300,
@@ -5179,14 +5211,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 326297,
-      "num": 326297,
-      "word": "网文作者属不属于作家范畴",
-      "onboard_time": 1682135785,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326009,
       "num": 230284,
       "word": "HR听完都闭嘴的离职原因",
@@ -5593,14 +5617,6 @@
       "onboard_time": 1681639526,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 299658,
-      "num": 299658,
-      "word": "专八 写不完",
-      "onboard_time": 1682137650,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 298991,
@@ -6513,14 +6529,6 @@
       "onboard_time": 1682055989,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251608,
-      "num": 251608,
-      "word": "常熟实行工资全额数字人民币发放",
-      "onboard_time": 1682135067,
-      "rank": 25,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 251179,
@@ -7547,12 +7555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209653,
+      "num": 209653,
+      "word": "ike新衣",
+      "onboard_time": 1682139925,
+      "rank": 27,
+      "category": "动漫,科技"
+    },
+    {
       "raw_hot": 209535,
       "num": 1049612,
       "word": "3名勇救落水老人的小伙考研上岸了",
       "onboard_time": 1681811428,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 209527,
+      "num": 209527,
+      "word": "工作中好的团队氛围有多重要",
+      "onboard_time": 1682139569,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 209379,
@@ -7705,6 +7729,14 @@
       "onboard_time": 1681740207,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206757,
+      "num": 206757,
+      "word": "惠英红向关锦鹏引荐胡先煦",
+      "onboard_time": 1682138906,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206673,
@@ -8363,6 +8395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194895,
+      "num": 194895,
+      "word": "我要逆风去",
+      "onboard_time": 1682140167,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194719,
       "num": 194719,
       "word": "玥烬情苏",
@@ -8569,6 +8609,14 @@
       "onboard_time": 1681889548,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192265,
+      "num": 192265,
+      "word": "小动物被抓拍的瞬间好萌",
+      "onboard_time": 1682139806,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191953,
@@ -9547,6 +9595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171969,
+      "num": 171969,
+      "word": "鹿晗分享五哈主题曲",
+      "onboard_time": 1682137769,
+      "rank": 41,
+      "category": "综艺,音乐"
+    },
+    {
       "raw_hot": 171787,
       "num": 171787,
       "word": "老师出门散步顺手救了个人",
@@ -10131,14 +10187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157273,
-      "num": 157273,
-      "word": "鹿晗分享五哈主题曲",
-      "onboard_time": 1682137769,
-      "rank": 41,
-      "category": "综艺,音乐"
-    },
-    {
       "raw_hot": 157026,
       "num": 157026,
       "word": "哈妮克孜欢迎大家来家乡新疆",
@@ -10571,6 +10619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146528,
+      "num": 146528,
+      "word": "网易云十年十大金曲",
+      "onboard_time": 1682134828,
+      "rank": 49,
+      "category": "音乐,科技"
+    },
+    {
       "raw_hot": 146150,
       "num": 146150,
       "word": "叶冰裳主动讨好澹台烬",
@@ -10939,14 +10995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136862,
-      "num": 136862,
-      "word": "网易云十年十大金曲",
-      "onboard_time": 1682134828,
-      "rank": 49,
-      "category": "音乐,科技"
-    },
-    {
       "raw_hot": 136839,
       "num": 136839,
       "word": "马龙3比0雨果",
@@ -11011,6 +11059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 135294,
+      "num": 135294,
+      "word": "脱口而出是真实想法吗",
+      "onboard_time": 1682139267,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134951,
       "num": 134951,
       "word": "让人一眼就热血沸腾的电影",
@@ -11025,6 +11081,14 @@
       "onboard_time": 1682039368,
       "rank": 39,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 134453,
+      "num": 134453,
+      "word": "麻辣烫为何越来越贵",
+      "onboard_time": 1682140408,
+      "rank": 43,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 134450,
@@ -11401,6 +11465,14 @@
       "onboard_time": 1681734446,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124851,
+      "num": 124851,
+      "word": "程潇了不起舞社小白船舞台",
+      "onboard_time": 1682139865,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 124829,
@@ -12723,6 +12795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45434,
+      "num": 1234236,
+      "word": "2023中国网络媒体论坛",
+      "onboard_time": 1682136687,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 42917,
       "num": 38401,
       "word": "根本没人敢坐我们旁边",
@@ -12761,14 +12841,6 @@
       "onboard_time": 1682071227,
       "rank": 39,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 41637,
-      "num": 1070242,
-      "word": "2023中国网络媒体论坛",
-      "onboard_time": 1682136687,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 41272,

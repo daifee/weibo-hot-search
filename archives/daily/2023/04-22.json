@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682138059111,
+  "endTime": 1682140549197,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -59,6 +59,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1315341,
+      "num": 1315341,
+      "word": "瑞幸 罚抄",
+      "onboard_time": 1682133208,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1184084,
+      "num": 1184084,
+      "word": "张杰郑州 秒没",
+      "onboard_time": 1682139925,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1180209,
       "num": 1024509,
       "word": "被今年的就业难度震惊到",
@@ -75,12 +91,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1125198,
-      "num": 1125198,
-      "word": "瑞幸 罚抄",
-      "onboard_time": 1682133208,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 1142927,
+      "num": 1142927,
+      "word": "公司五一放三天同事离职了",
+      "onboard_time": 1682130867,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 1116640,
@@ -89,14 +105,6 @@
       "onboard_time": 1682119459,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1114205,
-      "num": 1114205,
-      "word": "公司五一放三天同事离职了",
-      "onboard_time": 1682130867,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 1094915,
@@ -139,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 812484,
+      "num": 812484,
+      "word": "长期不吃晚饭的怎么样了",
+      "onboard_time": 1682135187,
+      "rank": 9,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 805434,
       "num": 805434,
       "word": "陈都灵礼服开线了",
@@ -171,20 +187,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 643260,
+      "num": 643260,
+      "word": "专八 写不完",
+      "onboard_time": 1682137650,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 639493,
       "num": 639493,
       "word": "小米电视机凌晨突然飙女高音",
       "onboard_time": 1682122586,
       "rank": 6,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 629944,
-      "num": 629944,
-      "word": "长期不吃晚饭的怎么样了",
-      "onboard_time": 1682135187,
-      "rank": 9,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 617436,
@@ -275,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434191,
+      "num": 434191,
+      "word": "常熟实行工资全额数字人民币发放",
+      "onboard_time": 1682135067,
+      "rank": 25,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 422555,
       "num": 422555,
       "word": "专家建议去旅游度假城市买房",
@@ -312,6 +336,14 @@
       "word": "成都基地回应大熊猫福禄疑淋雨",
       "onboard_time": 1682092649,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395956,
+      "num": 395956,
+      "word": "网文作者属不属于作家范畴",
+      "onboard_time": 1682135785,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -411,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326297,
-      "num": 326297,
-      "word": "网文作者属不属于作家范畴",
-      "onboard_time": 1682135785,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318581,
       "num": 318581,
       "word": "宝马回应女生在展台直播被拖走事件",
@@ -433,14 +457,6 @@
       "onboard_time": 1682126607,
       "rank": 41,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 299658,
-      "num": 299658,
-      "word": "专八 写不完",
-      "onboard_time": 1682137650,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 290889,
@@ -529,14 +545,6 @@
       "onboard_time": 1682122104,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 251608,
-      "num": 251608,
-      "word": "常熟实行工资全额数字人民币发放",
-      "onboard_time": 1682135067,
-      "rank": 25,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 249225,
@@ -635,12 +643,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 209653,
+      "num": 209653,
+      "word": "ike新衣",
+      "onboard_time": 1682139925,
+      "rank": 27,
+      "category": "动漫,科技"
+    },
+    {
+      "raw_hot": 209527,
+      "num": 209527,
+      "word": "工作中好的团队氛围有多重要",
+      "onboard_time": 1682139569,
+      "rank": 28,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 207159,
       "num": 207159,
       "word": "浙江专升本",
       "onboard_time": 1682137168,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206757,
+      "num": 206757,
+      "word": "惠英红向关锦鹏引荐胡先煦",
+      "onboard_time": 1682138906,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201056,
@@ -659,6 +691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 194895,
+      "num": 194895,
+      "word": "我要逆风去",
+      "onboard_time": 1682140167,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194719,
       "num": 194719,
       "word": "玥烬情苏",
@@ -673,6 +713,14 @@
       "onboard_time": 1682120181,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 192265,
+      "num": 192265,
+      "word": "小动物被抓拍的瞬间好萌",
+      "onboard_time": 1682139806,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192146,
@@ -787,6 +835,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 171969,
+      "num": 171969,
+      "word": "鹿晗分享五哈主题曲",
+      "onboard_time": 1682137769,
+      "rank": 41,
+      "category": "综艺,音乐"
+    },
+    {
       "raw_hot": 170974,
       "num": 144331,
       "word": "唐诗逸 白玉兰戏剧主角奖",
@@ -883,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157273,
-      "num": 157273,
-      "word": "鹿晗分享五哈主题曲",
-      "onboard_time": 1682137769,
-      "rank": 41,
-      "category": "综艺,音乐"
-    },
-    {
       "raw_hot": 155145,
       "num": 155145,
       "word": "专八阅读",
@@ -929,6 +977,14 @@
       "onboard_time": 1682069549,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146528,
+      "num": 146528,
+      "word": "网易云十年十大金曲",
+      "onboard_time": 1682134828,
+      "rank": 49,
+      "category": "音乐,科技"
     },
     {
       "raw_hot": 145987,
@@ -987,20 +1043,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136862,
-      "num": 136862,
-      "word": "网易云十年十大金曲",
-      "onboard_time": 1682134828,
-      "rank": 49,
-      "category": "音乐,科技"
-    },
-    {
       "raw_hot": 136114,
       "num": 136114,
       "word": "张国政顽童分手",
       "onboard_time": 1682137226,
       "rank": 44,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 135294,
+      "num": 135294,
+      "word": "脱口而出是真实想法吗",
+      "onboard_time": 1682139267,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134453,
+      "num": 134453,
+      "word": "麻辣烫为何越来越贵",
+      "onboard_time": 1682140408,
+      "rank": 43,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 131028,
@@ -1033,6 +1097,14 @@
       "onboard_time": 1682097080,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 124851,
+      "num": 124851,
+      "word": "程潇了不起舞社小白船舞台",
+      "onboard_time": 1682139865,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 123115,
@@ -1267,8 +1339,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41637,
-      "num": 1070242,
+      "raw_hot": 45434,
+      "num": 1234236,
       "word": "2023中国网络媒体论坛",
       "onboard_time": 1682136687,
       "rank": 2,
