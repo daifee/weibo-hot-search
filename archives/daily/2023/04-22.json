@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682137244692,
+  "endTime": 1682138059111,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2184037,
-      "num": 2184037,
+      "raw_hot": 2497129,
+      "num": 2497129,
       "word": "李晨 对任何人都是尊重的",
       "onboard_time": 1682129967,
       "rank": 3,
@@ -59,6 +59,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1180209,
+      "num": 1024509,
+      "word": "被今年的就业难度震惊到",
+      "onboard_time": 1682132968,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1171099,
       "num": 1171099,
       "word": "胡先煦回应发腮",
@@ -83,28 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1094915,
-      "num": 490332,
-      "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
-      "onboard_time": 1682125467,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1042582,
-      "num": 1042582,
+      "raw_hot": 1114205,
+      "num": 1114205,
       "word": "公司五一放三天同事离职了",
       "onboard_time": 1682130867,
       "rank": 27,
       "category": "幽默"
     },
     {
-      "raw_hot": 1024509,
-      "num": 1024509,
-      "word": "被今年的就业难度震惊到",
-      "onboard_time": 1682132968,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 1094915,
+      "num": 490332,
+      "word": "祖孙3人遭杀害事发前凶手曾买寿衣",
+      "onboard_time": 1682125467,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 976220,
@@ -179,6 +179,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 629944,
+      "num": 629944,
+      "word": "长期不吃晚饭的怎么样了",
+      "onboard_time": 1682135187,
+      "rank": 9,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 617436,
       "num": 617436,
       "word": "入职前一天被HR提醒骗子公司别来",
@@ -241,14 +249,6 @@
       "onboard_time": 1682132187,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494045,
-      "num": 494045,
-      "word": "长期不吃晚饭的怎么样了",
-      "onboard_time": 1682135187,
-      "rank": 9,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 484603,
@@ -371,6 +371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354184,
+      "num": 354184,
+      "word": "肖战三年72场话剧",
+      "onboard_time": 1682136385,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 348131,
+      "num": 348131,
+      "word": "专升本",
+      "onboard_time": 1682135608,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 344868,
       "num": 344868,
       "word": "中方要求韩方在台湾问题上谨言慎行",
@@ -395,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322654,
-      "num": 322654,
-      "word": "专升本",
-      "onboard_time": 1682135608,
-      "rank": 20,
-      "category": "教育"
+      "raw_hot": 326297,
+      "num": 326297,
+      "word": "网文作者属不属于作家范畴",
+      "onboard_time": 1682135785,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318581,
@@ -408,14 +424,6 @@
       "word": "宝马回应女生在展台直播被拖走事件",
       "onboard_time": 1682119641,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310749,
-      "num": 310749,
-      "word": "网文作者属不属于作家范畴",
-      "onboard_time": 1682135785,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -427,12 +435,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 297261,
-      "num": 297261,
-      "word": "肖战三年72场话剧",
-      "onboard_time": 1682136385,
+      "raw_hot": 299658,
+      "num": 299658,
+      "word": "专八 写不完",
+      "onboard_time": 1682137650,
       "rank": 22,
-      "category": "影视"
+      "category": "教育"
     },
     {
       "raw_hot": 290889,
@@ -475,6 +483,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 269830,
+      "num": 269830,
+      "word": "第一次当婆婆没啥经验",
+      "onboard_time": 1682132788,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 268340,
       "num": 268340,
       "word": "肯尼迪侄子演讲不停夸中国喷美国",
@@ -483,12 +499,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 267255,
-      "num": 217125,
-      "word": "第一次当婆婆没啥经验",
-      "onboard_time": 1682132788,
-      "rank": 36,
-      "category": "幽默,情感"
+      "raw_hot": 265582,
+      "num": 265582,
+      "word": "专八改错",
+      "onboard_time": 1682137226,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 263833,
@@ -619,6 +635,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 207159,
+      "num": 207159,
+      "word": "浙江专升本",
+      "onboard_time": 1682137168,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201056,
       "num": 201056,
       "word": "内娱小说男主代餐脸",
@@ -697,14 +721,6 @@
       "onboard_time": 1682122644,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179338,
-      "num": 179338,
-      "word": "专八改错",
-      "onboard_time": 1682137226,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 179079,
@@ -795,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166218,
-      "num": 166218,
-      "word": "浙江专升本",
-      "onboard_time": 1682137168,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 165542,
       "num": 165542,
       "word": "Tangoz去了INTO1演唱会",
@@ -819,12 +827,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164518,
+      "num": 164518,
+      "word": "专八听力",
+      "onboard_time": 1682137586,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164213,
       "num": 164213,
       "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
       "onboard_time": 1682129907,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163771,
+      "num": 163771,
+      "word": "看完灌篮高手破防了",
+      "onboard_time": 1682136626,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 162042,
@@ -849,6 +873,22 @@
       "onboard_time": 1682133086,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157931,
+      "num": 157931,
+      "word": "人类只有一个地球",
+      "onboard_time": 1682138008,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157273,
+      "num": 157273,
+      "word": "鹿晗分享五哈主题曲",
+      "onboard_time": 1682137769,
+      "rank": 41,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 155145,
@@ -923,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139897,
+      "num": 381283,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1682136026,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138597,
       "num": 138597,
       "word": "魏如萱魔性笑声",
@@ -939,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136862,
+      "num": 136862,
+      "word": "网易云十年十大金曲",
+      "onboard_time": 1682134828,
+      "rank": 49,
+      "category": "音乐,科技"
+    },
+    {
       "raw_hot": 136114,
       "num": 136114,
       "word": "张国政顽童分手",
@@ -953,14 +1009,6 @@
       "onboard_time": 1682134347,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 129717,
-      "num": 129717,
-      "word": "看完灌篮高手破防了",
-      "onboard_time": 1682136626,
-      "rank": 47,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 127704,
@@ -993,14 +1041,6 @@
       "onboard_time": 1682084613,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120672,
-      "num": 120672,
-      "word": "网易云十年十大金曲",
-      "onboard_time": 1682134828,
-      "rank": 49,
-      "category": "音乐,科技"
     },
     {
       "raw_hot": 115725,
@@ -1049,14 +1089,6 @@
       "onboard_time": 1682123005,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109648,
-      "num": 381283,
-      "word": "时空中的绘旅人",
-      "onboard_time": 1682136026,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 108751,
@@ -1235,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41637,
+      "num": 1070242,
+      "word": "2023中国网络媒体论坛",
+      "onboard_time": 1682136687,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 40800,
       "num": 43754,
       "word": "长月烬明",
@@ -1249,14 +1289,6 @@
       "onboard_time": 1682084012,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37092,
-      "num": 1070242,
-      "word": "2023中国网络媒体论坛",
-      "onboard_time": 1682136687,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 36332,

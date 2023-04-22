@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682137244692,
+  "endTime": 1682138059111,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -987,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2497129,
+      "num": 2497129,
+      "word": "李晨 对任何人都是尊重的",
+      "onboard_time": 1682129967,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2496880,
       "num": 1035155,
       "word": "张一山 窦骁何超莲婚礼",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1680917247,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2184037,
-      "num": 2184037,
-      "word": "李晨 对任何人都是尊重的",
-      "onboard_time": 1682129967,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 2174661,
@@ -4035,6 +4035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1180209,
+      "num": 1024509,
+      "word": "被今年的就业难度震惊到",
+      "onboard_time": 1682132968,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1177319,
       "num": 1177319,
       "word": "近四百万粉丝UP主回应B站停更潮",
@@ -4377,6 +4385,14 @@
       "onboard_time": 1681995749,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1114205,
+      "num": 1114205,
+      "word": "公司五一放三天同事离职了",
+      "onboard_time": 1682130867,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 1113597,
@@ -4739,14 +4755,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1042582,
-      "num": 1042582,
-      "word": "公司五一放三天同事离职了",
-      "onboard_time": 1682130867,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1037260,
       "num": 612844,
       "word": "贾静雯状态",
@@ -4793,14 +4801,6 @@
       "onboard_time": 1681030405,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1024509,
-      "num": 1024509,
-      "word": "被今年的就业难度震惊到",
-      "onboard_time": 1682132968,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 1021550,
@@ -9587,6 +9587,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 629944,
+      "num": 629944,
+      "word": "长期不吃晚饭的怎么样了",
+      "onboard_time": 1682135187,
+      "rank": 9,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 629779,
       "num": 629779,
       "word": "长月烬明豆瓣开分6.2分",
@@ -12833,14 +12841,6 @@
       "onboard_time": 1681125687,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 494045,
-      "num": 494045,
-      "word": "长期不吃晚饭的怎么样了",
-      "onboard_time": 1682135187,
-      "rank": 9,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 493718,
@@ -18563,6 +18563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354184,
+      "num": 354184,
+      "word": "肖战三年72场话剧",
+      "onboard_time": 1682136385,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354177,
       "num": 354177,
       "word": "井胧 中传",
@@ -18833,6 +18841,14 @@
       "onboard_time": 1681213284,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 348131,
+      "num": 348131,
+      "word": "专升本",
+      "onboard_time": 1682135608,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 348049,
@@ -20035,6 +20051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 326297,
+      "num": 326297,
+      "word": "网文作者属不属于作家范畴",
+      "onboard_time": 1682135785,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326009,
       "num": 230284,
       "word": "HR听完都闭嘴的离职原因",
@@ -20257,14 +20281,6 @@
       "onboard_time": 1680427290,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 322654,
-      "num": 322654,
-      "word": "专升本",
-      "onboard_time": 1682135608,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 322573,
@@ -20939,14 +20955,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 310749,
-      "num": 310749,
-      "word": "网文作者属不属于作家范畴",
-      "onboard_time": 1682135785,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310639,
       "num": 310639,
       "word": "斗破苍穹",
@@ -21547,6 +21555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299658,
+      "num": 299658,
+      "word": "专八 写不完",
+      "onboard_time": 1682137650,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 299103,
       "num": 299103,
       "word": "白鹿说长月烬明比周生如故更虐",
@@ -21649,14 +21665,6 @@
       "onboard_time": 1681716626,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297261,
-      "num": 297261,
-      "word": "肖战三年72场话剧",
-      "onboard_time": 1682136385,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 297058,
@@ -23571,6 +23579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 269830,
+      "num": 269830,
+      "word": "第一次当婆婆没啥经验",
+      "onboard_time": 1682132788,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 269811,
       "num": 269811,
       "word": "郭帆说流浪地球3明天拍后天上",
@@ -23731,14 +23747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 267255,
-      "num": 217125,
-      "word": "第一次当婆婆没啥经验",
-      "onboard_time": 1682132788,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 267241,
       "num": 267241,
       "word": "时尚先生四月刊",
@@ -23833,6 +23841,14 @@
       "onboard_time": 1680661350,
       "rank": 47,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 265582,
+      "num": 265582,
+      "word": "专八改错",
+      "onboard_time": 1682137226,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 265489,
@@ -30025,6 +30041,14 @@
       "onboard_time": 1680859469,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207159,
+      "num": 207159,
+      "word": "浙江专升本",
+      "onboard_time": 1682137168,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 207157,
@@ -37739,14 +37763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179338,
-      "num": 179338,
-      "word": "专八改错",
-      "onboard_time": 1682137226,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 179296,
       "num": 155267,
       "word": "张小斐小心青城山的蚊子",
@@ -39619,14 +39635,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 166218,
-      "num": 166218,
-      "word": "浙江专升本",
-      "onboard_time": 1682137168,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 166115,
       "num": 166115,
       "word": "王源健身vlog",
@@ -39899,6 +39907,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 164518,
+      "num": 164518,
+      "word": "专八听力",
+      "onboard_time": 1682137586,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164424,
       "num": 164424,
       "word": "五月天高雄vlog",
@@ -40041,6 +40057,14 @@
       "onboard_time": 1681799188,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163771,
+      "num": 163771,
+      "word": "看完灌篮高手破防了",
+      "onboard_time": 1682136626,
+      "rank": 47,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 163592,
@@ -41067,6 +41091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 157931,
+      "num": 157931,
+      "word": "人类只有一个地球",
+      "onboard_time": 1682138008,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157907,
       "num": 157907,
       "word": "WTT新乡冠军赛2023",
@@ -41121,6 +41153,14 @@
       "onboard_time": 1681465047,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157273,
+      "num": 157273,
+      "word": "鹿晗分享五哈主题曲",
+      "onboard_time": 1682137769,
+      "rank": 41,
+      "category": "综艺,音乐"
     },
     {
       "raw_hot": 157039,
@@ -43915,6 +43955,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 139897,
+      "num": 381283,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1682136026,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139827,
       "num": 139827,
       "word": "一诺狄仁杰三连决胜",
@@ -44289,6 +44337,14 @@
       "onboard_time": 1681280844,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136862,
+      "num": 136862,
+      "word": "网易云十年十大金曲",
+      "onboard_time": 1682134828,
+      "rank": 49,
+      "category": "音乐,科技"
     },
     {
       "raw_hot": 136839,
@@ -45225,14 +45281,6 @@
       "onboard_time": 1681721424,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129717,
-      "num": 129717,
-      "word": "看完灌篮高手破防了",
-      "onboard_time": 1682136626,
-      "rank": 47,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 129690,
@@ -46427,14 +46475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120672,
-      "num": 120672,
-      "word": "网易云十年十大金曲",
-      "onboard_time": 1682134828,
-      "rank": 49,
-      "category": "音乐,科技"
-    },
-    {
       "raw_hot": 120665,
       "num": 131582,
       "word": "漫画创作没有容易二字",
@@ -47489,14 +47529,6 @@
       "onboard_time": 1680935246,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109648,
-      "num": 381283,
-      "word": "时空中的绘旅人",
-      "onboard_time": 1682136026,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 109620,
@@ -50683,6 +50715,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 41637,
+      "num": 1070242,
+      "word": "2023中国网络媒体论坛",
+      "onboard_time": 1682136687,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 41537,
       "num": 136976,
       "word": "超级红人节现场视频",
@@ -50801,14 +50841,6 @@
       "onboard_time": 1681642827,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 37092,
-      "num": 1070242,
-      "word": "2023中国网络媒体论坛",
-      "onboard_time": 1682136687,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 36994,
