@@ -1,6 +1,6 @@
 {
   "startTime": 1682094181559,
-  "endTime": 1682131372574,
+  "endTime": 1682133474356,
   "band_list": [
     {
       "raw_hot": 3207478,
@@ -35,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1588708,
-      "num": 1588708,
+      "raw_hot": 1615192,
+      "num": 1615192,
       "word": "李晨 对任何人都是尊重的",
       "onboard_time": 1682129967,
       "rank": 3,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 893629,
+      "num": 893629,
+      "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
+      "onboard_time": 1682128649,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805434,
       "num": 805434,
       "word": "陈都灵礼服开线了",
@@ -99,11 +107,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 748728,
+      "num": 748728,
+      "word": "公司五一放三天同事离职了",
+      "onboard_time": 1682130867,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 741727,
       "num": 741727,
       "word": "张颂文朱一龙 互让C",
       "onboard_time": 1682128768,
       "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 731692,
+      "num": 731692,
+      "word": "专八",
+      "onboard_time": 1682133329,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 673780,
+      "num": 464453,
+      "word": "李兰迪 女儿国国王",
+      "onboard_time": 1682131347,
+      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -219,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 405079,
+      "num": 405079,
+      "word": "王源像误入了盘丝洞",
+      "onboard_time": 1682131527,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399176,
       "num": 399176,
       "word": "成都基地回应大熊猫福禄疑淋雨",
@@ -283,11 +323,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 328160,
-      "num": 322603,
-      "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
-      "onboard_time": 1682128649,
-      "rank": 21,
+      "raw_hot": 330237,
+      "num": 330237,
+      "word": "男孩被拖行后第一句是爸爸不要怪我",
+      "onboard_time": 1682132187,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -315,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287380,
+      "num": 287380,
+      "word": "曾可妮拔四颗智齿",
+      "onboard_time": 1682132367,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279303,
       "num": 279303,
       "word": "95后女生打4份工全年无休",
@@ -339,6 +387,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 263833,
+      "num": 263833,
+      "word": "宝马称接待人员不是内部员工",
+      "onboard_time": 1682130025,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262832,
+      "num": 262832,
+      "word": "星巴克",
+      "onboard_time": 1682126607,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 261176,
       "num": 145183,
       "word": "宝马mini两名发冰淇淋女生已离职",
@@ -355,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 251776,
-      "num": 230421,
-      "word": "宝马称接待人员不是内部员工",
-      "onboard_time": 1682130025,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249225,
       "num": 249225,
       "word": "魏晨状态",
@@ -377,6 +433,14 @@
       "onboard_time": 1682088454,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247530,
+      "num": 247530,
+      "word": "老番茄求婚戒指",
+      "onboard_time": 1682131886,
+      "rank": 22,
+      "category": "游戏,自然"
     },
     {
       "raw_hot": 244405,
@@ -443,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220073,
-      "num": 220073,
-      "word": "李兰迪 女儿国国王",
-      "onboard_time": 1682131347,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 218792,
       "num": 218792,
       "word": "张婧仪周也近期生图",
@@ -459,20 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216686,
-      "num": 216686,
-      "word": "星巴克",
-      "onboard_time": 1682126607,
-      "rank": 41,
-      "category": "美食,社会新闻"
+      "raw_hot": 213820,
+      "num": 213820,
+      "word": "中国美院回应老师被指抄袭",
+      "onboard_time": 1682130685,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 201878,
-      "num": 201878,
-      "word": "公司五一放三天同事离职了",
-      "onboard_time": 1682130867,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 210702,
+      "num": 210702,
+      "word": "瑞幸 罚抄",
+      "onboard_time": 1682133208,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201056,
@@ -547,6 +603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178892,
+      "num": 178892,
+      "word": "易烊千玺刘艳芬预告音频",
+      "onboard_time": 1682131946,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178163,
       "num": 178163,
       "word": "男方择偶条件要求女方没弟弟",
@@ -561,6 +625,14 @@
       "onboard_time": 1682080649,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173697,
+      "num": 211619,
+      "word": "为地球留住美好",
+      "onboard_time": 1682132788,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172765,
@@ -587,11 +659,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170678,
+      "num": 170678,
+      "word": "被今年的就业难度震惊到",
+      "onboard_time": 1682132968,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168290,
       "num": 168290,
       "word": "二手车贩直播砸宝马",
       "onboard_time": 1682118137,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164213,
+      "num": 164213,
+      "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
+      "onboard_time": 1682129907,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -611,12 +699,28 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 156648,
+      "num": 156648,
+      "word": "第一次当婆婆没啥经验",
+      "onboard_time": 1682132788,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 152087,
       "num": 152087,
       "word": "宝马4S店弄坏客户摩托后私换零件",
       "onboard_time": 1682118137,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151964,
+      "num": 151964,
+      "word": "蔡徐坤最新怼脸拍摄大片",
+      "onboard_time": 1682133086,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150513,
@@ -659,14 +763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140280,
-      "num": 140280,
-      "word": "中国美院回应老师被指抄袭",
-      "onboard_time": 1682130685,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 138597,
       "num": 138597,
       "word": "魏如萱魔性笑声",
@@ -681,6 +777,14 @@
       "onboard_time": 1682120061,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136522,
+      "num": 136522,
+      "word": "那些百看不厌的电子榨菜",
+      "onboard_time": 1682133208,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 127704,
@@ -731,6 +835,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 113304,
+      "num": 113304,
+      "word": "长峰医院住有较多失能老人",
+      "onboard_time": 1682132665,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112030,
       "num": 112030,
       "word": "范志毅把脸都不要了唱进五哈主题曲",
@@ -769,14 +881,6 @@
       "onboard_time": 1682084733,
       "rank": 40,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 104340,
-      "num": 104340,
-      "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
-      "onboard_time": 1682129907,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103330,
@@ -825,6 +929,14 @@
       "onboard_time": 1682110091,
       "rank": 26,
       "category": "其它"
+    },
+    {
+      "raw_hot": 97825,
+      "num": 97825,
+      "word": "官方核查长峰医院违规办医养结合",
+      "onboard_time": 1682133448,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96835,
@@ -961,6 +1073,14 @@
       "onboard_time": 1682102173,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 29774,
+      "num": 144976,
+      "word": "癸卯年黄帝故里拜祖大典",
+      "onboard_time": 1682132426,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26048,

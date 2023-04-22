@@ -1,0 +1,410 @@
+{
+  "runTime": 1682133474356,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1615192,
+        "num": 1615192,
+        "word": "李晨 对任何人都是尊重的",
+        "onboard_time": 1682129967,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1594866,
+        "num": 1594866,
+        "word": "新加坡鞭刑",
+        "onboard_time": 1682125109,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32633,
+        "num": 1347767,
+        "word": "县在出发",
+        "onboard_time": 1682083712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333088,
+        "num": 1333088,
+        "word": "陈飞宇 周也",
+        "onboard_time": 1682124388,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 893629,
+        "num": 893629,
+        "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
+        "onboard_time": 1682128649,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748728,
+        "num": 748728,
+        "word": "公司五一放三天同事离职了",
+        "onboard_time": 1682130867,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 731692,
+        "num": 731692,
+        "word": "专八",
+        "onboard_time": 1682133329,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 545464,
+        "num": 545464,
+        "word": "陈都灵礼服开线了",
+        "onboard_time": 1682118798,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 514151,
+        "num": 514151,
+        "word": "莱昂纳德",
+        "onboard_time": 1682128226,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467508,
+        "num": 467508,
+        "word": "宝马mini称两名女生离职消息不实",
+        "onboard_time": 1682089831,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 673780,
+        "num": 464453,
+        "word": "李兰迪 女儿国国王",
+        "onboard_time": 1682131347,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 662513,
+        "num": 459168,
+        "word": "杨幂站姐放出原图",
+        "onboard_time": 1682118737,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436269,
+        "num": 436269,
+        "word": "斯嘉丽说不会再演黑寡妇了",
+        "onboard_time": 1682129667,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 405079,
+        "num": 405079,
+        "word": "王源像误入了盘丝洞",
+        "onboard_time": 1682131527,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397477,
+        "num": 397477,
+        "word": "火腿肠为什么走向没落了",
+        "onboard_time": 1682126848,
+        "rank": 14,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 365338,
+        "num": 365338,
+        "word": "印度男子性骚扰韩国女游客",
+        "onboard_time": 1682125109,
+        "rank": 15,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 330237,
+        "num": 330237,
+        "word": "男孩被拖行后第一句是爸爸不要怪我",
+        "onboard_time": 1682132187,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287380,
+        "num": 287380,
+        "word": "曾可妮拔四颗智齿",
+        "onboard_time": 1682132367,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263843,
+        "num": 263843,
+        "word": "老番茄求婚",
+        "onboard_time": 1682082869,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 263833,
+        "num": 263833,
+        "word": "宝马称接待人员不是内部员工",
+        "onboard_time": 1682130025,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262832,
+        "num": 262832,
+        "word": "星巴克",
+        "onboard_time": 1682126607,
+        "rank": 20,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 257961,
+        "num": 257961,
+        "word": "今天好多明星演唱会抢票",
+        "onboard_time": 1682127329,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 247530,
+        "num": 247530,
+        "word": "老番茄求婚戒指",
+        "onboard_time": 1682131886,
+        "rank": 22,
+        "category": "游戏,自然"
+      },
+      {
+        "raw_hot": 244096,
+        "num": 244096,
+        "word": "入职前一天被HR提醒骗子公司别来",
+        "onboard_time": 1682122885,
+        "rank": 23,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 226454,
+        "num": 226454,
+        "word": "宝马回应女生在展台直播被拖走事件",
+        "onboard_time": 1682119641,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358650,
+        "num": 225481,
+        "word": "张颂文朱一龙 互让C",
+        "onboard_time": 1682128768,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222860,
+        "num": 222860,
+        "word": "招财猫原来不是假的",
+        "onboard_time": 1682130808,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214196,
+        "num": 214196,
+        "word": "胡先煦回应发腮",
+        "onboard_time": 1682090970,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 213820,
+        "num": 213820,
+        "word": "中国美院回应老师被指抄袭",
+        "onboard_time": 1682130685,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 173697,
+        "num": 211619,
+        "word": "为地球留住美好",
+        "onboard_time": 1682132788,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210702,
+        "num": 210702,
+        "word": "瑞幸 罚抄",
+        "onboard_time": 1682133208,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178892,
+        "num": 178892,
+        "word": "易烊千玺刘艳芬预告音频",
+        "onboard_time": 1682131946,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170678,
+        "num": 170678,
+        "word": "被今年的就业难度震惊到",
+        "onboard_time": 1682132968,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170109,
+        "num": 170109,
+        "word": "章昊以为自己是第二名",
+        "onboard_time": 1682121144,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167966,
+        "num": 167966,
+        "word": "小米电视机凌晨突然飙女高音",
+        "onboard_time": 1682122586,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 164213,
+        "num": 164213,
+        "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
+        "onboard_time": 1682129907,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156648,
+        "num": 156648,
+        "word": "第一次当婆婆没啥经验",
+        "onboard_time": 1682132788,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 151964,
+        "num": 151964,
+        "word": "蔡徐坤最新怼脸拍摄大片",
+        "onboard_time": 1682133086,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145565,
+        "num": 145565,
+        "word": "玥烬情苏",
+        "onboard_time": 1682126483,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29774,
+        "num": 144976,
+        "word": "癸卯年黄帝故里拜祖大典",
+        "onboard_time": 1682132426,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144576,
+        "num": 144576,
+        "word": "hybe",
+        "onboard_time": 1682126309,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140212,
+        "num": 140212,
+        "word": "广东一40岁男子晋升为岳父",
+        "onboard_time": 1682119519,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138118,
+        "num": 138118,
+        "word": "日本陆上自卫队第8师团长坂本雄一死亡",
+        "onboard_time": 1682123965,
+        "rank": 42,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 136522,
+        "num": 136522,
+        "word": "那些百看不厌的电子榨菜",
+        "onboard_time": 1682133208,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 132287,
+        "num": 132287,
+        "word": "边牧和金毛同天偷跑聚网吧玩通宵",
+        "onboard_time": 1682129308,
+        "rank": 44,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 130879,
+        "num": 130879,
+        "word": "95后女生打4份工全年无休",
+        "onboard_time": 1682120602,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113304,
+        "num": 113304,
+        "word": "长峰医院住有较多失能老人",
+        "onboard_time": 1682132665,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106133,
+        "num": 106133,
+        "word": "杭州男子失踪7天找到时已失温",
+        "onboard_time": 1682118919,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97825,
+        "num": 97825,
+        "word": "官方核查长峰医院违规办医养结合",
+        "onboard_time": 1682133448,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95975,
+        "num": 95975,
+        "word": "张子枫 C位烫脚",
+        "onboard_time": 1682081250,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与应对气候变化全球治理#"
+    }
+  }
+}

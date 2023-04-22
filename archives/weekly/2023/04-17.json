@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682131372574,
+  "endTime": 1682133474356,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -715,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1615192,
+      "num": 1615192,
+      "word": "李晨 对任何人都是尊重的",
+      "onboard_time": 1682129967,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1609226,
       "num": 1609226,
       "word": "宝马蒸发市值可买约5亿个冰淇淋",
@@ -729,14 +737,6 @@
       "onboard_time": 1682001934,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1588708,
-      "num": 1588708,
-      "word": "李晨 对任何人都是尊重的",
-      "onboard_time": 1682129967,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1578103,
@@ -1603,6 +1603,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 893629,
+      "num": 893629,
+      "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
+      "onboard_time": 1682128649,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 892631,
       "num": 892631,
       "word": "陈伟霆回应和章若楠炒cp",
@@ -1923,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 748728,
+      "num": 748728,
+      "word": "公司五一放三天同事离职了",
+      "onboard_time": 1682130867,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 741727,
       "num": 741727,
       "word": "张颂文朱一龙 互让C",
@@ -1953,6 +1969,14 @@
       "onboard_time": 1681904727,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 731692,
+      "num": 731692,
+      "word": "专八",
+      "onboard_time": 1682133329,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 730338,
@@ -2217,6 +2241,14 @@
       "onboard_time": 1681948286,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 673780,
+      "num": 464453,
+      "word": "李兰迪 女儿国国王",
+      "onboard_time": 1682131347,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 671981,
@@ -3955,6 +3987,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 405079,
+      "num": 405079,
+      "word": "王源像误入了盘丝洞",
+      "onboard_time": 1682131527,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404566,
       "num": 404566,
       "word": "今天是安欣48岁生日",
@@ -4987,6 +5027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330237,
+      "num": 330237,
+      "word": "男孩被拖行后第一句是爸爸不要怪我",
+      "onboard_time": 1682132187,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329937,
       "num": 329937,
       "word": "官方通报摊主被陌生人贴膏药后晕倒",
@@ -5033,14 +5081,6 @@
       "onboard_time": 1681712005,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 328160,
-      "num": 322603,
-      "word": "丈夫赌博出轨妻子离婚被要求还彩礼",
-      "onboard_time": 1682128649,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327552,
@@ -5699,6 +5739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287380,
+      "num": 287380,
+      "word": "曾可妮拔四颗智齿",
+      "onboard_time": 1682132367,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286260,
       "num": 286260,
       "word": "周冬雨亮黄色长裙",
@@ -6123,6 +6171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263833,
+      "num": 263833,
+      "word": "宝马称接待人员不是内部员工",
+      "onboard_time": 1682130025,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263394,
       "num": 263394,
       "word": "西班牙真人秀男嘉宾性侵女嘉宾",
@@ -6177,6 +6233,14 @@
       "onboard_time": 1681945944,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262832,
+      "num": 262832,
+      "word": "星巴克",
+      "onboard_time": 1682126607,
+      "rank": 41,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 262436,
@@ -6339,14 +6403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251776,
-      "num": 230421,
-      "word": "宝马称接待人员不是内部员工",
-      "onboard_time": 1682130025,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251179,
       "num": 251179,
       "word": "杨洋内八站姿",
@@ -6417,6 +6473,14 @@
       "onboard_time": 1682057368,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247530,
+      "num": 247530,
+      "word": "老番茄求婚戒指",
+      "onboard_time": 1682131886,
+      "rank": 22,
+      "category": "游戏,自然"
     },
     {
       "raw_hot": 247210,
@@ -7035,14 +7099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220073,
-      "num": 220073,
-      "word": "李兰迪 女儿国国王",
-      "onboard_time": 1682131347,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 219500,
       "num": 219500,
       "word": "Hero零封TES",
@@ -7155,14 +7211,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 216686,
-      "num": 216686,
-      "word": "星巴克",
-      "onboard_time": 1682126607,
-      "rank": 41,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 216655,
       "num": 216655,
       "word": "ZB1前五中国人含量比INTO1都高",
@@ -7217,6 +7265,14 @@
       "onboard_time": 1681706791,
       "rank": 25,
       "category": "科技"
+    },
+    {
+      "raw_hot": 213820,
+      "num": 213820,
+      "word": "中国美院回应老师被指抄袭",
+      "onboard_time": 1682130685,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 213743,
@@ -7337,6 +7393,14 @@
       "onboard_time": 1681964495,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 210702,
+      "num": 210702,
+      "word": "瑞幸 罚抄",
+      "onboard_time": 1682133208,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210670,
@@ -7809,14 +7873,6 @@
       "onboard_time": 1681809207,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 201878,
-      "num": 201878,
-      "word": "公司五一放三天同事离职了",
-      "onboard_time": 1682130867,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 201849,
@@ -9139,6 +9195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178892,
+      "num": 178892,
+      "word": "易烊千玺刘艳芬预告音频",
+      "onboard_time": 1682131946,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177874,
       "num": 248442,
       "word": "野居一家官宣",
@@ -9241,6 +9305,14 @@
       "onboard_time": 1681945643,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173697,
+      "num": 211619,
+      "word": "为地球留住美好",
+      "onboard_time": 1682132788,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173638,
@@ -9369,6 +9441,14 @@
       "onboard_time": 1681776567,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170678,
+      "num": 170678,
+      "word": "被今年的就业难度震惊到",
+      "onboard_time": 1682132968,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 170272,
@@ -9561,6 +9641,14 @@
       "onboard_time": 1681990166,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 164213,
+      "num": 164213,
+      "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
+      "onboard_time": 1682129907,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164155,
@@ -9875,6 +9963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156648,
+      "num": 156648,
+      "word": "第一次当婆婆没啥经验",
+      "onboard_time": 1682132788,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 156404,
       "num": 156404,
       "word": "贾静雯组王佳宇repo",
@@ -10017,6 +10113,14 @@
       "onboard_time": 1682118137,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151964,
+      "num": 151964,
+      "word": "蔡徐坤最新怼脸拍摄大片",
+      "onboard_time": 1682133086,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 151957,
@@ -10507,14 +10611,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 140280,
-      "num": 140280,
-      "word": "中国美院回应老师被指抄袭",
-      "onboard_time": 1682130685,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 140111,
       "num": 203377,
       "word": "vivo折叠屏七大全球唯一",
@@ -10649,6 +10745,14 @@
       "onboard_time": 1682065414,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136522,
+      "num": 136522,
+      "word": "那些百看不厌的电子榨菜",
+      "onboard_time": 1682133208,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 136337,
@@ -11339,6 +11443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113304,
+      "num": 113304,
+      "word": "长峰医院住有较多失能老人",
+      "onboard_time": 1682132665,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112933,
       "num": 153711,
       "word": "武汉烧烤申请出战",
@@ -11595,14 +11707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104340,
-      "num": 104340,
-      "word": "兼职蛙蛙崩溃警察大叔抱头安慰",
-      "onboard_time": 1682129907,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104159,
       "num": 104159,
       "word": "2023水逆来了",
@@ -11792,6 +11896,14 @@
       "word": "宝宝百日宴长辈送上百斤花式馒头",
       "onboard_time": 1681982308,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97825,
+      "num": 97825,
+      "word": "官方核查长峰医院违规办医养结合",
+      "onboard_time": 1682133448,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -12505,6 +12617,14 @@
       "onboard_time": 1681699885,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29774,
+      "num": 144976,
+      "word": "癸卯年黄帝故里拜祖大典",
+      "onboard_time": 1682132426,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29701,
