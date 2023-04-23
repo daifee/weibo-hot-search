@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682253120684,
+  "endTime": 1682254071321,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -1123,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1416349,
+      "num": 1416349,
+      "word": "姑娘年薪50万却毅然从银行离职",
+      "onboard_time": 1682249008,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1410537,
       "num": 1410537,
       "word": "虞书欣丁禹兮 黑莲花",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1682072549,
       "rank": 17,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1204482,
-      "num": 1204482,
-      "word": "姑娘年薪50万却毅然从银行离职",
-      "onboard_time": 1682249008,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1202341,
@@ -2379,6 +2379,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 767667,
+      "num": 767667,
+      "word": "网传四川天鹅林场三人服毒自杀",
+      "onboard_time": 1682252968,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762420,
       "num": 762420,
       "word": "薛之谦 玫瑰没有雨怎么盛开",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1682006250,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 717135,
+      "num": 717135,
+      "word": "王楚钦卫冕男单冠军",
+      "onboard_time": 1682253513,
+      "rank": 8,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 716648,
@@ -3467,6 +3483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 554613,
+      "num": 554613,
+      "word": "金钟铉粉丝给文彬粉丝准备巧克力",
+      "onboard_time": 1682249311,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551547,
       "num": 430631,
       "word": "金在中悼念文彬",
@@ -3553,6 +3577,14 @@
       "onboard_time": 1681925599,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537290,
+      "num": 537290,
+      "word": "快把王一博的嘴堵上",
+      "onboard_time": 1682253331,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 537251,
@@ -3689,6 +3721,14 @@
       "onboard_time": 1681975468,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523339,
+      "num": 523339,
+      "word": "应届毕业生的身份有多值钱",
+      "onboard_time": 1682249969,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 522527,
@@ -3843,6 +3883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502369,
+      "num": 502369,
+      "word": "龙城三婶确诊癌症",
+      "onboard_time": 1682251769,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 500594,
       "num": 263542,
       "word": "女子因心情不好扔掉7万元",
@@ -3857,14 +3905,6 @@
       "onboard_time": 1681810466,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 499004,
-      "num": 499004,
-      "word": "金钟铉粉丝给文彬粉丝准备巧克力",
-      "onboard_time": 1682249311,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 498610,
@@ -4241,14 +4281,6 @@
       "onboard_time": 1682091209,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 465331,
-      "num": 465331,
-      "word": "应届毕业生的身份有多值钱",
-      "onboard_time": 1682249969,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 464757,
@@ -5611,14 +5643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 371034,
-      "num": 371034,
-      "word": "龙城三婶确诊癌症",
-      "onboard_time": 1682251769,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 370044,
       "num": 370044,
       "word": "勇士VS国王",
@@ -6137,6 +6161,14 @@
       "onboard_time": 1681897588,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 342371,
+      "num": 342371,
+      "word": "假球",
+      "onboard_time": 1682253513,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 341947,
@@ -6817,6 +6849,14 @@
       "onboard_time": 1682240489,
       "rank": 22,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 301811,
+      "num": 301811,
+      "word": "澹台烬想知道叶夕雾到底长什么样的心",
+      "onboard_time": 1682250209,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 300940,
@@ -7947,14 +7987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255897,
-      "num": 225272,
-      "word": "澹台烬想知道叶夕雾到底长什么样的心",
-      "onboard_time": 1682250209,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 255809,
       "num": 255809,
       "word": "张颜齐说宋雨琦是救命恩人",
@@ -8563,6 +8595,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 234660,
+      "num": 234660,
+      "word": "城管局回应采购制服每套4591元",
+      "onboard_time": 1682253270,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234495,
       "num": 234495,
       "word": "快船战胜太阳",
@@ -8851,6 +8891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225535,
+      "num": 225535,
+      "word": "明天周一",
+      "onboard_time": 1682253810,
+      "rank": 23,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 225447,
       "num": 225447,
       "word": "世界读书日",
@@ -8905,6 +8953,14 @@
       "onboard_time": 1682070688,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224396,
+      "num": 224396,
+      "word": "故宫抢票",
+      "onboard_time": 1682252550,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 224169,
@@ -9003,6 +9059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 221594,
+      "num": 221594,
+      "word": "TES战胜MTG",
+      "onboard_time": 1682253632,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221515,
       "num": 221515,
       "word": "龚俊新剧MV有19套衣服",
@@ -9033,14 +9097,6 @@
       "onboard_time": 1681808908,
       "rank": 19,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 220961,
-      "num": 220961,
-      "word": "故宫抢票",
-      "onboard_time": 1682252550,
-      "rank": 23,
-      "category": "旅游"
     },
     {
       "raw_hot": 220763,
@@ -9953,6 +10009,14 @@
       "onboard_time": 1682049028,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202371,
+      "num": 202371,
+      "word": "无眠之境",
+      "onboard_time": 1682253151,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 202124,
@@ -11595,6 +11659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176376,
+      "num": 176376,
+      "word": "王鹤棣新剧被俞灏明揪耳朵",
+      "onboard_time": 1682253990,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176229,
       "num": 176229,
       "word": "吉克隽逸锁骨擦闪粉",
@@ -11689,14 +11761,6 @@
       "onboard_time": 1681945643,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173920,
-      "num": 173920,
-      "word": "网传四川天鹅林场三人服毒自杀",
-      "onboard_time": 1682252968,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173908,
@@ -12139,6 +12203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165045,
+      "num": 165045,
+      "word": "明明是一头很好的大象",
+      "onboard_time": 1682250091,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165043,
       "num": 165043,
       "word": "长月烬明带动安徽旅游经济",
@@ -12249,14 +12321,6 @@
       "onboard_time": 1681799188,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 163782,
-      "num": 163782,
-      "word": "明明是一头很好的大象",
-      "onboard_time": 1682250091,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 163771,
@@ -13769,6 +13833,14 @@
       "onboard_time": 1682213189,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134666,
+      "num": 134666,
+      "word": "滔博",
+      "onboard_time": 1682254051,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 134450,
