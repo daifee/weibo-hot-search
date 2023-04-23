@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682284475402,
+  "endTime": 1682285612723,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -395,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93926,
+      "num": 93926,
+      "word": "女子忘关车门4岁娃跑下车遭碾压",
+      "onboard_time": 1682274434,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91549,
       "num": 91549,
       "word": "这个世界没有改变 是你在慢慢变好",
@@ -409,14 +417,6 @@
       "onboard_time": 1682262875,
       "rank": 48,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 85977,
-      "num": 84615,
-      "word": "女子忘关车门4岁娃跑下车遭碾压",
-      "onboard_time": 1682274434,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81256,
@@ -451,20 +451,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 44085,
+      "num": 44085,
+      "word": "老师上课被学生从背后扇并挑衅",
+      "onboard_time": 1682281092,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 43133,
       "num": 48080,
       "word": "半熟男女官宣没有周雨彤",
       "onboard_time": 1682242770,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 29153,
-      "num": 29153,
-      "word": "老师上课被学生从背后扇并挑衅",
-      "onboard_time": 1682281092,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 26781,
