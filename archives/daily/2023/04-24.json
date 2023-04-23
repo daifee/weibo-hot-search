@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682291809335,
+  "endTime": 1682292823348,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1355901,
-      "num": 1355901,
+      "raw_hot": 1392592,
+      "num": 1392592,
       "word": "严禁劣迹艺人随意变相复出捞金",
       "onboard_time": 1682256753,
       "rank": 1,
@@ -27,15 +27,15 @@
       "category": "影视"
     },
     {
-      "raw_hot": 654823,
-      "num": 654823,
+      "raw_hot": 704969,
+      "num": 704969,
       "word": "中介贿赂张靓颖经纪人中标被罚210万",
       "onboard_time": 1682263175,
       "rank": 4,
       "category": "艺人"
     },
     {
-      "raw_hot": 632408,
+      "raw_hot": 688945,
       "num": 442331,
       "word": "上海一男子商场跳楼砸中女顾客",
       "onboard_time": 1682261562,
@@ -49,6 +49,14 @@
       "onboard_time": 1682243368,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 548793,
+      "num": 548793,
+      "word": "女子忘关车门4岁娃跑下车遭碾压",
+      "onboard_time": 1682274434,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497477,
@@ -67,12 +75,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 455548,
-      "num": 455548,
-      "word": "女子忘关车门4岁娃跑下车遭碾压",
-      "onboard_time": 1682274434,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 475944,
+      "num": 370982,
+      "word": "我说谢娜助理怎么那么眼熟",
+      "onboard_time": 1682248108,
+      "rank": 13,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 452630,
@@ -99,12 +107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 384451,
-      "num": 370982,
-      "word": "我说谢娜助理怎么那么眼熟",
-      "onboard_time": 1682248108,
-      "rank": 13,
-      "category": "艺人,幽默"
+      "raw_hot": 376823,
+      "num": 376823,
+      "word": "老师上课被学生从背后扇并挑衅",
+      "onboard_time": 1682281092,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 353537,
@@ -115,12 +123,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 321575,
-      "num": 321575,
-      "word": "老师上课被学生从背后扇并挑衅",
-      "onboard_time": 1682281092,
-      "rank": 39,
-      "category": "社会新闻,教育"
+      "raw_hot": 317824,
+      "num": 317824,
+      "word": "勇士2比2国王",
+      "onboard_time": 1682292143,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 292956,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240183,
+      "num": 240183,
+      "word": "当你和法国人解释五一调休",
+      "onboard_time": 1682254290,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232306,
       "num": 232306,
       "word": "谁帮张一山修修图",
@@ -227,20 +243,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 200689,
-      "num": 200689,
-      "word": "当你和法国人解释五一调休",
-      "onboard_time": 1682254290,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196471,
       "num": 196471,
       "word": "滔搏",
       "onboard_time": 1682254051,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195084,
+      "num": 195084,
+      "word": "城管局回应采购制服每套4591元",
+      "onboard_time": 1682253270,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190116,
@@ -291,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167639,
-      "num": 167639,
-      "word": "城管局回应采购制服每套4591元",
-      "onboard_time": 1682253270,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156534,
       "num": 156534,
       "word": "外卖轻食 肠胃炎",
@@ -321,6 +329,14 @@
       "onboard_time": 1682255731,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133456,
+      "num": 133456,
+      "word": "只有杨幂关晓彤爱喝豆汁吧",
+      "onboard_time": 1682291781,
+      "rank": 47,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 130959,
@@ -355,6 +371,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 121066,
+      "num": 121066,
+      "word": "小县城的生活能有多安逸",
+      "onboard_time": 1682251231,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 118363,
+      "num": 118363,
+      "word": "中国的专家真的在妖言惑众吗",
+      "onboard_time": 1682257533,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115039,
       "num": 115039,
       "word": "张婧仪分享长沙读书经历",
@@ -371,8 +403,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113686,
+      "num": 113686,
+      "word": "五一民宿现涨价毁约潮",
+      "onboard_time": 1682292143,
+      "rank": 29,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 108112,
-      "num": 84552,
+      "num": 98997,
       "word": "美团外卖",
       "onboard_time": 1682285651,
       "rank": 30,
@@ -395,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105579,
+      "num": 105579,
+      "word": "曼联晋级足总杯决赛",
+      "onboard_time": 1682291600,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104593,
       "num": 104593,
       "word": "马龙 王楚钦",
@@ -403,20 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99572,
-      "num": 99572,
-      "word": "中国的专家真的在妖言惑众吗",
-      "onboard_time": 1682257533,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99533,
-      "num": 99533,
-      "word": "小县城的生活能有多安逸",
-      "onboard_time": 1682251231,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 93447,
+      "num": 93447,
+      "word": "一人一句祝福中国航天",
+      "onboard_time": 1682292383,
+      "rank": 35,
+      "category": "科技,国内要闻"
     },
     {
       "raw_hot": 91549,
@@ -425,6 +465,14 @@
       "onboard_time": 1682264970,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 89646,
+      "num": 89646,
+      "word": "北影节天坛奖入围影片场刊",
+      "onboard_time": 1682292143,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 86750,
@@ -443,12 +491,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 74928,
-      "num": 74928,
-      "word": "曼联晋级足总杯决赛",
-      "onboard_time": 1682291600,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 75315,
+      "num": 75315,
+      "word": "戚薇被粉丝喊话不要再减肥了",
+      "onboard_time": 1682291360,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 70344,
@@ -467,7 +515,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 58975,
+      "raw_hot": 59926,
       "num": 64279,
       "word": "被欺负的猫终成了天下至尊",
       "onboard_time": 1682268560,
@@ -481,22 +529,6 @@
       "onboard_time": 1682242770,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 42194,
-      "num": 53376,
-      "word": "只有杨幂关晓彤爱喝豆汁吧",
-      "onboard_time": 1682291781,
-      "rank": 47,
-      "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 34205,
-      "num": 53371,
-      "word": "戚薇被粉丝喊话不要再减肥了",
-      "onboard_time": 1682291360,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27379,
