@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682281056820,
+  "endTime": 1682282023679,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -54809,6 +54809,14 @@
       "onboard_time": 1682147967,
       "rank": 14,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 14506,
+      "num": 16047,
+      "word": "老师上课被学生从背后扇并挑衅",
+      "onboard_time": 1682281092,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 14199,
