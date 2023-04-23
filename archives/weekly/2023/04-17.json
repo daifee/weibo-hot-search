@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682241347414,
+  "endTime": 1682242407721,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -1043,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1455056,
+      "num": 1455056,
+      "word": "爸爸靠茶具谈崩五个客户",
+      "onboard_time": 1682229389,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1453630,
       "num": 520420,
       "word": "刘雯好薄",
@@ -1339,14 +1347,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 1204492,
-      "num": 1204492,
-      "word": "爸爸靠茶具谈崩五个客户",
-      "onboard_time": 1682229389,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1202341,
       "num": 1202341,
       "word": "CBA",
@@ -1361,6 +1361,14 @@
       "onboard_time": 1681965031,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1197197,
+      "num": 1197197,
+      "word": "淄博小饼遭疯抢老板暴瘦20斤",
+      "onboard_time": 1682237189,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1184084,
@@ -1473,14 +1481,6 @@
       "onboard_time": 1681717286,
       "rank": 0,
       "category": "科技,艺人"
-    },
-    {
-      "raw_hot": 1101114,
-      "num": 1101114,
-      "word": "淄博小饼遭疯抢老板暴瘦20斤",
-      "onboard_time": 1682237189,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1094915,
@@ -4419,6 +4419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442040,
+      "num": 442040,
+      "word": "冤枉女孩偷东西商家道歉",
+      "onboard_time": 1682237429,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440657,
       "num": 382889,
       "word": "办公室一天讲不了10句话",
@@ -5355,14 +5363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374912,
-      "num": 374912,
-      "word": "冤枉女孩偷东西商家道歉",
-      "onboard_time": 1682237429,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 374273,
       "num": 374273,
       "word": "时间夺走了罗云熙的什么",
@@ -5592,6 +5592,14 @@
       "word": "小米手环8",
       "onboard_time": 1681822888,
       "rank": 14,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 363279,
+      "num": 363279,
+      "word": "苹果为什么不做节假日闹钟",
+      "onboard_time": 1682239051,
+      "rank": 9,
       "category": "科技"
     },
     {
@@ -6100,7 +6108,7 @@
     },
     {
       "raw_hot": 332343,
-      "num": 209123,
+      "num": 216535,
       "word": "当着婆婆的面给我妈转钱",
       "onboard_time": 1682237908,
       "rank": 46,
@@ -6643,12 +6651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301302,
-      "num": 301302,
-      "word": "苹果为什么不做节假日闹钟",
-      "onboard_time": 1682239051,
-      "rank": 9,
-      "category": "科技"
+      "raw_hot": 302372,
+      "num": 302372,
+      "word": "彭于晏三亚",
+      "onboard_time": 1682240489,
+      "rank": 22,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 300940,
@@ -6753,6 +6761,14 @@
       "onboard_time": 1682222129,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296155,
+      "num": 296155,
+      "word": "外卖轻食 肠胃炎",
+      "onboard_time": 1682241750,
+      "rank": 16,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 296015,
@@ -6961,6 +6977,14 @@
       "onboard_time": 1681949552,
       "rank": 17,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 288189,
+      "num": 288189,
+      "word": "扮樱木花道却成为赤木刚宪",
+      "onboard_time": 1682237068,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 287894,
@@ -7635,6 +7659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262561,
+      "num": 262561,
+      "word": "餐馆78元酸菜鱼结账时变288元",
+      "onboard_time": 1682241031,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262436,
       "num": 225438,
       "word": "千万不要跟风买墨镜",
@@ -8259,12 +8291,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238334,
-      "num": 238334,
-      "word": "彭于晏三亚",
-      "onboard_time": 1682240489,
-      "rank": 22,
-      "category": "时尚,艺人"
+      "raw_hot": 238002,
+      "num": 238002,
+      "word": "张艺兴晒长沙美食",
+      "onboard_time": 1682242171,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 237543,
@@ -8289,14 +8321,6 @@
       "onboard_time": 1682050652,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236372,
-      "num": 236372,
-      "word": "扮樱木花道却成为赤木刚宪",
-      "onboard_time": 1682237068,
-      "rank": 36,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 236339,
@@ -8552,6 +8576,14 @@
       "word": "恋与深空",
       "onboard_time": 1681790370,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 227227,
+      "num": 227227,
+      "word": "KSG战胜Hero",
+      "onboard_time": 1682241450,
+      "rank": 27,
       "category": "游戏"
     },
     {
@@ -9067,6 +9099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212447,
+      "num": 212447,
+      "word": "爸爸花费1年为儿子做手工婚床",
+      "onboard_time": 1682239888,
+      "rank": 27,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 212374,
       "num": 212374,
       "word": "灌篮高手 屏摄",
@@ -9145,14 +9185,6 @@
       "onboard_time": 1681953093,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211354,
-      "num": 211354,
-      "word": "爸爸花费1年为儿子做手工婚床",
-      "onboard_time": 1682239888,
-      "rank": 27,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 211319,
@@ -11539,6 +11571,14 @@
       "category": "综艺,音乐"
     },
     {
+      "raw_hot": 171945,
+      "num": 171945,
+      "word": "名字被刻男友亲人墓碑分手后要求除名",
+      "onboard_time": 1682239648,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 171787,
       "num": 171787,
       "word": "老师出门散步顺手救了个人",
@@ -12305,14 +12345,6 @@
       "onboard_time": 1682239469,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 155746,
-      "num": 155746,
-      "word": "名字被刻男友亲人墓碑分手后要求除名",
-      "onboard_time": 1682239648,
-      "rank": 38,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 155673,
@@ -13731,14 +13763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126989,
-      "num": 126989,
-      "word": "餐馆78元酸菜鱼结账时变288元",
-      "onboard_time": 1682241031,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126841,
       "num": 126841,
       "word": "Hero对战KSG",
@@ -13761,6 +13785,14 @@
       "onboard_time": 1682042248,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126686,
+      "num": 126686,
+      "word": "郑业成演我上班第一天",
+      "onboard_time": 1682242050,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 126371,
@@ -13953,6 +13985,14 @@
       "onboard_time": 1681642889,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120790,
+      "num": 120790,
+      "word": "红小豆返场",
+      "onboard_time": 1682242171,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 120729,
@@ -14457,6 +14497,14 @@
       "onboard_time": 1681717708,
       "rank": 41,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 106611,
+      "num": 106611,
+      "word": "山东大爷勇救落水女子",
+      "onboard_time": 1682242290,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106118,
@@ -15419,6 +15467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52120,
+      "num": 936395,
+      "word": "相约八点见",
+      "onboard_time": 1682239409,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51826,
       "num": 328187,
       "word": "苏醒现场版小城夏天",
@@ -15497,14 +15553,6 @@
       "onboard_time": 1682071227,
       "rank": 39,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 41328,
-      "num": 903692,
-      "word": "相约八点见",
-      "onboard_time": 1682239409,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41272,
