@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682217616962,
+  "endTime": 1682218161318,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -427,6 +427,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2251876,
+      "num": 2251876,
+      "word": "原来结婚证里还有温馨小提示",
+      "onboard_time": 1682210669,
+      "rank": 11,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 2243382,
       "num": 2243382,
       "word": "ASTRO成员文彬去世",
@@ -449,14 +457,6 @@
       "onboard_time": 1681809511,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2199550,
-      "num": 2199550,
-      "word": "原来结婚证里还有温馨小提示",
-      "onboard_time": 1682210669,
-      "rank": 11,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 2155605,
@@ -1179,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1286946,
+      "num": 1286946,
+      "word": "中奖一千万要不要告诉父母",
+      "onboard_time": 1682215648,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1282869,
       "num": 1282869,
       "word": "魏晨状态",
@@ -1729,14 +1737,6 @@
       "onboard_time": 1681903286,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 925495,
-      "num": 925495,
-      "word": "中奖一千万要不要告诉父母",
-      "onboard_time": 1682215648,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 925108,
@@ -3459,6 +3459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 522000,
+      "num": 522000,
+      "word": "斗破苍穹 删减",
+      "onboard_time": 1682217328,
+      "rank": 16,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 521432,
       "num": 521432,
       "word": "马龙",
@@ -3843,6 +3851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 476839,
+      "num": 248125,
+      "word": "艺人头发长得快的原因",
+      "onboard_time": 1682216247,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 475312,
       "num": 475312,
       "word": "张学友 抢票",
@@ -3929,6 +3945,14 @@
       "onboard_time": 1681792715,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 466791,
+      "num": 430812,
+      "word": "开网约车被处分的副镇长有了新职",
+      "onboard_time": 1682216427,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466606,
@@ -4217,6 +4241,14 @@
       "onboard_time": 1681879713,
       "rank": 16,
       "category": "科技"
+    },
+    {
+      "raw_hot": 437468,
+      "num": 222639,
+      "word": "湖人地板",
+      "onboard_time": 1682217087,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 434191,
@@ -4697,14 +4729,6 @@
       "onboard_time": 1681870224,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396240,
-      "num": 211129,
-      "word": "艺人头发长得快的原因",
-      "onboard_time": 1682216247,
-      "rank": 30,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 396206,
@@ -5363,14 +5387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361051,
-      "num": 210433,
-      "word": "开网约车被处分的副镇长有了新职",
-      "onboard_time": 1682216427,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359890,
       "num": 359890,
       "word": "榴莲批发价1斤低至20元",
@@ -5681,14 +5697,6 @@
       "onboard_time": 1681828231,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340056,
-      "num": 210085,
-      "word": "湖人地板",
-      "onboard_time": 1682217087,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 340039,
@@ -6436,7 +6444,7 @@
     },
     {
       "raw_hot": 294372,
-      "num": 214961,
+      "num": 247780,
       "word": "原来认真工作也会被辞退",
       "onboard_time": 1682215766,
       "rank": 23,
@@ -7228,7 +7236,7 @@
     },
     {
       "raw_hot": 259639,
-      "num": 214111,
+      "num": 229140,
       "word": "有三十元买书还是买奶茶",
       "onboard_time": 1682215289,
       "rank": 24,
@@ -7289,6 +7297,14 @@
       "onboard_time": 1682148387,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255083,
+      "num": 255083,
+      "word": "梁静茹上海演唱会",
+      "onboard_time": 1682217568,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 255016,
@@ -7475,6 +7491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 248318,
+      "num": 248318,
+      "word": "玉骨遥预约栏",
+      "onboard_time": 1682217448,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 248131,
       "num": 248131,
       "word": "四川人民主打一个大义灭亲",
@@ -7483,12 +7507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 247750,
-      "num": 247750,
-      "word": "斗破苍穹 删减",
-      "onboard_time": 1682217328,
-      "rank": 16,
-      "category": "动漫,影视"
+      "raw_hot": 247765,
+      "num": 247765,
+      "word": "陈都灵跳舞",
+      "onboard_time": 1682213129,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 247638,
@@ -7643,14 +7667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 241475,
-      "num": 213518,
-      "word": "陈都灵跳舞",
-      "onboard_time": 1682213129,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241228,
       "num": 241228,
       "word": "胡先煦眼角肿了",
@@ -7665,6 +7681,14 @@
       "onboard_time": 1681819406,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239695,
+      "num": 239695,
+      "word": "十三个猴",
+      "onboard_time": 1682214809,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 239455,
@@ -8051,14 +8075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225703,
-      "num": 225703,
-      "word": "十三个猴",
-      "onboard_time": 1682214809,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 225447,
       "num": 225447,
       "word": "世界读书日",
@@ -8395,6 +8411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 215658,
+      "num": 215658,
+      "word": "灌篮高手 彻底的大人童话",
+      "onboard_time": 1682217207,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 215248,
       "num": 215248,
       "word": "大屏上的肖战",
@@ -8475,6 +8499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212747,
+      "num": 212747,
+      "word": "游客在长沙路边摊买麻辣烫被收86元",
+      "onboard_time": 1682214569,
+      "rank": 35,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 212556,
       "num": 212556,
       "word": "勇士1比2国王",
@@ -8521,6 +8553,14 @@
       "onboard_time": 1681947387,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211686,
+      "num": 211686,
+      "word": "马嘉祺丁程鑫严浩翔外务录制暂停一期",
+      "onboard_time": 1682215348,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211676,
@@ -8617,14 +8657,6 @@
       "onboard_time": 1682169693,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 209549,
-      "num": 209549,
-      "word": "游客在长沙路边摊买麻辣烫被收86元",
-      "onboard_time": 1682214569,
-      "rank": 35,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 209535,
@@ -9515,20 +9547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196000,
+      "num": 196000,
+      "word": "毛不易献唱长空之王独白曲",
+      "onboard_time": 1682217568,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195974,
       "num": 195974,
       "word": "青岛音乐节",
       "onboard_time": 1681878211,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 195806,
-      "num": 195806,
-      "word": "马嘉祺丁程鑫严浩翔外务录制暂停一期",
-      "onboard_time": 1682215348,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 195582,
@@ -9697,14 +9729,6 @@
       "onboard_time": 1681871786,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193375,
-      "num": 193375,
-      "word": "梁静茹上海演唱会",
-      "onboard_time": 1682217568,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 193262,
@@ -9881,14 +9905,6 @@
       "onboard_time": 1682131946,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190818,
-      "num": 190818,
-      "word": "灌篮高手 彻底的大人童话",
-      "onboard_time": 1682217207,
-      "rank": 36,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 190559,
@@ -10747,6 +10763,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 174332,
+      "num": 174332,
+      "word": "奥拉迪波受伤",
+      "onboard_time": 1682216787,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174313,
       "num": 174313,
       "word": "耐摔是否会成为手机刚需",
@@ -11147,6 +11171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164557,
+      "num": 164557,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1682216727,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164518,
       "num": 164518,
       "word": "专八听力",
@@ -11217,14 +11249,6 @@
       "onboard_time": 1682136626,
       "rank": 47,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 163357,
-      "num": 163357,
-      "word": "灰熊vs湖人",
-      "onboard_time": 1682216727,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 162953,
@@ -11691,14 +11715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153178,
-      "num": 153178,
-      "word": "奥拉迪波受伤",
-      "onboard_time": 1682216787,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153022,
       "num": 132467,
       "word": "朱一龙帮倪妮整理裙摆",
@@ -11721,14 +11737,6 @@
       "onboard_time": 1681721307,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152351,
-      "num": 152351,
-      "word": "毛不易献唱长空之王独白曲",
-      "onboard_time": 1682217568,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 152125,
@@ -12089,14 +12097,6 @@
       "onboard_time": 1681776567,
       "rank": 33,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 145691,
-      "num": 145691,
-      "word": "玉骨遥预约栏",
-      "onboard_time": 1682217448,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 145604,
@@ -12521,6 +12521,14 @@
       "onboard_time": 1682065414,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136706,
+      "num": 136706,
+      "word": "原公司忘记停缴社保让我补交",
+      "onboard_time": 1682217806,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 136337,
