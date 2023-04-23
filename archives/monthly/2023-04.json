@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682230892866,
+  "endTime": 1682231668185,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1907,6 +1907,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1931850,
+      "num": 1931850,
+      "word": "二次感染比第一次更难受吗",
+      "onboard_time": 1682225551,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1924998,
       "num": 1924998,
       "word": "王一博从ye到yue",
@@ -2827,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1565581,
+      "num": 1516424,
+      "word": "Lisa的腿好惊人",
+      "onboard_time": 1682228611,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1562444,
       "num": 1562444,
       "word": "林生斌",
@@ -3059,20 +3075,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1518659,
+      "num": 575754,
+      "word": "贾玲是真瘦了还是黑色显瘦",
+      "onboard_time": 1682228066,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1517109,
       "num": 1517109,
       "word": "感觉新冠不再来了还用打疫苗吗",
       "onboard_time": 1681778611,
       "rank": 4,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1516424,
-      "num": 1516424,
-      "word": "Lisa的腿好惊人",
-      "onboard_time": 1682228611,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1505814,
@@ -3280,14 +3296,6 @@
       "word": "官方通报禁止村民栽种蔬菜瓜果",
       "onboard_time": 1680400706,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1432205,
-      "num": 1432205,
-      "word": "二次感染比第一次更难受吗",
-      "onboard_time": 1682225551,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3697,14 +3705,6 @@
       "onboard_time": 1682133208,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1314845,
-      "num": 532574,
-      "word": "贾玲是真瘦了还是黑色显瘦",
-      "onboard_time": 1682228066,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1311569,
@@ -9899,6 +9899,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 636288,
+      "num": 636288,
+      "word": "爸爸靠茶具谈崩五个客户",
+      "onboard_time": 1682229389,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 635373,
       "num": 635373,
       "word": "在美流浪32年老人回国后续",
@@ -10281,14 +10289,6 @@
       "onboard_time": 1681970489,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 618104,
-      "num": 468832,
-      "word": "爸爸靠茶具谈崩五个客户",
-      "onboard_time": 1682229389,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 617799,
@@ -15291,6 +15291,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 440148,
+      "num": 440148,
+      "word": "99年小伙隐居6年家变图书馆",
+      "onboard_time": 1682229089,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 440036,
       "num": 440036,
       "word": "他是谁",
@@ -15752,6 +15760,14 @@
       "word": "变瘦对你来说很重要吗",
       "onboard_time": 1681358851,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426408,
+      "num": 426408,
+      "word": "新冠查漏补缺",
+      "onboard_time": 1682229689,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -18027,14 +18043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382038,
-      "num": 382038,
-      "word": "99年小伙隐居6年家变图书馆",
-      "onboard_time": 1682229089,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 381904,
       "num": 215425,
       "word": "课上唯一认真听讲的被赶出去了",
@@ -20169,6 +20177,14 @@
       "onboard_time": 1680617071,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 340473,
+      "num": 174511,
+      "word": "罗云熙直播说不能再吃了胖死了",
+      "onboard_time": 1682231609,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 340213,
@@ -24291,14 +24307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273725,
-      "num": 180927,
-      "word": "新冠查漏补缺",
-      "onboard_time": 1682229689,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273581,
       "num": 273581,
       "word": "杜江路演站姿",
@@ -25497,6 +25505,14 @@
       "onboard_time": 1680501932,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258092,
+      "num": 174188,
+      "word": "张颂文谈在北影节的幸福回忆",
+      "onboard_time": 1682231309,
+      "rank": 31,
+      "category": "艺人,影视"
     },
     {
       "raw_hot": 257943,
@@ -28564,7 +28580,7 @@
     },
     {
       "raw_hot": 227284,
-      "num": 180816,
+      "num": 202163,
       "word": "灌篮高手 我来考考你",
       "onboard_time": 1682230231,
       "rank": 31,
@@ -29881,6 +29897,14 @@
       "onboard_time": 1682076510,
       "rank": 39,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 216697,
+      "num": 170814,
+      "word": "王一博新片首映礼哭了",
+      "onboard_time": 1682231609,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 216655,
@@ -38579,6 +38603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183567,
+      "num": 183567,
+      "word": "S13比赛日期公布",
+      "onboard_time": 1682229509,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183502,
       "num": 183502,
       "word": "哈兰德纪录收割机",
@@ -40017,6 +40049,14 @@
       "onboard_time": 1680876629,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174715,
+      "num": 174715,
+      "word": "汕尾美团",
+      "onboard_time": 1682230828,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174663,
@@ -41891,6 +41931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163255,
+      "num": 163255,
+      "word": "二次感染新冠有哪些症状",
+      "onboard_time": 1682231249,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163253,
       "num": 284780,
       "word": "是时候换台电车了",
@@ -42081,6 +42129,14 @@
       "onboard_time": 1681708648,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162285,
+      "num": 162285,
+      "word": "山大研究发现助听器能防痴呆",
+      "onboard_time": 1682230770,
+      "rank": 41,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 162171,
@@ -43089,14 +43145,6 @@
       "onboard_time": 1680430406,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155991,
-      "num": 155991,
-      "word": "S13比赛日期公布",
-      "onboard_time": 1682229509,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 155972,
@@ -45801,14 +45849,6 @@
       "onboard_time": 1680773494,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140274,
-      "num": 140274,
-      "word": "山大研究发现助听器能防痴呆",
-      "onboard_time": 1682230770,
-      "rank": 41,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 140230,
@@ -49659,6 +49699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108934,
+      "num": 132849,
+      "word": "手机街拍如何出大片",
+      "onboard_time": 1682231548,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 108909,
       "num": 108909,
       "word": "云南烧烤申请出战",
@@ -49889,14 +49937,6 @@
       "onboard_time": 1680338672,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 106306,
-      "num": 106306,
-      "word": "汕尾美团",
-      "onboard_time": 1682230828,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106145,
@@ -51187,6 +51227,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 92305,
+      "num": 1454952,
+      "word": "当千里江山图遇上锦绣江苏",
+      "onboard_time": 1682226867,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92281,
       "num": 92281,
       "word": "利马伤退",
@@ -51777,14 +51825,6 @@
       "onboard_time": 1681569991,
       "rank": 45,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 81430,
-      "num": 1454952,
-      "word": "当千里江山图遇上锦绣江苏",
-      "onboard_time": 1682226867,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80904,

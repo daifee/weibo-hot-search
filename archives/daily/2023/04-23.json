@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682230892866,
+  "endTime": 1682231668185,
   "band_list": [
     {
       "raw_hot": 2649324,
@@ -32,6 +32,14 @@
       "word": "五一调休",
       "onboard_time": 1682207725,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1931850,
+      "num": 1931850,
+      "word": "二次感染比第一次更难受吗",
+      "onboard_time": 1682225551,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -91,12 +99,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1516424,
+      "raw_hot": 1565581,
       "num": 1516424,
       "word": "Lisa的腿好惊人",
       "onboard_time": 1682228611,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1518659,
+      "num": 575754,
+      "word": "贾玲是真瘦了还是黑色显瘦",
+      "onboard_time": 1682228066,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1476656,
@@ -107,28 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1432205,
-      "num": 1432205,
-      "word": "二次感染比第一次更难受吗",
-      "onboard_time": 1682225551,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1421103,
       "num": 1421103,
       "word": "女子1月内收5笔工资直呼看不懂",
       "onboard_time": 1682222008,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1314845,
-      "num": 532574,
-      "word": "贾玲是真瘦了还是黑色显瘦",
-      "onboard_time": 1682228066,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1231936,
@@ -243,20 +243,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 636288,
+      "num": 636288,
+      "word": "爸爸靠茶具谈崩五个客户",
+      "onboard_time": 1682229389,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 623436,
       "num": 623436,
       "word": "刘宇宁把家人说成家人们",
       "onboard_time": 1682163749,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 618104,
-      "num": 468832,
-      "word": "爸爸靠茶具谈崩五个客户",
-      "onboard_time": 1682229389,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 588341,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440148,
+      "num": 440148,
+      "word": "99年小伙隐居6年家变图书馆",
+      "onboard_time": 1682229089,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438475,
       "num": 283946,
       "word": "赵露思紫色抹胸裙造型",
@@ -353,6 +361,14 @@
       "onboard_time": 1682155526,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 426408,
+      "num": 426408,
+      "word": "新冠查漏补缺",
+      "onboard_time": 1682229689,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424636,
@@ -393,14 +409,6 @@
       "onboard_time": 1682217448,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 382038,
-      "num": 382038,
-      "word": "99年小伙隐居6年家变图书馆",
-      "onboard_time": 1682229089,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381904,
@@ -489,6 +497,14 @@
       "onboard_time": 1682174378,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 340473,
+      "num": 174511,
+      "word": "罗云熙直播说不能再吃了胖死了",
+      "onboard_time": 1682231609,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 337972,
@@ -611,14 +627,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 273725,
-      "num": 180927,
-      "word": "新冠查漏补缺",
-      "onboard_time": 1682229689,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273581,
       "num": 273581,
       "word": "杜江路演站姿",
@@ -657,6 +665,14 @@
       "onboard_time": 1682215289,
       "rank": 24,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 258092,
+      "num": 174188,
+      "word": "张颂文谈在北影节的幸福回忆",
+      "onboard_time": 1682231309,
+      "rank": 31,
+      "category": "艺人,影视"
     },
     {
       "raw_hot": 255083,
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 227284,
-      "num": 180816,
+      "num": 202163,
       "word": "灌篮高手 我来考考你",
       "onboard_time": 1682230231,
       "rank": 31,
@@ -785,6 +801,14 @@
       "onboard_time": 1682207304,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216697,
+      "num": 170814,
+      "word": "王一博新片首映礼哭了",
+      "onboard_time": 1682231609,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 212747,
@@ -947,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183567,
+      "num": 183567,
+      "word": "S13比赛日期公布",
+      "onboard_time": 1682229509,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183438,
       "num": 183438,
       "word": "湖人首节领先灰熊26分",
@@ -968,6 +1000,14 @@
       "word": "宝马",
       "onboard_time": 1682211328,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174715,
+      "num": 174715,
+      "word": "汕尾美团",
+      "onboard_time": 1682230828,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1083,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163255,
+      "num": 163255,
+      "word": "二次感染新冠有哪些症状",
+      "onboard_time": 1682231249,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162285,
+      "num": 162285,
+      "word": "山大研究发现助听器能防痴呆",
+      "onboard_time": 1682230770,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 162067,
       "num": 162067,
       "word": "陈梦4比0孙颖莎",
@@ -1065,14 +1121,6 @@
       "onboard_time": 1682228010,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155991,
-      "num": 155991,
-      "word": "S13比赛日期公布",
-      "onboard_time": 1682229509,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 154435,
@@ -1121,14 +1169,6 @@
       "onboard_time": 1682175691,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140274,
-      "num": 140274,
-      "word": "山大研究发现助听器能防痴呆",
-      "onboard_time": 1682230770,
-      "rank": 41,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 136812,
@@ -1275,12 +1315,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 106306,
-      "num": 106306,
-      "word": "汕尾美团",
-      "onboard_time": 1682230828,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 108934,
+      "num": 132849,
+      "word": "手机街拍如何出大片",
+      "onboard_time": 1682231548,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 106118,
@@ -1347,20 +1387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92305,
+      "num": 1454952,
+      "word": "当千里江山图遇上锦绣江苏",
+      "onboard_time": 1682226867,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82013,
       "num": 82013,
       "word": "优酷把长月烬明财神留下了",
       "onboard_time": 1682184379,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 81430,
-      "num": 1454952,
-      "word": "当千里江山图遇上锦绣江苏",
-      "onboard_time": 1682226867,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78413,
