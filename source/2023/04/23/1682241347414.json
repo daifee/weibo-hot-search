@@ -1,0 +1,410 @@
+{
+  "runTime": 1682241347414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1204492,
+        "num": 1204492,
+        "word": "爸爸靠茶具谈崩五个客户",
+        "onboard_time": 1682229389,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1101114,
+        "num": 1101114,
+        "word": "淄博小饼遭疯抢老板暴瘦20斤",
+        "onboard_time": 1682237189,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 41328,
+        "num": 903692,
+        "word": "相约八点见",
+        "onboard_time": 1682239409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 892754,
+        "num": 892754,
+        "word": "罗云熙直播说不能再吃了胖死了",
+        "onboard_time": 1682231609,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600970,
+        "num": 600970,
+        "word": "警方回应薛之谦演唱会被激光笔照眼",
+        "onboard_time": 1682238750,
+        "rank": 4,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 444069,
+        "num": 444069,
+        "word": "五一调休",
+        "onboard_time": 1682207725,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432520,
+        "num": 432520,
+        "word": "女子1月内收5笔工资直呼看不懂",
+        "onboard_time": 1682222008,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374912,
+        "num": 374912,
+        "word": "冤枉女孩偷东西商家道歉",
+        "onboard_time": 1682237429,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332949,
+        "num": 332949,
+        "word": "闫桉真的回内娱了",
+        "onboard_time": 1682234847,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301302,
+        "num": 301302,
+        "word": "苹果为什么不做节假日闹钟",
+        "onboard_time": 1682239051,
+        "rank": 9,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 970879,
+        "num": 301021,
+        "word": "二次感染比第一次更难受吗",
+        "onboard_time": 1682225551,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 961708,
+        "num": 299291,
+        "word": "杨幂有11个耳洞",
+        "onboard_time": 1682233109,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 926675,
+        "num": 297676,
+        "word": "Lisa的腿好惊人",
+        "onboard_time": 1682228611,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 794151,
+        "num": 296940,
+        "word": "戚薇瘦了",
+        "onboard_time": 1682237010,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 727865,
+        "num": 294566,
+        "word": "贾玲是真瘦了还是黑色显瘦",
+        "onboard_time": 1682228066,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306733,
+        "num": 294170,
+        "word": "依萍 连个星期天也没有",
+        "onboard_time": 1682223751,
+        "rank": 15,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 292768,
+        "num": 292768,
+        "word": "Jennie衣服好辣",
+        "onboard_time": 1682227050,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290204,
+        "num": 290204,
+        "word": "田曦薇半熟男女开机照",
+        "onboard_time": 1682238092,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287002,
+        "num": 287002,
+        "word": "今天的怨气可以养活十个邪剑仙",
+        "onboard_time": 1682236468,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252727,
+        "num": 252727,
+        "word": "中奖一千万要不要告诉父母",
+        "onboard_time": 1682215648,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422386,
+        "num": 251490,
+        "word": "澹台烬发疯了",
+        "onboard_time": 1682237068,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250202,
+        "num": 250202,
+        "word": "于正说赵丽颖85花演技第一名",
+        "onboard_time": 1682221828,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238334,
+        "num": 238334,
+        "word": "彭于晏三亚",
+        "onboard_time": 1682240489,
+        "rank": 22,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 236372,
+        "num": 236372,
+        "word": "扮樱木花道却成为赤木刚宪",
+        "onboard_time": 1682237068,
+        "rank": 23,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 230684,
+        "num": 230684,
+        "word": "27岁女儿被妈妈教训女孩不用买房",
+        "onboard_time": 1682219248,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215578,
+        "num": 215578,
+        "word": "iPhone用户因闹钟没响上班迟到",
+        "onboard_time": 1682232930,
+        "rank": 25,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 214835,
+        "num": 214835,
+        "word": "KSG晋级季后赛败者组",
+        "onboard_time": 1682240550,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211354,
+        "num": 211354,
+        "word": "爸爸花费1年为儿子做手工婚床",
+        "onboard_time": 1682239888,
+        "rank": 27,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 195294,
+        "num": 195294,
+        "word": "BLACKPINK今天造型杀疯了",
+        "onboard_time": 1682229689,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112199,
+        "num": 185142,
+        "word": "调休日上班效率有区别吗",
+        "onboard_time": 1682230287,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 332343,
+        "num": 182582,
+        "word": "当着婆婆的面给我妈转钱",
+        "onboard_time": 1682237908,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177218,
+        "num": 177218,
+        "word": "店主漏看监控冤枉8岁女孩是小偷",
+        "onboard_time": 1682235509,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172786,
+        "num": 172786,
+        "word": "超8成图书被已婚人群买走",
+        "onboard_time": 1682234249,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166447,
+        "num": 166447,
+        "word": "开网约车被处分的副镇长有了新职",
+        "onboard_time": 1682216427,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164731,
+        "num": 164731,
+        "word": "新冠查漏补缺",
+        "onboard_time": 1682229689,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161788,
+        "num": 161788,
+        "word": "假如灌篮高手真人版长这样",
+        "onboard_time": 1682233467,
+        "rank": 35,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 161131,
+        "num": 161131,
+        "word": "王一博新片首映礼哭了",
+        "onboard_time": 1682231609,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155833,
+        "num": 155833,
+        "word": "斗破苍穹",
+        "onboard_time": 1682239469,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155746,
+        "num": 155746,
+        "word": "名字被刻男友亲人墓碑分手后要求除名",
+        "onboard_time": 1682239648,
+        "rank": 38,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 147511,
+        "num": 147511,
+        "word": "灌篮高手 我来考考你",
+        "onboard_time": 1682230231,
+        "rank": 39,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 141588,
+        "num": 141588,
+        "word": "我的钱包 上班吧你",
+        "onboard_time": 1682240429,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140466,
+        "num": 140466,
+        "word": "张若昀吃面cue白宇",
+        "onboard_time": 1682237969,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139847,
+        "num": 139847,
+        "word": "相亲角月薪过万者仍难找对象",
+        "onboard_time": 1682235209,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134508,
+        "num": 134508,
+        "word": "小心张颂文拉黑你",
+        "onboard_time": 1682233048,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126989,
+        "num": 126989,
+        "word": "餐馆78元酸菜鱼结账时变288元",
+        "onboard_time": 1682241031,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126841,
+        "num": 126841,
+        "word": "Hero对战KSG",
+        "onboard_time": 1682235209,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126575,
+        "num": 126575,
+        "word": "女性为什么不愿意生",
+        "onboard_time": 1682225732,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123828,
+        "num": 123828,
+        "word": "徐明浩许愿SEVENTEEN能被更多人看到",
+        "onboard_time": 1682235568,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123278,
+        "num": 123278,
+        "word": "朴彩英眼妆好漂亮",
+        "onboard_time": 1682231848,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96202,
+        "num": 111506,
+        "word": "薛凯琪花仙子造型",
+        "onboard_time": 1682240128,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#真抓实干答好改革之问#"
+    }
+  }
+}

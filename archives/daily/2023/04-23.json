@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682238805762,
+  "endTime": 1682241347414,
   "band_list": [
     {
       "raw_hot": 2649324,
@@ -139,12 +139,28 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 1204492,
+      "num": 1204492,
+      "word": "爸爸靠茶具谈崩五个客户",
+      "onboard_time": 1682229389,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1122508,
       "num": 358385,
       "word": "杨幂有11个耳洞",
       "onboard_time": 1682233109,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1101114,
+      "num": 1101114,
+      "word": "淄博小饼遭疯抢老板暴瘦20斤",
+      "onboard_time": 1682237189,
+      "rank": 30,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1084014,
@@ -227,6 +243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 794151,
+      "num": 341100,
+      "word": "戚薇瘦了",
+      "onboard_time": 1682237010,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 742545,
       "num": 742545,
       "word": "3个职业平均月薪超2万",
@@ -267,14 +291,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 636288,
-      "num": 636288,
-      "word": "爸爸靠茶具谈崩五个客户",
-      "onboard_time": 1682229389,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 623436,
       "num": 623436,
       "word": "刘宇宁把家人说成家人们",
@@ -283,12 +299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 602609,
-      "num": 209130,
-      "word": "淄博小饼遭疯抢老板暴瘦20斤",
-      "onboard_time": 1682237189,
-      "rank": 30,
-      "category": "社会新闻,美食"
+      "raw_hot": 600970,
+      "num": 600970,
+      "word": "警方回应薛之谦演唱会被激光笔照眼",
+      "onboard_time": 1682238750,
+      "rank": 45,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 588341,
@@ -297,14 +313,6 @@
       "onboard_time": 1682214569,
       "rank": 12,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 553640,
-      "num": 341100,
-      "word": "戚薇瘦了",
-      "onboard_time": 1682237010,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 514585,
@@ -515,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 374912,
+      "num": 374912,
+      "word": "冤枉女孩偷东西商家道歉",
+      "onboard_time": 1682237429,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362909,
       "num": 362909,
       "word": "何悯鸿怀孕还要给戚牧做保姆",
@@ -595,12 +611,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 331047,
-      "num": 331047,
-      "word": "冤枉女孩偷东西商家道歉",
-      "onboard_time": 1682237429,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 332343,
+      "num": 209123,
+      "word": "当着婆婆的面给我妈转钱",
+      "onboard_time": 1682237908,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 329846,
@@ -643,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301302,
+      "num": 301302,
+      "word": "苹果为什么不做节假日闹钟",
+      "onboard_time": 1682239051,
+      "rank": 9,
+      "category": "科技"
+    },
+    {
       "raw_hot": 300640,
       "num": 300640,
       "word": "灰熊单节9分",
@@ -681,6 +705,14 @@
       "onboard_time": 1682175272,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290204,
+      "num": 290204,
+      "word": "田曦薇半熟男女开机照",
+      "onboard_time": 1682238092,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 287234,
@@ -891,6 +923,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238334,
+      "num": 238334,
+      "word": "彭于晏三亚",
+      "onboard_time": 1682240489,
+      "rank": 22,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 236372,
+      "num": 236372,
+      "word": "扮樱木花道却成为赤木刚宪",
+      "onboard_time": 1682237068,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 235112,
       "num": 235112,
       "word": "湖人2比1灰熊",
@@ -939,28 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222124,
-      "num": 209123,
-      "word": "当着婆婆的面给我妈转钱",
-      "onboard_time": 1682237908,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 221321,
       "num": 221321,
       "word": "假如灌篮高手真人版长这样",
       "onboard_time": 1682233467,
       "rank": 32,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 221023,
-      "num": 221023,
-      "word": "田曦薇半熟男女开机照",
-      "onboard_time": 1682238092,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 220602,
@@ -977,6 +1009,14 @@
       "onboard_time": 1682207304,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214835,
+      "num": 214835,
+      "word": "KSG晋级季后赛败者组",
+      "onboard_time": 1682240550,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 212747,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1682226450,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211354,
+      "num": 211354,
+      "word": "爸爸花费1年为儿子做手工婚床",
+      "onboard_time": 1682239888,
+      "rank": 27,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 210359,
@@ -1121,14 +1169,6 @@
       "onboard_time": 1682217568,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195863,
-      "num": 195863,
-      "word": "扮樱木花道却成为赤木刚宪",
-      "onboard_time": 1682237068,
-      "rank": 36,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 195582,
@@ -1331,6 +1371,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155833,
+      "num": 155833,
+      "word": "斗破苍穹",
+      "onboard_time": 1682239469,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 155746,
+      "num": 155746,
+      "word": "名字被刻男友亲人墓碑分手后要求除名",
+      "onboard_time": 1682239648,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 155329,
       "num": 155329,
       "word": "半熟男女今日开机",
@@ -1379,20 +1435,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 145105,
-      "num": 145105,
-      "word": "警方回应薛之谦演唱会被激光笔照眼",
-      "onboard_time": 1682238750,
-      "rank": 45,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 141594,
       "num": 141594,
       "word": "第30届大学生电影节正式启动",
       "onboard_time": 1682233170,
       "rank": 36,
       "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 141588,
+      "num": 141588,
+      "word": "我的钱包 上班吧你",
+      "onboard_time": 1682240429,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 141044,
@@ -1496,6 +1552,22 @@
       "word": "WB零封狼队",
       "onboard_time": 1682176773,
       "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126989,
+      "num": 126989,
+      "word": "餐馆78元酸菜鱼结账时变288元",
+      "onboard_time": 1682241031,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126841,
+      "num": 126841,
+      "word": "Hero对战KSG",
+      "onboard_time": 1682235209,
+      "rank": 45,
       "category": "游戏"
     },
     {
@@ -1659,6 +1731,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 96202,
+      "num": 111506,
+      "word": "薛凯琪花仙子造型",
+      "onboard_time": 1682240128,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 95807,
       "num": 95807,
       "word": "男孩扎留置针为住院妈妈买最爱榴莲",
@@ -1755,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41328,
+      "num": 903692,
+      "word": "相约八点见",
+      "onboard_time": 1682239409,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29860,
       "num": 1805172,
       "word": "珍爱地球中国在行动",
@@ -1775,6 +1863,9 @@
     },
     {
       "word": "#北京冬奥会官方电影北京2022#"
+    },
+    {
+      "word": "#真抓实干答好改革之问#"
     }
   ]
 }
