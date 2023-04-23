@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682254071321,
+  "endTime": 1682255928692,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -699,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1821726,
+      "num": 1821726,
+      "word": "姑娘年薪50万却毅然从银行离职",
+      "onboard_time": 1682249008,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1820975,
       "num": 1820975,
       "word": "陈飞宇 周也",
@@ -1123,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1416349,
-      "num": 1416349,
-      "word": "姑娘年薪50万却毅然从银行离职",
-      "onboard_time": 1682249008,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1410537,
       "num": 1410537,
       "word": "虞书欣丁禹兮 黑莲花",
@@ -1443,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1169381,
+      "num": 1169381,
+      "word": "假球",
+      "onboard_time": 1682253513,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1167755,
       "num": 1167755,
       "word": "杜华 章昊创造了历史",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1682089831,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1036740,
+      "num": 767667,
+      "word": "网传四川天鹅林场三人服毒自杀",
+      "onboard_time": 1682252968,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1030624,
@@ -2379,14 +2395,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 767667,
-      "num": 767667,
-      "word": "网传四川天鹅林场三人服毒自杀",
-      "onboard_time": 1682252968,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 762420,
       "num": 762420,
       "word": "薛之谦 玫瑰没有雨怎么盛开",
@@ -2649,6 +2657,14 @@
       "onboard_time": 1681958848,
       "rank": 8,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 699598,
+      "num": 699598,
+      "word": "快把王一博的嘴堵上",
+      "onboard_time": 1682253331,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 699174,
@@ -3579,14 +3595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 537290,
-      "num": 537290,
-      "word": "快把王一博的嘴堵上",
-      "onboard_time": 1682253331,
-      "rank": 10,
-      "category": "影视"
-    },
-    {
       "raw_hot": 537251,
       "num": 366380,
       "word": "女子85元买椰子螺开出4.52克美乐珠",
@@ -3649,6 +3657,14 @@
       "onboard_time": 1681979549,
       "rank": 25,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 531470,
+      "num": 531470,
+      "word": "TTG对战AG",
+      "onboard_time": 1682254409,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 530333,
@@ -4459,6 +4475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449524,
+      "num": 449524,
+      "word": "王鹤棣新剧被俞灏明揪耳朵",
+      "onboard_time": 1682253990,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449007,
       "num": 449007,
       "word": "坠亡女演员丈夫否认吵架不系安全扣",
@@ -4977,6 +5001,14 @@
       "onboard_time": 1682239888,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 409970,
+      "num": 409970,
+      "word": "城管局回应采购制服每套4591元",
+      "onboard_time": 1682253270,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409501,
@@ -5955,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355002,
+      "num": 355002,
+      "word": "叶夕雾说澹台烬再见了",
+      "onboard_time": 1682254171,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 354827,
       "num": 151478,
       "word": "秦霄贤孙珍妮合照",
@@ -6161,14 +6201,6 @@
       "onboard_time": 1681897588,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 342371,
-      "num": 342371,
-      "word": "假球",
-      "onboard_time": 1682253513,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 341947,
@@ -7251,6 +7283,14 @@
       "category": "科技,音乐"
     },
     {
+      "raw_hot": 284698,
+      "num": 254838,
+      "word": "滔博",
+      "onboard_time": 1682254051,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284420,
       "num": 245225,
       "word": "原来上课偷吃东西那么明显",
@@ -7273,6 +7313,14 @@
       "onboard_time": 1681974208,
       "rank": 31,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 283572,
+      "num": 223417,
+      "word": "罗云熙嘴上说恨眼里全是爱",
+      "onboard_time": 1682254951,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 283315,
@@ -8595,14 +8643,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 234660,
-      "num": 234660,
-      "word": "城管局回应采购制服每套4591元",
-      "onboard_time": 1682253270,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234495,
       "num": 234495,
       "word": "快船战胜太阳",
@@ -8865,6 +8905,14 @@
       "onboard_time": 1682079688,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 226501,
+      "num": 226501,
+      "word": "当你和法国人解释五一调休",
+      "onboard_time": 1682254290,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 226467,
@@ -9475,6 +9523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210408,
+      "num": 210408,
+      "word": "张颂文演我减肥",
+      "onboard_time": 1682255011,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210359,
       "num": 210359,
       "word": "易烊千玺新专辑刘艳芬倒计时预告",
@@ -9617,6 +9673,14 @@
       "onboard_time": 1681784666,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208335,
+      "num": 208335,
+      "word": "王者荣耀",
+      "onboard_time": 1682255917,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 207945,
@@ -11659,14 +11723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176376,
-      "num": 176376,
-      "word": "王鹤棣新剧被俞灏明揪耳朵",
-      "onboard_time": 1682253990,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176229,
       "num": 176229,
       "word": "吉克隽逸锁骨擦闪粉",
@@ -11944,6 +12000,14 @@
       "word": "gidle回归时间",
       "onboard_time": 1681776567,
       "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 170867,
+      "num": 160539,
+      "word": "边伯贤音乐节饭拍",
+      "onboard_time": 1682255852,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -12305,6 +12369,14 @@
       "onboard_time": 1682129907,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164184,
+      "num": 164184,
+      "word": "赵睿",
+      "onboard_time": 1682255731,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 164155,
@@ -13011,6 +13083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150070,
+      "num": 150070,
+      "word": "检察风云尺度",
+      "onboard_time": 1682255731,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150017,
       "num": 150017,
       "word": "Gr对战Wolves",
@@ -13257,6 +13337,14 @@
       "onboard_time": 1682133208,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145987,
+      "num": 145987,
+      "word": "苏沫",
+      "onboard_time": 1682255551,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 145871,
@@ -13833,14 +13921,6 @@
       "onboard_time": 1682213189,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134666,
-      "num": 134666,
-      "word": "滔博",
-      "onboard_time": 1682254051,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 134450,

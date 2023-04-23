@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682254071321,
+  "endTime": 1682255928692,
   "band_list": [
     {
       "raw_hot": 2649324,
@@ -57,6 +57,14 @@
       "onboard_time": 1682209045,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1821726,
+      "num": 1821726,
+      "word": "姑娘年薪50万却毅然从银行离职",
+      "onboard_time": 1682249008,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1789529,
@@ -155,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1416349,
-      "num": 1416349,
-      "word": "姑娘年薪50万却毅然从银行离职",
-      "onboard_time": 1682249008,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1408869,
       "num": 1408869,
       "word": "马龙 王楚钦",
@@ -195,6 +195,14 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 1169381,
+      "num": 1169381,
+      "word": "假球",
+      "onboard_time": 1682253513,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1122508,
       "num": 434695,
       "word": "杨幂有11个耳洞",
@@ -209,6 +217,14 @@
       "onboard_time": 1682181383,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1036740,
+      "num": 767667,
+      "word": "网传四川天鹅林场三人服毒自杀",
+      "onboard_time": 1682252968,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1017742,
@@ -299,14 +315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 767667,
-      "num": 767667,
-      "word": "网传四川天鹅林场三人服毒自杀",
-      "onboard_time": 1682252968,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 742545,
       "num": 742545,
       "word": "3个职业平均月薪超2万",
@@ -337,6 +345,14 @@
       "onboard_time": 1682180006,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 699598,
+      "num": 699598,
+      "word": "快把王一博的嘴堵上",
+      "onboard_time": 1682253331,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 699094,
@@ -419,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 537290,
-      "num": 537290,
-      "word": "快把王一博的嘴堵上",
-      "onboard_time": 1682253331,
-      "rank": 10,
-      "category": "影视"
+      "raw_hot": 531470,
+      "num": 531470,
+      "word": "TTG对战AG",
+      "onboard_time": 1682254409,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 523339,
@@ -547,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449524,
+      "num": 449524,
+      "word": "王鹤棣新剧被俞灏明揪耳朵",
+      "onboard_time": 1682253990,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 445660,
       "num": 213227,
       "word": "薛之谦突犯喉疾",
@@ -659,6 +683,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 409970,
+      "num": 409970,
+      "word": "城管局回应采购制服每套4591元",
+      "onboard_time": 1682253270,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404842,
       "num": 404842,
       "word": "星星相伴月亮",
@@ -739,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355002,
+      "num": 355002,
+      "word": "叶夕雾说澹台烬再见了",
+      "onboard_time": 1682254171,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 353875,
       "num": 269932,
       "word": "看起来体面但工资低的工作",
@@ -779,20 +819,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 342371,
-      "num": 342371,
-      "word": "假球",
-      "onboard_time": 1682253513,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 342061,
       "num": 342061,
       "word": "减肥减的根本不是肉",
       "onboard_time": 1682174378,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 340527,
+      "num": 340527,
+      "word": "向往的生活",
+      "onboard_time": 1682254710,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 337972,
@@ -947,12 +987,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284698,
+      "num": 254838,
+      "word": "滔博",
+      "onboard_time": 1682254051,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283732,
       "num": 283732,
       "word": "女子喝中药一周发现成分是蟑螂",
       "onboard_time": 1682152707,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283572,
+      "num": 223417,
+      "word": "罗云熙嘴上说恨眼里全是爱",
+      "onboard_time": 1682254951,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 282587,
@@ -1155,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 246646,
+      "num": 222761,
+      "word": "消失的她",
+      "onboard_time": 1682253810,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243535,
       "num": 243535,
       "word": "半熟男女",
@@ -1203,14 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234660,
-      "num": 234660,
-      "word": "城管局回应采购制服每套4591元",
-      "onboard_time": 1682253270,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233864,
       "num": 245935,
       "word": "苏翊鸣羽生结弦电影",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1682229630,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226501,
+      "num": 226501,
+      "word": "当你和法国人解释五一调休",
+      "onboard_time": 1682254290,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 225535,
@@ -1323,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214284,
+      "num": 214284,
+      "word": "CBA",
+      "onboard_time": 1682251408,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212747,
       "num": 212747,
       "word": "游客在长沙路边摊买麻辣烫被收86元",
@@ -1345,6 +1417,14 @@
       "onboard_time": 1682226450,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210408,
+      "num": 210408,
+      "word": "张颂文演我减肥",
+      "onboard_time": 1682255011,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 210359,
@@ -1385,6 +1465,14 @@
       "onboard_time": 1682166450,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208335,
+      "num": 208335,
+      "word": "王者荣耀",
+      "onboard_time": 1682255917,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 207857,
@@ -1473,14 +1561,6 @@
       "onboard_time": 1682210428,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199943,
-      "num": 199943,
-      "word": "消失的她",
-      "onboard_time": 1682253810,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 199444,
@@ -1603,14 +1683,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 176376,
-      "num": 176376,
-      "word": "王鹤棣新剧被俞灏明揪耳朵",
-      "onboard_time": 1682253990,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 174332,
       "num": 174332,
       "word": "奥拉迪波受伤",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1682235568,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170867,
+      "num": 160539,
+      "word": "边伯贤音乐节饭拍",
+      "onboard_time": 1682255852,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 170771,
@@ -1763,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164184,
+      "num": 164184,
+      "word": "赵睿",
+      "onboard_time": 1682255731,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163255,
       "num": 163255,
       "word": "二次感染新冠有哪些症状",
@@ -1851,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150070,
+      "num": 150070,
+      "word": "检察风云尺度",
+      "onboard_time": 1682255731,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149993,
       "num": 209287,
       "word": "在太空干饭有什么不一样",
@@ -1889,6 +1985,14 @@
       "onboard_time": 1682226987,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145987,
+      "num": 145987,
+      "word": "苏沫",
+      "onboard_time": 1682255551,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 145776,
@@ -1931,14 +2035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139743,
-      "num": 139743,
-      "word": "CBA",
-      "onboard_time": 1682251408,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 138896,
       "num": 138896,
       "word": "王鹤棣脏辫造型路透",
@@ -1977,14 +2073,6 @@
       "onboard_time": 1682213189,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134666,
-      "num": 134666,
-      "word": "滔博",
-      "onboard_time": 1682254051,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 133336,

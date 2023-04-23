@@ -1,0 +1,410 @@
+{
+  "runTime": 1682255928692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1821726,
+        "num": 1821726,
+        "word": "姑娘年薪50万却毅然从银行离职",
+        "onboard_time": 1682249008,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1564704,
+        "num": 1564704,
+        "word": "我说谢娜助理怎么那么眼熟",
+        "onboard_time": 1682248108,
+        "rank": 1,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 38008,
+        "num": 1314189,
+        "word": "相约八点见",
+        "onboard_time": 1682239409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169381,
+        "num": 1169381,
+        "word": "假球",
+        "onboard_time": 1682253513,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1143292,
+        "num": 1143292,
+        "word": "初三这样穿去上学被同学说擦边",
+        "onboard_time": 1682243368,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 699598,
+        "num": 699598,
+        "word": "快把王一博的嘴堵上",
+        "onboard_time": 1682253331,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 659124,
+        "num": 659124,
+        "word": "外卖轻食 肠胃炎",
+        "onboard_time": 1682241750,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 589318,
+        "num": 589318,
+        "word": "长月烬明再次调整更新时间",
+        "onboard_time": 1682249369,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 576572,
+        "num": 576572,
+        "word": "马龙 王楚钦",
+        "onboard_time": 1682251951,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531470,
+        "num": 531470,
+        "word": "TTG对战AG",
+        "onboard_time": 1682254409,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 461811,
+        "num": 461811,
+        "word": "应届毕业生的身份有多值钱",
+        "onboard_time": 1682249969,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 449524,
+        "num": 449524,
+        "word": "王鹤棣新剧被俞灏明揪耳朵",
+        "onboard_time": 1682253990,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 411576,
+        "num": 411576,
+        "word": "金钟铉粉丝给文彬粉丝准备巧克力",
+        "onboard_time": 1682249311,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409970,
+        "num": 409970,
+        "word": "城管局回应采购制服每套4591元",
+        "onboard_time": 1682253270,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390137,
+        "num": 390137,
+        "word": "龙城三婶确诊癌症",
+        "onboard_time": 1682251769,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355002,
+        "num": 355002,
+        "word": "叶夕雾说澹台烬再见了",
+        "onboard_time": 1682254171,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340527,
+        "num": 340527,
+        "word": "向往的生活",
+        "onboard_time": 1682254710,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333961,
+        "num": 333961,
+        "word": "戚薇瘦了",
+        "onboard_time": 1682237010,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328475,
+        "num": 328475,
+        "word": "这是我下周过4.9岁生日的何老师",
+        "onboard_time": 1682246788,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275193,
+        "num": 275193,
+        "word": "王楚钦卫冕男单冠军",
+        "onboard_time": 1682253513,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 389588,
+        "num": 264780,
+        "word": "Lisa的腿好惊人",
+        "onboard_time": 1682228611,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298215,
+        "num": 257361,
+        "word": "铃芽之旅原本是双女主",
+        "onboard_time": 1682249611,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284698,
+        "num": 254838,
+        "word": "滔博",
+        "onboard_time": 1682254051,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 249382,
+        "num": 249382,
+        "word": "二次感染比第一次更难受吗",
+        "onboard_time": 1682225551,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226501,
+        "num": 226501,
+        "word": "当你和法国人解释五一调休",
+        "onboard_time": 1682254290,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283572,
+        "num": 223417,
+        "word": "罗云熙嘴上说恨眼里全是爱",
+        "onboard_time": 1682254951,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246646,
+        "num": 222761,
+        "word": "消失的她",
+        "onboard_time": 1682253810,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258088,
+        "num": 221646,
+        "word": "澹台烬想知道叶夕雾到底长什么样的心",
+        "onboard_time": 1682250209,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220114,
+        "num": 220114,
+        "word": "小县城的生活能有多安逸",
+        "onboard_time": 1682251231,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122467,
+        "num": 215150,
+        "word": "WTT澳门冠军赛王曼昱夺冠",
+        "onboard_time": 1682250389,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214284,
+        "num": 214284,
+        "word": "CBA",
+        "onboard_time": 1682251408,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1036740,
+        "num": 213125,
+        "word": "网传四川天鹅林场三人服毒自杀",
+        "onboard_time": 1682252968,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210408,
+        "num": 210408,
+        "word": "张颂文演我减肥",
+        "onboard_time": 1682255011,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208335,
+        "num": 208335,
+        "word": "王者荣耀",
+        "onboard_time": 1682255917,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207508,
+        "num": 207508,
+        "word": "长月烬明",
+        "onboard_time": 1682244208,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206516,
+        "num": 206516,
+        "word": "贾玲是真瘦了还是黑色显瘦",
+        "onboard_time": 1682228066,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189491,
+        "num": 189491,
+        "word": "肖战泪眼特写",
+        "onboard_time": 1682243669,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172037,
+        "num": 172037,
+        "word": "半熟男女官宣没有周雨彤",
+        "onboard_time": 1682242770,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164184,
+        "num": 164184,
+        "word": "赵睿",
+        "onboard_time": 1682255731,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163314,
+        "num": 163314,
+        "word": "为什么好朋友不爱点赞我朋友圈",
+        "onboard_time": 1682248589,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170867,
+        "num": 160539,
+        "word": "边伯贤音乐节饭拍",
+        "onboard_time": 1682255852,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167564,
+        "num": 160451,
+        "word": "王源演唱会能不能卖站票",
+        "onboard_time": 1682249430,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157077,
+        "num": 157077,
+        "word": "TES战胜MTG",
+        "onboard_time": 1682253632,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151432,
+        "num": 151432,
+        "word": "内地版放羊的星星",
+        "onboard_time": 1682243130,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150070,
+        "num": 150070,
+        "word": "检察风云尺度",
+        "onboard_time": 1682255731,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145987,
+        "num": 145987,
+        "word": "苏沫",
+        "onboard_time": 1682255551,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144413,
+        "num": 144413,
+        "word": "故宫抢票",
+        "onboard_time": 1682252550,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 139248,
+        "num": 139248,
+        "word": "明明是一头很好的大象",
+        "onboard_time": 1682250091,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131279,
+        "num": 131279,
+        "word": "杨幂有11个耳洞",
+        "onboard_time": 1682233109,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124927,
+        "num": 124927,
+        "word": "爸爸花费1年为儿子做手工婚床",
+        "onboard_time": 1682239888,
+        "rank": 49,
+        "category": "社会新闻,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#读书之美#"
+    }
+  }
+}
