@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682277196777,
+  "endTime": 1682278393151,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -411,6 +411,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 84574,
+      "num": 52880,
+      "word": "女子忘关车门4岁娃跑下车遭碾压",
+      "onboard_time": 1682274434,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81256,
       "num": 81256,
       "word": "ENHYPEN预告",
@@ -425,14 +433,6 @@
       "onboard_time": 1682272573,
       "rank": 18,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 65704,
-      "num": 52880,
-      "word": "女子忘关车门4岁娃跑下车遭碾压",
-      "onboard_time": 1682274434,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62976,
