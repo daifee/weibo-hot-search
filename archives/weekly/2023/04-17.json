@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682228021481,
+  "endTime": 1682230892866,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -859,12 +859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1578660,
+      "num": 1516773,
+      "word": "依萍 连个星期天也没有",
+      "onboard_time": 1682223751,
+      "rank": 11,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 1578103,
       "num": 527849,
       "word": "香港顶流",
       "onboard_time": 1681713566,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1577144,
+      "num": 1577144,
+      "word": "Jennie衣服好辣",
+      "onboard_time": 1682227050,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1575250,
@@ -963,12 +979,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1516773,
-      "num": 1516773,
-      "word": "依萍 连个星期天也没有",
-      "onboard_time": 1682223751,
-      "rank": 11,
-      "category": "影视,幽默"
+      "raw_hot": 1516424,
+      "num": 1516424,
+      "word": "Lisa的腿好惊人",
+      "onboard_time": 1682228611,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1499332,
@@ -1027,12 +1043,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1432205,
+      "num": 1432205,
+      "word": "二次感染比第一次更难受吗",
+      "onboard_time": 1682225551,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1422901,
       "num": 1422901,
       "word": "戚薇说130斤的我观感欠佳",
       "onboard_time": 1681798227,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1421103,
+      "num": 1421103,
+      "word": "女子1月内收5笔工资直呼看不懂",
+      "onboard_time": 1682222008,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1420232,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1681744709,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1393530,
-      "num": 1393530,
-      "word": "女子1月内收5笔工资直呼看不懂",
-      "onboard_time": 1682222008,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1390499,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1682133208,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1314845,
+      "num": 532574,
+      "word": "贾玲是真瘦了还是黑色显瘦",
+      "onboard_time": 1682228066,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1311338,
@@ -2035,14 +2067,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 836473,
-      "num": 836473,
-      "word": "Jennie衣服好辣",
-      "onboard_time": 1682227050,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 835795,
       "num": 835795,
       "word": "怨气可以养活邪剑仙了",
@@ -2419,6 +2443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 714236,
+      "num": 714236,
+      "word": "BLACKPINK今天造型杀疯了",
+      "onboard_time": 1682229689,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 711972,
       "num": 711972,
       "word": "娜扎的耳饰好大",
@@ -2529,14 +2561,6 @@
       "onboard_time": 1681868308,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 696369,
-      "num": 696369,
-      "word": "二次感染比第一次更难受吗",
-      "onboard_time": 1682225551,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 695460,
@@ -2953,6 +2977,14 @@
       "onboard_time": 1681970489,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 618104,
+      "num": 468832,
+      "word": "爸爸靠茶具谈崩五个客户",
+      "onboard_time": 1682229389,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 617523,
@@ -5091,6 +5123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 382038,
+      "num": 382038,
+      "word": "99年小伙隐居6年家变图书馆",
+      "onboard_time": 1682229089,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381904,
       "num": 215425,
       "word": "课上唯一认真听讲的被赶出去了",
@@ -5161,6 +5201,14 @@
       "onboard_time": 1681862789,
       "rank": 21,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 377802,
+      "num": 377802,
+      "word": "对纸片人动情被父母发现 be like",
+      "onboard_time": 1682226211,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 377672,
@@ -5475,14 +5523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 362577,
-      "num": 252232,
-      "word": "对纸片人动情被父母发现 be like",
-      "onboard_time": 1682226211,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 361812,
       "num": 361812,
       "word": "今天就算是泰勒斯来了",
@@ -5729,6 +5769,14 @@
       "onboard_time": 1682135608,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 347926,
+      "num": 347926,
+      "word": "jisoo吹口哨",
+      "onboard_time": 1682228128,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 347424,
@@ -7107,6 +7155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273725,
+      "num": 180927,
+      "word": "新冠查漏补缺",
+      "onboard_time": 1682229689,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273581,
       "num": 273581,
       "word": "杜江路演站姿",
@@ -8267,6 +8323,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 227284,
+      "num": 180816,
+      "word": "灌篮高手 我来考考你",
+      "onboard_time": 1682230231,
+      "rank": 31,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 227252,
       "num": 227252,
       "word": "恋与深空",
@@ -8297,6 +8361,14 @@
       "onboard_time": 1681831709,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226707,
+      "num": 226707,
+      "word": "王一博分享与试飞员学习交流经历",
+      "onboard_time": 1682229630,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 226594,
@@ -9505,6 +9577,14 @@
       "onboard_time": 1681732285,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201081,
+      "num": 201081,
+      "word": "调休日上班效率有区别吗",
+      "onboard_time": 1682230287,
+      "rank": 26,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 201056,
@@ -10771,6 +10851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181210,
+      "num": 181210,
+      "word": "赘婿动画开播",
+      "onboard_time": 1682226033,
+      "rank": 40,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 181003,
       "num": 181003,
       "word": "周也年代戏女大学生造型",
@@ -10833,14 +10921,6 @@
       "onboard_time": 1681959446,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179861,
-      "num": 179861,
-      "word": "赘婿动画开播",
-      "onboard_time": 1682226033,
-      "rank": 40,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 179756,
@@ -11923,6 +12003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155991,
+      "num": 155991,
+      "word": "S13比赛日期公布",
+      "onboard_time": 1682229509,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155673,
       "num": 1601803,
       "word": "县在出发",
@@ -12403,6 +12491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146038,
+      "num": 146038,
+      "word": "杭州铁男现场教做人",
+      "onboard_time": 1682226987,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146007,
       "num": 146007,
       "word": "张佳宁说朱喆终于爆发了",
@@ -12689,6 +12785,14 @@
       "onboard_time": 1681727606,
       "rank": 44,
       "category": "综艺,幽默"
+    },
+    {
+      "raw_hot": 140274,
+      "num": 140274,
+      "word": "山大研究发现助听器能防痴呆",
+      "onboard_time": 1682230770,
+      "rank": 41,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 140111,
@@ -13043,14 +13147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132064,
-      "num": 132064,
-      "word": "杭州铁男现场教做人",
-      "onboard_time": 1682226987,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "柯洁大司马连麦直播",
@@ -13313,6 +13409,14 @@
       "onboard_time": 1681819706,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125891,
+      "num": 125891,
+      "word": "威少 孤胆英雄",
+      "onboard_time": 1682230050,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 125882,
@@ -13979,6 +14083,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 106306,
+      "num": 106306,
+      "word": "汕尾美团",
+      "onboard_time": 1682230828,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106118,
       "num": 106118,
       "word": "读书能缓解焦虑吗",
@@ -14603,6 +14715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81430,
+      "num": 1454952,
+      "word": "当千里江山图遇上锦绣江苏",
+      "onboard_time": 1682226867,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80921,
       "num": 101054,
       "word": "2023KPL春季赛",
@@ -15079,14 +15199,6 @@
       "num": 1825165,
       "word": "风云三号07星成功发射",
       "onboard_time": 1681648767,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28913,
-      "num": 1419228,
-      "word": "当千里江山图遇上锦绣江苏",
-      "onboard_time": 1682226867,
       "rank": 2,
       "category": "社会新闻"
     },
