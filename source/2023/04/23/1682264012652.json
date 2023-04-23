@@ -1,0 +1,410 @@
+{
+  "runTime": 1682264012652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8033457,
+        "num": 8033457,
+        "word": "白鹿 以后会更加严格约束自己言行",
+        "onboard_time": 1682257595,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2197437,
+        "num": 2197437,
+        "word": "严禁劣迹艺人随意变相复出捞金",
+        "onboard_time": 1682256753,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 18159,
+        "num": 1313660,
+        "word": "相约八点见",
+        "onboard_time": 1682239409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191229,
+        "num": 1191229,
+        "word": "陈都灵邓为高光戏份被删",
+        "onboard_time": 1682260598,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1003665,
+        "num": 1003665,
+        "word": "KPL 比赛暂停",
+        "onboard_time": 1682256093,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 850893,
+        "num": 850893,
+        "word": "假球",
+        "onboard_time": 1682253513,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728237,
+        "num": 728237,
+        "word": "初三这样穿去上学被同学说擦边",
+        "onboard_time": 1682243368,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 635193,
+        "num": 635193,
+        "word": "明星最容易翻车的人设",
+        "onboard_time": 1682256271,
+        "rank": 7,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 514549,
+        "num": 514549,
+        "word": "姑娘年薪50万却毅然从银行离职",
+        "onboard_time": 1682249008,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502644,
+        "num": 502644,
+        "word": "SEVENTEEN新歌",
+        "onboard_time": 1682262999,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 610134,
+        "num": 496602,
+        "word": "上海一男子商场跳楼砸中女顾客",
+        "onboard_time": 1682261562,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547390,
+        "num": 495207,
+        "word": "我说谢娜助理怎么那么眼熟",
+        "onboard_time": 1682248108,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 430979,
+        "num": 430979,
+        "word": "韩国人吵架跟韩剧一模一样",
+        "onboard_time": 1682260961,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417125,
+        "num": 417125,
+        "word": "文彬",
+        "onboard_time": 1682257472,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413388,
+        "num": 413388,
+        "word": "易建联 广东队",
+        "onboard_time": 1682259165,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398255,
+        "num": 398255,
+        "word": "快把王一博的嘴堵上",
+        "onboard_time": 1682253331,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 391793,
+        "num": 391793,
+        "word": "中介贿赂张靓颖经纪人中标被罚210万",
+        "onboard_time": 1682263175,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385433,
+        "num": 385433,
+        "word": "澹台烬抱着叶夕雾的尸体睡觉",
+        "onboard_time": 1682261855,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338126,
+        "num": 338126,
+        "word": "龙湖天街",
+        "onboard_time": 1682256452,
+        "rank": 18,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 330131,
+        "num": 330131,
+        "word": "英国警报",
+        "onboard_time": 1682261317,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315726,
+        "num": 315726,
+        "word": "叶夕雾说澹台烬再见了",
+        "onboard_time": 1682254171,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307473,
+        "num": 307473,
+        "word": "龚俊问大张伟这是便秘的广告吗",
+        "onboard_time": 1682262816,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312026,
+        "num": 305114,
+        "word": "澹台烬彻底疯了",
+        "onboard_time": 1682260598,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 300146,
+        "num": 300146,
+        "word": "谁帮张一山修修图",
+        "onboard_time": 1682262458,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286229,
+        "num": 286229,
+        "word": "TTG对战AG",
+        "onboard_time": 1682254409,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276610,
+        "num": 276610,
+        "word": "长期熬夜都有什么危害",
+        "onboard_time": 1682261379,
+        "rank": 25,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 273508,
+        "num": 273508,
+        "word": "伍佰 这我写的歌词",
+        "onboard_time": 1682260180,
+        "rank": 26,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 240946,
+        "num": 240946,
+        "word": "外卖轻食 肠胃炎",
+        "onboard_time": 1682241750,
+        "rank": 27,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 240587,
+        "num": 240587,
+        "word": "中国的专家真的在妖言惑众吗",
+        "onboard_time": 1682257533,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225766,
+        "num": 225766,
+        "word": "长月烬明再次调整更新时间",
+        "onboard_time": 1682249369,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210592,
+        "num": 210592,
+        "word": "向往7定档",
+        "onboard_time": 1682261200,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210121,
+        "num": 210121,
+        "word": "赵睿",
+        "onboard_time": 1682255731,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207770,
+        "num": 207770,
+        "word": "为什么好朋友不爱点赞我朋友圈",
+        "onboard_time": 1682248589,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199550,
+        "num": 199550,
+        "word": "当你和法国人解释五一调休",
+        "onboard_time": 1682254290,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196783,
+        "num": 196783,
+        "word": "铃芽之旅原本是双女主",
+        "onboard_time": 1682249611,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196191,
+        "num": 196191,
+        "word": "ENHYPEN预告",
+        "onboard_time": 1682262037,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194481,
+        "num": 194481,
+        "word": "这是我下周过4.9岁生日的何老师",
+        "onboard_time": 1682246788,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184616,
+        "num": 184616,
+        "word": "向往的生活",
+        "onboard_time": 1682254710,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170661,
+        "num": 170661,
+        "word": "HYBE预告",
+        "onboard_time": 1682263596,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167455,
+        "num": 167455,
+        "word": "严浩翔演川渝好男人",
+        "onboard_time": 1682263298,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160305,
+        "num": 160305,
+        "word": "应届毕业生的身份有多值钱",
+        "onboard_time": 1682249969,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157259,
+        "num": 157259,
+        "word": "小县城的生活能有多安逸",
+        "onboard_time": 1682251231,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150081,
+        "num": 150081,
+        "word": "城管局回应采购制服每套4591元",
+        "onboard_time": 1682253270,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146121,
+        "num": 146121,
+        "word": "警方回应男子在商场跳楼砸伤女顾客",
+        "onboard_time": 1682262816,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144892,
+        "num": 144892,
+        "word": "马龙 王楚钦",
+        "onboard_time": 1682251951,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144797,
+        "num": 144797,
+        "word": "肖战泪眼特写",
+        "onboard_time": 1682243669,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143454,
+        "num": 143454,
+        "word": "杨紫和杂志摄影师合照",
+        "onboard_time": 1682257113,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140803,
+        "num": 140803,
+        "word": "张婧仪分享长沙读书经历",
+        "onboard_time": 1682263714,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130144,
+        "num": 130144,
+        "word": "网友帮Lisa脱掉了外套",
+        "onboard_time": 1682263894,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126248,
+        "num": 126248,
+        "word": "双向情感障碍能做什么工作",
+        "onboard_time": 1682262875,
+        "rank": 49,
+        "category": "情感,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#真抓实干答好改革之问#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682262984669,
+  "endTime": 1682264012652,
   "band_list": [
     {
       "raw_hot": 11208326,
@@ -227,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1191229,
+      "num": 1191229,
+      "word": "陈都灵邓为高光戏份被删",
+      "onboard_time": 1682260598,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1122508,
       "num": 434695,
       "word": "杨幂有11个耳洞",
@@ -267,12 +275,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1013419,
-      "num": 1013419,
-      "word": "陈都灵邓为高光戏份被删",
-      "onboard_time": 1682260598,
-      "rank": 3,
-      "category": "影视"
+      "raw_hot": 1003665,
+      "num": 1003665,
+      "word": "KPL 比赛暂停",
+      "onboard_time": 1682256093,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 975341,
@@ -411,14 +419,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 692172,
-      "num": 692172,
-      "word": "KPL 比赛暂停",
-      "onboard_time": 1682256093,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 661028,
       "num": 661028,
       "word": "苹果闹钟",
@@ -441,6 +441,14 @@
       "onboard_time": 1682163749,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 610134,
+      "num": 496602,
+      "word": "上海一男子商场跳楼砸中女顾客",
+      "onboard_time": 1682261562,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600970,
@@ -547,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 502644,
+      "num": 502644,
+      "word": "SEVENTEEN新歌",
+      "onboard_time": 1682262999,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 502369,
       "num": 502369,
       "word": "龙城三婶确诊癌症",
@@ -609,14 +625,6 @@
       "onboard_time": 1682224111,
       "rank": 22,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 468794,
-      "num": 468794,
-      "word": "上海一男子商场跳楼砸中女顾客",
-      "onboard_time": 1682261562,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 464757,
@@ -739,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 430979,
+      "num": 430979,
+      "word": "韩国人吵架跟韩剧一模一样",
+      "onboard_time": 1682260961,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 428893,
       "num": 428893,
       "word": "城管局回应采购制服每套4591元",
@@ -851,11 +867,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391793,
+      "num": 391793,
+      "word": "中介贿赂张靓颖经纪人中标被罚210万",
+      "onboard_time": 1682263175,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 388165,
       "num": 388165,
       "word": "玉骨遥预约栏",
       "onboard_time": 1682217448,
       "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 385433,
+      "num": 385433,
+      "word": "澹台烬抱着叶夕雾的尸体睡觉",
+      "onboard_time": 1682261855,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -955,14 +987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 338682,
-      "num": 289625,
-      "word": "韩国人吵架跟韩剧一模一样",
-      "onboard_time": 1682260961,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 337972,
       "num": 337972,
       "word": "INTO1 女团舞",
@@ -985,6 +1009,14 @@
       "onboard_time": 1682237908,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330131,
+      "num": 330131,
+      "word": "英国警报",
+      "onboard_time": 1682261317,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329846,
@@ -1043,6 +1075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307473,
+      "num": 307473,
+      "word": "龚俊问大张伟这是便秘的广告吗",
+      "onboard_time": 1682262816,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305593,
       "num": 305593,
       "word": "满江红网播定档",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1682218947,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300146,
+      "num": 300146,
+      "word": "谁帮张一山修修图",
+      "onboard_time": 1682262458,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 299766,
@@ -1235,6 +1283,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 276610,
+      "num": 276610,
+      "word": "长期熬夜都有什么危害",
+      "onboard_time": 1682261379,
+      "rank": 32,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 275725,
       "num": 275725,
       "word": "主播雪梨直播带货拉踩被判赔20万",
@@ -1379,14 +1435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 248432,
-      "num": 248432,
-      "word": "英国警报",
-      "onboard_time": 1682261317,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248131,
       "num": 248131,
       "word": "四川人民主打一个大义灭亲",
@@ -1512,14 +1560,6 @@
       "word": "何悯鸿快逃",
       "onboard_time": 1682256992,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 230306,
-      "num": 230306,
-      "word": "澹台烬抱着叶夕雾的尸体睡觉",
-      "onboard_time": 1682261855,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -1651,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210592,
+      "num": 210592,
+      "word": "向往7定档",
+      "onboard_time": 1682261200,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210359,
       "num": 210359,
       "word": "易烊千玺新专辑刘艳芬倒计时预告",
@@ -1705,14 +1753,6 @@
       "onboard_time": 1682214569,
       "rank": 30,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 206450,
-      "num": 206450,
-      "word": "谁帮张一山修修图",
-      "onboard_time": 1682262458,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 205828,
@@ -1785,14 +1825,6 @@
       "onboard_time": 1682219727,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199317,
-      "num": 199317,
-      "word": "长期熬夜都有什么危害",
-      "onboard_time": 1682261379,
-      "rank": 32,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 196127,
@@ -1971,6 +2003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 170661,
+      "num": 170661,
+      "word": "HYBE预告",
+      "onboard_time": 1682263596,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170645,
       "num": 170645,
       "word": "徐明浩有梗",
@@ -2033,6 +2073,14 @@
       "onboard_time": 1682243187,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167455,
+      "num": 167455,
+      "word": "严浩翔演川渝好男人",
+      "onboard_time": 1682263298,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 167005,
@@ -2227,14 +2275,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148001,
-      "num": 148001,
-      "word": "龚俊问大张伟这是便秘的广告吗",
-      "onboard_time": 1682262816,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146038,
       "num": 146038,
       "word": "杭州铁男现场教做人",
@@ -2267,14 +2307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141938,
-      "num": 141938,
-      "word": "向往7定档",
-      "onboard_time": 1682261200,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141594,
       "num": 141594,
       "word": "第30届大学生电影节正式启动",
@@ -2297,6 +2329,14 @@
       "onboard_time": 1682175691,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140803,
+      "num": 140803,
+      "word": "张婧仪分享长沙读书经历",
+      "onboard_time": 1682263714,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 138896,
@@ -2400,6 +2440,14 @@
       "word": "邓紫棋音乐节",
       "onboard_time": 1682173831,
       "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 130144,
+      "num": 130144,
+      "word": "网友帮Lisa脱掉了外套",
+      "onboard_time": 1682263894,
+      "rank": 48,
       "category": "音乐"
     },
     {
