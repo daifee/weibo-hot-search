@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682267829078,
+  "endTime": 1682270075074,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -27211,6 +27211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246806,
+      "num": 181766,
+      "word": "店主误会女孩偷窃门口遭摆白花",
+      "onboard_time": 1682267721,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246772,
       "num": 246772,
       "word": "中国的土地收回来绝不会再失去",
@@ -38929,6 +38937,14 @@
       "onboard_time": 1680841411,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186098,
+      "num": 186098,
+      "word": "琉球",
+      "onboard_time": 1682267243,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186069,
@@ -53035,14 +53051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80541,
-      "num": 80541,
-      "word": "琉球",
-      "onboard_time": 1682267243,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80509,
       "num": 124098,
       "word": "游戏里的时尚妆容",
@@ -53481,14 +53489,6 @@
       "onboard_time": 1680734656,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 67797,
-      "num": 67797,
-      "word": "店主误会女孩偷窃门口遭摆白花",
-      "onboard_time": 1682267721,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67732,
@@ -54145,6 +54145,14 @@
       "onboard_time": 1681216706,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44286,
+      "num": 48086,
+      "word": "被欺负的猫终成了天下至尊",
+      "onboard_time": 1682268560,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 43956,
