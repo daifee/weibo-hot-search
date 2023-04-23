@@ -1,0 +1,410 @@
+{
+  "runTime": 1682223651799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2639599,
+        "num": 2639599,
+        "word": "中奖一千万要不要告诉父母",
+        "onboard_time": 1682215648,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1937617,
+        "num": 1937617,
+        "word": "五一调休",
+        "onboard_time": 1682207725,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6157,
+        "num": 1805172,
+        "word": "珍爱地球中国在行动",
+        "onboard_time": 1682167049,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1789529,
+        "num": 1789529,
+        "word": "27岁女儿被妈妈教训女孩不用买房",
+        "onboard_time": 1682219248,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1212342,
+        "num": 1212342,
+        "word": "于正说赵丽颖85花演技第一名",
+        "onboard_time": 1682221828,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1075337,
+        "num": 1075337,
+        "word": "原来结婚证里还有温馨小提示",
+        "onboard_time": 1682210669,
+        "rank": 5,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 862460,
+        "num": 862460,
+        "word": "开网约车被处分的副镇长有了新职",
+        "onboard_time": 1682216427,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675568,
+        "num": 675568,
+        "word": "女大学生在寝室发现巨拟叶螽",
+        "onboard_time": 1682206583,
+        "rank": 7,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 639751,
+        "num": 639751,
+        "word": "苹果闹钟",
+        "onboard_time": 1682221109,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 596092,
+        "num": 596092,
+        "word": "斗破苍穹 删减",
+        "onboard_time": 1682217328,
+        "rank": 9,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 795513,
+        "num": 576233,
+        "word": "女子1月内收5笔工资直呼看不懂",
+        "onboard_time": 1682222008,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509876,
+        "num": 509876,
+        "word": "狄龙攻击詹姆斯裆部",
+        "onboard_time": 1682221889,
+        "rank": 11,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 460295,
+        "num": 460295,
+        "word": "报备式恋爱",
+        "onboard_time": 1682220027,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381818,
+        "num": 381818,
+        "word": "湖人地板",
+        "onboard_time": 1682217087,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349968,
+        "num": 349968,
+        "word": "今天世界读书日",
+        "onboard_time": 1682222728,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337067,
+        "num": 337067,
+        "word": "张颂文向陈凯歌介绍高叶",
+        "onboard_time": 1682174795,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304491,
+        "num": 304491,
+        "word": "3个职业平均月薪超2万",
+        "onboard_time": 1682210609,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 296389,
+        "num": 296389,
+        "word": "詹姆斯大风车反扣",
+        "onboard_time": 1682222129,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290651,
+        "num": 290651,
+        "word": "小鬼 泰酷辣",
+        "onboard_time": 1682177192,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265901,
+        "num": 289432,
+        "word": "嗯哼长大了",
+        "onboard_time": 1682180006,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1078975,
+        "num": 288244,
+        "word": "谢娜工作室道歉",
+        "onboard_time": 1682209045,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395170,
+        "num": 286780,
+        "word": "艺人头发长得快的原因",
+        "onboard_time": 1682216247,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 334476,
+        "num": 286180,
+        "word": "肖战又现覃头造型",
+        "onboard_time": 1682211929,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318605,
+        "num": 283946,
+        "word": "赵露思紫色抹胸裙造型",
+        "onboard_time": 1682219008,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283302,
+        "num": 283302,
+        "word": "新冠",
+        "onboard_time": 1682167468,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282830,
+        "num": 282830,
+        "word": "嫖客被抓反告民警并胜诉",
+        "onboard_time": 1682176710,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260767,
+        "num": 260767,
+        "word": "张杰粉丝只是长大了不是暴富了",
+        "onboard_time": 1682209045,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256024,
+        "num": 256024,
+        "word": "玉骨遥预约栏",
+        "onboard_time": 1682217448,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252209,
+        "num": 252209,
+        "word": "人造长假真的有意义吗",
+        "onboard_time": 1682214569,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 233864,
+        "num": 245935,
+        "word": "苏翊鸣羽生结弦电影",
+        "onboard_time": 1682218166,
+        "rank": 29,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 241614,
+        "num": 241614,
+        "word": "灌篮高手 彻底的大人童话",
+        "onboard_time": 1682217207,
+        "rank": 30,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 236131,
+        "num": 236131,
+        "word": "原公司忘记停缴社保让我补交",
+        "onboard_time": 1682217806,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234441,
+        "num": 234441,
+        "word": "杨洋与素人合影",
+        "onboard_time": 1682219308,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228192,
+        "num": 228192,
+        "word": "原来认真工作也会被辞退",
+        "onboard_time": 1682215766,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214600,
+        "num": 214600,
+        "word": "满江红网播定档",
+        "onboard_time": 1682219187,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196805,
+        "num": 196805,
+        "word": "半熟男女",
+        "onboard_time": 1682219548,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194849,
+        "num": 194849,
+        "word": "中方向韩驻华大使提出严正交涉",
+        "onboard_time": 1682210609,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 192802,
+        "num": 192802,
+        "word": "多放几天假天塌不下来",
+        "onboard_time": 1682223090,
+        "rank": 37,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 188610,
+        "num": 188610,
+        "word": "薛之谦说想去乘风破浪",
+        "onboard_time": 1682219727,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33787,
+        "num": 183164,
+        "word": "实测用AI从0开淘宝店",
+        "onboard_time": 1682222426,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 179112,
+        "num": 179112,
+        "word": "俄罗斯一女子将猫伪装成婴儿运毒",
+        "onboard_time": 1682210790,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177984,
+        "num": 177984,
+        "word": "陈都灵跳舞",
+        "onboard_time": 1682213129,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173780,
+        "num": 173780,
+        "word": "朋友得了忧郁症告诉父母",
+        "onboard_time": 1682181383,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167005,
+        "num": 167005,
+        "word": "现实版湘北篮球队拍卖",
+        "onboard_time": 1682222309,
+        "rank": 43,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 162170,
+        "num": 162170,
+        "word": "北京一女子晚交7天房租被扣3500元",
+        "onboard_time": 1682210068,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 155826,
+        "num": 155826,
+        "word": "有三十元买书还是买奶茶",
+        "onboard_time": 1682215289,
+        "rank": 45,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 151001,
+        "num": 151001,
+        "word": "课上唯一认真听讲的被赶出去了",
+        "onboard_time": 1682211990,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145776,
+        "num": 145776,
+        "word": "毛茸茸创可贴",
+        "onboard_time": 1682222610,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 144773,
+        "num": 144773,
+        "word": "游客在长沙路边摊买麻辣烫被收86元",
+        "onboard_time": 1682214569,
+        "rank": 48,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 110624,
+        "num": 135205,
+        "word": "陨落心炎",
+        "onboard_time": 1682223391,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#2023中国网络媒体论坛#"
+    }
+  }
+}
