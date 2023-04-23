@@ -1,0 +1,411 @@
+{
+  "startTime": 1682266896048,
+  "endTime": 1682266896048,
+  "band_list": [
+    {
+      "raw_hot": 3550714,
+      "num": 3550714,
+      "word": "白鹿 以后会更加严格约束自己言行",
+      "onboard_time": 1682257595,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1297914,
+      "num": 1297914,
+      "word": "严禁劣迹艺人随意变相复出捞金",
+      "onboard_time": 1682256753,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 846262,
+      "num": 846262,
+      "word": "陈都灵邓为高光戏份被删",
+      "onboard_time": 1682260598,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 654823,
+      "num": 654823,
+      "word": "中介贿赂张靓颖经纪人中标被罚210万",
+      "onboard_time": 1682263175,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 632408,
+      "num": 442331,
+      "word": "上海一男子商场跳楼砸中女顾客",
+      "onboard_time": 1682261562,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 581529,
+      "num": 581529,
+      "word": "初三这样穿去上学被同学说擦边",
+      "onboard_time": 1682243368,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 497477,
+      "num": 497477,
+      "word": "长期熬夜都有什么危害",
+      "onboard_time": 1682261379,
+      "rank": 6,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 478293,
+      "num": 478293,
+      "word": "明星最容易翻车的人设",
+      "onboard_time": 1682256271,
+      "rank": 7,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 452630,
+      "num": 452630,
+      "word": "澹台烬抱着叶夕雾的尸体睡觉",
+      "onboard_time": 1682261855,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 441322,
+      "num": 441322,
+      "word": "韩国人吵架跟韩剧一模一样",
+      "onboard_time": 1682260961,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 436253,
+      "num": 436253,
+      "word": "假球",
+      "onboard_time": 1682253513,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 370982,
+      "num": 370982,
+      "word": "我说谢娜助理怎么那么眼熟",
+      "onboard_time": 1682248108,
+      "rank": 13,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 331961,
+      "num": 331961,
+      "word": "网友帮Lisa脱掉了外套",
+      "onboard_time": 1682263894,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 292956,
+      "num": 443051,
+      "word": "姑娘年薪50万却毅然从银行离职",
+      "onboard_time": 1682249008,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288933,
+      "num": 288933,
+      "word": "澹台烬彻底疯了",
+      "onboard_time": 1682260598,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 271602,
+      "num": 271602,
+      "word": "KPL 比赛暂停",
+      "onboard_time": 1682256093,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 258113,
+      "num": 258113,
+      "word": "快把王一博的嘴堵上",
+      "onboard_time": 1682253331,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 253930,
+      "num": 253930,
+      "word": "英国警报",
+      "onboard_time": 1682261317,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252135,
+      "num": 252135,
+      "word": "SEVENTEEN新歌",
+      "onboard_time": 1682262999,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 244938,
+      "num": 244938,
+      "word": "向往7定档",
+      "onboard_time": 1682261200,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232306,
+      "num": 232306,
+      "word": "谁帮张一山修修图",
+      "onboard_time": 1682262458,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223328,
+      "num": 223328,
+      "word": "易建联 广东队",
+      "onboard_time": 1682259165,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222979,
+      "num": 222979,
+      "word": "文彬",
+      "onboard_time": 1682257472,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209589,
+      "num": 195128,
+      "word": "白桃星座",
+      "onboard_time": 1682264135,
+      "rank": 25,
+      "category": "网红,情感"
+    },
+    {
+      "raw_hot": 206420,
+      "num": 194579,
+      "word": "HYBE预告",
+      "onboard_time": 1682263596,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196471,
+      "num": 196471,
+      "word": "滔搏",
+      "onboard_time": 1682254051,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 190116,
+      "num": 190116,
+      "word": "伍佰 这我写的歌词",
+      "onboard_time": 1682260180,
+      "rank": 27,
+      "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 189864,
+      "num": 189864,
+      "word": "为什么好朋友不爱点赞我朋友圈",
+      "onboard_time": 1682248589,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189594,
+      "num": 189594,
+      "word": "当你和法国人解释五一调休",
+      "onboard_time": 1682254290,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 184694,
+      "num": 184694,
+      "word": "龙湖天街",
+      "onboard_time": 1682256452,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 170628,
+      "num": 170628,
+      "word": "龚俊问大张伟这是便秘的广告吗",
+      "onboard_time": 1682262816,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167778,
+      "num": 167778,
+      "word": "广东东莞大益",
+      "onboard_time": 1682265510,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156534,
+      "num": 156534,
+      "word": "外卖轻食 肠胃炎",
+      "onboard_time": 1682241750,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 147058,
+      "num": 147058,
+      "word": "应届毕业生的身份有多值钱",
+      "onboard_time": 1682249969,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 146890,
+      "num": 146890,
+      "word": "赵睿",
+      "onboard_time": 1682255731,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130959,
+      "num": 130959,
+      "word": "这是我下周过4.9岁生日的何老师",
+      "onboard_time": 1682246788,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130732,
+      "num": 130732,
+      "word": "长月烬明再次调整更新时间",
+      "onboard_time": 1682249369,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126113,
+      "num": 126113,
+      "word": "铃芽之旅原本是双女主",
+      "onboard_time": 1682249611,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 122874,
+      "num": 106305,
+      "word": "叶夕雾说澹台烬再见了",
+      "onboard_time": 1682254171,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 115039,
+      "num": 115039,
+      "word": "张婧仪分享长沙读书经历",
+      "onboard_time": 1682263714,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 108721,
+      "num": 108721,
+      "word": "城管局回应采购制服每套4591元",
+      "onboard_time": 1682253270,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107228,
+      "num": 107228,
+      "word": "TTG对战AG",
+      "onboard_time": 1682254409,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 104593,
+      "num": 104593,
+      "word": "马龙 王楚钦",
+      "onboard_time": 1682251951,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99572,
+      "num": 99572,
+      "word": "中国的专家真的在妖言惑众吗",
+      "onboard_time": 1682257533,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94423,
+      "num": 94423,
+      "word": "小县城的生活能有多安逸",
+      "onboard_time": 1682251231,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 91549,
+      "num": 91549,
+      "word": "这个世界没有改变 是你在慢慢变好",
+      "onboard_time": 1682264970,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 86911,
+      "num": 86911,
+      "word": "赵小棠直播吃淄博烧烤",
+      "onboard_time": 1682265869,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86750,
+      "num": 86750,
+      "word": "双向情感障碍能做什么工作",
+      "onboard_time": 1682262875,
+      "rank": 48,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 81256,
+      "num": 81256,
+      "word": "ENHYPEN预告",
+      "onboard_time": 1682262037,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 8308,
+      "num": 1057554,
+      "word": "相约八点见",
+      "onboard_time": 1682239409,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#读书之美#"
+    }
+  ]
+}
