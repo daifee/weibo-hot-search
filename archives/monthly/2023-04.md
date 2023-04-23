@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/23 22:33:26
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/23 23:16:24
 </p>
 </blockquote>
 <p>
@@ -3945,6 +3945,12 @@ SpaceX星舰今晚重新发射（热度：1030624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E9%82%93%E4%B8%BA%E9%AB%98%E5%85%89%E6%88%8F%E4%BB%BD%E8%A2%AB%E5%88%A0%23" target="weibo">
+陈都灵邓为高光戏份被删（热度：1013419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%92%E7%BB%9D%E5%85%AC%E5%8F%B8%E6%9F%A5%E7%9C%8B%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%97%A0%E5%81%BF%E8%BE%9E%E9%80%80%23" target="weibo">
 女子拒绝公司查看手机被无偿辞退（热度：1012753）
 </a>
@@ -6005,12 +6011,6 @@ KnowKnow道歉（热度：750691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E5%90%83%E5%B8%AD%E4%BA%86%23" target="weibo">
 长月烬明吃席了（热度：748132）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%B8%E5%AB%81%E8%A1%A3%23" target="weibo">
-纸嫁衣（热度：747499）
 </a>
 </li>
 

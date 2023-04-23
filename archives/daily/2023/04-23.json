@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682260406025,
+  "endTime": 1682262984669,
   "band_list": [
     {
       "raw_hot": 11208326,
@@ -265,6 +265,14 @@
       "onboard_time": 1682177192,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1013419,
+      "num": 1013419,
+      "word": "陈都灵邓为高光戏份被删",
+      "onboard_time": 1682260598,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 975341,
@@ -603,6 +611,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 468794,
+      "num": 468794,
+      "word": "上海一男子商场跳楼砸中女顾客",
+      "onboard_time": 1682261562,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464757,
       "num": 319937,
       "word": "澹台烬发疯了",
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439028,
+      "num": 439028,
+      "word": "易建联 广东队",
+      "onboard_time": 1682259165,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438475,
       "num": 283946,
       "word": "赵露思紫色抹胸裙造型",
@@ -713,14 +737,6 @@
       "onboard_time": 1682155526,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 433907,
-      "num": 433907,
-      "word": "易建联 广东队",
-      "onboard_time": 1682259165,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 428893,
@@ -793,6 +809,14 @@
       "onboard_time": 1682239888,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 409621,
+      "num": 409621,
+      "word": "龙湖天街",
+      "onboard_time": 1682256452,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 404842,
@@ -931,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 338682,
+      "num": 289625,
+      "word": "韩国人吵架跟韩剧一模一样",
+      "onboard_time": 1682260961,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 337972,
       "num": 337972,
       "word": "INTO1 女团舞",
@@ -963,20 +995,20 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 329365,
-      "num": 289051,
-      "word": "龙湖天街",
-      "onboard_time": 1682256452,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 329030,
       "num": 329030,
       "word": "淄博五一酒店客房涨价不得超过50%",
       "onboard_time": 1682211628,
       "rank": 22,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 324898,
+      "num": 324898,
+      "word": "澹台烬彻底疯了",
+      "onboard_time": 1682260598,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 324063,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1682238092,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289643,
+      "num": 289643,
+      "word": "伍佰 这我写的歌词",
+      "onboard_time": 1682260180,
+      "rank": 45,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 288189,
@@ -1339,6 +1379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248432,
+      "num": 248432,
+      "word": "英国警报",
+      "onboard_time": 1682261317,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248131,
       "num": 248131,
       "word": "四川人民主打一个大义灭亲",
@@ -1392,6 +1440,14 @@
       "word": "十三个猴",
       "onboard_time": 1682214809,
       "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 239374,
+      "num": 239374,
+      "word": "ENHYPEN预告",
+      "onboard_time": 1682262037,
+      "rank": 24,
       "category": "音乐"
     },
     {
@@ -1456,6 +1512,14 @@
       "word": "何悯鸿快逃",
       "onboard_time": 1682256992,
       "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 230306,
+      "num": 230306,
+      "word": "澹台烬抱着叶夕雾的尸体睡觉",
+      "onboard_time": 1682261855,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1643,6 +1707,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 206450,
+      "num": 206450,
+      "word": "谁帮张一山修修图",
+      "onboard_time": 1682262458,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205828,
       "num": 205828,
       "word": "INTO1毕业拍立得",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1682219727,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199317,
+      "num": 199317,
+      "word": "长期熬夜都有什么危害",
+      "onboard_time": 1682261379,
+      "rank": 32,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 196127,
@@ -2051,14 +2131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159830,
-      "num": 159830,
-      "word": "伍佰 这我写的歌词",
-      "onboard_time": 1682260180,
-      "rank": 45,
-      "category": "美食,艺人"
-    },
-    {
       "raw_hot": 158000,
       "num": 158000,
       "word": "滔搏",
@@ -2099,12 +2171,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 152500,
+      "num": 152500,
+      "word": "警方回应男子在商场跳楼砸伤女顾客",
+      "onboard_time": 1682262816,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151528,
       "num": 151528,
       "word": "苏醒说不是嫌挤就是嫌热",
       "onboard_time": 1682215227,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151466,
+      "num": 151466,
+      "word": "双向情感障碍能做什么工作",
+      "onboard_time": 1682262875,
+      "rank": 43,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 149993,
@@ -2139,6 +2227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148001,
+      "num": 148001,
+      "word": "龚俊问大张伟这是便秘的广告吗",
+      "onboard_time": 1682262816,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146038,
       "num": 146038,
       "word": "杭州铁男现场教做人",
@@ -2161,6 +2257,22 @@
       "onboard_time": 1682243969,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144634,
+      "num": 144634,
+      "word": "广厦男篮半决赛对阵辽宁男篮",
+      "onboard_time": 1682261919,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141938,
+      "num": 141938,
+      "word": "向往7定档",
+      "onboard_time": 1682261200,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 141594,
