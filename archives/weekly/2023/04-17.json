@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682238012348,
+  "endTime": 1682238805762,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -1419,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1122508,
+      "num": 358385,
+      "word": "杨幂有11个耳洞",
+      "onboard_time": 1682233109,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1120934,
       "num": 717963,
       "word": "杜华你好大的福气",
@@ -1449,14 +1457,6 @@
       "onboard_time": 1682050228,
       "rank": 17,
       "category": "科技,音乐"
-    },
-    {
-      "raw_hot": 1105611,
-      "num": 358385,
-      "word": "杨幂有11个耳洞",
-      "onboard_time": 1682233109,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1105425,
@@ -3067,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602609,
+      "num": 209130,
+      "word": "淄博小饼遭疯抢老板暴瘦20斤",
+      "onboard_time": 1682237189,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 598005,
       "num": 598005,
       "word": "山东人均存款8.37万",
@@ -3371,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553640,
+      "num": 341100,
+      "word": "戚薇瘦了",
+      "onboard_time": 1682237010,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 551547,
       "num": 430631,
       "word": "金在中悼念文彬",
@@ -3651,6 +3667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 514585,
+      "num": 514585,
+      "word": "闫桉真的回内娱了",
+      "onboard_time": 1682234847,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512734,
       "num": 373716,
       "word": "浙江一大坝挖出生长十几年白蚁后",
@@ -3785,14 +3809,6 @@
       "onboard_time": 1681952614,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 495782,
-      "num": 495782,
-      "word": "闫桉真的回内娱了",
-      "onboard_time": 1682234847,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 495401,
@@ -4113,6 +4129,14 @@
       "onboard_time": 1682091209,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464757,
+      "num": 319937,
+      "word": "澹台烬发疯了",
+      "onboard_time": 1682237068,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 464455,
@@ -4761,6 +4785,14 @@
       "onboard_time": 1681979487,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 412029,
+      "num": 412029,
+      "word": "店主漏看监控冤枉8岁女孩是小偷",
+      "onboard_time": 1682235509,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409501,
@@ -6059,6 +6091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 331047,
+      "num": 331047,
+      "word": "冤枉女孩偷东西商家道歉",
+      "onboard_time": 1682237429,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330925,
       "num": 330925,
       "word": "公司团建是看五月天演唱会",
@@ -6209,6 +6249,14 @@
       "onboard_time": 1681884867,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324063,
+      "num": 324063,
+      "word": "今天的怨气可以养活十个邪剑仙",
+      "onboard_time": 1682236468,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 324013,
@@ -6531,14 +6579,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 306509,
-      "num": 204523,
-      "word": "淄博小饼遭疯抢老板暴瘦20斤",
-      "onboard_time": 1682237189,
-      "rank": 30,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 306309,
       "num": 306309,
       "word": "樊振东vsA勒布伦",
@@ -6769,14 +6809,6 @@
       "onboard_time": 1681806690,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293349,
-      "num": 293349,
-      "word": "店主漏看监控冤枉8岁女孩是小偷",
-      "onboard_time": 1682235509,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292771,
@@ -7059,14 +7091,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 281562,
-      "num": 281562,
-      "word": "澹台烬发疯了",
-      "onboard_time": 1682237068,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280961,
       "num": 280961,
       "word": "刘青云第三次获金像奖影帝",
@@ -7089,6 +7113,14 @@
       "onboard_time": 1682224232,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280306,
+      "num": 280306,
+      "word": "超8成图书被已婚人群买走",
+      "onboard_time": 1682234249,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280183,
@@ -7352,14 +7384,6 @@
       "word": "男孩拿手电照商铺玻璃不料玻璃直接碎裂",
       "onboard_time": 1681953511,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269466,
-      "num": 269466,
-      "word": "超8成图书被已婚人群买走",
-      "onboard_time": 1682234249,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -7635,14 +7659,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 258836,
-      "num": 258836,
-      "word": "今天的怨气可以养活十个邪剑仙",
-      "onboard_time": 1682236468,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 258092,
       "num": 174188,
       "word": "张颂文谈在北影节的幸福回忆",
@@ -7825,6 +7841,14 @@
       "onboard_time": 1682140766,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251964,
+      "num": 251964,
+      "word": "张若昀吃面cue白宇",
+      "onboard_time": 1682237969,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 251937,
@@ -8323,14 +8347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233225,
-      "num": 233225,
-      "word": "冤枉女孩偷东西商家道歉",
-      "onboard_time": 1682237429,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233161,
       "num": 206564,
       "word": "程潇秒猜迪丽热巴冷笑话谐音梗",
@@ -8675,6 +8691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222124,
+      "num": 209123,
+      "word": "当着婆婆的面给我妈转钱",
+      "onboard_time": 1682237908,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221986,
       "num": 221986,
       "word": "中国经济没有出现通缩",
@@ -8737,6 +8761,14 @@
       "onboard_time": 1681808908,
       "rank": 19,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 221023,
+      "num": 221023,
+      "word": "田曦薇半熟男女开机照",
+      "onboard_time": 1682238092,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 220763,
@@ -9995,14 +10027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196697,
-      "num": 196697,
-      "word": "戚薇瘦了",
-      "onboard_time": 1682237010,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 196487,
       "num": 196487,
       "word": "你能接受的音乐节门票是多少",
@@ -10089,6 +10113,14 @@
       "onboard_time": 1681878211,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195863,
+      "num": 195863,
+      "word": "扮樱木花道却成为赤木刚宪",
+      "onboard_time": 1682237068,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 195582,
@@ -10809,14 +10841,6 @@
       "onboard_time": 1682058509,
       "rank": 36,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 184859,
-      "num": 184859,
-      "word": "扮樱木花道却成为赤木刚宪",
-      "onboard_time": 1682237068,
-      "rank": 36,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 184693,
@@ -12795,6 +12819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145105,
+      "num": 145105,
+      "word": "警方回应薛之谦演唱会被激光笔照眼",
+      "onboard_time": 1682238750,
+      "rank": 45,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 145080,
       "num": 145080,
       "word": "小猫是不可能表演的",
@@ -13387,6 +13419,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132428,
+      "num": 132428,
+      "word": "曾黎顺风而生珠海签售",
+      "onboard_time": 1682238750,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132367,
+      "num": 132367,
+      "word": "蛋仔派对",
+      "onboard_time": 1682238092,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131859,
       "num": 131859,
       "word": "柯洁大司马连麦直播",
@@ -13457,14 +13505,6 @@
       "onboard_time": 1681721424,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129702,
-      "num": 129702,
-      "word": "当着婆婆的面给我妈转钱",
-      "onboard_time": 1682237908,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 129690,
@@ -13633,14 +13673,6 @@
       "onboard_time": 1681651588,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 126872,
-      "num": 126872,
-      "word": "张若昀吃面cue白宇",
-      "onboard_time": 1682237969,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 126763,

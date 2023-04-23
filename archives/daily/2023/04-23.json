@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682238012348,
+  "endTime": 1682238805762,
   "band_list": [
     {
       "raw_hot": 2649324,
@@ -139,7 +139,7 @@
       "category": "游戏,音乐"
     },
     {
-      "raw_hot": 1105611,
+      "raw_hot": 1122508,
       "num": 358385,
       "word": "杨幂有11个耳洞",
       "onboard_time": 1682233109,
@@ -283,12 +283,36 @@
       "category": "影视"
     },
     {
+      "raw_hot": 602609,
+      "num": 209130,
+      "word": "淄博小饼遭疯抢老板暴瘦20斤",
+      "onboard_time": 1682237189,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 588341,
       "num": 588341,
       "word": "人造长假真的有意义吗",
       "onboard_time": 1682214569,
       "rank": 12,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 553640,
+      "num": 341100,
+      "word": "戚薇瘦了",
+      "onboard_time": 1682237010,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 514585,
+      "num": 514585,
+      "word": "闫桉真的回内娱了",
+      "onboard_time": 1682234847,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 509876,
@@ -305,14 +329,6 @@
       "onboard_time": 1682217087,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 495782,
-      "num": 495782,
-      "word": "闫桉真的回内娱了",
-      "onboard_time": 1682234847,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 493710,
@@ -337,6 +353,14 @@
       "onboard_time": 1682224111,
       "rank": 22,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 464757,
+      "num": 319937,
+      "word": "澹台烬发疯了",
+      "onboard_time": 1682237068,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 463477,
@@ -440,6 +464,14 @@
       "word": "汕尾美团",
       "onboard_time": 1682230828,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412029,
+      "num": 412029,
+      "word": "店主漏看监控冤枉8岁女孩是小偷",
+      "onboard_time": 1682235509,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -563,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 331047,
+      "num": 331047,
+      "word": "冤枉女孩偷东西商家道歉",
+      "onboard_time": 1682237429,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329846,
       "num": 283632,
       "word": "多放几天假天塌不下来",
@@ -579,20 +619,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 324063,
+      "num": 324063,
+      "word": "今天的怨气可以养活十个邪剑仙",
+      "onboard_time": 1682236468,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315113,
       "num": 315113,
       "word": "莫兰特 西部对手",
       "onboard_time": 1682225013,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306509,
-      "num": 204523,
-      "word": "淄博小饼遭疯抢老板暴瘦20斤",
-      "onboard_time": 1682237189,
-      "rank": 30,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 305593,
@@ -635,14 +675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 293349,
-      "num": 293349,
-      "word": "店主漏看监控冤枉8岁女孩是小偷",
-      "onboard_time": 1682235509,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293289,
       "num": 293289,
       "word": "调休",
@@ -675,20 +707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281562,
-      "num": 281562,
-      "word": "澹台烬发疯了",
-      "onboard_time": 1682237068,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 280445,
       "num": 280445,
       "word": "科切拉",
       "onboard_time": 1682224232,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280306,
+      "num": 280306,
+      "word": "超8成图书被已婚人群买走",
+      "onboard_time": 1682234249,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277649,
@@ -721,14 +753,6 @@
       "onboard_time": 1682179827,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 269466,
-      "num": 269466,
-      "word": "超8成图书被已婚人群买走",
-      "onboard_time": 1682234249,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266793,
@@ -771,14 +795,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 258836,
-      "num": 258836,
-      "word": "今天的怨气可以养活十个邪剑仙",
-      "onboard_time": 1682236468,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 258092,
       "num": 174188,
       "word": "张颂文谈在北影节的幸福回忆",
@@ -809,6 +825,14 @@
       "onboard_time": 1682234068,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251964,
+      "num": 251964,
+      "word": "张若昀吃面cue白宇",
+      "onboard_time": 1682237969,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 250234,
@@ -891,14 +915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 233225,
-      "num": 233225,
-      "word": "冤枉女孩偷东西商家道歉",
-      "onboard_time": 1682237429,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229695,
       "num": 229695,
       "word": "青春环游记全员素颜",
@@ -923,12 +939,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222124,
+      "num": 209123,
+      "word": "当着婆婆的面给我妈转钱",
+      "onboard_time": 1682237908,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221321,
       "num": 221321,
       "word": "假如灌篮高手真人版长这样",
       "onboard_time": 1682233467,
       "rank": 32,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 221023,
+      "num": 221023,
+      "word": "田曦薇半熟男女开机照",
+      "onboard_time": 1682238092,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 220602,
@@ -1075,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196697,
-      "num": 196697,
-      "word": "戚薇瘦了",
-      "onboard_time": 1682237010,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 196127,
       "num": 201000,
       "word": "毕业应该先买房还是先买车",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1682217568,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195863,
+      "num": 195863,
+      "word": "扮樱木花道却成为赤木刚宪",
+      "onboard_time": 1682237068,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 195582,
@@ -1121,14 +1153,6 @@
       "onboard_time": 1682176653,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 184859,
-      "num": 184859,
-      "word": "扮樱木花道却成为赤木刚宪",
-      "onboard_time": 1682237068,
-      "rank": 36,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 183719,
@@ -1355,6 +1379,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 145105,
+      "num": 145105,
+      "word": "警方回应薛之谦演唱会被激光笔照眼",
+      "onboard_time": 1682238750,
+      "rank": 45,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 141594,
       "num": 141594,
       "word": "第30届大学生电影节正式启动",
@@ -1419,6 +1451,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132428,
+      "num": 132428,
+      "word": "曾黎顺风而生珠海签售",
+      "onboard_time": 1682238750,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132367,
+      "num": 132367,
+      "word": "蛋仔派对",
+      "onboard_time": 1682238092,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130937,
       "num": 130937,
       "word": "女子为给猪仔治病种4769株罂粟",
@@ -1435,14 +1483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129702,
-      "num": 129702,
-      "word": "当着婆婆的面给我妈转钱",
-      "onboard_time": 1682237908,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127517,
       "num": 127517,
       "word": "我发现这头大象是没有脸的",
@@ -1457,14 +1497,6 @@
       "onboard_time": 1682176773,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126872,
-      "num": 126872,
-      "word": "张若昀吃面cue白宇",
-      "onboard_time": 1682237969,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 125891,
