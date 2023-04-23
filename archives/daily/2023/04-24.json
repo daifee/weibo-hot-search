@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682289196066,
+  "endTime": 1682291809335,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1297914,
-      "num": 1297914,
+      "raw_hot": 1355901,
+      "num": 1355901,
       "word": "严禁劣迹艺人随意变相复出捞金",
       "onboard_time": 1682256753,
       "rank": 1,
@@ -67,6 +67,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 455548,
+      "num": 455548,
+      "word": "女子忘关车门4岁娃跑下车遭碾压",
+      "onboard_time": 1682274434,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 452630,
       "num": 452630,
       "word": "澹台烬抱着叶夕雾的尸体睡觉",
@@ -91,7 +99,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 370982,
+      "raw_hot": 384451,
       "num": 370982,
       "word": "我说谢娜助理怎么那么眼熟",
       "onboard_time": 1682248108,
@@ -107,12 +115,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 300875,
-      "num": 300875,
-      "word": "女子忘关车门4岁娃跑下车遭碾压",
-      "onboard_time": 1682274434,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 321575,
+      "num": 321575,
+      "word": "老师上课被学生从背后扇并挑衅",
+      "onboard_time": 1682281092,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 292956,
@@ -219,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200689,
+      "num": 200689,
+      "word": "当你和法国人解释五一调休",
+      "onboard_time": 1682254290,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196471,
       "num": 196471,
       "word": "滔搏",
@@ -241,14 +257,6 @@
       "onboard_time": 1682248589,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189594,
-      "num": 189594,
-      "word": "当你和法国人解释五一调休",
-      "onboard_time": 1682254290,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 186098,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167639,
+      "num": 167639,
+      "word": "城管局回应采购制服每套4591元",
+      "onboard_time": 1682253270,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156534,
       "num": 156534,
       "word": "外卖轻食 肠胃炎",
@@ -305,14 +321,6 @@
       "onboard_time": 1682255731,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145814,
-      "num": 145814,
-      "word": "老师上课被学生从背后扇并挑衅",
-      "onboard_time": 1682281092,
-      "rank": 39,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 130959,
@@ -363,12 +371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108721,
-      "num": 108721,
-      "word": "城管局回应采购制服每套4591元",
-      "onboard_time": 1682253270,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 108112,
+      "num": 84552,
+      "word": "美团外卖",
+      "onboard_time": 1682285651,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 107228,
@@ -403,8 +411,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94423,
-      "num": 94423,
+      "raw_hot": 99533,
+      "num": 99533,
       "word": "小县城的生活能有多安逸",
       "onboard_time": 1682251231,
       "rank": 45,
@@ -435,20 +443,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74928,
+      "num": 74928,
+      "word": "曼联晋级足总杯决赛",
+      "onboard_time": 1682291600,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70344,
       "num": 70344,
       "word": "湖南博物馆",
       "onboard_time": 1682272573,
       "rank": 18,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 69204,
-      "num": 41962,
-      "word": "美团外卖",
-      "onboard_time": 1682285651,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 62976,
@@ -473,6 +481,22 @@
       "onboard_time": 1682242770,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 42194,
+      "num": 53376,
+      "word": "只有杨幂关晓彤爱喝豆汁吧",
+      "onboard_time": 1682291781,
+      "rank": 47,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 34205,
+      "num": 53371,
+      "word": "戚薇被粉丝喊话不要再减肥了",
+      "onboard_time": 1682291360,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27379,
