@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682231668185,
+  "endTime": 1682234118125,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2117768,
+      "num": 1931850,
+      "word": "二次感染比第一次更难受吗",
+      "onboard_time": 1682225551,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2061040,
       "num": 2061040,
       "word": "被小学同学抄袭了人生",
@@ -592,14 +600,6 @@
       "word": "台湾17岁少年街头扫射42枪",
       "onboard_time": 1682035288,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1931850,
-      "num": 1931850,
-      "word": "二次感染比第一次更难受吗",
-      "onboard_time": 1682225551,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -939,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1536816,
+      "num": 575754,
+      "word": "贾玲是真瘦了还是黑色显瘦",
+      "onboard_time": 1682228066,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1536016,
       "num": 1536016,
       "word": "哇唧唧哇 空座",
@@ -985,14 +993,6 @@
       "onboard_time": 1682062410,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1518659,
-      "num": 575754,
-      "word": "贾玲是真瘦了还是黑色显瘦",
-      "onboard_time": 1682228066,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1517109,
@@ -2243,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782398,
+      "num": 782398,
+      "word": "罗云熙直播说不能再吃了胖死了",
+      "onboard_time": 1682231609,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 776793,
       "num": 776793,
       "word": "游客称在淄博一烧烤店遇强制消费",
@@ -2361,6 +2369,14 @@
       "onboard_time": 1681904727,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 732684,
+      "num": 732684,
+      "word": "灌篮高手 我来考考你",
+      "onboard_time": 1682230231,
+      "rank": 31,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 730338,
@@ -3793,6 +3809,14 @@
       "onboard_time": 1681913490,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 492219,
+      "num": 358385,
+      "word": "杨幂有11个耳洞",
+      "onboard_time": 1682233109,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491781,
@@ -5635,6 +5659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356640,
+      "num": 356640,
+      "word": "汕尾美团",
+      "onboard_time": 1682230828,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 356518,
       "num": 1410170,
       "word": "深夜起火92岁奶奶喊醒一条街",
@@ -5899,14 +5931,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 340473,
-      "num": 174511,
-      "word": "罗云熙直播说不能再吃了胖死了",
-      "onboard_time": 1682231609,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 340039,
       "num": 420866,
       "word": "淄博多部门回应方舱将改酒店一事",
@@ -6057,6 +6081,14 @@
       "onboard_time": 1681861046,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 329260,
+      "num": 329260,
+      "word": "iPhone用户因闹钟没响上班迟到",
+      "onboard_time": 1682232930,
+      "rank": 20,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 329030,
@@ -7131,6 +7163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 275557,
+      "num": 275557,
+      "word": "调休日上班效率有区别吗",
+      "onboard_time": 1682230287,
+      "rank": 26,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 275516,
       "num": 275516,
       "word": "iPhone15Pro系列升级Action按钮交互",
@@ -7371,6 +7411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264709,
+      "num": 264709,
+      "word": "朴彩英眼妆好漂亮",
+      "onboard_time": 1682231848,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 264698,
       "num": 234441,
       "word": "杨洋与素人合影",
@@ -7592,6 +7640,14 @@
       "word": "罗云熙白鹿直播",
       "onboard_time": 1682148387,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 255236,
+      "num": 255236,
+      "word": "王一博新片首映礼哭了",
+      "onboard_time": 1682231609,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -7939,6 +7995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 243339,
+      "num": 182572,
+      "word": "小心张颂文拉黑你",
+      "onboard_time": 1682233048,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242652,
       "num": 242652,
       "word": "辛柏青朱一龙张子枫演一家三口",
@@ -8179,6 +8243,14 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 233775,
+      "num": 217025,
+      "word": "长空之王",
+      "onboard_time": 1681715367,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 233547,
       "num": 233547,
       "word": "罗云熙打戏好是有原因的",
@@ -8337,14 +8409,6 @@
       "onboard_time": 1681721007,
       "rank": 24,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 227284,
-      "num": 202163,
-      "word": "灌篮高手 我来考考你",
-      "onboard_time": 1682230231,
-      "rank": 31,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 227252,
@@ -8713,14 +8777,6 @@
       "onboard_time": 1682076510,
       "rank": 39,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 216697,
-      "num": 170814,
-      "word": "王一博新片首映礼哭了",
-      "onboard_time": 1682231609,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 216655,
@@ -9603,14 +9659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201081,
-      "num": 201081,
-      "word": "调休日上班效率有区别吗",
-      "onboard_time": 1682230287,
-      "rank": 26,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 201056,
       "num": 201056,
       "word": "内娱小说男主代餐脸",
@@ -9857,14 +9905,6 @@
       "onboard_time": 1681701745,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196618,
-      "num": 199870,
-      "word": "长空之王",
-      "onboard_time": 1681715367,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 196487,
@@ -10755,8 +10795,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183567,
-      "num": 183567,
+      "raw_hot": 183719,
+      "num": 183719,
       "word": "S13比赛日期公布",
       "onboard_time": 1682229509,
       "rank": 35,
@@ -10921,6 +10961,14 @@
       "onboard_time": 1682003315,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180486,
+      "num": 180486,
+      "word": "假如灌篮高手真人版长这样",
+      "onboard_time": 1682233467,
+      "rank": 32,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 180188,
@@ -11169,14 +11217,6 @@
       "onboard_time": 1682157027,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 174715,
-      "num": 174715,
-      "word": "汕尾美团",
-      "onboard_time": 1682230828,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174332,
@@ -11825,6 +11865,14 @@
       "onboard_time": 1681877910,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161085,
+      "num": 161085,
+      "word": "连上12天班的精神状态",
+      "onboard_time": 1682231790,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 161076,
@@ -12747,6 +12795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141594,
+      "num": 141594,
+      "word": "第30届大学生电影节正式启动",
+      "onboard_time": 1682233170,
+      "rank": 36,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 141494,
       "num": 141494,
       "word": "篮球场假摔求婚",
@@ -12897,6 +12953,14 @@
       "onboard_time": 1681740148,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138896,
+      "num": 138896,
+      "word": "王鹤棣脏辫造型路透",
+      "onboard_time": 1682232148,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138728,
@@ -13787,6 +13851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115479,
+      "num": 335642,
+      "word": "手机街拍如何出大片",
+      "onboard_time": 1682231548,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 115063,
       "num": 109670,
       "word": "长峰医院今日起股票停牌",
@@ -13955,6 +14027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110639,
+      "num": 110639,
+      "word": "Twins关智斌霍汶希看容祖儿演唱会",
+      "onboard_time": 1682232569,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 110210,
       "num": 110210,
       "word": "剧好听的歌有好多人啊",
@@ -14011,6 +14091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109486,
+      "num": 109486,
+      "word": "极限挑战",
+      "onboard_time": 1682234068,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109447,
       "num": 109447,
       "word": "中国华服日",
@@ -14041,14 +14129,6 @@
       "onboard_time": 1682062229,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 108934,
-      "num": 132849,
-      "word": "手机街拍如何出大片",
-      "onboard_time": 1682231548,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 108805,
@@ -14216,6 +14296,14 @@
       "word": "DOTA2",
       "onboard_time": 1682065947,
       "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 103437,
+      "num": 103437,
+      "word": "倒计时的尽头是什么",
+      "onboard_time": 1682233708,
+      "rank": 46,
       "category": "游戏"
     },
     {

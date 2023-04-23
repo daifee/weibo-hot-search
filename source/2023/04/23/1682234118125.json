@@ -1,0 +1,410 @@
+{
+  "runTime": 1682234118125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1158570,
+        "num": 1158570,
+        "word": "女子1月内收5笔工资直呼看不懂",
+        "onboard_time": 1682222008,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782398,
+        "num": 782398,
+        "word": "罗云熙直播说不能再吃了胖死了",
+        "onboard_time": 1682231609,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74947,
+        "num": 736175,
+        "word": "当千里江山图遇上锦绣江苏",
+        "onboard_time": 1682226867,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2117768,
+        "num": 736050,
+        "word": "二次感染比第一次更难受吗",
+        "onboard_time": 1682225551,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732684,
+        "num": 732684,
+        "word": "灌篮高手 我来考考你",
+        "onboard_time": 1682230231,
+        "rank": 4,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 606042,
+        "num": 606042,
+        "word": "于正说赵丽颖85花演技第一名",
+        "onboard_time": 1682221828,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590354,
+        "num": 590354,
+        "word": "爸爸靠茶具谈崩五个客户",
+        "onboard_time": 1682229389,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 535551,
+        "num": 535551,
+        "word": "五一调休",
+        "onboard_time": 1682207725,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441093,
+        "num": 441093,
+        "word": "BLACKPINK今天造型杀疯了",
+        "onboard_time": 1682229689,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408576,
+        "num": 408576,
+        "word": "中奖一千万要不要告诉父母",
+        "onboard_time": 1682215648,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1536816,
+        "num": 402626,
+        "word": "贾玲是真瘦了还是黑色显瘦",
+        "onboard_time": 1682228066,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1116661,
+        "num": 398389,
+        "word": "Lisa的腿好惊人",
+        "onboard_time": 1682228611,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 881627,
+        "num": 387550,
+        "word": "Jennie衣服好辣",
+        "onboard_time": 1682227050,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 788865,
+        "num": 379979,
+        "word": "依萍 连个星期天也没有",
+        "onboard_time": 1682223751,
+        "rank": 13,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 471019,
+        "num": 372596,
+        "word": "27岁女儿被妈妈教训女孩不用买房",
+        "onboard_time": 1682219248,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492219,
+        "num": 358385,
+        "word": "杨幂有11个耳洞",
+        "onboard_time": 1682233109,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356640,
+        "num": 356640,
+        "word": "汕尾美团",
+        "onboard_time": 1682230828,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353648,
+        "num": 353648,
+        "word": "99年小伙隐居6年家变图书馆",
+        "onboard_time": 1682229089,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342255,
+        "num": 342255,
+        "word": "新冠查漏补缺",
+        "onboard_time": 1682229689,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115479,
+        "num": 335642,
+        "word": "手机街拍如何出大片",
+        "onboard_time": 1682231548,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 329260,
+        "num": 329260,
+        "word": "iPhone用户因闹钟没响上班迟到",
+        "onboard_time": 1682232930,
+        "rank": 20,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 304097,
+        "num": 304097,
+        "word": "开网约车被处分的副镇长有了新职",
+        "onboard_time": 1682216427,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275557,
+        "num": 275557,
+        "word": "调休日上班效率有区别吗",
+        "onboard_time": 1682230287,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 264709,
+        "num": 264709,
+        "word": "朴彩英眼妆好漂亮",
+        "onboard_time": 1682231848,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255236,
+        "num": 255236,
+        "word": "王一博新片首映礼哭了",
+        "onboard_time": 1682231609,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217122,
+        "num": 217122,
+        "word": "jisoo吹口哨",
+        "onboard_time": 1682228128,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233775,
+        "num": 217025,
+        "word": "长空之王",
+        "onboard_time": 1682233589,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216296,
+        "num": 216296,
+        "word": "斗破苍穹 删减",
+        "onboard_time": 1682217328,
+        "rank": 27,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 200544,
+        "num": 200544,
+        "word": "对纸片人动情被父母发现 be like",
+        "onboard_time": 1682226211,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183719,
+        "num": 183719,
+        "word": "S13比赛日期公布",
+        "onboard_time": 1682229509,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243339,
+        "num": 182572,
+        "word": "小心张颂文拉黑你",
+        "onboard_time": 1682233048,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180707,
+        "num": 180707,
+        "word": "女性为什么不愿意生",
+        "onboard_time": 1682225732,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180486,
+        "num": 180486,
+        "word": "假如灌篮高手真人版长这样",
+        "onboard_time": 1682233467,
+        "rank": 32,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 174945,
+        "num": 174945,
+        "word": "原来结婚证里还有温馨小提示",
+        "onboard_time": 1682210669,
+        "rank": 33,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 161085,
+        "num": 161085,
+        "word": "连上12天班的精神状态",
+        "onboard_time": 1682231790,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159345,
+        "num": 159345,
+        "word": "艺人头发长得快的原因",
+        "onboard_time": 1682216247,
+        "rank": 35,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 141594,
+        "num": 141594,
+        "word": "第30届大学生电影节正式启动",
+        "onboard_time": 1682233170,
+        "rank": 36,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 138896,
+        "num": 138896,
+        "word": "王鹤棣脏辫造型路透",
+        "onboard_time": 1682232148,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135601,
+        "num": 135601,
+        "word": "考研政治1000题上榜山东人最爱书前十",
+        "onboard_time": 1682224111,
+        "rank": 38,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 135582,
+        "num": 135582,
+        "word": "苹果闹钟",
+        "onboard_time": 1682221109,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 122692,
+        "num": 122692,
+        "word": "何炅挂在尹昉身上做仰卧起坐",
+        "onboard_time": 1682225910,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120621,
+        "num": 120621,
+        "word": "女大学生在寝室发现巨拟叶螽",
+        "onboard_time": 1682206583,
+        "rank": 41,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 111859,
+        "num": 111859,
+        "word": "欢迎加入睡教",
+        "onboard_time": 1682228010,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110639,
+        "num": 110639,
+        "word": "Twins关智斌霍汶希看容祖儿演唱会",
+        "onboard_time": 1682232569,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109486,
+        "num": 109486,
+        "word": "极限挑战",
+        "onboard_time": 1682234068,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106103,
+        "num": 106103,
+        "word": "赵露思紫色抹胸裙造型",
+        "onboard_time": 1682219008,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 103437,
+        "num": 103437,
+        "word": "倒计时的尽头是什么",
+        "onboard_time": 1682233708,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101614,
+        "num": 101614,
+        "word": "莫兰特 西部对手",
+        "onboard_time": 1682225013,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101051,
+        "num": 101051,
+        "word": "多放几天假天塌不下来",
+        "onboard_time": 1682223090,
+        "rank": 48,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 98371,
+        "num": 98371,
+        "word": "肖战又现覃头造型",
+        "onboard_time": 1682211929,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#读书之美#"
+    }
+  }
+}
