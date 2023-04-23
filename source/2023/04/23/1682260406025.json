@@ -1,0 +1,410 @@
+{
+  "runTime": 1682260406025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11208326,
+        "num": 11208326,
+        "word": "白鹿 以后会更加严格约束自己言行",
+        "onboard_time": 1682257595,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2735397,
+        "num": 2735397,
+        "word": "严禁劣迹艺人随意变相复出捞金",
+        "onboard_time": 1682256753,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26923,
+        "num": 1086938,
+        "word": "相约八点见",
+        "onboard_time": 1682239409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016819,
+        "num": 1016819,
+        "word": "姑娘年薪50万却毅然从银行离职",
+        "onboard_time": 1682249008,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975341,
+        "num": 975341,
+        "word": "明星最容易翻车的人设",
+        "onboard_time": 1682256271,
+        "rank": 4,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 917289,
+        "num": 917289,
+        "word": "假球",
+        "onboard_time": 1682253513,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 752611,
+        "num": 752611,
+        "word": "初三这样穿去上学被同学说擦边",
+        "onboard_time": 1682243368,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 623632,
+        "num": 623632,
+        "word": "文彬",
+        "onboard_time": 1682257472,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544512,
+        "num": 544512,
+        "word": "中国的专家真的在妖言惑众吗",
+        "onboard_time": 1682257533,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508759,
+        "num": 508759,
+        "word": "叶夕雾说澹台烬再见了",
+        "onboard_time": 1682254171,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 683482,
+        "num": 492110,
+        "word": "我说谢娜助理怎么那么眼熟",
+        "onboard_time": 1682248108,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 465823,
+        "num": 465823,
+        "word": "快把王一博的嘴堵上",
+        "onboard_time": 1682253331,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461184,
+        "num": 461184,
+        "word": "KPL 比赛暂停",
+        "onboard_time": 1682256093,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 446971,
+        "num": 446971,
+        "word": "赵睿",
+        "onboard_time": 1682255731,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433907,
+        "num": 433907,
+        "word": "易建联 广东队",
+        "onboard_time": 1682259165,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349174,
+        "num": 349174,
+        "word": "向往的生活",
+        "onboard_time": 1682254710,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324995,
+        "num": 324995,
+        "word": "长月烬明再次调整更新时间",
+        "onboard_time": 1682249369,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313129,
+        "num": 313129,
+        "word": "当你和法国人解释五一调休",
+        "onboard_time": 1682254290,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 303388,
+        "num": 303388,
+        "word": "胡明轩水平",
+        "onboard_time": 1682256692,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292535,
+        "num": 292535,
+        "word": "外卖轻食 肠胃炎",
+        "onboard_time": 1682241750,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 329365,
+        "num": 289051,
+        "word": "龙湖天街",
+        "onboard_time": 1682256452,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 282051,
+        "num": 282051,
+        "word": "广东宏远",
+        "onboard_time": 1682259042,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276510,
+        "num": 276510,
+        "word": "城管局回应采购制服每套4591元",
+        "onboard_time": 1682253270,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270777,
+        "num": 270777,
+        "word": "罗云熙嘴上说恨眼里全是爱",
+        "onboard_time": 1682254951,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256975,
+        "num": 256975,
+        "word": "王鹤棣新剧被俞灏明揪耳朵",
+        "onboard_time": 1682253990,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 249063,
+        "num": 249063,
+        "word": "杨紫和杂志摄影师合照",
+        "onboard_time": 1682257113,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 236857,
+        "num": 236857,
+        "word": "为什么好朋友不爱点赞我朋友圈",
+        "onboard_time": 1682248589,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232924,
+        "num": 232924,
+        "word": "何悯鸿快逃",
+        "onboard_time": 1682256992,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 224508,
+        "num": 224508,
+        "word": "这是我下周过4.9岁生日的何老师",
+        "onboard_time": 1682246788,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215525,
+        "num": 215525,
+        "word": "马龙 王楚钦",
+        "onboard_time": 1682251951,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215196,
+        "num": 215196,
+        "word": "CBA",
+        "onboard_time": 1682251408,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210284,
+        "num": 210284,
+        "word": "宋亚轩胸口痣",
+        "onboard_time": 1682256331,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198382,
+        "num": 198382,
+        "word": "铃芽之旅原本是双女主",
+        "onboard_time": 1682249611,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194410,
+        "num": 194410,
+        "word": "戚薇瘦了",
+        "onboard_time": 1682237010,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189030,
+        "num": 189030,
+        "word": "肖战泪眼特写",
+        "onboard_time": 1682243669,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 188448,
+        "num": 188448,
+        "word": "胡金秋受伤",
+        "onboard_time": 1682259877,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183629,
+        "num": 183629,
+        "word": "半熟男女官宣没有周雨彤",
+        "onboard_time": 1682242770,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182821,
+        "num": 182821,
+        "word": "TTG对战AG",
+        "onboard_time": 1682254409,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178313,
+        "num": 178313,
+        "word": "应届毕业生的身份有多值钱",
+        "onboard_time": 1682249969,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175757,
+        "num": 175757,
+        "word": "小县城的生活能有多安逸",
+        "onboard_time": 1682251231,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175609,
+        "num": 175609,
+        "word": "张颂文演我减肥",
+        "onboard_time": 1682255011,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169521,
+        "num": 169521,
+        "word": "广厦男篮晋级四强",
+        "onboard_time": 1682259939,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166401,
+        "num": 166401,
+        "word": "长月烬明",
+        "onboard_time": 1682244208,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162267,
+        "num": 162267,
+        "word": "内地版放羊的星星",
+        "onboard_time": 1682243130,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160620,
+        "num": 160620,
+        "word": "检察风云尺度",
+        "onboard_time": 1682255731,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159830,
+        "num": 159830,
+        "word": "伍佰 这我写的歌词",
+        "onboard_time": 1682260180,
+        "rank": 45,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 150465,
+        "num": 150465,
+        "word": "纽卡斯尔vs热刺",
+        "onboard_time": 1682256692,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141608,
+        "num": 141608,
+        "word": "消失的她",
+        "onboard_time": 1682253810,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137917,
+        "num": 137917,
+        "word": "滔搏",
+        "onboard_time": 1682254051,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131325,
+        "num": 131325,
+        "word": "广东男篮vs广厦男篮",
+        "onboard_time": 1682251769,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#真抓实干答好改革之问#"
+    }
+  }
+}
