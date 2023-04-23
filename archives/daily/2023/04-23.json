@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682213886154,
+  "endTime": 1682214975930,
   "band_list": [
     {
       "raw_hot": 2603141,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1868441,
-      "num": 428319,
+      "num": 490721,
       "word": "谢娜工作室道歉",
       "onboard_time": 1682209045,
       "rank": 10,
@@ -25,6 +25,22 @@
       "onboard_time": 1682173233,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1712171,
+      "num": 1712171,
+      "word": "原来结婚证里还有温馨小提示",
+      "onboard_time": 1682210669,
+      "rank": 11,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1479037,
+      "num": 1479037,
+      "word": "女大学生在寝室发现巨拟叶螽",
+      "onboard_time": 1682206583,
+      "rank": 1,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 1476656,
@@ -41,22 +57,6 @@
       "onboard_time": 1682207725,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1328996,
-      "num": 1328996,
-      "word": "女大学生在寝室发现巨拟叶螽",
-      "onboard_time": 1682206583,
-      "rank": 1,
-      "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 1247446,
-      "num": 427291,
-      "word": "原来结婚证里还有温馨小提示",
-      "onboard_time": 1682210669,
-      "rank": 11,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1231936,
@@ -83,6 +83,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 925108,
+      "num": 925108,
+      "word": "张杰粉丝只是长大了不是暴富了",
+      "onboard_time": 1682209045,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 924174,
       "num": 924174,
       "word": "张杰谢娜助理打手机",
@@ -91,20 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 903956,
-      "num": 903956,
+      "raw_hot": 907320,
+      "num": 907320,
       "word": "张颂文向陈凯歌介绍高叶",
       "onboard_time": 1682174795,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 876845,
-      "num": 876845,
-      "word": "张杰粉丝只是长大了不是暴富了",
-      "onboard_time": 1682209045,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 805531,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 742545,
+      "num": 742545,
+      "word": "3个职业平均月薪超2万",
+      "onboard_time": 1682210609,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 710719,
       "num": 406768,
       "word": "嗯哼长大了",
@@ -123,20 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 652683,
-      "num": 652683,
-      "word": "3个职业平均月薪超2万",
-      "onboard_time": 1682210609,
-      "rank": 8,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 623436,
       "num": 623436,
       "word": "刘宇宁把家人说成家人们",
       "onboard_time": 1682163749,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 493710,
+      "num": 493710,
+      "word": "中方向韩驻华大使提出严正交涉",
+      "onboard_time": 1682210609,
+      "rank": 9,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 463477,
@@ -171,20 +179,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 430723,
-      "num": 430723,
-      "word": "中方向韩驻华大使提出严正交涉",
-      "onboard_time": 1682210609,
-      "rank": 9,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 424636,
       "num": 424636,
       "word": "什么原因导致大学生就业难",
       "onboard_time": 1682208687,
       "rank": 12,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 419131,
+      "num": 419131,
+      "word": "北京一女子晚交7天房租被扣3500元",
+      "onboard_time": 1682210068,
+      "rank": 15,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 392574,
@@ -195,16 +203,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382882,
-      "num": 382882,
-      "word": "北京一女子晚交7天房租被扣3500元",
-      "onboard_time": 1682210068,
-      "rank": 15,
+      "raw_hot": 383084,
+      "num": 383084,
+      "word": "人造长假真的有意义吗",
+      "onboard_time": 1682214569,
+      "rank": 12,
       "category": "社会新闻,财经"
     },
     {
       "raw_hot": 381904,
-      "num": 171890,
+      "num": 215425,
       "word": "课上唯一认真听讲的被赶出去了",
       "onboard_time": 1682211990,
       "rank": 30,
@@ -267,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297945,
+      "num": 297945,
+      "word": "淄博五一酒店客房涨价不得超过50%",
+      "onboard_time": 1682211628,
+      "rank": 22,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 293289,
       "num": 293289,
       "word": "调休",
@@ -323,12 +339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235670,
-      "num": 235670,
-      "word": "淄博五一酒店客房涨价不得超过50%",
-      "onboard_time": 1682211628,
-      "rank": 22,
-      "category": "社会新闻,财经"
+      "raw_hot": 241475,
+      "num": 213363,
+      "word": "陈都灵跳舞",
+      "onboard_time": 1682213129,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 229695,
@@ -385,6 +401,14 @@
       "onboard_time": 1682178090,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 207342,
+      "num": 170034,
+      "word": "读书的力量",
+      "onboard_time": 1682214569,
+      "rank": 30,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 205039,
@@ -475,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165453,
-      "num": 165453,
-      "word": "陈都灵跳舞",
-      "onboard_time": 1682213129,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164783,
       "num": 164783,
       "word": "威少37分",
@@ -513,6 +529,14 @@
       "onboard_time": 1682212892,
       "rank": 33,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 142685,
+      "num": 142685,
+      "word": "游客在长沙路边摊买麻辣烫被收86元",
+      "onboard_time": 1682214569,
+      "rank": 35,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 141044,
@@ -555,20 +579,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130937,
+      "num": 130937,
+      "word": "女子为给猪仔治病种4769株罂粟",
+      "onboard_time": 1682190853,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130212,
       "num": 130212,
       "word": "邓紫棋音乐节",
       "onboard_time": 1682173831,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 128676,
-      "num": 128676,
-      "word": "女子为给猪仔治病种4769株罂粟",
-      "onboard_time": 1682190853,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127429,
@@ -603,8 +627,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 118392,
-      "num": 118392,
+      "raw_hot": 120559,
+      "num": 120559,
       "word": "国家博物馆 预约",
       "onboard_time": 1682208388,
       "rank": 41,
@@ -649,6 +673,14 @@
       "onboard_time": 1682167892,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 108316,
+      "num": 108316,
+      "word": "十三个猴",
+      "onboard_time": 1682214809,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 106118,
