@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682234118125,
+  "endTime": 1682235213327,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2563,6 +2563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1649537,
+      "num": 575754,
+      "word": "贾玲是真瘦了还是黑色显瘦",
+      "onboard_time": 1682228066,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1645371,
       "num": 1645371,
       "word": "面试时叫了面试官宝贝",
@@ -2977,14 +2985,6 @@
       "onboard_time": 1681658188,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1536816,
-      "num": 575754,
-      "word": "贾玲是真瘦了还是黑色显瘦",
-      "onboard_time": 1682228066,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1536049,
@@ -5411,6 +5411,14 @@
       "category": "财经,科技"
     },
     {
+      "raw_hot": 976559,
+      "num": 358385,
+      "word": "杨幂有11个耳洞",
+      "onboard_time": 1682233109,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 976361,
       "num": 976361,
       "word": "成都人社局回应疑中电科强制员工加班",
@@ -6555,6 +6563,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 860744,
+      "num": 860744,
+      "word": "罗云熙直播说不能再吃了胖死了",
+      "onboard_time": 1682231609,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 860235,
       "num": 860235,
       "word": "BLACKPINK出演美国最大音乐庆典",
@@ -6985,6 +7001,14 @@
       "onboard_time": 1680927508,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 827689,
+      "num": 827689,
+      "word": "灌篮高手 我来考考你",
+      "onboard_time": 1682230231,
+      "rank": 31,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 826227,
@@ -7457,14 +7481,6 @@
       "onboard_time": 1680782971,
       "rank": 8,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 782398,
-      "num": 782398,
-      "word": "罗云熙直播说不能再吃了胖死了",
-      "onboard_time": 1682231609,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 782317,
@@ -8041,14 +8057,6 @@
       "onboard_time": 1681177467,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 732684,
-      "num": 732684,
-      "word": "灌篮高手 我来考考你",
-      "onboard_time": 1682230231,
-      "rank": 31,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 731250,
@@ -13467,14 +13475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 492219,
-      "num": 358385,
-      "word": "杨幂有11个耳洞",
-      "onboard_time": 1682233109,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 492152,
       "num": 492152,
       "word": "王菀之金像奖最佳女配角",
@@ -16299,6 +16299,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 417756,
+      "num": 329260,
+      "word": "iPhone用户因闹钟没响上班迟到",
+      "onboard_time": 1682232930,
+      "rank": 20,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 417596,
       "num": 244525,
       "word": "一直不谈恋爱能等到更好的人吗",
@@ -16521,6 +16529,14 @@
       "onboard_time": 1681995151,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 413222,
+      "num": 356640,
+      "word": "汕尾美团",
+      "onboard_time": 1682230828,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412985,
@@ -19251,14 +19267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 356640,
-      "num": 356640,
-      "word": "汕尾美团",
-      "onboard_time": 1682230828,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356537,
       "num": 356537,
       "word": "孟羽童曾称对直播不特别感兴趣",
@@ -20793,14 +20801,6 @@
       "onboard_time": 1681269807,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 329260,
-      "num": 329260,
-      "word": "iPhone用户因闹钟没响上班迟到",
-      "onboard_time": 1682232930,
-      "rank": 20,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 329030,
@@ -23411,6 +23411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287234,
+      "num": 287234,
+      "word": "小心张颂文拉黑你",
+      "onboard_time": 1682233048,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287216,
       "num": 287216,
       "word": "五月天鸟巢演唱会连开六场",
@@ -24187,6 +24195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 276754,
+      "num": 276754,
+      "word": "调休日上班效率有区别吗",
+      "onboard_time": 1682230287,
+      "rank": 26,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 276172,
       "num": 276172,
       "word": "GOT7聚会合照",
@@ -24233,14 +24249,6 @@
       "onboard_time": 1680572011,
       "rank": 35,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 275557,
-      "num": 275557,
-      "word": "调休日上班效率有区别吗",
-      "onboard_time": 1682230287,
-      "rank": 26,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 275516,
@@ -26931,14 +26939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 243339,
-      "num": 182572,
-      "word": "小心张颂文拉黑你",
-      "onboard_time": 1682233048,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243253,
       "num": 243253,
       "word": "林心如模仿犯高光名场面",
@@ -29297,6 +29297,14 @@
       "onboard_time": 1681081761,
       "rank": 7,
       "category": "影视,音乐"
+    },
+    {
+      "raw_hot": 221321,
+      "num": 221321,
+      "word": "假如灌篮高手真人版长这样",
+      "onboard_time": 1682233467,
+      "rank": 32,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 221319,
@@ -35411,6 +35419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195549,
+      "num": 195549,
+      "word": "超8成图书被已婚人群买走",
+      "onboard_time": 1682234249,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195538,
       "num": 172531,
       "word": "金智秀flower宠物开花舞",
@@ -39257,14 +39273,6 @@
       "onboard_time": 1682003315,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180486,
-      "num": 180486,
-      "word": "假如灌篮高手真人版长这样",
-      "onboard_time": 1682233467,
-      "rank": 32,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 180448,
@@ -46499,6 +46507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136180,
+      "num": 136180,
+      "word": "半熟男女今日开机",
+      "onboard_time": 1682234966,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 136159,
       "num": 136159,
       "word": "高圆圆穿搭vlog",
@@ -49451,12 +49467,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 112725,
+      "num": 112725,
+      "word": "闫桉真的回内娱了",
+      "onboard_time": 1682234847,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112686,
       "num": 112686,
       "word": "当代女生对丑甲的执念",
       "onboard_time": 1680974418,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112337,
+      "num": 112337,
+      "word": "Twins关智斌霍汶希看容祖儿演唱会",
+      "onboard_time": 1682232569,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 112299,
@@ -49609,14 +49641,6 @@
       "onboard_time": 1680602429,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110639,
-      "num": 110639,
-      "word": "Twins关智斌霍汶希看容祖儿演唱会",
-      "onboard_time": 1682232569,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 110556,
@@ -50865,6 +50889,14 @@
       "onboard_time": 1681519224,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98156,
+      "num": 98156,
+      "word": "我发现这头大象是没有脸的",
+      "onboard_time": 1682235148,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 98136,
