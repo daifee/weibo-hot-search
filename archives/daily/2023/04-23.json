@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682255928692,
+  "endTime": 1682256796114,
   "band_list": [
     {
       "raw_hot": 2649324,
@@ -51,20 +51,20 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 1900941,
+      "num": 1900941,
+      "word": "姑娘年薪50万却毅然从银行离职",
+      "onboard_time": 1682249008,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1868441,
       "num": 490721,
       "word": "谢娜工作室道歉",
       "onboard_time": 1682209045,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1821726,
-      "num": 1821726,
-      "word": "姑娘年薪50万却毅然从银行离职",
-      "onboard_time": 1682249008,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1789529,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1303079,
+      "num": 1303079,
+      "word": "假球",
+      "onboard_time": 1682253513,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1289092,
       "num": 1289092,
       "word": "外卖轻食 肠胃炎",
@@ -195,12 +203,12 @@
       "category": "游戏,音乐"
     },
     {
-      "raw_hot": 1169381,
-      "num": 1169381,
-      "word": "假球",
-      "onboard_time": 1682253513,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 1203149,
+      "num": 473482,
+      "word": "肖战王一博敬礼对比图",
+      "onboard_time": 1682256513,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1122508,
@@ -371,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 692172,
+      "num": 692172,
+      "word": "KPL 比赛暂停",
+      "onboard_time": 1682256093,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 661028,
       "num": 661028,
       "word": "苹果闹钟",
@@ -499,6 +515,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 489661,
+      "num": 489661,
+      "word": "纽卡斯尔vs热刺",
+      "onboard_time": 1682256692,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 484740,
+      "num": 484740,
+      "word": "王鹤棣新剧被俞灏明揪耳朵",
+      "onboard_time": 1682253990,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 476839,
       "num": 298195,
       "word": "艺人头发长得快的原因",
@@ -563,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449524,
-      "num": 449524,
-      "word": "王鹤棣新剧被俞灏明揪耳朵",
-      "onboard_time": 1682253990,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 445660,
       "num": 213227,
       "word": "薛之谦突犯喉疾",
@@ -584,6 +608,14 @@
       "word": "半熟男女官宣没有周雨彤",
       "onboard_time": 1682242770,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 442112,
+      "num": 442112,
+      "word": "叶夕雾说澹台烬再见了",
+      "onboard_time": 1682254171,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -611,12 +643,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 436522,
+      "num": 436522,
+      "word": "向往的生活",
+      "onboard_time": 1682254710,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 435357,
       "num": 435357,
       "word": "长月烬明怎么了",
       "onboard_time": 1682155526,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 428893,
+      "num": 428893,
+      "word": "城管局回应采购制服每套4591元",
+      "onboard_time": 1682253270,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426408,
@@ -681,14 +729,6 @@
       "onboard_time": 1682239888,
       "rank": 27,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 409970,
-      "num": 409970,
-      "word": "城管局回应采购制服每套4591元",
-      "onboard_time": 1682253270,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404842,
@@ -771,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355002,
-      "num": 355002,
-      "word": "叶夕雾说澹台烬再见了",
-      "onboard_time": 1682254171,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 353875,
       "num": 269932,
       "word": "看起来体面但工资低的工作",
@@ -825,14 +857,6 @@
       "onboard_time": 1682174378,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 340527,
-      "num": 340527,
-      "word": "向往的生活",
-      "onboard_time": 1682254710,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 337972,
@@ -891,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310930,
+      "num": 310930,
+      "word": "罗云熙嘴上说恨眼里全是爱",
+      "onboard_time": 1682254951,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305593,
       "num": 305593,
       "word": "满江红网播定档",
@@ -937,6 +969,14 @@
       "onboard_time": 1682243430,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 296729,
+      "num": 296729,
+      "word": "边伯贤音乐节饭拍",
+      "onboard_time": 1682255852,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 296389,
@@ -995,20 +1035,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284235,
+      "num": 284235,
+      "word": "当你和法国人解释五一调休",
+      "onboard_time": 1682254290,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283732,
       "num": 283732,
       "word": "女子喝中药一周发现成分是蟑螂",
       "onboard_time": 1682152707,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283572,
-      "num": 223417,
-      "word": "罗云熙嘴上说恨眼里全是爱",
-      "onboard_time": 1682254951,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 282587,
@@ -1099,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267856,
+      "num": 267856,
+      "word": "宋亚轩胸口痣",
+      "onboard_time": 1682256331,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 266793,
       "num": 266793,
       "word": "灌篮高手 彻底的大人童话",
@@ -1187,6 +1235,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250088,
+      "num": 281732,
+      "word": "王者荣耀",
+      "onboard_time": 1682255917,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 249936,
+      "num": 249936,
+      "word": "CBA",
+      "onboard_time": 1682251408,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248131,
       "num": 248131,
       "word": "四川人民主打一个大义灭亲",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1682217806,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247074,
+      "num": 247074,
+      "word": "赵睿",
+      "onboard_time": 1682255731,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 246646,
@@ -1259,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237631,
+      "num": 237631,
+      "word": "张颂文演我减肥",
+      "onboard_time": 1682255011,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235112,
       "num": 235112,
       "word": "湖人2比1灰熊",
@@ -1284,7 +1364,7 @@
     },
     {
       "raw_hot": 230264,
-      "num": 225188,
+      "num": 227436,
       "word": "小县城的生活能有多安逸",
       "onboard_time": 1682251231,
       "rank": 21,
@@ -1297,6 +1377,14 @@
       "onboard_time": 1682177971,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227885,
+      "num": 227885,
+      "word": "检察风云尺度",
+      "onboard_time": 1682255731,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 227227,
@@ -1313,14 +1401,6 @@
       "onboard_time": 1682229630,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226501,
-      "num": 226501,
-      "word": "当你和法国人解释五一调休",
-      "onboard_time": 1682254290,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 225535,
@@ -1387,14 +1467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214284,
-      "num": 214284,
-      "word": "CBA",
-      "onboard_time": 1682251408,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212747,
       "num": 212747,
       "word": "游客在长沙路边摊买麻辣烫被收86元",
@@ -1419,12 +1491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210408,
-      "num": 210408,
-      "word": "张颂文演我减肥",
-      "onboard_time": 1682255011,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 211509,
+      "num": 211509,
+      "word": "明星最容易翻车的人设",
+      "onboard_time": 1682256271,
+      "rank": 37,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 210359,
@@ -1465,14 +1537,6 @@
       "onboard_time": 1682166450,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208335,
-      "num": 208335,
-      "word": "王者荣耀",
-      "onboard_time": 1682255917,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 207857,
@@ -1707,20 +1771,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 171344,
+      "num": 171344,
+      "word": "苏沫",
+      "onboard_time": 1682255551,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171266,
       "num": 171266,
       "word": "徐明浩许愿SEVENTEEN能被更多人看到",
       "onboard_time": 1682235568,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170867,
-      "num": 160539,
-      "word": "边伯贤音乐节饭拍",
-      "onboard_time": 1682255852,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 170771,
@@ -1843,14 +1907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164184,
-      "num": 164184,
-      "word": "赵睿",
-      "onboard_time": 1682255731,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163255,
       "num": 163255,
       "word": "二次感染新冠有哪些症状",
@@ -1931,20 +1987,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 153899,
+      "num": 153899,
+      "word": "胡明轩水平",
+      "onboard_time": 1682256692,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151528,
       "num": 151528,
       "word": "苏醒说不是嫌挤就是嫌热",
       "onboard_time": 1682215227,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150070,
-      "num": 150070,
-      "word": "检察风云尺度",
-      "onboard_time": 1682255731,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 149993,
@@ -1985,14 +2041,6 @@
       "onboard_time": 1682226987,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 145987,
-      "num": 145987,
-      "word": "苏沫",
-      "onboard_time": 1682255551,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 145776,
@@ -2281,6 +2329,14 @@
       "onboard_time": 1682232569,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 111680,
+      "num": 132589,
+      "word": "严禁劣迹艺人随意变相复出捞金",
+      "onboard_time": 1682256753,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109041,

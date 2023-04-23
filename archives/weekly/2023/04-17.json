@@ -1,6 +1,6 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682255928692,
+  "endTime": 1682256796114,
   "band_list": [
     {
       "raw_hot": 9840962,
@@ -651,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1900941,
+      "num": 1900941,
+      "word": "姑娘年薪50万却毅然从银行离职",
+      "onboard_time": 1682249008,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1885954,
       "num": 1885954,
       "word": "泰国大熊猫林惠去世",
@@ -697,14 +705,6 @@
       "onboard_time": 1681786645,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1821726,
-      "num": 1821726,
-      "word": "姑娘年薪50万却毅然从银行离职",
-      "onboard_time": 1682249008,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1820975,
@@ -1267,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1303079,
+      "num": 1303079,
+      "word": "假球",
+      "onboard_time": 1682253513,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1297194,
       "num": 1297194,
       "word": "夫妻赌气喝洁厕剂丈夫报警后让先救妻子",
@@ -1395,6 +1403,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1203149,
+      "num": 473482,
+      "word": "肖战王一博敬礼对比图",
+      "onboard_time": 1682256513,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1202341,
       "num": 1202341,
       "word": "CBA",
@@ -1441,14 +1457,6 @@
       "onboard_time": 1682090970,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1169381,
-      "num": 1169381,
-      "word": "假球",
-      "onboard_time": 1682253513,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 1167755,
@@ -2713,6 +2721,14 @@
       "onboard_time": 1681974629,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 692172,
+      "num": 692172,
+      "word": "KPL 比赛暂停",
+      "onboard_time": 1682256093,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 691913,
@@ -4027,6 +4043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489661,
+      "num": 489661,
+      "word": "纽卡斯尔vs热刺",
+      "onboard_time": 1682256692,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 489130,
       "num": 324611,
       "word": "大厂为了防厕所摸鱼有多拼",
@@ -4065,6 +4089,14 @@
       "onboard_time": 1682036128,
       "rank": 14,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 484740,
+      "num": 484740,
+      "word": "王鹤棣新剧被俞灏明揪耳朵",
+      "onboard_time": 1682253990,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 484682,
@@ -4475,14 +4507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 449524,
-      "num": 449524,
-      "word": "王鹤棣新剧被俞灏明揪耳朵",
-      "onboard_time": 1682253990,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 449007,
       "num": 449007,
       "word": "坠亡女演员丈夫否认吵架不系安全扣",
@@ -4603,6 +4627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 442112,
+      "num": 442112,
+      "word": "叶夕雾说澹台烬再见了",
+      "onboard_time": 1682254171,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 442040,
       "num": 442040,
       "word": "冤枉女孩偷东西商家道歉",
@@ -4643,6 +4675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 436522,
+      "num": 436522,
+      "word": "向往的生活",
+      "onboard_time": 1682053769,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434191,
       "num": 434191,
       "word": "常熟实行工资全额数字人民币发放",
@@ -4680,6 +4720,14 @@
       "word": "俞敏洪建议董宇辉出国留学",
       "onboard_time": 1682001033,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428893,
+      "num": 428893,
+      "word": "城管局回应采购制服每套4591元",
+      "onboard_time": 1682253270,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -5001,14 +5049,6 @@
       "onboard_time": 1682239888,
       "rank": 27,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 409970,
-      "num": 409970,
-      "word": "城管局回应采购制服每套4591元",
-      "onboard_time": 1682253270,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409501,
@@ -5987,14 +6027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 355002,
-      "num": 355002,
-      "word": "叶夕雾说澹台烬再见了",
-      "onboard_time": 1682254171,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 354827,
       "num": 151478,
       "word": "秦霄贤孙珍妮合照",
@@ -6120,14 +6152,6 @@
       "word": "何炅挂在尹昉身上做仰卧起坐",
       "onboard_time": 1682225910,
       "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 346720,
-      "num": 346720,
-      "word": "向往的生活",
-      "onboard_time": 1682053769,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -6779,6 +6803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310930,
+      "num": 310930,
+      "word": "罗云熙嘴上说恨眼里全是爱",
+      "onboard_time": 1682254951,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310061,
       "num": 260576,
       "word": "罗云熙扛白鹿",
@@ -6993,6 +7025,14 @@
       "onboard_time": 1682147967,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 296729,
+      "num": 296729,
+      "word": "边伯贤音乐节饭拍",
+      "onboard_time": 1682255852,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 296389,
@@ -7299,6 +7339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284235,
+      "num": 284235,
+      "word": "当你和法国人解释五一调休",
+      "onboard_time": 1682254290,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 284102,
       "num": 284102,
       "word": "特斯拉一季度盈利暴跌20%",
@@ -7313,14 +7361,6 @@
       "onboard_time": 1681974208,
       "rank": 31,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 283572,
-      "num": 223417,
-      "word": "罗云熙嘴上说恨眼里全是爱",
-      "onboard_time": 1682254951,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 283315,
@@ -7761,6 +7801,14 @@
       "onboard_time": 1681737507,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 267856,
+      "num": 267856,
+      "word": "宋亚轩胸口痣",
+      "onboard_time": 1682256331,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267527,
@@ -8235,6 +8283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 250088,
+      "num": 281732,
+      "word": "王者荣耀",
+      "onboard_time": 1682255917,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 249734,
       "num": 249734,
       "word": "校方通报男生因琐事纠纷动刀伤人",
@@ -8321,6 +8377,14 @@
       "onboard_time": 1681787368,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247074,
+      "num": 247074,
+      "word": "赵睿",
+      "onboard_time": 1682255731,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 246772,
@@ -8571,6 +8635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237631,
+      "num": 237631,
+      "word": "张颂文演我减肥",
+      "onboard_time": 1682255011,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237543,
       "num": 226540,
       "word": "萨摩有点什么你接着说啊",
@@ -8740,7 +8812,7 @@
     },
     {
       "raw_hot": 230264,
-      "num": 225188,
+      "num": 227436,
       "word": "小县城的生活能有多安逸",
       "onboard_time": 1682251231,
       "rank": 21,
@@ -8827,6 +8899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227885,
+      "num": 227885,
+      "word": "检察风云尺度",
+      "onboard_time": 1682255731,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 227559,
       "num": 227559,
       "word": "马龙高球扣杀帅到我了",
@@ -8905,14 +8985,6 @@
       "onboard_time": 1682079688,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 226501,
-      "num": 226501,
-      "word": "当你和法国人解释五一调休",
-      "onboard_time": 1682254290,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 226467,
@@ -9483,6 +9555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211509,
+      "num": 211509,
+      "word": "明星最容易翻车的人设",
+      "onboard_time": 1682256271,
+      "rank": 37,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 211366,
       "num": 211366,
       "word": "代号鸢",
@@ -9520,14 +9600,6 @@
       "word": "朱一龙 火锅脑袋",
       "onboard_time": 1681656929,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 210408,
-      "num": 210408,
-      "word": "张颂文演我减肥",
-      "onboard_time": 1682255011,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -9673,14 +9745,6 @@
       "onboard_time": 1681784666,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 208335,
-      "num": 208335,
-      "word": "王者荣耀",
-      "onboard_time": 1682255917,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 207945,
@@ -11971,6 +12035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171344,
+      "num": 171344,
+      "word": "苏沫",
+      "onboard_time": 1682255551,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171266,
       "num": 171266,
       "word": "徐明浩许愿SEVENTEEN能被更多人看到",
@@ -12000,14 +12072,6 @@
       "word": "gidle回归时间",
       "onboard_time": 1681776567,
       "rank": 28,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 170867,
-      "num": 160539,
-      "word": "边伯贤音乐节饭拍",
-      "onboard_time": 1682255852,
-      "rank": 40,
       "category": "音乐"
     },
     {
@@ -12369,14 +12433,6 @@
       "onboard_time": 1682129907,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164184,
-      "num": 164184,
-      "word": "赵睿",
-      "onboard_time": 1682255731,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 164155,
@@ -12899,6 +12955,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 153899,
+      "num": 153899,
+      "word": "胡明轩水平",
+      "onboard_time": 1682256692,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153888,
       "num": 153888,
       "word": "李雪琴称呼宋茜维多利亚女士",
@@ -13080,14 +13144,6 @@
       "word": "2023优酷短剧片单",
       "onboard_time": 1681721847,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 150070,
-      "num": 150070,
-      "word": "检察风云尺度",
-      "onboard_time": 1682255731,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -13337,14 +13393,6 @@
       "onboard_time": 1682133208,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145987,
-      "num": 145987,
-      "word": "苏沫",
-      "onboard_time": 1682255551,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 145871,
@@ -14825,6 +14873,14 @@
       "onboard_time": 1682107391,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111680,
+      "num": 132589,
+      "word": "严禁劣迹艺人随意变相复出捞金",
+      "onboard_time": 1682256753,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111517,
