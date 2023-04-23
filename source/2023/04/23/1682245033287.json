@@ -1,0 +1,410 @@
+{
+  "runTime": 1682245033287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1047016,
+        "num": 1047016,
+        "word": "爸爸靠茶具谈崩五个客户",
+        "onboard_time": 1682229389,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411479,
+        "num": 878678,
+        "word": "爸爸花费1年为儿子做手工婚床",
+        "onboard_time": 1682239888,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 52949,
+        "num": 857185,
+        "word": "相约八点见",
+        "onboard_time": 1682239409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852781,
+        "num": 852781,
+        "word": "外卖轻食 肠胃炎",
+        "onboard_time": 1682241750,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 255249,
+        "num": 796389,
+        "word": "一个很感动一个不敢动",
+        "onboard_time": 1682243430,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785754,
+        "num": 785754,
+        "word": "罗云熙直播说不能再吃了胖死了",
+        "onboard_time": 1682231609,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75418,
+        "num": 615323,
+        "word": "山东大爷勇救落水女子",
+        "onboard_time": 1682242290,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529553,
+        "num": 529553,
+        "word": "内地版放羊的星星",
+        "onboard_time": 1682243130,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 458017,
+        "num": 458017,
+        "word": "餐馆78元酸菜鱼结账时变288元",
+        "onboard_time": 1682241031,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442964,
+        "num": 442964,
+        "word": "半熟男女官宣没有周雨彤",
+        "onboard_time": 1682242770,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1222473,
+        "num": 442873,
+        "word": "淄博小饼遭疯抢老板暴瘦20斤",
+        "onboard_time": 1682237189,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 684356,
+        "num": 440677,
+        "word": "二次感染比第一次更难受吗",
+        "onboard_time": 1682225551,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682688,
+        "num": 437788,
+        "word": "Lisa的腿好惊人",
+        "onboard_time": 1682228611,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 669968,
+        "num": 435933,
+        "word": "初三这样穿去上学被同学说擦边",
+        "onboard_time": 1682243368,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 544911,
+        "num": 434695,
+        "word": "杨幂有11个耳洞",
+        "onboard_time": 1682233109,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544599,
+        "num": 432493,
+        "word": "戚薇瘦了",
+        "onboard_time": 1682237010,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 528776,
+        "num": 429398,
+        "word": "贾玲是真瘦了还是黑色显瘦",
+        "onboard_time": 1682228066,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 429338,
+        "num": 429338,
+        "word": "长月烬明",
+        "onboard_time": 1682244208,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409273,
+        "num": 409273,
+        "word": "警方回应薛之谦演唱会被激光笔照眼",
+        "onboard_time": 1682238750,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334412,
+        "num": 334412,
+        "word": "苹果为什么不做节假日闹钟",
+        "onboard_time": 1682239051,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 264791,
+        "num": 264791,
+        "word": "女子1月内收5笔工资直呼看不懂",
+        "onboard_time": 1682222008,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264449,
+        "num": 264449,
+        "word": "Jennie衣服好辣",
+        "onboard_time": 1682227050,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255252,
+        "num": 255252,
+        "word": "澹台烬发疯了",
+        "onboard_time": 1682237068,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240155,
+        "num": 240155,
+        "word": "当着婆婆的面给我妈转钱",
+        "onboard_time": 1682237908,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240066,
+        "num": 240066,
+        "word": "五一调休",
+        "onboard_time": 1682207725,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233521,
+        "num": 233521,
+        "word": "彭于晏三亚",
+        "onboard_time": 1682240489,
+        "rank": 25,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 222067,
+        "num": 222067,
+        "word": "冤枉女孩偷东西商家道歉",
+        "onboard_time": 1682237429,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215850,
+        "num": 215850,
+        "word": "肖战泪眼特写",
+        "onboard_time": 1682243669,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210192,
+        "num": 210192,
+        "word": "长月烬明的宣发模式",
+        "onboard_time": 1682242709,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209114,
+        "num": 209114,
+        "word": "扮樱木花道却成为赤木刚宪",
+        "onboard_time": 1682237068,
+        "rank": 29,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 203882,
+        "num": 203882,
+        "word": "中奖一千万要不要告诉父母",
+        "onboard_time": 1682215648,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195163,
+        "num": 195163,
+        "word": "依萍 连个星期天也没有",
+        "onboard_time": 1682223751,
+        "rank": 31,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 194265,
+        "num": 194265,
+        "word": "范丞丞乔杉公主抱",
+        "onboard_time": 1682244750,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190607,
+        "num": 190607,
+        "word": "泽连斯基签令制裁俄罗斯",
+        "onboard_time": 1682242588,
+        "rank": 33,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 181066,
+        "num": 181066,
+        "word": "iPhone用户因闹钟没响上班迟到",
+        "onboard_time": 1682232930,
+        "rank": 34,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 174647,
+        "num": 174647,
+        "word": "于正说赵丽颖85花演技第一名",
+        "onboard_time": 1682221828,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169036,
+        "num": 169036,
+        "word": "名字被刻男友亲人墓碑分手后要求除名",
+        "onboard_time": 1682239648,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 167956,
+        "num": 167956,
+        "word": "长月烬明吃一周流水席",
+        "onboard_time": 1682243187,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157017,
+        "num": 157017,
+        "word": "闫桉真的回内娱了",
+        "onboard_time": 1682234847,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155782,
+        "num": 155782,
+        "word": "今天的怨气可以养活十个邪剑仙",
+        "onboard_time": 1682236468,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146331,
+        "num": 146331,
+        "word": "假如灌篮高手真人版长这样",
+        "onboard_time": 1682233467,
+        "rank": 40,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 145088,
+        "num": 145088,
+        "word": "刘耀文吃榴莲",
+        "onboard_time": 1682243969,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144551,
+        "num": 144551,
+        "word": "BLACKPINK今天造型杀疯了",
+        "onboard_time": 1682229689,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140146,
+        "num": 140146,
+        "word": "27岁女儿被妈妈教训女孩不用买房",
+        "onboard_time": 1682219248,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135331,
+        "num": 135331,
+        "word": "王一博新片首映礼哭了",
+        "onboard_time": 1682231609,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131978,
+        "num": 131978,
+        "word": "红小豆返场",
+        "onboard_time": 1682242171,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126730,
+        "num": 126730,
+        "word": "灌篮高手 我来考考你",
+        "onboard_time": 1682230231,
+        "rank": 46,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 126375,
+        "num": 126375,
+        "word": "流浪地球 2044年上海奥运会LOGO",
+        "onboard_time": 1682244152,
+        "rank": 47,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 123247,
+        "num": 123247,
+        "word": "斗破苍穹",
+        "onboard_time": 1682239469,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125462,
+        "num": 123238,
+        "word": "田曦薇半熟男女开机照",
+        "onboard_time": 1682238092,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#真抓实干答好改革之问#"
+    }
+  }
+}
