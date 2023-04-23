@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682235213327,
+  "endTime": 1682238012348,
   "band_list": [
     {
       "raw_hot": 2649324,
@@ -139,6 +139,14 @@
       "category": "游戏,音乐"
     },
     {
+      "raw_hot": 1105611,
+      "num": 358385,
+      "word": "杨幂有11个耳洞",
+      "onboard_time": 1682233109,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1084014,
       "num": 1084014,
       "word": "朋友得了忧郁症告诉父母",
@@ -147,20 +155,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1017742,
+      "num": 1017742,
+      "word": "罗云熙直播说不能再吃了胖死了",
+      "onboard_time": 1682231609,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1017711,
       "num": 1017711,
       "word": "小鬼 泰酷辣",
       "onboard_time": 1682177192,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 976559,
-      "num": 358385,
-      "word": "杨幂有11个耳洞",
-      "onboard_time": 1682233109,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 925108,
@@ -193,14 +201,6 @@
       "onboard_time": 1682216427,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 860744,
-      "num": 860744,
-      "word": "罗云熙直播说不能再吃了胖死了",
-      "onboard_time": 1682231609,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 838347,
@@ -305,6 +305,14 @@
       "onboard_time": 1682217087,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 495782,
+      "num": 495782,
+      "word": "闫桉真的回内娱了",
+      "onboard_time": 1682234847,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 493710,
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306509,
+      "num": 204523,
+      "word": "淄博小饼遭疯抢老板暴瘦20斤",
+      "onboard_time": 1682237189,
+      "rank": 30,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 305593,
       "num": 305593,
       "word": "满江红网播定档",
@@ -595,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299766,
+      "num": 299766,
+      "word": "闰周一",
+      "onboard_time": 1682237308,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296389,
       "num": 296389,
       "word": "詹姆斯大风车反扣",
@@ -609,6 +633,14 @@
       "onboard_time": 1682215766,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 293349,
+      "num": 293349,
+      "word": "店主漏看监控冤枉8岁女孩是小偷",
+      "onboard_time": 1682235509,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293289,
@@ -641,6 +673,14 @@
       "onboard_time": 1682178691,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281562,
+      "num": 281562,
+      "word": "澹台烬发疯了",
+      "onboard_time": 1682237068,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 280445,
@@ -683,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269466,
+      "num": 269466,
+      "word": "超8成图书被已婚人群买走",
+      "onboard_time": 1682234249,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266793,
       "num": 266793,
       "word": "灌篮高手 彻底的大人童话",
@@ -721,6 +769,14 @@
       "onboard_time": 1682215289,
       "rank": 24,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 258836,
+      "num": 258836,
+      "word": "今天的怨气可以养活十个邪剑仙",
+      "onboard_time": 1682236468,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 258092,
@@ -833,6 +889,14 @@
       "onboard_time": 1682233589,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233225,
+      "num": 233225,
+      "word": "冤枉女孩偷东西商家道歉",
+      "onboard_time": 1682237429,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229695,
@@ -963,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203006,
+      "num": 203006,
+      "word": "泡椒酸汤牛肉米线",
+      "onboard_time": 1682237550,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 202574,
       "num": 202574,
       "word": "SEVENTEEN新歌预告",
@@ -1003,6 +1075,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196697,
+      "num": 196697,
+      "word": "戚薇瘦了",
+      "onboard_time": 1682237010,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196127,
+      "num": 201000,
+      "word": "毕业应该先买房还是先买车",
+      "onboard_time": 1682237308,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196000,
       "num": 196000,
       "word": "毛不易献唱长空之王独白曲",
@@ -1019,14 +1107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195549,
-      "num": 195549,
-      "word": "超8成图书被已婚人群买走",
-      "onboard_time": 1682234249,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187123,
       "num": 187123,
       "word": "多地网友晒抗原称二阳",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1682176653,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 184859,
+      "num": 184859,
+      "word": "扮樱木花道却成为赤木刚宪",
+      "onboard_time": 1682237068,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 183719,
@@ -1091,6 +1179,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 171266,
+      "num": 171266,
+      "word": "徐明浩许愿SEVENTEEN能被更多人看到",
+      "onboard_time": 1682235568,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170645,
       "num": 170645,
       "word": "徐明浩有梗",
@@ -1113,6 +1209,14 @@
       "onboard_time": 1682225132,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168996,
+      "num": 168996,
+      "word": "相亲角月薪过万者仍难找对象",
+      "onboard_time": 1682235209,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167005,
@@ -1203,6 +1307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155329,
+      "num": 155329,
+      "word": "半熟男女今日开机",
+      "onboard_time": 1682234966,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154435,
       "num": 154435,
       "word": "多地五一酒店价格上涨3到5倍",
@@ -1275,14 +1387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136180,
-      "num": 136180,
-      "word": "半熟男女今日开机",
-      "onboard_time": 1682234966,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 135102,
       "num": 135102,
       "word": "以为张婧仪在尹昉嘴边打蛋",
@@ -1331,12 +1435,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129702,
+      "num": 129702,
+      "word": "当着婆婆的面给我妈转钱",
+      "onboard_time": 1682237908,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 127517,
+      "num": 127517,
+      "word": "我发现这头大象是没有脸的",
+      "onboard_time": 1682235148,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127429,
       "num": 127429,
       "word": "WB零封狼队",
       "onboard_time": 1682176773,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126872,
+      "num": 126872,
+      "word": "张若昀吃面cue白宇",
+      "onboard_time": 1682237969,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 125891,
@@ -1427,14 +1555,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 112725,
-      "num": 112725,
-      "word": "闫桉真的回内娱了",
-      "onboard_time": 1682234847,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112337,
       "num": 112337,
       "word": "Twins关智斌霍汶希看容祖儿演唱会",
@@ -1505,14 +1625,6 @@
       "onboard_time": 1682213609,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 98156,
-      "num": 98156,
-      "word": "我发现这头大象是没有脸的",
-      "onboard_time": 1682235148,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 95807,
