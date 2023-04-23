@@ -1,0 +1,410 @@
+{
+  "runTime": 1682213886154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1354715,
+        "num": 1354715,
+        "word": "五一调休",
+        "onboard_time": 1682207725,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1328996,
+        "num": 1328996,
+        "word": "女大学生在寝室发现巨拟叶螽",
+        "onboard_time": 1682206583,
+        "rank": 1,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 22418,
+        "num": 1199991,
+        "word": "珍爱地球中国在行动",
+        "onboard_time": 1682167049,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1362335,
+        "num": 1159573,
+        "word": "新冠",
+        "onboard_time": 1682167468,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084014,
+        "num": 1084014,
+        "word": "朋友得了忧郁症告诉父母",
+        "onboard_time": 1682181383,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 903956,
+        "num": 903956,
+        "word": "张颂文向陈凯歌介绍高叶",
+        "onboard_time": 1682174795,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 876845,
+        "num": 876845,
+        "word": "张杰粉丝只是长大了不是暴富了",
+        "onboard_time": 1682209045,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 805531,
+        "num": 805531,
+        "word": "肖战又现覃头造型",
+        "onboard_time": 1682211929,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 652683,
+        "num": 652683,
+        "word": "3个职业平均月薪超2万",
+        "onboard_time": 1682210609,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 430723,
+        "num": 430723,
+        "word": "中方向韩驻华大使提出严正交涉",
+        "onboard_time": 1682210609,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1868441,
+        "num": 428319,
+        "word": "谢娜工作室道歉",
+        "onboard_time": 1682209045,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1247446,
+        "num": 427291,
+        "word": "原来结婚证里还有温馨小提示",
+        "onboard_time": 1682210669,
+        "rank": 11,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 424636,
+        "num": 424636,
+        "word": "什么原因导致大学生就业难",
+        "onboard_time": 1682208687,
+        "rank": 12,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 405432,
+        "num": 405432,
+        "word": "嗯哼长大了",
+        "onboard_time": 1682180006,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392574,
+        "num": 392574,
+        "word": "蔚来员工曝加班近500小时进急诊3次",
+        "onboard_time": 1682208026,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382882,
+        "num": 382882,
+        "word": "北京一女子晚交7天房租被扣3500元",
+        "onboard_time": 1682210068,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 821266,
+        "num": 354937,
+        "word": "嫖客被抓反告民警并胜诉",
+        "onboard_time": 1682176710,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310967,
+        "num": 310967,
+        "word": "小鬼 泰酷辣",
+        "onboard_time": 1682177192,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 297313,
+        "num": 297313,
+        "word": "宋茜长发",
+        "onboard_time": 1682169870,
+        "rank": 18,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 243477,
+        "num": 243477,
+        "word": "淄博满街手机摄像头压力山大",
+        "onboard_time": 1682198651,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357830,
+        "num": 243290,
+        "word": "俄罗斯一女子将猫伪装成婴儿运毒",
+        "onboard_time": 1682210790,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242703,
+        "num": 242703,
+        "word": "看起来体面但工资低的工作",
+        "onboard_time": 1682177912,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235670,
+        "num": 235670,
+        "word": "淄博五一酒店客房涨价不得超过50%",
+        "onboard_time": 1682211628,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 218372,
+        "num": 218372,
+        "word": "孙悟空",
+        "onboard_time": 1682207304,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208324,
+        "num": 208324,
+        "word": "减肥减的根本不是肉",
+        "onboard_time": 1682174378,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201591,
+        "num": 201591,
+        "word": "全圆佑寸头",
+        "onboard_time": 1682210370,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200079,
+        "num": 200079,
+        "word": "费曼 追星人",
+        "onboard_time": 1682210428,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199352,
+        "num": 199352,
+        "word": "薛之谦突犯喉疾",
+        "onboard_time": 1682181025,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178873,
+        "num": 178873,
+        "word": "宝马",
+        "onboard_time": 1682211328,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173908,
+        "num": 173908,
+        "word": "iwandy",
+        "onboard_time": 1682206944,
+        "rank": 29,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 381904,
+        "num": 171890,
+        "word": "课上唯一认真听讲的被赶出去了",
+        "onboard_time": 1682211990,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165453,
+        "num": 165453,
+        "word": "陈都灵跳舞",
+        "onboard_time": 1682213129,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157317,
+        "num": 157317,
+        "word": "主播雪梨直播带货拉踩被判赔20万",
+        "onboard_time": 1682172451,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 154435,
+        "num": 154435,
+        "word": "多地五一酒店价格上涨3到5倍",
+        "onboard_time": 1682212892,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 153922,
+        "num": 153922,
+        "word": "四川人民主打一个大义灭亲",
+        "onboard_time": 1682176413,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149959,
+        "num": 149959,
+        "word": "张文宏建议做好药物储备应对二阳",
+        "onboard_time": 1682171914,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144324,
+        "num": 144324,
+        "word": "调休",
+        "onboard_time": 1682175272,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135388,
+        "num": 135388,
+        "word": "青春环游记全员素颜",
+        "onboard_time": 1682177971,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134727,
+        "num": 134727,
+        "word": "ZB1成团首张团体照",
+        "onboard_time": 1682213189,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128676,
+        "num": 128676,
+        "word": "女子为给猪仔治病种4769株罂粟",
+        "onboard_time": 1682190853,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122580,
+        "num": 122580,
+        "word": "刘宇宁把家人说成家人们",
+        "onboard_time": 1682163749,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118392,
+        "num": 118392,
+        "word": "国家博物馆 预约",
+        "onboard_time": 1682208388,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 117937,
+        "num": 117937,
+        "word": "威少37分",
+        "onboard_time": 1682205260,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114280,
+        "num": 114280,
+        "word": "如梦之梦",
+        "onboard_time": 1682206524,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106169,
+        "num": 106169,
+        "word": "夫妻欠300万10年不还旅游晒视频",
+        "onboard_time": 1682169630,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106118,
+        "num": 106118,
+        "word": "读书能缓解焦虑吗",
+        "onboard_time": 1682210728,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104571,
+        "num": 104571,
+        "word": "是故意不小心还是故意的",
+        "onboard_time": 1682178090,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 101630,
+        "num": 101630,
+        "word": "公司通知员工卖宝马疑为炒作",
+        "onboard_time": 1682213726,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100643,
+        "num": 100643,
+        "word": "月收入过万是什么水平",
+        "onboard_time": 1682161948,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98964,
+        "num": 98964,
+        "word": "小学老师用废纸壳模拟出火星车",
+        "onboard_time": 1682213609,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平总书记的读书心得#"
+    }
+  }
+}
