@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682214975930,
+  "endTime": 1682217616962,
   "band_list": [
     {
       "raw_hot": 2603141,
@@ -9,6 +9,14 @@
       "onboard_time": 1682167468,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2199550,
+      "num": 2199550,
+      "word": "原来结婚证里还有温馨小提示",
+      "onboard_time": 1682210669,
+      "rank": 11,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1868441,
@@ -27,16 +35,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1712171,
-      "num": 1712171,
-      "word": "原来结婚证里还有温馨小提示",
-      "onboard_time": 1682210669,
-      "rank": 11,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1479037,
-      "num": 1479037,
+      "raw_hot": 1690101,
+      "num": 1690101,
       "word": "女大学生在寝室发现巨拟叶螽",
       "onboard_time": 1682206583,
       "rank": 1,
@@ -81,6 +81,14 @@
       "onboard_time": 1682177192,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 925495,
+      "num": 925495,
+      "word": "中奖一千万要不要告诉父母",
+      "onboard_time": 1682215648,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 925108,
@@ -139,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588341,
+      "num": 588341,
+      "word": "人造长假真的有意义吗",
+      "onboard_time": 1682214569,
+      "rank": 12,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 493710,
       "num": 493710,
       "word": "中方向韩驻华大使提出严正交涉",
@@ -195,20 +211,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 396240,
+      "num": 211129,
+      "word": "艺人头发长得快的原因",
+      "onboard_time": 1682216247,
+      "rank": 30,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 392574,
       "num": 392574,
       "word": "蔚来员工曝加班近500小时进急诊3次",
       "onboard_time": 1682208026,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383084,
-      "num": 383084,
-      "word": "人造长假真的有意义吗",
-      "onboard_time": 1682214569,
-      "rank": 12,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 381904,
@@ -225,6 +241,14 @@
       "onboard_time": 1682164949,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361051,
+      "num": 210433,
+      "word": "开网约车被处分的副镇长有了新职",
+      "onboard_time": 1682216427,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357830,
@@ -259,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 340056,
+      "num": 210085,
+      "word": "湖人地板",
+      "onboard_time": 1682217087,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337972,
       "num": 337972,
       "word": "INTO1 女团舞",
@@ -275,12 +307,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 297945,
-      "num": 297945,
+      "raw_hot": 329030,
+      "num": 329030,
       "word": "淄博五一酒店客房涨价不得超过50%",
       "onboard_time": 1682211628,
       "rank": 22,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 294372,
+      "num": 214961,
+      "word": "原来认真工作也会被辞退",
+      "onboard_time": 1682215766,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 293289,
@@ -323,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 259639,
+      "num": 214111,
+      "word": "有三十元买书还是买奶茶",
+      "onboard_time": 1682215289,
+      "rank": 24,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 250234,
       "num": 250234,
       "word": "张文宏建议做好药物储备应对二阳",
@@ -339,8 +387,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247750,
+      "num": 247750,
+      "word": "斗破苍穹 删减",
+      "onboard_time": 1682217328,
+      "rank": 16,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 241475,
-      "num": 213363,
+      "num": 213518,
       "word": "陈都灵跳舞",
       "onboard_time": 1682213129,
       "rank": 31,
@@ -353,6 +409,14 @@
       "onboard_time": 1682177971,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225703,
+      "num": 225703,
+      "word": "十三个猴",
+      "onboard_time": 1682214809,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 225447,
@@ -377,6 +441,14 @@
       "onboard_time": 1682207304,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209549,
+      "num": 209549,
+      "word": "游客在长沙路边摊买麻辣烫被收86元",
+      "onboard_time": 1682214569,
+      "rank": 35,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 209293,
@@ -451,6 +523,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195806,
+      "num": 195806,
+      "word": "马嘉祺丁程鑫严浩翔外务录制暂停一期",
+      "onboard_time": 1682215348,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195582,
+      "num": 212605,
+      "word": "长空之王首映礼",
+      "onboard_time": 1682216368,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193375,
+      "num": 193375,
+      "word": "梁静茹上海演唱会",
+      "onboard_time": 1682217568,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 190818,
+      "num": 190818,
+      "word": "灌篮高手 彻底的大人童话",
+      "onboard_time": 1682217207,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 187123,
       "num": 187123,
       "word": "多地网友晒抗原称二阳",
@@ -507,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163357,
+      "num": 163357,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1682216727,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162067,
       "num": 162067,
       "word": "陈梦4比0孙颖莎",
@@ -531,12 +643,36 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 142685,
-      "num": 142685,
-      "word": "游客在长沙路边摊买麻辣烫被收86元",
-      "onboard_time": 1682214569,
-      "rank": 35,
-      "category": "社会新闻,旅游"
+      "raw_hot": 153178,
+      "num": 153178,
+      "word": "奥拉迪波受伤",
+      "onboard_time": 1682216787,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152351,
+      "num": 152351,
+      "word": "毛不易献唱长空之王独白曲",
+      "onboard_time": 1682217568,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 151528,
+      "num": 151528,
+      "word": "苏醒说不是嫌挤就是嫌热",
+      "onboard_time": 1682215227,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145691,
+      "num": 145691,
+      "word": "玉骨遥预约栏",
+      "onboard_time": 1682217448,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 141044,
@@ -675,14 +811,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 108316,
-      "num": 108316,
-      "word": "十三个猴",
-      "onboard_time": 1682214809,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 106118,
       "num": 106118,
       "word": "读书能缓解焦虑吗",
@@ -812,7 +940,7 @@
     },
     {
       "raw_hot": 29860,
-      "num": 1199991,
+      "num": 1274291,
       "word": "珍爱地球中国在行动",
       "onboard_time": 1682167049,
       "rank": 2,
@@ -825,6 +953,9 @@
     },
     {
       "word": "#2023中国网络媒体论坛#"
+    },
+    {
+      "word": "#读书之美#"
     }
   ]
 }
