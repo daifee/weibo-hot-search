@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682245033287,
+  "endTime": 1682246005285,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -4003,6 +4003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1250320,
+      "num": 1250320,
+      "word": "外卖轻食 肠胃炎",
+      "onboard_time": 1682241750,
+      "rank": 16,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1243532,
       "num": 1243532,
       "word": "胡歌微博编辑记录",
@@ -5017,6 +5025,14 @@
       "onboard_time": 1682089831,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1040552,
+      "num": 1040552,
+      "word": "初三这样穿去上学被同学说擦边",
+      "onboard_time": 1682243368,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 1037260,
@@ -6715,14 +6731,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 852781,
-      "num": 852781,
-      "word": "外卖轻食 肠胃炎",
-      "onboard_time": 1682241750,
-      "rank": 16,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 851554,
       "num": 851554,
       "word": "宝马mini展区被指区别对待",
@@ -7388,7 +7396,7 @@
     },
     {
       "raw_hot": 794151,
-      "num": 432493,
+      "num": 470038,
       "word": "戚薇瘦了",
       "onboard_time": 1682237010,
       "rank": 34,
@@ -9249,14 +9257,6 @@
       "onboard_time": 1681357652,
       "rank": 13,
       "category": "社会负面,教育"
-    },
-    {
-      "raw_hot": 669968,
-      "num": 435933,
-      "word": "初三这样穿去上学被同学说擦边",
-      "onboard_time": 1682243368,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 669952,
@@ -11755,6 +11755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555149,
+      "num": 555149,
+      "word": "内地版放羊的星星",
+      "onboard_time": 1682243130,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 555090,
       "num": 442387,
       "word": "朱一龙直播",
@@ -12512,14 +12520,6 @@
       "word": "长月烬明预告",
       "onboard_time": 1680996618,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 529553,
-      "num": 529553,
-      "word": "内地版放羊的星星",
-      "onboard_time": 1682243130,
-      "rank": 7,
       "category": "影视"
     },
     {
@@ -15339,6 +15339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 443773,
+      "num": 443773,
+      "word": "半熟男女官宣没有周雨彤",
+      "onboard_time": 1682242770,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 443589,
       "num": 443589,
       "word": "张本智和止步冠军赛16强",
@@ -15361,14 +15369,6 @@
       "onboard_time": 1681632748,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 442964,
-      "num": 442964,
-      "word": "半熟男女官宣没有周雨彤",
-      "onboard_time": 1682242770,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 442040,
@@ -16740,7 +16740,7 @@
     },
     {
       "raw_hot": 411479,
-      "num": 878678,
+      "num": 1058474,
       "word": "爸爸花费1年为儿子做手工婚床",
       "onboard_time": 1682239888,
       "rank": 27,
@@ -17241,6 +17241,14 @@
       "onboard_time": 1681637547,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 400423,
+      "num": 400423,
+      "word": "四川烧烤价格",
+      "onboard_time": 1682245529,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 400373,
@@ -23563,6 +23571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287394,
+      "num": 821913,
+      "word": "一个很感动一个不敢动",
+      "onboard_time": 1682243430,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287364,
       "num": 287364,
       "word": "无名",
@@ -24665,6 +24681,14 @@
       "onboard_time": 1682003134,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271633,
+      "num": 271633,
+      "word": "肖战泪眼特写",
+      "onboard_time": 1682243669,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 271631,
@@ -25977,14 +26001,6 @@
       "onboard_time": 1681370608,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255249,
-      "num": 796389,
-      "word": "一个很感动一个不敢动",
-      "onboard_time": 1682243430,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255241,
@@ -30264,14 +30280,6 @@
       "word": "澹台烬 纯爱",
       "onboard_time": 1681744290,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 215850,
-      "num": 215850,
-      "word": "肖战泪眼特写",
-      "onboard_time": 1682243669,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -41619,6 +41627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 166905,
+      "num": 166905,
+      "word": "如何照顾你内向的朋友",
+      "onboard_time": 1682245108,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166902,
       "num": 166902,
       "word": "张予曦苗疆造型",
@@ -45411,6 +45427,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 145153,
+      "num": 145153,
+      "word": "Zendaya科切拉",
+      "onboard_time": 1682245710,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145088,
       "num": 145088,
       "word": "刘耀文吃榴莲",
@@ -47249,6 +47273,14 @@
       "onboard_time": 1681053928,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132975,
+      "num": 132975,
+      "word": "INTO1最后一次不说再见",
+      "onboard_time": 1682245892,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 132952,
@@ -50348,7 +50380,7 @@
     },
     {
       "raw_hot": 106611,
-      "num": 615323,
+      "num": 736574,
       "word": "山东大爷勇救落水女子",
       "onboard_time": 1682242290,
       "rank": 49,
@@ -53220,7 +53252,7 @@
     },
     {
       "raw_hot": 52949,
-      "num": 936395,
+      "num": 1043490,
       "word": "相约八点见",
       "onboard_time": 1682239409,
       "rank": 2,
