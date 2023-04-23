@@ -1,7 +1,15 @@
 {
   "startTime": 1681662075287,
-  "endTime": 1682256796114,
+  "endTime": 1682259271576,
   "band_list": [
+    {
+      "raw_hot": 10663247,
+      "num": 10663247,
+      "word": "白鹿 以后会更加严格约束自己言行",
+      "onboard_time": 1682257595,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 9840962,
       "num": 9840962,
@@ -561,6 +569,14 @@
       "onboard_time": 1681795477,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2021105,
+      "num": 2021105,
+      "word": "严禁劣迹艺人随意变相复出捞金",
+      "onboard_time": 1682256753,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2016041,
@@ -3099,6 +3115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 625187,
+      "num": 625187,
+      "word": "明星最容易翻车的人设",
+      "onboard_time": 1682256271,
+      "rank": 37,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 622212,
       "num": 622212,
       "word": "澹台烬主动吻叶夕雾",
@@ -3491,6 +3515,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 560131,
+      "num": 560131,
+      "word": "叶夕雾说澹台烬再见了",
+      "onboard_time": 1682254171,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 559999,
       "num": 314126,
       "word": "窦骁妈妈好有气质",
@@ -3624,6 +3656,14 @@
       "word": "住院8天花40万患者实付不到4万",
       "onboard_time": 1681802672,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534795,
+      "num": 534795,
+      "word": "中国的专家真的在妖言惑众吗",
+      "onboard_time": 1682257533,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4379,6 +4419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 460963,
+      "num": 460963,
+      "word": "赵睿",
+      "onboard_time": 1682255731,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460375,
       "num": 460375,
       "word": "什么工作可以上半年休半年",
@@ -4473,6 +4521,14 @@
       "onboard_time": 1682035288,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452561,
+      "num": 452561,
+      "word": "胡明轩水平",
+      "onboard_time": 1682256692,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 452150,
@@ -4624,14 +4680,6 @@
       "word": "半熟男女官宣没有周雨彤",
       "onboard_time": 1682242770,
       "rank": 9,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 442112,
-      "num": 442112,
-      "word": "叶夕雾说澹台烬再见了",
-      "onboard_time": 1682254171,
-      "rank": 15,
       "category": "影视"
     },
     {
@@ -6803,6 +6851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310973,
+      "num": 310973,
+      "word": "当你和法国人解释五一调休",
+      "onboard_time": 1682254290,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 310930,
       "num": 310930,
       "word": "罗云熙嘴上说恨眼里全是爱",
@@ -7339,14 +7395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 284235,
-      "num": 284235,
-      "word": "当你和法国人解释五一调休",
-      "onboard_time": 1682254290,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 284102,
       "num": 284102,
       "word": "特斯拉一季度盈利暴跌20%",
@@ -7675,6 +7723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272964,
+      "num": 223496,
+      "word": "龙湖天街",
+      "onboard_time": 1682256452,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 272700,
       "num": 272700,
       "word": "孙颖莎晋级澳门赛四强",
@@ -7729,6 +7785,22 @@
       "onboard_time": 1682160988,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269939,
+      "num": 269939,
+      "word": "广东宏远",
+      "onboard_time": 1682259042,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269910,
+      "num": 269910,
+      "word": "杨紫和杂志摄影师合照",
+      "onboard_time": 1682257113,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 269830,
@@ -7825,6 +7897,14 @@
       "onboard_time": 1681909587,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266904,
+      "num": 266904,
+      "word": "易建联 广东队",
+      "onboard_time": 1682259165,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 266793,
@@ -8377,14 +8457,6 @@
       "onboard_time": 1681787368,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 247074,
-      "num": 247074,
-      "word": "赵睿",
-      "onboard_time": 1682255731,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 246772,
@@ -9107,6 +9179,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 223300,
+      "num": 223300,
+      "word": "为什么好朋友不爱点赞我朋友圈",
+      "onboard_time": 1682248589,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223276,
       "num": 191451,
       "word": "女子晒衣服不慎10楼跌落悬挂2楼",
@@ -9225,6 +9305,14 @@
       "onboard_time": 1682047887,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220028,
+      "num": 220028,
+      "word": "何悯鸿快逃",
+      "onboard_time": 1682256992,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 219500,
@@ -9555,14 +9643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211509,
-      "num": 211509,
-      "word": "明星最容易翻车的人设",
-      "onboard_time": 1682256271,
-      "rank": 37,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 211366,
       "num": 211366,
       "word": "代号鸢",
@@ -9617,14 +9697,6 @@
       "onboard_time": 1681881808,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210254,
-      "num": 210254,
-      "word": "为什么好朋友不爱点赞我朋友圈",
-      "onboard_time": 1682248589,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 210192,
@@ -12787,6 +12859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158000,
+      "num": 158000,
+      "word": "滔搏",
+      "onboard_time": 1682254051,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157986,
       "num": 175455,
       "word": "你觉得长月烬明哪首OST最火",
@@ -12953,14 +13033,6 @@
       "onboard_time": 1681974029,
       "rank": 38,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 153899,
-      "num": 153899,
-      "word": "胡明轩水平",
-      "onboard_time": 1682256692,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 153888,
@@ -14875,14 +14947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111680,
-      "num": 132589,
-      "word": "严禁劣迹艺人随意变相复出捞金",
-      "onboard_time": 1682256753,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111517,
       "num": 111517,
       "word": "罗翔说读书日可以不读书",
@@ -16036,7 +16100,7 @@
     },
     {
       "raw_hot": 52949,
-      "num": 1435715,
+      "num": 1669703,
       "word": "相约八点见",
       "onboard_time": 1682239409,
       "rank": 2,
