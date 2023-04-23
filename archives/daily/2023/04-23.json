@@ -1,6 +1,6 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682218161318,
+  "endTime": 1682219894529,
   "band_list": [
     {
       "raw_hot": 2603141,
@@ -17,6 +17,14 @@
       "onboard_time": 1682210669,
       "rank": 11,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 2094076,
+      "num": 2094076,
+      "word": "中奖一千万要不要告诉父母",
+      "onboard_time": 1682215648,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1868441,
@@ -51,20 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1354715,
-      "num": 1354715,
+      "raw_hot": 1387201,
+      "num": 1387201,
       "word": "五一调休",
       "onboard_time": 1682207725,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1286946,
-      "num": 1286946,
-      "word": "中奖一千万要不要告诉父母",
-      "onboard_time": 1682215648,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1231936,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 838347,
+      "num": 838347,
+      "word": "斗破苍穹 删减",
+      "onboard_time": 1682217328,
+      "rank": 16,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 805531,
       "num": 805531,
       "word": "肖战又现覃头造型",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 690675,
+      "num": 690675,
+      "word": "开网约车被处分的副镇长有了新职",
+      "onboard_time": 1682216427,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623436,
       "num": 623436,
       "word": "刘宇宁把家人说成家人们",
@@ -155,12 +171,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 522000,
-      "num": 522000,
-      "word": "斗破苍穹 删减",
-      "onboard_time": 1682217328,
-      "rank": 16,
-      "category": "动漫,影视"
+      "raw_hot": 498610,
+      "num": 422444,
+      "word": "湖人地板",
+      "onboard_time": 1682217087,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 493710,
@@ -172,19 +188,11 @@
     },
     {
       "raw_hot": 476839,
-      "num": 248125,
+      "num": 253518,
       "word": "艺人头发长得快的原因",
       "onboard_time": 1682216247,
       "rank": 30,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 466791,
-      "num": 430812,
-      "word": "开网约车被处分的副镇长有了新职",
-      "onboard_time": 1682216427,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463477,
@@ -209,14 +217,6 @@
       "onboard_time": 1682181025,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 437468,
-      "num": 222639,
-      "word": "湖人地板",
-      "onboard_time": 1682217087,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 435357,
@@ -249,6 +249,14 @@
       "onboard_time": 1682208026,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388165,
+      "num": 388165,
+      "word": "玉骨遥预约栏",
+      "onboard_time": 1682217448,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 381904,
@@ -323,6 +331,38 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 321715,
+      "num": 237004,
+      "word": "赵露思紫色抹胸裙造型",
+      "onboard_time": 1682219008,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 305593,
+      "num": 305593,
+      "word": "满江红网播定档",
+      "onboard_time": 1682219187,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 300640,
+      "num": 300640,
+      "word": "灰熊单节9分",
+      "onboard_time": 1682218947,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300344,
+      "num": 300344,
+      "word": "27岁女儿被妈妈教训女孩不用买房",
+      "onboard_time": 1682219248,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294372,
       "num": 247780,
       "word": "原来认真工作也会被辞退",
@@ -371,6 +411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 266793,
+      "num": 266793,
+      "word": "灌篮高手 彻底的大人童话",
+      "onboard_time": 1682217207,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 259639,
       "num": 229140,
       "word": "有三十元买书还是买奶茶",
@@ -393,14 +441,6 @@
       "onboard_time": 1682171914,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 248318,
-      "num": 248318,
-      "word": "玉骨遥预约栏",
-      "onboard_time": 1682217448,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 248131,
@@ -427,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 238911,
+      "num": 235454,
+      "word": "原公司忘记停缴社保让我补交",
+      "onboard_time": 1682217806,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229695,
       "num": 229695,
       "word": "青春环游记全员素颜",
@@ -443,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224946,
+      "num": 224946,
+      "word": "苏翊鸣羽生结弦电影",
+      "onboard_time": 1682218166,
+      "rank": 29,
+      "category": "体育,影视"
+    },
+    {
       "raw_hot": 220602,
       "num": 220602,
       "word": "李晨需要道歉吗",
@@ -457,14 +513,6 @@
       "onboard_time": 1682207304,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215658,
-      "num": 215658,
-      "word": "灌篮高手 彻底的大人童话",
-      "onboard_time": 1682217207,
-      "rank": 36,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 212747,
@@ -587,12 +635,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183438,
+      "num": 183438,
+      "word": "湖人首节领先灰熊26分",
+      "onboard_time": 1682218647,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178873,
       "num": 178873,
       "word": "宝马",
       "onboard_time": 1682211328,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176925,
+      "num": 176925,
+      "word": "杨洋与素人合影",
+      "onboard_time": 1682219308,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174332,
@@ -609,6 +673,14 @@
       "onboard_time": 1682206944,
       "rank": 29,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 173478,
+      "num": 173478,
+      "word": "薛之谦说想去乘风破浪",
+      "onboard_time": 1682219727,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 170645,
@@ -675,6 +747,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149694,
+      "num": 149694,
+      "word": "NBA",
+      "onboard_time": 1682219369,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142804,
+      "num": 142804,
+      "word": "半熟男女",
+      "onboard_time": 1682219548,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141044,
       "num": 141044,
       "word": "马龙庆祝动作",
@@ -689,14 +777,6 @@
       "onboard_time": 1682199913,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136706,
-      "num": 136706,
-      "word": "原公司忘记停缴社保让我补交",
-      "onboard_time": 1682217806,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 135102,
@@ -948,7 +1028,7 @@
     },
     {
       "raw_hot": 29860,
-      "num": 1357805,
+      "num": 1414060,
       "word": "珍爱地球中国在行动",
       "onboard_time": 1682167049,
       "rank": 2,
