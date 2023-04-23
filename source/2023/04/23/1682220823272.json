@@ -1,0 +1,410 @@
+{
+  "runTime": 1682220823272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2649324,
+        "num": 2649324,
+        "word": "中奖一千万要不要告诉父母",
+        "onboard_time": 1682215648,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1825095,
+        "num": 1825095,
+        "word": "原来结婚证里还有温馨小提示",
+        "onboard_time": 1682210669,
+        "rank": 1,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 8876,
+        "num": 1596745,
+        "word": "珍爱地球中国在行动",
+        "onboard_time": 1682167049,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1436374,
+        "num": 1436374,
+        "word": "五一调休",
+        "onboard_time": 1682207725,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864723,
+        "num": 864723,
+        "word": "女大学生在寝室发现巨拟叶螽",
+        "onboard_time": 1682206583,
+        "rank": 4,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 805957,
+        "num": 805957,
+        "word": "27岁女儿被妈妈教训女孩不用买房",
+        "onboard_time": 1682219248,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748241,
+        "num": 748241,
+        "word": "开网约车被处分的副镇长有了新职",
+        "onboard_time": 1682216427,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698851,
+        "num": 698851,
+        "word": "斗破苍穹 删减",
+        "onboard_time": 1682217328,
+        "rank": 7,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 528031,
+        "num": 528031,
+        "word": "小鬼 泰酷辣",
+        "onboard_time": 1682177192,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372149,
+        "num": 372149,
+        "word": "人造长假真的有意义吗",
+        "onboard_time": 1682214569,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 465959,
+        "num": 371924,
+        "word": "湖人地板",
+        "onboard_time": 1682217087,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383740,
+        "num": 371495,
+        "word": "张颂文向陈凯歌介绍高叶",
+        "onboard_time": 1682174795,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369345,
+        "num": 369345,
+        "word": "玉骨遥预约栏",
+        "onboard_time": 1682217448,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348438,
+        "num": 348438,
+        "word": "新冠",
+        "onboard_time": 1682167468,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320836,
+        "num": 320836,
+        "word": "张杰粉丝只是长大了不是暴富了",
+        "onboard_time": 1682209045,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272085,
+        "num": 272085,
+        "word": "3个职业平均月薪超2万",
+        "onboard_time": 1682210609,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 261334,
+        "num": 261334,
+        "word": "灌篮高手 彻底的大人童话",
+        "onboard_time": 1682217207,
+        "rank": 16,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 243535,
+        "num": 243535,
+        "word": "半熟男女",
+        "onboard_time": 1682219548,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232015,
+        "num": 232015,
+        "word": "朋友得了忧郁症告诉父母",
+        "onboard_time": 1682181383,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222941,
+        "num": 222941,
+        "word": "北京一女子晚交7天房租被扣3500元",
+        "onboard_time": 1682210068,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1320782,
+        "num": 222744,
+        "word": "谢娜工作室道歉",
+        "onboard_time": 1682209045,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438475,
+        "num": 222004,
+        "word": "赵露思紫色抹胸裙造型",
+        "onboard_time": 1682219008,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 438261,
+        "num": 220914,
+        "word": "艺人头发长得快的原因",
+        "onboard_time": 1682216247,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 353054,
+        "num": 220195,
+        "word": "嫖客被抓反告民警并胜诉",
+        "onboard_time": 1682176710,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294684,
+        "num": 219201,
+        "word": "肖战又现覃头造型",
+        "onboard_time": 1682211929,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264698,
+        "num": 218425,
+        "word": "杨洋与素人合影",
+        "onboard_time": 1682219308,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247325,
+        "num": 217531,
+        "word": "原公司忘记停缴社保让我补交",
+        "onboard_time": 1682217806,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217218,
+        "num": 217218,
+        "word": "满江红网播定档",
+        "onboard_time": 1682219187,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216718,
+        "num": 216718,
+        "word": "中方向韩驻华大使提出严正交涉",
+        "onboard_time": 1682210609,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 216447,
+        "num": 216447,
+        "word": "苏翊鸣羽生结弦电影",
+        "onboard_time": 1682218166,
+        "rank": 29,
+        "category": "体育,影视"
+      },
+      {
+        "raw_hot": 242666,
+        "num": 213779,
+        "word": "报备式恋爱",
+        "onboard_time": 1682220027,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205828,
+        "num": 205828,
+        "word": "INTO1毕业拍立得",
+        "onboard_time": 1682220389,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202376,
+        "num": 202376,
+        "word": "嗯哼长大了",
+        "onboard_time": 1682180006,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199444,
+        "num": 199444,
+        "word": "薛之谦说想去乘风破浪",
+        "onboard_time": 1682219727,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191723,
+        "num": 191723,
+        "word": "原来认真工作也会被辞退",
+        "onboard_time": 1682215766,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187908,
+        "num": 187908,
+        "word": "马嘉祺丁程鑫严浩翔外务录制暂停一期",
+        "onboard_time": 1682215348,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187458,
+        "num": 187458,
+        "word": "俄罗斯一女子将猫伪装成婴儿运毒",
+        "onboard_time": 1682210790,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184177,
+        "num": 184177,
+        "word": "十三个猴",
+        "onboard_time": 1682214809,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176223,
+        "num": 176223,
+        "word": "有三十元买书还是买奶茶",
+        "onboard_time": 1682215289,
+        "rank": 38,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 172963,
+        "num": 172963,
+        "word": "陈都灵跳舞",
+        "onboard_time": 1682213129,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167567,
+        "num": 167567,
+        "word": "淄博五一酒店客房涨价不得超过50%",
+        "onboard_time": 1682211628,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 158124,
+        "num": 158124,
+        "word": "课上唯一认真听讲的被赶出去了",
+        "onboard_time": 1682211990,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153666,
+        "num": 153666,
+        "word": "游客在长沙路边摊买麻辣烫被收86元",
+        "onboard_time": 1682214569,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 152936,
+        "num": 152936,
+        "word": "什么原因导致大学生就业难",
+        "onboard_time": 1682208687,
+        "rank": 43,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 133683,
+        "num": 133683,
+        "word": "灰熊vs湖人",
+        "onboard_time": 1682216727,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131773,
+        "num": 131773,
+        "word": "蔚来员工曝加班近500小时进急诊3次",
+        "onboard_time": 1682208026,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120755,
+        "num": 120755,
+        "word": "NBA",
+        "onboard_time": 1682219369,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120187,
+        "num": 120187,
+        "word": "灰熊单节9分",
+        "onboard_time": 1682218947,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105121,
+        "num": 119498,
+        "word": "星穹铁道预下载",
+        "onboard_time": 1682220808,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102544,
+        "num": 116436,
+        "word": "iwandy",
+        "onboard_time": 1682206944,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京冬奥会官方电影北京2022#"
+    }
+  }
+}

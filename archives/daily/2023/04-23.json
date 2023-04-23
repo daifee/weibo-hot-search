@@ -1,7 +1,15 @@
 {
   "startTime": 1682180502530,
-  "endTime": 1682219894529,
+  "endTime": 1682220823272,
   "band_list": [
+    {
+      "raw_hot": 2649324,
+      "num": 2649324,
+      "word": "中奖一千万要不要告诉父母",
+      "onboard_time": 1682215648,
+      "rank": 3,
+      "category": "情感"
+    },
     {
       "raw_hot": 2603141,
       "num": 1159573,
@@ -17,14 +25,6 @@
       "onboard_time": 1682210669,
       "rank": 11,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 2094076,
-      "num": 2094076,
-      "word": "中奖一千万要不要告诉父母",
-      "onboard_time": 1682215648,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1868441,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1387201,
-      "num": 1387201,
+      "raw_hot": 1436374,
+      "num": 1436374,
       "word": "五一调休",
       "onboard_time": 1682207725,
       "rank": 0,
@@ -123,12 +123,28 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 805957,
+      "num": 805957,
+      "word": "27岁女儿被妈妈教训女孩不用买房",
+      "onboard_time": 1682219248,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 805531,
       "num": 805531,
       "word": "肖战又现覃头造型",
       "onboard_time": 1682211929,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 748241,
+      "num": 748241,
+      "word": "开网约车被处分的副镇长有了新职",
+      "onboard_time": 1682216427,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 742545,
@@ -145,14 +161,6 @@
       "onboard_time": 1682180006,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 690675,
-      "num": 690675,
-      "word": "开网约车被处分的副镇长有了新职",
-      "onboard_time": 1682216427,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 623436,
@@ -217,6 +225,14 @@
       "onboard_time": 1682181025,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438475,
+      "num": 237004,
+      "word": "赵露思紫色抹胸裙造型",
+      "onboard_time": 1682219008,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 435357,
@@ -331,14 +347,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 321715,
-      "num": 237004,
-      "word": "赵露思紫色抹胸裙造型",
-      "onboard_time": 1682219008,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 305593,
       "num": 305593,
       "word": "满江红网播定档",
@@ -353,14 +361,6 @@
       "onboard_time": 1682218947,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 300344,
-      "num": 300344,
-      "word": "27岁女儿被妈妈教训女孩不用买房",
-      "onboard_time": 1682219248,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294372,
@@ -419,6 +419,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 264698,
+      "num": 218425,
+      "word": "杨洋与素人合影",
+      "onboard_time": 1682219308,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259639,
       "num": 229140,
       "word": "有三十元买书还是买奶茶",
@@ -459,20 +467,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247325,
+      "num": 235454,
+      "word": "原公司忘记停缴社保让我补交",
+      "onboard_time": 1682217806,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 243535,
+      "num": 243535,
+      "word": "半熟男女",
+      "onboard_time": 1682219548,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 242666,
+      "num": 213779,
+      "word": "报备式恋爱",
+      "onboard_time": 1682220027,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239695,
       "num": 239695,
       "word": "十三个猴",
       "onboard_time": 1682214809,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 238911,
-      "num": 235454,
-      "word": "原公司忘记停缴社保让我补交",
-      "onboard_time": 1682217806,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 229695,
@@ -563,6 +587,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 205828,
+      "num": 205828,
+      "word": "INTO1毕业拍立得",
+      "onboard_time": 1682220389,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205039,
       "num": 205039,
       "word": "夫妻欠300万10年不还旅游晒视频",
@@ -601,6 +633,14 @@
       "onboard_time": 1682210428,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199444,
+      "num": 199444,
+      "word": "薛之谦说想去乘风破浪",
+      "onboard_time": 1682219727,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 196000,
@@ -651,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176925,
-      "num": 176925,
-      "word": "杨洋与素人合影",
-      "onboard_time": 1682219308,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 174332,
       "num": 174332,
       "word": "奥拉迪波受伤",
@@ -673,14 +705,6 @@
       "onboard_time": 1682206944,
       "rank": 29,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 173478,
-      "num": 173478,
-      "word": "薛之谦说想去乘风破浪",
-      "onboard_time": 1682219727,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 170645,
@@ -753,14 +777,6 @@
       "onboard_time": 1682219369,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142804,
-      "num": 142804,
-      "word": "半熟男女",
-      "onboard_time": 1682219548,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 141044,
@@ -915,6 +931,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 105121,
+      "num": 119498,
+      "word": "星穹铁道预下载",
+      "onboard_time": 1682220808,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 104547,
       "num": 104547,
       "word": "虞书欣 刘虞佳",
@@ -1028,7 +1052,7 @@
     },
     {
       "raw_hot": 29860,
-      "num": 1414060,
+      "num": 1596745,
       "word": "珍爱地球中国在行动",
       "onboard_time": 1682167049,
       "rank": 2,
@@ -1044,6 +1068,9 @@
     },
     {
       "word": "#读书之美#"
+    },
+    {
+      "word": "#北京冬奥会官方电影北京2022#"
     }
   ]
 }
