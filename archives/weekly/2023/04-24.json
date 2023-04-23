@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682266896048,
+  "endTime": 1682267829078,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -99,8 +99,8 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 331961,
-      "num": 331961,
+      "raw_hot": 353537,
+      "num": 353537,
       "word": "网友帮Lisa脱掉了外套",
       "onboard_time": 1682263894,
       "rank": 14,
@@ -187,8 +187,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209589,
-      "num": 195128,
+      "raw_hot": 209836,
+      "num": 209836,
       "word": "白桃星座",
       "onboard_time": 1682264135,
       "rank": 25,
@@ -235,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185053,
+      "num": 185053,
+      "word": "广东东莞大益",
+      "onboard_time": 1682265510,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184694,
       "num": 184694,
       "word": "龙湖天街",
@@ -249,14 +257,6 @@
       "onboard_time": 1682262816,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167778,
-      "num": 167778,
-      "word": "广东东莞大益",
-      "onboard_time": 1682265510,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 156534,
@@ -323,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114777,
+      "num": 114777,
+      "word": "赵小棠直播吃淄博烧烤",
+      "onboard_time": 1682265869,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108721,
       "num": 108721,
       "word": "城管局回应采购制服每套4591元",
@@ -371,14 +379,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 86911,
-      "num": 86911,
-      "word": "赵小棠直播吃淄博烧烤",
-      "onboard_time": 1682265869,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86750,
       "num": 86750,
       "word": "双向情感障碍能做什么工作",
@@ -393,6 +393,30 @@
       "onboard_time": 1682262037,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 80541,
+      "num": 80541,
+      "word": "琉球",
+      "onboard_time": 1682267243,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67797,
+      "num": 67797,
+      "word": "店主误会女孩偷窃门口遭摆白花",
+      "onboard_time": 1682267721,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62976,
+      "num": 62976,
+      "word": "二十几岁是个混乱的年龄段",
+      "onboard_time": 1682267663,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 8308,
