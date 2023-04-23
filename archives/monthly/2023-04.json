@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682274008998,
+  "endTime": 1682274806167,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -51107,6 +51107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106481,
+      "num": 67280,
+      "word": "曼联首发",
+      "onboard_time": 1682271076,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106419,
       "num": 106419,
       "word": "PEL季后赛收官之战",
@@ -52971,14 +52979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83267,
-      "num": 67280,
-      "word": "曼联首发",
-      "onboard_time": 1682271076,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83266,
       "num": 83266,
       "word": "哈兰德赛季第47球",
@@ -54603,20 +54603,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 26781,
+      "num": 30904,
+      "word": "在外遭遇种族歧视一定要及时录像",
+      "onboard_time": 1682272875,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26730,
       "num": 27909,
       "word": "好友好有爱",
       "onboard_time": 1680795809,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26636,
-      "num": 30904,
-      "word": "在外遭遇种族歧视一定要及时录像",
-      "onboard_time": 1682272875,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26119,

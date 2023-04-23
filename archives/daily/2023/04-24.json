@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682274008998,
+  "endTime": 1682274806167,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -363,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106481,
+      "num": 67280,
+      "word": "曼联首发",
+      "onboard_time": 1682271076,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104593,
       "num": 104593,
       "word": "马龙 王楚钦",
@@ -401,14 +409,6 @@
       "onboard_time": 1682262875,
       "rank": 48,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 83267,
-      "num": 67280,
-      "word": "曼联首发",
-      "onboard_time": 1682271076,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 81256,
@@ -451,10 +451,18 @@
       "category": "影视"
     },
     {
-      "raw_hot": 26636,
+      "raw_hot": 26781,
       "num": 30904,
       "word": "在外遭遇种族歧视一定要及时录像",
       "onboard_time": 1682272875,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25658,
+      "num": 26781,
+      "word": "警方回应男子在商场跳楼砸伤女顾客",
+      "onboard_time": 1682262816,
       "rank": 49,
       "category": "社会新闻"
     },
