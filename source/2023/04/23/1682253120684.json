@@ -1,0 +1,410 @@
+{
+  "runTime": 1682253120684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2109722,
+        "num": 2109722,
+        "word": "我说谢娜助理怎么那么眼熟",
+        "onboard_time": 1682248108,
+        "rank": 0,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1518965,
+        "num": 1518965,
+        "word": "初三这样穿去上学被同学说擦边",
+        "onboard_time": 1682243368,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40536,
+        "num": 1435715,
+        "word": "相约八点见",
+        "onboard_time": 1682239409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1408869,
+        "num": 1408869,
+        "word": "马龙 王楚钦",
+        "onboard_time": 1682251951,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1204482,
+        "num": 1204482,
+        "word": "姑娘年薪50万却毅然从银行离职",
+        "onboard_time": 1682249008,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946772,
+        "num": 946772,
+        "word": "外卖轻食 肠胃炎",
+        "onboard_time": 1682241750,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 780063,
+        "num": 780063,
+        "word": "长月烬明再次调整更新时间",
+        "onboard_time": 1682249369,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 499004,
+        "num": 499004,
+        "word": "金钟铉粉丝给文彬粉丝准备巧克力",
+        "onboard_time": 1682249311,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489397,
+        "num": 489397,
+        "word": "这是我下周过4.9岁生日的何老师",
+        "onboard_time": 1682246788,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 472123,
+        "num": 472123,
+        "word": "铃芽之旅原本是双女主",
+        "onboard_time": 1682249611,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466352,
+        "num": 466352,
+        "word": "戚薇瘦了",
+        "onboard_time": 1682237010,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465331,
+        "num": 465331,
+        "word": "应届毕业生的身份有多值钱",
+        "onboard_time": 1682249969,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404842,
+        "num": 404842,
+        "word": "星星相伴月亮",
+        "onboard_time": 1682252249,
+        "rank": 12,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 371034,
+        "num": 371034,
+        "word": "龙城三婶确诊癌症",
+        "onboard_time": 1682251769,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 434307,
+        "num": 365043,
+        "word": "Lisa的腿好惊人",
+        "onboard_time": 1682228611,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316556,
+        "num": 316556,
+        "word": "二次感染比第一次更难受吗",
+        "onboard_time": 1682225551,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310845,
+        "num": 310845,
+        "word": "长月烬明",
+        "onboard_time": 1682244208,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 274264,
+        "num": 274264,
+        "word": "王源演唱会能不能卖站票",
+        "onboard_time": 1682249430,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269255,
+        "num": 269255,
+        "word": "WTT澳门冠军赛王曼昱夺冠",
+        "onboard_time": 1682250389,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225441,
+        "num": 225441,
+        "word": "离职千万不要有愧疚感",
+        "onboard_time": 1682246729,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255897,
+        "num": 225272,
+        "word": "澹台烬想知道叶夕雾到底长什么样的心",
+        "onboard_time": 1682250209,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230264,
+        "num": 225188,
+        "word": "小县城的生活能有多安逸",
+        "onboard_time": 1682251231,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228574,
+        "num": 223953,
+        "word": "内地版放羊的星星",
+        "onboard_time": 1682243130,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220961,
+        "num": 220961,
+        "word": "故宫抢票",
+        "onboard_time": 1682252550,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 219311,
+        "num": 219311,
+        "word": "陈梦vs王曼昱",
+        "onboard_time": 1682247989,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219071,
+        "num": 219071,
+        "word": "贾玲是真瘦了还是黑色显瘦",
+        "onboard_time": 1682228066,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215105,
+        "num": 215105,
+        "word": "四川烧烤价格",
+        "onboard_time": 1682245529,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210254,
+        "num": 210254,
+        "word": "为什么好朋友不爱点赞我朋友圈",
+        "onboard_time": 1682248589,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210159,
+        "num": 210159,
+        "word": "肖战泪眼特写",
+        "onboard_time": 1682243669,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149993,
+        "num": 209287,
+        "word": "在太空干饭有什么不一样",
+        "onboard_time": 1682252130,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 209046,
+        "num": 209046,
+        "word": "爸爸花费1年为儿子做手工婚床",
+        "onboard_time": 1682239888,
+        "rank": 30,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 195221,
+        "num": 195221,
+        "word": "警方辟谣云南高校女生遭3名黑人性侵",
+        "onboard_time": 1682247508,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186492,
+        "num": 186492,
+        "word": "龙城",
+        "onboard_time": 1682252550,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178563,
+        "num": 178563,
+        "word": "罗云熙直播说不能再吃了胖死了",
+        "onboard_time": 1682231609,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173920,
+        "num": 173920,
+        "word": "网传四川天鹅林场三人服毒自杀",
+        "onboard_time": 1682252968,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171974,
+        "num": 171974,
+        "word": "Jennie衣服好辣",
+        "onboard_time": 1682227050,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171712,
+        "num": 171712,
+        "word": "半熟男女官宣没有周雨彤",
+        "onboard_time": 1682242770,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170914,
+        "num": 170914,
+        "word": "长月烬明预告",
+        "onboard_time": 1682246187,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169264,
+        "num": 170797,
+        "word": "长沙夜生活首映直播",
+        "onboard_time": 1682251769,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170771,
+        "num": 170771,
+        "word": "广东男篮vs广厦男篮",
+        "onboard_time": 1682251769,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170669,
+        "num": 170669,
+        "word": "王一博片场健身最积极",
+        "onboard_time": 1682250268,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170133,
+        "num": 170133,
+        "word": "seventeen人歌下周回归预告",
+        "onboard_time": 1682252669,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163782,
+        "num": 163782,
+        "word": "明明是一头很好的大象",
+        "onboard_time": 1682250091,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163120,
+        "num": 163120,
+        "word": "爸爸靠茶具谈崩五个客户",
+        "onboard_time": 1682229389,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149059,
+        "num": 149059,
+        "word": "当着婆婆的面给我妈转钱",
+        "onboard_time": 1682237908,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145429,
+        "num": 145429,
+        "word": "澹台烬发疯了",
+        "onboard_time": 1682237068,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140757,
+        "num": 140757,
+        "word": "台网友评85后最具苏感男星",
+        "onboard_time": 1682246310,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136036,
+        "num": 136036,
+        "word": "杨幂有11个耳洞",
+        "onboard_time": 1682233109,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132647,
+        "num": 132647,
+        "word": "假如灌篮高手真人版长这样",
+        "onboard_time": 1682233467,
+        "rank": 48,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 105231,
+        "num": 122027,
+        "word": "斗破苍穹",
+        "onboard_time": 1682239469,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#读书之美#"
+    }
+  }
+}
