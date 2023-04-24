@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682304275318,
+  "endTime": 1682306316187,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -43,6 +43,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1284484,
+      "num": 501962,
+      "word": "杜华 纯属命好",
+      "onboard_time": 1682305441,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1278738,
       "num": 946077,
       "word": "淄博鸭货小哥被女游客摸肌肉",
@@ -51,20 +59,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1231617,
+      "num": 1231617,
+      "word": "Lisa下楼梯",
+      "onboard_time": 1682299587,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1079008,
       "num": 519075,
       "word": "上海一男子商场跳楼砸中女顾客",
       "onboard_time": 1682261562,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 919047,
-      "num": 919047,
-      "word": "Lisa下楼梯",
-      "onboard_time": 1682299587,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 846262,
@@ -105,6 +113,14 @@
       "onboard_time": 1682243368,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 553593,
+      "num": 553593,
+      "word": "马斯克回复称赞中国高铁的推文",
+      "onboard_time": 1682301386,
+      "rank": 16,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 548793,
@@ -195,20 +211,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 419860,
+      "num": 419860,
+      "word": "钢铁侠黑寡妇在今年牺牲了",
+      "onboard_time": 1682304506,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 398170,
       "num": 398170,
       "word": "法考",
       "onboard_time": 1682301748,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 386225,
-      "num": 386225,
-      "word": "马斯克回复称赞中国高铁的推文",
-      "onboard_time": 1682301386,
-      "rank": 16,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 376823,
@@ -225,6 +241,22 @@
       "onboard_time": 1682263894,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 344103,
+      "num": 330540,
+      "word": "马丽新片连扇张百乔5个巴掌",
+      "onboard_time": 1682303605,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 330421,
+      "num": 330421,
+      "word": "老师你别太懂了",
+      "onboard_time": 1682301984,
+      "rank": 30,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 320390,
@@ -257,14 +289,6 @@
       "onboard_time": 1682249008,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 288968,
-      "num": 288968,
-      "word": "老师你别太懂了",
-      "onboard_time": 1682301984,
-      "rank": 30,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 288933,
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236502,
-      "num": 225841,
-      "word": "马丽新片连扇张百乔5个巴掌",
-      "onboard_time": 1682303605,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 232306,
       "num": 232306,
       "word": "谁帮张一山修修图",
@@ -371,6 +387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218004,
+      "num": 218004,
+      "word": "郭麒麟金晨平凡之路定档",
+      "onboard_time": 1682305441,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 212756,
+      "num": 212756,
+      "word": "我好像也进入了循环",
+      "onboard_time": 1682303846,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209836,
       "num": 209836,
       "word": "白桃星座",
@@ -387,12 +419,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205732,
+      "num": 205732,
+      "word": "未定事件簿",
+      "onboard_time": 1682306065,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205387,
+      "num": 205387,
+      "word": "王一博雷宇以为在夸自己英俊",
+      "onboard_time": 1682305764,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204808,
       "num": 204808,
       "word": "中国航天日",
       "onboard_time": 1682299226,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 202270,
+      "num": 202270,
+      "word": "你给我的喜欢",
+      "onboard_time": 1682305441,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 196471,
@@ -409,6 +465,22 @@
       "onboard_time": 1682253270,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194011,
+      "num": 194011,
+      "word": "王鹤棣民国猴系帅哥",
+      "onboard_time": 1682305526,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193463,
+      "num": 193463,
+      "word": "江苏事业单位",
+      "onboard_time": 1682306007,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 190632,
@@ -459,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184814,
+      "num": 184814,
+      "word": "防晒衣能洗吗",
+      "onboard_time": 1682304687,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184694,
       "num": 184694,
       "word": "龙湖天街",
@@ -481,14 +561,6 @@
       "onboard_time": 1682262816,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170297,
-      "num": 159402,
-      "word": "我好像也进入了循环",
-      "onboard_time": 1682303846,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 166351,
@@ -521,6 +593,14 @@
       "onboard_time": 1682301867,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162709,
+      "num": 162709,
+      "word": "电影温柔壳定档",
+      "onboard_time": 1682306065,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 160956,
@@ -571,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146228,
+      "num": 146228,
+      "word": "锦鲤",
+      "onboard_time": 1682305824,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 144150,
       "num": 144150,
       "word": "谭维维把伴娘红包都给了刘昊然",
@@ -593,6 +681,14 @@
       "onboard_time": 1682298565,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134408,
+      "num": 134408,
+      "word": "我们的征途就是星辰大海",
+      "onboard_time": 1682305526,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133750,
@@ -627,12 +723,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125504,
+      "num": 125504,
+      "word": "耄耋老人为一群特殊孩子再创业",
+      "onboard_time": 1682300727,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124392,
       "num": 124392,
       "word": "五一假期如何获得更优体验",
       "onboard_time": 1682303007,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 123922,
+      "num": 123922,
+      "word": "黄磊问张艺兴彭昱畅跑哪去了",
+      "onboard_time": 1682306245,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 122874,
@@ -643,20 +755,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122399,
+      "num": 122399,
+      "word": "B站千万粉丝UP主回应停更传言",
+      "onboard_time": 1682306306,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 121066,
       "num": 121066,
       "word": "小县城的生活能有多安逸",
       "onboard_time": 1682251231,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120442,
-      "num": 120442,
-      "word": "耄耋老人为一群特殊孩子再创业",
-      "onboard_time": 1682300727,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118363,
@@ -833,6 +945,9 @@
     },
     {
       "word": "#真抓实干答好改革之问#"
+    },
+    {
+      "word": "#中国星辰#"
     }
   ]
 }
