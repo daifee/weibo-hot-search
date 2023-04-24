@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682313409472,
+  "endTime": 1682314412083,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2471054,
+      "num": 2471054,
+      "word": "李佳琦刘畊宏等5位主播被点名",
+      "onboard_time": 1682312011,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2470645,
       "num": 2470645,
       "word": "B站千万粉丝UP主回应停更传言",
       "onboard_time": 1682306306,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2405001,
-      "num": 2405001,
-      "word": "李佳琦刘畊宏等5位主播被点名",
-      "onboard_time": 1682312011,
-      "rank": 0,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2115993,
@@ -59,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1552645,
-      "num": 1552645,
+      "raw_hot": 1599271,
+      "num": 1599271,
       "word": "广州商铺发现尸体是一流浪汉",
       "onboard_time": 1682309731,
       "rank": 31,
@@ -235,6 +235,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 494412,
+      "num": 494412,
+      "word": "INTO1今天正式解散了",
+      "onboard_time": 1682310572,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480097,
       "num": 480097,
       "word": "店主误会女孩偷窃门口遭摆白花",
@@ -249,14 +257,6 @@
       "onboard_time": 1682256271,
       "rank": 7,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 477696,
-      "num": 477696,
-      "word": "INTO1今天正式解散了",
-      "onboard_time": 1682310572,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 475944,
@@ -323,12 +323,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 398817,
-      "num": 398817,
+      "raw_hot": 414973,
+      "num": 414973,
       "word": "宋智孝将与经纪公司解约",
       "onboard_time": 1682309971,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 403173,
+      "num": 403173,
+      "word": "伍佰和玲娜贝儿是同一个人的证据",
+      "onboard_time": 1682310572,
+      "rank": 37,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 398170,
@@ -345,14 +353,6 @@
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 375551,
-      "num": 375551,
-      "word": "伍佰和玲娜贝儿是同一个人的证据",
-      "onboard_time": 1682310572,
-      "rank": 37,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 358726,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253082,
+      "num": 253082,
+      "word": "女性如何更好的享受两性关系",
+      "onboard_time": 1682313211,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 252561,
       "num": 252561,
       "word": "云襄传",
@@ -659,12 +667,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212692,
+      "num": 212692,
+      "word": "乌鸦刺身在日本引发连锁争议",
+      "onboard_time": 1682312669,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209836,
       "num": 209836,
       "word": "白桃星座",
       "onboard_time": 1682264135,
       "rank": 25,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 206641,
+      "num": 206641,
+      "word": "郁可唯演唱会官宣",
+      "onboard_time": 1682313929,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 206420,
@@ -715,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193904,
+      "num": 193904,
+      "word": "华晨宇四年的游戏历程",
+      "onboard_time": 1682313929,
+      "rank": 31,
+      "category": "游戏,艺人"
+    },
+    {
       "raw_hot": 193611,
       "num": 193611,
       "word": "长月烬明血糖",
@@ -723,12 +755,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191717,
-      "num": 191717,
-      "word": "女性如何更好的享受两性关系",
-      "onboard_time": 1682313211,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 193337,
+      "num": 193337,
+      "word": "逆水寒手游测试资格",
+      "onboard_time": 1682314347,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 190632,
@@ -843,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172616,
+      "num": 172616,
+      "word": "胡军让康康跟哥哥们打招呼",
+      "onboard_time": 1682313093,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171612,
       "num": 171612,
       "word": "尘封的金色王朝",
@@ -891,20 +931,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 163777,
-      "num": 163777,
-      "word": "乌鸦刺身在日本引发连锁争议",
-      "onboard_time": 1682312669,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163317,
       "num": 163317,
       "word": "你有超过10年以上的友情吗",
       "onboard_time": 1682301867,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162403,
+      "num": 162403,
+      "word": "最高端的黄牛往往用最朴素的方法",
+      "onboard_time": 1682313510,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 160956,
@@ -947,14 +987,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 151642,
-      "num": 151642,
-      "word": "胡军让康康跟哥哥们打招呼",
-      "onboard_time": 1682313093,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 147058,
       "num": 147058,
       "word": "应届毕业生的身份有多值钱",
@@ -979,12 +1011,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145732,
+      "num": 145732,
+      "word": "2023年王者五五朋友节皮肤",
+      "onboard_time": 1682313151,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144150,
       "num": 144150,
       "word": "谭维维把伴娘红包都给了刘昊然",
       "onboard_time": 1682293343,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142182,
+      "num": 142182,
+      "word": "友情内耗",
+      "onboard_time": 1682313569,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 141003,
@@ -1107,20 +1155,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119270,
+      "num": 119270,
+      "word": "五一不调休的是什么神仙公司",
+      "onboard_time": 1682314347,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118363,
       "num": 118363,
       "word": "中国的专家真的在妖言惑众吗",
       "onboard_time": 1682257533,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118113,
-      "num": 124862,
-      "word": "2023年王者五五朋友节皮肤",
-      "onboard_time": 1682313151,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 115039,
@@ -1276,7 +1324,7 @@
     },
     {
       "raw_hot": 9931,
-      "num": 1580379,
+      "num": 1600035,
       "word": "相约八点见",
       "onboard_time": 1682239409,
       "rank": 2,
