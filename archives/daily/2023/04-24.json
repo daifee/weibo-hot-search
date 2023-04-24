@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682307208697,
+  "endTime": 1682310094568,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -19,11 +19,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2343579,
+      "num": 2343579,
+      "word": "B站千万粉丝UP主回应停更传言",
+      "onboard_time": 1682306306,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
       "raw_hot": 2115993,
       "num": 2115993,
       "word": "新冠第二波",
       "onboard_time": 1682297310,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1609333,
+      "num": 1609333,
+      "word": "张艺兴我是市民不是市长",
+      "onboard_time": 1682307566,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1576812,
+      "num": 916593,
+      "word": "疑戴3万元耳钉女副局长露面",
+      "onboard_time": 1682306425,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 1338352,
-      "num": 502793,
+      "num": 916745,
       "word": "杜华 纯属命好",
       "onboard_time": 1682305441,
       "rank": 3,
@@ -80,6 +104,14 @@
       "word": "陈都灵邓为高光戏份被删",
       "onboard_time": 1682260598,
       "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 801619,
+      "num": 801619,
+      "word": "看不懂长月烬明了",
+      "onboard_time": 1682306667,
+      "rank": 21,
       "category": "影视"
     },
     {
@@ -123,12 +155,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 568935,
+      "num": 333053,
+      "word": "易烊千玺的金丝眼镜",
+      "onboard_time": 1682309129,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 548793,
       "num": 548793,
       "word": "女子忘关车门4岁娃跑下车遭碾压",
       "onboard_time": 1682274434,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534961,
+      "num": 534961,
+      "word": "钢铁侠黑寡妇在今年牺牲了",
+      "onboard_time": 1682304506,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 509441,
@@ -155,14 +203,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 483457,
-      "num": 483457,
-      "word": "钢铁侠黑寡妇在今年牺牲了",
-      "onboard_time": 1682304506,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 480097,
       "num": 480097,
       "word": "店主误会女孩偷窃门口遭摆白花",
@@ -185,6 +225,14 @@
       "onboard_time": 1682248108,
       "rank": 13,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 468664,
+      "num": 329630,
+      "word": "06年的台词放现在也是非常炸裂",
+      "onboard_time": 1682307446,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 458688,
@@ -219,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 427285,
+      "num": 427285,
+      "word": "在办公室上班真的很体面吗",
+      "onboard_time": 1682308769,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398170,
       "num": 398170,
       "word": "法考",
@@ -227,28 +283,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 397125,
+      "num": 329488,
+      "word": "翟欣欣",
+      "onboard_time": 1682307268,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376823,
       "num": 376823,
       "word": "老师上课被学生从背后扇并挑衅",
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 376034,
-      "num": 184013,
-      "word": "疑戴3万元耳钉女副局长露面",
-      "onboard_time": 1682306425,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 355782,
-      "num": 302988,
-      "word": "B站千万粉丝UP主回应停更传言",
-      "onboard_time": 1682306306,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 353537,
@@ -273,6 +321,14 @@
       "onboard_time": 1682301984,
       "rank": 30,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 329956,
+      "num": 329956,
+      "word": "闪耀暖暖",
+      "onboard_time": 1682309310,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 320390,
@@ -323,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290170,
+      "num": 290170,
+      "word": "张颂文出现在我的朋友圈",
+      "onboard_time": 1682308649,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288933,
       "num": 288933,
       "word": "澹台烬彻底疯了",
@@ -337,6 +401,14 @@
       "onboard_time": 1682306245,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279007,
+      "num": 279007,
+      "word": "武汉多地标惊现游戏NPC打卡",
+      "onboard_time": 1682308708,
+      "rank": 23,
+      "category": "游戏,社会新闻"
     },
     {
       "raw_hot": 271602,
@@ -361,14 +433,6 @@
       "onboard_time": 1682294848,
       "rank": 22,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 261226,
-      "num": 261226,
-      "word": "看不懂长月烬明了",
-      "onboard_time": 1682306667,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 258113,
@@ -401,6 +465,14 @@
       "onboard_time": 1682262999,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 247750,
+      "num": 247750,
+      "word": "大量被拐儿童父母赴淄博扩散信息",
+      "onboard_time": 1682308588,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244938,
@@ -507,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194828,
+      "num": 194828,
+      "word": "虽然真诚是必杀",
+      "onboard_time": 1682306905,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 194011,
       "num": 194011,
       "word": "王鹤棣民国猴系帅哥",
@@ -563,8 +643,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184880,
+      "num": 184880,
+      "word": "广州商铺发现尸体是一流浪汉",
+      "onboard_time": 1682309731,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184814,
-      "num": 184814,
+      "num": 331928,
       "word": "防晒衣能洗吗",
       "onboard_time": 1682304687,
       "rank": 30,
@@ -595,6 +683,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177851,
+      "num": 177851,
+      "word": "长月烬明血糖",
+      "onboard_time": 1682307508,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 173408,
+      "num": 173408,
+      "word": "王玉雯王子奇新剧开播",
+      "onboard_time": 1682309129,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 173119,
+      "num": 173119,
+      "word": "天赐的声音4官宣",
+      "onboard_time": 1682307626,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170628,
       "num": 170628,
       "word": "龚俊问大张伟这是便秘的广告吗",
@@ -609,6 +721,14 @@
       "onboard_time": 1682299945,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166124,
+      "num": 166124,
+      "word": "淄博鸭货小哥呼吁不要太关注他本人",
+      "onboard_time": 1682309609,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165518,
@@ -633,6 +753,14 @@
       "onboard_time": 1682301867,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161242,
+      "num": 161242,
+      "word": "云襄传",
+      "onboard_time": 1682309909,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 160956,
@@ -699,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141003,
+      "num": 141003,
+      "word": "检察风云黄景瑜直球告白白百何",
+      "onboard_time": 1682309250,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140397,
       "num": 140397,
       "word": "杭州烧烤主打一个魔性",
@@ -747,20 +883,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 130906,
+      "num": 130906,
+      "word": "河南专升本成绩",
+      "onboard_time": 1682308167,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 130732,
       "num": 130732,
       "word": "长月烬明再次调整更新时间",
       "onboard_time": 1682249369,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 128395,
-      "num": 128395,
-      "word": "虽然真诚是必杀",
-      "onboard_time": 1682306905,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 126113,
@@ -801,6 +937,22 @@
       "onboard_time": 1682251231,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119873,
+      "num": 119873,
+      "word": "科普作家硬核讲解长月烬明蚌族知识",
+      "onboard_time": 1682308291,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 118999,
+      "num": 118999,
+      "word": "宋智孝将与经纪公司解约",
+      "onboard_time": 1682309971,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 118363,
