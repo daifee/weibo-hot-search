@@ -1,0 +1,410 @@
+{
+  "runTime": 1682320631478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2232082,
+        "num": 2232082,
+        "word": "李佳琦刘畊宏等5位主播被点名",
+        "onboard_time": 1682312011,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1424160,
+        "num": 1424160,
+        "word": "上海一财务把公司偷得只剩20块",
+        "onboard_time": 1682316686,
+        "rank": 1,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 54145,
+        "num": 1110705,
+        "word": "今天我们为何还要读书",
+        "onboard_time": 1682319865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1104518,
+        "num": 1104518,
+        "word": "广州商铺发现尸体是一流浪汉",
+        "onboard_time": 1682309731,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677518,
+        "num": 677518,
+        "word": "法考",
+        "onboard_time": 1682301748,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 606507,
+        "num": 606507,
+        "word": "GQ印错易烊千玺名字",
+        "onboard_time": 1682317588,
+        "rank": 5,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 531963,
+        "num": 531963,
+        "word": "B站千万粉丝UP主回应停更传言",
+        "onboard_time": 1682306306,
+        "rank": 6,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 505089,
+        "num": 505089,
+        "word": "明知五一人多为什么还要出去玩",
+        "onboard_time": 1682311112,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 488882,
+        "num": 488882,
+        "word": "黄磊问张艺兴彭昱畅跑哪去了",
+        "onboard_time": 1682306245,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363451,
+        "num": 363451,
+        "word": "网易起诉暴雪要求退还3亿欠款",
+        "onboard_time": 1682319509,
+        "rank": 9,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 1432090,
+        "num": 355572,
+        "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+        "onboard_time": 1682316448,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457632,
+        "num": 351712,
+        "word": "新冠第二波",
+        "onboard_time": 1682297310,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326652,
+        "num": 326652,
+        "word": "看不懂长月烬明了",
+        "onboard_time": 1682306667,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298396,
+        "num": 298396,
+        "word": "没人告诉汪苏泷容祖儿穿黑色吗",
+        "onboard_time": 1682314409,
+        "rank": 13,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 280376,
+        "num": 280376,
+        "word": "Lisa撩伴舞",
+        "onboard_time": 1682316627,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272657,
+        "num": 272657,
+        "word": "在办公室上班真的很体面吗",
+        "onboard_time": 1682308769,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272155,
+        "num": 272155,
+        "word": "杜海涛对沈梦辰屏蔽朋友圈",
+        "onboard_time": 1682294907,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261267,
+        "num": 261267,
+        "word": "INTO1今天正式解散了",
+        "onboard_time": 1682310572,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254318,
+        "num": 254318,
+        "word": "杜华 纯属命好",
+        "onboard_time": 1682305441,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246548,
+        "num": 246548,
+        "word": "时代少年团或将出演英雄联盟",
+        "onboard_time": 1682315608,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240048,
+        "num": 240048,
+        "word": "王嘉尔是真的闯出去了",
+        "onboard_time": 1682319927,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227679,
+        "num": 227679,
+        "word": "人民网评五一民宿毁约吃相难看",
+        "onboard_time": 1682310390,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 217837,
+        "num": 217837,
+        "word": "鞠婧祎 完美日记title",
+        "onboard_time": 1682318606,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198149,
+        "num": 198149,
+        "word": "护士精神病院工作7年患重度抑郁",
+        "onboard_time": 1682310871,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189155,
+        "num": 189155,
+        "word": "最高端的黄牛往往用最朴素的方法",
+        "onboard_time": 1682313510,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203150,
+        "num": 188589,
+        "word": "遇到前任还会心动吗",
+        "onboard_time": 1682316567,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1641338,
+        "num": 188202,
+        "word": "肖战杨紫 二搭",
+        "onboard_time": 1682314826,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 201790,
+        "num": 187822,
+        "word": "白鹿 以后会更加严格约束自己言行",
+        "onboard_time": 1682257595,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187419,
+        "num": 187419,
+        "word": "江苏事业单位",
+        "onboard_time": 1682306007,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182297,
+        "num": 182297,
+        "word": "木鱼水心",
+        "onboard_time": 1682311296,
+        "rank": 29,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 283842,
+        "num": 177708,
+        "word": "没认出来陈乔恩",
+        "onboard_time": 1682320166,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241108,
+        "num": 173589,
+        "word": "在直播间买东西靠谱吗",
+        "onboard_time": 1682320407,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164438,
+        "num": 164438,
+        "word": "张大大哭了",
+        "onboard_time": 1682310994,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161882,
+        "num": 161882,
+        "word": "雪允站哥道歉",
+        "onboard_time": 1682315129,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161757,
+        "num": 161757,
+        "word": "乌鸦刺身在日本引发连锁争议",
+        "onboard_time": 1682312669,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160849,
+        "num": 160849,
+        "word": "友情内耗",
+        "onboard_time": 1682313569,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160378,
+        "num": 160378,
+        "word": "98line写给文彬的信",
+        "onboard_time": 1682315487,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154268,
+        "num": 154268,
+        "word": "大量被拐儿童父母赴淄博扩散信息",
+        "onboard_time": 1682308588,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152488,
+        "num": 152488,
+        "word": "女性如何更好的享受两性关系",
+        "onboard_time": 1682313211,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13041,
+        "num": 150930,
+        "word": "崖天下上演百米悬崖走秀",
+        "onboard_time": 1682319627,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150827,
+        "num": 150827,
+        "word": "钢铁侠黑寡妇在今年牺牲了",
+        "onboard_time": 1682304506,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144971,
+        "num": 144971,
+        "word": "胡军让康康跟哥哥们打招呼",
+        "onboard_time": 1682313093,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134122,
+        "num": 134122,
+        "word": "工资的一部分就是受气的",
+        "onboard_time": 1682311532,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 133762,
+        "num": 133762,
+        "word": "声生不息宝岛季改档",
+        "onboard_time": 1682316088,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133687,
+        "num": 133687,
+        "word": "伍佰和玲娜贝儿是同一个人的证据",
+        "onboard_time": 1682310572,
+        "rank": 44,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 131600,
+        "num": 131600,
+        "word": "和平精英四周年",
+        "onboard_time": 1682319988,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130085,
+        "num": 130085,
+        "word": "宋智孝将与经纪公司解约",
+        "onboard_time": 1682309971,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129418,
+        "num": 129418,
+        "word": "翟欣欣",
+        "onboard_time": 1682307268,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120086,
+        "num": 120086,
+        "word": "武庚纪",
+        "onboard_time": 1682320047,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119649,
+        "num": 119649,
+        "word": "五一不调休的是什么神仙公司",
+        "onboard_time": 1682314347,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国星辰#"
+    }
+  }
+}

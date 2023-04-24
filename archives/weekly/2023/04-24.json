@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682318172596,
+  "endTime": 1682320631478,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -75,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1432090,
+      "num": 379013,
+      "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+      "onboard_time": 1682316448,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1424160,
+      "num": 1424160,
+      "word": "上海一财务把公司偷得只剩20块",
+      "onboard_time": 1682316686,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1392592,
       "num": 1392592,
       "word": "严禁劣迹艺人随意变相复出捞金",
@@ -115,14 +131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1227434,
-      "num": 379013,
-      "word": "杨迪 没有艺人愿意点玉米面糊塌子",
-      "onboard_time": 1682316448,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1079008,
       "num": 519075,
       "word": "上海一男子商场跳楼砸中女顾客",
@@ -145,14 +153,6 @@
       "onboard_time": 1682306667,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 793878,
-      "num": 347376,
-      "word": "上海一财务把公司偷得只剩20块",
-      "onboard_time": 1682316686,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 791981,
@@ -187,12 +187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 677518,
+      "num": 677518,
+      "word": "法考",
+      "onboard_time": 1682301748,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 675754,
       "num": 675754,
       "word": "明知五一人多为什么还要出去玩",
       "onboard_time": 1682311112,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 606507,
+      "num": 606507,
+      "word": "GQ印错易烊千玺名字",
+      "onboard_time": 1682317588,
+      "rank": 15,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 603176,
@@ -265,6 +281,14 @@
       "onboard_time": 1682310572,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488882,
+      "num": 488882,
+      "word": "黄磊问张艺兴彭昱畅跑哪去了",
+      "onboard_time": 1682306245,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 480097,
@@ -371,20 +395,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 398170,
-      "num": 398170,
-      "word": "法考",
-      "onboard_time": 1682301748,
-      "rank": 13,
-      "category": "教育"
-    },
-    {
       "raw_hot": 376823,
       "num": 376823,
       "word": "老师上课被学生从背后扇并挑衅",
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 363451,
+      "num": 363451,
+      "word": "网易起诉暴雪要求退还3亿欠款",
+      "onboard_time": 1682319509,
+      "rank": 9,
+      "category": "游戏,财经"
     },
     {
       "raw_hot": 358726,
@@ -459,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319428,
-      "num": 319428,
-      "word": "GQ印错易烊千玺名字",
-      "onboard_time": 1682317588,
-      "rank": 15,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 317824,
       "num": 317824,
       "word": "勇士2比2国王",
@@ -531,12 +547,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 285184,
-      "num": 285184,
-      "word": "黄磊问张艺兴彭昱畅跑哪去了",
-      "onboard_time": 1682306245,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 283842,
+      "num": 177708,
+      "word": "没认出来陈乔恩",
+      "onboard_time": 1682320166,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 280376,
+      "num": 280376,
+      "word": "Lisa撩伴舞",
+      "onboard_time": 1682316627,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 279007,
@@ -545,14 +569,6 @@
       "onboard_time": 1682308708,
       "rank": 23,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 274387,
-      "num": 274387,
-      "word": "Lisa撩伴舞",
-      "onboard_time": 1682316627,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 271602,
@@ -643,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 246548,
+      "num": 246548,
+      "word": "时代少年团或将出演英雄联盟",
+      "onboard_time": 1682315608,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244938,
       "num": 244938,
       "word": "向往7定档",
@@ -651,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241108,
+      "num": 173589,
+      "word": "在直播间买东西靠谱吗",
+      "onboard_time": 1682320407,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241107,
       "num": 241107,
       "word": "郭麒麟金晨平凡之路定档",
       "onboard_time": 1682305441,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240048,
+      "num": 240048,
+      "word": "王嘉尔是真的闯出去了",
+      "onboard_time": 1682319927,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 233107,
@@ -715,20 +755,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 220714,
-      "num": 209437,
-      "word": "时代少年团或将出演英雄联盟",
-      "onboard_time": 1682315608,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220605,
       "num": 220605,
       "word": "陈晓毛晓彤云襄传定档",
       "onboard_time": 1682311894,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 217837,
+      "num": 217837,
+      "word": "鞠婧祎 完美日记title",
+      "onboard_time": 1682318606,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 212756,
@@ -777,6 +817,14 @@
       "onboard_time": 1682299226,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 203150,
+      "num": 188589,
+      "word": "遇到前任还会心动吗",
+      "onboard_time": 1682316567,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 202270,
@@ -995,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166956,
-      "num": 166956,
-      "word": "遇到前任还会心动吗",
-      "onboard_time": 1682316567,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 166351,
       "num": 166351,
       "word": "没想到老板的视角是这样的",
@@ -1179,6 +1219,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 131600,
+      "num": 131600,
+      "word": "和平精英四周年",
+      "onboard_time": 1682319988,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130959,
       "num": 130959,
       "word": "这是我下周过4.9岁生日的何老师",
@@ -1249,6 +1297,14 @@
       "onboard_time": 1682251231,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120086,
+      "num": 120086,
+      "word": "武庚纪",
+      "onboard_time": 1682320047,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 119873,
@@ -1403,6 +1459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 54145,
+      "num": 1110705,
+      "word": "今天我们为何还要读书",
+      "onboard_time": 1682319865,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43133,
       "num": 48080,
       "word": "半熟男女官宣没有周雨彤",
@@ -1424,6 +1488,14 @@
       "word": "在外遭遇种族歧视一定要及时录像",
       "onboard_time": 1682272875,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13041,
+      "num": 150930,
+      "word": "崖天下上演百米悬崖走秀",
+      "onboard_time": 1682319627,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
