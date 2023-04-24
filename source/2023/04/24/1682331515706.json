@@ -1,0 +1,410 @@
+{
+  "runTime": 1682331515706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2351627,
+        "num": 2351627,
+        "word": "上午离职下午收到offer",
+        "onboard_time": 1682324247,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333677,
+        "num": 1957677,
+        "word": "女生花4天为新婚姐姐绘制百喜图",
+        "onboard_time": 1682326167,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 127508,
+        "num": 1775162,
+        "word": "今天我们为何还要读书",
+        "onboard_time": 1682319865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1654066,
+        "num": 1654066,
+        "word": "我国实行周末双休制还不足30年",
+        "onboard_time": 1682328269,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238788,
+        "num": 1422568,
+        "word": "浙江小学生看到罂粟报警",
+        "onboard_time": 1682329826,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1244911,
+        "num": 1244911,
+        "word": "没认出来陈乔恩",
+        "onboard_time": 1682320166,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102495,
+        "num": 1099252,
+        "word": "里面躺着英烈外面坐着英雄",
+        "onboard_time": 1682329826,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042327,
+        "num": 1042327,
+        "word": "fuck my life",
+        "onboard_time": 1682330128,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 942218,
+        "num": 942218,
+        "word": "李佳琦刘畊宏等5位主播被点名",
+        "onboard_time": 1682312011,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 881492,
+        "num": 881492,
+        "word": "难听",
+        "onboard_time": 1682328211,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2365281,
+        "num": 869604,
+        "word": "东南大学一领导被曝工作群发色情照",
+        "onboard_time": 1682326529,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 788180,
+        "num": 788180,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1682325866,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 485986,
+        "num": 485986,
+        "word": "树奈奈 伞皇",
+        "onboard_time": 1682328689,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 427812,
+        "num": 427812,
+        "word": "HYBE 这和舞蹈版MV有什么区别",
+        "onboard_time": 1682328090,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76989,
+        "num": 421771,
+        "word": "官方回应跨境电商被指责",
+        "onboard_time": 1682327128,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 420808,
+        "num": 420808,
+        "word": "毛晓彤曾演过陈晓奶奶",
+        "onboard_time": 1682326288,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386884,
+        "num": 386884,
+        "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+        "onboard_time": 1682316448,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377976,
+        "num": 377976,
+        "word": "流川枫 下睫毛",
+        "onboard_time": 1682330128,
+        "rank": 17,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 355722,
+        "num": 355722,
+        "word": "昆明一奔驰当街撞飞多人",
+        "onboard_time": 1682328748,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347051,
+        "num": 347051,
+        "word": "上海一财务把公司偷得只剩20块",
+        "onboard_time": 1682316686,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 599628,
+        "num": 345686,
+        "word": "杨颖瘦的原因",
+        "onboard_time": 1682320708,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325542,
+        "num": 325542,
+        "word": "钟汉良空降婚礼现场唱宠爱",
+        "onboard_time": 1682327008,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314215,
+        "num": 314215,
+        "word": "KPL 回溯",
+        "onboard_time": 1682330725,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313582,
+        "num": 313582,
+        "word": "TTG对战AG",
+        "onboard_time": 1682330725,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295954,
+        "num": 295954,
+        "word": "经期千万别喝豆浆",
+        "onboard_time": 1682329950,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282045,
+        "num": 282045,
+        "word": "fml好听",
+        "onboard_time": 1682329227,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277717,
+        "num": 277717,
+        "word": "广州商铺发现尸体是一流浪汉",
+        "onboard_time": 1682309731,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276994,
+        "num": 276994,
+        "word": "东南大学纪委回应一领导发色情照",
+        "onboard_time": 1682327427,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 265080,
+        "num": 265080,
+        "word": "罗云熙白鹿握手安慰彼此",
+        "onboard_time": 1682328809,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163699,
+        "num": 240707,
+        "word": "调休上班你会比平时摸鱼吗",
+        "onboard_time": 1682323886,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227201,
+        "num": 227201,
+        "word": "为什么不能公开说自己去旅游",
+        "onboard_time": 1682326348,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205909,
+        "num": 205909,
+        "word": "伞皇 我一直没有说自己是单身",
+        "onboard_time": 1682326108,
+        "rank": 31,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 197677,
+        "num": 197677,
+        "word": "王嘉尔是真的闯出去了",
+        "onboard_time": 1682319927,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189236,
+        "num": 189236,
+        "word": "全世界除了滔博都笑的很开心",
+        "onboard_time": 1682331447,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183050,
+        "num": 183050,
+        "word": "新冠第二波",
+        "onboard_time": 1682297310,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182452,
+        "num": 182452,
+        "word": "这个是不是蓝环章鱼",
+        "onboard_time": 1682321427,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180913,
+        "num": 180913,
+        "word": "GQ印错易烊千玺名字",
+        "onboard_time": 1682317588,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 180384,
+        "num": 180384,
+        "word": "德国媒体漫画 印度人口超越中国",
+        "onboard_time": 1682323768,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163325,
+        "num": 163325,
+        "word": "番禺母婴店发现尸体警方排除他杀",
+        "onboard_time": 1682321966,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162756,
+        "num": 162756,
+        "word": "欢瑞与多位知名作家签约",
+        "onboard_time": 1682326647,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160945,
+        "num": 160945,
+        "word": "克拉盘",
+        "onboard_time": 1682325989,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160444,
+        "num": 160444,
+        "word": "原来傻妞是澹台烬做的",
+        "onboard_time": 1682322808,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156291,
+        "num": 156291,
+        "word": "王鹤棣新剧旁白是东方青苍",
+        "onboard_time": 1682321367,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151911,
+        "num": 151911,
+        "word": "女子违停发现被交警老公贴罚单",
+        "onboard_time": 1682326407,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145679,
+        "num": 145679,
+        "word": "尹净汉MV镜头",
+        "onboard_time": 1682328929,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137831,
+        "num": 137831,
+        "word": "张艺兴我是市民不是市长",
+        "onboard_time": 1682307566,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134947,
+        "num": 134947,
+        "word": "第一批在苏中国公民已安全撤至邻国",
+        "onboard_time": 1682324550,
+        "rank": 46,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 128791,
+        "num": 128791,
+        "word": "王楚钦说德班世乒赛见",
+        "onboard_time": 1682326348,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120655,
+        "num": 120655,
+        "word": "B站千万粉丝UP主回应停更传言",
+        "onboard_time": 1682306306,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 87517,
+        "num": 120385,
+        "word": "玻尿酸原料内幕",
+        "onboard_time": 1682329586,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国星辰#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682328827531,
+  "endTime": 1682331515706,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -43,20 +43,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2365281,
+      "num": 1103236,
+      "word": "东南大学一领导被曝工作群发色情照",
+      "onboard_time": 1682326529,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2115993,
       "num": 2115993,
       "word": "新冠第二波",
       "onboard_time": 1682297310,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2052164,
-      "num": 1103236,
-      "word": "东南大学一领导被曝工作群发色情照",
-      "onboard_time": 1682326529,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1905935,
@@ -81,6 +81,14 @@
       "onboard_time": 1682316448,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1654066,
+      "num": 1654066,
+      "word": "我国实行周末双休制还不足30年",
+      "onboard_time": 1682328269,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1649363,
@@ -155,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1244911,
+      "num": 1244911,
+      "word": "没认出来陈乔恩",
+      "onboard_time": 1682320166,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1113051,
       "num": 1113051,
       "word": "SEVENTEEN回归",
@@ -171,12 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1053568,
-      "num": 1053568,
-      "word": "没认出来陈乔恩",
-      "onboard_time": 1682320166,
-      "rank": 30,
-      "category": "影视"
+      "raw_hot": 1042327,
+      "num": 1042327,
+      "word": "fuck my life",
+      "onboard_time": 1682330128,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 881492,
+      "num": 881492,
+      "word": "难听",
+      "onboard_time": 1682328211,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 846262,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485986,
+      "num": 485986,
+      "word": "树奈奈 伞皇",
+      "onboard_time": 1682328689,
+      "rank": 36,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 483705,
       "num": 483705,
       "word": "德国媒体漫画 印度人口超越中国",
@@ -507,14 +539,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 392936,
-      "num": 392936,
-      "word": "难听",
-      "onboard_time": 1682328211,
-      "rank": 15,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 389718,
       "num": 389718,
       "word": "调休上班你会比平时摸鱼吗",
@@ -529,6 +553,14 @@
       "onboard_time": 1682327427,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 377976,
+      "num": 377976,
+      "word": "流川枫 下睫毛",
+      "onboard_time": 1682330128,
+      "rank": 17,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 376823,
@@ -553,6 +585,14 @@
       "onboard_time": 1682308649,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355722,
+      "num": 355722,
+      "word": "昆明一奔驰当街撞飞多人",
+      "onboard_time": 1682328748,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353537,
@@ -585,6 +625,14 @@
       "onboard_time": 1682311296,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 333677,
+      "num": 1957677,
+      "word": "女生花4天为新婚姐姐绘制百喜图",
+      "onboard_time": 1682326167,
+      "rank": 19,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 329956,
@@ -651,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317264,
-      "num": 317264,
-      "word": "女生花4天为新婚姐姐绘制百喜图",
-      "onboard_time": 1682326167,
-      "rank": 19,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 314880,
       "num": 314880,
       "word": "在直播间买东西靠谱吗",
@@ -673,6 +713,22 @@
       "onboard_time": 1682297668,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314215,
+      "num": 314215,
+      "word": "KPL 回溯",
+      "onboard_time": 1682330725,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 313582,
+      "num": 313582,
+      "word": "TTG对战AG",
+      "onboard_time": 1682254409,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 313546,
@@ -697,6 +753,14 @@
       "onboard_time": 1682326348,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 295954,
+      "num": 295954,
+      "word": "经期千万别喝豆浆",
+      "onboard_time": 1682329950,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 292956,
@@ -729,6 +793,14 @@
       "onboard_time": 1682326647,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282045,
+      "num": 282045,
+      "word": "fml好听",
+      "onboard_time": 1682329227,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 280376,
@@ -777,6 +849,14 @@
       "onboard_time": 1682294848,
       "rank": 22,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 265080,
+      "num": 265080,
+      "word": "罗云熙白鹿握手安慰彼此",
+      "onboard_time": 1682328809,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 264299,
@@ -844,7 +924,7 @@
     },
     {
       "raw_hot": 251879,
-      "num": 1232796,
+      "num": 1775162,
       "word": "今天我们为何还要读书",
       "onboard_time": 1682319865,
       "rank": 2,
@@ -883,11 +963,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239053,
-      "num": 239053,
-      "word": "我国实行周末双休制还不足30年",
-      "onboard_time": 1682328269,
-      "rank": 29,
+      "raw_hot": 238788,
+      "num": 1422568,
+      "word": "浙江小学生看到罂粟报警",
+      "onboard_time": 1682329826,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1147,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189236,
+      "num": 189236,
+      "word": "全世界除了滔博都笑的很开心",
+      "onboard_time": 1682331447,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187245,
       "num": 187245,
       "word": "人生路不熟终极预告",
@@ -1273,14 +1361,6 @@
       "onboard_time": 1682262816,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168847,
-      "num": 168847,
-      "word": "树奈奈 伞皇",
-      "onboard_time": 1682328689,
-      "rank": 36,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 166351,
@@ -1419,6 +1499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145679,
+      "num": 145679,
+      "word": "尹净汉MV镜头",
+      "onboard_time": 1682328929,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144150,
       "num": 144150,
       "word": "谭维维把伴娘红包都给了刘昊然",
@@ -1449,14 +1537,6 @@
       "onboard_time": 1682296528,
       "rank": 38,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 136683,
-      "num": 136683,
-      "word": "罗云熙白鹿握手安慰彼此",
-      "onboard_time": 1682328809,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 135829,
@@ -1627,14 +1707,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 107228,
-      "num": 107228,
-      "word": "TTG对战AG",
-      "onboard_time": 1682254409,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 106481,
       "num": 67280,
       "word": "曼联首发",
@@ -1667,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102495,
+      "num": 1099252,
+      "word": "里面躺着英烈外面坐着英雄",
+      "onboard_time": 1682329826,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93447,
       "num": 93447,
       "word": "一人一句祝福中国航天",
@@ -1691,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 87517,
+      "num": 120385,
+      "word": "玻尿酸原料内幕",
+      "onboard_time": 1682329586,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86750,
       "num": 86750,
       "word": "双向情感障碍能做什么工作",
@@ -1700,7 +1788,7 @@
     },
     {
       "raw_hot": 84674,
-      "num": 110606,
+      "num": 421771,
       "word": "官方回应跨境电商被指责",
       "onboard_time": 1682327128,
       "rank": 49,
