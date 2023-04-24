@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/24 00:21:36 ~ 2023/04/25 04:18:04
+本榜单时间：2023/04/24 00:21:36 ~ 2023/04/25 04:33:52
 </p>
 </blockquote>
 <p>
@@ -1989,6 +1989,12 @@ ENHYPEN预告（热度：81256）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%92%A4%E7%A6%BB%E8%8B%8F%E4%B8%B9%E7%94%BB%E9%9D%A2%23" target="weibo">
+首批中国公民撤离苏丹画面（热度：30819）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%9C%A8%E5%95%86%E5%9C%BA%E8%B7%B3%E6%A5%BC%E7%A0%B8%E4%BC%A4%E5%A5%B3%E9%A1%BE%E5%AE%A2%23" target="weibo">
 警方回应男子在商场跳楼砸伤女顾客（热度：27379）
 </a>
@@ -2015,12 +2021,6 @@ SEVENTEEN孙悟空MV（热度：24845）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B4%96%E5%A4%A9%E4%B8%8B%E4%B8%8A%E6%BC%94%E7%99%BE%E7%B1%B3%E6%82%AC%E5%B4%96%E8%B5%B0%E7%A7%80%23" target="weibo">
 崖天下上演百米悬崖走秀（热度：15836）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%92%A4%E7%A6%BB%E8%8B%8F%E4%B8%B9%E7%94%BB%E9%9D%A2%23" target="weibo">
-首批中国公民撤离苏丹画面（热度：13642）
 </a>
 </li>
 

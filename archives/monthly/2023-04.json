@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682367484896,
+  "endTime": 1682368432031,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -56659,6 +56659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30819,
+      "num": 30819,
+      "word": "首批中国公民撤离苏丹画面",
+      "onboard_time": 1682367072,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 30725,
       "num": 468969,
       "word": "李诞还想跟罗永浩PK",
@@ -56945,14 +56953,6 @@
       "onboard_time": 1682068290,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13642,
-      "num": 13642,
-      "word": "首批中国公民撤离苏丹画面",
-      "onboard_time": 1682367072,
-      "rank": 46,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 12411,
