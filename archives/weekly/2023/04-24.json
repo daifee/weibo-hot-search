@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682357615695,
+  "endTime": 1682360506247,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -2451,6 +2451,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 109659,
+      "num": 109659,
+      "word": "能接受另一半帮异性挡酒吗",
+      "onboard_time": 1682356996,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108935,
       "num": 108935,
       "word": "电影长空之王",
@@ -2603,19 +2611,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47349,
-      "num": 49181,
-      "word": "能接受另一半帮异性挡酒吗",
-      "onboard_time": 1682356996,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43133,
       "num": 48080,
       "word": "半熟男女官宣没有周雨彤",
       "onboard_time": 1682242770,
       "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 34464,
+      "num": 34464,
+      "word": "翩然到下线都没换过新衣服",
+      "onboard_time": 1682359576,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -2633,6 +2641,14 @@
       "onboard_time": 1682272875,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20746,
+      "num": 28857,
+      "word": "猴子想吓人结果自己抻到筋",
+      "onboard_time": 1682357357,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 15836,

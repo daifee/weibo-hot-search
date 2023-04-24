@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682357615695,
+  "endTime": 1682360506247,
   "band_list": [
     {
       "raw_hot": 1242661,
@@ -379,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109659,
+      "num": 109659,
+      "word": "能接受另一半帮异性挡酒吗",
+      "onboard_time": 1682356996,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105872,
       "num": 105872,
       "word": "外交部回应英国外交大臣涉台不当言论",
@@ -427,20 +435,28 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 47349,
-      "num": 49181,
-      "word": "能接受另一半帮异性挡酒吗",
-      "onboard_time": 1682356996,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 38171,
       "num": 492865,
       "word": "广交会展览规模再创历史新高",
       "onboard_time": 1682341230,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34464,
+      "num": 34464,
+      "word": "翩然到下线都没换过新衣服",
+      "onboard_time": 1682359576,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 20746,
+      "num": 28857,
+      "word": "猴子想吓人结果自己抻到筋",
+      "onboard_time": 1682357357,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
