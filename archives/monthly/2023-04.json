@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682332444989,
+  "endTime": 1682334890424,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1427,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2201717,
+      "num": 2201717,
+      "word": "我国实行周末双休制还不足30年",
+      "onboard_time": 1682328269,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2188997,
       "num": 2188997,
       "word": "中法联合声明全文",
@@ -2331,14 +2339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1779239,
-      "num": 1779239,
-      "word": "我国实行周末双休制还不足30年",
-      "onboard_time": 1682328269,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1777717,
       "num": 1777717,
       "word": "迪丽热巴狼尾造型",
@@ -2633,6 +2633,14 @@
       "onboard_time": 1682155526,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1665280,
+      "num": 1042327,
+      "word": "fuck my life",
+      "onboard_time": 1682330128,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1664469,
@@ -3129,14 +3137,6 @@
       "onboard_time": 1681658188,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1536958,
-      "num": 1042327,
-      "word": "fuck my life",
-      "onboard_time": 1682330128,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1536049,
@@ -4257,6 +4257,14 @@
       "onboard_time": 1680329550,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1238110,
+      "num": 1238110,
+      "word": "经期千万别喝豆浆",
+      "onboard_time": 1682329950,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 1229566,
@@ -7993,6 +8001,14 @@
       "onboard_time": 1681608147,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766170,
+      "num": 766170,
+      "word": "王者荣耀 妲己",
+      "onboard_time": 1682331866,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 762724,
@@ -13899,6 +13915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496704,
+      "num": 496704,
+      "word": "SEVENTEEN空降",
+      "onboard_time": 1682334388,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 496562,
       "num": 253270,
       "word": "毛不易不理解周雨彤的时尚",
@@ -16851,6 +16875,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 421209,
+      "num": 421209,
+      "word": "成都一烧烤店每桌15燃气费",
+      "onboard_time": 1682332467,
+      "rank": 12,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 420850,
       "num": 420850,
       "word": "张柏芝路透状态",
@@ -17427,14 +17459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411852,
-      "num": 411852,
-      "word": "经期千万别喝豆浆",
-      "onboard_time": 1682329950,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 411548,
       "num": 411548,
       "word": "肖战做美式咖啡",
@@ -17449,6 +17473,14 @@
       "onboard_time": 1682239888,
       "rank": 27,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 411117,
+      "num": 411117,
+      "word": "流川枫 下睫毛",
+      "onboard_time": 1682330128,
+      "rank": 17,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 410861,
@@ -18139,14 +18171,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 397253,
-      "num": 397253,
-      "word": "流川枫 下睫毛",
-      "onboard_time": 1682330128,
-      "rank": 17,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 397235,
       "num": 397235,
       "word": "灌篮高手口碑",
@@ -18683,6 +18707,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 387557,
+      "num": 387557,
+      "word": "刘涛怎么这么扛老",
+      "onboard_time": 1682333547,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 387306,
       "num": 387306,
       "word": "众星悼念坂本龙一",
@@ -18713,6 +18745,14 @@
       "onboard_time": 1680583234,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386287,
+      "num": 1483397,
+      "word": "浙江小学生看到罂粟报警",
+      "onboard_time": 1682329826,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386276,
@@ -19233,6 +19273,14 @@
       "onboard_time": 1681993768,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 374254,
+      "num": 312621,
+      "word": "六点半和九点半下班的区别",
+      "onboard_time": 1682332049,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 374043,
@@ -22571,6 +22619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317490,
+      "num": 317490,
+      "word": "东南大学发色情照领导简历已撤下",
+      "onboard_time": 1682334087,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 317480,
       "num": 317480,
       "word": "中国电影大数据盛典",
@@ -22777,6 +22833,14 @@
       "onboard_time": 1682175634,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314176,
+      "num": 314176,
+      "word": "欢乐颂还有第五季",
+      "onboard_time": 1682332528,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 314070,
@@ -23009,6 +23073,14 @@
       "onboard_time": 1681362631,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310349,
+      "num": 310349,
+      "word": "全世界除了滔搏都笑的很开心",
+      "onboard_time": 1682331447,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 310061,
@@ -24553,14 +24625,6 @@
       "onboard_time": 1681461091,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 288107,
-      "num": 1462207,
-      "word": "浙江小学生看到罂粟报警",
-      "onboard_time": 1682329826,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287894,
@@ -26275,6 +26339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265379,
+      "num": 265379,
+      "word": "罗云熙白鹿握手安慰彼此",
+      "onboard_time": 1682328809,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 265350,
       "num": 265350,
       "word": "姜涛曾参加快乐男声",
@@ -26288,14 +26360,6 @@
       "word": "白鹿武戏没做满意哭了",
       "onboard_time": 1681130126,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 265080,
-      "num": 265080,
-      "word": "罗云熙白鹿握手安慰彼此",
-      "onboard_time": 1682328809,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -27929,6 +27993,14 @@
       "onboard_time": 1682217806,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247306,
+      "num": 247306,
+      "word": "欢乐颂5",
+      "onboard_time": 1682334269,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 247178,
@@ -30443,14 +30515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 224780,
-      "num": 224780,
-      "word": "王者荣耀 妲己",
-      "onboard_time": 1682331866,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 224746,
       "num": 220889,
       "word": "RNG",
@@ -31507,6 +31571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217004,
+      "num": 217004,
+      "word": "TES发博告别春季赛",
+      "onboard_time": 1682334748,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216924,
       "num": 216924,
       "word": "爱德华兹9分",
@@ -31753,6 +31825,14 @@
       "onboard_time": 1681650205,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214954,
+      "num": 214954,
+      "word": "翩然下线",
+      "onboard_time": 1682334388,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 214938,
@@ -32577,14 +32657,6 @@
       "onboard_time": 1680672511,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209432,
-      "num": 209432,
-      "word": "六点半和九点半下班的区别",
-      "onboard_time": 1682332049,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 209379,
@@ -33881,6 +33953,14 @@
       "onboard_time": 1680513150,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204853,
+      "num": 204853,
+      "word": "王嘉尔新歌CheetahMV",
+      "onboard_time": 1682333668,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 204838,
@@ -37707,6 +37787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193594,
+      "num": 193594,
+      "word": "苏沫脱粉回踩是吧",
+      "onboard_time": 1682333068,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193572,
       "num": 190744,
       "word": "北京长峰医院",
@@ -41467,6 +41555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178520,
+      "num": 178520,
+      "word": "金珉奎无袖造型",
+      "onboard_time": 1682334627,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178500,
       "num": 210030,
       "word": "重庆狼队",
@@ -42137,6 +42233,14 @@
       "onboard_time": 1682309129,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173352,
+      "num": 173352,
+      "word": "fire",
+      "onboard_time": 1682333668,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 173232,
@@ -43955,6 +44059,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 163650,
+      "num": 1099252,
+      "word": "里面躺着英烈外面坐着英雄",
+      "onboard_time": 1682329826,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163592,
       "num": 163592,
       "word": "云南泼水节选错装备的后果",
@@ -44889,6 +45001,14 @@
       "onboard_time": 1680995357,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158625,
+      "num": 158625,
+      "word": "离职之后被领导暖到了",
+      "onboard_time": 1682333128,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 158620,
@@ -47425,14 +47545,6 @@
       "onboard_time": 1681372528,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 144389,
-      "num": 1099252,
-      "word": "里面躺着英烈外面坐着英雄",
-      "onboard_time": 1682329826,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144279,
@@ -55521,6 +55633,14 @@
       "onboard_time": 1680468310,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46371,
+      "num": 411129,
+      "word": "海澜之家火箭",
+      "onboard_time": 1682334507,
+      "rank": 14,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 46159,

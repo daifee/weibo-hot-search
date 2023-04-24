@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682332444989,
+  "endTime": 1682334890424,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -51,6 +51,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2201717,
+      "num": 2201717,
+      "word": "我国实行周末双休制还不足30年",
+      "onboard_time": 1682328269,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2115993,
       "num": 2115993,
       "word": "新冠第二波",
@@ -67,14 +75,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1779239,
-      "num": 1779239,
-      "word": "我国实行周末双休制还不足30年",
-      "onboard_time": 1682328269,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1713976,
       "num": 916593,
       "word": "疑戴3万元耳钉女副局长露面",
@@ -89,6 +89,14 @@
       "onboard_time": 1682316448,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1665280,
+      "num": 1042327,
+      "word": "fuck my life",
+      "onboard_time": 1682330128,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1649363,
@@ -113,14 +121,6 @@
       "onboard_time": 1682316686,
       "rank": 14,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1536958,
-      "num": 1042327,
-      "word": "fuck my life",
-      "onboard_time": 1682330128,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1496546,
@@ -179,6 +179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1238110,
+      "num": 1238110,
+      "word": "经期千万别喝豆浆",
+      "onboard_time": 1682329950,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1113051,
       "num": 1113051,
       "word": "SEVENTEEN回归",
@@ -233,6 +241,14 @@
       "onboard_time": 1682308769,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 766170,
+      "num": 766170,
+      "word": "王者荣耀 妲己",
+      "onboard_time": 1682331866,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 756103,
@@ -361,6 +377,14 @@
       "onboard_time": 1682261379,
       "rank": 6,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 496704,
+      "num": 496704,
+      "word": "SEVENTEEN空降",
+      "onboard_time": 1682334388,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 494412,
@@ -523,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 421209,
+      "num": 421209,
+      "word": "成都一烧烤店每桌15燃气费",
+      "onboard_time": 1682332467,
+      "rank": 12,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 414973,
       "num": 414973,
       "word": "宋智孝将与经纪公司解约",
@@ -531,12 +563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411852,
-      "num": 411852,
-      "word": "经期千万别喝豆浆",
-      "onboard_time": 1682329950,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 411117,
+      "num": 411117,
+      "word": "流川枫 下睫毛",
+      "onboard_time": 1682330128,
+      "rank": 17,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 403173,
@@ -555,19 +587,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397253,
-      "num": 397253,
-      "word": "流川枫 下睫毛",
-      "onboard_time": 1682330128,
-      "rank": 17,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 389718,
       "num": 389718,
       "word": "调休上班你会比平时摸鱼吗",
       "onboard_time": 1682323886,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387557,
+      "num": 387557,
+      "word": "刘涛怎么这么扛老",
+      "onboard_time": 1682333547,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386287,
+      "num": 1483397,
+      "word": "浙江小学生看到罂粟报警",
+      "onboard_time": 1682329826,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -593,6 +633,14 @@
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 374254,
+      "num": 312621,
+      "word": "六点半和九点半下班的区别",
+      "onboard_time": 1682332049,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 358726,
@@ -723,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317490,
+      "num": 317490,
+      "word": "东南大学发色情照领导简历已撤下",
+      "onboard_time": 1682334087,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 314880,
       "num": 314880,
       "word": "在直播间买东西靠谱吗",
@@ -739,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314176,
+      "num": 314176,
+      "word": "欢乐颂还有第五季",
+      "onboard_time": 1682332528,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313582,
       "num": 313582,
       "word": "TTG对战AG",
@@ -753,6 +817,14 @@
       "onboard_time": 1682306007,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 310349,
+      "num": 310349,
+      "word": "全世界除了滔搏都笑的很开心",
+      "onboard_time": 1682331447,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 303450,
@@ -793,14 +865,6 @@
       "onboard_time": 1682260598,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288107,
-      "num": 1462207,
-      "word": "浙江小学生看到罂粟报警",
-      "onboard_time": 1682329826,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284939,
@@ -867,8 +931,8 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 265080,
-      "num": 265080,
+      "raw_hot": 265379,
+      "num": 265379,
       "word": "罗云熙白鹿握手安慰彼此",
       "onboard_time": 1682328809,
       "rank": 41,
@@ -963,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 247306,
+      "num": 247306,
+      "word": "欢乐颂5",
+      "onboard_time": 1682334269,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246548,
       "num": 246548,
       "word": "时代少年团或将出演英雄联盟",
@@ -1009,14 +1081,6 @@
       "onboard_time": 1682332109,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 224780,
-      "num": 224780,
-      "word": "王者荣耀 妲己",
-      "onboard_time": 1682331866,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 223328,
@@ -1083,11 +1147,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217004,
+      "num": 217004,
+      "word": "TES发博告别春季赛",
+      "onboard_time": 1682334748,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216062,
       "num": 216062,
       "word": "武庚纪",
       "onboard_time": 1682320047,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 214954,
+      "num": 214954,
+      "word": "翩然下线",
+      "onboard_time": 1682334388,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -1105,14 +1185,6 @@
       "onboard_time": 1682264135,
       "rank": 25,
       "category": "网红,情感"
-    },
-    {
-      "raw_hot": 209432,
-      "num": 209432,
-      "word": "六点半和九点半下班的区别",
-      "onboard_time": 1682332049,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 206641,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1682313569,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204853,
+      "num": 204853,
+      "word": "王嘉尔新歌CheetahMV",
+      "onboard_time": 1682333668,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 204808,
@@ -1219,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193594,
+      "num": 193594,
+      "word": "苏沫脱粉回踩是吧",
+      "onboard_time": 1682333068,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193337,
       "num": 193337,
       "word": "逆水寒手游测试资格",
@@ -1265,6 +1353,14 @@
       "onboard_time": 1682248589,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189857,
+      "num": 189857,
+      "word": "kms",
+      "onboard_time": 1682334207,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189259,
@@ -1347,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178520,
+      "num": 178520,
+      "word": "金珉奎无袖造型",
+      "onboard_time": 1682334627,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 178411,
       "num": 178411,
       "word": "天赐的声音4官宣",
@@ -1369,6 +1473,14 @@
       "onboard_time": 1682309129,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 173352,
+      "num": 173352,
+      "word": "fire",
+      "onboard_time": 1682333668,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 172297,
@@ -1435,6 +1547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 163650,
+      "num": 1099252,
+      "word": "里面躺着英烈外面坐着英雄",
+      "onboard_time": 1682329826,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163317,
       "num": 163317,
       "word": "你有超过10年以上的友情吗",
@@ -1467,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158625,
+      "num": 158625,
+      "word": "离职之后被领导暖到了",
+      "onboard_time": 1682333128,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158577,
       "num": 158577,
       "word": "声生不息宝岛季改档",
@@ -1497,6 +1625,14 @@
       "onboard_time": 1682313151,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151544,
+      "num": 151544,
+      "word": "战火中的青春",
+      "onboard_time": 1682333849,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 148468,
@@ -1545,14 +1681,6 @@
       "onboard_time": 1682328929,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 144389,
-      "num": 1099252,
-      "word": "里面躺着英烈外面坐着英雄",
-      "onboard_time": 1682329826,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144150,
@@ -1881,6 +2009,14 @@
       "onboard_time": 1682267663,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46371,
+      "num": 411129,
+      "word": "海澜之家火箭",
+      "onboard_time": 1682334507,
+      "rank": 14,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 43133,

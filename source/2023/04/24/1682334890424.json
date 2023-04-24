@@ -1,0 +1,410 @@
+{
+  "runTime": 1682334890424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2201717,
+        "num": 2201717,
+        "word": "我国实行周末双休制还不足30年",
+        "onboard_time": 1682328269,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386287,
+        "num": 1483397,
+        "word": "浙江小学生看到罂粟报警",
+        "onboard_time": 1682329826,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87961,
+        "num": 1280203,
+        "word": "今天我们为何还要读书",
+        "onboard_time": 1682319865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263460,
+        "num": 1263460,
+        "word": "上午离职下午收到offer",
+        "onboard_time": 1682324247,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185051,
+        "num": 1246852,
+        "word": "女生花4天为新婚姐姐绘制百喜图",
+        "onboard_time": 1682326167,
+        "rank": 4,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1238110,
+        "num": 1238110,
+        "word": "经期千万别喝豆浆",
+        "onboard_time": 1682329950,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163650,
+        "num": 1014145,
+        "word": "里面躺着英烈外面坐着英雄",
+        "onboard_time": 1682329826,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816027,
+        "num": 816027,
+        "word": "没认出来陈乔恩",
+        "onboard_time": 1682320166,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 766170,
+        "num": 766170,
+        "word": "王者荣耀 妲己",
+        "onboard_time": 1682331866,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 710343,
+        "num": 710343,
+        "word": "李佳琦刘畊宏等5位主播被点名",
+        "onboard_time": 1682312011,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1962488,
+        "num": 673192,
+        "word": "东南大学一领导被曝工作群发色情照",
+        "onboard_time": 1682326529,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 496704,
+        "num": 496704,
+        "word": "SEVENTEEN空降",
+        "onboard_time": 1682334388,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 421209,
+        "num": 421209,
+        "word": "成都一烧烤店每桌15燃气费",
+        "onboard_time": 1682332467,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 411556,
+        "num": 411556,
+        "word": "难听",
+        "onboard_time": 1682328211,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46371,
+        "num": 411129,
+        "word": "海澜之家火箭",
+        "onboard_time": 1682334507,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 411117,
+        "num": 411117,
+        "word": "流川枫 下睫毛",
+        "onboard_time": 1682330128,
+        "rank": 15,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 387557,
+        "num": 387557,
+        "word": "刘涛怎么这么扛老",
+        "onboard_time": 1682333547,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342718,
+        "num": 342718,
+        "word": "昆明一奔驰当街撞飞多人",
+        "onboard_time": 1682328748,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317490,
+        "num": 317490,
+        "word": "东南大学发色情照领导简历已撤下",
+        "onboard_time": 1682334087,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 314176,
+        "num": 314176,
+        "word": "欢乐颂还有第五季",
+        "onboard_time": 1682332528,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1665280,
+        "num": 313596,
+        "word": "fuck my life",
+        "onboard_time": 1682330128,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 374254,
+        "num": 312621,
+        "word": "六点半和九点半下班的区别",
+        "onboard_time": 1682332049,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310349,
+        "num": 310349,
+        "word": "全世界除了滔搏都笑的很开心",
+        "onboard_time": 1682331447,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 289846,
+        "num": 289846,
+        "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+        "onboard_time": 1682316448,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265379,
+        "num": 265379,
+        "word": "罗云熙白鹿握手安慰彼此",
+        "onboard_time": 1682328809,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264879,
+        "num": 264879,
+        "word": "树奈奈 伞皇",
+        "onboard_time": 1682328689,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 247306,
+        "num": 247306,
+        "word": "欢乐颂5",
+        "onboard_time": 1682334269,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241495,
+        "num": 241495,
+        "word": "钟汉良空降婚礼现场唱宠爱",
+        "onboard_time": 1682327008,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227845,
+        "num": 227845,
+        "word": "上海一财务把公司偷得只剩20块",
+        "onboard_time": 1682316686,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 220087,
+        "num": 220087,
+        "word": "为什么不能公开说自己去旅游",
+        "onboard_time": 1682326348,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217004,
+        "num": 217004,
+        "word": "TES发博告别春季赛",
+        "onboard_time": 1682334748,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214954,
+        "num": 214954,
+        "word": "翩然下线",
+        "onboard_time": 1682334388,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204853,
+        "num": 204853,
+        "word": "王嘉尔新歌CheetahMV",
+        "onboard_time": 1682333668,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193594,
+        "num": 193594,
+        "word": "苏沫脱粉回踩是吧",
+        "onboard_time": 1682333068,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190282,
+        "num": 190282,
+        "word": "KPL 回溯",
+        "onboard_time": 1682330725,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189857,
+        "num": 189857,
+        "word": "kms",
+        "onboard_time": 1682334207,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179535,
+        "num": 179535,
+        "word": "广州商铺发现尸体是一流浪汉",
+        "onboard_time": 1682309731,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178605,
+        "num": 178605,
+        "word": "HYBE 这和舞蹈版MV有什么区别",
+        "onboard_time": 1682328090,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178520,
+        "num": 178520,
+        "word": "金珉奎无袖造型",
+        "onboard_time": 1682334627,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173352,
+        "num": 173352,
+        "word": "fire",
+        "onboard_time": 1682333668,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165237,
+        "num": 165237,
+        "word": "毛晓彤曾演过陈晓奶奶",
+        "onboard_time": 1682326288,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158625,
+        "num": 158625,
+        "word": "离职之后被领导暖到了",
+        "onboard_time": 1682333128,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153869,
+        "num": 153869,
+        "word": "原来傻妞是澹台烬做的",
+        "onboard_time": 1682322808,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152321,
+        "num": 152321,
+        "word": "东南大学纪委回应一领导发色情照",
+        "onboard_time": 1682327427,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 151544,
+        "num": 151544,
+        "word": "战火中的青春",
+        "onboard_time": 1682333849,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137179,
+        "num": 137179,
+        "word": "番禺母婴店发现尸体警方排除他杀",
+        "onboard_time": 1682321966,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130220,
+        "num": 130220,
+        "word": "德国媒体漫画 印度人口超越中国",
+        "onboard_time": 1682323768,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130099,
+        "num": 130099,
+        "word": "GQ印错易烊千玺名字",
+        "onboard_time": 1682317588,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 127551,
+        "num": 127551,
+        "word": "新冠第二波",
+        "onboard_time": 1682297310,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122339,
+        "num": 122339,
+        "word": "王鹤棣新剧旁白是东方青苍",
+        "onboard_time": 1682321367,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天叩问苍穹#"
+    }
+  }
+}
