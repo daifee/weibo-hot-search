@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682368432031,
+  "endTime": 1682370921649,
   "band_list": [
     {
       "raw_hot": 1242661,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79785,
+      "num": 79785,
+      "word": "首批中国公民撤离苏丹画面",
+      "onboard_time": 1682367072,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 59458,
       "num": 59458,
       "word": "要被何悯鸿气死",
@@ -433,6 +441,14 @@
       "onboard_time": 1682328689,
       "rank": 49,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 43719,
+      "num": 43719,
+      "word": "新冠",
+      "onboard_time": 1682368750,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38947,
@@ -459,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 30819,
-      "num": 30819,
-      "word": "首批中国公民撤离苏丹画面",
-      "onboard_time": 1682367072,
-      "rank": 46,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 24845,
       "num": 24845,
       "word": "SEVENTEEN孙悟空MV",
@@ -481,6 +489,22 @@
       "onboard_time": 1682357357,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11859,
+      "num": 14077,
+      "word": "五一出行会加速新冠二次感染吗",
+      "onboard_time": 1682370731,
+      "rank": 47,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 10852,
+      "num": 14055,
+      "word": "女孩帮爸爸做翻译对接外国客户",
+      "onboard_time": 1682370312,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
