@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682350406318,
+  "endTime": 1682353374668,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 973128,
+      "num": 973128,
+      "word": "gap day",
+      "onboard_time": 1682350587,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 925221,
       "num": 925221,
       "word": "文秀雅给文彬的留言",
@@ -379,8 +387,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 632764,
-      "num": 632764,
+      "raw_hot": 658002,
+      "num": 658002,
       "word": "罗云熙演技",
       "onboard_time": 1682338948,
       "rank": 19,
@@ -465,6 +473,14 @@
       "onboard_time": 1682304506,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 510112,
+      "num": 237120,
+      "word": "安徽一算命网红3年非法盈利200多万",
+      "onboard_time": 1682349989,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 509441,
@@ -633,6 +649,14 @@
       "onboard_time": 1682310994,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461289,
+      "num": 461289,
+      "word": "白玉兰网剧入围名单",
+      "onboard_time": 1682348970,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 458688,
@@ -835,14 +859,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 378464,
-      "num": 378464,
-      "word": "白玉兰网剧入围名单",
-      "onboard_time": 1682348970,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 376823,
       "num": 376823,
       "word": "老师上课被学生从背后扇并挑衅",
@@ -953,6 +969,14 @@
       "onboard_time": 1682309310,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 328022,
+      "num": 328022,
+      "word": "爱奇艺 灌篮高手",
+      "onboard_time": 1682349448,
+      "rank": 45,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 324416,
@@ -1211,14 +1235,6 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 265486,
-      "num": 265486,
-      "word": "爱奇艺 灌篮高手",
-      "onboard_time": 1682349448,
-      "rank": 45,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 265379,
       "num": 265379,
       "word": "罗云熙白鹿握手安慰彼此",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1682261317,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253491,
+      "num": 225550,
+      "word": "秦昊说骗你把我从山上推下去",
+      "onboard_time": 1682350169,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 253082,
@@ -1547,6 +1571,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 207504,
+      "num": 207504,
+      "word": "赵今麦 兰蔻",
+      "onboard_time": 1682350107,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206641,
       "num": 206641,
       "word": "郁可唯演唱会官宣",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1682267243,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185859,
+      "num": 185859,
+      "word": "gidle预告",
+      "onboard_time": 1682350587,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 185131,
@@ -2123,14 +2163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146531,
-      "num": 137093,
-      "word": "秦昊说骗你把我从山上推下去",
-      "onboard_time": 1682350169,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 146359,
       "num": 146359,
       "word": "权顺荣part",
@@ -2163,6 +2195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145507,
+      "num": 145507,
+      "word": "佛主跟着我受委屈了",
+      "onboard_time": 1682351726,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144150,
       "num": 144150,
       "word": "谭维维把伴娘红包都给了刘昊然",
@@ -2185,14 +2225,6 @@
       "onboard_time": 1682309250,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140554,
-      "num": 136936,
-      "word": "赵今麦 兰蔻",
-      "onboard_time": 1682350107,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 140397,
@@ -2313,6 +2345,14 @@
       "onboard_time": 1682303007,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 122879,
+      "num": 186558,
+      "word": "她带领团队打破国产计算机无芯可用困局",
+      "onboard_time": 1682351065,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 122874,
@@ -2449,14 +2489,6 @@
       "onboard_time": 1682251951,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103093,
-      "num": 124109,
-      "word": "安徽一算命网红3年非法盈利200多万",
-      "onboard_time": 1682349989,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 93447,

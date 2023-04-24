@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682350406318,
+  "endTime": 1682353374668,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -5811,6 +5811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 973128,
+      "num": 973128,
+      "word": "gap day",
+      "onboard_time": 1682350587,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 972634,
       "num": 529410,
       "word": "罗云熙的身高",
@@ -10003,6 +10011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 658002,
+      "num": 658002,
+      "word": "罗云熙演技",
+      "onboard_time": 1682338948,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 657989,
       "num": 657989,
       "word": "网红悬崖试胆石被砸断",
@@ -10497,14 +10513,6 @@
       "onboard_time": 1680607353,
       "rank": 23,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 632764,
-      "num": 632764,
-      "word": "罗云熙演技",
-      "onboard_time": 1682338948,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 632613,
@@ -13643,6 +13651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510112,
+      "num": 237120,
+      "word": "安徽一算命网红3年非法盈利200多万",
+      "onboard_time": 1682349989,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 509876,
       "num": 509876,
       "word": "狄龙攻击詹姆斯裆部",
@@ -15361,6 +15377,14 @@
       "onboard_time": 1681000946,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461289,
+      "num": 461289,
+      "word": "白玉兰网剧入围名单",
+      "onboard_time": 1682348970,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 460963,
@@ -19347,14 +19371,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 378464,
-      "num": 378464,
-      "word": "白玉兰网剧入围名单",
-      "onboard_time": 1682348970,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 378160,
       "num": 277281,
       "word": "没有工作后房东比我还着急",
@@ -22145,6 +22161,14 @@
       "onboard_time": 1680841172,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 328022,
+      "num": 328022,
+      "word": "爱奇艺 灌篮高手",
+      "onboard_time": 1682349448,
+      "rank": 45,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 327996,
@@ -26611,14 +26635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 265486,
-      "num": 265486,
-      "word": "爱奇艺 灌篮高手",
-      "onboard_time": 1682349448,
-      "rank": 45,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 265379,
       "num": 265379,
       "word": "罗云熙白鹿握手安慰彼此",
@@ -27689,6 +27705,14 @@
       "onboard_time": 1681113867,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 253491,
+      "num": 225550,
+      "word": "秦昊说骗你把我从山上推下去",
+      "onboard_time": 1682350169,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 253452,
@@ -33473,6 +33497,14 @@
       "onboard_time": 1680847528,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207504,
+      "num": 207504,
+      "word": "赵今麦 兰蔻",
+      "onboard_time": 1682350107,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207468,
@@ -40465,6 +40497,14 @@
       "onboard_time": 1681552825,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185859,
+      "num": 185859,
+      "word": "gidle预告",
+      "onboard_time": 1682350587,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 185794,
@@ -47619,14 +47659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146531,
-      "num": 137093,
-      "word": "秦昊说骗你把我从山上推下去",
-      "onboard_time": 1682350169,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 146477,
       "num": 146477,
       "word": "章昊连续两次公演第一",
@@ -47825,6 +47857,14 @@
       "onboard_time": 1680348990,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145507,
+      "num": 145507,
+      "word": "佛主跟着我受委屈了",
+      "onboard_time": 1682351726,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 145424,
@@ -48641,14 +48681,6 @@
       "onboard_time": 1681968450,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140554,
-      "num": 136936,
-      "word": "赵今麦 兰蔻",
-      "onboard_time": 1682350107,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 140512,
@@ -51347,6 +51379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122879,
+      "num": 186558,
+      "word": "她带领团队打破国产计算机无芯可用困局",
+      "onboard_time": 1682351065,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 122835,
       "num": 122835,
       "word": "当狗狗和好朋友开视频时",
@@ -53473,14 +53513,6 @@
       "onboard_time": 1682154929,
       "rank": 45,
       "category": "科技,动漫"
-    },
-    {
-      "raw_hot": 103093,
-      "num": 124109,
-      "word": "安徽一算命网红3年非法盈利200多万",
-      "onboard_time": 1682349989,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 102944,
