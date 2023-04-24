@@ -1,7 +1,15 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682341208172,
+  "endTime": 1682342475301,
   "band_list": [
+    {
+      "raw_hot": 3719294,
+      "num": 2958773,
+      "word": "我国法定假日从7天增至11天",
+      "onboard_time": 1682337266,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3550714,
       "num": 3550714,
@@ -9,14 +17,6 @@
       "onboard_time": 1682257595,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2958773,
-      "num": 2958773,
-      "word": "我国法定假日从7天增至11天",
-      "onboard_time": 1682337266,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2910269,
@@ -121,6 +121,14 @@
       "onboard_time": 1682307566,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1627450,
+      "num": 354013,
+      "word": "何猷君 科切拉",
+      "onboard_time": 1682340868,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 1599271,
@@ -243,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 820852,
+      "num": 820852,
+      "word": "给女儿准备三万本书当书房",
+      "onboard_time": 1682339611,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 801619,
       "num": 801619,
       "word": "看不懂长月烬明了",
@@ -323,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 616383,
+      "num": 616383,
+      "word": "长月烬明豆瓣降至6.1分",
+      "onboard_time": 1682340389,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606507,
       "num": 606507,
       "word": "GQ印错易烊千玺名字",
@@ -393,14 +417,6 @@
       "onboard_time": 1682304506,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 525488,
-      "num": 525488,
-      "word": "给女儿准备三万本书当书房",
-      "onboard_time": 1682339611,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 509441,
@@ -564,7 +580,7 @@
     },
     {
       "raw_hot": 456041,
-      "num": 295363,
+      "num": 296372,
       "word": "离职三天后同事发的微信",
       "onboard_time": 1682337149,
       "rank": 30,
@@ -577,6 +593,14 @@
       "onboard_time": 1682307268,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446856,
+      "num": 446856,
+      "word": "斗破苍穹 美杜莎",
+      "onboard_time": 1682340450,
+      "rank": 18,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 441322,
@@ -779,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340818,
+      "num": 340818,
+      "word": "林心如和女儿视频通话",
+      "onboard_time": 1682338709,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338810,
       "num": 330421,
       "word": "老师你别太懂了",
@@ -915,14 +947,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 313488,
-      "num": 313488,
-      "word": "斗破苍穹 美杜莎",
-      "onboard_time": 1682340450,
-      "rank": 18,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 310349,
       "num": 310349,
       "word": "全世界除了滔搏都笑的很开心",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1682308708,
       "rank": 23,
       "category": "游戏,社会新闻"
-    },
-    {
-      "raw_hot": 275383,
-      "num": 219816,
-      "word": "何猷君 科切拉",
-      "onboard_time": 1682340868,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 274625,
@@ -1187,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243936,
-      "num": 243936,
-      "word": "林心如和女儿视频通话",
-      "onboard_time": 1682338709,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242952,
       "num": 242952,
       "word": "五一假期在1999年之前也只有一天",
@@ -1315,12 +1323,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220604,
-      "num": 220604,
-      "word": "长月烬明豆瓣降至6.1分",
-      "onboard_time": 1682340389,
-      "rank": 29,
-      "category": "影视"
+      "raw_hot": 218541,
+      "num": 218541,
+      "word": "18岁女孩双腿肌肉突发溶解面临截肢",
+      "onboard_time": 1682341891,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217837,
@@ -1433,6 +1441,14 @@
       "onboard_time": 1682321427,
       "rank": 47,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 202356,
+      "num": 202356,
+      "word": "中国一女游客在泰国遭绑架后逃脱",
+      "onboard_time": 1682341770,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202270,
@@ -1577,6 +1593,14 @@
       "onboard_time": 1682331809,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188288,
+      "num": 173302,
+      "word": "翩然美甲掉了一个",
+      "onboard_time": 1682341830,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 187245,
@@ -1793,6 +1817,14 @@
       "onboard_time": 1682301867,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163012,
+      "num": 163012,
+      "word": "李灿金发染得很对",
+      "onboard_time": 1682341530,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160956,
@@ -2083,6 +2115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121970,
+      "num": 121970,
+      "word": "追星星的人",
+      "onboard_time": 1682342251,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121066,
       "num": 121066,
       "word": "小县城的生活能有多安逸",
@@ -2297,6 +2337,14 @@
       "onboard_time": 1682242770,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 39324,
+      "num": 717143,
+      "word": "广交会展览规模再创历史新高",
+      "onboard_time": 1682341230,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27379,

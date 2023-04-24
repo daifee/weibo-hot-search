@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682341208172,
+  "endTime": 1682342475301,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3719294,
+      "num": 2958773,
+      "word": "我国法定假日从7天增至11天",
+      "onboard_time": 1682337266,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3614386,
       "num": 3614386,
       "word": "宝马mini道歉",
@@ -585,14 +593,6 @@
       "onboard_time": 1681827694,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2958773,
-      "num": 2958773,
-      "word": "我国法定假日从7天增至11天",
-      "onboard_time": 1682337266,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2957165,
@@ -2809,6 +2809,14 @@
       "onboard_time": 1680835166,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1627450,
+      "num": 354013,
+      "word": "何猷君 科切拉",
+      "onboard_time": 1682340868,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 1623765,
@@ -7427,6 +7435,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 820852,
+      "num": 820852,
+      "word": "给女儿准备三万本书当书房",
+      "onboard_time": 1682339611,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 820474,
       "num": 515985,
       "word": "白鹿影视资源",
@@ -10803,6 +10819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 616383,
+      "num": 616383,
+      "word": "长月烬明豆瓣降至6.1分",
+      "onboard_time": 1682340389,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 615977,
       "num": 256684,
       "word": "为什么肝癌通常一发现就是晚期",
@@ -13161,14 +13185,6 @@
       "onboard_time": 1680335069,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 525488,
-      "num": 525488,
-      "word": "给女儿准备三万本书当书房",
-      "onboard_time": 1682339611,
-      "rank": 47,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 525324,
@@ -15540,7 +15556,7 @@
     },
     {
       "raw_hot": 456041,
-      "num": 295363,
+      "num": 296372,
       "word": "离职三天后同事发的微信",
       "onboard_time": 1682337149,
       "rank": 30,
@@ -15945,6 +15961,14 @@
       "onboard_time": 1681260207,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 446856,
+      "num": 446856,
+      "word": "斗破苍穹 美杜莎",
+      "onboard_time": 1682340450,
+      "rank": 18,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 446824,
@@ -21267,6 +21291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340818,
+      "num": 340818,
+      "word": "林心如和女儿视频通话",
+      "onboard_time": 1682338709,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340790,
       "num": 340790,
       "word": "灰原哀内心独白",
@@ -23001,14 +23033,6 @@
       "onboard_time": 1681204166,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313488,
-      "num": 313488,
-      "word": "斗破苍穹 美杜莎",
-      "onboard_time": 1682340450,
-      "rank": 18,
-      "category": "动漫,影视"
     },
     {
       "raw_hot": 313404,
@@ -25697,14 +25721,6 @@
       "onboard_time": 1682084733,
       "rank": 33,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 275383,
-      "num": 219816,
-      "word": "何猷君 科切拉",
-      "onboard_time": 1682340868,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 275061,
@@ -28491,14 +28507,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 243936,
-      "num": 243936,
-      "word": "林心如和女儿视频通话",
-      "onboard_time": 1682338709,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243856,
       "num": 243856,
       "word": "周觅solo舞台",
@@ -31179,14 +31187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 220604,
-      "num": 220604,
-      "word": "长月烬明豆瓣降至6.1分",
-      "onboard_time": 1682340389,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 220571,
       "num": 220571,
       "word": "尘封十三载",
@@ -31465,6 +31465,14 @@
       "onboard_time": 1681115189,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218541,
+      "num": 218541,
+      "word": "18岁女孩双腿肌肉突发溶解面临截肢",
+      "onboard_time": 1682341891,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218498,
@@ -35072,6 +35080,14 @@
       "word": "律师称传播他人私密视频或担刑责",
       "onboard_time": 1680375134,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202356,
+      "num": 202356,
+      "word": "中国一女游客在泰国遭绑架后逃脱",
+      "onboard_time": 1682341770,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -39521,6 +39537,14 @@
       "onboard_time": 1681531644,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188288,
+      "num": 173302,
+      "word": "翩然美甲掉了一个",
+      "onboard_time": 1682341830,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 188286,
@@ -44401,6 +44425,14 @@
       "onboard_time": 1681058839,
       "rank": 31,
       "category": "情感,美食"
+    },
+    {
+      "raw_hot": 163012,
+      "num": 163012,
+      "word": "李灿金发染得很对",
+      "onboard_time": 1682341530,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162999,
@@ -51195,6 +51227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121970,
+      "num": 121970,
+      "word": "追星星的人",
+      "onboard_time": 1682342251,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121940,
       "num": 141720,
       "word": "狼队战胜RW",
@@ -56089,6 +56129,14 @@
       "onboard_time": 1681988427,
       "rank": 14,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 39324,
+      "num": 717143,
+      "word": "广交会展览规模再创历史新高",
+      "onboard_time": 1682341230,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38812,
