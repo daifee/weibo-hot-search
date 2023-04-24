@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682343201163,
+  "endTime": 1682345776867,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1974616,
-      "num": 376805,
+      "num": 426603,
       "word": "何猷君 科切拉",
       "onboard_time": 1682340868,
       "rank": 30,
@@ -155,6 +155,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1505081,
+      "num": 1505081,
+      "word": "给女儿准备三万本书当书房",
+      "onboard_time": 1682339611,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1496546,
       "num": 1496546,
       "word": "杨颖瘦的原因",
@@ -219,20 +227,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1087770,
-      "num": 1087770,
-      "word": "给女儿准备三万本书当书房",
-      "onboard_time": 1682339611,
-      "rank": 47,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 1079008,
       "num": 519075,
       "word": "上海一男子商场跳楼砸中女顾客",
       "onboard_time": 1682261562,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1031768,
+      "num": 1031768,
+      "word": "沈腾说马丽和乔杉搭感觉没有那么顺",
+      "onboard_time": 1682343031,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 925221,
@@ -251,19 +259,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 864549,
+      "num": 864549,
+      "word": "长月烬明豆瓣降至6.1分",
+      "onboard_time": 1682340389,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 846262,
       "num": 846262,
       "word": "陈都灵邓为高光戏份被删",
       "onboard_time": 1682260598,
       "rank": 3,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 806835,
-      "num": 806835,
-      "word": "长月烬明豆瓣降至6.1分",
-      "onboard_time": 1682340389,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 748564,
+      "num": 396792,
+      "word": "知道奚梦瑶为什么上课不开心了",
+      "onboard_time": 1682344230,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 743038,
       "num": 743038,
       "word": "欢乐颂5",
@@ -337,6 +353,14 @@
       "onboard_time": 1682311112,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 639198,
+      "num": 639198,
+      "word": "林心如和女儿视频通话",
+      "onboard_time": 1682338709,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 632764,
@@ -395,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 551743,
+      "num": 551743,
+      "word": "外媒称C罗和女友出现感情危机",
+      "onboard_time": 1682342671,
+      "rank": 24,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 548793,
       "num": 548793,
       "word": "女子忘关车门4岁娃跑下车遭碾压",
@@ -417,6 +449,14 @@
       "onboard_time": 1682304506,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 534901,
+      "num": 381939,
+      "word": "杨紫 造型团队",
+      "onboard_time": 1682344831,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 509441,
@@ -481,6 +521,14 @@
       "onboard_time": 1682310572,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494321,
+      "num": 452189,
+      "word": "中国一女游客在泰国遭绑架后逃脱",
+      "onboard_time": 1682341770,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488882,
@@ -595,12 +643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451196,
-      "num": 451196,
-      "word": "林心如和女儿视频通话",
-      "onboard_time": 1682338709,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 452451,
+      "num": 452451,
+      "word": "18岁女孩双腿肌肉突发溶解面临截肢",
+      "onboard_time": 1682341891,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446856,
@@ -667,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419177,
+      "num": 182912,
+      "word": "淘宝崩了",
+      "onboard_time": 1682344589,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 414973,
       "num": 414973,
       "word": "宋智孝将与经纪公司解约",
@@ -705,14 +761,6 @@
       "onboard_time": 1682310572,
       "rank": 37,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 402445,
-      "num": 402445,
-      "word": "18岁女孩双腿肌肉突发溶解面临截肢",
-      "onboard_time": 1682341891,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 398668,
@@ -819,14 +867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 339671,
-      "num": 339671,
-      "word": "中国一女游客在泰国遭绑架后逃脱",
-      "onboard_time": 1682341770,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 338810,
       "num": 330421,
       "word": "老师你别太懂了",
@@ -859,12 +899,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 332347,
+      "num": 241905,
+      "word": "月收入多少才算是普通人",
+      "onboard_time": 1682344113,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329956,
       "num": 329956,
       "word": "闪耀暖暖",
       "onboard_time": 1682309310,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 328608,
+      "num": 328608,
+      "word": "叶夕雾终于要跳城楼了",
+      "onboard_time": 1682341170,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 322301,
@@ -1131,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256265,
+      "num": 240960,
+      "word": "翩然美甲掉了一个",
+      "onboard_time": 1682341830,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253994,
       "num": 253994,
       "word": "克拉盘",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1682310572,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 248139,
-      "num": 248139,
-      "word": "外媒称C罗和女友出现感情危机",
-      "onboard_time": 1682342671,
-      "rank": 24,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 246548,
@@ -1281,22 +1337,6 @@
       "onboard_time": 1682332109,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229487,
-      "num": 229487,
-      "word": "翩然美甲掉了一个",
-      "onboard_time": 1682341830,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 224808,
-      "num": 218311,
-      "word": "沈腾说马丽和乔杉搭感觉没有那么顺",
-      "onboard_time": 1682343031,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 223328,
@@ -1643,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186059,
+      "num": 186059,
+      "word": "上班更累还是上学更累",
+      "onboard_time": 1682343389,
+      "rank": 28,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 185131,
       "num": 331928,
       "word": "防晒衣能洗吗",
@@ -1891,6 +1939,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 156975,
+      "num": 183212,
+      "word": "调休造长假有必要吗",
+      "onboard_time": 1682343689,
+      "rank": 29,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 156534,
       "num": 156534,
       "word": "外卖轻食 肠胃炎",
@@ -1905,6 +1961,14 @@
       "onboard_time": 1682313151,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153841,
+      "num": 153841,
+      "word": "徐明浩透视装",
+      "onboard_time": 1682344410,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 151544,
@@ -2203,12 +2267,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 111205,
-      "num": 111205,
-      "word": "叶夕雾终于要跳城楼了",
-      "onboard_time": 1682341170,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 110269,
+      "num": 110269,
+      "word": "王嘉尔新歌是写给谁的",
+      "onboard_time": 1682345729,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 108935,
@@ -2355,8 +2419,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 47574,
-      "num": 717143,
+      "raw_hot": 61270,
+      "num": 898624,
       "word": "广交会展览规模再创历史新高",
       "onboard_time": 1682341230,
       "rank": 2,
