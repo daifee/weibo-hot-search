@@ -1,0 +1,410 @@
+{
+  "runTime": 1682328827531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2829459,
+        "num": 2829459,
+        "word": "上午离职下午收到offer",
+        "onboard_time": 1682324247,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1143874,
+        "num": 1143874,
+        "word": "李佳琦刘畊宏等5位主播被点名",
+        "onboard_time": 1682312011,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 121538,
+        "num": 1013040,
+        "word": "今天我们为何还要读书",
+        "onboard_time": 1682319865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2052164,
+        "num": 1006489,
+        "word": "东南大学一领导被曝工作群发色情照",
+        "onboard_time": 1682326529,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 998420,
+        "num": 998420,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1682325866,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1036834,
+        "num": 997007,
+        "word": "杨颖瘦的原因",
+        "onboard_time": 1682320708,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 989889,
+        "num": 989889,
+        "word": "没认出来陈乔恩",
+        "onboard_time": 1682320166,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 633727,
+        "num": 633727,
+        "word": "上海一财务把公司偷得只剩20块",
+        "onboard_time": 1682316686,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 535588,
+        "num": 535588,
+        "word": "HYBE 这和舞蹈版MV有什么区别",
+        "onboard_time": 1682328090,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 444027,
+        "num": 444027,
+        "word": "德国媒体漫画 印度人口超越中国",
+        "onboard_time": 1682323768,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591269,
+        "num": 441681,
+        "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+        "onboard_time": 1682316448,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428958,
+        "num": 428958,
+        "word": "毛晓彤曾演过陈晓奶奶",
+        "onboard_time": 1682326288,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 427061,
+        "num": 427061,
+        "word": "伞皇 我一直没有说自己是单身",
+        "onboard_time": 1682326108,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 425596,
+        "num": 425596,
+        "word": "广州商铺发现尸体是一流浪汉",
+        "onboard_time": 1682309731,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81200,
+        "num": 394089,
+        "word": "夏天不脱妆比素颜都难",
+        "onboard_time": 1682321128,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 392936,
+        "num": 392936,
+        "word": "难听",
+        "onboard_time": 1682328211,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 389718,
+        "num": 389718,
+        "word": "调休上班你会比平时摸鱼吗",
+        "onboard_time": 1682323886,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382664,
+        "num": 382664,
+        "word": "东南大学纪委回应一领导发色情照",
+        "onboard_time": 1682327427,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 328929,
+        "num": 328929,
+        "word": "钟汉良空降婚礼现场唱宠爱",
+        "onboard_time": 1682327008,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317264,
+        "num": 317264,
+        "word": "女生花4天为新婚姐姐绘制百喜图",
+        "onboard_time": 1682326167,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 297322,
+        "num": 297322,
+        "word": "番禺母婴店发现尸体警方排除他杀",
+        "onboard_time": 1682321966,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295821,
+        "num": 295821,
+        "word": "第一批在苏中国公民已安全撤至邻国",
+        "onboard_time": 1682324550,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 295441,
+        "num": 295441,
+        "word": "为什么不能公开说自己去旅游",
+        "onboard_time": 1682326348,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293830,
+        "num": 293830,
+        "word": "王嘉尔是真的闯出去了",
+        "onboard_time": 1682319927,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 284939,
+        "num": 284939,
+        "word": "欢瑞与多位知名作家签约",
+        "onboard_time": 1682326647,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261634,
+        "num": 261634,
+        "word": "新冠第二波",
+        "onboard_time": 1682297310,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256004,
+        "num": 256004,
+        "word": "原来傻妞是澹台烬做的",
+        "onboard_time": 1682322808,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 253994,
+        "num": 253994,
+        "word": "克拉盘",
+        "onboard_time": 1682325989,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251278,
+        "num": 251278,
+        "word": "这个是不是蓝环章鱼",
+        "onboard_time": 1682321427,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239053,
+        "num": 239053,
+        "word": "我国实行周末双休制还不足30年",
+        "onboard_time": 1682328269,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236898,
+        "num": 236898,
+        "word": "B站千万粉丝UP主回应停更传言",
+        "onboard_time": 1682306306,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 225192,
+        "num": 225192,
+        "word": "王鹤棣新剧旁白是东方青苍",
+        "onboard_time": 1682321367,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216514,
+        "num": 216514,
+        "word": "张艺兴我是市民不是市长",
+        "onboard_time": 1682307566,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198208,
+        "num": 198208,
+        "word": "明知五一人多为什么还要出去玩",
+        "onboard_time": 1682311112,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 196295,
+        "num": 196295,
+        "word": "女子违停发现被交警老公贴罚单",
+        "onboard_time": 1682326407,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179056,
+        "num": 179056,
+        "word": "GQ印错易烊千玺名字",
+        "onboard_time": 1682317588,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168847,
+        "num": 168847,
+        "word": "树奈奈 伞皇",
+        "onboard_time": 1682328689,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 164961,
+        "num": 164961,
+        "word": "网易起诉暴雪要求退还3亿欠款",
+        "onboard_time": 1682319509,
+        "rank": 37,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 164435,
+        "num": 164435,
+        "word": "王楚钦说德班世乒赛见",
+        "onboard_time": 1682326348,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140501,
+        "num": 140501,
+        "word": "法考没过",
+        "onboard_time": 1682321726,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140489,
+        "num": 140489,
+        "word": "INTO1今天正式解散了",
+        "onboard_time": 1682310572,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136683,
+        "num": 136683,
+        "word": "罗云熙白鹿握手安慰彼此",
+        "onboard_time": 1682328809,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120455,
+        "num": 120455,
+        "word": "乌鸦刺身在日本引发连锁争议",
+        "onboard_time": 1682312669,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119223,
+        "num": 119223,
+        "word": "看不懂长月烬明了",
+        "onboard_time": 1682306667,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 114327,
+        "num": 114327,
+        "word": "时代少年团或将出演英雄联盟",
+        "onboard_time": 1682315608,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113503,
+        "num": 113503,
+        "word": "外交部再次提醒在苏中国公民",
+        "onboard_time": 1682328510,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 113216,
+        "num": 113216,
+        "word": "最高端的黄牛往往用最朴素的方法",
+        "onboard_time": 1682313510,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105442,
+        "num": 105442,
+        "word": "女性如何更好的享受两性关系",
+        "onboard_time": 1682313211,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104473,
+        "num": 104473,
+        "word": "护士精神病院工作7年患重度抑郁",
+        "onboard_time": 1682310871,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79382,
+        "num": 104361,
+        "word": "官方回应跨境电商被指责",
+        "onboard_time": 1682327128,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国星辰#"
+    }
+  }
+}

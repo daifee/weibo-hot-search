@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682327858981,
+  "endTime": 1682328827531,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2829459,
+      "num": 2829459,
+      "word": "上午离职下午收到offer",
+      "onboard_time": 1682324247,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2811375,
       "num": 2811375,
       "word": "李佳琦刘畊宏等5位主播被点名",
@@ -35,20 +43,20 @@
       "category": "科技"
     },
     {
-      "raw_hot": 2356172,
-      "num": 2356172,
-      "word": "上午离职下午收到offer",
-      "onboard_time": 1682324247,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 2115993,
       "num": 2115993,
       "word": "新冠第二波",
       "onboard_time": 1682297310,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2052164,
+      "num": 1103236,
+      "word": "东南大学一领导被曝工作群发色情照",
+      "onboard_time": 1682326529,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1905935,
@@ -153,14 +161,6 @@
       "onboard_time": 1682325866,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1103236,
-      "num": 1103236,
-      "word": "东南大学一领导被曝工作群发色情照",
-      "onboard_time": 1682326529,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1079008,
@@ -297,6 +297,14 @@
       "onboard_time": 1682274434,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535588,
+      "num": 535588,
+      "word": "HYBE 这和舞蹈版MV有什么区别",
+      "onboard_time": 1682328090,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 534961,
@@ -467,6 +475,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 428958,
+      "num": 428958,
+      "word": "毛晓彤曾演过陈晓奶奶",
+      "onboard_time": 1682326288,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426873,
       "num": 426873,
       "word": "王鹤棣新剧旁白是东方青苍",
@@ -491,20 +507,36 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 392936,
+      "num": 392936,
+      "word": "难听",
+      "onboard_time": 1682328211,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 389718,
+      "num": 389718,
+      "word": "调休上班你会比平时摸鱼吗",
+      "onboard_time": 1682323886,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382664,
+      "num": 382664,
+      "word": "东南大学纪委回应一领导发色情照",
+      "onboard_time": 1682327427,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 376823,
       "num": 376823,
       "word": "老师上课被学生从背后扇并挑衅",
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 367665,
-      "num": 346634,
-      "word": "调休上班你会比平时摸鱼吗",
-      "onboard_time": 1682323886,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358726,
@@ -529,14 +561,6 @@
       "onboard_time": 1682263894,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 348726,
-      "num": 348726,
-      "word": "毛晓彤曾演过陈晓奶奶",
-      "onboard_time": 1682326288,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 344103,
@@ -569,6 +593,14 @@
       "onboard_time": 1682309310,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 328929,
+      "num": 328929,
+      "word": "钟汉良空降婚礼现场唱宠爱",
+      "onboard_time": 1682327008,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 322301,
@@ -619,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317264,
+      "num": 317264,
+      "word": "女生花4天为新婚姐姐绘制百喜图",
+      "onboard_time": 1682326167,
+      "rank": 19,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 314880,
       "num": 314880,
       "word": "在直播间买东西靠谱吗",
@@ -651,14 +691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 302474,
-      "num": 302474,
-      "word": "女生花4天为新婚姐姐绘制百喜图",
-      "onboard_time": 1682326167,
-      "rank": 19,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 299105,
       "num": 299105,
       "word": "为什么不能公开说自己去旅游",
@@ -689,6 +721,14 @@
       "onboard_time": 1682260598,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 284939,
+      "num": 284939,
+      "word": "欢瑞与多位知名作家签约",
+      "onboard_time": 1682326647,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280376,
@@ -763,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253994,
+      "num": 253994,
+      "word": "克拉盘",
+      "onboard_time": 1682325989,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253930,
       "num": 253930,
       "word": "英国警报",
@@ -835,11 +883,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 234439,
-      "num": 234439,
-      "word": "欢瑞与多位知名作家签约",
-      "onboard_time": 1682326647,
-      "rank": 25,
+      "raw_hot": 239053,
+      "num": 239053,
+      "word": "我国实行周末双休制还不足30年",
+      "onboard_time": 1682328269,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -921,14 +969,6 @@
       "onboard_time": 1682318606,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216382,
-      "num": 216382,
-      "word": "克拉盘",
-      "onboard_time": 1682325989,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 216062,
@@ -1019,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198455,
-      "num": 198455,
-      "word": "东南大学纪委回应一领导发色情照",
-      "onboard_time": 1682327427,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 196471,
       "num": 196471,
       "word": "滔搏",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1682315487,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192672,
-      "num": 192672,
-      "word": "钟汉良空降婚礼现场唱宠爱",
-      "onboard_time": 1682327008,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 190632,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1682262816,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168847,
+      "num": 168847,
+      "word": "树奈奈 伞皇",
+      "onboard_time": 1682328689,
+      "rank": 36,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 166351,
@@ -1419,6 +1451,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 136683,
+      "num": 136683,
+      "word": "罗云熙白鹿握手安慰彼此",
+      "onboard_time": 1682328809,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135829,
       "num": 135829,
       "word": "ZB1将7月出道",
@@ -1563,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113503,
+      "num": 113503,
+      "word": "外交部再次提醒在苏中国公民",
+      "onboard_time": 1682328510,
+      "rank": 45,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 108935,
       "num": 108935,
       "word": "电影长空之王",
@@ -1667,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81200,
+      "num": 394089,
+      "word": "夏天不脱妆比素颜都难",
+      "onboard_time": 1682321128,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 75315,
       "num": 75315,
       "word": "戚薇被粉丝喊话不要再减肥了",
@@ -1689,14 +1745,6 @@
       "onboard_time": 1682316325,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 63260,
-      "num": 347474,
-      "word": "夏天不脱妆比素颜都难",
-      "onboard_time": 1682321128,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 62976,
