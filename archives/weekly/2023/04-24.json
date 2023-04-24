@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682339636208,
+  "endTime": 1682341208172,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -9,6 +9,14 @@
       "onboard_time": 1682257595,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2958773,
+      "num": 2958773,
+      "word": "我国法定假日从7天增至11天",
+      "onboard_time": 1682337266,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2910269,
@@ -33,6 +41,14 @@
       "onboard_time": 1682312011,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2680236,
+      "num": 450442,
+      "word": "东南大学发色情照领导简历已撤下",
+      "onboard_time": 1682334087,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2470645,
@@ -67,28 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2024564,
-      "num": 2024564,
-      "word": "我国法定假日从7天增至11天",
-      "onboard_time": 1682337266,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1905935,
       "num": 1905935,
       "word": "肖战杨紫 二搭",
       "onboard_time": 1682314826,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1896603,
-      "num": 450442,
-      "word": "东南大学发色情照领导简历已撤下",
-      "onboard_time": 1682334087,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1713976,
@@ -219,20 +219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925221,
+      "num": 925221,
+      "word": "文秀雅给文彬的留言",
+      "onboard_time": 1682336187,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 881492,
       "num": 881492,
       "word": "难听",
       "onboard_time": 1682328211,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 872335,
-      "num": 872335,
-      "word": "文秀雅给文彬的留言",
-      "onboard_time": 1682336187,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 846262,
@@ -315,6 +315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 632764,
+      "num": 632764,
+      "word": "罗云熙演技",
+      "onboard_time": 1682338948,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 606507,
       "num": 606507,
       "word": "GQ印错易烊千玺名字",
@@ -387,12 +395,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 525488,
+      "num": 525488,
+      "word": "给女儿准备三万本书当书房",
+      "onboard_time": 1682339611,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 509441,
       "num": 509441,
       "word": "澹台烬抱着叶夕雾的尸体睡觉",
       "onboard_time": 1682261855,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 507120,
+      "num": 375418,
+      "word": "周扬青掉水里了",
+      "onboard_time": 1682338227,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 500454,
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 456041,
-      "num": 214173,
+      "num": 295363,
       "word": "离职三天后同事发的微信",
       "onboard_time": 1682337149,
       "rank": 30,
@@ -707,14 +731,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 375418,
-      "num": 375418,
-      "word": "周扬青掉水里了",
-      "onboard_time": 1682338227,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 358726,
       "num": 321794,
       "word": "工资的一部分就是受气的",
@@ -745,14 +761,6 @@
       "onboard_time": 1682263894,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 351683,
-      "num": 351683,
-      "word": "罗云熙演技",
-      "onboard_time": 1682338948,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 345997,
@@ -907,6 +915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 313488,
+      "num": 313488,
+      "word": "斗破苍穹 美杜莎",
+      "onboard_time": 1682340450,
+      "rank": 18,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 310349,
       "num": 310349,
       "word": "全世界除了滔搏都笑的很开心",
@@ -985,6 +1001,22 @@
       "onboard_time": 1682308708,
       "rank": 23,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 275383,
+      "num": 219816,
+      "word": "何猷君 科切拉",
+      "onboard_time": 1682340868,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 274625,
+      "num": 274625,
+      "word": "故宫 抢票",
+      "onboard_time": 1682340509,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 271602,
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 245305,
-      "num": 231854,
+      "num": 241142,
       "word": "白鹿叶夕雾落泪好美",
       "onboard_time": 1682336726,
       "rank": 25,
@@ -1153,6 +1185,22 @@
       "onboard_time": 1682261200,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243936,
+      "num": 243936,
+      "word": "林心如和女儿视频通话",
+      "onboard_time": 1682338709,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 242952,
+      "num": 242952,
+      "word": "五一假期在1999年之前也只有一天",
+      "onboard_time": 1682338048,
+      "rank": 41,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 241107,
@@ -1267,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220604,
+      "num": 220604,
+      "word": "长月烬明豆瓣降至6.1分",
+      "onboard_time": 1682340389,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217837,
       "num": 217837,
       "word": "鞠婧祎 完美日记title",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1682320047,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 212850,
+      "num": 219076,
+      "word": "金泰亨电影试映会新闻图",
+      "onboard_time": 1682340810,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 212756,
@@ -1571,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 183514,
+      "num": 183514,
+      "word": "朴叙俊IU新电影试映会新闻图",
+      "onboard_time": 1682340989,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182535,
       "num": 182535,
       "word": "淄博鸭货小哥呼吁不要太关注他本人",
@@ -1795,22 +1867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 150891,
-      "num": 150891,
-      "word": "林心如和女儿视频通话",
-      "onboard_time": 1682338709,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 150594,
-      "num": 150594,
-      "word": "五一假期在1999年之前也只有一天",
-      "onboard_time": 1682338048,
-      "rank": 41,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 148468,
       "num": 148468,
       "word": "刘宇宁说揭露剧组重磅秘密",
@@ -1979,14 +2035,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127471,
-      "num": 127471,
-      "word": "给女儿准备三万本书当书房",
-      "onboard_time": 1682339611,
-      "rank": 47,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 126671,
       "num": 126671,
       "word": "黑豹乐队新主唱项亚蕻",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1682334507,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 111205,
+      "num": 111205,
+      "word": "叶夕雾终于要跳城楼了",
+      "onboard_time": 1682341170,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 108935,
