@@ -1,0 +1,410 @@
+{
+  "runTime": 1682346817796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1524130,
+        "num": 1524130,
+        "word": "给女儿准备三万本书当书房",
+        "onboard_time": 1682339611,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 769372,
+        "num": 769372,
+        "word": "沈腾说马丽和乔杉搭感觉没有那么顺",
+        "onboard_time": 1682343031,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 54914,
+        "num": 745474,
+        "word": "广交会展览规模再创历史新高",
+        "onboard_time": 1682341230,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728225,
+        "num": 728225,
+        "word": "林心如和女儿视频通话",
+        "onboard_time": 1682338709,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707919,
+        "num": 707919,
+        "word": "长月烬明豆瓣降至6.1分",
+        "onboard_time": 1682340389,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 613185,
+        "num": 613185,
+        "word": "月收入多少才算是普通人",
+        "onboard_time": 1682344113,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 584078,
+        "num": 584078,
+        "word": "外媒称C罗和女友出现感情危机",
+        "onboard_time": 1682342671,
+        "rank": 6,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 468070,
+        "num": 468070,
+        "word": "罗云熙演技",
+        "onboard_time": 1682338948,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 413565,
+        "num": 413565,
+        "word": "18岁女孩双腿肌肉突发溶解面临截肢",
+        "onboard_time": 1682341891,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426109,
+        "num": 409121,
+        "word": "叶夕雾终于要跳城楼了",
+        "onboard_time": 1682341170,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1686644,
+        "num": 405966,
+        "word": "何猷君 科切拉",
+        "onboard_time": 1682340868,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2434144,
+        "num": 403409,
+        "word": "我国法定假日从7天增至11天",
+        "onboard_time": 1682337266,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862124,
+        "num": 397083,
+        "word": "杨紫 造型团队",
+        "onboard_time": 1682344831,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 793316,
+        "num": 393450,
+        "word": "知道奚梦瑶为什么上课不开心了",
+        "onboard_time": 1682344230,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388705,
+        "num": 388705,
+        "word": "我国实行周末双休制还不足30年",
+        "onboard_time": 1682328269,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409960,
+        "num": 387158,
+        "word": "东南大学发色情照领导简历已撤下",
+        "onboard_time": 1682334087,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 324416,
+        "num": 324416,
+        "word": "文彬悼念区留下手写信",
+        "onboard_time": 1682345790,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319672,
+        "num": 319672,
+        "word": "周扬青掉水里了",
+        "onboard_time": 1682338227,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 310803,
+        "num": 310803,
+        "word": "斗破苍穹 美杜莎",
+        "onboard_time": 1682340450,
+        "rank": 18,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 259009,
+        "num": 259009,
+        "word": "王者荣耀 妲己",
+        "onboard_time": 1682331866,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 507680,
+        "num": 258946,
+        "word": "东南大学一领导被曝工作群发色情照",
+        "onboard_time": 1682326529,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 436926,
+        "num": 258574,
+        "word": "中国一女游客在泰国遭绑架后逃脱",
+        "onboard_time": 1682341770,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322190,
+        "num": 258246,
+        "word": "离职三天后同事发的微信",
+        "onboard_time": 1682337149,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300417,
+        "num": 257996,
+        "word": "翩然美甲掉了一个",
+        "onboard_time": 1682341830,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257911,
+        "num": 257911,
+        "word": "上午离职下午收到offer",
+        "onboard_time": 1682324247,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250512,
+        "num": 250512,
+        "word": "六点半和九点半下班的区别",
+        "onboard_time": 1682332049,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219188,
+        "num": 219188,
+        "word": "SEVENTEEN空降",
+        "onboard_time": 1682334388,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218053,
+        "num": 218053,
+        "word": "欢乐颂5",
+        "onboard_time": 1682334269,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196008,
+        "num": 196008,
+        "word": "王嘉尔新歌是写给谁的",
+        "onboard_time": 1682345729,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152788,
+        "num": 195723,
+        "word": "调休造长假有必要吗",
+        "onboard_time": 1682343689,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 501248,
+        "num": 195682,
+        "word": "淘宝崩了",
+        "onboard_time": 1682344589,
+        "rank": 30,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 256745,
+        "num": 195584,
+        "word": "遇上法定节假日你会拼假吗",
+        "onboard_time": 1682346630,
+        "rank": 31,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 195470,
+        "num": 195470,
+        "word": "上班更累还是上学更累",
+        "onboard_time": 1682343389,
+        "rank": 32,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 175556,
+        "num": 175556,
+        "word": "成都一烧烤店每桌15燃气费",
+        "onboard_time": 1682332467,
+        "rank": 33,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 173803,
+        "num": 173803,
+        "word": "故宫 抢票",
+        "onboard_time": 1682340509,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 173293,
+        "num": 173293,
+        "word": "李佳琦刘畊宏等5位主播被点名",
+        "onboard_time": 1682312011,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 164783,
+        "num": 164783,
+        "word": "要被何悯鸿气死",
+        "onboard_time": 1682337569,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157417,
+        "num": 157417,
+        "word": "翩然下线",
+        "onboard_time": 1682334388,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149460,
+        "num": 149460,
+        "word": "刘涛怎么这么扛老",
+        "onboard_time": 1682333547,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147826,
+        "num": 147826,
+        "word": "王鹤棣的嘴被锁上了",
+        "onboard_time": 1682337087,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134386,
+        "num": 134386,
+        "word": "外交部回应英国外交大臣涉台不当言论",
+        "onboard_time": 1682334988,
+        "rank": 40,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 134028,
+        "num": 134028,
+        "word": "徐明浩透视装",
+        "onboard_time": 1682344410,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132592,
+        "num": 132592,
+        "word": "朴叙俊IU新电影试映会新闻图",
+        "onboard_time": 1682340989,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129789,
+        "num": 129789,
+        "word": "李灿金发染得很对",
+        "onboard_time": 1682341530,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126975,
+        "num": 126975,
+        "word": "鹿晗三巡",
+        "onboard_time": 1682346570,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124860,
+        "num": 124860,
+        "word": "没认出来陈乔恩",
+        "onboard_time": 1682320166,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120531,
+        "num": 120531,
+        "word": "流川枫 下睫毛",
+        "onboard_time": 1682330128,
+        "rank": 46,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 118407,
+        "num": 118407,
+        "word": "田柾国发型可爱",
+        "onboard_time": 1682337987,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116071,
+        "num": 116071,
+        "word": "胖东来爆火是有原因的",
+        "onboard_time": 1682346451,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110563,
+        "num": 110563,
+        "word": "为什么不能公开说自己去旅游",
+        "onboard_time": 1682326348,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#下一站深空#"
+    }
+  }
+}

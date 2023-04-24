@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682345776867,
+  "endTime": 1682346817796,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -155,8 +155,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1505081,
-      "num": 1505081,
+      "raw_hot": 1524130,
+      "num": 1524130,
       "word": "给女儿准备三万本书当书房",
       "onboard_time": 1682339611,
       "rank": 47,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 862124,
+      "num": 397083,
+      "word": "杨紫 造型团队",
+      "onboard_time": 1682344831,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 846262,
       "num": 846262,
       "word": "陈都灵邓为高光戏份被删",
@@ -281,6 +289,14 @@
       "onboard_time": 1682306667,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 793316,
+      "num": 396792,
+      "word": "知道奚梦瑶为什么上课不开心了",
+      "onboard_time": 1682344230,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 791981,
@@ -315,20 +331,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 748564,
-      "num": 396792,
-      "word": "知道奚梦瑶为什么上课不开心了",
-      "onboard_time": 1682344230,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 743038,
       "num": 743038,
       "word": "欢乐颂5",
       "onboard_time": 1682334269,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 728225,
+      "num": 728225,
+      "word": "林心如和女儿视频通话",
+      "onboard_time": 1682338709,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 704969,
@@ -355,20 +371,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 639198,
-      "num": 639198,
-      "word": "林心如和女儿视频通话",
-      "onboard_time": 1682338709,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 632764,
       "num": 632764,
       "word": "罗云熙演技",
       "onboard_time": 1682338948,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 613185,
+      "num": 613185,
+      "word": "月收入多少才算是普通人",
+      "onboard_time": 1682344113,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 606507,
@@ -403,6 +419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 584078,
+      "num": 584078,
+      "word": "外媒称C罗和女友出现感情危机",
+      "onboard_time": 1682342671,
+      "rank": 24,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 581529,
       "num": 581529,
       "word": "初三这样穿去上学被同学说擦边",
@@ -417,14 +441,6 @@
       "onboard_time": 1682309129,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 551743,
-      "num": 551743,
-      "word": "外媒称C罗和女友出现感情危机",
-      "onboard_time": 1682342671,
-      "rank": 24,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 548793,
@@ -451,14 +467,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 534901,
-      "num": 381939,
-      "word": "杨紫 造型团队",
-      "onboard_time": 1682344831,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 509441,
       "num": 509441,
       "word": "澹台烬抱着叶夕雾的尸体睡觉",
@@ -473,6 +481,14 @@
       "onboard_time": 1682338227,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 501248,
+      "num": 195682,
+      "word": "淘宝崩了",
+      "onboard_time": 1682344589,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 500454,
@@ -715,12 +731,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419177,
-      "num": 182912,
-      "word": "淘宝崩了",
-      "onboard_time": 1682344589,
-      "rank": 30,
-      "category": "科技"
+      "raw_hot": 426109,
+      "num": 409121,
+      "word": "叶夕雾终于要跳城楼了",
+      "onboard_time": 1682341170,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 414973,
@@ -899,14 +915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 332347,
-      "num": 241905,
-      "word": "月收入多少才算是普通人",
-      "onboard_time": 1682344113,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 329956,
       "num": 329956,
       "word": "闪耀暖暖",
@@ -915,12 +923,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 328608,
-      "num": 328608,
-      "word": "叶夕雾终于要跳城楼了",
-      "onboard_time": 1682341170,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 324416,
+      "num": 324416,
+      "word": "文彬悼念区留下手写信",
+      "onboard_time": 1682345790,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 322301,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1682306065,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300417,
+      "num": 257996,
+      "word": "翩然美甲掉了一个",
+      "onboard_time": 1682341830,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 299105,
@@ -1187,12 +1203,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 256265,
-      "num": 240960,
-      "word": "翩然美甲掉了一个",
-      "onboard_time": 1682341830,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 256745,
+      "num": 195584,
+      "word": "遇上法定节假日你会拼假吗",
+      "onboard_time": 1682346630,
+      "rank": 31,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 253994,
@@ -1547,6 +1563,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196008,
+      "num": 196008,
+      "word": "王嘉尔新歌是写给谁的",
+      "onboard_time": 1682345729,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 195470,
+      "num": 195470,
+      "word": "上班更累还是上学更累",
+      "onboard_time": 1682343389,
+      "rank": 28,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 195084,
       "num": 195084,
       "word": "城管局回应采购制服每套4591元",
@@ -1681,14 +1713,6 @@
       "onboard_time": 1682267243,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186059,
-      "num": 186059,
-      "word": "上班更累还是上学更累",
-      "onboard_time": 1682343389,
-      "rank": 28,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 185131,
@@ -1940,7 +1964,7 @@
     },
     {
       "raw_hot": 156975,
-      "num": 183212,
+      "num": 195723,
       "word": "调休造长假有必要吗",
       "onboard_time": 1682343689,
       "rank": 29,
@@ -2155,6 +2179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126975,
+      "num": 126975,
+      "word": "鹿晗三巡",
+      "onboard_time": 1682346570,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126671,
       "num": 126671,
       "word": "黑豹乐队新主唱项亚蕻",
@@ -2235,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116071,
+      "num": 116071,
+      "word": "胖东来爆火是有原因的",
+      "onboard_time": 1682346451,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 115039,
       "num": 115039,
       "word": "张婧仪分享长沙读书经历",
@@ -2265,14 +2305,6 @@
       "onboard_time": 1682334507,
       "rank": 14,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 110269,
-      "num": 110269,
-      "word": "王嘉尔新歌是写给谁的",
-      "onboard_time": 1682345729,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 108935,
