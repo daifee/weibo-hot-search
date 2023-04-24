@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682325341109,
+  "endTime": 1682327858981,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -35,6 +35,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2356172,
+      "num": 2356172,
+      "word": "上午离职下午收到offer",
+      "onboard_time": 1682324247,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2115993,
       "num": 2115993,
       "word": "新冠第二波",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1708410,
-      "num": 475320,
+      "num": 481449,
       "word": "杨迪 没有艺人愿意点玉米面糊塌子",
       "onboard_time": 1682316448,
       "rank": 10,
@@ -137,6 +145,22 @@
       "onboard_time": 1682299587,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1113051,
+      "num": 1113051,
+      "word": "SEVENTEEN回归",
+      "onboard_time": 1682325866,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1103236,
+      "num": 1103236,
+      "word": "东南大学一领导被曝工作群发色情照",
+      "onboard_time": 1682326529,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1079008,
@@ -323,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483705,
+      "num": 483705,
+      "word": "德国媒体漫画 印度人口超越中国",
+      "onboard_time": 1682323768,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480097,
       "num": 480097,
       "word": "店主误会女孩偷窃门口遭摆白花",
@@ -363,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465143,
+      "num": 465143,
+      "word": "伞皇 我一直没有说自己是单身",
+      "onboard_time": 1682326108,
+      "rank": 11,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 462232,
       "num": 462232,
       "word": "张大大哭了",
@@ -392,14 +432,6 @@
       "word": "韩国人吵架跟韩剧一模一样",
       "onboard_time": 1682260961,
       "rank": 11,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 440136,
-      "num": 359891,
-      "word": "上午离职下午收到offer",
-      "onboard_time": 1682324247,
-      "rank": 32,
       "category": "幽默"
     },
     {
@@ -467,16 +499,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 370669,
-      "num": 354269,
-      "word": "德国媒体漫画 印度人口超越中国",
-      "onboard_time": 1682323768,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367665,
-      "num": 162095,
+      "num": 346634,
       "word": "调休上班你会比平时摸鱼吗",
       "onboard_time": 1682323886,
       "rank": 30,
@@ -505,6 +529,14 @@
       "onboard_time": 1682263894,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 348726,
+      "num": 348726,
+      "word": "毛晓彤曾演过陈晓奶奶",
+      "onboard_time": 1682326288,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 344103,
@@ -545,6 +577,14 @@
       "onboard_time": 1682321726,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 321381,
+      "num": 321381,
+      "word": "第一批在苏中国公民已安全撤至邻国",
+      "onboard_time": 1682324550,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 320390,
@@ -609,6 +649,22 @@
       "onboard_time": 1682306065,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 302474,
+      "num": 302474,
+      "word": "女生花4天为新婚姐姐绘制百喜图",
+      "onboard_time": 1682326167,
+      "rank": 19,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 299105,
+      "num": 299105,
+      "word": "为什么不能公开说自己去旅游",
+      "onboard_time": 1682326348,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 292956,
@@ -683,6 +739,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 264299,
+      "num": 264299,
+      "word": "原来傻妞是澹台烬做的",
+      "onboard_time": 1682322808,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258113,
       "num": 258113,
       "word": "快把王一博的嘴堵上",
@@ -713,14 +777,6 @@
       "onboard_time": 1682313211,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 252973,
-      "num": 252973,
-      "word": "原来傻妞是澹台烬做的",
-      "onboard_time": 1682322808,
-      "rank": 20,
-      "category": "影视"
     },
     {
       "raw_hot": 252561,
@@ -777,6 +833,14 @@
       "onboard_time": 1682305441,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 234439,
+      "num": 234439,
+      "word": "欢瑞与多位知名作家签约",
+      "onboard_time": 1682326647,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233107,
@@ -859,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216382,
+      "num": 216382,
+      "word": "克拉盘",
+      "onboard_time": 1682325989,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216062,
       "num": 216062,
       "word": "武庚纪",
@@ -939,6 +1011,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200551,
+      "num": 200551,
+      "word": "女子违停发现被交警老公贴罚单",
+      "onboard_time": 1682326407,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198455,
+      "num": 198455,
+      "word": "东南大学纪委回应一领导发色情照",
+      "onboard_time": 1682327427,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 196471,
       "num": 196471,
       "word": "滔搏",
@@ -995,12 +1083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192672,
+      "num": 192672,
+      "word": "钟汉良空降婚礼现场唱宠爱",
+      "onboard_time": 1682327008,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190632,
       "num": 190632,
       "word": "汤唯感受到幸福的瞬间",
       "onboard_time": 1682301626,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190186,
+      "num": 190186,
+      "word": "王楚钦说德班世乒赛见",
+      "onboard_time": 1682326348,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 190116,
@@ -1177,14 +1281,6 @@
       "onboard_time": 1682293704,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 163617,
-      "num": 163617,
-      "word": "第一批在苏中国公民已安全撤至邻国",
-      "onboard_time": 1682324550,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 163317,
@@ -1555,6 +1651,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 84674,
+      "num": 110606,
+      "word": "官方回应跨境电商被指责",
+      "onboard_time": 1682327128,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 81256,
       "num": 81256,
       "word": "ENHYPEN预告",
@@ -1588,7 +1692,7 @@
     },
     {
       "raw_hot": 63260,
-      "num": 117905,
+      "num": 347474,
       "word": "夏天不脱妆比素颜都难",
       "onboard_time": 1682321128,
       "rank": 49,

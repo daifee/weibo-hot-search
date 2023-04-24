@@ -1,0 +1,410 @@
+{
+  "runTime": 1682327858981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2356172,
+        "num": 2356172,
+        "word": "上午离职下午收到offer",
+        "onboard_time": 1682324247,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1302547,
+        "num": 1302547,
+        "word": "李佳琦刘畊宏等5位主播被点名",
+        "onboard_time": 1682312011,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 136960,
+        "num": 1178575,
+        "word": "今天我们为何还要读书",
+        "onboard_time": 1682319865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113051,
+        "num": 1113051,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1682325866,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1103236,
+        "num": 1103236,
+        "word": "东南大学一领导被曝工作群发色情照",
+        "onboard_time": 1682326529,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1221156,
+        "num": 1036125,
+        "word": "杨颖瘦的原因",
+        "onboard_time": 1682320708,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 906364,
+        "num": 906364,
+        "word": "没认出来陈乔恩",
+        "onboard_time": 1682320166,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 874263,
+        "num": 874263,
+        "word": "上海一财务把公司偷得只剩20块",
+        "onboard_time": 1682316686,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 516329,
+        "num": 516329,
+        "word": "广州商铺发现尸体是一流浪汉",
+        "onboard_time": 1682309731,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483705,
+        "num": 483705,
+        "word": "德国媒体漫画 印度人口超越中国",
+        "onboard_time": 1682323768,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778419,
+        "num": 481449,
+        "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+        "onboard_time": 1682316448,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465143,
+        "num": 465143,
+        "word": "伞皇 我一直没有说自己是单身",
+        "onboard_time": 1682326108,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 351518,
+        "num": 351518,
+        "word": "王嘉尔是真的闯出去了",
+        "onboard_time": 1682319927,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348726,
+        "num": 348726,
+        "word": "毛晓彤曾演过陈晓奶奶",
+        "onboard_time": 1682326288,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52403,
+        "num": 347474,
+        "word": "夏天不脱妆比素颜都难",
+        "onboard_time": 1682321128,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 346634,
+        "num": 346634,
+        "word": "调休上班你会比平时摸鱼吗",
+        "onboard_time": 1682323886,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321381,
+        "num": 321381,
+        "word": "第一批在苏中国公民已安全撤至邻国",
+        "onboard_time": 1682324550,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 319013,
+        "num": 319013,
+        "word": "这个是不是蓝环章鱼",
+        "onboard_time": 1682321427,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 305805,
+        "num": 305805,
+        "word": "番禺母婴店发现尸体警方排除他杀",
+        "onboard_time": 1682321966,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302474,
+        "num": 302474,
+        "word": "女生花4天为新婚姐姐绘制百喜图",
+        "onboard_time": 1682326167,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 299105,
+        "num": 299105,
+        "word": "为什么不能公开说自己去旅游",
+        "onboard_time": 1682326348,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266317,
+        "num": 266317,
+        "word": "B站千万粉丝UP主回应停更传言",
+        "onboard_time": 1682306306,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 264364,
+        "num": 264364,
+        "word": "新冠第二波",
+        "onboard_time": 1682297310,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264299,
+        "num": 264299,
+        "word": "原来傻妞是澹台烬做的",
+        "onboard_time": 1682322808,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247870,
+        "num": 247870,
+        "word": "王鹤棣新剧旁白是东方青苍",
+        "onboard_time": 1682321367,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234439,
+        "num": 234439,
+        "word": "欢瑞与多位知名作家签约",
+        "onboard_time": 1682326647,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233915,
+        "num": 233915,
+        "word": "明知五一人多为什么还要出去玩",
+        "onboard_time": 1682311112,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 230465,
+        "num": 230465,
+        "word": "张艺兴我是市民不是市长",
+        "onboard_time": 1682307566,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216382,
+        "num": 216382,
+        "word": "克拉盘",
+        "onboard_time": 1682325989,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204530,
+        "num": 204530,
+        "word": "网易起诉暴雪要求退还3亿欠款",
+        "onboard_time": 1682319509,
+        "rank": 29,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 200551,
+        "num": 200551,
+        "word": "女子违停发现被交警老公贴罚单",
+        "onboard_time": 1682326407,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198455,
+        "num": 198455,
+        "word": "东南大学纪委回应一领导发色情照",
+        "onboard_time": 1682327427,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 192672,
+        "num": 192672,
+        "word": "钟汉良空降婚礼现场唱宠爱",
+        "onboard_time": 1682327008,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190186,
+        "num": 190186,
+        "word": "王楚钦说德班世乒赛见",
+        "onboard_time": 1682326348,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190107,
+        "num": 190107,
+        "word": "GQ印错易烊千玺名字",
+        "onboard_time": 1682317588,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 176377,
+        "num": 176377,
+        "word": "法考没过",
+        "onboard_time": 1682321726,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167909,
+        "num": 167909,
+        "word": "教科书里的罗云熙",
+        "onboard_time": 1682321427,
+        "rank": 36,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 148537,
+        "num": 148537,
+        "word": "INTO1今天正式解散了",
+        "onboard_time": 1682310572,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143649,
+        "num": 143649,
+        "word": "看不懂长月烬明了",
+        "onboard_time": 1682306667,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139349,
+        "num": 139349,
+        "word": "乌鸦刺身在日本引发连锁争议",
+        "onboard_time": 1682312669,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123057,
+        "num": 123057,
+        "word": "最近你身边有阳了的人吗",
+        "onboard_time": 1682321007,
+        "rank": 40,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 123005,
+        "num": 123005,
+        "word": "女性如何更好的享受两性关系",
+        "onboard_time": 1682313211,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122870,
+        "num": 122870,
+        "word": "最高端的黄牛往往用最朴素的方法",
+        "onboard_time": 1682313510,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121749,
+        "num": 121749,
+        "word": "时代少年团或将出演英雄联盟",
+        "onboard_time": 1682315608,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120715,
+        "num": 120715,
+        "word": "在办公室上班真的很体面吗",
+        "onboard_time": 1682308769,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118991,
+        "num": 118991,
+        "word": "人民网评五一民宿毁约吃相难看",
+        "onboard_time": 1682310390,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 116708,
+        "num": 118235,
+        "word": "武庚纪",
+        "onboard_time": 1682320047,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117592,
+        "num": 117592,
+        "word": "护士精神病院工作7年患重度抑郁",
+        "onboard_time": 1682310871,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111036,
+        "num": 111036,
+        "word": "刘宇宁说揭露剧组重磅秘密",
+        "onboard_time": 1682322088,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84674,
+        "num": 110606,
+        "word": "官方回应跨境电商被指责",
+        "onboard_time": 1682327128,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天叩问苍穹#"
+    }
+  }
+}
