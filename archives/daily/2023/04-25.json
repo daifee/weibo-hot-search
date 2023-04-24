@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682370921649,
+  "endTime": 1682372003944,
   "band_list": [
     {
       "raw_hot": 1242661,
@@ -411,6 +411,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 96848,
+      "num": 96848,
+      "word": "首批中国公民撤离苏丹画面",
+      "onboard_time": 1682367072,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 90789,
       "num": 90789,
       "word": "易车否认策划宝马冰激凌事件",
@@ -419,12 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79785,
-      "num": 79785,
-      "word": "首批中国公民撤离苏丹画面",
-      "onboard_time": 1682367072,
-      "rank": 46,
-      "category": "国内要闻"
+      "raw_hot": 85577,
+      "num": 85577,
+      "word": "新冠",
+      "onboard_time": 1682368750,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59458,
@@ -441,14 +449,6 @@
       "onboard_time": 1682328689,
       "rank": 49,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 43719,
-      "num": 43719,
-      "word": "新冠",
-      "onboard_time": 1682368750,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38947,
@@ -491,16 +491,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 11859,
-      "num": 14077,
+      "raw_hot": 20421,
+      "num": 20421,
       "word": "五一出行会加速新冠二次感染吗",
       "onboard_time": 1682370731,
       "rank": 47,
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 10852,
-      "num": 14055,
+      "raw_hot": 14978,
+      "num": 14978,
       "word": "女孩帮爸爸做翻译对接外国客户",
       "onboard_time": 1682370312,
       "rank": 49,
