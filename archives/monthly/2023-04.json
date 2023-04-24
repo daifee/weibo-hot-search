@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682378231111,
+  "endTime": 1682379220338,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -4971,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1105553,
+      "num": 1105553,
+      "word": "安徽一算命网红3年非法盈利200多万",
+      "onboard_time": 1682349989,
+      "rank": 47,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1105425,
       "num": 1105425,
       "word": "易烊千玺 华为发布会",
@@ -6827,6 +6835,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 874514,
+      "num": 396792,
+      "word": "知道奚梦瑶为什么上课不开心了",
+      "onboard_time": 1682344230,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 872900,
       "num": 417730,
       "word": "男子用手电筒吓死千只鸡获刑6个月",
@@ -7443,14 +7459,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 823410,
-      "num": 396792,
-      "word": "知道奚梦瑶为什么上课不开心了",
-      "onboard_time": 1682344230,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 822857,
       "num": 822857,
       "word": "迪奥",
@@ -7529,14 +7537,6 @@
       "onboard_time": 1681172909,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 818151,
-      "num": 818151,
-      "word": "安徽一算命网红3年非法盈利200多万",
-      "onboard_time": 1682349989,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 816279,
@@ -11755,6 +11755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 578248,
+      "num": 452189,
+      "word": "中国一女游客在泰国遭绑架后逃脱",
+      "onboard_time": 1682341770,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577912,
       "num": 577912,
       "word": "樊振东获男单冠军",
@@ -14169,14 +14177,6 @@
       "onboard_time": 1682310572,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 494321,
-      "num": 452189,
-      "word": "中国一女游客在泰国遭绑架后逃脱",
-      "onboard_time": 1682341770,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 493718,
@@ -18795,6 +18795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390865,
+      "num": 390865,
+      "word": "我负责的烈士子女考上了重点军校",
+      "onboard_time": 1682347410,
+      "rank": 14,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 390743,
       "num": 390743,
       "word": "leave",
@@ -19233,6 +19241,14 @@
       "onboard_time": 1682211990,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 381741,
+      "num": 381741,
+      "word": "朱一龙河边的错误入围戛纳",
+      "onboard_time": 1682378002,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 381469,
@@ -19969,6 +19985,14 @@
       "onboard_time": 1681890088,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 366065,
+      "num": 343663,
+      "word": "河边的错误",
+      "onboard_time": 1682378002,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 365639,
@@ -20825,6 +20849,14 @@
       "onboard_time": 1680333329,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 350333,
+      "num": 350333,
+      "word": "能接受另一半帮异性挡酒吗",
+      "onboard_time": 1682356996,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 349974,
@@ -21955,14 +21987,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 330824,
-      "num": 330824,
-      "word": "我负责的烈士子女考上了重点军校",
-      "onboard_time": 1682347410,
-      "rank": 14,
-      "category": "军事,社会新闻"
-    },
-    {
       "raw_hot": 330763,
       "num": 330763,
       "word": "孙国友首次回应种树破坏生态质疑",
@@ -22497,6 +22521,14 @@
       "onboard_time": 1681688423,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 323020,
+      "num": 226682,
+      "word": "拿破仑一世鼻烟盒亮相山东",
+      "onboard_time": 1682377880,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 323015,
@@ -25731,6 +25763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 278325,
+      "num": 278325,
+      "word": "上班更累还是上学更累",
+      "onboard_time": 1682343389,
+      "rank": 28,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 278096,
       "num": 278096,
       "word": "达尔文盒饭厂",
@@ -27347,6 +27387,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 257326,
+      "num": 257326,
+      "word": "秦昊说骗你把我从山上推下去",
+      "onboard_time": 1682350169,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257276,
       "num": 223138,
       "word": "战至巅峰2阵容",
@@ -27377,14 +27425,6 @@
       "onboard_time": 1680589227,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 257112,
-      "num": 257112,
-      "word": "能接受另一半帮异性挡酒吗",
-      "onboard_time": 1682356996,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 257052,
@@ -27713,14 +27753,6 @@
       "onboard_time": 1681113867,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 253491,
-      "num": 225550,
-      "word": "秦昊说骗你把我从山上推下去",
-      "onboard_time": 1682350169,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 253452,
@@ -30715,6 +30747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226297,
+      "num": 226297,
+      "word": "戛纳电影节",
+      "onboard_time": 1682378242,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 226282,
       "num": 226282,
       "word": "孙珍妮新剧狐妖造型",
@@ -32523,14 +32563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212452,
-      "num": 212452,
-      "word": "上班更累还是上学更累",
-      "onboard_time": 1682343389,
-      "rank": 28,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 212374,
       "num": 212374,
       "word": "灌篮高手 屏摄",
@@ -33385,14 +33417,6 @@
       "onboard_time": 1681872626,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207922,
-      "num": 207922,
-      "word": "朱一龙河边的错误入围戛纳",
-      "onboard_time": 1682378002,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 207901,
@@ -35777,6 +35801,14 @@
       "onboard_time": 1682098098,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201054,
+      "num": 201054,
+      "word": "你现在的工作能保证每周双休吗",
+      "onboard_time": 1682377820,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201032,
@@ -40147,6 +40179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187086,
+      "num": 187086,
+      "word": "长空之王票房预测",
+      "onboard_time": 1682378360,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187085,
       "num": 187085,
       "word": "孙怡卸妆式擦脸",
@@ -42235,6 +42275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176901,
+      "num": 133029,
+      "word": "INTO1毕业前合体采访",
+      "onboard_time": 1682378061,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176878,
       "num": 176878,
       "word": "刘宇宁骑马错位图",
@@ -42833,14 +42881,6 @@
       "onboard_time": 1680956308,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172712,
-      "num": 148965,
-      "word": "拿破仑一世鼻烟盒亮相山东",
-      "onboard_time": 1682377880,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172626,
@@ -46355,14 +46395,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 154029,
-      "num": 154029,
-      "word": "河边的错误",
-      "onboard_time": 1682378002,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 153956,
       "num": 153956,
       "word": "三生友幸什么时候结婚",
@@ -48947,6 +48979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139573,
+      "num": 139573,
+      "word": "HYBE好像在Hanteo榜上团建",
+      "onboard_time": 1682377639,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 139418,
       "num": 139418,
       "word": "追剧看到大学同学是什么体验",
@@ -50179,6 +50219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131175,
+      "num": 131175,
+      "word": "为什么读了研也找不到工作",
+      "onboard_time": 1682378784,
+      "rank": 31,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 131077,
       "num": 136162,
       "word": "这才是真的有效防晒吧",
@@ -50209,6 +50257,14 @@
       "onboard_time": 1680332431,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 130975,
+      "num": 130975,
+      "word": "路人凭狗认出赵露思",
+      "onboard_time": 1682378962,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 130959,
@@ -50849,14 +50905,6 @@
       "onboard_time": 1681449809,
       "rank": 42,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 127117,
-      "num": 127117,
-      "word": "你现在的工作能保证每周双休吗",
-      "onboard_time": 1682377820,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127085,
@@ -52979,6 +53027,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 108554,
+      "num": 108554,
+      "word": "猴子想吓人结果自己抻到筋",
+      "onboard_time": 1682357357,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108501,
       "num": 108501,
       "word": "比亚迪云辇系统",
@@ -53651,6 +53707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102265,
+      "num": 102265,
+      "word": "田柾国直播",
+      "onboard_time": 1682378722,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102220,
       "num": 102220,
       "word": "利物浦vs阿森纳",
@@ -53937,14 +54001,6 @@
       "onboard_time": 1680416788,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99792,
-      "num": 99792,
-      "word": "HYBE好像在Hanteo榜上团建",
-      "onboard_time": 1682377639,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 99729,
@@ -54291,14 +54347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 95868,
-      "num": 95868,
-      "word": "猴子想吓人结果自己抻到筋",
-      "onboard_time": 1682357357,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95807,
       "num": 95807,
       "word": "男孩扎留置针为住院妈妈买最爱榴莲",
@@ -54497,6 +54545,14 @@
       "onboard_time": 1681741589,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93189,
+      "num": 93189,
+      "word": "创造四代主题曲remix回忆杀",
+      "onboard_time": 1682378302,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 92990,
@@ -54753,6 +54809,14 @@
       "onboard_time": 1681255581,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89106,
+      "num": 89106,
+      "word": "翩然到下线都没换过新衣服",
+      "onboard_time": 1682359576,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 88709,
@@ -55059,6 +55123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84290,
+      "num": 84290,
+      "word": "李现以前的文案",
+      "onboard_time": 1682379143,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83972,
       "num": 90672,
       "word": "敦煌藏经洞百年来首次数字复现",
@@ -55259,14 +55331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78024,
-      "num": 78024,
-      "word": "INTO1毕业前合体采访",
-      "onboard_time": 1682378061,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 77721,
       "num": 437012,
       "word": "过敏性鼻炎犯了有多难受",
@@ -55283,20 +55347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77410,
+      "num": 77410,
+      "word": "女孩帮爸爸做翻译对接外国客户",
+      "onboard_time": 1682370312,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77349,
       "num": 77349,
       "word": "张靓颖新歌",
       "onboard_time": 1681773802,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 77104,
-      "num": 77104,
-      "word": "翩然到下线都没换过新衣服",
-      "onboard_time": 1682359576,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 77064,
@@ -55465,14 +55529,6 @@
       "onboard_time": 1680279507,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 72719,
-      "num": 72719,
-      "word": "女孩帮爸爸做翻译对接外国客户",
-      "onboard_time": 1682370312,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72655,

@@ -1,7 +1,15 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682378231111,
+  "endTime": 1682379220338,
   "band_list": [
+    {
+      "raw_hot": 1703144,
+      "num": 1028063,
+      "word": "新冠",
+      "onboard_time": 1682368750,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1242661,
       "num": 234838,
@@ -11,12 +19,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1028063,
-      "num": 1028063,
-      "word": "新冠",
-      "onboard_time": 1682368750,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 1105553,
+      "num": 1105553,
+      "word": "安徽一算命网红3年非法盈利200多万",
+      "onboard_time": 1682349989,
+      "rank": 14,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 973128,
@@ -27,6 +35,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 874514,
+      "num": 252780,
+      "word": "知道奚梦瑶为什么上课不开心了",
+      "onboard_time": 1682344230,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 827733,
       "num": 249367,
       "word": "何猷君 科切拉",
@@ -35,28 +51,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 818151,
-      "num": 818151,
-      "word": "安徽一算命网红3年非法盈利200多万",
-      "onboard_time": 1682349989,
-      "rank": 14,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 708093,
       "num": 242269,
       "word": "月收入多少才算是普通人",
       "onboard_time": 1682344113,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 700791,
-      "num": 230684,
-      "word": "知道奚梦瑶为什么上课不开心了",
-      "onboard_time": 1682344230,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 658002,
@@ -75,19 +75,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 578248,
+      "num": 187084,
+      "word": "中国一女游客在泰国遭绑架后逃脱",
+      "onboard_time": 1682341770,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568323,
       "num": 241435,
       "word": "我国实行周末双休制还不足30年",
       "onboard_time": 1682328269,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474977,
-      "num": 185940,
-      "word": "中国一女游客在泰国遭绑架后逃脱",
-      "onboard_time": 1682341770,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -97,6 +97,14 @@
       "onboard_time": 1682348970,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 390865,
+      "num": 390865,
+      "word": "我负责的烈士子女考上了重点军校",
+      "onboard_time": 1682347410,
+      "rank": 28,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 383482,
@@ -115,12 +123,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381741,
+      "num": 381741,
+      "word": "朱一龙河边的错误入围戛纳",
+      "onboard_time": 1682378002,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 366065,
+      "num": 343663,
+      "word": "河边的错误",
+      "onboard_time": 1682378002,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 350333,
+      "num": 350333,
+      "word": "能接受另一半帮异性挡酒吗",
+      "onboard_time": 1682356996,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344482,
       "num": 344482,
       "word": "长月烬明豆瓣降至6.1分",
       "onboard_time": 1682340389,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 342381,
+      "num": 216672,
+      "word": "离职三天后同事发的微信",
+      "onboard_time": 1682337149,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 328022,
@@ -131,12 +171,20 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 303743,
-      "num": 303743,
-      "word": "我负责的烈士子女考上了重点军校",
-      "onboard_time": 1682347410,
-      "rank": 28,
-      "category": "军事,社会新闻"
+      "raw_hot": 324014,
+      "num": 324014,
+      "word": "18岁女孩双腿肌肉突发溶解面临截肢",
+      "onboard_time": 1682341891,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323020,
+      "num": 226682,
+      "word": "拿破仑一世鼻烟盒亮相山东",
+      "onboard_time": 1682377880,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296892,
@@ -147,12 +195,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 274999,
-      "num": 274999,
-      "word": "18岁女孩双腿肌肉突发溶解面临截肢",
-      "onboard_time": 1682341891,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 278325,
+      "num": 278325,
+      "word": "上班更累还是上学更累",
+      "onboard_time": 1682343389,
+      "rank": 48,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 274208,
@@ -163,20 +211,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 261374,
-      "num": 216672,
-      "word": "离职三天后同事发的微信",
-      "onboard_time": 1682337149,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 257112,
-      "num": 257112,
-      "word": "能接受另一半帮异性挡酒吗",
-      "onboard_time": 1682356996,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 257326,
+      "num": 257326,
+      "word": "秦昊说骗你把我从山上推下去",
+      "onboard_time": 1682350169,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 255776,
@@ -187,20 +227,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 253491,
-      "num": 225550,
-      "word": "秦昊说骗你把我从山上推下去",
-      "onboard_time": 1682350169,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 251026,
       "num": 251026,
       "word": "哭包AK",
       "onboard_time": 1682349209,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226297,
+      "num": 226297,
+      "word": "戛纳电影节",
+      "onboard_time": 1682378242,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 222019,
@@ -211,28 +251,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 212452,
-      "num": 212452,
-      "word": "上班更累还是上学更累",
-      "onboard_time": 1682343389,
-      "rank": 48,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 208425,
       "num": 208425,
       "word": "王者荣耀 妲己",
       "onboard_time": 1682331866,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207922,
-      "num": 207922,
-      "word": "朱一龙河边的错误入围戛纳",
-      "onboard_time": 1682378002,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 207504,
@@ -257,6 +281,14 @@
       "onboard_time": 1682341170,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201054,
+      "num": 201054,
+      "word": "你现在的工作能保证每周双休吗",
+      "onboard_time": 1682377820,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196134,
@@ -291,6 +323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187086,
+      "num": 187086,
+      "word": "长空之王票房预测",
+      "onboard_time": 1682378360,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185859,
       "num": 185859,
       "word": "gidle预告",
@@ -315,20 +355,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 176901,
+      "num": 133029,
+      "word": "INTO1毕业前合体采访",
+      "onboard_time": 1682378061,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174995,
       "num": 174995,
       "word": "沈腾说马丽和乔杉搭感觉没有那么顺",
       "onboard_time": 1682343031,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 172712,
-      "num": 148965,
-      "word": "拿破仑一世鼻烟盒亮相山东",
-      "onboard_time": 1682377880,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168660,
@@ -344,14 +384,6 @@
       "word": "翩然美甲掉了一个",
       "onboard_time": 1682341830,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 154029,
-      "num": 154029,
-      "word": "河边的错误",
-      "onboard_time": 1682378002,
-      "rank": 19,
       "category": "影视"
     },
     {
@@ -379,12 +411,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139573,
+      "num": 139573,
+      "word": "HYBE好像在Hanteo榜上团建",
+      "onboard_time": 1682377639,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135202,
       "num": 135202,
       "word": "鹿晗三巡",
       "onboard_time": 1682346570,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134136,
+      "num": 134136,
+      "word": "六点半和九点半下班的区别",
+      "onboard_time": 1682332049,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 133029,
@@ -403,12 +451,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 131175,
+      "num": 131175,
+      "word": "为什么读了研也找不到工作",
+      "onboard_time": 1682378784,
+      "rank": 31,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 131040,
       "num": 131040,
       "word": "上午离职下午收到offer",
       "onboard_time": 1682324247,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130975,
+      "num": 130975,
+      "word": "路人凭狗认出赵露思",
+      "onboard_time": 1682378962,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 129535,
@@ -419,28 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 127117,
-      "num": 127117,
-      "word": "你现在的工作能保证每周双休吗",
-      "onboard_time": 1682377820,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123442,
-      "num": 123442,
+      "raw_hot": 124293,
+      "num": 124293,
       "word": "成都一烧烤店每桌15燃气费",
       "onboard_time": 1682332467,
       "rank": 43,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 122870,
-      "num": 122870,
-      "word": "六点半和九点半下班的区别",
-      "onboard_time": 1682332049,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 110720,
@@ -449,6 +497,14 @@
       "onboard_time": 1682334388,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108554,
+      "num": 108554,
+      "word": "猴子想吓人结果自己抻到筋",
+      "onboard_time": 1682357357,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 105872,
@@ -467,20 +523,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 99792,
-      "num": 99792,
-      "word": "HYBE好像在Hanteo榜上团建",
-      "onboard_time": 1682377639,
-      "rank": 35,
-      "category": "音乐"
+      "raw_hot": 102265,
+      "num": 102265,
+      "word": "田柾国直播",
+      "onboard_time": 1682378722,
+      "rank": 40,
+      "category": "艺人"
     },
     {
-      "raw_hot": 95868,
-      "num": 95868,
-      "word": "猴子想吓人结果自己抻到筋",
-      "onboard_time": 1682357357,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 93189,
+      "num": 93189,
+      "word": "创造四代主题曲remix回忆杀",
+      "onboard_time": 1682378302,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 90789,
@@ -491,24 +547,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78024,
-      "num": 78024,
-      "word": "INTO1毕业前合体采访",
-      "onboard_time": 1682378061,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 77104,
-      "num": 77104,
+      "raw_hot": 89106,
+      "num": 89106,
       "word": "翩然到下线都没换过新衣服",
       "onboard_time": 1682359576,
       "rank": 39,
       "category": "影视"
     },
     {
-      "raw_hot": 72719,
-      "num": 72719,
+      "raw_hot": 84290,
+      "num": 84290,
+      "word": "李现以前的文案",
+      "onboard_time": 1682379143,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77410,
+      "num": 77410,
       "word": "女孩帮爸爸做翻译对接外国客户",
       "onboard_time": 1682370312,
       "rank": 49,
