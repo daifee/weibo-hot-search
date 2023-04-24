@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682364812348,
+  "endTime": 1682367484896,
   "band_list": [
     {
       "raw_hot": 1242661,
@@ -473,6 +473,14 @@
       "onboard_time": 1682357357,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13642,
+      "num": 13642,
+      "word": "首批中国公民撤离苏丹画面",
+      "onboard_time": 1682367072,
+      "rank": 46,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
