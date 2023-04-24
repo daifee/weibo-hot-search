@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682303719574,
+  "endTime": 1682304275318,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -6067,6 +6067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 919047,
+      "num": 919047,
+      "word": "Lisa下楼梯",
+      "onboard_time": 1682299587,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 918244,
       "num": 918244,
       "word": "马嘉祺丁程鑫暂停一期外务录制",
@@ -6953,14 +6961,6 @@
       "onboard_time": 1681000645,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 845558,
-      "num": 845558,
-      "word": "Lisa下楼梯",
-      "onboard_time": 1682299587,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 843954,
@@ -18371,6 +18371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386225,
+      "num": 386225,
+      "word": "马斯克回复称赞中国高铁的推文",
+      "onboard_time": 1682301386,
+      "rank": 16,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 386090,
       "num": 386090,
       "word": "吃菠萝扎嘴的原因",
@@ -22211,14 +22219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 315646,
-      "num": 315646,
-      "word": "马斯克回复称赞中国高铁的推文",
-      "onboard_time": 1682301386,
-      "rank": 16,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 315573,
       "num": 315573,
       "word": "湖北事业单位",
@@ -22289,6 +22289,14 @@
       "onboard_time": 1680857610,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 314568,
+      "num": 314568,
+      "word": "黄明昊 冷少",
+      "onboard_time": 1682297668,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 314330,
@@ -22425,14 +22433,6 @@
       "onboard_time": 1680425668,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312593,
-      "num": 312593,
-      "word": "黄明昊 冷少",
-      "onboard_time": 1682297668,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 312585,
@@ -23969,6 +23969,14 @@
       "onboard_time": 1682083229,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288968,
+      "num": 288968,
+      "word": "老师你别太懂了",
+      "onboard_time": 1682301984,
+      "rank": 30,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 288774,
@@ -27683,14 +27691,6 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 244031,
-      "num": 159719,
-      "word": "老师你别太懂了",
-      "onboard_time": 1682301984,
-      "rank": 30,
-      "category": "幽默,教育"
-    },
-    {
       "raw_hot": 244012,
       "num": 228076,
       "word": "柳智敏中短发造型",
@@ -28449,6 +28449,14 @@
       "onboard_time": 1682050652,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236502,
+      "num": 225841,
+      "word": "马丽新片连扇张百乔5个巴掌",
+      "onboard_time": 1682303605,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 236467,
@@ -40659,6 +40667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178217,
+      "num": 178217,
+      "word": "杜华现身王一博新片首映礼",
+      "onboard_time": 1682302644,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178195,
       "num": 178195,
       "word": "五月天演唱会求婚现场",
@@ -41833,6 +41849,14 @@
       "onboard_time": 1681466908,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170297,
+      "num": 159402,
+      "word": "我好像也进入了循环",
+      "onboard_time": 1682303846,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 170272,
@@ -44065,6 +44089,14 @@
       "onboard_time": 1681366109,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158323,
+      "num": 158323,
+      "word": "守护孩子们的航天梦",
+      "onboard_time": 1682303785,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 158311,
@@ -46467,14 +46499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144399,
-      "num": 144399,
-      "word": "马丽新片连扇张百乔5个巴掌",
-      "onboard_time": 1682303605,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 144279,
       "num": 144279,
       "word": "易烊千玺智族GQ微电影",
@@ -46705,14 +46729,6 @@
       "onboard_time": 1681820187,
       "rank": 39,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 142606,
-      "num": 142606,
-      "word": "杜华现身王一博新片首映礼",
-      "onboard_time": 1682302644,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 142597,
@@ -49555,6 +49571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124392,
+      "num": 124392,
+      "word": "五一假期如何获得更优体验",
+      "onboard_time": 1682303007,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 124303,
       "num": 219595,
       "word": "金智秀音中一位",
@@ -49979,6 +50003,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 120442,
+      "num": 120442,
+      "word": "耄耋老人为一群特殊孩子再创业",
+      "onboard_time": 1682300727,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120429,
       "num": 120429,
       "word": "啜妮心疼蓝冰",
@@ -50353,14 +50385,6 @@
       "onboard_time": 1680333751,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117237,
-      "num": 117237,
-      "word": "五一假期如何获得更优体验",
-      "onboard_time": 1682303007,
-      "rank": 41,
-      "category": "旅游"
     },
     {
       "raw_hot": 117198,
@@ -50825,14 +50849,6 @@
       "onboard_time": 1680974418,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112553,
-      "num": 112553,
-      "word": "耄耋老人为一群特殊孩子再创业",
-      "onboard_time": 1682300727,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112337,
@@ -51459,6 +51475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105842,
+      "num": 105842,
+      "word": "警惕做情绪垃圾桶",
+      "onboard_time": 1682303185,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 105803,
       "num": 105803,
       "word": "高双星陈秀礼婚礼",
@@ -51737,14 +51761,6 @@
       "onboard_time": 1682065947,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103501,
-      "num": 103501,
-      "word": "警惕做情绪垃圾桶",
-      "onboard_time": 1682303185,
-      "rank": 45,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 103437,
