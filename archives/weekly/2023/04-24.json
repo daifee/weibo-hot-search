@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682310918641,
+  "endTime": 1682313409472,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -27,6 +27,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2405001,
+      "num": 2405001,
+      "word": "李佳琦刘畊宏等5位主播被点名",
+      "onboard_time": 1682312011,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2115993,
       "num": 2115993,
       "word": "新冠第二波",
@@ -49,6 +57,14 @@
       "onboard_time": 1682307566,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1552645,
+      "num": 1552645,
+      "word": "广州商铺发现尸体是一流浪汉",
+      "onboard_time": 1682309731,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1392592,
@@ -123,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 785270,
+      "num": 785270,
+      "word": "在办公室上班真的很体面吗",
+      "onboard_time": 1682308769,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 756103,
       "num": 756103,
       "word": "丫丫将回国",
@@ -139,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 682254,
-      "num": 682254,
-      "word": "在办公室上班真的很体面吗",
-      "onboard_time": 1682308769,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 675754,
+      "num": 675754,
+      "word": "明知五一人多为什么还要出去玩",
+      "onboard_time": 1682311112,
+      "rank": 7,
+      "category": "旅游"
     },
     {
       "raw_hot": 603176,
@@ -161,14 +185,6 @@
       "onboard_time": 1682243368,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 572114,
-      "num": 219943,
-      "word": "广州商铺发现尸体是一流浪汉",
-      "onboard_time": 1682309731,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568935,
@@ -235,6 +251,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 477696,
+      "num": 477696,
+      "word": "INTO1今天正式解散了",
+      "onboard_time": 1682310572,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475944,
       "num": 370982,
       "word": "我说谢娜助理怎么那么眼熟",
@@ -251,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 462232,
+      "num": 462232,
+      "word": "张大大哭了",
+      "onboard_time": 1682310994,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458688,
       "num": 458688,
       "word": "新冠二次感染会影响五一出行吗",
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 455880,
-      "num": 329488,
+      "num": 387404,
       "word": "翟欣欣",
       "onboard_time": 1682307268,
       "rank": 18,
@@ -291,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 398817,
+      "num": 398817,
+      "word": "宋智孝将与经纪公司解约",
+      "onboard_time": 1682309971,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398170,
       "num": 398170,
       "word": "法考",
@@ -305,6 +345,30 @@
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 375551,
+      "num": 375551,
+      "word": "伍佰和玲娜贝儿是同一个人的证据",
+      "onboard_time": 1682310572,
+      "rank": 37,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 358726,
+      "num": 321794,
+      "word": "工资的一部分就是受气的",
+      "onboard_time": 1682311532,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 356044,
+      "num": 356044,
+      "word": "张颂文出现在我的朋友圈",
+      "onboard_time": 1682308649,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 353537,
@@ -339,12 +403,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 320499,
-      "num": 290170,
-      "word": "张颂文出现在我的朋友圈",
-      "onboard_time": 1682308649,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 323994,
+      "num": 323994,
+      "word": "木鱼水心",
+      "onboard_time": 1682311296,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 320390,
@@ -356,7 +420,7 @@
     },
     {
       "raw_hot": 319577,
-      "num": 263270,
+      "num": 281649,
       "word": "大量被拐儿童父母赴淄博扩散信息",
       "onboard_time": 1682308588,
       "rank": 26,
@@ -369,6 +433,14 @@
       "onboard_time": 1682292143,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 317816,
+      "num": 317816,
+      "word": "护士精神病院工作7年患重度抑郁",
+      "onboard_time": 1682310871,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314568,
@@ -401,6 +473,14 @@
       "onboard_time": 1682249008,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289111,
+      "num": 289111,
+      "word": "人民网评五一民宿毁约吃相难看",
+      "onboard_time": 1682310390,
+      "rank": 36,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 288933,
@@ -563,20 +643,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 220605,
+      "num": 220605,
+      "word": "陈晓毛晓彤云襄传定档",
+      "onboard_time": 1682311894,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212756,
       "num": 212756,
       "word": "我好像也进入了循环",
       "onboard_time": 1682303846,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 212648,
-      "num": 212648,
-      "word": "宋智孝将与经纪公司解约",
-      "onboard_time": 1682309971,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 209836,
@@ -611,14 +691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 197173,
-      "num": 197173,
-      "word": "INTO1今天正式解散了",
-      "onboard_time": 1682310572,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196471,
       "num": 196471,
       "word": "滔搏",
@@ -651,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191717,
+      "num": 191717,
+      "word": "女性如何更好的享受两性关系",
+      "onboard_time": 1682313211,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190632,
       "num": 190632,
       "word": "汤唯感受到幸福的瞬间",
@@ -675,28 +755,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187447,
-      "num": 187447,
-      "word": "人民网评五一民宿毁约吃相难看",
-      "onboard_time": 1682310390,
-      "rank": 36,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 187245,
       "num": 187245,
       "word": "人生路不熟终极预告",
       "onboard_time": 1682302766,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 186770,
-      "num": 186770,
-      "word": "伍佰和玲娜贝儿是同一个人的证据",
-      "onboard_time": 1682310572,
-      "rank": 37,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 186098,
@@ -707,20 +771,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185131,
+      "num": 331928,
+      "word": "防晒衣能洗吗",
+      "onboard_time": 1682304687,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185053,
       "num": 185053,
       "word": "广东东莞大益",
       "onboard_time": 1682265510,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184814,
-      "num": 331928,
-      "word": "防晒衣能洗吗",
-      "onboard_time": 1682304687,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184694,
@@ -747,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181493,
+      "num": 181493,
+      "word": "原生家庭对性格的影响有多深",
+      "onboard_time": 1682312373,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178411,
       "num": 178411,
       "word": "天赐的声音4官宣",
@@ -769,6 +841,22 @@
       "onboard_time": 1682309129,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171612,
+      "num": 171612,
+      "word": "尘封的金色王朝",
+      "onboard_time": 1682312731,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170982,
+      "num": 170982,
+      "word": "广东酒桌文化",
+      "onboard_time": 1682312433,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 170628,
@@ -801,6 +889,14 @@
       "onboard_time": 1682293704,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 163777,
+      "num": 163777,
+      "word": "乌鸦刺身在日本引发连锁争议",
+      "onboard_time": 1682312669,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163317,
@@ -851,12 +947,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 149554,
-      "num": 149554,
-      "word": "护士精神病院工作7年患重度抑郁",
-      "onboard_time": 1682310871,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 151642,
+      "num": 151642,
+      "word": "胡军让康康跟哥哥们打招呼",
+      "onboard_time": 1682313093,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 147058,
@@ -1019,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118113,
+      "num": 124862,
+      "word": "2023年王者五五朋友节皮肤",
+      "onboard_time": 1682313151,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 115039,
       "num": 115039,
       "word": "张婧仪分享长沙读书经历",
@@ -1172,7 +1276,7 @@
     },
     {
       "raw_hot": 9931,
-      "num": 1508848,
+      "num": 1580379,
       "word": "相约八点见",
       "onboard_time": 1682239409,
       "rank": 2,
