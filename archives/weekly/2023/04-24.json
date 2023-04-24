@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682353374668,
+  "endTime": 1682354314702,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 510112,
-      "num": 237120,
+      "num": 505656,
       "word": "安徽一算命网红3年非法盈利200多万",
       "onboard_time": 1682349989,
       "rank": 47,
@@ -1347,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251026,
+      "num": 251026,
+      "word": "哭包AK",
+      "onboard_time": 1682349209,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248927,
       "num": 248927,
       "word": "许嵩郎朗新歌",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1682320047,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213191,
-      "num": 213191,
-      "word": "哭包AK",
-      "onboard_time": 1682349209,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 212850,
@@ -2275,6 +2275,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 133029,
+      "num": 186558,
+      "word": "她带领团队打破国产计算机无芯可用困局",
+      "onboard_time": 1682351065,
+      "rank": 29,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 131600,
       "num": 131600,
       "word": "和平精英四周年",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1682303007,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 122879,
-      "num": 186558,
-      "word": "她带领团队打破国产计算机无芯可用困局",
-      "onboard_time": 1682351065,
-      "rank": 29,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 122874,
@@ -2513,6 +2513,14 @@
       "onboard_time": 1682292143,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88883,
+      "num": 88883,
+      "word": "INTO1全员发博纪念解散时刻",
+      "onboard_time": 1682354239,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 87517,
