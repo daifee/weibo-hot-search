@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682349503636,
+  "endTime": 1682350406318,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -299,7 +299,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 810665,
+      "raw_hot": 823410,
       "num": 396792,
       "word": "知道奚梦瑶为什么上课不开心了",
       "onboard_time": 1682344230,
@@ -835,6 +835,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 378464,
+      "num": 378464,
+      "word": "白玉兰网剧入围名单",
+      "onboard_time": 1682348970,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 376823,
       "num": 376823,
       "word": "老师上课被学生从背后扇并挑衅",
@@ -873,6 +881,14 @@
       "onboard_time": 1682263894,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 352692,
+      "num": 352692,
+      "word": "胖东来爆火是有原因的",
+      "onboard_time": 1682346451,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 345997,
@@ -1003,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315579,
-      "num": 315579,
-      "word": "胖东来爆火是有原因的",
-      "onboard_time": 1682346451,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 314880,
       "num": 314880,
       "word": "在直播间买东西靠谱吗",
@@ -1057,6 +1065,22 @@
       "onboard_time": 1682331447,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 306731,
+      "num": 306731,
+      "word": "陈妍希是张婧仪颜粉",
+      "onboard_time": 1682347830,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 304869,
+      "num": 202333,
+      "word": "IVE版换乘恋爱",
+      "onboard_time": 1682349926,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303450,
@@ -1187,6 +1211,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 265486,
+      "num": 265486,
+      "word": "爱奇艺 灌篮高手",
+      "onboard_time": 1682349448,
+      "rank": 45,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 265379,
       "num": 265379,
       "word": "罗云熙白鹿握手安慰彼此",
@@ -1241,14 +1273,6 @@
       "onboard_time": 1682346630,
       "rank": 31,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 255654,
-      "num": 255654,
-      "word": "陈妍希是张婧仪颜粉",
-      "onboard_time": 1682347830,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 253994,
@@ -1603,11 +1627,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196590,
-      "num": 196590,
-      "word": "白玉兰网剧入围名单",
-      "onboard_time": 1682348970,
-      "rank": 34,
+      "raw_hot": 197485,
+      "num": 197485,
+      "word": "肖战如梦之梦怼脸镜头",
+      "onboard_time": 1682348370,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -1737,14 +1761,6 @@
       "onboard_time": 1682331809,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187378,
-      "num": 187378,
-      "word": "肖战如梦之梦怼脸镜头",
-      "onboard_time": 1682348370,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 187245,
@@ -2107,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146531,
+      "num": 137093,
+      "word": "秦昊说骗你把我从山上推下去",
+      "onboard_time": 1682350169,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146359,
       "num": 146359,
       "word": "权顺荣part",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1682309250,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140554,
+      "num": 136936,
+      "word": "赵今麦 兰蔻",
+      "onboard_time": 1682350107,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140397,
@@ -2347,14 +2379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114761,
-      "num": 114761,
-      "word": "爱奇艺 灌篮高手",
-      "onboard_time": 1682349448,
-      "rank": 45,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 113503,
       "num": 113503,
       "word": "外交部再次提醒在苏中国公民",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1682251951,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103093,
+      "num": 124109,
+      "word": "安徽一算命网红3年非法盈利200多万",
+      "onboard_time": 1682349989,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 93447,
