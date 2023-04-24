@@ -1,0 +1,410 @@
+{
+  "runTime": 1682307208697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1249600,
+        "num": 1249600,
+        "word": "Lisa下楼梯",
+        "onboard_time": 1682299587,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 603176,
+        "num": 603176,
+        "word": "马斯克回复称赞中国高铁的推文",
+        "onboard_time": 1682301386,
+        "rank": 1,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 6233,
+        "num": 518175,
+        "word": "相约八点见",
+        "onboard_time": 1682239409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1338352,
+        "num": 502793,
+        "word": "杜华 纯属命好",
+        "onboard_time": 1682305441,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1041487,
+        "num": 501932,
+        "word": "五一民宿现涨价毁约潮",
+        "onboard_time": 1682292143,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 483457,
+        "num": 483457,
+        "word": "钢铁侠黑寡妇在今年牺牲了",
+        "onboard_time": 1682304506,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 435939,
+        "num": 435939,
+        "word": "陈都灵邓为高光戏份被删",
+        "onboard_time": 1682260598,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 361450,
+        "num": 361450,
+        "word": "丫丫将回国",
+        "onboard_time": 1682297069,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423288,
+        "num": 352567,
+        "word": "澹台烬抱着叶夕雾的尸体睡觉",
+        "onboard_time": 1682261855,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 313546,
+        "num": 313546,
+        "word": "江苏事业单位",
+        "onboard_time": 1682306007,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1512149,
+        "num": 312983,
+        "word": "杜海涛对沈梦辰屏蔽朋友圈",
+        "onboard_time": 1682294907,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1485980,
+        "num": 310802,
+        "word": "新冠第二波",
+        "onboard_time": 1682297310,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634078,
+        "num": 308267,
+        "word": "白鹿 以后会更加严格约束自己言行",
+        "onboard_time": 1682257595,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357877,
+        "num": 303756,
+        "word": "上海一男子商场跳楼砸中女顾客",
+        "onboard_time": 1682261562,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303450,
+        "num": 303450,
+        "word": "未定事件簿",
+        "onboard_time": 1682306065,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 355782,
+        "num": 302988,
+        "word": "B站千万粉丝UP主回应停更传言",
+        "onboard_time": 1682306306,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 338810,
+        "num": 302165,
+        "word": "老师你别太懂了",
+        "onboard_time": 1682301984,
+        "rank": 16,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 299677,
+        "num": 299677,
+        "word": "马丽新片连扇张百乔5个巴掌",
+        "onboard_time": 1682303605,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 292423,
+        "num": 292423,
+        "word": "严禁劣迹艺人随意变相复出捞金",
+        "onboard_time": 1682256753,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 285184,
+        "num": 285184,
+        "word": "黄磊问张艺兴彭昱畅跑哪去了",
+        "onboard_time": 1682306245,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262826,
+        "num": 262826,
+        "word": "科切拉的风又吹到了王嘉尔",
+        "onboard_time": 1682299648,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261226,
+        "num": 261226,
+        "word": "看不懂长月烬明了",
+        "onboard_time": 1682306667,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241107,
+        "num": 241107,
+        "word": "郭麒麟金晨平凡之路定档",
+        "onboard_time": 1682305441,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231029,
+        "num": 231029,
+        "word": "昨天周一 今天还是周一",
+        "onboard_time": 1682296469,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1057178,
+        "num": 227555,
+        "word": "淄博鸭货小哥被女游客摸肌肉",
+        "onboard_time": 1682297668,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 222101,
+        "num": 222101,
+        "word": "王一博雷宇以为在夸自己英俊",
+        "onboard_time": 1682305764,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221260,
+        "num": 221260,
+        "word": "法考",
+        "onboard_time": 1682301748,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196350,
+        "num": 196350,
+        "word": "我好像也进入了循环",
+        "onboard_time": 1682303846,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191293,
+        "num": 191293,
+        "word": "日本民众集会要求返还自中国掠夺的文物",
+        "onboard_time": 1682297069,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184108,
+        "num": 184108,
+        "word": "电影温柔壳定档",
+        "onboard_time": 1682306065,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 376034,
+        "num": 184013,
+        "word": "疑戴3万元耳钉女副局长露面",
+        "onboard_time": 1682306425,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183631,
+        "num": 183631,
+        "word": "防晒衣能洗吗",
+        "onboard_time": 1682304687,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166441,
+        "num": 166441,
+        "word": "新冠二次感染会影响五一出行吗",
+        "onboard_time": 1682296408,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158048,
+        "num": 158048,
+        "word": "王鹤棣民国猴系帅哥",
+        "onboard_time": 1682305526,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158040,
+        "num": 158040,
+        "word": "店主误会女孩偷窃门口遭摆白花",
+        "onboard_time": 1682267721,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156821,
+        "num": 156821,
+        "word": "黄明昊 冷少",
+        "onboard_time": 1682297668,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148841,
+        "num": 148841,
+        "word": "你有超过10年以上的友情吗",
+        "onboard_time": 1682301867,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146603,
+        "num": 146603,
+        "word": "你给我的喜欢",
+        "onboard_time": 1682305441,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141673,
+        "num": 141673,
+        "word": "杨毅说中国篮球一个时代落幕了",
+        "onboard_time": 1682295751,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141627,
+        "num": 141627,
+        "word": "只有杨幂关晓彤爱喝豆汁吧",
+        "onboard_time": 1682291781,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 140397,
+        "num": 140397,
+        "word": "杭州烧烤主打一个魔性",
+        "onboard_time": 1682307146,
+        "rank": 40,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 137088,
+        "num": 137088,
+        "word": "女子忘关车门4岁娃跑下车遭碾压",
+        "onboard_time": 1682274434,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130265,
+        "num": 130265,
+        "word": "库里叫暂停",
+        "onboard_time": 1682293405,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129259,
+        "num": 129259,
+        "word": "中介贿赂张靓颖经纪人中标被罚210万",
+        "onboard_time": 1682263175,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128395,
+        "num": 128395,
+        "word": "虽然真诚是必杀",
+        "onboard_time": 1682306905,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 127267,
+        "num": 127267,
+        "word": "鬼灭之刃",
+        "onboard_time": 1682294848,
+        "rank": 45,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 125525,
+        "num": 125525,
+        "word": "汤唯感受到幸福的瞬间",
+        "onboard_time": 1682301626,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115851,
+        "num": 115851,
+        "word": "锦鲤",
+        "onboard_time": 1682305824,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110873,
+        "num": 110873,
+        "word": "河南专升本",
+        "onboard_time": 1682293704,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95762,
+        "num": 106934,
+        "word": "澹台烬彻底疯了",
+        "onboard_time": 1682260598,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#真抓实干答好改革之问#"
+    }
+  }
+}

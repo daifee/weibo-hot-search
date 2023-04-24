@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682306316187,
+  "endTime": 1682307208697,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -43,8 +43,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1284484,
-      "num": 501962,
+      "raw_hot": 1338352,
+      "num": 502793,
       "word": "杜华 纯属命好",
       "onboard_time": 1682305441,
       "rank": 3,
@@ -59,8 +59,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 1231617,
-      "num": 1231617,
+      "raw_hot": 1249600,
+      "num": 1249600,
       "word": "Lisa下楼梯",
       "onboard_time": 1682299587,
       "rank": 17,
@@ -107,20 +107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603176,
+      "num": 603176,
+      "word": "马斯克回复称赞中国高铁的推文",
+      "onboard_time": 1682301386,
+      "rank": 16,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 581529,
       "num": 581529,
       "word": "初三这样穿去上学被同学说擦边",
       "onboard_time": 1682243368,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 553593,
-      "num": 553593,
-      "word": "马斯克回复称赞中国高铁的推文",
-      "onboard_time": 1682301386,
-      "rank": 16,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 548793,
@@ -153,6 +153,14 @@
       "onboard_time": 1682261379,
       "rank": 6,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 483457,
+      "num": 483457,
+      "word": "钢铁侠黑寡妇在今年牺牲了",
+      "onboard_time": 1682304506,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 480097,
@@ -211,14 +219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 419860,
-      "num": 419860,
-      "word": "钢铁侠黑寡妇在今年牺牲了",
-      "onboard_time": 1682304506,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 398170,
       "num": 398170,
       "word": "法考",
@@ -233,6 +233,22 @@
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 376034,
+      "num": 184013,
+      "word": "疑戴3万元耳钉女副局长露面",
+      "onboard_time": 1682306425,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355782,
+      "num": 302988,
+      "word": "B站千万粉丝UP主回应停更传言",
+      "onboard_time": 1682306306,
+      "rank": 45,
+      "category": "科技"
     },
     {
       "raw_hot": 353537,
@@ -251,7 +267,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 330421,
+      "raw_hot": 338810,
       "num": 330421,
       "word": "老师你别太懂了",
       "onboard_time": 1682301984,
@@ -283,6 +299,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313546,
+      "num": 313546,
+      "word": "江苏事业单位",
+      "onboard_time": 1682306007,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 303450,
+      "num": 303450,
+      "word": "未定事件簿",
+      "onboard_time": 1682306065,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292956,
       "num": 443051,
       "word": "姑娘年薪50万却毅然从银行离职",
@@ -297,6 +329,14 @@
       "onboard_time": 1682260598,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 285184,
+      "num": 285184,
+      "word": "黄磊问张艺兴彭昱畅跑哪去了",
+      "onboard_time": 1682306245,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 271602,
@@ -321,6 +361,14 @@
       "onboard_time": 1682294848,
       "rank": 22,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 261226,
+      "num": 261226,
+      "word": "看不懂长月烬明了",
+      "onboard_time": 1682306667,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 258113,
@@ -363,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241107,
+      "num": 241107,
+      "word": "郭麒麟金晨平凡之路定档",
+      "onboard_time": 1682305441,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232306,
       "num": 232306,
       "word": "谁帮张一山修修图",
@@ -387,11 +443,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218004,
-      "num": 218004,
-      "word": "郭麒麟金晨平凡之路定档",
-      "onboard_time": 1682305441,
-      "rank": 21,
+      "raw_hot": 222101,
+      "num": 222101,
+      "word": "王一博雷宇以为在夸自己英俊",
+      "onboard_time": 1682305764,
+      "rank": 24,
       "category": "影视"
     },
     {
@@ -417,22 +473,6 @@
       "onboard_time": 1682263596,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205732,
-      "num": 205732,
-      "word": "未定事件簿",
-      "onboard_time": 1682306065,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 205387,
-      "num": 205387,
-      "word": "王一博雷宇以为在夸自己英俊",
-      "onboard_time": 1682305764,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 204808,
@@ -473,14 +513,6 @@
       "onboard_time": 1682305526,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 193463,
-      "num": 193463,
-      "word": "江苏事业单位",
-      "onboard_time": 1682306007,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 190632,
@@ -547,6 +579,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 184108,
+      "num": 184108,
+      "word": "电影温柔壳定档",
+      "onboard_time": 1682306065,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178217,
       "num": 178217,
       "word": "杜华现身王一博新片首映礼",
@@ -593,14 +633,6 @@
       "onboard_time": 1682301867,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162709,
-      "num": 162709,
-      "word": "电影温柔壳定档",
-      "onboard_time": 1682306065,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 160956,
@@ -667,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140397,
+      "num": 140397,
+      "word": "杭州烧烤主打一个魔性",
+      "onboard_time": 1682307146,
+      "rank": 40,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 139158,
       "num": 139158,
       "word": "这些绝美镜头都是从天宫拍的",
@@ -715,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128395,
+      "num": 128395,
+      "word": "虽然真诚是必杀",
+      "onboard_time": 1682306905,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 126113,
       "num": 126113,
       "word": "铃芽之旅原本是双女主",
@@ -739,28 +787,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 123922,
-      "num": 123922,
-      "word": "黄磊问张艺兴彭昱畅跑哪去了",
-      "onboard_time": 1682306245,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122874,
       "num": 106305,
       "word": "叶夕雾说澹台烬再见了",
       "onboard_time": 1682254171,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122399,
-      "num": 122399,
-      "word": "B站千万粉丝UP主回应停更传言",
-      "onboard_time": 1682306306,
-      "rank": 45,
-      "category": "科技"
     },
     {
       "raw_hot": 121066,
