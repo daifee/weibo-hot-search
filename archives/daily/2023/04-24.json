@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682321605893,
+  "endTime": 1682324558555,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1708410,
+      "num": 475320,
+      "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+      "onboard_time": 1682316448,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1649363,
       "num": 1649363,
       "word": "张艺兴我是市民不是市长",
@@ -83,14 +91,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1432090,
-      "num": 475320,
-      "word": "杨迪 没有艺人愿意点玉米面糊塌子",
-      "onboard_time": 1682316448,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1392592,
       "num": 1392592,
       "word": "严禁劣迹艺人随意变相复出捞金",
@@ -105,6 +105,14 @@
       "onboard_time": 1682292143,
       "rank": 29,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1380844,
+      "num": 1380844,
+      "word": "杨颖瘦的原因",
+      "onboard_time": 1682320708,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1338352,
@@ -139,12 +147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1000327,
-      "num": 1000327,
-      "word": "杨颖瘦的原因",
-      "onboard_time": 1682320708,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 1053568,
+      "num": 1053568,
+      "word": "没认出来陈乔恩",
+      "onboard_time": 1682320166,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 846262,
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 700587,
-      "num": 459545,
-      "word": "没认出来陈乔恩",
-      "onboard_time": 1682320166,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 677518,
       "num": 677518,
       "word": "法考",
@@ -243,6 +243,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 584419,
+      "num": 584419,
+      "word": "王嘉尔是真的闯出去了",
+      "onboard_time": 1682319927,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 581529,
       "num": 581529,
       "word": "初三这样穿去上学被同学说擦边",
@@ -265,14 +273,6 @@
       "onboard_time": 1682274434,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539242,
-      "num": 539242,
-      "word": "王嘉尔是真的闯出去了",
-      "onboard_time": 1682319927,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 534961,
@@ -387,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 438788,
+      "num": 392549,
+      "word": "番禺母婴店发现尸体警方排除他杀",
+      "onboard_time": 1682321966,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436253,
       "num": 436253,
       "word": "假球",
@@ -411,6 +419,22 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 432325,
+      "num": 385423,
+      "word": "这个是不是蓝环章鱼",
+      "onboard_time": 1682321427,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 426873,
+      "num": 426873,
+      "word": "王鹤棣新剧旁白是东方青苍",
+      "onboard_time": 1682321367,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414973,
       "num": 414973,
       "word": "宋智孝将与经纪公司解约",
@@ -433,6 +457,14 @@
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 367665,
+      "num": 162095,
+      "word": "调休上班你会比平时摸鱼吗",
+      "onboard_time": 1682323886,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358726,
@@ -489,6 +521,14 @@
       "onboard_time": 1682309310,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322301,
+      "num": 322301,
+      "word": "法考没过",
+      "onboard_time": 1682321726,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 320390,
@@ -675,20 +715,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 251879,
+      "num": 1232796,
+      "word": "今天我们为何还要读书",
+      "onboard_time": 1682319865,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248927,
       "num": 248927,
       "word": "许嵩郎朗新歌",
       "onboard_time": 1682310572,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 246829,
-      "num": 246829,
-      "word": "王鹤棣新剧旁白是东方青苍",
-      "onboard_time": 1682321367,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 246548,
@@ -705,6 +745,14 @@
       "onboard_time": 1682261200,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244214,
+      "num": 236774,
+      "word": "原来傻妞是澹台烬做的",
+      "onboard_time": 1682322808,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 241107,
@@ -795,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216062,
+      "num": 216062,
+      "word": "武庚纪",
+      "onboard_time": 1682320047,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212756,
       "num": 212756,
       "word": "我好像也进入了循环",
@@ -859,12 +915,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200535,
+      "num": 200535,
+      "word": "德国媒体漫画 印度人口超越中国",
+      "onboard_time": 1682323768,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196471,
       "num": 196471,
       "word": "滔搏",
       "onboard_time": 1682254051,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195199,
+      "num": 195199,
+      "word": "教科书里的罗云熙",
+      "onboard_time": 1682321427,
+      "rank": 47,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 195084,
@@ -995,14 +1067,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 183285,
-      "num": 170475,
-      "word": "这个是不是蓝环章鱼",
-      "onboard_time": 1682321427,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 182535,
       "num": 182535,
       "word": "淄博鸭货小哥呼吁不要太关注他本人",
@@ -1091,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164472,
+      "num": 164472,
+      "word": "年轻人为了拿offer有多拼",
+      "onboard_time": 1682323407,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164075,
       "num": 164075,
       "word": "河南专升本",
@@ -1131,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158983,
-      "num": 158983,
-      "word": "武庚纪",
-      "onboard_time": 1682320047,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158577,
       "num": 158577,
       "word": "声生不息宝岛季改档",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1682313151,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154408,
+      "num": 154408,
+      "word": "上午离职下午收到offer",
+      "onboard_time": 1682324247,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 148049,
@@ -1225,6 +1297,14 @@
       "onboard_time": 1682307146,
       "rank": 40,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 139182,
+      "num": 139182,
+      "word": "刘宇宁说揭露剧组重磅秘密",
+      "onboard_time": 1682322088,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 139158,
@@ -1291,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 129100,
+      "num": 129100,
+      "word": "为什么和妈妈说话就很不耐烦",
+      "onboard_time": 1682317466,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126671,
       "num": 126671,
       "word": "黑豹乐队新主唱项亚蕻",
@@ -1323,36 +1411,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 123581,
-      "num": 1232796,
-      "word": "今天我们为何还要读书",
-      "onboard_time": 1682319865,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122874,
       "num": 106305,
       "word": "叶夕雾说澹台烬再见了",
       "onboard_time": 1682254171,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122444,
-      "num": 122444,
-      "word": "教科书里的罗云熙",
-      "onboard_time": 1682321427,
-      "rank": 47,
-      "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 121121,
-      "num": 121121,
-      "word": "为什么和妈妈说话就很不耐烦",
-      "onboard_time": 1682317466,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 121066,
@@ -1441,6 +1505,14 @@
       "onboard_time": 1682251951,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101953,
+      "num": 101953,
+      "word": "第一批在苏中国公民已安全撤至邻国",
+      "onboard_time": 1682324550,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 93447,
