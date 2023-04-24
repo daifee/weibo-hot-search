@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682375613801,
+  "endTime": 1682378231111,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1028063,
+      "num": 1028063,
+      "word": "新冠",
+      "onboard_time": 1682368750,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999954,
       "num": 999954,
       "word": "林心如和女儿视频通话",
@@ -313,6 +321,14 @@
       "onboard_time": 1682344230,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 818151,
+      "num": 818151,
+      "word": "安徽一算命网红3年非法盈利200多万",
+      "onboard_time": 1682349989,
+      "rank": 47,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 801619,
@@ -473,14 +489,6 @@
       "onboard_time": 1682304506,
       "rank": 6,
       "category": "影视"
-    },
-    {
-      "raw_hot": 510112,
-      "num": 505656,
-      "word": "安徽一算命网红3年非法盈利200多万",
-      "onboard_time": 1682349989,
-      "rank": 47,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 509441,
@@ -721,14 +729,6 @@
       "onboard_time": 1682253513,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 436058,
-      "num": 436058,
-      "word": "新冠",
-      "onboard_time": 1682368750,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 435749,
@@ -1291,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257112,
+      "num": 257112,
+      "word": "能接受另一半帮异性挡酒吗",
+      "onboard_time": 1682356996,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256745,
       "num": 195584,
       "word": "遇上法定节假日你会拼假吗",
@@ -1563,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212452,
+      "num": 212452,
+      "word": "上班更累还是上学更累",
+      "onboard_time": 1682343389,
+      "rank": 28,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 211585,
       "num": 211585,
       "word": "科目二到底有多难考",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1682264135,
       "rank": 25,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 207922,
+      "num": 207922,
+      "word": "朱一龙河边的错误入围戛纳",
+      "onboard_time": 1682378002,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 207504,
@@ -1681,14 +1705,6 @@
       "onboard_time": 1682254051,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 195470,
-      "num": 195470,
-      "word": "上班更累还是上学更累",
-      "onboard_time": 1682343389,
-      "rank": 28,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 195084,
@@ -1963,6 +1979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172712,
+      "num": 148965,
+      "word": "拿破仑一世鼻烟盒亮相山东",
+      "onboard_time": 1682377880,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172325,
       "num": 172325,
       "word": "易车否认策划宝马冰激凌事件",
@@ -2147,12 +2171,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153974,
-      "num": 153974,
-      "word": "能接受另一半帮异性挡酒吗",
-      "onboard_time": 1682356996,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 154029,
+      "num": 154029,
+      "word": "河边的错误",
+      "onboard_time": 1682378002,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 153841,
@@ -2201,6 +2225,14 @@
       "onboard_time": 1682255731,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146695,
+      "num": 146695,
+      "word": "五一出行会加速新冠二次感染吗",
+      "onboard_time": 1682370731,
+      "rank": 47,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 146359,
@@ -2361,6 +2393,14 @@
       "onboard_time": 1682317466,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127117,
+      "num": 127117,
+      "word": "你现在的工作能保证每周双休吗",
+      "onboard_time": 1682377820,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126671,
@@ -2531,6 +2571,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99792,
+      "num": 99792,
+      "word": "HYBE好像在Hanteo榜上团建",
+      "onboard_time": 1682377639,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 95868,
+      "num": 95868,
+      "word": "猴子想吓人结果自己抻到筋",
+      "onboard_time": 1682357357,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93447,
       "num": 93447,
       "word": "一人一句祝福中国航天",
@@ -2553,14 +2609,6 @@
       "onboard_time": 1682292143,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 88300,
-      "num": 88300,
-      "word": "五一出行会加速新冠二次感染吗",
-      "onboard_time": 1682370731,
-      "rank": 47,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 87517,
@@ -2595,12 +2643,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 78024,
+      "num": 78024,
+      "word": "INTO1毕业前合体采访",
+      "onboard_time": 1682378061,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77104,
+      "num": 77104,
+      "word": "翩然到下线都没换过新衣服",
+      "onboard_time": 1682359576,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 75315,
       "num": 75315,
       "word": "戚薇被粉丝喊话不要再减肥了",
       "onboard_time": 1682291360,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 72719,
+      "num": 72719,
+      "word": "女孩帮爸爸做翻译对接外国客户",
+      "onboard_time": 1682370312,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70344,
@@ -2635,35 +2707,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43180,
-      "num": 43180,
-      "word": "女孩帮爸爸做翻译对接外国客户",
-      "onboard_time": 1682370312,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43133,
       "num": 48080,
       "word": "半熟男女官宣没有周雨彤",
       "onboard_time": 1682242770,
       "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 40059,
-      "num": 40059,
-      "word": "猴子想吓人结果自己抻到筋",
-      "onboard_time": 1682357357,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 38947,
-      "num": 38749,
-      "word": "翩然到下线都没换过新衣服",
-      "onboard_time": 1682359576,
-      "rank": 39,
       "category": "影视"
     },
     {

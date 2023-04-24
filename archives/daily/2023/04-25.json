@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682375613801,
+  "endTime": 1682378231111,
   "band_list": [
     {
       "raw_hot": 1242661,
@@ -9,6 +9,14 @@
       "onboard_time": 1682334087,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1028063,
+      "num": 1028063,
+      "word": "新冠",
+      "onboard_time": 1682368750,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 973128,
@@ -27,12 +35,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 818151,
+      "num": 818151,
+      "word": "安徽一算命网红3年非法盈利200多万",
+      "onboard_time": 1682349989,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 708093,
       "num": 242269,
       "word": "月收入多少才算是普通人",
       "onboard_time": 1682344113,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 700791,
+      "num": 230684,
+      "word": "知道奚梦瑶为什么上课不开心了",
+      "onboard_time": 1682344230,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 658002,
@@ -59,20 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510112,
-      "num": 505656,
-      "word": "安徽一算命网红3年非法盈利200多万",
-      "onboard_time": 1682349989,
-      "rank": 14,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 497781,
-      "num": 230684,
-      "word": "知道奚梦瑶为什么上课不开心了",
-      "onboard_time": 1682344230,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 474977,
+      "num": 185940,
+      "word": "中国一女游客在泰国遭绑架后逃脱",
+      "onboard_time": 1682341770,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 461289,
@@ -81,14 +97,6 @@
       "onboard_time": 1682348970,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 436058,
-      "num": 436058,
-      "word": "新冠",
-      "onboard_time": 1682368750,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383482,
@@ -123,12 +131,28 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 303743,
+      "num": 303743,
+      "word": "我负责的烈士子女考上了重点军校",
+      "onboard_time": 1682347410,
+      "rank": 28,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 296892,
       "num": 296892,
       "word": "胖东来爆火是有原因的",
       "onboard_time": 1682346451,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 274999,
+      "num": 274999,
+      "word": "18岁女孩双腿肌肉突发溶解面临截肢",
+      "onboard_time": 1682341891,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274208,
@@ -147,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257112,
+      "num": 257112,
+      "word": "能接受另一半帮异性挡酒吗",
+      "onboard_time": 1682356996,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255776,
       "num": 216329,
       "word": "东南大学一领导被曝工作群发色情照",
@@ -161,14 +193,6 @@
       "onboard_time": 1682350169,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 252272,
-      "num": 252272,
-      "word": "18岁女孩双腿肌肉突发溶解面临截肢",
-      "onboard_time": 1682341891,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251026,
@@ -187,12 +211,12 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 214057,
-      "num": 185940,
-      "word": "中国一女游客在泰国遭绑架后逃脱",
-      "onboard_time": 1682341770,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 212452,
+      "num": 212452,
+      "word": "上班更累还是上学更累",
+      "onboard_time": 1682343389,
+      "rank": 48,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 208425,
@@ -201,6 +225,14 @@
       "onboard_time": 1682331866,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207922,
+      "num": 207922,
+      "word": "朱一龙河边的错误入围戛纳",
+      "onboard_time": 1682378002,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 207504,
@@ -241,14 +273,6 @@
       "onboard_time": 1682340450,
       "rank": 27,
       "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 191137,
-      "num": 191137,
-      "word": "我负责的烈士子女考上了重点军校",
-      "onboard_time": 1682347410,
-      "rank": 28,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 189488,
@@ -299,6 +323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172712,
+      "num": 148965,
+      "word": "拿破仑一世鼻烟盒亮相山东",
+      "onboard_time": 1682377880,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168660,
       "num": 168660,
       "word": "淘宝崩了",
@@ -315,12 +347,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 153974,
-      "num": 153974,
-      "word": "能接受另一半帮异性挡酒吗",
-      "onboard_time": 1682356996,
+      "raw_hot": 154029,
+      "num": 154029,
+      "word": "河边的错误",
+      "onboard_time": 1682378002,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146695,
+      "num": 146695,
+      "word": "五一出行会加速新冠二次感染吗",
+      "onboard_time": 1682370731,
       "rank": 47,
-      "category": "综艺"
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 145544,
@@ -379,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127117,
+      "num": 127117,
+      "word": "你现在的工作能保证每周双休吗",
+      "onboard_time": 1682377820,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123442,
       "num": 123442,
       "word": "成都一烧烤店每桌15燃气费",
@@ -419,12 +467,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 99079,
-      "num": 99079,
-      "word": "上班更累还是上学更累",
-      "onboard_time": 1682343389,
-      "rank": 48,
-      "category": "情感,教育"
+      "raw_hot": 99792,
+      "num": 99792,
+      "word": "HYBE好像在Hanteo榜上团建",
+      "onboard_time": 1682377639,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 95868,
+      "num": 95868,
+      "word": "猴子想吓人结果自己抻到筋",
+      "onboard_time": 1682357357,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 90789,
@@ -435,12 +491,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88300,
-      "num": 88300,
-      "word": "五一出行会加速新冠二次感染吗",
-      "onboard_time": 1682370731,
-      "rank": 47,
-      "category": "社会新闻,旅游"
+      "raw_hot": 78024,
+      "num": 78024,
+      "word": "INTO1毕业前合体采访",
+      "onboard_time": 1682378061,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77104,
+      "num": 77104,
+      "word": "翩然到下线都没换过新衣服",
+      "onboard_time": 1682359576,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 72719,
+      "num": 72719,
+      "word": "女孩帮爸爸做翻译对接外国客户",
+      "onboard_time": 1682370312,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59458,
@@ -457,30 +529,6 @@
       "onboard_time": 1682328689,
       "rank": 49,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 43180,
-      "num": 43180,
-      "word": "女孩帮爸爸做翻译对接外国客户",
-      "onboard_time": 1682370312,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40059,
-      "num": 40059,
-      "word": "猴子想吓人结果自己抻到筋",
-      "onboard_time": 1682357357,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 38947,
-      "num": 38749,
-      "word": "翩然到下线都没换过新衣服",
-      "onboard_time": 1682359576,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 38171,
