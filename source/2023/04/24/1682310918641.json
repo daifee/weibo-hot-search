@@ -1,0 +1,410 @@
+{
+  "runTime": 1682310918641,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2470645,
+        "num": 2470645,
+        "word": "B站千万粉丝UP主回应停更传言",
+        "onboard_time": 1682306306,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1649363,
+        "num": 1649363,
+        "word": "张艺兴我是市民不是市长",
+        "onboard_time": 1682307566,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6316,
+        "num": 1208583,
+        "word": "相约八点见",
+        "onboard_time": 1682239409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042518,
+        "num": 1042518,
+        "word": "杜华 纯属命好",
+        "onboard_time": 1682305441,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777983,
+        "num": 777983,
+        "word": "看不懂长月烬明了",
+        "onboard_time": 1682306667,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 705354,
+        "num": 705354,
+        "word": "Lisa下楼梯",
+        "onboard_time": 1682299587,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 682254,
+        "num": 682254,
+        "word": "在办公室上班真的很体面吗",
+        "onboard_time": 1682308769,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 479175,
+        "num": 479175,
+        "word": "钢铁侠黑寡妇在今年牺牲了",
+        "onboard_time": 1682304506,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 301687,
+        "num": 301687,
+        "word": "马斯克回复称赞中国高铁的推文",
+        "onboard_time": 1682301386,
+        "rank": 8,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 297841,
+        "num": 297841,
+        "word": "丫丫将回国",
+        "onboard_time": 1682297069,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1713976,
+        "num": 297659,
+        "word": "疑戴3万元耳钉女副局长露面",
+        "onboard_time": 1682306425,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1382284,
+        "num": 291553,
+        "word": "杜海涛对沈梦辰屏蔽朋友圈",
+        "onboard_time": 1682294907,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1170673,
+        "num": 290805,
+        "word": "新冠第二波",
+        "onboard_time": 1682297310,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645844,
+        "num": 285810,
+        "word": "白鹿 以后会更加严格约束自己言行",
+        "onboard_time": 1682257595,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182941,
+        "num": 284380,
+        "word": "防晒衣能洗吗",
+        "onboard_time": 1682304687,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493352,
+        "num": 278629,
+        "word": "五一民宿现涨价毁约潮",
+        "onboard_time": 1682292143,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 455880,
+        "num": 277275,
+        "word": "翟欣欣",
+        "onboard_time": 1682307268,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400253,
+        "num": 274473,
+        "word": "06年的台词放现在也是非常炸裂",
+        "onboard_time": 1682307446,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363750,
+        "num": 269855,
+        "word": "易烊千玺的金丝眼镜",
+        "onboard_time": 1682309129,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320499,
+        "num": 265423,
+        "word": "张颂文出现在我的朋友圈",
+        "onboard_time": 1682308649,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319577,
+        "num": 263270,
+        "word": "大量被拐儿童父母赴淄博扩散信息",
+        "onboard_time": 1682308588,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262085,
+        "num": 262085,
+        "word": "武汉多地标惊现游戏NPC打卡",
+        "onboard_time": 1682308708,
+        "rank": 21,
+        "category": "游戏,社会新闻"
+      },
+      {
+        "raw_hot": 261025,
+        "num": 261025,
+        "word": "陈都灵邓为高光戏份被删",
+        "onboard_time": 1682260598,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 252561,
+        "num": 252561,
+        "word": "云襄传",
+        "onboard_time": 1682309909,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248954,
+        "num": 248954,
+        "word": "上海一男子商场跳楼砸中女顾客",
+        "onboard_time": 1682261562,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250587,
+        "num": 248950,
+        "word": "澹台烬抱着叶夕雾的尸体睡觉",
+        "onboard_time": 1682261855,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248927,
+        "num": 248927,
+        "word": "许嵩郎朗新歌",
+        "onboard_time": 1682310572,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236928,
+        "num": 236928,
+        "word": "科切拉的风又吹到了王嘉尔",
+        "onboard_time": 1682299648,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235975,
+        "num": 235975,
+        "word": "江苏事业单位",
+        "onboard_time": 1682306007,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220901,
+        "num": 220901,
+        "word": "虽然真诚是必杀",
+        "onboard_time": 1682306905,
+        "rank": 29,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 572114,
+        "num": 219943,
+        "word": "广州商铺发现尸体是一流浪汉",
+        "onboard_time": 1682309731,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267058,
+        "num": 219293,
+        "word": "调休会影响上班上课状态吗",
+        "onboard_time": 1682310632,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212648,
+        "num": 212648,
+        "word": "宋智孝将与经纪公司解约",
+        "onboard_time": 1682309971,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197173,
+        "num": 197173,
+        "word": "INTO1今天正式解散了",
+        "onboard_time": 1682310572,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193611,
+        "num": 193611,
+        "word": "长月烬明血糖",
+        "onboard_time": 1682307508,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 189254,
+        "num": 189254,
+        "word": "郭麒麟金晨平凡之路定档",
+        "onboard_time": 1682305441,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187447,
+        "num": 187447,
+        "word": "人民网评五一民宿毁约吃相难看",
+        "onboard_time": 1682310390,
+        "rank": 36,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 186770,
+        "num": 186770,
+        "word": "伍佰和玲娜贝儿是同一个人的证据",
+        "onboard_time": 1682310572,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 184927,
+        "num": 184927,
+        "word": "严禁劣迹艺人随意变相复出捞金",
+        "onboard_time": 1682256753,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 182535,
+        "num": 182535,
+        "word": "淄博鸭货小哥呼吁不要太关注他本人",
+        "onboard_time": 1682309609,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178411,
+        "num": 178411,
+        "word": "天赐的声音4官宣",
+        "onboard_time": 1682307626,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170808,
+        "num": 170808,
+        "word": "马丽新片连扇张百乔5个巴掌",
+        "onboard_time": 1682303605,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161923,
+        "num": 161923,
+        "word": "王一博雷宇以为在夸自己英俊",
+        "onboard_time": 1682305764,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160827,
+        "num": 160827,
+        "word": "职场里需要在意别人看法吗",
+        "onboard_time": 1682310451,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160594,
+        "num": 160594,
+        "word": "老师你别太懂了",
+        "onboard_time": 1682301984,
+        "rank": 44,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 156458,
+        "num": 156458,
+        "word": "闪耀暖暖",
+        "onboard_time": 1682309310,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154445,
+        "num": 154445,
+        "word": "日本民众集会要求返还自中国掠夺的文物",
+        "onboard_time": 1682297069,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151386,
+        "num": 151386,
+        "word": "法考",
+        "onboard_time": 1682301748,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149554,
+        "num": 149554,
+        "word": "护士精神病院工作7年患重度抑郁",
+        "onboard_time": 1682310871,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132824,
+        "num": 148125,
+        "word": "未定事件簿",
+        "onboard_time": 1682306065,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#真抓实干答好改革之问#"
+    }
+  }
+}

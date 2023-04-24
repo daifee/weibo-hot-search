@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682310094568,
+  "endTime": 1682310918641,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2343579,
-      "num": 2343579,
+      "raw_hot": 2470645,
+      "num": 2470645,
       "word": "B站千万粉丝UP主回应停更传言",
       "onboard_time": 1682306306,
       "rank": 45,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1609333,
-      "num": 1609333,
-      "word": "张艺兴我是市民不是市长",
-      "onboard_time": 1682307566,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 1576812,
+      "raw_hot": 1713976,
       "num": 916593,
       "word": "疑戴3万元耳钉女副局长露面",
       "onboard_time": 1682306425,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1649363,
+      "num": 1649363,
+      "word": "张艺兴我是市民不是市长",
+      "onboard_time": 1682307566,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1392592,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1338352,
-      "num": 916745,
+      "num": 1042518,
       "word": "杜华 纯属命好",
       "onboard_time": 1682305441,
       "rank": 3,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682254,
+      "num": 682254,
+      "word": "在办公室上班真的很体面吗",
+      "onboard_time": 1682308769,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 603176,
       "num": 603176,
       "word": "马斯克回复称赞中国高铁的推文",
@@ -153,6 +161,14 @@
       "onboard_time": 1682243368,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 572114,
+      "num": 219943,
+      "word": "广州商铺发现尸体是一流浪汉",
+      "onboard_time": 1682309731,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 568935,
@@ -243,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455880,
+      "num": 329488,
+      "word": "翟欣欣",
+      "onboard_time": 1682307268,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441322,
       "num": 441322,
       "word": "韩国人吵架跟韩剧一模一样",
@@ -267,28 +291,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 427285,
-      "num": 427285,
-      "word": "在办公室上班真的很体面吗",
-      "onboard_time": 1682308769,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 398170,
       "num": 398170,
       "word": "法考",
       "onboard_time": 1682301748,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 397125,
-      "num": 329488,
-      "word": "翟欣欣",
-      "onboard_time": 1682307268,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376823,
@@ -331,12 +339,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 320499,
+      "num": 290170,
+      "word": "张颂文出现在我的朋友圈",
+      "onboard_time": 1682308649,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320390,
       "num": 320390,
       "word": "只有杨幂关晓彤爱喝豆汁吧",
       "onboard_time": 1682291781,
       "rank": 47,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 319577,
+      "num": 263270,
+      "word": "大量被拐儿童父母赴淄博扩散信息",
+      "onboard_time": 1682308588,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317824,
@@ -379,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290170,
-      "num": 290170,
-      "word": "张颂文出现在我的朋友圈",
-      "onboard_time": 1682308649,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288933,
       "num": 288933,
       "word": "澹台烬彻底疯了",
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267058,
+      "num": 219293,
+      "word": "调休会影响上班上课状态吗",
+      "onboard_time": 1682310632,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266709,
       "num": 266709,
       "word": "鬼灭之刃",
@@ -459,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252561,
+      "num": 252561,
+      "word": "云襄传",
+      "onboard_time": 1682309909,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252135,
       "num": 252135,
       "word": "SEVENTEEN新歌",
@@ -467,12 +499,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 247750,
-      "num": 247750,
-      "word": "大量被拐儿童父母赴淄博扩散信息",
-      "onboard_time": 1682308588,
+      "raw_hot": 248927,
+      "num": 248927,
+      "word": "许嵩郎朗新歌",
+      "onboard_time": 1682310572,
       "rank": 26,
-      "category": "社会新闻"
+      "category": "音乐"
     },
     {
       "raw_hot": 244938,
@@ -523,12 +555,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220901,
+      "num": 220901,
+      "word": "虽然真诚是必杀",
+      "onboard_time": 1682306905,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 212756,
       "num": 212756,
       "word": "我好像也进入了循环",
       "onboard_time": 1682303846,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212648,
+      "num": 212648,
+      "word": "宋智孝将与经纪公司解约",
+      "onboard_time": 1682309971,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 209836,
@@ -563,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197173,
+      "num": 197173,
+      "word": "INTO1今天正式解散了",
+      "onboard_time": 1682310572,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196471,
       "num": 196471,
       "word": "滔搏",
@@ -579,19 +635,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 194828,
-      "num": 194828,
-      "word": "虽然真诚是必杀",
-      "onboard_time": 1682306905,
-      "rank": 44,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 194011,
       "num": 194011,
       "word": "王鹤棣民国猴系帅哥",
       "onboard_time": 1682305526,
       "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193611,
+      "num": 193611,
+      "word": "长月烬明血糖",
+      "onboard_time": 1682307508,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -619,12 +675,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187447,
+      "num": 187447,
+      "word": "人民网评五一民宿毁约吃相难看",
+      "onboard_time": 1682310390,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 187245,
       "num": 187245,
       "word": "人生路不熟终极预告",
       "onboard_time": 1682302766,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186770,
+      "num": 186770,
+      "word": "伍佰和玲娜贝儿是同一个人的证据",
+      "onboard_time": 1682310572,
+      "rank": 37,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 186098,
@@ -641,14 +713,6 @@
       "onboard_time": 1682265510,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184880,
-      "num": 184880,
-      "word": "广州商铺发现尸体是一流浪汉",
-      "onboard_time": 1682309731,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184814,
@@ -675,18 +739,26 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182535,
+      "num": 182535,
+      "word": "淄博鸭货小哥呼吁不要太关注他本人",
+      "onboard_time": 1682309609,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178411,
+      "num": 178411,
+      "word": "天赐的声音4官宣",
+      "onboard_time": 1682307626,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178217,
       "num": 178217,
       "word": "杜华现身王一博新片首映礼",
       "onboard_time": 1682302644,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 177851,
-      "num": 177851,
-      "word": "长月烬明血糖",
-      "onboard_time": 1682307508,
       "rank": 33,
       "category": "影视"
     },
@@ -697,14 +769,6 @@
       "onboard_time": 1682309129,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 173119,
-      "num": 173119,
-      "word": "天赐的声音4官宣",
-      "onboard_time": 1682307626,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 170628,
@@ -721,14 +785,6 @@
       "onboard_time": 1682299945,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166124,
-      "num": 166124,
-      "word": "淄博鸭货小哥呼吁不要太关注他本人",
-      "onboard_time": 1682309609,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165518,
@@ -755,20 +811,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161242,
-      "num": 161242,
-      "word": "云襄传",
-      "onboard_time": 1682309909,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160956,
       "num": 160956,
       "word": "专家称二阳患者应属个例",
       "onboard_time": 1682300246,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160827,
+      "num": 160827,
+      "word": "职场里需要在意别人看法吗",
+      "onboard_time": 1682310451,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 159932,
@@ -793,6 +849,14 @@
       "onboard_time": 1682241750,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 149554,
+      "num": 149554,
+      "word": "护士精神病院工作7年患重度抑郁",
+      "onboard_time": 1682310871,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147058,
@@ -945,14 +1009,6 @@
       "onboard_time": 1682308291,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118999,
-      "num": 118999,
-      "word": "宋智孝将与经纪公司解约",
-      "onboard_time": 1682309971,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 118363,
