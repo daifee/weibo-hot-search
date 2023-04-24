@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682346817796,
+  "endTime": 1682349503636,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -219,6 +219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1214935,
+      "num": 1214935,
+      "word": "月收入多少才算是普通人",
+      "onboard_time": 1682344113,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1113051,
       "num": 1113051,
       "word": "SEVENTEEN回归",
@@ -241,6 +249,14 @@
       "onboard_time": 1682343031,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 999954,
+      "num": 999954,
+      "word": "林心如和女儿视频通话",
+      "onboard_time": 1682338709,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 925221,
@@ -283,20 +299,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 810665,
+      "num": 396792,
+      "word": "知道奚梦瑶为什么上课不开心了",
+      "onboard_time": 1682344230,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 801619,
       "num": 801619,
       "word": "看不懂长月烬明了",
       "onboard_time": 1682306667,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 793316,
-      "num": 396792,
-      "word": "知道奚梦瑶为什么上课不开心了",
-      "onboard_time": 1682344230,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 791981,
@@ -339,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 728225,
-      "num": 728225,
-      "word": "林心如和女儿视频通话",
-      "onboard_time": 1682338709,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 704969,
       "num": 704969,
       "word": "中介贿赂张靓颖经纪人中标被罚210万",
@@ -377,14 +385,6 @@
       "onboard_time": 1682338948,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 613185,
-      "num": 613185,
-      "word": "月收入多少才算是普通人",
-      "onboard_time": 1682344113,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 606507,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 501248,
-      "num": 195682,
+      "num": 212419,
       "word": "淘宝崩了",
       "onboard_time": 1682344589,
       "rank": 30,
@@ -747,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414654,
+      "num": 414654,
+      "word": "王嘉尔新歌是写给谁的",
+      "onboard_time": 1682345729,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 414332,
       "num": 414332,
       "word": "张松说王一博已经站稳了",
@@ -915,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 330824,
+      "num": 330824,
+      "word": "我负责的烈士子女考上了重点军校",
+      "onboard_time": 1682347410,
+      "rank": 14,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 329956,
       "num": 329956,
       "word": "闪耀暖暖",
@@ -985,6 +1001,14 @@
       "onboard_time": 1682310871,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315579,
+      "num": 315579,
+      "word": "胖东来爆火是有原因的",
+      "onboard_time": 1682346451,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 314880,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1682326647,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284236,
+      "num": 284236,
+      "word": "鹿晗三巡",
+      "onboard_time": 1682346570,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 282045,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1682346630,
       "rank": 31,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 255654,
+      "num": 255654,
+      "word": "陈妍希是张婧仪颜粉",
+      "onboard_time": 1682347830,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 253994,
@@ -1443,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213191,
+      "num": 213191,
+      "word": "哭包AK",
+      "onboard_time": 1682349209,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212850,
       "num": 219076,
       "word": "金泰亨电影试映会新闻图",
@@ -1555,20 +1603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196590,
+      "num": 196590,
+      "word": "白玉兰网剧入围名单",
+      "onboard_time": 1682348970,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 196471,
       "num": 196471,
       "word": "滔搏",
       "onboard_time": 1682254051,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 196008,
-      "num": 196008,
-      "word": "王嘉尔新歌是写给谁的",
-      "onboard_time": 1682345729,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 195470,
@@ -1691,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187378,
+      "num": 187378,
+      "word": "肖战如梦之梦怼脸镜头",
+      "onboard_time": 1682348370,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187245,
       "num": 187245,
       "word": "人生路不熟终极预告",
@@ -1771,6 +1827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181129,
+      "num": 181129,
+      "word": "如果我开个公司",
+      "onboard_time": 1682347950,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 180786,
       "num": 180786,
       "word": "TTG晋级季后赛败者组",
@@ -1809,6 +1873,14 @@
       "onboard_time": 1682333668,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172325,
+      "num": 172325,
+      "word": "易车否认策划宝马冰激凌事件",
+      "onboard_time": 1682348130,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172297,
@@ -2179,14 +2251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126975,
-      "num": 126975,
-      "word": "鹿晗三巡",
-      "onboard_time": 1682346570,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 126671,
       "num": 126671,
       "word": "黑豹乐队新主唱项亚蕻",
@@ -2267,14 +2331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116071,
-      "num": 116071,
-      "word": "胖东来爆火是有原因的",
-      "onboard_time": 1682346451,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 115039,
       "num": 115039,
       "word": "张婧仪分享长沙读书经历",
@@ -2289,6 +2345,14 @@
       "onboard_time": 1682265869,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114761,
+      "num": 114761,
+      "word": "爱奇艺 灌篮高手",
+      "onboard_time": 1682349448,
+      "rank": 45,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 113503,
@@ -2452,7 +2516,7 @@
     },
     {
       "raw_hot": 61270,
-      "num": 898624,
+      "num": 1008987,
       "word": "广交会展览规模再创历史新高",
       "onboard_time": 1682341230,
       "rank": 2,
