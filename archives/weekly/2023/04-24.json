@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682335999353,
+  "endTime": 1682339636208,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2024564,
+      "num": 2024564,
+      "word": "我国法定假日从7天增至11天",
+      "onboard_time": 1682337266,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1905935,
       "num": 1905935,
       "word": "肖战杨紫 二搭",
       "onboard_time": 1682314826,
       "rank": 1,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1896603,
+      "num": 450442,
+      "word": "东南大学发色情照领导简历已撤下",
+      "onboard_time": 1682334087,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1713976,
@@ -211,6 +227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 872335,
+      "num": 872335,
+      "word": "文秀雅给文彬的留言",
+      "onboard_time": 1682336187,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 846262,
       "num": 846262,
       "word": "陈都灵邓为高光戏份被删",
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743038,
+      "num": 743038,
+      "word": "欢乐颂5",
+      "onboard_time": 1682334269,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 704969,
       "num": 704969,
       "word": "中介贿赂张靓颖经纪人中标被罚210万",
@@ -281,14 +313,6 @@
       "onboard_time": 1682311112,
       "rank": 7,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 630769,
-      "num": 450442,
-      "word": "东南大学发色情照领导简历已撤下",
-      "onboard_time": 1682334087,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 606507,
@@ -385,6 +409,14 @@
       "onboard_time": 1682333547,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 497626,
+      "num": 497626,
+      "word": "翩然下线",
+      "onboard_time": 1682334388,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 497477,
@@ -507,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456041,
+      "num": 214173,
+      "word": "离职三天后同事发的微信",
+      "onboard_time": 1682337149,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 455880,
       "num": 387404,
       "word": "翟欣欣",
@@ -571,28 +611,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 420797,
-      "num": 420797,
-      "word": "欢乐颂5",
-      "onboard_time": 1682334269,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 417674,
-      "num": 417674,
-      "word": "翩然下线",
-      "onboard_time": 1682334388,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 414973,
       "num": 414973,
       "word": "宋智孝将与经纪公司解约",
       "onboard_time": 1682309971,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414332,
+      "num": 414332,
+      "word": "张松说王一博已经站稳了",
+      "onboard_time": 1682337987,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 411117,
@@ -625,6 +657,14 @@
       "onboard_time": 1682327008,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392846,
+      "num": 392846,
+      "word": "长月烬明",
+      "onboard_time": 1682335167,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 389718,
@@ -667,6 +707,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 375418,
+      "num": 375418,
+      "word": "周扬青掉水里了",
+      "onboard_time": 1682338227,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 358726,
       "num": 321794,
       "word": "工资的一部分就是受气的",
@@ -683,12 +731,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355973,
+      "num": 355973,
+      "word": "外交部回应英国外交大臣涉台不当言论",
+      "onboard_time": 1682334988,
+      "rank": 34,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 353537,
       "num": 353537,
       "word": "网友帮Lisa脱掉了外套",
       "onboard_time": 1682263894,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 351683,
+      "num": 351683,
+      "word": "罗云熙演技",
+      "onboard_time": 1682338948,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 345997,
@@ -987,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257640,
+      "num": 257640,
+      "word": "王鹤棣的嘴被锁上了",
+      "onboard_time": 1682337087,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257206,
       "num": 257206,
       "word": "当你和法国人解释五一调休",
@@ -1059,6 +1131,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245305,
+      "num": 231854,
+      "word": "白鹿叶夕雾落泪好美",
+      "onboard_time": 1682336726,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 245022,
+      "num": 227503,
+      "word": "田柾国发型可爱",
+      "onboard_time": 1682337987,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244938,
       "num": 244938,
       "word": "向往7定档",
@@ -1073,6 +1161,14 @@
       "onboard_time": 1682305441,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238614,
+      "num": 238614,
+      "word": "KPL季后赛",
+      "onboard_time": 1682338648,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 236496,
@@ -1155,19 +1251,19 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 220646,
+      "num": 220646,
+      "word": "要被何悯鸿气死",
+      "onboard_time": 1682337569,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220605,
       "num": 220605,
       "word": "陈晓毛晓彤云襄传定档",
       "onboard_time": 1682311894,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 218737,
-      "num": 218737,
-      "word": "长月烬明",
-      "onboard_time": 1682335167,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -1177,6 +1273,14 @@
       "onboard_time": 1682318606,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216772,
+      "num": 216772,
+      "word": "TTG战胜AG",
+      "onboard_time": 1682339129,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 216062,
@@ -1251,14 +1355,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 203533,
-      "num": 203533,
-      "word": "外交部回应英国外交大臣涉台不当言论",
-      "onboard_time": 1682334988,
-      "rank": 34,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 203150,
       "num": 189851,
       "word": "遇到前任还会心动吗",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1682305441,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201997,
+      "num": 201997,
+      "word": "室友的骚操作让我笑了四年",
+      "onboard_time": 1682336246,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 200551,
@@ -1483,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180786,
+      "num": 180786,
+      "word": "TTG晋级季后赛败者组",
+      "onboard_time": 1682337747,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178411,
       "num": 178411,
       "word": "天赐的声音4官宣",
@@ -1577,6 +1689,14 @@
       "onboard_time": 1682323407,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164380,
+      "num": 164380,
+      "word": "范丞丞张婧仪拍的第一场戏是吻戏",
+      "onboard_time": 1682338109,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 164075,
@@ -1675,6 +1795,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150891,
+      "num": 150891,
+      "word": "林心如和女儿视频通话",
+      "onboard_time": 1682338709,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150594,
+      "num": 150594,
+      "word": "五一假期在1999年之前也只有一天",
+      "onboard_time": 1682338048,
+      "rank": 41,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 148468,
       "num": 148468,
       "word": "刘宇宁说揭露剧组重磅秘密",
@@ -1745,6 +1881,14 @@
       "onboard_time": 1682293343,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143372,
+      "num": 143372,
+      "word": "余佳运巡演",
+      "onboard_time": 1682339428,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 141003,
@@ -1835,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127471,
+      "num": 127471,
+      "word": "给女儿准备三万本书当书房",
+      "onboard_time": 1682339611,
+      "rank": 47,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 126671,
       "num": 126671,
       "word": "黑豹乐队新主唱项亚蕻",
@@ -1873,6 +2025,14 @@
       "onboard_time": 1682254171,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122146,
+      "num": 122146,
+      "word": "风箫 真的C",
+      "onboard_time": 1682336848,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 121066,
