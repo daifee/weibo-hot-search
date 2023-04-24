@@ -1,0 +1,410 @@
+{
+  "runTime": 1682335999353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1562905,
+        "num": 1562905,
+        "word": "经期千万别喝豆浆",
+        "onboard_time": 1682329950,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344002,
+        "num": 1076355,
+        "word": "浙江小学生看到罂粟报警",
+        "onboard_time": 1682329826,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86909,
+        "num": 997291,
+        "word": "今天我们为何还要读书",
+        "onboard_time": 1682319865,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973307,
+        "num": 973307,
+        "word": "上午离职下午收到offer",
+        "onboard_time": 1682324247,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157870,
+        "num": 806555,
+        "word": "里面躺着英烈外面坐着英雄",
+        "onboard_time": 1682329826,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744963,
+        "num": 744963,
+        "word": "王者荣耀 妲己",
+        "onboard_time": 1682331866,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152736,
+        "num": 678535,
+        "word": "女生花4天为新婚姐姐绘制百喜图",
+        "onboard_time": 1682326167,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 673437,
+        "num": 673437,
+        "word": "没认出来陈乔恩",
+        "onboard_time": 1682320166,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 639880,
+        "num": 639880,
+        "word": "李佳琦刘畊宏等5位主播被点名",
+        "onboard_time": 1682312011,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 471409,
+        "num": 471409,
+        "word": "成都一烧烤店每桌15燃气费",
+        "onboard_time": 1682332467,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 2165396,
+        "num": 461670,
+        "word": "我国实行周末双休制还不足30年",
+        "onboard_time": 1682328269,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1527902,
+        "num": 460849,
+        "word": "东南大学一领导被曝工作群发色情照",
+        "onboard_time": 1682326529,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 630769,
+        "num": 450442,
+        "word": "东南大学发色情照领导简历已撤下",
+        "onboard_time": 1682334087,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 498920,
+        "num": 439056,
+        "word": "刘涛怎么这么扛老",
+        "onboard_time": 1682333547,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111632,
+        "num": 422950,
+        "word": "海澜之家火箭",
+        "onboard_time": 1682334507,
+        "rank": 14,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 420797,
+        "num": 420797,
+        "word": "欢乐颂5",
+        "onboard_time": 1682334269,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 417674,
+        "num": 417674,
+        "word": "翩然下线",
+        "onboard_time": 1682334388,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 386687,
+        "num": 386687,
+        "word": "SEVENTEEN空降",
+        "onboard_time": 1682334388,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376249,
+        "num": 376249,
+        "word": "流川枫 下睫毛",
+        "onboard_time": 1682330128,
+        "rank": 18,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 282018,
+        "num": 282018,
+        "word": "难听",
+        "onboard_time": 1682328211,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 410634,
+        "num": 281346,
+        "word": "六点半和九点半下班的区别",
+        "onboard_time": 1682332049,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332543,
+        "num": 277060,
+        "word": "徐明浩眼神",
+        "onboard_time": 1682334928,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269095,
+        "num": 269095,
+        "word": "昆明一奔驰当街撞飞多人",
+        "onboard_time": 1682328748,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250555,
+        "num": 250555,
+        "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+        "onboard_time": 1682316448,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245321,
+        "num": 245321,
+        "word": "全世界除了滔搏都笑的很开心",
+        "onboard_time": 1682331447,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236517,
+        "num": 236517,
+        "word": "欢乐颂还有第五季",
+        "onboard_time": 1682332528,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230530,
+        "num": 230530,
+        "word": "为什么不能公开说自己去旅游",
+        "onboard_time": 1682326348,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219328,
+        "num": 219328,
+        "word": "钟汉良空降婚礼现场唱宠爱",
+        "onboard_time": 1682327008,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1688299,
+        "num": 219186,
+        "word": "fuck my life",
+        "onboard_time": 1682330128,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218737,
+        "num": 218737,
+        "word": "长月烬明",
+        "onboard_time": 1682335167,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 236496,
+        "num": 218734,
+        "word": "TES发博告别春季赛",
+        "onboard_time": 1682334748,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218483,
+        "num": 218483,
+        "word": "罗云熙白鹿握手安慰彼此",
+        "onboard_time": 1682328809,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217023,
+        "num": 217023,
+        "word": "树奈奈 伞皇",
+        "onboard_time": 1682328689,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 211585,
+        "num": 211585,
+        "word": "科目二到底有多难考",
+        "onboard_time": 1682334928,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203533,
+        "num": 203533,
+        "word": "外交部回应英国外交大臣涉台不当言论",
+        "onboard_time": 1682334988,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 189398,
+        "num": 189398,
+        "word": "金珉奎无袖造型",
+        "onboard_time": 1682334627,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178152,
+        "num": 178152,
+        "word": "kms",
+        "onboard_time": 1682334207,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169869,
+        "num": 169869,
+        "word": "东南大学发色情照领导已被免",
+        "onboard_time": 1682335167,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165485,
+        "num": 165485,
+        "word": "上海一财务把公司偷得只剩20块",
+        "onboard_time": 1682316686,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 156772,
+        "num": 156772,
+        "word": "广州商铺发现尸体是一流浪汉",
+        "onboard_time": 1682309731,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155386,
+        "num": 155386,
+        "word": "KPL 回溯",
+        "onboard_time": 1682330725,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151555,
+        "num": 151555,
+        "word": "HYBE 这和舞蹈版MV有什么区别",
+        "onboard_time": 1682328090,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147724,
+        "num": 147724,
+        "word": "fire",
+        "onboard_time": 1682333668,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147471,
+        "num": 147471,
+        "word": "苏沫脱粉回踩是吧",
+        "onboard_time": 1682333068,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146359,
+        "num": 146359,
+        "word": "权顺荣part",
+        "onboard_time": 1682335228,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145809,
+        "num": 145809,
+        "word": "眉姐姐的蝴蝶平板壳",
+        "onboard_time": 1682335467,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144524,
+        "num": 144524,
+        "word": "毛晓彤曾演过陈晓奶奶",
+        "onboard_time": 1682326288,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142246,
+        "num": 142246,
+        "word": "番禺母婴店发现尸体警方排除他杀",
+        "onboard_time": 1682321966,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140081,
+        "num": 140081,
+        "word": "离职之后被领导暖到了",
+        "onboard_time": 1682333128,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122508,
+        "num": 122508,
+        "word": "TTG对战AG",
+        "onboard_time": 1682330725,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#下一站深空#"
+    }
+  }
+}

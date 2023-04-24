@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682334890424,
+  "endTime": 1682335999353,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2603,6 +2603,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 1688299,
+      "num": 1042327,
+      "word": "fuck my life",
+      "onboard_time": 1682330128,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1685303,
       "num": 1685303,
       "word": "文秀雅",
@@ -2633,14 +2641,6 @@
       "onboard_time": 1682155526,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1665280,
-      "num": 1042327,
-      "word": "fuck my life",
-      "onboard_time": 1682330128,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1664469,
@@ -2993,6 +2993,14 @@
       "onboard_time": 1682228611,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1562905,
+      "num": 1562905,
+      "word": "经期千万别喝豆浆",
+      "onboard_time": 1682329950,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 1562444,
@@ -4257,14 +4265,6 @@
       "onboard_time": 1680329550,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1238110,
-      "num": 1238110,
-      "word": "经期千万别喝豆浆",
-      "onboard_time": 1682329950,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 1229566,
@@ -10435,6 +10435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 630769,
+      "num": 450442,
+      "word": "东南大学发色情照领导简历已撤下",
+      "onboard_time": 1682334087,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 630689,
       "num": 574046,
       "word": "北京丰台区副区长道歉",
@@ -13843,6 +13851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 498920,
+      "num": 439056,
+      "word": "刘涛怎么这么扛老",
+      "onboard_time": 1682333547,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 498728,
       "num": 498728,
       "word": "高校回应招聘会设KTV陪酒岗位",
@@ -14881,6 +14897,14 @@
       "onboard_time": 1682224111,
       "rank": 22,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 471409,
+      "num": 471409,
+      "word": "成都一烧烤店每桌15燃气费",
+      "onboard_time": 1682332467,
+      "rank": 12,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 471231,
@@ -16875,20 +16899,20 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 421209,
-      "num": 421209,
-      "word": "成都一烧烤店每桌15燃气费",
-      "onboard_time": 1682332467,
-      "rank": 12,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 420850,
       "num": 420850,
       "word": "张柏芝路透状态",
       "onboard_time": 1681301309,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420797,
+      "num": 420797,
+      "word": "欢乐颂5",
+      "onboard_time": 1682334269,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 420730,
@@ -17113,6 +17137,14 @@
       "onboard_time": 1682232930,
       "rank": 20,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 417674,
+      "num": 417674,
+      "word": "翩然下线",
+      "onboard_time": 1682334388,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 417596,
@@ -17497,6 +17529,14 @@
       "onboard_time": 1681289007,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410634,
+      "num": 312621,
+      "word": "六点半和九点半下班的区别",
+      "onboard_time": 1682332049,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 410090,
@@ -18707,14 +18747,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 387557,
-      "num": 387557,
-      "word": "刘涛怎么这么扛老",
-      "onboard_time": 1682333547,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 387306,
       "num": 387306,
       "word": "众星悼念坂本龙一",
@@ -19273,14 +19305,6 @@
       "onboard_time": 1681993768,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 374254,
-      "num": 312621,
-      "word": "六点半和九点半下班的区别",
-      "onboard_time": 1682332049,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 374043,
@@ -21563,6 +21587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332543,
+      "num": 277060,
+      "word": "徐明浩眼神",
+      "onboard_time": 1682334928,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 332465,
       "num": 332465,
       "word": "李佳琦直播",
@@ -22617,14 +22649,6 @@
       "onboard_time": 1682310871,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317490,
-      "num": 317490,
-      "word": "东南大学发色情照领导简历已撤下",
-      "onboard_time": 1682334087,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 317480,
@@ -27995,14 +28019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 247306,
-      "num": 247306,
-      "word": "欢乐颂5",
-      "onboard_time": 1682334269,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 247178,
       "num": 247178,
       "word": "毛雪汪终于开火了",
@@ -29121,6 +29137,14 @@
       "onboard_time": 1682050652,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236496,
+      "num": 218734,
+      "word": "TES发博告别春季赛",
+      "onboard_time": 1682334748,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 236467,
@@ -31571,14 +31595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 217004,
-      "num": 217004,
-      "word": "TES发博告别春季赛",
-      "onboard_time": 1682334748,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 216924,
       "num": 216924,
       "word": "爱德华兹9分",
@@ -31825,14 +31841,6 @@
       "onboard_time": 1681650205,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214954,
-      "num": 214954,
-      "word": "翩然下线",
-      "onboard_time": 1682334388,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 214938,
@@ -32273,6 +32281,14 @@
       "onboard_time": 1681954890,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 211585,
+      "num": 211585,
+      "word": "科目二到底有多难考",
+      "onboard_time": 1682334928,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 211557,
@@ -34369,6 +34385,14 @@
       "onboard_time": 1681266205,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203533,
+      "num": 203533,
+      "word": "外交部回应英国外交大臣涉台不当言论",
+      "onboard_time": 1682334988,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 203520,
@@ -39003,6 +39027,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 189398,
+      "num": 189398,
+      "word": "金珉奎无袖造型",
+      "onboard_time": 1682334627,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189391,
       "num": 210125,
       "word": "金智秀新歌FLOWER音银一位",
@@ -41555,14 +41587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178520,
-      "num": 178520,
-      "word": "金珉奎无袖造型",
-      "onboard_time": 1682334627,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 178500,
       "num": 210030,
       "word": "重庆狼队",
@@ -42929,6 +42953,14 @@
       "onboard_time": 1680677848,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169869,
+      "num": 169869,
+      "word": "东南大学发色情照领导已被免",
+      "onboard_time": 1682335167,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 169860,
@@ -47195,6 +47227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146359,
+      "num": 146359,
+      "word": "权顺荣part",
+      "onboard_time": 1682335228,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146350,
       "num": 146350,
       "word": "大学生有多喜欢周末拉练式旅游",
@@ -47305,6 +47345,14 @@
       "onboard_time": 1681776567,
       "rank": 33,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 145809,
+      "num": 145809,
+      "word": "眉姐姐的蝴蝶平板壳",
+      "onboard_time": 1682335467,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 145776,
@@ -52043,6 +52091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 111632,
+      "num": 422950,
+      "word": "海澜之家火箭",
+      "onboard_time": 1682334507,
+      "rank": 14,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 111583,
       "num": 111583,
       "word": "待播影视剧愚人节海报",
@@ -55635,14 +55691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46371,
-      "num": 411129,
-      "word": "海澜之家火箭",
-      "onboard_time": 1682334507,
-      "rank": 14,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 46159,
       "num": 526265,
       "word": "中国球员的时尚触觉",
@@ -56607,6 +56655,9 @@
     },
     {
       "word": "#中国航天叩问苍穹#"
+    },
+    {
+      "word": "#下一站深空#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682334890424,
+  "endTime": 1682335999353,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -91,7 +91,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1665280,
+      "raw_hot": 1688299,
       "num": 1042327,
       "word": "fuck my life",
       "onboard_time": 1682330128,
@@ -113,6 +113,14 @@
       "onboard_time": 1682309731,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1562905,
+      "num": 1562905,
+      "word": "经期千万别喝豆浆",
+      "onboard_time": 1682329950,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 1549619,
@@ -177,14 +185,6 @@
       "onboard_time": 1682320166,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1238110,
-      "num": 1238110,
-      "word": "经期千万别喝豆浆",
-      "onboard_time": 1682329950,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 1113051,
@@ -283,6 +283,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 630769,
+      "num": 450442,
+      "word": "东南大学发色情照领导简历已撤下",
+      "onboard_time": 1682334087,
+      "rank": 18,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 606507,
       "num": 606507,
       "word": "GQ印错易烊千玺名字",
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498920,
+      "num": 439056,
+      "word": "刘涛怎么这么扛老",
+      "onboard_time": 1682333547,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 497477,
       "num": 497477,
       "word": "长期熬夜都有什么危害",
@@ -449,6 +465,14 @@
       "onboard_time": 1682248108,
       "rank": 13,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 471409,
+      "num": 471409,
+      "word": "成都一烧烤店每桌15燃气费",
+      "onboard_time": 1682332467,
+      "rank": 12,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 468664,
@@ -547,12 +571,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 421209,
-      "num": 421209,
-      "word": "成都一烧烤店每桌15燃气费",
-      "onboard_time": 1682332467,
-      "rank": 12,
-      "category": "社会新闻,美食"
+      "raw_hot": 420797,
+      "num": 420797,
+      "word": "欢乐颂5",
+      "onboard_time": 1682334269,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 417674,
+      "num": 417674,
+      "word": "翩然下线",
+      "onboard_time": 1682334388,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 414973,
@@ -569,6 +601,14 @@
       "onboard_time": 1682330128,
       "rank": 17,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 410634,
+      "num": 312621,
+      "word": "六点半和九点半下班的区别",
+      "onboard_time": 1682332049,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 403173,
@@ -593,14 +633,6 @@
       "onboard_time": 1682323886,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387557,
-      "num": 387557,
-      "word": "刘涛怎么这么扛老",
-      "onboard_time": 1682333547,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 386287,
@@ -633,14 +665,6 @@
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 374254,
-      "num": 312621,
-      "word": "六点半和九点半下班的区别",
-      "onboard_time": 1682332049,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 358726,
@@ -707,6 +731,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 332543,
+      "num": 277060,
+      "word": "徐明浩眼神",
+      "onboard_time": 1682334928,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 329956,
       "num": 329956,
       "word": "闪耀暖暖",
@@ -769,14 +801,6 @@
       "onboard_time": 1682310871,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317490,
-      "num": 317490,
-      "word": "东南大学发色情照领导简历已撤下",
-      "onboard_time": 1682334087,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 314880,
@@ -1027,14 +1051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 247306,
-      "num": 247306,
-      "word": "欢乐颂5",
-      "onboard_time": 1682334269,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 246548,
       "num": 246548,
       "word": "时代少年团或将出演英雄联盟",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1682305441,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 236496,
+      "num": 218734,
+      "word": "TES发博告别春季赛",
+      "onboard_time": 1682334748,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 233107,
@@ -1139,20 +1163,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218737,
+      "num": 218737,
+      "word": "长月烬明",
+      "onboard_time": 1682335167,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217837,
       "num": 217837,
       "word": "鞠婧祎 完美日记title",
       "onboard_time": 1682318606,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217004,
-      "num": 217004,
-      "word": "TES发博告别春季赛",
-      "onboard_time": 1682334748,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 216062,
@@ -1163,19 +1187,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214954,
-      "num": 214954,
-      "word": "翩然下线",
-      "onboard_time": 1682334388,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212756,
       "num": 212756,
       "word": "我好像也进入了循环",
       "onboard_time": 1682303846,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211585,
+      "num": 211585,
+      "word": "科目二到底有多难考",
+      "onboard_time": 1682334928,
+      "rank": 33,
       "category": "幽默"
     },
     {
@@ -1225,6 +1249,14 @@
       "onboard_time": 1682299226,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 203533,
+      "num": 203533,
+      "word": "外交部回应英国外交大臣涉台不当言论",
+      "onboard_time": 1682334988,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 203150,
@@ -1363,6 +1395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189398,
+      "num": 189398,
+      "word": "金珉奎无袖造型",
+      "onboard_time": 1682334627,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189259,
       "num": 189259,
       "word": "weecho 进不去",
@@ -1443,14 +1483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178520,
-      "num": 178520,
-      "word": "金珉奎无袖造型",
-      "onboard_time": 1682334627,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 178411,
       "num": 178411,
       "word": "天赐的声音4官宣",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1682262816,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169869,
+      "num": 169869,
+      "word": "东南大学发色情照领导已被免",
+      "onboard_time": 1682335167,
+      "rank": 37,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 166351,
@@ -1667,12 +1707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146359,
+      "num": 146359,
+      "word": "权顺荣part",
+      "onboard_time": 1682335228,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146228,
       "num": 146228,
       "word": "锦鲤",
       "onboard_time": 1682305824,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145809,
+      "num": 145809,
+      "word": "眉姐姐的蝴蝶平板壳",
+      "onboard_time": 1682335467,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 145679,
@@ -1867,6 +1923,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 111632,
+      "num": 422950,
+      "word": "海澜之家火箭",
+      "onboard_time": 1682334507,
+      "rank": 14,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 108935,
       "num": 108935,
       "word": "电影长空之王",
@@ -2011,14 +2075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 46371,
-      "num": 411129,
-      "word": "海澜之家火箭",
-      "onboard_time": 1682334507,
-      "rank": 14,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 43133,
       "num": 48080,
       "word": "半熟男女官宣没有周雨彤",
@@ -2071,6 +2127,9 @@
     },
     {
       "word": "#中国航天叩问苍穹#"
+    },
+    {
+      "word": "#下一站深空#"
     }
   ]
 }
