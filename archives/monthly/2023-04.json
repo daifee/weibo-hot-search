@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682331515706,
+  "endTime": 1682332444989,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1147,6 +1147,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 2434479,
+      "num": 1103236,
+      "word": "东南大学一领导被曝工作群发色情照",
+      "onboard_time": 1682326529,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 2432368,
       "num": 2432368,
       "word": "张继科事件为何愈演愈烈",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1680337293,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2365281,
-      "num": 1103236,
-      "word": "东南大学一领导被曝工作群发色情照",
-      "onboard_time": 1682326529,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2357460,
@@ -2331,6 +2331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1779239,
+      "num": 1779239,
+      "word": "我国实行周末双休制还不足30年",
+      "onboard_time": 1682328269,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1777717,
       "num": 1777717,
       "word": "迪丽热巴狼尾造型",
@@ -2665,14 +2673,6 @@
       "onboard_time": 1680704372,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1654066,
-      "num": 1654066,
-      "word": "我国实行周末双休制还不足30年",
-      "onboard_time": 1682328269,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1649607,
@@ -3129,6 +3129,14 @@
       "onboard_time": 1681658188,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1536958,
+      "num": 1042327,
+      "word": "fuck my life",
+      "onboard_time": 1682330128,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1536049,
@@ -5257,14 +5265,6 @@
       "onboard_time": 1682089831,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1042327,
-      "num": 1042327,
-      "word": "fuck my life",
-      "onboard_time": 1682330128,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1037260,
@@ -17427,6 +17427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411852,
+      "num": 411852,
+      "word": "经期千万别喝豆浆",
+      "onboard_time": 1682329950,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 411548,
       "num": 411548,
       "word": "肖战做美式咖啡",
@@ -18051,6 +18059,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 398668,
+      "num": 398668,
+      "word": "钟汉良空降婚礼现场唱宠爱",
+      "onboard_time": 1682327008,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398368,
       "num": 275050,
       "word": "赵露思黑色吊带长裙",
@@ -18121,6 +18137,14 @@
       "onboard_time": 1681882048,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 397253,
+      "num": 397253,
+      "word": "流川枫 下睫毛",
+      "onboard_time": 1682330128,
+      "rank": 17,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 397235,
@@ -18787,6 +18811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385086,
+      "num": 385086,
+      "word": "昆明一奔驰当街撞飞多人",
+      "onboard_time": 1682328748,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385011,
       "num": 385011,
       "word": "下周就能看五一档新片了",
@@ -19081,14 +19113,6 @@
       "onboard_time": 1681862789,
       "rank": 21,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 377976,
-      "num": 377976,
-      "word": "流川枫 下睫毛",
-      "onboard_time": 1682330128,
-      "rank": 17,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 377802,
@@ -20227,14 +20251,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 355722,
-      "num": 355722,
-      "word": "昆明一奔驰当街撞飞多人",
-      "onboard_time": 1682328748,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355680,
       "num": 355680,
       "word": "冥夜说和桑酒没分",
@@ -20769,6 +20785,14 @@
       "onboard_time": 1680759327,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 345997,
+      "num": 345997,
+      "word": "全世界除了滔博都笑的很开心",
+      "onboard_time": 1682331447,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 345946,
@@ -21779,14 +21803,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 328929,
-      "num": 328929,
-      "word": "钟汉良空降婚礼现场唱宠爱",
-      "onboard_time": 1682327008,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 328915,
       "num": 302033,
       "word": "马嘉祺说如果有人骂魏如萱我就去骂他",
@@ -22475,6 +22491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318391,
+      "num": 318391,
+      "word": "KPL 回溯",
+      "onboard_time": 1682330725,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 318363,
       "num": 318363,
       "word": "被骂后委屈成一滩小狗",
@@ -22753,14 +22777,6 @@
       "onboard_time": 1682175634,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314215,
-      "num": 314215,
-      "word": "KPL 回溯",
-      "onboard_time": 1682330725,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 314070,
@@ -23867,14 +23883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295954,
-      "num": 295954,
-      "word": "经期千万别喝豆浆",
-      "onboard_time": 1682329950,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 295901,
       "num": 233594,
       "word": "乐华全员为旗下选手打call",
@@ -24545,6 +24553,14 @@
       "onboard_time": 1681461091,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288107,
+      "num": 1462207,
+      "word": "浙江小学生看到罂粟报警",
+      "onboard_time": 1682329826,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287894,
@@ -26579,6 +26595,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 262036,
+      "num": 262036,
+      "word": "super",
+      "onboard_time": 1682331989,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 262004,
       "num": 262004,
       "word": "陈晓连播两部剧",
@@ -27500,7 +27524,7 @@
     },
     {
       "raw_hot": 251879,
-      "num": 1775162,
+      "num": 1782753,
       "word": "今天我们为何还要读书",
       "onboard_time": 1682319865,
       "rank": 2,
@@ -28731,14 +28755,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 238788,
-      "num": 1422568,
-      "word": "浙江小学生看到罂粟报警",
-      "onboard_time": 1682329826,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238749,
       "num": 238749,
       "word": "司机拦住特警巡逻车救了自己一命",
@@ -29520,6 +29536,14 @@
       "word": "QQ音乐巅峰榜",
       "onboard_time": 1682064568,
       "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 231151,
+      "num": 231151,
+      "word": "崔胜澈狼尾红辫",
+      "onboard_time": 1682332109,
+      "rank": 30,
       "category": "音乐"
     },
     {
@@ -30417,6 +30441,14 @@
       "onboard_time": 1680415527,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 224780,
+      "num": 224780,
+      "word": "王者荣耀 妲己",
+      "onboard_time": 1682331866,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 224746,
@@ -32545,6 +32577,14 @@
       "onboard_time": 1680672511,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209432,
+      "num": 209432,
+      "word": "六点半和九点半下班的区别",
+      "onboard_time": 1682332049,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 209379,
@@ -38931,6 +38971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189259,
+      "num": 189259,
+      "word": "weecho 进不去",
+      "onboard_time": 1682331809,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189252,
       "num": 189252,
       "word": "苏醒说最后一攻为什么不给欧文呢",
@@ -38945,14 +38993,6 @@
       "onboard_time": 1680908477,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189236,
-      "num": 189236,
-      "word": "全世界除了滔博都笑的很开心",
-      "onboard_time": 1682331447,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 189189,
@@ -47387,6 +47427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144389,
+      "num": 1099252,
+      "word": "里面躺着英烈外面坐着英雄",
+      "onboard_time": 1682329826,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144279,
       "num": 144279,
       "word": "易烊千玺智族GQ微电影",
@@ -52587,6 +52635,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 104692,
+      "num": 421771,
+      "word": "官方回应跨境电商被指责",
+      "onboard_time": 1682327128,
+      "rank": 49,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 104522,
       "num": 104522,
       "word": "护师考试",
@@ -52817,14 +52873,6 @@
       "onboard_time": 1681004846,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102495,
-      "num": 1099252,
-      "word": "里面躺着英烈外面坐着英雄",
-      "onboard_time": 1682329826,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102491,
@@ -54020,7 +54068,7 @@
     },
     {
       "raw_hot": 87517,
-      "num": 120385,
+      "num": 124891,
       "word": "玻尿酸原料内幕",
       "onboard_time": 1682329586,
       "rank": 49,
@@ -54217,14 +54265,6 @@
       "onboard_time": 1680680070,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84674,
-      "num": 421771,
-      "word": "官方回应跨境电商被指责",
-      "onboard_time": 1682327128,
-      "rank": 49,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 84668,
