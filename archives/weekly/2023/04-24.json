@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682374577005,
+  "endTime": 1682375613801,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -723,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436058,
+      "num": 436058,
+      "word": "新冠",
+      "onboard_time": 1682368750,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435749,
       "num": 435749,
       "word": "科切拉的风又吹到了王嘉尔",
@@ -1136,14 +1144,6 @@
       "word": "姑娘年薪50万却毅然从银行离职",
       "onboard_time": 1682249008,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 290533,
-      "num": 290533,
-      "word": "新冠",
-      "onboard_time": 1682368750,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1939,6 +1939,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177004,
+      "num": 177004,
+      "word": "首批中国公民撤离苏丹画面",
+      "onboard_time": 1682367072,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 173408,
       "num": 173408,
       "word": "王玉雯王子奇新剧开播",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1682333668,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 173310,
-      "num": 173310,
-      "word": "首批中国公民撤离苏丹画面",
-      "onboard_time": 1682367072,
-      "rank": 46,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 172325,
@@ -2555,6 +2555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 88300,
+      "num": 88300,
+      "word": "五一出行会加速新冠二次感染吗",
+      "onboard_time": 1682370731,
+      "rank": 47,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 87517,
       "num": 124891,
       "word": "玻尿酸原料内幕",
@@ -2627,12 +2635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53336,
-      "num": 53336,
-      "word": "五一出行会加速新冠二次感染吗",
-      "onboard_time": 1682370731,
-      "rank": 47,
-      "category": "社会新闻,旅游"
+      "raw_hot": 43180,
+      "num": 43180,
+      "word": "女孩帮爸爸做翻译对接外国客户",
+      "onboard_time": 1682370312,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43133,
@@ -2643,6 +2651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 40059,
+      "num": 40059,
+      "word": "猴子想吓人结果自己抻到筋",
+      "onboard_time": 1682357357,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 38947,
       "num": 38749,
       "word": "翩然到下线都没换过新衣服",
@@ -2651,28 +2667,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 32511,
-      "num": 32511,
-      "word": "女孩帮爸爸做翻译对接外国客户",
-      "onboard_time": 1682370312,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31573,
       "num": 31573,
       "word": "张凌赫 兰蔻",
       "onboard_time": 1682359994,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 28099,
-      "num": 28857,
-      "word": "猴子想吓人结果自己抻到筋",
-      "onboard_time": 1682357357,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 27379,
