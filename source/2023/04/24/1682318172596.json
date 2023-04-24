@@ -1,0 +1,410 @@
+{
+  "runTime": 1682318172596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2780459,
+        "num": 2780459,
+        "word": "李佳琦刘畊宏等5位主播被点名",
+        "onboard_time": 1682312011,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1905935,
+        "num": 1905935,
+        "word": "肖战杨紫 二搭",
+        "onboard_time": 1682314826,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 6456,
+        "num": 1526346,
+        "word": "相约八点见",
+        "onboard_time": 1682239409,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1305551,
+        "num": 1305551,
+        "word": "广州商铺发现尸体是一流浪汉",
+        "onboard_time": 1682309731,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696440,
+        "num": 696440,
+        "word": "B站千万粉丝UP主回应停更传言",
+        "onboard_time": 1682306306,
+        "rank": 4,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 642094,
+        "num": 642094,
+        "word": "张艺兴我是市民不是市长",
+        "onboard_time": 1682307566,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 574406,
+        "num": 574406,
+        "word": "明知五一人多为什么还要出去玩",
+        "onboard_time": 1682311112,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 463402,
+        "num": 463402,
+        "word": "杜华 纯属命好",
+        "onboard_time": 1682305441,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351654,
+        "num": 351654,
+        "word": "没人告诉汪苏泷容祖儿穿黑色吗",
+        "onboard_time": 1682314409,
+        "rank": 8,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 337327,
+        "num": 337327,
+        "word": "INTO1今天正式解散了",
+        "onboard_time": 1682310572,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1227434,
+        "num": 337243,
+        "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+        "onboard_time": 1682316448,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793878,
+        "num": 337156,
+        "word": "上海一财务把公司偷得只剩20块",
+        "onboard_time": 1682316686,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 462895,
+        "num": 336950,
+        "word": "新冠第二波",
+        "onboard_time": 1682297310,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381288,
+        "num": 336835,
+        "word": "杜海涛对沈梦辰屏蔽朋友圈",
+        "onboard_time": 1682294907,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336808,
+        "num": 336808,
+        "word": "看不懂长月烬明了",
+        "onboard_time": 1682306667,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 319428,
+        "num": 319428,
+        "word": "GQ印错易烊千玺名字",
+        "onboard_time": 1682317588,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 305886,
+        "num": 305886,
+        "word": "张大大哭了",
+        "onboard_time": 1682310994,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281033,
+        "num": 281033,
+        "word": "木鱼水心",
+        "onboard_time": 1682311296,
+        "rank": 17,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268466,
+        "num": 268466,
+        "word": "在办公室上班真的很体面吗",
+        "onboard_time": 1682308769,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264394,
+        "num": 264394,
+        "word": "人民网评五一民宿毁约吃相难看",
+        "onboard_time": 1682310390,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 262118,
+        "num": 262118,
+        "word": "Lisa撩伴舞",
+        "onboard_time": 1682316627,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233133,
+        "num": 233133,
+        "word": "白鹿 以后会更加严格约束自己言行",
+        "onboard_time": 1682257595,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226496,
+        "num": 226496,
+        "word": "伍佰和玲娜贝儿是同一个人的证据",
+        "onboard_time": 1682310572,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 221975,
+        "num": 221975,
+        "word": "乌鸦刺身在日本引发连锁争议",
+        "onboard_time": 1682312669,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211937,
+        "num": 211937,
+        "word": "最高端的黄牛往往用最朴素的方法",
+        "onboard_time": 1682313510,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220714,
+        "num": 209437,
+        "word": "时代少年团或将出演英雄联盟",
+        "onboard_time": 1682315608,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205339,
+        "num": 205339,
+        "word": "友情内耗",
+        "onboard_time": 1682313569,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198435,
+        "num": 198435,
+        "word": "工资的一部分就是受气的",
+        "onboard_time": 1682311532,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198029,
+        "num": 198029,
+        "word": "钢铁侠黑寡妇在今年牺牲了",
+        "onboard_time": 1682304506,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178821,
+        "num": 190632,
+        "word": "护士精神病院工作7年患重度抑郁",
+        "onboard_time": 1682310871,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186838,
+        "num": 186838,
+        "word": "胡军让康康跟哥哥们打招呼",
+        "onboard_time": 1682313093,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184046,
+        "num": 184046,
+        "word": "98line写给文彬的信",
+        "onboard_time": 1682315487,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181636,
+        "num": 181636,
+        "word": "宋智孝将与经纪公司解约",
+        "onboard_time": 1682309971,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175358,
+        "num": 175358,
+        "word": "江苏事业单位",
+        "onboard_time": 1682306007,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163539,
+        "num": 173076,
+        "word": "女性如何更好的享受两性关系",
+        "onboard_time": 1682313211,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172297,
+        "num": 172297,
+        "word": "雪允站哥道歉",
+        "onboard_time": 1682315129,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170307,
+        "num": 170307,
+        "word": "张颂文出现在我的朋友圈",
+        "onboard_time": 1682308649,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160038,
+        "num": 160038,
+        "word": "广东酒桌文化",
+        "onboard_time": 1682312433,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158983,
+        "num": 158983,
+        "word": "翟欣欣",
+        "onboard_time": 1682307268,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152705,
+        "num": 152705,
+        "word": "2023年王者五五朋友节皮肤",
+        "onboard_time": 1682313151,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157460,
+        "num": 152696,
+        "word": "遇到前任还会心动吗",
+        "onboard_time": 1682316567,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150609,
+        "num": 150609,
+        "word": "大量被拐儿童父母赴淄博扩散信息",
+        "onboard_time": 1682308588,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146501,
+        "num": 146501,
+        "word": "声生不息宝岛季改档",
+        "onboard_time": 1682316088,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144229,
+        "num": 144229,
+        "word": "调休会影响上班上课状态吗",
+        "onboard_time": 1682310632,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131004,
+        "num": 131004,
+        "word": "法考",
+        "onboard_time": 1682301748,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129550,
+        "num": 129550,
+        "word": "五一不调休的是什么神仙公司",
+        "onboard_time": 1682314347,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126671,
+        "num": 126671,
+        "word": "黑豹乐队新主唱项亚蕻",
+        "onboard_time": 1682315668,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125374,
+        "num": 125374,
+        "word": "陈晓毛晓彤云襄传定档",
+        "onboard_time": 1682311894,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 119733,
+        "num": 119733,
+        "word": "丫丫将回国",
+        "onboard_time": 1682297069,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63783,
+        "num": 110605,
+        "word": "简洁明了的披萨菜单",
+        "onboard_time": 1682316325,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国星辰#"
+    }
+  }
+}

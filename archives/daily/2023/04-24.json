@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682317373130,
+  "endTime": 1682318172596,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1775113,
-      "num": 1775113,
+      "raw_hot": 1905935,
+      "num": 1905935,
       "word": "肖战杨紫 二搭",
       "onboard_time": 1682314826,
       "rank": 1,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1227434,
+      "num": 379013,
+      "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+      "onboard_time": 1682316448,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1079008,
       "num": 519075,
       "word": "上海一男子商场跳楼砸中女顾客",
@@ -139,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 793878,
+      "num": 347376,
+      "word": "上海一财务把公司偷得只剩20块",
+      "onboard_time": 1682316686,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 791981,
       "num": 791981,
       "word": "昨天周一 今天还是周一",
@@ -153,14 +169,6 @@
       "onboard_time": 1682308769,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 757188,
-      "num": 379013,
-      "word": "杨迪 没有艺人愿意点玉米面糊塌子",
-      "onboard_time": 1682316448,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 756103,
@@ -403,14 +411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 347376,
-      "num": 347376,
-      "word": "上海一财务把公司偷得只剩20块",
-      "onboard_time": 1682316686,
-      "rank": 14,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 344103,
       "num": 330540,
       "word": "马丽新片连扇张百乔5个巴掌",
@@ -457,6 +457,14 @@
       "onboard_time": 1682308588,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319428,
+      "num": 319428,
+      "word": "GQ印错易烊千玺名字",
+      "onboard_time": 1682317588,
+      "rank": 15,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 317824,
@@ -707,6 +715,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 220714,
+      "num": 209437,
+      "word": "时代少年团或将出演英雄联盟",
+      "onboard_time": 1682315608,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220605,
       "num": 220605,
       "word": "陈晓毛晓彤云襄传定档",
@@ -745,6 +761,14 @@
       "onboard_time": 1682263596,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205339,
+      "num": 205339,
+      "word": "友情内耗",
+      "onboard_time": 1682313569,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 204808,
@@ -819,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192148,
-      "num": 191438,
-      "word": "时代少年团或将出演英雄联盟",
-      "onboard_time": 1682315608,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 190632,
       "num": 190632,
       "word": "汤唯感受到幸福的瞬间",
@@ -856,6 +872,14 @@
       "word": "人生路不熟终极预告",
       "onboard_time": 1682302766,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186838,
+      "num": 186838,
+      "word": "胡军让康康跟哥哥们打招呼",
+      "onboard_time": 1682313093,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -939,12 +963,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 172616,
-      "num": 172616,
-      "word": "胡军让康康跟哥哥们打招呼",
-      "onboard_time": 1682313093,
-      "rank": 42,
-      "category": "影视"
+      "raw_hot": 172297,
+      "num": 172297,
+      "word": "雪允站哥道歉",
+      "onboard_time": 1682315129,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 171612,
@@ -953,14 +977,6 @@
       "onboard_time": 1682312731,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171160,
-      "num": 171160,
-      "word": "友情内耗",
-      "onboard_time": 1682313569,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 170982,
@@ -977,14 +993,6 @@
       "onboard_time": 1682262816,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170615,
-      "num": 170615,
-      "word": "雪允站哥道歉",
-      "onboard_time": 1682315129,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 166956,
@@ -1195,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 126671,
+      "num": 126671,
+      "word": "黑豹乐队新主唱项亚蕻",
+      "onboard_time": 1682315668,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126113,
       "num": 126113,
       "word": "铃芽之旅原本是双女主",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1682263714,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 115029,
-      "num": 115029,
-      "word": "黑豹乐队新主唱项亚蕻",
-      "onboard_time": 1682315668,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 114777,
