@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682299457846,
+  "endTime": 1682300939474,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1896818,
-      "num": 1896818,
+      "raw_hot": 2115993,
+      "num": 2115993,
       "word": "新冠第二波",
       "onboard_time": 1682297310,
       "rank": 1,
@@ -49,6 +49,14 @@
       "onboard_time": 1682261562,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946077,
+      "num": 946077,
+      "word": "淄博鸭货小哥被女游客摸肌肉",
+      "onboard_time": 1682297668,
+      "rank": 6,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 846262,
@@ -83,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 644741,
-      "num": 644741,
-      "word": "淄博鸭货小哥被女游客摸肌肉",
-      "onboard_time": 1682297668,
-      "rank": 6,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 581529,
       "num": 581529,
       "word": "初三这样穿去上学被同学说擦边",
@@ -104,6 +104,14 @@
       "word": "女子忘关车门4岁娃跑下车遭碾压",
       "onboard_time": 1682274434,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500454,
+      "num": 500454,
+      "word": "日本民众集会要求返还自中国掠夺的文物",
+      "onboard_time": 1682297069,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -179,14 +187,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 355413,
-      "num": 355413,
-      "word": "日本民众集会要求返还自中国掠夺的文物",
-      "onboard_time": 1682297069,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353537,
       "num": 353537,
       "word": "网友帮Lisa脱掉了外套",
@@ -209,6 +209,14 @@
       "onboard_time": 1682292143,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295958,
+      "num": 295958,
+      "word": "Lisa下楼梯",
+      "onboard_time": 1682299587,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 292956,
@@ -267,6 +275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256018,
+      "num": 256018,
+      "word": "科切拉的风又吹到了王嘉尔",
+      "onboard_time": 1682299648,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253930,
       "num": 253930,
       "word": "英国警报",
@@ -299,8 +315,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224195,
-      "num": 224195,
+      "raw_hot": 225662,
+      "num": 225662,
       "word": "黄明昊 冷少",
       "onboard_time": 1682297668,
       "rank": 26,
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166351,
+      "num": 166351,
+      "word": "没想到老板的视角是这样的",
+      "onboard_time": 1682299945,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165518,
       "num": 165518,
       "word": "库里叫暂停",
@@ -425,6 +449,14 @@
       "onboard_time": 1682293704,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160956,
+      "num": 160956,
+      "word": "专家称二阳患者应属个例",
+      "onboard_time": 1682300246,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156534,
@@ -545,6 +577,14 @@
       "onboard_time": 1682265869,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112403,
+      "num": 112403,
+      "word": "耄耋老人为一群特殊孩子再创业",
+      "onboard_time": 1682300727,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108112,
@@ -675,7 +715,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8803,
+      "raw_hot": 9931,
       "num": 1508848,
       "word": "相约八点见",
       "onboard_time": 1682239409,
