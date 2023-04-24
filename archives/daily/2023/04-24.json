@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682314412083,
+  "endTime": 1682317373130,
   "band_list": [
     {
       "raw_hot": 3550714,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2471054,
-      "num": 2471054,
+      "raw_hot": 2811375,
+      "num": 2811375,
       "word": "李佳琦刘畊宏等5位主播被点名",
       "onboard_time": 1682312011,
       "rank": 0,
@@ -41,6 +41,14 @@
       "onboard_time": 1682297310,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1775113,
+      "num": 1775113,
+      "word": "肖战杨紫 二搭",
+      "onboard_time": 1682314826,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1713976,
@@ -145,6 +153,14 @@
       "onboard_time": 1682308769,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 757188,
+      "num": 379013,
+      "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+      "onboard_time": 1682316448,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 756103,
@@ -323,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 435563,
+      "num": 435563,
+      "word": "没人告诉汪苏泷容祖儿穿黑色吗",
+      "onboard_time": 1682314409,
+      "rank": 8,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 414973,
       "num": 414973,
       "word": "宋智孝将与经纪公司解约",
@@ -379,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 347376,
+      "num": 347376,
+      "word": "上海一财务把公司偷得只剩20块",
+      "onboard_time": 1682316686,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 344103,
       "num": 330540,
       "word": "马丽新片连扇张百乔5个巴掌",
@@ -395,20 +427,20 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 337459,
+      "num": 337459,
+      "word": "木鱼水心",
+      "onboard_time": 1682311296,
+      "rank": 19,
+      "category": "科技"
+    },
+    {
       "raw_hot": 329956,
       "num": 329956,
       "word": "闪耀暖暖",
       "onboard_time": 1682309310,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 323994,
-      "num": 323994,
-      "word": "木鱼水心",
-      "onboard_time": 1682311296,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 320390,
@@ -505,6 +537,14 @@
       "onboard_time": 1682308708,
       "rank": 23,
       "category": "游戏,社会新闻"
+    },
+    {
+      "raw_hot": 274387,
+      "num": 274387,
+      "word": "Lisa撩伴舞",
+      "onboard_time": 1682316627,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 271602,
@@ -611,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233107,
+      "num": 233107,
+      "word": "乌鸦刺身在日本引发连锁争议",
+      "onboard_time": 1682312669,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232306,
       "num": 232306,
       "word": "谁帮张一山修修图",
@@ -633,6 +681,14 @@
       "onboard_time": 1682257472,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222905,
+      "num": 222905,
+      "word": "最高端的黄牛往往用最朴素的方法",
+      "onboard_time": 1682313510,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 222101,
@@ -665,14 +721,6 @@
       "onboard_time": 1682303846,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 212692,
-      "num": 212692,
-      "word": "乌鸦刺身在日本引发连锁争议",
-      "onboard_time": 1682312669,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209836,
@@ -761,6 +809,22 @@
       "onboard_time": 1682314347,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192955,
+      "num": 192955,
+      "word": "98line写给文彬的信",
+      "onboard_time": 1682315487,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192148,
+      "num": 191438,
+      "word": "时代少年团或将出演英雄联盟",
+      "onboard_time": 1682315608,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 190632,
@@ -891,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171160,
+      "num": 171160,
+      "word": "友情内耗",
+      "onboard_time": 1682313569,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170982,
       "num": 170982,
       "word": "广东酒桌文化",
@@ -905,6 +977,22 @@
       "onboard_time": 1682262816,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170615,
+      "num": 170615,
+      "word": "雪允站哥道歉",
+      "onboard_time": 1682315129,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166956,
+      "num": 166956,
+      "word": "遇到前任还会心动吗",
+      "onboard_time": 1682316567,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 166351,
@@ -939,14 +1027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162403,
-      "num": 162403,
-      "word": "最高端的黄牛往往用最朴素的方法",
-      "onboard_time": 1682313510,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160956,
       "num": 160956,
       "word": "专家称二阳患者应属个例",
@@ -971,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158577,
+      "num": 158577,
+      "word": "声生不息宝岛季改档",
+      "onboard_time": 1682316088,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158323,
       "num": 158323,
       "word": "守护孩子们的航天梦",
@@ -985,6 +1073,22 @@
       "onboard_time": 1682241750,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 154818,
+      "num": 154818,
+      "word": "2023年王者五五朋友节皮肤",
+      "onboard_time": 1682313151,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 148049,
+      "num": 148049,
+      "word": "五一不调休的是什么神仙公司",
+      "onboard_time": 1682314347,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 147058,
@@ -1011,28 +1115,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 145732,
-      "num": 145732,
-      "word": "2023年王者五五朋友节皮肤",
-      "onboard_time": 1682313151,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 144150,
       "num": 144150,
       "word": "谭维维把伴娘红包都给了刘昊然",
       "onboard_time": 1682293343,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142182,
-      "num": 142182,
-      "word": "友情内耗",
-      "onboard_time": 1682313569,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 141003,
@@ -1155,14 +1243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119270,
-      "num": 119270,
-      "word": "五一不调休的是什么神仙公司",
-      "onboard_time": 1682314347,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118363,
       "num": 118363,
       "word": "中国的专家真的在妖言惑众吗",
@@ -1177,6 +1257,14 @@
       "onboard_time": 1682263714,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115029,
+      "num": 115029,
+      "word": "黑豹乐队新主唱项亚蕻",
+      "onboard_time": 1682315668,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 114777,
@@ -1289,6 +1377,14 @@
       "onboard_time": 1682272573,
       "rank": 18,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 67505,
+      "num": 111430,
+      "word": "简洁明了的披萨菜单",
+      "onboard_time": 1682316325,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 62976,

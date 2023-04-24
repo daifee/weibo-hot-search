@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682314412083,
+  "endTime": 1682317373130,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -707,6 +707,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 2811375,
+      "num": 2811375,
+      "word": "李佳琦刘畊宏等5位主播被点名",
+      "onboard_time": 1682312011,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2810484,
       "num": 2810484,
       "word": "成龙被观众当场要求退票",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1682169870,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2471054,
-      "num": 2471054,
-      "word": "李佳琦刘畊宏等5位主播被点名",
-      "onboard_time": 1682312011,
-      "rank": 0,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2470645,
@@ -2321,6 +2321,14 @@
       "onboard_time": 1682221828,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1775113,
+      "num": 1775113,
+      "word": "肖战杨紫 二搭",
+      "onboard_time": 1682314826,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1775044,
@@ -8001,6 +8009,14 @@
       "onboard_time": 1681469426,
       "rank": 9,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 757188,
+      "num": 379013,
+      "word": "杨迪 没有艺人愿意点玉米面糊塌子",
+      "onboard_time": 1682316448,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 756790,
@@ -16027,6 +16043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 435563,
+      "num": 435563,
+      "word": "没人告诉汪苏泷容祖儿穿黑色吗",
+      "onboard_time": 1682314409,
+      "rank": 8,
+      "category": "综艺,幽默"
+    },
+    {
       "raw_hot": 435446,
       "num": 435446,
       "word": "光大集团原董事长李晓鹏被查",
@@ -20467,6 +20491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347376,
+      "num": 347376,
+      "word": "上海一财务把公司偷得只剩20块",
+      "onboard_time": 1682316686,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 347133,
       "num": 347133,
       "word": "结婚建议远嫁吗",
@@ -21017,6 +21049,14 @@
       "onboard_time": 1682056651,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337459,
+      "num": 337459,
+      "word": "木鱼水心",
+      "onboard_time": 1682311296,
+      "rank": 19,
+      "category": "科技"
     },
     {
       "raw_hot": 337190,
@@ -21873,14 +21913,6 @@
       "onboard_time": 1681305450,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323994,
-      "num": 323994,
-      "word": "木鱼水心",
-      "onboard_time": 1682311296,
-      "rank": 19,
-      "category": "科技"
     },
     {
       "raw_hot": 323834,
@@ -25281,6 +25313,14 @@
       "onboard_time": 1680857248,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 274387,
+      "num": 274387,
+      "word": "Lisa撩伴舞",
+      "onboard_time": 1682316627,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 274335,
@@ -29035,6 +29075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233107,
+      "num": 233107,
+      "word": "乌鸦刺身在日本引发连锁争议",
+      "onboard_time": 1682312669,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233056,
       "num": 224679,
       "word": "jinni艺名改为jini",
@@ -30233,6 +30281,14 @@
       "onboard_time": 1682119519,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222905,
+      "num": 222905,
+      "word": "最高端的黄牛往往用最朴素的方法",
+      "onboard_time": 1682313510,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 222740,
@@ -31617,14 +31673,6 @@
       "onboard_time": 1680959552,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 212692,
-      "num": 212692,
-      "word": "乌鸦刺身在日本引发连锁争议",
-      "onboard_time": 1682312669,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212689,
@@ -37523,6 +37571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192955,
+      "num": 192955,
+      "word": "98line写给文彬的信",
+      "onboard_time": 1682315487,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192905,
       "num": 192905,
       "word": "杭州四季青部分市场禁止商家直播销售",
@@ -37713,6 +37769,14 @@
       "onboard_time": 1681089027,
       "rank": 35,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 192148,
+      "num": 191438,
+      "word": "时代少年团或将出演英雄联盟",
+      "onboard_time": 1682315608,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 192136,
@@ -42067,6 +42131,14 @@
       "category": "社会议题,艺人"
     },
     {
+      "raw_hot": 171160,
+      "num": 171160,
+      "word": "友情内耗",
+      "onboard_time": 1682313569,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171128,
       "num": 171128,
       "word": "天津沙尘暴",
@@ -42217,6 +42289,14 @@
       "onboard_time": 1682250268,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170615,
+      "num": 170615,
+      "word": "雪允站哥道歉",
+      "onboard_time": 1682315129,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 170524,
@@ -42856,6 +42936,14 @@
       "word": "薄冰反派",
       "onboard_time": 1680405268,
       "rank": 31,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 166956,
+      "num": 166956,
+      "word": "遇到前任还会心动吗",
+      "onboard_time": 1682316567,
+      "rank": 36,
       "category": "影视"
     },
     {
@@ -43731,14 +43819,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 162403,
-      "num": 162403,
-      "word": "最高端的黄牛往往用最朴素的方法",
-      "onboard_time": 1682313510,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162313,
       "num": 176555,
       "word": "是谁还在读报刊类读物",
@@ -44435,6 +44515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158577,
+      "num": 158577,
+      "word": "声生不息宝岛季改档",
+      "onboard_time": 1682316088,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158542,
       "num": 158542,
       "word": "谢谢你医生将加拿大播出",
@@ -45041,6 +45129,14 @@
       "onboard_time": 1681806509,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154818,
+      "num": 154818,
+      "word": "2023年王者五五朋友节皮肤",
+      "onboard_time": 1682313151,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 154794,
@@ -46307,6 +46403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148049,
+      "num": 148049,
+      "word": "五一不调休的是什么神仙公司",
+      "onboard_time": 1682314347,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147993,
       "num": 147993,
       "word": "欧阳娜娜迪士尼游玩随拍",
@@ -46697,14 +46801,6 @@
       "onboard_time": 1680333751,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145732,
-      "num": 145732,
-      "word": "2023年王者五五朋友节皮肤",
-      "onboard_time": 1682313151,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 145604,
@@ -47209,14 +47305,6 @@
       "onboard_time": 1680430348,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142182,
-      "num": 142182,
-      "word": "友情内耗",
-      "onboard_time": 1682313569,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 142155,
@@ -50675,14 +50763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119270,
-      "num": 119270,
-      "word": "五一不调休的是什么神仙公司",
-      "onboard_time": 1682314347,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 119267,
       "num": 742852,
       "word": "10项公安交管便利措施6月1日起实施",
@@ -51097,6 +51177,14 @@
       "onboard_time": 1681873587,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 115029,
+      "num": 115029,
+      "word": "黑豹乐队新主唱项亚蕻",
+      "onboard_time": 1682315668,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 114872,
@@ -54353,6 +54441,14 @@
       "onboard_time": 1681304129,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 67505,
+      "num": 111430,
+      "word": "简洁明了的披萨菜单",
+      "onboard_time": 1682316325,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 67476,
