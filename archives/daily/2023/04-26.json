@@ -1,30 +1,54 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682464612295,
+  "endTime": 1682465636741,
   "band_list": [
     {
       "raw_hot": 1665590,
-      "num": 459468,
+      "num": 678632,
       "word": "长月烬明 抄袭阴阳师",
       "onboard_time": 1682430151,
       "rank": 4,
       "category": "影视,游戏"
     },
     {
-      "raw_hot": 1126947,
-      "num": 1126947,
+      "raw_hot": 1197035,
+      "num": 1197035,
       "word": "面试1小时发现走错反获2家公司offer",
       "onboard_time": 1682435069,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 669247,
-      "num": 495143,
+      "raw_hot": 801882,
+      "num": 735518,
       "word": "这竟然是彭昱畅",
       "onboard_time": 1682427090,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 798779,
+      "num": 180806,
+      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
+      "onboard_time": 1682447893,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 748912,
+      "num": 748912,
+      "word": "丫丫",
+      "onboard_time": 1682452815,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733923,
+      "num": 733923,
+      "word": "看着不体面但很赚钱的工作",
+      "onboard_time": 1682428589,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 615187,
@@ -43,36 +67,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 536106,
-      "num": 180806,
-      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
-      "onboard_time": 1682447893,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 518615,
-      "num": 518615,
-      "word": "丫丫",
-      "onboard_time": 1682452815,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500595,
       "num": 289065,
       "word": "刘涛 韩素希",
       "onboard_time": 1682425638,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487632,
-      "num": 487632,
-      "word": "看着不体面但很赚钱的工作",
-      "onboard_time": 1682428589,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 453742,
@@ -99,12 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394254,
+      "num": 394254,
+      "word": "新员工交接到一半想离职了",
+      "onboard_time": 1682431829,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 356172,
       "num": 278238,
       "word": "陈翔问路人你喜欢苏醒还是我",
       "onboard_time": 1682423849,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354895,
+      "num": 354895,
+      "word": "原来笔记本要一直充电使用",
+      "onboard_time": 1682421327,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 351568,
@@ -115,20 +131,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 310661,
-      "num": 310661,
-      "word": "原来笔记本要一直充电使用",
-      "onboard_time": 1682421327,
-      "rank": 9,
-      "category": "幽默"
+      "raw_hot": 330666,
+      "num": 132770,
+      "word": "章凝 冯楚轩",
+      "onboard_time": 1682465062,
+      "rank": 12,
+      "category": "时尚,网红"
     },
     {
-      "raw_hot": 309496,
-      "num": 309496,
-      "word": "新员工交接到一半想离职了",
-      "onboard_time": 1682431829,
-      "rank": 8,
-      "category": "幽默"
+      "raw_hot": 325723,
+      "num": 132421,
+      "word": "劳荣枝辩护律师吴丹红被律协调查",
+      "onboard_time": 1682464281,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278770,
@@ -147,7 +163,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 250591,
+      "raw_hot": 262653,
       "num": 222166,
       "word": "你能否接受对象有过同居史",
       "onboard_time": 1682431350,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 160841,
-      "num": 118767,
+      "num": 128164,
       "word": "B站UP主上传原神未公开角色被判赔6万",
       "onboard_time": 1682444116,
       "rank": 10,
@@ -283,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128018,
+      "num": 128018,
+      "word": "内娱哪些演员适合演学霸",
+      "onboard_time": 1682447052,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127541,
       "num": 127541,
       "word": "公诉精英是今年总局发证的第四部剧",
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 127528,
-      "num": 119179,
+      "num": 126797,
       "word": "婚礼上伴郎下跪求爱伴娘机智跟跪",
       "onboard_time": 1682423006,
       "rank": 46,
@@ -300,19 +324,11 @@
     },
     {
       "raw_hot": 126837,
-      "num": 119053,
+      "num": 119090,
       "word": "一读就错的山东地名",
       "onboard_time": 1682431291,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 119759,
-      "num": 119759,
-      "word": "内娱哪些演员适合演学霸",
-      "onboard_time": 1682447052,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 116116,
@@ -347,6 +363,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 103218,
+      "num": 112403,
+      "word": "走出人生低谷的指路牌",
+      "onboard_time": 1682464700,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 101837,
+      "num": 101837,
+      "word": "梅姨",
+      "onboard_time": 1682465482,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100770,
       "num": 100770,
       "word": "拜登正式宣布竞选连任美国总统",
@@ -371,11 +403,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96529,
-      "num": 96529,
-      "word": "劳荣枝辩护律师吴丹红被律协调查",
-      "onboard_time": 1682464281,
-      "rank": 28,
+      "raw_hot": 97712,
+      "num": 97712,
+      "word": "赫罗纳4比2皇马",
+      "onboard_time": 1682464580,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97647,
+      "num": 97647,
+      "word": "B太成都",
+      "onboard_time": 1682465244,
+      "rank": 34,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 96237,
+      "num": 96237,
+      "word": "青岛震感",
+      "onboard_time": 1682464943,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -387,12 +435,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85252,
+      "raw_hot": 95291,
+      "num": 95291,
+      "word": "沈阳下雪",
+      "onboard_time": 1682463739,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92100,
       "num": 93110,
       "word": "27岁民警满头白发仿佛现实版安欣",
       "onboard_time": 1682450591,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86004,
+      "num": 86004,
+      "word": "黎苏苏留给澹台烬的最后一句话",
+      "onboard_time": 1682426668,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 84250,
@@ -401,14 +465,6 @@
       "onboard_time": 1682424927,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82671,
-      "num": 82671,
-      "word": "黎苏苏留给澹台烬的最后一句话",
-      "onboard_time": 1682426668,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 80449,
@@ -427,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 76564,
-      "num": 76564,
-      "word": "沈阳下雪",
-      "onboard_time": 1682463739,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 67257,
+      "num": 67257,
+      "word": "这个五一你准备怎么过",
+      "onboard_time": 1682465302,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 66589,
@@ -483,20 +539,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 45701,
-      "num": 45701,
-      "word": "赫罗纳4比2皇马",
-      "onboard_time": 1682464580,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 30263,
       "num": 30263,
       "word": "易烊千玺刘艳芬VR",
       "onboard_time": 1682446815,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27888,
+      "num": 736277,
+      "word": "行走百县话振兴",
+      "onboard_time": 1682430449,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24470,
@@ -513,14 +569,6 @@
       "onboard_time": 1682440283,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 20858,
-      "num": 496934,
-      "word": "行走百县话振兴",
-      "onboard_time": 1682430449,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20742,
