@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682442935227,
+  "endTime": 1682444022858,
   "band_list": [
     {
       "raw_hot": 1665590,
@@ -409,6 +409,14 @@
       "onboard_time": 1682442496,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 24470,
+      "num": 34498,
+      "word": "星穹铁道倒计时",
+      "onboard_time": 1682435130,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 18943,
