@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682404533973,
+  "endTime": 1682406965136,
   "band_list": [
     {
       "raw_hot": 2714268,
@@ -75,8 +75,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1521759,
-      "num": 1521759,
+      "raw_hot": 1567546,
+      "num": 1567546,
       "word": "陈都灵方否认发艳压通稿",
       "onboard_time": 1682403085,
       "rank": 1,
@@ -241,6 +241,14 @@
       "onboard_time": 1682344113,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 698024,
+      "num": 698024,
+      "word": "卫健委回应从车展回来核酸阳性",
+      "onboard_time": 1682405425,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658002,
@@ -507,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363169,
+      "num": 291824,
+      "word": "易烊千玺的鞋跟",
+      "onboard_time": 1682404107,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 362498,
       "num": 288702,
       "word": "长月烬明今晚超大悲",
@@ -683,6 +699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 303108,
+      "num": 235826,
+      "word": "女子离婚净身出户事后反悔要财产",
+      "onboard_time": 1682403986,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300835,
       "num": 245156,
       "word": "辛云来冷脸",
@@ -707,6 +731,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 295299,
+      "num": 295299,
+      "word": "浙D1026S你被拍下来了",
+      "onboard_time": 1682405846,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284774,
       "num": 284774,
       "word": "最省事的男朋友人设",
@@ -715,12 +747,36 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 279189,
+      "num": 279189,
+      "word": "某公司给员工放假玩游戏",
+      "onboard_time": 1682404226,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278325,
       "num": 278325,
       "word": "上班更累还是上学更累",
       "onboard_time": 1682343389,
       "rank": 48,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 276315,
+      "num": 276315,
+      "word": "爱奇艺回应下架灌篮高手国语版",
+      "onboard_time": 1682402487,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 274839,
+      "num": 274839,
+      "word": "上海杭州之间或将建世界首条超级高铁",
+      "onboard_time": 1682403687,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274208,
@@ -883,12 +939,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236779,
+      "num": 184751,
+      "word": "Jennie妈妈和Lisa妈妈手拉手",
+      "onboard_time": 1682406506,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 235929,
       "num": 235929,
       "word": "南京迈皋桥",
       "onboard_time": 1682399609,
       "rank": 46,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 234549,
+      "num": 234549,
+      "word": "头像暗示法",
+      "onboard_time": 1682405127,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 227817,
@@ -1011,14 +1083,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 206469,
-      "num": 206469,
-      "word": "易烊千玺的鞋跟",
-      "onboard_time": 1682404107,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 204570,
       "num": 204570,
       "word": "王嘉尔新歌是写给谁的",
@@ -1067,14 +1131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199222,
-      "num": 215179,
-      "word": "某公司给员工放假玩游戏",
-      "onboard_time": 1682404226,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198500,
       "num": 198500,
       "word": "卢沙野",
@@ -1115,6 +1171,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 194084,
+      "num": 194084,
+      "word": "徐明浩孙悟空造型路透",
+      "onboard_time": 1682404708,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193407,
       "num": 193407,
       "word": "朱一龙曾说希望带着自己的作品来戛纳",
@@ -1148,7 +1212,7 @@
     },
     {
       "raw_hot": 190506,
-      "num": 143661,
+      "num": 185858,
       "word": "刘彰solo后的第一个大动作",
       "onboard_time": 1682402966,
       "rank": 30,
@@ -1259,14 +1323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169606,
-      "num": 169606,
-      "word": "爱奇艺回应下架灌篮高手国语版",
-      "onboard_time": 1682402487,
-      "rank": 36,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 169481,
       "num": 169481,
       "word": "程嘉树名字含义",
@@ -1315,6 +1371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160355,
+      "num": 149170,
+      "word": "鹿晗五大男刊满贯",
+      "onboard_time": 1682404405,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 159981,
       "num": 159981,
       "word": "KPL春季赛十一周最佳阵容",
@@ -1339,6 +1403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151887,
+      "num": 133453,
+      "word": "周深电音合作曲",
+      "onboard_time": 1682406506,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151878,
       "num": 151878,
       "word": "杨迪cos徐明浩",
@@ -1352,6 +1424,14 @@
       "word": "成都今天闪爆了",
       "onboard_time": 1682398114,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147524,
+      "num": 147524,
+      "word": "超七成受访者被假期出行人流劝退",
+      "onboard_time": 1682406147,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1372,7 +1452,7 @@
     },
     {
       "raw_hot": 146852,
-      "num": 118065,
+      "num": 131337,
       "word": "时代少年团巡演",
       "onboard_time": 1682401767,
       "rank": 42,
@@ -1385,14 +1465,6 @@
       "onboard_time": 1682370731,
       "rank": 47,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 146316,
-      "num": 119229,
-      "word": "鹿晗五大男刊满贯",
-      "onboard_time": 1682404405,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145544,
@@ -1427,12 +1499,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 141556,
-      "num": 163986,
-      "word": "上海杭州之间或将建世界首条超级高铁",
-      "onboard_time": 1682403687,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 142626,
+      "num": 133440,
+      "word": "张婧仪扫楼生图",
+      "onboard_time": 1682405906,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139573,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1682377639,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137067,
+      "num": 137067,
+      "word": "食物变质信号",
+      "onboard_time": 1682405487,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 135202,
@@ -1467,12 +1547,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133976,
+      "num": 133976,
+      "word": "怎么坐才不伤腰",
+      "onboard_time": 1682406086,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133029,
       "num": 186558,
       "word": "她带领团队打破国产计算机无芯可用困局",
       "onboard_time": 1682351065,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 133029,
+      "num": 133029,
+      "word": "李现为詹姆斯打call",
+      "onboard_time": 1682404708,
+      "rank": 43,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 132196,
@@ -1539,6 +1635,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 116380,
+      "num": 116380,
+      "word": "青春环游记",
+      "onboard_time": 1682405127,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112221,
       "num": 112221,
       "word": "李现以前的文案",
@@ -1563,12 +1667,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107657,
-      "num": 117949,
-      "word": "女子离婚净身出户事后反悔要财产",
-      "onboard_time": 1682403986,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 107681,
+      "num": 107681,
+      "word": "交警为行人撑伞自己被淋透",
+      "onboard_time": 1682406747,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 106914,
@@ -1635,20 +1739,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89016,
+      "num": 1537224,
+      "word": "这个答案写满中国航天的自信和底气",
+      "onboard_time": 1682395950,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88688,
       "num": 156438,
       "word": "国外纪念品90%来自中国制造",
       "onboard_time": 1682397993,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 85134,
-      "num": 1537224,
-      "word": "这个答案写满中国航天的自信和底气",
-      "onboard_time": 1682395950,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77410,
