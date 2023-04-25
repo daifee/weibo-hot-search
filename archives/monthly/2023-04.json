@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682392688763,
+  "endTime": 1682393620980,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3059,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1559315,
+      "num": 482345,
+      "word": "霍思燕否认嗯哼是腺样体面容",
+      "onboard_time": 1682392465,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1557601,
       "num": 377626,
       "word": "李钟硕没逃过韩国酵母",
@@ -5377,6 +5385,14 @@
       "onboard_time": 1682089831,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1038786,
+      "num": 1038786,
+      "word": "易烊千玺雕像被涂花",
+      "onboard_time": 1682380165,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1037260,
@@ -10531,6 +10547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 635043,
+      "num": 635043,
+      "word": "五一三倍工资你会选择加班吗",
+      "onboard_time": 1682390365,
+      "rank": 30,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 635026,
       "num": 635026,
       "word": "外卖不够起送价你会凑单吗",
@@ -11571,14 +11595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 588689,
-      "num": 588689,
-      "word": "易烊千玺雕像被涂花",
-      "onboard_time": 1682380165,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 588341,
       "num": 588341,
       "word": "人造长假真的有意义吗",
@@ -12273,14 +12289,6 @@
       "onboard_time": 1680275608,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 561746,
-      "num": 561746,
-      "word": "五一三倍工资你会选择加班吗",
-      "onboard_time": 1682390365,
-      "rank": 30,
-      "category": "社会议题"
     },
     {
       "raw_hot": 561535,
@@ -13977,6 +13985,14 @@
       "onboard_time": 1682344589,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 501221,
+      "num": 501221,
+      "word": "王俊凯 一起来听千玺的新专辑",
+      "onboard_time": 1682392407,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 501181,
@@ -15867,6 +15883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 454138,
+      "num": 454138,
+      "word": "黎苏苏历劫成功",
+      "onboard_time": 1682390007,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 454123,
       "num": 454123,
       "word": "流朱让甄嬛闻石楠花的香气",
@@ -16347,6 +16371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441557,
+      "num": 441557,
+      "word": "BLACKPINK巡演收入",
+      "onboard_time": 1682389706,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 441322,
       "num": 441322,
       "word": "韩国人吵架跟韩剧一模一样",
@@ -16377,14 +16409,6 @@
       "onboard_time": 1680595771,
       "rank": 24,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 440214,
-      "num": 440214,
-      "word": "BLACKPINK巡演收入",
-      "onboard_time": 1682389706,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 440148,
@@ -17219,6 +17243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 421411,
+      "num": 421411,
+      "word": "冷屁股",
+      "onboard_time": 1682392707,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 421307,
       "num": 421307,
       "word": "柯南胸前的玫瑰",
@@ -17873,6 +17905,14 @@
       "onboard_time": 1680606030,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 410042,
+      "num": 410042,
+      "word": "被商场跳楼男子砸伤女孩仍在ICU",
+      "onboard_time": 1682391746,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410035,
@@ -18675,6 +18715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395094,
+      "num": 395094,
+      "word": "中国高铁座椅不只有靠背",
+      "onboard_time": 1682390306,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395060,
       "num": 395060,
       "word": "杨丞琳献唱陈飞宇周也新片主题曲",
@@ -19001,14 +19049,6 @@
       "onboard_time": 1681727189,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 389740,
-      "num": 389740,
-      "word": "黎苏苏历劫成功",
-      "onboard_time": 1682390007,
-      "rank": 49,
-      "category": "影视"
     },
     {
       "raw_hot": 389718,
@@ -19851,14 +19891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 371709,
-      "num": 371709,
-      "word": "中国高铁座椅不只有靠背",
-      "onboard_time": 1682390306,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371698,
       "num": 371698,
       "word": "泼水节被撕雨衣女生选择不立案",
@@ -20657,6 +20689,14 @@
       "onboard_time": 1681902266,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 355997,
+      "num": 355997,
+      "word": "罗云熙沧九旻上线",
+      "onboard_time": 1682391448,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 355973,
@@ -22907,14 +22947,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 319992,
-      "num": 319992,
-      "word": "罗云熙沧九旻上线",
-      "onboard_time": 1682391448,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 319808,
       "num": 319808,
       "word": "陈晓被叫叔叔在线崩溃",
@@ -24307,6 +24339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 298886,
+      "num": 298886,
+      "word": "曾经的朋友成为了明星",
+      "onboard_time": 1682393008,
+      "rank": 24,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 298807,
       "num": 298807,
       "word": "白化病女孩迎光拍照被称像裘千尺",
@@ -25419,6 +25459,14 @@
       "category": "科技,音乐"
     },
     {
+      "raw_hot": 284774,
+      "num": 284774,
+      "word": "最省事的男朋友人设",
+      "onboard_time": 1682391806,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 284698,
       "num": 254838,
       "word": "滔博",
@@ -26243,14 +26291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 274228,
-      "num": 274228,
-      "word": "被商场跳楼男子砸伤女孩仍在ICU",
-      "onboard_time": 1682391746,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274055,
       "num": 269636,
       "word": "今天好多剧开机",
@@ -26648,6 +26688,14 @@
       "word": "杨超越淡黄色公主裙",
       "onboard_time": 1680944664,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 269135,
+      "num": 269135,
+      "word": "杨幂最新合影",
+      "onboard_time": 1682391024,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -27515,14 +27563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258491,
-      "num": 240631,
-      "word": "霍思燕否认嗯哼是腺样体面容",
-      "onboard_time": 1682392465,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258320,
       "num": 258320,
       "word": "吴谨言央视古风造型",
@@ -27699,6 +27739,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 256952,
+      "num": 256952,
+      "word": "酒店客服回应推出五一睡大厅套餐",
+      "onboard_time": 1682391746,
+      "rank": 32,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 256854,
       "num": 256854,
       "word": "千名汉服小姐姐共行叉手礼",
@@ -27761,14 +27809,6 @@
       "onboard_time": 1680755315,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256071,
-      "num": 256071,
-      "word": "杨幂最新合影",
-      "onboard_time": 1682391024,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 256068,
@@ -29915,14 +29955,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 235632,
-      "num": 235632,
-      "word": "酒店客服回应推出五一睡大厅套餐",
-      "onboard_time": 1682391746,
-      "rank": 32,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 235476,
       "num": 203796,
       "word": "沈月一秒猜中陈哲远任务",
@@ -31089,6 +31121,14 @@
       "onboard_time": 1680784652,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 226077,
+      "num": 226077,
+      "word": "那英的人生主打一个脑追嘴",
+      "onboard_time": 1682390666,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226028,
@@ -32531,14 +32571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215444,
-      "num": 210014,
-      "word": "最省事的男朋友人设",
-      "onboard_time": 1682391806,
-      "rank": 36,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 215298,
       "num": 215298,
       "word": "施罗德绝杀",
@@ -33587,6 +33619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208828,
+      "num": 208828,
+      "word": "朴炯植回春",
+      "onboard_time": 1682392950,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208822,
       "num": 208822,
       "word": "TTG战胜Hero",
@@ -34201,6 +34241,14 @@
       "onboard_time": 1681303529,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206773,
+      "num": 206773,
+      "word": "你的四六级考了几次",
+      "onboard_time": 1682393067,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 206757,
@@ -35057,6 +35105,14 @@
       "onboard_time": 1681295486,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 204116,
+      "num": 204116,
+      "word": "奔跑吧少年",
+      "onboard_time": 1682392825,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 204080,
@@ -37731,14 +37787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196716,
-      "num": 196716,
-      "word": "王俊凯 一起来听千玺的新专辑",
-      "onboard_time": 1682392407,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 196703,
       "num": 196703,
       "word": "彭小苒晒季曼画像",
@@ -37857,6 +37905,14 @@
       "onboard_time": 1681601659,
       "rank": 23,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 196328,
+      "num": 196328,
+      "word": "漫长的季节开分9.0",
+      "onboard_time": 1682393248,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 196298,
@@ -39345,6 +39401,14 @@
       "onboard_time": 1680614493,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191456,
+      "num": 191456,
+      "word": "拉塞尔",
+      "onboard_time": 1682393368,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 191389,
@@ -42779,6 +42843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176395,
+      "num": 176395,
+      "word": "闺蜜买走了我的垃圾小说",
+      "onboard_time": 1682393128,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176379,
       "num": 176379,
       "word": "周柏豪演唱会",
@@ -43625,14 +43697,6 @@
       "onboard_time": 1680574649,
       "rank": 38,
       "category": "社会议题,艺人"
-    },
-    {
-      "raw_hot": 171139,
-      "num": 171139,
-      "word": "那英的人生主打一个脑追嘴",
-      "onboard_time": 1682390666,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 171128,
@@ -51835,6 +51899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124524,
+      "num": 172711,
+      "word": "张朝阳物理学解构折叠屏",
+      "onboard_time": 1682392526,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 124521,
       "num": 124521,
       "word": "李荣浩演唱会",
@@ -53321,14 +53393,6 @@
       "onboard_time": 1681178725,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 111093,
-      "num": 133543,
-      "word": "张朝阳物理学解构折叠屏",
-      "onboard_time": 1682392526,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 111016,
