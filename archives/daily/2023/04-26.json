@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682446888294,
+  "endTime": 1682447651255,
   "band_list": [
     {
       "raw_hot": 1665590,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160841,
+      "num": 71054,
+      "word": "B站UP主上传原神未公开角色被判赔6万",
+      "onboard_time": 1682444116,
+      "rank": 10,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 154855,
       "num": 154855,
       "word": "反向抹零",
@@ -225,14 +233,6 @@
       "onboard_time": 1682417728,
       "rank": 27,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 138298,
-      "num": 71054,
-      "word": "B站UP主上传原神未公开角色被判赔6万",
-      "onboard_time": 1682444116,
-      "rank": 10,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 137832,
@@ -433,6 +433,14 @@
       "onboard_time": 1682446815,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 27576,
+      "num": 27576,
+      "word": "内娱哪些演员适合演学霸",
+      "onboard_time": 1682447052,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 24470,
