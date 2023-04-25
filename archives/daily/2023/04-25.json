@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682403743809,
+  "endTime": 1682404533973,
   "band_list": [
     {
       "raw_hot": 2714268,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2233621,
-      "num": 2233621,
+      "raw_hot": 2322125,
+      "num": 2322125,
       "word": "B太 徐州烧烤",
       "onboard_time": 1682399729,
       "rank": 33,
@@ -73,6 +73,14 @@
       "onboard_time": 1682396252,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1521759,
+      "num": 1521759,
+      "word": "陈都灵方否认发艳压通稿",
+      "onboard_time": 1682403085,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1518000,
@@ -129,14 +137,6 @@
       "onboard_time": 1682379865,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1167016,
-      "num": 1167016,
-      "word": "陈都灵方否认发艳压通稿",
-      "onboard_time": 1682403085,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1107017,
@@ -227,20 +227,20 @@
       "category": "教育,社会议题"
     },
     {
+      "raw_hot": 717445,
+      "num": 717445,
+      "word": "刘宪华回向往的生活了",
+      "onboard_time": 1682401587,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 708093,
       "num": 242269,
       "word": "月收入多少才算是普通人",
       "onboard_time": 1682344113,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 686711,
-      "num": 686711,
-      "word": "刘宪华回向往的生活了",
-      "onboard_time": 1682401587,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 658002,
@@ -336,6 +336,14 @@
       "word": "被商场跳楼男子砸伤女孩仍在ICU",
       "onboard_time": 1682391746,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478856,
+      "num": 478856,
+      "word": "官方通报徐州出租车绕路还反向抹零",
+      "onboard_time": 1682400448,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -441,14 +449,6 @@
       "onboard_time": 1682399551,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 404307,
-      "num": 404307,
-      "word": "官方通报徐州出租车绕路还反向抹零",
-      "onboard_time": 1682400448,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404304,
@@ -811,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251589,
+      "num": 238415,
+      "word": "恩爱两不疑理想婆媳关系",
+      "onboard_time": 1682403386,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 251026,
       "num": 251026,
       "word": "哭包AK",
@@ -825,14 +833,6 @@
       "onboard_time": 1682380348,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245578,
-      "num": 230806,
-      "word": "恩爱两不疑理想婆媳关系",
-      "onboard_time": 1682403386,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 245225,
@@ -875,6 +875,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 238954,
+      "num": 238954,
+      "word": "当把萌兰介绍给单身闺蜜时",
+      "onboard_time": 1682397092,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 235929,
+      "num": 235929,
+      "word": "南京迈皋桥",
+      "onboard_time": 1682399609,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 227817,
       "num": 227817,
       "word": "四六级查分",
@@ -897,14 +913,6 @@
       "onboard_time": 1682387486,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223412,
-      "num": 223412,
-      "word": "南京迈皋桥",
-      "onboard_time": 1682399609,
-      "rank": 46,
-      "category": "社会负面"
     },
     {
       "raw_hot": 222993,
@@ -937,14 +945,6 @@
       "onboard_time": 1682393669,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 220010,
-      "num": 220010,
-      "word": "当把萌兰介绍给单身闺蜜时",
-      "onboard_time": 1682397092,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 219477,
@@ -1011,6 +1011,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 206469,
+      "num": 206469,
+      "word": "易烊千玺的鞋跟",
+      "onboard_time": 1682404107,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204570,
       "num": 204570,
       "word": "王嘉尔新歌是写给谁的",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1682400388,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199222,
+      "num": 215179,
+      "word": "某公司给员工放假玩游戏",
+      "onboard_time": 1682404226,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 198500,
@@ -1243,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169606,
+      "num": 169606,
+      "word": "爱奇艺回应下架灌篮高手国语版",
+      "onboard_time": 1682402487,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 169481,
       "num": 169481,
       "word": "程嘉树名字含义",
@@ -1283,6 +1307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163770,
+      "num": 163770,
+      "word": "终于看懂了长月烬明",
+      "onboard_time": 1682402065,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159981,
       "num": 159981,
       "word": "KPL春季赛十一周最佳阵容",
@@ -1291,12 +1323,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159215,
-      "num": 129918,
-      "word": "爱奇艺回应下架灌篮高手国语版",
-      "onboard_time": 1682402487,
-      "rank": 36,
-      "category": "影视,动漫"
+      "raw_hot": 157396,
+      "num": 120400,
+      "word": "徐明浩是来青环炫奶的",
+      "onboard_time": 1682402548,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 156726,
@@ -1340,7 +1372,7 @@
     },
     {
       "raw_hot": 146852,
-      "num": 111260,
+      "num": 118065,
       "word": "时代少年团巡演",
       "onboard_time": 1682401767,
       "rank": 42,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1682370731,
       "rank": 47,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 146316,
+      "num": 119229,
+      "word": "鹿晗五大男刊满贯",
+      "onboard_time": 1682404405,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145544,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1682389647,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 141556,
+      "num": 163986,
+      "word": "上海杭州之间或将建世界首条超级高铁",
+      "onboard_time": 1682403687,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139573,
@@ -1515,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107657,
+      "num": 117949,
+      "word": "女子离婚净身出户事后反悔要财产",
+      "onboard_time": 1682403986,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106914,
       "num": 106914,
       "word": "范新",
@@ -1553,14 +1609,6 @@
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99204,
-      "num": 99204,
-      "word": "上海杭州之间或将建世界首条超级高铁",
-      "onboard_time": 1682403687,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93189,
@@ -1609,6 +1657,14 @@
       "onboard_time": 1682370312,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73991,
+      "num": 115226,
+      "word": "你假期不出游的原因是什么",
+      "onboard_time": 1682404285,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 59458,
