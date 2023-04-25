@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682457321477,
+  "endTime": 1682458399179,
   "band_list": [
     {
       "raw_hot": 1665590,
@@ -307,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 102257,
+      "num": 102257,
+      "word": "丫丫",
+      "onboard_time": 1682452815,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100770,
       "num": 100770,
       "word": "拜登正式宣布竞选连任美国总统",
@@ -320,6 +328,14 @@
       "word": "女子2月订房临近五一被取消订单",
       "onboard_time": 1682420607,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99920,
+      "num": 37302,
+      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
+      "onboard_time": 1682447893,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -345,22 +361,6 @@
       "onboard_time": 1682431291,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 90925,
-      "num": 90925,
-      "word": "丫丫",
-      "onboard_time": 1682452815,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90789,
-      "num": 37302,
-      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
-      "onboard_time": 1682447893,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84250,
