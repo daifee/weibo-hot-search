@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682387270769,
+  "endTime": 1682390068962,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -875,8 +875,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2644371,
-      "num": 2644371,
+      "raw_hot": 2645415,
+      "num": 2645415,
       "word": "婴儿高铁上哭闹女子和宝妈对骂",
       "onboard_time": 1682381907,
       "rank": 0,
@@ -2683,6 +2683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1667245,
+      "num": 1667245,
+      "word": "内娱选秀团全部解散",
+      "onboard_time": 1682382987,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1664469,
       "num": 428654,
       "word": "何超莲称婚礼是窦骁一手包办",
@@ -3377,6 +3385,14 @@
       "onboard_time": 1680414148,
       "rank": 10,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 1484914,
+      "num": 1484914,
+      "word": "易烊千玺新专辑刘艳芬",
+      "onboard_time": 1681783885,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1482115,
@@ -4369,14 +4385,6 @@
       "onboard_time": 1681911089,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1220407,
-      "num": 1220407,
-      "word": "内娱选秀团全部解散",
-      "onboard_time": 1682382987,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1218650,
@@ -5393,6 +5401,14 @@
       "onboard_time": 1680947908,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1031819,
+      "num": 1031819,
+      "word": "巴特勒太硬了",
+      "onboard_time": 1682388864,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1031768,
@@ -6907,14 +6923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 869107,
-      "num": 869107,
-      "word": "易烊千玺新专辑刘艳芬",
-      "onboard_time": 1681783885,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 868639,
       "num": 868639,
       "word": "五月天北京演唱会",
@@ -7473,6 +7481,14 @@
       "onboard_time": 1681220249,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 825395,
+      "num": 825395,
+      "word": "突然知道什么是媚骨天成了",
+      "onboard_time": 1682383950,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 824838,
@@ -10881,6 +10897,14 @@
       "onboard_time": 1681970489,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 618425,
+      "num": 618425,
+      "word": "99元睡大厅",
+      "onboard_time": 1682386765,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617799,
@@ -14547,6 +14571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 486122,
+      "num": 486122,
+      "word": "车银优给文彬的留言",
+      "onboard_time": 1682387666,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485986,
       "num": 485986,
       "word": "树奈奈 伞皇",
@@ -15361,14 +15393,6 @@
       "onboard_time": 1681777410,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 463894,
-      "num": 463894,
-      "word": "突然知道什么是媚骨天成了",
-      "onboard_time": 1682383950,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 463757,
@@ -20739,6 +20763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354107,
+      "num": 354107,
+      "word": "三星一季度挣6000亿韩元被美国罚4000亿",
+      "onboard_time": 1682384427,
+      "rank": 24,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 354083,
       "num": 354083,
       "word": "云南吃菌菇火锅店员取汤留样",
@@ -21443,14 +21475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342581,
-      "num": 342581,
-      "word": "三星一季度挣6000亿韩元被美国罚4000亿",
-      "onboard_time": 1682384427,
-      "rank": 24,
-      "category": "财经,科技"
-    },
-    {
       "raw_hot": 342475,
       "num": 2153777,
       "word": "一图看懂海南全岛封关意味着什么",
@@ -21521,6 +21545,14 @@
       "onboard_time": 1681373908,
       "rank": 39,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 341236,
+      "num": 341236,
+      "word": "驻法使馆 卢沙野表态是个人观点",
+      "onboard_time": 1682387605,
+      "rank": 17,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 341223,
@@ -26755,6 +26787,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 266344,
+      "num": 266344,
+      "word": "巴特勒56分",
+      "onboard_time": 1682389406,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266265,
       "num": 234283,
       "word": "明道真的再演单均昊了",
@@ -29915,14 +29955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234176,
-      "num": 234176,
-      "word": "99元睡大厅",
-      "onboard_time": 1682386765,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234158,
       "num": 234158,
       "word": "金智秀酒综预告",
@@ -31163,6 +31195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224027,
+      "num": 224027,
+      "word": "罗云熙黑披风",
+      "onboard_time": 1682387486,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224006,
       "num": 224006,
       "word": "你坐火车时最反感什么行为",
@@ -31801,6 +31841,14 @@
       "onboard_time": 1681574068,
       "rank": 33,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 219477,
+      "num": 219477,
+      "word": "雄鹿VS热火",
+      "onboard_time": 1682389047,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 219308,
@@ -38555,6 +38603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193391,
+      "num": 193391,
+      "word": "惊天救援",
+      "onboard_time": 1682388508,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 193365,
       "num": 193365,
       "word": "江疏影发文鼓励欢乐颂五美",
@@ -43763,6 +43819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169481,
+      "num": 169481,
+      "word": "程嘉树名字含义",
+      "onboard_time": 1682385505,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169469,
       "num": 169469,
       "word": "陈伟霆用方言推荐电影暴风",
@@ -44585,6 +44649,14 @@
       "onboard_time": 1682158648,
       "rank": 27,
       "category": "旅游,影视"
+    },
+    {
+      "raw_hot": 165023,
+      "num": 165023,
+      "word": "佰草集",
+      "onboard_time": 1682389885,
+      "rank": 34,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 165013,
@@ -46161,14 +46233,6 @@
       "onboard_time": 1681876651,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156392,
-      "num": 156392,
-      "word": "程嘉树名字含义",
-      "onboard_time": 1682385505,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 156352,
@@ -51883,6 +51947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121444,
+      "num": 121444,
+      "word": "BLACKPINK巡演收入",
+      "onboard_time": 1682389706,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121346,
       "num": 121346,
       "word": "保你平安票房破6亿",
@@ -52121,6 +52193,14 @@
       "onboard_time": 1681832488,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 119872,
+      "num": 119872,
+      "word": "互联网算命到底多赚钱",
+      "onboard_time": 1682389647,
+      "rank": 43,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 119852,
@@ -53587,6 +53667,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 105644,
+      "num": 105644,
+      "word": "当代年轻人的精神状态",
+      "onboard_time": 1682388686,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105579,
       "num": 105579,
       "word": "曼联晋级足总杯决赛",
@@ -53705,6 +53793,14 @@
       "onboard_time": 1680935008,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 104269,
+      "num": 104269,
+      "word": "热火 赛点",
+      "onboard_time": 1682389947,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 104254,
@@ -54331,6 +54427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98732,
+      "num": 98732,
+      "word": "终于到周二了",
+      "onboard_time": 1682389647,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 98616,
       "num": 98616,
       "word": "突然就想换个专业读了",
@@ -54409,6 +54513,14 @@
       "onboard_time": 1681374869,
       "rank": 48,
       "category": "科技"
+    },
+    {
+      "raw_hot": 97852,
+      "num": 97852,
+      "word": "黎苏苏历劫成功",
+      "onboard_time": 1682390007,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 97837,
@@ -56204,7 +56316,7 @@
     },
     {
       "raw_hot": 61270,
-      "num": 1582687,
+      "num": 1681344,
       "word": "广交会展览规模再创历史新高",
       "onboard_time": 1682341230,
       "rank": 2,
