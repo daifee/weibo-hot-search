@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682415226792,
+  "endTime": 1682417927372,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1634401,
-      "num": 436933,
+      "num": 485883,
       "word": "张一山 袜子",
       "onboard_time": 1682401887,
       "rank": 11,
@@ -97,6 +97,14 @@
       "onboard_time": 1682396252,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1539180,
+      "num": 1539180,
+      "word": "张雨绮微信名叫高启强",
+      "onboard_time": 1682412927,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1518000,
@@ -123,12 +131,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1382333,
-      "num": 1382333,
-      "word": "张雨绮微信名叫高启强",
-      "onboard_time": 1682412927,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 1299284,
+      "num": 1299284,
+      "word": "毛戈平为赵露思化的妆",
+      "onboard_time": 1682414548,
+      "rank": 13,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 1266779,
+      "num": 1266779,
+      "word": "长月烬明 阿娇",
+      "onboard_time": 1682414426,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1250693,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 1023458,
-      "num": 432194,
+      "num": 639777,
       "word": "刘涛变美",
       "onboard_time": 1682413887,
       "rank": 16,
@@ -233,14 +249,6 @@
       "onboard_time": 1682344230,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 850105,
-      "num": 850105,
-      "word": "长月烬明 阿娇",
-      "onboard_time": 1682414426,
-      "rank": 4,
-      "category": "影视"
     },
     {
       "raw_hot": 827733,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 627648,
-      "num": 627648,
+      "num": 1301685,
       "word": "浙D1026S你被拍下来了",
       "onboard_time": 1682405846,
       "rank": 14,
@@ -411,6 +419,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 503577,
+      "num": 503577,
+      "word": "太阳Lisa新歌shoong",
+      "onboard_time": 1682416227,
+      "rank": 13,
+      "category": "艺人,音乐"
+    },
+    {
       "raw_hot": 486122,
       "num": 486122,
       "word": "车银优给文彬的留言",
@@ -441,6 +457,14 @@
       "onboard_time": 1682410707,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 477324,
+      "num": 477324,
+      "word": "专家称年轻女性要学会与狼共舞",
+      "onboard_time": 1682415626,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466918,
@@ -539,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 423451,
-      "num": 423451,
-      "word": "毛戈平为赵露思化的妆",
-      "onboard_time": 1682414548,
-      "rank": 13,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 421411,
       "num": 421411,
       "word": "冷屁股",
@@ -633,6 +649,14 @@
       "onboard_time": 1682404107,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 374633,
+      "num": 374633,
+      "word": "文彬再次见面了",
+      "onboard_time": 1682415806,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 366065,
@@ -771,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326337,
+      "num": 326337,
+      "word": "为什么女生旅个游这么难",
+      "onboard_time": 1682413166,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324014,
       "num": 324014,
       "word": "18岁女孩双腿肌肉突发溶解面临截肢",
@@ -819,19 +851,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313992,
-      "num": 313992,
-      "word": "为什么女生旅个游这么难",
-      "onboard_time": 1682413166,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 313166,
       "num": 313166,
       "word": "上海杭州之间或将建世界首条超级高铁",
       "onboard_time": 1682403687,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312901,
+      "num": 1748607,
+      "word": "爸爸吃饼卡喉15岁女儿1分钟救回",
+      "onboard_time": 1682410767,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -987,14 +1019,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 258435,
-      "num": 327640,
-      "word": "爸爸吃饼卡喉15岁女儿1分钟救回",
-      "onboard_time": 1682410767,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257326,
       "num": 257326,
       "word": "秦昊说骗你把我从山上推下去",
@@ -1043,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252419,
+      "num": 252419,
+      "word": "雷军称小屏手机消费群体太小",
+      "onboard_time": 1682412566,
+      "rank": 45,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 251589,
       "num": 238415,
       "word": "恩爱两不疑理想婆媳关系",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1682349209,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250874,
+      "num": 1271403,
+      "word": "女子火灾中安全转移两小孩后不幸遇难",
+      "onboard_time": 1682414607,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250289,
@@ -1121,6 +1161,14 @@
       "onboard_time": 1682392407,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239084,
+      "num": 239084,
+      "word": "何猷君说王嘉尔是我们的骄傲",
+      "onboard_time": 1682413766,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238954,
@@ -1251,14 +1299,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210977,
-      "num": 197835,
-      "word": "何猷君说王嘉尔是我们的骄傲",
-      "onboard_time": 1682413766,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 208425,
       "num": 208425,
       "word": "王者荣耀 妲己",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1682350107,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207223,
+      "num": 207223,
+      "word": "小鬼定闹钟抢票",
+      "onboard_time": 1682417546,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 206773,
@@ -1363,12 +1411,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 197729,
+      "num": 197729,
+      "word": "你非常喜欢却停产的东西",
+      "onboard_time": 1682415206,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 197701,
       "num": 197701,
       "word": "开不起玩笑的言外之意",
       "onboard_time": 1682399970,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 196849,
+      "num": 196849,
+      "word": "薛之谦巡演官宣三城空降",
+      "onboard_time": 1682412149,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 196328,
@@ -1459,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190320,
+      "num": 190320,
+      "word": "澹台烬更名沧九旻",
+      "onboard_time": 1682413527,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189818,
       "num": 189818,
       "word": "灰熊VS湖人",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1682354239,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189394,
+      "num": 189394,
+      "word": "警方辟谣南京迈皋桥发生枪战",
+      "onboard_time": 1682416709,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187131,
@@ -1547,6 +1627,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 179804,
+      "num": 179804,
+      "word": "明星回春",
+      "onboard_time": 1682416465,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179569,
       "num": 179569,
       "word": "夏天对于中国的孩子是特殊的",
@@ -1585,6 +1673,14 @@
       "onboard_time": 1682343031,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174580,
+      "num": 143057,
+      "word": "原来长月烬明的明是声明的明",
+      "onboard_time": 1682416709,
+      "rank": 40,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 173683,
@@ -1675,6 +1771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163443,
+      "num": 163443,
+      "word": "徐州3名出租车驾驶员被罚款",
+      "onboard_time": 1682417787,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163183,
       "num": 163183,
       "word": "应届生第一份工作很重要吗",
@@ -1683,20 +1787,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162881,
-      "num": 162881,
-      "word": "澹台烬更名沧九旻",
-      "onboard_time": 1682413527,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 162389,
-      "num": 162389,
-      "word": "薛之谦巡演官宣三城空降",
-      "onboard_time": 1682412149,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 162472,
+      "num": 142860,
+      "word": "华晨宇向阳而生live邂逅橙色海",
+      "onboard_time": 1682416947,
+      "rank": 42,
+      "category": "音乐,综艺"
     },
     {
       "raw_hot": 160181,
@@ -1923,28 +2019,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130647,
+      "num": 130647,
+      "word": "易烊千玺包里背着花",
+      "onboard_time": 1682417126,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129535,
       "num": 129535,
       "word": "欢乐颂5",
       "onboard_time": 1682334269,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 128773,
-      "num": 162883,
-      "word": "女子火灾中安全转移两小孩后不幸遇难",
-      "onboard_time": 1682414607,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127988,
-      "num": 127988,
-      "word": "雷军称小屏手机消费群体太小",
-      "onboard_time": 1682412566,
-      "rank": 45,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 126138,
@@ -1977,14 +2065,6 @@
       "onboard_time": 1682332467,
       "rank": 43,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 121435,
-      "num": 121435,
-      "word": "你非常喜欢却停产的东西",
-      "onboard_time": 1682415206,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 120139,
@@ -2025,6 +2105,14 @@
       "onboard_time": 1682379143,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112035,
+      "num": 112035,
+      "word": "五一特种兵之旅攻略",
+      "onboard_time": 1682417426,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 110720,
@@ -2163,6 +2251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 60674,
+      "num": 1587483,
+      "word": "全国网络普法行广西站",
+      "onboard_time": 1682414368,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59458,
       "num": 59458,
       "word": "要被何悯鸿气死",
@@ -2201,14 +2297,6 @@
       "onboard_time": 1682395651,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 30957,
-      "num": 1233664,
-      "word": "全国网络普法行广西站",
-      "onboard_time": 1682414368,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24845,
