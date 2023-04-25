@@ -1,0 +1,410 @@
+{
+  "runTime": 1682390613336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2532367,
+        "num": 2532367,
+        "word": "婴儿高铁上哭闹女子和宝妈对骂",
+        "onboard_time": 1682381907,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1968168,
+        "num": 1968168,
+        "word": "内娱选秀团全部解散",
+        "onboard_time": 1682382987,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21719,
+        "num": 1629169,
+        "word": "广交会展览规模再创历史新高",
+        "onboard_time": 1682341230,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1497217,
+        "num": 1497217,
+        "word": "为什么读了研也找不到工作",
+        "onboard_time": 1682378784,
+        "rank": 3,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 1401411,
+        "num": 1401411,
+        "word": "易烊千玺新专辑刘艳芬",
+        "onboard_time": 1682389466,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1107017,
+        "num": 1107017,
+        "word": "巴特勒太硬了",
+        "onboard_time": 1682388864,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 805030,
+        "num": 805030,
+        "word": "突然知道什么是媚骨天成了",
+        "onboard_time": 1682383950,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 716843,
+        "num": 716843,
+        "word": "GQ道歉",
+        "onboard_time": 1682381427,
+        "rank": 7,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 625422,
+        "num": 625422,
+        "word": "99元睡大厅",
+        "onboard_time": 1682386765,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552706,
+        "num": 552706,
+        "word": "安徽一算命网红3年非法盈利200多万",
+        "onboard_time": 1682349989,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 975204,
+        "num": 530972,
+        "word": "路人凭狗认出赵露思",
+        "onboard_time": 1682378962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476548,
+        "num": 476548,
+        "word": "车银优给文彬的留言",
+        "onboard_time": 1682387666,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431981,
+        "num": 431981,
+        "word": "巴特勒56分",
+        "onboard_time": 1682389406,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402156,
+        "num": 402156,
+        "word": "INTO1集体改ID",
+        "onboard_time": 1682381249,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401522,
+        "num": 401522,
+        "word": "四六级对找工作帮助大吗",
+        "onboard_time": 1682382509,
+        "rank": 14,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 391194,
+        "num": 391194,
+        "word": "知道奚梦瑶为什么上课不开心了",
+        "onboard_time": 1682344230,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353154,
+        "num": 353154,
+        "word": "驻法使馆 卢沙野表态是个人观点",
+        "onboard_time": 1682387605,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 342318,
+        "num": 342318,
+        "word": "三星一季度挣6000亿韩元被美国罚4000亿",
+        "onboard_time": 1682384427,
+        "rank": 17,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 341801,
+        "num": 341801,
+        "word": "四六级",
+        "onboard_time": 1682379865,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256433,
+        "num": 256433,
+        "word": "二阳患者自述感染经历",
+        "onboard_time": 1682382087,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345585,
+        "num": 255339,
+        "word": "中国一女游客在泰国遭绑架后逃脱",
+        "onboard_time": 1682341770,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245225,
+        "num": 245225,
+        "word": "年轻人考研才是唯一出路吗",
+        "onboard_time": 1682390306,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241423,
+        "num": 241423,
+        "word": "BLACKPINK巡演收入",
+        "onboard_time": 1682389706,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238948,
+        "num": 238948,
+        "word": "孙珍妮的文笔",
+        "onboard_time": 1682379265,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231005,
+        "num": 231005,
+        "word": "张婧仪范丞丞好嗑",
+        "onboard_time": 1682385808,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216609,
+        "num": 216609,
+        "word": "罗云熙黑披风",
+        "onboard_time": 1682387486,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 211762,
+        "num": 211762,
+        "word": "佰草集",
+        "onboard_time": 1682389885,
+        "rank": 26,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 205002,
+        "num": 205002,
+        "word": "新冠",
+        "onboard_time": 1682368750,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197998,
+        "num": 197998,
+        "word": "杨紫 造型团队",
+        "onboard_time": 1682344831,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153671,
+        "num": 193666,
+        "word": "蓝环章鱼的毒没有解药",
+        "onboard_time": 1682379503,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206099,
+        "num": 193554,
+        "word": "五一三倍工资你会选择加班吗",
+        "onboard_time": 1682390365,
+        "rank": 30,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 193407,
+        "num": 193407,
+        "word": "朱一龙曾说希望带着自己的作品来戛纳",
+        "onboard_time": 1682390423,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190510,
+        "num": 190510,
+        "word": "雄鹿VS热火",
+        "onboard_time": 1682389047,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186526,
+        "num": 186526,
+        "word": "长月烬明女性角色",
+        "onboard_time": 1682381306,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172797,
+        "num": 172797,
+        "word": "雄鹿会被热火黑八吗",
+        "onboard_time": 1682390246,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160397,
+        "num": 160397,
+        "word": "程嘉树名字含义",
+        "onboard_time": 1682385505,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159052,
+        "num": 159052,
+        "word": "算命是科学还是迷信骗人",
+        "onboard_time": 1682384667,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154343,
+        "num": 154343,
+        "word": "能接受另一半帮异性挡酒吗",
+        "onboard_time": 1682356996,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151749,
+        "num": 151749,
+        "word": "米哈游新游未上线超百国登顶",
+        "onboard_time": 1682354419,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149339,
+        "num": 149339,
+        "word": "我负责的烈士子女考上了重点军校",
+        "onboard_time": 1682347410,
+        "rank": 39,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 148747,
+        "num": 148747,
+        "word": "黎苏苏历劫成功",
+        "onboard_time": 1682390007,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147015,
+        "num": 147015,
+        "word": "热火 赛点",
+        "onboard_time": 1682389947,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146938,
+        "num": 146938,
+        "word": "特斯拉在中国大陆开放充电网络",
+        "onboard_time": 1682390485,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 143163,
+        "num": 143163,
+        "word": "中国高铁座椅不只有靠背",
+        "onboard_time": 1682390306,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142435,
+        "num": 142435,
+        "word": "何猷君 科切拉",
+        "onboard_time": 1682340868,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138652,
+        "num": 138652,
+        "word": "专业调整后不小心成了绝版人才",
+        "onboard_time": 1682382689,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 128132,
+        "num": 128132,
+        "word": "专家建议延长法定节假日避免调休",
+        "onboard_time": 1682380767,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124200,
+        "num": 124200,
+        "word": "出去玩发朋友圈要屏蔽同事吗",
+        "onboard_time": 1682380466,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123317,
+        "num": 123317,
+        "word": "终于到周二了",
+        "onboard_time": 1682389647,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 120261,
+        "num": 120261,
+        "word": "惊天救援",
+        "onboard_time": 1682388508,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国星辰#"
+    }
+  }
+}
