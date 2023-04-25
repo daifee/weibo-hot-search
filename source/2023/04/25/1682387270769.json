@@ -1,0 +1,410 @@
+{
+  "runTime": 1682387270769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2461454,
+        "num": 2461454,
+        "word": "婴儿高铁上哭闹女子和宝妈对骂",
+        "onboard_time": 1682381907,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2217580,
+        "num": 2217580,
+        "word": "为什么读了研也找不到工作",
+        "onboard_time": 1682378784,
+        "rank": 1,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 38051,
+        "num": 1550938,
+        "word": "广交会展览规模再创历史新高",
+        "onboard_time": 1682341230,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1220407,
+        "num": 1220407,
+        "word": "内娱选秀团全部解散",
+        "onboard_time": 1682382987,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927053,
+        "num": 927053,
+        "word": "四六级",
+        "onboard_time": 1682379865,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 768883,
+        "num": 768883,
+        "word": "四六级对找工作帮助大吗",
+        "onboard_time": 1682382509,
+        "rank": 5,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 695728,
+        "num": 695728,
+        "word": "GQ道歉",
+        "onboard_time": 1682381427,
+        "rank": 6,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 672227,
+        "num": 672227,
+        "word": "安徽一算命网红3年非法盈利200多万",
+        "onboard_time": 1682349989,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 525015,
+        "num": 525015,
+        "word": "INTO1集体改ID",
+        "onboard_time": 1682381249,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516202,
+        "num": 516202,
+        "word": "易烊千玺雕像被涂花",
+        "onboard_time": 1682380165,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1191048,
+        "num": 503382,
+        "word": "路人凭狗认出赵露思",
+        "onboard_time": 1682378962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578126,
+        "num": 494797,
+        "word": "知道奚梦瑶为什么上课不开心了",
+        "onboard_time": 1682344230,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466918,
+        "num": 466918,
+        "word": "二阳患者自述感染经历",
+        "onboard_time": 1682382087,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463894,
+        "num": 463894,
+        "word": "突然知道什么是媚骨天成了",
+        "onboard_time": 1682383950,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383327,
+        "num": 383327,
+        "word": "孙珍妮的文笔",
+        "onboard_time": 1682379265,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 342581,
+        "num": 342581,
+        "word": "三星一季度挣6000亿韩元被美国罚4000亿",
+        "onboard_time": 1682384427,
+        "rank": 15,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 315843,
+        "num": 315843,
+        "word": "杨紫 造型团队",
+        "onboard_time": 1682344831,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 309758,
+        "num": 309758,
+        "word": "张婧仪范丞丞好嗑",
+        "onboard_time": 1682385808,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305161,
+        "num": 305161,
+        "word": "何猷君 科切拉",
+        "onboard_time": 1682340868,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279809,
+        "num": 279809,
+        "word": "专家建议延长法定节假日避免调休",
+        "onboard_time": 1682380767,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475640,
+        "num": 274592,
+        "word": "中国一女游客在泰国遭绑架后逃脱",
+        "onboard_time": 1682341770,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314841,
+        "num": 271848,
+        "word": "新冠",
+        "onboard_time": 1682368750,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267338,
+        "num": 267338,
+        "word": "能接受另一半帮异性挡酒吗",
+        "onboard_time": 1682356996,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258335,
+        "num": 258335,
+        "word": "一页folio范新性侵下属未遂",
+        "onboard_time": 1682384189,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250704,
+        "num": 250704,
+        "word": "长月烬明女性角色",
+        "onboard_time": 1682381306,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246665,
+        "num": 246665,
+        "word": "蓝环章鱼的毒没有解药",
+        "onboard_time": 1682379503,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234176,
+        "num": 234176,
+        "word": "99元睡大厅",
+        "onboard_time": 1682386765,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229700,
+        "num": 229700,
+        "word": "算命是科学还是迷信骗人",
+        "onboard_time": 1682384667,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216284,
+        "num": 216284,
+        "word": "现金流都在12306",
+        "onboard_time": 1682383169,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211173,
+        "num": 211173,
+        "word": "朱一龙作品回报率",
+        "onboard_time": 1682386886,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198500,
+        "num": 198500,
+        "word": "卢沙野",
+        "onboard_time": 1682387186,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 186354,
+        "num": 186354,
+        "word": "宜和宽哥",
+        "onboard_time": 1682387065,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184969,
+        "num": 184969,
+        "word": "长沙烧烤也申请出战",
+        "onboard_time": 1682380948,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180691,
+        "num": 180691,
+        "word": "福克斯手指骨折",
+        "onboard_time": 1682380348,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178253,
+        "num": 178253,
+        "word": "专业调整后不小心成了绝版人才",
+        "onboard_time": 1682382689,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 173835,
+        "num": 173835,
+        "word": "出去玩发朋友圈要屏蔽同事吗",
+        "onboard_time": 1682380466,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173621,
+        "num": 173621,
+        "word": "米哈游新游未上线超百国登顶",
+        "onboard_time": 1682354419,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163562,
+        "num": 163562,
+        "word": "我负责的烈士子女考上了重点军校",
+        "onboard_time": 1682347410,
+        "rank": 37,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 156392,
+        "num": 156392,
+        "word": "程嘉树名字含义",
+        "onboard_time": 1682385505,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146678,
+        "num": 146678,
+        "word": "杨智渊被批准逮捕",
+        "onboard_time": 1682382267,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136814,
+        "num": 136814,
+        "word": "四六级查分",
+        "onboard_time": 1682384249,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134586,
+        "num": 134586,
+        "word": "你最希望哪个团合体",
+        "onboard_time": 1682386348,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132615,
+        "num": 132615,
+        "word": "离职三天后同事发的微信",
+        "onboard_time": 1682337149,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130198,
+        "num": 130198,
+        "word": "拿破仑一世鼻烟盒亮相山东",
+        "onboard_time": 1682377880,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129215,
+        "num": 129215,
+        "word": "秦昊说骗你把我从山上推下去",
+        "onboard_time": 1682350169,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126568,
+        "num": 126568,
+        "word": "18岁女孩双腿肌肉突发溶解面临截肢",
+        "onboard_time": 1682341891,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116962,
+        "num": 116962,
+        "word": "工作不开心时你会不会辞职",
+        "onboard_time": 1682386587,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 116811,
+        "num": 116811,
+        "word": "爱奇艺 灌篮高手",
+        "onboard_time": 1682349448,
+        "rank": 47,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 112221,
+        "num": 112221,
+        "word": "李现以前的文案",
+        "onboard_time": 1682379143,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107554,
+        "num": 107554,
+        "word": "胖东来爆火是有原因的",
+        "onboard_time": 1682346451,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天叩问苍穹#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682385838195,
+  "endTime": 1682387270769,
   "band_list": [
     {
       "raw_hot": 2644371,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2179398,
-      "num": 2179398,
+      "raw_hot": 2217580,
+      "num": 2217580,
       "word": "为什么读了研也找不到工作",
       "onboard_time": 1682378784,
       "rank": 31,
@@ -43,8 +43,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1213333,
-      "num": 1213333,
+      "raw_hot": 1220407,
+      "num": 1220407,
       "word": "内娱选秀团全部解散",
       "onboard_time": 1682382987,
       "rank": 3,
@@ -91,20 +91,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 768883,
+      "num": 768883,
+      "word": "四六级对找工作帮助大吗",
+      "onboard_time": 1682382509,
+      "rank": 7,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 765482,
       "num": 765482,
       "word": "GQ道歉",
       "onboard_time": 1682381427,
       "rank": 6,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 717919,
-      "num": 717919,
-      "word": "四六级对找工作帮助大吗",
-      "onboard_time": 1682382509,
-      "rank": 7,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 708093,
@@ -163,12 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 461476,
-      "num": 461476,
+      "raw_hot": 466918,
+      "num": 466918,
       "word": "二阳患者自述感染经历",
       "onboard_time": 1682382087,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463894,
+      "num": 463894,
+      "word": "突然知道什么是媚骨天成了",
+      "onboard_time": 1682383950,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 461289,
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342581,
+      "num": 342581,
+      "word": "三星一季度挣6000亿韩元被美国罚4000亿",
+      "onboard_time": 1682384427,
+      "rank": 24,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 342381,
       "num": 216672,
       "word": "离职三天后同事发的微信",
@@ -307,12 +323,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304337,
-      "num": 304337,
-      "word": "突然知道什么是媚骨天成了",
-      "onboard_time": 1682383950,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 309758,
+      "num": 309758,
+      "word": "张婧仪范丞丞好嗑",
+      "onboard_time": 1682385808,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 296892,
@@ -321,14 +337,6 @@
       "onboard_time": 1682346451,
       "rank": 7,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 282933,
-      "num": 282933,
-      "word": "三星一季度挣6000亿韩元被美国罚4000亿",
-      "onboard_time": 1682384427,
-      "rank": 24,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 278325,
@@ -403,6 +411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 234176,
+      "num": 234176,
+      "word": "99元睡大厅",
+      "onboard_time": 1682386765,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227817,
       "num": 227817,
       "word": "四六级查分",
@@ -441,6 +457,14 @@
       "onboard_time": 1682354419,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211173,
+      "num": 211173,
+      "word": "朱一龙作品回报率",
+      "onboard_time": 1682386886,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208425,
@@ -491,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198500,
+      "num": 198500,
+      "word": "卢沙野",
+      "onboard_time": 1682387186,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 196134,
       "num": 196134,
       "word": "IVE版换乘恋爱",
@@ -521,6 +553,14 @@
       "onboard_time": 1682378360,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186354,
+      "num": 186354,
+      "word": "宜和宽哥",
+      "onboard_time": 1682387065,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185859,
@@ -587,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 156392,
+      "num": 156392,
+      "word": "程嘉树名字含义",
+      "onboard_time": 1682385505,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 146695,
       "num": 146695,
       "word": "五一出行会加速新冠二次感染吗",
@@ -625,6 +673,14 @@
       "onboard_time": 1682346570,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134586,
+      "num": 134586,
+      "word": "你最希望哪个团合体",
+      "onboard_time": 1682386348,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 134136,
@@ -667,14 +723,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126509,
-      "num": 126509,
-      "word": "程嘉树名字含义",
-      "onboard_time": 1682385505,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 124293,
       "num": 124293,
       "word": "成都一烧烤店每桌15燃气费",
@@ -683,16 +731,16 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 119302,
-      "num": 119302,
-      "word": "张婧仪范丞丞好嗑",
-      "onboard_time": 1682385808,
-      "rank": 47,
-      "category": "影视"
+      "raw_hot": 116962,
+      "num": 116962,
+      "word": "工作不开心时你会不会辞职",
+      "onboard_time": 1682386587,
+      "rank": 46,
+      "category": "社会议题"
     },
     {
-      "raw_hot": 111365,
-      "num": 111365,
+      "raw_hot": 112221,
+      "num": 112221,
       "word": "李现以前的文案",
       "onboard_time": 1682379143,
       "rank": 46,

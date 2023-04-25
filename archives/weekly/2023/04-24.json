@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682385838195,
+  "endTime": 1682387270769,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -75,20 +75,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2217580,
+      "num": 2217580,
+      "word": "为什么读了研也找不到工作",
+      "onboard_time": 1682378784,
+      "rank": 31,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 2201717,
       "num": 2201717,
       "word": "我国实行周末双休制还不足30年",
       "onboard_time": 1682328269,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2179398,
-      "num": 2179398,
-      "word": "为什么读了研也找不到工作",
-      "onboard_time": 1682378784,
-      "rank": 31,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 2115993,
@@ -251,20 +251,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1220407,
+      "num": 1220407,
+      "word": "内娱选秀团全部解散",
+      "onboard_time": 1682382987,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1214935,
       "num": 1214935,
       "word": "月收入多少才算是普通人",
       "onboard_time": 1682344113,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1213333,
-      "num": 1213333,
-      "word": "内娱选秀团全部解散",
-      "onboard_time": 1682382987,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1186629,
@@ -395,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 768883,
+      "num": 768883,
+      "word": "四六级对找工作帮助大吗",
+      "onboard_time": 1682382509,
+      "rank": 7,
+      "category": "教育,社会议题"
+    },
+    {
       "raw_hot": 766170,
       "num": 766170,
       "word": "王者荣耀 妲己",
@@ -425,14 +433,6 @@
       "onboard_time": 1682334269,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 717919,
-      "num": 717919,
-      "word": "四六级对找工作帮助大吗",
-      "onboard_time": 1682382509,
-      "rank": 7,
-      "category": "教育,社会议题"
     },
     {
       "raw_hot": 704969,
@@ -715,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 466918,
+      "num": 466918,
+      "word": "二阳患者自述感染经历",
+      "onboard_time": 1682382087,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465143,
       "num": 465143,
       "word": "伞皇 我一直没有说自己是单身",
@@ -723,20 +731,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 463894,
+      "num": 463894,
+      "word": "突然知道什么是媚骨天成了",
+      "onboard_time": 1682383950,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 462232,
       "num": 462232,
       "word": "张大大哭了",
       "onboard_time": 1682310994,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461476,
-      "num": 461476,
-      "word": "二阳患者自述感染经历",
-      "onboard_time": 1682382087,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461289,
@@ -1059,6 +1067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342581,
+      "num": 342581,
+      "word": "三星一季度挣6000亿韩元被美国罚4000亿",
+      "onboard_time": 1682384427,
+      "rank": 24,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 338810,
       "num": 330421,
       "word": "老师你别太懂了",
@@ -1251,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 309758,
+      "num": 309758,
+      "word": "张婧仪范丞丞好嗑",
+      "onboard_time": 1682385808,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 306731,
       "num": 306731,
       "word": "陈妍希是张婧仪颜粉",
@@ -1264,14 +1288,6 @@
       "word": "IVE版换乘恋爱",
       "onboard_time": 1682349926,
       "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 304337,
-      "num": 304337,
-      "word": "突然知道什么是媚骨天成了",
-      "onboard_time": 1682383950,
-      "rank": 23,
       "category": "作品衍生"
     },
     {
@@ -1337,14 +1353,6 @@
       "onboard_time": 1682346570,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 282933,
-      "num": 282933,
-      "word": "三星一季度挣6000亿韩元被美国罚4000亿",
-      "onboard_time": 1682384427,
-      "rank": 24,
-      "category": "财经,科技"
     },
     {
       "raw_hot": 282045,
@@ -1643,6 +1651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 234176,
+      "num": 234176,
+      "word": "99元睡大厅",
+      "onboard_time": 1682386765,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233107,
       "num": 233107,
       "word": "乌鸦刺身在日本引发连锁争议",
@@ -1811,6 +1827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211173,
+      "num": 211173,
+      "word": "朱一龙作品回报率",
+      "onboard_time": 1682386886,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209836,
       "num": 209836,
       "word": "白桃星座",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1682326407,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198500,
+      "num": 198500,
+      "word": "卢沙野",
+      "onboard_time": 1682387186,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 197485,
@@ -2081,6 +2113,14 @@
       "onboard_time": 1682313093,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 186354,
+      "num": 186354,
+      "word": "宜和宽哥",
+      "onboard_time": 1682387065,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186098,
@@ -2403,6 +2443,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 156392,
+      "num": 156392,
+      "word": "程嘉树名字含义",
+      "onboard_time": 1682385505,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 154818,
       "num": 154818,
       "word": "2023年王者五五朋友节皮肤",
@@ -2571,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134586,
+      "num": 134586,
+      "word": "你最希望哪个团合体",
+      "onboard_time": 1682386348,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134408,
       "num": 134408,
       "word": "我们的征途就是星辰大海",
@@ -2643,14 +2699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 126509,
-      "num": 126509,
-      "word": "程嘉树名字含义",
-      "onboard_time": 1682385505,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 126113,
       "num": 126113,
       "word": "铃芽之旅原本是双女主",
@@ -2715,20 +2763,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119302,
-      "num": 119302,
-      "word": "张婧仪范丞丞好嗑",
-      "onboard_time": 1682385808,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
       "raw_hot": 118363,
       "num": 118363,
       "word": "中国的专家真的在妖言惑众吗",
       "onboard_time": 1682257533,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116962,
+      "num": 116962,
+      "word": "工作不开心时你会不会辞职",
+      "onboard_time": 1682386587,
+      "rank": 46,
+      "category": "社会议题"
     },
     {
       "raw_hot": 115039,
@@ -2755,20 +2803,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 112221,
+      "num": 112221,
+      "word": "李现以前的文案",
+      "onboard_time": 1682379143,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111632,
       "num": 422950,
       "word": "海澜之家火箭",
       "onboard_time": 1682334507,
       "rank": 14,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 111365,
-      "num": 111365,
-      "word": "李现以前的文案",
-      "onboard_time": 1682379143,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 108935,
