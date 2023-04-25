@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682454825137,
+  "endTime": 1682457321477,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -4907,6 +4907,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 90925,
+      "num": 90925,
+      "word": "丫丫",
+      "onboard_time": 1682452815,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90789,
       "num": 37302,
       "word": "舅舅私吞孤儿外甥女百万遗产救助金",
@@ -5081,14 +5089,6 @@
       "onboard_time": 1682442496,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 54066,
-      "num": 54066,
-      "word": "丫丫",
-      "onboard_time": 1682452815,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 43133,
