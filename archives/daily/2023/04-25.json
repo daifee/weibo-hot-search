@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682400816710,
+  "endTime": 1682403743809,
   "band_list": [
     {
       "raw_hot": 2714268,
@@ -25,6 +25,14 @@
       "onboard_time": 1682381907,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2233621,
+      "num": 2233621,
+      "word": "B太 徐州烧烤",
+      "onboard_time": 1682399729,
+      "rank": 33,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2217580,
@@ -67,12 +75,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1596610,
-      "num": 1596610,
-      "word": "B太 徐州烧烤",
-      "onboard_time": 1682399729,
-      "rank": 33,
-      "category": "社会新闻,网红"
+      "raw_hot": 1518000,
+      "num": 538129,
+      "word": "戚薇刮刮乐中奖",
+      "onboard_time": 1682397030,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 1504214,
@@ -83,20 +91,20 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 1494294,
+      "num": 415147,
+      "word": "张一山 袜子",
+      "onboard_time": 1682401887,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1484914,
       "num": 1484914,
       "word": "易烊千玺新专辑刘艳芬",
       "onboard_time": 1682389466,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1416075,
-      "num": 538129,
-      "word": "戚薇刮刮乐中奖",
-      "onboard_time": 1682397030,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 1250693,
@@ -121,6 +129,14 @@
       "onboard_time": 1682379865,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1167016,
+      "num": 1167016,
+      "word": "陈都灵方否认发艳压通稿",
+      "onboard_time": 1682403085,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1107017,
@@ -217,6 +233,14 @@
       "onboard_time": 1682344113,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 686711,
+      "num": 686711,
+      "word": "刘宪华回向往的生活了",
+      "onboard_time": 1682401587,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 658002,
@@ -347,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 454061,
+      "num": 112826,
+      "word": "虞书欣MLB",
+      "onboard_time": 1682402847,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441557,
       "num": 441557,
       "word": "BLACKPINK巡演收入",
@@ -395,12 +427,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 419725,
+      "num": 306117,
+      "word": "张云龙 竹业男主",
+      "onboard_time": 1682400926,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 414361,
       "num": 414361,
       "word": "湖人战胜灰熊",
       "onboard_time": 1682399551,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404307,
+      "num": 404307,
+      "word": "官方通报徐州出租车绕路还反向抹零",
+      "onboard_time": 1682400448,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404304,
@@ -707,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260340,
+      "num": 260340,
+      "word": "跳槽即涨薪的时代",
+      "onboard_time": 1682398651,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258971,
       "num": 258971,
       "word": "朴炯植回春",
@@ -771,12 +827,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245578,
+      "num": 230806,
+      "word": "恩爱两不疑理想婆媳关系",
+      "onboard_time": 1682403386,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245225,
       "num": 245225,
       "word": "年轻人考研才是唯一出路吗",
       "onboard_time": 1682390306,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244159,
+      "num": 244159,
+      "word": "不太健康的习惯 穷思竭虑",
+      "onboard_time": 1682397934,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 242281,
@@ -801,14 +873,6 @@
       "onboard_time": 1682392407,
       "rank": 29,
       "category": "影视"
-    },
-    {
-      "raw_hot": 235082,
-      "num": 235082,
-      "word": "跳槽即涨薪的时代",
-      "onboard_time": 1682398651,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 227817,
@@ -875,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220010,
+      "num": 220010,
+      "word": "当把萌兰介绍给单身闺蜜时",
+      "onboard_time": 1682397092,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219477,
       "num": 219477,
       "word": "雄鹿VS热火",
@@ -897,14 +969,6 @@
       "onboard_time": 1682354419,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213904,
-      "num": 213904,
-      "word": "官方通报徐州出租车绕路还反向抹零",
-      "onboard_time": 1682400448,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211173,
@@ -937,14 +1001,6 @@
       "onboard_time": 1682350107,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207119,
-      "num": 207119,
-      "word": "不太健康的习惯 穷思竭虑",
-      "onboard_time": 1682397934,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 206773,
@@ -1073,6 +1129,14 @@
       "onboard_time": 1682391746,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190506,
+      "num": 143661,
+      "word": "刘彰solo后的第一个大动作",
+      "onboard_time": 1682402966,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 189818,
@@ -1227,12 +1291,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158927,
-      "num": 158927,
-      "word": "当把萌兰介绍给单身闺蜜时",
-      "onboard_time": 1682397092,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 159215,
+      "num": 129918,
+      "word": "爱奇艺回应下架灌篮高手国语版",
+      "onboard_time": 1682402487,
+      "rank": 36,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 156726,
@@ -1273,6 +1337,14 @@
       "onboard_time": 1682390485,
       "rank": 42,
       "category": "科技"
+    },
+    {
+      "raw_hot": 146852,
+      "num": 111260,
+      "word": "时代少年团巡演",
+      "onboard_time": 1682401767,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 146695,
@@ -1395,6 +1467,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 120139,
+      "num": 120139,
+      "word": "贝恩36分",
+      "onboard_time": 1682402188,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119872,
       "num": 119872,
       "word": "互联网算命到底多赚钱",
@@ -1435,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106914,
+      "num": 106914,
+      "word": "范新",
+      "onboard_time": 1682403027,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105872,
       "num": 105872,
       "word": "外交部回应英国外交大臣涉台不当言论",
@@ -1465,6 +1553,14 @@
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99204,
+      "num": 99204,
+      "word": "上海杭州之间或将建世界首条超级高铁",
+      "onboard_time": 1682403687,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93189,
