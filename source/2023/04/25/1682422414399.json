@@ -1,0 +1,410 @@
+{
+  "runTime": 1682422414399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1679916,
+        "num": 1679916,
+        "word": "教师请病假25年退休前编制消失",
+        "onboard_time": 1682409745,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 269930,
+        "num": 1475011,
+        "word": "爸爸吃饼卡喉15岁女儿1分钟救回",
+        "onboard_time": 1682410767,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32897,
+        "num": 1360373,
+        "word": "全国网络普法行广西站",
+        "onboard_time": 1682414368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1355670,
+        "num": 1355670,
+        "word": "毛戈平为赵露思化的妆",
+        "onboard_time": 1682414548,
+        "rank": 3,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 243069,
+        "num": 1082041,
+        "word": "浙D1026S你被拍下来了",
+        "onboard_time": 1682405846,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944479,
+        "num": 944479,
+        "word": "张雨绮微信名叫高启强",
+        "onboard_time": 1682412927,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110714,
+        "num": 873058,
+        "word": "萌娃小心翼翼向武警敬礼收到惊喜回应",
+        "onboard_time": 1682419647,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850310,
+        "num": 850310,
+        "word": "叶夕雾跳城楼",
+        "onboard_time": 1682419647,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 613692,
+        "num": 613692,
+        "word": "高铁要是提速到800公里",
+        "onboard_time": 1682407886,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 491642,
+        "num": 491642,
+        "word": "拜登正式宣布竞选连任美国总统",
+        "onboard_time": 1682419167,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1071636,
+        "num": 480199,
+        "word": "长月烬明 阿娇",
+        "onboard_time": 1682414426,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1061143,
+        "num": 456542,
+        "word": "女网红被丈夫杀害藏尸冰柜案宣判",
+        "onboard_time": 1682420126,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682898,
+        "num": 444410,
+        "word": "刘涛变美",
+        "onboard_time": 1682413887,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 675075,
+        "num": 424555,
+        "word": "因为聚餐吃太多被辞退了",
+        "onboard_time": 1682408067,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 417632,
+        "num": 417632,
+        "word": "难怪别人能考上研究生",
+        "onboard_time": 1682417728,
+        "rank": 14,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 400598,
+        "num": 400598,
+        "word": "B太 徐州烧烤",
+        "onboard_time": 1682399729,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 324798,
+        "num": 324798,
+        "word": "张一山 袜子",
+        "onboard_time": 1682401887,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304968,
+        "num": 304968,
+        "word": "陈都灵方否认发艳压通稿",
+        "onboard_time": 1682403085,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270344,
+        "num": 270344,
+        "word": "太阳Lisa新歌shoong",
+        "onboard_time": 1682416227,
+        "rank": 18,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 237983,
+        "num": 237983,
+        "word": "徐州3名出租车驾驶员被罚款",
+        "onboard_time": 1682417787,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236447,
+        "num": 236447,
+        "word": "专家称年轻女性要学会与狼共舞",
+        "onboard_time": 1682415626,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221162,
+        "num": 221162,
+        "word": "文彬再次见面了",
+        "onboard_time": 1682415806,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217009,
+        "num": 217009,
+        "word": "你非常喜欢却停产的东西",
+        "onboard_time": 1682415206,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 216853,
+        "num": 216853,
+        "word": "四月底HR才开始急了",
+        "onboard_time": 1682420186,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 206919,
+        "num": 206919,
+        "word": "领导给100元让我带饭一周",
+        "onboard_time": 1682410707,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204110,
+        "num": 204110,
+        "word": "刘诗诗要进组了",
+        "onboard_time": 1682418986,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197474,
+        "num": 197474,
+        "word": "原来长月烬明的明是声明的明",
+        "onboard_time": 1682416709,
+        "rank": 26,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 192388,
+        "num": 192388,
+        "word": "原来笔记本要一直充电使用",
+        "onboard_time": 1682421327,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179880,
+        "num": 179880,
+        "word": "何猷君说王嘉尔是我们的骄傲",
+        "onboard_time": 1682413766,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174043,
+        "num": 174043,
+        "word": "男友送花太勤被花店婉拒了",
+        "onboard_time": 1682409505,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171331,
+        "num": 171331,
+        "word": "小鬼定闹钟抢票",
+        "onboard_time": 1682417546,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164302,
+        "num": 164302,
+        "word": "戚薇早期跟Lucky很像",
+        "onboard_time": 1682420847,
+        "rank": 31,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 163897,
+        "num": 163897,
+        "word": "龙城大妈去世",
+        "onboard_time": 1682421925,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155792,
+        "num": 155792,
+        "word": "肖战TODS纪录片",
+        "onboard_time": 1682421506,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155147,
+        "num": 155147,
+        "word": "王者百里守约调整方案",
+        "onboard_time": 1682420248,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151373,
+        "num": 151373,
+        "word": "漫长的季节碎尸是谁的",
+        "onboard_time": 1682421266,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146664,
+        "num": 146664,
+        "word": "警方辟谣南京迈皋桥发生枪战",
+        "onboard_time": 1682416709,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145945,
+        "num": 145945,
+        "word": "长月烬明",
+        "onboard_time": 1682418146,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144869,
+        "num": 144869,
+        "word": "冷屁股 屁门",
+        "onboard_time": 1682407587,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141717,
+        "num": 141717,
+        "word": "女子2月订房临近五一被取消订单",
+        "onboard_time": 1682420607,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139146,
+        "num": 139146,
+        "word": "被全网黑但逆风翻盘的明星",
+        "onboard_time": 1682394568,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136899,
+        "num": 136899,
+        "word": "刘宪华回向往的生活了",
+        "onboard_time": 1682401587,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136465,
+        "num": 136465,
+        "word": "为什么女生旅个游这么难",
+        "onboard_time": 1682413166,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136355,
+        "num": 136355,
+        "word": "国产悬疑剧为何偏爱东北重庆",
+        "onboard_time": 1682419167,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118845,
+        "num": 118845,
+        "word": "霍思燕否认嗯哼是腺样体面容",
+        "onboard_time": 1682392465,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111290,
+        "num": 111290,
+        "word": "明星回春",
+        "onboard_time": 1682416465,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108663,
+        "num": 108663,
+        "word": "工作后要不要每月给父母打钱",
+        "onboard_time": 1682422108,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105998,
+        "num": 105998,
+        "word": "我国全面实现不动产统一登记",
+        "onboard_time": 1682412566,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 69499,
+        "num": 100938,
+        "word": "王者太乙真人新皮肤",
+        "onboard_time": 1682412085,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33575,
+        "num": 98966,
+        "word": "eStar小蓝孩聊天室",
+        "onboard_time": 1682419888,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建经济与环境协同共进的地球家园#"
+    }
+  }
+}

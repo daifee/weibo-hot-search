@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682421255371,
+  "endTime": 1682422414399,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -131,8 +131,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1333514,
-      "num": 1333514,
+      "raw_hot": 1355670,
+      "num": 1355670,
       "word": "毛戈平为赵露思化的妆",
       "onboard_time": 1682414548,
       "rank": 13,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1061143,
+      "num": 456542,
+      "word": "女网红被丈夫杀害藏尸冰柜案宣判",
+      "onboard_time": 1682420126,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1023458,
       "num": 685411,
       "word": "刘涛变美",
@@ -249,6 +257,14 @@
       "onboard_time": 1682344230,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 850310,
+      "num": 850310,
+      "word": "叶夕雾跳城楼",
+      "onboard_time": 1682419647,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 827733,
@@ -312,14 +328,6 @@
       "word": "罗云熙演技",
       "onboard_time": 1682338948,
       "rank": 1,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 637043,
-      "num": 637043,
-      "word": "叶夕雾跳城楼",
-      "onboard_time": 1682419647,
-      "rank": 8,
       "category": "影视"
     },
     {
@@ -433,6 +441,14 @@
       "onboard_time": 1682416227,
       "rank": 13,
       "category": "艺人,音乐"
+    },
+    {
+      "raw_hot": 491642,
+      "num": 491642,
+      "word": "拜登正式宣布竞选连任美国总统",
+      "onboard_time": 1682419167,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 486122,
@@ -619,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 396095,
-      "num": 396095,
-      "word": "拜登正式宣布竞选连任美国总统",
-      "onboard_time": 1682419167,
-      "rank": 14,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 392777,
       "num": 392777,
       "word": "孙珍妮的文笔",
@@ -641,14 +649,6 @@
       "onboard_time": 1682347410,
       "rank": 28,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 389228,
-      "num": 172364,
-      "word": "女网红被丈夫杀害藏尸冰柜案宣判",
-      "onboard_time": 1682420126,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 388207,
@@ -1227,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237983,
+      "num": 237983,
+      "word": "徐州3名出租车驾驶员被罚款",
+      "onboard_time": 1682417787,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235929,
       "num": 235929,
       "word": "南京迈皋桥",
@@ -1257,14 +1265,6 @@
       "onboard_time": 1682378242,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225212,
-      "num": 225212,
-      "word": "徐州3名出租车驾驶员被罚款",
-      "onboard_time": 1682417787,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224027,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1682389047,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216853,
+      "num": 216853,
+      "word": "四月底HR才开始急了",
+      "onboard_time": 1682420186,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 215548,
@@ -1443,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204110,
+      "num": 204110,
+      "word": "刘诗诗要进组了",
+      "onboard_time": 1682418986,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201334,
       "num": 201334,
       "word": "叶夕雾终于要跳城楼了",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1682400388,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198574,
-      "num": 198574,
-      "word": "刘诗诗要进组了",
-      "onboard_time": 1682418986,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198537,
@@ -1569,6 +1577,14 @@
       "onboard_time": 1682388508,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 192388,
+      "num": 192388,
+      "word": "原来笔记本要一直充电使用",
+      "onboard_time": 1682421327,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 191706,
@@ -1803,14 +1819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 168761,
-      "num": 168761,
-      "word": "四月底HR才开始急了",
-      "onboard_time": 1682420186,
-      "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 168660,
       "num": 168660,
       "word": "淘宝崩了",
@@ -1833,6 +1841,22 @@
       "onboard_time": 1682391326,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164302,
+      "num": 164302,
+      "word": "戚薇早期跟Lucky很像",
+      "onboard_time": 1682420847,
+      "rank": 31,
+      "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 163897,
+      "num": 163897,
+      "word": "龙城大妈去世",
+      "onboard_time": 1682421925,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 163770,
@@ -1891,6 +1915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 155792,
+      "num": 155792,
+      "word": "肖战TODS纪录片",
+      "onboard_time": 1682421506,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 154639,
       "num": 154639,
       "word": "国产悬疑剧为何偏爱东北重庆",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1682391266,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151373,
+      "num": 151373,
+      "word": "漫长的季节碎尸是谁的",
+      "onboard_time": 1682421266,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 149326,
@@ -2019,20 +2059,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141717,
+      "num": 141717,
+      "word": "女子2月订房临近五一被取消订单",
+      "onboard_time": 1682420607,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139573,
       "num": 139573,
       "word": "HYBE好像在Hanteo榜上团建",
       "onboard_time": 1682377639,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 138678,
-      "num": 138678,
-      "word": "女子2月订房临近五一被取消订单",
-      "onboard_time": 1682420607,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137067,
@@ -2219,6 +2259,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 110714,
+      "num": 873058,
+      "word": "萌娃小心翼翼向武警敬礼收到惊喜回应",
+      "onboard_time": 1682419647,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108663,
+      "num": 108663,
+      "word": "工作后要不要每月给父母打钱",
+      "onboard_time": 1682422108,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108554,
       "num": 108554,
       "word": "猴子想吓人结果自己抻到筋",
@@ -2321,14 +2377,6 @@
       "onboard_time": 1682397993,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 88298,
-      "num": 804758,
-      "word": "萌娃小心翼翼向武警敬礼收到惊喜回应",
-      "onboard_time": 1682419647,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84868,
