@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682410918368,
+  "endTime": 1682411728243,
   "band_list": [
     {
       "raw_hot": 2714268,
@@ -43,6 +43,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 2067630,
+      "num": 2067630,
+      "word": "教师请病假25年退休前编制消失",
+      "onboard_time": 1682409745,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1968168,
       "num": 1968168,
       "word": "内娱选秀团全部解散",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1634401,
-      "num": 415147,
+      "num": 436933,
       "word": "张一山 袜子",
       "onboard_time": 1682401887,
       "rank": 11,
@@ -139,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1135176,
+      "num": 1135176,
+      "word": "因为聚餐吃太多被辞退了",
+      "onboard_time": 1682408067,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1107017,
       "num": 1107017,
       "word": "巴特勒太硬了",
@@ -169,22 +185,6 @@
       "onboard_time": 1682380165,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1037625,
-      "num": 341281,
-      "word": "教师请病假25年退休前编制消失",
-      "onboard_time": 1682409745,
-      "rank": 11,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1029530,
-      "num": 1029530,
-      "word": "因为聚餐吃太多被辞退了",
-      "onboard_time": 1682408067,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 973128,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 634643,
-      "num": 312176,
+      "num": 414370,
       "word": "Jennie妈妈和Lisa妈妈手拉手",
       "onboard_time": 1682406506,
       "rank": 30,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 609003,
-      "num": 301611,
+      "num": 390288,
       "word": "冷屁股 屁门",
       "onboard_time": 1682407587,
       "rank": 26,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453325,
+      "num": 453325,
+      "word": "巩俐再现经典裸唇",
+      "onboard_time": 1682408788,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 441557,
       "num": 441557,
       "word": "BLACKPINK巡演收入",
@@ -457,14 +465,6 @@
       "onboard_time": 1682393128,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 434404,
-      "num": 434404,
-      "word": "巩俐再现经典裸唇",
-      "onboard_time": 1682408788,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 431981,
@@ -667,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 341043,
+      "num": 403222,
+      "word": "男友送花太勤被花店婉拒了",
+      "onboard_time": 1682409505,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335988,
       "num": 269143,
       "word": "伍佰赚钱比曾毅还轻松",
@@ -689,14 +697,6 @@
       "onboard_time": 1682384189,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332246,
-      "num": 178447,
-      "word": "男友送花太勤被花店婉拒了",
-      "onboard_time": 1682409505,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 328985,
@@ -819,12 +819,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 291730,
+      "num": 217930,
+      "word": "鹿晗衬衫扣子",
+      "onboard_time": 1682409087,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 289962,
+      "num": 185740,
+      "word": "田曦薇头发能不能分我一点",
+      "onboard_time": 1682410587,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284774,
       "num": 284774,
       "word": "最省事的男朋友人设",
       "onboard_time": 1682391806,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 282588,
+      "num": 187300,
+      "word": "张若昀红发",
+      "onboard_time": 1682410887,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 279189,
@@ -841,14 +865,6 @@
       "onboard_time": 1682343389,
       "rank": 48,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 274957,
-      "num": 214056,
-      "word": "鹿晗衬衫扣子",
-      "onboard_time": 1682409087,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274208,
@@ -979,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 244267,
+      "num": 187175,
+      "word": "白鹿镜头外给罗云熙搭戏",
+      "onboard_time": 1682408604,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244159,
       "num": 244159,
       "word": "不太健康的习惯 穷思竭虑",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1682393669,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 221372,
-      "num": 187175,
-      "word": "白鹿镜头外给罗云熙搭戏",
-      "onboard_time": 1682408604,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 219477,
@@ -1235,14 +1251,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 196595,
-      "num": 177611,
-      "word": "田曦薇头发能不能分我一点",
-      "onboard_time": 1682410587,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 196328,
       "num": 196328,
       "word": "漫长的季节开分9.0",
@@ -1257,6 +1265,14 @@
       "onboard_time": 1682349926,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195391,
+      "num": 195391,
+      "word": "酒店价格上涨明码标价不算违法",
+      "onboard_time": 1682411007,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194290,
@@ -1371,6 +1387,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182811,
+      "num": 182811,
+      "word": "酒店涨价",
+      "onboard_time": 1682407705,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182701,
+      "num": 170151,
+      "word": "范丞丞张婧仪直播状态",
+      "onboard_time": 1682410526,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 182428,
       "num": 182428,
       "word": "周扬青掉水里了",
@@ -1379,12 +1411,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 181850,
-      "num": 181850,
-      "word": "酒店涨价",
-      "onboard_time": 1682407705,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 180974,
+      "num": 180974,
+      "word": "领导给100元让我带饭一周",
+      "onboard_time": 1682410707,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 179569,
+      "num": 179569,
+      "word": "夏天对于中国的孩子是特殊的",
+      "onboard_time": 1682411189,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 177004,
@@ -1499,20 +1539,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160181,
+      "num": 158478,
+      "word": "边伯贤连线粉丝抵制黄牛",
+      "onboard_time": 1682408305,
+      "rank": 34,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 159981,
       "num": 159981,
       "word": "KPL春季赛十一周最佳阵容",
       "onboard_time": 1682399609,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 158478,
-      "num": 158478,
-      "word": "边伯贤连线粉丝抵制黄牛",
-      "onboard_time": 1682408305,
-      "rank": 34,
-      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 156726,
@@ -1635,20 +1675,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 140857,
+      "num": 140857,
+      "word": "爸爸吃饼卡喉15岁女儿1分钟救回",
+      "onboard_time": 1682410767,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139573,
       "num": 139573,
       "word": "HYBE好像在Hanteo榜上团建",
       "onboard_time": 1682377639,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 139084,
-      "num": 136845,
-      "word": "张若昀红发",
-      "onboard_time": 1682410887,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 137067,
@@ -1699,14 +1739,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 132852,
-      "num": 132852,
-      "word": "范丞丞张婧仪直播状态",
-      "onboard_time": 1682410526,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 132196,
       "num": 132196,
       "word": "肖战如梦之梦怼脸镜头",
@@ -1721,6 +1753,14 @@
       "onboard_time": 1682324247,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129723,
+      "num": 129723,
+      "word": "应届生第一份工作很重要吗",
+      "onboard_time": 1682411487,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 129535,
@@ -1739,14 +1779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125126,
-      "num": 125126,
-      "word": "领导给100元让我带饭一周",
-      "onboard_time": 1682410707,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124524,
       "num": 510481,
       "word": "张朝阳物理学解构折叠屏",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1682332467,
       "rank": 43,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 120465,
-      "num": 120465,
-      "word": "爸爸吃饼卡喉15岁女儿1分钟救回",
-      "onboard_time": 1682410767,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120139,
