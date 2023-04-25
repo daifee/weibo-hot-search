@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682432166760,
+  "endTime": 1682433211314,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2514890,
+      "num": 2514890,
+      "word": "长月烬明 抄袭阴阳师",
+      "onboard_time": 1682430151,
+      "rank": 0,
+      "category": "影视,游戏"
+    },
+    {
       "raw_hot": 2470645,
       "num": 2470645,
       "word": "B站千万粉丝UP主回应停更传言",
@@ -137,14 +145,6 @@
       "onboard_time": 1682297310,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2097588,
-      "num": 2097588,
-      "word": "长月烬明 抄袭阴阳师",
-      "onboard_time": 1682430151,
-      "rank": 0,
-      "category": "影视,游戏"
     },
     {
       "raw_hot": 2032493,
@@ -723,6 +723,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 661598,
+      "num": 308283,
+      "word": "戚薇早期跟Lucky很像",
+      "onboard_time": 1682420847,
+      "rank": 31,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 658002,
       "num": 658002,
       "word": "罗云熙演技",
@@ -1107,6 +1115,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 469302,
+      "num": 217263,
+      "word": "你能否接受对象有过同居史",
+      "onboard_time": 1682431350,
+      "rank": 32,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 468664,
       "num": 329630,
       "word": "06年的台词放现在也是非常炸裂",
@@ -1169,14 +1185,6 @@
       "onboard_time": 1682426668,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 456491,
-      "num": 308283,
-      "word": "戚薇早期跟Lucky很像",
-      "onboard_time": 1682420847,
-      "rank": 31,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 456041,
@@ -1340,11 +1348,19 @@
     },
     {
       "raw_hot": 423996,
-      "num": 182467,
+      "num": 203149,
       "word": "看着不体面但很赚钱的工作",
       "onboard_time": 1682428589,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 423871,
+      "num": 239171,
+      "word": "关晓彤虞书欣早期合照",
+      "onboard_time": 1682431713,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 423587,
@@ -1576,6 +1592,14 @@
       "word": "长月烬明今晚超大悲",
       "onboard_time": 1682397871,
       "rank": 20,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 361967,
+      "num": 196376,
+      "word": "赵丽颖虎狼之路杀青",
+      "onboard_time": 1682430752,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1931,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314380,
+      "num": 182312,
+      "word": "易烊千玺呆毛",
+      "onboard_time": 1682429430,
+      "rank": 31,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 314176,
       "num": 314176,
       "word": "欢乐颂还有第五季",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1682385808,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 309644,
-      "num": 167149,
-      "word": "易烊千玺呆毛",
-      "onboard_time": 1682429430,
-      "rank": 31,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 307581,
@@ -2067,20 +2091,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292901,
+      "num": 252518,
+      "word": "22岁白人男演员12次整形手术后死亡",
+      "onboard_time": 1682427809,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291730,
       "num": 217930,
       "word": "鹿晗衬衫扣子",
       "onboard_time": 1682409087,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 291594,
-      "num": 179567,
-      "word": "22岁白人男演员12次整形手术后死亡",
-      "onboard_time": 1682427809,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289962,
@@ -2108,7 +2132,7 @@
     },
     {
       "raw_hot": 288163,
-      "num": 173304,
+      "num": 177339,
       "word": "林墨说工作室可以开实习证明",
       "onboard_time": 1682426068,
       "rank": 26,
@@ -2153,14 +2177,6 @@
       "onboard_time": 1682329227,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 280571,
-      "num": 166502,
-      "word": "赵丽颖虎狼之路杀青",
-      "onboard_time": 1682430752,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 280376,
@@ -2667,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231514,
+      "num": 231514,
+      "word": "蒜香西瓜",
+      "onboard_time": 1682431593,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 231151,
       "num": 231151,
       "word": "崔胜澈狼尾红辫",
@@ -2689,14 +2713,6 @@
       "onboard_time": 1682384249,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 226614,
-      "num": 141129,
-      "word": "关晓彤虞书欣早期合照",
-      "onboard_time": 1682431713,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 226297,
@@ -3507,12 +3523,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 183290,
-      "num": 140251,
-      "word": "你能否接受对象有过同居史",
-      "onboard_time": 1682431350,
-      "rank": 32,
-      "category": "社会议题"
+      "raw_hot": 183051,
+      "num": 183051,
+      "word": "一读就错的山东地名",
+      "onboard_time": 1682431291,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 182811,
@@ -3579,6 +3595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178468,
+      "num": 178468,
+      "word": "cp29",
+      "onboard_time": 1682432013,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 178411,
       "num": 178411,
       "word": "天赐的声音4官宣",
@@ -3617,6 +3641,14 @@
       "onboard_time": 1682378061,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175936,
+      "num": 175936,
+      "word": "郭靖宇说肖战的表演非常惊艳",
+      "onboard_time": 1682432670,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 175100,
@@ -3971,6 +4003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153365,
+      "num": 153365,
+      "word": "新员工交接到一半想离职了",
+      "onboard_time": 1682431829,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153105,
       "num": 163087,
       "word": "AI能取代所有工作吗",
@@ -4235,14 +4275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139375,
-      "num": 139375,
-      "word": "cp29",
-      "onboard_time": 1682432013,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 139158,
       "num": 139158,
       "word": "这些绝美镜头都是从天宫拍的",
@@ -4291,14 +4323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134831,
-      "num": 134831,
-      "word": "蒜香西瓜",
-      "onboard_time": 1682431593,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 134586,
       "num": 134586,
       "word": "你最希望哪个团合体",
@@ -4321,6 +4345,14 @@
       "onboard_time": 1682268560,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 133132,
+      "num": 133132,
+      "word": "中超",
+      "onboard_time": 1682431952,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 133029,
@@ -4433,14 +4465,6 @@
       "onboard_time": 1682249611,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 125899,
-      "num": 125899,
-      "word": "一读就错的山东地名",
-      "onboard_time": 1682431291,
-      "rank": 38,
-      "category": "旅游"
     },
     {
       "raw_hot": 125504,
@@ -4611,14 +4635,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 111000,
-      "num": 111000,
-      "word": "中超",
-      "onboard_time": 1682431952,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110714,
       "num": 873058,
       "word": "萌娃小心翼翼向武警敬礼收到惊喜回应",
@@ -4641,6 +4657,14 @@
       "onboard_time": 1682357357,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108501,
+      "num": 108501,
+      "word": "闵玧其说李知勋像是他走失的弟弟",
+      "onboard_time": 1682433032,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 108112,
@@ -4923,6 +4947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 34690,
+      "num": 1077585,
+      "word": "行走百县话振兴",
+      "onboard_time": 1682430449,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31573,
       "num": 31573,
       "word": "张凌赫 兰蔻",
@@ -4937,14 +4969,6 @@
       "onboard_time": 1682395651,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29586,
-      "num": 1077585,
-      "word": "行走百县话振兴",
-      "onboard_time": 1682430449,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27379,
