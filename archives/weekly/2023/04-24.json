@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682422414399,
+  "endTime": 1682426014630,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -120,6 +120,14 @@
       "word": "我国实行周末双休制还不足30年",
       "onboard_time": 1682328269,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2142034,
+      "num": 2142034,
+      "word": "女网红被丈夫杀害藏尸冰柜案宣判",
+      "onboard_time": 1682420126,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -443,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1061143,
-      "num": 456542,
-      "word": "女网红被丈夫杀害藏尸冰柜案宣判",
-      "onboard_time": 1682420126,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1031768,
       "num": 1031768,
       "word": "沈腾说马丽和乔杉搭感觉没有那么顺",
@@ -771,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 580662,
+      "num": 580662,
+      "word": "原来笔记本要一直充电使用",
+      "onboard_time": 1682421327,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 578248,
       "num": 452189,
       "word": "中国一女游客在泰国遭绑架后逃脱",
@@ -785,6 +793,14 @@
       "onboard_time": 1682309129,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 552155,
+      "num": 332529,
+      "word": "陈翔问路人你喜欢苏醒还是我",
+      "onboard_time": 1682423849,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 548793,
@@ -961,6 +977,14 @@
       "onboard_time": 1682323768,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481178,
+      "num": 481178,
+      "word": "长月烬明名场面怎么拍成这样",
+      "onboard_time": 1682424387,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 480852,
@@ -1291,6 +1315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418775,
+      "num": 418775,
+      "word": "四月底HR才开始急了",
+      "onboard_time": 1682420186,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 414973,
       "num": 414973,
       "word": "宋智孝将与经纪公司解约",
@@ -1427,6 +1459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 377777,
+      "num": 308283,
+      "word": "戚薇早期跟Lucky很像",
+      "onboard_time": 1682420847,
+      "rank": 31,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 376823,
       "num": 376823,
       "word": "老师上课被学生从背后扇并挑衅",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1682415806,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372427,
+      "num": 372427,
+      "word": "龙城大妈去世",
+      "onboard_time": 1682421925,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 366065,
@@ -1875,6 +1923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 304644,
+      "num": 304644,
+      "word": "女子2月订房临近五一被取消订单",
+      "onboard_time": 1682420607,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303450,
       "num": 303450,
       "word": "未定事件簿",
@@ -2035,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275693,
+      "num": 258159,
+      "word": "婚礼上伴郎下跪求爱伴娘机智跟跪",
+      "onboard_time": 1682423006,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274625,
       "num": 274625,
       "word": "故宫 抢票",
@@ -2161,6 +2225,14 @@
       "onboard_time": 1682398651,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 259354,
+      "num": 259354,
+      "word": "刘涛 韩素希",
+      "onboard_time": 1682425638,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 258971,
@@ -2523,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224599,
+      "num": 224599,
+      "word": "C位烫河南人脚",
+      "onboard_time": 1682423545,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224027,
       "num": 224027,
       "word": "罗云熙黑披风",
@@ -2561,6 +2641,14 @@
       "onboard_time": 1682313510,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222417,
+      "num": 222417,
+      "word": "奚梦瑶 你们的快乐吵到我学习了",
+      "onboard_time": 1682425767,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 222326,
@@ -2649,14 +2737,6 @@
       "onboard_time": 1682318606,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216853,
-      "num": 216853,
-      "word": "四月底HR才开始急了",
-      "onboard_time": 1682420186,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 216772,
@@ -2795,6 +2875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206308,
+      "num": 168923,
+      "word": "致敬中国航天",
+      "onboard_time": 1682425528,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 205848,
       "num": 205848,
       "word": "原来长月烬明的明是声明的明",
@@ -2849,6 +2937,14 @@
       "onboard_time": 1682418986,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203208,
+      "num": 203208,
+      "word": "长月烬明预告",
+      "onboard_time": 1682422885,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 203150,
@@ -3057,14 +3153,6 @@
       "onboard_time": 1682315487,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192388,
-      "num": 192388,
-      "word": "原来笔记本要一直充电使用",
-      "onboard_time": 1682421327,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 191706,
@@ -3291,6 +3379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183291,
+      "num": 168393,
+      "word": "时代少年团海口演唱会有中控",
+      "onboard_time": 1682424507,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182811,
       "num": 182811,
       "word": "酒店涨价",
@@ -3393,6 +3489,14 @@
       "onboard_time": 1682414667,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174770,
+      "num": 167786,
+      "word": "金智秀裴秀智身高差",
+      "onboard_time": 1682424866,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 173408,
@@ -3555,28 +3659,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164302,
-      "num": 164302,
-      "word": "戚薇早期跟Lucky很像",
-      "onboard_time": 1682420847,
-      "rank": 31,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 164075,
       "num": 164075,
       "word": "河南专升本",
       "onboard_time": 1682293704,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 163897,
-      "num": 163897,
-      "word": "龙城大妈去世",
-      "onboard_time": 1682421925,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 163770,
@@ -3755,6 +3843,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 152311,
+      "num": 152311,
+      "word": "阿娇 悲悯感",
+      "onboard_time": 1682425827,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151887,
       "num": 133453,
       "word": "周深电音合作曲",
@@ -3809,6 +3905,14 @@
       "onboard_time": 1682314347,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147716,
+      "num": 170985,
+      "word": "青岛海牛vs北京国安",
+      "onboard_time": 1682425586,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 147594,
@@ -3955,19 +4059,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 141717,
-      "num": 141717,
-      "word": "女子2月订房临近五一被取消订单",
-      "onboard_time": 1682420607,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141003,
       "num": 141003,
       "word": "检察风云黄景瑜直球告白白百何",
       "onboard_time": 1682309250,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140783,
+      "num": 124044,
+      "word": "范丞丞好有意思一男的",
+      "onboard_time": 1682425107,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -4017,6 +4121,14 @@
       "onboard_time": 1682298565,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135070,
+      "num": 135070,
+      "word": "工作后要不要每月给父母打钱",
+      "onboard_time": 1682422108,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 134586,
@@ -4129,6 +4241,14 @@
       "onboard_time": 1682315668,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126593,
+      "num": 126593,
+      "word": "ChatGPT这是你写的吗",
+      "onboard_time": 1682424024,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 126138,
@@ -4323,14 +4443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 108663,
-      "num": 108663,
-      "word": "工作后要不要每月给父母打钱",
-      "onboard_time": 1682422108,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108554,
       "num": 108554,
       "word": "猴子想吓人结果自己抻到筋",
@@ -4409,6 +4521,22 @@
       "onboard_time": 1682251951,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104078,
+      "num": 104078,
+      "word": "暴雪回应网易起诉",
+      "onboard_time": 1682425586,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 102913,
+      "num": 102913,
+      "word": "阴阳师皮肤",
+      "onboard_time": 1682423786,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 102265,
