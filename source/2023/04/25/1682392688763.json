@@ -1,0 +1,410 @@
+{
+  "runTime": 1682392688763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1957450,
+        "num": 1957450,
+        "word": "内娱选秀团全部解散",
+        "onboard_time": 1682382987,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1894162,
+        "num": 1894162,
+        "word": "婴儿高铁上哭闹女子和宝妈对骂",
+        "onboard_time": 1682381907,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14872,
+        "num": 1051144,
+        "word": "广交会展览规模再创历史新高",
+        "onboard_time": 1682341230,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 986049,
+        "num": 986049,
+        "word": "为什么读了研也找不到工作",
+        "onboard_time": 1682378784,
+        "rank": 3,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 838364,
+        "num": 838364,
+        "word": "易烊千玺新专辑刘艳芬",
+        "onboard_time": 1682389466,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 832122,
+        "num": 832122,
+        "word": "巴特勒太硬了",
+        "onboard_time": 1682388864,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 820371,
+        "num": 820371,
+        "word": "GQ道歉",
+        "onboard_time": 1682381427,
+        "rank": 6,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 770053,
+        "num": 770053,
+        "word": "突然知道什么是媚骨天成了",
+        "onboard_time": 1682383950,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 605539,
+        "num": 605539,
+        "word": "99元睡大厅",
+        "onboard_time": 1682386765,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561746,
+        "num": 561746,
+        "word": "五一三倍工资你会选择加班吗",
+        "onboard_time": 1682390365,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 805670,
+        "num": 555740,
+        "word": "路人凭狗认出赵露思",
+        "onboard_time": 1682378962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440214,
+        "num": 440214,
+        "word": "BLACKPINK巡演收入",
+        "onboard_time": 1682389706,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 418856,
+        "num": 418856,
+        "word": "安徽一算命网红3年非法盈利200多万",
+        "onboard_time": 1682349989,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 395260,
+        "num": 395260,
+        "word": "车银优给文彬的留言",
+        "onboard_time": 1682387666,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389740,
+        "num": 389740,
+        "word": "黎苏苏历劫成功",
+        "onboard_time": 1682390007,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 371709,
+        "num": 371709,
+        "word": "中国高铁座椅不只有靠背",
+        "onboard_time": 1682390306,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356722,
+        "num": 356722,
+        "word": "驻法使馆 卢沙野表态是个人观点",
+        "onboard_time": 1682387605,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 334482,
+        "num": 334482,
+        "word": "佰草集",
+        "onboard_time": 1682389885,
+        "rank": 17,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 332741,
+        "num": 332741,
+        "word": "INTO1集体改ID",
+        "onboard_time": 1682381249,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322782,
+        "num": 322782,
+        "word": "A股",
+        "onboard_time": 1682390904,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 338985,
+        "num": 322352,
+        "word": "中国一女游客在泰国遭绑架后逃脱",
+        "onboard_time": 1682341770,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319992,
+        "num": 319992,
+        "word": "罗云熙沧九旻上线",
+        "onboard_time": 1682391448,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 309977,
+        "num": 309977,
+        "word": "四六级对找工作帮助大吗",
+        "onboard_time": 1682382509,
+        "rank": 22,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 307079,
+        "num": 307079,
+        "word": "知道奚梦瑶为什么上课不开心了",
+        "onboard_time": 1682344230,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274228,
+        "num": 274228,
+        "word": "被商场跳楼男子砸伤女孩仍在ICU",
+        "onboard_time": 1682391746,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256071,
+        "num": 256071,
+        "word": "杨幂最新合影",
+        "onboard_time": 1682391024,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254792,
+        "num": 254792,
+        "word": "李昇基李多寅婚后捐款57万",
+        "onboard_time": 1682391326,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242719,
+        "num": 242719,
+        "word": "三星一季度挣6000亿韩元被美国罚4000亿",
+        "onboard_time": 1682384427,
+        "rank": 27,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 242281,
+        "num": 242281,
+        "word": "范丞丞下次想演马丽老公",
+        "onboard_time": 1682392285,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240985,
+        "num": 240985,
+        "word": "云襄传真的很怕我看不懂",
+        "onboard_time": 1682392407,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 258491,
+        "num": 240631,
+        "word": "霍思燕否认嗯哼是腺样体面容",
+        "onboard_time": 1682392465,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239524,
+        "num": 239524,
+        "word": "四六级",
+        "onboard_time": 1682379865,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 235632,
+        "num": 235632,
+        "word": "酒店客服回应推出五一睡大厅套餐",
+        "onboard_time": 1682391746,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 232759,
+        "num": 232759,
+        "word": "年轻人考研才是唯一出路吗",
+        "onboard_time": 1682390306,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226586,
+        "num": 226586,
+        "word": "巴特勒56分",
+        "onboard_time": 1682389406,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214288,
+        "num": 214288,
+        "word": "王一博向中国试飞员致敬",
+        "onboard_time": 1682391865,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215444,
+        "num": 210014,
+        "word": "最省事的男朋友人设",
+        "onboard_time": 1682391806,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 201024,
+        "num": 201024,
+        "word": "朱一龙说电影河边的错误期待相见",
+        "onboard_time": 1682392225,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196716,
+        "num": 196716,
+        "word": "王俊凯 一起来听千玺的新专辑",
+        "onboard_time": 1682392407,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190917,
+        "num": 190917,
+        "word": "NBA",
+        "onboard_time": 1682391746,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171139,
+        "num": 171139,
+        "word": "那英的人生主打一个脑追嘴",
+        "onboard_time": 1682390666,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170986,
+        "num": 170986,
+        "word": "刘彰毕业仪式感",
+        "onboard_time": 1682392166,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169341,
+        "num": 169341,
+        "word": "刘关张百相守梦皮肤",
+        "onboard_time": 1682391626,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165055,
+        "num": 165055,
+        "word": "新能源",
+        "onboard_time": 1682391326,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151878,
+        "num": 151878,
+        "word": "杨迪cos徐明浩",
+        "onboard_time": 1682391266,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145139,
+        "num": 145139,
+        "word": "孙珍妮的文笔",
+        "onboard_time": 1682379265,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143915,
+        "num": 143915,
+        "word": "字母哥将出战对阵热火G4",
+        "onboard_time": 1682391266,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143671,
+        "num": 143671,
+        "word": "二阳患者自述感染经历",
+        "onboard_time": 1682382087,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143591,
+        "num": 143591,
+        "word": "终于到周二了",
+        "onboard_time": 1682389647,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 111093,
+        "num": 133543,
+        "word": "张朝阳物理学解构折叠屏",
+        "onboard_time": 1682392526,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国星辰#"
+    }
+  }
+}

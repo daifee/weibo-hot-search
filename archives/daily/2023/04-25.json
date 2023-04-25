@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682390613336,
+  "endTime": 1682392688763,
   "band_list": [
     {
       "raw_hot": 2645415,
@@ -115,20 +115,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 820371,
+      "num": 820371,
+      "word": "GQ道歉",
+      "onboard_time": 1682381427,
+      "rank": 6,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 768883,
       "num": 768883,
       "word": "四六级对找工作帮助大吗",
       "onboard_time": 1682382509,
       "rank": 7,
       "category": "教育,社会议题"
-    },
-    {
-      "raw_hot": 765482,
-      "num": 765482,
-      "word": "GQ道歉",
-      "onboard_time": 1682381427,
-      "rank": 6,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 708093,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 578248,
-      "num": 318505,
+      "num": 322352,
       "word": "中国一女游客在泰国遭绑架后逃脱",
       "onboard_time": 1682341770,
       "rank": 30,
@@ -193,6 +193,14 @@
       "onboard_time": 1682328269,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561746,
+      "num": 561746,
+      "word": "五一三倍工资你会选择加班吗",
+      "onboard_time": 1682390365,
+      "rank": 30,
+      "category": "社会议题"
     },
     {
       "raw_hot": 486122,
@@ -217,6 +225,14 @@
       "onboard_time": 1682348970,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 440214,
+      "num": 440214,
+      "word": "BLACKPINK巡演收入",
+      "onboard_time": 1682389706,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 431981,
@@ -251,6 +267,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 389740,
+      "num": 389740,
+      "word": "黎苏苏历劫成功",
+      "onboard_time": 1682390007,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383482,
       "num": 383482,
       "word": "给女儿准备三万本书当书房",
@@ -275,6 +299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 371709,
+      "num": 371709,
+      "word": "中国高铁座椅不只有靠背",
+      "onboard_time": 1682390306,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366065,
       "num": 343663,
       "word": "河边的错误",
@@ -283,20 +315,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 356722,
+      "num": 356722,
+      "word": "驻法使馆 卢沙野表态是个人观点",
+      "onboard_time": 1682387605,
+      "rank": 17,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 354107,
       "num": 354107,
       "word": "三星一季度挣6000亿韩元被美国罚4000亿",
       "onboard_time": 1682384427,
       "rank": 24,
       "category": "财经,科技"
-    },
-    {
-      "raw_hot": 353154,
-      "num": 353154,
-      "word": "驻法使馆 卢沙野表态是个人观点",
-      "onboard_time": 1682387605,
-      "rank": 17,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 350333,
@@ -321,6 +353,14 @@
       "onboard_time": 1682337149,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 334482,
+      "num": 334482,
+      "word": "佰草集",
+      "onboard_time": 1682389885,
+      "rank": 34,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 334370,
@@ -363,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322782,
+      "num": 322782,
+      "word": "A股",
+      "onboard_time": 1682390904,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 321528,
       "num": 321528,
       "word": "蓝环章鱼的毒没有解药",
       "onboard_time": 1682379503,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319992,
+      "num": 319992,
+      "word": "罗云熙沧九旻上线",
+      "onboard_time": 1682391448,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 309758,
@@ -395,6 +451,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 274228,
+      "num": 274228,
+      "word": "被商场跳楼男子砸伤女孩仍在ICU",
+      "onboard_time": 1682391746,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274208,
       "num": 274208,
       "word": "陈妍希是张婧仪颜粉",
@@ -409,6 +473,14 @@
       "onboard_time": 1682381306,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 258491,
+      "num": 240631,
+      "word": "霍思燕否认嗯哼是腺样体面容",
+      "onboard_time": 1682392465,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 257326,
@@ -427,12 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256071,
+      "num": 256071,
+      "word": "杨幂最新合影",
+      "onboard_time": 1682391024,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255776,
       "num": 216329,
       "word": "东南大学一领导被曝工作群发色情照",
       "onboard_time": 1682326529,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 254792,
+      "num": 254792,
+      "word": "李昇基李多寅婚后捐款57万",
+      "onboard_time": 1682391326,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 251026,
@@ -459,12 +547,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 241423,
-      "num": 241423,
-      "word": "BLACKPINK巡演收入",
-      "onboard_time": 1682389706,
-      "rank": 42,
-      "category": "音乐"
+      "raw_hot": 242281,
+      "num": 242281,
+      "word": "范丞丞下次想演马丽老公",
+      "onboard_time": 1682392285,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 241035,
@@ -473,6 +561,22 @@
       "onboard_time": 1682380948,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 240985,
+      "num": 240985,
+      "word": "云襄传真的很怕我看不懂",
+      "onboard_time": 1682392407,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 235632,
+      "num": 235632,
+      "word": "酒店客服回应推出五一睡大厅套餐",
+      "onboard_time": 1682391746,
+      "rank": 32,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 227817,
@@ -523,20 +627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215444,
+      "num": 210014,
+      "word": "最省事的男朋友人设",
+      "onboard_time": 1682391806,
+      "rank": 36,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 214288,
+      "num": 214288,
+      "word": "王一博向中国试飞员致敬",
+      "onboard_time": 1682391865,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214139,
       "num": 214139,
       "word": "米哈游新游未上线超百国登顶",
       "onboard_time": 1682354419,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211762,
-      "num": 211762,
-      "word": "佰草集",
-      "onboard_time": 1682389885,
-      "rank": 34,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 211173,
@@ -571,14 +683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 206099,
-      "num": 193554,
-      "word": "五一三倍工资你会选择加班吗",
-      "onboard_time": 1682390365,
-      "rank": 30,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 204570,
       "num": 204570,
       "word": "王嘉尔新歌是写给谁的",
@@ -603,12 +707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201024,
+      "num": 201024,
+      "word": "朱一龙说电影河边的错误期待相见",
+      "onboard_time": 1682392225,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198500,
       "num": 198500,
       "word": "卢沙野",
       "onboard_time": 1682387186,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 196716,
+      "num": 196716,
+      "word": "王俊凯 一起来听千玺的新专辑",
+      "onboard_time": 1682392407,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 196134,
@@ -641,6 +761,14 @@
       "onboard_time": 1682388508,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190917,
+      "num": 190917,
+      "word": "NBA",
+      "onboard_time": 1682391746,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 189488,
@@ -723,12 +851,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171139,
+      "num": 171139,
+      "word": "那英的人生主打一个脑追嘴",
+      "onboard_time": 1682390666,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170986,
+      "num": 170986,
+      "word": "刘彰毕业仪式感",
+      "onboard_time": 1682392166,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169481,
       "num": 169481,
       "word": "程嘉树名字含义",
       "onboard_time": 1682385505,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 169341,
+      "num": 169341,
+      "word": "刘关张百相守梦皮肤",
+      "onboard_time": 1682391626,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 168660,
@@ -739,6 +891,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 165055,
+      "num": 165055,
+      "word": "新能源",
+      "onboard_time": 1682391326,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156726,
       "num": 156726,
       "word": "翩然美甲掉了一个",
@@ -747,12 +907,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148747,
-      "num": 148747,
-      "word": "黎苏苏历劫成功",
-      "onboard_time": 1682390007,
-      "rank": 49,
-      "category": "影视"
+      "raw_hot": 151878,
+      "num": 151878,
+      "word": "杨迪cos徐明浩",
+      "onboard_time": 1682391266,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 147015,
@@ -795,12 +955,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143163,
-      "num": 143163,
-      "word": "中国高铁座椅不只有靠背",
-      "onboard_time": 1682390306,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 143915,
+      "num": 143915,
+      "word": "字母哥将出战对阵热火G4",
+      "onboard_time": 1682391266,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143591,
+      "num": 143591,
+      "word": "终于到周二了",
+      "onboard_time": 1682389647,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 139573,
@@ -875,14 +1043,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 123317,
-      "num": 123317,
-      "word": "终于到周二了",
-      "onboard_time": 1682389647,
-      "rank": 48,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 119872,
       "num": 119872,
       "word": "互联网算命到底多赚钱",
@@ -905,6 +1065,14 @@
       "onboard_time": 1682379143,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111093,
+      "num": 133543,
+      "word": "张朝阳物理学解构折叠屏",
+      "onboard_time": 1682392526,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 110720,

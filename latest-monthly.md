@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/25 10:43:33
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/25 11:18:08
 </p>
 </blockquote>
 <p>
@@ -5691,6 +5691,12 @@ FPX 没奖（热度：824838）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23GQ%E9%81%93%E6%AD%89%23" target="weibo">
+GQ道歉（热度：820371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A%23" target="weibo">
 孙颖莎vs伊藤美诚（热度：819775）
 </a>
@@ -6005,12 +6011,6 @@ EXO或将以LoveMeRight概念回归（热度：782317）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E5%86%8D%E6%AC%A1%E8%B0%83%E6%95%B4%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4%23" target="weibo">
 长月烬明再次调整更新时间（热度：780063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E6%9B%BE%E4%B8%BE%E5%8A%9E%E6%9C%80%E5%90%8E%E7%9A%84%E9%9F%B3%E4%B9%90%E4%BC%9A%23" target="weibo">
-坂本龙一曾举办最后的音乐会（热度：779318）
 </a>
 </li>
 
