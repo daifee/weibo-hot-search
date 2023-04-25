@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682453911457,
+  "endTime": 1682454825137,
   "band_list": [
     {
       "raw_hot": 1665590,
@@ -427,20 +427,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54066,
+      "num": 54066,
+      "word": "丫丫",
+      "onboard_time": 1682452815,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43121,
       "num": 43121,
       "word": "内娱哪些演员适合演学霸",
       "onboard_time": 1682447052,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31304,
-      "num": 31304,
-      "word": "丫丫",
-      "onboard_time": 1682452815,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31229,

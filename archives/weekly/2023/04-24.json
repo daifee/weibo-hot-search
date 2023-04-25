@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682453911457,
+  "endTime": 1682454825137,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -5083,6 +5083,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 54066,
+      "num": 54066,
+      "word": "丫丫",
+      "onboard_time": 1682452815,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43133,
       "num": 48080,
       "word": "半熟男女官宣没有周雨彤",
@@ -5121,14 +5129,6 @@
       "onboard_time": 1682395651,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31304,
-      "num": 31304,
-      "word": "丫丫",
-      "onboard_time": 1682452815,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30263,
