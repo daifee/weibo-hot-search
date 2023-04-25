@@ -1,0 +1,410 @@
+{
+  "runTime": 1682418859769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2181789,
+        "num": 2181789,
+        "word": "教师请病假25年退休前编制消失",
+        "onboard_time": 1682409745,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 341194,
+        "num": 1586133,
+        "word": "爸爸吃饼卡喉15岁女儿1分钟救回",
+        "onboard_time": 1682410767,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55982,
+        "num": 1499811,
+        "word": "全国网络普法行广西站",
+        "onboard_time": 1682414368,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1452590,
+        "num": 1452590,
+        "word": "张雨绮微信名叫高启强",
+        "onboard_time": 1682412927,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276505,
+        "num": 1253770,
+        "word": "女子火灾中安全转移两小孩后不幸遇难",
+        "onboard_time": 1682414607,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1252309,
+        "num": 1252309,
+        "word": "毛戈平为赵露思化的妆",
+        "onboard_time": 1682414548,
+        "rank": 5,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 264953,
+        "num": 1192479,
+        "word": "浙D1026S你被拍下来了",
+        "onboard_time": 1682405846,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192036,
+        "num": 1192036,
+        "word": "长月烬明 阿娇",
+        "onboard_time": 1682414426,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1104296,
+        "num": 1104296,
+        "word": "因为聚餐吃太多被辞退了",
+        "onboard_time": 1682408067,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 710799,
+        "num": 710799,
+        "word": "高铁要是提速到800公里",
+        "onboard_time": 1682407886,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 855735,
+        "num": 685411,
+        "word": "刘涛变美",
+        "onboard_time": 1682413887,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 497665,
+        "num": 497665,
+        "word": "陈都灵方否认发艳压通稿",
+        "onboard_time": 1682403085,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481579,
+        "num": 481579,
+        "word": "B太 徐州烧烤",
+        "onboard_time": 1682399729,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 453886,
+        "num": 453886,
+        "word": "张一山 袜子",
+        "onboard_time": 1682401887,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437502,
+        "num": 437502,
+        "word": "太阳Lisa新歌shoong",
+        "onboard_time": 1682416227,
+        "rank": 14,
+        "category": "艺人,音乐"
+      },
+      {
+        "raw_hot": 423272,
+        "num": 423272,
+        "word": "专家称年轻女性要学会与狼共舞",
+        "onboard_time": 1682415626,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420787,
+        "num": 420787,
+        "word": "长月烬明",
+        "onboard_time": 1682418146,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 368016,
+        "num": 368016,
+        "word": "领导给100元让我带饭一周",
+        "onboard_time": 1682410707,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366858,
+        "num": 366858,
+        "word": "文彬再次见面了",
+        "onboard_time": 1682415806,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295096,
+        "num": 295096,
+        "word": "为什么女生旅个游这么难",
+        "onboard_time": 1682413166,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272099,
+        "num": 272099,
+        "word": "何猷君说王嘉尔是我们的骄傲",
+        "onboard_time": 1682413766,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232327,
+        "num": 232327,
+        "word": "男友送花太勤被花店婉拒了",
+        "onboard_time": 1682409505,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231084,
+        "num": 231084,
+        "word": "小鬼定闹钟抢票",
+        "onboard_time": 1682417546,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220556,
+        "num": 220556,
+        "word": "你非常喜欢却停产的东西",
+        "onboard_time": 1682415206,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 218729,
+        "num": 218729,
+        "word": "我国全面实现不动产统一登记",
+        "onboard_time": 1682412566,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 215548,
+        "num": 215548,
+        "word": "警方辟谣南京迈皋桥发生枪战",
+        "onboard_time": 1682416709,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214901,
+        "num": 214901,
+        "word": "戚薇刮刮乐中奖",
+        "onboard_time": 1682397030,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204428,
+        "num": 204428,
+        "word": "霍思燕否认嗯哼是腺样体面容",
+        "onboard_time": 1682392465,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202971,
+        "num": 202971,
+        "word": "徐州3名出租车驾驶员被罚款",
+        "onboard_time": 1682417787,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192754,
+        "num": 192754,
+        "word": "原来长月烬明的明是声明的明",
+        "onboard_time": 1682416709,
+        "rank": 29,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 191447,
+        "num": 191447,
+        "word": "雷军称小屏手机消费群体太小",
+        "onboard_time": 1682412566,
+        "rank": 30,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 189204,
+        "num": 189204,
+        "word": "被全网黑但逆风翻盘的明星",
+        "onboard_time": 1682394568,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184067,
+        "num": 184067,
+        "word": "刘宪华回向往的生活了",
+        "onboard_time": 1682401587,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181833,
+        "num": 181833,
+        "word": "冷屁股 屁门",
+        "onboard_time": 1682407587,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173836,
+        "num": 173836,
+        "word": "难怪别人能考上研究生",
+        "onboard_time": 1682417728,
+        "rank": 34,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 165925,
+        "num": 165925,
+        "word": "薛之谦巡演官宣三城空降",
+        "onboard_time": 1682412149,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162636,
+        "num": 162636,
+        "word": "澹台烬更名沧九旻",
+        "onboard_time": 1682413527,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159002,
+        "num": 159002,
+        "word": "张若昀红发",
+        "onboard_time": 1682410887,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151996,
+        "num": 151996,
+        "word": "月薪多少才会让你有幸福感",
+        "onboard_time": 1682412388,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126789,
+        "num": 126789,
+        "word": "不动产统一登记",
+        "onboard_time": 1682414548,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158327,
+        "num": 126538,
+        "word": "20岁的王鹤棣跑过700个炸点",
+        "onboard_time": 1682412807,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148065,
+        "num": 126177,
+        "word": "巩俐再现经典裸唇",
+        "onboard_time": 1682408788,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151687,
+        "num": 125871,
+        "word": "明星回春",
+        "onboard_time": 1682416465,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138373,
+        "num": 125501,
+        "word": "腺样体面容",
+        "onboard_time": 1682394748,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131404,
+        "num": 125177,
+        "word": "郭珍霓",
+        "onboard_time": 1682396252,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130441,
+        "num": 124647,
+        "word": "北京国际电影节",
+        "onboard_time": 1682418689,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124542,
+        "num": 124542,
+        "word": "用长得像的明星当头像",
+        "onboard_time": 1682414126,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115734,
+        "num": 123712,
+        "word": "王者太乙真人新皮肤",
+        "onboard_time": 1682412085,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111542,
+        "num": 122762,
+        "word": "五一特种兵之旅攻略",
+        "onboard_time": 1682417426,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 57901,
+        "num": 122086,
+        "word": "五一旅游",
+        "onboard_time": 1682414727,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国星辰#"
+    }
+  }
+}
