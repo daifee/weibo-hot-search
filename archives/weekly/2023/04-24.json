@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682396450830,
+  "endTime": 1682397266729,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2714268,
-      "num": 590719,
+      "num": 674567,
       "word": "霍思燕否认嗯哼是腺样体面容",
       "onboard_time": 1682392465,
       "rank": 30,
@@ -163,6 +163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1688064,
+      "num": 1688064,
+      "word": "被全网黑但逆风翻盘的明星",
+      "onboard_time": 1682394568,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1649363,
       "num": 1649363,
       "word": "张艺兴我是市民不是市长",
@@ -201,6 +209,14 @@
       "onboard_time": 1682339611,
       "rank": 47,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1504214,
+      "num": 1504214,
+      "word": "曾经的朋友成为了明星",
+      "onboard_time": 1682393008,
+      "rank": 24,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 1496546,
@@ -275,20 +291,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1244027,
+      "num": 1244027,
+      "word": "腺样体面容",
+      "onboard_time": 1682394748,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1214935,
       "num": 1214935,
       "word": "月收入多少才算是普通人",
       "onboard_time": 1682344113,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1210231,
-      "num": 1210231,
-      "word": "曾经的朋友成为了明星",
-      "onboard_time": 1682393008,
-      "rank": 24,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 1186629,
@@ -347,28 +363,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1015675,
-      "num": 1015675,
-      "word": "被全网黑但逆风翻盘的明星",
-      "onboard_time": 1682394568,
-      "rank": 5,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 999954,
       "num": 999954,
       "word": "林心如和女儿视频通话",
       "onboard_time": 1682338709,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 980730,
-      "num": 980730,
-      "word": "腺样体面容",
-      "onboard_time": 1682394748,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 973128,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 685135,
+      "num": 685135,
+      "word": "郭珍霓",
+      "onboard_time": 1682396252,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 677518,
       "num": 677518,
       "word": "法考",
@@ -577,6 +585,14 @@
       "onboard_time": 1682381249,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592186,
+      "num": 592186,
+      "word": "千万不要在地铁上看恐怖片",
+      "onboard_time": 1682395114,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 584419,
@@ -673,14 +689,6 @@
       "onboard_time": 1682338227,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 505663,
-      "num": 505663,
-      "word": "千万不要在地铁上看恐怖片",
-      "onboard_time": 1682395114,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 501248,
@@ -848,6 +856,14 @@
       "word": "张大大哭了",
       "onboard_time": 1682310994,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 461370,
+      "num": 461370,
+      "word": "Billlie将暂时以6人体制活动",
+      "onboard_time": 1682396131,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -1147,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 361244,
+      "num": 361244,
+      "word": "灌篮高手遭遇史上最严重屏摄",
+      "onboard_time": 1682396669,
+      "rank": 20,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 358726,
       "num": 321794,
       "word": "工资的一部分就是受气的",
@@ -1219,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349180,
+      "num": 349180,
+      "word": "女孩家属回应男子跳楼砸伤其女儿",
+      "onboard_time": 1682395589,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345997,
       "num": 345997,
       "word": "全世界除了滔博都笑的很开心",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1682311296,
       "rank": 19,
       "category": "科技"
+    },
+    {
+      "raw_hot": 335988,
+      "num": 269143,
+      "word": "伍佰赚钱比曾毅还轻松",
+      "onboard_time": 1682396371,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 334482,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1682383169,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 325631,
+      "num": 262748,
+      "word": "王源说支持千玺全新专辑刘艳芬",
+      "onboard_time": 1682394930,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 324416,
@@ -1467,14 +1515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 304815,
-      "num": 304815,
-      "word": "女孩家属回应男子跳楼砸伤其女儿",
-      "onboard_time": 1682395589,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 303516,
       "num": 303516,
       "word": "拉塞尔",
@@ -1491,12 +1531,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 303224,
-      "num": 303224,
-      "word": "Billlie将暂时以6人体制活动",
-      "onboard_time": 1682396131,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 300835,
+      "num": 245156,
+      "word": "辛云来冷脸",
+      "onboard_time": 1682396669,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 300417,
@@ -1680,14 +1720,6 @@
       "word": "super",
       "onboard_time": 1682331989,
       "rank": 25,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 261280,
-      "num": 261280,
-      "word": "王源说支持千玺全新专辑刘艳芬",
-      "onboard_time": 1682394930,
-      "rank": 31,
       "category": "音乐"
     },
     {
@@ -2067,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217881,
+      "num": 205905,
+      "word": "戚薇刮刮乐中奖",
+      "onboard_time": 1682397030,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217837,
       "num": 217837,
       "word": "鞠婧祎 完美日记title",
@@ -2105,14 +2145,6 @@
       "onboard_time": 1682354419,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213554,
-      "num": 213554,
-      "word": "郭珍霓",
-      "onboard_time": 1682396252,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212850,
@@ -2281,14 +2313,6 @@
       "onboard_time": 1682326407,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199874,
-      "num": 199874,
-      "word": "伍佰赚钱比曾毅还轻松",
-      "onboard_time": 1682396371,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 198500,
@@ -3499,12 +3523,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 39778,
+      "num": 1537224,
+      "word": "这个答案写满中国航天的自信和底气",
+      "onboard_time": 1682395950,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31573,
       "num": 31573,
       "word": "张凌赫 兰蔻",
       "onboard_time": 1682359994,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 31451,
+      "num": 190478,
+      "word": "从艾热的歌里听出了画面感",
+      "onboard_time": 1682395651,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 27379,
@@ -3523,28 +3563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26767,
-      "num": 155384,
-      "word": "从艾热的歌里听出了画面感",
-      "onboard_time": 1682395651,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 24845,
       "num": 24845,
       "word": "SEVENTEEN孙悟空MV",
       "onboard_time": 1682362273,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24778,
-      "num": 1223507,
-      "word": "这个答案写满中国航天的自信和底气",
-      "onboard_time": 1682395950,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15836,
