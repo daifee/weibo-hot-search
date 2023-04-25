@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682379220338,
+  "endTime": 1682385838195,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -51,6 +51,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2644371,
+      "num": 2644371,
+      "word": "婴儿高铁上哭闹女子和宝妈对骂",
+      "onboard_time": 1682381907,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2470645,
       "num": 2470645,
       "word": "B站千万粉丝UP主回应停更传言",
@@ -73,6 +81,14 @@
       "onboard_time": 1682328269,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2179398,
+      "num": 2179398,
+      "word": "为什么读了研也找不到工作",
+      "onboard_time": 1682378784,
+      "rank": 31,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 2115993,
@@ -211,6 +227,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1250693,
+      "num": 585885,
+      "word": "路人凭狗认出赵露思",
+      "onboard_time": 1682378962,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1249600,
       "num": 1249600,
       "word": "Lisa下楼梯",
@@ -233,6 +257,22 @@
       "onboard_time": 1682344113,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1213333,
+      "num": 1213333,
+      "word": "内娱选秀团全部解散",
+      "onboard_time": 1682382987,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1186629,
+      "num": 1186629,
+      "word": "四六级",
+      "onboard_time": 1682379865,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1113051,
@@ -300,7 +340,7 @@
     },
     {
       "raw_hot": 874514,
-      "num": 396792,
+      "num": 555010,
       "word": "知道奚梦瑶为什么上课不开心了",
       "onboard_time": 1682344230,
       "rank": 11,
@@ -363,6 +403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 765482,
+      "num": 765482,
+      "word": "GQ道歉",
+      "onboard_time": 1682381427,
+      "rank": 6,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 756103,
       "num": 756103,
       "word": "丫丫将回国",
@@ -377,6 +425,14 @@
       "onboard_time": 1682334269,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 717919,
+      "num": 717919,
+      "word": "四六级对找工作帮助大吗",
+      "onboard_time": 1682382509,
+      "rank": 7,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 704969,
@@ -433,6 +489,22 @@
       "onboard_time": 1682319509,
       "rank": 9,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 592791,
+      "num": 592791,
+      "word": "INTO1集体改ID",
+      "onboard_time": 1682381249,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 588689,
+      "num": 588689,
+      "word": "易烊千玺雕像被涂花",
+      "onboard_time": 1682380165,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 584419,
@@ -659,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461476,
+      "num": 461476,
+      "word": "二阳患者自述感染经历",
+      "onboard_time": 1682382087,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461289,
       "num": 461289,
       "word": "白玉兰网剧入围名单",
@@ -771,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 425858,
+      "num": 425858,
+      "word": "专家建议延长法定节假日避免调休",
+      "onboard_time": 1682380767,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 414973,
       "num": 414973,
       "word": "宋智孝将与经纪公司解约",
@@ -832,6 +920,14 @@
       "word": "长月烬明",
       "onboard_time": 1682335167,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 392777,
+      "num": 392777,
+      "word": "孙珍妮的文笔",
+      "onboard_time": 1682379265,
+      "rank": 14,
       "category": "影视"
     },
     {
@@ -979,6 +1075,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 334370,
+      "num": 334370,
+      "word": "一页folio范新性侵下属未遂",
+      "onboard_time": 1682384189,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333677,
       "num": 1957677,
       "word": "女生花4天为新婚姐姐绘制百喜图",
@@ -1011,6 +1115,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 327855,
+      "num": 327855,
+      "word": "现金流都在12306",
+      "onboard_time": 1682383169,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324416,
       "num": 324416,
       "word": "文彬悼念区留下手写信",
@@ -1033,6 +1145,14 @@
       "onboard_time": 1682321726,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 321528,
+      "num": 321528,
+      "word": "蓝环章鱼的毒没有解药",
+      "onboard_time": 1682379503,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321381,
@@ -1147,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 304337,
+      "num": 304337,
+      "word": "突然知道什么是媚骨天成了",
+      "onboard_time": 1682383950,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 303450,
       "num": 303450,
       "word": "未定事件簿",
@@ -1211,6 +1339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 282933,
+      "num": 282933,
+      "word": "三星一季度挣6000亿韩元被美国罚4000亿",
+      "onboard_time": 1682384427,
+      "rank": 24,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 282045,
       "num": 282045,
       "word": "fml好听",
@@ -1257,6 +1393,14 @@
       "onboard_time": 1682256093,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269295,
+      "num": 269295,
+      "word": "长月烬明女性角色",
+      "onboard_time": 1682381306,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 267869,
@@ -1339,6 +1483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257056,
+      "num": 257056,
+      "word": "算命是科学还是迷信骗人",
+      "onboard_time": 1682384667,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256745,
       "num": 195584,
       "word": "遇上法定节假日你会拼假吗",
@@ -1403,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250289,
+      "num": 250289,
+      "word": "福克斯手指骨折",
+      "onboard_time": 1682380348,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248927,
       "num": 248927,
       "word": "许嵩郎朗新歌",
@@ -1459,6 +1619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241035,
+      "num": 241035,
+      "word": "长沙烧烤也申请出战",
+      "onboard_time": 1682380948,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 238614,
       "num": 238614,
       "word": "KPL季后赛",
@@ -1499,6 +1667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227817,
+      "num": 227817,
+      "word": "四六级查分",
+      "onboard_time": 1682384249,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 226297,
       "num": 226297,
       "word": "戛纳电影节",
@@ -1513,6 +1689,14 @@
       "onboard_time": 1682259165,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222993,
+      "num": 222993,
+      "word": "出去玩发朋友圈要屏蔽同事吗",
+      "onboard_time": 1682380466,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 222979,
@@ -1595,6 +1779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214139,
+      "num": 214139,
+      "word": "米哈游新游未上线超百国登顶",
+      "onboard_time": 1682354419,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212850,
       "num": 219076,
       "word": "金泰亨电影试映会新闻图",
@@ -1625,6 +1817,14 @@
       "onboard_time": 1682264135,
       "rank": 25,
       "category": "网红,情感"
+    },
+    {
+      "raw_hot": 208279,
+      "num": 208279,
+      "word": "专业调整后不小心成了绝版人才",
+      "onboard_time": 1682382689,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 207504,
@@ -1859,14 +2059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188963,
-      "num": 188963,
-      "word": "米哈游新游未上线超百国登顶",
-      "onboard_time": 1682354419,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 187245,
       "num": 187245,
       "word": "人生路不熟终极预告",
@@ -1937,6 +2129,14 @@
       "onboard_time": 1682306065,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183666,
+      "num": 183666,
+      "word": "杨智渊被批准逮捕",
+      "onboard_time": 1682382267,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183514,
@@ -2403,22 +2603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131175,
-      "num": 131175,
-      "word": "为什么读了研也找不到工作",
-      "onboard_time": 1682378784,
-      "rank": 31,
-      "category": "情感,教育"
-    },
-    {
-      "raw_hot": 130975,
-      "num": 130975,
-      "word": "路人凭狗认出赵露思",
-      "onboard_time": 1682378962,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130959,
       "num": 130959,
       "word": "这是我下周过4.9岁生日的何老师",
@@ -2457,6 +2641,14 @@
       "onboard_time": 1682315668,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126509,
+      "num": 126509,
+      "word": "程嘉树名字含义",
+      "onboard_time": 1682385505,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 126113,
@@ -2523,6 +2715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119302,
+      "num": 119302,
+      "word": "张婧仪范丞丞好嗑",
+      "onboard_time": 1682385808,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118363,
       "num": 118363,
       "word": "中国的专家真的在妖言惑众吗",
@@ -2561,6 +2761,14 @@
       "onboard_time": 1682334507,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 111365,
+      "num": 111365,
+      "word": "李现以前的文案",
+      "onboard_time": 1682379143,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 108935,
@@ -2691,14 +2899,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 84290,
-      "num": 84290,
-      "word": "李现以前的文案",
-      "onboard_time": 1682379143,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81256,
       "num": 81256,
       "word": "ENHYPEN预告",
@@ -2756,7 +2956,7 @@
     },
     {
       "raw_hot": 61270,
-      "num": 1008987,
+      "num": 1582687,
       "word": "广交会展览规模再创历史新高",
       "onboard_time": 1682341230,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682379220338,
+  "endTime": 1682385838195,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -875,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2644371,
+      "num": 2644371,
+      "word": "婴儿高铁上哭闹女子和宝妈对骂",
+      "onboard_time": 1682381907,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2642107,
       "num": 2642107,
       "word": "密子君道歉",
@@ -1465,6 +1473,14 @@
       "onboard_time": 1680917247,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2179398,
+      "num": 2179398,
+      "word": "为什么读了研也找不到工作",
+      "onboard_time": 1682378784,
+      "rank": 31,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 2174661,
@@ -4251,6 +4267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1250693,
+      "num": 585885,
+      "word": "路人凭狗认出赵露思",
+      "onboard_time": 1682378962,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1249600,
       "num": 1249600,
       "word": "Lisa下楼梯",
@@ -4387,6 +4411,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1213333,
+      "num": 1213333,
+      "word": "内娱选秀团全部解散",
+      "onboard_time": 1682382987,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1210468,
       "num": 1210468,
       "word": "公司五一放三天同事离职了",
@@ -4505,6 +4537,14 @@
       "onboard_time": 1680773430,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1186629,
+      "num": 1186629,
+      "word": "四六级",
+      "onboard_time": 1680503855,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 1185802,
@@ -6836,7 +6876,7 @@
     },
     {
       "raw_hot": 874514,
-      "num": 396792,
+      "num": 555010,
       "word": "知道奚梦瑶为什么上课不开心了",
       "onboard_time": 1682344230,
       "rank": 11,
@@ -8115,6 +8155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 765482,
+      "num": 765482,
+      "word": "GQ道歉",
+      "onboard_time": 1682381427,
+      "rank": 6,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 762724,
       "num": 762724,
       "word": "田曦薇官宣女子推理社",
@@ -8753,6 +8801,14 @@
       "onboard_time": 1680861330,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 717919,
+      "num": 717919,
+      "word": "四六级对找工作帮助大吗",
+      "onboard_time": 1682382509,
+      "rank": 7,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 717870,
@@ -11355,6 +11411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 592791,
+      "num": 592791,
+      "word": "INTO1集体改ID",
+      "onboard_time": 1682381249,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592703,
       "num": 329567,
       "word": "公司早8晚11或涉嫌违法",
@@ -11481,6 +11545,14 @@
       "onboard_time": 1682145267,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 588689,
+      "num": 588689,
+      "word": "易烊千玺雕像被涂花",
+      "onboard_time": 1682380165,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 588341,
@@ -12609,14 +12681,6 @@
       "onboard_time": 1680267447,
       "rank": 21,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 543403,
-      "num": 543403,
-      "word": "四六级",
-      "onboard_time": 1680503855,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 543070,
@@ -15363,6 +15427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461476,
+      "num": 461476,
+      "word": "二阳患者自述感染经历",
+      "onboard_time": 1682382087,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461408,
       "num": 461408,
       "word": "报备式恋爱",
@@ -16809,6 +16881,14 @@
       "onboard_time": 1682341170,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 425858,
+      "num": 425858,
+      "word": "专家建议延长法定节假日避免调休",
+      "onboard_time": 1682380767,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425674,
@@ -18697,6 +18777,14 @@
       "onboard_time": 1680516814,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392777,
+      "num": 392777,
+      "word": "孙珍妮的文笔",
+      "onboard_time": 1682379265,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 392752,
@@ -21707,6 +21795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334370,
+      "num": 334370,
+      "word": "一页folio范新性侵下属未遂",
+      "onboard_time": 1682384189,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334315,
       "num": 326508,
       "word": "被自己的大屁股救了一命",
@@ -22227,6 +22323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327855,
+      "num": 327855,
+      "word": "现金流都在12306",
+      "onboard_time": 1682383169,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 327689,
       "num": 327689,
       "word": "模范出租车",
@@ -22601,6 +22705,14 @@
       "onboard_time": 1682321726,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 321528,
+      "num": 321528,
+      "word": "蓝环章鱼的毒没有解药",
+      "onboard_time": 1682379503,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321381,
@@ -23737,6 +23849,14 @@
       "onboard_time": 1681615768,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 304337,
+      "num": 304337,
+      "word": "突然知道什么是媚骨天成了",
+      "onboard_time": 1682383950,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 304237,
@@ -25363,6 +25483,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 282933,
+      "num": 282933,
+      "word": "三星一季度挣6000亿韩元被美国罚4000亿",
+      "onboard_time": 1682384427,
+      "rank": 24,
+      "category": "财经,科技"
+    },
+    {
       "raw_hot": 282587,
       "num": 282587,
       "word": "离职千万不要有愧疚感",
@@ -26393,6 +26521,14 @@
       "onboard_time": 1681821327,
       "rank": 22,
       "category": "科技,财经"
+    },
+    {
+      "raw_hot": 269295,
+      "num": 269295,
+      "word": "长月烬明女性角色",
+      "onboard_time": 1682381306,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 269255,
@@ -27427,6 +27563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 257056,
+      "num": 257056,
+      "word": "算命是科学还是迷信骗人",
+      "onboard_time": 1682384667,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257052,
       "num": 257052,
       "word": "长月烬明见面会路透",
@@ -28145,6 +28289,14 @@
       "onboard_time": 1681477049,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250289,
+      "num": 250289,
+      "word": "福克斯手指骨折",
+      "onboard_time": 1682380348,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 250236,
@@ -28993,6 +29145,14 @@
       "onboard_time": 1681819406,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241035,
+      "num": 241035,
+      "word": "长沙烧烤也申请出战",
+      "onboard_time": 1682380948,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 240949,
@@ -30531,6 +30691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227817,
+      "num": 227817,
+      "word": "四六级查分",
+      "onboard_time": 1682384249,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 227805,
       "num": 227805,
       "word": "光明正大薅熊猫毛的乌鸦",
@@ -31073,6 +31241,14 @@
       "onboard_time": 1680789873,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222993,
+      "num": 222993,
+      "word": "出去玩发朋友圈要屏蔽同事吗",
+      "onboard_time": 1682380466,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 222905,
@@ -32299,6 +32475,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 214139,
+      "num": 214139,
+      "word": "米哈游新游未上线超百国登顶",
+      "onboard_time": 1682354419,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214129,
       "num": 214129,
       "word": "shanji三连MVP",
@@ -33345,6 +33529,14 @@
       "onboard_time": 1680695671,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208279,
+      "num": 208279,
+      "word": "专业调整后不小心成了绝版人才",
+      "onboard_time": 1682382689,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 208269,
@@ -39619,14 +39811,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 188963,
-      "num": 188963,
-      "word": "米哈游新游未上线超百国登顶",
-      "onboard_time": 1682354419,
-      "rank": 17,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188935,
       "num": 199873,
       "word": "黄之锋被控藐视法庭罪判囚三个月",
@@ -41057,6 +41241,14 @@
       "onboard_time": 1681295066,
       "rank": 34,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 183666,
+      "num": 183666,
+      "word": "杨智渊被批准逮捕",
+      "onboard_time": 1682382267,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183654,
@@ -50219,14 +50411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 131175,
-      "num": 131175,
-      "word": "为什么读了研也找不到工作",
-      "onboard_time": 1682378784,
-      "rank": 31,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 131077,
       "num": 136162,
       "word": "这才是真的有效防晒吧",
@@ -50257,14 +50441,6 @@
       "onboard_time": 1680332431,
       "rank": 37,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 130975,
-      "num": 130975,
-      "word": "路人凭狗认出赵露思",
-      "onboard_time": 1682378962,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 130959,
@@ -50991,6 +51167,14 @@
       "num": 126604,
       "word": "阿凡达2中国平台榜单表现",
       "onboard_time": 1681012227,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 126509,
+      "num": 126509,
+      "word": "程嘉树名字含义",
+      "onboard_time": 1682385505,
       "rank": 44,
       "category": "影视"
     },
@@ -51987,6 +52171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119302,
+      "num": 119302,
+      "word": "张婧仪范丞丞好嗑",
+      "onboard_time": 1682385808,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119267,
       "num": 742852,
       "word": "10项公安交管便利措施6月1日起实施",
@@ -52761,6 +52953,14 @@
       "onboard_time": 1681996228,
       "rank": 49,
       "category": "科技,时尚"
+    },
+    {
+      "raw_hot": 111365,
+      "num": 111365,
+      "word": "李现以前的文案",
+      "onboard_time": 1682379143,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 111345,
@@ -55123,14 +55323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84290,
-      "num": 84290,
-      "word": "李现以前的文案",
-      "onboard_time": 1682379143,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83972,
       "num": 90672,
       "word": "敦煌藏经洞百年来首次数字复现",
@@ -55964,7 +56156,7 @@
     },
     {
       "raw_hot": 61270,
-      "num": 1008987,
+      "num": 1582687,
       "word": "广交会展览规模再创历史新高",
       "onboard_time": 1682341230,
       "rank": 2,

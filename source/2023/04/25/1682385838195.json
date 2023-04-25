@@ -1,0 +1,410 @@
+{
+  "runTime": 1682385838195,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2644371,
+        "num": 2644371,
+        "word": "婴儿高铁上哭闹女子和宝妈对骂",
+        "onboard_time": 1682381907,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2179398,
+        "num": 2179398,
+        "word": "为什么读了研也找不到工作",
+        "onboard_time": 1682378784,
+        "rank": 1,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 48164,
+        "num": 1582687,
+        "word": "广交会展览规模再创历史新高",
+        "onboard_time": 1682341230,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213333,
+        "num": 1213333,
+        "word": "内娱选秀团全部解散",
+        "onboard_time": 1682382987,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1186629,
+        "num": 1186629,
+        "word": "四六级",
+        "onboard_time": 1682379865,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 808283,
+        "num": 808283,
+        "word": "安徽一算命网红3年非法盈利200多万",
+        "onboard_time": 1682349989,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 765482,
+        "num": 765482,
+        "word": "GQ道歉",
+        "onboard_time": 1682381427,
+        "rank": 6,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 717919,
+        "num": 717919,
+        "word": "四六级对找工作帮助大吗",
+        "onboard_time": 1682382509,
+        "rank": 7,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 592791,
+        "num": 592791,
+        "word": "INTO1集体改ID",
+        "onboard_time": 1682381249,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588689,
+        "num": 588689,
+        "word": "易烊千玺雕像被涂花",
+        "onboard_time": 1682380165,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1250693,
+        "num": 585885,
+        "word": "路人凭狗认出赵露思",
+        "onboard_time": 1682378962,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793323,
+        "num": 555010,
+        "word": "知道奚梦瑶为什么上课不开心了",
+        "onboard_time": 1682344230,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461476,
+        "num": 461476,
+        "word": "二阳患者自述感染经历",
+        "onboard_time": 1682382087,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425858,
+        "num": 425858,
+        "word": "专家建议延长法定节假日避免调休",
+        "onboard_time": 1682380767,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392777,
+        "num": 392777,
+        "word": "孙珍妮的文笔",
+        "onboard_time": 1682379265,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 378361,
+        "num": 378361,
+        "word": "杨紫 造型团队",
+        "onboard_time": 1682344831,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 373091,
+        "num": 373091,
+        "word": "何猷君 科切拉",
+        "onboard_time": 1682340868,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334370,
+        "num": 334370,
+        "word": "一页folio范新性侵下属未遂",
+        "onboard_time": 1682384189,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327855,
+        "num": 327855,
+        "word": "现金流都在12306",
+        "onboard_time": 1682383169,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321528,
+        "num": 321528,
+        "word": "蓝环章鱼的毒没有解药",
+        "onboard_time": 1682379503,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521716,
+        "num": 318505,
+        "word": "中国一女游客在泰国遭绑架后逃脱",
+        "onboard_time": 1682341770,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372149,
+        "num": 317605,
+        "word": "新冠",
+        "onboard_time": 1682368750,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313471,
+        "num": 313471,
+        "word": "能接受另一半帮异性挡酒吗",
+        "onboard_time": 1682356996,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304337,
+        "num": 304337,
+        "word": "突然知道什么是媚骨天成了",
+        "onboard_time": 1682383950,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282933,
+        "num": 282933,
+        "word": "三星一季度挣6000亿韩元被美国罚4000亿",
+        "onboard_time": 1682384427,
+        "rank": 24,
+        "category": "财经,科技"
+      },
+      {
+        "raw_hot": 269295,
+        "num": 269295,
+        "word": "长月烬明女性角色",
+        "onboard_time": 1682381306,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257056,
+        "num": 257056,
+        "word": "算命是科学还是迷信骗人",
+        "onboard_time": 1682384667,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250289,
+        "num": 250289,
+        "word": "福克斯手指骨折",
+        "onboard_time": 1682380348,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241035,
+        "num": 241035,
+        "word": "长沙烧烤也申请出战",
+        "onboard_time": 1682380948,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 227817,
+        "num": 227817,
+        "word": "四六级查分",
+        "onboard_time": 1682384249,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222993,
+        "num": 222993,
+        "word": "出去玩发朋友圈要屏蔽同事吗",
+        "onboard_time": 1682380466,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214139,
+        "num": 214139,
+        "word": "米哈游新游未上线超百国登顶",
+        "onboard_time": 1682354419,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212916,
+        "num": 212916,
+        "word": "朱一龙河边的错误入围戛纳",
+        "onboard_time": 1682378002,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 208279,
+        "num": 208279,
+        "word": "专业调整后不小心成了绝版人才",
+        "onboard_time": 1682382689,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 186975,
+        "num": 186975,
+        "word": "离职三天后同事发的微信",
+        "onboard_time": 1682337149,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183666,
+        "num": 183666,
+        "word": "杨智渊被批准逮捕",
+        "onboard_time": 1682382267,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165074,
+        "num": 165074,
+        "word": "我负责的烈士子女考上了重点军校",
+        "onboard_time": 1682347410,
+        "rank": 36,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 163202,
+        "num": 163202,
+        "word": "拿破仑一世鼻烟盒亮相山东",
+        "onboard_time": 1682377880,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151127,
+        "num": 151127,
+        "word": "18岁女孩双腿肌肉突发溶解面临截肢",
+        "onboard_time": 1682341891,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145935,
+        "num": 145935,
+        "word": "上班更累还是上学更累",
+        "onboard_time": 1682343389,
+        "rank": 39,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 143289,
+        "num": 143289,
+        "word": "爱奇艺 灌篮高手",
+        "onboard_time": 1682349448,
+        "rank": 40,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 138135,
+        "num": 138135,
+        "word": "白玉兰网剧入围名单",
+        "onboard_time": 1682348970,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135436,
+        "num": 135436,
+        "word": "秦昊说骗你把我从山上推下去",
+        "onboard_time": 1682350169,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 131913,
+        "num": 131913,
+        "word": "胖东来爆火是有原因的",
+        "onboard_time": 1682346451,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126509,
+        "num": 126509,
+        "word": "程嘉树名字含义",
+        "onboard_time": 1682385505,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123350,
+        "num": 123350,
+        "word": "给女儿准备三万本书当书房",
+        "onboard_time": 1682339611,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 119628,
+        "num": 119628,
+        "word": "外媒称C罗和女友出现感情危机",
+        "onboard_time": 1682342671,
+        "rank": 46,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 119302,
+        "num": 119302,
+        "word": "张婧仪范丞丞好嗑",
+        "onboard_time": 1682385808,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118555,
+        "num": 118555,
+        "word": "HYBE好像在Hanteo榜上团建",
+        "onboard_time": 1682377639,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 111365,
+        "num": 111365,
+        "word": "李现以前的文案",
+        "onboard_time": 1682379143,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国星辰#"
+    }
+  }
+}
