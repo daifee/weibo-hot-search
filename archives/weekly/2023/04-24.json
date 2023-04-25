@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682426998332,
+  "endTime": 1682428856170,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1901574,
+      "num": 345463,
+      "word": "奚梦瑶 你们的快乐吵到我学习了",
+      "onboard_time": 1682425767,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1821082,
       "num": 1821082,
       "word": "腺样体面容",
@@ -193,6 +201,14 @@
       "onboard_time": 1682368750,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1695361,
+      "num": 1695361,
+      "word": "这竟然是彭昱畅",
+      "onboard_time": 1682427090,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1688299,
@@ -403,11 +419,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1114562,
-      "num": 345463,
-      "word": "奚梦瑶 你们的快乐吵到我学习了",
-      "onboard_time": 1682425767,
-      "rank": 25,
+      "raw_hot": 1121276,
+      "num": 273595,
+      "word": "刘涛 韩素希",
+      "onboard_time": 1682425638,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -555,6 +571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 848430,
+      "num": 848430,
+      "word": "长月烬明名场面怎么拍成这样",
+      "onboard_time": 1682424387,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 846262,
       "num": 846262,
       "word": "陈都灵邓为高光戏份被删",
@@ -627,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 756002,
+      "num": 756002,
+      "word": "刘宪华 中国好声音导师",
+      "onboard_time": 1682426909,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743038,
       "num": 743038,
       "word": "欢乐颂5",
@@ -649,14 +681,6 @@
       "onboard_time": 1682401587,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 716194,
-      "num": 716194,
-      "word": "长月烬明名场面怎么拍成这样",
-      "onboard_time": 1682424387,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 704969,
@@ -705,6 +729,14 @@
       "onboard_time": 1682405846,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626493,
+      "num": 626493,
+      "word": "四月底HR才开始急了",
+      "onboard_time": 1682420186,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 625422,
@@ -1323,14 +1355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 418775,
-      "num": 418775,
-      "word": "四月底HR才开始急了",
-      "onboard_time": 1682420186,
-      "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 414973,
       "num": 414973,
       "word": "宋智孝将与经纪公司解约",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1682421925,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 368599,
+      "num": 189531,
+      "word": "吴磊 大众",
+      "onboard_time": 1682426668,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 366065,
@@ -1803,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321474,
+      "num": 321474,
+      "word": "点外卖竟然是警察来送餐",
+      "onboard_time": 1682426550,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321381,
       "num": 321381,
       "word": "第一批在苏中国公民已安全撤至邻国",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1682330725,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 317883,
+      "num": 176832,
+      "word": "黎苏苏留给澹台烬的最后一句话",
+      "onboard_time": 1682426668,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 317824,
@@ -2051,6 +2099,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 284708,
+      "num": 173304,
+      "word": "林墨说工作室可以开实习证明",
+      "onboard_time": 1682426068,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284236,
       "num": 284236,
       "word": "鹿晗三巡",
@@ -2241,14 +2297,6 @@
       "onboard_time": 1682398651,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 259354,
-      "num": 259354,
-      "word": "刘涛 韩素希",
-      "onboard_time": 1682425638,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 258971,
@@ -2827,28 +2875,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212460,
-      "num": 147360,
-      "word": "林墨说工作室可以开实习证明",
-      "onboard_time": 1682426068,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211585,
       "num": 211585,
       "word": "科目二到底有多难考",
       "onboard_time": 1682334928,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211263,
-      "num": 146756,
-      "word": "黎苏苏留给澹台烬的最后一句话",
-      "onboard_time": 1682426668,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 211173,
@@ -2923,6 +2955,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 205543,
+      "num": 167786,
+      "word": "金智秀裴秀智身高差",
+      "onboard_time": 1682424866,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205339,
       "num": 205339,
       "word": "友情内耗",
@@ -2969,6 +3009,14 @@
       "onboard_time": 1682418986,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203488,
+      "num": 122712,
+      "word": "22岁白人男演员12次整形手术后死亡",
+      "onboard_time": 1682427809,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203208,
@@ -3065,14 +3113,6 @@
       "onboard_time": 1682399970,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 197605,
-      "num": 167786,
-      "word": "金智秀裴秀智身高差",
-      "onboard_time": 1682424866,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 197485,
@@ -3819,6 +3859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158365,
+      "num": 158365,
+      "word": "男子140元买榴莲彩票亏麻了",
+      "onboard_time": 1682424927,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158323,
       "num": 158323,
       "word": "守护孩子们的航天梦",
@@ -3921,14 +3969,6 @@
       "onboard_time": 1682398114,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148826,
-      "num": 122829,
-      "word": "刘宪华 中国好声音导师",
-      "onboard_time": 1682426909,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 148468,
@@ -4097,14 +4137,6 @@
       "onboard_time": 1682405906,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 142295,
-      "num": 120824,
-      "word": "吴磊 大众",
-      "onboard_time": 1682426668,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 141003,
@@ -4467,14 +4499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112190,
-      "num": 142809,
-      "word": "点外卖竟然是警察来送餐",
-      "onboard_time": 1682426550,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112035,
       "num": 122762,
       "word": "五一特种兵之旅攻略",
@@ -4489,6 +4513,14 @@
       "onboard_time": 1682334507,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 110937,
+      "num": 110937,
+      "word": "看着不体面但很赚钱的工作",
+      "onboard_time": 1682428589,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 110714,
@@ -4595,20 +4627,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102544,
-      "num": 102544,
-      "word": "男子140元买榴莲彩票亏麻了",
-      "onboard_time": 1682424927,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102265,
       "num": 102265,
       "word": "田柾国直播",
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93814,
+      "num": 93814,
+      "word": "27岁烈士汪晓龙追记一等功",
+      "onboard_time": 1682427090,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93447,
@@ -4625,6 +4657,14 @@
       "onboard_time": 1682378302,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 93092,
+      "num": 93092,
+      "word": "惊天救援片方回应北大路演事件",
+      "onboard_time": 1682428829,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 91549,
