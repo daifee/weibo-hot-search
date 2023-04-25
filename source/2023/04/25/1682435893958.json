@@ -1,0 +1,410 @@
+{
+  "runTime": 1682435893958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2731879,
+        "num": 2731879,
+        "word": "长月烬明 抄袭阴阳师",
+        "onboard_time": 1682430151,
+        "rank": 0,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 1280161,
+        "num": 1280161,
+        "word": "刘宪华 中国好声音导师",
+        "onboard_time": 1682426909,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27896,
+        "num": 1232533,
+        "word": "行走百县话振兴",
+        "onboard_time": 1682430449,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187320,
+        "num": 1187320,
+        "word": "这竟然是彭昱畅",
+        "onboard_time": 1682427090,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 696446,
+        "num": 696446,
+        "word": "四月底HR才开始急了",
+        "onboard_time": 1682420186,
+        "rank": 4,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 638437,
+        "num": 638437,
+        "word": "教师请病假25年退休前编制消失",
+        "onboard_time": 1682409745,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 631897,
+        "num": 631897,
+        "word": "长月烬明名场面怎么拍成这样",
+        "onboard_time": 1682424387,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 491984,
+        "num": 491984,
+        "word": "看着不体面但很赚钱的工作",
+        "onboard_time": 1682428589,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 396904,
+        "num": 396904,
+        "word": "新员工交接到一半想离职了",
+        "onboard_time": 1682431829,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221413,
+        "num": 393029,
+        "word": "女子2月订房临近五一被取消订单",
+        "onboard_time": 1682420607,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948778,
+        "num": 383228,
+        "word": "奚梦瑶 你们的快乐吵到我学习了",
+        "onboard_time": 1682425767,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667367,
+        "num": 379417,
+        "word": "刘涛 韩素希",
+        "onboard_time": 1682425638,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564677,
+        "num": 371483,
+        "word": "戚薇早期跟Lucky很像",
+        "onboard_time": 1682420847,
+        "rank": 12,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 401957,
+        "num": 362253,
+        "word": "关晓彤虞书欣早期合照",
+        "onboard_time": 1682431713,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356864,
+        "num": 356864,
+        "word": "22岁白人男演员12次整形手术后死亡",
+        "onboard_time": 1682427809,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390552,
+        "num": 356088,
+        "word": "郭靖宇说肖战的表演非常惊艳",
+        "onboard_time": 1682432670,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 340959,
+        "num": 340959,
+        "word": "赵丽颖虎狼之路杀青",
+        "onboard_time": 1682430752,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 315069,
+        "num": 315069,
+        "word": "原来笔记本要一直充电使用",
+        "onboard_time": 1682421327,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282436,
+        "num": 282436,
+        "word": "蒜香西瓜",
+        "onboard_time": 1682431593,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187306,
+        "num": 279902,
+        "word": "拜登正式宣布竞选连任美国总统",
+        "onboard_time": 1682419167,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 472751,
+        "num": 278525,
+        "word": "你能否接受对象有过同居史",
+        "onboard_time": 1682431350,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 319853,
+        "num": 274149,
+        "word": "叶夕雾跳城楼",
+        "onboard_time": 1682419647,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 307857,
+        "num": 268594,
+        "word": "张雨绮微信名叫高启强",
+        "onboard_time": 1682412927,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209133,
+        "num": 265176,
+        "word": "大熊猫萌兰反向给游客投喂竹子",
+        "onboard_time": 1682433869,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209113,
+        "num": 261600,
+        "word": "星穹铁道倒计时",
+        "onboard_time": 1682435130,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260682,
+        "num": 260682,
+        "word": "吴磊 大众",
+        "onboard_time": 1682426668,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257832,
+        "num": 257832,
+        "word": "易烊千玺呆毛",
+        "onboard_time": 1682429430,
+        "rank": 26,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 256487,
+        "num": 256487,
+        "word": "黎苏苏留给澹台烬的最后一句话",
+        "onboard_time": 1682426668,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199323,
+        "num": 199323,
+        "word": "难怪别人能考上研究生",
+        "onboard_time": 1682417728,
+        "rank": 28,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 106092,
+        "num": 192098,
+        "word": "点外卖竟然是警察来送餐",
+        "onboard_time": 1682426550,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231933,
+        "num": 191613,
+        "word": "长月烬明",
+        "onboard_time": 1682418146,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 190805,
+        "num": 190805,
+        "word": "公诉精英是今年总局发证的第四部剧",
+        "onboard_time": 1682433213,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183196,
+        "num": 183196,
+        "word": "范丞丞低头让张婧仪戴花环",
+        "onboard_time": 1682433270,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178304,
+        "num": 178304,
+        "word": "面试1小时发现走错反获2家公司offer",
+        "onboard_time": 1682435069,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159458,
+        "num": 159458,
+        "word": "一读就错的山东地名",
+        "onboard_time": 1682431291,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 229922,
+        "num": 152403,
+        "word": "长月烬明 阿娇",
+        "onboard_time": 1682414426,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174655,
+        "num": 151249,
+        "word": "陈翔问路人你喜欢苏醒还是我",
+        "onboard_time": 1682423849,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137855,
+        "num": 137855,
+        "word": "cp29",
+        "onboard_time": 1682432013,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134404,
+        "num": 134404,
+        "word": "男子140元买榴莲彩票亏麻了",
+        "onboard_time": 1682424927,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129303,
+        "num": 129303,
+        "word": "专家称年轻女性要学会与狼共舞",
+        "onboard_time": 1682415626,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174331,
+        "num": 127922,
+        "word": "闵玧其说李知勋像是他走失的弟弟",
+        "onboard_time": 1682433032,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143650,
+        "num": 127150,
+        "word": "金智秀裴秀智身高差",
+        "onboard_time": 1682424866,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140872,
+        "num": 126003,
+        "word": "林墨说工作室可以开实习证明",
+        "onboard_time": 1682426068,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121397,
+        "num": 121397,
+        "word": "萌兰",
+        "onboard_time": 1682435731,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119814,
+        "num": 119814,
+        "word": "婚礼上伴郎下跪求爱伴娘机智跟跪",
+        "onboard_time": 1682423006,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176820,
+        "num": 119461,
+        "word": "罗云熙唐老鸭版配音",
+        "onboard_time": 1682435249,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118682,
+        "num": 118682,
+        "word": "高铁要是提速到800公里",
+        "onboard_time": 1682407886,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116046,
+        "num": 116046,
+        "word": "文彬再次见面了",
+        "onboard_time": 1682415806,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110865,
+        "num": 110865,
+        "word": "阴阳师皮肤",
+        "onboard_time": 1682423786,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107679,
+        "num": 107679,
+        "word": "陈都灵方否认发艳压通稿",
+        "onboard_time": 1682403085,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受外国驻华大使递交国书#"
+    }
+  }
+}
