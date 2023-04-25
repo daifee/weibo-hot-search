@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682426014630,
+  "endTime": 1682426998332,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -51,7 +51,7 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 2142034,
+      "raw_hot": 2146984,
       "num": 2142034,
       "word": "女网红被丈夫杀害藏尸冰柜案宣判",
       "onboard_time": 1682420126,
@@ -187,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1114562,
+      "num": 345463,
+      "word": "奚梦瑶 你们的快乐吵到我学习了",
+      "onboard_time": 1682425767,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1107017,
       "num": 1107017,
       "word": "巴特勒太硬了",
@@ -313,6 +321,14 @@
       "onboard_time": 1682401587,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 716194,
+      "num": 716194,
+      "word": "长月烬明名场面怎么拍成这样",
+      "onboard_time": 1682424387,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 708093,
@@ -473,14 +489,6 @@
       "onboard_time": 1682387666,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 481178,
-      "num": 481178,
-      "word": "长月烬明名场面怎么拍成这样",
-      "onboard_time": 1682424387,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 480852,
@@ -817,6 +825,14 @@
       "onboard_time": 1682395589,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346134,
+      "num": 346134,
+      "word": "阿娇 悲悯感",
+      "onboard_time": 1682425827,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 344482,
@@ -1363,14 +1379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 222417,
-      "num": 222417,
-      "word": "奚梦瑶 你们的快乐吵到我学习了",
-      "onboard_time": 1682425767,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222326,
       "num": 222326,
       "word": "徐州",
@@ -1419,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217497,
+      "num": 217497,
+      "word": "全圆佑悼念文彬的信",
+      "onboard_time": 1682426731,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215548,
       "num": 215548,
       "word": "警方辟谣南京迈皋桥发生枪战",
@@ -1457,6 +1473,22 @@
       "onboard_time": 1682412085,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212460,
+      "num": 147360,
+      "word": "林墨说工作室可以开实习证明",
+      "onboard_time": 1682426068,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211263,
+      "num": 146756,
+      "word": "黎苏苏留给澹台烬的最后一句话",
+      "onboard_time": 1682426668,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 211173,
@@ -1609,6 +1641,14 @@
       "onboard_time": 1682399970,
       "rank": 41,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 197605,
+      "num": 167786,
+      "word": "金智秀裴秀智身高差",
+      "onboard_time": 1682424866,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 196849,
@@ -1827,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178225,
+      "num": 140480,
+      "word": "范丞丞好有意思一男的",
+      "onboard_time": 1682425107,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177004,
       "num": 177004,
       "word": "首批中国公民撤离苏丹画面",
@@ -1857,14 +1905,6 @@
       "onboard_time": 1682343031,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174770,
-      "num": 167786,
-      "word": "金智秀裴秀智身高差",
-      "onboard_time": 1682424866,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 173683,
@@ -2027,14 +2067,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 152311,
-      "num": 152311,
-      "word": "阿娇 悲悯感",
-      "onboard_time": 1682425827,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 151887,
       "num": 133453,
       "word": "周深电音合作曲",
@@ -2065,6 +2097,14 @@
       "onboard_time": 1682398114,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148826,
+      "num": 122829,
+      "word": "刘宪华 中国好声音导师",
+      "onboard_time": 1682426909,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 147716,
@@ -2163,12 +2203,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 140783,
-      "num": 124044,
-      "word": "范丞丞好有意思一男的",
-      "onboard_time": 1682425107,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 142295,
+      "num": 120824,
+      "word": "吴磊 大众",
+      "onboard_time": 1682426668,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139677,
+      "num": 139677,
+      "word": "暴雪回应网易起诉",
+      "onboard_time": 1682425586,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 139573,
@@ -2177,6 +2225,14 @@
       "onboard_time": 1682377639,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 137799,
+      "num": 137799,
+      "word": "ChatGPT这是你写的吗",
+      "onboard_time": 1682424024,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 137067,
@@ -2283,12 +2339,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126593,
-      "num": 126593,
-      "word": "ChatGPT这是你写的吗",
-      "onboard_time": 1682424024,
+      "raw_hot": 126380,
+      "num": 126380,
+      "word": "青岛海牛时隔十年中超首个主场",
+      "onboard_time": 1682426008,
       "rank": 38,
-      "category": "科技"
+      "category": "体育"
     },
     {
       "raw_hot": 126138,
@@ -2363,6 +2419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112190,
+      "num": 142809,
+      "word": "点外卖竟然是警察来送餐",
+      "onboard_time": 1682426550,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112035,
       "num": 122762,
       "word": "五一特种兵之旅攻略",
@@ -2435,20 +2499,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 104078,
-      "num": 104078,
-      "word": "暴雪回应网易起诉",
-      "onboard_time": 1682425586,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 102913,
       "num": 102913,
       "word": "阴阳师皮肤",
       "onboard_time": 1682423786,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102544,
+      "num": 102544,
+      "word": "男子140元买榴莲彩票亏麻了",
+      "onboard_time": 1682424927,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102265,

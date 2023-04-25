@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682426014630,
+  "endTime": 1682426998332,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1571,19 +1571,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2146984,
+      "num": 2142034,
+      "word": "女网红被丈夫杀害藏尸冰柜案宣判",
+      "onboard_time": 1682420126,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2146519,
       "num": 2146519,
       "word": "宝妈梦到儿子流血查监控见保姆动粗",
       "onboard_time": 1681610847,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2142034,
-      "num": 2142034,
-      "word": "女网红被丈夫杀害藏尸冰柜案宣判",
-      "onboard_time": 1682420126,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -5081,6 +5081,14 @@
       "onboard_time": 1681427542,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1114562,
+      "num": 345463,
+      "word": "奚梦瑶 你们的快乐吵到我学习了",
+      "onboard_time": 1682425767,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1114248,
@@ -9040,6 +9048,14 @@
       "word": "张卫健从河里捞的东西逐渐离谱了",
       "onboard_time": 1682149887,
       "rank": 13,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 716194,
+      "num": 716194,
+      "word": "长月烬明名场面怎么拍成这样",
+      "onboard_time": 1682424387,
+      "rank": 7,
       "category": "影视"
     },
     {
@@ -15025,14 +15041,6 @@
       "onboard_time": 1681132707,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 481178,
-      "num": 481178,
-      "word": "长月烬明名场面怎么拍成这样",
-      "onboard_time": 1682424387,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 480852,
@@ -21729,6 +21737,14 @@
       "onboard_time": 1680759327,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 346134,
+      "num": 346134,
+      "word": "阿娇 悲悯感",
+      "onboard_time": 1682425827,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 345997,
@@ -32219,14 +32235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 222417,
-      "num": 222417,
-      "word": "奚梦瑶 你们的快乐吵到我学习了",
-      "onboard_time": 1682425767,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222409,
       "num": 222409,
       "word": "薛之谦天外来物巡回演唱会",
@@ -32995,6 +33003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217497,
+      "num": 217497,
+      "word": "全圆佑悼念文彬的信",
+      "onboard_time": 1682426731,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217436,
       "num": 217436,
       "word": "半熟恋人2全员告白",
@@ -33723,6 +33739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212460,
+      "num": 147360,
+      "word": "林墨说工作室可以开实习证明",
+      "onboard_time": 1682426068,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212374,
       "num": 212374,
       "word": "灌篮高手 屏摄",
@@ -33921,6 +33945,14 @@
       "onboard_time": 1682071830,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211263,
+      "num": 146756,
+      "word": "黎苏苏留给澹台烬的最后一句话",
+      "onboard_time": 1682426668,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 211235,
@@ -38145,6 +38177,14 @@
       "onboard_time": 1681287087,
       "rank": 28,
       "category": "社会议题,情感"
+    },
+    {
+      "raw_hot": 197605,
+      "num": 167786,
+      "word": "金智秀裴秀智身高差",
+      "onboard_time": 1682424866,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 197599,
@@ -43523,6 +43563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178225,
+      "num": 140480,
+      "word": "范丞丞好有意思一男的",
+      "onboard_time": 1682425107,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 178217,
       "num": 178217,
       "word": "杜华现身王一博新片首映礼",
@@ -44009,14 +44057,6 @@
       "onboard_time": 1682157027,
       "rank": 6,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 174770,
-      "num": 167786,
-      "word": "金智秀裴秀智身高差",
-      "onboard_time": 1682424866,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 174769,
@@ -48203,14 +48243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152311,
-      "num": 152311,
-      "word": "阿娇 悲悯感",
-      "onboard_time": 1682425827,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 152280,
       "num": 152280,
       "word": "张艺兴公司新增体育竞赛组织业务",
@@ -48953,6 +48985,14 @@
       "onboard_time": 1680857908,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 148826,
+      "num": 122829,
+      "word": "刘宪华 中国好声音导师",
+      "onboard_time": 1682426909,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 148782,
@@ -50099,6 +50139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142295,
+      "num": 120824,
+      "word": "吴磊 大众",
+      "onboard_time": 1682426668,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142281,
       "num": 142281,
       "word": "蔡徐坤 CRYSTAL CLEAR",
@@ -50403,14 +50451,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 140783,
-      "num": 124044,
-      "word": "范丞丞好有意思一男的",
-      "onboard_time": 1682425107,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 140746,
       "num": 140746,
       "word": "森林狼季后赛对阵掘金",
@@ -50657,6 +50697,14 @@
       "onboard_time": 1682046148,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139677,
+      "num": 139677,
+      "word": "暴雪回应网易起诉",
+      "onboard_time": 1682425586,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 139573,
@@ -50929,6 +50977,14 @@
       "onboard_time": 1680944485,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137799,
+      "num": 137799,
+      "word": "ChatGPT这是你写的吗",
+      "onboard_time": 1682424024,
+      "rank": 38,
+      "category": "科技"
     },
     {
       "raw_hot": 137752,
@@ -52707,14 +52763,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126593,
-      "num": 126593,
-      "word": "ChatGPT这是你写的吗",
-      "onboard_time": 1682424024,
-      "rank": 38,
-      "category": "科技"
-    },
-    {
       "raw_hot": 126446,
       "num": 126446,
       "word": "闫伟伦家暴丁漫漫",
@@ -52737,6 +52785,14 @@
       "onboard_time": 1681546827,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126380,
+      "num": 126380,
+      "word": "青岛海牛时隔十年中超首个主场",
+      "onboard_time": 1682426008,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 126375,
@@ -54443,6 +54499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112190,
+      "num": 142809,
+      "word": "点外卖竟然是警察来送餐",
+      "onboard_time": 1682426550,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112099,
       "num": 112099,
       "word": "苏丹航空暂停国内国际航班",
@@ -55315,14 +55379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104078,
-      "num": 104078,
-      "word": "暴雪回应网易起诉",
-      "onboard_time": 1682425586,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 104067,
       "num": 104067,
       "word": "2023F1澳大利亚大奖赛排位赛",
@@ -55505,6 +55561,14 @@
       "onboard_time": 1681004846,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102544,
+      "num": 102544,
+      "word": "男子140元买榴莲彩票亏麻了",
+      "onboard_time": 1682424927,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102491,
