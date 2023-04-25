@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682408008649,
+  "endTime": 1682410918368,
   "band_list": [
     {
       "raw_hot": 2714268,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1643516,
-      "num": 1643516,
+      "raw_hot": 1686997,
+      "num": 1686997,
       "word": "陈都灵方否认发艳压通稿",
       "onboard_time": 1682403085,
       "rank": 1,
@@ -155,12 +155,36 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1070415,
+      "num": 1070415,
+      "word": "高铁要是提速到800公里",
+      "onboard_time": 1682407886,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1069213,
       "num": 1069213,
       "word": "易烊千玺雕像被涂花",
       "onboard_time": 1682380165,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1037625,
+      "num": 341281,
+      "word": "教师请病假25年退休前编制消失",
+      "onboard_time": 1682409745,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1029530,
+      "num": 1029530,
+      "word": "因为聚餐吃太多被辞退了",
+      "onboard_time": 1682408067,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 973128,
@@ -259,6 +283,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 634643,
+      "num": 312176,
+      "word": "Jennie妈妈和Lisa妈妈手拉手",
+      "onboard_time": 1682406506,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 627648,
+      "num": 627648,
+      "word": "浙D1026S你被拍下来了",
+      "onboard_time": 1682405846,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 625422,
       "num": 625422,
       "word": "99元睡大厅",
@@ -267,12 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613863,
-      "num": 613863,
-      "word": "浙D1026S你被拍下来了",
-      "onboard_time": 1682405846,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 609003,
+      "num": 301611,
+      "word": "冷屁股 屁门",
+      "onboard_time": 1682407587,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 592791,
@@ -419,12 +459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 434382,
-      "num": 271032,
-      "word": "Jennie妈妈和Lisa妈妈手拉手",
-      "onboard_time": 1682406506,
-      "rank": 30,
-      "category": "音乐"
+      "raw_hot": 434404,
+      "num": 434404,
+      "word": "巩俐再现经典裸唇",
+      "onboard_time": 1682408788,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 431981,
@@ -651,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332246,
+      "num": 178447,
+      "word": "男友送花太勤被花店婉拒了",
+      "onboard_time": 1682409505,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 328985,
       "num": 235826,
       "word": "女子离婚净身出户事后反悔要财产",
@@ -681,6 +729,14 @@
       "onboard_time": 1682341891,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323685,
+      "num": 215077,
+      "word": "杨幂郭珍霓早期合照",
+      "onboard_time": 1682410826,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 323301,
@@ -785,6 +841,14 @@
       "onboard_time": 1682343389,
       "rank": 48,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 274957,
+      "num": 214056,
+      "word": "鹿晗衬衫扣子",
+      "onboard_time": 1682409087,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274208,
@@ -1019,12 +1083,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 221372,
+      "num": 187175,
+      "word": "白鹿镜头外给罗云熙搭戏",
+      "onboard_time": 1682408604,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219477,
       "num": 219477,
       "word": "雄鹿VS热火",
       "onboard_time": 1682389047,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215490,
+      "num": 215490,
+      "word": "航空公司不再查验来华人员登机前核酸",
+      "onboard_time": 1682408128,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214288,
@@ -1041,14 +1121,6 @@
       "onboard_time": 1682354419,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 212566,
-      "num": 189749,
-      "word": "冷屁股 屁门",
-      "onboard_time": 1682407587,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 211173,
@@ -1163,6 +1235,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 196595,
+      "num": 177611,
+      "word": "田曦薇头发能不能分我一点",
+      "onboard_time": 1682410587,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196328,
       "num": 196328,
       "word": "漫长的季节开分9.0",
@@ -1217,6 +1297,14 @@
       "onboard_time": 1682400331,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191653,
+      "num": 191653,
+      "word": "ChatGPT在会计考试中不如人类",
+      "onboard_time": 1682408908,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 190917,
@@ -1289,6 +1377,14 @@
       "onboard_time": 1682338227,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 181850,
+      "num": 181850,
+      "word": "酒店涨价",
+      "onboard_time": 1682407705,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177004,
@@ -1411,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158478,
+      "num": 158478,
+      "word": "边伯贤连线粉丝抵制黄牛",
+      "onboard_time": 1682408305,
+      "rank": 34,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 156726,
       "num": 156726,
       "word": "翩然美甲掉了一个",
@@ -1441,6 +1545,14 @@
       "onboard_time": 1682398114,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147594,
+      "num": 147594,
+      "word": "长空之王近5年五一档预售冠军",
+      "onboard_time": 1682409566,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 147524,
@@ -1531,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139084,
+      "num": 136845,
+      "word": "张若昀红发",
+      "onboard_time": 1682410887,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 137067,
       "num": 137067,
       "word": "食物变质信号",
@@ -1579,6 +1699,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 132852,
+      "num": 132852,
+      "word": "范丞丞张婧仪直播状态",
+      "onboard_time": 1682410526,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132196,
       "num": 132196,
       "word": "肖战如梦之梦怼脸镜头",
@@ -1611,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125126,
+      "num": 125126,
+      "word": "领导给100元让我带饭一周",
+      "onboard_time": 1682410707,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124524,
       "num": 510481,
       "word": "张朝阳物理学解构折叠屏",
@@ -1625,6 +1761,14 @@
       "onboard_time": 1682332467,
       "rank": 43,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 120465,
+      "num": 120465,
+      "word": "爸爸吃饼卡喉15岁女儿1分钟救回",
+      "onboard_time": 1682410767,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120139,
@@ -1651,14 +1795,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 115713,
-      "num": 128042,
-      "word": "高铁要是提速到800公里",
-      "onboard_time": 1682407886,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112221,
       "num": 112221,
       "word": "李现以前的文案",
@@ -1673,14 +1809,6 @@
       "onboard_time": 1682334388,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 109775,
-      "num": 109775,
-      "word": "酒店涨价",
-      "onboard_time": 1682407705,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108554,
@@ -1777,6 +1905,14 @@
       "onboard_time": 1682397993,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 84868,
+      "num": 113597,
+      "word": "明日方舟",
+      "onboard_time": 1682408547,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 77410,

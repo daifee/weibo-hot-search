@@ -1,0 +1,410 @@
+{
+  "runTime": 1682410918368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1686997,
+        "num": 1686997,
+        "word": "陈都灵方否认发艳压通稿",
+        "onboard_time": 1682403085,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1150302,
+        "num": 1150302,
+        "word": "B太 徐州烧烤",
+        "onboard_time": 1682399729,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 55464,
+        "num": 1084937,
+        "word": "这个答案写满中国航天的自信和底气",
+        "onboard_time": 1682395950,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070415,
+        "num": 1070415,
+        "word": "高铁要是提速到800公里",
+        "onboard_time": 1682407886,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1029530,
+        "num": 1029530,
+        "word": "因为聚餐吃太多被辞退了",
+        "onboard_time": 1682408067,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 627648,
+        "num": 627648,
+        "word": "浙D1026S你被拍下来了",
+        "onboard_time": 1682405846,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616741,
+        "num": 616741,
+        "word": "腺样体面容",
+        "onboard_time": 1682394748,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477316,
+        "num": 477316,
+        "word": "被全网黑但逆风翻盘的明星",
+        "onboard_time": 1682394568,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434404,
+        "num": 434404,
+        "word": "巩俐再现经典裸唇",
+        "onboard_time": 1682408788,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 369043,
+        "num": 369043,
+        "word": "刘宪华回向往的生活了",
+        "onboard_time": 1682401587,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1344265,
+        "num": 363345,
+        "word": "张一山 袜子",
+        "onboard_time": 1682401887,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1037625,
+        "num": 341281,
+        "word": "教师请病假25年退休前编制消失",
+        "onboard_time": 1682409745,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 701174,
+        "num": 337110,
+        "word": "戚薇刮刮乐中奖",
+        "onboard_time": 1682397030,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634643,
+        "num": 312176,
+        "word": "Jennie妈妈和Lisa妈妈手拉手",
+        "onboard_time": 1682406506,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310508,
+        "num": 310508,
+        "word": "卫健委回应从车展回来核酸阳性",
+        "onboard_time": 1682405425,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609003,
+        "num": 301611,
+        "word": "冷屁股 屁门",
+        "onboard_time": 1682407587,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 565481,
+        "num": 298566,
+        "word": "霍思燕否认嗯哼是腺样体面容",
+        "onboard_time": 1682392465,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285317,
+        "num": 285317,
+        "word": "曾经的朋友成为了明星",
+        "onboard_time": 1682393008,
+        "rank": 17,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 245968,
+        "num": 245968,
+        "word": "头像暗示法",
+        "onboard_time": 1682405127,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215490,
+        "num": 215490,
+        "word": "航空公司不再查验来华人员登机前核酸",
+        "onboard_time": 1682408128,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323685,
+        "num": 215077,
+        "word": "杨幂郭珍霓早期合照",
+        "onboard_time": 1682410826,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274957,
+        "num": 214056,
+        "word": "鹿晗衬衫扣子",
+        "onboard_time": 1682409087,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211104,
+        "num": 211104,
+        "word": "上海杭州之间或将建世界首条超级高铁",
+        "onboard_time": 1682403687,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197261,
+        "num": 197261,
+        "word": "女子离婚净身出户事后反悔要财产",
+        "onboard_time": 1682403986,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191653,
+        "num": 191653,
+        "word": "ChatGPT在会计考试中不如人类",
+        "onboard_time": 1682408908,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 268373,
+        "num": 187330,
+        "word": "易烊千玺的鞋跟",
+        "onboard_time": 1682404107,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221372,
+        "num": 187175,
+        "word": "白鹿镜头外给罗云熙搭戏",
+        "onboard_time": 1682408604,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212459,
+        "num": 186405,
+        "word": "爱奇艺回应下架灌篮高手国语版",
+        "onboard_time": 1682402487,
+        "rank": 27,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 181850,
+        "num": 181850,
+        "word": "酒店涨价",
+        "onboard_time": 1682407705,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180223,
+        "num": 180223,
+        "word": "某公司给员工放假玩游戏",
+        "onboard_time": 1682404226,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332246,
+        "num": 178447,
+        "word": "男友送花太勤被花店婉拒了",
+        "onboard_time": 1682409505,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196595,
+        "num": 177611,
+        "word": "田曦薇头发能不能分我一点",
+        "onboard_time": 1682410587,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175258,
+        "num": 175258,
+        "word": "长月烬明今晚超大悲",
+        "onboard_time": 1682397871,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172142,
+        "num": 172142,
+        "word": "灌篮高手遭遇史上最严重屏摄",
+        "onboard_time": 1682396669,
+        "rank": 33,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 158478,
+        "num": 158478,
+        "word": "边伯贤连线粉丝抵制黄牛",
+        "onboard_time": 1682408305,
+        "rank": 34,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 154924,
+        "num": 154924,
+        "word": "婴儿高铁上哭闹女子和宝妈对骂",
+        "onboard_time": 1682381907,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147594,
+        "num": 147594,
+        "word": "长空之王近5年五一档预售冠军",
+        "onboard_time": 1682409566,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144140,
+        "num": 144140,
+        "word": "张云龙 竹业男主",
+        "onboard_time": 1682400926,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141495,
+        "num": 141495,
+        "word": "当把萌兰介绍给单身闺蜜时",
+        "onboard_time": 1682397092,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136859,
+        "num": 136859,
+        "word": "詹姆斯",
+        "onboard_time": 1682398891,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139084,
+        "num": 136845,
+        "word": "张若昀红发",
+        "onboard_time": 1682410887,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136769,
+        "num": 136769,
+        "word": "怎么坐才不伤腰",
+        "onboard_time": 1682406086,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132852,
+        "num": 132852,
+        "word": "范丞丞张婧仪直播状态",
+        "onboard_time": 1682410526,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 126105,
+        "num": 126105,
+        "word": "王源说支持千玺全新专辑刘艳芬",
+        "onboard_time": 1682394930,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125126,
+        "num": 125126,
+        "word": "领导给100元让我带饭一周",
+        "onboard_time": 1682410707,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120465,
+        "num": 120465,
+        "word": "爸爸吃饼卡喉15岁女儿1分钟救回",
+        "onboard_time": 1682410767,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120249,
+        "num": 120249,
+        "word": "千万不要在地铁上看恐怖片",
+        "onboard_time": 1682395114,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119525,
+        "num": 119525,
+        "word": "徐明浩孙悟空造型路透",
+        "onboard_time": 1682404708,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84868,
+        "num": 113597,
+        "word": "明日方舟",
+        "onboard_time": 1682408547,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61499,
+        "num": 113366,
+        "word": "KPL春季赛十一周最佳阵容",
+        "onboard_time": 1682399609,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国星辰#"
+    }
+  }
+}
