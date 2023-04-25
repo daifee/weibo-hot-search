@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682428856170,
+  "endTime": 1682429610946,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2032493,
+      "num": 345463,
+      "word": "奚梦瑶 你们的快乐吵到我学习了",
+      "onboard_time": 1682425767,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1974616,
       "num": 426603,
       "word": "何猷君 科切拉",
@@ -163,19 +171,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1901574,
-      "num": 345463,
-      "word": "奚梦瑶 你们的快乐吵到我学习了",
-      "onboard_time": 1682425767,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1821082,
       "num": 1821082,
       "word": "腺样体面容",
       "onboard_time": 1682394748,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1749466,
+      "num": 1749466,
+      "word": "这竟然是彭昱畅",
+      "onboard_time": 1682427090,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -201,14 +209,6 @@
       "onboard_time": 1682368750,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1695361,
-      "num": 1695361,
-      "word": "这竟然是彭昱畅",
-      "onboard_time": 1682427090,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1688299,
@@ -419,8 +419,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1121276,
-      "num": 273595,
+      "raw_hot": 1168289,
+      "num": 282285,
       "word": "刘涛 韩素希",
       "onboard_time": 1682425638,
       "rank": 19,
@@ -496,6 +496,14 @@
       "word": "林心如和女儿视频通话",
       "onboard_time": 1682338709,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 986404,
+      "num": 986404,
+      "word": "刘宪华 中国好声音导师",
+      "onboard_time": 1682426909,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -643,20 +651,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 761361,
+      "num": 761361,
+      "word": "四月底HR才开始急了",
+      "onboard_time": 1682420186,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 756103,
       "num": 756103,
       "word": "丫丫将回国",
       "onboard_time": 1682297069,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756002,
-      "num": 756002,
-      "word": "刘宪华 中国好声音导师",
-      "onboard_time": 1682426909,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 743038,
@@ -729,14 +737,6 @@
       "onboard_time": 1682405846,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 626493,
-      "num": 626493,
-      "word": "四月底HR才开始急了",
-      "onboard_time": 1682420186,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 625422,
@@ -1315,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423922,
+      "num": 308283,
+      "word": "戚薇早期跟Lucky很像",
+      "onboard_time": 1682420847,
+      "rank": 31,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 423587,
       "num": 423587,
       "word": "拉塞尔",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1682417728,
       "rank": 34,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 421857,
+      "num": 212382,
+      "word": "吴磊 大众",
+      "onboard_time": 1682426668,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 421411,
@@ -1491,14 +1507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 377777,
-      "num": 308283,
-      "word": "戚薇早期跟Lucky很像",
-      "onboard_time": 1682420847,
-      "rank": 31,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 376823,
       "num": 376823,
       "word": "老师上课被学生从背后扇并挑衅",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1682421925,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 368599,
-      "num": 189531,
-      "word": "吴磊 大众",
-      "onboard_time": 1682426668,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 366065,
@@ -1659,6 +1659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 346098,
+      "num": 346098,
+      "word": "点外卖竟然是警察来送餐",
+      "onboard_time": 1682426550,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345997,
       "num": 345997,
       "word": "全世界除了滔博都笑的很开心",
@@ -1771,6 +1779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327825,
+      "num": 176832,
+      "word": "黎苏苏留给澹台烬的最后一句话",
+      "onboard_time": 1682426668,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 326337,
       "num": 326337,
       "word": "为什么女生旅个游这么难",
@@ -1835,14 +1851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321474,
-      "num": 321474,
-      "word": "点外卖竟然是警察来送餐",
-      "onboard_time": 1682426550,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321381,
       "num": 321381,
       "word": "第一批在苏中国公民已安全撤至邻国",
@@ -1873,14 +1881,6 @@
       "onboard_time": 1682330725,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 317883,
-      "num": 176832,
-      "word": "黎苏苏留给澹台烬的最后一句话",
-      "onboard_time": 1682426668,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 317824,
@@ -2075,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288163,
+      "num": 173304,
+      "word": "林墨说工作室可以开实习证明",
+      "onboard_time": 1682426068,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286274,
       "num": 286274,
       "word": "你非常喜欢却停产的东西",
@@ -2097,14 +2105,6 @@
       "onboard_time": 1682391806,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 284708,
-      "num": 173304,
-      "word": "林墨说工作室可以开实习证明",
-      "onboard_time": 1682426068,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 284236,
@@ -2395,6 +2395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253734,
+      "num": 164313,
+      "word": "22岁白人男演员12次整形手术后死亡",
+      "onboard_time": 1682427809,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253082,
       "num": 253082,
       "word": "女性如何更好的享受两性关系",
@@ -2659,6 +2667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225518,
+      "num": 163160,
+      "word": "看着不体面但很赚钱的工作",
+      "onboard_time": 1682428589,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224599,
       "num": 224599,
       "word": "C位烫河南人脚",
@@ -2785,6 +2801,14 @@
       "onboard_time": 1682389047,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218558,
+      "num": 167786,
+      "word": "金智秀裴秀智身高差",
+      "onboard_time": 1682424866,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 217837,
@@ -2955,14 +2979,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 205543,
-      "num": 167786,
-      "word": "金智秀裴秀智身高差",
-      "onboard_time": 1682424866,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205339,
       "num": 205339,
       "word": "友情内耗",
@@ -3009,14 +3025,6 @@
       "onboard_time": 1682418986,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203488,
-      "num": 122712,
-      "word": "22岁白人男演员12次整形手术后死亡",
-      "onboard_time": 1682427809,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203208,
@@ -3540,7 +3548,7 @@
     },
     {
       "raw_hot": 178225,
-      "num": 140480,
+      "num": 154724,
       "word": "范丞丞好有意思一男的",
       "onboard_time": 1682425107,
       "rank": 40,
@@ -3811,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160924,
+      "num": 156409,
+      "word": "易烊千玺呆毛",
+      "onboard_time": 1682429430,
+      "rank": 31,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 160827,
       "num": 160827,
       "word": "职场里需要在意别人看法吗",
@@ -3843,6 +3859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158835,
+      "num": 158835,
+      "word": "男子140元买榴莲彩票亏麻了",
+      "onboard_time": 1682424927,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158625,
       "num": 158625,
       "word": "离职之后被领导暖到了",
@@ -3857,14 +3881,6 @@
       "onboard_time": 1682316088,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158365,
-      "num": 158365,
-      "word": "男子140元买榴莲彩票亏麻了",
-      "onboard_time": 1682424927,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158323,
@@ -4195,6 +4211,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 137255,
+      "num": 154947,
+      "word": "喜欢夏天的有福了",
+      "onboard_time": 1682429190,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137067,
       "num": 137067,
       "word": "食物变质信号",
@@ -4513,14 +4537,6 @@
       "onboard_time": 1682334507,
       "rank": 14,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 110937,
-      "num": 110937,
-      "word": "看着不体面但很赚钱的工作",
-      "onboard_time": 1682428589,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 110714,
