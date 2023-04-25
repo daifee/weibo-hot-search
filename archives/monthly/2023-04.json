@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682399786974,
+  "endTime": 1682400816710,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2939,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1596610,
+      "num": 1596610,
+      "word": "B太 徐州烧烤",
+      "onboard_time": 1682399729,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1592909,
       "num": 1592909,
       "word": "曲婉婷名下两套房产被法拍",
@@ -3667,6 +3675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1416075,
+      "num": 538129,
+      "word": "戚薇刮刮乐中奖",
+      "onboard_time": 1682397030,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1415735,
       "num": 1415735,
       "word": "赵丽颖 白玉兰",
@@ -4264,14 +4280,6 @@
       "word": "徐良回应消失的三年",
       "onboard_time": 1680926909,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1269892,
-      "num": 538129,
-      "word": "戚薇刮刮乐中奖",
-      "onboard_time": 1682397030,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -17803,6 +17811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414361,
+      "num": 414361,
+      "word": "湖人战胜灰熊",
+      "onboard_time": 1681686982,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414354,
       "num": 414354,
       "word": "NewJeans新曲Zero",
@@ -18280,6 +18296,14 @@
       "word": "今天是安欣48岁生日",
       "onboard_time": 1681822829,
       "rank": 18,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 404304,
+      "num": 404304,
+      "word": "罗云熙一字马坐姿",
+      "onboard_time": 1682398768,
+      "rank": 17,
       "category": "影视"
     },
     {
@@ -19531,14 +19555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380905,
-      "num": 380905,
-      "word": "湖人战胜灰熊",
-      "onboard_time": 1681686982,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 380827,
       "num": 380827,
       "word": "李健音乐节",
@@ -20299,14 +20315,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 364974,
-      "num": 364974,
-      "word": "罗云熙一字马坐姿",
-      "onboard_time": 1682398768,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 364422,
       "num": 330419,
       "word": "鞠婧祎晒宫脇咲良To签专辑",
@@ -20900,7 +20908,7 @@
     },
     {
       "raw_hot": 354919,
-      "num": 288322,
+      "num": 305120,
       "word": "王源说支持千玺全新专辑刘艳芬",
       "onboard_time": 1682394930,
       "rank": 31,
@@ -20908,7 +20916,7 @@
     },
     {
       "raw_hot": 354876,
-      "num": 285987,
+      "num": 328583,
       "word": "内娱无代餐的演员",
       "onboard_time": 1682397393,
       "rank": 22,
@@ -22883,6 +22891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323301,
+      "num": 323301,
+      "word": "詹姆斯绝平",
+      "onboard_time": 1682399729,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323249,
       "num": 323249,
       "word": "王嘉尔二登科切拉",
@@ -23907,6 +23923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 307581,
+      "num": 307581,
+      "word": "梁静茹说看去有风的地方哭得一塌糊涂",
+      "onboard_time": 1682398592,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 307473,
       "num": 307473,
       "word": "杨贤硕二审被求判刑三年",
@@ -24649,14 +24673,6 @@
       "onboard_time": 1681610486,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296066,
-      "num": 257694,
-      "word": "梁静茹说看去有风的地方哭得一塌糊涂",
-      "onboard_time": 1682398592,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 296063,
@@ -30163,6 +30179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235082,
+      "num": 235082,
+      "word": "跳槽即涨薪的时代",
+      "onboard_time": 1682398651,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234950,
       "num": 234950,
       "word": "原来这是老天在对我调休",
@@ -31555,6 +31579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223412,
+      "num": 223412,
+      "word": "南京迈皋桥",
+      "onboard_time": 1682399609,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 223375,
       "num": 223375,
       "word": "杨紫琼获戛纳电影节跃动她影奖",
@@ -31705,6 +31737,14 @@
       "onboard_time": 1680854249,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222326,
+      "num": 222326,
+      "word": "徐州",
+      "onboard_time": 1682399910,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222101,
@@ -32897,6 +32937,14 @@
       "onboard_time": 1680506070,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213904,
+      "num": 213904,
+      "word": "官方通报徐州出租车绕路还反向抹零",
+      "onboard_time": 1682400448,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213836,
@@ -34273,6 +34321,14 @@
       "onboard_time": 1681531166,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207119,
+      "num": 207119,
+      "word": "不太健康的习惯 穷思竭虑",
+      "onboard_time": 1682397934,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 207103,
@@ -36275,14 +36331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 201461,
-      "num": 201461,
-      "word": "B太 徐州烧烤",
-      "onboard_time": 1682399729,
-      "rank": 33,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 201454,
       "num": 201454,
       "word": "切尔西主帅波特下课",
@@ -37497,6 +37545,14 @@
       "onboard_time": 1680320789,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 197701,
+      "num": 197701,
+      "word": "开不起玩笑的言外之意",
+      "onboard_time": 1682399970,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 197683,
@@ -39481,6 +39537,14 @@
       "onboard_time": 1680322711,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191706,
+      "num": 191706,
+      "word": "詹姆斯22分20篮板",
+      "onboard_time": 1682400331,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 191684,
@@ -41505,14 +41569,6 @@
       "onboard_time": 1681989507,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 184661,
-      "num": 184661,
-      "word": "不太健康的习惯 穷思竭虑",
-      "onboard_time": 1682397934,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 184626,
@@ -44035,14 +44091,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 170395,
-      "num": 170395,
-      "word": "跳槽即涨薪的时代",
-      "onboard_time": 1682398651,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 170356,
       "num": 170356,
       "word": "周雨彤沙滩随拍",
@@ -45651,14 +45699,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 162108,
-      "num": 162108,
-      "word": "詹姆斯绝平",
-      "onboard_time": 1682399729,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162082,
       "num": 162082,
       "word": "爱情而已收官",
@@ -45881,14 +45921,6 @@
       "onboard_time": 1681700185,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160871,
-      "num": 160871,
-      "word": "南京迈皋桥",
-      "onboard_time": 1682399609,
-      "rank": 46,
-      "category": "社会负面"
     },
     {
       "raw_hot": 160864,
@@ -46289,6 +46321,14 @@
       "onboard_time": 1680690450,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158927,
+      "num": 158927,
+      "word": "当把萌兰介绍给单身闺蜜时",
+      "onboard_time": 1682397092,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 158898,
@@ -48017,6 +48057,14 @@
       "onboard_time": 1680750987,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 149326,
+      "num": 424318,
+      "word": "成都今天闪爆了",
+      "onboard_time": 1682398114,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149303,

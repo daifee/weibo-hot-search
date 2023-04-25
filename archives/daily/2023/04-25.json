@@ -1,6 +1,6 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682399786974,
+  "endTime": 1682400816710,
   "band_list": [
     {
       "raw_hot": 2714268,
@@ -67,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1596610,
+      "num": 1596610,
+      "word": "B太 徐州烧烤",
+      "onboard_time": 1682399729,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1504214,
       "num": 1504214,
       "word": "曾经的朋友成为了明星",
@@ -83,7 +91,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1269892,
+      "raw_hot": 1416075,
       "num": 538129,
       "word": "戚薇刮刮乐中奖",
       "onboard_time": 1682397030,
@@ -387,6 +395,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 414361,
+      "num": 414361,
+      "word": "湖人战胜灰熊",
+      "onboard_time": 1682399551,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 404304,
+      "num": 404304,
+      "word": "罗云熙一字马坐姿",
+      "onboard_time": 1682398768,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 392777,
       "num": 392777,
       "word": "孙珍妮的文笔",
@@ -435,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 364974,
-      "num": 364974,
-      "word": "罗云熙一字马坐姿",
-      "onboard_time": 1682398768,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 362498,
       "num": 288702,
       "word": "长月烬明今晚超大悲",
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 354919,
-      "num": 288322,
+      "num": 305120,
       "word": "王源说支持千玺全新专辑刘艳芬",
       "onboard_time": 1682394930,
       "rank": 31,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 354876,
-      "num": 285987,
+      "num": 328583,
       "word": "内娱无代餐的演员",
       "onboard_time": 1682397393,
       "rank": 22,
@@ -571,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323301,
+      "num": 323301,
+      "word": "詹姆斯绝平",
+      "onboard_time": 1682399729,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323020,
       "num": 226682,
       "word": "拿破仑一世鼻烟盒亮相山东",
@@ -603,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 307581,
+      "num": 307581,
+      "word": "梁静茹说看去有风的地方哭得一塌糊涂",
+      "onboard_time": 1682398592,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 300835,
       "num": 245156,
       "word": "辛云来冷脸",
@@ -625,22 +657,6 @@
       "onboard_time": 1682346451,
       "rank": 7,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 296066,
-      "num": 257694,
-      "word": "梁静茹说看去有风的地方哭得一塌糊涂",
-      "onboard_time": 1682398592,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 289349,
-      "num": 289349,
-      "word": "湖人战胜灰熊",
-      "onboard_time": 1682399551,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 284774,
@@ -787,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235082,
+      "num": 235082,
+      "word": "跳槽即涨薪的时代",
+      "onboard_time": 1682398651,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227817,
       "num": 227817,
       "word": "四六级查分",
@@ -811,12 +835,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223412,
+      "num": 223412,
+      "word": "南京迈皋桥",
+      "onboard_time": 1682399609,
+      "rank": 46,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 222993,
       "num": 222993,
       "word": "出去玩发朋友圈要屏蔽同事吗",
       "onboard_time": 1682380466,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222326,
+      "num": 222326,
+      "word": "徐州",
+      "onboard_time": 1682399910,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222019,
@@ -859,6 +899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213904,
+      "num": 213904,
+      "word": "官方通报徐州出租车绕路还反向抹零",
+      "onboard_time": 1682400448,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211173,
       "num": 211173,
       "word": "朱一龙作品回报率",
@@ -891,6 +939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207119,
+      "num": 207119,
+      "word": "不太健康的习惯 穷思竭虑",
+      "onboard_time": 1682397934,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 206773,
       "num": 206773,
       "word": "你的四六级考了几次",
@@ -913,14 +969,6 @@
       "onboard_time": 1682392825,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201461,
-      "num": 201461,
-      "word": "B太 徐州烧烤",
-      "onboard_time": 1682399729,
-      "rank": 33,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 201334,
@@ -947,12 +995,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199420,
+      "num": 199420,
+      "word": "女子推理社",
+      "onboard_time": 1682400388,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198500,
       "num": 198500,
       "word": "卢沙野",
       "onboard_time": 1682387186,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 197701,
+      "num": 197701,
+      "word": "开不起玩笑的言外之意",
+      "onboard_time": 1682399970,
+      "rank": 41,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 196328,
@@ -993,6 +1057,14 @@
       "onboard_time": 1682388508,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191706,
+      "num": 191706,
+      "word": "詹姆斯22分20篮板",
+      "onboard_time": 1682400331,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 190917,
@@ -1041,14 +1113,6 @@
       "onboard_time": 1682350587,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184661,
-      "num": 184661,
-      "word": "不太健康的习惯 穷思竭虑",
-      "onboard_time": 1682397934,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 183666,
@@ -1115,14 +1179,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170395,
-      "num": 170395,
-      "word": "跳槽即涨薪的时代",
-      "onboard_time": 1682398651,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169481,
       "num": 169481,
       "word": "程嘉树名字含义",
@@ -1163,28 +1219,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 162108,
-      "num": 162108,
-      "word": "詹姆斯绝平",
-      "onboard_time": 1682399729,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 160871,
-      "num": 160871,
-      "word": "南京迈皋桥",
-      "onboard_time": 1682399609,
-      "rank": 46,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 159981,
       "num": 159981,
       "word": "KPL春季赛十一周最佳阵容",
       "onboard_time": 1682399609,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158927,
+      "num": 158927,
+      "word": "当把萌兰介绍给单身闺蜜时",
+      "onboard_time": 1682397092,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 156726,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1682391266,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149326,
+      "num": 424318,
+      "word": "成都今天闪爆了",
+      "onboard_time": 1682398114,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147015,

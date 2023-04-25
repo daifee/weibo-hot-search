@@ -1,0 +1,410 @@
+{
+  "runTime": 1682400816710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617952,
+        "num": 1617952,
+        "word": "腺样体面容",
+        "onboard_time": 1682394748,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1596610,
+        "num": 1596610,
+        "word": "B太 徐州烧烤",
+        "onboard_time": 1682399729,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 82003,
+        "num": 1455274,
+        "word": "这个答案写满中国航天的自信和底气",
+        "onboard_time": 1682395950,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2277067,
+        "num": 1449001,
+        "word": "被全网黑但逆风翻盘的明星",
+        "onboard_time": 1682394568,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1421284,
+        "num": 1421284,
+        "word": "郭珍霓",
+        "onboard_time": 1682396252,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1060563,
+        "num": 1060563,
+        "word": "曾经的朋友成为了明星",
+        "onboard_time": 1682393008,
+        "rank": 5,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 888680,
+        "num": 888680,
+        "word": "詹姆斯",
+        "onboard_time": 1682398891,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 809546,
+        "num": 809546,
+        "word": "婴儿高铁上哭闹女子和宝妈对骂",
+        "onboard_time": 1682381907,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611085,
+        "num": 611085,
+        "word": "为什么读了研也找不到工作",
+        "onboard_time": 1682378784,
+        "rank": 8,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 538873,
+        "num": 538873,
+        "word": "千万不要在地铁上看恐怖片",
+        "onboard_time": 1682395114,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1676668,
+        "num": 529473,
+        "word": "霍思燕否认嗯哼是腺样体面容",
+        "onboard_time": 1682392465,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1416075,
+        "num": 516178,
+        "word": "戚薇刮刮乐中奖",
+        "onboard_time": 1682397030,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500823,
+        "num": 500823,
+        "word": "易烊千玺新专辑刘艳芬",
+        "onboard_time": 1682389466,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 482055,
+        "num": 482055,
+        "word": "灌篮高手遭遇史上最严重屏摄",
+        "onboard_time": 1682396669,
+        "rank": 13,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 149326,
+        "num": 424318,
+        "word": "成都今天闪爆了",
+        "onboard_time": 1682398114,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414361,
+        "num": 414361,
+        "word": "湖人战胜灰熊",
+        "onboard_time": 1682399551,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404304,
+        "num": 404304,
+        "word": "罗云熙一字马坐姿",
+        "onboard_time": 1682398768,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 402215,
+        "num": 402215,
+        "word": "内娱选秀团全部解散",
+        "onboard_time": 1682382987,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328583,
+        "num": 328583,
+        "word": "内娱无代餐的演员",
+        "onboard_time": 1682397393,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 323301,
+        "num": 323301,
+        "word": "詹姆斯绝平",
+        "onboard_time": 1682399729,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321937,
+        "num": 321937,
+        "word": "路人凭狗认出赵露思",
+        "onboard_time": 1682378962,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307581,
+        "num": 307581,
+        "word": "梁静茹说看去有风的地方哭得一塌糊涂",
+        "onboard_time": 1682398592,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 305120,
+        "num": 305120,
+        "word": "王源说支持千玺全新专辑刘艳芬",
+        "onboard_time": 1682394930,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279445,
+        "num": 279445,
+        "word": "中国高铁座椅不只有靠背",
+        "onboard_time": 1682390306,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260345,
+        "num": 260345,
+        "word": "拉塞尔",
+        "onboard_time": 1682393368,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284633,
+        "num": 260123,
+        "word": "Billlie将暂时以6人体制活动",
+        "onboard_time": 1682396131,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283885,
+        "num": 257343,
+        "word": "长月烬明今晚超大悲",
+        "onboard_time": 1682397871,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235936,
+        "num": 235936,
+        "word": "闺蜜买走了我的垃圾小说",
+        "onboard_time": 1682393128,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235082,
+        "num": 235082,
+        "word": "跳槽即涨薪的时代",
+        "onboard_time": 1682398651,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167873,
+        "num": 224739,
+        "word": "被商场跳楼男子砸伤女孩仍在ICU",
+        "onboard_time": 1682391746,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265065,
+        "num": 224511,
+        "word": "突然知道什么是媚骨天成了",
+        "onboard_time": 1682383950,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256339,
+        "num": 224118,
+        "word": "伍佰赚钱比曾毅还轻松",
+        "onboard_time": 1682396371,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223412,
+        "num": 223412,
+        "word": "南京迈皋桥",
+        "onboard_time": 1682399609,
+        "rank": 32,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 222326,
+        "num": 222326,
+        "word": "徐州",
+        "onboard_time": 1682399910,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213904,
+        "num": 213904,
+        "word": "官方通报徐州出租车绕路还反向抹零",
+        "onboard_time": 1682400448,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211557,
+        "num": 211557,
+        "word": "BLACKPINK巡演收入",
+        "onboard_time": 1682389706,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207119,
+        "num": 207119,
+        "word": "不太健康的习惯 穷思竭虑",
+        "onboard_time": 1682397934,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 202379,
+        "num": 202379,
+        "word": "女孩家属回应男子跳楼砸伤其女儿",
+        "onboard_time": 1682395589,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199420,
+        "num": 199420,
+        "word": "女子推理社",
+        "onboard_time": 1682400388,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46839,
+        "num": 198550,
+        "word": "张朝阳物理学解构折叠屏",
+        "onboard_time": 1682392526,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198200,
+        "num": 198200,
+        "word": "王俊凯 一起来听千玺的新专辑",
+        "onboard_time": 1682392407,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197701,
+        "num": 197701,
+        "word": "开不起玩笑的言外之意",
+        "onboard_time": 1682399970,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191706,
+        "num": 191706,
+        "word": "詹姆斯22分20篮板",
+        "onboard_time": 1682400331,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167874,
+        "num": 167874,
+        "word": "巴特勒太硬了",
+        "onboard_time": 1682388864,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164839,
+        "num": 164839,
+        "word": "五一三倍工资你会选择加班吗",
+        "onboard_time": 1682390365,
+        "rank": 44,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 158927,
+        "num": 158927,
+        "word": "当把萌兰介绍给单身闺蜜时",
+        "onboard_time": 1682397092,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158453,
+        "num": 158453,
+        "word": "四六级对找工作帮助大吗",
+        "onboard_time": 1682382509,
+        "rank": 46,
+        "category": "教育,社会议题"
+      },
+      {
+        "raw_hot": 128895,
+        "num": 151269,
+        "word": "GQ道歉",
+        "onboard_time": 1682381427,
+        "rank": 47,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 114910,
+        "num": 146733,
+        "word": "KPL春季赛十一周最佳阵容",
+        "onboard_time": 1682399609,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65360,
+        "num": 146442,
+        "word": "国外纪念品90%来自中国制造",
+        "onboard_time": 1682397993,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国星辰#"
+    }
+  }
+}
