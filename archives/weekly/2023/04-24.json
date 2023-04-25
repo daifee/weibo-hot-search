@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682406965136,
+  "endTime": 1682408008649,
   "band_list": [
     {
       "raw_hot": 3719294,
@@ -195,6 +195,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1643516,
+      "num": 1643516,
+      "word": "陈都灵方否认发艳压通稿",
+      "onboard_time": 1682403085,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1634401,
+      "num": 415147,
+      "word": "张一山 袜子",
+      "onboard_time": 1682401887,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1604978,
       "num": 1604978,
       "word": "郭珍霓",
@@ -209,14 +225,6 @@
       "onboard_time": 1682309731,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1567546,
-      "num": 1567546,
-      "word": "陈都灵方否认发艳压通稿",
-      "onboard_time": 1682403085,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1562905,
@@ -265,14 +273,6 @@
       "onboard_time": 1682320708,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1494294,
-      "num": 415147,
-      "word": "张一山 袜子",
-      "onboard_time": 1682401887,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1484914,
@@ -555,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 729640,
+      "num": 729640,
+      "word": "卫健委回应从车展回来核酸阳性",
+      "onboard_time": 1682405425,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717445,
       "num": 717445,
       "word": "刘宪华回向往的生活了",
@@ -569,14 +577,6 @@
       "onboard_time": 1682263175,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 698024,
-      "num": 698024,
-      "word": "卫健委回应从车展回来核酸阳性",
-      "onboard_time": 1682405425,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 677518,
@@ -608,6 +608,14 @@
       "word": "99元睡大厅",
       "onboard_time": 1682386765,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 613863,
+      "num": 613863,
+      "word": "浙D1026S你被拍下来了",
+      "onboard_time": 1682405846,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1059,6 +1067,14 @@
       "category": "综艺,幽默"
     },
     {
+      "raw_hot": 434382,
+      "num": 271032,
+      "word": "Jennie妈妈和Lisa妈妈手拉手",
+      "onboard_time": 1682406506,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 431981,
       "num": 431981,
       "word": "巴特勒56分",
@@ -1227,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388207,
+      "num": 276315,
+      "word": "爱奇艺回应下架灌篮高手国语版",
+      "onboard_time": 1682402487,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 386287,
       "num": 1483397,
       "word": "浙江小学生看到罂粟报警",
@@ -1267,20 +1291,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 375587,
+      "num": 291824,
+      "word": "易烊千玺的鞋跟",
+      "onboard_time": 1682404107,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 366065,
       "num": 343663,
       "word": "河边的错误",
       "onboard_time": 1682378002,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 363169,
-      "num": 291824,
-      "word": "易烊千玺的鞋跟",
-      "onboard_time": 1682404107,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 362498,
@@ -1467,6 +1491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 328985,
+      "num": 235826,
+      "word": "女子离婚净身出户事后反悔要财产",
+      "onboard_time": 1682403986,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328022,
       "num": 328022,
       "word": "爱奇艺 灌篮高手",
@@ -1619,6 +1651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 313166,
+      "num": 313166,
+      "word": "上海杭州之间或将建世界首条超级高铁",
+      "onboard_time": 1682403687,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310349,
       "num": 310349,
       "word": "全世界除了滔搏都笑的很开心",
@@ -1667,14 +1707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 303108,
-      "num": 235826,
-      "word": "女子离婚净身出户事后反悔要财产",
-      "onboard_time": 1682403986,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300835,
       "num": 245156,
       "word": "辛云来冷脸",
@@ -1705,14 +1737,6 @@
       "onboard_time": 1682326348,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 295299,
-      "num": 295299,
-      "word": "浙D1026S你被拍下来了",
-      "onboard_time": 1682405846,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292956,
@@ -1803,22 +1827,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 276315,
-      "num": 276315,
-      "word": "爱奇艺回应下架灌篮高手国语版",
-      "onboard_time": 1682402487,
-      "rank": 36,
-      "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 274839,
-      "num": 274839,
-      "word": "上海杭州之间或将建世界首条超级高铁",
-      "onboard_time": 1682403687,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274625,
       "num": 274625,
       "word": "故宫 抢票",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1682294848,
       "rank": 22,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 265632,
+      "num": 265632,
+      "word": "头像暗示法",
+      "onboard_time": 1682405127,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 265379,
@@ -2171,14 +2187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 236779,
-      "num": 184751,
-      "word": "Jennie妈妈和Lisa妈妈手拉手",
-      "onboard_time": 1682406506,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 236496,
       "num": 218734,
       "word": "TES发博告别春季赛",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1682399609,
       "rank": 46,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 234549,
-      "num": 234549,
-      "word": "头像暗示法",
-      "onboard_time": 1682405127,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 233107,
@@ -2403,6 +2403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212566,
+      "num": 189749,
+      "word": "冷屁股 屁门",
+      "onboard_time": 1682407587,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211585,
       "num": 211585,
       "word": "科目二到底有多难考",
@@ -2563,6 +2571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198537,
+      "num": 189713,
+      "word": "徐明浩是来青环炫奶的",
+      "onboard_time": 1682402548,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198500,
       "num": 198500,
       "word": "卢沙野",
@@ -2708,7 +2724,7 @@
     },
     {
       "raw_hot": 190506,
-      "num": 185858,
+      "num": 186170,
       "word": "刘彰solo后的第一个大动作",
       "onboard_time": 1682402966,
       "rank": 30,
@@ -2963,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172365,
+      "num": 172365,
+      "word": "鹿晗五大男刊满贯",
+      "onboard_time": 1682404405,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 172325,
       "num": 172325,
       "word": "易车否认策划宝马冰激凌事件",
@@ -2985,6 +3009,14 @@
       "onboard_time": 1682312731,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171209,
+      "num": 171209,
+      "word": "怎么坐才不伤腰",
+      "onboard_time": 1682406086,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 170986,
@@ -3139,14 +3171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160355,
-      "num": 149170,
-      "word": "鹿晗五大男刊满贯",
-      "onboard_time": 1682404405,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 159981,
       "num": 159981,
       "word": "KPL春季赛十一周最佳阵容",
@@ -3185,14 +3209,6 @@
       "onboard_time": 1682303785,
       "rank": 31,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 157396,
-      "num": 120400,
-      "word": "徐明浩是来青环炫奶的",
-      "onboard_time": 1682402548,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 156975,
@@ -3483,14 +3499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133976,
-      "num": 133976,
-      "word": "怎么坐才不伤腰",
-      "onboard_time": 1682406086,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133750,
       "num": 133750,
       "word": "被欺负的猫终成了天下至尊",
@@ -3561,6 +3569,14 @@
       "onboard_time": 1682315668,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126138,
+      "num": 126138,
+      "word": "青春环游记",
+      "onboard_time": 1682405127,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 126113,
@@ -3667,12 +3683,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 116380,
-      "num": 116380,
-      "word": "青春环游记",
-      "onboard_time": 1682405127,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 115713,
+      "num": 128042,
+      "word": "高铁要是提速到800公里",
+      "onboard_time": 1682407886,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 115039,
@@ -3713,6 +3729,14 @@
       "onboard_time": 1682334507,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 109775,
+      "num": 109775,
+      "word": "酒店涨价",
+      "onboard_time": 1682407705,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108935,

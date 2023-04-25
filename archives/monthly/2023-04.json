@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682406965136,
+  "endTime": 1682408008649,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2803,6 +2803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1643516,
+      "num": 1643516,
+      "word": "陈都灵方否认发艳压通稿",
+      "onboard_time": 1682403085,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1643326,
       "num": 1638319,
       "word": "债主获刑张继科会是共犯吗",
@@ -2849,6 +2857,14 @@
       "onboard_time": 1681009765,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1634401,
+      "num": 415147,
+      "word": "张一山 袜子",
+      "onboard_time": 1682401887,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1630812,
@@ -3065,14 +3081,6 @@
       "onboard_time": 1681188151,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1567546,
-      "num": 1567546,
-      "word": "陈都灵方否认发艳压通稿",
-      "onboard_time": 1682403085,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1566496,
@@ -3433,14 +3441,6 @@
       "onboard_time": 1682320708,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1494294,
-      "num": 415147,
-      "word": "张一山 袜子",
-      "onboard_time": 1682401887,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1491119,
@@ -8699,6 +8699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729640,
+      "num": 729640,
+      "word": "卫健委回应从车展回来核酸阳性",
+      "onboard_time": 1682405425,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729635,
       "num": 729635,
       "word": "马克龙为何访问中山大学",
@@ -9337,14 +9345,6 @@
       "onboard_time": 1680307823,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 698024,
-      "num": 698024,
-      "word": "卫健委回应从车展回来核酸阳性",
-      "onboard_time": 1682405425,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 697790,
@@ -11105,6 +11105,14 @@
       "onboard_time": 1680431189,
       "rank": 27,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 613863,
+      "num": 613863,
+      "word": "浙D1026S你被拍下来了",
+      "onboard_time": 1682405846,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 613729,
@@ -16739,6 +16747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 434382,
+      "num": 271032,
+      "word": "Jennie妈妈和Lisa妈妈手拉手",
+      "onboard_time": 1682406506,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 434191,
       "num": 434191,
       "word": "常熟实行工资全额数字人民币发放",
@@ -19275,6 +19291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388207,
+      "num": 276315,
+      "word": "爱奇艺回应下架灌篮高手国语版",
+      "onboard_time": 1682402487,
+      "rank": 36,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 388165,
       "num": 388165,
       "word": "玉骨遥预约栏",
@@ -19785,6 +19809,14 @@
       "onboard_time": 1681224150,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 375587,
+      "num": 291824,
+      "word": "易烊千玺的鞋跟",
+      "onboard_time": 1682404107,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 375457,
@@ -20425,14 +20457,6 @@
       "onboard_time": 1682239051,
       "rank": 9,
       "category": "科技"
-    },
-    {
-      "raw_hot": 363169,
-      "num": 291824,
-      "word": "易烊千玺的鞋跟",
-      "onboard_time": 1682404107,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 363163,
@@ -22547,6 +22571,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 328985,
+      "num": 235826,
+      "word": "女子离婚净身出户事后反悔要财产",
+      "onboard_time": 1682403986,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328950,
       "num": 114339,
       "word": "李微敖晒出张继科500万借款欠条",
@@ -23667,6 +23699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313166,
+      "num": 313166,
+      "word": "上海杭州之间或将建世界首条超级高铁",
+      "onboard_time": 1682403687,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313129,
       "num": 313129,
       "word": "如梦之梦 深圳",
@@ -24283,14 +24323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 303108,
-      "num": 235826,
-      "word": "女子离婚净身出户事后反悔要财产",
-      "onboard_time": 1682403986,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 302959,
       "num": 302959,
       "word": "五哈3在漠河舞厅杀青",
@@ -24833,14 +24865,6 @@
       "onboard_time": 1681991366,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 295299,
-      "num": 295299,
-      "word": "浙D1026S你被拍下来了",
-      "onboard_time": 1682405846,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295196,
@@ -26387,14 +26411,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 276315,
-      "num": 276315,
-      "word": "爱奇艺回应下架灌篮高手国语版",
-      "onboard_time": 1682402487,
-      "rank": 36,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 276172,
       "num": 276172,
       "word": "GOT7聚会合照",
@@ -26472,14 +26488,6 @@
       "word": "150天女婴浑身红点确诊高危白血病",
       "onboard_time": 1681966357,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274839,
-      "num": 274839,
-      "word": "上海杭州之间或将建世界首条超级高铁",
-      "onboard_time": 1682403687,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -27217,6 +27225,14 @@
       "onboard_time": 1680661350,
       "rank": 47,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 265632,
+      "num": 265632,
+      "word": "头像暗示法",
+      "onboard_time": 1682405127,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 265582,
@@ -30155,14 +30171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236779,
-      "num": 184751,
-      "word": "Jennie妈妈和Lisa妈妈手拉手",
-      "onboard_time": 1682406506,
-      "rank": 30,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 236735,
       "num": 220161,
       "word": "小学生继盘串后又流行起盘头",
@@ -30377,14 +30385,6 @@
       "onboard_time": 1681346314,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 234549,
-      "num": 234549,
-      "word": "头像暗示法",
-      "onboard_time": 1682405127,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 234532,
@@ -33305,6 +33305,14 @@
       "onboard_time": 1681014089,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212566,
+      "num": 189749,
+      "word": "冷屁股 屁门",
+      "onboard_time": 1682407587,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 212556,
@@ -37459,6 +37467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198537,
+      "num": 189713,
+      "word": "徐明浩是来青环炫奶的",
+      "onboard_time": 1682402548,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198524,
       "num": 198524,
       "word": "李现怼脸动图",
@@ -39996,7 +40012,7 @@
     },
     {
       "raw_hot": 190506,
-      "num": 185858,
+      "num": 186170,
       "word": "刘彰solo后的第一个大动作",
       "onboard_time": 1682402966,
       "rank": 30,
@@ -43819,6 +43835,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 172365,
+      "num": 172365,
+      "word": "鹿晗五大男刊满贯",
+      "onboard_time": 1682404405,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 172358,
       "num": 172358,
       "word": "雨后春笋2天长30厘米顶翻木桌",
@@ -44049,6 +44073,14 @@
       "onboard_time": 1681451487,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171209,
+      "num": 171209,
+      "word": "怎么坐才不伤腰",
+      "onboard_time": 1682406086,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 171182,
@@ -46203,14 +46235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160355,
-      "num": 149170,
-      "word": "鹿晗五大男刊满贯",
-      "onboard_time": 1682404405,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 160286,
       "num": 230358,
       "word": "移动影像光学时代来了吗",
@@ -46753,14 +46777,6 @@
       "onboard_time": 1682146587,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 157396,
-      "num": 120400,
-      "word": "徐明浩是来青环炫奶的",
-      "onboard_time": 1682402548,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 157395,
@@ -50875,14 +50891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133976,
-      "num": 133976,
-      "word": "怎么坐才不伤腰",
-      "onboard_time": 1682406086,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 133936,
       "num": 177600,
       "word": "小学生好像真的读懂了史铁生",
@@ -53419,6 +53427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115713,
+      "num": 128042,
+      "word": "高铁要是提速到800公里",
+      "onboard_time": 1682407886,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115578,
       "num": 115578,
       "word": "郑秀妍独家派对",
@@ -53993,6 +54009,14 @@
       "onboard_time": 1680935246,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109775,
+      "num": 109775,
+      "word": "酒店涨价",
+      "onboard_time": 1682407705,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109659,
