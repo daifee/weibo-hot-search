@@ -1,7 +1,15 @@
 {
   "startTime": 1682353374668,
-  "endTime": 1682393620980,
+  "endTime": 1682396450830,
   "band_list": [
+    {
+      "raw_hot": 2714268,
+      "num": 590719,
+      "word": "霍思燕否认嗯哼是腺样体面容",
+      "onboard_time": 1682392465,
+      "rank": 30,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2645415,
       "num": 2645415,
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1559315,
-      "num": 482345,
-      "word": "霍思燕否认嗯哼是腺样体面容",
-      "onboard_time": 1682392465,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1484914,
       "num": 1484914,
       "word": "易烊千玺新专辑刘艳芬",
@@ -65,6 +65,14 @@
       "onboard_time": 1682334087,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1210231,
+      "num": 1210231,
+      "word": "曾经的朋友成为了明星",
+      "onboard_time": 1682393008,
+      "rank": 24,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 1186629,
@@ -91,11 +99,27 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1038786,
-      "num": 1038786,
+      "raw_hot": 1069213,
+      "num": 1069213,
       "word": "易烊千玺雕像被涂花",
       "onboard_time": 1682380165,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1015675,
+      "num": 1015675,
+      "word": "被全网黑但逆风翻盘的明星",
+      "onboard_time": 1682394568,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 980730,
+      "num": 980730,
+      "word": "腺样体面容",
+      "onboard_time": 1682394748,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -105,6 +129,14 @@
       "onboard_time": 1682350587,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 913096,
+      "num": 913096,
+      "word": "五一三倍工资你会选择加班吗",
+      "onboard_time": 1682390365,
+      "rank": 30,
+      "category": "社会议题"
     },
     {
       "raw_hot": 874514,
@@ -163,14 +195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 635043,
-      "num": 635043,
-      "word": "五一三倍工资你会选择加班吗",
-      "onboard_time": 1682390365,
-      "rank": 30,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 625422,
       "num": 625422,
       "word": "99元睡大厅",
@@ -211,12 +235,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 501221,
-      "num": 501221,
+      "raw_hot": 522478,
+      "num": 522478,
+      "word": "中国高铁座椅不只有靠背",
+      "onboard_time": 1682390306,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522453,
+      "num": 522453,
       "word": "王俊凯 一起来听千玺的新专辑",
       "onboard_time": 1682392407,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 505663,
+      "num": 505663,
+      "word": "千万不要在地铁上看恐怖片",
+      "onboard_time": 1682395114,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 486122,
@@ -225,6 +265,14 @@
       "onboard_time": 1682387666,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480852,
+      "num": 480852,
+      "word": "被商场跳楼男子砸伤女孩仍在ICU",
+      "onboard_time": 1682391746,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466918,
@@ -259,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 441065,
+      "num": 441065,
+      "word": "闺蜜买走了我的垃圾小说",
+      "onboard_time": 1682393128,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 431981,
       "num": 431981,
       "word": "巴特勒56分",
@@ -281,22 +337,6 @@
       "onboard_time": 1682392707,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 410042,
-      "num": 410042,
-      "word": "被商场跳楼男子砸伤女孩仍在ICU",
-      "onboard_time": 1682391746,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 395094,
-      "num": 395094,
-      "word": "中国高铁座椅不只有靠背",
-      "onboard_time": 1682390306,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392777,
@@ -467,12 +507,36 @@
       "category": "影视"
     },
     {
-      "raw_hot": 298886,
-      "num": 298886,
-      "word": "曾经的朋友成为了明星",
-      "onboard_time": 1682393008,
-      "rank": 24,
-      "category": "情感,艺人"
+      "raw_hot": 304815,
+      "num": 304815,
+      "word": "女孩家属回应男子跳楼砸伤其女儿",
+      "onboard_time": 1682395589,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303516,
+      "num": 303516,
+      "word": "拉塞尔",
+      "onboard_time": 1682393368,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 303224,
+      "num": 303224,
+      "word": "Billlie将暂时以6人体制活动",
+      "onboard_time": 1682396131,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 300379,
+      "num": 300379,
+      "word": "那英的人生主打一个脑追嘴",
+      "onboard_time": 1682390666,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296892,
@@ -521,6 +585,22 @@
       "onboard_time": 1682391024,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261280,
+      "num": 261280,
+      "word": "王源说支持千玺全新专辑刘艳芬",
+      "onboard_time": 1682394930,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 258971,
+      "num": 258971,
+      "word": "朴炯植回春",
+      "onboard_time": 1682392950,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 257326,
@@ -627,14 +707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226077,
-      "num": 226077,
-      "word": "那英的人生主打一个脑追嘴",
-      "onboard_time": 1682390666,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 224027,
       "num": 224027,
       "word": "罗云熙黑披风",
@@ -657,6 +729,14 @@
       "onboard_time": 1682342671,
       "rank": 19,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 221927,
+      "num": 221927,
+      "word": "刘艳芬手记",
+      "onboard_time": 1682393669,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 219477,
@@ -683,19 +763,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213554,
+      "num": 213554,
+      "word": "郭珍霓",
+      "onboard_time": 1682396252,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211173,
       "num": 211173,
       "word": "朱一龙作品回报率",
       "onboard_time": 1682386886,
       "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 208828,
-      "num": 208828,
-      "word": "朴炯植回春",
-      "onboard_time": 1682392950,
-      "rank": 37,
       "category": "作品衍生"
     },
     {
@@ -771,6 +851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199874,
+      "num": 199874,
+      "word": "伍佰赚钱比曾毅还轻松",
+      "onboard_time": 1682396371,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198500,
       "num": 198500,
       "word": "卢沙野",
@@ -819,19 +907,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191456,
-      "num": 191456,
-      "word": "拉塞尔",
-      "onboard_time": 1682393368,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190917,
       "num": 190917,
       "word": "NBA",
       "onboard_time": 1682391746,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189818,
+      "num": 189818,
+      "word": "灰熊VS湖人",
+      "onboard_time": 1682393728,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -897,14 +985,6 @@
       "onboard_time": 1682378061,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176395,
-      "num": 176395,
-      "word": "闺蜜买走了我的垃圾小说",
-      "onboard_time": 1682393128,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 174995,
@@ -1100,7 +1180,7 @@
     },
     {
       "raw_hot": 124524,
-      "num": 172711,
+      "num": 510481,
       "word": "张朝阳物理学解构折叠屏",
       "onboard_time": 1682392526,
       "rank": 49,
@@ -1251,12 +1331,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 26767,
+      "num": 155384,
+      "word": "从艾热的歌里听出了画面感",
+      "onboard_time": 1682395651,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 24845,
       "num": 24845,
       "word": "SEVENTEEN孙悟空MV",
       "onboard_time": 1682362273,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24778,
+      "num": 1223507,
+      "word": "这个答案写满中国航天的自信和底气",
+      "onboard_time": 1682395950,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1268,6 +1364,9 @@
     },
     {
       "word": "#下一站深空#"
+    },
+    {
+      "word": "#构建经济与环境协同共进的地球家园#"
     }
   ]
 }
