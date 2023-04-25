@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682450033092,
+  "endTime": 1682451211659,
   "band_list": [
     {
       "raw_hot": 1665590,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70630,
+      "num": 37302,
+      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
+      "onboard_time": 1682447893,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66589,
       "num": 79482,
       "word": "cp29",
@@ -419,20 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 43096,
-      "num": 43096,
+      "raw_hot": 43121,
+      "num": 43121,
       "word": "内娱哪些演员适合演学霸",
       "onboard_time": 1682447052,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39281,
-      "num": 28885,
-      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
-      "onboard_time": 1682447893,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31229,
@@ -472,6 +472,14 @@
       "word": "行走百县话振兴",
       "onboard_time": 1682430449,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15016,
+      "num": 15016,
+      "word": "27岁民警满头白发仿佛现实版安欣",
+      "onboard_time": 1682450591,
+      "rank": 46,
       "category": "社会新闻"
     }
   ],
