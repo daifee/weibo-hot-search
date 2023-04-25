@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682460974684,
+  "endTime": 1682461999050,
   "band_list": [
     {
       "raw_hot": 1665590,
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 326314,
+      "num": 81400,
+      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
+      "onboard_time": 1682447893,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310661,
       "num": 310661,
       "word": "原来笔记本要一直充电使用",
@@ -131,20 +139,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263016,
+      "num": 263016,
+      "word": "丫丫",
+      "onboard_time": 1682452815,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250591,
       "num": 222166,
       "word": "你能否接受对象有过同居史",
       "onboard_time": 1682431350,
       "rank": 20,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 234808,
-      "num": 56214,
-      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
-      "onboard_time": 1682447893,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233463,
@@ -177,14 +185,6 @@
       "onboard_time": 1682419647,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 201091,
-      "num": 201091,
-      "word": "丫丫",
-      "onboard_time": 1682452815,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182930,
@@ -275,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131872,
+      "num": 131872,
+      "word": "女生两次遭霸凌视频疯传致其抑郁",
+      "onboard_time": 1682440403,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127541,
       "num": 127541,
       "word": "公诉精英是今年总局发证的第四部剧",
       "onboard_time": 1682433213,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 119921,
-      "num": 119921,
-      "word": "女生两次遭霸凌视频疯传致其抑郁",
-      "onboard_time": 1682440403,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116116,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56218,
+      "num": 56218,
+      "word": "内娱哪些演员适合演学霸",
+      "onboard_time": 1682447052,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55589,
       "num": 78316,
       "word": "中肯的专家建议",
@@ -435,24 +443,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 43121,
-      "num": 43121,
-      "word": "内娱哪些演员适合演学霸",
-      "onboard_time": 1682447052,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 34585,
-      "num": 34585,
+      "raw_hot": 47477,
+      "num": 47477,
       "word": "27岁民警满头白发仿佛现实版安欣",
       "onboard_time": 1682450591,
       "rank": 46,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 31229,
-      "num": 31229,
+      "raw_hot": 39885,
+      "num": 39885,
       "word": "黎苏苏留给澹台烬的最后一句话",
       "onboard_time": 1682426668,
       "rank": 33,
@@ -475,7 +475,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21161,
+      "raw_hot": 22364,
       "num": 25421,
       "word": "在地铁上让座后收到了礼物",
       "onboard_time": 1682440283,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682460974684,
+  "endTime": 1682461999050,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -1875,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326314,
+      "num": 81400,
+      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
+      "onboard_time": 1682447893,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324416,
       "num": 324416,
       "word": "文彬悼念区留下手写信",
@@ -2371,6 +2379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 263016,
+      "num": 263016,
+      "word": "丫丫",
+      "onboard_time": 1682452815,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262036,
       "num": 262036,
       "word": "super",
@@ -2713,14 +2729,6 @@
       "onboard_time": 1682399609,
       "rank": 46,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 234808,
-      "num": 56214,
-      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
-      "onboard_time": 1682447893,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233463,
@@ -3185,14 +3193,6 @@
       "onboard_time": 1682336246,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201091,
-      "num": 201091,
-      "word": "丫丫",
-      "onboard_time": 1682452815,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201054,
@@ -4491,6 +4491,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 131872,
+      "num": 131872,
+      "word": "女生两次遭霸凌视频疯传致其抑郁",
+      "onboard_time": 1682440403,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131600,
       "num": 131600,
       "word": "和平精英四周年",
@@ -4657,14 +4665,6 @@
       "onboard_time": 1682402188,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119921,
-      "num": 119921,
-      "word": "女生两次遭霸凌视频疯传致其抑郁",
-      "onboard_time": 1682440403,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119873,
@@ -5083,12 +5083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56218,
+      "num": 56218,
+      "word": "内娱哪些演员适合演学霸",
+      "onboard_time": 1682447052,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54678,
       "num": 54678,
       "word": "陈钰琪说余春羊给小号换了个皮肤",
       "onboard_time": 1682442496,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 47477,
+      "num": 47477,
+      "word": "27岁民警满头白发仿佛现实版安欣",
+      "onboard_time": 1682450591,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43133,
@@ -5099,27 +5115,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 43121,
-      "num": 43121,
-      "word": "内娱哪些演员适合演学霸",
-      "onboard_time": 1682447052,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34690,
       "num": 1232533,
       "word": "行走百县话振兴",
       "onboard_time": 1682430449,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34585,
-      "num": 34585,
-      "word": "27岁民警满头白发仿佛现实版安欣",
-      "onboard_time": 1682450591,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -5171,7 +5171,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21161,
+      "raw_hot": 22364,
       "num": 25421,
       "word": "在地铁上让座后收到了礼物",
       "onboard_time": 1682440283,
