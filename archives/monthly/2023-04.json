@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682436832414,
+  "endTime": 1682439769849,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -6128,6 +6128,14 @@
       "word": "泰国坠崖孕妇3年后站起来了",
       "onboard_time": 1680362430,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 964432,
+      "num": 964432,
+      "word": "面试1小时发现走错反获2家公司offer",
+      "onboard_time": 1682435069,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -16179,14 +16187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 455631,
-      "num": 455631,
-      "word": "面试1小时发现走错反获2家公司offer",
-      "onboard_time": 1682435069,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455623,
       "num": 277087,
       "word": "杨颖金色抹胸长裙",
@@ -17249,6 +17249,14 @@
       "onboard_time": 1680617912,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429084,
+      "num": 429084,
+      "word": "萌兰",
+      "onboard_time": 1682435731,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429048,
@@ -31035,6 +31043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233463,
+      "num": 233463,
+      "word": "高校回应学生停课等刘畊宏被放鸽子",
+      "onboard_time": 1682437768,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 233439,
       "num": 227307,
       "word": "陈晓新剧收视率持续破3",
@@ -34137,14 +34153,6 @@
       "onboard_time": 1682082749,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210667,
-      "num": 210667,
-      "word": "萌兰",
-      "onboard_time": 1682435731,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210555,
@@ -47987,6 +47995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154855,
+      "num": 154855,
+      "word": "反向抹零",
+      "onboard_time": 1682436809,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154818,
       "num": 154818,
       "word": "2023年王者五五朋友节皮肤",
@@ -54315,6 +54331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 116116,
+      "num": 100745,
+      "word": "想去伍佰演唱会",
+      "onboard_time": 1682436865,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 116085,
       "num": 116085,
       "word": "沙尘暴会不会影响杭州",
@@ -55259,6 +55283,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 106928,
+      "num": 88484,
+      "word": "程嘉树那一跪就是他奉献的一生",
+      "onboard_time": 1682437287,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106914,
       "num": 106914,
       "word": "范新",
@@ -55737,6 +55769,14 @@
       "onboard_time": 1681745667,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102857,
+      "num": 102857,
+      "word": "水瓶座藏起来的一面",
+      "onboard_time": 1682438606,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 102798,
@@ -56891,14 +56931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 89707,
-      "num": 89707,
-      "word": "反向抹零",
-      "onboard_time": 1682436809,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89646,
       "num": 89646,
       "word": "北影节天坛奖入围影片场刊",
@@ -57417,6 +57449,14 @@
       "onboard_time": 1681550787,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79985,
+      "num": 79985,
+      "word": "INTO1就此告别",
+      "onboard_time": 1682437466,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 79862,
