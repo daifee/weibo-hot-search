@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682447651255,
+  "endTime": 1682450033092,
   "band_list": [
     {
       "raw_hot": 1665590,
@@ -419,6 +419,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43096,
+      "num": 43096,
+      "word": "内娱哪些演员适合演学霸",
+      "onboard_time": 1682447052,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39281,
+      "num": 28885,
+      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
+      "onboard_time": 1682447893,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31229,
       "num": 31229,
       "word": "黎苏苏留给澹台烬的最后一句话",
@@ -433,14 +449,6 @@
       "onboard_time": 1682446815,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27576,
-      "num": 27576,
-      "word": "内娱哪些演员适合演学霸",
-      "onboard_time": 1682447052,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 24470,

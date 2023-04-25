@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682447651255,
+  "endTime": 1682450033092,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -58635,6 +58635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43096,
+      "num": 43096,
+      "word": "内娱哪些演员适合演学霸",
+      "onboard_time": 1682447052,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42917,
       "num": 38401,
       "word": "根本没人敢坐我们旁边",
@@ -58761,6 +58769,14 @@
       "onboard_time": 1681988427,
       "rank": 14,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 39281,
+      "num": 28885,
+      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
+      "onboard_time": 1682447893,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38812,
@@ -59065,14 +59081,6 @@
       "onboard_time": 1681621226,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 27576,
-      "num": 27576,
-      "word": "内娱哪些演员适合演学霸",
-      "onboard_time": 1682447052,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 26781,
