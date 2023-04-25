@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682429610946,
+  "endTime": 1682432166760,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1705,6 +1705,14 @@
       "onboard_time": 1681630945,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2097588,
+      "num": 2097588,
+      "word": "长月烬明 抄袭阴阳师",
+      "onboard_time": 1682430151,
+      "rank": 0,
+      "category": "影视,游戏"
     },
     {
       "raw_hot": 2093688,
@@ -3819,6 +3827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1394728,
+      "num": 1394728,
+      "word": "刘宪华 中国好声音导师",
+      "onboard_time": 1682426909,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1392082,
       "num": 1392082,
       "word": "五一民宿现涨价毁约潮",
@@ -4788,7 +4804,7 @@
     },
     {
       "raw_hot": 1168289,
-      "num": 282285,
+      "num": 288473,
       "word": "刘涛 韩素希",
       "onboard_time": 1682425638,
       "rank": 19,
@@ -5779,6 +5795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1004750,
+      "num": 1004750,
+      "word": "四月底HR才开始急了",
+      "onboard_time": 1682420186,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 1003791,
       "num": 529982,
       "word": "白鹿的字",
@@ -5913,14 +5937,6 @@
       "onboard_time": 1681958428,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 986404,
-      "num": 986404,
-      "word": "刘宪华 中国好声音导师",
-      "onboard_time": 1682426909,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 984593,
@@ -8425,14 +8441,6 @@
       "onboard_time": 1681261887,
       "rank": 42,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 761361,
-      "num": 761361,
-      "word": "四月底HR才开始急了",
-      "onboard_time": 1682420186,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 760394,
@@ -16011,6 +16019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457725,
+      "num": 284752,
+      "word": "吴磊 大众",
+      "onboard_time": 1682426668,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457656,
       "num": 457656,
       "word": "柯南联名T恤引争议",
@@ -16057,6 +16073,14 @@
       "onboard_time": 1680260966,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 456491,
+      "num": 308283,
+      "word": "戚薇早期跟Lucky很像",
+      "onboard_time": 1682420847,
+      "rank": 31,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 456359,
@@ -17419,12 +17443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423922,
-      "num": 308283,
-      "word": "戚薇早期跟Lucky很像",
-      "onboard_time": 1682420847,
-      "rank": 31,
-      "category": "作品衍生,幽默"
+      "raw_hot": 423996,
+      "num": 182467,
+      "word": "看着不体面但很赚钱的工作",
+      "onboard_time": 1682428589,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 423684,
@@ -17593,14 +17617,6 @@
       "onboard_time": 1680490948,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 421857,
-      "num": 212382,
-      "word": "吴磊 大众",
-      "onboard_time": 1682426668,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 421644,
@@ -19128,6 +19144,14 @@
       "word": "杨丞琳献唱陈飞宇周也新片主题曲",
       "onboard_time": 1681178787,
       "rank": 9,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 394998,
+      "num": 220637,
+      "word": "黎苏苏留给澹台烬的最后一句话",
+      "onboard_time": 1682426668,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -22963,14 +22987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 327825,
-      "num": 176832,
-      "word": "黎苏苏留给澹台烬的最后一句话",
-      "onboard_time": 1682426668,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 327689,
       "num": 327689,
       "word": "模范出租车",
@@ -24177,6 +24193,14 @@
       "onboard_time": 1682385808,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 309644,
+      "num": 167149,
+      "word": "易烊千玺呆毛",
+      "onboard_time": 1682429430,
+      "rank": 31,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 309455,
@@ -25459,6 +25483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291594,
+      "num": 179567,
+      "word": "22岁白人男演员12次整形手术后死亡",
+      "onboard_time": 1682427809,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291542,
       "num": 291542,
       "word": "天秤座藏起来的一面",
@@ -26409,6 +26441,14 @@
       "onboard_time": 1681350268,
       "rank": 19,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 280571,
+      "num": 166502,
+      "word": "赵丽颖虎狼之路杀青",
+      "onboard_time": 1682430752,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 280538,
@@ -28721,14 +28761,6 @@
       "onboard_time": 1680396447,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253734,
-      "num": 164313,
-      "word": "22岁白人男演员12次整形手术后死亡",
-      "onboard_time": 1682427809,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253716,
@@ -31811,6 +31843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226614,
+      "num": 141129,
+      "word": "关晓彤虞书欣早期合照",
+      "onboard_time": 1682431713,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226594,
       "num": 226594,
       "word": "TTG对战KSG",
@@ -31937,14 +31977,6 @@
       "onboard_time": 1682253810,
       "rank": 23,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 225518,
-      "num": 163160,
-      "word": "看着不体面但很赚钱的工作",
-      "onboard_time": 1682428589,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 225447,
@@ -42603,6 +42635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183290,
+      "num": 140251,
+      "word": "你能否接受对象有过同居史",
+      "onboard_time": 1682431350,
+      "rank": 32,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 183287,
       "num": 154288,
       "word": "欢乐颂",
@@ -45499,6 +45539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167211,
+      "num": 167211,
+      "word": "男子140元买榴莲彩票亏麻了",
+      "onboard_time": 1682424927,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167208,
       "num": 167208,
       "word": "朱一龙银色西装造型",
@@ -46747,14 +46795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160924,
-      "num": 156409,
-      "word": "易烊千玺呆毛",
-      "onboard_time": 1682429430,
-      "rank": 31,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 160900,
       "num": 160900,
       "word": "长空之王致敬版海报",
@@ -47193,14 +47233,6 @@
       "onboard_time": 1680995357,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158835,
-      "num": 158835,
-      "word": "男子140元买榴莲彩票亏麻了",
-      "onboard_time": 1682424927,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158625,
@@ -49217,6 +49249,14 @@
       "onboard_time": 1681529723,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147961,
+      "num": 136887,
+      "word": "薄冰邱映霞下线",
+      "onboard_time": 1682430931,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 147943,
@@ -51547,6 +51587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134831,
+      "num": 134831,
+      "word": "蒜香西瓜",
+      "onboard_time": 1682431593,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134732,
       "num": 134732,
       "word": "致敬英烈",
@@ -52923,6 +52971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125899,
+      "num": 125899,
+      "word": "一读就错的山东地名",
+      "onboard_time": 1682431291,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 125891,
       "num": 125891,
       "word": "威少 孤胆英雄",
@@ -53417,6 +53473,14 @@
       "onboard_time": 1680812651,
       "rank": 41,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 122334,
+      "num": 122334,
+      "word": "浙江男篮vs深圳男篮",
+      "onboard_time": 1682431650,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 122327,
@@ -54683,6 +54747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111000,
+      "num": 205620,
+      "word": "中超",
+      "onboard_time": 1681555824,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110913,
       "num": 110913,
       "word": "大连人2比1南通支云",
@@ -55393,14 +55465,6 @@
       "onboard_time": 1680935008,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 104169,
-      "num": 205620,
-      "word": "中超",
-      "onboard_time": 1681555824,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 104159,
@@ -58808,6 +58872,14 @@
       "word": "孟晚舟回应轮值董事长",
       "onboard_time": 1680261326,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29586,
+      "num": 1077585,
+      "word": "行走百县话振兴",
+      "onboard_time": 1682430449,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

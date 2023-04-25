@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682429610946,
+  "endTime": 1682432166760,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -137,6 +137,14 @@
       "onboard_time": 1682297310,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2097588,
+      "num": 2097588,
+      "word": "长月烬明 抄袭阴阳师",
+      "onboard_time": 1682430151,
+      "rank": 0,
+      "category": "影视,游戏"
     },
     {
       "raw_hot": 2032493,
@@ -323,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1394728,
+      "num": 1394728,
+      "word": "刘宪华 中国好声音导师",
+      "onboard_time": 1682426909,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1392592,
       "num": 1392592,
       "word": "严禁劣迹艺人随意变相复出捞金",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 1168289,
-      "num": 282285,
+      "num": 288473,
       "word": "刘涛 韩素希",
       "onboard_time": 1682425638,
       "rank": 19,
@@ -491,19 +507,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1004750,
+      "num": 1004750,
+      "word": "四月底HR才开始急了",
+      "onboard_time": 1682420186,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 999954,
       "num": 999954,
       "word": "林心如和女儿视频通话",
       "onboard_time": 1682338709,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 986404,
-      "num": 986404,
-      "word": "刘宪华 中国好声音导师",
-      "onboard_time": 1682426909,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -649,14 +665,6 @@
       "onboard_time": 1682331866,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 761361,
-      "num": 761361,
-      "word": "四月底HR才开始急了",
-      "onboard_time": 1682420186,
-      "rank": 32,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 756103,
@@ -1155,6 +1163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457725,
+      "num": 284752,
+      "word": "吴磊 大众",
+      "onboard_time": 1682426668,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 456491,
+      "num": 308283,
+      "word": "戚薇早期跟Lucky很像",
+      "onboard_time": 1682420847,
+      "rank": 31,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 456041,
       "num": 298203,
       "word": "离职三天后同事发的微信",
@@ -1315,12 +1339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423922,
-      "num": 308283,
-      "word": "戚薇早期跟Lucky很像",
-      "onboard_time": 1682420847,
-      "rank": 31,
-      "category": "作品衍生,幽默"
+      "raw_hot": 423996,
+      "num": 182467,
+      "word": "看着不体面但很赚钱的工作",
+      "onboard_time": 1682428589,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 423587,
@@ -1337,14 +1361,6 @@
       "onboard_time": 1682417728,
       "rank": 34,
       "category": "幽默,教育"
-    },
-    {
-      "raw_hot": 421857,
-      "num": 212382,
-      "word": "吴磊 大众",
-      "onboard_time": 1682426668,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 421411,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1682327008,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394998,
+      "num": 220637,
+      "word": "黎苏苏留给澹台烬的最后一句话",
+      "onboard_time": 1682426668,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 392777,
@@ -1779,14 +1803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 327825,
-      "num": 176832,
-      "word": "黎苏苏留给澹台烬的最后一句话",
-      "onboard_time": 1682426668,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 326337,
       "num": 326337,
       "word": "为什么女生旅个游这么难",
@@ -1963,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 309644,
+      "num": 167149,
+      "word": "易烊千玺呆毛",
+      "onboard_time": 1682429430,
+      "rank": 31,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 307581,
       "num": 307581,
       "word": "梁静茹说看去有风的地方哭得一塌糊涂",
@@ -2051,6 +2075,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 291594,
+      "num": 179567,
+      "word": "22岁白人男演员12次整形手术后死亡",
+      "onboard_time": 1682427809,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289962,
       "num": 219321,
       "word": "田曦薇头发能不能分我一点",
@@ -2121,6 +2153,14 @@
       "onboard_time": 1682329227,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280571,
+      "num": 166502,
+      "word": "赵丽颖虎狼之路杀青",
+      "onboard_time": 1682430752,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 280376,
@@ -2395,14 +2435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 253734,
-      "num": 164313,
-      "word": "22岁白人男演员12次整形手术后死亡",
-      "onboard_time": 1682427809,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253082,
       "num": 253082,
       "word": "女性如何更好的享受两性关系",
@@ -2659,20 +2691,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 226614,
+      "num": 141129,
+      "word": "关晓彤虞书欣早期合照",
+      "onboard_time": 1682431713,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226297,
       "num": 226297,
       "word": "戛纳电影节",
       "onboard_time": 1682378242,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 225518,
-      "num": 163160,
-      "word": "看着不体面但很赚钱的工作",
-      "onboard_time": 1682428589,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 224599,
@@ -3475,6 +3507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183290,
+      "num": 140251,
+      "word": "你能否接受对象有过同居史",
+      "onboard_time": 1682431350,
+      "rank": 32,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 182811,
       "num": 182811,
       "word": "酒店涨价",
@@ -3699,6 +3739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167211,
+      "num": 167211,
+      "word": "男子140元买榴莲彩票亏麻了",
+      "onboard_time": 1682424927,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166351,
       "num": 166351,
       "word": "没想到老板的视角是这样的",
@@ -3819,14 +3867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 160924,
-      "num": 156409,
-      "word": "易烊千玺呆毛",
-      "onboard_time": 1682429430,
-      "rank": 31,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 160827,
       "num": 160827,
       "word": "职场里需要在意别人看法吗",
@@ -3857,14 +3897,6 @@
       "onboard_time": 1682301206,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158835,
-      "num": 158835,
-      "word": "男子140元买榴莲彩票亏麻了",
-      "onboard_time": 1682424927,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158625,
@@ -4001,6 +4033,14 @@
       "onboard_time": 1682314347,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147961,
+      "num": 136887,
+      "word": "薄冰邱映霞下线",
+      "onboard_time": 1682430931,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 147716,
@@ -4195,6 +4235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139375,
+      "num": 139375,
+      "word": "cp29",
+      "onboard_time": 1682432013,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 139158,
       "num": 139158,
       "word": "这些绝美镜头都是从天宫拍的",
@@ -4241,6 +4289,14 @@
       "onboard_time": 1682422108,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134831,
+      "num": 134831,
+      "word": "蒜香西瓜",
+      "onboard_time": 1682431593,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 134586,
@@ -4379,6 +4435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125899,
+      "num": 125899,
+      "word": "一读就错的山东地名",
+      "onboard_time": 1682431291,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 125504,
       "num": 125504,
       "word": "耄耋老人为一群特殊孩子再创业",
@@ -4417,6 +4481,14 @@
       "onboard_time": 1682254171,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122334,
+      "num": 122334,
+      "word": "浙江男篮vs深圳男篮",
+      "onboard_time": 1682431650,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 122146,
@@ -4537,6 +4609,14 @@
       "onboard_time": 1682334507,
       "rank": 14,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 111000,
+      "num": 111000,
+      "word": "中超",
+      "onboard_time": 1682431952,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 110714,
@@ -4857,6 +4937,14 @@
       "onboard_time": 1682395651,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29586,
+      "num": 1077585,
+      "word": "行走百县话振兴",
+      "onboard_time": 1682430449,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27379,
