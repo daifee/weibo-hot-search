@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682515269342,
+  "endTime": 1682516000210,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1356319,
+      "num": 1356319,
+      "word": "习近平同泽连斯基通电话",
+      "onboard_time": 1682513250,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1346025,
       "num": 1346025,
       "word": "章凝 杜鹃",
@@ -187,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1210035,
-      "num": 1210035,
-      "word": "习近平同泽连斯基通电话",
-      "onboard_time": 1682513250,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 1209519,
+      "num": 1018004,
+      "word": "压力给到张子枫",
+      "onboard_time": 1682513426,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1205777,
@@ -251,14 +259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 853481,
-      "num": 853481,
-      "word": "压力给到张子枫",
-      "onboard_time": 1682513426,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 841155,
       "num": 841155,
       "word": "吴磊虞书欣 黑莲花",
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 824545,
-      "num": 475950,
+      "num": 548075,
       "word": "赵丽颖周放",
       "onboard_time": 1682511445,
       "rank": 11,
@@ -371,6 +371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 620911,
+      "num": 620911,
+      "word": "乌克兰",
+      "onboard_time": 1682511747,
+      "rank": 27,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 615187,
       "num": 502666,
       "word": "奚梦瑶 你们的快乐吵到我学习了",
@@ -379,20 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 614071,
-      "num": 614071,
-      "word": "乌克兰",
-      "onboard_time": 1682511747,
-      "rank": 27,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 607368,
       "num": 607368,
       "word": "告诉黄磊彭昱畅找到了",
       "onboard_time": 1682471849,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 598702,
+      "num": 598702,
+      "word": "陈都灵生图",
+      "onboard_time": 1682512588,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 590023,
@@ -427,6 +435,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 560491,
+      "num": 560491,
+      "word": "民警带服刑人员去民政局登记结婚",
+      "onboard_time": 1682510787,
+      "rank": 38,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 553045,
       "num": 553045,
       "word": "民宿毁约涨价糟蹋了多少人的五一",
@@ -441,14 +457,6 @@
       "onboard_time": 1682505326,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543760,
-      "num": 543760,
-      "word": "陈都灵生图",
-      "onboard_time": 1682512588,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 540982,
@@ -545,14 +553,6 @@
       "onboard_time": 1682499928,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 477945,
-      "num": 477945,
-      "word": "民警带服刑人员去民政局登记结婚",
-      "onboard_time": 1682510787,
-      "rank": 38,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 477523,
@@ -675,6 +675,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 405319,
+      "num": 405319,
+      "word": "喻言的蓬蓬裙好大",
+      "onboard_time": 1682510909,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 402956,
       "num": 402956,
       "word": "甄嬛传播出十年孙俪才意识到很火",
@@ -707,20 +715,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 393636,
+      "num": 378676,
+      "word": "男明星谁赢了",
+      "onboard_time": 1682513006,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 386398,
       "num": 386398,
       "word": "章凝 冯楚轩",
       "onboard_time": 1682465062,
       "rank": 12,
       "category": "时尚,网红"
-    },
-    {
-      "raw_hot": 386296,
-      "num": 386296,
-      "word": "喻言的蓬蓬裙好大",
-      "onboard_time": 1682510909,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 377652,
@@ -809,14 +817,6 @@
       "onboard_time": 1682467770,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332347,
-      "num": 278658,
-      "word": "男明星谁赢了",
-      "onboard_time": 1682513006,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 330638,
@@ -961,6 +961,14 @@
       "onboard_time": 1682431713,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270376,
+      "num": 222241,
+      "word": "CSC2023CYPHER",
+      "onboard_time": 1682514629,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 267085,
@@ -1131,6 +1139,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235220,
+      "num": 213181,
+      "word": "范丞丞预定张婧仪做MV女主",
+      "onboard_time": 1682513069,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 233983,
+      "num": 211305,
+      "word": "青春环游记书画大赛",
+      "onboard_time": 1682514629,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233463,
       "num": 233463,
       "word": "高校回应学生停课等刘畊宏被放鸽子",
@@ -1179,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223822,
+      "num": 223822,
+      "word": "信任崩塌后真的会变冷漠",
+      "onboard_time": 1682512648,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222230,
       "num": 208356,
       "word": "把球给杜兰特",
@@ -1195,12 +1227,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 219858,
-      "num": 192393,
-      "word": "CSC2023CYPHER",
-      "onboard_time": 1682514629,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 220288,
+      "num": 220288,
+      "word": "串串店家回应鸡爪插13根签",
+      "onboard_time": 1682512648,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218230,
@@ -1209,14 +1241,6 @@
       "onboard_time": 1682474967,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 217807,
-      "num": 187864,
-      "word": "范丞丞预定张婧仪做MV女主",
-      "onboard_time": 1682513069,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 217579,
@@ -1251,12 +1275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206118,
-      "num": 158842,
-      "word": "青春环游记书画大赛",
-      "onboard_time": 1682514629,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 209377,
+      "num": 209377,
+      "word": "曾经很火却已消失了的品牌",
+      "onboard_time": 1682514989,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 205349,
@@ -1281,14 +1305,6 @@
       "onboard_time": 1682489908,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 203790,
-      "num": 203790,
-      "word": "串串店家回应鸡爪插13根签",
-      "onboard_time": 1682512648,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201335,
@@ -1385,14 +1401,6 @@
       "onboard_time": 1682471189,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193893,
-      "num": 193893,
-      "word": "信任崩塌后真的会变冷漠",
-      "onboard_time": 1682512648,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 193627,
@@ -1507,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179982,
+      "num": 179982,
+      "word": "田曦薇的耳饰",
+      "onboard_time": 1682512765,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177785,
       "num": 177785,
       "word": "你也有今天",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1682444116,
       "rank": 10,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 175698,
+      "num": 150844,
+      "word": "澹台家的DNA",
+      "onboard_time": 1682514387,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175444,
@@ -1579,20 +1603,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170824,
+      "num": 170824,
+      "word": "离职后如何保护自己的隐私",
+      "onboard_time": 1682515530,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170002,
       "num": 437260,
       "word": "费加罗红毯",
       "onboard_time": 1682503228,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 167025,
-      "num": 167025,
-      "word": "曾经很火却已消失了的品牌",
-      "onboard_time": 1682514989,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 166181,
@@ -1617,14 +1641,6 @@
       "onboard_time": 1682478808,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163897,
-      "num": 157812,
-      "word": "田曦薇的耳饰",
-      "onboard_time": 1682512765,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161901,
@@ -2019,6 +2035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135215,
+      "num": 135215,
+      "word": "离职一定要带走的证明",
+      "onboard_time": 1682511568,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134626,
       "num": 134626,
       "word": "华晨宇虚幻与现实演唱会live",
@@ -2171,14 +2195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118451,
-      "num": 118451,
-      "word": "离职一定要带走的证明",
-      "onboard_time": 1682511568,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 116116,
       "num": 100745,
       "word": "想去伍佰演唱会",
@@ -2260,7 +2276,7 @@
     },
     {
       "raw_hot": 103931,
-      "num": 103931,
+      "num": 128652,
       "word": "原神哥说星穹铁道泰裤辣",
       "onboard_time": 1682513670,
       "rank": 48,
@@ -2435,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64736,
+      "num": 128608,
+      "word": "云南有5种颜色的草莓",
+      "onboard_time": 1682515949,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 61950,
       "num": 140129,
       "word": "点外卖竟然是警察来送餐",
@@ -2475,6 +2499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 46519,
+      "num": 399993,
+      "word": "女星红毯妆容大招",
+      "onboard_time": 1682514028,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38800,
       "num": 1437121,
       "word": "第六届数字中国建设峰会",
@@ -2497,14 +2529,6 @@
       "onboard_time": 1682446815,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29760,
-      "num": 399993,
-      "word": "女星红毯妆容大招",
-      "onboard_time": 1682514028,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 24470,
