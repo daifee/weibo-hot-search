@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682500635061,
+  "endTime": 1682501625782,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1617951,
+      "num": 1617951,
+      "word": "女生厕所遇代孕广告用贴纸遮盖",
+      "onboard_time": 1682497167,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1604978,
       "num": 1604978,
       "word": "郭珍霓",
@@ -593,14 +601,6 @@
       "onboard_time": 1682425638,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1117557,
-      "num": 1117557,
-      "word": "女生厕所遇代孕广告用贴纸遮盖",
-      "onboard_time": 1682497167,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1113051,
@@ -1195,6 +1195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 532298,
+      "num": 472154,
+      "word": "INTO1醉酒事件多视角",
+      "onboard_time": 1682498426,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522478,
       "num": 522478,
       "word": "中国高铁座椅不只有靠背",
@@ -1489,14 +1497,6 @@
       "onboard_time": 1682431350,
       "rank": 32,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 472154,
-      "num": 472154,
-      "word": "INTO1醉酒事件多视角",
-      "onboard_time": 1682498426,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 471409,
@@ -2097,6 +2097,14 @@
       "onboard_time": 1682430752,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361951,
+      "num": 361951,
+      "word": "赖赖 有人盗了我的脸",
+      "onboard_time": 1682499928,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 358726,
@@ -3676,7 +3684,7 @@
     },
     {
       "raw_hot": 214530,
-      "num": 135430,
+      "num": 213191,
       "word": "王一博又收到了小朋友的画",
       "onboard_time": 1682498669,
       "rank": 35,
@@ -3753,14 +3761,6 @@
       "onboard_time": 1682264135,
       "rank": 25,
       "category": "网红,情感"
-    },
-    {
-      "raw_hot": 209690,
-      "num": 209690,
-      "word": "赖赖 有人盗了我的脸",
-      "onboard_time": 1682499928,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 209113,
@@ -4001,6 +4001,14 @@
       "onboard_time": 1682400388,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199378,
+      "num": 152535,
+      "word": "你知道熊猫丫丫几岁被送到美国吗",
+      "onboard_time": 1682501247,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199212,
@@ -4315,6 +4323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189612,
+      "num": 189612,
+      "word": "会吃是一种什么体验",
+      "onboard_time": 1682501609,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189488,
       "num": 125455,
       "word": "INTO1全员发博纪念解散时刻",
@@ -4449,6 +4465,14 @@
       "onboard_time": 1682382267,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183523,
+      "num": 183523,
+      "word": "费加罗盛典好多人啊",
+      "onboard_time": 1682500650,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183514,
@@ -4955,6 +4979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161790,
+      "num": 161790,
+      "word": "SEVENTEEN年纪和稳重成反比",
+      "onboard_time": 1682499870,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161703,
       "num": 161703,
       "word": "公共场所遇到性骚扰该怎么办",
@@ -5083,14 +5115,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 155388,
-      "num": 155388,
-      "word": "SEVENTEEN年纪和稳重成反比",
-      "onboard_time": 1682499870,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 154855,
       "num": 154855,
       "word": "反向抹零",
@@ -5177,6 +5201,14 @@
       "onboard_time": 1682421266,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151050,
+      "num": 151050,
+      "word": "今年五一你去哪儿玩",
+      "onboard_time": 1682500470,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 150781,
@@ -5683,6 +5715,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 131768,
+      "num": 131768,
+      "word": "吴磊虞书欣 黑莲花",
+      "onboard_time": 1682501428,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131600,
       "num": 131600,
       "word": "和平精英四周年",
@@ -5745,6 +5785,22 @@
       "onboard_time": 1682317466,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127303,
+      "num": 127303,
+      "word": "柯基从包里翻出主人毕业证后咬烂",
+      "onboard_time": 1682497888,
+      "rank": 38,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 127233,
+      "num": 127233,
+      "word": "新形式的赘婿",
+      "onboard_time": 1682501188,
+      "rank": 39,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 126735,
@@ -5867,6 +5923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122457,
+      "num": 122457,
+      "word": "丫丫预计27日下午抵达上海",
+      "onboard_time": 1682500768,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122334,
       "num": 122334,
       "word": "浙江男篮vs深圳男篮",
@@ -5897,14 +5961,6 @@
       "onboard_time": 1682342251,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121681,
-      "num": 121681,
-      "word": "柯基从包里翻出主人毕业证后咬烂",
-      "onboard_time": 1682497888,
-      "rank": 38,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 121292,
@@ -6059,6 +6115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108566,
+      "num": 108566,
+      "word": "排他协议",
+      "onboard_time": 1682499808,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108554,
       "num": 108554,
       "word": "猴子想吓人结果自己抻到筋",
@@ -6089,14 +6153,6 @@
       "onboard_time": 1682406747,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 107217,
-      "num": 107217,
-      "word": "排他协议",
-      "onboard_time": 1682499808,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 106928,
@@ -6147,12 +6203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105112,
-      "num": 105112,
-      "word": "今年五一你去哪儿玩",
-      "onboard_time": 1682500470,
-      "rank": 43,
-      "category": "旅游"
+      "raw_hot": 105322,
+      "num": 105322,
+      "word": "张艺兴我和我的青春讲述者",
+      "onboard_time": 1682501488,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 104692,
@@ -6209,6 +6265,14 @@
       "onboard_time": 1682463739,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95281,
+      "num": 95281,
+      "word": "张艺凡不长胆子只长个",
+      "onboard_time": 1682501609,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 94514,
@@ -6340,7 +6404,7 @@
     },
     {
       "raw_hot": 85172,
-      "num": 1156546,
+      "num": 1295039,
       "word": "这些文化遗存现今的模样",
       "onboard_time": 1682495425,
       "rank": 2,
