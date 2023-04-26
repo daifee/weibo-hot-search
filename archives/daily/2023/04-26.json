@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682486178464,
+  "endTime": 1682487218507,
   "band_list": [
     {
       "raw_hot": 3029892,
@@ -43,20 +43,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1794127,
+      "num": 970086,
+      "word": "淄博希尔顿酒店回应房费只用付一半",
+      "onboard_time": 1682478384,
+      "rank": 24,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 1768349,
       "num": 1768349,
       "word": "现偶收视率前十里有五部是张翰的",
       "onboard_time": 1682480425,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1754603,
-      "num": 970086,
-      "word": "淄博希尔顿酒店回应房费只用付一半",
-      "onboard_time": 1682478384,
-      "rank": 24,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1665590,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1378042,
+      "num": 1129705,
+      "word": "海南一12岁小学生骑车被撞身亡",
+      "onboard_time": 1682483190,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1227617,
       "num": 1227617,
       "word": "丫丫将回国",
@@ -112,14 +120,6 @@
       "word": "面试1小时发现走错反获2家公司offer",
       "onboard_time": 1682435069,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1129705,
-      "num": 1129705,
-      "word": "海南一12岁小学生骑车被撞身亡",
-      "onboard_time": 1682483190,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -235,6 +235,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 503413,
+      "num": 503413,
+      "word": "黄牛加价倒卖吐司300一条",
+      "onboard_time": 1682483370,
+      "rank": 37,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 500595,
       "num": 289065,
       "word": "刘涛 韩素希",
@@ -323,6 +331,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 442307,
+      "num": 442307,
+      "word": "鞠婧祎仪态变化",
+      "onboard_time": 1682482108,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 429084,
       "num": 429084,
       "word": "萌兰",
@@ -337,22 +353,6 @@
       "onboard_time": 1682475088,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 409649,
-      "num": 409649,
-      "word": "黄牛加价倒卖吐司300一条",
-      "onboard_time": 1682483370,
-      "rank": 37,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 401358,
-      "num": 401358,
-      "word": "鞠婧祎仪态变化",
-      "onboard_time": 1682482108,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 394941,
@@ -377,6 +377,14 @@
       "onboard_time": 1682465062,
       "rank": 12,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 364515,
+      "num": 364515,
+      "word": "威少失误",
+      "onboard_time": 1682485113,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 356172,
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334645,
+      "num": 334645,
+      "word": "杨幂军装路透",
+      "onboard_time": 1682485828,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 325723,
       "num": 236704,
       "word": "劳荣枝辩护律师吴丹红被律协调查",
@@ -467,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 311678,
+      "num": 311678,
+      "word": "患癌晚期 给女儿留有意义的东西",
+      "onboard_time": 1682482888,
+      "rank": 42,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 278770,
       "num": 278770,
       "word": "教师请病假25年退休前编制消失",
@@ -481,14 +505,6 @@
       "onboard_time": 1682470471,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 274426,
-      "num": 274426,
-      "word": "威少失误",
-      "onboard_time": 1682485113,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 272931,
@@ -531,20 +547,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257206,
-      "num": 199654,
-      "word": "患癌晚期 给女儿留有意义的东西",
-      "onboard_time": 1682482888,
-      "rank": 42,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 253696,
       "num": 253696,
       "word": "林智妍新剧演被家暴的人",
       "onboard_time": 1682475568,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 248502,
+      "num": 248502,
+      "word": "喜欢你我也是",
+      "onboard_time": 1682485529,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 242603,
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 222230,
-      "num": 199195,
+      "num": 208356,
       "word": "把球给杜兰特",
       "onboard_time": 1682485470,
       "rank": 31,
@@ -643,20 +659,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202495,
+      "num": 202495,
+      "word": "下班后领导给我发23条长语音",
+      "onboard_time": 1682486129,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 201335,
       "num": 201335,
       "word": "深圳交通局再回应前局长孙女炫富事件",
       "onboard_time": 1682475687,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200287,
-      "num": 200287,
-      "word": "喜欢你我也是",
-      "onboard_time": 1682485529,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 200083,
@@ -739,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181480,
-      "num": 181480,
-      "word": "杨幂军装路透",
-      "onboard_time": 1682485828,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176940,
       "num": 176940,
       "word": "大熊猫萌兰反向给游客投喂竹子",
@@ -817,6 +825,14 @@
       "onboard_time": 1682478808,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164153,
+      "num": 164153,
+      "word": "好翰莫提当年勇",
+      "onboard_time": 1682486667,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 161901,
@@ -995,6 +1011,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 135563,
+      "num": 135563,
+      "word": "布克47分",
+      "onboard_time": 1682486249,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135433,
       "num": 135433,
       "word": "第16个全国疟疾日",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1682478927,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127912,
+      "num": 127912,
+      "word": "千万不能乱投简历",
+      "onboard_time": 1682486187,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 127541,
@@ -1083,14 +1115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125784,
-      "num": 131937,
-      "word": "下班后领导给我发23条长语音",
-      "onboard_time": 1682486129,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 124012,
       "num": 124012,
       "word": "旅游时你最讨厌哪些行为",
@@ -1112,6 +1136,14 @@
       "word": "带状疱疹疼痛可能持续数月甚至数年",
       "onboard_time": 1682478687,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121821,
+      "num": 121821,
+      "word": "李延贺涉嫌危害国家安全被调查",
+      "onboard_time": 1682486909,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1137,6 +1169,14 @@
       "onboard_time": 1682433270,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 107754,
+      "num": 404167,
+      "word": "原神 白术PV",
+      "onboard_time": 1682485228,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 107752,
@@ -1233,14 +1273,6 @@
       "onboard_time": 1682424927,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83157,
-      "num": 404167,
-      "word": "原神 白术PV",
-      "onboard_time": 1682485228,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 80449,
