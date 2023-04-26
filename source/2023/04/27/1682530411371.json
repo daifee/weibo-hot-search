@@ -1,0 +1,410 @@
+{
+  "runTime": 1682530411371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 530149,
+        "num": 530149,
+        "word": "曾经很火却已消失了的品牌",
+        "onboard_time": 1682514989,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401535,
+        "num": 401535,
+        "word": "丫丫启程回国",
+        "onboard_time": 1682518293,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10843,
+        "num": 304363,
+        "word": "第六届数字中国建设峰会",
+        "onboard_time": 1682512106,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259332,
+        "num": 259332,
+        "word": "刘畊宏了一年的变化",
+        "onboard_time": 1682502629,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251553,
+        "num": 251553,
+        "word": "丫丫",
+        "onboard_time": 1682510426,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224059,
+        "num": 224059,
+        "word": "压力给到张子枫",
+        "onboard_time": 1682513426,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204621,
+        "num": 204621,
+        "word": "发疯有用",
+        "onboard_time": 1682523928,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202588,
+        "num": 202588,
+        "word": "星痕",
+        "onboard_time": 1682523088,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153427,
+        "num": 153427,
+        "word": "易烊千玺刘宪华同框",
+        "onboard_time": 1682523509,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151523,
+        "num": 151523,
+        "word": "吴磊虞书欣 黑莲花",
+        "onboard_time": 1682501428,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 452812,
+        "num": 151050,
+        "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+        "onboard_time": 1682519370,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428907,
+        "num": 150862,
+        "word": "嗯哼 人要接受自己的不完美",
+        "onboard_time": 1682518170,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264173,
+        "num": 150732,
+        "word": "专家称五一调休是动了脑筋的做法",
+        "onboard_time": 1682502027,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150501,
+        "num": 150501,
+        "word": "乌克兰",
+        "onboard_time": 1682511747,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 140863,
+        "num": 140863,
+        "word": "奚梦瑶又去深圳上课了",
+        "onboard_time": 1682519312,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138084,
+        "num": 138084,
+        "word": "女生厕所遇代孕广告用贴纸遮盖",
+        "onboard_time": 1682497167,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123365,
+        "num": 123365,
+        "word": "GALI",
+        "onboard_time": 1682521173,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119808,
+        "num": 119808,
+        "word": "gidle将在长沙举办签售会",
+        "onboard_time": 1682520031,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118934,
+        "num": 118934,
+        "word": "叶冰裳下线",
+        "onboard_time": 1682521230,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 98997,
+        "num": 98997,
+        "word": "一起欢迎丫丫回家",
+        "onboard_time": 1682521770,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95725,
+        "num": 95725,
+        "word": "串串店家回应鸡爪插13根签",
+        "onboard_time": 1682512648,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95411,
+        "num": 95411,
+        "word": "宋寅说王一博比自己帅",
+        "onboard_time": 1682527342,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94133,
+        "num": 94133,
+        "word": "西直门长公主",
+        "onboard_time": 1682504370,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87598,
+        "num": 87598,
+        "word": "你会介意另一半文化水平低吗",
+        "onboard_time": 1682518710,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86500,
+        "num": 86500,
+        "word": "女子称肚痛就医检查遭医生猥亵",
+        "onboard_time": 1682518110,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83431,
+        "num": 83431,
+        "word": "陈都灵生图",
+        "onboard_time": 1682512588,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 80158,
+        "num": 80158,
+        "word": "赵丽颖周放",
+        "onboard_time": 1682511445,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77779,
+        "num": 77779,
+        "word": "宫脇咲良演我对所有蔬菜态度",
+        "onboard_time": 1682525366,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72392,
+        "num": 72392,
+        "word": "澹台烬带着叶夕雾的仙髓活着",
+        "onboard_time": 1682521173,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68051,
+        "num": 68051,
+        "word": "分不清是萧敬腾还是钟楚曦",
+        "onboard_time": 1682519010,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65452,
+        "num": 65452,
+        "word": "喻言的蓬蓬裙好大",
+        "onboard_time": 1682510909,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64496,
+        "num": 64496,
+        "word": "任嘉伦袁冰妍或将主演千香引",
+        "onboard_time": 1682518710,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 62421,
+        "num": 62421,
+        "word": "医院回应女子称遭医生猥亵",
+        "onboard_time": 1682525963,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61214,
+        "num": 61214,
+        "word": "这才是女生们想找的裤子吧",
+        "onboard_time": 1682503287,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57762,
+        "num": 57762,
+        "word": "不考虑收入你最想做什么工作",
+        "onboard_time": 1682522189,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54272,
+        "num": 54272,
+        "word": "民警带服刑人员去民政局登记结婚",
+        "onboard_time": 1682510787,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 51209,
+        "num": 51209,
+        "word": "孔雪儿 复古名伶",
+        "onboard_time": 1682513729,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50480,
+        "num": 50480,
+        "word": "杨幂的发量",
+        "onboard_time": 1682507008,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49642,
+        "num": 49642,
+        "word": "李沁工作室出的图",
+        "onboard_time": 1682507727,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49518,
+        "num": 49518,
+        "word": "PDD歌友会",
+        "onboard_time": 1682506049,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47760,
+        "num": 47760,
+        "word": "曼城vs阿森纳",
+        "onboard_time": 1682524949,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46775,
+        "num": 46775,
+        "word": "云南有5种颜色的草莓",
+        "onboard_time": 1682515949,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 45540,
+        "num": 45540,
+        "word": "男明星谁赢了",
+        "onboard_time": 1682513006,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 44517,
+        "num": 44517,
+        "word": "伦纳德右膝半月板撕裂",
+        "onboard_time": 1682520332,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42842,
+        "num": 42842,
+        "word": "甄嬛传播出十年孙俪才意识到很火",
+        "onboard_time": 1682502027,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41272,
+        "num": 41272,
+        "word": "徐明浩高叶陈赫合照",
+        "onboard_time": 1682517692,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40946,
+        "num": 40946,
+        "word": "女朋友要一个孩子随她姓",
+        "onboard_time": 1682491347,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37788,
+        "num": 40929,
+        "word": "迪丽热巴在袖子上夹夹子",
+        "onboard_time": 1682503589,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36567,
+        "num": 40786,
+        "word": "你给我的喜欢同床了",
+        "onboard_time": 1682520812,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 29225,
+        "num": 40690,
+        "word": "真是又精致又粗糙",
+        "onboard_time": 1682523866,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会倒计时150天#"
+    }
+  }
+}
