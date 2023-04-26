@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682527138392,
+  "endTime": 1682529339866,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -7081,6 +7081,14 @@
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101125,
+      "num": 101125,
+      "word": "宋寅说王一博比自己帅",
+      "onboard_time": 1682527342,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 97712,
