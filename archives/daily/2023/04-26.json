@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682522294338,
+  "endTime": 1682523213889,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -243,7 +243,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1066958,
+      "raw_hot": 1102402,
       "num": 482333,
       "word": "嗯哼 人要接受自己的不完美",
       "onboard_time": 1682518170,
@@ -315,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 836685,
+      "num": 836685,
+      "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+      "onboard_time": 1682519370,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801882,
       "num": 735518,
       "word": "这竟然是彭昱畅",
@@ -353,14 +361,6 @@
       "onboard_time": 1682511747,
       "rank": 27,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 758210,
-      "num": 758210,
-      "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
-      "onboard_time": 1682519370,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 751930,
@@ -875,6 +875,22 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 346816,
+      "num": 346816,
+      "word": "GALI",
+      "onboard_time": 1682521173,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 345962,
+      "num": 345962,
+      "word": "叶冰裳下线",
+      "onboard_time": 1682521230,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337852,
       "num": 337852,
       "word": "申军良回应梅姨被抓到",
@@ -979,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299749,
+      "num": 299749,
+      "word": "女子称肚痛就医检查遭医生猥亵",
+      "onboard_time": 1682518110,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295527,
       "num": 295527,
       "word": "天涯社区",
@@ -1003,11 +1027,11 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 288670,
-      "num": 288670,
-      "word": "女子称肚痛就医检查遭医生猥亵",
-      "onboard_time": 1682518110,
-      "rank": 39,
+      "raw_hot": 289742,
+      "num": 289742,
+      "word": "一起欢迎丫丫回家",
+      "onboard_time": 1682521770,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1017,14 +1041,6 @@
       "onboard_time": 1682517692,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286439,
-      "num": 286439,
-      "word": "GALI",
-      "onboard_time": 1682521173,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 278770,
@@ -1139,20 +1155,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 259364,
+      "num": 259364,
+      "word": "你会介意另一半文化水平低吗",
+      "onboard_time": 1682518710,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258859,
       "num": 258859,
       "word": "林孝埈的小狗好可爱",
       "onboard_time": 1682483429,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256295,
-      "num": 256295,
-      "word": "叶冰裳下线",
-      "onboard_time": 1682521230,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 256111,
@@ -1259,14 +1275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239226,
-      "num": 239226,
-      "word": "一起欢迎丫丫回家",
-      "onboard_time": 1682521770,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237854,
       "num": 189930,
       "word": "林俊杰演唱会散场后的巴黎地铁",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1682503888,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 236619,
+      "num": 236619,
+      "word": "你给我的喜欢同床了",
+      "onboard_time": 1682520812,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 235220,
@@ -1395,14 +1411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 215343,
-      "num": 215343,
-      "word": "你会介意另一半文化水平低吗",
-      "onboard_time": 1682518710,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 215167,
       "num": 215167,
       "word": "叶夕雾跳城楼",
@@ -1425,14 +1433,6 @@
       "onboard_time": 1682486187,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210615,
-      "num": 210615,
-      "word": "你给我的喜欢同床了",
-      "onboard_time": 1682520812,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 206029,
@@ -1537,6 +1537,14 @@
       "onboard_time": 1682472567,
       "rank": 27,
       "category": "体育,科技"
+    },
+    {
+      "raw_hot": 196456,
+      "num": 196456,
+      "word": "不考虑收入你最想做什么工作",
+      "onboard_time": 1682522189,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 196342,
@@ -1803,14 +1811,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 166469,
-      "num": 195160,
-      "word": "不考虑收入你最想做什么工作",
-      "onboard_time": 1682522189,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166181,
       "num": 166181,
       "word": "航拍中国台湾篇将播出",
@@ -1865,6 +1865,14 @@
       "onboard_time": 1682479226,
       "rank": 34,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 161385,
+      "num": 143371,
+      "word": "澹台烬带着叶夕雾的仙髓活着",
+      "onboard_time": 1682521173,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 159763,
@@ -1961,14 +1969,6 @@
       "onboard_time": 1682510125,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 151159,
-      "num": 143371,
-      "word": "澹台烬带着叶夕雾的仙髓活着",
-      "onboard_time": 1682521173,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 151050,
@@ -2097,6 +2097,14 @@
       "onboard_time": 1682476284,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144496,
+      "num": 144496,
+      "word": "星痕",
+      "onboard_time": 1682523088,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 144059,
@@ -2499,6 +2507,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 102665,
+      "num": 102665,
+      "word": "快船尽力了 伦纳德没有",
+      "onboard_time": 1682522851,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100770,
       "num": 100770,
       "word": "拜登正式宣布竞选连任美国总统",
@@ -2762,6 +2778,9 @@
     },
     {
       "word": "#主题教育这样开展#"
+    },
+    {
+      "word": "#习近平同泽连斯基通电话#"
     }
   ]
 }
