@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682540223034,
+  "endTime": 1682541236604,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -61355,6 +61355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25013,
+      "num": 19177,
+      "word": "尹锡悦抵美在机场亲吻花童引争议",
+      "onboard_time": 1682539571,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 24845,
       "num": 24845,
       "word": "SEVENTEEN孙悟空MV",
@@ -61529,14 +61537,6 @@
       "onboard_time": 1681984227,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15044,
-      "num": 15044,
-      "word": "尹锡悦抵美在机场亲吻花童引争议",
-      "onboard_time": 1682539571,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 15032,

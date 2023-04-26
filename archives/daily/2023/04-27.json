@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682540223034,
+  "endTime": 1682541236604,
   "band_list": [
     {
       "raw_hot": 1656772,
@@ -427,6 +427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 25013,
+      "num": 19177,
+      "word": "尹锡悦抵美在机场亲吻花童引争议",
+      "onboard_time": 1682539571,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 23029,
       "num": 25436,
       "word": "刘宇宁染头发了",
@@ -441,14 +449,6 @@
       "onboard_time": 1682512106,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15044,
-      "num": 15044,
-      "word": "尹锡悦抵美在机场亲吻花童引争议",
-      "onboard_time": 1682539571,
-      "rank": 43,
-      "category": "国外要闻"
     }
   ],
   "hotgov_list": [
