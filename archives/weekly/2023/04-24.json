@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682487218507,
+  "endTime": 1682490147521,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -643,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 983901,
+      "num": 983901,
+      "word": "梅姨在广州落网消息不实",
+      "onboard_time": 1682479587,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 973128,
       "num": 973128,
       "word": "gap day",
@@ -697,14 +705,6 @@
       "onboard_time": 1682344230,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 869623,
-      "num": 869623,
-      "word": "梅姨在广州落网消息不实",
-      "onboard_time": 1682479587,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 864549,
@@ -1811,12 +1811,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388437,
+      "num": 388437,
+      "word": "下班后领导给我发23条长语音",
+      "onboard_time": 1682486129,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 388207,
       "num": 276315,
       "word": "爱奇艺回应下架灌篮高手国语版",
       "onboard_time": 1682402487,
       "rank": 36,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 387986,
+      "num": 387986,
+      "word": "杨幂军装路透",
+      "onboard_time": 1682485828,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 387599,
+      "num": 386337,
+      "word": "女子淄博买切糕2种口味称重仅6元",
+      "onboard_time": 1682489127,
+      "rank": 10,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 386398,
@@ -1921,6 +1945,14 @@
       "onboard_time": 1682430752,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361171,
+      "num": 361171,
+      "word": "李延贺涉嫌危害国家安全被调查",
+      "onboard_time": 1682486909,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358726,
@@ -2121,14 +2153,6 @@
       "onboard_time": 1682467770,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334645,
-      "num": 334645,
-      "word": "杨幂军装路透",
-      "onboard_time": 1682485828,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 334482,
@@ -2403,6 +2427,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 310941,
+      "num": 310941,
+      "word": "何炅晒与黄磊向往的生活海报",
+      "onboard_time": 1682488467,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310349,
       "num": 310349,
       "word": "全世界除了滔搏都笑的很开心",
@@ -2489,6 +2521,14 @@
       "onboard_time": 1682326348,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 294206,
+      "num": 294206,
+      "word": "肖战如梦之梦最新镜头",
+      "onboard_time": 1682488707,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 292956,
@@ -3131,6 +3171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 237451,
+      "num": 237451,
+      "word": "淄博五一客流量已超接待能力",
+      "onboard_time": 1682489606,
+      "rank": 23,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 236496,
       "num": 218734,
       "word": "TES发博告别春季赛",
@@ -3467,6 +3515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211974,
+      "num": 211974,
+      "word": "千万不能乱投简历",
+      "onboard_time": 1682486187,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211585,
       "num": 211585,
       "word": "科目二到底有多难考",
@@ -3643,14 +3699,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 202495,
-      "num": 202495,
-      "word": "下班后领导给我发23条长语音",
-      "onboard_time": 1682486129,
-      "rank": 49,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 202270,
       "num": 202270,
       "word": "你给我的喜欢",
@@ -3777,6 +3825,14 @@
       "onboard_time": 1682254051,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196342,
+      "num": 196342,
+      "word": "好翰莫提当年勇",
+      "onboard_time": 1682486667,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 196328,
@@ -3913,6 +3969,14 @@
       "onboard_time": 1682408908,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 191115,
+      "num": 191115,
+      "word": "哈尔的移动馄饨摊",
+      "onboard_time": 1682487567,
+      "rank": 28,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 190917,
@@ -4539,14 +4603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164153,
-      "num": 164153,
-      "word": "好翰莫提当年勇",
-      "onboard_time": 1682486667,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 164075,
       "num": 164075,
       "word": "河南专升本",
@@ -4665,6 +4721,14 @@
       "onboard_time": 1682301206,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159427,
+      "num": 159427,
+      "word": "龚俊粉色长袍造型",
+      "onboard_time": 1682487748,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 159380,
@@ -4883,6 +4947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147886,
+      "num": 147886,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1682488947,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147716,
       "num": 170985,
       "word": "青岛海牛vs北京国安",
@@ -5059,6 +5131,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 142731,
+      "num": 142731,
+      "word": "bbno巡演",
+      "onboard_time": 1682490023,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142626,
       "num": 133440,
       "word": "张婧仪扫楼生图",
@@ -5147,6 +5227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137037,
+      "num": 137037,
+      "word": "长空之王上海首映礼",
+      "onboard_time": 1682489908,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 135829,
       "num": 135829,
       "word": "ZB1将7月出道",
@@ -5185,6 +5273,14 @@
       "onboard_time": 1682422108,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134735,
+      "num": 134735,
+      "word": "丫丫专机将于当地时间26日中午起飞",
+      "onboard_time": 1682489727,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134586,
@@ -5320,14 +5416,6 @@
       "word": "为什么和妈妈说话就很不耐烦",
       "onboard_time": 1682317466,
       "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 127912,
-      "num": 127912,
-      "word": "千万不能乱投简历",
-      "onboard_time": 1682486187,
-      "rank": 43,
       "category": "情感"
     },
     {
@@ -5473,14 +5561,6 @@
       "onboard_time": 1682342251,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121821,
-      "num": 121821,
-      "word": "李延贺涉嫌危害国家安全被调查",
-      "onboard_time": 1682486909,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121292,
@@ -5707,6 +5787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104957,
+      "num": 104957,
+      "word": "deca joins",
+      "onboard_time": 1682488980,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 104692,
       "num": 421771,
       "word": "官方回应跨境电商被指责",
@@ -5721,6 +5809,14 @@
       "onboard_time": 1682251951,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104269,
+      "num": 104269,
+      "word": "浙江一图书馆将核酸亭改为自习室",
+      "onboard_time": 1682490086,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 103218,
