@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682477008528,
+  "endTime": 1682479096796,
   "band_list": [
     {
       "raw_hot": 2294463,
@@ -19,12 +19,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1859650,
+      "raw_hot": 2014756,
       "num": 1734162,
       "word": "前交通局长孙女炫富事件调查已满月",
       "onboard_time": 1682472867,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1948906,
+      "num": 882211,
+      "word": "周六野因前男友长六颗子宫肌瘤",
+      "onboard_time": 1682477664,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1665590,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620556,
+      "num": 620556,
+      "word": "杨紫  转念花开",
+      "onboard_time": 1682477486,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 615187,
       "num": 502666,
       "word": "奚梦瑶 你们的快乐吵到我学习了",
@@ -147,12 +163,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 531609,
-      "num": 531609,
+      "raw_hot": 553045,
+      "num": 553045,
       "word": "民宿毁约涨价糟蹋了多少人的五一",
       "onboard_time": 1682474187,
       "rank": 11,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 522565,
+      "num": 522565,
+      "word": "长月烬明更换背景音乐",
+      "onboard_time": 1682478085,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 500595,
@@ -161,6 +185,14 @@
       "onboard_time": 1682425638,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499320,
+      "num": 400834,
+      "word": "如何看待律师称梅姨被抓",
+      "onboard_time": 1682479045,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493795,
@@ -227,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421109,
+      "num": 421109,
+      "word": "被米哈游背刺的一生",
+      "onboard_time": 1682475088,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 394941,
+      "num": 394941,
+      "word": "朴秀荣因状态不佳暂停行程",
+      "onboard_time": 1682476465,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394254,
       "num": 394254,
       "word": "新员工交接到一半想离职了",
@@ -241,14 +289,6 @@
       "onboard_time": 1682465062,
       "rank": 12,
       "category": "时尚,网红"
-    },
-    {
-      "raw_hot": 384973,
-      "num": 384973,
-      "word": "被米哈游背刺的一生",
-      "onboard_time": 1682475088,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 356172,
@@ -403,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227919,
+      "num": 227919,
+      "word": "姐姐出嫁被婚车接走妹妹哭成泪人",
+      "onboard_time": 1682476644,
+      "rank": 40,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 227204,
       "num": 227204,
       "word": "女生两次遭霸凌视频疯传致其抑郁",
@@ -411,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226150,
+      "num": 226150,
+      "word": "试用期的最后一天被辞退了",
+      "onboard_time": 1682475806,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224631,
       "num": 224631,
       "word": "22岁白人男演员12次整形手术后死亡",
       "onboard_time": 1682427809,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223645,
+      "num": 223645,
+      "word": "淄博希尔顿酒店回应房费只用付一半",
+      "onboard_time": 1682478384,
+      "rank": 24,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 218230,
@@ -449,14 +513,6 @@
       "onboard_time": 1682475687,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198834,
-      "num": 198834,
-      "word": "朴秀荣因状态不佳暂停行程",
-      "onboard_time": 1682476465,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 198113,
@@ -499,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183352,
-      "num": 183352,
-      "word": "试用期的最后一天被辞退了",
-      "onboard_time": 1682475806,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182930,
       "num": 182930,
       "word": "郭靖宇说肖战的表演非常惊艳",
@@ -537,6 +585,14 @@
       "onboard_time": 1682444116,
       "rank": 10,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 175311,
+      "num": 175311,
+      "word": "阴阳师银魂联动",
+      "onboard_time": 1682477906,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 173012,
@@ -611,14 +667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152684,
-      "num": 152684,
-      "word": "姐姐出嫁被婚车接走妹妹哭成泪人",
-      "onboard_time": 1682476644,
-      "rank": 40,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 152511,
       "num": 147094,
       "word": "长月烬明",
@@ -667,6 +715,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 142850,
+      "num": 142850,
+      "word": "快船vs太阳",
+      "onboard_time": 1682478808,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140541,
       "num": 140541,
       "word": "澹台烬不知道叶夕雾失明",
@@ -681,6 +737,22 @@
       "onboard_time": 1682433032,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137351,
+      "num": 137351,
+      "word": "淄博民宿1元售出五一房间",
+      "onboard_time": 1682478446,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136566,
+      "num": 136566,
+      "word": "长假出游是好选择吗",
+      "onboard_time": 1682479045,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 135741,
@@ -713,6 +785,14 @@
       "onboard_time": 1682438606,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129925,
+      "num": 129925,
+      "word": "权志龙为太阳宣传新专",
+      "onboard_time": 1682478927,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 127541,
@@ -761,6 +841,14 @@
       "onboard_time": 1682466684,
       "rank": 46,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 122051,
+      "num": 122051,
+      "word": "带状疱疹疼痛可能持续数月甚至数年",
+      "onboard_time": 1682478687,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121292,
@@ -953,6 +1041,14 @@
       "onboard_time": 1682442496,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 50073,
+      "num": 403574,
+      "word": "手机里最绝的演唱会明星生图",
+      "onboard_time": 1682478027,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 30989,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1682479096796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1485792,
+        "num": 1485792,
+        "word": "不建议跟一累就黑脸的人出去玩",
+        "onboard_time": 1682468671,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 907528,
+        "num": 907528,
+        "word": "孙卓被拐案代理律师称梅姨已被抓",
+        "onboard_time": 1682475026,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17096,
+        "num": 883241,
+        "word": "行走百县话振兴",
+        "onboard_time": 1682430449,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1948906,
+        "num": 882211,
+        "word": "周六野因前男友长六颗子宫肌瘤",
+        "onboard_time": 1682477664,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 880549,
+        "num": 880549,
+        "word": "谢娜再回应助理打手机事件",
+        "onboard_time": 1682466804,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2014756,
+        "num": 783383,
+        "word": "前交通局长孙女炫富事件调查已满月",
+        "onboard_time": 1682472867,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678864,
+        "num": 678864,
+        "word": "肖战周也 徐克新电影",
+        "onboard_time": 1682467108,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 675171,
+        "num": 675171,
+        "word": "长月烬明 抄袭阴阳师",
+        "onboard_time": 1682430151,
+        "rank": 7,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 637943,
+        "num": 637943,
+        "word": "丫丫",
+        "onboard_time": 1682452815,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620556,
+        "num": 620556,
+        "word": "杨紫  转念花开",
+        "onboard_time": 1682477486,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553045,
+        "num": 553045,
+        "word": "民宿毁约涨价糟蹋了多少人的五一",
+        "onboard_time": 1682474187,
+        "rank": 10,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 523491,
+        "num": 523491,
+        "word": "广州公安回应网传梅姨被抓",
+        "onboard_time": 1682475147,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522565,
+        "num": 522565,
+        "word": "长月烬明更换背景音乐",
+        "onboard_time": 1682478085,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 421109,
+        "num": 421109,
+        "word": "被米哈游背刺的一生",
+        "onboard_time": 1682475088,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 50073,
+        "num": 403574,
+        "word": "手机里最绝的演唱会明星生图",
+        "onboard_time": 1682478027,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 499320,
+        "num": 400834,
+        "word": "如何看待律师称梅姨被抓",
+        "onboard_time": 1682479045,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394941,
+        "num": 394941,
+        "word": "朴秀荣因状态不佳暂停行程",
+        "onboard_time": 1682476465,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373505,
+        "num": 373505,
+        "word": "高叶甜美风古装",
+        "onboard_time": 1682472449,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311047,
+        "num": 311047,
+        "word": "舅舅私吞孤儿外甥女百万遗产救助金",
+        "onboard_time": 1682447893,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293244,
+        "num": 293244,
+        "word": "特雷杨绝杀",
+        "onboard_time": 1682474728,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634782,
+        "num": 279432,
+        "word": "99年女子疑过度劳累宿舍猝死",
+        "onboard_time": 1682465784,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252129,
+        "num": 252129,
+        "word": "奔驰女司机疑盲驾将老人撞飞51米",
+        "onboard_time": 1682472386,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227919,
+        "num": 227919,
+        "word": "姐姐出嫁被婚车接走妹妹哭成泪人",
+        "onboard_time": 1682476644,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 226150,
+        "num": 226150,
+        "word": "试用期的最后一天被辞退了",
+        "onboard_time": 1682475806,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223645,
+        "num": 223645,
+        "word": "淄博希尔顿酒店回应房费只用付一半",
+        "onboard_time": 1682478384,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 207439,
+        "num": 207439,
+        "word": "看着不体面但很赚钱的工作",
+        "onboard_time": 1682428589,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204173,
+        "num": 204173,
+        "word": "林智妍新剧演被家暴的人",
+        "onboard_time": 1682475568,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191218,
+        "num": 191218,
+        "word": "面试1小时发现走错反获2家公司offer",
+        "onboard_time": 1682435069,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298852,
+        "num": 187416,
+        "word": "这竟然是彭昱畅",
+        "onboard_time": 1682427090,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154794,
+        "num": 184621,
+        "word": "这个小县城开了300多家咖啡店",
+        "onboard_time": 1682467770,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201498,
+        "num": 184368,
+        "word": "游客订淄博酒店被通知只用付一半",
+        "onboard_time": 1682470471,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 182753,
+        "num": 182753,
+        "word": "陈翔问路人你喜欢苏醒还是我",
+        "onboard_time": 1682423849,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175311,
+        "num": 175311,
+        "word": "阴阳师银魂联动",
+        "onboard_time": 1682477906,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175023,
+        "num": 175023,
+        "word": "申军良回应梅姨被抓到",
+        "onboard_time": 1682474728,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174753,
+        "num": 174753,
+        "word": "鹿晗上海高铁站饭拍",
+        "onboard_time": 1682474609,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171686,
+        "num": 171686,
+        "word": "你学的专业在古代叫什么",
+        "onboard_time": 1682474967,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166218,
+        "num": 166218,
+        "word": "深圳交通局再回应前局长孙女炫富事件",
+        "onboard_time": 1682475687,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163284,
+        "num": 163284,
+        "word": "当事人回应吐槽软卧3男1女被批",
+        "onboard_time": 1682469989,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157044,
+        "num": 157044,
+        "word": "王者荣耀",
+        "onboard_time": 1682474967,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152677,
+        "num": 152677,
+        "word": "星穹铁道提前开服",
+        "onboard_time": 1682471909,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144909,
+        "num": 144909,
+        "word": "罗云熙白鹿涨粉情况",
+        "onboard_time": 1682467226,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143551,
+        "num": 143551,
+        "word": "阴阳师 鼠门",
+        "onboard_time": 1682470471,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142850,
+        "num": 142850,
+        "word": "快船vs太阳",
+        "onboard_time": 1682478808,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137351,
+        "num": 137351,
+        "word": "淄博民宿1元售出五一房间",
+        "onboard_time": 1682478446,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136900,
+        "num": 136900,
+        "word": "新员工交接到一半想离职了",
+        "onboard_time": 1682431829,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136566,
+        "num": 136566,
+        "word": "长假出游是好选择吗",
+        "onboard_time": 1682479045,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 129925,
+        "num": 129925,
+        "word": "权志龙为太阳宣传新专",
+        "onboard_time": 1682478927,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122051,
+        "num": 122051,
+        "word": "带状疱疹疼痛可能持续数月甚至数年",
+        "onboard_time": 1682478687,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120739,
+        "num": 120739,
+        "word": "刘若英门票",
+        "onboard_time": 1682473527,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120308,
+        "num": 120308,
+        "word": "时代少年团白天上课晚上上班",
+        "onboard_time": 1682471189,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受外国驻华大使递交国书#"
+    }
+  }
+}
