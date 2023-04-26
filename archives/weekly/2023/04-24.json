@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682473625144,
+  "endTime": 1682476483365,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2062694,
+      "num": 2062694,
+      "word": "不建议跟一累就黑脸的人出去玩",
+      "onboard_time": 1682468671,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2032493,
       "num": 502666,
       "word": "奚梦瑶 你们的快乐吵到我学习了",
@@ -187,14 +195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1824238,
-      "num": 1824238,
-      "word": "不建议跟一累就黑脸的人出去玩",
-      "onboard_time": 1682468671,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1821082,
       "num": 1821082,
       "word": "腺样体面容",
@@ -209,6 +209,14 @@
       "onboard_time": 1682427090,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1734162,
+      "num": 1734162,
+      "word": "前交通局长孙女炫富事件调查已满月",
+      "onboard_time": 1682472867,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1713976,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 1555438,
-      "num": 1207537,
+      "num": 1273340,
       "word": "梅姨",
       "onboard_time": 1682465482,
       "rank": 31,
@@ -441,6 +449,14 @@
       "onboard_time": 1682320166,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1233023,
+      "num": 1233023,
+      "word": "孙卓被拐案代理律师称梅姨已被抓",
+      "onboard_time": 1682475026,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1229910,
@@ -787,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681441,
+      "num": 681441,
+      "word": "广州公安回应网传梅姨被抓",
+      "onboard_time": 1682475147,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677518,
       "num": 677518,
       "word": "法考",
@@ -977,6 +1001,14 @@
       "onboard_time": 1682304506,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 526008,
+      "num": 526008,
+      "word": "民宿毁约涨价糟蹋了多少人的五一",
+      "onboard_time": 1682474187,
+      "rank": 11,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 522478,
@@ -1203,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477220,
+      "num": 370658,
+      "word": "澹台烬殉情",
+      "onboard_time": 1682471789,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 475944,
       "num": 370982,
       "word": "我说谢娜助理怎么那么眼熟",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1682348970,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 460835,
+      "num": 460835,
+      "word": "特雷杨绝杀",
+      "onboard_time": 1682474728,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 458688,
@@ -1411,14 +1459,6 @@
       "category": "综艺,幽默"
     },
     {
-      "raw_hot": 434375,
-      "num": 434375,
-      "word": "前交通局长孙女炫富事件调查已满月",
-      "onboard_time": 1682472867,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433292,
       "num": 389357,
       "word": "张若昀红发",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1682380767,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 425430,
+      "num": 425430,
+      "word": "高叶甜美风古装",
+      "onboard_time": 1682472449,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 423871,
@@ -1712,14 +1760,6 @@
       "word": "龙城大妈去世",
       "onboard_time": 1682421925,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 370658,
-      "num": 370658,
-      "word": "澹台烬殉情",
-      "onboard_time": 1682471789,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -2011,6 +2051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326290,
+      "num": 326290,
+      "word": "申军良回应梅姨被抓到",
+      "onboard_time": 1682474728,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325723,
       "num": 236704,
       "word": "劳荣枝辩护律师吴丹红被律协调查",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1682291781,
       "rank": 47,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 320088,
+      "num": 320088,
+      "word": "奔驰女司机疑盲驾将老人撞飞51米",
+      "onboard_time": 1682472386,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319577,
@@ -2177,6 +2233,14 @@
       "onboard_time": 1682403687,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312381,
+      "num": 312381,
+      "word": "被米哈游背刺的一生",
+      "onboard_time": 1682475088,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 310349,
@@ -2499,14 +2563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 266725,
-      "num": 266725,
-      "word": "高叶甜美风古装",
-      "onboard_time": 1682472449,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266709,
       "num": 266709,
       "word": "鬼灭之刃",
@@ -2545,6 +2601,14 @@
       "onboard_time": 1682331989,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261019,
+      "num": 261019,
+      "word": "老鹰2比3凯尔特人",
+      "onboard_time": 1682475207,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 260435,
@@ -2665,14 +2729,6 @@
       "onboard_time": 1682313211,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 252686,
-      "num": 252686,
-      "word": "奔驰女司机疑盲驾将老人撞飞51米",
-      "onboard_time": 1682472386,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252561,
@@ -3123,6 +3179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216228,
+      "num": 216228,
+      "word": "林智妍新剧演被家暴的人",
+      "onboard_time": 1682475568,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216062,
       "num": 216062,
       "word": "武庚纪",
@@ -3187,6 +3251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212162,
+      "num": 212162,
+      "word": "王者荣耀",
+      "onboard_time": 1682474967,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211585,
       "num": 211585,
       "word": "科目二到底有多难考",
@@ -3200,6 +3272,14 @@
       "word": "朱一龙作品回报率",
       "onboard_time": 1682386886,
       "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210880,
+      "num": 210880,
+      "word": "鹿晗上海高铁站饭拍",
+      "onboard_time": 1682474609,
+      "rank": 31,
       "category": "作品衍生"
     },
     {
@@ -3603,6 +3683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190774,
+      "num": 190774,
+      "word": "你学的专业在古代叫什么",
+      "onboard_time": 1682474967,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190632,
       "num": 190632,
       "word": "汤唯感受到幸福的瞬间",
@@ -3681,6 +3769,14 @@
       "onboard_time": 1682334627,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189366,
+      "num": 189366,
+      "word": "深圳交通局再回应前局长孙女炫富事件",
+      "onboard_time": 1682475687,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189259,
@@ -4131,6 +4227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165574,
+      "num": 212175,
+      "word": "五一倒计时3天",
+      "onboard_time": 1682475266,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 165518,
       "num": 165518,
       "word": "库里叫暂停",
@@ -4275,6 +4379,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159380,
+      "num": 159380,
+      "word": "漫长的季节豆瓣涨分9.1",
+      "onboard_time": 1682475147,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 159169,
+      "num": 159169,
+      "word": "试用期的最后一天被辞退了",
+      "onboard_time": 1682475806,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158625,
       "num": 158625,
       "word": "离职之后被领导暖到了",
@@ -4409,6 +4529,14 @@
       "onboard_time": 1682421266,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150643,
+      "num": 150643,
+      "word": "SEVENTEEN创Melon历代第一",
+      "onboard_time": 1682473349,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 149326,
@@ -4555,12 +4683,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144962,
+      "num": 144962,
+      "word": "朴秀荣因状态不佳暂停行程",
+      "onboard_time": 1682476465,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144828,
       "num": 144828,
       "word": "内娱哪些演员适合演学霸",
       "onboard_time": 1682447052,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144670,
+      "num": 144670,
+      "word": "哪个瞬间觉得生活过得很累",
+      "onboard_time": 1682476284,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 144150,
@@ -4691,6 +4835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135433,
+      "num": 135433,
+      "word": "第16个全国疟疾日",
+      "onboard_time": 1682475926,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 135070,
       "num": 135070,
       "word": "工作后要不要每月给父母打钱",
@@ -4721,6 +4873,14 @@
       "onboard_time": 1682305526,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133989,
+      "num": 133989,
+      "word": "刘若英门票",
+      "onboard_time": 1682473527,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 133750,
@@ -4899,28 +5059,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122829,
-      "num": 122829,
-      "word": "SEVENTEEN创Melon历代第一",
-      "onboard_time": 1682473349,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 122685,
       "num": 122685,
       "word": "去淄博别老逮着烧烤吃",
       "onboard_time": 1682466684,
       "rank": 46,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 122490,
-      "num": 122490,
-      "word": "刘若英门票",
-      "onboard_time": 1682473527,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 122334,
@@ -5444,7 +5588,7 @@
     },
     {
       "raw_hot": 34690,
-      "num": 1232533,
+      "num": 1394359,
       "word": "行走百县话振兴",
       "onboard_time": 1682430449,
       "rank": 2,
