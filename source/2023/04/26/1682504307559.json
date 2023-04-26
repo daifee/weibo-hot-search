@@ -1,0 +1,410 @@
+{
+  "runTime": 1682504307559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1749290,
+        "num": 1749290,
+        "word": "女生厕所遇代孕广告用贴纸遮盖",
+        "onboard_time": 1682497167,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692888,
+        "num": 1615543,
+        "word": "淄博喊话推荐其他山东城市",
+        "onboard_time": 1682490626,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 50517,
+        "num": 1535171,
+        "word": "这些文化遗存现今的模样",
+        "onboard_time": 1682495425,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1509224,
+        "num": 1509224,
+        "word": "专家称五一调休是动了脑筋的做法",
+        "onboard_time": 1682502027,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286918,
+        "num": 939430,
+        "word": "坠楼女子3年后超市一眼认出恩人",
+        "onboard_time": 1682493808,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793638,
+        "num": 793638,
+        "word": "何炅黄磊好像两个假笑空巢老人",
+        "onboard_time": 1682498007,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120000,
+        "num": 788009,
+        "word": "现实版湘北队超32分赢了山王队",
+        "onboard_time": 1682503348,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 785742,
+        "num": 785742,
+        "word": "阴阳师声明",
+        "onboard_time": 1682495068,
+        "rank": 7,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 681879,
+        "num": 681879,
+        "word": "再也不敢乱点婚礼请柬了",
+        "onboard_time": 1682491886,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 586881,
+        "num": 586881,
+        "word": "替身说肖战拍戏现场不用看剧本",
+        "onboard_time": 1682502089,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 892461,
+        "num": 574325,
+        "word": "女朋友要一个孩子随她姓",
+        "onboard_time": 1682491347,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 524137,
+        "num": 524137,
+        "word": "女子淄博买切糕2种口味称重仅6元",
+        "onboard_time": 1682489127,
+        "rank": 11,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 483423,
+        "num": 483423,
+        "word": "吴磊虞书欣 黑莲花",
+        "onboard_time": 1682501428,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 443599,
+        "num": 443599,
+        "word": "刘畊宏了一年的变化",
+        "onboard_time": 1682502629,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98131,
+        "num": 437260,
+        "word": "费加罗红毯",
+        "onboard_time": 1682503228,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 432699,
+        "num": 432699,
+        "word": "章凝 杜鹃",
+        "onboard_time": 1682491047,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375784,
+        "num": 375784,
+        "word": "甄嬛传播出十年孙俪才意识到很火",
+        "onboard_time": 1682502027,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2232056,
+        "num": 369933,
+        "word": "南柱赫 校暴视频",
+        "onboard_time": 1682498547,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351478,
+        "num": 351478,
+        "word": "赖赖 有人盗了我的脸",
+        "onboard_time": 1682499928,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 291092,
+        "num": 291092,
+        "word": "新形式的赘婿",
+        "onboard_time": 1682501188,
+        "rank": 19,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 330195,
+        "num": 290156,
+        "word": "INTO1醉酒事件多视角",
+        "onboard_time": 1682498426,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288549,
+        "num": 288549,
+        "word": "中餐厅7拟邀阵容",
+        "onboard_time": 1682493446,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233193,
+        "num": 233193,
+        "word": "丫丫专机将于当地时间26日中午起飞",
+        "onboard_time": 1682489727,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218059,
+        "num": 218059,
+        "word": "淄博女领导的决策",
+        "onboard_time": 1682493926,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199786,
+        "num": 199786,
+        "word": "生完孩子为什么想离婚",
+        "onboard_time": 1682502149,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262582,
+        "num": 199385,
+        "word": "范丞丞说张婧仪像金毛",
+        "onboard_time": 1682503707,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209333,
+        "num": 199265,
+        "word": "迪丽热巴在袖子上夹夹子",
+        "onboard_time": 1682503589,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198532,
+        "num": 198532,
+        "word": "淄博希尔顿酒店回应房费只用付一半",
+        "onboard_time": 1682478384,
+        "rank": 27,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 186051,
+        "num": 186051,
+        "word": "这才是女生们想找的裤子吧",
+        "onboard_time": 1682503287,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175444,
+        "num": 175444,
+        "word": "我和我的青春",
+        "onboard_time": 1682503168,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243405,
+        "num": 172486,
+        "word": "周六野因前男友长六颗子宫肌瘤",
+        "onboard_time": 1682477664,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188085,
+        "num": 171803,
+        "word": "京东崩了",
+        "onboard_time": 1682503348,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 169089,
+        "num": 169089,
+        "word": "淄博五一客流量已超接待能力",
+        "onboard_time": 1682489606,
+        "rank": 32,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 168356,
+        "num": 168356,
+        "word": "如果年入150W还会选择工作吗",
+        "onboard_time": 1682494888,
+        "rank": 33,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 163272,
+        "num": 163272,
+        "word": "袁姗姗的腰线",
+        "onboard_time": 1682503888,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152512,
+        "num": 152512,
+        "word": "米和面哪个更让人发胖",
+        "onboard_time": 1682494888,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151430,
+        "num": 151430,
+        "word": "前交通局长孙女炫富事件调查已满月",
+        "onboard_time": 1682472867,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141890,
+        "num": 141890,
+        "word": "张艺凡不长胆子只长个",
+        "onboard_time": 1682501609,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134416,
+        "num": 134416,
+        "word": "赵丽颖刘烨肖央新片杀青照",
+        "onboard_time": 1682503707,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122045,
+        "num": 122045,
+        "word": "谁抢了小鬼门票",
+        "onboard_time": 1682495425,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112971,
+        "num": 112971,
+        "word": "淄博人五一都去哪旅游了",
+        "onboard_time": 1682503769,
+        "rank": 40,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 109599,
+        "num": 109599,
+        "word": "长月烬明更换背景音乐",
+        "onboard_time": 1682478085,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104715,
+        "num": 104715,
+        "word": "SEVENTEEN年纪和稳重成反比",
+        "onboard_time": 1682499870,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103939,
+        "num": 103939,
+        "word": "王源上海演唱会二轮售票",
+        "onboard_time": 1682497526,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103078,
+        "num": 103078,
+        "word": "现偶收视率前十里有五部是张翰的",
+        "onboard_time": 1682480425,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 102384,
+        "num": 102384,
+        "word": "你知道熊猫丫丫几岁被送到美国吗",
+        "onboard_time": 1682501247,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93366,
+        "num": 93366,
+        "word": "浙江一图书馆将核酸亭改为自习室",
+        "onboard_time": 1682490086,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 92684,
+        "num": 92684,
+        "word": "丫丫将回国",
+        "onboard_time": 1682484271,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66600,
+        "num": 91758,
+        "word": "淄博 酒店降价",
+        "onboard_time": 1682480907,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 61639,
+        "num": 91360,
+        "word": "一旅行博主刚来山东就被拿捏了",
+        "onboard_time": 1682503827,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国生机勃勃#"
+    }
+  }
+}

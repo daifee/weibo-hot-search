@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682501625782,
+  "endTime": 1682504307559,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 1758262,
-      "num": 486788,
+      "num": 574325,
       "word": "女朋友要一个孩子随她姓",
       "onboard_time": 1682491347,
       "rank": 10,
@@ -273,6 +273,14 @@
       "onboard_time": 1682427090,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1749290,
+      "num": 1749290,
+      "word": "女生厕所遇代孕广告用贴纸遮盖",
+      "onboard_time": 1682497167,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1713976,
@@ -329,14 +337,6 @@
       "onboard_time": 1682401887,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1617951,
-      "num": 1617951,
-      "word": "女生厕所遇代孕广告用贴纸遮盖",
-      "onboard_time": 1682497167,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1604978,
@@ -401,6 +401,14 @@
       "onboard_time": 1682397030,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1509224,
+      "num": 1509224,
+      "word": "专家称五一调休是动了脑筋的做法",
+      "onboard_time": 1682502027,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1504214,
@@ -843,20 +851,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 785742,
+      "num": 785742,
+      "word": "阴阳师声明",
+      "onboard_time": 1682495068,
+      "rank": 4,
+      "category": "影视,游戏"
+    },
+    {
       "raw_hot": 785270,
       "num": 785270,
       "word": "在办公室上班真的很体面吗",
       "onboard_time": 1682308769,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 778499,
-      "num": 778499,
-      "word": "阴阳师声明",
-      "onboard_time": 1682495068,
-      "rank": 4,
-      "category": "影视,游戏"
     },
     {
       "raw_hot": 770011,
@@ -953,6 +961,14 @@
       "onboard_time": 1682263175,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 692888,
+      "num": 1615543,
+      "word": "淄博喊话推荐其他山东城市",
+      "onboard_time": 1682490626,
+      "rank": 39,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 677518,
@@ -1083,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 586881,
+      "num": 586881,
+      "word": "替身说肖战拍戏现场不用看剧本",
+      "onboard_time": 1682502089,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 584419,
       "num": 584419,
       "word": "王嘉尔是真的闯出去了",
@@ -1145,14 +1169,6 @@
       "onboard_time": 1682309129,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 556293,
-      "num": 556293,
-      "word": "淄博喊话推荐其他山东城市",
-      "onboard_time": 1682490626,
-      "rank": 39,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 553045,
@@ -1403,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483423,
+      "num": 483423,
+      "word": "吴磊虞书欣 黑莲花",
+      "onboard_time": 1682501428,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 480852,
       "num": 480852,
       "word": "被商场跳楼男子砸伤女孩仍在ICU",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1682409505,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 443599,
+      "num": 443599,
+      "word": "刘畊宏了一年的变化",
+      "onboard_time": 1682502629,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 442307,
@@ -1916,7 +1948,7 @@
     },
     {
       "raw_hot": 398794,
-      "num": 398794,
+      "num": 939430,
       "word": "坠楼女子3年后超市一眼认出恩人",
       "onboard_time": 1682493808,
       "rank": 29,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 375784,
+      "num": 375784,
+      "word": "甄嬛传播出十年孙俪才意识到很火",
+      "onboard_time": 1682502027,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 375587,
@@ -2715,6 +2755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 291092,
+      "num": 291092,
+      "word": "新形式的赘婿",
+      "onboard_time": 1682501188,
+      "rank": 39,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 289962,
       "num": 219321,
       "word": "田曦薇头发能不能分我一点",
@@ -2977,6 +3025,14 @@
       "onboard_time": 1682322808,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 262582,
+      "num": 199385,
+      "word": "范丞丞说张婧仪像金毛",
+      "onboard_time": 1682503707,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 262036,
@@ -3763,6 +3819,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 209333,
+      "num": 199265,
+      "word": "迪丽热巴在袖子上夹夹子",
+      "onboard_time": 1682503589,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209113,
       "num": 261600,
       "word": "星穹铁道倒计时",
@@ -3985,6 +4049,14 @@
       "onboard_time": 1682483611,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199786,
+      "num": 199786,
+      "word": "生完孩子为什么想离婚",
+      "onboard_time": 1682502149,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 199424,
@@ -4355,6 +4427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188085,
+      "num": 171803,
+      "word": "京东崩了",
+      "onboard_time": 1682503348,
+      "rank": 31,
+      "category": "科技"
+    },
+    {
       "raw_hot": 187245,
       "num": 187245,
       "word": "人生路不熟终极预告",
@@ -4401,6 +4481,14 @@
       "onboard_time": 1682267243,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186051,
+      "num": 186051,
+      "word": "这才是女生们想找的裤子吧",
+      "onboard_time": 1682503287,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 185859,
@@ -4657,6 +4745,14 @@
       "onboard_time": 1682444116,
       "rank": 10,
       "category": "社会新闻,游戏"
+    },
+    {
+      "raw_hot": 175444,
+      "num": 175444,
+      "word": "我和我的青春",
+      "onboard_time": 1682503168,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 175311,
@@ -4945,6 +5041,14 @@
       "onboard_time": 1682301867,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163272,
+      "num": 163272,
+      "word": "袁姗姗的腰线",
+      "onboard_time": 1682503888,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163183,
@@ -5507,6 +5611,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 141890,
+      "num": 141890,
+      "word": "张艺凡不长胆子只长个",
+      "onboard_time": 1682501609,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141003,
       "num": 141003,
       "word": "检察风云黄景瑜直球告白白百何",
@@ -5667,6 +5779,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 134416,
+      "num": 134416,
+      "word": "赵丽颖刘烨肖央新片杀青照",
+      "onboard_time": 1682503707,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 134408,
       "num": 134408,
       "word": "我们的征途就是星辰大海",
@@ -5713,14 +5833,6 @@
       "onboard_time": 1682412868,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 131768,
-      "num": 131768,
-      "word": "吴磊虞书欣 黑莲花",
-      "onboard_time": 1682501428,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 131600,
@@ -5793,14 +5905,6 @@
       "onboard_time": 1682497888,
       "rank": 38,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 127233,
-      "num": 127233,
-      "word": "新形式的赘婿",
-      "onboard_time": 1682501188,
-      "rank": 39,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 126735,
@@ -5987,6 +6091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120000,
+      "num": 788009,
+      "word": "现实版湘北队超32分赢了山王队",
+      "onboard_time": 1682503348,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119873,
       "num": 119873,
       "word": "科普作家硬核讲解长月烬明蚌族知识",
@@ -6065,6 +6177,14 @@
       "onboard_time": 1682328510,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 112971,
+      "num": 112971,
+      "word": "淄博人五一都去哪旅游了",
+      "onboard_time": 1682503769,
+      "rank": 40,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 112221,
@@ -6251,6 +6371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98131,
+      "num": 437260,
+      "word": "费加罗红毯",
+      "onboard_time": 1682503228,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 97712,
       "num": 97712,
       "word": "赫罗纳4比2皇马",
@@ -6265,14 +6393,6 @@
       "onboard_time": 1682463739,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95281,
-      "num": 95281,
-      "word": "张艺凡不长胆子只长个",
-      "onboard_time": 1682501609,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 94514,
@@ -6404,7 +6524,7 @@
     },
     {
       "raw_hot": 85172,
-      "num": 1295039,
+      "num": 1535171,
       "word": "这些文化遗存现今的模样",
       "onboard_time": 1682495425,
       "rank": 2,
@@ -6513,6 +6633,14 @@
       "onboard_time": 1682481808,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 61639,
+      "num": 91360,
+      "word": "一旅行博主刚来山东就被拿捏了",
+      "onboard_time": 1682503827,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 61270,
