@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682541236604,
+  "endTime": 1682543703320,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -57211,6 +57211,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 108275,
+      "num": 108275,
+      "word": "曼城vs阿森纳",
+      "onboard_time": 1682524949,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108245,
       "num": 110282,
       "word": "DRG对战RW",
@@ -57897,14 +57905,6 @@
       "onboard_time": 1681745667,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102801,
-      "num": 102801,
-      "word": "曼城vs阿森纳",
-      "onboard_time": 1682524949,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 102798,
@@ -60995,6 +60995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39594,
+      "num": 19991,
+      "word": "尹锡悦抵美在机场亲吻花童引争议",
+      "onboard_time": 1682539571,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 39552,
       "num": 358121,
       "word": "你最期待谁画的明星妆容",
@@ -61355,14 +61363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25013,
-      "num": 19177,
-      "word": "尹锡悦抵美在机场亲吻花童引争议",
-      "onboard_time": 1682539571,
-      "rank": 43,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 24845,
       "num": 24845,
       "word": "SEVENTEEN孙悟空MV",
@@ -61425,6 +61425,14 @@
       "onboard_time": 1680384373,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21054,
+      "num": 21054,
+      "word": "结婚太早容易后悔吗",
+      "onboard_time": 1682541792,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 20742,
