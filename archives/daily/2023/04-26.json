@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682507685386,
+  "endTime": 1682508807257,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -243,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 785951,
+      "num": 785951,
+      "word": "吴磊虞书欣 黑莲花",
+      "onboard_time": 1682501428,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 785742,
       "num": 785742,
       "word": "阴阳师声明",
@@ -297,14 +305,6 @@
       "onboard_time": 1682490626,
       "rank": 39,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 668172,
-      "num": 668172,
-      "word": "吴磊虞书欣 黑莲花",
-      "onboard_time": 1682501428,
-      "rank": 36,
-      "category": "影视"
     },
     {
       "raw_hot": 646659,
@@ -379,18 +379,34 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 532298,
-      "num": 472154,
-      "word": "INTO1醉酒事件多视角",
-      "onboard_time": 1682498426,
+      "raw_hot": 543801,
+      "num": 523705,
+      "word": "孔雪儿 珍珠是我刚挖的",
+      "onboard_time": 1682505326,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 523705,
-      "num": 523705,
-      "word": "孔雪儿 珍珠是我刚挖的",
-      "onboard_time": 1682505326,
+      "raw_hot": 540982,
+      "num": 513231,
+      "word": "赵丽颖异域风情随拍",
+      "onboard_time": 1682507969,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 537958,
+      "num": 537958,
+      "word": "西直门长公主",
+      "onboard_time": 1682504370,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532298,
+      "num": 472154,
+      "word": "INTO1醉酒事件多视角",
+      "onboard_time": 1682498426,
       "rank": 11,
       "category": "艺人"
     },
@@ -427,14 +443,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 490634,
-      "num": 490634,
-      "word": "西直门长公主",
-      "onboard_time": 1682504370,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485682,
       "num": 485682,
       "word": "余佳运 抢票",
@@ -457,6 +465,14 @@
       "onboard_time": 1682472449,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 482520,
+      "num": 482520,
+      "word": "赖赖 有人盗了我的脸",
+      "onboard_time": 1682499928,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 477523,
@@ -515,20 +531,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 442279,
-      "num": 442279,
-      "word": "赖赖 有人盗了我的脸",
-      "onboard_time": 1682499928,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 435473,
       "num": 435473,
       "word": "下班后领导给我发23条长语音",
       "onboard_time": 1682486129,
       "rank": 49,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 433149,
+      "num": 433149,
+      "word": "宝格丽盛典",
+      "onboard_time": 1682505147,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 432013,
@@ -580,19 +596,11 @@
     },
     {
       "raw_hot": 398794,
-      "num": 948889,
+      "num": 989513,
       "word": "坠楼女子3年后超市一眼认出恩人",
       "onboard_time": 1682493808,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398372,
-      "num": 398372,
-      "word": "宝格丽盛典",
-      "onboard_time": 1682505147,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 394941,
@@ -627,20 +635,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 368959,
+      "num": 368959,
+      "word": "迪丽热巴在袖子上夹夹子",
+      "onboard_time": 1682503589,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364515,
       "num": 364515,
       "word": "威少失误",
       "onboard_time": 1682485113,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 356345,
-      "num": 356345,
-      "word": "迪丽热巴在袖子上夹夹子",
-      "onboard_time": 1682503589,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 356172,
@@ -707,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330638,
+      "num": 330638,
+      "word": "妈妈说穿这个不像高中生",
+      "onboard_time": 1682505025,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 327990,
       "num": 327990,
       "word": "谁抢了小鬼门票",
@@ -739,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318903,
-      "num": 318903,
-      "word": "妈妈说穿这个不像高中生",
-      "onboard_time": 1682505025,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 315499,
       "num": 273930,
       "word": "刘晓世说王一博表面冷内心很柔软",
@@ -755,12 +763,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313945,
+      "num": 179948,
+      "word": "你愿意调休还是正常休",
+      "onboard_time": 1682508267,
+      "rank": 30,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 311678,
       "num": 311678,
       "word": "患癌晚期 给女儿留有意义的东西",
       "onboard_time": 1682482888,
       "rank": 42,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 301560,
+      "num": 301560,
+      "word": "养猫的千万不要买这个凳子",
+      "onboard_time": 1682507188,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 295527,
@@ -801,6 +825,22 @@
       "onboard_time": 1682470471,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277392,
+      "num": 249331,
+      "word": "李沁工作室出的图",
+      "onboard_time": 1682507727,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 274920,
+      "num": 249232,
+      "word": "杨幂的发量",
+      "onboard_time": 1682507008,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 274558,
@@ -907,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249053,
+      "num": 249053,
+      "word": "舒淇生图",
+      "onboard_time": 1682508147,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248502,
       "num": 248502,
       "word": "喜欢你我也是",
@@ -929,6 +977,14 @@
       "onboard_time": 1682475806,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237854,
+      "num": 189930,
+      "word": "林俊杰演唱会散场后的巴黎地铁",
+      "onboard_time": 1682506469,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 237795,
@@ -1139,28 +1195,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195469,
-      "num": 195469,
-      "word": "杨幂的发量",
-      "onboard_time": 1682507008,
-      "rank": 25,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195223,
       "num": 195223,
       "word": "沈阳一街道沿街店铺被统一规定黑底招牌",
       "onboard_time": 1682467046,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194526,
-      "num": 194526,
-      "word": "养猫的千万不要买这个凳子",
-      "onboard_time": 1682507188,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 194266,
@@ -1195,14 +1235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189930,
-      "num": 189930,
-      "word": "林俊杰演唱会散场后的巴黎地铁",
-      "onboard_time": 1682506469,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 189612,
       "num": 189612,
       "word": "会吃是一种什么体验",
@@ -1211,12 +1243,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189509,
+      "num": 168076,
+      "word": "当别人补妆时的王一博",
+      "onboard_time": 1682507188,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188085,
       "num": 171803,
       "word": "京东崩了",
       "onboard_time": 1682503348,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 186573,
+      "num": 186573,
+      "word": "PDD歌友会",
+      "onboard_time": 1682506049,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 185236,
@@ -1281,14 +1329,6 @@
       "onboard_time": 1682433869,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176156,
-      "num": 176156,
-      "word": "PDD歌友会",
-      "onboard_time": 1682506049,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 175890,
@@ -1435,14 +1475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158404,
-      "num": 158404,
-      "word": "当别人补妆时的王一博",
-      "onboard_time": 1682507188,
-      "rank": 33,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158287,
       "num": 158287,
       "word": "薪资和工作氛围哪个更重要",
@@ -1483,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153030,
+      "num": 153030,
+      "word": "代号鸢",
+      "onboard_time": 1682506708,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152511,
       "num": 147094,
       "word": "长月烬明",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1682473349,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149732,
+      "num": 149732,
+      "word": "淄博人五一都去哪旅游了",
+      "onboard_time": 1682503769,
+      "rank": 40,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 148635,
@@ -1619,14 +1667,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 142711,
-      "num": 142711,
-      "word": "淄博人五一都去哪旅游了",
-      "onboard_time": 1682503769,
-      "rank": 40,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 142611,
       "num": 142611,
       "word": "赞达亚甜茶宣传沙丘2",
@@ -1667,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140474,
+      "num": 140474,
+      "word": "超9地医保可一键给爸妈子女用",
+      "onboard_time": 1682508386,
+      "rank": 38,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 140171,
       "num": 140171,
       "word": "长空之王新加坡预告",
@@ -1681,14 +1729,6 @@
       "onboard_time": 1682433032,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137679,
-      "num": 137679,
-      "word": "代号鸢",
-      "onboard_time": 1682506708,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 137022,
@@ -1899,6 +1939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 111174,
+      "num": 470160,
+      "word": "姐姐们的松弛感红毯造型",
+      "onboard_time": 1682506826,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 108566,
       "num": 108566,
       "word": "排他协议",
@@ -2049,14 +2097,6 @@
       "onboard_time": 1682426668,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 85970,
-      "num": 446651,
-      "word": "姐姐们的松弛感红毯造型",
-      "onboard_time": 1682506826,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 85172,
