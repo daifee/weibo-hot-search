@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682516000210,
+  "endTime": 1682518583739,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1523,6 +1523,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 2207404,
+      "num": 594492,
+      "word": "曾经很火却已消失了的品牌",
+      "onboard_time": 1682514989,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2206456,
       "num": 512936,
       "word": "成龙口误说很高兴和烂演员合作",
@@ -2995,6 +3003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1636553,
+      "num": 875612,
+      "word": "娜扎身材",
+      "onboard_time": 1682509588,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1634401,
       "num": 485883,
       "word": "张一山 袜子",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1680835166,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1626335,
+      "num": 1018004,
+      "word": "压力给到张子枫",
+      "onboard_time": 1682513426,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1623765,
@@ -3369,14 +3393,6 @@
       "onboard_time": 1680578910,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1545545,
-      "num": 875612,
-      "word": "娜扎身材",
-      "onboard_time": 1682509588,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1544808,
@@ -4769,14 +4785,6 @@
       "onboard_time": 1682130867,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1209519,
-      "num": 1018004,
-      "word": "压力给到张子枫",
-      "onboard_time": 1682513426,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1207836,
@@ -6811,6 +6819,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 915642,
+      "num": 548075,
+      "word": "赵丽颖周放",
+      "onboard_time": 1682511445,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 915160,
       "num": 915160,
       "word": "唐鹤德 夜阑静有谁共鸣",
@@ -7969,14 +7985,6 @@
       "onboard_time": 1681545147,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 824545,
-      "num": 548075,
-      "word": "赵丽颖周放",
-      "onboard_time": 1682511445,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 824491,
@@ -11443,6 +11451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 621204,
+      "num": 620911,
+      "word": "乌克兰",
+      "onboard_time": 1682511747,
+      "rank": 27,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 621038,
       "num": 621038,
       "word": "电影营销 狗都看哭了",
@@ -11457,14 +11473,6 @@
       "onboard_time": 1681094846,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 620911,
-      "num": 620911,
-      "word": "乌克兰",
-      "onboard_time": 1682511747,
-      "rank": 27,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 619979,
@@ -16891,6 +16899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452195,
+      "num": 452195,
+      "word": "澹台家的DNA",
+      "onboard_time": 1682514387,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 452150,
       "num": 452150,
       "word": "A股",
@@ -20617,6 +20633,14 @@
       "onboard_time": 1681642226,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 379429,
+      "num": 379429,
+      "word": "丫丫启程回国",
+      "onboard_time": 1682518293,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379229,
@@ -26715,6 +26739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287330,
+      "num": 287330,
+      "word": "徐明浩高叶陈赫合照",
+      "onboard_time": 1682517692,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287234,
       "num": 287234,
       "word": "小心张颂文拉黑你",
@@ -29459,6 +29491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256111,
+      "num": 256111,
+      "word": "王一博转水瓶不是特效",
+      "onboard_time": 1682516191,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256068,
       "num": 228733,
       "word": "高校辟谣女生被3名黑人性侵",
@@ -29673,6 +29713,14 @@
       "onboard_time": 1680570329,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254083,
+      "num": 254083,
+      "word": "嗯哼 人要接受自己的不完美",
+      "onboard_time": 1682518170,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 254068,
@@ -30491,6 +30539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246181,
+      "num": 246181,
+      "word": "信任崩塌后真的会变冷漠",
+      "onboard_time": 1682512648,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246167,
       "num": 246167,
       "word": "潘玮柏带老婆买戒指",
@@ -30697,6 +30753,14 @@
       "onboard_time": 1682053592,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244543,
+      "num": 244543,
+      "word": "刘宇宁染头发了",
+      "onboard_time": 1682517210,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244541,
@@ -33267,14 +33331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223822,
-      "num": 223822,
-      "word": "信任崩塌后真的会变冷漠",
-      "onboard_time": 1682512648,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 223442,
       "num": 223442,
       "word": "10省区将出现大到暴雨",
@@ -33788,7 +33844,7 @@
     },
     {
       "raw_hot": 220288,
-      "num": 220288,
+      "num": 237554,
       "word": "串串店家回应鸡爪插13根签",
       "onboard_time": 1682512648,
       "rank": 36,
@@ -34153,6 +34209,14 @@
       "onboard_time": 1680511952,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217958,
+      "num": 217958,
+      "word": "澹台烬自己走入弱水",
+      "onboard_time": 1682517570,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 217857,
@@ -35507,14 +35571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209377,
-      "num": 209377,
-      "word": "曾经很火却已消失了的品牌",
-      "onboard_time": 1682514989,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209349,
       "num": 209349,
       "word": "张艺兴长沙夜生活片头曲MV预告",
@@ -36497,6 +36553,14 @@
       "onboard_time": 1680423150,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206029,
+      "num": 206029,
+      "word": "生完孩子为什么想离婚",
+      "onboard_time": 1682502149,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 206026,
@@ -37521,6 +37585,14 @@
       "onboard_time": 1680517773,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203106,
+      "num": 203106,
+      "word": "赵继伟手感好牛",
+      "onboard_time": 1682516069,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 203105,
@@ -38809,14 +38881,6 @@
       "onboard_time": 1681117948,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199786,
-      "num": 199786,
-      "word": "生完孩子为什么想离婚",
-      "onboard_time": 1682502149,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 199782,
@@ -41939,6 +42003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190450,
+      "num": 190450,
+      "word": "云南有5种颜色的草莓",
+      "onboard_time": 1682515949,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 190370,
       "num": 190370,
       "word": "TTG扳回一分",
@@ -42739,6 +42811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187885,
+      "num": 187885,
+      "word": "郭艾伦21分",
+      "onboard_time": 1682517931,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187879,
       "num": 205738,
       "word": "BLG扳回一局",
@@ -42953,6 +43033,14 @@
       "onboard_time": 1682302766,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187163,
+      "num": 187163,
+      "word": "黄晓明年轻旧照",
+      "onboard_time": 1682517091,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187131,
@@ -45323,6 +45411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175996,
+      "num": 175996,
+      "word": "被调休的周末瞬间不香了",
+      "onboard_time": 1682517509,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175987,
       "num": 175987,
       "word": "医院回应患者住院8天花40多万",
@@ -45377,14 +45473,6 @@
       "onboard_time": 1681737026,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175698,
-      "num": 150844,
-      "word": "澹台家的DNA",
-      "onboard_time": 1682514387,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 175682,
@@ -57508,7 +57596,7 @@
     },
     {
       "raw_hot": 103931,
-      "num": 128652,
+      "num": 145353,
       "word": "原神哥说星穹铁道泰裤辣",
       "onboard_time": 1682513670,
       "rank": 48,
@@ -59977,14 +60065,6 @@
       "onboard_time": 1682093427,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 64736,
-      "num": 128608,
-      "word": "云南有5种颜色的草莓",
-      "onboard_time": 1682515949,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 64485,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682516000210,
+  "endTime": 1682518583739,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -171,6 +171,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 2207404,
+      "num": 594492,
+      "word": "曾经很火却已消失了的品牌",
+      "onboard_time": 1682514989,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2201717,
       "num": 2201717,
       "word": "我国实行周末双休制还不足30年",
@@ -339,12 +347,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1636553,
+      "num": 875612,
+      "word": "娜扎身材",
+      "onboard_time": 1682509588,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1634401,
       "num": 485883,
       "word": "张一山 袜子",
       "onboard_time": 1682401887,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1626335,
+      "num": 1018004,
+      "word": "压力给到张子枫",
+      "onboard_time": 1682513426,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1604978,
@@ -395,12 +419,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1545545,
-      "num": 875612,
-      "word": "娜扎身材",
-      "onboard_time": 1682509588,
-      "rank": 7,
-      "category": "作品衍生"
+      "raw_hot": 1544842,
+      "num": 1544842,
+      "word": "丫丫",
+      "onboard_time": 1682452815,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1539180,
@@ -611,14 +635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1209519,
-      "num": 1018004,
-      "word": "压力给到张子枫",
-      "onboard_time": 1682513426,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1205777,
       "num": 1205777,
       "word": "看着不体面但很赚钱的工作",
@@ -680,14 +696,6 @@
       "word": "上海一男子商场跳楼砸中女顾客",
       "onboard_time": 1682261562,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1070945,
-      "num": 1070945,
-      "word": "丫丫",
-      "onboard_time": 1682452815,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 915642,
+      "num": 548075,
+      "word": "赵丽颖周放",
+      "onboard_time": 1682511445,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 913096,
       "num": 913096,
       "word": "五一三倍工资你会选择加班吗",
@@ -881,14 +897,6 @@
       "onboard_time": 1682383950,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 824545,
-      "num": 548075,
-      "word": "赵丽颖周放",
-      "onboard_time": 1682511445,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 820371,
@@ -1107,7 +1115,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 620911,
+      "raw_hot": 621204,
       "num": 620911,
       "word": "乌克兰",
       "onboard_time": 1682511747,
@@ -1779,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452195,
+      "num": 452195,
+      "word": "澹台家的DNA",
+      "onboard_time": 1682514387,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 446856,
       "num": 446856,
       "word": "斗破苍穹 美杜莎",
@@ -2209,6 +2225,14 @@
       "onboard_time": 1682378002,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 379429,
+      "num": 379429,
+      "word": "丫丫启程回国",
+      "onboard_time": 1682518293,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377652,
@@ -2979,6 +3003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287330,
+      "num": 287330,
+      "word": "徐明浩高叶陈赫合照",
+      "onboard_time": 1682517692,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286274,
       "num": 286274,
       "word": "你非常喜欢却停产的东西",
@@ -3355,6 +3387,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 256111,
+      "num": 256111,
+      "word": "王一博转水瓶不是特效",
+      "onboard_time": 1682516191,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255295,
       "num": 255295,
       "word": "赵丽颖刘烨肖央新片杀青照",
@@ -3377,6 +3417,14 @@
       "onboard_time": 1682508147,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 254083,
+      "num": 254083,
+      "word": "嗯哼 人要接受自己的不完美",
+      "onboard_time": 1682518170,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 253994,
@@ -3523,6 +3571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 246181,
+      "num": 246181,
+      "word": "信任崩塌后真的会变冷漠",
+      "onboard_time": 1682512648,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245305,
       "num": 241142,
       "word": "白鹿叶夕雾落泪好美",
@@ -3561,6 +3617,14 @@
       "onboard_time": 1682412025,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244543,
+      "num": 244543,
+      "word": "刘宇宁染头发了",
+      "onboard_time": 1682517210,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244267,
@@ -3819,14 +3883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223822,
-      "num": 223822,
-      "word": "信任崩塌后真的会变冷漠",
-      "onboard_time": 1682512648,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 223328,
       "num": 223328,
       "word": "易建联 广东队",
@@ -3940,7 +3996,7 @@
     },
     {
       "raw_hot": 220288,
-      "num": 220288,
+      "num": 237554,
       "word": "串串店家回应鸡爪插13根签",
       "onboard_time": 1682512648,
       "rank": 36,
@@ -3977,6 +4033,14 @@
       "onboard_time": 1682474967,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217958,
+      "num": 217958,
+      "word": "澹台烬自己走入弱水",
+      "onboard_time": 1682517570,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 217837,
@@ -4115,14 +4179,6 @@
       "category": "网红,情感"
     },
     {
-      "raw_hot": 209377,
-      "num": 209377,
-      "word": "曾经很火却已消失了的品牌",
-      "onboard_time": 1682514989,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209113,
       "num": 261600,
       "word": "星穹铁道倒计时",
@@ -4177,6 +4233,14 @@
       "onboard_time": 1682425528,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 206029,
+      "num": 206029,
+      "word": "生完孩子为什么想离婚",
+      "onboard_time": 1682502149,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 205848,
@@ -4283,6 +4347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203106,
+      "num": 203106,
+      "word": "赵继伟手感好牛",
+      "onboard_time": 1682516069,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202974,
       "num": 202974,
       "word": "教科书里的罗云熙",
@@ -4345,14 +4417,6 @@
       "onboard_time": 1682483611,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199786,
-      "num": 199786,
-      "word": "生完孩子为什么想离婚",
-      "onboard_time": 1682502149,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 199424,
@@ -4651,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190450,
+      "num": 190450,
+      "word": "云南有5种颜色的草莓",
+      "onboard_time": 1682515949,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 190320,
       "num": 190320,
       "word": "澹台烬更名沧九旻",
@@ -4747,12 +4819,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 187885,
+      "num": 187885,
+      "word": "郭艾伦21分",
+      "onboard_time": 1682517931,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187245,
       "num": 187245,
       "word": "人生路不熟终极预告",
       "onboard_time": 1682302766,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187163,
+      "num": 187163,
+      "word": "黄晓明年轻旧照",
+      "onboard_time": 1682517091,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187131,
@@ -5067,20 +5155,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175996,
+      "num": 175996,
+      "word": "被调休的周末瞬间不香了",
+      "onboard_time": 1682517509,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175890,
       "num": 175890,
       "word": "B站UP主上传原神未公开角色被判赔6万",
       "onboard_time": 1682444116,
       "rank": 10,
       "category": "社会新闻,游戏"
-    },
-    {
-      "raw_hot": 175698,
-      "num": 150844,
-      "word": "澹台家的DNA",
-      "onboard_time": 1682514387,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 175444,
@@ -6804,7 +6892,7 @@
     },
     {
       "raw_hot": 103931,
-      "num": 128652,
+      "num": 145353,
       "word": "原神哥说星穹铁道泰裤辣",
       "onboard_time": 1682513670,
       "rank": 48,
@@ -7081,14 +7169,6 @@
       "onboard_time": 1682465302,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 64736,
-      "num": 128608,
-      "word": "云南有5种颜色的草莓",
-      "onboard_time": 1682515949,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 62976,
