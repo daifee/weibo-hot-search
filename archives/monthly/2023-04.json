@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682494409590,
+  "endTime": 1682497318063,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2723,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1710304,
+      "num": 455881,
+      "word": "女朋友要一个孩子随她姓",
+      "onboard_time": 1682491347,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1708768,
       "num": 1572300,
       "word": "李金铭曾参加节目被要求当儿媳",
@@ -3851,14 +3859,6 @@
       "category": "社会新闻,社会正能量"
     },
     {
-      "raw_hot": 1410909,
-      "num": 424864,
-      "word": "女朋友要一个孩子随她姓",
-      "onboard_time": 1682491347,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1410537,
       "num": 1410537,
       "word": "虞书欣丁禹兮 黑莲花",
@@ -4089,6 +4089,14 @@
       "onboard_time": 1680484768,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1346025,
+      "num": 1346025,
+      "word": "章凝 杜鹃",
+      "onboard_time": 1682491047,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1344474,
@@ -5913,14 +5921,6 @@
       "onboard_time": 1681035146,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1010148,
-      "num": 1010148,
-      "word": "章凝 杜鹃",
-      "onboard_time": 1682491047,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1007605,
@@ -7763,6 +7763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 835221,
+      "num": 835221,
+      "word": "再也不敢乱点婚礼请柬了",
+      "onboard_time": 1682491886,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 834918,
       "num": 834918,
       "word": "你觉得工资越高越幸福吗",
@@ -8403,6 +8411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778499,
+      "num": 778499,
+      "word": "阴阳师声明",
+      "onboard_time": 1682495068,
+      "rank": 4,
+      "category": "影视,游戏"
+    },
+    {
       "raw_hot": 777709,
       "num": 777709,
       "word": "B站活动上传用户真人照片",
@@ -8497,6 +8513,14 @@
       "onboard_time": 1681199129,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770011,
+      "num": 770011,
+      "word": "中餐厅7拟邀阵容",
+      "onboard_time": 1682493446,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 769928,
@@ -9107,6 +9131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724703,
+      "num": 724703,
+      "word": "何炅晒与黄磊向往的生活海报",
+      "onboard_time": 1682488467,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 724376,
       "num": 410992,
       "word": "张凌赫主页是贝壳",
@@ -9513,14 +9545,6 @@
       "onboard_time": 1682263175,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 704153,
-      "num": 704153,
-      "word": "何炅晒与黄磊向往的生活海报",
-      "onboard_time": 1682488467,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 703832,
@@ -13267,6 +13291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541936,
+      "num": 541936,
+      "word": "淄博喊话推荐其他山东城市",
+      "onboard_time": 1682490626,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 540571,
       "num": 540571,
       "word": "又周一了",
@@ -14227,14 +14259,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 512390,
-      "num": 512390,
-      "word": "淄博喊话推荐其他山东城市",
-      "onboard_time": 1682490626,
-      "rank": 39,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 512338,
       "num": 512338,
       "word": "巩俐再现经典裸唇",
@@ -14353,6 +14377,14 @@
       "onboard_time": 1682396669,
       "rank": 20,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 508566,
+      "num": 508566,
+      "word": "暂时断网 不出丧言",
+      "onboard_time": 1682493146,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 507498,
@@ -15553,6 +15585,14 @@
       "onboard_time": 1682469989,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477488,
+      "num": 477488,
+      "word": "上一个让范丞丞这么主动的还是贾玲",
+      "onboard_time": 1682493625,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 477430,
@@ -18043,14 +18083,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 420497,
-      "num": 420497,
-      "word": "中餐厅7拟邀阵容",
-      "onboard_time": 1682493446,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 420482,
       "num": 420482,
       "word": "何超莲婚礼定制婚鞋",
@@ -19657,6 +19689,14 @@
       "onboard_time": 1680782009,
       "rank": 16,
       "category": "自然"
+    },
+    {
+      "raw_hot": 393106,
+      "num": 393106,
+      "word": "坠楼女子3年后超市一眼认出恩人",
+      "onboard_time": 1682493808,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 393021,
@@ -21379,12 +21419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358521,
-      "num": 358521,
-      "word": "再也不敢乱点婚礼请柬了",
-      "onboard_time": 1682491886,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 358311,
+      "num": 358311,
+      "word": "淄博女领导的决策",
+      "onboard_time": 1682493926,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358244,
@@ -25329,6 +25369,14 @@
       "onboard_time": 1682390666,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300332,
+      "num": 300332,
+      "word": "谁抢了小鬼门票",
+      "onboard_time": 1682495425,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 300254,
@@ -31651,6 +31699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 232901,
+      "num": 232901,
+      "word": "如果年入150W还会选择工作吗",
+      "onboard_time": 1682494888,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 232596,
       "num": 232596,
       "word": "唐朝诡事录之西行全员布局",
@@ -33185,14 +33241,6 @@
       "onboard_time": 1681191805,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220969,
-      "num": 220969,
-      "word": "上一个让范丞丞这么主动的还是贾玲",
-      "onboard_time": 1682493625,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 220933,
@@ -34745,14 +34793,6 @@
       "onboard_time": 1682082749,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 210638,
-      "num": 178118,
-      "word": "暂时断网 不出丧言",
-      "onboard_time": 1682493146,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 210555,
@@ -37707,6 +37747,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 201478,
+      "num": 201478,
+      "word": "声生不息五公 归零",
+      "onboard_time": 1682496807,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201474,
       "num": 201474,
       "word": "张新成说期待再次相见",
@@ -38457,6 +38505,14 @@
       "onboard_time": 1682219727,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199424,
+      "num": 199424,
+      "word": "丫丫回国运输方案及航线已落实",
+      "onboard_time": 1682495068,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199387,
@@ -43059,6 +43115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185058,
+      "num": 185058,
+      "word": "米和面哪个更让人发胖",
+      "onboard_time": 1682494888,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185053,
       "num": 185053,
       "word": "广东东莞大益",
@@ -43827,6 +43891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181754,
+      "num": 181754,
+      "word": "近期部分地区疫情开始出现缓慢的上升",
+      "onboard_time": 1682494409,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181622,
       "num": 181622,
       "word": "stayc无伴奏唱跳teddybear",
@@ -44337,14 +44409,6 @@
       "onboard_time": 1680596488,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179168,
-      "num": 179168,
-      "word": "坠楼女子3年后超市一眼认出恩人",
-      "onboard_time": 1682493808,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179116,
@@ -48899,14 +48963,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 154713,
-      "num": 154713,
-      "word": "淄博女领导的决策",
-      "onboard_time": 1682493926,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154706,
       "num": 154706,
       "word": "声生不息宝岛季下期有莫文蔚",
@@ -51283,6 +51339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142578,
+      "num": 142578,
+      "word": "淄博中心城区酒店已基本售罄",
+      "onboard_time": 1682496748,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 142573,
       "num": 68214,
       "word": "东亚家庭",
@@ -51657,6 +51721,14 @@
       "onboard_time": 1681968450,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140545,
+      "num": 140545,
+      "word": "女子推理社好敢",
+      "onboard_time": 1682490208,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140541,
@@ -52785,14 +52857,6 @@
       "onboard_time": 1681960767,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134393,
-      "num": 134393,
-      "word": "女子推理社好敢",
-      "onboard_time": 1682490208,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 134225,
@@ -54537,6 +54601,14 @@
       "onboard_time": 1681962390,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 123156,
+      "num": 123156,
+      "word": "女生厕所遇代孕广告用贴纸遮盖",
+      "onboard_time": 1682497167,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123054,
@@ -56763,6 +56835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103796,
+      "num": 110411,
+      "word": "冲饮奶茶进化史",
+      "onboard_time": 1682496266,
+      "rank": 48,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 103756,
       "num": 103756,
       "word": "妈妈咪呀今日开播",
@@ -58873,6 +58953,14 @@
       "onboard_time": 1681423934,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71818,
+      "num": 879279,
+      "word": "这些文化遗存现今的模样",
+      "onboard_time": 1682495425,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71342,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682494409590,
+  "endTime": 1682497318063,
   "band_list": [
     {
       "raw_hot": 3029892,
@@ -67,6 +67,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1710304,
+      "num": 455881,
+      "word": "女朋友要一个孩子随她姓",
+      "onboard_time": 1682491347,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1665590,
       "num": 1039957,
       "word": "长月烬明 抄袭阴阳师",
@@ -91,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1410909,
-      "num": 424864,
-      "word": "女朋友要一个孩子随她姓",
-      "onboard_time": 1682491347,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1383551,
       "num": 1383551,
       "word": "孙卓被拐案代理律师称梅姨已被抓",
@@ -113,6 +113,14 @@
       "onboard_time": 1682483190,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1346025,
+      "num": 1346025,
+      "word": "章凝 杜鹃",
+      "onboard_time": 1682491047,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1227617,
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1010148,
-      "num": 1010148,
-      "word": "章凝 杜鹃",
-      "onboard_time": 1682491047,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 952414,
       "num": 952414,
       "word": "肖战周也 徐克新电影",
       "onboard_time": 1682467108,
       "rank": 7,
       "category": "影视"
+    },
+    {
+      "raw_hot": 835221,
+      "num": 835221,
+      "word": "再也不敢乱点婚礼请柬了",
+      "onboard_time": 1682491886,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 801882,
@@ -187,6 +195,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 778499,
+      "num": 778499,
+      "word": "阴阳师声明",
+      "onboard_time": 1682495068,
+      "rank": 4,
+      "category": "影视,游戏"
+    },
+    {
+      "raw_hot": 770011,
+      "num": 770011,
+      "word": "中餐厅7拟邀阵容",
+      "onboard_time": 1682493446,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751930,
       "num": 751930,
       "word": "广州公安回应网传梅姨被抓",
@@ -203,20 +227,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724703,
+      "num": 724703,
+      "word": "何炅晒与黄磊向往的生活海报",
+      "onboard_time": 1682488467,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 719131,
       "num": 719131,
       "word": "淄博五一客流量已超接待能力",
       "onboard_time": 1682489606,
       "rank": 23,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 704153,
-      "num": 704153,
-      "word": "何炅晒与黄磊向往的生活海报",
-      "onboard_time": 1682488467,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 646659,
@@ -283,12 +307,20 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 512390,
-      "num": 512390,
+      "raw_hot": 541936,
+      "num": 541936,
       "word": "淄博喊话推荐其他山东城市",
       "onboard_time": 1682490626,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 508566,
+      "num": 508566,
+      "word": "暂时断网 不出丧言",
+      "onboard_time": 1682493146,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 503413,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477488,
+      "num": 477488,
+      "word": "上一个让范丞丞这么主动的还是贾玲",
+      "onboard_time": 1682493625,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477220,
       "num": 370658,
       "word": "澹台烬殉情",
@@ -419,14 +459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 420497,
-      "num": 420497,
-      "word": "中餐厅7拟邀阵容",
-      "onboard_time": 1682493446,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 416183,
       "num": 416183,
       "word": "杨幂军装路透",
@@ -459,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 393106,
+      "num": 393106,
+      "word": "坠楼女子3年后超市一眼认出恩人",
+      "onboard_time": 1682493808,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386398,
       "num": 386398,
       "word": "章凝 冯楚轩",
@@ -483,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 358521,
-      "num": 358521,
-      "word": "再也不敢乱点婚礼请柬了",
-      "onboard_time": 1682491886,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 358311,
+      "num": 358311,
+      "word": "淄博女领导的决策",
+      "onboard_time": 1682493926,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356172,
@@ -593,6 +633,14 @@
       "onboard_time": 1682482888,
       "rank": 42,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 300332,
+      "num": 300332,
+      "word": "谁抢了小鬼门票",
+      "onboard_time": 1682495425,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 295527,
@@ -723,6 +771,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 232901,
+      "num": 232901,
+      "word": "如果年入150W还会选择工作吗",
+      "onboard_time": 1682494888,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 231483,
       "num": 231483,
       "word": "张雨绮微信名叫高启强",
@@ -763,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220969,
-      "num": 220969,
-      "word": "上一个让范丞丞这么主动的还是贾玲",
-      "onboard_time": 1682493625,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 218230,
       "num": 218230,
       "word": "王者荣耀",
@@ -803,14 +851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210638,
-      "num": 178118,
-      "word": "暂时断网 不出丧言",
-      "onboard_time": 1682493146,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205349,
       "num": 198691,
       "word": "上次这么多人去淄博还是五国伐齐",
@@ -835,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 201478,
+      "num": 201478,
+      "word": "声生不息五公 归零",
+      "onboard_time": 1682496807,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201335,
       "num": 201335,
       "word": "深圳交通局再回应前局长孙女炫富事件",
@@ -848,6 +896,14 @@
       "word": "沈阳防空警报",
       "onboard_time": 1682483611,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199424,
+      "num": 199424,
+      "word": "丫丫回国运输方案及航线已落实",
+      "onboard_time": 1682495068,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -931,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185058,
+      "num": 185058,
+      "word": "米和面哪个更让人发胖",
+      "onboard_time": 1682494888,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 182930,
       "num": 182930,
       "word": "郭靖宇说肖战的表演非常惊艳",
@@ -955,11 +1019,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179168,
-      "num": 179168,
-      "word": "坠楼女子3年后超市一眼认出恩人",
-      "onboard_time": 1682493808,
-      "rank": 29,
+      "raw_hot": 181754,
+      "num": 181754,
+      "word": "近期部分地区疫情开始出现缓慢的上升",
+      "onboard_time": 1682494409,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1123,14 +1187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154713,
-      "num": 154713,
-      "word": "淄博女领导的决策",
-      "onboard_time": 1682493926,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153544,
       "num": 153544,
       "word": "订五一三亚民宿拒退单遭威胁辱骂",
@@ -1211,6 +1267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143857,
+      "num": 143857,
+      "word": "向往的生活",
+      "onboard_time": 1682496807,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143194,
       "num": 143194,
       "word": "难怪别人能考上研究生",
@@ -1233,6 +1297,22 @@
       "onboard_time": 1682492367,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 142578,
+      "num": 142578,
+      "word": "淄博中心城区酒店已基本售罄",
+      "onboard_time": 1682496748,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 140545,
+      "num": 140545,
+      "word": "女子推理社好敢",
+      "onboard_time": 1682490208,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140541,
@@ -1307,14 +1387,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 134393,
-      "num": 134393,
-      "word": "女子推理社好敢",
-      "onboard_time": 1682490208,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131068,
       "num": 131068,
       "word": "陈星旭进组你也有今天",
@@ -1385,6 +1457,22 @@
       "onboard_time": 1682481628,
       "rank": 46,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 123973,
+      "num": 123973,
+      "word": "淄博烧烤",
+      "onboard_time": 1682495126,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123156,
+      "num": 123156,
+      "word": "女生厕所遇代孕广告用贴纸遮盖",
+      "onboard_time": 1682497167,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122685,
@@ -1465,6 +1553,14 @@
       "onboard_time": 1682437287,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 103796,
+      "num": 110411,
+      "word": "冲饮奶茶进化史",
+      "onboard_time": 1682496266,
+      "rank": 48,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 103218,
@@ -1561,6 +1657,14 @@
       "onboard_time": 1682437466,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71818,
+      "num": 879279,
+      "word": "这些文化遗存现今的模样",
+      "onboard_time": 1682495425,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71254,

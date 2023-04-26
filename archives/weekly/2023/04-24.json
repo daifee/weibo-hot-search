@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682494409590,
+  "endTime": 1682497318063,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1710304,
+      "num": 455881,
+      "word": "女朋友要一个孩子随她姓",
+      "onboard_time": 1682491347,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1708410,
       "num": 481449,
       "word": "杨迪 没有艺人愿意点玉米面糊塌子",
@@ -411,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1410909,
-      "num": 424864,
-      "word": "女朋友要一个孩子随她姓",
-      "onboard_time": 1682491347,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1394728,
       "num": 1394728,
       "word": "刘宪华 中国好声音导师",
@@ -465,6 +465,14 @@
       "onboard_time": 1682414548,
       "rank": 13,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 1346025,
+      "num": 1346025,
+      "word": "章凝 杜鹃",
+      "onboard_time": 1682491047,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1338352,
@@ -651,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1010148,
-      "num": 1010148,
-      "word": "章凝 杜鹃",
-      "onboard_time": 1682491047,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1004750,
       "num": 1004750,
       "word": "四月底HR才开始急了",
@@ -771,6 +771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 835221,
+      "num": 835221,
+      "word": "再也不敢乱点婚礼请柬了",
+      "onboard_time": 1682491886,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 825395,
       "num": 825395,
       "word": "突然知道什么是媚骨天成了",
@@ -817,6 +825,22 @@
       "onboard_time": 1682308769,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 778499,
+      "num": 778499,
+      "word": "阴阳师声明",
+      "onboard_time": 1682495068,
+      "rank": 4,
+      "category": "影视,游戏"
+    },
+    {
+      "raw_hot": 770011,
+      "num": 770011,
+      "word": "中餐厅7拟邀阵容",
+      "onboard_time": 1682493446,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 768883,
@@ -875,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 724703,
+      "num": 724703,
+      "word": "何炅晒与黄磊向往的生活海报",
+      "onboard_time": 1682488467,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 719131,
       "num": 719131,
       "word": "淄博五一客流量已超接待能力",
@@ -897,14 +929,6 @@
       "onboard_time": 1682263175,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 704153,
-      "num": 704153,
-      "word": "何炅晒与黄磊向往的生活海报",
-      "onboard_time": 1682488467,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 677518,
@@ -1115,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541936,
+      "num": 541936,
+      "word": "淄博喊话推荐其他山东城市",
+      "onboard_time": 1682490626,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 535588,
       "num": 535588,
       "word": "HYBE 这和舞蹈版MV有什么区别",
@@ -1147,14 +1179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 512390,
-      "num": 512390,
-      "word": "淄博喊话推荐其他山东城市",
-      "onboard_time": 1682490626,
-      "rank": 39,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 512338,
       "num": 512338,
       "word": "巩俐再现经典裸唇",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1682396669,
       "rank": 20,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 508566,
+      "num": 508566,
+      "word": "暂时断网 不出丧言",
+      "onboard_time": 1682493146,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 507120,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1682469989,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477488,
+      "num": 477488,
+      "word": "上一个让范丞丞这么主动的还是贾玲",
+      "onboard_time": 1682493625,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 477324,
@@ -1747,14 +1787,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 420497,
-      "num": 420497,
-      "word": "中餐厅7拟邀阵容",
-      "onboard_time": 1682493446,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 419725,
       "num": 306117,
       "word": "张云龙 竹业男主",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1682476465,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393106,
+      "num": 393106,
+      "word": "坠楼女子3年后超市一眼认出恩人",
+      "onboard_time": 1682493808,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392777,
@@ -2027,12 +2067,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358521,
-      "num": 358521,
-      "word": "再也不敢乱点婚礼请柬了",
-      "onboard_time": 1682491886,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 358311,
+      "num": 358311,
+      "word": "淄博女领导的决策",
+      "onboard_time": 1682493926,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356864,
@@ -2585,6 +2625,14 @@
       "onboard_time": 1682390666,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 300332,
+      "num": 300332,
+      "word": "谁抢了小鬼门票",
+      "onboard_time": 1682495425,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 299105,
@@ -3299,6 +3347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232901,
+      "num": 232901,
+      "word": "如果年入150W还会选择工作吗",
+      "onboard_time": 1682494888,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 232306,
       "num": 232306,
       "word": "谁帮张一山修修图",
@@ -3441,14 +3497,6 @@
       "onboard_time": 1682393669,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 220969,
-      "num": 220969,
-      "word": "上一个让范丞丞这么主动的还是贾玲",
-      "onboard_time": 1682493625,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 220901,
@@ -3633,14 +3681,6 @@
       "onboard_time": 1682386886,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210638,
-      "num": 178118,
-      "word": "暂时断网 不出丧言",
-      "onboard_time": 1682493146,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 209836,
@@ -3835,6 +3875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201478,
+      "num": 201478,
+      "word": "声生不息五公 归零",
+      "onboard_time": 1682496807,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201335,
       "num": 201335,
       "word": "深圳交通局再回应前局长孙女炫富事件",
@@ -3872,6 +3920,14 @@
       "word": "沈阳防空警报",
       "onboard_time": 1682483611,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199424,
+      "num": 199424,
+      "word": "丫丫回国运输方案及航线已落实",
+      "onboard_time": 1682495068,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -4299,6 +4355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185058,
+      "num": 185058,
+      "word": "米和面哪个更让人发胖",
+      "onboard_time": 1682494888,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185053,
       "num": 185053,
       "word": "广东东莞大益",
@@ -4395,6 +4459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181754,
+      "num": 181754,
+      "word": "近期部分地区疫情开始出现缓慢的上升",
+      "onboard_time": 1682494409,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181493,
       "num": 181493,
       "word": "原生家庭对性格的影响有多深",
@@ -4433,14 +4505,6 @@
       "onboard_time": 1682411189,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179168,
-      "num": 179168,
-      "word": "坠楼女子3年后超市一眼认出恩人",
-      "onboard_time": 1682493808,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178468,
@@ -4987,14 +5051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154713,
-      "num": 154713,
-      "word": "淄博女领导的决策",
-      "onboard_time": 1682493926,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154639,
       "num": 154639,
       "word": "国产悬疑剧为何偏爱东北重庆",
@@ -5275,6 +5331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143857,
+      "num": 143857,
+      "word": "向往的生活",
+      "onboard_time": 1682496807,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143591,
       "num": 143591,
       "word": "终于到周二了",
@@ -5315,12 +5379,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142578,
+      "num": 142578,
+      "word": "淄博中心城区酒店已基本售罄",
+      "onboard_time": 1682496748,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 141003,
       "num": 141003,
       "word": "检察风云黄景瑜直球告白白百何",
       "onboard_time": 1682309250,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 140545,
+      "num": 140545,
+      "word": "女子推理社好敢",
+      "onboard_time": 1682490208,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140541,
@@ -5473,14 +5553,6 @@
       "onboard_time": 1682305526,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134393,
-      "num": 134393,
-      "word": "女子推理社好敢",
-      "onboard_time": 1682490208,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 133750,
@@ -5689,6 +5761,22 @@
       "onboard_time": 1682481628,
       "rank": 46,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 123973,
+      "num": 123973,
+      "word": "淄博烧烤",
+      "onboard_time": 1682495126,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123156,
+      "num": 123156,
+      "word": "女生厕所遇代孕广告用贴纸遮盖",
+      "onboard_time": 1682497167,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122874,
@@ -5995,6 +6083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103796,
+      "num": 110411,
+      "word": "冲饮奶茶进化史",
+      "onboard_time": 1682496266,
+      "rank": 48,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 103218,
       "num": 112403,
       "word": "走出人生低谷的指路牌",
@@ -6193,6 +6289,14 @@
       "onboard_time": 1682404285,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 71818,
+      "num": 879279,
+      "word": "这些文化遗存现今的模样",
+      "onboard_time": 1682495425,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71254,
