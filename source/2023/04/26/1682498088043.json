@@ -1,0 +1,410 @@
+{
+  "runTime": 1682498088043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1463324,
+        "num": 1463324,
+        "word": "女子淄博买切糕2种口味称重仅6元",
+        "onboard_time": 1682489127,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1192450,
+        "num": 1192450,
+        "word": "章凝 杜鹃",
+        "onboard_time": 1682491047,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85172,
+        "num": 1156546,
+        "word": "这些文化遗存现今的模样",
+        "onboard_time": 1682495425,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143996,
+        "num": 1143996,
+        "word": "何炅黄磊好像两个假笑空巢老人",
+        "onboard_time": 1682498007,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 836869,
+        "num": 836869,
+        "word": "再也不敢乱点婚礼请柬了",
+        "onboard_time": 1682491886,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 767642,
+        "num": 767642,
+        "word": "阴阳师声明",
+        "onboard_time": 1682495068,
+        "rank": 5,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 726515,
+        "num": 726515,
+        "word": "中餐厅7拟邀阵容",
+        "onboard_time": 1682493446,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579815,
+        "num": 579815,
+        "word": "暂时断网 不出丧言",
+        "onboard_time": 1682493146,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 556293,
+        "num": 556293,
+        "word": "淄博喊话推荐其他山东城市",
+        "onboard_time": 1682490626,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 447702,
+        "num": 447702,
+        "word": "上一个让范丞丞这么主动的还是贾玲",
+        "onboard_time": 1682493625,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1758262,
+        "num": 447567,
+        "word": "女朋友要一个孩子随她姓",
+        "onboard_time": 1682491347,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432013,
+        "num": 432013,
+        "word": "淄博女领导的决策",
+        "onboard_time": 1682493926,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398794,
+        "num": 398794,
+        "word": "坠楼女子3年后超市一眼认出恩人",
+        "onboard_time": 1682493808,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327990,
+        "num": 327990,
+        "word": "谁抢了小鬼门票",
+        "onboard_time": 1682495425,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320606,
+        "num": 320606,
+        "word": "丫丫专机将于当地时间26日中午起飞",
+        "onboard_time": 1682489727,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284437,
+        "num": 284437,
+        "word": "现偶收视率前十里有五部是张翰的",
+        "onboard_time": 1682480425,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281940,
+        "num": 281940,
+        "word": "梅姨在广州落网消息不实",
+        "onboard_time": 1682479587,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310327,
+        "num": 280682,
+        "word": "女生厕所遇代孕广告用贴纸遮盖",
+        "onboard_time": 1682497167,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277703,
+        "num": 277703,
+        "word": "同担对明星热情消退 因为上班",
+        "onboard_time": 1682491946,
+        "rank": 18,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 267731,
+        "num": 267731,
+        "word": "淄博五一客流量已超接待能力",
+        "onboard_time": 1682489606,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 335488,
+        "num": 266230,
+        "word": "淄博希尔顿酒店回应房费只用付一半",
+        "onboard_time": 1682478384,
+        "rank": 20,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 777583,
+        "num": 264725,
+        "word": "海南一12岁小学生骑车被撞身亡",
+        "onboard_time": 1682483190,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261965,
+        "num": 261965,
+        "word": "如果年入150W还会选择工作吗",
+        "onboard_time": 1682494888,
+        "rank": 22,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 253881,
+        "num": 253881,
+        "word": "前交通局长孙女炫富事件调查已满月",
+        "onboard_time": 1682472867,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243639,
+        "num": 243639,
+        "word": "声生不息五公 归零",
+        "onboard_time": 1682496807,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228898,
+        "num": 228898,
+        "word": "米和面哪个更让人发胖",
+        "onboard_time": 1682494888,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199269,
+        "num": 199269,
+        "word": "丫丫回国运输方案及航线已落实",
+        "onboard_time": 1682495068,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193027,
+        "num": 193027,
+        "word": "长月烬明更换背景音乐",
+        "onboard_time": 1682478085,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176388,
+        "num": 176388,
+        "word": "不建议跟一累就黑脸的人出去玩",
+        "onboard_time": 1682468671,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162043,
+        "num": 162043,
+        "word": "近期部分地区疫情开始出现缓慢的上升",
+        "onboard_time": 1682494409,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624780,
+        "num": 160782,
+        "word": "周六野因前男友长六颗子宫肌瘤",
+        "onboard_time": 1682477664,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 225085,
+        "num": 160418,
+        "word": "王源上海演唱会二轮售票",
+        "onboard_time": 1682497526,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159520,
+        "num": 159520,
+        "word": "杨幂军装路透",
+        "onboard_time": 1682485828,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159154,
+        "num": 159154,
+        "word": "鞠婧祎仪态变化",
+        "onboard_time": 1682482108,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145131,
+        "num": 145131,
+        "word": "陈星旭进组你也有今天",
+        "onboard_time": 1682492245,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 143837,
+        "num": 143837,
+        "word": "李延贺涉嫌危害国家安全被调查",
+        "onboard_time": 1682486909,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143154,
+        "num": 143154,
+        "word": "浙江一图书馆将核酸亭改为自习室",
+        "onboard_time": 1682490086,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140314,
+        "num": 140314,
+        "word": "女子推理社好敢",
+        "onboard_time": 1682490208,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135793,
+        "num": 135793,
+        "word": "淄博烧烤",
+        "onboard_time": 1682495126,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132593,
+        "num": 132593,
+        "word": "黄牛加价倒卖吐司300一条",
+        "onboard_time": 1682483370,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 131930,
+        "num": 131930,
+        "word": "肖战周也 徐克新电影",
+        "onboard_time": 1682467108,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 124074,
+        "num": 124074,
+        "word": "向往的生活",
+        "onboard_time": 1682496807,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120244,
+        "num": 120244,
+        "word": "淄博中心城区酒店已基本售罄",
+        "onboard_time": 1682496748,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 119553,
+        "num": 119553,
+        "word": "如何看待律师称梅姨被抓",
+        "onboard_time": 1682498068,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113621,
+        "num": 113621,
+        "word": "航拍中国台湾篇将播出",
+        "onboard_time": 1682491765,
+        "rank": 44,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 110114,
+        "num": 110114,
+        "word": "丫丫将回国",
+        "onboard_time": 1682484271,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109507,
+        "num": 109507,
+        "word": "患癌晚期 给女儿留有意义的东西",
+        "onboard_time": 1682482888,
+        "rank": 46,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 98214,
+        "num": 98214,
+        "word": "谢娜再回应助理打手机事件",
+        "onboard_time": 1682466804,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93665,
+        "num": 97951,
+        "word": "淄博 酒店降价",
+        "onboard_time": 1682480907,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 59341,
+        "num": 97125,
+        "word": "冲饮奶茶进化史",
+        "onboard_time": 1682496266,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平接受外国驻华大使递交国书#"
+    }
+  }
+}

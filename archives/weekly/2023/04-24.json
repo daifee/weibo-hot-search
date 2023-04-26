@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682497318063,
+  "endTime": 1682498088043,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1758262,
+      "num": 455881,
+      "word": "女朋友要一个孩子随她姓",
+      "onboard_time": 1682491347,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1749466,
       "num": 1749466,
       "word": "这竟然是彭昱畅",
@@ -265,14 +273,6 @@
       "onboard_time": 1682306425,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1710304,
-      "num": 455881,
-      "word": "女朋友要一个孩子随她姓",
-      "onboard_time": 1682491347,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 1708410,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1143996,
+      "num": 1143996,
+      "word": "何炅黄磊好像两个假笑空巢老人",
+      "onboard_time": 1682498007,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1113051,
       "num": 1113051,
       "word": "SEVENTEEN回归",
@@ -771,8 +779,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 835221,
-      "num": 835221,
+      "raw_hot": 836869,
+      "num": 836869,
       "word": "再也不敢乱点婚礼请柬了",
       "onboard_time": 1682491886,
       "rank": 22,
@@ -1091,6 +1099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 579815,
+      "num": 579815,
+      "word": "暂时断网 不出丧言",
+      "onboard_time": 1682493146,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 578327,
       "num": 578327,
       "word": "游客订淄博酒店被通知只用付一半",
@@ -1115,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 556293,
+      "num": 556293,
+      "word": "淄博喊话推荐其他山东城市",
+      "onboard_time": 1682490626,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 553045,
       "num": 553045,
       "word": "民宿毁约涨价糟蹋了多少人的五一",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1682274434,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 541936,
-      "num": 541936,
-      "word": "淄博喊话推荐其他山东城市",
-      "onboard_time": 1682490626,
-      "rank": 39,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 535588,
@@ -1201,14 +1217,6 @@
       "onboard_time": 1682396669,
       "rank": 20,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 508566,
-      "num": 508566,
-      "word": "暂时断网 不出丧言",
-      "onboard_time": 1682493146,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 507120,
@@ -1691,6 +1699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 432013,
+      "num": 432013,
+      "word": "淄博女领导的决策",
+      "onboard_time": 1682493926,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431981,
       "num": 431981,
       "word": "巴特勒56分",
@@ -1875,6 +1891,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 398794,
+      "num": 398794,
+      "word": "坠楼女子3年后超市一眼认出恩人",
+      "onboard_time": 1682493808,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 398668,
       "num": 398668,
       "word": "钟汉良空降婚礼现场唱宠爱",
@@ -1897,14 +1921,6 @@
       "onboard_time": 1682476465,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 393106,
-      "num": 393106,
-      "word": "坠楼女子3年后超市一眼认出恩人",
-      "onboard_time": 1682493808,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 392777,
@@ -2065,14 +2081,6 @@
       "onboard_time": 1682311532,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 358311,
-      "num": 358311,
-      "word": "淄博女领导的决策",
-      "onboard_time": 1682493926,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356864,
@@ -2331,6 +2339,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 327990,
+      "num": 327990,
+      "word": "谁抢了小鬼门票",
+      "onboard_time": 1682495425,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 327855,
       "num": 327855,
       "word": "现金流都在12306",
@@ -2555,6 +2571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 310327,
+      "num": 280682,
+      "word": "女生厕所遇代孕广告用贴纸遮盖",
+      "onboard_time": 1682497167,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309758,
       "num": 309758,
       "word": "张婧仪范丞丞好嗑",
@@ -2625,14 +2649,6 @@
       "onboard_time": 1682390666,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 300332,
-      "num": 300332,
-      "word": "谁抢了小鬼门票",
-      "onboard_time": 1682495425,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 299105,
@@ -2939,6 +2955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261965,
+      "num": 261965,
+      "word": "如果年入150W还会选择工作吗",
+      "onboard_time": 1682494888,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 261019,
       "num": 261019,
       "word": "老鹰2比3凯尔特人",
@@ -3235,6 +3259,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 243639,
+      "num": 243639,
+      "word": "声生不息五公 归零",
+      "onboard_time": 1682496807,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242952,
       "num": 242952,
       "word": "五一假期在1999年之前也只有一天",
@@ -3347,14 +3379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232901,
-      "num": 232901,
-      "word": "如果年入150W还会选择工作吗",
-      "onboard_time": 1682494888,
-      "rank": 22,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 232306,
       "num": 232306,
       "word": "谁帮张一山修修图",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1682417546,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228898,
+      "num": 228898,
+      "word": "米和面哪个更让人发胖",
+      "onboard_time": 1682494888,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 227919,
@@ -3409,6 +3441,14 @@
       "onboard_time": 1682378242,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225085,
+      "num": 160418,
+      "word": "王源上海演唱会二轮售票",
+      "onboard_time": 1682497526,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 224599,
@@ -3873,14 +3913,6 @@
       "onboard_time": 1682336246,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201478,
-      "num": 201478,
-      "word": "声生不息五公 归零",
-      "onboard_time": 1682496807,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 201335,
@@ -4353,14 +4385,6 @@
       "onboard_time": 1682414126,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185058,
-      "num": 185058,
-      "word": "米和面哪个更让人发胖",
-      "onboard_time": 1682494888,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 185053,
@@ -5299,6 +5323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145131,
+      "num": 145131,
+      "word": "陈星旭进组你也有今天",
+      "onboard_time": 1682492245,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144828,
       "num": 144828,
       "word": "内娱哪些演员适合演学霸",
@@ -5491,6 +5523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135793,
+      "num": 135793,
+      "word": "淄博烧烤",
+      "onboard_time": 1682495126,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135563,
       "num": 135563,
       "word": "布克47分",
@@ -5601,14 +5641,6 @@
       "onboard_time": 1682319988,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131068,
-      "num": 131068,
-      "word": "陈星旭进组你也有今天",
-      "onboard_time": 1682492245,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 130959,
@@ -5761,22 +5793,6 @@
       "onboard_time": 1682481628,
       "rank": 46,
       "category": "旅游,情感"
-    },
-    {
-      "raw_hot": 123973,
-      "num": 123973,
-      "word": "淄博烧烤",
-      "onboard_time": 1682495126,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 123156,
-      "num": 123156,
-      "word": "女生厕所遇代孕广告用贴纸遮盖",
-      "onboard_time": 1682497167,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122874,
@@ -6235,6 +6251,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 85172,
+      "num": 1156546,
+      "word": "这些文化遗存现今的模样",
+      "onboard_time": 1682495425,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84868,
       "num": 113597,
       "word": "明日方舟",
@@ -6289,14 +6313,6 @@
       "onboard_time": 1682404285,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 71818,
-      "num": 879279,
-      "word": "这些文化遗存现今的模样",
-      "onboard_time": 1682495425,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71254,
