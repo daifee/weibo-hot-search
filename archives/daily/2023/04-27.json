@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682534077916,
+  "endTime": 1682536447705,
   "band_list": [
     {
       "raw_hot": 1656772,
@@ -419,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25551,
+      "num": 25551,
+      "word": "陈小纭高瀚宇薄冰战虐关系达成",
+      "onboard_time": 1682524046,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 23029,
       "num": 25436,
       "word": "刘宇宁染头发了",
@@ -433,14 +441,6 @@
       "onboard_time": 1682512106,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20735,
-      "num": 24125,
-      "word": "陈小纭高瀚宇薄冰战虐关系达成",
-      "onboard_time": 1682524046,
-      "rank": 48,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
