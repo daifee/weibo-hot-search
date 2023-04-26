@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682479096796,
+  "endTime": 1682480013725,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2247221,
+      "num": 882211,
+      "word": "周六野因前男友长六颗子宫肌瘤",
+      "onboard_time": 1682477664,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2217580,
       "num": 2217580,
       "word": "为什么读了研也找不到工作",
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2090956,
+      "num": 1734162,
+      "word": "前交通局长孙女炫富事件调查已满月",
+      "onboard_time": 1682472867,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2062694,
       "num": 2062694,
       "word": "不建议跟一累就黑脸的人出去玩",
@@ -171,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2014756,
-      "num": 1734162,
-      "word": "前交通局长孙女炫富事件调查已满月",
-      "onboard_time": 1682472867,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1974616,
       "num": 426603,
       "word": "何猷君 科切拉",
@@ -193,14 +201,6 @@
       "onboard_time": 1682382987,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1948906,
-      "num": 882211,
-      "word": "周六野因前男友长六颗子宫肌瘤",
-      "onboard_time": 1682477664,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1905935,
@@ -843,6 +843,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 636157,
+      "num": 636157,
+      "word": "长月烬明更换背景音乐",
+      "onboard_time": 1682478085,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 635712,
+      "num": 635712,
+      "word": "杨紫  转念花开",
+      "onboard_time": 1682477486,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 634643,
       "num": 414370,
       "word": "Jennie妈妈和Lisa妈妈手拉手",
@@ -865,14 +881,6 @@
       "onboard_time": 1682386765,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 620556,
-      "num": 620556,
-      "word": "杨紫  转念花开",
-      "onboard_time": 1682477486,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 609003,
@@ -1027,12 +1035,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 522565,
-      "num": 522565,
-      "word": "长月烬明更换背景音乐",
-      "onboard_time": 1682478085,
-      "rank": 12,
-      "category": "影视"
+      "raw_hot": 523960,
+      "num": 523960,
+      "word": "淄博希尔顿酒店回应房费只用付一半",
+      "onboard_time": 1682478384,
+      "rank": 24,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 522478,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1682392407,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 520069,
+      "num": 520069,
+      "word": "梅姨在广州落网消息不实",
+      "onboard_time": 1682479587,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512338,
@@ -1108,7 +1124,7 @@
     },
     {
       "raw_hot": 499320,
-      "num": 400834,
+      "num": 426740,
       "word": "如何看待律师称梅姨被抓",
       "onboard_time": 1682479045,
       "rank": 15,
@@ -2923,6 +2939,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 242603,
+      "num": 242603,
+      "word": "试用期的最后一天被辞退了",
+      "onboard_time": 1682475806,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242281,
       "num": 242281,
       "word": "范丞丞下次想演马丽老公",
@@ -3075,14 +3099,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226150,
-      "num": 226150,
-      "word": "试用期的最后一天被辞退了",
-      "onboard_time": 1682475806,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 224599,
       "num": 224599,
       "word": "C位烫河南人脚",
@@ -3097,14 +3113,6 @@
       "onboard_time": 1682387486,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 223645,
-      "num": 223645,
-      "word": "淄博希尔顿酒店回应房费只用付一半",
-      "onboard_time": 1682478384,
-      "rank": 24,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 223328,
@@ -4307,6 +4315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165787,
+      "num": 165787,
+      "word": "易烊千玺新歌短片预告",
+      "onboard_time": 1682479767,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 165518,
       "num": 165518,
       "word": "库里叫暂停",
@@ -4409,6 +4425,14 @@
       "onboard_time": 1682466443,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161703,
+      "num": 161703,
+      "word": "公共场所遇到性骚扰该怎么办",
+      "onboard_time": 1682479226,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 160956,
@@ -4539,6 +4563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154675,
+      "num": 154675,
+      "word": "快船vs太阳",
+      "onboard_time": 1682478808,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154639,
       "num": 154639,
       "word": "国产悬疑剧为何偏爱东北重庆",
@@ -4595,6 +4627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150781,
+      "num": 150781,
+      "word": "长空之王真机实拍剧照",
+      "onboard_time": 1682479347,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150643,
       "num": 150643,
       "word": "SEVENTEEN创Melon历代第一",
@@ -4617,6 +4657,14 @@
       "onboard_time": 1682322088,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 148431,
+      "num": 148431,
+      "word": "长假出游是好选择吗",
+      "onboard_time": 1682479045,
+      "rank": 45,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 148049,
@@ -4731,6 +4779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145710,
+      "num": 145710,
+      "word": "淄博民宿1元售出五一房间",
+      "onboard_time": 1682478446,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145679,
       "num": 145679,
       "word": "尹净汉MV镜头",
@@ -4793,14 +4849,6 @@
       "onboard_time": 1682339428,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 142850,
-      "num": 142850,
-      "word": "快船vs太阳",
-      "onboard_time": 1682478808,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 142626,
@@ -4875,14 +4923,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 137351,
-      "num": 137351,
-      "word": "淄博民宿1元售出五一房间",
-      "onboard_time": 1682478446,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137255,
       "num": 154947,
       "word": "喜欢夏天的有福了",
@@ -4897,14 +4937,6 @@
       "onboard_time": 1682405487,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 136566,
-      "num": 136566,
-      "word": "长假出游是好选择吗",
-      "onboard_time": 1682479045,
-      "rank": 45,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 135829,
@@ -4969,6 +5001,14 @@
       "onboard_time": 1682268560,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 133145,
+      "num": 133145,
+      "word": "如果给足加班费你愿意加班吗",
+      "onboard_time": 1682480005,
+      "rank": 45,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 133132,
@@ -5067,6 +5107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128496,
+      "num": 128496,
+      "word": "阿里云史上最大规模降价",
+      "onboard_time": 1682480005,
+      "rank": 47,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 126735,
       "num": 126735,
       "word": "通往群星的轨道",
@@ -5088,6 +5136,14 @@
       "word": "96年的即将迎来人生一万天",
       "onboard_time": 1682465784,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 126467,
+      "num": 126467,
+      "word": "当妈后的行李箱能有多不同",
+      "onboard_time": 1682479108,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -5627,6 +5683,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 71254,
+      "num": 428041,
+      "word": "手机里最绝的演唱会明星生图",
+      "onboard_time": 1682478027,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 70344,
       "num": 70344,
       "word": "湖南博物馆",
@@ -5681,14 +5745,6 @@
       "onboard_time": 1682442496,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 50073,
-      "num": 403574,
-      "word": "手机里最绝的演唱会明星生图",
-      "onboard_time": 1682478027,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 43133,

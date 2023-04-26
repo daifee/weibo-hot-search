@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/26 11:18:16
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/26 11:33:33
 </p>
 </blockquote>
 <p>
@@ -1083,6 +1083,12 @@ PGONE复出不到24小时被封（热度：2288527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%85%AD%E9%87%8E%E5%9B%A0%E5%89%8D%E7%94%B7%E5%8F%8B%E9%95%BF%E5%85%AD%E9%A2%97%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4%23" target="weibo">
+周六野因前男友长六颗子宫肌瘤（热度：2247221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E8%B0%83%E4%BC%91%23" target="weibo">
 五一调休（热度：2245745）
 </a>
@@ -1311,6 +1317,12 @@ ASTRO成员文彬去世（热度：2243382）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BA%A4%E9%80%9A%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%B7%B2%E6%BB%A1%E6%9C%88%23" target="weibo">
+前交通局长孙女炫富事件调查已满月（热度：2090956）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E5%A5%B3%E6%BC%94%E5%91%98%E4%B8%88%E5%A4%AB%E5%90%A6%E8%AE%A4%E5%90%B5%E6%9E%B6%E4%B8%8D%E7%B3%BB%E5%AE%89%E5%85%A8%E6%89%A3%23" target="weibo">
 坠亡女演员丈夫否认吵架不系安全扣（热度：2089802）
 </a>
@@ -1439,12 +1451,6 @@ cp29 抢票（热度：2033651）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E4%B8%B4%E5%A4%8F4%E4%BA%BA%E5%BC%BA%E5%A5%B8%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
 甘肃临夏4人强奸案一审宣判（热度：2016041）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BA%A4%E9%80%9A%E5%B1%80%E9%95%BF%E5%AD%99%E5%A5%B3%E7%82%AB%E5%AF%8C%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%B7%B2%E6%BB%A1%E6%9C%88%23" target="weibo">
-前交通局长孙女炫富事件调查已满月（热度：2014756）
 </a>
 </li>
 
@@ -1583,12 +1589,6 @@ iPhone15ProMax预计售价2万块（热度：1956887）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98%E7%AC%AC%E4%B9%9D%E5%AD%A3%E5%AE%98%E5%AE%A3%23" target="weibo">
 极限挑战第九季官宣（热度：1952598）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%85%AD%E9%87%8E%E5%9B%A0%E5%89%8D%E7%94%B7%E5%8F%8B%E9%95%BF%E5%85%AD%E9%A2%97%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4%23" target="weibo">
-周六野因前男友长六颗子宫肌瘤（热度：1948906）
 </a>
 </li>
 
