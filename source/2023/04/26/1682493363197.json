@@ -1,0 +1,410 @@
+{
+  "runTime": 1682493363197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2143652,
+        "num": 2143652,
+        "word": "女子淄博买切糕2种口味称重仅6元",
+        "onboard_time": 1682489127,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 735542,
+        "num": 735542,
+        "word": "章凝 杜鹃",
+        "onboard_time": 1682491047,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3809,
+        "num": 729583,
+        "word": "行走百县话振兴",
+        "onboard_time": 1682430449,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728978,
+        "num": 728978,
+        "word": "现偶收视率前十里有五部是张翰的",
+        "onboard_time": 1682480425,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 654438,
+        "num": 654438,
+        "word": "何炅晒与黄磊向往的生活海报",
+        "onboard_time": 1682488467,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625433,
+        "num": 625433,
+        "word": "淄博五一客流量已超接待能力",
+        "onboard_time": 1682489606,
+        "rank": 5,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1032322,
+        "num": 625307,
+        "word": "海南一12岁小学生骑车被撞身亡",
+        "onboard_time": 1682483190,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613975,
+        "num": 613975,
+        "word": "梅姨在广州落网消息不实",
+        "onboard_time": 1682479587,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579224,
+        "num": 579224,
+        "word": "丫丫专机将于当地时间26日中午起飞",
+        "onboard_time": 1682489727,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431148,
+        "num": 431148,
+        "word": "淄博喊话推荐其他山东城市",
+        "onboard_time": 1682490626,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1126186,
+        "num": 424864,
+        "word": "女朋友要一个孩子随她姓",
+        "onboard_time": 1682491347,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412788,
+        "num": 412788,
+        "word": "同担对明星热情消退 因为上班",
+        "onboard_time": 1682491946,
+        "rank": 11,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 312002,
+        "num": 312002,
+        "word": "浙江一图书馆将核酸亭改为自习室",
+        "onboard_time": 1682490086,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 306687,
+        "num": 306687,
+        "word": "不建议跟一累就黑脸的人出去玩",
+        "onboard_time": 1682468671,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295527,
+        "num": 295527,
+        "word": "天涯社区",
+        "onboard_time": 1682491165,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 260132,
+        "num": 260132,
+        "word": "杨幂军装路透",
+        "onboard_time": 1682485828,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257311,
+        "num": 257311,
+        "word": "下班后领导给我发23条长语音",
+        "onboard_time": 1682486129,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 257018,
+        "num": 257018,
+        "word": "李延贺涉嫌危害国家安全被调查",
+        "onboard_time": 1682486909,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1097433,
+        "num": 252243,
+        "word": "周六野因前男友长六颗子宫肌瘤",
+        "onboard_time": 1682477664,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243227,
+        "num": 243227,
+        "word": "鞠婧祎仪态变化",
+        "onboard_time": 1682482108,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 594926,
+        "num": 241339,
+        "word": "淄博希尔顿酒店回应房费只用付一半",
+        "onboard_time": 1682478384,
+        "rank": 20,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 414590,
+        "num": 238192,
+        "word": "前交通局长孙女炫富事件调查已满月",
+        "onboard_time": 1682472867,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243322,
+        "num": 236572,
+        "word": "再也不敢乱点婚礼请柬了",
+        "onboard_time": 1682491886,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227291,
+        "num": 227291,
+        "word": "肖战周也 徐克新电影",
+        "onboard_time": 1682467108,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 199609,
+        "num": 199609,
+        "word": "民宿毁约涨价糟蹋了多少人的五一",
+        "onboard_time": 1682474187,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 194115,
+        "num": 194115,
+        "word": "黄牛加价倒卖吐司300一条",
+        "onboard_time": 1682483370,
+        "rank": 25,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 193627,
+        "num": 193627,
+        "word": "m2u",
+        "onboard_time": 1682492067,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191526,
+        "num": 191526,
+        "word": "如何看待律师称梅姨被抓",
+        "onboard_time": 1682493325,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186525,
+        "num": 186525,
+        "word": "长月烬明更换背景音乐",
+        "onboard_time": 1682478085,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185792,
+        "num": 185792,
+        "word": "谢娜再回应助理打手机事件",
+        "onboard_time": 1682466804,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192787,
+        "num": 182716,
+        "word": "今天应嗨尽嗨",
+        "onboard_time": 1682493087,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178118,
+        "num": 178118,
+        "word": "暂时断网 不出丧言",
+        "onboard_time": 1682493146,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177785,
+        "num": 177785,
+        "word": "你也有今天",
+        "onboard_time": 1682490745,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 174395,
+        "num": 174395,
+        "word": "患癌晚期 给女儿留有意义的东西",
+        "onboard_time": 1682482888,
+        "rank": 33,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 166656,
+        "num": 166656,
+        "word": "99年女子疑过度劳累宿舍猝死",
+        "onboard_time": 1682465784,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166181,
+        "num": 166181,
+        "word": "航拍中国台湾篇将播出",
+        "onboard_time": 1682491765,
+        "rank": 35,
+        "category": "军事,国内要闻"
+      },
+      {
+        "raw_hot": 147395,
+        "num": 147395,
+        "word": "余佳运 抢票",
+        "onboard_time": 1682482529,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142611,
+        "num": 142611,
+        "word": "赞达亚甜茶宣传沙丘2",
+        "onboard_time": 1682492367,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142507,
+        "num": 142507,
+        "word": "威少失误",
+        "onboard_time": 1682485113,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141700,
+        "num": 141700,
+        "word": "千万不能乱投简历",
+        "onboard_time": 1682486187,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138449,
+        "num": 138449,
+        "word": "丫丫将回国",
+        "onboard_time": 1682484271,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131791,
+        "num": 131791,
+        "word": "淄博 酒店降价",
+        "onboard_time": 1682480907,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131370,
+        "num": 131370,
+        "word": "张杰演唱会",
+        "onboard_time": 1682483070,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131068,
+        "num": 131068,
+        "word": "陈星旭进组你也有今天",
+        "onboard_time": 1682492245,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127270,
+        "num": 127270,
+        "word": "上次这么多人去淄博还是五国伐齐",
+        "onboard_time": 1682490506,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 126448,
+        "num": 126448,
+        "word": "张韶涵演唱会",
+        "onboard_time": 1682488947,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120083,
+        "num": 120083,
+        "word": "哈尔的移动馄饨摊",
+        "onboard_time": 1682487567,
+        "rank": 46,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 116905,
+        "num": 116905,
+        "word": "被米哈游背刺的一生",
+        "onboard_time": 1682475088,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115158,
+        "num": 115158,
+        "word": "杨紫  转念花开",
+        "onboard_time": 1682477486,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115005,
+        "num": 115005,
+        "word": "长月烬明 抄袭阴阳师",
+        "onboard_time": 1682430151,
+        "rank": 49,
+        "category": "影视,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国生机勃勃#"
+    }
+  }
+}
