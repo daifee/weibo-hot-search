@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/26 22:33:32
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/26 23:18:14
 </p>
 </blockquote>
 <p>
@@ -315,6 +315,12 @@ BoysPlanet成团排名（热度：3746183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%BB%8F%E5%BE%88%E7%81%AB%E5%8D%B4%E5%B7%B2%E6%B6%88%E5%A4%B1%E4%BA%86%E7%9A%84%E5%93%81%E7%89%8C%23" target="weibo">
+曾经很火却已消失了的品牌（热度：3279732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E6%A5%A0%E8%8A%B1%E5%8F%88%E8%85%A5%E5%8F%88%E8%87%AD%E4%B8%BA%E4%BD%95%E8%BF%98%E5%A4%A7%E9%9D%A2%E7%A7%AF%E7%A7%8D%23" target="weibo">
 石楠花又腥又臭为何还大面积种（热度：3279243）
 </a>
@@ -371,12 +377,6 @@ S先生是谁（热度：3162601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%89%87%E5%9C%BA%E6%84%8F%E5%A4%96%E7%BF%BB%E8%BD%A6%23" target="weibo">
 王一博片场意外翻车（热度：3130346）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%BB%8F%E5%BE%88%E7%81%AB%E5%8D%B4%E5%B7%B2%E6%B6%88%E5%A4%B1%E4%BA%86%E7%9A%84%E5%93%81%E7%89%8C%23" target="weibo">
-曾经很火却已消失了的品牌（热度：3125346）
 </a>
 </li>
 
@@ -4287,6 +4287,12 @@ EXO 蝴蝶少女（热度：1079859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%97%AF%E5%93%BC%20%E4%BA%BA%E8%A6%81%E6%8E%A5%E5%8F%97%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%8D%E5%AE%8C%E7%BE%8E%23" target="weibo">
+嗯哼 人要接受自己的不完美（热度：1066958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E9%9C%80%E8%A6%81%E9%81%93%E6%AD%89%E5%90%97%23" target="weibo">
 李晨需要道歉吗（热度：1065412）
 </a>
@@ -4397,6 +4403,12 @@ SpaceX星舰今晚重新发射（热度：1030624）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%8F%98%E7%BE%8E%23" target="weibo">
 刘涛变美（热度：1023458）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23gidle%E5%B0%86%E5%9C%A8%E9%95%BF%E6%B2%99%E4%B8%BE%E5%8A%9E%E7%AD%BE%E5%94%AE%E4%BC%9A%23" target="weibo">
+gidle将在长沙举办签售会（热度：1022020）
 </a>
 </li>
 
@@ -4779,6 +4791,12 @@ gap day（热度：973128）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%91%A8%E6%94%BE%23" target="weibo">
+赵丽颖周放（热度：965548）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E7%9A%84%E5%91%A8%E9%9B%A8%E5%BD%A4%23" target="weibo">
 24岁的周雨彤（热度：965319）
 </a>
@@ -5129,12 +5147,6 @@ NINEPERCENT微博认证还没改（热度：920657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E4%B8%8A%E7%8F%AD3%E5%80%8D%E5%85%B6%E4%BD%99%E5%9B%9B%E5%A4%A92%E5%80%8D%E5%B7%A5%E8%B5%84%23" target="weibo">
 五一上班3倍其余四天2倍工资（热度：915946）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%91%A8%E6%94%BE%23" target="weibo">
-赵丽颖周放（热度：915642）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ infp（热度：837128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%9F%A5%E9%81%93%E4%BB%80%E4%B9%88%E6%98%AF%E5%AA%9A%E9%AA%A8%E5%A4%A9%E6%88%90%E4%BA%86%23" target="weibo">
 突然知道什么是媚骨天成了（热度：825395）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23FPX%20%E6%B2%A1%E5%A5%96%23" target="weibo">
-FPX 没奖（热度：824838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E9%80%89%E7%A7%80%E9%87%8C%E8%AF%A5%E5%87%BA%E7%8E%B0%E7%9A%84%E8%BA%AB%E6%9D%90%E5%90%97%23" target="weibo">
-这是选秀里该出现的身材吗（热度：824491）
 </a>
 </li>
 
