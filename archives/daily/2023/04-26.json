@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682472154748,
+  "endTime": 1682473625144,
   "band_list": [
     {
       "raw_hot": 2294463,
@@ -9,6 +9,14 @@
       "onboard_time": 1682465784,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1824238,
+      "num": 1824238,
+      "word": "不建议跟一累就黑脸的人出去玩",
+      "onboard_time": 1682468671,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1665590,
@@ -35,14 +43,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1227925,
-      "num": 1227925,
-      "word": "不建议跟一累就黑脸的人出去玩",
-      "onboard_time": 1682468671,
-      "rank": 1,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1205777,
       "num": 1205777,
       "word": "看着不体面但很赚钱的工作",
@@ -59,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 967533,
+      "raw_hot": 1013092,
       "num": 600421,
       "word": "舅舅私吞孤儿外甥女百万遗产救助金",
       "onboard_time": 1682447893,
@@ -115,8 +115,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 557555,
-      "num": 557555,
+      "raw_hot": 578327,
+      "num": 578327,
       "word": "游客订淄博酒店被通知只用付一半",
       "onboard_time": 1682470471,
       "rank": 11,
@@ -139,8 +139,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 453953,
-      "num": 453953,
+      "raw_hot": 477523,
+      "num": 477523,
       "word": "当事人回应吐槽软卧3男1女被批",
       "onboard_time": 1682469989,
       "rank": 15,
@@ -161,6 +161,14 @@
       "onboard_time": 1682420186,
       "rank": 5,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 434375,
+      "num": 434375,
+      "word": "前交通局长孙女炫富事件调查已满月",
+      "onboard_time": 1682472867,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429084,
@@ -187,6 +195,14 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 370658,
+      "num": 370658,
+      "word": "澹台烬殉情",
+      "onboard_time": 1682471789,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 356172,
       "num": 287096,
       "word": "陈翔问路人你喜欢苏醒还是我",
@@ -209,6 +225,14 @@
       "onboard_time": 1682424387,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 351563,
+      "num": 351563,
+      "word": "星穹铁道提前开服",
+      "onboard_time": 1682471909,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 347782,
@@ -267,12 +291,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266725,
+      "num": 266725,
+      "word": "高叶甜美风古装",
+      "onboard_time": 1682472449,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262653,
       "num": 230643,
       "word": "你能否接受对象有过同居史",
       "onboard_time": 1682431350,
       "rank": 20,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 252686,
+      "num": 252686,
+      "word": "奔驰女司机疑盲驾将老人撞飞51米",
+      "onboard_time": 1682472386,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237795,
@@ -323,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198113,
+      "num": 198113,
+      "word": "SNKRS",
+      "onboard_time": 1682472567,
+      "rank": 27,
+      "category": "体育,科技"
+    },
+    {
       "raw_hot": 195223,
       "num": 195223,
       "word": "沈阳一街道沿街店铺被统一规定黑底招牌",
@@ -331,20 +379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192693,
-      "num": 192693,
+      "raw_hot": 194266,
+      "num": 194266,
       "word": "时代少年团白天上课晚上上班",
       "onboard_time": 1682471189,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191596,
-      "num": 191596,
-      "word": "星穹铁道提前开服",
-      "onboard_time": 1682471909,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 185236,
@@ -387,6 +427,14 @@
       "category": "社会新闻,游戏"
     },
     {
+      "raw_hot": 173012,
+      "num": 173012,
+      "word": "万达地产集团成老赖被强执超10亿",
+      "onboard_time": 1682472331,
+      "rank": 33,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 172574,
       "num": 172574,
       "word": "青岛震感",
@@ -419,20 +467,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156103,
-      "num": 156103,
-      "word": "澹台烬殉情",
-      "onboard_time": 1682471789,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 154855,
       "num": 154855,
       "word": "反向抹零",
       "onboard_time": 1682436809,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154818,
+      "num": 154818,
+      "word": "生活被工作填满要辞职吗",
+      "onboard_time": 1682472628,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 152511,
@@ -467,6 +515,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 140541,
+      "num": 140541,
+      "word": "澹台烬不知道叶夕雾失明",
+      "onboard_time": 1682471789,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137832,
       "num": 137832,
       "word": "闵玧其说李知勋像是他走失的弟弟",
@@ -489,14 +545,6 @@
       "onboard_time": 1682438606,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127933,
-      "num": 126097,
-      "word": "澹台烬不知道叶夕雾失明",
-      "onboard_time": 1682471789,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 127541,
@@ -531,12 +579,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122829,
+      "num": 122829,
+      "word": "SEVENTEEN创Melon历代第一",
+      "onboard_time": 1682473349,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122685,
       "num": 122685,
       "word": "去淄博别老逮着烧烤吃",
       "onboard_time": 1682466684,
       "rank": 46,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 122490,
+      "num": 122490,
+      "word": "刘若英门票",
+      "onboard_time": 1682473527,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 121292,
