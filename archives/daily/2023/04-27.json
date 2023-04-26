@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682551073958,
+  "endTime": 1682552023897,
   "band_list": [
     {
       "raw_hot": 1656772,
@@ -11,11 +11,43 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1067441,
+      "raw_hot": 1304179,
       "num": 365973,
       "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
       "onboard_time": 1682519370,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1107975,
+      "num": 1107975,
+      "word": "女子称肚痛就医检查遭医生猥亵",
+      "onboard_time": 1682518110,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1046946,
+      "num": 385876,
+      "word": "嗯哼 人要接受自己的不完美",
+      "onboard_time": 1682518170,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 974321,
+      "num": 974321,
+      "word": "丫丫启程回国",
+      "onboard_time": 1682518293,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 941412,
+      "num": 351701,
+      "word": "专家称五一调休是动了脑筋的做法",
+      "onboard_time": 1682502027,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -24,38 +56,6 @@
       "word": "丫丫",
       "onboard_time": 1682510426,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 929617,
-      "num": 385876,
-      "word": "嗯哼 人要接受自己的不完美",
-      "onboard_time": 1682518170,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 916993,
-      "num": 916993,
-      "word": "女子称肚痛就医检查遭医生猥亵",
-      "onboard_time": 1682518110,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 850422,
-      "num": 850422,
-      "word": "丫丫启程回国",
-      "onboard_time": 1682518293,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 730359,
-      "num": 351701,
-      "word": "专家称五一调休是动了脑筋的做法",
-      "onboard_time": 1682502027,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -131,6 +131,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 308704,
+      "num": 308704,
+      "word": "你会介意另一半文化水平低吗",
+      "onboard_time": 1682518710,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295885,
       "num": 295885,
       "word": "GALI",
@@ -163,8 +171,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279924,
-      "num": 279924,
+      "raw_hot": 281556,
+      "num": 281556,
       "word": "西直门长公主",
       "onboard_time": 1682504370,
       "rank": 22,
@@ -179,20 +187,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267382,
-      "num": 267382,
-      "word": "你会介意另一半文化水平低吗",
-      "onboard_time": 1682518710,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 253352,
-      "num": 196549,
+      "raw_hot": 267344,
+      "num": 245034,
       "word": "尹锡悦抵美在机场亲吻花童引争议",
       "onboard_time": 1682539571,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 254945,
+      "num": 254945,
+      "word": "哈兰德长发飘飘不影响进球",
+      "onboard_time": 1682550321,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 254832,
+      "num": 254832,
+      "word": "串串店家回应鸡爪插13根签",
+      "onboard_time": 1682512648,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250462,
@@ -203,16 +219,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 226364,
-      "num": 226364,
-      "word": "串串店家回应鸡爪插13根签",
-      "onboard_time": 1682512648,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225832,
-      "num": 225832,
+      "raw_hot": 228557,
+      "num": 228557,
       "word": "一起欢迎丫丫回家",
       "onboard_time": 1682521770,
       "rank": 27,
@@ -235,16 +243,16 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 162770,
-      "num": 162770,
-      "word": "哈兰德长发飘飘不影响进球",
-      "onboard_time": 1682550321,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 173645,
+      "num": 173645,
+      "word": "分不清是萧敬腾还是钟楚曦",
+      "onboard_time": 1682519010,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 162557,
-      "num": 162557,
+      "raw_hot": 172182,
+      "num": 172182,
       "word": "民警带服刑人员去民政局登记结婚",
       "onboard_time": 1682510787,
       "rank": 38,
@@ -265,6 +273,14 @@
       "onboard_time": 1682520332,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138573,
+      "num": 138573,
+      "word": "医院回应女子称遭医生猥亵",
+      "onboard_time": 1682525963,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137868,
@@ -299,12 +315,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 126903,
-      "num": 126903,
-      "word": "分不清是萧敬腾还是钟楚曦",
-      "onboard_time": 1682519010,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 127393,
+      "num": 127393,
+      "word": "被调休的周末瞬间不香了",
+      "onboard_time": 1682517509,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 121965,
@@ -312,22 +328,6 @@
       "word": "这才是女生们想找的裤子吧",
       "onboard_time": 1682503287,
       "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 120450,
-      "num": 120450,
-      "word": "医院回应女子称遭医生猥亵",
-      "onboard_time": 1682525963,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119090,
-      "num": 119090,
-      "word": "被调休的周末瞬间不香了",
-      "onboard_time": 1682517509,
-      "rank": 39,
       "category": "情感"
     },
     {
@@ -339,12 +339,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 114867,
+      "num": 114867,
+      "word": "徐跋骋学术不端行为属实",
+      "onboard_time": 1682530514,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114735,
       "num": 114735,
       "word": "你给我的喜欢同床了",
       "onboard_time": 1682520812,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 114440,
+      "num": 114440,
+      "word": "切尔西又输了",
+      "onboard_time": 1682550561,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111642,
+      "num": 111642,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1682551822,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 110508,
@@ -355,12 +379,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 108083,
-      "num": 108083,
-      "word": "徐跋骋学术不端行为属实",
-      "onboard_time": 1682530514,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 108183,
+      "num": 108183,
+      "word": "刘宇宁染头发了",
+      "onboard_time": 1682517210,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 107480,
@@ -379,12 +403,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 103521,
-      "num": 103521,
-      "word": "刘宇宁染头发了",
-      "onboard_time": 1682517210,
-      "rank": 48,
-      "category": "作品衍生"
+      "raw_hot": 103909,
+      "num": 103909,
+      "word": "斯佳辉晋级世锦赛四强",
+      "onboard_time": 1682551102,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 103224,
@@ -393,6 +417,14 @@
       "onboard_time": 1682517692,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101811,
+      "num": 101811,
+      "word": "结婚太早容易后悔吗",
+      "onboard_time": 1682541792,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 101313,
@@ -411,28 +443,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 98654,
-      "num": 98654,
-      "word": "结婚太早容易后悔吗",
-      "onboard_time": 1682541792,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 97418,
       "num": 97418,
       "word": "男明星谁赢了",
       "onboard_time": 1682513006,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 92753,
-      "num": 92753,
-      "word": "切尔西又输了",
-      "onboard_time": 1682550561,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 92743,
@@ -459,6 +475,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82780,
+      "num": 82780,
+      "word": "尾鱼开新文了",
+      "onboard_time": 1682551643,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 74373,
+      "num": 74373,
+      "word": "淄博文旅的格局",
+      "onboard_time": 1682551764,
+      "rank": 46,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 73665,
+      "num": 73665,
+      "word": "电影我和我的青春定档五一",
+      "onboard_time": 1682549720,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 69250,
+      "num": 69250,
+      "word": "儿子因病离世父亲看着孙子满眼是爱",
+      "onboard_time": 1682551884,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68822,
       "num": 86383,
       "word": "真是又精致又粗糙",
@@ -467,12 +515,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67945,
-      "num": 67945,
-      "word": "电影我和我的青春定档五一",
-      "onboard_time": 1682549720,
-      "rank": 41,
-      "category": "影视"
+      "raw_hot": 67308,
+      "num": 67308,
+      "word": "警车为丫丫护航",
+      "onboard_time": 1682552003,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64324,
@@ -492,7 +540,7 @@
     },
     {
       "raw_hot": 21886,
-      "num": 651710,
+      "num": 894121,
       "word": "第六届数字中国建设峰会",
       "onboard_time": 1682512106,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682551073958,
+  "endTime": 1682552023897,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1304179,
+      "num": 836685,
+      "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+      "onboard_time": 1682519370,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1285084,
       "num": 1285084,
       "word": "何炅黄磊好像两个假笑空巢老人",
@@ -683,6 +691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1107975,
+      "num": 1107975,
+      "word": "女子称肚痛就医检查遭医生猥亵",
+      "onboard_time": 1682518110,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1107017,
       "num": 1107017,
       "word": "巴特勒太硬了",
@@ -729,14 +745,6 @@
       "onboard_time": 1682380165,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1067441,
-      "num": 836685,
-      "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
-      "onboard_time": 1682519370,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1031768,
@@ -841,14 +849,6 @@
       "onboard_time": 1682336187,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 916993,
-      "num": 916993,
-      "word": "女子称肚痛就医检查遭医生猥亵",
-      "onboard_time": 1682518110,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 913096,
@@ -2947,6 +2947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308704,
+      "num": 308704,
+      "word": "你会介意另一半文化水平低吗",
+      "onboard_time": 1682518710,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307581,
       "num": 307581,
       "word": "梁静茹说看去有风的地方哭得一塌糊涂",
@@ -3307,12 +3315,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267382,
-      "num": 267382,
-      "word": "你会介意另一半文化水平低吗",
-      "onboard_time": 1682518710,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 267344,
+      "num": 245034,
+      "word": "尹锡悦抵美在机场亲吻花童引争议",
+      "onboard_time": 1682539571,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 267085,
@@ -3531,6 +3539,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254945,
+      "num": 254945,
+      "word": "哈兰德长发飘飘不影响进球",
+      "onboard_time": 1682550321,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 254832,
+      "num": 254832,
+      "word": "串串店家回应鸡爪插13根签",
+      "onboard_time": 1682512648,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254792,
       "num": 254792,
       "word": "李昇基李多寅婚后捐款57万",
@@ -3577,14 +3601,6 @@
       "onboard_time": 1682475568,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 253352,
-      "num": 196549,
-      "word": "尹锡悦抵美在机场亲吻花童引争议",
-      "onboard_time": 1682539571,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 253082,
@@ -3992,14 +4008,6 @@
       "word": "女生两次遭霸凌视频疯传致其抑郁",
       "onboard_time": 1682440403,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226364,
-      "num": 237554,
-      "word": "串串店家回应鸡爪插13根签",
-      "onboard_time": 1682512648,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -5643,14 +5651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162770,
-      "num": 162770,
-      "word": "哈兰德长发飘飘不影响进球",
-      "onboard_time": 1682550321,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162535,
       "num": 162535,
       "word": "澹台烬带着叶夕雾的仙髓活着",
@@ -6363,6 +6363,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 138573,
+      "num": 138573,
+      "word": "医院回应女子称遭医生猥亵",
+      "onboard_time": 1682525963,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137799,
       "num": 137799,
       "word": "ChatGPT这是你写的吗",
@@ -6795,14 +6803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120450,
-      "num": 120450,
-      "word": "医院回应女子称遭医生猥亵",
-      "onboard_time": 1682525963,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120139,
       "num": 120139,
       "word": "贝恩36分",
@@ -6867,6 +6867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 114867,
+      "num": 114867,
+      "word": "徐跋骋学术不端行为属实",
+      "onboard_time": 1682530514,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114777,
       "num": 114777,
       "word": "赵小棠直播吃淄博烧烤",
@@ -6881,6 +6889,14 @@
       "onboard_time": 1682414727,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114440,
+      "num": 114440,
+      "word": "切尔西又输了",
+      "onboard_time": 1682550561,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 114217,
@@ -6913,6 +6929,14 @@
       "onboard_time": 1682417426,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 111642,
+      "num": 111642,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1682551822,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 111632,
@@ -6977,14 +7001,6 @@
       "onboard_time": 1682285651,
       "rank": 30,
       "category": "科技"
-    },
-    {
-      "raw_hot": 108083,
-      "num": 108083,
-      "word": "徐跋骋学术不端行为属实",
-      "onboard_time": 1682530514,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107754,
@@ -7099,6 +7115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103909,
+      "num": 103909,
+      "word": "斯佳辉晋级世锦赛四强",
+      "onboard_time": 1682551102,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103796,
       "num": 110411,
       "word": "冲饮奶茶进化史",
@@ -7131,8 +7155,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98654,
-      "num": 98654,
+      "raw_hot": 101811,
+      "num": 101811,
       "word": "结婚太早容易后悔吗",
       "onboard_time": 1682541792,
       "rank": 26,
@@ -7193,14 +7217,6 @@
       "onboard_time": 1682428829,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 92753,
-      "num": 92753,
-      "word": "切尔西又输了",
-      "onboard_time": 1682550561,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 92242,
@@ -7307,6 +7323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 82780,
+      "num": 82780,
+      "word": "尾鱼开新文了",
+      "onboard_time": 1682551643,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 81256,
       "num": 81256,
       "word": "ENHYPEN预告",
@@ -7355,12 +7379,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 74373,
+      "num": 74373,
+      "word": "淄博文旅的格局",
+      "onboard_time": 1682551764,
+      "rank": 46,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 73991,
       "num": 115226,
       "word": "你假期不出游的原因是什么",
       "onboard_time": 1682404285,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 73665,
+      "num": 73665,
+      "word": "电影我和我的青春定档五一",
+      "onboard_time": 1682549720,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 71254,
@@ -7379,6 +7419,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 69250,
+      "num": 69250,
+      "word": "儿子因病离世父亲看着孙子满眼是爱",
+      "onboard_time": 1682551884,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68822,
       "num": 86383,
       "word": "真是又精致又粗糙",
@@ -7387,20 +7435,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 67945,
-      "num": 67945,
-      "word": "电影我和我的青春定档五一",
-      "onboard_time": 1682549720,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 67505,
       "num": 111430,
       "word": "简洁明了的披萨菜单",
       "onboard_time": 1682316325,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 67308,
+      "num": 67308,
+      "word": "警车为丫丫护航",
+      "onboard_time": 1682552003,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67257,
