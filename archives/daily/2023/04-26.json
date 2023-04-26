@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682493363197,
+  "endTime": 1682494409590,
   "band_list": [
     {
       "raw_hot": 3029892,
@@ -27,8 +27,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 2143652,
-      "num": 2143652,
+      "raw_hot": 2231222,
+      "num": 2231222,
       "word": "女子淄博买切糕2种口味称重仅6元",
       "onboard_time": 1682489127,
       "rank": 10,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1410909,
+      "num": 424864,
+      "word": "女朋友要一个孩子随她姓",
+      "onboard_time": 1682491347,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1383551,
       "num": 1383551,
       "word": "孙卓被拐案代理律师称梅姨已被抓",
@@ -131,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1126186,
-      "num": 424864,
-      "word": "女朋友要一个孩子随她姓",
-      "onboard_time": 1682491347,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1017738,
       "num": 1017738,
       "word": "梅姨在广州落网消息不实",
@@ -153,6 +153,14 @@
       "onboard_time": 1682447893,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1010148,
+      "num": 1010148,
+      "word": "章凝 杜鹃",
+      "onboard_time": 1682491047,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 952414,
@@ -195,20 +203,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 735542,
-      "num": 735542,
-      "word": "章凝 杜鹃",
-      "onboard_time": 1682491047,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 719131,
+      "num": 719131,
+      "word": "淄博五一客流量已超接待能力",
+      "onboard_time": 1682489606,
+      "rank": 23,
+      "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 654438,
-      "num": 654438,
+      "raw_hot": 704153,
+      "num": 704153,
       "word": "何炅晒与黄磊向往的生活海报",
       "onboard_time": 1682488467,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 646659,
+      "num": 646659,
+      "word": "丫丫专机将于当地时间26日中午起飞",
+      "onboard_time": 1682489727,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635712,
@@ -217,14 +233,6 @@
       "onboard_time": 1682477486,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 625433,
-      "num": 625433,
-      "word": "淄博五一客流量已超接待能力",
-      "onboard_time": 1682489606,
-      "rank": 23,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 615187,
@@ -259,14 +267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 579224,
-      "num": 579224,
-      "word": "丫丫专机将于当地时间26日中午起飞",
-      "onboard_time": 1682489727,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 578327,
       "num": 578327,
       "word": "游客订淄博酒店被通知只用付一半",
@@ -280,6 +280,14 @@
       "word": "民宿毁约涨价糟蹋了多少人的五一",
       "onboard_time": 1682474187,
       "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 512390,
+      "num": 512390,
+      "word": "淄博喊话推荐其他山东城市",
+      "onboard_time": 1682490626,
+      "rank": 39,
       "category": "社会新闻,旅游"
     },
     {
@@ -395,14 +403,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 431148,
-      "num": 431148,
-      "word": "淄博喊话推荐其他山东城市",
-      "onboard_time": 1682490626,
-      "rank": 39,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 429084,
       "num": 429084,
       "word": "萌兰",
@@ -417,6 +417,14 @@
       "onboard_time": 1682475088,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 420497,
+      "num": 420497,
+      "word": "中餐厅7拟邀阵容",
+      "onboard_time": 1682493446,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 416183,
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358521,
+      "num": 358521,
+      "word": "再也不敢乱点婚礼请柬了",
+      "onboard_time": 1682491886,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 356172,
       "num": 287096,
       "word": "陈翔问路人你喜欢苏醒还是我",
@@ -505,6 +521,14 @@
       "onboard_time": 1682471909,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 350849,
+      "num": 350849,
+      "word": "浙江一图书馆将核酸亭改为自习室",
+      "onboard_time": 1682490086,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 347782,
@@ -563,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 312002,
-      "num": 312002,
-      "word": "浙江一图书馆将核酸亭改为自习室",
-      "onboard_time": 1682490086,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 311678,
       "num": 311678,
       "word": "患癌晚期 给女儿留有意义的东西",
@@ -619,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267085,
+      "num": 267085,
+      "word": "五一假期疫情防控防疫有关情况",
+      "onboard_time": 1682494045,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266963,
       "num": 266963,
       "word": "罗云熙白鹿涨粉情况",
@@ -659,20 +683,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 251479,
+      "num": 251479,
+      "word": "今天应嗨尽嗨",
+      "onboard_time": 1682493087,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248502,
       "num": 248502,
       "word": "喜欢你我也是",
       "onboard_time": 1682485529,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243322,
-      "num": 236572,
-      "word": "再也不敢乱点婚礼请柬了",
-      "onboard_time": 1682491886,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 242603,
@@ -739,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220969,
+      "num": 220969,
+      "word": "上一个让范丞丞这么主动的还是贾玲",
+      "onboard_time": 1682493625,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218230,
       "num": 218230,
       "word": "王者荣耀",
@@ -769,6 +801,14 @@
       "onboard_time": 1682486187,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210638,
+      "num": 178118,
+      "word": "暂时断网 不出丧言",
+      "onboard_time": 1682493146,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 205349,
@@ -867,14 +907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 192787,
-      "num": 182716,
-      "word": "今天应嗨尽嗨",
-      "onboard_time": 1682493087,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191115,
       "num": 191115,
       "word": "哈尔的移动馄饨摊",
@@ -923,12 +955,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178118,
-      "num": 178118,
-      "word": "暂时断网 不出丧言",
-      "onboard_time": 1682493146,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 179168,
+      "num": 179168,
+      "word": "坠楼女子3年后超市一眼认出恩人",
+      "onboard_time": 1682493808,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177785,
@@ -1091,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154713,
+      "num": 154713,
+      "word": "淄博女领导的决策",
+      "onboard_time": 1682493926,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153544,
       "num": 153544,
       "word": "订五一三亚民宿拒退单遭威胁辱骂",
@@ -1200,6 +1240,14 @@
       "word": "澹台烬不知道叶夕雾失明",
       "onboard_time": 1682471789,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 140171,
+      "num": 140171,
+      "word": "长空之王新加坡预告",
+      "onboard_time": 1682494168,
+      "rank": 41,
       "category": "影视"
     },
     {
@@ -1345,6 +1393,14 @@
       "onboard_time": 1682466684,
       "rank": 46,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 122518,
+      "num": 122518,
+      "word": "赵丽颖虎狼之路杀青合照路透",
+      "onboard_time": 1682494347,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 122051,
