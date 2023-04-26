@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682505230106,
+  "endTime": 1682507685386,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -17,6 +17,14 @@
       "onboard_time": 1682477664,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2939699,
+      "num": 2939699,
+      "word": "专家称五一调休是动了脑筋的做法",
+      "onboard_time": 1682502027,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2294463,
@@ -41,14 +49,6 @@
       "onboard_time": 1682489127,
       "rank": 10,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 2135335,
-      "num": 2135335,
-      "word": "专家称五一调休是动了脑筋的做法",
-      "onboard_time": 1682502027,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2090956,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1337831,
+      "num": 1337831,
+      "word": "刘畊宏了一年的变化",
+      "onboard_time": 1682502629,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1285084,
       "num": 1285084,
       "word": "何炅黄磊好像两个假笑空巢老人",
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988838,
+      "num": 894062,
+      "word": "替身说肖战拍戏现场不用看剧本",
+      "onboard_time": 1682502089,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 952414,
       "num": 952414,
       "word": "肖战周也 徐克新电影",
       "onboard_time": 1682467108,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 894062,
-      "num": 894062,
-      "word": "替身说肖战拍戏现场不用看剧本",
-      "onboard_time": 1682502089,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 836869,
@@ -284,19 +292,19 @@
     },
     {
       "raw_hot": 715002,
-      "num": 1615543,
+      "num": 1847366,
       "word": "淄博喊话推荐其他山东城市",
       "onboard_time": 1682490626,
       "rank": 39,
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 707198,
-      "num": 707198,
-      "word": "刘畊宏了一年的变化",
-      "onboard_time": 1682502629,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 668172,
+      "num": 668172,
+      "word": "吴磊虞书欣 黑莲花",
+      "onboard_time": 1682501428,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 646659,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523705,
+      "num": 523705,
+      "word": "孔雪儿 珍珠是我刚挖的",
+      "onboard_time": 1682505326,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503413,
       "num": 503413,
       "word": "黄牛加价倒卖吐司300一条",
@@ -411,12 +427,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 490716,
-      "num": 490716,
-      "word": "吴磊虞书欣 黑莲花",
-      "onboard_time": 1682501428,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 490634,
+      "num": 490634,
+      "word": "西直门长公主",
+      "onboard_time": 1682504370,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485682,
@@ -499,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 442279,
+      "num": 442279,
+      "word": "赖赖 有人盗了我的脸",
+      "onboard_time": 1682499928,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 435473,
       "num": 435473,
       "word": "下班后领导给我发23条长语音",
@@ -556,11 +580,19 @@
     },
     {
       "raw_hot": 398794,
-      "num": 939430,
+      "num": 948889,
       "word": "坠楼女子3年后超市一眼认出恩人",
       "onboard_time": 1682493808,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398372,
+      "num": 398372,
+      "word": "宝格丽盛典",
+      "onboard_time": 1682505147,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 394941,
@@ -603,12 +635,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 361951,
-      "num": 361951,
-      "word": "赖赖 有人盗了我的脸",
-      "onboard_time": 1682499928,
-      "rank": 18,
-      "category": "网红"
+      "raw_hot": 356345,
+      "num": 356345,
+      "word": "迪丽热巴在袖子上夹夹子",
+      "onboard_time": 1682503589,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 356172,
@@ -659,14 +691,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 338791,
-      "num": 338791,
-      "word": "迪丽热巴在袖子上夹夹子",
-      "onboard_time": 1682503589,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 337852,
       "num": 337852,
       "word": "申军良回应梅姨被抓到",
@@ -713,6 +737,14 @@
       "onboard_time": 1682472386,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318903,
+      "num": 318903,
+      "word": "妈妈说穿这个不像高中生",
+      "onboard_time": 1682505025,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 315499,
@@ -849,6 +881,14 @@
       "onboard_time": 1682483429,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255295,
+      "num": 255295,
+      "word": "赵丽颖刘烨肖央新片杀青照",
+      "onboard_time": 1682503707,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 253696,
@@ -1091,19 +1131,19 @@
       "category": "体育,科技"
     },
     {
-      "raw_hot": 198052,
-      "num": 180658,
-      "word": "赵丽颖刘烨肖央新片杀青照",
-      "onboard_time": 1682503707,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 196342,
       "num": 196342,
       "word": "好翰莫提当年勇",
       "onboard_time": 1682486667,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195469,
+      "num": 195469,
+      "word": "杨幂的发量",
+      "onboard_time": 1682507008,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -1113,6 +1153,14 @@
       "onboard_time": 1682467046,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194526,
+      "num": 194526,
+      "word": "养猫的千万不要买这个凳子",
+      "onboard_time": 1682507188,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 194266,
@@ -1147,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189930,
+      "num": 189930,
+      "word": "林俊杰演唱会散场后的巴黎地铁",
+      "onboard_time": 1682506469,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189612,
       "num": 189612,
       "word": "会吃是一种什么体验",
@@ -1169,14 +1225,6 @@
       "onboard_time": 1682468911,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183575,
-      "num": 183575,
-      "word": "西直门长公主",
-      "onboard_time": 1682504370,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183523,
@@ -1233,6 +1281,14 @@
       "onboard_time": 1682433869,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176156,
+      "num": 176156,
+      "word": "PDD歌友会",
+      "onboard_time": 1682506049,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 175890,
@@ -1323,14 +1379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163671,
-      "num": 163671,
-      "word": "妈妈说穿这个不像高中生",
-      "onboard_time": 1682505025,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 161901,
       "num": 149444,
       "word": "赵丽颖虎狼之路杀青",
@@ -1387,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158404,
+      "num": 158404,
+      "word": "当别人补妆时的王一博",
+      "onboard_time": 1682507188,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158287,
       "num": 158287,
       "word": "薪资和工作氛围哪个更重要",
@@ -1419,20 +1475,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 153507,
+      "num": 153507,
+      "word": "范丞丞张婧仪的cp名",
+      "onboard_time": 1682506647,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152511,
       "num": 147094,
       "word": "长月烬明",
       "onboard_time": 1682418146,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151920,
-      "num": 151920,
-      "word": "宝格丽盛典",
-      "onboard_time": 1682505147,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151050,
@@ -1497,6 +1553,14 @@
       "onboard_time": 1682478446,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145357,
+      "num": 145357,
+      "word": "时代少年团集体量腰围",
+      "onboard_time": 1682505808,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 145131,
@@ -1619,6 +1683,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137679,
+      "num": 137679,
+      "word": "代号鸢",
+      "onboard_time": 1682506708,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 137022,
+      "num": 137022,
+      "word": "你支持大熊猫租借到外国吗",
+      "onboard_time": 1682506107,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135741,
       "num": 135741,
       "word": "易烊千玺呆毛",
@@ -1648,6 +1728,14 @@
       "word": "刘若英门票",
       "onboard_time": 1682473527,
       "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 134626,
+      "num": 134626,
+      "word": "华晨宇虚幻与现实演唱会live",
+      "onboard_time": 1682506887,
+      "rank": 41,
       "category": "音乐"
     },
     {
@@ -1963,8 +2051,16 @@
       "category": "影视"
     },
     {
+      "raw_hot": 85970,
+      "num": 446651,
+      "word": "姐姐们的松弛感红毯造型",
+      "onboard_time": 1682506826,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 85172,
-      "num": 1535171,
+      "num": 1567167,
       "word": "这些文化遗存现今的模样",
       "onboard_time": 1682495425,
       "rank": 2,
