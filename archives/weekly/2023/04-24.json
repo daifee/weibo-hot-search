@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682530411371,
+  "endTime": 1682533288989,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -7393,6 +7393,14 @@
       "onboard_time": 1682442496,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 53895,
+      "num": 37521,
+      "word": "徐跋骋学术不端行为属实",
+      "onboard_time": 1682530514,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46519,

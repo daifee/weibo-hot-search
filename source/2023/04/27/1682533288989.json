@@ -1,0 +1,410 @@
+{
+  "runTime": 1682533288989,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 297682,
+        "num": 297682,
+        "word": "曾经很火却已消失了的品牌",
+        "onboard_time": 1682514989,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208289,
+        "num": 208289,
+        "word": "丫丫启程回国",
+        "onboard_time": 1682518293,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8499,
+        "num": 156540,
+        "word": "第六届数字中国建设峰会",
+        "onboard_time": 1682512106,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136342,
+        "num": 136342,
+        "word": "刘畊宏了一年的变化",
+        "onboard_time": 1682502629,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116452,
+        "num": 116452,
+        "word": "压力给到张子枫",
+        "onboard_time": 1682513426,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106680,
+        "num": 106680,
+        "word": "星痕",
+        "onboard_time": 1682523088,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101106,
+        "num": 101106,
+        "word": "乌克兰",
+        "onboard_time": 1682511747,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 99170,
+        "num": 99170,
+        "word": "丫丫",
+        "onboard_time": 1682510426,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86376,
+        "num": 86376,
+        "word": "吴磊虞书欣 黑莲花",
+        "onboard_time": 1682501428,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 77059,
+        "num": 77059,
+        "word": "发疯有用",
+        "onboard_time": 1682523928,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254696,
+        "num": 75530,
+        "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+        "onboard_time": 1682519370,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209092,
+        "num": 74966,
+        "word": "嗯哼 人要接受自己的不完美",
+        "onboard_time": 1682518170,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125402,
+        "num": 74398,
+        "word": "专家称五一调休是动了脑筋的做法",
+        "onboard_time": 1682502027,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73466,
+        "num": 73466,
+        "word": "奚梦瑶又去深圳上课了",
+        "onboard_time": 1682519312,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72784,
+        "num": 72784,
+        "word": "叶冰裳下线",
+        "onboard_time": 1682521230,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69966,
+        "num": 69966,
+        "word": "GALI",
+        "onboard_time": 1682521173,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69176,
+        "num": 69176,
+        "word": "易烊千玺刘宪华同框",
+        "onboard_time": 1682523509,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62283,
+        "num": 62283,
+        "word": "女生厕所遇代孕广告用贴纸遮盖",
+        "onboard_time": 1682497167,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61616,
+        "num": 61616,
+        "word": "串串店家回应鸡爪插13根签",
+        "onboard_time": 1682512648,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57469,
+        "num": 57469,
+        "word": "gidle将在长沙举办签售会",
+        "onboard_time": 1682520031,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56613,
+        "num": 56613,
+        "word": "女子称肚痛就医检查遭医生猥亵",
+        "onboard_time": 1682518110,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54971,
+        "num": 54971,
+        "word": "陈都灵生图",
+        "onboard_time": 1682512588,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 53709,
+        "num": 53709,
+        "word": "你会介意另一半文化水平低吗",
+        "onboard_time": 1682518710,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49095,
+        "num": 49095,
+        "word": "一起欢迎丫丫回家",
+        "onboard_time": 1682521770,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48112,
+        "num": 48112,
+        "word": "宋寅说王一博比自己帅",
+        "onboard_time": 1682527342,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48061,
+        "num": 48061,
+        "word": "西直门长公主",
+        "onboard_time": 1682504370,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43619,
+        "num": 43619,
+        "word": "分不清是萧敬腾还是钟楚曦",
+        "onboard_time": 1682519010,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40310,
+        "num": 40310,
+        "word": "不考虑收入你最想做什么工作",
+        "onboard_time": 1682522189,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39053,
+        "num": 39053,
+        "word": "赵丽颖周放",
+        "onboard_time": 1682511445,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37531,
+        "num": 37531,
+        "word": "任嘉伦袁冰妍或将主演千香引",
+        "onboard_time": 1682518710,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53895,
+        "num": 37521,
+        "word": "徐跋骋学术不端行为属实",
+        "onboard_time": 1682530514,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36930,
+        "num": 36930,
+        "word": "曼城vs阿森纳",
+        "onboard_time": 1682524949,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36555,
+        "num": 36555,
+        "word": "宫脇咲良演我对所有蔬菜态度",
+        "onboard_time": 1682525366,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36083,
+        "num": 36083,
+        "word": "医院回应女子称遭医生猥亵",
+        "onboard_time": 1682525963,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35286,
+        "num": 35286,
+        "word": "澹台烬带着叶夕雾的仙髓活着",
+        "onboard_time": 1682521173,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 34263,
+        "num": 34263,
+        "word": "喻言的蓬蓬裙好大",
+        "onboard_time": 1682510909,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34262,
+        "num": 34262,
+        "word": "民警带服刑人员去民政局登记结婚",
+        "onboard_time": 1682510787,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 32831,
+        "num": 32831,
+        "word": "这才是女生们想找的裤子吧",
+        "onboard_time": 1682503287,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32358,
+        "num": 32358,
+        "word": "杨幂的发量",
+        "onboard_time": 1682507008,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 30988,
+        "num": 30988,
+        "word": "被调休的周末瞬间不香了",
+        "onboard_time": 1682517509,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30379,
+        "num": 30379,
+        "word": "PDD歌友会",
+        "onboard_time": 1682506049,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30130,
+        "num": 30130,
+        "word": "云南有5种颜色的草莓",
+        "onboard_time": 1682515949,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29411,
+        "num": 29411,
+        "word": "男明星谁赢了",
+        "onboard_time": 1682513006,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28764,
+        "num": 28764,
+        "word": "孔雪儿 复古名伶",
+        "onboard_time": 1682513729,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27599,
+        "num": 27599,
+        "word": "甄嬛传播出十年孙俪才意识到很火",
+        "onboard_time": 1682502027,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27228,
+        "num": 27228,
+        "word": "伦纳德右膝半月板撕裂",
+        "onboard_time": 1682520332,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26700,
+        "num": 26700,
+        "word": "女朋友要一个孩子随她姓",
+        "onboard_time": 1682491347,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25439,
+        "num": 25439,
+        "word": "迪丽热巴在袖子上夹夹子",
+        "onboard_time": 1682503589,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23029,
+        "num": 25436,
+        "word": "刘宇宁染头发了",
+        "onboard_time": 1682517210,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22790,
+        "num": 25433,
+        "word": "徐明浩高叶陈赫合照",
+        "onboard_time": 1682517692,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#主题教育这样开展#"
+    }
+  }
+}
