@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682518583739,
+  "endTime": 1682519612647,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -33,6 +33,14 @@
       "onboard_time": 1682257595,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3125346,
+      "num": 3125346,
+      "word": "曾经很火却已消失了的品牌",
+      "onboard_time": 1682514989,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 3029892,
@@ -171,14 +179,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 2207404,
-      "num": 594492,
-      "word": "曾经很火却已消失了的品牌",
-      "onboard_time": 1682514989,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 2201717,
       "num": 2201717,
       "word": "我国实行周末双休制还不足30年",
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1726884,
+      "num": 1726884,
+      "word": "压力给到张子枫",
+      "onboard_time": 1682513426,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1713976,
       "num": 916593,
       "word": "疑戴3万元耳钉女副局长露面",
@@ -361,14 +369,6 @@
       "onboard_time": 1682401887,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1626335,
-      "num": 1018004,
-      "word": "压力给到张子枫",
-      "onboard_time": 1682513426,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1604978,
@@ -481,6 +481,14 @@
       "onboard_time": 1682466804,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1458676,
+      "num": 1458676,
+      "word": "丫丫启程回国",
+      "onboard_time": 1682518293,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1394728,
@@ -971,6 +979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 762539,
+      "num": 762539,
+      "word": "乌克兰",
+      "onboard_time": 1682511747,
+      "rank": 27,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 751930,
       "num": 751930,
       "word": "广州公安回应网传梅姨被抓",
@@ -1043,6 +1059,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 711581,
+      "num": 480980,
+      "word": "嗯哼 人要接受自己的不完美",
+      "onboard_time": 1682518170,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 704969,
       "num": 704969,
       "word": "中介贿赂张靓颖经纪人中标被罚210万",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1682386765,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 621204,
-      "num": 620911,
-      "word": "乌克兰",
-      "onboard_time": 1682511747,
-      "rank": 27,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 609003,
@@ -1440,6 +1456,14 @@
       "word": "刘涛怎么这么扛老",
       "onboard_time": 1682333547,
       "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 498828,
+      "num": 498828,
+      "word": "分不清是萧敬腾还是钟楚曦",
+      "onboard_time": 1682519010,
+      "rank": 8,
       "category": "作品衍生"
     },
     {
@@ -2227,14 +2251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 379429,
-      "num": 379429,
-      "word": "丫丫启程回国",
-      "onboard_time": 1682518293,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 377652,
       "num": 377652,
       "word": "李延贺涉嫌危害国家安全被调查",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1682410767,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340968,
+      "num": 340968,
+      "word": "任嘉伦袁冰妍或将主演千香引",
+      "onboard_time": 1682518710,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 338810,
@@ -3419,14 +3443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 254083,
-      "num": 254083,
-      "word": "嗯哼 人要接受自己的不完美",
-      "onboard_time": 1682518170,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253994,
       "num": 253994,
       "word": "克拉盘",
@@ -3529,6 +3545,14 @@
       "onboard_time": 1682349209,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250935,
+      "num": 217958,
+      "word": "澹台烬自己走入弱水",
+      "onboard_time": 1682517570,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 250289,
@@ -4035,14 +4059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 217958,
-      "num": 217958,
-      "word": "澹台烬自己走入弱水",
-      "onboard_time": 1682517570,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 217837,
       "num": 217837,
       "word": "鞠婧祎 完美日记title",
@@ -4201,6 +4217,14 @@
       "onboard_time": 1682350107,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207335,
+      "num": 175558,
+      "word": "奚梦瑶又去深圳上课了",
+      "onboard_time": 1682519312,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 206773,
@@ -5633,6 +5657,14 @@
       "onboard_time": 1682343689,
       "rank": 29,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 156759,
+      "num": 156759,
+      "word": "女子称肚痛就医检查遭医生猥亵",
+      "onboard_time": 1682518110,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156534,
@@ -7228,7 +7260,7 @@
     },
     {
       "raw_hot": 38800,
-      "num": 1437121,
+      "num": 1480175,
       "word": "第六届数字中国建设峰会",
       "onboard_time": 1682512106,
       "rank": 2,
