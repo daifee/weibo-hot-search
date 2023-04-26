@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682465636741,
+  "endTime": 1682472154748,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -115,6 +115,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2294463,
+      "num": 1208411,
+      "word": "99年女子疑过度劳累宿舍猝死",
+      "onboard_time": 1682465784,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2217580,
       "num": 2217580,
       "word": "为什么读了研也找不到工作",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 2032493,
-      "num": 459153,
+      "num": 502666,
       "word": "奚梦瑶 你们的快乐吵到我学习了",
       "onboard_time": 1682425767,
       "rank": 25,
@@ -275,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1555438,
+      "num": 1207537,
+      "word": "梅姨",
+      "onboard_time": 1682465482,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1549619,
       "num": 1549619,
       "word": "上海一财务把公司偷得只剩20块",
@@ -329,6 +345,14 @@
       "onboard_time": 1682389466,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1484463,
+      "num": 1484463,
+      "word": "谢娜再回应助理打手机事件",
+      "onboard_time": 1682466804,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1394728,
@@ -419,11 +443,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1227925,
+      "num": 1227925,
+      "word": "不建议跟一累就黑脸的人出去玩",
+      "onboard_time": 1682468671,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1214935,
       "num": 1214935,
       "word": "月收入多少才算是普通人",
       "onboard_time": 1682344113,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1205777,
+      "num": 1205777,
+      "word": "看着不体面但很赚钱的工作",
+      "onboard_time": 1682428589,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -539,12 +579,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 967533,
+      "num": 600421,
+      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
+      "onboard_time": 1682447893,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 962450,
       "num": 962450,
       "word": "詹姆斯",
       "onboard_time": 1682398891,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 952414,
+      "num": 952414,
+      "word": "肖战周也 徐克新电影",
+      "onboard_time": 1682467108,
+      "rank": 7,
+      "category": "影视"
     },
     {
       "raw_hot": 925221,
@@ -643,14 +699,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 798779,
-      "num": 180806,
-      "word": "舅舅私吞孤儿外甥女百万遗产救助金",
-      "onboard_time": 1682447893,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 791981,
       "num": 791981,
       "word": "昨天周一 今天还是周一",
@@ -713,14 +761,6 @@
       "onboard_time": 1682334269,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 733923,
-      "num": 733923,
-      "word": "看着不体面但很赚钱的工作",
-      "onboard_time": 1682428589,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 729640,
@@ -801,6 +841,14 @@
       "onboard_time": 1682407587,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 607368,
+      "num": 607368,
+      "word": "告诉黄磊彭昱畅找到了",
+      "onboard_time": 1682471849,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 606507,
@@ -889,6 +937,14 @@
       "onboard_time": 1682309129,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 557555,
+      "num": 557555,
+      "word": "游客订淄博酒店被通知只用付一半",
+      "onboard_time": 1682470471,
+      "rank": 11,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 552155,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1682310572,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493795,
+      "num": 493795,
+      "word": "淄博烧烤小胖",
+      "onboard_time": 1682468250,
+      "rank": 13,
+      "category": "旅游"
     },
     {
       "raw_hot": 491642,
@@ -1257,6 +1321,14 @@
       "onboard_time": 1682402847,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453953,
+      "num": 453953,
+      "word": "当事人回应吐槽软卧3男1女被批",
+      "onboard_time": 1682469989,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452451,
@@ -1563,6 +1635,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 386398,
+      "num": 386398,
+      "word": "章凝 冯楚轩",
+      "onboard_time": 1682465062,
+      "rank": 12,
+      "category": "时尚,网红"
+    },
+    {
       "raw_hot": 386287,
       "num": 1483397,
       "word": "浙江小学生看到罂粟报警",
@@ -1755,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347782,
+      "num": 347782,
+      "word": "B太成都",
+      "onboard_time": 1682465244,
+      "rank": 34,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 346134,
       "num": 346134,
       "word": "阿娇 悲悯感",
@@ -1819,6 +1907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 335928,
+      "num": 335928,
+      "word": "这个小县城开了300多家咖啡店",
+      "onboard_time": 1682467770,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 334482,
       "num": 334482,
       "word": "佰草集",
@@ -1849,14 +1945,6 @@
       "onboard_time": 1682334928,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 330666,
-      "num": 132770,
-      "word": "章凝 冯楚轩",
-      "onboard_time": 1682465062,
-      "rank": 12,
-      "category": "时尚,网红"
     },
     {
       "raw_hot": 329956,
@@ -1900,7 +1988,7 @@
     },
     {
       "raw_hot": 325723,
-      "num": 132421,
+      "num": 236704,
       "word": "劳荣枝辩护律师吴丹红被律协调查",
       "onboard_time": 1682464281,
       "rank": 28,
@@ -2283,6 +2371,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 277505,
+      "num": 277505,
+      "word": "阴阳师 鼠门",
+      "onboard_time": 1682470471,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276505,
       "num": 1271403,
       "word": "女子火灾中安全转移两小孩后不幸遇难",
@@ -2369,6 +2465,14 @@
       "onboard_time": 1682398232,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266963,
+      "num": 266963,
+      "word": "罗云熙白鹿涨粉情况",
+      "onboard_time": 1682467226,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266709,
@@ -2729,6 +2833,14 @@
       "onboard_time": 1682417787,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237795,
+      "num": 237795,
+      "word": "京东31亿元在京拿地规划图曝光",
+      "onboard_time": 1682471128,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 236496,
@@ -3323,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195223,
+      "num": 195223,
+      "word": "沈阳一街道沿街店铺被统一规定黑底招牌",
+      "onboard_time": 1682467046,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195084,
       "num": 195084,
       "word": "城管局回应采购制服每套4591元",
@@ -3403,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192693,
+      "num": 192693,
+      "word": "时代少年团白天上课晚上上班",
+      "onboard_time": 1682471189,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191706,
       "num": 191706,
       "word": "詹姆斯22分20篮板",
@@ -3417,6 +3545,14 @@
       "onboard_time": 1682408908,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 191596,
+      "num": 191596,
+      "word": "星穹铁道提前开服",
+      "onboard_time": 1682471909,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 190917,
@@ -3571,6 +3707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185236,
+      "num": 185236,
+      "word": "郑中基 幼儿园活动",
+      "onboard_time": 1682468911,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185131,
       "num": 331928,
       "word": "防晒衣能洗吗",
@@ -3664,6 +3808,14 @@
       "word": "淄博鸭货小哥呼吁不要太关注他本人",
       "onboard_time": 1682309609,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182072,
+      "num": 182072,
+      "word": "深圳是全国加班最狠的城市",
+      "onboard_time": 1682469028,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -3763,6 +3915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175890,
+      "num": 175890,
+      "word": "B站UP主上传原神未公开角色被判赔6万",
+      "onboard_time": 1682444116,
+      "rank": 10,
+      "category": "社会新闻,游戏"
+    },
+    {
       "raw_hot": 175100,
       "num": 175100,
       "word": "锦鲤门",
@@ -3801,6 +3961,14 @@
       "onboard_time": 1682390246,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172574,
+      "num": 172574,
+      "word": "青岛震感",
+      "onboard_time": 1682464943,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172365,
@@ -4011,20 +4179,20 @@
       "category": "音乐,综艺"
     },
     {
+      "raw_hot": 161895,
+      "num": 161895,
+      "word": "西安急救中心原主任被开除",
+      "onboard_time": 1682466443,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160956,
       "num": 160956,
       "word": "专家称二阳患者应属个例",
       "onboard_time": 1682300246,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160841,
-      "num": 128164,
-      "word": "B站UP主上传原神未公开角色被判赔6万",
-      "onboard_time": 1682444116,
-      "rank": 10,
-      "category": "社会新闻,游戏"
     },
     {
       "raw_hot": 160827,
@@ -4083,6 +4251,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 158287,
+      "num": 158287,
+      "word": "薪资和工作氛围哪个更重要",
+      "onboard_time": 1682470049,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156975,
       "num": 195723,
       "word": "调休造长假有必要吗",
@@ -4097,6 +4273,14 @@
       "onboard_time": 1682241750,
       "rank": 33,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 156103,
+      "num": 156103,
+      "word": "澹台烬殉情",
+      "onboard_time": 1682471789,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 155792,
@@ -4321,6 +4505,14 @@
       "onboard_time": 1682351726,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144828,
+      "num": 144828,
+      "word": "内娱哪些演员适合演学霸",
+      "onboard_time": 1682447052,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 144150,
@@ -4571,12 +4763,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128018,
-      "num": 128018,
-      "word": "内娱哪些演员适合演学霸",
-      "onboard_time": 1682447052,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 127933,
+      "num": 126097,
+      "word": "澹台烬不知道叶夕雾失明",
+      "onboard_time": 1682471789,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 126671,
@@ -4585,6 +4777,14 @@
       "onboard_time": 1682315668,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126478,
+      "num": 126478,
+      "word": "96年的即将迎来人生一万天",
+      "onboard_time": 1682465784,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 126380,
@@ -4651,6 +4851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122685,
+      "num": 122685,
+      "word": "去淄博别老逮着烧烤吃",
+      "onboard_time": 1682466684,
+      "rank": 46,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 122334,
       "num": 122334,
       "word": "浙江男篮vs深圳男篮",
@@ -4673,6 +4881,14 @@
       "onboard_time": 1682342251,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121292,
+      "num": 121292,
+      "word": "被骚扰的处理手法",
+      "onboard_time": 1682470529,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 121066,
@@ -4915,36 +5131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101837,
-      "num": 101837,
-      "word": "梅姨",
-      "onboard_time": 1682465482,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97712,
       "num": 97712,
       "word": "赫罗纳4比2皇马",
       "onboard_time": 1682464580,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97647,
-      "num": 97647,
-      "word": "B太成都",
-      "onboard_time": 1682465244,
-      "rank": 34,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 96237,
-      "num": 96237,
-      "word": "青岛震感",
-      "onboard_time": 1682464943,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95291,
