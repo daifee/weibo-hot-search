@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682526200213,
+  "endTime": 1682527138392,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -20579,6 +20579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 382618,
+      "num": 382618,
+      "word": "发疯有用",
+      "onboard_time": 1682523928,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382422,
       "num": 382422,
       "word": "SMTOWN和HYBE联合账号注销",
@@ -27481,14 +27489,6 @@
       "onboard_time": 1681369767,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280158,
-      "num": 280158,
-      "word": "发疯有用",
-      "onboard_time": 1682523928,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 280153,
@@ -57659,6 +57659,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 104665,
+      "num": 104665,
+      "word": "宫脇咲良演我对所有蔬菜态度",
+      "onboard_time": 1682525366,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 104522,
       "num": 104522,
       "word": "护师考试",
@@ -59259,14 +59267,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 87028,
-      "num": 87028,
-      "word": "宫脇咲良演我对所有蔬菜态度",
-      "onboard_time": 1682525366,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 86947,
       "num": 86947,
       "word": "搜救犬飞檐走壁快到重影",
@@ -60059,6 +60059,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68822,
+      "num": 86383,
+      "word": "真是又精致又粗糙",
+      "onboard_time": 1682523866,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68784,
       "num": 88714,
       "word": "AI怪盗积德",
@@ -60131,6 +60139,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 67546,
+      "num": 84858,
+      "word": "医院回应女子称遭医生猥亵",
+      "onboard_time": 1682525963,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67505,
       "num": 111430,
       "word": "简洁明了的披萨菜单",
@@ -60185,14 +60201,6 @@
       "onboard_time": 1682007746,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65861,
-      "num": 86383,
-      "word": "真是又精致又粗糙",
-      "onboard_time": 1682523866,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 65799,
@@ -60377,14 +60385,6 @@
       "onboard_time": 1680305299,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 60918,
-      "num": 84858,
-      "word": "医院回应女子称遭医生猥亵",
-      "onboard_time": 1682525963,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60674,
