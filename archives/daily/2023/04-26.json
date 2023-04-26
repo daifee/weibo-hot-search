@@ -1,10 +1,10 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682483672190,
+  "endTime": 1682486178464,
   "band_list": [
     {
       "raw_hot": 3029892,
-      "num": 1103845,
+      "num": 1161489,
       "word": "周六野因前男友长六颗子宫肌瘤",
       "onboard_time": 1682477664,
       "rank": 3,
@@ -41,6 +41,14 @@
       "onboard_time": 1682468671,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1768349,
+      "num": 1768349,
+      "word": "现偶收视率前十里有五部是张翰的",
+      "onboard_time": 1682480425,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1754603,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1227617,
+      "num": 1227617,
+      "word": "丫丫将回国",
+      "onboard_time": 1682484271,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1205777,
       "num": 1205777,
       "word": "看着不体面但很赚钱的工作",
@@ -99,12 +115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1144596,
-      "num": 1144596,
-      "word": "现偶收视率前十里有五部是张翰的",
-      "onboard_time": 1682480425,
-      "rank": 5,
-      "category": "影视"
+      "raw_hot": 1129705,
+      "num": 1129705,
+      "word": "海南一12岁小学生骑车被撞身亡",
+      "onboard_time": 1682483190,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1013092,
@@ -243,6 +259,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 485682,
+      "num": 485682,
+      "word": "余佳运 抢票",
+      "onboard_time": 1682482529,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 485056,
       "num": 485056,
       "word": "子宫肌瘤",
@@ -315,6 +339,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 409649,
+      "num": 409649,
+      "word": "黄牛加价倒卖吐司300一条",
+      "onboard_time": 1682483370,
+      "rank": 37,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 401358,
+      "num": 401358,
+      "word": "鞠婧祎仪态变化",
+      "onboard_time": 1682482108,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 394941,
       "num": 394941,
       "word": "朴秀荣因状态不佳暂停行程",
@@ -337,14 +377,6 @@
       "onboard_time": 1682465062,
       "rank": 12,
       "category": "时尚,网红"
-    },
-    {
-      "raw_hot": 374868,
-      "num": 374868,
-      "word": "鞠婧祎仪态变化",
-      "onboard_time": 1682482108,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 356172,
@@ -403,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332776,
-      "num": 332776,
-      "word": "余佳运 抢票",
-      "onboard_time": 1682482529,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 325723,
       "num": 236704,
       "word": "劳荣枝辩护律师吴丹红被律协调查",
@@ -459,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274426,
+      "num": 274426,
+      "word": "威少失误",
+      "onboard_time": 1682485113,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272931,
       "num": 272931,
       "word": "关晓彤虞书欣早期合照",
@@ -497,6 +529,14 @@
       "onboard_time": 1682483429,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257206,
+      "num": 199654,
+      "word": "患癌晚期 给女儿留有意义的东西",
+      "onboard_time": 1682482888,
+      "rank": 42,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 253696,
@@ -563,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222230,
+      "num": 199195,
+      "word": "把球给杜兰特",
+      "onboard_time": 1682485470,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218230,
       "num": 218230,
       "word": "王者荣耀",
@@ -587,14 +635,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 214295,
-      "num": 214295,
-      "word": "海南一12岁小学生骑车被撞身亡",
-      "onboard_time": 1682483190,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204741,
       "num": 204741,
       "word": "买硬座票跑卧铺睡男子教育乘务员",
@@ -611,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200287,
+      "num": 200287,
+      "word": "喜欢你我也是",
+      "onboard_time": 1682485529,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200083,
       "num": 200083,
       "word": "沈阳防空警报",
       "onboard_time": 1682483611,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198178,
+      "num": 198178,
+      "word": "太阳4比1快船",
+      "onboard_time": 1682485228,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 198113,
@@ -681,6 +737,14 @@
       "onboard_time": 1682469028,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181480,
+      "num": 181480,
+      "word": "杨幂军装路透",
+      "onboard_time": 1682485828,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 176940,
@@ -755,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162821,
-      "num": 162821,
-      "word": "黄牛加价倒卖吐司300一条",
-      "onboard_time": 1682483370,
-      "rank": 37,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 161901,
       "num": 149444,
       "word": "赵丽颖虎狼之路杀青",
@@ -835,14 +891,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151171,
-      "num": 151171,
-      "word": "患癌晚期 给女儿留有意义的东西",
-      "onboard_time": 1682482888,
-      "rank": 42,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 150781,
       "num": 150781,
       "word": "长空之王真机实拍剧照",
@@ -865,6 +913,14 @@
       "onboard_time": 1682479045,
       "rank": 45,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 148430,
+      "num": 148430,
+      "word": "原神白术",
+      "onboard_time": 1682484271,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 145710,
@@ -1027,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125784,
+      "num": 131937,
+      "word": "下班后领导给我发23条长语音",
+      "onboard_time": 1682486129,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 124012,
       "num": 124012,
       "word": "旅游时你最讨厌哪些行为",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1682424927,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83157,
+      "num": 404167,
+      "word": "原神 白术PV",
+      "onboard_time": 1682485228,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 80449,
