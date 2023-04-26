@@ -1,0 +1,410 @@
+{
+  "runTime": 1682515269342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1210035,
+        "num": 1210035,
+        "word": "习近平同泽连斯基通电话",
+        "onboard_time": 1682513250,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070945,
+        "num": 1070945,
+        "word": "丫丫",
+        "onboard_time": 1682510426,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38800,
+        "num": 858944,
+        "word": "第六届数字中国建设峰会",
+        "onboard_time": 1682512106,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112584,
+        "num": 856772,
+        "word": "刘畊宏了一年的变化",
+        "onboard_time": 1682502629,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853481,
+        "num": 853481,
+        "word": "压力给到张子枫",
+        "onboard_time": 1682513426,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1512077,
+        "num": 812500,
+        "word": "专家称五一调休是动了脑筋的做法",
+        "onboard_time": 1682502027,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700756,
+        "num": 700756,
+        "word": "吴磊虞书欣 黑莲花",
+        "onboard_time": 1682501428,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 614071,
+        "num": 614071,
+        "word": "乌克兰",
+        "onboard_time": 1682511747,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 543760,
+        "num": 543760,
+        "word": "陈都灵生图",
+        "onboard_time": 1682512588,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 477945,
+        "num": 477945,
+        "word": "民警带服刑人员去民政局登记结婚",
+        "onboard_time": 1682510787,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1545545,
+        "num": 477168,
+        "word": "娜扎身材",
+        "onboard_time": 1682509588,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 816049,
+        "num": 461714,
+        "word": "赵丽颖周放",
+        "onboard_time": 1682511445,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498455,
+        "num": 461596,
+        "word": "女朋友要一个孩子随她姓",
+        "onboard_time": 1682491347,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442429,
+        "num": 442429,
+        "word": "蒋勤勤状态",
+        "onboard_time": 1682510007,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29760,
+        "num": 399993,
+        "word": "女星红毯妆容大招",
+        "onboard_time": 1682514028,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 386296,
+        "num": 386296,
+        "word": "喻言的蓬蓬裙好大",
+        "onboard_time": 1682510909,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380898,
+        "num": 380898,
+        "word": "女生厕所遇代孕广告用贴纸遮盖",
+        "onboard_time": 1682497167,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340552,
+        "num": 340552,
+        "word": "何炅黄磊好像两个假笑空巢老人",
+        "onboard_time": 1682498007,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338779,
+        "num": 338779,
+        "word": "西直门长公主",
+        "onboard_time": 1682504370,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295840,
+        "num": 295840,
+        "word": "女子淄博买切糕2种口味称重仅6元",
+        "onboard_time": 1682489127,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 638541,
+        "num": 284320,
+        "word": "替身说肖战拍戏现场不用看剧本",
+        "onboard_time": 1682502089,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332347,
+        "num": 278658,
+        "word": "男明星谁赢了",
+        "onboard_time": 1682513006,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328813,
+        "num": 276885,
+        "word": "孔雪儿 复古名伶",
+        "onboard_time": 1682513729,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251084,
+        "num": 251084,
+        "word": "五一前淄博烧烤店高薪抢人",
+        "onboard_time": 1682510125,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238434,
+        "num": 238434,
+        "word": "再也不敢乱点婚礼请柬了",
+        "onboard_time": 1682491886,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304546,
+        "num": 236145,
+        "word": "李沁工作室出的图",
+        "onboard_time": 1682507727,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 261998,
+        "num": 232999,
+        "word": "周冬雨王一博五一两部电影上映",
+        "onboard_time": 1682510547,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203790,
+        "num": 203790,
+        "word": "串串店家回应鸡爪插13根签",
+        "onboard_time": 1682512648,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193893,
+        "num": 193893,
+        "word": "信任崩塌后真的会变冷漠",
+        "onboard_time": 1682512648,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140302,
+        "num": 192571,
+        "word": "淄博喊话推荐其他山东城市",
+        "onboard_time": 1682490626,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 231641,
+        "num": 192437,
+        "word": "杨幂的发量",
+        "onboard_time": 1682507008,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219858,
+        "num": 192393,
+        "word": "CSC2023CYPHER",
+        "onboard_time": 1682514629,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192271,
+        "num": 192271,
+        "word": "这才是女生们想找的裤子吧",
+        "onboard_time": 1682503287,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217807,
+        "num": 187864,
+        "word": "范丞丞预定张婧仪做MV女主",
+        "onboard_time": 1682513069,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167025,
+        "num": 167025,
+        "word": "曾经很火却已消失了的品牌",
+        "onboard_time": 1682514989,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209756,
+        "num": 160469,
+        "word": "迪丽热巴在袖子上夹夹子",
+        "onboard_time": 1682503589,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206118,
+        "num": 158842,
+        "word": "青春环游记书画大赛",
+        "onboard_time": 1682514629,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170234,
+        "num": 154635,
+        "word": "周涛好美",
+        "onboard_time": 1682508809,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150407,
+        "num": 150407,
+        "word": "养猫的千万不要买这个凳子",
+        "onboard_time": 1682507188,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141876,
+        "num": 141876,
+        "word": "妈妈说穿这个不像高中生",
+        "onboard_time": 1682505025,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164825,
+        "num": 139386,
+        "word": "阴阳师声明",
+        "onboard_time": 1682495068,
+        "rank": 40,
+        "category": "影视,游戏"
+      },
+      {
+        "raw_hot": 163897,
+        "num": 137214,
+        "word": "田曦薇的耳饰",
+        "onboard_time": 1682512765,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159872,
+        "num": 134874,
+        "word": "舒淇生图",
+        "onboard_time": 1682508147,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131810,
+        "num": 131810,
+        "word": "生完孩子为什么想离婚",
+        "onboard_time": 1682502149,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138095,
+        "num": 130229,
+        "word": "姐姐们好美",
+        "onboard_time": 1682512168,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127408,
+        "num": 127408,
+        "word": "PDD歌友会",
+        "onboard_time": 1682506049,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110578,
+        "num": 110578,
+        "word": "离职一定要带走的证明",
+        "onboard_time": 1682511568,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108165,
+        "num": 108165,
+        "word": "我们既不会隔岸观火也不会拱火浇油",
+        "onboard_time": 1682512168,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 103931,
+        "num": 103931,
+        "word": "原神哥说星穹铁道泰裤辣",
+        "onboard_time": 1682513670,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 70908,
+        "num": 103566,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1682510426,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#主题教育这样开展#"
+    }
+  }
+}

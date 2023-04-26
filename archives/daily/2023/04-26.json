@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682513413465,
+  "endTime": 1682515269342,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1545545,
+      "num": 875612,
+      "word": "娜扎身材",
+      "onboard_time": 1682509588,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1484463,
       "num": 1484463,
       "word": "谢娜再回应助理打手机事件",
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1210035,
+      "num": 1210035,
+      "word": "习近平同泽连斯基通电话",
+      "onboard_time": 1682513250,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1205777,
       "num": 1205777,
       "word": "看着不体面但很赚钱的工作",
@@ -195,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1023247,
-      "num": 875612,
-      "word": "娜扎身材",
-      "onboard_time": 1682509588,
-      "rank": 7,
-      "category": "作品衍生"
+      "raw_hot": 1070945,
+      "num": 1070945,
+      "word": "丫丫",
+      "onboard_time": 1682452815,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1017738,
@@ -235,12 +251,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 892136,
-      "num": 892136,
-      "word": "习近平同泽连斯基通电话",
-      "onboard_time": 1682513250,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 853481,
+      "num": 853481,
+      "word": "压力给到张子枫",
+      "onboard_time": 1682513426,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 841155,
@@ -307,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 748912,
-      "num": 748912,
-      "word": "丫丫",
-      "onboard_time": 1682452815,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 746455,
       "num": 746455,
       "word": "蒋勤勤状态",
@@ -371,20 +379,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 614071,
+      "num": 614071,
+      "word": "乌克兰",
+      "onboard_time": 1682511747,
+      "rank": 27,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 607368,
       "num": 607368,
       "word": "告诉黄磊彭昱畅找到了",
       "onboard_time": 1682471849,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 592648,
-      "num": 592648,
-      "word": "乌克兰",
-      "onboard_time": 1682511747,
-      "rank": 27,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 590023,
@@ -433,6 +441,14 @@
       "onboard_time": 1682505326,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543760,
+      "num": 543760,
+      "word": "陈都灵生图",
+      "onboard_time": 1682512588,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 540982,
@@ -529,6 +545,14 @@
       "onboard_time": 1682499928,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 477945,
+      "num": 477945,
+      "word": "民警带服刑人员去民政局登记结婚",
+      "onboard_time": 1682510787,
+      "rank": 38,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 477523,
@@ -691,6 +715,14 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 386296,
+      "num": 386296,
+      "word": "喻言的蓬蓬裙好大",
+      "onboard_time": 1682510909,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 377652,
       "num": 377652,
       "word": "李延贺涉嫌危害国家安全被调查",
@@ -763,14 +795,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 345464,
-      "num": 345464,
-      "word": "喻言的蓬蓬裙好大",
-      "onboard_time": 1682510909,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 337852,
       "num": 337852,
       "word": "申军良回应梅姨被抓到",
@@ -787,12 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332347,
+      "num": 278658,
+      "word": "男明星谁赢了",
+      "onboard_time": 1682513006,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 330638,
       "num": 330638,
       "word": "妈妈说穿这个不像高中生",
       "onboard_time": 1682505025,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 328813,
+      "num": 276885,
+      "word": "孔雪儿 复古名伶",
+      "onboard_time": 1682513729,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 327990,
@@ -891,14 +931,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 282403,
-      "num": 282403,
-      "word": "陈都灵生图",
-      "onboard_time": 1682512588,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 278770,
       "num": 278770,
       "word": "教师请病假25年退休前编制消失",
@@ -921,14 +953,6 @@
       "onboard_time": 1682503287,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 274347,
-      "num": 284336,
-      "word": "民警带服刑人员去民政局登记结婚",
-      "onboard_time": 1682510787,
-      "rank": 38,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 272931,
@@ -977,6 +1001,14 @@
       "onboard_time": 1682503707,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261998,
+      "num": 232999,
+      "word": "周冬雨王一博五一两部电影上映",
+      "onboard_time": 1682510547,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 261019,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1682493087,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251084,
+      "num": 251084,
+      "word": "五一前淄博烧烤店高薪抢人",
+      "onboard_time": 1682510125,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248502,
@@ -1155,12 +1195,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 220174,
-      "num": 220174,
-      "word": "五一前淄博烧烤店高薪抢人",
-      "onboard_time": 1682510125,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 219858,
+      "num": 192393,
+      "word": "CSC2023CYPHER",
+      "onboard_time": 1682514629,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 218230,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1682474967,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217807,
+      "num": 187864,
+      "word": "范丞丞预定张婧仪做MV女主",
+      "onboard_time": 1682513069,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 217579,
@@ -1203,6 +1251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206118,
+      "num": 158842,
+      "word": "青春环游记书画大赛",
+      "onboard_time": 1682514629,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205349,
       "num": 198691,
       "word": "上次这么多人去淄博还是五国伐齐",
@@ -1225,6 +1281,14 @@
       "onboard_time": 1682489908,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 203790,
+      "num": 203790,
+      "word": "串串店家回应鸡爪插13根签",
+      "onboard_time": 1682512648,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201335,
@@ -1321,6 +1385,14 @@
       "onboard_time": 1682471189,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193893,
+      "num": 193893,
+      "word": "信任崩塌后真的会变冷漠",
+      "onboard_time": 1682512648,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 193627,
@@ -1443,14 +1515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177270,
-      "num": 177270,
-      "word": "周冬雨王一博五一两部电影上映",
-      "onboard_time": 1682510547,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176940,
       "num": 176940,
       "word": "大熊猫萌兰反向给游客投喂竹子",
@@ -1515,20 +1579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170415,
-      "num": 170415,
-      "word": "范丞丞预定张婧仪做MV女主",
-      "onboard_time": 1682513069,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 170002,
       "num": 437260,
       "word": "费加罗红毯",
       "onboard_time": 1682503228,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167025,
+      "num": 167025,
+      "word": "曾经很火却已消失了的品牌",
+      "onboard_time": 1682514989,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 166181,
@@ -1547,20 +1611,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 165706,
-      "num": 165706,
-      "word": "串串店家回应鸡爪插13根签",
-      "onboard_time": 1682512648,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164248,
       "num": 164248,
       "word": "快船vs太阳",
       "onboard_time": 1682478808,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163897,
+      "num": 157812,
+      "word": "田曦薇的耳饰",
+      "onboard_time": 1682512765,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161901,
@@ -1625,14 +1689,6 @@
       "onboard_time": 1682470049,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157812,
-      "num": 157812,
-      "word": "田曦薇的耳饰",
-      "onboard_time": 1682512765,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 154855,
@@ -1915,14 +1971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138165,
-      "num": 138165,
-      "word": "信任崩塌后真的会变冷漠",
-      "onboard_time": 1682512648,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137832,
       "num": 137832,
       "word": "闵玧其说李知勋像是他走失的弟弟",
@@ -1961,14 +2009,6 @@
       "onboard_time": 1682475926,
       "rank": 47,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 135432,
-      "num": 134640,
-      "word": "男明星谁赢了",
-      "onboard_time": 1682513006,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 135417,
@@ -2219,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103931,
+      "num": 103931,
+      "word": "原神哥说星穹铁道泰裤辣",
+      "onboard_time": 1682513670,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103796,
       "num": 110411,
       "word": "冲饮奶茶进化史",
@@ -2427,6 +2475,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 38800,
+      "num": 1437121,
+      "word": "第六届数字中国建设峰会",
+      "onboard_time": 1682512106,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30989,
       "num": 1394359,
       "word": "行走百县话振兴",
@@ -2443,12 +2499,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 27065,
-      "num": 1437121,
-      "word": "第六届数字中国建设峰会",
-      "onboard_time": 1682512106,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 29760,
+      "num": 399993,
+      "word": "女星红毯妆容大招",
+      "onboard_time": 1682514028,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24470,
@@ -2487,6 +2543,9 @@
     },
     {
       "word": "#杭州亚运会倒计时150天#"
+    },
+    {
+      "word": "#主题教育这样开展#"
     }
   ]
 }
