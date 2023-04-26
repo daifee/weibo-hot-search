@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682543703320,
+  "endTime": 1682544823797,
   "band_list": [
     {
       "raw_hot": 1656772,
@@ -403,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 62914,
+      "num": 23497,
+      "word": "尹锡悦抵美在机场亲吻花童引争议",
+      "onboard_time": 1682539571,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 53895,
       "num": 37521,
       "word": "徐跋骋学术不端行为属实",
       "onboard_time": 1682530514,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39594,
-      "num": 19991,
-      "word": "尹锡悦抵美在机场亲吻花童引争议",
-      "onboard_time": 1682539571,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 30988,
@@ -427,6 +427,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28292,
+      "num": 27804,
+      "word": "结婚太早容易后悔吗",
+      "onboard_time": 1682541792,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 26489,
+      "num": 26489,
+      "word": "刘宇宁染头发了",
+      "onboard_time": 1682517210,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25551,
       "num": 25551,
       "word": "陈小纭高瀚宇薄冰战虐关系达成",
@@ -435,28 +451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 23029,
-      "num": 25436,
-      "word": "刘宇宁染头发了",
-      "onboard_time": 1682517210,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 21886,
       "num": 651710,
       "word": "第六届数字中国建设峰会",
       "onboard_time": 1682512106,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21054,
-      "num": 21054,
-      "word": "结婚太早容易后悔吗",
-      "onboard_time": 1682541792,
-      "rank": 26,
-      "category": "影视"
     }
   ],
   "hotgov_list": [
