@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682476483365,
+  "endTime": 1682477008528,
   "band_list": [
     {
       "raw_hot": 3895694,
@@ -195,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1859650,
+      "num": 1734162,
+      "word": "前交通局长孙女炫富事件调查已满月",
+      "onboard_time": 1682472867,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1821082,
       "num": 1821082,
       "word": "腺样体面容",
@@ -209,14 +217,6 @@
       "onboard_time": 1682427090,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1734162,
-      "num": 1734162,
-      "word": "前交通局长孙女炫富事件调查已满月",
-      "onboard_time": 1682472867,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1713976,
@@ -395,6 +395,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1383551,
+      "num": 1383551,
+      "word": "孙卓被拐案代理律师称梅姨已被抓",
+      "onboard_time": 1682475026,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1355670,
       "num": 1355670,
       "word": "毛戈平为赵露思化的妆",
@@ -449,14 +457,6 @@
       "onboard_time": 1682320166,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1233023,
-      "num": 1233023,
-      "word": "孙卓被拐案代理律师称梅姨已被抓",
-      "onboard_time": 1682475026,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1229910,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751930,
+      "num": 751930,
+      "word": "广州公安回应网传梅姨被抓",
+      "onboard_time": 1682475147,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750168,
       "num": 457283,
       "word": "戚薇早期跟Lucky很像",
@@ -801,14 +809,6 @@
       "onboard_time": 1682263175,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 681441,
-      "num": 681441,
-      "word": "广州公安回应网传梅姨被抓",
-      "onboard_time": 1682475147,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 677518,
@@ -1003,8 +1003,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 526008,
-      "num": 526008,
+      "raw_hot": 531609,
+      "num": 531609,
       "word": "民宿毁约涨价糟蹋了多少人的五一",
       "onboard_time": 1682474187,
       "rank": 11,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1682328689,
       "rank": 36,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 484727,
+      "num": 484727,
+      "word": "高叶甜美风古装",
+      "onboard_time": 1682472449,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 483705,
@@ -1515,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425430,
-      "num": 425430,
-      "word": "高叶甜美风古装",
-      "onboard_time": 1682472449,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 423871,
       "num": 362253,
       "word": "关晓彤虞书欣早期合照",
@@ -1713,6 +1713,14 @@
       "onboard_time": 1682328748,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384973,
+      "num": 384973,
+      "word": "被米哈游背刺的一生",
+      "onboard_time": 1682475088,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 382664,
@@ -1955,6 +1963,14 @@
       "category": "幽默,教育"
     },
     {
+      "raw_hot": 337852,
+      "num": 337852,
+      "word": "申军良回应梅姨被抓到",
+      "onboard_time": 1682474728,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337459,
       "num": 337459,
       "word": "木鱼水心",
@@ -2049,14 +2065,6 @@
       "onboard_time": 1682413166,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 326290,
-      "num": 326290,
-      "word": "申军良回应梅姨被抓到",
-      "onboard_time": 1682474728,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325723,
@@ -2233,14 +2241,6 @@
       "onboard_time": 1682403687,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312381,
-      "num": 312381,
-      "word": "被米哈游背刺的一生",
-      "onboard_time": 1682475088,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 310349,
@@ -2723,6 +2723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253696,
+      "num": 253696,
+      "word": "林智妍新剧演被家暴的人",
+      "onboard_time": 1682475568,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 253082,
       "num": 253082,
       "word": "女性如何更好的享受两性关系",
@@ -3155,12 +3163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218230,
+      "num": 218230,
+      "word": "王者荣耀",
+      "onboard_time": 1682474967,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217837,
       "num": 217837,
       "word": "鞠婧祎 完美日记title",
       "onboard_time": 1682318606,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217579,
+      "num": 217579,
+      "word": "鹿晗上海高铁站饭拍",
+      "onboard_time": 1682474609,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217497,
@@ -3177,14 +3201,6 @@
       "onboard_time": 1682339129,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 216228,
-      "num": 216228,
-      "word": "林智妍新剧演被家暴的人",
-      "onboard_time": 1682475568,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 216062,
@@ -3251,14 +3267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212162,
-      "num": 212162,
-      "word": "王者荣耀",
-      "onboard_time": 1682474967,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 211585,
       "num": 211585,
       "word": "科目二到底有多难考",
@@ -3272,14 +3280,6 @@
       "word": "朱一龙作品回报率",
       "onboard_time": 1682386886,
       "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210880,
-      "num": 210880,
-      "word": "鹿晗上海高铁站饭拍",
-      "onboard_time": 1682474609,
-      "rank": 31,
       "category": "作品衍生"
     },
     {
@@ -3451,6 +3451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201335,
+      "num": 201335,
+      "word": "深圳交通局再回应前局长孙女炫富事件",
+      "onboard_time": 1682475687,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201054,
       "num": 201054,
       "word": "你现在的工作能保证每周双休吗",
@@ -3481,6 +3489,14 @@
       "onboard_time": 1682400388,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198834,
+      "num": 198834,
+      "word": "朴秀荣因状态不佳暂停行程",
+      "onboard_time": 1682476465,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 198537,
@@ -3771,14 +3787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189366,
-      "num": 189366,
-      "word": "深圳交通局再回应前局长孙女炫富事件",
-      "onboard_time": 1682475687,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189259,
       "num": 189259,
       "word": "weecho 进不去",
@@ -3905,6 +3913,14 @@
       "onboard_time": 1682340989,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183352,
+      "num": 183352,
+      "word": "试用期的最后一天被辞退了",
+      "onboard_time": 1682475806,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 183291,
@@ -4099,6 +4115,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 172854,
+      "num": 212175,
+      "word": "五一倒计时3天",
+      "onboard_time": 1682475266,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 172797,
       "num": 172797,
       "word": "雄鹿会被热火黑八吗",
@@ -4225,14 +4249,6 @@
       "onboard_time": 1682398353,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 165574,
-      "num": 212175,
-      "word": "五一倒计时3天",
-      "onboard_time": 1682475266,
-      "rank": 29,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 165518,
@@ -4387,14 +4403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159169,
-      "num": 159169,
-      "word": "试用期的最后一天被辞退了",
-      "onboard_time": 1682475806,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 158625,
       "num": 158625,
       "word": "离职之后被领导暖到了",
@@ -4497,6 +4505,14 @@
       "onboard_time": 1682413406,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 152684,
+      "num": 152684,
+      "word": "姐姐出嫁被婚车接走妹妹哭成泪人",
+      "onboard_time": 1682476644,
+      "rank": 40,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 151887,
@@ -4683,14 +4699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144962,
-      "num": 144962,
-      "word": "朴秀荣因状态不佳暂停行程",
-      "onboard_time": 1682476465,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144828,
       "num": 144828,
       "word": "内娱哪些演员适合演学霸",
@@ -4843,6 +4851,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 135417,
+      "num": 135417,
+      "word": "刘若英门票",
+      "onboard_time": 1682473527,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 135070,
       "num": 135070,
       "word": "工作后要不要每月给父母打钱",
@@ -4873,14 +4889,6 @@
       "onboard_time": 1682305526,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 133989,
-      "num": 133989,
-      "word": "刘若英门票",
-      "onboard_time": 1682473527,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 133750,
@@ -4977,6 +4985,14 @@
       "onboard_time": 1682317466,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126735,
+      "num": 126735,
+      "word": "通往群星的轨道",
+      "onboard_time": 1682476886,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 126671,

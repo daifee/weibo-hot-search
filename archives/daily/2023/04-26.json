@@ -1,6 +1,6 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682476483365,
+  "endTime": 1682477008528,
   "band_list": [
     {
       "raw_hot": 2294463,
@@ -19,7 +19,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1734162,
+      "raw_hot": 1859650,
       "num": 1734162,
       "word": "前交通局长孙女炫富事件调查已满月",
       "onboard_time": 1682472867,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1233023,
-      "num": 1233023,
+      "raw_hot": 1383551,
+      "num": 1383551,
       "word": "孙卓被拐案代理律师称梅姨已被抓",
       "onboard_time": 1682475026,
       "rank": 4,
@@ -99,19 +99,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 751930,
+      "num": 751930,
+      "word": "广州公安回应网传梅姨被抓",
+      "onboard_time": 1682475147,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 748912,
       "num": 748912,
       "word": "丫丫",
       "onboard_time": 1682452815,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 681441,
-      "num": 681441,
-      "word": "广州公安回应网传梅姨被抓",
-      "onboard_time": 1682475147,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -147,8 +147,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 526008,
-      "num": 526008,
+      "raw_hot": 531609,
+      "num": 531609,
       "word": "民宿毁约涨价糟蹋了多少人的五一",
       "onboard_time": 1682474187,
       "rank": 11,
@@ -169,6 +169,14 @@
       "onboard_time": 1682468250,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 484727,
+      "num": 484727,
+      "word": "高叶甜美风古装",
+      "onboard_time": 1682472449,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 477523,
@@ -219,14 +227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 425430,
-      "num": 425430,
-      "word": "高叶甜美风古装",
-      "onboard_time": 1682472449,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394254,
       "num": 394254,
       "word": "新员工交接到一半想离职了",
@@ -241,6 +241,14 @@
       "onboard_time": 1682465062,
       "rank": 12,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 384973,
+      "num": 384973,
+      "word": "被米哈游背刺的一生",
+      "onboard_time": 1682475088,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 356172,
@@ -283,19 +291,19 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 337852,
+      "num": 337852,
+      "word": "申军良回应梅姨被抓到",
+      "onboard_time": 1682474728,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335928,
       "num": 335928,
       "word": "这个小县城开了300多家咖啡店",
       "onboard_time": 1682467770,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326290,
-      "num": 326290,
-      "word": "申军良回应梅姨被抓到",
-      "onboard_time": 1682474728,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -313,14 +321,6 @@
       "onboard_time": 1682472386,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312381,
-      "num": 312381,
-      "word": "被米哈游背刺的一生",
-      "onboard_time": 1682475088,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 278770,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253696,
+      "num": 253696,
+      "word": "林智妍新剧演被家暴的人",
+      "onboard_time": 1682475568,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237795,
       "num": 237795,
       "word": "京东31亿元在京拿地规划图曝光",
@@ -411,12 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216228,
-      "num": 216228,
-      "word": "林智妍新剧演被家暴的人",
-      "onboard_time": 1682475568,
-      "rank": 27,
-      "category": "影视"
+      "raw_hot": 218230,
+      "num": 218230,
+      "word": "王者荣耀",
+      "onboard_time": 1682474967,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 217579,
+      "num": 217579,
+      "word": "鹿晗上海高铁站饭拍",
+      "onboard_time": 1682474609,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215167,
@@ -427,20 +443,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212162,
-      "num": 212162,
-      "word": "王者荣耀",
-      "onboard_time": 1682474967,
-      "rank": 30,
-      "category": "游戏"
+      "raw_hot": 201335,
+      "num": 201335,
+      "word": "深圳交通局再回应前局长孙女炫富事件",
+      "onboard_time": 1682475687,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 210880,
-      "num": 210880,
-      "word": "鹿晗上海高铁站饭拍",
-      "onboard_time": 1682474609,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 198834,
+      "num": 198834,
+      "word": "朴秀荣因状态不佳暂停行程",
+      "onboard_time": 1682476465,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 198113,
@@ -475,20 +491,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189366,
-      "num": 189366,
-      "word": "深圳交通局再回应前局长孙女炫富事件",
-      "onboard_time": 1682475687,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185236,
       "num": 185236,
       "word": "郑中基 幼儿园活动",
       "onboard_time": 1682468911,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183352,
+      "num": 183352,
+      "word": "试用期的最后一天被辞退了",
+      "onboard_time": 1682475806,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 182930,
@@ -531,20 +547,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 172854,
+      "num": 212175,
+      "word": "五一倒计时3天",
+      "onboard_time": 1682475266,
+      "rank": 29,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 172574,
       "num": 172574,
       "word": "青岛震感",
       "onboard_time": 1682464943,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165574,
-      "num": 212175,
-      "word": "五一倒计时3天",
-      "onboard_time": 1682475266,
-      "rank": 29,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 161901,
@@ -571,14 +587,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159169,
-      "num": 159169,
-      "word": "试用期的最后一天被辞退了",
-      "onboard_time": 1682475806,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 158287,
       "num": 158287,
       "word": "薪资和工作氛围哪个更重要",
@@ -603,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152684,
+      "num": 152684,
+      "word": "姐姐出嫁被婚车接走妹妹哭成泪人",
+      "onboard_time": 1682476644,
+      "rank": 40,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 152511,
       "num": 147094,
       "word": "长月烬明",
@@ -617,14 +633,6 @@
       "onboard_time": 1682473349,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 144962,
-      "num": 144962,
-      "word": "朴秀荣因状态不佳暂停行程",
-      "onboard_time": 1682476465,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 144828,
@@ -691,20 +699,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 135417,
+      "num": 135417,
+      "word": "刘若英门票",
+      "onboard_time": 1682473527,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134575,
       "num": 134575,
       "word": "水瓶座藏起来的一面",
       "onboard_time": 1682438606,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133989,
-      "num": 133989,
-      "word": "刘若英门票",
-      "onboard_time": 1682473527,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 127541,
@@ -729,6 +737,14 @@
       "onboard_time": 1682431291,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 126735,
+      "num": 126735,
+      "word": "通往群星的轨道",
+      "onboard_time": 1682476886,
+      "rank": 47,
+      "category": "科技"
     },
     {
       "raw_hot": 126478,
