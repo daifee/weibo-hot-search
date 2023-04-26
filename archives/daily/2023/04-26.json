@@ -1,10 +1,10 @@
 {
   "startTime": 1682439769849,
-  "endTime": 1682482857060,
+  "endTime": 1682483672190,
   "band_list": [
     {
-      "raw_hot": 3027222,
-      "num": 972357,
+      "raw_hot": 3029892,
+      "num": 1103845,
       "word": "周六野因前男友长六颗子宫肌瘤",
       "onboard_time": 1682477664,
       "rank": 3,
@@ -43,7 +43,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1742778,
+      "raw_hot": 1754603,
       "num": 970086,
       "word": "淄博希尔顿酒店回应房费只用付一半",
       "onboard_time": 1682478384,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1144596,
+      "num": 1144596,
+      "word": "现偶收视率前十里有五部是张翰的",
+      "onboard_time": 1682480425,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1013092,
       "num": 600421,
       "word": "舅舅私吞孤儿外甥女百万遗产救助金",
@@ -112,14 +120,6 @@
       "word": "肖战周也 徐克新电影",
       "onboard_time": 1682467108,
       "rank": 7,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 947967,
-      "num": 947967,
-      "word": "现偶收视率前十里有五部是张翰的",
-      "onboard_time": 1682480425,
-      "rank": 5,
       "category": "影视"
     },
     {
@@ -193,6 +193,14 @@
       "onboard_time": 1682426909,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 589125,
+      "num": 498618,
+      "word": "张杰演唱会",
+      "onboard_time": 1682483070,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 578327,
@@ -331,6 +339,14 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 374868,
+      "num": 374868,
+      "word": "鞠婧祎仪态变化",
+      "onboard_time": 1682482108,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 356172,
       "num": 287096,
       "word": "陈翔问路人你喜欢苏醒还是我",
@@ -387,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332776,
+      "num": 332776,
+      "word": "余佳运 抢票",
+      "onboard_time": 1682482529,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 325723,
       "num": 236704,
       "word": "劳荣枝辩护律师吴丹红被律协调查",
       "onboard_time": 1682464281,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320930,
+      "num": 320930,
+      "word": "阿里云史上最大规模降价",
+      "onboard_time": 1682480005,
+      "rank": 47,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 320088,
@@ -411,14 +443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 302170,
-      "num": 302170,
-      "word": "阿里云史上最大规模降价",
-      "onboard_time": 1682480005,
-      "rank": 47,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 278770,
       "num": 278770,
       "word": "教师请病假25年退休前编制消失",
@@ -433,14 +457,6 @@
       "onboard_time": 1682470471,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 272936,
-      "num": 272936,
-      "word": "余佳运 抢票",
-      "onboard_time": 1682482529,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 272931,
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258859,
+      "num": 258859,
+      "word": "林孝埈的小狗好可爱",
+      "onboard_time": 1682483429,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253696,
       "num": 253696,
       "word": "林智妍新剧演被家暴的人",
@@ -505,14 +529,6 @@
       "onboard_time": 1682437768,
       "rank": 17,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 231519,
-      "num": 231519,
-      "word": "鞠婧祎仪态变化",
-      "onboard_time": 1682482108,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 231483,
@@ -571,11 +587,35 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214295,
+      "num": 214295,
+      "word": "海南一12岁小学生骑车被撞身亡",
+      "onboard_time": 1682483190,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204741,
+      "num": 204741,
+      "word": "买硬座票跑卧铺睡男子教育乘务员",
+      "onboard_time": 1682481447,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201335,
       "num": 201335,
       "word": "深圳交通局再回应前局长孙女炫富事件",
       "onboard_time": 1682475687,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200083,
+      "num": 200083,
+      "word": "沈阳防空警报",
+      "onboard_time": 1682483611,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -699,20 +739,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168472,
-      "num": 168472,
-      "word": "买硬座票跑卧铺睡男子教育乘务员",
-      "onboard_time": 1682481447,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165787,
       "num": 165787,
       "word": "易烊千玺新歌短片预告",
       "onboard_time": 1682479767,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164248,
+      "num": 164248,
+      "word": "快船vs太阳",
+      "onboard_time": 1682478808,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162821,
+      "num": 162821,
+      "word": "黄牛加价倒卖吐司300一条",
+      "onboard_time": 1682483370,
+      "rank": 37,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 161901,
@@ -771,14 +819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154675,
-      "num": 154675,
-      "word": "快船vs太阳",
-      "onboard_time": 1682478808,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 153544,
       "num": 153544,
       "word": "订五一三亚民宿拒退单遭威胁辱骂",
@@ -793,6 +833,14 @@
       "onboard_time": 1682418146,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151171,
+      "num": 151171,
+      "word": "患癌晚期 给女儿留有意义的东西",
+      "onboard_time": 1682482888,
+      "rank": 42,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 150781,
@@ -915,8 +963,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133145,
-      "num": 133145,
+      "raw_hot": 134458,
+      "num": 134458,
       "word": "如果给足加班费你愿意加班吗",
       "onboard_time": 1682480005,
       "rank": 45,
@@ -1179,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61853,
+      "num": 131631,
+      "word": "吴磊上下班状态反差感",
+      "onboard_time": 1682481808,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 58440,
       "num": 58440,
       "word": "龙城大妈去世",
@@ -1201,14 +1257,6 @@
       "onboard_time": 1682442496,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 49090,
-      "num": 118377,
-      "word": "吴磊上下班状态反差感",
-      "onboard_time": 1682481808,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 30989,
