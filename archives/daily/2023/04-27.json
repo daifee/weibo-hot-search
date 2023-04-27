@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682590736192,
+  "endTime": 1682591671503,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2267020,
+      "num": 2267020,
+      "word": "GUCCI红毯",
+      "onboard_time": 1682590349,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2229852,
       "num": 2229852,
       "word": "去世两年后他突然出现在篮球场上",
@@ -105,6 +113,14 @@
       "onboard_time": 1682566528,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1844865,
+      "num": 1844865,
+      "word": "长沙游客不满8根炸串115元被骂穷",
+      "onboard_time": 1682586689,
+      "rank": 37,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1754635,
@@ -147,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1288392,
-      "num": 1288392,
-      "word": "长沙游客不满8根炸串115元被骂穷",
-      "onboard_time": 1682586689,
-      "rank": 37,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 1177281,
       "num": 1177281,
       "word": "周也听到谢谢阿瑟的反应",
@@ -177,14 +185,6 @@
       "onboard_time": 1682576007,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1117112,
-      "num": 1117112,
-      "word": "GUCCI红毯",
-      "onboard_time": 1682590349,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1107975,
@@ -475,12 +475,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 457431,
+      "num": 244468,
+      "word": "你最关心丫丫哪些情况",
+      "onboard_time": 1682591429,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455854,
       "num": 455854,
       "word": "陈宝国曾说被王雷带着演戏",
       "onboard_time": 1682586332,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 453111,
+      "num": 453111,
+      "word": "虞书欣的靴子好大",
+      "onboard_time": 1682587889,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 447703,
+      "num": 447703,
+      "word": "丫丫专机抵达上海照片",
+      "onboard_time": 1682588909,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445869,
@@ -571,19 +595,27 @@
       "category": "教育"
     },
     {
-      "raw_hot": 401751,
-      "num": 401751,
-      "word": "丫丫专机抵达上海照片",
-      "onboard_time": 1682588909,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400065,
       "num": 400065,
       "word": "戏霸",
       "onboard_time": 1682575289,
       "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 399484,
+      "num": 399484,
+      "word": "模仿金卡戴珊的网红心脏骤停死亡",
+      "onboard_time": 1682590349,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 395779,
+      "num": 395779,
+      "word": "爱情公寓雷哥改戏",
+      "onboard_time": 1682587950,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -619,12 +651,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 382053,
-      "num": 382053,
-      "word": "虞书欣的靴子好大",
-      "onboard_time": 1682587889,
-      "rank": 33,
-      "category": "作品衍生,时尚"
+      "raw_hot": 374888,
+      "num": 374888,
+      "word": "千万不要因为工作太闲辞职",
+      "onboard_time": 1682587471,
+      "rank": 32,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 373415,
@@ -641,6 +673,14 @@
       "onboard_time": 1682561485,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369190,
+      "num": 369190,
+      "word": "张元英姐姐撞脸周雨彤",
+      "onboard_time": 1682590408,
+      "rank": 37,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 366636,
@@ -681,22 +721,6 @@
       "onboard_time": 1682553385,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 356765,
-      "num": 356765,
-      "word": "爱情公寓雷哥改戏",
-      "onboard_time": 1682587950,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 354169,
-      "num": 354169,
-      "word": "千万不要因为工作太闲辞职",
-      "onboard_time": 1682587471,
-      "rank": 32,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 339985,
@@ -859,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276286,
+      "num": 276286,
+      "word": "上海动物园",
+      "onboard_time": 1682589686,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273410,
       "num": 273410,
       "word": "梅姨",
@@ -995,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245133,
+      "num": 245133,
+      "word": "沧九旻黎苏苏44秒吻戏",
+      "onboard_time": 1682589448,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243069,
       "num": 243069,
       "word": "拿什么衣服迎接酷暑",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1682572169,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238017,
-      "num": 238017,
-      "word": "沧九旻黎苏苏44秒吻戏",
-      "onboard_time": 1682589448,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 236697,
@@ -1275,28 +1307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189432,
-      "num": 189432,
-      "word": "张元英姐姐撞脸周雨彤",
-      "onboard_time": 1682590408,
-      "rank": 37,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 188942,
       "num": 188942,
       "word": "点亮icon守护丫丫",
       "onboard_time": 1682557888,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188430,
-      "num": 188430,
-      "word": "模仿金卡戴珊的网红心脏骤停死亡",
-      "onboard_time": 1682590349,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 187980,
@@ -1403,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179732,
-      "num": 179732,
-      "word": "上海动物园",
-      "onboard_time": 1682589686,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177333,
       "num": 177333,
       "word": "结婚太早容易后悔吗",
@@ -1435,6 +1443,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 174500,
+      "num": 2365312,
+      "word": "淄博用热情来拥抱每一位朋友",
+      "onboard_time": 1682589026,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173645,
       "num": 173645,
       "word": "分不清是萧敬腾还是钟楚曦",
@@ -1443,12 +1459,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173168,
+      "num": 173168,
+      "word": "张婧仪高中时旧照",
+      "onboard_time": 1682590108,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172182,
       "num": 172182,
       "word": "民警带服刑人员去民政局登记结婚",
       "onboard_time": 1682510787,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 171895,
+      "num": 171895,
+      "word": "我和销冠上班的区别",
+      "onboard_time": 1682590288,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 169030,
@@ -1555,14 +1587,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 157277,
-      "num": 1835829,
-      "word": "淄博用热情来拥抱每一位朋友",
-      "onboard_time": 1682589026,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156220,
       "num": 156220,
       "word": "公交司机耐心帮患舞蹈症乘客落座",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1682574626,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143712,
+      "num": 1922414,
+      "word": "卧病在床的父亲给女儿梳头发",
+      "onboard_time": 1682589026,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143052,
@@ -1683,6 +1715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136978,
+      "num": 136978,
+      "word": "家里千万不要留快递纸盒",
+      "onboard_time": 1682591191,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134186,
       "num": 134186,
       "word": "儿子因病离世父亲看着孙子满眼是爱",
@@ -1697,14 +1737,6 @@
       "onboard_time": 1682565747,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130824,
-      "num": 1154482,
-      "word": "卧病在床的父亲给女儿梳头发",
-      "onboard_time": 1682589026,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130696,
@@ -2011,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74564,
+      "num": 133804,
+      "word": "圆明园回应网传五一期门票首次售罄",
+      "onboard_time": 1682589569,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 73665,
       "num": 73665,
       "word": "电影我和我的青春定档五一",
@@ -2025,14 +2065,6 @@
       "onboard_time": 1682523866,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 68311,
-      "num": 131523,
-      "word": "圆明园回应网传五一期门票首次售罄",
-      "onboard_time": 1682589569,
-      "rank": 49,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 64324,
