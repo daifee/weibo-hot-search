@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/28 00:20:41 ~ 2023/04/28 04:33:30
+本榜单时间：2023/04/28 00:20:41 ~ 2023/04/28 05:14:56
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ GUCCI红毯（热度：30246）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 蔡依林演唱会（热度：21096）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDGDP%23" target="weibo">
+美国GDP（热度：19784）
 </a>
 </li>
 
