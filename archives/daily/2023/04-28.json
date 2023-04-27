@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682637492367,
+  "endTime": 1682638438241,
   "band_list": [
     {
       "raw_hot": 2815975,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1633795,
-      "num": 1633795,
+      "raw_hot": 1999574,
+      "num": 1999574,
       "word": "朋友圈已经没有了生活的痕迹",
       "onboard_time": 1682603009,
       "rank": 14,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1027719,
+      "num": 1027719,
+      "word": "为什么熟人性侵高发",
+      "onboard_time": 1682607333,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 950665,
       "num": 669071,
       "word": "薛之谦 挤挤就到",
       "onboard_time": 1682602890,
       "rank": 10,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 908754,
-      "num": 908754,
-      "word": "为什么熟人性侵高发",
-      "onboard_time": 1682607333,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 862921,
@@ -99,20 +99,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 632493,
+      "num": 632493,
+      "word": "薛之谦本人到不了薛之谦演唱会",
+      "onboard_time": 1682587288,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 590173,
+      "num": 590173,
+      "word": "潍坊文旅局长淄博烧烤摊疯狂揽客",
+      "onboard_time": 1682637201,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556648,
       "num": 556648,
       "word": "GUCCI的四位代言人",
       "onboard_time": 1682601629,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 543342,
-      "num": 543342,
-      "word": "薛之谦本人到不了薛之谦演唱会",
-      "onboard_time": 1682587288,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 449455,
@@ -131,6 +139,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363767,
+      "num": 363767,
+      "word": "给淄博烧烤泼一盆冷水",
+      "onboard_time": 1682636722,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358809,
+      "num": 280030,
+      "word": "肖战舒淇合照",
+      "onboard_time": 1682605470,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 326013,
       "num": 326013,
       "word": "丫丫回国后安排",
@@ -145,14 +169,6 @@
       "onboard_time": 1682594187,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 302099,
-      "num": 248495,
-      "word": "肖战舒淇合照",
-      "onboard_time": 1682605470,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 271695,
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223680,
+      "num": 154110,
+      "word": "同事结婚行政到工位挨个收礼金",
+      "onboard_time": 1682620454,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223063,
       "num": 223063,
       "word": "白敬亭不把大家当外人",
@@ -184,6 +208,14 @@
       "word": "丫丫回国航线熊猫趴飞机上",
       "onboard_time": 1682583327,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213667,
+      "num": 213667,
+      "word": "店家回应115元8个串骂顾客穷",
+      "onboard_time": 1682602469,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -227,14 +259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191151,
-      "num": 144373,
-      "word": "同事结婚行政到工位挨个收礼金",
-      "onboard_time": 1682620454,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191076,
       "num": 191076,
       "word": "青海6名干部聚餐喝酒1人死亡",
@@ -251,22 +275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183170,
-      "num": 140792,
-      "word": "给淄博烧烤泼一盆冷水",
-      "onboard_time": 1682636722,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176881,
-      "num": 176881,
-      "word": "店家回应115元8个串骂顾客穷",
-      "onboard_time": 1682602469,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174479,
       "num": 174479,
       "word": "崔永元又发声自述与冯小刚恩怨始末",
@@ -281,6 +289,14 @@
       "onboard_time": 1682608770,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170524,
+      "num": 153289,
+      "word": "孟菲斯动物园游客希望其他大熊猫能再来",
+      "onboard_time": 1682614040,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169059,
@@ -307,20 +323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157804,
-      "num": 157804,
-      "word": "潍坊文旅局长淄博烧烤摊疯狂揽客",
-      "onboard_time": 1682637201,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 148081,
+      "num": 148081,
+      "word": "黎苏苏一觉醒来大姐夫变未婚夫",
+      "onboard_time": 1682609789,
+      "rank": 39,
+      "category": "影视"
     },
     {
-      "raw_hot": 154741,
-      "num": 140153,
-      "word": "孟菲斯动物园游客希望其他大熊猫能再来",
-      "onboard_time": 1682614040,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 145564,
+      "num": 145564,
+      "word": "冷门但高薪的神仙工作",
+      "onboard_time": 1682612064,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 143017,
@@ -337,6 +353,14 @@
       "onboard_time": 1682583446,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140809,
+      "num": 140809,
+      "word": "丫丫宅家视频",
+      "onboard_time": 1682637384,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139478,
@@ -371,14 +395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135647,
-      "num": 135647,
-      "word": "黎苏苏一觉醒来大姐夫变未婚夫",
-      "onboard_time": 1682609789,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 130164,
       "num": 130164,
       "word": "你最关心丫丫哪些情况",
@@ -395,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127714,
-      "num": 127714,
-      "word": "冷门但高薪的神仙工作",
-      "onboard_time": 1682612064,
-      "rank": 30,
-      "category": "情感,幽默"
+      "raw_hot": 129958,
+      "num": 129958,
+      "word": "黄宗泽纪念第一次从香港坐高铁",
+      "onboard_time": 1682608171,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 122223,
@@ -417,14 +433,6 @@
       "onboard_time": 1682579906,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118449,
-      "num": 118449,
-      "word": "黄宗泽纪念第一次从香港坐高铁",
-      "onboard_time": 1682608171,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 117418,
@@ -451,6 +459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 90123,
+      "num": 90123,
+      "word": "想脱单可以试试周末去爬山",
+      "onboard_time": 1682637443,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79775,
       "num": 79775,
       "word": "徐明浩的出场",
@@ -467,12 +483,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 68104,
-      "num": 68104,
+      "raw_hot": 70254,
+      "num": 70254,
       "word": "热刺2比2曼联",
       "onboard_time": 1682636901,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69601,
+      "num": 69601,
+      "word": "两性平等教育",
+      "onboard_time": 1682636783,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 68063,
@@ -483,28 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62363,
-      "num": 62363,
-      "word": "丫丫宅家视频",
-      "onboard_time": 1682637384,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57916,
-      "num": 57916,
-      "word": "两性平等教育",
-      "onboard_time": 1682636783,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 53383,
-      "num": 53383,
-      "word": "想脱单可以试试周末去爬山",
-      "onboard_time": 1682637443,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 63013,
+      "num": 63013,
+      "word": "蔡依林回复要来了稍安勿躁",
+      "onboard_time": 1682638166,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 45650,
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 44177,
-      "num": 46595,
+      "num": 57624,
       "word": "郑秀妍流苏白裙",
       "onboard_time": 1682634258,
       "rank": 49,
@@ -537,6 +545,14 @@
       "onboard_time": 1682613683,
       "rank": 49,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 32583,
+      "num": 56248,
+      "word": "星穹铁道",
+      "onboard_time": 1682593468,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 30246,
@@ -563,7 +579,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 8102,
+      "raw_hot": 10162,
       "num": 1316768,
       "word": "五一出行实用贴士",
       "onboard_time": 1682560405,

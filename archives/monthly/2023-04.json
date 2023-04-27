@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682637492367,
+  "endTime": 1682638438241,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2155,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1999574,
+      "num": 1999574,
+      "word": "朋友圈已经没有了生活的痕迹",
+      "onboard_time": 1682603009,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1998673,
       "num": 331331,
       "word": "北大全嘻嘻 清华张小年",
@@ -3217,14 +3225,6 @@
       "onboard_time": 1682401887,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1633795,
-      "num": 1633795,
-      "word": "朋友圈已经没有了生活的痕迹",
-      "onboard_time": 1682603009,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 1630812,
@@ -6163,6 +6163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1027719,
+      "num": 1027719,
+      "word": "为什么熟人性侵高发",
+      "onboard_time": 1682607333,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1023458,
       "num": 685411,
       "word": "刘涛变美",
@@ -7304,14 +7312,6 @@
       "word": "电视剧脱轨官宣",
       "onboard_time": 1681957167,
       "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 908754,
-      "num": 908754,
-      "word": "为什么熟人性侵高发",
-      "onboard_time": 1682607333,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -12689,6 +12689,14 @@
       "onboard_time": 1680617013,
       "rank": 12,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 590173,
+      "num": 590173,
+      "word": "潍坊文旅局长淄博烧烤摊疯狂揽客",
+      "onboard_time": 1682637201,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590120,
@@ -22321,6 +22329,14 @@
       "onboard_time": 1681365569,
       "rank": 29,
       "category": "科技"
+    },
+    {
+      "raw_hot": 363767,
+      "num": 363767,
+      "word": "给淄博烧烤泼一盆冷水",
+      "onboard_time": 1682636722,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363673,
@@ -34795,6 +34811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223680,
+      "num": 154110,
+      "word": "同事结婚行政到工位挨个收礼金",
+      "onboard_time": 1682620454,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223442,
       "num": 223442,
       "word": "10省区将出现大到暴雨",
@@ -43427,14 +43451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191151,
-      "num": 144373,
-      "word": "同事结婚行政到工位挨个收礼金",
-      "onboard_time": 1682620454,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191146,
       "num": 191146,
       "word": "BoysPlanet第三次顺位发表",
@@ -45857,14 +45873,6 @@
       "onboard_time": 1680445968,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183170,
-      "num": 140792,
-      "word": "给淄博烧烤泼一盆冷水",
-      "onboard_time": 1682636722,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183154,
@@ -48361,6 +48369,14 @@
       "onboard_time": 1680883049,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170524,
+      "num": 153289,
+      "word": "孟菲斯动物园游客希望其他大熊猫能再来",
+      "onboard_time": 1682614040,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170462,
@@ -51059,14 +51075,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 157804,
-      "num": 157804,
-      "word": "潍坊文旅局长淄博烧烤摊疯狂揽客",
-      "onboard_time": 1682637201,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157754,
       "num": 157754,
       "word": "小鬼2023巡演有效预热",
@@ -51561,14 +51569,6 @@
       "onboard_time": 1681290328,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 154741,
-      "num": 140153,
-      "word": "孟菲斯动物园游客希望其他大熊猫能再来",
-      "onboard_time": 1682614040,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154706,
@@ -52995,6 +52995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148081,
+      "num": 148081,
+      "word": "黎苏苏一觉醒来大姐夫变未婚夫",
+      "onboard_time": 1682609789,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148052,
       "num": 148052,
       "word": "第十三届北影节天坛奖评委会阵容",
@@ -53537,6 +53545,14 @@
       "onboard_time": 1681707989,
       "rank": 43,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 145564,
+      "num": 145564,
+      "word": "冷门但高薪的神仙工作",
+      "onboard_time": 1682612064,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 145524,
@@ -54457,6 +54473,14 @@
       "onboard_time": 1681136191,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140809,
+      "num": 140809,
+      "word": "丫丫宅家视频",
+      "onboard_time": 1682637384,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140803,
@@ -55457,14 +55481,6 @@
       "onboard_time": 1681199787,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 135647,
-      "num": 135647,
-      "word": "黎苏苏一觉醒来大姐夫变未婚夫",
-      "onboard_time": 1682609789,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 135563,
@@ -56833,14 +56849,6 @@
       "onboard_time": 1680878551,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127714,
-      "num": 127714,
-      "word": "冷门但高薪的神仙工作",
-      "onboard_time": 1682612064,
-      "rank": 30,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 127606,
@@ -61283,6 +61291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90123,
+      "num": 90123,
+      "word": "想脱单可以试试周末去爬山",
+      "onboard_time": 1682637443,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90055,
       "num": 63680,
       "word": "王一博电影横跨上半年三大档期",
@@ -62211,6 +62227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70254,
+      "num": 70254,
+      "word": "热刺2比2曼联",
+      "onboard_time": 1682636901,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70190,
       "num": 2188030,
       "word": "加快数字中国建设",
@@ -62233,6 +62257,14 @@
       "onboard_time": 1682203998,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 69601,
+      "num": 69601,
+      "word": "两性平等教育",
+      "onboard_time": 1682636783,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 69500,
@@ -62345,14 +62377,6 @@
       "onboard_time": 1680734656,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 68104,
-      "num": 68104,
-      "word": "热刺2比2曼联",
-      "onboard_time": 1682636901,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 68063,
@@ -62547,6 +62571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63013,
+      "num": 63013,
+      "word": "蔡依林回复要来了稍安勿躁",
+      "onboard_time": 1682638166,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 62976,
       "num": 64212,
       "word": "二十几岁是个混乱的年龄段",
@@ -62577,14 +62609,6 @@
       "onboard_time": 1682550321,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62363,
-      "num": 62363,
-      "word": "丫丫宅家视频",
-      "onboard_time": 1682637384,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62103,
@@ -62769,14 +62793,6 @@
       "onboard_time": 1681323494,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57916,
-      "num": 57916,
-      "word": "两性平等教育",
-      "onboard_time": 1682636783,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 57242,
@@ -62971,14 +62987,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 53383,
-      "num": 53383,
-      "word": "想脱单可以试试周末去爬山",
-      "onboard_time": 1682637443,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 52949,
       "num": 1669703,
       "word": "相约八点见",
@@ -63148,7 +63156,7 @@
     },
     {
       "raw_hot": 44177,
-      "num": 46595,
+      "num": 57624,
       "word": "郑秀妍流苏白裙",
       "onboard_time": 1682634258,
       "rank": 49,

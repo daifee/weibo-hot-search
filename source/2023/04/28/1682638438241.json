@@ -1,0 +1,410 @@
+{
+  "runTime": 1682638438241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2253671,
+        "num": 2253671,
+        "word": "丫丫回家后吃饭吃得好香",
+        "onboard_time": 1682608409,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1999574,
+        "num": 1999574,
+        "word": "朋友圈已经没有了生活的痕迹",
+        "onboard_time": 1682603009,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 10162,
+        "num": 1121902,
+        "word": "五一出行实用贴士",
+        "onboard_time": 1682560405,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027719,
+        "num": 1027719,
+        "word": "为什么熟人性侵高发",
+        "onboard_time": 1682607333,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 698330,
+        "num": 698330,
+        "word": "丫丫到家后近照",
+        "onboard_time": 1682606670,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684623,
+        "num": 684623,
+        "word": "淄博烧烤店下跪老板与顾客和解",
+        "onboard_time": 1682611885,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632493,
+        "num": 632493,
+        "word": "薛之谦本人到不了薛之谦演唱会",
+        "onboard_time": 1682587288,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 590173,
+        "num": 590173,
+        "word": "潍坊文旅局长淄博烧烤摊疯狂揽客",
+        "onboard_time": 1682637201,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589456,
+        "num": 589456,
+        "word": "乐乐死因报告的情况说明",
+        "onboard_time": 1682599589,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433338,
+        "num": 433338,
+        "word": "鹿晗纹身像拔罐",
+        "onboard_time": 1682604631,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1149982,
+        "num": 428284,
+        "word": "何超云",
+        "onboard_time": 1682606312,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383424,
+        "num": 383424,
+        "word": "丫丫一到机场就收到了竹子",
+        "onboard_time": 1682594187,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363767,
+        "num": 363767,
+        "word": "给淄博烧烤泼一盆冷水",
+        "onboard_time": 1682636722,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363667,
+        "num": 363667,
+        "word": "GUCCI的四位代言人",
+        "onboard_time": 1682601629,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292399,
+        "num": 292399,
+        "word": "张彬彬PDD",
+        "onboard_time": 1682604333,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358809,
+        "num": 280030,
+        "word": "肖战舒淇合照",
+        "onboard_time": 1682605470,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243493,
+        "num": 243493,
+        "word": "职校男生1天被霸凌2次后坠亡",
+        "onboard_time": 1682597368,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213667,
+        "num": 213667,
+        "word": "店家回应115元8个串骂顾客穷",
+        "onboard_time": 1682602469,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161194,
+        "num": 161194,
+        "word": "官方通报沈阳店铺招牌统一黑底白字",
+        "onboard_time": 1682612126,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157388,
+        "num": 157388,
+        "word": "青海6名干部聚餐喝酒1人死亡",
+        "onboard_time": 1682600070,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223680,
+        "num": 154110,
+        "word": "同事结婚行政到工位挨个收礼金",
+        "onboard_time": 1682620454,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170524,
+        "num": 153289,
+        "word": "孟菲斯动物园游客希望其他大熊猫能再来",
+        "onboard_time": 1682614040,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149189,
+        "num": 149189,
+        "word": "知乎客服回应推送李玉刚跳河消息",
+        "onboard_time": 1682595688,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 148081,
+        "num": 148081,
+        "word": "黎苏苏一觉醒来大姐夫变未婚夫",
+        "onboard_time": 1682609789,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147719,
+        "num": 147719,
+        "word": "丫丫回国后安排",
+        "onboard_time": 1682594909,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145564,
+        "num": 145564,
+        "word": "冷门但高薪的神仙工作",
+        "onboard_time": 1682612064,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 140809,
+        "num": 140809,
+        "word": "丫丫宅家视频",
+        "onboard_time": 1682637384,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132821,
+        "num": 132821,
+        "word": "新型表白方式 西瓜烂了",
+        "onboard_time": 1682606132,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129958,
+        "num": 129958,
+        "word": "黄宗泽纪念第一次从香港坐高铁",
+        "onboard_time": 1682608171,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120710,
+        "num": 120710,
+        "word": "离了这棵树单元楼都会散",
+        "onboard_time": 1682610866,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116646,
+        "num": 116646,
+        "word": "王雷对男一号的执念",
+        "onboard_time": 1682597427,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114732,
+        "num": 114732,
+        "word": "美国GDP",
+        "onboard_time": 1682629152,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112757,
+        "num": 112757,
+        "word": "白敬亭不把大家当外人",
+        "onboard_time": 1682605895,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110732,
+        "num": 110732,
+        "word": "倪妮 好顶的脸",
+        "onboard_time": 1682598028,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101925,
+        "num": 101925,
+        "word": "朱一龙又拿奖了",
+        "onboard_time": 1682604992,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 92328,
+        "num": 92328,
+        "word": "妲己令牌",
+        "onboard_time": 1682608949,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90123,
+        "num": 90123,
+        "word": "想脱单可以试试周末去爬山",
+        "onboard_time": 1682637443,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86548,
+        "num": 86548,
+        "word": "王俊凯北影节生图",
+        "onboard_time": 1682601750,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81767,
+        "num": 81767,
+        "word": "范丞丞半裸做俯卧撑",
+        "onboard_time": 1682608770,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78211,
+        "num": 78211,
+        "word": "长沙游客不满8根炸串115元被骂穷",
+        "onboard_time": 1682586689,
+        "rank": 39,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 75859,
+        "num": 75859,
+        "word": "丫丫到家的第一句祝福",
+        "onboard_time": 1682607751,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74063,
+        "num": 74063,
+        "word": "模仿金卡戴珊的网红心脏骤停死亡",
+        "onboard_time": 1682590349,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 70254,
+        "num": 70254,
+        "word": "热刺2比2曼联",
+        "onboard_time": 1682636901,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69601,
+        "num": 69601,
+        "word": "两性平等教育",
+        "onboard_time": 1682636783,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67271,
+        "num": 67271,
+        "word": "你最关心丫丫哪些情况",
+        "onboard_time": 1682591429,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63893,
+        "num": 63893,
+        "word": "长月烬明仙门篇",
+        "onboard_time": 1682600310,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 63013,
+        "num": 63013,
+        "word": "蔡依林回复要来了稍安勿躁",
+        "onboard_time": 1682638166,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61002,
+        "num": 61002,
+        "word": "小伙淄博吃烧烤没排上号老板下跪求谅解",
+        "onboard_time": 1682618716,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41665,
+        "num": 57624,
+        "word": "郑秀妍流苏白裙",
+        "onboard_time": 1682634258,
+        "rank": 48,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 32583,
+        "num": 56248,
+        "word": "星穹铁道",
+        "onboard_time": 1682593468,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#文旅市场活力迸发#"
+    }
+  }
+}
