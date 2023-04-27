@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682622833189,
+  "endTime": 1682624003374,
   "band_list": [
     {
       "raw_hot": 2815975,
@@ -427,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57126,
+      "num": 57126,
+      "word": "小伙淄博吃烧烤没排上号老板下跪求谅解",
+      "onboard_time": 1682618716,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51088,
       "num": 51088,
       "word": "王雷对男一号的执念",
@@ -443,19 +451,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 41717,
-      "num": 41717,
-      "word": "小伙淄博吃烧烤没排上号老板下跪求谅解",
-      "onboard_time": 1682618716,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37358,
       "num": 37358,
       "word": "接丫丫回家",
       "onboard_time": 1682498607,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37291,
+      "num": 37291,
+      "word": "同事结婚行政到工位挨个收礼金",
+      "onboard_time": 1682620454,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -465,14 +473,6 @@
       "onboard_time": 1682613683,
       "rank": 49,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 32797,
-      "num": 32797,
-      "word": "同事结婚行政到工位挨个收礼金",
-      "onboard_time": 1682620454,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30246,
