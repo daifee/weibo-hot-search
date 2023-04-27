@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682633707682,
+  "endTime": 1682634825489,
   "band_list": [
     {
       "raw_hot": 2815975,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 735412,
+      "num": 735412,
+      "word": "朋友圈已经没有了生活的痕迹",
+      "onboard_time": 1682603009,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 706137,
       "num": 706137,
       "word": "鹿晗纹身像拔罐",
@@ -91,12 +99,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 507096,
-      "num": 507096,
-      "word": "朋友圈已经没有了生活的痕迹",
-      "onboard_time": 1682603009,
-      "rank": 14,
-      "category": "情感"
+      "raw_hot": 475319,
+      "num": 475319,
+      "word": "淄博烧烤店下跪老板与顾客和解",
+      "onboard_time": 1682611885,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470734,
@@ -113,14 +121,6 @@
       "onboard_time": 1682586689,
       "rank": 12,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 398626,
-      "num": 398626,
-      "word": "淄博烧烤店下跪老板与顾客和解",
-      "onboard_time": 1682611885,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386323,
@@ -403,6 +403,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 90309,
+      "num": 90309,
+      "word": "同事结婚行政到工位挨个收礼金",
+      "onboard_time": 1682620454,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89045,
+      "num": 89045,
+      "word": "美国GDP",
+      "onboard_time": 1682629152,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81189,
       "num": 81189,
       "word": "冷门但高薪的神仙工作",
@@ -419,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71505,
+      "num": 71505,
+      "word": "王雷对男一号的执念",
+      "onboard_time": 1682597427,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 71259,
       "num": 71259,
       "word": "耳机能有多魔幻",
@@ -427,36 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69618,
-      "num": 69618,
-      "word": "美国GDP",
-      "onboard_time": 1682629152,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 59555,
-      "num": 59555,
-      "word": "同事结婚行政到工位挨个收礼金",
-      "onboard_time": 1682620454,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57126,
       "num": 57126,
       "word": "小伙淄博吃烧烤没排上号老板下跪求谅解",
       "onboard_time": 1682618716,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55471,
-      "num": 55471,
-      "word": "王雷对男一号的执念",
-      "onboard_time": 1682597427,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 45650,
@@ -497,6 +497,14 @@
       "onboard_time": 1682599589,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16060,
+      "num": 31210,
+      "word": "郑秀妍流苏白裙",
+      "onboard_time": 1682634258,
+      "rank": 49,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 11605,
