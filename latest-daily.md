@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/28 00:20:41 ~ 2023/04/28 03:33:23
+本榜单时间：2023/04/28 00:20:41 ~ 2023/04/28 04:18:03
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ GUCCI红毯（热度：30246）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 蔡依林演唱会（热度：21096）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%23" target="weibo">
+崩坏星穹铁道（热度：9483）
 </a>
 </li>
 
