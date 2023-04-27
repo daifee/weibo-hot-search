@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682565500882,
+  "endTime": 1682566432876,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -10787,6 +10787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 656820,
+      "num": 656820,
+      "word": "很烧钱但又戒不掉的爱好",
+      "onboard_time": 1682559206,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 656794,
       "num": 656794,
       "word": "罗云熙下海动图",
@@ -11776,14 +11784,6 @@
       "word": "入职第一天是不是都很尴尬",
       "onboard_time": 1681205248,
       "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 610570,
-      "num": 610570,
-      "word": "很烧钱但又戒不掉的爱好",
-      "onboard_time": 1682559206,
-      "rank": 25,
       "category": "幽默"
     },
     {
@@ -19563,6 +19563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402584,
+      "num": 402584,
+      "word": "上海事业单位",
+      "onboard_time": 1682564126,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 402317,
       "num": 402317,
       "word": "2023教资考试笔试成绩",
@@ -20457,6 +20465,14 @@
       "onboard_time": 1681916070,
       "rank": 20,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 387378,
+      "num": 387378,
+      "word": "宝格丽明星慢镜头",
+      "onboard_time": 1682564246,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 387306,
@@ -22969,14 +22985,6 @@
       "onboard_time": 1681644026,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344020,
-      "num": 344020,
-      "word": "宝格丽明星慢镜头",
-      "onboard_time": 1682564246,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 343624,
@@ -30259,14 +30267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 252894,
-      "num": 252894,
-      "word": "上海事业单位",
-      "onboard_time": 1682564126,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 252567,
       "num": 252567,
       "word": "樊振东3比2林诗栋",
@@ -36139,6 +36139,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 208647,
+      "num": 208647,
+      "word": "被幼儿园的户外活动惊到了",
+      "onboard_time": 1682563645,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 208618,
       "num": 208618,
       "word": "金晨翻跳金智秀Flower",
@@ -39883,6 +39891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198085,
+      "num": 185481,
+      "word": "雷宇怕狗",
+      "onboard_time": 1682565264,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198064,
       "num": 198064,
       "word": "原来指尖真的可以藏下宇宙",
@@ -40961,6 +40977,14 @@
       "onboard_time": 1681275689,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 195162,
+      "num": 195162,
+      "word": "蔡徐坤黑色特工造型",
+      "onboard_time": 1682566166,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195123,
@@ -43243,14 +43267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187898,
-      "num": 183373,
-      "word": "被幼儿园的户外活动惊到了",
-      "onboard_time": 1682563645,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 187885,
       "num": 187885,
       "word": "郭艾伦21分",
@@ -45241,6 +45257,14 @@
       "onboard_time": 1682512765,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179940,
+      "num": 179940,
+      "word": "杭州东站已是人从众",
+      "onboard_time": 1682565506,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179919,
@@ -48595,6 +48619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162516,
+      "num": 162516,
+      "word": "检察风云终极预告",
+      "onboard_time": 1682566224,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 162510,
       "num": 162510,
       "word": "BoysPlanet三公音源空降",
@@ -49345,6 +49377,14 @@
       "onboard_time": 1681010487,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158887,
+      "num": 158887,
+      "word": "蒙克撞到库里肋骨",
+      "onboard_time": 1682566045,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 158875,
@@ -51671,14 +51711,6 @@
       "num": 147170,
       "word": "莎拉和小妍珍或将合作新剧",
       "onboard_time": 1681188689,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 147161,
-      "num": 147161,
-      "word": "雷宇怕狗",
-      "onboard_time": 1682565264,
       "rank": 43,
       "category": "影视"
     },
@@ -54465,6 +54497,14 @@
       "onboard_time": 1680359912,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 132175,
+      "num": 132175,
+      "word": "乘风2023播出时间",
+      "onboard_time": 1682565747,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 132143,
