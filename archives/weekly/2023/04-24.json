@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682569231931,
+  "endTime": 1682570087510,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -81,6 +81,14 @@
       "onboard_time": 1682312011,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2785417,
+      "num": 2785417,
+      "word": "因分享无人回应爸爸退了家庭群",
+      "onboard_time": 1682566586,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 2731879,
@@ -203,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2148718,
-      "num": 2148718,
-      "word": "因分享无人回应爸爸退了家庭群",
-      "onboard_time": 1682566586,
-      "rank": 0,
-      "category": "情感"
-    },
-    {
       "raw_hot": 2146984,
       "num": 2142034,
       "word": "女网红被丈夫杀害藏尸冰柜案宣判",
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2015324,
+      "num": 853796,
+      "word": "惠州奔现",
+      "onboard_time": 1682566528,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1974616,
       "num": 426603,
       "word": "何猷君 科切拉",
@@ -273,14 +281,6 @@
       "onboard_time": 1682382987,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1911944,
-      "num": 853796,
-      "word": "惠州奔现",
-      "onboard_time": 1682566528,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1905935,
@@ -811,6 +811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1025606,
+      "num": 1025606,
+      "word": "陈都灵邓为花朵吻",
+      "onboard_time": 1682566887,
+      "rank": 4,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 1023458,
       "num": 685411,
       "word": "刘涛变美",
@@ -921,6 +929,14 @@
       "onboard_time": 1682390365,
       "rank": 30,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 890369,
+      "num": 890369,
+      "word": "巴特勒极限空接",
+      "onboard_time": 1682569768,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 881492,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1682511747,
       "rank": 27,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 753174,
-      "num": 753174,
-      "word": "陈都灵邓为花朵吻",
-      "onboard_time": 1682566887,
-      "rank": 4,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 751930,
@@ -1315,6 +1323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 595844,
+      "num": 595844,
+      "word": "周也听到谢谢阿瑟的反应",
+      "onboard_time": 1682568507,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594390,
       "num": 594390,
       "word": "网易起诉暴雪要求退还3亿欠款",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1682309129,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 567380,
+      "num": 441593,
+      "word": "女子因男友要求旅行AA提分手",
+      "onboard_time": 1682568025,
+      "rank": 20,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 560491,
@@ -1515,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522673,
+      "num": 425247,
+      "word": "NBA裁判",
+      "onboard_time": 1682568567,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 522478,
       "num": 522478,
       "word": "中国高铁座椅不只有靠背",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1682392407,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 521855,
+      "num": 343326,
+      "word": "赵丽颖直角肩",
+      "onboard_time": 1682568628,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 519057,
@@ -2387,14 +2427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393720,
-      "num": 326553,
-      "word": "女子因男友要求旅行AA提分手",
-      "onboard_time": 1682568025,
-      "rank": 20,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 393636,
       "num": 378676,
       "word": "男明星谁赢了",
@@ -2473,6 +2505,14 @@
       "onboard_time": 1682329826,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386020,
+      "num": 386020,
+      "word": "时尚芭莎婚庆开张",
+      "onboard_time": 1682568147,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 385086,
@@ -2915,14 +2955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 327949,
-      "num": 327949,
-      "word": "时尚芭莎婚庆开张",
-      "onboard_time": 1682568147,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 327855,
       "num": 327855,
       "word": "现金流都在12306",
@@ -3057,14 +3089,6 @@
       "onboard_time": 1682308588,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318601,
-      "num": 318601,
-      "word": "周也听到谢谢阿瑟的反应",
-      "onboard_time": 1682568507,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 318391,
@@ -3219,6 +3243,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306640,
+      "num": 226652,
+      "word": "张新成手臂上的疤痕",
+      "onboard_time": 1682568688,
+      "rank": 33,
+      "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 305603,
+      "num": 305603,
+      "word": "孟菲斯动物园发文送别丫丫",
+      "onboard_time": 1682567847,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304869,
       "num": 202333,
       "word": "IVE版换乘恋爱",
@@ -3307,14 +3347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291982,
-      "num": 234799,
-      "word": "NBA裁判",
-      "onboard_time": 1682568567,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291730,
       "num": 217930,
       "word": "鹿晗衬衫扣子",
@@ -3329,14 +3361,6 @@
       "onboard_time": 1682501188,
       "rank": 39,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 290470,
-      "num": 232161,
-      "word": "赵丽颖直角肩",
-      "onboard_time": 1682568628,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 289962,
@@ -3843,6 +3867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255684,
+      "num": 255684,
+      "word": "男子出车祸交警强行送医发现脾脏破裂",
+      "onboard_time": 1682566766,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255295,
       "num": 255295,
       "word": "赵丽颖刘烨肖央新片杀青照",
@@ -3881,6 +3913,14 @@
       "onboard_time": 1682559326,
       "rank": 23,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 254064,
+      "num": 254064,
+      "word": "美国民众向丫丫道别",
+      "onboard_time": 1682569228,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253994,
@@ -4227,14 +4267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 237531,
-      "num": 237531,
-      "word": "男子出车祸交警强行送医发现脾脏破裂",
-      "onboard_time": 1682566766,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236619,
       "num": 236619,
       "word": "你给我的喜欢同床了",
@@ -4331,14 +4363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 228505,
-      "num": 228505,
-      "word": "孟菲斯动物园发文送别丫丫",
-      "onboard_time": 1682567847,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227919,
       "num": 227919,
       "word": "姐姐出嫁被婚车接走妹妹哭成泪人",
@@ -4361,14 +4385,6 @@
       "onboard_time": 1682440403,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226652,
-      "num": 226652,
-      "word": "张新成手臂上的疤痕",
-      "onboard_time": 1682568688,
-      "rank": 33,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 226297,
@@ -4625,6 +4641,14 @@
       "onboard_time": 1682391865,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214255,
+      "num": 214255,
+      "word": "这期奔跑吧开局就撕名牌",
+      "onboard_time": 1682569290,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 214139,
@@ -4915,6 +4939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201978,
+      "num": 201978,
+      "word": "丫丫就快到家了",
+      "onboard_time": 1682569889,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201335,
       "num": 201335,
       "word": "深圳交通局再回应前局长孙女炫富事件",
@@ -4985,6 +5017,14 @@
       "onboard_time": 1682490023,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198852,
+      "num": 198852,
+      "word": "热火vs雄鹿",
+      "onboard_time": 1682569952,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 198537,
@@ -5179,6 +5219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193547,
+      "num": 193547,
+      "word": "四六级报名",
+      "onboard_time": 1682568204,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193407,
       "num": 193407,
       "word": "朱一龙曾说希望带着自己的作品来戛纳",
@@ -5209,14 +5257,6 @@
       "onboard_time": 1682315487,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192427,
-      "num": 192427,
-      "word": "四六级报名",
-      "onboard_time": 1682568204,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 191706,
@@ -5297,6 +5337,14 @@
       "onboard_time": 1682413527,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 190256,
+      "num": 190256,
+      "word": "杭州东站已是人从众",
+      "onboard_time": 1682565506,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190186,
@@ -5616,14 +5664,6 @@
       "word": "近期部分地区疫情开始出现缓慢的上升",
       "onboard_time": 1682494409,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181747,
-      "num": 181747,
-      "word": "杭州东站已是人从众",
-      "onboard_time": 1682565506,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -5979,6 +6019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169030,
+      "num": 169030,
+      "word": "懒洋洋的人生哲学",
+      "onboard_time": 1682569952,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 167211,
       "num": 167211,
       "word": "男子140元买榴莲彩票亏麻了",
@@ -6249,6 +6297,14 @@
       "onboard_time": 1682475147,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 158890,
+      "num": 158890,
+      "word": "淄博中学生上分了",
+      "onboard_time": 1682570067,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 158887,
@@ -8107,6 +8163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56137,
+      "num": 419283,
+      "word": "超上镜妆造",
+      "onboard_time": 1682568747,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 54678,
       "num": 54678,
       "word": "陈钰琪说余春羊给小号换了个皮肤",
@@ -8137,14 +8201,6 @@
       "onboard_time": 1682512106,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34972,
-      "num": 361161,
-      "word": "超上镜妆造",
-      "onboard_time": 1682568747,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 34690,

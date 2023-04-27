@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682569231931,
+  "endTime": 1682570087510,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -785,6 +785,14 @@
       "onboard_time": 1681872145,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2785417,
+      "num": 2785417,
+      "word": "因分享无人回应爸爸退了家庭群",
+      "onboard_time": 1682566586,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 2780005,
@@ -1651,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2148718,
-      "num": 2148718,
-      "word": "因分享无人回应爸爸退了家庭群",
-      "onboard_time": 1682566586,
-      "rank": 0,
-      "category": "情感"
-    },
-    {
       "raw_hot": 2146984,
       "num": 2142034,
       "word": "女网红被丈夫杀害藏尸冰柜案宣判",
@@ -1995,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2015324,
+      "num": 853796,
+      "word": "惠州奔现",
+      "onboard_time": 1682566528,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2012865,
       "num": 434221,
       "word": "那英十年前为调休发声",
@@ -2233,14 +2241,6 @@
       "onboard_time": 1681183107,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1911944,
-      "num": 853796,
-      "word": "惠州奔现",
-      "onboard_time": 1682566528,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1910450,
@@ -5923,6 +5923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1025606,
+      "num": 1025606,
+      "word": "陈都灵邓为花朵吻",
+      "onboard_time": 1682566887,
+      "rank": 4,
+      "category": "影视,艺人"
+    },
+    {
       "raw_hot": 1023458,
       "num": 685411,
       "word": "刘涛变美",
@@ -7265,6 +7273,14 @@
       "onboard_time": 1681777769,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 890369,
+      "num": 890369,
+      "word": "巴特勒极限空接",
+      "onboard_time": 1682569768,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 887570,
@@ -8945,14 +8961,6 @@
       "onboard_time": 1680708932,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 753174,
-      "num": 753174,
-      "word": "陈都灵邓为花朵吻",
-      "onboard_time": 1682566887,
-      "rank": 4,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 753054,
@@ -12163,6 +12171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595844,
+      "num": 595844,
+      "word": "周也听到谢谢阿瑟的反应",
+      "onboard_time": 1682568507,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595251,
       "num": 342338,
       "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
@@ -12937,6 +12953,14 @@
       "onboard_time": 1680592888,
       "rank": 34,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 567380,
+      "num": 441593,
+      "word": "女子因男友要求旅行AA提分手",
+      "onboard_time": 1682568025,
+      "rank": 20,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 567324,
@@ -14307,6 +14331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 522673,
+      "num": 425247,
+      "word": "NBA裁判",
+      "onboard_time": 1682568567,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 522650,
       "num": 522650,
       "word": "金智秀ending镜头",
@@ -14369,6 +14401,14 @@
       "onboard_time": 1681447590,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521855,
+      "num": 343326,
+      "word": "赵丽颖直角肩",
+      "onboard_time": 1682568628,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 521704,
@@ -20155,14 +20195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393720,
-      "num": 326553,
-      "word": "女子因男友要求旅行AA提分手",
-      "onboard_time": 1682568025,
-      "rank": 20,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 393636,
       "num": 378676,
       "word": "男明星谁赢了",
@@ -20577,6 +20609,14 @@
       "onboard_time": 1680537627,
       "rank": 14,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 386020,
+      "num": 386020,
+      "word": "时尚芭莎婚庆开张",
+      "onboard_time": 1682568147,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 386018,
@@ -24075,14 +24115,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 327949,
-      "num": 327949,
-      "word": "时尚芭莎婚庆开张",
-      "onboard_time": 1682568147,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 327926,
       "num": 327926,
       "word": "披3名单",
@@ -24753,14 +24785,6 @@
       "onboard_time": 1681281085,
       "rank": 45,
       "category": "社会议题,情感"
-    },
-    {
-      "raw_hot": 318601,
-      "num": 318601,
-      "word": "周也听到谢谢阿瑟的反应",
-      "onboard_time": 1682568507,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 318581,
@@ -25603,6 +25627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306640,
+      "num": 226652,
+      "word": "张新成手臂上的疤痕",
+      "onboard_time": 1682568688,
+      "rank": 33,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 306309,
       "num": 306309,
       "word": "樊振东vsA勒布伦",
@@ -25649,6 +25681,14 @@
       "onboard_time": 1680580229,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305603,
+      "num": 305603,
+      "word": "孟菲斯动物园发文送别丫丫",
+      "onboard_time": 1682567847,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305593,
@@ -26675,14 +26715,6 @@
       "category": "影视,动漫"
     },
     {
-      "raw_hot": 291982,
-      "num": 234799,
-      "word": "NBA裁判",
-      "onboard_time": 1682568567,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291954,
       "num": 291954,
       "word": "颖儿工作室声明",
@@ -26801,14 +26833,6 @@
       "onboard_time": 1681727967,
       "rank": 30,
       "category": "美食,情感"
-    },
-    {
-      "raw_hot": 290470,
-      "num": 232161,
-      "word": "赵丽颖直角肩",
-      "onboard_time": 1682568628,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 290428,
@@ -30011,6 +30035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 255684,
+      "num": 255684,
+      "word": "男子出车祸交警强行送医发现脾脏破裂",
+      "onboard_time": 1682566766,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255674,
       "num": 255674,
       "word": "颜心记",
@@ -30185,6 +30217,14 @@
       "onboard_time": 1680436588,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254064,
+      "num": 254064,
+      "word": "美国民众向丫丫道别",
+      "onboard_time": 1682569228,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253868,
@@ -32067,14 +32107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237531,
-      "num": 237531,
-      "word": "男子出车祸交警强行送医发现脾脏破裂",
-      "onboard_time": 1682566766,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237524,
       "num": 237524,
       "word": "ENHYPEN确定5月回归",
@@ -33179,14 +33211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228505,
-      "num": 228505,
-      "word": "孟菲斯动物园发文送别丫丫",
-      "onboard_time": 1682567847,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228496,
       "num": 228496,
       "word": "男子痴迷炼金术6次偷拆他人汽车",
@@ -33481,14 +33505,6 @@
       "onboard_time": 1682229630,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 226652,
-      "num": 226652,
-      "word": "张新成手臂上的疤痕",
-      "onboard_time": 1682568688,
-      "rank": 33,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 226594,
@@ -35233,6 +35249,14 @@
       "onboard_time": 1682391865,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214255,
+      "num": 214255,
+      "word": "这期奔跑吧开局就撕名牌",
+      "onboard_time": 1682569290,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 214221,
@@ -38579,6 +38603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201978,
+      "num": 201978,
+      "word": "丫丫就快到家了",
+      "onboard_time": 1682569889,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201946,
       "num": 201946,
       "word": "剧版冥夜视角",
@@ -39761,6 +39793,14 @@
       "onboard_time": 1680621271,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 198852,
+      "num": 198852,
+      "word": "热火vs雄鹿",
+      "onboard_time": 1682569952,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 198788,
@@ -41563,6 +41603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193547,
+      "num": 193547,
+      "word": "四六级报名",
+      "onboard_time": 1682568204,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193536,
       "num": 193536,
       "word": "丁程鑫新歌的音色",
@@ -41961,14 +42009,6 @@
       "onboard_time": 1680575848,
       "rank": 28,
       "category": "影视,军事"
-    },
-    {
-      "raw_hot": 192427,
-      "num": 192427,
-      "word": "四六级报名",
-      "onboard_time": 1682568204,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 192395,
@@ -42617,6 +42657,14 @@
       "onboard_time": 1680498456,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190256,
+      "num": 190256,
+      "word": "杭州东站已是人从众",
+      "onboard_time": 1682565506,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190186,
@@ -45027,14 +45075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181747,
-      "num": 181747,
-      "word": "杭州东站已是人从众",
-      "onboard_time": 1682565506,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181622,
       "num": 181622,
       "word": "stayc无伴奏唱跳teddybear",
@@ -47411,6 +47451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169030,
+      "num": 169030,
+      "word": "懒洋洋的人生哲学",
+      "onboard_time": 1682569952,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 169010,
       "num": 169010,
       "word": "原神纳西妲",
@@ -49497,6 +49545,14 @@
       "onboard_time": 1681010487,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158890,
+      "num": 158890,
+      "word": "淄博中学生上分了",
+      "onboard_time": 1682570067,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 158887,
@@ -61235,6 +61291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56137,
+      "num": 419283,
+      "word": "超上镜妆造",
+      "onboard_time": 1682568747,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 56034,
       "num": 1004762,
       "word": "春天里我们都是奋斗者",
@@ -61817,14 +61881,6 @@
       "onboard_time": 1681951651,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34972,
-      "num": 361161,
-      "word": "超上镜妆造",
-      "onboard_time": 1682568747,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 34941,
