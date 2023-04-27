@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682572593632,
+  "endTime": 1682573615597,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2171,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1961402,
+      "num": 1961402,
+      "word": "38岁985硕士失业被迫送外卖",
+      "onboard_time": 1682571268,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1959867,
       "num": 197609,
       "word": "电科",
@@ -2769,6 +2777,14 @@
       "onboard_time": 1681195464,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1727380,
+      "num": 1727380,
+      "word": "曝王雷改戏黄轩辞演上甘岭",
+      "onboard_time": 1682571569,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 1726884,
@@ -7491,14 +7507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 873126,
-      "num": 873126,
-      "word": "曝王雷改戏黄轩辞演上甘岭",
-      "onboard_time": 1682571569,
-      "rank": 5,
-      "category": "影视"
-    },
-    {
       "raw_hot": 872900,
       "num": 417730,
       "word": "男子用手电筒吓死千只鸡获刑6个月",
@@ -11171,6 +11179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 640567,
+      "num": 640567,
+      "word": "字母哥垫脚",
+      "onboard_time": 1682571390,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 640383,
       "num": 640383,
       "word": "Liz瘦了",
@@ -11265,14 +11281,6 @@
       "onboard_time": 1680766110,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 636514,
-      "num": 636514,
-      "word": "38岁985硕士失业被迫送外卖",
-      "onboard_time": 1682571268,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 636297,
@@ -12585,14 +12593,6 @@
       "onboard_time": 1682064451,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 583597,
-      "num": 583597,
-      "word": "字母哥垫脚",
-      "onboard_time": 1682571390,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 583391,
@@ -19257,6 +19257,14 @@
       "onboard_time": 1682332049,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 410426,
+      "num": 410426,
+      "word": "四六级报名",
+      "onboard_time": 1682568204,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 410090,
@@ -26339,14 +26347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 297240,
-      "num": 297240,
-      "word": "四六级报名",
-      "onboard_time": 1682568204,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 297058,
       "num": 297058,
       "word": "长期戴耳机",
@@ -28537,6 +28537,14 @@
       "onboard_time": 1680576867,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 271334,
+      "num": 271334,
+      "word": "工资不高却要经常熬夜的工作",
+      "onboard_time": 1682572529,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 271301,
@@ -31723,6 +31731,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 241160,
+      "num": 241160,
+      "word": "勇士3比2国王",
+      "onboard_time": 1682572169,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241107,
       "num": 241107,
       "word": "郭麒麟金晨平凡之路定档",
@@ -34801,14 +34817,6 @@
       "onboard_time": 1681896566,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 218240,
-      "num": 218240,
-      "word": "勇士3比2国王",
-      "onboard_time": 1682572169,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 218179,
@@ -39699,6 +39707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199387,
+      "num": 199387,
+      "word": "星穹铁道下载破2000万",
+      "onboard_time": 1682572590,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199383,
       "num": 199383,
       "word": "范丞丞脸颊比心",
@@ -41795,6 +41811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 193397,
+      "num": 193397,
+      "word": "只有湖人球迷受伤",
+      "onboard_time": 1682572409,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193394,
       "num": 182162,
       "word": "侮辱诽谤他人有哪些法律后果",
@@ -41873,14 +41897,6 @@
       "onboard_time": 1680864869,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193271,
-      "num": 193271,
-      "word": "只有湖人球迷受伤",
-      "onboard_time": 1682572409,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 193265,
@@ -42601,14 +42617,6 @@
       "onboard_time": 1680418709,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190674,
-      "num": 190674,
-      "word": "工资不高却要经常熬夜的工作",
-      "onboard_time": 1682572529,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 190672,
@@ -47265,6 +47273,14 @@
       "onboard_time": 1680883049,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170493,
+      "num": 170493,
+      "word": "杭州6万一晚酒店没有涨价",
+      "onboard_time": 1682573369,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 170462,
@@ -53521,6 +53537,14 @@
       "onboard_time": 1682046148,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 139689,
+      "num": 139689,
+      "word": "B太回应被人身攻击",
+      "onboard_time": 1682573547,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 139677,
