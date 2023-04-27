@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682608596850,
+  "endTime": 1682609631914,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -347,6 +347,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 2075268,
+      "num": 2075268,
+      "word": "丫丫回家后吃饭吃得好香",
+      "onboard_time": 1682608409,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2062694,
       "num": 2062694,
       "word": "不建议跟一累就黑脸的人出去玩",
@@ -531,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1671565,
+      "num": 1671565,
+      "word": "舒淇 内娱美人鱼",
+      "onboard_time": 1682598507,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1649363,
       "num": 1649363,
       "word": "张艺兴我是市民不是市长",
@@ -673,14 +689,6 @@
       "onboard_time": 1682466804,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1481697,
-      "num": 1481697,
-      "word": "舒淇 内娱美人鱼",
-      "onboard_time": 1682598507,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1458676,
@@ -2283,14 +2291,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 472140,
-      "num": 472140,
-      "word": "丫丫回家后吃饭吃得好香",
-      "onboard_time": 1682608409,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 471409,
       "num": 471409,
       "word": "成都一烧烤店每桌15燃气费",
@@ -2529,6 +2529,14 @@
       "onboard_time": 1682393128,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 439263,
+      "num": 439263,
+      "word": "为什么熟人性侵高发",
+      "onboard_time": 1682607333,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 438788,
@@ -3497,14 +3505,6 @@
       "onboard_time": 1682580388,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332858,
-      "num": 332858,
-      "word": "为什么熟人性侵高发",
-      "onboard_time": 1682607333,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 332543,
@@ -4995,6 +4995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242470,
+      "num": 242470,
+      "word": "Cupid抄袭",
+      "onboard_time": 1682608229,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242281,
       "num": 242281,
       "word": "范丞丞下次想演马丽老公",
@@ -5219,6 +5227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231475,
+      "num": 231475,
+      "word": "新型表白方式 西瓜烂了",
+      "onboard_time": 1682606132,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231151,
       "num": 231151,
       "word": "崔胜澈狼尾红辫",
@@ -5315,6 +5331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 224127,
+      "num": 224127,
+      "word": "范丞丞半裸做俯卧撑",
+      "onboard_time": 1682608770,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224027,
       "num": 224027,
       "word": "罗云熙黑披风",
@@ -5353,6 +5377,14 @@
       "onboard_time": 1682313510,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222387,
+      "num": 222387,
+      "word": "丫丫到家的第一句祝福",
+      "onboard_time": 1682607751,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222326,
@@ -5409,14 +5441,6 @@
       "onboard_time": 1682512168,
       "rank": 29,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 221075,
-      "num": 221075,
-      "word": "新型表白方式 西瓜烂了",
-      "onboard_time": 1682606132,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 220901,
@@ -5633,6 +5657,14 @@
       "onboard_time": 1682303846,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211694,
+      "num": 211694,
+      "word": "铃铛",
+      "onboard_time": 1682607512,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 211585,
@@ -6003,14 +6035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199407,
-      "num": 199407,
-      "word": "铃铛",
-      "onboard_time": 1682607512,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 199387,
       "num": 199387,
       "word": "星穹铁道下载破2000万",
@@ -6113,14 +6137,6 @@
       "onboard_time": 1682565264,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197732,
-      "num": 197732,
-      "word": "丫丫到家的第一句祝福",
-      "onboard_time": 1682607751,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197701,
@@ -6971,6 +6987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176702,
+      "num": 176702,
+      "word": "黄宗泽纪念第一次从香港坐高铁",
+      "onboard_time": 1682608171,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175996,
       "num": 175996,
       "word": "被调休的周末瞬间不香了",
@@ -7177,14 +7201,6 @@
       "onboard_time": 1682503228,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 169906,
-      "num": 169906,
-      "word": "Cupid抄袭",
-      "onboard_time": 1682608229,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 169869,
@@ -8299,14 +8315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138433,
-      "num": 138433,
-      "word": "黄宗泽纪念第一次从香港坐高铁",
-      "onboard_time": 1682608171,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137799,
       "num": 137799,
       "word": "ChatGPT这是你写的吗",
@@ -9217,6 +9225,14 @@
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101253,
+      "num": 118679,
+      "word": "妲己令牌",
+      "onboard_time": 1682608949,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 97712,

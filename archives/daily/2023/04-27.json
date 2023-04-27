@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682608596850,
+  "endTime": 1682609631914,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -139,6 +139,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 2075268,
+      "num": 2075268,
+      "word": "丫丫回家后吃饭吃得好香",
+      "onboard_time": 1682608409,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2054189,
       "num": 2054189,
       "word": "肖战大开口破洞裤",
@@ -187,6 +195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1671565,
+      "num": 1671565,
+      "word": "舒淇 内娱美人鱼",
+      "onboard_time": 1682598507,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1656772,
       "num": 1656772,
       "word": "曾经很火却已消失了的品牌",
@@ -217,14 +233,6 @@
       "onboard_time": 1682553447,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1481697,
-      "num": 1481697,
-      "word": "舒淇 内娱美人鱼",
-      "onboard_time": 1682598507,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1401525,
@@ -659,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472140,
-      "num": 472140,
-      "word": "丫丫回家后吃饭吃得好香",
-      "onboard_time": 1682608409,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 465569,
       "num": 465569,
       "word": "星痕",
@@ -721,6 +721,14 @@
       "onboard_time": 1682519312,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439263,
+      "num": 439263,
+      "word": "为什么熟人性侵高发",
+      "onboard_time": 1682607333,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 433937,
@@ -985,14 +993,6 @@
       "onboard_time": 1682580388,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332858,
-      "num": 332858,
-      "word": "为什么熟人性侵高发",
-      "onboard_time": 1682607333,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 328204,
@@ -1419,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242470,
+      "num": 242470,
+      "word": "Cupid抄袭",
+      "onboard_time": 1682608229,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241748,
       "num": 241748,
       "word": "你觉得丫丫回国后应该展出吗",
@@ -1491,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231475,
+      "num": 231475,
+      "word": "新型表白方式 西瓜烂了",
+      "onboard_time": 1682606132,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228839,
       "num": 228839,
       "word": "范丞丞戴的耳钉",
@@ -1531,20 +1547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224127,
+      "num": 224127,
+      "word": "范丞丞半裸做俯卧撑",
+      "onboard_time": 1682608770,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222387,
+      "num": 222387,
+      "word": "丫丫到家的第一句祝福",
+      "onboard_time": 1682607751,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222130,
       "num": 222130,
       "word": "灰熊2比3湖人",
       "onboard_time": 1682561607,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221075,
-      "num": 221075,
-      "word": "新型表白方式 西瓜烂了",
-      "onboard_time": 1682606132,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 215337,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1682551764,
       "rank": 46,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 211694,
+      "num": 211694,
+      "word": "铃铛",
+      "onboard_time": 1682607512,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 211549,
@@ -1675,14 +1707,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 199407,
-      "num": 199407,
-      "word": "铃铛",
-      "onboard_time": 1682607512,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 199387,
       "num": 199387,
       "word": "星穹铁道下载破2000万",
@@ -1729,14 +1753,6 @@
       "onboard_time": 1682565264,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197732,
-      "num": 197732,
-      "word": "丫丫到家的第一句祝福",
-      "onboard_time": 1682607751,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195162,
@@ -1939,6 +1955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176702,
+      "num": 176702,
+      "word": "黄宗泽纪念第一次从香港坐高铁",
+      "onboard_time": 1682608171,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175796,
       "num": 175796,
       "word": "明天你先去看哪部五一档新片",
@@ -1977,14 +2001,6 @@
       "onboard_time": 1682590288,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 169906,
-      "num": 169906,
-      "word": "Cupid抄袭",
-      "onboard_time": 1682608229,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 169030,
@@ -2249,14 +2265,6 @@
       "onboard_time": 1682525963,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138433,
-      "num": 138433,
-      "word": "黄宗泽纪念第一次从香港坐高铁",
-      "onboard_time": 1682608171,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 137868,
@@ -2536,6 +2544,14 @@
       "word": "PDD歌友会",
       "onboard_time": 1682506049,
       "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 101253,
+      "num": 118679,
+      "word": "妲己令牌",
+      "onboard_time": 1682608949,
+      "rank": 48,
       "category": "游戏"
     },
     {

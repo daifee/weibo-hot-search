@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682608596850,
+  "endTime": 1682609631914,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1963,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2075268,
+      "num": 2075268,
+      "word": "丫丫回家后吃饭吃得好香",
+      "onboard_time": 1682608409,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2073534,
       "num": 1661878,
       "word": "亲亲您这个什么您心里不清楚吗",
@@ -3051,6 +3059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1671565,
+      "num": 1671565,
+      "word": "舒淇 内娱美人鱼",
+      "onboard_time": 1682598507,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1669628,
       "num": 1669628,
       "word": "长月烬明怎么了",
@@ -3857,14 +3873,6 @@
       "onboard_time": 1681113447,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1481697,
-      "num": 1481697,
-      "word": "舒淇 内娱美人鱼",
-      "onboard_time": 1682598507,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1476656,
@@ -16603,14 +16611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 472140,
-      "num": 472140,
-      "word": "丫丫回家后吃饭吃得好香",
-      "onboard_time": 1682608409,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 472123,
       "num": 472123,
       "word": "铃芽之旅原本是双女主",
@@ -18065,6 +18065,14 @@
       "onboard_time": 1680608191,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439263,
+      "num": 439263,
+      "word": "为什么熟人性侵高发",
+      "onboard_time": 1682607333,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 439045,
@@ -24256,14 +24264,6 @@
       "word": "易烊千玺透露将有音乐作品问世",
       "onboard_time": 1681036286,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 332858,
-      "num": 332858,
-      "word": "为什么熟人性侵高发",
-      "onboard_time": 1682607333,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -32347,6 +32347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242470,
+      "num": 242470,
+      "word": "Cupid抄袭",
+      "onboard_time": 1682608229,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242416,
       "num": 242416,
       "word": "白敬亭镜中敬中镜",
@@ -33635,6 +33643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231475,
+      "num": 231475,
+      "word": "新型表白方式 西瓜烂了",
+      "onboard_time": 1682606132,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231453,
       "num": 231453,
       "word": "iOS15.7.5正式版发布",
@@ -34707,6 +34723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 224127,
+      "num": 224127,
+      "word": "范丞丞半裸做俯卧撑",
+      "onboard_time": 1682608770,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224027,
       "num": 224027,
       "word": "罗云熙黑披风",
@@ -34897,6 +34921,14 @@
       "onboard_time": 1680405869,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 222387,
+      "num": 222387,
+      "word": "丫丫到家的第一句祝福",
+      "onboard_time": 1682607751,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222379,
@@ -35137,14 +35169,6 @@
       "onboard_time": 1681191805,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221075,
-      "num": 221075,
-      "word": "新型表白方式 西瓜烂了",
-      "onboard_time": 1682606132,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 220933,
@@ -36601,6 +36625,14 @@
       "onboard_time": 1680961350,
       "rank": 39,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 211694,
+      "num": 211694,
+      "word": "铃铛",
+      "onboard_time": 1682607512,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 211686,
@@ -40563,14 +40595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199407,
-      "num": 199407,
-      "word": "铃铛",
-      "onboard_time": 1682607512,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 199387,
       "num": 199387,
       "word": "杨幂呼吁守护孤独症孩子",
@@ -41145,14 +41169,6 @@
       "onboard_time": 1680877712,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197732,
-      "num": 197732,
-      "word": "丫丫到家的第一句祝福",
-      "onboard_time": 1682607751,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197711,
@@ -47091,6 +47107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176702,
+      "num": 176702,
+      "word": "黄宗泽纪念第一次从香港坐高铁",
+      "onboard_time": 1682608171,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176660,
       "num": 176660,
       "word": "侯明昊找个球场装修篇vlog",
@@ -48393,14 +48417,6 @@
       "onboard_time": 1680606869,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169906,
-      "num": 169906,
-      "word": "Cupid抄袭",
-      "onboard_time": 1682608229,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 169904,
@@ -54875,14 +54891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138433,
-      "num": 138433,
-      "word": "黄宗泽纪念第一次从香港坐高铁",
-      "onboard_time": 1682608171,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138341,
       "num": 138341,
       "word": "李斯丹妮宋妍霏贴面双人舞",
@@ -60185,6 +60193,14 @@
       "onboard_time": 1681556245,
       "rank": 41,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 101253,
+      "num": 118679,
+      "word": "妲己令牌",
+      "onboard_time": 1682608949,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 100895,

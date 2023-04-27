@@ -1,0 +1,410 @@
+{
+  "runTime": 1682609631914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2971437,
+        "num": 2971437,
+        "word": "丫丫到家后近照",
+        "onboard_time": 1682606670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2075268,
+        "num": 2075268,
+        "word": "丫丫回家后吃饭吃得好香",
+        "onboard_time": 1682608409,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14923,
+        "num": 1808589,
+        "word": "五一出行实用贴士",
+        "onboard_time": 1682560405,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1671565,
+        "num": 1671565,
+        "word": "舒淇 内娱美人鱼",
+        "onboard_time": 1682598507,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1511488,
+        "num": 1511488,
+        "word": "乐乐死因报告的情况说明",
+        "onboard_time": 1682599589,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359425,
+        "num": 1359425,
+        "word": "丫丫一到机场就收到了竹子",
+        "onboard_time": 1682594187,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028561,
+        "num": 1028561,
+        "word": "鹿晗纹身像拔罐",
+        "onboard_time": 1682604631,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 690817,
+        "num": 690817,
+        "word": "何超云",
+        "onboard_time": 1682606312,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621219,
+        "num": 621219,
+        "word": "长沙游客不满8根炸串115元被骂穷",
+        "onboard_time": 1682586689,
+        "rank": 8,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 606005,
+        "num": 606005,
+        "word": "GUCCI的四位代言人",
+        "onboard_time": 1682601629,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1550071,
+        "num": 577019,
+        "word": "薛之谦 挤挤就到",
+        "onboard_time": 1682602890,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 536239,
+        "num": 536239,
+        "word": "朋友圈已经没有了生活的痕迹",
+        "onboard_time": 1682603009,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 511685,
+        "num": 511685,
+        "word": "INTO1无效解散",
+        "onboard_time": 1682594187,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493275,
+        "num": 493275,
+        "word": "何猷君亲王嘉尔",
+        "onboard_time": 1682593769,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 460600,
+        "num": 460600,
+        "word": "张彬彬PDD",
+        "onboard_time": 1682604333,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458407,
+        "num": 458407,
+        "word": "丫丫回国后安排",
+        "onboard_time": 1682594909,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439263,
+        "num": 439263,
+        "word": "为什么熟人性侵高发",
+        "onboard_time": 1682607333,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 396008,
+        "num": 396008,
+        "word": "丫丫",
+        "onboard_time": 1682579906,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379239,
+        "num": 379239,
+        "word": "白敬亭不把大家当外人",
+        "onboard_time": 1682605895,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280611,
+        "num": 280611,
+        "word": "青海6名干部聚餐喝酒1人死亡",
+        "onboard_time": 1682600070,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446409,
+        "num": 276999,
+        "word": "没想到整个部门全都离职了",
+        "onboard_time": 1682583446,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314646,
+        "num": 274746,
+        "word": "朱一龙又拿奖了",
+        "onboard_time": 1682604992,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 298387,
+        "num": 273971,
+        "word": "删掉吧为了宋妍霏",
+        "onboard_time": 1682599467,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269981,
+        "num": 269981,
+        "word": "丫丫回国航线熊猫趴飞机上",
+        "onboard_time": 1682583327,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251788,
+        "num": 251788,
+        "word": "江浙沪人已经放弃五一抢票",
+        "onboard_time": 1682553326,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 294572,
+        "num": 251756,
+        "word": "倪妮 好顶的脸",
+        "onboard_time": 1682598028,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251477,
+        "num": 251477,
+        "word": "去世两年后他突然出现在篮球场上",
+        "onboard_time": 1682555368,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 250909,
+        "num": 250909,
+        "word": "长月烬明仙门篇",
+        "onboard_time": 1682600310,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 242470,
+        "num": 242470,
+        "word": "Cupid抄袭",
+        "onboard_time": 1682608229,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238376,
+        "num": 238376,
+        "word": "丫丫专机抵达上海照片",
+        "onboard_time": 1682588909,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231475,
+        "num": 231475,
+        "word": "新型表白方式 西瓜烂了",
+        "onboard_time": 1682606132,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230141,
+        "num": 230141,
+        "word": "因分享无人回应爸爸退了家庭群",
+        "onboard_time": 1682566586,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224127,
+        "num": 224127,
+        "word": "范丞丞半裸做俯卧撑",
+        "onboard_time": 1682608770,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222387,
+        "num": 222387,
+        "word": "丫丫到家的第一句祝福",
+        "onboard_time": 1682607751,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220223,
+        "num": 220223,
+        "word": "职校男生1天被霸凌2次后坠亡",
+        "onboard_time": 1682597368,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211694,
+        "num": 211694,
+        "word": "铃铛",
+        "onboard_time": 1682607512,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181202,
+        "num": 181202,
+        "word": "王俊凯北影节生图",
+        "onboard_time": 1682601750,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1065421,
+        "num": 180182,
+        "word": "青簪行 林更新",
+        "onboard_time": 1682602772,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176702,
+        "num": 176702,
+        "word": "黄宗泽纪念第一次从香港坐高铁",
+        "onboard_time": 1682608171,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176220,
+        "num": 176220,
+        "word": "店家回应115元8个串骂顾客穷",
+        "onboard_time": 1682602469,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160529,
+        "num": 160529,
+        "word": "赵丽颖腿好细",
+        "onboard_time": 1682585250,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154766,
+        "num": 154766,
+        "word": "你最关心丫丫哪些情况",
+        "onboard_time": 1682591429,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153447,
+        "num": 153447,
+        "word": "模仿金卡戴珊的网红心脏骤停死亡",
+        "onboard_time": 1682590349,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144857,
+        "num": 144857,
+        "word": "知乎客服回应推送李玉刚跳河消息",
+        "onboard_time": 1682595688,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 132561,
+        "num": 132561,
+        "word": "宋雨琦鞠婧祎撞衫",
+        "onboard_time": 1682600729,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126570,
+        "num": 126570,
+        "word": "王雷对男一号的执念",
+        "onboard_time": 1682597427,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126128,
+        "num": 126128,
+        "word": "王源巡演剧透",
+        "onboard_time": 1682608049,
+        "rank": 46,
+        "category": "作品衍生,音乐"
+      },
+      {
+        "raw_hot": 118851,
+        "num": 118851,
+        "word": "孩子惊厥送医父亲踹停电梯全家被困",
+        "onboard_time": 1682594368,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101253,
+        "num": 118679,
+        "word": "妲己令牌",
+        "onboard_time": 1682608949,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84196,
+        "num": 118603,
+        "word": "AG季后赛开门红",
+        "onboard_time": 1682605895,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#1035人获全国五一劳动奖章#"
+    }
+  }
+}
