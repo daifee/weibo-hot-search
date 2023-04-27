@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682620425761,
+  "endTime": 1682622833189,
   "band_list": [
     {
       "raw_hot": 2815975,
@@ -443,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41717,
+      "num": 41717,
+      "word": "小伙淄博吃烧烤没排上号老板下跪求谅解",
+      "onboard_time": 1682618716,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37358,
       "num": 37358,
       "word": "接丫丫回家",
@@ -459,12 +467,20 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 30421,
-      "num": 30421,
-      "word": "小伙淄博吃烧烤没排上号老板下跪求谅解",
-      "onboard_time": 1682618716,
-      "rank": 40,
+      "raw_hot": 32797,
+      "num": 32797,
+      "word": "同事结婚行政到工位挨个收礼金",
+      "onboard_time": 1682620454,
+      "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30246,
+      "num": 27542,
+      "word": "GUCCI红毯",
+      "onboard_time": 1682590349,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21096,
