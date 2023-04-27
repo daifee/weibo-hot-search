@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682595220585,
+  "endTime": 1682598752780,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -824,6 +824,14 @@
       "word": "抑郁症女孩凌晨从8楼跳下",
       "onboard_time": 1681872145,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2794570,
+      "num": 2794570,
+      "word": "丫丫一到机场就收到了竹子",
+      "onboard_time": 1682594187,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1993,6 +2001,14 @@
       "onboard_time": 1681975048,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2054189,
+      "num": 2054189,
+      "word": "肖战大开口破洞裤",
+      "onboard_time": 1682596109,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2041902,
@@ -3361,6 +3377,14 @@
       "onboard_time": 1681557865,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1568086,
+      "num": 1568086,
+      "word": "丫丫回国后安排",
+      "onboard_time": 1682594909,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1567668,
@@ -5065,14 +5089,6 @@
       "onboard_time": 1680773430,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1186799,
-      "num": 1186799,
-      "word": "丫丫一到机场就收到了竹子",
-      "onboard_time": 1682594187,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1186629,
@@ -7035,6 +7051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 918630,
+      "num": 918630,
+      "word": "知乎客服回应推送李玉刚跳河消息",
+      "onboard_time": 1682595688,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 918244,
       "num": 918244,
       "word": "马嘉祺丁程鑫暂停一期外务录制",
@@ -7153,6 +7177,14 @@
       "onboard_time": 1681184548,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 909548,
+      "num": 722684,
+      "word": "段奕宏的脸",
+      "onboard_time": 1682597249,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 909281,
@@ -8243,14 +8275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 824978,
-      "num": 824978,
-      "word": "丫丫回国后安排",
-      "onboard_time": 1682594909,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 824838,
       "num": 824838,
       "word": "FPX 没奖",
@@ -8409,6 +8433,14 @@
       "onboard_time": 1680958467,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 813236,
+      "num": 707794,
+      "word": "何猷君亲王嘉尔",
+      "onboard_time": 1682593769,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 812484,
@@ -11947,14 +11979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 613690,
-      "num": 613690,
-      "word": "何猷君亲王嘉尔",
-      "onboard_time": 1682593769,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 613644,
       "num": 329531,
       "word": "银行发现7位数存款5年未动急寻人",
@@ -12713,6 +12737,14 @@
       "onboard_time": 1682319927,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 584351,
+      "num": 584351,
+      "word": "倪妮 好顶的脸",
+      "onboard_time": 1682598028,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 584078,
@@ -20723,6 +20755,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 390865,
+      "num": 156887,
+      "word": "鹿晗西装闪闪发光",
+      "onboard_time": 1682596890,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 390743,
       "num": 390743,
       "word": "leave",
@@ -27835,6 +27875,14 @@
       "category": "科技,音乐"
     },
     {
+      "raw_hot": 284785,
+      "num": 284785,
+      "word": "职校男生1天被霸凌2次后坠亡",
+      "onboard_time": 1682597368,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284774,
       "num": 284774,
       "word": "最省事的男朋友人设",
@@ -27945,6 +27993,14 @@
       "onboard_time": 1680681090,
       "rank": 26,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 283586,
+      "num": 283586,
+      "word": "舒淇 内娱美人鱼",
+      "onboard_time": 1682598507,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 283484,
@@ -28153,6 +28209,14 @@
       "onboard_time": 1681207227,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 281476,
+      "num": 281476,
+      "word": "王雷对男一号的执念",
+      "onboard_time": 1682597427,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281276,
@@ -28809,6 +28873,14 @@
       "onboard_time": 1680764787,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272868,
+      "num": 272868,
+      "word": "武庚纪直播",
+      "onboard_time": 1682597846,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 272700,
@@ -29553,6 +29625,14 @@
       "onboard_time": 1681650988,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264302,
+      "num": 264302,
+      "word": "4月奇趣季",
+      "onboard_time": 1682598388,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 264299,
@@ -32937,6 +33017,14 @@
       "onboard_time": 1682513069,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235210,
+      "num": 235210,
+      "word": "孩子惊厥送医父亲踹停电梯全家被困",
+      "onboard_time": 1682594368,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235186,
@@ -38611,14 +38699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203456,
-      "num": 203456,
-      "word": "孩子惊厥送医父亲踹停电梯全家被困",
-      "onboard_time": 1682594368,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203446,
       "num": 155271,
       "word": "周柏豪武汉",
@@ -40513,6 +40593,14 @@
       "onboard_time": 1680827252,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 198625,
+      "num": 198625,
+      "word": "中奖一千万你会立马离职吗",
+      "onboard_time": 1682595389,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 198619,
@@ -48499,6 +48587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167383,
+      "num": 167383,
+      "word": "明星演唱会预约人数",
+      "onboard_time": 1682595867,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167379,
       "num": 167379,
       "word": "短道速滑冠军赛",
@@ -53075,6 +53171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145486,
+      "num": 145486,
+      "word": "KPL选手心率要爆表了",
+      "onboard_time": 1682597908,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145424,
       "num": 145424,
       "word": "白敬亭青岛上海转场视频",
@@ -54123,6 +54227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140316,
+      "num": 140316,
+      "word": "徐明浩的出场",
+      "onboard_time": 1682598626,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140310,
       "num": 140310,
       "word": "陈伟霆露营办开鸡仪式",
@@ -54273,6 +54385,14 @@
       "onboard_time": 1682377639,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139469,
+      "num": 139469,
+      "word": "宋佳羊毛卷",
+      "onboard_time": 1682598447,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139418,
@@ -60755,6 +60875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89894,
+      "num": 131944,
+      "word": "誓约道歉",
+      "onboard_time": 1682598507,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 89721,
       "num": 98888,
       "word": "严浩翔穿军装",
@@ -62561,6 +62689,14 @@
       "onboard_time": 1681509913,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43127,
+      "num": 525882,
+      "word": "女明星仿妆速学",
+      "onboard_time": 1682596828,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 42917,

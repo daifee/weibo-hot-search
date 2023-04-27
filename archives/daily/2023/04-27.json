@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682595220585,
+  "endTime": 1682598752780,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -40,6 +40,14 @@
       "word": "38岁985硕士失业被迫送外卖",
       "onboard_time": 1682571268,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2794570,
+      "num": 2794570,
+      "word": "丫丫一到机场就收到了竹子",
+      "onboard_time": 1682594187,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 2054189,
+      "num": 2054189,
+      "word": "肖战大开口破洞裤",
+      "onboard_time": 1682596109,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2015324,
       "num": 853796,
       "word": "惠州奔现",
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1568086,
+      "num": 1568086,
+      "word": "丫丫回国后安排",
+      "onboard_time": 1682594909,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1496491,
       "num": 1496491,
       "word": "求职者嫌8000工资高要求降到2000",
@@ -169,14 +193,6 @@
       "onboard_time": 1682594187,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1186799,
-      "num": 1186799,
-      "word": "丫丫一到机场就收到了竹子",
-      "onboard_time": 1682594187,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1177281,
@@ -267,6 +283,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 918630,
+      "num": 918630,
+      "word": "知乎客服回应推送李玉刚跳河消息",
+      "onboard_time": 1682595688,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 909548,
+      "num": 722684,
+      "word": "段奕宏的脸",
+      "onboard_time": 1682597249,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 904486,
       "num": 904486,
       "word": "丫丫回国航线熊猫趴飞机上",
@@ -291,12 +323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 824978,
-      "num": 824978,
-      "word": "丫丫回国后安排",
-      "onboard_time": 1682594909,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 813236,
+      "num": 707794,
+      "word": "何猷君亲王嘉尔",
+      "onboard_time": 1682593769,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 731924,
@@ -363,14 +395,6 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 613690,
-      "num": 613690,
-      "word": "何猷君亲王嘉尔",
-      "onboard_time": 1682593769,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 608065,
       "num": 608065,
       "word": "杭州6万一晚酒店没有涨价",
@@ -385,6 +409,14 @@
       "onboard_time": 1682559265,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 584351,
+      "num": 584351,
+      "word": "倪妮 好顶的脸",
+      "onboard_time": 1682598028,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 567380,
@@ -675,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 390865,
+      "num": 156887,
+      "word": "鹿晗西装闪闪发光",
+      "onboard_time": 1682596890,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 388673,
       "num": 388673,
       "word": "叶冰裳下线",
@@ -931,6 +971,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 284785,
+      "num": 284785,
+      "word": "职校男生1天被霸凌2次后坠亡",
+      "onboard_time": 1682597368,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283586,
+      "num": 283586,
+      "word": "舒淇 内娱美人鱼",
+      "onboard_time": 1682598507,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 283248,
       "num": 283248,
       "word": "SEVENTEEN孙悟空初舞台",
@@ -955,12 +1011,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281476,
+      "num": 281476,
+      "word": "王雷对男一号的执念",
+      "onboard_time": 1682597427,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 273410,
       "num": 273410,
       "word": "梅姨",
       "onboard_time": 1682578887,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272868,
+      "num": 272868,
+      "word": "武庚纪直播",
+      "onboard_time": 1682597846,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 271334,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1682539571,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 264302,
+      "num": 264302,
+      "word": "4月奇趣季",
+      "onboard_time": 1682598388,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 264247,
@@ -1163,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235210,
+      "num": 235210,
+      "word": "孩子惊厥送医父亲踹停电梯全家被困",
+      "onboard_time": 1682594368,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234699,
       "num": 234699,
       "word": "阿根廷将使用人民币结算中国进口商品",
@@ -1307,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203456,
-      "num": 203456,
-      "word": "孩子惊厥送医父亲踹停电梯全家被困",
-      "onboard_time": 1682594368,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203325,
       "num": 203325,
       "word": "不考虑收入你最想做什么工作",
@@ -1353,6 +1433,14 @@
       "onboard_time": 1682569952,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198625,
+      "num": 198625,
+      "word": "中奖一千万你会立马离职吗",
+      "onboard_time": 1682595389,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 198085,
@@ -1603,6 +1691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167383,
+      "num": 167383,
+      "word": "明星演唱会预约人数",
+      "onboard_time": 1682595867,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167118,
       "num": 167118,
       "word": "惊天救援",
@@ -1747,6 +1843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145486,
+      "num": 145486,
+      "word": "KPL选手心率要爆表了",
+      "onboard_time": 1682597908,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144696,
       "num": 144696,
       "word": "哈哈哈哈哈",
@@ -1795,6 +1899,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 140316,
+      "num": 140316,
+      "word": "徐明浩的出场",
+      "onboard_time": 1682598626,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139959,
       "num": 139959,
       "word": "段宜恩去了王嘉尔演唱会",
@@ -1809,6 +1921,14 @@
       "onboard_time": 1682558485,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139469,
+      "num": 139469,
+      "word": "宋佳羊毛卷",
+      "onboard_time": 1682598447,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 138573,
@@ -2139,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89894,
+      "num": 131944,
+      "word": "誓约道歉",
+      "onboard_time": 1682598507,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88757,
       "num": 88757,
       "word": "甄嬛传播出十年孙俪才意识到很火",
@@ -2207,6 +2335,14 @@
       "num": 419283,
       "word": "超上镜妆造",
       "onboard_time": 1682568747,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 43127,
+      "num": 525882,
+      "word": "女明星仿妆速学",
+      "onboard_time": 1682596828,
       "rank": 14,
       "category": "美妆"
     },
