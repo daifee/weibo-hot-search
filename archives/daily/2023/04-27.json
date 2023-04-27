@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682591671503,
+  "endTime": 1682594063389,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506907,
+      "num": 506907,
+      "word": "上海动物园",
+      "onboard_time": 1682589686,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503089,
       "num": 503089,
       "word": "尹浩宇疑似被延迟上学",
@@ -443,11 +451,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 493029,
+      "num": 493029,
+      "word": "模仿金卡戴珊的网红心脏骤停死亡",
+      "onboard_time": 1682590349,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 491440,
       "num": 491440,
       "word": "丫丫将落地上海",
       "onboard_time": 1682560288,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491012,
+      "num": 491012,
+      "word": "丫丫专机抵达上海照片",
+      "onboard_time": 1682588909,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 457431,
-      "num": 244468,
+      "num": 281040,
       "word": "你最关心丫丫哪些情况",
       "onboard_time": 1682591429,
       "rank": 30,
@@ -497,14 +521,6 @@
       "onboard_time": 1682587889,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 447703,
-      "num": 447703,
-      "word": "丫丫专机抵达上海照片",
-      "onboard_time": 1682588909,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445869,
@@ -537,6 +553,14 @@
       "onboard_time": 1682579608,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 417605,
+      "num": 417605,
+      "word": "张元英姐姐撞脸周雨彤",
+      "onboard_time": 1682590408,
+      "rank": 37,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 411231,
@@ -603,14 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 399484,
-      "num": 399484,
-      "word": "模仿金卡戴珊的网红心脏骤停死亡",
-      "onboard_time": 1682590349,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 395779,
       "num": 395779,
       "word": "爱情公寓雷哥改戏",
@@ -673,14 +689,6 @@
       "onboard_time": 1682561485,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369190,
-      "num": 369190,
-      "word": "张元英姐姐撞脸周雨彤",
-      "onboard_time": 1682590408,
-      "rank": 37,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 366636,
@@ -795,6 +803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308355,
+      "num": 308355,
+      "word": "星穹铁道",
+      "onboard_time": 1682593468,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 306640,
       "num": 226652,
       "word": "张新成手臂上的疤痕",
@@ -835,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291525,
+      "num": 2365312,
+      "word": "淄博用热情来拥抱每一位朋友",
+      "onboard_time": 1682589026,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289517,
       "num": 289517,
       "word": "女生厕所遇代孕广告用贴纸遮盖",
@@ -867,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283248,
+      "num": 283248,
+      "word": "SEVENTEEN孙悟空初舞台",
+      "onboard_time": 1682592210,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 282062,
       "num": 282062,
       "word": "吴磊虞书欣 黑莲花",
@@ -883,12 +915,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276286,
-      "num": 276286,
-      "word": "上海动物园",
-      "onboard_time": 1682589686,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 279060,
+      "num": 279060,
+      "word": "郑州大妈喊王一博来吃樱桃",
+      "onboard_time": 1682593648,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 273410,
@@ -1011,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252322,
+      "num": 252322,
+      "word": "沧九旻黎苏苏44秒吻戏",
+      "onboard_time": 1682589448,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 250462,
       "num": 250462,
       "word": "任嘉伦袁冰妍或将主演千香引",
@@ -1027,20 +1067,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245133,
-      "num": 245133,
-      "word": "沧九旻黎苏苏44秒吻戏",
-      "onboard_time": 1682589448,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243069,
       "num": 243069,
       "word": "拿什么衣服迎接酷暑",
       "onboard_time": 1682587770,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242532,
+      "num": 242532,
+      "word": "家里千万不要留快递纸盒",
+      "onboard_time": 1682591191,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 241748,
@@ -1064,6 +1104,22 @@
       "word": "王一博长空之王预售票房破亿海报",
       "onboard_time": 1682571091,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 235801,
+      "num": 235801,
+      "word": "张婧仪高中时旧照",
+      "onboard_time": 1682590108,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 234729,
+      "num": 234729,
+      "word": "王雷西北锤王",
+      "onboard_time": 1682593049,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -1131,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222149,
+      "num": 222149,
+      "word": "何猷君亲王嘉尔",
+      "onboard_time": 1682593769,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222130,
       "num": 222130,
       "word": "灰熊2比3湖人",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1682551764,
       "rank": 46,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 211549,
+      "num": 211549,
+      "word": "航迹图展示丫丫万里归途",
+      "onboard_time": 1682592752,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211292,
@@ -1323,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187395,
+      "num": 187395,
+      "word": "恋与制作人",
+      "onboard_time": 1682592628,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186395,
       "num": 186395,
       "word": "吴宣仪许佳琪杭州街头舞狮",
@@ -1395,6 +1475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180390,
+      "num": 180390,
+      "word": "网友骗爸爸王鹤棣是自己男朋友",
+      "onboard_time": 1682592990,
+      "rank": 44,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 180321,
       "num": 180321,
       "word": "如何用手机检查针孔摄像头",
@@ -1443,28 +1531,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 174500,
-      "num": 2365312,
-      "word": "淄博用热情来拥抱每一位朋友",
-      "onboard_time": 1682589026,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173645,
       "num": 173645,
       "word": "分不清是萧敬腾还是钟楚曦",
       "onboard_time": 1682519010,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173168,
-      "num": 173168,
-      "word": "张婧仪高中时旧照",
-      "onboard_time": 1682590108,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 172182,
@@ -1643,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144656,
+      "num": 144656,
+      "word": "奚梦瑶的身材比例",
+      "onboard_time": 1682592210,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143712,
       "num": 1922414,
       "word": "卧病在床的父亲给女儿梳头发",
@@ -1713,14 +1793,6 @@
       "onboard_time": 1682587709,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136978,
-      "num": 136978,
-      "word": "家里千万不要留快递纸盒",
-      "onboard_time": 1682591191,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 134186,

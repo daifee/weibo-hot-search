@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682591671503,
+  "endTime": 1682594063389,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1787,6 +1787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 506907,
+      "num": 506907,
+      "word": "上海动物园",
+      "onboard_time": 1682589686,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503577,
       "num": 503577,
       "word": "太阳Lisa新歌shoong",
@@ -1899,6 +1907,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 493029,
+      "num": 493029,
+      "word": "模仿金卡戴珊的网红心脏骤停死亡",
+      "onboard_time": 1682590349,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 491642,
       "num": 491642,
       "word": "拜登正式宣布竞选连任美国总统",
@@ -1912,6 +1928,14 @@
       "word": "丫丫将落地上海",
       "onboard_time": 1682560288,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491012,
+      "num": 491012,
+      "word": "丫丫专机抵达上海照片",
+      "onboard_time": 1682588909,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2196,7 +2220,7 @@
     },
     {
       "raw_hot": 457431,
-      "num": 244468,
+      "num": 281040,
       "word": "你最关心丫丫哪些情况",
       "onboard_time": 1682591429,
       "rank": 30,
@@ -2265,14 +2289,6 @@
       "onboard_time": 1682514387,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 447703,
-      "num": 447703,
-      "word": "丫丫专机抵达上海照片",
-      "onboard_time": 1682588909,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 446856,
@@ -2515,6 +2531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 417605,
+      "num": 417605,
+      "word": "张元英姐姐撞脸周雨彤",
+      "onboard_time": 1682590408,
+      "rank": 37,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 416183,
       "num": 416183,
       "word": "杨幂军装路透",
@@ -2673,14 +2697,6 @@
       "onboard_time": 1682575289,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 399484,
-      "num": 399484,
-      "word": "模仿金卡戴珊的网红心脏骤停死亡",
-      "onboard_time": 1682590349,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 398794,
@@ -2905,14 +2921,6 @@
       "onboard_time": 1682561485,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 369190,
-      "num": 369190,
-      "word": "张元英姐姐撞脸周雨彤",
-      "onboard_time": 1682590408,
-      "rank": 37,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 368959,
@@ -3603,6 +3611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 308355,
+      "num": 308355,
+      "word": "星穹铁道",
+      "onboard_time": 1682412628,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307581,
       "num": 307581,
       "word": "梁静茹说看去有风的地方哭得一塌糊涂",
@@ -3739,6 +3755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 291525,
+      "num": 2365312,
+      "word": "淄博用热情来拥抱每一位朋友",
+      "onboard_time": 1682589026,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291092,
       "num": 291092,
       "word": "新形式的赘婿",
@@ -3851,6 +3875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283248,
+      "num": 283248,
+      "word": "SEVENTEEN孙悟空初舞台",
+      "onboard_time": 1682592210,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 282436,
       "num": 282436,
       "word": "蒜香西瓜",
@@ -3883,6 +3915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279060,
+      "num": 279060,
+      "word": "郑州大妈喊王一博来吃樱桃",
+      "onboard_time": 1682593648,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279007,
       "num": 279007,
       "word": "武汉多地标惊现游戏NPC打卡",
@@ -3911,14 +3951,6 @@
       "num": 1271403,
       "word": "女子火灾中安全转移两小孩后不幸遇难",
       "onboard_time": 1682414607,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276286,
-      "num": 276286,
-      "word": "上海动物园",
-      "onboard_time": 1682589686,
       "rank": 39,
       "category": "社会新闻"
     },
@@ -4403,6 +4435,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 252322,
+      "num": 252322,
+      "word": "沧九旻黎苏苏44秒吻戏",
+      "onboard_time": 1682589448,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 252135,
       "num": 252135,
       "word": "SEVENTEEN新歌",
@@ -4531,14 +4571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245133,
-      "num": 245133,
-      "word": "沧九旻黎苏苏44秒吻戏",
-      "onboard_time": 1682589448,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 245022,
       "num": 227503,
       "word": "田柾国发型可爱",
@@ -4616,6 +4648,14 @@
       "word": "试用期的最后一天被辞退了",
       "onboard_time": 1682475806,
       "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 242532,
+      "num": 242532,
+      "word": "家里千万不要留快递纸盒",
+      "onboard_time": 1682591191,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -4755,11 +4795,27 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 235801,
+      "num": 235801,
+      "word": "张婧仪高中时旧照",
+      "onboard_time": 1682590108,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235220,
       "num": 213181,
       "word": "范丞丞预定张婧仪做MV女主",
       "onboard_time": 1682513069,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 234729,
+      "num": 234729,
+      "word": "王雷西北锤王",
+      "onboard_time": 1682593049,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -4977,6 +5033,14 @@
       "onboard_time": 1682420248,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222149,
+      "num": 222149,
+      "word": "何猷君亲王嘉尔",
+      "onboard_time": 1682593769,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 222130,
@@ -5217,6 +5281,14 @@
       "onboard_time": 1682334928,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211549,
+      "num": 211549,
+      "word": "航迹图展示丫丫万里归途",
+      "onboard_time": 1682592752,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211292,
@@ -6043,6 +6115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187395,
+      "num": 187395,
+      "word": "恋与制作人",
+      "onboard_time": 1682592628,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187245,
       "num": 187245,
       "word": "人生路不熟终极预告",
@@ -6347,6 +6427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180390,
+      "num": 180390,
+      "word": "网友骗爸爸王鹤棣是自己男朋友",
+      "onboard_time": 1682592990,
+      "rank": 44,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 180321,
       "num": 180321,
       "word": "如何用手机检查针孔摄像头",
@@ -6523,14 +6611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174500,
-      "num": 2365312,
-      "word": "淄博用热情来拥抱每一位朋友",
-      "onboard_time": 1682589026,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174331,
       "num": 143586,
       "word": "闵玧其说李知勋像是他走失的弟弟",
@@ -6561,14 +6641,6 @@
       "onboard_time": 1682333668,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 173168,
-      "num": 173168,
-      "word": "张婧仪高中时旧照",
-      "onboard_time": 1682590108,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 173012,
@@ -7539,6 +7611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144656,
+      "num": 144656,
+      "word": "奚梦瑶的身材比例",
+      "onboard_time": 1682592210,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144150,
       "num": 144150,
       "word": "谭维维把伴娘红包都给了刘昊然",
@@ -7793,14 +7873,6 @@
       "onboard_time": 1682587709,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136978,
-      "num": 136978,
-      "word": "家里千万不要留快递纸盒",
-      "onboard_time": 1682591191,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 135829,
@@ -8769,14 +8841,6 @@
       "onboard_time": 1682264970,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 90230,
-      "num": 120258,
-      "word": "星穹铁道",
-      "onboard_time": 1682412628,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 89646,
