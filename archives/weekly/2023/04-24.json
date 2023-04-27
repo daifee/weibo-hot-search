@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682563445294,
+  "endTime": 1682565500882,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -1227,6 +1227,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 610570,
+      "num": 610570,
+      "word": "很烧钱但又戒不掉的爱好",
+      "onboard_time": 1682559206,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 609003,
       "num": 390288,
       "word": "冷屁股 屁门",
@@ -1369,14 +1377,6 @@
       "onboard_time": 1682341770,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575937,
-      "num": 575937,
-      "word": "很烧钱但又戒不掉的爱好",
-      "onboard_time": 1682559206,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 568935,
@@ -1665,6 +1665,14 @@
       "onboard_time": 1682419167,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 491440,
+      "num": 491440,
+      "word": "丫丫将落地上海",
+      "onboard_time": 1682560288,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488882,
@@ -1977,14 +1985,6 @@
       "onboard_time": 1682514387,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 449323,
-      "num": 449323,
-      "word": "丫丫将落地上海",
-      "onboard_time": 1682560288,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 446856,
@@ -2721,6 +2721,14 @@
       "onboard_time": 1682303605,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 344020,
+      "num": 344020,
+      "word": "宝格丽明星慢镜头",
+      "onboard_time": 1682564246,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 341194,
@@ -3825,6 +3833,14 @@
       "onboard_time": 1682313211,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252894,
+      "num": 252894,
+      "word": "上海事业单位",
+      "onboard_time": 1682564126,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 252561,
@@ -5131,6 +5147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 190345,
+      "num": 190345,
+      "word": "华人哽咽喊话丫丫路上别害怕",
+      "onboard_time": 1682561005,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190320,
       "num": 190320,
       "word": "澹台烬更名沧九旻",
@@ -5233,6 +5257,14 @@
       "onboard_time": 1682503348,
       "rank": 31,
       "category": "科技"
+    },
+    {
+      "raw_hot": 187898,
+      "num": 183373,
+      "word": "被幼儿园的户外活动惊到了",
+      "onboard_time": 1682563645,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 187885,
@@ -5387,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183467,
+      "num": 183467,
+      "word": "CL上海",
+      "onboard_time": 1682562206,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183291,
       "num": 168393,
       "word": "时代少年团海口演唱会有中控",
@@ -5417,14 +5457,6 @@
       "onboard_time": 1682410526,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 182589,
-      "num": 182589,
-      "word": "华人哽咽喊话丫丫路上别害怕",
-      "onboard_time": 1682561005,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182568,
@@ -5489,6 +5521,14 @@
       "onboard_time": 1682511149,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180483,
+      "num": 180483,
+      "word": "天赐全员灵魂画手",
+      "onboard_time": 1682565025,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 179982,
@@ -6267,6 +6307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150711,
+      "num": 150711,
+      "word": "易烊千玺胶片感音乐短片",
+      "onboard_time": 1682563949,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150643,
       "num": 150643,
       "word": "SEVENTEEN创Melon历代第一",
@@ -6379,6 +6427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147161,
+      "num": 147161,
+      "word": "雷宇怕狗",
+      "onboard_time": 1682565264,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 147058,
       "num": 147058,
       "word": "应届毕业生的身份有多值钱",
@@ -6425,14 +6481,6 @@
       "onboard_time": 1682370731,
       "rank": 47,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 146589,
-      "num": 146589,
-      "word": "CL上海",
-      "onboard_time": 1682562206,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 146487,
@@ -6489,6 +6537,14 @@
       "onboard_time": 1682511086,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145518,
+      "num": 145518,
+      "word": "光遇夜行季",
+      "onboard_time": 1682564965,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 145507,
@@ -7043,6 +7099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125923,
+      "num": 125923,
+      "word": "丫丫的回国航线",
+      "onboard_time": 1682560766,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125504,
       "num": 125504,
       "word": "耄耋老人为一群特殊孩子再创业",
@@ -7057,14 +7121,6 @@
       "onboard_time": 1682414969,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124904,
-      "num": 124904,
-      "word": "丫丫的回国航线",
-      "onboard_time": 1682560766,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124524,
@@ -7177,6 +7233,14 @@
       "onboard_time": 1682251231,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120482,
+      "num": 120482,
+      "word": "深圳移动",
+      "onboard_time": 1682564728,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120139,
@@ -7361,6 +7425,14 @@
       "onboard_time": 1682325266,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108739,
+      "num": 123785,
+      "word": "去西北旅行人均摄影大师",
+      "onboard_time": 1682563286,
+      "rank": 46,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 108566,
@@ -7561,14 +7633,6 @@
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97720,
-      "num": 123785,
-      "word": "去西北旅行人均摄影大师",
-      "onboard_time": 1682563286,
-      "rank": 46,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 97712,
