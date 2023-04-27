@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682560037771,
+  "endTime": 1682562899566,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1195,6 +1195,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 2460057,
+      "num": 2460057,
+      "word": "李玉刚 知乎",
+      "onboard_time": 1682560047,
+      "rank": 0,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 2455752,
       "num": 2455752,
       "word": "新冠病毒可能来源于人类",
@@ -1627,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2156457,
+      "num": 2156457,
+      "word": "去世两年后他突然出现在篮球场上",
+      "onboard_time": 1682555368,
+      "rank": 1,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 2155605,
       "num": 382295,
       "word": "宝马mini两名发冰淇淋女生已离职",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1680743188,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1988814,
-      "num": 1988814,
-      "word": "去世两年后他突然出现在篮球场上",
-      "onboard_time": 1682555368,
-      "rank": 1,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 1988084,
@@ -6011,6 +6019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1014671,
+      "num": 470063,
+      "word": "奚梦瑶回应去深圳不是上课是上班",
+      "onboard_time": 1682559926,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1013441,
       "num": 1013441,
       "word": "陈都灵方否认恶意炒作",
@@ -6856,6 +6872,14 @@
       "word": "罗云熙发文在线求食谱",
       "onboard_time": 1680866609,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 919235,
+      "num": 789375,
+      "word": "惊天救援北大事件学生投稿",
+      "onboard_time": 1682559147,
+      "rank": 5,
       "category": "影视"
     },
     {
@@ -8473,14 +8497,6 @@
       "onboard_time": 1681355309,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 789375,
-      "num": 789375,
-      "word": "惊天救援北大事件学生投稿",
-      "onboard_time": 1682559147,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 787481,
@@ -10443,6 +10459,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 670616,
+      "num": 670616,
+      "word": "24岁女工猝死公司称其自愿加班",
+      "onboard_time": 1682559265,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670149,
       "num": 670149,
       "word": "陕西一教师自称贿赂领导被逼自杀",
@@ -12137,6 +12161,14 @@
       "onboard_time": 1682319509,
       "rank": 9,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 594315,
+      "num": 594315,
+      "word": "妲己青丘九尾新皮肤",
+      "onboard_time": 1682559265,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 593416,
@@ -15387,6 +15419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 488166,
+      "num": 488166,
+      "word": "舒淇 岁月不败美人",
+      "onboard_time": 1682558906,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 488152,
       "num": 488152,
       "word": "假如小兰不和新一在一起",
@@ -16035,6 +16075,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 474377,
+      "num": 474377,
+      "word": "很烧钱但又戒不掉的爱好",
+      "onboard_time": 1682559206,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 473940,
       "num": 473940,
       "word": "爱情而已3分钟变成30秒",
@@ -16353,6 +16401,14 @@
       "onboard_time": 1681563327,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 465205,
+      "num": 465205,
+      "word": "尹浩宇疑似被延迟上学",
+      "onboard_time": 1682560225,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 465143,
@@ -17811,14 +17867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 431757,
-      "num": 350385,
-      "word": "奚梦瑶回应去深圳不是上课是上班",
-      "onboard_time": 1682559926,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 431731,
       "num": 309215,
       "word": "崔杋圭撞脸宋亚轩",
@@ -19105,6 +19153,14 @@
       "onboard_time": 1681369708,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 409875,
+      "num": 409875,
+      "word": "丫丫将落地上海",
+      "onboard_time": 1682560288,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409800,
@@ -24931,6 +24987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314646,
+      "num": 314646,
+      "word": "扬州地震",
+      "onboard_time": 1682561485,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314637,
       "num": 314637,
       "word": "上班喝咖啡连驴都不如",
@@ -25329,14 +25393,6 @@
       "onboard_time": 1680698012,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 308412,
-      "num": 308412,
-      "word": "舒淇 岁月不败美人",
-      "onboard_time": 1682558906,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 308275,
@@ -28403,6 +28459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270339,
+      "num": 270339,
+      "word": "iPhone15Pro渲染图曝光",
+      "onboard_time": 1682558607,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 270313,
       "num": 203441,
       "word": "刘涛路透状态",
@@ -28859,14 +28923,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264996,
-      "num": 264996,
-      "word": "24岁女工猝死公司称其自愿加班",
-      "onboard_time": 1682559265,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264709,
       "num": 264709,
       "word": "朴彩英眼妆好漂亮",
@@ -28913,6 +28969,14 @@
       "onboard_time": 1680857008,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264247,
+      "num": 264247,
+      "word": "熊猫图标",
+      "onboard_time": 1682561966,
+      "rank": 24,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 264219,
@@ -29345,6 +29409,14 @@
       "onboard_time": 1682145207,
       "rank": 47,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 260238,
+      "num": 260238,
+      "word": "如何不提雨字描述雨很大",
+      "onboard_time": 1682560825,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 259986,
@@ -30635,14 +30707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 248262,
-      "num": 248262,
-      "word": "很烧钱但又戒不掉的爱好",
-      "onboard_time": 1682559206,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 248131,
       "num": 248131,
       "word": "四川人民主打一个大义灭亲",
@@ -30777,14 +30841,6 @@
       "onboard_time": 1682315608,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246473,
-      "num": 246473,
-      "word": "iPhone15Pro渲染图曝光",
-      "onboard_time": 1682558607,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 246457,
@@ -31321,6 +31377,14 @@
       "onboard_time": 1681037065,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 242480,
+      "num": 242480,
+      "word": "曹县货车司机20年挣4套房",
+      "onboard_time": 1682561365,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 242416,
@@ -33827,6 +33891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222130,
+      "num": 222130,
+      "word": "灰熊2比3湖人",
+      "onboard_time": 1682561607,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222101,
       "num": 222101,
       "word": "王一博雷宇以为在夸自己英俊",
@@ -34169,14 +34241,6 @@
       "onboard_time": 1682411787,
       "rank": 32,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 220214,
-      "num": 220214,
-      "word": "妲己青丘九尾新皮肤",
-      "onboard_time": 1682559265,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 220152,
@@ -39153,6 +39217,14 @@
       "onboard_time": 1680926367,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199849,
+      "num": 199849,
+      "word": "湖人 头孢教练",
+      "onboard_time": 1682561847,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 199844,
@@ -44585,6 +44657,14 @@
       "onboard_time": 1681140390,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182589,
+      "num": 182589,
+      "word": "华人哽咽喊话丫丫路上别害怕",
+      "onboard_time": 1682561005,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182568,
@@ -53355,6 +53435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137676,
+      "num": 137676,
+      "word": "CL上海",
+      "onboard_time": 1682562206,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137592,
       "num": 137592,
       "word": "热火逆转战胜公牛",
@@ -55563,6 +55651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124904,
+      "num": 124904,
+      "word": "丫丫的回国航线",
+      "onboard_time": 1682560766,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124851,
       "num": 124851,
       "word": "程潇了不起舞社小白船舞台",
@@ -56873,6 +56969,14 @@
       "onboard_time": 1682488980,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114166,
+      "num": 114166,
+      "word": "7岁男孩教科书式救回落水儿童",
+      "onboard_time": 1682560166,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 113952,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682560037771,
+  "endTime": 1682562899566,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -131,6 +131,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 2460057,
+      "num": 2460057,
+      "word": "李玉刚 知乎",
+      "onboard_time": 1682560047,
+      "rank": 0,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 2434479,
       "num": 1103236,
       "word": "东南大学一领导被曝工作群发色情照",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2156457,
+      "num": 2156457,
+      "word": "去世两年后他突然出现在篮球场上",
+      "onboard_time": 1682555368,
+      "rank": 1,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 2146984,
       "num": 2142034,
       "word": "女网红被丈夫杀害藏尸冰柜案宣判",
@@ -233,14 +249,6 @@
       "onboard_time": 1682425767,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1988814,
-      "num": 1988814,
-      "word": "去世两年后他突然出现在篮球场上",
-      "onboard_time": 1682555368,
-      "rank": 1,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 1974616,
@@ -803,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014671,
+      "num": 470063,
+      "word": "奚梦瑶回应去深圳不是上课是上班",
+      "onboard_time": 1682559926,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1013092,
       "num": 600421,
       "word": "舅舅私吞孤儿外甥女百万遗产救助金",
@@ -873,6 +889,14 @@
       "onboard_time": 1682336187,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 919235,
+      "num": 789375,
+      "word": "惊天救援北大事件学生投稿",
+      "onboard_time": 1682559147,
+      "rank": 5,
+      "category": "影视"
     },
     {
       "raw_hot": 913096,
@@ -993,14 +1017,6 @@
       "onboard_time": 1682296469,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 789375,
-      "num": 789375,
-      "word": "惊天救援北大事件学生投稿",
-      "onboard_time": 1682559147,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 785742,
@@ -1147,6 +1163,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 670616,
+      "num": 670616,
+      "word": "24岁女工猝死公司称其自愿加班",
+      "onboard_time": 1682559265,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658002,
       "num": 658002,
       "word": "罗云熙演技",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1682319509,
       "rank": 9,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 594315,
+      "num": 594315,
+      "word": "妲己青丘九尾新皮肤",
+      "onboard_time": 1682559265,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 592791,
@@ -1619,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488166,
+      "num": 488166,
+      "word": "舒淇 岁月不败美人",
+      "onboard_time": 1682558906,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 486122,
       "num": 486122,
       "word": "车银优给文彬的留言",
@@ -1763,6 +1803,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 474377,
+      "num": 474377,
+      "word": "很烧钱但又戒不掉的爱好",
+      "onboard_time": 1682559206,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 472751,
       "num": 278525,
       "word": "你能否接受对象有过同居史",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1682523088,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 465205,
+      "num": 465205,
+      "word": "尹浩宇疑似被延迟上学",
+      "onboard_time": 1682560225,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 465143,
@@ -2051,14 +2107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 431757,
-      "num": 350385,
-      "word": "奚梦瑶回应去深圳不是上课是上班",
-      "onboard_time": 1682559926,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 429084,
       "num": 429084,
       "word": "萌兰",
@@ -2217,6 +2265,14 @@
       "onboard_time": 1682332049,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 409875,
+      "num": 409875,
+      "word": "丫丫将落地上海",
+      "onboard_time": 1682560288,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405319,
@@ -2979,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314646,
+      "num": 314646,
+      "word": "扬州地震",
+      "onboard_time": 1682561485,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314637,
       "num": 314637,
       "word": "上班喝咖啡连驴都不如",
@@ -3065,14 +3129,6 @@
       "onboard_time": 1682385808,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308412,
-      "num": 308412,
-      "word": "舒淇 岁月不败美人",
-      "onboard_time": 1682558906,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 307581,
@@ -3411,6 +3467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270339,
+      "num": 270339,
+      "word": "iPhone15Pro渲染图曝光",
+      "onboard_time": 1682558607,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 269295,
       "num": 269295,
       "word": "长月烬明女性角色",
@@ -3507,20 +3571,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264996,
-      "num": 264996,
-      "word": "24岁女工猝死公司称其自愿加班",
-      "onboard_time": 1682559265,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264299,
       "num": 264299,
       "word": "原来傻妞是澹台烬做的",
       "onboard_time": 1682322808,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 264247,
+      "num": 264247,
+      "word": "熊猫图标",
+      "onboard_time": 1682561966,
+      "rank": 24,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 262582,
@@ -3577,6 +3641,14 @@
       "onboard_time": 1682398651,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260238,
+      "num": 260238,
+      "word": "如何不提雨字描述雨很大",
+      "onboard_time": 1682560825,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 258971,
@@ -3835,14 +3907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248262,
-      "num": 248262,
-      "word": "很烧钱但又戒不掉的爱好",
-      "onboard_time": 1682559206,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 246607,
       "num": 265176,
       "word": "大熊猫萌兰反向给游客投喂竹子",
@@ -3857,14 +3921,6 @@
       "onboard_time": 1682315608,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 246473,
-      "num": 246473,
-      "word": "iPhone15Pro渲染图曝光",
-      "onboard_time": 1682558607,
-      "rank": 48,
-      "category": "科技"
     },
     {
       "raw_hot": 246181,
@@ -3961,6 +4017,14 @@
       "onboard_time": 1682475806,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242480,
+      "num": 242480,
+      "word": "曹县货车司机20年挣4套房",
+      "onboard_time": 1682561365,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 242281,
@@ -4251,6 +4315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 222130,
+      "num": 222130,
+      "word": "灰熊2比3湖人",
+      "onboard_time": 1682561607,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222101,
       "num": 222101,
       "word": "王一博雷宇以为在夸自己英俊",
@@ -4313,14 +4385,6 @@
       "onboard_time": 1682411787,
       "rank": 32,
       "category": "影视,幽默"
-    },
-    {
-      "raw_hot": 220214,
-      "num": 220214,
-      "word": "妲己青丘九尾新皮肤",
-      "onboard_time": 1682559265,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 219477,
@@ -4737,6 +4801,14 @@
       "onboard_time": 1682483611,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199849,
+      "num": 199849,
+      "word": "湖人 头孢教练",
+      "onboard_time": 1682561847,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 199424,
@@ -5331,6 +5403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 182589,
+      "num": 182589,
+      "word": "华人哽咽喊话丫丫路上别害怕",
+      "onboard_time": 1682561005,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182568,
       "num": 182568,
       "word": "云襄传OST官宣",
@@ -5393,6 +5473,14 @@
       "onboard_time": 1682511149,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180536,
+      "num": 180536,
+      "word": "不良人",
+      "onboard_time": 1682562688,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 179982,
@@ -6619,6 +6707,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 137676,
+      "num": 137676,
+      "word": "CL上海",
+      "onboard_time": 1682562206,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137255,
       "num": 154947,
       "word": "喜欢夏天的有福了",
@@ -6955,6 +7051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124904,
+      "num": 124904,
+      "word": "丫丫的回国航线",
+      "onboard_time": 1682560766,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124524,
       "num": 510481,
       "word": "张朝阳物理学解构折叠屏",
@@ -7169,6 +7273,14 @@
       "onboard_time": 1682488980,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114166,
+      "num": 114166,
+      "word": "7岁男孩教科书式救回落水儿童",
+      "onboard_time": 1682560166,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 113503,

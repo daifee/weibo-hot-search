@@ -1,7 +1,23 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682560037771,
+  "endTime": 1682562899566,
   "band_list": [
+    {
+      "raw_hot": 2460057,
+      "num": 2460057,
+      "word": "李玉刚 知乎",
+      "onboard_time": 1682560047,
+      "rank": 0,
+      "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 2156457,
+      "num": 2156457,
+      "word": "去世两年后他突然出现在篮球场上",
+      "onboard_time": 1682555368,
+      "rank": 1,
+      "category": "社会正能量"
+    },
     {
       "raw_hot": 2082811,
       "num": 2082811,
@@ -9,14 +25,6 @@
       "onboard_time": 1682553326,
       "rank": 0,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1988814,
-      "num": 1988814,
-      "word": "去世两年后他突然出现在篮球场上",
-      "onboard_time": 1682555368,
-      "rank": 1,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 1656772,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014671,
+      "num": 470063,
+      "word": "奚梦瑶回应去深圳不是上课是上班",
+      "onboard_time": 1682559926,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936938,
       "num": 936938,
       "word": "丫丫",
@@ -83,12 +99,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 789375,
+      "raw_hot": 919235,
       "num": 789375,
       "word": "惊天救援北大事件学生投稿",
       "onboard_time": 1682559147,
       "rank": 5,
       "category": "影视"
+    },
+    {
+      "raw_hot": 670616,
+      "num": 670616,
+      "word": "24岁女工猝死公司称其自愿加班",
+      "onboard_time": 1682559265,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634734,
@@ -105,6 +129,14 @@
       "onboard_time": 1682554167,
       "rank": 7,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 594315,
+      "num": 594315,
+      "word": "妲己青丘九尾新皮肤",
+      "onboard_time": 1682559265,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 551154,
@@ -139,12 +171,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 488166,
+      "num": 488166,
+      "word": "舒淇 岁月不败美人",
+      "onboard_time": 1682558906,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 474377,
+      "num": 474377,
+      "word": "很烧钱但又戒不掉的爱好",
+      "onboard_time": 1682559206,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 465569,
       "num": 465569,
       "word": "星痕",
       "onboard_time": 1682523088,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 465205,
+      "num": 465205,
+      "word": "尹浩宇疑似被延迟上学",
+      "onboard_time": 1682560225,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 445869,
@@ -163,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 431757,
-      "num": 350385,
-      "word": "奚梦瑶回应去深圳不是上课是上班",
-      "onboard_time": 1682559926,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 409875,
+      "num": 409875,
+      "word": "丫丫将落地上海",
+      "onboard_time": 1682560288,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404708,
@@ -243,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314646,
+      "num": 314646,
+      "word": "扬州地震",
+      "onboard_time": 1682561485,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314637,
       "num": 314637,
       "word": "上班喝咖啡连驴都不如",
@@ -251,12 +315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 308412,
-      "num": 308412,
-      "word": "舒淇 岁月不败美人",
-      "onboard_time": 1682558906,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 296672,
+      "num": 294591,
+      "word": "闪耀暖暖",
+      "onboard_time": 1682562025,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 295885,
@@ -299,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270339,
+      "num": 270339,
+      "word": "iPhone15Pro渲染图曝光",
+      "onboard_time": 1682558607,
+      "rank": 48,
+      "category": "科技"
+    },
+    {
       "raw_hot": 268397,
       "num": 268397,
       "word": "赵丽颖周放",
@@ -315,12 +387,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 264996,
-      "num": 264996,
-      "word": "24岁女工猝死公司称其自愿加班",
-      "onboard_time": 1682559265,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 264247,
+      "num": 264247,
+      "word": "熊猫图标",
+      "onboard_time": 1682561966,
+      "rank": 24,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 260238,
+      "num": 260238,
+      "word": "如何不提雨字描述雨很大",
+      "onboard_time": 1682560825,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 254945,
@@ -347,20 +427,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248262,
-      "num": 248262,
-      "word": "很烧钱但又戒不掉的爱好",
-      "onboard_time": 1682559206,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 246473,
-      "num": 246473,
-      "word": "iPhone15Pro渲染图曝光",
-      "onboard_time": 1682558607,
-      "rank": 48,
-      "category": "科技"
+      "raw_hot": 242480,
+      "num": 242480,
+      "word": "曹县货车司机20年挣4套房",
+      "onboard_time": 1682561365,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 234699,
@@ -379,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220214,
-      "num": 220214,
-      "word": "妲己青丘九尾新皮肤",
-      "onboard_time": 1682559265,
-      "rank": 30,
-      "category": "游戏"
+      "raw_hot": 222130,
+      "num": 222130,
+      "word": "灰熊2比3湖人",
+      "onboard_time": 1682561607,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 212831,
@@ -403,12 +475,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199849,
+      "num": 199849,
+      "word": "湖人 头孢教练",
+      "onboard_time": 1682561847,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188942,
       "num": 188942,
       "word": "点亮icon守护丫丫",
       "onboard_time": 1682557888,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182589,
+      "num": 182589,
+      "word": "华人哽咽喊话丫丫路上别害怕",
+      "onboard_time": 1682561005,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180536,
+      "num": 180536,
+      "word": "不良人",
+      "onboard_time": 1682562688,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 180474,
@@ -441,6 +537,14 @@
       "onboard_time": 1682510787,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 167118,
+      "num": 167118,
+      "word": "惊天救援",
+      "onboard_time": 1682560586,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 166192,
@@ -531,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137676,
+      "num": 137676,
+      "word": "CL上海",
+      "onboard_time": 1682562206,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134186,
       "num": 134186,
       "word": "儿子因病离世父亲看着孙子满眼是爱",
@@ -579,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124904,
+      "num": 124904,
+      "word": "丫丫的回国航线",
+      "onboard_time": 1682560766,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121965,
       "num": 121965,
       "word": "这才是女生们想找的裤子吧",
@@ -625,6 +745,14 @@
       "onboard_time": 1682550561,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114166,
+      "num": 114166,
+      "word": "7岁男孩教科书式救回落水儿童",
+      "onboard_time": 1682560166,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 111642,
