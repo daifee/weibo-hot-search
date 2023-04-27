@@ -1,0 +1,410 @@
+{
+  "runTime": 1682599723839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3064251,
+        "num": 3064251,
+        "word": "丫丫一到机场就收到了竹子",
+        "onboard_time": 1682594187,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1734714,
+        "num": 1734714,
+        "word": "薛之谦本人到不了薛之谦演唱会",
+        "onboard_time": 1682587288,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 4994,
+        "num": 1674367,
+        "word": "五一出行实用贴士",
+        "onboard_time": 1682560405,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1626595,
+        "num": 1626595,
+        "word": "肖战大开口破洞裤",
+        "onboard_time": 1682596109,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1354715,
+        "num": 1354715,
+        "word": "丫丫回国后安排",
+        "onboard_time": 1682594909,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249694,
+        "num": 1249694,
+        "word": "舒淇 内娱美人鱼",
+        "onboard_time": 1682598507,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1201960,
+        "num": 1201960,
+        "word": "长沙游客不满8根炸串115元被骂穷",
+        "onboard_time": 1682586689,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1040814,
+        "num": 1040814,
+        "word": "GUCCI红毯",
+        "onboard_time": 1682590349,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 889485,
+        "num": 889485,
+        "word": "知乎客服回应推送李玉刚跳河消息",
+        "onboard_time": 1682595688,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1014305,
+        "num": 851854,
+        "word": "段奕宏的脸",
+        "onboard_time": 1682597249,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 642304,
+        "num": 642304,
+        "word": "何猷君亲王嘉尔",
+        "onboard_time": 1682593769,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 838754,
+        "num": 605443,
+        "word": "倪妮 好顶的脸",
+        "onboard_time": 1682598028,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 538136,
+        "num": 538136,
+        "word": "赵丽颖腿好细",
+        "onboard_time": 1682585250,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 509636,
+        "num": 509636,
+        "word": "丫丫回国航线熊猫趴飞机上",
+        "onboard_time": 1682583327,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59891,
+        "num": 461062,
+        "word": "女明星仿妆速学",
+        "onboard_time": 1682596828,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 433248,
+        "num": 433248,
+        "word": "没想到整个部门全都离职了",
+        "onboard_time": 1682583446,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352807,
+        "num": 352807,
+        "word": "丫丫专机已降落上海",
+        "onboard_time": 1682584052,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329324,
+        "num": 329324,
+        "word": "丫丫",
+        "onboard_time": 1682579906,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289894,
+        "num": 289894,
+        "word": "郑州大妈喊王一博来吃樱桃",
+        "onboard_time": 1682593648,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 281473,
+        "num": 281473,
+        "word": "乐乐死因报告的情况说明",
+        "onboard_time": 1682599589,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296119,
+        "num": 280871,
+        "word": "华晨宇方告黑胜诉",
+        "onboard_time": 1682599169,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 280231,
+        "num": 280231,
+        "word": "模仿金卡戴珊的网红心脏骤停死亡",
+        "onboard_time": 1682590349,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 275500,
+        "num": 275500,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1682599589,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 275038,
+        "num": 275038,
+        "word": "职校男生1天被霸凌2次后坠亡",
+        "onboard_time": 1682597368,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257829,
+        "num": 257829,
+        "word": "王雷对男一号的执念",
+        "onboard_time": 1682597427,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224065,
+        "num": 224065,
+        "word": "丫丫专机抵达上海照片",
+        "onboard_time": 1682588909,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202070,
+        "num": 202070,
+        "word": "孩子惊厥送医父亲踹停电梯全家被困",
+        "onboard_time": 1682594368,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201456,
+        "num": 201456,
+        "word": "删掉吧为了宋妍霏",
+        "onboard_time": 1682599467,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199682,
+        "num": 199682,
+        "word": "一人一句话祝福丫丫",
+        "onboard_time": 1682579906,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190058,
+        "num": 190058,
+        "word": "易烊千玺身边除了胖虎还有二虎",
+        "onboard_time": 1682586510,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183031,
+        "num": 183031,
+        "word": "丫丫版回家的路",
+        "onboard_time": 1682598749,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178662,
+        "num": 178662,
+        "word": "内娱大头围男明星们",
+        "onboard_time": 1682599109,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178386,
+        "num": 178386,
+        "word": "中奖一千万你会立马离职吗",
+        "onboard_time": 1682595389,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173561,
+        "num": 173561,
+        "word": "去世两年后他突然出现在篮球场上",
+        "onboard_time": 1682555368,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 169144,
+        "num": 169144,
+        "word": "江浙沪人已经放弃五一抢票",
+        "onboard_time": 1682553326,
+        "rank": 34,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 167589,
+        "num": 167589,
+        "word": "GUCCI活动谁赢了",
+        "onboard_time": 1682599648,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161931,
+        "num": 161931,
+        "word": "丫丫和萌兰做邻居",
+        "onboard_time": 1682586752,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154822,
+        "num": 154822,
+        "word": "沧九旻黎苏苏44秒吻戏",
+        "onboard_time": 1682589448,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152827,
+        "num": 152827,
+        "word": "你最关心丫丫哪些情况",
+        "onboard_time": 1682591429,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145460,
+        "num": 145460,
+        "word": "4月奇趣季",
+        "onboard_time": 1682598388,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 768356,
+        "num": 145374,
+        "word": "INTO1无效解散",
+        "onboard_time": 1682594187,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141974,
+        "num": 141974,
+        "word": "因分享无人回应爸爸退了家庭群",
+        "onboard_time": 1682566586,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283529,
+        "num": 141828,
+        "word": "billkin中国红毯首秀",
+        "onboard_time": 1682598867,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141590,
+        "num": 141590,
+        "word": "虞书欣的靴子好大",
+        "onboard_time": 1682587889,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138434,
+        "num": 138434,
+        "word": "张元英姐姐撞脸周雨彤",
+        "onboard_time": 1682590408,
+        "rank": 44,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 138104,
+        "num": 138104,
+        "word": "孙艺珍产后复出",
+        "onboard_time": 1682576007,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135155,
+        "num": 135155,
+        "word": "46岁的张震",
+        "onboard_time": 1682599709,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132344,
+        "num": 132344,
+        "word": "千万不要因为工作太闲辞职",
+        "onboard_time": 1682587471,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 109554,
+        "num": 130688,
+        "word": "KPL选手心率要爆表了",
+        "onboard_time": 1682597908,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 78779,
+        "num": 130650,
+        "word": "誓约道歉",
+        "onboard_time": 1682598507,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#文旅市场活力迸发#"
+    }
+  }
+}

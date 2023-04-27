@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682598752780,
+  "endTime": 1682599723839,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -75,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 3064251,
+      "num": 3064251,
+      "word": "丫丫一到机场就收到了竹子",
+      "onboard_time": 1682594187,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3029892,
       "num": 1161489,
       "word": "周六野因前男友长六颗子宫肌瘤",
@@ -121,14 +129,6 @@
       "onboard_time": 1682312011,
       "rank": 0,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 2794570,
-      "num": 2794570,
-      "word": "丫丫一到机场就收到了竹子",
-      "onboard_time": 1682594187,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2785417,
@@ -763,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1249694,
+      "num": 1249694,
+      "word": "舒淇 内娱美人鱼",
+      "onboard_time": 1682598507,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1249600,
       "num": 1249600,
       "word": "Lisa下楼梯",
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014305,
+      "num": 851854,
+      "word": "段奕宏的脸",
+      "onboard_time": 1682597249,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1013092,
       "num": 600421,
       "word": "舅舅私吞孤儿外甥女百万遗产救助金",
@@ -1083,14 +1099,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 909548,
-      "num": 722684,
-      "word": "段奕宏的脸",
-      "onboard_time": 1682597249,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 904486,
       "num": 904486,
       "word": "丫丫回国航线熊猫趴飞机上",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1682501428,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 838754,
+      "num": 605443,
+      "word": "倪妮 好顶的脸",
+      "onboard_time": 1682598028,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 836869,
@@ -1585,14 +1601,6 @@
       "onboard_time": 1682319927,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 584351,
-      "num": 584351,
-      "word": "倪妮 好顶的脸",
-      "onboard_time": 1682598028,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 584078,
@@ -3803,6 +3811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296119,
+      "num": 280871,
+      "word": "华晨宇方告黑胜诉",
+      "onboard_time": 1682599169,
+      "rank": 20,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 295527,
       "num": 295527,
       "word": "天涯社区",
@@ -3963,11 +3979,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 283586,
-      "num": 283586,
-      "word": "舒淇 内娱美人鱼",
-      "onboard_time": 1682598507,
-      "rank": 21,
+      "raw_hot": 283529,
+      "num": 141828,
+      "word": "billkin中国红毯首秀",
+      "onboard_time": 1682598867,
+      "rank": 42,
       "category": "作品衍生,时尚"
     },
     {
@@ -4001,6 +4017,14 @@
       "onboard_time": 1682597427,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 281473,
+      "num": 281473,
+      "word": "乐乐死因报告的情况说明",
+      "onboard_time": 1682599589,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280376,
@@ -4057,6 +4081,14 @@
       "onboard_time": 1682423006,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275500,
+      "num": 275500,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1682599589,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 274874,
@@ -5691,6 +5723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201456,
+      "num": 201456,
+      "word": "删掉吧为了宋妍霏",
+      "onboard_time": 1682599467,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201335,
       "num": 201335,
       "word": "深圳交通局再回应前局长孙女炫富事件",
@@ -6443,6 +6483,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 183031,
+      "num": 183031,
+      "word": "丫丫版回家的路",
+      "onboard_time": 1682598749,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182811,
       "num": 182811,
       "word": "酒店涨价",
@@ -6609,6 +6657,14 @@
       "onboard_time": 1682411189,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178662,
+      "num": 178662,
+      "word": "内娱大头围男明星们",
+      "onboard_time": 1682599109,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178468,
@@ -6921,6 +6977,14 @@
       "onboard_time": 1682569952,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 167589,
+      "num": 167589,
+      "word": "GUCCI活动谁赢了",
+      "onboard_time": 1682599648,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167383,
@@ -8073,6 +8137,14 @@
       "onboard_time": 1682511568,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135155,
+      "num": 135155,
+      "word": "46岁的张震",
+      "onboard_time": 1682599709,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 135070,
@@ -9251,6 +9323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59891,
+      "num": 525882,
+      "word": "女明星仿妆速学",
+      "onboard_time": 1682596828,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 56137,
       "num": 419283,
       "word": "超上镜妆造",
@@ -9281,14 +9361,6 @@
       "onboard_time": 1682242770,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 43127,
-      "num": 525882,
-      "word": "女明星仿妆速学",
-      "onboard_time": 1682596828,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 39399,
@@ -9385,6 +9457,14 @@
       "onboard_time": 1682239409,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4994,
+      "num": 1674367,
+      "word": "五一出行实用贴士",
+      "onboard_time": 1682560405,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -9423,6 +9503,9 @@
     },
     {
       "word": "#第六届数字中国建设峰会#"
+    },
+    {
+      "word": "#文旅市场活力迸发#"
     }
   ]
 }
