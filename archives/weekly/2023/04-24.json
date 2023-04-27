@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682583670422,
+  "endTime": 1682584431701,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -9,6 +9,14 @@
       "onboard_time": 1682498547,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3932759,
+      "num": 3932759,
+      "word": "丫丫",
+      "onboard_time": 1682452815,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3895694,
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3410327,
+      "num": 3410327,
+      "word": "浦东机场",
+      "onboard_time": 1682582129,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3279732,
       "num": 3279732,
       "word": "曾经很火却已消失了的品牌",
@@ -49,14 +65,6 @@
       "onboard_time": 1682477664,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 3026631,
-      "num": 3026631,
-      "word": "丫丫",
-      "onboard_time": 1682452815,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2979723,
@@ -89,6 +97,14 @@
       "onboard_time": 1682324247,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2824316,
+      "num": 2824316,
+      "word": "丫丫专机已降落上海",
+      "onboard_time": 1682584052,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2811375,
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 1152390,
-      "num": 442126,
+      "num": 469137,
       "word": "孙艺珍产后复出",
       "onboard_time": 1682576007,
       "rank": 20,
@@ -923,14 +939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 975584,
-      "num": 975584,
-      "word": "浦东机场",
-      "onboard_time": 1682582129,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 973128,
       "num": 973128,
       "word": "gap day",
@@ -945,6 +953,14 @@
       "onboard_time": 1682511445,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 964654,
+      "num": 466491,
+      "word": "没想到整个部门全都离职了",
+      "onboard_time": 1682583446,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 962450,
@@ -1667,6 +1683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 513070,
+      "num": 513070,
+      "word": "一人一句话祝福丫丫",
+      "onboard_time": 1682579906,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512338,
       "num": 512338,
       "word": "巩俐再现经典裸唇",
@@ -1769,14 +1793,6 @@
       "onboard_time": 1682519010,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 498711,
-      "num": 498711,
-      "word": "一人一句话祝福丫丫",
-      "onboard_time": 1682579906,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 497626,
@@ -2251,6 +2267,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 433937,
+      "num": 433937,
+      "word": "侵权迪丽热巴网友已无财产可执行",
+      "onboard_time": 1682581290,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433292,
       "num": 389357,
       "word": "张若昀红发",
@@ -2379,6 +2403,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418078,
+      "num": 418078,
+      "word": "宋妍霏回应古装丑",
+      "onboard_time": 1682579608,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 416183,
       "num": 416183,
       "word": "杨幂军装路透",
@@ -2419,12 +2451,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 413780,
-      "num": 413780,
-      "word": "侵权迪丽热巴网友已无财产可执行",
-      "onboard_time": 1682581290,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 413673,
+      "num": 413673,
+      "word": "徐姥爷说会照顾好丫丫",
+      "onboard_time": 1682583146,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 412788,
@@ -2433,14 +2465,6 @@
       "onboard_time": 1682491946,
       "rank": 11,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 411262,
-      "num": 411262,
-      "word": "宋妍霏回应古装丑",
-      "onboard_time": 1682579608,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 411117,
@@ -2545,6 +2569,14 @@
       "onboard_time": 1682327008,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397897,
+      "num": 397897,
+      "word": "丫丫回国航线熊猫趴飞机上",
+      "onboard_time": 1682583327,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394998,
@@ -3051,6 +3083,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 333650,
+      "num": 333650,
+      "word": "在网上为丫丫接机",
+      "onboard_time": 1682580388,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332543,
       "num": 277060,
       "word": "徐明浩眼神",
@@ -3128,14 +3168,6 @@
       "word": "劳荣枝辩护律师吴丹红被律协调查",
       "onboard_time": 1682464281,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325326,
-      "num": 291186,
-      "word": "在网上为丫丫接机",
-      "onboard_time": 1682580388,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -3571,6 +3603,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 289053,
+      "num": 289053,
+      "word": "王鹤棣看胡连馨画画时的反应",
+      "onboard_time": 1682582907,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288996,
       "num": 201242,
       "word": "曼城双杀阿森纳",
@@ -3987,14 +4027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 258961,
-      "num": 258961,
-      "word": "王鹤棣看胡连馨画画时的反应",
-      "onboard_time": 1682582907,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 258859,
       "num": 258859,
       "word": "林孝埈的小狗好可爱",
@@ -4241,14 +4273,6 @@
       "onboard_time": 1682517570,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 250910,
-      "num": 250910,
-      "word": "没想到整个部门全都离职了",
-      "onboard_time": 1682583446,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 250289,
@@ -4979,14 +5003,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 211292,
-      "num": 211292,
-      "word": "徐姥爷说会照顾好丫丫",
-      "onboard_time": 1682583146,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211173,
       "num": 211173,
       "word": "朱一龙作品回报率",
@@ -5611,6 +5627,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 191142,
+      "num": 191142,
+      "word": "明日方舟",
+      "onboard_time": 1682408547,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191115,
       "num": 191115,
       "word": "哈尔的移动馄饨摊",
@@ -6043,6 +6067,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 180837,
+      "num": 180837,
+      "word": "脾气不好很多时候是因为我爸",
+      "onboard_time": 1682583808,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180786,
       "num": 180786,
       "word": "TTG晋级季后赛败者组",
@@ -6241,14 +6273,6 @@
       "onboard_time": 1682477906,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175189,
-      "num": 175189,
-      "word": "丫丫回国航线熊猫趴飞机上",
-      "onboard_time": 1682583327,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175100,
@@ -6617,6 +6641,14 @@
       "onboard_time": 1682416947,
       "rank": 42,
       "category": "音乐,综艺"
+    },
+    {
+      "raw_hot": 162260,
+      "num": 162260,
+      "word": "因为已婚未育遭公司拒绝",
+      "onboard_time": 1682583987,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 161895,
@@ -7048,6 +7080,14 @@
       "word": "长空之王近5年五一档预售冠军",
       "onboard_time": 1682409566,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 147582,
+      "num": 147582,
+      "word": "长月烬明爱别离合集",
+      "onboard_time": 1682583930,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -7691,14 +7731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 128775,
-      "num": 151515,
-      "word": "明日方舟",
-      "onboard_time": 1682408547,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 128054,
       "num": 128054,
       "word": "坏妈妈",
@@ -8331,6 +8363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95982,
+      "num": 2853494,
+      "word": "流动的中国生机勃勃",
+      "onboard_time": 1682580987,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95291,
       "num": 95291,
       "word": "沈阳下雪",
@@ -8499,6 +8539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79639,
+      "num": 436801,
+      "word": "年轻人卷起了皮肤养生",
+      "onboard_time": 1682582424,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78798,
       "num": 93469,
       "word": "一旅行博主刚来山东就被拿捏了",
@@ -8512,14 +8560,6 @@
       "word": "女孩帮爸爸做翻译对接外国客户",
       "onboard_time": 1682370312,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75462,
-      "num": 1116859,
-      "word": "流动的中国生机勃勃",
-      "onboard_time": 1682580987,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -8640,14 +8680,6 @@
       "word": "全国网络普法行广西站",
       "onboard_time": 1682414368,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56764,
-      "num": 388763,
-      "word": "年轻人卷起了皮肤养生",
-      "onboard_time": 1682582424,
-      "rank": 14,
       "category": "社会新闻"
     },
     {

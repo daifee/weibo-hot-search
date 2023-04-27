@@ -1,0 +1,410 @@
+{
+  "runTime": 1682584431701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3932759,
+        "num": 3932759,
+        "word": "丫丫",
+        "onboard_time": 1682579906,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3410327,
+        "num": 3410327,
+        "word": "浦东机场",
+        "onboard_time": 1682582129,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95982,
+        "num": 2853494,
+        "word": "流动的中国生机勃勃",
+        "onboard_time": 1682580987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2824316,
+        "num": 2824316,
+        "word": "丫丫专机已降落上海",
+        "onboard_time": 1682584052,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1201036,
+        "num": 1201036,
+        "word": "梅姨案2名人贩子被执行死刑",
+        "onboard_time": 1682577147,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873564,
+        "num": 873564,
+        "word": "因分享无人回应爸爸退了家庭群",
+        "onboard_time": 1682566586,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 764823,
+        "num": 764823,
+        "word": "丫丫启程回国",
+        "onboard_time": 1682518293,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533063,
+        "num": 533063,
+        "word": "去世两年后他突然出现在篮球场上",
+        "onboard_time": 1682555368,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 513070,
+        "num": 513070,
+        "word": "一人一句话祝福丫丫",
+        "onboard_time": 1682579906,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476342,
+        "num": 476342,
+        "word": "杭州6万一晚酒店没有涨价",
+        "onboard_time": 1682573369,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1103329,
+        "num": 469137,
+        "word": "孙艺珍产后复出",
+        "onboard_time": 1682576007,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 964654,
+        "num": 466491,
+        "word": "没想到整个部门全都离职了",
+        "onboard_time": 1682583446,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 801792,
+        "num": 452776,
+        "word": "鹿哈直播带货",
+        "onboard_time": 1682575168,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483258,
+        "num": 450106,
+        "word": "李玉刚 知乎",
+        "onboard_time": 1682560047,
+        "rank": 13,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 79639,
+        "num": 436801,
+        "word": "年轻人卷起了皮肤养生",
+        "onboard_time": 1682582424,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433937,
+        "num": 433937,
+        "word": "侵权迪丽热巴网友已无财产可执行",
+        "onboard_time": 1682581290,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418078,
+        "num": 418078,
+        "word": "宋妍霏回应古装丑",
+        "onboard_time": 1682579608,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413673,
+        "num": 413673,
+        "word": "徐姥爷说会照顾好丫丫",
+        "onboard_time": 1682583146,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412254,
+        "num": 412254,
+        "word": "陈都灵邓为花朵吻",
+        "onboard_time": 1682566887,
+        "rank": 18,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 397897,
+        "num": 397897,
+        "word": "丫丫回国航线熊猫趴飞机上",
+        "onboard_time": 1682583327,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015502,
+        "num": 382966,
+        "word": "38岁985硕士失业被迫送外卖",
+        "onboard_time": 1682571268,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800370,
+        "num": 382124,
+        "word": "曝王雷改戏黄轩辞演上甘岭",
+        "onboard_time": 1682571569,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 627150,
+        "num": 379366,
+        "word": "CL被曝耍大牌",
+        "onboard_time": 1682570910,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333650,
+        "num": 333650,
+        "word": "在网上为丫丫接机",
+        "onboard_time": 1682580388,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327809,
+        "num": 327809,
+        "word": "江浙沪人已经放弃五一抢票",
+        "onboard_time": 1682553326,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 289053,
+        "num": 289053,
+        "word": "王鹤棣看胡连馨画画时的反应",
+        "onboard_time": 1682582907,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246710,
+        "num": 246710,
+        "word": "女子因男友要求旅行AA提分手",
+        "onboard_time": 1682568025,
+        "rank": 26,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 222654,
+        "num": 222654,
+        "word": "小鬼 抢票",
+        "onboard_time": 1682582665,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220191,
+        "num": 220191,
+        "word": "周也听到谢谢阿瑟的反应",
+        "onboard_time": 1682568507,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215889,
+        "num": 215889,
+        "word": "曾经很火却已消失了的品牌",
+        "onboard_time": 1682514989,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201176,
+        "num": 201176,
+        "word": "女子称肚痛就医检查遭医生猥亵",
+        "onboard_time": 1682518110,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199433,
+        "num": 199433,
+        "word": "入职半个月被同事孤立了",
+        "onboard_time": 1682573847,
+        "rank": 31,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191142,
+        "num": 191142,
+        "word": "明日方舟",
+        "onboard_time": 1682583565,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189451,
+        "num": 189451,
+        "word": "赵丽颖直角肩",
+        "onboard_time": 1682568628,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181521,
+        "num": 181521,
+        "word": "求职者嫌8000工资高要求降到2000",
+        "onboard_time": 1682553447,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180837,
+        "num": 180837,
+        "word": "脾气不好很多时候是因为我爸",
+        "onboard_time": 1682583808,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167930,
+        "num": 167930,
+        "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+        "onboard_time": 1682519370,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162260,
+        "num": 162260,
+        "word": "因为已婚未育遭公司拒绝",
+        "onboard_time": 1682583987,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161511,
+        "num": 161511,
+        "word": "谭飞要赵露思回答别那么官方",
+        "onboard_time": 1682576967,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160820,
+        "num": 160820,
+        "word": "尹浩宇公司否认不让上大学",
+        "onboard_time": 1682582968,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154969,
+        "num": 154969,
+        "word": "奚梦瑶回应去深圳不是上课是上班",
+        "onboard_time": 1682559926,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154467,
+        "num": 154467,
+        "word": "恋爱差点就让他们谈上了",
+        "onboard_time": 1682580266,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 151618,
+        "num": 151618,
+        "word": "宜嘉",
+        "onboard_time": 1682579247,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147582,
+        "num": 147582,
+        "word": "长月烬明爱别离合集",
+        "onboard_time": 1682583930,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147343,
+        "num": 147343,
+        "word": "淄博中学生上分了",
+        "onboard_time": 1682570067,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 144277,
+        "num": 144277,
+        "word": "四川内江地震",
+        "onboard_time": 1682578407,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141812,
+        "num": 141812,
+        "word": "字母哥垫脚",
+        "onboard_time": 1682571390,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122847,
+        "num": 122847,
+        "word": "丫丫将落地上海",
+        "onboard_time": 1682560288,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96521,
+        "num": 122838,
+        "word": "妲己青丘九尾新皮肤",
+        "onboard_time": 1682559265,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 62587,
+        "num": 122834,
+        "word": "恋与制作人春色无边",
+        "onboard_time": 1682571809,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#第六届数字中国建设峰会#"
+    }
+  }
+}

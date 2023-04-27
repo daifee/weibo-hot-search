@@ -1,13 +1,21 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682583670422,
+  "endTime": 1682584431701,
   "band_list": [
     {
-      "raw_hot": 3026631,
-      "num": 3026631,
+      "raw_hot": 3932759,
+      "num": 3932759,
       "word": "丫丫",
       "onboard_time": 1682510426,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3410327,
+      "num": 3410327,
+      "word": "浦东机场",
+      "onboard_time": 1682582129,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -16,6 +24,14 @@
       "word": "38岁985硕士失业被迫送外卖",
       "onboard_time": 1682571268,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2824316,
+      "num": 2824316,
+      "word": "丫丫专机已降落上海",
+      "onboard_time": 1682584052,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 1152390,
-      "num": 442126,
+      "num": 469137,
       "word": "孙艺珍产后复出",
       "onboard_time": 1682576007,
       "rank": 20,
@@ -179,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 975584,
-      "num": 975584,
-      "word": "浦东机场",
-      "onboard_time": 1682582129,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 964654,
+      "num": 466491,
+      "word": "没想到整个部门全都离职了",
+      "onboard_time": 1682583446,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 919235,
@@ -339,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 513070,
+      "num": 513070,
+      "word": "一人一句话祝福丫丫",
+      "onboard_time": 1682579906,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 503089,
       "num": 503089,
       "word": "尹浩宇疑似被延迟上学",
@@ -353,14 +377,6 @@
       "onboard_time": 1682558906,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 498711,
-      "num": 498711,
-      "word": "一人一句话祝福丫丫",
-      "onboard_time": 1682579906,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 491440,
@@ -403,20 +419,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413780,
-      "num": 413780,
+      "raw_hot": 433937,
+      "num": 433937,
       "word": "侵权迪丽热巴网友已无财产可执行",
       "onboard_time": 1682581290,
       "rank": 9,
       "category": "艺人"
     },
     {
-      "raw_hot": 411262,
-      "num": 411262,
+      "raw_hot": 418078,
+      "num": 418078,
       "word": "宋妍霏回应古装丑",
       "onboard_time": 1682579608,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 413673,
+      "num": 413673,
+      "word": "徐姥爷说会照顾好丫丫",
+      "onboard_time": 1682583146,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410426,
@@ -457,6 +481,14 @@
       "onboard_time": 1682575289,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 397897,
+      "num": 397897,
+      "word": "丫丫回国航线熊猫趴飞机上",
+      "onboard_time": 1682583327,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388673,
@@ -539,20 +571,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 333650,
+      "num": 333650,
+      "word": "在网上为丫丫接机",
+      "onboard_time": 1682580388,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328204,
       "num": 328204,
       "word": "乌克兰",
       "onboard_time": 1682511747,
       "rank": 14,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 325326,
-      "num": 291186,
-      "word": "在网上为丫丫接机",
-      "onboard_time": 1682580388,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 322862,
@@ -641,6 +673,14 @@
       "onboard_time": 1682497167,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289053,
+      "num": 289053,
+      "word": "王鹤棣看胡连馨画画时的反应",
+      "onboard_time": 1682582907,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 288996,
@@ -747,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258961,
-      "num": 258961,
-      "word": "王鹤棣看胡连馨画画时的反应",
-      "onboard_time": 1682582907,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 256162,
       "num": 256162,
       "word": "杭州小伙给乐山大佛戴超大plus耳机",
@@ -793,14 +825,6 @@
       "onboard_time": 1682569228,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250910,
-      "num": 250910,
-      "word": "没想到整个部门全都离职了",
-      "onboard_time": 1682583446,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 250462,
@@ -923,14 +947,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 211292,
-      "num": 211292,
-      "word": "徐姥爷说会照顾好丫丫",
-      "onboard_time": 1682583146,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208647,
       "num": 208647,
       "word": "被幼儿园的户外活动惊到了",
@@ -1043,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191142,
+      "num": 191142,
+      "word": "明日方舟",
+      "onboard_time": 1682583565,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190345,
       "num": 190345,
       "word": "华人哽咽喊话丫丫路上别害怕",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1682573547,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 180837,
+      "num": 180837,
+      "word": "脾气不好很多时候是因为我爸",
+      "onboard_time": 1682583808,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 180718,
@@ -1171,14 +1203,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 175189,
-      "num": 175189,
-      "word": "丫丫回国航线熊猫趴飞机上",
-      "onboard_time": 1682583327,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173645,
       "num": 173645,
       "word": "分不清是萧敬腾还是钟楚曦",
@@ -1251,6 +1275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 162260,
+      "num": 162260,
+      "word": "因为已婚未育遭公司拒绝",
+      "onboard_time": 1682583987,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160217,
       "num": 160217,
       "word": "伦纳德右膝半月板撕裂",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1682563949,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147582,
+      "num": 147582,
+      "word": "长月烬明爱别离合集",
+      "onboard_time": 1682583930,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 147074,
@@ -1417,14 +1457,6 @@
       "onboard_time": 1682527342,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 128775,
-      "num": 151515,
-      "word": "明日方舟",
-      "onboard_time": 1682583565,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 128054,
@@ -1643,6 +1675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 95982,
+      "num": 2853494,
+      "word": "流动的中国生机勃勃",
+      "onboard_time": 1682580987,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92743,
       "num": 92743,
       "word": "孔雪儿 复古名伶",
@@ -1667,11 +1707,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75462,
-      "num": 1116859,
-      "word": "流动的中国生机勃勃",
-      "onboard_time": 1682580987,
-      "rank": 2,
+      "raw_hot": 79639,
+      "num": 436801,
+      "word": "年轻人卷起了皮肤养生",
+      "onboard_time": 1682582424,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1713,14 +1753,6 @@
       "onboard_time": 1682550321,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56764,
-      "num": 388763,
-      "word": "年轻人卷起了皮肤养生",
-      "onboard_time": 1682582424,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56137,
