@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682602509920,
+  "endTime": 1682604959628,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2881184,
+      "num": 2881184,
+      "word": "乐乐死因报告的情况说明",
+      "onboard_time": 1682599589,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2829459,
       "num": 2829459,
       "word": "上午离职下午收到offer",
@@ -145,14 +153,6 @@
       "onboard_time": 1682430151,
       "rank": 0,
       "category": "影视,游戏"
-    },
-    {
-      "raw_hot": 2714929,
-      "num": 2714929,
-      "word": "乐乐死因报告的情况说明",
-      "onboard_time": 1682599589,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2714268,
@@ -411,6 +411,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1779407,
+      "num": 600225,
+      "word": "薛之谦 挤挤就到",
+      "onboard_time": 1682602890,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1768349,
       "num": 1768349,
       "word": "现偶收视率前十里有五部是张翰的",
@@ -457,6 +465,14 @@
       "onboard_time": 1682513426,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1726224,
+      "num": 1726224,
+      "word": "青簪行 林更新",
+      "onboard_time": 1682602772,
+      "rank": 3,
+      "category": "影视"
     },
     {
       "raw_hot": 1713976,
@@ -657,6 +673,14 @@
       "onboard_time": 1682518293,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1401525,
+      "num": 1401525,
+      "word": "GUCCI的四位代言人",
+      "onboard_time": 1682601629,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1394728,
@@ -1513,6 +1537,14 @@
       "onboard_time": 1682554167,
       "rank": 7,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 609125,
+      "num": 609125,
+      "word": "青海6名干部聚餐喝酒1人死亡",
+      "onboard_time": 1682600070,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609003,
@@ -2523,14 +2555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 429188,
-      "num": 429188,
-      "word": "青海6名干部聚餐喝酒1人死亡",
-      "onboard_time": 1682600070,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 429084,
       "num": 429084,
       "word": "萌兰",
@@ -2851,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394589,
+      "num": 394589,
+      "word": "张彬彬PDD",
+      "onboard_time": 1682604333,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393636,
       "num": 378676,
       "word": "男明星谁赢了",
@@ -2972,7 +3004,7 @@
     },
     {
       "raw_hot": 382557,
-      "num": 217447,
+      "num": 264143,
       "word": "王俊凯北影节生图",
       "onboard_time": 1682601750,
       "rank": 30,
@@ -2984,6 +3016,14 @@
       "word": "朱一龙河边的错误入围戛纳",
       "onboard_time": 1682378002,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 378487,
+      "num": 378487,
+      "word": "长月烬明仙门篇",
+      "onboard_time": 1682600310,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -3097,6 +3137,14 @@
       "onboard_time": 1682397871,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 362261,
+      "num": 362261,
+      "word": "鹿晗纹身像拔罐",
+      "onboard_time": 1682604631,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 361967,
@@ -3467,14 +3515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 325935,
-      "num": 306252,
-      "word": "长月烬明仙门篇",
-      "onboard_time": 1682600310,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325723,
       "num": 236704,
       "word": "劳荣枝辩护律师吴丹红被律协调查",
@@ -3603,6 +3643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319450,
+      "num": 319450,
+      "word": "朋友圈已经没有了生活的痕迹",
+      "onboard_time": 1682603009,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 318391,
       "num": 318391,
       "word": "KPL 回溯",
@@ -3713,6 +3761,14 @@
       "onboard_time": 1682306007,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 313205,
+      "num": 313205,
+      "word": "漫长的季节",
+      "onboard_time": 1682511149,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 313166,
@@ -4395,6 +4451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 260562,
+      "num": 195901,
+      "word": "李宇春穿着拖鞋上班",
+      "onboard_time": 1682604153,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 260435,
       "num": 206930,
       "word": "20岁的王鹤棣跑过700个炸点",
@@ -4907,6 +4971,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 241009,
+      "num": 241009,
+      "word": "虞书欣范丞丞同框",
+      "onboard_time": 1682602829,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240985,
       "num": 240985,
       "word": "云襄传真的很怕我看不懂",
@@ -5387,6 +5459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215337,
+      "num": 215337,
+      "word": "宋雨琦鞠婧祎撞衫",
+      "onboard_time": 1682600729,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 214618,
       "num": 214618,
       "word": "香港演员宗华病逝",
@@ -5569,14 +5649,6 @@
       "onboard_time": 1682313929,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206447,
-      "num": 206447,
-      "word": "宋雨琦鞠婧祎撞衫",
-      "onboard_time": 1682600729,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206420,
@@ -5825,6 +5897,14 @@
       "onboard_time": 1682483611,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199519,
+      "num": 199519,
+      "word": "KSG扳回一分",
+      "onboard_time": 1682603671,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 199424,
@@ -6491,6 +6571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 184092,
+      "num": 184092,
+      "word": "店家回应115元8个串骂顾客穷",
+      "onboard_time": 1682602469,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183666,
       "num": 183666,
       "word": "杨智渊被批准逮捕",
@@ -6657,14 +6745,6 @@
       "onboard_time": 1682576545,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180710,
-      "num": 180710,
-      "word": "漫长的季节",
-      "onboard_time": 1682511149,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 180483,
@@ -7539,6 +7619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151542,
+      "num": 151542,
+      "word": "浙江男篮vs深圳男篮",
+      "onboard_time": 1682431650,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151373,
       "num": 151373,
       "word": "漫长的季节碎尸是谁的",
@@ -8379,14 +8467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128944,
-      "num": 128944,
-      "word": "GUCCI的四位代言人",
-      "onboard_time": 1682601629,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 128777,
       "num": 128777,
       "word": "宋寅说王一博比自己帅",
@@ -8569,14 +8649,6 @@
       "onboard_time": 1682500768,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122334,
-      "num": 122334,
-      "word": "浙江男篮vs深圳男篮",
-      "onboard_time": 1682431650,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 122146,
@@ -8883,14 +8955,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 107598,
-      "num": 122253,
-      "word": "店家回应115元8个串骂顾客穷",
-      "onboard_time": 1682602469,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106928,
       "num": 90569,
       "word": "程嘉树那一跪就是他奉献的一生",
@@ -9193,6 +9257,14 @@
       "onboard_time": 1682329586,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86770,
+      "num": 130361,
+      "word": "你会喝国产可乐吗",
+      "onboard_time": 1682603312,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 86750,
@@ -9523,19 +9595,19 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 18401,
+      "num": 1994604,
+      "word": "五一出行实用贴士",
+      "onboard_time": 1682560405,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15836,
       "num": 150930,
       "word": "崖天下上演百米悬崖走秀",
       "onboard_time": 1682319627,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14228,
-      "num": 1994604,
-      "word": "五一出行实用贴士",
-      "onboard_time": 1682560405,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -9586,6 +9658,9 @@
     },
     {
       "word": "#文旅市场活力迸发#"
+    },
+    {
+      "word": "#1035人获全国五一劳动奖章#"
     }
   ]
 }
