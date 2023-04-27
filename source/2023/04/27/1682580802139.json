@@ -1,0 +1,410 @@
+{
+  "runTime": 1682580802139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2168566,
+        "num": 2168566,
+        "word": "梅姨案2名人贩子被执行死刑",
+        "onboard_time": 1682577147,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1122198,
+        "num": 1122198,
+        "word": "因分享无人回应爸爸退了家庭群",
+        "onboard_time": 1682566586,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 898111,
+        "num": 898111,
+        "word": "丫丫",
+        "onboard_time": 1682579906,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732215,
+        "num": 732215,
+        "word": "丫丫启程回国",
+        "onboard_time": 1682518293,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608065,
+        "num": 608065,
+        "word": "杭州6万一晚酒店没有涨价",
+        "onboard_time": 1682573369,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 559238,
+        "num": 559238,
+        "word": "去世两年后他突然出现在篮球场上",
+        "onboard_time": 1682555368,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 498711,
+        "num": 498711,
+        "word": "一人一句话祝福丫丫",
+        "onboard_time": 1682579906,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441787,
+        "num": 441787,
+        "word": "陈都灵邓为花朵吻",
+        "onboard_time": 1682566887,
+        "rank": 7,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 437141,
+        "num": 437141,
+        "word": "周也听到谢谢阿瑟的反应",
+        "onboard_time": 1682568507,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 423851,
+        "num": 423851,
+        "word": "江浙沪人已经放弃五一抢票",
+        "onboard_time": 1682553326,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1299801,
+        "num": 418523,
+        "word": "38岁985硕士失业被迫送外卖",
+        "onboard_time": 1682571268,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1179782,
+        "num": 404825,
+        "word": "曝王雷改戏黄轩辞演上甘岭",
+        "onboard_time": 1682571569,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1152390,
+        "num": 395538,
+        "word": "孙艺珍产后复出",
+        "onboard_time": 1682576007,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835210,
+        "num": 386947,
+        "word": "鹿哈直播带货",
+        "onboard_time": 1682575168,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 694221,
+        "num": 383818,
+        "word": "李玉刚 知乎",
+        "onboard_time": 1682560047,
+        "rank": 14,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 901144,
+        "num": 365967,
+        "word": "CL被曝耍大牌",
+        "onboard_time": 1682570910,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364719,
+        "num": 364719,
+        "word": "入职半个月被同事孤立了",
+        "onboard_time": 1682573847,
+        "rank": 16,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 363496,
+        "num": 363496,
+        "word": "四六级报名",
+        "onboard_time": 1682568204,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 298958,
+        "num": 298958,
+        "word": "丫丫将落地上海",
+        "onboard_time": 1682560288,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294491,
+        "num": 294491,
+        "word": "女子因男友要求旅行AA提分手",
+        "onboard_time": 1682568025,
+        "rank": 19,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 325326,
+        "num": 291186,
+        "word": "在网上为丫丫接机",
+        "onboard_time": 1682580388,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273410,
+        "num": 273410,
+        "word": "梅姨",
+        "onboard_time": 1682578887,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268723,
+        "num": 268723,
+        "word": "四川内江地震",
+        "onboard_time": 1682578407,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256162,
+        "num": 256162,
+        "word": "杭州小伙给乐山大佛戴超大plus耳机",
+        "onboard_time": 1682579968,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251657,
+        "num": 251657,
+        "word": "谭飞要赵露思回答别那么官方",
+        "onboard_time": 1682576967,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233158,
+        "num": 233158,
+        "word": "宋妍霏回应古装丑",
+        "onboard_time": 1682579608,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228882,
+        "num": 228882,
+        "word": "巴特勒太硬了",
+        "onboard_time": 1682570250,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225992,
+        "num": 225992,
+        "word": "求职者嫌8000工资高要求降到2000",
+        "onboard_time": 1682553447,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215770,
+        "num": 215770,
+        "word": "戏霸",
+        "onboard_time": 1682575289,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214655,
+        "num": 214655,
+        "word": "女子称肚痛就医检查遭医生猥亵",
+        "onboard_time": 1682518110,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214639,
+        "num": 214639,
+        "word": "字母哥垫脚",
+        "onboard_time": 1682571390,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199278,
+        "num": 199278,
+        "word": "赵丽颖直角肩",
+        "onboard_time": 1682568628,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199050,
+        "num": 199050,
+        "word": "曾经很火却已消失了的品牌",
+        "onboard_time": 1682514989,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198147,
+        "num": 198147,
+        "word": "淄博中学生上分了",
+        "onboard_time": 1682570067,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 190512,
+        "num": 190512,
+        "word": "奚梦瑶回应去深圳不是上课是上班",
+        "onboard_time": 1682559926,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189390,
+        "num": 189390,
+        "word": "香港演员宗华病逝",
+        "onboard_time": 1682577928,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180718,
+        "num": 180718,
+        "word": "GALI 我想对TT说声抱歉",
+        "onboard_time": 1682576545,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177721,
+        "num": 177721,
+        "word": "如何用手机检查针孔摄像头",
+        "onboard_time": 1682575646,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175825,
+        "num": 175825,
+        "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+        "onboard_time": 1682519370,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167586,
+        "num": 167586,
+        "word": "警方回应有人出售和女网友见面机会",
+        "onboard_time": 1682577147,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167289,
+        "num": 167289,
+        "word": "宜嘉",
+        "onboard_time": 1682579247,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159397,
+        "num": 159397,
+        "word": "林奕含逝世六周年",
+        "onboard_time": 1682574566,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155266,
+        "num": 155266,
+        "word": "工资不高却要经常熬夜的工作",
+        "onboard_time": 1682572529,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148886,
+        "num": 148886,
+        "word": "恋爱差点就让他们谈上了",
+        "onboard_time": 1682580266,
+        "rank": 43,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 147074,
+        "num": 147074,
+        "word": "周柯宇首次个人巡演",
+        "onboard_time": 1682580627,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139275,
+        "num": 139275,
+        "word": "妲己青丘九尾新皮肤",
+        "onboard_time": 1682559265,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133439,
+        "num": 133439,
+        "word": "杨紫Wonderland封面大片",
+        "onboard_time": 1682567128,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121030,
+        "num": 121030,
+        "word": "厌蠢症",
+        "onboard_time": 1682569648,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79544,
+        "num": 120910,
+        "word": "无期迷途",
+        "onboard_time": 1682579127,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67911,
+        "num": 120396,
+        "word": "恋与制作人春色无边",
+        "onboard_time": 1682571809,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#第六届数字中国建设峰会#"
+    }
+  }
+}
