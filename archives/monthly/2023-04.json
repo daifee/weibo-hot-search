@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682604959628,
+  "endTime": 1682606011133,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -715,6 +715,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2895984,
+      "num": 2895984,
+      "word": "乐乐死因报告的情况说明",
+      "onboard_time": 1682599589,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2892350,
       "num": 2892350,
       "word": "宋雨琦确诊感染新冠",
@@ -745,14 +753,6 @@
       "onboard_time": 1680308484,
       "rank": 0,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 2881184,
-      "num": 2881184,
-      "word": "乐乐死因报告的情况说明",
-      "onboard_time": 1682599589,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2873173,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1680853768,
       "rank": 1,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2641868,
+      "num": 2641868,
+      "word": "肖战舒淇合照",
+      "onboard_time": 1682605470,
+      "rank": 1,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2621843,
@@ -2275,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1945693,
+      "num": 600225,
+      "word": "薛之谦 挤挤就到",
+      "onboard_time": 1682602890,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1940353,
       "num": 1940353,
       "word": "小哀把吻还给了小兰",
@@ -2667,14 +2683,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1779407,
-      "num": 600225,
-      "word": "薛之谦 挤挤就到",
-      "onboard_time": 1682602890,
-      "rank": 10,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 1777717,
       "num": 1777717,
       "word": "迪丽热巴狼尾造型",
@@ -2795,6 +2803,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1745994,
+      "num": 1745994,
+      "word": "青簪行 林更新",
+      "onboard_time": 1682602772,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1745939,
       "num": 1745939,
       "word": "空姐飞机上推销商品长达40分钟",
@@ -2881,14 +2897,6 @@
       "onboard_time": 1682513426,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1726224,
-      "num": 1726224,
-      "word": "青簪行 林更新",
-      "onboard_time": 1682602772,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1723972,
@@ -5289,6 +5297,14 @@
       "onboard_time": 1681358670,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1158577,
+      "num": 1158577,
+      "word": "鹿晗纹身像拔罐",
+      "onboard_time": 1682604631,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1156763,
@@ -9745,6 +9761,14 @@
       "onboard_time": 1682489606,
       "rank": 23,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 718719,
+      "num": 560640,
+      "word": "张彬彬PDD",
+      "onboard_time": 1682604333,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 718006,
@@ -20307,6 +20331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 398559,
+      "num": 398559,
+      "word": "朋友圈已经没有了生活的痕迹",
+      "onboard_time": 1682603009,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 398368,
       "num": 275050,
       "word": "赵露思黑色吊带长裙",
@@ -20409,6 +20441,14 @@
       "onboard_time": 1681870224,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396590,
+      "num": 396590,
+      "word": "长月烬明仙门篇",
+      "onboard_time": 1682600310,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 396550,
@@ -20577,14 +20617,6 @@
       "onboard_time": 1681176686,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394589,
-      "num": 394589,
-      "word": "张彬彬PDD",
-      "onboard_time": 1682604333,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 394578,
@@ -21284,7 +21316,7 @@
     },
     {
       "raw_hot": 382557,
-      "num": 264143,
+      "num": 293428,
       "word": "王俊凯北影节生图",
       "onboard_time": 1682601750,
       "rank": 30,
@@ -21472,14 +21504,6 @@
       "word": "他是谁编剧说后面不是他写的",
       "onboard_time": 1680669692,
       "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 378487,
-      "num": 378487,
-      "word": "长月烬明仙门篇",
-      "onboard_time": 1682600310,
-      "rank": 26,
       "category": "影视"
     },
     {
@@ -22329,14 +22353,6 @@
       "onboard_time": 1680590246,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 362261,
-      "num": 362261,
-      "word": "鹿晗纹身像拔罐",
-      "onboard_time": 1682604631,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 362121,
@@ -23385,6 +23401,14 @@
       "onboard_time": 1680685529,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 346353,
+      "num": 336548,
+      "word": "朱一龙又拿奖了",
+      "onboard_time": 1682604992,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 346201,
@@ -24755,6 +24779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 326244,
+      "num": 249021,
+      "word": "AG季后赛开门红",
+      "onboard_time": 1682605895,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 326009,
       "num": 230284,
       "word": "HR听完都闭嘴的离职原因",
@@ -25281,14 +25313,6 @@
       "onboard_time": 1681194025,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 319450,
-      "num": 319450,
-      "word": "朋友圈已经没有了生活的痕迹",
-      "onboard_time": 1682603009,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 319228,
@@ -31715,6 +31739,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 246638,
+      "num": 246638,
+      "word": "虞书欣范丞丞同框",
+      "onboard_time": 1682602829,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246607,
       "num": 265176,
       "word": "大熊猫萌兰反向给游客投喂竹子",
@@ -32441,14 +32473,6 @@
       "onboard_time": 1682380948,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 241009,
-      "num": 241009,
-      "word": "虞书欣范丞丞同框",
-      "onboard_time": 1682602829,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 240985,
@@ -33512,6 +33536,14 @@
       "word": "100岁奶奶质问98岁爷爷爱不爱她",
       "onboard_time": 1681464090,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232237,
+      "num": 232237,
+      "word": "店家回应115元8个串骂顾客穷",
+      "onboard_time": 1682602469,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -45433,14 +45465,6 @@
       "onboard_time": 1682306065,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184092,
-      "num": 184092,
-      "word": "店家回应115元8个串骂顾客穷",
-      "onboard_time": 1682602469,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184064,
@@ -63516,7 +63540,7 @@
     },
     {
       "raw_hot": 18401,
-      "num": 1994604,
+      "num": 2460423,
       "word": "五一出行实用贴士",
       "onboard_time": 1682560405,
       "rank": 2,

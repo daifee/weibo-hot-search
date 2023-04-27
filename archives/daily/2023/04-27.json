@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682604959628,
+  "endTime": 1682606011133,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2881184,
-      "num": 2881184,
+      "raw_hot": 2895984,
+      "num": 2895984,
       "word": "乐乐死因报告的情况说明",
       "onboard_time": 1682599589,
       "rank": 19,
@@ -65,6 +65,14 @@
       "onboard_time": 1682566586,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2641868,
+      "num": 2641868,
+      "word": "肖战舒淇合照",
+      "onboard_time": 1682605470,
+      "rank": 1,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2533707,
@@ -139,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1945693,
+      "num": 600225,
+      "word": "薛之谦 挤挤就到",
+      "onboard_time": 1682602890,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 1844865,
       "num": 1844865,
       "word": "长沙游客不满8根炸串115元被骂穷",
       "onboard_time": 1682586689,
       "rank": 37,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1779407,
-      "num": 600225,
-      "word": "薛之谦 挤挤就到",
-      "onboard_time": 1682602890,
-      "rank": 10,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 1754635,
@@ -163,8 +171,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1726224,
-      "num": 1726224,
+      "raw_hot": 1745994,
+      "num": 1745994,
       "word": "青簪行 林更新",
       "onboard_time": 1682602772,
       "rank": 3,
@@ -241,6 +249,14 @@
       "onboard_time": 1682568507,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1158577,
+      "num": 1158577,
+      "word": "鹿晗纹身像拔罐",
+      "onboard_time": 1682604631,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1153655,
@@ -393,6 +409,14 @@
       "onboard_time": 1682559265,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 718719,
+      "num": 560640,
+      "word": "张彬彬PDD",
+      "onboard_time": 1682604333,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 702795,
@@ -763,20 +787,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398559,
+      "num": 398559,
+      "word": "朋友圈已经没有了生活的痕迹",
+      "onboard_time": 1682603009,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 396590,
+      "num": 396590,
+      "word": "长月烬明仙门篇",
+      "onboard_time": 1682600310,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 395779,
       "num": 395779,
       "word": "爱情公寓雷哥改戏",
       "onboard_time": 1682587950,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 394589,
-      "num": 394589,
-      "word": "张彬彬PDD",
-      "onboard_time": 1682604333,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 390865,
@@ -820,19 +852,11 @@
     },
     {
       "raw_hot": 382557,
-      "num": 264143,
+      "num": 293428,
       "word": "王俊凯北影节生图",
       "onboard_time": 1682601750,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 378487,
-      "num": 378487,
-      "word": "长月烬明仙门篇",
-      "onboard_time": 1682600310,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 374888,
@@ -875,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362261,
-      "num": 362261,
-      "word": "鹿晗纹身像拔罐",
-      "onboard_time": 1682604631,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 360389,
       "num": 240941,
       "word": "长空之王抵制偷漏瞒报票房",
@@ -905,6 +921,14 @@
       "onboard_time": 1682553385,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346353,
+      "num": 336548,
+      "word": "朱一龙又拿奖了",
+      "onboard_time": 1682604992,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 339985,
@@ -939,6 +963,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 326244,
+      "num": 249021,
+      "word": "AG季后赛开门红",
+      "onboard_time": 1682605895,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 322862,
       "num": 322862,
       "word": "淄博中学生上分了",
@@ -953,14 +985,6 @@
       "onboard_time": 1682552123,
       "rank": 20,
       "category": "社会新闻,国内要闻"
-    },
-    {
-      "raw_hot": 319450,
-      "num": 319450,
-      "word": "朋友圈已经没有了生活的痕迹",
-      "onboard_time": 1682603009,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 317151,
@@ -1331,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246638,
+      "num": 246638,
+      "word": "虞书欣范丞丞同框",
+      "onboard_time": 1682602829,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 243069,
       "num": 243069,
       "word": "拿什么衣服迎接酷暑",
@@ -1361,14 +1393,6 @@
       "onboard_time": 1682572169,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241009,
-      "num": 241009,
-      "word": "虞书欣范丞丞同框",
-      "onboard_time": 1682602829,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 236697,
@@ -1417,6 +1441,14 @@
       "onboard_time": 1682582787,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 232237,
+      "num": 232237,
+      "word": "店家回应115元8个串骂顾客穷",
+      "onboard_time": 1682602469,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228839,
@@ -1729,14 +1761,6 @@
       "onboard_time": 1682582968,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184092,
-      "num": 184092,
-      "word": "店家回应115元8个串骂顾客穷",
-      "onboard_time": 1682602469,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183467,
@@ -2596,7 +2620,7 @@
     },
     {
       "raw_hot": 18401,
-      "num": 1994604,
+      "num": 2460423,
       "word": "五一出行实用贴士",
       "onboard_time": 1682560405,
       "rank": 2,
