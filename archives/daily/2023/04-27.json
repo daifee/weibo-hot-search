@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682599723839,
+  "endTime": 1682601789773,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -16,6 +16,14 @@
       "word": "丫丫",
       "onboard_time": 1682510426,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3451233,
+      "num": 3451233,
+      "word": "丫丫一到机场就收到了竹子",
+      "onboard_time": 1682594187,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -35,14 +43,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 3064251,
-      "num": 3064251,
-      "word": "丫丫一到机场就收到了竹子",
-      "onboard_time": 1682594187,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2979723,
       "num": 2979723,
       "word": "38岁985硕士失业被迫送外卖",
@@ -57,6 +57,14 @@
       "onboard_time": 1682566586,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2714929,
+      "num": 2714929,
+      "word": "乐乐死因报告的情况说明",
+      "onboard_time": 1682599589,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2533707,
@@ -179,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1481697,
+      "num": 1481697,
+      "word": "舒淇 内娱美人鱼",
+      "onboard_time": 1682598507,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1304179,
       "num": 444856,
       "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
       "onboard_time": 1682519370,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1249694,
-      "num": 1249694,
-      "word": "舒淇 内娱美人鱼",
-      "onboard_time": 1682598507,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1224832,
@@ -275,7 +283,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1014305,
+      "raw_hot": 1014886,
       "num": 851854,
       "word": "段奕宏的脸",
       "onboard_time": 1682597249,
@@ -361,6 +369,14 @@
       "onboard_time": 1682583146,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666008,
+      "num": 624419,
+      "word": "删掉吧为了宋妍霏",
+      "onboard_time": 1682599467,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 656820,
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427574,
+      "num": 427574,
+      "word": "职校男生1天被霸凌2次后坠亡",
+      "onboard_time": 1682597368,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419287,
       "num": 419287,
       "word": "郑州大妈喊王一博来吃樱桃",
@@ -699,6 +723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 400903,
+      "num": 400903,
+      "word": "青海6名干部聚餐喝酒1人死亡",
+      "onboard_time": 1682600070,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400065,
       "num": 400065,
       "word": "戏霸",
@@ -753,6 +785,14 @@
       "onboard_time": 1682523928,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 382557,
+      "num": 217447,
+      "word": "王俊凯北影节生图",
+      "onboard_time": 1682601750,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 374888,
@@ -987,14 +1027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 284785,
-      "num": 284785,
-      "word": "职校男生1天被霸凌2次后坠亡",
-      "onboard_time": 1682597368,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283529,
       "num": 141828,
       "word": "billkin中国红毯首秀",
@@ -1035,12 +1067,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 281473,
-      "num": 281473,
-      "word": "乐乐死因报告的情况说明",
-      "onboard_time": 1682599589,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 275673,
+      "num": 275673,
+      "word": "袁弘采访哭了",
+      "onboard_time": 1682599829,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 275500,
@@ -1201,6 +1233,14 @@
       "onboard_time": 1682569228,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253886,
+      "num": 253886,
+      "word": "长月烬明仙门篇",
+      "onboard_time": 1682600310,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 252322,
@@ -1371,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213890,
+      "num": 213890,
+      "word": "徐明浩的出场",
+      "onboard_time": 1682598626,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212831,
       "num": 212831,
       "word": "淄博文旅的格局",
@@ -1451,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201456,
-      "num": 201456,
-      "word": "删掉吧为了宋妍霏",
-      "onboard_time": 1682599467,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199387,
       "num": 199387,
       "word": "星穹铁道下载破2000万",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1682569952,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198794,
+      "num": 198794,
+      "word": "内娱大头围男明星们",
+      "onboard_time": 1682599109,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198625,
@@ -1683,12 +1731,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178662,
-      "num": 178662,
-      "word": "内娱大头围男明星们",
-      "onboard_time": 1682599109,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 178605,
+      "num": 178605,
+      "word": "宋雨琦鞠婧祎撞衫",
+      "onboard_time": 1682600729,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177333,
@@ -1963,14 +2011,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 140316,
-      "num": 140316,
-      "word": "徐明浩的出场",
-      "onboard_time": 1682598626,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139959,
       "num": 139959,
       "word": "段宜恩去了王嘉尔演唱会",
@@ -2056,6 +2096,14 @@
       "word": "喻言的蓬蓬裙好大",
       "onboard_time": 1682510909,
       "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128944,
+      "num": 128944,
+      "word": "GUCCI的四位代言人",
+      "onboard_time": 1682601629,
+      "rank": 44,
       "category": "作品衍生"
     },
     {
@@ -2419,6 +2467,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 26863,
+      "num": 473301,
+      "word": "带你看展览",
+      "onboard_time": 1682600427,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 21886,
       "num": 1549984,
       "word": "第六届数字中国建设峰会",
@@ -2427,8 +2483,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4994,
-      "num": 1674367,
+      "raw_hot": 11898,
+      "num": 1994604,
       "word": "五一出行实用贴士",
       "onboard_time": 1682560405,
       "rank": 2,
