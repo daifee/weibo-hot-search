@@ -1,0 +1,410 @@
+{
+  "runTime": 1682560037771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1988814,
+        "num": 1988814,
+        "word": "去世两年后他突然出现在篮球场上",
+        "onboard_time": 1682555368,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1866758,
+        "num": 1866758,
+        "word": "江浙沪人已经放弃五一抢票",
+        "onboard_time": 1682553326,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 17610,
+        "num": 1256176,
+        "word": "第六届数字中国建设峰会",
+        "onboard_time": 1682512106,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1210310,
+        "num": 1210310,
+        "word": "求职者嫌8000工资高要求降到2000",
+        "onboard_time": 1682553447,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967340,
+        "num": 967340,
+        "word": "丫丫启程回国",
+        "onboard_time": 1682518293,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789375,
+        "num": 789375,
+        "word": "惊天救援北大事件学生投稿",
+        "onboard_time": 1682559147,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 641194,
+        "num": 641194,
+        "word": "曾经很火却已消失了的品牌",
+        "onboard_time": 1682514989,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432042,
+        "num": 432042,
+        "word": "串串店家回应鸡爪插13根签",
+        "onboard_time": 1682512648,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366169,
+        "num": 366169,
+        "word": "国产悬疑剧天花板",
+        "onboard_time": 1682553025,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355726,
+        "num": 355726,
+        "word": "刘畊宏了一年的变化",
+        "onboard_time": 1682502629,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1192838,
+        "num": 355011,
+        "word": "专家称五一调休是动了脑筋的做法",
+        "onboard_time": 1682502027,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668521,
+        "num": 354643,
+        "word": "女子称肚痛就医检查遭医生猥亵",
+        "onboard_time": 1682518110,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581016,
+        "num": 353574,
+        "word": "现在的小学生在追谁",
+        "onboard_time": 1682554167,
+        "rank": 12,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 540511,
+        "num": 352826,
+        "word": "嗯哼 人要接受自己的不完美",
+        "onboard_time": 1682518170,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433554,
+        "num": 351963,
+        "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+        "onboard_time": 1682519370,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431757,
+        "num": 350385,
+        "word": "奚梦瑶回应去深圳不是上课是上班",
+        "onboard_time": 1682559926,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350330,
+        "num": 350330,
+        "word": "花少5拟邀阵容",
+        "onboard_time": 1682556929,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309152,
+        "num": 309152,
+        "word": "GALI吵架 TT受伤",
+        "onboard_time": 1682553385,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308412,
+        "num": 308412,
+        "word": "舒淇 岁月不败美人",
+        "onboard_time": 1682558906,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302519,
+        "num": 302519,
+        "word": "警车为丫丫护航",
+        "onboard_time": 1682552003,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285935,
+        "num": 285935,
+        "word": "压力给到张子枫",
+        "onboard_time": 1682513426,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264996,
+        "num": 264996,
+        "word": "24岁女工猝死公司称其自愿加班",
+        "onboard_time": 1682559265,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256749,
+        "num": 256749,
+        "word": "叶冰裳下线",
+        "onboard_time": 1682521230,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254225,
+        "num": 254225,
+        "word": "候补",
+        "onboard_time": 1682559326,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 249743,
+        "num": 249743,
+        "word": "App Store",
+        "onboard_time": 1682555668,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 248262,
+        "num": 248262,
+        "word": "很烧钱但又戒不掉的爱好",
+        "onboard_time": 1682559206,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246473,
+        "num": 246473,
+        "word": "iPhone15Pro渲染图曝光",
+        "onboard_time": 1682558607,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234699,
+        "num": 234699,
+        "word": "阿根廷将使用人民币结算中国进口商品",
+        "onboard_time": 1682558789,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 232397,
+        "num": 232397,
+        "word": "上班喝咖啡连驴都不如",
+        "onboard_time": 1682553207,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225761,
+        "num": 225761,
+        "word": "中国军舰紧急撤离我在苏丹人员",
+        "onboard_time": 1682552123,
+        "rank": 29,
+        "category": "社会新闻,国内要闻"
+      },
+      {
+        "raw_hot": 220214,
+        "num": 220214,
+        "word": "妲己青丘九尾新皮肤",
+        "onboard_time": 1682559265,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192800,
+        "num": 192800,
+        "word": "一起欢迎丫丫回家",
+        "onboard_time": 1682521770,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188416,
+        "num": 188416,
+        "word": "你会介意另一半文化水平低吗",
+        "onboard_time": 1682518710,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161446,
+        "num": 161446,
+        "word": "淄博文旅的格局",
+        "onboard_time": 1682551764,
+        "rank": 33,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 141845,
+        "num": 141845,
+        "word": "结婚太早容易后悔吗",
+        "onboard_time": 1682541792,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139542,
+        "num": 139542,
+        "word": "蛋仔派对",
+        "onboard_time": 1682558485,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138826,
+        "num": 138826,
+        "word": "公交司机耐心帮患舞蹈症乘客落座",
+        "onboard_time": 1682555188,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 134003,
+        "num": 134003,
+        "word": "原来小刺猬打哈欠头顶会开花",
+        "onboard_time": 1682554649,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132932,
+        "num": 132932,
+        "word": "美香",
+        "onboard_time": 1682552966,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128054,
+        "num": 128054,
+        "word": "坏妈妈",
+        "onboard_time": 1682557529,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123070,
+        "num": 123070,
+        "word": "为什么年轻人对考研如此执着",
+        "onboard_time": 1682555007,
+        "rank": 40,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 122393,
+        "num": 122393,
+        "word": "gidle将在长沙举办签售会",
+        "onboard_time": 1682520031,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119615,
+        "num": 119615,
+        "word": "尾鱼开新文了",
+        "onboard_time": 1682551643,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116125,
+        "num": 116125,
+        "word": "哈兰德打破英超进球纪录",
+        "onboard_time": 1682557827,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109567,
+        "num": 109567,
+        "word": "星痕",
+        "onboard_time": 1682523088,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106722,
+        "num": 106722,
+        "word": "澹台烬带着叶夕雾的仙髓活着",
+        "onboard_time": 1682521173,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104181,
+        "num": 104181,
+        "word": "新变异株是否会突破免疫屏障",
+        "onboard_time": 1682559806,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102299,
+        "num": 102299,
+        "word": "易烊千玺刘宪华同框",
+        "onboard_time": 1682523509,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100819,
+        "num": 100819,
+        "word": "不考虑收入你最想做什么工作",
+        "onboard_time": 1682522189,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99128,
+        "num": 99128,
+        "word": "AI鬼城",
+        "onboard_time": 1682556628,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同泽连斯基通电话#"
+    }
+  }
+}
