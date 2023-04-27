@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682606011133,
+  "endTime": 1682608596850,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -56,6 +56,14 @@
       "word": "丫丫一到机场就收到了竹子",
       "onboard_time": 1682594187,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3422672,
+      "num": 3422672,
+      "word": "丫丫到家后近照",
+      "onboard_time": 1682606670,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 1945693,
-      "num": 600225,
+      "num": 604838,
       "word": "薛之谦 挤挤就到",
       "onboard_time": 1682602890,
       "rank": 10,
@@ -1371,6 +1379,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 749204,
+      "num": 749204,
+      "word": "何超云",
+      "onboard_time": 1682606312,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 746455,
       "num": 746455,
       "word": "蒋勤勤状态",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1682317588,
       "rank": 15,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 606473,
+      "num": 606473,
+      "word": "朋友圈已经没有了生活的痕迹",
+      "onboard_time": 1682603009,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 605959,
@@ -2259,6 +2283,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 472140,
+      "num": 472140,
+      "word": "丫丫回家后吃饭吃得好香",
+      "onboard_time": 1682608409,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471409,
       "num": 471409,
       "word": "成都一烧烤店每桌15燃气费",
@@ -2563,6 +2595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432583,
+      "num": 432583,
+      "word": "朱一龙又拿奖了",
+      "onboard_time": 1682604992,
+      "rank": 20,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432013,
       "num": 432013,
       "word": "淄博女领导的决策",
@@ -2747,6 +2787,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 412002,
+      "num": 412002,
+      "word": "白敬亭不把大家当外人",
+      "onboard_time": 1682605895,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 411231,
       "num": 411231,
       "word": "离职后退了两百多个工作群",
@@ -2873,14 +2921,6 @@
       "onboard_time": 1682327008,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398559,
-      "num": 398559,
-      "word": "朋友圈已经没有了生活的痕迹",
-      "onboard_time": 1682603009,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 396590,
@@ -3331,14 +3371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346353,
-      "num": 336548,
-      "word": "朱一龙又拿奖了",
-      "onboard_time": 1682604992,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
       "raw_hot": 346134,
       "num": 346134,
       "word": "阿娇 悲悯感",
@@ -3465,6 +3497,14 @@
       "onboard_time": 1682580388,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332858,
+      "num": 332858,
+      "word": "为什么熟人性侵高发",
+      "onboard_time": 1682607333,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 332543,
@@ -5371,6 +5411,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 221075,
+      "num": 221075,
+      "word": "新型表白方式 西瓜烂了",
+      "onboard_time": 1682606132,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220901,
       "num": 220901,
       "word": "虽然真诚是必杀",
@@ -5955,6 +6003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199407,
+      "num": 199407,
+      "word": "铃铛",
+      "onboard_time": 1682607512,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199387,
       "num": 199387,
       "word": "星穹铁道下载破2000万",
@@ -5985,6 +6041,14 @@
       "onboard_time": 1682569952,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198850,
+      "num": 198850,
+      "word": "王源巡演剧透",
+      "onboard_time": 1682608049,
+      "rank": 36,
+      "category": "作品衍生,音乐"
     },
     {
       "raw_hot": 198794,
@@ -6049,6 +6113,14 @@
       "onboard_time": 1682565264,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197732,
+      "num": 197732,
+      "word": "丫丫到家的第一句祝福",
+      "onboard_time": 1682607751,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197701,
@@ -7105,6 +7177,14 @@
       "onboard_time": 1682503228,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169906,
+      "num": 169906,
+      "word": "Cupid抄袭",
+      "onboard_time": 1682608229,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 169869,
@@ -8217,6 +8297,14 @@
       "onboard_time": 1682525963,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138433,
+      "num": 138433,
+      "word": "黄宗泽纪念第一次从香港坐高铁",
+      "onboard_time": 1682608171,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 137799,
