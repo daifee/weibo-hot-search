@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682573615597,
+  "endTime": 1682576584617,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -593,6 +593,14 @@
       "onboard_time": 1680520114,
       "rank": 26,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 2979723,
+      "num": 2979723,
+      "word": "38岁985硕士失业被迫送外卖",
+      "onboard_time": 1682571268,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2972144,
@@ -2171,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1961402,
-      "num": 1961402,
-      "word": "38岁985硕士失业被迫送外卖",
-      "onboard_time": 1682571268,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1959867,
       "num": 197609,
       "word": "电科",
@@ -2667,6 +2667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1754635,
+      "num": 1754635,
+      "word": "曝王雷改戏黄轩辞演上甘岭",
+      "onboard_time": 1682571569,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1749466,
       "num": 1749466,
       "word": "这竟然是彭昱畅",
@@ -2777,14 +2785,6 @@
       "onboard_time": 1681195464,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1727380,
-      "num": 1727380,
-      "word": "曝王雷改戏黄轩辞演上甘岭",
-      "onboard_time": 1682571569,
-      "rank": 5,
-      "category": "影视"
     },
     {
       "raw_hot": 1726884,
@@ -5171,6 +5171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1153655,
+      "num": 1153655,
+      "word": "CL被曝耍大牌",
+      "onboard_time": 1682570910,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1153403,
       "num": 1153403,
       "word": "OMG战胜LNG",
@@ -6048,14 +6056,6 @@
       "word": "白鹿方严正声明",
       "onboard_time": 1681882348,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1016842,
-      "num": 1016842,
-      "word": "CL被曝耍大牌",
-      "onboard_time": 1682570910,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -13123,6 +13123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 563580,
+      "num": 563580,
+      "word": "杭州6万一晚酒店没有涨价",
+      "onboard_time": 1682573369,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 563401,
       "num": 563401,
       "word": "贾静雯浪姐路透",
@@ -13985,6 +13993,14 @@
       "onboard_time": 1681129825,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535419,
+      "num": 535419,
+      "word": "鹿哈直播带货",
+      "onboard_time": 1682575168,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 534961,
@@ -23371,6 +23387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 339628,
+      "num": 339628,
+      "word": "入职半个月被同事孤立了",
+      "onboard_time": 1682573847,
+      "rank": 16,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 339578,
       "num": 326435,
       "word": "换了新耳机套被同事训斥",
@@ -25787,6 +25811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305346,
+      "num": 305346,
+      "word": "戏霸",
+      "onboard_time": 1682575289,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 305286,
       "num": 235852,
       "word": "北京电影节嘉宾",
@@ -27625,6 +27657,14 @@
       "onboard_time": 1680706357,
       "rank": 33,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 282892,
+      "num": 282892,
+      "word": "孙艺珍产后复出",
+      "onboard_time": 1682576007,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 282587,
@@ -33619,6 +33659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226578,
+      "num": 226578,
+      "word": "林奕含逝世六周年",
+      "onboard_time": 1682574566,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 226517,
       "num": 226517,
       "word": "老孙",
@@ -37145,6 +37193,14 @@
       "onboard_time": 1680750808,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206226,
+      "num": 206226,
+      "word": "时代少年团暑假有全国巡演",
+      "onboard_time": 1682575168,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 206225,
@@ -44795,6 +44851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183446,
+      "num": 183446,
+      "word": "B太回应被人身攻击",
+      "onboard_time": 1682573547,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 183438,
       "num": 183438,
       "word": "湖人首节领先灰熊26分",
@@ -47273,14 +47337,6 @@
       "onboard_time": 1680883049,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170493,
-      "num": 170493,
-      "word": "杭州6万一晚酒店没有涨价",
-      "onboard_time": 1682573369,
-      "rank": 42,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 170462,
@@ -52819,6 +52875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143052,
+      "num": 143052,
+      "word": "热火4比1淘汰雄鹿",
+      "onboard_time": 1682575406,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142941,
       "num": 142941,
       "word": "电竞人主打一个反差",
@@ -52945,6 +53009,14 @@
       "onboard_time": 1680316469,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142300,
+      "num": 142300,
+      "word": "如何用手机检查针孔摄像头",
+      "onboard_time": 1682575646,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142281,
@@ -53537,14 +53609,6 @@
       "onboard_time": 1682046148,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139689,
-      "num": 139689,
-      "word": "B太回应被人身攻击",
-      "onboard_time": 1682573547,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 139677,
@@ -59083,6 +59147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100386,
+      "num": 100386,
+      "word": "GALI 我想对TT说声抱歉",
+      "onboard_time": 1682576545,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100145,
       "num": 100145,
       "word": "特斯拉",
@@ -61209,6 +61281,14 @@
       "onboard_time": 1682267663,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 62647,
+      "num": 99559,
+      "word": "偶像梦幻祭7周年",
+      "onboard_time": 1682575048,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 62585,
