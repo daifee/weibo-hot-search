@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682630096385,
+  "endTime": 1682631212548,
   "band_list": [
     {
       "raw_hot": 2815975,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 223976,
-      "num": 132412,
+      "num": 172840,
       "word": "淄博烧烤店下跪老板与顾客和解",
       "onboard_time": 1682611885,
       "rank": 38,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35927,
+      "num": 35927,
+      "word": "美国GDP",
+      "onboard_time": 1682629152,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 35476,
       "num": 51083,
       "word": "我想吃点好吃的",
@@ -489,14 +497,6 @@
       "onboard_time": 1682599589,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19784,
-      "num": 19784,
-      "word": "美国GDP",
-      "onboard_time": 1682629152,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 9483,
