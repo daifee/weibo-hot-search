@@ -1,0 +1,410 @@
+{
+  "runTime": 1682572593632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2738924,
+        "num": 2738924,
+        "word": "因分享无人回应爸爸退了家庭群",
+        "onboard_time": 1682566586,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2274892,
+        "num": 2274892,
+        "word": "巴特勒太硬了",
+        "onboard_time": 1682570250,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1177281,
+        "num": 1177281,
+        "word": "周也听到谢谢阿瑟的反应",
+        "onboard_time": 1682568507,
+        "rank": 2,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1100408,
+        "num": 1100408,
+        "word": "陈都灵邓为花朵吻",
+        "onboard_time": 1682566887,
+        "rank": 3,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 1016842,
+        "num": 1016842,
+        "word": "CL被曝耍大牌",
+        "onboard_time": 1682570910,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873126,
+        "num": 873126,
+        "word": "曝王雷改戏黄轩辞演上甘岭",
+        "onboard_time": 1682571569,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 839663,
+        "num": 839663,
+        "word": "巴特勒极限空接",
+        "onboard_time": 1682569768,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 827116,
+        "num": 827116,
+        "word": "热火完成黑八",
+        "onboard_time": 1682570490,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 760273,
+        "num": 760273,
+        "word": "丫丫启程回国",
+        "onboard_time": 1682518293,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665423,
+        "num": 665423,
+        "word": "去世两年后他突然出现在篮球场上",
+        "onboard_time": 1682555368,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1592058,
+        "num": 653320,
+        "word": "惠州奔现",
+        "onboard_time": 1682566528,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1242414,
+        "num": 652480,
+        "word": "李玉刚 知乎",
+        "onboard_time": 1682560047,
+        "rank": 11,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 748925,
+        "num": 648926,
+        "word": "奚梦瑶回应去深圳不是上课是上班",
+        "onboard_time": 1682559926,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638524,
+        "num": 638524,
+        "word": "NBA裁判",
+        "onboard_time": 1682568567,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636514,
+        "num": 636514,
+        "word": "38岁985硕士失业被迫送外卖",
+        "onboard_time": 1682571268,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624891,
+        "num": 624891,
+        "word": "求职者嫌8000工资高要求降到2000",
+        "onboard_time": 1682553447,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583597,
+        "num": 583597,
+        "word": "字母哥垫脚",
+        "onboard_time": 1682571390,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541755,
+        "num": 541755,
+        "word": "女子因男友要求旅行AA提分手",
+        "onboard_time": 1682568025,
+        "rank": 17,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 492722,
+        "num": 492722,
+        "word": "江浙沪人已经放弃五一抢票",
+        "onboard_time": 1682553326,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 407462,
+        "num": 407462,
+        "word": "厌蠢症",
+        "onboard_time": 1682569648,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 509692,
+        "num": 392306,
+        "word": "赵丽颖直角肩",
+        "onboard_time": 1682568628,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 366522,
+        "num": 366522,
+        "word": "女子称肚痛就医检查遭医生猥亵",
+        "onboard_time": 1682518110,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351778,
+        "num": 351778,
+        "word": "时尚芭莎婚庆开张",
+        "onboard_time": 1682568147,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344044,
+        "num": 344044,
+        "word": "丫丫将落地上海",
+        "onboard_time": 1682560288,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322862,
+        "num": 322862,
+        "word": "淄博中学生上分了",
+        "onboard_time": 1682570067,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 308328,
+        "num": 308328,
+        "word": "曾经很火却已消失了的品牌",
+        "onboard_time": 1682514989,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300647,
+        "num": 300647,
+        "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+        "onboard_time": 1682519370,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300199,
+        "num": 300199,
+        "word": "勇士国王 天王山之战",
+        "onboard_time": 1682563107,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299686,
+        "num": 299686,
+        "word": "专家称五一调休是动了脑筋的做法",
+        "onboard_time": 1682502027,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297240,
+        "num": 297240,
+        "word": "四六级报名",
+        "onboard_time": 1682568204,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 317151,
+        "num": 291718,
+        "word": "恋与制作人春色无边",
+        "onboard_time": 1682571809,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284964,
+        "num": 284964,
+        "word": "妲己青丘九尾新皮肤",
+        "onboard_time": 1682559265,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259589,
+        "num": 259589,
+        "word": "很烧钱但又戒不掉的爱好",
+        "onboard_time": 1682559206,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251242,
+        "num": 251242,
+        "word": "杨紫Wonderland封面大片",
+        "onboard_time": 1682567128,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242326,
+        "num": 242326,
+        "word": "舒淇 岁月不败美人",
+        "onboard_time": 1682558906,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238511,
+        "num": 238511,
+        "word": "24岁女工猝死公司称其自愿加班",
+        "onboard_time": 1682559265,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236697,
+        "num": 236697,
+        "word": "王一博长空之王预售票房破亿海报",
+        "onboard_time": 1682571091,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225143,
+        "num": 225143,
+        "word": "雄鹿淘汰",
+        "onboard_time": 1682570733,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218240,
+        "num": 218240,
+        "word": "勇士3比2国王",
+        "onboard_time": 1682572169,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213575,
+        "num": 213575,
+        "word": "这期奔跑吧开局就撕名牌",
+        "onboard_time": 1682569290,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211292,
+        "num": 211292,
+        "word": "钟辰乐将缺席NCTDREAM演唱会",
+        "onboard_time": 1682570250,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208982,
+        "num": 208982,
+        "word": "孟菲斯动物园发文送别丫丫",
+        "onboard_time": 1682567847,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204294,
+        "num": 204294,
+        "word": "四成受访职场人对五一调休感到困扰",
+        "onboard_time": 1682571569,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202818,
+        "num": 202818,
+        "word": "种地吧",
+        "onboard_time": 1682571690,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194772,
+        "num": 194772,
+        "word": "青年派计划",
+        "onboard_time": 1682571988,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194323,
+        "num": 194323,
+        "word": "不是搞笑的东西不要往网上发",
+        "onboard_time": 1682570553,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193271,
+        "num": 193271,
+        "word": "只有湖人球迷受伤",
+        "onboard_time": 1682572409,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190841,
+        "num": 190841,
+        "word": "尹浩宇疑似被延迟上学",
+        "onboard_time": 1682560225,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190674,
+        "num": 190674,
+        "word": "工资不高却要经常熬夜的工作",
+        "onboard_time": 1682572529,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188399,
+        "num": 188399,
+        "word": "嗯哼 人要接受自己的不完美",
+        "onboard_time": 1682518170,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#主题教育这样开展#"
+    }
+  }
+}

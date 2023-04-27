@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682570087510,
+  "endTime": 1682572593632,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1465,6 +1465,14 @@
       "onboard_time": 1680862171,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2274892,
+      "num": 2274892,
+      "word": "巴特勒太硬了",
+      "onboard_time": 1682388864,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 2251876,
@@ -5059,6 +5067,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1177281,
+      "num": 1177281,
+      "word": "周也听到谢谢阿瑟的反应",
+      "onboard_time": 1682568507,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1175537,
       "num": 1175537,
       "word": "主持人时期的彭小苒",
@@ -5467,14 +5483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1107017,
-      "num": 1107017,
-      "word": "巴特勒太硬了",
-      "onboard_time": 1682388864,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1105553,
       "num": 1105553,
       "word": "安徽一算命网红3年非法盈利200多万",
@@ -5521,6 +5529,14 @@
       "onboard_time": 1681553367,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1100408,
+      "num": 1100408,
+      "word": "陈都灵邓为花朵吻",
+      "onboard_time": 1682566887,
+      "rank": 4,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 1100322,
@@ -5852,7 +5868,7 @@
     },
     {
       "raw_hot": 1039901,
-      "num": 484945,
+      "num": 648926,
       "word": "奚梦瑶回应去深圳不是上课是上班",
       "onboard_time": 1682559926,
       "rank": 15,
@@ -5921,14 +5937,6 @@
       "onboard_time": 1681030405,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1025606,
-      "num": 1025606,
-      "word": "陈都灵邓为花朵吻",
-      "onboard_time": 1682566887,
-      "rank": 4,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 1023458,
@@ -6024,6 +6032,14 @@
       "word": "白鹿方严正声明",
       "onboard_time": 1681882348,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1016842,
+      "num": 1016842,
+      "word": "CL被曝耍大牌",
+      "onboard_time": 1682570910,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -7475,6 +7491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 873126,
+      "num": 873126,
+      "word": "曝王雷改戏黄轩辞演上甘岭",
+      "onboard_time": 1682571569,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 872900,
       "num": 417730,
       "word": "男子用手电筒吓死千只鸡获刑6个月",
@@ -8073,6 +8097,14 @@
       "onboard_time": 1682230231,
       "rank": 31,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 827116,
+      "num": 827116,
+      "word": "热火完成黑八",
+      "onboard_time": 1682570490,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 826227,
@@ -11195,6 +11227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638524,
+      "num": 638524,
+      "word": "NBA裁判",
+      "onboard_time": 1682568567,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 638280,
       "num": 638280,
       "word": "长月烬明第十一集预告",
@@ -11225,6 +11265,14 @@
       "onboard_time": 1680766110,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 636514,
+      "num": 636514,
+      "word": "38岁985硕士失业被迫送外卖",
+      "onboard_time": 1682571268,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 636297,
@@ -12171,14 +12219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 595844,
-      "num": 595844,
-      "word": "周也听到谢谢阿瑟的反应",
-      "onboard_time": 1682568507,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 595251,
       "num": 342338,
       "word": "阿姨用筷子蘸肉包馄饨几乎只有皮",
@@ -12545,6 +12585,14 @@
       "onboard_time": 1682064451,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 583597,
+      "num": 583597,
+      "word": "字母哥垫脚",
+      "onboard_time": 1682571390,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 583391,
@@ -12956,7 +13004,7 @@
     },
     {
       "raw_hot": 567380,
-      "num": 441593,
+      "num": 541755,
       "word": "女子因男友要求旅行AA提分手",
       "onboard_time": 1682568025,
       "rank": 20,
@@ -14331,14 +14379,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 522673,
-      "num": 425247,
-      "word": "NBA裁判",
-      "onboard_time": 1682568567,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 522650,
       "num": 522650,
       "word": "金智秀ending镜头",
@@ -14404,7 +14444,7 @@
     },
     {
       "raw_hot": 521855,
-      "num": 343326,
+      "num": 392306,
       "word": "赵丽颖直角肩",
       "onboard_time": 1682568628,
       "rank": 31,
@@ -19345,6 +19385,14 @@
       "onboard_time": 1681442850,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 407462,
+      "num": 407462,
+      "word": "厌蠢症",
+      "onboard_time": 1682569648,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 407283,
@@ -24491,6 +24539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 322862,
+      "num": 322862,
+      "word": "淄博中学生上分了",
+      "onboard_time": 1682570067,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 322800,
       "num": 322800,
       "word": "五月天西安",
@@ -24913,6 +24969,14 @@
       "onboard_time": 1680840809,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317151,
+      "num": 291718,
+      "word": "恋与制作人春色无边",
+      "onboard_time": 1682571809,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 316972,
@@ -26075,6 +26139,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 300199,
+      "num": 300199,
+      "word": "勇士国王 天王山之战",
+      "onboard_time": 1682563107,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300197,
       "num": 300197,
       "word": "发遗言后轻生老师妻子发声",
@@ -26265,6 +26337,14 @@
       "onboard_time": 1681716626,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297240,
+      "num": 297240,
+      "word": "四六级报名",
+      "onboard_time": 1682568204,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 297058,
@@ -27809,14 +27889,6 @@
       "onboard_time": 1681863390,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280130,
-      "num": 280130,
-      "word": "勇士国王 天王山之战",
-      "onboard_time": 1682563107,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 280083,
@@ -32243,6 +32315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 236697,
+      "num": 236697,
+      "word": "王一博长空之王预售票房破亿海报",
+      "onboard_time": 1682571091,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236678,
       "num": 236678,
       "word": "清洁工大叔花三个月工资给孩子买手机",
@@ -33691,6 +33771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225143,
+      "num": 225143,
+      "word": "雄鹿淘汰",
+      "onboard_time": 1682570733,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225092,
       "num": 225092,
       "word": "LPL",
@@ -34713,6 +34801,14 @@
       "onboard_time": 1681896566,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218240,
+      "num": 218240,
+      "word": "勇士3比2国王",
+      "onboard_time": 1682572169,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 218179,
@@ -35769,6 +35865,14 @@
       "onboard_time": 1682071830,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 211292,
+      "num": 211292,
+      "word": "钟辰乐将缺席NCTDREAM演唱会",
+      "onboard_time": 1682570250,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 211235,
@@ -37699,6 +37803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204294,
+      "num": 204294,
+      "word": "四成受访职场人对五一调休感到困扰",
+      "onboard_time": 1682571569,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204288,
       "num": 204288,
       "word": "真我发布会",
@@ -38273,6 +38385,14 @@
       "onboard_time": 1680859527,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202818,
+      "num": 202818,
+      "word": "种地吧",
+      "onboard_time": 1680612209,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 202768,
@@ -39689,14 +39809,6 @@
       "onboard_time": 1681020085,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199085,
-      "num": 199085,
-      "word": "种地吧",
-      "onboard_time": 1680612209,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 199079,
@@ -41235,6 +41347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194772,
+      "num": 194772,
+      "word": "青年派计划",
+      "onboard_time": 1682571988,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194722,
       "num": 201612,
       "word": "电影爱很美味豆瓣开分7.8",
@@ -41329,6 +41449,14 @@
       "onboard_time": 1681881028,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194323,
+      "num": 194323,
+      "word": "不是搞笑的东西不要往网上发",
+      "onboard_time": 1682570553,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 194266,
@@ -41603,14 +41731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193547,
-      "num": 193547,
-      "word": "四六级报名",
-      "onboard_time": 1682568204,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 193536,
       "num": 193536,
       "word": "丁程鑫新歌的音色",
@@ -41753,6 +41873,14 @@
       "onboard_time": 1680864869,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193271,
+      "num": 193271,
+      "word": "只有湖人球迷受伤",
+      "onboard_time": 1682572409,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 193265,
@@ -42473,6 +42601,14 @@
       "onboard_time": 1680418709,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 190674,
+      "num": 190674,
+      "word": "工资不高却要经常熬夜的工作",
+      "onboard_time": 1682572529,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 190672,
@@ -49545,14 +49681,6 @@
       "onboard_time": 1681010487,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 158890,
-      "num": 158890,
-      "word": "淄博中学生上分了",
-      "onboard_time": 1682570067,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 158887,

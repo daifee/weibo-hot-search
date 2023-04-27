@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682570087510,
+  "endTime": 1682572593632,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -169,6 +169,14 @@
       "onboard_time": 1682465784,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2274892,
+      "num": 2274892,
+      "word": "巴特勒太硬了",
+      "onboard_time": 1682388864,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 2244000,
@@ -723,6 +731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1177281,
+      "num": 1177281,
+      "word": "周也听到谢谢阿瑟的反应",
+      "onboard_time": 1682568507,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1168289,
       "num": 456958,
       "word": "刘涛 韩素希",
@@ -747,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1107017,
-      "num": 1107017,
-      "word": "巴特勒太硬了",
-      "onboard_time": 1682388864,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1105553,
       "num": 1105553,
       "word": "安徽一算命网红3年非法盈利200多万",
@@ -769,6 +777,14 @@
       "onboard_time": 1682518170,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1100408,
+      "num": 1100408,
+      "word": "陈都灵邓为花朵吻",
+      "onboard_time": 1682566887,
+      "rank": 4,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 1079008,
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 1039901,
-      "num": 484945,
+      "num": 648926,
       "word": "奚梦瑶回应去深圳不是上课是上班",
       "onboard_time": 1682559926,
       "rank": 15,
@@ -809,14 +825,6 @@
       "onboard_time": 1682343031,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1025606,
-      "num": 1025606,
-      "word": "陈都灵邓为花朵吻",
-      "onboard_time": 1682566887,
-      "rank": 4,
-      "category": "影视,艺人"
     },
     {
       "raw_hot": 1023458,
@@ -841,6 +849,14 @@
       "onboard_time": 1682479587,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016842,
+      "num": 1016842,
+      "word": "CL被曝耍大牌",
+      "onboard_time": 1682570910,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1013092,
@@ -955,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 873126,
+      "num": 873126,
+      "word": "曝王雷改戏黄轩辞演上甘岭",
+      "onboard_time": 1682571569,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 864549,
       "num": 864549,
       "word": "长月烬明豆瓣降至6.1分",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1682491886,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 827116,
+      "num": 827116,
+      "word": "热火完成黑八",
+      "onboard_time": 1682570490,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 825395,
@@ -1227,6 +1259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638524,
+      "num": 638524,
+      "word": "NBA裁判",
+      "onboard_time": 1682568567,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 636514,
+      "num": 636514,
+      "word": "38岁985硕士失业被迫送外卖",
+      "onboard_time": 1682571268,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635712,
       "num": 635712,
       "word": "杨紫  转念花开",
@@ -1323,14 +1371,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 595844,
-      "num": 595844,
-      "word": "周也听到谢谢阿瑟的反应",
-      "onboard_time": 1682568507,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 594390,
       "num": 594390,
       "word": "网易起诉暴雪要求退还3亿欠款",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1682342671,
       "rank": 24,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 583597,
+      "num": 583597,
+      "word": "字母哥垫脚",
+      "onboard_time": 1682571390,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 581529,
@@ -1428,7 +1476,7 @@
     },
     {
       "raw_hot": 567380,
-      "num": 441593,
+      "num": 541755,
       "word": "女子因男友要求旅行AA提分手",
       "onboard_time": 1682568025,
       "rank": 20,
@@ -1539,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 522673,
-      "num": 425247,
-      "word": "NBA裁判",
-      "onboard_time": 1682568567,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 522478,
       "num": 522478,
       "word": "中国高铁座椅不只有靠背",
@@ -1564,7 +1604,7 @@
     },
     {
       "raw_hot": 521855,
-      "num": 343326,
+      "num": 392306,
       "word": "赵丽颖直角肩",
       "onboard_time": 1682568628,
       "rank": 31,
@@ -2347,6 +2387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 407462,
+      "num": 407462,
+      "word": "厌蠢症",
+      "onboard_time": 1682569648,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 405319,
       "num": 405319,
       "word": "喻言的蓬蓬裙好大",
@@ -3019,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322862,
+      "num": 322862,
+      "word": "淄博中学生上分了",
+      "onboard_time": 1682570067,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 322782,
       "num": 322782,
       "word": "A股",
@@ -3113,6 +3169,14 @@
       "onboard_time": 1682310871,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317151,
+      "num": 291718,
+      "word": "恋与制作人春色无边",
+      "onboard_time": 1682571809,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 315499,
@@ -3315,12 +3379,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 300199,
+      "num": 300199,
+      "word": "勇士国王 天王山之战",
+      "onboard_time": 1682563107,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299105,
       "num": 299105,
       "word": "为什么不能公开说自己去旅游",
       "onboard_time": 1682326348,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297240,
+      "num": 297240,
+      "word": "四六级报名",
+      "onboard_time": 1682568204,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 295527,
@@ -3473,14 +3553,6 @@
       "onboard_time": 1682316627,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 280130,
-      "num": 280130,
-      "word": "勇士国王 天王山之战",
-      "onboard_time": 1682563107,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 279189,
@@ -4267,6 +4339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236697,
+      "num": 236697,
+      "word": "王一博长空之王预售票房破亿海报",
+      "onboard_time": 1682571091,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236619,
       "num": 236619,
       "word": "你给我的喜欢同床了",
@@ -4393,6 +4473,14 @@
       "onboard_time": 1682378242,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225143,
+      "num": 225143,
+      "word": "雄鹿淘汰",
+      "onboard_time": 1682570733,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 225085,
@@ -4563,6 +4651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218240,
+      "num": 218240,
+      "word": "勇士3比2国王",
+      "onboard_time": 1682572169,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218230,
       "num": 218230,
       "word": "王者荣耀",
@@ -4705,6 +4801,14 @@
       "onboard_time": 1682334928,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211292,
+      "num": 211292,
+      "word": "钟辰乐将缺席NCTDREAM演唱会",
+      "onboard_time": 1682570250,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 211173,
@@ -4867,6 +4971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 204294,
+      "num": 204294,
+      "word": "四成受访职场人对五一调休感到困扰",
+      "onboard_time": 1682571569,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204116,
       "num": 204116,
       "word": "奔跑吧少年",
@@ -4921,6 +5033,14 @@
       "onboard_time": 1682321427,
       "rank": 47,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 202818,
+      "num": 202818,
+      "word": "种地吧",
+      "onboard_time": 1682571690,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 202270,
@@ -5163,6 +5283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194772,
+      "num": 194772,
+      "word": "青年派计划",
+      "onboard_time": 1682571988,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194323,
+      "num": 194323,
+      "word": "不是搞笑的东西不要往网上发",
+      "onboard_time": 1682570553,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194266,
       "num": 194266,
       "word": "时代少年团白天上课晚上上班",
@@ -5219,14 +5355,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193547,
-      "num": 193547,
-      "word": "四六级报名",
-      "onboard_time": 1682568204,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 193407,
       "num": 193407,
       "word": "朱一龙曾说希望带着自己的作品来戛纳",
@@ -5249,6 +5377,14 @@
       "onboard_time": 1682314347,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193271,
+      "num": 193271,
+      "word": "只有湖人球迷受伤",
+      "onboard_time": 1682572409,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 192955,
@@ -5296,6 +5432,14 @@
       "word": "你学的专业在古代叫什么",
       "onboard_time": 1682474967,
       "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 190674,
+      "num": 190674,
+      "word": "工资不高却要经常熬夜的工作",
+      "onboard_time": 1682572529,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -6297,14 +6441,6 @@
       "onboard_time": 1682475147,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 158890,
-      "num": 158890,
-      "word": "淄博中学生上分了",
-      "onboard_time": 1682570067,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 158887,

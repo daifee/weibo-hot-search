@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682570087510,
+  "endTime": 1682572593632,
   "band_list": [
     {
       "raw_hot": 2785417,
@@ -17,6 +17,14 @@
       "onboard_time": 1682560047,
       "rank": 0,
       "category": "科技,艺人"
+    },
+    {
+      "raw_hot": 2274892,
+      "num": 2274892,
+      "word": "巴特勒太硬了",
+      "onboard_time": 1682570250,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2229852,
@@ -75,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177281,
+      "num": 1177281,
+      "word": "周也听到谢谢阿瑟的反应",
+      "onboard_time": 1682568507,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1107975,
       "num": 1107975,
       "word": "女子称肚痛就医检查遭医生猥亵",
       "onboard_time": 1682518110,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1100408,
+      "num": 1100408,
+      "word": "陈都灵邓为花朵吻",
+      "onboard_time": 1682566887,
+      "rank": 4,
+      "category": "影视,艺人"
     },
     {
       "raw_hot": 1100077,
@@ -100,19 +124,19 @@
     },
     {
       "raw_hot": 1039901,
-      "num": 484945,
+      "num": 648926,
       "word": "奚梦瑶回应去深圳不是上课是上班",
       "onboard_time": 1682559926,
       "rank": 15,
       "category": "艺人"
     },
     {
-      "raw_hot": 1025606,
-      "num": 1025606,
-      "word": "陈都灵邓为花朵吻",
-      "onboard_time": 1682566887,
+      "raw_hot": 1016842,
+      "num": 1016842,
+      "word": "CL被曝耍大牌",
+      "onboard_time": 1682570910,
       "rank": 4,
-      "category": "影视,艺人"
+      "category": "艺人"
     },
     {
       "raw_hot": 936938,
@@ -139,6 +163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 873126,
+      "num": 873126,
+      "word": "曝王雷改戏黄轩辞演上甘岭",
+      "onboard_time": 1682571569,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 827116,
+      "num": 827116,
+      "word": "热火完成黑八",
+      "onboard_time": 1682570490,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 731924,
       "num": 731924,
       "word": "24岁女工猝死公司称其自愿加班",
@@ -153,6 +193,22 @@
       "onboard_time": 1682559206,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 638524,
+      "num": 638524,
+      "word": "NBA裁判",
+      "onboard_time": 1682568567,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 636514,
+      "num": 636514,
+      "word": "38岁985硕士失业被迫送外卖",
+      "onboard_time": 1682571268,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634734,
@@ -179,16 +235,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 595844,
-      "num": 595844,
-      "word": "周也听到谢谢阿瑟的反应",
-      "onboard_time": 1682568507,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 583597,
+      "num": 583597,
+      "word": "字母哥垫脚",
+      "onboard_time": 1682571390,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 567380,
-      "num": 441593,
+      "num": 541755,
       "word": "女子因男友要求旅行AA提分手",
       "onboard_time": 1682568025,
       "rank": 20,
@@ -211,16 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 522673,
-      "num": 425247,
-      "word": "NBA裁判",
-      "onboard_time": 1682568567,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 521855,
-      "num": 343326,
+      "num": 392306,
       "word": "赵丽颖直角肩",
       "onboard_time": 1682568628,
       "rank": 31,
@@ -297,6 +345,14 @@
       "onboard_time": 1682519312,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407462,
+      "num": 407462,
+      "word": "厌蠢症",
+      "onboard_time": 1682569648,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 404708,
@@ -387,12 +443,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 322862,
+      "num": 322862,
+      "word": "淄博中学生上分了",
+      "onboard_time": 1682570067,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 322393,
       "num": 322393,
       "word": "中国军舰紧急撤离我在苏丹人员",
       "onboard_time": 1682552123,
       "rank": 20,
       "category": "社会新闻,国内要闻"
+    },
+    {
+      "raw_hot": 317151,
+      "num": 291718,
+      "word": "恋与制作人春色无边",
+      "onboard_time": 1682571809,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 315453,
@@ -425,6 +497,22 @@
       "onboard_time": 1682567847,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300199,
+      "num": 300199,
+      "word": "勇士国王 天王山之战",
+      "onboard_time": 1682563107,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 297240,
+      "num": 297240,
+      "word": "四六级报名",
+      "onboard_time": 1682568204,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 296672,
@@ -473,14 +561,6 @@
       "onboard_time": 1682504370,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280130,
-      "num": 280130,
-      "word": "勇士国王 天王山之战",
-      "onboard_time": 1682563107,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 270339,
@@ -587,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236697,
+      "num": 236697,
+      "word": "王一博长空之王预售票房破亿海报",
+      "onboard_time": 1682571091,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234699,
       "num": 234699,
       "word": "阿根廷将使用人民币结算中国进口商品",
@@ -611,11 +699,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225143,
+      "num": 225143,
+      "word": "雄鹿淘汰",
+      "onboard_time": 1682570733,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222130,
       "num": 222130,
       "word": "灰熊2比3湖人",
       "onboard_time": 1682561607,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218240,
+      "num": 218240,
+      "word": "勇士3比2国王",
+      "onboard_time": 1682572169,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -635,6 +739,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 211292,
+      "num": 211292,
+      "word": "钟辰乐将缺席NCTDREAM演唱会",
+      "onboard_time": 1682570250,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208647,
       "num": 208647,
       "word": "被幼儿园的户外活动惊到了",
@@ -643,12 +755,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 204294,
+      "num": 204294,
+      "word": "四成受访职场人对五一调休感到困扰",
+      "onboard_time": 1682571569,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203325,
       "num": 203325,
       "word": "不考虑收入你最想做什么工作",
       "onboard_time": 1682522189,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202818,
+      "num": 202818,
+      "word": "种地吧",
+      "onboard_time": 1682571690,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 201978,
@@ -683,12 +811,36 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 193547,
-      "num": 193547,
-      "word": "四六级报名",
-      "onboard_time": 1682568204,
-      "rank": 37,
-      "category": "教育"
+      "raw_hot": 194772,
+      "num": 194772,
+      "word": "青年派计划",
+      "onboard_time": 1682571988,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194323,
+      "num": 194323,
+      "word": "不是搞笑的东西不要往网上发",
+      "onboard_time": 1682570553,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 193271,
+      "num": 193271,
+      "word": "只有湖人球迷受伤",
+      "onboard_time": 1682572409,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190674,
+      "num": 190674,
+      "word": "工资不高却要经常熬夜的工作",
+      "onboard_time": 1682572529,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 190345,
@@ -833,14 +985,6 @@
       "onboard_time": 1682520332,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158890,
-      "num": 158890,
-      "word": "淄博中学生上分了",
-      "onboard_time": 1682570067,
-      "rank": 47,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 158887,
