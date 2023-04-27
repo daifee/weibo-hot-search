@@ -1,7 +1,15 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682584431701,
+  "endTime": 1682587001395,
   "band_list": [
+    {
+      "raw_hot": 7279831,
+      "num": 8238361,
+      "word": "丫丫专机已降落上海",
+      "onboard_time": 1682584052,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 4267570,
       "num": 4267570,
@@ -97,14 +105,6 @@
       "onboard_time": 1682324247,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2824316,
-      "num": 2824316,
-      "word": "丫丫专机已降落上海",
-      "onboard_time": 1682584052,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2811375,
@@ -257,6 +257,14 @@
       "onboard_time": 1682328269,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2161069,
+      "num": 2161069,
+      "word": "没想到整个部门全都离职了",
+      "onboard_time": 1682583446,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 2146984,
@@ -843,6 +851,14 @@
       "category": "影视,艺人"
     },
     {
+      "raw_hot": 1085819,
+      "num": 467201,
+      "word": "赵丽颖腿好细",
+      "onboard_time": 1682585250,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1079008,
       "num": 519075,
       "word": "上海一男子商场跳楼砸中女顾客",
@@ -955,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 964654,
-      "num": 466491,
-      "word": "没想到整个部门全都离职了",
-      "onboard_time": 1682583446,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 962450,
       "num": 962450,
       "word": "詹姆斯",
@@ -1001,6 +1009,22 @@
       "onboard_time": 1682390365,
       "rank": 30,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 909783,
+      "num": 535419,
+      "word": "鹿哈直播带货",
+      "onboard_time": 1682575168,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 898528,
+      "num": 898528,
+      "word": "丫丫回国航线熊猫趴飞机上",
+      "onboard_time": 1682583327,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 890369,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1682491886,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 835210,
-      "num": 535419,
-      "word": "鹿哈直播带货",
-      "onboard_time": 1682575168,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 827116,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1682263175,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688276,
+      "num": 688276,
+      "word": "徐姥爷说会照顾好丫丫",
+      "onboard_time": 1682583146,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 677518,
@@ -2019,6 +2043,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 472157,
+      "num": 472157,
+      "word": "丫丫带着乐乐回家了",
+      "onboard_time": 1682585910,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471409,
       "num": 471409,
       "word": "成都一烧烤店每桌15燃气费",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1682307268,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455854,
+      "num": 455854,
+      "word": "陈宝国曾说被王雷带着演戏",
+      "onboard_time": 1682586332,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 454138,
@@ -2451,14 +2491,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 413673,
-      "num": 413673,
-      "word": "徐姥爷说会照顾好丫丫",
-      "onboard_time": 1682583146,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412788,
       "num": 412788,
       "word": "同担对明星热情消退 因为上班",
@@ -2489,6 +2521,22 @@
       "onboard_time": 1682568204,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 409921,
+      "num": 409921,
+      "word": "陈乔恩说欢迎丫丫回家",
+      "onboard_time": 1682585250,
+      "rank": 16,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 407704,
+      "num": 407704,
+      "word": "因为已婚未育遭公司拒绝",
+      "onboard_time": 1682583987,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 407462,
@@ -2547,6 +2595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 400565,
+      "num": 400565,
+      "word": "离职后退了两百多个工作群",
+      "onboard_time": 1682585250,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 400065,
       "num": 400065,
       "word": "戏霸",
@@ -2569,14 +2625,6 @@
       "onboard_time": 1682327008,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 397897,
-      "num": 397897,
-      "word": "丫丫回国航线熊猫趴飞机上",
-      "onboard_time": 1682583327,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394998,
@@ -2827,6 +2875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 360197,
+      "num": 360197,
+      "word": "乐乐",
+      "onboard_time": 1682585070,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360132,
       "num": 360132,
       "word": "GALI吵架 TT受伤",
@@ -3009,6 +3065,14 @@
       "onboard_time": 1682410767,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339985,
+      "num": 339985,
+      "word": "肖战活动出发路透",
+      "onboard_time": 1682585310,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 338810,
@@ -3707,6 +3771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 279053,
+      "num": 279053,
+      "word": "易烊千玺身边除了胖虎还有二虎",
+      "onboard_time": 1682586510,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279007,
       "num": 279007,
       "word": "武汉多地标惊现游戏NPC打卡",
@@ -4193,6 +4265,14 @@
       "onboard_time": 1682475568,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 253282,
+      "num": 253282,
+      "word": "渴了喝水 饿了扇嘴",
+      "onboard_time": 1682584469,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 253082,
@@ -5011,6 +5091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210137,
+      "num": 210137,
+      "word": "五个字内的恐怖故事",
+      "onboard_time": 1682585191,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209836,
       "num": 209836,
       "word": "白桃星座",
@@ -5201,6 +5289,14 @@
       "onboard_time": 1682418986,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203527,
+      "num": 203527,
+      "word": "丫丫和萌兰做邻居",
+      "onboard_time": 1682586752,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203325,
@@ -6643,14 +6739,6 @@
       "category": "音乐,综艺"
     },
     {
-      "raw_hot": 162260,
-      "num": 162260,
-      "word": "因为已婚未育遭公司拒绝",
-      "onboard_time": 1682583987,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161895,
       "num": 161895,
       "word": "西安急救中心原主任被开除",
@@ -6675,6 +6763,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 161008,
+      "num": 161008,
+      "word": "长沙游客不满8根炸串115元被骂穷",
+      "onboard_time": 1682586689,
+      "rank": 37,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 160956,
       "num": 160956,
       "word": "专家称二阳患者应属个例",
@@ -6697,6 +6793,14 @@
       "onboard_time": 1682408305,
       "rank": 34,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 160088,
+      "num": 160088,
+      "word": "你见过真正的西安不夜城吗",
+      "onboard_time": 1682586092,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 159981,
@@ -7867,6 +7971,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 123460,
+      "num": 123460,
+      "word": "刘江江说朱一龙拿影帝实至名归",
+      "onboard_time": 1682586810,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122874,
       "num": 106305,
       "word": "叶夕雾说澹台烬再见了",
@@ -8025,6 +8137,14 @@
       "onboard_time": 1682436865,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115705,
+      "num": 115705,
+      "word": "苏醒种地后真香了",
+      "onboard_time": 1682585851,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 115039,
@@ -8203,6 +8323,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 107484,
+      "num": 107484,
+      "word": "长空之王抵制偷漏瞒报票房",
+      "onboard_time": 1682586989,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 106928,
       "num": 90569,
       "word": "程嘉树那一跪就是他奉献的一生",
@@ -8353,6 +8481,14 @@
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101600,
+      "num": 101600,
+      "word": "新英雄亚连即将抵达王者峡谷",
+      "onboard_time": 1682586989,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 97712,
@@ -8601,6 +8737,14 @@
       "onboard_time": 1682272573,
       "rank": 18,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 69528,
+      "num": 421824,
+      "word": "淄博烧烤的灵魂配料是啥",
+      "onboard_time": 1682586029,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 68822,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1682587001395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7279831,
+        "num": 8238361,
+        "word": "丫丫专机已降落上海",
+        "onboard_time": 1682584052,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2161069,
+        "num": 2161069,
+        "word": "没想到整个部门全都离职了",
+        "onboard_time": 1682583446,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76848,
+        "num": 1675136,
+        "word": "流动的中国生机勃勃",
+        "onboard_time": 1682580987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512676,
+        "num": 1512676,
+        "word": "浦东机场",
+        "onboard_time": 1682582129,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955385,
+        "num": 955385,
+        "word": "丫丫",
+        "onboard_time": 1682579906,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898528,
+        "num": 898528,
+        "word": "丫丫回国航线熊猫趴飞机上",
+        "onboard_time": 1682583327,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688276,
+        "num": 688276,
+        "word": "徐姥爷说会照顾好丫丫",
+        "onboard_time": 1682583146,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594621,
+        "num": 594621,
+        "word": "梅姨案2名人贩子被执行死刑",
+        "onboard_time": 1682577147,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542989,
+        "num": 542989,
+        "word": "因分享无人回应爸爸退了家庭群",
+        "onboard_time": 1682566586,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 472157,
+        "num": 472157,
+        "word": "丫丫带着乐乐回家了",
+        "onboard_time": 1682585910,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1085819,
+        "num": 467201,
+        "word": "赵丽颖腿好细",
+        "onboard_time": 1682585250,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 909783,
+        "num": 462165,
+        "word": "鹿哈直播带货",
+        "onboard_time": 1682575168,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801531,
+        "num": 461728,
+        "word": "孙艺珍产后复出",
+        "onboard_time": 1682576007,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455854,
+        "num": 455854,
+        "word": "陈宝国曾说被王雷带着演戏",
+        "onboard_time": 1682586332,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69528,
+        "num": 421824,
+        "word": "淄博烧烤的灵魂配料是啥",
+        "onboard_time": 1682586029,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 419587,
+        "num": 419587,
+        "word": "李玉刚 知乎",
+        "onboard_time": 1682560047,
+        "rank": 15,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 409921,
+        "num": 409921,
+        "word": "陈乔恩说欢迎丫丫回家",
+        "onboard_time": 1682585250,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 407704,
+        "num": 407704,
+        "word": "因为已婚未育遭公司拒绝",
+        "onboard_time": 1682583987,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 400735,
+        "num": 400735,
+        "word": "一人一句话祝福丫丫",
+        "onboard_time": 1682579906,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400565,
+        "num": 400565,
+        "word": "离职后退了两百多个工作群",
+        "onboard_time": 1682585250,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386812,
+        "num": 386812,
+        "word": "去世两年后他突然出现在篮球场上",
+        "onboard_time": 1682555368,
+        "rank": 20,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 360197,
+        "num": 360197,
+        "word": "乐乐",
+        "onboard_time": 1682585070,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339985,
+        "num": 339985,
+        "word": "肖战活动出发路透",
+        "onboard_time": 1682585310,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301672,
+        "num": 301672,
+        "word": "陈都灵邓为花朵吻",
+        "onboard_time": 1682566887,
+        "rank": 23,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 279053,
+        "num": 279053,
+        "word": "易烊千玺身边除了胖虎还有二虎",
+        "onboard_time": 1682586510,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269018,
+        "num": 269018,
+        "word": "宋妍霏回应古装丑",
+        "onboard_time": 1682579608,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267885,
+        "num": 267885,
+        "word": "江浙沪人已经放弃五一抢票",
+        "onboard_time": 1682553326,
+        "rank": 26,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 264022,
+        "num": 264022,
+        "word": "侵权迪丽热巴网友已无财产可执行",
+        "onboard_time": 1682581290,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253282,
+        "num": 253282,
+        "word": "渴了喝水 饿了扇嘴",
+        "onboard_time": 1682584469,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231172,
+        "num": 231172,
+        "word": "王鹤棣看胡连馨画画时的反应",
+        "onboard_time": 1682582907,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 226033,
+        "num": 226033,
+        "word": "杭州6万一晚酒店没有涨价",
+        "onboard_time": 1682573369,
+        "rank": 30,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 210137,
+        "num": 210137,
+        "word": "五个字内的恐怖故事",
+        "onboard_time": 1682585191,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203527,
+        "num": 203527,
+        "word": "丫丫和萌兰做邻居",
+        "onboard_time": 1682586752,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201517,
+        "num": 201517,
+        "word": "小鬼 抢票",
+        "onboard_time": 1682582665,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171361,
+        "num": 171361,
+        "word": "周也听到谢谢阿瑟的反应",
+        "onboard_time": 1682568507,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166670,
+        "num": 166670,
+        "word": "女子称肚痛就医检查遭医生猥亵",
+        "onboard_time": 1682518110,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162917,
+        "num": 162917,
+        "word": "求职者嫌8000工资高要求降到2000",
+        "onboard_time": 1682553447,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161008,
+        "num": 161008,
+        "word": "长沙游客不满8根炸串115元被骂穷",
+        "onboard_time": 1682586689,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 160088,
+        "num": 160088,
+        "word": "你见过真正的西安不夜城吗",
+        "onboard_time": 1682586092,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146149,
+        "num": 146149,
+        "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+        "onboard_time": 1682519370,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139339,
+        "num": 139339,
+        "word": "曾经很火却已消失了的品牌",
+        "onboard_time": 1682514989,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126449,
+        "num": 126449,
+        "word": "女子因男友要求旅行AA提分手",
+        "onboard_time": 1682568025,
+        "rank": 41,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 123460,
+        "num": 123460,
+        "word": "刘江江说朱一龙拿影帝实至名归",
+        "onboard_time": 1682586810,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123420,
+        "num": 123420,
+        "word": "奚梦瑶回应去深圳不是上课是上班",
+        "onboard_time": 1682559926,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121694,
+        "num": 121694,
+        "word": "脾气不好很多时候是因为我爸",
+        "onboard_time": 1682583808,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115705,
+        "num": 115705,
+        "word": "苏醒种地后真香了",
+        "onboard_time": 1682585851,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107484,
+        "num": 107484,
+        "word": "长空之王抵制偷漏瞒报票房",
+        "onboard_time": 1682586989,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106506,
+        "num": 106506,
+        "word": "入职半个月被同事孤立了",
+        "onboard_time": 1682573847,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 101999,
+        "num": 101999,
+        "word": "长月烬明爱别离合集",
+        "onboard_time": 1682583930,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101600,
+        "num": 101600,
+        "word": "新英雄亚连即将抵达王者峡谷",
+        "onboard_time": 1682586989,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#第六届数字中国建设峰会#"
+    }
+  }
+}
