@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682562899566,
+  "endTime": 1682563445294,
   "band_list": [
     {
       "raw_hot": 4267570,
@@ -123,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2533707,
+      "num": 2533707,
+      "word": "李玉刚 知乎",
+      "onboard_time": 1682560047,
+      "rank": 0,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 2470645,
       "num": 2470645,
       "word": "B站千万粉丝UP主回应停更传言",
       "onboard_time": 1682306306,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 2460057,
-      "num": 2460057,
-      "word": "李玉刚 知乎",
-      "onboard_time": 1682560047,
-      "rank": 0,
-      "category": "科技,艺人"
     },
     {
       "raw_hot": 2434479,
@@ -179,6 +179,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 2229852,
+      "num": 2229852,
+      "word": "去世两年后他突然出现在篮球场上",
+      "onboard_time": 1682555368,
+      "rank": 1,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 2217580,
       "num": 2217580,
       "word": "为什么读了研也找不到工作",
@@ -193,14 +201,6 @@
       "onboard_time": 1682328269,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2156457,
-      "num": 2156457,
-      "word": "去世两年后他突然出现在篮球场上",
-      "onboard_time": 1682555368,
-      "rank": 1,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 2146984,
@@ -779,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1039901,
+      "num": 484945,
+      "word": "奚梦瑶回应去深圳不是上课是上班",
+      "onboard_time": 1682559926,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1031768,
       "num": 1031768,
       "word": "沈腾说马丽和乔杉搭感觉没有那么顺",
@@ -809,14 +817,6 @@
       "onboard_time": 1682479587,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1014671,
-      "num": 470063,
-      "word": "奚梦瑶回应去深圳不是上课是上班",
-      "onboard_time": 1682559926,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1013092,
@@ -1099,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 731924,
+      "num": 731924,
+      "word": "24岁女工猝死公司称其自愿加班",
+      "onboard_time": 1682559265,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 729640,
       "num": 729640,
       "word": "卫健委回应从车展回来核酸阳性",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1682311112,
       "rank": 7,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 670616,
-      "num": 670616,
-      "word": "24岁女工猝死公司称其自愿加班",
-      "onboard_time": 1682559265,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 658002,
@@ -1267,6 +1267,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 602831,
+      "num": 602831,
+      "word": "妲己青丘九尾新皮肤",
+      "onboard_time": 1682559265,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 598702,
       "num": 598702,
       "word": "陈都灵生图",
@@ -1281,14 +1289,6 @@
       "onboard_time": 1682319509,
       "rank": 9,
       "category": "游戏,财经"
-    },
-    {
-      "raw_hot": 594315,
-      "num": 594315,
-      "word": "妲己青丘九尾新皮肤",
-      "onboard_time": 1682559265,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 592791,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1682341770,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575937,
+      "num": 575937,
+      "word": "很烧钱但又戒不掉的爱好",
+      "onboard_time": 1682559206,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 568935,
@@ -1555,6 +1563,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 503089,
+      "num": 503089,
+      "word": "尹浩宇疑似被延迟上学",
+      "onboard_time": 1682560225,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501248,
       "num": 212419,
       "word": "淘宝崩了",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1682297069,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500185,
+      "num": 500185,
+      "word": "舒淇 岁月不败美人",
+      "onboard_time": 1682558906,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 499320,
@@ -1649,14 +1673,6 @@
       "onboard_time": 1682306245,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 488166,
-      "num": 488166,
-      "word": "舒淇 岁月不败美人",
-      "onboard_time": 1682558906,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 486122,
@@ -1803,14 +1819,6 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 474377,
-      "num": 474377,
-      "word": "很烧钱但又戒不掉的爱好",
-      "onboard_time": 1682559206,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 472751,
       "num": 278525,
       "word": "你能否接受对象有过同居史",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1682523088,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 465205,
-      "num": 465205,
-      "word": "尹浩宇疑似被延迟上学",
-      "onboard_time": 1682560225,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 465143,
@@ -1977,6 +1977,14 @@
       "onboard_time": 1682514387,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 449323,
+      "num": 449323,
+      "word": "丫丫将落地上海",
+      "onboard_time": 1682560288,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 446856,
@@ -2267,14 +2275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 409875,
-      "num": 409875,
-      "word": "丫丫将落地上海",
-      "onboard_time": 1682560288,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 405319,
       "num": 405319,
       "word": "喻言的蓬蓬裙好大",
@@ -2489,6 +2489,14 @@
       "onboard_time": 1682421925,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 371922,
+      "num": 371922,
+      "word": "扬州地震",
+      "onboard_time": 1682561485,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368959,
@@ -3035,14 +3043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314646,
-      "num": 314646,
-      "word": "扬州地震",
-      "onboard_time": 1682561485,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314637,
       "num": 314637,
       "word": "上班喝咖啡连驴都不如",
@@ -3363,6 +3363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 280130,
+      "num": 280130,
+      "word": "勇士国王 天王山之战",
+      "onboard_time": 1682563107,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279189,
       "num": 279189,
       "word": "某公司给员工放假玩游戏",
@@ -3489,6 +3497,14 @@
       "onboard_time": 1682391024,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268327,
+      "num": 268327,
+      "word": "曹县货车司机20年挣4套房",
+      "onboard_time": 1682561365,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 267869,
@@ -3907,6 +3923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247016,
+      "num": 247016,
+      "word": "湖人 头孢教练",
+      "onboard_time": 1682561847,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246607,
       "num": 265176,
       "word": "大熊猫萌兰反向给游客投喂竹子",
@@ -4017,14 +4041,6 @@
       "onboard_time": 1682475806,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 242480,
-      "num": 242480,
-      "word": "曹县货车司机20年挣4套房",
-      "onboard_time": 1682561365,
-      "rank": 27,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 242281,
@@ -4161,6 +4177,14 @@
       "onboard_time": 1682514629,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233753,
+      "num": 233753,
+      "word": "不良人",
+      "onboard_time": 1682562688,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 233463,
@@ -4801,14 +4825,6 @@
       "onboard_time": 1682483611,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199849,
-      "num": 199849,
-      "word": "湖人 头孢教练",
-      "onboard_time": 1682561847,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 199424,
@@ -5473,14 +5489,6 @@
       "onboard_time": 1682511149,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180536,
-      "num": 180536,
-      "word": "不良人",
-      "onboard_time": 1682562688,
-      "rank": 36,
-      "category": "动漫"
     },
     {
       "raw_hot": 179982,
@@ -6419,6 +6427,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 146589,
+      "num": 146589,
+      "word": "CL上海",
+      "onboard_time": 1682562206,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146487,
       "num": 137397,
       "word": "姐姐们好美",
@@ -6705,14 +6721,6 @@
       "onboard_time": 1682424024,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 137676,
-      "num": 137676,
-      "word": "CL上海",
-      "onboard_time": 1682562206,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 137255,
@@ -7083,6 +7091,14 @@
       "category": "旅游,情感"
     },
     {
+      "raw_hot": 123589,
+      "num": 123589,
+      "word": "7岁男孩教科书式救回落水儿童",
+      "onboard_time": 1682560166,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 122874,
       "num": 106305,
       "word": "叶夕雾说澹台烬再见了",
@@ -7275,14 +7291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 114166,
-      "num": 114166,
-      "word": "7岁男孩教科书式救回落水儿童",
-      "onboard_time": 1682560166,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 113503,
       "num": 113503,
       "word": "外交部再次提醒在苏中国公民",
@@ -7369,6 +7377,14 @@
       "onboard_time": 1682357357,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108491,
+      "num": 108491,
+      "word": "90岁戚发轫院士寄语90后",
+      "onboard_time": 1682563408,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108112,
@@ -7545,6 +7561,14 @@
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97720,
+      "num": 123785,
+      "word": "去西北旅行人均摄影大师",
+      "onboard_time": 1682563286,
+      "rank": 46,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 97712,

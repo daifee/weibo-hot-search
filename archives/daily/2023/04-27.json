@@ -1,18 +1,18 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682562899566,
+  "endTime": 1682563445294,
   "band_list": [
     {
-      "raw_hot": 2460057,
-      "num": 2460057,
+      "raw_hot": 2533707,
+      "num": 2533707,
       "word": "李玉刚 知乎",
       "onboard_time": 1682560047,
       "rank": 0,
       "category": "科技,艺人"
     },
     {
-      "raw_hot": 2156457,
-      "num": 2156457,
+      "raw_hot": 2229852,
+      "num": 2229852,
       "word": "去世两年后他突然出现在篮球场上",
       "onboard_time": 1682555368,
       "rank": 1,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1014671,
-      "num": 470063,
+      "raw_hot": 1039901,
+      "num": 484945,
       "word": "奚梦瑶回应去深圳不是上课是上班",
       "onboard_time": 1682559926,
       "rank": 15,
@@ -107,8 +107,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 670616,
-      "num": 670616,
+      "raw_hot": 731924,
+      "num": 731924,
       "word": "24岁女工猝死公司称其自愿加班",
       "onboard_time": 1682559265,
       "rank": 21,
@@ -131,12 +131,20 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 594315,
-      "num": 594315,
+      "raw_hot": 602831,
+      "num": 602831,
       "word": "妲己青丘九尾新皮肤",
       "onboard_time": 1682559265,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 575937,
+      "num": 575937,
+      "word": "很烧钱但又戒不掉的爱好",
+      "onboard_time": 1682559206,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 551154,
@@ -171,20 +179,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 488166,
-      "num": 488166,
+      "raw_hot": 503089,
+      "num": 503089,
+      "word": "尹浩宇疑似被延迟上学",
+      "onboard_time": 1682560225,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 500185,
+      "num": 500185,
       "word": "舒淇 岁月不败美人",
       "onboard_time": 1682558906,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 474377,
-      "num": 474377,
-      "word": "很烧钱但又戒不掉的爱好",
-      "onboard_time": 1682559206,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 465569,
@@ -195,12 +203,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 465205,
-      "num": 465205,
-      "word": "尹浩宇疑似被延迟上学",
-      "onboard_time": 1682560225,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 449323,
+      "num": 449323,
+      "word": "丫丫将落地上海",
+      "onboard_time": 1682560288,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445869,
@@ -217,14 +225,6 @@
       "onboard_time": 1682519312,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409875,
-      "num": 409875,
-      "word": "丫丫将落地上海",
-      "onboard_time": 1682560288,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404708,
@@ -249,6 +249,14 @@
       "onboard_time": 1682523928,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 371922,
+      "num": 371922,
+      "word": "扬州地震",
+      "onboard_time": 1682561485,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366636,
@@ -297,14 +305,6 @@
       "onboard_time": 1682518710,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 314646,
-      "num": 314646,
-      "word": "扬州地震",
-      "onboard_time": 1682561485,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314637,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280130,
+      "num": 280130,
+      "word": "勇士国王 天王山之战",
+      "onboard_time": 1682563107,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270339,
       "num": 270339,
       "word": "iPhone15Pro渲染图曝光",
@@ -377,6 +385,14 @@
       "onboard_time": 1682511445,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268327,
+      "num": 268327,
+      "word": "曹县货车司机20年挣4套房",
+      "onboard_time": 1682561365,
+      "rank": 27,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 267344,
@@ -427,12 +443,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 242480,
-      "num": 242480,
-      "word": "曹县货车司机20年挣4套房",
-      "onboard_time": 1682561365,
-      "rank": 27,
-      "category": "社会新闻,财经"
+      "raw_hot": 247016,
+      "num": 247016,
+      "word": "湖人 头孢教练",
+      "onboard_time": 1682561847,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 234699,
@@ -441,6 +457,14 @@
       "onboard_time": 1682558789,
       "rank": 27,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 233753,
+      "num": 233753,
+      "word": "不良人",
+      "onboard_time": 1682562688,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 228557,
@@ -475,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199849,
-      "num": 199849,
-      "word": "湖人 头孢教练",
-      "onboard_time": 1682561847,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188942,
       "num": 188942,
       "word": "点亮icon守护丫丫",
@@ -497,14 +513,6 @@
       "onboard_time": 1682561005,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180536,
-      "num": 180536,
-      "word": "不良人",
-      "onboard_time": 1682562688,
-      "rank": 36,
-      "category": "动漫"
     },
     {
       "raw_hot": 180474,
@@ -603,6 +611,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 146589,
+      "num": 146589,
+      "word": "CL上海",
+      "onboard_time": 1682562206,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142702,
       "num": 142702,
       "word": "AI鬼城",
@@ -633,14 +649,6 @@
       "onboard_time": 1682491347,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137676,
-      "num": 137676,
-      "word": "CL上海",
-      "onboard_time": 1682562206,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 134186,
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123589,
+      "num": 123589,
+      "word": "7岁男孩教科书式救回落水儿童",
+      "onboard_time": 1682560166,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 121965,
       "num": 121965,
       "word": "这才是女生们想找的裤子吧",
@@ -747,14 +763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114166,
-      "num": 114166,
-      "word": "7岁男孩教科书式救回落水儿童",
-      "onboard_time": 1682560166,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 111642,
       "num": 111642,
       "word": "崩坏星穹铁道超话",
@@ -777,6 +785,14 @@
       "onboard_time": 1682516191,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108491,
+      "num": 108491,
+      "word": "90岁戚发轫院士寄语90后",
+      "onboard_time": 1682563408,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107480,
@@ -841,6 +857,14 @@
       "onboard_time": 1682507727,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 97720,
+      "num": 123785,
+      "word": "去西北旅行人均摄影大师",
+      "onboard_time": 1682563286,
+      "rank": 46,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 97418,
