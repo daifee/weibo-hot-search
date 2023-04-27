@@ -1,0 +1,410 @@
+{
+  "runTime": 1682569231931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2148718,
+        "num": 2148718,
+        "word": "因分享无人回应爸爸退了家庭群",
+        "onboard_time": 1682566586,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1065983,
+        "num": 1065983,
+        "word": "求职者嫌8000工资高要求降到2000",
+        "onboard_time": 1682553447,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924378,
+        "num": 924378,
+        "word": "丫丫启程回国",
+        "onboard_time": 1682518293,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1911944,
+        "num": 853796,
+        "word": "惠州奔现",
+        "onboard_time": 1682566528,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753174,
+        "num": 753174,
+        "word": "陈都灵邓为花朵吻",
+        "onboard_time": 1682566887,
+        "rank": 4,
+        "category": "影视,艺人"
+      },
+      {
+        "raw_hot": 878655,
+        "num": 749218,
+        "word": "去世两年后他突然出现在篮球场上",
+        "onboard_time": 1682555368,
+        "rank": 5,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 723459,
+        "num": 723459,
+        "word": "江浙沪人已经放弃五一抢票",
+        "onboard_time": 1682553326,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 547107,
+        "num": 547107,
+        "word": "很烧钱但又戒不掉的爱好",
+        "onboard_time": 1682559206,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 441506,
+        "num": 441506,
+        "word": "24岁女工猝死公司称其自愿加班",
+        "onboard_time": 1682559265,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400843,
+        "num": 400843,
+        "word": "丫丫将落地上海",
+        "onboard_time": 1682560288,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1798157,
+        "num": 400174,
+        "word": "李玉刚 知乎",
+        "onboard_time": 1682560047,
+        "rank": 10,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 1038882,
+        "num": 398074,
+        "word": "奚梦瑶回应去深圳不是上课是上班",
+        "onboard_time": 1682559926,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395849,
+        "num": 395849,
+        "word": "妲己青丘九尾新皮肤",
+        "onboard_time": 1682559265,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 361180,
+        "num": 361180,
+        "word": "曾经很火却已消失了的品牌",
+        "onboard_time": 1682514989,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34972,
+        "num": 361161,
+        "word": "超上镜妆造",
+        "onboard_time": 1682568747,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 480144,
+        "num": 361160,
+        "word": "杨紫Wonderland封面大片",
+        "onboard_time": 1682567128,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 361144,
+        "num": 361144,
+        "word": "女子称肚痛就医检查遭医生猥亵",
+        "onboard_time": 1682518110,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348681,
+        "num": 348681,
+        "word": "专家称五一调休是动了脑筋的做法",
+        "onboard_time": 1682502027,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333171,
+        "num": 333171,
+        "word": "宝格丽明星慢镜头",
+        "onboard_time": 1682564246,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 327949,
+        "num": 327949,
+        "word": "时尚芭莎婚庆开张",
+        "onboard_time": 1682568147,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393720,
+        "num": 326553,
+        "word": "女子因男友要求旅行AA提分手",
+        "onboard_time": 1682568025,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 318601,
+        "num": 318601,
+        "word": "周也听到谢谢阿瑟的反应",
+        "onboard_time": 1682568507,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314587,
+        "num": 314587,
+        "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+        "onboard_time": 1682519370,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312447,
+        "num": 312447,
+        "word": "尹浩宇疑似被延迟上学",
+        "onboard_time": 1682560225,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262989,
+        "num": 262989,
+        "word": "男子2万根树枝做6只熊猫迎丫丫回家",
+        "onboard_time": 1682567365,
+        "rank": 24,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 256431,
+        "num": 256431,
+        "word": "GALI吵架 TT受伤",
+        "onboard_time": 1682553385,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247474,
+        "num": 247474,
+        "word": "压力给到张子枫",
+        "onboard_time": 1682513426,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239067,
+        "num": 239067,
+        "word": "舒淇 岁月不败美人",
+        "onboard_time": 1682558906,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237531,
+        "num": 237531,
+        "word": "男子出车祸交警强行送医发现脾脏破裂",
+        "onboard_time": 1682566766,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235150,
+        "num": 235150,
+        "word": "上海事业单位",
+        "onboard_time": 1682564126,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 291982,
+        "num": 234799,
+        "word": "NBA裁判",
+        "onboard_time": 1682568567,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290470,
+        "num": 232161,
+        "word": "赵丽颖直角肩",
+        "onboard_time": 1682568628,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 228505,
+        "num": 228505,
+        "word": "孟菲斯动物园发文送别丫丫",
+        "onboard_time": 1682567847,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226652,
+        "num": 226652,
+        "word": "张新成手臂上的疤痕",
+        "onboard_time": 1682568688,
+        "rank": 33,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 208933,
+        "num": 208933,
+        "word": "嗯哼 人要接受自己的不完美",
+        "onboard_time": 1682518170,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197215,
+        "num": 197215,
+        "word": "勇士国王 天王山之战",
+        "onboard_time": 1682563107,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192892,
+        "num": 192892,
+        "word": "被幼儿园的户外活动惊到了",
+        "onboard_time": 1682563645,
+        "rank": 36,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 192427,
+        "num": 192427,
+        "word": "四六级报名",
+        "onboard_time": 1682568204,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187880,
+        "num": 187880,
+        "word": "一起欢迎丫丫回家",
+        "onboard_time": 1682521770,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182440,
+        "num": 182440,
+        "word": "iPhone15Pro渲染图曝光",
+        "onboard_time": 1682558607,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 181747,
+        "num": 181747,
+        "word": "杭州东站已是人从众",
+        "onboard_time": 1682565506,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175796,
+        "num": 175796,
+        "word": "明天你先去看哪部五一档新片",
+        "onboard_time": 1682567484,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166994,
+        "num": 166994,
+        "word": "CL上海",
+        "onboard_time": 1682562206,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165608,
+        "num": 165608,
+        "word": "刘畊宏了一年的变化",
+        "onboard_time": 1682502629,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157993,
+        "num": 157993,
+        "word": "中国军舰紧急撤离我在苏丹人员",
+        "onboard_time": 1682552123,
+        "rank": 44,
+        "category": "社会新闻,国内要闻"
+      },
+      {
+        "raw_hot": 150734,
+        "num": 150734,
+        "word": "惊天救援",
+        "onboard_time": 1682560586,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 140321,
+        "num": 140321,
+        "word": "湖人 头孢教练",
+        "onboard_time": 1682561847,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139872,
+        "num": 139872,
+        "word": "如何不提雨字描述雨很大",
+        "onboard_time": 1682560825,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136774,
+        "num": 136774,
+        "word": "花少5拟邀阵容",
+        "onboard_time": 1682556929,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120729,
+        "num": 125215,
+        "word": "不良人",
+        "onboard_time": 1682562688,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#第六届数字中国建设峰会#"
+    }
+  }
+}
