@@ -1,0 +1,410 @@
+{
+  "runTime": 1682595220585,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2213195,
+        "num": 2213195,
+        "word": "薛之谦本人到不了薛之谦演唱会",
+        "onboard_time": 1682587288,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289801,
+        "num": 2058726,
+        "word": "淄博用热情来拥抱每一位朋友",
+        "onboard_time": 1682589026,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32381,
+        "num": 2017076,
+        "word": "流动的中国生机勃勃",
+        "onboard_time": 1682580987,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1998621,
+        "num": 1998621,
+        "word": "GUCCI红毯",
+        "onboard_time": 1682590349,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133370,
+        "num": 1747393,
+        "word": "男子悬空救女孩腿抽筋民警接力跟上",
+        "onboard_time": 1682589026,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1614430,
+        "num": 1614430,
+        "word": "长沙游客不满8根炸串115元被骂穷",
+        "onboard_time": 1682586689,
+        "rank": 5,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 120583,
+        "num": 1451346,
+        "word": "卧病在床的父亲给女儿梳头发",
+        "onboard_time": 1682589026,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1370651,
+        "num": 1370651,
+        "word": "浦东机场",
+        "onboard_time": 1682582129,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224832,
+        "num": 1224832,
+        "word": "INTO1无效解散",
+        "onboard_time": 1682594187,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1186799,
+        "num": 1186799,
+        "word": "丫丫一到机场就收到了竹子",
+        "onboard_time": 1682594187,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109906,
+        "num": 1109906,
+        "word": "丫丫专机已降落上海",
+        "onboard_time": 1682584052,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894009,
+        "num": 894009,
+        "word": "丫丫回国航线熊猫趴飞机上",
+        "onboard_time": 1682583327,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824978,
+        "num": 824978,
+        "word": "丫丫回国后安排",
+        "onboard_time": 1682594909,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782068,
+        "num": 782068,
+        "word": "没想到整个部门全都离职了",
+        "onboard_time": 1682583446,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259758,
+        "num": 658910,
+        "word": "今晚红毯又是神仙打架",
+        "onboard_time": 1682594307,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 613690,
+        "num": 613690,
+        "word": "何猷君亲王嘉尔",
+        "onboard_time": 1682593769,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 601459,
+        "num": 601459,
+        "word": "丫丫",
+        "onboard_time": 1682579906,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489346,
+        "num": 489346,
+        "word": "模仿金卡戴珊的网红心脏骤停死亡",
+        "onboard_time": 1682590349,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 442613,
+        "num": 442613,
+        "word": "赵丽颖腿好细",
+        "onboard_time": 1682585250,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 432240,
+        "num": 432240,
+        "word": "上海动物园",
+        "onboard_time": 1682589686,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419287,
+        "num": 419287,
+        "word": "郑州大妈喊王一博来吃樱桃",
+        "onboard_time": 1682593648,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 394747,
+        "num": 394747,
+        "word": "丫丫专机抵达上海照片",
+        "onboard_time": 1682588909,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369487,
+        "num": 369487,
+        "word": "张元英姐姐撞脸周雨彤",
+        "onboard_time": 1682590408,
+        "rank": 22,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 347887,
+        "num": 347887,
+        "word": "易烊千玺身边除了胖虎还有二虎",
+        "onboard_time": 1682586510,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337390,
+        "num": 337390,
+        "word": "李玉刚 知乎",
+        "onboard_time": 1682560047,
+        "rank": 24,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 318919,
+        "num": 318919,
+        "word": "丫丫和萌兰做邻居",
+        "onboard_time": 1682586752,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307356,
+        "num": 307356,
+        "word": "一人一句话祝福丫丫",
+        "onboard_time": 1682579906,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287450,
+        "num": 287450,
+        "word": "虞书欣的靴子好大",
+        "onboard_time": 1682587889,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257804,
+        "num": 257804,
+        "word": "爱情公寓雷哥改戏",
+        "onboard_time": 1682587950,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 257326,
+        "num": 257326,
+        "word": "王雷西北锤王",
+        "onboard_time": 1682593049,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 243272,
+        "num": 243272,
+        "word": "千万不要因为工作太闲辞职",
+        "onboard_time": 1682587471,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 235884,
+        "num": 235884,
+        "word": "沧九旻黎苏苏44秒吻戏",
+        "onboard_time": 1682589448,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235645,
+        "num": 235645,
+        "word": "你最关心丫丫哪些情况",
+        "onboard_time": 1682591429,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227435,
+        "num": 227435,
+        "word": "因分享无人回应爸爸退了家庭群",
+        "onboard_time": 1682566586,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226472,
+        "num": 226472,
+        "word": "SEVENTEEN孙悟空初舞台",
+        "onboard_time": 1682592210,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 226120,
+        "num": 226120,
+        "word": "去世两年后他突然出现在篮球场上",
+        "onboard_time": 1682555368,
+        "rank": 35,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 219874,
+        "num": 219874,
+        "word": "家里千万不要留快递纸盒",
+        "onboard_time": 1682591191,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217812,
+        "num": 217812,
+        "word": "鹿哈直播带货",
+        "onboard_time": 1682575168,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203456,
+        "num": 203456,
+        "word": "孩子惊厥送医父亲踹停电梯全家被困",
+        "onboard_time": 1682594368,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184959,
+        "num": 184959,
+        "word": "梅姨案2名人贩子被执行死刑",
+        "onboard_time": 1682577147,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184481,
+        "num": 184481,
+        "word": "江浙沪人已经放弃五一抢票",
+        "onboard_time": 1682553326,
+        "rank": 40,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 182081,
+        "num": 182081,
+        "word": "范丞丞戴的耳钉",
+        "onboard_time": 1682590226,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181818,
+        "num": 181818,
+        "word": "网友骗爸爸王鹤棣是自己男朋友",
+        "onboard_time": 1682592990,
+        "rank": 42,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 178621,
+        "num": 178621,
+        "word": "离职后退了两百多个工作群",
+        "onboard_time": 1682585250,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178153,
+        "num": 178153,
+        "word": "徐姥爷说会照顾好丫丫",
+        "onboard_time": 1682583146,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176613,
+        "num": 176613,
+        "word": "张婧仪高中时旧照",
+        "onboard_time": 1682590108,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128936,
+        "num": 176292,
+        "word": "星穹铁道",
+        "onboard_time": 1682593468,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176200,
+        "num": 176200,
+        "word": "孙艺珍产后复出",
+        "onboard_time": 1682576007,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81268,
+        "num": 156555,
+        "word": "新英雄亚连即将抵达王者峡谷",
+        "onboard_time": 1682586989,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 73005,
+        "num": 144039,
+        "word": "恋与制作人",
+        "onboard_time": 1682592628,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#第六届数字中国建设峰会#"
+    }
+  }
+}
