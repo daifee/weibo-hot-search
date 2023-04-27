@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682616805890,
+  "endTime": 1682619671113,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -9753,6 +9753,14 @@
       "onboard_time": 1682395651,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30421,
+      "num": 30421,
+      "word": "小伙淄博吃烧烤没排上号老板下跪求谅解",
+      "onboard_time": 1682618716,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30263,
