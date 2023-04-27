@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682612441709,
+  "endTime": 1682613421080,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1575031,
+      "num": 1309355,
+      "word": "崔永元",
+      "onboard_time": 1682609670,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1568086,
       "num": 1568086,
       "word": "丫丫回国后安排",
@@ -785,14 +793,6 @@
       "onboard_time": 1682305441,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1309355,
-      "num": 1309355,
-      "word": "崔永元",
-      "onboard_time": 1682609670,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1304179,
@@ -1123,20 +1123,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 961920,
+      "num": 961920,
+      "word": "何超云",
+      "onboard_time": 1682606312,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 952414,
       "num": 952414,
       "word": "肖战周也 徐克新电影",
       "onboard_time": 1682467108,
       "rank": 7,
       "category": "影视"
-    },
-    {
-      "raw_hot": 950381,
-      "num": 950381,
-      "word": "何超云",
-      "onboard_time": 1682606312,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 948308,
@@ -1307,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 805797,
+      "num": 805797,
+      "word": "为什么熟人性侵高发",
+      "onboard_time": 1682607333,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 804430,
       "num": 624419,
       "word": "删掉吧为了宋妍霏",
@@ -1328,14 +1336,6 @@
       "word": "长月烬明更换背景音乐",
       "onboard_time": 1682478085,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 793335,
-      "num": 793335,
-      "word": "为什么熟人性侵高发",
-      "onboard_time": 1682607333,
-      "rank": 22,
       "category": "影视"
     },
     {
@@ -5355,6 +5355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223976,
+      "num": 132412,
+      "word": "淄博烧烤店下跪老板与顾客和解",
+      "onboard_time": 1682611885,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223328,
       "num": 223328,
       "word": "易建联 广东队",
@@ -6651,6 +6659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185413,
+      "num": 185413,
+      "word": "妲己令牌",
+      "onboard_time": 1682608949,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185236,
       "num": 185236,
       "word": "郑中基 幼儿园活动",
@@ -7449,14 +7465,6 @@
       "onboard_time": 1682416947,
       "rank": 42,
       "category": "音乐,综艺"
-    },
-    {
-      "raw_hot": 162036,
-      "num": 162036,
-      "word": "妲己令牌",
-      "onboard_time": 1682608949,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 161895,
@@ -8539,14 +8547,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 132412,
-      "num": 132412,
-      "word": "淄博烧烤店下跪老板与顾客和解",
-      "onboard_time": 1682611885,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132175,
       "num": 132175,
       "word": "乘风2023播出时间",
@@ -9347,6 +9347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 92701,
+      "num": 92701,
+      "word": "官方通报沈阳店铺招牌统一黑底白字",
+      "onboard_time": 1682612126,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92242,
       "num": 92242,
       "word": "接丫丫回家",
@@ -9451,14 +9459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82922,
-      "num": 82922,
-      "word": "官方通报沈阳店铺招牌统一黑底白字",
-      "onboard_time": 1682612126,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81256,
       "num": 81256,
       "word": "ENHYPEN预告",
@@ -9537,6 +9537,14 @@
       "onboard_time": 1682549720,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 71259,
+      "num": 71259,
+      "word": "耳机能有多魔幻",
+      "onboard_time": 1682609847,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 71254,
