@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682601789773,
+  "endTime": 1682602509920,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -355,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 804430,
+      "num": 624419,
+      "word": "删掉吧为了宋妍霏",
+      "onboard_time": 1682599467,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731924,
       "num": 731924,
       "word": "24岁女工猝死公司称其自愿加班",
@@ -369,14 +377,6 @@
       "onboard_time": 1682583146,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 666008,
-      "num": 624419,
-      "word": "删掉吧为了宋妍霏",
-      "onboard_time": 1682599467,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 656820,
@@ -587,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 463406,
+      "num": 463406,
+      "word": "职校男生1天被霸凌2次后坠亡",
+      "onboard_time": 1682597368,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457431,
       "num": 281040,
       "word": "你最关心丫丫哪些情况",
@@ -635,11 +643,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427574,
-      "num": 427574,
-      "word": "职校男生1天被霸凌2次后坠亡",
-      "onboard_time": 1682597368,
-      "rank": 20,
+      "raw_hot": 429188,
+      "num": 429188,
+      "word": "青海6名干部聚餐喝酒1人死亡",
+      "onboard_time": 1682600070,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -721,14 +729,6 @@
       "onboard_time": 1682564126,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 400903,
-      "num": 400903,
-      "word": "青海6名干部聚餐喝酒1人死亡",
-      "onboard_time": 1682600070,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400065,
@@ -891,6 +891,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 325935,
+      "num": 306252,
+      "word": "长月烬明仙门篇",
+      "onboard_time": 1682600310,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 322862,
       "num": 322862,
       "word": "淄博中学生上分了",
@@ -929,6 +937,14 @@
       "onboard_time": 1682553207,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 311843,
+      "num": 311843,
+      "word": "袁弘采访哭了",
+      "onboard_time": 1682599829,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 308355,
@@ -1065,14 +1081,6 @@
       "onboard_time": 1682597427,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 275673,
-      "num": 275673,
-      "word": "袁弘采访哭了",
-      "onboard_time": 1682599829,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 275500,
@@ -1233,14 +1241,6 @@
       "onboard_time": 1682569228,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253886,
-      "num": 253886,
-      "word": "长月烬明仙门篇",
-      "onboard_time": 1682600310,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 252322,
@@ -1449,6 +1449,22 @@
       "onboard_time": 1682563645,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 207039,
+      "num": 207039,
+      "word": "GUCCI内场",
+      "onboard_time": 1682602229,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 206447,
+      "num": 206447,
+      "word": "宋雨琦鞠婧祎撞衫",
+      "onboard_time": 1682600729,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206226,
@@ -1729,14 +1745,6 @@
       "onboard_time": 1682579066,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178605,
-      "num": 178605,
-      "word": "宋雨琦鞠婧祎撞衫",
-      "onboard_time": 1682600729,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177333,
@@ -2275,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107598,
+      "num": 122253,
+      "word": "店家回应115元8个串骂顾客穷",
+      "onboard_time": 1682602469,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107480,
       "num": 107480,
       "word": "杨幂的发量",
@@ -2459,6 +2475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 56723,
+      "num": 530939,
+      "word": "带你看展览",
+      "onboard_time": 1682600427,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 56137,
       "num": 419283,
       "word": "超上镜妆造",
@@ -2467,12 +2491,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 26863,
-      "num": 473301,
-      "word": "带你看展览",
-      "onboard_time": 1682600427,
-      "rank": 14,
-      "category": "作品衍生"
+      "raw_hot": 42392,
+      "num": 119626,
+      "word": "暖阳获得KPL常规赛最佳选手",
+      "onboard_time": 1682595448,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 21886,
@@ -2483,7 +2507,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11898,
+      "raw_hot": 14228,
       "num": 1994604,
       "word": "五一出行实用贴士",
       "onboard_time": 1682560405,
