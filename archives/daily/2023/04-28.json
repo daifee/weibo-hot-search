@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682631212548,
+  "endTime": 1682633707682,
   "band_list": [
     {
       "raw_hot": 2815975,
@@ -91,6 +91,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 507096,
+      "num": 507096,
+      "word": "朋友圈已经没有了生活的痕迹",
+      "onboard_time": 1682603009,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 470734,
       "num": 470734,
       "word": "薛之谦本人到不了薛之谦演唱会",
@@ -107,20 +115,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 398626,
+      "num": 398626,
+      "word": "淄博烧烤店下跪老板与顾客和解",
+      "onboard_time": 1682611885,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386323,
       "num": 386323,
       "word": "张彬彬PDD",
       "onboard_time": 1682604333,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376246,
-      "num": 376246,
-      "word": "朋友圈已经没有了生活的痕迹",
-      "onboard_time": 1682603009,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 326013,
@@ -153,14 +161,6 @@
       "onboard_time": 1682605470,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 223976,
-      "num": 172840,
-      "word": "淄博烧烤店下跪老板与顾客和解",
-      "onboard_time": 1682611885,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223063,
@@ -427,6 +427,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69618,
+      "num": 69618,
+      "word": "美国GDP",
+      "onboard_time": 1682629152,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 59555,
+      "num": 59555,
+      "word": "同事结婚行政到工位挨个收礼金",
+      "onboard_time": 1682620454,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57126,
       "num": 57126,
       "word": "小伙淄博吃烧烤没排上号老板下跪求谅解",
@@ -435,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51088,
-      "num": 51088,
+      "raw_hot": 55471,
+      "num": 55471,
       "word": "王雷对男一号的执念",
       "onboard_time": 1682597427,
       "rank": 48,
@@ -459,22 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37291,
-      "num": 37291,
-      "word": "同事结婚行政到工位挨个收礼金",
-      "onboard_time": 1682620454,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35927,
-      "num": 35927,
-      "word": "美国GDP",
-      "onboard_time": 1682629152,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 35476,
       "num": 51083,
       "word": "我想吃点好吃的",
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 30246,
-      "num": 27542,
+      "num": 35229,
       "word": "GUCCI红毯",
       "onboard_time": 1682590349,
       "rank": 30,
@@ -499,8 +499,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 9483,
-      "num": 17759,
+      "raw_hot": 11605,
+      "num": 35189,
       "word": "崩坏星穹铁道",
       "onboard_time": 1682510426,
       "rank": 49,
