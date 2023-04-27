@@ -1,0 +1,410 @@
+{
+  "runTime": 1682558623934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2082811,
+        "num": 2082811,
+        "word": "江浙沪人已经放弃五一抢票",
+        "onboard_time": 1682553326,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1856795,
+        "num": 1856795,
+        "word": "去世两年后他突然出现在篮球场上",
+        "onboard_time": 1682555368,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 20737,
+        "num": 1549984,
+        "word": "第六届数字中国建设峰会",
+        "onboard_time": 1682512106,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1496491,
+        "num": 1496491,
+        "word": "求职者嫌8000工资高要求降到2000",
+        "onboard_time": 1682553447,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100077,
+        "num": 1100077,
+        "word": "丫丫启程回国",
+        "onboard_time": 1682518293,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970647,
+        "num": 970647,
+        "word": "女子称肚痛就医检查遭医生猥亵",
+        "onboard_time": 1682518110,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751240,
+        "num": 751240,
+        "word": "曾经很火却已消失了的品牌",
+        "onboard_time": 1682514989,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 617634,
+        "num": 617634,
+        "word": "现在的小学生在追谁",
+        "onboard_time": 1682554167,
+        "rank": 7,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 551154,
+        "num": 551154,
+        "word": "串串店家回应鸡爪插13根签",
+        "onboard_time": 1682512648,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445869,
+        "num": 445869,
+        "word": "国产悬疑剧天花板",
+        "onboard_time": 1682553025,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1601505,
+        "num": 445267,
+        "word": "专家称五一调休是动了脑筋的做法",
+        "onboard_time": 1682502027,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630773,
+        "num": 445171,
+        "word": "嗯哼 人要接受自己的不完美",
+        "onboard_time": 1682518170,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560635,
+        "num": 444856,
+        "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
+        "onboard_time": 1682519370,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444296,
+        "num": 444296,
+        "word": "奚梦瑶又去深圳上课了",
+        "onboard_time": 1682519312,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438322,
+        "num": 438322,
+        "word": "刘畊宏了一年的变化",
+        "onboard_time": 1682502629,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404708,
+        "num": 404708,
+        "word": "警车为丫丫护航",
+        "onboard_time": 1682552003,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368080,
+        "num": 368080,
+        "word": "压力给到张子枫",
+        "onboard_time": 1682513426,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366636,
+        "num": 366636,
+        "word": "花少5拟邀阵容",
+        "onboard_time": 1682556929,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360132,
+        "num": 360132,
+        "word": "GALI吵架 TT受伤",
+        "onboard_time": 1682553385,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334767,
+        "num": 334767,
+        "word": "App Store",
+        "onboard_time": 1682555668,
+        "rank": 19,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 322393,
+        "num": 322393,
+        "word": "中国军舰紧急撤离我在苏丹人员",
+        "onboard_time": 1682552123,
+        "rank": 20,
+        "category": "社会新闻,国内要闻"
+      },
+      {
+        "raw_hot": 315453,
+        "num": 315453,
+        "word": "你会介意另一半文化水平低吗",
+        "onboard_time": 1682518710,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315022,
+        "num": 315022,
+        "word": "叶冰裳下线",
+        "onboard_time": 1682521230,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 314637,
+        "num": 314637,
+        "word": "上班喝咖啡连驴都不如",
+        "onboard_time": 1682553207,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212831,
+        "num": 212831,
+        "word": "淄博文旅的格局",
+        "onboard_time": 1682551764,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 188942,
+        "num": 188942,
+        "word": "点亮icon守护丫丫",
+        "onboard_time": 1682557888,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177333,
+        "num": 177333,
+        "word": "结婚太早容易后悔吗",
+        "onboard_time": 1682541792,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170252,
+        "num": 170252,
+        "word": "一起欢迎丫丫回家",
+        "onboard_time": 1682521770,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166192,
+        "num": 166192,
+        "word": "为什么年轻人对考研如此执着",
+        "onboard_time": 1682555007,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 163909,
+        "num": 163909,
+        "word": "美香",
+        "onboard_time": 1682552966,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162880,
+        "num": 162880,
+        "word": "原来小刺猬打哈欠头顶会开花",
+        "onboard_time": 1682554649,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158794,
+        "num": 158794,
+        "word": "尾鱼开新文了",
+        "onboard_time": 1682551643,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156220,
+        "num": 156220,
+        "word": "公交司机耐心帮患舞蹈症乘客落座",
+        "onboard_time": 1682555188,
+        "rank": 32,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 150582,
+        "num": 150582,
+        "word": "gidle将在长沙举办签售会",
+        "onboard_time": 1682520031,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145712,
+        "num": 145712,
+        "word": "易烊千玺刘宪华同框",
+        "onboard_time": 1682523509,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142702,
+        "num": 142702,
+        "word": "AI鬼城",
+        "onboard_time": 1682556628,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 136522,
+        "num": 136522,
+        "word": "不考虑收入你最想做什么工作",
+        "onboard_time": 1682522189,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134186,
+        "num": 134186,
+        "word": "儿子因病离世父亲看着孙子满眼是爱",
+        "onboard_time": 1682551884,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133809,
+        "num": 133809,
+        "word": "蛋仔派对",
+        "onboard_time": 1682558485,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133590,
+        "num": 133590,
+        "word": "星痕",
+        "onboard_time": 1682523088,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129910,
+        "num": 129910,
+        "word": "哈兰德长发飘飘不影响进球",
+        "onboard_time": 1682550321,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120990,
+        "num": 120990,
+        "word": "坏妈妈",
+        "onboard_time": 1682557529,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 120870,
+        "num": 120870,
+        "word": "西直门长公主",
+        "onboard_time": 1682504370,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119660,
+        "num": 119660,
+        "word": "云南有5种颜色的草莓",
+        "onboard_time": 1682515949,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114563,
+        "num": 114563,
+        "word": "澹台烬带着叶夕雾的仙髓活着",
+        "onboard_time": 1682521173,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110879,
+        "num": 110879,
+        "word": "刘宇宁染头发了",
+        "onboard_time": 1682517210,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107860,
+        "num": 107860,
+        "word": "尹锡悦抵美在机场亲吻花童引争议",
+        "onboard_time": 1682539571,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 105356,
+        "num": 105356,
+        "word": "哈兰德打破英超进球纪录",
+        "onboard_time": 1682557827,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104687,
+        "num": 104687,
+        "word": "iPhone15Pro渲染图曝光",
+        "onboard_time": 1682558607,
+        "rank": 48,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 103663,
+        "num": 103663,
+        "word": "公安部向美执法部门严正交涉抗议",
+        "onboard_time": 1682558309,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会倒计时150天#"
+    }
+  }
+}
