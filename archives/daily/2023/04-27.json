@@ -1,6 +1,6 @@
 {
   "startTime": 1682526200213,
-  "endTime": 1682587001395,
+  "endTime": 1682588032659,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -51,6 +51,14 @@
       "category": "科技,艺人"
     },
     {
+      "raw_hot": 2451561,
+      "num": 2451561,
+      "word": "薛之谦本人到不了薛之谦演唱会",
+      "onboard_time": 1682587288,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2309153,
       "num": 2309153,
       "word": "梅姨案2名人贩子被执行死刑",
@@ -75,8 +83,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 2161069,
-      "num": 2161069,
+      "raw_hot": 2186131,
+      "num": 2186131,
       "word": "没想到整个部门全都离职了",
       "onboard_time": 1682583446,
       "rank": 24,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 1152390,
-      "num": 469137,
+      "num": 494191,
       "word": "孙艺珍产后复出",
       "onboard_time": 1682576007,
       "rank": 20,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1085819,
-      "num": 467201,
+      "num": 500209,
       "word": "赵丽颖腿好细",
       "onboard_time": 1682585250,
       "rank": 10,
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 948308,
+      "num": 535419,
+      "word": "鹿哈直播带货",
+      "onboard_time": 1682575168,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 919235,
       "num": 789375,
       "word": "惊天救援北大事件学生投稿",
@@ -219,16 +235,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 909783,
-      "num": 535419,
-      "word": "鹿哈直播带货",
-      "onboard_time": 1682575168,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 898528,
-      "num": 898528,
+      "raw_hot": 904486,
+      "num": 904486,
       "word": "丫丫回国航线熊猫趴飞机上",
       "onboard_time": 1682583327,
       "rank": 36,
@@ -259,8 +267,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 688276,
-      "num": 688276,
+      "raw_hot": 702795,
+      "num": 702795,
       "word": "徐姥爷说会照顾好丫丫",
       "onboard_time": 1682583146,
       "rank": 31,
@@ -273,6 +281,14 @@
       "onboard_time": 1682559206,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 655527,
+      "num": 655527,
+      "word": "丫丫和萌兰做邻居",
+      "onboard_time": 1682586752,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640567,
@@ -363,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 517117,
+      "num": 490214,
+      "word": "易烊千玺身边除了胖虎还有二虎",
+      "onboard_time": 1682586510,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 514091,
       "num": 514091,
       "word": "gidle将在长沙举办签售会",
@@ -419,8 +443,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 472157,
-      "num": 472157,
+      "raw_hot": 476721,
+      "num": 476721,
       "word": "丫丫带着乐乐回家了",
       "onboard_time": 1682585910,
       "rank": 9,
@@ -475,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 411231,
+      "num": 411231,
+      "word": "离职后退了两百多个工作群",
+      "onboard_time": 1682585250,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 410426,
       "num": 410426,
       "word": "四六级报名",
@@ -521,14 +553,6 @@
       "onboard_time": 1682564126,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 400565,
-      "num": 400565,
-      "word": "离职后退了两百多个工作群",
-      "onboard_time": 1682585250,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 400065,
@@ -603,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360389,
+      "num": 240941,
+      "word": "长空之王抵制偷漏瞒报票房",
+      "onboard_time": 1682586989,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 360197,
       "num": 360197,
       "word": "乐乐",
@@ -617,6 +649,14 @@
       "onboard_time": 1682553385,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357979,
+      "num": 357979,
+      "word": "长沙游客不满8根炸串115元被骂穷",
+      "onboard_time": 1682586689,
+      "rank": 37,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 339985,
@@ -755,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287868,
+      "num": 287868,
+      "word": "渴了喝水 饿了扇嘴",
+      "onboard_time": 1682584469,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 282062,
       "num": 282062,
       "word": "吴磊虞书欣 黑莲花",
@@ -769,14 +817,6 @@
       "onboard_time": 1682504370,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279053,
-      "num": 279053,
-      "word": "易烊千玺身边除了胖虎还有二虎",
-      "onboard_time": 1682586510,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 273410,
@@ -899,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 253282,
-      "num": 253282,
-      "word": "渴了喝水 饿了扇嘴",
-      "onboard_time": 1682584469,
-      "rank": 28,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 250462,
       "num": 250462,
       "word": "任嘉伦袁冰妍或将主演千香引",
@@ -921,6 +953,14 @@
       "onboard_time": 1682561847,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243069,
+      "num": 243069,
+      "word": "拿什么衣服迎接酷暑",
+      "onboard_time": 1682587770,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 241160,
@@ -971,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228433,
+      "num": 228433,
+      "word": "五个字内的恐怖故事",
+      "onboard_time": 1682585191,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226578,
       "num": 226578,
       "word": "林奕含逝世六周年",
@@ -993,6 +1041,14 @@
       "onboard_time": 1682561607,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219388,
+      "num": 219388,
+      "word": "千万不要因为工作太闲辞职",
+      "onboard_time": 1682587471,
+      "rank": 32,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 214618,
@@ -1027,12 +1083,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210137,
-      "num": 210137,
-      "word": "五个字内的恐怖故事",
-      "onboard_time": 1682585191,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 210309,
+      "num": 210309,
+      "word": "虞书欣的靴子好大",
+      "onboard_time": 1682587889,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208647,
@@ -1064,14 +1120,6 @@
       "word": "四成受访职场人对五一调休感到困扰",
       "onboard_time": 1682571569,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203527,
-      "num": 203527,
-      "word": "丫丫和萌兰做邻居",
-      "onboard_time": 1682586752,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1217,6 +1265,14 @@
       "onboard_time": 1682573547,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 182527,
+      "num": 182527,
+      "word": "一文了解丫丫回家时间线",
+      "onboard_time": 1682587288,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180837,
@@ -1371,14 +1427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161008,
-      "num": 161008,
-      "word": "长沙游客不满8根炸串115元被骂穷",
-      "onboard_time": 1682586689,
-      "rank": 37,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 160217,
       "num": 160217,
       "word": "伦纳德右膝半月板撕裂",
@@ -1499,6 +1547,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 139959,
+      "num": 139959,
+      "word": "段宜恩去了王嘉尔演唱会",
+      "onboard_time": 1682582727,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139542,
       "num": 139542,
       "word": "蛋仔派对",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1682491347,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137004,
+      "num": 137004,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1682587709,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 134186,
@@ -1587,6 +1651,22 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 127115,
+      "num": 127115,
+      "word": "新英雄亚连即将抵达王者峡谷",
+      "onboard_time": 1682586989,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126801,
+      "num": 126801,
+      "word": "刘江江说朱一龙拿影帝实至名归",
+      "onboard_time": 1682586810,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125923,
       "num": 125923,
       "word": "丫丫的回国航线",
@@ -1601,14 +1681,6 @@
       "onboard_time": 1682560166,
       "rank": 46,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 123460,
-      "num": 123460,
-      "word": "刘江江说朱一龙拿影帝实至名归",
-      "onboard_time": 1682586810,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 121965,
@@ -1641,6 +1713,14 @@
       "onboard_time": 1682579127,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118852,
+      "num": 118852,
+      "word": "爱情公寓雷哥改戏",
+      "onboard_time": 1682587950,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 116125,
@@ -1723,14 +1803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107484,
-      "num": 107484,
-      "word": "长空之王抵制偷漏瞒报票房",
-      "onboard_time": 1682586989,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 107480,
       "num": 107480,
       "word": "杨幂的发量",
@@ -1777,14 +1849,6 @@
       "onboard_time": 1682517692,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101600,
-      "num": 101600,
-      "word": "新英雄亚连即将抵达王者峡谷",
-      "onboard_time": 1682586989,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 101313,
@@ -1835,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91308,
+      "num": 486997,
+      "word": "淄博烧烤的灵魂配料是啥",
+      "onboard_time": 1682586029,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88757,
       "num": 88757,
       "word": "甄嬛传播出十年孙俪才意识到很火",
@@ -1857,14 +1929,6 @@
       "onboard_time": 1682549720,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69528,
-      "num": 421824,
-      "word": "淄博烧烤的灵魂配料是啥",
-      "onboard_time": 1682586029,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 68822,
