@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682680451624,
+  "endTime": 1682681602609,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -16,6 +16,14 @@
       "word": "丫丫回家后吃饭吃得好香",
       "onboard_time": 1682608409,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2768430,
+      "num": 1297048,
+      "word": "小丫去世",
+      "onboard_time": 1682677109,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -35,14 +43,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 2382457,
-      "num": 1297048,
-      "word": "小丫去世",
-      "onboard_time": 1682677109,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2277222,
       "num": 2277222,
       "word": "鹿晗肖战坐一起",
@@ -57,6 +57,14 @@
       "onboard_time": 1682652149,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2049113,
+      "num": 2049113,
+      "word": "汤唯再获百想影后",
+      "onboard_time": 1682680049,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2047261,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1171715,
-      "num": 1463122,
+      "num": 1895335,
       "word": "90后书记员凭朋友圈成功出圈",
       "onboard_time": 1682675428,
       "rank": 1,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1029681,
+      "num": 1029681,
+      "word": "陈都灵看不下去了",
+      "onboard_time": 1682677589,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1027719,
       "num": 1027719,
       "word": "为什么熟人性侵高发",
@@ -241,14 +257,6 @@
       "onboard_time": 1682654965,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 982904,
-      "num": 982904,
-      "word": "陈都灵看不下去了",
-      "onboard_time": 1682677589,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 977560,
@@ -339,14 +347,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 701407,
-      "num": 701407,
-      "word": "汤唯再获百想影后",
-      "onboard_time": 1682680049,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 673366,
       "num": 673366,
       "word": "为什么今年五一如此疯狂",
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610977,
+      "num": 610977,
+      "word": "宋慧乔优雅大气",
+      "onboard_time": 1682673268,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 604841,
       "num": 337962,
       "word": "易烊千玺Angelababy谷爱凌合照",
@@ -419,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 594286,
-      "num": 594286,
-      "word": "宋慧乔优雅大气",
-      "onboard_time": 1682673268,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 594263,
       "num": 594263,
       "word": "丫丫回国第一晚过得怎么样",
@@ -441,6 +441,22 @@
       "onboard_time": 1682637201,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 585994,
+      "num": 1204858,
+      "word": "丫丫的眼睛亮晶晶",
+      "onboard_time": 1682674228,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574070,
+      "num": 574070,
+      "word": "cp29",
+      "onboard_time": 1682679267,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 571439,
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562717,
+      "num": 562717,
+      "word": "林智妍感谢李到晛",
+      "onboard_time": 1682680228,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 556648,
       "num": 556648,
       "word": "GUCCI的四位代言人",
@@ -489,14 +513,6 @@
       "onboard_time": 1682654010,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 542543,
-      "num": 1204858,
-      "word": "丫丫的眼睛亮晶晶",
-      "onboard_time": 1682674228,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 532264,
@@ -547,20 +563,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 479787,
-      "num": 479787,
-      "word": "林智妍感谢李到晛",
-      "onboard_time": 1682680228,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 470492,
       "num": 470492,
       "word": "民宿五一为涨价谎称因嫖娼被查封",
       "onboard_time": 1682646390,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467555,
+      "num": 467555,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 459146,
@@ -577,14 +593,6 @@
       "onboard_time": 1682662825,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 453722,
-      "num": 453722,
-      "word": "淄博烧烤最后如何收场",
-      "onboard_time": 1682675791,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 449539,
@@ -835,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324392,
-      "num": 324392,
-      "word": "cp29",
-      "onboard_time": 1682679267,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 321832,
       "num": 321832,
       "word": "五一加班工资应该怎么算",
@@ -859,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316429,
+      "num": 316429,
+      "word": "百想艺术大赏",
+      "onboard_time": 1682670988,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 315292,
       "num": 315292,
       "word": "今天有六部电影上映",
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 313919,
-      "num": 980689,
+      "num": 982337,
       "word": "女孩考满分兑冰淇淋后再买个送同伴",
       "onboard_time": 1682675909,
       "rank": 6,
@@ -1001,6 +1009,14 @@
       "onboard_time": 1682645968,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272093,
+      "num": 272093,
+      "word": "淄博烧烤节",
+      "onboard_time": 1682681009,
+      "rank": 24,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 271966,
@@ -1419,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191340,
+      "num": 191340,
+      "word": "长空之王票房",
+      "onboard_time": 1682680290,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191076,
       "num": 191076,
       "word": "青海6名干部聚餐喝酒1人死亡",
@@ -1507,14 +1531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178310,
-      "num": 178310,
-      "word": "百想艺术大赏",
-      "onboard_time": 1682670988,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 178175,
       "num": 178175,
       "word": "王子奇看王玉雯的眼神",
@@ -1547,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176721,
+      "num": 176721,
+      "word": "白鹿像要把范丞丞吃了",
+      "onboard_time": 1682679512,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175508,
       "num": 175508,
       "word": "澹台烬假装入魔",
@@ -1563,20 +1587,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173267,
+      "num": 173267,
+      "word": "突然明白了发朋友圈的意义",
+      "onboard_time": 1682679090,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171623,
       "num": 171623,
       "word": "范丞丞半裸做俯卧撑",
       "onboard_time": 1682608770,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170825,
-      "num": 170825,
-      "word": "白鹿像要把范丞丞吃了",
-      "onboard_time": 1682679512,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 170524,
@@ -1651,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160295,
+      "num": 160295,
+      "word": "杨紫谈长相思的三段情感变化",
+      "onboard_time": 1682681128,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158669,
       "num": 158669,
       "word": "冷门但高薪的神仙工作",
@@ -1715,20 +1747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148723,
-      "num": 148723,
-      "word": "长空之王票房",
-      "onboard_time": 1682680290,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 148240,
-      "num": 148240,
-      "word": "突然明白了发朋友圈的意义",
-      "onboard_time": 1682679090,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 148778,
+      "num": 148778,
+      "word": "Rookie",
+      "onboard_time": 1682681550,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 143017,
@@ -1947,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72908,
+      "num": 567824,
+      "word": "核酸亭变身春日啤酒亭",
+      "onboard_time": 1682679989,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71259,
       "num": 71259,
       "word": "耳机能有多魔幻",
@@ -2027,14 +2059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 47472,
-      "num": 550818,
-      "word": "核酸亭变身春日啤酒亭",
-      "onboard_time": 1682679989,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45650,
       "num": 77362,
       "word": "AG季后赛开门红",
@@ -2060,7 +2084,7 @@
     },
     {
       "raw_hot": 39665,
-      "num": 1339185,
+      "num": 1725719,
       "word": "数字经济事关国家发展大局",
       "onboard_time": 1682673752,
       "rank": 2,
