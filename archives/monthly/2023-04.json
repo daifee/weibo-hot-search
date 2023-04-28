@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682714021330,
+  "endTime": 1682716472772,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -65683,6 +65683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30034,
+      "num": 26122,
+      "word": "北京首都机场启动一级响应",
+      "onboard_time": 1682713452,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29779,
       "num": 39709,
       "word": "孟晚舟回应轮值董事长",
@@ -65913,14 +65921,6 @@
       "onboard_time": 1680549192,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16004,
-      "num": 22299,
-      "word": "北京首都机场启动一级响应",
-      "onboard_time": 1682713452,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15836,

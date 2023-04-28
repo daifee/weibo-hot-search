@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682714021330,
+  "endTime": 1682716472772,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -11979,6 +11979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30034,
+      "num": 26122,
+      "word": "北京首都机场启动一级响应",
+      "onboard_time": 1682713452,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29378,
       "num": 29378,
       "word": "环球影城偶遇倪妮娜扎",
@@ -12041,14 +12049,6 @@
       "onboard_time": 1682464580,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 16004,
-      "num": 22299,
-      "word": "北京首都机场启动一级响应",
-      "onboard_time": 1682713452,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15836,
