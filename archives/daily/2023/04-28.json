@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682638438241,
+  "endTime": 1682645072348,
   "band_list": [
     {
       "raw_hot": 2815975,
@@ -8,6 +8,22 @@
       "word": "丫丫回家后吃饭吃得好香",
       "onboard_time": 1682608409,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2277222,
+      "num": 2277222,
+      "word": "鹿晗肖战坐一起",
+      "onboard_time": 1682643510,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2047261,
+      "num": 2047261,
+      "word": "给淄博烧烤泼一盆冷水",
+      "onboard_time": 1682636722,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -27,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1556242,
+      "num": 1556242,
+      "word": "竹节包",
+      "onboard_time": 1682641829,
+      "rank": 4,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1332150,
       "num": 1332150,
       "word": "丫丫到家后近照",
       "onboard_time": 1682606670,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1228623,
+      "num": 1228623,
+      "word": "因业绩好被扣9000多",
+      "onboard_time": 1682640750,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 1221257,
@@ -67,6 +99,22 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 922525,
+      "num": 922525,
+      "word": "GUCCI经典款",
+      "onboard_time": 1682643390,
+      "rank": 7,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 897412,
+      "num": 897412,
+      "word": "淄博烧烤店下跪老板与顾客和解",
+      "onboard_time": 1682611885,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862921,
       "num": 862921,
       "word": "舒淇 内娱美人鱼",
@@ -80,14 +128,6 @@
       "word": "乐乐死因报告的情况说明",
       "onboard_time": 1682599589,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 708214,
-      "num": 708214,
-      "word": "淄博烧烤店下跪老板与顾客和解",
-      "onboard_time": 1682611885,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -139,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363767,
-      "num": 363767,
-      "word": "给淄博烧烤泼一盆冷水",
-      "onboard_time": 1682636722,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358809,
       "num": 280030,
       "word": "肖战舒淇合照",
@@ -171,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 309352,
+      "num": 309352,
+      "word": "职校男生1天被霸凌2次后坠亡",
+      "onboard_time": 1682597368,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271695,
       "num": 271695,
       "word": "删掉吧为了宋妍霏",
@@ -179,20 +219,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248676,
-      "num": 248676,
-      "word": "职校男生1天被霸凌2次后坠亡",
-      "onboard_time": 1682597368,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223680,
-      "num": 154110,
+      "raw_hot": 269960,
+      "num": 269960,
       "word": "同事结婚行政到工位挨个收礼金",
       "onboard_time": 1682620454,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255008,
+      "num": 255008,
+      "word": "丫丫宅家视频",
+      "onboard_time": 1682637384,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253076,
+      "num": 253076,
+      "word": "想脱单可以试试周末去爬山",
+      "onboard_time": 1682637443,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226707,
+      "num": 226707,
+      "word": "丫丫回家了竹子管够",
+      "onboard_time": 1682643808,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225829,
+      "num": 225829,
+      "word": "韩国酵母放过了姜大声",
+      "onboard_time": 1682639007,
+      "rank": 21,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 223063,
@@ -219,6 +283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212140,
+      "num": 212140,
+      "word": "颜心记拾影识心海报",
+      "onboard_time": 1682644827,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 209583,
+      "num": 209583,
+      "word": "黎苏苏一觉醒来大姐夫变未婚夫",
+      "onboard_time": 1682609789,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 208523,
       "num": 208523,
       "word": "倪妮 好顶的脸",
@@ -233,6 +313,14 @@
       "onboard_time": 1682593769,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206661,
+      "num": 206661,
+      "word": "明天就是五一假期了",
+      "onboard_time": 1682645008,
+      "rank": 24,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 197405,
@@ -275,6 +363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176836,
+      "num": 176836,
+      "word": "丫丫脸贴镜头好萌",
+      "onboard_time": 1682638527,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174479,
       "num": 174479,
       "word": "崔永元又发声自述与冯小刚恩怨始末",
@@ -307,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163074,
+      "num": 163074,
+      "word": "丫丫已转移至隔离检疫区",
+      "onboard_time": 1682642910,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162263,
       "num": 162263,
       "word": "铃铛",
@@ -323,16 +427,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148081,
-      "num": 148081,
-      "word": "黎苏苏一觉醒来大姐夫变未婚夫",
-      "onboard_time": 1682609789,
-      "rank": 39,
-      "category": "影视"
+      "raw_hot": 160429,
+      "num": 160429,
+      "word": "四川瓦屋山首次发现猛禽之王",
+      "onboard_time": 1682641651,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 145564,
-      "num": 145564,
+      "raw_hot": 158669,
+      "num": 158669,
       "word": "冷门但高薪的神仙工作",
       "onboard_time": 1682612064,
       "rank": 30,
@@ -355,12 +459,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140809,
-      "num": 140809,
-      "word": "丫丫宅家视频",
-      "onboard_time": 1682637384,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 139693,
+      "num": 139693,
+      "word": "黎苏苏以为澹台烬放下了",
+      "onboard_time": 1682640809,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 139478,
@@ -379,6 +483,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138638,
+      "num": 138638,
+      "word": "朱广权段子预言假期旅游状态",
+      "onboard_time": 1682645008,
+      "rank": 37,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 138612,
+      "num": 138612,
+      "word": "五一这些景点已约满",
+      "onboard_time": 1682644591,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137698,
       "num": 137698,
       "word": "朱一龙又拿奖了",
@@ -393,6 +513,30 @@
       "onboard_time": 1682610866,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135689,
+      "num": 135689,
+      "word": "丫丫回国为何关注度这么高",
+      "onboard_time": 1682645008,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135614,
+      "num": 135614,
+      "word": "黄宗泽纪念第一次从香港坐高铁",
+      "onboard_time": 1682608171,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131380,
+      "num": 131380,
+      "word": "恋爱关系的本质是什么",
+      "onboard_time": 1682640453,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 130164,
@@ -411,12 +555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129958,
-      "num": 129958,
-      "word": "黄宗泽纪念第一次从香港坐高铁",
-      "onboard_time": 1682608171,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 129992,
+      "num": 129992,
+      "word": "Angelababy黑色挂脖露腰长裙",
+      "onboard_time": 1682645066,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122223,
@@ -443,6 +587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117079,
+      "num": 117079,
+      "word": "中消协点名表扬淄博",
+      "onboard_time": 1682639306,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 117009,
       "num": 117009,
       "word": "模仿金卡戴珊的网红心脏骤停死亡",
@@ -451,20 +603,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 111992,
+      "num": 111992,
+      "word": "杨蓉说用最贵的面霜熬最长的夜",
+      "onboard_time": 1682640507,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96997,
       "num": 96997,
       "word": "宋雨琦鞠婧祎撞衫",
       "onboard_time": 1682600729,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 90123,
-      "num": 90123,
-      "word": "想脱单可以试试周末去爬山",
-      "onboard_time": 1682637443,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 79775,
@@ -563,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 23524,
+      "num": 2135478,
+      "word": "五一出行实用贴士",
+      "onboard_time": 1682560405,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21096,
       "num": 26697,
       "word": "蔡依林演唱会",
@@ -577,14 +737,6 @@
       "onboard_time": 1682510426,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10162,
-      "num": 1316768,
-      "word": "五一出行实用贴士",
-      "onboard_time": 1682560405,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
