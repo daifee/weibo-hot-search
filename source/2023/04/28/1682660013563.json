@@ -1,0 +1,410 @@
+{
+  "runTime": 1682660013563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2294432,
+        "num": 2294432,
+        "word": "杰克辣条 虐猫",
+        "onboard_time": 1682652149,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1904899,
+        "num": 1904899,
+        "word": "12306众生平等",
+        "onboard_time": 1682656352,
+        "rank": 1,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 39803,
+        "num": 1568157,
+        "word": "裸眼3D看中国空间站",
+        "onboard_time": 1682652209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1271456,
+        "num": 1271456,
+        "word": "谢娜说生完孩子长高了",
+        "onboard_time": 1682657250,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1220332,
+        "num": 1220332,
+        "word": "拼多多被曝临时确定五一放假三天",
+        "onboard_time": 1682646929,
+        "rank": 4,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1217070,
+        "num": 1217070,
+        "word": "谷爱凌Angelababy合影",
+        "onboard_time": 1682649866,
+        "rank": 5,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 993984,
+        "num": 993984,
+        "word": "丫丫回家后吃饭吃得好香",
+        "onboard_time": 1682608409,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833577,
+        "num": 833577,
+        "word": "周六野 有毒的舒适圈不是那个前任",
+        "onboard_time": 1682654965,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 659080,
+        "num": 659080,
+        "word": "如何看待杰克辣条的道歉",
+        "onboard_time": 1682657851,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514730,
+        "num": 514730,
+        "word": "杨紫的厚底鞋",
+        "onboard_time": 1682657851,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1884138,
+        "num": 510735,
+        "word": "青春没有售价 薛之谦无座直达南京",
+        "onboard_time": 1682652149,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 531133,
+        "num": 508150,
+        "word": "迪丽热巴评论区模仿营销号",
+        "onboard_time": 1682656829,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503145,
+        "num": 503145,
+        "word": "给淄博烧烤泼一盆冷水",
+        "onboard_time": 1682636722,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452823,
+        "num": 452823,
+        "word": "肖战喝酒了",
+        "onboard_time": 1682640867,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 418260,
+        "num": 418260,
+        "word": "乘风2023定档官宣",
+        "onboard_time": 1682654908,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 416412,
+        "num": 416412,
+        "word": "李佳航晒与韦正12年前私信记录",
+        "onboard_time": 1682654010,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 400335,
+        "num": 400335,
+        "word": "因业绩好被扣9000多",
+        "onboard_time": 1682640750,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389885,
+        "num": 389885,
+        "word": "竹节包",
+        "onboard_time": 1682641829,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 381450,
+        "num": 381450,
+        "word": "朋友圈已经没有了生活的痕迹",
+        "onboard_time": 1682603009,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372038,
+        "num": 372038,
+        "word": "丫丫回家好像笑了",
+        "onboard_time": 1682653529,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408478,
+        "num": 371992,
+        "word": "一千万重读高三你愿意吗",
+        "onboard_time": 1682655811,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356913,
+        "num": 356913,
+        "word": "入职不到一年成为部门顶梁柱",
+        "onboard_time": 1682654791,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331707,
+        "num": 331707,
+        "word": "丫丫",
+        "onboard_time": 1682658809,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323154,
+        "num": 323154,
+        "word": "丫丫一到机场就收到了竹子",
+        "onboard_time": 1682594187,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283996,
+        "num": 283996,
+        "word": "四杯水如何分给五个领导",
+        "onboard_time": 1682658028,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273348,
+        "num": 273348,
+        "word": "张嘉倪吴倩镜头",
+        "onboard_time": 1682659529,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245169,
+        "num": 245169,
+        "word": "权志龙来了都得站第三排",
+        "onboard_time": 1682659050,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244146,
+        "num": 244146,
+        "word": "大陆没电影吗",
+        "onboard_time": 1682649686,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 239249,
+        "num": 239249,
+        "word": "虹桥火车站",
+        "onboard_time": 1682650948,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203203,
+        "num": 203203,
+        "word": "罗云熙宋轶CP名金戈铁马",
+        "onboard_time": 1682649506,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 604841,
+        "num": 203181,
+        "word": "易烊千玺Angelababy谷爱凌合照",
+        "onboard_time": 1682659949,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337188,
+        "num": 203173,
+        "word": "淄博烧烤店下跪老板与顾客和解",
+        "onboard_time": 1682611885,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203118,
+        "num": 203118,
+        "word": "南柱赫否认校暴视频",
+        "onboard_time": 1682659826,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201694,
+        "num": 201694,
+        "word": "两名未成年人在熊猫基地被严重警告",
+        "onboard_time": 1682659227,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200821,
+        "num": 200821,
+        "word": "MSI赛区垃圾话",
+        "onboard_time": 1682659107,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197200,
+        "num": 197200,
+        "word": "贾静雯好美",
+        "onboard_time": 1682659648,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195159,
+        "num": 195159,
+        "word": "鹿晗33岁身材管理",
+        "onboard_time": 1682647406,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191934,
+        "num": 191934,
+        "word": "乘风",
+        "onboard_time": 1682655450,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181183,
+        "num": 181183,
+        "word": "丫丫到家后近照",
+        "onboard_time": 1682606670,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170400,
+        "num": 170400,
+        "word": "长沙夜生活",
+        "onboard_time": 1682658570,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179418,
+        "num": 167776,
+        "word": "为什么熟人性侵高发",
+        "onboard_time": 1682607333,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163919,
+        "num": 163919,
+        "word": "不考虑价格你最想买的东西",
+        "onboard_time": 1682659409,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156813,
+        "num": 156813,
+        "word": "五一加班工资应该怎么算",
+        "onboard_time": 1682658629,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156095,
+        "num": 156095,
+        "word": "王子奇看王玉雯的眼神",
+        "onboard_time": 1682658452,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151413,
+        "num": 151413,
+        "word": "五一 疯狂",
+        "onboard_time": 1682654308,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150406,
+        "num": 150406,
+        "word": "丫丫住进了隔离检疫圈舍空调房",
+        "onboard_time": 1682645968,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147308,
+        "num": 147308,
+        "word": "小鬼 门票",
+        "onboard_time": 1682655569,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141913,
+        "num": 141913,
+        "word": "今天有六部电影上映",
+        "onboard_time": 1682650347,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138601,
+        "num": 138601,
+        "word": "Apink 不续约",
+        "onboard_time": 1682648007,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136746,
+        "num": 136746,
+        "word": "丫丫回国第一晚过得怎么样",
+        "onboard_time": 1682649388,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#第六届数字中国建设峰会#"
+    }
+  }
+}

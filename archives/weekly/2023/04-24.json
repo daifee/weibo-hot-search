@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682658987126,
+  "endTime": 1682660013563,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -467,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1904899,
+      "num": 1904899,
+      "word": "12306众生平等",
+      "onboard_time": 1682656352,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1844865,
       "num": 1844865,
       "word": "长沙游客不满8根炸串115元被骂穷",
@@ -681,14 +689,6 @@
       "onboard_time": 1682641829,
       "rank": 4,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 1556111,
-      "num": 1556111,
-      "word": "12306众生平等",
-      "onboard_time": 1682656352,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1555438,
@@ -915,6 +915,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1271456,
+      "num": 1271456,
+      "word": "谢娜说生完孩子长高了",
+      "onboard_time": 1682657250,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1266779,
       "num": 1266779,
       "word": "长月烬明 阿娇",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1682380165,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1053086,
-      "num": 1053086,
-      "word": "谢娜说生完孩子长高了",
-      "onboard_time": 1682657250,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 1039901,
@@ -1452,7 +1452,7 @@
     },
     {
       "raw_hot": 802374,
-      "num": 530915,
+      "num": 659080,
       "word": "如何看待杰克辣条的道歉",
       "onboard_time": 1682657851,
       "rank": 11,
@@ -1795,6 +1795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 604841,
+      "num": 203181,
+      "word": "易烊千玺Angelababy谷爱凌合照",
+      "onboard_time": 1682659949,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 603176,
       "num": 603176,
       "word": "马斯克回复称赞中国高铁的推文",
@@ -2131,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 514730,
+      "num": 514730,
+      "word": "杨紫的厚底鞋",
+      "onboard_time": 1682657851,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 513282,
       "num": 251455,
       "word": "小鬼 抢票",
@@ -2353,14 +2369,6 @@
       "onboard_time": 1682306245,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 486863,
-      "num": 486863,
-      "word": "杨紫的厚底鞋",
-      "onboard_time": 1682657851,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 486122,
@@ -4531,6 +4539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283996,
+      "num": 283996,
+      "word": "四杯水如何分给五个领导",
+      "onboard_time": 1682658028,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283529,
       "num": 141828,
       "word": "billkin中国红毯首秀",
@@ -4681,6 +4697,14 @@
       "onboard_time": 1682645968,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273348,
+      "num": 273348,
+      "word": "张嘉倪吴倩镜头",
+      "onboard_time": 1682659529,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 272868,
@@ -5355,6 +5379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245169,
+      "num": 245169,
+      "word": "权志龙来了都得站第三排",
+      "onboard_time": 1682659050,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245022,
       "num": 227503,
       "word": "田柾国发型可爱",
@@ -5401,14 +5433,6 @@
       "onboard_time": 1682397934,
       "rank": 34,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 243817,
-      "num": 243817,
-      "word": "四杯水如何分给五个领导",
-      "onboard_time": 1682658028,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 243639,
@@ -6499,6 +6523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203118,
+      "num": 203118,
+      "word": "南柱赫否认校暴视频",
+      "onboard_time": 1682659826,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203106,
       "num": 203106,
       "word": "赵继伟手感好牛",
@@ -6555,6 +6587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201694,
+      "num": 201694,
+      "word": "两名未成年人在熊猫基地被严重警告",
+      "onboard_time": 1682659227,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201335,
       "num": 201335,
       "word": "深圳交通局再回应前局长孙女炫富事件",
@@ -6577,6 +6617,14 @@
       "onboard_time": 1682392225,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 200821,
+      "num": 200821,
+      "word": "MSI赛区垃圾话",
+      "onboard_time": 1682659107,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 200551,
@@ -6745,6 +6793,14 @@
       "onboard_time": 1682348370,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 197200,
+      "num": 197200,
+      "word": "贾静雯好美",
+      "onboard_time": 1682659648,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196849,
@@ -8065,6 +8121,14 @@
       "onboard_time": 1682293704,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 163919,
+      "num": 163919,
+      "word": "不考虑价格你最想买的东西",
+      "onboard_time": 1682659409,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 163909,
@@ -10420,7 +10484,7 @@
     },
     {
       "raw_hot": 63263,
-      "num": 1563141,
+      "num": 1568157,
       "word": "裸眼3D看中国空间站",
       "onboard_time": 1682652209,
       "rank": 2,
