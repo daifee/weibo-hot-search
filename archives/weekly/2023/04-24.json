@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682663702909,
+  "endTime": 1682666149434,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 2062230,
-      "num": 579872,
+      "num": 646085,
       "word": "青春没有售价 薛之谦无座直达南京",
       "onboard_time": 1682652149,
       "rank": 11,
@@ -489,6 +489,14 @@
       "onboard_time": 1682394748,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1819440,
+      "num": 1819440,
+      "word": "五一后离婚财产分割新规",
+      "onboard_time": 1682660968,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1794127,
@@ -1075,6 +1083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1111282,
+      "num": 1111282,
+      "word": "李亚鹏称为自己的错误买单",
+      "onboard_time": 1682664567,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1107975,
       "num": 1107975,
       "word": "女子称肚痛就医检查遭医生猥亵",
@@ -1331,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 883530,
+      "num": 883530,
+      "word": "李亚鹏被强制执行4000万",
+      "onboard_time": 1682662405,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 881492,
       "num": 881492,
       "word": "难听",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1682344831,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 856788,
-      "num": 856788,
-      "word": "李亚鹏被强制执行4000万",
-      "onboard_time": 1682662405,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 850310,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1682383950,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 822588,
+      "num": 822588,
+      "word": "外媒称武契奇被送医",
+      "onboard_time": 1682664268,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 820371,
@@ -1820,7 +1844,7 @@
     },
     {
       "raw_hot": 604841,
-      "num": 285689,
+      "num": 337962,
       "word": "易烊千玺Angelababy谷爱凌合照",
       "onboard_time": 1682659949,
       "rank": 30,
@@ -2209,14 +2233,6 @@
       "onboard_time": 1682396669,
       "rank": 20,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 508333,
-      "num": 508333,
-      "word": "五一后离婚财产分割新规",
-      "onboard_time": 1682660968,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 507120,
@@ -3747,6 +3763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 350997,
+      "num": 350997,
+      "word": "高铁坐成了地铁的感觉",
+      "onboard_time": 1682662287,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 350849,
       "num": 350849,
       "word": "浙江一图书馆将核酸亭改为自习室",
@@ -4635,6 +4659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283717,
+      "num": 283717,
+      "word": "三十岁的李莎旻子",
+      "onboard_time": 1682664685,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283529,
       "num": 141828,
       "word": "billkin中国红毯首秀",
@@ -5064,14 +5096,6 @@
       "word": "如何不提雨字描述雨很大",
       "onboard_time": 1682560825,
       "rank": 26,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 259927,
-      "num": 259927,
-      "word": "高铁坐成了地铁的感觉",
-      "onboard_time": 1682662287,
-      "rank": 36,
       "category": "幽默"
     },
     {
@@ -5513,6 +5537,14 @@
       "onboard_time": 1682397934,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 243727,
+      "num": 243727,
+      "word": "杰克辣条B站账号被贴上违法标签",
+      "onboard_time": 1682662527,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243639,
@@ -6051,6 +6083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 221654,
+      "num": 221654,
+      "word": "MBTI",
+      "onboard_time": 1682662706,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221216,
       "num": 221216,
       "word": "我们既不会隔岸观火也不会拱火浇油",
@@ -6289,6 +6329,14 @@
       "onboard_time": 1682412085,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213219,
+      "num": 213219,
+      "word": "陈冰的腰线",
+      "onboard_time": 1682665826,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 213129,
@@ -7723,6 +7771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179807,
+      "num": 179807,
+      "word": "不懂可以问千万别瞎用",
+      "onboard_time": 1682663968,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179804,
       "num": 179804,
       "word": "明星回春",
@@ -8131,6 +8187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166577,
+      "num": 166577,
+      "word": "杨颖跳了flower",
+      "onboard_time": 1682665945,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166351,
       "num": 166351,
       "word": "没想到老板的视角是这样的",
@@ -8305,14 +8369,6 @@
       "onboard_time": 1682554649,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162777,
-      "num": 162777,
-      "word": "MBTI",
-      "onboard_time": 1682662706,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 162535,
@@ -8617,6 +8673,14 @@
       "onboard_time": 1682344410,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153765,
+      "num": 153765,
+      "word": "黄子韬问宁静和那英谁性格更不好",
+      "onboard_time": 1682666006,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 153544,
@@ -9491,14 +9555,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 132665,
-      "num": 132665,
-      "word": "杰克辣条B站账号被贴上违法标签",
-      "onboard_time": 1682662527,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132175,
       "num": 132175,
       "word": "乘风2023播出时间",
@@ -9521,6 +9577,14 @@
       "onboard_time": 1682640453,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130968,
+      "num": 130968,
+      "word": "萌探探探案",
+      "onboard_time": 1682664627,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 130959,
@@ -10715,6 +10779,14 @@
       "category": "社会议题,幽默"
     },
     {
+      "raw_hot": 53205,
+      "num": 130946,
+      "word": "你多久没和朋友开黑了",
+      "onboard_time": 1682664088,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 46519,
       "num": 399993,
       "word": "女星红毯妆容大招",
@@ -10753,6 +10825,14 @@
       "onboard_time": 1682660429,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39903,
+      "num": 369323,
+      "word": "吴磊片场侧拍视频",
+      "onboard_time": 1682665225,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 39399,

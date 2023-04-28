@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682663702909,
+  "endTime": 1682666149434,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2062230,
-      "num": 579872,
+      "num": 646085,
       "word": "青春没有售价 薛之谦无座直达南京",
       "onboard_time": 1682652149,
       "rank": 11,
@@ -65,6 +65,14 @@
       "onboard_time": 1682603009,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1819440,
+      "num": 1819440,
+      "word": "五一后离婚财产分割新规",
+      "onboard_time": 1682660968,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1587127,
@@ -147,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1111282,
+      "num": 1111282,
+      "word": "李亚鹏称为自己的错误买单",
+      "onboard_time": 1682664567,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1096991,
       "num": 1096991,
       "word": "丫丫一到机场就收到了竹子",
@@ -187,20 +203,20 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 883530,
+      "num": 883530,
+      "word": "李亚鹏被强制执行4000万",
+      "onboard_time": 1682662405,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 862921,
       "num": 862921,
       "word": "舒淇 内娱美人鱼",
       "onboard_time": 1682598507,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 856788,
-      "num": 856788,
-      "word": "李亚鹏被强制执行4000万",
-      "onboard_time": 1682662405,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 843463,
@@ -216,6 +232,14 @@
       "word": "首都机场多人尾随跟拍艺人被传唤",
       "onboard_time": 1682647767,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 822588,
+      "num": 822588,
+      "word": "外媒称武契奇被送医",
+      "onboard_time": 1682664268,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 604841,
-      "num": 285689,
+      "num": 337962,
       "word": "易烊千玺Angelababy谷爱凌合照",
       "onboard_time": 1682659949,
       "rank": 30,
@@ -353,14 +377,6 @@
       "onboard_time": 1682657851,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 508333,
-      "num": 508333,
-      "word": "五一后离婚财产分割新规",
-      "onboard_time": 1682660968,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 493965,
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350997,
+      "num": 350997,
+      "word": "高铁坐成了地铁的感觉",
+      "onboard_time": 1682662287,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349951,
       "num": 349951,
       "word": "乘风",
@@ -643,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283717,
+      "num": 283717,
+      "word": "三十岁的李莎旻子",
+      "onboard_time": 1682664685,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276860,
       "num": 276860,
       "word": "你也有今天官宣开机",
@@ -683,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259927,
-      "num": 259927,
-      "word": "高铁坐成了地铁的感觉",
-      "onboard_time": 1682662287,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 255008,
       "num": 255008,
       "word": "丫丫宅家视频",
@@ -721,6 +745,14 @@
       "onboard_time": 1682651907,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243727,
+      "num": 243727,
+      "word": "杰克辣条B站账号被贴上违法标签",
+      "onboard_time": 1682662527,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239955,
@@ -787,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 221654,
+      "num": 221654,
+      "word": "MBTI",
+      "onboard_time": 1682662706,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220828,
       "num": 220828,
       "word": "小鬼 门票",
@@ -849,6 +889,14 @@
       "onboard_time": 1682602469,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213219,
+      "num": 213219,
+      "word": "陈冰的腰线",
+      "onboard_time": 1682665826,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 211388,
@@ -1059,6 +1107,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 179807,
+      "num": 179807,
+      "word": "不懂可以问千万别瞎用",
+      "onboard_time": 1682663968,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 178175,
       "num": 178175,
       "word": "王子奇看王玉雯的眼神",
@@ -1123,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166577,
+      "num": 166577,
+      "word": "杨颖跳了flower",
+      "onboard_time": 1682665945,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166064,
       "num": 166064,
       "word": "曾可妮希望曾可妮能挺进四公",
@@ -1145,14 +1209,6 @@
       "onboard_time": 1682642910,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162777,
-      "num": 162777,
-      "word": "MBTI",
-      "onboard_time": 1682662706,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 162263,
@@ -1201,6 +1257,14 @@
       "onboard_time": 1682645667,
       "rank": 35,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 153765,
+      "num": 153765,
+      "word": "黄子韬问宁静和那英谁性格更不好",
+      "onboard_time": 1682666006,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 153088,
@@ -1299,20 +1363,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132665,
-      "num": 132665,
-      "word": "杰克辣条B站账号被贴上违法标签",
-      "onboard_time": 1682662527,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131380,
       "num": 131380,
       "word": "恋爱关系的本质是什么",
       "onboard_time": 1682640453,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130968,
+      "num": 130968,
+      "word": "萌探探探案",
+      "onboard_time": 1682664627,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 130164,
@@ -1467,6 +1531,14 @@
       "category": "社会议题,幽默"
     },
     {
+      "raw_hot": 53205,
+      "num": 130946,
+      "word": "你多久没和朋友开黑了",
+      "onboard_time": 1682664088,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 45650,
       "num": 77362,
       "word": "AG季后赛开门红",
@@ -1489,6 +1561,14 @@
       "onboard_time": 1682660429,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 39903,
+      "num": 369323,
+      "word": "吴磊片场侧拍视频",
+      "onboard_time": 1682665225,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 37358,
