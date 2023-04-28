@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682686076983,
+  "endTime": 1682688013064,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2768430,
-      "num": 1297048,
+      "num": 1753864,
       "word": "小丫去世",
       "onboard_time": 1682677109,
       "rank": 3,
@@ -33,6 +33,14 @@
       "onboard_time": 1682684610,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2528349,
+      "num": 2528349,
+      "word": "史航性骚扰",
+      "onboard_time": 1682685269,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2504124,
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1308238,
+      "num": 1308238,
+      "word": "赵丽颖 欧舒丹",
+      "onboard_time": 1682686592,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1221257,
       "num": 961920,
       "word": "何超云",
@@ -363,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 766536,
+      "num": 766536,
+      "word": "南京南站",
+      "onboard_time": 1682684551,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 753524,
       "num": 753524,
       "word": "Rookie",
@@ -417,14 +441,6 @@
       "onboard_time": 1682587288,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 620821,
-      "num": 476435,
-      "word": "史航性骚扰",
-      "onboard_time": 1682685269,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 617962,
@@ -755,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 391939,
+      "num": 391939,
+      "word": "王一博红毯生图",
+      "onboard_time": 1682686051,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 387347,
       "num": 387347,
       "word": "入职不到一年成为部门顶梁柱",
@@ -875,20 +899,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 340541,
+      "num": 340541,
+      "word": "淄博万人烧烤城",
+      "onboard_time": 1682685689,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335380,
       "num": 335380,
       "word": "尹锡悦称赞美军在长津湖战役中突围",
       "onboard_time": 1682671708,
       "rank": 30,
       "category": "国内要闻,社会新闻"
-    },
-    {
-      "raw_hot": 327514,
-      "num": 327514,
-      "word": "南京南站",
-      "onboard_time": 1682684551,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326013,
@@ -1041,14 +1065,6 @@
       "onboard_time": 1682658028,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281718,
-      "num": 211166,
-      "word": "王一博红毯生图",
-      "onboard_time": 1682686051,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 281419,
@@ -1427,6 +1443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200797,
+      "num": 200797,
+      "word": "林高远陈幸同混双冠军",
+      "onboard_time": 1682687673,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199478,
       "num": 199478,
       "word": "在我得省钱和人就活一次之间徘徊",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1682650648,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195691,
+      "num": 195691,
+      "word": "赵露思直播",
+      "onboard_time": 1682687071,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 194637,
@@ -1716,7 +1748,7 @@
     },
     {
       "raw_hot": 166172,
-      "num": 150008,
+      "num": 159157,
       "word": "分手的决心",
       "onboard_time": 1682685512,
       "rank": 40,
@@ -1760,6 +1792,14 @@
       "word": "长月烬明仙门篇",
       "onboard_time": 1682600310,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 161822,
+      "num": 159428,
+      "word": "武庚纪的妆造",
+      "onboard_time": 1682687313,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1955,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134611,
+      "num": 134611,
+      "word": "五一 春运",
+      "onboard_time": 1682686713,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133328,
       "num": 133328,
       "word": "淄博烧烤",
@@ -2027,14 +2075,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 117365,
-      "num": 117365,
-      "word": "淄博万人烧烤城",
-      "onboard_time": 1682685689,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117079,
       "num": 117079,
       "word": "中消协点名表扬淄博",
@@ -2049,6 +2089,14 @@
       "onboard_time": 1682590349,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 114502,
+      "num": 114502,
+      "word": "听到过三观极正的一句话",
+      "onboard_time": 1682685810,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 111992,
@@ -2220,7 +2268,7 @@
     },
     {
       "raw_hot": 39665,
-      "num": 1725719,
+      "num": 1803022,
       "word": "数字经济事关国家发展大局",
       "onboard_time": 1682673752,
       "rank": 2,

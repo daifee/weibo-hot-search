@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682686076983,
+  "endTime": 1682688013064,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -892,7 +892,7 @@
     },
     {
       "raw_hot": 2768430,
-      "num": 1297048,
+      "num": 1753864,
       "word": "小丫去世",
       "onboard_time": 1682677109,
       "rank": 3,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1680838949,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2528349,
+      "num": 2528349,
+      "word": "史航性骚扰",
+      "onboard_time": 1682685269,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2507301,
@@ -4745,6 +4753,14 @@
       "onboard_time": 1681022007,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1308238,
+      "num": 1308238,
+      "word": "赵丽颖 欧舒丹",
+      "onboard_time": 1682686592,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1306396,
@@ -9387,6 +9403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 766536,
+      "num": 766536,
+      "word": "南京南站",
+      "onboard_time": 1682684551,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 766387,
       "num": 766387,
       "word": "康辉遇到不会念的字会问谁",
@@ -12257,14 +12281,6 @@
       "onboard_time": 1681094846,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 620821,
-      "num": 476435,
-      "word": "史航性骚扰",
-      "onboard_time": 1682685269,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 619979,
@@ -21467,6 +21483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391939,
+      "num": 391939,
+      "word": "王一博红毯生图",
+      "onboard_time": 1682686051,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 391900,
       "num": 273622,
       "word": "SEVENTEEN 克拉盘",
@@ -24579,6 +24603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340541,
+      "num": 340541,
+      "word": "淄博万人烧烤城",
+      "onboard_time": 1682685689,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340498,
       "num": 340498,
       "word": "把一群i人凑在一起",
@@ -25465,14 +25497,6 @@
       "onboard_time": 1680392299,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 327514,
-      "num": 327514,
-      "word": "南京南站",
-      "onboard_time": 1682684551,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327447,
@@ -29209,14 +29233,6 @@
       "onboard_time": 1682178691,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281718,
-      "num": 211166,
-      "word": "王一博红毯生图",
-      "onboard_time": 1682686051,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 281701,
@@ -41275,6 +41291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200797,
+      "num": 200797,
+      "word": "林高远陈幸同混双冠军",
+      "onboard_time": 1682687673,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200765,
       "num": 200765,
       "word": "云襄传智斗江湖版预告",
@@ -43137,6 +43161,14 @@
       "onboard_time": 1681565068,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195691,
+      "num": 195691,
+      "word": "赵露思直播",
+      "onboard_time": 1682687071,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 195686,
@@ -50524,7 +50556,7 @@
     },
     {
       "raw_hot": 166172,
-      "num": 150008,
+      "num": 159157,
       "word": "分手的决心",
       "onboard_time": 1682685512,
       "rank": 40,
@@ -51505,6 +51537,14 @@
       "onboard_time": 1682466443,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161822,
+      "num": 159428,
+      "word": "武庚纪的妆造",
+      "onboard_time": 1682687313,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 161816,
@@ -57115,6 +57155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134611,
+      "num": 134611,
+      "word": "五一 春运",
+      "onboard_time": 1682686713,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134586,
       "num": 134586,
       "word": "你最希望哪个团合体",
@@ -59843,14 +59891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 117365,
-      "num": 117365,
-      "word": "淄博万人烧烤城",
-      "onboard_time": 1682685689,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117198,
       "num": 117198,
       "word": "周雨彤片场读如何征服英俊少男",
@@ -60169,6 +60209,14 @@
       "onboard_time": 1682414727,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114502,
+      "num": 114502,
+      "word": "听到过三观极正的一句话",
+      "onboard_time": 1682685810,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 114440,
@@ -64892,7 +64940,7 @@
     },
     {
       "raw_hot": 39665,
-      "num": 1725719,
+      "num": 1803022,
       "word": "数字经济事关国家发展大局",
       "onboard_time": 1682673752,
       "rank": 2,
