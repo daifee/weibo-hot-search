@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682720142113,
+  "endTime": 1682721214097,
   "band_list": [
     {
       "raw_hot": 1238255,
@@ -411,12 +411,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61484,
+      "num": 61484,
+      "word": "女子登山崴脚被巡山小妖抬下山",
+      "onboard_time": 1682704157,
+      "rank": 38,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 59739,
+      "num": 49424,
+      "word": "北京首都机场启动一级响应",
+      "onboard_time": 1682713452,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59711,
       "num": 68129,
       "word": "陆虎巡演",
       "onboard_time": 1682695709,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 58403,
+      "num": 58403,
+      "word": "张大大说白鹿赢了比赛输了朋友",
+      "onboard_time": 1682708893,
+      "rank": 42,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 55877,
@@ -443,14 +467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 52816,
-      "num": 52816,
-      "word": "女子登山崴脚被巡山小妖抬下山",
-      "onboard_time": 1682704157,
-      "rank": 38,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 51645,
       "num": 140768,
       "word": "12306众生平等",
@@ -467,24 +483,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46843,
-      "num": 38567,
-      "word": "北京首都机场启动一级响应",
-      "onboard_time": 1682713452,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40097,
-      "num": 40097,
-      "word": "张大大说白鹿赢了比赛输了朋友",
-      "onboard_time": 1682708893,
-      "rank": 42,
-      "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 39995,
-      "num": 39995,
+      "raw_hot": 45008,
+      "num": 45008,
       "word": "深圳地铁一男子拽头发殴打女乘客",
       "onboard_time": 1682707035,
       "rank": 31,
@@ -515,16 +515,24 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 30526,
-      "num": 30553,
+      "raw_hot": 37682,
+      "num": 37682,
+      "word": "在淄博吃烧烤偶遇检查",
+      "onboard_time": 1682719817,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34396,
+      "num": 34396,
       "word": "男子偷拍被发现还言语侮辱",
       "onboard_time": 1682711233,
       "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29378,
-      "num": 30545,
+      "raw_hot": 32379,
+      "num": 32379,
       "word": "环球影城偶遇倪妮娜扎",
       "onboard_time": 1682710513,
       "rank": 33,
@@ -539,7 +547,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 22012,
+      "raw_hot": 25785,
       "num": 41002,
       "word": "4月奇趣季",
       "onboard_time": 1682598388,
