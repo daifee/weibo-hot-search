@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682706017540,
+  "endTime": 1682706807163,
   "band_list": [
     {
       "raw_hot": 1238255,
@@ -443,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52816,
+      "num": 52816,
+      "word": "女子登山崴脚被巡山小妖抬下山",
+      "onboard_time": 1682704157,
+      "rank": 38,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 51645,
       "num": 140768,
       "word": "12306众生平等",
@@ -457,14 +465,6 @@
       "onboard_time": 1682703798,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46366,
-      "num": 46366,
-      "word": "女子登山崴脚被巡山小妖抬下山",
-      "onboard_time": 1682704157,
-      "rank": 38,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 39816,
@@ -483,7 +483,7 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 27289,
+      "raw_hot": 27967,
       "num": 41007,
       "word": "WB巅峰对决DRG",
       "onboard_time": 1682693912,
