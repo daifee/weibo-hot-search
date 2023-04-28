@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682702143454,
+  "endTime": 1682703205607,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -11307,6 +11307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95601,
+      "num": 116268,
+      "word": "深圳地铁",
+      "onboard_time": 1682699546,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95291,
       "num": 95291,
       "word": "沈阳下雪",
@@ -11483,6 +11491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81492,
+      "num": 81492,
+      "word": "马嘉祺说你看到的我就是我的样子",
+      "onboard_time": 1682699484,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81256,
       "num": 81256,
       "word": "ENHYPEN预告",
@@ -11569,22 +11585,6 @@
       "onboard_time": 1682679989,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72888,
-      "num": 116268,
-      "word": "深圳地铁",
-      "onboard_time": 1682699546,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72520,
-      "num": 72520,
-      "word": "马嘉祺说你看到的我就是我的样子",
-      "onboard_time": 1682699484,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 71259,
@@ -11707,6 +11707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 62555,
+      "num": 72585,
+      "word": "看上去很拽其实内里脆弱",
+      "onboard_time": 1682699425,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 62537,
       "num": 62537,
       "word": "2023斯诺克世锦赛",
@@ -11721,14 +11729,6 @@
       "onboard_time": 1682481808,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 61438,
-      "num": 72585,
-      "word": "看上去很拽其实内里脆弱",
-      "onboard_time": 1682699425,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 61270,
@@ -11811,6 +11811,14 @@
       "category": "社会议题,幽默"
     },
     {
+      "raw_hot": 54445,
+      "num": 116244,
+      "word": "我的两个极端",
+      "onboard_time": 1682699725,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 54195,
       "num": 140808,
       "word": "一个人要有一个班上",
@@ -11825,14 +11833,6 @@
       "onboard_time": 1682664088,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 46679,
-      "num": 116244,
-      "word": "我的两个极端",
-      "onboard_time": 1682699725,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 46519,
