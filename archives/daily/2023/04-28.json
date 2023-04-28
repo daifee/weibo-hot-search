@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682688804838,
+  "endTime": 1682691326275,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -107,6 +107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1926886,
+      "num": 1926886,
+      "word": "北京已严重拥堵",
+      "onboard_time": 1682681249,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1900013,
       "num": 1900013,
       "word": "五一后离婚财产分割新规",
@@ -137,14 +145,6 @@
       "onboard_time": 1682640867,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1585004,
-      "num": 1585004,
-      "word": "北京已严重拥堵",
-      "onboard_time": 1682681249,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1575031,
@@ -224,6 +224,14 @@
       "word": "何超云",
       "onboard_time": 1682606312,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1195370,
+      "num": 1195370,
+      "word": "沈腾 最近一切都挺好哈",
+      "onboard_time": 1682688392,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -403,6 +411,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 692387,
+      "num": 692387,
+      "word": "上岸后室友就不和我说话了",
+      "onboard_time": 1682689353,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 673366,
       "num": 673366,
       "word": "为什么今年五一如此疯狂",
@@ -504,6 +520,14 @@
       "word": "丫丫的眼睛亮晶晶",
       "onboard_time": 1682674228,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578773,
+      "num": 578773,
+      "word": "淄博万人烧烤城",
+      "onboard_time": 1682685689,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -643,14 +667,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 455633,
-      "num": 195238,
-      "word": "沈腾 最近一切都挺好哈",
-      "onboard_time": 1682688392,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 454887,
       "num": 237894,
       "word": "伍佰巡演",
@@ -673,6 +689,14 @@
       "onboard_time": 1682586689,
       "rank": 12,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 442140,
+      "num": 442140,
+      "word": "原来何炅都老花了",
+      "onboard_time": 1682688812,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 436479,
@@ -715,14 +739,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 425037,
-      "num": 425037,
-      "word": "淄博万人烧烤城",
-      "onboard_time": 1682685689,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422166,
       "num": 422166,
       "word": "新版MBTI",
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399454,
+      "num": 399454,
+      "word": "王一博红毯生图",
+      "onboard_time": 1682686051,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399087,
       "num": 399087,
       "word": "为什么大家不再发朋友圈了",
@@ -785,14 +809,6 @@
       "onboard_time": 1682645066,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 391939,
-      "num": 391939,
-      "word": "王一博红毯生图",
-      "onboard_time": 1682686051,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 387347,
@@ -923,6 +939,14 @@
       "category": "国内要闻,社会新闻"
     },
     {
+      "raw_hot": 329655,
+      "num": 329655,
+      "word": "向往的生活",
+      "onboard_time": 1682675189,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326013,
       "num": 326013,
       "word": "丫丫回国后安排",
@@ -993,6 +1017,14 @@
       "onboard_time": 1682664685,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 306640,
+      "num": 306640,
+      "word": "郭艾伦受伤",
+      "onboard_time": 1682688873,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 303118,
@@ -1099,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 276416,
+      "num": 276416,
+      "word": "北京地铁2号线7号线上行今夜不停运",
+      "onboard_time": 1682689712,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273859,
       "num": 243690,
       "word": "丫丫住进了隔离检疫圈舍空调房",
@@ -1163,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255711,
+      "num": 255711,
+      "word": "五一 春运",
+      "onboard_time": 1682686713,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255008,
       "num": 255008,
       "word": "丫丫宅家视频",
@@ -1187,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252803,
+      "num": 254377,
+      "word": "突然明白了发朋友圈的意义",
+      "onboard_time": 1682679090,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250109,
       "num": 250109,
       "word": "MBTI",
@@ -1201,14 +1257,6 @@
       "onboard_time": 1682651907,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241215,
-      "num": 254377,
-      "word": "突然明白了发朋友圈的意义",
-      "onboard_time": 1682679090,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 239955,
@@ -1241,6 +1289,14 @@
       "onboard_time": 1682660309,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235254,
+      "num": 235254,
+      "word": "杀我别用小熊猫刀",
+      "onboard_time": 1682689955,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 229944,
@@ -1403,12 +1459,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207986,
+      "num": 207986,
+      "word": "听到过三观极正的一句话",
+      "onboard_time": 1682685810,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206661,
       "num": 206661,
       "word": "明天就是五一假期了",
       "onboard_time": 1682645008,
       "rank": 24,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 206191,
+      "num": 206191,
+      "word": "孙铭徽杀死比赛",
+      "onboard_time": 1682690732,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 205965,
@@ -1528,6 +1600,14 @@
       "word": "朱珠走秀气场",
       "onboard_time": 1682660968,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193846,
+      "num": 193846,
+      "word": "周深拿到身份时的表情",
+      "onboard_time": 1682690614,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1675,11 +1755,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179066,
-      "num": 179066,
-      "word": "五一 春运",
-      "onboard_time": 1682686713,
-      "rank": 45,
+      "raw_hot": 179805,
+      "num": 179805,
+      "word": "成都堵车",
+      "onboard_time": 1682690072,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1755,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169721,
+      "num": 169721,
+      "word": "秋瓷炫撩肩",
+      "onboard_time": 1682690193,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169059,
       "num": 169059,
       "word": "新型表白方式 西瓜烂了",
@@ -1777,6 +1865,14 @@
       "onboard_time": 1682660607,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165543,
+      "num": 165543,
+      "word": "赵丽颖的小揪揪",
+      "onboard_time": 1682690973,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 163919,
@@ -1889,14 +1985,6 @@
       "onboard_time": 1682655750,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 151857,
-      "num": 151857,
-      "word": "听到过三观极正的一句话",
-      "onboard_time": 1682685810,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 151125,
@@ -2323,6 +2411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 31243,
+      "num": 1576251,
+      "word": "传统村落集中连片保护利用示范名单",
+      "onboard_time": 1682690732,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30246,
       "num": 35229,
       "word": "GUCCI红毯",
@@ -2375,6 +2471,9 @@
     },
     {
       "word": "#始终不渝坚持党的领导#"
+    },
+    {
+      "word": "#秉持公正立场彰显大国担当#"
     }
   ]
 }

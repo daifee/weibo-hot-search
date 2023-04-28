@@ -1,0 +1,410 @@
+{
+  "runTime": 1682691326275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1926886,
+        "num": 1926886,
+        "word": "北京已严重拥堵",
+        "onboard_time": 1682681249,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1784482,
+        "num": 1784482,
+        "word": "宋慧乔 妍珍呐我得奖了",
+        "onboard_time": 1682684610,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31243,
+        "num": 1576251,
+        "word": "传统村落集中连片保护利用示范名单",
+        "onboard_time": 1682690732,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1456983,
+        "num": 1456983,
+        "word": "小丫去世",
+        "onboard_time": 1682677109,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1195370,
+        "num": 1195370,
+        "word": "沈腾 最近一切都挺好哈",
+        "onboard_time": 1682688392,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 812791,
+        "num": 812791,
+        "word": "陈都灵看不下去了",
+        "onboard_time": 1682677589,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 755383,
+        "num": 755383,
+        "word": "汤唯再获百想影后",
+        "onboard_time": 1682680049,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 744893,
+        "num": 744893,
+        "word": "南京南站",
+        "onboard_time": 1682684551,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692387,
+        "num": 692387,
+        "word": "上岸后室友就不和我说话了",
+        "onboard_time": 1682689353,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 639712,
+        "num": 639712,
+        "word": "薛之谦南京演唱会",
+        "onboard_time": 1682685149,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 578773,
+        "num": 578773,
+        "word": "淄博万人烧烤城",
+        "onboard_time": 1682685689,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451650,
+        "num": 451650,
+        "word": "谁给易烊千玺化的妆",
+        "onboard_time": 1682670506,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442140,
+        "num": 442140,
+        "word": "原来何炅都老花了",
+        "onboard_time": 1682688812,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 426122,
+        "num": 426122,
+        "word": "淄博烧烤最后如何收场",
+        "onboard_time": 1682675791,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 399454,
+        "num": 399454,
+        "word": "王一博红毯生图",
+        "onboard_time": 1682686051,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331148,
+        "num": 331148,
+        "word": "孙俪曾被质疑甲亢去医院检查",
+        "onboard_time": 1682673868,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329655,
+        "num": 329655,
+        "word": "向往的生活",
+        "onboard_time": 1682675189,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329307,
+        "num": 329307,
+        "word": "丫丫的眼睛亮晶晶",
+        "onboard_time": 1682674228,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311077,
+        "num": 311077,
+        "word": "Rookie",
+        "onboard_time": 1682681550,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306640,
+        "num": 306640,
+        "word": "郭艾伦受伤",
+        "onboard_time": 1682688873,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294649,
+        "num": 294649,
+        "word": "丫丫回家后吃饭吃得好香",
+        "onboard_time": 1682608409,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292939,
+        "num": 292939,
+        "word": "Ella C位",
+        "onboard_time": 1682672910,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283271,
+        "num": 283271,
+        "word": "12306众生平等",
+        "onboard_time": 1682656352,
+        "rank": 22,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 276416,
+        "num": 276416,
+        "word": "北京地铁2号线7号线上行今夜不停运",
+        "onboard_time": 1682689712,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263586,
+        "num": 263586,
+        "word": "长空之王",
+        "onboard_time": 1682676029,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255711,
+        "num": 255711,
+        "word": "五一 春运",
+        "onboard_time": 1682686713,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2114986,
+        "num": 255577,
+        "word": "史航性骚扰",
+        "onboard_time": 1682685269,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252803,
+        "num": 252803,
+        "word": "突然明白了发朋友圈的意义",
+        "onboard_time": 1682679090,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 246842,
+        "num": 246842,
+        "word": "给淄博烧烤泼一盆冷水",
+        "onboard_time": 1682636722,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243041,
+        "num": 243041,
+        "word": "对方撤回了一个宝宝",
+        "onboard_time": 1682668886,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235751,
+        "num": 235751,
+        "word": "林智妍感谢李到晛",
+        "onboard_time": 1682680228,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235254,
+        "num": 235254,
+        "word": "杀我别用小熊猫刀",
+        "onboard_time": 1682689955,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223195,
+        "num": 223195,
+        "word": "杰克辣条 虐猫",
+        "onboard_time": 1682652149,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 214923,
+        "num": 214923,
+        "word": "金智媛好美",
+        "onboard_time": 1682676448,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209033,
+        "num": 209033,
+        "word": "江歌妈妈看望章莹颖父母",
+        "onboard_time": 1682669128,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207986,
+        "num": 207986,
+        "word": "听到过三观极正的一句话",
+        "onboard_time": 1682685810,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206191,
+        "num": 206191,
+        "word": "孙铭徽杀死比赛",
+        "onboard_time": 1682690732,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193846,
+        "num": 193846,
+        "word": "周深拿到身份时的表情",
+        "onboard_time": 1682690614,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193545,
+        "num": 193545,
+        "word": "李亚鹏称为自己的错误买单",
+        "onboard_time": 1682664567,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 193065,
+        "num": 193065,
+        "word": "张嘉倪吴倩镜头",
+        "onboard_time": 1682659529,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191473,
+        "num": 191473,
+        "word": "赵露思直播",
+        "onboard_time": 1682687071,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179805,
+        "num": 179805,
+        "word": "成都堵车",
+        "onboard_time": 1682690072,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173318,
+        "num": 173318,
+        "word": "杨颖跳了flower",
+        "onboard_time": 1682665945,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169721,
+        "num": 169721,
+        "word": "秋瓷炫撩肩",
+        "onboard_time": 1682690193,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165543,
+        "num": 165543,
+        "word": "赵丽颖的小揪揪",
+        "onboard_time": 1682690973,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159117,
+        "num": 159117,
+        "word": "分手的决心",
+        "onboard_time": 1682685512,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156860,
+        "num": 156860,
+        "word": "柳俊烈百想影帝",
+        "onboard_time": 1682682751,
+        "rank": 46,
+        "category": "影视,影视"
+      },
+      {
+        "raw_hot": 142888,
+        "num": 142888,
+        "word": "欢瑞官网艺人列表没有袁冰妍",
+        "onboard_time": 1682677707,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131589,
+        "num": 131589,
+        "word": "虐待动物 入刑",
+        "onboard_time": 1682675609,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91004,
+        "num": 125026,
+        "word": "cp29",
+        "onboard_time": 1682679267,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#秉持公正立场彰显大国担当#"
+    }
+  }
+}
