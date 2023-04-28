@@ -1,0 +1,410 @@
+{
+  "runTime": 1682663702909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2445071,
+        "num": 2445071,
+        "word": "12306众生平等",
+        "onboard_time": 1682656352,
+        "rank": 0,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1418874,
+        "num": 1418874,
+        "word": "杰克辣条 虐猫",
+        "onboard_time": 1682652149,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 45322,
+        "num": 1340110,
+        "word": "裸眼3D看中国空间站",
+        "onboard_time": 1682652209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333830,
+        "num": 1333830,
+        "word": "谢娜说生完孩子长高了",
+        "onboard_time": 1682657250,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1330390,
+        "num": 1330390,
+        "word": "张嘉倪吴倩镜头",
+        "onboard_time": 1682659529,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 856788,
+        "num": 856788,
+        "word": "李亚鹏被强制执行4000万",
+        "onboard_time": 1682662405,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 843166,
+        "num": 843166,
+        "word": "丫丫回家后吃饭吃得好香",
+        "onboard_time": 1682608409,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620128,
+        "num": 620128,
+        "word": "谷爱凌Angelababy合影",
+        "onboard_time": 1682649866,
+        "rank": 7,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 617962,
+        "num": 617962,
+        "word": "男子偷猫后拍虐猫视频被治安拘留",
+        "onboard_time": 1682661146,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573392,
+        "num": 573392,
+        "word": "拼多多被曝临时确定五一放假三天",
+        "onboard_time": 1682646929,
+        "rank": 9,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 1711434,
+        "num": 569176,
+        "word": "青春没有售价 薛之谦无座直达南京",
+        "onboard_time": 1682652149,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 508333,
+        "num": 508333,
+        "word": "五一后离婚财产分割新规",
+        "onboard_time": 1682660968,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436217,
+        "num": 436217,
+        "word": "贾静雯好美",
+        "onboard_time": 1682659648,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412025,
+        "num": 412025,
+        "word": "两名未成年人在熊猫基地被严重警告",
+        "onboard_time": 1682659227,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409427,
+        "num": 409427,
+        "word": "杰克辣条经纪公司回应",
+        "onboard_time": 1682663065,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409244,
+        "num": 409244,
+        "word": "周六野 有毒的舒适圈不是那个前任",
+        "onboard_time": 1682654965,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 355383,
+        "num": 355383,
+        "word": "给淄博烧烤泼一盆冷水",
+        "onboard_time": 1682636722,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345350,
+        "num": 345350,
+        "word": "如何看待杰克辣条的道歉",
+        "onboard_time": 1682657851,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343971,
+        "num": 343971,
+        "word": "肖战Billkin同框",
+        "onboard_time": 1682660729,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320737,
+        "num": 320737,
+        "word": "丫丫",
+        "onboard_time": 1682658809,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306632,
+        "num": 306632,
+        "word": "杨紫的厚底鞋",
+        "onboard_time": 1682657851,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294748,
+        "num": 294748,
+        "word": "乘风2023定档官宣",
+        "onboard_time": 1682654908,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285280,
+        "num": 285280,
+        "word": "易烊千玺Angelababy谷爱凌合照",
+        "onboard_time": 1682659949,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283132,
+        "num": 283132,
+        "word": "权志龙来了都得站第三排",
+        "onboard_time": 1682659050,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270583,
+        "num": 270583,
+        "word": "迪丽热巴评论区模仿营销号",
+        "onboard_time": 1682656829,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267675,
+        "num": 267675,
+        "word": "朋友圈已经没有了生活的痕迹",
+        "onboard_time": 1682603009,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265227,
+        "num": 265227,
+        "word": "一千万重读高三你愿意吗",
+        "onboard_time": 1682655811,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259927,
+        "num": 259927,
+        "word": "高铁坐成了地铁的感觉",
+        "onboard_time": 1682662287,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240155,
+        "num": 240155,
+        "word": "南柱赫否认校暴视频",
+        "onboard_time": 1682659826,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238748,
+        "num": 238748,
+        "word": "曾黎有多少个手机壳",
+        "onboard_time": 1682660309,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454887,
+        "num": 237894,
+        "word": "伍佰巡演",
+        "onboard_time": 1682662825,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235568,
+        "num": 235568,
+        "word": "丫丫回家好像笑了",
+        "onboard_time": 1682653529,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190402,
+        "num": 190402,
+        "word": "竹节包",
+        "onboard_time": 1682641829,
+        "rank": 32,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 187573,
+        "num": 187573,
+        "word": "李佳航晒与韦正12年前私信记录",
+        "onboard_time": 1682654010,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184424,
+        "num": 184424,
+        "word": "虞书欣粉纱挂脖上衣",
+        "onboard_time": 1682660309,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181612,
+        "num": 181612,
+        "word": "乘风",
+        "onboard_time": 1682655450,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181444,
+        "num": 181444,
+        "word": "因业绩好被扣9000多",
+        "onboard_time": 1682640750,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173960,
+        "num": 173960,
+        "word": "大陆没电影吗",
+        "onboard_time": 1682649686,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166064,
+        "num": 166064,
+        "word": "曾可妮希望曾可妮能挺进四公",
+        "onboard_time": 1682660607,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57416,
+        "num": 164346,
+        "word": "五一出游避坑口诀",
+        "onboard_time": 1682661625,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163339,
+        "num": 163339,
+        "word": "朱珠走秀气场",
+        "onboard_time": 1682660968,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159313,
+        "num": 159313,
+        "word": "入职不到一年成为部门顶梁柱",
+        "onboard_time": 1682654791,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156114,
+        "num": 156114,
+        "word": "MBTI",
+        "onboard_time": 1682662706,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153416,
+        "num": 153416,
+        "word": "王源全包眼线烟熏妆",
+        "onboard_time": 1682661808,
+        "rank": 43,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 148481,
+        "num": 148481,
+        "word": "四杯水如何分给五个领导",
+        "onboard_time": 1682658028,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146256,
+        "num": 146256,
+        "word": "虹桥火车站",
+        "onboard_time": 1682650948,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132665,
+        "num": 132665,
+        "word": "杰克辣条B站账号被贴上违法标签",
+        "onboard_time": 1682662527,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129395,
+        "num": 129395,
+        "word": "丫丫一到机场就收到了竹子",
+        "onboard_time": 1682594187,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115278,
+        "num": 129264,
+        "word": "MSI赛区垃圾话",
+        "onboard_time": 1682659107,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36909,
+        "num": 128495,
+        "word": "万物皆可三月七",
+        "onboard_time": 1682660429,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#文旅市场活力迸发#"
+    }
+  }
+}
