@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/28 18:33:20
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/28 19:14:11
 </p>
 </blockquote>
 <p>
@@ -1085,6 +1085,12 @@ B站千万粉丝UP主回应停更传言（热度：2470645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%23" target="weibo">
 12306（热度：2383349）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%B8%AB%E5%8E%BB%E4%B8%96%23" target="weibo">
+小丫去世（热度：2382457）
 </a>
 </li>
 
@@ -3591,12 +3597,6 @@ BLG晋级MSI（热度：1343366）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%B8%AB%E5%8E%BB%E4%B8%96%23" target="weibo">
-小丫去世（热度：1297048）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E5%A4%BA%E5%86%A0%23" target="weibo">
 JDG夺冠（热度：1296367）
 </a>
@@ -4073,6 +4073,12 @@ BoysPlanet决赛出道夜（热度：1182705）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%97%B6%E6%9C%9F%E7%9A%84%E5%BD%AD%E5%B0%8F%E8%8B%92%23" target="weibo">
 主持人时期的彭小苒（热度：1175537）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E4%B9%A6%E8%AE%B0%E5%91%98%E5%87%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%88%90%E5%8A%9F%E5%87%BA%E5%9C%88%23" target="weibo">
+90后书记员凭朋友圈成功出圈（热度：1171715）
 </a>
 </li>
 
@@ -4647,12 +4653,6 @@ EXO 蝴蝶少女（热度：1079859）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E4%B9%A6%E8%AE%B0%E5%91%98%E5%87%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%88%90%E5%8A%9F%E5%87%BA%E5%9C%88%23" target="weibo">
-90后书记员凭朋友圈成功出圈（热度：1063599）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%9B%9E%E5%BA%94%E5%BD%A2%E8%B1%A1%E5%8F%98%E5%8C%96%23" target="weibo">
 肖战回应形象变化（热度：1063073）
 </a>
@@ -5069,6 +5069,12 @@ KPL 比赛暂停（热度：1003665）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E7%9A%84%E9%AB%98%E5%8F%91%E6%97%B6%E6%9C%9F%23" target="weibo">
 春天是精神病的高发时期（热度：983038）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E7%9C%8B%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23" target="weibo">
+陈都灵看不下去了（热度：982904）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ WE Are One（热度：875106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 王楚钦（热度：867570）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%BF%9B%E7%BB%84%23" target="weibo">
-迪丽热巴进组（热度：866668）
 </a>
 </li>
 

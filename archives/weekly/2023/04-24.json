@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682678000479,
+  "endTime": 1682680451624,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -257,6 +257,14 @@
       "onboard_time": 1682326529,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2382457,
+      "num": 1297048,
+      "word": "小丫去世",
+      "onboard_time": 1682677109,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2322125,
@@ -947,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1297048,
-      "num": 1297048,
-      "word": "小丫去世",
-      "onboard_time": 1682677109,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1285084,
       "num": 1285084,
       "word": "何炅黄磊好像两个假笑空巢老人",
@@ -1073,6 +1073,14 @@
       "onboard_time": 1682568507,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1171715,
+      "num": 1463122,
+      "word": "90后书记员凭朋友圈成功出圈",
+      "onboard_time": 1682675428,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1168289,
@@ -1195,14 +1203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1063599,
-      "num": 1463122,
-      "word": "90后书记员凭朋友圈成功出圈",
-      "onboard_time": 1682675428,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1039901,
       "num": 648926,
       "word": "奚梦瑶回应去深圳不是上课是上班",
@@ -1304,6 +1304,14 @@
       "word": "替身说肖战拍戏现场不用看剧本",
       "onboard_time": 1682502089,
       "rank": 9,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 982904,
+      "num": 982904,
+      "word": "陈都灵看不下去了",
+      "onboard_time": 1682677589,
+      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -1747,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701407,
+      "num": 701407,
+      "word": "汤唯再获百想影后",
+      "onboard_time": 1682680049,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 677518,
       "num": 677518,
       "word": "法考",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1682666187,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 661447,
+      "num": 661447,
+      "word": "金智媛好美",
+      "onboard_time": 1682676448,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 658507,
@@ -2195,7 +2219,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 542132,
+      "raw_hot": 542543,
       "num": 1204858,
       "word": "丫丫的眼睛亮晶晶",
       "onboard_time": 1682674228,
@@ -2401,14 +2425,6 @@
       "onboard_time": 1682560225,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 501291,
-      "num": 501291,
-      "word": "金智媛好美",
-      "onboard_time": 1682676448,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 501248,
@@ -2633,6 +2649,14 @@
       "onboard_time": 1682267721,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479787,
+      "num": 479787,
+      "word": "林智妍感谢李到晛",
+      "onboard_time": 1682680228,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 479552,
@@ -2905,6 +2929,14 @@
       "onboard_time": 1682402847,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453722,
+      "num": 453722,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 453111,
@@ -4259,20 +4291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324607,
-      "num": 324607,
-      "word": "淄博烧烤最后如何收场",
-      "onboard_time": 1682675791,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 324416,
       "num": 324416,
       "word": "文彬悼念区留下手写信",
       "onboard_time": 1682345790,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324392,
+      "num": 324392,
+      "word": "cp29",
+      "onboard_time": 1682432013,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 324203,
@@ -5195,6 +5227,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 268250,
+      "num": 268250,
+      "word": "欢瑞官网艺人列表没有袁冰妍",
+      "onboard_time": 1682677707,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267869,
       "num": 267869,
       "word": "杨毅说中国篮球一个时代落幕了",
@@ -5361,14 +5401,6 @@
       "onboard_time": 1682494888,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 260754,
-      "num": 260754,
-      "word": "陈都灵看不下去了",
-      "onboard_time": 1682677589,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 260562,
@@ -6179,6 +6211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229944,
+      "num": 229944,
+      "word": "讨好型人格 懒得得罪你",
+      "onboard_time": 1682678910,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229906,
       "num": 229906,
       "word": "我入不了仙门",
@@ -6985,14 +7025,6 @@
       "onboard_time": 1682516069,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203070,
-      "num": 203070,
-      "word": "欢瑞官网艺人列表没有袁冰妍",
-      "onboard_time": 1682677707,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 202974,
@@ -8147,14 +8179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178468,
-      "num": 178468,
-      "word": "cp29",
-      "onboard_time": 1682432013,
-      "rank": 34,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 178411,
       "num": 178411,
       "word": "天赐的声音4官宣",
@@ -8465,6 +8489,14 @@
       "onboard_time": 1682312433,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170825,
+      "num": 170825,
+      "word": "白鹿像要把范丞丞吃了",
+      "onboard_time": 1682679512,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 170824,
@@ -9219,6 +9251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148723,
+      "num": 148723,
+      "word": "长空之王票房",
+      "onboard_time": 1682680290,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 148635,
       "num": 148635,
       "word": "漫长的季节 哑巴",
@@ -9249,6 +9289,14 @@
       "onboard_time": 1682484271,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148240,
+      "num": 148240,
+      "word": "突然明白了发朋友圈的意义",
+      "onboard_time": 1682679090,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 148217,
@@ -9651,6 +9699,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 140269,
+      "num": 140269,
+      "word": "边伯贤新OST公开",
+      "onboard_time": 1682679868,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 140209,
       "num": 140209,
       "word": "孙珍妮为翩然请假",
@@ -10009,6 +10065,14 @@
       "onboard_time": 1682417126,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130533,
+      "num": 130533,
+      "word": "宋茜陈妍希温暖的甜蜜的官宣定档",
+      "onboard_time": 1682680408,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 129925,
@@ -11185,6 +11249,14 @@
       "onboard_time": 1682664088,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 47472,
+      "num": 550818,
+      "word": "核酸亭变身春日啤酒亭",
+      "onboard_time": 1682679989,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46519,
