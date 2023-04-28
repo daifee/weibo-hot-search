@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682673412958,
+  "endTime": 1682674426353,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -875,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1382177,
+      "num": 1382177,
+      "word": "对方撤回了一个宝宝",
+      "onboard_time": 1682668886,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1378042,
       "num": 1129705,
       "word": "海南一12岁小学生骑车被撞身亡",
@@ -1299,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 952513,
-      "num": 952513,
-      "word": "对方撤回了一个宝宝",
-      "onboard_time": 1682668886,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 952414,
       "num": 952414,
       "word": "肖战周也 徐克新电影",
@@ -1649,6 +1649,14 @@
       "onboard_time": 1682559265,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 730002,
+      "num": 730002,
+      "word": "Ella C位",
+      "onboard_time": 1682672910,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 729640,
@@ -2251,6 +2259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 513856,
+      "num": 513856,
+      "word": "汤唯气质",
+      "onboard_time": 1682672368,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 513282,
       "num": 251455,
       "word": "小鬼 抢票",
@@ -2433,6 +2449,14 @@
       "onboard_time": 1682590349,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 492470,
+      "num": 492470,
+      "word": "宋慧乔优雅大气",
+      "onboard_time": 1682673268,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 491642,
@@ -3043,6 +3067,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428514,
+      "num": 428514,
+      "word": "广州地铁",
+      "onboard_time": 1682671169,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426873,
       "num": 426873,
       "word": "王鹤棣新剧旁白是东方青苍",
@@ -3097,6 +3129,14 @@
       "onboard_time": 1682417728,
       "rank": 34,
       "category": "幽默,教育"
+    },
+    {
+      "raw_hot": 422005,
+      "num": 422005,
+      "word": "孙俪曾被质疑甲亢去医院检查",
+      "onboard_time": 1682673868,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 421941,
@@ -3283,14 +3323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408324,
-      "num": 408324,
-      "word": "汤唯气质",
-      "onboard_time": 1682672368,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 407704,
       "num": 407704,
       "word": "因为已婚未育遭公司拒绝",
@@ -3313,14 +3345,6 @@
       "onboard_time": 1682510909,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 405153,
-      "num": 405153,
-      "word": "广州地铁",
-      "onboard_time": 1682671169,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404708,
@@ -3393,6 +3417,14 @@
       "onboard_time": 1682327008,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397046,
+      "num": 397046,
+      "word": "丫丫吃的竹子来自湖州安吉",
+      "onboard_time": 1682668648,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396590,
@@ -3585,14 +3617,6 @@
       "onboard_time": 1682378002,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 380971,
-      "num": 380971,
-      "word": "丫丫吃的竹子来自湖州安吉",
-      "onboard_time": 1682668648,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379660,
@@ -4089,6 +4113,14 @@
       "onboard_time": 1682505025,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330403,
+      "num": 330403,
+      "word": "尹锡悦称赞美军在长津湖战役中突围",
+      "onboard_time": 1682671708,
+      "rank": 30,
+      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 329956,
@@ -4627,6 +4659,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 294489,
+      "num": 294489,
+      "word": "男子称入住酒店发现床上有血迹",
+      "onboard_time": 1682672308,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 294206,
       "num": 294206,
       "word": "肖战如梦之梦最新镜头",
@@ -4793,14 +4833,6 @@
       "onboard_time": 1682391806,
       "rank": 36,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 284749,
-      "num": 284749,
-      "word": "Ella C位",
-      "onboard_time": 1682672910,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 284236,
@@ -5065,14 +5097,6 @@
       "onboard_time": 1682391024,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268919,
-      "num": 242752,
-      "word": "尹锡悦称赞美军在长津湖战役中突围",
-      "onboard_time": 1682671708,
-      "rank": 30,
-      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 268327,
@@ -5723,14 +5747,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 243692,
-      "num": 243692,
-      "word": "男子称入住酒店发现床上有血迹",
-      "onboard_time": 1682672308,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243639,
       "num": 243639,
       "word": "声生不息五公 归零",
@@ -6187,14 +6203,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 223408,
-      "num": 223408,
-      "word": "宋慧乔优雅大气",
-      "onboard_time": 1682673268,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 223328,
       "num": 223328,
       "word": "易建联 广东队",
@@ -6555,8 +6563,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212339,
-      "num": 212339,
+      "raw_hot": 212589,
+      "num": 212589,
       "word": "爱情公寓破事精英梦幻联动",
       "onboard_time": 1682672788,
       "rank": 34,
@@ -7915,6 +7923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181349,
+      "num": 181349,
+      "word": "四川烧烤虫草",
+      "onboard_time": 1682673450,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181129,
       "num": 181129,
       "word": "如果我开个公司",
@@ -8321,6 +8337,14 @@
       "onboard_time": 1682515530,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170753,
+      "num": 170753,
+      "word": "秀智黑天鹅",
+      "onboard_time": 1682674408,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170628,
@@ -8755,6 +8779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158540,
+      "num": 158540,
+      "word": "广州地铁公交票价优惠新方案公示",
+      "onboard_time": 1682674169,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158323,
       "num": 158323,
       "word": "守护孩子们的航天梦",
@@ -9040,6 +9072,14 @@
       "word": "成都今天闪爆了",
       "onboard_time": 1682398114,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149258,
+      "num": 149258,
+      "word": "晚高峰",
+      "onboard_time": 1682674289,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -11105,6 +11145,14 @@
       "onboard_time": 1682446815,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29194,
+      "num": 1027777,
+      "word": "数字经济事关国家发展大局",
+      "onboard_time": 1682673752,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27379,
