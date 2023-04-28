@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682651900306,
+  "endTime": 1682652819436,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1019,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1115016,
+      "num": 1115016,
+      "word": "杰克辣条 虐猫",
+      "onboard_time": 1682652149,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1113051,
       "num": 1113051,
       "word": "SEVENTEEN回归",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1682344831,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 853547,
+      "num": 853547,
+      "word": "谷爱凌Angelababy合影",
+      "onboard_time": 1682649866,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 850310,
@@ -1595,6 +1611,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 658507,
+      "num": 658507,
+      "word": "重庆大客车侧翻致20人受伤",
+      "onboard_time": 1682650409,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658002,
       "num": 658002,
       "word": "罗云熙演技",
@@ -1672,14 +1696,6 @@
       "word": "99元睡大厅",
       "onboard_time": 1682386765,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 622254,
-      "num": 622254,
-      "word": "重庆大客车侧翻致20人受伤",
-      "onboard_time": 1682650409,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1867,8 +1883,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572925,
+      "num": 520377,
+      "word": "青春没有售价 薛之谦无座直达南京",
+      "onboard_time": 1682652149,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 571439,
-      "num": 313855,
+      "num": 335671,
       "word": "大陆没电影吗",
       "onboard_time": 1682649686,
       "rank": 47,
@@ -1884,7 +1908,7 @@
     },
     {
       "raw_hot": 567548,
-      "num": 350025,
+      "num": 364848,
       "word": "杨幂官宣加盟当燃青春",
       "onboard_time": 1682648368,
       "rank": 20,
@@ -2001,14 +2025,6 @@
       "onboard_time": 1682498426,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 523951,
-      "num": 523951,
-      "word": "谷爱凌Angelababy合影",
-      "onboard_time": 1682649866,
-      "rank": 12,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 522478,
@@ -2491,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462703,
+      "num": 462703,
+      "word": "虹桥火车站",
+      "onboard_time": 1682650948,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462232,
       "num": 462232,
       "word": "张大大哭了",
@@ -2841,6 +2865,14 @@
       "onboard_time": 1682392707,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 421177,
+      "num": 421177,
+      "word": "罗云熙宋轶CP名金戈铁马",
+      "onboard_time": 1682649506,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 421109,
@@ -3739,14 +3771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 328144,
-      "num": 328144,
-      "word": "罗云熙宋轶CP名金戈铁马",
-      "onboard_time": 1682649506,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 328022,
       "num": 328022,
       "word": "爱奇艺 灌篮高手",
@@ -3897,6 +3921,14 @@
       "onboard_time": 1682291781,
       "rank": 47,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 320197,
+      "num": 320197,
+      "word": "东北虎牙疼得每天用脸抵住地面",
+      "onboard_time": 1682650888,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320088,
@@ -4187,12 +4219,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 296764,
-      "num": 296764,
-      "word": "虹桥火车站",
-      "onboard_time": 1682650948,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 298841,
+      "num": 298841,
+      "word": "拼多多",
+      "onboard_time": 1682651907,
+      "rank": 24,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 296119,
@@ -4201,6 +4233,14 @@
       "onboard_time": 1682599169,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 296115,
+      "num": 296115,
+      "word": "今天有六部电影上映",
+      "onboard_time": 1682650347,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 295527,
@@ -4995,14 +5035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 253633,
-      "num": 253633,
-      "word": "东北虎牙疼得每天用脸抵住地面",
-      "onboard_time": 1682650888,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253082,
       "num": 253082,
       "word": "女性如何更好的享受两性关系",
@@ -5131,6 +5163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248225,
+      "num": 248225,
+      "word": "凯尔特人",
+      "onboard_time": 1682651907,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247016,
       "num": 247016,
       "word": "湖人 头孢教练",
@@ -5160,14 +5200,6 @@
       "word": "时代少年团或将出演英雄联盟",
       "onboard_time": 1682315608,
       "rank": 30,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 246185,
-      "num": 246185,
-      "word": "今天有六部电影上映",
-      "onboard_time": 1682650347,
-      "rank": 29,
       "category": "影视"
     },
     {
@@ -6339,6 +6371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201229,
+      "num": 201229,
+      "word": "杨紫最新代言物料图",
+      "onboard_time": 1682651847,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201054,
       "num": 201054,
       "word": "你现在的工作能保证每周双休吗",
@@ -6723,6 +6763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192284,
+      "num": 192284,
+      "word": "不要道德绑架淄博",
+      "onboard_time": 1682651188,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191706,
       "num": 191706,
       "word": "詹姆斯22分20篮板",
@@ -7016,6 +7064,14 @@
       "word": "宜和宽哥",
       "onboard_time": 1682387065,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186265,
+      "num": 186265,
+      "word": "宝妈地铁哺乳女乘客自发组人墙",
+      "onboard_time": 1682651549,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -7617,14 +7673,6 @@
       "onboard_time": 1682312433,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170955,
-      "num": 170955,
-      "word": "不要道德绑架淄博",
-      "onboard_time": 1682651188,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 170824,
@@ -8635,6 +8683,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143313,
+      "num": 143313,
+      "word": "毕业班同学为临产老师偷偷策划的惊喜",
+      "onboard_time": 1682651790,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 143052,
       "num": 143052,
       "word": "热火4比1淘汰雄鹿",
@@ -8857,14 +8913,6 @@
       "onboard_time": 1682405487,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 137030,
-      "num": 137030,
-      "word": "宝妈地铁哺乳女乘客自发组人墙",
-      "onboard_time": 1682651549,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137022,
@@ -9147,14 +9195,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 127327,
-      "num": 127327,
-      "word": "毕业班同学为临产老师偷偷策划的惊喜",
-      "onboard_time": 1682651790,
-      "rank": 45,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 127303,
       "num": 127303,
       "word": "柯基从包里翻出主人毕业证后咬烂",
@@ -9169,14 +9209,6 @@
       "onboard_time": 1682579186,
       "rank": 46,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 127007,
-      "num": 127007,
-      "word": "杨紫最新代言物料图",
-      "onboard_time": 1682651847,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 126801,
@@ -10287,6 +10319,14 @@
       "num": 1549984,
       "word": "第六届数字中国建设峰会",
       "onboard_time": 1682512106,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37100,
+      "num": 1141719,
+      "word": "裸眼3D看中国空间站",
+      "onboard_time": 1682652209,
       "rank": 2,
       "category": "社会新闻"
     },
