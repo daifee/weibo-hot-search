@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682677094160,
+  "endTime": 1682678000479,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2062230,
-      "num": 737923,
+      "num": 748617,
       "word": "青春没有售价 薛之谦无座直达南京",
       "onboard_time": 1682652149,
       "rank": 11,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1297048,
+      "num": 1297048,
+      "word": "小丫去世",
+      "onboard_time": 1682677109,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1221257,
       "num": 961920,
       "word": "何超云",
@@ -187,8 +195,8 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1125715,
-      "num": 1125715,
+      "raw_hot": 1149075,
+      "num": 1149075,
       "word": "孙俪曾被质疑甲亢去医院检查",
       "onboard_time": 1682673868,
       "rank": 16,
@@ -200,6 +208,14 @@
       "word": "丫丫一到机场就收到了竹子",
       "onboard_time": 1682594187,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1063599,
+      "num": 1463122,
+      "word": "90后书记员凭朋友圈成功出圈",
+      "onboard_time": 1682675428,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -257,14 +273,6 @@
       "onboard_time": 1682662405,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 892515,
-      "num": 1222483,
-      "word": "90后书记员凭朋友圈成功出圈",
-      "onboard_time": 1682675428,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 862921,
@@ -459,6 +467,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 542132,
+      "num": 1204858,
+      "word": "丫丫的眼睛亮晶晶",
+      "onboard_time": 1682674228,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532264,
+      "num": 532264,
+      "word": "虐待动物 入刑",
+      "onboard_time": 1682675609,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515319,
       "num": 494576,
       "word": "胖虎带易烊千玺溜达视频",
@@ -483,12 +507,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 500313,
-      "num": 500313,
-      "word": "虐待动物 入刑",
-      "onboard_time": 1682675609,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 501291,
+      "num": 501291,
+      "word": "金智媛好美",
+      "onboard_time": 1682676448,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 493965,
@@ -659,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 386334,
-      "num": 1023235,
-      "word": "丫丫的眼睛亮晶晶",
-      "onboard_time": 1682674228,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 386323,
       "num": 386323,
       "word": "张彬彬PDD",
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324607,
+      "num": 324607,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 321832,
       "num": 321832,
       "word": "五一加班工资应该怎么算",
@@ -809,6 +833,14 @@
       "onboard_time": 1682650347,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 313919,
+      "num": 980689,
+      "word": "女孩考满分兑冰淇淋后再买个送同伴",
+      "onboard_time": 1682675909,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310076,
@@ -915,14 +947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 283498,
-      "num": 283498,
-      "word": "金智媛好美",
-      "onboard_time": 1682676448,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 276860,
       "num": 276860,
       "word": "你也有今天官宣开机",
@@ -985,6 +1009,14 @@
       "onboard_time": 1682676029,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 260754,
+      "num": 260754,
+      "word": "陈都灵看不下去了",
+      "onboard_time": 1682677589,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255008,
@@ -1203,14 +1235,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 208137,
-      "num": 208137,
-      "word": "淄博烧烤最后如何收场",
-      "onboard_time": 1682675791,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 208052,
       "num": 208052,
       "word": "何猷君亲王嘉尔",
@@ -1227,12 +1251,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 203516,
+      "num": 203516,
+      "word": "长月烬明",
+      "onboard_time": 1682677649,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 203512,
       "num": 203512,
       "word": "偷猫拍虐猫视频网红道歉",
       "onboard_time": 1682654249,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203070,
+      "num": 203070,
+      "word": "欢瑞官网艺人列表没有袁冰妍",
+      "onboard_time": 1682677707,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 202021,
@@ -1363,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187775,
+      "num": 187775,
+      "word": "北京国际电影节",
+      "onboard_time": 1682677529,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187099,
       "num": 187099,
       "word": "大熊猫1天要吃40斤新鲜竹子",
@@ -1427,12 +1475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178210,
-      "num": 932148,
-      "word": "女孩考满分兑冰淇淋后再买个送同伴",
-      "onboard_time": 1682675909,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 178310,
+      "num": 178310,
+      "word": "百想艺术大赏",
+      "onboard_time": 1682670988,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178175,
@@ -1449,6 +1497,14 @@
       "onboard_time": 1682651790,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 177136,
+      "num": 177136,
+      "word": "罗云熙宋轶开机路透",
+      "onboard_time": 1682676929,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 176836,
@@ -1499,14 +1555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167228,
-      "num": 167228,
-      "word": "罗云熙宋轶开机路透",
-      "onboard_time": 1682676929,
-      "rank": 43,
-      "category": "影视"
-    },
-    {
       "raw_hot": 166064,
       "num": 166064,
       "word": "曾可妮希望曾可妮能挺进四公",
@@ -1553,14 +1601,6 @@
       "onboard_time": 1682674588,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161790,
-      "num": 161790,
-      "word": "百想艺术大赏",
-      "onboard_time": 1682670988,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 160429,
@@ -1940,7 +1980,7 @@
     },
     {
       "raw_hot": 39665,
-      "num": 1161951,
+      "num": 1339185,
       "word": "数字经济事关国家发展大局",
       "onboard_time": 1682673752,
       "rank": 2,
@@ -1987,20 +2027,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24354,
+      "num": 596112,
+      "word": "这些大放异彩的明星妆容",
+      "onboard_time": 1682676029,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 21096,
       "num": 26697,
       "word": "蔡依林演唱会",
       "onboard_time": 1682599589,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17146,
-      "num": 596112,
-      "word": "这些大放异彩的明星妆容",
-      "onboard_time": 1682676029,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 11605,
