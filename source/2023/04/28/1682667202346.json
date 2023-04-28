@@ -1,0 +1,410 @@
+{
+  "runTime": 1682667202346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1900013,
+        "num": 1900013,
+        "word": "五一后离婚财产分割新规",
+        "onboard_time": 1682660968,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1517379,
+        "num": 1517379,
+        "word": "12306众生平等",
+        "onboard_time": 1682656352,
+        "rank": 1,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 37881,
+        "num": 1263829,
+        "word": "裸眼3D看中国空间站",
+        "onboard_time": 1682652209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224668,
+        "num": 1224668,
+        "word": "张嘉倪吴倩镜头",
+        "onboard_time": 1682659529,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1165889,
+        "num": 1165889,
+        "word": "李亚鹏称为自己的错误买单",
+        "onboard_time": 1682664567,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 911955,
+        "num": 911955,
+        "word": "谢娜说生完孩子长高了",
+        "onboard_time": 1682657250,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 916285,
+        "num": 907476,
+        "word": "李亚鹏被强制执行4000万",
+        "onboard_time": 1682662405,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 855222,
+        "num": 855222,
+        "word": "丫丫回家后吃饭吃得好香",
+        "onboard_time": 1682608409,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742320,
+        "num": 742320,
+        "word": "外媒称武契奇被送医",
+        "onboard_time": 1682664268,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443407,
+        "num": 443407,
+        "word": "谷爱凌Angelababy合影",
+        "onboard_time": 1682649866,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1304602,
+        "num": 440530,
+        "word": "杰克辣条 虐猫",
+        "onboard_time": 1682652149,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 938510,
+        "num": 438063,
+        "word": "青春没有售价 薛之谦无座直达南京",
+        "onboard_time": 1682652149,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 429863,
+        "num": 429863,
+        "word": "高铁坐成了地铁的感觉",
+        "onboard_time": 1682662287,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 394433,
+        "num": 394433,
+        "word": "杰克辣条经纪公司回应",
+        "onboard_time": 1682663065,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 57549,
+        "num": 389828,
+        "word": "吴磊片场侧拍视频",
+        "onboard_time": 1682665225,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387284,
+        "num": 387284,
+        "word": "给淄博烧烤泼一盆冷水",
+        "onboard_time": 1682636722,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353020,
+        "num": 353020,
+        "word": "如何看待杰克辣条的道歉",
+        "onboard_time": 1682657851,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 345595,
+        "num": 345595,
+        "word": "杨颖跳了flower",
+        "onboard_time": 1682665945,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331754,
+        "num": 331754,
+        "word": "贾静雯好美",
+        "onboard_time": 1682659648,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316514,
+        "num": 316514,
+        "word": "拼多多被曝临时确定五一放假三天",
+        "onboard_time": 1682646929,
+        "rank": 19,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 308175,
+        "num": 308175,
+        "word": "三十岁的李莎旻子",
+        "onboard_time": 1682664685,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305550,
+        "num": 305550,
+        "word": "两名未成年人在熊猫基地被严重警告",
+        "onboard_time": 1682659227,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284682,
+        "num": 284682,
+        "word": "易烊千玺Angelababy谷爱凌合照",
+        "onboard_time": 1682659949,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273579,
+        "num": 273579,
+        "word": "男子偷猫后拍虐猫视频被治安拘留",
+        "onboard_time": 1682661146,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268375,
+        "num": 268375,
+        "word": "谁把范丞丞扔高铁站了",
+        "onboard_time": 1682666305,
+        "rank": 24,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 268173,
+        "num": 268173,
+        "word": "丫丫",
+        "onboard_time": 1682658809,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265548,
+        "num": 265548,
+        "word": "朋友圈已经没有了生活的痕迹",
+        "onboard_time": 1682603009,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257270,
+        "num": 257270,
+        "word": "杰克辣条B站账号被贴上违法标签",
+        "onboard_time": 1682662527,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 256296,
+        "num": 256296,
+        "word": "为什么今年五一如此疯狂",
+        "onboard_time": 1682666187,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250109,
+        "num": 250109,
+        "word": "MBTI",
+        "onboard_time": 1682662706,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249672,
+        "num": 249672,
+        "word": "一千万重读高三你愿意吗",
+        "onboard_time": 1682655811,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236016,
+        "num": 236016,
+        "word": "肖战Billkin同框",
+        "onboard_time": 1682660729,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233175,
+        "num": 233175,
+        "word": "陈冰的腰线",
+        "onboard_time": 1682665826,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210443,
+        "num": 210443,
+        "word": "乘风2023定档官宣",
+        "onboard_time": 1682654908,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195679,
+        "num": 195679,
+        "word": "丫丫回家好像笑了",
+        "onboard_time": 1682653529,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187099,
+        "num": 187099,
+        "word": "大熊猫1天要吃40斤新鲜竹子",
+        "onboard_time": 1682666305,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181950,
+        "num": 181950,
+        "word": "迪丽热巴评论区模仿营销号",
+        "onboard_time": 1682656829,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179516,
+        "num": 179516,
+        "word": "黄子韬问宁静和那英谁性格更不好",
+        "onboard_time": 1682666006,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176771,
+        "num": 176771,
+        "word": "杨紫的厚底鞋",
+        "onboard_time": 1682657851,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171953,
+        "num": 171953,
+        "word": "李佳航晒与韦正12年前私信记录",
+        "onboard_time": 1682654010,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168638,
+        "num": 168638,
+        "word": "因业绩好被扣9000多",
+        "onboard_time": 1682640750,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168477,
+        "num": 168477,
+        "word": "权志龙来了都得站第三排",
+        "onboard_time": 1682659050,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155767,
+        "num": 155767,
+        "word": "不懂可以问千万别瞎用",
+        "onboard_time": 1682663968,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147506,
+        "num": 147506,
+        "word": "乘风",
+        "onboard_time": 1682655450,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147047,
+        "num": 147047,
+        "word": "曾黎有多少个手机壳",
+        "onboard_time": 1682660309,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130595,
+        "num": 130595,
+        "word": "虞书欣粉纱挂脖上衣",
+        "onboard_time": 1682660309,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124780,
+        "num": 124780,
+        "word": "大陆没电影吗",
+        "onboard_time": 1682649686,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 103879,
+        "num": 118427,
+        "word": "竹节包",
+        "onboard_time": 1682641829,
+        "rank": 47,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 117123,
+        "num": 117123,
+        "word": "女人最好的医美",
+        "onboard_time": 1682667147,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32410,
+        "num": 116546,
+        "word": "祖国风光主打一个帧帧出彩",
+        "onboard_time": 1682667088,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#文旅市场活力迸发#"
+    }
+  }
+}
