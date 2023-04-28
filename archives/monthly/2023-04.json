@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682649303906,
+  "endTime": 1682649843465,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1979,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2078707,
+      "num": 2078707,
+      "word": "拼多多被曝临时确定五一放假三天",
+      "onboard_time": 1682646929,
+      "rank": 0,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 2073534,
       "num": 1661878,
       "word": "亲亲您这个什么您心里不清楚吗",
@@ -3179,14 +3187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1644395,
-      "num": 1644395,
-      "word": "拼多多被曝临时确定五一放假三天",
-      "onboard_time": 1682646929,
-      "rank": 0,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 1643326,
       "num": 1638319,
       "word": "债主获刑张继科会是共犯吗",
@@ -3377,6 +3377,14 @@
       "onboard_time": 1682508988,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1587127,
+      "num": 488554,
+      "word": "肖战喝酒了",
+      "onboard_time": 1682640867,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1584064,
@@ -4009,14 +4017,6 @@
       "onboard_time": 1681132047,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1456212,
-      "num": 480971,
-      "word": "肖战喝酒了",
-      "onboard_time": 1682640867,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1455056,
@@ -10363,6 +10363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 695151,
+      "num": 695151,
+      "word": "首都机场多人尾随跟拍艺人被传唤",
+      "onboard_time": 1682647767,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694950,
       "num": 694950,
       "word": "动物园称未经许可不得直播丫丫",
@@ -13555,14 +13563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 560938,
-      "num": 560938,
-      "word": "首都机场多人尾随跟拍艺人被传唤",
-      "onboard_time": 1682647767,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 560762,
       "num": 560762,
       "word": "薛之谦演唱会门票",
@@ -15859,6 +15859,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 491126,
+      "num": 491126,
+      "word": "鹿晗33岁身材管理",
+      "onboard_time": 1682647406,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 491099,
       "num": 491099,
       "word": "泗水",
@@ -15993,14 +16001,6 @@
       "onboard_time": 1681446330,
       "rank": 31,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 488128,
-      "num": 488128,
-      "word": "鹿晗33岁身材管理",
-      "onboard_time": 1682647406,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 487924,
@@ -16811,6 +16811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470492,
+      "num": 470492,
+      "word": "民宿五一为涨价谎称因嫖娼被查封",
+      "onboard_time": 1682646390,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470441,
       "num": 470441,
       "word": "时代少年团海口演唱会官宣",
@@ -16953,14 +16961,6 @@
       "onboard_time": 1681533145,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 465726,
-      "num": 465726,
-      "word": "民宿五一为涨价谎称因嫖娼被查封",
-      "onboard_time": 1682646390,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465582,
@@ -21297,6 +21297,14 @@
       "onboard_time": 1680509674,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 385877,
+      "num": 385877,
+      "word": "Apink 不续约",
+      "onboard_time": 1682648007,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 385818,
@@ -26123,14 +26131,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 311587,
-      "num": 311587,
-      "word": "Apink 不续约",
-      "onboard_time": 1682648007,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311201,
       "num": 311201,
       "word": "长峰医院火灾事故初步调查结果",
@@ -27891,6 +27891,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 288320,
+      "num": 288320,
+      "word": "YG新女团为5人组",
+      "onboard_time": 1682646746,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288279,
       "num": 288279,
       "word": "aespa吐槽ae成员",
@@ -28024,14 +28032,6 @@
       "word": "韩国酵母",
       "onboard_time": 1681117825,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 286939,
-      "num": 286939,
-      "word": "YG新女团为5人组",
-      "onboard_time": 1682646746,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -28945,6 +28945,14 @@
       "onboard_time": 1682230287,
       "rank": 26,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 276609,
+      "num": 276609,
+      "word": "带王一博24小时玩遍北京",
+      "onboard_time": 1682648606,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276505,
@@ -31321,6 +31329,14 @@
       "onboard_time": 1682637443,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253050,
+      "num": 253050,
+      "word": "德云社抢票",
+      "onboard_time": 1682648968,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 253001,
@@ -39835,6 +39851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202021,
+      "num": 202021,
+      "word": "billkin上海",
+      "onboard_time": 1682648906,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202004,
       "num": 202004,
       "word": "陈赫打乒乓全靠场外支援",
@@ -41683,14 +41707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197161,
-      "num": 197161,
-      "word": "带王一博24小时玩遍北京",
-      "onboard_time": 1682648606,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197151,
       "num": 197151,
       "word": "卫视报道长空之王点映活动",
@@ -42177,14 +42193,6 @@
       "onboard_time": 1680355289,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 195911,
-      "num": 195911,
-      "word": "德云社抢票",
-      "onboard_time": 1682648968,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 195854,
@@ -43787,6 +43795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190848,
+      "num": 190848,
+      "word": "丫丫回国第一晚过得怎么样",
+      "onboard_time": 1682649388,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190835,
       "num": 192234,
       "word": "春闺梦里人",
@@ -44593,6 +44609,14 @@
       "onboard_time": 1681442908,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188366,
+      "num": 188366,
+      "word": "天津德云社",
+      "onboard_time": 1682649388,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 188364,
@@ -45953,6 +45977,14 @@
       "onboard_time": 1681295066,
       "rank": 34,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 183670,
+      "num": 183670,
+      "word": "中专生逆袭成博士帮助130名孩子",
+      "onboard_time": 1682646988,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 183666,
@@ -47625,6 +47657,14 @@
       "onboard_time": 1682580266,
       "rank": 43,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 175508,
+      "num": 175508,
+      "word": "澹台烬假装入魔",
+      "onboard_time": 1682646929,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 175492,
@@ -49843,14 +49883,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164355,
-      "num": 164355,
-      "word": "中专生逆袭成博士帮助130名孩子",
-      "onboard_time": 1682646988,
-      "rank": 33,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 164342,
       "num": 164342,
       "word": "承受不住压力离职是种失败吗",
@@ -51907,6 +51939,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 154490,
+      "num": 154490,
+      "word": "中国公民视频记录坐军舰撤离苏丹过程",
+      "onboard_time": 1682645667,
+      "rank": 35,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 154454,
       "num": 154454,
       "word": "借命而生编辑感谢肖战",
@@ -52233,14 +52273,6 @@
       "onboard_time": 1682058628,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152789,
-      "num": 152789,
-      "word": "中国公民视频记录坐军舰撤离苏丹过程",
-      "onboard_time": 1682645667,
-      "rank": 35,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 152724,
@@ -52721,14 +52753,6 @@
       "onboard_time": 1680413368,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 150521,
-      "num": 150521,
-      "word": "澹台烬假装入魔",
-      "onboard_time": 1682646929,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 150513,
@@ -53931,14 +53955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145195,
-      "num": 145195,
-      "word": "billkin上海",
-      "onboard_time": 1682648906,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145158,
       "num": 145158,
       "word": "樱木花道是什么百搭cp体质",
@@ -54561,6 +54577,14 @@
       "onboard_time": 1681110207,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141869,
+      "num": 141869,
+      "word": "人生路不熟",
+      "onboard_time": 1682649747,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 141821,
@@ -55281,6 +55305,14 @@
       "onboard_time": 1682525963,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138495,
+      "num": 138495,
+      "word": "罗云熙宋轶CP名金戈铁马",
+      "onboard_time": 1682649506,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 138341,
@@ -58985,6 +59017,14 @@
       "onboard_time": 1681969227,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114558,
+      "num": 114558,
+      "word": "大陆没电影吗",
+      "onboard_time": 1682649686,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 114513,
