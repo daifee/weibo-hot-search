@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682652819436,
+  "endTime": 1682655656369,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2027,6 +2027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2057361,
+      "num": 2057361,
+      "word": "杰克辣条 虐猫",
+      "onboard_time": 1682652149,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2054850,
       "num": 2054850,
       "word": "胖东来创始人称加班不道德",
@@ -3380,7 +3388,7 @@
     },
     {
       "raw_hot": 1587127,
-      "num": 530814,
+      "num": 543398,
       "word": "肖战喝酒了",
       "onboard_time": 1682640867,
       "rank": 10,
@@ -3593,6 +3601,14 @@
       "onboard_time": 1680836186,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1552819,
+      "num": 544689,
+      "word": "青春没有售价 薛之谦无座直达南京",
+      "onboard_time": 1682652149,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 1551740,
@@ -5371,6 +5387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1167021,
+      "num": 1167021,
+      "word": "谷爱凌Angelababy合影",
+      "onboard_time": 1682649866,
+      "rank": 12,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1162326,
       "num": 385227,
       "word": "普宁",
@@ -5681,14 +5705,6 @@
       "onboard_time": 1681226009,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1115016,
-      "num": 1115016,
-      "word": "杰克辣条 虐猫",
-      "onboard_time": 1682652149,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1114853,
@@ -8059,14 +8075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 853547,
-      "num": 853547,
-      "word": "谷爱凌Angelababy合影",
-      "onboard_time": 1682649866,
-      "rank": 12,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 853174,
       "num": 853174,
       "word": "瑞丽通知泼水节可连休4天",
@@ -10409,6 +10417,14 @@
       "onboard_time": 1681204349,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 694464,
+      "num": 209443,
+      "word": "周六野 有毒的舒适圈不是那个前任",
+      "onboard_time": 1682654965,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 694164,
@@ -13315,14 +13331,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 572925,
-      "num": 520377,
-      "word": "青春没有售价 薛之谦无座直达南京",
-      "onboard_time": 1682652149,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 572554,
       "num": 572554,
       "word": "三个女生组建小家庭会怎样",
@@ -14003,6 +14011,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 546079,
+      "num": 546079,
+      "word": "虹桥火车站",
+      "onboard_time": 1682650948,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 546078,
       "num": 546078,
       "word": "陈晓说我要是双星我就翻脸了",
@@ -14121,6 +14137,14 @@
       "onboard_time": 1681797751,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 541850,
+      "num": 541850,
+      "word": "李佳航晒与韦正12年前私信记录",
+      "onboard_time": 1682654010,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 540982,
@@ -17153,14 +17177,6 @@
       "onboard_time": 1680578546,
       "rank": 18,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 462703,
-      "num": 462703,
-      "word": "虹桥火车站",
-      "onboard_time": 1682650948,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462677,
@@ -22195,6 +22211,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 370068,
+      "num": 370068,
+      "word": "丫丫回家好像笑了",
+      "onboard_time": 1682653529,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369858,
       "num": 317743,
       "word": "摸小奶猫被猫妈妈婉拒了",
@@ -25883,6 +25907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315292,
+      "num": 315292,
+      "word": "今天有六部电影上映",
+      "onboard_time": 1682650347,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 315169,
       "num": 315169,
       "word": "还没答辩的有福了",
@@ -26723,6 +26755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303619,
+      "num": 303619,
+      "word": "乘风2023定档官宣",
+      "onboard_time": 1682654908,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 303450,
       "num": 303450,
       "word": "未定事件簿",
@@ -26753,6 +26793,14 @@
       "onboard_time": 1680877892,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 303062,
+      "num": 303062,
+      "word": "胖虎带易烊千玺溜达视频",
+      "onboard_time": 1682654908,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 302959,
@@ -27235,14 +27283,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 296115,
-      "num": 296115,
-      "word": "今天有六部电影上映",
-      "onboard_time": 1682650347,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 296100,
       "num": 296100,
       "word": "宋亚轩叫张真源呼安爸爸",
@@ -27673,6 +27713,14 @@
       "onboard_time": 1682589026,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291183,
+      "num": 291183,
+      "word": "五一 疯狂",
+      "onboard_time": 1682654308,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 291092,
@@ -31305,6 +31353,14 @@
       "onboard_time": 1682412388,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 253736,
+      "num": 253736,
+      "word": "乘风",
+      "onboard_time": 1682655450,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 253735,
@@ -35115,6 +35171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223706,
+      "num": 223706,
+      "word": "大学生眼里的长沙夜生活",
+      "onboard_time": 1682655391,
+      "rank": 26,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 223442,
       "num": 223442,
       "word": "10省区将出现大到暴雨",
@@ -38625,6 +38689,14 @@
       "onboard_time": 1680686130,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205354,
+      "num": 205354,
+      "word": "入职不到一年成为部门顶梁柱",
+      "onboard_time": 1682654791,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205349,
@@ -42601,6 +42673,14 @@
       "onboard_time": 1681309535,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195013,
+      "num": 195013,
+      "word": "偷猫拍虐猫视频网红道歉",
+      "onboard_time": 1682654249,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195011,
@@ -48411,6 +48491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171987,
+      "num": 171987,
+      "word": "小鬼 门票",
+      "onboard_time": 1682655569,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171969,
       "num": 171969,
       "word": "鹿晗分享五哈主题曲",
@@ -49473,6 +49561,14 @@
       "onboard_time": 1681793617,
       "rank": 42,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 167052,
+      "num": 167052,
+      "word": "毕业班同学为临产老师偷偷策划的惊喜",
+      "onboard_time": 1682651790,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 167005,
@@ -54417,14 +54513,6 @@
       "onboard_time": 1681427542,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143313,
-      "num": 143313,
-      "word": "毕业班同学为临产老师偷偷策划的惊喜",
-      "onboard_time": 1682651790,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 143241,
@@ -61155,6 +61243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97440,
+      "num": 149878,
+      "word": "五一去玩的人在路上了吗",
+      "onboard_time": 1682654611,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97431,
       "num": 97431,
       "word": "蔡徐坤说今年重点是巡演",
@@ -63171,6 +63267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61266,
+      "num": 1359988,
+      "word": "裸眼3D看中国空间站",
+      "onboard_time": 1682652209,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61025,
       "num": 1876499,
       "word": "人民海军74周岁",
@@ -63889,14 +63993,6 @@
       "onboard_time": 1681642827,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 37100,
-      "num": 1141719,
-      "word": "裸眼3D看中国空间站",
-      "onboard_time": 1682652209,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36994,
