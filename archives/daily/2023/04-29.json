@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682698862601,
+  "endTime": 1682699841706,
   "band_list": [
     {
       "raw_hot": 1238255,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1012864,
-      "num": 1012864,
+      "raw_hot": 1019537,
+      "num": 1019537,
       "word": "微信回复领导两年前的消息",
       "onboard_time": 1682694271,
       "rank": 3,
@@ -75,12 +75,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 468800,
-      "num": 468800,
+      "raw_hot": 485520,
+      "num": 485520,
       "word": "上岸后室友就不和我说话了",
       "onboard_time": 1682689353,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 448776,
+      "num": 448776,
+      "word": "结婚以后的好处",
+      "onboard_time": 1682696490,
+      "rank": 13,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 398511,
@@ -99,12 +107,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 373244,
-      "num": 373244,
-      "word": "结婚以后的好处",
-      "onboard_time": 1682696490,
-      "rank": 13,
-      "category": "情感,幽默"
+      "raw_hot": 370860,
+      "num": 370860,
+      "word": "全资进组的演职员表",
+      "onboard_time": 1682697810,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 364304,
@@ -115,20 +123,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 363611,
+      "num": 209227,
+      "word": "谢娜说你宁愿相信一张纸都不相信我",
+      "onboard_time": 1682695055,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362556,
       "num": 362556,
       "word": "林彦俊是颜人中演唱会嘉宾",
       "onboard_time": 1682694033,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 356587,
-      "num": 209227,
-      "word": "谢娜说你宁愿相信一张纸都不相信我",
-      "onboard_time": 1682695055,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 331288,
@@ -145,14 +153,6 @@
       "onboard_time": 1682679090,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 265376,
-      "num": 265376,
-      "word": "全资进组的演职员表",
-      "onboard_time": 1682697810,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 251411,
@@ -187,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226976,
+      "num": 226976,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 222232,
+      "num": 200481,
+      "word": "原来何炅都老花了",
+      "onboard_time": 1682688812,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217746,
       "num": 217746,
       "word": "丫丫的眼睛亮晶晶",
@@ -203,20 +219,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200323,
-      "num": 200323,
-      "word": "淄博烧烤最后如何收场",
-      "onboard_time": 1682675791,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 198958,
       "num": 198958,
       "word": "你会怀念2018年的夏天吗",
       "onboard_time": 1682694813,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187427,
+      "num": 187427,
+      "word": "朱令近况",
+      "onboard_time": 1682696431,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187131,
+      "num": 187131,
+      "word": "花花为何会成为顶流",
+      "onboard_time": 1682698468,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185231,
@@ -227,14 +251,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 180317,
-      "num": 180317,
-      "word": "朱令近况",
-      "onboard_time": 1682696431,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179738,
       "num": 179738,
       "word": "杀我别用小熊猫刀",
@@ -243,12 +259,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 161195,
-      "num": 153219,
-      "word": "原来何炅都老花了",
-      "onboard_time": 1682688812,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 163410,
+      "num": 152760,
+      "word": "浪漫医生金师傅",
+      "onboard_time": 1682694393,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 158659,
@@ -264,14 +280,6 @@
       "word": "王一博红毯生图",
       "onboard_time": 1682686051,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 143113,
-      "num": 143113,
-      "word": "浪漫医生金师傅",
-      "onboard_time": 1682694393,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -307,12 +315,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100369,
-      "num": 143207,
-      "word": "花花为何会成为顶流",
-      "onboard_time": 1682698468,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 103022,
+      "num": 141085,
+      "word": "金智媛好美",
+      "onboard_time": 1682676448,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 97061,
@@ -331,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93214,
-      "num": 141085,
-      "word": "金智媛好美",
-      "onboard_time": 1682676448,
-      "rank": 43,
-      "category": "影视"
+      "raw_hot": 93055,
+      "num": 140856,
+      "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
+      "onboard_time": 1682698768,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89481,
@@ -371,20 +379,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54844,
-      "num": 140856,
-      "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
-      "onboard_time": 1682698768,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54195,
       "num": 140808,
       "word": "一个人要有一个班上",
       "onboard_time": 1682698824,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 52827,
+      "num": 116280,
+      "word": "这个开门姿势也太妖娆了",
+      "onboard_time": 1682698290,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 51645,
@@ -395,12 +403,36 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 44472,
+      "num": 116268,
+      "word": "深圳地铁",
+      "onboard_time": 1682699546,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39816,
       "num": 1064516,
       "word": "传统村落集中连片保护利用示范名单",
       "onboard_time": 1682690732,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39379,
+      "num": 116261,
+      "word": "日常节前迷信",
+      "onboard_time": 1682697989,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 39209,
+      "num": 116244,
+      "word": "我的两个极端",
+      "onboard_time": 1682699725,
+      "rank": 49,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682698862601,
+  "endTime": 1682699841706,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1323,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1019537,
+      "num": 1019537,
+      "word": "微信回复领导两年前的消息",
+      "onboard_time": 1682694271,
+      "rank": 30,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 1017738,
       "num": 1017738,
       "word": "梅姨在广州落网消息不实",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1682447893,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1012864,
-      "num": 1012864,
-      "word": "微信回复领导两年前的消息",
-      "onboard_time": 1682694271,
-      "rank": 30,
-      "category": "幽默,科技"
     },
     {
       "raw_hot": 1004750,
@@ -3139,6 +3139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 448776,
+      "num": 448776,
+      "word": "结婚以后的好处",
+      "onboard_time": 1682696490,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 446856,
       "num": 446856,
       "word": "斗破苍穹 美杜莎",
@@ -3979,14 +3987,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 373244,
-      "num": 373244,
-      "word": "结婚以后的好处",
-      "onboard_time": 1682696490,
-      "rank": 13,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 372427,
       "num": 372427,
       "word": "龙城大妈去世",
@@ -4001,6 +4001,14 @@
       "onboard_time": 1682561485,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370860,
+      "num": 370860,
+      "word": "全资进组的演职员表",
+      "onboard_time": 1682697810,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 368959,
@@ -4057,6 +4065,14 @@
       "onboard_time": 1682578407,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363611,
+      "num": 254823,
+      "word": "谢娜说你宁愿相信一张纸都不相信我",
+      "onboard_time": 1682695055,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 362498,
@@ -4145,14 +4161,6 @@
       "onboard_time": 1682387605,
       "rank": 17,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 356587,
-      "num": 254823,
-      "word": "谢娜说你宁愿相信一张纸都不相信我",
-      "onboard_time": 1682695055,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 356044,
@@ -5632,14 +5640,6 @@
       "word": "罗云熙白鹿握手安慰彼此",
       "onboard_time": 1682328809,
       "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 265376,
-      "num": 265376,
-      "word": "全资进组的演职员表",
-      "onboard_time": 1682697810,
-      "rank": 17,
       "category": "影视"
     },
     {
@@ -8171,6 +8171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187427,
+      "num": 187427,
+      "word": "朱令近况",
+      "onboard_time": 1682696431,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187395,
       "num": 187395,
       "word": "恋与制作人",
@@ -8200,6 +8208,14 @@
       "word": "高铁是否需要设置亲子车厢",
       "onboard_time": 1682413527,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187131,
+      "num": 187131,
+      "word": "花花为何会成为顶流",
+      "onboard_time": 1682698468,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -8560,14 +8576,6 @@
       "word": "如何用手机检查针孔摄像头",
       "onboard_time": 1682575646,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180317,
-      "num": 180317,
-      "word": "朱令近况",
-      "onboard_time": 1682696431,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -11243,14 +11251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100369,
-      "num": 143207,
-      "word": "花花为何会成为顶流",
-      "onboard_time": 1682698468,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98499,
       "num": 101880,
       "word": "乐乐到家了",
@@ -11345,6 +11345,14 @@
       "onboard_time": 1682428829,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 93055,
+      "num": 140856,
+      "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
+      "onboard_time": 1682698768,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93035,
@@ -11755,14 +11763,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 54844,
-      "num": 140856,
-      "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
-      "onboard_time": 1682698768,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54678,
       "num": 54678,
       "word": "陈钰琪说余春羊给小号换了个皮肤",
@@ -11795,12 +11795,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 52827,
+      "num": 116280,
+      "word": "这个开门姿势也太妖娆了",
+      "onboard_time": 1682698290,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46519,
       "num": 399993,
       "word": "女星红毯妆容大招",
       "onboard_time": 1682514028,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 44472,
+      "num": 116268,
+      "word": "深圳地铁",
+      "onboard_time": 1682699546,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44177,
@@ -11849,6 +11865,22 @@
       "onboard_time": 1682512106,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39379,
+      "num": 116261,
+      "word": "日常节前迷信",
+      "onboard_time": 1682697989,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 39209,
+      "num": 116244,
+      "word": "我的两个极端",
+      "onboard_time": 1682699725,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 35476,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1682699841706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1102257,
+        "num": 1102257,
+        "word": "向往的生活最后一季",
+        "onboard_time": 1682692593,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1019537,
+        "num": 1019537,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 1,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 34103,
+        "num": 1016582,
+        "word": "传统村落集中连片保护利用示范名单",
+        "onboard_time": 1682690732,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016286,
+        "num": 1016286,
+        "word": "南京南站",
+        "onboard_time": 1682684551,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679728,
+        "num": 679728,
+        "word": "小丫去世",
+        "onboard_time": 1682677109,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612865,
+        "num": 612865,
+        "word": "著名相声演员李建华去世",
+        "onboard_time": 1682693555,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485520,
+        "num": 485520,
+        "word": "上岸后室友就不和我说话了",
+        "onboard_time": 1682689353,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449664,
+        "num": 449664,
+        "word": "汤唯再获百想影后",
+        "onboard_time": 1682680049,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 448776,
+        "num": 448776,
+        "word": "结婚以后的好处",
+        "onboard_time": 1682696490,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 398178,
+        "num": 398178,
+        "word": "薛之谦南京演唱会",
+        "onboard_time": 1682685149,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 843426,
+        "num": 393543,
+        "word": "韩素希手动给宋慧乔P爱心",
+        "onboard_time": 1682697209,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 641421,
+        "num": 383228,
+        "word": "北京已严重拥堵",
+        "onboard_time": 1682681249,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370860,
+        "num": 370860,
+        "word": "全资进组的演职员表",
+        "onboard_time": 1682697810,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355668,
+        "num": 355668,
+        "word": "陈都灵看不下去了",
+        "onboard_time": 1682677589,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320130,
+        "num": 320130,
+        "word": "奥斯卡获奖导演希望和易烊千玺合作",
+        "onboard_time": 1682697868,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 317846,
+        "num": 317846,
+        "word": "林彦俊是颜人中演唱会嘉宾",
+        "onboard_time": 1682694033,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 287560,
+        "num": 287560,
+        "word": "千万粉丝宅男女神被大叔男友骗1个亿",
+        "onboard_time": 1682695172,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272155,
+        "num": 272155,
+        "word": "突然明白了发朋友圈的意义",
+        "onboard_time": 1682679090,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226976,
+        "num": 226976,
+        "word": "淄博烧烤最后如何收场",
+        "onboard_time": 1682675791,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205380,
+        "num": 205380,
+        "word": "淄博万人烧烤城",
+        "onboard_time": 1682685689,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363611,
+        "num": 202143,
+        "word": "谢娜说你宁愿相信一张纸都不相信我",
+        "onboard_time": 1682695055,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222232,
+        "num": 200481,
+        "word": "原来何炅都老花了",
+        "onboard_time": 1682688812,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196061,
+        "num": 196061,
+        "word": "你会怀念2018年的夏天吗",
+        "onboard_time": 1682694813,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189723,
+        "num": 189723,
+        "word": "丫丫的眼睛亮晶晶",
+        "onboard_time": 1682674228,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187427,
+        "num": 187427,
+        "word": "朱令近况",
+        "onboard_time": 1682696431,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210677,
+        "num": 187381,
+        "word": "沈腾 最近一切都挺好哈",
+        "onboard_time": 1682688392,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210229,
+        "num": 187296,
+        "word": "权志龙朴灿烈同框合照",
+        "onboard_time": 1682694993,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187131,
+        "num": 187131,
+        "word": "花花为何会成为顶流",
+        "onboard_time": 1682698468,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182288,
+        "num": 182288,
+        "word": "向往的生活",
+        "onboard_time": 1682675189,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155256,
+        "num": 155256,
+        "word": "Rookie",
+        "onboard_time": 1682681550,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163410,
+        "num": 152760,
+        "word": "浪漫医生金师傅",
+        "onboard_time": 1682694393,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160441,
+        "num": 151616,
+        "word": "赵丽颖的小揪揪",
+        "onboard_time": 1682690973,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141946,
+        "num": 141946,
+        "word": "张嘉倪的锁骨",
+        "onboard_time": 1682693255,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 137812,
+        "num": 137812,
+        "word": "杀我别用小熊猫刀",
+        "onboard_time": 1682689955,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121005,
+        "num": 121005,
+        "word": "北京地铁2号线7号线上行今夜不停运",
+        "onboard_time": 1682689712,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133998,
+        "num": 120308,
+        "word": "王一博红毯生图",
+        "onboard_time": 1682686051,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118429,
+        "num": 118429,
+        "word": "长空之王",
+        "onboard_time": 1682676029,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116361,
+        "num": 116361,
+        "word": "肖战上海vlog",
+        "onboard_time": 1682692772,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93055,
+        "num": 116353,
+        "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
+        "onboard_time": 1682698768,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83146,
+        "num": 116347,
+        "word": "郭艾伦受伤",
+        "onboard_time": 1682688873,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103022,
+        "num": 116334,
+        "word": "金智媛好美",
+        "onboard_time": 1682676448,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87191,
+        "num": 116326,
+        "word": "欢瑞官网艺人列表没有袁冰妍",
+        "onboard_time": 1682677707,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85909,
+        "num": 116315,
+        "word": "张信哲演唱会",
+        "onboard_time": 1682698768,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 79544,
+        "num": 116312,
+        "word": "袁励岑",
+        "onboard_time": 1682698228,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83738,
+        "num": 116293,
+        "word": "赞多ins晒与鹿晗合照",
+        "onboard_time": 1682692172,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60836,
+        "num": 116283,
+        "word": "WB晋级胜者组决赛",
+        "onboard_time": 1682695172,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 52827,
+        "num": 116280,
+        "word": "这个开门姿势也太妖娆了",
+        "onboard_time": 1682698290,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44472,
+        "num": 116268,
+        "word": "深圳地铁",
+        "onboard_time": 1682699546,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39379,
+        "num": 116261,
+        "word": "日常节前迷信",
+        "onboard_time": 1682697989,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 39209,
+        "num": 116244,
+        "word": "我的两个极端",
+        "onboard_time": 1682699725,
+        "rank": 49,
+        "category": "幽默,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#始终不渝坚持党的领导#"
+    }
+  }
+}
