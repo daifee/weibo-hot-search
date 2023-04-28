@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682709241348,
+  "endTime": 1682710415281,
   "band_list": [
     {
       "raw_hot": 1238255,
@@ -467,6 +467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40097,
+      "num": 40097,
+      "word": "张大大说白鹿赢了比赛输了朋友",
+      "onboard_time": 1682708893,
+      "rank": 42,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 39995,
+      "num": 39995,
+      "word": "深圳地铁一男子拽头发殴打女乘客",
+      "onboard_time": 1682707035,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39816,
       "num": 1064516,
       "word": "传统村落集中连片保护利用示范名单",
@@ -483,16 +499,8 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 37119,
-      "num": 37119,
-      "word": "深圳地铁一男子拽头发殴打女乘客",
-      "onboard_time": 1682707035,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31323,
-      "num": 31323,
+      "raw_hot": 38591,
+      "num": 38591,
       "word": "代号鸢",
       "onboard_time": 1682707934,
       "rank": 36,
@@ -505,14 +513,6 @@
       "onboard_time": 1682693912,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 25956,
-      "num": 29797,
-      "word": "张大大说白鹿赢了比赛输了朋友",
-      "onboard_time": 1682708893,
-      "rank": 42,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 22012,
