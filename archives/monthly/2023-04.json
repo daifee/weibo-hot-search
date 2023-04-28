@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682670071157,
+  "endTime": 1682670853092,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -4435,6 +4435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1368433,
+      "num": 1271611,
+      "word": "沈腾 生病",
+      "onboard_time": 1682668166,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1368182,
       "num": 417015,
       "word": "小鹏发冰淇淋",
@@ -5433,14 +5441,6 @@
       "onboard_time": 1682664567,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1163065,
-      "num": 1163065,
-      "word": "沈腾 生病",
-      "onboard_time": 1682668166,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1162326,
@@ -6561,6 +6561,14 @@
       "onboard_time": 1682338709,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 998488,
+      "num": 998488,
+      "word": "江歌妈妈看望章莹颖父母",
+      "onboard_time": 1682669128,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 998153,
@@ -9179,6 +9187,14 @@
       "category": "体育,影视"
     },
     {
+      "raw_hot": 772297,
+      "num": 772297,
+      "word": "杨颖跳了flower",
+      "onboard_time": 1682665945,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 772161,
       "num": 772161,
       "word": "工作人员回应宝马mini被指区别对待",
@@ -9257,14 +9273,6 @@
       "onboard_time": 1682382509,
       "rank": 7,
       "category": "教育,社会议题"
-    },
-    {
-      "raw_hot": 768057,
-      "num": 768057,
-      "word": "杨颖跳了flower",
-      "onboard_time": 1682665945,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 767837,
@@ -10945,6 +10953,14 @@
       "onboard_time": 1682131347,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 673366,
+      "num": 673366,
+      "word": "为什么今年五一如此疯狂",
+      "onboard_time": 1682666187,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 672319,
@@ -13633,14 +13649,6 @@
       "onboard_time": 1682035407,
       "rank": 8,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 564202,
-      "num": 564202,
-      "word": "为什么今年五一如此疯狂",
-      "onboard_time": 1682666187,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 564183,
@@ -19291,6 +19299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 421941,
+      "num": 421941,
+      "word": "百想红毯",
+      "onboard_time": 1682669667,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 421644,
       "num": 291154,
       "word": "flower",
@@ -19745,14 +19761,6 @@
       "onboard_time": 1680354207,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415810,
-      "num": 415810,
-      "word": "江歌妈妈看望章莹颖父母",
-      "onboard_time": 1682669128,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415766,
@@ -20571,6 +20579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402218,
+      "num": 348826,
+      "word": "对方撤回了一个宝宝",
+      "onboard_time": 1682668886,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 402204,
       "num": 358241,
       "word": "小米回应被乌列入俄国际赞助商名单",
@@ -20633,6 +20649,14 @@
       "onboard_time": 1681126348,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400625,
+      "num": 400625,
+      "word": "谁给易烊千玺化的妆",
+      "onboard_time": 1682670506,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 400512,
@@ -21739,6 +21763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 384124,
+      "num": 384124,
+      "word": "杭州高铁站",
+      "onboard_time": 1682669427,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384034,
       "num": 384034,
       "word": "易烊千玺双蜡像同台释出",
@@ -21937,6 +21969,14 @@
       "onboard_time": 1681642226,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 379456,
+      "num": 348634,
+      "word": "北京冰雹",
+      "onboard_time": 1682669246,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379229,
@@ -22409,14 +22449,6 @@
       "onboard_time": 1680494496,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370274,
-      "num": 304759,
-      "word": "对方撤回了一个宝宝",
-      "onboard_time": 1682668886,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 370206,
@@ -24553,6 +24585,14 @@
       "onboard_time": 1680936327,
       "rank": 15,
       "category": "音乐,社会新闻"
+    },
+    {
+      "raw_hot": 336507,
+      "num": 336507,
+      "word": "丫丫吃的竹子来自湖州安吉",
+      "onboard_time": 1682668648,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336144,
@@ -27387,14 +27427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 298762,
-      "num": 227153,
-      "word": "丫丫吃的竹子来自湖州安吉",
-      "onboard_time": 1682668648,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298588,
       "num": 298588,
       "word": "柳智敏粉发",
@@ -29747,6 +29779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 271805,
+      "num": 271805,
+      "word": "杰克辣条B站账号被贴上违法标签",
+      "onboard_time": 1682662527,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271773,
       "num": 221911,
       "word": "LadyGaga 白宫",
@@ -31097,14 +31137,6 @@
       "onboard_time": 1680568711,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 258575,
-      "num": 258575,
-      "word": "杰克辣条B站账号被贴上违法标签",
-      "onboard_time": 1682662527,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258320,
@@ -36451,14 +36483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 217578,
-      "num": 217578,
-      "word": "北京冰雹",
-      "onboard_time": 1682669246,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217544,
       "num": 217544,
       "word": "减肥失败后以为自己是甲减",
@@ -41691,6 +41715,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 198779,
+      "num": 198779,
+      "word": "豫章书院案重审宣判",
+      "onboard_time": 1682669850,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198741,
       "num": 193573,
       "word": "孟子义你好星期六剧照",
@@ -43841,14 +43873,6 @@
       "onboard_time": 1680797243,
       "rank": 23,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 192803,
-      "num": 192803,
-      "word": "百想红毯",
-      "onboard_time": 1682669667,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 192787,
@@ -47403,14 +47427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180538,
-      "num": 180538,
-      "word": "杭州高铁站",
-      "onboard_time": 1682669427,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180533,
       "num": 180533,
       "word": "原著里的冥夜桑酒",
@@ -48409,14 +48425,6 @@
       "onboard_time": 1681396593,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175157,
-      "num": 175157,
-      "word": "豫章书院案重审宣判",
-      "onboard_time": 1682669850,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175113,
