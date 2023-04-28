@@ -1,0 +1,410 @@
+{
+  "runTime": 1682695049935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2663600,
+        "num": 2663600,
+        "word": "南京南站",
+        "onboard_time": 1682684551,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1133158,
+        "num": 1133158,
+        "word": "向往的生活最后一季",
+        "onboard_time": 1682692593,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59152,
+        "num": 1099392,
+        "word": "传统村落集中连片保护利用示范名单",
+        "onboard_time": 1682690732,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1311089,
+        "num": 1090261,
+        "word": "小丫去世",
+        "onboard_time": 1682677109,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070850,
+        "num": 1070850,
+        "word": "宋慧乔 妍珍呐我得奖了",
+        "onboard_time": 1682684610,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 930028,
+        "num": 930028,
+        "word": "沈腾 最近一切都挺好哈",
+        "onboard_time": 1682688392,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 896176,
+        "num": 896176,
+        "word": "汤唯再获百想影后",
+        "onboard_time": 1682680049,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 685168,
+        "num": 685168,
+        "word": "上岸后室友就不和我说话了",
+        "onboard_time": 1682689353,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 668365,
+        "num": 668365,
+        "word": "这么多年",
+        "onboard_time": 1682693613,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 517524,
+        "num": 517524,
+        "word": "丫丫的眼睛亮晶晶",
+        "onboard_time": 1682674228,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054930,
+        "num": 493839,
+        "word": "北京已严重拥堵",
+        "onboard_time": 1682681249,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637854,
+        "num": 461153,
+        "word": "薛之谦南京演唱会",
+        "onboard_time": 1682685149,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 631298,
+        "num": 419130,
+        "word": "著名相声演员李建华去世",
+        "onboard_time": 1682693555,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569845,
+        "num": 412162,
+        "word": "陈都灵看不下去了",
+        "onboard_time": 1682677589,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384850,
+        "num": 384850,
+        "word": "突然明白了发朋友圈的意义",
+        "onboard_time": 1682679090,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423753,
+        "num": 384029,
+        "word": "谁给易烊千玺化的妆",
+        "onboard_time": 1682670506,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 423096,
+        "num": 382251,
+        "word": "向往的生活",
+        "onboard_time": 1682675189,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378385,
+        "num": 378385,
+        "word": "丫丫回家后吃饭吃得好香",
+        "onboard_time": 1682608409,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345425,
+        "num": 345425,
+        "word": "上海地铁回应孕妇要男子让座",
+        "onboard_time": 1682692533,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342627,
+        "num": 342627,
+        "word": "淄博万人烧烤城",
+        "onboard_time": 1682685689,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581747,
+        "num": 338029,
+        "word": "林彦俊是颜人中演唱会嘉宾",
+        "onboard_time": 1682694033,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 410142,
+        "num": 335089,
+        "word": "赵丽颖的小揪揪",
+        "onboard_time": 1682690973,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306152,
+        "num": 306152,
+        "word": "WB巅峰对决DRG",
+        "onboard_time": 1682693912,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296802,
+        "num": 296802,
+        "word": "淄博烧烤最后如何收场",
+        "onboard_time": 1682675791,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 292018,
+        "num": 292018,
+        "word": "给淄博烧烤泼一盆冷水",
+        "onboard_time": 1682636722,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325034,
+        "num": 289139,
+        "word": "张嘉倪的锁骨",
+        "onboard_time": 1682693255,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 307814,
+        "num": 287614,
+        "word": "原来何炅都老花了",
+        "onboard_time": 1682688812,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 284622,
+        "num": 284622,
+        "word": "12306众生平等",
+        "onboard_time": 1682656352,
+        "rank": 27,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 281470,
+        "num": 281470,
+        "word": "杀我别用小熊猫刀",
+        "onboard_time": 1682689955,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277802,
+        "num": 277802,
+        "word": "孙俪曾被质疑甲亢去医院检查",
+        "onboard_time": 1682673868,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345823,
+        "num": 277527,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 30,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 267559,
+        "num": 267559,
+        "word": "肖战上海vlog",
+        "onboard_time": 1682692772,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265751,
+        "num": 265751,
+        "word": "北京地铁2号线7号线上行今夜不停运",
+        "onboard_time": 1682689712,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237295,
+        "num": 237295,
+        "word": "Ella C位",
+        "onboard_time": 1682672910,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228300,
+        "num": 228300,
+        "word": "王一博红毯生图",
+        "onboard_time": 1682686051,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223898,
+        "num": 223898,
+        "word": "杰克辣条 虐猫",
+        "onboard_time": 1682652149,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222800,
+        "num": 222800,
+        "word": "江歌妈妈看望章莹颖父母",
+        "onboard_time": 1682669128,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215910,
+        "num": 215910,
+        "word": "浪漫医生金师傅",
+        "onboard_time": 1682694393,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 214337,
+        "num": 214337,
+        "word": "长空之王",
+        "onboard_time": 1682676029,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194485,
+        "num": 194485,
+        "word": "Rookie",
+        "onboard_time": 1682681550,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193136,
+        "num": 193136,
+        "word": "赞多ins晒与鹿晗合照",
+        "onboard_time": 1682692172,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192315,
+        "num": 192315,
+        "word": "郭艾伦受伤",
+        "onboard_time": 1682688873,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192187,
+        "num": 192187,
+        "word": "杨颖跳了flower",
+        "onboard_time": 1682665945,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185637,
+        "num": 185637,
+        "word": "秋瓷炫撩肩",
+        "onboard_time": 1682690193,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170368,
+        "num": 170368,
+        "word": "对方撤回了一个宝宝",
+        "onboard_time": 1682668886,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161608,
+        "num": 161608,
+        "word": "权志龙朴灿烈同框合照",
+        "onboard_time": 1682694993,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156170,
+        "num": 156170,
+        "word": "你会怀念2018年的夏天吗",
+        "onboard_time": 1682694813,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141251,
+        "num": 141251,
+        "word": "李亚鹏称为自己的错误买单",
+        "onboard_time": 1682664567,
+        "rank": 47,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 127868,
+        "num": 141006,
+        "word": "大学生老脸要挂不住了",
+        "onboard_time": 1682694574,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126691,
+        "num": 140450,
+        "word": "五一 春运",
+        "onboard_time": 1682686713,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#始终不渝坚持党的领导#"
+    }
+  }
+}

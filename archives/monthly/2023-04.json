@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682692401641,
+  "endTime": 1682695049935,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1025,6 +1025,14 @@
       "onboard_time": 1680680070,
       "rank": 1,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 2663600,
+      "num": 2663600,
+      "word": "南京南站",
+      "onboard_time": 1682684551,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2659473,
@@ -5715,6 +5723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1133158,
+      "num": 1133158,
+      "word": "向往的生活最后一季",
+      "onboard_time": 1682692593,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1131246,
       "num": 1131246,
       "word": "重庆姐弟坠亡案二审择期宣判",
@@ -6497,14 +6513,6 @@
       "onboard_time": 1681882348,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1015940,
-      "num": 1015940,
-      "word": "南京南站",
-      "onboard_time": 1682684551,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1015818,
@@ -11187,6 +11195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 668365,
+      "num": 668365,
+      "word": "这么多年",
+      "onboard_time": 1682693613,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 668117,
       "num": 668117,
       "word": "被闹钟惊醒对身体危害大",
@@ -12049,6 +12065,14 @@
       "onboard_time": 1681293327,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 631298,
+      "num": 419130,
+      "word": "著名相声演员李建华去世",
+      "onboard_time": 1682693555,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 630689,
@@ -13345,6 +13369,14 @@
       "onboard_time": 1681225647,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 581747,
+      "num": 338029,
+      "word": "林彦俊是颜人中演唱会嘉宾",
+      "onboard_time": 1682694033,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 581672,
@@ -19476,7 +19508,7 @@
     },
     {
       "raw_hot": 422942,
-      "num": 279722,
+      "num": 335089,
       "word": "赵丽颖的小揪揪",
       "onboard_time": 1682690973,
       "rank": 44,
@@ -21979,6 +22011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 384850,
+      "num": 384850,
+      "word": "突然明白了发朋友圈的意义",
+      "onboard_time": 1682679090,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 384708,
       "num": 384708,
       "word": "官方介入调查女子被泼水撕雨衣",
@@ -24307,6 +24347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 345823,
+      "num": 277527,
+      "word": "微信回复领导两年前的消息",
+      "onboard_time": 1682694271,
+      "rank": 30,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 345732,
       "num": 345732,
       "word": "BLG战胜OMG",
@@ -24329,6 +24377,14 @@
       "onboard_time": 1681873466,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345425,
+      "num": 345425,
+      "word": "上海地铁回应孕妇要男子让座",
+      "onboard_time": 1682692533,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345281,
@@ -25705,6 +25761,14 @@
       "onboard_time": 1680867329,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 325034,
+      "num": 289139,
+      "word": "张嘉倪的锁骨",
+      "onboard_time": 1682693255,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 324980,
@@ -27169,6 +27233,14 @@
       "onboard_time": 1681260566,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306152,
+      "num": 306152,
+      "word": "WB巅峰对决DRG",
+      "onboard_time": 1682693912,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 306143,
@@ -29323,6 +29395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281470,
+      "num": 281470,
+      "word": "杀我别用小熊猫刀",
+      "onboard_time": 1682689955,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281419,
       "num": 281419,
       "word": "柳俊烈百想影帝",
@@ -30587,6 +30667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 267559,
+      "num": 267559,
+      "word": "肖战上海vlog",
+      "onboard_time": 1682692772,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267527,
       "num": 261847,
       "word": "肖战最新怼脸状态",
@@ -31339,14 +31427,6 @@
       "category": "科技,财经"
     },
     {
-      "raw_hot": 259933,
-      "num": 259933,
-      "word": "突然明白了发朋友圈的意义",
-      "onboard_time": 1682679090,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 259911,
       "num": 259911,
       "word": "尔冬升邀请张大大参加金像奖",
@@ -31865,14 +31945,6 @@
       "onboard_time": 1682231609,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 255195,
-      "num": 235254,
-      "word": "杀我别用小熊猫刀",
-      "onboard_time": 1682689955,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 255126,
@@ -37153,6 +37225,14 @@
       "onboard_time": 1681105768,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215910,
+      "num": 215910,
+      "word": "浪漫医生金师傅",
+      "onboard_time": 1682694393,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 215861,
@@ -44200,6 +44280,14 @@
       "word": "吴磊收工日落随拍",
       "onboard_time": 1681043788,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193136,
+      "num": 193136,
+      "word": "赞多ins晒与鹿晗合照",
+      "onboard_time": 1682692172,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -51723,6 +51811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 161608,
+      "num": 161608,
+      "word": "权志龙朴灿烈同框合照",
+      "onboard_time": 1682694993,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 161547,
       "num": 212000,
       "word": "小米平板6",
@@ -52817,6 +52913,14 @@
       "onboard_time": 1682555188,
       "rank": 32,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 156170,
+      "num": 156170,
+      "word": "你会怀念2018年的夏天吗",
+      "onboard_time": 1682694813,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 156013,
@@ -56379,14 +56483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139515,
-      "num": 139515,
-      "word": "赞多ins晒与鹿晗合照",
-      "onboard_time": 1682692172,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139469,
       "num": 139469,
       "word": "宋佳羊毛卷",
@@ -58433,6 +58529,14 @@
       "onboard_time": 1680598951,
       "rank": 47,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 127868,
+      "num": 141006,
+      "word": "大学生老脸要挂不住了",
+      "onboard_time": 1682694574,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 127804,
@@ -64467,6 +64571,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 59152,
+      "num": 1576251,
+      "word": "传统村落集中连片保护利用示范名单",
+      "onboard_time": 1682690732,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59121,
       "num": 59121,
       "word": "鹿晗老舅王勉做后勤演卑微打工人",
@@ -64585,14 +64697,6 @@
       "onboard_time": 1682183299,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 55170,
-      "num": 1576251,
-      "word": "传统村落集中连片保护利用示范名单",
-      "onboard_time": 1682690732,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54935,
