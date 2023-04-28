@@ -1,0 +1,410 @@
+{
+  "runTime": 1682656461241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2186786,
+        "num": 2186786,
+        "word": "拼多多被曝临时确定五一放假三天",
+        "onboard_time": 1682646929,
+        "rank": 0,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 2171671,
+        "num": 2171671,
+        "word": "杰克辣条 虐猫",
+        "onboard_time": 1682652149,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 63263,
+        "num": 1505701,
+        "word": "裸眼3D看中国空间站",
+        "onboard_time": 1682652209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230020,
+        "num": 1230020,
+        "word": "谷爱凌Angelababy合影",
+        "onboard_time": 1682649866,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1188173,
+        "num": 1188173,
+        "word": "丫丫回家后吃饭吃得好香",
+        "onboard_time": 1682608409,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 896889,
+        "num": 896889,
+        "word": "丫丫一到机场就收到了竹子",
+        "onboard_time": 1682594187,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704319,
+        "num": 704319,
+        "word": "因业绩好被扣9000多",
+        "onboard_time": 1682640750,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 701464,
+        "num": 701464,
+        "word": "竹节包",
+        "onboard_time": 1682641829,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 514487,
+        "num": 514487,
+        "word": "朋友圈已经没有了生活的痕迹",
+        "onboard_time": 1682603009,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 513630,
+        "num": 513630,
+        "word": "给淄博烧烤泼一盆冷水",
+        "onboard_time": 1682636722,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2062230,
+        "num": 510878,
+        "word": "青春没有售价 薛之谦无座直达南京",
+        "onboard_time": 1682652149,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 998068,
+        "num": 507826,
+        "word": "周六野 有毒的舒适圈不是那个前任",
+        "onboard_time": 1682654965,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 674197,
+        "num": 504692,
+        "word": "肖战喝酒了",
+        "onboard_time": 1682640867,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 545757,
+        "num": 499520,
+        "word": "李佳航晒与韦正12年前私信记录",
+        "onboard_time": 1682654010,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515319,
+        "num": 494576,
+        "word": "胖虎带易烊千玺溜达视频",
+        "onboard_time": 1682654908,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493965,
+        "num": 493965,
+        "word": "乘风2023定档官宣",
+        "onboard_time": 1682654908,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 472276,
+        "num": 472276,
+        "word": "重庆大客车侧翻致20人受伤",
+        "onboard_time": 1682650409,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457686,
+        "num": 457686,
+        "word": "虹桥火车站",
+        "onboard_time": 1682650948,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352486,
+        "num": 352486,
+        "word": "丫丫回家好像笑了",
+        "onboard_time": 1682653529,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349951,
+        "num": 349951,
+        "word": "乘风",
+        "onboard_time": 1682655450,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432549,
+        "num": 348851,
+        "word": "淄博烧烤店下跪老板与顾客和解",
+        "onboard_time": 1682611885,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406600,
+        "num": 347419,
+        "word": "一千万重读高三你愿意吗",
+        "onboard_time": 1682655811,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372137,
+        "num": 346674,
+        "word": "大陆没电影吗",
+        "onboard_time": 1682649686,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 344058,
+        "num": 344058,
+        "word": "五一 疯狂",
+        "onboard_time": 1682654308,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 331350,
+        "num": 331350,
+        "word": "入职不到一年成为部门顶梁柱",
+        "onboard_time": 1682654791,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321549,
+        "num": 321549,
+        "word": "罗云熙宋轶CP名金戈铁马",
+        "onboard_time": 1682649506,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 267012,
+        "num": 267012,
+        "word": "今天有六部电影上映",
+        "onboard_time": 1682650347,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263538,
+        "num": 263538,
+        "word": "丫丫回国第一晚过得怎么样",
+        "onboard_time": 1682649388,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235749,
+        "num": 235749,
+        "word": "丫丫到家后近照",
+        "onboard_time": 1682606670,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222747,
+        "num": 222747,
+        "word": "为什么熟人性侵高发",
+        "onboard_time": 1682607333,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 220828,
+        "num": 220828,
+        "word": "小鬼 门票",
+        "onboard_time": 1682655569,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214152,
+        "num": 214152,
+        "word": "杨紫最新代言物料图",
+        "onboard_time": 1682651847,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208303,
+        "num": 208303,
+        "word": "Apink 不续约",
+        "onboard_time": 1682648007,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203512,
+        "num": 203512,
+        "word": "偷猫拍虐猫视频网红道歉",
+        "onboard_time": 1682654249,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195034,
+        "num": 195034,
+        "word": "民宿五一为涨价谎称因嫖娼被查封",
+        "onboard_time": 1682646390,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190368,
+        "num": 190368,
+        "word": "东北虎牙疼得每天用脸抵住地面",
+        "onboard_time": 1682650888,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188789,
+        "num": 188789,
+        "word": "鹿晗33岁身材管理",
+        "onboard_time": 1682647406,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181075,
+        "num": 181075,
+        "word": "丫丫住进了隔离检疫圈舍空调房",
+        "onboard_time": 1682645968,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177615,
+        "num": 177615,
+        "word": "毕业班同学为临产老师偷偷策划的惊喜",
+        "onboard_time": 1682651790,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 177385,
+        "num": 177385,
+        "word": "宝妈地铁哺乳女乘客自发组人墙",
+        "onboard_time": 1682651549,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176998,
+        "num": 176998,
+        "word": "杨幂官宣加盟当燃青春",
+        "onboard_time": 1682648368,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171941,
+        "num": 171941,
+        "word": "12306众生平等",
+        "onboard_time": 1682656352,
+        "rank": 41,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 170910,
+        "num": 170910,
+        "word": "YG新女团为5人组",
+        "onboard_time": 1682646746,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169636,
+        "num": 169636,
+        "word": "长空之王官宣全球上映",
+        "onboard_time": 1682645426,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163609,
+        "num": 163609,
+        "word": "何超云",
+        "onboard_time": 1682606312,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161509,
+        "num": 161509,
+        "word": "潍坊文旅局长淄博烧烤摊疯狂揽客",
+        "onboard_time": 1682637201,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153088,
+        "num": 153088,
+        "word": "王响加油",
+        "onboard_time": 1682655750,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61890,
+        "num": 152104,
+        "word": "GUCCI经典款",
+        "onboard_time": 1682643390,
+        "rank": 47,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 98192,
+        "num": 151583,
+        "word": "五一去玩的人在路上了吗",
+        "onboard_time": 1682654611,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151486,
+        "num": 151486,
+        "word": "大学生眼里的长沙夜生活",
+        "onboard_time": 1682655391,
+        "rank": 49,
+        "category": "幽默,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#1035人获全国五一劳动奖章#"
+    }
+  }
+}

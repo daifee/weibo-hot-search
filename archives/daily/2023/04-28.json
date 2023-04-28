@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682655656369,
+  "endTime": 1682656461241,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -27,12 +27,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2057361,
-      "num": 2057361,
+      "raw_hot": 2171671,
+      "num": 2171671,
       "word": "杰克辣条 虐猫",
       "onboard_time": 1682652149,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2062230,
+      "num": 544689,
+      "word": "青春没有售价 薛之谦无座直达南京",
+      "onboard_time": 1682652149,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 2047261,
@@ -75,14 +83,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 1552819,
-      "num": 544689,
-      "word": "青春没有售价 薛之谦无座直达南京",
-      "onboard_time": 1682652149,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1528576,
       "num": 1528576,
       "word": "因业绩好被扣9000多",
@@ -107,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1230020,
+      "num": 1230020,
+      "word": "谷爱凌Angelababy合影",
+      "onboard_time": 1682649866,
+      "rank": 12,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1221257,
       "num": 961920,
       "word": "何超云",
       "onboard_time": 1682606312,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1167021,
-      "num": 1167021,
-      "word": "谷爱凌Angelababy合影",
-      "onboard_time": 1682649866,
-      "rank": 12,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1096991,
@@ -137,6 +137,14 @@
       "onboard_time": 1682607333,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 998068,
+      "num": 507826,
+      "word": "周六野 有毒的舒适圈不是那个前任",
+      "onboard_time": 1682654965,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 950665,
@@ -187,14 +195,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 694464,
-      "num": 209443,
-      "word": "周六野 有毒的舒适圈不是那个前任",
-      "onboard_time": 1682654965,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 658507,
       "num": 658507,
       "word": "重庆大客车侧翻致20人受伤",
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 571439,
-      "num": 335671,
+      "num": 346674,
       "word": "大陆没电影吗",
       "onboard_time": 1682649686,
       "rank": 47,
@@ -259,11 +259,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 541850,
+      "raw_hot": 545757,
       "num": 541850,
       "word": "李佳航晒与韦正12年前私信记录",
       "onboard_time": 1682654010,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 515319,
+      "num": 494576,
+      "word": "胖虎带易烊千玺溜达视频",
+      "onboard_time": 1682654908,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 493965,
+      "num": 493965,
+      "word": "乘风2023定档官宣",
+      "onboard_time": 1682654908,
+      "rank": 19,
       "category": "影视"
     },
     {
@@ -297,6 +313,14 @@
       "onboard_time": 1682649506,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406600,
+      "num": 347419,
+      "word": "一千万重读高三你愿意吗",
+      "onboard_time": 1682655811,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 399087,
@@ -371,6 +395,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 349951,
+      "num": 349951,
+      "word": "乘风",
+      "onboard_time": 1682655450,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344058,
+      "num": 344058,
+      "word": "五一 疯狂",
+      "onboard_time": 1682654308,
+      "rank": 23,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 331350,
+      "num": 331350,
+      "word": "入职不到一年成为部门顶梁柱",
+      "onboard_time": 1682654791,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326013,
       "num": 326013,
       "word": "丫丫回国后安排",
@@ -411,36 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303619,
-      "num": 303619,
-      "word": "乘风2023定档官宣",
-      "onboard_time": 1682654908,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 303062,
-      "num": 303062,
-      "word": "胖虎带易烊千玺溜达视频",
-      "onboard_time": 1682654908,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298841,
       "num": 298841,
       "word": "拼多多",
       "onboard_time": 1682651907,
       "rank": 24,
       "category": "科技,财经"
-    },
-    {
-      "raw_hot": 291183,
-      "num": 291183,
-      "word": "五一 疯狂",
-      "onboard_time": 1682654308,
-      "rank": 23,
-      "category": "旅游"
     },
     {
       "raw_hot": 288320,
@@ -497,14 +521,6 @@
       "onboard_time": 1682637384,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253736,
-      "num": 253736,
-      "word": "乘风",
-      "onboard_time": 1682655450,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 253076,
@@ -579,6 +595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 220828,
+      "num": 220828,
+      "word": "小鬼 门票",
+      "onboard_time": 1682655569,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 218309,
       "num": 218309,
       "word": "五一这些景点已约满",
@@ -593,6 +617,14 @@
       "onboard_time": 1682583327,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214152,
+      "num": 214152,
+      "word": "杨紫最新代言物料图",
+      "onboard_time": 1682651847,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 213667,
@@ -643,11 +675,11 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 205354,
-      "num": 205354,
-      "word": "入职不到一年成为部门顶梁柱",
-      "onboard_time": 1682654791,
-      "rank": 32,
+      "raw_hot": 203512,
+      "num": 203512,
+      "word": "偷猫拍虐猫视频网红道歉",
+      "onboard_time": 1682654249,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -656,14 +688,6 @@
       "word": "billkin上海",
       "onboard_time": 1682648906,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 201229,
-      "num": 201229,
-      "word": "杨紫最新代言物料图",
-      "onboard_time": 1682651847,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -681,14 +705,6 @@
       "onboard_time": 1682650648,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195013,
-      "num": 195013,
-      "word": "偷猫拍虐猫视频网红道歉",
-      "onboard_time": 1682654249,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194637,
@@ -779,6 +795,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 177615,
+      "num": 177615,
+      "word": "毕业班同学为临产老师偷偷策划的惊喜",
+      "onboard_time": 1682651790,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 176836,
       "num": 176836,
       "word": "丫丫脸贴镜头好萌",
@@ -803,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171987,
-      "num": 171987,
-      "word": "小鬼 门票",
-      "onboard_time": 1682655569,
-      "rank": 39,
-      "category": "音乐"
+      "raw_hot": 171941,
+      "num": 171941,
+      "word": "12306众生平等",
+      "onboard_time": 1682656352,
+      "rank": 41,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 171623,
@@ -833,14 +857,6 @@
       "onboard_time": 1682606132,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167052,
-      "num": 167052,
-      "word": "毕业班同学为临产老师偷偷策划的惊喜",
-      "onboard_time": 1682651790,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 163074,
@@ -889,6 +905,14 @@
       "onboard_time": 1682645667,
       "rank": 35,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 153088,
+      "num": 153088,
+      "word": "王响加油",
+      "onboard_time": 1682655750,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 151125,
@@ -1059,8 +1083,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97440,
-      "num": 149878,
+      "raw_hot": 98192,
+      "num": 151583,
       "word": "五一去玩的人在路上了吗",
       "onboard_time": 1682654611,
       "rank": 48,
@@ -1115,20 +1139,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63263,
+      "num": 1505701,
+      "word": "裸眼3D看中国空间站",
+      "onboard_time": 1682652209,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63013,
       "num": 63013,
       "word": "蔡依林回复要来了稍安勿躁",
       "onboard_time": 1682638166,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 61266,
-      "num": 1359988,
-      "word": "裸眼3D看中国空间站",
-      "onboard_time": 1682652209,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54555,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682655656369,
+  "endTime": 1682656461241,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -339,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2171671,
+      "num": 2171671,
+      "word": "杰克辣条 虐猫",
+      "onboard_time": 1682652149,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2146984,
       "num": 2142034,
       "word": "女网红被丈夫杀害藏尸冰柜案宣判",
@@ -379,12 +387,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 2057361,
-      "num": 2057361,
-      "word": "杰克辣条 虐猫",
+      "raw_hot": 2062230,
+      "num": 544689,
+      "word": "青春没有售价 薛之谦无座直达南京",
       "onboard_time": 1682652149,
-      "rank": 3,
-      "category": "网红"
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 2054189,
@@ -683,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1552819,
-      "num": 544689,
-      "word": "青春没有售价 薛之谦无座直达南京",
-      "onboard_time": 1682652149,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1549619,
       "num": 1549619,
       "word": "上海一财务把公司偷得只剩20块",
@@ -931,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1230020,
+      "num": 1230020,
+      "word": "谷爱凌Angelababy合影",
+      "onboard_time": 1682649866,
+      "rank": 12,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1229910,
       "num": 1229910,
       "word": "因为聚餐吃太多被辞退了",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1682425638,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1167021,
-      "num": 1167021,
-      "word": "谷爱凌Angelababy合影",
-      "onboard_time": 1682649866,
-      "rank": 12,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1158577,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1682338709,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 998068,
+      "num": 507826,
+      "word": "周六野 有毒的舒适圈不是那个前任",
+      "onboard_time": 1682654965,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 988838,
@@ -1603,14 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 694464,
-      "num": 209443,
-      "word": "周六野 有毒的舒适圈不是那个前任",
-      "onboard_time": 1682654965,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 677518,
       "num": 677518,
       "word": "法考",
@@ -1900,7 +1900,7 @@
     },
     {
       "raw_hot": 571439,
-      "num": 335671,
+      "num": 346674,
       "word": "大陆没电影吗",
       "onboard_time": 1682649686,
       "rank": 47,
@@ -1987,20 +1987,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545757,
+      "num": 541850,
+      "word": "李佳航晒与韦正12年前私信记录",
+      "onboard_time": 1682654010,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 543801,
       "num": 523705,
       "word": "孔雪儿 珍珠是我刚挖的",
       "onboard_time": 1682505326,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 541850,
-      "num": 541850,
-      "word": "李佳航晒与韦正12年前私信记录",
-      "onboard_time": 1682654010,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 540982,
@@ -2089,6 +2089,14 @@
       "onboard_time": 1682586510,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 515319,
+      "num": 494576,
+      "word": "胖虎带易烊千玺溜达视频",
+      "onboard_time": 1682654908,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 513282,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1682310572,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493965,
+      "num": 493965,
+      "word": "乘风2023定档官宣",
+      "onboard_time": 1682654908,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 493795,
@@ -3051,6 +3067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 406600,
+      "num": 347419,
+      "word": "一千万重读高三你愿意吗",
+      "onboard_time": 1682655811,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 405319,
       "num": 405319,
       "word": "喻言的蓬蓬裙好大",
@@ -3603,6 +3627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349951,
+      "num": 349951,
+      "word": "乘风",
+      "onboard_time": 1682655450,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349180,
       "num": 349180,
       "word": "女孩家属回应男子跳楼砸伤其女儿",
@@ -3657,6 +3689,14 @@
       "onboard_time": 1682303605,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 344058,
+      "num": 344058,
+      "word": "五一 疯狂",
+      "onboard_time": 1682654308,
+      "rank": 23,
+      "category": "旅游"
     },
     {
       "raw_hot": 341194,
@@ -3761,6 +3801,14 @@
       "onboard_time": 1682334928,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 331350,
+      "num": 331350,
+      "word": "入职不到一年成为部门顶梁柱",
+      "onboard_time": 1682654791,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330638,
@@ -4195,28 +4243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303619,
-      "num": 303619,
-      "word": "乘风2023定档官宣",
-      "onboard_time": 1682654908,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 303450,
       "num": 303450,
       "word": "未定事件簿",
       "onboard_time": 1682306065,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 303062,
-      "num": 303062,
-      "word": "胖虎带易烊千玺溜达视频",
-      "onboard_time": 1682654908,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 301560,
@@ -4321,14 +4353,6 @@
       "onboard_time": 1682589026,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291183,
-      "num": 291183,
-      "word": "五一 疯狂",
-      "onboard_time": 1682654308,
-      "rank": 23,
-      "category": "旅游"
     },
     {
       "raw_hot": 291092,
@@ -5073,14 +5097,6 @@
       "onboard_time": 1682412388,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 253736,
-      "num": 253736,
-      "word": "乘风",
-      "onboard_time": 1682655450,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 253696,
@@ -5867,6 +5883,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 220828,
+      "num": 220828,
+      "word": "小鬼 门票",
+      "onboard_time": 1682655569,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 220760,
       "num": 175267,
       "word": "最近你身边有阳了的人吗",
@@ -6025,6 +6049,14 @@
       "onboard_time": 1682569290,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214152,
+      "num": 214152,
+      "word": "杨紫最新代言物料图",
+      "onboard_time": 1682651847,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 214139,
@@ -6259,14 +6291,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 205354,
-      "num": 205354,
-      "word": "入职不到一年成为部门顶梁柱",
-      "onboard_time": 1682654791,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205349,
       "num": 198691,
       "word": "上次这么多人去淄博还是五国伐齐",
@@ -6355,6 +6379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203512,
+      "num": 203512,
+      "word": "偷猫拍虐猫视频网红道歉",
+      "onboard_time": 1682654249,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203325,
       "num": 203325,
       "word": "不考虑收入你最想做什么工作",
@@ -6441,14 +6473,6 @@
       "onboard_time": 1682475687,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 201229,
-      "num": 201229,
-      "word": "杨紫最新代言物料图",
-      "onboard_time": 1682651847,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 201054,
@@ -6704,14 +6728,6 @@
       "word": "城管局回应采购制服每套4591元",
       "onboard_time": 1682253270,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195013,
-      "num": 195013,
-      "word": "偷猫拍虐猫视频网红道歉",
-      "onboard_time": 1682654249,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -7507,6 +7523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177615,
+      "num": 177615,
+      "word": "毕业班同学为临产老师偷偷策划的惊喜",
+      "onboard_time": 1682651790,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 177333,
       "num": 177333,
       "word": "结婚太早容易后悔吗",
@@ -7715,12 +7739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171987,
-      "num": 171987,
-      "word": "小鬼 门票",
-      "onboard_time": 1682655569,
-      "rank": 39,
-      "category": "音乐"
+      "raw_hot": 171941,
+      "num": 171941,
+      "word": "12306众生平等",
+      "onboard_time": 1682656352,
+      "rank": 41,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 171895,
@@ -7849,14 +7873,6 @@
       "onboard_time": 1682424927,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167052,
-      "num": 167052,
-      "word": "毕业班同学为临产老师偷偷策划的惊喜",
-      "onboard_time": 1682651790,
-      "rank": 45,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 166351,
@@ -8337,6 +8353,14 @@
       "onboard_time": 1682413406,
       "rank": 34,
       "category": "科技"
+    },
+    {
+      "raw_hot": 153088,
+      "num": 153088,
+      "word": "王响加油",
+      "onboard_time": 1682655750,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 153030,
@@ -9939,20 +9963,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98192,
+      "num": 151583,
+      "word": "五一去玩的人在路上了吗",
+      "onboard_time": 1682654611,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97712,
       "num": 97712,
       "word": "赫罗纳4比2皇马",
       "onboard_time": 1682464580,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97440,
-      "num": 149878,
-      "word": "五一去玩的人在路上了吗",
-      "onboard_time": 1682654611,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95982,
@@ -10283,6 +10307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 63263,
+      "num": 1505701,
+      "word": "裸眼3D看中国空间站",
+      "onboard_time": 1682652209,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63013,
       "num": 63013,
       "word": "蔡依林回复要来了稍安勿躁",
@@ -10327,14 +10359,6 @@
       "num": 1681344,
       "word": "广交会展览规模再创历史新高",
       "onboard_time": 1682341230,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61266,
-      "num": 1359988,
-      "word": "裸眼3D看中国空间站",
-      "onboard_time": 1682652209,
       "rank": 2,
       "category": "社会新闻"
     },
