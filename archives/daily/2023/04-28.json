@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682695049935,
+  "endTime": 1682696028410,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1205445,
+      "num": 1205445,
+      "word": "向往的生活最后一季",
+      "onboard_time": 1682692593,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1195370,
       "num": 1195370,
       "word": "沈腾 最近一切都挺好哈",
@@ -265,14 +273,6 @@
       "onboard_time": 1682673868,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1133158,
-      "num": 1133158,
-      "word": "向往的生活最后一季",
-      "onboard_time": 1682692593,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1096991,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 812250,
+      "num": 812250,
+      "word": "著名相声演员李建华去世",
+      "onboard_time": 1682693555,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 802374,
       "num": 659080,
       "word": "如何看待杰克辣条的道歉",
@@ -473,14 +481,6 @@
       "onboard_time": 1682587288,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 631298,
-      "num": 419130,
-      "word": "著名相声演员李建华去世",
-      "onboard_time": 1682693555,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 617962,
@@ -611,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555867,
+      "num": 400057,
+      "word": "微信回复领导两年前的消息",
+      "onboard_time": 1682694271,
+      "rank": 30,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 546079,
       "num": 546079,
       "word": "虹桥火车站",
@@ -699,12 +707,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 476451,
+      "num": 345425,
+      "word": "上海地铁回应孕妇要男子让座",
+      "onboard_time": 1682692533,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470492,
       "num": 470492,
       "word": "民宿五一为涨价谎称因嫖娼被查封",
       "onboard_time": 1682646390,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470168,
+      "num": 470168,
+      "word": "WB晋级胜者组决赛",
+      "onboard_time": 1682695172,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 459146,
@@ -915,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370016,
+      "num": 304977,
+      "word": "千万粉丝宅男女神被大叔男友骗1个亿",
+      "onboard_time": 1682695172,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 365082,
       "num": 365082,
       "word": "薛之谦演唱会",
@@ -977,22 +1009,6 @@
       "onboard_time": 1682655450,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 345823,
-      "num": 277527,
-      "word": "微信回复领导两年前的消息",
-      "onboard_time": 1682694271,
-      "rank": 30,
-      "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 345425,
-      "num": 345425,
-      "word": "上海地铁回应孕妇要男子让座",
-      "onboard_time": 1682692533,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344058,
@@ -1275,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270179,
+      "num": 270179,
+      "word": "陆虎巡演",
+      "onboard_time": 1682695709,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 269645,
       "num": 269645,
       "word": "陈冰的腰线",
@@ -1315,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254823,
+      "num": 254823,
+      "word": "谢娜说你宁愿相信一张纸都不相信我",
+      "onboard_time": 1682695055,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253076,
       "num": 253076,
       "word": "想脱单可以试试周末去爬山",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1682651907,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241297,
+      "num": 241297,
+      "word": "权志龙朴灿烈同框合照",
+      "onboard_time": 1682694993,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 239955,
@@ -1603,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202852,
+      "num": 202852,
+      "word": "赞多ins晒与鹿晗合照",
+      "onboard_time": 1682692172,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202021,
       "num": 202021,
       "word": "billkin上海",
@@ -1667,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196012,
+      "num": 202956,
+      "word": "你会怀念2018年的夏天吗",
+      "onboard_time": 1682694813,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194637,
       "num": 194637,
       "word": "官方通报沈阳店铺招牌统一黑底白字",
@@ -1705,14 +1761,6 @@
       "onboard_time": 1682690614,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193136,
-      "num": 193136,
-      "word": "赞多ins晒与鹿晗合照",
-      "onboard_time": 1682692172,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 192801,
@@ -2011,14 +2059,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 161608,
-      "num": 161608,
-      "word": "权志龙朴灿烈同框合照",
-      "onboard_time": 1682694993,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160640,
       "num": 160640,
       "word": "黑暗荣耀值得",
@@ -2057,14 +2097,6 @@
       "onboard_time": 1682674169,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156170,
-      "num": 156170,
-      "word": "你会怀念2018年的夏天吗",
-      "onboard_time": 1682694813,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 155867,
@@ -2451,7 +2483,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59152,
+      "raw_hot": 60373,
       "num": 1576251,
       "word": "传统村落集中连片保护利用示范名单",
       "onboard_time": 1682690732,

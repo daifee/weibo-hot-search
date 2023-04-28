@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682695049935,
+  "endTime": 1682696028410,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1099,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1205445,
+      "num": 1205445,
+      "word": "向往的生活最后一季",
+      "onboard_time": 1682692593,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1197035,
       "num": 1197035,
       "word": "面试1小时发现走错反获2家公司offer",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1682673868,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1133158,
-      "num": 1133158,
-      "word": "向往的生活最后一季",
-      "onboard_time": 1682692593,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1113051,
@@ -1627,6 +1627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 812250,
+      "num": 812250,
+      "word": "著名相声演员李建华去世",
+      "onboard_time": 1682693555,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804430,
       "num": 624419,
       "word": "删掉吧为了宋妍霏",
@@ -1955,14 +1963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 631298,
-      "num": 419130,
-      "word": "著名相声演员李建华去世",
-      "onboard_time": 1682693555,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 627648,
       "num": 1301685,
       "word": "浙D1026S你被拍下来了",
@@ -2289,6 +2289,14 @@
       "onboard_time": 1682510787,
       "rank": 38,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 555867,
+      "num": 400057,
+      "word": "微信回复领导两年前的消息",
+      "onboard_time": 1682694271,
+      "rank": 30,
+      "category": "幽默,科技"
     },
     {
       "raw_hot": 553849,
@@ -2875,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476451,
+      "num": 345425,
+      "word": "上海地铁回应孕妇要男子让座",
+      "onboard_time": 1682692533,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475944,
       "num": 370982,
       "word": "我说谢娜助理怎么那么眼熟",
@@ -2905,6 +2921,14 @@
       "onboard_time": 1682646390,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470168,
+      "num": 470168,
+      "word": "WB晋级胜者组决赛",
+      "onboard_time": 1682695172,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 468664,
@@ -3955,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370016,
+      "num": 304977,
+      "word": "千万粉丝宅男女神被大叔男友骗1个亿",
+      "onboard_time": 1682695172,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 368959,
       "num": 368959,
       "word": "迪丽热巴在袖子上夹夹子",
@@ -4249,22 +4281,6 @@
       "onboard_time": 1682331447,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 345823,
-      "num": 277527,
-      "word": "微信回复领导两年前的消息",
-      "onboard_time": 1682694271,
-      "rank": 30,
-      "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 345425,
-      "num": 345425,
-      "word": "上海地铁回应孕妇要男子让座",
-      "onboard_time": 1682692533,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344103,
@@ -5443,6 +5459,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 270179,
+      "num": 270179,
+      "word": "陆虎巡演",
+      "onboard_time": 1682695709,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 269645,
       "num": 269645,
       "word": "陈冰的腰线",
@@ -5827,6 +5851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254823,
+      "num": 254823,
+      "word": "谢娜说你宁愿相信一张纸都不相信我",
+      "onboard_time": 1682695055,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254792,
       "num": 254792,
       "word": "李昇基李多寅婚后捐款57万",
@@ -6201,6 +6233,14 @@
       "onboard_time": 1682590167,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241297,
+      "num": 241297,
+      "word": "权志龙朴灿烈同框合照",
+      "onboard_time": 1682694993,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 241160,
@@ -7331,6 +7371,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 202852,
+      "num": 202852,
+      "word": "赞多ins晒与鹿晗合照",
+      "onboard_time": 1682692172,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202818,
       "num": 202818,
       "word": "种地吧",
@@ -7635,6 +7683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196012,
+      "num": 202956,
+      "word": "你会怀念2018年的夏天吗",
+      "onboard_time": 1682694813,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195586,
       "num": 183196,
       "word": "范丞丞低头让张婧仪戴花环",
@@ -7809,14 +7865,6 @@
       "onboard_time": 1682314347,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193136,
-      "num": 193136,
-      "word": "赞多ins晒与鹿晗合照",
-      "onboard_time": 1682692172,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 192955,
@@ -9187,14 +9235,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 161608,
-      "num": 161608,
-      "word": "权志龙朴灿烈同框合照",
-      "onboard_time": 1682694993,
-      "rank": 45,
-      "category": "影视"
-    },
-    {
       "raw_hot": 160956,
       "num": 160956,
       "word": "专家称二阳患者应属个例",
@@ -9393,14 +9433,6 @@
       "onboard_time": 1682555188,
       "rank": 32,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 156170,
-      "num": 156170,
-      "word": "你会怀念2018年的夏天吗",
-      "onboard_time": 1682694813,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 155867,
@@ -11619,20 +11651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60373,
+      "num": 1576251,
+      "word": "传统村落集中连片保护利用示范名单",
+      "onboard_time": 1682690732,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59891,
       "num": 525882,
       "word": "女明星仿妆速学",
       "onboard_time": 1682596828,
       "rank": 14,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 59152,
-      "num": 1576251,
-      "word": "传统村落集中连片保护利用示范名单",
-      "onboard_time": 1682690732,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57549,
