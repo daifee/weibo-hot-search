@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682646479402,
+  "endTime": 1682649303906,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3179,6 +3179,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1644395,
+      "num": 1644395,
+      "word": "拼多多被曝临时确定五一放假三天",
+      "onboard_time": 1682646929,
+      "rank": 0,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 1643326,
       "num": 1638319,
       "word": "债主获刑张继科会是共犯吗",
@@ -3715,6 +3723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1528576,
+      "num": 1528576,
+      "word": "因业绩好被扣9000多",
+      "onboard_time": 1682640750,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1528353,
       "num": 1528353,
       "word": "成龙身体已经不能再打封闭了",
@@ -3995,6 +4011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1456212,
+      "num": 480971,
+      "word": "肖战喝酒了",
+      "onboard_time": 1682640867,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1455056,
       "num": 1455056,
       "word": "爸爸靠茶具谈崩五个客户",
@@ -4112,6 +4136,14 @@
       "word": "女子1月内收5笔工资直呼看不懂",
       "onboard_time": 1682222008,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1421044,
+      "num": 1421044,
+      "word": "淄博烧烤店下跪老板与顾客和解",
+      "onboard_time": 1682611885,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -4945,14 +4977,6 @@
       "onboard_time": 1680329550,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1236259,
-      "num": 1236259,
-      "word": "因业绩好被扣9000多",
-      "onboard_time": 1682640750,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 1229910,
@@ -6121,14 +6145,6 @@
       "onboard_time": 1682089831,
       "rank": 11,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1040190,
-      "num": 1040190,
-      "word": "淄博烧烤店下跪老板与顾客和解",
-      "onboard_time": 1682611885,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1039901,
@@ -13355,6 +13371,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 567548,
+      "num": 301982,
+      "word": "杨幂官宣加盟当燃青春",
+      "onboard_time": 1682648368,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567380,
       "num": 541755,
       "word": "女子因男友要求旅行AA提分手",
@@ -13529,6 +13553,14 @@
       "onboard_time": 1681370968,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 560938,
+      "num": 560938,
+      "word": "首都机场多人尾随跟拍艺人被传唤",
+      "onboard_time": 1682647767,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560762,
@@ -15963,6 +15995,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 488128,
+      "num": 488128,
+      "word": "鹿晗33岁身材管理",
+      "onboard_time": 1682647406,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 487924,
       "num": 487924,
       "word": "外来媳妇本地郎清明特辑",
@@ -16913,6 +16953,14 @@
       "onboard_time": 1681533145,
       "rank": 47,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 465726,
+      "num": 465726,
+      "word": "民宿五一为涨价谎称因嫖娼被查封",
+      "onboard_time": 1682646390,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465582,
@@ -20409,6 +20457,14 @@
       "onboard_time": 1682092649,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399087,
+      "num": 399087,
+      "word": "为什么大家不再发朋友圈了",
+      "onboard_time": 1682646326,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 398794,
@@ -26067,6 +26123,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 311587,
+      "num": 311587,
+      "word": "Apink 不续约",
+      "onboard_time": 1682648007,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311201,
       "num": 311201,
       "word": "长峰医院火灾事故初步调查结果",
@@ -27960,6 +28024,14 @@
       "word": "韩国酵母",
       "onboard_time": 1681117825,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286939,
+      "num": 286939,
+      "word": "YG新女团为5人组",
+      "onboard_time": 1682646746,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -32731,6 +32803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239955,
+      "num": 239955,
+      "word": "丫丫回国为何关注度这么高",
+      "onboard_time": 1682645008,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239923,
       "num": 239923,
       "word": "e人聚会",
@@ -34017,6 +34097,14 @@
       "onboard_time": 1681368387,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229906,
+      "num": 229906,
+      "word": "我入不了仙门",
+      "onboard_time": 1682645128,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 229888,
@@ -36851,14 +36939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 211396,
-      "num": 160005,
-      "word": "我入不了仙门",
-      "onboard_time": 1682645128,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211364,
       "num": 211364,
       "word": "成龙刘浩存郭麒麟芭莎大片",
@@ -39224,14 +39304,6 @@
       "word": "兄弟堂",
       "onboard_time": 1681448310,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203279,
-      "num": 203279,
-      "word": "丫丫回国为何关注度这么高",
-      "onboard_time": 1682645008,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -41611,6 +41683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197161,
+      "num": 197161,
+      "word": "带王一博24小时玩遍北京",
+      "onboard_time": 1682648606,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197151,
       "num": 197151,
       "word": "卫视报道长空之王点映活动",
@@ -42097,6 +42177,14 @@
       "onboard_time": 1680355289,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195911,
+      "num": 195911,
+      "word": "德云社抢票",
+      "onboard_time": 1682648968,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 195854,
@@ -49755,6 +49843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164355,
+      "num": 164355,
+      "word": "中专生逆袭成博士帮助130名孩子",
+      "onboard_time": 1682646988,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 164342,
       "num": 164342,
       "word": "承受不住压力离职是种失败吗",
@@ -50761,14 +50857,6 @@
       "onboard_time": 1681868068,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 160022,
-      "num": 160022,
-      "word": "为什么大家不再发朋友圈了",
-      "onboard_time": 1682646326,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 159997,
@@ -52147,6 +52235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152789,
+      "num": 152789,
+      "word": "中国公民视频记录坐军舰撤离苏丹过程",
+      "onboard_time": 1682645667,
+      "rank": 35,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 152724,
       "num": 152724,
       "word": "SEVENTEEN出道初VS后期的颜值变化",
@@ -52483,6 +52579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151125,
+      "num": 151125,
+      "word": "龚俊追星李荣浩",
+      "onboard_time": 1682646808,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151115,
       "num": 255426,
       "word": "林俊杰新专辑",
@@ -52617,6 +52721,14 @@
       "onboard_time": 1680413368,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150521,
+      "num": 150521,
+      "word": "澹台烬假装入魔",
+      "onboard_time": 1682646929,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 150513,
@@ -52785,14 +52897,6 @@
       "onboard_time": 1680479004,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149819,
-      "num": 149819,
-      "word": "中国公民视频记录坐军舰撤离苏丹过程",
-      "onboard_time": 1682645667,
-      "rank": 35,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 149739,
@@ -53825,6 +53929,14 @@
       "onboard_time": 1680421828,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 145195,
+      "num": 145195,
+      "word": "billkin上海",
+      "onboard_time": 1682648906,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 145158,
@@ -58451,14 +58563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 118534,
-      "num": 118534,
-      "word": "民宿五一为涨价谎称因嫖娼被查封",
-      "onboard_time": 1682646390,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118460,
       "num": 118460,
       "word": "aespa新歌MV拍摄路透",
@@ -60769,6 +60873,14 @@
       "onboard_time": 1681859360,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98499,
+      "num": 101880,
+      "word": "乐乐到家了",
+      "onboard_time": 1682649025,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98346,
@@ -63931,7 +64043,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 23524,
+      "raw_hot": 23658,
       "num": 2460423,
       "word": "五一出行实用贴士",
       "onboard_time": 1682560405,

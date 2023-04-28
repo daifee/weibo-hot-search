@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682646479402,
+  "endTime": 1682649303906,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -579,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1644395,
+      "num": 1644395,
+      "word": "拼多多被曝临时确定五一放假三天",
+      "onboard_time": 1682646929,
+      "rank": 0,
+      "category": "科技,财经"
+    },
+    {
       "raw_hot": 1636553,
       "num": 875612,
       "word": "娜扎身材",
@@ -675,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1528576,
+      "num": 1528576,
+      "word": "因业绩好被扣9000多",
+      "onboard_time": 1682640750,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1524130,
       "num": 1524130,
       "word": "给女儿准备三万本书当书房",
@@ -736,6 +752,22 @@
       "word": "丫丫启程回国",
       "onboard_time": 1682518293,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1456212,
+      "num": 480971,
+      "word": "肖战喝酒了",
+      "onboard_time": 1682640867,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1421044,
+      "num": 1421044,
+      "word": "淄博烧烤店下跪老板与顾客和解",
+      "onboard_time": 1682611885,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -881,14 +913,6 @@
       "onboard_time": 1682320166,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1236259,
-      "num": 1236259,
-      "word": "因业绩好被扣9000多",
-      "onboard_time": 1682640750,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 1229910,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1682380165,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1040190,
-      "num": 1040190,
-      "word": "淄博烧烤店下跪老板与顾客和解",
-      "onboard_time": 1682611885,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1039901,
@@ -1835,12 +1851,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 567548,
+      "num": 301982,
+      "word": "杨幂官宣加盟当燃青春",
+      "onboard_time": 1682648368,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 567380,
       "num": 541755,
       "word": "女子因男友要求旅行AA提分手",
       "onboard_time": 1682568025,
       "rank": 20,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 560938,
+      "num": 560938,
+      "word": "首都机场多人尾随跟拍艺人被传唤",
+      "onboard_time": 1682647767,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560491,
@@ -2195,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488128,
+      "num": 488128,
+      "word": "鹿晗33岁身材管理",
+      "onboard_time": 1682647406,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 486122,
       "num": 486122,
       "word": "车银优给文彬的留言",
@@ -2384,6 +2424,14 @@
       "word": "二阳患者自述感染经历",
       "onboard_time": 1682382087,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465726,
+      "num": 465726,
+      "word": "民宿五一为涨价谎称因嫖娼被查封",
+      "onboard_time": 1682646390,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -2977,6 +3025,14 @@
       "onboard_time": 1682575289,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399087,
+      "num": 399087,
+      "word": "为什么大家不再发朋友圈了",
+      "onboard_time": 1682646326,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 398794,
@@ -3955,6 +4011,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 311587,
+      "num": 311587,
+      "word": "Apink 不续约",
+      "onboard_time": 1682648007,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310349,
       "num": 310349,
       "word": "全世界除了滔搏都笑的很开心",
@@ -4209,6 +4273,14 @@
       "onboard_time": 1682517692,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286939,
+      "num": 286939,
+      "word": "YG新女团为5人组",
+      "onboard_time": 1682646746,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 286274,
@@ -5187,6 +5259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239955,
+      "num": 239955,
+      "word": "丫丫回国为何关注度这么高",
+      "onboard_time": 1682645008,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238954,
       "num": 238954,
       "word": "当把萌兰介绍给单身闺蜜时",
@@ -5377,6 +5457,14 @@
       "onboard_time": 1682417546,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 229906,
+      "num": 229906,
+      "word": "我入不了仙门",
+      "onboard_time": 1682645128,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 228839,
@@ -5835,14 +5923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211396,
-      "num": 160005,
-      "word": "我入不了仙门",
-      "onboard_time": 1682645128,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211292,
       "num": 211292,
       "word": "钟辰乐将缺席NCTDREAM演唱会",
@@ -6081,14 +6161,6 @@
       "onboard_time": 1682522189,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203279,
-      "num": 203279,
-      "word": "丫丫回国为何关注度这么高",
-      "onboard_time": 1682645008,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203208,
@@ -6339,6 +6411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197161,
+      "num": 197161,
+      "word": "带王一博24小时玩遍北京",
+      "onboard_time": 1682648606,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196849,
       "num": 196849,
       "word": "薛之谦巡演官宣三城空降",
@@ -6369,6 +6449,14 @@
       "onboard_time": 1682393248,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195911,
+      "num": 195911,
+      "word": "德云社抢票",
+      "onboard_time": 1682648968,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 195586,
@@ -7571,6 +7659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 164355,
+      "num": 164355,
+      "word": "中专生逆袭成博士帮助130名孩子",
+      "onboard_time": 1682646988,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 164248,
       "num": 164248,
       "word": "快船vs太阳",
@@ -7745,14 +7841,6 @@
       "onboard_time": 1682586092,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 160022,
-      "num": 160022,
-      "word": "为什么大家不再发朋友圈了",
-      "onboard_time": 1682646326,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 159981,
@@ -7987,6 +8075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152789,
+      "num": 152789,
+      "word": "中国公民视频记录坐军舰撤离苏丹过程",
+      "onboard_time": 1682645667,
+      "rank": 35,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 151887,
       "num": 133453,
       "word": "周深电音合作曲",
@@ -8035,6 +8131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151125,
+      "num": 151125,
+      "word": "龚俊追星李荣浩",
+      "onboard_time": 1682646808,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151050,
       "num": 151050,
       "word": "今年五一你去哪儿玩",
@@ -8067,12 +8171,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149819,
-      "num": 149819,
-      "word": "中国公民视频记录坐军舰撤离苏丹过程",
-      "onboard_time": 1682645667,
-      "rank": 35,
-      "category": "军事,社会新闻"
+      "raw_hot": 150521,
+      "num": 150521,
+      "word": "澹台烬假装入魔",
+      "onboard_time": 1682646929,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 149732,
@@ -8328,6 +8432,14 @@
       "word": "时代少年团集体量腰围",
       "onboard_time": 1682505808,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145195,
+      "num": 145195,
+      "word": "billkin上海",
+      "onboard_time": 1682648906,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -9171,14 +9283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118534,
-      "num": 118534,
-      "word": "民宿五一为涨价谎称因嫖娼被查封",
-      "onboard_time": 1682646390,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118363,
       "num": 118363,
       "word": "中国的专家真的在妖言惑众吗",
@@ -9569,6 +9673,14 @@
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98499,
+      "num": 101880,
+      "word": "乐乐到家了",
+      "onboard_time": 1682649025,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97712,
@@ -10107,7 +10219,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 23524,
+      "raw_hot": 23658,
       "num": 2460423,
       "word": "五一出行实用贴士",
       "onboard_time": 1682560405,
