@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682656461241,
+  "endTime": 1682658987126,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2504124,
+      "num": 2504124,
+      "word": "杰克辣条 虐猫",
+      "onboard_time": 1682652149,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2277222,
       "num": 2277222,
       "word": "鹿晗肖战坐一起",
       "onboard_time": 1682643510,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2171671,
-      "num": 2171671,
-      "word": "杰克辣条 虐猫",
-      "onboard_time": 1682652149,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 2062230,
@@ -83,6 +83,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1556111,
+      "num": 1556111,
+      "word": "12306众生平等",
+      "onboard_time": 1682656352,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1528576,
       "num": 1528576,
       "word": "因业绩好被扣9000多",
@@ -99,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1409635,
+      "num": 1409635,
+      "word": "谷爱凌Angelababy合影",
+      "onboard_time": 1682649866,
+      "rank": 12,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1332150,
       "num": 1332150,
       "word": "丫丫到家后近照",
       "onboard_time": 1682606670,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1230020,
-      "num": 1230020,
-      "word": "谷爱凌Angelababy合影",
-      "onboard_time": 1682649866,
-      "rank": 12,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1221257,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1053086,
+      "num": 1053086,
+      "word": "谢娜说生完孩子长高了",
+      "onboard_time": 1682657250,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1027719,
       "num": 1027719,
       "word": "为什么熟人性侵高发",
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 998068,
-      "num": 507826,
+      "num": 871598,
       "word": "周六野 有毒的舒适圈不是那个前任",
       "onboard_time": 1682654965,
       "rank": 30,
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802374,
+      "num": 530915,
+      "word": "如何看待杰克辣条的道歉",
+      "onboard_time": 1682657851,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706137,
       "num": 706137,
       "word": "鹿晗纹身像拔罐",
@@ -200,6 +224,14 @@
       "word": "重庆大客车侧翻致20人受伤",
       "onboard_time": 1682650409,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635781,
+      "num": 635781,
+      "word": "丫丫",
+      "onboard_time": 1682579906,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -241,6 +273,14 @@
       "onboard_time": 1682648368,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566430,
+      "num": 528276,
+      "word": "迪丽热巴评论区模仿营销号",
+      "onboard_time": 1682656829,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 556648,
@@ -291,12 +331,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 486863,
+      "num": 486863,
+      "word": "杨紫的厚底鞋",
+      "onboard_time": 1682657851,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 470492,
       "num": 470492,
       "word": "民宿五一为涨价谎称因嫖娼被查封",
       "onboard_time": 1682646390,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449539,
+      "num": 436264,
+      "word": "一千万重读高三你愿意吗",
+      "onboard_time": 1682655811,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 449455,
@@ -307,20 +363,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 436479,
+      "num": 436479,
+      "word": "丫丫回家好像笑了",
+      "onboard_time": 1682653529,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421177,
       "num": 421177,
       "word": "罗云熙宋轶CP名金戈铁马",
       "onboard_time": 1682649506,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 406600,
-      "num": 347419,
-      "word": "一千万重读高三你愿意吗",
-      "onboard_time": 1682655811,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 399087,
@@ -337,6 +393,14 @@
       "onboard_time": 1682645066,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 387347,
+      "num": 387347,
+      "word": "入职不到一年成为部门顶梁柱",
+      "onboard_time": 1682654791,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386323,
@@ -361,14 +425,6 @@
       "onboard_time": 1682645426,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 370068,
-      "num": 370068,
-      "word": "丫丫回家好像笑了",
-      "onboard_time": 1682653529,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365082,
@@ -411,19 +467,19 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 331350,
-      "num": 331350,
-      "word": "入职不到一年成为部门顶梁柱",
-      "onboard_time": 1682654791,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326013,
       "num": 326013,
       "word": "丫丫回国后安排",
       "onboard_time": 1682594909,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321832,
+      "num": 321832,
+      "word": "五一加班工资应该怎么算",
+      "onboard_time": 1682658629,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -457,6 +513,14 @@
       "onboard_time": 1682597368,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303118,
+      "num": 225504,
+      "word": "孙千说不能总当路人我也想成为主角",
+      "onboard_time": 1682658028,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 298841,
@@ -547,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243817,
+      "num": 243817,
+      "word": "四杯水如何分给五个领导",
+      "onboard_time": 1682658028,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239955,
       "num": 239955,
       "word": "丫丫回国为何关注度这么高",
@@ -611,6 +683,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217738,
+      "num": 217738,
+      "word": "宋亚轩唱从今以后",
+      "onboard_time": 1682657731,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 217382,
+      "num": 217382,
+      "word": "盛夏光年",
+      "onboard_time": 1682657490,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 217088,
       "num": 217088,
       "word": "丫丫回国航线熊猫趴飞机上",
@@ -625,6 +713,14 @@
       "onboard_time": 1682651847,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213991,
+      "num": 213991,
+      "word": "长沙夜生活",
+      "onboard_time": 1682658570,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 213667,
@@ -691,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199478,
+      "num": 199478,
+      "word": "在我得省钱和人就活一次之间徘徊",
+      "onboard_time": 1682657611,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 197405,
       "num": 197405,
       "word": "知乎客服回应推送李玉刚跳河消息",
@@ -713,6 +817,14 @@
       "onboard_time": 1682612126,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194553,
+      "num": 194553,
+      "word": "五一档电影先看哪一部",
+      "onboard_time": 1682658090,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 194286,
@@ -795,6 +907,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 178175,
+      "num": 178175,
+      "word": "王子奇看王玉雯的眼神",
+      "onboard_time": 1682658452,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177615,
       "num": 177615,
       "word": "毕业班同学为临产老师偷偷策划的惊喜",
@@ -825,14 +945,6 @@
       "onboard_time": 1682610989,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171941,
-      "num": 171941,
-      "word": "12306众生平等",
-      "onboard_time": 1682656352,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 171623,
@@ -897,6 +1009,14 @@
       "onboard_time": 1682612064,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 155867,
+      "num": 155867,
+      "word": "淄博",
+      "onboard_time": 1682657129,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154490,
@@ -1035,14 +1155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120876,
-      "num": 120876,
-      "word": "丫丫",
-      "onboard_time": 1682579906,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117418,
       "num": 117418,
       "word": "美国GDP",
@@ -1140,7 +1252,7 @@
     },
     {
       "raw_hot": 63263,
-      "num": 1505701,
+      "num": 1563141,
       "word": "裸眼3D看中国空间站",
       "onboard_time": 1682652209,
       "rank": 2,

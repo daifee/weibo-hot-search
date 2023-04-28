@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682656461241,
+  "endTime": 1682658987126,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -227,6 +227,14 @@
       "category": "科技,艺人"
     },
     {
+      "raw_hot": 2504124,
+      "num": 2504124,
+      "word": "杰克辣条 虐猫",
+      "onboard_time": 1682652149,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2470645,
       "num": 2470645,
       "word": "B站千万粉丝UP主回应停更传言",
@@ -337,14 +345,6 @@
       "onboard_time": 1682583446,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2171671,
-      "num": 2171671,
-      "word": "杰克辣条 虐猫",
-      "onboard_time": 1682652149,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 2146984,
@@ -683,6 +683,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1556111,
+      "num": 1556111,
+      "word": "12306众生平等",
+      "onboard_time": 1682656352,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 1555438,
       "num": 1273340,
       "word": "梅姨",
@@ -785,6 +793,14 @@
       "onboard_time": 1682611885,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1409635,
+      "num": 1409635,
+      "word": "谷爱凌Angelababy合影",
+      "onboard_time": 1682649866,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1401525,
@@ -929,14 +945,6 @@
       "onboard_time": 1682320166,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1230020,
-      "num": 1230020,
-      "word": "谷爱凌Angelababy合影",
-      "onboard_time": 1682649866,
-      "rank": 12,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1229910,
@@ -1115,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1053086,
+      "num": 1053086,
+      "word": "谢娜说生完孩子长高了",
+      "onboard_time": 1682657250,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1039901,
       "num": 648926,
       "word": "奚梦瑶回应去深圳不是上课是上班",
@@ -1196,7 +1212,7 @@
     },
     {
       "raw_hot": 998068,
-      "num": 507826,
+      "num": 871598,
       "word": "周六野 有毒的舒适圈不是那个前任",
       "onboard_time": 1682654965,
       "rank": 30,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1682599467,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 802374,
+      "num": 530915,
+      "word": "如何看待杰克辣条的道歉",
+      "onboard_time": 1682657851,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 801619,
@@ -1931,6 +1955,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 566430,
+      "num": 528276,
+      "word": "迪丽热巴评论区模仿营销号",
+      "onboard_time": 1682656829,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560491,
       "num": 560491,
       "word": "民警带服刑人员去民政局登记结婚",
@@ -2323,6 +2355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 486863,
+      "num": 486863,
+      "word": "杨紫的厚底鞋",
+      "onboard_time": 1682657851,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 486122,
       "num": 486122,
       "word": "车银优给文彬的留言",
@@ -2683,6 +2723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 449539,
+      "num": 436264,
+      "word": "一千万重读高三你愿意吗",
+      "onboard_time": 1682655811,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 446856,
       "num": 446856,
       "word": "斗破苍穹 美杜莎",
@@ -2744,6 +2792,14 @@
       "word": "番禺母婴店发现尸体警方排除他杀",
       "onboard_time": 1682321966,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436479,
+      "num": 436479,
+      "word": "丫丫回家好像笑了",
+      "onboard_time": 1682653529,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3067,14 +3123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 406600,
-      "num": 347419,
-      "word": "一千万重读高三你愿意吗",
-      "onboard_time": 1682655811,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 405319,
       "num": 405319,
       "word": "喻言的蓬蓬裙好大",
@@ -3267,6 +3315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 387347,
+      "num": 387347,
+      "word": "入职不到一年成为部门顶梁柱",
+      "onboard_time": 1682654791,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386398,
       "num": 386398,
       "word": "章凝 冯楚轩",
@@ -3408,14 +3464,6 @@
       "word": "扬州地震",
       "onboard_time": 1682561485,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370068,
-      "num": 370068,
-      "word": "丫丫回家好像笑了",
-      "onboard_time": 1682653529,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -3803,14 +3851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 331350,
-      "num": 331350,
-      "word": "入职不到一年成为部门顶梁柱",
-      "onboard_time": 1682654791,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 330638,
       "num": 330638,
       "word": "妈妈说穿这个不像高中生",
@@ -3961,6 +4001,14 @@
       "onboard_time": 1682321726,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 321832,
+      "num": 321832,
+      "word": "五一加班工资应该怎么算",
+      "onboard_time": 1682658629,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321528,
@@ -4249,6 +4297,14 @@
       "onboard_time": 1682306065,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 303118,
+      "num": 225504,
+      "word": "孙千说不能总当路人我也想成为主角",
+      "onboard_time": 1682658028,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 301560,
@@ -5347,6 +5403,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 243817,
+      "num": 243817,
+      "word": "四杯水如何分给五个领导",
+      "onboard_time": 1682658028,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 243639,
       "num": 243639,
       "word": "声生不息五公 归零",
@@ -5963,6 +6027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217738,
+      "num": 217738,
+      "word": "宋亚轩唱从今以后",
+      "onboard_time": 1682657731,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 217579,
       "num": 217579,
       "word": "鹿晗上海高铁站饭拍",
@@ -5977,6 +6049,14 @@
       "onboard_time": 1682426731,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217382,
+      "num": 217382,
+      "word": "盛夏光年",
+      "onboard_time": 1682657490,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 216772,
@@ -6065,6 +6145,14 @@
       "onboard_time": 1682354419,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213991,
+      "num": 213991,
+      "word": "长沙夜生活",
+      "onboard_time": 1682658570,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 213890,
@@ -6515,6 +6603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199478,
+      "num": 199478,
+      "word": "在我得省钱和人就活一次之间徘徊",
+      "onboard_time": 1682657611,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 199424,
       "num": 199424,
       "word": "丫丫回国运输方案及航线已落实",
@@ -6745,6 +6841,14 @@
       "onboard_time": 1682612126,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194553,
+      "num": 194553,
+      "word": "五一档电影先看哪一部",
+      "onboard_time": 1682658090,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 194323,
@@ -7515,6 +7619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178175,
+      "num": 178175,
+      "word": "王子奇看王玉雯的眼神",
+      "onboard_time": 1682658452,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 177785,
       "num": 177785,
       "word": "你也有今天",
@@ -7737,14 +7849,6 @@
       "onboard_time": 1682315129,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171941,
-      "num": 171941,
-      "word": "12306众生平等",
-      "onboard_time": 1682656352,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 171895,
@@ -8257,6 +8361,14 @@
       "onboard_time": 1682555188,
       "rank": 32,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 155867,
+      "num": 155867,
+      "word": "淄博",
+      "onboard_time": 1682657129,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155792,
@@ -10308,7 +10420,7 @@
     },
     {
       "raw_hot": 63263,
-      "num": 1505701,
+      "num": 1563141,
       "word": "裸眼3D看中国空间站",
       "onboard_time": 1682652209,
       "rank": 2,
