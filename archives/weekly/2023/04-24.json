@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682696028410,
+  "endTime": 1682698862601,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1347,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012864,
+      "num": 1012864,
+      "word": "微信回复领导两年前的消息",
+      "onboard_time": 1682694271,
+      "rank": 30,
+      "category": "幽默,科技"
+    },
+    {
       "raw_hot": 1004750,
       "num": 1004750,
       "word": "四月底HR才开始急了",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1682583327,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 901284,
+      "num": 397279,
+      "word": "韩素希手动给宋慧乔P爱心",
+      "onboard_time": 1682697209,
+      "rank": 10,
+      "category": "影视"
     },
     {
       "raw_hot": 890369,
@@ -2172,7 +2188,7 @@
     },
     {
       "raw_hot": 581747,
-      "num": 338029,
+      "num": 362556,
       "word": "林彦俊是颜人中演唱会嘉宾",
       "onboard_time": 1682694033,
       "rank": 20,
@@ -2289,14 +2305,6 @@
       "onboard_time": 1682510787,
       "rank": 38,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 555867,
-      "num": 400057,
-      "word": "微信回复领导两年前的消息",
-      "onboard_time": 1682694271,
-      "rank": 30,
-      "category": "幽默,科技"
     },
     {
       "raw_hot": 553849,
@@ -3955,12 +3963,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 373546,
+      "num": 373546,
+      "word": "千万粉丝宅男女神被大叔男友骗1个亿",
+      "onboard_time": 1682695172,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 373415,
       "num": 373415,
       "word": "入职半个月被同事孤立了",
       "onboard_time": 1682573847,
       "rank": 16,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 373244,
+      "num": 373244,
+      "word": "结婚以后的好处",
+      "onboard_time": 1682696490,
+      "rank": 13,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 372427,
@@ -3977,14 +4001,6 @@
       "onboard_time": 1682561485,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370016,
-      "num": 304977,
-      "word": "千万粉丝宅男女神被大叔男友骗1个亿",
-      "onboard_time": 1682695172,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 368959,
@@ -4025,6 +4041,14 @@
       "onboard_time": 1682485113,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364304,
+      "num": 364304,
+      "word": "奥斯卡获奖导演希望和易烊千玺合作",
+      "onboard_time": 1682697868,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 364256,
@@ -4121,6 +4145,14 @@
       "onboard_time": 1682387605,
       "rank": 17,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 356587,
+      "num": 254823,
+      "word": "谢娜说你宁愿相信一张纸都不相信我",
+      "onboard_time": 1682695055,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 356044,
@@ -5603,6 +5635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 265376,
+      "num": 265376,
+      "word": "全资进组的演职员表",
+      "onboard_time": 1682697810,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 264302,
       "num": 264302,
       "word": "4月奇趣季",
@@ -5849,14 +5889,6 @@
       "onboard_time": 1682550321,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254823,
-      "num": 254823,
-      "word": "谢娜说你宁愿相信一张纸都不相信我",
-      "onboard_time": 1682695055,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 254792,
@@ -7531,6 +7563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198958,
+      "num": 202956,
+      "word": "你会怀念2018年的夏天吗",
+      "onboard_time": 1682694813,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198852,
       "num": 198852,
       "word": "热火vs雄鹿",
@@ -7681,14 +7721,6 @@
       "onboard_time": 1682393248,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196012,
-      "num": 202956,
-      "word": "你会怀念2018年的夏天吗",
-      "onboard_time": 1682694813,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 195586,
@@ -8528,6 +8560,14 @@
       "word": "如何用手机检查针孔摄像头",
       "onboard_time": 1682575646,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180317,
+      "num": 180317,
+      "word": "朱令近况",
+      "onboard_time": 1682696431,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -11203,6 +11243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100369,
+      "num": 143207,
+      "word": "花花为何会成为顶流",
+      "onboard_time": 1682698468,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98499,
       "num": 101880,
       "word": "乐乐到家了",
@@ -11225,6 +11273,14 @@
       "onboard_time": 1682464580,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97061,
+      "num": 141206,
+      "word": "张信哲演唱会",
+      "onboard_time": 1682698768,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 95982,
@@ -11377,6 +11433,14 @@
       "onboard_time": 1682329586,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87222,
+      "num": 141074,
+      "word": "袁励岑",
+      "onboard_time": 1682698228,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 86770,
@@ -11691,6 +11755,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 54844,
+      "num": 140856,
+      "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
+      "onboard_time": 1682698768,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54678,
       "num": 54678,
       "word": "陈钰琪说余春羊给小号换了个皮肤",
@@ -11705,6 +11777,14 @@
       "onboard_time": 1682645790,
       "rank": 37,
       "category": "社会议题,幽默"
+    },
+    {
+      "raw_hot": 54195,
+      "num": 140808,
+      "word": "一个人要有一个班上",
+      "onboard_time": 1682698824,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 53205,
