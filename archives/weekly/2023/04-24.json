@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682649843465,
+  "endTime": 1682651900306,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -89,6 +89,14 @@
       "onboard_time": 1682514989,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 3037560,
+      "num": 3037560,
+      "word": "拼多多被曝临时确定五一放假三天",
+      "onboard_time": 1682646929,
+      "rank": 0,
+      "category": "科技,财经"
     },
     {
       "raw_hot": 3029892,
@@ -363,14 +371,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 2078707,
-      "num": 2078707,
-      "word": "拼多多被曝临时确定五一放假三天",
-      "onboard_time": 1682646929,
-      "rank": 0,
-      "category": "科技,财经"
-    },
-    {
       "raw_hot": 2062694,
       "num": 2062694,
       "word": "不建议跟一累就黑脸的人出去玩",
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 1587127,
-      "num": 488554,
+      "num": 530814,
       "word": "肖战喝酒了",
       "onboard_time": 1682640867,
       "rank": 10,
@@ -1355,6 +1355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 832983,
+      "num": 832983,
+      "word": "首都机场多人尾随跟拍艺人被传唤",
+      "onboard_time": 1682647767,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827116,
       "num": 827116,
       "word": "热火完成黑八",
@@ -1571,14 +1579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695151,
-      "num": 695151,
-      "word": "首都机场多人尾随跟拍艺人被传唤",
-      "onboard_time": 1682647767,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 677518,
       "num": 677518,
       "word": "法考",
@@ -1675,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 622254,
+      "num": 622254,
+      "word": "重庆大客车侧翻致20人受伤",
+      "onboard_time": 1682650409,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617634,
       "num": 617634,
       "word": "现在的小学生在追谁",
@@ -1761,6 +1769,14 @@
       "onboard_time": 1682319509,
       "rank": 9,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 594263,
+      "num": 594263,
+      "word": "丫丫回国第一晚过得怎么样",
+      "onboard_time": 1682649388,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 592791,
@@ -1851,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571439,
+      "num": 313855,
+      "word": "大陆没电影吗",
+      "onboard_time": 1682649686,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 568935,
       "num": 333053,
       "word": "易烊千玺的金丝眼镜",
@@ -1860,7 +1884,7 @@
     },
     {
       "raw_hot": 567548,
-      "num": 301982,
+      "num": 350025,
       "word": "杨幂官宣加盟当燃青春",
       "onboard_time": 1682648368,
       "rank": 20,
@@ -1977,6 +2001,14 @@
       "onboard_time": 1682498426,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523951,
+      "num": 523951,
+      "word": "谷爱凌Angelababy合影",
+      "onboard_time": 1682649866,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 522478,
@@ -3707,6 +3739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 328144,
+      "num": 328144,
+      "word": "罗云熙宋轶CP名金戈铁马",
+      "onboard_time": 1682649506,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328022,
       "num": 328022,
       "word": "爱奇艺 灌篮高手",
@@ -4147,6 +4187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296764,
+      "num": 296764,
+      "word": "虹桥火车站",
+      "onboard_time": 1682650948,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296119,
       "num": 280871,
       "word": "华晨宇方告黑胜诉",
@@ -4393,6 +4441,14 @@
       "onboard_time": 1682470471,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 276860,
+      "num": 276860,
+      "word": "你也有今天官宣开机",
+      "onboard_time": 1682650648,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 276609,
@@ -4939,6 +4995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253633,
+      "num": 253633,
+      "word": "东北虎牙疼得每天用脸抵住地面",
+      "onboard_time": 1682650888,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253082,
       "num": 253082,
       "word": "女性如何更好的享受两性关系",
@@ -5096,6 +5160,14 @@
       "word": "时代少年团或将出演英雄联盟",
       "onboard_time": 1682315608,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 246185,
+      "num": 246185,
+      "word": "今天有六部电影上映",
+      "onboard_time": 1682650347,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -5971,6 +6043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209467,
+      "num": 209467,
+      "word": "逆水寒手游",
+      "onboard_time": 1682650828,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209113,
       "num": 261600,
       "word": "星穹铁道倒计时",
@@ -6451,6 +6531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196465,
+      "num": 196465,
+      "word": "当燃青春",
+      "onboard_time": 1682650648,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196342,
       "num": 196342,
       "word": "好翰莫提当年勇",
@@ -6681,14 +6769,6 @@
       "onboard_time": 1682391746,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190848,
-      "num": 190848,
-      "word": "丫丫回国第一晚过得怎么样",
-      "onboard_time": 1682649388,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190774,
@@ -7537,6 +7617,14 @@
       "onboard_time": 1682312433,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170955,
+      "num": 170955,
+      "word": "不要道德绑架淄博",
+      "onboard_time": 1682651188,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 170824,
@@ -8747,14 +8835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138495,
-      "num": 138495,
-      "word": "罗云熙宋轶CP名金戈铁马",
-      "onboard_time": 1682649506,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137799,
       "num": 137799,
       "word": "ChatGPT这是你写的吗",
@@ -8777,6 +8857,14 @@
       "onboard_time": 1682405487,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137030,
+      "num": 137030,
+      "word": "宝妈地铁哺乳女乘客自发组人墙",
+      "onboard_time": 1682651549,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137022,
@@ -9059,6 +9147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127327,
+      "num": 127327,
+      "word": "毕业班同学为临产老师偷偷策划的惊喜",
+      "onboard_time": 1682651790,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 127303,
       "num": 127303,
       "word": "柯基从包里翻出主人毕业证后咬烂",
@@ -9073,6 +9169,14 @@
       "onboard_time": 1682579186,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 127007,
+      "num": 127007,
+      "word": "杨紫最新代言物料图",
+      "onboard_time": 1682651847,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 126801,
@@ -9393,14 +9497,6 @@
       "onboard_time": 1682265869,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114558,
-      "num": 114558,
-      "word": "大陆没电影吗",
-      "onboard_time": 1682649686,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 114513,
@@ -10251,20 +10347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26584,
+      "num": 2460423,
+      "word": "五一出行实用贴士",
+      "onboard_time": 1682560405,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24845,
       "num": 24845,
       "word": "SEVENTEEN孙悟空MV",
       "onboard_time": 1682362273,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23658,
-      "num": 2460423,
-      "word": "五一出行实用贴士",
-      "onboard_time": 1682560405,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22364,

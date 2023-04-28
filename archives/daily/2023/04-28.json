@@ -1,7 +1,15 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682649843465,
+  "endTime": 1682651900306,
   "band_list": [
+    {
+      "raw_hot": 3037560,
+      "num": 3037560,
+      "word": "拼多多被曝临时确定五一放假三天",
+      "onboard_time": 1682646929,
+      "rank": 0,
+      "category": "科技,财经"
+    },
     {
       "raw_hot": 2815975,
       "num": 2815975,
@@ -17,14 +25,6 @@
       "onboard_time": 1682643510,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2078707,
-      "num": 2078707,
-      "word": "拼多多被曝临时确定五一放假三天",
-      "onboard_time": 1682646929,
-      "rank": 0,
-      "category": "科技,财经"
     },
     {
       "raw_hot": 2047261,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1587127,
-      "num": 488554,
+      "num": 530814,
       "word": "肖战喝酒了",
       "onboard_time": 1682640867,
       "rank": 10,
@@ -147,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832983,
+      "num": 832983,
+      "word": "首都机场多人尾随跟拍艺人被传唤",
+      "onboard_time": 1682647767,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706137,
       "num": 706137,
       "word": "鹿晗纹身像拔罐",
       "onboard_time": 1682604631,
       "rank": 9,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 695151,
-      "num": 695151,
-      "word": "首都机场多人尾随跟拍艺人被传唤",
-      "onboard_time": 1682647767,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632493,
@@ -171,6 +171,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 622254,
+      "num": 622254,
+      "word": "重庆大客车侧翻致20人受伤",
+      "onboard_time": 1682650409,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594263,
+      "num": 594263,
+      "word": "丫丫回国第一晚过得怎么样",
+      "onboard_time": 1682649388,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590173,
       "num": 590173,
       "word": "潍坊文旅局长淄博烧烤摊疯狂揽客",
@@ -179,8 +195,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571439,
+      "num": 313855,
+      "word": "大陆没电影吗",
+      "onboard_time": 1682649686,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 567548,
-      "num": 301982,
+      "num": 350025,
       "word": "杨幂官宣加盟当燃青春",
       "onboard_time": 1682648368,
       "rank": 20,
@@ -193,6 +217,14 @@
       "onboard_time": 1682601629,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 523951,
+      "num": 523951,
+      "word": "谷爱凌Angelababy合影",
+      "onboard_time": 1682649866,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 491126,
@@ -283,6 +315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 328144,
+      "num": 328144,
+      "word": "罗云熙宋轶CP名金戈铁马",
+      "onboard_time": 1682649506,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326013,
       "num": 326013,
       "word": "丫丫回国后安排",
@@ -307,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296764,
+      "num": 296764,
+      "word": "虹桥火车站",
+      "onboard_time": 1682650948,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288320,
       "num": 288320,
       "word": "YG新女团为5人组",
       "onboard_time": 1682646746,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276860,
+      "num": 276860,
+      "word": "你也有今天官宣开机",
+      "onboard_time": 1682650648,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 276609,
@@ -355,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253633,
+      "num": 253633,
+      "word": "东北虎牙疼得每天用脸抵住地面",
+      "onboard_time": 1682650888,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253076,
       "num": 253076,
       "word": "想脱单可以试试周末去爬山",
@@ -369,6 +433,14 @@
       "onboard_time": 1682648968,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246185,
+      "num": 246185,
+      "word": "今天有六部电影上映",
+      "onboard_time": 1682650347,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 239955,
@@ -443,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209467,
+      "num": 209467,
+      "word": "逆水寒手游",
+      "onboard_time": 1682650828,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208523,
       "num": 208523,
       "word": "倪妮 好顶的脸",
@@ -481,6 +561,14 @@
       "onboard_time": 1682595688,
       "rank": 28,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 196465,
+      "num": 196465,
+      "word": "当燃青春",
+      "onboard_time": 1682650648,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 194637,
@@ -523,14 +611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190848,
-      "num": 190848,
-      "word": "丫丫回国第一晚过得怎么样",
-      "onboard_time": 1682649388,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188366,
       "num": 188366,
       "word": "天津德云社",
@@ -555,20 +635,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 181884,
+      "num": 181884,
+      "word": "易烊千玺呆毛",
+      "onboard_time": 1682648306,
+      "rank": 31,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 176836,
       "num": 176836,
       "word": "丫丫脸贴镜头好萌",
       "onboard_time": 1682638527,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175727,
-      "num": 175727,
-      "word": "易烊千玺呆毛",
-      "onboard_time": 1682648306,
-      "rank": 31,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 175508,
@@ -593,6 +673,14 @@
       "onboard_time": 1682608770,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170955,
+      "num": 170955,
+      "word": "不要道德绑架淄博",
+      "onboard_time": 1682651188,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 170524,
@@ -723,20 +811,20 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 138495,
-      "num": 138495,
-      "word": "罗云熙宋轶CP名金戈铁马",
-      "onboard_time": 1682649506,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137698,
       "num": 137698,
       "word": "朱一龙又拿奖了",
       "onboard_time": 1682604992,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 137030,
+      "num": 137030,
+      "word": "宝妈地铁哺乳女乘客自发组人墙",
+      "onboard_time": 1682651549,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136399,
@@ -779,6 +867,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127327,
+      "num": 127327,
+      "word": "毕业班同学为临产老师偷偷策划的惊喜",
+      "onboard_time": 1682651790,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 127007,
+      "num": 127007,
+      "word": "杨紫最新代言物料图",
+      "onboard_time": 1682651847,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122223,
       "num": 122223,
       "word": "王雷对男一号的执念",
@@ -817,14 +921,6 @@
       "onboard_time": 1682590349,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 114558,
-      "num": 114558,
-      "word": "大陆没电影吗",
-      "onboard_time": 1682649686,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 111992,
@@ -955,7 +1051,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23658,
+      "raw_hot": 26584,
       "num": 2135478,
       "word": "五一出行实用贴士",
       "onboard_time": 1682560405,
