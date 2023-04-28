@@ -1,0 +1,410 @@
+{
+  "runTime": 1682724810760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 976660,
+        "num": 976660,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 0,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 660330,
+        "num": 660330,
+        "word": "著名相声演员李建华去世",
+        "onboard_time": 1682693555,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36848,
+        "num": 569162,
+        "word": "传统村落集中连片保护利用示范名单",
+        "onboard_time": 1682690732,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525808,
+        "num": 525808,
+        "word": "淄博烧烤最后如何收场",
+        "onboard_time": 1682675791,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 473190,
+        "num": 473190,
+        "word": "谢娜说你宁愿相信一张纸都不相信我",
+        "onboard_time": 1682695055,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362097,
+        "num": 362097,
+        "word": "突然明白了发朋友圈的意义",
+        "onboard_time": 1682679090,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354060,
+        "num": 354060,
+        "word": "全资进组的演职员表",
+        "onboard_time": 1682697810,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 353809,
+        "num": 353809,
+        "word": "向往的生活最后一季",
+        "onboard_time": 1682692593,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303540,
+        "num": 333288,
+        "word": "小丫去世",
+        "onboard_time": 1682677109,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290944,
+        "num": 331156,
+        "word": "南京南站",
+        "onboard_time": 1682684551,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523753,
+        "num": 330778,
+        "word": "北京已严重拥堵",
+        "onboard_time": 1682681249,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330224,
+        "num": 330224,
+        "word": "宋慧乔 妍珍呐我得奖了",
+        "onboard_time": 1682684610,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 316925,
+        "num": 316925,
+        "word": "上岸后室友就不和我说话了",
+        "onboard_time": 1682689353,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 284412,
+        "num": 284412,
+        "word": "你拿下视后我拿下男主",
+        "onboard_time": 1682723961,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204744,
+        "num": 204744,
+        "word": "在淄博吃烧烤偶遇检查",
+        "onboard_time": 1682719817,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182868,
+        "num": 182868,
+        "word": "结婚以后的好处",
+        "onboard_time": 1682696490,
+        "rank": 15,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 171363,
+        "num": 171363,
+        "word": "原来何炅都老花了",
+        "onboard_time": 1682688812,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162659,
+        "num": 162659,
+        "word": "薛之谦南京演唱会",
+        "onboard_time": 1682685149,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148918,
+        "num": 148918,
+        "word": "杜兰特与耐克签下终身合同",
+        "onboard_time": 1682723721,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143120,
+        "num": 143120,
+        "word": "杀我别用小熊猫刀",
+        "onboard_time": 1682689955,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178835,
+        "num": 142791,
+        "word": "这是今晚八点的杭州东站",
+        "onboard_time": 1682723180,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142030,
+        "num": 142030,
+        "word": "你会怀念2018年的夏天吗",
+        "onboard_time": 1682694813,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136126,
+        "num": 136126,
+        "word": "千万粉丝宅男女神被大叔男友骗1个亿",
+        "onboard_time": 1682695172,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121673,
+        "num": 121673,
+        "word": "丫丫的眼睛亮晶晶",
+        "onboard_time": 1682674228,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116699,
+        "num": 116699,
+        "word": "女子登山崴脚被巡山小妖抬下山",
+        "onboard_time": 1682704157,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 111629,
+        "num": 111629,
+        "word": "淄博万人烧烤城",
+        "onboard_time": 1682685689,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111280,
+        "num": 111280,
+        "word": "花花为何会成为顶流",
+        "onboard_time": 1682698468,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105738,
+        "num": 105738,
+        "word": "北京地铁2号线7号线上行今夜不停运",
+        "onboard_time": 1682689712,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102494,
+        "num": 102494,
+        "word": "沈腾 最近一切都挺好哈",
+        "onboard_time": 1682688392,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96159,
+        "num": 96159,
+        "word": "肖战上海vlog",
+        "onboard_time": 1682692772,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178385,
+        "num": 96146,
+        "word": "五一假期第1天",
+        "onboard_time": 1682724323,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133180,
+        "num": 95810,
+        "word": "杭州东站除上海方向其余车票均已售罄",
+        "onboard_time": 1682723299,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95314,
+        "num": 95314,
+        "word": "浪漫医生金师傅",
+        "onboard_time": 1682694393,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94114,
+        "num": 94114,
+        "word": "陈都灵看不下去了",
+        "onboard_time": 1682677589,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91415,
+        "num": 91415,
+        "word": "赵丽颖的小揪揪",
+        "onboard_time": 1682690973,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90108,
+        "num": 90108,
+        "word": "这是哪个国家的肉夹馍",
+        "onboard_time": 1682723362,
+        "rank": 35,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 86184,
+        "num": 86184,
+        "word": "汤唯再获百想影后",
+        "onboard_time": 1682680049,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 84166,
+        "num": 84166,
+        "word": "奥斯卡获奖导演希望和易烊千玺合作",
+        "onboard_time": 1682697868,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83538,
+        "num": 83538,
+        "word": "张大大说白鹿赢了比赛输了朋友",
+        "onboard_time": 1682708893,
+        "rank": 38,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 74782,
+        "num": 74782,
+        "word": "林彦俊是颜人中演唱会嘉宾",
+        "onboard_time": 1682694033,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72335,
+        "num": 72335,
+        "word": "北京首都机场启动一级响应",
+        "onboard_time": 1682713452,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71772,
+        "num": 71772,
+        "word": "深圳地铁一男子拽头发殴打女乘客",
+        "onboard_time": 1682707035,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67860,
+        "num": 67860,
+        "word": "环球影城偶遇倪妮娜扎",
+        "onboard_time": 1682710513,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67681,
+        "num": 67681,
+        "word": "深圳地铁",
+        "onboard_time": 1682699546,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66219,
+        "num": 66219,
+        "word": "朱令近况",
+        "onboard_time": 1682696431,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64717,
+        "num": 64717,
+        "word": "王一博红毯生图",
+        "onboard_time": 1682686051,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 61502,
+        "num": 61502,
+        "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
+        "onboard_time": 1682698768,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61376,
+        "num": 61376,
+        "word": "张嘉倪的锁骨",
+        "onboard_time": 1682693255,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 56884,
+        "num": 56884,
+        "word": "汪小敏笑容好甜",
+        "onboard_time": 1682724199,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56710,
+        "num": 56710,
+        "word": "Rookie",
+        "onboard_time": 1682681550,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#秉持公正立场彰显大国担当#"
+    }
+  }
+}
