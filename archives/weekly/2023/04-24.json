@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682681602609,
+  "endTime": 1682685102042,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -177,6 +177,14 @@
       "onboard_time": 1682677109,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2748712,
+      "num": 2748712,
+      "word": "宋慧乔 妍珍呐我得奖了",
+      "onboard_time": 1682684610,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2731879,
@@ -955,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1304642,
+      "num": 1304642,
+      "word": "北京已严重拥堵",
+      "onboard_time": 1682681249,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1304179,
       "num": 836685,
       "word": "男子怀疑妻子出轨拧松其车胎酿车祸",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1682511747,
       "rank": 27,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 753524,
+      "num": 753524,
+      "word": "Rookie",
+      "onboard_time": 1682681550,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 751930,
@@ -3683,6 +3707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383499,
+      "num": 383499,
+      "word": "足协原副主席李毓毅被查",
+      "onboard_time": 1682684310,
+      "rank": 15,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 382664,
       "num": 382664,
       "word": "东南大学纪委回应一领导发色情照",
@@ -5019,6 +5051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281419,
+      "num": 281419,
+      "word": "柳俊烈百想影帝",
+      "onboard_time": 1682682751,
+      "rank": 22,
+      "category": "影视,影视"
+    },
+    {
       "raw_hot": 280376,
       "num": 280376,
       "word": "Lisa撩伴舞",
@@ -5961,6 +6001,14 @@
       "onboard_time": 1682590167,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241215,
+      "num": 241215,
+      "word": "突然明白了发朋友圈的意义",
+      "onboard_time": 1682679090,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 241160,
@@ -6907,6 +6955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205965,
+      "num": 205965,
+      "word": "声生不息",
+      "onboard_time": 1682684069,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205848,
       "num": 205848,
       "word": "原来长月烬明的明是声明的明",
@@ -7515,6 +7571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192801,
+      "num": 192801,
+      "word": "长空之王票房",
+      "onboard_time": 1682680290,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192505,
       "num": 192505,
       "word": "黄子韬问宁静和那英谁性格更不好",
@@ -7560,14 +7624,6 @@
       "word": "长空之王官宣全球上映",
       "onboard_time": 1682645426,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 191340,
-      "num": 191340,
-      "word": "长空之王票房",
-      "onboard_time": 1682680290,
-      "rank": 41,
       "category": "影视"
     },
     {
@@ -7945,6 +8001,14 @@
       "onboard_time": 1682660309,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 184335,
+      "num": 184335,
+      "word": "WB对战DRG",
+      "onboard_time": 1682683587,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 184108,
@@ -8419,14 +8483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 173267,
-      "num": 173267,
-      "word": "突然明白了发朋友圈的意义",
-      "onboard_time": 1682679090,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 173012,
       "num": 173012,
       "word": "万达地产集团成老赖被强执超10亿",
@@ -8859,6 +8915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160640,
+      "num": 160640,
+      "word": "黑暗荣耀值得",
+      "onboard_time": 1682682390,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160429,
       "num": 160429,
       "word": "四川瓦屋山首次发现猛禽之王",
@@ -8889,6 +8953,14 @@
       "onboard_time": 1682586092,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 160077,
+      "num": 143688,
+      "word": "邓超没认出来陈赫",
+      "onboard_time": 1682682992,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 159981,
@@ -9281,14 +9353,6 @@
       "onboard_time": 1682674289,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148778,
-      "num": 148778,
-      "word": "Rookie",
-      "onboard_time": 1682681550,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 148635,
@@ -10379,6 +10443,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 119476,
+      "num": 119476,
+      "word": "南京南站",
+      "onboard_time": 1682684551,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118870,
       "num": 118870,
       "word": "杜华说选择比努力重要",
@@ -10777,6 +10849,14 @@
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99934,
+      "num": 387837,
+      "word": "北影节红毯最佳造型",
+      "onboard_time": 1682683228,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 98499,
