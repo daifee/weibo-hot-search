@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682674426353,
+  "endTime": 1682677094160,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2062230,
-      "num": 646085,
+      "num": 737923,
       "word": "青春没有售价 薛之谦无座直达南京",
       "onboard_time": 1682652149,
       "rank": 11,
@@ -65,6 +65,14 @@
       "onboard_time": 1682603009,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1978637,
+      "num": 1978637,
+      "word": "对方撤回了一个宝宝",
+      "onboard_time": 1682668886,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1900013,
@@ -139,14 +147,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 1382177,
-      "num": 1382177,
-      "word": "对方撤回了一个宝宝",
-      "onboard_time": 1682668886,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1333830,
       "num": 1333830,
       "word": "谢娜说生完孩子长高了",
@@ -187,6 +187,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1125715,
+      "num": 1125715,
+      "word": "孙俪曾被质疑甲亢去医院检查",
+      "onboard_time": 1682673868,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1096991,
       "num": 1096991,
       "word": "丫丫一到机场就收到了竹子",
@@ -219,6 +227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 977560,
+      "num": 977560,
+      "word": "Ella C位",
+      "onboard_time": 1682672910,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 950665,
       "num": 669071,
       "word": "薛之谦 挤挤就到",
@@ -241,6 +257,14 @@
       "onboard_time": 1682662405,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 892515,
+      "num": 1222483,
+      "word": "90后书记员凭朋友圈成功出圈",
+      "onboard_time": 1682675428,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 862921,
@@ -289,14 +313,6 @@
       "onboard_time": 1682665945,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 730002,
-      "num": 730002,
-      "word": "Ella C位",
-      "onboard_time": 1682672910,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 706137,
@@ -355,12 +371,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 598984,
+      "num": 598984,
+      "word": "秀智黑天鹅",
+      "onboard_time": 1682674408,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 594374,
       "num": 594374,
       "word": "杭州高铁站",
       "onboard_time": 1682669427,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594286,
+      "num": 594286,
+      "word": "宋慧乔优雅大气",
+      "onboard_time": 1682673268,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 594263,
@@ -451,20 +483,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 500313,
+      "num": 500313,
+      "word": "虐待动物 入刑",
+      "onboard_time": 1682675609,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493965,
       "num": 493965,
       "word": "乘风2023定档官宣",
       "onboard_time": 1682654908,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 492470,
-      "num": 492470,
-      "word": "宋慧乔优雅大气",
-      "onboard_time": 1682673268,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 491126,
@@ -555,12 +587,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 422005,
-      "num": 422005,
-      "word": "孙俪曾被质疑甲亢去医院检查",
-      "onboard_time": 1682673868,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 422166,
+      "num": 422166,
+      "word": "新版MBTI",
+      "onboard_time": 1682676029,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 421941,
@@ -627,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386334,
+      "num": 1023235,
+      "word": "丫丫的眼睛亮晶晶",
+      "onboard_time": 1682674228,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386323,
       "num": 386323,
       "word": "张彬彬PDD",
@@ -683,6 +723,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359311,
+      "num": 359311,
+      "word": "堵车",
+      "onboard_time": 1682674588,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358809,
       "num": 280030,
       "word": "肖战舒淇合照",
@@ -723,8 +771,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 330403,
-      "num": 330403,
+      "raw_hot": 335380,
+      "num": 335380,
       "word": "尹锡悦称赞美军在长津湖战役中突围",
       "onboard_time": 1682671708,
       "rank": 30,
@@ -795,6 +843,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301746,
+      "num": 259879,
+      "word": "SEVENTEEN孙悟空音银舞台",
+      "onboard_time": 1682676688,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298841,
       "num": 298841,
       "word": "拼多多",
@@ -859,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283498,
+      "num": 283498,
+      "word": "金智媛好美",
+      "onboard_time": 1682676448,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276860,
       "num": 276860,
       "word": "你也有今天官宣开机",
@@ -913,6 +977,14 @@
       "onboard_time": 1682665826,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265119,
+      "num": 265119,
+      "word": "长空之王",
+      "onboard_time": 1682676029,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 255008,
@@ -1131,6 +1203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 208137,
+      "num": 208137,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 208052,
       "num": 208052,
       "word": "何猷君亲王嘉尔",
@@ -1347,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 178210,
+      "num": 932148,
+      "word": "女孩考满分兑冰淇淋后再买个送同伴",
+      "onboard_time": 1682675909,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178175,
       "num": 178175,
       "word": "王子奇看王玉雯的眼神",
@@ -1395,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170753,
-      "num": 170753,
-      "word": "秀智黑天鹅",
-      "onboard_time": 1682674408,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 170524,
       "num": 153289,
       "word": "孟菲斯动物园游客希望其他大熊猫能再来",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1682606132,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167228,
+      "num": 167228,
+      "word": "罗云熙宋轶开机路透",
+      "onboard_time": 1682676929,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 166064,
@@ -1457,6 +1545,22 @@
       "onboard_time": 1682600310,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 161816,
+      "num": 161816,
+      "word": "刘宇宁这次成功守护爱情了",
+      "onboard_time": 1682674588,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 161790,
+      "num": 161790,
+      "word": "百想艺术大赏",
+      "onboard_time": 1682670988,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160429,
@@ -1835,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39665,
+      "num": 1161951,
+      "word": "数字经济事关国家发展大局",
+      "onboard_time": 1682673752,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37358,
       "num": 37358,
       "word": "接丫丫回家",
@@ -1867,14 +1979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29194,
-      "num": 1027777,
-      "word": "数字经济事关国家发展大局",
-      "onboard_time": 1682673752,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26584,
       "num": 2135478,
       "word": "五一出行实用贴士",
@@ -1889,6 +1993,14 @@
       "onboard_time": 1682599589,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 17146,
+      "num": 596112,
+      "word": "这些大放异彩的明星妆容",
+      "onboard_time": 1682676029,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 11605,

@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682674426353,
+  "endTime": 1682677094160,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2036,7 +2036,7 @@
     },
     {
       "raw_hot": 2062230,
-      "num": 646085,
+      "num": 737923,
       "word": "青春没有售价 薛之谦无座直达南京",
       "onboard_time": 1682652149,
       "rank": 11,
@@ -2281,6 +2281,14 @@
       "onboard_time": 1680489868,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1978637,
+      "num": 1978637,
+      "word": "对方撤回了一个宝宝",
+      "onboard_time": 1682668886,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1974616,
@@ -4403,14 +4411,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 1382177,
-      "num": 1382177,
-      "word": "对方撤回了一个宝宝",
-      "onboard_time": 1682668886,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1381692,
       "num": 676705,
       "word": "福原爱和男友从豪宅搬出",
@@ -5691,6 +5691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1125715,
+      "num": 1125715,
+      "word": "孙俪曾被质疑甲亢去医院检查",
+      "onboard_time": 1682673868,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1123745,
       "num": 383781,
       "word": "歪哥 蒲熠星",
@@ -6763,6 +6771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 977560,
+      "num": 977560,
+      "word": "Ella C位",
+      "onboard_time": 1682672910,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 977214,
       "num": 977214,
       "word": "电商主播年薪千万降到年薪百万",
@@ -7697,6 +7713,14 @@
       "onboard_time": 1681890807,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 892515,
+      "num": 1222483,
+      "word": "90后书记员凭朋友圈成功出圈",
+      "onboard_time": 1682675428,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 891877,
@@ -9785,14 +9809,6 @@
       "onboard_time": 1681956809,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 730002,
-      "num": 730002,
-      "word": "Ella C位",
-      "onboard_time": 1682672910,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 729640,
@@ -12675,6 +12691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598984,
+      "num": 598984,
+      "word": "秀智黑天鹅",
+      "onboard_time": 1682674408,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 598934,
       "num": 598934,
       "word": "美生物实验室感染病毒的小白鼠逃了",
@@ -12817,6 +12841,14 @@
       "onboard_time": 1682669427,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594286,
+      "num": 594286,
+      "word": "宋慧乔优雅大气",
+      "onboard_time": 1682673268,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 594263,
@@ -15747,6 +15779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500313,
+      "num": 500313,
+      "word": "虐待动物 入刑",
+      "onboard_time": 1682675609,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500210,
       "num": 243854,
       "word": "面包店赠试吃吐司块被顾客差评",
@@ -16065,14 +16105,6 @@
       "onboard_time": 1680927447,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 492470,
-      "num": 492470,
-      "word": "宋慧乔优雅大气",
-      "onboard_time": 1682673268,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 492152,
@@ -19363,12 +19395,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 422005,
-      "num": 422005,
-      "word": "孙俪曾被质疑甲亢去医院检查",
-      "onboard_time": 1682673868,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 422166,
+      "num": 422166,
+      "word": "新版MBTI",
+      "onboard_time": 1682676029,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 421941,
@@ -21635,6 +21667,14 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 386334,
+      "num": 1023235,
+      "word": "丫丫的眼睛亮晶晶",
+      "onboard_time": 1682674228,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386287,
       "num": 1483397,
       "word": "浙江小学生看到罂粟报警",
@@ -23105,6 +23145,14 @@
       "onboard_time": 1681305450,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359311,
+      "num": 359311,
+      "word": "堵车",
+      "onboard_time": 1682674588,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359119,
@@ -24699,6 +24747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 335380,
+      "num": 335380,
+      "word": "尹锡悦称赞美军在长津湖战役中突围",
+      "onboard_time": 1682671708,
+      "rank": 30,
+      "category": "国内要闻,社会新闻"
+    },
+    {
       "raw_hot": 334767,
       "num": 334767,
       "word": "App Store",
@@ -25057,14 +25113,6 @@
       "onboard_time": 1681744826,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330403,
-      "num": 330403,
-      "word": "尹锡悦称赞美军在长津湖战役中突围",
-      "onboard_time": 1682671708,
-      "rank": 30,
-      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 330373,
@@ -27243,6 +27291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 301746,
+      "num": 259879,
+      "word": "SEVENTEEN孙悟空音银舞台",
+      "onboard_time": 1682676688,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301560,
       "num": 301560,
       "word": "养猫的千万不要买这个凳子",
@@ -28865,6 +28921,14 @@
       "onboard_time": 1682598867,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 283498,
+      "num": 283498,
+      "word": "金智媛好美",
+      "onboard_time": 1682676448,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 283484,
@@ -30512,6 +30576,14 @@
       "word": "白鹿武戏没做满意哭了",
       "onboard_time": 1681130126,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 265119,
+      "num": 265119,
+      "word": "长空之王",
+      "onboard_time": 1681715367,
+      "rank": 25,
       "category": "影视"
     },
     {
@@ -34209,14 +34281,6 @@
       "onboard_time": 1682218166,
       "rank": 29,
       "category": "体育,影视"
-    },
-    {
-      "raw_hot": 233775,
-      "num": 217025,
-      "word": "长空之王",
-      "onboard_time": 1681715367,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 233710,
@@ -38289,6 +38353,14 @@
       "onboard_time": 1681363349,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208137,
+      "num": 208137,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 208106,
@@ -48003,6 +48075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 178210,
+      "num": 932148,
+      "word": "女孩考满分兑冰淇淋后再买个送同伴",
+      "onboard_time": 1682675909,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178195,
       "num": 178195,
       "word": "五月天演唱会求婚现场",
@@ -49411,14 +49491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170753,
-      "num": 170753,
-      "word": "秀智黑天鹅",
-      "onboard_time": 1682674408,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 170730,
       "num": 170730,
       "word": "有必要和朋友说真实收入吗",
@@ -50089,6 +50161,14 @@
       "onboard_time": 1681375109,
       "rank": 37,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 167228,
+      "num": 167228,
+      "word": "罗云熙宋轶开机路透",
+      "onboard_time": 1682676929,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 167218,
@@ -51257,6 +51337,14 @@
       "onboard_time": 1682466443,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161816,
+      "num": 161816,
+      "word": "刘宇宁这次成功守护爱情了",
+      "onboard_time": 1682674588,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 161790,
@@ -64579,6 +64667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39665,
+      "num": 1161951,
+      "word": "数字经济事关国家发展大局",
+      "onboard_time": 1682673752,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39552,
       "num": 358121,
       "word": "你最期待谁画的明星妆容",
@@ -64891,14 +64987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29194,
-      "num": 1027777,
-      "word": "数字经济事关国家发展大局",
-      "onboard_time": 1682673752,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29045,
       "num": 27509,
       "word": "三丽鸥明星人气评选",
@@ -65089,6 +65177,14 @@
       "onboard_time": 1681966834,
       "rank": 14,
       "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 17146,
+      "num": 596112,
+      "word": "这些大放异彩的明星妆容",
+      "onboard_time": 1682676029,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 17126,
