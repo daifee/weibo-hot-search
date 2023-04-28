@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682645072348,
+  "endTime": 1682646479402,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -4947,6 +4947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1236259,
+      "num": 1236259,
+      "word": "因业绩好被扣9000多",
+      "onboard_time": 1682640750,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1229910,
       "num": 1229910,
       "word": "因为聚餐吃太多被辞退了",
@@ -4961,14 +4969,6 @@
       "onboard_time": 1681389510,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1228623,
-      "num": 1228623,
-      "word": "因业绩好被扣9000多",
-      "onboard_time": 1682640750,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 1227617,
@@ -6121,6 +6121,14 @@
       "onboard_time": 1682089831,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1040190,
+      "num": 1040190,
+      "word": "淄博烧烤店下跪老板与顾客和解",
+      "onboard_time": 1682611885,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1039901,
@@ -7481,14 +7489,6 @@
       "onboard_time": 1680697351,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 897412,
-      "num": 897412,
-      "word": "淄博烧烤店下跪老板与顾客和解",
-      "onboard_time": 1682611885,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 897112,
@@ -20811,6 +20811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393350,
+      "num": 393350,
+      "word": "Angelababy黑色挂脖露腰长裙",
+      "onboard_time": 1682645066,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 393327,
       "num": 393327,
       "word": "咸蛋黄月亮",
@@ -21553,6 +21561,14 @@
       "onboard_time": 1680396986,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379660,
+      "num": 379660,
+      "word": "颜心记",
+      "onboard_time": 1681370608,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 379511,
@@ -22608,6 +22624,14 @@
       "word": "澹台烬撞脸白雪公主的王后",
       "onboard_time": 1680824066,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 359559,
+      "num": 359559,
+      "word": "颜心记拾影识心海报",
+      "onboard_time": 1682644827,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -29051,6 +29075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273859,
+      "num": 243690,
+      "word": "丫丫住进了隔离检疫圈舍空调房",
+      "onboard_time": 1682645968,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273841,
       "num": 273841,
       "word": "车银优韩素希同框",
@@ -29193,6 +29225,14 @@
       "onboard_time": 1681097609,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271966,
+      "num": 271966,
+      "word": "同事结婚行政到工位挨个收礼金",
+      "onboard_time": 1682620454,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271773,
@@ -29409,14 +29449,6 @@
       "onboard_time": 1680661650,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 269960,
-      "num": 269960,
-      "word": "同事结婚行政到工位挨个收礼金",
-      "onboard_time": 1682620454,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269910,
@@ -30889,14 +30921,6 @@
       "onboard_time": 1682566766,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 255674,
-      "num": 255674,
-      "word": "颜心记",
-      "onboard_time": 1681370608,
-      "rank": 26,
-      "category": "影视"
     },
     {
       "raw_hot": 255295,
@@ -35731,6 +35755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218309,
+      "num": 218309,
+      "word": "五一这些景点已约满",
+      "onboard_time": 1682644591,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218265,
       "num": 218265,
       "word": "杨幂读剧本随拍",
@@ -36667,14 +36699,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 212140,
-      "num": 212140,
-      "word": "颜心记拾影识心海报",
-      "onboard_time": 1682644827,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 212063,
       "num": 212063,
       "word": "易烊千玺嘉人五月刊封面预告",
@@ -36825,6 +36849,14 @@
       "onboard_time": 1680737363,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211396,
+      "num": 160005,
+      "word": "我入不了仙门",
+      "onboard_time": 1682645128,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 211364,
@@ -39192,6 +39224,14 @@
       "word": "兄弟堂",
       "onboard_time": 1681448310,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203279,
+      "num": 203279,
+      "word": "丫丫回国为何关注度这么高",
+      "onboard_time": 1682645008,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -43203,6 +43243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192487,
+      "num": 192487,
+      "word": "颜心记全员初见",
+      "onboard_time": 1682645727,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192438,
       "num": 192438,
       "word": "画出你心中的长空之王",
@@ -43496,6 +43544,14 @@
       "word": "爱情而已小狗开会",
       "onboard_time": 1680614493,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 191473,
+      "num": 191473,
+      "word": "长空之王官宣全球上映",
+      "onboard_time": 1682645426,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -50707,6 +50763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160022,
+      "num": 160022,
+      "word": "为什么大家不再发朋友圈了",
+      "onboard_time": 1682646326,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159997,
       "num": 159997,
       "word": "赵露思黄衣遮阳帽视频",
@@ -52721,6 +52785,14 @@
       "onboard_time": 1680479004,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149819,
+      "num": 149819,
+      "word": "中国公民视频记录坐军舰撤离苏丹过程",
+      "onboard_time": 1682645667,
+      "rank": 35,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 149739,
@@ -55075,14 +55147,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 138612,
-      "num": 138612,
-      "word": "五一这些景点已约满",
-      "onboard_time": 1682644591,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138597,
       "num": 138597,
       "word": "魏如萱魔性笑声",
@@ -55601,14 +55665,6 @@
       "onboard_time": 1681199787,
       "rank": 43,
       "category": "科技"
-    },
-    {
-      "raw_hot": 135689,
-      "num": 135689,
-      "word": "丫丫回国为何关注度这么高",
-      "onboard_time": 1682645008,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135563,
@@ -56545,14 +56601,6 @@
       "onboard_time": 1682068590,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129992,
-      "num": 129992,
-      "word": "Angelababy黑色挂脖露腰长裙",
-      "onboard_time": 1682645066,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 129925,
@@ -58401,6 +58449,14 @@
       "onboard_time": 1680934284,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118534,
+      "num": 118534,
+      "word": "民宿五一为涨价谎称因嫖娼被查封",
+      "onboard_time": 1682646390,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118460,
@@ -63057,6 +63113,14 @@
       "onboard_time": 1680651140,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 54555,
+      "num": 141120,
+      "word": "如何破解特种兵式家庭出游",
+      "onboard_time": 1682645790,
+      "rank": 37,
+      "category": "社会议题,幽默"
     },
     {
       "raw_hot": 54546,

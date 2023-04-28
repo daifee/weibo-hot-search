@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682645072348,
+  "endTime": 1682646479402,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -883,20 +883,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1236259,
+      "num": 1236259,
+      "word": "因业绩好被扣9000多",
+      "onboard_time": 1682640750,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1229910,
       "num": 1229910,
       "word": "因为聚餐吃太多被辞退了",
       "onboard_time": 1682408067,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1228623,
-      "num": 1228623,
-      "word": "因业绩好被扣9000多",
-      "onboard_time": 1682640750,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 1227617,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1682380165,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1040190,
+      "num": 1040190,
+      "word": "淄博烧烤店下跪老板与顾客和解",
+      "onboard_time": 1682611885,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1039901,
@@ -1240,14 +1248,6 @@
       "word": "丫丫回国航线熊猫趴飞机上",
       "onboard_time": 1682583327,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 897412,
-      "num": 897412,
-      "word": "淄博烧烤店下跪老板与顾客和解",
-      "onboard_time": 1682611885,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -3035,6 +3035,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 393350,
+      "num": 393350,
+      "word": "Angelababy黑色挂脖露腰长裙",
+      "onboard_time": 1682645066,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 392777,
       "num": 392777,
       "word": "孙珍妮的文笔",
@@ -3163,6 +3171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379660,
+      "num": 379660,
+      "word": "颜心记",
+      "onboard_time": 1682645426,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 377652,
       "num": 377652,
       "word": "李延贺涉嫌危害国家安全被调查",
@@ -3251,6 +3267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 365082,
+      "num": 365082,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1682646447,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 364515,
       "num": 364515,
       "word": "威少失误",
@@ -3305,6 +3329,14 @@
       "onboard_time": 1682553385,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359559,
+      "num": 359559,
+      "word": "颜心记拾影识心海报",
+      "onboard_time": 1682644827,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 358726,
@@ -4339,6 +4371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273859,
+      "num": 243690,
+      "word": "丫丫住进了隔离检疫圈舍空调房",
+      "onboard_time": 1682645968,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272868,
       "num": 272868,
       "word": "武庚纪直播",
@@ -4361,6 +4401,14 @@
       "onboard_time": 1682413766,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271966,
+      "num": 271966,
+      "word": "同事结婚行政到工位挨个收礼金",
+      "onboard_time": 1682620454,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271602,
@@ -4393,14 +4441,6 @@
       "onboard_time": 1682558607,
       "rank": 48,
       "category": "科技"
-    },
-    {
-      "raw_hot": 269960,
-      "num": 269960,
-      "word": "同事结婚行政到工位挨个收礼金",
-      "onboard_time": 1682620454,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269295,
@@ -5603,6 +5643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218309,
+      "num": 218309,
+      "word": "五一这些景点已约满",
+      "onboard_time": 1682644591,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218230,
       "num": 218230,
       "word": "王者荣耀",
@@ -5763,14 +5811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212140,
-      "num": 212140,
-      "word": "颜心记拾影识心海报",
-      "onboard_time": 1682644827,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 211694,
       "num": 211694,
       "word": "铃铛",
@@ -5793,6 +5833,14 @@
       "onboard_time": 1682592752,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211396,
+      "num": 160005,
+      "word": "我入不了仙门",
+      "onboard_time": 1682645128,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 211292,
@@ -6033,6 +6081,14 @@
       "onboard_time": 1682522189,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203279,
+      "num": 203279,
+      "word": "丫丫回国为何关注度这么高",
+      "onboard_time": 1682645008,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203208,
@@ -6475,6 +6531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192487,
+      "num": 192487,
+      "word": "颜心记全员初见",
+      "onboard_time": 1682645727,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191706,
       "num": 191706,
       "word": "詹姆斯22分20篮板",
@@ -6489,6 +6553,14 @@
       "onboard_time": 1682408908,
       "rank": 24,
       "category": "科技"
+    },
+    {
+      "raw_hot": 191473,
+      "num": 191473,
+      "word": "长空之王官宣全球上映",
+      "onboard_time": 1682645426,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 191142,
@@ -7675,6 +7747,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 160022,
+      "num": 160022,
+      "word": "为什么大家不再发朋友圈了",
+      "onboard_time": 1682646326,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159981,
       "num": 159981,
       "word": "KPL春季赛十一周最佳阵容",
@@ -7985,6 +8065,14 @@
       "onboard_time": 1682473349,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 149819,
+      "num": 149819,
+      "word": "中国公民视频记录坐军舰撤离苏丹过程",
+      "onboard_time": 1682645667,
+      "rank": 35,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 149732,
@@ -8515,14 +8603,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 138612,
-      "num": 138612,
-      "word": "五一这些景点已约满",
-      "onboard_time": 1682644591,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138573,
       "num": 138573,
       "word": "医院回应女子称遭医生猥亵",
@@ -8585,14 +8665,6 @@
       "onboard_time": 1682298565,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135689,
-      "num": 135689,
-      "word": "丫丫回国为何关注度这么高",
-      "onboard_time": 1682645008,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135563,
@@ -8809,14 +8881,6 @@
       "onboard_time": 1682418689,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 129992,
-      "num": 129992,
-      "word": "Angelababy黑色挂脖露腰长裙",
-      "onboard_time": 1682645066,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 129925,
@@ -9105,6 +9169,14 @@
       "onboard_time": 1682579127,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118534,
+      "num": 118534,
+      "word": "民宿五一为涨价谎称因嫖娼被查封",
+      "onboard_time": 1682646390,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118363,
@@ -9921,6 +9993,14 @@
       "onboard_time": 1682442496,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 54555,
+      "num": 141120,
+      "word": "如何破解特种兵式家庭出游",
+      "onboard_time": 1682645790,
+      "rank": 37,
+      "category": "社会议题,幽默"
     },
     {
       "raw_hot": 46519,
