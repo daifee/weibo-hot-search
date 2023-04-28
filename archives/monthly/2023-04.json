@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682685102042,
+  "endTime": 1682686076983,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3467,6 +3467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1585004,
+      "num": 1585004,
+      "word": "北京已严重拥堵",
+      "onboard_time": 1682681249,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1584064,
       "num": 550694,
       "word": "沈月 湖师大",
@@ -4761,14 +4769,6 @@
       "onboard_time": 1681829911,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1304642,
-      "num": 1304642,
-      "word": "北京已严重拥堵",
-      "onboard_time": 1682681249,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1304633,
@@ -8233,6 +8233,14 @@
       "onboard_time": 1681086628,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853099,
+      "num": 853099,
+      "word": "薛之谦南京演唱会",
+      "onboard_time": 1682685149,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 852862,
@@ -12251,6 +12259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 620821,
+      "num": 476435,
+      "word": "史航性骚扰",
+      "onboard_time": 1682685269,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619979,
       "num": 619979,
       "word": "张艺兴牵羊",
@@ -14729,6 +14745,14 @@
       "onboard_time": 1681964552,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534518,
+      "num": 534518,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 534352,
@@ -17281,14 +17305,6 @@
       "onboard_time": 1681012350,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 467555,
-      "num": 467555,
-      "word": "淄博烧烤最后如何收场",
-      "onboard_time": 1682675791,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 467176,
@@ -25451,6 +25467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 327514,
+      "num": 327514,
+      "word": "南京南站",
+      "onboard_time": 1682684551,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327447,
       "num": 327447,
       "word": "章昊以为自己是第二名",
@@ -29185,6 +29209,14 @@
       "onboard_time": 1682178691,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281718,
+      "num": 211166,
+      "word": "王一博红毯生图",
+      "onboard_time": 1682686051,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 281701,
@@ -47699,6 +47731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180636,
+      "num": 180636,
+      "word": "邓超没认出来陈赫",
+      "onboard_time": 1682682992,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180635,
       "num": 180635,
       "word": "宫胁咲良对拖延症患者的建议",
@@ -50483,6 +50523,14 @@
       "category": "军事,国内要闻"
     },
     {
+      "raw_hot": 166172,
+      "num": 150008,
+      "word": "分手的决心",
+      "onboard_time": 1682685512,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166115,
       "num": 166115,
       "word": "王源健身vlog",
@@ -51905,14 +51953,6 @@
       "onboard_time": 1682586092,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 160077,
-      "num": 143688,
-      "word": "邓超没认出来陈赫",
-      "onboard_time": 1682682992,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 160071,
@@ -58683,6 +58723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125520,
+      "num": 387837,
+      "word": "北影节红毯最佳造型",
+      "onboard_time": 1682683228,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125504,
       "num": 125504,
       "word": "耄耋老人为一群特殊孩子再创业",
@@ -59563,14 +59611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119476,
-      "num": 119476,
-      "word": "南京南站",
-      "onboard_time": 1682684551,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119461,
       "num": 119461,
       "word": "奔跑吧全员脸颊比心接力",
@@ -59801,6 +59841,14 @@
       "onboard_time": 1682629152,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117365,
+      "num": 117365,
+      "word": "淄博万人烧烤城",
+      "onboard_time": 1682685689,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117198,
@@ -61849,14 +61897,6 @@
       "onboard_time": 1681433187,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99934,
-      "num": 387837,
-      "word": "北影节红毯最佳造型",
-      "onboard_time": 1682683228,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 99910,
@@ -65765,6 +65805,9 @@
     },
     {
       "word": "#1035人获全国五一劳动奖章#"
+    },
+    {
+      "word": "#始终不渝坚持党的领导#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682685102042,
+  "endTime": 1682686076983,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1585004,
+      "num": 1585004,
+      "word": "北京已严重拥堵",
+      "onboard_time": 1682681249,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1575031,
       "num": 1309355,
       "word": "崔永元",
@@ -193,14 +201,6 @@
       "onboard_time": 1682659529,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1304642,
-      "num": 1304642,
-      "word": "北京已严重拥堵",
-      "onboard_time": 1682681249,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1221257,
@@ -315,6 +315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 853099,
+      "num": 853099,
+      "word": "薛之谦南京演唱会",
+      "onboard_time": 1682685149,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 843463,
       "num": 843463,
       "word": "乐乐死因报告的情况说明",
@@ -409,6 +417,14 @@
       "onboard_time": 1682587288,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 620821,
+      "num": 476435,
+      "word": "史航性骚扰",
+      "onboard_time": 1682685269,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 617962,
@@ -539,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 534518,
+      "num": 534518,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 532264,
       "num": 532264,
       "word": "虐待动物 入刑",
@@ -593,14 +617,6 @@
       "onboard_time": 1682646390,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467555,
-      "num": 467555,
-      "word": "淄博烧烤最后如何收场",
-      "onboard_time": 1682675791,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 459146,
@@ -867,6 +883,14 @@
       "category": "国内要闻,社会新闻"
     },
     {
+      "raw_hot": 327514,
+      "num": 327514,
+      "word": "南京南站",
+      "onboard_time": 1682684551,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326013,
       "num": 326013,
       "word": "丫丫回国后安排",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1682658028,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281718,
+      "num": 211166,
+      "word": "王一博红毯生图",
+      "onboard_time": 1682686051,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 281419,
@@ -1587,6 +1619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180636,
+      "num": 180636,
+      "word": "邓超没认出来陈赫",
+      "onboard_time": 1682682992,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179807,
       "num": 179807,
       "word": "不懂可以问千万别瞎用",
@@ -1675,6 +1715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166172,
+      "num": 150008,
+      "word": "分手的决心",
+      "onboard_time": 1682685512,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166064,
       "num": 166064,
       "word": "曾可妮希望曾可妮能挺进四公",
@@ -1745,14 +1793,6 @@
       "onboard_time": 1682681128,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160077,
-      "num": 143688,
-      "word": "邓超没认出来陈赫",
-      "onboard_time": 1682682992,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 158669,
@@ -1963,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125520,
+      "num": 387837,
+      "word": "北影节红毯最佳造型",
+      "onboard_time": 1682683228,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122223,
       "num": 122223,
       "word": "王雷对男一号的执念",
@@ -1971,20 +2019,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 119476,
-      "num": 119476,
-      "word": "南京南站",
-      "onboard_time": 1682684551,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117418,
       "num": 117418,
       "word": "美国GDP",
       "onboard_time": 1682629152,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 117365,
+      "num": 117365,
+      "word": "淄博万人烧烤城",
+      "onboard_time": 1682685689,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117079,
@@ -2009,14 +2057,6 @@
       "onboard_time": 1682640507,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99934,
-      "num": 387837,
-      "word": "北影节红毯最佳造型",
-      "onboard_time": 1682683228,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 98499,
@@ -2260,6 +2300,9 @@
     },
     {
       "word": "#第六届数字中国建设峰会#"
+    },
+    {
+      "word": "#始终不渝坚持党的领导#"
     }
   ]
 }
