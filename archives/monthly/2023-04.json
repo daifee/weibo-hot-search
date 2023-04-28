@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682670853092,
+  "endTime": 1682673412958,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2515,6 +2515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1881189,
+      "num": 1881189,
+      "word": "江歌妈妈看望章莹颖父母",
+      "onboard_time": 1682669128,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1874488,
       "num": 1874488,
       "word": "新加坡鞭刑",
@@ -2775,6 +2783,14 @@
       "num": 1777098,
       "word": "于正说赵丽颖85花演技第一名",
       "onboard_time": 1682221828,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1776801,
+      "num": 1271611,
+      "word": "沈腾 生病",
+      "onboard_time": 1682668166,
       "rank": 4,
       "category": "艺人"
     },
@@ -4433,14 +4449,6 @@
       "onboard_time": 1681029148,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1368433,
-      "num": 1271611,
-      "word": "沈腾 生病",
-      "onboard_time": 1682668166,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1368182,
@@ -6323,6 +6331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1020952,
+      "num": 1020952,
+      "word": "谁给易烊千玺化的妆",
+      "onboard_time": 1682670506,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1019871,
       "num": 1019871,
       "word": "日本90名国会议员集体参拜靖国神社",
@@ -6561,14 +6577,6 @@
       "onboard_time": 1682338709,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 998488,
-      "num": 998488,
-      "word": "江歌妈妈看望章莹颖父母",
-      "onboard_time": 1682669128,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 998153,
@@ -6969,6 +6977,14 @@
       "onboard_time": 1680428668,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 952513,
+      "num": 952513,
+      "word": "对方撤回了一个宝宝",
+      "onboard_time": 1682668886,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 952414,
@@ -12785,6 +12801,14 @@
       "onboard_time": 1682319509,
       "rank": 9,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 594374,
+      "num": 594374,
+      "word": "杭州高铁站",
+      "onboard_time": 1682669427,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594263,
@@ -18995,6 +19019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426680,
+      "num": 426680,
+      "word": "满江红",
+      "onboard_time": 1682671226,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
       "raw_hot": 426563,
       "num": 426563,
       "word": "萌探3礼貌式阵容官宣",
@@ -20211,6 +20243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 408324,
+      "num": 408324,
+      "word": "汤唯气质",
+      "onboard_time": 1682672368,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 408094,
       "num": 408094,
       "word": "哇唧唧哇",
@@ -20369,6 +20409,14 @@
       "onboard_time": 1681179143,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405153,
+      "num": 405153,
+      "word": "广州地铁",
+      "onboard_time": 1682671169,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405079,
@@ -20579,14 +20627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 402218,
-      "num": 348826,
-      "word": "对方撤回了一个宝宝",
-      "onboard_time": 1682668886,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 402204,
       "num": 358241,
       "word": "小米回应被乌列入俄国际赞助商名单",
@@ -20649,14 +20689,6 @@
       "onboard_time": 1681126348,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 400625,
-      "num": 400625,
-      "word": "谁给易烊千玺化的妆",
-      "onboard_time": 1682670506,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 400512,
@@ -21763,14 +21795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 384124,
-      "num": 384124,
-      "word": "杭州高铁站",
-      "onboard_time": 1682669427,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384034,
       "num": 384034,
       "word": "易烊千玺双蜡像同台释出",
@@ -21889,6 +21913,14 @@
       "onboard_time": 1681485570,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380971,
+      "num": 380971,
+      "word": "丫丫吃的竹子来自湖州安吉",
+      "onboard_time": 1682668648,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380827,
@@ -24585,14 +24617,6 @@
       "onboard_time": 1680936327,
       "rank": 15,
       "category": "音乐,社会新闻"
-    },
-    {
-      "raw_hot": 336507,
-      "num": 336507,
-      "word": "丫丫吃的竹子来自湖州安吉",
-      "onboard_time": 1682668648,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336144,
@@ -28107,6 +28131,14 @@
       "category": "美食,情感"
     },
     {
+      "raw_hot": 290535,
+      "num": 290535,
+      "word": "乘风3造型vs乘风4造型",
+      "onboard_time": 1682670866,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290428,
       "num": 239655,
       "word": "多架民航客机在苏丹被击中",
@@ -28673,6 +28705,14 @@
       "onboard_time": 1682391806,
       "rank": 36,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 284749,
+      "num": 284749,
+      "word": "Ella C位",
+      "onboard_time": 1682672910,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 284698,
@@ -30121,6 +30161,14 @@
       "onboard_time": 1680918750,
       "rank": 25,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 268919,
+      "num": 242752,
+      "word": "尹锡悦称赞美军在长津湖战役中突围",
+      "onboard_time": 1682671708,
+      "rank": 30,
+      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 268466,
@@ -32891,6 +32939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243692,
+      "num": 243692,
+      "word": "男子称入住酒店发现床上有血迹",
+      "onboard_time": 1682672308,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243649,
       "num": 243649,
       "word": "周雨彤为演戏去公司坐班",
@@ -33377,6 +33433,14 @@
       "onboard_time": 1681513878,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239537,
+      "num": 239537,
+      "word": "老人坐店门休闲被女司机误撞身亡",
+      "onboard_time": 1682671949,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239489,
@@ -35539,6 +35603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223408,
+      "num": 223408,
+      "word": "宋慧乔优雅大气",
+      "onboard_time": 1682673268,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223375,
       "num": 223375,
       "word": "杨紫琼获戛纳电影节跃动她影奖",
@@ -37337,6 +37409,14 @@
       "onboard_time": 1681637845,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 212339,
+      "num": 212339,
+      "word": "爱情公寓破事精英梦幻联动",
+      "onboard_time": 1682672788,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 212327,
@@ -62147,6 +62227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 93035,
+      "num": 147580,
+      "word": "更适合中国宝宝体质的旅游",
+      "onboard_time": 1682668285,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 92990,
       "num": 92990,
       "word": "宋三川霸气保护梁友安",
@@ -63281,14 +63369,6 @@
       "onboard_time": 1681703968,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 71094,
-      "num": 147580,
-      "word": "更适合中国宝宝体质的旅游",
-      "onboard_time": 1682668285,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 70599,

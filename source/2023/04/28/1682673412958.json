@@ -1,0 +1,410 @@
+{
+  "runTime": 1682673412958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1881189,
+        "num": 1881189,
+        "word": "江歌妈妈看望章莹颖父母",
+        "onboard_time": 1682669128,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1020952,
+        "num": 1020952,
+        "word": "谁给易烊千玺化的妆",
+        "onboard_time": 1682670506,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32300,
+        "num": 961424,
+        "word": "裸眼3D看中国空间站",
+        "onboard_time": 1682652209,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1776801,
+        "num": 957564,
+        "word": "沈腾 生病",
+        "onboard_time": 1682668166,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 952513,
+        "num": 952513,
+        "word": "对方撤回了一个宝宝",
+        "onboard_time": 1682668886,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 875924,
+        "num": 875924,
+        "word": "张嘉倪吴倩镜头",
+        "onboard_time": 1682659529,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 834189,
+        "num": 834189,
+        "word": "12306众生平等",
+        "onboard_time": 1682656352,
+        "rank": 6,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 827165,
+        "num": 827165,
+        "word": "李亚鹏称为自己的错误买单",
+        "onboard_time": 1682664567,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 668688,
+        "num": 668688,
+        "word": "杨颖跳了flower",
+        "onboard_time": 1682665945,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 594374,
+        "num": 594374,
+        "word": "杭州高铁站",
+        "onboard_time": 1682669427,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965700,
+        "num": 567968,
+        "word": "青春没有售价 薛之谦无座直达南京",
+        "onboard_time": 1682652149,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 536372,
+        "num": 536372,
+        "word": "为什么今年五一如此疯狂",
+        "onboard_time": 1682666187,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426680,
+        "num": 426680,
+        "word": "满江红",
+        "onboard_time": 1682671226,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 408324,
+        "num": 408324,
+        "word": "汤唯气质",
+        "onboard_time": 1682672368,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 405153,
+        "num": 405153,
+        "word": "广州地铁",
+        "onboard_time": 1682671169,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380971,
+        "num": 380971,
+        "word": "丫丫吃的竹子来自湖州安吉",
+        "onboard_time": 1682668648,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372550,
+        "num": 372550,
+        "word": "丫丫回家后吃饭吃得好香",
+        "onboard_time": 1682608409,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365726,
+        "num": 365726,
+        "word": "给淄博烧烤泼一盆冷水",
+        "onboard_time": 1682636722,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320275,
+        "num": 320275,
+        "word": "谁把范丞丞扔高铁站了",
+        "onboard_time": 1682666305,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 298813,
+        "num": 298813,
+        "word": "如何看待杰克辣条的道歉",
+        "onboard_time": 1682657851,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 804721,
+        "num": 296059,
+        "word": "杰克辣条 虐猫",
+        "onboard_time": 1682652149,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 290535,
+        "num": 290535,
+        "word": "乘风3造型vs乘风4造型",
+        "onboard_time": 1682670866,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288257,
+        "num": 288257,
+        "word": "infp",
+        "onboard_time": 1682670148,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284749,
+        "num": 284749,
+        "word": "Ella C位",
+        "onboard_time": 1682672910,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279389,
+        "num": 279389,
+        "word": "北京冰雹",
+        "onboard_time": 1682669246,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264469,
+        "num": 264469,
+        "word": "谢娜说生完孩子长高了",
+        "onboard_time": 1682657250,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259393,
+        "num": 259393,
+        "word": "杰克辣条经纪公司回应",
+        "onboard_time": 1682663065,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 255989,
+        "num": 255989,
+        "word": "女人最好的医美",
+        "onboard_time": 1682667147,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247016,
+        "num": 247016,
+        "word": "高铁坐成了地铁的感觉",
+        "onboard_time": 1682662287,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243692,
+        "num": 243692,
+        "word": "男子称入住酒店发现床上有血迹",
+        "onboard_time": 1682672308,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268919,
+        "num": 242752,
+        "word": "尹锡悦称赞美军在长津湖战役中突围",
+        "onboard_time": 1682671708,
+        "rank": 30,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 239537,
+        "num": 239537,
+        "word": "老人坐店门休闲被女司机误撞身亡",
+        "onboard_time": 1682671949,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223408,
+        "num": 223408,
+        "word": "宋慧乔优雅大气",
+        "onboard_time": 1682673268,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 212897,
+        "num": 212897,
+        "word": "拼多多被曝临时确定五一放假三天",
+        "onboard_time": 1682646929,
+        "rank": 33,
+        "category": "科技,财经"
+      },
+      {
+        "raw_hot": 212339,
+        "num": 212339,
+        "word": "爱情公寓破事精英梦幻联动",
+        "onboard_time": 1682672788,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 209047,
+        "num": 209047,
+        "word": "谷爱凌Angelababy合影",
+        "onboard_time": 1682649866,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 208297,
+        "num": 208297,
+        "word": "杰克辣条B站账号被贴上违法标签",
+        "onboard_time": 1682662527,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 205342,
+        "num": 205342,
+        "word": "男子偷猫后拍虐猫视频被治安拘留",
+        "onboard_time": 1682661146,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192187,
+        "num": 192187,
+        "word": "朋友圈已经没有了生活的痕迹",
+        "onboard_time": 1682603009,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173442,
+        "num": 173442,
+        "word": "肖战Billkin同框",
+        "onboard_time": 1682660729,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171788,
+        "num": 171788,
+        "word": "两名未成年人在熊猫基地被严重警告",
+        "onboard_time": 1682659227,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167017,
+        "num": 167017,
+        "word": "一千万重读高三你愿意吗",
+        "onboard_time": 1682655811,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165703,
+        "num": 165703,
+        "word": "丫丫",
+        "onboard_time": 1682658809,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157701,
+        "num": 157701,
+        "word": "因业绩好被扣9000多",
+        "onboard_time": 1682640750,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145304,
+        "num": 145304,
+        "word": "豫章书院案重审宣判",
+        "onboard_time": 1682669850,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143196,
+        "num": 143196,
+        "word": "权志龙来了都得站第三排",
+        "onboard_time": 1682659050,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139932,
+        "num": 139932,
+        "word": "三十岁的李莎旻子",
+        "onboard_time": 1682664685,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138696,
+        "num": 138696,
+        "word": "迪丽热巴评论区模仿营销号",
+        "onboard_time": 1682656829,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93035,
+        "num": 131962,
+        "word": "更适合中国宝宝体质的旅游",
+        "onboard_time": 1682668285,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 58819,
+        "num": 126845,
+        "word": "竹节包",
+        "onboard_time": 1682641829,
+        "rank": 49,
+        "category": "时尚,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#1035人获全国五一劳动奖章#"
+    }
+  }
+}
