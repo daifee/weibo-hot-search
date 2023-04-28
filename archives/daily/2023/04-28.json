@@ -1,6 +1,6 @@
 {
   "startTime": 1682612441709,
-  "endTime": 1682660013563,
+  "endTime": 1682662930060,
   "band_list": [
     {
       "raw_hot": 3037560,
@@ -27,6 +27,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2500460,
+      "num": 2500460,
+      "word": "12306众生平等",
+      "onboard_time": 1682656352,
+      "rank": 41,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 2277222,
       "num": 2277222,
       "word": "鹿晗肖战坐一起",
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2062230,
-      "num": 544689,
+      "num": 579872,
       "word": "青春没有售价 薛之谦无座直达南京",
       "onboard_time": 1682652149,
       "rank": 11,
@@ -57,14 +65,6 @@
       "onboard_time": 1682603009,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1904899,
-      "num": 1904899,
-      "word": "12306众生平等",
-      "onboard_time": 1682656352,
-      "rank": 41,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 1587127,
@@ -123,8 +123,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1271456,
-      "num": 1271456,
+      "raw_hot": 1302087,
+      "num": 1302087,
       "word": "谢娜说生完孩子长高了",
       "onboard_time": 1682657250,
       "rank": 6,
@@ -161,6 +161,14 @@
       "onboard_time": 1682654965,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 959901,
+      "num": 959901,
+      "word": "张嘉倪吴倩镜头",
+      "onboard_time": 1682659529,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 950665,
@@ -243,8 +251,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 607388,
+      "num": 607388,
+      "word": "男子偷猫后拍虐猫视频被治安拘留",
+      "onboard_time": 1682661146,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604841,
-      "num": 203181,
+      "num": 285689,
       "word": "易烊千玺Angelababy谷爱凌合照",
       "onboard_time": 1682659949,
       "rank": 30,
@@ -313,6 +329,14 @@
       "onboard_time": 1682654010,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 544990,
+      "num": 544990,
+      "word": "李亚鹏被强制执行4000万",
+      "onboard_time": 1682662405,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 515319,
@@ -403,6 +427,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 391953,
+      "num": 391953,
+      "word": "贾静雯好美",
+      "onboard_time": 1682659648,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 390699,
+      "num": 390699,
+      "word": "两名未成年人在熊猫基地被严重警告",
+      "onboard_time": 1682659227,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387999,
+      "num": 387999,
+      "word": "五一后离婚财产分割新规",
+      "onboard_time": 1682660968,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387347,
       "num": 387347,
       "word": "入职不到一年成为部门顶梁柱",
@@ -457,6 +505,22 @@
       "onboard_time": 1682605470,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 355867,
+      "num": 355867,
+      "word": "肖战Billkin同框",
+      "onboard_time": 1682660729,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 351570,
+      "num": 351570,
+      "word": "南柱赫否认校暴视频",
+      "onboard_time": 1682659826,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 349951,
@@ -539,6 +603,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 297438,
+      "num": 297438,
+      "word": "权志龙来了都得站第三排",
+      "onboard_time": 1682659050,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288320,
       "num": 288320,
       "word": "YG新女团为5人组",
@@ -577,14 +649,6 @@
       "onboard_time": 1682645968,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273348,
-      "num": 273348,
-      "word": "张嘉倪吴倩镜头",
-      "onboard_time": 1682659529,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 271966,
@@ -635,20 +699,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245169,
-      "num": 245169,
-      "word": "权志龙来了都得站第三排",
-      "onboard_time": 1682659050,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 239955,
       "num": 239955,
       "word": "丫丫回国为何关注度这么高",
       "onboard_time": 1682645008,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239350,
+      "num": 239350,
+      "word": "王源全包眼线烟熏妆",
+      "onboard_time": 1682661808,
+      "rank": 28,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 229906,
@@ -715,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217415,
+      "num": 217415,
+      "word": "伍佰巡演",
+      "onboard_time": 1682662825,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 217382,
       "num": 217382,
       "word": "盛夏光年",
@@ -729,6 +801,14 @@
       "onboard_time": 1682583327,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215539,
+      "num": 215539,
+      "word": "曾黎有多少个手机壳",
+      "onboard_time": 1682660309,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 214152,
@@ -753,6 +833,14 @@
       "onboard_time": 1682602469,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211388,
+      "num": 211388,
+      "word": "娜扎说陈见夏这名儿好听",
+      "onboard_time": 1682662167,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209583,
@@ -803,28 +891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203118,
-      "num": 203118,
-      "word": "南柱赫否认校暴视频",
-      "onboard_time": 1682659826,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202021,
       "num": 202021,
       "word": "billkin上海",
       "onboard_time": 1682648906,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201694,
-      "num": 201694,
-      "word": "两名未成年人在熊猫基地被严重警告",
-      "onboard_time": 1682659227,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200821,
@@ -849,14 +921,6 @@
       "onboard_time": 1682595688,
       "rank": 28,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 197200,
-      "num": 197200,
-      "word": "贾静雯好美",
-      "onboard_time": 1682659648,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196465,
@@ -889,6 +953,14 @@
       "onboard_time": 1682608229,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193989,
+      "num": 193989,
+      "word": "朱珠走秀气场",
+      "onboard_time": 1682660968,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 192487,
@@ -971,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177833,
+      "num": 177833,
+      "word": "高铁坐成了地铁的感觉",
+      "onboard_time": 1682662287,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177615,
       "num": 177615,
       "word": "毕业班同学为临产老师偷偷策划的惊喜",
@@ -1027,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167010,
+      "num": 167010,
+      "word": "虞书欣粉纱挂脖上衣",
+      "onboard_time": 1682660309,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163919,
       "num": 163919,
       "word": "不考虑价格你最想买的东西",
@@ -1041,6 +1129,14 @@
       "onboard_time": 1682642910,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162777,
+      "num": 162777,
+      "word": "MBTI",
+      "onboard_time": 1682662706,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 162263,
@@ -1331,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62798,
+      "num": 174056,
+      "word": "五一出游避坑口诀",
+      "onboard_time": 1682661625,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54555,
       "num": 141120,
       "word": "如何破解特种兵式家庭出游",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1682634258,
       "rank": 49,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 42137,
+      "num": 124817,
+      "word": "万物皆可三月七",
+      "onboard_time": 1682660429,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 37358,
