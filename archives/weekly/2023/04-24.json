@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682703205607,
+  "endTime": 1682706017540,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -11835,12 +11835,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48415,
+      "num": 48415,
+      "word": "谢广坤对乔欣说哈尔滨姑娘都漂亮",
+      "onboard_time": 1682703798,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 46519,
       "num": 399993,
       "word": "女星红毯妆容大招",
       "onboard_time": 1682514028,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 46366,
+      "num": 46366,
+      "word": "女子登山崴脚被巡山小妖抬下山",
+      "onboard_time": 1682704157,
+      "rank": 38,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 44177,
