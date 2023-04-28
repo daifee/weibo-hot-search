@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682699841706,
+  "endTime": 1682702143454,
   "band_list": [
     {
       "raw_hot": 1238255,
@@ -99,20 +99,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 383669,
+      "num": 383669,
+      "word": "全资进组的演职员表",
+      "onboard_time": 1682697810,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 373546,
       "num": 373546,
       "word": "千万粉丝宅男女神被大叔男友骗1个亿",
       "onboard_time": 1682695172,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 370860,
-      "num": 370860,
-      "word": "全资进组的演职员表",
-      "onboard_time": 1682697810,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 364304,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246220,
+      "num": 246220,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 243511,
       "num": 207297,
       "word": "沈腾 最近一切都挺好哈",
@@ -185,14 +193,6 @@
       "onboard_time": 1682685689,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226976,
-      "num": 226976,
-      "word": "淄博烧烤最后如何收场",
-      "onboard_time": 1682675791,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 222232,
@@ -227,19 +227,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198581,
+      "num": 187131,
+      "word": "花花为何会成为顶流",
+      "onboard_time": 1682698468,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187427,
       "num": 187427,
       "word": "朱令近况",
       "onboard_time": 1682696431,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187131,
-      "num": 187131,
-      "word": "花花为何会成为顶流",
-      "onboard_time": 1682698468,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105028,
+      "num": 140856,
+      "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
+      "onboard_time": 1682698768,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103022,
       "num": 141085,
       "word": "金智媛好美",
@@ -337,14 +345,6 @@
       "onboard_time": 1682677707,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93055,
-      "num": 140856,
-      "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
-      "onboard_time": 1682698768,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89481,
@@ -371,12 +371,60 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72888,
+      "num": 116268,
+      "word": "深圳地铁",
+      "onboard_time": 1682699546,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72520,
+      "num": 72520,
+      "word": "马嘉祺说你看到的我就是我的样子",
+      "onboard_time": 1682699484,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68183,
       "num": 140909,
       "word": "给淄博烧烤泼一盆冷水",
       "onboard_time": 1682636722,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62736,
+      "num": 68232,
+      "word": "林智妍感谢李到晛",
+      "onboard_time": 1682680228,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 61438,
+      "num": 72585,
+      "word": "看上去很拽其实内里脆弱",
+      "onboard_time": 1682699425,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 59711,
+      "num": 68129,
+      "word": "陆虎巡演",
+      "onboard_time": 1682695709,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 55877,
+      "num": 116280,
+      "word": "这个开门姿势也太妖娆了",
+      "onboard_time": 1682698290,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 54195,
@@ -387,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 52827,
-      "num": 116280,
-      "word": "这个开门姿势也太妖娆了",
-      "onboard_time": 1682698290,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 51645,
       "num": 140768,
       "word": "12306众生平等",
@@ -403,12 +443,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 44472,
-      "num": 116268,
-      "word": "深圳地铁",
-      "onboard_time": 1682699546,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 46679,
+      "num": 116244,
+      "word": "我的两个极端",
+      "onboard_time": 1682699725,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 39816,
@@ -425,19 +465,14 @@
       "onboard_time": 1682697989,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 39209,
-      "num": 116244,
-      "word": "我的两个极端",
-      "onboard_time": 1682699725,
-      "rank": 49,
-      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
     {
       "word": "#始终不渝坚持党的领导#"
+    },
+    {
+      "word": "#秉持公正立场彰显大国担当#"
     }
   ]
 }
