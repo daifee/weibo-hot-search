@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682667202346,
+  "endTime": 1682670071157,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1059,6 +1059,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1163065,
+      "num": 1163065,
+      "word": "沈腾 生病",
+      "onboard_time": 1682668166,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1158577,
       "num": 1158577,
       "word": "鹿晗纹身像拔罐",
@@ -1555,6 +1563,14 @@
       "category": "教育,社会议题"
     },
     {
+      "raw_hot": 768057,
+      "num": 768057,
+      "word": "杨颖跳了flower",
+      "onboard_time": 1682665945,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 766170,
       "num": 766170,
       "word": "王者荣耀 妲己",
@@ -2017,6 +2033,14 @@
       "onboard_time": 1682656829,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 564202,
+      "num": 564202,
+      "word": "为什么今年五一如此疯狂",
+      "onboard_time": 1682666187,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560491,
@@ -2691,6 +2715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 459146,
+      "num": 459146,
+      "word": "谁把范丞丞扔高铁站了",
+      "onboard_time": 1682666305,
+      "rank": 24,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 458688,
       "num": 458688,
       "word": "新冠二次感染会影响五一出行吗",
@@ -3097,6 +3129,14 @@
       "onboard_time": 1682485828,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 415810,
+      "num": 415810,
+      "word": "江歌妈妈看望章莹颖父母",
+      "onboard_time": 1682669128,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414973,
@@ -3563,6 +3603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370274,
+      "num": 304759,
+      "word": "对方撤回了一个宝宝",
+      "onboard_time": 1682668886,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 368959,
       "num": 368959,
       "word": "迪丽热巴在袖子上夹夹子",
@@ -3625,6 +3673,14 @@
       "onboard_time": 1682430752,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 361440,
+      "num": 361440,
+      "word": "女人最好的医美",
+      "onboard_time": 1682667147,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 360389,
@@ -3841,14 +3897,6 @@
       "onboard_time": 1682331447,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 345595,
-      "num": 345595,
-      "word": "杨颖跳了flower",
-      "onboard_time": 1682665945,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 344103,
@@ -4491,6 +4539,14 @@
       "category": "科技,财经"
     },
     {
+      "raw_hot": 298762,
+      "num": 227153,
+      "word": "丫丫吃的竹子来自湖州安吉",
+      "onboard_time": 1682668648,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297438,
       "num": 297438,
       "word": "权志龙来了都得站第三排",
@@ -4521,6 +4577,14 @@
       "onboard_time": 1682488707,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 294050,
+      "num": 224238,
+      "word": "夫胜宽写给文彬的信",
+      "onboard_time": 1682669548,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 292956,
@@ -4891,6 +4955,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 269645,
+      "num": 269645,
+      "word": "陈冰的腰线",
+      "onboard_time": 1682665826,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269295,
       "num": 269295,
       "word": "长月烬明女性角色",
@@ -4905,14 +4977,6 @@
       "onboard_time": 1682391024,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268375,
-      "num": 268375,
-      "word": "谁把范丞丞扔高铁站了",
-      "onboard_time": 1682666305,
-      "rank": 24,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 268327,
@@ -5139,6 +5203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258575,
+      "num": 258575,
+      "word": "杰克辣条B站账号被贴上违法标签",
+      "onboard_time": 1682662527,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258113,
       "num": 258113,
       "word": "快把王一博的嘴堵上",
@@ -5171,14 +5243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 257270,
-      "num": 257270,
-      "word": "杰克辣条B站账号被贴上违法标签",
-      "onboard_time": 1682662527,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257206,
       "num": 257206,
       "word": "当你和法国人解释五一调休",
@@ -5209,14 +5273,6 @@
       "onboard_time": 1682346630,
       "rank": 31,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 256296,
-      "num": 256296,
-      "word": "为什么今年五一如此疯狂",
-      "onboard_time": 1682666187,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256162,
@@ -5851,14 +5907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 233175,
-      "num": 233175,
-      "word": "陈冰的腰线",
-      "onboard_time": 1682665826,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233107,
       "num": 233107,
       "word": "乌鸦刺身在日本引发连锁争议",
@@ -6233,6 +6281,14 @@
       "onboard_time": 1682474609,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217578,
+      "num": 217578,
+      "word": "北京冰雹",
+      "onboard_time": 1682669246,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217497,
@@ -7171,6 +7227,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192803,
+      "num": 192803,
+      "word": "百想红毯",
+      "onboard_time": 1682669667,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192505,
+      "num": 192505,
+      "word": "黄子韬问宁静和那英谁性格更不好",
+      "onboard_time": 1682666006,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192487,
       "num": 192487,
       "word": "颜心记全员初见",
@@ -7763,6 +7835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180538,
+      "num": 180538,
+      "word": "杭州高铁站",
+      "onboard_time": 1682669427,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180483,
       "num": 180483,
       "word": "天赐全员灵魂画手",
@@ -7825,14 +7905,6 @@
       "onboard_time": 1682411189,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179516,
-      "num": 179516,
-      "word": "黄子韬问宁静和那英谁性格更不好",
-      "onboard_time": 1682666006,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 178468,
@@ -7993,6 +8065,14 @@
       "onboard_time": 1682477906,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175157,
+      "num": 175157,
+      "word": "豫章书院案重审宣判",
+      "onboard_time": 1682669850,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175100,
@@ -8841,6 +8921,14 @@
       "onboard_time": 1682503769,
       "rank": 40,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 149532,
+      "num": 149532,
+      "word": "倒数说爱你",
+      "onboard_time": 1682669727,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 149371,
@@ -9963,14 +10051,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 117123,
-      "num": 117123,
-      "word": "女人最好的医美",
-      "onboard_time": 1682667147,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 117079,
       "num": 117079,
       "word": "中消协点名表扬淄博",
@@ -10531,6 +10611,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 86010,
+      "num": 146800,
+      "word": "祖国风光主打一个帧帧出彩",
+      "onboard_time": 1682667088,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85172,
       "num": 1567167,
       "word": "这些文化遗存现今的模样",
@@ -10633,6 +10721,14 @@
       "onboard_time": 1682478027,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 71094,
+      "num": 147580,
+      "word": "更适合中国宝宝体质的旅游",
+      "onboard_time": 1682668285,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 70344,
@@ -10889,14 +10985,6 @@
       "onboard_time": 1682430449,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32410,
-      "num": 116546,
-      "word": "祖国风光主打一个帧帧出彩",
-      "onboard_time": 1682667088,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 31573,
