@@ -1,0 +1,410 @@
+{
+  "runTime": 1682802857735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 127676,
+        "num": 127676,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1682779171,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117062,
+        "num": 117062,
+        "word": "海底捞一门店睡满人导致无法用餐",
+        "onboard_time": 1682765909,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9918,
+        "num": 96390,
+        "word": "这是卫星视角下的美丽中国",
+        "onboard_time": 1682772513,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95192,
+        "num": 95192,
+        "word": "今年的五一疯了吗",
+        "onboard_time": 1682737949,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76975,
+        "num": 76975,
+        "word": "娜扎复刻自己的名场面",
+        "onboard_time": 1682782711,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72301,
+        "num": 72301,
+        "word": "洪崖洞",
+        "onboard_time": 1682777729,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 62401,
+        "num": 62401,
+        "word": "丫丫有堆成小山的竹子",
+        "onboard_time": 1682766687,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60052,
+        "num": 60052,
+        "word": "王源染了绿发",
+        "onboard_time": 1682771249,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 47365,
+        "num": 47365,
+        "word": "张凌赫介绍作品只提了白鹿",
+        "onboard_time": 1682778632,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44654,
+        "num": 44654,
+        "word": "张颂文看到已故经纪人照片泪目",
+        "onboard_time": 1682777791,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144893,
+        "num": 44574,
+        "word": "徐佳莹 不会再生孩子了",
+        "onboard_time": 1682782829,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97789,
+        "num": 44431,
+        "word": "女子2800元招育儿嫂雇到了幼师",
+        "onboard_time": 1682783668,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94039,
+        "num": 44424,
+        "word": "长沙官方通报买4.6斤水果少一斤",
+        "onboard_time": 1682787261,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44280,
+        "num": 44280,
+        "word": "谷爱凌发的图vsAngelababy发的图",
+        "onboard_time": 1682758649,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 41237,
+        "num": 41237,
+        "word": "龚俊 韩国",
+        "onboard_time": 1682761167,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41151,
+        "num": 41151,
+        "word": "最不成熟的行为 心情一好就原谅一切",
+        "onboard_time": 1682783909,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33135,
+        "num": 33135,
+        "word": "真的会有人一辈子不结婚吗",
+        "onboard_time": 1682773890,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32946,
+        "num": 32946,
+        "word": "外滩",
+        "onboard_time": 1682769208,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 31141,
+        "num": 31141,
+        "word": "原来熊猫摔倒的反应跟人一样",
+        "onboard_time": 1682776172,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29636,
+        "num": 29636,
+        "word": "第一个下高速的人",
+        "onboard_time": 1682795174,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35670,
+        "num": 28785,
+        "word": "新娘结婚当天蝴蝶停在手腕不走",
+        "onboard_time": 1682778452,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32823,
+        "num": 28368,
+        "word": "不考虑工作最想定居的城市",
+        "onboard_time": 1682777370,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27367,
+        "num": 27367,
+        "word": "李庚希演技",
+        "onboard_time": 1682781930,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27008,
+        "num": 27008,
+        "word": "五一假期景点现状",
+        "onboard_time": 1682797513,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 25111,
+        "num": 25111,
+        "word": "狗狗趁家里没人把零食炫光了",
+        "onboard_time": 1682782351,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25084,
+        "num": 25084,
+        "word": "大唐不夜城",
+        "onboard_time": 1682772090,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 24219,
+        "num": 24219,
+        "word": "什么才是正确的恋爱顺序",
+        "onboard_time": 1682779171,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23634,
+        "num": 23634,
+        "word": "TTG对战Hero",
+        "onboard_time": 1682767468,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21012,
+        "num": 23622,
+        "word": "奔跑吧太难懂",
+        "onboard_time": 1682785586,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20544,
+        "num": 23604,
+        "word": "张杰唱了歌迷许愿的辞海",
+        "onboard_time": 1682782950,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 53208,
+        "num": 23580,
+        "word": "男孩在学校跳蚤市场1元买回金戒指",
+        "onboard_time": 1682798052,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26003,
+        "num": 23566,
+        "word": "没想到火车上都有KTV了",
+        "onboard_time": 1682793615,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20437,
+        "num": 23526,
+        "word": "期待丫丫成为阳光开朗大女孩",
+        "onboard_time": 1682785225,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20292,
+        "num": 23498,
+        "word": "中国军队完成撤离在苏丹中国人员任务",
+        "onboard_time": 1682776892,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20189,
+        "num": 23490,
+        "word": "易烊千玺外网高清生图",
+        "onboard_time": 1682774915,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20145,
+        "num": 23474,
+        "word": "漫长的季节",
+        "onboard_time": 1682773589,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 20008,
+        "num": 23439,
+        "word": "心疼清清",
+        "onboard_time": 1682780071,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19378,
+        "num": 23408,
+        "word": "程潇录制受伤",
+        "onboard_time": 1682766146,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18081,
+        "num": 23385,
+        "word": "王一博拍长空之王肩膀出血也不吭声",
+        "onboard_time": 1682788581,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17768,
+        "num": 23382,
+        "word": "这瓜谁编的",
+        "onboard_time": 1682759665,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17285,
+        "num": 23341,
+        "word": "长空之王",
+        "onboard_time": 1682763265,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 17267,
+        "num": 23335,
+        "word": "LESSERAFIM新歌认哥初舞台",
+        "onboard_time": 1682778211,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16810,
+        "num": 23310,
+        "word": "Hero拿下TTG",
+        "onboard_time": 1682779591,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16325,
+        "num": 23287,
+        "word": "五一长沙到底来了多少人",
+        "onboard_time": 1682774128,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 16166,
+        "num": 23255,
+        "word": "包场",
+        "onboard_time": 1682776590,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14987,
+        "num": 23246,
+        "word": "G社生图",
+        "onboard_time": 1682780012,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14968,
+        "num": 23216,
+        "word": "斯佳辉",
+        "onboard_time": 1682782470,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13511,
+        "num": 23200,
+        "word": "范丞丞 长春",
+        "onboard_time": 1682775030,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13308,
+        "num": 23180,
+        "word": "车银优眼神",
+        "onboard_time": 1682779715,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 13210,
+        "num": 23149,
+        "word": "你的五一假期安排是什么",
+        "onboard_time": 1682794933,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#数字消费新愿景经济发展新活力#"
+    }
+  }
+}
