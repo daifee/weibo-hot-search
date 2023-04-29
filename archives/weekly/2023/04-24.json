@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682760809272,
+  "endTime": 1682763413129,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 2258381,
-      "num": 427896,
+      "num": 526073,
       "word": "秦岚也穿过娜扎同款裤子",
       "onboard_time": 1682760625,
       "rank": 10,
@@ -585,6 +585,14 @@
       "onboard_time": 1682586689,
       "rank": 37,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1827030,
+      "num": 577188,
+      "word": "龚俊 韩国",
+      "onboard_time": 1682761167,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1821082,
@@ -929,6 +937,14 @@
       "onboard_time": 1682518293,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1427283,
+      "num": 1427283,
+      "word": "谷爱凌发的图vsAngelababy发的图",
+      "onboard_time": 1682758649,
+      "rank": 14,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 1421044,
@@ -2073,14 +2089,6 @@
       "onboard_time": 1682311112,
       "rank": 7,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 674495,
-      "num": 674495,
-      "word": "谷爱凌发的图vsAngelababy发的图",
-      "onboard_time": 1682758649,
-      "rank": 14,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 673366,
@@ -3339,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 459985,
+      "num": 923948,
+      "word": "有个三观正的孩子是什么体验",
+      "onboard_time": 1682758588,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459146,
       "num": 459146,
       "word": "谁把范丞丞扔高铁站了",
@@ -3443,6 +3459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 451121,
+      "num": 451121,
+      "word": "长空之王",
+      "onboard_time": 1682676029,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 449539,
       "num": 436264,
       "word": "一千万重读高三你愿意吗",
@@ -3481,6 +3505,14 @@
       "onboard_time": 1682553025,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 443616,
+      "num": 443616,
+      "word": "这瓜谁编的",
+      "onboard_time": 1682759665,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 442307,
@@ -4076,7 +4108,7 @@
     },
     {
       "raw_hot": 395598,
-      "num": 395598,
+      "num": 732901,
       "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
       "onboard_time": 1682748265,
       "rank": 34,
@@ -4739,6 +4771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 339411,
+      "num": 339411,
+      "word": "五一杭州部分热门景点意外遇冷",
+      "onboard_time": 1682760569,
+      "rank": 49,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 338810,
       "num": 330421,
       "word": "老师你别太懂了",
@@ -4828,7 +4868,7 @@
     },
     {
       "raw_hot": 332754,
-      "num": 332754,
+      "num": 668862,
       "word": "孕妇羊水破裂交警疏堵5分钟送医",
       "onboard_time": 1682752287,
       "rank": 33,
@@ -5771,11 +5811,11 @@
       "category": "影视,影视"
     },
     {
-      "raw_hot": 280566,
-      "num": 280566,
-      "word": "有个三观正的孩子是什么体验",
-      "onboard_time": 1682758588,
-      "rank": 29,
+      "raw_hot": 280768,
+      "num": 280768,
+      "word": "五一堵",
+      "onboard_time": 1682760388,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -6067,14 +6107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267835,
-      "num": 267835,
-      "word": "长空之王",
-      "onboard_time": 1682676029,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 267559,
       "num": 267559,
       "word": "肖战上海vlog",
@@ -6187,14 +6219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 263844,
-      "num": 263844,
-      "word": "五一堵",
-      "onboard_time": 1682760388,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262989,
       "num": 262989,
       "word": "男子2万根树枝做6只熊猫迎丫丫回家",
@@ -6305,6 +6329,14 @@
       "onboard_time": 1682483429,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258245,
+      "num": 258245,
+      "word": "檀健次 大连",
+      "onboard_time": 1682760446,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 258113,
@@ -6651,14 +6683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 250105,
-      "num": 235629,
-      "word": "这瓜谁编的",
-      "onboard_time": 1682759665,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248927,
       "num": 248927,
       "word": "许嵩郎朗新歌",
@@ -6825,6 +6849,14 @@
       "onboard_time": 1682496807,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243202,
+      "num": 243202,
+      "word": "上海武警拉链式人墙上线",
+      "onboard_time": 1682761828,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243069,
@@ -7067,6 +7099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 235956,
+      "num": 235956,
+      "word": "顶流花花提前休五一",
+      "onboard_time": 1682758467,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235929,
       "num": 235929,
       "word": "南京迈皋桥",
@@ -7201,14 +7241,6 @@
       "onboard_time": 1682417546,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230740,
-      "num": 230740,
-      "word": "顶流花花提前休五一",
-      "onboard_time": 1682758467,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229944,
@@ -7641,6 +7673,14 @@
       "onboard_time": 1682320047,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216020,
+      "num": 216020,
+      "word": "留几手 写给网友的道歉信",
+      "onboard_time": 1682759726,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215910,
@@ -9635,6 +9675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177260,
+      "num": 177260,
+      "word": "这盒糕点你最想吃几",
+      "onboard_time": 1682762488,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 177136,
       "num": 177136,
       "word": "罗云熙宋轶开机路透",
@@ -10515,6 +10563,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 156765,
+      "num": 156765,
+      "word": "趵突泉猪鲤让警察叔叔操碎了心",
+      "onboard_time": 1682760808,
+      "rank": 35,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 156620,
       "num": 156620,
       "word": "常台高速苏州段多车轮胎被扎",
@@ -10641,14 +10697,6 @@
       "onboard_time": 1682753847,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153983,
-      "num": 153983,
-      "word": "檀健次 大连",
-      "onboard_time": 1682760446,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 153841,
@@ -11107,14 +11155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 145099,
-      "num": 145099,
-      "word": "留几手 写给网友的道歉信",
-      "onboard_time": 1682759726,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144828,
       "num": 144828,
       "word": "内娱哪些演员适合演学霸",
@@ -11561,6 +11601,14 @@
       "onboard_time": 1682438606,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134566,
+      "num": 134566,
+      "word": "宋慧乔好忙",
+      "onboard_time": 1682762726,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134458,
@@ -12395,6 +12443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108336,
+      "num": 108336,
+      "word": "NFlying挑战中文绕口令",
+      "onboard_time": 1682762067,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108112,
       "num": 98997,
       "word": "美团外卖",
@@ -12587,6 +12643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100690,
+      "num": 100690,
+      "word": "涵艺爆料Daeny加入WBG",
+      "onboard_time": 1682763149,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98499,
       "num": 101880,
       "word": "乐乐到家了",
@@ -12763,14 +12827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88914,
-      "num": 97911,
-      "word": "五一杭州部分热门景点意外遇冷",
-      "onboard_time": 1682760569,
-      "rank": 49,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 88688,
       "num": 156438,
       "word": "国外纪念品90%来自中国制造",
@@ -12889,6 +12945,14 @@
       "onboard_time": 1682503827,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 77801,
+      "num": 994743,
+      "word": "五一假期卫星带你云旅行",
+      "onboard_time": 1682759966,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77410,
@@ -13281,14 +13345,6 @@
       "onboard_time": 1682747067,
       "rank": 49,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 40925,
-      "num": 994743,
-      "word": "五一假期卫星带你云旅行",
-      "onboard_time": 1682759966,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39665,
