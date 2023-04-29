@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682781371758,
+  "endTime": 1682782393246,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 2334554,
-      "num": 589467,
+      "num": 601665,
       "word": "龚俊 韩国",
       "onboard_time": 1682761167,
       "rank": 10,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 2258381,
-      "num": 607964,
+      "num": 610206,
       "word": "秦岚也穿过娜扎同款裤子",
       "onboard_time": 1682760625,
       "rank": 10,
@@ -592,6 +592,14 @@
       "word": "五一后离婚财产分割新规",
       "onboard_time": 1682660968,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1897492,
+      "num": 1897492,
+      "word": "纽约裸体晚宴参与者全身赤裸食用素食",
+      "onboard_time": 1682779953,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1428472,
+      "num": 1428472,
+      "word": "洪崖洞",
+      "onboard_time": 1682777729,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1421044,
       "num": 1421044,
       "word": "淄博烧烤店下跪老板与顾客和解",
@@ -1099,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1338619,
-      "num": 1338619,
-      "word": "纽约裸体晚宴参与者全身赤裸食用素食",
-      "onboard_time": 1682779953,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1338352,
       "num": 1042518,
       "word": "杜华 纯属命好",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1682659529,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1320957,
-      "num": 1320957,
-      "word": "洪崖洞",
-      "onboard_time": 1682777729,
-      "rank": 19,
-      "category": "旅游"
     },
     {
       "raw_hot": 1308238,
@@ -2331,6 +2331,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 614462,
+      "num": 614462,
+      "word": "张凌赫介绍作品只提了白鹿",
+      "onboard_time": 1682778632,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 613366,
       "num": 613366,
       "word": "大唐不夜城",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1682673268,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 610153,
-      "num": 610153,
-      "word": "张凌赫介绍作品只提了白鹿",
-      "onboard_time": 1682778632,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 609125,
@@ -3571,6 +3571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457350,
+      "num": 327277,
+      "word": "人人人人人你人人人人人",
+      "onboard_time": 1682779171,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 456041,
       "num": 298203,
       "word": "离职三天后同事发的微信",
@@ -3673,6 +3681,14 @@
       "onboard_time": 1682696490,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 447177,
+      "num": 447177,
+      "word": "心疼清清",
+      "onboard_time": 1682780071,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 446856,
@@ -4225,14 +4241,6 @@
       "onboard_time": 1682564126,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 402184,
-      "num": 327277,
-      "word": "人人人人人你人人人人人",
-      "onboard_time": 1682779171,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 400406,
@@ -5131,14 +5139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333459,
-      "num": 333459,
-      "word": "心疼清清",
-      "onboard_time": 1682780071,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 332754,
       "num": 719772,
       "word": "孕妇羊水破裂交警疏堵5分钟送医",
@@ -5867,8 +5867,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293558,
-      "num": 266015,
+      "raw_hot": 293906,
+      "num": 293906,
       "word": "新娘结婚当天蝴蝶停在手腕不走",
       "onboard_time": 1682778452,
       "rank": 44,
@@ -6467,6 +6467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268240,
+      "num": 268240,
+      "word": "什么才是正确的恋爱顺序",
+      "onboard_time": 1682779171,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267869,
       "num": 267869,
       "word": "杨毅说中国篮球一个时代落幕了",
@@ -6489,14 +6497,6 @@
       "onboard_time": 1682539571,
       "rank": 43,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 267264,
-      "num": 267264,
-      "word": "什么才是正确的恋爱顺序",
-      "onboard_time": 1682779171,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 267085,
@@ -7339,6 +7339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 242146,
+      "num": 242146,
+      "word": "李庚希演技",
+      "onboard_time": 1682781930,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 241947,
       "num": 228844,
       "word": "男子摸邻座女孩大腿称一时冲动",
@@ -7427,6 +7435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 239764,
+      "num": 239764,
+      "word": "G社生图",
+      "onboard_time": 1682780012,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239537,
       "num": 239537,
       "word": "老人坐店门休闲被女司机误撞身亡",
@@ -7505,6 +7521,14 @@
       "onboard_time": 1682503888,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237420,
+      "num": 237420,
+      "word": "许嵩现场",
+      "onboard_time": 1682781270,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 236848,
@@ -8105,14 +8129,6 @@
       "onboard_time": 1682752529,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216880,
-      "num": 216880,
-      "word": "G社生图",
-      "onboard_time": 1682780012,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216772,
@@ -9105,6 +9121,22 @@
       "onboard_time": 1682687071,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196689,
+      "num": 196689,
+      "word": "TTG止步季后赛",
+      "onboard_time": 1682781930,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 196607,
+      "num": 196607,
+      "word": "漫长的季节杀疯了",
+      "onboard_time": 1682781090,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 196569,
@@ -10651,14 +10683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166378,
-      "num": 166378,
-      "word": "漫长的季节杀疯了",
-      "onboard_time": 1682781090,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 166351,
       "num": 166351,
       "word": "没想到老板的视角是这样的",
@@ -11105,14 +11129,6 @@
       "onboard_time": 1682674169,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158522,
-      "num": 158522,
-      "word": "许嵩现场",
-      "onboard_time": 1682781270,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 158323,
@@ -12449,6 +12465,14 @@
       "onboard_time": 1682680408,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 129998,
+      "num": 129998,
+      "word": "狗狗趁家里没人把零食炫光了",
+      "onboard_time": 1682782351,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 129925,
