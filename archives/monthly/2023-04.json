@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682774295229,
+  "endTime": 1682775208726,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1115,6 +1115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2632438,
+      "num": 1094719,
+      "word": "王源染了绿发",
+      "onboard_time": 1682771249,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2621843,
       "num": 2621843,
       "word": "MINI呼吁给发冰淇淋小姐姐多些宽容",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1681125145,
       "rank": 45,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 2456419,
-      "num": 1094719,
-      "word": "王源染了绿发",
-      "onboard_time": 1682771249,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2455752,
@@ -3651,6 +3651,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1573049,
+      "num": 1573049,
+      "word": "外滩",
+      "onboard_time": 1682769208,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1569621,
       "num": 1569621,
       "word": "女子举报继父上班时间家中约会女性",
@@ -4137,14 +4145,6 @@
       "onboard_time": 1681113447,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1477390,
-      "num": 1477390,
-      "word": "外滩",
-      "onboard_time": 1682769208,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 1476656,
@@ -12795,6 +12795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613366,
+      "num": 613366,
+      "word": "大唐不夜城",
+      "onboard_time": 1682772090,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 612781,
       "num": 612781,
       "word": "外卖小哥月入过万真的很容易吗",
@@ -15393,14 +15401,6 @@
       "onboard_time": 1680664531,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 528265,
-      "num": 528265,
-      "word": "大唐不夜城",
-      "onboard_time": 1682772090,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 528233,
@@ -18699,6 +18699,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 451342,
+      "num": 451342,
+      "word": "狠人沈墨",
+      "onboard_time": 1682772147,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 451340,
       "num": 451340,
       "word": "再就业男团",
@@ -18753,14 +18761,6 @@
       "onboard_time": 1681225110,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 449868,
-      "num": 449868,
-      "word": "狠人沈墨",
-      "onboard_time": 1682772147,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 449634,
@@ -22825,6 +22825,14 @@
       "onboard_time": 1680792933,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 379183,
+      "num": 379183,
+      "word": "中国男篮",
+      "onboard_time": 1682773650,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 379069,
@@ -28203,6 +28211,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 301813,
+      "num": 301813,
+      "word": "报复性消费",
+      "onboard_time": 1682773468,
+      "rank": 38,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 301811,
       "num": 301811,
       "word": "澹台烬想知道叶夕雾到底长什么样的心",
@@ -29091,6 +29107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291187,
+      "num": 284211,
+      "word": "金珉奎金晨同框",
+      "onboard_time": 1682772689,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291092,
       "num": 291092,
       "word": "新形式的赘婿",
@@ -29313,6 +29337,14 @@
       "onboard_time": 1680578609,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289306,
+      "num": 289306,
+      "word": "真的会有人一辈子不结婚吗",
+      "onboard_time": 1682773890,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 289210,
@@ -30515,12 +30547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 276965,
-      "num": 247240,
-      "word": "金珉奎金晨同框",
-      "onboard_time": 1682772689,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 277028,
+      "num": 277028,
+      "word": "男篮世界杯抽签",
+      "onboard_time": 1682774550,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 276962,
@@ -32283,6 +32315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 259067,
+      "num": 259067,
+      "word": "北京国际电影节闭幕",
+      "onboard_time": 1682773890,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258990,
       "num": 258990,
       "word": "多部门回应女子举报父亲受贿千万",
@@ -32363,6 +32403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258445,
+      "num": 258445,
+      "word": "周深唱哭张颂文",
+      "onboard_time": 1682775030,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 258320,
       "num": 258320,
       "word": "吴谨言央视古风造型",
@@ -32425,6 +32473,14 @@
       "onboard_time": 1680608429,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 257817,
+      "num": 257817,
+      "word": "B站商业化最大的问题是什么",
+      "onboard_time": 1682770948,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 257815,
@@ -32673,6 +32729,14 @@
       "onboard_time": 1681988008,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256050,
+      "num": 256050,
+      "word": "TTG猝死团",
+      "onboard_time": 1682771187,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 255997,
@@ -33345,14 +33409,6 @@
       "onboard_time": 1681998331,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 251136,
-      "num": 251136,
-      "word": "中国男篮",
-      "onboard_time": 1682773650,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 251090,
@@ -35979,14 +36035,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 230350,
-      "num": 230350,
-      "word": "B站商业化最大的问题是什么",
-      "onboard_time": 1682770948,
-      "rank": 49,
-      "category": "科技"
-    },
-    {
       "raw_hot": 230289,
       "num": 221527,
       "word": "BLG为啥视野能这么差",
@@ -36411,6 +36459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227512,
+      "num": 227512,
+      "word": "风箫心率",
+      "onboard_time": 1682772988,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227495,
       "num": 227495,
       "word": "蛋仔派对回应无法登陆",
@@ -36433,14 +36489,6 @@
       "onboard_time": 1682071469,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227427,
-      "num": 227427,
-      "word": "北京国际电影节闭幕",
-      "onboard_time": 1682773890,
-      "rank": 24,
-      "category": "影视"
     },
     {
       "raw_hot": 227355,
@@ -40147,6 +40195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207049,
+      "num": 207049,
+      "word": "范丞丞 长春",
+      "onboard_time": 1682775030,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207041,
       "num": 207041,
       "word": "周也林华珺的一滴泪",
@@ -40345,6 +40401,14 @@
       "onboard_time": 1680350668,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206466,
+      "num": 206466,
+      "word": "我的妈妈可能是个搞笑女",
+      "onboard_time": 1682769750,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 206453,
@@ -42475,14 +42539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201058,
-      "num": 201058,
-      "word": "TTG猝死团",
-      "onboard_time": 1682771187,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 201056,
       "num": 201056,
       "word": "内娱小说男主代餐脸",
@@ -43769,6 +43825,14 @@
       "onboard_time": 1682124746,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197670,
+      "num": 197670,
+      "word": "如何看待大学生旅游夜宿海底捞",
+      "onboard_time": 1682775030,
+      "rank": 38,
+      "category": "社会议题"
     },
     {
       "raw_hot": 197619,
@@ -46227,14 +46291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190725,
-      "num": 190725,
-      "word": "我的妈妈可能是个搞笑女",
-      "onboard_time": 1682769750,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190704,
       "num": 190704,
       "word": "长月烬明剧方否认抄袭",
@@ -48595,6 +48651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183233,
+      "num": 183233,
+      "word": "魏如萱马嘉祺裘德唱你好不好",
+      "onboard_time": 1682774668,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183215,
       "num": 169273,
       "word": "贺峻霖双手插兜海报",
@@ -49835,14 +49899,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 178058,
-      "num": 178058,
-      "word": "报复性消费",
-      "onboard_time": 1682773468,
-      "rank": 38,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 177931,
       "num": 177931,
       "word": "张皓嘉受伤",
@@ -50827,6 +50883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172394,
+      "num": 172394,
+      "word": "五一长沙到底来了多少人",
+      "onboard_time": 1682774128,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 172387,
       "num": 172387,
       "word": "李健音乐节连唱13首",
@@ -51475,14 +51539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169806,
-      "num": 169806,
-      "word": "真的会有人一辈子不结婚吗",
-      "onboard_time": 1682773890,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169786,
       "num": 169786,
       "word": "张杰演唱会首唱新歌蕾拉",
@@ -52113,14 +52169,6 @@
       "onboard_time": 1681615106,
       "rank": 31,
       "category": "影视,动漫"
-    },
-    {
-      "raw_hot": 166400,
-      "num": 166400,
-      "word": "风箫心率",
-      "onboard_time": 1682772988,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 166368,
@@ -54419,6 +54467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155963,
+      "num": 155963,
+      "word": "易烊千玺外网高清生图",
+      "onboard_time": 1682774915,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155958,
       "num": 155958,
       "word": "丁程鑫海口演唱会排练照",
@@ -55187,6 +55243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152347,
+      "num": 152347,
+      "word": "破事精英",
+      "onboard_time": 1682147848,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 152315,
       "num": 152315,
       "word": "王俊凯艺术晚宴花絮",
@@ -55776,14 +55840,6 @@
       "word": "长月烬明片头细节感",
       "onboard_time": 1680926127,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 149904,
-      "num": 149904,
-      "word": "破事精英",
-      "onboard_time": 1682147848,
-      "rank": 33,
       "category": "影视"
     },
     {
@@ -61563,14 +61619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 119843,
-      "num": 119843,
-      "word": "五一长沙到底来了多少人",
-      "onboard_time": 1682774128,
-      "rank": 47,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 119837,
       "num": 119837,
       "word": "文俊辉愚人节贺图",
@@ -65739,6 +65787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 75085,
+      "num": 1106350,
+      "word": "这是卫星视角下的美丽中国",
+      "onboard_time": 1682772513,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75042,
       "num": 141126,
       "word": "长沙上演盛大灯光秀",
@@ -66241,14 +66297,6 @@
       "onboard_time": 1680821297,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 64205,
-      "num": 1101053,
-      "word": "这是卫星视角下的美丽中国",
-      "onboard_time": 1682772513,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63920,
