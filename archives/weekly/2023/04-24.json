@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682756384192,
+  "endTime": 1682757201220,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -91,7 +91,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 3211914,
+      "raw_hot": 3223192,
       "num": 3211914,
       "word": "娜扎 我不觉得我穿得有问题",
       "onboard_time": 1682750606,
@@ -1291,6 +1291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1110511,
+      "num": 1110511,
+      "word": "秋瓷炫你要是被淘汰就点个痣再回来",
+      "onboard_time": 1682752108,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1107975,
       "num": 1107975,
       "word": "女子称肚痛就医检查遭医生猥亵",
@@ -1643,14 +1651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 895924,
-      "num": 895924,
-      "word": "秋瓷炫你要是被淘汰就点个痣再回来",
-      "onboard_time": 1682752108,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 890369,
       "num": 890369,
       "word": "巴特勒极限空接",
@@ -1665,6 +1665,14 @@
       "onboard_time": 1682328211,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 876333,
+      "num": 779215,
+      "word": "薛之谦高铁上没被认出来的原因",
+      "onboard_time": 1682754865,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 874514,
@@ -1857,14 +1865,6 @@
       "onboard_time": 1682308769,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 779215,
-      "num": 779215,
-      "word": "薛之谦高铁上没被认出来的原因",
-      "onboard_time": 1682754865,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 772297,
@@ -3187,6 +3187,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 472367,
+      "num": 314872,
+      "word": "许光汉追星IU成功",
+      "onboard_time": 1682755349,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471409,
       "num": 471409,
       "word": "成都一烧烤店每桌15燃气费",
@@ -3900,7 +3908,7 @@
     },
     {
       "raw_hot": 407713,
-      "num": 368722,
+      "num": 369961,
       "word": "放在整个差评界也是炸裂的",
       "onboard_time": 1682749107,
       "rank": 46,
@@ -5123,14 +5131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314872,
-      "num": 314872,
-      "word": "许光汉追星IU成功",
-      "onboard_time": 1682755349,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 314637,
       "num": 314637,
       "word": "上班喝咖啡连驴都不如",
@@ -5595,6 +5595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 288833,
+      "num": 251686,
+      "word": "肖战希望大家观看只带着对舞台的热爱",
+      "onboard_time": 1682753847,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288320,
       "num": 288320,
       "word": "YG新女团为5人组",
@@ -5841,14 +5849,6 @@
       "onboard_time": 1682423006,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275619,
-      "num": 251686,
-      "word": "肖战希望大家观看只带着对舞台的热爱",
-      "onboard_time": 1682753847,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 275500,
@@ -6579,6 +6579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251053,
+      "num": 238172,
+      "word": "专家称淄博烧烤一时好不代表长效好",
+      "onboard_time": 1682753607,
+      "rank": 27,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 251026,
       "num": 251026,
       "word": "哭包AK",
@@ -6737,6 +6745,14 @@
       "onboard_time": 1682412025,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244796,
+      "num": 244796,
+      "word": "Apex",
+      "onboard_time": 1682753727,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 244543,
@@ -7113,14 +7129,6 @@
       "onboard_time": 1682602469,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231638,
-      "num": 231638,
-      "word": "Apex",
-      "onboard_time": 1682753727,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 231475,
@@ -8187,6 +8195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201798,
+      "num": 201798,
+      "word": "杨超越工作室严正声明",
+      "onboard_time": 1682751928,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 201335,
       "num": 201335,
       "word": "深圳交通局再回应前局长孙女炫富事件",
@@ -8425,14 +8441,6 @@
       "onboard_time": 1682399970,
       "rank": 41,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 197625,
-      "num": 197625,
-      "word": "专家称淄博烧烤一时好不代表长效好",
-      "onboard_time": 1682753607,
-      "rank": 27,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 197485,
@@ -8723,20 +8731,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192187,
-      "num": 192187,
-      "word": "杨超越工作室严正声明",
-      "onboard_time": 1682751928,
-      "rank": 36,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 191706,
       "num": 191706,
       "word": "詹姆斯22分20篮板",
       "onboard_time": 1682400331,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191697,
+      "num": 191697,
+      "word": "明日方舟",
+      "onboard_time": 1682408547,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 191653,
@@ -8753,14 +8761,6 @@
       "onboard_time": 1682645426,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 191142,
-      "num": 191142,
-      "word": "明日方舟",
-      "onboard_time": 1682408547,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 191115,
@@ -9811,6 +9811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171487,
+      "num": 171487,
+      "word": "被爱时其实不需要那么漂亮",
+      "onboard_time": 1682753968,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171209,
       "num": 171209,
       "word": "怎么坐才不伤腰",
@@ -9873,6 +9881,14 @@
       "onboard_time": 1682503228,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169897,
+      "num": 169897,
+      "word": "堵车时第一辆车在干什么",
+      "onboard_time": 1682755769,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 169869,
@@ -10121,14 +10137,6 @@
       "onboard_time": 1682642910,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163029,
-      "num": 163029,
-      "word": "被爱时其实不需要那么漂亮",
-      "onboard_time": 1682753968,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 163012,
@@ -11643,6 +11651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128560,
+      "num": 128560,
+      "word": "不良执念清除师",
+      "onboard_time": 1682756729,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 128128,
       "num": 128128,
       "word": "东恩妍珍顶峰相见",
@@ -11923,14 +11939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121186,
-      "num": 121186,
-      "word": "堵车时第一辆车在干什么",
-      "onboard_time": 1682755769,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 121066,
       "num": 121066,
       "word": "小县城的生活能有多安逸",
@@ -12008,6 +12016,14 @@
       "word": "中国的专家真的在妖言惑众吗",
       "onboard_time": 1682257533,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118087,
+      "num": 118087,
+      "word": "巨型笑脸成广州游客祈福打卡地",
+      "onboard_time": 1682756788,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
