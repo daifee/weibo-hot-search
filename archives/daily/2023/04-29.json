@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682772348884,
+  "endTime": 1682774295229,
   "band_list": [
     {
       "raw_hot": 3310693,
@@ -35,20 +35,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 2456419,
+      "num": 1094719,
+      "word": "王源染了绿发",
+      "onboard_time": 1682771249,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2334554,
       "num": 577188,
       "word": "龚俊 韩国",
       "onboard_time": 1682761167,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2298690,
-      "num": 1081637,
-      "word": "王源染了绿发",
-      "onboard_time": 1682771249,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2258381,
@@ -97,6 +97,14 @@
       "onboard_time": 1682739266,
       "rank": 0,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1477390,
+      "num": 1477390,
+      "word": "外滩",
+      "onboard_time": 1682769208,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 1398880,
@@ -169,14 +177,6 @@
       "onboard_time": 1682747608,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1063306,
-      "num": 1063306,
-      "word": "外滩",
-      "onboard_time": 1682769208,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 1046580,
@@ -395,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528265,
+      "num": 528265,
+      "word": "大唐不夜城",
+      "onboard_time": 1682772090,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 513724,
       "num": 513724,
       "word": "时尚芭莎 罗云熙白鹿双人视频",
@@ -512,6 +520,14 @@
       "word": "长空之王",
       "onboard_time": 1682676029,
       "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 449868,
+      "num": 449868,
+      "word": "狠人沈墨",
+      "onboard_time": 1682772147,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -723,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320516,
+      "num": 320516,
+      "word": "放假第一天兵马俑游客突破五万人",
+      "onboard_time": 1682769208,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 315404,
       "num": 268347,
       "word": "肖战西安",
@@ -835,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276965,
+      "num": 247240,
+      "word": "金珉奎金晨同框",
+      "onboard_time": 1682772689,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276961,
       "num": 276961,
       "word": "白鹿百口莫辩的样子像极上一季的周深",
@@ -857,14 +889,6 @@
       "onboard_time": 1682740888,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 264442,
-      "num": 264442,
-      "word": "放假第一天兵马俑游客突破五万人",
-      "onboard_time": 1682769208,
-      "rank": 34,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 263889,
@@ -953,6 +977,14 @@
       "onboard_time": 1682675189,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251136,
+      "num": 251136,
+      "word": "中国男篮",
+      "onboard_time": 1682773650,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 250332,
@@ -1083,12 +1115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230350,
+      "num": 230350,
+      "word": "B站商业化最大的问题是什么",
+      "onboard_time": 1682770948,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 229837,
       "num": 207278,
       "word": "SEVENTEEN新歌孙悟空练习室",
       "onboard_time": 1682748326,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227427,
+      "num": 227427,
+      "word": "北京国际电影节闭幕",
+      "onboard_time": 1682773890,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 223961,
@@ -1179,14 +1227,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 214164,
-      "num": 214164,
-      "word": "狠人沈墨",
-      "onboard_time": 1682772147,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 213246,
       "num": 213246,
       "word": "蔡徐坤到达纽约",
@@ -1251,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205231,
+      "num": 205231,
+      "word": "苏丹",
+      "onboard_time": 1682769329,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204744,
       "num": 204744,
       "word": "在淄博吃烧烤偶遇检查",
@@ -1299,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201058,
+      "num": 201058,
+      "word": "TTG猝死团",
+      "onboard_time": 1682771187,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199156,
       "num": 199156,
       "word": "五月天深圳",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1682694813,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198597,
+      "num": 198597,
+      "word": "漫长的季节",
+      "onboard_time": 1682773589,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 198581,
@@ -1339,12 +1403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 196476,
-      "num": 196476,
-      "word": "TTG猝死团",
-      "onboard_time": 1682771187,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 196521,
+      "num": 196521,
+      "word": "周深北影节献唱致敬电影人",
+      "onboard_time": 1682773468,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 193836,
@@ -1379,6 +1443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190725,
+      "num": 190725,
+      "word": "我的妈妈可能是个搞笑女",
+      "onboard_time": 1682769750,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190511,
       "num": 190511,
       "word": "欧文来了",
@@ -1401,6 +1473,14 @@
       "onboard_time": 1682693255,
       "rank": 30,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 184829,
+      "num": 184829,
+      "word": "还以为刘德华客串了漫长的季节",
+      "onboard_time": 1682773531,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184758,
@@ -1483,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178058,
+      "num": 178058,
+      "word": "报复性消费",
+      "onboard_time": 1682773468,
+      "rank": 38,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "章昊成韩彬舞蹈视频",
@@ -1539,12 +1627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169629,
-      "num": 169629,
-      "word": "苏丹",
-      "onboard_time": 1682769329,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 169806,
+      "num": 169806,
+      "word": "真的会有人一辈子不结婚吗",
+      "onboard_time": 1682773890,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 167862,
@@ -1553,6 +1641,14 @@
       "onboard_time": 1682764645,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166400,
+      "num": 166400,
+      "word": "风箫心率",
+      "onboard_time": 1682772988,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 166304,
@@ -1585,14 +1681,6 @@
       "onboard_time": 1682694393,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 162758,
-      "num": 162758,
-      "word": "我的妈妈可能是个搞笑女",
-      "onboard_time": 1682769750,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 162056,
@@ -1747,6 +1835,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144791,
+      "num": 144791,
+      "word": "阿娇成都vlog",
+      "onboard_time": 1682772811,
+      "rank": 44,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 144344,
       "num": 144344,
       "word": "宅家",
@@ -1833,14 +1929,6 @@
       "onboard_time": 1682763149,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130279,
-      "num": 130279,
-      "word": "B站商业化最大的问题是什么",
-      "onboard_time": 1682770948,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 128560,
@@ -1939,6 +2027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119843,
+      "num": 119843,
+      "word": "五一长沙到底来了多少人",
+      "onboard_time": 1682774128,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 118087,
       "num": 118087,
       "word": "巨型笑脸成广州游客祈福打卡地",
@@ -2001,14 +2097,6 @@
       "onboard_time": 1682732368,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 110833,
-      "num": 110833,
-      "word": "大唐不夜城",
-      "onboard_time": 1682772090,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 110512,
@@ -2193,6 +2281,14 @@
       "onboard_time": 1682710513,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64205,
+      "num": 1101053,
+      "word": "这是卫星视角下的美丽中国",
+      "onboard_time": 1682772513,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62736,
