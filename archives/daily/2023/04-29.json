@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682749247170,
+  "endTime": 1682750015570,
   "band_list": [
     {
       "raw_hot": 2868623,
@@ -187,6 +187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 709412,
+      "num": 709412,
+      "word": "罗云熙的鞋跟",
+      "onboard_time": 1682747608,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 692078,
       "num": 692078,
       "word": "7岁大熊猫小丫因尿毒症去世",
@@ -235,6 +243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 588668,
+      "num": 317484,
+      "word": "甘肃酒泉车辆碰撞事故致6死12伤",
+      "onboard_time": 1682749347,
+      "rank": 12,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 571836,
       "num": 571836,
       "word": "韩国人什么时候放弃水光肌",
@@ -249,14 +265,6 @@
       "onboard_time": 1682737709,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 555232,
-      "num": 555232,
-      "word": "罗云熙的鞋跟",
-      "onboard_time": 1682747608,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 540070,
@@ -363,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400406,
+      "num": 400406,
+      "word": "何炅录制完结的节目",
+      "onboard_time": 1682746647,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398511,
       "num": 398511,
       "word": "陈都灵看不下去了",
@@ -433,14 +449,6 @@
       "onboard_time": 1682679090,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 342268,
-      "num": 272843,
-      "word": "何炅录制完结的节目",
-      "onboard_time": 1682746647,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 331288,
@@ -531,6 +539,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 282932,
+      "num": 240788,
+      "word": "全资进组",
+      "onboard_time": 1682748806,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279126,
       "num": 186342,
       "word": "詹姆斯突破背扣",
@@ -593,6 +609,14 @@
       "onboard_time": 1682735488,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254839,
+      "num": 254839,
+      "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
+      "onboard_time": 1682748265,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 251411,
@@ -859,20 +883,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197391,
-      "num": 197391,
-      "word": "全资进组",
-      "onboard_time": 1682748806,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193836,
       "num": 193836,
       "word": "人从众",
       "onboard_time": 1682729907,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193797,
+      "num": 169967,
+      "word": "放在整个差评界也是炸裂的",
+      "onboard_time": 1682749107,
+      "rank": 46,
+      "category": "其它"
     },
     {
       "raw_hot": 191083,
@@ -889,6 +913,14 @@
       "onboard_time": 1682740529,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187682,
+      "num": 187682,
+      "word": "Jennie朴彩英到达纽约",
+      "onboard_time": 1682748867,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 187427,
@@ -1003,20 +1035,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168283,
-      "num": 168283,
-      "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
-      "onboard_time": 1682748265,
-      "rank": 34,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 165793,
       "num": 165793,
       "word": "闲人马大姐",
       "onboard_time": 1682730148,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 164170,
+      "num": 164170,
+      "word": "陈哲远好笑",
+      "onboard_time": 1682748989,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 163410,
@@ -1067,12 +1099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156394,
-      "num": 156394,
-      "word": "Jennie朴彩英到达纽约",
-      "onboard_time": 1682748867,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 157382,
+      "num": 147576,
+      "word": "孙怡杨采钰徐晓璐谁才是吴优最好的朋友",
+      "onboard_time": 1682749166,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 156369,
@@ -1195,14 +1227,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 135319,
-      "num": 135319,
-      "word": "陈哲远好笑",
-      "onboard_time": 1682748989,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133180,
       "num": 95810,
       "word": "杭州东站除上海方向其余车票均已售罄",
@@ -1267,12 +1291,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 114951,
-      "num": 114951,
-      "word": "放在整个差评界也是炸裂的",
-      "onboard_time": 1682749107,
-      "rank": 46,
-      "category": "其它"
+      "raw_hot": 116468,
+      "num": 116468,
+      "word": "陌生人助力五个大学生旅行",
+      "onboard_time": 1682749885,
+      "rank": 45,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 114041,
@@ -1299,20 +1323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 113184,
-      "num": 113184,
-      "word": "孙怡杨采钰徐晓璐谁才是吴优最好的朋友",
-      "onboard_time": 1682749166,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111773,
       "num": 111773,
       "word": "人生路不熟 笑点密集",
       "onboard_time": 1682732368,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 109871,
+      "num": 109871,
+      "word": "五一假期淄博烧烤店轮班休息",
+      "onboard_time": 1682749647,
+      "rank": 48,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 105028,

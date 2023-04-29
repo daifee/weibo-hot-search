@@ -1,0 +1,410 @@
+{
+  "runTime": 1682750015570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2755999,
+        "num": 2755999,
+        "word": "今年的五一疯了吗",
+        "onboard_time": 1682737949,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1392402,
+        "num": 1392402,
+        "word": "顾客点外卖备注科一95骑手报警",
+        "onboard_time": 1682742566,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99853,
+        "num": 1053117,
+        "word": "国内旅游订单创5年来最高",
+        "onboard_time": 1682736689,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741581,
+        "num": 741581,
+        "word": "五一预计240000000人次出游",
+        "onboard_time": 1682729846,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 709412,
+        "num": 709412,
+        "word": "罗云熙的鞋跟",
+        "onboard_time": 1682747608,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 498770,
+        "num": 498770,
+        "word": "台下全是和薛之谦抢车票的",
+        "onboard_time": 1682743889,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 473075,
+        "num": 473075,
+        "word": "徐娇成绩全A",
+        "onboard_time": 1682730867,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468061,
+        "num": 468061,
+        "word": "最牛的三部仙侠剧",
+        "onboard_time": 1682743049,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 415221,
+        "num": 415221,
+        "word": "哪个城市是空的",
+        "onboard_time": 1682740949,
+        "rank": 8,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 400406,
+        "num": 400406,
+        "word": "何炅录制完结的节目",
+        "onboard_time": 1682746647,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 764118,
+        "num": 393747,
+        "word": "贾玲瘦了",
+        "onboard_time": 1682735549,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 677175,
+        "num": 352143,
+        "word": "易烊千玺回国",
+        "onboard_time": 1682744789,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588668,
+        "num": 317484,
+        "word": "甘肃酒泉车辆碰撞事故致6死12伤",
+        "onboard_time": 1682749347,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 580742,
+        "num": 284426,
+        "word": "这居然是林小宅",
+        "onboard_time": 1682734409,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276705,
+        "num": 276705,
+        "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
+        "onboard_time": 1682744065,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 343150,
+        "num": 274322,
+        "word": "娜扎裤子",
+        "onboard_time": 1682735246,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341179,
+        "num": 273652,
+        "word": "大华 小H",
+        "onboard_time": 1682737167,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257653,
+        "num": 257653,
+        "word": "因为穿衣风格直接丢了工作",
+        "onboard_time": 1682737709,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254839,
+        "num": 254839,
+        "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
+        "onboard_time": 1682748265,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 244119,
+        "num": 244119,
+        "word": "青年艺术家孙博离世",
+        "onboard_time": 1682739266,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 282932,
+        "num": 240788,
+        "word": "全资进组",
+        "onboard_time": 1682748806,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 231770,
+        "num": 231770,
+        "word": "马天宇打卡淄博烧烤",
+        "onboard_time": 1682747187,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223967,
+        "num": 223967,
+        "word": "湖人淘汰灰熊",
+        "onboard_time": 1682745510,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194025,
+        "num": 213380,
+        "word": "北京已严重拥堵",
+        "onboard_time": 1682681249,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184042,
+        "num": 212281,
+        "word": "谷爱凌穿红旗袍演讲",
+        "onboard_time": 1682745448,
+        "rank": 24,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 211836,
+        "num": 211836,
+        "word": "林智妍杂志疑似抄袭倪妮造型",
+        "onboard_time": 1682729188,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 205813,
+        "num": 205813,
+        "word": "陈赫在向往的生活哭了",
+        "onboard_time": 1682731108,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187682,
+        "num": 187682,
+        "word": "Jennie朴彩英到达纽约",
+        "onboard_time": 1682748867,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185754,
+        "num": 185754,
+        "word": "刘亦菲演的许红豆是淄博人",
+        "onboard_time": 1682741007,
+        "rank": 28,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 161384,
+        "num": 171507,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 29,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 193797,
+        "num": 169967,
+        "word": "放在整个差评界也是炸裂的",
+        "onboard_time": 1682749107,
+        "rank": 30,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 168142,
+        "num": 168142,
+        "word": "SEVENTEEN新歌孙悟空练习室",
+        "onboard_time": 1682748326,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164170,
+        "num": 164170,
+        "word": "陈哲远好笑",
+        "onboard_time": 1682748989,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160078,
+        "num": 160078,
+        "word": "拉塞尔杀疯了",
+        "onboard_time": 1682743287,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147828,
+        "num": 147828,
+        "word": "西湖",
+        "onboard_time": 1682738188,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 161204,
+        "num": 147722,
+        "word": "张馨予呼吁去动物园的朋友们不要投喂",
+        "onboard_time": 1682746769,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157382,
+        "num": 147576,
+        "word": "孙怡杨采钰徐晓璐谁才是吴优最好的朋友",
+        "onboard_time": 1682749166,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155914,
+        "num": 147037,
+        "word": "检察风云岳云鹏反差感",
+        "onboard_time": 1682748867,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146475,
+        "num": 146475,
+        "word": "武汉站是在拍釜山行吗",
+        "onboard_time": 1682745088,
+        "rank": 38,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 145874,
+        "num": 145874,
+        "word": "勇士你看人家湖人",
+        "onboard_time": 1682745690,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491889,
+        "num": 141658,
+        "word": "淄博烧烤最后如何收场",
+        "onboard_time": 1682675791,
+        "rank": 40,
+        "category": "社会议题,美食"
+      },
+      {
+        "raw_hot": 1027233,
+        "num": 138120,
+        "word": "性缘脑",
+        "onboard_time": 1682740649,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149958,
+        "num": 137194,
+        "word": "向往7好心酸",
+        "onboard_time": 1682737709,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132959,
+        "num": 132959,
+        "word": "韩国人什么时候放弃水光肌",
+        "onboard_time": 1682730566,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 116474,
+        "num": 116474,
+        "word": "山东蓝翔派学生五一去淄博帮做烧烤",
+        "onboard_time": 1682746169,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 116468,
+        "num": 116468,
+        "word": "陌生人助力五个大学生旅行",
+        "onboard_time": 1682749885,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 110911,
+        "num": 110911,
+        "word": "五月天深圳",
+        "onboard_time": 1682741788,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110800,
+        "num": 110800,
+        "word": "淄博",
+        "onboard_time": 1682731408,
+        "rank": 47,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 109871,
+        "num": 109871,
+        "word": "五一假期淄博烧烤店轮班休息",
+        "onboard_time": 1682749647,
+        "rank": 48,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 108756,
+        "num": 108756,
+        "word": "新版教材里的袁爷爷",
+        "onboard_time": 1682738128,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#秉持公正立场彰显大国担当#"
+    }
+  }
+}
