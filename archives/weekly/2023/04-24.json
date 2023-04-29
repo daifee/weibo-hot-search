@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682796798942,
+  "endTime": 1682799439748,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -14163,6 +14163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48144,
+      "num": 48144,
+      "word": "第一个下高速的人",
+      "onboard_time": 1682795174,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46519,
       "num": 399993,
       "word": "女星红毯妆容大招",
@@ -14299,6 +14307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27196,
+      "num": 22487,
+      "word": "男孩在学校跳蚤市场1元买回金戒指",
+      "onboard_time": 1682798052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26980,
       "num": 34634,
       "word": "放假",
@@ -14355,20 +14371,20 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 23521,
-      "num": 23521,
-      "word": "第一个下高速的人",
-      "onboard_time": 1682795174,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22364,
       "num": 25421,
       "word": "在地铁上让座后收到了礼物",
       "onboard_time": 1682440283,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21115,
+      "num": 21115,
+      "word": "五一假期景点现状",
+      "onboard_time": 1682797513,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 20742,

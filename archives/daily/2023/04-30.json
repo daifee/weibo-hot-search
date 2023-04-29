@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682796798942,
+  "endTime": 1682799439748,
   "band_list": [
     {
       "raw_hot": 1558601,
@@ -451,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 48144,
+      "num": 48144,
+      "word": "第一个下高速的人",
+      "onboard_time": 1682795174,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43621,
       "num": 834168,
       "word": "这是卫星视角下的美丽中国",
@@ -475,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 27196,
+      "num": 22487,
+      "word": "男孩在学校跳蚤市场1元买回金戒指",
+      "onboard_time": 1682798052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26980,
       "num": 34634,
       "word": "放假",
@@ -491,12 +507,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 23521,
-      "num": 23521,
-      "word": "第一个下高速的人",
-      "onboard_time": 1682795174,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 21115,
+      "num": 21115,
+      "word": "五一假期景点现状",
+      "onboard_time": 1682797513,
+      "rank": 35,
+      "category": "旅游"
     }
   ],
   "hotgov_list": [
