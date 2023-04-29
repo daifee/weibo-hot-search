@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682775208726,
+  "endTime": 1682777658713,
   "band_list": [
     {
       "raw_hot": 3310693,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2632438,
-      "num": 1094719,
+      "num": 1159072,
       "word": "王源染了绿发",
       "onboard_time": 1682771249,
       "rank": 11,
@@ -57,6 +57,14 @@
       "onboard_time": 1682760625,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1837904,
+      "num": 1837904,
+      "word": "外滩",
+      "onboard_time": 1682769208,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 1776744,
@@ -89,14 +97,6 @@
       "onboard_time": 1682758649,
       "rank": 14,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1573049,
-      "num": 1573049,
-      "word": "外滩",
-      "onboard_time": 1682769208,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 1516377,
@@ -153,6 +153,14 @@
       "onboard_time": 1682752108,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1222804,
+      "num": 258445,
+      "word": "周深唱哭张颂文",
+      "onboard_time": 1682775030,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 1197584,
@@ -387,6 +395,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 551482,
+      "num": 551482,
+      "word": "林高远曼谷站男单冠军",
+      "onboard_time": 1682775751,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 543634,
+      "num": 543634,
+      "word": "真的会有人一辈子不结婚吗",
+      "onboard_time": 1682773890,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 540070,
       "num": 540070,
       "word": "灰熊vs湖人",
@@ -547,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434937,
+      "num": 434937,
+      "word": "中国军队完成撤离在苏丹中国人员任务",
+      "onboard_time": 1682776892,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430596,
       "num": 383710,
       "word": "上海武警拉链式人墙上线",
@@ -617,6 +649,14 @@
       "onboard_time": 1682773650,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 378920,
+      "num": 378920,
+      "word": "报复性消费",
+      "onboard_time": 1682773468,
+      "rank": 38,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 376661,
@@ -707,6 +747,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 343186,
+      "num": 320455,
+      "word": "五一长沙到底来了多少人",
+      "onboard_time": 1682774128,
+      "rank": 47,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 339592,
       "num": 339592,
       "word": "张杰演唱会",
@@ -715,12 +763,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 338841,
+      "num": 338841,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1682776713,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332754,
       "num": 719772,
       "word": "孕妇羊水破裂交警疏堵5分钟送医",
       "onboard_time": 1682752287,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331704,
+      "num": 318181,
+      "word": "易烊千玺外网高清生图",
+      "onboard_time": 1682774915,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 331288,
@@ -745,6 +809,14 @@
       "onboard_time": 1682737709,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322892,
+      "num": 322892,
+      "word": "包场",
+      "onboard_time": 1682776590,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 320516,
@@ -795,14 +867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301813,
-      "num": 301813,
-      "word": "报复性消费",
-      "onboard_time": 1682773468,
-      "rank": 38,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 301135,
       "num": 301135,
       "word": "大熊猫保护研究中心发文",
@@ -833,14 +897,6 @@
       "onboard_time": 1682727387,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289306,
-      "num": 289306,
-      "word": "真的会有人一辈子不结婚吗",
-      "onboard_time": 1682773890,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 288905,
@@ -891,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277578,
+      "num": 206764,
+      "word": "长空之王登上新闻联播",
+      "onboard_time": 1682777012,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 277028,
       "num": 277028,
       "word": "男篮世界杯抽签",
@@ -913,6 +977,14 @@
       "onboard_time": 1682724323,
       "rank": 19,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 271360,
+      "num": 206138,
+      "word": "原来熊猫摔倒的反应跟人一样",
+      "onboard_time": 1682776172,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 269411,
@@ -952,14 +1024,6 @@
       "word": "北京国际电影节闭幕",
       "onboard_time": 1682773890,
       "rank": 24,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 258445,
-      "num": 258445,
-      "word": "周深唱哭张颂文",
-      "onboard_time": 1682775030,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -1115,6 +1179,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 238528,
+      "num": 238528,
+      "word": "范丞丞 长春",
+      "onboard_time": 1682775030,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 236848,
       "num": 236848,
       "word": "西湖",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1682732189,
       "rank": 30,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 223416,
+      "num": 223416,
+      "word": "关晓彤薄荷绿纱裙",
+      "onboard_time": 1682776713,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 222232,
@@ -1321,14 +1401,6 @@
       "onboard_time": 1682744729,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 207049,
-      "num": 207049,
-      "word": "范丞丞 长春",
-      "onboard_time": 1682775030,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 206466,
@@ -1659,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172394,
-      "num": 172394,
-      "word": "五一长沙到底来了多少人",
-      "onboard_time": 1682774128,
-      "rank": 47,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 171947,
       "num": 171947,
       "word": "趵突泉猪鲤让警察叔叔操碎了心",
@@ -1689,6 +1753,14 @@
       "onboard_time": 1682753968,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169175,
+      "num": 158426,
+      "word": "易梦玲首尔看秀",
+      "onboard_time": 1682775630,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167862,
@@ -1755,6 +1827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159642,
+      "num": 159642,
+      "word": "不考虑工作最想定居的城市",
+      "onboard_time": 1682777370,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158659,
       "num": 158659,
       "word": "Rookie",
@@ -1793,14 +1873,6 @@
       "onboard_time": 1682726125,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155963,
-      "num": 155963,
-      "word": "易烊千玺外网高清生图",
-      "onboard_time": 1682774915,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155958,
@@ -1867,6 +1939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150299,
+      "num": 150299,
+      "word": "裘德问马嘉祺结婚时喜欢听什么歌",
+      "onboard_time": 1682776229,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148918,
       "num": 148918,
       "word": "杜兰特与耐克签下终身合同",
@@ -1899,6 +1979,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145406,
+      "num": 145406,
+      "word": "徐明浩沈月拌嘴",
+      "onboard_time": 1682777611,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144791,
       "num": 144791,
       "word": "阿娇成都vlog",
@@ -1921,6 +2009,14 @@
       "onboard_time": 1682728169,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141568,
+      "num": 141568,
+      "word": "五一不要离开我",
+      "onboard_time": 1682776172,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 141503,
@@ -2283,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79906,
+      "num": 1195308,
+      "word": "这是卫星视角下的美丽中国",
+      "onboard_time": 1682772513,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77801,
       "num": 1354306,
       "word": "五一假期卫星带你云旅行",
@@ -2297,14 +2401,6 @@
       "onboard_time": 1682695172,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 75085,
-      "num": 1106350,
-      "word": "这是卫星视角下的美丽中国",
-      "onboard_time": 1682772513,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74293,
