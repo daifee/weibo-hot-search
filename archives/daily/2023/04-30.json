@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682804004150,
+  "endTime": 1682806518423,
   "band_list": [
     {
       "raw_hot": 1558601,
@@ -419,20 +419,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77782,
+      "num": 77782,
+      "word": "男孩在学校跳蚤市场1元买回金戒指",
+      "onboard_time": 1682798052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76007,
       "num": 76007,
       "word": "这瓜谁编的",
       "onboard_time": 1682759665,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67305,
-      "num": 53811,
-      "word": "男孩在学校跳蚤市场1元买回金戒指",
-      "onboard_time": 1682798052,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66677,
@@ -483,20 +483,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35917,
+      "num": 35917,
+      "word": "五一假期景点现状",
+      "onboard_time": 1682797513,
+      "rank": 35,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 34796,
       "num": 34796,
       "word": "大连音乐节",
       "onboard_time": 1682790256,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27008,
-      "num": 27008,
-      "word": "五一假期景点现状",
-      "onboard_time": 1682797513,
-      "rank": 35,
-      "category": "旅游"
     },
     {
       "raw_hot": 26980,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 24042,
-      "num": 27070,
+      "num": 27437,
       "word": "你的五一假期安排是什么",
       "onboard_time": 1682794933,
       "rank": 44,
