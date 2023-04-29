@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682742810347,
+  "endTime": 1682745320841,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2859,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1776744,
+      "num": 704058,
+      "word": "性缘脑",
+      "onboard_time": 1682740649,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1775044,
       "num": 1775044,
       "word": "岸田文雄避难",
@@ -3265,6 +3273,14 @@
       "onboard_time": 1680704372,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1651694,
+      "num": 1651694,
+      "word": "顾客点外卖备注科一95骑手报警",
+      "onboard_time": 1682742566,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1649607,
@@ -4089,14 +4105,6 @@
       "onboard_time": 1681397731,
       "rank": 10,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 1466774,
-      "num": 704058,
-      "word": "性缘脑",
-      "onboard_time": 1682740649,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 1465661,
@@ -11355,6 +11363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666766,
+      "num": 666766,
+      "word": "哪个城市是空的",
+      "onboard_time": 1682740949,
+      "rank": 25,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 666659,
       "num": 666659,
       "word": "黄晓明问贾乃亮龚俊我可以相信你们吗",
@@ -14427,6 +14443,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 551116,
+      "num": 551116,
+      "word": "最牛的三部仙侠剧",
+      "onboard_time": 1682743049,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
       "raw_hot": 551032,
       "num": 551032,
       "word": "广州TTG 今天也想过节吗",
@@ -14745,6 +14769,14 @@
       "onboard_time": 1680409950,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 540070,
+      "num": 540070,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1682216727,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 539965,
@@ -16099,6 +16131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500808,
+      "num": 500808,
+      "word": "刘亦菲演的许红豆是淄博人",
+      "onboard_time": 1682741007,
+      "rank": 16,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 500801,
       "num": 500801,
       "word": "台媒报道吴磊周雨彤吻戏",
@@ -16369,6 +16409,14 @@
       "onboard_time": 1680689374,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 494737,
+      "num": 494737,
+      "word": "台下全是和薛之谦抢车票的",
+      "onboard_time": 1682743889,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 494725,
@@ -16777,14 +16825,6 @@
       "onboard_time": 1682482529,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 485406,
-      "num": 485406,
-      "word": "刘亦菲演的许红豆是淄博人",
-      "onboard_time": 1682741007,
-      "rank": 16,
-      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 485056,
@@ -18867,6 +18907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 440485,
+      "num": 440485,
+      "word": "拉塞尔杀疯了",
+      "onboard_time": 1682743287,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440390,
       "num": 440390,
       "word": "陈鑫海演技",
@@ -19809,6 +19857,14 @@
       "onboard_time": 1680490948,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 422171,
+      "num": 422171,
+      "word": "易烊千玺回国",
+      "onboard_time": 1682744789,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 422166,
@@ -23137,14 +23193,6 @@
       "onboard_time": 1681298606,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367688,
-      "num": 367688,
-      "word": "哪个城市是空的",
-      "onboard_time": 1682740949,
-      "rank": 25,
-      "category": "旅游,情感"
     },
     {
       "raw_hot": 367686,
@@ -28171,14 +28219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297736,
-      "num": 297736,
-      "word": "灰熊vs湖人",
-      "onboard_time": 1682216727,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 297508,
       "num": 256717,
       "word": "白鹿官宣常州市文旅大使",
@@ -31867,6 +31907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259183,
+      "num": 259183,
+      "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
+      "onboard_time": 1682744065,
+      "rank": 23,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 259160,
       "num": 259160,
       "word": "鹭卓否认抄袭",
@@ -34843,6 +34891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235265,
+      "num": 235265,
+      "word": "看完长空之王的后遗症",
+      "onboard_time": 1682744189,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235220,
       "num": 213181,
       "word": "范丞丞预定张婧仪做MV女主",
@@ -36625,6 +36681,14 @@
       "onboard_time": 1682485470,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222224,
+      "num": 222224,
+      "word": "五一账单大赏",
+      "onboard_time": 1682743889,
+      "rank": 28,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 222216,
@@ -38921,6 +38985,14 @@
       "onboard_time": 1680757894,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 209070,
+      "num": 209070,
+      "word": "火凤燎原开播",
+      "onboard_time": 1682744729,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 209052,
@@ -42595,6 +42667,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 199156,
+      "num": 199156,
+      "word": "五月天深圳",
+      "onboard_time": 1682741788,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199127,
       "num": 199127,
       "word": "对宣扬台独的有关机构予以惩戒",
@@ -45643,6 +45723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 190511,
+      "num": 190511,
+      "word": "欧文来了",
+      "onboard_time": 1682740529,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190506,
       "num": 186170,
       "word": "刘彰solo后的第一个大动作",
@@ -47209,14 +47297,6 @@
       "onboard_time": 1680852570,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 185928,
-      "num": 185928,
-      "word": "欧文来了",
-      "onboard_time": 1682740529,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 185883,
@@ -49001,6 +49081,14 @@
       "onboard_time": 1680305360,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178601,
+      "num": 178601,
+      "word": "澹台烬终于有家了",
+      "onboard_time": 1682741973,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 178500,
@@ -51265,14 +51353,6 @@
       "onboard_time": 1681885527,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166863,
-      "num": 166863,
-      "word": "五月天深圳",
-      "onboard_time": 1682741788,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 166858,
@@ -53585,14 +53665,6 @@
       "onboard_time": 1682555188,
       "rank": 32,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 156114,
-      "num": 156114,
-      "word": "顾客点外卖备注科一95骑手报警",
-      "onboard_time": 1682742566,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156013,
@@ -56147,14 +56219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144581,
-      "num": 144581,
-      "word": "澹台烬终于有家了",
-      "onboard_time": 1682741973,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 144535,
       "num": 144535,
       "word": "孟晚舟称华为向死而生怎么能不成仁",
@@ -57793,6 +57857,14 @@
       "onboard_time": 1680601230,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136177,
+      "num": 136177,
+      "word": "钢的琴",
+      "onboard_time": 1682744668,
+      "rank": 44,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 136159,
@@ -59859,6 +59931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125086,
+      "num": 125086,
+      "word": "五一电影",
+      "onboard_time": 1682742746,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 125046,
       "num": 125046,
       "word": "熊猫也有咬不动的竹子",
@@ -60331,6 +60411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121132,
+      "num": 121132,
+      "word": "酒酒鸭脖",
+      "onboard_time": 1682745088,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 121110,
       "num": 121110,
       "word": "陈若轩山河之影手把手教张云龙写字",
@@ -60451,6 +60539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120450,
+      "num": 120450,
+      "word": "超六成投票网友五一宅家休息",
+      "onboard_time": 1682745025,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120429,
       "num": 120429,
       "word": "啜妮心疼蓝冰",
@@ -60513,6 +60609,14 @@
       "onboard_time": 1680346228,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120045,
+      "num": 120045,
+      "word": "武汉站是在拍釜山行吗",
+      "onboard_time": 1682745088,
+      "rank": 49,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 120016,
@@ -61625,14 +61729,6 @@
       "onboard_time": 1681178725,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 111030,
-      "num": 111030,
-      "word": "五一电影",
-      "onboard_time": 1682742746,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 111016,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682742810347,
+  "endTime": 1682745320841,
   "band_list": [
     {
       "raw_hot": 2739695,
@@ -11,6 +11,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1776744,
+      "num": 704058,
+      "word": "性缘脑",
+      "onboard_time": 1682740649,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1701053,
       "num": 533512,
       "word": "贾玲瘦了",
@@ -19,20 +27,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1651694,
+      "num": 1651694,
+      "word": "顾客点外卖备注科一95骑手报警",
+      "onboard_time": 1682742566,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1516377,
       "num": 1516377,
       "word": "青年艺术家孙博离世",
       "onboard_time": 1682739266,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1466774,
-      "num": 704058,
-      "word": "性缘脑",
-      "onboard_time": 1682740649,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 1398880,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 666766,
+      "num": 666766,
+      "word": "哪个城市是空的",
+      "onboard_time": 1682740949,
+      "rank": 25,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 639151,
       "num": 639151,
       "word": "外婆走了 可就没人救你回来了",
@@ -203,6 +219,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 551116,
+      "num": 551116,
+      "word": "最牛的三部仙侠剧",
+      "onboard_time": 1682743049,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 540070,
+      "num": 540070,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1682735608,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 529771,
       "num": 529771,
       "word": "黄磊说自己录的综艺太多了",
@@ -219,12 +251,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 500808,
+      "num": 500808,
+      "word": "刘亦菲演的许红豆是淄博人",
+      "onboard_time": 1682741007,
+      "rank": 16,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 499956,
       "num": 499956,
       "word": "大华 小H",
       "onboard_time": 1682737167,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494737,
+      "num": 494737,
+      "word": "台下全是和薛之谦抢车票的",
+      "onboard_time": 1682743889,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 488942,
@@ -251,14 +299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 485406,
-      "num": 485406,
-      "word": "刘亦菲演的许红豆是淄博人",
-      "onboard_time": 1682741007,
-      "rank": 16,
-      "category": "影视,社会新闻"
-    },
-    {
       "raw_hot": 467649,
       "num": 467649,
       "word": "五一假期没去旅游的原因",
@@ -281,6 +321,22 @@
       "onboard_time": 1682696490,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 440485,
+      "num": 440485,
+      "word": "拉塞尔杀疯了",
+      "onboard_time": 1682743287,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 422171,
+      "num": 422171,
+      "word": "易烊千玺回国",
+      "onboard_time": 1682744789,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 417231,
@@ -337,14 +393,6 @@
       "onboard_time": 1682695172,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 367688,
-      "num": 367688,
-      "word": "哪个城市是空的",
-      "onboard_time": 1682740949,
-      "rank": 25,
-      "category": "旅游,情感"
     },
     {
       "raw_hot": 364304,
@@ -427,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297736,
-      "num": 297736,
-      "word": "灰熊vs湖人",
-      "onboard_time": 1682735608,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289911,
       "num": 289911,
       "word": "何炅说综艺是没有结果的",
@@ -489,6 +529,14 @@
       "onboard_time": 1682736327,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259183,
+      "num": 259183,
+      "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
+      "onboard_time": 1682744065,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 257101,
@@ -587,6 +635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235265,
+      "num": 235265,
+      "word": "看完长空之王的后遗症",
+      "onboard_time": 1682744189,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230721,
       "num": 230721,
       "word": "淄博万人烧烤城",
@@ -609,6 +665,14 @@
       "onboard_time": 1682688812,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222224,
+      "num": 222224,
+      "word": "五一账单大赏",
+      "onboard_time": 1682743889,
+      "rank": 28,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 219008,
@@ -659,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209070,
+      "num": 209070,
+      "word": "火凤燎原开播",
+      "onboard_time": 1682744729,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 205811,
       "num": 205811,
       "word": "不结婚的话如何收回份子钱",
@@ -689,6 +761,14 @@
       "onboard_time": 1682729668,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199156,
+      "num": 199156,
+      "word": "五月天深圳",
+      "onboard_time": 1682741788,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 198958,
@@ -731,20 +811,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190511,
+      "num": 190511,
+      "word": "欧文来了",
+      "onboard_time": 1682740529,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187427,
       "num": 187427,
       "word": "朱令近况",
       "onboard_time": 1682696431,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185928,
-      "num": 185928,
-      "word": "欧文来了",
-      "onboard_time": 1682740529,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 185231,
@@ -777,6 +857,14 @@
       "onboard_time": 1682723180,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178601,
+      "num": 178601,
+      "word": "澹台烬终于有家了",
+      "onboard_time": 1682741973,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 178385,
@@ -817,14 +905,6 @@
       "onboard_time": 1682736689,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166863,
-      "num": 166863,
-      "word": "五月天深圳",
-      "onboard_time": 1682741788,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 165793,
@@ -883,14 +963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 156114,
-      "num": 156114,
-      "word": "顾客点外卖备注科一95骑手报警",
-      "onboard_time": 1682742566,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155958,
       "num": 155958,
       "word": "丁程鑫海口演唱会排练照",
@@ -936,14 +1008,6 @@
       "word": "王一博红毯生图",
       "onboard_time": 1682686051,
       "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 144581,
-      "num": 144581,
-      "word": "澹台烬终于有家了",
-      "onboard_time": 1682741973,
-      "rank": 46,
       "category": "影视"
     },
     {
@@ -995,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136177,
+      "num": 136177,
+      "word": "钢的琴",
+      "onboard_time": 1682744668,
+      "rank": 44,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 133180,
       "num": 95810,
       "word": "杭州东站除上海方向其余车票均已售罄",
@@ -1017,6 +1089,38 @@
       "onboard_time": 1682727208,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125086,
+      "num": 125086,
+      "word": "五一电影",
+      "onboard_time": 1682742746,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 121132,
+      "num": 121132,
+      "word": "酒酒鸭脖",
+      "onboard_time": 1682745088,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 120450,
+      "num": 120450,
+      "word": "超六成投票网友五一宅家休息",
+      "onboard_time": 1682745025,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120045,
+      "num": 120045,
+      "word": "武汉站是在拍釜山行吗",
+      "onboard_time": 1682745088,
+      "rank": 49,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 116699,
@@ -1056,14 +1160,6 @@
       "word": "人生路不熟 笑点密集",
       "onboard_time": 1682732368,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 111030,
-      "num": 111030,
-      "word": "五一电影",
-      "onboard_time": 1682742746,
-      "rank": 47,
       "category": "影视"
     },
     {
