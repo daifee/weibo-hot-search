@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682745320841,
+  "endTime": 1682746416216,
   "band_list": [
     {
       "raw_hot": 2739695,
@@ -9,6 +9,14 @@
       "onboard_time": 1682729846,
       "rank": 3,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 2131821,
+      "num": 2131821,
+      "word": "今年的五一疯了吗",
+      "onboard_time": 1682737949,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 1776744,
@@ -115,20 +123,20 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 1009179,
+      "num": 467261,
+      "word": "易烊千玺回国",
+      "onboard_time": 1682744789,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1006262,
       "num": 305079,
       "word": "你拿下视后我拿下男主",
       "onboard_time": 1682723961,
       "rank": 13,
       "category": "影视"
-    },
-    {
-      "raw_hot": 948624,
-      "num": 948624,
-      "word": "今年的五一疯了吗",
-      "onboard_time": 1682737949,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 908821,
@@ -155,12 +163,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 751996,
+      "num": 751996,
+      "word": "哪个城市是空的",
+      "onboard_time": 1682740949,
+      "rank": 25,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 749359,
       "num": 749359,
       "word": "著名相声演员李建华去世",
       "onboard_time": 1682693555,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 718984,
+      "num": 718984,
+      "word": "最牛的三部仙侠剧",
+      "onboard_time": 1682743049,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 692078,
@@ -171,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 666766,
-      "num": 666766,
-      "word": "哪个城市是空的",
-      "onboard_time": 1682740949,
-      "rank": 25,
-      "category": "旅游,情感"
+      "raw_hot": 663648,
+      "num": 663648,
+      "word": "湖人淘汰灰熊",
+      "onboard_time": 1682745510,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 639151,
@@ -185,6 +209,14 @@
       "onboard_time": 1682730266,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 629270,
+      "num": 629270,
+      "word": "台下全是和薛之谦抢车票的",
+      "onboard_time": 1682743889,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 602791,
@@ -219,14 +251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 551116,
-      "num": 551116,
-      "word": "最牛的三部仙侠剧",
-      "onboard_time": 1682743049,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 540070,
       "num": 540070,
       "word": "灰熊vs湖人",
@@ -251,28 +275,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 500808,
-      "num": 500808,
-      "word": "刘亦菲演的许红豆是淄博人",
-      "onboard_time": 1682741007,
-      "rank": 16,
-      "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 499956,
-      "num": 499956,
+      "raw_hot": 503382,
+      "num": 503382,
       "word": "大华 小H",
       "onboard_time": 1682737167,
       "rank": 25,
       "category": "综艺"
     },
     {
-      "raw_hot": 494737,
-      "num": 494737,
-      "word": "台下全是和薛之谦抢车票的",
-      "onboard_time": 1682743889,
-      "rank": 9,
-      "category": "音乐"
+      "raw_hot": 500808,
+      "num": 500808,
+      "word": "刘亦菲演的许红豆是淄博人",
+      "onboard_time": 1682741007,
+      "rank": 16,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 488942,
@@ -329,14 +345,6 @@
       "onboard_time": 1682743287,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 422171,
-      "num": 422171,
-      "word": "易烊千玺回国",
-      "onboard_time": 1682744789,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 417231,
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296554,
+      "num": 275891,
+      "word": "山东蓝翔派学生五一去淄博帮做烧烤",
+      "onboard_time": 1682746169,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 289911,
       "num": 289911,
       "word": "何炅说综艺是没有结果的",
@@ -489,6 +505,14 @@
       "onboard_time": 1682725702,
       "rank": 17,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 284025,
+      "num": 284025,
+      "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
+      "onboard_time": 1682744065,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 279126,
@@ -529,14 +553,6 @@
       "onboard_time": 1682736327,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259183,
-      "num": 259183,
-      "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
-      "onboard_time": 1682744065,
-      "rank": 23,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 257101,
@@ -707,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215557,
+      "num": 215557,
+      "word": "谷爱凌穿红旗袍演讲",
+      "onboard_time": 1682745448,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 213246,
       "num": 213246,
       "word": "蔡徐坤到达纽约",
@@ -753,6 +777,14 @@
       "onboard_time": 1682719817,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204345,
+      "num": 204345,
+      "word": "武汉站是在拍釜山行吗",
+      "onboard_time": 1682745088,
+      "rank": 49,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 204140,
@@ -851,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179654,
+      "num": 179654,
+      "word": "程潇乐宴舞台好仙",
+      "onboard_time": 1682746169,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178835,
       "num": 145788,
       "word": "这是今晚八点的杭州东站",
@@ -921,6 +961,14 @@
       "onboard_time": 1682694393,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162056,
+      "num": 162056,
+      "word": "勇士你看人家湖人",
+      "onboard_time": 1682745690,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 160010,
@@ -1051,6 +1099,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 137964,
+      "num": 137964,
+      "word": "詹姆斯提前五小时热身",
+      "onboard_time": 1682745808,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137890,
       "num": 137890,
       "word": "五一假期怎么过",
@@ -1099,8 +1155,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121132,
-      "num": 121132,
+      "raw_hot": 123714,
+      "num": 123714,
       "word": "酒酒鸭脖",
       "onboard_time": 1682745088,
       "rank": 47,
@@ -1113,14 +1169,6 @@
       "onboard_time": 1682745025,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120045,
-      "num": 120045,
-      "word": "武汉站是在拍釜山行吗",
-      "onboard_time": 1682745088,
-      "rank": 49,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 116699,
@@ -1417,6 +1465,9 @@
     },
     {
       "word": "#秉持公正立场彰显大国担当#"
+    },
+    {
+      "word": "#回升向好的中国经济要乘势而上#"
     }
   ]
 }

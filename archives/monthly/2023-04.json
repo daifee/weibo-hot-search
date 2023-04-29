@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682745320841,
+  "endTime": 1682746416216,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1897,6 +1897,14 @@
       "onboard_time": 1681374811,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2131821,
+      "num": 2131821,
+      "word": "今年的五一疯了吗",
+      "onboard_time": 1682737949,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 2129891,
@@ -6691,6 +6699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1009179,
+      "num": 467261,
+      "word": "易烊千玺回国",
+      "onboard_time": 1682744789,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1007605,
       "num": 1007605,
       "word": "OMG战胜TES",
@@ -7217,14 +7233,6 @@
       "onboard_time": 1681789829,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 948624,
-      "num": 948624,
-      "word": "今年的五一疯了吗",
-      "onboard_time": 1682737949,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 948449,
@@ -9747,6 +9755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751996,
+      "num": 751996,
+      "word": "哪个城市是空的",
+      "onboard_time": 1682740949,
+      "rank": 25,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 751930,
       "num": 751930,
       "word": "广州公安回应网传梅姨被抓",
@@ -10265,6 +10281,14 @@
       "onboard_time": 1682489606,
       "rank": 23,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 718984,
+      "num": 718984,
+      "word": "最牛的三部仙侠剧",
+      "onboard_time": 1682743049,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 718719,
@@ -11363,14 +11387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 666766,
-      "num": 666766,
-      "word": "哪个城市是空的",
-      "onboard_time": 1682740949,
-      "rank": 25,
-      "category": "旅游,情感"
-    },
-    {
       "raw_hot": 666659,
       "num": 666659,
       "word": "黄晓明问贾乃亮龚俊我可以相信你们吗",
@@ -11449,6 +11465,14 @@
       "onboard_time": 1682169630,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663648,
+      "num": 663648,
+      "word": "湖人淘汰灰熊",
+      "onboard_time": 1682745510,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 663175,
@@ -12257,6 +12281,14 @@
       "onboard_time": 1681732346,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 629270,
+      "num": 629270,
+      "word": "台下全是和薛之谦抢车票的",
+      "onboard_time": 1682743889,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 629263,
@@ -14443,14 +14475,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 551116,
-      "num": 551116,
-      "word": "最牛的三部仙侠剧",
-      "onboard_time": 1682743049,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 551032,
       "num": 551032,
       "word": "广州TTG 今天也想过节吗",
@@ -16035,6 +16059,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 503382,
+      "num": 503382,
+      "word": "大华 小H",
+      "onboard_time": 1682737167,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 503097,
       "num": 503097,
       "word": "李春江的最后一堂训练课",
@@ -16201,14 +16233,6 @@
       "onboard_time": 1680917606,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499956,
-      "num": 499956,
-      "word": "大华 小H",
-      "onboard_time": 1682737167,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 499948,
@@ -16409,14 +16433,6 @@
       "onboard_time": 1680689374,
       "rank": 25,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 494737,
-      "num": 494737,
-      "word": "台下全是和薛之谦抢车票的",
-      "onboard_time": 1682743889,
-      "rank": 9,
-      "category": "音乐"
     },
     {
       "raw_hot": 494725,
@@ -19857,14 +19873,6 @@
       "onboard_time": 1680490948,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 422171,
-      "num": 422171,
-      "word": "易烊千玺回国",
-      "onboard_time": 1682744789,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 422166,
@@ -28283,6 +28291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 296554,
+      "num": 275891,
+      "word": "山东蓝翔派学生五一去淄博帮做烧烤",
+      "onboard_time": 1682746169,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 296536,
       "num": 266809,
       "word": "罗云熙打戏",
@@ -29505,6 +29521,14 @@
       "onboard_time": 1681372589,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 284025,
+      "num": 284025,
+      "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
+      "onboard_time": 1682744065,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 283996,
@@ -31905,14 +31929,6 @@
       "onboard_time": 1680273810,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259183,
-      "num": 259183,
-      "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
-      "onboard_time": 1682744065,
-      "rank": 23,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 259160,
@@ -37843,6 +37859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215557,
+      "num": 215557,
+      "word": "谷爱凌穿红旗袍演讲",
+      "onboard_time": 1682745448,
+      "rank": 27,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 215548,
       "num": 215548,
       "word": "警方辟谣南京迈皋桥发生枪战",
@@ -40593,6 +40617,14 @@
       "onboard_time": 1681301186,
       "rank": 29,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 204345,
+      "num": 204345,
+      "word": "武汉站是在拍釜山行吗",
+      "onboard_time": 1682745088,
+      "rank": 49,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 204316,
@@ -48875,6 +48907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179654,
+      "num": 179654,
+      "word": "程潇乐宴舞台好仙",
+      "onboard_time": 1682746169,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179627,
       "num": 162912,
       "word": "破事精英2定档",
@@ -52433,6 +52473,14 @@
       "onboard_time": 1681187970,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 162056,
+      "num": 162056,
+      "word": "勇士你看人家湖人",
+      "onboard_time": 1682745690,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 162038,
@@ -57547,6 +57595,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 137964,
+      "num": 137964,
+      "word": "詹姆斯提前五小时热身",
+      "onboard_time": 1682745808,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137890,
       "num": 137890,
       "word": "DOU5对战ACT",
@@ -60131,6 +60187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123714,
+      "num": 123714,
+      "word": "酒酒鸭脖",
+      "onboard_time": 1682745088,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 123589,
       "num": 123589,
       "word": "7岁男孩教科书式救回落水儿童",
@@ -60411,14 +60475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121132,
-      "num": 121132,
-      "word": "酒酒鸭脖",
-      "onboard_time": 1682745088,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 121110,
       "num": 121110,
       "word": "陈若轩山河之影手把手教张云龙写字",
@@ -60609,14 +60665,6 @@
       "onboard_time": 1680346228,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120045,
-      "num": 120045,
-      "word": "武汉站是在拍釜山行吗",
-      "onboard_time": 1682745088,
-      "rank": 49,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 120016,
@@ -67131,6 +67179,9 @@
     },
     {
       "word": "#秉持公正立场彰显大国担当#"
+    },
+    {
+      "word": "#回升向好的中国经济要乘势而上#"
     }
   ]
 }

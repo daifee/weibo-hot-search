@@ -1,0 +1,410 @@
+{
+  "runTime": 1682746416216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2131821,
+        "num": 2131821,
+        "word": "今年的五一疯了吗",
+        "onboard_time": 1682737949,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1523412,
+        "num": 1523412,
+        "word": "顾客点外卖备注科一95骑手报警",
+        "onboard_time": 1682742566,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109312,
+        "num": 827081,
+        "word": "国内旅游订单创5年来最高",
+        "onboard_time": 1682736689,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816523,
+        "num": 816523,
+        "word": "五一预计240000000人次出游",
+        "onboard_time": 1682729846,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 751996,
+        "num": 751996,
+        "word": "哪个城市是空的",
+        "onboard_time": 1682740949,
+        "rank": 4,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 718984,
+        "num": 718984,
+        "word": "最牛的三部仙侠剧",
+        "onboard_time": 1682743049,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663648,
+        "num": 663648,
+        "word": "湖人淘汰灰熊",
+        "onboard_time": 1682745510,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 629270,
+        "num": 629270,
+        "word": "台下全是和薛之谦抢车票的",
+        "onboard_time": 1682743889,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 523598,
+        "num": 523598,
+        "word": "青年艺术家孙博离世",
+        "onboard_time": 1682739266,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 503382,
+        "num": 503382,
+        "word": "大华 小H",
+        "onboard_time": 1682737167,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1066585,
+        "num": 471850,
+        "word": "贾玲瘦了",
+        "onboard_time": 1682735549,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1009179,
+        "num": 467261,
+        "word": "易烊千玺回国",
+        "onboard_time": 1682744789,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757469,
+        "num": 463331,
+        "word": "这居然是林小宅",
+        "onboard_time": 1682734409,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439670,
+        "num": 439670,
+        "word": "刘亦菲演的许红豆是淄博人",
+        "onboard_time": 1682741007,
+        "rank": 13,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 432889,
+        "num": 432889,
+        "word": "灰熊vs湖人",
+        "onboard_time": 1682735608,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407945,
+        "num": 407945,
+        "word": "徐娇成绩全A",
+        "onboard_time": 1682730867,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388704,
+        "num": 388704,
+        "word": "拉塞尔杀疯了",
+        "onboard_time": 1682743287,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333103,
+        "num": 333103,
+        "word": "陈赫在向往的生活哭了",
+        "onboard_time": 1682731108,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307987,
+        "num": 307987,
+        "word": "林智妍杂志疑似抄袭倪妮造型",
+        "onboard_time": 1682729188,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 284025,
+        "num": 284025,
+        "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
+        "onboard_time": 1682744065,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1419734,
+        "num": 278664,
+        "word": "性缘脑",
+        "onboard_time": 1682740649,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 495691,
+        "num": 278533,
+        "word": "淄博烧烤最后如何收场",
+        "onboard_time": 1682675791,
+        "rank": 21,
+        "category": "社会议题,美食"
+      },
+      {
+        "raw_hot": 296554,
+        "num": 275891,
+        "word": "山东蓝翔派学生五一去淄博帮做烧烤",
+        "onboard_time": 1682746169,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 272494,
+        "num": 272494,
+        "word": "娜扎裤子",
+        "onboard_time": 1682735246,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259864,
+        "num": 259864,
+        "word": "因为穿衣风格直接丢了工作",
+        "onboard_time": 1682737709,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250735,
+        "num": 250735,
+        "word": "7岁大熊猫小丫因尿毒症去世",
+        "onboard_time": 1682741246,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237084,
+        "num": 237084,
+        "word": "向往7好心酸",
+        "onboard_time": 1682737709,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215557,
+        "num": 215557,
+        "word": "谷爱凌穿红旗袍演讲",
+        "onboard_time": 1682745448,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 212931,
+        "num": 212931,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 28,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 212020,
+        "num": 212020,
+        "word": "北京已严重拥堵",
+        "onboard_time": 1682681249,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204345,
+        "num": 204345,
+        "word": "武汉站是在拍釜山行吗",
+        "onboard_time": 1682745088,
+        "rank": 30,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 197644,
+        "num": 197644,
+        "word": "韩国人什么时候放弃水光肌",
+        "onboard_time": 1682730566,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 179654,
+        "num": 179654,
+        "word": "程潇乐宴舞台好仙",
+        "onboard_time": 1682746169,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177670,
+        "num": 177670,
+        "word": "五月天深圳",
+        "onboard_time": 1682741788,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162056,
+        "num": 162056,
+        "word": "勇士你看人家湖人",
+        "onboard_time": 1682745690,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159989,
+        "num": 159989,
+        "word": "淄博",
+        "onboard_time": 1682731408,
+        "rank": 35,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 157053,
+        "num": 157053,
+        "word": "欧文来了",
+        "onboard_time": 1682740529,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152223,
+        "num": 152223,
+        "word": "澹台烬终于有家了",
+        "onboard_time": 1682741973,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146553,
+        "num": 146553,
+        "word": "外婆走了 可就没人救你回来了",
+        "onboard_time": 1682730266,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145881,
+        "num": 145881,
+        "word": "你拿下视后我拿下男主",
+        "onboard_time": 1682723961,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139118,
+        "num": 139118,
+        "word": "新版教材里的袁爷爷",
+        "onboard_time": 1682738128,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137964,
+        "num": 137964,
+        "word": "詹姆斯提前五小时热身",
+        "onboard_time": 1682745808,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134648,
+        "num": 134648,
+        "word": "宋雨琦聪明",
+        "onboard_time": 1682739928,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132105,
+        "num": 132105,
+        "word": "年轻人在休一种很新的假",
+        "onboard_time": 1682735488,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 127798,
+        "num": 127798,
+        "word": "国王3比3勇士",
+        "onboard_time": 1682737768,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123714,
+        "num": 123714,
+        "word": "酒酒鸭脖",
+        "onboard_time": 1682745088,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123343,
+        "num": 123343,
+        "word": "肖战西安",
+        "onboard_time": 1682725883,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116461,
+        "num": 116461,
+        "word": "五一电影",
+        "onboard_time": 1682742746,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113399,
+        "num": 113399,
+        "word": "火凤燎原开播",
+        "onboard_time": 1682744729,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112938,
+        "num": 112938,
+        "word": "西湖",
+        "onboard_time": 1682738188,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#回升向好的中国经济要乘势而上#"
+    }
+  }
+}
