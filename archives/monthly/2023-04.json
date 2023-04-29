@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682746416216,
+  "endTime": 1682749247170,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -777,6 +777,14 @@
       "onboard_time": 1681275150,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2868623,
+      "num": 2868623,
+      "word": "今年的五一疯了吗",
+      "onboard_time": 1682737949,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 2861843,
@@ -1897,14 +1905,6 @@
       "onboard_time": 1681374811,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2131821,
-      "num": 2131821,
-      "word": "今年的五一疯了吗",
-      "onboard_time": 1682737949,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 2129891,
@@ -14291,6 +14291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555232,
+      "num": 555232,
+      "word": "罗云熙的鞋跟",
+      "onboard_time": 1682747608,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 555149,
       "num": 555149,
       "word": "内地版放羊的星星",
@@ -24923,6 +24931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342268,
+      "num": 272843,
+      "word": "何炅录制完结的节目",
+      "onboard_time": 1682746647,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342078,
       "num": 342078,
       "word": "长月烬明血鸦宴",
@@ -27395,6 +27411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308282,
+      "num": 308282,
+      "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
+      "onboard_time": 1682744065,
+      "rank": 23,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 308275,
       "num": 308275,
       "word": "毕业论文的导师都是语言大师",
@@ -29521,14 +29545,6 @@
       "onboard_time": 1681372589,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 284025,
-      "num": 284025,
-      "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
-      "onboard_time": 1682744065,
-      "rank": 23,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 283996,
@@ -34091,6 +34107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241257,
+      "num": 241257,
+      "word": "马天宇打卡淄博烧烤",
+      "onboard_time": 1682747187,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241228,
       "num": 241228,
       "word": "胡先煦眼角肿了",
@@ -35617,6 +35641,14 @@
       "onboard_time": 1682068470,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229837,
+      "num": 207278,
+      "word": "SEVENTEEN新歌孙悟空练习室",
+      "onboard_time": 1682748326,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 229735,
@@ -43339,6 +43371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197391,
+      "num": 197391,
+      "word": "全资进组",
+      "onboard_time": 1682748806,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 197390,
       "num": 168312,
       "word": "罗云熙十二神合照",
@@ -48651,6 +48691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180653,
+      "num": 180653,
+      "word": "张馨予呼吁去动物园的朋友们不要投喂",
+      "onboard_time": 1682746769,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180636,
       "num": 180636,
       "word": "邓超没认出来陈赫",
@@ -49849,6 +49897,14 @@
       "onboard_time": 1682610989,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174387,
+      "num": 166844,
+      "word": "检察风云岳云鹏反差感",
+      "onboard_time": 1682748867,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 174355,
@@ -51153,6 +51209,14 @@
       "onboard_time": 1682118137,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168283,
+      "num": 168283,
+      "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
+      "onboard_time": 1682748265,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 168109,
@@ -53657,6 +53721,14 @@
       "onboard_time": 1681876651,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156394,
+      "num": 156394,
+      "word": "Jennie朴彩英到达纽约",
+      "onboard_time": 1682748867,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 156369,
@@ -58091,6 +58163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135319,
+      "num": 135319,
+      "word": "陈哲远好笑",
+      "onboard_time": 1682748989,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135295,
       "num": 135295,
       "word": "接住春天的小朋友",
@@ -60507,6 +60587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121007,
+      "num": 121007,
+      "word": "湖人完成黑七",
+      "onboard_time": 1682747128,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120998,
       "num": 120998,
       "word": "社保挂靠代缴风险有多大",
@@ -61307,6 +61395,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 114951,
+      "num": 114951,
+      "word": "放在整个差评界也是炸裂的",
+      "onboard_time": 1682749107,
+      "rank": 46,
+      "category": "其它"
+    },
+    {
       "raw_hot": 114872,
       "num": 114872,
       "word": "腺样体面容有哪些特点",
@@ -61521,6 +61617,14 @@
       "onboard_time": 1680441215,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113184,
+      "num": 113184,
+      "word": "孙怡杨采钰徐晓璐谁才是吴优最好的朋友",
+      "onboard_time": 1682749166,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 113171,
@@ -66225,6 +66329,14 @@
       "onboard_time": 1681596732,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 40947,
+      "num": 110266,
+      "word": "刘宇费加罗男士毕业首封",
+      "onboard_time": 1682747067,
+      "rank": 49,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 40937,
