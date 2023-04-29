@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682777658713,
+  "endTime": 1682778797919,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 2632438,
-      "num": 1159072,
+      "num": 1613984,
       "word": "王源染了绿发",
       "onboard_time": 1682771249,
       "rank": 11,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 2258381,
-      "num": 548285,
+      "num": 566069,
       "word": "秦岚也穿过娜扎同款裤子",
       "onboard_time": 1682760625,
       "rank": 10,
@@ -785,6 +785,14 @@
       "onboard_time": 1682509588,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1635850,
+      "num": 1635850,
+      "word": "张颂文看到已故经纪人照片泪目",
+      "onboard_time": 1682777791,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1634401,
@@ -2475,6 +2483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 586743,
+      "num": 586743,
+      "word": "中国军队完成撤离在苏丹中国人员任务",
+      "onboard_time": 1682776892,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585994,
       "num": 1204858,
       "word": "丫丫的眼睛亮晶晶",
@@ -2561,6 +2577,14 @@
       "onboard_time": 1682432013,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 573196,
+      "num": 573196,
+      "word": "真的会有人一辈子不结婚吗",
+      "onboard_time": 1682773890,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 571836,
@@ -2705,14 +2729,6 @@
       "onboard_time": 1682505326,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543634,
-      "num": 543634,
-      "word": "真的会有人一辈子不结婚吗",
-      "onboard_time": 1682773890,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 541652,
@@ -3315,6 +3331,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 475379,
+      "num": 475379,
+      "word": "包场",
+      "onboard_time": 1682776590,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472751,
       "num": 278525,
       "word": "你能否接受对象有过同居史",
@@ -3731,14 +3755,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 434937,
-      "num": 434937,
-      "word": "中国军队完成撤离在苏丹中国人员任务",
-      "onboard_time": 1682776892,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433937,
       "num": 433937,
       "word": "侵权迪丽热巴网友已无财产可执行",
@@ -4019,6 +4035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 413649,
+      "num": 413649,
+      "word": "原来熊猫摔倒的反应跟人一样",
+      "onboard_time": 1682776172,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 412788,
       "num": 412788,
       "word": "同担对明星热情消退 因为上班",
@@ -4153,6 +4177,14 @@
       "onboard_time": 1682502027,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 402871,
+      "num": 402871,
+      "word": "报复性消费",
+      "onboard_time": 1682773468,
+      "rank": 38,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 402584,
@@ -4475,14 +4507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378920,
-      "num": 378920,
-      "word": "报复性消费",
-      "onboard_time": 1682773468,
-      "rank": 38,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 377652,
       "num": 377652,
       "word": "李延贺涉嫌危害国家安全被调查",
@@ -4585,6 +4609,14 @@
       "onboard_time": 1682421925,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 372424,
+      "num": 372424,
+      "word": "洪崖洞",
+      "onboard_time": 1682777729,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 371922,
@@ -4859,6 +4891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350053,
+      "num": 350053,
+      "word": "易烊千玺外网高清生图",
+      "onboard_time": 1682774915,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 349951,
       "num": 349951,
       "word": "乘风",
@@ -4979,6 +5019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337586,
+      "num": 337586,
+      "word": "长空之王登上新闻联播",
+      "onboard_time": 1682777012,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 337459,
       "num": 337459,
       "word": "木鱼水心",
@@ -5065,14 +5113,6 @@
       "onboard_time": 1682334928,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 331704,
-      "num": 318181,
-      "word": "易烊千玺外网高清生图",
-      "onboard_time": 1682774915,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 330638,
@@ -5209,14 +5249,6 @@
       "onboard_time": 1682377880,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322892,
-      "num": 322892,
-      "word": "包场",
-      "onboard_time": 1682776590,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 322862,
@@ -5459,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313626,
+      "num": 313626,
+      "word": "TTG对战Hero",
+      "onboard_time": 1682767468,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313582,
       "num": 313582,
       "word": "TTG对战AG",
@@ -5489,6 +5529,14 @@
       "onboard_time": 1682403687,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 312459,
+      "num": 312459,
+      "word": "LESSERAFIM新歌认哥初舞台",
+      "onboard_time": 1682778211,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 311843,
@@ -5625,14 +5673,6 @@
       "onboard_time": 1682420607,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303663,
-      "num": 303663,
-      "word": "TTG对战Hero",
-      "onboard_time": 1682767468,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 303450,
@@ -6051,6 +6091,14 @@
       "category": "影视,影视"
     },
     {
+      "raw_hot": 280908,
+      "num": 280908,
+      "word": "不考虑工作最想定居的城市",
+      "onboard_time": 1682777370,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280768,
       "num": 280768,
       "word": "五一堵",
@@ -6097,14 +6145,6 @@
       "onboard_time": 1682343389,
       "rank": 28,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 277578,
-      "num": 206764,
-      "word": "长空之王登上新闻联播",
-      "onboard_time": 1682777012,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 277505,
@@ -6275,14 +6315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 271360,
-      "num": 206138,
-      "word": "原来熊猫摔倒的反应跟人一样",
-      "onboard_time": 1682776172,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 271334,
       "num": 271334,
       "word": "工资不高却要经常熬夜的工作",
@@ -6425,6 +6457,14 @@
       "onboard_time": 1682294848,
       "rank": 22,
       "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 266335,
+      "num": 266335,
+      "word": "关晓彤薄荷绿纱裙",
+      "onboard_time": 1682776713,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 266303,
@@ -7187,6 +7227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242585,
+      "num": 242585,
+      "word": "徐明浩沈月拌嘴",
+      "onboard_time": 1682777611,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242532,
       "num": 242532,
       "word": "家里千万不要留快递纸盒",
@@ -7723,14 +7771,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 223416,
-      "num": 223416,
-      "word": "关晓彤薄荷绿纱裙",
-      "onboard_time": 1682776713,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 223328,
       "num": 223328,
       "word": "易建联 广东队",
@@ -8065,6 +8105,14 @@
       "onboard_time": 1682600729,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 215082,
+      "num": 215082,
+      "word": "张凌赫介绍作品只提了白鹿",
+      "onboard_time": 1682778632,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 214618,
@@ -9056,6 +9104,14 @@
       "word": "青年派计划",
       "onboard_time": 1682571988,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194698,
+      "num": 194698,
+      "word": "丁程鑫还是忘不了电竞",
+      "onboard_time": 1682778632,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -10339,6 +10395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172154,
+      "num": 170619,
+      "word": "易梦玲首尔看秀",
+      "onboard_time": 1682775630,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 171947,
       "num": 171947,
       "word": "趵突泉猪鲤让警察叔叔操碎了心",
@@ -10457,14 +10521,6 @@
       "onboard_time": 1682391626,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 169175,
-      "num": 158426,
-      "word": "易梦玲首尔看秀",
-      "onboard_time": 1682775630,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 169030,
@@ -10803,6 +10859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160712,
+      "num": 160712,
+      "word": "新娘结婚当天蝴蝶停在手腕不走",
+      "onboard_time": 1682778452,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160640,
       "num": 160640,
       "word": "黑暗荣耀值得",
@@ -10881,14 +10945,6 @@
       "onboard_time": 1682488947,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 159642,
-      "num": 159642,
-      "word": "不考虑工作最想定居的城市",
-      "onboard_time": 1682777370,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 159514,
@@ -10987,6 +11043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157843,
+      "num": 157843,
+      "word": "Hero拿到赛点",
+      "onboard_time": 1682777791,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157466,
       "num": 269830,
       "word": "又被山东临沂政府的真诚打动",
@@ -11001,6 +11065,14 @@
       "onboard_time": 1682749166,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157354,
+      "num": 157354,
+      "word": "长空之王中雷宇扎小辫的剧情来源",
+      "onboard_time": 1682778751,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 156975,
@@ -11232,6 +11304,14 @@
       "word": "浙江男篮vs深圳男篮",
       "onboard_time": 1682431650,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151516,
+      "num": 151516,
+      "word": "北京国安0比0山东泰山",
+      "onboard_time": 1682778391,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -11609,14 +11689,6 @@
       "onboard_time": 1682597908,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 145406,
-      "num": 145406,
-      "word": "徐明浩沈月拌嘴",
-      "onboard_time": 1682777611,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 145357,
@@ -13468,7 +13540,7 @@
     },
     {
       "raw_hot": 79906,
-      "num": 1195308,
+      "num": 1614522,
       "word": "这是卫星视角下的美丽中国",
       "onboard_time": 1682772513,
       "rank": 2,
@@ -14097,6 +14169,9 @@
     },
     {
       "word": "#北京国际电影节#"
+    },
+    {
+      "word": "#北京国际电影节闭幕#"
     }
   ]
 }

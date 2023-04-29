@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682777658713,
+  "endTime": 1682778797919,
   "band_list": [
     {
       "raw_hot": 3310693,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2632438,
-      "num": 1159072,
+      "num": 1613984,
       "word": "王源染了绿发",
       "onboard_time": 1682771249,
       "rank": 11,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2258381,
-      "num": 548285,
+      "num": 566069,
       "word": "秦岚也穿过娜扎同款裤子",
       "onboard_time": 1682760625,
       "rank": 10,
@@ -89,6 +89,14 @@
       "onboard_time": 1682742566,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1635850,
+      "num": 1635850,
+      "word": "张颂文看到已故经纪人照片泪目",
+      "onboard_time": 1682777791,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 1586944,
@@ -379,6 +387,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 586743,
+      "num": 586743,
+      "word": "中国军队完成撤离在苏丹中国人员任务",
+      "onboard_time": 1682776892,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 573196,
+      "num": 573196,
+      "word": "真的会有人一辈子不结婚吗",
+      "onboard_time": 1682773890,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571836,
       "num": 571836,
       "word": "韩国人什么时候放弃水光肌",
@@ -401,14 +425,6 @@
       "onboard_time": 1682775751,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 543634,
-      "num": 543634,
-      "word": "真的会有人一辈子不结婚吗",
-      "onboard_time": 1682773890,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 540070,
@@ -499,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 475379,
+      "num": 475379,
+      "word": "包场",
+      "onboard_time": 1682776590,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 472367,
       "num": 344553,
       "word": "许光汉追星IU成功",
@@ -571,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 434937,
-      "num": 434937,
-      "word": "中国军队完成撤离在苏丹中国人员任务",
-      "onboard_time": 1682776892,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 430596,
       "num": 383710,
       "word": "上海武警拉链式人墙上线",
@@ -595,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413649,
+      "num": 413649,
+      "word": "原来熊猫摔倒的反应跟人一样",
+      "onboard_time": 1682776172,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 407713,
       "num": 369961,
       "word": "放在整个差评界也是炸裂的",
       "onboard_time": 1682749107,
       "rank": 46,
       "category": "其它"
+    },
+    {
+      "raw_hot": 402871,
+      "num": 402871,
+      "word": "报复性消费",
+      "onboard_time": 1682773468,
+      "rank": 38,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 400406,
@@ -651,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378920,
-      "num": 378920,
-      "word": "报复性消费",
-      "onboard_time": 1682773468,
-      "rank": 38,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 376661,
       "num": 376661,
       "word": "五一杭州部分热门景点意外遇冷",
@@ -707,6 +731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 372424,
+      "num": 372424,
+      "word": "洪崖洞",
+      "onboard_time": 1682777729,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 364694,
       "num": 364694,
       "word": "比基尼拼接牛仔裤",
@@ -747,6 +779,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 350053,
+      "num": 350053,
+      "word": "易烊千玺外网高清生图",
+      "onboard_time": 1682774915,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 343186,
       "num": 320455,
       "word": "五一长沙到底来了多少人",
@@ -771,20 +811,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337586,
+      "num": 337586,
+      "word": "长空之王登上新闻联播",
+      "onboard_time": 1682777012,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 332754,
       "num": 719772,
       "word": "孕妇羊水破裂交警疏堵5分钟送医",
       "onboard_time": 1682752287,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331704,
-      "num": 318181,
-      "word": "易烊千玺外网高清生图",
-      "onboard_time": 1682774915,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 331288,
@@ -811,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 322892,
-      "num": 322892,
-      "word": "包场",
-      "onboard_time": 1682776590,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 320516,
       "num": 320516,
       "word": "放假第一天兵马俑游客突破五万人",
@@ -833,6 +865,22 @@
       "onboard_time": 1682725883,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313626,
+      "num": 313626,
+      "word": "TTG对战Hero",
+      "onboard_time": 1682767468,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 312459,
+      "num": 312459,
+      "word": "LESSERAFIM新歌认哥初舞台",
+      "onboard_time": 1682778211,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 310364,
@@ -857,14 +905,6 @@
       "onboard_time": 1682729068,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 303663,
-      "num": 303663,
-      "word": "TTG对战Hero",
-      "onboard_time": 1682767468,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 301135,
@@ -931,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280908,
+      "num": 280908,
+      "word": "不考虑工作最想定居的城市",
+      "onboard_time": 1682777370,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280768,
       "num": 280768,
       "word": "五一堵",
@@ -945,14 +993,6 @@
       "onboard_time": 1682741425,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 277578,
-      "num": 206764,
-      "word": "长空之王登上新闻联播",
-      "onboard_time": 1682777012,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 277028,
@@ -979,20 +1019,20 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 271360,
-      "num": 206138,
-      "word": "原来熊猫摔倒的反应跟人一样",
-      "onboard_time": 1682776172,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 269411,
       "num": 269411,
       "word": "蛋仔派对",
       "onboard_time": 1682740888,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266335,
+      "num": 266335,
+      "word": "关晓彤薄荷绿纱裙",
+      "onboard_time": 1682776713,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 263889,
@@ -1155,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242585,
+      "num": 242585,
+      "word": "徐明浩沈月拌嘴",
+      "onboard_time": 1682777611,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241947,
       "num": 228844,
       "word": "男子摸邻座女孩大腿称一时冲动",
@@ -1267,14 +1315,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 223416,
-      "num": 223416,
-      "word": "关晓彤薄荷绿纱裙",
-      "onboard_time": 1682776713,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 222232,
       "num": 200481,
       "word": "原来何炅都老花了",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1682745448,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 215082,
+      "num": 215082,
+      "word": "张凌赫介绍作品只提了白鹿",
+      "onboard_time": 1682778632,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 213246,
@@ -1547,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194698,
+      "num": 194698,
+      "word": "丁程鑫还是忘不了电竞",
+      "onboard_time": 1682778632,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193836,
       "num": 193836,
       "word": "人从众",
@@ -1731,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172154,
+      "num": 170619,
+      "word": "易梦玲首尔看秀",
+      "onboard_time": 1682775630,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 171947,
       "num": 171947,
       "word": "趵突泉猪鲤让警察叔叔操碎了心",
@@ -1753,14 +1817,6 @@
       "onboard_time": 1682753968,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169175,
-      "num": 158426,
-      "word": "易梦玲首尔看秀",
-      "onboard_time": 1682775630,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167862,
@@ -1811,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160712,
+      "num": 160712,
+      "word": "新娘结婚当天蝴蝶停在手腕不走",
+      "onboard_time": 1682778452,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160010,
       "num": 160010,
       "word": "年轻人为什么热衷求好运",
@@ -1827,19 +1891,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159642,
-      "num": 159642,
-      "word": "不考虑工作最想定居的城市",
-      "onboard_time": 1682777370,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 158659,
       "num": 158659,
       "word": "Rookie",
       "onboard_time": 1682681550,
       "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 157843,
+      "num": 157843,
+      "word": "Hero拿到赛点",
+      "onboard_time": 1682777791,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -1857,6 +1921,14 @@
       "onboard_time": 1682749166,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157354,
+      "num": 157354,
+      "word": "长空之王中雷宇扎小辫的剧情来源",
+      "onboard_time": 1682778751,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 156620,
@@ -1923,6 +1995,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151516,
+      "num": 151516,
+      "word": "北京国安0比0山东泰山",
+      "onboard_time": 1682778391,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151362,
       "num": 151362,
       "word": "张艺兴写给蘑菇屋家人的信",
@@ -1977,14 +2057,6 @@
       "onboard_time": 1682686051,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 145406,
-      "num": 145406,
-      "word": "徐明浩沈月拌嘴",
-      "onboard_time": 1682777611,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 144791,
@@ -2380,7 +2452,7 @@
     },
     {
       "raw_hot": 79906,
-      "num": 1195308,
+      "num": 1614522,
       "word": "这是卫星视角下的美丽中国",
       "onboard_time": 1682772513,
       "rank": 2,
@@ -2597,6 +2669,9 @@
     },
     {
       "word": "#北京国际电影节#"
+    },
+    {
+      "word": "#北京国际电影节闭幕#"
     }
   ]
 }
