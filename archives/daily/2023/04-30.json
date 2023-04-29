@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682795572260,
+  "endTime": 1682796798942,
   "band_list": [
     {
       "raw_hot": 1558601,
@@ -459,7 +459,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35980,
+      "raw_hot": 36383,
       "num": 32469,
       "word": "没想到火车上都有KTV了",
       "onboard_time": 1682793615,
@@ -489,6 +489,14 @@
       "onboard_time": 1682794933,
       "rank": 44,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 23521,
+      "num": 23521,
+      "word": "第一个下高速的人",
+      "onboard_time": 1682795174,
+      "rank": 34,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
