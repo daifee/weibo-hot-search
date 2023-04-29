@@ -1,0 +1,410 @@
+{
+  "runTime": 1682735563066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2691934,
+        "num": 2691934,
+        "word": "五一预计240000000人次出游",
+        "onboard_time": 1682729846,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1366787,
+        "num": 1366787,
+        "word": "徐娇成绩全A",
+        "onboard_time": 1682730867,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32026,
+        "num": 1014817,
+        "word": "传统村落集中连片保护利用示范名单",
+        "onboard_time": 1682690732,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858207,
+        "num": 858207,
+        "word": "陈赫在向往的生活哭了",
+        "onboard_time": 1682731108,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 854026,
+        "num": 854026,
+        "word": "林智妍杂志疑似抄袭倪妮造型",
+        "onboard_time": 1682729188,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 639151,
+        "num": 639151,
+        "word": "外婆走了 可就没人救你回来了",
+        "onboard_time": 1682730266,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 569202,
+        "num": 569202,
+        "word": "韩国人什么时候放弃水光肌",
+        "onboard_time": 1682730566,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 466541,
+        "num": 466541,
+        "word": "谢娜说你宁愿相信一张纸都不相信我",
+        "onboard_time": 1682695055,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365932,
+        "num": 365932,
+        "word": "成都地铁",
+        "onboard_time": 1682732068,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290164,
+        "num": 290164,
+        "word": "淄博大姨摊着摊着煎饼累睡着了",
+        "onboard_time": 1682726484,
+        "rank": 9,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 969983,
+        "num": 287638,
+        "word": "淄博烧烤最后如何收场",
+        "onboard_time": 1682675791,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 646299,
+        "num": 283045,
+        "word": "这居然是林小宅",
+        "onboard_time": 1682734409,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 552120,
+        "num": 280546,
+        "word": "你拿下视后我拿下男主",
+        "onboard_time": 1682723961,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 498886,
+        "num": 276165,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 13,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 128458,
+        "num": 269830,
+        "word": "又被山东临沂政府的真诚打动",
+        "onboard_time": 1682733626,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365415,
+        "num": 265255,
+        "word": "易烊千玺祝王源客厅狂欢巡演一切顺利",
+        "onboard_time": 1682734826,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332221,
+        "num": 261292,
+        "word": "黄磊说自己录的综艺太多了",
+        "onboard_time": 1682727867,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297153,
+        "num": 256592,
+        "word": "李莎拉孙明悟油到反光",
+        "onboard_time": 1682726545,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254536,
+        "num": 254536,
+        "word": "B站抢票",
+        "onboard_time": 1682725224,
+        "rank": 18,
+        "category": "科技,动漫"
+      },
+      {
+        "raw_hot": 192686,
+        "num": 192686,
+        "word": "朱令",
+        "onboard_time": 1682729068,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334165,
+        "num": 192174,
+        "word": "北京已严重拥堵",
+        "onboard_time": 1682681249,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277927,
+        "num": 191434,
+        "word": "小丫去世",
+        "onboard_time": 1682677109,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262555,
+        "num": 190317,
+        "word": "肖战西安",
+        "onboard_time": 1682725883,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241947,
+        "num": 189749,
+        "word": "男子摸邻座女孩大腿称一时冲动",
+        "onboard_time": 1682732849,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211194,
+        "num": 188829,
+        "word": "不行师父系上它就不帅了",
+        "onboard_time": 1682731227,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202352,
+        "num": 187709,
+        "word": "著名相声演员李建华去世",
+        "onboard_time": 1682693555,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198126,
+        "num": 187445,
+        "word": "娜扎裤子",
+        "onboard_time": 1682735246,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195019,
+        "num": 186683,
+        "word": "薛之谦南京演唱会",
+        "onboard_time": 1682685149,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185984,
+        "num": 185984,
+        "word": "高速",
+        "onboard_time": 1682730748,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182003,
+        "num": 182003,
+        "word": "五一假期没去旅游的原因",
+        "onboard_time": 1682728405,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 192953,
+        "num": 178996,
+        "word": "原来何炅都老花了",
+        "onboard_time": 1682688812,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172257,
+        "num": 172257,
+        "word": "人从众",
+        "onboard_time": 1682729907,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170797,
+        "num": 170797,
+        "word": "淄博",
+        "onboard_time": 1682731408,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170551,
+        "num": 170551,
+        "word": "不结婚的话如何收回份子钱",
+        "onboard_time": 1682726062,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166249,
+        "num": 166249,
+        "word": "五一还有小众旅游地吗",
+        "onboard_time": 1682732189,
+        "rank": 34,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 163640,
+        "num": 163640,
+        "word": "汉庭门店回应节前强退房客预订单",
+        "onboard_time": 1682734646,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159654,
+        "num": 159654,
+        "word": "租个房把极简发挥到了极致",
+        "onboard_time": 1682725702,
+        "rank": 36,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 151038,
+        "num": 151038,
+        "word": "朴炯植颁奖镜头切给了任时完",
+        "onboard_time": 1682728288,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149553,
+        "num": 149553,
+        "word": "谷爱凌边化妆边赶作业",
+        "onboard_time": 1682724323,
+        "rank": 38,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 133974,
+        "num": 133974,
+        "word": "淄博快递员日发万斤炒饼一身烧烤味",
+        "onboard_time": 1682729668,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133708,
+        "num": 133708,
+        "word": "白鹿百口莫辩的样子像极上一季的周深",
+        "onboard_time": 1682726184,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133173,
+        "num": 133173,
+        "word": "闲人马大姐",
+        "onboard_time": 1682730148,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 132768,
+        "num": 132768,
+        "word": "接返苏丹撤离同胞的临时航班抵达北京",
+        "onboard_time": 1682735372,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127722,
+        "num": 127722,
+        "word": "年轻人在休一种很新的假",
+        "onboard_time": 1682735488,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 125392,
+        "num": 125392,
+        "word": "女子因排队冲突猛扇对方孩子耳光",
+        "onboard_time": 1682735246,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123471,
+        "num": 123471,
+        "word": "向往的生活最后一季",
+        "onboard_time": 1682692593,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123190,
+        "num": 123190,
+        "word": "大熊猫保护研究中心发文",
+        "onboard_time": 1682725404,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120851,
+        "num": 120851,
+        "word": "迪丽热巴的钻超等级",
+        "onboard_time": 1682735488,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120048,
+        "num": 120048,
+        "word": "贾玲瘦了",
+        "onboard_time": 1682735549,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74049,
+        "num": 118107,
+        "word": "光与夜之恋",
+        "onboard_time": 1682732548,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#秉持公正立场彰显大国担当#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682732767162,
+  "endTime": 1682735563066,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -219,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2691934,
+      "num": 2691934,
+      "word": "五一预计240000000人次出游",
+      "onboard_time": 1682729846,
+      "rank": 3,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 2680236,
       "num": 450442,
       "word": "东南大学发色情照领导简历已撤下",
@@ -416,14 +424,6 @@
       "word": "江浙沪人已经放弃五一抢票",
       "onboard_time": 1682553326,
       "rank": 0,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 2071234,
-      "num": 2071234,
-      "word": "五一预计240000000人次出游",
-      "onboard_time": 1682729846,
-      "rank": 3,
       "category": "社会新闻,旅游"
     },
     {
@@ -947,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1366787,
+      "num": 1366787,
+      "word": "徐娇成绩全A",
+      "onboard_time": 1682730867,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1356319,
       "num": 1356319,
       "word": "习近平同泽连斯基通电话",
@@ -1435,6 +1443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 969983,
+      "num": 534518,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 965548,
       "num": 548075,
       "word": "赵丽颖周放",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1682398891,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 955447,
-      "num": 290113,
-      "word": "徐娇成绩全A",
-      "onboard_time": 1682730867,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 952414,
@@ -1577,6 +1585,14 @@
       "onboard_time": 1682344831,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 858207,
+      "num": 858207,
+      "word": "陈赫在向往的生活哭了",
+      "onboard_time": 1682731108,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 853099,
@@ -1745,14 +1761,6 @@
       "onboard_time": 1682308769,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 776844,
-      "num": 534518,
-      "word": "淄博烧烤最后如何收场",
-      "onboard_time": 1682675791,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 772297,
@@ -1995,12 +2003,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646299,
+      "num": 283045,
+      "word": "这居然是林小宅",
+      "onboard_time": 1682734409,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 640567,
       "num": 640567,
       "word": "字母哥垫脚",
       "onboard_time": 1682571390,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 639151,
+      "num": 639151,
+      "word": "外婆走了 可就没人救你回来了",
+      "onboard_time": 1682730266,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 638524,
@@ -2393,14 +2417,6 @@
       "onboard_time": 1682512648,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 550283,
-      "num": 271756,
-      "word": "外婆走了 可就没人救你回来了",
-      "onboard_time": 1682730266,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 548793,
@@ -4091,14 +4107,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 372395,
-      "num": 258221,
-      "word": "陈赫在向往的生活哭了",
-      "onboard_time": 1682731108,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 371922,
       "num": 371922,
       "word": "扬州地震",
@@ -4129,6 +4137,22 @@
       "onboard_time": 1682378002,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 365932,
+      "num": 365932,
+      "word": "成都地铁",
+      "onboard_time": 1682732068,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365415,
+      "num": 265255,
+      "word": "易烊千玺祝王源客厅狂欢巡演一切顺利",
+      "onboard_time": 1682734826,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 365082,
@@ -6051,6 +6075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254536,
+      "num": 254536,
+      "word": "B站抢票",
+      "onboard_time": 1682725224,
+      "rank": 26,
+      "category": "科技,动漫"
+    },
+    {
       "raw_hot": 254483,
       "num": 249053,
       "word": "舒淇生图",
@@ -6417,6 +6449,14 @@
       "onboard_time": 1682392285,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241947,
+      "num": 189749,
+      "word": "男子摸邻座女孩大腿称一时冲动",
+      "onboard_time": 1682732849,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241748,
@@ -6833,14 +6873,6 @@
       "onboard_time": 1682732189,
       "rank": 30,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 223747,
-      "num": 223747,
-      "word": "B站抢票",
-      "onboard_time": 1682725224,
-      "rank": 26,
-      "category": "科技,动漫"
     },
     {
       "raw_hot": 223706,
@@ -7291,6 +7323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211194,
+      "num": 198183,
+      "word": "不行师父系上它就不帅了",
+      "onboard_time": 1682731227,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211173,
       "num": 211173,
       "word": "朱一龙作品回报率",
@@ -7465,14 +7505,6 @@
       "onboard_time": 1682726062,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205627,
-      "num": 205627,
-      "word": "成都地铁",
-      "onboard_time": 1682732068,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205349,
@@ -7675,14 +7707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201457,
-      "num": 198183,
-      "word": "不行师父系上它就不帅了",
-      "onboard_time": 1682731227,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201335,
       "num": 201335,
       "word": "深圳交通局再回应前局长孙女炫富事件",
@@ -7881,6 +7905,14 @@
       "onboard_time": 1682485228,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198126,
+      "num": 187445,
+      "word": "娜扎裤子",
+      "onboard_time": 1682735246,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198113,
@@ -9459,6 +9491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163640,
+      "num": 163640,
+      "word": "汉庭门店回应节前强退房客预订单",
+      "onboard_time": 1682734646,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163317,
       "num": 163317,
       "word": "你有超过10年以上的友情吗",
@@ -10779,6 +10819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 132768,
+      "num": 132768,
+      "word": "接返苏丹撤离同胞的临时航班抵达北京",
+      "onboard_time": 1682735372,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132175,
       "num": 132175,
       "word": "乘风2023播出时间",
@@ -10883,6 +10931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 128458,
+      "num": 269830,
+      "word": "又被山东临沂政府的真诚打动",
+      "onboard_time": 1682733626,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128128,
       "num": 128128,
       "word": "东恩妍珍顶峰相见",
@@ -10905,6 +10961,14 @@
       "onboard_time": 1682694574,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127722,
+      "num": 127722,
+      "word": "年轻人在休一种很新的假",
+      "onboard_time": 1682735488,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 127521,
@@ -11016,6 +11080,14 @@
       "word": "耄耋老人为一群特殊孩子再创业",
       "onboard_time": 1682300727,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125392,
+      "num": 125392,
+      "word": "女子因排队冲突猛扇对方孩子耳光",
+      "onboard_time": 1682735246,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -11139,6 +11211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120851,
+      "num": 120851,
+      "word": "迪丽热巴的钻超等级",
+      "onboard_time": 1682735488,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120482,
       "num": 120482,
       "word": "深圳移动",
@@ -11153,6 +11233,14 @@
       "onboard_time": 1682402188,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120048,
+      "num": 120048,
+      "word": "贾玲瘦了",
+      "onboard_time": 1682735549,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120000,
