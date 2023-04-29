@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682766807821,
+  "endTime": 1682768006658,
   "band_list": [
     {
       "raw_hot": 3223192,
@@ -27,6 +27,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 2334554,
+      "num": 577188,
+      "word": "龚俊 韩国",
+      "onboard_time": 1682761167,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2258381,
       "num": 548285,
       "word": "秦岚也穿过娜扎同款裤子",
@@ -35,12 +43,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2114535,
-      "num": 577188,
-      "word": "龚俊 韩国",
-      "onboard_time": 1682761167,
-      "rank": 10,
-      "category": "作品衍生"
+      "raw_hot": 1839285,
+      "num": 1839285,
+      "word": "海底捞一门店睡满人导致无法用餐",
+      "onboard_time": 1682765909,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1776744,
@@ -195,6 +203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 959719,
+      "num": 959719,
+      "word": "程潇录制受伤",
+      "onboard_time": 1682766146,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 940633,
       "num": 779215,
       "word": "薛之谦高铁上没被认出来的原因",
@@ -331,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 551281,
-      "num": 386013,
-      "word": "海底捞一门店睡满人导致无法用餐",
-      "onboard_time": 1682765909,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540070,
       "num": 540070,
       "word": "灰熊vs湖人",
@@ -371,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 505630,
+      "num": 505630,
+      "word": "上海晚霞",
+      "onboard_time": 1682765487,
+      "rank": 8,
+      "category": "自然"
+    },
+    {
       "raw_hot": 503382,
       "num": 503382,
       "word": "大华 小H",
@@ -393,6 +409,14 @@
       "onboard_time": 1682726484,
       "rank": 6,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 488518,
+      "num": 488518,
+      "word": "王源巡演",
+      "onboard_time": 1682767648,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 487557,
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 467226,
-      "num": 1119964,
+      "num": 1489413,
       "word": "有个三观正的孩子是什么体验",
       "onboard_time": 1682758588,
       "rank": 29,
@@ -473,14 +497,6 @@
       "onboard_time": 1682743287,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 431933,
-      "num": 431933,
-      "word": "上海晚霞",
-      "onboard_time": 1682765487,
-      "rank": 8,
-      "category": "自然"
     },
     {
       "raw_hot": 430596,
@@ -529,14 +545,6 @@
       "onboard_time": 1682748265,
       "rank": 34,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 395025,
-      "num": 395025,
-      "word": "程潇录制受伤",
-      "onboard_time": 1682766146,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 392636,
@@ -603,6 +611,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 364694,
+      "num": 364694,
+      "word": "比基尼拼接牛仔裤",
+      "onboard_time": 1682765066,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364304,
       "num": 364304,
       "word": "奥斯卡获奖导演希望和易烊千玺合作",
@@ -627,12 +643,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 351630,
-      "num": 351630,
-      "word": "比基尼拼接牛仔裤",
-      "onboard_time": 1682765066,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 347946,
+      "num": 990335,
+      "word": "丫丫有堆成小山的竹子",
+      "onboard_time": 1682766687,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339592,
+      "num": 339592,
+      "word": "张杰演唱会",
+      "onboard_time": 1682764466,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 332754,
@@ -675,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310746,
-      "num": 310746,
-      "word": "张杰演唱会",
-      "onboard_time": 1682764466,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 310364,
       "num": 310364,
       "word": "放在整个地铁界是相当炸裂的",
@@ -705,6 +721,14 @@
       "onboard_time": 1682729068,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303663,
+      "num": 303663,
+      "word": "TTG对战Hero",
+      "onboard_time": 1682767468,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 301135,
@@ -753,6 +777,14 @@
       "onboard_time": 1682764587,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281811,
+      "num": 281811,
+      "word": "宋茜镜头下的萌兰",
+      "onboard_time": 1682766747,
+      "rank": 45,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 280768,
@@ -809,6 +841,14 @@
       "onboard_time": 1682762726,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259941,
+      "num": 259941,
+      "word": "火遍全国各地的组合成员发生车祸",
+      "onboard_time": 1682766865,
+      "rank": 23,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 258245,
@@ -881,6 +921,14 @@
       "onboard_time": 1682762488,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 249367,
+      "num": 249367,
+      "word": "给你一亿在图书馆里呆上一年",
+      "onboard_time": 1682766989,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 247997,
@@ -1235,6 +1283,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196176,
+      "num": 196176,
+      "word": "不见上仙三百年",
+      "onboard_time": 1682767648,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193939,
+      "num": 193939,
+      "word": "奔跑吧在玩一种很新的打卡",
+      "onboard_time": 1682765308,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193836,
       "num": 193836,
       "word": "人从众",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1682728288,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182364,
+      "num": 145030,
+      "word": "灌篮高手排片好虐",
+      "onboard_time": 1682766448,
+      "rank": 42,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 180653,
@@ -1419,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167862,
+      "num": 154050,
+      "word": "李润祺新歌歌词",
+      "onboard_time": 1682764645,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166304,
       "num": 166304,
       "word": "王一博雷宇掉羊圈花絮",
@@ -1441,14 +1521,6 @@
       "onboard_time": 1682748989,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164120,
-      "num": 154050,
-      "word": "李润祺新歌歌词",
-      "onboard_time": 1682764645,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 163410,
@@ -1531,14 +1603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 155556,
-      "num": 126334,
-      "word": "灌篮高手排片好虐",
-      "onboard_time": 1682766448,
-      "rank": 42,
-      "category": "影视,动漫"
-    },
-    {
       "raw_hot": 155273,
       "num": 155273,
       "word": "黄子韬说家人跟生活很重要",
@@ -1609,14 +1673,6 @@
       "onboard_time": 1682736808,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144129,
-      "num": 125937,
-      "word": "奔跑吧在玩一种很新的打卡",
-      "onboard_time": 1682765308,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 142886,
@@ -1715,14 +1771,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 125161,
-      "num": 125161,
-      "word": "宋茜镜头下的萌兰",
-      "onboard_time": 1682766747,
-      "rank": 45,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 125086,
       "num": 125086,
       "word": "五一电影",
@@ -1795,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117516,
+      "num": 117516,
+      "word": "KPL",
+      "onboard_time": 1682767828,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117381,
       "num": 117381,
       "word": "谁是你的古风白月光",
@@ -1849,6 +1905,14 @@
       "onboard_time": 1682732368,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 110512,
+      "num": 110512,
+      "word": "95后东北小伙复刻甲胄再现历史",
+      "onboard_time": 1682767770,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109871,
@@ -1972,7 +2036,7 @@
     },
     {
       "raw_hot": 77801,
-      "num": 994743,
+      "num": 1354306,
       "word": "五一假期卫星带你云旅行",
       "onboard_time": 1682759966,
       "rank": 2,

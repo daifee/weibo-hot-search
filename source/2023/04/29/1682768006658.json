@@ -1,0 +1,410 @@
+{
+  "runTime": 1682768006658,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1839285,
+        "num": 1839285,
+        "word": "海底捞一门店睡满人导致无法用餐",
+        "onboard_time": 1682765909,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339728,
+        "num": 1489413,
+        "word": "有个三观正的孩子是什么体验",
+        "onboard_time": 1682758588,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56495,
+        "num": 1354306,
+        "word": "五一假期卫星带你云旅行",
+        "onboard_time": 1682759966,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1272745,
+        "num": 1272745,
+        "word": "今年的五一疯了吗",
+        "onboard_time": 1682737949,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347946,
+        "num": 990335,
+        "word": "丫丫有堆成小山的竹子",
+        "onboard_time": 1682766687,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959719,
+        "num": 959719,
+        "word": "程潇录制受伤",
+        "onboard_time": 1682766146,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174569,
+        "num": 691544,
+        "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
+        "onboard_time": 1682748265,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 534642,
+        "num": 534642,
+        "word": "五一预计240000000人次出游",
+        "onboard_time": 1682729846,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 505630,
+        "num": 505630,
+        "word": "上海晚霞",
+        "onboard_time": 1682765487,
+        "rank": 8,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 488518,
+        "num": 488518,
+        "word": "王源巡演",
+        "onboard_time": 1682767648,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2334554,
+        "num": 487409,
+        "word": "龚俊 韩国",
+        "onboard_time": 1682761167,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1614002,
+        "num": 476379,
+        "word": "秦岚也穿过娜扎同款裤子",
+        "onboard_time": 1682760625,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 917148,
+        "num": 466677,
+        "word": "谷爱凌发的图vsAngelababy发的图",
+        "onboard_time": 1682758649,
+        "rank": 12,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 675667,
+        "num": 461632,
+        "word": "这瓜谁编的",
+        "onboard_time": 1682759665,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455578,
+        "num": 455578,
+        "word": "专家称淄博烧烤一时好不代表长效好",
+        "onboard_time": 1682753607,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 430612,
+        "num": 430612,
+        "word": "薛之谦高铁上没被认出来的原因",
+        "onboard_time": 1682754865,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 405596,
+        "num": 405596,
+        "word": "时尚芭莎 罗云熙白鹿双人视频",
+        "onboard_time": 1682766085,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 364694,
+        "num": 364694,
+        "word": "比基尼拼接牛仔裤",
+        "onboard_time": 1682765066,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339592,
+        "num": 339592,
+        "word": "张杰演唱会",
+        "onboard_time": 1682764466,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321811,
+        "num": 321811,
+        "word": "上海武警拉链式人墙上线",
+        "onboard_time": 1682761828,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321293,
+        "num": 321293,
+        "word": "顾客点外卖备注科一95骑手报警",
+        "onboard_time": 1682742566,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303663,
+        "num": 303663,
+        "word": "TTG对战Hero",
+        "onboard_time": 1682767468,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281811,
+        "num": 281811,
+        "word": "宋茜镜头下的萌兰",
+        "onboard_time": 1682766747,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 259941,
+        "num": 259941,
+        "word": "火遍全国各地的组合成员发生车祸",
+        "onboard_time": 1682766865,
+        "rank": 23,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 257677,
+        "num": 257677,
+        "word": "贾玲瘦了",
+        "onboard_time": 1682735549,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254494,
+        "num": 254494,
+        "word": "何炅穿针手在抖",
+        "onboard_time": 1682764587,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249367,
+        "num": 249367,
+        "word": "给你一亿在图书馆里呆上一年",
+        "onboard_time": 1682766989,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246971,
+        "num": 246971,
+        "word": "秋瓷炫你要是被淘汰就点个痣再回来",
+        "onboard_time": 1682752108,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243206,
+        "num": 243206,
+        "word": "长空之王",
+        "onboard_time": 1682763265,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 230891,
+        "num": 230891,
+        "word": "这盒糕点你最想吃几",
+        "onboard_time": 1682762488,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220979,
+        "num": 220979,
+        "word": "宋慧乔好忙",
+        "onboard_time": 1682762726,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219385,
+        "num": 219385,
+        "word": "五一杭州部分热门景点意外遇冷",
+        "onboard_time": 1682760569,
+        "rank": 31,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 211281,
+        "num": 211281,
+        "word": "全资进组",
+        "onboard_time": 1682748806,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 207022,
+        "num": 207022,
+        "word": "LV早秋23女装秀",
+        "onboard_time": 1682765008,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 202881,
+        "num": 202881,
+        "word": "甘肃酒泉两车相撞致7死10伤",
+        "onboard_time": 1682749347,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 196176,
+        "num": 196176,
+        "word": "不见上仙三百年",
+        "onboard_time": 1682767648,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195113,
+        "num": 195113,
+        "word": "谁给易烊千玺换个口罩",
+        "onboard_time": 1682765127,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193939,
+        "num": 193939,
+        "word": "奔跑吧在玩一种很新的打卡",
+        "onboard_time": 1682765308,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151130,
+        "num": 151130,
+        "word": "孕妇羊水破裂交警疏堵5分钟送医",
+        "onboard_time": 1682752287,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146038,
+        "num": 146038,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 39,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 182364,
+        "num": 145030,
+        "word": "灌篮高手排片好虐",
+        "onboard_time": 1682766448,
+        "rank": 40,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 167862,
+        "num": 141485,
+        "word": "李润祺新歌歌词",
+        "onboard_time": 1682764645,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162641,
+        "num": 139749,
+        "word": "这居然是林小宅",
+        "onboard_time": 1682734409,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158860,
+        "num": 137306,
+        "word": "肖战希望大家观看只带着对舞台的热爱",
+        "onboard_time": 1682753847,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156105,
+        "num": 134637,
+        "word": "檀健次 大连",
+        "onboard_time": 1682760446,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133930,
+        "num": 133930,
+        "word": "留几手 写给网友的道歉信",
+        "onboard_time": 1682759726,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117516,
+        "num": 117516,
+        "word": "KPL",
+        "onboard_time": 1682767828,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114374,
+        "num": 114374,
+        "word": "北京国安vs山东泰山",
+        "onboard_time": 1682764645,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113613,
+        "num": 113613,
+        "word": "顶流花花提前休五一",
+        "onboard_time": 1682758467,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110512,
+        "num": 110512,
+        "word": "95后东北小伙复刻甲胄再现历史",
+        "onboard_time": 1682767770,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#回升向好的中国经济要乘势而上#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682766807821,
+  "endTime": 1682768006658,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -315,6 +315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 2334554,
+      "num": 577188,
+      "word": "龚俊 韩国",
+      "onboard_time": 1682761167,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2322125,
       "num": 2322125,
       "word": "B太 徐州烧烤",
@@ -433,14 +441,6 @@
       "onboard_time": 1682297310,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2114535,
-      "num": 577188,
-      "word": "龚俊 韩国",
-      "onboard_time": 1682761167,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2090956,
@@ -593,6 +593,14 @@
       "onboard_time": 1682586689,
       "rank": 37,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1839285,
+      "num": 1839285,
+      "word": "海底捞一门店睡满人导致无法用餐",
+      "onboard_time": 1682765909,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1821082,
@@ -1577,6 +1585,14 @@
       "onboard_time": 1682398891,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 959719,
+      "num": 959719,
+      "word": "程潇录制受伤",
+      "onboard_time": 1682766146,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 952414,
@@ -2595,14 +2611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 551281,
-      "num": 386013,
-      "word": "海底捞一门店睡满人导致无法用餐",
-      "onboard_time": 1682765909,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 551154,
       "num": 551154,
       "word": "串串店家回应鸡爪插13根签",
@@ -2867,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505630,
+      "num": 505630,
+      "word": "上海晚霞",
+      "onboard_time": 1682765487,
+      "rank": 8,
+      "category": "自然"
+    },
+    {
       "raw_hot": 503577,
       "num": 503577,
       "word": "太阳Lisa新歌shoong",
@@ -3057,6 +3073,14 @@
       "onboard_time": 1682306245,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488518,
+      "num": 488518,
+      "word": "王源巡演",
+      "onboard_time": 1682767648,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 486122,
@@ -3284,7 +3308,7 @@
     },
     {
       "raw_hot": 467226,
-      "num": 1119964,
+      "num": 1489413,
       "word": "有个三观正的孩子是什么体验",
       "onboard_time": 1682758588,
       "rank": 29,
@@ -3681,14 +3705,6 @@
       "onboard_time": 1682389406,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 431933,
-      "num": 431933,
-      "word": "上海晚霞",
-      "onboard_time": 1682765487,
-      "rank": 8,
-      "category": "自然"
     },
     {
       "raw_hot": 430596,
@@ -4147,14 +4163,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 395025,
-      "num": 395025,
-      "word": "程潇录制受伤",
-      "onboard_time": 1682766146,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394998,
       "num": 256487,
       "word": "黎苏苏留给澹台烬的最后一句话",
@@ -4523,6 +4531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 364694,
+      "num": 364694,
+      "word": "比基尼拼接牛仔裤",
+      "onboard_time": 1682765066,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364515,
       "num": 364515,
       "word": "威少失误",
@@ -4707,14 +4723,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 351630,
-      "num": 351630,
-      "word": "比基尼拼接牛仔裤",
-      "onboard_time": 1682765066,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351570,
       "num": 351570,
       "word": "南柱赫否认校暴视频",
@@ -4760,6 +4768,14 @@
       "word": "女孩家属回应男子跳楼砸伤其女儿",
       "onboard_time": 1682395589,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347946,
+      "num": 990335,
+      "word": "丫丫有堆成小山的竹子",
+      "onboard_time": 1682766687,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -5475,6 +5491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303663,
+      "num": 303663,
+      "word": "TTG对战Hero",
+      "onboard_time": 1682767468,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 303450,
       "num": 303450,
       "word": "未定事件簿",
@@ -5849,6 +5873,14 @@
       "onboard_time": 1682329227,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 281811,
+      "num": 281811,
+      "word": "宋茜镜头下的萌兰",
+      "onboard_time": 1682766747,
+      "rank": 45,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 281476,
@@ -6379,6 +6411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 259941,
+      "num": 259941,
+      "word": "火遍全国各地的组合成员发生车祸",
+      "onboard_time": 1682766865,
+      "rank": 23,
+      "category": "艺人,社会新闻"
+    },
+    {
       "raw_hot": 259758,
       "num": 658910,
       "word": "今晚红毯又是神仙打架",
@@ -6760,6 +6800,14 @@
       "word": "MBTI",
       "onboard_time": 1682662706,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 249367,
+      "num": 249367,
+      "word": "给你一亿在图书馆里呆上一年",
+      "onboard_time": 1682766989,
+      "rank": 26,
       "category": "情感"
     },
     {
@@ -8707,6 +8755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196176,
+      "num": 196176,
+      "word": "不见上仙三百年",
+      "onboard_time": 1682767648,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195586,
       "num": 183196,
       "word": "范丞丞低头让张婧仪戴花环",
@@ -8808,6 +8864,14 @@
       "word": "朱珠走秀气场",
       "onboard_time": 1682660968,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193939,
+      "num": 193939,
+      "word": "奔跑吧在玩一种很新的打卡",
+      "onboard_time": 1682765308,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -9499,6 +9563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182364,
+      "num": 145030,
+      "word": "灌篮高手排片好虐",
+      "onboard_time": 1682766448,
+      "rank": 42,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 182072,
       "num": 182072,
       "word": "深圳是全国加班最狠的城市",
@@ -10139,6 +10211,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167862,
+      "num": 154050,
+      "word": "李润祺新歌歌词",
+      "onboard_time": 1682764645,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167589,
       "num": 167589,
       "word": "GUCCI活动谁赢了",
@@ -10281,14 +10361,6 @@
       "onboard_time": 1682748989,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164120,
-      "num": 154050,
-      "word": "李润祺新歌歌词",
-      "onboard_time": 1682764645,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 164075,
@@ -10713,14 +10785,6 @@
       "onboard_time": 1682421506,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 155556,
-      "num": 126334,
-      "word": "灌篮高手排片好虐",
-      "onboard_time": 1682766448,
-      "rank": 42,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 155273,
@@ -11304,14 +11368,6 @@
       "word": "谭维维把伴娘红包都给了刘昊然",
       "onboard_time": 1682293343,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 144129,
-      "num": 125937,
-      "word": "奔跑吧在玩一种很新的打卡",
-      "onboard_time": 1682765308,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -12075,14 +12131,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 125161,
-      "num": 125161,
-      "word": "宋茜镜头下的萌兰",
-      "onboard_time": 1682766747,
-      "rank": 45,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 125086,
       "num": 125086,
       "word": "五一电影",
@@ -12315,6 +12363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117516,
+      "num": 117516,
+      "word": "KPL",
+      "onboard_time": 1682767828,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117418,
       "num": 117418,
       "word": "美国GDP",
@@ -12528,6 +12584,14 @@
       "word": "萌娃小心翼翼向武警敬礼收到惊喜回应",
       "onboard_time": 1682419647,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110512,
+      "num": 110512,
+      "word": "95后东北小伙复刻甲胄再现历史",
+      "onboard_time": 1682767770,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -13092,7 +13156,7 @@
     },
     {
       "raw_hot": 77801,
-      "num": 994743,
+      "num": 1354306,
       "word": "五一假期卫星带你云旅行",
       "onboard_time": 1682759966,
       "rank": 2,
