@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682753612884,
+  "endTime": 1682756384192,
   "band_list": [
     {
       "raw_hot": 3211914,
@@ -123,6 +123,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1043809,
+      "num": 1043809,
+      "word": "全资进组",
+      "onboard_time": 1682748806,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1033217,
       "num": 388113,
       "word": "北京已严重拥堵",
@@ -137,14 +145,6 @@
       "onboard_time": 1682694271,
       "rank": 3,
       "category": "幽默,科技"
-    },
-    {
-      "raw_hot": 1009745,
-      "num": 1009745,
-      "word": "全资进组",
-      "onboard_time": 1682748806,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 1009179,
@@ -193,6 +193,22 @@
       "onboard_time": 1682697209,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 895924,
+      "num": 895924,
+      "word": "秋瓷炫你要是被淘汰就点个痣再回来",
+      "onboard_time": 1682752108,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 779215,
+      "num": 779215,
+      "word": "薛之谦高铁上没被认出来的原因",
+      "onboard_time": 1682754865,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 751996,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 407713,
-      "num": 360250,
+      "num": 368722,
       "word": "放在整个差评界也是炸裂的",
       "onboard_time": 1682749107,
       "rank": 46,
@@ -443,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375274,
+      "num": 352817,
+      "word": "游客一出西安站5A级景区扑面而来",
+      "onboard_time": 1682752647,
+      "rank": 23,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 375236,
       "num": 375236,
       "word": "新版教材里的袁爷爷",
@@ -483,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332754,
+      "num": 332754,
+      "word": "孕妇羊水破裂交警疏堵5分钟送医",
+      "onboard_time": 1682752287,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331288,
       "num": 143203,
       "word": "上海地铁回应孕妇要男子让座",
@@ -512,6 +544,14 @@
       "word": "肖战西安",
       "onboard_time": 1682725883,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 314872,
+      "num": 314872,
+      "word": "许光汉追星IU成功",
+      "onboard_time": 1682755349,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -595,6 +635,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 275619,
+      "num": 251686,
+      "word": "肖战希望大家观看只带着对舞台的热爱",
+      "onboard_time": 1682753847,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 269411,
       "num": 269411,
       "word": "蛋仔派对",
@@ -619,6 +667,22 @@
       "category": "科技,动漫"
     },
     {
+      "raw_hot": 256934,
+      "num": 256934,
+      "word": "五一假期首日多地热门景区寸步难行",
+      "onboard_time": 1682750126,
+      "rank": 18,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 256742,
+      "num": 256742,
+      "word": "王一博演90后试飞员有原型",
+      "onboard_time": 1682753968,
+      "rank": 19,
+      "category": "社会新闻,影视"
+    },
+    {
       "raw_hot": 255856,
       "num": 255856,
       "word": "淄博快递员日发万斤炒饼一身烧烤味",
@@ -641,14 +705,6 @@
       "onboard_time": 1682751506,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 251484,
-      "num": 251484,
-      "word": "秋瓷炫你要是被淘汰就点个痣再回来",
-      "onboard_time": 1682752108,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 251411,
@@ -739,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231638,
+      "num": 231638,
+      "word": "Apex",
+      "onboard_time": 1682753727,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230721,
       "num": 230721,
       "word": "淄博万人烧烤城",
@@ -753,14 +817,6 @@
       "onboard_time": 1682748326,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 227782,
-      "num": 227782,
-      "word": "孕妇羊水破裂交警疏堵5分钟送医",
-      "onboard_time": 1682752287,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223961,
@@ -803,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217025,
+      "num": 217025,
+      "word": "陈都灵说感觉关上的那扇门焊死了",
+      "onboard_time": 1682752529,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216683,
       "num": 216683,
       "word": "国王3比3勇士",
@@ -825,14 +889,6 @@
       "onboard_time": 1682745448,
       "rank": 27,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 215273,
-      "num": 215273,
-      "word": "游客一出西安站5A级景区扑面而来",
-      "onboard_time": 1682752647,
-      "rank": 23,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 213246,
@@ -939,12 +995,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195224,
-      "num": 184439,
-      "word": "陈都灵说感觉关上的那扇门焊死了",
-      "onboard_time": 1682752529,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 197625,
+      "num": 197625,
+      "word": "专家称淄博烧烤一时好不代表长效好",
+      "onboard_time": 1682753607,
+      "rank": 27,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 196569,
+      "num": 196569,
+      "word": "范丞丞问乔杉曾经惹岳父着急上火现在呢",
+      "onboard_time": 1682755466,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 193836,
@@ -953,6 +1017,14 @@
       "onboard_time": 1682729907,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192187,
+      "num": 192187,
+      "word": "杨超越工作室严正声明",
+      "onboard_time": 1682751928,
+      "rank": 36,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 191083,
@@ -977,14 +1049,6 @@
       "onboard_time": 1682696431,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185260,
-      "num": 185260,
-      "word": "杨超越工作室严正声明",
-      "onboard_time": 1682751928,
-      "rank": 36,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 185231,
@@ -1091,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170132,
+      "num": 170132,
+      "word": "五一假首日西安回民街已水泄不通",
+      "onboard_time": 1682754987,
+      "rank": 32,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 166304,
       "num": 166304,
       "word": "王一博雷宇掉羊圈花絮",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1682694393,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163029,
+      "num": 163029,
+      "word": "被爱时其实不需要那么漂亮",
+      "onboard_time": 1682753968,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 162056,
@@ -1201,6 +1281,22 @@
       "onboard_time": 1682732548,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153987,
+      "num": 153987,
+      "word": "DF MDYW进入线下赛",
+      "onboard_time": 1682753847,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 152997,
+      "num": 152997,
+      "word": "宋茜假日分享和熊猫的约会",
+      "onboard_time": 1682755225,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 151362,
@@ -1353,6 +1449,14 @@
       "onboard_time": 1682749885,
       "rank": 45,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 121186,
+      "num": 121186,
+      "word": "堵车时第一辆车在干什么",
+      "onboard_time": 1682755769,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 121007,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682753612884,
+  "endTime": 1682756384192,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1371,6 +1371,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1043809,
+      "num": 1043809,
+      "word": "全资进组",
+      "onboard_time": 1682748806,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1039901,
       "num": 648926,
       "word": "奚梦瑶回应去深圳不是上课是上班",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1682447893,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1009745,
-      "num": 1009745,
-      "word": "全资进组",
-      "onboard_time": 1682748806,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 1009179,
@@ -1641,6 +1641,14 @@
       "onboard_time": 1682697209,
       "rank": 10,
       "category": "影视"
+    },
+    {
+      "raw_hot": 895924,
+      "num": 895924,
+      "word": "秋瓷炫你要是被淘汰就点个痣再回来",
+      "onboard_time": 1682752108,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 890369,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1682308769,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 779215,
+      "num": 779215,
+      "word": "薛之谦高铁上没被认出来的原因",
+      "onboard_time": 1682754865,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 772297,
@@ -3884,7 +3900,7 @@
     },
     {
       "raw_hot": 407713,
-      "num": 360250,
+      "num": 368722,
       "word": "放在整个差评界也是炸裂的",
       "onboard_time": 1682749107,
       "rank": 46,
@@ -4289,6 +4305,14 @@
       "onboard_time": 1682736928,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375274,
+      "num": 352817,
+      "word": "游客一出西安站5A级景区扑面而来",
+      "onboard_time": 1682752647,
+      "rank": 23,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 375236,
@@ -4771,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332754,
+      "num": 332754,
+      "word": "孕妇羊水破裂交警疏堵5分钟送医",
+      "onboard_time": 1682752287,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332543,
       "num": 277060,
       "word": "徐明浩眼神",
@@ -5089,6 +5121,14 @@
       "onboard_time": 1682320407,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314872,
+      "num": 314872,
+      "word": "许光汉追星IU成功",
+      "onboard_time": 1682755349,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 314637,
@@ -5803,6 +5843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275619,
+      "num": 251686,
+      "word": "肖战希望大家观看只带着对舞台的热爱",
+      "onboard_time": 1682753847,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275500,
       "num": 275500,
       "word": "蔡依林演唱会",
@@ -6283,12 +6331,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 256934,
+      "num": 256934,
+      "word": "五一假期首日多地热门景区寸步难行",
+      "onboard_time": 1682750126,
+      "rank": 18,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 256745,
       "num": 195584,
       "word": "遇上法定节假日你会拼假吗",
       "onboard_time": 1682346630,
       "rank": 31,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 256742,
+      "num": 256742,
+      "word": "王一博演90后试飞员有原型",
+      "onboard_time": 1682753968,
+      "rank": 19,
+      "category": "社会新闻,影视"
     },
     {
       "raw_hot": 256162,
@@ -6497,14 +6561,6 @@
       "onboard_time": 1682403386,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 251484,
-      "num": 251484,
-      "word": "秋瓷炫你要是被淘汰就点个痣再回来",
-      "onboard_time": 1682752108,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 251479,
@@ -7059,6 +7115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231638,
+      "num": 231638,
+      "word": "Apex",
+      "onboard_time": 1682753727,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231475,
       "num": 231475,
       "word": "新型表白方式 西瓜烂了",
@@ -7137,14 +7201,6 @@
       "onboard_time": 1682384249,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 227782,
-      "num": 227782,
-      "word": "孕妇羊水破裂交警疏堵5分钟送医",
-      "onboard_time": 1682752287,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227204,
@@ -7483,6 +7539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217025,
+      "num": 217025,
+      "word": "陈都灵说感觉关上的那扇门焊死了",
+      "onboard_time": 1682752529,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216772,
       "num": 216772,
       "word": "TTG战胜AG",
@@ -7553,14 +7617,6 @@
       "onboard_time": 1682600729,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 215273,
-      "num": 215273,
-      "word": "游客一出西安站5A级景区扑面而来",
-      "onboard_time": 1682752647,
-      "rank": 23,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 214618,
@@ -8371,6 +8427,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 197625,
+      "num": 197625,
+      "word": "专家称淄博烧烤一时好不代表长效好",
+      "onboard_time": 1682753607,
+      "rank": 27,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 197485,
       "num": 197485,
       "word": "肖战如梦之梦怼脸镜头",
@@ -8393,6 +8457,14 @@
       "onboard_time": 1682687071,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196569,
+      "num": 196569,
+      "word": "范丞丞问乔杉曾经惹岳父着急上火现在呢",
+      "onboard_time": 1682755466,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 196471,
@@ -8441,14 +8513,6 @@
       "onboard_time": 1682411007,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195224,
-      "num": 184439,
-      "word": "陈都灵说感觉关上的那扇门焊死了",
-      "onboard_time": 1682752529,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 195223,
@@ -8657,6 +8721,14 @@
       "onboard_time": 1682651188,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192187,
+      "num": 192187,
+      "word": "杨超越工作室严正声明",
+      "onboard_time": 1682751928,
+      "rank": 36,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 191706,
@@ -9033,14 +9105,6 @@
       "onboard_time": 1682608949,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 185260,
-      "num": 185260,
-      "word": "杨超越工作室严正声明",
-      "onboard_time": 1682751928,
-      "rank": 36,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 185236,
@@ -9795,6 +9859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170132,
+      "num": 170132,
+      "word": "五一假首日西安回民街已水泄不通",
+      "onboard_time": 1682754987,
+      "rank": 32,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 170002,
       "num": 437260,
       "word": "费加罗红毯",
@@ -10049,6 +10121,14 @@
       "onboard_time": 1682642910,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163029,
+      "num": 163029,
+      "word": "被爱时其实不需要那么漂亮",
+      "onboard_time": 1682753968,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 163012,
@@ -10467,6 +10547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153987,
+      "num": 153987,
+      "word": "DF MDYW进入线下赛",
+      "onboard_time": 1682753847,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153841,
       "num": 153841,
       "word": "徐明浩透视装",
@@ -10513,6 +10601,14 @@
       "onboard_time": 1682506708,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152997,
+      "num": 152997,
+      "word": "宋茜假日分享和熊猫的约会",
+      "onboard_time": 1682755225,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 151887,
@@ -11825,6 +11921,14 @@
       "onboard_time": 1682470529,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121186,
+      "num": 121186,
+      "word": "堵车时第一辆车在干什么",
+      "onboard_time": 1682755769,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 121066,
