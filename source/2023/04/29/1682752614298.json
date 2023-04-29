@@ -1,0 +1,410 @@
+{
+  "runTime": 1682752614298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3168840,
+        "num": 3168840,
+        "word": "娜扎 我不觉得我穿得有问题",
+        "onboard_time": 1682750606,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1660500,
+        "num": 1660500,
+        "word": "今年的五一疯了吗",
+        "onboard_time": 1682737949,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113007,
+        "num": 1577145,
+        "word": "国内旅游订单创5年来最高",
+        "onboard_time": 1682736689,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1539204,
+        "num": 1539204,
+        "word": "顾客点外卖备注科一95骑手报警",
+        "onboard_time": 1682742566,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090645,
+        "num": 1090645,
+        "word": "罗云熙的鞋跟",
+        "onboard_time": 1682747608,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 853758,
+        "num": 853758,
+        "word": "甘肃酒泉车辆碰撞事故致6死12伤",
+        "onboard_time": 1682749347,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 746049,
+        "num": 746049,
+        "word": "五一预计240000000人次出游",
+        "onboard_time": 1682729846,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 683996,
+        "num": 683996,
+        "word": "全资进组",
+        "onboard_time": 1682748806,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 395598,
+        "num": 395598,
+        "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
+        "onboard_time": 1682748265,
+        "rank": 8,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 377799,
+        "num": 377799,
+        "word": "台下全是和薛之谦抢车票的",
+        "onboard_time": 1682743889,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 560208,
+        "num": 372522,
+        "word": "贾玲瘦了",
+        "onboard_time": 1682735549,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394966,
+        "num": 354762,
+        "word": "这居然是林小宅",
+        "onboard_time": 1682734409,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391265,
+        "num": 353161,
+        "word": "易烊千玺回国",
+        "onboard_time": 1682744789,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333141,
+        "num": 333141,
+        "word": "最牛的三部仙侠剧",
+        "onboard_time": 1682743049,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 320608,
+        "num": 320608,
+        "word": "哪个城市是空的",
+        "onboard_time": 1682740949,
+        "rank": 14,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 322322,
+        "num": 312389,
+        "word": "徐娇成绩全A",
+        "onboard_time": 1682730867,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291096,
+        "num": 291096,
+        "word": "放在整个差评界也是炸裂的",
+        "onboard_time": 1682749107,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 281394,
+        "num": 281394,
+        "word": "何炅录制完结的节目",
+        "onboard_time": 1682746647,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241953,
+        "num": 241953,
+        "word": "因为穿衣风格直接丢了工作",
+        "onboard_time": 1682737709,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212557,
+        "num": 236028,
+        "word": "潍坊文旅局长回应到淄博烧烤摊揽客",
+        "onboard_time": 1682744065,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 252900,
+        "num": 236027,
+        "word": "王源粉丝看演唱会的发型",
+        "onboard_time": 1682751506,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235973,
+        "num": 235973,
+        "word": "大华 小H",
+        "onboard_time": 1682737167,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227424,
+        "num": 227424,
+        "word": "北京已严重拥堵",
+        "onboard_time": 1682681249,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204792,
+        "num": 204792,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 23,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 176314,
+        "num": 176314,
+        "word": "青年艺术家孙博离世",
+        "onboard_time": 1682739266,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 226435,
+        "num": 173571,
+        "word": "陈赫在向往的生活哭了",
+        "onboard_time": 1682731108,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210093,
+        "num": 169523,
+        "word": "Jennie朴彩英到达纽约",
+        "onboard_time": 1682748867,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203944,
+        "num": 165463,
+        "word": "马天宇打卡淄博烧烤",
+        "onboard_time": 1682747187,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185605,
+        "num": 160303,
+        "word": "林智妍杂志疑似抄袭倪妮造型",
+        "onboard_time": 1682729188,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 159365,
+        "num": 159365,
+        "word": "谷爱凌穿红旗袍演讲",
+        "onboard_time": 1682745448,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 157436,
+        "num": 157436,
+        "word": "武汉站是在拍釜山行吗",
+        "onboard_time": 1682745088,
+        "rank": 30,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 157311,
+        "num": 157311,
+        "word": "西湖",
+        "onboard_time": 1682738188,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 155273,
+        "num": 155273,
+        "word": "黄子韬说家人跟生活很重要",
+        "onboard_time": 1682751267,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149065,
+        "num": 149065,
+        "word": "孕妇羊水破裂交警疏堵5分钟送医",
+        "onboard_time": 1682752287,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146567,
+        "num": 146567,
+        "word": "秋瓷炫你要是被淘汰就点个痣再回来",
+        "onboard_time": 1682752108,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137601,
+        "num": 137601,
+        "word": "刘亦菲演的许红豆是淄博人",
+        "onboard_time": 1682741007,
+        "rank": 35,
+        "category": "影视,社会新闻"
+      },
+      {
+        "raw_hot": 137119,
+        "num": 137119,
+        "word": "杨超越工作室严正声明",
+        "onboard_time": 1682751928,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 135725,
+        "num": 135725,
+        "word": "孙怡杨采钰徐晓璐谁才是吴优最好的朋友",
+        "onboard_time": 1682749166,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132122,
+        "num": 132122,
+        "word": "SEVENTEEN新歌孙悟空练习室",
+        "onboard_time": 1682748326,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130823,
+        "num": 130823,
+        "word": "湖人淘汰灰熊",
+        "onboard_time": 1682745510,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128009,
+        "num": 128009,
+        "word": "向往7好心酸",
+        "onboard_time": 1682737709,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125150,
+        "num": 125150,
+        "word": "王一博雷宇掉羊圈花絮",
+        "onboard_time": 1682752406,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122216,
+        "num": 122216,
+        "word": "陌生人助力五个大学生旅行",
+        "onboard_time": 1682749885,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 121024,
+        "num": 121024,
+        "word": "陈都灵说感觉关上的那扇门焊死了",
+        "onboard_time": 1682752529,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117978,
+        "num": 117978,
+        "word": "淄博",
+        "onboard_time": 1682731408,
+        "rank": 44,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 117381,
+        "num": 117381,
+        "word": "谁是你的古风白月光",
+        "onboard_time": 1682751447,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114652,
+        "num": 114652,
+        "word": "勇士你看人家湖人",
+        "onboard_time": 1682745690,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112674,
+        "num": 112674,
+        "word": "五一独自在家有多爽",
+        "onboard_time": 1682752586,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109789,
+        "num": 109789,
+        "word": "拉塞尔杀疯了",
+        "onboard_time": 1682743287,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51389,
+        "num": 109646,
+        "word": "蛋仔派对",
+        "onboard_time": 1682740888,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#回升向好的中国经济要乘势而上#"
+    }
+  }
+}
