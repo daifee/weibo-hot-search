@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682788448130,
+  "endTime": 1682789611769,
   "band_list": [
     {
       "raw_hot": 1558601,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227409,
+      "num": 227409,
+      "word": "长沙官方通报买4.6斤水果少一斤",
+      "onboard_time": 1682787261,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223505,
       "num": 223505,
       "word": "程潇录制受伤",
@@ -257,14 +265,6 @@
       "onboard_time": 1682782351,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152159,
-      "num": 152159,
-      "word": "长沙官方通报买4.6斤水果少一斤",
-      "onboard_time": 1682787261,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146205,
@@ -425,6 +425,14 @@
       "onboard_time": 1682759665,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66677,
+      "num": 66677,
+      "word": "王一博拍长空之王肩膀出血也不吭声",
+      "onboard_time": 1682788581,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 56349,
