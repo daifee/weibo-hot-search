@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682764413341,
+  "endTime": 1682766807821,
   "band_list": [
     {
       "raw_hot": 3223192,
@@ -235,6 +235,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 804395,
+      "num": 551146,
+      "word": "这瓜谁编的",
+      "onboard_time": 1682759665,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751996,
       "num": 751996,
       "word": "哪个城市是空的",
@@ -323,12 +331,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 551146,
-      "num": 551146,
-      "word": "这瓜谁编的",
-      "onboard_time": 1682759665,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 551281,
+      "num": 386013,
+      "word": "海底捞一门店睡满人导致无法用餐",
+      "onboard_time": 1682765909,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540070,
@@ -345,6 +353,14 @@
       "onboard_time": 1682727867,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513724,
+      "num": 513724,
+      "word": "时尚芭莎 罗云熙白鹿双人视频",
+      "onboard_time": 1682766085,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 507549,
@@ -419,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466009,
+      "num": 466009,
+      "word": "专家称淄博烧烤一时好不代表长效好",
+      "onboard_time": 1682753607,
+      "rank": 27,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 461125,
       "num": 453568,
       "word": "易烊千玺祝王源客厅狂欢巡演一切顺利",
@@ -451,12 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 432239,
-      "num": 432239,
-      "word": "专家称淄博烧烤一时好不代表长效好",
-      "onboard_time": 1682753607,
-      "rank": 27,
-      "category": "社会新闻,美食"
+      "raw_hot": 431933,
+      "num": 431933,
+      "word": "上海晚霞",
+      "onboard_time": 1682765487,
+      "rank": 8,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 430596,
+      "num": 383710,
+      "word": "上海武警拉链式人墙上线",
+      "onboard_time": 1682761828,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417231,
@@ -499,6 +531,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 395025,
+      "num": 395025,
+      "word": "程潇录制受伤",
+      "onboard_time": 1682766146,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 392636,
       "num": 392636,
       "word": "成都地铁",
@@ -521,6 +561,14 @@
       "onboard_time": 1682760569,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 375964,
+      "num": 387607,
+      "word": "甘肃酒泉两车相撞致7死10伤",
+      "onboard_time": 1682749347,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 375353,
@@ -579,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 351630,
+      "num": 351630,
+      "word": "比基尼拼接牛仔裤",
+      "onboard_time": 1682765066,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332754,
       "num": 719772,
       "word": "孕妇羊水破裂交警疏堵5分钟送医",
@@ -617,6 +673,14 @@
       "onboard_time": 1682725883,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310746,
+      "num": 310746,
+      "word": "张杰演唱会",
+      "onboard_time": 1682764466,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 310364,
@@ -683,6 +747,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 283255,
+      "num": 283255,
+      "word": "何炅穿针手在抖",
+      "onboard_time": 1682764587,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280768,
       "num": 280768,
       "word": "五一堵",
@@ -723,20 +795,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 264968,
-      "num": 260918,
-      "word": "上海武警拉链式人墙上线",
-      "onboard_time": 1682761828,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263889,
       "num": 314623,
       "word": "格林",
       "onboard_time": 1682736327,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262556,
+      "num": 262556,
+      "word": "宋慧乔好忙",
+      "onboard_time": 1682762726,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 258245,
@@ -803,8 +875,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248315,
-      "num": 191678,
+      "raw_hot": 250332,
+      "num": 250332,
       "word": "这盒糕点你最想吃几",
       "onboard_time": 1682762488,
       "rank": 32,
@@ -987,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217681,
-      "num": 217681,
-      "word": "宋慧乔好忙",
-      "onboard_time": 1682762726,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 217025,
       "num": 217025,
       "word": "陈都灵说感觉关上的那扇门焊死了",
@@ -1051,12 +1115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210106,
+      "num": 210106,
+      "word": "LV早秋23女装秀",
+      "onboard_time": 1682765008,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 210093,
       "num": 198602,
       "word": "Jennie朴彩英到达纽约",
       "onboard_time": 1682748867,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209950,
+      "num": 209950,
+      "word": "谁给易烊千玺换个口罩",
+      "onboard_time": 1682765127,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209070,
@@ -1283,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177302,
+      "num": 177302,
+      "word": "章昊成韩彬舞蹈视频",
+      "onboard_time": 1682766265,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176121,
       "num": 176121,
       "word": "宋慧乔出发纽约",
@@ -1353,6 +1441,14 @@
       "onboard_time": 1682748989,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164120,
+      "num": 154050,
+      "word": "李润祺新歌歌词",
+      "onboard_time": 1682764645,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 163410,
@@ -1435,6 +1531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155556,
+      "num": 126334,
+      "word": "灌篮高手排片好虐",
+      "onboard_time": 1682766448,
+      "rank": 42,
+      "category": "影视,动漫"
+    },
+    {
       "raw_hot": 155273,
       "num": 155273,
       "word": "黄子韬说家人跟生活很重要",
@@ -1505,6 +1609,14 @@
       "onboard_time": 1682736808,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144129,
+      "num": 125937,
+      "word": "奔跑吧在玩一种很新的打卡",
+      "onboard_time": 1682765308,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 142886,
@@ -1603,6 +1715,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 125161,
+      "num": 125161,
+      "word": "宋茜镜头下的萌兰",
+      "onboard_time": 1682766747,
+      "rank": 45,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 125086,
       "num": 125086,
       "word": "五一电影",
@@ -1689,6 +1809,14 @@
       "onboard_time": 1682704157,
       "rank": 38,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 114757,
+      "num": 114757,
+      "word": "北京国安vs山东泰山",
+      "onboard_time": 1682764645,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 114041,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682764413341,
+  "endTime": 1682766807821,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1843,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804395,
+      "num": 551146,
+      "word": "这瓜谁编的",
+      "onboard_time": 1682759665,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 802374,
       "num": 659080,
       "word": "如何看待杰克辣条的道歉",
@@ -2587,20 +2595,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551281,
+      "num": 386013,
+      "word": "海底捞一门店睡满人导致无法用餐",
+      "onboard_time": 1682765909,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551154,
       "num": 551154,
       "word": "串串店家回应鸡爪插13根签",
       "onboard_time": 1682512648,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551146,
-      "num": 551146,
-      "word": "这瓜谁编的",
-      "onboard_time": 1682759665,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 548793,
@@ -2784,6 +2792,14 @@
       "word": "汤唯气质",
       "onboard_time": 1682672368,
       "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 513724,
+      "num": 513724,
+      "word": "时尚芭莎 罗云熙白鹿双人视频",
+      "onboard_time": 1682766085,
+      "rank": 5,
       "category": "作品衍生"
     },
     {
@@ -3283,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466009,
+      "num": 466009,
+      "word": "专家称淄博烧烤一时好不代表长效好",
+      "onboard_time": 1682753607,
+      "rank": 27,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 465569,
       "num": 465569,
       "word": "星痕",
@@ -3643,14 +3667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 432239,
-      "num": 432239,
-      "word": "专家称淄博烧烤一时好不代表长效好",
-      "onboard_time": 1682753607,
-      "rank": 27,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 432013,
       "num": 432013,
       "word": "淄博女领导的决策",
@@ -3665,6 +3681,22 @@
       "onboard_time": 1682389406,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 431933,
+      "num": 431933,
+      "word": "上海晚霞",
+      "onboard_time": 1682765487,
+      "rank": 8,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 430596,
+      "num": 383710,
+      "word": "上海武警拉链式人墙上线",
+      "onboard_time": 1682761828,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429863,
@@ -4115,6 +4147,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 395025,
+      "num": 395025,
+      "word": "程潇录制受伤",
+      "onboard_time": 1682766146,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 394998,
       "num": 256487,
       "word": "黎苏苏留给澹台烬的最后一句话",
@@ -4361,6 +4401,14 @@
       "onboard_time": 1682760569,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 375964,
+      "num": 387607,
+      "word": "甘肃酒泉两车相撞致7死10伤",
+      "onboard_time": 1682749347,
+      "rank": 14,
+      "category": "社会负面"
     },
     {
       "raw_hot": 375587,
@@ -4657,6 +4705,14 @@
       "onboard_time": 1682346451,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 351630,
+      "num": 351630,
+      "word": "比基尼拼接牛仔裤",
+      "onboard_time": 1682765066,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 351570,
@@ -5763,6 +5819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 283255,
+      "num": 283255,
+      "word": "何炅穿针手在抖",
+      "onboard_time": 1682764587,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283248,
       "num": 283248,
       "word": "SEVENTEEN孙悟空初舞台",
@@ -6187,14 +6251,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 264968,
-      "num": 260918,
-      "word": "上海武警拉链式人墙上线",
-      "onboard_time": 1682761828,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264302,
       "num": 264302,
       "word": "4月奇趣季",
@@ -6249,6 +6305,14 @@
       "onboard_time": 1682503707,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262556,
+      "num": 262556,
+      "word": "宋慧乔好忙",
+      "onboard_time": 1682762726,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262036,
@@ -6675,6 +6739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250332,
+      "num": 250332,
+      "word": "这盒糕点你最想吃几",
+      "onboard_time": 1682762488,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 250289,
       "num": 250289,
       "word": "福克斯手指骨折",
@@ -6705,14 +6777,6 @@
       "onboard_time": 1682485529,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248315,
-      "num": 191678,
-      "word": "这盒糕点你最想吃几",
-      "onboard_time": 1682762488,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 248225,
@@ -7635,14 +7699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 217681,
-      "num": 217681,
-      "word": "宋慧乔好忙",
-      "onboard_time": 1682762726,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 217579,
       "num": 217579,
       "word": "鹿晗上海高铁站饭拍",
@@ -7931,12 +7987,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210106,
+      "num": 210106,
+      "word": "LV早秋23女装秀",
+      "onboard_time": 1682765008,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 210093,
       "num": 198602,
       "word": "Jennie朴彩英到达纽约",
       "onboard_time": 1682748867,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209950,
+      "num": 209950,
+      "word": "谁给易烊千玺换个口罩",
+      "onboard_time": 1682765127,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209836,
@@ -9691,6 +9763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177302,
+      "num": 177302,
+      "word": "章昊成韩彬舞蹈视频",
+      "onboard_time": 1682766265,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 177136,
       "num": 177136,
       "word": "罗云熙宋轶开机路透",
@@ -10203,6 +10283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164120,
+      "num": 154050,
+      "word": "李润祺新歌歌词",
+      "onboard_time": 1682764645,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164075,
       "num": 164075,
       "word": "河南专升本",
@@ -10625,6 +10713,14 @@
       "onboard_time": 1682421506,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 155556,
+      "num": 126334,
+      "word": "灌篮高手排片好虐",
+      "onboard_time": 1682766448,
+      "rank": 42,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 155273,
@@ -11208,6 +11304,14 @@
       "word": "谭维维把伴娘红包都给了刘昊然",
       "onboard_time": 1682293343,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144129,
+      "num": 125937,
+      "word": "奔跑吧在玩一种很新的打卡",
+      "onboard_time": 1682765308,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -11971,6 +12075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125161,
+      "num": 125161,
+      "word": "宋茜镜头下的萌兰",
+      "onboard_time": 1682766747,
+      "rank": 45,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 125086,
       "num": 125086,
       "word": "五一电影",
@@ -12289,6 +12401,14 @@
       "onboard_time": 1682265869,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114757,
+      "num": 114757,
+      "word": "北京国安vs山东泰山",
+      "onboard_time": 1682764645,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 114513,
