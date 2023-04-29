@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682763413129,
+  "endTime": 1682764413341,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1660,7 +1660,7 @@
     },
     {
       "raw_hot": 2258381,
-      "num": 526073,
+      "num": 548285,
       "word": "秦岚也穿过娜扎同款裤子",
       "onboard_time": 1682760625,
       "rank": 10,
@@ -1985,6 +1985,14 @@
       "onboard_time": 1682297310,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2114535,
+      "num": 577188,
+      "word": "龚俊 韩国",
+      "onboard_time": 1682761167,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2109722,
@@ -2729,14 +2737,6 @@
       "onboard_time": 1680845431,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1827030,
-      "num": 577188,
-      "word": "龚俊 韩国",
-      "onboard_time": 1682761167,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1825439,
@@ -3555,6 +3555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1586944,
+      "num": 1586944,
+      "word": "谷爱凌发的图vsAngelababy发的图",
+      "onboard_time": 1682758649,
+      "rank": 14,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1584064,
       "num": 550694,
       "word": "沈月 湖师大",
@@ -4281,14 +4289,6 @@
       "onboard_time": 1681466547,
       "rank": 7,
       "category": "艺人,动漫"
-    },
-    {
-      "raw_hot": 1427283,
-      "num": 1427283,
-      "word": "谷爱凌发的图vsAngelababy发的图",
-      "onboard_time": 1682758649,
-      "rank": 14,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1423043,
@@ -14539,6 +14539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551146,
+      "num": 551146,
+      "word": "这瓜谁编的",
+      "onboard_time": 1682759665,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551118,
       "num": 551118,
       "word": "魔卡少女樱续作",
@@ -17739,6 +17747,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 467226,
+      "num": 1119964,
+      "word": "有个三观正的孩子是什么体验",
+      "onboard_time": 1682758588,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467176,
       "num": 467176,
       "word": "雎晓雯怀孕做瑜伽",
@@ -18057,14 +18073,6 @@
       "onboard_time": 1681910847,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 459985,
-      "num": 923948,
-      "word": "有个三观正的孩子是什么体验",
-      "onboard_time": 1682758588,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 459855,
@@ -18945,14 +18953,6 @@
       "onboard_time": 1682242770,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443616,
-      "num": 443616,
-      "word": "这瓜谁编的",
-      "onboard_time": 1682759665,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 443589,
@@ -21692,7 +21692,7 @@
     },
     {
       "raw_hot": 395598,
-      "num": 732901,
+      "num": 765382,
       "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
       "onboard_time": 1682748265,
       "rank": 34,
@@ -22817,6 +22817,14 @@
       "onboard_time": 1681783885,
       "rank": 16,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 376661,
+      "num": 376661,
+      "word": "五一杭州部分热门景点意外遇冷",
+      "onboard_time": 1682760569,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 376454,
@@ -25227,14 +25235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 339411,
-      "num": 339411,
-      "word": "五一杭州部分热门景点意外遇冷",
-      "onboard_time": 1682760569,
-      "rank": 49,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 339361,
       "num": 339361,
       "word": "这是在暗示你可以提涨薪了",
@@ -25612,7 +25612,7 @@
     },
     {
       "raw_hot": 332754,
-      "num": 668862,
+      "num": 719772,
       "word": "孕妇羊水破裂交警疏堵5分钟送医",
       "onboard_time": 1682752287,
       "rank": 33,
@@ -31483,6 +31483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264968,
+      "num": 260918,
+      "word": "上海武警拉链式人墙上线",
+      "onboard_time": 1682761828,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264709,
       "num": 264709,
       "word": "朴彩英眼妆好漂亮",
@@ -33435,6 +33443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 248315,
+      "num": 191678,
+      "word": "这盒糕点你最想吃几",
+      "onboard_time": 1682762488,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 248225,
       "num": 248225,
       "word": "凯尔特人",
@@ -34065,14 +34081,6 @@
       "onboard_time": 1680768809,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 243202,
-      "num": 243202,
-      "word": "上海武警拉链式人墙上线",
-      "onboard_time": 1682761828,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243069,
@@ -35521,6 +35529,14 @@
       "onboard_time": 1681778549,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232208,
+      "num": 232208,
+      "word": "billkin晒与鹿晗合照",
+      "onboard_time": 1682759128,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232021,
@@ -37721,6 +37737,14 @@
       "onboard_time": 1682657731,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217681,
+      "num": 217681,
+      "word": "宋慧乔好忙",
+      "onboard_time": 1682762726,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217646,
@@ -42609,14 +42633,6 @@
       "onboard_time": 1682063610,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200101,
-      "num": 200101,
-      "word": "billkin晒与鹿晗合照",
-      "onboard_time": 1682759128,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200083,
@@ -49675,14 +49691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177260,
-      "num": 177260,
-      "word": "这盒糕点你最想吃几",
-      "onboard_time": 1682762488,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 177207,
       "num": 177207,
       "word": "海潮宇宙音乐节",
@@ -50641,6 +50649,14 @@
       "onboard_time": 1682137769,
       "rank": 41,
       "category": "综艺,音乐"
+    },
+    {
+      "raw_hot": 171947,
+      "num": 171947,
+      "word": "趵突泉猪鲤让警察叔叔操碎了心",
+      "onboard_time": 1682760808,
+      "rank": 35,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 171945,
@@ -53985,14 +54001,6 @@
       "onboard_time": 1681805370,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156765,
-      "num": 156765,
-      "word": "趵突泉猪鲤让警察叔叔操碎了心",
-      "onboard_time": 1682760808,
-      "rank": 35,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 156763,
@@ -58675,14 +58683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134566,
-      "num": 134566,
-      "word": "宋慧乔好忙",
-      "onboard_time": 1682762726,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 134535,
       "num": 134535,
       "word": "TF家族新歌一起长大吧笨蛋",
@@ -59209,6 +59209,14 @@
       "onboard_time": 1680425969,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131242,
+      "num": 131242,
+      "word": "涵艺爆料Daeny加入WBG",
+      "onboard_time": 1682763149,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 131077,
@@ -61163,6 +61171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119900,
+      "num": 119900,
+      "word": "李沁金色征途杀青",
+      "onboard_time": 1682763686,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119899,
       "num": 119899,
       "word": "我们为什么要读书",
@@ -62995,6 +63011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105248,
+      "num": 105248,
+      "word": "广州队",
+      "onboard_time": 1682763989,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105121,
       "num": 119498,
       "word": "星穹铁道预下载",
@@ -63553,14 +63577,6 @@
       "onboard_time": 1680321629,
       "rank": 47,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 100690,
-      "num": 100690,
-      "word": "涵艺爆料Daeny加入WBG",
-      "onboard_time": 1682763149,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 100644,
@@ -64697,6 +64713,14 @@
       "onboard_time": 1680406468,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 88190,
+      "num": 88190,
+      "word": "闫桉文兆杰社恐星人的合宿生活",
+      "onboard_time": 1682764226,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 88052,

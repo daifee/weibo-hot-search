@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682763413129,
+  "endTime": 1682764413341,
   "band_list": [
     {
       "raw_hot": 3223192,
@@ -28,14 +28,14 @@
     },
     {
       "raw_hot": 2258381,
-      "num": 526073,
+      "num": 548285,
       "word": "秦岚也穿过娜扎同款裤子",
       "onboard_time": 1682760625,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1827030,
+      "raw_hot": 2114535,
       "num": 577188,
       "word": "龚俊 韩国",
       "onboard_time": 1682761167,
@@ -67,20 +67,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1586944,
+      "num": 1586944,
+      "word": "谷爱凌发的图vsAngelababy发的图",
+      "onboard_time": 1682758649,
+      "rank": 14,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1516377,
       "num": 1516377,
       "word": "青年艺术家孙博离世",
       "onboard_time": 1682739266,
       "rank": 0,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1427283,
-      "num": 1427283,
-      "word": "谷爱凌发的图vsAngelababy发的图",
-      "onboard_time": 1682758649,
-      "rank": 14,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1398880,
@@ -323,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 551146,
+      "num": 551146,
+      "word": "这瓜谁编的",
+      "onboard_time": 1682759665,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540070,
       "num": 540070,
       "word": "灰熊vs湖人",
@@ -403,20 +411,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 467226,
+      "num": 1119964,
+      "word": "有个三观正的孩子是什么体验",
+      "onboard_time": 1682758588,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461125,
       "num": 453568,
       "word": "易烊千玺祝王源客厅狂欢巡演一切顺利",
       "onboard_time": 1682734826,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 459985,
-      "num": 923948,
-      "word": "有个三观正的孩子是什么体验",
-      "onboard_time": 1682758588,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451121,
@@ -433,14 +441,6 @@
       "onboard_time": 1682696490,
       "rank": 13,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 443616,
-      "num": 443616,
-      "word": "这瓜谁编的",
-      "onboard_time": 1682759665,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 440485,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 395598,
-      "num": 732901,
+      "num": 765382,
       "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
       "onboard_time": 1682748265,
       "rank": 34,
@@ -513,6 +513,14 @@
       "onboard_time": 1682697810,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 376661,
+      "num": 376661,
+      "word": "五一杭州部分热门景点意外遇冷",
+      "onboard_time": 1682760569,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 375353,
@@ -571,16 +579,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 339411,
-      "num": 339411,
-      "word": "五一杭州部分热门景点意外遇冷",
-      "onboard_time": 1682760569,
-      "rank": 49,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 332754,
-      "num": 668862,
+      "num": 719772,
       "word": "孕妇羊水破裂交警疏堵5分钟送医",
       "onboard_time": 1682752287,
       "rank": 33,
@@ -723,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 264968,
+      "num": 260918,
+      "word": "上海武警拉链式人墙上线",
+      "onboard_time": 1682761828,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263889,
       "num": 314623,
       "word": "格林",
@@ -795,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248315,
+      "num": 191678,
+      "word": "这盒糕点你最想吃几",
+      "onboard_time": 1682762488,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 247997,
       "num": 247997,
       "word": "高速",
@@ -833,14 +849,6 @@
       "onboard_time": 1682688392,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243202,
-      "num": 243202,
-      "word": "上海武警拉链式人墙上线",
-      "onboard_time": 1682761828,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 241947,
@@ -907,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232208,
+      "num": 232208,
+      "word": "billkin晒与鹿晗合照",
+      "onboard_time": 1682759128,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230721,
       "num": 230721,
       "word": "淄博万人烧烤城",
@@ -969,6 +985,14 @@
       "onboard_time": 1682674228,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217681,
+      "num": 217681,
+      "word": "宋慧乔好忙",
+      "onboard_time": 1682762726,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217025,
@@ -1089,14 +1113,6 @@
       "onboard_time": 1682751928,
       "rank": 36,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 200101,
-      "num": 200101,
-      "word": "billkin晒与鹿晗合照",
-      "onboard_time": 1682759128,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199156,
@@ -1267,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177260,
-      "num": 177260,
-      "word": "这盒糕点你最想吃几",
-      "onboard_time": 1682762488,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 176121,
       "num": 176121,
       "word": "宋慧乔出发纽约",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1682734646,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171947,
+      "num": 171947,
+      "word": "趵突泉猪鲤让警察叔叔操碎了心",
+      "onboard_time": 1682760808,
+      "rank": 35,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 171904,
@@ -1393,14 +1409,6 @@
       "onboard_time": 1682749166,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156765,
-      "num": 156765,
-      "word": "趵突泉猪鲤让警察叔叔操碎了心",
-      "onboard_time": 1682760808,
-      "rank": 35,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 156620,
@@ -1547,14 +1555,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 134566,
-      "num": 134566,
-      "word": "宋慧乔好忙",
-      "onboard_time": 1682762726,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 133180,
       "num": 95810,
       "word": "杭州东站除上海方向其余车票均已售罄",
@@ -1569,6 +1569,14 @@
       "onboard_time": 1682689712,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131242,
+      "num": 131242,
+      "word": "涵艺爆料Daeny加入WBG",
+      "onboard_time": 1682763149,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 128560,
@@ -1651,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119900,
+      "num": 119900,
+      "word": "李沁金色征途杀青",
+      "onboard_time": 1682763686,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118087,
       "num": 118087,
       "word": "巨型笑脸成广州游客祈福打卡地",
@@ -1723,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105248,
+      "num": 105248,
+      "word": "广州队",
+      "onboard_time": 1682763989,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105028,
       "num": 140856,
       "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
@@ -1745,14 +1769,6 @@
       "onboard_time": 1682676448,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 100690,
-      "num": 100690,
-      "word": "涵艺爆料Daeny加入WBG",
-      "onboard_time": 1682763149,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 97061,
@@ -1793,6 +1809,14 @@
       "onboard_time": 1682688873,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88190,
+      "num": 88190,
+      "word": "闫桉文兆杰社恐星人的合宿生活",
+      "onboard_time": 1682764226,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 87222,
@@ -2007,6 +2031,9 @@
     },
     {
       "word": "#文旅市场活力迸发#"
+    },
+    {
+      "word": "#流动的中国生机勃勃#"
     }
   ]
 }

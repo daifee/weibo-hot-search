@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682763413129,
+  "endTime": 1682764413341,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 2258381,
-      "num": 526073,
+      "num": 548285,
       "word": "秦岚也穿过娜扎同款裤子",
       "onboard_time": 1682760625,
       "rank": 10,
@@ -433,6 +433,14 @@
       "onboard_time": 1682297310,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2114535,
+      "num": 577188,
+      "word": "龚俊 韩国",
+      "onboard_time": 1682761167,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2090956,
@@ -585,14 +593,6 @@
       "onboard_time": 1682586689,
       "rank": 37,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1827030,
-      "num": 577188,
-      "word": "龚俊 韩国",
-      "onboard_time": 1682761167,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1821082,
@@ -803,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1586944,
+      "num": 1586944,
+      "word": "谷爱凌发的图vsAngelababy发的图",
+      "onboard_time": 1682758649,
+      "rank": 14,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 1575031,
       "num": 1309355,
       "word": "崔永元",
@@ -937,14 +945,6 @@
       "onboard_time": 1682518293,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1427283,
-      "num": 1427283,
-      "word": "谷爱凌发的图vsAngelababy发的图",
-      "onboard_time": 1682758649,
-      "rank": 14,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 1421044,
@@ -2595,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 551146,
+      "num": 551146,
+      "word": "这瓜谁编的",
+      "onboard_time": 1682759665,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548793,
       "num": 548793,
       "word": "女子忘关车门4岁娃跑下车遭碾压",
@@ -3259,6 +3267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 467226,
+      "num": 1119964,
+      "word": "有个三观正的孩子是什么体验",
+      "onboard_time": 1682758588,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466918,
       "num": 466918,
       "word": "二阳患者自述感染经历",
@@ -3345,14 +3361,6 @@
       "onboard_time": 1682474728,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 459985,
-      "num": 923948,
-      "word": "有个三观正的孩子是什么体验",
-      "onboard_time": 1682758588,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 459146,
@@ -3505,14 +3513,6 @@
       "onboard_time": 1682553025,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 443616,
-      "num": 443616,
-      "word": "这瓜谁编的",
-      "onboard_time": 1682759665,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 442307,
@@ -4108,7 +4108,7 @@
     },
     {
       "raw_hot": 395598,
-      "num": 732901,
+      "num": 765382,
       "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
       "onboard_time": 1682748265,
       "rank": 34,
@@ -4353,6 +4353,14 @@
       "onboard_time": 1682281092,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 376661,
+      "num": 376661,
+      "word": "五一杭州部分热门景点意外遇冷",
+      "onboard_time": 1682760569,
+      "rank": 49,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 375587,
@@ -4771,14 +4779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 339411,
-      "num": 339411,
-      "word": "五一杭州部分热门景点意外遇冷",
-      "onboard_time": 1682760569,
-      "rank": 49,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 338810,
       "num": 330421,
       "word": "老师你别太懂了",
@@ -4868,7 +4868,7 @@
     },
     {
       "raw_hot": 332754,
-      "num": 668862,
+      "num": 719772,
       "word": "孕妇羊水破裂交警疏堵5分钟送医",
       "onboard_time": 1682752287,
       "rank": 33,
@@ -6187,6 +6187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 264968,
+      "num": 260918,
+      "word": "上海武警拉链式人墙上线",
+      "onboard_time": 1682761828,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264302,
       "num": 264302,
       "word": "4月奇趣季",
@@ -6699,6 +6707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248315,
+      "num": 191678,
+      "word": "这盒糕点你最想吃几",
+      "onboard_time": 1682762488,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 248225,
       "num": 248225,
       "word": "凯尔特人",
@@ -6849,14 +6865,6 @@
       "onboard_time": 1682496807,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243202,
-      "num": 243202,
-      "word": "上海武警拉链式人墙上线",
-      "onboard_time": 1682761828,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243069,
@@ -7217,6 +7225,14 @@
       "onboard_time": 1682602469,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232208,
+      "num": 232208,
+      "word": "billkin晒与鹿晗合照",
+      "onboard_time": 1682759128,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 231475,
@@ -7617,6 +7633,14 @@
       "onboard_time": 1682657731,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217681,
+      "num": 217681,
+      "word": "宋慧乔好忙",
+      "onboard_time": 1682762726,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217579,
@@ -8353,14 +8377,6 @@
       "onboard_time": 1682326407,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200101,
-      "num": 200101,
-      "word": "billkin晒与鹿晗合照",
-      "onboard_time": 1682759128,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200083,
@@ -9675,14 +9691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 177260,
-      "num": 177260,
-      "word": "这盒糕点你最想吃几",
-      "onboard_time": 1682762488,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 177136,
       "num": 177136,
       "word": "罗云熙宋轶开机路透",
@@ -9921,6 +9929,14 @@
       "onboard_time": 1682315129,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171947,
+      "num": 171947,
+      "word": "趵突泉猪鲤让警察叔叔操碎了心",
+      "onboard_time": 1682760808,
+      "rank": 35,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 171904,
@@ -10561,14 +10577,6 @@
       "onboard_time": 1682343689,
       "rank": 29,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 156765,
-      "num": 156765,
-      "word": "趵突泉猪鲤让警察叔叔操碎了心",
-      "onboard_time": 1682760808,
-      "rank": 35,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 156620,
@@ -11603,14 +11611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134566,
-      "num": 134566,
-      "word": "宋慧乔好忙",
-      "onboard_time": 1682762726,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 134458,
       "num": 134458,
       "word": "如果给足加班费你愿意加班吗",
@@ -11713,6 +11713,14 @@
       "onboard_time": 1682640453,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131242,
+      "num": 131242,
+      "word": "涵艺爆料Daeny加入WBG",
+      "onboard_time": 1682763149,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 130968,
@@ -12147,6 +12155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119900,
+      "num": 119900,
+      "word": "李沁金色征途杀青",
+      "onboard_time": 1682763686,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 119873,
       "num": 119873,
       "word": "科普作家硬核讲解长月烬明蚌族知识",
@@ -12539,6 +12555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105248,
+      "num": 105248,
+      "word": "广州队",
+      "onboard_time": 1682763989,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105028,
       "num": 140856,
       "word": "6岁女孩帮聋哑修脚爸爸翻译感动网友",
@@ -12641,14 +12665,6 @@
       "onboard_time": 1682378722,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100690,
-      "num": 100690,
-      "word": "涵艺爆料Daeny加入WBG",
-      "onboard_time": 1682763149,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 98499,
@@ -12833,6 +12849,14 @@
       "onboard_time": 1682397993,
       "rank": 49,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 88190,
+      "num": 88190,
+      "word": "闫桉文兆杰社恐星人的合宿生活",
+      "onboard_time": 1682764226,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 87697,
