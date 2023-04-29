@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682757201220,
+  "endTime": 1682759741065,
   "band_list": [
     {
       "raw_hot": 3223192,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237201,
+      "num": 1237201,
+      "word": "秋瓷炫你要是被淘汰就点个痣再回来",
+      "onboard_time": 1682752108,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1197584,
       "num": 1197584,
       "word": "向往的生活最后一季",
@@ -104,14 +112,6 @@
       "word": "谢娜说你宁愿相信一张纸都不相信我",
       "onboard_time": 1682695055,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1110511,
-      "num": 1110511,
-      "word": "秋瓷炫你要是被淘汰就点个痣再回来",
-      "onboard_time": 1682752108,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -171,6 +171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 940633,
+      "num": 779215,
+      "word": "薛之谦高铁上没被认出来的原因",
+      "onboard_time": 1682754865,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932516,
       "num": 932516,
       "word": "甘肃酒泉车辆碰撞事故致6死12伤",
@@ -201,14 +209,6 @@
       "onboard_time": 1682697209,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 876333,
-      "num": 779215,
-      "word": "薛之谦高铁上没被认出来的原因",
-      "onboard_time": 1682754865,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 751996,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 472367,
-      "num": 314872,
+      "num": 340932,
       "word": "许光汉追星IU成功",
       "onboard_time": 1682755349,
       "rank": 17,
@@ -507,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 362462,
+      "num": 362462,
+      "word": "专家称淄博烧烤一时好不代表长效好",
+      "onboard_time": 1682753607,
+      "rank": 27,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 362097,
       "num": 362097,
       "word": "突然明白了发朋友圈的意义",
@@ -545,6 +553,14 @@
       "onboard_time": 1682737709,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316453,
+      "num": 316453,
+      "word": "谷爱凌发的图vsAngelababy发的图",
+      "onboard_time": 1682758649,
+      "rank": 14,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 315404,
@@ -715,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251053,
-      "num": 238172,
-      "word": "专家称淄博烧烤一时好不代表长效好",
-      "onboard_time": 1682753607,
-      "rank": 27,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 247997,
       "num": 247997,
       "word": "高速",
@@ -811,6 +819,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233714,
+      "num": 205444,
+      "word": "Angelababy卧底界的奥斯卡",
+      "onboard_time": 1682757264,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230721,
       "num": 230721,
       "word": "淄博万人烧烤城",
@@ -857,6 +873,14 @@
       "onboard_time": 1682737047,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218751,
+      "num": 204559,
+      "word": "堵车时第一辆车在干什么",
+      "onboard_time": 1682755769,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 217746,
@@ -1099,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179559,
+      "num": 179559,
+      "word": "五一假首日西安回民街已水泄不通",
+      "onboard_time": 1682754987,
+      "rank": 32,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 178835,
       "num": 145788,
       "word": "这是今晚八点的杭州东站",
@@ -1155,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172705,
+      "num": 172705,
+      "word": "顶流花花提前休五一",
+      "onboard_time": 1682758467,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171904,
       "num": 1577145,
       "word": "国内旅游订单创5年来最高",
@@ -1171,20 +1211,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170132,
-      "num": 170132,
-      "word": "五一假首日西安回民街已水泄不通",
-      "onboard_time": 1682754987,
-      "rank": 32,
-      "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 169897,
-      "num": 169897,
-      "word": "堵车时第一辆车在干什么",
-      "onboard_time": 1682755769,
-      "rank": 45,
-      "category": "幽默"
+      "raw_hot": 170539,
+      "num": 170539,
+      "word": "有个三观正的孩子是什么体验",
+      "onboard_time": 1682758588,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166304,
@@ -1267,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156620,
+      "num": 156620,
+      "word": "常台高速苏州段多车轮胎被扎",
+      "onboard_time": 1682758348,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156369,
       "num": 156369,
       "word": "赵丽颖嘟嘴",
@@ -1299,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154926,
+      "num": 154926,
+      "word": "billkin晒与鹿晗合照",
+      "onboard_time": 1682759128,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153987,
       "num": 153987,
       "word": "DF MDYW进入线下赛",
@@ -1329,6 +1377,14 @@
       "onboard_time": 1682723721,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148224,
+      "num": 148224,
+      "word": "林妙可公主裙",
+      "onboard_time": 1682759007,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 145857,
@@ -1515,6 +1571,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 116654,
+      "num": 116654,
+      "word": "深圳00后用黑科技整顿职场",
+      "onboard_time": 1682759369,
+      "rank": 41,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 114041,
       "num": 141279,
       "word": "赞多ins晒与鹿晗合照",
@@ -1547,12 +1611,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 109992,
+      "num": 109992,
+      "word": "这瓜谁编的",
+      "onboard_time": 1682759665,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109871,
       "num": 109871,
       "word": "五一假期淄博烧烤店轮班休息",
       "onboard_time": 1682749647,
       "rank": 48,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 109351,
+      "num": 109351,
+      "word": "面子和面全掉地上了",
+      "onboard_time": 1682759427,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 105028,
@@ -1577,6 +1657,14 @@
       "onboard_time": 1682676448,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 102895,
+      "num": 102895,
+      "word": "留几手 写给网友的道歉信",
+      "onboard_time": 1682759726,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97061,
