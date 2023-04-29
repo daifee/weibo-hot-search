@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682810207038,
+  "endTime": 1682811212196,
   "band_list": [
     {
       "raw_hot": 1558601,
@@ -43,8 +43,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 973623,
-      "num": 973623,
+      "raw_hot": 1023410,
+      "num": 1023410,
       "word": "人人人人人你人人人人人",
       "onboard_time": 1682779171,
       "rank": 7,
@@ -75,20 +75,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 605150,
+      "num": 605150,
+      "word": "长沙官方通报买4.6斤水果少一斤",
+      "onboard_time": 1682787261,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599173,
       "num": 481396,
       "word": "龚俊 韩国",
       "onboard_time": 1682761167,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 548269,
-      "num": 548269,
-      "word": "长沙官方通报买4.6斤水果少一斤",
-      "onboard_time": 1682787261,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 528989,
@@ -123,8 +123,8 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 381115,
-      "num": 381115,
+      "raw_hot": 384588,
+      "num": 384588,
       "word": "女子2800元招育儿嫂雇到了幼师",
       "onboard_time": 1682783668,
       "rank": 30,
@@ -179,6 +179,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 261925,
+      "num": 261925,
+      "word": "费曼重阳了",
+      "onboard_time": 1682810060,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233444,
       "num": 233444,
       "word": "真的会有人一辈子不结婚吗",
@@ -187,20 +195,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229268,
+      "num": 183764,
+      "word": "新娘结婚当天蝴蝶停在手腕不走",
+      "onboard_time": 1682778452,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223505,
       "num": 223505,
       "word": "程潇录制受伤",
       "onboard_time": 1682766146,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221038,
-      "num": 183764,
-      "word": "新娘结婚当天蝴蝶停在手腕不走",
-      "onboard_time": 1682778452,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213132,
@@ -235,12 +243,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 177820,
-      "num": 177820,
+      "raw_hot": 181897,
+      "num": 181897,
       "word": "男孩在学校跳蚤市场1元买回金戒指",
       "onboard_time": 1682798052,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174125,
+      "num": 174125,
+      "word": "火遍全国各地的组合成员发生车祸",
+      "onboard_time": 1682766865,
+      "rank": 15,
+      "category": "艺人,社会新闻"
     },
     {
       "raw_hot": 171229,
@@ -259,20 +275,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 169989,
-      "num": 169989,
-      "word": "火遍全国各地的组合成员发生车祸",
-      "onboard_time": 1682766865,
-      "rank": 15,
-      "category": "艺人,社会新闻"
-    },
-    {
       "raw_hot": 167668,
       "num": 167668,
       "word": "辛柏青天坛奖最佳男主角",
       "onboard_time": 1682782950,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 167201,
+      "num": 106001,
+      "word": "抢不到票但车上好多空座位",
+      "onboard_time": 1682810782,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161509,
+      "num": 161509,
+      "word": "鞠婧祎晒膝盖受伤照",
+      "onboard_time": 1682809519,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 158852,
@@ -283,12 +307,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146595,
-      "num": 126380,
+      "raw_hot": 158198,
+      "num": 148566,
       "word": "不考虑工作最想定居的城市",
       "onboard_time": 1682777370,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152593,
+      "num": 152593,
+      "word": "漫长的季节碎尸案反转",
+      "onboard_time": 1682810602,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 146205,
@@ -313,6 +345,14 @@
       "onboard_time": 1682777012,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144112,
+      "num": 144112,
+      "word": "孙红雷用张杰的方法哄谢娜",
+      "onboard_time": 1682807776,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 138127,
@@ -363,6 +403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113482,
+      "num": 113482,
+      "word": "比基尼拼接牛仔裤",
+      "onboard_time": 1682765066,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112190,
+      "num": 112190,
+      "word": "第一个下高速的人",
+      "onboard_time": 1682795174,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108652,
       "num": 108652,
       "word": "张杰唱了歌迷许愿的辞海",
@@ -371,27 +427,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 108375,
-      "num": 108375,
-      "word": "比基尼拼接牛仔裤",
-      "onboard_time": 1682765066,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 108331,
-      "num": 108331,
-      "word": "孙红雷用张杰的方法哄谢娜",
-      "onboard_time": 1682807776,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 106837,
-      "num": 106837,
-      "word": "第一个下高速的人",
-      "onboard_time": 1682795174,
-      "rank": 34,
+      "raw_hot": 105227,
+      "num": 105227,
+      "word": "四月最后一天",
+      "onboard_time": 1682809881,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -401,14 +441,6 @@
       "onboard_time": 1682777611,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96598,
-      "num": 74824,
-      "word": "四月最后一天",
-      "onboard_time": 1682809881,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95550,
@@ -451,11 +483,27 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 85137,
-      "num": 85137,
-      "word": "鞠婧祎晒膝盖受伤照",
-      "onboard_time": 1682809519,
-      "rank": 28,
+      "raw_hot": 84910,
+      "num": 84910,
+      "word": "杜江臂力",
+      "onboard_time": 1682810060,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 84436,
+      "num": 84436,
+      "word": "王一博拍长空之王肩膀出血也不吭声",
+      "onboard_time": 1682788581,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 80461,
+      "num": 80461,
+      "word": "邓超的一天",
+      "onboard_time": 1682810482,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -483,28 +531,52 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69611,
-      "num": 69611,
+      "raw_hot": 75752,
+      "num": 75752,
       "word": "五一假期景点现状",
       "onboard_time": 1682797513,
       "rank": 35,
       "category": "旅游"
     },
     {
-      "raw_hot": 66677,
-      "num": 66677,
-      "word": "王一博拍长空之王肩膀出血也不吭声",
-      "onboard_time": 1682788581,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 65379,
+      "num": 65379,
+      "word": "Angelababy刘宪华合照",
+      "onboard_time": 1682811082,
+      "rank": 42,
+      "category": "综艺"
     },
     {
-      "raw_hot": 58166,
-      "num": 58166,
+      "raw_hot": 64537,
+      "num": 64537,
+      "word": "秦霄贤孙珍妮跳了flower",
+      "onboard_time": 1682807836,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64121,
+      "num": 64121,
       "word": "没想到火车上都有KTV了",
       "onboard_time": 1682793615,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62100,
+      "num": 62100,
+      "word": "这语气在东北真的是劝告",
+      "onboard_time": 1682810903,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 61838,
+      "num": 61838,
+      "word": "娄艺潇杨玉环造型",
+      "onboard_time": 1682807474,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 56349,
@@ -523,28 +595,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 53310,
-      "num": 53310,
-      "word": "秦霄贤孙珍妮跳了flower",
-      "onboard_time": 1682807836,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 52259,
-      "num": 52259,
-      "word": "杜江臂力",
-      "onboard_time": 1682810060,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 49368,
-      "num": 49368,
-      "word": "娄艺潇杨玉环造型",
-      "onboard_time": 1682807474,
-      "rank": 49,
-      "category": "作品衍生,时尚"
+      "raw_hot": 53416,
+      "num": 53416,
+      "word": "养猫人一眼就找到了",
+      "onboard_time": 1682810903,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 43621,
@@ -553,14 +609,6 @@
       "onboard_time": 1682772513,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38171,
-      "num": 38392,
-      "word": "费曼重阳了",
-      "onboard_time": 1682810060,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 34796,
