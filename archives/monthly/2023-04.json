@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682731329196,
+  "endTime": 1682732767162,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2057,6 +2057,14 @@
       "onboard_time": 1681631667,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2071234,
+      "num": 2071234,
+      "word": "五一预计240000000人次出游",
+      "onboard_time": 1682729846,
+      "rank": 3,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 2062694,
@@ -6643,6 +6651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1006262,
+      "num": 305079,
+      "word": "你拿下视后我拿下男主",
+      "onboard_time": 1682723961,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1005357,
       "num": 1005357,
       "word": "娜扎晒花少3合照",
@@ -7075,6 +7091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 955447,
+      "num": 290113,
+      "word": "徐娇成绩全A",
+      "onboard_time": 1682730867,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 955249,
       "num": 955249,
       "word": "有点担心秋瓷炫的初舞台了",
@@ -7225,14 +7249,6 @@
       "onboard_time": 1680665911,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 944064,
-      "num": 944064,
-      "word": "五一预计240000000人次出游",
-      "onboard_time": 1682729846,
-      "rank": 3,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 942854,
@@ -7449,14 +7465,6 @@
       "onboard_time": 1680744688,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 920347,
-      "num": 297618,
-      "word": "你拿下视后我拿下男主",
-      "onboard_time": 1682723961,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 920336,
@@ -9331,6 +9339,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 776844,
+      "num": 534518,
+      "word": "淄博烧烤最后如何收场",
+      "onboard_time": 1682675791,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 776793,
       "num": 776793,
       "word": "游客称在淄博一烧烤店遇强制消费",
@@ -10185,14 +10201,6 @@
       "onboard_time": 1681652369,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 719680,
-      "num": 534518,
-      "word": "淄博烧烤最后如何收场",
-      "onboard_time": 1682675791,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 719131,
@@ -13747,6 +13755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 571836,
+      "num": 571836,
+      "word": "韩国人什么时候放弃水光肌",
+      "onboard_time": 1682730566,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 571439,
       "num": 346674,
       "word": "大陆没电影吗",
@@ -14345,6 +14361,14 @@
       "onboard_time": 1681725027,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 550283,
+      "num": 271756,
+      "word": "外婆走了 可就没人救你回来了",
+      "onboard_time": 1682730266,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 550268,
@@ -15049,6 +15073,14 @@
       "onboard_time": 1682006788,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529771,
+      "num": 529771,
+      "word": "黄磊说自己录的综艺太多了",
+      "onboard_time": 1682727867,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 529579,
@@ -17689,14 +17721,6 @@
       "onboard_time": 1682310994,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 461900,
-      "num": 293174,
-      "word": "黄磊说自己录的综艺太多了",
-      "onboard_time": 1682727867,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 461683,
@@ -22747,6 +22771,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 372395,
+      "num": 258221,
+      "word": "陈赫在向往的生活哭了",
+      "onboard_time": 1682731108,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 372298,
       "num": 372298,
       "word": "为什么九成的手机品牌消失了",
@@ -23289,14 +23321,6 @@
       "onboard_time": 1680590246,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 362351,
-      "num": 202584,
-      "word": "外婆走了 可就没人救你回来了",
-      "onboard_time": 1682730266,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 362121,
@@ -26731,14 +26755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314659,
-      "num": 290394,
-      "word": "韩国人什么时候放弃水光肌",
-      "onboard_time": 1682730566,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314637,
       "num": 314637,
       "word": "上班喝咖啡连驴都不如",
@@ -27395,6 +27411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305683,
+      "num": 305683,
+      "word": "朱令",
+      "onboard_time": 1682729068,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305603,
       "num": 305603,
       "word": "孟菲斯动物园发文送别丫丫",
@@ -27585,14 +27609,6 @@
       "onboard_time": 1680960210,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303215,
-      "num": 198469,
-      "word": "徐娇成绩全A",
-      "onboard_time": 1682730867,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 303206,
@@ -34979,14 +34995,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 231999,
-      "num": 231999,
-      "word": "朱令",
-      "onboard_time": 1682729068,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231867,
       "num": 1056329,
       "word": "中国科学家研讨在月球上盖房子",
@@ -36161,6 +36169,14 @@
       "onboard_time": 1680501091,
       "rank": 34,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 223961,
+      "num": 198903,
+      "word": "五一还有小众旅游地吗",
+      "onboard_time": 1682732189,
+      "rank": 30,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 223888,
@@ -37881,6 +37897,14 @@
       "onboard_time": 1680855867,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213207,
+      "num": 219329,
+      "word": "淄博",
+      "onboard_time": 1681545687,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213178,
@@ -39771,6 +39795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 205627,
+      "num": 205627,
+      "word": "成都地铁",
+      "onboard_time": 1682732068,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205594,
       "num": 205594,
       "word": "沉舟",
@@ -41449,6 +41481,14 @@
       "onboard_time": 1680909619,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 201457,
+      "num": 198183,
+      "word": "不行师父系上它就不帅了",
+      "onboard_time": 1682731227,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 201454,
@@ -44273,6 +44313,14 @@
       "onboard_time": 1682690614,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193836,
+      "num": 193836,
+      "word": "人从众",
+      "onboard_time": 1682729907,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193823,
@@ -47163,14 +47211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 185093,
-      "num": 185093,
-      "word": "人从众",
-      "onboard_time": 1682729907,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185053,
       "num": 185053,
       "word": "广东东莞大益",
@@ -47224,6 +47264,14 @@
       "word": "冥夜失明",
       "onboard_time": 1681215748,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184758,
+      "num": 184758,
+      "word": "朴炯植颁奖镜头切给了任时完",
+      "onboard_time": 1682728288,
+      "rank": 34,
       "category": "影视"
     },
     {
@@ -49417,14 +49465,6 @@
       "onboard_time": 1682610989,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174413,
-      "num": 174413,
-      "word": "朴炯植颁奖镜头切给了任时完",
-      "onboard_time": 1682728288,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 174355,
@@ -53265,14 +53305,6 @@
       "onboard_time": 1681037910,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155867,
-      "num": 219329,
-      "word": "淄博",
-      "onboard_time": 1681545687,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155834,
@@ -58083,14 +58115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132688,
-      "num": 132688,
-      "word": "陈赫在向往的生活哭了",
-      "onboard_time": 1682731108,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132556,
       "num": 132556,
       "word": "狗过马路也要等红绿灯",
@@ -58977,6 +59001,14 @@
       "onboard_time": 1680325169,
       "rank": 40,
       "category": "影视,动漫"
+    },
+    {
+      "raw_hot": 127521,
+      "num": 127521,
+      "word": "SEVENTEEN出差十五夜预告",
+      "onboard_time": 1682727208,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 127517,
@@ -60587,14 +60619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 116731,
-      "num": 116731,
-      "word": "不行师父系上它就不帅了",
-      "onboard_time": 1682731227,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116699,
       "num": 116699,
       "word": "女子登山崴脚被巡山小妖抬下山",
@@ -60883,6 +60907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113748,
+      "num": 113748,
+      "word": "假如一觉睡醒回到了高中",
+      "onboard_time": 1682732729,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113717,
       "num": 113717,
       "word": "张婧仪范丞丞吻戏",
@@ -61145,6 +61177,14 @@
       "onboard_time": 1681538127,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111773,
+      "num": 111773,
+      "word": "人生路不熟 笑点密集",
+      "onboard_time": 1682732368,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 111642,
