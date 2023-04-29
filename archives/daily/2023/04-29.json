@@ -1,6 +1,6 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682739213878,
+  "endTime": 1682742010601,
   "band_list": [
     {
       "raw_hot": 2739695,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1701053,
-      "num": 378520,
+      "num": 533512,
       "word": "贾玲瘦了",
       "onboard_time": 1682735549,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1516377,
+      "num": 1516377,
+      "word": "青年艺术家孙博离世",
+      "onboard_time": 1682739266,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1398880,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 602791,
-      "num": 371665,
+      "num": 410356,
       "word": "娜扎裤子",
       "onboard_time": 1682735246,
       "rank": 26,
@@ -171,6 +179,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566505,
+      "num": 566505,
+      "word": "因为穿衣风格直接丢了工作",
+      "onboard_time": 1682737709,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 556296,
+      "num": 556296,
+      "word": "性缘脑",
+      "onboard_time": 1682740649,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 553804,
+      "num": 553804,
+      "word": "7岁大熊猫小丫因尿毒症去世",
+      "onboard_time": 1682741246,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529771,
       "num": 529771,
       "word": "黄磊说自己录的综艺太多了",
@@ -185,6 +217,14 @@
       "onboard_time": 1682726545,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 499956,
+      "num": 499956,
+      "word": "大华 小H",
+      "onboard_time": 1682737167,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 488942,
@@ -243,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 413484,
-      "num": 367764,
-      "word": "因为穿衣风格直接丢了工作",
-      "onboard_time": 1682737709,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 398511,
       "num": 398511,
       "word": "陈都灵看不下去了",
@@ -275,20 +307,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 378520,
-      "num": 378520,
-      "word": "大华 小H",
-      "onboard_time": 1682737167,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 375353,
       "num": 350763,
       "word": "谢娜被孙红雷气哭了",
       "onboard_time": 1682736928,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375236,
+      "num": 375236,
+      "word": "新版教材里的袁爷爷",
+      "onboard_time": 1682738128,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 373546,
@@ -323,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 342833,
+      "num": 342833,
+      "word": "刘亦菲演的许红豆是淄博人",
+      "onboard_time": 1682741007,
+      "rank": 16,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 331288,
       "num": 143203,
       "word": "上海地铁回应孕妇要男子让座",
@@ -339,8 +379,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 323469,
-      "num": 323469,
+      "raw_hot": 326504,
+      "num": 326504,
       "word": "向往7好心酸",
       "onboard_time": 1682737709,
       "rank": 29,
@@ -387,20 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288855,
-      "num": 218939,
-      "word": "新版教材里的袁爷爷",
-      "onboard_time": 1682738128,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 287701,
       "num": 287701,
       "word": "租个房把极简发挥到了极致",
       "onboard_time": 1682725702,
       "rank": 17,
       "category": "幽默,时尚"
+    },
+    {
+      "raw_hot": 279126,
+      "num": 186342,
+      "word": "詹姆斯突破背扣",
+      "onboard_time": 1682741425,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 276961,
@@ -417,6 +457,14 @@
       "onboard_time": 1682724323,
       "rank": 19,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 269411,
+      "num": 269411,
+      "word": "蛋仔派对",
+      "onboard_time": 1682740888,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 263889,
@@ -523,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228309,
+      "num": 228309,
+      "word": "西湖",
+      "onboard_time": 1682738188,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 223961,
       "num": 198903,
       "word": "五一还有小众旅游地吗",
@@ -537,6 +593,14 @@
       "onboard_time": 1682688812,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220588,
+      "num": 220588,
+      "word": "哪个城市是空的",
+      "onboard_time": 1682740949,
+      "rank": 25,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 219008,
@@ -667,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185928,
+      "num": 185928,
+      "word": "欧文来了",
+      "onboard_time": 1682740529,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185231,
       "num": 157674,
       "word": "张嘉倪的锁骨",
@@ -681,6 +753,14 @@
       "onboard_time": 1682728288,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 182950,
+      "num": 182950,
+      "word": "宋雨琦聪明",
+      "onboard_time": 1682739928,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 179738,
@@ -715,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176121,
+      "num": 176121,
+      "word": "宋慧乔出发纽约",
+      "onboard_time": 1682739026,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172788,
       "num": 172788,
       "word": "汉庭门店回应节前强退房客预订单",
@@ -724,7 +812,7 @@
     },
     {
       "raw_hot": 171904,
-      "num": 1010552,
+      "num": 1082196,
       "word": "国内旅游订单创5年来最高",
       "onboard_time": 1682736689,
       "rank": 2,
@@ -859,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139104,
+      "num": 139104,
+      "word": "五一",
+      "onboard_time": 1682740285,
+      "rank": 41,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 137890,
       "num": 137890,
       "word": "五一假期怎么过",
@@ -883,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128324,
-      "num": 140259,
-      "word": "西湖",
-      "onboard_time": 1682738188,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 127521,
       "num": 127521,
       "word": "SEVENTEEN出差十五夜预告",
@@ -899,12 +987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120184,
-      "num": 120184,
-      "word": "宋慧乔出发纽约",
-      "onboard_time": 1682739026,
-      "rank": 46,
-      "category": "作品衍生"
+      "raw_hot": 120176,
+      "num": 120176,
+      "word": "五月天深圳",
+      "onboard_time": 1682741788,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 116699,
@@ -944,6 +1032,14 @@
       "word": "人生路不熟 笑点密集",
       "onboard_time": 1682732368,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 105340,
+      "num": 105340,
+      "word": "澹台烬终于有家了",
+      "onboard_time": 1682741973,
+      "rank": 46,
       "category": "影视"
     },
     {

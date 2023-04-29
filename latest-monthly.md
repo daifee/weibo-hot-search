@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/04/01 00:21:42 ~ 2023/04/29 11:33:33
+本榜单时间：2023/04/01 00:21:42 ~ 2023/04/29 12:20:10
 </p>
 </blockquote>
 <p>
@@ -2963,6 +2963,12 @@ Lisa的腿好惊人（热度：1565581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E6%96%B0%E5%86%A0%E4%B8%8D%E5%86%8D%E6%9D%A5%E4%BA%86%E8%BF%98%E7%94%A8%E6%89%93%E7%96%AB%E8%8B%97%E5%90%97%23" target="weibo">
 感觉新冠不再来了还用打疫苗吗（热度：1517109）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B9%B4%E8%89%BA%E6%9C%AF%E5%AE%B6%E5%AD%99%E5%8D%9A%E7%A6%BB%E4%B8%96%23" target="weibo">
+青年艺术家孙博离世（热度：1516377）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ RNG官宣Angel离队（热度：899239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A5%A0%23" target="weibo">
 李楠（热度：885031）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%8F%82%E8%8F%B2%20%E6%88%90%E6%AF%85%23" target="weibo">
-玫珂菲 成毅（热度：884833）
 </a>
 </li>
 

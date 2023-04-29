@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682739213878,
+  "endTime": 1682742010601,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3148,7 +3148,7 @@
     },
     {
       "raw_hot": 1701053,
-      "num": 378520,
+      "num": 533512,
       "word": "贾玲瘦了",
       "onboard_time": 1682735549,
       "rank": 48,
@@ -3937,6 +3937,14 @@
       "onboard_time": 1681778611,
       "rank": 4,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1516377,
+      "num": 1516377,
+      "word": "青年艺术家孙博离世",
+      "onboard_time": 1682739266,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1505814,
@@ -12852,7 +12860,7 @@
     },
     {
       "raw_hot": 602791,
-      "num": 371665,
+      "num": 410356,
       "word": "娜扎裤子",
       "onboard_time": 1682735246,
       "rank": 26,
@@ -13939,6 +13947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 566505,
+      "num": 566505,
+      "word": "因为穿衣风格直接丢了工作",
+      "onboard_time": 1682737709,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 566430,
       "num": 528276,
       "word": "迪丽热巴评论区模仿营销号",
@@ -14195,6 +14211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 556296,
+      "num": 556296,
+      "word": "性缘脑",
+      "onboard_time": 1682740649,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 555516,
       "num": 345005,
       "word": "过度超前消费有多可怕",
@@ -14305,6 +14329,14 @@
       "onboard_time": 1682519312,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553804,
+      "num": 553804,
+      "word": "7岁大熊猫小丫因尿毒症去世",
+      "onboard_time": 1682741246,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553792,
@@ -16129,6 +16161,14 @@
       "onboard_time": 1680917606,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499956,
+      "num": 499956,
+      "word": "大华 小H",
+      "onboard_time": 1682737167,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 499948,
@@ -20371,14 +20411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413484,
-      "num": 367764,
-      "word": "因为穿衣风格直接丢了工作",
-      "onboard_time": 1682737709,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 413222,
       "num": 356640,
       "word": "汕尾美团",
@@ -22523,14 +22555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 378520,
-      "num": 378520,
-      "word": "大华 小H",
-      "onboard_time": 1682737167,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 378160,
       "num": 277281,
       "word": "没有工作后房东比我还着急",
@@ -22633,6 +22657,14 @@
       "onboard_time": 1681956990,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375236,
+      "num": 375236,
+      "word": "新版教材里的袁爷爷",
+      "onboard_time": 1682738128,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 375101,
@@ -24779,6 +24811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342833,
+      "num": 342833,
+      "word": "刘亦菲演的许红豆是淄博人",
+      "onboard_time": 1682741007,
+      "rank": 16,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 342815,
       "num": 294742,
       "word": "内娱00后颜值有多高",
@@ -25859,6 +25899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 326504,
+      "num": 326504,
+      "word": "向往7好心酸",
+      "onboard_time": 1682737709,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326367,
       "num": 326367,
       "word": "去年中国人看网文花了300多亿",
@@ -26121,14 +26169,6 @@
       "onboard_time": 1681479568,
       "rank": 19,
       "category": "影视"
-    },
-    {
-      "raw_hot": 323469,
-      "num": 323469,
-      "word": "向往7好心酸",
-      "onboard_time": 1682737709,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 323349,
@@ -28939,14 +28979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 288855,
-      "num": 218939,
-      "word": "新版教材里的袁爷爷",
-      "onboard_time": 1682738128,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 288774,
       "num": 269886,
       "word": "何昶希作为演员新人我还有很多不足",
@@ -29921,6 +29953,14 @@
       "onboard_time": 1682404226,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279126,
+      "num": 186342,
+      "word": "詹姆斯突破背扣",
+      "onboard_time": 1682741425,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 279007,
@@ -35723,6 +35763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228309,
+      "num": 228309,
+      "word": "西湖",
+      "onboard_time": 1682738188,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 228290,
       "num": 228290,
       "word": "IVE正规专预告照",
@@ -36857,6 +36905,14 @@
       "onboard_time": 1682311894,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220588,
+      "num": 220588,
+      "word": "哪个城市是空的",
+      "onboard_time": 1682740949,
+      "rank": 25,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 220571,
@@ -47147,6 +47203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185928,
+      "num": 185928,
+      "word": "欧文来了",
+      "onboard_time": 1682740529,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185883,
       "num": 185883,
       "word": "张杰西安巡演vlog",
@@ -47937,6 +48001,14 @@
       "onboard_time": 1681069931,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182950,
+      "num": 182950,
+      "word": "宋雨琦聪明",
+      "onboard_time": 1682739928,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 182904,
@@ -49331,6 +49403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176121,
+      "num": 176121,
+      "word": "宋慧乔出发纽约",
+      "onboard_time": 1682739026,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176097,
       "num": 209633,
       "word": "刘德华对郑秀文说我爱你",
@@ -50108,7 +50188,7 @@
     },
     {
       "raw_hot": 171904,
-      "num": 1010552,
+      "num": 1082196,
       "word": "国内旅游订单创5年来最高",
       "onboard_time": 1682736689,
       "rank": 2,
@@ -57155,6 +57235,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 139104,
+      "num": 139104,
+      "word": "五一",
+      "onboard_time": 1682740285,
+      "rank": 41,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 139080,
       "num": 139080,
       "word": "网友P的罗云熙白鹿公主抱",
@@ -59067,14 +59155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128324,
-      "num": 140259,
-      "word": "西湖",
-      "onboard_time": 1682738188,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 128283,
       "num": 128283,
       "word": "做月嫂真的能赚钱吗",
@@ -60387,12 +60467,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 120184,
-      "num": 120184,
-      "word": "宋慧乔出发纽约",
-      "onboard_time": 1682739026,
-      "rank": 46,
-      "category": "作品衍生"
+      "raw_hot": 120176,
+      "num": 120176,
+      "word": "五月天深圳",
+      "onboard_time": 1682741788,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 120139,
@@ -62225,6 +62305,14 @@
       "onboard_time": 1681784246,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105340,
+      "num": 105340,
+      "word": "澹台烬终于有家了",
+      "onboard_time": 1682741973,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 105322,

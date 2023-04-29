@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682739213878,
+  "endTime": 1682742010601,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 1701053,
-      "num": 378520,
+      "num": 533512,
       "word": "贾玲瘦了",
       "onboard_time": 1682735549,
       "rank": 48,
@@ -833,6 +833,14 @@
       "onboard_time": 1682397030,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1516377,
+      "num": 1516377,
+      "word": "青年艺术家孙博离世",
+      "onboard_time": 1682739266,
+      "rank": 0,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1504214,
@@ -2180,7 +2188,7 @@
     },
     {
       "raw_hot": 602791,
-      "num": 371665,
+      "num": 410356,
       "word": "娜扎裤子",
       "onboard_time": 1682735246,
       "rank": 26,
@@ -2387,6 +2395,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 566505,
+      "num": 566505,
+      "word": "因为穿衣风格直接丢了工作",
+      "onboard_time": 1682737709,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 566430,
       "num": 528276,
       "word": "迪丽热巴评论区模仿营销号",
@@ -2411,12 +2427,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 556296,
+      "num": 556296,
+      "word": "性缘脑",
+      "onboard_time": 1682740649,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 553849,
       "num": 454014,
       "word": "奚梦瑶又去深圳上课了",
       "onboard_time": 1682519312,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553804,
+      "num": 553804,
+      "word": "7岁大熊猫小丫因尿毒症去世",
+      "onboard_time": 1682741246,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553045,
@@ -2729,6 +2761,14 @@
       "onboard_time": 1682558906,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 499956,
+      "num": 499956,
+      "word": "大华 小H",
+      "onboard_time": 1682737167,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 499320,
@@ -3667,14 +3707,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 413484,
-      "num": 367764,
-      "word": "因为穿衣风格直接丢了工作",
-      "onboard_time": 1682737709,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 412788,
       "num": 412788,
       "word": "同担对明星热情消退 因为上班",
@@ -4099,14 +4131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378520,
-      "num": 378520,
-      "word": "大华 小H",
-      "onboard_time": 1682737167,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 377652,
       "num": 377652,
       "word": "李延贺涉嫌危害国家安全被调查",
@@ -4137,6 +4161,14 @@
       "onboard_time": 1682736928,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375236,
+      "num": 375236,
+      "word": "新版教材里的袁爷爷",
+      "onboard_time": 1682738128,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 374888,
@@ -4507,6 +4539,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 342833,
+      "num": 342833,
+      "word": "刘亦菲演的许红豆是淄博人",
+      "onboard_time": 1682741007,
+      "rank": 16,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 341194,
       "num": 1748607,
       "word": "爸爸吃饼卡喉15岁女儿1分钟救回",
@@ -4675,6 +4715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326504,
+      "num": 326504,
+      "word": "向往7好心酸",
+      "onboard_time": 1682737709,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326337,
       "num": 326337,
       "word": "为什么女生旅个游这么难",
@@ -4729,14 +4777,6 @@
       "onboard_time": 1682410826,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323469,
-      "num": 323469,
-      "word": "向往7好心酸",
-      "onboard_time": 1682737709,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 323301,
@@ -5379,14 +5419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288855,
-      "num": 218939,
-      "word": "新版教材里的袁爷爷",
-      "onboard_time": 1682738128,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 288320,
       "num": 288320,
       "word": "YG新女团为5人组",
@@ -5545,6 +5577,14 @@
       "onboard_time": 1682404226,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279126,
+      "num": 186342,
+      "word": "詹姆斯突破背扣",
+      "onboard_time": 1682741425,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 279007,
@@ -5761,6 +5801,14 @@
       "onboard_time": 1682665826,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269411,
+      "num": 269411,
+      "word": "蛋仔派对",
+      "onboard_time": 1682558485,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 269295,
@@ -6891,6 +6939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228309,
+      "num": 228309,
+      "word": "西湖",
+      "onboard_time": 1682738188,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 227919,
       "num": 227919,
       "word": "姐姐出嫁被婚车接走妹妹哭成泪人",
@@ -7137,6 +7193,14 @@
       "onboard_time": 1682311894,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 220588,
+      "num": 220588,
+      "word": "哪个城市是空的",
+      "onboard_time": 1682740949,
+      "rank": 25,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 220226,
@@ -8707,6 +8771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185928,
+      "num": 185928,
+      "word": "欧文来了",
+      "onboard_time": 1682740529,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185859,
       "num": 185859,
       "word": "gidle预告",
@@ -8865,6 +8937,14 @@
       "onboard_time": 1682598749,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182950,
+      "num": 182950,
+      "word": "宋雨琦聪明",
+      "onboard_time": 1682739928,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 182811,
@@ -9195,6 +9275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176121,
+      "num": 176121,
+      "word": "宋慧乔出发纽约",
+      "onboard_time": 1682739026,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175996,
       "num": 175996,
       "word": "被调休的周末瞬间不香了",
@@ -9364,7 +9452,7 @@
     },
     {
       "raw_hot": 171904,
-      "num": 1010552,
+      "num": 1082196,
       "word": "国内旅游订单创5年来最高",
       "onboard_time": 1682736689,
       "rank": 2,
@@ -10763,14 +10851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139542,
-      "num": 139542,
-      "word": "蛋仔派对",
-      "onboard_time": 1682558485,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 139469,
       "num": 139469,
       "word": "宋佳羊毛卷",
@@ -10785,6 +10865,14 @@
       "onboard_time": 1682296528,
       "rank": 38,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 139104,
+      "num": 139104,
+      "word": "五一",
+      "onboard_time": 1682740285,
+      "rank": 41,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 138638,
@@ -11123,14 +11211,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 128324,
-      "num": 140259,
-      "word": "西湖",
-      "onboard_time": 1682738188,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 128128,
       "num": 128128,
       "word": "东恩妍珍顶峰相见",
@@ -11395,12 +11475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120184,
-      "num": 120184,
-      "word": "宋慧乔出发纽约",
-      "onboard_time": 1682739026,
-      "rank": 46,
-      "category": "作品衍生"
+      "raw_hot": 120176,
+      "num": 120176,
+      "word": "五月天深圳",
+      "onboard_time": 1682741788,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 120139,
@@ -11769,6 +11849,14 @@
       "onboard_time": 1682291600,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105340,
+      "num": 105340,
+      "word": "澹台烬终于有家了",
+      "onboard_time": 1682741973,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 105322,
