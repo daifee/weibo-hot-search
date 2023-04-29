@@ -1,0 +1,410 @@
+{
+  "runTime": 1682771409375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3310693,
+        "num": 3310693,
+        "word": "海底捞一门店睡满人导致无法用餐",
+        "onboard_time": 1682765909,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1247624,
+        "num": 1247624,
+        "word": "丫丫有堆成小山的竹子",
+        "onboard_time": 1682766687,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48269,
+        "num": 968536,
+        "word": "五一假期卫星带你云旅行",
+        "onboard_time": 1682759966,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955677,
+        "num": 955677,
+        "word": "谷爱凌发的图vsAngelababy发的图",
+        "onboard_time": 1682758649,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 855645,
+        "num": 855645,
+        "word": "今年的五一疯了吗",
+        "onboard_time": 1682737949,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 824826,
+        "num": 824826,
+        "word": "程潇录制受伤",
+        "onboard_time": 1682766146,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628987,
+        "num": 628987,
+        "word": "给你一亿在图书馆里呆上一年",
+        "onboard_time": 1682766989,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 628006,
+        "num": 628006,
+        "word": "这瓜谁编的",
+        "onboard_time": 1682759665,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 547679,
+        "num": 547679,
+        "word": "外滩",
+        "onboard_time": 1682769208,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 517318,
+        "num": 517318,
+        "word": "五一预计240000000人次出游",
+        "onboard_time": 1682729846,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1430101,
+        "num": 511011,
+        "word": "龚俊 韩国",
+        "onboard_time": 1682761167,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1224549,
+        "num": 489296,
+        "word": "王源染了绿发",
+        "onboard_time": 1682771249,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 987891,
+        "num": 473911,
+        "word": "秦岚也穿过娜扎同款裤子",
+        "onboard_time": 1682760625,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435051,
+        "num": 435051,
+        "word": "薛之谦高铁上没被认出来的原因",
+        "onboard_time": 1682754865,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51967,
+        "num": 377508,
+        "word": "淘宝AI造便携鱼缸泰酷辣",
+        "onboard_time": 1682769627,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353373,
+        "num": 353373,
+        "word": "宋茜镜头下的萌兰",
+        "onboard_time": 1682766747,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 307662,
+        "num": 307662,
+        "word": "比基尼拼接牛仔裤",
+        "onboard_time": 1682765066,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299253,
+        "num": 299253,
+        "word": "上海晚霞",
+        "onboard_time": 1682765487,
+        "rank": 17,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 292123,
+        "num": 292123,
+        "word": "顾客点外卖备注科一95骑手报警",
+        "onboard_time": 1682742566,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288905,
+        "num": 288905,
+        "word": "不见上仙三百年",
+        "onboard_time": 1682767648,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285516,
+        "num": 285516,
+        "word": "专家称淄博烧烤一时好不代表长效好",
+        "onboard_time": 1682753607,
+        "rank": 20,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 282702,
+        "num": 282702,
+        "word": "秋瓷炫你要是被淘汰就点个痣再回来",
+        "onboard_time": 1682752108,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265488,
+        "num": 265488,
+        "word": "张杰演唱会",
+        "onboard_time": 1682764466,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 230087,
+        "num": 230087,
+        "word": "何炅穿针手在抖",
+        "onboard_time": 1682764587,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195315,
+        "num": 195315,
+        "word": "五一杭州部分热门景点意外遇冷",
+        "onboard_time": 1682760569,
+        "rank": 24,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 218022,
+        "num": 194124,
+        "word": "时尚芭莎 罗云熙白鹿双人视频",
+        "onboard_time": 1682766085,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201368,
+        "num": 193859,
+        "word": "奔跑吧在玩一种很新的打卡",
+        "onboard_time": 1682765308,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191145,
+        "num": 191145,
+        "word": "长空之王",
+        "onboard_time": 1682763265,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170756,
+        "num": 170756,
+        "word": "上海武警拉链式人墙上线",
+        "onboard_time": 1682761828,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169629,
+        "num": 169629,
+        "word": "苏丹",
+        "onboard_time": 1682769329,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186574,
+        "num": 166045,
+        "word": "贾玲瘦了",
+        "onboard_time": 1682735549,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184311,
+        "num": 163234,
+        "word": "灌篮高手排片好虐",
+        "onboard_time": 1682766448,
+        "rank": 31,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 180271,
+        "num": 161807,
+        "word": "火遍全国各地的组合成员发生车祸",
+        "onboard_time": 1682766865,
+        "rank": 32,
+        "category": "艺人,社会新闻"
+      },
+      {
+        "raw_hot": 159416,
+        "num": 159416,
+        "word": "有个三观正的孩子是什么体验",
+        "onboard_time": 1682758588,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158850,
+        "num": 158850,
+        "word": "放假第一天兵马俑游客突破五万人",
+        "onboard_time": 1682769208,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 166175,
+        "num": 158536,
+        "word": "这居然是林小宅",
+        "onboard_time": 1682734409,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155383,
+        "num": 155383,
+        "word": "全资进组",
+        "onboard_time": 1682748806,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153634,
+        "num": 153634,
+        "word": "这盒糕点你最想吃几",
+        "onboard_time": 1682762488,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150624,
+        "num": 150624,
+        "word": "Felix时装秀造型",
+        "onboard_time": 1682770828,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18927,
+        "num": 148585,
+        "word": "淘宝实现AI设计搜同款",
+        "onboard_time": 1682769627,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147626,
+        "num": 147626,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 40,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 147295,
+        "num": 147295,
+        "word": "成龙说电影里真打真摔过时了",
+        "onboard_time": 1682768667,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146632,
+        "num": 146632,
+        "word": "谁给易烊千玺换个口罩",
+        "onboard_time": 1682765127,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139358,
+        "num": 139358,
+        "word": "TTG对战Hero",
+        "onboard_time": 1682767468,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138622,
+        "num": 138622,
+        "word": "王宝强叫徐明浩小好",
+        "onboard_time": 1682769148,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129278,
+        "num": 129278,
+        "word": "我的妈妈可能是个搞笑女",
+        "onboard_time": 1682769750,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128504,
+        "num": 128504,
+        "word": "宋慧乔好忙",
+        "onboard_time": 1682762726,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128328,
+        "num": 128328,
+        "word": "TTG猝死团",
+        "onboard_time": 1682771187,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127767,
+        "num": 127767,
+        "word": "北京国安vs山东泰山",
+        "onboard_time": 1682764645,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106165,
+        "num": 106165,
+        "word": "B站商业化最大的问题是什么",
+        "onboard_time": 1682770948,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#北京国际电影节#"
+    }
+  }
+}

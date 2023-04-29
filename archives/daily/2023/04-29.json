@@ -1,7 +1,15 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682768006658,
+  "endTime": 1682771409375,
   "band_list": [
+    {
+      "raw_hot": 3310693,
+      "num": 3310693,
+      "word": "海底捞一门店睡满人导致无法用餐",
+      "onboard_time": 1682765909,
+      "rank": 15,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3223192,
       "num": 3211914,
@@ -41,14 +49,6 @@
       "onboard_time": 1682760625,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1839285,
-      "num": 1839285,
-      "word": "海底捞一门店睡满人导致无法用餐",
-      "onboard_time": 1682765909,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1776744,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1247624,
+      "num": 1247624,
+      "word": "丫丫有堆成小山的竹子",
+      "onboard_time": 1682766687,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1238255,
       "num": 1238255,
       "word": "南京南站",
@@ -129,6 +137,14 @@
       "onboard_time": 1682752108,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1224549,
+      "num": 489296,
+      "word": "王源染了绿发",
+      "onboard_time": 1682771249,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1197584,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 804395,
-      "num": 551146,
+      "num": 628006,
       "word": "这瓜谁编的",
       "onboard_time": 1682759665,
       "rank": 43,
@@ -315,6 +331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 628987,
+      "num": 628987,
+      "word": "给你一亿在图书馆里呆上一年",
+      "onboard_time": 1682766989,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 602791,
       "num": 410356,
       "word": "娜扎裤子",
@@ -345,6 +369,14 @@
       "onboard_time": 1682737709,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 547679,
+      "num": 547679,
+      "word": "外滩",
+      "onboard_time": 1682769208,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 540070,
@@ -643,12 +675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 347946,
-      "num": 990335,
-      "word": "丫丫有堆成小山的竹子",
-      "onboard_time": 1682766687,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 353373,
+      "num": 353373,
+      "word": "宋茜镜头下的萌兰",
+      "onboard_time": 1682766747,
+      "rank": 45,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 339592,
@@ -755,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288905,
+      "num": 288905,
+      "word": "不见上仙三百年",
+      "onboard_time": 1682767648,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288833,
       "num": 251686,
       "word": "肖战希望大家观看只带着对舞台的热爱",
@@ -777,14 +817,6 @@
       "onboard_time": 1682764587,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281811,
-      "num": 281811,
-      "word": "宋茜镜头下的萌兰",
-      "onboard_time": 1682766747,
-      "rank": 45,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 280768,
@@ -921,14 +953,6 @@
       "onboard_time": 1682762488,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 249367,
-      "num": 249367,
-      "word": "给你一亿在图书馆里呆上一年",
-      "onboard_time": 1682766989,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 247997,
@@ -1243,6 +1267,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 201368,
+      "num": 193939,
+      "word": "奔跑吧在玩一种很新的打卡",
+      "onboard_time": 1682765308,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199156,
       "num": 199156,
       "word": "五月天深圳",
@@ -1281,22 +1313,6 @@
       "onboard_time": 1682755466,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196176,
-      "num": 196176,
-      "word": "不见上仙三百年",
-      "onboard_time": 1682767648,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193939,
-      "num": 193939,
-      "word": "奔跑吧在玩一种很新的打卡",
-      "onboard_time": 1682765308,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 193836,
@@ -1363,8 +1379,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 182364,
-      "num": 145030,
+      "raw_hot": 184311,
+      "num": 163234,
       "word": "灌篮高手排片好虐",
       "onboard_time": 1682766448,
       "rank": 42,
@@ -1491,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169629,
+      "num": 169629,
+      "word": "苏丹",
+      "onboard_time": 1682769329,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167862,
       "num": 154050,
       "word": "李润祺新歌歌词",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1682736448,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158850,
+      "num": 158850,
+      "word": "放假第一天兵马俑游客突破五万人",
+      "onboard_time": 1682769208,
+      "rank": 34,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 158659,
@@ -1643,12 +1675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150624,
+      "num": 150624,
+      "word": "Felix时装秀造型",
+      "onboard_time": 1682770828,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148918,
       "num": 148918,
       "word": "杜兰特与耐克签下终身合同",
       "onboard_time": 1682723721,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147295,
+      "num": 147295,
+      "word": "成龙说电影里真打真摔过时了",
+      "onboard_time": 1682768667,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 145857,
@@ -1699,6 +1747,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 138622,
+      "num": 138622,
+      "word": "王宝强叫徐明浩小好",
+      "onboard_time": 1682769148,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137964,
       "num": 137964,
       "word": "詹姆斯提前五小时热身",
@@ -1747,12 +1803,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129278,
+      "num": 129278,
+      "word": "我的妈妈可能是个搞笑女",
+      "onboard_time": 1682769750,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128560,
       "num": 128560,
       "word": "不良执念清除师",
       "onboard_time": 1682756729,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 128328,
+      "num": 128328,
+      "word": "TTG猝死团",
+      "onboard_time": 1682771187,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 127767,
+      "num": 127767,
+      "word": "北京国安vs山东泰山",
+      "onboard_time": 1682764645,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 127521,
@@ -1867,14 +1947,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 114757,
-      "num": 114757,
-      "word": "北京国安vs山东泰山",
-      "onboard_time": 1682764645,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114041,
       "num": 141279,
       "word": "赞多ins晒与鹿晗合照",
@@ -1929,6 +2001,14 @@
       "onboard_time": 1682762067,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106165,
+      "num": 106165,
+      "word": "B站商业化最大的问题是什么",
+      "onboard_time": 1682770948,
+      "rank": 49,
+      "category": "科技"
     },
     {
       "raw_hot": 105248,
@@ -2147,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51967,
+      "num": 377508,
+      "word": "淘宝AI造便携鱼缸泰酷辣",
+      "onboard_time": 1682769627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51645,
       "num": 140768,
       "word": "12306众生平等",
@@ -2209,6 +2297,14 @@
       "onboard_time": 1682598388,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18927,
+      "num": 148585,
+      "word": "淘宝实现AI设计搜同款",
+      "onboard_time": 1682769627,
+      "rank": 39,
+      "category": "科技"
     }
   ],
   "hotgov_list": [
@@ -2226,6 +2322,9 @@
     },
     {
       "word": "#流动的中国生机勃勃#"
+    },
+    {
+      "word": "#北京国际电影节#"
     }
   ]
 }
