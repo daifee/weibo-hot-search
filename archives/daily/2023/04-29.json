@@ -1,10 +1,10 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682752614298,
+  "endTime": 1682753612884,
   "band_list": [
     {
-      "raw_hot": 3168840,
-      "num": 3168840,
+      "raw_hot": 3211914,
+      "num": 3211914,
       "word": "娜扎 我不觉得我穿得有问题",
       "onboard_time": 1682750606,
       "rank": 0,
@@ -139,6 +139,14 @@
       "category": "幽默,科技"
     },
     {
+      "raw_hot": 1009745,
+      "num": 1009745,
+      "word": "全资进组",
+      "onboard_time": 1682748806,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1009179,
       "num": 467261,
       "word": "易烊千玺回国",
@@ -153,6 +161,14 @@
       "onboard_time": 1682723961,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 932516,
+      "num": 932516,
+      "word": "甘肃酒泉车辆碰撞事故致6死12伤",
+      "onboard_time": 1682749347,
+      "rank": 12,
+      "category": "社会负面"
     },
     {
       "raw_hot": 908821,
@@ -177,14 +193,6 @@
       "onboard_time": 1682697209,
       "rank": 10,
       "category": "影视"
-    },
-    {
-      "raw_hot": 853758,
-      "num": 853758,
-      "word": "甘肃酒泉车辆碰撞事故致6死12伤",
-      "onboard_time": 1682749347,
-      "rank": 12,
-      "category": "社会负面"
     },
     {
       "raw_hot": 751996,
@@ -217,14 +225,6 @@
       "onboard_time": 1682741246,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 683996,
-      "num": 683996,
-      "word": "全资进组",
-      "onboard_time": 1682748806,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 663648,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 407713,
+      "num": 360250,
+      "word": "放在整个差评界也是炸裂的",
+      "onboard_time": 1682749107,
+      "rank": 46,
+      "category": "其它"
+    },
+    {
       "raw_hot": 400406,
       "num": 400406,
       "word": "何炅录制完结的节目",
@@ -547,14 +555,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 291096,
-      "num": 291096,
-      "word": "放在整个差评界也是炸裂的",
-      "onboard_time": 1682749107,
-      "rank": 46,
-      "category": "其它"
-    },
-    {
       "raw_hot": 289911,
       "num": 289911,
       "word": "何炅说综艺是没有结果的",
@@ -641,6 +641,14 @@
       "onboard_time": 1682751506,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251484,
+      "num": 251484,
+      "word": "秋瓷炫你要是被淘汰就点个痣再回来",
+      "onboard_time": 1682752108,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 251411,
@@ -747,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227782,
+      "num": 227782,
+      "word": "孕妇羊水破裂交警疏堵5分钟送医",
+      "onboard_time": 1682752287,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223961,
       "num": 198903,
       "word": "五一还有小众旅游地吗",
@@ -811,6 +827,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 215273,
+      "num": 215273,
+      "word": "游客一出西安站5A级景区扑面而来",
+      "onboard_time": 1682752647,
+      "rank": 23,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 213246,
       "num": 213246,
       "word": "蔡徐坤到达纽约",
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 210093,
-      "num": 187682,
+      "num": 198602,
       "word": "Jennie朴彩英到达纽约",
       "onboard_time": 1682748867,
       "rank": 37,
@@ -915,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195224,
+      "num": 184439,
+      "word": "陈都灵说感觉关上的那扇门焊死了",
+      "onboard_time": 1682752529,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193836,
       "num": 193836,
       "word": "人从众",
@@ -945,6 +977,14 @@
       "onboard_time": 1682696431,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185260,
+      "num": 185260,
+      "word": "杨超越工作室严正声明",
+      "onboard_time": 1682751928,
+      "rank": 36,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 185231,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1682736689,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166304,
+      "num": 166304,
+      "word": "王一博雷宇掉羊圈花絮",
+      "onboard_time": 1682752406,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 165793,
@@ -1163,28 +1211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149065,
-      "num": 149065,
-      "word": "孕妇羊水破裂交警疏堵5分钟送医",
-      "onboard_time": 1682752287,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 148918,
       "num": 148918,
       "word": "杜兰特与耐克签下终身合同",
       "onboard_time": 1682723721,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146567,
-      "num": 146567,
-      "word": "秋瓷炫你要是被淘汰就点个痣再回来",
-      "onboard_time": 1682752108,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 145857,
@@ -1259,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137119,
-      "num": 137119,
-      "word": "杨超越工作室严正声明",
-      "onboard_time": 1682751928,
-      "rank": 36,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 136177,
       "num": 136177,
       "word": "钢的琴",
@@ -1299,20 +1323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125150,
-      "num": 125150,
-      "word": "王一博雷宇掉羊圈花絮",
-      "onboard_time": 1682752406,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 125086,
       "num": 125086,
       "word": "五一电影",
       "onboard_time": 1682742746,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 123887,
+      "num": 123887,
+      "word": "五一独自在家有多爽",
+      "onboard_time": 1682752586,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 123714,
@@ -1329,14 +1353,6 @@
       "onboard_time": 1682749885,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 121024,
-      "num": 121024,
-      "word": "陈都灵说感觉关上的那扇门焊死了",
-      "onboard_time": 1682752529,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 121007,
@@ -1393,14 +1409,6 @@
       "onboard_time": 1682727566,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 112674,
-      "num": 112674,
-      "word": "五一独自在家有多爽",
-      "onboard_time": 1682752586,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 111773,
