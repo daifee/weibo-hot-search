@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682799439748,
+  "endTime": 1682800414109,
   "band_list": [
     {
       "raw_hot": 1558601,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38286,
+      "num": 22519,
+      "word": "男孩在学校跳蚤市场1元买回金戒指",
+      "onboard_time": 1682798052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36383,
       "num": 32469,
       "word": "没想到火车上都有KTV了",
@@ -481,14 +489,6 @@
       "onboard_time": 1682790256,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 27196,
-      "num": 22487,
-      "word": "男孩在学校跳蚤市场1元买回金戒指",
-      "onboard_time": 1682798052,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26980,
