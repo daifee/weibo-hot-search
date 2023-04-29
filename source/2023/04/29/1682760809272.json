@@ -1,0 +1,410 @@
+{
+  "runTime": 1682760809272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1206300,
+        "num": 1206300,
+        "word": "秋瓷炫你要是被淘汰就点个痣再回来",
+        "onboard_time": 1682752108,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1076682,
+        "num": 1076682,
+        "word": "今年的五一疯了吗",
+        "onboard_time": 1682737949,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40925,
+        "num": 994743,
+        "word": "五一假期卫星带你云旅行",
+        "onboard_time": 1682759966,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947228,
+        "num": 947228,
+        "word": "全资进组",
+        "onboard_time": 1682748806,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 674495,
+        "num": 674495,
+        "word": "谷爱凌发的图vsAngelababy发的图",
+        "onboard_time": 1682758649,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 607886,
+        "num": 607886,
+        "word": "罗云熙的鞋跟",
+        "onboard_time": 1682747608,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 570922,
+        "num": 570922,
+        "word": "五一预计240000000人次出游",
+        "onboard_time": 1682729846,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 548154,
+        "num": 548154,
+        "word": "甘肃酒泉车辆碰撞事故致6死12伤",
+        "onboard_time": 1682749347,
+        "rank": 7,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 529765,
+        "num": 529765,
+        "word": "顾客点外卖备注科一95骑手报警",
+        "onboard_time": 1682742566,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432239,
+        "num": 432239,
+        "word": "专家称淄博烧烤一时好不代表长效好",
+        "onboard_time": 1682753607,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 2258381,
+        "num": 427896,
+        "word": "秦岚也穿过娜扎同款裤子",
+        "onboard_time": 1682760625,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795282,
+        "num": 405209,
+        "word": "薛之谦高铁上没被认出来的原因",
+        "onboard_time": 1682754865,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 344553,
+        "num": 344553,
+        "word": "许光汉追星IU成功",
+        "onboard_time": 1682755349,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318800,
+        "num": 318800,
+        "word": "易烊千玺回国",
+        "onboard_time": 1682744789,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296396,
+        "num": 296396,
+        "word": "最牛的三部仙侠剧",
+        "onboard_time": 1682743049,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280566,
+        "num": 280566,
+        "word": "有个三观正的孩子是什么体验",
+        "onboard_time": 1682758588,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280334,
+        "num": 280334,
+        "word": "贾玲瘦了",
+        "onboard_time": 1682735549,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263844,
+        "num": 263844,
+        "word": "五一堵",
+        "onboard_time": 1682760388,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254807,
+        "num": 254807,
+        "word": "这居然是林小宅",
+        "onboard_time": 1682734409,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237780,
+        "num": 237780,
+        "word": "游客一出西安站5A级景区扑面而来",
+        "onboard_time": 1682752647,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 254179,
+        "num": 235818,
+        "word": "放在整个差评界也是炸裂的",
+        "onboard_time": 1682749107,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 250105,
+        "num": 235629,
+        "word": "这瓜谁编的",
+        "onboard_time": 1682759665,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230740,
+        "num": 230740,
+        "word": "顶流花花提前休五一",
+        "onboard_time": 1682758467,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217557,
+        "num": 217557,
+        "word": "肖战希望大家观看只带着对舞台的热爱",
+        "onboard_time": 1682753847,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207398,
+        "num": 207398,
+        "word": "堵车时第一辆车在干什么",
+        "onboard_time": 1682755769,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200101,
+        "num": 200101,
+        "word": "billkin晒与鹿晗合照",
+        "onboard_time": 1682759128,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198222,
+        "num": 198222,
+        "word": "北京已严重拥堵",
+        "onboard_time": 1682681249,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196068,
+        "num": 196068,
+        "word": "徐娇成绩全A",
+        "onboard_time": 1682730867,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182989,
+        "num": 182989,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 28,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 167886,
+        "num": 167886,
+        "word": "五一假首日西安回民街已水泄不通",
+        "onboard_time": 1682754987,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 192789,
+        "num": 161155,
+        "word": "林妙可公主裙",
+        "onboard_time": 1682759007,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 153983,
+        "num": 153983,
+        "word": "檀健次 大连",
+        "onboard_time": 1682760446,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151652,
+        "num": 151652,
+        "word": "哪个城市是空的",
+        "onboard_time": 1682740949,
+        "rank": 32,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 145099,
+        "num": 145099,
+        "word": "留几手 写给网友的道歉信",
+        "onboard_time": 1682759726,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142626,
+        "num": 142626,
+        "word": "孕妇羊水破裂交警疏堵5分钟送医",
+        "onboard_time": 1682752287,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141911,
+        "num": 141911,
+        "word": "王源粉丝看演唱会的发型",
+        "onboard_time": 1682751506,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140965,
+        "num": 140965,
+        "word": "王一博演90后试飞员有原型",
+        "onboard_time": 1682753968,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136468,
+        "num": 136468,
+        "word": "常台高速苏州段多车轮胎被扎",
+        "onboard_time": 1682758348,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127374,
+        "num": 127374,
+        "word": "深圳00后用黑科技整顿职场",
+        "onboard_time": 1682759369,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 121720,
+        "num": 121720,
+        "word": "林智妍杂志疑似抄袭倪妮造型",
+        "onboard_time": 1682729188,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 121315,
+        "num": 121315,
+        "word": "面子和面全掉地上了",
+        "onboard_time": 1682759427,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119650,
+        "num": 119650,
+        "word": "向往7好心酸",
+        "onboard_time": 1682737709,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116044,
+        "num": 116044,
+        "word": "一岁半孙子见瘫痪爷爷走路激动拥抱",
+        "onboard_time": 1682748265,
+        "rank": 42,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 112845,
+        "num": 112845,
+        "word": "被爱时其实不需要那么漂亮",
+        "onboard_time": 1682753968,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231132,
+        "num": 111438,
+        "word": "Angelababy卧底界的奥斯卡",
+        "onboard_time": 1682757264,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102008,
+        "num": 102008,
+        "word": "不良执念清除师",
+        "onboard_time": 1682756729,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101678,
+        "num": 101678,
+        "word": "Jennie朴彩英到达纽约",
+        "onboard_time": 1682748867,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99514,
+        "num": 99514,
+        "word": "陈都灵说感觉关上的那扇门焊死了",
+        "onboard_time": 1682752529,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93042,
+        "num": 99460,
+        "word": "Apex",
+        "onboard_time": 1682753727,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88914,
+        "num": 97911,
+        "word": "五一杭州部分热门景点意外遇冷",
+        "onboard_time": 1682760569,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文旅市场活力迸发#"
+    }
+  }
+}
