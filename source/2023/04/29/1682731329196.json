@@ -1,0 +1,410 @@
+{
+  "runTime": 1682731329196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1170632,
+        "num": 1170632,
+        "word": "谢娜说你宁愿相信一张纸都不相信我",
+        "onboard_time": 1682695055,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1046580,
+        "num": 1046580,
+        "word": "林智妍杂志疑似抄袭倪妮造型",
+        "onboard_time": 1682729188,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 52570,
+        "num": 979332,
+        "word": "传统村落集中连片保护利用示范名单",
+        "onboard_time": 1682690732,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944064,
+        "num": 944064,
+        "word": "五一预计240000000人次出游",
+        "onboard_time": 1682729846,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 554319,
+        "num": 554319,
+        "word": "著名相声演员李建华去世",
+        "onboard_time": 1682693555,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507549,
+        "num": 507549,
+        "word": "李莎拉孙明悟油到反光",
+        "onboard_time": 1682726545,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488942,
+        "num": 488942,
+        "word": "淄博大姨摊着摊着煎饼累睡着了",
+        "onboard_time": 1682726484,
+        "rank": 6,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 467649,
+        "num": 467649,
+        "word": "五一假期没去旅游的原因",
+        "onboard_time": 1682728405,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 367653,
+        "num": 367653,
+        "word": "向往的生活最后一季",
+        "onboard_time": 1682692593,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301135,
+        "num": 301135,
+        "word": "大熊猫保护研究中心发文",
+        "onboard_time": 1682725404,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033217,
+        "num": 300524,
+        "word": "北京已严重拥堵",
+        "onboard_time": 1682681249,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920347,
+        "num": 297618,
+        "word": "你拿下视后我拿下男主",
+        "onboard_time": 1682723961,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 830669,
+        "num": 295587,
+        "word": "微信回复领导两年前的消息",
+        "onboard_time": 1682694271,
+        "rank": 12,
+        "category": "幽默,科技"
+      },
+      {
+        "raw_hot": 719680,
+        "num": 294153,
+        "word": "淄博烧烤最后如何收场",
+        "onboard_time": 1682675791,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 461900,
+        "num": 293174,
+        "word": "黄磊说自己录的综艺太多了",
+        "onboard_time": 1682727867,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314659,
+        "num": 290394,
+        "word": "韩国人什么时候放弃水光肌",
+        "onboard_time": 1682730566,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 289911,
+        "num": 289911,
+        "word": "何炅说综艺是没有结果的",
+        "onboard_time": 1682727387,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287701,
+        "num": 287701,
+        "word": "租个房把极简发挥到了极致",
+        "onboard_time": 1682725702,
+        "rank": 17,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 276961,
+        "num": 276961,
+        "word": "白鹿百口莫辩的样子像极上一季的周深",
+        "onboard_time": 1682726184,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275905,
+        "num": 275905,
+        "word": "谷爱凌边化妆边赶作业",
+        "onboard_time": 1682724323,
+        "rank": 19,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 794437,
+        "num": 269429,
+        "word": "小丫去世",
+        "onboard_time": 1682677109,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315404,
+        "num": 268347,
+        "word": "肖战西安",
+        "onboard_time": 1682725883,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259169,
+        "num": 259169,
+        "word": "薛之谦南京演唱会",
+        "onboard_time": 1682685149,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255856,
+        "num": 255856,
+        "word": "淄博快递员日发万斤炒饼一身烧烤味",
+        "onboard_time": 1682729668,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245401,
+        "num": 245401,
+        "word": "网友捐赠革命烈士登记表遭拒",
+        "onboard_time": 1682724984,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231999,
+        "num": 231999,
+        "word": "朱令",
+        "onboard_time": 1682729068,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223747,
+        "num": 223747,
+        "word": "B站抢票",
+        "onboard_time": 1682725224,
+        "rank": 26,
+        "category": "科技,动漫"
+      },
+      {
+        "raw_hot": 213246,
+        "num": 213246,
+        "word": "蔡徐坤到达纽约",
+        "onboard_time": 1682730148,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205811,
+        "num": 205811,
+        "word": "不结婚的话如何收回份子钱",
+        "onboard_time": 1682726062,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204140,
+        "num": 204140,
+        "word": "一放假就早醒",
+        "onboard_time": 1682729668,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362351,
+        "num": 202584,
+        "word": "外婆走了 可就没人救你回来了",
+        "onboard_time": 1682730266,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303215,
+        "num": 198469,
+        "word": "徐娇成绩全A",
+        "onboard_time": 1682730867,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192319,
+        "num": 192319,
+        "word": "高速",
+        "onboard_time": 1682730748,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185093,
+        "num": 185093,
+        "word": "人从众",
+        "onboard_time": 1682729907,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174413,
+        "num": 174413,
+        "word": "朴炯植颁奖镜头切给了任时完",
+        "onboard_time": 1682728288,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170006,
+        "num": 170006,
+        "word": "上岸后室友就不和我说话了",
+        "onboard_time": 1682689353,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165793,
+        "num": 165793,
+        "word": "闲人马大姐",
+        "onboard_time": 1682730148,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 163055,
+        "num": 163055,
+        "word": "结婚以后的好处",
+        "onboard_time": 1682696490,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 156369,
+        "num": 156369,
+        "word": "赵丽颖嘟嘴",
+        "onboard_time": 1682726125,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151362,
+        "num": 151362,
+        "word": "张艺兴写给蘑菇屋家人的信",
+        "onboard_time": 1682727326,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147343,
+        "num": 147343,
+        "word": "全资进组的演职员表",
+        "onboard_time": 1682697810,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 146739,
+        "num": 146739,
+        "word": "千万粉丝宅男女神被大叔男友骗1个亿",
+        "onboard_time": 1682695172,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145788,
+        "num": 145788,
+        "word": "这是今晚八点的杭州东站",
+        "onboard_time": 1682723180,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142886,
+        "num": 142886,
+        "word": "乘风好多漂亮姐姐",
+        "onboard_time": 1682728169,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132688,
+        "num": 132688,
+        "word": "陈赫在向往的生活哭了",
+        "onboard_time": 1682731108,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126628,
+        "num": 126628,
+        "word": "北京地铁2号线7号线上行今夜不停运",
+        "onboard_time": 1682689712,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116731,
+        "num": 116731,
+        "word": "不行师父系上它就不帅了",
+        "onboard_time": 1682731227,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113717,
+        "num": 113717,
+        "word": "张婧仪范丞丞吻戏",
+        "onboard_time": 1682727566,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 113298,
+        "num": 113298,
+        "word": "杜兰特与耐克签下终身合同",
+        "onboard_time": 1682723721,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58811,
+        "num": 112903,
+        "word": "这是哪个国家的肉夹馍",
+        "onboard_time": 1682723362,
+        "rank": 49,
+        "category": "美食,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#秉持公正立场彰显大国担当#"
+    }
+  }
+}
