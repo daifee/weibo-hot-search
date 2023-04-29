@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682771409375,
+  "endTime": 1682772348884,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1680700653,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2298690,
+      "num": 1081637,
+      "word": "王源染了绿发",
+      "onboard_time": 1682771249,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2296658,
@@ -5299,14 +5307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1224549,
-      "num": 489296,
-      "word": "王源染了绿发",
-      "onboard_time": 1682771249,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1221257,
       "num": 961920,
       "word": "何超云",
@@ -6401,6 +6401,14 @@
       "onboard_time": 1682160268,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1063306,
+      "num": 1063306,
+      "word": "外滩",
+      "onboard_time": 1682769208,
+      "rank": 8,
+      "category": "旅游"
     },
     {
       "raw_hot": 1063073,
@@ -14657,14 +14665,6 @@
       "onboard_time": 1680575427,
       "rank": 35,
       "category": "作品衍生,社会新闻"
-    },
-    {
-      "raw_hot": 547679,
-      "num": 547679,
-      "word": "外滩",
-      "onboard_time": 1682769208,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 547537,
@@ -31635,6 +31635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264442,
+      "num": 264442,
+      "word": "放假第一天兵马俑游客突破五万人",
+      "onboard_time": 1682769208,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 264306,
       "num": 264306,
       "word": "金像奖最佳男配角",
@@ -38467,6 +38475,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 214164,
+      "num": 214164,
+      "word": "狠人沈墨",
+      "onboard_time": 1682772147,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 214152,
       "num": 214152,
       "word": "杨紫最新代言物料图",
@@ -44241,6 +44257,14 @@
       "onboard_time": 1681827754,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196476,
+      "num": 196476,
+      "word": "TTG猝死团",
+      "onboard_time": 1682771187,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 196471,
@@ -52891,6 +52915,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 162758,
+      "num": 162758,
+      "word": "我的妈妈可能是个搞笑女",
+      "onboard_time": 1682769750,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162689,
       "num": 162689,
       "word": "带女儿开出租车妈妈7年没买过衣服",
@@ -53801,14 +53833,6 @@
       "onboard_time": 1680995357,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158850,
-      "num": 158850,
-      "word": "放假第一天兵马俑游客突破五万人",
-      "onboard_time": 1682769208,
-      "rank": 34,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 158794,
@@ -59603,6 +59627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 130279,
+      "num": 130279,
+      "word": "B站商业化最大的问题是什么",
+      "onboard_time": 1682770948,
+      "rank": 49,
+      "category": "科技"
+    },
+    {
       "raw_hot": 130264,
       "num": 130264,
       "word": "南京鸭血粉丝有多鲜",
@@ -59736,14 +59768,6 @@
       "word": "咖啡可以冷门但不可以邪门",
       "onboard_time": 1681363829,
       "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 129278,
-      "num": 129278,
-      "word": "我的妈妈可能是个搞笑女",
-      "onboard_time": 1682769750,
-      "rank": 45,
       "category": "幽默"
     },
     {
@@ -59969,14 +59993,6 @@
       "onboard_time": 1681053869,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128328,
-      "num": 128328,
-      "word": "TTG猝死团",
-      "onboard_time": 1682771187,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 128283,
@@ -62547,6 +62563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 110833,
+      "num": 110833,
+      "word": "大唐不夜城",
+      "onboard_time": 1682772090,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 110740,
       "num": 396814,
       "word": "仅退款是维护消费者权益",
@@ -63089,14 +63113,6 @@
       "onboard_time": 1680338672,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 106165,
-      "num": 106165,
-      "word": "B站商业化最大的问题是什么",
-      "onboard_time": 1682770948,
-      "rank": 49,
-      "category": "科技"
     },
     {
       "raw_hot": 106145,
@@ -65843,6 +65859,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 69829,
+      "num": 377508,
+      "word": "淘宝AI造便携鱼缸泰酷辣",
+      "onboard_time": 1682769627,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69769,
       "num": 102889,
       "word": "我的奇妙厨房",
@@ -66699,14 +66723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51967,
-      "num": 377508,
-      "word": "淘宝AI造便携鱼缸泰酷辣",
-      "onboard_time": 1682769627,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51826,
       "num": 328187,
       "word": "苏醒现场版小城夏天",
@@ -67435,6 +67451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25052,
+      "num": 153404,
+      "word": "淘宝实现AI设计搜同款",
+      "onboard_time": 1682769627,
+      "rank": 39,
+      "category": "科技"
+    },
+    {
       "raw_hot": 24845,
       "num": 24845,
       "word": "SEVENTEEN孙悟空MV",
@@ -67553,14 +67577,6 @@
       "onboard_time": 1681151713,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 18927,
-      "num": 148585,
-      "word": "淘宝实现AI设计搜同款",
-      "onboard_time": 1682769627,
-      "rank": 39,
-      "category": "科技"
     },
     {
       "raw_hot": 18894,
