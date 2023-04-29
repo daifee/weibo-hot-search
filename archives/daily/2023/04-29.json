@@ -1,18 +1,18 @@
 {
   "startTime": 1682698862601,
-  "endTime": 1682735563066,
+  "endTime": 1682736105730,
   "band_list": [
     {
-      "raw_hot": 2691934,
-      "num": 2691934,
+      "raw_hot": 2739695,
+      "num": 2739695,
       "word": "五一预计240000000人次出游",
       "onboard_time": 1682729846,
       "rank": 3,
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 1366787,
-      "num": 1366787,
+      "raw_hot": 1397691,
+      "num": 1397691,
       "word": "徐娇成绩全A",
       "onboard_time": 1682730867,
       "rank": 31,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024915,
+      "num": 1024915,
+      "word": "这居然是林小宅",
+      "onboard_time": 1682734409,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1019537,
       "num": 1019537,
       "word": "微信回复领导两年前的消息",
@@ -75,12 +83,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 969983,
+      "raw_hot": 1003627,
       "num": 525808,
       "word": "淄博烧烤最后如何收场",
       "onboard_time": 1682675791,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 908821,
+      "num": 908821,
+      "word": "陈赫在向往的生活哭了",
+      "onboard_time": 1682731108,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 902659,
@@ -99,28 +115,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 858207,
-      "num": 858207,
-      "word": "陈赫在向往的生活哭了",
-      "onboard_time": 1682731108,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 749359,
       "num": 749359,
       "word": "著名相声演员李建华去世",
       "onboard_time": 1682693555,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 646299,
-      "num": 283045,
-      "word": "这居然是林小宅",
-      "onboard_time": 1682734409,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 639151,
@@ -195,6 +195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 461125,
+      "num": 265255,
+      "word": "易烊千玺祝王源客厅狂欢巡演一切顺利",
+      "onboard_time": 1682734826,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 448776,
       "num": 448776,
       "word": "结婚以后的好处",
@@ -209,6 +217,14 @@
       "onboard_time": 1682677589,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 392636,
+      "num": 392636,
+      "word": "成都地铁",
+      "onboard_time": 1682732068,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383669,
@@ -227,20 +243,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 365932,
-      "num": 365932,
-      "word": "成都地铁",
-      "onboard_time": 1682732068,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 365415,
-      "num": 265255,
-      "word": "易烊千玺祝王源客厅狂欢巡演一切顺利",
-      "onboard_time": 1682734826,
-      "rank": 15,
-      "category": "音乐"
+      "raw_hot": 366050,
+      "num": 252309,
+      "word": "娜扎裤子",
+      "onboard_time": 1682735246,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 364304,
@@ -339,6 +347,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 256717,
+      "num": 231804,
+      "word": "贾玲瘦了",
+      "onboard_time": 1682735549,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255856,
       "num": 255856,
       "word": "淄博快递员日发万斤炒饼一身烧烤味",
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247997,
+      "num": 247997,
+      "word": "高速",
+      "onboard_time": 1682730748,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245401,
       "num": 245401,
       "word": "网友捐赠革命烈士登记表遭拒",
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 241947,
-      "num": 189749,
+      "num": 228844,
       "word": "男子摸邻座女孩大腿称一时冲动",
       "onboard_time": 1682732849,
       "rank": 23,
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 211194,
-      "num": 198183,
+      "num": 206243,
       "word": "不行师父系上它就不帅了",
       "onboard_time": 1682731227,
       "rank": 46,
@@ -464,6 +488,14 @@
       "word": "赵丽颖的小揪揪",
       "onboard_time": 1682690973,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205055,
+      "num": 205055,
+      "word": "迪丽热巴的钻超等级",
+      "onboard_time": 1682735488,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -499,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198126,
-      "num": 187445,
-      "word": "娜扎裤子",
-      "onboard_time": 1682735246,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 197593,
+      "num": 171868,
+      "word": "年轻人在休一种很新的假",
+      "onboard_time": 1682735488,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 193836,
@@ -512,14 +544,6 @@
       "word": "人从众",
       "onboard_time": 1682729907,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192319,
-      "num": 192319,
-      "word": "高速",
-      "onboard_time": 1682730748,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -571,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172788,
+      "num": 172788,
+      "word": "汉庭门店回应节前强退房客预订单",
+      "onboard_time": 1682734646,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165793,
       "num": 165793,
       "word": "闲人马大姐",
       "onboard_time": 1682730148,
       "rank": 36,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 163640,
-      "num": 163640,
-      "word": "汉庭门店回应节前强退房客预订单",
-      "onboard_time": 1682734646,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163410,
@@ -595,12 +619,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160010,
+      "num": 160010,
+      "word": "年轻人为什么热衷求好运",
+      "onboard_time": 1682736026,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158659,
       "num": 158659,
       "word": "Rookie",
       "onboard_time": 1682681550,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157466,
+      "num": 269830,
+      "word": "又被山东临沂政府的真诚打动",
+      "onboard_time": 1682733626,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156369,
@@ -627,12 +667,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150567,
+      "num": 150567,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1682735608,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149583,
+      "num": 149583,
+      "word": "女子因排队冲突猛扇对方孩子耳光",
+      "onboard_time": 1682735246,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148918,
       "num": 148918,
       "word": "杜兰特与耐克签下终身合同",
       "onboard_time": 1682723721,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145857,
+      "num": 145857,
+      "word": "接返苏丹撤离同胞的临时航班抵达北京",
+      "onboard_time": 1682735372,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145487,
@@ -667,19 +731,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137890,
+      "num": 137890,
+      "word": "五一假期怎么过",
+      "onboard_time": 1682735908,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133180,
       "num": 95810,
       "word": "杭州东站除上海方向其余车票均已售罄",
       "onboard_time": 1682723299,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132768,
-      "num": 132768,
-      "word": "接返苏丹撤离同胞的临时航班抵达北京",
-      "onboard_time": 1682735372,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -691,52 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128458,
-      "num": 269830,
-      "word": "又被山东临沂政府的真诚打动",
-      "onboard_time": 1682733626,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127722,
-      "num": 127722,
-      "word": "年轻人在休一种很新的假",
-      "onboard_time": 1682735488,
-      "rank": 43,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 127521,
       "num": 127521,
       "word": "SEVENTEEN出差十五夜预告",
       "onboard_time": 1682727208,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125392,
-      "num": 125392,
-      "word": "女子因排队冲突猛扇对方孩子耳光",
-      "onboard_time": 1682735246,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120851,
-      "num": 120851,
-      "word": "迪丽热巴的钻超等级",
-      "onboard_time": 1682735488,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 120048,
-      "num": 120048,
-      "word": "贾玲瘦了",
-      "onboard_time": 1682735549,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 116699,
@@ -956,7 +980,7 @@
     },
     {
       "raw_hot": 52570,
-      "num": 1064516,
+      "num": 1085833,
       "word": "传统村落集中连片保护利用示范名单",
       "onboard_time": 1682690732,
       "rank": 2,
