@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682885856059,
+  "endTime": 1682886816899,
   "band_list": [
     {
       "raw_hot": 1077776,
@@ -483,12 +483,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 19946,
-      "num": 22403,
+      "raw_hot": 24193,
+      "num": 24193,
       "word": "黄圣依妈妈十五年国画缘",
       "onboard_time": 1682884931,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13225,
+      "num": 20012,
+      "word": "这个家没有雪碧得散",
+      "onboard_time": 1682886614,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 7266,
