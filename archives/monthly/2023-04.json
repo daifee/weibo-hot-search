@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682828397678,
+  "endTime": 1682829191013,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -5115,6 +5115,14 @@
       "category": "影视,时尚"
     },
     {
+      "raw_hot": 1281905,
+      "num": 1281905,
+      "word": "西直门三太子",
+      "onboard_time": 1682825366,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1281022,
       "num": 1281022,
       "word": "专家建议有实力有担当的人多生孩子",
@@ -6041,14 +6049,6 @@
       "onboard_time": 1682233109,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1121596,
-      "num": 1121596,
-      "word": "西直门三太子",
-      "onboard_time": 1682825366,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1121064,
@@ -8931,6 +8931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 835056,
+      "num": 493163,
+      "word": "泫雅接了黑色长发",
+      "onboard_time": 1682825968,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 834918,
       "num": 834918,
       "word": "你觉得工资越高越幸福吗",
@@ -9185,6 +9193,14 @@
       "onboard_time": 1680773850,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 816199,
+      "num": 816199,
+      "word": "收到爆剧邀请函的待播剧",
+      "onboard_time": 1682823625,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 814713,
@@ -10107,14 +10123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 746802,
-      "num": 410158,
-      "word": "泫雅接了黑色长发",
-      "onboard_time": 1682825968,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 746455,
       "num": 746455,
       "word": "蒋勤勤状态",
@@ -10529,14 +10537,6 @@
       "onboard_time": 1681778307,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 720188,
-      "num": 720188,
-      "word": "收到爆剧邀请函的待播剧",
-      "onboard_time": 1682823625,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 719911,
@@ -16075,6 +16075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514416,
+      "num": 514416,
+      "word": "最无用的节俭行为是什么",
+      "onboard_time": 1682825426,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 513863,
       "num": 513863,
       "word": "特朗普接受传讯现场",
@@ -17569,6 +17577,14 @@
       "onboard_time": 1680768449,
       "rank": 9,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 478610,
+      "num": 478610,
+      "word": "23天婴儿医院洗澡按摩后肠坏死",
+      "onboard_time": 1682827167,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 478458,
@@ -19915,14 +19931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 429251,
-      "num": 429251,
-      "word": "最无用的节俭行为是什么",
-      "onboard_time": 1682825426,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 429169,
       "num": 429169,
       "word": "张大大西安",
@@ -22057,14 +22065,6 @@
       "onboard_time": 1681892068,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395972,
-      "num": 159865,
-      "word": "23天婴儿医院洗澡按摩后肠坏死",
-      "onboard_time": 1682827167,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 395956,
@@ -26609,6 +26609,14 @@
       "onboard_time": 1682737709,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326456,
+      "num": 326456,
+      "word": "火车上被误会的特种兵",
+      "onboard_time": 1682827107,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 326367,
@@ -33179,14 +33187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 256031,
-      "num": 256031,
-      "word": "火车上被误会的特种兵",
-      "onboard_time": 1682827107,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 255997,
       "num": 255997,
       "word": "刘雯秦岚同框",
@@ -33297,6 +33297,14 @@
       "onboard_time": 1681041866,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255096,
+      "num": 255096,
+      "word": "杜兰特",
+      "onboard_time": 1682824645,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 255083,
@@ -35105,14 +35113,6 @@
       "onboard_time": 1681004126,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240819,
-      "num": 240819,
-      "word": "杜兰特",
-      "onboard_time": 1682824645,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 240706,
@@ -39883,6 +39883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210072,
+      "num": 170000,
+      "word": "当外国人看到自拍杆",
+      "onboard_time": 1682827107,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210050,
       "num": 210050,
       "word": "桃花坞对面山头全是闪光灯",
@@ -42065,6 +42073,14 @@
       "onboard_time": 1681812388,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 203432,
+      "num": 203432,
+      "word": "肖战如梦之梦西安站的花墙",
+      "onboard_time": 1682827885,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 203426,
@@ -47587,6 +47603,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 188863,
+      "num": 188863,
+      "word": "我的五一赶场计划",
+      "onboard_time": 1682828605,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188855,
       "num": 118098,
       "word": "生气容易长结节吗",
@@ -47665,6 +47689,14 @@
       "onboard_time": 1680663929,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188506,
+      "num": 188506,
+      "word": "淄博模式可以复制吗",
+      "onboard_time": 1682828546,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 188466,
@@ -51073,14 +51105,6 @@
       "onboard_time": 1681396593,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175153,
-      "num": 159032,
-      "word": "当外国人看到自拍杆",
-      "onboard_time": 1682827107,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 175113,
@@ -56899,6 +56923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148822,
+      "num": 148822,
+      "word": "一个词形容这个五一假期",
+      "onboard_time": 1682829087,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148782,
       "num": 1659274,
       "word": "总台独家影像再揭日寇滔天罪行",
@@ -58209,14 +58241,6 @@
       "onboard_time": 1682481447,
       "rank": 43,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 142709,
-      "num": 142709,
-      "word": "肖战如梦之梦西安站的花墙",
-      "onboard_time": 1682827885,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 142702,
@@ -60449,6 +60473,14 @@
       "onboard_time": 1682640453,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131356,
+      "num": 131356,
+      "word": "淄博188西装男送一万份纸巾给游客",
+      "onboard_time": 1682828906,
+      "rank": 39,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 131244,
@@ -63019,6 +63051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115987,
+      "num": 115987,
+      "word": "哪个角色让你入坑郑业成",
+      "onboard_time": 1682828487,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 115973,
       "num": 115973,
       "word": "西湖音乐节官宣",
@@ -63873,6 +63913,14 @@
       "onboard_time": 1681709667,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 108792,
+      "num": 108792,
+      "word": "梁洁终于进组了",
+      "onboard_time": 1682829148,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 108739,

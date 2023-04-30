@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682828397678,
+  "endTime": 1682829191013,
   "band_list": [
     {
       "raw_hot": 2064706,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1281905,
+      "num": 1281905,
+      "word": "西直门三太子",
+      "onboard_time": 1682825366,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1279441,
       "num": 1279441,
       "word": "粉丝问王源爸爸怎么抢到这么好的位置",
@@ -65,14 +73,6 @@
       "onboard_time": 1682824166,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1121596,
-      "num": 1121596,
-      "word": "西直门三太子",
-      "onboard_time": 1682825366,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1119278,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 835056,
+      "num": 493163,
+      "word": "泫雅接了黑色长发",
+      "onboard_time": 1682825968,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 824921,
       "num": 824921,
       "word": "张颂文看到已故经纪人照片泪目",
@@ -155,28 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816199,
+      "num": 816199,
+      "word": "收到爆剧邀请函的待播剧",
+      "onboard_time": 1682823625,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 792204,
       "num": 792204,
       "word": "娜扎复刻自己的名场面",
       "onboard_time": 1682782711,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 746802,
-      "num": 410158,
-      "word": "泫雅接了黑色长发",
-      "onboard_time": 1682825968,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 720188,
-      "num": 720188,
-      "word": "收到爆剧邀请函的待播剧",
-      "onboard_time": 1682823625,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 599173,
@@ -235,6 +235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 514416,
+      "num": 514416,
+      "word": "最无用的节俭行为是什么",
+      "onboard_time": 1682825426,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 478610,
+      "num": 478610,
+      "word": "23天婴儿医院洗澡按摩后肠坏死",
+      "onboard_time": 1682827167,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465015,
       "num": 465015,
       "word": "新发现924例本土重点关注变异株",
@@ -249,14 +265,6 @@
       "onboard_time": 1682813125,
       "rank": 13,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 429251,
-      "num": 429251,
-      "word": "最无用的节俭行为是什么",
-      "onboard_time": 1682825426,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 412198,
@@ -283,14 +291,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 395972,
-      "num": 159865,
-      "word": "23天婴儿医院洗澡按摩后肠坏死",
-      "onboard_time": 1682827167,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384588,
       "num": 384588,
       "word": "女子2800元招育儿嫂雇到了幼师",
@@ -313,6 +313,14 @@
       "onboard_time": 1682781930,
       "rank": 14,
       "category": "影视"
+    },
+    {
+      "raw_hot": 326456,
+      "num": 326456,
+      "word": "火车上被误会的特种兵",
+      "onboard_time": 1682827107,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 321887,
@@ -403,12 +411,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 256031,
-      "num": 256031,
-      "word": "火车上被误会的特种兵",
-      "onboard_time": 1682827107,
-      "rank": 16,
-      "category": "幽默"
+      "raw_hot": 255096,
+      "num": 255096,
+      "word": "杜兰特",
+      "onboard_time": 1682824645,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 248621,
@@ -425,14 +433,6 @@
       "onboard_time": 1682816486,
       "rank": 21,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 240819,
-      "num": 240819,
-      "word": "杜兰特",
-      "onboard_time": 1682824645,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 233444,
@@ -515,6 +515,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 210072,
+      "num": 170000,
+      "word": "当外国人看到自拍杆",
+      "onboard_time": 1682827107,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 203432,
+      "num": 203432,
+      "word": "肖战如梦之梦西安站的花墙",
+      "onboard_time": 1682827885,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202042,
       "num": 202042,
       "word": "时光2今夏开播",
@@ -571,6 +587,22 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 188863,
+      "num": 188863,
+      "word": "我的五一赶场计划",
+      "onboard_time": 1682828605,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 188506,
+      "num": 188506,
+      "word": "淄博模式可以复制吗",
+      "onboard_time": 1682828546,
+      "rank": 26,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 185183,
       "num": 185183,
       "word": "G社生图",
@@ -617,14 +649,6 @@
       "onboard_time": 1682820567,
       "rank": 30,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 175153,
-      "num": 159032,
-      "word": "当外国人看到自拍杆",
-      "onboard_time": 1682827107,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 174125,
@@ -779,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148822,
+      "num": 148822,
+      "word": "一个词形容这个五一假期",
+      "onboard_time": 1682829087,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146595,
       "num": 146595,
       "word": "宁安如梦",
@@ -825,14 +857,6 @@
       "onboard_time": 1682807776,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142709,
-      "num": 142709,
-      "word": "肖战如梦之梦西安站的花墙",
-      "onboard_time": 1682827885,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 141148,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131356,
+      "num": 131356,
+      "word": "淄博188西装男送一万份纸巾给游客",
+      "onboard_time": 1682828906,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 129073,
       "num": 129073,
       "word": "奔跑吧太难懂",
@@ -929,6 +961,14 @@
       "onboard_time": 1682779591,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115987,
+      "num": 115987,
+      "word": "哪个角色让你入坑郑业成",
+      "onboard_time": 1682828487,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 115718,
@@ -993,6 +1033,14 @@
       "onboard_time": 1682815527,
       "rank": 41,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 108792,
+      "num": 108792,
+      "word": "梁洁终于进组了",
+      "onboard_time": 1682829148,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 108652,
@@ -1228,7 +1276,7 @@
     },
     {
       "raw_hot": 47646,
-      "num": 1126154,
+      "num": 1238264,
       "word": "这是卫星视角下的美丽中国",
       "onboard_time": 1682772513,
       "rank": 2,
