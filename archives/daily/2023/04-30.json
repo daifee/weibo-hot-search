@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682860687836,
+  "endTime": 1682861602338,
   "band_list": [
     {
       "raw_hot": 2593446,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1769425,
+      "num": 1769425,
+      "word": "婚礼前一天被通知不需要伴娘",
+      "onboard_time": 1682857466,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1633448,
       "num": 1633448,
       "word": "两位揭发史航性骚扰女孩发声",
@@ -68,19 +76,11 @@
     },
     {
       "raw_hot": 1501253,
-      "num": 479097,
+      "num": 503350,
       "word": "黄牛 你就说进没进去吧",
       "onboard_time": 1682850927,
       "rank": 11,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 1464546,
-      "num": 1464546,
-      "word": "婚礼前一天被通知不需要伴娘",
-      "onboard_time": 1682857466,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1424783,
@@ -275,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 798302,
+      "num": 798302,
+      "word": "王一博 飞驰人生2",
+      "onboard_time": 1682859690,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 792204,
       "num": 792204,
       "word": "娜扎复刻自己的名场面",
@@ -299,14 +307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 711546,
-      "num": 711546,
-      "word": "王一博 飞驰人生2",
-      "onboard_time": 1682859690,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 689920,
       "num": 689920,
       "word": "千万不要为了省钱花更多的钱",
@@ -329,6 +329,14 @@
       "onboard_time": 1682761167,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 589959,
+      "num": 589959,
+      "word": "三人合吃一份自助餐遭服务员劝阻",
+      "onboard_time": 1682857890,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 589225,
@@ -411,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 509742,
+      "num": 509742,
+      "word": "女子为亡夫销户痛哭民警为其留户籍页",
+      "onboard_time": 1682860649,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500008,
       "num": 500008,
       "word": "七仔",
@@ -419,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 490144,
-      "num": 431260,
-      "word": "三人合吃一份自助餐遭服务员劝阻",
-      "onboard_time": 1682857890,
-      "rank": 33,
-      "category": "社会新闻,美食"
+      "raw_hot": 494984,
+      "num": 249037,
+      "word": "月收入四万是什么体验",
+      "onboard_time": 1682857466,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 483403,
@@ -433,14 +449,6 @@
       "onboard_time": 1682856628,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 481484,
-      "num": 249037,
-      "word": "月收入四万是什么体验",
-      "onboard_time": 1682857466,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 468911,
@@ -619,6 +627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 333028,
+      "num": 287755,
+      "word": "马嘉祺假哭",
+      "onboard_time": 1682852607,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326456,
       "num": 326456,
       "word": "火车上被误会的特种兵",
@@ -633,14 +649,6 @@
       "onboard_time": 1682783909,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 316788,
-      "num": 287755,
-      "word": "马嘉祺假哭",
-      "onboard_time": 1682852607,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 315056,
@@ -664,6 +672,14 @@
       "word": "澹台烬黎苏苏终于相见",
       "onboard_time": 1682851767,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 311003,
+      "num": 311003,
+      "word": "漫长的季节",
+      "onboard_time": 1682773589,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -947,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229227,
+      "num": 229227,
+      "word": "洪知秀给未来妻子的话",
+      "onboard_time": 1682860527,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228064,
       "num": 228064,
       "word": "为救女儿司机超载交警罚200后又捐200",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1682825186,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221865,
+      "num": 221865,
+      "word": "偶然看到爸爸的手机后破防了",
+      "onboard_time": 1682856569,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 220731,
@@ -1083,6 +1115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211845,
+      "num": 211845,
+      "word": "丁立人夺国象世界棋王",
+      "onboard_time": 1682861250,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210072,
       "num": 171211,
       "word": "当外国人看到自拍杆",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1682858850,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206676,
+      "num": 206676,
+      "word": "重庆一大桥桥墩发生火灾致1死2伤",
+      "onboard_time": 1682861131,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206026,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1682812164,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200648,
-      "num": 200648,
-      "word": "偶然看到爸爸的手机后破防了",
-      "onboard_time": 1682856569,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 199409,
@@ -1339,6 +1379,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 174408,
+      "num": 174408,
+      "word": "人生路不熟票房逆跌",
+      "onboard_time": 1682861427,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174125,
       "num": 174125,
       "word": "火遍全国各地的组合成员发生车祸",
@@ -1403,6 +1451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168517,
+      "num": 168517,
+      "word": "富勒姆vs曼城",
+      "onboard_time": 1682860290,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168408,
       "num": 168408,
       "word": "原来画画可以这么酷",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1682821286,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165488,
+      "num": 165488,
+      "word": "车银优泰国活动含泪唱歌",
+      "onboard_time": 1682860167,
+      "rank": 41,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 163851,
@@ -1513,14 +1577,6 @@
       "onboard_time": 1682777370,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 158025,
-      "num": 158025,
-      "word": "车银优泰国活动含泪唱歌",
-      "onboard_time": 1682860167,
-      "rank": 41,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 157758,
@@ -1611,14 +1667,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 152167,
-      "num": 152167,
-      "word": "富勒姆vs曼城",
-      "onboard_time": 1682860290,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150418,
       "num": 150418,
       "word": "女子吐槽导航堵紫了",
@@ -1699,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144844,
+      "num": 144844,
+      "word": "郑秀妍也穿过娜扎同款裤子",
+      "onboard_time": 1682861489,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144604,
       "num": 144604,
       "word": "易小星回应人生路不熟被黑",
@@ -1755,14 +1811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140219,
-      "num": 140219,
-      "word": "洪知秀给未来妻子的话",
-      "onboard_time": 1682860527,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139489,
       "num": 139489,
       "word": "COA6全球总决赛",
@@ -1809,14 +1857,6 @@
       "onboard_time": 1682826326,
       "rank": 39,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 134335,
-      "num": 134335,
-      "word": "女子为亡夫销户痛哭民警为其留户籍页",
-      "onboard_time": 1682860649,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134021,
@@ -2249,14 +2289,6 @@
       "onboard_time": 1682816608,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87904,
-      "num": 87904,
-      "word": "漫长的季节",
-      "onboard_time": 1682773589,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 86157,

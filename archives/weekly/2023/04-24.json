@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682860687836,
+  "endTime": 1682861602338,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -699,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1769425,
+      "num": 1769425,
+      "word": "婚礼前一天被通知不需要伴娘",
+      "onboard_time": 1682857466,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1768349,
       "num": 1768349,
       "word": "现偶收视率前十里有五部是张翰的",
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 1501253,
-      "num": 479097,
+      "num": 503350,
       "word": "黄牛 你就说进没进去吧",
       "onboard_time": 1682850927,
       "rank": 11,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1682466804,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1464546,
-      "num": 1464546,
-      "word": "婚礼前一天被通知不需要伴娘",
-      "onboard_time": 1682857466,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1458676,
@@ -2163,6 +2163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 798302,
+      "num": 798302,
+      "word": "王一博 飞驰人生2",
+      "onboard_time": 1682859690,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 796991,
       "num": 796991,
       "word": "长月烬明更换背景音乐",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1682490626,
       "rank": 39,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 711546,
-      "num": 711546,
-      "word": "王一博 飞驰人生2",
-      "onboard_time": 1682859690,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 704969,
@@ -2769,6 +2769,14 @@
       "onboard_time": 1682637201,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589959,
+      "num": 589959,
+      "word": "三人合吃一份自助餐遭服务员劝阻",
+      "onboard_time": 1682857890,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 589225,
@@ -3275,6 +3283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 509742,
+      "num": 509742,
+      "word": "女子为亡夫销户痛哭民警为其留户籍页",
+      "onboard_time": 1682860649,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509441,
       "num": 509441,
       "word": "澹台烬抱着叶夕雾的尸体睡觉",
@@ -3443,6 +3459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 494984,
+      "num": 249037,
+      "word": "月收入四万是什么体验",
+      "onboard_time": 1682857466,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 494412,
       "num": 494412,
       "word": "INTO1今天正式解散了",
@@ -3505,14 +3529,6 @@
       "onboard_time": 1682588909,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 490144,
-      "num": 431260,
-      "word": "三人合吃一份自助餐遭服务员劝阻",
-      "onboard_time": 1682857890,
-      "rank": 33,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 488942,
@@ -3601,14 +3617,6 @@
       "onboard_time": 1682499928,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 481484,
-      "num": 249037,
-      "word": "月收入四万是什么体验",
-      "onboard_time": 1682857466,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 480925,
@@ -5651,6 +5659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333028,
+      "num": 287755,
+      "word": "马嘉祺假哭",
+      "onboard_time": 1682852607,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332754,
       "num": 719772,
       "word": "孕妇羊水破裂交警疏堵5分钟送医",
@@ -5953,14 +5969,6 @@
       "onboard_time": 1682571809,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 316788,
-      "num": 287755,
-      "word": "马嘉祺假哭",
-      "onboard_time": 1682852607,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 316429,
@@ -8515,6 +8523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229227,
+      "num": 229227,
+      "word": "洪知秀给未来妻子的话",
+      "onboard_time": 1682860527,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228839,
       "num": 228839,
       "word": "范丞丞戴的耳钉",
@@ -8793,6 +8809,14 @@
       "onboard_time": 1682393669,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 221865,
+      "num": 221865,
+      "word": "偶然看到爸爸的手机后破防了",
+      "onboard_time": 1682856569,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 221216,
@@ -9227,6 +9251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211845,
+      "num": 211845,
+      "word": "丁立人夺国象世界棋王",
+      "onboard_time": 1682861250,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211694,
       "num": 211694,
       "word": "铃铛",
@@ -9409,6 +9441,14 @@
       "onboard_time": 1682393067,
       "rank": 38,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 206676,
+      "num": 206676,
+      "word": "重庆一大桥桥墩发生火灾致1死2伤",
+      "onboard_time": 1682861131,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206661,
@@ -9825,14 +9865,6 @@
       "onboard_time": 1682687673,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200648,
-      "num": 200648,
-      "word": "偶然看到爸爸的手机后破防了",
-      "onboard_time": 1682856569,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 200551,
@@ -11531,6 +11563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174408,
+      "num": 174408,
+      "word": "人生路不熟票房逆跌",
+      "onboard_time": 1682861427,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174387,
       "num": 166844,
       "word": "检察风云岳云鹏反差感",
@@ -11811,6 +11851,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 168517,
+      "num": 168517,
+      "word": "富勒姆vs曼城",
+      "onboard_time": 1682860290,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168408,
       "num": 168408,
       "word": "原来画画可以这么酷",
@@ -11953,6 +12001,14 @@
       "onboard_time": 1682821286,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165488,
+      "num": 165488,
+      "word": "车银优泰国活动含泪唱歌",
+      "onboard_time": 1682860167,
+      "rank": 41,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 165055,
@@ -12411,14 +12467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158025,
-      "num": 158025,
-      "word": "车银优泰国活动含泪唱歌",
-      "onboard_time": 1682860167,
-      "rank": 41,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 157843,
       "num": 157843,
       "word": "Hero拿到赛点",
@@ -12729,14 +12777,6 @@
       "onboard_time": 1682827406,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 152167,
-      "num": 152167,
-      "word": "富勒姆vs曼城",
-      "onboard_time": 1682860290,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 152046,
@@ -13243,6 +13283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144844,
+      "num": 144844,
+      "word": "郑秀妍也穿过娜扎同款裤子",
+      "onboard_time": 1682861489,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144828,
       "num": 144828,
       "word": "内娱哪些演员适合演学霸",
@@ -13497,14 +13545,6 @@
       "onboard_time": 1682679868,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140219,
-      "num": 140219,
-      "word": "洪知秀给未来妻子的话",
-      "onboard_time": 1682860527,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 140209,
@@ -13808,14 +13848,6 @@
       "word": "我们的征途就是星辰大海",
       "onboard_time": 1682305526,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134335,
-      "num": 134335,
-      "word": "女子为亡夫销户痛哭民警为其留户籍页",
-      "onboard_time": 1682860649,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
