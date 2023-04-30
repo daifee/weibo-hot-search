@@ -1,7 +1,15 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682822554293,
+  "endTime": 1682824651529,
   "band_list": [
+    {
+      "raw_hot": 2064706,
+      "num": 2064706,
+      "word": "淄博的公文水平杀疯了",
+      "onboard_time": 1682818888,
+      "rank": 18,
+      "category": "幽默,社会新闻"
+    },
     {
       "raw_hot": 1910171,
       "num": 1713499,
@@ -9,14 +17,6 @@
       "onboard_time": 1682810782,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1869837,
-      "num": 1869837,
-      "word": "淄博的公文水平杀疯了",
-      "onboard_time": 1682818888,
-      "rank": 18,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 1558601,
@@ -67,6 +67,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1081552,
+      "num": 1081552,
+      "word": "粉丝问王源爸爸怎么抢到这么好的位置",
+      "onboard_time": 1682815527,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1051614,
       "num": 1051614,
       "word": "洪崖洞",
@@ -83,28 +91,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 912689,
-      "num": 912689,
-      "word": "惠州奔现后续",
-      "onboard_time": 1682814866,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 936550,
+      "num": 936550,
+      "word": "黄山景区回应游客在厕所过夜",
+      "onboard_time": 1682823148,
+      "rank": 3,
+      "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 890623,
-      "num": 890623,
+      "raw_hot": 928850,
+      "num": 928850,
       "word": "今年的五一疯了吗",
       "onboard_time": 1682737949,
       "rank": 5,
       "category": "情感"
     },
     {
-      "raw_hot": 842486,
-      "num": 842486,
-      "word": "粉丝问王源爸爸怎么抢到这么好的位置",
-      "onboard_time": 1682815527,
-      "rank": 5,
-      "category": "音乐"
+      "raw_hot": 912689,
+      "num": 912689,
+      "word": "惠州奔现后续",
+      "onboard_time": 1682814866,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 824921,
@@ -120,6 +128,14 @@
       "word": "长沙官方通报买4.6斤水果少一斤",
       "onboard_time": 1682787261,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811922,
+      "num": 811922,
+      "word": "萌兰",
+      "onboard_time": 1682822487,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523304,
+      "num": 523304,
+      "word": "2乘客坐飞机万米高空撕扒打架",
+      "onboard_time": 1682822726,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516085,
       "num": 516085,
       "word": "费曼重阳了",
@@ -185,6 +209,14 @@
       "onboard_time": 1682818825,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463954,
+      "num": 463954,
+      "word": "收到爆剧邀请函的待播剧",
+      "onboard_time": 1682823625,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 451421,
@@ -227,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356324,
+      "num": 356324,
+      "word": "张凌赫四年前体重200多斤",
+      "onboard_time": 1682814747,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345541,
       "num": 345541,
       "word": "李庚希演技",
@@ -243,12 +283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 316917,
-      "num": 316917,
-      "word": "张凌赫四年前体重200多斤",
-      "onboard_time": 1682814747,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 315056,
+      "num": 315056,
+      "word": "周也淡妆吊带裙",
+      "onboard_time": 1682820025,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314089,
@@ -267,20 +307,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285058,
+      "num": 175709,
+      "word": "五一档三部电影票房破亿了",
+      "onboard_time": 1682824166,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284462,
       "num": 284462,
       "word": "心疼清清",
       "onboard_time": 1682780071,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 284306,
-      "num": 230250,
-      "word": "周也淡妆吊带裙",
-      "onboard_time": 1682820025,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 278592,
@@ -292,7 +332,7 @@
     },
     {
       "raw_hot": 270513,
-      "num": 216842,
+      "num": 239256,
       "word": "见过睡相最丑的床搭子",
       "onboard_time": 1682821286,
       "rank": 23,
@@ -355,12 +395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 228064,
+      "num": 228064,
+      "word": "为救女儿司机超载交警罚200后又捐200",
+      "onboard_time": 1682820207,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223505,
       "num": 223505,
       "word": "程潇录制受伤",
       "onboard_time": 1682766146,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220731,
+      "num": 220731,
+      "word": "人生路不熟",
+      "onboard_time": 1682823446,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 216419,
@@ -387,12 +443,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 208413,
-      "num": 208413,
-      "word": "为救女儿司机超载交警罚200后又捐200",
-      "onboard_time": 1682820207,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 212135,
+      "num": 212135,
+      "word": "极限挑战之继承者们",
+      "onboard_time": 1682824166,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210779,
+      "num": 210779,
+      "word": "淄博八大局因客流大采取限流措施",
+      "onboard_time": 1682821046,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 201379,
@@ -425,6 +489,14 @@
       "onboard_time": 1682780012,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185010,
+      "num": 185010,
+      "word": "易烊千玺新专辑第二支预告短片",
+      "onboard_time": 1682823746,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 181897,
@@ -507,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160739,
+      "num": 160739,
+      "word": "NBA",
+      "onboard_time": 1682819787,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160022,
       "num": 160022,
       "word": "文旅局长评价淄博烧烤",
@@ -521,14 +601,6 @@
       "onboard_time": 1682782351,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158672,
-      "num": 158672,
-      "word": "NBA",
-      "onboard_time": 1682819787,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 158198,
@@ -563,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153818,
+      "num": 153818,
+      "word": "看完后很想学习",
+      "onboard_time": 1682821286,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153487,
       "num": 153487,
       "word": "大雁塔地铁站进站队伍一眼望不到头",
       "onboard_time": 1682815885,
       "rank": 30,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 150568,
-      "num": 150568,
-      "word": "淄博八大局因客流大采取限流措施",
-      "onboard_time": 1682821046,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 149697,
@@ -593,6 +665,14 @@
       "onboard_time": 1682811322,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 146566,
+      "num": 146566,
+      "word": "女子五一首日出游排队超11小时崩溃",
+      "onboard_time": 1682824166,
+      "rank": 37,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 146205,
@@ -625,6 +705,14 @@
       "onboard_time": 1682807776,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141148,
+      "num": 141148,
+      "word": "华晨宇演唱会老少情头",
+      "onboard_time": 1682823148,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 138127,
@@ -683,14 +771,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 123991,
-      "num": 123991,
-      "word": "看完后很想学习",
-      "onboard_time": 1682821286,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122164,
       "num": 122164,
       "word": "王嘉尔说现在飞温哥华",
@@ -731,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114428,
+      "num": 114428,
+      "word": "太阳篮板",
+      "onboard_time": 1682824527,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113482,
       "num": 113482,
       "word": "比基尼拼接牛仔裤",
@@ -745,6 +833,14 @@
       "onboard_time": 1682795174,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110913,
+      "num": 110913,
+      "word": "五一你去的地方人多不",
+      "onboard_time": 1682823927,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 110279,
@@ -795,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104698,
+      "num": 104698,
+      "word": "人生路不熟票房破亿",
+      "onboard_time": 1682823088,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 103980,
       "num": 103980,
       "word": "养猫人一眼就找到了",
@@ -811,12 +915,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 101622,
-      "num": 101622,
-      "word": "萌兰",
-      "onboard_time": 1682822487,
+      "raw_hot": 102298,
+      "num": 102298,
+      "word": "杜兰特",
+      "onboard_time": 1682824645,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 97557,
