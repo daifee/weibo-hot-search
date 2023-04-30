@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682824651529,
+  "endTime": 1682825629785,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1195,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1279441,
+      "num": 1279441,
+      "word": "粉丝问王源爸爸怎么抢到这么好的位置",
+      "onboard_time": 1682815527,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1278738,
       "num": 946077,
       "word": "淄博鸭货小哥被女游客摸肌肉",
@@ -1475,14 +1483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1081552,
-      "num": 1081552,
-      "word": "粉丝问王源爸爸怎么抢到这么好的位置",
-      "onboard_time": 1682815527,
-      "rank": 5,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1079008,
       "num": 519075,
       "word": "上海一男子商场跳楼砸中女顾客",
@@ -1723,20 +1723,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 943676,
+      "num": 943676,
+      "word": "黄山景区回应游客在厕所过夜",
+      "onboard_time": 1682823148,
+      "rank": 3,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 940633,
       "num": 779215,
       "word": "薛之谦高铁上没被认出来的原因",
       "onboard_time": 1682754865,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 936550,
-      "num": 936550,
-      "word": "黄山景区回应游客在厕所过夜",
-      "onboard_time": 1682823148,
-      "rank": 3,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 932516,
@@ -1841,6 +1841,14 @@
       "onboard_time": 1682328211,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 874938,
+      "num": 874938,
+      "word": "萌兰",
+      "onboard_time": 1682435731,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 874514,
@@ -1985,14 +1993,6 @@
       "onboard_time": 1682693555,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 811922,
-      "num": 811922,
-      "word": "萌兰",
-      "onboard_time": 1682435731,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 804430,
@@ -2171,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729223,
+      "num": 729223,
+      "word": "五一档三部电影票房破亿了",
+      "onboard_time": 1682824166,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 724703,
       "num": 724703,
       "word": "何炅晒与黄磊向往的生活海报",
@@ -2233,6 +2241,14 @@
       "onboard_time": 1682583146,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694583,
+      "num": 694583,
+      "word": "收到爆剧邀请函的待播剧",
+      "onboard_time": 1682823625,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 692387,
@@ -2891,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 538465,
+      "num": 538465,
+      "word": "2乘客坐飞机万米高空撕扒打架",
+      "onboard_time": 1682822726,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537958,
       "num": 537958,
       "word": "西直门长公主",
@@ -2953,14 +2977,6 @@
       "onboard_time": 1682727867,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 523304,
-      "num": 523304,
-      "word": "2乘客坐飞机万米高空撕扒打架",
-      "onboard_time": 1682822726,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 522478,
@@ -3609,14 +3625,6 @@
       "onboard_time": 1682818825,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 463954,
-      "num": 463954,
-      "word": "收到爆剧邀请函的待播剧",
-      "onboard_time": 1682823625,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 463406,
@@ -6259,14 +6267,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 285058,
-      "num": 175709,
-      "word": "五一档三部电影票房破亿了",
-      "onboard_time": 1682824166,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 284939,
       "num": 284939,
       "word": "欢瑞与多位知名作家签约",
@@ -6793,6 +6793,14 @@
       "onboard_time": 1682328809,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 265182,
+      "num": 265182,
+      "word": "极限挑战之继承者们",
+      "onboard_time": 1682824166,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 264302,
@@ -8163,6 +8171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222291,
+      "num": 164468,
+      "word": "掘金18分大胜太阳",
+      "onboard_time": 1682825186,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222230,
       "num": 208356,
       "word": "把球给杜兰特",
@@ -8307,6 +8323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218474,
+      "num": 218474,
+      "word": "杜兰特",
+      "onboard_time": 1682824645,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218309,
       "num": 218309,
       "word": "五一这些景点已约满",
@@ -8401,6 +8425,14 @@
       "onboard_time": 1682821286,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216193,
+      "num": 216193,
+      "word": "淄博八大局因客流大采取限流措施",
+      "onboard_time": 1682821046,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 216062,
@@ -8595,14 +8627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 212135,
-      "num": 212135,
-      "word": "极限挑战之继承者们",
-      "onboard_time": 1682824166,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 211694,
       "num": 211694,
       "word": "铃铛",
@@ -8657,14 +8681,6 @@
       "onboard_time": 1682386886,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210779,
-      "num": 210779,
-      "word": "淄博八大局因客流大采取限流措施",
-      "onboard_time": 1682821046,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 210106,
@@ -9395,6 +9411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 197138,
+      "num": 197138,
+      "word": "女子五一首日出游排队超11小时崩溃",
+      "onboard_time": 1682824166,
+      "rank": 37,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 196849,
       "num": 196849,
       "word": "薛之谦巡演官宣三城空降",
@@ -9585,6 +9609,14 @@
       "onboard_time": 1682313929,
       "rank": 31,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 193897,
+      "num": 193897,
+      "word": "山东不仅有烧烤还有奇葩蔬菜",
+      "onboard_time": 1682824767,
+      "rank": 27,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 193846,
@@ -11107,6 +11139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165497,
+      "num": 165497,
+      "word": "看完后很想学习",
+      "onboard_time": 1682821286,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165055,
       "num": 165055,
       "word": "新能源",
@@ -11723,14 +11763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153818,
-      "num": 153818,
-      "word": "看完后很想学习",
-      "onboard_time": 1682821286,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153544,
       "num": 153544,
       "word": "订五一三亚民宿拒退单遭威胁辱骂",
@@ -12139,14 +12171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 146566,
-      "num": 146566,
-      "word": "女子五一首日出游排队超11小时崩溃",
-      "onboard_time": 1682824166,
-      "rank": 37,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 146487,
       "num": 137397,
       "word": "姐姐们好美",
@@ -12265,6 +12289,14 @@
       "onboard_time": 1682784268,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144856,
+      "num": 144856,
+      "word": "西直门三太子",
+      "onboard_time": 1682825366,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144828,
@@ -12417,6 +12449,14 @@
       "onboard_time": 1682496748,
       "rank": 36,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 142434,
+      "num": 142434,
+      "word": "甘肃一副县长酒驾当场被查",
+      "onboard_time": 1682824886,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142300,
@@ -12697,6 +12737,14 @@
       "onboard_time": 1682486249,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135513,
+      "num": 135513,
+      "word": "最无用的节俭行为是什么",
+      "onboard_time": 1682825426,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 135433,
@@ -13033,6 +13081,14 @@
       "onboard_time": 1682579186,
       "rank": 46,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 126832,
+      "num": 126832,
+      "word": "太阳篮板",
+      "onboard_time": 1682824527,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 126801,
@@ -13451,6 +13507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115691,
+      "num": 115691,
+      "word": "张钧甯悼念孙博",
+      "onboard_time": 1682822187,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115116,
       "num": 115116,
       "word": "这语气在东北真的是劝告",
@@ -13504,14 +13568,6 @@
       "word": "切尔西又输了",
       "onboard_time": 1682550561,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 114428,
-      "num": 114428,
-      "word": "太阳篮板",
-      "onboard_time": 1682824527,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -13665,14 +13721,6 @@
       "onboard_time": 1682325266,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108768,
-      "num": 108768,
-      "word": "张钧甯悼念孙博",
-      "onboard_time": 1682822187,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 108739,
@@ -13960,14 +14008,6 @@
       "word": "快船尽力了 伦纳德没有",
       "onboard_time": 1682522851,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 102298,
-      "num": 102298,
-      "word": "杜兰特",
-      "onboard_time": 1682824645,
-      "rank": 49,
       "category": "体育"
     },
     {
