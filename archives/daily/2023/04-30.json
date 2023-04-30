@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682854414373,
+  "endTime": 1682857833491,
   "band_list": [
     {
       "raw_hot": 2593446,
@@ -67,6 +67,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1408506,
+      "num": 442943,
+      "word": "黄牛 你就说进没进去吧",
+      "onboard_time": 1682850927,
+      "rank": 11,
+      "category": "幽默,作品衍生"
+    },
+    {
       "raw_hot": 1352351,
       "num": 1352351,
       "word": "客栈回应住客床底发现死尸",
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1301987,
+      "num": 1301987,
+      "word": "和豪门大佬网恋后我红了",
+      "onboard_time": 1682855067,
+      "rank": 0,
+      "category": "作品衍生,情感"
+    },
+    {
       "raw_hot": 1292980,
       "num": 120334,
       "word": "纽约裸体晚宴参与者全身赤裸食用素食",
@@ -105,14 +121,6 @@
       "onboard_time": 1682815527,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1253268,
-      "num": 442943,
-      "word": "黄牛 你就说进没进去吧",
-      "onboard_time": 1682850927,
-      "rank": 11,
-      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 1245487,
@@ -467,6 +475,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 410185,
+      "num": 410185,
+      "word": "狗 这病非看不可吗",
+      "onboard_time": 1682853026,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409256,
       "num": 409256,
       "word": "五一假期才第2天已经玩累了",
@@ -651,14 +667,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 291554,
-      "num": 197863,
-      "word": "狗 这病非看不可吗",
-      "onboard_time": 1682853026,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 290143,
       "num": 211170,
       "word": "Hero认养白虎一周年",
@@ -705,6 +713,14 @@
       "onboard_time": 1682776172,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272146,
+      "num": 220538,
+      "word": "烧烤界地位最高的荤菜是哪一种",
+      "onboard_time": 1682853449,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 270513,
@@ -761,6 +777,14 @@
       "onboard_time": 1682840605,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259430,
+      "num": 259430,
+      "word": "四川交警狂吼11次让一下",
+      "onboard_time": 1682856628,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255096,
@@ -1003,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211589,
+      "num": 211589,
+      "word": "张杰武汉演唱会",
+      "onboard_time": 1682857048,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210072,
       "num": 171211,
       "word": "当外国人看到自拍杆",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1682763265,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 205955,
+      "num": 188154,
+      "word": "婚礼前一天被通知不需要伴娘",
+      "onboard_time": 1682857466,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 204045,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1682812164,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199823,
+      "num": 199823,
+      "word": "代号鸢",
+      "onboard_time": 1682853568,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 199409,
@@ -1131,6 +1179,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188242,
+      "num": 188242,
+      "word": "再也不敢不好好刷牙了",
+      "onboard_time": 1682855848,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 187959,
+      "num": 187959,
+      "word": "淄博烧烤",
+      "onboard_time": 1682855488,
+      "rank": 31,
+      "category": "美食,旅游"
+    },
+    {
       "raw_hot": 187135,
       "num": 187135,
       "word": "长月烬明逍遥宗招生啦",
@@ -1211,12 +1275,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 174418,
+      "num": 174418,
+      "word": "月收入四万是什么体验",
+      "onboard_time": 1682857466,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174125,
       "num": 174125,
       "word": "火遍全国各地的组合成员发生车祸",
       "onboard_time": 1682766865,
       "rank": 15,
       "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 174097,
+      "num": 174097,
+      "word": "齐国善用美男计",
+      "onboard_time": 1682856388,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 172890,
@@ -1315,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161026,
+      "num": 161026,
+      "word": "内娱卷系歌手",
+      "onboard_time": 1682853267,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160739,
       "num": 160739,
       "word": "NBA",
@@ -1337,14 +1425,6 @@
       "onboard_time": 1682832507,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159842,
-      "num": 159842,
-      "word": "代号鸢",
-      "onboard_time": 1682853568,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 158852,
@@ -1433,14 +1513,6 @@
       "onboard_time": 1682815885,
       "rank": 30,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 153419,
-      "num": 153419,
-      "word": "烧烤界地位最高的荤菜是哪一种",
-      "onboard_time": 1682853449,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 153061,
@@ -1579,6 +1651,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141728,
+      "num": 141728,
+      "word": "星穹铁道",
+      "onboard_time": 1682855007,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 141525,
+      "num": 141525,
+      "word": "偶然看到爸爸的手机后破防了",
+      "onboard_time": 1682856569,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141148,
       "num": 141148,
       "word": "华晨宇演唱会老少情头",
@@ -1603,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139369,
-      "num": 139369,
-      "word": "内娱卷系歌手",
-      "onboard_time": 1682853267,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 138127,
       "num": 138127,
       "word": "漫长的季节杀疯了",
@@ -1633,6 +1713,14 @@
       "onboard_time": 1682821104,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136454,
+      "num": 263554,
+      "word": "愿此行终抵群星",
+      "onboard_time": 1682856026,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 134848,
