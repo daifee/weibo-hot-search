@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682842770523,
+  "endTime": 1682843611262,
   "band_list": [
     {
       "raw_hot": 2373096,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1005078,
+      "num": 1005078,
+      "word": "周杰伦问已经是第一名的人要怎么变",
+      "onboard_time": 1682842046,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 943676,
       "num": 943676,
       "word": "黄山景区回应游客在厕所过夜",
@@ -225,6 +233,14 @@
       "onboard_time": 1682832507,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 672776,
+      "num": 672776,
+      "word": "重庆火灾",
+      "onboard_time": 1682842407,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617840,
@@ -459,14 +475,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 307211,
-      "num": 307211,
-      "word": "周杰伦问已经是第一名的人要怎么变",
-      "onboard_time": 1682842046,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304684,
       "num": 186686,
       "word": "今朝有酒今朝醉 人生乱套我睡觉",
@@ -691,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222159,
-      "num": 222159,
-      "word": "重庆火灾",
-      "onboard_time": 1682842407,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220731,
       "num": 220731,
       "word": "人生路不熟",
@@ -729,6 +729,14 @@
       "onboard_time": 1682821046,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 216186,
+      "num": 216186,
+      "word": "假期文案",
+      "onboard_time": 1682842587,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 213561,
@@ -1235,14 +1243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 140729,
-      "num": 140729,
-      "word": "假期文案",
-      "onboard_time": 1682842587,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138127,
       "num": 138127,
       "word": "漫长的季节杀疯了",
@@ -1595,6 +1595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 86157,
+      "num": 86157,
+      "word": "丁程鑫你好星期六舞蹈练习室花絮",
+      "onboard_time": 1682843425,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86128,
       "num": 104046,
       "word": "张颜齐坐皮划艇只求保命",
@@ -1675,20 +1683,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63044,
+      "num": 1187378,
+      "word": "卫星视角下的花开中国太美了",
+      "onboard_time": 1682839286,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61838,
       "num": 61838,
       "word": "娄艺潇杨玉环造型",
       "onboard_time": 1682807474,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 60035,
-      "num": 1187378,
-      "word": "卫星视角下的花开中国太美了",
-      "onboard_time": 1682839286,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56349,

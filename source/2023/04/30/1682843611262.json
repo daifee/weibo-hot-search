@@ -1,0 +1,410 @@
+{
+  "runTime": 1682843611262,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2281911,
+        "num": 2281911,
+        "word": "淄博一酒店涨价1.5倍被立案调查",
+        "onboard_time": 1682837245,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1092505,
+        "num": 1092505,
+        "word": "小舅子结婚姐夫拿18.8万随礼",
+        "onboard_time": 1682831006,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63044,
+        "num": 1038640,
+        "word": "卫星视角下的花开中国太美了",
+        "onboard_time": 1682839286,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005078,
+        "num": 1005078,
+        "word": "周杰伦问已经是第一名的人要怎么变",
+        "onboard_time": 1682842046,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672776,
+        "num": 672776,
+        "word": "重庆火灾",
+        "onboard_time": 1682842407,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615503,
+        "num": 615503,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1682779171,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 605067,
+        "num": 605067,
+        "word": "西直门三太子",
+        "onboard_time": 1682825366,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594930,
+        "num": 594930,
+        "word": "淄博的公文水平杀疯了",
+        "onboard_time": 1682818888,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455584,
+        "num": 455584,
+        "word": "五一档三部电影票房破亿了",
+        "onboard_time": 1682824166,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 454865,
+        "num": 454865,
+        "word": "淄博烧烤最大的受害者",
+        "onboard_time": 1682836826,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422582,
+        "num": 422582,
+        "word": "瞒着爸妈消费最高的一次",
+        "onboard_time": 1682835927,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327932,
+        "num": 327932,
+        "word": "王源演唱会提词器 朋友圈背景图",
+        "onboard_time": 1682819306,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 321369,
+        "num": 321369,
+        "word": "五一假期才第2天已经玩累了",
+        "onboard_time": 1682834006,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292058,
+        "num": 292058,
+        "word": "澹台烬AI换脸润玉",
+        "onboard_time": 1682833285,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 291001,
+        "num": 291001,
+        "word": "哪里人少",
+        "onboard_time": 1682839226,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 286013,
+        "num": 286013,
+        "word": "黄山景区回应游客在厕所过夜",
+        "onboard_time": 1682823148,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 267758,
+        "num": 267758,
+        "word": "泫雅接了黑色长发",
+        "onboard_time": 1682825968,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238008,
+        "num": 238008,
+        "word": "黄景瑜辟谣出演狂飙2",
+        "onboard_time": 1682840605,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233370,
+        "num": 233370,
+        "word": "男子火车站拎1袋馒头沾方便面吃",
+        "onboard_time": 1682838448,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222762,
+        "num": 222762,
+        "word": "虞书欣张智霖袁咏仪合照",
+        "onboard_time": 1682836766,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223567,
+        "num": 222711,
+        "word": "严浩翔成功失去所有人的信任",
+        "onboard_time": 1682841085,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219271,
+        "num": 219271,
+        "word": "海底捞一门店睡满人导致无法用餐",
+        "onboard_time": 1682765909,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216186,
+        "num": 216186,
+        "word": "假期文案",
+        "onboard_time": 1682842587,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214431,
+        "num": 214431,
+        "word": "千万不要为了省钱花更多的钱",
+        "onboard_time": 1682832507,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207875,
+        "num": 207875,
+        "word": "女明星花花",
+        "onboard_time": 1682829687,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207182,
+        "num": 207182,
+        "word": "淄博绿豆糕大爷",
+        "onboard_time": 1682835387,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201034,
+        "num": 201034,
+        "word": "相亲相出了面试的感觉",
+        "onboard_time": 1682838805,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1498654,
+        "num": 200769,
+        "word": "卡琳娜",
+        "onboard_time": 1682835205,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179015,
+        "num": 179015,
+        "word": "芒果这辈子都没想到能当文豪",
+        "onboard_time": 1682836286,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173211,
+        "num": 173211,
+        "word": "高三女生替初二妹妹开家长会",
+        "onboard_time": 1682834906,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165965,
+        "num": 165965,
+        "word": "蔡文静坐行李箱滑行翻车",
+        "onboard_time": 1682831786,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155175,
+        "num": 155175,
+        "word": "用一片海带做出鱼子酱",
+        "onboard_time": 1682840725,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151067,
+        "num": 151067,
+        "word": "洪崖洞",
+        "onboard_time": 1682777729,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137711,
+        "num": 137711,
+        "word": "长沙官方通报买4.6斤水果少一斤",
+        "onboard_time": 1682787261,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130291,
+        "num": 130291,
+        "word": "肖战如梦之梦西安站的花墙",
+        "onboard_time": 1682827885,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128869,
+        "num": 128869,
+        "word": "徐佳莹 不会再生孩子了",
+        "onboard_time": 1682782829,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127388,
+        "num": 127388,
+        "word": "2乘客坐飞机万米高空撕扒打架",
+        "onboard_time": 1682822726,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123529,
+        "num": 123529,
+        "word": "华晨宇成都演唱会人气",
+        "onboard_time": 1682838086,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121509,
+        "num": 121509,
+        "word": "长空之王",
+        "onboard_time": 1682837245,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121380,
+        "num": 121380,
+        "word": "内娱四大周正系帅哥",
+        "onboard_time": 1682829625,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118419,
+        "num": 118419,
+        "word": "漫长的季节碎尸案反转",
+        "onboard_time": 1682810602,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 115246,
+        "num": 115246,
+        "word": "当代人穿汉服主打一个随性",
+        "onboard_time": 1682830408,
+        "rank": 41,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 106428,
+        "num": 106428,
+        "word": "原来澹台烬的情丝是袁帅给的",
+        "onboard_time": 1682837485,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 104732,
+        "num": 104732,
+        "word": "原神",
+        "onboard_time": 1682830765,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103654,
+        "num": 103654,
+        "word": "刘雅瑟刘晓庆双影后合作",
+        "onboard_time": 1682841266,
+        "rank": 44,
+        "category": "艺人,影视"
+      },
+      {
+        "raw_hot": 96238,
+        "num": 96238,
+        "word": "陈意涵粉色星河礼服",
+        "onboard_time": 1682842286,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 94897,
+        "num": 94897,
+        "word": "沈月看了SEVENTEEN的团综",
+        "onboard_time": 1682832145,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92880,
+        "num": 92880,
+        "word": "田曦薇与路人合照",
+        "onboard_time": 1682832866,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91025,
+        "num": 91025,
+        "word": "刘耀文染新发色",
+        "onboard_time": 1682831307,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86157,
+        "num": 86157,
+        "word": "丁程鑫你好星期六舞蹈练习室花絮",
+        "onboard_time": 1682843425,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国生机勃勃#"
+    }
+  }
+}
