@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682858764129,
+  "endTime": 1682860687836,
   "band_list": [
     {
       "raw_hot": 2593446,
@@ -67,20 +67,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1501253,
+      "num": 479097,
+      "word": "黄牛 你就说进没进去吧",
+      "onboard_time": 1682850927,
+      "rank": 11,
+      "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 1464546,
+      "num": 1464546,
+      "word": "婚礼前一天被通知不需要伴娘",
+      "onboard_time": 1682857466,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1424783,
       "num": 1424783,
       "word": "和豪门大佬网恋后我红了",
       "onboard_time": 1682855067,
       "rank": 0,
       "category": "作品衍生,情感"
-    },
-    {
-      "raw_hot": 1408506,
-      "num": 442943,
-      "word": "黄牛 你就说进没进去吧",
-      "onboard_time": 1682850927,
-      "rank": 11,
-      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 1352351,
@@ -291,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 711546,
+      "num": 711546,
+      "word": "王一博 飞驰人生2",
+      "onboard_time": 1682859690,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 689920,
       "num": 689920,
       "word": "千万不要为了省钱花更多的钱",
@@ -327,14 +343,6 @@
       "num": 588441,
       "word": "瞒着爸妈消费最高的一次",
       "onboard_time": 1682835927,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 577033,
-      "num": 193935,
-      "word": "婚礼前一天被通知不需要伴娘",
-      "onboard_time": 1682857466,
       "rank": 30,
       "category": "幽默"
     },
@@ -411,6 +419,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490144,
+      "num": 431260,
+      "word": "三人合吃一份自助餐遭服务员劝阻",
+      "onboard_time": 1682857890,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 483403,
+      "num": 483403,
+      "word": "四川交警狂吼11次让一下",
+      "onboard_time": 1682856628,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481484,
+      "num": 249037,
+      "word": "月收入四万是什么体验",
+      "onboard_time": 1682857466,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 468911,
       "num": 468911,
       "word": "聊天时最反感别人回复什么",
@@ -440,14 +472,6 @@
       "word": "丫丫暂住的上海动物园人气旺",
       "onboard_time": 1682851169,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456613,
-      "num": 456613,
-      "word": "四川交警狂吼11次让一下",
-      "onboard_time": 1682856628,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -531,14 +555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 394143,
-      "num": 249037,
-      "word": "月收入四万是什么体验",
-      "onboard_time": 1682857466,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 385919,
       "num": 385919,
       "word": "当代人穿汉服主打一个随性",
@@ -617,6 +633,14 @@
       "onboard_time": 1682783909,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316788,
+      "num": 287755,
+      "word": "马嘉祺假哭",
+      "onboard_time": 1682852607,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 315056,
@@ -705,14 +729,6 @@
       "onboard_time": 1682853510,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 287755,
-      "num": 287755,
-      "word": "马嘉祺假哭",
-      "onboard_time": 1682852607,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 284462,
@@ -825,6 +841,14 @@
       "onboard_time": 1682836766,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251928,
+      "num": 251928,
+      "word": "淄博烧烤",
+      "onboard_time": 1682855488,
+      "rank": 31,
+      "category": "美食,旅游"
     },
     {
       "raw_hot": 249091,
@@ -963,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222466,
+      "num": 222466,
+      "word": "极限挑战",
+      "onboard_time": 1682859990,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222291,
       "num": 164468,
       "word": "掘金18分大胜太阳",
@@ -1067,6 +1099,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 207240,
+      "num": 207240,
+      "word": "狼队姬小满真牛",
+      "onboard_time": 1682858850,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206026,
       "num": 206026,
       "word": "代号鸢",
@@ -1107,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200648,
+      "num": 200648,
+      "word": "偶然看到爸爸的手机后破防了",
+      "onboard_time": 1682856569,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199409,
       "num": 199409,
       "word": "无畏溧水旅游推广大使",
@@ -1129,14 +1177,6 @@
       "onboard_time": 1682824166,
       "rank": 37,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 194112,
-      "num": 194112,
-      "word": "淄博烧烤",
-      "onboard_time": 1682855488,
-      "rank": 31,
-      "category": "美食,旅游"
     },
     {
       "raw_hot": 193897,
@@ -1211,6 +1251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187183,
+      "num": 187183,
+      "word": "龚彪下线",
+      "onboard_time": 1682858790,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 187135,
       "num": 187135,
       "word": "长月烬明逍遥宗招生啦",
@@ -1275,14 +1323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178635,
-      "num": 178635,
-      "word": "三人合吃一份自助餐遭服务员劝阻",
-      "onboard_time": 1682857890,
-      "rank": 33,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 178162,
       "num": 178162,
       "word": "宋亚东vs西蒙",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1682820567,
       "rank": 30,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 176036,
-      "num": 176036,
-      "word": "偶然看到爸爸的手机后破防了",
-      "onboard_time": 1682856569,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 174125,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1682774915,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169966,
+      "num": 169966,
+      "word": "2023年8.5分以上的国产剧",
+      "onboard_time": 1682858369,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 168408,
@@ -1475,6 +1515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158025,
+      "num": 158025,
+      "word": "车银优泰国活动含泪唱歌",
+      "onboard_time": 1682860167,
+      "rank": 41,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 157758,
       "num": 157758,
       "word": "淘宝发布20套年度服饰",
@@ -1561,6 +1609,14 @@
       "onboard_time": 1682827406,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152167,
+      "num": 152167,
+      "word": "富勒姆vs曼城",
+      "onboard_time": 1682860290,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 150418,
@@ -1699,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140219,
+      "num": 140219,
+      "word": "洪知秀给未来妻子的话",
+      "onboard_time": 1682860527,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139489,
       "num": 139489,
       "word": "COA6全球总决赛",
@@ -1747,6 +1811,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 134335,
+      "num": 134335,
+      "word": "女子为亡夫销户痛哭民警为其留户籍页",
+      "onboard_time": 1682860649,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134021,
       "num": 134021,
       "word": "张凌赫陈哲远互喊必爆",
@@ -1761,6 +1833,14 @@
       "onboard_time": 1682854048,
       "rank": 42,
       "category": "影视"
+    },
+    {
+      "raw_hot": 133586,
+      "num": 133586,
+      "word": "灌篮高手真正结局",
+      "onboard_time": 1682860108,
+      "rank": 48,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 132724,

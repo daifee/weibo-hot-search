@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682858764129,
+  "endTime": 1682860687836,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1011,6 +1011,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 1501253,
+      "num": 479097,
+      "word": "黄牛 你就说进没进去吧",
+      "onboard_time": 1682850927,
+      "rank": 11,
+      "category": "幽默,作品衍生"
+    },
+    {
       "raw_hot": 1496546,
       "num": 1496546,
       "word": "杨颖瘦的原因",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1682466804,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1464546,
+      "num": 1464546,
+      "word": "婚礼前一天被通知不需要伴娘",
+      "onboard_time": 1682857466,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1458676,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1682649866,
       "rank": 12,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 1408506,
-      "num": 442943,
-      "word": "黄牛 你就说进没进去吧",
-      "onboard_time": 1682850927,
-      "rank": 11,
-      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 1401525,
@@ -2363,6 +2371,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 711546,
+      "num": 711546,
+      "word": "王一博 飞驰人生2",
+      "onboard_time": 1682859690,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 704969,
       "num": 704969,
       "word": "中介贿赂张靓颖经纪人中标被罚210万",
@@ -2865,14 +2881,6 @@
       "onboard_time": 1682341770,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 577033,
-      "num": 193935,
-      "word": "婚礼前一天被通知不需要伴娘",
-      "onboard_time": 1682857466,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 574070,
@@ -3499,6 +3507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490144,
+      "num": 431260,
+      "word": "三人合吃一份自助餐遭服务员劝阻",
+      "onboard_time": 1682857890,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 488942,
       "num": 488942,
       "word": "淄博大姨摊着摊着煎饼累睡着了",
@@ -3571,12 +3587,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483403,
+      "num": 483403,
+      "word": "四川交警狂吼11次让一下",
+      "onboard_time": 1682856628,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482520,
       "num": 482520,
       "word": "赖赖 有人盗了我的脸",
       "onboard_time": 1682499928,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 481484,
+      "num": 249037,
+      "word": "月收入四万是什么体验",
+      "onboard_time": 1682857466,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 480925,
@@ -3936,14 +3968,6 @@
       "word": "丫丫暂住的上海动物园人气旺",
       "onboard_time": 1682851169,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456613,
-      "num": 456613,
-      "word": "四川交警狂吼11次让一下",
-      "onboard_time": 1682856628,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -4761,14 +4785,6 @@
       "onboard_time": 1682476465,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394143,
-      "num": 249037,
-      "word": "月收入四万是什么体验",
-      "onboard_time": 1682857466,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 393636,
@@ -5939,6 +5955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 316788,
+      "num": 287755,
+      "word": "马嘉祺假哭",
+      "onboard_time": 1682852607,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316429,
       "num": 316429,
       "word": "百想艺术大赏",
@@ -6633,14 +6657,6 @@
       "onboard_time": 1682584469,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 287755,
-      "num": 287755,
-      "word": "马嘉祺假哭",
-      "onboard_time": 1682852607,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 287701,
@@ -7731,6 +7747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 251928,
+      "num": 251928,
+      "word": "淄博烧烤",
+      "onboard_time": 1682495126,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251879,
       "num": 1782753,
       "word": "今天我们为何还要读书",
@@ -8691,6 +8715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222466,
+      "num": 222466,
+      "word": "极限挑战",
+      "onboard_time": 1682859990,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222387,
       "num": 222387,
       "word": "丫丫到家的第一句祝福",
@@ -9355,6 +9387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207240,
+      "num": 207240,
+      "word": "狼队姬小满真牛",
+      "onboard_time": 1682858850,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207039,
       "num": 207039,
       "word": "GUCCI内场",
@@ -9787,6 +9827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200648,
+      "num": 200648,
+      "word": "偶然看到爸爸的手机后破防了",
+      "onboard_time": 1682856569,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200551,
       "num": 200551,
       "word": "女子违停发现被交警老公贴罚单",
@@ -10193,14 +10241,6 @@
       "onboard_time": 1682471189,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194112,
-      "num": 194112,
-      "word": "淄博烧烤",
-      "onboard_time": 1682495126,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194084,
@@ -10696,6 +10736,14 @@
       "word": "人生路不熟终极预告",
       "onboard_time": 1682302766,
       "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 187183,
+      "num": 187183,
+      "word": "龚彪下线",
+      "onboard_time": 1682858790,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -11251,14 +11299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178635,
-      "num": 178635,
-      "word": "三人合吃一份自助餐遭服务员劝阻",
-      "onboard_time": 1682857890,
-      "rank": 33,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 178601,
       "num": 178601,
       "word": "澹台烬终于有家了",
@@ -11417,14 +11457,6 @@
       "onboard_time": 1682739026,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176036,
-      "num": 176036,
-      "word": "偶然看到爸爸的手机后破防了",
-      "onboard_time": 1682856569,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 175996,
@@ -11737,6 +11769,14 @@
       "onboard_time": 1682503228,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169966,
+      "num": 169966,
+      "word": "2023年8.5分以上的国产剧",
+      "onboard_time": 1682858369,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 169869,
@@ -12371,6 +12411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158025,
+      "num": 158025,
+      "word": "车银优泰国活动含泪唱歌",
+      "onboard_time": 1682860167,
+      "rank": 41,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 157843,
       "num": 157843,
       "word": "Hero拿到赛点",
@@ -12681,6 +12729,14 @@
       "onboard_time": 1682827406,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 152167,
+      "num": 152167,
+      "word": "富勒姆vs曼城",
+      "onboard_time": 1682860290,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 152046,
@@ -13443,6 +13499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140219,
+      "num": 140219,
+      "word": "洪知秀给未来妻子的话",
+      "onboard_time": 1682860527,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140209,
       "num": 140209,
       "word": "孙珍妮为翩然请假",
@@ -13747,6 +13811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134335,
+      "num": 134335,
+      "word": "女子为亡夫销户痛哭民警为其留户籍页",
+      "onboard_time": 1682860649,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134186,
       "num": 134186,
       "word": "儿子因病离世父亲看着孙子满眼是爱",
@@ -13777,6 +13849,14 @@
       "onboard_time": 1682268560,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 133586,
+      "num": 133586,
+      "word": "灌篮高手真正结局",
+      "onboard_time": 1682860108,
+      "rank": 48,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 133512,

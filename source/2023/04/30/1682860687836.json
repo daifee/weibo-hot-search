@@ -1,0 +1,410 @@
+{
+  "runTime": 1682860687836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1464546,
+        "num": 1464546,
+        "word": "婚礼前一天被通知不需要伴娘",
+        "onboard_time": 1682857466,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1300086,
+        "num": 1300086,
+        "word": "和豪门大佬网恋后我红了",
+        "onboard_time": 1682855067,
+        "rank": 1,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 32700,
+        "num": 966443,
+        "word": "卫星视角下的花开中国太美了",
+        "onboard_time": 1682839286,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711546,
+        "num": 711546,
+        "word": "王一博 飞驰人生2",
+        "onboard_time": 1682859690,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 663903,
+        "num": 663903,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1682779171,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 621878,
+        "num": 621878,
+        "word": "王鹤棣杨超越 狐妖小红娘王权篇",
+        "onboard_time": 1682846126,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553795,
+        "num": 553795,
+        "word": "周杰伦问已经是第一名的人要怎么变",
+        "onboard_time": 1682842046,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501338,
+        "num": 501338,
+        "word": "西直门三太子",
+        "onboard_time": 1682825366,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496373,
+        "num": 496373,
+        "word": "淄博的公文水平杀疯了",
+        "onboard_time": 1682818888,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483403,
+        "num": 483403,
+        "word": "四川交警狂吼11次让一下",
+        "onboard_time": 1682856628,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501253,
+        "num": 479097,
+        "word": "黄牛 你就说进没进去吧",
+        "onboard_time": 1682850927,
+        "rank": 10,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 605453,
+        "num": 463353,
+        "word": "伊能静回应和秦昊不互动",
+        "onboard_time": 1682844748,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 490144,
+        "num": 431260,
+        "word": "三人合吃一份自助餐遭服务员劝阻",
+        "onboard_time": 1682857890,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 389007,
+        "num": 389007,
+        "word": "Jennie朴彩英确认出席Metgala",
+        "onboard_time": 1682844087,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 324064,
+        "num": 324064,
+        "word": "丫丫暂住的上海动物园人气旺",
+        "onboard_time": 1682851169,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279838,
+        "num": 279838,
+        "word": "淄博一酒店涨价1.5倍被立案调查",
+        "onboard_time": 1682837245,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 258573,
+        "num": 258573,
+        "word": "狗 这病非看不可吗",
+        "onboard_time": 1682853026,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251928,
+        "num": 251928,
+        "word": "淄博烧烤",
+        "onboard_time": 1682855488,
+        "rank": 17,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 232360,
+        "num": 232360,
+        "word": "聊天时最反感别人回复什么",
+        "onboard_time": 1682845347,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222466,
+        "num": 222466,
+        "word": "极限挑战",
+        "onboard_time": 1682859990,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 729789,
+        "num": 220201,
+        "word": "淄博一快递员因限流不让进下跪大哭",
+        "onboard_time": 1682850807,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481484,
+        "num": 214289,
+        "word": "月收入四万是什么体验",
+        "onboard_time": 1682857466,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413425,
+        "num": 212297,
+        "word": "两位揭发史航性骚扰女孩发声",
+        "onboard_time": 1682844926,
+        "rank": 22,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 207240,
+        "num": 207240,
+        "word": "狼队姬小满真牛",
+        "onboard_time": 1682858850,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316788,
+        "num": 206167,
+        "word": "马嘉祺假哭",
+        "onboard_time": 1682852607,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259135,
+        "num": 205699,
+        "word": "澹台烬黎苏苏终于相见",
+        "onboard_time": 1682851767,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204997,
+        "num": 204997,
+        "word": "张杰武汉演唱会",
+        "onboard_time": 1682857048,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200648,
+        "num": 200648,
+        "word": "偶然看到爸爸的手机后破防了",
+        "onboard_time": 1682856569,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195960,
+        "num": 195960,
+        "word": "齐国善用美男计",
+        "onboard_time": 1682856388,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 187183,
+        "num": 187183,
+        "word": "龚彪下线",
+        "onboard_time": 1682858790,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 184371,
+        "num": 184371,
+        "word": "烧烤界地位最高的荤菜是哪一种",
+        "onboard_time": 1682853449,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181074,
+        "num": 181074,
+        "word": "小舅子结婚姐夫拿18.8万随礼",
+        "onboard_time": 1682831006,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178802,
+        "num": 178802,
+        "word": "长月烬明",
+        "onboard_time": 1682849906,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 178019,
+        "num": 178019,
+        "word": "汤唯被骗经历被写进韩剧",
+        "onboard_time": 1682844388,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 172723,
+        "num": 172723,
+        "word": "谁给张婧仪安排的皮裤",
+        "onboard_time": 1682849127,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170068,
+        "num": 170068,
+        "word": "李现宋祖儿或将合作昏嫁",
+        "onboard_time": 1682853510,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 169966,
+        "num": 169966,
+        "word": "2023年8.5分以上的国产剧",
+        "onboard_time": 1682858369,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166533,
+        "num": 166533,
+        "word": "吴青峰 咪豆",
+        "onboard_time": 1682852246,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165913,
+        "num": 165913,
+        "word": "五一档三部电影票房破亿了",
+        "onboard_time": 1682824166,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 162302,
+        "num": 162302,
+        "word": "再也不敢不好好刷牙了",
+        "onboard_time": 1682855848,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160128,
+        "num": 160128,
+        "word": "杨洋军艺同学会跳了当代舞",
+        "onboard_time": 1682845406,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158025,
+        "num": 158025,
+        "word": "车银优泰国活动含泪唱歌",
+        "onboard_time": 1682860167,
+        "rank": 41,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 152167,
+        "num": 152167,
+        "word": "富勒姆vs曼城",
+        "onboard_time": 1682860290,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151688,
+        "num": 151688,
+        "word": "五一假期才第2天已经玩累了",
+        "onboard_time": 1682834006,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141337,
+        "num": 141337,
+        "word": "七仔",
+        "onboard_time": 1682848168,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140997,
+        "num": 140997,
+        "word": "MBTI新题 你人格变了吗",
+        "onboard_time": 1682844327,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140219,
+        "num": 140219,
+        "word": "洪知秀给未来妻子的话",
+        "onboard_time": 1682860527,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134335,
+        "num": 134335,
+        "word": "女子为亡夫销户痛哭民警为其留户籍页",
+        "onboard_time": 1682860649,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133586,
+        "num": 133586,
+        "word": "灌篮高手真正结局",
+        "onboard_time": 1682860108,
+        "rank": 48,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 132262,
+        "num": 132262,
+        "word": "代号鸢",
+        "onboard_time": 1682853568,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国劳动群众致以节日祝贺#"
+    }
+  }
+}
