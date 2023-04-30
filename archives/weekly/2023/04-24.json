@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682867791718,
+  "endTime": 1682868814667,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1659,6 +1659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1037821,
+      "num": 1037821,
+      "word": "警方不建议前往大唐不夜城",
+      "onboard_time": 1682865150,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1031768,
       "num": 1031768,
       "word": "沈腾说马丽和乔杉搭感觉没有那么顺",
@@ -1801,14 +1809,6 @@
       "onboard_time": 1682672910,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 974217,
-      "num": 974217,
-      "word": "警方不建议前往大唐不夜城",
-      "onboard_time": 1682865150,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 973128,
@@ -2291,6 +2291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 757444,
+      "num": 558153,
+      "word": "吴建豪在郑秀妍面前提少女时代成员",
+      "onboard_time": 1682866892,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 753524,
       "num": 753524,
       "word": "Rookie",
@@ -2411,6 +2419,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 705443,
+      "num": 705443,
+      "word": "史航",
+      "onboard_time": 1682862627,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 704969,
       "num": 704969,
       "word": "中介贿赂张靓颖经纪人中标被罚210万",
@@ -2425,14 +2441,6 @@
       "onboard_time": 1682583146,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 697803,
-      "num": 697803,
-      "word": "史航",
-      "onboard_time": 1682862627,
-      "rank": 4,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 697592,
@@ -2465,14 +2473,6 @@
       "onboard_time": 1682832507,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 689181,
-      "num": 558153,
-      "word": "吴建豪在郑秀妍面前提少女时代成员",
-      "onboard_time": 1682866892,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 677518,
@@ -4315,6 +4315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 432095,
+      "num": 432095,
+      "word": "广州圣心大教堂石碑碎了",
+      "onboard_time": 1682865334,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432013,
       "num": 432013,
       "word": "淄博女领导的决策",
@@ -5075,14 +5083,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 379518,
-      "num": 379518,
-      "word": "广州圣心大教堂石碑碎了",
-      "onboard_time": 1682865334,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379456,
       "num": 348634,
       "word": "北京冰雹",
@@ -5755,6 +5755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332559,
+      "num": 332559,
+      "word": "骆玉明 女生不要上文学的当",
+      "onboard_time": 1682863593,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 332543,
       "num": 277060,
       "word": "徐明浩眼神",
@@ -6057,14 +6065,6 @@
       "onboard_time": 1682571809,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 316436,
-      "num": 316436,
-      "word": "骆玉明 女生不要上文学的当",
-      "onboard_time": 1682863593,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 316429,
@@ -6737,6 +6737,14 @@
       "onboard_time": 1682753847,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288386,
+      "num": 250769,
+      "word": "女子拍照时被小孩掀裙子摸大腿",
+      "onboard_time": 1682866711,
+      "rank": 31,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 288320,
@@ -7851,6 +7859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253582,
+      "num": 250650,
+      "word": "31岁给自己报了个小饭桌",
+      "onboard_time": 1682866593,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253082,
       "num": 253082,
       "word": "女性如何更好的享受两性关系",
@@ -8577,14 +8593,6 @@
       "onboard_time": 1682757264,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233507,
-      "num": 233507,
-      "word": "女子拍照时被小孩掀裙子摸大腿",
-      "onboard_time": 1682866711,
-      "rank": 31,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 233463,
@@ -9561,14 +9569,6 @@
       "onboard_time": 1682563645,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 208413,
-      "num": 208413,
-      "word": "31岁给自己报了个小饭桌",
-      "onboard_time": 1682866593,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 208279,
@@ -11096,6 +11096,14 @@
       "word": "广东东莞大益",
       "onboard_time": 1682265510,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185019,
+      "num": 185019,
+      "word": "看拜仁踢球 坐牢",
+      "onboard_time": 1682868571,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -12955,6 +12963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152892,
+      "num": 152892,
+      "word": "曼联1比0阿斯顿维拉",
+      "onboard_time": 1682868327,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152347,
       "num": 152347,
       "word": "破事精英",
@@ -13041,6 +13057,14 @@
       "onboard_time": 1682510125,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151131,
+      "num": 151131,
+      "word": "长沙YOLO",
+      "onboard_time": 1682867910,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 151125,
@@ -13249,6 +13273,14 @@
       "onboard_time": 1682425586,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147631,
+      "num": 147631,
+      "word": "影视剧男主人设天花板",
+      "onboard_time": 1682867369,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 147626,
@@ -13897,14 +13929,6 @@
       "onboard_time": 1682424024,
       "rank": 38,
       "category": "科技"
-    },
-    {
-      "raw_hot": 137520,
-      "num": 137520,
-      "word": "影视剧男主人设天花板",
-      "onboard_time": 1682867369,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 137255,
@@ -14969,6 +14993,14 @@
       "onboard_time": 1682328510,
       "rank": 45,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 113464,
+      "num": 113464,
+      "word": "龙城",
+      "onboard_time": 1682868751,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 113284,
