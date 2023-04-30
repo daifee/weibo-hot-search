@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682861602338,
+  "endTime": 1682864064208,
   "band_list": [
     {
       "raw_hot": 2593446,
@@ -17,6 +17,14 @@
       "onboard_time": 1682837245,
       "rank": 10,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2145177,
+      "num": 2145177,
+      "word": "婚礼前一天被通知不需要伴娘",
+      "onboard_time": 1682857466,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 2064706,
@@ -41,14 +49,6 @@
       "onboard_time": 1682825366,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1769425,
-      "num": 1769425,
-      "word": "婚礼前一天被通知不需要伴娘",
-      "onboard_time": 1682857466,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1633448,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1501253,
-      "num": 503350,
+      "num": 584247,
       "word": "黄牛 你就说进没进去吧",
       "onboard_time": 1682850927,
       "rank": 11,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 960498,
+      "num": 960498,
+      "word": "女子为亡夫销户痛哭民警为其留户籍页",
+      "onboard_time": 1682860649,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 943676,
       "num": 943676,
       "word": "黄山景区回应游客在厕所过夜",
@@ -307,12 +315,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 697803,
+      "num": 697803,
+      "word": "史航",
+      "onboard_time": 1682862627,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 689920,
       "num": 689920,
       "word": "千万不要为了省钱花更多的钱",
       "onboard_time": 1682832507,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 620807,
+      "num": 620807,
+      "word": "张碧晨 车尾号920",
+      "onboard_time": 1682863409,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 617840,
@@ -353,6 +377,14 @@
       "onboard_time": 1682835927,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 583453,
+      "num": 583453,
+      "word": "丫丫暂住的上海动物园人气旺",
+      "onboard_time": 1682851169,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 569206,
@@ -419,12 +451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 509742,
-      "num": 509742,
-      "word": "女子为亡夫销户痛哭民警为其留户籍页",
-      "onboard_time": 1682860649,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 509312,
+      "num": 509312,
+      "word": "成毅没有房车的原因",
+      "onboard_time": 1682862689,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 500008,
@@ -436,7 +468,7 @@
     },
     {
       "raw_hot": 494984,
-      "num": 249037,
+      "num": 294904,
       "word": "月收入四万是什么体验",
       "onboard_time": 1682857466,
       "rank": 34,
@@ -473,14 +505,6 @@
       "onboard_time": 1682843488,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 456639,
-      "num": 456639,
-      "word": "丫丫暂住的上海动物园人气旺",
-      "onboard_time": 1682851169,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451421,
@@ -627,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335826,
+      "num": 335826,
+      "word": "洪知秀给未来妻子的话",
+      "onboard_time": 1682860527,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333028,
       "num": 287755,
       "word": "马嘉祺假哭",
@@ -699,6 +731,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 302913,
+      "num": 302913,
+      "word": "漫长的季节 王阳怎么死的",
+      "onboard_time": 1682862509,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 301905,
       "num": 301905,
       "word": "床搭子",
@@ -731,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 293848,
+      "num": 293848,
+      "word": "王源爸妈不在的演唱会状态",
+      "onboard_time": 1682863709,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290143,
       "num": 211170,
       "word": "Hero认养白虎一周年",
@@ -755,6 +803,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282691,
+      "num": 282691,
+      "word": "重庆一大桥桥墩发生火灾致1死2伤",
+      "onboard_time": 1682861131,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282358,
+      "num": 283983,
+      "word": "gw赢了zeta",
+      "onboard_time": 1682862450,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281769,
       "num": 281769,
       "word": "谁给张婧仪安排的皮裤",
@@ -769,6 +833,14 @@
       "onboard_time": 1682776172,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277059,
+      "num": 277059,
+      "word": "郑秀妍也穿过娜扎同款裤子",
+      "onboard_time": 1682861489,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272146,
@@ -851,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254195,
+      "num": 254195,
+      "word": "周震南音乐节",
+      "onboard_time": 1682863171,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 253854,
       "num": 249495,
       "word": "虞书欣张智霖袁咏仪合照",
@@ -923,6 +1003,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 239523,
+      "num": 239523,
+      "word": "CBA裁判",
+      "onboard_time": 1682863651,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236459,
       "num": 236459,
       "word": "进景区上厕所要花55元买门票",
@@ -961,14 +1049,6 @@
       "onboard_time": 1682778452,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229227,
-      "num": 229227,
-      "word": "洪知秀给未来妻子的话",
-      "onboard_time": 1682860527,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 228064,
@@ -1147,14 +1227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206676,
-      "num": 206676,
-      "word": "重庆一大桥桥墩发生火灾致1死2伤",
-      "onboard_time": 1682861131,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206026,
       "num": 206026,
       "word": "代号鸢",
@@ -1177,6 +1249,22 @@
       "onboard_time": 1682829446,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203327,
+      "num": 203327,
+      "word": "LGD急什么",
+      "onboard_time": 1682863890,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 202569,
+      "num": 202569,
+      "word": "淄博八大局登顶全国景区热门第1",
+      "onboard_time": 1682860410,
+      "rank": 34,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 202042,
@@ -1377,6 +1465,14 @@
       "onboard_time": 1682820567,
       "rank": 30,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 175454,
+      "num": 175454,
+      "word": "IVE音乐节雨中舞台",
+      "onboard_time": 1682861850,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 174408,
@@ -1667,6 +1763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150938,
+      "num": 150938,
+      "word": "何洛洛音乐节",
+      "onboard_time": 1682861910,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150418,
       "num": 150418,
       "word": "女子吐槽导航堵紫了",
@@ -1745,14 +1849,6 @@
       "onboard_time": 1682784268,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144844,
-      "num": 144844,
-      "word": "郑秀妍也穿过娜扎同款裤子",
-      "onboard_time": 1682861489,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144604,
@@ -1985,6 +2081,14 @@
       "onboard_time": 1682817987,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120585,
+      "num": 120585,
+      "word": "CBA季后赛",
+      "onboard_time": 1682864011,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 120549,
@@ -2455,6 +2559,9 @@
     },
     {
       "word": "#习近平向全国劳动群众致以节日祝贺#"
+    },
+    {
+      "word": "#形成推动高质量发展的强大动力#"
     }
   ]
 }

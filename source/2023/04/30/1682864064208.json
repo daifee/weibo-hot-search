@@ -1,0 +1,410 @@
+{
+  "runTime": 1682864064208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2145177,
+        "num": 2145177,
+        "word": "婚礼前一天被通知不需要伴娘",
+        "onboard_time": 1682857466,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1099620,
+        "num": 1099620,
+        "word": "和豪门大佬网恋后我红了",
+        "onboard_time": 1682855067,
+        "rank": 1,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 25568,
+        "num": 998331,
+        "word": "卫星视角下的花开中国太美了",
+        "onboard_time": 1682839286,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960498,
+        "num": 960498,
+        "word": "女子为亡夫销户痛哭民警为其留户籍页",
+        "onboard_time": 1682860649,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697803,
+        "num": 697803,
+        "word": "史航",
+        "onboard_time": 1682862627,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 672548,
+        "num": 672548,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1682779171,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 625211,
+        "num": 625211,
+        "word": "周杰伦问已经是第一名的人要怎么变",
+        "onboard_time": 1682842046,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620807,
+        "num": 620807,
+        "word": "张碧晨 车尾号920",
+        "onboard_time": 1682863409,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 590512,
+        "num": 590512,
+        "word": "王一博 飞驰人生2",
+        "onboard_time": 1682859690,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 584935,
+        "num": 584935,
+        "word": "西直门三太子",
+        "onboard_time": 1682825366,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922011,
+        "num": 584247,
+        "word": "黄牛 你就说进没进去吧",
+        "onboard_time": 1682850927,
+        "rank": 10,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 583453,
+        "num": 583453,
+        "word": "丫丫暂住的上海动物园人气旺",
+        "onboard_time": 1682851169,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523201,
+        "num": 523201,
+        "word": "三人合吃一份自助餐遭服务员劝阻",
+        "onboard_time": 1682857890,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 509312,
+        "num": 509312,
+        "word": "成毅没有房车的原因",
+        "onboard_time": 1682862689,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 501491,
+        "num": 501491,
+        "word": "伊能静回应和秦昊不互动",
+        "onboard_time": 1682844748,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 422387,
+        "num": 422387,
+        "word": "王鹤棣杨超越 狐妖小红娘王权篇",
+        "onboard_time": 1682846126,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 335826,
+        "num": 335826,
+        "word": "洪知秀给未来妻子的话",
+        "onboard_time": 1682860527,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321053,
+        "num": 321053,
+        "word": "淄博的公文水平杀疯了",
+        "onboard_time": 1682818888,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302913,
+        "num": 302913,
+        "word": "漫长的季节 王阳怎么死的",
+        "onboard_time": 1682862509,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296959,
+        "num": 296959,
+        "word": "四川交警狂吼11次让一下",
+        "onboard_time": 1682856628,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843380,
+        "num": 295816,
+        "word": "淄博一快递员因限流不让进下跪大哭",
+        "onboard_time": 1682850807,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392884,
+        "num": 294904,
+        "word": "月收入四万是什么体验",
+        "onboard_time": 1682857466,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293848,
+        "num": 293848,
+        "word": "王源爸妈不在的演唱会状态",
+        "onboard_time": 1682863709,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 289028,
+        "num": 289028,
+        "word": "淄博一酒店涨价1.5倍被立案调查",
+        "onboard_time": 1682837245,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 286678,
+        "num": 286678,
+        "word": "马嘉祺假哭",
+        "onboard_time": 1682852607,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282358,
+        "num": 283983,
+        "word": "gw赢了zeta",
+        "onboard_time": 1682862450,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 282691,
+        "num": 282691,
+        "word": "重庆一大桥桥墩发生火灾致1死2伤",
+        "onboard_time": 1682861131,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278122,
+        "num": 278122,
+        "word": "Jennie朴彩英确认出席Metgala",
+        "onboard_time": 1682844087,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277059,
+        "num": 277059,
+        "word": "郑秀妍也穿过娜扎同款裤子",
+        "onboard_time": 1682861489,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254195,
+        "num": 254195,
+        "word": "周震南音乐节",
+        "onboard_time": 1682863171,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239523,
+        "num": 239523,
+        "word": "CBA裁判",
+        "onboard_time": 1682863651,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233728,
+        "num": 233728,
+        "word": "漫长的季节",
+        "onboard_time": 1682861010,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 232322,
+        "num": 232322,
+        "word": "澹台烬黎苏苏终于相见",
+        "onboard_time": 1682851767,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203327,
+        "num": 203327,
+        "word": "LGD急什么",
+        "onboard_time": 1682863890,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202569,
+        "num": 202569,
+        "word": "淄博八大局登顶全国景区热门第1",
+        "onboard_time": 1682860410,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 189723,
+        "num": 189723,
+        "word": "长月烬明",
+        "onboard_time": 1682849906,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 183091,
+        "num": 183091,
+        "word": "偶然看到爸爸的手机后破防了",
+        "onboard_time": 1682856569,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182030,
+        "num": 182030,
+        "word": "聊天时最反感别人回复什么",
+        "onboard_time": 1682845347,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179371,
+        "num": 179371,
+        "word": "小舅子结婚姐夫拿18.8万随礼",
+        "onboard_time": 1682831006,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175454,
+        "num": 175454,
+        "word": "IVE音乐节雨中舞台",
+        "onboard_time": 1682861850,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173828,
+        "num": 173828,
+        "word": "极限挑战",
+        "onboard_time": 1682859990,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165626,
+        "num": 165626,
+        "word": "谁给张婧仪安排的皮裤",
+        "onboard_time": 1682849127,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 159180,
+        "num": 159180,
+        "word": "张杰武汉演唱会",
+        "onboard_time": 1682857048,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151911,
+        "num": 151911,
+        "word": "杨洋军艺同学会跳了当代舞",
+        "onboard_time": 1682845406,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150938,
+        "num": 150938,
+        "word": "何洛洛音乐节",
+        "onboard_time": 1682861910,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140316,
+        "num": 140316,
+        "word": "龚彪下线",
+        "onboard_time": 1682858790,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 135908,
+        "num": 135908,
+        "word": "车银优泰国活动含泪唱歌",
+        "onboard_time": 1682860167,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133991,
+        "num": 133991,
+        "word": "淄博烧烤",
+        "onboard_time": 1682855488,
+        "rank": 47,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 124572,
+        "num": 124572,
+        "word": "狗 这病非看不可吗",
+        "onboard_time": 1682853026,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120585,
+        "num": 120585,
+        "word": "CBA季后赛",
+        "onboard_time": 1682864011,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成推动高质量发展的强大动力#"
+    }
+  }
+}
