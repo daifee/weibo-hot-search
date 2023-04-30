@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682811212196,
+  "endTime": 1682818059618,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3163,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1713499,
+      "num": 1713499,
+      "word": "抢不到票但车上好多空座位",
+      "onboard_time": 1682810782,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1712238,
       "num": 446349,
       "word": "李佳航泡温泉弄伤一根肋骨",
@@ -3748,7 +3756,7 @@
     },
     {
       "raw_hot": 1558601,
-      "num": 493003,
+      "num": 506089,
       "word": "徐佳莹 不会再生孩子了",
       "onboard_time": 1682782829,
       "rank": 10,
@@ -5201,6 +5209,14 @@
       "onboard_time": 1681978889,
       "rank": 44,
       "category": "艺人,财经"
+    },
+    {
+      "raw_hot": 1256355,
+      "num": 1256355,
+      "word": "客栈回应住客床底发现死尸",
+      "onboard_time": 1682815885,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1255583,
@@ -7803,6 +7819,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 912689,
+      "num": 912689,
+      "word": "惠州奔现后续",
+      "onboard_time": 1682814866,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 910995,
       "num": 910995,
       "word": "苏州大学回应网传复试确认仅3分钟",
@@ -8729,6 +8753,14 @@
       "onboard_time": 1680937165,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 842486,
+      "num": 842486,
+      "word": "粉丝问王源爸爸怎么抢到这么好的位置",
+      "onboard_time": 1682815527,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 841833,
@@ -14331,6 +14363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 563633,
+      "num": 563633,
+      "word": "漫长的季节碎尸案反转",
+      "onboard_time": 1682810602,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 563401,
       "num": 563401,
       "word": "贾静雯浪姐路透",
@@ -15905,6 +15945,14 @@
       "onboard_time": 1680913103,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 516085,
+      "num": 516085,
+      "word": "费曼重阳了",
+      "onboard_time": 1682810060,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 515319,
@@ -18817,6 +18865,14 @@
       "onboard_time": 1680273869,
       "rank": 3,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 451421,
+      "num": 451421,
+      "word": "为什么不能打孩子屁股",
+      "onboard_time": 1682813125,
+      "rank": 13,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 451342,
@@ -21737,6 +21793,14 @@
       "onboard_time": 1682327008,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398573,
+      "num": 398573,
+      "word": "淄博副本",
+      "onboard_time": 1682813125,
+      "rank": 15,
+      "category": "旅游"
     },
     {
       "raw_hot": 398368,
@@ -27411,6 +27475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315059,
+      "num": 315059,
+      "word": "张凌赫四年前体重200多斤",
+      "onboard_time": 1682814747,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314992,
       "num": 314992,
       "word": "易烊千玺称自己没把偶像当身份",
@@ -27481,6 +27553,14 @@
       "onboard_time": 1682332528,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 314089,
+      "num": 314089,
+      "word": "当事人回应淄博寻亲被驱赶跪下哭诉",
+      "onboard_time": 1682815825,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314070,
@@ -31523,6 +31603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269208,
+      "num": 269208,
+      "word": "我就说熊猫是人扮演的吧",
+      "onboard_time": 1682811263,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269135,
       "num": 269135,
       "word": "杨幂最新合影",
@@ -32281,14 +32369,6 @@
       "onboard_time": 1682510547,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 261925,
-      "num": 261925,
-      "word": "费曼重阳了",
-      "onboard_time": 1682810060,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 261783,
@@ -33897,6 +33977,14 @@
       "onboard_time": 1681617266,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248621,
+      "num": 248621,
+      "word": "期待丫丫成为阳光开朗大女孩",
+      "onboard_time": 1682785225,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248533,
@@ -36753,6 +36841,14 @@
       "onboard_time": 1682071469,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227412,
+      "num": 227412,
+      "word": "警告日本不要被绑上分裂中国的战车",
+      "onboard_time": 1682816486,
+      "rank": 21,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 227355,
@@ -42689,6 +42785,14 @@
       "onboard_time": 1681553367,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201379,
+      "num": 201379,
+      "word": "秦霄贤孙珍妮好嗑",
+      "onboard_time": 1682812164,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 201375,
@@ -51059,6 +51163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172890,
+      "num": 172890,
+      "word": "人从众太酷啦还是太苦了",
+      "onboard_time": 1682816966,
+      "rank": 25,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 172857,
       "num": 172857,
       "word": "石头赶路",
@@ -52369,14 +52481,6 @@
       "onboard_time": 1681954171,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 167201,
-      "num": 106001,
-      "word": "抢不到票但车上好多空座位",
-      "onboard_time": 1682810782,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 167094,
@@ -54787,6 +54891,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 156229,
+      "num": 156229,
+      "word": "武契奇誓言只要还是塞总统决不入北约",
+      "onboard_time": 1682812946,
+      "rank": 28,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 156226,
       "num": 156226,
       "word": "云南猪脚烧烤申请出战",
@@ -55163,6 +55275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154514,
+      "num": 154514,
+      "word": "Angelababy刘宪华合照",
+      "onboard_time": 1682811082,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154492,
       "num": 154492,
       "word": "海豚吃到淄博烧烤有多满足",
@@ -55395,6 +55515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153487,
+      "num": 153487,
+      "word": "大雁塔地铁站进站队伍一眼望不到头",
+      "onboard_time": 1682815885,
+      "rank": 30,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 153459,
       "num": 153459,
       "word": "李宇春说新专辑像是私人日记",
@@ -55553,14 +55681,6 @@
       "onboard_time": 1681721307,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152593,
-      "num": 152593,
-      "word": "漫长的季节碎尸案反转",
-      "onboard_time": 1682810602,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 152500,
@@ -56952,6 +57072,14 @@
       "word": "聂宝华下线了",
       "onboard_time": 1680521253,
       "rank": 44,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 146595,
+      "num": 146595,
+      "word": "宁安如梦",
+      "onboard_time": 1682811322,
+      "rank": 31,
       "category": "影视"
     },
     {
@@ -59281,6 +59409,14 @@
       "onboard_time": 1682473527,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135300,
+      "num": 135300,
+      "word": "文彬去世后车银优首次活动",
+      "onboard_time": 1682816246,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 135295,
@@ -61619,6 +61755,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 122164,
+      "num": 122164,
+      "word": "王嘉尔说现在飞温哥华",
+      "onboard_time": 1682817987,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122146,
       "num": 122146,
       "word": "风箫 真的C",
@@ -62587,6 +62731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115116,
+      "num": 115116,
+      "word": "这语气在东北真的是劝告",
+      "onboard_time": 1682810903,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115063,
       "num": 109670,
       "word": "长峰医院今日起股票停牌",
@@ -63259,6 +63411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109579,
+      "num": 109579,
+      "word": "床搭子",
+      "onboard_time": 1682817748,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109526,
       "num": 102332,
       "word": "长峰医院火灾患者已转移接受治疗",
@@ -63507,6 +63667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107380,
+      "num": 107380,
+      "word": "张杰主打一个陪伴",
+      "onboard_time": 1682816669,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107343,
       "num": 107343,
       "word": "AG战胜EDGM",
@@ -63537,6 +63705,14 @@
       "onboard_time": 1681909706,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107271,
+      "num": 107271,
+      "word": "跟风开淄博烧烤能赚钱吗",
+      "onboard_time": 1682815527,
+      "rank": 41,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 107099,
@@ -63835,6 +64011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105209,
+      "num": 105209,
+      "word": "三月没见亲爹都认不出来了",
+      "onboard_time": 1682810840,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105121,
       "num": 119498,
       "word": "星穹铁道预下载",
@@ -64033,6 +64217,14 @@
       "onboard_time": 1680929248,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103750,
+      "num": 103750,
+      "word": "薛之谦晒照说感谢每一位承蒙关照",
+      "onboard_time": 1682813665,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 103723,
@@ -64337,6 +64529,14 @@
       "onboard_time": 1682213726,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101542,
+      "num": 101542,
+      "word": "养猫人一眼就找到了",
+      "onboard_time": 1682810903,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 101408,
@@ -64883,6 +65083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96032,
+      "num": 96032,
+      "word": "西安游客排百米长龙上钟楼",
+      "onboard_time": 1682817446,
+      "rank": 45,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 95982,
       "num": 3202800,
       "word": "流动的中国生机勃勃",
@@ -64977,6 +65185,14 @@
       "onboard_time": 1682463739,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95196,
+      "num": 95196,
+      "word": "太阳vs掘金",
+      "onboard_time": 1682816669,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 95189,
@@ -65137,14 +65353,6 @@
       "onboard_time": 1681741589,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 93229,
-      "num": 93229,
-      "word": "期待丫丫成为阳光开朗大女孩",
-      "onboard_time": 1682785225,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93189,
@@ -65443,12 +65651,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89451,
+      "num": 89451,
+      "word": "有一种江南叫无锡",
+      "onboard_time": 1682810542,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89415,
       "num": 112397,
       "word": "男子欲置换新车磕头跪谢8年旧车",
       "onboard_time": 1680948268,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89388,
+      "num": 89388,
+      "word": "苏醒说家乡演唱会是不得不搞了",
+      "onboard_time": 1682816608,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 89346,
@@ -66723,14 +66947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65379,
-      "num": 65379,
-      "word": "Angelababy刘宪华合照",
-      "onboard_time": 1682811082,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 65229,
       "num": 210574,
       "word": "华为全新智能驾驶内测视频曝光",
@@ -66897,14 +67113,6 @@
       "onboard_time": 1681711764,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62100,
-      "num": 62100,
-      "word": "这语气在东北真的是劝告",
-      "onboard_time": 1682810903,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 61957,
@@ -67345,14 +67553,6 @@
       "onboard_time": 1681740509,
       "rank": 49,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 53416,
-      "num": 53416,
-      "word": "养猫人一眼就找到了",
-      "onboard_time": 1682810903,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 53205,
