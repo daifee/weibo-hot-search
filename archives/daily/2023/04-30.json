@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682822005886,
+  "endTime": 1682822554293,
   "band_list": [
     {
       "raw_hot": 1910171,
@@ -11,8 +11,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1737397,
-      "num": 1737397,
+      "raw_hot": 1869837,
+      "num": 1869837,
       "word": "淄博的公文水平杀疯了",
       "onboard_time": 1682818888,
       "rank": 18,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890623,
+      "num": 890623,
+      "word": "今年的五一疯了吗",
+      "onboard_time": 1682737949,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 842486,
       "num": 842486,
       "word": "粉丝问王源爸爸怎么抢到这么好的位置",
@@ -105,14 +113,6 @@
       "onboard_time": 1682777791,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 817878,
-      "num": 817878,
-      "word": "今年的五一疯了吗",
-      "onboard_time": 1682737949,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 816778,
@@ -137,6 +137,14 @@
       "onboard_time": 1682761167,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 589225,
+      "num": 589225,
+      "word": "很烦人但不致命的慢性病",
+      "onboard_time": 1682818348,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 563633,
@@ -171,16 +179,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495070,
-      "num": 495070,
-      "word": "很烦人但不致命的慢性病",
-      "onboard_time": 1682818348,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 462176,
-      "num": 462176,
+      "raw_hot": 465015,
+      "num": 465015,
       "word": "新发现924例本土重点关注变异株",
       "onboard_time": 1682818825,
       "rank": 26,
@@ -259,8 +259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297960,
-      "num": 297960,
+      "raw_hot": 301905,
+      "num": 301905,
       "word": "床搭子",
       "onboard_time": 1682817748,
       "rank": 39,
@@ -288,6 +288,14 @@
       "word": "原来熊猫摔倒的反应跟人一样",
       "onboard_time": 1682776172,
       "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 270513,
+      "num": 216842,
+      "word": "见过睡相最丑的床搭子",
+      "onboard_time": 1682821286,
+      "rank": 23,
       "category": "幽默"
     },
     {
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216419,
+      "num": 216419,
+      "word": "王一博长空之王实时票房破2亿",
+      "onboard_time": 1682821286,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213132,
       "num": 213132,
       "word": "许嵩现场",
@@ -379,28 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206637,
-      "num": 206637,
-      "word": "见过睡相最丑的床搭子",
-      "onboard_time": 1682821286,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 201379,
       "num": 201379,
       "word": "秦霄贤孙珍妮好嗑",
       "onboard_time": 1682812164,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199041,
-      "num": 199041,
-      "word": "王一博长空之王实时票房破2亿",
-      "onboard_time": 1682821286,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 198311,
@@ -433,6 +433,14 @@
       "onboard_time": 1682798052,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181218,
+      "num": 181218,
+      "word": "张杰说30号的加场继续给你惊喜",
+      "onboard_time": 1682819187,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 178162,
@@ -499,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160066,
-      "num": 160066,
-      "word": "张杰说30号的加场继续给你惊喜",
-      "onboard_time": 1682819187,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 160022,
       "num": 160022,
       "word": "文旅局长评价淄博烧烤",
@@ -547,6 +547,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 155738,
+      "num": 155738,
+      "word": "西湖边最美人墙2.0版来了",
+      "onboard_time": 1682820387,
+      "rank": 35,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 154514,
       "num": 154514,
       "word": "Angelababy刘宪华合照",
@@ -563,20 +571,20 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 150568,
+      "num": 150568,
+      "word": "淄博八大局因客流大采取限流措施",
+      "onboard_time": 1682821046,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 149697,
       "num": 149697,
       "word": "文彬去世后车银优首次活动",
       "onboard_time": 1682816246,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149023,
-      "num": 149023,
-      "word": "西湖边最美人墙2.0版来了",
-      "onboard_time": 1682820387,
-      "rank": 35,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 146595,
@@ -627,6 +635,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 137951,
+      "num": 137951,
+      "word": "杨天真精细到每天的人生职业规划",
+      "onboard_time": 1682821346,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136774,
+      "num": 136774,
+      "word": "陈道明为张艺谋颁发终身成就奖",
+      "onboard_time": 1682821104,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131943,
       "num": 168667,
       "word": "中国军队完成撤离在苏丹中国人员任务",
@@ -659,20 +683,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 124558,
-      "num": 124558,
-      "word": "陈道明为张艺谋颁发终身成就奖",
-      "onboard_time": 1682821104,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 123002,
-      "num": 123002,
-      "word": "杨天真精细到每天的人生职业规划",
-      "onboard_time": 1682821346,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 123991,
+      "num": 123991,
+      "word": "看完后很想学习",
+      "onboard_time": 1682821286,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 122164,
@@ -707,20 +723,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115062,
+      "num": 115062,
+      "word": "第五人格",
+      "onboard_time": 1682822246,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113482,
       "num": 113482,
       "word": "比基尼拼接牛仔裤",
       "onboard_time": 1682765066,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112548,
-      "num": 112548,
-      "word": "淄博八大局因客流大采取限流措施",
-      "onboard_time": 1682821046,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 112190,
@@ -737,6 +753,14 @@
       "onboard_time": 1682815527,
       "rank": 41,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 108768,
+      "num": 108768,
+      "word": "张钧甯悼念孙博",
+      "onboard_time": 1682822187,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 108652,
@@ -771,14 +795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104410,
-      "num": 104410,
-      "word": "看完后很想学习",
-      "onboard_time": 1682821286,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 103980,
       "num": 103980,
       "word": "养猫人一眼就找到了",
@@ -793,6 +809,14 @@
       "onboard_time": 1682813665,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 101622,
+      "num": 101622,
+      "word": "萌兰",
+      "onboard_time": 1682822487,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97557,

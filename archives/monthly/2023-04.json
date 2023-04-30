@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682822005886,
+  "endTime": 1682822554293,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -2659,6 +2659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1869837,
+      "num": 1869837,
+      "word": "淄博的公文水平杀疯了",
+      "onboard_time": 1682818888,
+      "rank": 18,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 1869711,
       "num": 1869711,
       "word": "曝颖儿代言某家居品牌爆雷",
@@ -3081,14 +3089,6 @@
       "onboard_time": 1681867947,
       "rank": 4,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 1737397,
-      "num": 1737397,
-      "word": "淄博的公文水平杀疯了",
-      "onboard_time": 1682818888,
-      "rank": 18,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 1736823,
@@ -13579,6 +13579,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 589225,
+      "num": 589225,
+      "word": "很烦人但不致命的慢性病",
+      "onboard_time": 1682818348,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 589217,
       "num": 589217,
       "word": "陈哲远去泰国找印度飞饼",
@@ -16747,14 +16755,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 495070,
-      "num": 495070,
-      "word": "很烦人但不致命的慢性病",
-      "onboard_time": 1682818348,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 494725,
       "num": 371689,
       "word": "叶舒华 喜欢赚钱",
@@ -18115,6 +18115,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 465015,
+      "num": 465015,
+      "word": "新发现924例本土重点关注变异株",
+      "onboard_time": 1682818825,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464862,
       "num": 284337,
       "word": "易烊千玺顺毛眼镜造型",
@@ -18241,14 +18249,6 @@
       "onboard_time": 1682310994,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 462176,
-      "num": 462176,
-      "word": "新发现924例本土重点关注变异株",
-      "onboard_time": 1682818825,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461683,
@@ -28531,6 +28531,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 301905,
+      "num": 301905,
+      "word": "床搭子",
+      "onboard_time": 1682817748,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301811,
       "num": 301811,
       "word": "澹台烬想知道叶夕雾到底长什么样的心",
@@ -28857,14 +28865,6 @@
       "onboard_time": 1682243430,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 297960,
-      "num": 297960,
-      "word": "床搭子",
-      "onboard_time": 1682817748,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 297508,
@@ -31497,6 +31497,14 @@
       "onboard_time": 1680707374,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270513,
+      "num": 216842,
+      "word": "见过睡相最丑的床搭子",
+      "onboard_time": 1682821286,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 270376,
@@ -38651,6 +38659,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 216419,
+      "num": 216419,
+      "word": "王一博长空之王实时票房破2亿",
+      "onboard_time": 1682821286,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 216354,
       "num": 216354,
       "word": "TTG对战TES",
@@ -40785,14 +40801,6 @@
       "onboard_time": 1682313929,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206637,
-      "num": 206637,
-      "word": "见过睡相最丑的床搭子",
-      "onboard_time": 1682821286,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 206627,
@@ -43808,14 +43816,6 @@
       "word": "白玉兰",
       "onboard_time": 1681607307,
       "rank": 19,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 199041,
-      "num": 199041,
-      "word": "王一博长空之王实时票房破2亿",
-      "onboard_time": 1682821286,
-      "rank": 25,
       "category": "影视"
     },
     {
@@ -49627,6 +49627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 181218,
+      "num": 181218,
+      "word": "张杰说30号的加场继续给你惊喜",
+      "onboard_time": 1682819187,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 181210,
       "num": 181210,
       "word": "赘婿动画开播",
@@ -54211,14 +54219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160066,
-      "num": 160066,
-      "word": "张杰说30号的加场继续给你惊喜",
-      "onboard_time": 1682819187,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 160042,
       "num": 160042,
       "word": "阴阳师",
@@ -55073,6 +55073,14 @@
       "onboard_time": 1680482129,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155738,
+      "num": 155738,
+      "word": "西湖边最美人墙2.0版来了",
+      "onboard_time": 1682820387,
+      "rank": 35,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 155687,
@@ -56251,6 +56259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150568,
+      "num": 150568,
+      "word": "淄博八大局因客流大采取限流措施",
+      "onboard_time": 1682821046,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 150556,
       "num": 150556,
       "word": "金智秀FLOWER横版直拍",
@@ -56641,14 +56657,6 @@
       "onboard_time": 1680823946,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149023,
-      "num": 149023,
-      "word": "西湖边最美人墙2.0版来了",
-      "onboard_time": 1682820387,
-      "rank": 35,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 149015,
@@ -59043,6 +59051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137951,
+      "num": 137951,
+      "word": "杨天真精细到每天的人生职业规划",
+      "onboard_time": 1682821346,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137890,
       "num": 137890,
       "word": "DOU5对战ACT",
@@ -59257,6 +59273,14 @@
       "onboard_time": 1682065414,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136774,
+      "num": 136774,
+      "word": "陈道明为张艺谋颁发终身成就奖",
+      "onboard_time": 1682821104,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 136718,
@@ -61531,14 +61555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124558,
-      "num": 124558,
-      "word": "陈道明为张艺谋颁发终身成就奖",
-      "onboard_time": 1682821104,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 124524,
       "num": 510481,
       "word": "张朝阳物理学解构折叠屏",
@@ -61633,6 +61649,14 @@
       "onboard_time": 1680625226,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123991,
+      "num": 123991,
+      "word": "看完后很想学习",
+      "onboard_time": 1682821286,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 123934,
@@ -61737,14 +61761,6 @@
       "onboard_time": 1681615347,
       "rank": 42,
       "category": "艺人,旅游"
-    },
-    {
-      "raw_hot": 123002,
-      "num": 123002,
-      "word": "杨天真精细到每天的人生职业规划",
-      "onboard_time": 1682821346,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 122968,
@@ -63171,14 +63187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112548,
-      "num": 112548,
-      "word": "淄博八大局因客流大采取限流措施",
-      "onboard_time": 1682821046,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 112337,
       "num": 112337,
       "word": "Twins关智斌霍汶希看容祖儿演唱会",
@@ -63641,6 +63649,14 @@
       "onboard_time": 1681709667,
       "rank": 38,
       "category": "科技"
+    },
+    {
+      "raw_hot": 108768,
+      "num": 108768,
+      "word": "张钧甯悼念孙博",
+      "onboard_time": 1682822187,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 108739,
@@ -64233,14 +64249,6 @@
       "onboard_time": 1680935008,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 104410,
-      "num": 104410,
-      "word": "看完后很想学习",
-      "onboard_time": 1682821286,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 104254,
