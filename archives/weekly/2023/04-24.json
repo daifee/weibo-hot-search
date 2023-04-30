@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682829191013,
+  "endTime": 1682831737386,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -827,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1620685,
+      "num": 1620685,
+      "word": "西直门三太子",
+      "onboard_time": 1682825366,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1604978,
       "num": 1604978,
       "word": "郭珍霓",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1682498007,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1281905,
-      "num": 1281905,
-      "word": "西直门三太子",
-      "onboard_time": 1682825366,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1279441,
@@ -1948,7 +1948,7 @@
     },
     {
       "raw_hot": 835056,
-      "num": 493163,
+      "num": 615792,
       "word": "泫雅接了黑色长发",
       "onboard_time": 1682825968,
       "rank": 11,
@@ -2139,6 +2139,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 757960,
+      "num": 757960,
+      "word": "漫长的季节碎尸案反转",
+      "onboard_time": 1682810602,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 753524,
       "num": 753524,
       "word": "Rookie",
@@ -2185,6 +2193,14 @@
       "onboard_time": 1682334269,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 742894,
+      "num": 742894,
+      "word": "女明星花花",
+      "onboard_time": 1682829687,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 731924,
@@ -2448,6 +2464,14 @@
       "word": "男子偷猫后拍虐猫视频被治安拘留",
       "onboard_time": 1682661146,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 617840,
+      "num": 617840,
+      "word": "23天婴儿医院洗澡按摩后肠坏死",
+      "onboard_time": 1682827167,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2801,14 +2825,6 @@
       "onboard_time": 1682656829,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 563633,
-      "num": 563633,
-      "word": "漫长的季节碎尸案反转",
-      "onboard_time": 1682810602,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 562717,
@@ -3456,14 +3472,6 @@
       "word": "官方通报徐州出租车绕路还反向抹零",
       "onboard_time": 1682400448,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478610,
-      "num": 478610,
-      "word": "23天婴儿医院洗澡按摩后肠坏死",
-      "onboard_time": 1682827167,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -4643,6 +4651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 385919,
+      "num": 385919,
+      "word": "当代人穿汉服主打一个随性",
+      "onboard_time": 1682830408,
+      "rank": 14,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 385877,
       "num": 385877,
       "word": "Apink 不续约",
@@ -5099,6 +5115,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 352467,
+      "num": 352467,
+      "word": "淄博188西装男送一万份纸巾给游客",
+      "onboard_time": 1682828906,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 351570,
       "num": 351570,
       "word": "南柱赫否认校暴视频",
@@ -5297,6 +5321,14 @@
       "onboard_time": 1682467770,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335831,
+      "num": 335831,
+      "word": "梁洁终于进组了",
+      "onboard_time": 1682829148,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 335380,
@@ -5953,6 +5985,14 @@
       "onboard_time": 1682349926,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304684,
+      "num": 186686,
+      "word": "今朝有酒今朝醉 人生乱套我睡觉",
+      "onboard_time": 1682831066,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 304644,
@@ -7275,6 +7315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253069,
+      "num": 253069,
+      "word": "小舅子结婚姐夫拿18.8万随礼",
+      "onboard_time": 1682831006,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253050,
       "num": 253050,
       "word": "德云社抢票",
@@ -8595,6 +8643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214063,
+      "num": 214063,
+      "word": "内娱四大周正系帅哥",
+      "onboard_time": 1682829625,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213991,
       "num": 213991,
       "word": "长沙夜生活",
@@ -8617,6 +8673,14 @@
       "onboard_time": 1682412085,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213561,
+      "num": 213561,
+      "word": "肖战如梦之梦西安站的花墙",
+      "onboard_time": 1682827885,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 213246,
@@ -8740,7 +8804,7 @@
     },
     {
       "raw_hot": 210072,
-      "num": 170000,
+      "num": 171211,
       "word": "当外国人看到自拍杆",
       "onboard_time": 1682827107,
       "rank": 31,
@@ -9059,20 +9123,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203957,
+      "num": 203957,
+      "word": "女子带孩子高铁上霸座被拘10日",
+      "onboard_time": 1682829446,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203512,
       "num": 203512,
       "word": "偷猫拍虐猫视频网红道歉",
       "onboard_time": 1682654249,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203432,
-      "num": 203432,
-      "word": "肖战如梦之梦西安站的花墙",
-      "onboard_time": 1682827885,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 203325,
@@ -9369,6 +9433,14 @@
       "onboard_time": 1682669850,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198705,
+      "num": 198705,
+      "word": "原神",
+      "onboard_time": 1682830765,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 198625,
@@ -9763,6 +9835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192908,
+      "num": 192908,
+      "word": "刘耀文染新发色",
+      "onboard_time": 1682831307,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192801,
       "num": 192801,
       "word": "长空之王票房",
@@ -9801,6 +9881,14 @@
       "onboard_time": 1682651188,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191758,
+      "num": 191758,
+      "word": "时代少年团演唱会有直播",
+      "onboard_time": 1682830046,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 191706,
@@ -10113,6 +10201,14 @@
       "onboard_time": 1682517091,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 187135,
+      "num": 187135,
+      "word": "长月烬明逍遥宗招生啦",
+      "onboard_time": 1682829687,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 187131,
@@ -11105,6 +11201,14 @@
       "onboard_time": 1682569952,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 168408,
+      "num": 168408,
+      "word": "原来画画可以这么酷",
+      "onboard_time": 1682830408,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 167862,
@@ -13027,14 +13131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131356,
-      "num": 131356,
-      "word": "淄博188西装男送一万份纸巾给游客",
-      "onboard_time": 1682828906,
-      "rank": 39,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 131242,
       "num": 131242,
       "word": "涵艺爆料Daeny加入WBG",
@@ -13515,6 +13611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119881,
+      "num": 119881,
+      "word": "进景区上厕所要花55元买门票",
+      "onboard_time": 1682831667,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119873,
       "num": 119873,
       "word": "科普作家硬核讲解长月烬明蚌族知识",
@@ -13848,14 +13952,6 @@
       "word": "电影长空之王",
       "onboard_time": 1682325266,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 108792,
-      "num": 108792,
-      "word": "梁洁终于进组了",
-      "onboard_time": 1682829148,
-      "rank": 45,
       "category": "影视"
     },
     {

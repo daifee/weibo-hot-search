@@ -1,0 +1,410 @@
+{
+  "runTime": 1682831737386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1620685,
+        "num": 1620685,
+        "word": "西直门三太子",
+        "onboard_time": 1682825366,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1441223,
+        "num": 1441223,
+        "word": "淄博的公文水平杀疯了",
+        "onboard_time": 1682818888,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9931,
+        "num": 1062668,
+        "word": "这是卫星视角下的美丽中国",
+        "onboard_time": 1682772513,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868916,
+        "num": 868916,
+        "word": "五一档三部电影票房破亿了",
+        "onboard_time": 1682824166,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 834873,
+        "num": 834873,
+        "word": "黄山景区回应游客在厕所过夜",
+        "onboard_time": 1682823148,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 770327,
+        "num": 770327,
+        "word": "萌兰",
+        "onboard_time": 1682822487,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757960,
+        "num": 757960,
+        "word": "漫长的季节碎尸案反转",
+        "onboard_time": 1682810602,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 742894,
+        "num": 742894,
+        "word": "女明星花花",
+        "onboard_time": 1682829687,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 697593,
+        "num": 697593,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1682779171,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 617840,
+        "num": 617840,
+        "word": "23天婴儿医院洗澡按摩后肠坏死",
+        "onboard_time": 1682827167,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765610,
+        "num": 617204,
+        "word": "王源演唱会提词器 朋友圈背景图",
+        "onboard_time": 1682819306,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 615792,
+        "num": 615792,
+        "word": "泫雅接了黑色长发",
+        "onboard_time": 1682825968,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 462573,
+        "num": 462573,
+        "word": "收到爆剧邀请函的待播剧",
+        "onboard_time": 1682823625,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404262,
+        "num": 404262,
+        "word": "最无用的节俭行为是什么",
+        "onboard_time": 1682825426,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385919,
+        "num": 385919,
+        "word": "当代人穿汉服主打一个随性",
+        "onboard_time": 1682830408,
+        "rank": 14,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 352467,
+        "num": 352467,
+        "word": "淄博188西装男送一万份纸巾给游客",
+        "onboard_time": 1682828906,
+        "rank": 15,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 335831,
+        "num": 335831,
+        "word": "梁洁终于进组了",
+        "onboard_time": 1682829148,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304513,
+        "num": 304513,
+        "word": "徐佳莹 不会再生孩子了",
+        "onboard_time": 1682782829,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302139,
+        "num": 302139,
+        "word": "火车上被误会的特种兵",
+        "onboard_time": 1682827107,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276041,
+        "num": 276041,
+        "word": "海底捞一门店睡满人导致无法用餐",
+        "onboard_time": 1682765909,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285804,
+        "num": 274642,
+        "word": "2乘客坐飞机万米高空撕扒打架",
+        "onboard_time": 1682822726,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253069,
+        "num": 253069,
+        "word": "小舅子结婚姐夫拿18.8万随礼",
+        "onboard_time": 1682831006,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214063,
+        "num": 214063,
+        "word": "内娱四大周正系帅哥",
+        "onboard_time": 1682829625,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213561,
+        "num": 213561,
+        "word": "肖战如梦之梦西安站的花墙",
+        "onboard_time": 1682827885,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203957,
+        "num": 203957,
+        "word": "女子带孩子高铁上霸座被拘10日",
+        "onboard_time": 1682829446,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198705,
+        "num": 198705,
+        "word": "原神",
+        "onboard_time": 1682830765,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192908,
+        "num": 192908,
+        "word": "刘耀文染新发色",
+        "onboard_time": 1682831307,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191758,
+        "num": 191758,
+        "word": "时代少年团演唱会有直播",
+        "onboard_time": 1682830046,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188366,
+        "num": 188366,
+        "word": "张凌赫四年前体重200多斤",
+        "onboard_time": 1682814747,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187135,
+        "num": 187135,
+        "word": "长月烬明逍遥宗招生啦",
+        "onboard_time": 1682829687,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304684,
+        "num": 186686,
+        "word": "今朝有酒今朝醉 人生乱套我睡觉",
+        "onboard_time": 1682831066,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 182407,
+        "num": 182407,
+        "word": "洪崖洞",
+        "onboard_time": 1682777729,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 171211,
+        "num": 171211,
+        "word": "当外国人看到自拍杆",
+        "onboard_time": 1682827107,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168408,
+        "num": 168408,
+        "word": "原来画画可以这么酷",
+        "onboard_time": 1682830408,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 166533,
+        "num": 166533,
+        "word": "很烦人但不致命的慢性病",
+        "onboard_time": 1682818348,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165554,
+        "num": 165554,
+        "word": "长沙官方通报买4.6斤水果少一斤",
+        "onboard_time": 1682787261,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157580,
+        "num": 157580,
+        "word": "娜扎复刻自己的名场面",
+        "onboard_time": 1682782711,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148106,
+        "num": 148106,
+        "word": "周也淡妆吊带裙",
+        "onboard_time": 1682820025,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147096,
+        "num": 147096,
+        "word": "费曼重阳了",
+        "onboard_time": 1682810060,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146349,
+        "num": 146349,
+        "word": "张颂文看到已故经纪人照片泪目",
+        "onboard_time": 1682777791,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 141543,
+        "num": 141543,
+        "word": "今年的五一疯了吗",
+        "onboard_time": 1682737949,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132215,
+        "num": 132215,
+        "word": "新发现924例本土重点关注变异株",
+        "onboard_time": 1682818825,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127043,
+        "num": 127043,
+        "word": "女子五一首日出游排队超11小时崩溃",
+        "onboard_time": 1682824166,
+        "rank": 42,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 126925,
+        "num": 126925,
+        "word": "极限挑战之继承者们",
+        "onboard_time": 1682824166,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123500,
+        "num": 123500,
+        "word": "见过睡相最丑的床搭子",
+        "onboard_time": 1682821286,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121152,
+        "num": 121152,
+        "word": "淄博模式可以复制吗",
+        "onboard_time": 1682828546,
+        "rank": 45,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 119881,
+        "num": 119881,
+        "word": "进景区上厕所要花55元买门票",
+        "onboard_time": 1682831667,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114644,
+        "num": 114644,
+        "word": "杜兰特",
+        "onboard_time": 1682824645,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114550,
+        "num": 114550,
+        "word": "重庆洪崖洞又现封路封桥宠游客",
+        "onboard_time": 1682826326,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 112591,
+        "num": 112591,
+        "word": "时光2今夏开播",
+        "onboard_time": 1682827107,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国生机勃勃#"
+    }
+  }
+}
