@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682864064208,
+  "endTime": 1682865195351,
   "band_list": [
     {
       "raw_hot": 2593446,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1538612,
+      "num": 1538612,
+      "word": "女子为亡夫销户痛哭民警为其留户籍页",
+      "onboard_time": 1682860649,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1501253,
       "num": 584247,
       "word": "黄牛 你就说进没进去吧",
@@ -128,6 +136,14 @@
       "word": "粉丝问王源爸爸怎么抢到这么好的位置",
       "onboard_time": 1682815527,
       "rank": 5,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1263099,
+      "num": 1263099,
+      "word": "张碧晨 车尾号920",
+      "onboard_time": 1682863409,
+      "rank": 7,
       "category": "音乐"
     },
     {
@@ -203,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 960498,
-      "num": 960498,
-      "word": "女子为亡夫销户痛哭民警为其留户籍页",
-      "onboard_time": 1682860649,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 943676,
       "num": 943676,
       "word": "黄山景区回应游客在厕所过夜",
@@ -265,6 +273,14 @@
       "onboard_time": 1682777791,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 818283,
+      "num": 818283,
+      "word": "王源爸妈不在的演唱会状态",
+      "onboard_time": 1682863709,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 816778,
@@ -323,20 +339,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 697592,
+      "num": 697592,
+      "word": "丫丫暂住的上海动物园人气旺",
+      "onboard_time": 1682851169,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 689920,
       "num": 689920,
       "word": "千万不要为了省钱花更多的钱",
       "onboard_time": 1682832507,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 620807,
-      "num": 620807,
-      "word": "张碧晨 车尾号920",
-      "onboard_time": 1682863409,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 617840,
@@ -379,14 +395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 583453,
-      "num": 583453,
-      "word": "丫丫暂住的上海动物园人气旺",
-      "onboard_time": 1682851169,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 569206,
       "num": 569206,
       "word": "Jennie朴彩英确认出席Metgala",
@@ -401,6 +409,14 @@
       "onboard_time": 1682822726,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529687,
+      "num": 529687,
+      "word": "成毅没有房车的原因",
+      "onboard_time": 1682862689,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 528989,
@@ -451,14 +467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 509312,
-      "num": 509312,
-      "word": "成毅没有房车的原因",
-      "onboard_time": 1682862689,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 500008,
       "num": 500008,
       "word": "七仔",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 494984,
-      "num": 294904,
+      "num": 306963,
       "word": "月收入四万是什么体验",
       "onboard_time": 1682857466,
       "rank": 34,
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398808,
+      "num": 398808,
+      "word": "CBA裁判",
+      "onboard_time": 1682863651,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398758,
       "num": 398758,
       "word": "谷爱凌发的图vsAngelababy发的图",
@@ -617,6 +633,14 @@
       "onboard_time": 1682828906,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 351773,
+      "num": 351773,
+      "word": "漫长的季节 王阳怎么死的",
+      "onboard_time": 1682862509,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 351740,
@@ -715,6 +739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 310994,
+      "num": 310994,
+      "word": "淄博八大局登顶全国景区热门第1",
+      "onboard_time": 1682860410,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 310527,
       "num": 310527,
       "word": "哪里人少",
@@ -729,14 +761,6 @@
       "onboard_time": 1682831066,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 302913,
-      "num": 302913,
-      "word": "漫长的季节 王阳怎么死的",
-      "onboard_time": 1682862509,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 301905,
@@ -771,14 +795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 293848,
-      "num": 293848,
-      "word": "王源爸妈不在的演唱会状态",
-      "onboard_time": 1682863709,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 290143,
       "num": 211170,
       "word": "Hero认养白虎一周年",
@@ -793,6 +809,14 @@
       "onboard_time": 1682853510,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 287544,
+      "num": 287544,
+      "word": "郑秀妍也穿过娜扎同款裤子",
+      "onboard_time": 1682861489,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 284462,
@@ -835,12 +859,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 277059,
-      "num": 277059,
-      "word": "郑秀妍也穿过娜扎同款裤子",
-      "onboard_time": 1682861489,
-      "rank": 48,
-      "category": "作品衍生"
+      "raw_hot": 274262,
+      "num": 274262,
+      "word": "LGD急什么",
+      "onboard_time": 1682863890,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 272146,
@@ -904,6 +928,14 @@
       "word": "张杰武汉演唱会",
       "onboard_time": 1682857048,
       "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 261224,
+      "num": 261224,
+      "word": "黄明昊大连演出",
+      "onboard_time": 1682864430,
+      "rank": 26,
       "category": "音乐"
     },
     {
@@ -1001,14 +1033,6 @@
       "onboard_time": 1682816486,
       "rank": 21,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 239523,
-      "num": 239523,
-      "word": "CBA裁判",
-      "onboard_time": 1682863651,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 236459,
@@ -1131,6 +1155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217226,
+      "num": 217226,
+      "word": "骆玉明 女生不要上文学的当",
+      "onboard_time": 1682863593,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216821,
       "num": 206720,
       "word": "华晨宇成都演唱会人气",
@@ -1195,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212037,
+      "num": 212037,
+      "word": "薛之谦说常州太湖湾音乐节收工",
+      "onboard_time": 1682864611,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 211845,
       "num": 211845,
       "word": "丁立人夺国象世界棋王",
@@ -1249,22 +1289,6 @@
       "onboard_time": 1682829446,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203327,
-      "num": 203327,
-      "word": "LGD急什么",
-      "onboard_time": 1682863890,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 202569,
-      "num": 202569,
-      "word": "淄博八大局登顶全国景区热门第1",
-      "onboard_time": 1682860410,
-      "rank": 34,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 202042,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1682846666,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166507,
+      "num": 166507,
+      "word": "CBA季后赛",
+      "onboard_time": 1682864011,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 165497,
@@ -2083,14 +2115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120585,
-      "num": 120585,
-      "word": "CBA季后赛",
-      "onboard_time": 1682864011,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120549,
       "num": 120549,
       "word": "Hero拿下TTG",
@@ -2216,6 +2240,14 @@
       "word": "第一个下高速的人",
       "onboard_time": 1682795174,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111552,
+      "num": 127066,
+      "word": "警方不建议前往大唐不夜城",
+      "onboard_time": 1682865150,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2468,7 +2500,7 @@
     },
     {
       "raw_hot": 73068,
-      "num": 1248958,
+      "num": 1267249,
       "word": "卫星视角下的花开中国太美了",
       "onboard_time": 1682839286,
       "rank": 2,
