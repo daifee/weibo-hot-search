@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682835664492,
+  "endTime": 1682836408471,
   "band_list": [
     {
       "raw_hot": 2064706,
@@ -67,6 +67,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1243348,
+      "num": 1243348,
+      "word": "小舅子结婚姐夫拿18.8万随礼",
+      "onboard_time": 1682831006,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1237379,
       "num": 1237379,
       "word": "五一档三部电影票房破亿了",
@@ -80,14 +88,6 @@
       "word": "海底捞一门店睡满人导致无法用餐",
       "onboard_time": 1682765909,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1092166,
-      "num": 1092166,
-      "word": "小舅子结婚姐夫拿18.8万随礼",
-      "onboard_time": 1682831006,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -203,20 +203,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 689920,
+      "num": 689920,
+      "word": "千万不要为了省钱花更多的钱",
+      "onboard_time": 1682832507,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 617840,
       "num": 617840,
       "word": "23天婴儿医院洗澡按摩后肠坏死",
       "onboard_time": 1682827167,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601721,
-      "num": 601721,
-      "word": "千万不要为了省钱花更多的钱",
-      "onboard_time": 1682832507,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 599173,
@@ -291,8 +291,8 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 418802,
-      "num": 418802,
+      "raw_hot": 441770,
+      "num": 441770,
       "word": "澹台烬AI换脸润玉",
       "onboard_time": 1682833285,
       "rank": 9,
@@ -371,20 +371,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 343870,
+      "num": 218900,
+      "word": "卡琳娜",
+      "onboard_time": 1682835205,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 326456,
       "num": 326456,
       "word": "火车上被误会的特种兵",
       "onboard_time": 1682827107,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 323321,
-      "num": 218900,
-      "word": "卡琳娜",
-      "onboard_time": 1682835205,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 321887,
@@ -441,6 +441,14 @@
       "onboard_time": 1682830765,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293822,
+      "num": 293822,
+      "word": "五一假期才第2天已经玩累了",
+      "onboard_time": 1682834006,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284462,
@@ -507,6 +515,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 261215,
+      "num": 261215,
+      "word": "淄博绿豆糕大爷",
+      "onboard_time": 1682835387,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255096,
       "num": 255096,
       "word": "杜兰特",
@@ -521,6 +537,22 @@
       "onboard_time": 1682785225,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248004,
+      "num": 169692,
+      "word": "瞒着爸妈消费最高的一次",
+      "onboard_time": 1682835927,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 247638,
+      "num": 195341,
+      "word": "高三女生替初二妹妹开家长会",
+      "onboard_time": 1682834906,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 247328,
@@ -593,14 +625,6 @@
       "onboard_time": 1682823446,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218929,
-      "num": 218929,
-      "word": "五一假期才第2天已经玩累了",
-      "onboard_time": 1682834006,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216419,
@@ -811,14 +835,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 174899,
-      "num": 174899,
-      "word": "高三女生替初二妹妹开家长会",
-      "onboard_time": 1682834906,
-      "rank": 32,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 174125,
       "num": 174125,
       "word": "火遍全国各地的组合成员发生车祸",
@@ -883,6 +899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162101,
+      "num": 162101,
+      "word": "姚琛这舞蹈啧啧啧",
+      "onboard_time": 1682836224,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161509,
       "num": 161509,
       "word": "鞠婧祎晒膝盖受伤照",
@@ -929,6 +953,14 @@
       "onboard_time": 1682777370,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157422,
+      "num": 157422,
+      "word": "犄角旮旯的淄博烧烤店被发现后",
+      "onboard_time": 1682832624,
+      "rank": 40,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 156229,
@@ -979,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152673,
-      "num": 152673,
-      "word": "犄角旮旯的淄博烧烤店被发现后",
-      "onboard_time": 1682832624,
-      "rank": 40,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 152254,
       "num": 152254,
       "word": "云襄传开襄明天见",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1682829087,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147626,
+      "num": 147626,
+      "word": "田曦薇与路人合照",
+      "onboard_time": 1682832866,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146595,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1682807776,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143200,
-      "num": 143200,
-      "word": "田曦薇与路人合照",
-      "onboard_time": 1682832866,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 141148,
@@ -1147,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125957,
+      "num": 125957,
+      "word": "卡琳娜内场难抢的原因",
+      "onboard_time": 1682836168,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 125440,
       "num": 125440,
       "word": "五一假期首日市民冒雨探望丫丫",
@@ -1161,14 +1193,6 @@
       "onboard_time": 1682776590,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 124928,
-      "num": 124928,
-      "word": "淄博绿豆糕大爷",
-      "onboard_time": 1682835387,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122164,
@@ -1257,6 +1281,14 @@
       "onboard_time": 1682815527,
       "rank": 41,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 109596,
+      "num": 109596,
+      "word": "芒果这辈子都没想到能当文豪",
+      "onboard_time": 1682836286,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 108652,
