@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682857833491,
+  "endTime": 1682858764129,
   "band_list": [
     {
       "raw_hot": 2593446,
@@ -67,6 +67,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1424783,
+      "num": 1424783,
+      "word": "和豪门大佬网恋后我红了",
+      "onboard_time": 1682855067,
+      "rank": 0,
+      "category": "作品衍生,情感"
+    },
+    {
       "raw_hot": 1408506,
       "num": 442943,
       "word": "黄牛 你就说进没进去吧",
@@ -97,14 +105,6 @@
       "onboard_time": 1682842046,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1301987,
-      "num": 1301987,
-      "word": "和豪门大佬网恋后我红了",
-      "onboard_time": 1682855067,
-      "rank": 0,
-      "category": "作品衍生,情感"
     },
     {
       "raw_hot": 1292980,
@@ -331,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 577033,
+      "num": 193935,
+      "word": "婚礼前一天被通知不需要伴娘",
+      "onboard_time": 1682857466,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 569206,
       "num": 569206,
       "word": "Jennie朴彩英确认出席Metgala",
@@ -435,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456613,
+      "num": 456613,
+      "word": "四川交警狂吼11次让一下",
+      "onboard_time": 1682856628,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451421,
       "num": 451421,
       "word": "为什么不能打孩子屁股",
@@ -513,6 +529,14 @@
       "onboard_time": 1682852246,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 394143,
+      "num": 249037,
+      "word": "月收入四万是什么体验",
+      "onboard_time": 1682857466,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 385919,
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 272146,
-      "num": 220538,
+      "num": 240163,
       "word": "烧烤界地位最高的荤菜是哪一种",
       "onboard_time": 1682853449,
       "rank": 39,
@@ -771,20 +795,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 261424,
+      "num": 261424,
+      "word": "张杰武汉演唱会",
+      "onboard_time": 1682857048,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 260689,
       "num": 260689,
       "word": "黄景瑜辟谣出演狂飙2",
       "onboard_time": 1682840605,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259430,
-      "num": 259430,
-      "word": "四川交警狂吼11次让一下",
-      "onboard_time": 1682856628,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255096,
@@ -1027,14 +1051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211589,
-      "num": 211589,
-      "word": "张杰武汉演唱会",
-      "onboard_time": 1682857048,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 210072,
       "num": 171211,
       "word": "当外国人看到自拍杆",
@@ -1051,12 +1067,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 205955,
-      "num": 188154,
-      "word": "婚礼前一天被通知不需要伴娘",
-      "onboard_time": 1682857466,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 206026,
+      "num": 206026,
+      "word": "代号鸢",
+      "onboard_time": 1682853568,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 204661,
+      "num": 204661,
+      "word": "齐国善用美男计",
+      "onboard_time": 1682856388,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 204045,
@@ -1083,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199823,
-      "num": 199823,
-      "word": "代号鸢",
-      "onboard_time": 1682853568,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 199409,
       "num": 199409,
       "word": "无畏溧水旅游推广大使",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1682824166,
       "rank": 37,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 194112,
+      "num": 194112,
+      "word": "淄博烧烤",
+      "onboard_time": 1682855488,
+      "rank": 31,
+      "category": "美食,旅游"
     },
     {
       "raw_hot": 193897,
@@ -1187,14 +1211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187959,
-      "num": 187959,
-      "word": "淄博烧烤",
-      "onboard_time": 1682855488,
-      "rank": 31,
-      "category": "美食,旅游"
-    },
-    {
       "raw_hot": 187135,
       "num": 187135,
       "word": "长月烬明逍遥宗招生啦",
@@ -1259,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178635,
+      "num": 178635,
+      "word": "三人合吃一份自助餐遭服务员劝阻",
+      "onboard_time": 1682857890,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 178162,
       "num": 178162,
       "word": "宋亚东vs西蒙",
@@ -1275,12 +1299,12 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 174418,
-      "num": 174418,
-      "word": "月收入四万是什么体验",
-      "onboard_time": 1682857466,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 176036,
+      "num": 176036,
+      "word": "偶然看到爸爸的手机后破防了",
+      "onboard_time": 1682856569,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 174125,
@@ -1291,20 +1315,20 @@
       "category": "艺人,社会新闻"
     },
     {
-      "raw_hot": 174097,
-      "num": 174097,
-      "word": "齐国善用美男计",
-      "onboard_time": 1682856388,
-      "rank": 35,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 172890,
       "num": 172890,
       "word": "人从众太酷啦还是太苦了",
       "onboard_time": 1682816966,
       "rank": 25,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 172362,
+      "num": 172362,
+      "word": "GW 咕咕鸡起飞",
+      "onboard_time": 1682858490,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 172049,
@@ -1659,20 +1683,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141525,
-      "num": 141525,
-      "word": "偶然看到爸爸的手机后破防了",
-      "onboard_time": 1682856569,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141148,
       "num": 141148,
       "word": "华晨宇演唱会老少情头",
       "onboard_time": 1682823148,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141120,
+      "num": 286007,
+      "word": "愿此行终抵群星",
+      "onboard_time": 1682856026,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 139489,
@@ -1713,14 +1737,6 @@
       "onboard_time": 1682821104,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 136454,
-      "num": 263554,
-      "word": "愿此行终抵群星",
-      "onboard_time": 1682856026,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 134848,
@@ -1856,6 +1872,14 @@
       "word": "Hero拿下TTG",
       "onboard_time": 1682779591,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 120063,
+      "num": 120063,
+      "word": "不可一世小落蒙恬",
+      "onboard_time": 1682858129,
+      "rank": 49,
       "category": "游戏"
     },
     {

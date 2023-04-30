@@ -1,0 +1,410 @@
+{
+  "runTime": 1682858764129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1424783,
+        "num": 1424783,
+        "word": "和豪门大佬网恋后我红了",
+        "onboard_time": 1682855067,
+        "rank": 0,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 761497,
+        "num": 761497,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1682779171,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33215,
+        "num": 673718,
+        "word": "卫星视角下的花开中国太美了",
+        "onboard_time": 1682839286,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882570,
+        "num": 673005,
+        "word": "淄博一快递员因限流不让进下跪大哭",
+        "onboard_time": 1682850807,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658035,
+        "num": 658035,
+        "word": "周杰伦问已经是第一名的人要怎么变",
+        "onboard_time": 1682842046,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539670,
+        "num": 539670,
+        "word": "王鹤棣杨超越 狐妖小红娘王权篇",
+        "onboard_time": 1682846126,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 502498,
+        "num": 502498,
+        "word": "淄博的公文水平杀疯了",
+        "onboard_time": 1682818888,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456613,
+        "num": 456613,
+        "word": "四川交警狂吼11次让一下",
+        "onboard_time": 1682856628,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397748,
+        "num": 397748,
+        "word": "丫丫暂住的上海动物园人气旺",
+        "onboard_time": 1682851169,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394346,
+        "num": 394346,
+        "word": "Jennie朴彩英确认出席Metgala",
+        "onboard_time": 1682844087,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1378919,
+        "num": 367235,
+        "word": "黄牛 你就说进没进去吧",
+        "onboard_time": 1682850927,
+        "rank": 10,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 665681,
+        "num": 350237,
+        "word": "伊能静回应和秦昊不互动",
+        "onboard_time": 1682844748,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332055,
+        "num": 332055,
+        "word": "狗 这病非看不可吗",
+        "onboard_time": 1682853026,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308054,
+        "num": 308054,
+        "word": "西直门三太子",
+        "onboard_time": 1682825366,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141120,
+        "num": 286007,
+        "word": "愿此行终抵群星",
+        "onboard_time": 1682856026,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273817,
+        "num": 273817,
+        "word": "李现宋祖儿或将合作昏嫁",
+        "onboard_time": 1682853510,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 272239,
+        "num": 272239,
+        "word": "吴青峰 咪豆",
+        "onboard_time": 1682852246,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271222,
+        "num": 271222,
+        "word": "聊天时最反感别人回复什么",
+        "onboard_time": 1682845347,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263397,
+        "num": 263397,
+        "word": "淄博一酒店涨价1.5倍被立案调查",
+        "onboard_time": 1682837245,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 261424,
+        "num": 261424,
+        "word": "张杰武汉演唱会",
+        "onboard_time": 1682857048,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 497428,
+        "num": 255358,
+        "word": "两位揭发史航性骚扰女孩发声",
+        "onboard_time": 1682844926,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 394143,
+        "num": 249037,
+        "word": "月收入四万是什么体验",
+        "onboard_time": 1682857466,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290910,
+        "num": 246466,
+        "word": "澹台烬黎苏苏终于相见",
+        "onboard_time": 1682851767,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240163,
+        "num": 240163,
+        "word": "烧烤界地位最高的荤菜是哪一种",
+        "onboard_time": 1682853449,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 234694,
+        "num": 234694,
+        "word": "马嘉祺假哭",
+        "onboard_time": 1682852607,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206026,
+        "num": 206026,
+        "word": "代号鸢",
+        "onboard_time": 1682853568,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204661,
+        "num": 204661,
+        "word": "齐国善用美男计",
+        "onboard_time": 1682856388,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 198508,
+        "num": 198508,
+        "word": "小舅子结婚姐夫拿18.8万随礼",
+        "onboard_time": 1682831006,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197518,
+        "num": 197518,
+        "word": "汤唯被骗经历被写进韩剧",
+        "onboard_time": 1682844388,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 194112,
+        "num": 194112,
+        "word": "淄博烧烤",
+        "onboard_time": 1682855488,
+        "rank": 29,
+        "category": "美食,旅游"
+      },
+      {
+        "raw_hot": 577033,
+        "num": 193935,
+        "word": "婚礼前一天被通知不需要伴娘",
+        "onboard_time": 1682857466,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193223,
+        "num": 193223,
+        "word": "五一档三部电影票房破亿了",
+        "onboard_time": 1682824166,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182979,
+        "num": 182979,
+        "word": "3名小学生发现笑气果断报警获奖励",
+        "onboard_time": 1682843488,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 178635,
+        "num": 178635,
+        "word": "三人合吃一份自助餐遭服务员劝阻",
+        "onboard_time": 1682857890,
+        "rank": 33,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 176036,
+        "num": 176036,
+        "word": "偶然看到爸爸的手机后破防了",
+        "onboard_time": 1682856569,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172921,
+        "num": 172921,
+        "word": "五一假期才第2天已经玩累了",
+        "onboard_time": 1682834006,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172362,
+        "num": 172362,
+        "word": "GW 咕咕鸡起飞",
+        "onboard_time": 1682858490,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169151,
+        "num": 169151,
+        "word": "七仔",
+        "onboard_time": 1682848168,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168667,
+        "num": 168667,
+        "word": "杨洋军艺同学会跳了当代舞",
+        "onboard_time": 1682845406,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169120,
+        "num": 167985,
+        "word": "谁给张婧仪安排的皮裤",
+        "onboard_time": 1682849127,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154580,
+        "num": 154580,
+        "word": "再也不敢不好好刷牙了",
+        "onboard_time": 1682855848,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154457,
+        "num": 154457,
+        "word": "内娱卷系歌手",
+        "onboard_time": 1682853267,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152387,
+        "num": 152387,
+        "word": "长月烬明",
+        "onboard_time": 1682849906,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 151968,
+        "num": 151968,
+        "word": "MBTI新题 你人格变了吗",
+        "onboard_time": 1682844327,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141566,
+        "num": 141566,
+        "word": "嫁给父母反对的人现在怎样了",
+        "onboard_time": 1682852426,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138290,
+        "num": 138290,
+        "word": "淄博烧烤最大的受害者",
+        "onboard_time": 1682836826,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133738,
+        "num": 133738,
+        "word": "星穹铁道",
+        "onboard_time": 1682855007,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129210,
+        "num": 129210,
+        "word": "蔡徐坤说要给妈妈买大衣",
+        "onboard_time": 1682852008,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123354,
+        "num": 123354,
+        "word": "抑郁症患者拳打护士反被安慰",
+        "onboard_time": 1682848223,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120063,
+        "num": 120063,
+        "word": "不可一世小落蒙恬",
+        "onboard_time": 1682858129,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国劳动群众致以节日祝贺#"
+    }
+  }
+}
