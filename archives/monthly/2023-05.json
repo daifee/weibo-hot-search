@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682892908031,
+  "endTime": 1682894011004,
   "band_list": [
     {
       "raw_hot": 1077776,
@@ -171,8 +171,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184255,
-      "num": 178282,
+      "raw_hot": 184640,
+      "num": 184640,
       "word": "两头婚可以减少夫妻矛盾吗",
       "onboard_time": 1682865932,
       "rank": 23,
@@ -243,6 +243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157752,
+      "num": 157752,
+      "word": "感谢辛弃疾治好了我的焦虑",
+      "onboard_time": 1682873062,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149488,
       "num": 149488,
       "word": "三人合吃一份自助餐遭服务员劝阻",
@@ -265,14 +273,6 @@
       "onboard_time": 1682874681,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139038,
-      "num": 139038,
-      "word": "感谢辛弃疾治好了我的焦虑",
-      "onboard_time": 1682873062,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 135127,
@@ -427,20 +427,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 80766,
+      "num": 80766,
+      "word": "游客说淄博给的安全感爆棚了",
+      "onboard_time": 1682876896,
+      "rank": 27,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 76011,
       "num": 103289,
       "word": "曼联vs阿斯顿维拉",
       "onboard_time": 1682871924,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71555,
-      "num": 71555,
-      "word": "游客说淄博给的安全感爆棚了",
-      "onboard_time": 1682876896,
-      "rank": 27,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 53686,
@@ -459,12 +459,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 49733,
+      "num": 49733,
+      "word": "黄圣依妈妈十五年国画缘",
+      "onboard_time": 1682884931,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 45612,
+      "num": 45612,
+      "word": "不办婚礼怎么收回礼金",
+      "onboard_time": 1682878216,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 45421,
+      "num": 45421,
+      "word": "这个家没有雪碧得散",
+      "onboard_time": 1682886614,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 43644,
       "num": 139379,
       "word": "90后航天小姐姐用抓娃娃解释月球采样",
       "onboard_time": 1682871684,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 41913,
+      "num": 41913,
+      "word": "英皇群星要把刘雅瑟吹到成团夜",
+      "onboard_time": 1682890933,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 38606,
@@ -475,52 +507,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 37869,
-      "num": 37869,
-      "word": "不办婚礼怎么收回礼金",
-      "onboard_time": 1682878216,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 37237,
-      "num": 37237,
-      "word": "这个家没有雪碧得散",
-      "onboard_time": 1682886614,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 35616,
-      "num": 35616,
-      "word": "黄圣依妈妈十五年国画缘",
-      "onboard_time": 1682884931,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 33298,
-      "num": 33298,
-      "word": "英皇群星要把刘雅瑟吹到成团夜",
-      "onboard_time": 1682890933,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 31174,
-      "num": 31174,
-      "word": "当地回应游客无保护措施攀爬悬崖",
-      "onboard_time": 1682887093,
-      "rank": 35,
-      "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 22886,
-      "num": 24591,
+      "raw_hot": 32926,
+      "num": 32926,
       "word": "你会在对方一无所有的时候结婚吗",
       "onboard_time": 1682890094,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31174,
+      "num": 32355,
+      "word": "当地回应游客无保护措施攀爬悬崖",
+      "onboard_time": 1682887093,
+      "rank": 35,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 7266,
