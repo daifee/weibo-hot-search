@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682832813538,
+  "endTime": 1682835664492,
   "band_list": [
     {
       "raw_hot": 2064706,
@@ -80,6 +80,14 @@
       "word": "海底捞一门店睡满人导致无法用餐",
       "onboard_time": 1682765909,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1092166,
+      "num": 1092166,
+      "word": "小舅子结婚姐夫拿18.8万随礼",
+      "onboard_time": 1682831006,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601721,
+      "num": 601721,
+      "word": "千万不要为了省钱花更多的钱",
+      "onboard_time": 1682832507,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 599173,
       "num": 481396,
       "word": "龚俊 韩国",
@@ -275,6 +291,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 418802,
+      "num": 418802,
+      "word": "澹台烬AI换脸润玉",
+      "onboard_time": 1682833285,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 412198,
       "num": 412198,
       "word": "外滩",
@@ -297,14 +321,6 @@
       "onboard_time": 1682813125,
       "rank": 15,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 388097,
-      "num": 253069,
-      "word": "小舅子结婚姐夫拿18.8万随礼",
-      "onboard_time": 1682831006,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385919,
@@ -363,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323321,
+      "num": 218900,
+      "word": "卡琳娜",
+      "onboard_time": 1682835205,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 321887,
       "num": 321887,
       "word": "最不成熟的行为 心情一好就原谅一切",
@@ -401,6 +425,14 @@
       "onboard_time": 1682817748,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 296696,
+      "num": 296696,
+      "word": "蔡文静坐行李箱滑行翻车",
+      "onboard_time": 1682831786,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294163,
@@ -499,14 +531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 246122,
-      "num": 246122,
-      "word": "蔡文静坐行李箱滑行翻车",
-      "onboard_time": 1682831786,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 243442,
       "num": 243442,
       "word": "警告日本不要被绑上分裂中国的战车",
@@ -569,6 +593,14 @@
       "onboard_time": 1682823446,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218929,
+      "num": 218929,
+      "word": "五一假期才第2天已经玩累了",
+      "onboard_time": 1682834006,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216419,
@@ -715,6 +747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185886,
+      "num": 185886,
+      "word": "赵小棠落泪镜头",
+      "onboard_time": 1682834604,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185183,
       "num": 185183,
       "word": "G社生图",
@@ -729,6 +769,14 @@
       "onboard_time": 1682823746,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182550,
+      "num": 182550,
+      "word": "沈月看了SEVENTEEN的团综",
+      "onboard_time": 1682832145,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 181897,
@@ -763,6 +811,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 174899,
+      "num": 174899,
+      "word": "高三女生替初二妹妹开家长会",
+      "onboard_time": 1682834906,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 174125,
       "num": 174125,
       "word": "火遍全国各地的组合成员发生车祸",
@@ -777,6 +833,14 @@
       "onboard_time": 1682816966,
       "rank": 25,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 171367,
+      "num": 171367,
+      "word": "粉丝在张杰评论区许愿",
+      "onboard_time": 1682832807,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 171229,
@@ -816,14 +880,6 @@
       "word": "看完后很想学习",
       "onboard_time": 1682821286,
       "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 163950,
-      "num": 163950,
-      "word": "千万不要为了省钱花更多的钱",
-      "onboard_time": 1682832507,
-      "rank": 33,
       "category": "幽默"
     },
     {
@@ -923,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152673,
+      "num": 152673,
+      "word": "犄角旮旯的淄博烧烤店被发现后",
+      "onboard_time": 1682832624,
+      "rank": 40,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 152254,
       "num": 152254,
       "word": "云襄传开襄明天见",
@@ -937,6 +1001,14 @@
       "onboard_time": 1682816246,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149428,
+      "num": 149428,
+      "word": "任贤齐南京青岛巡演官宣",
+      "onboard_time": 1682834665,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 148822,
@@ -995,12 +1067,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141489,
-      "num": 141489,
-      "word": "沈月看了SEVENTEEN的团综",
-      "onboard_time": 1682832145,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 143200,
+      "num": 143200,
+      "word": "田曦薇与路人合照",
+      "onboard_time": 1682832866,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141148,
@@ -1009,14 +1081,6 @@
       "onboard_time": 1682823148,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 139451,
-      "num": 139451,
-      "word": "犄角旮旯的淄博烧烤店被发现后",
-      "onboard_time": 1682832624,
-      "rank": 40,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 138127,
@@ -1099,6 +1163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124928,
+      "num": 124928,
+      "word": "淄博绿豆糕大爷",
+      "onboard_time": 1682835387,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122164,
       "num": 122164,
       "word": "王嘉尔说现在飞温哥华",
@@ -1169,14 +1241,6 @@
       "onboard_time": 1682795174,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111195,
-      "num": 111195,
-      "word": "粉丝在张杰评论区许愿",
-      "onboard_time": 1682832807,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 110913,
