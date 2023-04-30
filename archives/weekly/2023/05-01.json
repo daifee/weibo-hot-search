@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682871643535,
+  "endTime": 1682872560708,
   "band_list": [
     {
       "raw_hot": 1077776,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 740933,
-      "num": 311471,
+      "raw_hot": 743526,
+      "num": 314084,
       "word": "吴建豪在郑秀妍面前提少女时代成员",
       "onboard_time": 1682866892,
       "rank": 10,
@@ -59,7 +59,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 469498,
+      "raw_hot": 483282,
       "num": 297675,
       "word": "黄牛 你就说进没进去吧",
       "onboard_time": 1682850927,
@@ -73,6 +73,14 @@
       "onboard_time": 1682855067,
       "rank": 7,
       "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 404402,
+      "num": 277781,
+      "word": "柳州",
+      "onboard_time": 1682870787,
+      "rank": 18,
+      "category": "其它"
     },
     {
       "raw_hot": 383497,
@@ -171,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180802,
-      "num": 180802,
-      "word": "柳州",
-      "onboard_time": 1682870787,
-      "rank": 18,
-      "category": "其它"
-    },
-    {
       "raw_hot": 179058,
       "num": 179058,
       "word": "成毅没有房车的原因",
@@ -235,20 +235,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158726,
+      "num": 158726,
+      "word": "长沙YOLO",
+      "onboard_time": 1682867910,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149488,
       "num": 149488,
       "word": "三人合吃一份自助餐遭服务员劝阻",
       "onboard_time": 1682857890,
       "rank": 30,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 145808,
-      "num": 145808,
-      "word": "长沙YOLO",
-      "onboard_time": 1682867910,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 140867,
@@ -380,11 +380,43 @@
     },
     {
       "raw_hot": 94471,
-      "num": 94471,
+      "num": 103296,
       "word": "五月你好",
       "onboard_time": 1682866830,
       "rank": 49,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 86616,
+      "num": 103319,
+      "word": "谁给张婧仪安排的皮裤",
+      "onboard_time": 1682849127,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 83930,
+      "num": 103304,
+      "word": "傅菁重庆音乐会",
+      "onboard_time": 1682872222,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 76011,
+      "num": 103289,
+      "word": "曼联vs阿斯顿维拉",
+      "onboard_time": 1682871924,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40882,
+      "num": 139379,
+      "word": "90后航天小姐姐用抓娃娃解释月球采样",
+      "onboard_time": 1682871684,
+      "rank": 29,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 38606,
