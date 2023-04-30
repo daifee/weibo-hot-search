@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682865195351,
+  "endTime": 1682867791718,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -3243,6 +3243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1706535,
+      "num": 1706535,
+      "word": "女子为亡夫销户痛哭民警为其留户籍页",
+      "onboard_time": 1682860649,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1704505,
       "num": 828512,
       "word": "张杰女儿的奖励",
@@ -3961,14 +3969,6 @@
       "onboard_time": 1682412927,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1538612,
-      "num": 1538612,
-      "word": "女子为亡夫销户痛哭民警为其留户籍页",
-      "onboard_time": 1682860649,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1537599,
@@ -5505,6 +5505,14 @@
       "onboard_time": 1682775030,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1222164,
+      "num": 1222164,
+      "word": "王源爸妈不在的演唱会状态",
+      "onboard_time": 1682863709,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 1221257,
@@ -7321,6 +7329,14 @@
       "onboard_time": 1680752668,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 974217,
+      "num": 974217,
+      "word": "警方不建议前往大唐不夜城",
+      "onboard_time": 1682865150,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 973128,
@@ -9297,14 +9313,6 @@
       "onboard_time": 1681172909,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 818283,
-      "num": 818283,
-      "word": "王源爸妈不在的演唱会状态",
-      "onboard_time": 1682863709,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 816778,
@@ -11369,6 +11377,14 @@
       "onboard_time": 1681136490,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 689181,
+      "num": 558153,
+      "word": "吴建豪在郑秀妍面前提少女时代成员",
+      "onboard_time": 1682866892,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 688464,
@@ -20707,6 +20723,14 @@
       "category": "影视,动漫"
     },
     {
+      "raw_hot": 421221,
+      "num": 400978,
+      "word": "漫长的季节 王阳怎么死的",
+      "onboard_time": 1682862509,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421177,
       "num": 421177,
       "word": "罗云熙宋轶CP名金戈铁马",
@@ -23419,6 +23443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 379518,
+      "num": 379518,
+      "word": "广州圣心大教堂石碑碎了",
+      "onboard_time": 1682865334,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379511,
       "num": 379511,
       "word": "aespa回归曲是夏日风",
@@ -25187,14 +25219,6 @@
       "category": "艺人,影视"
     },
     {
-      "raw_hot": 351773,
-      "num": 351773,
-      "word": "漫长的季节 王阳怎么死的",
-      "onboard_time": 1682862509,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 351740,
       "num": 282989,
       "word": "蔡徐坤说要给妈妈买大衣",
@@ -26619,6 +26643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 331073,
+      "num": 331073,
+      "word": "淄博八大局登顶全国景区热门第1",
+      "onboard_time": 1682860410,
+      "rank": 34,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 330972,
       "num": 330972,
       "word": "奔跑吧",
@@ -27803,6 +27835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316436,
+      "num": 316436,
+      "word": "骆玉明 女生不要上文学的当",
+      "onboard_time": 1682863593,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 316429,
       "num": 316429,
       "word": "百想艺术大赏",
@@ -28345,14 +28385,6 @@
       "onboard_time": 1681617208,
       "rank": 19,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 310994,
-      "num": 310994,
-      "word": "淄博八大局登顶全国景区热门第1",
-      "onboard_time": 1682860410,
-      "rank": 34,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 310930,
@@ -30225,6 +30257,14 @@
       "onboard_time": 1682083229,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289011,
+      "num": 289011,
+      "word": "两头婚可以减少夫妻矛盾吗",
+      "onboard_time": 1682865932,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 288996,
@@ -33097,6 +33137,14 @@
       "onboard_time": 1682494888,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 260765,
+      "num": 260765,
+      "word": "久酷鲜奶",
+      "onboard_time": 1682866353,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 260709,
@@ -36739,6 +36787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 233507,
+      "num": 233507,
+      "word": "女子拍照时被小孩掀裙子摸大腿",
+      "onboard_time": 1682866711,
+      "rank": 31,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 233463,
       "num": 233463,
       "word": "高校回应学生停课等刘畊宏被放鸽子",
@@ -39267,14 +39323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217226,
-      "num": 217226,
-      "word": "骆玉明 女生不要上文学的当",
-      "onboard_time": 1682863593,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 217215,
       "num": 171514,
       "word": "宋雨琦喊李晨晨叔叔",
@@ -39665,6 +39713,14 @@
       "onboard_time": 1680305119,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215169,
+      "num": 215169,
+      "word": "薛之谦说常州太湖湾音乐节收工",
+      "onboard_time": 1682864611,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 215089,
@@ -40185,14 +40241,6 @@
       "onboard_time": 1681973069,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 212037,
-      "num": 212037,
-      "word": "薛之谦说常州太湖湾音乐节收工",
-      "onboard_time": 1682864611,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 212018,
@@ -41033,6 +41081,14 @@
       "onboard_time": 1681002686,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208413,
+      "num": 208413,
+      "word": "31岁给自己报了个小饭桌",
+      "onboard_time": 1682866593,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 208363,
@@ -51955,6 +52011,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174779,
+      "num": 174779,
+      "word": "尤长靖 大连音乐节",
+      "onboard_time": 1682866411,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174774,
       "num": 763906,
       "word": "大学老师课堂分享初恋经历",
@@ -57659,6 +57723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149693,
+      "num": 149693,
+      "word": "五月你好",
+      "onboard_time": 1682866830,
+      "rank": 44,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 149674,
       "num": 149674,
       "word": "两年比我一辈子经历都多",
@@ -58809,6 +58881,14 @@
       "onboard_time": 1681039465,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144931,
+      "num": 144931,
+      "word": "狼队战胜LGD",
+      "onboard_time": 1682865392,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 144921,
@@ -60353,6 +60433,14 @@
       "onboard_time": 1681525944,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137520,
+      "num": 137520,
+      "word": "影视剧男主人设天花板",
+      "onboard_time": 1682867369,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 137432,
@@ -64713,14 +64801,6 @@
       "onboard_time": 1680327869,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 111552,
-      "num": 127066,
-      "word": "警方不建议前往大唐不夜城",
-      "onboard_time": 1682865150,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111522,
