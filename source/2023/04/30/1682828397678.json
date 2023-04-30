@@ -1,0 +1,410 @@
+{
+  "runTime": 1682828397678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1736148,
+        "num": 1736148,
+        "word": "淄博的公文水平杀疯了",
+        "onboard_time": 1682818888,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237379,
+        "num": 1237379,
+        "word": "五一档三部电影票房破亿了",
+        "onboard_time": 1682824166,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 10813,
+        "num": 1126154,
+        "word": "这是卫星视角下的美丽中国",
+        "onboard_time": 1682772513,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1121596,
+        "num": 1121596,
+        "word": "西直门三太子",
+        "onboard_time": 1682825366,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 928396,
+        "num": 928396,
+        "word": "黄山景区回应游客在厕所过夜",
+        "onboard_time": 1682823148,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 758480,
+        "num": 758480,
+        "word": "人人人人人你人人人人人",
+        "onboard_time": 1682779171,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 720188,
+        "num": 720188,
+        "word": "收到爆剧邀请函的待播剧",
+        "onboard_time": 1682823625,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 632375,
+        "num": 632375,
+        "word": "萌兰",
+        "onboard_time": 1682822487,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429251,
+        "num": 429251,
+        "word": "最无用的节俭行为是什么",
+        "onboard_time": 1682825426,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 472117,
+        "num": 419446,
+        "word": "2乘客坐飞机万米高空撕扒打架",
+        "onboard_time": 1682822726,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1245487,
+        "num": 417222,
+        "word": "王源演唱会提词器 朋友圈背景图",
+        "onboard_time": 1682819306,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 746802,
+        "num": 410158,
+        "word": "泫雅接了黑色长发",
+        "onboard_time": 1682825968,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 399954,
+        "num": 399954,
+        "word": "漫长的季节碎尸案反转",
+        "onboard_time": 1682810602,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 318144,
+        "num": 318144,
+        "word": "费曼重阳了",
+        "onboard_time": 1682810060,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301643,
+        "num": 301643,
+        "word": "张凌赫四年前体重200多斤",
+        "onboard_time": 1682814747,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277368,
+        "num": 277368,
+        "word": "海底捞一门店睡满人导致无法用餐",
+        "onboard_time": 1682765909,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256031,
+        "num": 256031,
+        "word": "火车上被误会的特种兵",
+        "onboard_time": 1682827107,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250441,
+        "num": 250441,
+        "word": "洪崖洞",
+        "onboard_time": 1682777729,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 249331,
+        "num": 249331,
+        "word": "很烦人但不致命的慢性病",
+        "onboard_time": 1682818348,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248570,
+        "num": 248570,
+        "word": "徐佳莹 不会再生孩子了",
+        "onboard_time": 1682782829,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240819,
+        "num": 240819,
+        "word": "杜兰特",
+        "onboard_time": 1682824645,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204624,
+        "num": 204624,
+        "word": "极限挑战之继承者们",
+        "onboard_time": 1682824166,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202042,
+        "num": 202042,
+        "word": "时光2今夏开播",
+        "onboard_time": 1682827107,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200889,
+        "num": 200889,
+        "word": "长沙官方通报买4.6斤水果少一斤",
+        "onboard_time": 1682787261,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192541,
+        "num": 192541,
+        "word": "周也淡妆吊带裙",
+        "onboard_time": 1682820025,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190048,
+        "num": 190048,
+        "word": "黄景瑜白百何新片调查盗墓案",
+        "onboard_time": 1682827823,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185758,
+        "num": 185758,
+        "word": "今年的五一疯了吗",
+        "onboard_time": 1682737949,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174051,
+        "num": 174051,
+        "word": "见过睡相最丑的床搭子",
+        "onboard_time": 1682821286,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170562,
+        "num": 170562,
+        "word": "女子五一首日出游排队超11小时崩溃",
+        "onboard_time": 1682824166,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 166050,
+        "num": 166050,
+        "word": "娜扎复刻自己的名场面",
+        "onboard_time": 1682782711,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395972,
+        "num": 159865,
+        "word": "23天婴儿医院洗澡按摩后肠坏死",
+        "onboard_time": 1682827167,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175153,
+        "num": 159032,
+        "word": "当外国人看到自拍杆",
+        "onboard_time": 1682827107,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153061,
+        "num": 153061,
+        "word": "甘肃一副县长酒驾当场被查",
+        "onboard_time": 1682824886,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153029,
+        "num": 153029,
+        "word": "白鹿五月行程综艺录制",
+        "onboard_time": 1682826626,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152287,
+        "num": 152287,
+        "word": "张颂文看到已故经纪人照片泪目",
+        "onboard_time": 1682777791,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152254,
+        "num": 152254,
+        "word": "云襄传开襄明天见",
+        "onboard_time": 1682827406,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145872,
+        "num": 145872,
+        "word": "带上512G的胃吃遍乐山",
+        "onboard_time": 1682828247,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 144387,
+        "num": 144387,
+        "word": "新发现924例本土重点关注变异株",
+        "onboard_time": 1682818825,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142709,
+        "num": 142709,
+        "word": "肖战如梦之梦西安站的花墙",
+        "onboard_time": 1682827885,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134848,
+        "num": 134848,
+        "word": "重庆洪崖洞又现封路封桥宠游客",
+        "onboard_time": 1682826326,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 130039,
+        "num": 130039,
+        "word": "淄博副本",
+        "onboard_time": 1682813125,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 126811,
+        "num": 126811,
+        "word": "淄博八大局因客流大采取限流措施",
+        "onboard_time": 1682821046,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121704,
+        "num": 121704,
+        "word": "山东不仅有烧烤还有奇葩蔬菜",
+        "onboard_time": 1682824767,
+        "rank": 42,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 119734,
+        "num": 119734,
+        "word": "为什么不能打孩子屁股",
+        "onboard_time": 1682813125,
+        "rank": 43,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 116452,
+        "num": 116452,
+        "word": "惠州奔现后续",
+        "onboard_time": 1682814866,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113973,
+        "num": 113973,
+        "word": "为救女儿司机超载交警罚200后又捐200",
+        "onboard_time": 1682820207,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102547,
+        "num": 102547,
+        "word": "张杰说30号的加场继续给你惊喜",
+        "onboard_time": 1682819187,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96446,
+        "num": 96446,
+        "word": "56岁阿姨带一家8口卖炒饭创业",
+        "onboard_time": 1682819064,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 95802,
+        "num": 95802,
+        "word": "宁安如梦",
+        "onboard_time": 1682811322,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 94754,
+        "num": 94754,
+        "word": "王一博长空之王实时票房破2亿",
+        "onboard_time": 1682821286,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国生机勃勃#"
+    }
+  }
+}

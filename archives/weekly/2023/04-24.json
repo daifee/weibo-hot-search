@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682825629785,
+  "endTime": 1682828397678,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1243,11 +1243,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1245487,
+      "num": 1106161,
+      "word": "王源演唱会提词器 朋友圈背景图",
+      "onboard_time": 1682819306,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1244911,
       "num": 1244911,
       "word": "没认出来陈乔恩",
       "onboard_time": 1682320166,
       "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1237379,
+      "num": 1237379,
+      "word": "五一档三部电影票房破亿了",
+      "onboard_time": 1682824166,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -1419,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1121596,
+      "num": 1121596,
+      "word": "西直门三太子",
+      "onboard_time": 1682825366,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1113051,
       "num": 1113051,
       "word": "SEVENTEEN回归",
@@ -1433,14 +1457,6 @@
       "onboard_time": 1682518110,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1106161,
-      "num": 1106161,
-      "word": "王源演唱会提词器 朋友圈背景图",
-      "onboard_time": 1682819306,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1105553,
@@ -2139,6 +2155,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 746802,
+      "num": 410158,
+      "word": "泫雅接了黑色长发",
+      "onboard_time": 1682825968,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 746455,
       "num": 746455,
       "word": "蒋勤勤状态",
@@ -2171,20 +2195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 729223,
-      "num": 729223,
-      "word": "五一档三部电影票房破亿了",
-      "onboard_time": 1682824166,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 724703,
       "num": 724703,
       "word": "何炅晒与黄磊向往的生活海报",
       "onboard_time": 1682488467,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 720188,
+      "num": 720188,
+      "word": "收到爆剧邀请函的待播剧",
+      "onboard_time": 1682823625,
+      "rank": 9,
+      "category": "影视"
     },
     {
       "raw_hot": 719131,
@@ -2241,14 +2265,6 @@
       "onboard_time": 1682583146,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 694583,
-      "num": 694583,
-      "word": "收到爆剧邀请函的待播剧",
-      "onboard_time": 1682823625,
-      "rank": 9,
-      "category": "影视"
     },
     {
       "raw_hot": 692387,
@@ -4027,6 +4043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 429251,
+      "num": 429251,
+      "word": "最无用的节俭行为是什么",
+      "onboard_time": 1682825426,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 428958,
       "num": 428958,
       "word": "毛晓彤曾演过陈晓奶奶",
@@ -4457,6 +4481,14 @@
       "onboard_time": 1682600310,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 395972,
+      "num": 159865,
+      "word": "23天婴儿医院洗澡按摩后肠坏死",
+      "onboard_time": 1682827167,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395779,
@@ -7099,6 +7131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256031,
+      "num": 256031,
+      "word": "火车上被误会的特种兵",
+      "onboard_time": 1682827107,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 255856,
       "num": 255856,
       "word": "淄博快递员日发万斤炒饼一身烧烤味",
@@ -7657,6 +7697,14 @@
       "onboard_time": 1682392407,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240819,
+      "num": 240819,
+      "word": "杜兰特",
+      "onboard_time": 1682824645,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 240477,
@@ -8321,14 +8369,6 @@
       "onboard_time": 1682424866,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218474,
-      "num": 218474,
-      "word": "杜兰特",
-      "onboard_time": 1682824645,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 218309,
@@ -9081,6 +9121,14 @@
       "onboard_time": 1682305441,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 202042,
+      "num": 202042,
+      "word": "时光2今夏开播",
+      "onboard_time": 1682827107,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 202021,
@@ -9873,6 +9921,14 @@
       "onboard_time": 1682260180,
       "rank": 27,
       "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 190048,
+      "num": 190048,
+      "word": "黄景瑜白百何新片调查盗墓案",
+      "onboard_time": 1682827823,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 189864,
@@ -10753,6 +10809,14 @@
       "onboard_time": 1682477906,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175153,
+      "num": 159032,
+      "word": "当外国人看到自拍杆",
+      "onboard_time": 1682827107,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 175100,
@@ -11803,12 +11867,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 153061,
+      "num": 153061,
+      "word": "甘肃一副县长酒驾当场被查",
+      "onboard_time": 1682824886,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153030,
       "num": 153030,
       "word": "代号鸢",
       "onboard_time": 1682506708,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153029,
+      "num": 153029,
+      "word": "白鹿五月行程综艺录制",
+      "onboard_time": 1682826626,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 152997,
@@ -11824,6 +11904,14 @@
       "word": "破事精英",
       "onboard_time": 1682774731,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 152254,
+      "num": 152254,
+      "word": "云襄传开襄明天见",
+      "onboard_time": 1682827406,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -12203,6 +12291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145872,
+      "num": 145872,
+      "word": "带上512G的胃吃遍乐山",
+      "onboard_time": 1682828247,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 145857,
       "num": 145857,
       "word": "接返苏丹撤离同胞的临时航班抵达北京",
@@ -12289,14 +12385,6 @@
       "onboard_time": 1682784268,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144856,
-      "num": 144856,
-      "word": "西直门三太子",
-      "onboard_time": 1682825366,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144828,
@@ -12419,6 +12507,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 142709,
+      "num": 142709,
+      "word": "肖战如梦之梦西安站的花墙",
+      "onboard_time": 1682827885,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 142702,
       "num": 142702,
       "word": "AI鬼城",
@@ -12449,14 +12545,6 @@
       "onboard_time": 1682496748,
       "rank": 36,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 142434,
-      "num": 142434,
-      "word": "甘肃一副县长酒驾当场被查",
-      "onboard_time": 1682824886,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142300,
@@ -12739,14 +12827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135513,
-      "num": 135513,
-      "word": "最无用的节俭行为是什么",
-      "onboard_time": 1682825426,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135433,
       "num": 135433,
       "word": "第16个全国疟疾日",
@@ -12785,6 +12865,14 @@
       "onboard_time": 1682422108,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134848,
+      "num": 134848,
+      "word": "重庆洪崖洞又现封路封桥宠游客",
+      "onboard_time": 1682826326,
+      "rank": 39,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 134626,

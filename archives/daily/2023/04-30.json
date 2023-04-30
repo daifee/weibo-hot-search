@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682825629785,
+  "endTime": 1682828397678,
   "band_list": [
     {
       "raw_hot": 2064706,
@@ -51,20 +51,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1245487,
+      "num": 1106161,
+      "word": "王源演唱会提词器 朋友圈背景图",
+      "onboard_time": 1682819306,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1237379,
+      "num": 1237379,
+      "word": "五一档三部电影票房破亿了",
+      "onboard_time": 1682824166,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1121596,
+      "num": 1121596,
+      "word": "西直门三太子",
+      "onboard_time": 1682825366,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1119278,
       "num": 1119278,
       "word": "海底捞一门店睡满人导致无法用餐",
       "onboard_time": 1682765909,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1106161,
-      "num": 1106161,
-      "word": "王源演唱会提词器 朋友圈背景图",
-      "onboard_time": 1682819306,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1090598,
@@ -147,16 +163,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 729223,
-      "num": 729223,
-      "word": "五一档三部电影票房破亿了",
-      "onboard_time": 1682824166,
-      "rank": 32,
-      "category": "影视"
+      "raw_hot": 746802,
+      "num": 410158,
+      "word": "泫雅接了黑色长发",
+      "onboard_time": 1682825968,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 694583,
-      "num": 694583,
+      "raw_hot": 720188,
+      "num": 720188,
       "word": "收到爆剧邀请函的待播剧",
       "onboard_time": 1682823625,
       "rank": 9,
@@ -235,6 +251,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 429251,
+      "num": 429251,
+      "word": "最无用的节俭行为是什么",
+      "onboard_time": 1682825426,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 412198,
       "num": 412198,
       "word": "外滩",
@@ -257,6 +281,14 @@
       "onboard_time": 1682813125,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 395972,
+      "num": 159865,
+      "word": "23天婴儿医院洗澡按摩后肠坏死",
+      "onboard_time": 1682827167,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384588,
@@ -371,6 +403,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 256031,
+      "num": 256031,
+      "word": "火车上被误会的特种兵",
+      "onboard_time": 1682827107,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248621,
       "num": 248621,
       "word": "期待丫丫成为阳光开朗大女孩",
@@ -385,6 +425,14 @@
       "onboard_time": 1682816486,
       "rank": 21,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 240819,
+      "num": 240819,
+      "word": "杜兰特",
+      "onboard_time": 1682824645,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 233444,
@@ -435,14 +483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 218474,
-      "num": 218474,
-      "word": "杜兰特",
-      "onboard_time": 1682824645,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216419,
       "num": 216419,
       "word": "王一博长空之王实时票房破2亿",
@@ -475,6 +515,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 202042,
+      "num": 202042,
+      "word": "时光2今夏开播",
+      "onboard_time": 1682827107,
+      "rank": 22,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201379,
       "num": 201379,
       "word": "秦霄贤孙珍妮好嗑",
@@ -505,6 +553,14 @@
       "onboard_time": 1682824767,
       "rank": 27,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 190048,
+      "num": 190048,
+      "word": "黄景瑜白百何新片调查盗墓案",
+      "onboard_time": 1682827823,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 189129,
@@ -561,6 +617,14 @@
       "onboard_time": 1682820567,
       "rank": 30,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 175153,
+      "num": 159032,
+      "word": "当外国人看到自拍杆",
+      "onboard_time": 1682827107,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 174125,
@@ -683,6 +747,30 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 153061,
+      "num": 153061,
+      "word": "甘肃一副县长酒驾当场被查",
+      "onboard_time": 1682824886,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153029,
+      "num": 153029,
+      "word": "白鹿五月行程综艺录制",
+      "onboard_time": 1682826626,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152254,
+      "num": 152254,
+      "word": "云襄传开襄明天见",
+      "onboard_time": 1682827406,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149697,
       "num": 149697,
       "word": "文彬去世后车银优首次活动",
@@ -707,20 +795,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 145872,
+      "num": 145872,
+      "word": "带上512G的胃吃遍乐山",
+      "onboard_time": 1682828247,
+      "rank": 36,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 145094,
       "num": 145094,
       "word": "斯诺克",
       "onboard_time": 1682784268,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144856,
-      "num": 144856,
-      "word": "西直门三太子",
-      "onboard_time": 1682825366,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144372,
@@ -739,12 +827,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142434,
-      "num": 142434,
-      "word": "甘肃一副县长酒驾当场被查",
-      "onboard_time": 1682824886,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 142709,
+      "num": 142709,
+      "word": "肖战如梦之梦西安站的花墙",
+      "onboard_time": 1682827885,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 141148,
@@ -779,12 +867,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 135513,
-      "num": 135513,
-      "word": "最无用的节俭行为是什么",
-      "onboard_time": 1682825426,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 134848,
+      "num": 134848,
+      "word": "重庆洪崖洞又现封路封桥宠游客",
+      "onboard_time": 1682826326,
+      "rank": 39,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 131943,
@@ -1140,7 +1228,7 @@
     },
     {
       "raw_hot": 47646,
-      "num": 1016845,
+      "num": 1126154,
       "word": "这是卫星视角下的美丽中国",
       "onboard_time": 1682772513,
       "rank": 2,
