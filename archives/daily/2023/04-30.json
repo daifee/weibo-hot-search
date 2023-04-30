@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682849831120,
+  "endTime": 1682850817559,
   "band_list": [
     {
       "raw_hot": 2373096,
@@ -17,6 +17,14 @@
       "onboard_time": 1682818888,
       "rank": 18,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 1974324,
+      "num": 505420,
+      "word": "坠楼",
+      "onboard_time": 1682849004,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1910171,
@@ -363,14 +371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 484972,
-      "num": 484972,
-      "word": "坠楼",
-      "onboard_time": 1682849004,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 468911,
       "num": 468911,
       "word": "聊天时最反感别人回复什么",
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463480,
+      "num": 1203675,
+      "word": "3名小学生发现笑气果断报警获奖励",
+      "onboard_time": 1682843488,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 451421,
       "num": 451421,
       "word": "为什么不能打孩子屁股",
@@ -401,14 +409,6 @@
       "onboard_time": 1682845406,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 442430,
-      "num": 1203675,
-      "word": "3名小学生发现笑气果断报警获奖励",
-      "onboard_time": 1682843488,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 441770,
@@ -440,6 +440,14 @@
       "word": "五一假期才第2天已经玩累了",
       "onboard_time": 1682834006,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408593,
+      "num": 408593,
+      "word": "七仔",
+      "onboard_time": 1682848168,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -475,14 +483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379234,
-      "num": 379234,
-      "word": "七仔",
-      "onboard_time": 1682848168,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356324,
       "num": 356324,
       "word": "张凌赫四年前体重200多斤",
@@ -497,6 +497,14 @@
       "onboard_time": 1682828906,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 351075,
+      "num": 949105,
+      "word": "抑郁症患者拳打护士反被安慰",
+      "onboard_time": 1682848223,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347300,
@@ -555,14 +563,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 306333,
-      "num": 949105,
-      "word": "抑郁症患者拳打护士反被安慰",
-      "onboard_time": 1682848223,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 304684,
       "num": 186686,
       "word": "今朝有酒今朝醉 人生乱套我睡觉",
@@ -609,6 +609,14 @@
       "onboard_time": 1682780071,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281769,
+      "num": 281769,
+      "word": "谁给张婧仪安排的皮裤",
+      "onboard_time": 1682849127,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 278592,
@@ -721,6 +729,14 @@
       "onboard_time": 1682834906,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 247495,
+      "num": 247495,
+      "word": "长月烬明",
+      "onboard_time": 1682849906,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 247328,
@@ -904,14 +920,6 @@
       "word": "长空之王",
       "onboard_time": 1682763265,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 204993,
-      "num": 204993,
-      "word": "谁给张婧仪安排的皮裤",
-      "onboard_time": 1682849127,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -1179,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163851,
+      "num": 163851,
+      "word": "游客为看花花排队2小时看3分钟",
+      "onboard_time": 1682847687,
+      "rank": 37,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 162101,
       "num": 162101,
       "word": "姚琛这舞蹈啧啧啧",
@@ -1411,14 +1427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144125,
-      "num": 144125,
-      "word": "游客为看花花排队2小时看3分钟",
-      "onboard_time": 1682847687,
-      "rank": 37,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 144112,
       "num": 144112,
       "word": "孙红雷用张杰的方法哄谢娜",
@@ -1531,6 +1539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127730,
+      "num": 831362,
+      "word": "西安警花鼓楼套路式普法",
+      "onboard_time": 1682847327,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126832,
       "num": 126832,
       "word": "太阳篮板",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1682836168,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 125589,
+      "num": 125589,
+      "word": "女子吐槽导航堵紫了",
+      "onboard_time": 1682850209,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125440,
@@ -1611,20 +1635,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116756,
-      "num": 831362,
-      "word": "西安警花鼓楼套路式普法",
-      "onboard_time": 1682847327,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115987,
       "num": 115987,
       "word": "哪个角色让你入坑郑业成",
       "onboard_time": 1682828487,
       "rank": 43,
       "category": "影视"
+    },
+    {
+      "raw_hot": 115848,
+      "num": 115848,
+      "word": "seventeen人歌回归舞台",
+      "onboard_time": 1682847985,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115718,
@@ -1643,12 +1667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115263,
-      "num": 115263,
-      "word": "seventeen人歌回归舞台",
-      "onboard_time": 1682847985,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 115616,
+      "num": 115616,
+      "word": "华晨宇成都特种兵派对",
+      "onboard_time": 1682850265,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 115116,
@@ -1715,6 +1739,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 109259,
+      "num": 109259,
+      "word": "上海海港对阵上海申花",
+      "onboard_time": 1682850624,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108652,
       "num": 108652,
       "word": "张杰唱了歌迷许愿的辞海",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1682841266,
       "rank": 45,
       "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 105870,
+      "num": 105870,
+      "word": "淄博一快递员因限流不让进下跪大哭",
+      "onboard_time": 1682850807,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105227,
@@ -1769,6 +1809,14 @@
       "onboard_time": 1682842286,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 104171,
+      "num": 453062,
+      "word": "趁着五一去旅行",
+      "onboard_time": 1682848825,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 103980,
@@ -1937,14 +1985,6 @@
       "onboard_time": 1682839286,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71816,
-      "num": 453062,
-      "word": "趁着五一去旅行",
-      "onboard_time": 1682848825,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 64537,

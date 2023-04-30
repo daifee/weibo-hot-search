@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682849831120,
+  "endTime": 1682850817559,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -569,6 +569,14 @@
       "onboard_time": 1682340868,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1974324,
+      "num": 505420,
+      "word": "坠楼",
+      "onboard_time": 1682849004,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1968168,
@@ -3507,14 +3515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 484972,
-      "num": 484972,
-      "word": "坠楼",
-      "onboard_time": 1682849004,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 484727,
       "num": 484727,
       "word": "高叶甜美风古装",
@@ -3787,6 +3787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463480,
+      "num": 1203675,
+      "word": "3名小学生发现笑气果断报警获奖励",
+      "onboard_time": 1682843488,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 463406,
       "num": 463406,
       "word": "职校男生1天被霸凌2次后坠亡",
@@ -4033,14 +4041,6 @@
       "onboard_time": 1682553025,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 442430,
-      "num": 1203675,
-      "word": "3名小学生发现笑气果断报警获奖励",
-      "onboard_time": 1682843488,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 442307,
@@ -4507,6 +4507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 408593,
+      "num": 408593,
+      "word": "七仔",
+      "onboard_time": 1682848168,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407713,
       "num": 369961,
       "word": "放在整个差评界也是炸裂的",
@@ -4915,14 +4923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379234,
-      "num": 379234,
-      "word": "七仔",
-      "onboard_time": 1682848168,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379183,
       "num": 379183,
       "word": "中国男篮",
@@ -5305,6 +5305,14 @@
       "onboard_time": 1682471909,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 351075,
+      "num": 949105,
+      "word": "抑郁症患者拳打护士反被安慰",
+      "onboard_time": 1682848223,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 350849,
@@ -6131,14 +6139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306333,
-      "num": 949105,
-      "word": "抑郁症患者拳打护士反被安慰",
-      "onboard_time": 1682848223,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306152,
       "num": 306152,
       "word": "WB巅峰对决DRG",
@@ -6625,6 +6625,14 @@
       "onboard_time": 1682329227,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 281769,
+      "num": 281769,
+      "word": "谁给张婧仪安排的皮裤",
+      "onboard_time": 1682849127,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 281476,
@@ -9339,14 +9347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204993,
-      "num": 204993,
-      "word": "谁给张婧仪安排的皮裤",
-      "onboard_time": 1682849127,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204869,
       "num": 204869,
       "word": "不动产统一登记",
@@ -11771,6 +11771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163851,
+      "num": 163851,
+      "word": "游客为看花花排队2小时看3分钟",
+      "onboard_time": 1682847687,
+      "rank": 37,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 163770,
       "num": 163770,
       "word": "终于看懂了长月烬明",
@@ -13027,14 +13035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144125,
-      "num": 144125,
-      "word": "游客为看花花排队2小时看3分钟",
-      "onboard_time": 1682847687,
-      "rank": 37,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 144112,
       "num": 144112,
       "word": "孙红雷用张杰的方法哄谢娜",
@@ -13771,6 +13771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127730,
+      "num": 831362,
+      "word": "西安警花鼓楼套路式普法",
+      "onboard_time": 1682847327,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127521,
       "num": 127521,
       "word": "SEVENTEEN出差十五夜预告",
@@ -13880,6 +13888,14 @@
       "word": "丫丫的回国航线",
       "onboard_time": 1682560766,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125589,
+      "num": 125589,
+      "word": "女子吐槽导航堵紫了",
+      "onboard_time": 1682850209,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -14227,14 +14243,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 116756,
-      "num": 831362,
-      "word": "西安警花鼓楼套路式普法",
-      "onboard_time": 1682847327,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116699,
       "num": 116699,
       "word": "女子登山崴脚被巡山小妖抬下山",
@@ -14267,6 +14275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 115848,
+      "num": 115848,
+      "word": "seventeen人歌回归舞台",
+      "onboard_time": 1682847985,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115705,
       "num": 115705,
       "word": "苏醒种地后真香了",
@@ -14283,12 +14299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115263,
-      "num": 115263,
-      "word": "seventeen人歌回归舞台",
-      "onboard_time": 1682847985,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 115616,
+      "num": 115616,
+      "word": "华晨宇成都特种兵派对",
+      "onboard_time": 1682850265,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 115116,
@@ -14507,6 +14523,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 109259,
+      "num": 109259,
+      "word": "上海海港对阵上海申花",
+      "onboard_time": 1682850624,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108935,
       "num": 108935,
       "word": "电影长空之王",
@@ -14635,6 +14659,14 @@
       "category": "艺人,影视"
     },
     {
+      "raw_hot": 105870,
+      "num": 105870,
+      "word": "淄博一快递员因限流不让进下跪大哭",
+      "onboard_time": 1682850807,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105842,
       "num": 105842,
       "word": "警惕做情绪垃圾桶",
@@ -14745,6 +14777,14 @@
       "onboard_time": 1682559806,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104171,
+      "num": 453062,
+      "word": "趁着五一去旅行",
+      "onboard_time": 1682848825,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 103980,
@@ -15305,14 +15345,6 @@
       "onboard_time": 1682679989,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71816,
-      "num": 453062,
-      "word": "趁着五一去旅行",
-      "onboard_time": 1682848825,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 71772,
