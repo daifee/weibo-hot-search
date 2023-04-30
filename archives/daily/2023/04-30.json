@@ -1,7 +1,15 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682850817559,
+  "endTime": 1682853200065,
   "band_list": [
+    {
+      "raw_hot": 2593446,
+      "num": 505420,
+      "word": "坠楼",
+      "onboard_time": 1682849004,
+      "rank": 12,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2373096,
       "num": 2373096,
@@ -17,14 +25,6 @@
       "onboard_time": 1682818888,
       "rank": 18,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 1974324,
-      "num": 505420,
-      "word": "坠楼",
-      "onboard_time": 1682849004,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1910171,
@@ -129,6 +129,14 @@
       "onboard_time": 1682824166,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1183230,
+      "num": 442943,
+      "word": "黄牛 你就说进没进去吧",
+      "onboard_time": 1682850927,
+      "rank": 11,
+      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 1119278,
@@ -241,6 +249,14 @@
       "onboard_time": 1682823625,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 801607,
+      "num": 801607,
+      "word": "淄博一快递员因限流不让进下跪大哭",
+      "onboard_time": 1682850807,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 792204,
@@ -371,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 500008,
+      "num": 500008,
+      "word": "七仔",
+      "onboard_time": 1682848168,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468911,
       "num": 468911,
       "word": "聊天时最反感别人回复什么",
@@ -443,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 408593,
-      "num": 408593,
-      "word": "七仔",
-      "onboard_time": 1682848168,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 398758,
       "num": 398758,
       "word": "谷爱凌发的图vsAngelababy发的图",
@@ -475,6 +491,14 @@
       "category": "幽默,时尚"
     },
     {
+      "raw_hot": 385508,
+      "num": 385508,
+      "word": "丫丫暂住的上海动物园人气旺",
+      "onboard_time": 1682851169,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384588,
       "num": 384588,
       "word": "女子2800元招育儿嫂雇到了幼师",
@@ -497,6 +521,14 @@
       "onboard_time": 1682828906,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 351740,
+      "num": 282989,
+      "word": "蔡徐坤说要给妈妈买大衣",
+      "onboard_time": 1682852008,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 351075,
@@ -603,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290143,
+      "num": 211170,
+      "word": "Hero认养白虎一周年",
+      "onboard_time": 1682852607,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284462,
       "num": 284462,
       "word": "心疼清清",
@@ -683,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255115,
+      "num": 255115,
+      "word": "澹台烬黎苏苏终于相见",
+      "onboard_time": 1682851767,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 255096,
       "num": 255096,
       "word": "杜兰特",
@@ -697,6 +745,14 @@
       "onboard_time": 1682836766,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249091,
+      "num": 247495,
+      "word": "长月烬明",
+      "onboard_time": 1682849906,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 248621,
@@ -729,14 +785,6 @@
       "onboard_time": 1682834906,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 247495,
-      "num": 247495,
-      "word": "长月烬明",
-      "onboard_time": 1682849906,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 247328,
@@ -843,6 +891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 219109,
+      "num": 219109,
+      "word": "ACT 五五开",
+      "onboard_time": 1682852008,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216821,
       "num": 206720,
       "word": "华晨宇成都演唱会人气",
@@ -899,6 +955,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 212246,
+      "num": 212246,
+      "word": "马嘉祺假哭",
+      "onboard_time": 1682852607,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212225,
       "num": 212225,
       "word": "相亲相出了面试的感觉",
@@ -921,6 +985,14 @@
       "onboard_time": 1682763265,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 207087,
+      "num": 207087,
+      "word": "吴青峰 咪豆",
+      "onboard_time": 1682852246,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 204045,
@@ -1091,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 180765,
+      "num": 180765,
+      "word": "安宥真逗号刘海造型",
+      "onboard_time": 1682852486,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178162,
       "num": 178162,
       "word": "宋亚东vs西蒙",
@@ -1187,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165280,
+      "num": 165280,
+      "word": "嫁给父母反对的人现在怎样了",
+      "onboard_time": 1682852426,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163851,
       "num": 163851,
       "word": "游客为看花花排队2小时看3分钟",
@@ -1275,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157427,
+      "num": 157427,
+      "word": "重庆一大桥桥墩起火有人受伤",
+      "onboard_time": 1682851408,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157422,
       "num": 157422,
       "word": "犄角旮旯的淄博烧烤店被发现后",
@@ -1339,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150418,
+      "num": 150418,
+      "word": "女子吐槽导航堵紫了",
+      "onboard_time": 1682850209,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149697,
       "num": 149697,
       "word": "文彬去世后车银优首次活动",
@@ -1369,6 +1473,14 @@
       "onboard_time": 1682832866,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146598,
+      "num": 831362,
+      "word": "西安警花鼓楼套路式普法",
+      "onboard_time": 1682847327,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146595,
@@ -1539,14 +1651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 127730,
-      "num": 831362,
-      "word": "西安警花鼓楼套路式普法",
-      "onboard_time": 1682847327,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126832,
       "num": 126832,
       "word": "太阳篮板",
@@ -1563,14 +1667,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 125589,
-      "num": 125589,
-      "word": "女子吐槽导航堵紫了",
-      "onboard_time": 1682850209,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125440,
       "num": 125440,
       "word": "五一假期首日市民冒雨探望丫丫",
@@ -1584,6 +1680,14 @@
       "word": "包场",
       "onboard_time": 1682776590,
       "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 125228,
+      "num": 125228,
+      "word": "王一博谈雷宇再飞一次的选择",
+      "onboard_time": 1682852127,
+      "rank": 42,
       "category": "影视"
     },
     {
@@ -1755,6 +1859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108273,
+      "num": 108273,
+      "word": "狗 这病非看不可吗",
+      "onboard_time": 1682853026,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107380,
       "num": 107380,
       "word": "张杰主打一个陪伴",
@@ -1769,14 +1881,6 @@
       "onboard_time": 1682841266,
       "rank": 45,
       "category": "艺人,影视"
-    },
-    {
-      "raw_hot": 105870,
-      "num": 105870,
-      "word": "淄博一快递员因限流不让进下跪大哭",
-      "onboard_time": 1682850807,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105227,
@@ -1841,6 +1945,14 @@
       "onboard_time": 1682845646,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 98923,
+      "num": 98923,
+      "word": "旅游大军已抵达重庆",
+      "onboard_time": 1682853092,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 97557,
