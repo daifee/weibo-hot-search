@@ -1,6 +1,6 @@
 {
   "startTime": 1680279702846,
-  "endTime": 1682853200065,
+  "endTime": 1682854414373,
   "band_list": [
     {
       "raw_hot": 16876763,
@@ -5299,6 +5299,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1253268,
+      "num": 442943,
+      "word": "黄牛 你就说进没进去吧",
+      "onboard_time": 1682850927,
+      "rank": 11,
+      "category": "幽默,作品衍生"
+    },
+    {
       "raw_hot": 1251415,
       "num": 1251415,
       "word": "建议下班回家后马上洗漱",
@@ -5721,14 +5729,6 @@
       "onboard_time": 1682139925,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1183230,
-      "num": 442943,
-      "word": "黄牛 你就说进没进去吧",
-      "onboard_time": 1682850927,
-      "rank": 11,
-      "category": "幽默,作品衍生"
     },
     {
       "raw_hot": 1182705,
@@ -6585,6 +6585,14 @@
       "onboard_time": 1681198047,
       "rank": 45,
       "category": "社会新闻,国外要闻"
+    },
+    {
+      "raw_hot": 1057727,
+      "num": 1057727,
+      "word": "淄博一快递员因限流不让进下跪大哭",
+      "onboard_time": 1682850807,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1055081,
@@ -9481,14 +9489,6 @@
       "onboard_time": 1682306667,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 801607,
-      "num": 801607,
-      "word": "淄博一快递员因限流不让进下跪大哭",
-      "onboard_time": 1682850807,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 801490,
@@ -18771,6 +18771,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 456639,
+      "num": 456639,
+      "word": "丫丫暂住的上海动物园人气旺",
+      "onboard_time": 1682851169,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456550,
       "num": 423901,
       "word": "柳智敏金发首舞台",
@@ -22339,6 +22347,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 395008,
+      "num": 395008,
+      "word": "吴青峰 咪豆",
+      "onboard_time": 1682852246,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 394998,
       "num": 256487,
       "word": "黎苏苏留给澹台烬的最后一句话",
@@ -22969,14 +22985,6 @@
       "onboard_time": 1682158528,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 385508,
-      "num": 385508,
-      "word": "丫丫暂住的上海动物园人气旺",
-      "onboard_time": 1682851169,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385455,
@@ -27987,6 +27995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313706,
+      "num": 287802,
+      "word": "澹台烬黎苏苏终于相见",
+      "onboard_time": 1682851767,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 313626,
       "num": 313626,
       "word": "TTG对战Hero",
@@ -29779,6 +29795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 291554,
+      "num": 197863,
+      "word": "狗 这病非看不可吗",
+      "onboard_time": 1682853026,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291542,
       "num": 291542,
       "word": "天秤座藏起来的一面",
@@ -30083,6 +30107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288941,
+      "num": 288941,
+      "word": "李现宋祖儿或将合作昏嫁",
+      "onboard_time": 1682853510,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288905,
       "num": 288905,
       "word": "不见上仙三百年",
@@ -30217,6 +30249,14 @@
       "onboard_time": 1682584469,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 287755,
+      "num": 287755,
+      "word": "马嘉祺假哭",
+      "onboard_time": 1682852607,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 287744,
@@ -33611,14 +33651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255115,
-      "num": 255115,
-      "word": "澹台烬黎苏苏终于相见",
-      "onboard_time": 1682851767,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 255096,
       "num": 255096,
       "word": "杜兰特",
@@ -36593,6 +36625,14 @@
       "onboard_time": 1682256992,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 232636,
+      "num": 232636,
+      "word": "嫁给父母反对的人现在怎样了",
+      "onboard_time": 1682852426,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 232596,
@@ -39923,14 +39963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 212246,
-      "num": 212246,
-      "word": "马嘉祺假哭",
-      "onboard_time": 1682852607,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212225,
       "num": 212225,
       "word": "相亲相出了面试的感觉",
@@ -41177,14 +41209,6 @@
       "onboard_time": 1681096709,
       "rank": 33,
       "category": "影视"
-    },
-    {
-      "raw_hot": 207087,
-      "num": 207087,
-      "word": "吴青峰 咪豆",
-      "onboard_time": 1682852246,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 207086,
@@ -53715,14 +53739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165280,
-      "num": 165280,
-      "word": "嫁给父母反对的人现在怎样了",
-      "onboard_time": 1682852426,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165265,
       "num": 165265,
       "word": "被短片柜子惊艳到了",
@@ -56457,6 +56473,14 @@
       "onboard_time": 1680325652,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 153419,
+      "num": 153419,
+      "word": "烧烤界地位最高的荤菜是哪一种",
+      "onboard_time": 1682853449,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 153253,
@@ -59675,6 +59699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139369,
+      "num": 139369,
+      "word": "内娱卷系歌手",
+      "onboard_time": 1682853267,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139333,
       "num": 139333,
       "word": "深圳DYG",
@@ -60715,6 +60747,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 133970,
+      "num": 133970,
+      "word": "陈明昊说打大爷很解气",
+      "onboard_time": 1682854048,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133936,
       "num": 177600,
       "word": "小学生好像真的读懂了史铁生",
@@ -60961,6 +61001,14 @@
       "onboard_time": 1680310886,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132724,
+      "num": 132724,
+      "word": "旅游大军已抵达重庆",
+      "onboard_time": 1682853092,
+      "rank": 47,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 132706,
@@ -64771,14 +64819,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 108273,
-      "num": 108273,
-      "word": "狗 这病非看不可吗",
-      "onboard_time": 1682853026,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 108245,
       "num": 110282,
       "word": "DRG对战RW",
@@ -65321,6 +65361,14 @@
       "onboard_time": 1682842286,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 104205,
+      "num": 104205,
+      "word": "长空之王中的张挺四次拒绝跳伞",
+      "onboard_time": 1682854289,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 104181,
@@ -66017,14 +66065,6 @@
       "onboard_time": 1680917486,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 98923,
-      "num": 98923,
-      "word": "旅游大军已抵达重庆",
-      "onboard_time": 1682853092,
-      "rank": 47,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 98862,
