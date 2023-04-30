@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682846111448,
+  "endTime": 1682847211614,
   "band_list": [
     {
       "raw_hot": 2373096,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1633448,
+      "num": 1633448,
+      "word": "两位揭发史航性骚扰女孩发声",
+      "onboard_time": 1682844926,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1600943,
       "num": 1600943,
       "word": "卡琳娜",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1339955,
-      "num": 441190,
+      "num": 474091,
       "word": "伊能静回应和秦昊不互动",
       "onboard_time": 1682844748,
       "rank": 10,
@@ -120,14 +128,6 @@
       "word": "海底捞一门店睡满人导致无法用餐",
       "onboard_time": 1682765909,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1103066,
-      "num": 1103066,
-      "word": "两位揭发史航性骚扰女孩发声",
-      "onboard_time": 1682844926,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 569206,
+      "num": 569206,
+      "word": "Jennie朴彩英确认出席Metgala",
+      "onboard_time": 1682844087,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 538465,
       "num": 538465,
       "word": "2乘客坐飞机万米高空撕扒打架",
@@ -347,14 +355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 497270,
-      "num": 497270,
-      "word": "Jennie朴彩英确认出席Metgala",
-      "onboard_time": 1682844087,
-      "rank": 9,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 465015,
       "num": 465015,
       "word": "新发现924例本土重点关注变异株",
@@ -379,6 +379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 419003,
+      "num": 419003,
+      "word": "杨洋军艺同学会跳了当代舞",
+      "onboard_time": 1682845406,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412198,
       "num": 412198,
       "word": "外滩",
@@ -393,6 +401,14 @@
       "onboard_time": 1682834006,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401229,
+      "num": 401229,
+      "word": "王鹤棣杨超越 狐妖小红娘王权篇",
+      "onboard_time": 1682846126,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 398758,
@@ -427,6 +443,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374963,
+      "num": 374963,
+      "word": "汤唯被骗经历被写进韩剧",
+      "onboard_time": 1682844388,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 367301,
+      "num": 367301,
+      "word": "3名小学生发现笑气果断报警获奖励",
+      "onboard_time": 1682843488,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 358582,
+      "num": 358582,
+      "word": "聊天时最反感别人回复什么",
+      "onboard_time": 1682845347,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 356324,
       "num": 356324,
       "word": "张凌赫四年前体重200多斤",
@@ -457,14 +497,6 @@
       "onboard_time": 1682781930,
       "rank": 14,
       "category": "影视"
-    },
-    {
-      "raw_hot": 338479,
-      "num": 338479,
-      "word": "3名小学生发现笑气果断报警获奖励",
-      "onboard_time": 1682843488,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 326456,
@@ -523,20 +555,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 301692,
+      "num": 301692,
+      "word": "张新成孙千互曝朋友圈",
+      "onboard_time": 1682844566,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 296696,
       "num": 296696,
       "word": "蔡文静坐行李箱滑行翻车",
       "onboard_time": 1682831786,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 294759,
-      "num": 294759,
-      "word": "杨洋军艺同学会跳了当代舞",
-      "onboard_time": 1682845406,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 294163,
@@ -561,14 +593,6 @@
       "onboard_time": 1682776172,
       "rank": 16,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 274428,
-      "num": 274428,
-      "word": "汤唯被骗经历被写进韩剧",
-      "onboard_time": 1682844388,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 270513,
@@ -651,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248023,
+      "num": 248023,
+      "word": "MBTI新题 你人格变了吗",
+      "onboard_time": 1682844327,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247802,
       "num": 247802,
       "word": "男子火车站拎1袋馒头沾方便面吃",
@@ -707,14 +739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 231622,
-      "num": 231622,
-      "word": "MBTI新题 你人格变了吗",
-      "onboard_time": 1682844327,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 229268,
       "num": 202831,
       "word": "新娘结婚当天蝴蝶停在手腕不走",
@@ -739,16 +763,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225171,
-      "num": 225171,
-      "word": "张新成孙千互曝朋友圈",
-      "onboard_time": 1682844566,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 225006,
-      "num": 158072,
+      "num": 180684,
       "word": "杨紫配音长相思",
       "onboard_time": 1682845767,
       "rank": 31,
@@ -931,6 +947,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 189388,
+      "num": 189388,
+      "word": "央视频专访姚晨",
+      "onboard_time": 1682846905,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189129,
       "num": 189129,
       "word": "56岁阿姨带一家8口卖炒饭创业",
@@ -1083,14 +1107,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 170163,
-      "num": 150929,
-      "word": "聊天时最反感别人回复什么",
-      "onboard_time": 1682845347,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 168408,
       "num": 168408,
       "word": "原来画画可以这么酷",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1682782950,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166780,
+      "num": 166780,
+      "word": "被张杰模仿伍佰唱腔笑死",
+      "onboard_time": 1682846666,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 165497,
@@ -1307,6 +1331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144419,
+      "num": 144419,
+      "word": "时代少年团全员白T",
+      "onboard_time": 1682845826,
+      "rank": 33,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 144372,
       "num": 144372,
       "word": "长空之王登上新闻联播",
@@ -1331,12 +1363,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141078,
-      "num": 141078,
-      "word": "时代少年团全员白T",
-      "onboard_time": 1682845826,
-      "rank": 33,
-      "category": "艺人,时尚"
+      "raw_hot": 139377,
+      "num": 139377,
+      "word": "张泽禹成都旅行随拍",
+      "onboard_time": 1682846369,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 138127,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1682833465,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 132762,
+      "num": 132762,
+      "word": "淘宝发布20套年度服饰",
+      "onboard_time": 1682846545,
+      "rank": 38,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 132487,
@@ -1707,6 +1747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88427,
+      "num": 88427,
+      "word": "沧九旻黎苏苏爱人错过",
+      "onboard_time": 1682847086,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 87904,
       "num": 87904,
       "word": "漫长的季节",
@@ -1788,7 +1836,7 @@
     },
     {
       "raw_hot": 73068,
-      "num": 1187378,
+      "num": 1248958,
       "word": "卫星视角下的花开中国太美了",
       "onboard_time": 1682839286,
       "rank": 2,
