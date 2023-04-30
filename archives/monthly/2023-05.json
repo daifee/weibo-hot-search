@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682874861162,
+  "endTime": 1682876015070,
   "band_list": [
     {
       "raw_hot": 1077776,
@@ -259,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139038,
+      "num": 139038,
+      "word": "感谢辛弃疾治好了我的焦虑",
+      "onboard_time": 1682873062,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135127,
       "num": 135127,
       "word": "四川交警狂吼11次让一下",
@@ -315,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118977,
-      "num": 90516,
-      "word": "感谢辛弃疾治好了我的焦虑",
-      "onboard_time": 1682873062,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114430,
       "num": 114430,
       "word": "西直门三太子",
@@ -361,6 +361,14 @@
       "onboard_time": 1682863651,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109723,
+      "num": 109723,
+      "word": "老人不识字行李箱贴满回家行程",
+      "onboard_time": 1682874681,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104836,
@@ -427,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46211,
-      "num": 63705,
-      "word": "老人不识字行李箱贴满回家行程",
-      "onboard_time": 1682874681,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 53541,
+      "num": 53541,
+      "word": "熊猫串串",
+      "onboard_time": 1682874080,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 43644,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1682876015070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 717861,
+        "num": 717861,
+        "word": "警方不建议前往大唐不夜城",
+        "onboard_time": 1682865150,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512361,
+        "num": 512361,
+        "word": "史航",
+        "onboard_time": 1682862627,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 3867,
+        "num": 426743,
+        "word": "卫星视角下的花开中国太美了",
+        "onboard_time": 1682839286,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360499,
+        "num": 360499,
+        "word": "王源爸妈不在的演唱会状态",
+        "onboard_time": 1682863709,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 336053,
+        "num": 336053,
+        "word": "婚礼前一天被通知不需要伴娘",
+        "onboard_time": 1682857466,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310502,
+        "num": 310502,
+        "word": "张碧晨 车尾号920",
+        "onboard_time": 1682863409,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299799,
+        "num": 299799,
+        "word": "女子为亡夫销户痛哭民警为其留户籍页",
+        "onboard_time": 1682860649,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232504,
+        "num": 232504,
+        "word": "女子拍照时被小孩掀裙子摸大腿",
+        "onboard_time": 1682866711,
+        "rank": 7,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 217164,
+        "num": 217164,
+        "word": "和豪门大佬网恋后我红了",
+        "onboard_time": 1682855067,
+        "rank": 8,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 186880,
+        "num": 186880,
+        "word": "广州圣心大教堂石碑碎了",
+        "onboard_time": 1682865334,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469684,
+        "num": 175029,
+        "word": "吴建豪在郑秀妍面前提少女时代成员",
+        "onboard_time": 1682866892,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332091,
+        "num": 168119,
+        "word": "黄牛 你就说进没进去吧",
+        "onboard_time": 1682850927,
+        "rank": 11,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 157652,
+        "num": 157652,
+        "word": "丫丫暂住的上海动物园人气旺",
+        "onboard_time": 1682851169,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139038,
+        "num": 139038,
+        "word": "感谢辛弃疾治好了我的焦虑",
+        "onboard_time": 1682873062,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127126,
+        "num": 127126,
+        "word": "漫长的季节",
+        "onboard_time": 1682861010,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 123909,
+        "num": 123909,
+        "word": "淄博八大局登顶全国景区热门第1",
+        "onboard_time": 1682860410,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 115351,
+        "num": 115351,
+        "word": "骆玉明 女生不要上文学的当",
+        "onboard_time": 1682863593,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113844,
+        "num": 113844,
+        "word": "王一博 飞驰人生2",
+        "onboard_time": 1682859690,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 110354,
+        "num": 110354,
+        "word": "Jennie朴彩英确认出席Metgala",
+        "onboard_time": 1682844087,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109723,
+        "num": 109723,
+        "word": "老人不识字行李箱贴满回家行程",
+        "onboard_time": 1682874681,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173684,
+        "num": 107816,
+        "word": "淄博一快递员因限流不让进下跪大哭",
+        "onboard_time": 1682850807,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167375,
+        "num": 106395,
+        "word": "月收入四万是什么体验",
+        "onboard_time": 1682857466,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104056,
+        "num": 104056,
+        "word": "看拜仁踢球 坐牢",
+        "onboard_time": 1682868571,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99888,
+        "num": 99888,
+        "word": "长月烬明",
+        "onboard_time": 1682849906,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 99873,
+        "num": 99873,
+        "word": "长沙YOLO",
+        "onboard_time": 1682867910,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95722,
+        "num": 95722,
+        "word": "王鹤棣杨超越 狐妖小红娘王权篇",
+        "onboard_time": 1682846126,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86490,
+        "num": 86490,
+        "word": "两头婚可以减少夫妻矛盾吗",
+        "onboard_time": 1682865932,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83720,
+        "num": 83720,
+        "word": "四川交警狂吼11次让一下",
+        "onboard_time": 1682856628,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82439,
+        "num": 82439,
+        "word": "三人合吃一份自助餐遭服务员劝阻",
+        "onboard_time": 1682857890,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 36473,
+        "num": 78081,
+        "word": "90后航天小姐姐用抓娃娃解释月球采样",
+        "onboard_time": 1682871684,
+        "rank": 29,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 75826,
+        "num": 75826,
+        "word": "周杰伦问已经是第一名的人要怎么变",
+        "onboard_time": 1682842046,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75599,
+        "num": 75599,
+        "word": "31岁给自己报了个小饭桌",
+        "onboard_time": 1682866593,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72989,
+        "num": 72989,
+        "word": "张杰武汉演唱会",
+        "onboard_time": 1682857048,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71260,
+        "num": 71260,
+        "word": "影视剧男主人设天花板",
+        "onboard_time": 1682867369,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 69753,
+        "num": 69753,
+        "word": "漫长的季节 王阳怎么死的",
+        "onboard_time": 1682862509,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 68669,
+        "num": 68669,
+        "word": "马嘉祺假哭",
+        "onboard_time": 1682852607,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66412,
+        "num": 66412,
+        "word": "LGD急什么",
+        "onboard_time": 1682863890,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61264,
+        "num": 61264,
+        "word": "重庆一大桥桥墩发生火灾致1死2伤",
+        "onboard_time": 1682861131,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61211,
+        "num": 61211,
+        "word": "成毅没有房车的原因",
+        "onboard_time": 1682862689,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59946,
+        "num": 59946,
+        "word": "澹台烬黎苏苏终于相见",
+        "onboard_time": 1682851767,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 55494,
+        "num": 55494,
+        "word": "灌篮高手",
+        "onboard_time": 1682869588,
+        "rank": 40,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 53774,
+        "num": 53774,
+        "word": "CBA裁判",
+        "onboard_time": 1682863651,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53541,
+        "num": 53541,
+        "word": "熊猫串串",
+        "onboard_time": 1682874080,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52123,
+        "num": 52123,
+        "word": "薛之谦说常州太湖湾音乐节收工",
+        "onboard_time": 1682864611,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 52014,
+        "num": 52014,
+        "word": "伊能静回应和秦昊不互动",
+        "onboard_time": 1682844748,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49809,
+        "num": 52011,
+        "word": "长空之王单日票房破亿",
+        "onboard_time": 1682869348,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 49211,
+        "num": 52006,
+        "word": "谁给张婧仪安排的皮裤",
+        "onboard_time": 1682849127,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44939,
+        "num": 51993,
+        "word": "洪知秀给未来妻子的话",
+        "onboard_time": 1682860527,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42145,
+        "num": 51989,
+        "word": "龙城",
+        "onboard_time": 1682868751,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 36662,
+        "num": 51982,
+        "word": "久酷鲜奶",
+        "onboard_time": 1682866353,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国劳动群众致以节日祝贺#"
+    }
+  }
+}
