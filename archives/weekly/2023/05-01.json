@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682878780127,
+  "endTime": 1682881981603,
   "band_list": [
     {
       "raw_hot": 1077776,
@@ -435,8 +435,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56967,
-      "num": 56967,
+      "raw_hot": 71555,
+      "num": 71555,
       "word": "游客说淄博给的安全感爆棚了",
       "onboard_time": 1682876896,
       "rank": 27,
@@ -472,6 +472,14 @@
       "word": "人人人人人你人人人人人",
       "onboard_time": 1682779171,
       "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 28243,
+      "num": 28243,
+      "word": "不办婚礼怎么收回礼金",
+      "onboard_time": 1682878216,
+      "rank": 40,
       "category": "情感"
     },
     {
