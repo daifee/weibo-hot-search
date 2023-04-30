@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682836408471,
+  "endTime": 1682838876318,
   "band_list": [
     {
       "raw_hot": 2064706,
@@ -33,6 +33,14 @@
       "onboard_time": 1682782829,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1364966,
+      "num": 1364966,
+      "word": "卡琳娜",
+      "onboard_time": 1682835205,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 1352351,
@@ -259,12 +267,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523938,
+      "num": 517530,
+      "word": "淄博一酒店涨价1.5倍被立案调查",
+      "onboard_time": 1682837245,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 520183,
+      "num": 520183,
+      "word": "瞒着爸妈消费最高的一次",
+      "onboard_time": 1682835927,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 519292,
+      "num": 519292,
+      "word": "淄博绿豆糕大爷",
+      "onboard_time": 1682835387,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516085,
       "num": 516085,
       "word": "费曼重阳了",
       "onboard_time": 1682810060,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 515211,
+      "num": 515211,
+      "word": "淄博烧烤最大的受害者",
+      "onboard_time": 1682836826,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 514416,
@@ -305,6 +345,14 @@
       "onboard_time": 1682769208,
       "rank": 12,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 409256,
+      "num": 409256,
+      "word": "五一假期才第2天已经玩累了",
+      "onboard_time": 1682834006,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398758,
@@ -371,14 +419,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 343870,
-      "num": 218900,
-      "word": "卡琳娜",
-      "onboard_time": 1682835205,
-      "rank": 20,
-      "category": "网红"
-    },
-    {
       "raw_hot": 326456,
       "num": 326456,
       "word": "火车上被误会的特种兵",
@@ -441,14 +481,6 @@
       "onboard_time": 1682830765,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293822,
-      "num": 293822,
-      "word": "五一假期才第2天已经玩累了",
-      "onboard_time": 1682834006,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284462,
@@ -515,20 +547,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 261215,
-      "num": 261215,
-      "word": "淄博绿豆糕大爷",
-      "onboard_time": 1682835387,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255096,
       "num": 255096,
       "word": "杜兰特",
       "onboard_time": 1682824645,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253854,
+      "num": 207437,
+      "word": "虞书欣张智霖袁咏仪合照",
+      "onboard_time": 1682836766,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 248621,
@@ -539,16 +571,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248004,
-      "num": 169692,
-      "word": "瞒着爸妈消费最高的一次",
-      "onboard_time": 1682835927,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 247638,
-      "num": 195341,
+      "num": 207134,
       "word": "高三女生替初二妹妹开家长会",
       "onboard_time": 1682834906,
       "rank": 32,
@@ -585,6 +609,14 @@
       "onboard_time": 1682773890,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229788,
+      "num": 148189,
+      "word": "芒果这辈子都没想到能当文豪",
+      "onboard_time": 1682836286,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 229268,
@@ -625,6 +657,14 @@
       "onboard_time": 1682823446,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 216821,
+      "num": 206720,
+      "word": "华晨宇成都演唱会人气",
+      "onboard_time": 1682838086,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 216419,
@@ -673,6 +713,14 @@
       "onboard_time": 1682827107,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208042,
+      "num": 208042,
+      "word": "长空之王",
+      "onboard_time": 1682763265,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 204045,
@@ -1083,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144604,
+      "num": 144604,
+      "word": "易小星回应人生路不熟被黑",
+      "onboard_time": 1682837424,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 144372,
       "num": 144372,
       "word": "长空之王登上新闻联播",
@@ -1105,6 +1161,14 @@
       "onboard_time": 1682823148,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139411,
+      "num": 139411,
+      "word": "男子火车站拎1袋馒头沾方便面吃",
+      "onboard_time": 1682838448,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138127,
@@ -1139,6 +1203,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 134021,
+      "num": 134021,
+      "word": "张凌赫陈哲远互喊必爆",
+      "onboard_time": 1682833465,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 131943,
       "num": 168667,
       "word": "中国军队完成撤离在苏丹中国人员任务",
@@ -1161,6 +1233,14 @@
       "onboard_time": 1682785586,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128696,
+      "num": 128696,
+      "word": "原来澹台烬的情丝是袁帅给的",
+      "onboard_time": 1682837485,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 126832,
@@ -1251,12 +1331,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115008,
+      "num": 115008,
+      "word": "无畏溧水旅游推广大使",
+      "onboard_time": 1682838866,
+      "rank": 45,
+      "category": "游戏,社会新闻"
+    },
+    {
       "raw_hot": 113482,
       "num": 113482,
       "word": "比基尼拼接牛仔裤",
       "onboard_time": 1682765066,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113284,
+      "num": 113284,
+      "word": "99元睡沙发系酒店为吸引流量",
+      "onboard_time": 1682836464,
+      "rank": 48,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 113143,
+      "num": 113143,
+      "word": "相亲相出了面试的感觉",
+      "onboard_time": 1682838805,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112190,
@@ -1281,14 +1385,6 @@
       "onboard_time": 1682815527,
       "rank": 41,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 109596,
-      "num": 109596,
-      "word": "芒果这辈子都没想到能当文豪",
-      "onboard_time": 1682836286,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 108652,
@@ -1449,14 +1545,6 @@
       "onboard_time": 1682810482,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79994,
-      "num": 79994,
-      "word": "长空之王",
-      "onboard_time": 1682763265,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 78858,
