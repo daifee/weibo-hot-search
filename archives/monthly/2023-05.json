@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682896580003,
+  "endTime": 1682897612180,
   "band_list": [
     {
       "raw_hot": 1077776,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736124,
+      "num": 736124,
+      "word": "女子拍照时被小孩掀裙子摸大腿",
+      "onboard_time": 1682866711,
+      "rank": 9,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 715622,
       "num": 715622,
       "word": "史航",
@@ -57,14 +65,6 @@
       "onboard_time": 1682863409,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 604673,
-      "num": 604673,
-      "word": "女子拍照时被小孩掀裙子摸大腿",
-      "onboard_time": 1682866711,
-      "rank": 9,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 507709,
@@ -91,6 +91,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 427350,
+      "num": 427350,
+      "word": "两头婚可以减少夫妻矛盾吗",
+      "onboard_time": 1682865932,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410353,
       "num": 410353,
       "word": "和豪门大佬网恋后我红了",
@@ -113,14 +121,6 @@
       "onboard_time": 1682865334,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 320145,
-      "num": 320145,
-      "word": "两头婚可以减少夫妻矛盾吗",
-      "onboard_time": 1682865932,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 306084,
@@ -163,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245136,
+      "num": 112858,
+      "word": "勇士vs国王",
+      "onboard_time": 1682897603,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 235687,
+      "num": 235687,
+      "word": "山东一文旅局长为游客跳霹雳舞",
+      "onboard_time": 1682893937,
+      "rank": 22,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 234794,
       "num": 234794,
       "word": "骆玉明 女生不要上文学的当",
@@ -203,6 +219,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207732,
+      "num": 207732,
+      "word": "五月",
+      "onboard_time": 1682897240,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204990,
+      "num": 204990,
+      "word": "五一快乐",
+      "onboard_time": 1682896520,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191864,
+      "num": 191864,
+      "word": "老人不识字行李箱贴满回家行程",
+      "onboard_time": 1682874681,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179058,
       "num": 179058,
       "word": "成毅没有房车的原因",
@@ -235,12 +275,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 167149,
-      "num": 167149,
-      "word": "老人不识字行李箱贴满回家行程",
-      "onboard_time": 1682874681,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 168362,
+      "num": 151124,
+      "word": "湖勇大战来了",
+      "onboard_time": 1682896400,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 163997,
@@ -283,6 +323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151917,
+      "num": 151917,
+      "word": "乃万单手脱上衣",
+      "onboard_time": 1682896642,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149488,
       "num": 149488,
       "word": "三人合吃一份自助餐遭服务员劝阻",
@@ -291,12 +339,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 141212,
+      "num": 141212,
+      "word": "装修砸承重墙致200户居民疏散",
+      "onboard_time": 1682896642,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140867,
       "num": 140867,
       "word": "伊能静回应和秦昊不互动",
       "onboard_time": 1682844748,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136675,
+      "num": 112801,
+      "word": "国铁回应坐高铁像挤地铁",
+      "onboard_time": 1682895678,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135127,
@@ -355,20 +419,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116768,
-      "num": 103736,
-      "word": "五一快乐",
-      "onboard_time": 1682896520,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114430,
       "num": 114430,
       "word": "西直门三太子",
       "onboard_time": 1682825366,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114202,
+      "num": 114202,
+      "word": "劳动最光荣",
+      "onboard_time": 1682896642,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114023,
+      "num": 114023,
+      "word": "游客说淄博给的安全感爆棚了",
+      "onboard_time": 1682876896,
+      "rank": 27,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 113935,
@@ -427,20 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102172,
-      "num": 102172,
-      "word": "山东一文旅局长为游客跳霹雳舞",
-      "onboard_time": 1682893937,
-      "rank": 22,
-      "category": "社会新闻,旅游"
+      "raw_hot": 102126,
+      "num": 102126,
+      "word": "音乐节",
+      "onboard_time": 1682897240,
+      "rank": 35,
+      "category": "音乐"
     },
     {
-      "raw_hot": 96272,
-      "num": 96272,
-      "word": "游客说淄博给的安全感爆棚了",
-      "onboard_time": 1682876896,
-      "rank": 27,
-      "category": "旅游,社会新闻"
+      "raw_hot": 96451,
+      "num": 96451,
+      "word": "B太二刷许昌胖东来",
+      "onboard_time": 1682896341,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 94471,
@@ -451,12 +523,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 91016,
-      "num": 91016,
-      "word": "湖勇大战来了",
-      "onboard_time": 1682896400,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 90632,
+      "num": 90632,
+      "word": "不办婚礼怎么收回礼金",
+      "onboard_time": 1682878216,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 86616,
@@ -475,6 +547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83955,
+      "num": 83955,
+      "word": "NBA春晚",
+      "onboard_time": 1682897003,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83930,
       "num": 103304,
       "word": "傅菁重庆音乐会",
@@ -483,12 +563,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 78783,
-      "num": 78783,
-      "word": "不办婚礼怎么收回礼金",
-      "onboard_time": 1682878216,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 79526,
+      "num": 79526,
+      "word": "英皇群星要把刘雅瑟吹到成团夜",
+      "onboard_time": 1682890933,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 76011,
@@ -499,20 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74435,
-      "num": 74435,
-      "word": "国铁回应坐高铁像挤地铁",
-      "onboard_time": 1682895678,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73062,
-      "num": 73062,
-      "word": "英皇群星要把刘雅瑟吹到成团夜",
-      "onboard_time": 1682890933,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 75547,
+      "num": 75547,
+      "word": "失恋对一个人的伤害有多大",
+      "onboard_time": 1682897423,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 68644,
@@ -555,16 +627,8 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 41233,
-      "num": 41233,
-      "word": "B太二刷许昌胖东来",
-      "onboard_time": 1682896341,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 40672,
-      "num": 85999,
+      "raw_hot": 41876,
+      "num": 112875,
       "word": "致敬在他乡奋斗的每一个普通人",
       "onboard_time": 1682896100,
       "rank": 29,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1682897612180,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 840256,
+        "num": 840256,
+        "word": "警方不建议前往大唐不夜城",
+        "onboard_time": 1682865150,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736124,
+        "num": 736124,
+        "word": "女子拍照时被小孩掀裙子摸大腿",
+        "onboard_time": 1682866711,
+        "rank": 1,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 6633,
+        "num": 584603,
+        "word": "卫星视角下的花开中国太美了",
+        "onboard_time": 1682839286,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523999,
+        "num": 523999,
+        "word": "史航",
+        "onboard_time": 1682862627,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 480047,
+        "num": 480047,
+        "word": "库里",
+        "onboard_time": 1682895923,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427350,
+        "num": 427350,
+        "word": "两头婚可以减少夫妻矛盾吗",
+        "onboard_time": 1682865932,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341570,
+        "num": 341570,
+        "word": "女子为亡夫销户痛哭民警为其留户籍页",
+        "onboard_time": 1682860649,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333232,
+        "num": 333232,
+        "word": "王源爸妈不在的演唱会状态",
+        "onboard_time": 1682863709,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 316736,
+        "num": 316736,
+        "word": "婚礼前一天被通知不需要伴娘",
+        "onboard_time": 1682857466,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262192,
+        "num": 262192,
+        "word": "张碧晨 车尾号920",
+        "onboard_time": 1682863409,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 426520,
+        "num": 261248,
+        "word": "吴建豪在郑秀妍面前提少女时代成员",
+        "onboard_time": 1682866892,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327013,
+        "num": 258112,
+        "word": "黄牛 你就说进没进去吧",
+        "onboard_time": 1682850927,
+        "rank": 11,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 249869,
+        "num": 249869,
+        "word": "勇士晋级西部半决赛",
+        "onboard_time": 1682895798,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235687,
+        "num": 235687,
+        "word": "山东一文旅局长为游客跳霹雳舞",
+        "onboard_time": 1682893937,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 232950,
+        "num": 232950,
+        "word": "库里扛着勇士",
+        "onboard_time": 1682896159,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227706,
+        "num": 227706,
+        "word": "淄博八大局登顶全国景区热门第1",
+        "onboard_time": 1682860410,
+        "rank": 15,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 207732,
+        "num": 207732,
+        "word": "五月",
+        "onboard_time": 1682897240,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204990,
+        "num": 204990,
+        "word": "五一快乐",
+        "onboard_time": 1682896520,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191864,
+        "num": 191864,
+        "word": "老人不识字行李箱贴满回家行程",
+        "onboard_time": 1682874681,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151917,
+        "num": 151917,
+        "word": "乃万单手脱上衣",
+        "onboard_time": 1682896642,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168362,
+        "num": 151124,
+        "word": "湖勇大战来了",
+        "onboard_time": 1682896400,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155691,
+        "num": 149934,
+        "word": "月收入四万是什么体验",
+        "onboard_time": 1682857466,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147776,
+        "num": 147776,
+        "word": "三人合吃一份自助餐遭服务员劝阻",
+        "onboard_time": 1682857890,
+        "rank": 22,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 144638,
+        "num": 144638,
+        "word": "感谢辛弃疾治好了我的焦虑",
+        "onboard_time": 1682873062,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141212,
+        "num": 141212,
+        "word": "装修砸承重墙致200户居民疏散",
+        "onboard_time": 1682896642,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126537,
+        "num": 126537,
+        "word": "和豪门大佬网恋后我红了",
+        "onboard_time": 1682855067,
+        "rank": 25,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 119260,
+        "num": 119260,
+        "word": "四川交警狂吼11次让一下",
+        "onboard_time": 1682856628,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114202,
+        "num": 114202,
+        "word": "劳动最光荣",
+        "onboard_time": 1682896642,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114023,
+        "num": 114023,
+        "word": "游客说淄博给的安全感爆棚了",
+        "onboard_time": 1682876896,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 41876,
+        "num": 112875,
+        "word": "致敬在他乡奋斗的每一个普通人",
+        "onboard_time": 1682896100,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245136,
+        "num": 112858,
+        "word": "勇士vs国王",
+        "onboard_time": 1682897603,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136675,
+        "num": 112801,
+        "word": "国铁回应坐高铁像挤地铁",
+        "onboard_time": 1682895678,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112726,
+        "num": 112726,
+        "word": "31岁给自己报了个小饭桌",
+        "onboard_time": 1682866593,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108710,
+        "num": 108710,
+        "word": "成毅没有房车的原因",
+        "onboard_time": 1682862689,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105878,
+        "num": 105878,
+        "word": "广州圣心大教堂石碑碎了",
+        "onboard_time": 1682865334,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102126,
+        "num": 102126,
+        "word": "音乐节",
+        "onboard_time": 1682897240,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96451,
+        "num": 96451,
+        "word": "B太二刷许昌胖东来",
+        "onboard_time": 1682896341,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 95828,
+        "num": 95828,
+        "word": "骆玉明 女生不要上文学的当",
+        "onboard_time": 1682863593,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92702,
+        "num": 92702,
+        "word": "丫丫暂住的上海动物园人气旺",
+        "onboard_time": 1682851169,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90632,
+        "num": 90632,
+        "word": "不办婚礼怎么收回礼金",
+        "onboard_time": 1682878216,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87726,
+        "num": 87726,
+        "word": "影视剧男主人设天花板",
+        "onboard_time": 1682867369,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 83955,
+        "num": 83955,
+        "word": "NBA春晚",
+        "onboard_time": 1682897003,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79526,
+        "num": 79526,
+        "word": "英皇群星要把刘雅瑟吹到成团夜",
+        "onboard_time": 1682890933,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75547,
+        "num": 75547,
+        "word": "失恋对一个人的伤害有多大",
+        "onboard_time": 1682897423,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71753,
+        "num": 71753,
+        "word": "漫长的季节 王阳怎么死的",
+        "onboard_time": 1682862509,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 71398,
+        "num": 71398,
+        "word": "周杰伦问已经是第一名的人要怎么变",
+        "onboard_time": 1682842046,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68974,
+        "num": 68974,
+        "word": "王一博 飞驰人生2",
+        "onboard_time": 1682859690,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 67278,
+        "num": 67278,
+        "word": "黄圣依妈妈十五年国画缘",
+        "onboard_time": 1682884931,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66530,
+        "num": 66530,
+        "word": "伊能静回应和秦昊不互动",
+        "onboard_time": 1682844748,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 65333,
+        "num": 65333,
+        "word": "长月烬明",
+        "onboard_time": 1682849906,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成推动高质量发展的强大动力#"
+    }
+  }
+}
