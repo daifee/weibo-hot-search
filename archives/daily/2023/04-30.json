@@ -1,6 +1,6 @@
 {
   "startTime": 1682785258613,
-  "endTime": 1682847211614,
+  "endTime": 1682849831120,
   "band_list": [
     {
       "raw_hot": 2373096,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1339955,
-      "num": 474091,
+      "num": 526107,
       "word": "伊能静回应和秦昊不互动",
       "onboard_time": 1682844748,
       "rank": 10,
@@ -201,6 +201,14 @@
       "onboard_time": 1682825968,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 830118,
+      "num": 830118,
+      "word": "王鹤棣杨超越 狐妖小红娘王权篇",
+      "onboard_time": 1682846126,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 824921,
@@ -355,6 +363,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 484972,
+      "num": 484972,
+      "word": "坠楼",
+      "onboard_time": 1682849004,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468911,
+      "num": 468911,
+      "word": "聊天时最反感别人回复什么",
+      "onboard_time": 1682845347,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 465015,
       "num": 465015,
       "word": "新发现924例本土重点关注变异株",
@@ -371,6 +395,22 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 446146,
+      "num": 446146,
+      "word": "杨洋军艺同学会跳了当代舞",
+      "onboard_time": 1682845406,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 442430,
+      "num": 1203675,
+      "word": "3名小学生发现笑气果断报警获奖励",
+      "onboard_time": 1682843488,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 441770,
       "num": 441770,
       "word": "澹台烬AI换脸润玉",
@@ -379,12 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 419003,
-      "num": 419003,
-      "word": "杨洋军艺同学会跳了当代舞",
-      "onboard_time": 1682845406,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 421642,
+      "num": 421642,
+      "word": "汤唯被骗经历被写进韩剧",
+      "onboard_time": 1682844388,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 412198,
@@ -401,14 +441,6 @@
       "onboard_time": 1682834006,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401229,
-      "num": 401229,
-      "word": "王鹤棣杨超越 狐妖小红娘王权篇",
-      "onboard_time": 1682846126,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 398758,
@@ -443,28 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374963,
-      "num": 374963,
-      "word": "汤唯被骗经历被写进韩剧",
-      "onboard_time": 1682844388,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 367301,
-      "num": 367301,
-      "word": "3名小学生发现笑气果断报警获奖励",
-      "onboard_time": 1682843488,
-      "rank": 14,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 358582,
-      "num": 358582,
-      "word": "聊天时最反感别人回复什么",
-      "onboard_time": 1682845347,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 379234,
+      "num": 379234,
+      "word": "七仔",
+      "onboard_time": 1682848168,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356324,
@@ -537,6 +553,14 @@
       "onboard_time": 1682839226,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 306333,
+      "num": 949105,
+      "word": "抑郁症患者拳打护士反被安慰",
+      "onboard_time": 1682848223,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304684,
@@ -771,6 +795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223694,
+      "num": 223694,
+      "word": "Gr 发财四跑",
+      "onboard_time": 1682849245,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223505,
       "num": 223505,
       "word": "程潇录制受伤",
@@ -872,6 +904,14 @@
       "word": "长空之王",
       "onboard_time": 1682763265,
       "rank": 48,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 204993,
+      "num": 204993,
+      "word": "谁给张婧仪安排的皮裤",
+      "onboard_time": 1682849127,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -1187,12 +1227,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158582,
+      "num": 158582,
+      "word": "星铁玩家简称",
+      "onboard_time": 1682849245,
+      "rank": 34,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 158198,
       "num": 148566,
       "word": "不考虑工作最想定居的城市",
       "onboard_time": 1682777370,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157758,
+      "num": 157758,
+      "word": "淘宝发布20套年度服饰",
+      "onboard_time": 1682846545,
+      "rank": 38,
+      "category": "时尚,社会新闻"
+    },
+    {
+      "raw_hot": 157486,
+      "num": 157486,
+      "word": "许嵩郎朗用一首歌唱出青春的向往",
+      "onboard_time": 1682849367,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 157422,
@@ -1347,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144125,
+      "num": 144125,
+      "word": "游客为看花花排队2小时看3分钟",
+      "onboard_time": 1682847687,
+      "rank": 37,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 144112,
       "num": 144112,
       "word": "孙红雷用张杰的方法哄谢娜",
@@ -1361,6 +1433,14 @@
       "onboard_time": 1682823148,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139489,
+      "num": 139489,
+      "word": "COA6全球总决赛",
+      "onboard_time": 1682848707,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 139377,
@@ -1409,14 +1489,6 @@
       "onboard_time": 1682833465,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 132762,
-      "num": 132762,
-      "word": "淘宝发布20套年度服饰",
-      "onboard_time": 1682846545,
-      "rank": 38,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 132487,
@@ -1491,6 +1563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 124025,
+      "num": 124025,
+      "word": "沧九旻黎苏苏爱人错过",
+      "onboard_time": 1682847086,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 122164,
       "num": 122164,
       "word": "王嘉尔说现在飞温哥华",
@@ -1507,6 +1587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119939,
+      "num": 119939,
+      "word": "五一假期第2天你在干什么",
+      "onboard_time": 1682844447,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 119629,
       "num": 119629,
       "word": "父亲卖渔具为罕见病儿子续命12年",
@@ -1521,6 +1609,14 @@
       "onboard_time": 1682845168,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116756,
+      "num": 831362,
+      "word": "西安警花鼓楼套路式普法",
+      "onboard_time": 1682847327,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115987,
@@ -1545,6 +1641,14 @@
       "onboard_time": 1682822187,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115263,
+      "num": 115263,
+      "word": "seventeen人歌回归舞台",
+      "onboard_time": 1682847985,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115116,
@@ -1747,14 +1851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 88427,
-      "num": 88427,
-      "word": "沧九旻黎苏苏爱人错过",
-      "onboard_time": 1682847086,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 87904,
       "num": 87904,
       "word": "漫长的季节",
@@ -1841,6 +1937,14 @@
       "onboard_time": 1682839286,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71816,
+      "num": 453062,
+      "word": "趁着五一去旅行",
+      "onboard_time": 1682848825,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 64537,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682266896048,
-  "endTime": 1682847211614,
+  "endTime": 1682849831120,
   "band_list": [
     {
       "raw_hot": 7279831,
@@ -1180,7 +1180,7 @@
     },
     {
       "raw_hot": 1339955,
-      "num": 474091,
+      "num": 526107,
       "word": "伊能静回应和秦昊不互动",
       "onboard_time": 1682844748,
       "rank": 10,
@@ -2017,6 +2017,14 @@
       "onboard_time": 1682647767,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830118,
+      "num": 830118,
+      "word": "王鹤棣杨超越 狐妖小红娘王权篇",
+      "onboard_time": 1682846126,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 827116,
@@ -3499,6 +3507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 484972,
+      "num": 484972,
+      "word": "坠楼",
+      "onboard_time": 1682849004,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484727,
       "num": 484727,
       "word": "高叶甜美风古装",
@@ -3689,6 +3705,14 @@
       "onboard_time": 1682695172,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 468911,
+      "num": 468911,
+      "word": "聊天时最反感别人回复什么",
+      "onboard_time": 1682845347,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 468664,
@@ -3987,6 +4011,14 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 446146,
+      "num": 446146,
+      "word": "杨洋军艺同学会跳了当代舞",
+      "onboard_time": 1682845406,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445885,
       "num": 445885,
       "word": "男友送花太勤被花店婉拒了",
@@ -4001,6 +4033,14 @@
       "onboard_time": 1682553025,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 442430,
+      "num": 1203675,
+      "word": "3名小学生发现笑气果断报警获奖励",
+      "onboard_time": 1682843488,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 442307,
@@ -4267,6 +4307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 421642,
+      "num": 421642,
+      "word": "汤唯被骗经历被写进韩剧",
+      "onboard_time": 1682844388,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 421411,
       "num": 421411,
       "word": "冷屁股",
@@ -4313,14 +4361,6 @@
       "onboard_time": 1682593648,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 419003,
-      "num": 419003,
-      "word": "杨洋军艺同学会跳了当代舞",
-      "onboard_time": 1682845406,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 418078,
@@ -4545,14 +4585,6 @@
       "onboard_time": 1682564126,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 401229,
-      "num": 401229,
-      "word": "王鹤棣杨超越 狐妖小红娘王权篇",
-      "onboard_time": 1682846126,
-      "rank": 12,
-      "category": "影视"
     },
     {
       "raw_hot": 400406,
@@ -4883,6 +4915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379234,
+      "num": 379234,
+      "word": "七仔",
+      "onboard_time": 1682848168,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379183,
       "num": 379183,
       "word": "中国男篮",
@@ -4955,14 +4995,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 374963,
-      "num": 374963,
-      "word": "汤唯被骗经历被写进韩剧",
-      "onboard_time": 1682844388,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 374888,
       "num": 374888,
       "word": "千万不要因为工作太闲辞职",
@@ -5017,14 +5049,6 @@
       "onboard_time": 1682503589,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367301,
-      "num": 367301,
-      "word": "3名小学生发现笑气果断报警获奖励",
-      "onboard_time": 1682843488,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 366636,
@@ -5153,14 +5177,6 @@
       "onboard_time": 1682311532,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 358582,
-      "num": 358582,
-      "word": "聊天时最反感别人回复什么",
-      "onboard_time": 1682845347,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 356864,
@@ -6113,6 +6129,14 @@
       "onboard_time": 1682688873,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306333,
+      "num": 949105,
+      "word": "抑郁症患者拳打护士反被安慰",
+      "onboard_time": 1682848223,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306152,
@@ -8483,6 +8507,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 223694,
+      "num": 223694,
+      "word": "Gr 发财四跑",
+      "onboard_time": 1682849245,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223328,
       "num": 223328,
       "word": "易建联 广东队",
@@ -9305,6 +9337,14 @@
       "onboard_time": 1682769329,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204993,
+      "num": 204993,
+      "word": "谁给张婧仪安排的皮裤",
+      "onboard_time": 1682849127,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 204869,
@@ -12059,6 +12099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158582,
+      "num": 158582,
+      "word": "星铁玩家简称",
+      "onboard_time": 1682849245,
+      "rank": 34,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 158577,
       "num": 158577,
       "word": "声生不息宝岛季改档",
@@ -12105,6 +12153,22 @@
       "onboard_time": 1682777791,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157758,
+      "num": 157758,
+      "word": "淘宝发布20套年度服饰",
+      "onboard_time": 1682846545,
+      "rank": 38,
+      "category": "时尚,社会新闻"
+    },
+    {
+      "raw_hot": 157486,
+      "num": 157486,
+      "word": "许嵩郎朗用一首歌唱出青春的向往",
+      "onboard_time": 1682849367,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 157466,
@@ -12963,6 +13027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144125,
+      "num": 144125,
+      "word": "游客为看花花排队2小时看3分钟",
+      "onboard_time": 1682847687,
+      "rank": 37,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 144112,
       "num": 144112,
       "word": "孙红雷用张杰的方法哄谢娜",
@@ -13185,6 +13257,14 @@
       "onboard_time": 1682377639,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139489,
+      "num": 139489,
+      "word": "COA6全球总决赛",
+      "onboard_time": 1682848707,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 139469,
@@ -13505,14 +13585,6 @@
       "onboard_time": 1682412868,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 132762,
-      "num": 132762,
-      "word": "淘宝发布20套年度服饰",
-      "onboard_time": 1682846545,
-      "rank": 38,
-      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 132487,
@@ -13875,6 +13947,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 124025,
+      "num": 124025,
+      "word": "沧九旻黎苏苏爱人错过",
+      "onboard_time": 1682847086,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124012,
       "num": 124012,
       "word": "旅游时你最讨厌哪些行为",
@@ -14043,6 +14123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119939,
+      "num": 119939,
+      "word": "五一假期第2天你在干什么",
+      "onboard_time": 1682844447,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 119900,
       "num": 119900,
       "word": "李沁金色征途杀青",
@@ -14139,6 +14227,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 116756,
+      "num": 831362,
+      "word": "西安警花鼓楼套路式普法",
+      "onboard_time": 1682847327,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116699,
       "num": 116699,
       "word": "女子登山崴脚被巡山小妖抬下山",
@@ -14185,6 +14281,14 @@
       "onboard_time": 1682822187,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115263,
+      "num": 115263,
+      "word": "seventeen人歌回归舞台",
+      "onboard_time": 1682847985,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115116,
@@ -14947,14 +15051,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 88427,
-      "num": 88427,
-      "word": "沧九旻黎苏苏爱人错过",
-      "onboard_time": 1682847086,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 88190,
       "num": 88190,
       "word": "闫桉文兆杰社恐星人的合宿生活",
@@ -15209,6 +15305,14 @@
       "onboard_time": 1682679989,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71816,
+      "num": 453062,
+      "word": "趁着五一去旅行",
+      "onboard_time": 1682848825,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 71772,
