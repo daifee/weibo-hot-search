@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682933626319,
+  "endTime": 1682936314058,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -83,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1459992,
+      "num": 440697,
+      "word": "hybe",
+      "onboard_time": 1682933186,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1376127,
       "num": 1376127,
       "word": "半夜醒了不要拿手机看时间",
       "onboard_time": 1682898746,
       "rank": 1,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 1333040,
+      "num": 558155,
+      "word": "提名你一听到主演名字就不会打开的剧",
+      "onboard_time": 1682932168,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 1318458,
@@ -123,6 +139,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1110513,
+      "num": 1110513,
+      "word": "狂飙后又迎来了漫长的季节",
+      "onboard_time": 1682934509,
+      "rank": 5,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1077776,
       "num": 1077776,
       "word": "王源爸妈不在的演唱会状态",
@@ -155,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 925152,
+      "num": 442962,
+      "word": "马云被聘为东京大学客座教授",
+      "onboard_time": 1682931086,
+      "rank": 11,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 916184,
       "num": 430931,
       "word": "张丹峰前经纪人名下企业均已注销",
@@ -169,14 +201,6 @@
       "onboard_time": 1682860649,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 864421,
-      "num": 442962,
-      "word": "马云被聘为东京大学客座教授",
-      "onboard_time": 1682931086,
-      "rank": 11,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 846152,
@@ -243,6 +267,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 685337,
+      "num": 409840,
+      "word": "蔡少芬曾说张丹峰坏坏的",
+      "onboard_time": 1682920347,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660976,
       "num": 660976,
       "word": "两头婚可以减少夫妻矛盾吗",
@@ -264,14 +296,6 @@
       "word": "饥饿游戏女演员 女王行为",
       "onboard_time": 1682929466,
       "rank": 12,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 558155,
-      "num": 558155,
-      "word": "提名你一听到主演名字就不会打开的剧",
-      "onboard_time": 1682932168,
-      "rank": 20,
       "category": "影视"
     },
     {
@@ -355,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 446646,
+      "num": 446646,
+      "word": "小樱花part",
+      "onboard_time": 1682934267,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 432490,
       "num": 242257,
       "word": "女粉丝戴头纱去曾黎签售会",
@@ -427,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362207,
-      "num": 362207,
-      "word": "hybe",
-      "onboard_time": 1682933186,
+      "raw_hot": 365594,
+      "num": 365594,
+      "word": "漫长的季节",
+      "onboard_time": 1682861010,
       "rank": 17,
-      "category": "作品衍生"
+      "category": "影视"
     },
     {
       "raw_hot": 338856,
@@ -481,6 +513,14 @@
       "onboard_time": 1682919808,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310326,
+      "num": 277879,
+      "word": "中村一叶镜头",
+      "onboard_time": 1682934447,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 306084,
@@ -547,6 +587,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 281889,
+      "num": 281889,
+      "word": "短短几秒白敬亭被整了十几次",
+      "onboard_time": 1682935227,
+      "rank": 19,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 279032,
       "num": 279032,
       "word": "想买个青蛙人偶去发疯",
@@ -577,6 +625,14 @@
       "onboard_time": 1682922568,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270255,
+      "num": 270255,
+      "word": "山东聊城一工厂火灾致5死1伤",
+      "onboard_time": 1682935888,
+      "rank": 21,
+      "category": "社会负面"
     },
     {
       "raw_hot": 269240,
@@ -616,6 +672,14 @@
       "word": "王源说其实我妈在后台",
       "onboard_time": 1682913507,
       "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 254444,
+      "num": 254444,
+      "word": "难听",
+      "onboard_time": 1682934808,
+      "rank": 23,
       "category": "音乐"
     },
     {
@@ -747,6 +811,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 232638,
+      "num": 232638,
+      "word": "女生假期景点摆摊单日收入3千元",
+      "onboard_time": 1682934569,
+      "rank": 25,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 230466,
       "num": 230466,
       "word": "周杰伦问已经是第一名的人要怎么变",
@@ -769,6 +841,14 @@
       "onboard_time": 1682919808,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226382,
+      "num": 226382,
+      "word": "白鹿黄霄雲合唱长月烬明主题曲",
+      "onboard_time": 1682935408,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 224453,
@@ -819,20 +899,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217051,
+      "num": 1154160,
+      "word": "00后旅游偶遇可爱爷爷涂鸦送画",
+      "onboard_time": 1682934626,
+      "rank": 4,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 216885,
       "num": 201260,
       "word": "马嘉祺灰色短袖造型",
       "onboard_time": 1682925626,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 215616,
-      "num": 215616,
-      "word": "漫长的季节",
-      "onboard_time": 1682861010,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 212125,
@@ -907,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202608,
+      "num": 202608,
+      "word": "杜江身材",
+      "onboard_time": 1682936306,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202348,
       "num": 202348,
       "word": "所谓世面 不过是世界的一面",
@@ -977,6 +1065,14 @@
       "onboard_time": 1682925266,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188812,
+      "num": 188812,
+      "word": "一个月后拿着图去看丫丫",
+      "onboard_time": 1682931867,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186920,
@@ -1115,14 +1211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167834,
-      "num": 167834,
-      "word": "一个月后拿着图去看丫丫",
-      "onboard_time": 1682931867,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167511,
       "num": 167511,
       "word": "最美工作照",
@@ -1235,6 +1323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 151823,
+      "num": 151823,
+      "word": "男子满手痛风石参加酒局",
+      "onboard_time": 1682935947,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151287,
       "num": 151287,
       "word": "不要和斤斤计较的人一起旅游",
@@ -1275,6 +1371,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 147991,
+      "num": 147991,
+      "word": "这样洗澡能治痔疮",
+      "onboard_time": 1682935647,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 147831,
+      "num": 116607,
+      "word": "LESSERAFIM新歌上线",
+      "onboard_time": 1682934388,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 146379,
       "num": 146379,
       "word": "华晨宇演唱会穿搭自由",
@@ -1289,6 +1401,14 @@
       "onboard_time": 1682923466,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143308,
+      "num": 143308,
+      "word": "上海草莓到底有多少蜘蛛侠",
+      "onboard_time": 1682933547,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 141525,
@@ -1329,6 +1449,14 @@
       "onboard_time": 1682900308,
       "rank": 38,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 136626,
+      "num": 136626,
+      "word": "秦岚新剧梦回富察容音",
+      "onboard_time": 1682935589,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 136160,
@@ -1433,6 +1561,14 @@
       "onboard_time": 1682915908,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124360,
+      "num": 1104152,
+      "word": "5岁娃隔马路向警察爸爸敬礼",
+      "onboard_time": 1682934626,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122515,
@@ -1561,14 +1697,6 @@
       "onboard_time": 1682904511,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 105320,
-      "num": 105320,
-      "word": "上海草莓到底有多少蜘蛛侠",
-      "onboard_time": 1682933547,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 104836,
@@ -1739,6 +1867,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 45686,
+      "num": 1315543,
+      "word": "跳动的数字看加速前进的中国",
+      "onboard_time": 1682933609,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45421,
       "num": 45421,
       "word": "这个家没有雪碧得散",
@@ -1801,14 +1937,6 @@
       "onboard_time": 1682839286,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5317,
-      "num": 866633,
-      "word": "跳动的数字看加速前进的中国",
-      "onboard_time": 1682933609,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1820,6 +1948,9 @@
     },
     {
       "word": "#习近平向全国广大劳动群众致以节日的祝贺#"
+    },
+    {
+      "word": "#好日子都是靠奋斗来的#"
     }
   ]
 }
