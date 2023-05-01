@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682948011148,
+  "endTime": 1682950560414,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2404919,
+      "num": 1231510,
+      "word": "爽门",
+      "onboard_time": 1682949099,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2403488,
       "num": 2403488,
       "word": "史航回应性骚扰",
@@ -49,6 +57,14 @@
       "onboard_time": 1682922149,
       "rank": 11,
       "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 2282543,
+      "num": 2282543,
+      "word": "朋友圈发什么最让人反感",
+      "onboard_time": 1682940149,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 2258359,
@@ -73,14 +89,6 @@
       "onboard_time": 1682899587,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1987105,
-      "num": 1987105,
-      "word": "朋友圈发什么最让人反感",
-      "onboard_time": 1682940149,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 1951901,
@@ -115,6 +123,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1787930,
+      "num": 1787930,
+      "word": "金华两母女插队被制止当场发飙",
+      "onboard_time": 1682946089,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1762220,
       "num": 1762220,
       "word": "跑男 控牌",
@@ -136,14 +152,6 @@
       "word": "上淄博公厕配肠炎宁片和卫生巾",
       "onboard_time": 1682918728,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1589167,
-      "num": 1589167,
-      "word": "金华两母女插队被制止当场发飙",
-      "onboard_time": 1682946089,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -475,6 +483,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 480094,
+      "num": 480094,
+      "word": "张静初沈墨",
+      "onboard_time": 1682946271,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 477862,
       "num": 477862,
       "word": "陈晓演2个糙汉奖励自己1部古装剧",
@@ -515,20 +531,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 433560,
+      "num": 428284,
+      "word": "漫长的季节",
+      "onboard_time": 1682861010,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 432490,
       "num": 242257,
       "word": "女粉丝戴头纱去曾黎签售会",
       "onboard_time": 1682921129,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 429976,
-      "num": 428284,
-      "word": "漫长的季节",
-      "onboard_time": 1682861010,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 418241,
@@ -611,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386305,
+      "num": 386305,
+      "word": "五一的堵 逐渐离谱",
+      "onboard_time": 1682949452,
+      "rank": 15,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 383497,
       "num": 383497,
       "word": "广州圣心大教堂石碑碎了",
@@ -619,12 +643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342519,
+      "raw_hot": 347296,
       "num": 342519,
       "word": "千万不要随便叫别人宝贝",
       "onboard_time": 1682946511,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 347199,
+      "num": 347199,
+      "word": "潘展乐打破亚洲纪录夺冠",
+      "onboard_time": 1682948310,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 338856,
@@ -731,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302294,
+      "num": 302294,
+      "word": "五一",
+      "onboard_time": 1682900308,
+      "rank": 38,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 300272,
       "num": 252521,
       "word": "五一多景点人从众现状曝光",
@@ -745,6 +785,14 @@
       "onboard_time": 1682895798,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292174,
+      "num": 292174,
+      "word": "eStar对战AG",
+      "onboard_time": 1682940149,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 291979,
@@ -883,6 +931,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 263757,
+      "num": 263757,
+      "word": "杨鸣 战术",
+      "onboard_time": 1682949030,
+      "rank": 27,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 259721,
+      "num": 259721,
+      "word": "辽宁男篮",
+      "onboard_time": 1682949150,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257821,
       "num": 257821,
       "word": "这样洗澡能治痔疮",
@@ -921,6 +985,14 @@
       "onboard_time": 1682908287,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 251447,
+      "num": 251447,
+      "word": "租户装修砸穿承重墙小区居民发声",
+      "onboard_time": 1682948610,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251211,
@@ -1075,6 +1147,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 231441,
+      "num": 231441,
+      "word": "白鹿包场人生路不熟",
+      "onboard_time": 1682947292,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 230466,
       "num": 230466,
       "word": "周杰伦问已经是第一名的人要怎么变",
@@ -1107,6 +1187,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225448,
+      "num": 225448,
+      "word": "长月烬明预告",
+      "onboard_time": 1682949099,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 224453,
       "num": 132705,
       "word": "张新成演技",
@@ -1121,14 +1209,6 @@
       "onboard_time": 1682899047,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223119,
-      "num": 223119,
-      "word": "白鹿包场人生路不熟",
-      "onboard_time": 1682947292,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 220817,
@@ -1163,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218132,
+      "num": 218132,
+      "word": "女子情绪失控端火锅泼人邻桌遭殃",
+      "onboard_time": 1682943390,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218105,
       "num": 218105,
       "word": "彪子没了",
@@ -1187,14 +1275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216705,
-      "num": 216705,
-      "word": "eStar对战AG",
-      "onboard_time": 1682940149,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 216121,
       "num": 216121,
       "word": "CBA",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1682947948,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 213768,
+      "num": 213768,
+      "word": "插队",
+      "onboard_time": 1682947890,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212125,
@@ -1299,6 +1387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203146,
+      "num": 203146,
+      "word": "人生路不熟",
+      "onboard_time": 1682949991,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202348,
       "num": 202348,
       "word": "所谓世面 不过是世界的一面",
@@ -1313,14 +1409,6 @@
       "onboard_time": 1682924489,
       "rank": 40,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 201297,
-      "num": 214888,
-      "word": "女子情绪失控端火锅泼人邻桌遭殃",
-      "onboard_time": 1682943390,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199461,
@@ -1441,6 +1529,22 @@
       "onboard_time": 1682918068,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185120,
+      "num": 185120,
+      "word": "时代少年团周边中转站",
+      "onboard_time": 1682950469,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181274,
+      "num": 181274,
+      "word": "一个人过生日 收到投送",
+      "onboard_time": 1682947469,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 180931,
@@ -1571,14 +1675,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170738,
-      "num": 170738,
-      "word": "插队",
-      "onboard_time": 1682947890,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170652,
       "num": 170652,
       "word": "朝俞",
@@ -1640,6 +1736,14 @@
       "word": "我和我的青春今日上线",
       "onboard_time": 1682931687,
       "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 163423,
+      "num": 163423,
+      "word": "吴世勋新剧剧照",
+      "onboard_time": 1682947590,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -1705,14 +1809,6 @@
       "onboard_time": 1682903908,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 153408,
-      "num": 153408,
-      "word": "一个人过生日 收到投送",
-      "onboard_time": 1682947469,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 153393,
@@ -1795,14 +1891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145110,
-      "num": 145110,
-      "word": "吴世勋新剧剧照",
-      "onboard_time": 1682947590,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 145105,
       "num": 145105,
       "word": "王源巡演广州站官宣",
@@ -1849,14 +1937,6 @@
       "onboard_time": 1682895678,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 136657,
-      "num": 136657,
-      "word": "五一",
-      "onboard_time": 1682900308,
-      "rank": 38,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 136626,
@@ -2321,6 +2401,14 @@
       "onboard_time": 1682916449,
       "rank": 27,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 48317,
+      "num": 1323951,
+      "word": "光荣属于劳动者",
+      "onboard_time": 1682948790,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45421,

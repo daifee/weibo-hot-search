@@ -1,0 +1,410 @@
+{
+  "runTime": 1682950560414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2282543,
+        "num": 2282543,
+        "word": "朋友圈发什么最让人反感",
+        "onboard_time": 1682940149,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1787930,
+        "num": 1787930,
+        "word": "金华两母女插队被制止当场发飙",
+        "onboard_time": 1682946089,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48317,
+        "num": 1323951,
+        "word": "光荣属于劳动者",
+        "onboard_time": 1682948790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2404919,
+        "num": 1231510,
+        "word": "爽门",
+        "onboard_time": 1682949099,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1013024,
+        "num": 1013024,
+        "word": "拉萨客栈杀人案嫌犯已被抓捕",
+        "onboard_time": 1682939189,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1722519,
+        "num": 991398,
+        "word": "漫长的季节 封神",
+        "onboard_time": 1682941346,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 903599,
+        "num": 903599,
+        "word": "宋祖儿差点取关毛晓彤",
+        "onboard_time": 1682944710,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 882379,
+        "num": 882379,
+        "word": "月收入一万真的简单吗",
+        "onboard_time": 1682943508,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 867556,
+        "num": 867556,
+        "word": "女演员晒裸照反击黑客勒索",
+        "onboard_time": 1682917650,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480094,
+        "num": 480094,
+        "word": "张静初沈墨",
+        "onboard_time": 1682946271,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1050107,
+        "num": 478061,
+        "word": "提名你一听到主演名字就不会打开的剧",
+        "onboard_time": 1682932168,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 456823,
+        "num": 456823,
+        "word": "狂飙后又迎来了漫长的季节",
+        "onboard_time": 1682934509,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409305,
+        "num": 409305,
+        "word": "上淄博公厕配肠炎宁片和卫生巾",
+        "onboard_time": 1682918728,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433560,
+        "num": 408498,
+        "word": "漫长的季节",
+        "onboard_time": 1682934025,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 403170,
+        "num": 403170,
+        "word": "May I love you",
+        "onboard_time": 1682943926,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386305,
+        "num": 386305,
+        "word": "五一的堵 逐渐离谱",
+        "onboard_time": 1682949452,
+        "rank": 15,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 378466,
+        "num": 378466,
+        "word": "你目前月薪存一百万要多久",
+        "onboard_time": 1682925868,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347199,
+        "num": 347199,
+        "word": "潘展乐打破亚洲纪录夺冠",
+        "onboard_time": 1682948310,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345966,
+        "num": 345966,
+        "word": "王心凌张栋梁合影",
+        "onboard_time": 1682943628,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332852,
+        "num": 332852,
+        "word": "珠穆朗玛峰凌晨两点还在堵",
+        "onboard_time": 1682922149,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1633065,
+        "num": 328019,
+        "word": "史航回应性骚扰",
+        "onboard_time": 1682943089,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 347296,
+        "num": 315821,
+        "word": "千万不要随便叫别人宝贝",
+        "onboard_time": 1682946511,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302294,
+        "num": 302294,
+        "word": "五一",
+        "onboard_time": 1682949268,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295240,
+        "num": 295240,
+        "word": "文俊辉直播",
+        "onboard_time": 1682944770,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292174,
+        "num": 292174,
+        "word": "eStar对战AG",
+        "onboard_time": 1682940149,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 284158,
+        "num": 284158,
+        "word": "杜江身材",
+        "onboard_time": 1682936306,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 283608,
+        "num": 283608,
+        "word": "半夜醒了不要拿手机看时间",
+        "onboard_time": 1682898746,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 263757,
+        "num": 263757,
+        "word": "杨鸣 战术",
+        "onboard_time": 1682949030,
+        "rank": 27,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 259721,
+        "num": 259721,
+        "word": "辽宁男篮",
+        "onboard_time": 1682949150,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251447,
+        "num": 251447,
+        "word": "租户装修砸穿承重墙小区居民发声",
+        "onboard_time": 1682948610,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434009,
+        "num": 248289,
+        "word": "张丹峰前经纪人名下企业均已注销",
+        "onboard_time": 1682919508,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240472,
+        "num": 240472,
+        "word": "Jennie MetGala",
+        "onboard_time": 1682945310,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238725,
+        "num": 238725,
+        "word": "黎苏苏三世都被同一个男人追",
+        "onboard_time": 1682943390,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234958,
+        "num": 234958,
+        "word": "赵丽颖要录综艺了",
+        "onboard_time": 1682925688,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231441,
+        "num": 231441,
+        "word": "白鹿包场人生路不熟",
+        "onboard_time": 1682947292,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225448,
+        "num": 225448,
+        "word": "长月烬明预告",
+        "onboard_time": 1682949099,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 218132,
+        "num": 218132,
+        "word": "女子情绪失控端火锅泼人邻桌遭殃",
+        "onboard_time": 1682943390,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216111,
+        "num": 216111,
+        "word": "烧烤店老板为劝退游客自刷17个差评",
+        "onboard_time": 1682913028,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 213768,
+        "num": 213768,
+        "word": "插队",
+        "onboard_time": 1682947890,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203146,
+        "num": 203146,
+        "word": "人生路不熟",
+        "onboard_time": 1682949991,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192075,
+        "num": 192075,
+        "word": "帮费曼给他两岁的女儿取中文名",
+        "onboard_time": 1682936547,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191158,
+        "num": 191158,
+        "word": "拉萨客栈",
+        "onboard_time": 1682945909,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190159,
+        "num": 190159,
+        "word": "苏打绿 南京",
+        "onboard_time": 1682943808,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185399,
+        "num": 185399,
+        "word": "这是在攻打重庆吗",
+        "onboard_time": 1682915309,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 185120,
+        "num": 185120,
+        "word": "时代少年团周边中转站",
+        "onboard_time": 1682950469,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181274,
+        "num": 181274,
+        "word": "一个人过生日 收到投送",
+        "onboard_time": 1682947469,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 172438,
+        "num": 172438,
+        "word": "短短几秒白敬亭被整了十几次",
+        "onboard_time": 1682935227,
+        "rank": 46,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 172158,
+        "num": 172158,
+        "word": "周星驰想看人生路不熟",
+        "onboard_time": 1682946028,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163423,
+        "num": 163423,
+        "word": "吴世勋新剧剧照",
+        "onboard_time": 1682947590,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 125672,
+        "num": 160271,
+        "word": "人气超高但是你却无感的水果",
+        "onboard_time": 1682940149,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#好日子都是靠奋斗来的#"
+    }
+  }
+}
