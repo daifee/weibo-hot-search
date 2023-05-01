@@ -1,0 +1,410 @@
+{
+  "runTime": 1682908510328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1271648,
+        "num": 1271648,
+        "word": "半夜醒了不要拿手机看时间",
+        "onboard_time": 1682898746,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 667810,
+        "num": 667810,
+        "word": "见过最罕见的姓氏是什么",
+        "onboard_time": 1682904570,
+        "rank": 1,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 8160,
+        "num": 623346,
+        "word": "卫星视角下的花开中国太美了",
+        "onboard_time": 1682839286,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051309,
+        "num": 622024,
+        "word": "周杰伦 第一名",
+        "onboard_time": 1682899587,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615763,
+        "num": 615763,
+        "word": "两头婚可以减少夫妻矛盾吗",
+        "onboard_time": 1682865932,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484757,
+        "num": 484757,
+        "word": "警方不建议前往大唐不夜城",
+        "onboard_time": 1682865150,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476408,
+        "num": 476408,
+        "word": "婚礼前一天被通知不需要伴娘",
+        "onboard_time": 1682857466,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 454105,
+        "num": 454105,
+        "word": "丁太升问小鬼你会造空调吗",
+        "onboard_time": 1682903850,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409160,
+        "num": 409160,
+        "word": "市监局回应淄博烧烤店吃出刀片",
+        "onboard_time": 1682899226,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381862,
+        "num": 381862,
+        "word": "张碧晨 车尾号920",
+        "onboard_time": 1682863409,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1952276,
+        "num": 377390,
+        "word": "毕滢 这么发展我真是说不清了",
+        "onboard_time": 1682905050,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825289,
+        "num": 374613,
+        "word": "乃万单手脱上衣",
+        "onboard_time": 1682896642,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392277,
+        "num": 374438,
+        "word": "史航",
+        "onboard_time": 1682862627,
+        "rank": 12,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 368004,
+        "num": 368004,
+        "word": "华晨宇的音乐是挑观众的",
+        "onboard_time": 1682902890,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 346463,
+        "num": 346463,
+        "word": "这个五一山东景区杀疯了",
+        "onboard_time": 1682900488,
+        "rank": 14,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 305515,
+        "num": 305515,
+        "word": "装修砸承重墙致200户居民疏散",
+        "onboard_time": 1682896642,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265379,
+        "num": 265379,
+        "word": "吴建豪在郑秀妍面前提少女时代成员",
+        "onboard_time": 1682866892,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254786,
+        "num": 254786,
+        "word": "库里",
+        "onboard_time": 1682895923,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246875,
+        "num": 246875,
+        "word": "华语乐坛",
+        "onboard_time": 1682907030,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 243410,
+        "num": 243410,
+        "word": "史航曾给房思琪的初恋乐园写推荐语",
+        "onboard_time": 1682900609,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288889,
+        "num": 243228,
+        "word": "周也到底买了多少盲盒",
+        "onboard_time": 1682906789,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287662,
+        "num": 243185,
+        "word": "6人吃了30盘自助小龙虾惊动店长",
+        "onboard_time": 1682900488,
+        "rank": 21,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 251813,
+        "num": 243139,
+        "word": "哪些工作值得干到退休",
+        "onboard_time": 1682908287,
+        "rank": 22,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 239084,
+        "num": 239084,
+        "word": "孙红雷谁说张颂文不能当大哥",
+        "onboard_time": 1682904033,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223163,
+        "num": 223163,
+        "word": "姆巴佩偷袭门将",
+        "onboard_time": 1682899047,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229585,
+        "num": 220754,
+        "word": "袁弘婚前给张歆艺银行卡密码",
+        "onboard_time": 1682904150,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215870,
+        "num": 215870,
+        "word": "王源爸妈不在的演唱会状态",
+        "onboard_time": 1682863709,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205650,
+        "num": 205650,
+        "word": "cp29",
+        "onboard_time": 1682902768,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 204351,
+        "num": 204351,
+        "word": "和豪门大佬网恋后我红了",
+        "onboard_time": 1682855067,
+        "rank": 28,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 195409,
+        "num": 195409,
+        "word": "这工位老板看到了都害怕",
+        "onboard_time": 1682905770,
+        "rank": 29,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 233915,
+        "num": 195207,
+        "word": "长大后童年报复性补偿行为",
+        "onboard_time": 1682907868,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194872,
+        "num": 194872,
+        "word": "五一档电影豆瓣开分",
+        "onboard_time": 1682907808,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 182712,
+        "num": 182712,
+        "word": "上海一女子包车去音乐节被放鸽子",
+        "onboard_time": 1682902289,
+        "rank": 32,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 170808,
+        "num": 170808,
+        "word": "好怕沧九旻把血放干了",
+        "onboard_time": 1682899285,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 168425,
+        "num": 168425,
+        "word": "所谓世面 不过是世界的一面",
+        "onboard_time": 1682905351,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 167686,
+        "num": 167686,
+        "word": "五一多景点人从众现状曝光",
+        "onboard_time": 1682905591,
+        "rank": 35,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 163720,
+        "num": 163720,
+        "word": "老人不识字行李箱贴满回家行程",
+        "onboard_time": 1682874681,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144034,
+        "num": 144034,
+        "word": "山东一文旅局长为游客跳霹雳舞",
+        "onboard_time": 1682893937,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 142644,
+        "num": 142644,
+        "word": "转发这个五月天",
+        "onboard_time": 1682904750,
+        "rank": 38,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 140276,
+        "num": 140276,
+        "word": "seventeen是命运",
+        "onboard_time": 1682903908,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138285,
+        "num": 138285,
+        "word": "贾乃亮控诉许文强偷金条",
+        "onboard_time": 1682906550,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3238466,
+        "num": 138123,
+        "word": "洪欣 某人一直删除我微博",
+        "onboard_time": 1682904631,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137682,
+        "num": 137682,
+        "word": "库里扛着勇士",
+        "onboard_time": 1682896159,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136279,
+        "num": 136279,
+        "word": "淄博八大局登顶全国景区热门第1",
+        "onboard_time": 1682860410,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 128126,
+        "num": 128126,
+        "word": "巴特勒真的太硬了",
+        "onboard_time": 1682898746,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119319,
+        "num": 119319,
+        "word": "湖人勇士谁能晋级西部决赛",
+        "onboard_time": 1682906670,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117983,
+        "num": 117983,
+        "word": "一棵树容不下两只熊猫",
+        "onboard_time": 1682906130,
+        "rank": 46,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 117487,
+        "num": 117487,
+        "word": "广州圣心大教堂石碑碎了",
+        "onboard_time": 1682865334,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112000,
+        "num": 112000,
+        "word": "五一",
+        "onboard_time": 1682900308,
+        "rank": 48,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 102430,
+        "num": 102430,
+        "word": "月收入四万是什么体验",
+        "onboard_time": 1682857466,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成推动高质量发展的强大动力#"
+    }
+  }
+}

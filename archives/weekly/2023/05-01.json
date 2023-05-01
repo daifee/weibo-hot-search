@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682905732993,
+  "endTime": 1682908510328,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -83,7 +83,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 789011,
+      "raw_hot": 825289,
       "num": 789011,
       "word": "乃万单手脱上衣",
       "onboard_time": 1682896642,
@@ -121,6 +121,14 @@
       "onboard_time": 1682863409,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 667810,
+      "num": 667810,
+      "word": "见过最罕见的姓氏是什么",
+      "onboard_time": 1682904570,
+      "rank": 12,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 660976,
@@ -171,20 +179,12 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 452038,
-      "num": 452038,
+      "raw_hot": 454105,
+      "num": 454105,
       "word": "丁太升问小鬼你会造空调吗",
       "onboard_time": 1682903850,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 432947,
-      "num": 432947,
-      "word": "见过最罕见的姓氏是什么",
-      "onboard_time": 1682904570,
-      "rank": 12,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 418241,
@@ -211,6 +211,14 @@
       "category": "作品衍生,情感"
     },
     {
+      "raw_hot": 409160,
+      "num": 409160,
+      "word": "市监局回应淄博烧烤店吃出刀片",
+      "onboard_time": 1682899226,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404402,
       "num": 277781,
       "word": "柳州",
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305515,
+      "num": 305515,
+      "word": "装修砸承重墙致200户居民疏散",
+      "onboard_time": 1682896642,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300272,
       "num": 252521,
       "word": "五一多景点人从众现状曝光",
@@ -249,6 +265,14 @@
       "onboard_time": 1682895798,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288889,
+      "num": 243228,
+      "word": "周也到底买了多少盲盒",
+      "onboard_time": 1682906789,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 269240,
@@ -275,12 +299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259503,
-      "num": 257205,
-      "word": "市监局回应淄博烧烤店吃出刀片",
-      "onboard_time": 1682899226,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 251813,
+      "num": 243139,
+      "word": "哪些工作值得干到退休",
+      "onboard_time": 1682908287,
+      "rank": 22,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 249907,
@@ -289,6 +313,14 @@
       "onboard_time": 1682904750,
       "rank": 22,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 246875,
+      "num": 246875,
+      "word": "华语乐坛",
+      "onboard_time": 1682907030,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 245754,
@@ -307,12 +339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242610,
-      "num": 242610,
-      "word": "装修砸承重墙致200户居民疏散",
-      "onboard_time": 1682896642,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 239084,
+      "num": 239084,
+      "word": "孙红雷谁说张颂文不能当大哥",
+      "onboard_time": 1682904033,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 235687,
@@ -328,6 +360,14 @@
       "word": "骆玉明 女生不要上文学的当",
       "onboard_time": 1682863593,
       "rank": 14,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 233915,
+      "num": 195207,
+      "word": "长大后童年报复性补偿行为",
+      "onboard_time": 1682907868,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -355,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223163,
+      "num": 223163,
+      "word": "姆巴佩偷袭门将",
+      "onboard_time": 1682899047,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218928,
       "num": 218928,
       "word": "上海一女子包车去音乐节被放鸽子",
@@ -379,20 +427,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 209460,
-      "num": 209460,
-      "word": "姆巴佩偷袭门将",
-      "onboard_time": 1682899047,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207732,
       "num": 207732,
       "word": "五月",
       "onboard_time": 1682897240,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205650,
+      "num": 205650,
+      "word": "cp29",
+      "onboard_time": 1682902768,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 204990,
@@ -403,6 +451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195409,
+      "num": 195409,
+      "word": "这工位老板看到了都害怕",
+      "onboard_time": 1682905770,
+      "rank": 29,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 194872,
+      "num": 194872,
+      "word": "五一档电影豆瓣开分",
+      "onboard_time": 1682907808,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191233,
       "num": 191233,
       "word": "向劳动者致敬",
@@ -411,28 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 190384,
-      "num": 190384,
-      "word": "孙红雷谁说张颂文不能当大哥",
-      "onboard_time": 1682904033,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180931,
       "num": 180931,
       "word": "好怕沧九旻把血放干了",
       "onboard_time": 1682899285,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180772,
-      "num": 180772,
-      "word": "cp29",
-      "onboard_time": 1682902768,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 179058,
@@ -465,6 +513,14 @@
       "onboard_time": 1682859690,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 168425,
+      "num": 168425,
+      "word": "所谓世面 不过是世界的一面",
+      "onboard_time": 1682905351,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 168362,
@@ -563,6 +619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138285,
+      "num": 138285,
+      "word": "贾乃亮控诉许文强偷金条",
+      "onboard_time": 1682906550,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136675,
       "num": 112801,
       "word": "国铁回应坐高铁像挤地铁",
@@ -659,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119574,
-      "num": 119574,
-      "word": "所谓世面 不过是世界的一面",
-      "onboard_time": 1682905351,
-      "rank": 44,
-      "category": "幽默,情感"
+      "raw_hot": 119319,
+      "num": 119319,
+      "word": "湖人勇士谁能晋级西部决赛",
+      "onboard_time": 1682906670,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 118994,
@@ -673,6 +737,14 @@
       "onboard_time": 1682852607,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117983,
+      "num": 117983,
+      "word": "一棵树容不下两只熊猫",
+      "onboard_time": 1682906130,
+      "rank": 46,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 114430,
