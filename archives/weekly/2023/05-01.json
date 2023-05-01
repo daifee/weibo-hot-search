@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682950560414,
+  "endTime": 1682951613708,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2404919,
+      "raw_hot": 2812230,
       "num": 1231510,
       "word": "爽门",
       "onboard_time": 1682949099,
@@ -99,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1906010,
+      "num": 1906010,
+      "word": "金华两母女插队被制止当场发飙",
+      "onboard_time": 1682946089,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1832510,
       "num": 393038,
       "word": "肖战 空降",
@@ -121,14 +129,6 @@
       "onboard_time": 1682944710,
       "rank": 1,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1787930,
-      "num": 1787930,
-      "word": "金华两母女插队被制止当场发飙",
-      "onboard_time": 1682946089,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1762220,
@@ -331,6 +331,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 713444,
+      "num": 713444,
+      "word": "五一的堵 逐渐离谱",
+      "onboard_time": 1682949452,
+      "rank": 15,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 709367,
       "num": 709367,
       "word": "婚礼前一天被通知不需要伴娘",
@@ -419,6 +427,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 551249,
+      "num": 551249,
+      "word": "张静初沈墨",
+      "onboard_time": 1682946271,
+      "rank": 9,
+      "category": "影视"
+    },
+    {
       "raw_hot": 522836,
       "num": 522836,
       "word": "漫长的季节大结局",
@@ -483,14 +499,6 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 480094,
-      "num": 480094,
-      "word": "张静初沈墨",
-      "onboard_time": 1682946271,
-      "rank": 9,
-      "category": "影视"
-    },
-    {
       "raw_hot": 477862,
       "num": 477862,
       "word": "陈晓演2个糙汉奖励自己1部古装剧",
@@ -547,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 432355,
+      "num": 324424,
+      "word": "时代少年团周边中转站",
+      "onboard_time": 1682950469,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 418241,
       "num": 255021,
       "word": "6人吃了30盘自助小龙虾惊动店长",
@@ -561,6 +577,14 @@
       "onboard_time": 1682900609,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415128,
+      "num": 378715,
+      "word": "蒋奇明 丑帅",
+      "onboard_time": 1682948790,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 410353,
@@ -627,20 +651,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386305,
-      "num": 386305,
-      "word": "五一的堵 逐渐离谱",
-      "onboard_time": 1682949452,
-      "rank": 15,
-      "category": "幽默,旅游"
-    },
-    {
       "raw_hot": 383497,
       "num": 383497,
       "word": "广州圣心大教堂石碑碎了",
       "onboard_time": 1682865334,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372786,
+      "num": 372786,
+      "word": "金珉奎小狗",
+      "onboard_time": 1682950952,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 347296,
@@ -713,6 +737,14 @@
       "onboard_time": 1682912429,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314864,
+      "num": 253138,
+      "word": "长月烬明预告",
+      "onboard_time": 1682949099,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 314512,
@@ -1115,6 +1147,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 235484,
+      "num": 236549,
+      "word": "ZB1直播",
+      "onboard_time": 1682950891,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234794,
       "num": 234794,
       "word": "骆玉明 女生不要上文学的当",
@@ -1147,8 +1187,8 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 231441,
-      "num": 231441,
+      "raw_hot": 232113,
+      "num": 232113,
       "word": "白鹿包场人生路不熟",
       "onboard_time": 1682947292,
       "rank": 31,
@@ -1161,6 +1201,14 @@
       "onboard_time": 1682842046,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230305,
+      "num": 230305,
+      "word": "人生路不熟",
+      "onboard_time": 1682949991,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 228199,
@@ -1179,19 +1227,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227841,
+      "num": 227841,
+      "word": "插队",
+      "onboard_time": 1682947890,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226382,
       "num": 226382,
       "word": "白鹿黄霄雲合唱长月烬明主题曲",
       "onboard_time": 1682935408,
       "rank": 26,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 225448,
-      "num": 225448,
-      "word": "长月烬明预告",
-      "onboard_time": 1682949099,
-      "rank": 35,
       "category": "影视"
     },
     {
@@ -1209,6 +1257,22 @@
       "onboard_time": 1682899047,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221490,
+      "num": 221490,
+      "word": "长月烬明",
+      "onboard_time": 1682849906,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 221181,
+      "num": 221181,
+      "word": "女子情绪失控端火锅泼人邻桌遭殃",
+      "onboard_time": 1682943390,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220817,
@@ -1241,14 +1305,6 @@
       "onboard_time": 1682926167,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218132,
-      "num": 218132,
-      "word": "女子情绪失控端火锅泼人邻桌遭殃",
-      "onboard_time": 1682943390,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218105,
@@ -1289,14 +1345,6 @@
       "onboard_time": 1682947948,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 213768,
-      "num": 213768,
-      "word": "插队",
-      "onboard_time": 1682947890,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212125,
@@ -1347,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205839,
+      "num": 205839,
+      "word": "一个人过生日 收到投送",
+      "onboard_time": 1682947469,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 205650,
       "num": 205650,
       "word": "cp29",
@@ -1384,14 +1440,6 @@
       "word": "云襄传好看",
       "onboard_time": 1682947051,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 203146,
-      "num": 203146,
-      "word": "人生路不熟",
-      "onboard_time": 1682949991,
-      "rank": 39,
       "category": "影视"
     },
     {
@@ -1529,22 +1577,6 @@
       "onboard_time": 1682918068,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185120,
-      "num": 185120,
-      "word": "时代少年团周边中转站",
-      "onboard_time": 1682950469,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 181274,
-      "num": 181274,
-      "word": "一个人过生日 收到投送",
-      "onboard_time": 1682947469,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 180931,
@@ -1744,14 +1776,6 @@
       "word": "吴世勋新剧剧照",
       "onboard_time": 1682947590,
       "rank": 48,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 163011,
-      "num": 163011,
-      "word": "长月烬明",
-      "onboard_time": 1682849906,
-      "rank": 27,
       "category": "影视"
     },
     {
@@ -2404,7 +2428,7 @@
     },
     {
       "raw_hot": 48317,
-      "num": 1323951,
+      "num": 1495685,
       "word": "光荣属于劳动者",
       "onboard_time": 1682948790,
       "rank": 2,
