@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682939659349,
+  "endTime": 1682940797898,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1951901,
+      "num": 1951901,
+      "word": "陈晓毛晓彤十年前vs十年后",
+      "onboard_time": 1682936969,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1832510,
       "num": 393038,
       "word": "肖战 空降",
       "onboard_time": 1682937088,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1810554,
-      "num": 1810554,
-      "word": "陈晓毛晓彤十年前vs十年后",
-      "onboard_time": 1682936969,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1762220,
@@ -100,11 +100,19 @@
     },
     {
       "raw_hot": 1459992,
-      "num": 440697,
+      "num": 507475,
       "word": "hybe",
       "onboard_time": 1682933186,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1445287,
+      "num": 518451,
+      "word": "拉萨客栈杀人案嫌犯已被抓捕",
+      "onboard_time": 1682939189,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1376127,
@@ -283,19 +291,19 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 700101,
+      "num": 512610,
+      "word": "杜江身材",
+      "onboard_time": 1682936306,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685337,
       "num": 409840,
       "word": "蔡少芬曾说张丹峰坏坏的",
       "onboard_time": 1682920347,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 682428,
-      "num": 376330,
-      "word": "杜江身材",
-      "onboard_time": 1682936306,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -331,12 +339,12 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 522680,
-      "num": 379803,
-      "word": "拉萨客栈杀人案嫌犯已被抓捕",
-      "onboard_time": 1682939189,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 522836,
+      "num": 522836,
+      "word": "漫长的季节大结局",
+      "onboard_time": 1682939008,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 519021,
@@ -353,6 +361,14 @@
       "onboard_time": 1682895923,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 504970,
+      "num": 504970,
+      "word": "朋友圈发什么最让人反感",
+      "onboard_time": 1682940149,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 485510,
@@ -499,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396343,
+      "num": 396343,
+      "word": "帮费曼给他两岁的女儿取中文名",
+      "onboard_time": 1682936547,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383497,
       "num": 383497,
       "word": "广州圣心大教堂石碑碎了",
@@ -507,36 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373203,
-      "num": 373203,
-      "word": "漫长的季节",
-      "onboard_time": 1682861010,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 371419,
-      "num": 325927,
-      "word": "漫长的季节大结局",
-      "onboard_time": 1682939008,
-      "rank": 20,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 369891,
-      "num": 369891,
+      "raw_hot": 376641,
+      "num": 376641,
       "word": "短短几秒白敬亭被整了十几次",
       "onboard_time": 1682935227,
       "rank": 19,
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 346689,
-      "num": 325917,
-      "word": "帮费曼给他两岁的女儿取中文名",
-      "onboard_time": 1682936547,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 373203,
+      "num": 373203,
+      "word": "漫长的季节",
+      "onboard_time": 1682861010,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 338856,
@@ -731,8 +739,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 256108,
-      "num": 256108,
+      "raw_hot": 257821,
+      "num": 257821,
       "word": "这样洗澡能治痔疮",
       "onboard_time": 1682935647,
       "rank": 38,
@@ -835,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245071,
+      "num": 245071,
+      "word": "拉萨客栈杀人案嫌犯抓捕现场",
+      "onboard_time": 1682939727,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241968,
       "num": 241968,
       "word": "马伊琍谈原生家庭影响",
@@ -873,6 +889,14 @@
       "onboard_time": 1682893937,
       "rank": 22,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 235264,
+      "num": 235264,
+      "word": "澹台烬演魔神被识破",
+      "onboard_time": 1682938169,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 234794,
@@ -947,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220817,
+      "num": 220817,
+      "word": "时代少年团18楼有新闻视频",
+      "onboard_time": 1682937328,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220758,
       "num": 200832,
       "word": "女子坐高铁到山寨大唐不夜城心哇凉",
@@ -971,19 +1003,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 218105,
+      "num": 218105,
+      "word": "彪子没了",
+      "onboard_time": 1682939008,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 217643,
       "num": 217643,
       "word": "漫长的季节太虐了",
       "onboard_time": 1682925688,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 217257,
-      "num": 202033,
-      "word": "澹台烬演魔神被识破",
-      "onboard_time": 1682938169,
-      "rank": 30,
       "category": "影视"
     },
     {
@@ -993,6 +1025,14 @@
       "onboard_time": 1682925626,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216705,
+      "num": 216705,
+      "word": "eStar对战AG",
+      "onboard_time": 1682940149,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 212125,
@@ -1187,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182306,
-      "num": 147106,
-      "word": "时代少年团18楼有新闻视频",
-      "onboard_time": 1682937328,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180931,
       "num": 180931,
       "word": "好怕沧九旻把血放干了",
@@ -1267,14 +1299,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175591,
-      "num": 145104,
-      "word": "彪子没了",
-      "onboard_time": 1682939008,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 175238,
       "num": 175238,
       "word": "感谢辛弃疾治好了我的焦虑",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1682918969,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173094,
+      "num": 173094,
+      "word": "漫长的季节豆瓣涨分9.3",
+      "onboard_time": 1682938768,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 172365,
@@ -1451,14 +1483,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148290,
-      "num": 133906,
-      "word": "漫长的季节豆瓣涨分9.3",
-      "onboard_time": 1682938768,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 148190,
       "num": 148190,
       "word": "贺峻霖说明天见",
@@ -1523,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137564,
+      "num": 137564,
+      "word": "人气超高但是你却无感的水果",
+      "onboard_time": 1682940149,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136675,
       "num": 112801,
       "word": "国铁回应坐高铁像挤地铁",
@@ -1577,6 +1609,14 @@
       "onboard_time": 1682866353,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130884,
+      "num": 130884,
+      "word": "8岁男孩爱啃手被妈妈带去做美甲",
+      "onboard_time": 1682938048,
+      "rank": 46,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 130873,
@@ -1649,6 +1689,14 @@
       "onboard_time": 1682915908,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126694,
+      "num": 126694,
+      "word": "真的会被面包节试吃震惊",
+      "onboard_time": 1682940328,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 124360,
@@ -1771,12 +1819,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 111723,
-      "num": 111723,
-      "word": "8岁男孩爱啃手被妈妈带去做美甲",
-      "onboard_time": 1682938048,
-      "rank": 46,
-      "category": "社会新闻,幽默"
+      "raw_hot": 110660,
+      "num": 110660,
+      "word": "严浩翔说去享受玩得开心",
+      "onboard_time": 1682940749,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 109841,
