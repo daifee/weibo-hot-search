@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682922138257,
+  "endTime": 1682922929212,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -67,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1608381,
-      "num": 1608381,
+      "raw_hot": 1645310,
+      "num": 1645310,
       "word": "上淄博公厕配肠炎宁片和卫生巾",
       "onboard_time": 1682918728,
       "rank": 18,
@@ -219,8 +219,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 535524,
-      "num": 535524,
+      "raw_hot": 553685,
+      "num": 553685,
       "word": "一位小哥在韩国受到了歧视",
       "onboard_time": 1682919149,
       "rank": 43,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 432490,
-      "num": 223059,
+      "num": 242257,
       "word": "女粉丝戴头纱去曾黎签售会",
       "onboard_time": 1682921129,
       "rank": 20,
@@ -353,6 +353,22 @@
       "onboard_time": 1682910146,
       "rank": 24,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 330521,
+      "num": 330521,
+      "word": "珠穆朗玛峰凌晨两点还在堵",
+      "onboard_time": 1682922149,
+      "rank": 11,
+      "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 317483,
+      "num": 317483,
+      "word": "范丞丞分点脖子给张百乔吧",
+      "onboard_time": 1682922629,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 315724,
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 283215,
-      "num": 222096,
+      "num": 228774,
       "word": "易烊千玺手臂肌肉",
       "onboard_time": 1682916628,
       "rank": 20,
@@ -595,6 +611,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228069,
+      "num": 228069,
+      "word": "你会嫁给合适但不喜欢的人吗",
+      "onboard_time": 1682919808,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224453,
       "num": 132705,
       "word": "张新成演技",
@@ -667,12 +691,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 205440,
-      "num": 205440,
-      "word": "你会嫁给合适但不喜欢的人吗",
-      "onboard_time": 1682919808,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 205208,
+      "num": 139780,
+      "word": "倪妮抓拍图",
+      "onboard_time": 1682921009,
+      "rank": 30,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 204990,
@@ -697,6 +721,14 @@
       "onboard_time": 1682905770,
       "rank": 29,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 193318,
+      "num": 139242,
+      "word": "电影不敢这么拍",
+      "onboard_time": 1682921427,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 191233,
@@ -753,6 +785,14 @@
       "onboard_time": 1682862689,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178687,
+      "num": 178687,
+      "word": "动车走一半超重停了",
+      "onboard_time": 1682921129,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 178324,
@@ -907,14 +947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153615,
-      "num": 139780,
-      "word": "倪妮抓拍图",
-      "onboard_time": 1682921009,
-      "rank": 30,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 153393,
       "num": 153393,
       "word": "看到那么多女孩站出来",
@@ -971,14 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137768,
-      "num": 137768,
-      "word": "电影不敢这么拍",
-      "onboard_time": 1682921427,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 136675,
       "num": 112801,
       "word": "国铁回应坐高铁像挤地铁",
@@ -1011,6 +1035,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 133654,
+      "num": 133654,
+      "word": "经历过最穷的时候有多穷",
+      "onboard_time": 1682922568,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131591,
       "num": 131591,
       "word": "久酷鲜奶",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1682918608,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 129812,
+      "num": 129812,
+      "word": "2023版年度上海好吃攻略",
+      "onboard_time": 1682922568,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 129738,
@@ -1065,14 +1105,6 @@
       "onboard_time": 1682869348,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 122495,
-      "num": 122495,
-      "word": "动车走一半超重停了",
-      "onboard_time": 1682921129,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 121013,
@@ -1227,12 +1259,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96756,
+      "num": 96756,
+      "word": "过敏原能有多离谱",
+      "onboard_time": 1682922748,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94471,
       "num": 103296,
       "word": "五月你好",
       "onboard_time": 1682866830,
       "rank": 49,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 92578,
+      "num": 92578,
+      "word": "香港私家车7月1日起可入粤",
+      "onboard_time": 1682922508,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90632,
@@ -1347,20 +1395,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 43759,
+      "num": 115998,
+      "word": "五一的最终归宿还是快餐店",
+      "onboard_time": 1682920829,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43644,
       "num": 139379,
       "word": "90后航天小姐姐用抓娃娃解释月球采样",
       "onboard_time": 1682871684,
       "rank": 29,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 43634,
-      "num": 109327,
-      "word": "五一的最终归宿还是快餐店",
-      "onboard_time": 1682920829,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41876,

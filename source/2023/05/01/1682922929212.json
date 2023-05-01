@@ -1,0 +1,410 @@
+{
+  "runTime": 1682922929212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1645310,
+        "num": 1645310,
+        "word": "上淄博公厕配肠炎宁片和卫生巾",
+        "onboard_time": 1682918728,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766920,
+        "num": 766920,
+        "word": "史上最挤五一档却没带火电影院",
+        "onboard_time": 1682911468,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 52370,
+        "num": 705336,
+        "word": "每一个奋斗的你都了不起",
+        "onboard_time": 1682915127,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3309213,
+        "num": 700783,
+        "word": "女演员晒裸照反击黑客勒索",
+        "onboard_time": 1682917650,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1688418,
+        "num": 699387,
+        "word": "当事人称酒店床下发现尸体属实",
+        "onboard_time": 1682915427,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689543,
+        "num": 689543,
+        "word": "这是在攻打重庆吗",
+        "onboard_time": 1682915309,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 644875,
+        "num": 644875,
+        "word": "烧烤店老板为劝退游客自刷17个差评",
+        "onboard_time": 1682913028,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 553685,
+        "num": 553685,
+        "word": "一位小哥在韩国受到了歧视",
+        "onboard_time": 1682919149,
+        "rank": 7,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 426507,
+        "num": 426507,
+        "word": "跑男 控牌",
+        "onboard_time": 1682910449,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382551,
+        "num": 382551,
+        "word": "半夜醒了不要拿手机看时间",
+        "onboard_time": 1682898746,
+        "rank": 9,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1669541,
+        "num": 381894,
+        "word": "洪欣张丹峰离婚",
+        "onboard_time": 1682897784,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330521,
+        "num": 330521,
+        "word": "珠穆朗玛峰凌晨两点还在堵",
+        "onboard_time": 1682922149,
+        "rank": 11,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 317483,
+        "num": 317483,
+        "word": "范丞丞分点脖子给张百乔吧",
+        "onboard_time": 1682922629,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499723,
+        "num": 314373,
+        "word": "毕滢 这么发展我真是说不清了",
+        "onboard_time": 1682905050,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308148,
+        "num": 308148,
+        "word": "陈晓演2个糙汉奖励自己1部古装剧",
+        "onboard_time": 1682912308,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304604,
+        "num": 304604,
+        "word": "飞机上你会如何称呼空姐",
+        "onboard_time": 1682919808,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285524,
+        "num": 285524,
+        "word": "东北人评价淄博烧烤",
+        "onboard_time": 1682916268,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 283045,
+        "num": 283045,
+        "word": "长大后童年报复性补偿行为",
+        "onboard_time": 1682907868,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262242,
+        "num": 262242,
+        "word": "周杰伦 第一名",
+        "onboard_time": 1682899587,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243822,
+        "num": 243822,
+        "word": "警方不建议前往大唐不夜城",
+        "onboard_time": 1682865150,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292779,
+        "num": 242257,
+        "word": "女粉丝戴头纱去曾黎签售会",
+        "onboard_time": 1682921129,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228774,
+        "num": 228774,
+        "word": "易烊千玺手臂肌肉",
+        "onboard_time": 1682916628,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228069,
+        "num": 228069,
+        "word": "你会嫁给合适但不喜欢的人吗",
+        "onboard_time": 1682919808,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219015,
+        "num": 219015,
+        "word": "张碧晨 车尾号920",
+        "onboard_time": 1682863409,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193965,
+        "num": 193965,
+        "word": "乃万单手脱上衣",
+        "onboard_time": 1682896642,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178687,
+        "num": 178687,
+        "word": "动车走一半超重停了",
+        "onboard_time": 1682921129,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174085,
+        "num": 174085,
+        "word": "医生在工作时遇到的最离谱的谎言",
+        "onboard_time": 1682918008,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145109,
+        "num": 145109,
+        "word": "两头婚可以减少夫妻矛盾吗",
+        "onboard_time": 1682865932,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139830,
+        "num": 139830,
+        "word": "史航",
+        "onboard_time": 1682862627,
+        "rank": 28,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 114387,
+        "num": 139758,
+        "word": "石川佳纯宣布退役",
+        "onboard_time": 1682908948,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205208,
+        "num": 139542,
+        "word": "倪妮抓拍图",
+        "onboard_time": 1682921009,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 193318,
+        "num": 139242,
+        "word": "电影不敢这么拍",
+        "onboard_time": 1682921427,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144849,
+        "num": 139046,
+        "word": "王源说其实我妈在后台",
+        "onboard_time": 1682913507,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139033,
+        "num": 139033,
+        "word": "沧九旻黎苏苏灭魂钉吻花絮好甜",
+        "onboard_time": 1682917347,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136640,
+        "num": 136640,
+        "word": "2023MSI",
+        "onboard_time": 1682918250,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133654,
+        "num": 133654,
+        "word": "经历过最穷的时候有多穷",
+        "onboard_time": 1682922568,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132886,
+        "num": 132886,
+        "word": "婚礼前一天被通知不需要伴娘",
+        "onboard_time": 1682857466,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129812,
+        "num": 129812,
+        "word": "2023版年度上海好吃攻略",
+        "onboard_time": 1682922568,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120857,
+        "num": 120857,
+        "word": "姒婴竟然是姐控",
+        "onboard_time": 1682909549,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 43759,
+        "num": 115998,
+        "word": "五一的最终归宿还是快餐店",
+        "onboard_time": 1682920829,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115441,
+        "num": 115441,
+        "word": "王鹤棣崩溃哭戏动图",
+        "onboard_time": 1682913147,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109106,
+        "num": 109106,
+        "word": "萤火虫漫展",
+        "onboard_time": 1682914707,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108749,
+        "num": 108749,
+        "word": "赵丽颖五月行程",
+        "onboard_time": 1682910029,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105542,
+        "num": 105542,
+        "word": "一个五一没回家的淄博人实录",
+        "onboard_time": 1682912429,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97324,
+        "num": 97324,
+        "word": "女子坐高铁到山寨大唐不夜城心哇凉",
+        "onboard_time": 1682915066,
+        "rank": 44,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 96756,
+        "num": 96756,
+        "word": "过敏原能有多离谱",
+        "onboard_time": 1682922748,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92578,
+        "num": 92578,
+        "word": "香港私家车7月1日起可入粤",
+        "onboard_time": 1682922508,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88824,
+        "num": 88824,
+        "word": "凳子上的洞是干嘛用的",
+        "onboard_time": 1682921788,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86223,
+        "num": 86223,
+        "word": "丁太升问小鬼你会造空调吗",
+        "onboard_time": 1682903850,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85779,
+        "num": 85779,
+        "word": "国外网友偶遇蔡徐坤",
+        "onboard_time": 1682917347,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国广大劳动群众致以节日的祝贺#"
+    }
+  }
+}
