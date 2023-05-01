@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682954250261,
+  "endTime": 1682955216761,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1565743,
+      "num": 1565743,
+      "word": "月收入一万真的简单吗",
+      "onboard_time": 1682943508,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1459992,
       "num": 507475,
       "word": "hybe",
       "onboard_time": 1682933186,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1404622,
-      "num": 1404622,
-      "word": "月收入一万真的简单吗",
-      "onboard_time": 1682943508,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1376127,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 749995,
+      "num": 749995,
+      "word": "女生要敢于结束不健康的关系",
+      "onboard_time": 1682951733,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 743526,
       "num": 417293,
       "word": "吴建豪在郑秀妍面前提少女时代成员",
@@ -379,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 681416,
-      "num": 681416,
-      "word": "女生要敢于结束不健康的关系",
-      "onboard_time": 1682951733,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 660976,
       "num": 660976,
       "word": "两头婚可以减少夫妻矛盾吗",
@@ -409,6 +409,14 @@
       "onboard_time": 1682929466,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 575527,
+      "num": 575527,
+      "word": "音乐节偶遇倪妮",
+      "onboard_time": 1682953709,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 567767,
@@ -899,14 +907,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282184,
-      "num": 282184,
-      "word": "音乐节偶遇倪妮",
-      "onboard_time": 1682953709,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 279032,
       "num": 279032,
       "word": "想买个青蛙人偶去发疯",
@@ -1203,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234001,
+      "num": 234001,
+      "word": "窦靖童现场",
+      "onboard_time": 1682952991,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 232845,
       "num": 232845,
       "word": "淄博八大局登顶全国景区热门第1",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1682949991,
       "rank": 39,
       "category": "影视"
-    },
-    {
-      "raw_hot": 228233,
-      "num": 228233,
-      "word": "窦靖童现场",
-      "onboard_time": 1682952991,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 228199,
@@ -1377,6 +1377,14 @@
       "onboard_time": 1682947948,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 214177,
+      "num": 214177,
+      "word": "陈飞宇留胡子了",
+      "onboard_time": 1682953469,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 212125,
@@ -1513,14 +1521,6 @@
       "onboard_time": 1682944589,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 196400,
-      "num": 196400,
-      "word": "陈飞宇留胡子了",
-      "onboard_time": 1682953469,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 195409,
@@ -2283,6 +2283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113458,
+      "num": 113458,
+      "word": "不要以为四川人好惹",
+      "onboard_time": 1682954908,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112794,
       "num": 112794,
       "word": "LGD急什么",
@@ -2586,6 +2594,9 @@
     },
     {
       "word": "#一批新法新规今起施行#"
+    },
+    {
+      "word": "#习近平总书记这样谈劳模精神#"
     }
   ]
 }
