@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682925395132,
+  "endTime": 1682926390839,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1869411,
-      "num": 1869411,
+      "raw_hot": 2050745,
+      "num": 2050745,
       "word": "珠穆朗玛峰凌晨两点还在堵",
       "onboard_time": 1682922149,
       "rank": 11,
@@ -291,6 +291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 468100,
+      "num": 354670,
+      "word": "赵丽颖要录综艺了",
+      "onboard_time": 1682925688,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452510,
       "num": 452510,
       "word": "东北人评价淄博烧烤",
@@ -467,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 272532,
+      "num": 272532,
+      "word": "经历过最穷的时候有多穷",
+      "onboard_time": 1682922568,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269240,
       "num": 269240,
       "word": "看拜仁踢球 坐牢",
@@ -497,14 +513,6 @@
       "onboard_time": 1682913507,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 264675,
-      "num": 264675,
-      "word": "经历过最穷的时候有多穷",
-      "onboard_time": 1682922568,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 252266,
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246092,
+      "num": 246092,
+      "word": "电影不敢这么拍",
+      "onboard_time": 1682921427,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 245754,
       "num": 245754,
       "word": "丫丫暂住的上海动物园人气旺",
@@ -587,20 +603,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237332,
+      "num": 182863,
+      "word": "你目前月薪存一百万要多久",
+      "onboard_time": 1682925868,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235687,
       "num": 235687,
       "word": "山东一文旅局长为游客跳霹雳舞",
       "onboard_time": 1682893937,
       "rank": 22,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 235056,
-      "num": 235056,
-      "word": "电影不敢这么拍",
-      "onboard_time": 1682921427,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 234794,
@@ -643,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225431,
+      "num": 225431,
+      "word": "男子阻止插队遭两女子狂骂",
+      "onboard_time": 1682923770,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224453,
       "num": 132705,
       "word": "张新成演技",
@@ -673,6 +697,30 @@
       "onboard_time": 1682902289,
       "rank": 24,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 218395,
+      "num": 218395,
+      "word": "薇洛西尔德斯",
+      "onboard_time": 1682926167,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 217643,
+      "num": 217643,
+      "word": "漫长的季节太虐了",
+      "onboard_time": 1682925688,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 216885,
+      "num": 201260,
+      "word": "马嘉祺灰色短袖造型",
+      "onboard_time": 1682925626,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215616,
@@ -739,6 +787,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 202257,
+      "num": 202257,
+      "word": "凉哈皮",
+      "onboard_time": 1682925808,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199497,
       "num": 199497,
       "word": "动车走一半超重停了",
@@ -755,18 +811,18 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 192394,
+      "num": 192394,
+      "word": "云襄传主演是懂自我介绍的",
+      "onboard_time": 1682925148,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191233,
       "num": 191233,
       "word": "向劳动者致敬",
       "onboard_time": 1682903310,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189087,
-      "num": 189087,
-      "word": "男子阻止插队遭两女子狂骂",
-      "onboard_time": 1682923770,
       "rank": 26,
       "category": "社会新闻"
     },
@@ -851,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176011,
+      "num": 176011,
+      "word": "处女座和白羊座莫名的cp感",
+      "onboard_time": 1682924489,
+      "rank": 40,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 175641,
       "num": 175641,
       "word": "广州动物园",
@@ -905,6 +969,14 @@
       "onboard_time": 1682910328,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167505,
+      "num": 167505,
+      "word": "长月烬明市占率破30%",
+      "onboard_time": 1682925266,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 167236,
@@ -977,14 +1049,6 @@
       "onboard_time": 1682867910,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155444,
-      "num": 155444,
-      "word": "云襄传主演是懂自我介绍的",
-      "onboard_time": 1682925148,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 154752,
@@ -1147,12 +1211,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126007,
+      "num": 165722,
+      "word": "香港私家车7月1日起可入粤",
+      "onboard_time": 1682922508,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122515,
       "num": 122515,
       "word": "长空之王单日票房破亿",
       "onboard_time": 1682869348,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 122462,
+      "num": 122462,
+      "word": "人生路不熟单日票房反超",
+      "onboard_time": 1682925148,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 122184,
+      "num": 122184,
+      "word": "沈月五一vlog",
+      "onboard_time": 1682925327,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 121013,
@@ -1179,14 +1267,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 120737,
-      "num": 120737,
-      "word": "处女座和白羊座莫名的cp感",
-      "onboard_time": 1682924489,
-      "rank": 40,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 119787,
       "num": 119787,
       "word": "NBA春晚",
@@ -1203,28 +1283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118849,
-      "num": 118849,
-      "word": "香港私家车7月1日起可入粤",
-      "onboard_time": 1682922508,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117983,
       "num": 117983,
       "word": "一棵树容不下两只熊猫",
       "onboard_time": 1682906130,
       "rank": 46,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 115684,
-      "num": 115684,
-      "word": "人生路不熟单日票房反超",
-      "onboard_time": 1682925148,
-      "rank": 42,
-      "category": "影视"
     },
     {
       "raw_hot": 114430,
@@ -1331,28 +1395,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97409,
-      "num": 97409,
-      "word": "沈月五一vlog",
-      "onboard_time": 1682925327,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94471,
       "num": 103296,
       "word": "五月你好",
       "onboard_time": 1682866830,
       "rank": 49,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 92548,
-      "num": 92548,
-      "word": "长月烬明市占率破30%",
-      "onboard_time": 1682925266,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 90632,
