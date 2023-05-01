@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1682958146125,
+  "endTime": 1682959066039,
   "band_list": [
     {
       "raw_hot": 1444858,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 714215,
+      "num": 714215,
+      "word": "五一的堵 逐渐离谱",
+      "onboard_time": 1682949452,
+      "rank": 7,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 703689,
       "num": 703689,
       "word": "女生要敢于结束不健康的关系",
@@ -67,16 +75,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 618090,
-      "num": 618090,
-      "word": "五一的堵 逐渐离谱",
-      "onboard_time": 1682949452,
-      "rank": 7,
-      "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 593812,
-      "num": 593812,
+      "raw_hot": 617743,
+      "num": 617743,
       "word": "同事间开黄腔也可能属于性骚扰",
       "onboard_time": 1682955688,
       "rank": 8,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 388983,
+      "num": 388983,
+      "word": "止庵 史航",
+      "onboard_time": 1682955507,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375855,
       "num": 375855,
       "word": "狂飙后又迎来了漫长的季节",
@@ -121,14 +129,6 @@
       "onboard_time": 1682952695,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 353331,
-      "num": 353331,
-      "word": "止庵 史航",
-      "onboard_time": 1682955507,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 319963,
@@ -171,12 +171,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 198081,
+      "raw_hot": 203292,
+      "num": 203292,
+      "word": "73岁大爷头婚娶69岁大妈",
+      "onboard_time": 1682957188,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199932,
       "num": 261728,
       "word": "女子情绪失控端火锅泼人邻桌遭殃",
       "onboard_time": 1682943390,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189238,
+      "num": 176197,
+      "word": "王心凌张栋梁合影",
+      "onboard_time": 1682943628,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182997,
@@ -201,14 +217,6 @@
       "onboard_time": 1682946511,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 176197,
-      "num": 176197,
-      "word": "王心凌张栋梁合影",
-      "onboard_time": 1682943628,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 174413,
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155522,
+      "num": 128949,
+      "word": "毛雪汪谈月经羞耻",
+      "onboard_time": 1682958086,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143066,
       "num": 132269,
       "word": "原来高手真的在民间",
@@ -259,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 134003,
+      "num": 130926,
+      "word": "郑秀妍巅峰音乐节",
+      "onboard_time": 1682957065,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 133480,
       "num": 133480,
       "word": "May I love you",
@@ -267,28 +291,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130926,
-      "num": 130926,
-      "word": "郑秀妍巅峰音乐节",
-      "onboard_time": 1682957065,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 129029,
       "num": 129029,
       "word": "帮费曼给他两岁的女儿取中文名",
       "onboard_time": 1682936547,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122852,
-      "num": 133335,
-      "word": "73岁大爷头婚娶69岁大妈",
-      "onboard_time": 1682957188,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115349,
@@ -315,7 +323,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98796,
+      "raw_hot": 100747,
       "num": 131783,
       "word": "短短几秒白敬亭被整了十几次",
       "onboard_time": 1682935227,
@@ -329,14 +337,6 @@
       "onboard_time": 1682947292,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 91044,
-      "num": 128949,
-      "word": "毛雪汪谈月经羞耻",
-      "onboard_time": 1682958086,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 82630,
@@ -371,12 +371,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66918,
+      "raw_hot": 74008,
+      "num": 123239,
+      "word": "山东各地文旅局长进淄赶烤",
+      "onboard_time": 1682958145,
+      "rank": 29,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 73374,
       "num": 128921,
       "word": "颜色真的很影响食欲",
       "onboard_time": 1682957965,
       "rank": 47,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 72963,
+      "num": 122617,
+      "word": "五月能不能不给我添堵",
+      "onboard_time": 1682957728,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 65585,
@@ -387,12 +403,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64729,
+      "num": 122608,
+      "word": "人气超高但是你却无感的水果",
+      "onboard_time": 1682940149,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 52339,
+      "num": 121976,
+      "word": "男子将手机放厕所偷拍女乘客如厕",
+      "onboard_time": 1682958924,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51556,
       "num": 128891,
       "word": "eStar对战AG",
       "onboard_time": 1682940149,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 45864,
+      "num": 121941,
+      "word": "煮虾虾弯成直角口感最好",
+      "onboard_time": 1682959044,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 23131,
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#一批新法新规今起施行#"
+    },
+    {
+      "word": "#好日子都是靠奋斗来的#"
     }
   ]
 }

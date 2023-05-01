@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682958146125,
+  "endTime": 1682959066039,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -411,20 +411,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 617743,
+      "num": 617743,
+      "word": "同事间开黄腔也可能属于性骚扰",
+      "onboard_time": 1682955688,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 595131,
       "num": 431375,
       "word": "饥饿游戏女演员 女王行为",
       "onboard_time": 1682929466,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 593812,
-      "num": 593812,
-      "word": "同事间开黄腔也可能属于性骚扰",
-      "onboard_time": 1682955688,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 567767,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388983,
+      "num": 388983,
+      "word": "止庵 史航",
+      "onboard_time": 1682955507,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385908,
       "num": 385908,
       "word": "长月烬明预告",
@@ -705,14 +713,6 @@
       "onboard_time": 1682865334,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 353331,
-      "num": 353331,
-      "word": "止庵 史航",
-      "onboard_time": 1682955507,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 347296,
@@ -1515,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 203292,
+      "num": 203292,
+      "word": "73岁大爷头婚娶69岁大妈",
+      "onboard_time": 1682957188,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202348,
       "num": 202348,
       "word": "所谓世面 不过是世界的一面",
@@ -1939,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155522,
+      "num": 128949,
+      "word": "毛雪汪谈月经羞耻",
+      "onboard_time": 1682958086,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154752,
       "num": 154752,
       "word": "seventeen是命运",
@@ -2115,20 +2131,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 134003,
+      "num": 130926,
+      "word": "郑秀妍巅峰音乐节",
+      "onboard_time": 1682957065,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131591,
       "num": 131591,
       "word": "久酷鲜奶",
       "onboard_time": 1682866353,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130926,
-      "num": 130926,
-      "word": "郑秀妍巅峰音乐节",
-      "onboard_time": 1682957065,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 130884,
@@ -2232,14 +2248,6 @@
       "word": "5岁娃隔马路向警察爸爸敬礼",
       "onboard_time": 1682934626,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122852,
-      "num": 133335,
-      "word": "73岁大爷头婚娶69岁大妈",
-      "onboard_time": 1682957188,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -2443,14 +2451,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 91044,
-      "num": 128949,
-      "word": "毛雪汪谈月经羞耻",
-      "onboard_time": 1682958086,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90632,
       "num": 90632,
       "word": "不办婚礼怎么收回礼金",
@@ -2523,6 +2523,30 @@
       "category": "影视"
     },
     {
+      "raw_hot": 74008,
+      "num": 123239,
+      "word": "山东各地文旅局长进淄赶烤",
+      "onboard_time": 1682958145,
+      "rank": 29,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 73374,
+      "num": 128921,
+      "word": "颜色真的很影响食欲",
+      "onboard_time": 1682957965,
+      "rank": 47,
+      "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 72963,
+      "num": 122617,
+      "word": "五月能不能不给我添堵",
+      "onboard_time": 1682957728,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68644,
       "num": 68644,
       "word": "黄圣依妈妈十五年国画缘",
@@ -2539,14 +2563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 66918,
-      "num": 128921,
-      "word": "颜色真的很影响食欲",
-      "onboard_time": 1682957965,
-      "rank": 47,
-      "category": "幽默,美食"
-    },
-    {
       "raw_hot": 53686,
       "num": 63719,
       "word": "洪知秀给未来妻子的话",
@@ -2560,6 +2576,14 @@
       "word": "跳动的数字看加速前进的中国",
       "onboard_time": 1682933609,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52339,
+      "num": 121976,
+      "word": "男子将手机放厕所偷拍女乘客如厕",
+      "onboard_time": 1682958924,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2585,6 +2609,14 @@
       "onboard_time": 1682948790,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45864,
+      "num": 121941,
+      "word": "煮虾虾弯成直角口感最好",
+      "onboard_time": 1682959044,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 45421,
