@@ -1,7 +1,39 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682897612180,
+  "endTime": 1682904385455,
   "band_list": [
+    {
+      "raw_hot": 4917092,
+      "num": 417560,
+      "word": "洪欣张丹峰离婚",
+      "onboard_time": 1682897784,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2067150,
+      "num": 417330,
+      "word": "毕滢",
+      "onboard_time": 1682899587,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1638057,
+      "num": 1638057,
+      "word": "周杰伦 第一名",
+      "onboard_time": 1682899587,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1376127,
+      "num": 1376127,
+      "word": "半夜醒了不要拿手机看时间",
+      "onboard_time": 1682898746,
+      "rank": 1,
+      "category": "幽默,情感"
+    },
     {
       "raw_hot": 1077776,
       "num": 1077776,
@@ -27,8 +59,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 796040,
+      "num": 796040,
+      "word": "史航",
+      "onboard_time": 1682862627,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 786209,
+      "num": 786209,
+      "word": "乃万单手脱上衣",
+      "onboard_time": 1682896642,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 743526,
-      "num": 314084,
+      "num": 417293,
       "word": "吴建豪在郑秀妍面前提少女时代成员",
       "onboard_time": 1682866892,
       "rank": 10,
@@ -41,14 +89,6 @@
       "onboard_time": 1682866711,
       "rank": 9,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 715622,
-      "num": 715622,
-      "word": "史航",
-      "onboard_time": 1682862627,
-      "rank": 4,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 709367,
@@ -64,6 +104,22 @@
       "word": "张碧晨 车尾号920",
       "onboard_time": 1682863409,
       "rank": 6,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 613673,
+      "num": 613673,
+      "word": "两头婚可以减少夫妻矛盾吗",
+      "onboard_time": 1682865932,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 519021,
+      "num": 519021,
+      "word": "华晨宇的音乐是挑观众的",
+      "onboard_time": 1682902890,
+      "rank": 7,
       "category": "音乐"
     },
     {
@@ -91,12 +147,28 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 427350,
-      "num": 427350,
-      "word": "两头婚可以减少夫妻矛盾吗",
-      "onboard_time": 1682865932,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 453102,
+      "num": 453102,
+      "word": "这个五一山东景区杀疯了",
+      "onboard_time": 1682900488,
+      "rank": 8,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 418241,
+      "num": 212138,
+      "word": "6人吃了30盘自助小龙虾惊动店长",
+      "onboard_time": 1682900488,
+      "rank": 20,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 418096,
+      "num": 418096,
+      "word": "史航曾给房思琪的初恋乐园写推荐语",
+      "onboard_time": 1682900609,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 410353,
@@ -155,6 +227,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265471,
+      "num": 265471,
+      "word": "老人不识字行李箱贴满回家行程",
+      "onboard_time": 1682874681,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259503,
+      "num": 211776,
+      "word": "市监局回应淄博烧烤店吃出刀片",
+      "onboard_time": 1682899226,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245754,
       "num": 245754,
       "word": "丫丫暂住的上海动物园人气旺",
@@ -203,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224247,
+      "num": 224247,
+      "word": "装修砸承重墙致200户居民疏散",
+      "onboard_time": 1682896642,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215616,
       "num": 215616,
       "word": "漫长的季节",
@@ -219,12 +315,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209846,
+      "num": 209846,
+      "word": "丁太升问小鬼你会造空调吗",
+      "onboard_time": 1682903850,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207732,
       "num": 207732,
       "word": "五月",
       "onboard_time": 1682897240,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207360,
+      "num": 207360,
+      "word": "上海一女子包车去音乐节被放鸽子",
+      "onboard_time": 1682902289,
+      "rank": 24,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 204990,
@@ -235,12 +347,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191864,
-      "num": 191864,
-      "word": "老人不识字行李箱贴满回家行程",
-      "onboard_time": 1682874681,
-      "rank": 48,
+      "raw_hot": 202922,
+      "num": 202922,
+      "word": "姆巴佩偷袭门将",
+      "onboard_time": 1682899047,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191233,
+      "num": 191233,
+      "word": "向劳动者致敬",
+      "onboard_time": 1682903310,
+      "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180931,
+      "num": 180931,
+      "word": "好怕沧九旻把血放干了",
+      "onboard_time": 1682899285,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 179058,
@@ -283,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164046,
+      "num": 164046,
+      "word": "专家称交换城市旅游有法律风险",
+      "onboard_time": 1682902349,
+      "rank": 31,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 163997,
       "num": 163997,
       "word": "影视剧男主人设天花板",
@@ -307,6 +443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162117,
+      "num": 162117,
+      "word": "巴特勒真的太硬了",
+      "onboard_time": 1682898746,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159591,
       "num": 159591,
       "word": "漫长的季节 王阳怎么死的",
@@ -323,12 +467,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 151917,
-      "num": 151917,
-      "word": "乃万单手脱上衣",
-      "onboard_time": 1682896642,
-      "rank": 19,
-      "category": "音乐"
+      "raw_hot": 157975,
+      "num": 157975,
+      "word": "cp29",
+      "onboard_time": 1682902768,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 149488,
@@ -339,20 +483,20 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 141212,
-      "num": 141212,
-      "word": "装修砸承重墙致200户居民疏散",
-      "onboard_time": 1682896642,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140867,
       "num": 140867,
       "word": "伊能静回应和秦昊不互动",
       "onboard_time": 1682844748,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 138728,
+      "num": 138728,
+      "word": "失恋对一个人的伤害有多大",
+      "onboard_time": 1682897423,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 136675,
@@ -371,6 +515,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134624,
+      "num": 134624,
+      "word": "五一",
+      "onboard_time": 1682900308,
+      "rank": 38,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 134515,
+      "num": 134515,
+      "word": "B太二刷许昌胖东来",
+      "onboard_time": 1682896341,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 131591,
       "num": 131591,
       "word": "久酷鲜奶",
@@ -379,12 +539,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129317,
+      "num": 129317,
+      "word": "seventeen是命运",
+      "onboard_time": 1682903908,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129109,
       "num": 129109,
       "word": "张杰武汉演唱会",
       "onboard_time": 1682857048,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128285,
+      "num": 128285,
+      "word": "山东景区霸气公告称看不到景观退款",
+      "onboard_time": 1682898265,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 125023,
+      "num": 125023,
+      "word": "孙红雷谁说张颂文不能当大哥",
+      "onboard_time": 1682904033,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 122515,
@@ -411,12 +595,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119787,
+      "num": 119787,
+      "word": "NBA春晚",
+      "onboard_time": 1682897003,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118994,
       "num": 114295,
       "word": "马嘉祺假哭",
       "onboard_time": 1682852607,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117747,
+      "num": 117747,
+      "word": "袁弘婚前给张歆艺银行卡密码",
+      "onboard_time": 1682904150,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 114430,
@@ -475,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108870,
+      "num": 108870,
+      "word": "夫妻进对方家族群一定要发红包吗",
+      "onboard_time": 1682903970,
+      "rank": 47,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 104836,
       "num": 104836,
       "word": "尤长靖 大连音乐节",
@@ -505,14 +713,6 @@
       "onboard_time": 1682897240,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 96451,
-      "num": 96451,
-      "word": "B太二刷许昌胖东来",
-      "onboard_time": 1682896341,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 94471,
@@ -547,14 +747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83955,
-      "num": 83955,
-      "word": "NBA春晚",
-      "onboard_time": 1682897003,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83930,
       "num": 103304,
       "word": "傅菁重庆音乐会",
@@ -577,14 +769,6 @@
       "onboard_time": 1682871924,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75547,
-      "num": 75547,
-      "word": "失恋对一个人的伤害有多大",
-      "onboard_time": 1682897423,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 68644,
@@ -659,8 +843,8 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 7266,
-      "num": 926236,
+      "raw_hot": 14520,
+      "num": 1028048,
       "word": "卫星视角下的花开中国太美了",
       "onboard_time": 1682839286,
       "rank": 2,
