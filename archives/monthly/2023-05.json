@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682966002097,
+  "endTime": 1682968438181,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -2459,6 +2459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101969,
+      "num": 81864,
+      "word": "蔡文静社交账号评论区",
+      "onboard_time": 1682963958,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99668,
       "num": 99668,
       "word": "种地吧",
@@ -2497,6 +2505,14 @@
       "onboard_time": 1682866830,
       "rank": 49,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 93859,
+      "num": 80156,
+      "word": "平台回应花9600订民宿遭房东毁约",
+      "onboard_time": 1682965217,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92774,
@@ -2553,14 +2569,6 @@
       "onboard_time": 1682874080,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84301,
-      "num": 77831,
-      "word": "蔡文静社交账号评论区",
-      "onboard_time": 1682963958,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 83930,
@@ -2675,20 +2683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43749,
-      "num": 43749,
-      "word": "平台回应花9600订民宿遭房东毁约",
-      "onboard_time": 1682965217,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43644,
       "num": 139379,
       "word": "90后航天小姐姐用抓娃娃解释月球采样",
       "onboard_time": 1682871684,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 42042,
+      "num": 42042,
+      "word": "女子买虾复称老板试图偷换重量单位",
+      "onboard_time": 1682966894,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41876,
@@ -2721,6 +2729,14 @@
       "onboard_time": 1682887093,
       "rank": 35,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 19663,
+      "num": 26424,
+      "word": "北体好像没有地心引力",
+      "onboard_time": 1682967733,
+      "rank": 49,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 14520,

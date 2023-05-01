@@ -1,0 +1,410 @@
+{
+  "runTime": 1682968438181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 226809,
+        "num": 226809,
+        "word": "五一的堵 逐渐离谱",
+        "onboard_time": 1682949452,
+        "rank": 0,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 212492,
+        "num": 212492,
+        "word": "朋友圈发什么最让人反感",
+        "onboard_time": 1682940149,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2541,
+        "num": 155091,
+        "word": "光荣属于劳动者",
+        "onboard_time": 1682948790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223355,
+        "num": 150975,
+        "word": "女演员晒裸照反击黑客勒索",
+        "onboard_time": 1682917650,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141140,
+        "num": 141140,
+        "word": "漫长的季节 封神",
+        "onboard_time": 1682941346,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136939,
+        "num": 136939,
+        "word": "女生要敢于结束不健康的关系",
+        "onboard_time": 1682951733,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132444,
+        "num": 132444,
+        "word": "拉萨客栈杀人案嫌犯已被抓捕",
+        "onboard_time": 1682939189,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97872,
+        "num": 97872,
+        "word": "音乐节偶遇倪妮",
+        "onboard_time": 1682953709,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 84990,
+        "num": 84990,
+        "word": "陈晓毛晓彤十年前vs十年后",
+        "onboard_time": 1682936969,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73055,
+        "num": 83984,
+        "word": "女子情绪失控端火锅泼人邻桌遭殃",
+        "onboard_time": 1682943390,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313217,
+        "num": 82590,
+        "word": "爽门",
+        "onboard_time": 1682949099,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 101969,
+        "num": 81864,
+        "word": "蔡文静社交账号评论区",
+        "onboard_time": 1682963958,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93859,
+        "num": 80156,
+        "word": "平台回应花9600订民宿遭房东毁约",
+        "onboard_time": 1682965217,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92764,
+        "num": 79013,
+        "word": "提名你一听到主演名字就不会打开的剧",
+        "onboard_time": 1682932168,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 78661,
+        "num": 78661,
+        "word": "狂飙后又迎来了漫长的季节",
+        "onboard_time": 1682934509,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 72510,
+        "num": 72510,
+        "word": "止庵 史航",
+        "onboard_time": 1682955507,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71245,
+        "num": 71245,
+        "word": "蒋奇明 丑帅",
+        "onboard_time": 1682948790,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 66663,
+        "num": 66663,
+        "word": "月收入一万真的简单吗",
+        "onboard_time": 1682943508,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60242,
+        "num": 60242,
+        "word": "同事间开黄腔也可能属于性骚扰",
+        "onboard_time": 1682955688,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59721,
+        "num": 59721,
+        "word": "插队",
+        "onboard_time": 1682947890,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54802,
+        "num": 54802,
+        "word": "千万不要随便叫别人宝贝",
+        "onboard_time": 1682946511,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53275,
+        "num": 53275,
+        "word": "漫长的季节大结局",
+        "onboard_time": 1682939008,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 50849,
+        "num": 50849,
+        "word": "一诺状态",
+        "onboard_time": 1682952695,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49705,
+        "num": 49705,
+        "word": "杜江身材",
+        "onboard_time": 1682936306,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 45501,
+        "num": 45501,
+        "word": "男子将手机放厕所偷拍女乘客如厕",
+        "onboard_time": 1682958924,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42042,
+        "num": 42042,
+        "word": "女子买虾复称老板试图偷换重量单位",
+        "onboard_time": 1682966894,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40300,
+        "num": 40300,
+        "word": "人气超高但是你却无感的水果",
+        "onboard_time": 1682940149,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 39670,
+        "num": 39670,
+        "word": "黎苏苏三世都被同一个男人追",
+        "onboard_time": 1682943390,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 39665,
+        "num": 39665,
+        "word": "王嘉尔MetGala",
+        "onboard_time": 1682958985,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 27343,
+        "num": 38888,
+        "word": "山东各地文旅局长进淄赶烤",
+        "onboard_time": 1682958145,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 38684,
+        "num": 38684,
+        "word": "王心凌张栋梁合影",
+        "onboard_time": 1682943628,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38583,
+        "num": 38583,
+        "word": "73岁大爷头婚娶69岁大妈",
+        "onboard_time": 1682957188,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38190,
+        "num": 38190,
+        "word": "金珉奎小狗",
+        "onboard_time": 1682950952,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36711,
+        "num": 36711,
+        "word": "母鸡山服务区冲厕出现红水吓跑小孩",
+        "onboard_time": 1682960241,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35392,
+        "num": 35392,
+        "word": "帮费曼给他两岁的女儿取中文名",
+        "onboard_time": 1682936547,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35036,
+        "num": 35036,
+        "word": "Jennie MetGala",
+        "onboard_time": 1682945310,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 33614,
+        "num": 33614,
+        "word": "毛雪汪谈月经羞耻",
+        "onboard_time": 1682958086,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32630,
+        "num": 32630,
+        "word": "郑秀妍巅峰音乐节",
+        "onboard_time": 1682957065,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32012,
+        "num": 32012,
+        "word": "May I love you",
+        "onboard_time": 1682943926,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30821,
+        "num": 30821,
+        "word": "煮虾虾弯成直角口感最好",
+        "onboard_time": 1682959044,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32467,
+        "num": 30738,
+        "word": "长空之王为什么有感情戏",
+        "onboard_time": 1682955449,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 32167,
+        "num": 30652,
+        "word": "窦靖童现场",
+        "onboard_time": 1682952991,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30476,
+        "num": 30476,
+        "word": "苏打绿 南京",
+        "onboard_time": 1682943808,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28129,
+        "num": 28129,
+        "word": "租户装修砸穿承重墙小区居民发声",
+        "onboard_time": 1682948610,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28088,
+        "num": 28088,
+        "word": "原来高手真的在民间",
+        "onboard_time": 1682956647,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27092,
+        "num": 27092,
+        "word": "陈飞宇留胡子了",
+        "onboard_time": 1682953469,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27075,
+        "num": 27075,
+        "word": "武汉地铁人多到免检票进站",
+        "onboard_time": 1682959524,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26450,
+        "num": 26450,
+        "word": "长月烬明预告",
+        "onboard_time": 1682949099,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 24070,
+        "num": 26450,
+        "word": "短短几秒白敬亭被整了十几次",
+        "onboard_time": 1682935227,
+        "rank": 48,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 19663,
+        "num": 26424,
+        "word": "北体好像没有地心引力",
+        "onboard_time": 1682967733,
+        "rank": 49,
+        "category": "体育,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#好日子都是靠奋斗来的#"
+    }
+  }
+}
