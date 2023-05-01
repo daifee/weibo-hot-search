@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1682973212992,
+  "endTime": 1682975702211,
   "band_list": [
     {
       "raw_hot": 1444858,
@@ -537,6 +537,14 @@
       "onboard_time": 1682967733,
       "rank": 49,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 11718,
+      "num": 20437,
+      "word": "理发师为顾客打造桂林山水发型",
+      "onboard_time": 1682975652,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

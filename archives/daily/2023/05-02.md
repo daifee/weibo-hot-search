@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/02 00:22:26 ~ 2023/05/02 04:33:32
+本榜单时间：2023/05/02 00:22:26 ~ 2023/05/02 05:15:02
 </p>
 </blockquote>
 <p>
@@ -413,6 +413,12 @@ eStar对战AG（热度：51556）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BD%93%E5%A5%BD%E5%83%8F%E6%B2%A1%E6%9C%89%E5%9C%B0%E5%BF%83%E5%BC%95%E5%8A%9B%23" target="weibo">
 北体好像没有地心引力（热度：19663）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%B8%88%E4%B8%BA%E9%A1%BE%E5%AE%A2%E6%89%93%E9%80%A0%E6%A1%82%E6%9E%97%E5%B1%B1%E6%B0%B4%E5%8F%91%E5%9E%8B%23" target="weibo">
+理发师为顾客打造桂林山水发型（热度：11718）
 </a>
 </li>
 
