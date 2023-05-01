@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682929300985,
+  "endTime": 1682930035989,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -107,6 +107,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1182631,
+      "num": 1182631,
+      "word": "你目前月薪存一百万要多久",
+      "onboard_time": 1682925868,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1147131,
       "num": 1147131,
       "word": "这是在攻打重庆吗",
@@ -129,14 +137,6 @@
       "onboard_time": 1682865150,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1040654,
-      "num": 1040654,
-      "word": "你目前月薪存一百万要多久",
-      "onboard_time": 1682925868,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 1009960,
@@ -241,6 +241,14 @@
       "onboard_time": 1682908948,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 595131,
+      "num": 337918,
+      "word": "饥饿游戏女演员 女王行为",
+      "onboard_time": 1682929466,
+      "rank": 12,
+      "category": "影视"
     },
     {
       "raw_hot": 553685,
@@ -387,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338856,
+      "num": 338856,
+      "word": "凉哈皮",
+      "onboard_time": 1682925808,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 335471,
       "num": 335471,
       "word": "谷爱凌希望扩大亚裔和华人影响力",
       "onboard_time": 1682910146,
       "rank": 24,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 325071,
-      "num": 325071,
-      "word": "凉哈皮",
-      "onboard_time": 1682925808,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 317483,
@@ -417,6 +425,14 @@
       "onboard_time": 1682912429,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310929,
+      "num": 188514,
+      "word": "才知道基围不是虾的品种",
+      "onboard_time": 1682928807,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 310495,
@@ -515,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267521,
+      "num": 262652,
+      "word": "明日方舟",
+      "onboard_time": 1682929886,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 266941,
       "num": 266941,
       "word": "老人不识字行李箱贴满回家行程",
@@ -561,6 +585,14 @@
       "onboard_time": 1682908287,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 251211,
+      "num": 251211,
+      "word": "黄景瑜说严浩翔误入歧途",
+      "onboard_time": 1682928988,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251015,
@@ -625,6 +657,14 @@
       "onboard_time": 1682910748,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 240790,
+      "num": 240790,
+      "word": "想买个青蛙人偶去发疯",
+      "onboard_time": 1682926825,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 239084,
@@ -747,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 212125,
+      "num": 212125,
+      "word": "给麻将镶钻是什么体验",
+      "onboard_time": 1682928384,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211803,
       "num": 211803,
       "word": "萤火虫漫展",
@@ -761,14 +809,6 @@
       "onboard_time": 1682866593,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208235,
-      "num": 208235,
-      "word": "黄景瑜说严浩翔误入歧途",
-      "onboard_time": 1682928988,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207732,
@@ -811,24 +851,16 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 201790,
-      "num": 201790,
+      "raw_hot": 202202,
+      "num": 202202,
       "word": "处女座和白羊座莫名的cp感",
       "onboard_time": 1682924489,
       "rank": 40,
       "category": "情感,网红"
     },
     {
-      "raw_hot": 200939,
-      "num": 200939,
-      "word": "想买个青蛙人偶去发疯",
-      "onboard_time": 1682926825,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 199497,
-      "num": 199497,
+      "raw_hot": 199817,
+      "num": 199817,
       "word": "动车走一半超重停了",
       "onboard_time": 1682921129,
       "rank": 36,
@@ -867,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189526,
+      "num": 189526,
+      "word": "长月烬明市占率破30%",
+      "onboard_time": 1682925266,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 186920,
       "num": 167473,
       "word": "国外网友偶遇蔡徐坤",
@@ -883,20 +923,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 185469,
-      "num": 185469,
-      "word": "长月烬明市占率破30%",
-      "onboard_time": 1682925266,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185255,
       "num": 171371,
       "word": "倪妮游玩环球影城plog",
       "onboard_time": 1682918068,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184142,
+      "num": 184142,
+      "word": "孟美岐今日活动生图状态",
+      "onboard_time": 1682929466,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 180931,
@@ -953,14 +993,6 @@
       "onboard_time": 1682906670,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176270,
-      "num": 176270,
-      "word": "才知道基围不是虾的品种",
-      "onboard_time": 1682928807,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 175641,
@@ -1025,14 +1057,6 @@
       "onboard_time": 1682906550,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165435,
-      "num": 165435,
-      "word": "给麻将镶钻是什么体验",
-      "onboard_time": 1682928384,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 164748,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1682910211,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150765,
+      "num": 150765,
+      "word": "饥饿游戏",
+      "onboard_time": 1682929407,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 149488,
@@ -1347,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118758,
+      "num": 118758,
+      "word": "刘宇直播",
+      "onboard_time": 1682929948,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117983,
       "num": 117983,
       "word": "一棵树容不下两只熊猫",
@@ -1515,6 +1555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 82545,
+      "num": 304788,
+      "word": "明日方舟四周年",
+      "onboard_time": 1682928025,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 79526,
       "num": 79526,
       "word": "英皇群星要把刘雅瑟吹到成团夜",
@@ -1537,14 +1585,6 @@
       "onboard_time": 1682921968,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69862,
-      "num": 304788,
-      "word": "明日方舟四周年",
-      "onboard_time": 1682928025,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 68644,
