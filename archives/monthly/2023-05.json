@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682947195106,
+  "endTime": 1682948011148,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2107101,
+      "num": 2107101,
+      "word": "拉萨客栈杀人案嫌犯已被抓捕",
+      "onboard_time": 1682939189,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2067150,
       "num": 417330,
       "word": "毕滢",
       "onboard_time": 1682899587,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2020827,
-      "num": 2020827,
-      "word": "拉萨客栈杀人案嫌犯已被抓捕",
-      "onboard_time": 1682939189,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1987105,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1812486,
+      "num": 1812486,
+      "word": "漫长的季节 封神",
+      "onboard_time": 1682941346,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1799459,
       "num": 1799459,
       "word": "宋祖儿差点取关毛晓彤",
@@ -115,14 +123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1705365,
-      "num": 1705365,
-      "word": "漫长的季节 封神",
-      "onboard_time": 1682941346,
-      "rank": 3,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1695709,
       "num": 1695709,
       "word": "周杰伦 第一名",
@@ -136,6 +136,14 @@
       "word": "上淄博公厕配肠炎宁片和卫生巾",
       "onboard_time": 1682918728,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1589167,
+      "num": 1589167,
+      "word": "金华两母女插队被制止当场发飙",
+      "onboard_time": 1682946089,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -169,14 +177,6 @@
       "onboard_time": 1682913028,
       "rank": 10,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1311047,
-      "num": 1311047,
-      "word": "金华两母女插队被制止当场发飙",
-      "onboard_time": 1682946089,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1292098,
@@ -219,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1076474,
+      "num": 1076474,
+      "word": "月收入一万真的简单吗",
+      "onboard_time": 1682943508,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1066018,
       "num": 1066018,
       "word": "警方不建议前往大唐不夜城",
@@ -232,14 +240,6 @@
       "word": "长大后童年报复性补偿行为",
       "onboard_time": 1682907868,
       "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 965752,
-      "num": 965752,
-      "word": "月收入一万真的简单吗",
-      "onboard_time": 1682943508,
-      "rank": 31,
       "category": "情感"
     },
     {
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558713,
+      "num": 558713,
+      "word": "May I love you",
+      "onboard_time": 1682943926,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 553685,
       "num": 553685,
       "word": "一位小哥在韩国受到了歧视",
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483829,
+      "num": 483829,
+      "word": "往前看 别回头",
+      "onboard_time": 1682942247,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 483282,
       "num": 297675,
       "word": "黄牛 你就说进没进去吧",
@@ -467,28 +483,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 467593,
-      "num": 467593,
-      "word": "May I love you",
-      "onboard_time": 1682943926,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 461026,
       "num": 461026,
       "word": "才知道基围不是虾的品种",
       "onboard_time": 1682928807,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 452571,
-      "num": 452571,
-      "word": "往前看 别回头",
-      "onboard_time": 1682942247,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 452510,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 429976,
-      "num": 418081,
+      "num": 428284,
       "word": "漫长的季节",
       "onboard_time": 1682861010,
       "rank": 17,
@@ -619,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342519,
+      "num": 342519,
+      "word": "千万不要随便叫别人宝贝",
+      "onboard_time": 1682946511,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338856,
       "num": 338856,
       "word": "凉哈皮",
@@ -699,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 308642,
+      "num": 308642,
+      "word": "拉萨客栈",
+      "onboard_time": 1682945909,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306084,
       "num": 178922,
       "word": "淄博一快递员因限流不让进下跪大哭",
@@ -712,14 +728,6 @@
       "word": "装修砸承重墙致200户居民疏散",
       "onboard_time": 1682896642,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302866,
-      "num": 302866,
-      "word": "拉萨客栈",
-      "onboard_time": 1682945909,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 290201,
-      "num": 218087,
+      "num": 288165,
       "word": "黎苏苏三世都被同一个男人追",
       "onboard_time": 1682943390,
       "rank": 28,
@@ -793,14 +801,6 @@
       "onboard_time": 1682907808,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 281022,
-      "num": 190163,
-      "word": "千万不要随便叫别人宝贝",
-      "onboard_time": 1682946511,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 279032,
@@ -1052,7 +1052,7 @@
     },
     {
       "raw_hot": 234380,
-      "num": 207573,
+      "num": 228940,
       "word": "周星驰想看人生路不熟",
       "onboard_time": 1682946028,
       "rank": 27,
@@ -1123,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223119,
+      "num": 223119,
+      "word": "白鹿包场人生路不熟",
+      "onboard_time": 1682947292,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220817,
       "num": 220817,
       "word": "时代少年团18楼有新闻视频",
@@ -1185,6 +1193,22 @@
       "onboard_time": 1682940149,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216121,
+      "num": 216121,
+      "word": "CBA",
+      "onboard_time": 1682942908,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214685,
+      "num": 214685,
+      "word": "范丞丞熟人云路演",
+      "onboard_time": 1682947948,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 212125,
@@ -1267,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204146,
+      "num": 204146,
+      "word": "云襄传好看",
+      "onboard_time": 1682947051,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 202348,
       "num": 202348,
       "word": "所谓世面 不过是世界的一面",
@@ -1284,7 +1316,7 @@
     },
     {
       "raw_hot": 201297,
-      "num": 201297,
+      "num": 214888,
       "word": "女子情绪失控端火锅泼人邻桌遭殃",
       "onboard_time": 1682943390,
       "rank": 34,
@@ -1299,16 +1331,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 198359,
-      "num": 184328,
-      "word": "云襄传好看",
-      "onboard_time": 1682947051,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 197336,
-      "num": 173301,
+      "raw_hot": 197413,
+      "num": 197413,
       "word": "妺女公冶寂无相遇",
       "onboard_time": 1682944589,
       "rank": 40,
@@ -1507,12 +1531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175051,
-      "num": 175051,
-      "word": "CBA",
-      "onboard_time": 1682942908,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 173626,
+      "num": 173626,
+      "word": "卜钰问刘晓世自己跟王一博撞型吗",
+      "onboard_time": 1682946989,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 173496,
@@ -1545,6 +1569,14 @@
       "onboard_time": 1682859690,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170738,
+      "num": 170738,
+      "word": "插队",
+      "onboard_time": 1682947890,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170652,
@@ -1675,6 +1707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153408,
+      "num": 153408,
+      "word": "一个人过生日 收到投送",
+      "onboard_time": 1682947469,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 153393,
       "num": 153393,
       "word": "看到那么多女孩站出来",
@@ -1723,12 +1763,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148924,
-      "num": 148924,
-      "word": "卜钰问刘晓世自己跟王一博撞型吗",
-      "onboard_time": 1682946989,
-      "rank": 45,
-      "category": "影视"
+      "raw_hot": 148961,
+      "num": 148961,
+      "word": "登山者回应珠穆朗玛峰凌晨2点还在堵",
+      "onboard_time": 1682947230,
+      "rank": 47,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 148190,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1682927727,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 145110,
+      "num": 145110,
+      "word": "吴世勋新剧剧照",
+      "onboard_time": 1682947590,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 145105,
@@ -2351,6 +2399,9 @@
     },
     {
       "word": "#好日子都是靠奋斗来的#"
+    },
+    {
+      "word": "#一批新法新规今起施行#"
     }
   ]
 }
