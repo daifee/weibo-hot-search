@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682944346677,
+  "endTime": 1682945324636,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2403488,
+      "num": 2403488,
+      "word": "史航回应性骚扰",
+      "onboard_time": 1682943089,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 2303880,
       "num": 2303880,
       "word": "珠穆朗玛峰凌晨两点还在堵",
@@ -57,14 +65,6 @@
       "onboard_time": 1682899587,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2065232,
-      "num": 2065232,
-      "word": "史航回应性骚扰",
-      "onboard_time": 1682943089,
-      "rank": 0,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1987105,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1799459,
+      "num": 1799459,
+      "word": "宋祖儿差点取关毛晓彤",
+      "onboard_time": 1682944710,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1762220,
       "num": 1762220,
       "word": "跑男 控牌",
@@ -115,8 +123,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1523361,
-      "num": 1523361,
+      "raw_hot": 1615035,
+      "num": 1615035,
+      "word": "拉萨客栈杀人案嫌犯已被抓捕",
+      "onboard_time": 1682939189,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1591666,
+      "num": 1591666,
       "word": "漫长的季节 封神",
       "onboard_time": 1682941346,
       "rank": 3,
@@ -129,14 +145,6 @@
       "onboard_time": 1682933186,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1445287,
-      "num": 1414294,
-      "word": "拉萨客栈杀人案嫌犯已被抓捕",
-      "onboard_time": 1682939189,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1376127,
@@ -267,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 833116,
+      "num": 520585,
+      "word": "王心凌张栋梁合影",
+      "onboard_time": 1682943628,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 800034,
       "num": 800034,
       "word": "范丞丞情商",
@@ -345,14 +361,6 @@
       "onboard_time": 1682908948,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 627977,
-      "num": 520585,
-      "word": "王心凌张栋梁合影",
-      "onboard_time": 1682943628,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 595131,
@@ -475,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 429976,
+      "num": 409884,
+      "word": "漫长的季节",
+      "onboard_time": 1682861010,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418241,
       "num": 255021,
       "word": "6人吃了30盘自助小龙虾惊动店长",
@@ -491,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415418,
+      "num": 401042,
+      "word": "往前看 别回头",
+      "onboard_time": 1682942247,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 410353,
       "num": 410353,
       "word": "和豪门大佬网恋后我红了",
@@ -505,14 +529,6 @@
       "onboard_time": 1682923048,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 409884,
-      "num": 409884,
-      "word": "漫长的季节",
-      "onboard_time": 1682861010,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 409160,
@@ -537,6 +553,14 @@
       "onboard_time": 1682923770,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401070,
+      "num": 401070,
+      "word": "月收入一万真的简单吗",
+      "onboard_time": 1682943508,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 398732,
@@ -587,12 +611,20 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 321930,
-      "num": 321930,
-      "word": "往前看 别回头",
-      "onboard_time": 1682942247,
-      "rank": 17,
-      "category": "影视"
+      "raw_hot": 333922,
+      "num": 333922,
+      "word": "May I love you",
+      "onboard_time": 1682943926,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 318848,
+      "num": 318848,
+      "word": "文俊辉直播",
+      "onboard_time": 1682944770,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 317483,
@@ -625,6 +657,14 @@
       "onboard_time": 1682912429,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314512,
+      "num": 314512,
+      "word": "苏打绿 南京",
+      "onboard_time": 1682943808,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 310495,
@@ -675,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290201,
+      "num": 208187,
+      "word": "黎苏苏三世都被同一个男人追",
+      "onboard_time": 1682943390,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288889,
       "num": 243228,
       "word": "周也到底买了多少盲盒",
@@ -683,8 +731,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285779,
-      "num": 285779,
+      "raw_hot": 287974,
+      "num": 287974,
       "word": "人气超高但是你却无感的水果",
       "onboard_time": 1682940149,
       "rank": 42,
@@ -859,14 +907,6 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 249702,
-      "num": 194394,
-      "word": "黎苏苏三世都被同一个男人追",
-      "onboard_time": 1682943390,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 247615,
       "num": 247615,
       "word": "五一的必吃清单",
@@ -913,6 +953,14 @@
       "onboard_time": 1682939727,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242534,
+      "num": 198757,
+      "word": "五一晚会",
+      "onboard_time": 1682944770,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 241968,
@@ -1171,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204219,
-      "num": 167944,
-      "word": "苏打绿 南京",
-      "onboard_time": 1682943808,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 202348,
       "num": 202348,
       "word": "所谓世面 不过是世界的一面",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1682924489,
       "rank": 40,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 201297,
+      "num": 201297,
+      "word": "女子情绪失控端火锅泼人邻桌遭殃",
+      "onboard_time": 1682943390,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199461,
@@ -1217,14 +1265,6 @@
       "onboard_time": 1682927367,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 194066,
-      "num": 181378,
-      "word": "月收入一万真的简单吗",
-      "onboard_time": 1682943508,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 192943,
@@ -1427,12 +1467,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170061,
-      "num": 170061,
-      "word": "女子情绪失控端火锅泼人邻桌遭殃",
-      "onboard_time": 1682943390,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 170652,
+      "num": 170652,
+      "word": "朝俞",
+      "onboard_time": 1682944829,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 168362,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1682906550,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164766,
+      "num": 154165,
+      "word": "妺女公冶寂无相遇",
+      "onboard_time": 1682944589,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 164748,
@@ -1520,6 +1568,14 @@
       "word": "巴特勒真的太硬了",
       "onboard_time": 1682898746,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161478,
+      "num": 161478,
+      "word": "CBA",
+      "onboard_time": 1682942908,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1643,14 +1699,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141977,
-      "num": 141977,
-      "word": "May I love you",
-      "onboard_time": 1682943926,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141525,
       "num": 141525,
       "word": "堵骆驼",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1682896341,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 134330,
+      "num": 134330,
+      "word": "Jennie MetGala",
+      "onboard_time": 1682945310,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131591,
@@ -2124,7 +2180,7 @@
     },
     {
       "raw_hot": 52535,
-      "num": 1740165,
+      "num": 1779839,
       "word": "跳动的数字看加速前进的中国",
       "onboard_time": 1682933609,
       "rank": 2,
