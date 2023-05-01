@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682945324636,
+  "endTime": 1682947195106,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2020827,
+      "num": 2020827,
+      "word": "拉萨客栈杀人案嫌犯已被抓捕",
+      "onboard_time": 1682939189,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1987105,
       "num": 1987105,
       "word": "朋友圈发什么最让人反感",
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1705365,
+      "num": 1705365,
+      "word": "漫长的季节 封神",
+      "onboard_time": 1682941346,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1695709,
       "num": 1695709,
       "word": "周杰伦 第一名",
@@ -121,22 +137,6 @@
       "onboard_time": 1682918728,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1615035,
-      "num": 1615035,
-      "word": "拉萨客栈杀人案嫌犯已被抓捕",
-      "onboard_time": 1682939189,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1591666,
-      "num": 1591666,
-      "word": "漫长的季节 封神",
-      "onboard_time": 1682941346,
-      "rank": 3,
-      "category": "影视"
     },
     {
       "raw_hot": 1459992,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1333040,
-      "num": 558155,
+      "num": 681101,
       "word": "提名你一听到主演名字就不会打开的剧",
       "onboard_time": 1682932168,
       "rank": 20,
@@ -169,6 +169,14 @@
       "onboard_time": 1682913028,
       "rank": 10,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1311047,
+      "num": 1311047,
+      "word": "金华两母女插队被制止当场发飙",
+      "onboard_time": 1682946089,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1292098,
@@ -227,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 965752,
+      "num": 965752,
+      "word": "月收入一万真的简单吗",
+      "onboard_time": 1682943508,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 943655,
       "num": 424661,
       "word": "赵丽颖要录综艺了",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 833116,
-      "num": 520585,
+      "num": 754298,
       "word": "王心凌张栋梁合影",
       "onboard_time": 1682943628,
       "rank": 11,
@@ -371,6 +387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 567767,
+      "num": 567767,
+      "word": "文俊辉直播",
+      "onboard_time": 1682944770,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553685,
       "num": 553685,
       "word": "一位小哥在韩国受到了歧视",
@@ -443,12 +467,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 467593,
+      "num": 467593,
+      "word": "May I love you",
+      "onboard_time": 1682943926,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 461026,
       "num": 461026,
       "word": "才知道基围不是虾的品种",
       "onboard_time": 1682928807,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 452571,
+      "num": 452571,
+      "word": "往前看 别回头",
+      "onboard_time": 1682942247,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 452510,
@@ -484,7 +524,7 @@
     },
     {
       "raw_hot": 429976,
-      "num": 409884,
+      "num": 418081,
       "word": "漫长的季节",
       "onboard_time": 1682861010,
       "rank": 17,
@@ -505,14 +545,6 @@
       "onboard_time": 1682900609,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415418,
-      "num": 401042,
-      "word": "往前看 别回头",
-      "onboard_time": 1682942247,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 410353,
@@ -553,14 +585,6 @@
       "onboard_time": 1682923770,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401070,
-      "num": 401070,
-      "word": "月收入一万真的简单吗",
-      "onboard_time": 1682943508,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 398732,
@@ -611,20 +635,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 333922,
-      "num": 333922,
-      "word": "May I love you",
-      "onboard_time": 1682943926,
+      "raw_hot": 335336,
+      "num": 145416,
+      "word": "张静初沈默",
+      "onboard_time": 1682946271,
       "rank": 46,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 318848,
-      "num": 318848,
-      "word": "文俊辉直播",
-      "onboard_time": 1682944770,
-      "rank": 20,
-      "category": "艺人"
+      "category": "影视"
     },
     {
       "raw_hot": 317483,
@@ -699,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302866,
+      "num": 302866,
+      "word": "拉萨客栈",
+      "onboard_time": 1682945909,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300272,
       "num": 252521,
       "word": "五一多景点人从众现状曝光",
@@ -715,8 +739,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291979,
+      "num": 291979,
+      "word": "Jennie MetGala",
+      "onboard_time": 1682945310,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 290201,
-      "num": 208187,
+      "num": 218087,
       "word": "黎苏苏三世都被同一个男人追",
       "onboard_time": 1682943390,
       "rank": 28,
@@ -761,6 +793,14 @@
       "onboard_time": 1682907808,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 281022,
+      "num": 190163,
+      "word": "千万不要随便叫别人宝贝",
+      "onboard_time": 1682946511,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 279032,
@@ -1011,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234380,
+      "num": 207573,
+      "word": "周星驰想看人生路不熟",
+      "onboard_time": 1682946028,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232845,
       "num": 232845,
       "word": "淄博八大局登顶全国景区热门第1",
@@ -1251,6 +1299,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198359,
+      "num": 184328,
+      "word": "云襄传好看",
+      "onboard_time": 1682947051,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 197336,
+      "num": 173301,
+      "word": "妺女公冶寂无相遇",
+      "onboard_time": 1682944589,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 195409,
       "num": 195409,
       "word": "这工位老板看到了都害怕",
@@ -1387,6 +1451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178655,
+      "num": 178655,
+      "word": "盘点史航商业版图",
+      "onboard_time": 1682946389,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 178324,
       "num": 178324,
       "word": "医生在工作时遇到的最离谱的谎言",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1682873062,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175051,
+      "num": 175051,
+      "word": "CBA",
+      "onboard_time": 1682942908,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 173496,
@@ -1499,14 +1579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164766,
-      "num": 154165,
-      "word": "妺女公冶寂无相遇",
-      "onboard_time": 1682944589,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 164748,
       "num": 164748,
       "word": "过敏原能有多离谱",
@@ -1568,14 +1640,6 @@
       "word": "巴特勒真的太硬了",
       "onboard_time": 1682898746,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 161478,
-      "num": 161478,
-      "word": "CBA",
-      "onboard_time": 1682942908,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -1657,6 +1721,14 @@
       "onboard_time": 1682918250,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148924,
+      "num": 148924,
+      "word": "卜钰问刘晓世自己跟王一博撞型吗",
+      "onboard_time": 1682946989,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 148190,
@@ -1771,14 +1843,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 134330,
-      "num": 134330,
-      "word": "Jennie MetGala",
-      "onboard_time": 1682945310,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 131591,
       "num": 131591,
       "word": "久酷鲜奶",
@@ -1833,6 +1897,14 @@
       "onboard_time": 1682857048,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128474,
+      "num": 128474,
+      "word": "檀健次师鹏演唱追逐光芒",
+      "onboard_time": 1682946511,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 128452,
