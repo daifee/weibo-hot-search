@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682951613708,
+  "endTime": 1682954250261,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -51,6 +51,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2363424,
+      "num": 2363424,
+      "word": "金华两母女插队被制止当场发飙",
+      "onboard_time": 1682946089,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2303880,
       "num": 2303880,
       "word": "珠穆朗玛峰凌晨两点还在堵",
@@ -97,14 +105,6 @@
       "onboard_time": 1682936969,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1906010,
-      "num": 1906010,
-      "word": "金华两母女插队被制止当场发飙",
-      "onboard_time": 1682946089,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1832510,
@@ -161,6 +161,14 @@
       "onboard_time": 1682933186,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1404622,
+      "num": 1404622,
+      "word": "月收入一万真的简单吗",
+      "onboard_time": 1682943508,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 1376127,
@@ -225,14 +233,6 @@
       "onboard_time": 1682863709,
       "rank": 0,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1076474,
-      "num": 1076474,
-      "word": "月收入一万真的简单吗",
-      "onboard_time": 1682943508,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1066018,
@@ -307,6 +307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 823169,
+      "num": 823169,
+      "word": "五一的堵 逐渐离谱",
+      "onboard_time": 1682949452,
+      "rank": 15,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 800034,
       "num": 800034,
       "word": "范丞丞情商",
@@ -329,14 +337,6 @@
       "onboard_time": 1682866711,
       "rank": 9,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 713444,
-      "num": 713444,
-      "word": "五一的堵 逐渐离谱",
-      "onboard_time": 1682949452,
-      "rank": 15,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 709367,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681416,
+      "num": 681416,
+      "word": "女生要敢于结束不健康的关系",
+      "onboard_time": 1682951733,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 660976,
       "num": 660976,
       "word": "两头婚可以减少夫妻矛盾吗",
@@ -409,6 +417,14 @@
       "onboard_time": 1682944770,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 559757,
+      "num": 559757,
+      "word": "蒋奇明 丑帅",
+      "onboard_time": 1682948790,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 558713,
@@ -459,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 504598,
+      "num": 504598,
+      "word": "一诺状态",
+      "onboard_time": 1682952695,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 485510,
       "num": 440293,
       "word": "库里扛着勇士",
@@ -505,6 +529,14 @@
       "onboard_time": 1682912308,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 468592,
+      "num": 468592,
+      "word": "金珉奎小狗",
+      "onboard_time": 1682950952,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 461026,
@@ -579,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415128,
-      "num": 378715,
-      "word": "蒋奇明 丑帅",
-      "onboard_time": 1682948790,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 410353,
       "num": 410353,
       "word": "和豪门大佬网恋后我红了",
@@ -651,20 +675,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385908,
+      "num": 385908,
+      "word": "长月烬明预告",
+      "onboard_time": 1682949099,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 383497,
       "num": 383497,
       "word": "广州圣心大教堂石碑碎了",
       "onboard_time": 1682865334,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372786,
-      "num": 372786,
-      "word": "金珉奎小狗",
-      "onboard_time": 1682950952,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 347296,
@@ -737,14 +761,6 @@
       "onboard_time": 1682912429,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314864,
-      "num": 253138,
-      "word": "长月烬明预告",
-      "onboard_time": 1682949099,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 314512,
@@ -881,6 +897,14 @@
       "onboard_time": 1682907808,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282184,
+      "num": 282184,
+      "word": "音乐节偶遇倪妮",
+      "onboard_time": 1682953709,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 279032,
@@ -1107,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242344,
+      "num": 242344,
+      "word": "女子情绪失控端火锅泼人邻桌遭殃",
+      "onboard_time": 1682943390,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241968,
       "num": 241968,
       "word": "马伊琍谈原生家庭影响",
@@ -1211,6 +1243,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228233,
+      "num": 228233,
+      "word": "窦靖童现场",
+      "onboard_time": 1682952991,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228199,
       "num": 228199,
       "word": "姒婴竟然是姐控",
@@ -1265,14 +1305,6 @@
       "onboard_time": 1682849906,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 221181,
-      "num": 221181,
-      "word": "女子情绪失控端火锅泼人邻桌遭殃",
-      "onboard_time": 1682943390,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 220817,
@@ -1459,6 +1491,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 200867,
+      "num": 200867,
+      "word": "GW第五人格",
+      "onboard_time": 1682953709,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199461,
       "num": 199461,
       "word": "白背心就是纯欲天花板",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1682944589,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 196400,
+      "num": 196400,
+      "word": "陈飞宇留胡子了",
+      "onboard_time": 1682953469,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 195409,
@@ -1513,6 +1561,14 @@
       "onboard_time": 1682932048,
       "rank": 32,
       "category": "影视"
+    },
+    {
+      "raw_hot": 191272,
+      "num": 191272,
+      "word": "张杰燃唱奔腾",
+      "onboard_time": 1682953351,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 191233,
@@ -1577,6 +1633,14 @@
       "onboard_time": 1682918068,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182000,
+      "num": 182000,
+      "word": "DOU5获胜",
+      "onboard_time": 1682953650,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 180931,
@@ -1817,6 +1881,14 @@
       "onboard_time": 1682862509,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159312,
+      "num": 159312,
+      "word": "理想之途走到哪了",
+      "onboard_time": 1682952932,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 158726,
