@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682908510328,
+  "endTime": 1682909045840,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -83,7 +83,7 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 825289,
+      "raw_hot": 834659,
       "num": 789011,
       "word": "乃万单手脱上衣",
       "onboard_time": 1682896642,
@@ -123,8 +123,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 667810,
-      "num": 667810,
+      "raw_hot": 702277,
+      "num": 702277,
       "word": "见过最罕见的姓氏是什么",
       "onboard_time": 1682904570,
       "rank": 12,
@@ -171,20 +171,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 484053,
+      "num": 484053,
+      "word": "丁太升问小鬼你会造空调吗",
+      "onboard_time": 1682903850,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483282,
       "num": 297675,
       "word": "黄牛 你就说进没进去吧",
       "onboard_time": 1682850927,
       "rank": 11,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 454105,
-      "num": 454105,
-      "word": "丁太升问小鬼你会造空调吗",
-      "onboard_time": 1682903850,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 418241,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 370349,
+      "num": 248147,
+      "word": "长大后童年报复性补偿行为",
+      "onboard_time": 1682907868,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306084,
       "num": 178922,
       "word": "淄博一快递员因限流不让进下跪大哭",
@@ -273,6 +281,22 @@
       "onboard_time": 1682906789,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275432,
+      "num": 275432,
+      "word": "华语乐坛",
+      "onboard_time": 1682907030,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 270448,
+      "num": 270448,
+      "word": "五一档电影豆瓣开分",
+      "onboard_time": 1682907808,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 269240,
@@ -315,12 +339,12 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 246875,
-      "num": 246875,
-      "word": "华语乐坛",
-      "onboard_time": 1682907030,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 246562,
+      "num": 246562,
+      "word": "袁弘婚前给张歆艺银行卡密码",
+      "onboard_time": 1682904150,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 245754,
@@ -363,14 +387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233915,
-      "num": 195207,
-      "word": "长大后童年报复性补偿行为",
-      "onboard_time": 1682907868,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 232845,
       "num": 232845,
       "word": "淄博八大局登顶全国景区热门第1",
@@ -385,14 +401,6 @@
       "onboard_time": 1682842046,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230306,
-      "num": 230306,
-      "word": "袁弘婚前给张歆艺银行卡密码",
-      "onboard_time": 1682904150,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 223163,
@@ -451,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202348,
+      "num": 202348,
+      "word": "所谓世面 不过是世界的一面",
+      "onboard_time": 1682905351,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 195409,
       "num": 195409,
       "word": "这工位老板看到了都害怕",
       "onboard_time": 1682905770,
       "rank": 29,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 194872,
-      "num": 194872,
-      "word": "五一档电影豆瓣开分",
-      "onboard_time": 1682907808,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 191233,
@@ -480,6 +488,14 @@
       "word": "好怕沧九旻把血放干了",
       "onboard_time": 1682899285,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 179185,
+      "num": 179185,
+      "word": "长空之王豆瓣开分7分",
+      "onboard_time": 1682908708,
+      "rank": 33,
       "category": "影视"
     },
     {
@@ -515,20 +531,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 168425,
-      "num": 168425,
-      "word": "所谓世面 不过是世界的一面",
-      "onboard_time": 1682905351,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 168362,
       "num": 151124,
       "word": "湖勇大战来了",
       "onboard_time": 1682896400,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167236,
+      "num": 167236,
+      "word": "贾乃亮控诉许文强偷金条",
+      "onboard_time": 1682906550,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 164046,
@@ -619,14 +635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138285,
-      "num": 138285,
-      "word": "贾乃亮控诉许文强偷金条",
-      "onboard_time": 1682906550,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136675,
       "num": 112801,
       "word": "国铁回应坐高铁像挤地铁",
@@ -681,6 +689,14 @@
       "onboard_time": 1682898265,
       "rank": 41,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 122697,
+      "num": 122697,
+      "word": "石川佳纯宣布退役",
+      "onboard_time": 1682908948,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 122515,
