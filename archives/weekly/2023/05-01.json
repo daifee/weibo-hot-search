@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682919217455,
+  "endTime": 1682922138257,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -65,6 +65,14 @@
       "onboard_time": 1682899587,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1608381,
+      "num": 1608381,
+      "word": "上淄博公厕配肠炎宁片和卫生巾",
+      "onboard_time": 1682918728,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1376127,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535524,
+      "num": 535524,
+      "word": "一位小哥在韩国受到了歧视",
+      "onboard_time": 1682919149,
+      "rank": 43,
+      "category": "幽默,社会新闻"
+    },
+    {
       "raw_hot": 519021,
       "num": 519021,
       "word": "华晨宇的音乐是挑观众的",
@@ -273,6 +289,14 @@
       "onboard_time": 1682916268,
       "rank": 14,
       "category": "美食"
+    },
+    {
+      "raw_hot": 432490,
+      "num": 223059,
+      "word": "女粉丝戴头纱去曾黎签售会",
+      "onboard_time": 1682921129,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 418241,
@@ -339,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310495,
+      "num": 310495,
+      "word": "飞机上你会如何称呼空姐",
+      "onboard_time": 1682919808,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 306084,
       "num": 178922,
       "word": "淄博一快递员因限流不让进下跪大哭",
@@ -388,7 +420,7 @@
     },
     {
       "raw_hot": 283215,
-      "num": 207146,
+      "num": 222096,
       "word": "易烊千玺手臂肌肉",
       "onboard_time": 1682916628,
       "rank": 20,
@@ -515,14 +547,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239552,
-      "num": 239552,
-      "word": "上淄博公厕配肠炎宁片和卫生巾",
-      "onboard_time": 1682918728,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 239084,
       "num": 239084,
       "word": "孙红雷谁说张颂文不能当大哥",
@@ -643,6 +667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205440,
+      "num": 205440,
+      "word": "你会嫁给合适但不喜欢的人吗",
+      "onboard_time": 1682919808,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204990,
       "num": 204990,
       "word": "五一快乐",
@@ -721,6 +753,14 @@
       "onboard_time": 1682862689,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178324,
+      "num": 178324,
+      "word": "医生在工作时遇到的最离谱的谎言",
+      "onboard_time": 1682918008,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 178065,
@@ -867,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153615,
+      "num": 139780,
+      "word": "倪妮抓拍图",
+      "onboard_time": 1682921009,
+      "rank": 30,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 153393,
       "num": 153393,
       "word": "看到那么多女孩站出来",
@@ -891,20 +939,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 145239,
-      "num": 145239,
+      "raw_hot": 149326,
+      "num": 149326,
       "word": "2023MSI",
       "onboard_time": 1682918250,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 143578,
-      "num": 143578,
-      "word": "医生在工作时遇到的最离谱的谎言",
-      "onboard_time": 1682918008,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 141525,
@@ -929,6 +969,14 @@
       "onboard_time": 1682897423,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137768,
+      "num": 137768,
+      "word": "电影不敢这么拍",
+      "onboard_time": 1682921427,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 136675,
@@ -1019,12 +1067,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 121902,
-      "num": 121902,
-      "word": "一位小哥在韩国受到了歧视",
-      "onboard_time": 1682919149,
-      "rank": 43,
-      "category": "幽默,社会新闻"
+      "raw_hot": 122495,
+      "num": 122495,
+      "word": "动车走一半超重停了",
+      "onboard_time": 1682921129,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 121013,
@@ -1171,6 +1219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98252,
+      "num": 98252,
+      "word": "凳子上的洞是干嘛用的",
+      "onboard_time": 1682921788,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94471,
       "num": 103296,
       "word": "五月你好",
@@ -1235,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74928,
+      "num": 74928,
+      "word": "一听玄鸟宿命感有了",
+      "onboard_time": 1682921968,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 68644,
       "num": 68644,
       "word": "黄圣依妈妈十五年国画缘",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1682871684,
       "rank": 29,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 43634,
+      "num": 109327,
+      "word": "五一的最终归宿还是快餐店",
+      "onboard_time": 1682920829,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41876,
