@@ -1,0 +1,410 @@
+{
+  "runTime": 1682932644739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1952103,
+        "num": 1952103,
+        "word": "珠穆朗玛峰凌晨两点还在堵",
+        "onboard_time": 1682922149,
+        "rank": 0,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1040268,
+        "num": 1040268,
+        "word": "你目前月薪存一百万要多久",
+        "onboard_time": 1682925868,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55331,
+        "num": 849802,
+        "word": "每一个奋斗的你都了不起",
+        "onboard_time": 1682915127,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2127805,
+        "num": 849653,
+        "word": "女演员晒裸照反击黑客勒索",
+        "onboard_time": 1682917650,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 831675,
+        "num": 831675,
+        "word": "上淄博公厕配肠炎宁片和卫生巾",
+        "onboard_time": 1682918728,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715838,
+        "num": 715838,
+        "word": "这是在攻打重庆吗",
+        "onboard_time": 1682915309,
+        "rank": 5,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 635873,
+        "num": 635873,
+        "word": "烧烤店老板为劝退游客自刷17个差评",
+        "onboard_time": 1682913028,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 554574,
+        "num": 554574,
+        "word": "史上最挤五一档却没带火电影院",
+        "onboard_time": 1682911468,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 461026,
+        "num": 461026,
+        "word": "才知道基围不是虾的品种",
+        "onboard_time": 1682928807,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 431375,
+        "num": 431375,
+        "word": "饥饿游戏女演员 女王行为",
+        "onboard_time": 1682929466,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 916184,
+        "num": 430931,
+        "word": "张丹峰前经纪人名下企业均已注销",
+        "onboard_time": 1682919508,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836676,
+        "num": 415385,
+        "word": "马云被聘为东京大学客座教授",
+        "onboard_time": 1682931086,
+        "rank": 11,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 833911,
+        "num": 391875,
+        "word": "赵丽颖要录综艺了",
+        "onboard_time": 1682925688,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360266,
+        "num": 360266,
+        "word": "毕滢 这么发展我真是说不清了",
+        "onboard_time": 1682905050,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332699,
+        "num": 332699,
+        "word": "半夜醒了不要拿手机看时间",
+        "onboard_time": 1682898746,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 316595,
+        "num": 316595,
+        "word": "男子阻止插队遭两女子狂骂",
+        "onboard_time": 1682923770,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316514,
+        "num": 316514,
+        "word": "宋亚轩肩上是破裤子吗",
+        "onboard_time": 1682930487,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294813,
+        "num": 294813,
+        "word": "一位小哥在韩国受到了歧视",
+        "onboard_time": 1682919149,
+        "rank": 17,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 279803,
+        "num": 279803,
+        "word": "跑男 控牌",
+        "onboard_time": 1682910449,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279032,
+        "num": 279032,
+        "word": "想买个青蛙人偶去发疯",
+        "onboard_time": 1682926825,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227360,
+        "num": 227360,
+        "word": "提名你一听到主演名字就不会打开的剧",
+        "onboard_time": 1682932168,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 227189,
+        "num": 227189,
+        "word": "迪丽热巴居家大片挑战",
+        "onboard_time": 1682927309,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224725,
+        "num": 224725,
+        "word": "周杰伦 第一名",
+        "onboard_time": 1682899587,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209296,
+        "num": 209296,
+        "word": "动车走一半超重停了",
+        "onboard_time": 1682921129,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202341,
+        "num": 202341,
+        "word": "突然发现了五一的意义",
+        "onboard_time": 1682930548,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185383,
+        "num": 185383,
+        "word": "孟美岐今日活动生图状态",
+        "onboard_time": 1682929466,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177868,
+        "num": 177868,
+        "word": "警方不建议前往大唐不夜城",
+        "onboard_time": 1682865150,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177834,
+        "num": 177834,
+        "word": "处女座和白羊座莫名的cp感",
+        "onboard_time": 1682924489,
+        "rank": 27,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 173764,
+        "num": 173764,
+        "word": "长月烬明市占率破30%",
+        "onboard_time": 1682925266,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173034,
+        "num": 173034,
+        "word": "圆明园黑天鹅芳芳暴毙",
+        "onboard_time": 1682923048,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 700073,
+        "num": 171033,
+        "word": "当事人称酒店床下发现尸体属实",
+        "onboard_time": 1682915427,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168735,
+        "num": 168735,
+        "word": "李现机场",
+        "onboard_time": 1682927367,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163825,
+        "num": 163825,
+        "word": "王子奇直播",
+        "onboard_time": 1682932048,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163710,
+        "num": 163710,
+        "word": "我和我的青春今日上线",
+        "onboard_time": 1682931687,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158403,
+        "num": 158403,
+        "word": "东北人评价淄博烧烤",
+        "onboard_time": 1682916268,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150199,
+        "num": 150199,
+        "word": "王一博说吾辈当自强",
+        "onboard_time": 1682932407,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148110,
+        "num": 148110,
+        "word": "范丞丞分点脖子给张百乔吧",
+        "onboard_time": 1682922629,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144721,
+        "num": 144721,
+        "word": "给麻将镶钻是什么体验",
+        "onboard_time": 1682928384,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143957,
+        "num": 143957,
+        "word": "白背心就是纯欲天花板",
+        "onboard_time": 1682931510,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140285,
+        "num": 140285,
+        "word": "黄景瑜说严浩翔误入歧途",
+        "onboard_time": 1682928988,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138105,
+        "num": 138105,
+        "word": "一个月后拿着图去看丫丫",
+        "onboard_time": 1682931867,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136160,
+        "num": 136160,
+        "word": "刘宇直播",
+        "onboard_time": 1682929948,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134827,
+        "num": 134827,
+        "word": "凉哈皮",
+        "onboard_time": 1682925808,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127123,
+        "num": 127123,
+        "word": "香港私家车7月1日起可入粤",
+        "onboard_time": 1682922508,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125209,
+        "num": 125209,
+        "word": "易烊千玺手臂肌肉",
+        "onboard_time": 1682916628,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122887,
+        "num": 122887,
+        "word": "你会嫁给合适但不喜欢的人吗",
+        "onboard_time": 1682919808,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122389,
+        "num": 122389,
+        "word": "饥饿游戏",
+        "onboard_time": 1682929407,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121786,
+        "num": 121786,
+        "word": "婚礼前一天被通知不需要伴娘",
+        "onboard_time": 1682857466,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114889,
+        "num": 114889,
+        "word": "旅行回来把10年的朋友拉黑了",
+        "onboard_time": 1682932168,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112018,
+        "num": 112018,
+        "word": "女粉丝戴头纱去曾黎签售会",
+        "onboard_time": 1682921129,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国广大劳动群众致以节日的祝贺#"
+    }
+  }
+}

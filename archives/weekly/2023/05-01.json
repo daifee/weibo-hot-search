@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682930035989,
+  "endTime": 1682932644739,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -148,11 +148,19 @@
     },
     {
       "raw_hot": 943655,
-      "num": 354670,
+      "num": 391875,
       "word": "赵丽颖要录综艺了",
       "onboard_time": 1682925688,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 916184,
+      "num": 430931,
+      "word": "张丹峰前经纪人名下企业均已注销",
+      "onboard_time": 1682919508,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 906961,
@@ -169,6 +177,14 @@
       "onboard_time": 1682862627,
       "rank": 4,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 836676,
+      "num": 415385,
+      "word": "马云被聘为东京大学客座教授",
+      "onboard_time": 1682931086,
+      "rank": 11,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 834659,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 595131,
-      "num": 337918,
+      "num": 431375,
       "word": "饥饿游戏女演员 女王行为",
       "onboard_time": 1682929466,
       "rank": 12,
@@ -313,6 +329,14 @@
       "onboard_time": 1682912308,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 461026,
+      "num": 461026,
+      "word": "才知道基围不是虾的品种",
+      "onboard_time": 1682928807,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 452510,
@@ -419,20 +443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316514,
+      "num": 316514,
+      "word": "宋亚轩肩上是破裤子吗",
+      "onboard_time": 1682930487,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 315724,
       "num": 298178,
       "word": "一个五一没回家的淄博人实录",
       "onboard_time": 1682912429,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310929,
-      "num": 188514,
-      "word": "才知道基围不是虾的品种",
-      "onboard_time": 1682928807,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 310495,
@@ -505,6 +529,14 @@
       "onboard_time": 1682907808,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 279032,
+      "num": 279032,
+      "word": "想买个青蛙人偶去发疯",
+      "onboard_time": 1682926825,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 275432,
@@ -659,14 +691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 240790,
-      "num": 240790,
-      "word": "想买个青蛙人偶去发疯",
-      "onboard_time": 1682926825,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 239084,
       "num": 239084,
       "word": "孙红雷谁说张颂文不能当大哥",
@@ -721,6 +745,14 @@
       "onboard_time": 1682919808,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227360,
+      "num": 227360,
+      "word": "提名你一听到主演名字就不会打开的剧",
+      "onboard_time": 1682932168,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 224453,
@@ -811,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209296,
+      "num": 209296,
+      "word": "动车走一半超重停了",
+      "onboard_time": 1682921129,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207732,
       "num": 207732,
       "word": "五月",
@@ -851,20 +891,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 202341,
+      "num": 202341,
+      "word": "突然发现了五一的意义",
+      "onboard_time": 1682930548,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202202,
       "num": 202202,
       "word": "处女座和白羊座莫名的cp感",
       "onboard_time": 1682924489,
       "rank": 40,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 199817,
-      "num": 199817,
-      "word": "动车走一半超重停了",
-      "onboard_time": 1682921129,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 195409,
@@ -923,20 +963,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 185383,
+      "num": 185383,
+      "word": "孟美岐今日活动生图状态",
+      "onboard_time": 1682929466,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185255,
       "num": 171371,
       "word": "倪妮游玩环球影城plog",
       "onboard_time": 1682918068,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184142,
-      "num": 184142,
-      "word": "孟美岐今日活动生图状态",
-      "onboard_time": 1682929466,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 180931,
@@ -1083,6 +1123,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163825,
+      "num": 163825,
+      "word": "王子奇直播",
+      "onboard_time": 1682932048,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 163710,
+      "num": 163710,
+      "word": "我和我的青春今日上线",
+      "onboard_time": 1682931687,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 163011,
       "num": 163011,
       "word": "长月烬明",
@@ -1155,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150199,
+      "num": 150199,
+      "word": "王一博说吾辈当自强",
+      "onboard_time": 1682932407,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 149488,
       "num": 149488,
       "word": "三人合吃一份自助餐遭服务员劝阻",
@@ -1195,6 +1259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143957,
+      "num": 143957,
+      "word": "白背心就是纯欲天花板",
+      "onboard_time": 1682931510,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141525,
       "num": 141525,
       "word": "堵骆驼",
@@ -1219,6 +1291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138105,
+      "num": 138105,
+      "word": "一个月后拿着图去看丫丫",
+      "onboard_time": 1682931867,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136675,
       "num": 112801,
       "word": "国铁回应坐高铁像挤地铁",
@@ -1233,6 +1313,14 @@
       "onboard_time": 1682900308,
       "rank": 38,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 136160,
+      "num": 136160,
+      "word": "刘宇直播",
+      "onboard_time": 1682929948,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 135127,
@@ -1315,7 +1403,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126007,
+      "raw_hot": 127123,
       "num": 165722,
       "word": "香港私家车7月1日起可入粤",
       "onboard_time": 1682922508,
@@ -1379,20 +1467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118758,
-      "num": 118758,
-      "word": "刘宇直播",
-      "onboard_time": 1682929948,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117983,
       "num": 117983,
       "word": "一棵树容不下两只熊猫",
       "onboard_time": 1682906130,
       "rank": 46,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 114889,
+      "num": 114889,
+      "word": "旅行回来把10年的朋友拉黑了",
+      "onboard_time": 1682932168,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 114430,
