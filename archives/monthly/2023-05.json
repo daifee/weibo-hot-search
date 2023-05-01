@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682926390839,
+  "endTime": 1682929300985,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2138764,
+      "num": 2138764,
+      "word": "珠穆朗玛峰凌晨两点还在堵",
+      "onboard_time": 1682922149,
+      "rank": 11,
+      "category": "情感,旅游"
+    },
+    {
       "raw_hot": 2067150,
       "num": 417330,
       "word": "毕滢",
       "onboard_time": 1682899587,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2050745,
-      "num": 2050745,
-      "word": "珠穆朗玛峰凌晨两点还在堵",
-      "onboard_time": 1682922149,
-      "rank": 11,
-      "category": "情感,旅游"
     },
     {
       "raw_hot": 1762220,
@@ -131,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1040654,
+      "num": 1040654,
+      "word": "你目前月薪存一百万要多久",
+      "onboard_time": 1682925868,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1009960,
       "num": 1009960,
       "word": "长大后童年报复性补偿行为",
       "onboard_time": 1682907868,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 943655,
+      "num": 354670,
+      "word": "赵丽颖要录综艺了",
+      "onboard_time": 1682925688,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 906961,
@@ -291,14 +307,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 468100,
-      "num": 354670,
-      "word": "赵丽颖要录综艺了",
-      "onboard_time": 1682925688,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 452510,
       "num": 452510,
       "word": "东北人评价淄博烧烤",
@@ -363,6 +371,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 401589,
+      "num": 401589,
+      "word": "男子阻止插队遭两女子狂骂",
+      "onboard_time": 1682923770,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383497,
       "num": 383497,
       "word": "广州圣心大教堂石碑碎了",
@@ -377,6 +393,14 @@
       "onboard_time": 1682910146,
       "rank": 24,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 325071,
+      "num": 325071,
+      "word": "凉哈皮",
+      "onboard_time": 1682925808,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 317483,
@@ -515,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 254431,
+      "num": 254431,
+      "word": "迪丽热巴居家大片挑战",
+      "onboard_time": 1682927309,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252266,
       "num": 216672,
       "word": "潍坊文旅派人来杭州揽客",
@@ -603,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237332,
-      "num": 182863,
-      "word": "你目前月薪存一百万要多久",
-      "onboard_time": 1682925868,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235687,
       "num": 235687,
       "word": "山东一文旅局长为游客跳霹雳舞",
@@ -657,14 +681,6 @@
       "onboard_time": 1682919808,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225431,
-      "num": 225431,
-      "word": "男子阻止插队遭两女子狂骂",
-      "onboard_time": 1682923770,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224453,
@@ -747,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208235,
+      "num": 208235,
+      "word": "黄景瑜说严浩翔误入歧途",
+      "onboard_time": 1682928988,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207732,
       "num": 207732,
       "word": "五月",
@@ -787,12 +811,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 202257,
-      "num": 202257,
-      "word": "凉哈皮",
-      "onboard_time": 1682925808,
+      "raw_hot": 201790,
+      "num": 201790,
+      "word": "处女座和白羊座莫名的cp感",
+      "onboard_time": 1682924489,
+      "rank": 40,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 200939,
+      "num": 200939,
+      "word": "想买个青蛙人偶去发疯",
+      "onboard_time": 1682926825,
       "rank": 24,
-      "category": "游戏"
+      "category": "情感"
     },
     {
       "raw_hot": 199497,
@@ -809,6 +841,14 @@
       "onboard_time": 1682905770,
       "rank": 29,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 195258,
+      "num": 195258,
+      "word": "李现机场",
+      "onboard_time": 1682927367,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192394,
@@ -840,6 +880,14 @@
       "word": "张新成孙千谈电影这么多年",
       "onboard_time": 1682924968,
       "rank": 29,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 185469,
+      "num": 185469,
+      "word": "长月烬明市占率破30%",
+      "onboard_time": 1682925266,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -907,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176011,
-      "num": 176011,
-      "word": "处女座和白羊座莫名的cp感",
-      "onboard_time": 1682924489,
-      "rank": 40,
-      "category": "情感,网红"
+      "raw_hot": 176270,
+      "num": 176270,
+      "word": "才知道基围不是虾的品种",
+      "onboard_time": 1682928807,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 175641,
@@ -971,20 +1019,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167505,
-      "num": 167505,
-      "word": "长月烬明市占率破30%",
-      "onboard_time": 1682925266,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 167236,
       "num": 167236,
       "word": "贾乃亮控诉许文强偷金条",
       "onboard_time": 1682906550,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165435,
+      "num": 165435,
+      "word": "给麻将镶钻是什么体验",
+      "onboard_time": 1682928384,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 164748,
@@ -1091,6 +1139,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148190,
+      "num": 148190,
+      "word": "贺峻霖说明天见",
+      "onboard_time": 1682927909,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 146379,
+      "num": 146379,
+      "word": "华晨宇演唱会穿搭自由",
+      "onboard_time": 1682927727,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145105,
       "num": 145105,
       "word": "王源巡演广州站官宣",
@@ -1187,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129153,
+      "num": 129153,
+      "word": "人生路不熟单日票房反超",
+      "onboard_time": 1682925148,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129109,
       "num": 129109,
       "word": "张杰武汉演唱会",
@@ -1224,14 +1296,6 @@
       "word": "长空之王单日票房破亿",
       "onboard_time": 1682869348,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 122462,
-      "num": 122462,
-      "word": "人生路不熟单日票房反超",
-      "onboard_time": 1682925148,
-      "rank": 42,
       "category": "影视"
     },
     {
@@ -1387,6 +1451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99668,
+      "num": 99668,
+      "word": "种地吧",
+      "onboard_time": 1682924550,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98252,
       "num": 98252,
       "word": "凳子上的洞是干嘛用的",
@@ -1465,6 +1537,14 @@
       "onboard_time": 1682921968,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 69862,
+      "num": 304788,
+      "word": "明日方舟四周年",
+      "onboard_time": 1682928025,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 68644,
