@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1682961326705,
+  "endTime": 1682962422646,
   "band_list": [
     {
       "raw_hot": 1444858,
@@ -347,12 +347,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109619,
+      "num": 99123,
+      "word": "母鸡山服务区冲厕出现红水吓跑小孩",
+      "onboard_time": 1682960241,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102183,
+      "num": 126526,
+      "word": "插队",
+      "onboard_time": 1682947890,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102075,
       "num": 128999,
       "word": "文俊辉直播",
       "onboard_time": 1682944770,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102038,
+      "num": 102038,
+      "word": "周深唱向光而行又暖又燃",
+      "onboard_time": 1682961979,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 100747,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 92774,
-      "num": 92774,
+      "num": 99350,
       "word": "武汉地铁人多到免检票进站",
       "onboard_time": 1682959524,
       "rank": 37,
@@ -409,22 +433,6 @@
       "onboard_time": 1682898746,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 82124,
-      "num": 82124,
-      "word": "插队",
-      "onboard_time": 1682947890,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80249,
-      "num": 80249,
-      "word": "母鸡山服务区冲厕出现红水吓跑小孩",
-      "onboard_time": 1682960241,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78464,
