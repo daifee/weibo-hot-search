@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682936314058,
+  "endTime": 1682937203893,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -387,6 +387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 439163,
+      "num": 394127,
+      "word": "山东聊城一工厂火灾致5死1伤",
+      "onboard_time": 1682935888,
+      "rank": 21,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 432490,
       "num": 242257,
       "word": "女粉丝戴头纱去曾黎签售会",
@@ -451,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393038,
+      "num": 393038,
+      "word": "肖战 空降",
+      "onboard_time": 1682937088,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383497,
       "num": 383497,
       "word": "广州圣心大教堂石碑碎了",
@@ -459,12 +475,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365594,
-      "num": 365594,
+      "raw_hot": 373203,
+      "num": 373203,
       "word": "漫长的季节",
       "onboard_time": 1682861010,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 369891,
+      "num": 369891,
+      "word": "短短几秒白敬亭被整了十几次",
+      "onboard_time": 1682935227,
+      "rank": 19,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 345558,
+      "num": 345558,
+      "word": "杜江身材",
+      "onboard_time": 1682936306,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 338856,
@@ -587,14 +619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281889,
-      "num": 281889,
-      "word": "短短几秒白敬亭被整了十几次",
-      "onboard_time": 1682935227,
-      "rank": 19,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 279032,
       "num": 279032,
       "word": "想买个青蛙人偶去发疯",
@@ -627,20 +651,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 270255,
-      "num": 270255,
-      "word": "山东聊城一工厂火灾致5死1伤",
-      "onboard_time": 1682935888,
-      "rank": 21,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 269240,
       "num": 269240,
       "word": "看拜仁踢球 坐牢",
       "onboard_time": 1682868571,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269128,
+      "num": 269128,
+      "word": "男子满手痛风石参加酒局",
+      "onboard_time": 1682935947,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267521,
@@ -673,6 +697,14 @@
       "onboard_time": 1682913507,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 263380,
+      "num": 219135,
+      "word": "陈晓毛晓彤十年前vs十年后",
+      "onboard_time": 1682936969,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254444,
@@ -755,6 +787,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 245798,
+      "num": 212774,
+      "word": "帮费曼给他两岁的女儿取中文名",
+      "onboard_time": 1682936547,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245754,
       "num": 245754,
       "word": "丫丫暂住的上海动物园人气旺",
@@ -771,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244392,
+      "num": 183880,
+      "word": "这样洗澡能治痔疮",
+      "onboard_time": 1682935647,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241968,
       "num": 241968,
       "word": "马伊琍谈原生家庭影响",
@@ -785,6 +833,14 @@
       "onboard_time": 1682904033,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237416,
+      "num": 1154160,
+      "word": "00后旅游偶遇可爱爷爷涂鸦送画",
+      "onboard_time": 1682934626,
+      "rank": 4,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 235687,
@@ -899,14 +955,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 217051,
-      "num": 1154160,
-      "word": "00后旅游偶遇可爱爷爷涂鸦送画",
-      "onboard_time": 1682934626,
-      "rank": 4,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 216885,
       "num": 201260,
       "word": "马嘉祺灰色短袖造型",
@@ -985,14 +1033,6 @@
       "onboard_time": 1682896520,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202608,
-      "num": 202608,
-      "word": "杜江身材",
-      "onboard_time": 1682936306,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 202348,
@@ -1323,14 +1363,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 151823,
-      "num": 151823,
-      "word": "男子满手痛风石参加酒局",
-      "onboard_time": 1682935947,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151287,
       "num": 151287,
       "word": "不要和斤斤计较的人一起旅游",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1682927909,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 147991,
-      "num": 147991,
-      "word": "这样洗澡能治痔疮",
-      "onboard_time": 1682935647,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 147831,
@@ -1851,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52535,
+      "num": 1315543,
+      "word": "跳动的数字看加速前进的中国",
+      "onboard_time": 1682933609,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52159,
       "num": 52159,
       "word": "郭顶现场",
@@ -1865,14 +1897,6 @@
       "onboard_time": 1682916449,
       "rank": 27,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 45686,
-      "num": 1315543,
-      "word": "跳动的数字看加速前进的中国",
-      "onboard_time": 1682933609,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 45421,
