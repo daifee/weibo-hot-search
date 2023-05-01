@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682909045840,
+  "endTime": 1682911146939,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1009960,
+      "num": 1009960,
+      "word": "长大后童年报复性补偿行为",
+      "onboard_time": 1682907868,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 906961,
       "num": 906961,
       "word": "女子为亡夫销户痛哭民警为其留户籍页",
@@ -89,6 +97,14 @@
       "onboard_time": 1682896642,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 818692,
+      "num": 818692,
+      "word": "跑男 控牌",
+      "onboard_time": 1682910449,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 743526,
@@ -131,12 +147,28 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 676336,
+      "num": 676336,
+      "word": "范丞丞情商",
+      "onboard_time": 1682909789,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660976,
       "num": 660976,
       "word": "两头婚可以减少夫妻矛盾吗",
       "onboard_time": 1682865932,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 632654,
+      "num": 632654,
+      "word": "石川佳纯宣布退役",
+      "onboard_time": 1682908948,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 519021,
@@ -235,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370349,
-      "num": 248147,
-      "word": "长大后童年报复性补偿行为",
-      "onboard_time": 1682907868,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 306084,
       "num": 178922,
       "word": "淄博一快递员因限流不让进下跪大哭",
@@ -283,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282249,
+      "num": 282249,
+      "word": "五一档电影豆瓣开分",
+      "onboard_time": 1682907808,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 275432,
       "num": 275432,
       "word": "华语乐坛",
       "onboard_time": 1682907030,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 270448,
-      "num": 270448,
-      "word": "五一档电影豆瓣开分",
-      "onboard_time": 1682907808,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 269240,
@@ -339,6 +363,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 247615,
+      "num": 247615,
+      "word": "五一的必吃清单",
+      "onboard_time": 1682910328,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246562,
       "num": 246562,
       "word": "袁弘婚前给张歆艺银行卡密码",
@@ -371,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237299,
+      "num": 237299,
+      "word": "赵丽颖五月行程",
+      "onboard_time": 1682910029,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235687,
       "num": 235687,
       "word": "山东一文旅局长为游客跳霹雳舞",
@@ -401,6 +441,14 @@
       "onboard_time": 1682842046,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228199,
+      "num": 228199,
+      "word": "姒婴竟然是姐控",
+      "onboard_time": 1682909549,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 223163,
@@ -443,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205935,
+      "num": 220291,
+      "word": "谷爱凌希望扩大亚裔和华人影响力",
+      "onboard_time": 1682910146,
+      "rank": 24,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 205650,
       "num": 205650,
       "word": "cp29",
@@ -465,6 +521,14 @@
       "onboard_time": 1682905351,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 195413,
+      "num": 184295,
+      "word": "马伊琍谈原生家庭影响",
+      "onboard_time": 1682910748,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 195409,
@@ -531,12 +595,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 168946,
+      "num": 168946,
+      "word": "湖人勇士谁能晋级西部决赛",
+      "onboard_time": 1682906670,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168362,
       "num": 151124,
       "word": "湖勇大战来了",
       "onboard_time": 1682896400,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167511,
+      "num": 167511,
+      "word": "最美工作照",
+      "onboard_time": 1682910328,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 167236,
@@ -609,6 +689,14 @@
       "onboard_time": 1682903908,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153781,
+      "num": 153781,
+      "word": "黄晓明没钱只剩下真诚",
+      "onboard_time": 1682909908,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 149488,
@@ -691,12 +779,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 122697,
-      "num": 122697,
-      "word": "石川佳纯宣布退役",
-      "onboard_time": 1682908948,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 127230,
+      "num": 127230,
+      "word": "不要和斤斤计较的人一起旅游",
+      "onboard_time": 1682910211,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 122515,
@@ -736,14 +824,6 @@
       "word": "NBA春晚",
       "onboard_time": 1682897003,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 119319,
-      "num": 119319,
-      "word": "湖人勇士谁能晋级西部决赛",
-      "onboard_time": 1682906670,
-      "rank": 45,
       "category": "体育"
     },
     {

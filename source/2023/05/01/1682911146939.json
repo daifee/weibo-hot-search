@@ -1,0 +1,410 @@
+{
+  "runTime": 1682911146939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315857,
+        "num": 1315857,
+        "word": "半夜醒了不要拿手机看时间",
+        "onboard_time": 1682898746,
+        "rank": 0,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1009960,
+        "num": 1009960,
+        "word": "长大后童年报复性补偿行为",
+        "onboard_time": 1682907868,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9465,
+        "num": 893813,
+        "word": "卫星视角下的花开中国太美了",
+        "onboard_time": 1682839286,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818692,
+        "num": 818692,
+        "word": "跑男 控牌",
+        "onboard_time": 1682910449,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 699050,
+        "num": 699050,
+        "word": "周杰伦 第一名",
+        "onboard_time": 1682899587,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676336,
+        "num": 676336,
+        "word": "范丞丞情商",
+        "onboard_time": 1682909789,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632654,
+        "num": 632654,
+        "word": "石川佳纯宣布退役",
+        "onboard_time": 1682908948,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 432472,
+        "num": 432472,
+        "word": "见过最罕见的姓氏是什么",
+        "onboard_time": 1682904570,
+        "rank": 7,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 402125,
+        "num": 402125,
+        "word": "婚礼前一天被通知不需要伴娘",
+        "onboard_time": 1682857466,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401056,
+        "num": 401056,
+        "word": "警方不建议前往大唐不夜城",
+        "onboard_time": 1682865150,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3954767,
+        "num": 396434,
+        "word": "洪欣张丹峰离婚",
+        "onboard_time": 1682897784,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1792107,
+        "num": 390372,
+        "word": "毕滢 这么发展我真是说不清了",
+        "onboard_time": 1682905050,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532610,
+        "num": 388349,
+        "word": "乃万单手脱上衣",
+        "onboard_time": 1682896642,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 380180,
+        "num": 380180,
+        "word": "两头婚可以减少夫妻矛盾吗",
+        "onboard_time": 1682865932,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343657,
+        "num": 343657,
+        "word": "丁太升问小鬼你会造空调吗",
+        "onboard_time": 1682903850,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326814,
+        "num": 326814,
+        "word": "市监局回应淄博烧烤店吃出刀片",
+        "onboard_time": 1682899226,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316432,
+        "num": 316432,
+        "word": "张碧晨 车尾号920",
+        "onboard_time": 1682863409,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282249,
+        "num": 282249,
+        "word": "五一档电影豆瓣开分",
+        "onboard_time": 1682907808,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 280510,
+        "num": 280510,
+        "word": "这个五一山东景区杀疯了",
+        "onboard_time": 1682900488,
+        "rank": 18,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 238057,
+        "num": 259140,
+        "word": "史航",
+        "onboard_time": 1682862627,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 248106,
+        "num": 248106,
+        "word": "6人吃了30盘自助小龙虾惊动店长",
+        "onboard_time": 1682900488,
+        "rank": 20,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 247615,
+        "num": 247615,
+        "word": "五一的必吃清单",
+        "onboard_time": 1682910328,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 237299,
+        "num": 237299,
+        "word": "赵丽颖五月行程",
+        "onboard_time": 1682910029,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228199,
+        "num": 228199,
+        "word": "姒婴竟然是姐控",
+        "onboard_time": 1682909549,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 205935,
+        "num": 220291,
+        "word": "谷爱凌希望扩大亚裔和华人影响力",
+        "onboard_time": 1682910146,
+        "rank": 24,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 219518,
+        "num": 219518,
+        "word": "华晨宇的音乐是挑观众的",
+        "onboard_time": 1682902890,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218540,
+        "num": 218540,
+        "word": "吴建豪在郑秀妍面前提少女时代成员",
+        "onboard_time": 1682866892,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213289,
+        "num": 213289,
+        "word": "和豪门大佬网恋后我红了",
+        "onboard_time": 1682855067,
+        "rank": 27,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 205327,
+        "num": 205327,
+        "word": "库里",
+        "onboard_time": 1682895923,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186419,
+        "num": 186419,
+        "word": "装修砸承重墙致200户居民疏散",
+        "onboard_time": 1682896642,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195413,
+        "num": 184295,
+        "word": "马伊琍谈原生家庭影响",
+        "onboard_time": 1682910748,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195165,
+        "num": 180808,
+        "word": "华语乐坛",
+        "onboard_time": 1682907030,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176469,
+        "num": 176469,
+        "word": "所谓世面 不过是世界的一面",
+        "onboard_time": 1682905351,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 175629,
+        "num": 175629,
+        "word": "周也到底买了多少盲盒",
+        "onboard_time": 1682906789,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173017,
+        "num": 173017,
+        "word": "这工位老板看到了都害怕",
+        "onboard_time": 1682905770,
+        "rank": 34,
+        "category": "幽默,社会新闻"
+      },
+      {
+        "raw_hot": 168946,
+        "num": 168946,
+        "word": "湖人勇士谁能晋级西部决赛",
+        "onboard_time": 1682906670,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168644,
+        "num": 168644,
+        "word": "史航曾给房思琪的初恋乐园写推荐语",
+        "onboard_time": 1682900609,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167511,
+        "num": 167511,
+        "word": "最美工作照",
+        "onboard_time": 1682910328,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162558,
+        "num": 162558,
+        "word": "姆巴佩偷袭门将",
+        "onboard_time": 1682899047,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154921,
+        "num": 154921,
+        "word": "cp29",
+        "onboard_time": 1682902768,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153781,
+        "num": 153781,
+        "word": "黄晓明没钱只剩下真诚",
+        "onboard_time": 1682909908,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141996,
+        "num": 141996,
+        "word": "袁弘婚前给张歆艺银行卡密码",
+        "onboard_time": 1682904150,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127929,
+        "num": 127929,
+        "word": "王源爸妈不在的演唱会状态",
+        "onboard_time": 1682863709,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127230,
+        "num": 127230,
+        "word": "不要和斤斤计较的人一起旅游",
+        "onboard_time": 1682910211,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123410,
+        "num": 123410,
+        "word": "转发这个五月天",
+        "onboard_time": 1682904750,
+        "rank": 44,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 123368,
+        "num": 123368,
+        "word": "山东一文旅局长为游客跳霹雳舞",
+        "onboard_time": 1682893937,
+        "rank": 45,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 117256,
+        "num": 117256,
+        "word": "哪些工作值得干到退休",
+        "onboard_time": 1682908287,
+        "rank": 46,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 115941,
+        "num": 115941,
+        "word": "巴特勒真的太硬了",
+        "onboard_time": 1682898746,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112938,
+        "num": 112938,
+        "word": "孙红雷谁说张颂文不能当大哥",
+        "onboard_time": 1682904033,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110776,
+        "num": 110776,
+        "word": "长空之王豆瓣开分7分",
+        "onboard_time": 1682908708,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#形成推动高质量发展的强大动力#"
+    }
+  }
+}
