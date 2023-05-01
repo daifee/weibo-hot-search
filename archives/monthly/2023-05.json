@@ -1,13 +1,29 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682904385455,
+  "endTime": 1682905732993,
   "band_list": [
+    {
+      "raw_hot": 6528594,
+      "num": 443915,
+      "word": "洪欣 某人一直删除我微博",
+      "onboard_time": 1682904631,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 4917092,
       "num": 417560,
       "word": "洪欣张丹峰离婚",
       "onboard_time": 1682897784,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3078595,
+      "num": 439776,
+      "word": "毕滢 这么发展我真是说不清了",
+      "onboard_time": 1682905050,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -19,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1638057,
-      "num": 1638057,
+      "raw_hot": 1695709,
+      "num": 1695709,
       "word": "周杰伦 第一名",
       "onboard_time": 1682899587,
       "rank": 0,
@@ -59,16 +75,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 796040,
-      "num": 796040,
+      "raw_hot": 846152,
+      "num": 846152,
       "word": "史航",
       "onboard_time": 1682862627,
       "rank": 4,
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 786209,
-      "num": 786209,
+      "raw_hot": 789011,
+      "num": 789011,
       "word": "乃万单手脱上衣",
       "onboard_time": 1682896642,
       "rank": 19,
@@ -107,8 +123,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 613673,
-      "num": 613673,
+      "raw_hot": 660976,
+      "num": 660976,
       "word": "两头婚可以减少夫妻矛盾吗",
       "onboard_time": 1682865932,
       "rank": 23,
@@ -139,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 484512,
+      "num": 484512,
+      "word": "这个五一山东景区杀疯了",
+      "onboard_time": 1682900488,
+      "rank": 8,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 483282,
       "num": 297675,
       "word": "黄牛 你就说进没进去吧",
@@ -147,16 +171,24 @@
       "category": "幽默,作品衍生"
     },
     {
-      "raw_hot": 453102,
-      "num": 453102,
-      "word": "这个五一山东景区杀疯了",
-      "onboard_time": 1682900488,
-      "rank": 8,
-      "category": "旅游,社会新闻"
+      "raw_hot": 452038,
+      "num": 452038,
+      "word": "丁太升问小鬼你会造空调吗",
+      "onboard_time": 1682903850,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 432947,
+      "num": 432947,
+      "word": "见过最罕见的姓氏是什么",
+      "onboard_time": 1682904570,
+      "rank": 12,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 418241,
-      "num": 212138,
+      "num": 255021,
       "word": "6人吃了30盘自助小龙虾惊动店长",
       "onboard_time": 1682900488,
       "rank": 20,
@@ -203,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300272,
+      "num": 252521,
+      "word": "五一多景点人从众现状曝光",
+      "onboard_time": 1682905591,
+      "rank": 21,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 295567,
       "num": 295567,
       "word": "勇士晋级西部半决赛",
@@ -219,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266941,
+      "num": 266941,
+      "word": "老人不识字行李箱贴满回家行程",
+      "onboard_time": 1682874681,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266699,
       "num": 178792,
       "word": "月收入四万是什么体验",
@@ -227,20 +275,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 265471,
-      "num": 265471,
-      "word": "老人不识字行李箱贴满回家行程",
-      "onboard_time": 1682874681,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259503,
-      "num": 211776,
+      "num": 257205,
       "word": "市监局回应淄博烧烤店吃出刀片",
       "onboard_time": 1682899226,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249907,
+      "num": 249907,
+      "word": "转发这个五月天",
+      "onboard_time": 1682904750,
+      "rank": 22,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 245754,
@@ -257,6 +305,14 @@
       "onboard_time": 1682897603,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242610,
+      "num": 242610,
+      "word": "装修砸承重墙致200户居民疏散",
+      "onboard_time": 1682896642,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235687,
@@ -291,12 +347,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224247,
-      "num": 224247,
-      "word": "装修砸承重墙致200户居民疏散",
-      "onboard_time": 1682896642,
+      "raw_hot": 230306,
+      "num": 230306,
+      "word": "袁弘婚前给张歆艺银行卡密码",
+      "onboard_time": 1682904150,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218928,
+      "num": 218928,
+      "word": "上海一女子包车去音乐节被放鸽子",
+      "onboard_time": 1682902289,
       "rank": 24,
-      "category": "社会新闻"
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 215616,
@@ -315,12 +379,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 209846,
-      "num": 209846,
-      "word": "丁太升问小鬼你会造空调吗",
-      "onboard_time": 1682903850,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 209460,
+      "num": 209460,
+      "word": "姆巴佩偷袭门将",
+      "onboard_time": 1682899047,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 207732,
@@ -331,28 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207360,
-      "num": 207360,
-      "word": "上海一女子包车去音乐节被放鸽子",
-      "onboard_time": 1682902289,
-      "rank": 24,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 204990,
       "num": 204990,
       "word": "五一快乐",
       "onboard_time": 1682896520,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202922,
-      "num": 202922,
-      "word": "姆巴佩偷袭门将",
-      "onboard_time": 1682899047,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 191233,
@@ -363,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190384,
+      "num": 190384,
+      "word": "孙红雷谁说张颂文不能当大哥",
+      "onboard_time": 1682904033,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180931,
       "num": 180931,
       "word": "好怕沧九旻把血放干了",
       "onboard_time": 1682899285,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180772,
+      "num": 180772,
+      "word": "cp29",
+      "onboard_time": 1682902768,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 179058,
@@ -467,12 +531,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157975,
-      "num": 157975,
-      "word": "cp29",
-      "onboard_time": 1682902768,
-      "rank": 33,
-      "category": "动漫"
+      "raw_hot": 154752,
+      "num": 154752,
+      "word": "seventeen是命运",
+      "onboard_time": 1682903908,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149488,
@@ -507,20 +571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136657,
+      "num": 136657,
+      "word": "五一",
+      "onboard_time": 1682900308,
+      "rank": 38,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 135127,
       "num": 135127,
       "word": "四川交警狂吼11次让一下",
       "onboard_time": 1682856628,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134624,
-      "num": 134624,
-      "word": "五一",
-      "onboard_time": 1682900308,
-      "rank": 38,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 134515,
@@ -539,14 +603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129317,
-      "num": 129317,
-      "word": "seventeen是命运",
-      "onboard_time": 1682903908,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 129109,
       "num": 129109,
       "word": "张杰武汉演唱会",
@@ -561,14 +617,6 @@
       "onboard_time": 1682898265,
       "rank": 41,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 125023,
-      "num": 125023,
-      "word": "孙红雷谁说张颂文不能当大哥",
-      "onboard_time": 1682904033,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 122515,
@@ -595,6 +643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120909,
+      "num": 120909,
+      "word": "夫妻进对方家族群一定要发红包吗",
+      "onboard_time": 1682903970,
+      "rank": 47,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 119787,
       "num": 119787,
       "word": "NBA春晚",
@@ -603,20 +659,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119574,
+      "num": 119574,
+      "word": "所谓世面 不过是世界的一面",
+      "onboard_time": 1682905351,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 118994,
       "num": 114295,
       "word": "马嘉祺假哭",
       "onboard_time": 1682852607,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117747,
-      "num": 117747,
-      "word": "袁弘婚前给张歆艺银行卡密码",
-      "onboard_time": 1682904150,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 114430,
@@ -675,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108870,
-      "num": 108870,
-      "word": "夫妻进对方家族群一定要发红包吗",
-      "onboard_time": 1682903970,
+      "raw_hot": 108667,
+      "num": 108667,
+      "word": "王一博雷宇已开启换肤模式",
+      "onboard_time": 1682904511,
       "rank": 47,
-      "category": "情感,社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 104836,
@@ -844,7 +900,7 @@
     },
     {
       "raw_hot": 14520,
-      "num": 1028048,
+      "num": 1043584,
       "word": "卫星视角下的花开中国太美了",
       "onboard_time": 1682839286,
       "rank": 2,
