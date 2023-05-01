@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682940797898,
+  "endTime": 1682944346677,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -59,6 +59,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2065232,
+      "num": 2065232,
+      "word": "史航回应性骚扰",
+      "onboard_time": 1682943089,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1987105,
+      "num": 1987105,
+      "word": "朋友圈发什么最让人反感",
+      "onboard_time": 1682940149,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1951901,
       "num": 1951901,
       "word": "陈晓毛晓彤十年前vs十年后",
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1523361,
+      "num": 1523361,
+      "word": "漫长的季节 封神",
+      "onboard_time": 1682941346,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1459992,
       "num": 507475,
       "word": "hybe",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 1445287,
-      "num": 518451,
+      "num": 1414294,
       "word": "拉萨客栈杀人案嫌犯已被抓捕",
       "onboard_time": 1682939189,
       "rank": 14,
@@ -323,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 627977,
+      "num": 520585,
+      "word": "王心凌张栋梁合影",
+      "onboard_time": 1682943628,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 595131,
       "num": 431375,
       "word": "饥饿游戏女演员 女王行为",
@@ -361,14 +393,6 @@
       "onboard_time": 1682895923,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 504970,
-      "num": 504970,
-      "word": "朋友圈发什么最让人反感",
-      "onboard_time": 1682940149,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 485510,
@@ -483,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409884,
+      "num": 409884,
+      "word": "漫长的季节",
+      "onboard_time": 1682861010,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409160,
       "num": 409160,
       "word": "市监局回应淄博烧烤店吃出刀片",
@@ -515,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398428,
+      "num": 398428,
+      "word": "短短几秒白敬亭被整了十几次",
+      "onboard_time": 1682935227,
+      "rank": 19,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 396343,
       "num": 396343,
       "word": "帮费曼给他两岁的女儿取中文名",
@@ -529,22 +569,6 @@
       "onboard_time": 1682865334,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376641,
-      "num": 376641,
-      "word": "短短几秒白敬亭被整了十几次",
-      "onboard_time": 1682935227,
-      "rank": 19,
-      "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 373203,
-      "num": 373203,
-      "word": "漫长的季节",
-      "onboard_time": 1682861010,
-      "rank": 17,
-      "category": "影视"
     },
     {
       "raw_hot": 338856,
@@ -563,6 +587,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 321930,
+      "num": 321930,
+      "word": "往前看 别回头",
+      "onboard_time": 1682942247,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 317483,
       "num": 317483,
       "word": "范丞丞分点脖子给张百乔吧",
@@ -577,6 +609,14 @@
       "onboard_time": 1682930487,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 316337,
+      "num": 252604,
+      "word": "辛爽你真的牛",
+      "onboard_time": 1682942368,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 315724,
@@ -643,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285779,
+      "num": 285779,
+      "word": "人气超高但是你却无感的水果",
+      "onboard_time": 1682940149,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 283771,
       "num": 247985,
       "word": "赵丽颖五月行程",
@@ -697,6 +745,14 @@
       "onboard_time": 1682922568,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270041,
+      "num": 235264,
+      "word": "澹台烬演魔神被识破",
+      "onboard_time": 1682938169,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 269240,
@@ -803,6 +859,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 249702,
+      "num": 194394,
+      "word": "黎苏苏三世都被同一个男人追",
+      "onboard_time": 1682943390,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 247615,
       "num": 247615,
       "word": "五一的必吃清单",
@@ -889,14 +953,6 @@
       "onboard_time": 1682893937,
       "rank": 22,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 235264,
-      "num": 235264,
-      "word": "澹台烬演魔神被识破",
-      "onboard_time": 1682938169,
-      "rank": 30,
-      "category": "影视"
     },
     {
       "raw_hot": 234794,
@@ -1115,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204219,
+      "num": 167944,
+      "word": "苏打绿 南京",
+      "onboard_time": 1682943808,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 202348,
       "num": 202348,
       "word": "所谓世面 不过是世界的一面",
@@ -1153,6 +1217,22 @@
       "onboard_time": 1682927367,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194066,
+      "num": 181378,
+      "word": "月收入一万真的简单吗",
+      "onboard_time": 1682943508,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 192943,
+      "num": 192943,
+      "word": "辽宁男篮vs广厦男篮",
+      "onboard_time": 1682943089,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 192394,
@@ -1201,6 +1281,14 @@
       "onboard_time": 1682917347,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186771,
+      "num": 167289,
+      "word": "黄明昊严浩翔整顿大张伟岳云鹏",
+      "onboard_time": 1682943508,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 186029,
@@ -1323,12 +1411,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 172740,
+      "num": 172740,
+      "word": "乌鸦扯下以色列国旗",
+      "onboard_time": 1682941526,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 172365,
       "num": 172365,
       "word": "王一博 飞驰人生2",
       "onboard_time": 1682859690,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 170061,
+      "num": 170061,
+      "word": "女子情绪失控端火锅泼人邻桌遭殃",
+      "onboard_time": 1682943390,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168362,
@@ -1419,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160513,
+      "num": 160513,
+      "word": "多家出版机构与史航解除合作",
+      "onboard_time": 1682943328,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159591,
       "num": 159591,
       "word": "漫长的季节 王阳怎么死的",
@@ -1457,6 +1569,14 @@
       "onboard_time": 1682910211,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151222,
+      "num": 151222,
+      "word": "奶奶教宝宝说英语一股子血腥味",
+      "onboard_time": 1682941411,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150765,
@@ -1523,6 +1643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141977,
+      "num": 141977,
+      "word": "May I love you",
+      "onboard_time": 1682943926,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141525,
       "num": 141525,
       "word": "堵骆驼",
@@ -1545,14 +1673,6 @@
       "onboard_time": 1682897423,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137564,
-      "num": 137564,
-      "word": "人气超高但是你却无感的水果",
-      "onboard_time": 1682940149,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 136675,
@@ -2004,7 +2124,7 @@
     },
     {
       "raw_hot": 52535,
-      "num": 1315543,
+      "num": 1740165,
       "word": "跳动的数字看加速前进的中国",
       "onboard_time": 1682933609,
       "rank": 2,
