@@ -1,10 +1,10 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682918187999,
+  "endTime": 1682919217455,
   "band_list": [
     {
       "raw_hot": 6528594,
-      "num": 443915,
+      "num": 476756,
       "word": "洪欣 某人一直删除我微博",
       "onboard_time": 1682904631,
       "rank": 10,
@@ -19,16 +19,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3760600,
+      "num": 3760600,
+      "word": "女演员晒裸照反击黑客勒索",
+      "onboard_time": 1682917650,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3078595,
-      "num": 439776,
+      "num": 476079,
       "word": "毕滢 这么发展我真是说不清了",
       "onboard_time": 1682905050,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 2257870,
-      "num": 2257870,
+      "raw_hot": 2258359,
+      "num": 2258359,
       "word": "当事人称酒店床下发现尸体属实",
       "onboard_time": 1682915427,
       "rank": 30,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1526485,
-      "num": 411120,
-      "word": "女演员晒裸照反击黑客勒索",
-      "onboard_time": 1682917650,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1376127,
       "num": 1376127,
       "word": "半夜醒了不要拿手机看时间",
@@ -91,6 +91,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1147131,
+      "num": 1147131,
+      "word": "这是在攻打重庆吗",
+      "onboard_time": 1682915309,
+      "rank": 21,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 1077776,
       "num": 1077776,
       "word": "王源爸妈不在的演唱会状态",
@@ -113,14 +121,6 @@
       "onboard_time": 1682907868,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 995588,
-      "num": 995588,
-      "word": "这是在攻打重庆吗",
-      "onboard_time": 1682915309,
-      "rank": 21,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 906961,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 452510,
+      "num": 452510,
+      "word": "东北人评价淄博烧烤",
+      "onboard_time": 1682916268,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 418241,
       "num": 255021,
       "word": "6人吃了30盘自助小龙虾惊动店长",
@@ -313,14 +321,6 @@
       "onboard_time": 1682865334,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351039,
-      "num": 351039,
-      "word": "东北人评价淄博烧烤",
-      "onboard_time": 1682916268,
-      "rank": 14,
-      "category": "美食"
     },
     {
       "raw_hot": 335471,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283215,
+      "num": 207146,
+      "word": "易烊千玺手臂肌肉",
+      "onboard_time": 1682916628,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 282249,
       "num": 282249,
       "word": "五一档电影豆瓣开分",
@@ -433,14 +441,6 @@
       "onboard_time": 1682913507,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 262520,
-      "num": 189655,
-      "word": "易烊千玺手臂肌肉",
-      "onboard_time": 1682916628,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 252266,
@@ -515,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239552,
+      "num": 239552,
+      "word": "上淄博公厕配肠炎宁片和卫生巾",
+      "onboard_time": 1682918728,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239084,
       "num": 239084,
       "word": "孙红雷谁说张颂文不能当大哥",
@@ -560,6 +568,14 @@
       "word": "姒婴竟然是姐控",
       "onboard_time": 1682909549,
       "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224453,
+      "num": 132705,
+      "word": "张新成演技",
+      "onboard_time": 1682917708,
+      "rank": 35,
       "category": "影视"
     },
     {
@@ -667,8 +683,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183021,
-      "num": 163219,
+      "raw_hot": 185255,
+      "num": 171371,
       "word": "倪妮游玩环球影城plog",
       "onboard_time": 1682918068,
       "rank": 30,
@@ -731,12 +747,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 175636,
+      "num": 171324,
+      "word": "沧九旻黎苏苏灭魂钉吻花絮好甜",
+      "onboard_time": 1682917347,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175238,
       "num": 175238,
       "word": "感谢辛弃疾治好了我的焦虑",
       "onboard_time": 1682873062,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173496,
+      "num": 173496,
+      "word": "狼队第五人格",
+      "onboard_time": 1682918969,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 172365,
@@ -819,14 +851,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 159214,
-      "num": 132705,
-      "word": "张新成演技",
-      "onboard_time": 1682917708,
-      "rank": 35,
-      "category": "影视"
-    },
-    {
       "raw_hot": 158726,
       "num": 158726,
       "word": "长沙YOLO",
@@ -867,12 +891,20 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 149209,
-      "num": 132632,
-      "word": "沧九旻黎苏苏灭魂钉吻花絮好甜",
-      "onboard_time": 1682917347,
-      "rank": 36,
-      "category": "影视"
+      "raw_hot": 145239,
+      "num": 145239,
+      "word": "2023MSI",
+      "onboard_time": 1682918250,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 143578,
+      "num": 143578,
+      "word": "医生在工作时遇到的最离谱的谎言",
+      "onboard_time": 1682918008,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 141525,
@@ -939,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130873,
+      "num": 130873,
+      "word": "能喝酒是优势吗",
+      "onboard_time": 1682918608,
+      "rank": 39,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 129738,
       "num": 129391,
       "word": "IVE换乘恋爱预告",
@@ -977,6 +1017,14 @@
       "onboard_time": 1682869348,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121902,
+      "num": 121902,
+      "word": "一位小哥在韩国受到了歧视",
+      "onboard_time": 1682919149,
+      "rank": 43,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 121013,
@@ -1123,14 +1171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 99339,
-      "num": 99339,
-      "word": "医生在工作时遇到的最离谱的谎言",
-      "onboard_time": 1682918008,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 94471,
       "num": 103296,
       "word": "五月你好",
@@ -1203,8 +1243,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 67460,
-      "num": 1236740,
+      "raw_hot": 67499,
+      "num": 1630273,
       "word": "每一个奋斗的你都了不起",
       "onboard_time": 1682915127,
       "rank": 2,
