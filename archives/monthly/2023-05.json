@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682912013522,
+  "endTime": 1682914865221,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -59,6 +59,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1096667,
+      "num": 1096667,
+      "word": "史上最挤五一档却没带火电影院",
+      "onboard_time": 1682911468,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1077776,
       "num": 1077776,
       "word": "王源爸妈不在的演唱会状态",
@@ -81,6 +89,14 @@
       "onboard_time": 1682907868,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 988079,
+      "num": 338378,
+      "word": "烧烤店老板为劝退游客自刷17个差评",
+      "onboard_time": 1682913028,
+      "rank": 10,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 906961,
@@ -107,8 +123,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 791196,
-      "num": 791196,
+      "raw_hot": 800034,
+      "num": 800034,
       "word": "范丞丞情商",
       "onboard_time": 1682909789,
       "rank": 5,
@@ -219,6 +235,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 440229,
+      "num": 440229,
+      "word": "陈晓演2个糙汉奖励自己1部古装剧",
+      "onboard_time": 1682912308,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 418241,
       "num": 255021,
       "word": "6人吃了30盘自助小龙虾惊动店长",
@@ -273,6 +297,14 @@
       "onboard_time": 1682910146,
       "rank": 24,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 315724,
+      "num": 169378,
+      "word": "一个五一没回家的淄博人实录",
+      "onboard_time": 1682912429,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306084,
@@ -363,12 +395,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252266,
+      "num": 216672,
+      "word": "潍坊文旅派人来杭州揽客",
+      "onboard_time": 1682913864,
+      "rank": 20,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 251813,
       "num": 243139,
       "word": "哪些工作值得干到退休",
       "onboard_time": 1682908287,
       "rank": 22,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 251657,
+      "num": 166477,
+      "word": "王源说其实我妈在后台",
+      "onboard_time": 1682913507,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 251015,
+      "num": 216173,
+      "word": "王鹤棣崩溃哭戏动图",
+      "onboard_time": 1682913147,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 249907,
@@ -515,14 +571,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 205176,
-      "num": 174987,
-      "word": "史上最挤五一档却没带火电影院",
-      "onboard_time": 1682911468,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 204990,
       "num": 204990,
       "word": "五一快乐",
@@ -553,6 +601,14 @@
       "onboard_time": 1682903310,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181374,
+      "num": 181374,
+      "word": "萤火虫漫展",
+      "onboard_time": 1682914707,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 180931,
@@ -601,6 +657,14 @@
       "onboard_time": 1682906670,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175641,
+      "num": 175641,
+      "word": "广州动物园",
+      "onboard_time": 1682911830,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 175238,
@@ -723,20 +787,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 146291,
+      "num": 146291,
+      "word": "看到那么多女孩站出来",
+      "onboard_time": 1682912429,
+      "rank": 34,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 141525,
+      "num": 141525,
+      "word": "堵骆驼",
+      "onboard_time": 1682911529,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140867,
       "num": 140867,
       "word": "伊能静回应和秦昊不互动",
       "onboard_time": 1682844748,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140589,
-      "num": 140589,
-      "word": "堵骆驼",
-      "onboard_time": 1682911529,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 138728,
@@ -785,6 +857,14 @@
       "onboard_time": 1682866353,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129391,
+      "num": 129391,
+      "word": "IVE换乘恋爱预告",
+      "onboard_time": 1682914107,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 129109,
@@ -923,14 +1003,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 108317,
-      "num": 108317,
-      "word": "广州动物园",
-      "onboard_time": 1682911830,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 104836,
       "num": 104836,
       "word": "尤长靖 大连音乐节",
@@ -977,6 +1049,14 @@
       "onboard_time": 1682878216,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90192,
+      "num": 90192,
+      "word": "云襄传今日开播",
+      "onboard_time": 1682912549,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 86616,
