@@ -1,0 +1,410 @@
+{
+  "runTime": 1683020019351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2177274,
+        "num": 2177274,
+        "word": "华晨宇 红色婚纱",
+        "onboard_time": 1683013465,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1941268,
+        "num": 1941268,
+        "word": "女子淄博吃烧烤排不上队被热情投喂",
+        "onboard_time": 1683011906,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 14933,
+        "num": 1675528,
+        "word": "中国色彩闪耀太空",
+        "onboard_time": 1682999010,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1431427,
+        "num": 1431427,
+        "word": "五四放假通知",
+        "onboard_time": 1682998108,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1394373,
+        "num": 1394373,
+        "word": "要不要为了编制回小县城",
+        "onboard_time": 1683015087,
+        "rank": 4,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 842981,
+        "num": 842981,
+        "word": "cp29 不检票",
+        "onboard_time": 1683004651,
+        "rank": 5,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 788677,
+        "num": 788677,
+        "word": "胡锡进 把普通人这样发到网上太不应该",
+        "onboard_time": 1683012807,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695828,
+        "num": 695828,
+        "word": "中国成养育成本第二高国家",
+        "onboard_time": 1683016110,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643359,
+        "num": 643359,
+        "word": "cp29",
+        "onboard_time": 1683004228,
+        "rank": 8,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 547353,
+        "num": 547353,
+        "word": "苦日子到头了",
+        "onboard_time": 1683017787,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1089485,
+        "num": 532846,
+        "word": "我是当事人 我没有插队",
+        "onboard_time": 1683000868,
+        "rank": 10,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 757196,
+        "num": 529448,
+        "word": "插队母女欠四川人一个道歉",
+        "onboard_time": 1682987666,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488674,
+        "num": 488674,
+        "word": "陈乔恩工藤静香同框",
+        "onboard_time": 1683018329,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 459727,
+        "num": 459727,
+        "word": "张真源把背心剪了",
+        "onboard_time": 1683019228,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428083,
+        "num": 428083,
+        "word": "aespa新歌",
+        "onboard_time": 1683018929,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 415533,
+        "num": 415533,
+        "word": "杨紫琼王嘉尔牵手",
+        "onboard_time": 1683003391,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394981,
+        "num": 394981,
+        "word": "禾野长啥样",
+        "onboard_time": 1683014066,
+        "rank": 16,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 375336,
+        "num": 375336,
+        "word": "秦始皇陵人挤人秦二世陵好冷清",
+        "onboard_time": 1683014368,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 365809,
+        "num": 365809,
+        "word": "金华景区回应女子排错通道平移插队",
+        "onboard_time": 1683016588,
+        "rank": 18,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 350593,
+        "num": 350593,
+        "word": "年收入二十万是怎样的水平",
+        "onboard_time": 1682989469,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347554,
+        "num": 347554,
+        "word": "暴雨大暴雨要来了",
+        "onboard_time": 1682985565,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300721,
+        "num": 300721,
+        "word": "淄博0.85米志愿者喝着奶帮看行李",
+        "onboard_time": 1682989707,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289968,
+        "num": 289968,
+        "word": "光与夜之恋 好像牛郎店",
+        "onboard_time": 1683019048,
+        "rank": 22,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 285185,
+        "num": 285185,
+        "word": "宋慧乔状态",
+        "onboard_time": 1683016827,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277306,
+        "num": 277306,
+        "word": "云襄传313条人命案",
+        "onboard_time": 1682997988,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 273308,
+        "num": 273308,
+        "word": "cp30",
+        "onboard_time": 1683017187,
+        "rank": 25,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 262876,
+        "num": 262876,
+        "word": "张颂文19岁旧照",
+        "onboard_time": 1683017727,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229387,
+        "num": 229387,
+        "word": "国产剧二五定律",
+        "onboard_time": 1683014486,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225715,
+        "num": 225715,
+        "word": "五一的堵 逐渐离谱",
+        "onboard_time": 1682949452,
+        "rank": 28,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 105481,
+        "num": 224009,
+        "word": "102岁高祖母抱起7个月玄孙女",
+        "onboard_time": 1683012747,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223580,
+        "num": 223580,
+        "word": "Jennie小美人鱼合影",
+        "onboard_time": 1683017008,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222800,
+        "num": 222800,
+        "word": "禾野cp29",
+        "onboard_time": 1682991928,
+        "rank": 31,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 215677,
+        "num": 215677,
+        "word": "二十多岁谈一场恋爱有多难",
+        "onboard_time": 1683016528,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212577,
+        "num": 212577,
+        "word": "我为奶牛猫发声",
+        "onboard_time": 1683018807,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210423,
+        "num": 210423,
+        "word": "贺峻霖演唱会后台视频",
+        "onboard_time": 1683018687,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186673,
+        "num": 186673,
+        "word": "光靠工资你存多久才能买房",
+        "onboard_time": 1683015986,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183570,
+        "num": 183570,
+        "word": "白敬亭宋轶主打一个陪伴",
+        "onboard_time": 1682985503,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 181793,
+        "num": 181793,
+        "word": "low",
+        "onboard_time": 1683005668,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 163810,
+        "num": 163810,
+        "word": "卡琳娜",
+        "onboard_time": 1683008667,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163300,
+        "num": 163300,
+        "word": "蒋奇明",
+        "onboard_time": 1683019709,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161829,
+        "num": 161829,
+        "word": "杭州动物园大量游客乱投喂",
+        "onboard_time": 1683016168,
+        "rank": 40,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 158568,
+        "num": 158568,
+        "word": "利剑玫瑰群演分享片场的迪丽热巴",
+        "onboard_time": 1683017727,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156655,
+        "num": 156655,
+        "word": "我有种亲儿子中状元的狂喜",
+        "onboard_time": 1682995828,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156608,
+        "num": 156608,
+        "word": "宋亚轩化妆镜头",
+        "onboard_time": 1683018268,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154759,
+        "num": 154759,
+        "word": "长空之王票房",
+        "onboard_time": 1683013525,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154156,
+        "num": 154156,
+        "word": "73岁大爷头婚娶69岁大妈",
+        "onboard_time": 1682957188,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151500,
+        "num": 151500,
+        "word": "特斯拉涨价",
+        "onboard_time": 1683006809,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143826,
+        "num": 143826,
+        "word": "朋友圈发什么最让人反感",
+        "onboard_time": 1682940149,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138469,
+        "num": 138469,
+        "word": "虞书欣绿色绑带露背吊带背心",
+        "onboard_time": 1683006328,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133504,
+        "num": 133504,
+        "word": "男子景区玩水上浮桥时落水溺亡",
+        "onboard_time": 1683004051,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样谈劳模精神#"
+    }
+  }
+}

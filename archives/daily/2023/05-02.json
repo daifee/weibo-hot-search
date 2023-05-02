@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683019012310,
+  "endTime": 1683020019351,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1941268,
+      "num": 1941268,
+      "word": "女子淄博吃烧烤排不上队被热情投喂",
+      "onboard_time": 1683011906,
+      "rank": 20,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1804705,
       "num": 1804705,
       "word": "杨紫琼王嘉尔牵手",
@@ -57,14 +65,6 @@
       "onboard_time": 1683004651,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1738626,
-      "num": 1738626,
-      "word": "女子淄博吃烧烤排不上队被热情投喂",
-      "onboard_time": 1683011906,
-      "rank": 20,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1685404,
@@ -99,6 +99,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1394373,
+      "num": 1394373,
+      "word": "要不要为了编制回小县城",
+      "onboard_time": 1683015087,
+      "rank": 34,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 1370995,
       "num": 1370995,
       "word": "五一的堵 逐渐离谱",
@@ -129,14 +137,6 @@
       "onboard_time": 1682985503,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1207686,
-      "num": 1207686,
-      "word": "要不要为了编制回小县城",
-      "onboard_time": 1683015087,
-      "rank": 34,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 1079555,
@@ -371,6 +371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 547353,
+      "num": 547353,
+      "word": "苦日子到头了",
+      "onboard_time": 1683017787,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 531871,
       "num": 456470,
       "word": "秦始皇陵人挤人秦二世陵好冷清",
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488674,
+      "num": 488674,
+      "word": "陈乔恩工藤静香同框",
+      "onboard_time": 1683018329,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 481507,
       "num": 481507,
       "word": "杨紫琼宋慧乔同框",
@@ -401,6 +417,14 @@
       "onboard_time": 1682944710,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 459727,
+      "num": 459727,
+      "word": "张真源把背心剪了",
+      "onboard_time": 1683019228,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 458758,
@@ -467,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428083,
+      "num": 428083,
+      "word": "aespa新歌",
+      "onboard_time": 1683018929,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 423474,
       "num": 279560,
       "word": "蔡文静社交账号评论区",
@@ -531,14 +563,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 389413,
-      "num": 389413,
-      "word": "苦日子到头了",
-      "onboard_time": 1683017787,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 388983,
       "num": 388983,
       "word": "止庵 史航",
@@ -569,6 +593,14 @@
       "onboard_time": 1683005726,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 365809,
+      "num": 365809,
+      "word": "金华景区回应女子排错通道平移插队",
+      "onboard_time": 1683016588,
+      "rank": 17,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 355934,
@@ -651,14 +683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 320630,
-      "num": 320630,
-      "word": "金华景区回应女子排错通道平移插队",
-      "onboard_time": 1683016588,
-      "rank": 17,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 319963,
       "num": 319963,
       "word": "蒋奇明 丑帅",
@@ -731,6 +755,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 289968,
+      "num": 289968,
+      "word": "光与夜之恋 好像牛郎店",
+      "onboard_time": 1683019048,
+      "rank": 22,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 278802,
       "num": 278802,
       "word": "瑞幸咖啡一季度营业利润达6.78亿元",
@@ -745,6 +777,14 @@
       "onboard_time": 1682992408,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273308,
+      "num": 273308,
+      "word": "cp30",
+      "onboard_time": 1683017187,
+      "rank": 24,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 272481,
@@ -787,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262876,
+      "num": 262876,
+      "word": "张颂文19岁旧照",
+      "onboard_time": 1683017727,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261928,
       "num": 261928,
       "word": "金珉奎小狗",
@@ -819,28 +867,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 248301,
-      "num": 248301,
-      "word": "张颂文19岁旧照",
-      "onboard_time": 1683017727,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246668,
       "num": 246668,
       "word": "刘雯第十一次MetGala",
       "onboard_time": 1682989648,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 241201,
-      "num": 241201,
-      "word": "cp30",
-      "onboard_time": 1683017187,
-      "rank": 24,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 237618,
@@ -907,20 +939,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 223580,
+      "num": 223580,
+      "word": "Jennie小美人鱼合影",
+      "onboard_time": 1683017008,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222303,
       "num": 222303,
       "word": "你的存款属于什么级别",
       "onboard_time": 1683003151,
       "rank": 32,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 221823,
-      "num": 221823,
-      "word": "Jennie小美人鱼合影",
-      "onboard_time": 1683017008,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 218937,
@@ -947,12 +979,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 215677,
+      "num": 215677,
+      "word": "二十多岁谈一场恋爱有多难",
+      "onboard_time": 1683016528,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213399,
       "num": 213399,
       "word": "不要以为四川人好惹",
       "onboard_time": 1682954908,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212577,
+      "num": 212577,
+      "word": "我为奶牛猫发声",
+      "onboard_time": 1683018807,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 210423,
+      "num": 210423,
+      "word": "贺峻霖演唱会后台视频",
+      "onboard_time": 1683018687,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 209027,
@@ -1035,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199599,
-      "num": 199599,
-      "word": "陈乔恩工藤静香同框",
-      "onboard_time": 1683018329,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 198922,
       "num": 198922,
       "word": "多名游客在动物园发生冲突",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1683011727,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197078,
-      "num": 197078,
-      "word": "二十多岁谈一场恋爱有多难",
-      "onboard_time": 1683016528,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 195162,
@@ -1120,6 +1160,14 @@
       "word": "什么词反过来还是原来的意思",
       "onboard_time": 1683012029,
       "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 186673,
+      "num": 186673,
+      "word": "光靠工资你存多久才能买房",
+      "onboard_time": 1683015986,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1283,6 +1331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163300,
+      "num": 163300,
+      "word": "蒋奇明",
+      "onboard_time": 1683019709,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 161829,
+      "num": 161829,
+      "word": "杭州动物园大量游客乱投喂",
+      "onboard_time": 1683016168,
+      "rank": 44,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 161288,
       "num": 161288,
       "word": "萌娃回家路上安安静静偷吃草莓",
@@ -1296,6 +1360,14 @@
       "word": "蒋奇明小哑巴",
       "onboard_time": 1682997328,
       "rank": 46,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 158568,
+      "num": 158568,
+      "word": "利剑玫瑰群演分享片场的迪丽热巴",
+      "onboard_time": 1683017727,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -1315,27 +1387,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155677,
-      "num": 155677,
-      "word": "利剑玫瑰群演分享片场的迪丽热巴",
-      "onboard_time": 1683017727,
-      "rank": 39,
-      "category": "影视"
-    },
-    {
       "raw_hot": 155495,
       "num": 155495,
       "word": "王源流星也为你落下来了巡演舞台",
       "onboard_time": 1683011426,
       "rank": 39,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 154740,
-      "num": 154740,
-      "word": "贺峻霖演唱会后台视频",
-      "onboard_time": 1683018687,
-      "rank": 40,
       "category": "音乐"
     },
     {
@@ -1364,7 +1420,7 @@
     },
     {
       "raw_hot": 151839,
-      "num": 210934,
+      "num": 224009,
       "word": "102岁高祖母抱起7个月玄孙女",
       "onboard_time": 1683012747,
       "rank": 49,
@@ -1411,22 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144019,
-      "num": 144019,
-      "word": "光靠工资你存多久才能买房",
-      "onboard_time": 1683015986,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 143760,
-      "num": 143760,
-      "word": "杭州动物园大量游客乱投喂",
-      "onboard_time": 1683016168,
-      "rank": 44,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 143066,
       "num": 132269,
       "word": "原来高手真的在民间",
@@ -1456,14 +1496,6 @@
       "word": "苏打绿 南京",
       "onboard_time": 1682943808,
       "rank": 35,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 136474,
-      "num": 136474,
-      "word": "aespa新歌",
-      "onboard_time": 1683018929,
-      "rank": 46,
       "category": "音乐"
     },
     {
@@ -1592,14 +1624,6 @@
       "word": "五月能不能不给我添堵",
       "onboard_time": 1682957728,
       "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 120900,
-      "num": 120900,
-      "word": "我为奶牛猫发声",
-      "onboard_time": 1683018807,
-      "rank": 47,
       "category": "情感"
     },
     {
