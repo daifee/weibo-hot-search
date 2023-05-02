@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682990612505,
+  "endTime": 1682991986100,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -99,7 +99,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1978453,
+      "raw_hot": 2060497,
+      "num": 1295323,
+      "word": "暴雨大暴雨要来了",
+      "onboard_time": 1682985565,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2023335,
       "num": 643698,
       "word": "插队母女欠四川人一个道歉",
       "onboard_time": 1682987666,
@@ -113,14 +121,6 @@
       "onboard_time": 1682936969,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1899471,
-      "num": 1295323,
-      "word": "暴雨大暴雨要来了",
-      "onboard_time": 1682985565,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1832510,
@@ -227,7 +227,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1271511,
+      "raw_hot": 1291834,
       "num": 1271511,
       "word": "白敬亭宋轶主打一个陪伴",
       "onboard_time": 1682985503,
@@ -249,6 +249,14 @@
       "onboard_time": 1682915309,
       "rank": 21,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1130072,
+      "num": 1130072,
+      "word": "淄博0.85米志愿者喝着奶帮看行李",
+      "onboard_time": 1682989707,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1110513,
@@ -273,6 +281,14 @@
       "onboard_time": 1682865150,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1030544,
+      "num": 1030544,
+      "word": "年收入二十万是怎样的水平",
+      "onboard_time": 1682989469,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1009960,
@@ -315,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857576,
+      "num": 857576,
+      "word": "倪妮陈妍希",
+      "onboard_time": 1682986284,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 846152,
       "num": 846152,
       "word": "史航",
       "onboard_time": 1682862627,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 839782,
-      "num": 839782,
-      "word": "倪妮陈妍希",
-      "onboard_time": 1682986284,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 834659,
@@ -379,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 751396,
+      "num": 751396,
+      "word": "王子奇王玉雯",
+      "onboard_time": 1682986045,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 749995,
       "num": 749995,
       "word": "女生要敢于结束不健康的关系",
@@ -411,10 +435,10 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 731371,
-      "num": 731371,
-      "word": "王子奇王玉雯",
-      "onboard_time": 1682986045,
+      "raw_hot": 719723,
+      "num": 719723,
+      "word": "秦昊说观众牛逼",
+      "onboard_time": 1682991086,
       "rank": 8,
       "category": "影视"
     },
@@ -545,14 +569,6 @@
       "onboard_time": 1682946271,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 533636,
-      "num": 533636,
-      "word": "年收入二十万是怎样的水平",
-      "onboard_time": 1682989469,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 522836,
@@ -771,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407429,
-      "num": 407429,
-      "word": "淄博0.85米志愿者喝着奶帮看行李",
-      "onboard_time": 1682989707,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404402,
       "num": 277781,
       "word": "柳州",
@@ -817,6 +825,14 @@
       "onboard_time": 1682936547,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393196,
+      "num": 393196,
+      "word": "每个男朋友都在努力拍照",
+      "onboard_time": 1682989406,
+      "rank": 22,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 388983,
@@ -881,6 +897,14 @@
       "onboard_time": 1682946271,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 334101,
+      "num": 334101,
+      "word": "蔡徐坤的扇子",
+      "onboard_time": 1682990908,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317483,
@@ -953,6 +977,14 @@
       "onboard_time": 1682945909,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307185,
+      "num": 184204,
+      "word": "妮可基德曼裙子",
+      "onboard_time": 1682991027,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 306084,
@@ -1107,12 +1139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268961,
+      "num": 268961,
+      "word": "艺人和粉丝的关系",
+      "onboard_time": 1682990007,
+      "rank": 30,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 267521,
       "num": 262652,
       "word": "明日方舟",
       "onboard_time": 1682929886,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 267192,
+      "num": 267192,
+      "word": "西湖边最美人墙遭非议负责人回应",
+      "onboard_time": 1682990369,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 266941,
@@ -1409,14 +1457,6 @@
       "onboard_time": 1682947292,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231048,
-      "num": 231048,
-      "word": "每个男朋友都在努力拍照",
-      "onboard_time": 1682989406,
-      "rank": 22,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 230466,
@@ -1779,6 +1819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193854,
+      "num": 181795,
+      "word": "斯马特垫脚哈登",
+      "onboard_time": 1682990848,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193641,
       "num": 193641,
       "word": "蔡徐坤和猫咪对视",
@@ -1833,6 +1881,14 @@
       "onboard_time": 1682925266,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189263,
+      "num": 189263,
+      "word": "刘耀文演唱会银白发色饭拍",
+      "onboard_time": 1682991209,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 188812,
@@ -1963,6 +2019,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 175727,
+      "num": 175727,
+      "word": "Jennie复古小白裙造型",
+      "onboard_time": 1682991327,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 175641,
       "num": 175641,
       "word": "广州动物园",
@@ -1985,6 +2049,14 @@
       "onboard_time": 1682873062,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174847,
+      "num": 174847,
+      "word": "五一假期第四天干什么",
+      "onboard_time": 1682990727,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 173626,
@@ -2145,14 +2217,6 @@
       "onboard_time": 1682952932,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 158918,
-      "num": 158918,
-      "word": "艺人和粉丝的关系",
-      "onboard_time": 1682990007,
-      "rank": 30,
-      "category": "艺人,情感"
     },
     {
       "raw_hot": 158726,
@@ -2435,6 +2499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 129739,
+      "num": 126127,
+      "word": "肖战如梦之梦西安站谢幕视频",
+      "onboard_time": 1682991686,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 129738,
       "num": 129391,
       "word": "IVE换乘恋爱预告",
@@ -2515,6 +2587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126471,
+      "num": 126471,
+      "word": "禾野cp29",
+      "onboard_time": 1682991928,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 126051,
       "num": 121976,
       "word": "男子将手机放厕所偷拍女乘客如厕",
@@ -2539,14 +2619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123370,
-      "num": 123370,
-      "word": "西湖边最美人墙遭非议负责人回应",
-      "onboard_time": 1682990369,
-      "rank": 41,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 122515,
       "num": 122515,
       "word": "长空之王单日票房破亿",
@@ -2561,6 +2633,14 @@
       "onboard_time": 1682925327,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122183,
+      "num": 122183,
+      "word": "假期依然坚守岗位的劳动者",
+      "onboard_time": 1682990670,
+      "rank": 43,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 122019,
@@ -2721,6 +2801,14 @@
       "onboard_time": 1682904511,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 106457,
+      "num": 106457,
+      "word": "瑞幸咖啡一季度营业利润达6.78亿元",
+      "onboard_time": 1682991808,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 104836,
