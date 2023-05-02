@@ -1,0 +1,410 @@
+{
+  "runTime": 1683044547789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1742679,
+        "num": 1742679,
+        "word": "云南地震",
+        "onboard_time": 1683042332,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1269767,
+        "num": 1269767,
+        "word": "云南保山5.2级地震",
+        "onboard_time": 1683043651,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52799,
+        "num": 1192696,
+        "word": "深地一号超深井放喷测试点火现场",
+        "onboard_time": 1683033575,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1129526,
+        "num": 1129526,
+        "word": "疑拉萨客栈杀人案受害者家属发声",
+        "onboard_time": 1683041559,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 913218,
+        "num": 913218,
+        "word": "妺女",
+        "onboard_time": 1683029489,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2105267,
+        "num": 904816,
+        "word": "史航称不存在性骚扰",
+        "onboard_time": 1683043469,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 825259,
+        "num": 825259,
+        "word": "五四放假通知",
+        "onboard_time": 1682998108,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 803712,
+        "num": 803712,
+        "word": "至少已有12名发声者指控史航性骚扰",
+        "onboard_time": 1683028349,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 727695,
+        "num": 727695,
+        "word": "外滩",
+        "onboard_time": 1683040833,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 501666,
+        "num": 501666,
+        "word": "找好朋友做伴娘闹到绝交",
+        "onboard_time": 1683033634,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 598585,
+        "num": 495416,
+        "word": "王诗龄被吐槽炫富",
+        "onboard_time": 1683029668,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420407,
+        "num": 420407,
+        "word": "见面真的太重要了",
+        "onboard_time": 1683029369,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382551,
+        "num": 382551,
+        "word": "刘耀文斗舞的确是够帅的",
+        "onboard_time": 1683041435,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 362845,
+        "num": 362845,
+        "word": "房价房租倒挂",
+        "onboard_time": 1683038264,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 347990,
+        "num": 347990,
+        "word": "要你管",
+        "onboard_time": 1683034299,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319941,
+        "num": 319941,
+        "word": "五一上海外滩到底有多少人",
+        "onboard_time": 1683041139,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 310591,
+        "num": 310591,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1683023547,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 326341,
+        "num": 298856,
+        "word": "三代",
+        "onboard_time": 1683039166,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227519,
+        "num": 227519,
+        "word": "认识十年的朋友突然消失了",
+        "onboard_time": 1683037421,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200777,
+        "num": 200777,
+        "word": "周深的刘海还好吗",
+        "onboard_time": 1683039400,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293855,
+        "num": 200683,
+        "word": "85后单身女子买完房后降薪了",
+        "onboard_time": 1683041316,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 233587,
+        "num": 200646,
+        "word": "中控",
+        "onboard_time": 1683036104,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200583,
+        "num": 200583,
+        "word": "情绪低落时的解压方式",
+        "onboard_time": 1683042930,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197497,
+        "num": 197497,
+        "word": "严浩翔H舞台",
+        "onboard_time": 1683044308,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197347,
+        "num": 197347,
+        "word": "宋亚轩 小王子",
+        "onboard_time": 1683032493,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165350,
+        "num": 165350,
+        "word": "插队母女欠四川人一个道歉",
+        "onboard_time": 1682987666,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161609,
+        "num": 161609,
+        "word": "MSI",
+        "onboard_time": 1683042271,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154617,
+        "num": 154617,
+        "word": "袁冰妍刘学义新剧即将上线",
+        "onboard_time": 1683027270,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 154337,
+        "num": 154337,
+        "word": "向太直播将送百台车",
+        "onboard_time": 1683031894,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 77217,
+        "num": 151847,
+        "word": "被蜱虫叮咬后不要随意拔",
+        "onboard_time": 1683028171,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150948,
+        "num": 150948,
+        "word": "广州漫展",
+        "onboard_time": 1683039821,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133517,
+        "num": 133517,
+        "word": "这个五一让我明白了假期的意义",
+        "onboard_time": 1683023727,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132555,
+        "num": 132555,
+        "word": "Hero晋级败者组第三轮",
+        "onboard_time": 1683041196,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121680,
+        "num": 121680,
+        "word": "公冶寂无妺女吻戏",
+        "onboard_time": 1683029668,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117292,
+        "num": 117292,
+        "word": "第一次给朋友暖房时的幸福感",
+        "onboard_time": 1683044132,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110963,
+        "num": 110963,
+        "word": "我是当事人 我没有插队",
+        "onboard_time": 1683000868,
+        "rank": 35,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 109527,
+        "num": 109527,
+        "word": "导演说王一博演雷宇入戏快",
+        "onboard_time": 1683038864,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 109481,
+        "num": 109481,
+        "word": "丁程鑫演唱会舞台饭拍",
+        "onboard_time": 1683044068,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107433,
+        "num": 107433,
+        "word": "盛夏光年",
+        "onboard_time": 1683035859,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104214,
+        "num": 104214,
+        "word": "仪式感挺好但有点社死",
+        "onboard_time": 1683041672,
+        "rank": 39,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 95574,
+        "num": 95574,
+        "word": "华晨宇 红色婚纱",
+        "onboard_time": 1683013465,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95557,
+        "num": 95557,
+        "word": "剧院魅影",
+        "onboard_time": 1683037967,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93169,
+        "num": 93169,
+        "word": "女子淄博吃烧烤排不上队被热情投喂",
+        "onboard_time": 1683011906,
+        "rank": 42,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 92380,
+        "num": 92380,
+        "word": "张真源瘦了好多",
+        "onboard_time": 1683035257,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88636,
+        "num": 88636,
+        "word": "全场审判沧九旻",
+        "onboard_time": 1683030509,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 87683,
+        "num": 87683,
+        "word": "等比例放大的花花",
+        "onboard_time": 1683044249,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87677,
+        "num": 87677,
+        "word": "沈梓捷",
+        "onboard_time": 1683037542,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87639,
+        "num": 87639,
+        "word": "淄博会如何影响中国的未来",
+        "onboard_time": 1683044370,
+        "rank": 47,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 87322,
+        "num": 87322,
+        "word": "无畏",
+        "onboard_time": 1683037000,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79668,
+        "num": 79668,
+        "word": "胡锡进 把普通人这样发到网上太不应该",
+        "onboard_time": 1683012807,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#五一返程高峰来了#"
+    }
+  }
+}
