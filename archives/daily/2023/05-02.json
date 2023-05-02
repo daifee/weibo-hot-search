@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683008534252,
+  "endTime": 1683009296686,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -67,20 +67,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1441790,
+      "num": 1441790,
+      "word": "cp29 不检票",
+      "onboard_time": 1683004651,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1405868,
       "num": 1405868,
       "word": "云襄传313条人命案",
       "onboard_time": 1682997988,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1394399,
-      "num": 1394399,
-      "word": "cp29 不检票",
-      "onboard_time": 1683004651,
-      "rank": 6,
-      "category": "动漫"
     },
     {
       "raw_hot": 1370995,
@@ -187,6 +187,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 821953,
+      "num": 465467,
+      "word": "low",
+      "onboard_time": 1683005668,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 788619,
       "num": 788619,
       "word": "顺丰53岁员工猝死家属称公司拒担责",
@@ -251,14 +259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 695721,
-      "num": 465467,
-      "word": "low",
-      "onboard_time": 1683005668,
-      "rank": 11,
-      "category": "影视"
-    },
-    {
       "raw_hot": 671779,
       "num": 671779,
       "word": "王一博偷偷流泪",
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606499,
+      "num": 451895,
+      "word": "虞书欣绿色绑带露背吊带背心",
+      "onboard_time": 1683006328,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 583823,
       "num": 583823,
       "word": "i人已经要不行了",
@@ -305,14 +313,6 @@
       "onboard_time": 1682983460,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 532677,
-      "num": 438896,
-      "word": "虞书欣绿色绑带露背吊带背心",
-      "onboard_time": 1683006328,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 519154,
@@ -379,6 +379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 439438,
+      "num": 439438,
+      "word": "特斯拉涨价",
+      "onboard_time": 1683006809,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 438044,
       "num": 438044,
       "word": "每个男朋友都在努力拍照",
@@ -443,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402683,
-      "num": 402683,
-      "word": "特斯拉涨价",
-      "onboard_time": 1683006809,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 399216,
       "num": 399216,
       "word": "从旁边队伍平移过来算插队吗",
@@ -484,11 +484,19 @@
     },
     {
       "raw_hot": 375475,
-      "num": 171972,
+      "num": 349968,
       "word": "蔡徐坤和CardiB合影",
       "onboard_time": 1683005726,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 364862,
+      "num": 364862,
+      "word": "胡锡进发文评插队发飙事件",
+      "onboard_time": 1683008069,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 355934,
@@ -497,6 +505,14 @@
       "onboard_time": 1682952695,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 346017,
+      "num": 346017,
+      "word": "8名内地赌客在澳门赌场抡椅打斗被捕",
+      "onboard_time": 1683004111,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344509,
@@ -563,20 +579,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 315562,
-      "num": 315562,
-      "word": "8名内地赌客在澳门赌场抡椅打斗被捕",
-      "onboard_time": 1683004111,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309824,
       "num": 257938,
       "word": "长空之王为什么有感情戏",
       "onboard_time": 1682955449,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 307442,
+      "num": 307442,
+      "word": "男子景区玩水上浮桥时落水溺亡",
+      "onboard_time": 1683004051,
+      "rank": 39,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 306406,
@@ -603,20 +619,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295429,
+      "num": 295429,
+      "word": "卡琳娜",
+      "onboard_time": 1683008667,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 295192,
       "num": 228670,
       "word": "宋慧乔编发公主切",
       "onboard_time": 1683004531,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 293863,
-      "num": 293863,
-      "word": "男子景区玩水上浮桥时落水溺亡",
-      "onboard_time": 1683004051,
-      "rank": 39,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 290697,
@@ -763,6 +779,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 218937,
+      "num": 218937,
+      "word": "战至巅峰",
+      "onboard_time": 1683007889,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217721,
       "num": 217721,
       "word": "官方通报哈尔滨一房屋私拆承重墙",
@@ -785,14 +809,6 @@
       "onboard_time": 1682954908,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210480,
-      "num": 210480,
-      "word": "战至巅峰",
-      "onboard_time": 1683007889,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 207192,
@@ -873,14 +889,6 @@
       "onboard_time": 1683007408,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190508,
-      "num": 190508,
-      "word": "胡锡进发文评插队发飙事件",
-      "onboard_time": 1683008069,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189743,
@@ -1003,6 +1011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169191,
+      "num": 169191,
+      "word": "复盘长月烬明里的因果宿命",
+      "onboard_time": 1683008128,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 168905,
       "num": 168905,
       "word": "曾可妮腰线",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1682956165,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156496,
-      "num": 156496,
-      "word": "复盘长月烬明里的因果宿命",
-      "onboard_time": 1683008128,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 155839,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1682995767,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128080,
+      "num": 128080,
+      "word": "真的不是不给萌兰种大树",
+      "onboard_time": 1683005489,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 127864,
@@ -1467,6 +1483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 75825,
+      "num": 413581,
+      "word": "五一景区到处都是人从众",
+      "onboard_time": 1683007228,
+      "rank": 14,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 75447,
       "num": 130932,
       "word": "你目前月薪存一百万要多久",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1682940149,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 49927,
-      "num": 401111,
-      "word": "五一景区到处都是人从众",
-      "onboard_time": 1683007228,
-      "rank": 14,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 32790,
