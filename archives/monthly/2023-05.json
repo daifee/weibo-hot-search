@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683001204533,
+  "endTime": 1683002046675,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5306384,
-      "num": 5306384,
+      "raw_hot": 5400282,
+      "num": 5400282,
       "word": "五四放假通知",
       "onboard_time": 1682998108,
       "rank": 31,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2913755,
-      "num": 643698,
+      "num": 648739,
       "word": "插队母女欠四川人一个道歉",
       "onboard_time": 1682987666,
       "rank": 10,
@@ -257,6 +257,14 @@
       "onboard_time": 1682989469,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1295035,
+      "num": 1295035,
+      "word": "我是当事人 我没有插队",
+      "onboard_time": 1683000868,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1292098,
@@ -539,20 +547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 671779,
+      "num": 671779,
+      "word": "王一博偷偷流泪",
+      "onboard_time": 1682997927,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
       "raw_hot": 660976,
       "num": 660976,
       "word": "两头婚可以减少夫妻矛盾吗",
       "onboard_time": 1682865932,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 647767,
-      "num": 549182,
-      "word": "王一博偷偷流泪",
-      "onboard_time": 1682997927,
-      "rank": 19,
-      "category": "影视"
     },
     {
       "raw_hot": 632654,
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 442310,
-      "num": 288334,
+      "num": 370492,
       "word": "光遇",
       "onboard_time": 1683000625,
       "rank": 20,
@@ -947,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399216,
+      "num": 399216,
+      "word": "从旁边队伍平移过来算插队吗",
+      "onboard_time": 1683000507,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 398732,
       "num": 398732,
       "word": "男子满手痛风石参加酒局",
@@ -993,14 +1009,6 @@
       "onboard_time": 1682865334,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 376210,
-      "num": 376210,
-      "word": "我是当事人 我没有插队",
-      "onboard_time": 1683000868,
-      "rank": 17,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 347296,
@@ -1163,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306406,
+      "num": 306406,
+      "word": "保罗回更衣室了",
+      "onboard_time": 1682999428,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306084,
       "num": 178922,
       "word": "淄博一快递员因限流不让进下跪大哭",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1682905591,
       "rank": 21,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 300100,
+      "num": 300100,
+      "word": "普通话考试也太尴尬了吧",
+      "onboard_time": 1683000028,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 298468,
@@ -1249,14 +1273,6 @@
       "onboard_time": 1682906789,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288452,
-      "num": 288452,
-      "word": "保罗回更衣室了",
-      "onboard_time": 1682999428,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 287974,
@@ -1683,6 +1699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228962,
+      "num": 228962,
+      "word": "南京一烤鸭店生意太好老板满脸愁容",
+      "onboard_time": 1682997988,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228945,
       "num": 228945,
       "word": "陈晓从梦华录被追杀到云襄传",
@@ -1755,28 +1779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222146,
-      "num": 222146,
-      "word": "南京一烤鸭店生意太好老板满脸愁容",
-      "onboard_time": 1682997988,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221490,
       "num": 221490,
       "word": "长月烬明",
       "onboard_time": 1682849906,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 220908,
-      "num": 220908,
-      "word": "普通话考试也太尴尬了吧",
-      "onboard_time": 1683000028,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 220817,
@@ -1865,14 +1873,6 @@
       "onboard_time": 1682947948,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 214525,
-      "num": 214525,
-      "word": "从旁边队伍平移过来算插队吗",
-      "onboard_time": 1683000507,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 214177,
@@ -2507,6 +2507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160754,
+      "num": 160754,
+      "word": "焦虑的人都有一个共同特征",
+      "onboard_time": 1682999368,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 160513,
       "num": 160513,
       "word": "多家出版机构与史航解除合作",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1682952932,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159134,
+      "num": 159134,
+      "word": "Rihanna山茶花开满身",
+      "onboard_time": 1683001888,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 158726,
@@ -2651,14 +2667,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 148621,
-      "num": 148621,
-      "word": "焦虑的人都有一个共同特征",
-      "onboard_time": 1682999368,
-      "rank": 43,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 148480,
       "num": 148480,
       "word": "NBA",
@@ -2681,6 +2689,14 @@
       "onboard_time": 1682934388,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147192,
+      "num": 147192,
+      "word": "太阳vs掘金",
+      "onboard_time": 1683000091,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 146379,
@@ -2737,14 +2753,6 @@
       "onboard_time": 1682844748,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 139988,
-      "num": 139988,
-      "word": "太阳vs掘金",
-      "onboard_time": 1683000091,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 139019,
@@ -3499,20 +3507,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32790,
+      "num": 1502886,
+      "word": "中国色彩闪耀太空",
+      "onboard_time": 1682999010,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31174,
       "num": 32355,
       "word": "当地回应游客无保护措施攀爬悬崖",
       "onboard_time": 1682887093,
       "rank": 35,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 30369,
-      "num": 1502886,
-      "word": "中国色彩闪耀太空",
-      "onboard_time": 1682999010,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28246,

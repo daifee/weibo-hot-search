@@ -1,10 +1,10 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683001204533,
+  "endTime": 1683002046675,
   "band_list": [
     {
-      "raw_hot": 5306384,
-      "num": 5306384,
+      "raw_hot": 5400282,
+      "num": 5400282,
       "word": "五四放假通知",
       "onboard_time": 1682998108,
       "rank": 31,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2913755,
-      "num": 643698,
+      "num": 648739,
       "word": "插队母女欠四川人一个道歉",
       "onboard_time": 1682987666,
       "rank": 10,
@@ -81,6 +81,14 @@
       "onboard_time": 1682941346,
       "rank": 0,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1295035,
+      "num": 1295035,
+      "word": "我是当事人 我没有插队",
+      "onboard_time": 1683000868,
+      "rank": 17,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1291834,
@@ -219,8 +227,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 647767,
-      "num": 549182,
+      "raw_hot": 671779,
+      "num": 671779,
       "word": "王一博偷偷流泪",
       "onboard_time": 1682997927,
       "rank": 19,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 442310,
-      "num": 288334,
+      "num": 370492,
       "word": "光遇",
       "onboard_time": 1683000625,
       "rank": 20,
@@ -387,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399216,
+      "num": 399216,
+      "word": "从旁边队伍平移过来算插队吗",
+      "onboard_time": 1683000507,
+      "rank": 34,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 388983,
       "num": 388983,
       "word": "止庵 史航",
       "onboard_time": 1682955507,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376210,
-      "num": 376210,
-      "word": "我是当事人 我没有插队",
-      "onboard_time": 1683000868,
-      "rank": 17,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 375855,
@@ -483,6 +491,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 306406,
+      "num": 306406,
+      "word": "保罗回更衣室了",
+      "onboard_time": 1682999428,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300100,
+      "num": 300100,
+      "word": "普通话考试也太尴尬了吧",
+      "onboard_time": 1683000028,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 298468,
       "num": 298468,
       "word": "西湖边最美人墙遭非议负责人回应",
@@ -497,14 +521,6 @@
       "onboard_time": 1682999128,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 288452,
-      "num": 288452,
-      "word": "保罗回更衣室了",
-      "onboard_time": 1682999428,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 278802,
@@ -579,6 +595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 228962,
+      "num": 228962,
+      "word": "南京一烤鸭店生意太好老板满脸愁容",
+      "onboard_time": 1682997988,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228945,
       "num": 228945,
       "word": "陈晓从梦华录被追杀到云襄传",
@@ -603,22 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 222146,
-      "num": 222146,
-      "word": "南京一烤鸭店生意太好老板满脸愁容",
-      "onboard_time": 1682997988,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220908,
-      "num": 220908,
-      "word": "普通话考试也太尴尬了吧",
-      "onboard_time": 1683000028,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217721,
       "num": 217721,
       "word": "官方通报哈尔滨一房屋私拆承重墙",
@@ -633,14 +641,6 @@
       "onboard_time": 1682988868,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214525,
-      "num": 214525,
-      "word": "从旁边队伍平移过来算插队吗",
-      "onboard_time": 1683000507,
-      "rank": 34,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 213399,
@@ -851,6 +851,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160754,
+      "num": 160754,
+      "word": "焦虑的人都有一个共同特征",
+      "onboard_time": 1682999368,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 159134,
+      "num": 159134,
+      "word": "Rihanna山茶花开满身",
+      "onboard_time": 1683001888,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 156635,
       "num": 132348,
       "word": "当事女性站出来 隐私权让渡给公众",
@@ -899,19 +915,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 148621,
-      "num": 148621,
-      "word": "焦虑的人都有一个共同特征",
-      "onboard_time": 1682999368,
-      "rank": 43,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 148480,
       "num": 148480,
       "word": "NBA",
       "onboard_time": 1682992889,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147192,
+      "num": 147192,
+      "word": "太阳vs掘金",
+      "onboard_time": 1683000091,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -929,14 +945,6 @@
       "onboard_time": 1682965217,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139988,
-      "num": 139988,
-      "word": "太阳vs掘金",
-      "onboard_time": 1683000091,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 139019,
@@ -1299,7 +1307,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 30369,
+      "raw_hot": 32790,
       "num": 1502886,
       "word": "中国色彩闪耀太空",
       "onboard_time": 1682999010,
