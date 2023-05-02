@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682991986100,
+  "endTime": 1682994886284,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -33,6 +33,14 @@
       "onboard_time": 1682905050,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2913755,
+      "num": 643698,
+      "word": "插队母女欠四川人一个道歉",
+      "onboard_time": 1682987666,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2812230,
@@ -100,18 +108,10 @@
     },
     {
       "raw_hot": 2060497,
-      "num": 1295323,
+      "num": 1309131,
       "word": "暴雨大暴雨要来了",
       "onboard_time": 1682985565,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2023335,
-      "num": 643698,
-      "word": "插队母女欠四川人一个道歉",
-      "onboard_time": 1682987666,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1552461,
+      "num": 1552461,
+      "word": "淄博0.85米志愿者喝着奶帮看行李",
+      "onboard_time": 1682989707,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1459992,
       "num": 507475,
       "word": "hybe",
@@ -243,20 +251,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1193044,
+      "num": 1193044,
+      "word": "年收入二十万是怎样的水平",
+      "onboard_time": 1682989469,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1147131,
       "num": 1147131,
       "word": "这是在攻打重庆吗",
       "onboard_time": 1682915309,
       "rank": 21,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 1130072,
-      "num": 1130072,
-      "word": "淄博0.85米志愿者喝着奶帮看行李",
-      "onboard_time": 1682989707,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1110513,
@@ -283,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1030544,
-      "num": 1030544,
-      "word": "年收入二十万是怎样的水平",
-      "onboard_time": 1682989469,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 1011057,
+      "num": 1011057,
+      "word": "倪妮陈妍希",
+      "onboard_time": 1682986284,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 1009960,
@@ -297,6 +305,14 @@
       "onboard_time": 1682907868,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 986647,
+      "num": 986647,
+      "word": "秦昊说观众牛逼",
+      "onboard_time": 1682991086,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 943655,
@@ -329,14 +345,6 @@
       "onboard_time": 1682860649,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 857576,
-      "num": 857576,
-      "word": "倪妮陈妍希",
-      "onboard_time": 1682986284,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 846152,
@@ -435,14 +443,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 719723,
-      "num": 719723,
-      "word": "秦昊说观众牛逼",
-      "onboard_time": 1682991086,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 718264,
       "num": 718264,
       "word": "73岁大爷头婚娶69岁大妈",
@@ -507,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 624496,
+      "num": 624496,
+      "word": "哈登45分",
+      "onboard_time": 1682993129,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617743,
       "num": 617743,
       "word": "同事间开黄腔也可能属于性骚扰",
@@ -529,6 +537,14 @@
       "onboard_time": 1682983460,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 575813,
+      "num": 575813,
+      "word": "禾野cp29",
+      "onboard_time": 1682991928,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 567767,
@@ -643,6 +659,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 481507,
+      "num": 481507,
+      "word": "杨紫琼宋慧乔同框",
+      "onboard_time": 1682992528,
+      "rank": 14,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 477862,
       "num": 477862,
       "word": "陈晓演2个糙汉奖励自己1部古装剧",
@@ -707,12 +731,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 438044,
+      "num": 438044,
+      "word": "每个男朋友都在努力拍照",
+      "onboard_time": 1682989406,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 433560,
       "num": 428284,
       "word": "漫长的季节",
       "onboard_time": 1682861010,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 432930,
+      "num": 432930,
+      "word": "斯马特垫脚哈登",
+      "onboard_time": 1682990848,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 432490,
@@ -827,12 +867,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 393196,
-      "num": 393196,
-      "word": "每个男朋友都在努力拍照",
-      "onboard_time": 1682989406,
-      "rank": 22,
-      "category": "幽默,情感"
+      "raw_hot": 389226,
+      "num": 261466,
+      "word": "Jennie山茶花白裙",
+      "onboard_time": 1682994749,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 388983,
@@ -859,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363624,
+      "num": 259539,
+      "word": "女子买衣服当老板面搜同款砍价",
+      "onboard_time": 1682993788,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347296,
       "num": 342519,
       "word": "千万不要随便叫别人宝贝",
@@ -873,6 +921,14 @@
       "onboard_time": 1682948310,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 342513,
+      "num": 342513,
+      "word": "妮可基德曼裙子",
+      "onboard_time": 1682991027,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 338856,
@@ -979,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 307185,
-      "num": 184204,
-      "word": "妮可基德曼裙子",
-      "onboard_time": 1682991027,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 306084,
       "num": 178922,
       "word": "淄博一快递员因限流不让进下跪大哭",
@@ -1016,6 +1064,22 @@
       "word": "五一多景点人从众现状曝光",
       "onboard_time": 1682905591,
       "rank": 21,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 299828,
+      "num": 299828,
+      "word": "原神3.6",
+      "onboard_time": 1682994627,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 298468,
+      "num": 298468,
+      "word": "西湖边最美人墙遭非议负责人回应",
+      "onboard_time": 1682990369,
+      "rank": 41,
       "category": "旅游,社会新闻"
     },
     {
@@ -1123,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271756,
+      "num": 271756,
+      "word": "恩比德 G2",
+      "onboard_time": 1682992408,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270041,
       "num": 235264,
       "word": "澹台烬演魔神被识破",
@@ -1155,14 +1227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 267192,
-      "num": 267192,
-      "word": "西湖边最美人墙遭非议负责人回应",
-      "onboard_time": 1682990369,
-      "rank": 41,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 266941,
       "num": 266941,
       "word": "老人不识字行李箱贴满回家行程",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1682857466,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265227,
+      "num": 265227,
+      "word": "景区回应轨道缆车将孔雀碾压致死",
+      "onboard_time": 1682994028,
+      "rank": 28,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 264958,
@@ -1225,6 +1297,14 @@
       "onboard_time": 1682935647,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255928,
+      "num": 255928,
+      "word": "瑞幸咖啡一季度营业利润达6.78亿元",
+      "onboard_time": 1682991808,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 254444,
@@ -1457,6 +1537,14 @@
       "onboard_time": 1682947292,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231277,
+      "num": 231277,
+      "word": "被浙江农村的房子震惊到了",
+      "onboard_time": 1682994448,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 230466,
@@ -1723,6 +1811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 205332,
+      "num": 205332,
+      "word": "易烊千玺新歌",
+      "onboard_time": 1682994148,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205208,
       "num": 164485,
       "word": "倪妮抓拍图",
@@ -1817,14 +1913,6 @@
       "onboard_time": 1682927367,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 193854,
-      "num": 181795,
-      "word": "斯马特垫脚哈登",
-      "onboard_time": 1682990848,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 193641,
@@ -2131,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165382,
+      "num": 165382,
+      "word": "哈登梦回巅峰",
+      "onboard_time": 1682993487,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164748,
       "num": 164748,
       "word": "过敏原能有多离谱",
@@ -2193,6 +2289,14 @@
       "onboard_time": 1682898746,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161288,
+      "num": 161288,
+      "word": "萌娃回家路上安安静静偷吃草莓",
+      "onboard_time": 1682993549,
+      "rank": 37,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 160513,
@@ -2275,6 +2379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150902,
+      "num": 150902,
+      "word": "肖战如梦之梦西安站谢幕视频",
+      "onboard_time": 1682991686,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 150765,
       "num": 150765,
       "word": "饥饿游戏",
@@ -2305,6 +2417,14 @@
       "onboard_time": 1682947230,
       "rank": 47,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 148480,
+      "num": 148480,
+      "word": "NBA",
+      "onboard_time": 1682992889,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 148190,
@@ -2411,6 +2531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 136215,
+      "num": 136215,
+      "word": "女友去世男子照顾其父母20年",
+      "onboard_time": 1682994809,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 136196,
       "num": 136196,
       "word": "时代少年团海口演唱会彩排下班",
@@ -2449,6 +2577,14 @@
       "onboard_time": 1682957065,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133037,
+      "num": 133037,
+      "word": "76人1比0凯尔特人",
+      "onboard_time": 1682993427,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 132442,
@@ -2497,14 +2633,6 @@
       "onboard_time": 1682922568,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 129739,
-      "num": 126127,
-      "word": "肖战如梦之梦西安站谢幕视频",
-      "onboard_time": 1682991686,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 129738,
@@ -2585,14 +2713,6 @@
       "onboard_time": 1682940328,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 126471,
-      "num": 126471,
-      "word": "禾野cp29",
-      "onboard_time": 1682991928,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 126051,
@@ -2801,14 +2921,6 @@
       "onboard_time": 1682904511,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 106457,
-      "num": 106457,
-      "word": "瑞幸咖啡一季度营业利润达6.78亿元",
-      "onboard_time": 1682991808,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 104836,

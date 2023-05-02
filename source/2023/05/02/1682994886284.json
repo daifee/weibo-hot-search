@@ -1,0 +1,410 @@
+{
+  "runTime": 1682994886284,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1552461,
+        "num": 1552461,
+        "word": "淄博0.85米志愿者喝着奶帮看行李",
+        "onboard_time": 1682989707,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1309131,
+        "num": 1309131,
+        "word": "暴雨大暴雨要来了",
+        "onboard_time": 1682985565,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21055,
+        "num": 1221720,
+        "word": "光荣属于劳动者",
+        "onboard_time": 1682948790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1193044,
+        "num": 1193044,
+        "word": "年收入二十万是怎样的水平",
+        "onboard_time": 1682989469,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1098126,
+        "num": 1098126,
+        "word": "白敬亭宋轶主打一个陪伴",
+        "onboard_time": 1682985503,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1011057,
+        "num": 1011057,
+        "word": "倪妮陈妍希",
+        "onboard_time": 1682986284,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 986647,
+        "num": 986647,
+        "word": "秦昊说观众牛逼",
+        "onboard_time": 1682991086,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 764807,
+        "num": 764807,
+        "word": "五一的堵 逐渐离谱",
+        "onboard_time": 1682949452,
+        "rank": 7,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 724491,
+        "num": 724491,
+        "word": "王子奇王玉雯",
+        "onboard_time": 1682986045,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 624496,
+        "num": 624496,
+        "word": "哈登45分",
+        "onboard_time": 1682993129,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2913755,
+        "num": 620034,
+        "word": "插队母女欠四川人一个道歉",
+        "onboard_time": 1682987666,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575813,
+        "num": 575813,
+        "word": "禾野cp29",
+        "onboard_time": 1682991928,
+        "rank": 11,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 546332,
+        "num": 546332,
+        "word": "朋友圈发什么最让人反感",
+        "onboard_time": 1682940149,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501479,
+        "num": 501479,
+        "word": "顺丰53岁员工猝死家属称公司拒担责",
+        "onboard_time": 1682985081,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481507,
+        "num": 481507,
+        "word": "杨紫琼宋慧乔同框",
+        "onboard_time": 1682992528,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 438044,
+        "num": 438044,
+        "word": "每个男朋友都在努力拍照",
+        "onboard_time": 1682989406,
+        "rank": 15,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 432930,
+        "num": 432930,
+        "word": "斯马特垫脚哈登",
+        "onboard_time": 1682990848,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422448,
+        "num": 422448,
+        "word": "73岁大爷头婚娶69岁大妈",
+        "onboard_time": 1682957188,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407624,
+        "num": 407624,
+        "word": "谷爱凌何超欣聚会",
+        "onboard_time": 1682985262,
+        "rank": 18,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 348012,
+        "num": 348012,
+        "word": "朴彩英Met Gala",
+        "onboard_time": 1682988868,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342513,
+        "num": 342513,
+        "word": "妮可基德曼裙子",
+        "onboard_time": 1682991027,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 317964,
+        "num": 317964,
+        "word": "爽门",
+        "onboard_time": 1682949099,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299828,
+        "num": 299828,
+        "word": "原神3.6",
+        "onboard_time": 1682994627,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298468,
+        "num": 298468,
+        "word": "西湖边最美人墙遭非议负责人回应",
+        "onboard_time": 1682990369,
+        "rank": 23,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 280574,
+        "num": 280574,
+        "word": "伊能静好会写",
+        "onboard_time": 1682986767,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 276602,
+        "num": 276602,
+        "word": "今年五一这10大景区人最多",
+        "onboard_time": 1682986224,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 271952,
+        "num": 271952,
+        "word": "Met Gala",
+        "onboard_time": 1682983460,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271756,
+        "num": 271756,
+        "word": "恩比德 G2",
+        "onboard_time": 1682992408,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265227,
+        "num": 265227,
+        "word": "景区回应轨道缆车将孔雀碾压致死",
+        "onboard_time": 1682994028,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 389226,
+        "num": 261466,
+        "word": "Jennie山茶花白裙",
+        "onboard_time": 1682994749,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 363624,
+        "num": 259539,
+        "word": "女子买衣服当老板面搜同款砍价",
+        "onboard_time": 1682993788,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255928,
+        "num": 255928,
+        "word": "瑞幸咖啡一季度营业利润达6.78亿元",
+        "onboard_time": 1682991808,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231277,
+        "num": 231277,
+        "word": "被浙江农村的房子震惊到了",
+        "onboard_time": 1682994448,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225755,
+        "num": 225755,
+        "word": "艺人和粉丝的关系",
+        "onboard_time": 1682990007,
+        "rank": 33,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 224213,
+        "num": 224213,
+        "word": "刘雯第十一次MetGala",
+        "onboard_time": 1682989648,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 205332,
+        "num": 205332,
+        "word": "易烊千玺新歌",
+        "onboard_time": 1682994148,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165382,
+        "num": 165382,
+        "word": "哈登梦回巅峰",
+        "onboard_time": 1682993487,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161288,
+        "num": 161288,
+        "word": "萌娃回家路上安安静静偷吃草莓",
+        "onboard_time": 1682993549,
+        "rank": 37,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 156392,
+        "num": 156392,
+        "word": "蔡徐坤的扇子",
+        "onboard_time": 1682990908,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151888,
+        "num": 151888,
+        "word": "男子救起落水男童问儿子帅不帅",
+        "onboard_time": 1682987966,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150902,
+        "num": 150902,
+        "word": "肖战如梦之梦西安站谢幕视频",
+        "onboard_time": 1682991686,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148480,
+        "num": 148480,
+        "word": "NBA",
+        "onboard_time": 1682992889,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147881,
+        "num": 147881,
+        "word": "陈都灵提灯花絮vs正片",
+        "onboard_time": 1682983340,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138647,
+        "num": 138647,
+        "word": "女生要敢于结束不健康的关系",
+        "onboard_time": 1682951733,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138148,
+        "num": 138148,
+        "word": "挖呀挖呀挖",
+        "onboard_time": 1682988447,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136215,
+        "num": 136215,
+        "word": "女友去世男子照顾其父母20年",
+        "onboard_time": 1682994809,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 134122,
+        "num": 134122,
+        "word": "刘耀文演唱会银白发色饭拍",
+        "onboard_time": 1682991209,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133037,
+        "num": 133037,
+        "word": "76人1比0凯尔特人",
+        "onboard_time": 1682993427,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126665,
+        "num": 126665,
+        "word": "宋祖儿差点取关毛晓彤",
+        "onboard_time": 1682944710,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 121684,
+        "num": 121684,
+        "word": "官方通报哈尔滨一房屋私拆承重墙",
+        "onboard_time": 1682984300,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一批新法新规今起施行#"
+    }
+  }
+}
