@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683048804108,
+  "endTime": 1683051661493,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -4827,6 +4827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 68469,
+      "num": 82012,
+      "word": "广州萤火虫漫展",
+      "onboard_time": 1683046104,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 67499,
       "num": 1630273,
       "word": "每一个奋斗的你都了不起",
@@ -4835,12 +4843,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63066,
-      "num": 82012,
-      "word": "广州萤火虫漫展",
-      "onboard_time": 1683046104,
-      "rank": 41,
-      "category": "动漫"
+      "raw_hot": 58762,
+      "num": 58762,
+      "word": "张韶涵寓言世界巡回演唱会",
+      "onboard_time": 1683049818,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 58286,
+      "num": 75370,
+      "word": "卖卵广告怎么举报",
+      "onboard_time": 1683046463,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56015,
@@ -4889,14 +4905,6 @@
       "onboard_time": 1682916449,
       "rank": 27,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 51051,
-      "num": 75370,
-      "word": "卖卵广告怎么举报",
-      "onboard_time": 1683046463,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48317,
