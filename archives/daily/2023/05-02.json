@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683005611532,
+  "endTime": 1683008534252,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2161870,
+      "num": 2161870,
+      "word": "我是当事人 我没有插队",
+      "onboard_time": 1683000868,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 2060497,
       "num": 1309131,
       "word": "暴雨大暴雨要来了",
       "onboard_time": 1682985565,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1962430,
-      "num": 1962430,
-      "word": "我是当事人 我没有插队",
-      "onboard_time": 1683000868,
-      "rank": 17,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 1804705,
@@ -73,6 +73,14 @@
       "onboard_time": 1682997988,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1394399,
+      "num": 1394399,
+      "word": "cp29 不检票",
+      "onboard_time": 1683004651,
+      "rank": 6,
+      "category": "动漫"
     },
     {
       "raw_hot": 1370995,
@@ -179,14 +187,6 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 829956,
-      "num": 829956,
-      "word": "cp29 不检票",
-      "onboard_time": 1683004651,
-      "rank": 6,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 788619,
       "num": 788619,
       "word": "顺丰53岁员工猝死家属称公司拒担责",
@@ -251,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 695721,
+      "num": 465467,
+      "word": "low",
+      "onboard_time": 1683005668,
+      "rank": 11,
+      "category": "影视"
+    },
+    {
       "raw_hot": 671779,
       "num": 671779,
       "word": "王一博偷偷流泪",
@@ -297,6 +305,14 @@
       "onboard_time": 1682983460,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 532677,
+      "num": 438896,
+      "word": "虞书欣绿色绑带露背吊带背心",
+      "onboard_time": 1683006328,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 519154,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402683,
+      "num": 402683,
+      "word": "特斯拉涨价",
+      "onboard_time": 1683006809,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 399216,
       "num": 399216,
       "word": "从旁边队伍平移过来算插队吗",
@@ -457,6 +481,14 @@
       "onboard_time": 1682934509,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 375475,
+      "num": 171972,
+      "word": "蔡徐坤和CardiB合影",
+      "onboard_time": 1683005726,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 355934,
@@ -531,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315562,
+      "num": 315562,
+      "word": "8名内地赌客在澳门赌场抡椅打斗被捕",
+      "onboard_time": 1683004111,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309824,
       "num": 257938,
       "word": "长空之王为什么有感情戏",
@@ -571,20 +611,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 293863,
+      "num": 293863,
+      "word": "男子景区玩水上浮桥时落水溺亡",
+      "onboard_time": 1683004051,
+      "rank": 39,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 290697,
       "num": 288334,
       "word": "言承旭徐若晗二搭",
       "onboard_time": 1682999128,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 285620,
-      "num": 285620,
-      "word": "8名内地赌客在澳门赌场抡椅打斗被捕",
-      "onboard_time": 1683004111,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278802,
@@ -601,14 +641,6 @@
       "onboard_time": 1682992408,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272982,
-      "num": 272982,
-      "word": "男子景区玩水上浮桥时落水溺亡",
-      "onboard_time": 1683004051,
-      "rank": 39,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 269956,
@@ -673,6 +705,14 @@
       "onboard_time": 1682989648,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 233930,
+      "num": 233930,
+      "word": "鞠婧祎wink自拍照",
+      "onboard_time": 1683007108,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 233669,
@@ -747,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210480,
+      "num": 210480,
+      "word": "战至巅峰",
+      "onboard_time": 1683007889,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207192,
       "num": 207192,
       "word": "时代少年团五四歌会官宣",
@@ -761,6 +809,14 @@
       "onboard_time": 1682997509,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 204756,
+      "num": 204756,
+      "word": "临死之前大脑有意识吗",
+      "onboard_time": 1683005068,
+      "rank": 37,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 201594,
@@ -803,20 +859,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196983,
-      "num": 196983,
-      "word": "临死之前大脑有意识吗",
-      "onboard_time": 1683005068,
-      "rank": 37,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 193641,
       "num": 193641,
       "word": "蔡徐坤和猫咪对视",
       "onboard_time": 1682989108,
       "rank": 28,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 191222,
+      "num": 191222,
+      "word": "张真源渐变粉长裤",
+      "onboard_time": 1683007408,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190508,
+      "num": 190508,
+      "word": "胡锡进发文评插队发飙事件",
+      "onboard_time": 1683008069,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189743,
@@ -915,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170518,
+      "num": 170518,
+      "word": "第五人格COA6",
+      "onboard_time": 1683008249,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169910,
       "num": 169910,
       "word": "焦虑的人都有一个共同特征",
@@ -993,6 +1065,14 @@
       "onboard_time": 1682956165,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156496,
+      "num": 156496,
+      "word": "复盘长月烬明里的因果宿命",
+      "onboard_time": 1683008128,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 155839,
@@ -1433,6 +1513,14 @@
       "onboard_time": 1682940149,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 49927,
+      "num": 401111,
+      "word": "五一景区到处都是人从众",
+      "onboard_time": 1683007228,
+      "rank": 14,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 32790,
