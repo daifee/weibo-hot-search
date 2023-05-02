@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1682997490166,
+  "endTime": 1682998407453,
   "band_list": [
     {
       "raw_hot": 2913755,
@@ -43,6 +43,14 @@
       "category": "幽默,旅游"
     },
     {
+      "raw_hot": 1310863,
+      "num": 1310863,
+      "word": "年收入二十万是怎样的水平",
+      "onboard_time": 1682989469,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1307450,
       "num": 1307450,
       "word": "漫长的季节 封神",
@@ -59,12 +67,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1193044,
-      "num": 1193044,
-      "word": "年收入二十万是怎样的水平",
-      "onboard_time": 1682989469,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 1079555,
+      "num": 1079555,
+      "word": "王子奇王玉雯",
+      "onboard_time": 1682986045,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 1065723,
@@ -99,16 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 921798,
-      "num": 921798,
-      "word": "王子奇王玉雯",
-      "onboard_time": 1682986045,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 878234,
-      "num": 261466,
+      "raw_hot": 906817,
+      "num": 329993,
       "word": "Jennie山茶花白裙",
       "onboard_time": 1682994749,
       "rank": 29,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 693288,
+      "num": 693288,
+      "word": "我有种亲儿子中状元的狂喜",
+      "onboard_time": 1682995828,
+      "rank": 12,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 626008,
       "num": 626008,
       "word": "禾野cp29",
@@ -225,14 +233,6 @@
       "onboard_time": 1682939189,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 498197,
-      "num": 498197,
-      "word": "我有种亲儿子中状元的狂喜",
-      "onboard_time": 1682995828,
-      "rank": 12,
-      "category": "幽默,影视"
     },
     {
       "raw_hot": 481507,
@@ -307,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421890,
+      "num": 421890,
+      "word": "易烊千玺说我还不停歌唱",
+      "onboard_time": 1682995888,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 420720,
       "num": 420720,
       "word": "提名你一听到主演名字就不会打开的剧",
       "onboard_time": 1682932168,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 418226,
-      "num": 418226,
-      "word": "易烊千玺说我还不停歌唱",
-      "onboard_time": 1682995888,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 416665,
@@ -371,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 348071,
+      "num": 348071,
+      "word": "云襄传313条人命案",
+      "onboard_time": 1682997988,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 344509,
       "num": 344509,
       "word": "易烊千玺新歌",
@@ -411,6 +419,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 331472,
+      "num": 331472,
+      "word": "王一博偷偷流泪",
+      "onboard_time": 1682997927,
+      "rank": 19,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 325198,
+      "num": 325198,
+      "word": "黄景瑜走路气场",
+      "onboard_time": 1682997267,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319963,
       "num": 319963,
       "word": "蒋奇明 丑帅",
@@ -433,6 +457,14 @@
       "onboard_time": 1682990369,
       "rank": 41,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 289992,
+      "num": 289992,
+      "word": "VOGUE官方把蔡徐坤认成王嘉尔",
+      "onboard_time": 1682998288,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 278802,
@@ -483,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261841,
+      "num": 261841,
+      "word": "五四放假通知",
+      "onboard_time": 1682998108,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 260677,
       "num": 260677,
       "word": "挖呀挖呀挖",
@@ -505,14 +545,6 @@
       "onboard_time": 1682989648,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 233094,
-      "num": 233094,
-      "word": "黄景瑜走路气场",
-      "onboard_time": 1682997267,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 223977,
@@ -555,6 +587,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207192,
+      "num": 207192,
+      "word": "时代少年团五四歌会官宣",
+      "onboard_time": 1682998108,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 205772,
+      "num": 205772,
+      "word": "鹿晗露额头视频",
+      "onboard_time": 1682997509,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 201594,
+      "num": 201594,
+      "word": "淄博",
+      "onboard_time": 1682995649,
+      "rank": 37,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 200510,
       "num": 200510,
       "word": "毛雪汪谈月经羞耻",
@@ -576,6 +632,14 @@
       "word": "多名游客在动物园发生冲突",
       "onboard_time": 1682984422,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193790,
+      "num": 193790,
+      "word": "南京一烤鸭店生意太好老板满脸愁容",
+      "onboard_time": 1682997988,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -609,14 +673,6 @@
       "onboard_time": 1682943628,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 185894,
-      "num": 185894,
-      "word": "淄博",
-      "onboard_time": 1682995649,
-      "rank": 37,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 182997,
@@ -675,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169786,
+      "num": 169786,
+      "word": "王国之泪 偷跑",
+      "onboard_time": 1682997448,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168905,
       "num": 168905,
       "word": "曾可妮腰线",
@@ -723,6 +787,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 161191,
+      "num": 161191,
+      "word": "蒋奇明小哑巴",
+      "onboard_time": 1682997328,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 156635,
       "num": 132348,
       "word": "当事女性站出来 隐私权让渡给公众",
@@ -752,6 +824,14 @@
       "word": "肖战如梦之梦西安站谢幕视频",
       "onboard_time": 1682991686,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 150203,
+      "num": 150203,
+      "word": "云襄传追剧观后感",
+      "onboard_time": 1682997927,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -835,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132931,
-      "num": 132931,
-      "word": "蒋奇明小哑巴",
-      "onboard_time": 1682997328,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 132442,
       "num": 132442,
       "word": "女子买虾复称老板试图偷换重量单位",
@@ -889,14 +961,6 @@
       "onboard_time": 1682958924,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125969,
-      "num": 125969,
-      "word": "王国之泪 偷跑",
-      "onboard_time": 1682997448,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 124932,
@@ -1019,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92728,
+      "num": 161503,
+      "word": "陈坤景德镇",
+      "onboard_time": 1682995949,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92008,
       "num": 128978,
       "word": "白鹿包场人生路不熟",
@@ -1065,14 +1137,6 @@
       "onboard_time": 1682898746,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 82373,
-      "num": 125913,
-      "word": "陈坤景德镇",
-      "onboard_time": 1682995949,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 79094,
@@ -1188,6 +1252,9 @@
     },
     {
       "word": "#习近平总书记这样谈劳模精神#"
+    },
+    {
+      "word": "#这样活力满满的假期很中国#"
     }
   ]
 }

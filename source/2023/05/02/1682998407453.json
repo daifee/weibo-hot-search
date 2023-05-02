@@ -1,0 +1,410 @@
+{
+  "runTime": 1682998407453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1475056,
+        "num": 1475056,
+        "word": "淄博0.85米志愿者喝着奶帮看行李",
+        "onboard_time": 1682989707,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1310863,
+        "num": 1310863,
+        "word": "年收入二十万是怎样的水平",
+        "onboard_time": 1682989469,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13069,
+        "num": 1184363,
+        "word": "光荣属于劳动者",
+        "onboard_time": 1682948790,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1079555,
+        "num": 1079555,
+        "word": "王子奇王玉雯",
+        "onboard_time": 1682986045,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 876162,
+        "num": 876162,
+        "word": "暴雨大暴雨要来了",
+        "onboard_time": 1682985565,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754629,
+        "num": 754629,
+        "word": "白敬亭宋轶主打一个陪伴",
+        "onboard_time": 1682985503,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 703363,
+        "num": 703363,
+        "word": "五一的堵 逐渐离谱",
+        "onboard_time": 1682949452,
+        "rank": 6,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 693288,
+        "num": 693288,
+        "word": "我有种亲儿子中状元的狂喜",
+        "onboard_time": 1682995828,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 515957,
+        "num": 515957,
+        "word": "禾野cp29",
+        "onboard_time": 1682991928,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 661871,
+        "num": 514108,
+        "word": "秦昊说观众牛逼",
+        "onboard_time": 1682991086,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 2176955,
+        "num": 504495,
+        "word": "插队母女欠四川人一个道歉",
+        "onboard_time": 1682987666,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478878,
+        "num": 478878,
+        "word": "73岁大爷头婚娶69岁大妈",
+        "onboard_time": 1682957188,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467120,
+        "num": 467120,
+        "word": "倪妮陈妍希",
+        "onboard_time": 1682986284,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 437507,
+        "num": 437507,
+        "word": "女友去世男子照顾其父母20年",
+        "onboard_time": 1682994809,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 421890,
+        "num": 421890,
+        "word": "易烊千玺说我还不停歌唱",
+        "onboard_time": 1682995888,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 416276,
+        "num": 416276,
+        "word": "淄博绿豆糕大爷回应爆火",
+        "onboard_time": 1682994988,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409018,
+        "num": 409018,
+        "word": "顺丰53岁员工猝死家属称公司拒担责",
+        "onboard_time": 1682985081,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398833,
+        "num": 398833,
+        "word": "杨紫琼宋慧乔同框",
+        "onboard_time": 1682992528,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 348071,
+        "num": 348071,
+        "word": "云襄传313条人命案",
+        "onboard_time": 1682997988,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331472,
+        "num": 331472,
+        "word": "王一博偷偷流泪",
+        "onboard_time": 1682997927,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 906817,
+        "num": 329993,
+        "word": "Jennie山茶花白裙",
+        "onboard_time": 1682994749,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 325198,
+        "num": 325198,
+        "word": "黄景瑜走路气场",
+        "onboard_time": 1682997267,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321588,
+        "num": 321588,
+        "word": "朋友圈发什么最让人反感",
+        "onboard_time": 1682940149,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313998,
+        "num": 313998,
+        "word": "被浙江农村的房子震惊到了",
+        "onboard_time": 1682994448,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312664,
+        "num": 312664,
+        "word": "女子买衣服当老板面搜同款砍价",
+        "onboard_time": 1682993788,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289992,
+        "num": 289992,
+        "word": "VOGUE官方把蔡徐坤认成王嘉尔",
+        "onboard_time": 1682998288,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 288389,
+        "num": 288389,
+        "word": "爽门",
+        "onboard_time": 1682949099,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 287091,
+        "num": 287091,
+        "word": "朴彩英Met Gala",
+        "onboard_time": 1682988868,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264885,
+        "num": 264885,
+        "word": "景区回应轨道缆车将孔雀碾压致死",
+        "onboard_time": 1682994028,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 189534,
+        "num": 263440,
+        "word": "今年五一这10大景区人最多",
+        "onboard_time": 1682986224,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 262351,
+        "num": 262351,
+        "word": "原神3.6",
+        "onboard_time": 1682994627,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261841,
+        "num": 261841,
+        "word": "五四放假通知",
+        "onboard_time": 1682998108,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 245767,
+        "num": 245767,
+        "word": "妮可基德曼裙子",
+        "onboard_time": 1682991027,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217581,
+        "num": 217581,
+        "word": "哈登45分",
+        "onboard_time": 1682993129,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212861,
+        "num": 212861,
+        "word": "瑞幸咖啡一季度营业利润达6.78亿元",
+        "onboard_time": 1682991808,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207192,
+        "num": 207192,
+        "word": "时代少年团五四歌会官宣",
+        "onboard_time": 1682998108,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205772,
+        "num": 205772,
+        "word": "鹿晗露额头视频",
+        "onboard_time": 1682997509,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 201594,
+        "num": 201594,
+        "word": "淄博",
+        "onboard_time": 1682995649,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 198651,
+        "num": 198651,
+        "word": "Met Gala",
+        "onboard_time": 1682983460,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195349,
+        "num": 195349,
+        "word": "刘雯第十一次MetGala",
+        "onboard_time": 1682989648,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194637,
+        "num": 194637,
+        "word": "每个男朋友都在努力拍照",
+        "onboard_time": 1682989406,
+        "rank": 40,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 193790,
+        "num": 193790,
+        "word": "南京一烤鸭店生意太好老板满脸愁容",
+        "onboard_time": 1682997988,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181626,
+        "num": 181626,
+        "word": "谷爱凌何超欣聚会",
+        "onboard_time": 1682985262,
+        "rank": 42,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 169786,
+        "num": 169786,
+        "word": "王国之泪 偷跑",
+        "onboard_time": 1682997448,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92728,
+        "num": 161503,
+        "word": "陈坤景德镇",
+        "onboard_time": 1682995949,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161191,
+        "num": 161191,
+        "word": "蒋奇明小哑巴",
+        "onboard_time": 1682997328,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150203,
+        "num": 150203,
+        "word": "云襄传追剧观后感",
+        "onboard_time": 1682997927,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157859,
+        "num": 149830,
+        "word": "伊能静好会写",
+        "onboard_time": 1682986767,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 148066,
+        "num": 148066,
+        "word": "恩比德 G2",
+        "onboard_time": 1682992408,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138991,
+        "num": 138991,
+        "word": "西湖边最美人墙遭非议负责人回应",
+        "onboard_time": 1682990369,
+        "rank": 49,
+        "category": "旅游,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#这样活力满满的假期很中国#"
+    }
+  }
+}
