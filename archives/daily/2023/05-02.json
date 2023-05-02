@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1682995434175,
+  "endTime": 1682997490166,
   "band_list": [
     {
       "raw_hot": 2913755,
@@ -99,20 +99,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921798,
+      "num": 921798,
+      "word": "王子奇王玉雯",
+      "onboard_time": 1682986045,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 878234,
+      "num": 261466,
+      "word": "Jennie山茶花白裙",
+      "onboard_time": 1682994749,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 839274,
       "num": 839274,
       "word": "女演员晒裸照反击黑客勒索",
       "onboard_time": 1682917650,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 819571,
-      "num": 819571,
-      "word": "王子奇王玉雯",
-      "onboard_time": 1682986045,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 788619,
@@ -171,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626008,
+      "num": 626008,
+      "word": "禾野cp29",
+      "onboard_time": 1682991928,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 624496,
       "num": 624496,
       "word": "哈登45分",
@@ -185,14 +201,6 @@
       "onboard_time": 1682955688,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594554,
-      "num": 594554,
-      "word": "禾野cp29",
-      "onboard_time": 1682991928,
-      "rank": 39,
-      "category": "动漫"
     },
     {
       "raw_hot": 579918,
@@ -217,6 +225,14 @@
       "onboard_time": 1682939189,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498197,
+      "num": 498197,
+      "word": "我有种亲儿子中状元的狂喜",
+      "onboard_time": 1682995828,
+      "rank": 12,
+      "category": "幽默,影视"
     },
     {
       "raw_hot": 481507,
@@ -259,6 +275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 445030,
+      "num": 445030,
+      "word": "女友去世男子照顾其父母20年",
+      "onboard_time": 1682994809,
+      "rank": 45,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 438044,
       "num": 438044,
       "word": "每个男朋友都在努力拍照",
@@ -291,6 +315,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418226,
+      "num": 418226,
+      "word": "易烊千玺说我还不停歌唱",
+      "onboard_time": 1682995888,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 416665,
+      "num": 416665,
+      "word": "淄博绿豆糕大爷回应爆火",
+      "onboard_time": 1682994988,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 416404,
       "num": 416404,
       "word": "朴彩英Met Gala",
@@ -300,19 +340,11 @@
     },
     {
       "raw_hot": 413462,
-      "num": 264967,
+      "num": 340035,
       "word": "女子买衣服当老板面搜同款砍价",
       "onboard_time": 1682993788,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 389226,
-      "num": 261466,
-      "word": "Jennie山茶花白裙",
-      "onboard_time": 1682994749,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 388983,
@@ -355,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 340978,
+      "num": 335897,
+      "word": "被浙江农村的房子震惊到了",
+      "onboard_time": 1682994448,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 334101,
       "num": 334101,
       "word": "蔡徐坤的扇子",
@@ -385,14 +425,6 @@
       "onboard_time": 1682955449,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 308894,
-      "num": 308894,
-      "word": "被浙江农村的房子震惊到了",
-      "onboard_time": 1682994448,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 298468,
@@ -475,6 +507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 233094,
+      "num": 233094,
+      "word": "黄景瑜走路气场",
+      "onboard_time": 1682997267,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223977,
       "num": 223977,
       "word": "性骚扰怎么取证",
@@ -499,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216056,
-      "num": 216056,
-      "word": "女友去世男子照顾其父母20年",
-      "onboard_time": 1682994809,
-      "rank": 45,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 215930,
       "num": 215930,
       "word": "陈楚生说魔都真的挺燥的",
@@ -521,14 +553,6 @@
       "onboard_time": 1682954908,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200742,
-      "num": 200742,
-      "word": "淄博绿豆糕大爷回应爆火",
-      "onboard_time": 1682994988,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200510,
@@ -563,6 +587,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 189743,
+      "num": 189743,
+      "word": "喻言新EP",
+      "onboard_time": 1682996608,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189263,
       "num": 189263,
       "word": "刘耀文演唱会银白发色饭拍",
@@ -577,6 +609,14 @@
       "onboard_time": 1682943628,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185894,
+      "num": 185894,
+      "word": "淄博",
+      "onboard_time": 1682995649,
+      "rank": 37,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 182997,
@@ -633,6 +673,22 @@
       "onboard_time": 1682953469,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168905,
+      "num": 168905,
+      "word": "曾可妮腰线",
+      "onboard_time": 1682995708,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167903,
+      "num": 167903,
+      "word": "长空之王最后一句台词",
+      "onboard_time": 1682996007,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 166143,
@@ -779,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132931,
+      "num": 132931,
+      "word": "蒋奇明小哑巴",
+      "onboard_time": 1682997328,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 132442,
       "num": 132442,
       "word": "女子买虾复称老板试图偷换重量单位",
@@ -803,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128671,
+      "num": 128671,
+      "word": "为你逆光而来狗血闺蜜情",
+      "onboard_time": 1682995767,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127864,
       "num": 127864,
       "word": "罗云熙新剧打戏镜头",
@@ -817,6 +889,14 @@
       "onboard_time": 1682958924,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125969,
+      "num": 125969,
+      "word": "王国之泪 偷跑",
+      "onboard_time": 1682997448,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 124932,
@@ -985,6 +1065,14 @@
       "onboard_time": 1682898746,
       "rank": 37,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 82373,
+      "num": 125913,
+      "word": "陈坤景德镇",
+      "onboard_time": 1682995949,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 79094,
