@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1682984024914,
+  "endTime": 1682990612505,
   "band_list": [
     {
       "raw_hot": 6528594,
@@ -99,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1978453,
+      "num": 643698,
+      "word": "插队母女欠四川人一个道歉",
+      "onboard_time": 1682987666,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1951901,
       "num": 1951901,
       "word": "陈晓毛晓彤十年前vs十年后",
       "onboard_time": 1682936969,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1899471,
+      "num": 1295323,
+      "word": "暴雨大暴雨要来了",
+      "onboard_time": 1682985565,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1832510,
@@ -211,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1271511,
+      "num": 1271511,
+      "word": "白敬亭宋轶主打一个陪伴",
+      "onboard_time": 1682985503,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1209155,
       "num": 1209155,
       "word": "史上最挤五一档却没带火电影院",
@@ -299,6 +323,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 839782,
+      "num": 839782,
+      "word": "倪妮陈妍希",
+      "onboard_time": 1682986284,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 834659,
       "num": 789011,
       "word": "乃万单手脱上衣",
@@ -321,6 +353,22 @@
       "onboard_time": 1682909789,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 788619,
+      "num": 788619,
+      "word": "顺丰53岁员工猝死家属称公司拒担责",
+      "onboard_time": 1682985081,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777124,
+      "num": 777124,
+      "word": "今年五一这10大景区人最多",
+      "onboard_time": 1682986224,
+      "rank": 6,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 767021,
@@ -353,6 +401,22 @@
       "onboard_time": 1682866711,
       "rank": 9,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 732188,
+      "num": 732188,
+      "word": "谷爱凌何超欣聚会",
+      "onboard_time": 1682985262,
+      "rank": 7,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 731371,
+      "num": 731371,
+      "word": "王子奇王玉雯",
+      "onboard_time": 1682986045,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 718264,
@@ -483,6 +547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 533636,
+      "num": 533636,
+      "word": "年收入二十万是怎样的水平",
+      "onboard_time": 1682989469,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 522836,
       "num": 522836,
       "word": "漫长的季节大结局",
@@ -579,6 +651,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 458758,
+      "num": 458758,
+      "word": "伊能静好会写",
+      "onboard_time": 1682986767,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 457194,
       "num": 457194,
       "word": "蔡徐坤MetGala红毯",
@@ -659,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416404,
+      "num": 416404,
+      "word": "朴彩英Met Gala",
+      "onboard_time": 1682988868,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 410353,
       "num": 410353,
       "word": "和豪门大佬网恋后我红了",
@@ -680,6 +768,14 @@
       "word": "市监局回应淄博烧烤店吃出刀片",
       "onboard_time": 1682899226,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407429,
+      "num": 407429,
+      "word": "淄博0.85米志愿者喝着奶帮看行李",
+      "onboard_time": 1682989707,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1051,6 +1147,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 263447,
+      "num": 263447,
+      "word": "男子救起落水男童问儿子帅不帅",
+      "onboard_time": 1682987966,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260677,
+      "num": 260677,
+      "word": "挖呀挖呀挖",
+      "onboard_time": 1682988447,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259721,
       "num": 259721,
       "word": "辽宁男篮",
@@ -1137,6 +1249,14 @@
       "onboard_time": 1682910328,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 246668,
+      "num": 246668,
+      "word": "刘雯第十一次MetGala",
+      "onboard_time": 1682989648,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 246562,
@@ -1291,6 +1411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231048,
+      "num": 231048,
+      "word": "每个男朋友都在努力拍照",
+      "onboard_time": 1682989406,
+      "rank": 22,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 230466,
       "num": 230466,
       "word": "周杰伦问已经是第一名的人要怎么变",
@@ -1355,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223917,
+      "num": 223917,
+      "word": "陈都灵提灯花絮vs正片",
+      "onboard_time": 1682983340,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223163,
       "num": 223163,
       "word": "姆巴佩偷袭门将",
@@ -1411,6 +1547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 217721,
+      "num": 217721,
+      "word": "官方通报哈尔滨一房屋私拆承重墙",
+      "onboard_time": 1682984300,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217643,
       "num": 217643,
       "word": "漫长的季节太虐了",
@@ -1433,6 +1577,14 @@
       "onboard_time": 1682942908,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215930,
+      "num": 215930,
+      "word": "陈楚生说魔都真的挺燥的",
+      "onboard_time": 1682988868,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 214685,
@@ -1595,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198922,
+      "num": 198922,
+      "word": "多名游客在动物园发生冲突",
+      "onboard_time": 1682984422,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197413,
       "num": 197413,
       "word": "妺女公冶寂无相遇",
@@ -1617,6 +1777,14 @@
       "onboard_time": 1682927367,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193641,
+      "num": 193641,
+      "word": "蔡徐坤和猫咪对视",
+      "onboard_time": 1682989108,
+      "rank": 28,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 192943,
@@ -1979,6 +2147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158918,
+      "num": 158918,
+      "word": "艺人和粉丝的关系",
+      "onboard_time": 1682990007,
+      "rank": 30,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 158726,
       "num": 158726,
       "word": "长沙YOLO",
@@ -2139,6 +2315,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 139019,
+      "num": 139019,
+      "word": "cp29横幅",
+      "onboard_time": 1682985805,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 138728,
       "num": 138728,
       "word": "失恋对一个人的伤害有多大",
@@ -2161,6 +2345,14 @@
       "onboard_time": 1682935589,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 136196,
+      "num": 136196,
+      "word": "时代少年团海口演唱会彩排下班",
+      "onboard_time": 1682988028,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 136160,
@@ -2299,6 +2491,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 127864,
+      "num": 127864,
+      "word": "罗云熙新剧打戏镜头",
+      "onboard_time": 1682984540,
+      "rank": 37,
+      "category": "影视,影视"
+    },
+    {
       "raw_hot": 127181,
       "num": 125071,
       "word": "张小斐暖心回应粉丝小纸条",
@@ -2323,12 +2523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124932,
+      "num": 124932,
+      "word": "王国之泪",
+      "onboard_time": 1682988688,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124360,
       "num": 1104152,
       "word": "5岁娃隔马路向警察爸爸敬礼",
       "onboard_time": 1682934626,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123370,
+      "num": 123370,
+      "word": "西湖边最美人墙遭非议负责人回应",
+      "onboard_time": 1682990369,
+      "rank": 41,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 122515,
@@ -2395,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119574,
+      "num": 119574,
+      "word": "沈墨的帽子戴了18年",
+      "onboard_time": 1682986767,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118994,
       "num": 114295,
       "word": "马嘉祺假哭",
@@ -2409,6 +2633,14 @@
       "onboard_time": 1682906130,
       "rank": 46,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 114856,
+      "num": 114856,
+      "word": "张杰问下一个十五年曜一起吗",
+      "onboard_time": 1682986224,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 114430,
@@ -2585,14 +2817,6 @@
       "onboard_time": 1682959524,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92340,
-      "num": 90200,
-      "word": "陈都灵提灯花絮vs正片",
-      "onboard_time": 1682983340,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 90632,
