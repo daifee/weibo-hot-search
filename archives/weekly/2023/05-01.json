@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683044547789,
+  "endTime": 1683045466497,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1243728,
+      "num": 1243728,
+      "word": "疑拉萨客栈杀人案受害者家属发声",
+      "onboard_time": 1683041559,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1209155,
       "num": 1209155,
       "word": "史上最挤五一档却没带火电影院",
@@ -425,14 +433,6 @@
       "onboard_time": 1682915309,
       "rank": 21,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 1129526,
-      "num": 1129526,
-      "word": "疑拉萨客栈杀人案受害者家属发声",
-      "onboard_time": 1683041559,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1110513,
@@ -1868,7 +1868,7 @@
     },
     {
       "raw_hot": 293855,
-      "num": 200683,
+      "num": 201664,
       "word": "85后单身女子买完房后降薪了",
       "onboard_time": 1683041316,
       "rank": 20,
@@ -2393,6 +2393,14 @@
       "onboard_time": 1682910748,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239816,
+      "num": 239816,
+      "word": "情绪低落时的解压方式",
+      "onboard_time": 1683042930,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 239621,
@@ -3043,14 +3051,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 200583,
-      "num": 200583,
-      "word": "情绪低落时的解压方式",
-      "onboard_time": 1683042930,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200510,
       "num": 200510,
       "word": "毛雪汪谈月经羞耻",
@@ -3411,6 +3411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177974,
+      "num": 177974,
+      "word": "丁程鑫演唱会舞台饭拍",
+      "onboard_time": 1683044068,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177374,
       "num": 177374,
       "word": "湖人勇士谁能晋级西部决赛",
@@ -3531,6 +3539,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171817,
+      "num": 171817,
+      "word": "MSI",
+      "onboard_time": 1683042271,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170652,
       "num": 170652,
       "word": "朝俞",
@@ -3545,6 +3561,14 @@
       "onboard_time": 1683008249,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170162,
+      "num": 139078,
+      "word": "第一次给朋友暖房时的幸福感",
+      "onboard_time": 1683044132,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 169910,
@@ -3737,14 +3761,6 @@
       "onboard_time": 1683016168,
       "rank": 44,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 161609,
-      "num": 161609,
-      "word": "MSI",
-      "onboard_time": 1683042271,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 161288,
@@ -4139,6 +4155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132758,
+      "num": 132758,
+      "word": "等比例放大的花花",
+      "onboard_time": 1683044249,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132555,
       "num": 132555,
       "word": "Hero晋级败者组第三轮",
@@ -4273,6 +4297,14 @@
       "onboard_time": 1682915908,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126827,
+      "num": 126827,
+      "word": "淄博会如何影响中国的未来",
+      "onboard_time": 1683044370,
+      "rank": 47,
+      "category": "社会议题"
     },
     {
       "raw_hot": 126694,
@@ -4419,14 +4451,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 117292,
-      "num": 117292,
-      "word": "第一次给朋友暖房时的幸福感",
-      "onboard_time": 1683044132,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114856,
       "num": 114856,
       "word": "张杰问下一个十五年曜一起吗",
@@ -4508,19 +4532,11 @@
     },
     {
       "raw_hot": 109527,
-      "num": 109527,
+      "num": 111138,
       "word": "导演说王一博演雷宇入戏快",
       "onboard_time": 1683038864,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 109481,
-      "num": 109481,
-      "word": "丁程鑫演唱会舞台饭拍",
-      "onboard_time": 1683044068,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 108667,
@@ -4548,7 +4564,7 @@
     },
     {
       "raw_hot": 104214,
-      "num": 104214,
+      "num": 112220,
       "word": "仪式感挺好但有点社死",
       "onboard_time": 1683041672,
       "rank": 39,
@@ -4576,6 +4592,14 @@
       "word": "周深唱向光而行又暖又燃",
       "onboard_time": 1682961979,
       "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 101949,
+      "num": 121250,
+      "word": "我们真的在双向奔赴",
+      "onboard_time": 1683044847,
+      "rank": 37,
       "category": "音乐"
     },
     {
@@ -4665,22 +4689,6 @@
       "onboard_time": 1682983160,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87683,
-      "num": 87683,
-      "word": "等比例放大的花花",
-      "onboard_time": 1683044249,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 87639,
-      "num": 87639,
-      "word": "淄博会如何影响中国的未来",
-      "onboard_time": 1683044370,
-      "rank": 47,
-      "category": "社会议题"
     },
     {
       "raw_hot": 86616,
