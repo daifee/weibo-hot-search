@@ -1,7 +1,15 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1682998407453,
+  "endTime": 1683001204533,
   "band_list": [
+    {
+      "raw_hot": 5306384,
+      "num": 5306384,
+      "word": "五四放假通知",
+      "onboard_time": 1682998108,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 2913755,
       "num": 643698,
@@ -19,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1685404,
+      "num": 1685404,
+      "word": "VOGUE官方把蔡徐坤认成王嘉尔",
+      "onboard_time": 1682998288,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1595258,
       "num": 1595258,
       "word": "淄博0.85米志愿者喝着奶帮看行李",
@@ -32,6 +48,14 @@
       "word": "爽门",
       "onboard_time": 1682949099,
       "rank": 10,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1405868,
+      "num": 1405868,
+      "word": "云襄传313条人命案",
+      "onboard_time": 1682997988,
+      "rank": 18,
       "category": "影视"
     },
     {
@@ -123,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 838110,
+      "num": 838110,
+      "word": "我有种亲儿子中状元的狂喜",
+      "onboard_time": 1682995828,
+      "rank": 12,
+      "category": "幽默,影视"
+    },
+    {
       "raw_hot": 788619,
       "num": 788619,
       "word": "顺丰53岁员工猝死家属称公司拒担责",
@@ -155,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 757246,
+      "num": 757246,
+      "word": "宋慧乔Jennie合影",
+      "onboard_time": 1682995347,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 732188,
       "num": 732188,
       "word": "谷爱凌何超欣聚会",
@@ -179,12 +219,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 693288,
-      "num": 693288,
-      "word": "我有种亲儿子中状元的狂喜",
-      "onboard_time": 1682995828,
-      "rank": 12,
-      "category": "幽默,影视"
+      "raw_hot": 647767,
+      "num": 549182,
+      "word": "王一博偷偷流泪",
+      "onboard_time": 1682997927,
+      "rank": 19,
+      "category": "影视"
     },
     {
       "raw_hot": 626008,
@@ -216,14 +256,6 @@
       "word": "Met Gala",
       "onboard_time": 1682983460,
       "rank": 3,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 574417,
-      "num": 574417,
-      "word": "宋慧乔Jennie合影",
-      "onboard_time": 1682995347,
-      "rank": 11,
       "category": "作品衍生,时尚"
     },
     {
@@ -281,6 +313,14 @@
       "onboard_time": 1682994809,
       "rank": 45,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 442310,
+      "num": 288334,
+      "word": "光遇",
+      "onboard_time": 1683000625,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 438044,
@@ -355,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376210,
+      "num": 376210,
+      "word": "我是当事人 我没有插队",
+      "onboard_time": 1683000868,
+      "rank": 17,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 375855,
       "num": 375855,
       "word": "狂飙后又迎来了漫长的季节",
@@ -369,14 +417,6 @@
       "onboard_time": 1682952695,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 348071,
-      "num": 348071,
-      "word": "云襄传313条人命案",
-      "onboard_time": 1682997988,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 344509,
@@ -419,14 +459,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 331472,
-      "num": 331472,
-      "word": "王一博偷偷流泪",
-      "onboard_time": 1682997927,
-      "rank": 19,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325198,
       "num": 325198,
       "word": "黄景瑜走路气场",
@@ -459,12 +491,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 289992,
-      "num": 289992,
-      "word": "VOGUE官方把蔡徐坤认成王嘉尔",
-      "onboard_time": 1682998288,
-      "rank": 25,
-      "category": "作品衍生,时尚"
+      "raw_hot": 290697,
+      "num": 288334,
+      "word": "言承旭徐若晗二搭",
+      "onboard_time": 1682999128,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 288452,
+      "num": 288452,
+      "word": "保罗回更衣室了",
+      "onboard_time": 1682999428,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 278802,
@@ -515,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261841,
-      "num": 261841,
-      "word": "五四放假通知",
-      "onboard_time": 1682998108,
-      "rank": 31,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 260677,
       "num": 260677,
       "word": "挖呀挖呀挖",
@@ -547,6 +579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 228945,
+      "num": 228945,
+      "word": "陈晓从梦华录被追杀到云襄传",
+      "onboard_time": 1682999010,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 223977,
       "num": 223977,
       "word": "性骚扰怎么取证",
@@ -563,6 +603,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 222146,
+      "num": 222146,
+      "word": "南京一烤鸭店生意太好老板满脸愁容",
+      "onboard_time": 1682997988,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220908,
+      "num": 220908,
+      "word": "普通话考试也太尴尬了吧",
+      "onboard_time": 1683000028,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217721,
       "num": 217721,
       "word": "官方通报哈尔滨一房屋私拆承重墙",
@@ -577,6 +633,14 @@
       "onboard_time": 1682988868,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214525,
+      "num": 214525,
+      "word": "从旁边队伍平移过来算插队吗",
+      "onboard_time": 1683000507,
+      "rank": 34,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 213399,
@@ -632,14 +696,6 @@
       "word": "多名游客在动物园发生冲突",
       "onboard_time": 1682984422,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193790,
-      "num": 193790,
-      "word": "南京一烤鸭店生意太好老板满脸愁容",
-      "onboard_time": 1682997988,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -811,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 154729,
+      "num": 154729,
+      "word": "Rihanna亮相Met Gala",
+      "onboard_time": 1682998888,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 153510,
       "num": 139898,
       "word": "王嘉尔MetGala",
@@ -835,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148621,
+      "num": 148621,
+      "word": "焦虑的人都有一个共同特征",
+      "onboard_time": 1682999368,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 148480,
       "num": 148480,
       "word": "NBA",
@@ -857,6 +929,14 @@
       "onboard_time": 1682965217,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139988,
+      "num": 139988,
+      "word": "太阳vs掘金",
+      "onboard_time": 1683000091,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 139019,
@@ -1217,6 +1297,14 @@
       "onboard_time": 1682940149,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30369,
+      "num": 1502886,
+      "word": "中国色彩闪耀太空",
+      "onboard_time": 1682999010,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28246,
