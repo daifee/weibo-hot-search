@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683011728030,
+  "endTime": 1683012805197,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -43,20 +43,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1795247,
+      "num": 1795247,
+      "word": "cp29 不检票",
+      "onboard_time": 1683004651,
+      "rank": 6,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1685404,
       "num": 1685404,
       "word": "VOGUE官方把蔡徐坤认成王嘉尔",
       "onboard_time": 1682998288,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1638345,
-      "num": 1638345,
-      "word": "cp29 不检票",
-      "onboard_time": 1683004651,
-      "rank": 6,
-      "category": "动漫"
     },
     {
       "raw_hot": 1595258,
@@ -635,6 +635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 294951,
+      "num": 294951,
+      "word": "女子淄博吃烧烤排不上队被热情投喂",
+      "onboard_time": 1683011906,
+      "rank": 20,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 290697,
       "num": 288334,
       "word": "言承旭徐若晗二搭",
@@ -819,8 +827,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 207558,
-      "num": 207558,
+      "raw_hot": 207852,
+      "num": 207852,
       "word": "真的不是不给萌兰种大树",
       "onboard_time": 1683005489,
       "rank": 49,
@@ -891,6 +899,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198168,
+      "num": 198168,
+      "word": "卿卿日常三少主在云襄传当杀手",
+      "onboard_time": 1683011727,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195162,
+      "num": 195162,
+      "word": "时代少年团演唱会灯光秀",
+      "onboard_time": 1683009928,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193641,
       "num": 193641,
       "word": "蔡徐坤和猫咪对视",
@@ -905,14 +929,6 @@
       "onboard_time": 1683007408,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190652,
-      "num": 190652,
-      "word": "时代少年团演唱会灯光秀",
-      "onboard_time": 1683009928,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 189743,
@@ -937,6 +953,14 @@
       "onboard_time": 1682943628,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188441,
+      "num": 188441,
+      "word": "什么词反过来还是原来的意思",
+      "onboard_time": 1683012029,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 183222,
@@ -969,6 +993,14 @@
       "onboard_time": 1682946511,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176869,
+      "num": 176869,
+      "word": "全世界只有我没去cp29",
+      "onboard_time": 1683011605,
+      "rank": 47,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 176832,
@@ -1035,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169638,
+      "num": 169638,
+      "word": "戚薇真的瘦了",
+      "onboard_time": 1683011605,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169191,
       "num": 169191,
       "word": "复盘长月烬明里的因果宿命",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1682996007,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166373,
+      "num": 166373,
+      "word": "告五人现场",
+      "onboard_time": 1683010768,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 166143,
@@ -1115,6 +1163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155495,
+      "num": 155495,
+      "word": "王源流星也为你落下来了巡演舞台",
+      "onboard_time": 1683011426,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 154729,
       "num": 154729,
       "word": "Rihanna亮相Met Gala",
@@ -1129,6 +1185,14 @@
       "onboard_time": 1682958985,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 153087,
+      "num": 153087,
+      "word": "用来玩的休息日 用来休息的休息日",
+      "onboard_time": 1683012267,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 150902,
@@ -1187,28 +1251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140365,
-      "num": 140365,
-      "word": "王源流星也为你落下来了巡演舞台",
-      "onboard_time": 1683011426,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 139019,
       "num": 139019,
       "word": "cp29横幅",
       "onboard_time": 1682985805,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 138183,
-      "num": 138183,
-      "word": "告五人现场",
-      "onboard_time": 1683010768,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 137165,
@@ -1307,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125186,
+      "num": 125186,
+      "word": "邢菲武庚纪妆造",
+      "onboard_time": 1683012629,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124932,
       "num": 124932,
       "word": "王国之泪",
@@ -1315,28 +1371,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 123741,
-      "num": 123741,
-      "word": "戚薇真的瘦了",
-      "onboard_time": 1683011605,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122183,
       "num": 122183,
       "word": "假期依然坚守岗位的劳动者",
       "onboard_time": 1682990670,
       "rank": 43,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 122121,
-      "num": 122121,
-      "word": "全世界只有我没去cp29",
-      "onboard_time": 1683011605,
-      "rank": 47,
-      "category": "动漫,网红"
     },
     {
       "raw_hot": 122019,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1682947590,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 60297,
+      "num": 124857,
+      "word": "102岁高祖母抱起7个月玄孙女",
+      "onboard_time": 1683012747,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52638,
