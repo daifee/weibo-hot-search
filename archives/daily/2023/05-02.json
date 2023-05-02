@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683022699452,
+  "endTime": 1683023616373,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -107,6 +107,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1384525,
+      "num": 1384525,
+      "word": "五名指控史航受害者发布联合声明",
+      "onboard_time": 1683020728,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1370995,
       "num": 1370995,
       "word": "五一的堵 逐渐离谱",
@@ -137,14 +145,6 @@
       "onboard_time": 1682985503,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1199166,
-      "num": 1199166,
-      "word": "五名指控史航受害者发布联合声明",
-      "onboard_time": 1683020728,
-      "rank": 3,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1079555,
@@ -315,8 +315,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 687165,
-      "num": 687165,
+      "raw_hot": 695943,
+      "num": 695943,
       "word": "陈乔恩工藤静香同框",
       "onboard_time": 1683018329,
       "rank": 28,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504350,
+      "num": 504350,
+      "word": "光与夜之恋 好像牛郎店",
+      "onboard_time": 1683019048,
+      "rank": 22,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 481507,
       "num": 481507,
       "word": "杨紫琼宋慧乔同框",
@@ -443,20 +451,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 458757,
-      "num": 458757,
-      "word": "光与夜之恋 好像牛郎店",
-      "onboard_time": 1683019048,
-      "rank": 22,
-      "category": "动漫,艺人"
-    },
-    {
       "raw_hot": 457194,
       "num": 457194,
       "word": "蔡徐坤MetGala红毯",
       "onboard_time": 1682983399,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 453538,
+      "num": 453538,
+      "word": "王一博拍合照憋不住笑了",
+      "onboard_time": 1683020187,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 452211,
@@ -561,14 +569,6 @@
       "onboard_time": 1682993788,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402494,
-      "num": 402494,
-      "word": "王一博拍合照憋不住笑了",
-      "onboard_time": 1683020187,
-      "rank": 16,
-      "category": "影视"
     },
     {
       "raw_hot": 399216,
@@ -747,6 +747,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304548,
+      "num": 304548,
+      "word": "种地吧",
+      "onboard_time": 1683023607,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 303578,
+      "num": 1294719,
+      "word": "游客给淄博一线工作人员送鲜花",
+      "onboard_time": 1683021029,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 303208,
       "num": 303208,
       "word": "卡琳娜",
@@ -883,6 +899,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 253863,
+      "num": 253863,
+      "word": "上海 二次元浓度",
+      "onboard_time": 1683022826,
+      "rank": 26,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 251394,
       "num": 251394,
       "word": "易烊千玺夕阳与影共舞视频",
@@ -891,12 +915,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 247399,
+      "num": 247399,
+      "word": "刘耀文困到化妆时在补觉",
+      "onboard_time": 1683022646,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246668,
       "num": 246668,
       "word": "刘雯第十一次MetGala",
       "onboard_time": 1682989648,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 243026,
+      "num": 243026,
+      "word": "btob",
+      "onboard_time": 1683022586,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 238581,
+      "num": 238581,
+      "word": "曾经看不起现在离不开的",
+      "onboard_time": 1683022346,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 237618,
@@ -963,20 +1011,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 223728,
-      "num": 1158807,
-      "word": "游客给淄博一线工作人员送鲜花",
-      "onboard_time": 1683021029,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 223580,
       "num": 223580,
       "word": "Jennie小美人鱼合影",
       "onboard_time": 1683017008,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 222800,
+      "num": 222800,
+      "word": "487",
+      "onboard_time": 1683022887,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 222303,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1683018687,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210094,
+      "num": 1255474,
+      "word": "淄博主打的就是一个走心",
+      "onboard_time": 1683020547,
+      "rank": 6,
+      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 209027,
@@ -1147,6 +1203,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 192770,
+      "num": 192770,
+      "word": "白术",
+      "onboard_time": 1683022948,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191222,
       "num": 191222,
       "word": "张真源渐变粉长裤",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1683012029,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187705,
+      "num": 187705,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1683023547,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 186673,
@@ -1339,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166300,
+      "num": 166300,
+      "word": "陈晓云襄传帅不过3秒",
+      "onboard_time": 1683023065,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 166143,
       "num": 132823,
       "word": "杜江身材",
@@ -1393,14 +1473,6 @@
       "onboard_time": 1682997328,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159040,
-      "num": 1158628,
-      "word": "淄博主打的就是一个走心",
-      "onboard_time": 1683020547,
-      "rank": 6,
-      "category": "幽默,社会新闻"
     },
     {
       "raw_hot": 158568,
@@ -1499,14 +1571,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147610,
-      "num": 147610,
-      "word": "曾经看不起现在离不开的",
-      "onboard_time": 1683022346,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 147192,
       "num": 147192,
       "word": "太阳vs掘金",
@@ -1515,28 +1579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146617,
-      "num": 146617,
-      "word": "btob",
-      "onboard_time": 1683022586,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 143066,
       "num": 132269,
       "word": "原来高手真的在民间",
       "onboard_time": 1682956647,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142116,
-      "num": 142116,
-      "word": "刘耀文困到化妆时在补觉",
-      "onboard_time": 1683022646,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 141231,
