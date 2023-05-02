@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683015665128,
+  "endTime": 1683016429407,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2248753,
-      "num": 2248753,
+      "raw_hot": 2620491,
+      "num": 2620491,
       "word": "华晨宇 红色婚纱",
       "onboard_time": 1683013465,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1735874,
+      "num": 1735874,
+      "word": "女子淄博吃烧烤排不上队被热情投喂",
+      "onboard_time": 1683011906,
+      "rank": 20,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1685404,
       "num": 1685404,
       "word": "VOGUE官方把蔡徐坤认成王嘉尔",
@@ -73,14 +81,6 @@
       "onboard_time": 1682989707,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1571321,
-      "num": 1571321,
-      "word": "女子淄博吃烧烤排不上队被热情投喂",
-      "onboard_time": 1683011906,
-      "rank": 20,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1444858,
@@ -145,6 +145,14 @@
       "onboard_time": 1682943508,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1032685,
+      "num": 1032685,
+      "word": "胡锡进 把普通人这样发到网上太不应该",
+      "onboard_time": 1683012807,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1011057,
@@ -283,14 +291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 676635,
-      "num": 676635,
-      "word": "胡锡进 把普通人这样发到网上太不应该",
-      "onboard_time": 1683012807,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 671779,
       "num": 671779,
       "word": "王一博偷偷流泪",
@@ -339,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 580238,
+      "num": 580238,
+      "word": "禾野长啥样",
+      "onboard_time": 1683014066,
+      "rank": 8,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 579918,
       "num": 579918,
       "word": "Met Gala",
@@ -347,12 +355,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 575762,
-      "num": 575762,
-      "word": "禾野长啥样",
-      "onboard_time": 1683014066,
-      "rank": 8,
-      "category": "动漫,艺人"
+      "raw_hot": 531871,
+      "num": 441461,
+      "word": "秦始皇陵人挤人秦二世陵好冷清",
+      "onboard_time": 1683014368,
+      "rank": 13,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 519154,
@@ -499,14 +507,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 391639,
-      "num": 391639,
-      "word": "秦始皇陵人挤人秦二世陵好冷清",
-      "onboard_time": 1683014368,
-      "rank": 13,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 388983,
       "num": 388983,
       "word": "止庵 史航",
@@ -539,12 +539,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 360293,
+      "num": 360293,
+      "word": "要不要为了编制回小县城",
+      "onboard_time": 1683015087,
+      "rank": 34,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 355934,
       "num": 355934,
       "word": "一诺状态",
       "onboard_time": 1682952695,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 348881,
+      "num": 348881,
+      "word": "国产剧二五定律",
+      "onboard_time": 1683014486,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 346017,
@@ -675,14 +691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 293354,
-      "num": 293354,
-      "word": "国产剧二五定律",
-      "onboard_time": 1683014486,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 290697,
       "num": 288334,
       "word": "言承旭徐若晗二搭",
@@ -731,6 +739,14 @@
       "category": "艺人,情感"
     },
     {
+      "raw_hot": 266267,
+      "num": 266267,
+      "word": "戚薇真的瘦了",
+      "onboard_time": 1683011605,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263447,
       "num": 263447,
       "word": "男子救起落水男童问儿子帅不帅",
@@ -747,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261311,
-      "num": 261311,
-      "word": "戚薇真的瘦了",
-      "onboard_time": 1683011605,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260677,
       "num": 260677,
       "word": "挖呀挖呀挖",
@@ -769,6 +777,14 @@
       "onboard_time": 1682939008,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 255233,
+      "num": 255233,
+      "word": "中国成养育成本第二高国家",
+      "onboard_time": 1683016110,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251394,
@@ -881,6 +897,14 @@
       "onboard_time": 1682954908,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209027,
+      "num": 209027,
+      "word": "长空之王",
+      "onboard_time": 1683015684,
+      "rank": 30,
+      "category": "影视"
     },
     {
       "raw_hot": 207852,
@@ -1041,14 +1065,6 @@
       "onboard_time": 1682949099,
       "rank": 24,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181202,
-      "num": 181202,
-      "word": "要不要为了编制回小县城",
-      "onboard_time": 1683015087,
-      "rank": 34,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 179162,
@@ -1260,7 +1276,7 @@
     },
     {
       "raw_hot": 151839,
-      "num": 195095,
+      "num": 210934,
       "word": "102岁高祖母抱起7个月玄孙女",
       "onboard_time": 1683012747,
       "rank": 49,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1682982680,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130196,
+      "num": 130196,
+      "word": "杭州动物园大量游客乱投喂",
+      "onboard_time": 1683016168,
+      "rank": 44,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 129029,

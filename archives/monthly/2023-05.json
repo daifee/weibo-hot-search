@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683015665128,
+  "endTime": 1683016429407,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -59,6 +59,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2620491,
+      "num": 2620491,
+      "word": "华晨宇 红色婚纱",
+      "onboard_time": 1683013465,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2403488,
       "num": 2403488,
       "word": "史航回应性骚扰",
@@ -97,14 +105,6 @@
       "onboard_time": 1682915427,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2248753,
-      "num": 2248753,
-      "word": "华晨宇 红色婚纱",
-      "onboard_time": 1683013465,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 2161870,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1735874,
+      "num": 1735874,
+      "word": "女子淄博吃烧烤排不上队被热情投喂",
+      "onboard_time": 1683011906,
+      "rank": 20,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1695709,
       "num": 1695709,
       "word": "周杰伦 第一名",
@@ -225,14 +233,6 @@
       "onboard_time": 1682989707,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1571321,
-      "num": 1571321,
-      "word": "女子淄博吃烧烤排不上队被热情投喂",
-      "onboard_time": 1683011906,
-      "rank": 20,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1565743,
@@ -360,6 +360,14 @@
       "word": "警方不建议前往大唐不夜城",
       "onboard_time": 1682865150,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1032685,
+      "num": 1032685,
+      "word": "胡锡进 把普通人这样发到网上太不应该",
+      "onboard_time": 1683012807,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -603,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 676635,
-      "num": 676635,
-      "word": "胡锡进 把普通人这样发到网上太不应该",
-      "onboard_time": 1683012807,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 671779,
       "num": 671779,
       "word": "王一博偷偷流泪",
@@ -683,20 +683,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 580238,
+      "num": 580238,
+      "word": "禾野长啥样",
+      "onboard_time": 1683014066,
+      "rank": 8,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 579918,
       "num": 579918,
       "word": "Met Gala",
       "onboard_time": 1682983460,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 575762,
-      "num": 575762,
-      "word": "禾野长啥样",
-      "onboard_time": 1683014066,
-      "rank": 8,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 567767,
@@ -737,6 +737,14 @@
       "onboard_time": 1682946271,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 531871,
+      "num": 441461,
+      "word": "秦始皇陵人挤人秦二世陵好冷清",
+      "onboard_time": 1683014368,
+      "rank": 13,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 522836,
@@ -1083,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391639,
-      "num": 391639,
-      "word": "秦始皇陵人挤人秦二世陵好冷清",
-      "onboard_time": 1683014368,
-      "rank": 13,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 388983,
       "num": 388983,
       "word": "止庵 史航",
@@ -1129,6 +1129,22 @@
       "onboard_time": 1683005726,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 360293,
+      "num": 360293,
+      "word": "要不要为了编制回小县城",
+      "onboard_time": 1683015087,
+      "rank": 34,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 348881,
+      "num": 348881,
+      "word": "国产剧二五定律",
+      "onboard_time": 1683014486,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 347296,
@@ -1395,14 +1411,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 293354,
-      "num": 293354,
-      "word": "国产剧二五定律",
-      "onboard_time": 1683014486,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 292174,
       "num": 292174,
       "word": "eStar对战AG",
@@ -1579,6 +1587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266267,
+      "num": 266267,
+      "word": "戚薇真的瘦了",
+      "onboard_time": 1683011605,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264958,
       "num": 231636,
       "word": "王源说其实我妈在后台",
@@ -1603,14 +1619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 261311,
-      "num": 261311,
-      "word": "戚薇真的瘦了",
-      "onboard_time": 1683011605,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260677,
       "num": 260677,
       "word": "挖呀挖呀挖",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1682935647,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255233,
+      "num": 255233,
+      "word": "中国成养育成本第二高国家",
+      "onboard_time": 1683016110,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254444,
@@ -2163,6 +2179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209027,
+      "num": 209027,
+      "word": "长空之王",
+      "onboard_time": 1683015684,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 207852,
       "num": 207852,
       "word": "真的不是不给萌兰种大树",
@@ -2505,14 +2529,6 @@
       "onboard_time": 1682953650,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181202,
-      "num": 181202,
-      "word": "要不要为了编制回小县城",
-      "onboard_time": 1683015087,
-      "rank": 34,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 180931,
@@ -2956,7 +2972,7 @@
     },
     {
       "raw_hot": 151839,
-      "num": 195095,
+      "num": 210934,
       "word": "102岁高祖母抱起7个月玄孙女",
       "onboard_time": 1683012747,
       "rank": 49,
@@ -3241,6 +3257,14 @@
       "onboard_time": 1682918608,
       "rank": 39,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 130196,
+      "num": 130196,
+      "word": "杭州动物园大量游客乱投喂",
+      "onboard_time": 1683016168,
+      "rank": 44,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 129812,
