@@ -1,0 +1,410 @@
+{
+  "runTime": 1683030869226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1540932,
+        "num": 1540932,
+        "word": "妺女",
+        "onboard_time": 1683029489,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1447849,
+        "num": 1447849,
+        "word": "五四放假通知",
+        "onboard_time": 1682998108,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 20254,
+        "num": 1300947,
+        "word": "假期依然坚守岗位的劳动者",
+        "onboard_time": 1682990670,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1235358,
+        "num": 1235358,
+        "word": "至少已有12名发声者指控史航性骚扰",
+        "onboard_time": 1683028349,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 867730,
+        "num": 867730,
+        "word": "新娘互换手捧花发现是高中同学",
+        "onboard_time": 1683026247,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725772,
+        "num": 725772,
+        "word": "时代少年团演唱会直播",
+        "onboard_time": 1683023547,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 691338,
+        "num": 691338,
+        "word": "袁冰妍刘学义新剧即将上线",
+        "onboard_time": 1683027270,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 653194,
+        "num": 653194,
+        "word": "陈乔恩工藤静香同框",
+        "onboard_time": 1683018329,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544690,
+        "num": 544690,
+        "word": "要不要为了编制回小县城",
+        "onboard_time": 1683015087,
+        "rank": 8,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 509273,
+        "num": 509273,
+        "word": "华晨宇 红色婚纱",
+        "onboard_time": 1683013465,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2107333,
+        "num": 506685,
+        "word": "被老公催生二胎 每句话都好窒息",
+        "onboard_time": 1683025229,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1368791,
+        "num": 504748,
+        "word": "王诗龄被吐槽炫富",
+        "onboard_time": 1683029668,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487142,
+        "num": 487142,
+        "word": "女子淄博吃烧烤排不上队被热情投喂",
+        "onboard_time": 1683011906,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 473032,
+        "num": 473032,
+        "word": "景区称平移换队仍算插队",
+        "onboard_time": 1683028590,
+        "rank": 13,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 463226,
+        "num": 463226,
+        "word": "睡门永存",
+        "onboard_time": 1683027810,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407834,
+        "num": 407834,
+        "word": "韦德蔡徐坤共进晚宴",
+        "onboard_time": 1683026068,
+        "rank": 15,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 366086,
+        "num": 366086,
+        "word": "公冶寂无妺女吻戏",
+        "onboard_time": 1683029668,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348299,
+        "num": 348299,
+        "word": "千万别拿街头给的纸巾",
+        "onboard_time": 1683026428,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339177,
+        "num": 339177,
+        "word": "傅卫军 助听器是偷来的",
+        "onboard_time": 1683028770,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338239,
+        "num": 338239,
+        "word": "cp29 不检票",
+        "onboard_time": 1683004651,
+        "rank": 19,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 760028,
+        "num": 337313,
+        "word": "插队母女欠四川人一个道歉",
+        "onboard_time": 1682987666,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703123,
+        "num": 337222,
+        "word": "胡锡进 把普通人这样发到网上太不应该",
+        "onboard_time": 1683012807,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599736,
+        "num": 335815,
+        "word": "我是当事人 我没有插队",
+        "onboard_time": 1683000868,
+        "rank": 22,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 328822,
+        "num": 328822,
+        "word": "长月烬明第37集预告",
+        "onboard_time": 1683024387,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 311965,
+        "num": 311965,
+        "word": "年收入二十万是怎样的水平",
+        "onboard_time": 1682989469,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 297979,
+        "num": 297979,
+        "word": "暴雨大暴雨要来了",
+        "onboard_time": 1682985565,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284899,
+        "num": 284899,
+        "word": "见面真的太重要了",
+        "onboard_time": 1683029369,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280668,
+        "num": 280668,
+        "word": "淄博0.85米志愿者喝着奶帮看行李",
+        "onboard_time": 1682989707,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241879,
+        "num": 241879,
+        "word": "这个五一让我明白了假期的意义",
+        "onboard_time": 1683023727,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166601,
+        "num": 235935,
+        "word": "被蜱虫叮咬后不要随意拔",
+        "onboard_time": 1683028171,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235606,
+        "num": 235606,
+        "word": "上海 二次元浓度",
+        "onboard_time": 1683022826,
+        "rank": 30,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 226705,
+        "num": 226705,
+        "word": "誓约",
+        "onboard_time": 1683030209,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207606,
+        "num": 207606,
+        "word": "禾野长啥样",
+        "onboard_time": 1683014066,
+        "rank": 32,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 204692,
+        "num": 204692,
+        "word": "因为发朋友圈被说找存在感",
+        "onboard_time": 1683027029,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201204,
+        "num": 201204,
+        "word": "严浩翔演唱会造型",
+        "onboard_time": 1683030811,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193433,
+        "num": 196452,
+        "word": "杨同学 请到派出所领取作业本",
+        "onboard_time": 1683027750,
+        "rank": 35,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 196153,
+        "num": 196153,
+        "word": "CP29王者局",
+        "onboard_time": 1683030449,
+        "rank": 36,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 185776,
+        "num": 185776,
+        "word": "二十多岁谈一场恋爱有多难",
+        "onboard_time": 1683016528,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182955,
+        "num": 182955,
+        "word": "aespa回归",
+        "onboard_time": 1683026368,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178830,
+        "num": 178830,
+        "word": "光靠工资你存多久才能买房",
+        "onboard_time": 1683015986,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194988,
+        "num": 178677,
+        "word": "光与夜之恋 好像牛郎店",
+        "onboard_time": 1683019048,
+        "rank": 40,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 177864,
+        "num": 177864,
+        "word": "秦始皇陵人挤人秦二世陵好冷清",
+        "onboard_time": 1683014368,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 174442,
+        "num": 174442,
+        "word": "杨紫琼王嘉尔牵手",
+        "onboard_time": 1683003391,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166915,
+        "num": 166915,
+        "word": "白术",
+        "onboard_time": 1683022948,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160074,
+        "num": 160074,
+        "word": "王一博让卜钰拉自己进试飞小队群",
+        "onboard_time": 1683026728,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157066,
+        "num": 157066,
+        "word": "种地吧十个勤天直播卖花",
+        "onboard_time": 1683026188,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152089,
+        "num": 152089,
+        "word": "罗云熙给陈晓新剧做宣传",
+        "onboard_time": 1683027029,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144220,
+        "num": 144220,
+        "word": "Jennie小美人鱼合影",
+        "onboard_time": 1683017008,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142458,
+        "num": 142458,
+        "word": "种地吧",
+        "onboard_time": 1683023607,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131778,
+        "num": 131778,
+        "word": "五一的堵 逐渐离谱",
+        "onboard_time": 1682949452,
+        "rank": 49,
+        "category": "幽默,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记这样谈劳模精神#"
+    }
+  }
+}
