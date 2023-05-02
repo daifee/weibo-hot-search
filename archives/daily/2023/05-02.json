@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683031814432,
+  "endTime": 1683033659345,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -9,6 +9,14 @@
       "onboard_time": 1682998108,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 3328802,
+      "num": 2412372,
+      "word": "妺女",
+      "onboard_time": 1683029489,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2913755,
@@ -25,14 +33,6 @@
       "onboard_time": 1683013465,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2412372,
-      "num": 2412372,
-      "word": "妺女",
-      "onboard_time": 1683029489,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 2161870,
@@ -75,6 +75,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1880999,
+      "num": 545860,
+      "word": "王诗龄被吐槽炫富",
+      "onboard_time": 1683029668,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1804705,
       "num": 1804705,
       "word": "杨紫琼王嘉尔牵手",
@@ -89,14 +97,6 @@
       "onboard_time": 1683004651,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1694916,
-      "num": 504748,
-      "word": "王诗龄被吐槽炫富",
-      "onboard_time": 1683029668,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1685404,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1483672,
+      "num": 1483672,
+      "word": "严浩翔姐姐",
+      "onboard_time": 1683032372,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1444858,
       "num": 500355,
       "word": "爽门",
@@ -129,6 +137,14 @@
       "onboard_time": 1682997988,
       "rank": 18,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1402153,
+      "num": 1235358,
+      "word": "至少已有12名发声者指控史航性骚扰",
+      "onboard_time": 1683028349,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1384525,
@@ -169,14 +185,6 @@
       "onboard_time": 1682985503,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1235358,
-      "num": 1235358,
-      "word": "至少已有12名发声者指控史航性骚扰",
-      "onboard_time": 1683028349,
-      "rank": 3,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1079555,
@@ -387,12 +395,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 684667,
+      "num": 684667,
+      "word": "宋亚轩 小王子",
+      "onboard_time": 1683032493,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 671779,
       "num": 671779,
       "word": "王一博偷偷流泪",
       "onboard_time": 1682997927,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 652879,
+      "num": 652879,
+      "word": "见面真的太重要了",
+      "onboard_time": 1683029369,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 626008,
@@ -425,6 +449,14 @@
       "onboard_time": 1682955688,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606876,
+      "num": 606876,
+      "word": "向太直播将送百台车",
+      "onboard_time": 1683031894,
+      "rank": 8,
+      "category": "网红"
     },
     {
       "raw_hot": 606499,
@@ -595,14 +627,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 435084,
-      "num": 435084,
-      "word": "见面真的太重要了",
-      "onboard_time": 1683029369,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 432930,
       "num": 432930,
       "word": "斯马特垫脚哈登",
@@ -715,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384620,
+      "num": 384620,
+      "word": "亲亲爱",
+      "onboard_time": 1683031530,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 375855,
       "num": 375855,
       "word": "狂飙后又迎来了漫长的季节",
@@ -753,6 +785,14 @@
       "onboard_time": 1683016588,
       "rank": 17,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 356021,
+      "num": 356021,
+      "word": "生二胎对女性身体的影响有多大",
+      "onboard_time": 1683032851,
+      "rank": 19,
+      "category": "社会议题"
     },
     {
       "raw_hot": 355934,
@@ -875,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 315739,
+      "num": 315739,
+      "word": "2023年韩国名人福布斯排行榜",
+      "onboard_time": 1683032010,
+      "rank": 25,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 309824,
       "num": 257938,
       "word": "长空之王为什么有感情戏",
@@ -937,6 +985,14 @@
       "onboard_time": 1682999128,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282195,
+      "num": 282195,
+      "word": "刘耀文ending在发光",
+      "onboard_time": 1683031653,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 278802,
@@ -1041,14 +1097,6 @@
       "onboard_time": 1682950952,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261402,
-      "num": 261402,
-      "word": "亲亲爱",
-      "onboard_time": 1683031530,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 260677,
@@ -1179,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232578,
+      "num": 232578,
+      "word": "网友合肥街头偶遇吴京遛娃",
+      "onboard_time": 1683032972,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228962,
       "num": 228962,
       "word": "南京一烤鸭店生意太好老板满脸愁容",
@@ -1243,6 +1299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222386,
+      "num": 222386,
+      "word": "落花时节又逢君",
+      "onboard_time": 1683032610,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222303,
       "num": 222303,
       "word": "你的存款属于什么级别",
@@ -1281,14 +1345,6 @@
       "onboard_time": 1683015986,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217068,
-      "num": 217068,
-      "word": "刘耀文ending在发光",
-      "onboard_time": 1683031653,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 215930,
@@ -1451,6 +1507,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 192579,
+      "num": 431631,
+      "word": "被蜱虫叮咬后不要随意拔",
+      "onboard_time": 1683028171,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191222,
       "num": 191222,
       "word": "张真源渐变粉长裤",
@@ -1499,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186739,
+      "num": 186739,
+      "word": "李健太湖湾音乐节",
+      "onboard_time": 1683033455,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183222,
       "num": 183222,
       "word": "掘金2比0太阳",
@@ -1513,6 +1585,14 @@
       "onboard_time": 1682949099,
       "rank": 24,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180958,
+      "num": 180958,
+      "word": "RW",
+      "onboard_time": 1683032372,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 179305,
@@ -1531,6 +1611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178445,
+      "num": 178445,
+      "word": "性骚扰和性欲没有太大关系",
+      "onboard_time": 1683033030,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178340,
       "num": 178340,
       "word": "千万不要随便叫别人宝贝",
@@ -1545,14 +1633,6 @@
       "onboard_time": 1683011605,
       "rank": 47,
       "category": "动漫,网红"
-    },
-    {
-      "raw_hot": 176858,
-      "num": 243263,
-      "word": "被蜱虫叮咬后不要随意拔",
-      "onboard_time": 1683028171,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176832,
@@ -1659,6 +1739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167527,
+      "num": 167527,
+      "word": "马嘉祺演唱会高音",
+      "onboard_time": 1683033093,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166373,
       "num": 166373,
       "word": "告五人现场",
@@ -1737,6 +1825,14 @@
       "onboard_time": 1682997328,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 159087,
+      "num": 159087,
+      "word": "找好朋友做伴娘闹到绝交",
+      "onboard_time": 1683033634,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 158568,
@@ -2297,6 +2393,14 @@
       "onboard_time": 1682967733,
       "rank": 49,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 6709,
+      "num": 1159397,
+      "word": "深地一号超深井放喷测试点火现场",
+      "onboard_time": 1683033575,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
