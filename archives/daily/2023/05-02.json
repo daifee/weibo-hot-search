@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683036965632,
+  "endTime": 1683037998481,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -139,6 +139,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1437237,
+      "num": 1437237,
+      "word": "破音",
+      "onboard_time": 1683034361,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1405868,
       "num": 1405868,
       "word": "云襄传313条人命案",
@@ -179,14 +187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1304168,
-      "num": 1304168,
-      "word": "破音",
-      "onboard_time": 1683034361,
-      "rank": 46,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 1291834,
       "num": 1271511,
       "word": "白敬亭宋轶主打一个陪伴",
@@ -195,8 +195,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1146158,
-      "num": 1146158,
+      "raw_hot": 1181137,
+      "num": 1181137,
       "word": "性骚扰和性欲没有太大关系",
       "onboard_time": 1683033030,
       "rank": 45,
@@ -219,20 +219,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1056730,
+      "num": 661697,
+      "word": "黄子韬一年瘦了40多斤",
+      "onboard_time": 1683034420,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1032685,
       "num": 1032685,
       "word": "胡锡进 把普通人这样发到网上太不应该",
       "onboard_time": 1683012807,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1031971,
-      "num": 640927,
-      "word": "黄子韬一年瘦了40多斤",
-      "onboard_time": 1683034420,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1011057,
@@ -483,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 659176,
+      "num": 659176,
+      "word": "中控",
+      "onboard_time": 1683036104,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 626008,
       "num": 626008,
       "word": "禾野cp29",
@@ -561,6 +569,14 @@
       "onboard_time": 1683014368,
       "rank": 13,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 523893,
+      "num": 523893,
+      "word": "时代少年团演唱会上座率",
+      "onboard_time": 1683035617,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 519154,
@@ -649,14 +665,6 @@
       "onboard_time": 1682994627,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 448112,
-      "num": 448112,
-      "word": "时代少年团演唱会上座率",
-      "onboard_time": 1683035617,
-      "rank": 15,
-      "category": "音乐"
     },
     {
       "raw_hot": 445030,
@@ -1003,6 +1011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314149,
+      "num": 314149,
+      "word": "盛夏光年",
+      "onboard_time": 1683035859,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 309824,
       "num": 257938,
       "word": "长空之王为什么有感情戏",
@@ -1067,6 +1083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 292812,
+      "num": 292812,
+      "word": "丁程鑫露腰",
+      "onboard_time": 1683034961,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290697,
       "num": 288334,
       "word": "言承旭徐若晗二搭",
@@ -1083,12 +1107,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282534,
-      "num": 282534,
-      "word": "丁程鑫露腰",
-      "onboard_time": 1683034961,
-      "rank": 30,
-      "category": "音乐"
+      "raw_hot": 286173,
+      "num": 286173,
+      "word": "男子凌晨三点排队取的号被女士占了",
+      "onboard_time": 1683037241,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278802,
@@ -1147,14 +1171,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 270012,
-      "num": 270012,
-      "word": "中控",
-      "onboard_time": 1683036104,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 269956,
       "num": 269956,
       "word": "陈晓毛晓彤十年前vs十年后",
@@ -1163,20 +1179,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 269693,
+      "num": 269693,
+      "word": "这个五一让我明白了假期的意义",
+      "onboard_time": 1683023727,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268961,
       "num": 268961,
       "word": "艺人和粉丝的关系",
       "onboard_time": 1682990007,
       "rank": 30,
       "category": "艺人,情感"
-    },
-    {
-      "raw_hot": 267348,
-      "num": 267348,
-      "word": "这个五一让我明白了假期的意义",
-      "onboard_time": 1683023727,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 266267,
@@ -1299,14 +1315,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 244006,
-      "num": 244006,
-      "word": "盛夏光年",
-      "onboard_time": 1683035859,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 243026,
       "num": 243026,
       "word": "btob",
@@ -1353,6 +1361,22 @@
       "onboard_time": 1683018268,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235788,
+      "num": 235788,
+      "word": "无畏",
+      "onboard_time": 1683037000,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 235618,
+      "num": 235618,
+      "word": "刘耀文 帅",
+      "onboard_time": 1683037481,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 233930,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1683015986,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216481,
+      "num": 216481,
+      "word": "沈梓捷",
+      "onboard_time": 1683037542,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 215930,
@@ -1659,6 +1691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191580,
+      "num": 191580,
+      "word": "浙江男篮2比2深圳男篮",
+      "onboard_time": 1683037721,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191222,
       "num": 191222,
       "word": "张真源渐变粉长裤",
@@ -1713,6 +1753,14 @@
       "onboard_time": 1683012029,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187979,
+      "num": 187979,
+      "word": "认识十年的朋友突然消失了",
+      "onboard_time": 1683037421,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 186739,
@@ -1849,6 +1897,14 @@
       "onboard_time": 1682997448,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169206,
+      "num": 169206,
+      "word": "剧院魅影",
+      "onboard_time": 1683037967,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 169191,
@@ -2252,7 +2308,7 @@
     },
     {
       "raw_hot": 118825,
-      "num": 1159397,
+      "num": 1181354,
       "word": "深地一号超深井放喷测试点火现场",
       "onboard_time": 1683033575,
       "rank": 2,
