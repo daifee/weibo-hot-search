@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683030869226,
+  "endTime": 1683031814432,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -25,6 +25,14 @@
       "onboard_time": 1683013465,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2412372,
+      "num": 2412372,
+      "word": "妺女",
+      "onboard_time": 1683029489,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 2161870,
@@ -83,6 +91,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1694916,
+      "num": 504748,
+      "word": "王诗龄被吐槽炫富",
+      "onboard_time": 1683029668,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1685404,
       "num": 1685404,
       "word": "VOGUE官方把蔡徐坤认成王嘉尔",
@@ -97,14 +113,6 @@
       "onboard_time": 1682989707,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1540932,
-      "num": 1540932,
-      "word": "妺女",
-      "onboard_time": 1683029489,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1444858,
@@ -137,14 +145,6 @@
       "onboard_time": 1682949452,
       "rank": 7,
       "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 1368791,
-      "num": 504748,
-      "word": "王诗龄被吐槽炫富",
-      "onboard_time": 1683029668,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1310863,
@@ -233,6 +233,14 @@
       "onboard_time": 1683004228,
       "rank": 4,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 908300,
+      "num": 908300,
+      "word": "时代少年团演唱会直播",
+      "onboard_time": 1683023547,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 906817,
@@ -339,20 +347,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 725772,
-      "num": 725772,
-      "word": "时代少年团演唱会直播",
-      "onboard_time": 1683023547,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 718264,
       "num": 718264,
       "word": "73岁大爷头婚娶69岁大妈",
       "onboard_time": 1682957188,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 713981,
+      "num": 713981,
+      "word": "袁冰妍刘学义新剧即将上线",
+      "onboard_time": 1683027270,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 703689,
@@ -379,14 +387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 691338,
-      "num": 691338,
-      "word": "袁冰妍刘学义新剧即将上线",
-      "onboard_time": 1683027270,
-      "rank": 6,
-      "category": "影视"
-    },
-    {
       "raw_hot": 671779,
       "num": 671779,
       "word": "王一博偷偷流泪",
@@ -409,6 +409,14 @@
       "onboard_time": 1682993129,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 618360,
+      "num": 618360,
+      "word": "睡门永存",
+      "onboard_time": 1683027810,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 617743,
@@ -515,14 +523,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 463226,
-      "num": 463226,
-      "word": "睡门永存",
-      "onboard_time": 1683027810,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 459727,
       "num": 459727,
       "word": "张真源把背心剪了",
@@ -593,6 +593,14 @@
       "onboard_time": 1682989406,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 435084,
+      "num": 435084,
+      "word": "见面真的太重要了",
+      "onboard_time": 1683029369,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 432930,
@@ -723,6 +731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 367306,
+      "num": 367306,
+      "word": "千万别拿街头给的纸巾",
+      "onboard_time": 1683026428,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 366086,
       "num": 366086,
       "word": "公冶寂无妺女吻戏",
@@ -753,14 +769,6 @@
       "onboard_time": 1683014486,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 348299,
-      "num": 348299,
-      "word": "千万别拿街头给的纸巾",
-      "onboard_time": 1683026428,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 346017,
@@ -931,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 284899,
-      "num": 284899,
-      "word": "见面真的太重要了",
-      "onboard_time": 1683029369,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 278802,
       "num": 278802,
       "word": "瑞幸咖啡一季度营业利润达6.78亿元",
@@ -953,6 +953,14 @@
       "onboard_time": 1683022948,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277565,
+      "num": 277565,
+      "word": "严浩翔演唱会造型",
+      "onboard_time": 1683030811,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 277430,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1682950952,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261402,
+      "num": 261402,
+      "word": "亲亲爱",
+      "onboard_time": 1683031530,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 260677,
@@ -1187,6 +1203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225188,
+      "num": 225188,
+      "word": "因为发朋友圈被说找存在感",
+      "onboard_time": 1683027029,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223977,
       "num": 223977,
       "word": "性骚扰怎么取证",
@@ -1259,6 +1283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217068,
+      "num": 217068,
+      "word": "刘耀文ending在发光",
+      "onboard_time": 1683031653,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215930,
       "num": 215930,
       "word": "陈楚生说魔都真的挺燥的",
@@ -1323,14 +1355,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 204692,
-      "num": 204692,
-      "word": "因为发朋友圈被说找存在感",
-      "onboard_time": 1683027029,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 203978,
       "num": 203978,
       "word": "宫胁咲良仪态变化",
@@ -1339,20 +1363,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 202692,
+      "num": 202692,
+      "word": "杨同学 请到派出所领取作业本",
+      "onboard_time": 1683027750,
+      "rank": 35,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 201594,
       "num": 201594,
       "word": "淄博",
       "onboard_time": 1682995649,
       "rank": 37,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 201204,
-      "num": 201204,
-      "word": "严浩翔演唱会造型",
-      "onboard_time": 1683030811,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 200592,
@@ -1427,14 +1451,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 193433,
-      "num": 196452,
-      "word": "杨同学 请到派出所领取作业本",
-      "onboard_time": 1683027750,
-      "rank": 35,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 191222,
       "num": 191222,
       "word": "张真源渐变粉长裤",
@@ -1499,6 +1515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179305,
+      "num": 179305,
+      "word": "宋亚轩开场VCR",
+      "onboard_time": 1683031354,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179162,
       "num": 179162,
       "word": "窦靖童现场",
@@ -1523,6 +1547,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 176858,
+      "num": 243263,
+      "word": "被蜱虫叮咬后不要随意拔",
+      "onboard_time": 1683028171,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176832,
       "num": 176832,
       "word": "Rihanna山茶花开满身",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1682991327,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174900,
+      "num": 174900,
+      "word": "李飞吴彤海口会面",
+      "onboard_time": 1683031050,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 174847,
@@ -1595,6 +1635,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169055,
+      "num": 169055,
+      "word": "赵露思花园写真",
+      "onboard_time": 1683030992,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168905,
       "num": 168905,
       "word": "曾可妮腰线",
@@ -1609,14 +1657,6 @@
       "onboard_time": 1682996007,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166601,
-      "num": 235935,
-      "word": "被蜱虫叮咬后不要随意拔",
-      "onboard_time": 1683028171,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166373,
@@ -1664,6 +1704,14 @@
       "word": "蒋奇明",
       "onboard_time": 1683019709,
       "rank": 39,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 163298,
+      "num": 163298,
+      "word": "罗云熙给陈晓新剧做宣传",
+      "onboard_time": 1683027029,
+      "rank": 46,
       "category": "影视"
     },
     {
@@ -1731,12 +1779,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154754,
+      "num": 154754,
+      "word": "dou5",
+      "onboard_time": 1683031771,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154729,
       "num": 154729,
       "word": "Rihanna亮相Met Gala",
       "onboard_time": 1682998888,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154418,
+      "num": 154418,
+      "word": "全场审判沧九旻",
+      "onboard_time": 1683030509,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 153510,
@@ -1753,14 +1817,6 @@
       "onboard_time": 1683012267,
       "rank": 42,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 152089,
-      "num": 152089,
-      "word": "罗云熙给陈晓新剧做宣传",
-      "onboard_time": 1683027029,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 151839,
