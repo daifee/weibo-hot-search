@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683033659345,
+  "endTime": 1683034408376,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1941746,
+      "num": 679399,
+      "word": "王诗龄被吐槽炫富",
+      "onboard_time": 1683029668,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1941268,
       "num": 1941268,
       "word": "女子淄博吃烧烤排不上队被热情投喂",
@@ -73,14 +81,6 @@
       "onboard_time": 1683015087,
       "rank": 34,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 1880999,
-      "num": 545860,
-      "word": "王诗龄被吐槽炫富",
-      "onboard_time": 1683029668,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1804705,
@@ -99,6 +99,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1786876,
+      "num": 1786876,
+      "word": "严浩翔姐姐",
+      "onboard_time": 1683032372,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1685404,
       "num": 1685404,
       "word": "VOGUE官方把蔡徐坤认成王嘉尔",
@@ -115,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1483672,
-      "num": 1483672,
-      "word": "严浩翔姐姐",
-      "onboard_time": 1683032372,
-      "rank": 0,
-      "category": "音乐"
+      "raw_hot": 1471230,
+      "num": 1235358,
+      "word": "至少已有12名发声者指控史航性骚扰",
+      "onboard_time": 1683028349,
+      "rank": 3,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1444858,
@@ -137,14 +145,6 @@
       "onboard_time": 1682997988,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1402153,
-      "num": 1235358,
-      "word": "至少已有12名发声者指控史航性骚扰",
-      "onboard_time": 1683028349,
-      "rank": 3,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1384525,
@@ -216,6 +216,14 @@
       "word": "倪妮陈妍希",
       "onboard_time": 1682986284,
       "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 998690,
+      "num": 998690,
+      "word": "宋亚轩 小王子",
+      "onboard_time": 1683032493,
+      "rank": 6,
       "category": "音乐"
     },
     {
@@ -299,6 +307,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 815011,
+      "num": 734711,
+      "word": "史航",
+      "onboard_time": 1683033757,
+      "rank": 7,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 788619,
       "num": 788619,
       "word": "顺丰53岁员工猝死家属称公司拒担责",
@@ -363,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715187,
+      "num": 715187,
+      "word": "向太直播将送百台车",
+      "onboard_time": 1683031894,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 713981,
       "num": 713981,
       "word": "袁冰妍刘学义新剧即将上线",
       "onboard_time": 1683027270,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 708468,
+      "num": 708468,
+      "word": "见面真的太重要了",
+      "onboard_time": 1683029369,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 703689,
@@ -395,14 +427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 684667,
-      "num": 684667,
-      "word": "宋亚轩 小王子",
-      "onboard_time": 1683032493,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 671779,
       "num": 671779,
       "word": "王一博偷偷流泪",
@@ -411,12 +435,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 652879,
-      "num": 652879,
-      "word": "见面真的太重要了",
-      "onboard_time": 1683029369,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 646458,
+      "num": 646458,
+      "word": "生二胎对女性身体的影响有多大",
+      "onboard_time": 1683032851,
+      "rank": 19,
+      "category": "社会议题"
     },
     {
       "raw_hot": 626008,
@@ -449,14 +473,6 @@
       "onboard_time": 1682955688,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 606876,
-      "num": 606876,
-      "word": "向太直播将送百台车",
-      "onboard_time": 1683031894,
-      "rank": 8,
-      "category": "网红"
     },
     {
       "raw_hot": 606499,
@@ -627,6 +643,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 434663,
+      "num": 434663,
+      "word": "亲亲爱",
+      "onboard_time": 1683031530,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 432930,
       "num": 432930,
       "word": "斯马特垫脚哈登",
@@ -665,6 +689,14 @@
       "onboard_time": 1682932168,
       "rank": 12,
       "category": "影视"
+    },
+    {
+      "raw_hot": 419957,
+      "num": 419957,
+      "word": "性骚扰和性欲没有太大关系",
+      "onboard_time": 1683033030,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 416665,
@@ -739,11 +771,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 384620,
-      "num": 384620,
-      "word": "亲亲爱",
-      "onboard_time": 1683031530,
-      "rank": 28,
+      "raw_hot": 385568,
+      "num": 385568,
+      "word": "刘耀文ending在发光",
+      "onboard_time": 1683031653,
+      "rank": 32,
       "category": "音乐"
     },
     {
@@ -785,14 +817,6 @@
       "onboard_time": 1683016588,
       "rank": 17,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 356021,
-      "num": 356021,
-      "word": "生二胎对女性身体的影响有多大",
-      "onboard_time": 1683032851,
-      "rank": 19,
-      "category": "社会议题"
     },
     {
       "raw_hot": 355934,
@@ -907,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318094,
+      "num": 318094,
+      "word": "第五人格",
+      "onboard_time": 1683033934,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317372,
       "num": 317372,
       "word": "王一博让卜钰拉自己进试飞小队群",
@@ -987,12 +1019,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 282195,
-      "num": 282195,
-      "word": "刘耀文ending在发光",
-      "onboard_time": 1683031653,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 287930,
+      "num": 287930,
+      "word": "落花时节又逢君",
+      "onboard_time": 1683032610,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 278802,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1683009566,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272117,
+      "num": 272117,
+      "word": "蔡徐坤耳坠特写镜头",
+      "onboard_time": 1683034057,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 269956,
@@ -1115,12 +1155,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 256255,
+      "num": 256255,
+      "word": "马嘉祺演唱会高音",
+      "onboard_time": 1683033093,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255480,
       "num": 255480,
       "word": "沧九旻受雷刑",
       "onboard_time": 1683025710,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 252150,
+      "num": 252150,
+      "word": "找好朋友做伴娘闹到绝交",
+      "onboard_time": 1683033634,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 251394,
@@ -1299,14 +1355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 222386,
-      "num": 222386,
-      "word": "落花时节又逢君",
-      "onboard_time": 1683032610,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 222303,
       "num": 222303,
       "word": "你的存款属于什么级别",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1683015684,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208896,
+      "num": 208896,
+      "word": "要你管",
+      "onboard_time": 1683034299,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 207852,
@@ -1515,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191307,
+      "num": 191307,
+      "word": "破音",
+      "onboard_time": 1683034361,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191222,
       "num": 191222,
       "word": "张真源渐变粉长裤",
@@ -1553,6 +1617,14 @@
       "onboard_time": 1682943628,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188749,
+      "num": 188749,
+      "word": "赵露思花园写真",
+      "onboard_time": 1683030992,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 188441,
@@ -1609,14 +1681,6 @@
       "onboard_time": 1682952991,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 178445,
-      "num": 178445,
-      "word": "性骚扰和性欲没有太大关系",
-      "onboard_time": 1683033030,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 178340,
@@ -1715,14 +1779,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169055,
-      "num": 169055,
-      "word": "赵露思花园写真",
-      "onboard_time": 1683030992,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168905,
       "num": 168905,
       "word": "曾可妮腰线",
@@ -1737,14 +1793,6 @@
       "onboard_time": 1682996007,
       "rank": 41,
       "category": "影视"
-    },
-    {
-      "raw_hot": 167527,
-      "num": 167527,
-      "word": "马嘉祺演唱会高音",
-      "onboard_time": 1683033093,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 166373,
@@ -1825,14 +1873,6 @@
       "onboard_time": 1682997328,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 159087,
-      "num": 159087,
-      "word": "找好朋友做伴娘闹到绝交",
-      "onboard_time": 1683033634,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 158568,
@@ -2323,6 +2363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75155,
+      "num": 1159397,
+      "word": "深地一号超深井放喷测试点火现场",
+      "onboard_time": 1683033575,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 74804,
       "num": 128955,
       "word": "上淄博公厕配肠炎宁片和卫生巾",
@@ -2393,14 +2441,6 @@
       "onboard_time": 1682967733,
       "rank": 49,
       "category": "体育,教育"
-    },
-    {
-      "raw_hot": 6709,
-      "num": 1159397,
-      "word": "深地一号超深井放喷测试点火现场",
-      "onboard_time": 1683033575,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
