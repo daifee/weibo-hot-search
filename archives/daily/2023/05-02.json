@@ -1,6 +1,6 @@
 {
   "startTime": 1682958146125,
-  "endTime": 1683012805197,
+  "endTime": 1683015665128,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -17,6 +17,14 @@
       "onboard_time": 1682987666,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2248753,
+      "num": 2248753,
+      "word": "华晨宇 红色婚纱",
+      "onboard_time": 1683013465,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 2161870,
@@ -65,6 +73,14 @@
       "onboard_time": 1682989707,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1571321,
+      "num": 1571321,
+      "word": "女子淄博吃烧烤排不上队被热情投喂",
+      "onboard_time": 1683011906,
+      "rank": 20,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1444858,
@@ -267,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 676635,
+      "num": 676635,
+      "word": "胡锡进 把普通人这样发到网上太不应该",
+      "onboard_time": 1683012807,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 671779,
       "num": 671779,
       "word": "王一博偷偷流泪",
@@ -321,6 +345,14 @@
       "onboard_time": 1682983460,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 575762,
+      "num": 575762,
+      "word": "禾野长啥样",
+      "onboard_time": 1683014066,
+      "rank": 8,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 519154,
@@ -465,6 +497,14 @@
       "onboard_time": 1683000507,
       "rank": 34,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 391639,
+      "num": 391639,
+      "word": "秦始皇陵人挤人秦二世陵好冷清",
+      "onboard_time": 1683014368,
+      "rank": 13,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 388983,
@@ -635,12 +675,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 294951,
-      "num": 294951,
-      "word": "女子淄博吃烧烤排不上队被热情投喂",
-      "onboard_time": 1683011906,
-      "rank": 20,
-      "category": "社会新闻,美食"
+      "raw_hot": 293354,
+      "num": 293354,
+      "word": "国产剧二五定律",
+      "onboard_time": 1683014486,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 290697,
@@ -707,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261311,
+      "num": 261311,
+      "word": "戚薇真的瘦了",
+      "onboard_time": 1683011605,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260677,
       "num": 260677,
       "word": "挖呀挖呀挖",
@@ -737,6 +785,14 @@
       "onboard_time": 1682989648,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 237618,
+      "num": 237618,
+      "word": "长空之王票房",
+      "onboard_time": 1683013525,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 233930,
@@ -859,6 +915,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 203978,
+      "num": 203978,
+      "word": "宫胁咲良仪态变化",
+      "onboard_time": 1683013707,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201594,
       "num": 201594,
       "word": "淄博",
@@ -979,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181202,
+      "num": 181202,
+      "word": "要不要为了编制回小县城",
+      "onboard_time": 1683015087,
+      "rank": 34,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 179162,
       "num": 179162,
       "word": "窦靖童现场",
@@ -1065,14 +1137,6 @@
       "onboard_time": 1682997448,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 169638,
-      "num": 169638,
-      "word": "戚薇真的瘦了",
-      "onboard_time": 1683011605,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 169191,
@@ -1193,6 +1257,14 @@
       "onboard_time": 1683012267,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 151839,
+      "num": 195095,
+      "word": "102岁高祖母抱起7个月玄孙女",
+      "onboard_time": 1683012747,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150902,
@@ -1619,14 +1691,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 60297,
-      "num": 124857,
-      "word": "102岁高祖母抱起7个月玄孙女",
-      "onboard_time": 1683012747,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52638,
       "num": 52638,
       "word": "理发师为顾客打造桂林山水发型",
@@ -1644,7 +1708,7 @@
     },
     {
       "raw_hot": 32790,
-      "num": 1813665,
+      "num": 1972435,
       "word": "中国色彩闪耀太空",
       "onboard_time": 1682999010,
       "rank": 2,
