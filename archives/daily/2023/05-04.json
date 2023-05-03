@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683141227146,
+  "endTime": 1683142407236,
   "band_list": [
     {
       "raw_hot": 1463595,
@@ -459,8 +459,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28240,
-      "num": 28240,
+      "raw_hot": 32401,
+      "num": 32401,
       "word": "通往群星的轨道",
       "onboard_time": 1683135736,
       "rank": 48,
