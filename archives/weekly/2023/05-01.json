@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683077029089,
+  "endTime": 1683078357764,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -387,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1298777,
+      "num": 298396,
+      "word": "工资3500突然变成了一万",
+      "onboard_time": 1683077008,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1292098,
       "num": 1292098,
       "word": "你目前月薪存一百万要多久",
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 1106709,
-      "num": 386071,
+      "num": 417947,
       "word": "林志玲状态",
       "onboard_time": 1683074788,
       "rank": 10,
@@ -667,6 +675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 828159,
+      "num": 828159,
+      "word": "东北商家回应钟薛高3.8元一根",
+      "onboard_time": 1683073946,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821953,
       "num": 471255,
       "word": "low",
@@ -843,14 +859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 690307,
-      "num": 385192,
-      "word": "东北商家回应钟薛高3.8元一根",
-      "onboard_time": 1683073946,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 685337,
       "num": 409840,
       "word": "蔡少芬曾说张丹峰坏坏的",
@@ -936,6 +944,14 @@
       "word": "饥饿游戏女演员 女王行为",
       "onboard_time": 1682929466,
       "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 593267,
+      "num": 593267,
+      "word": "长空之王对违规影院停止提供密钥",
+      "onboard_time": 1683075930,
+      "rank": 16,
       "category": "影视"
     },
     {
@@ -1275,6 +1291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 433741,
+      "num": 433741,
+      "word": "买个青蛙人偶去发疯",
+      "onboard_time": 1683074665,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 433560,
       "num": 428284,
       "word": "漫长的季节",
@@ -1547,14 +1571,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 368963,
-      "num": 368963,
-      "word": "买个青蛙人偶去发疯",
-      "onboard_time": 1683074665,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 367306,
       "num": 367306,
       "word": "千万别拿街头给的纸巾",
@@ -1577,6 +1593,14 @@
       "onboard_time": 1683016588,
       "rank": 17,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 364449,
+      "num": 364449,
+      "word": "美女幼师凭挖呀挖呀挖走红",
+      "onboard_time": 1683077310,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362845,
@@ -1707,14 +1731,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 325700,
-      "num": 325700,
-      "word": "长空之王对违规影院停止提供密钥",
-      "onboard_time": 1683075930,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 325198,
       "num": 325198,
       "word": "黄景瑜走路气场",
@@ -1787,6 +1803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 316270,
+      "num": 316270,
+      "word": "梅西被巴黎停赛两周",
+      "onboard_time": 1683069860,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315739,
       "num": 315739,
       "word": "2023年韩国名人福布斯排行榜",
@@ -1827,6 +1851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 311721,
+      "num": 296748,
+      "word": "这就是陈都灵流鼻血那场戏啊",
+      "onboard_time": 1683074548,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 310495,
       "num": 310495,
       "word": "飞机上你会如何称呼空姐",
@@ -1857,6 +1889,14 @@
       "onboard_time": 1682945909,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 307753,
+      "num": 307753,
+      "word": "周深说额头见到大家很高兴",
+      "onboard_time": 1683075328,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 307442,
@@ -1899,22 +1939,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 303039,
-      "num": 303039,
-      "word": "梅西被巴黎停赛两周",
-      "onboard_time": 1683069860,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 302563,
-      "num": 271490,
-      "word": "工资3500突然变成了一万",
-      "onboard_time": 1683077008,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "五一",
@@ -1953,14 +1977,6 @@
       "onboard_time": 1683005068,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 295765,
-      "num": 270932,
-      "word": "这就是陈都灵流鼻血那场戏啊",
-      "onboard_time": 1683074548,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 295567,
@@ -2075,8 +2091,16 @@
       "category": "影视"
     },
     {
-      "raw_hot": 279573,
-      "num": 269762,
+      "raw_hot": 281324,
+      "num": 281324,
+      "word": "湖人对战勇士",
+      "onboard_time": 1683076409,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280087,
+      "num": 280087,
       "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
       "onboard_time": 1683073946,
       "rank": 22,
@@ -2123,14 +2147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276119,
-      "num": 276119,
-      "word": "周深说额头见到大家很高兴",
-      "onboard_time": 1683075328,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 275432,
       "num": 275432,
       "word": "华语乐坛",
@@ -2145,14 +2161,6 @@
       "onboard_time": 1682932407,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273699,
-      "num": 273699,
-      "word": "湖人对战勇士",
-      "onboard_time": 1683076409,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 273308,
@@ -2217,6 +2225,14 @@
       "onboard_time": 1682990007,
       "rank": 30,
       "category": "艺人,情感"
+    },
+    {
+      "raw_hot": 267736,
+      "num": 267736,
+      "word": "插队",
+      "onboard_time": 1682947890,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267521,
@@ -2619,6 +2635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235816,
+      "num": 235816,
+      "word": "景区2天内捡了23个娃",
+      "onboard_time": 1683077670,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235788,
       "num": 235788,
       "word": "无畏",
@@ -2779,14 +2803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227841,
-      "num": 227841,
-      "word": "插队",
-      "onboard_time": 1682947890,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227519,
       "num": 227519,
       "word": "认识十年的朋友突然消失了",
@@ -2864,6 +2880,14 @@
       "word": "aespa回归",
       "onboard_time": 1683026368,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 222617,
+      "num": 222617,
+      "word": "时代少年团演唱会回放",
+      "onboard_time": 1683076049,
+      "rank": 27,
       "category": "音乐"
     },
     {
@@ -2961,14 +2985,6 @@
       "onboard_time": 1682925688,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 217603,
-      "num": 217603,
-      "word": "时代少年团演唱会回放",
-      "onboard_time": 1683076049,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 217570,
@@ -3459,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188448,
+      "num": 188448,
+      "word": "贾青链条裤子",
+      "onboard_time": 1683076290,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188441,
       "num": 188441,
       "word": "什么词反过来还是原来的意思",
@@ -3899,6 +3923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164188,
+      "num": 164188,
+      "word": "整列车厢回杭的娃都在赶作业",
+      "onboard_time": 1683075209,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164046,
       "num": 164046,
       "word": "专家称交换城市旅游有法律风险",
@@ -3963,6 +3995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162382,
+      "num": 162382,
+      "word": "杨洋同学会跳舞视频",
+      "onboard_time": 1683077491,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162273,
       "num": 162273,
       "word": "Jennie朴彩英确认出席Metgala",
@@ -4003,20 +4043,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160723,
+      "num": 160723,
+      "word": "宋亚轩斗舞",
+      "onboard_time": 1683076949,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 160513,
       "num": 160513,
       "word": "多家出版机构与史航解除合作",
       "onboard_time": 1682943328,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160383,
-      "num": 160383,
-      "word": "贾青链条裤子",
-      "onboard_time": 1683076290,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 159591,
@@ -4267,14 +4307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 145410,
-      "num": 145410,
-      "word": "整列车厢回杭的娃都在赶作业",
-      "onboard_time": 1683075209,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145105,
       "num": 145105,
       "word": "王源巡演广州站官宣",
@@ -4467,12 +4499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129389,
-      "num": 129389,
-      "word": "宋亚轩斗舞",
-      "onboard_time": 1683076949,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 129728,
+      "num": 129728,
+      "word": "老张你再骗我一次吧",
+      "onboard_time": 1683077189,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 129153,
@@ -4731,6 +4763,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 116805,
+      "num": 116805,
+      "word": "热火vs尼克斯",
+      "onboard_time": 1683078089,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115057,
       "num": 115057,
       "word": "张之臻马德里赛八强",
@@ -4843,6 +4883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 105584,
+      "num": 105584,
+      "word": "高叶淡妆生图",
+      "onboard_time": 1683076648,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 104836,
       "num": 104836,
       "word": "尤长靖 大连音乐节",
@@ -4865,14 +4913,6 @@
       "onboard_time": 1683041672,
       "rank": 39,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 102542,
-      "num": 102542,
-      "word": "高叶淡妆生图",
-      "onboard_time": 1683076648,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 102492,

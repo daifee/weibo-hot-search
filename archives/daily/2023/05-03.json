@@ -1,6 +1,6 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683077029089,
+  "endTime": 1683078357764,
   "band_list": [
     {
       "raw_hot": 2299452,
@@ -25,6 +25,14 @@
       "onboard_time": 1683042332,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1298777,
+      "num": 298396,
+      "word": "工资3500突然变成了一万",
+      "onboard_time": 1683077008,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 1269767,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1106709,
-      "num": 386071,
+      "num": 417947,
       "word": "林志玲状态",
       "onboard_time": 1683074788,
       "rank": 10,
@@ -83,6 +91,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 828159,
+      "num": 828159,
+      "word": "东北商家回应钟薛高3.8元一根",
+      "onboard_time": 1683073946,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 825259,
       "num": 825259,
       "word": "五四放假通知",
@@ -99,20 +115,20 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 690307,
-      "num": 385192,
-      "word": "东北商家回应钟薛高3.8元一根",
-      "onboard_time": 1683073946,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 598585,
       "num": 495416,
       "word": "王诗龄被吐槽炫富",
       "onboard_time": 1683029668,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593267,
+      "num": 593267,
+      "word": "长空之王对违规影院停止提供密钥",
+      "onboard_time": 1683075930,
+      "rank": 16,
+      "category": "影视"
     },
     {
       "raw_hot": 486213,
@@ -137,6 +153,14 @@
       "onboard_time": 1683066195,
       "rank": 22,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 433741,
+      "num": 433741,
+      "word": "买个青蛙人偶去发疯",
+      "onboard_time": 1683074665,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 422319,
@@ -171,12 +195,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 368963,
-      "num": 368963,
-      "word": "买个青蛙人偶去发疯",
-      "onboard_time": 1683074665,
-      "rank": 13,
-      "category": "幽默"
+      "raw_hot": 364449,
+      "num": 364449,
+      "word": "美女幼师凭挖呀挖呀挖走红",
+      "onboard_time": 1683077310,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362845,
@@ -203,20 +227,28 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 325700,
-      "num": 325700,
-      "word": "长空之王对违规影院停止提供密钥",
-      "onboard_time": 1683075930,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 319941,
       "num": 319941,
       "word": "五一上海外滩到底有多少人",
       "onboard_time": 1683041139,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 316270,
+      "num": 316270,
+      "word": "梅西被巴黎停赛两周",
+      "onboard_time": 1683069860,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 311721,
+      "num": 296748,
+      "word": "这就是陈都灵流鼻血那场戏啊",
+      "onboard_time": 1683074548,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 310591,
@@ -227,52 +259,36 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 303039,
-      "num": 303039,
-      "word": "梅西被巴黎停赛两周",
-      "onboard_time": 1683069860,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 302563,
-      "num": 271490,
-      "word": "工资3500突然变成了一万",
-      "onboard_time": 1683077008,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 295765,
-      "num": 270932,
-      "word": "这就是陈都灵流鼻血那场戏啊",
-      "onboard_time": 1683074548,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 279573,
-      "num": 269762,
-      "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
-      "onboard_time": 1683073946,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276119,
-      "num": 276119,
+      "raw_hot": 307753,
+      "num": 307753,
       "word": "周深说额头见到大家很高兴",
       "onboard_time": 1683075328,
       "rank": 18,
       "category": "音乐"
     },
     {
-      "raw_hot": 273699,
-      "num": 273699,
+      "raw_hot": 281324,
+      "num": 281324,
       "word": "湖人对战勇士",
       "onboard_time": 1683076409,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280087,
+      "num": 280087,
+      "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
+      "onboard_time": 1683073946,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267736,
+      "num": 267736,
+      "word": "插队",
+      "onboard_time": 1683077310,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267032,
@@ -307,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235816,
+      "num": 235816,
+      "word": "景区2天内捡了23个娃",
+      "onboard_time": 1683077670,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235684,
       "num": 235684,
       "word": "向太直播将送百台车",
@@ -339,19 +363,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222617,
+      "num": 222617,
+      "word": "时代少年团演唱会回放",
+      "onboard_time": 1683076049,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219657,
       "num": 219657,
       "word": "刘耀文脱衣服",
       "onboard_time": 1683071363,
       "rank": 26,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 217603,
-      "num": 217603,
-      "word": "时代少年团演唱会回放",
-      "onboard_time": 1683076049,
-      "rank": 27,
       "category": "音乐"
     },
     {
@@ -392,6 +416,14 @@
       "word": "宋亚轩 小王子",
       "onboard_time": 1683032493,
       "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 188448,
+      "num": 188448,
+      "word": "贾青链条裤子",
+      "onboard_time": 1683076290,
+      "rank": 34,
       "category": "音乐"
     },
     {
@@ -451,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164188,
+      "num": 164188,
+      "word": "整列车厢回杭的娃都在赶作业",
+      "onboard_time": 1683075209,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162981,
       "num": 162981,
       "word": "淄博烧烤",
@@ -459,11 +499,19 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 160383,
-      "num": 160383,
-      "word": "贾青链条裤子",
-      "onboard_time": 1683076290,
-      "rank": 34,
+      "raw_hot": 162382,
+      "num": 162382,
+      "word": "杨洋同学会跳舞视频",
+      "onboard_time": 1683077491,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160723,
+      "num": 160723,
+      "word": "宋亚轩斗舞",
+      "onboard_time": 1683076949,
+      "rank": 40,
       "category": "音乐"
     },
     {
@@ -491,14 +539,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 145410,
-      "num": 145410,
-      "word": "整列车厢回杭的娃都在赶作业",
-      "onboard_time": 1683075209,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133517,
       "num": 133517,
       "word": "这个五一让我明白了假期的意义",
@@ -515,12 +555,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129389,
-      "num": 129389,
-      "word": "宋亚轩斗舞",
-      "onboard_time": 1683076949,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 129728,
+      "num": 129728,
+      "word": "老张你再骗我一次吧",
+      "onboard_time": 1683077189,
+      "rank": 39,
+      "category": "影视"
     },
     {
       "raw_hot": 127834,
@@ -587,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116805,
+      "num": 116805,
+      "word": "热火vs尼克斯",
+      "onboard_time": 1683078089,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115057,
       "num": 115057,
       "word": "张之臻马德里赛八强",
@@ -627,20 +675,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 105584,
+      "num": 105584,
+      "word": "高叶淡妆生图",
+      "onboard_time": 1683076648,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 104214,
       "num": 112220,
       "word": "仪式感挺好但有点社死",
       "onboard_time": 1683041672,
       "rank": 39,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 102542,
-      "num": 102542,
-      "word": "高叶淡妆生图",
-      "onboard_time": 1683076648,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 97030,
