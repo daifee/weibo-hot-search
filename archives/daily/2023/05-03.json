@@ -1,6 +1,6 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683112453800,
+  "endTime": 1683113611492,
   "band_list": [
     {
       "raw_hot": 3271649,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1821962,
+      "num": 1821962,
+      "word": "明天上班可能出现的症状",
+      "onboard_time": 1683110071,
+      "rank": 5,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 1791477,
       "num": 1702736,
       "word": "嘟嘟酱 童年被继父差点性侵",
@@ -123,20 +131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1307187,
-      "num": 1307187,
-      "word": "明天上班可能出现的症状",
-      "onboard_time": 1683110071,
-      "rank": 5,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 1298777,
       "num": 385719,
       "word": "工资3500突然变成了一万",
       "onboard_time": 1683077008,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1281127,
+      "num": 604449,
+      "word": "诺一何炅撞脸",
+      "onboard_time": 1683105630,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1269767,
@@ -169,14 +177,6 @@
       "onboard_time": 1683040833,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1220929,
-      "num": 604449,
-      "word": "诺一何炅撞脸",
-      "onboard_time": 1683105630,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 1133149,
@@ -241,6 +241,14 @@
       "onboard_time": 1683080070,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919257,
+      "num": 505044,
+      "word": "相识24年的闺蜜突然去世了",
+      "onboard_time": 1683112586,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 913218,
@@ -411,6 +419,30 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 537949,
+      "num": 495363,
+      "word": "演什么都在演自己的演员",
+      "onboard_time": 1683111869,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 529267,
+      "num": 529267,
+      "word": "48岁冻龄妈妈谈被家暴经历",
+      "onboard_time": 1683094530,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 527793,
+      "num": 527793,
+      "word": "湖南男子在西湖捞手机日入约一万",
+      "onboard_time": 1683108990,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521073,
       "num": 463334,
       "word": "坐高铁碰到同座位的票",
@@ -473,14 +505,6 @@
       "onboard_time": 1683103828,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 464883,
-      "num": 464883,
-      "word": "湖南男子在西湖捞手机日入约一万",
-      "onboard_time": 1683108990,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458073,
@@ -691,12 +715,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 345332,
+      "num": 345332,
+      "word": "刘恋穿了品如的衣服",
+      "onboard_time": 1683112469,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344954,
       "num": 344954,
       "word": "时代少年团演唱会彩带有玉米粒",
       "onboard_time": 1683088051,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 338755,
+      "num": 338755,
+      "word": "吴刚赵露思新剧后浪海报",
+      "onboard_time": 1683111269,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 336054,
@@ -721,14 +761,6 @@
       "onboard_time": 1683090211,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329855,
-      "num": 329855,
-      "word": "48岁冻龄妈妈谈被家暴经历",
-      "onboard_time": 1683094530,
-      "rank": 41,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 328354,
@@ -883,14 +915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 261314,
-      "num": 261314,
-      "word": "演什么都在演自己的演员",
-      "onboard_time": 1683111869,
-      "rank": 30,
-      "category": "影视"
-    },
-    {
       "raw_hot": 261002,
       "num": 261002,
       "word": "漫长的季节",
@@ -1012,7 +1036,7 @@
     },
     {
       "raw_hot": 239104,
-      "num": 266435,
+      "num": 266767,
       "word": "五一假期2.74亿人次出游",
       "onboard_time": 1683111028,
       "rank": 29,
@@ -1049,6 +1073,14 @@
       "onboard_time": 1683077491,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233848,
+      "num": 233848,
+      "word": "平凡之路",
+      "onboard_time": 1683112469,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 233587,
@@ -1195,14 +1227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210882,
-      "num": 210882,
-      "word": "吴刚赵露思新剧后浪海报",
-      "onboard_time": 1683111269,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 210008,
       "num": 210008,
       "word": "平凡之路今日开播",
@@ -1347,6 +1371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187523,
+      "num": 187523,
+      "word": "李飞主打一个陪伴",
+      "onboard_time": 1683113248,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186233,
       "num": 186233,
       "word": "刘耀文贺峻霖到达长沙视频",
@@ -1387,6 +1419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179877,
+      "num": 179877,
+      "word": "爸妈面对生活是真的很了不起",
+      "onboard_time": 1683113009,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179354,
       "num": 179354,
       "word": "杨迪要你管直拍",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1683091830,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178519,
+      "num": 178519,
+      "word": "丁程鑫露腿",
+      "onboard_time": 1683112227,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 177974,
@@ -1523,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164991,
+      "num": 164991,
+      "word": "aespa新歌ImUnhappy",
+      "onboard_time": 1683111508,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 164188,
       "num": 164188,
       "word": "整列车厢回杭的娃都在赶作业",
@@ -1585,22 +1641,6 @@
       "onboard_time": 1683071543,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157657,
-      "num": 157657,
-      "word": "丁程鑫露腿",
-      "onboard_time": 1683112227,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 156119,
-      "num": 156119,
-      "word": "aespa新歌ImUnhappy",
-      "onboard_time": 1683111508,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 154617,
