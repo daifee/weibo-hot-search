@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683128025158,
+  "endTime": 1683130960500,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -427,6 +427,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1463595,
+      "num": 1463595,
+      "word": "常年不吃碳水的人怎么样了",
+      "onboard_time": 1683122072,
+      "rank": 37,
+      "category": "情感,美食"
+    },
+    {
       "raw_hot": 1459992,
       "num": 507475,
       "word": "hybe",
@@ -545,14 +553,6 @@
       "onboard_time": 1683105630,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1270297,
-      "num": 1270297,
-      "word": "常年不吃碳水的人怎么样了",
-      "onboard_time": 1683122072,
-      "rank": 37,
-      "category": "情感,美食"
     },
     {
       "raw_hot": 1269767,
@@ -1083,12 +1083,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 708173,
+      "num": 708173,
+      "word": "赛琳娜靠美妆品牌成为亿万富翁",
+      "onboard_time": 1683126154,
+      "rank": 18,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 703161,
       "num": 703161,
       "word": "张碧晨 车尾号920",
       "onboard_time": 1682863409,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 702429,
+      "num": 536163,
+      "word": "龚俊说被顶流花花圈粉了",
+      "onboard_time": 1683126212,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 702277,
@@ -1169,14 +1185,6 @@
       "onboard_time": 1683099570,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 676207,
-      "num": 536163,
-      "word": "龚俊说被顶流花花圈粉了",
-      "onboard_time": 1683126212,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 675709,
@@ -1321,14 +1329,6 @@
       "onboard_time": 1682983460,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 570119,
-      "num": 570119,
-      "word": "赛琳娜靠美妆品牌成为亿万富翁",
-      "onboard_time": 1683126154,
-      "rank": 18,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 569320,
@@ -2299,6 +2299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 351872,
+      "num": 351872,
+      "word": "金泰妍LV品牌代言人",
+      "onboard_time": 1683126930,
+      "rank": 39,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 351408,
       "num": 351408,
       "word": "睡眠不足的九大表现",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1682994148,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 343038,
-      "num": 343038,
-      "word": "金泰妍LV品牌代言人",
-      "onboard_time": 1683126930,
-      "rank": 39,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 342513,
@@ -2705,6 +2705,14 @@
       "onboard_time": 1683004051,
       "rank": 39,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 306606,
+      "num": 306606,
+      "word": "00后整顿高铁熊孩子",
+      "onboard_time": 1683125673,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 306406,
@@ -3331,6 +3339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251114,
+      "num": 251114,
+      "word": "缺爱之人才会对很普通的关系难舍难分",
+      "onboard_time": 1683129689,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251015,
       "num": 216173,
       "word": "王鹤棣崩溃哭戏动图",
@@ -3779,6 +3795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 228932,
+      "num": 145485,
+      "word": "中国游客 真命天子",
+      "onboard_time": 1683129986,
+      "rank": 30,
+      "category": "旅游,幽默"
+    },
+    {
       "raw_hot": 228603,
       "num": 228603,
       "word": "游客强行翻越重庆千厮门大桥",
@@ -3953,14 +3977,6 @@
       "onboard_time": 1683081331,
       "rank": 31,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 220843,
-      "num": 220843,
-      "word": "00后整顿高铁熊孩子",
-      "onboard_time": 1683125673,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 220817,
@@ -4291,6 +4307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207329,
+      "num": 207329,
+      "word": "新冠 查漏补缺",
+      "onboard_time": 1683130048,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207192,
       "num": 207192,
       "word": "时代少年团五四歌会官宣",
@@ -4524,7 +4548,7 @@
     },
     {
       "raw_hot": 197751,
-      "num": 197751,
+      "num": 285988,
       "word": "胡金秋受伤",
       "onboard_time": 1683122974,
       "rank": 43,
@@ -6211,6 +6235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124456,
+      "num": 124456,
+      "word": "陈妍希演的齐家宜好灵",
+      "onboard_time": 1683130225,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124424,
       "num": 124424,
       "word": "吴世勋新剧将播出",
@@ -6377,6 +6409,14 @@
       "onboard_time": 1683078089,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115711,
+      "num": 115711,
+      "word": "萌兰手压麻了之后走路",
+      "onboard_time": 1683127411,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 115590,
@@ -6563,6 +6603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101824,
+      "num": 101824,
+      "word": "西安坠机航司称已联系遇难者家属",
+      "onboard_time": 1683130646,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98252,
       "num": 98252,
       "word": "凳子上的洞是干嘛用的",
@@ -6593,6 +6641,14 @@
       "onboard_time": 1682959044,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 96410,
+      "num": 96410,
+      "word": "淄博烧烤不涨价的最大底气",
+      "onboard_time": 1683130466,
+      "rank": 43,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 94471,
@@ -6745,6 +6801,14 @@
       "onboard_time": 1682982558,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77144,
+      "num": 77144,
+      "word": "月薪三万你会不会裸辞",
+      "onboard_time": 1683130225,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 76057,
@@ -7077,6 +7141,9 @@
     },
     {
       "word": "#点赞新时代青春力量#"
+    },
+    {
+      "word": "#青春中国#"
     }
   ]
 }

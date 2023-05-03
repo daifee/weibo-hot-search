@@ -1,0 +1,411 @@
+{
+  "startTime": 1683130960500,
+  "endTime": 1683130960500,
+  "band_list": [
+    {
+      "raw_hot": 1463595,
+      "num": 1463595,
+      "word": "常年不吃碳水的人怎么样了",
+      "onboard_time": 1683122072,
+      "rank": 0,
+      "category": "情感,美食"
+    },
+    {
+      "raw_hot": 1282175,
+      "num": 390085,
+      "word": "阳了",
+      "onboard_time": 1683115648,
+      "rank": 10,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 779474,
+      "num": 779474,
+      "word": "明天上班可能出现的症状",
+      "onboard_time": 1683110071,
+      "rank": 1,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 753152,
+      "num": 486611,
+      "word": "相识24年的闺蜜突然去世了",
+      "onboard_time": 1683112586,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 708173,
+      "num": 708173,
+      "word": "赛琳娜靠美妆品牌成为亿万富翁",
+      "onboard_time": 1683126154,
+      "rank": 3,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 702429,
+      "num": 386440,
+      "word": "龚俊说被顶流花花圈粉了",
+      "onboard_time": 1683126212,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 699800,
+      "num": 382865,
+      "word": "秦昊瘦身食谱",
+      "onboard_time": 1683120693,
+      "rank": 12,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 495929,
+      "num": 495929,
+      "word": "高铁上最好不要和邻座套近乎",
+      "onboard_time": 1683101370,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 467027,
+      "num": 467027,
+      "word": "长月烬明就演到这吧",
+      "onboard_time": 1683115288,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 443653,
+      "num": 443653,
+      "word": "找工作一定要找双休的",
+      "onboard_time": 1683124471,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 394918,
+      "num": 394918,
+      "word": "克里姆林宫遭袭击画面",
+      "onboard_time": 1683118713,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379906,
+      "num": 379906,
+      "word": "宋亚轩 破音",
+      "onboard_time": 1683123090,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 351872,
+      "num": 351872,
+      "word": "金泰妍LV品牌代言人",
+      "onboard_time": 1683126930,
+      "rank": 14,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 346911,
+      "num": 346911,
+      "word": "高铁上碰到了一对情侣想换座",
+      "onboard_time": 1683104970,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 320879,
+      "num": 320879,
+      "word": "明星减肥有多狠",
+      "onboard_time": 1683126331,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307059,
+      "num": 307059,
+      "word": "48岁冻龄妈妈谈被家暴经历",
+      "onboard_time": 1683094530,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 306606,
+      "num": 306606,
+      "word": "00后整顿高铁熊孩子",
+      "onboard_time": 1683125673,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 278924,
+      "num": 391872,
+      "word": "王博",
+      "onboard_time": 1683121172,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266780,
+      "num": 266780,
+      "word": "金钟仁直播哭了",
+      "onboard_time": 1683120511,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 251114,
+      "num": 251114,
+      "word": "缺爱之人才会对很普通的关系难舍难分",
+      "onboard_time": 1683129689,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 237976,
+      "num": 237976,
+      "word": "EXO",
+      "onboard_time": 1683107429,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 228932,
+      "num": 145485,
+      "word": "中国游客 真命天子",
+      "onboard_time": 1683129986,
+      "rank": 30,
+      "category": "旅游,幽默"
+    },
+    {
+      "raw_hot": 208818,
+      "num": 208818,
+      "word": "eStar止步季后赛",
+      "onboard_time": 1683127109,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 207329,
+      "num": 207329,
+      "word": "新冠 查漏补缺",
+      "onboard_time": 1683130048,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191629,
+      "num": 191629,
+      "word": "人生路不熟成五一档票房冠军",
+      "onboard_time": 1683121231,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 171699,
+      "num": 171699,
+      "word": "庆余年2真的要开机了",
+      "onboard_time": 1683102869,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 154974,
+      "num": 154974,
+      "word": "DRG晋级败者组半决赛",
+      "onboard_time": 1683127052,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 148075,
+      "num": 148075,
+      "word": "孙燕姿现场",
+      "onboard_time": 1683120453,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 143838,
+      "num": 143838,
+      "word": "久哲BO7的神",
+      "onboard_time": 1683126571,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 140092,
+      "num": 145919,
+      "word": "余秀华 读书万卷不过沐猴之冠",
+      "onboard_time": 1683104190,
+      "rank": 29,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 137810,
+      "num": 137810,
+      "word": "郭艾伦笑了",
+      "onboard_time": 1683125131,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131770,
+      "num": 730660,
+      "word": "这个五一274000000人次出游",
+      "onboard_time": 1683117812,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130976,
+      "num": 285988,
+      "word": "胡金秋受伤",
+      "onboard_time": 1683122974,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124456,
+      "num": 124456,
+      "word": "陈妍希演的齐家宜好灵",
+      "onboard_time": 1683130225,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 122393,
+      "num": 122393,
+      "word": "刘恋穿了品如的衣服",
+      "onboard_time": 1683112469,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115711,
+      "num": 115711,
+      "word": "萌兰手压麻了之后走路",
+      "onboard_time": 1683127411,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115360,
+      "num": 115360,
+      "word": "时代少年团演唱会安检储存物被扔",
+      "onboard_time": 1683120093,
+      "rank": 36,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 112878,
+      "num": 112878,
+      "word": "基辅出动两架无人机袭击克宫未遂",
+      "onboard_time": 1683118112,
+      "rank": 37,
+      "category": "社会新闻,国外要闻"
+    },
+    {
+      "raw_hot": 109486,
+      "num": 109486,
+      "word": "每天对着卡琳娜哇哇叫",
+      "onboard_time": 1683105212,
+      "rank": 38,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 109170,
+      "num": 109170,
+      "word": "湖南男子在西湖捞手机日入约一万",
+      "onboard_time": 1683108990,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101824,
+      "num": 101824,
+      "word": "西安坠机航司称已联系遇难者家属",
+      "onboard_time": 1683130646,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99584,
+      "num": 99584,
+      "word": "肖战如梦之梦西安站的花墙",
+      "onboard_time": 1683119070,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 96410,
+      "num": 96410,
+      "word": "淄博烧烤不涨价的最大底气",
+      "onboard_time": 1683130466,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 96032,
+      "num": 109231,
+      "word": "美女幼师凭挖呀挖呀挖走红",
+      "onboard_time": 1683077310,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83067,
+      "num": 83067,
+      "word": "虞书欣吴宣仪王一栩合影",
+      "onboard_time": 1683119790,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 81808,
+      "num": 81808,
+      "word": "端午节也要调休",
+      "onboard_time": 1683092551,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 78972,
+      "num": 78972,
+      "word": "李飞听完王浩唱歌后的反应",
+      "onboard_time": 1683120693,
+      "rank": 47,
+      "category": "音乐,幽默"
+    },
+    {
+      "raw_hot": 77144,
+      "num": 77144,
+      "word": "月薪三万你会不会裸辞",
+      "onboard_time": 1683130225,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 74905,
+      "num": 74905,
+      "word": "费曼 为了周杰伦我已阴",
+      "onboard_time": 1683105151,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 62999,
+      "num": 79404,
+      "word": "史航聊天记录",
+      "onboard_time": 1683084629,
+      "rank": 46,
+      "category": "社会新闻,网红"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#青春中国#"
+    }
+  ]
+}
