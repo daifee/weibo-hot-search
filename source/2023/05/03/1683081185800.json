@@ -1,0 +1,410 @@
+{
+  "runTime": 1683081185800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560687,
+        "num": 1560687,
+        "word": "美女幼师凭挖呀挖呀挖走红",
+        "onboard_time": 1683077310,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1556651,
+        "num": 1556651,
+        "word": "五三惨案",
+        "onboard_time": 1683079650,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39139,
+        "num": 1008575,
+        "word": "深地一号超深井放喷测试点火现场",
+        "onboard_time": 1683033575,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 930914,
+        "num": 930914,
+        "word": "自贡地震",
+        "onboard_time": 1683080070,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922926,
+        "num": 922926,
+        "word": "景区2天内捡了23个娃",
+        "onboard_time": 1683077670,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715619,
+        "num": 715619,
+        "word": "东北商家回应钟薛高3.8元一根",
+        "onboard_time": 1683073946,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681531,
+        "num": 681531,
+        "word": "外滩",
+        "onboard_time": 1683040833,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 632876,
+        "num": 632876,
+        "word": "找好朋友做伴娘闹到绝交",
+        "onboard_time": 1683033634,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1163868,
+        "num": 628598,
+        "word": "韩国大学生吃掉价值12万美元香蕉展品",
+        "onboard_time": 1683070041,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579125,
+        "num": 579125,
+        "word": "一家三口五一出游被困悬崖边",
+        "onboard_time": 1683069561,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 1024453,
+        "num": 567591,
+        "word": "林志玲状态",
+        "onboard_time": 1683074788,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544435,
+        "num": 544435,
+        "word": "妺女",
+        "onboard_time": 1683029489,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 497515,
+        "num": 497515,
+        "word": "王诗龄被吐槽炫富",
+        "onboard_time": 1683029668,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477205,
+        "num": 477205,
+        "word": "济南防空警报",
+        "onboard_time": 1683080611,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454434,
+        "num": 454434,
+        "word": "聊天时最反感哪个emoji表情",
+        "onboard_time": 1683079110,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449180,
+        "num": 449180,
+        "word": "长空之王对违规影院停止提供密钥",
+        "onboard_time": 1683075930,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 370950,
+        "num": 370950,
+        "word": "买个青蛙人偶去发疯",
+        "onboard_time": 1683074665,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334827,
+        "num": 334827,
+        "word": "湖人对战勇士",
+        "onboard_time": 1683076409,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315695,
+        "num": 315695,
+        "word": "史航称不存在性骚扰",
+        "onboard_time": 1683043469,
+        "rank": 18,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 262988,
+        "num": 262988,
+        "word": "云南地震",
+        "onboard_time": 1683042332,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132733,
+        "num": 262981,
+        "word": "工资3500突然变成了一万",
+        "onboard_time": 1683077008,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262973,
+        "num": 262973,
+        "word": "长沙夜生活导演谈排片惨淡",
+        "onboard_time": 1683072506,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 260090,
+        "num": 260090,
+        "word": "这就是陈都灵流鼻血那场戏啊",
+        "onboard_time": 1683074548,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 256522,
+        "num": 256522,
+        "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
+        "onboard_time": 1683073946,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250221,
+        "num": 250221,
+        "word": "女星爆款剧数量TOP5",
+        "onboard_time": 1683080012,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 248236,
+        "num": 248236,
+        "word": "插队",
+        "onboard_time": 1683077310,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244001,
+        "num": 244001,
+        "word": "梅西被巴黎停赛两周",
+        "onboard_time": 1683069860,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235557,
+        "num": 235557,
+        "word": "杨洋同学会跳舞视频",
+        "onboard_time": 1683077491,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232912,
+        "num": 232912,
+        "word": "周深说额头见到大家很高兴",
+        "onboard_time": 1683075328,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209184,
+        "num": 209184,
+        "word": "涉事景区称插队事件自己也是受损方",
+        "onboard_time": 1683069680,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 206303,
+        "num": 206303,
+        "word": "cp29 现杀现做",
+        "onboard_time": 1683078390,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 203500,
+        "num": 203500,
+        "word": "时代少年团演唱会回放",
+        "onboard_time": 1683076049,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200932,
+        "num": 200932,
+        "word": "85后单身女子买完房后降薪了",
+        "onboard_time": 1683041316,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 190453,
+        "num": 190453,
+        "word": "五一最后1天假期",
+        "onboard_time": 1683079891,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 188822,
+        "num": 188822,
+        "word": "刘耀文说太激动了谢谢大家",
+        "onboard_time": 1683079289,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180084,
+        "num": 180084,
+        "word": "高叶淡妆生图",
+        "onboard_time": 1683076648,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178458,
+        "num": 178458,
+        "word": "傅卫军 性张力",
+        "onboard_time": 1683080791,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175889,
+        "num": 175889,
+        "word": "游客强行翻越重庆千厮门大桥",
+        "onboard_time": 1683078812,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 168087,
+        "num": 168087,
+        "word": "淄博大姐留宿12名无房游客住家里",
+        "onboard_time": 1683066195,
+        "rank": 38,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 167350,
+        "num": 167350,
+        "word": "热火1比1尼克斯",
+        "onboard_time": 1683080255,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147215,
+        "num": 147215,
+        "word": "2023metgala最佳造型",
+        "onboard_time": 1683078928,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144427,
+        "num": 144427,
+        "word": "张婧仪孙千周也五一档票房实绩",
+        "onboard_time": 1683080972,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142331,
+        "num": 142331,
+        "word": "旅行回来和朋友闹崩了",
+        "onboard_time": 1683073407,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138736,
+        "num": 138736,
+        "word": "房价房租倒挂",
+        "onboard_time": 1683038264,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137296,
+        "num": 137296,
+        "word": "老张你再骗我一次吧",
+        "onboard_time": 1683077189,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136456,
+        "num": 136456,
+        "word": "余霜认错佛耶戈皮肤",
+        "onboard_time": 1683071243,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132386,
+        "num": 132386,
+        "word": "哈尔滨天空现不明飞行物",
+        "onboard_time": 1683080911,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122651,
+        "num": 122651,
+        "word": "整列车厢回杭的娃都在赶作业",
+        "onboard_time": 1683075209,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115102,
+        "num": 115102,
+        "word": "等比例放大的花花",
+        "onboard_time": 1683044249,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109724,
+        "num": 109724,
+        "word": "贾青链条裤子",
+        "onboard_time": 1683076290,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇敢肩负起时代赋予的重任#"
+    }
+  }
+}
