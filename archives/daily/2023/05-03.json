@@ -1,6 +1,6 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683090955158,
+  "endTime": 1683092007095,
   "band_list": [
     {
       "raw_hot": 3220437,
@@ -17,6 +17,14 @@
       "onboard_time": 1683079650,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2512298,
+      "num": 550504,
+      "word": "演技被严重夸大的演员",
+      "onboard_time": 1683089431,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2299452,
@@ -41,14 +49,6 @@
       "onboard_time": 1683084389,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1790701,
-      "num": 550504,
-      "word": "演技被严重夸大的演员",
-      "onboard_time": 1683089431,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1742679,
@@ -203,6 +203,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 740660,
+      "num": 740660,
+      "word": "四川宜宾兴文4.0级地震",
+      "onboard_time": 1683090455,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 624438,
+      "num": 339618,
+      "word": "范思辙当律师了",
+      "onboard_time": 1683089673,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 598585,
       "num": 497515,
       "word": "王诗龄被吐槽炫富",
@@ -233,14 +249,6 @@
       "onboard_time": 1683080911,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 534261,
-      "num": 339618,
-      "word": "范思辙当律师了",
-      "onboard_time": 1683089673,
-      "rank": 21,
-      "category": "影视"
     },
     {
       "raw_hot": 521073,
@@ -288,14 +296,6 @@
       "word": "济南防空警报",
       "onboard_time": 1683080611,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472519,
-      "num": 472519,
-      "word": "四川宜宾兴文4.0级地震",
-      "onboard_time": 1683090455,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 410765,
+      "num": 410765,
+      "word": "杨洋组织同学会",
+      "onboard_time": 1683091590,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410497,
       "num": 410497,
       "word": "伴娘要随份子钱吗",
@@ -387,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 381795,
+      "num": 381795,
+      "word": "190男子晒自己视角下的155女友",
+      "onboard_time": 1683087750,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367167,
       "num": 367167,
       "word": "傅卫军",
@@ -401,14 +417,6 @@
       "onboard_time": 1683038264,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 362022,
-      "num": 362022,
-      "word": "190男子晒自己视角下的155女友",
-      "onboard_time": 1683087750,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 347990,
@@ -499,6 +507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 285532,
+      "num": 285532,
+      "word": "妈妈生病姐弟假期3天卖上千根冰棍",
+      "onboard_time": 1683090573,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280087,
       "num": 280087,
       "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
@@ -523,6 +539,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262958,
+      "num": 262958,
+      "word": "一架直升机坠落西安白鹿仓景区",
+      "onboard_time": 1683087930,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261002,
+      "num": 261002,
+      "word": "漫长的季节",
+      "onboard_time": 1683091710,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 257057,
       "num": 257057,
       "word": "等比例放大的花花",
@@ -545,6 +577,14 @@
       "onboard_time": 1683064273,
       "rank": 17,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 240392,
+      "num": 240392,
+      "word": "张远坐小孩那桌",
+      "onboard_time": 1683090992,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 239816,
@@ -593,14 +633,6 @@
       "onboard_time": 1683044370,
       "rank": 47,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 232589,
-      "num": 232589,
-      "word": "一架直升机坠落西安白鹿仓景区",
-      "onboard_time": 1683087930,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228603,
@@ -771,6 +803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194009,
+      "num": 194009,
+      "word": "格林",
+      "onboard_time": 1683090151,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190453,
       "num": 190453,
       "word": "五一最后1天假期",
@@ -827,14 +867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180518,
-      "num": 180518,
-      "word": "妈妈生病姐弟假期3天卖上千根冰棍",
-      "onboard_time": 1683090573,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180084,
       "num": 180084,
       "word": "高叶淡妆生图",
@@ -883,20 +915,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171291,
-      "num": 171291,
-      "word": "格林",
-      "onboard_time": 1683090151,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170842,
       "num": 170842,
       "word": "乘风2023芭莎红意官宣大片",
       "onboard_time": 1683082411,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170816,
+      "num": 170816,
+      "word": "重庆震感",
+      "onboard_time": 1683091830,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170162,
@@ -955,6 +987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 161047,
+      "num": 161047,
+      "word": "宠物鸭被营救时边上正摆着三口锅",
+      "onboard_time": 1683091472,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "宋亚轩斗舞",
@@ -977,6 +1017,14 @@
       "onboard_time": 1683071543,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154905,
+      "num": 154905,
+      "word": "胸围108的周严",
+      "onboard_time": 1683091172,
+      "rank": 41,
+      "category": "动漫"
     },
     {
       "raw_hot": 154617,
@@ -1008,6 +1056,14 @@
       "word": "温暖的甜蜜的今日开播",
       "onboard_time": 1683083011,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 137633,
+      "num": 137633,
+      "word": "澹台烬逼黎苏苏修炼无情道成神",
+      "onboard_time": 1683091950,
+      "rank": 48,
       "category": "影视"
     },
     {
@@ -1369,6 +1425,14 @@
       "onboard_time": 1683060672,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12144,
+      "num": 823381,
+      "word": "劳动是奋斗追梦的五光十色",
+      "onboard_time": 1683091590,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
