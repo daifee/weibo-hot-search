@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683145074383,
+  "endTime": 1683146014684,
   "band_list": [
     {
       "raw_hot": 1463595,
@@ -475,20 +475,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 15090,
+      "num": 17986,
+      "word": "男孩不交手机当街追打奶奶",
+      "onboard_time": 1683145032,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13676,
       "num": 18020,
       "word": "漫长的季节后劲",
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 12454,
-      "num": 17986,
-      "word": "男孩不交手机当街追打奶奶",
-      "onboard_time": 1683145032,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

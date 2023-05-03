@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683145074383,
+  "endTime": 1683146014684,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -7155,6 +7155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15090,
+      "num": 17986,
+      "word": "男孩不交手机当街追打奶奶",
+      "onboard_time": 1683145032,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14520,
       "num": 1043584,
       "word": "卫星视角下的花开中国太美了",
@@ -7169,14 +7177,6 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 12454,
-      "num": 17986,
-      "word": "男孩不交手机当街追打奶奶",
-      "onboard_time": 1683145032,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
