@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683083886197,
+  "endTime": 1683084847289,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1298777,
-      "num": 337325,
+      "num": 370674,
       "word": "工资3500突然变成了一万",
       "onboard_time": 1683077008,
       "rank": 20,
@@ -475,6 +475,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1133149,
+      "num": 1133149,
+      "word": "景区2天内捡了23个娃",
+      "onboard_time": 1683077670,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1110513,
       "num": 1110513,
       "word": "狂飙后又迎来了漫长的季节",
@@ -489,14 +497,6 @@
       "onboard_time": 1683074788,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1099347,
-      "num": 1099347,
-      "word": "景区2天内捡了23个娃",
-      "onboard_time": 1683077670,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1079555,
@@ -545,6 +545,14 @@
       "onboard_time": 1683012807,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1026901,
+      "num": 1026901,
+      "word": "傅卫军 性张力",
+      "onboard_time": 1683080791,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 1011057,
@@ -651,14 +659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 893662,
-      "num": 893662,
-      "word": "傅卫军 性张力",
-      "onboard_time": 1683080791,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 867730,
       "num": 974989,
       "word": "新娘互换手捧花发现是高中同学",
@@ -729,6 +729,14 @@
       "onboard_time": 1683005668,
       "rank": 11,
       "category": "影视"
+    },
+    {
+      "raw_hot": 804856,
+      "num": 516556,
+      "word": "黄色笑话是一种服从性测试",
+      "onboard_time": 1683083071,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 800034,
@@ -995,6 +1003,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 593035,
+      "num": 593035,
+      "word": "史航聊天记录",
+      "onboard_time": 1683084629,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 583823,
       "num": 583823,
       "word": "i人已经要不行了",
@@ -1099,6 +1115,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 520000,
+      "num": 520000,
+      "word": "桃子老师",
+      "onboard_time": 1683081931,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519021,
       "num": 519021,
       "word": "华晨宇的音乐是挑观众的",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1682992528,
       "rank": 14,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 480057,
+      "num": 480057,
+      "word": "聊天时最反感哪个emoji表情",
+      "onboard_time": 1683079110,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 477862,
@@ -1259,14 +1291,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 454434,
-      "num": 454434,
-      "word": "聊天时最反感哪个emoji表情",
-      "onboard_time": 1683079110,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 453538,
       "num": 453538,
       "word": "王一博拍合照憋不住笑了",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1682994627,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 449869,
+      "num": 449869,
+      "word": "张婧仪孙千周也五一档票房实绩",
+      "onboard_time": 1683080972,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 446646,
@@ -1451,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417111,
+      "num": 417111,
+      "word": "勇士三分投疯了",
+      "onboard_time": 1683083731,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416665,
       "num": 416665,
       "word": "淄博绿豆糕大爷回应爆火",
@@ -1465,14 +1505,6 @@
       "onboard_time": 1682988868,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 413790,
-      "num": 413790,
-      "word": "张婧仪孙千周也五一档票房实绩",
-      "onboard_time": 1683080972,
-      "rank": 41,
-      "category": "影视"
     },
     {
       "raw_hot": 413462,
@@ -1544,14 +1576,6 @@
       "word": "男子阻止插队遭两女子狂骂",
       "onboard_time": 1682923770,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401111,
-      "num": 401111,
-      "word": "桃子老师",
-      "onboard_time": 1683081931,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1697,6 +1721,14 @@
       "onboard_time": 1683038264,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 360673,
+      "num": 217749,
+      "word": "嘟嘟酱 童年被继父差点性侵",
+      "onboard_time": 1683084389,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 348881,
@@ -1953,14 +1985,6 @@
       "onboard_time": 1683074548,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 311631,
-      "num": 249027,
-      "word": "黄色笑话是一种服从性测试",
-      "onboard_time": 1683083071,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 310495,
@@ -2675,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239288,
+      "num": 239288,
+      "word": "当代年轻人是懂省钱看世界的",
+      "onboard_time": 1683083492,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 239084,
       "num": 239084,
       "word": "孙红雷谁说张颂文不能当大哥",
@@ -2913,6 +2945,14 @@
       "onboard_time": 1683037421,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227438,
+      "num": 227438,
+      "word": "cp29 无料",
+      "onboard_time": 1683084270,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 226705,
@@ -3155,6 +3195,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214607,
+      "num": 218310,
+      "word": "张真源下腰视频",
+      "onboard_time": 1683083670,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 214177,
       "num": 214177,
       "word": "陈飞宇留胡子了",
@@ -3243,12 +3291,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 208396,
-      "num": 208396,
-      "word": "当代年轻人是懂省钱看世界的",
-      "onboard_time": 1683083492,
-      "rank": 31,
-      "category": "情感,幽默"
+      "raw_hot": 208224,
+      "num": 212750,
+      "word": "海口的风很懂宋亚轩",
+      "onboard_time": 1683083850,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 207852,
@@ -3369,6 +3417,14 @@
       "onboard_time": 1682995649,
       "rank": 37,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 201240,
+      "num": 201240,
+      "word": "库里 无情的三分机器",
+      "onboard_time": 1683084213,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 200867,
@@ -3625,14 +3681,6 @@
       "onboard_time": 1683030992,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188555,
-      "num": 188555,
-      "word": "勇士三分投疯了",
-      "onboard_time": 1683083731,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 188448,
@@ -4083,6 +4131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166796,
+      "num": 166796,
+      "word": "湖人 罚球大队",
+      "onboard_time": 1683084690,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166775,
       "num": 175639,
       "word": "无畏切C的大刀有40米长",
@@ -4113,6 +4169,14 @@
       "onboard_time": 1682993487,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165325,
+      "num": 165325,
+      "word": "乘风2023芭莎红意官宣大片",
+      "onboard_time": 1683082411,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 164748,
@@ -4297,14 +4361,6 @@
       "onboard_time": 1683024567,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 157578,
-      "num": 157578,
-      "word": "张真源下腰视频",
-      "onboard_time": 1683083670,
-      "rank": 43,
-      "category": "音乐"
     },
     {
       "raw_hot": 156635,
@@ -4625,14 +4681,6 @@
       "onboard_time": 1682856628,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134527,
-      "num": 134527,
-      "word": "海口的风很懂宋亚轩",
-      "onboard_time": 1683083850,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 134515,
