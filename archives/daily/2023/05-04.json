@@ -1,7 +1,15 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683153200194,
+  "endTime": 1683155808952,
   "band_list": [
+    {
+      "raw_hot": 1684652,
+      "num": 1684652,
+      "word": "新冠 查漏补缺",
+      "onboard_time": 1683130048,
+      "rank": 24,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1463595,
       "num": 1463595,
@@ -17,6 +25,14 @@
       "onboard_time": 1683115648,
       "rank": 10,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 905424,
+      "num": 905424,
+      "word": "西安坠机航司称已联系遇难者家属",
+      "onboard_time": 1683130646,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 779474,
@@ -59,11 +75,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 635198,
-      "num": 635198,
-      "word": "新冠 查漏补缺",
-      "onboard_time": 1683130048,
-      "rank": 24,
+      "raw_hot": 557947,
+      "num": 557947,
+      "word": "上海打雷",
+      "onboard_time": 1683154941,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -91,11 +107,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 433013,
-      "num": 181715,
-      "word": "西安坠机航司称已联系遇难者家属",
-      "onboard_time": 1683130646,
-      "rank": 41,
+      "raw_hot": 418258,
+      "num": 324785,
+      "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
+      "onboard_time": 1683154941,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -113,6 +129,14 @@
       "onboard_time": 1683123090,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 374859,
+      "num": 323786,
+      "word": "48岁冻龄妈妈谈被家暴经历",
+      "onboard_time": 1683094530,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 372679,
@@ -147,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 328891,
+      "num": 328891,
+      "word": "淄博烧烤不涨价的最大底气",
+      "onboard_time": 1683130466,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 320879,
       "num": 320879,
       "word": "明星减肥有多狠",
@@ -155,28 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307059,
-      "num": 307059,
-      "word": "48岁冻龄妈妈谈被家暴经历",
-      "onboard_time": 1683094530,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 306606,
       "num": 306606,
       "word": "00后整顿高铁熊孩子",
       "onboard_time": 1683125673,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 306501,
-      "num": 250302,
-      "word": "淄博烧烤不涨价的最大底气",
-      "onboard_time": 1683130466,
-      "rank": 43,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 278924,
@@ -235,6 +251,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 160429,
+      "num": 160429,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1683131425,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 158436,
+      "num": 158436,
+      "word": "为什么有钱人也会在意电动车的电费",
+      "onboard_time": 1683130525,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154974,
       "num": 154974,
       "word": "DRG晋级败者组半决赛",
@@ -267,6 +299,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 139323,
+      "num": 139323,
+      "word": "中国第一位唢呐博士惊艳出圈",
+      "onboard_time": 1683152656,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138272,
+      "num": 138272,
+      "word": "萌兰手压麻了之后走路",
+      "onboard_time": 1683127411,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137810,
       "num": 137810,
       "word": "郭艾伦笑了",
@@ -276,7 +324,7 @@
     },
     {
       "raw_hot": 131770,
-      "num": 730660,
+      "num": 1060125,
       "word": "这个五一274000000人次出游",
       "onboard_time": 1683117812,
       "rank": 2,
@@ -289,14 +337,6 @@
       "onboard_time": 1683122974,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129836,
-      "num": 129836,
-      "word": "萌兰手压麻了之后走路",
-      "onboard_time": 1683127411,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 127824,
@@ -323,20 +363,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 121910,
-      "num": 121910,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1683131425,
-      "rank": 44,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 116338,
-      "num": 100172,
-      "word": "为什么有钱人也会在意电动车的电费",
-      "onboard_time": 1683130525,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 117673,
+      "num": 105894,
+      "word": "原来44岁以下都是青年",
+      "onboard_time": 1683154941,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115360,
@@ -387,6 +419,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93694,
+      "num": 93694,
+      "word": "失眠",
+      "onboard_time": 1683155181,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 88055,
+      "num": 88055,
+      "word": "收1500捞手机者非西湖景区工作人员",
+      "onboard_time": 1683147431,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 83067,
       "num": 83067,
       "word": "虞书欣吴宣仪王一栩合影",
@@ -403,12 +451,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80252,
+      "num": 80252,
+      "word": "男孩不交手机当街追打奶奶",
+      "onboard_time": 1683145032,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80235,
       "num": 80235,
       "word": "是上班更苦还是上学更苦",
       "onboard_time": 1683130287,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79320,
+      "num": 79320,
+      "word": "原来我的小说是被闺蜜买走了",
+      "onboard_time": 1683131363,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 78972,
@@ -419,14 +483,6 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 76277,
-      "num": 50784,
-      "word": "收1500捞手机者非西湖景区工作人员",
-      "onboard_time": 1683147431,
-      "rank": 44,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 74905,
       "num": 74905,
       "word": "费曼 为了周杰伦我已阴",
@@ -435,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67011,
-      "num": 67011,
-      "word": "原来我的小说是被闺蜜买走了",
-      "onboard_time": 1683131363,
+      "raw_hot": 69903,
+      "num": 69903,
+      "word": "休宁巴伊叶因家人去世缺席活动",
+      "onboard_time": 1683153497,
       "rank": 42,
-      "category": "幽默"
+      "category": "艺人"
     },
     {
       "raw_hot": 62999,
@@ -459,6 +515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 61273,
+      "num": 61273,
+      "word": "徐怀钰45岁身材管理",
+      "onboard_time": 1683149712,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 56652,
       "num": 56652,
       "word": "明知道不好却改不了的毛病",
@@ -467,20 +531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48336,
-      "num": 48336,
-      "word": "徐怀钰45岁身材管理",
-      "onboard_time": 1683149712,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 40140,
-      "num": 40140,
-      "word": "男孩不交手机当街追打奶奶",
-      "onboard_time": 1683145032,
+      "raw_hot": 46418,
+      "num": 55205,
+      "word": "澹台烬黎苏苏双向奔赴",
+      "onboard_time": 1683154459,
       "rank": 49,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 34078,
@@ -497,14 +553,6 @@
       "onboard_time": 1683135736,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27694,
-      "num": 27694,
-      "word": "中国第一位唢呐博士惊艳出圈",
-      "onboard_time": 1683152656,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13676,
