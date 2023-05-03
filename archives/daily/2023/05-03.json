@@ -1,6 +1,6 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683087621214,
+  "endTime": 1683088452711,
   "band_list": [
     {
       "raw_hot": 3220437,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1702736,
+      "num": 1702736,
+      "word": "嘟嘟酱 童年被继父差点性侵",
+      "onboard_time": 1683084389,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1593616,
       "num": 1593616,
       "word": "美女幼师凭挖呀挖呀挖走红",
       "onboard_time": 1683077310,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1328919,
-      "num": 1328919,
-      "word": "嘟嘟酱 童年被继父差点性侵",
-      "onboard_time": 1683084389,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 1298777,
@@ -75,20 +75,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1254591,
+      "num": 516556,
+      "word": "黄色笑话是一种服从性测试",
+      "onboard_time": 1683083071,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1243728,
       "num": 1243728,
       "word": "疑拉萨客栈杀人案受害者家属发声",
       "onboard_time": 1683041559,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1235700,
-      "num": 516556,
-      "word": "黄色笑话是一种服从性测试",
-      "onboard_time": 1683083071,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 1233076,
@@ -195,11 +195,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 569320,
+      "num": 569320,
+      "word": "湖人对战勇士",
+      "onboard_time": 1683076409,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 558039,
       "num": 558039,
       "word": "哈尔滨天空现不明飞行物",
       "onboard_time": 1683080911,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521073,
+      "num": 459612,
+      "word": "坐高铁碰到同座位的票",
+      "onboard_time": 1683086189,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -267,22 +283,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 437973,
-      "num": 437973,
-      "word": "湖人对战勇士",
-      "onboard_time": 1683076409,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 433808,
-      "num": 433808,
-      "word": "坐高铁碰到同座位的票",
-      "onboard_time": 1683086189,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433741,
       "num": 433741,
       "word": "买个青蛙人偶去发疯",
@@ -331,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382918,
+      "num": 382918,
+      "word": "演唱会激光导致手机摄像头报废",
+      "onboard_time": 1683085049,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382551,
       "num": 382551,
       "word": "刘耀文斗舞的确是够帅的",
@@ -363,12 +371,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 346587,
-      "num": 346587,
-      "word": "演唱会激光导致手机摄像头报废",
-      "onboard_time": 1683085049,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 328354,
+      "num": 328354,
+      "word": "cp29 无料",
+      "onboard_time": 1683084270,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 326341,
@@ -377,14 +385,6 @@
       "onboard_time": 1683039166,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 321883,
-      "num": 321883,
-      "word": "cp29 无料",
-      "onboard_time": 1683084270,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 319941,
@@ -435,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 302436,
+      "num": 302436,
+      "word": "时代少年团演唱会彩带有玉米粒",
+      "onboard_time": 1683088051,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 280087,
       "num": 280087,
       "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
@@ -467,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250326,
+      "num": 250326,
+      "word": "鹅厂五月大剧片单",
+      "onboard_time": 1683086310,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244498,
       "num": 244498,
       "word": "送女孩赶火车大哥说山东人遇到都会帮",
@@ -489,14 +505,6 @@
       "onboard_time": 1683083492,
       "rank": 31,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 237355,
-      "num": 237355,
-      "word": "鹅厂五月大剧片单",
-      "onboard_time": 1683086310,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 235684,
@@ -595,6 +603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211766,
+      "num": 211766,
+      "word": "NBA季后赛",
+      "onboard_time": 1683088412,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211348,
       "num": 211348,
       "word": "我们真的在双向奔赴",
@@ -617,6 +633,14 @@
       "onboard_time": 1683083850,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202024,
+      "num": 202024,
+      "word": "本人目前的状态 一不做二不休",
+      "onboard_time": 1683087270,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 201240,
@@ -673,6 +697,14 @@
       "onboard_time": 1683076290,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187063,
+      "num": 187063,
+      "word": "190男子晒自己视角下的155女友",
+      "onboard_time": 1683087750,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186233,
@@ -875,6 +907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 134412,
+      "num": 134412,
+      "word": "一架直升机坠落西安白鹿仓景区",
+      "onboard_time": 1683087930,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134348,
       "num": 134348,
       "word": "漫长的季节 原剧本",
@@ -899,14 +939,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128419,
-      "num": 128419,
-      "word": "本人目前的状态 一不做二不休",
-      "onboard_time": 1683087270,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127834,
       "num": 127834,
       "word": "多支救援力量赶往云南隆阳震中",
@@ -929,6 +961,14 @@
       "onboard_time": 1683075809,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122136,
+      "num": 122136,
+      "word": "花很多钱买完就后悔的东西",
+      "onboard_time": 1683087990,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 121680,

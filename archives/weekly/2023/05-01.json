@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683087621214,
+  "endTime": 1683088452711,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1702736,
+      "num": 1702736,
+      "word": "嘟嘟酱 童年被继父差点性侵",
+      "onboard_time": 1683084389,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1695709,
       "num": 1695709,
       "word": "周杰伦 第一名",
@@ -395,14 +403,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1328919,
-      "num": 1328919,
-      "word": "嘟嘟酱 童年被继父差点性侵",
-      "onboard_time": 1683084389,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1318458,
       "num": 1318458,
       "word": "烧烤店老板为劝退游客自刷17个差评",
@@ -451,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1254591,
+      "num": 516556,
+      "word": "黄色笑话是一种服从性测试",
+      "onboard_time": 1683083071,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1243728,
       "num": 1243728,
       "word": "疑拉萨客栈杀人案受害者家属发声",
       "onboard_time": 1683041559,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1235700,
-      "num": 516556,
-      "word": "黄色笑话是一种服从性测试",
-      "onboard_time": 1683083071,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 1233076,
@@ -1043,6 +1043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 569320,
+      "num": 569320,
+      "word": "湖人对战勇士",
+      "onboard_time": 1683076409,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 567767,
       "num": 567767,
       "word": "文俊辉直播",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1682939008,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 521073,
+      "num": 459612,
+      "word": "坐高铁碰到同座位的票",
+      "onboard_time": 1683086189,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 520000,
@@ -1395,28 +1411,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 437973,
-      "num": 437973,
-      "word": "湖人对战勇士",
-      "onboard_time": 1683076409,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 434663,
       "num": 434663,
       "word": "亲亲爱",
       "onboard_time": 1683031530,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 433808,
-      "num": 433808,
-      "word": "坐高铁碰到同座位的票",
-      "onboard_time": 1683086189,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433741,
@@ -1699,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382918,
+      "num": 382918,
+      "word": "演唱会激光导致手机摄像头报废",
+      "onboard_time": 1683085049,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382551,
       "num": 382551,
       "word": "刘耀文斗舞的确是够帅的",
@@ -1777,14 +1785,6 @@
       "onboard_time": 1682948310,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 346587,
-      "num": 346587,
-      "word": "演唱会激光导致手机摄像头报废",
-      "onboard_time": 1683085049,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346017,
@@ -1875,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 328354,
+      "num": 328354,
+      "word": "cp29 无料",
+      "onboard_time": 1683084270,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 326341,
       "num": 298856,
       "word": "三代",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1683021029,
       "rank": 4,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 321883,
-      "num": 321883,
-      "word": "cp29 无料",
-      "onboard_time": 1683084270,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 319941,
@@ -2105,6 +2105,14 @@
       "onboard_time": 1683008667,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 302436,
+      "num": 302436,
+      "word": "时代少年团演唱会彩带有玉米粒",
+      "onboard_time": 1683088051,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 302294,
@@ -2587,6 +2595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250326,
+      "num": 250326,
+      "word": "鹅厂五月大剧片单",
+      "onboard_time": 1683086310,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249907,
       "num": 249907,
       "word": "转发这个五月天",
@@ -2777,14 +2793,6 @@
       "onboard_time": 1682934626,
       "rank": 4,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 237355,
-      "num": 237355,
-      "word": "鹅厂五月大剧片单",
-      "onboard_time": 1683086310,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 237226,
@@ -3275,6 +3283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 211766,
+      "num": 211766,
+      "word": "NBA季后赛",
+      "onboard_time": 1683088412,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211423,
       "num": 178440,
       "word": "31岁给自己报了个小饭桌",
@@ -3449,6 +3465,14 @@
       "onboard_time": 1682924489,
       "rank": 40,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 202024,
+      "num": 202024,
+      "word": "本人目前的状态 一不做二不休",
+      "onboard_time": 1683087270,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 201594,
@@ -3737,6 +3761,14 @@
       "onboard_time": 1683012029,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187063,
+      "num": 187063,
+      "word": "190男子晒自己视角下的155女友",
+      "onboard_time": 1683087750,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186920,
@@ -4747,6 +4779,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 134412,
+      "num": 134412,
+      "word": "一架直升机坠落西安白鹿仓景区",
+      "onboard_time": 1683087930,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134348,
       "num": 134348,
       "word": "漫长的季节 原剧本",
@@ -4883,14 +4923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128419,
-      "num": 128419,
-      "word": "本人目前的状态 一不做二不休",
-      "onboard_time": 1683087270,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 128285,
       "num": 128285,
       "word": "山东景区霸气公告称看不到景观退款",
@@ -4993,6 +5025,14 @@
       "onboard_time": 1682990670,
       "rank": 43,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 122136,
+      "num": 122136,
+      "word": "花很多钱买完就后悔的东西",
+      "onboard_time": 1683087990,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 122019,

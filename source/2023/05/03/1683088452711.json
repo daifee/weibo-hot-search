@@ -1,0 +1,410 @@
+{
+  "runTime": 1683088452711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1702736,
+        "num": 1702736,
+        "word": "嘟嘟酱 童年被继父差点性侵",
+        "onboard_time": 1683084389,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1388889,
+        "num": 1388889,
+        "word": "五三惨案",
+        "onboard_time": 1683079650,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8794,
+        "num": 1271243,
+        "word": "深地一号超深井放喷测试点火现场",
+        "onboard_time": 1683033575,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2948063,
+        "num": 1250230,
+        "word": "史航聊天记录",
+        "onboard_time": 1683084629,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1181168,
+        "num": 1181168,
+        "word": "美女幼师凭挖呀挖呀挖走红",
+        "onboard_time": 1683077310,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056657,
+        "num": 1056657,
+        "word": "景区2天内捡了23个娃",
+        "onboard_time": 1683077670,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692854,
+        "num": 692854,
+        "word": "外滩",
+        "onboard_time": 1683040833,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 589962,
+        "num": 589962,
+        "word": "自贡地震",
+        "onboard_time": 1683080070,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569320,
+        "num": 569320,
+        "word": "湖人对战勇士",
+        "onboard_time": 1683076409,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467960,
+        "num": 467960,
+        "word": "湖人 罚球大队",
+        "onboard_time": 1683084690,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1254591,
+        "num": 466307,
+        "word": "黄色笑话是一种服从性测试",
+        "onboard_time": 1683083071,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 521073,
+        "num": 459612,
+        "word": "坐高铁碰到同座位的票",
+        "onboard_time": 1683086189,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472481,
+        "num": 457979,
+        "word": "韩国大学生吃掉价值12万美元香蕉展品",
+        "onboard_time": 1683070041,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447041,
+        "num": 447041,
+        "word": "林志玲状态",
+        "onboard_time": 1683074788,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386156,
+        "num": 386156,
+        "word": "东北商家回应钟薛高3.8元一根",
+        "onboard_time": 1683073946,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382918,
+        "num": 382918,
+        "word": "演唱会激光导致手机摄像头报废",
+        "onboard_time": 1683085049,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331026,
+        "num": 331026,
+        "word": "桃子老师",
+        "onboard_time": 1683081931,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328354,
+        "num": 328354,
+        "word": "cp29 无料",
+        "onboard_time": 1683084270,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 302436,
+        "num": 302436,
+        "word": "时代少年团演唱会彩带有玉米粒",
+        "onboard_time": 1683088051,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279706,
+        "num": 279706,
+        "word": "张婧仪孙千周也五一档票房实绩",
+        "onboard_time": 1683080972,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 889529,
+        "num": 279018,
+        "word": "工资3500突然变成了一万",
+        "onboard_time": 1683077008,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258581,
+        "num": 258581,
+        "word": "伴娘要随份子钱吗",
+        "onboard_time": 1683081931,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250326,
+        "num": 250326,
+        "word": "鹅厂五月大剧片单",
+        "onboard_time": 1683086310,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 241289,
+        "num": 241289,
+        "word": "史航称不存在性骚扰",
+        "onboard_time": 1683043469,
+        "rank": 23,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 241034,
+        "num": 241034,
+        "word": "哈尔滨天空现不明飞行物",
+        "onboard_time": 1683080911,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225292,
+        "num": 225292,
+        "word": "勇士三分投疯了",
+        "onboard_time": 1683083731,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224684,
+        "num": 224684,
+        "word": "妺女",
+        "onboard_time": 1683029489,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222475,
+        "num": 222475,
+        "word": "一家三口五一出游被困悬崖边",
+        "onboard_time": 1683069561,
+        "rank": 27,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 211986,
+        "num": 211986,
+        "word": "聊天时最反感哪个emoji表情",
+        "onboard_time": 1683079110,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164126,
+        "num": 211941,
+        "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
+        "onboard_time": 1683073946,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211932,
+        "num": 211932,
+        "word": "找好朋友做伴娘闹到绝交",
+        "onboard_time": 1683033634,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211766,
+        "num": 211766,
+        "word": "NBA季后赛",
+        "onboard_time": 1683088412,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208916,
+        "num": 208916,
+        "word": "这就是陈都灵流鼻血那场戏啊",
+        "onboard_time": 1683074548,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202024,
+        "num": 202024,
+        "word": "本人目前的状态 一不做二不休",
+        "onboard_time": 1683087270,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189607,
+        "num": 189607,
+        "word": "王诗龄被吐槽炫富",
+        "onboard_time": 1683029668,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187063,
+        "num": 187063,
+        "word": "190男子晒自己视角下的155女友",
+        "onboard_time": 1683087750,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185420,
+        "num": 185420,
+        "word": "傅卫军",
+        "onboard_time": 1683085770,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180178,
+        "num": 180178,
+        "word": "刘耀文贺峻霖到达长沙视频",
+        "onboard_time": 1683085770,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175736,
+        "num": 175736,
+        "word": "涉事景区称插队事件自己也是受损方",
+        "onboard_time": 1683069680,
+        "rank": 38,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 158032,
+        "num": 158032,
+        "word": "长空之王对违规影院停止提供密钥",
+        "onboard_time": 1683075930,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 160541,
+        "num": 153848,
+        "word": "海口的风很懂宋亚轩",
+        "onboard_time": 1683083850,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148901,
+        "num": 148901,
+        "word": "萤火虫漫展",
+        "onboard_time": 1683085650,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148860,
+        "num": 148860,
+        "word": "插队",
+        "onboard_time": 1683077310,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144386,
+        "num": 144386,
+        "word": "乘风2023芭莎红意官宣大片",
+        "onboard_time": 1683082411,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137582,
+        "num": 137582,
+        "word": "平凡之路今日开播",
+        "onboard_time": 1683083613,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 136667,
+        "num": 136667,
+        "word": "女星爆款剧数量TOP5",
+        "onboard_time": 1683080012,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134412,
+        "num": 134412,
+        "word": "一架直升机坠落西安白鹿仓景区",
+        "onboard_time": 1683087930,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129596,
+        "num": 129596,
+        "word": "皮皮限",
+        "onboard_time": 1683086608,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127397,
+        "num": 127397,
+        "word": "普尔神经刀",
+        "onboard_time": 1683085169,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122136,
+        "num": 122136,
+        "word": "花很多钱买完就后悔的东西",
+        "onboard_time": 1683087990,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#五一返程高峰来了#"
+    }
+  }
+}
