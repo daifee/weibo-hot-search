@@ -1,0 +1,410 @@
+{
+  "runTime": 1683110007233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2019435,
+        "num": 2019435,
+        "word": "高铁上最好不要和邻座套近乎",
+        "onboard_time": 1683101370,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 679898,
+        "num": 1873514,
+        "word": "热心大哥高铁上怒斥熊孩子家长获喝彩",
+        "onboard_time": 1683099570,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61757,
+        "num": 1854853,
+        "word": "无人机视角看假期里的美丽中国",
+        "onboard_time": 1683102990,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1840454,
+        "num": 1840454,
+        "word": "EXO",
+        "onboard_time": 1683107429,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363359,
+        "num": 1547117,
+        "word": "29年前网红城市西安什么样",
+        "onboard_time": 1683107429,
+        "rank": 4,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 1317058,
+        "num": 1317058,
+        "word": "高铁上碰到了一对情侣想换座",
+        "onboard_time": 1683104970,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263070,
+        "num": 722066,
+        "word": "山东男孩五一路边3天拉来1500元客单",
+        "onboard_time": 1683094890,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716069,
+        "num": 716069,
+        "word": "端午节也要调休",
+        "onboard_time": 1683092551,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 671502,
+        "num": 671502,
+        "word": "余秀华 读书万卷不过沐猴之冠",
+        "onboard_time": 1683104190,
+        "rank": 8,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 587119,
+        "num": 587119,
+        "word": "庆余年2真的要开机了",
+        "onboard_time": 1683102869,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1243131,
+        "num": 580184,
+        "word": "费曼 为了周杰伦我已阴",
+        "onboard_time": 1683105151,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1220929,
+        "num": 551437,
+        "word": "诺一何炅撞脸",
+        "onboard_time": 1683105630,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510990,
+        "num": 510990,
+        "word": "史航聊天记录",
+        "onboard_time": 1683084629,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 507137,
+        "num": 507137,
+        "word": "陈晓觉得陈妍希最适合拍戏",
+        "onboard_time": 1683095313,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 480711,
+        "num": 480711,
+        "word": "嘟嘟酱 童年被继父差点性侵",
+        "onboard_time": 1683084389,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 391792,
+        "num": 391792,
+        "word": "大伯二婚对象是我初恋的妈妈",
+        "onboard_time": 1683096089,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383059,
+        "num": 383059,
+        "word": "每天对着卡琳娜哇哇叫",
+        "onboard_time": 1683105212,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 359323,
+        "num": 359323,
+        "word": "将门毒后",
+        "onboard_time": 1683093867,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 350181,
+        "num": 350181,
+        "word": "金廷祐金敏雅是亲姐弟",
+        "onboard_time": 1683103828,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337403,
+        "num": 337403,
+        "word": "五三惨案",
+        "onboard_time": 1683079650,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457693,
+        "num": 336812,
+        "word": "工资3500突然变成了一万",
+        "onboard_time": 1683077008,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322813,
+        "num": 322813,
+        "word": "美女幼师凭挖呀挖呀挖走红",
+        "onboard_time": 1683077310,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313425,
+        "num": 313425,
+        "word": "沧九旻黎苏苏叶清宇景王宫戏份被删",
+        "onboard_time": 1683104789,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 306159,
+        "num": 306159,
+        "word": "月薪8500工作太闲要辞职吗",
+        "onboard_time": 1683098728,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300764,
+        "num": 300764,
+        "word": "金钟仁将入伍",
+        "onboard_time": 1683106650,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280063,
+        "num": 280063,
+        "word": "卡琳娜无期迷途",
+        "onboard_time": 1683100590,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 267836,
+        "num": 267836,
+        "word": "黄色笑话是一种服从性测试",
+        "onboard_time": 1683083071,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259703,
+        "num": 259703,
+        "word": "山东化工厂爆炸致9死1伤1失联",
+        "onboard_time": 1683103951,
+        "rank": 27,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 176271,
+        "num": 256183,
+        "word": "欢迎中国内地游客全世界有多拼",
+        "onboard_time": 1683103529,
+        "rank": 28,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 33362,
+        "num": 255193,
+        "word": "五一高速充电依旧排队",
+        "onboard_time": 1683108271,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 783658,
+        "num": 254842,
+        "word": "直升机坠落西安白鹿仓景区致3人亡",
+        "onboard_time": 1683098612,
+        "rank": 30,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 254462,
+        "num": 254462,
+        "word": "48岁冻龄妈妈谈被家暴经历",
+        "onboard_time": 1683094530,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241643,
+        "num": 241643,
+        "word": "景区2天内捡了23个娃",
+        "onboard_time": 1683077670,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237487,
+        "num": 237487,
+        "word": "景区租给游客的衣服有多脏",
+        "onboard_time": 1683109350,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 226533,
+        "num": 226533,
+        "word": "银河护卫队3",
+        "onboard_time": 1683109050,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225013,
+        "num": 225013,
+        "word": "湖南男子在西湖捞手机日入约一万",
+        "onboard_time": 1683108990,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198303,
+        "num": 198303,
+        "word": "吴世勋为拍MV剪短头发",
+        "onboard_time": 1683107671,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196779,
+        "num": 196779,
+        "word": "宋慧乔的发量",
+        "onboard_time": 1683100411,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194541,
+        "num": 194541,
+        "word": "张紫宁横店音乐节遭威胁",
+        "onboard_time": 1683093388,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186589,
+        "num": 186589,
+        "word": "CP29女菩萨",
+        "onboard_time": 1683099269,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177615,
+        "num": 177615,
+        "word": "父母姓氏合在一起的名字",
+        "onboard_time": 1683102629,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175941,
+        "num": 175941,
+        "word": "如何快速变老",
+        "onboard_time": 1683106111,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175680,
+        "num": 175680,
+        "word": "二十岁的鹿晗",
+        "onboard_time": 1683102330,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175601,
+        "num": 175601,
+        "word": "睡眠不足的九大表现",
+        "onboard_time": 1683096867,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174184,
+        "num": 174184,
+        "word": "韩国大学生吃掉价值12万美元香蕉展品",
+        "onboard_time": 1683070041,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173260,
+        "num": 173260,
+        "word": "漫长的季节",
+        "onboard_time": 1683091710,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167759,
+        "num": 167759,
+        "word": "苏有朋用倚天台词为贾静雯打call",
+        "onboard_time": 1683103229,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161824,
+        "num": 161824,
+        "word": "五一档两部电影票房破五亿",
+        "onboard_time": 1683100469,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150486,
+        "num": 150486,
+        "word": "NMIXX演唱会粉丝丢娃上台",
+        "onboard_time": 1683102869,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143610,
+        "num": 143610,
+        "word": "BLACKPINK主题飞机",
+        "onboard_time": 1683101131,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年是有伟大创造力的青年#"
+    }
+  }
+}
