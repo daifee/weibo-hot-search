@@ -1,6 +1,6 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683088452711,
+  "endTime": 1683090955158,
   "band_list": [
     {
       "raw_hot": 3220437,
@@ -35,20 +35,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1791477,
+      "num": 1702736,
+      "word": "嘟嘟酱 童年被继父差点性侵",
+      "onboard_time": 1683084389,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1790701,
+      "num": 550504,
+      "word": "演技被严重夸大的演员",
+      "onboard_time": 1683089431,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1742679,
       "num": 1742679,
       "word": "云南地震",
       "onboard_time": 1683042332,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1702736,
-      "num": 1702736,
-      "word": "嘟嘟酱 童年被继父差点性侵",
-      "onboard_time": 1683084389,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 1593616,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1254591,
-      "num": 516556,
+      "num": 543296,
       "word": "黄色笑话是一种服从性测试",
       "onboard_time": 1683083071,
       "rank": 24,
@@ -123,12 +131,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1052653,
+      "num": 1052653,
+      "word": "湖人1比0勇士",
+      "onboard_time": 1683089014,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1026901,
       "num": 1026901,
       "word": "傅卫军 性张力",
       "onboard_time": 1683080791,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 944676,
+      "num": 944676,
+      "word": "湖人 罚球大队",
+      "onboard_time": 1683084690,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 930914,
@@ -211,8 +235,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534261,
+      "num": 339618,
+      "word": "范思辙当律师了",
+      "onboard_time": 1683089673,
+      "rank": 21,
+      "category": "影视"
+    },
+    {
       "raw_hot": 521073,
-      "num": 459612,
+      "num": 463334,
       "word": "坐高铁碰到同座位的票",
       "onboard_time": 1683086189,
       "rank": 14,
@@ -225,6 +257,14 @@
       "onboard_time": 1683081931,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 511371,
+      "num": 511371,
+      "word": "普尔 库里",
+      "onboard_time": 1683089732,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 486213,
@@ -251,12 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475504,
-      "num": 475504,
-      "word": "湖人 罚球大队",
-      "onboard_time": 1683084690,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 472519,
+      "num": 472519,
+      "word": "四川宜宾兴文4.0级地震",
+      "onboard_time": 1683090455,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457483,
@@ -363,12 +403,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 362022,
+      "num": 362022,
+      "word": "190男子晒自己视角下的155女友",
+      "onboard_time": 1683087750,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347990,
       "num": 347990,
       "word": "要你管",
       "onboard_time": 1683034299,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 344954,
+      "num": 344954,
+      "word": "时代少年团演唱会彩带有玉米粒",
+      "onboard_time": 1683088051,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 330313,
+      "num": 330313,
+      "word": "浓眉攻防一体",
+      "onboard_time": 1683090211,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 328354,
@@ -431,14 +495,6 @@
       "num": 307753,
       "word": "周深说额头见到大家很高兴",
       "onboard_time": 1683075328,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 302436,
-      "num": 302436,
-      "word": "时代少年团演唱会彩带有玉米粒",
-      "onboard_time": 1683088051,
       "rank": 18,
       "category": "音乐"
     },
@@ -539,12 +595,36 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 232589,
+      "num": 232589,
+      "word": "一架直升机坠落西安白鹿仓景区",
+      "onboard_time": 1683087930,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228603,
       "num": 228603,
       "word": "游客强行翻越重庆千厮门大桥",
       "onboard_time": 1683078812,
       "rank": 37,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 228582,
+      "num": 228582,
+      "word": "普尔神经刀",
+      "onboard_time": 1683085169,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228351,
+      "num": 228351,
+      "word": "本人目前的状态 一不做二不休",
+      "onboard_time": 1683087270,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 227519,
@@ -635,12 +715,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202024,
-      "num": 202024,
-      "word": "本人目前的状态 一不做二不休",
-      "onboard_time": 1683087270,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 208058,
+      "num": 208058,
+      "word": "浓眉30分23篮板",
+      "onboard_time": 1683090332,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204568,
+      "num": 204568,
+      "word": "母亲给五一返程女儿塞80斤特产",
+      "onboard_time": 1683089193,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201707,
+      "num": 201707,
+      "word": "不健康的原生家庭危害有多大",
+      "onboard_time": 1683090929,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 201240,
@@ -699,14 +795,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 187063,
-      "num": 187063,
-      "word": "190男子晒自己视角下的155女友",
-      "onboard_time": 1683087750,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186233,
       "num": 186233,
       "word": "刘耀文贺峻霖到达长沙视频",
@@ -739,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180518,
+      "num": 180518,
+      "word": "妈妈生病姐弟假期3天卖上千根冰棍",
+      "onboard_time": 1683090573,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180084,
       "num": 180084,
       "word": "高叶淡妆生图",
@@ -763,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177687,
+      "num": 177687,
+      "word": "杨洋蒋梦婕宝黛cp同框",
+      "onboard_time": 1683090871,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 172386,
       "num": 172386,
       "word": "博物馆回应老人疑因捡帽子跳入文物坑",
@@ -777,6 +881,14 @@
       "onboard_time": 1683042271,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171291,
+      "num": 171291,
+      "word": "格林",
+      "onboard_time": 1683090151,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 170842,
@@ -875,14 +987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 151952,
-      "num": 151952,
-      "word": "普尔神经刀",
-      "onboard_time": 1683085169,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150948,
       "num": 150948,
       "word": "广州漫展",
@@ -905,14 +1009,6 @@
       "onboard_time": 1683083011,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 134412,
-      "num": 134412,
-      "word": "一架直升机坠落西安白鹿仓景区",
-      "onboard_time": 1683087930,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134348,
