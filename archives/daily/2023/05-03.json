@@ -1,6 +1,6 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683094902408,
+  "endTime": 1683095649797,
   "band_list": [
     {
       "raw_hot": 3220437,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2780935,
+      "raw_hot": 2915671,
       "num": 550504,
       "word": "演技被严重夸大的演员",
       "onboard_time": 1683089431,
@@ -59,12 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1596157,
+      "num": 1596157,
+      "word": "将门毒后",
+      "onboard_time": 1683093867,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1593616,
       "num": 1593616,
       "word": "美女幼师凭挖呀挖呀挖走红",
       "onboard_time": 1683077310,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1426122,
+      "num": 1426122,
+      "word": "端午节也要调休",
+      "onboard_time": 1683092551,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 1298777,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1254591,
-      "num": 808298,
+      "num": 1048825,
       "word": "黄色笑话是一种服从性测试",
       "onboard_time": 1683083071,
       "rank": 24,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 930356,
-      "num": 930356,
-      "word": "将门毒后",
-      "onboard_time": 1683093867,
-      "rank": 1,
-      "category": "影视"
-    },
-    {
       "raw_hot": 913218,
       "num": 913218,
       "word": "妺女",
@@ -219,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 716814,
-      "num": 716814,
-      "word": "端午节也要调休",
-      "onboard_time": 1683092551,
-      "rank": 5,
-      "category": "情感"
+      "raw_hot": 675709,
+      "num": 675709,
+      "word": "张紫宁横店音乐节遭威胁",
+      "onboard_time": 1683093388,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 627136,
@@ -331,14 +339,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 455600,
-      "num": 455600,
-      "word": "张紫宁横店音乐节遭威胁",
-      "onboard_time": 1683093388,
-      "rank": 8,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 449869,
       "num": 449869,
       "word": "张婧仪孙千周也五一档票房实绩",
@@ -395,12 +395,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 395279,
+      "num": 342668,
+      "word": "陈晓觉得陈妍希最适合拍戏",
+      "onboard_time": 1683095313,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 393805,
       "num": 393805,
       "word": "长沙夜生活导演谈排片惨淡",
       "onboard_time": 1683072506,
       "rank": 9,
       "category": "影视"
+    },
+    {
+      "raw_hot": 383235,
+      "num": 383235,
+      "word": "我突然发现了赚钱的意义",
+      "onboard_time": 1683091770,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 382918,
@@ -483,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 329762,
-      "num": 329762,
-      "word": "我突然发现了赚钱的意义",
-      "onboard_time": 1683091770,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 328354,
       "num": 328354,
       "word": "cp29 无料",
@@ -555,6 +563,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297615,
+      "num": 269113,
+      "word": "喻言个人巡演官宣",
+      "onboard_time": 1683094411,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 294486,
+      "num": 294486,
+      "word": "游客手机掉西湖被要1500元打捞费",
+      "onboard_time": 1683094227,
+      "rank": 36,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 280087,
       "num": 280087,
       "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
@@ -563,12 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268056,
-      "num": 268056,
-      "word": "喻言个人巡演官宣",
-      "onboard_time": 1683094411,
-      "rank": 22,
-      "category": "音乐"
+      "raw_hot": 268317,
+      "num": 268317,
+      "word": "宠物鸭被营救时边上正摆着三口锅",
+      "onboard_time": 1683091472,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267736,
@@ -619,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 250776,
-      "num": 250776,
-      "word": "宠物鸭被营救时边上正摆着三口锅",
-      "onboard_time": 1683091472,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250326,
       "num": 250326,
       "word": "鹅厂五月大剧片单",
@@ -665,6 +681,14 @@
       "onboard_time": 1683083492,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 239235,
+      "num": 239235,
+      "word": "48岁冻龄妈妈谈被家暴经历",
+      "onboard_time": 1683094530,
+      "rank": 41,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 235684,
@@ -731,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227320,
+      "num": 227320,
+      "word": "澹台烬逼黎苏苏修炼无情道成神",
+      "onboard_time": 1683091950,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222617,
       "num": 222617,
       "word": "时代少年团演唱会回放",
@@ -777,14 +809,6 @@
       "onboard_time": 1683083670,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 214142,
-      "num": 214142,
-      "word": "澹台烬逼黎苏苏修炼无情道成神",
-      "onboard_time": 1683091950,
-      "rank": 48,
-      "category": "影视"
     },
     {
       "raw_hot": 211766,
@@ -907,14 +931,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 190144,
-      "num": 190144,
-      "word": "游客手机掉西湖被要1500元打捞费",
-      "onboard_time": 1683094227,
-      "rank": 36,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 188822,
       "num": 188822,
       "word": "刘耀文说太激动了谢谢大家",
@@ -1011,6 +1027,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 177600,
+      "num": 177600,
+      "word": "山东男孩五一路边3天拉来1500元客单",
+      "onboard_time": 1683094890,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172386,
       "num": 172386,
       "word": "博物馆回应老人疑因捡帽子跳入文物坑",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1682987666,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165039,
-      "num": 165039,
-      "word": "48岁冻龄妈妈谈被家暴经历",
-      "onboard_time": 1683094530,
-      "rank": 41,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 164188,
@@ -1163,8 +1179,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 136915,
-      "num": 136915,
+      "raw_hot": 139183,
+      "num": 139183,
       "word": "喜欢你我也是",
       "onboard_time": 1683092012,
       "rank": 46,
@@ -1187,19 +1203,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133291,
-      "num": 133291,
-      "word": "山东男孩五一路边3天拉来1500元客单",
-      "onboard_time": 1683094890,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132555,
       "num": 132555,
       "word": "Hero晋级败者组第三轮",
       "onboard_time": 1683041196,
       "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 130864,
+      "num": 130864,
+      "word": "Gr人队三把四跑",
+      "onboard_time": 1683095248,
+      "rank": 47,
       "category": "游戏"
     },
     {
@@ -1225,6 +1241,14 @@
       "onboard_time": 1683069621,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124424,
+      "num": 124424,
+      "word": "吴世勋新剧将播出",
+      "onboard_time": 1683095009,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 124339,
@@ -1515,8 +1539,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38201,
-      "num": 823381,
+      "raw_hot": 40049,
+      "num": 1124857,
       "word": "劳动是奋斗追梦的五光十色",
       "onboard_time": 1683091590,
       "rank": 2,
