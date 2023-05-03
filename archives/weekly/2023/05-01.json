@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683135192846,
+  "endTime": 1683138063087,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -3027,6 +3027,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273920,
+      "num": 181715,
+      "word": "西安坠机航司称已联系遇难者家属",
+      "onboard_time": 1683130646,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273308,
       "num": 273308,
       "word": "cp30",
@@ -3873,14 +3881,6 @@
       "onboard_time": 1683037421,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 227453,
-      "num": 181715,
-      "word": "西安坠机航司称已联系遇难者家属",
-      "onboard_time": 1683130646,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227320,
@@ -7121,6 +7121,14 @@
       "onboard_time": 1682969413,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28240,
+      "num": 28240,
+      "word": "通往群星的轨道",
+      "onboard_time": 1683135736,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 19663,
