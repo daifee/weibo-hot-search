@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683152182779,
+  "endTime": 1683153200194,
   "band_list": [
     {
       "raw_hot": 1463595,
@@ -59,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 577609,
-      "num": 577609,
+      "raw_hot": 635198,
+      "num": 635198,
       "word": "新冠 查漏补缺",
       "onboard_time": 1683130048,
       "rank": 24,
@@ -89,6 +89,14 @@
       "onboard_time": 1683124471,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 433013,
+      "num": 181715,
+      "word": "西安坠机航司称已联系遇难者家属",
+      "onboard_time": 1683130646,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394918,
@@ -145,14 +153,6 @@
       "onboard_time": 1683126331,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311293,
-      "num": 181715,
-      "word": "西安坠机航司称已联系遇难者家属",
-      "onboard_time": 1683130646,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307059,
@@ -419,6 +419,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 76277,
+      "num": 50784,
+      "word": "收1500捞手机者非西湖景区工作人员",
+      "onboard_time": 1683147431,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 74905,
       "num": 74905,
       "word": "费曼 为了周杰伦我已阴",
@@ -451,14 +459,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 57170,
-      "num": 41136,
-      "word": "收1500捞手机者非西湖景区工作人员",
-      "onboard_time": 1683147431,
-      "rank": 44,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 56652,
       "num": 56652,
       "word": "明知道不好却改不了的毛病",
@@ -467,12 +467,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 41246,
-      "num": 41246,
+      "raw_hot": 48336,
+      "num": 48336,
       "word": "徐怀钰45岁身材管理",
       "onboard_time": 1683149712,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40140,
+      "num": 40140,
+      "word": "男孩不交手机当街追打奶奶",
+      "onboard_time": 1683145032,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34078,
@@ -491,11 +499,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32033,
-      "num": 32033,
-      "word": "男孩不交手机当街追打奶奶",
-      "onboard_time": 1683145032,
-      "rank": 49,
+      "raw_hot": 27694,
+      "num": 27694,
+      "word": "中国第一位唢呐博士惊艳出圈",
+      "onboard_time": 1683152656,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
