@@ -1,6 +1,6 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683127060826,
+  "endTime": 1683128025158,
   "band_list": [
     {
       "raw_hot": 4979379,
@@ -169,6 +169,14 @@
       "onboard_time": 1683105630,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1270297,
+      "num": 1270297,
+      "word": "常年不吃碳水的人怎么样了",
+      "onboard_time": 1683122072,
+      "rank": 37,
+      "category": "情感,美食"
     },
     {
       "raw_hot": 1269767,
@@ -363,14 +371,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 774728,
-      "num": 774728,
-      "word": "常年不吃碳水的人怎么样了",
-      "onboard_time": 1683122072,
-      "rank": 37,
-      "category": "情感,美食"
-    },
-    {
       "raw_hot": 740660,
       "num": 740660,
       "word": "四川宜宾兴文4.0级地震",
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 676207,
+      "num": 536163,
+      "word": "龚俊说被顶流花花圈粉了",
+      "onboard_time": 1683126212,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 675709,
       "num": 675709,
       "word": "张紫宁横店音乐节遭威胁",
@@ -465,6 +473,14 @@
       "onboard_time": 1683075930,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 570119,
+      "num": 570119,
+      "word": "赛琳娜靠美妆品牌成为亿万富翁",
+      "onboard_time": 1683126154,
+      "rank": 18,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 569320,
@@ -523,14 +539,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 536163,
-      "num": 536163,
-      "word": "龚俊说被顶流花花圈粉了",
-      "onboard_time": 1683126212,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 527793,
       "num": 527793,
       "word": "湖南男子在西湖捞手机日入约一万",
@@ -569,6 +577,14 @@
       "onboard_time": 1683089732,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 497449,
+      "num": 497449,
+      "word": "找工作一定要找双休的",
+      "onboard_time": 1683124471,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 492091,
@@ -651,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441234,
+      "num": 441234,
+      "word": "eStar止步季后赛",
+      "onboard_time": 1683127109,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 440961,
       "num": 440961,
       "word": "淄博大姐留宿12名无房游客住家里",
@@ -699,14 +723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 422548,
-      "num": 422548,
-      "word": "找工作一定要找双休的",
-      "onboard_time": 1683124471,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 422319,
       "num": 422319,
       "word": "男子吐槽在景区停车场一路捡到26个螺丝钉",
@@ -737,14 +753,6 @@
       "onboard_time": 1683081931,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 409405,
-      "num": 409405,
-      "word": "赛琳娜靠美妆品牌成为亿万富翁",
-      "onboard_time": 1683126154,
-      "rank": 18,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 405553,
@@ -859,6 +867,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 364409,
+      "num": 364409,
+      "word": "明星减肥有多狠",
+      "onboard_time": 1683126331,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362845,
       "num": 362845,
       "word": "房价房租倒挂",
@@ -913,6 +929,14 @@
       "onboard_time": 1683088051,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 343038,
+      "num": 343038,
+      "word": "金泰妍LV品牌代言人",
+      "onboard_time": 1683126930,
+      "rank": 39,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 338755,
@@ -1043,14 +1067,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 303020,
-      "num": 303020,
-      "word": "明星减肥有多狠",
-      "onboard_time": 1683126331,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297615,
       "num": 269113,
       "word": "喻言个人巡演官宣",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1683094890,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270736,
+      "num": 270736,
+      "word": "DRG晋级败者组半决赛",
+      "onboard_time": 1683127052,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 268449,
@@ -1419,6 +1443,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 220843,
+      "num": 220843,
+      "word": "00后整顿高铁熊孩子",
+      "onboard_time": 1683125673,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219857,
       "num": 219857,
       "word": "cp29 现杀现做",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1683114988,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213196,
+      "num": 213196,
+      "word": "我明天的精神状态",
+      "onboard_time": 1683128010,
+      "rank": 36,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 211766,
@@ -1561,14 +1601,6 @@
       "onboard_time": 1683101726,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205298,
-      "num": 205298,
-      "word": "金泰妍LV品牌代言人",
-      "onboard_time": 1683126930,
-      "rank": 39,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 204898,
@@ -1819,14 +1851,6 @@
       "category": "社会新闻,影视"
     },
     {
-      "raw_hot": 178594,
-      "num": 178594,
-      "word": "DRG晋级败者组半决赛",
-      "onboard_time": 1683127052,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 178573,
       "num": 178573,
       "word": "重庆震感",
@@ -1913,14 +1937,6 @@
       "onboard_time": 1683071243,
       "rank": 31,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 172296,
-      "num": 172296,
-      "word": "00后整顿高铁熊孩子",
-      "onboard_time": 1683125673,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 171817,
@@ -2097,6 +2113,14 @@
       "onboard_time": 1683110850,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 144534,
+      "num": 144534,
+      "word": "时代少年团演唱会安检储存物被扔",
+      "onboard_time": 1683120093,
+      "rank": 49,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 140448,
