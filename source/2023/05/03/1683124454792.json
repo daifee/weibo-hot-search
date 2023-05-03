@@ -1,0 +1,410 @@
+{
+  "runTime": 1683124454792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1363854,
+        "num": 1363854,
+        "word": "明天上班可能出现的症状",
+        "onboard_time": 1683110071,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 1702504,
+        "num": 1308818,
+        "word": "相识24年的闺蜜突然去世了",
+        "onboard_time": 1683112586,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278265,
+        "num": 1202396,
+        "word": "这个五一274000000人次出游",
+        "onboard_time": 1683117812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3067157,
+        "num": 1200109,
+        "word": "阳了",
+        "onboard_time": 1683115648,
+        "rank": 3,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1172037,
+        "num": 1172037,
+        "word": "长月烬明就演到这吧",
+        "onboard_time": 1683115288,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 855567,
+        "num": 855567,
+        "word": "宋亚轩 破音",
+        "onboard_time": 1683123090,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 838426,
+        "num": 838426,
+        "word": "王博",
+        "onboard_time": 1683121172,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 757056,
+        "num": 757056,
+        "word": "高铁上碰到了一对情侣想换座",
+        "onboard_time": 1683104970,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 649372,
+        "num": 649372,
+        "word": "高铁上最好不要和邻座套近乎",
+        "onboard_time": 1683101370,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 633686,
+        "num": 633686,
+        "word": "克里姆林宫遭袭击画面",
+        "onboard_time": 1683118713,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1702902,
+        "num": 612012,
+        "word": "秦昊瘦身食谱",
+        "onboard_time": 1683120693,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 554138,
+        "num": 554138,
+        "word": "端午节也要调休",
+        "onboard_time": 1683092551,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 544075,
+        "num": 544075,
+        "word": "48岁冻龄妈妈谈被家暴经历",
+        "onboard_time": 1683094530,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511689,
+        "num": 511689,
+        "word": "刘恋穿了品如的衣服",
+        "onboard_time": 1683112469,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 501254,
+        "num": 501254,
+        "word": "EXO",
+        "onboard_time": 1683107429,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499618,
+        "num": 499618,
+        "word": "美女幼师凭挖呀挖呀挖走红",
+        "onboard_time": 1683077310,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430108,
+        "num": 430108,
+        "word": "史航聊天记录",
+        "onboard_time": 1683084629,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 395072,
+        "num": 395072,
+        "word": "人生路不熟",
+        "onboard_time": 1683123513,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388482,
+        "num": 388482,
+        "word": "金钟仁直播哭了",
+        "onboard_time": 1683120511,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375877,
+        "num": 375877,
+        "word": "赵继伟鞋掉了",
+        "onboard_time": 1683121474,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511690,
+        "num": 375795,
+        "word": "工资3500突然变成了一万",
+        "onboard_time": 1683077008,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375622,
+        "num": 375622,
+        "word": "庆余年2真的要开机了",
+        "onboard_time": 1683102869,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 351283,
+        "num": 351283,
+        "word": "人生路不熟成五一档票房冠军",
+        "onboard_time": 1683121231,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 348547,
+        "num": 348547,
+        "word": "诺一何炅撞脸",
+        "onboard_time": 1683105630,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346786,
+        "num": 346786,
+        "word": "费曼 为了周杰伦我已阴",
+        "onboard_time": 1683105151,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343364,
+        "num": 343364,
+        "word": "嘟嘟酱 童年被继父差点性侵",
+        "onboard_time": 1683084389,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 342830,
+        "num": 342830,
+        "word": "湖南男子在西湖捞手机日入约一万",
+        "onboard_time": 1683108990,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342492,
+        "num": 342492,
+        "word": "常年不吃碳水的人怎么样了",
+        "onboard_time": 1683122072,
+        "rank": 27,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 338437,
+        "num": 338437,
+        "word": "基辅出动两架无人机袭击克宫未遂",
+        "onboard_time": 1683118112,
+        "rank": 28,
+        "category": "社会新闻,国外要闻"
+      },
+      {
+        "raw_hot": 294844,
+        "num": 294844,
+        "word": "五三惨案",
+        "onboard_time": 1683079650,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286936,
+        "num": 286936,
+        "word": "而我只能去上班",
+        "onboard_time": 1683119553,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283174,
+        "num": 283174,
+        "word": "余秀华 读书万卷不过沐猴之冠",
+        "onboard_time": 1683104190,
+        "rank": 31,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 262484,
+        "num": 262484,
+        "word": "孙燕姿现场",
+        "onboard_time": 1683120453,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239367,
+        "num": 239367,
+        "word": "肖战如梦之梦西安站的花墙",
+        "onboard_time": 1683119070,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 234430,
+        "num": 234430,
+        "word": "大伯二婚对象是我初恋的妈妈",
+        "onboard_time": 1683096089,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233787,
+        "num": 233787,
+        "word": "陈晓觉得陈妍希最适合拍戏",
+        "onboard_time": 1683095313,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 222230,
+        "num": 222230,
+        "word": "韩国大学生吃掉价值12万美元香蕉展品",
+        "onboard_time": 1683070041,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221900,
+        "num": 221900,
+        "word": "CBA半决赛",
+        "onboard_time": 1683119372,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137141,
+        "num": 214803,
+        "word": "乌方称没有参与对克宫的无人机袭击",
+        "onboard_time": 1683120453,
+        "rank": 38,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 213652,
+        "num": 213652,
+        "word": "郭艾伦缺席G4",
+        "onboard_time": 1683114988,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199715,
+        "num": 199715,
+        "word": "景区2天内捡了23个娃",
+        "onboard_time": 1683077670,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196447,
+        "num": 196447,
+        "word": "将门毒后",
+        "onboard_time": 1683093867,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 196413,
+        "num": 196413,
+        "word": "虞书欣吴宣仪王一栩合影",
+        "onboard_time": 1683119790,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194376,
+        "num": 194376,
+        "word": "李飞听完王浩唱歌后的反应",
+        "onboard_time": 1683120693,
+        "rank": 43,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 191856,
+        "num": 191856,
+        "word": "每天对着卡琳娜哇哇叫",
+        "onboard_time": 1683105212,
+        "rank": 44,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 191475,
+        "num": 191475,
+        "word": "辽宁男篮2比2广厦男篮",
+        "onboard_time": 1683122432,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177170,
+        "num": 177170,
+        "word": "胡金秋受伤",
+        "onboard_time": 1683122974,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171463,
+        "num": 171463,
+        "word": "LGD",
+        "onboard_time": 1683119853,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165037,
+        "num": 165037,
+        "word": "脑子还没转过弯来就被挟持了",
+        "onboard_time": 1683123152,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152061,
+        "num": 152061,
+        "word": "卡琳娜无期迷途",
+        "onboard_time": 1683100590,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#点赞新时代青春力量#"
+    }
+  }
+}

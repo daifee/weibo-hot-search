@@ -1,6 +1,6 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683123346689,
+  "endTime": 1683124454792,
   "band_list": [
     {
       "raw_hot": 4979379,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1897707,
-      "num": 522666,
+      "num": 612012,
       "word": "秦昊瘦身食谱",
       "onboard_time": 1683120693,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 855567,
+      "num": 855567,
+      "word": "宋亚轩 破音",
+      "onboard_time": 1683123090,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 854653,
       "num": 854653,
       "word": "庆余年2真的要开机了",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 696943,
-      "num": 491823,
+      "num": 511689,
       "word": "刘恋穿了品如的衣服",
       "onboard_time": 1683112469,
       "rank": 19,
@@ -401,6 +409,14 @@
       "onboard_time": 1683093388,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 633686,
+      "num": 633686,
+      "word": "克里姆林宫遭袭击画面",
+      "onboard_time": 1683118713,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 627136,
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 428704,
-      "num": 281853,
+      "num": 286936,
       "word": "而我只能去上班",
       "onboard_time": 1683119553,
       "rank": 30,
@@ -715,8 +731,16 @@
       "category": "社会新闻,国外要闻"
     },
     {
+      "raw_hot": 395072,
+      "num": 395072,
+      "word": "人生路不熟",
+      "onboard_time": 1683123513,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 394214,
-      "num": 368612,
+      "num": 388482,
       "word": "金钟仁直播哭了",
       "onboard_time": 1683120511,
       "rank": 38,
@@ -729,14 +753,6 @@
       "onboard_time": 1683072506,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 393060,
-      "num": 393060,
-      "word": "宋亚轩 破音",
-      "onboard_time": 1683123090,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 383235,
@@ -827,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 351283,
+      "num": 351283,
+      "word": "人生路不熟成五一档票房冠军",
+      "onboard_time": 1683121231,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 350208,
       "num": 350208,
       "word": "四川宜宾4.5级地震",
@@ -849,6 +873,14 @@
       "onboard_time": 1683088051,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 342492,
+      "num": 342492,
+      "word": "常年不吃碳水的人怎么样了",
+      "onboard_time": 1683122072,
+      "rank": 37,
+      "category": "情感,美食"
     },
     {
       "raw_hot": 338755,
@@ -1059,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262484,
+      "num": 262484,
+      "word": "孙燕姿现场",
+      "onboard_time": 1683120453,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 262306,
       "num": 262306,
       "word": "时代少年团被激光笔照射",
@@ -1089,22 +1129,6 @@
       "onboard_time": 1683044249,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 255762,
-      "num": 255762,
-      "word": "人生路不熟成五一档票房冠军",
-      "onboard_time": 1683121231,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 251880,
-      "num": 251880,
-      "word": "孙燕姿现场",
-      "onboard_time": 1683120453,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 251865,
@@ -1387,12 +1411,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214572,
-      "num": 214572,
-      "word": "常年不吃碳水的人怎么样了",
-      "onboard_time": 1683122072,
-      "rank": 37,
-      "category": "情感,美食"
+      "raw_hot": 213652,
+      "num": 213652,
+      "word": "郭艾伦缺席G4",
+      "onboard_time": 1683114988,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 211766,
@@ -1913,14 +1937,6 @@
       "onboard_time": 1683076949,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 160574,
-      "num": 160574,
-      "word": "郭艾伦缺席G4",
-      "onboard_time": 1683114988,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 159895,
