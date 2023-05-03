@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683124454792,
+  "endTime": 1683127060826,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 1298777,
-      "num": 385719,
+      "num": 386107,
       "word": "工资3500突然变成了一万",
       "onboard_time": 1683077008,
       "rank": 20,
@@ -963,6 +963,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 774728,
+      "num": 774728,
+      "word": "常年不吃碳水的人怎么样了",
+      "onboard_time": 1683122072,
+      "rank": 37,
+      "category": "情感,美食"
+    },
+    {
       "raw_hot": 771321,
       "num": 771321,
       "word": "中国成养育成本第二高国家",
@@ -1099,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 700223,
+      "num": 700223,
+      "word": "克里姆林宫遭袭击画面",
+      "onboard_time": 1683118713,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 700101,
       "num": 512610,
       "word": "杜江身材",
@@ -1185,14 +1201,6 @@
       "onboard_time": 1683036104,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 633686,
-      "num": 633686,
-      "word": "克里姆林宫遭袭击画面",
-      "onboard_time": 1683118713,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632654,
@@ -1411,6 +1419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 536163,
+      "num": 536163,
+      "word": "龚俊说被顶流花花圈粉了",
+      "onboard_time": 1683126212,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 531871,
       "num": 456470,
       "word": "秦始皇陵人挤人秦二世陵好冷清",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1683019048,
       "rank": 22,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 492091,
+      "num": 492091,
+      "word": "金钟仁直播哭了",
+      "onboard_time": 1683120511,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 485510,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1682983399,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 457180,
+      "num": 457180,
+      "word": "人生路不熟成五一档票房冠军",
+      "onboard_time": 1683121231,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 453538,
@@ -1851,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422548,
+      "num": 422548,
+      "word": "找工作一定要找双休的",
+      "onboard_time": 1683124471,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 422319,
       "num": 422319,
       "word": "男子吐槽在景区停车场一路捡到26个螺丝钉",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1682923048,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409405,
+      "num": 409405,
+      "word": "赛琳娜靠美妆品牌成为亿万富翁",
+      "onboard_time": 1683126154,
+      "rank": 18,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 409160,
@@ -2067,14 +2115,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 394214,
-      "num": 388482,
-      "word": "金钟仁直播哭了",
-      "onboard_time": 1683120511,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 393805,
       "num": 393805,
       "word": "长沙夜生活导演谈排片惨淡",
@@ -2153,6 +2193,14 @@
       "onboard_time": 1683087750,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379153,
+      "num": 379153,
+      "word": "久哲BO7的神",
+      "onboard_time": 1683126571,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 375682,
@@ -2243,14 +2291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 351283,
-      "num": 351283,
-      "word": "人生路不熟成五一档票房冠军",
-      "onboard_time": 1683121231,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 350208,
       "num": 350208,
       "word": "四川宜宾4.5级地震",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1682991027,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 342492,
-      "num": 342492,
-      "word": "常年不吃碳水的人怎么样了",
-      "onboard_time": 1683122072,
-      "rank": 37,
-      "category": "情感,美食"
     },
     {
       "raw_hot": 340978,
@@ -2683,6 +2715,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 303020,
+      "num": 303020,
+      "word": "明星减肥有多狠",
+      "onboard_time": 1683126331,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "五一",
@@ -2745,6 +2785,14 @@
       "onboard_time": 1683004531,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 293984,
+      "num": 293984,
+      "word": "郭艾伦笑了",
+      "onboard_time": 1683125131,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 292812,
@@ -3137,6 +3185,14 @@
       "onboard_time": 1683091172,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 258332,
+      "num": 258332,
+      "word": "KPL",
+      "onboard_time": 1683126571,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 257866,
@@ -4011,6 +4067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216388,
+      "num": 216388,
+      "word": "逆水寒抽奖",
+      "onboard_time": 1683125972,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 215930,
       "num": 215930,
       "word": "陈楚生说魔都真的挺燥的",
@@ -4233,6 +4297,14 @@
       "onboard_time": 1683101726,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205298,
+      "num": 205298,
+      "word": "金泰妍LV品牌代言人",
+      "onboard_time": 1683126930,
+      "rank": 39,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 205208,
@@ -4899,6 +4971,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 178594,
+      "num": 178594,
+      "word": "DRG晋级败者组半决赛",
+      "onboard_time": 1683127052,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178573,
       "num": 178573,
       "word": "重庆震感",
@@ -5059,6 +5139,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 174630,
+      "num": 178184,
+      "word": "DRG巅峰对决eStar",
+      "onboard_time": 1683125312,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174599,
       "num": 174599,
       "word": "文俊辉穿深圳校服跳super",
@@ -5113,6 +5201,14 @@
       "onboard_time": 1682859690,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 172296,
+      "num": 172296,
+      "word": "00后整顿高铁熊孩子",
+      "onboard_time": 1683125673,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 171817,
