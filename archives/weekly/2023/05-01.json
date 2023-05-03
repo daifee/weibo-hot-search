@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683148516094,
+  "endTime": 1683149609114,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -7131,12 +7131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22985,
-      "num": 20504,
+      "raw_hot": 25747,
+      "num": 23412,
       "word": "男孩不交手机当街追打奶奶",
       "onboard_time": 1683145032,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20125,
+      "num": 20125,
+      "word": "收1500捞手机者非西湖景区工作人员",
+      "onboard_time": 1683147431,
+      "rank": 44,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 19663,
@@ -7161,14 +7169,6 @@
       "onboard_time": 1683060672,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14826,
-      "num": 17103,
-      "word": "收1500捞手机者非西湖景区工作人员",
-      "onboard_time": 1683147431,
-      "rank": 44,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 14520,
