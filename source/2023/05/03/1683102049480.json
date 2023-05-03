@@ -1,0 +1,410 @@
+{
+  "runTime": 1683102049480,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2546636,
+        "num": 2546636,
+        "word": "端午节也要调休",
+        "onboard_time": 1683092551,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 977349,
+        "num": 977349,
+        "word": "陈晓觉得陈妍希最适合拍戏",
+        "onboard_time": 1683095313,
+        "rank": 1,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 31686,
+        "num": 941335,
+        "word": "劳动是奋斗追梦的五光十色",
+        "onboard_time": 1683091590,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1350820,
+        "num": 938244,
+        "word": "直升机坠落西安白鹿仓景区致3人亡",
+        "onboard_time": 1683098612,
+        "rank": 3,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 920821,
+        "num": 920821,
+        "word": "将门毒后",
+        "onboard_time": 1683093867,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 812828,
+        "num": 812828,
+        "word": "大伯二婚对象是我初恋的妈妈",
+        "onboard_time": 1683096089,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 724448,
+        "num": 724448,
+        "word": "黄色笑话是一种服从性测试",
+        "onboard_time": 1683083071,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 712509,
+        "num": 712509,
+        "word": "五三惨案",
+        "onboard_time": 1683079650,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695708,
+        "num": 695708,
+        "word": "CP29女菩萨",
+        "onboard_time": 1683099269,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 492891,
+        "num": 492891,
+        "word": "张紫宁横店音乐节遭威胁",
+        "onboard_time": 1683093388,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1573356,
+        "num": 488600,
+        "word": "演技被严重夸大的演员",
+        "onboard_time": 1683089431,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 655019,
+        "num": 459194,
+        "word": "嘟嘟酱 童年被继父差点性侵",
+        "onboard_time": 1683084389,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 573225,
+        "num": 453183,
+        "word": "史航聊天记录",
+        "onboard_time": 1683084629,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 427014,
+        "num": 427014,
+        "word": "美女幼师凭挖呀挖呀挖走红",
+        "onboard_time": 1683077310,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380799,
+        "num": 380799,
+        "word": "景区2天内捡了23个娃",
+        "onboard_time": 1683077670,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351408,
+        "num": 351408,
+        "word": "睡眠不足的九大表现",
+        "onboard_time": 1683096867,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338305,
+        "num": 338305,
+        "word": "游客手机掉西湖被要1500元打捞费",
+        "onboard_time": 1683094227,
+        "rank": 16,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 337958,
+        "num": 337958,
+        "word": "卡琳娜无期迷途",
+        "onboard_time": 1683100590,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 300498,
+        "num": 300498,
+        "word": "BLACKPINK主题飞机",
+        "onboard_time": 1683101131,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287104,
+        "num": 287104,
+        "word": "五一档两部电影票房破五亿",
+        "onboard_time": 1683100469,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 622867,
+        "num": 286668,
+        "word": "月薪8500工作太闲要辞职吗",
+        "onboard_time": 1683098728,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 466349,
+        "num": 285976,
+        "word": "工资3500突然变成了一万",
+        "onboard_time": 1683077008,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285130,
+        "num": 285130,
+        "word": "热心大哥高铁上怒斥熊孩子家长获喝彩",
+        "onboard_time": 1683099570,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262306,
+        "num": 262306,
+        "word": "时代少年团被激光笔照射",
+        "onboard_time": 1683098428,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 256166,
+        "num": 256166,
+        "word": "韩国大学生吃掉价值12万美元香蕉展品",
+        "onboard_time": 1683070041,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253702,
+        "num": 253702,
+        "word": "杨洋组织同学会",
+        "onboard_time": 1683091590,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246287,
+        "num": 246287,
+        "word": "杨迪差点在苍兰诀播后加王鹤棣好友",
+        "onboard_time": 1683098969,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243874,
+        "num": 243874,
+        "word": "山东男孩五一路边3天拉来1500元客单",
+        "onboard_time": 1683094890,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214975,
+        "num": 214975,
+        "word": "我突然发现了赚钱的意义",
+        "onboard_time": 1683091770,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55747,
+        "num": 197600,
+        "word": "五一档电影票房超13亿元",
+        "onboard_time": 1683098190,
+        "rank": 29,
+        "category": "社会新闻,影视"
+      },
+      {
+        "raw_hot": 397776,
+        "num": 197043,
+        "word": "宋慧乔的发量",
+        "onboard_time": 1683100411,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194646,
+        "num": 194646,
+        "word": "科学家称外星人或很快发现人类",
+        "onboard_time": 1683096089,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 186518,
+        "num": 186518,
+        "word": "出国了看的还是中国广告",
+        "onboard_time": 1683101726,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186341,
+        "num": 186341,
+        "word": "徐志胜婉拒谈上春晚",
+        "onboard_time": 1683099871,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173675,
+        "num": 173675,
+        "word": "严浩翔说那就是怀疑我呗",
+        "onboard_time": 1683101131,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171788,
+        "num": 171788,
+        "word": "宠物鸭被营救时边上正摆着三口锅",
+        "onboard_time": 1683091472,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168323,
+        "num": 168323,
+        "word": "48岁冻龄妈妈谈被家暴经历",
+        "onboard_time": 1683094530,
+        "rank": 36,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 167895,
+        "num": 167895,
+        "word": "漫长的季节",
+        "onboard_time": 1683091710,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 167739,
+        "num": 167739,
+        "word": "cp29 无料",
+        "onboard_time": 1683084270,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 163477,
+        "num": 163477,
+        "word": "Jennie金智秀flower挑战",
+        "onboard_time": 1683096450,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162780,
+        "num": 162780,
+        "word": "高铁上最好不要和邻座套近乎",
+        "onboard_time": 1683101370,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146267,
+        "num": 146267,
+        "word": "胸围108的周严",
+        "onboard_time": 1683091172,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144300,
+        "num": 144300,
+        "word": "190男子晒自己视角下的155女友",
+        "onboard_time": 1683087750,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140918,
+        "num": 140918,
+        "word": "任嘉伦武庚纪妆造",
+        "onboard_time": 1683099269,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137951,
+        "num": 137951,
+        "word": "五一档电影评分降了",
+        "onboard_time": 1683097110,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 130313,
+        "num": 130313,
+        "word": "范思辙当律师了",
+        "onboard_time": 1683089673,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 127321,
+        "num": 127321,
+        "word": "澹台烬逼黎苏苏修炼无情道成神",
+        "onboard_time": 1683091950,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 122873,
+        "num": 122873,
+        "word": "湖人 罚球大队",
+        "onboard_time": 1683084690,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114156,
+        "num": 114156,
+        "word": "贺峻霖露背跳舞视频",
+        "onboard_time": 1683101849,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108944,
+        "num": 108944,
+        "word": "这都是二次元啊",
+        "onboard_time": 1683100048,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国青年是有伟大创造力的青年#"
+    }
+  }
+}
