@@ -1,6 +1,6 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683092007095,
+  "endTime": 1683094902408,
   "band_list": [
     {
       "raw_hot": 3220437,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2780935,
+      "num": 550504,
+      "word": "演技被严重夸大的演员",
+      "onboard_time": 1683089431,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2641650,
       "num": 2641650,
       "word": "五三惨案",
       "onboard_time": 1683079650,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2512298,
-      "num": 550504,
-      "word": "演技被严重夸大的演员",
-      "onboard_time": 1683089431,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2299452,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1254591,
-      "num": 543296,
+      "num": 808298,
       "word": "黄色笑话是一种服从性测试",
       "onboard_time": 1683083071,
       "rank": 24,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 930356,
+      "num": 930356,
+      "word": "将门毒后",
+      "onboard_time": 1683093867,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
       "raw_hot": 913218,
       "num": 913218,
       "word": "妺女",
@@ -209,6 +217,22 @@
       "onboard_time": 1683090455,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716814,
+      "num": 716814,
+      "word": "端午节也要调休",
+      "onboard_time": 1683092551,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 627136,
+      "num": 410765,
+      "word": "杨洋组织同学会",
+      "onboard_time": 1683091590,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 624438,
@@ -307,6 +331,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 455600,
+      "num": 455600,
+      "word": "张紫宁横店音乐节遭威胁",
+      "onboard_time": 1683093388,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 449869,
       "num": 449869,
       "word": "张婧仪孙千周也五一档票房实绩",
@@ -345,14 +377,6 @@
       "onboard_time": 1683083731,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 410765,
-      "num": 410765,
-      "word": "杨洋组织同学会",
-      "onboard_time": 1683091590,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 410497,
@@ -419,6 +443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 350208,
+      "num": 350208,
+      "word": "四川宜宾4.5级地震",
+      "onboard_time": 1683090455,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347990,
       "num": 347990,
       "word": "要你管",
@@ -435,12 +467,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 336054,
+      "num": 336054,
+      "word": "妈妈生病姐弟假期3天卖上千根冰棍",
+      "onboard_time": 1683090573,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330313,
       "num": 330313,
       "word": "浓眉攻防一体",
       "onboard_time": 1683090211,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329762,
+      "num": 329762,
+      "word": "我突然发现了赚钱的意义",
+      "onboard_time": 1683091770,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 328354,
@@ -507,20 +555,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 285532,
-      "num": 285532,
-      "word": "妈妈生病姐弟假期3天卖上千根冰棍",
-      "onboard_time": 1683090573,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280087,
       "num": 280087,
       "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
       "onboard_time": 1683073946,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268056,
+      "num": 268056,
+      "word": "喻言个人巡演官宣",
+      "onboard_time": 1683094411,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 267736,
@@ -555,12 +603,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 258691,
+      "num": 258691,
+      "word": "胸围108的周严",
+      "onboard_time": 1683091172,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 257057,
       "num": 257057,
       "word": "等比例放大的花花",
       "onboard_time": 1683044249,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250776,
+      "num": 250776,
+      "word": "宠物鸭被营救时边上正摆着三口锅",
+      "onboard_time": 1683091472,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250326,
@@ -715,12 +779,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 214142,
+      "num": 214142,
+      "word": "澹台烬逼黎苏苏修炼无情道成神",
+      "onboard_time": 1683091950,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 211766,
       "num": 211766,
       "word": "NBA季后赛",
       "onboard_time": 1683088412,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211472,
+      "num": 211472,
+      "word": "今晚看陈晓陈妍希",
+      "onboard_time": 1683094049,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 211348,
@@ -803,6 +883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194095,
+      "num": 194095,
+      "word": "朱雀 三把抓0个",
+      "onboard_time": 1683092909,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194009,
       "num": 194009,
       "word": "格林",
@@ -817,6 +905,14 @@
       "onboard_time": 1683079891,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 190144,
+      "num": 190144,
+      "word": "游客手机掉西湖被要1500元打捞费",
+      "onboard_time": 1683094227,
+      "rank": 36,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 188822,
@@ -875,10 +971,26 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179118,
+      "num": 179118,
+      "word": "朱雀 低保治好了我的精神内耗",
+      "onboard_time": 1683092608,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178859,
       "num": 178859,
       "word": "公司周六周日周三都放假",
       "onboard_time": 1683082471,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178573,
+      "num": 178573,
+      "word": "重庆震感",
+      "onboard_time": 1683091830,
       "rank": 38,
       "category": "社会新闻"
     },
@@ -923,14 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170816,
-      "num": 170816,
-      "word": "重庆震感",
-      "onboard_time": 1683091830,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170162,
       "num": 157829,
       "word": "第一次给朋友暖房时的幸福感",
@@ -963,11 +1067,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165039,
+      "num": 165039,
+      "word": "48岁冻龄妈妈谈被家暴经历",
+      "onboard_time": 1683094530,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 164188,
       "num": 164188,
       "word": "整列车厢回杭的娃都在赶作业",
       "onboard_time": 1683075209,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163555,
+      "num": 163555,
+      "word": "成都震感",
+      "onboard_time": 1683092189,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -985,14 +1105,6 @@
       "onboard_time": 1683085650,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 161047,
-      "num": 161047,
-      "word": "宠物鸭被营救时边上正摆着三口锅",
-      "onboard_time": 1683091472,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160723,
@@ -1017,14 +1129,6 @@
       "onboard_time": 1683071543,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154905,
-      "num": 154905,
-      "word": "胸围108的周严",
-      "onboard_time": 1683091172,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 154617,
@@ -1059,12 +1163,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 137633,
-      "num": 137633,
-      "word": "澹台烬逼黎苏苏修炼无情道成神",
-      "onboard_time": 1683091950,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 136915,
+      "num": 136915,
+      "word": "喜欢你我也是",
+      "onboard_time": 1683092012,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 134348,
@@ -1083,12 +1187,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133291,
+      "num": 133291,
+      "word": "山东男孩五一路边3天拉来1500元客单",
+      "onboard_time": 1683094890,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132555,
       "num": 132555,
       "word": "Hero晋级败者组第三轮",
       "onboard_time": 1683041196,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129805,
+      "num": 129805,
+      "word": "重组家庭孩子不幸福是谁的错",
+      "onboard_time": 1683093509,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 127834,
@@ -1395,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38201,
+      "num": 823381,
+      "word": "劳动是奋斗追梦的五光十色",
+      "onboard_time": 1683091590,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34825,
       "num": 36314,
       "word": "五一",
@@ -1425,14 +1553,6 @@
       "onboard_time": 1683060672,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12144,
-      "num": 823381,
-      "word": "劳动是奋斗追梦的五光十色",
-      "onboard_time": 1683091590,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

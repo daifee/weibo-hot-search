@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683092007095,
+  "endTime": 1683094902408,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2780935,
+      "num": 550504,
+      "word": "演技被严重夸大的演员",
+      "onboard_time": 1683089431,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2641650,
       "num": 2641650,
       "word": "五三惨案",
@@ -89,14 +97,6 @@
       "onboard_time": 1683013465,
       "rank": 1,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 2512298,
-      "num": 550504,
-      "word": "演技被严重夸大的演员",
-      "onboard_time": 1683089431,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2403488,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 1254591,
-      "num": 543296,
+      "num": 808298,
       "word": "黄色笑话是一种服从性测试",
       "onboard_time": 1683083071,
       "rank": 24,
@@ -657,6 +657,14 @@
       "onboard_time": 1683080070,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930356,
+      "num": 930356,
+      "word": "将门毒后",
+      "onboard_time": 1683093867,
+      "rank": 1,
+      "category": "影视"
     },
     {
       "raw_hot": 925152,
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716814,
+      "num": 716814,
+      "word": "端午节也要调休",
+      "onboard_time": 1683092551,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 715187,
       "num": 715187,
       "word": "向太直播将送百台车",
@@ -993,6 +1009,14 @@
       "onboard_time": 1682908948,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 627136,
+      "num": 410765,
+      "word": "杨洋组织同学会",
+      "onboard_time": 1683091590,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 626008,
@@ -1363,6 +1387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 455600,
+      "num": 455600,
+      "word": "张紫宁横店音乐节遭威胁",
+      "onboard_time": 1683093388,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 453538,
       "num": 453538,
       "word": "王一博拍合照憋不住笑了",
@@ -1577,14 +1609,6 @@
       "onboard_time": 1682993788,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410765,
-      "num": 410765,
-      "word": "杨洋组织同学会",
-      "onboard_time": 1683091590,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 410497,
@@ -1819,6 +1843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 350208,
+      "num": 350208,
+      "word": "四川宜宾4.5级地震",
+      "onboard_time": 1683090455,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348881,
       "num": 348881,
       "word": "国产剧二五定律",
@@ -1899,6 +1931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 336054,
+      "num": 336054,
+      "word": "妈妈生病姐弟假期3天卖上千根冰棍",
+      "onboard_time": 1683090573,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335471,
       "num": 335471,
       "word": "谷爱凌希望扩大亚裔和华人影响力",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1683090211,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329762,
+      "num": 329762,
+      "word": "我突然发现了赚钱的意义",
+      "onboard_time": 1683091770,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 328354,
@@ -2307,14 +2355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285532,
-      "num": 285532,
-      "word": "妈妈生病姐弟假期3天卖上千根冰棍",
-      "onboard_time": 1683090573,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283771,
       "num": 247985,
       "word": "赵丽颖五月行程",
@@ -2467,6 +2507,14 @@
       "category": "艺人,情感"
     },
     {
+      "raw_hot": 268056,
+      "num": 268056,
+      "word": "喻言个人巡演官宣",
+      "onboard_time": 1683094411,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 267736,
       "num": 267736,
       "word": "插队",
@@ -2571,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258691,
+      "num": 258691,
+      "word": "胸围108的周严",
+      "onboard_time": 1683091172,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 257866,
       "num": 257866,
       "word": "CBA季后赛",
@@ -2673,6 +2729,14 @@
       "onboard_time": 1682913147,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 250776,
+      "num": 250776,
+      "word": "宠物鸭被营救时边上正摆着三口锅",
+      "onboard_time": 1683091472,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250326,
@@ -3363,6 +3427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214142,
+      "num": 214142,
+      "word": "澹台烬逼黎苏苏修炼无情道成神",
+      "onboard_time": 1683091950,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 213399,
       "num": 213399,
       "word": "不要以为四川人好惹",
@@ -3393,6 +3465,14 @@
       "onboard_time": 1683088412,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211472,
+      "num": 211472,
+      "word": "今晚看陈晓陈妍希",
+      "onboard_time": 1683094049,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 211423,
@@ -3723,6 +3803,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 194095,
+      "num": 194095,
+      "word": "朱雀 三把抓0个",
+      "onboard_time": 1683092909,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 194009,
       "num": 194009,
       "word": "格林",
@@ -3817,6 +3905,14 @@
       "onboard_time": 1683079891,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 190144,
+      "num": 190144,
+      "word": "游客手机掉西湖被要1500元打捞费",
+      "onboard_time": 1683094227,
+      "rank": 36,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 189944,
@@ -4035,6 +4131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 179118,
+      "num": 179118,
+      "word": "朱雀 低保治好了我的精神内耗",
+      "onboard_time": 1683092608,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179058,
       "num": 179058,
       "word": "成毅没有房车的原因",
@@ -4057,6 +4161,14 @@
       "onboard_time": 1682946389,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 178573,
+      "num": 178573,
+      "word": "重庆震感",
+      "onboard_time": 1683091830,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178324,
@@ -4235,14 +4347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170816,
-      "num": 170816,
-      "word": "重庆震感",
-      "onboard_time": 1683091830,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170652,
       "num": 170652,
       "word": "朝俞",
@@ -4387,6 +4491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165039,
+      "num": 165039,
+      "word": "48岁冻龄妈妈谈被家暴经历",
+      "onboard_time": 1683094530,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 164748,
       "num": 164748,
       "word": "过敏原能有多离谱",
@@ -4425,6 +4537,14 @@
       "onboard_time": 1682931687,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163555,
+      "num": 163555,
+      "word": "成都震感",
+      "onboard_time": 1683092189,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163423,
@@ -4505,14 +4625,6 @@
       "onboard_time": 1682997328,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 161047,
-      "num": 161047,
-      "word": "宠物鸭被营救时边上正摆着三口锅",
-      "onboard_time": 1683091472,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160723,
@@ -4609,14 +4721,6 @@
       "onboard_time": 1683011426,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 154905,
-      "num": 154905,
-      "word": "胸围108的周严",
-      "onboard_time": 1683091172,
-      "rank": 41,
-      "category": "动漫"
     },
     {
       "raw_hot": 154754,
@@ -4875,12 +4979,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137633,
-      "num": 137633,
-      "word": "澹台烬逼黎苏苏修炼无情道成神",
-      "onboard_time": 1683091950,
-      "rank": 48,
-      "category": "影视"
+      "raw_hot": 136915,
+      "num": 136915,
+      "word": "喜欢你我也是",
+      "onboard_time": 1683092012,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 136675,
@@ -4947,6 +5051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133291,
+      "num": 133291,
+      "word": "山东男孩五一路边3天拉来1500元客单",
+      "onboard_time": 1683094890,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133037,
       "num": 133037,
       "word": "76人1比0凯尔特人",
@@ -5009,6 +5121,14 @@
       "onboard_time": 1682922568,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129805,
+      "num": 129805,
+      "word": "重组家庭孩子不幸福是谁的错",
+      "onboard_time": 1683093509,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 129738,
@@ -5835,6 +5955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38201,
+      "num": 823381,
+      "word": "劳动是奋斗追梦的五光十色",
+      "onboard_time": 1683091590,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32926,
       "num": 32926,
       "word": "你会在对方一无所有的时候结婚吗",
@@ -5903,14 +6031,6 @@
       "num": 1043584,
       "word": "卫星视角下的花开中国太美了",
       "onboard_time": 1682839286,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12144,
-      "num": 823381,
-      "word": "劳动是奋斗追梦的五光十色",
-      "onboard_time": 1683091590,
       "rank": 2,
       "category": "社会新闻"
     }
