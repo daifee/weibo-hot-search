@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683130960500,
+  "endTime": 1683131857637,
   "band_list": [
     {
       "raw_hot": 1463595,
@@ -59,8 +59,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 495929,
-      "num": 495929,
+      "raw_hot": 536459,
+      "num": 536459,
       "word": "高铁上最好不要和邻座套近乎",
       "onboard_time": 1683101370,
       "rank": 4,
@@ -115,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 342126,
+      "num": 342126,
+      "word": "缺爱之人才会对很普通的关系难舍难分",
+      "onboard_time": 1683129689,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 320879,
       "num": 320879,
       "word": "明星减肥有多狠",
@@ -139,6 +147,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300037,
+      "num": 265369,
+      "word": "新冠 查漏补缺",
+      "onboard_time": 1683130048,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291823,
+      "num": 291823,
+      "word": "中国游客 真命天子",
+      "onboard_time": 1683129986,
+      "rank": 30,
+      "category": "旅游,幽默"
+    },
+    {
       "raw_hot": 278924,
       "num": 391872,
       "word": "王博",
@@ -155,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251114,
-      "num": 251114,
-      "word": "缺爱之人才会对很普通的关系难舍难分",
-      "onboard_time": 1683129689,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 237976,
       "num": 237976,
       "word": "EXO",
@@ -171,12 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228932,
-      "num": 145485,
-      "word": "中国游客 真命天子",
-      "onboard_time": 1683129986,
-      "rank": 30,
-      "category": "旅游,幽默"
+      "raw_hot": 227453,
+      "num": 136439,
+      "word": "西安坠机航司称已联系遇难者家属",
+      "onboard_time": 1683130646,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213724,
+      "num": 213724,
+      "word": "淄博烧烤不涨价的最大底气",
+      "onboard_time": 1683130466,
+      "rank": 43,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 208818,
@@ -185,14 +209,6 @@
       "onboard_time": 1683127109,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207329,
-      "num": 207329,
-      "word": "新冠 查漏补缺",
-      "onboard_time": 1683130048,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191629,
@@ -267,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129836,
+      "num": 129836,
+      "word": "萌兰手压麻了之后走路",
+      "onboard_time": 1683127411,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124456,
       "num": 124456,
       "word": "陈妍希演的齐家宜好灵",
@@ -275,20 +299,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122393,
-      "num": 122393,
+      "raw_hot": 122751,
+      "num": 122751,
       "word": "刘恋穿了品如的衣服",
       "onboard_time": 1683112469,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 115711,
-      "num": 115711,
-      "word": "萌兰手压麻了之后走路",
-      "onboard_time": 1683127411,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 115360,
@@ -323,12 +339,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101824,
-      "num": 101824,
-      "word": "西安坠机航司称已联系遇难者家属",
-      "onboard_time": 1683130646,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 108264,
+      "num": 108264,
+      "word": "月薪三万你会不会裸辞",
+      "onboard_time": 1683130225,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 99584,
@@ -337,14 +353,6 @@
       "onboard_time": 1683119070,
       "rank": 42,
       "category": "影视"
-    },
-    {
-      "raw_hot": 96410,
-      "num": 96410,
-      "word": "淄博烧烤不涨价的最大底气",
-      "onboard_time": 1683130466,
-      "rank": 43,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 96032,
@@ -371,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80674,
+      "num": 79152,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1683131425,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 78972,
       "num": 78972,
       "word": "李飞听完王浩唱歌后的反应",
@@ -379,12 +395,20 @@
       "category": "音乐,幽默"
     },
     {
-      "raw_hot": 77144,
-      "num": 77144,
-      "word": "月薪三万你会不会裸辞",
-      "onboard_time": 1683130225,
-      "rank": 48,
+      "raw_hot": 77995,
+      "num": 77995,
+      "word": "是上班更苦还是上学更苦",
+      "onboard_time": 1683130287,
+      "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76956,
+      "num": 76956,
+      "word": "地铁上放屁引发的社死现场",
+      "onboard_time": 1683130407,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 74905,
@@ -393,6 +417,14 @@
       "onboard_time": 1683105151,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73932,
+      "num": 73932,
+      "word": "为什么有钱人也会在意电动车的电费",
+      "onboard_time": 1683130525,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 62999,
