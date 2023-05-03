@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683131857637,
+  "endTime": 1683134077444,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -1331,6 +1331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 577609,
+      "num": 577609,
+      "word": "新冠 查漏补缺",
+      "onboard_time": 1683130048,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569320,
       "num": 569320,
       "word": "湖人对战勇士",
@@ -2227,6 +2235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 372679,
+      "num": 372679,
+      "word": "缺爱之人才会对很普通的关系难舍难分",
+      "onboard_time": 1683129689,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369156,
       "num": 369156,
       "word": "五一假期2.74亿人次出游",
@@ -2307,6 +2323,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 351871,
+      "num": 291823,
+      "word": "中国游客 真命天子",
+      "onboard_time": 1683129986,
+      "rank": 30,
+      "category": "旅游,幽默"
+    },
+    {
       "raw_hot": 351408,
       "num": 351408,
       "word": "睡眠不足的九大表现",
@@ -2377,14 +2401,6 @@
       "onboard_time": 1682991027,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 342126,
-      "num": 342126,
-      "word": "缺爱之人才会对很普通的关系难舍难分",
-      "onboard_time": 1683129689,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 340978,
@@ -2723,6 +2739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 306501,
+      "num": 222029,
+      "word": "淄博烧烤不涨价的最大底气",
+      "onboard_time": 1683130466,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 306406,
       "num": 306406,
       "word": "保罗回更衣室了",
@@ -2769,14 +2793,6 @@
       "onboard_time": 1682905591,
       "rank": 21,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 300037,
-      "num": 265369,
-      "word": "新冠 查漏补缺",
-      "onboard_time": 1683130048,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298953,
@@ -2857,14 +2873,6 @@
       "onboard_time": 1682945310,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 291823,
-      "num": 291823,
-      "word": "中国游客 真命天子",
-      "onboard_time": 1683129986,
-      "rank": 30,
-      "category": "旅游,幽默"
     },
     {
       "raw_hot": 290697,
@@ -4169,14 +4177,6 @@
       "onboard_time": 1682953469,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213724,
-      "num": 213724,
-      "word": "淄博烧烤不涨价的最大底气",
-      "onboard_time": 1683130466,
-      "rank": 43,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 213652,
@@ -5875,6 +5875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 145601,
+      "num": 145601,
+      "word": "地铁上放屁引发的社死现场",
+      "onboard_time": 1683130407,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145423,
       "num": 145423,
       "word": "你给我的喜欢",
@@ -6211,6 +6219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127824,
+      "num": 127824,
+      "word": "月薪三万你会不会裸辞",
+      "onboard_time": 1683130225,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127181,
       "num": 125071,
       "word": "张小斐暖心回应粉丝小纸条",
@@ -6331,6 +6347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121910,
+      "num": 121910,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1683131425,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 121222,
       "num": 122617,
       "word": "五月能不能不给我添堵",
@@ -6433,6 +6457,14 @@
       "onboard_time": 1683078089,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116338,
+      "num": 90151,
+      "word": "为什么有钱人也会在意电动车的电费",
+      "onboard_time": 1683130525,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 115590,
@@ -6561,14 +6593,6 @@
       "onboard_time": 1682904511,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 108264,
-      "num": 108264,
-      "word": "月薪三万你会不会裸辞",
-      "onboard_time": 1683130225,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 107611,
@@ -6787,12 +6811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80674,
-      "num": 79152,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1683131425,
-      "rank": 44,
-      "category": "国外要闻"
+      "raw_hot": 80235,
+      "num": 80235,
+      "word": "是上班更苦还是上学更苦",
+      "onboard_time": 1683130287,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 79526,
@@ -6811,28 +6835,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 77995,
-      "num": 77995,
-      "word": "是上班更苦还是上学更苦",
-      "onboard_time": 1683130287,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 77427,
       "num": 77427,
       "word": "女子晒公公做的婚礼方案事无巨细",
       "onboard_time": 1682982558,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76956,
-      "num": 76956,
-      "word": "地铁上放屁引发的社死现场",
-      "onboard_time": 1683130407,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 76057,
@@ -6867,14 +6875,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 73932,
-      "num": 73932,
-      "word": "为什么有钱人也会在意电动车的电费",
-      "onboard_time": 1683130525,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 68644,
       "num": 68644,
       "word": "黄圣依妈妈十五年国画缘",
@@ -6897,6 +6897,14 @@
       "onboard_time": 1682915127,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65491,
+      "num": 65491,
+      "word": "原来我的小说是被闺蜜买走了",
+      "onboard_time": 1683131363,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 64424,
@@ -6945,6 +6953,14 @@
       "onboard_time": 1683047901,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 55053,
+      "num": 55053,
+      "word": "明知道不好却改不了的毛病",
+      "onboard_time": 1683130582,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 53686,
