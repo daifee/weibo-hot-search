@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683105398365,
+  "endTime": 1683106411100,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1618823,
+      "num": 1618823,
+      "word": "高铁上最好不要和邻座套近乎",
+      "onboard_time": 1683101370,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1596157,
       "num": 1596157,
       "word": "将门毒后",
@@ -369,14 +377,6 @@
       "onboard_time": 1683028349,
       "rank": 3,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1460165,
-      "num": 1460165,
-      "word": "高铁上最好不要和邻座套近乎",
-      "onboard_time": 1683101370,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 1459992,
@@ -747,6 +747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 891620,
+      "num": 555041,
+      "word": "费曼 为了周杰伦我已阴",
+      "onboard_time": 1683105151,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 891303,
       "num": 891303,
       "word": "大伯二婚对象是我初恋的妈妈",
@@ -1043,6 +1051,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 661416,
+      "num": 661416,
+      "word": "余秀华 读书万卷不过沐猴之冠",
+      "onboard_time": 1683104190,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 660976,
       "num": 660976,
       "word": "两头婚可以减少夫妻矛盾吗",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1682908948,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 629100,
-      "num": 629100,
-      "word": "余秀华 读书万卷不过沐猴之冠",
-      "onboard_time": 1683104190,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 627136,
@@ -1292,7 +1300,7 @@
     },
     {
       "raw_hot": 519977,
-      "num": 232431,
+      "num": 298963,
       "word": "每天对着卡琳娜哇哇叫",
       "onboard_time": 1683105212,
       "rank": 30,
@@ -1417,6 +1425,14 @@
       "onboard_time": 1683028590,
       "rank": 13,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 472182,
+      "num": 556242,
+      "word": "金廷祐金敏雅是亲姐弟",
+      "onboard_time": 1683103828,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 471898,
@@ -1569,6 +1585,14 @@
       "onboard_time": 1682989406,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 435152,
+      "num": 435152,
+      "word": "山东化工厂爆炸致9死1伤1失联",
+      "onboard_time": 1683103951,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 434663,
@@ -1811,14 +1835,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 397034,
-      "num": 397034,
-      "word": "金廷祐金敏雅是亲姐弟",
-      "onboard_time": 1683103828,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 396343,
       "num": 396343,
       "word": "帮费曼给他两岁的女儿取中文名",
@@ -1851,14 +1867,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 389632,
-      "num": 389632,
-      "word": "山东化工厂爆炸致9死1伤1失联",
-      "onboard_time": 1683103951,
-      "rank": 19,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 388983,
       "num": 388983,
       "word": "止庵 史航",
@@ -1889,6 +1897,14 @@
       "onboard_time": 1683031653,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 384566,
+      "num": 384566,
+      "word": "高铁上碰到了一对情侣想换座",
+      "onboard_time": 1683104970,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 383497,
@@ -1953,6 +1969,14 @@
       "onboard_time": 1683085770,
       "rank": 16,
       "category": "影视"
+    },
+    {
+      "raw_hot": 366886,
+      "num": 366886,
+      "word": "诺一何炅撞脸",
+      "onboard_time": 1683105630,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 366086,
@@ -2763,6 +2787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 264462,
+      "num": 264462,
+      "word": "沧九旻黎苏苏叶清宇景王宫戏份被删",
+      "onboard_time": 1683104789,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 263757,
       "num": 263757,
       "word": "杨鸣 战术",
@@ -2913,6 +2945,14 @@
       "onboard_time": 1682948610,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251441,
+      "num": 251441,
+      "word": "父母姓氏合在一起的名字",
+      "onboard_time": 1683102629,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 251394,
@@ -3211,6 +3251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236543,
+      "num": 255928,
+      "word": "欢迎中国内地游客全世界有多拼",
+      "onboard_time": 1683103529,
+      "rank": 29,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 235788,
       "num": 235788,
       "word": "无畏",
@@ -3249,14 +3297,6 @@
       "onboard_time": 1682950891,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235286,
-      "num": 232029,
-      "word": "父母姓氏合在一起的名字",
-      "onboard_time": 1683102629,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 234794,
@@ -3331,28 +3371,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232532,
-      "num": 232532,
-      "word": "欢迎中国内地游客全世界有多拼",
-      "onboard_time": 1683103529,
-      "rank": 29,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 232113,
       "num": 232113,
       "word": "白鹿包场人生路不熟",
       "onboard_time": 1682947292,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231694,
-      "num": 231694,
-      "word": "费曼 为了周杰伦我已阴",
-      "onboard_time": 1683105151,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 230466,
@@ -3713,14 +3737,6 @@
       "onboard_time": 1682954908,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 212904,
-      "num": 212904,
-      "word": "沧九旻黎苏苏叶清宇景王宫戏份被删",
-      "onboard_time": 1683104789,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 212125,
@@ -4403,6 +4419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179354,
+      "num": 179354,
+      "word": "杨迪要你管直拍",
+      "onboard_time": 1683105930,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179305,
       "num": 179305,
       "word": "宋亚轩开场VCR",
@@ -4801,6 +4825,14 @@
       "onboard_time": 1682993487,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164815,
+      "num": 164815,
+      "word": "如何快速变老",
+      "onboard_time": 1683106111,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164748,
@@ -5307,14 +5339,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 138848,
-      "num": 138848,
-      "word": "高铁上碰到了一对情侣想换座",
-      "onboard_time": 1683104970,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 138728,
       "num": 138728,
       "word": "失恋对一个人的伤害有多大",
@@ -5609,6 +5633,14 @@
       "onboard_time": 1682934626,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124259,
+      "num": 124259,
+      "word": "猪鲤",
+      "onboard_time": 1683105871,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 122515,
@@ -6211,6 +6243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56572,
+      "num": 1010294,
+      "word": "无人机视角看假期里的美丽中国",
+      "onboard_time": 1683102990,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56015,
       "num": 56015,
       "word": "LESSERAFIM初动破百万",
@@ -6225,14 +6265,6 @@
       "onboard_time": 1682860527,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53659,
-      "num": 1010294,
-      "word": "无人机视角看假期里的美丽中国",
-      "onboard_time": 1683102990,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52638,
@@ -6436,6 +6468,9 @@
     },
     {
       "word": "#中国青年五四奖章获奖名单#"
+    },
+    {
+      "word": "#新时代舞台广阔每个人都能大显身手#"
     }
   ]
 }
