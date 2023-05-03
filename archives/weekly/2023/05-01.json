@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683118175263,
+  "endTime": 1683120010333,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 4151361,
-      "num": 4151361,
+      "raw_hot": 4907142,
+      "num": 4907142,
       "word": "阳了",
       "onboard_time": 1683115648,
       "rank": 1,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1064919,
+      "num": 1064919,
+      "word": "长月烬明就演到这吧",
+      "onboard_time": 1683115288,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1056730,
       "num": 661697,
       "word": "黄子韬一年瘦了40多斤",
@@ -721,6 +729,14 @@
       "onboard_time": 1682991086,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 981614,
+      "num": 981614,
+      "word": "48岁冻龄妈妈谈被家暴经历",
+      "onboard_time": 1683094530,
+      "rank": 41,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 944676,
@@ -889,14 +905,6 @@
       "onboard_time": 1683005668,
       "rank": 11,
       "category": "影视"
-    },
-    {
-      "raw_hot": 806693,
-      "num": 806693,
-      "word": "48岁冻龄妈妈谈被家暴经历",
-      "onboard_time": 1683094530,
-      "rank": 41,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 800034,
@@ -1068,7 +1076,7 @@
     },
     {
       "raw_hot": 696943,
-      "num": 432435,
+      "num": 438637,
       "word": "刘恋穿了品如的衣服",
       "onboard_time": 1683112469,
       "rank": 19,
@@ -1235,14 +1243,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 589547,
-      "num": 589547,
-      "word": "长月烬明就演到这吧",
-      "onboard_time": 1683115288,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 583823,
       "num": 583823,
       "word": "i人已经要不行了",
@@ -1288,6 +1288,14 @@
       "word": "蒋奇明 丑帅",
       "onboard_time": 1682948790,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 559562,
+      "num": 559562,
+      "word": "秦昊演技",
+      "onboard_time": 1683116309,
+      "rank": 26,
       "category": "影视"
     },
     {
@@ -1337,6 +1345,14 @@
       "onboard_time": 1683017787,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 545206,
+      "num": 327028,
+      "word": "肖战如梦之梦西安站的花墙",
+      "onboard_time": 1683119070,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 541141,
@@ -2059,14 +2075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377546,
-      "num": 377546,
-      "word": "秦昊演技",
-      "onboard_time": 1683116309,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 375682,
       "num": 1547117,
       "word": "29年前网红城市西安什么样",
@@ -2081,6 +2089,14 @@
       "onboard_time": 1683005726,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 371885,
+      "num": 371885,
+      "word": "克里姆林宫",
+      "onboard_time": 1683118713,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369156,
@@ -2163,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349009,
+      "num": 349009,
+      "word": "基辅出动两架无人机袭击克宫未遂",
+      "onboard_time": 1683118112,
+      "rank": 42,
+      "category": "社会新闻,国外要闻"
+    },
+    {
       "raw_hot": 348881,
       "num": 348881,
       "word": "国产剧二五定律",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1683004111,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 345148,
+      "num": 226504,
+      "word": "而我只能去上班",
+      "onboard_time": 1683119553,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 344954,
@@ -2331,12 +2363,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 326278,
+      "num": 1614924,
+      "word": "这个五一274000000人次出游",
+      "onboard_time": 1683117812,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325198,
       "num": 325198,
       "word": "黄景瑜走路气场",
       "onboard_time": 1682997267,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324611,
+      "num": 324611,
+      "word": "团建的目的 让老板以为我们团结",
+      "onboard_time": 1683116729,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 323097,
@@ -2691,20 +2739,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287668,
+      "num": 287668,
+      "word": "CBA半决赛",
+      "onboard_time": 1683119372,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286173,
       "num": 286173,
       "word": "男子凌晨三点排队取的号被女士占了",
       "onboard_time": 1683037241,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284952,
-      "num": 284952,
-      "word": "团建的目的 让老板以为我们团结",
-      "onboard_time": 1683116729,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 283771,
@@ -3587,6 +3635,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 228599,
+      "num": 228599,
+      "word": "护心",
+      "onboard_time": 1683116968,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228582,
       "num": 228582,
       "word": "普尔神经刀",
@@ -4339,14 +4395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192401,
-      "num": 192401,
-      "word": "护心",
-      "onboard_time": 1683116968,
-      "rank": 42,
-      "category": "影视"
-    },
-    {
       "raw_hot": 192394,
       "num": 192394,
       "word": "云襄传主演是懂自我介绍的",
@@ -4851,6 +4899,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 174599,
+      "num": 174599,
+      "word": "文俊辉穿深圳校服跳super",
+      "onboard_time": 1683115229,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173626,
       "num": 173626,
       "word": "卜钰问刘晓世自己跟王一博撞型吗",
@@ -5107,6 +5163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163859,
+      "num": 163859,
+      "word": "宋茜直播",
+      "onboard_time": 1683118351,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 163710,
       "num": 163710,
       "word": "我和我的青春今日上线",
@@ -5153,6 +5217,14 @@
       "onboard_time": 1683070582,
       "rank": 33,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 162889,
+      "num": 162889,
+      "word": "虞书欣吴宣仪王一栩合影",
+      "onboard_time": 1683119790,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 162648,
@@ -5225,14 +5297,6 @@
       "onboard_time": 1682943328,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160102,
-      "num": 160102,
-      "word": "基辅出动两架无人机袭击克宫未遂",
-      "onboard_time": 1683118112,
-      "rank": 42,
-      "category": "社会新闻,国外要闻"
     },
     {
       "raw_hot": 159895,
@@ -5369,6 +5433,14 @@
       "onboard_time": 1683012267,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 153049,
+      "num": 153049,
+      "word": "LGD",
+      "onboard_time": 1683119853,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 151839,
@@ -6265,14 +6337,6 @@
       "onboard_time": 1682959044,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 94817,
-      "num": 1614924,
-      "word": "这个五一274000000人次出游",
-      "onboard_time": 1683117812,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94471,
