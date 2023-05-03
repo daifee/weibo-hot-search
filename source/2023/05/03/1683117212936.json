@@ -1,0 +1,410 @@
+{
+  "runTime": 1683117212936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2605875,
+        "num": 2605875,
+        "word": "明天上班可能出现的症状",
+        "onboard_time": 1683110071,
+        "rank": 0,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 2093160,
+        "num": 2093160,
+        "word": "阳了",
+        "onboard_time": 1683115648,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 46533,
+        "num": 1695121,
+        "word": "无人机视角看假期里的美丽中国",
+        "onboard_time": 1683102990,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1556973,
+        "num": 1556973,
+        "word": "高铁上碰到了一对情侣想换座",
+        "onboard_time": 1683104970,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1454908,
+        "num": 1454908,
+        "word": "相识24年的闺蜜突然去世了",
+        "onboard_time": 1683112586,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 736362,
+        "num": 736362,
+        "word": "48岁冻龄妈妈谈被家暴经历",
+        "onboard_time": 1683094530,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 644566,
+        "num": 644566,
+        "word": "高铁上最好不要和邻座套近乎",
+        "onboard_time": 1683101370,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 478271,
+        "num": 478271,
+        "word": "端午节也要调休",
+        "onboard_time": 1683092551,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433592,
+        "num": 433592,
+        "word": "DOU5深渊总冠军",
+        "onboard_time": 1683116669,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 423544,
+        "num": 423544,
+        "word": "湖南男子在西湖捞手机日入约一万",
+        "onboard_time": 1683108990,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850025,
+        "num": 419704,
+        "word": "EXO",
+        "onboard_time": 1683107429,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 732367,
+        "num": 418835,
+        "word": "费曼 为了周杰伦我已阴",
+        "onboard_time": 1683105151,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696943,
+        "num": 414595,
+        "word": "刘恋穿了品如的衣服",
+        "onboard_time": 1683112469,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 553283,
+        "num": 407973,
+        "word": "诺一何炅撞脸",
+        "onboard_time": 1683105630,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407391,
+        "num": 407391,
+        "word": "史航聊天记录",
+        "onboard_time": 1683084629,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 380998,
+        "num": 380998,
+        "word": "热心大哥高铁上怒斥熊孩子家长获喝彩",
+        "onboard_time": 1683099570,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378476,
+        "num": 378476,
+        "word": "长月烬明就演到这吧",
+        "onboard_time": 1683115288,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 369156,
+        "num": 369156,
+        "word": "五一假期2.74亿人次出游",
+        "onboard_time": 1683111028,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 361351,
+        "num": 361351,
+        "word": "长月烬明",
+        "onboard_time": 1683114388,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 330699,
+        "num": 330699,
+        "word": "美女幼师凭挖呀挖呀挖走红",
+        "onboard_time": 1683077310,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 450360,
+        "num": 329859,
+        "word": "余秀华 读书万卷不过沐猴之冠",
+        "onboard_time": 1683104190,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 395831,
+        "num": 327035,
+        "word": "工资3500突然变成了一万",
+        "onboard_time": 1683077008,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320968,
+        "num": 320968,
+        "word": "嘟嘟酱 童年被继父差点性侵",
+        "onboard_time": 1683084389,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299292,
+        "num": 299292,
+        "word": "庆余年2真的要开机了",
+        "onboard_time": 1683102869,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296427,
+        "num": 296427,
+        "word": "吴刚赵露思新剧后浪海报",
+        "onboard_time": 1683111269,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 263312,
+        "num": 263312,
+        "word": "李飞主打一个陪伴",
+        "onboard_time": 1683113248,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246014,
+        "num": 246014,
+        "word": "秦昊演技",
+        "onboard_time": 1683116309,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 244851,
+        "num": 244851,
+        "word": "五三惨案",
+        "onboard_time": 1683079650,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241405,
+        "num": 241405,
+        "word": "大伯二婚对象是我初恋的妈妈",
+        "onboard_time": 1683096089,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233704,
+        "num": 233704,
+        "word": "卡琳娜无期迷途",
+        "onboard_time": 1683100590,
+        "rank": 29,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 226974,
+        "num": 226974,
+        "word": "将门毒后",
+        "onboard_time": 1683093867,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217290,
+        "num": 217290,
+        "word": "DOU5对战成都GG",
+        "onboard_time": 1683116068,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213544,
+        "num": 213544,
+        "word": "景区租给游客的衣服有多脏",
+        "onboard_time": 1683109350,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 211400,
+        "num": 211400,
+        "word": "团建的目的 让老板以为我们团结",
+        "onboard_time": 1683116729,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206514,
+        "num": 206514,
+        "word": "沧九旻黎苏苏叶清宇景王宫戏份被删",
+        "onboard_time": 1683104789,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 198584,
+        "num": 198584,
+        "word": "景区2天内捡了23个娃",
+        "onboard_time": 1683077670,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190790,
+        "num": 190790,
+        "word": "每天对着卡琳娜哇哇叫",
+        "onboard_time": 1683105212,
+        "rank": 36,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 190737,
+        "num": 190737,
+        "word": "陈晓觉得陈妍希最适合拍戏",
+        "onboard_time": 1683095313,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 187080,
+        "num": 187080,
+        "word": "黄色笑话是一种服从性测试",
+        "onboard_time": 1683083071,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186398,
+        "num": 186398,
+        "word": "月薪8500工作太闲要辞职吗",
+        "onboard_time": 1683098728,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183774,
+        "num": 183774,
+        "word": "SEVENTEEN冠军秀一位",
+        "onboard_time": 1683111750,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180381,
+        "num": 180381,
+        "word": "五一消费金额同比增两倍",
+        "onboard_time": 1683115887,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 183396,
+        "num": 178520,
+        "word": "护心",
+        "onboard_time": 1683116968,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 176657,
+        "num": 176657,
+        "word": "王楚钦获北京青年五四奖章",
+        "onboard_time": 1683115349,
+        "rank": 43,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 170439,
+        "num": 170439,
+        "word": "高铁坐过站了千万不要慌",
+        "onboard_time": 1683110968,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160848,
+        "num": 160848,
+        "word": "爸妈面对生活是真的很了不起",
+        "onboard_time": 1683113009,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160574,
+        "num": 160574,
+        "word": "郭艾伦缺席G4",
+        "onboard_time": 1683114988,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155835,
+        "num": 155835,
+        "word": "29年前网红城市西安什么样",
+        "onboard_time": 1683107429,
+        "rank": 47,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 150761,
+        "num": 150761,
+        "word": "韩国大学生吃掉价值12万美元香蕉展品",
+        "onboard_time": 1683070041,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148117,
+        "num": 148117,
+        "word": "金廷祐金敏雅是亲姐弟",
+        "onboard_time": 1683103828,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国广大青年致以节日的祝贺#"
+    }
+  }
+}
