@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683155808952,
+  "endTime": 1683156816815,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1964096,
+      "num": 1964096,
+      "word": "新冠 查漏补缺",
+      "onboard_time": 1683130048,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1951901,
       "num": 1951901,
       "word": "陈晓毛晓彤十年前vs十年后",
@@ -369,14 +377,6 @@
       "onboard_time": 1682998288,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1684652,
-      "num": 1684652,
-      "word": "新冠 查漏补缺",
-      "onboard_time": 1683130048,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1645310,
@@ -707,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1049030,
+      "num": 1049030,
+      "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
+      "onboard_time": 1683154941,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047003,
       "num": 1047003,
       "word": "48岁冻龄妈妈谈被家暴经历",
@@ -923,6 +931,14 @@
       "category": "幽默,影视"
     },
     {
+      "raw_hot": 837770,
+      "num": 415462,
+      "word": "史航事件当事人小默",
+      "onboard_time": 1683156265,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 834895,
       "num": 834895,
       "word": "克里姆林宫",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1682985262,
       "rank": 7,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 725796,
+      "num": 725796,
+      "word": "上海打雷",
+      "onboard_time": 1683154941,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 718264,
@@ -1392,14 +1416,6 @@
       "word": "哈尔滨天空现不明飞行物",
       "onboard_time": 1683080911,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 557947,
-      "num": 557947,
-      "word": "上海打雷",
-      "onboard_time": 1683154941,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1947,14 +1963,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 418258,
-      "num": 324785,
-      "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
-      "onboard_time": 1683154941,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418241,
       "num": 255021,
       "word": "6人吃了30盘自助小龙虾惊动店长",
@@ -2137,6 +2145,14 @@
       "onboard_time": 1683016827,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 395752,
+      "num": 395752,
+      "word": "原来44岁以下都是青年",
+      "onboard_time": 1683154941,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395432,
@@ -2532,7 +2548,7 @@
     },
     {
       "raw_hot": 328891,
-      "num": 328891,
+      "num": 403500,
       "word": "淄博烧烤不涨价的最大底气",
       "onboard_time": 1683130466,
       "rank": 43,
@@ -4619,6 +4635,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 196065,
+      "num": 132374,
+      "word": "美联储宣布加息25个基点",
+      "onboard_time": 1683155962,
+      "rank": 30,
+      "category": "财经,国外要闻"
+    },
+    {
       "raw_hot": 195409,
       "num": 195409,
       "word": "这工位老板看到了都害怕",
@@ -5243,6 +5267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174489,
+      "num": 174489,
+      "word": "中国第一位唢呐博士惊艳出圈",
+      "onboard_time": 1683152656,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173626,
       "num": 173626,
       "word": "卜钰问刘晓世自己跟王一博撞型吗",
@@ -5563,6 +5595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162495,
+      "num": 162495,
+      "word": "失眠",
+      "onboard_time": 1683155181,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162273,
       "num": 162273,
       "word": "Jennie朴彩英确认出席Metgala",
@@ -5697,6 +5737,14 @@
       "onboard_time": 1683024567,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156862,
+      "num": 156862,
+      "word": "萌兰手压麻了之后走路",
+      "onboard_time": 1683127411,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 156635,
@@ -5995,14 +6043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139323,
-      "num": 139323,
-      "word": "中国第一位唢呐博士惊艳出圈",
-      "onboard_time": 1683152656,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139183,
       "num": 139183,
       "word": "喜欢你我也是",
@@ -6025,14 +6065,6 @@
       "onboard_time": 1682897423,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138272,
-      "num": 138272,
-      "word": "萌兰手压麻了之后走路",
-      "onboard_time": 1683127411,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 136675,
@@ -6137,6 +6169,14 @@
       "onboard_time": 1682866353,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131557,
+      "num": 131557,
+      "word": "月薪三万你会不会裸辞",
+      "onboard_time": 1683130225,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 130884,
@@ -6259,14 +6299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127824,
-      "num": 127824,
-      "word": "月薪三万你会不会裸辞",
-      "onboard_time": 1683130225,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127181,
       "num": 125071,
       "word": "张小斐暖心回应粉丝小纸条",
@@ -6315,8 +6347,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 124456,
-      "num": 124456,
+      "raw_hot": 124512,
+      "num": 124512,
       "word": "陈妍希演的齐家宜好灵",
       "onboard_time": 1683130225,
       "rank": 33,
@@ -6481,14 +6513,6 @@
       "onboard_time": 1682906130,
       "rank": 46,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 117673,
-      "num": 105894,
-      "word": "原来44岁以下都是青年",
-      "onboard_time": 1683154941,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116805,
@@ -6683,6 +6707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 98376,
+      "num": 98376,
+      "word": "收1500捞手机者非西湖景区工作人员",
+      "onboard_time": 1683147431,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 98252,
       "num": 98252,
       "word": "凳子上的洞是干嘛用的",
@@ -6723,20 +6755,20 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 93694,
-      "num": 93694,
-      "word": "失眠",
-      "onboard_time": 1683155181,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 93505,
       "num": 93505,
       "word": "曾黎晒机车服随拍",
       "onboard_time": 1682982618,
       "rank": 32,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 93187,
+      "num": 93187,
+      "word": "哈兰德打破英超单赛季进球纪录",
+      "onboard_time": 1683155844,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 92774,
@@ -6771,6 +6803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 89709,
+      "num": 89709,
+      "word": "原来我的小说是被闺蜜买走了",
+      "onboard_time": 1683131363,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89190,
       "num": 128921,
       "word": "颜色真的很影响食欲",
@@ -6785,14 +6825,6 @@
       "onboard_time": 1682983160,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88055,
-      "num": 88055,
-      "word": "收1500捞手机者非西湖景区工作人员",
-      "onboard_time": 1683147431,
-      "rank": 44,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 86616,
@@ -6851,20 +6883,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81499,
+      "num": 81499,
+      "word": "男孩不交手机当街追打奶奶",
+      "onboard_time": 1683145032,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80971,
       "num": 80971,
       "word": "切尔西六连败",
       "onboard_time": 1683070221,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80252,
-      "num": 80252,
-      "word": "男孩不交手机当街追打奶奶",
-      "onboard_time": 1683145032,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80235,
@@ -6883,20 +6915,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79320,
-      "num": 79320,
-      "word": "原来我的小说是被闺蜜买走了",
-      "onboard_time": 1683131363,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 79094,
       "num": 79094,
       "word": "范伟演技太牛了",
       "onboard_time": 1682941768,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 77880,
+      "num": 77880,
+      "word": "休宁巴伊叶因家人去世缺席活动",
+      "onboard_time": 1683153497,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 77427,
@@ -6937,14 +6969,6 @@
       "onboard_time": 1682921968,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69903,
-      "num": 69903,
-      "word": "休宁巴伊叶因家人去世缺席活动",
-      "onboard_time": 1683153497,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 68644,

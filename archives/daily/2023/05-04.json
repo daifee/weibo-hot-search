@@ -1,10 +1,10 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683155808952,
+  "endTime": 1683156816815,
   "band_list": [
     {
-      "raw_hot": 1684652,
-      "num": 1684652,
+      "raw_hot": 1964096,
+      "num": 1964096,
       "word": "新冠 查漏补缺",
       "onboard_time": 1683130048,
       "rank": 24,
@@ -27,12 +27,28 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1049030,
+      "num": 1049030,
+      "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
+      "onboard_time": 1683154941,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 905424,
       "num": 905424,
       "word": "西安坠机航司称已联系遇难者家属",
       "onboard_time": 1683130646,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 837770,
+      "num": 415462,
+      "word": "史航事件当事人小默",
+      "onboard_time": 1683156265,
+      "rank": 10,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 779474,
@@ -51,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 725796,
+      "num": 725796,
+      "word": "上海打雷",
+      "onboard_time": 1683154941,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708173,
       "num": 708173,
       "word": "赛琳娜靠美妆品牌成为亿万富翁",
@@ -60,7 +84,7 @@
     },
     {
       "raw_hot": 702429,
-      "num": 386440,
+      "num": 414701,
       "word": "龚俊说被顶流花花圈粉了",
       "onboard_time": 1683126212,
       "rank": 11,
@@ -73,14 +97,6 @@
       "onboard_time": 1683120693,
       "rank": 12,
       "category": "影视"
-    },
-    {
-      "raw_hot": 557947,
-      "num": 557947,
-      "word": "上海打雷",
-      "onboard_time": 1683154941,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 536459,
@@ -107,11 +123,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 418258,
-      "num": 324785,
-      "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
+      "raw_hot": 413714,
+      "num": 413714,
+      "word": "48岁冻龄妈妈谈被家暴经历",
+      "onboard_time": 1683094530,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395752,
+      "num": 395752,
+      "word": "原来44岁以下都是青年",
       "onboard_time": 1683154941,
-      "rank": 10,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -129,14 +153,6 @@
       "onboard_time": 1683123090,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 374859,
-      "num": 323786,
-      "word": "48岁冻龄妈妈谈被家暴经历",
-      "onboard_time": 1683094530,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 372679,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 328891,
-      "num": 328891,
+      "num": 403500,
       "word": "淄博烧烤不涨价的最大底气",
       "onboard_time": 1683130466,
       "rank": 43,
@@ -227,6 +243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196065,
+      "num": 132374,
+      "word": "美联储宣布加息25个基点",
+      "onboard_time": 1683155962,
+      "rank": 30,
+      "category": "财经,国外要闻"
+    },
+    {
       "raw_hot": 191629,
       "num": 191629,
       "word": "人生路不熟成五一档票房冠军",
@@ -243,12 +267,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174489,
+      "num": 174489,
+      "word": "中国第一位唢呐博士惊艳出圈",
+      "onboard_time": 1683152656,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171699,
       "num": 171699,
       "word": "庆余年2真的要开机了",
       "onboard_time": 1683102869,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 162495,
+      "num": 162495,
+      "word": "失眠",
+      "onboard_time": 1683155181,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 160429,
@@ -265,6 +305,14 @@
       "onboard_time": 1683130525,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156862,
+      "num": 156862,
+      "word": "萌兰手压麻了之后走路",
+      "onboard_time": 1683127411,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 154974,
@@ -299,22 +347,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 139323,
-      "num": 139323,
-      "word": "中国第一位唢呐博士惊艳出圈",
-      "onboard_time": 1683152656,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138272,
-      "num": 138272,
-      "word": "萌兰手压麻了之后走路",
-      "onboard_time": 1683127411,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137810,
       "num": 137810,
       "word": "郭艾伦笑了",
@@ -324,11 +356,19 @@
     },
     {
       "raw_hot": 131770,
-      "num": 1060125,
+      "num": 1139906,
       "word": "这个五一274000000人次出游",
       "onboard_time": 1683117812,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131557,
+      "num": 131557,
+      "word": "月薪三万你会不会裸辞",
+      "onboard_time": 1683130225,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 130976,
@@ -339,16 +379,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127824,
-      "num": 127824,
-      "word": "月薪三万你会不会裸辞",
-      "onboard_time": 1683130225,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 124456,
-      "num": 124456,
+      "raw_hot": 124512,
+      "num": 124512,
       "word": "陈妍希演的齐家宜好灵",
       "onboard_time": 1683130225,
       "rank": 33,
@@ -361,14 +393,6 @@
       "onboard_time": 1683112469,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117673,
-      "num": 105894,
-      "word": "原来44岁以下都是青年",
-      "onboard_time": 1683154941,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115360,
@@ -411,6 +435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 98376,
+      "num": 98376,
+      "word": "收1500捞手机者非西湖景区工作人员",
+      "onboard_time": 1683147431,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 96032,
       "num": 109231,
       "word": "美女幼师凭挖呀挖呀挖走红",
@@ -419,20 +451,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 93694,
-      "num": 93694,
-      "word": "失眠",
-      "onboard_time": 1683155181,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 93187,
+      "num": 93187,
+      "word": "哈兰德打破英超单赛季进球纪录",
+      "onboard_time": 1683155844,
+      "rank": 38,
+      "category": "体育"
     },
     {
-      "raw_hot": 88055,
-      "num": 88055,
-      "word": "收1500捞手机者非西湖景区工作人员",
-      "onboard_time": 1683147431,
-      "rank": 44,
-      "category": "社会新闻,旅游"
+      "raw_hot": 89709,
+      "num": 89709,
+      "word": "原来我的小说是被闺蜜买走了",
+      "onboard_time": 1683131363,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 83067,
@@ -451,8 +483,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 80252,
-      "num": 80252,
+      "raw_hot": 81499,
+      "num": 81499,
       "word": "男孩不交手机当街追打奶奶",
       "onboard_time": 1683145032,
       "rank": 49,
@@ -467,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 79320,
-      "num": 79320,
-      "word": "原来我的小说是被闺蜜买走了",
-      "onboard_time": 1683131363,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 78972,
       "num": 78972,
       "word": "李飞听完王浩唱歌后的反应",
@@ -483,19 +507,19 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 77880,
+      "num": 77880,
+      "word": "休宁巴伊叶因家人去世缺席活动",
+      "onboard_time": 1683153497,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74905,
       "num": 74905,
       "word": "费曼 为了周杰伦我已阴",
       "onboard_time": 1683105151,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69903,
-      "num": 69903,
-      "word": "休宁巴伊叶因家人去世缺席活动",
-      "onboard_time": 1683153497,
-      "rank": 42,
       "category": "艺人"
     },
     {
