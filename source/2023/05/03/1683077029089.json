@@ -1,0 +1,410 @@
+{
+  "runTime": 1683077029089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2299452,
+        "num": 2299452,
+        "word": "韩国大学生吃掉价值12万美元香蕉展品",
+        "onboard_time": 1683070041,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054929,
+        "num": 1054929,
+        "word": "一家三口五一出游被困悬崖边",
+        "onboard_time": 1683069561,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 48465,
+        "num": 890433,
+        "word": "深地一号超深井放喷测试点火现场",
+        "onboard_time": 1683033575,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 842157,
+        "num": 842157,
+        "word": "找好朋友做伴娘闹到绝交",
+        "onboard_time": 1683033634,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 788058,
+        "num": 788058,
+        "word": "云南地震",
+        "onboard_time": 1683042332,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734280,
+        "num": 734280,
+        "word": "外滩",
+        "onboard_time": 1683040833,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 457483,
+        "num": 457483,
+        "word": "涉事景区称插队事件自己也是受损方",
+        "onboard_time": 1683069680,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 443981,
+        "num": 443981,
+        "word": "妺女",
+        "onboard_time": 1683029489,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 404774,
+        "num": 404774,
+        "word": "85后单身女子买完房后降薪了",
+        "onboard_time": 1683041316,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 393805,
+        "num": 393805,
+        "word": "长沙夜生活导演谈排片惨淡",
+        "onboard_time": 1683072506,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1106709,
+        "num": 386071,
+        "word": "林志玲状态",
+        "onboard_time": 1683074788,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690307,
+        "num": 385192,
+        "word": "东北商家回应钟薛高3.8元一根",
+        "onboard_time": 1683073946,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543471,
+        "num": 384086,
+        "word": "王诗龄被吐槽炫富",
+        "onboard_time": 1683029668,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368963,
+        "num": 368963,
+        "word": "买个青蛙人偶去发疯",
+        "onboard_time": 1683074665,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344795,
+        "num": 344795,
+        "word": "淄博大姐留宿12名无房游客住家里",
+        "onboard_time": 1683066195,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 344504,
+        "num": 344504,
+        "word": "史航称不存在性骚扰",
+        "onboard_time": 1683043469,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 325700,
+        "num": 325700,
+        "word": "长空之王对违规影院停止提供密钥",
+        "onboard_time": 1683075930,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 303039,
+        "num": 303039,
+        "word": "梅西被巴黎停赛两周",
+        "onboard_time": 1683069860,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276119,
+        "num": 276119,
+        "word": "周深说额头见到大家很高兴",
+        "onboard_time": 1683075328,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273699,
+        "num": 273699,
+        "word": "湖人对战勇士",
+        "onboard_time": 1683076409,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302563,
+        "num": 271490,
+        "word": "工资3500突然变成了一万",
+        "onboard_time": 1683077008,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295765,
+        "num": 270932,
+        "word": "这就是陈都灵流鼻血那场戏啊",
+        "onboard_time": 1683074548,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 279573,
+        "num": 269762,
+        "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
+        "onboard_time": 1683073946,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267069,
+        "num": 267069,
+        "word": "房价房租倒挂",
+        "onboard_time": 1683038264,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267032,
+        "num": 267032,
+        "word": "旅行回来和朋友闹崩了",
+        "onboard_time": 1683073407,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241446,
+        "num": 241446,
+        "word": "等比例放大的花花",
+        "onboard_time": 1683044249,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219657,
+        "num": 219657,
+        "word": "刘耀文脱衣服",
+        "onboard_time": 1683071363,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217603,
+        "num": 217603,
+        "word": "时代少年团演唱会回放",
+        "onboard_time": 1683076049,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216824,
+        "num": 216824,
+        "word": "认识十年的朋友突然消失了",
+        "onboard_time": 1683037421,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216729,
+        "num": 216729,
+        "word": "余霜认错佛耶戈皮肤",
+        "onboard_time": 1683071243,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181549,
+        "num": 181549,
+        "word": "什么是流水线公主",
+        "onboard_time": 1683046345,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172386,
+        "num": 172386,
+        "word": "博物馆回应老人疑因捡帽子跳入文物坑",
+        "onboard_time": 1683071243,
+        "rank": 31,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 165636,
+        "num": 165636,
+        "word": "男子吐槽在景区停车场一路捡到26个螺丝钉",
+        "onboard_time": 1683059772,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162981,
+        "num": 162981,
+        "word": "淄博烧烤",
+        "onboard_time": 1683070582,
+        "rank": 33,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 160383,
+        "num": 160383,
+        "word": "贾青链条裤子",
+        "onboard_time": 1683076290,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159290,
+        "num": 159290,
+        "word": "恩比德当选MVP",
+        "onboard_time": 1683071543,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150142,
+        "num": 150142,
+        "word": "送女孩赶火车大哥说山东人遇到都会帮",
+        "onboard_time": 1683064273,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 145410,
+        "num": 145410,
+        "word": "整列车厢回杭的娃都在赶作业",
+        "onboard_time": 1683075209,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135008,
+        "num": 135008,
+        "word": "至少已有12名发声者指控史航性骚扰",
+        "onboard_time": 1683028349,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 133738,
+        "num": 133738,
+        "word": "第一次给朋友暖房时的幸福感",
+        "onboard_time": 1683044132,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129389,
+        "num": 129389,
+        "word": "宋亚轩斗舞",
+        "onboard_time": 1683076949,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129246,
+        "num": 129246,
+        "word": "五一上海外滩到底有多少人",
+        "onboard_time": 1683041139,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127834,
+        "num": 127834,
+        "word": "多支救援力量赶往云南隆阳震中",
+        "onboard_time": 1683071785,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126061,
+        "num": 126061,
+        "word": "黄景瑜回东北了",
+        "onboard_time": 1683069621,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124339,
+        "num": 124339,
+        "word": "勇士晋级西部半决赛",
+        "onboard_time": 1683075809,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118806,
+        "num": 118806,
+        "word": "闺蜜在保护着她的梦想",
+        "onboard_time": 1683075088,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111471,
+        "num": 111471,
+        "word": "这个五一让我明白了假期的意义",
+        "onboard_time": 1683023727,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102542,
+        "num": 102542,
+        "word": "高叶淡妆生图",
+        "onboard_time": 1683076648,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99422,
+        "num": 99422,
+        "word": "灰熊决定放弃狄龙",
+        "onboard_time": 1683069379,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97030,
+        "num": 97030,
+        "word": "淄博八大局记忆",
+        "onboard_time": 1683070524,
+        "rank": 49,
+        "category": "旅游,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#五一返程高峰来了#"
+    }
+  }
+}
