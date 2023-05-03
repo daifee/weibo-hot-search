@@ -1,0 +1,410 @@
+{
+  "runTime": 1683120807894,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4979379,
+        "num": 4979379,
+        "word": "阳了",
+        "onboard_time": 1683115648,
+        "rank": 0,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1864019,
+        "num": 1864019,
+        "word": "明天上班可能出现的症状",
+        "onboard_time": 1683110071,
+        "rank": 1,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 329019,
+        "num": 1602885,
+        "word": "这个五一274000000人次出游",
+        "onboard_time": 1683117812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1553501,
+        "num": 1553501,
+        "word": "相识24年的闺蜜突然去世了",
+        "onboard_time": 1683112586,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1223952,
+        "num": 1223952,
+        "word": "长月烬明就演到这吧",
+        "onboard_time": 1683115288,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1047003,
+        "num": 1047003,
+        "word": "48岁冻龄妈妈谈被家暴经历",
+        "onboard_time": 1683094530,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 893329,
+        "num": 893329,
+        "word": "高铁上碰到了一对情侣想换座",
+        "onboard_time": 1683104970,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 789569,
+        "num": 789569,
+        "word": "克里姆林宫",
+        "onboard_time": 1683118713,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571517,
+        "num": 571517,
+        "word": "高铁上最好不要和邻座套近乎",
+        "onboard_time": 1683101370,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 561290,
+        "num": 561290,
+        "word": "端午节也要调休",
+        "onboard_time": 1683092551,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 880497,
+        "num": 522666,
+        "word": "秦昊瘦身食谱",
+        "onboard_time": 1683120693,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 755169,
+        "num": 511077,
+        "word": "EXO",
+        "onboard_time": 1683107429,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435161,
+        "num": 435161,
+        "word": "费曼 为了周杰伦我已阴",
+        "onboard_time": 1683105151,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433110,
+        "num": 433110,
+        "word": "美女幼师凭挖呀挖呀挖走红",
+        "onboard_time": 1683077310,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417914,
+        "num": 417914,
+        "word": "刘恋穿了品如的衣服",
+        "onboard_time": 1683112469,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395605,
+        "num": 395605,
+        "word": "基辅出动两架无人机袭击克宫未遂",
+        "onboard_time": 1683118112,
+        "rank": 15,
+        "category": "社会新闻,国外要闻"
+      },
+      {
+        "raw_hot": 362381,
+        "num": 362381,
+        "word": "史航聊天记录",
+        "onboard_time": 1683084629,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 361882,
+        "num": 361882,
+        "word": "湖南男子在西湖捞手机日入约一万",
+        "onboard_time": 1683108990,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352597,
+        "num": 352597,
+        "word": "诺一何炅撞脸",
+        "onboard_time": 1683105630,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337085,
+        "num": 337085,
+        "word": "庆余年2真的要开机了",
+        "onboard_time": 1683102869,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 462906,
+        "num": 336240,
+        "word": "工资3500突然变成了一万",
+        "onboard_time": 1683077008,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329026,
+        "num": 329026,
+        "word": "余秀华 读书万卷不过沐猴之冠",
+        "onboard_time": 1683104190,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 291085,
+        "num": 291085,
+        "word": "肖战如梦之梦西安站的花墙",
+        "onboard_time": 1683119070,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 275814,
+        "num": 275814,
+        "word": "嘟嘟酱 童年被继父差点性侵",
+        "onboard_time": 1683084389,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 267850,
+        "num": 267850,
+        "word": "团建的目的 让老板以为我们团结",
+        "onboard_time": 1683116729,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260091,
+        "num": 260091,
+        "word": "大伯二婚对象是我初恋的妈妈",
+        "onboard_time": 1683096089,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253744,
+        "num": 253744,
+        "word": "CBA半决赛",
+        "onboard_time": 1683119372,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236199,
+        "num": 236199,
+        "word": "五三惨案",
+        "onboard_time": 1683079650,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222351,
+        "num": 222351,
+        "word": "卡琳娜无期迷途",
+        "onboard_time": 1683100590,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 219860,
+        "num": 219860,
+        "word": "景区2天内捡了23个娃",
+        "onboard_time": 1683077670,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428704,
+        "num": 218961,
+        "word": "而我只能去上班",
+        "onboard_time": 1683119553,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217819,
+        "num": 217819,
+        "word": "护心",
+        "onboard_time": 1683116968,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217639,
+        "num": 217639,
+        "word": "每天对着卡琳娜哇哇叫",
+        "onboard_time": 1683105212,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 208123,
+        "num": 208123,
+        "word": "虞书欣吴宣仪王一栩合影",
+        "onboard_time": 1683119790,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196772,
+        "num": 207070,
+        "word": "这个五一你去哪旅游了",
+        "onboard_time": 1683120693,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206948,
+        "num": 206948,
+        "word": "温暖的甜蜜的",
+        "onboard_time": 1683120632,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202049,
+        "num": 202049,
+        "word": "乌方称没有参与对克宫的无人机袭击",
+        "onboard_time": 1683120453,
+        "rank": 36,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 204133,
+        "num": 202025,
+        "word": "黄色笑话是一种服从性测试",
+        "onboard_time": 1683083071,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201939,
+        "num": 201939,
+        "word": "金钟仁直播哭了",
+        "onboard_time": 1683120511,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102576,
+        "num": 201400,
+        "word": "五一假期2.74亿人次出游",
+        "onboard_time": 1683111028,
+        "rank": 39,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 201137,
+        "num": 201137,
+        "word": "热心大哥高铁上怒斥熊孩子家长获喝彩",
+        "onboard_time": 1683099570,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199564,
+        "num": 199564,
+        "word": "将门毒后",
+        "onboard_time": 1683093867,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 192509,
+        "num": 192509,
+        "word": "陈晓觉得陈妍希最适合拍戏",
+        "onboard_time": 1683095313,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180098,
+        "num": 180098,
+        "word": "李飞主打一个陪伴",
+        "onboard_time": 1683113248,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179687,
+        "num": 179687,
+        "word": "孙燕姿现场",
+        "onboard_time": 1683120453,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178040,
+        "num": 178040,
+        "word": "韩国大学生吃掉价值12万美元香蕉展品",
+        "onboard_time": 1683070041,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176739,
+        "num": 176739,
+        "word": "LGD",
+        "onboard_time": 1683119853,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172765,
+        "num": 172765,
+        "word": "月薪8500工作太闲要辞职吗",
+        "onboard_time": 1683098728,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170513,
+        "num": 170513,
+        "word": "景区租给游客的衣服有多脏",
+        "onboard_time": 1683109350,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 168464,
+        "num": 168464,
+        "word": "李飞听完王浩唱歌后的反应",
+        "onboard_time": 1683120693,
+        "rank": 49,
+        "category": "音乐,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#点赞新时代青春力量#"
+    }
+  }
+}

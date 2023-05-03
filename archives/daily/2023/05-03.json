@@ -1,10 +1,10 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683120010333,
+  "endTime": 1683120807894,
   "band_list": [
     {
-      "raw_hot": 4907142,
-      "num": 4907142,
+      "raw_hot": 4979379,
+      "num": 4979379,
       "word": "阳了",
       "onboard_time": 1683115648,
       "rank": 1,
@@ -123,8 +123,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1454908,
-      "num": 1454908,
+      "raw_hot": 1553501,
+      "num": 1553501,
       "word": "相识24年的闺蜜突然去世了",
       "onboard_time": 1683112586,
       "rank": 14,
@@ -195,6 +195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1223952,
+      "num": 1223952,
+      "word": "长月烬明就演到这吧",
+      "onboard_time": 1683115288,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1133149,
       "num": 1133149,
       "word": "景区2天内捡了23个娃",
@@ -219,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1064919,
-      "num": 1064919,
-      "word": "长月烬明就演到这吧",
-      "onboard_time": 1683115288,
-      "rank": 16,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1054929,
       "num": 1054929,
       "word": "一家三口五一出游被困悬崖边",
@@ -243,20 +243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1047003,
+      "num": 1047003,
+      "word": "48岁冻龄妈妈谈被家暴经历",
+      "onboard_time": 1683094530,
+      "rank": 41,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1026901,
       "num": 1026901,
       "word": "傅卫军 性张力",
       "onboard_time": 1683080791,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 981614,
-      "num": 981614,
-      "word": "48岁冻龄妈妈谈被家暴经历",
-      "onboard_time": 1683094530,
-      "rank": 41,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 944676,
@@ -289,6 +289,14 @@
       "onboard_time": 1683096089,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 880497,
+      "num": 522666,
+      "word": "秦昊瘦身食谱",
+      "onboard_time": 1683120693,
+      "rank": 10,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 854653,
@@ -329,6 +337,14 @@
       "onboard_time": 1683028349,
       "rank": 7,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 789569,
+      "num": 789569,
+      "word": "克里姆林宫",
+      "onboard_time": 1683118713,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 740660,
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428704,
+      "num": 226504,
+      "word": "而我只能去上班",
+      "onboard_time": 1683119553,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 422319,
       "num": 422319,
       "word": "男子吐槽在景区停车场一路捡到26个螺丝钉",
@@ -667,6 +691,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 395605,
+      "num": 395605,
+      "word": "基辅出动两架无人机袭击克宫未遂",
+      "onboard_time": 1683118112,
+      "rank": 42,
+      "category": "社会新闻,国外要闻"
+    },
+    {
       "raw_hot": 393805,
       "num": 393805,
       "word": "长沙夜生活导演谈排片惨淡",
@@ -713,14 +745,6 @@
       "onboard_time": 1683107429,
       "rank": 4,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 371885,
-      "num": 371885,
-      "word": "克里姆林宫",
-      "onboard_time": 1683118713,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 369156,
@@ -779,28 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349009,
-      "num": 349009,
-      "word": "基辅出动两架无人机袭击克宫未遂",
-      "onboard_time": 1683118112,
-      "rank": 42,
-      "category": "社会新闻,国外要闻"
-    },
-    {
       "raw_hot": 347990,
       "num": 347990,
       "word": "要你管",
       "onboard_time": 1683034299,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 345148,
-      "num": 226504,
-      "word": "而我只能去上班",
-      "onboard_time": 1683119553,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 344954,
@@ -843,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329019,
+      "num": 1614924,
+      "word": "这个五一274000000人次出游",
+      "onboard_time": 1683117812,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328354,
       "num": 328354,
       "word": "cp29 无料",
@@ -857,14 +873,6 @@
       "onboard_time": 1683039166,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 326278,
-      "num": 1614924,
-      "word": "这个五一274000000人次出游",
-      "onboard_time": 1683117812,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324611,
@@ -1363,12 +1371,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208123,
+      "num": 208123,
+      "word": "虞书欣吴宣仪王一栩合影",
+      "onboard_time": 1683119790,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208058,
       "num": 208058,
       "word": "浓眉30分23篮板",
       "onboard_time": 1683090332,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206948,
+      "num": 206948,
+      "word": "温暖的甜蜜的",
+      "onboard_time": 1683120632,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 205942,
@@ -1401,6 +1425,22 @@
       "onboard_time": 1683089193,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202049,
+      "num": 202049,
+      "word": "乌方称没有参与对克宫的无人机袭击",
+      "onboard_time": 1683120453,
+      "rank": 36,
+      "category": "社会新闻,军事"
+    },
+    {
+      "raw_hot": 201939,
+      "num": 201939,
+      "word": "金钟仁直播哭了",
+      "onboard_time": 1683120511,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 201707,
@@ -1449,6 +1489,14 @@
       "onboard_time": 1683032493,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196772,
+      "num": 207070,
+      "word": "这个五一你去哪旅游了",
+      "onboard_time": 1683120693,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194095,
@@ -1555,6 +1603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179687,
+      "num": 179687,
+      "word": "孙燕姿现场",
+      "onboard_time": 1683120453,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179354,
       "num": 179354,
       "word": "杨迪要你管直拍",
@@ -1627,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176739,
+      "num": 176739,
+      "word": "LGD",
+      "onboard_time": 1683119853,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176657,
       "num": 176657,
       "word": "王楚钦获北京青年五四奖章",
@@ -1689,6 +1753,14 @@
       "onboard_time": 1683078928,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 168464,
+      "num": 168464,
+      "word": "李飞听完王浩唱歌后的反应",
+      "onboard_time": 1683120693,
+      "rank": 49,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 167759,
@@ -1755,14 +1827,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 162889,
-      "num": 162889,
-      "word": "虞书欣吴宣仪王一栩合影",
-      "onboard_time": 1683119790,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161787,
       "num": 161787,
       "word": "萤火虫漫展",
@@ -1817,14 +1881,6 @@
       "onboard_time": 1683027270,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 153049,
-      "num": 153049,
-      "word": "LGD",
-      "onboard_time": 1683119853,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 150948,
@@ -2344,6 +2400,9 @@
     },
     {
       "word": "#习近平向全国广大青年致以节日的祝贺#"
+    },
+    {
+      "word": "#点赞新时代青春力量#"
     }
   ]
 }
