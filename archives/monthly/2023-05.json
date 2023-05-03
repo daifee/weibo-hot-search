@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683081742650,
+  "endTime": 1683083886197,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -65,6 +65,14 @@
       "onboard_time": 1682949099,
       "rank": 3,
       "category": "影视"
+    },
+    {
+      "raw_hot": 2641650,
+      "num": 2641650,
+      "word": "五三惨案",
+      "onboard_time": 1683079650,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2620491,
@@ -167,14 +175,6 @@
       "num": 1309131,
       "word": "暴雨大暴雨要来了",
       "onboard_time": 1682985565,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1997650,
-      "num": 1997650,
-      "word": "五三惨案",
-      "onboard_time": 1683079650,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1298777,
-      "num": 298396,
+      "num": 337325,
       "word": "工资3500突然变成了一万",
       "onboard_time": 1683077008,
       "rank": 20,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1099347,
+      "num": 1099347,
+      "word": "景区2天内捡了23个娃",
+      "onboard_time": 1683077670,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1079555,
       "num": 1079555,
       "word": "王子奇王玉雯",
@@ -512,14 +520,6 @@
       "word": "警方不建议前往大唐不夜城",
       "onboard_time": 1682865150,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1062657,
-      "num": 1062657,
-      "word": "景区2天内捡了23个娃",
-      "onboard_time": 1683077670,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -649,6 +649,14 @@
       "onboard_time": 1683034299,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 893662,
+      "num": 893662,
+      "word": "傅卫军 性张力",
+      "onboard_time": 1683080791,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 867730,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1682943926,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 558039,
+      "num": 558039,
+      "word": "哈尔滨天空现不明飞行物",
+      "onboard_time": 1683080911,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553685,
@@ -1427,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417406,
+      "num": 417406,
+      "word": "湖人对战勇士",
+      "onboard_time": 1683076409,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416665,
       "num": 416665,
       "word": "淄博绿豆糕大爷回应爆火",
@@ -1443,12 +1467,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 413790,
+      "num": 413790,
+      "word": "张婧仪孙千周也五一档票房实绩",
+      "onboard_time": 1683080972,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 413462,
       "num": 340035,
       "word": "女子买衣服当老板面搜同款砍价",
       "onboard_time": 1682993788,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410497,
+      "num": 410497,
+      "word": "伴娘要随份子钱吗",
+      "onboard_time": 1683081931,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 410353,
@@ -1504,6 +1544,14 @@
       "word": "男子阻止插队遭两女子狂骂",
       "onboard_time": 1682923770,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401111,
+      "num": 401111,
+      "word": "桃子老师",
+      "onboard_time": 1683081931,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1683,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345458,
-      "num": 345458,
-      "word": "傅卫军 性张力",
-      "onboard_time": 1683080791,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 344509,
       "num": 344509,
       "word": "易烊千玺新歌",
@@ -1745,14 +1785,6 @@
       "onboard_time": 1682946271,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 334827,
-      "num": 334827,
-      "word": "湖人对战勇士",
-      "onboard_time": 1683076409,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 334101,
@@ -1921,6 +1953,14 @@
       "onboard_time": 1683074548,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 311631,
+      "num": 249027,
+      "word": "黄色笑话是一种服从性测试",
+      "onboard_time": 1683083071,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 310495,
@@ -2283,14 +2323,6 @@
       "category": "艺人,情感"
     },
     {
-      "raw_hot": 267903,
-      "num": 267903,
-      "word": "张婧仪孙千周也五一档票房实绩",
-      "onboard_time": 1683080972,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 267736,
       "num": 267736,
       "word": "插队",
@@ -2619,14 +2651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242000,
-      "num": 242000,
-      "word": "哈尔滨天空现不明飞行物",
-      "onboard_time": 1683080911,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241968,
       "num": 241968,
       "word": "马伊琍谈原生家庭影响",
@@ -2857,6 +2881,14 @@
       "onboard_time": 1682999010,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228603,
+      "num": 228603,
+      "word": "游客强行翻越重庆千厮门大桥",
+      "onboard_time": 1683078812,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 228199,
@@ -3179,6 +3211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210008,
+      "num": 210008,
+      "word": "平凡之路今日开播",
+      "onboard_time": 1683083613,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 209296,
       "num": 209296,
       "word": "动车走一半超重停了",
@@ -3201,6 +3241,14 @@
       "onboard_time": 1683015684,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208396,
+      "num": 208396,
+      "word": "当代年轻人是懂省钱看世界的",
+      "onboard_time": 1683083492,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 207852,
@@ -3579,6 +3627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188555,
+      "num": 188555,
+      "word": "勇士三分投疯了",
+      "onboard_time": 1683083731,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188448,
       "num": 188448,
       "word": "贾青链条裤子",
@@ -3659,14 +3715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183009,
-      "num": 183009,
-      "word": "游客强行翻越重庆千厮门大桥",
-      "onboard_time": 1683078812,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 182000,
       "num": 182000,
       "word": "DOU5获胜",
@@ -3697,6 +3745,14 @@
       "onboard_time": 1682899285,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180653,
+      "num": 180653,
+      "word": "乘风2023",
+      "onboard_time": 1683081812,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 180084,
@@ -3737,6 +3793,14 @@
       "onboard_time": 1682862689,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178859,
+      "num": 178859,
+      "word": "公司周六周日周三都放假",
+      "onboard_time": 1683082471,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178655,
@@ -3969,6 +4033,14 @@
       "onboard_time": 1682995708,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168565,
+      "num": 168565,
+      "word": "2023metgala最佳造型",
+      "onboard_time": 1683078928,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 168362,
@@ -4227,6 +4299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 157578,
+      "num": 157578,
+      "word": "张真源下腰视频",
+      "onboard_time": 1683083670,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 156635,
       "num": 132348,
       "word": "当事女性站出来 隐私权让渡给公众",
@@ -4272,14 +4352,6 @@
       "word": "Rihanna亮相Met Gala",
       "onboard_time": 1682998888,
       "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 153741,
-      "num": 153741,
-      "word": "2023metgala最佳造型",
-      "onboard_time": 1683078928,
-      "rank": 40,
       "category": "作品衍生,时尚"
     },
     {
@@ -4491,6 +4563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140448,
+      "num": 140448,
+      "word": "温暖的甜蜜的今日开播",
+      "onboard_time": 1683083011,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 139019,
       "num": 139019,
       "word": "cp29横幅",
@@ -4547,12 +4627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134527,
+      "num": 134527,
+      "word": "海口的风很懂宋亚轩",
+      "onboard_time": 1683083850,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134515,
       "num": 134515,
       "word": "B太二刷许昌胖东来",
       "onboard_time": 1682896341,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 134348,
+      "num": 134348,
+      "word": "漫长的季节 原剧本",
+      "onboard_time": 1683081871,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 134003,
