@@ -1,7 +1,15 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683084847289,
+  "endTime": 1683087621214,
   "band_list": [
+    {
+      "raw_hot": 3220437,
+      "num": 1342654,
+      "word": "史航聊天记录",
+      "onboard_time": 1683084629,
+      "rank": 7,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2641650,
       "num": 2641650,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328919,
+      "num": 1328919,
+      "word": "嘟嘟酱 童年被继父差点性侵",
+      "onboard_time": 1683084389,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1298777,
       "num": 370674,
       "word": "工资3500突然变成了一万",
@@ -65,6 +81,14 @@
       "onboard_time": 1683041559,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1235700,
+      "num": 516556,
+      "word": "黄色笑话是一种服从性测试",
+      "onboard_time": 1683083071,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 1233076,
@@ -147,14 +171,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 804856,
-      "num": 516556,
-      "word": "黄色笑话是一种服从性测试",
-      "onboard_time": 1683083071,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 803712,
       "num": 803712,
       "word": "至少已有12名发声者指控史航性骚扰",
@@ -177,14 +193,6 @@
       "onboard_time": 1683075930,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 593035,
-      "num": 593035,
-      "word": "史航聊天记录",
-      "onboard_time": 1683084629,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558039,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475504,
+      "num": 475504,
+      "word": "湖人 罚球大队",
+      "onboard_time": 1683084690,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457483,
       "num": 457483,
       "word": "涉事景区称插队事件自己也是受损方",
@@ -251,6 +267,22 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 437973,
+      "num": 437973,
+      "word": "湖人对战勇士",
+      "onboard_time": 1683076409,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 433808,
+      "num": 433808,
+      "word": "坐高铁碰到同座位的票",
+      "onboard_time": 1683086189,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433741,
       "num": 433741,
       "word": "买个青蛙人偶去发疯",
@@ -265,14 +297,6 @@
       "onboard_time": 1683059772,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417406,
-      "num": 417406,
-      "word": "湖人对战勇士",
-      "onboard_time": 1683076409,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 417111,
@@ -315,20 +339,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 367167,
+      "num": 367167,
+      "word": "傅卫军",
+      "onboard_time": 1683085770,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
       "raw_hot": 362845,
       "num": 362845,
       "word": "房价房租倒挂",
       "onboard_time": 1683038264,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 360673,
-      "num": 217749,
-      "word": "嘟嘟酱 童年被继父差点性侵",
-      "onboard_time": 1683084389,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 347990,
@@ -339,12 +363,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346587,
+      "num": 346587,
+      "word": "演唱会激光导致手机摄像头报废",
+      "onboard_time": 1683085049,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326341,
       "num": 298856,
       "word": "三代",
       "onboard_time": 1683039166,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 321883,
+      "num": 321883,
+      "word": "cp29 无料",
+      "onboard_time": 1683084270,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 319941,
@@ -451,6 +491,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 237355,
+      "num": 237355,
+      "word": "鹅厂五月大剧片单",
+      "onboard_time": 1683086310,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 235684,
       "num": 235684,
       "word": "向太直播将送百台车",
@@ -497,14 +545,6 @@
       "onboard_time": 1683037421,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 227438,
-      "num": 227438,
-      "word": "cp29 无料",
-      "onboard_time": 1683084270,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 222617,
@@ -635,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186233,
+      "num": 186233,
+      "word": "刘耀文贺峻霖到达长沙视频",
+      "onboard_time": 1683085770,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183260,
       "num": 183260,
       "word": "女记者 没人没被骚扰过",
@@ -699,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170842,
+      "num": 170842,
+      "word": "乘风2023芭莎红意官宣大片",
+      "onboard_time": 1683082411,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170162,
       "num": 157829,
       "word": "第一次给朋友暖房时的幸福感",
@@ -723,28 +779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166796,
-      "num": 166796,
-      "word": "湖人 罚球大队",
-      "onboard_time": 1683084690,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165350,
       "num": 165350,
       "word": "插队母女欠四川人一个道歉",
       "onboard_time": 1682987666,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165325,
-      "num": 165325,
-      "word": "乘风2023芭莎红意官宣大片",
-      "onboard_time": 1683082411,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 164188,
@@ -763,12 +803,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 161787,
+      "num": 161787,
+      "word": "萤火虫漫展",
+      "onboard_time": 1683085650,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 160723,
       "num": 160723,
       "word": "宋亚轩斗舞",
       "onboard_time": 1683076949,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159895,
+      "num": 159895,
+      "word": "皮皮限",
+      "onboard_time": 1683086608,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 159290,
@@ -785,6 +841,14 @@
       "onboard_time": 1683027270,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 151952,
+      "num": 151952,
+      "word": "普尔神经刀",
+      "onboard_time": 1683085169,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 150948,
@@ -833,6 +897,14 @@
       "onboard_time": 1683041196,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128419,
+      "num": 128419,
+      "word": "本人目前的状态 一不做二不休",
+      "onboard_time": 1683087270,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 127834,
@@ -1116,7 +1188,7 @@
     },
     {
       "raw_hot": 52799,
-      "num": 1247327,
+      "num": 1345546,
       "word": "深地一号超深井放喷测试点火现场",
       "onboard_time": 1683033575,
       "rank": 2,
