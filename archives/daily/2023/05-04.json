@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683149609114,
+  "endTime": 1683152182779,
   "band_list": [
     {
       "raw_hot": 1463595,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311293,
+      "num": 181715,
+      "word": "西安坠机航司称已联系遇难者家属",
+      "onboard_time": 1683130646,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307059,
       "num": 307059,
       "word": "48岁冻龄妈妈谈被家暴经历",
@@ -177,14 +185,6 @@
       "onboard_time": 1683121172,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273920,
-      "num": 181715,
-      "word": "西安坠机航司称已联系遇难者家属",
-      "onboard_time": 1683130646,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266780,
@@ -451,12 +451,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 57170,
+      "num": 41136,
+      "word": "收1500捞手机者非西湖景区工作人员",
+      "onboard_time": 1683147431,
+      "rank": 44,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 56652,
       "num": 56652,
       "word": "明知道不好却改不了的毛病",
       "onboard_time": 1683130582,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 41246,
+      "num": 41246,
+      "word": "徐怀钰45岁身材管理",
+      "onboard_time": 1683149712,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 34078,
@@ -475,20 +491,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25747,
-      "num": 23412,
+      "raw_hot": 32033,
+      "num": 32033,
       "word": "男孩不交手机当街追打奶奶",
       "onboard_time": 1683145032,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20125,
-      "num": 20125,
-      "word": "收1500捞手机者非西湖景区工作人员",
-      "onboard_time": 1683147431,
-      "rank": 44,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 13676,
