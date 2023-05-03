@@ -1,6 +1,6 @@
 {
   "startTime": 1683044547789,
-  "endTime": 1683098219952,
+  "endTime": 1683099204743,
   "band_list": [
     {
       "raw_hot": 3220437,
@@ -19,20 +19,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2662718,
+      "num": 2662718,
+      "word": "端午节也要调休",
+      "onboard_time": 1683092551,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2641650,
       "num": 2641650,
       "word": "五三惨案",
       "onboard_time": 1683079650,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2540709,
-      "num": 2540709,
-      "word": "端午节也要调休",
-      "onboard_time": 1683092551,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 2299452,
@@ -163,6 +163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 975178,
+      "num": 975178,
+      "word": "陈晓觉得陈妍希最适合拍戏",
+      "onboard_time": 1683095313,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 944676,
       "num": 944676,
       "word": "湖人 罚球大队",
@@ -184,14 +192,6 @@
       "word": "妺女",
       "onboard_time": 1683029489,
       "rank": 4,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 910022,
-      "num": 910022,
-      "word": "陈晓觉得陈妍希最适合拍戏",
-      "onboard_time": 1683095313,
-      "rank": 14,
       "category": "影视"
     },
     {
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 712161,
+      "num": 712161,
+      "word": "大伯二婚对象是我初恋的妈妈",
+      "onboard_time": 1683096089,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 675709,
       "num": 675709,
       "word": "张紫宁横店音乐节遭威胁",
@@ -275,14 +283,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 590560,
-      "num": 405372,
-      "word": "大伯二婚对象是我初恋的妈妈",
-      "onboard_time": 1683096089,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 569320,
       "num": 569320,
       "word": "湖人对战勇士",
@@ -297,6 +297,14 @@
       "onboard_time": 1683080911,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 556295,
+      "num": 556295,
+      "word": "游客手机掉西湖被要1500元打捞费",
+      "onboard_time": 1683094227,
+      "rank": 36,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 521073,
@@ -345,14 +353,6 @@
       "onboard_time": 1683080611,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472638,
-      "num": 472638,
-      "word": "游客手机掉西湖被要1500元打捞费",
-      "onboard_time": 1683094227,
-      "rank": 36,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 457483,
@@ -595,11 +595,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294011,
+      "num": 294011,
+      "word": "直升机坠落西安白鹿仓景区致3人亡",
+      "onboard_time": 1683098612,
+      "rank": 16,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 280087,
       "num": 280087,
       "word": "大熊猫被蜂群攻击熊没事饲养员被蛰",
       "onboard_time": 1683073946,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276529,
+      "num": 276529,
+      "word": "山东男孩五一路边3天拉来1500元客单",
+      "onboard_time": 1683094890,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 266550,
-      "num": 215540,
+      "num": 227141,
       "word": "Jennie金智秀flower挑战",
       "onboard_time": 1683096450,
       "rank": 23,
@@ -683,8 +699,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 248131,
-      "num": 208286,
+      "raw_hot": 248518,
+      "num": 232826,
       "word": "科学家称外星人或很快发现人类",
       "onboard_time": 1683096089,
       "rank": 25,
@@ -740,19 +756,11 @@
     },
     {
       "raw_hot": 234630,
-      "num": 182086,
+      "num": 232787,
       "word": "睡眠不足的九大表现",
       "onboard_time": 1683096867,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 234007,
-      "num": 234007,
-      "word": "山东男孩五一路边3天拉来1500元客单",
-      "onboard_time": 1683094890,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 233587,
@@ -947,6 +955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198003,
+      "num": 198003,
+      "word": "时代少年团被激光笔照射",
+      "onboard_time": 1683098428,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197497,
       "num": 197497,
       "word": "严浩翔H舞台",
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 178612,
-      "num": 178612,
+      "num": 186698,
       "word": "五一档电影票房超13亿元",
       "onboard_time": 1683098190,
       "rank": 33,
@@ -1089,6 +1105,14 @@
       "onboard_time": 1683090871,
       "rank": 41,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 177306,
+      "num": 177306,
+      "word": "月薪8500工作太闲要辞职吗",
+      "onboard_time": 1683098728,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 172386,
@@ -1363,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118350,
+      "num": 118350,
+      "word": "杨迪差点在苍兰诀播后加王鹤棣好友",
+      "onboard_time": 1683098969,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116805,
       "num": 116805,
       "word": "热火vs尼克斯",
@@ -1411,20 +1443,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107611,
+      "num": 107611,
+      "word": "这鸭子是在瘦腿吗",
+      "onboard_time": 1683096809,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107433,
       "num": 117274,
       "word": "盛夏光年",
       "onboard_time": 1683035859,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 104406,
-      "num": 104406,
-      "word": "这鸭子是在瘦腿吗",
-      "onboard_time": 1683096809,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 104214,
