@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683188493399,
+  "endTime": 1683189248526,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -67,6 +67,14 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 1456644,
+      "num": 1456644,
+      "word": "全员加速中",
+      "onboard_time": 1683184948,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1384869,
       "num": 1384869,
       "word": "王源 门票",
@@ -97,14 +105,6 @@
       "onboard_time": 1683178885,
       "rank": 1,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1307290,
-      "num": 1307290,
-      "word": "全员加速中",
-      "onboard_time": 1683184948,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 1282175,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1188795,
-      "num": 399628,
+      "num": 407882,
       "word": "唐嫣中戏同学聚会",
       "onboard_time": 1683186750,
       "rank": 10,
@@ -179,6 +179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1038886,
+      "num": 1038886,
+      "word": "领事馆确认两中国公民在巴厘岛身亡",
+      "onboard_time": 1683177561,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1021384,
       "num": 1021384,
       "word": "高铁上最好不要和邻座套近乎",
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 882783,
-      "num": 882783,
-      "word": "领事馆确认两中国公民在巴厘岛身亡",
-      "onboard_time": 1683177561,
-      "rank": 24,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 862995,
       "num": 388749,
       "word": "赵丽颖一秒听出谢娜的声音",
       "onboard_time": 1683173677,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 839134,
+      "num": 839134,
+      "word": "亚运会 名单",
+      "onboard_time": 1683186210,
+      "rank": 4,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 831436,
@@ -235,14 +243,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 794413,
-      "num": 794413,
-      "word": "亚运会 名单",
-      "onboard_time": 1683186210,
-      "rank": 4,
-      "category": "体育,游戏"
-    },
-    {
       "raw_hot": 766124,
       "num": 766124,
       "word": "秦昊说杨幂会给你们不一样的惊喜",
@@ -265,6 +265,14 @@
       "onboard_time": 1683112586,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 729815,
+      "num": 390011,
+      "word": "于正说我捧的人都火了",
+      "onboard_time": 1683188011,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 725796,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543808,
+      "num": 543808,
+      "word": "杨幂 酱园弄",
+      "onboard_time": 1683187168,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 529382,
       "num": 529382,
       "word": "爱过你的女生 分手是蓄谋已久的",
@@ -459,6 +475,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 414745,
+      "num": 414745,
+      "word": "五四不放假要发加班费吗",
+      "onboard_time": 1683185671,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413714,
       "num": 413714,
       "word": "48岁冻龄妈妈谈被家暴经历",
@@ -489,14 +513,6 @@
       "onboard_time": 1683118713,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 392660,
-      "num": 392660,
-      "word": "杨幂 酱园弄",
-      "onboard_time": 1683187168,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 390904,
@@ -699,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289877,
-      "num": 289877,
-      "word": "于正说我捧的人都火了",
-      "onboard_time": 1683188011,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288989,
       "num": 288989,
       "word": "武庚纪官宣杀青",
@@ -715,12 +723,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288803,
-      "num": 288803,
-      "word": "五四不放假要发加班费吗",
-      "onboard_time": 1683185671,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 288880,
+      "num": 288880,
+      "word": "张杰华晨宇首次合作",
+      "onboard_time": 1683187768,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 284854,
@@ -883,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236163,
+      "num": 236163,
+      "word": "广东专插本",
+      "onboard_time": 1683188667,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 234497,
       "num": 234497,
       "word": "卡琳娜好帅",
@@ -947,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209669,
-      "num": 209669,
-      "word": "张杰华晨宇首次合作",
-      "onboard_time": 1683187768,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208818,
       "num": 208818,
       "word": "eStar止步季后赛",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1683183025,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196842,
+      "num": 196842,
+      "word": "7岁女孩为捐髓救母拼命吃到80斤",
+      "onboard_time": 1683187588,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196441,
@@ -1123,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173012,
+      "num": 173012,
+      "word": "金牛座和射手座的边界感共鸣",
+      "onboard_time": 1683184888,
+      "rank": 44,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 171699,
       "num": 171699,
       "word": "庆余年2真的要开机了",
@@ -1131,12 +1155,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 170744,
-      "num": 170744,
-      "word": "金牛座和射手座的边界感共鸣",
-      "onboard_time": 1683184888,
-      "rank": 44,
-      "category": "情感,网红"
+      "raw_hot": 170990,
+      "num": 170990,
+      "word": "王嘉尔和粉丝十指相扣合照",
+      "onboard_time": 1683187408,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169792,
+      "num": 169792,
+      "word": "马嘉祺风花雪月饭拍",
+      "onboard_time": 1683188609,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 163577,
@@ -1161,14 +1193,6 @@
       "onboard_time": 1683131425,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 158742,
-      "num": 158742,
-      "word": "王嘉尔和粉丝十指相扣合照",
-      "onboard_time": 1683187408,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 158436,
@@ -1203,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155435,
+      "num": 155435,
+      "word": "长月烬明带动蚌埠五一旅游经济暴增",
+      "onboard_time": 1683189088,
+      "rank": 42,
+      "category": "影视,社会新闻"
+    },
+    {
       "raw_hot": 154974,
       "num": 154974,
       "word": "DRG晋级败者组半决赛",
@@ -1227,6 +1259,14 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 149879,
+      "num": 149879,
+      "word": "上海的垃圾桶到底在哪里",
+      "onboard_time": 1683188968,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148075,
       "num": 148075,
       "word": "孙燕姿现场",
@@ -1241,14 +1281,6 @@
       "onboard_time": 1683163228,
       "rank": 47,
       "category": "动漫,网红"
-    },
-    {
-      "raw_hot": 144600,
-      "num": 144600,
-      "word": "7岁女孩为捐髓救母拼命吃到80斤",
-      "onboard_time": 1683187588,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143959,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1683165328,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122885,
+      "num": 122885,
+      "word": "任嘉伦武庚哭戏花絮",
+      "onboard_time": 1683189210,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 122751,
@@ -1603,6 +1643,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 61453,
+      "num": 895970,
+      "word": "对青春最好的致敬是成为更好的自己",
+      "onboard_time": 1683186928,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61298,
       "num": 61298,
       "word": "沙丘2先导预告",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1683130582,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 52216,
-      "num": 820520,
-      "word": "对青春最好的致敬是成为更好的自己",
-      "onboard_time": 1683186928,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49227,
@@ -1684,7 +1724,7 @@
     },
     {
       "raw_hot": 25381,
-      "num": 157424,
+      "num": 166260,
       "word": "运动场上的青年说",
       "onboard_time": 1683187228,
       "rank": 39,
