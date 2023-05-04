@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683174861160,
+  "endTime": 1683177388475,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -635,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1240749,
+      "num": 1240749,
+      "word": "淄博烧烤老板从门洞露脸问人多不多",
+      "onboard_time": 1683174395,
+      "rank": 36,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1233076,
       "num": 1233076,
       "word": "外滩",
       "onboard_time": 1683040833,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1228705,
+      "num": 1228705,
+      "word": "媒体评插队婆孙被做成恶搞表情包",
+      "onboard_time": 1683169227,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1223952,
@@ -659,12 +675,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1206334,
-      "num": 1206334,
-      "word": "媒体评插队婆孙被做成恶搞表情包",
-      "onboard_time": 1683169227,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 1193995,
+      "num": 1193995,
+      "word": "史航事件当事人再发声",
+      "onboard_time": 1683175896,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1181137,
@@ -963,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 862995,
+      "num": 388749,
+      "word": "赵丽颖一秒听出谢娜的声音",
+      "onboard_time": 1683173677,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 857505,
       "num": 857505,
       "word": "胡锡进发文评插队发飙事件",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1682943628,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 831436,
+      "num": 831436,
+      "word": "突然得知暗恋对象资产上亿",
+      "onboard_time": 1683170370,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 828159,
@@ -1483,14 +1515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 568878,
-      "num": 568878,
-      "word": "突然得知暗恋对象资产上亿",
-      "onboard_time": 1683170370,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 567767,
       "num": 567767,
       "word": "文俊辉直播",
@@ -1577,14 +1601,6 @@
       "onboard_time": 1682946271,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 548033,
-      "num": 388749,
-      "word": "赵丽颖一秒听出谢娜的声音",
-      "onboard_time": 1683173677,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 547353,
@@ -2227,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413150,
+      "num": 413150,
+      "word": "新冠",
+      "onboard_time": 1683175472,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413111,
       "num": 206361,
       "word": "青年节",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1683090211,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329759,
+      "num": 228095,
+      "word": "当cp粉被保安要求打开横幅",
+      "onboard_time": 1683176373,
+      "rank": 31,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 329087,
@@ -3371,6 +3403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276531,
+      "num": 276531,
+      "word": "唐山铁矿透水事故县领导谎报",
+      "onboard_time": 1683174935,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276529,
       "num": 1102980,
       "word": "山东男孩五一路边3天拉来1500元客单",
@@ -3833,6 +3873,14 @@
       "onboard_time": 1682904750,
       "rank": 22,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 248963,
+      "num": 248963,
+      "word": "19岁高职毕业生在清华当老师的体验",
+      "onboard_time": 1683174758,
+      "rank": 47,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 248518,
@@ -4459,6 +4507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220763,
+      "num": 220763,
+      "word": "女明星花语",
+      "onboard_time": 1683175896,
+      "rank": 32,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 220758,
       "num": 200832,
       "word": "女子坐高铁到山寨大唐不夜城心哇凉",
@@ -4747,6 +4803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209971,
+      "num": 209971,
+      "word": "爸爸当家2官宣定档",
+      "onboard_time": 1683175472,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209296,
       "num": 209296,
       "word": "动车走一半超重停了",
@@ -4793,14 +4857,6 @@
       "onboard_time": 1683090332,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208017,
-      "num": 208017,
-      "word": "淄博烧烤老板从门洞露脸问人多不多",
-      "onboard_time": 1683174395,
-      "rank": 36,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 207852,
@@ -4905,6 +4961,14 @@
       "onboard_time": 1683089193,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204182,
+      "num": 204182,
+      "word": "肖战如梦之梦西安站饭拍",
+      "onboard_time": 1683176017,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 204146,
@@ -5033,6 +5097,14 @@
       "onboard_time": 1682984422,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198879,
+      "num": 198879,
+      "word": "假如公司让你带薪休假一年",
+      "onboard_time": 1683175176,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 198303,
@@ -5643,6 +5715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176987,
+      "num": 176987,
+      "word": "五一档票房该不该算预售票房",
+      "onboard_time": 1683176373,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176869,
       "num": 176869,
       "word": "全世界只有我没去cp29",
@@ -6057,14 +6137,6 @@
       "onboard_time": 1683092189,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163481,
-      "num": 163481,
-      "word": "19岁高职毕业生在清华当老师的体验",
-      "onboard_time": 1683174758,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 163423,
@@ -6619,6 +6691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138326,
+      "num": 479567,
+      "word": "爸妈的种草和我们的种草",
+      "onboard_time": 1683167668,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136675,
       "num": 112801,
       "word": "国铁回应坐高铁像挤地铁",
@@ -6691,20 +6771,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 133082,
+      "num": 133082,
+      "word": "花戎",
+      "onboard_time": 1683177332,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133037,
       "num": 133037,
       "word": "76人1比0凯尔特人",
       "onboard_time": 1682993427,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132981,
-      "num": 479567,
-      "word": "爸妈的种草和我们的种草",
-      "onboard_time": 1683167668,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132555,
@@ -7593,6 +7673,14 @@
       "onboard_time": 1682921968,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 72558,
+      "num": 428953,
+      "word": "生活哪些事你想较个真",
+      "onboard_time": 1683176434,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 68644,

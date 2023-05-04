@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683174861160,
+  "endTime": 1683177388475,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -83,12 +83,28 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1206334,
-      "num": 1206334,
+      "raw_hot": 1240749,
+      "num": 1240749,
+      "word": "淄博烧烤老板从门洞露脸问人多不多",
+      "onboard_time": 1683174395,
+      "rank": 36,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1228705,
+      "num": 1228705,
       "word": "媒体评插队婆孙被做成恶搞表情包",
       "onboard_time": 1683169227,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1193995,
+      "num": 1193995,
+      "word": "史航事件当事人再发声",
+      "onboard_time": 1683175896,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1177781,
@@ -137,6 +153,22 @@
       "onboard_time": 1683130646,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862995,
+      "num": 388749,
+      "word": "赵丽颖一秒听出谢娜的声音",
+      "onboard_time": 1683173677,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 831436,
+      "num": 831436,
+      "word": "突然得知暗恋对象资产上亿",
+      "onboard_time": 1683170370,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 826923,
@@ -227,14 +259,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 568878,
-      "num": 568878,
-      "word": "突然得知暗恋对象资产上亿",
-      "onboard_time": 1683170370,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 561370,
       "num": 561370,
       "word": "阿根廷队确定6月份访华",
@@ -257,14 +281,6 @@
       "onboard_time": 1683166286,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 548033,
-      "num": 388749,
-      "word": "赵丽颖一秒听出谢娜的声音",
-      "onboard_time": 1683173677,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 545102,
@@ -353,6 +369,14 @@
       "onboard_time": 1683094530,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 413150,
+      "num": 413150,
+      "word": "新冠",
+      "onboard_time": 1683175472,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413111,
@@ -459,6 +483,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 329759,
+      "num": 228095,
+      "word": "当cp粉被保安要求打开横幅",
+      "onboard_time": 1683176373,
+      "rank": 31,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 329087,
       "num": 300845,
       "word": "特种兵旅游通宵不睡觉单日花费仅百元",
@@ -563,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276531,
+      "num": 276531,
+      "word": "唐山铁矿透水事故县领导谎报",
+      "onboard_time": 1683174935,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273511,
       "num": 273511,
       "word": "闹钟没响",
@@ -651,6 +691,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 248963,
+      "num": 248963,
+      "word": "19岁高职毕业生在清华当老师的体验",
+      "onboard_time": 1683174758,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 244905,
       "num": 244905,
       "word": "周迅卓越与好友聚会",
@@ -673,6 +721,14 @@
       "onboard_time": 1683107429,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220763,
+      "num": 220763,
+      "word": "女明星花语",
+      "onboard_time": 1683175896,
+      "rank": 32,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 218586,
@@ -707,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209971,
+      "num": 209971,
+      "word": "爸爸当家2官宣定档",
+      "onboard_time": 1683175472,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208818,
       "num": 208818,
       "word": "eStar止步季后赛",
@@ -715,12 +779,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208017,
-      "num": 208017,
-      "word": "淄博烧烤老板从门洞露脸问人多不多",
-      "onboard_time": 1683174395,
-      "rank": 36,
-      "category": "社会新闻,美食"
+      "raw_hot": 204182,
+      "num": 204182,
+      "word": "肖战如梦之梦西安站饭拍",
+      "onboard_time": 1683176017,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 199570,
@@ -729,6 +793,14 @@
       "onboard_time": 1683167309,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198879,
+      "num": 198879,
+      "word": "假如公司让你带薪休假一年",
+      "onboard_time": 1683175176,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 196441,
@@ -787,6 +859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 176987,
+      "num": 176987,
+      "word": "五一档票房该不该算预售票房",
+      "onboard_time": 1683176373,
+      "rank": 42,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176148,
       "num": 176148,
       "word": "承欢记组讯",
@@ -817,14 +897,6 @@
       "onboard_time": 1683130225,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163481,
-      "num": 163481,
-      "word": "19岁高职毕业生在清华当老师的体验",
-      "onboard_time": 1683174758,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 162495,
@@ -939,6 +1011,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 138326,
+      "num": 479567,
+      "word": "爸妈的种草和我们的种草",
+      "onboard_time": 1683167668,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137810,
       "num": 137810,
       "word": "郭艾伦笑了",
@@ -955,12 +1035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132981,
-      "num": 479567,
-      "word": "爸妈的种草和我们的种草",
-      "onboard_time": 1683167668,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 133082,
+      "num": 133082,
+      "word": "花戎",
+      "onboard_time": 1683177332,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 130976,
@@ -1177,6 +1257,14 @@
       "onboard_time": 1683105151,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72558,
+      "num": 428953,
+      "word": "生活哪些事你想较个真",
+      "onboard_time": 1683176434,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 62999,
