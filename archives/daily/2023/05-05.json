@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683220516124,
+  "endTime": 1683221598818,
   "band_list": [
     {
       "raw_hot": 1280160,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237614,
+      "num": 237614,
+      "word": "胡锡进说贴插队婆孙车贴很恶心",
+      "onboard_time": 1683217045,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231708,
       "num": 323292,
       "word": "巴厘岛身亡两中国公民身份确认",
@@ -169,14 +177,6 @@
       "onboard_time": 1683214412,
       "rank": 22,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 196896,
-      "num": 196896,
-      "word": "胡锡进说贴插队婆孙车贴很恶心",
-      "onboard_time": 1683217045,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196294,
@@ -409,6 +409,14 @@
       "onboard_time": 1683219979,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 69232,
+      "num": 69232,
+      "word": "请撕下插队婆孙表情包",
+      "onboard_time": 1683220698,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59983,
