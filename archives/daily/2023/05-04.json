@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683210797990,
+  "endTime": 1683213499479,
   "band_list": [
     {
       "raw_hot": 3457258,
@@ -267,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1025534,
+      "num": 1025534,
+      "word": "高铁上的一声姐姐花了我35元",
+      "onboard_time": 1683209855,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1021384,
       "num": 1021384,
       "word": "高铁上最好不要和邻座套近乎",
@@ -281,6 +289,14 @@
       "onboard_time": 1683188968,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 985411,
+      "num": 323543,
+      "word": "女子刷短视频刷到老公和小三约会",
+      "onboard_time": 1683210937,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 959798,
@@ -427,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 682642,
+      "num": 682642,
+      "word": "裁判",
+      "onboard_time": 1683209974,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 671550,
       "num": 671550,
       "word": "你目前月薪存十万需要多久",
@@ -483,6 +507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 573707,
+      "num": 318999,
+      "word": "Jennie的肤色好辣",
+      "onboard_time": 1683211114,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 567563,
       "num": 567563,
       "word": "王源有钱且浪漫",
@@ -529,6 +561,14 @@
       "onboard_time": 1683175472,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547824,
+      "num": 547824,
+      "word": "姜思达播客",
+      "onboard_time": 1683211594,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 545102,
@@ -635,6 +675,14 @@
       "category": "影视,国内要闻"
     },
     {
+      "raw_hot": 479016,
+      "num": 314939,
+      "word": "同事登我电脑问密码是什么",
+      "onboard_time": 1683210275,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 476795,
       "num": 476795,
       "word": "全红婵实现娃娃自由",
@@ -665,22 +713,6 @@
       "onboard_time": 1683183388,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462988,
-      "num": 388524,
-      "word": "高铁上的一声姐姐花了我35元",
-      "onboard_time": 1683209855,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 447617,
-      "num": 447617,
-      "word": "裁判",
-      "onboard_time": 1683209974,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 443653,
@@ -865,6 +897,14 @@
       "onboard_time": 1683159930,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363506,
+      "num": 271476,
+      "word": "陈晓太会亲了吧",
+      "onboard_time": 1683211177,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 362237,
@@ -1131,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278401,
+      "num": 270204,
+      "word": "虞书欣谢可寅林小宅聚餐合照",
+      "onboard_time": 1683209734,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 276531,
       "num": 276531,
       "word": "唐山铁矿透水事故县领导谎报",
@@ -1147,12 +1195,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273388,
+      "num": 273388,
+      "word": "LGD巅峰对决Hero",
+      "onboard_time": 1683211773,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269915,
       "num": 269915,
       "word": "上班第一天",
       "onboard_time": 1683169948,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269454,
+      "num": 269454,
+      "word": "范丞丞张一山关晓彤剧宣主打一个真诚",
+      "onboard_time": 1683210336,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 267455,
@@ -1387,6 +1451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220353,
+      "num": 220353,
+      "word": "王子奇把西装焊身上",
+      "onboard_time": 1683212914,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 219403,
       "num": 216684,
       "word": "澹台烬黎苏苏又要结婚了",
@@ -1435,14 +1507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215145,
-      "num": 215145,
-      "word": "虞书欣谢可寅林小宅聚餐合照",
-      "onboard_time": 1683209734,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 212484,
       "num": 212484,
       "word": "许魏洲出发图是AI生成的",
@@ -1473,6 +1537,14 @@
       "onboard_time": 1683175472,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209582,
+      "num": 209582,
+      "word": "澹台烬为自己刻好了墓碑",
+      "onboard_time": 1683213212,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 208818,
@@ -1531,14 +1603,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 199258,
-      "num": 199258,
-      "word": "范丞丞张一山关晓彤剧宣主打一个真诚",
-      "onboard_time": 1683210336,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198879,
       "num": 198879,
       "word": "假如公司让你带薪休假一年",
@@ -1553,6 +1617,14 @@
       "onboard_time": 1683183025,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197724,
+      "num": 197724,
+      "word": "上班挣的钱是窝囊费",
+      "onboard_time": 1683211833,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 196441,
@@ -1611,20 +1683,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 187425,
-      "num": 187425,
-      "word": "同事登我电脑问密码是什么",
-      "onboard_time": 1683210275,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186886,
       "num": 186886,
       "word": "湖北事业单位",
       "onboard_time": 1683177869,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 186390,
+      "num": 186390,
+      "word": "吴前哭了",
+      "onboard_time": 1683212496,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 185785,
@@ -1657,6 +1729,14 @@
       "onboard_time": 1683192270,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 179898,
+      "num": 179898,
+      "word": "浙江深圳G5吹罚",
+      "onboard_time": 1683211056,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 177083,
@@ -1747,6 +1827,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 170498,
+      "num": 170498,
+      "word": "LGD晋级败者组半决赛",
+      "onboard_time": 1683213454,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169792,
       "num": 169792,
       "word": "马嘉祺风花雪月饭拍",
@@ -1761,6 +1849,14 @@
       "onboard_time": 1683201807,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168306,
+      "num": 168306,
+      "word": "丧偶式婚姻该坚持吗",
+      "onboard_time": 1683212794,
+      "rank": 46,
+      "category": "影视"
     },
     {
       "raw_hot": 167598,
@@ -1897,6 +1993,14 @@
       "onboard_time": 1683191128,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152045,
+      "num": 152045,
+      "word": "BLG战胜GG",
+      "onboard_time": 1683211961,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 151892,
@@ -2453,6 +2557,9 @@
     },
     {
       "word": "#总书记寄语广大青年#"
+    },
+    {
+      "word": "#总书记对青年提出的16字箴言#"
     }
   ]
 }
