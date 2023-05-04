@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683228821111,
+  "endTime": 1683231485229,
   "band_list": [
     {
       "raw_hot": 1280160,
@@ -419,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 70601,
+      "num": 44040,
+      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
+      "onboard_time": 1683227292,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69823,
       "num": 69823,
       "word": "男子被流浪狗咬伤后踩死4只幼崽",
@@ -443,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44040,
-      "num": 44040,
-      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
-      "onboard_time": 1683227292,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42009,
       "num": 42009,
       "word": "SEVENTEEN演我生活状态",
@@ -465,6 +465,14 @@
       "onboard_time": 1683222135,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30168,
+      "num": 27295,
+      "word": "过半网友认为插队婆孙被当车贴合适",
+      "onboard_time": 1683229632,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25227,
@@ -489,6 +497,14 @@
       "onboard_time": 1683184948,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14838,
+      "num": 17678,
+      "word": "人和香蕉的基因有50%相似",
+      "onboard_time": 1683228553,
+      "rank": 44,
+      "category": "情感,幽默"
     }
   ],
   "hotgov_list": [
