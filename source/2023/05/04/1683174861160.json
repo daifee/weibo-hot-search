@@ -1,0 +1,410 @@
+{
+  "runTime": 1683174861160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2005249,
+        "num": 2005249,
+        "word": "当我和妈妈说离婚了",
+        "onboard_time": 1683164309,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1840282,
+        "num": 1840282,
+        "word": "五四放假通知",
+        "onboard_time": 1683160949,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51798,
+        "num": 1589283,
+        "word": "激扬青春",
+        "onboard_time": 1683168687,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384869,
+        "num": 1384869,
+        "word": "王源 门票",
+        "onboard_time": 1683171451,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1300667,
+        "num": 1300667,
+        "word": "2中国游客在印尼巴厘岛身亡",
+        "onboard_time": 1683161189,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1206334,
+        "num": 1206334,
+        "word": "媒体评插队婆孙被做成恶搞表情包",
+        "onboard_time": 1683169227,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1140167,
+        "num": 1140167,
+        "word": "史航",
+        "onboard_time": 1683157587,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 712274,
+        "num": 712274,
+        "word": "工藤新一",
+        "onboard_time": 1683157045,
+        "rank": 7,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 676235,
+        "num": 676235,
+        "word": "旅行七天和老公吵了五次",
+        "onboard_time": 1683157886,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 568878,
+        "num": 568878,
+        "word": "突然得知暗恋对象资产上亿",
+        "onboard_time": 1683170370,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 950335,
+        "num": 565130,
+        "word": "张紫宁向粉丝道歉",
+        "onboard_time": 1683165026,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 560101,
+        "num": 560101,
+        "word": "爱奇艺五月片单",
+        "onboard_time": 1683171630,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 545102,
+        "num": 545102,
+        "word": "女生每天被合租室友投喂一日三餐",
+        "onboard_time": 1683170909,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524853,
+        "num": 524853,
+        "word": "宁安如梦",
+        "onboard_time": 1683173314,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 118249,
+        "num": 479567,
+        "word": "爸妈的种草和我们的种草",
+        "onboard_time": 1683167668,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466037,
+        "num": 466037,
+        "word": "阿根廷队确定6月份访华",
+        "onboard_time": 1683169469,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524056,
+        "num": 453440,
+        "word": "江阴",
+        "onboard_time": 1683173192,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433115,
+        "num": 433115,
+        "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
+        "onboard_time": 1683154941,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423055,
+        "num": 423055,
+        "word": "丁真诉网友侵权胜诉获赔6.1万",
+        "onboard_time": 1683172170,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 390250,
+        "num": 390250,
+        "word": "常年不吃碳水的人怎么样了",
+        "onboard_time": 1683122072,
+        "rank": 19,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 548033,
+        "num": 388749,
+        "word": "赵丽颖一秒听出谢娜的声音",
+        "onboard_time": 1683173677,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364718,
+        "num": 364718,
+        "word": "爱过你的女生 分手是蓄谋已久的",
+        "onboard_time": 1683167726,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357892,
+        "num": 357892,
+        "word": "刘诗诗将出席戛纳红毯",
+        "onboard_time": 1683168205,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342209,
+        "num": 342209,
+        "word": "兵务厅否认金钟仁入伍规定变更",
+        "onboard_time": 1683171211,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338660,
+        "num": 338660,
+        "word": "秦昊说杨幂会给你们不一样的惊喜",
+        "onboard_time": 1683161308,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338110,
+        "num": 338110,
+        "word": "这些同学荣获国家奖学金",
+        "onboard_time": 1683172531,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 333288,
+        "num": 333288,
+        "word": "洗碗工用9年逆袭成新闻主播",
+        "onboard_time": 1683166286,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326160,
+        "num": 326160,
+        "word": "00后幼师回应唱挖呀挖呀挖走红",
+        "onboard_time": 1683169047,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 296632,
+        "num": 296632,
+        "word": "宝应地震",
+        "onboard_time": 1683173072,
+        "rank": 28,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 261301,
+        "num": 261301,
+        "word": "财神爷生日",
+        "onboard_time": 1683174275,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259235,
+        "num": 259235,
+        "word": "Jennie CK全球代言人",
+        "onboard_time": 1683159209,
+        "rank": 30,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 254349,
+        "num": 254349,
+        "word": "徐若晗官宣签约和颂传媒",
+        "onboard_time": 1683173555,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247460,
+        "num": 247460,
+        "word": "没想到是小鸡自己进去的",
+        "onboard_time": 1683171811,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242031,
+        "num": 242031,
+        "word": "高铁上最好不要和邻座套近乎",
+        "onboard_time": 1683101370,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221860,
+        "num": 221860,
+        "word": "杭州西湖捞哥是免费的",
+        "onboard_time": 1683168205,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 211313,
+        "num": 211313,
+        "word": "霍汶希官宣回归乘风2023",
+        "onboard_time": 1683173974,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208017,
+        "num": 208017,
+        "word": "淄博烧烤老板从门洞露脸问人多不多",
+        "onboard_time": 1683174395,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 206943,
+        "num": 206943,
+        "word": "西安坠机航司称已联系遇难者家属",
+        "onboard_time": 1683130646,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205150,
+        "num": 205150,
+        "word": "青年节快乐",
+        "onboard_time": 1683173736,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413111,
+        "num": 204151,
+        "word": "青年节",
+        "onboard_time": 1683172831,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201737,
+        "num": 201737,
+        "word": "杨洋同学会好嗨",
+        "onboard_time": 1683169168,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201338,
+        "num": 201338,
+        "word": "周迅卓越与好友聚会",
+        "onboard_time": 1683170255,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196441,
+        "num": 196441,
+        "word": "上班第一天大家都不太清醒",
+        "onboard_time": 1683170188,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181929,
+        "num": 181929,
+        "word": "巴厘岛警方回应两中国游客酒店身亡",
+        "onboard_time": 1683164309,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176580,
+        "num": 176580,
+        "word": "00后特种兵整顿旅游宰客",
+        "onboard_time": 1683167007,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170977,
+        "num": 170977,
+        "word": "不良人",
+        "onboard_time": 1683168327,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 165113,
+        "num": 165113,
+        "word": "泽连斯基称乌没有攻击普京或莫斯科",
+        "onboard_time": 1683165869,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 163481,
+        "num": 163481,
+        "word": "19岁高职毕业生在清华当老师的体验",
+        "onboard_time": 1683174758,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 160457,
+        "num": 160457,
+        "word": "马嘉祺 漏气",
+        "onboard_time": 1683159869,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158692,
+        "num": 158692,
+        "word": "承欢记组讯",
+        "onboard_time": 1683170968,
+        "rank": 49,
+        "category": "影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#点赞新时代青春力量#"
+    }
+  }
+}
