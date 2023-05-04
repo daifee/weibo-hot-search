@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683168152930,
+  "endTime": 1683170287670,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -251,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1942976,
+      "num": 1942976,
+      "word": "当我和妈妈说离婚了",
+      "onboard_time": 1683164309,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1941746,
       "num": 679399,
       "word": "王诗龄被吐槽炫富",
@@ -369,14 +377,6 @@
       "onboard_time": 1683042332,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1711455,
-      "num": 1711455,
-      "word": "当我和妈妈说离婚了",
-      "onboard_time": 1683164309,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 1695709,
@@ -761,6 +761,14 @@
       "onboard_time": 1683089014,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1050650,
+      "num": 613702,
+      "word": "张紫宁向粉丝道歉",
+      "onboard_time": 1683165026,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 1047003,
@@ -1339,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 632459,
+      "num": 632459,
+      "word": "刘诗诗将出席戛纳红毯",
+      "onboard_time": 1683168205,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 627136,
       "num": 410765,
       "word": "杨洋组织同学会",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1683116309,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 558801,
+      "num": 558801,
+      "word": "洗碗工用9年逆袭成新闻主播",
+      "onboard_time": 1683166286,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558713,
@@ -1611,6 +1635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 512201,
+      "num": 512201,
+      "word": "爱过你的女生 分手是蓄谋已久的",
+      "onboard_time": 1683167726,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 511371,
       "num": 511371,
       "word": "普尔 库里",
@@ -1641,6 +1673,14 @@
       "onboard_time": 1683019048,
       "rank": 22,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 498252,
+      "num": 498252,
+      "word": "李泰容将6月初solo出道",
+      "onboard_time": 1683169047,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 497449,
@@ -1713,14 +1753,6 @@
       "onboard_time": 1683079110,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 479650,
-      "num": 479650,
-      "word": "洗碗工用9年逆袭成新闻主播",
-      "onboard_time": 1683166286,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 477862,
@@ -2032,14 +2064,6 @@
       "word": "aespa新歌",
       "onboard_time": 1683018929,
       "rank": 46,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 425873,
-      "num": 425873,
-      "word": "张紫宁向粉丝道歉",
-      "onboard_time": 1683165026,
-      "rank": 18,
       "category": "音乐"
     },
     {
@@ -2875,6 +2899,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 313034,
+      "num": 313034,
+      "word": "杭州西湖捞哥是免费的",
+      "onboard_time": 1683168205,
+      "rank": 20,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 312119,
+      "num": 312119,
+      "word": "00后幼师回应唱挖呀挖呀挖走红",
+      "onboard_time": 1683169047,
+      "rank": 21,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 311721,
       "num": 296748,
       "word": "这就是陈都灵流鼻血那场戏啊",
@@ -3291,6 +3331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 269915,
+      "num": 269915,
+      "word": "上班第一天",
+      "onboard_time": 1683169948,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269693,
       "num": 269693,
       "word": "这个五一让我明白了假期的意义",
@@ -3443,6 +3491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 262029,
+      "num": 262029,
+      "word": "媒体评插队婆孙被做成恶搞表情包",
+      "onboard_time": 1683169227,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260677,
       "num": 260677,
       "word": "挖呀挖呀挖",
@@ -3491,12 +3547,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257141,
+      "num": 257141,
+      "word": "阿根廷队确定6月份访华",
+      "onboard_time": 1683169469,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257057,
       "num": 257057,
       "word": "等比例放大的花花",
       "onboard_time": 1683044249,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 257038,
+      "num": 257038,
+      "word": "00后特种兵整顿旅游宰客",
+      "onboard_time": 1683167007,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256255,
@@ -3585,6 +3657,22 @@
       "onboard_time": 1683004111,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251355,
+      "num": 251355,
+      "word": "塔图姆",
+      "onboard_time": 1683167249,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251239,
+      "num": 251239,
+      "word": "杨洋同学会好嗨",
+      "onboard_time": 1683169168,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 251211,
@@ -3945,14 +4033,6 @@
       "onboard_time": 1682950891,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234987,
-      "num": 234987,
-      "word": "00后特种兵整顿旅游宰客",
-      "onboard_time": 1683167007,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234794,
@@ -4393,6 +4473,14 @@
       "onboard_time": 1683125972,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216134,
+      "num": 216134,
+      "word": "不良人",
+      "onboard_time": 1683168327,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 215930,
@@ -5235,14 +5323,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 180362,
-      "num": 180362,
-      "word": "爱过你的女生 分手是蓄谋已久的",
-      "onboard_time": 1683167726,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180084,
       "num": 180084,
       "word": "高叶淡妆生图",
@@ -5577,14 +5657,6 @@
       "onboard_time": 1683042271,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171557,
-      "num": 171557,
-      "word": "塔图姆",
-      "onboard_time": 1683167249,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 170842,
@@ -6444,7 +6516,7 @@
     },
     {
       "raw_hot": 132981,
-      "num": 173364,
+      "num": 325790,
       "word": "爸妈的种草和我们的种草",
       "onboard_time": 1683167668,
       "rank": 35,
@@ -6649,6 +6721,14 @@
       "onboard_time": 1683012629,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 125129,
+      "num": 125129,
+      "word": "美国CIA网络攻击他国调查报告发布",
+      "onboard_time": 1683169890,
+      "rank": 47,
+      "category": "国外要闻,科技"
     },
     {
       "raw_hot": 124932,
@@ -6859,11 +6939,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116287,
+      "num": 116287,
+      "word": "俄方称两架无人机袭击克里姆林宫",
+      "onboard_time": 1683170009,
+      "rank": 48,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 115590,
       "num": 115590,
       "word": "Shownu亨源将小分队出道",
       "onboard_time": 1683081630,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115363,
+      "num": 115363,
+      "word": "周迅卓越与好友聚会",
+      "onboard_time": 1683170255,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -7049,6 +7145,14 @@
       "onboard_time": 1682961979,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100235,
+      "num": 1429921,
+      "word": "激扬青春",
+      "onboard_time": 1683168687,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98376,
@@ -7569,6 +7673,14 @@
       "onboard_time": 1682887093,
       "rank": 35,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 29431,
+      "num": 419029,
+      "word": "刘德华谈过来人支持新人",
+      "onboard_time": 1683169227,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 28246,
