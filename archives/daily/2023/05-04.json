@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683196424074,
+  "endTime": 1683198918526,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2878992,
-      "num": 485889,
+      "num": 517090,
       "word": "唐嫣旁边是文章吗",
       "onboard_time": 1683191309,
       "rank": 10,
@@ -131,6 +131,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1268981,
+      "num": 511650,
+      "word": "郭珍霓",
+      "onboard_time": 1683196768,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1236574,
       "num": 884770,
       "word": "警方回应江苏江阴发生枪击事件",
@@ -169,6 +177,14 @@
       "onboard_time": 1683154941,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1166867,
+      "num": 1166867,
+      "word": "小说里刀削般的面容找到了",
+      "onboard_time": 1683193226,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1149580,
@@ -212,19 +228,11 @@
     },
     {
       "raw_hot": 959798,
-      "num": 452865,
+      "num": 483141,
       "word": "于正说我捧的人都火了",
       "onboard_time": 1683188011,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 925495,
-      "num": 925495,
-      "word": "小说里刀削般的面容找到了",
-      "onboard_time": 1683193226,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 905424,
@@ -273,6 +281,14 @@
       "onboard_time": 1683110071,
       "rank": 1,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 790481,
+      "num": 492925,
+      "word": "巴厘岛命案",
+      "onboard_time": 1683198386,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 766124,
@@ -363,12 +379,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 592336,
+      "num": 592336,
+      "word": "许嵩台上唱歌冯禧台下笑",
+      "onboard_time": 1683197726,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 578230,
       "num": 578230,
       "word": "不会真有公司五四不放假吧",
       "onboard_time": 1683180207,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 567563,
+      "num": 567563,
+      "word": "王源有钱且浪漫",
+      "onboard_time": 1683195750,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 561370,
@@ -427,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 525933,
+      "num": 525933,
+      "word": "活该淄博爆火",
+      "onboard_time": 1683192868,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 524853,
       "num": 524853,
       "word": "宁安如梦",
@@ -441,14 +481,6 @@
       "onboard_time": 1683173192,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 508266,
-      "num": 508266,
-      "word": "活该淄博爆火",
-      "onboard_time": 1683192868,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 498252,
@@ -481,6 +513,14 @@
       "onboard_time": 1683165449,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474737,
+      "num": 474737,
+      "word": "听过领导最没水平的一句话",
+      "onboard_time": 1683196407,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 467027,
@@ -651,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362237,
+      "num": 888738,
+      "word": "90后姑娘帮上万名村民喝上安全的水",
+      "onboard_time": 1683193827,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 351874,
       "num": 351874,
       "word": "白鹿男人风尚杂志封面",
@@ -739,14 +787,6 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 325163,
-      "num": 888738,
-      "word": "90后姑娘帮上万名村民喝上安全的水",
-      "onboard_time": 1683193827,
-      "rank": 4,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 321396,
       "num": 296841,
       "word": "男友视角下的关晓彤",
@@ -809,14 +849,6 @@
       "onboard_time": 1683159811,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295860,
-      "num": 295860,
-      "word": "王源有钱且浪漫",
-      "onboard_time": 1683195750,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 288989,
@@ -1019,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 226131,
+      "num": 226131,
+      "word": "种地吧成员开公司痛失艺名",
+      "onboard_time": 1683197306,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220763,
       "num": 220763,
       "word": "女明星花语",
@@ -1131,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199204,
+      "num": 186739,
+      "word": "江阴枪击案受害人家属发声",
+      "onboard_time": 1683197489,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198879,
       "num": 198879,
       "word": "假如公司让你带薪休假一年",
@@ -1171,12 +1219,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195370,
+      "num": 186640,
+      "word": "李飞你中控了毛线",
+      "onboard_time": 1683198087,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193344,
       "num": 193344,
       "word": "五四精神传承有我",
       "onboard_time": 1683162090,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192399,
+      "num": 186316,
+      "word": "王俊凯素颜彩排",
+      "onboard_time": 1683198207,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 191629,
@@ -1203,12 +1267,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187477,
+      "num": 187477,
+      "word": "金晨也去吃淄博烧烤了",
+      "onboard_time": 1683198449,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186886,
       "num": 186886,
       "word": "湖北事业单位",
       "onboard_time": 1683177869,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 185785,
+      "num": 185785,
+      "word": "慢卷",
+      "onboard_time": 1683197847,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 183799,
@@ -1347,6 +1427,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 160194,
+      "num": 160194,
+      "word": "提离职前一周被领导裁掉",
+      "onboard_time": 1683198626,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158436,
       "num": 158436,
       "word": "为什么有钱人也会在意电动车的电费",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1683127052,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154222,
+      "num": 154222,
+      "word": "小S摘隐形眼镜伤到眼睛",
+      "onboard_time": 1683198687,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 153442,
@@ -1499,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133856,
+      "num": 133856,
+      "word": "淄博小吃便宜",
+      "onboard_time": 1683197608,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 130976,
       "num": 285988,
       "word": "胡金秋受伤",
@@ -1609,14 +1713,6 @@
       "onboard_time": 1683166769,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 118387,
-      "num": 118387,
-      "word": "听过领导最没水平的一句话",
-      "onboard_time": 1683196407,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 118250,

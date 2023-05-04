@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683196424074,
+  "endTime": 1683198918526,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2878992,
-      "num": 485889,
+      "num": 517090,
       "word": "唐嫣旁边是文章吗",
       "onboard_time": 1683191309,
       "rank": 10,
@@ -667,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1268981,
+      "num": 511650,
+      "word": "郭珍霓",
+      "onboard_time": 1683196768,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1254591,
       "num": 1084140,
       "word": "黄色笑话是一种服从性测试",
@@ -753,6 +761,14 @@
       "onboard_time": 1683154941,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1166867,
+      "num": 1166867,
+      "word": "小说里刀削般的面容找到了",
+      "onboard_time": 1683193226,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1149580,
@@ -940,7 +956,7 @@
     },
     {
       "raw_hot": 959798,
-      "num": 452865,
+      "num": 483141,
       "word": "于正说我捧的人都火了",
       "onboard_time": 1683188011,
       "rank": 17,
@@ -977,14 +993,6 @@
       "onboard_time": 1683080070,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 925495,
-      "num": 925495,
-      "word": "小说里刀削般的面容找到了",
-      "onboard_time": 1683193226,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 925152,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1682909789,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 790481,
+      "num": 492925,
+      "word": "巴厘岛命案",
+      "onboard_time": 1683198386,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 788619,
@@ -1587,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 592336,
+      "num": 592336,
+      "word": "许嵩台上唱歌冯禧台下笑",
+      "onboard_time": 1683197726,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 583823,
       "num": 583823,
       "word": "i人已经要不行了",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1682944770,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 567563,
+      "num": 567563,
+      "word": "王源有钱且浪漫",
+      "onboard_time": 1683195750,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 561370,
@@ -1795,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 525933,
+      "num": 525933,
+      "word": "活该淄博爆火",
+      "onboard_time": 1683192868,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 524853,
       "num": 524853,
       "word": "宁安如梦",
@@ -1865,14 +1905,6 @@
       "onboard_time": 1683089732,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 508266,
-      "num": 508266,
-      "word": "活该淄博爆火",
-      "onboard_time": 1683192868,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 507709,
@@ -2017,6 +2049,14 @@
       "onboard_time": 1683165449,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474737,
+      "num": 474737,
+      "word": "听过领导最没水平的一句话",
+      "onboard_time": 1683196407,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 473032,
@@ -2811,6 +2851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 362237,
+      "num": 888738,
+      "word": "90后姑娘帮上万名村民喝上安全的水",
+      "onboard_time": 1683193827,
+      "rank": 4,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 361568,
       "num": 361568,
       "word": "BLACKPINK主题飞机",
@@ -3113,14 +3161,6 @@
       "onboard_time": 1682997267,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 325163,
-      "num": 888738,
-      "word": "90后姑娘帮上万名村民喝上安全的水",
-      "onboard_time": 1683193827,
-      "rank": 4,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 324611,
@@ -3441,14 +3481,6 @@
       "onboard_time": 1683159811,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295860,
-      "num": 295860,
-      "word": "王源有钱且浪漫",
-      "onboard_time": 1683195750,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 295812,
@@ -4707,6 +4739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226131,
+      "num": 226131,
+      "word": "种地吧成员开公司痛失艺名",
+      "onboard_time": 1683197306,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225188,
       "num": 225188,
       "word": "因为发朋友圈被说找存在感",
@@ -5427,6 +5467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199204,
+      "num": 186739,
+      "word": "江阴枪击案受害人家属发声",
+      "onboard_time": 1683197489,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198922,
       "num": 198922,
       "word": "多名游客在动物园发生冲突",
@@ -5539,6 +5587,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 195370,
+      "num": 186640,
+      "word": "李飞你中控了毛线",
+      "onboard_time": 1683198087,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 195258,
       "num": 195258,
       "word": "李现机场",
@@ -5609,6 +5665,14 @@
       "onboard_time": 1683028171,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192399,
+      "num": 186316,
+      "word": "王俊凯素颜彩排",
+      "onboard_time": 1683198207,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 192394,
@@ -5779,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187477,
+      "num": 187477,
+      "word": "金晨也去吃淄博烧烤了",
+      "onboard_time": 1683198449,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186920,
       "num": 167473,
       "word": "国外网友偶遇蔡徐坤",
@@ -5833,6 +5905,14 @@
       "onboard_time": 1682924968,
       "rank": 29,
       "category": "影视"
+    },
+    {
+      "raw_hot": 185785,
+      "num": 185785,
+      "word": "慢卷",
+      "onboard_time": 1683197847,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 185383,
@@ -6683,6 +6763,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 160194,
+      "num": 160194,
+      "word": "提离职前一周被领导裁掉",
+      "onboard_time": 1683198626,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159895,
       "num": 159895,
       "word": "皮皮限",
@@ -6825,6 +6913,14 @@
       "onboard_time": 1682998888,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154222,
+      "num": 154222,
+      "word": "小S摘隐形眼镜伤到眼睛",
+      "onboard_time": 1683198687,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 153510,
@@ -7233,6 +7329,14 @@
       "onboard_time": 1682957065,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133856,
+      "num": 133856,
+      "word": "淄博小吃便宜",
+      "onboard_time": 1683197608,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 133037,
@@ -7689,14 +7793,6 @@
       "onboard_time": 1683075088,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118387,
-      "num": 118387,
-      "word": "听过领导最没水平的一句话",
-      "onboard_time": 1683196407,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 118250,
