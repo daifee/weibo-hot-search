@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/01 00:20:43 ~ 2023/05/05 03:13:49
+本榜单时间：2023/05/01 00:20:43 ~ 2023/05/05 03:33:41
 </p>
 </blockquote>
 <p>
@@ -6879,6 +6879,12 @@ LESSERAFIM初动破百万（热度：56015）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E5%B0%86%E5%90%83%E5%AE%8C%E7%9A%84%E7%8E%89%E7%B1%B3%E8%8A%AF%E6%89%94%E7%BB%99%E7%86%8A%E7%8C%AB%E5%90%83%E6%8E%89%23" target="weibo">
+大妈将吃完的玉米芯扔给熊猫吃掉（热度：44040）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E7%9A%84%E6%9C%80%E7%BB%88%E5%BD%92%E5%AE%BF%E8%BF%98%E6%98%AF%E5%BF%AB%E9%A4%90%E5%BA%97%23" target="weibo">
 五一的最终归宿还是快餐店（热度：43759）
 </a>
@@ -6983,12 +6989,6 @@ SEVENTEEN演我生活状态（热度：42009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%8A%A9%E8%B7%B3%E6%A5%BC%E6%9C%BA%23" target="weibo">
 自助跳楼机（热度：23317）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E5%B0%86%E5%90%83%E5%AE%8C%E7%9A%84%E7%8E%89%E7%B1%B3%E8%8A%AF%E6%89%94%E7%BB%99%E7%86%8A%E7%8C%AB%E5%90%83%E6%8E%89%23" target="weibo">
-大妈将吃完的玉米芯扔给熊猫吃掉（热度：20484）
 </a>
 </li>
 

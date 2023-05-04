@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683227629640,
+  "endTime": 1683228821111,
   "band_list": [
     {
       "raw_hot": 1280160,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44040,
+      "num": 44040,
+      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
+      "onboard_time": 1683227292,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42009,
       "num": 42009,
       "word": "SEVENTEEN演我生活状态",
@@ -473,14 +481,6 @@
       "onboard_time": 1683224416,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20484,
-      "num": 23492,
-      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
-      "onboard_time": 1683227292,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19611,
