@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683232450085,
+  "endTime": 1683234906380,
   "band_list": [
     {
       "raw_hot": 1280160,
@@ -411,20 +411,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74239,
+      "num": 28958,
+      "word": "过半网友认为插队婆孙被当车贴合适",
+      "onboard_time": 1683229632,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73579,
+      "num": 44040,
+      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
+      "onboard_time": 1683227292,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70985,
       "num": 70985,
       "word": "第30届大学生电影节红毯",
       "onboard_time": 1683219979,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 70601,
-      "num": 44040,
-      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
-      "onboard_time": 1683227292,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69823,
@@ -459,14 +467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41155,
-      "num": 27295,
-      "word": "过半网友认为插队婆孙被当车贴合适",
-      "onboard_time": 1683229632,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32188,
       "num": 32188,
       "word": "蔡依林被问到新专辑的表情",
@@ -491,12 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19642,
-      "num": 19642,
+      "raw_hot": 22242,
+      "num": 22242,
       "word": "人和香蕉的基因有50%相似",
       "onboard_time": 1683228553,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 20911,
+      "num": 20911,
+      "word": "韩总统称要懂得对美国感恩",
+      "onboard_time": 1683231191,
+      "rank": 26,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 19611,
