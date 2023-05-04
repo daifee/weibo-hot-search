@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683163314821,
+  "endTime": 1683164688895,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -43,20 +43,20 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 1373164,
+      "num": 1373164,
+      "word": "2中国游客在印尼巴厘岛身亡",
+      "onboard_time": 1683161189,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1352435,
       "num": 1352435,
       "word": "旅行七天和老公吵了五次",
       "onboard_time": 1683157886,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1338103,
-      "num": 673690,
-      "word": "2中国游客在印尼巴厘岛身亡",
-      "onboard_time": 1683161189,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1282175,
@@ -91,12 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 779474,
-      "num": 779474,
+      "raw_hot": 805417,
+      "num": 805417,
       "word": "明天上班可能出现的症状",
       "onboard_time": 1683110071,
       "rank": 1,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 766124,
+      "num": 766124,
+      "word": "秦昊说杨幂会给你们不一样的惊喜",
+      "onboard_time": 1683161308,
+      "rank": 8,
+      "category": "影视"
     },
     {
       "raw_hot": 762849,
@@ -139,14 +147,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 701908,
-      "num": 701908,
-      "word": "秦昊说杨幂会给你们不一样的惊喜",
-      "onboard_time": 1683161308,
-      "rank": 8,
-      "category": "影视"
-    },
-    {
       "raw_hot": 699800,
       "num": 382865,
       "word": "秦昊瘦身食谱",
@@ -187,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 428105,
+      "num": 267129,
+      "word": "节后第一天你在做什么",
+      "onboard_time": 1683163826,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 413714,
       "num": 413714,
       "word": "48岁冻龄妈妈谈被家暴经历",
@@ -219,12 +227,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 378244,
+      "num": 378244,
+      "word": "Jennie CK全球代言人",
+      "onboard_time": 1683159209,
+      "rank": 18,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 372679,
       "num": 372679,
       "word": "缺爱之人才会对很普通的关系难舍难分",
       "onboard_time": 1683129689,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365224,
+      "num": 220537,
+      "word": "插队",
+      "onboard_time": 1683159930,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351872,
@@ -241,14 +265,6 @@
       "onboard_time": 1683129986,
       "rank": 30,
       "category": "旅游,幽默"
-    },
-    {
-      "raw_hot": 349740,
-      "num": 220537,
-      "word": "插队",
-      "onboard_time": 1683159930,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346911,
@@ -275,20 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320244,
+      "num": 320244,
+      "word": "困困困",
+      "onboard_time": 1683162870,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 314016,
+      "num": 263905,
+      "word": "90后女孩留学4年返乡当渔民",
+      "onboard_time": 1683164127,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306606,
       "num": 306606,
       "word": "00后整顿高铁熊孩子",
       "onboard_time": 1683125673,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 299483,
-      "num": 299483,
-      "word": "Jennie CK全球代言人",
-      "onboard_time": 1683159209,
-      "rank": 18,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 297261,
@@ -307,11 +331,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267385,
-      "num": 267385,
-      "word": "困困困",
-      "onboard_time": 1683162870,
-      "rank": 22,
+      "raw_hot": 273511,
+      "num": 273511,
+      "word": "闹钟没响",
+      "onboard_time": 1683163168,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -353,6 +377,14 @@
       "onboard_time": 1683158068,
       "rank": 27,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 217392,
+      "num": 170322,
+      "word": "当我和妈妈说离婚了",
+      "onboard_time": 1683164309,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 208818,
@@ -401,6 +433,14 @@
       "onboard_time": 1683130407,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175721,
+      "num": 175721,
+      "word": "巴厘岛警方回应两中国游客酒店身亡",
+      "onboard_time": 1683164309,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174489,
@@ -491,8 +531,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 146640,
+      "num": 146640,
+      "word": "cp29 汉末",
+      "onboard_time": 1683163228,
+      "rank": 47,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 143959,
-      "num": 1386013,
+      "num": 1398834,
       "word": "这个五一274000000人次出游",
       "onboard_time": 1683117812,
       "rank": 2,
@@ -529,6 +577,14 @@
       "onboard_time": 1683125131,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135217,
+      "num": 135217,
+      "word": "五四主题概念片青春正好",
+      "onboard_time": 1683164425,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130976,
@@ -587,22 +643,6 @@
       "category": "社会新闻,国外要闻"
     },
     {
-      "raw_hot": 112115,
-      "num": 112115,
-      "word": "闹钟没响",
-      "onboard_time": 1683163168,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 111812,
-      "num": 111812,
-      "word": "cp29 汉末",
-      "onboard_time": 1683163228,
-      "rank": 47,
-      "category": "动漫,网红"
-    },
-    {
       "raw_hot": 109486,
       "num": 109486,
       "word": "每天对着卡琳娜哇哇叫",
@@ -617,6 +657,22 @@
       "onboard_time": 1683108990,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105443,
+      "num": 105443,
+      "word": "57岁诗人在无人山顶上开书店",
+      "onboard_time": 1683164666,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102530,
+      "num": 102530,
+      "word": "以闪亮之名",
+      "onboard_time": 1683164666,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 99584,

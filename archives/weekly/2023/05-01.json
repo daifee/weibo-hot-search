@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683163314821,
+  "endTime": 1683164688895,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -499,6 +499,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 1373164,
+      "num": 1373164,
+      "word": "2中国游客在印尼巴厘岛身亡",
+      "onboard_time": 1683161189,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1370995,
       "num": 1370995,
       "word": "五一的堵 逐渐离谱",
@@ -521,14 +529,6 @@
       "onboard_time": 1683098612,
       "rank": 16,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1338103,
-      "num": 673690,
-      "word": "2中国游客在印尼巴厘岛身亡",
-      "onboard_time": 1683161189,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1333040,
@@ -1043,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 766124,
+      "num": 766124,
+      "word": "秦昊说杨幂会给你们不一样的惊喜",
+      "onboard_time": 1683161308,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 762849,
       "num": 762849,
       "word": "五四青年节",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1682904570,
       "rank": 12,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 701908,
-      "num": 701908,
-      "word": "秦昊说杨幂会给你们不一样的惊喜",
-      "onboard_time": 1683161308,
-      "rank": 8,
-      "category": "影视"
     },
     {
       "raw_hot": 701545,
@@ -1979,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 428105,
+      "num": 267129,
+      "word": "节后第一天你在做什么",
+      "onboard_time": 1683163826,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 428083,
       "num": 428083,
       "word": "aespa新歌",
@@ -2307,6 +2315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 378244,
+      "num": 378244,
+      "word": "Jennie CK全球代言人",
+      "onboard_time": 1683159209,
+      "rank": 18,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 375682,
       "num": 1547117,
       "word": "29年前网红城市西安什么样",
@@ -2371,6 +2387,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 365224,
+      "num": 267736,
+      "word": "插队",
+      "onboard_time": 1682947890,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364409,
       "num": 364409,
       "word": "明星减肥有多狠",
@@ -2432,14 +2456,6 @@
       "word": "四川宜宾4.5级地震",
       "onboard_time": 1683090455,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349740,
-      "num": 267736,
-      "word": "插队",
-      "onboard_time": 1682947890,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -2659,6 +2675,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 320244,
+      "num": 320244,
+      "word": "困困困",
+      "onboard_time": 1683162870,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319941,
       "num": 319941,
       "word": "五一上海外滩到底有多少人",
@@ -2769,6 +2793,14 @@
       "onboard_time": 1683035859,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 314016,
+      "num": 263905,
+      "word": "90后女孩留学4年返乡当渔民",
+      "onboard_time": 1683164127,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313881,
@@ -2889,14 +2921,6 @@
       "onboard_time": 1682905591,
       "rank": 21,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 299483,
-      "num": 299483,
-      "word": "Jennie CK全球代言人",
-      "onboard_time": 1683159209,
-      "rank": 18,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 298953,
@@ -3139,6 +3163,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 273511,
+      "num": 273511,
+      "word": "闹钟没响",
+      "onboard_time": 1683163168,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273308,
       "num": 273308,
       "word": "cp30",
@@ -3233,14 +3265,6 @@
       "onboard_time": 1683113248,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267385,
-      "num": 267385,
-      "word": "困困困",
-      "onboard_time": 1683162870,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 267032,
@@ -4233,6 +4257,14 @@
       "onboard_time": 1683015986,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217392,
+      "num": 170322,
+      "word": "当我和妈妈说离婚了",
+      "onboard_time": 1683164309,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 217290,
@@ -5323,6 +5355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 175721,
+      "num": 175721,
+      "word": "巴厘岛警方回应两中国游客酒店身亡",
+      "onboard_time": 1683164309,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175641,
       "num": 175641,
       "word": "广州动物园",
@@ -6083,6 +6123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146640,
+      "num": 146640,
+      "word": "cp29 汉末",
+      "onboard_time": 1683163228,
+      "rank": 47,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 146379,
       "num": 146379,
       "word": "华晨宇演唱会穿搭自由",
@@ -6241,6 +6289,14 @@
       "onboard_time": 1682929948,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135217,
+      "num": 135217,
+      "word": "五四主题概念片青春正好",
+      "onboard_time": 1683164425,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135127,
@@ -6755,22 +6811,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 112115,
-      "num": 112115,
-      "word": "闹钟没响",
-      "onboard_time": 1683163168,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 111812,
-      "num": 111812,
-      "word": "cp29 汉末",
-      "onboard_time": 1683163228,
-      "rank": 47,
-      "category": "动漫,网红"
-    },
-    {
       "raw_hot": 110660,
       "num": 110660,
       "word": "严浩翔说去享受玩得开心",
@@ -6827,6 +6867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105443,
+      "num": 105443,
+      "word": "57岁诗人在无人山顶上开书店",
+      "onboard_time": 1683164666,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104836,
       "num": 104836,
       "word": "尤长靖 大连音乐节",
@@ -6849,6 +6897,14 @@
       "onboard_time": 1683041672,
       "rank": 39,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 102530,
+      "num": 102530,
+      "word": "以闪亮之名",
+      "onboard_time": 1683164666,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 102492,
