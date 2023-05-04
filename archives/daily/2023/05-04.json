@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683182097743,
+  "endTime": 1683184583119,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -83,7 +83,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1282537,
+      "raw_hot": 1334706,
       "num": 1282537,
       "word": "情侣产子后分手老人帮带娃8年",
       "onboard_time": 1683178885,
@@ -97,6 +97,14 @@
       "onboard_time": 1683115648,
       "rank": 10,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 1236574,
+      "num": 884770,
+      "word": "警方回应江苏江阴发生枪击事件",
+      "onboard_time": 1683180207,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1228705,
@@ -113,6 +121,14 @@
       "onboard_time": 1683175896,
       "rank": 6,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1200963,
+      "num": 1200963,
+      "word": "周杰伦申请限消痘博士",
+      "onboard_time": 1683178107,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 1177781,
@@ -155,27 +171,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1008588,
-      "num": 1008588,
-      "word": "周杰伦申请限消痘博士",
-      "onboard_time": 1683178107,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 905424,
       "num": 905424,
       "word": "西安坠机航司称已联系遇难者家属",
       "onboard_time": 1683130646,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 884770,
-      "num": 884770,
-      "word": "警方回应江苏江阴发生枪击事件",
-      "onboard_time": 1683180207,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -235,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 737281,
+      "num": 737281,
+      "word": "领事馆确认两中国公民在巴厘岛身亡",
+      "onboard_time": 1683177561,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 725796,
       "num": 725796,
       "word": "上海打雷",
@@ -273,14 +281,6 @@
       "onboard_time": 1683168205,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 672051,
-      "num": 672051,
-      "word": "领事馆确认两中国公民在巴厘岛身亡",
-      "onboard_time": 1683177561,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 661929,
@@ -329,6 +329,14 @@
       "onboard_time": 1683170909,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531245,
+      "num": 531245,
+      "word": "不会真有公司五四不放假吧",
+      "onboard_time": 1683180207,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 529382,
@@ -395,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 441153,
+      "num": 441153,
+      "word": "报告称68.5%青年可付房款首付",
+      "onboard_time": 1683182549,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 428105,
       "num": 267129,
       "word": "节后第一天你在做什么",
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 390904,
+      "num": 390904,
+      "word": "雅安地震",
+      "onboard_time": 1683182609,
+      "rank": 13,
+      "category": "社会新闻,社会新闻"
+    },
+    {
       "raw_hot": 382301,
       "num": 382301,
       "word": "巴厘岛警方回应两中国游客酒店身亡",
@@ -457,6 +481,14 @@
       "onboard_time": 1683123090,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 379683,
+      "num": 379683,
+      "word": "女子请年假因新入职不满一年被拒",
+      "onboard_time": 1683178589,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378244,
@@ -555,6 +587,14 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 322360,
+      "num": 322360,
+      "word": "巴厘岛",
+      "onboard_time": 1683183388,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320879,
       "num": 320879,
       "word": "明星减肥有多狠",
@@ -569,6 +609,14 @@
       "onboard_time": 1683162870,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 317777,
+      "num": 197818,
+      "word": "网传江苏江阴发生枪击",
+      "onboard_time": 1683181946,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314016,
@@ -595,12 +643,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 305486,
-      "num": 305486,
-      "word": "女子请年假因新入职不满一年被拒",
-      "onboard_time": 1683178589,
+      "raw_hot": 306223,
+      "num": 306223,
+      "word": "李一桐重回狂飙拍摄地",
+      "onboard_time": 1683183927,
       "rank": 21,
-      "category": "社会新闻"
+      "category": "影视"
     },
     {
       "raw_hot": 297261,
@@ -609,6 +657,14 @@
       "onboard_time": 1683159811,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296841,
+      "num": 296841,
+      "word": "男友视角下的关晓彤",
+      "onboard_time": 1683183449,
+      "rank": 22,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 288989,
@@ -763,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243089,
-      "num": 243089,
-      "word": "不会真有公司五四不放假吧",
-      "onboard_time": 1683180207,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 241652,
       "num": 241652,
       "word": "这届年轻人现状",
@@ -793,6 +841,14 @@
       "onboard_time": 1683175896,
       "rank": 32,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 220455,
+      "num": 220455,
+      "word": "五月天什么时候开票",
+      "onboard_time": 1683181887,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 218586,
@@ -873,6 +929,14 @@
       "onboard_time": 1683175176,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198076,
+      "num": 198076,
+      "word": "声生不息",
+      "onboard_time": 1683183025,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 196441,
@@ -987,20 +1051,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173338,
+      "num": 173338,
+      "word": "王一博光明之路杀青",
+      "onboard_time": 1683182788,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 171699,
       "num": 171699,
       "word": "庆余年2真的要开机了",
       "onboard_time": 1683102869,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 168825,
-      "num": 168825,
-      "word": "网传江苏江阴发生枪击",
-      "onboard_time": 1683181946,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163577,
@@ -1259,12 +1323,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 113582,
-      "num": 113582,
-      "word": "五月天什么时候开票",
-      "onboard_time": 1683181887,
-      "rank": 49,
-      "category": "音乐"
+      "raw_hot": 113585,
+      "num": 113585,
+      "word": "武庚纪全员发文期待再会",
+      "onboard_time": 1683184529,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 112878,
@@ -1273,6 +1337,14 @@
       "onboard_time": 1683118112,
       "rank": 37,
       "category": "社会新闻,国外要闻"
+    },
+    {
+      "raw_hot": 112473,
+      "num": 132130,
+      "word": "什么样的青春才是鲜活的",
+      "onboard_time": 1683184107,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 109486,
@@ -1475,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38943,
+      "num": 155008,
+      "word": "多公司假后晚到不计考勤",
+      "onboard_time": 1683183629,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34078,
       "num": 34078,
       "word": "秦昊演技",
@@ -1497,6 +1577,14 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 12663,
+      "num": 385210,
+      "word": "靠什么摆脱假期综合症",
+      "onboard_time": 1683184348,
+      "rank": 14,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

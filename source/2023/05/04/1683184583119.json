@@ -1,0 +1,410 @@
+{
+  "runTime": 1683184583119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200963,
+        "num": 1200963,
+        "word": "周杰伦申请限消痘博士",
+        "onboard_time": 1683178107,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1334706,
+        "num": 1143565,
+        "word": "情侣产子后分手老人帮带娃8年",
+        "onboard_time": 1683178885,
+        "rank": 1,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 35274,
+        "num": 1047035,
+        "word": "激扬青春",
+        "onboard_time": 1683168687,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046431,
+        "num": 1046431,
+        "word": "淄博烧烤老板从门洞露脸问人多不多",
+        "onboard_time": 1683174395,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 737281,
+        "num": 737281,
+        "word": "领事馆确认两中国公民在巴厘岛身亡",
+        "onboard_time": 1683177561,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 623558,
+        "num": 623558,
+        "word": "史航事件当事人再发声",
+        "onboard_time": 1683175896,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 604141,
+        "num": 604141,
+        "word": "五四放假通知",
+        "onboard_time": 1683160949,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574064,
+        "num": 574064,
+        "word": "突然得知暗恋对象资产上亿",
+        "onboard_time": 1683170370,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 531245,
+        "num": 531245,
+        "word": "不会真有公司五四不放假吧",
+        "onboard_time": 1683180207,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 460830,
+        "num": 460830,
+        "word": "王源 门票",
+        "onboard_time": 1683171451,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1236574,
+        "num": 453202,
+        "word": "警方回应江苏江阴发生枪击事件",
+        "onboard_time": 1683180207,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615555,
+        "num": 447302,
+        "word": "媒体评插队婆孙被做成恶搞表情包",
+        "onboard_time": 1683169227,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441153,
+        "num": 441153,
+        "word": "报告称68.5%青年可付房款首付",
+        "onboard_time": 1683182549,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 390904,
+        "num": 390904,
+        "word": "雅安地震",
+        "onboard_time": 1683182609,
+        "rank": 13,
+        "category": "社会新闻,社会新闻"
+      },
+      {
+        "raw_hot": 12663,
+        "num": 385210,
+        "word": "靠什么摆脱假期综合症",
+        "onboard_time": 1683184348,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379683,
+        "num": 379683,
+        "word": "女子请年假因新入职不满一年被拒",
+        "onboard_time": 1683178589,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374693,
+        "num": 374693,
+        "word": "当我和妈妈说离婚了",
+        "onboard_time": 1683164309,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341387,
+        "num": 341387,
+        "word": "当cp粉被保安要求打开横幅",
+        "onboard_time": 1683176373,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 322360,
+        "num": 322360,
+        "word": "巴厘岛",
+        "onboard_time": 1683183388,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316829,
+        "num": 316829,
+        "word": "2中国游客在印尼巴厘岛身亡",
+        "onboard_time": 1683161189,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437069,
+        "num": 311856,
+        "word": "赵丽颖一秒听出谢娜的声音",
+        "onboard_time": 1683173677,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306223,
+        "num": 306223,
+        "word": "李一桐重回狂飙拍摄地",
+        "onboard_time": 1683183927,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 296841,
+        "num": 296841,
+        "word": "男友视角下的关晓彤",
+        "onboard_time": 1683183449,
+        "rank": 22,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 287750,
+        "num": 287750,
+        "word": "工藤新一",
+        "onboard_time": 1683157045,
+        "rank": 23,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 241689,
+        "num": 241689,
+        "word": "旅行七天和老公吵了五次",
+        "onboard_time": 1683157886,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224266,
+        "num": 224266,
+        "word": "常年不吃碳水的人怎么样了",
+        "onboard_time": 1683122072,
+        "rank": 25,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 220455,
+        "num": 220455,
+        "word": "五月天什么时候开票",
+        "onboard_time": 1683181887,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207505,
+        "num": 207505,
+        "word": "00后幼师回应唱挖呀挖呀挖走红",
+        "onboard_time": 1683169047,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 204695,
+        "num": 204695,
+        "word": "新冠",
+        "onboard_time": 1683175472,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198076,
+        "num": 198076,
+        "word": "声生不息",
+        "onboard_time": 1683183025,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317777,
+        "num": 197818,
+        "word": "网传江苏江阴发生枪击",
+        "onboard_time": 1683181946,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197335,
+        "num": 197335,
+        "word": "史航",
+        "onboard_time": 1683157587,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 177327,
+        "num": 177327,
+        "word": "这些同学荣获国家奖学金",
+        "onboard_time": 1683172531,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 176448,
+        "num": 176448,
+        "word": "19岁高职毕业生在清华当老师的体验",
+        "onboard_time": 1683174758,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 175823,
+        "num": 175823,
+        "word": "徐若晗官宣签约和颂传媒",
+        "onboard_time": 1683173555,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173338,
+        "num": 173338,
+        "word": "王一博光明之路杀青",
+        "onboard_time": 1683182788,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 170679,
+        "num": 170679,
+        "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
+        "onboard_time": 1683154941,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162857,
+        "num": 162857,
+        "word": "张紫宁向粉丝道歉",
+        "onboard_time": 1683165026,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158156,
+        "num": 158156,
+        "word": "宁安如梦",
+        "onboard_time": 1683173314,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38943,
+        "num": 155008,
+        "word": "多公司假后晚到不计考勤",
+        "onboard_time": 1683183629,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153077,
+        "num": 153077,
+        "word": "eso瘦子",
+        "onboard_time": 1683180448,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148967,
+        "num": 148967,
+        "word": "湖北事业单位",
+        "onboard_time": 1683177869,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139195,
+        "num": 139195,
+        "word": "秦昊老年妆把范伟吓一跳",
+        "onboard_time": 1683180688,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 138266,
+        "num": 138266,
+        "word": "爸爸当家2官宣定档",
+        "onboard_time": 1683175472,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112473,
+        "num": 132130,
+        "word": "什么样的青春才是鲜活的",
+        "onboard_time": 1683184107,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131786,
+        "num": 131786,
+        "word": "高铁上最好不要和邻座套近乎",
+        "onboard_time": 1683101370,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125304,
+        "num": 125304,
+        "word": "爱奇艺五月片单",
+        "onboard_time": 1683171630,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 117188,
+        "num": 117188,
+        "word": "天津音乐节",
+        "onboard_time": 1683178408,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113585,
+        "num": 113585,
+        "word": "武庚纪全员发文期待再会",
+        "onboard_time": 1683184529,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112718,
+        "num": 112718,
+        "word": "不良人一盘棋下了两年",
+        "onboard_time": 1683180629,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对广大青年朋友的殷殷寄语#"
+    }
+  }
+}
