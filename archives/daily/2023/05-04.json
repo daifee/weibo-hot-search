@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683204573893,
+  "endTime": 1683206502810,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -59,6 +59,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1666705,
+      "num": 1666705,
+      "word": "友人称巴厘岛身亡两人已恋爱多年",
+      "onboard_time": 1683203729,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1610564,
       "num": 492925,
       "word": "巴厘岛命案",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1465679,
-      "num": 357316,
+      "num": 404930,
       "word": "小S摘隐形眼镜伤到眼睛",
       "onboard_time": 1683198687,
       "rank": 38,
@@ -131,20 +139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1344837,
+      "num": 511650,
+      "word": "郭珍霓",
+      "onboard_time": 1683196768,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1334706,
       "num": 1282537,
       "word": "情侣产子后分手老人帮带娃8年",
       "onboard_time": 1683178885,
       "rank": 1,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1289896,
-      "num": 511650,
-      "word": "郭珍霓",
-      "onboard_time": 1683196768,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1282175,
@@ -201,6 +209,14 @@
       "onboard_time": 1683154941,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1150661,
+      "num": 1150661,
+      "word": "薛之谦又是站票回去的",
+      "onboard_time": 1683204691,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1149580,
@@ -403,6 +419,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 637535,
+      "num": 637535,
+      "word": "爱奇艺腾讯推出陈晓套餐",
+      "onboard_time": 1683200729,
+      "rank": 6,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 609542,
+      "num": 609542,
+      "word": "婆孙插队被做成卡通车贴合适吗",
+      "onboard_time": 1683201450,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 603481,
+      "num": 603481,
+      "word": "你目前月薪存十万需要多久",
+      "onboard_time": 1683202528,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 594904,
       "num": 594904,
       "word": "北电教师评王一博深入角色",
@@ -433,14 +473,6 @@
       "onboard_time": 1683169469,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 561291,
-      "num": 561291,
-      "word": "爱奇艺腾讯推出陈晓套餐",
-      "onboard_time": 1683200729,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 560569,
@@ -491,6 +523,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 535430,
+      "num": 535430,
+      "word": "一天内经历了入职和辞职",
+      "onboard_time": 1683202589,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 530683,
       "num": 530683,
       "word": "听过领导最没水平的一句话",
@@ -531,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 500561,
-      "num": 324240,
-      "word": "一天内经历了入职和辞职",
-      "onboard_time": 1683202589,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 498252,
       "num": 498252,
       "word": "李泰容将6月初solo出道",
@@ -552,14 +584,6 @@
       "word": "五四不放假要发加班费吗",
       "onboard_time": 1683185671,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487972,
-      "num": 487972,
-      "word": "婆孙插队被做成卡通车贴合适吗",
-      "onboard_time": 1683201450,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -577,14 +601,6 @@
       "onboard_time": 1683165449,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 471146,
-      "num": 322990,
-      "word": "友人称巴厘岛身亡两人已恋爱多年",
-      "onboard_time": 1683203729,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467027,
@@ -691,6 +707,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 390119,
+      "num": 390119,
+      "word": "肖战如梦之梦",
+      "onboard_time": 1683205894,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 388717,
       "num": 388717,
       "word": "张杰华晨宇首次合作",
@@ -795,12 +819,12 @@
       "category": "旅游,幽默"
     },
     {
-      "raw_hot": 347649,
-      "num": 318266,
-      "word": "你目前月薪存十万需要多久",
-      "onboard_time": 1683202528,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 347415,
+      "num": 256588,
+      "word": "第一次见这么不熟的家庭",
+      "onboard_time": 1683203968,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 346911,
@@ -833,6 +857,14 @@
       "onboard_time": 1683172531,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 332886,
+      "num": 256579,
+      "word": "王楚然白裙油画少女",
+      "onboard_time": 1683204332,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 332693,
@@ -1243,12 +1275,20 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 216920,
-      "num": 216920,
-      "word": "王楚然白裙油画少女",
-      "onboard_time": 1683204332,
-      "rank": 28,
-      "category": "作品衍生,时尚"
+      "raw_hot": 218071,
+      "num": 218071,
+      "word": "金钟仁将举行免费粉丝见面会",
+      "onboard_time": 1683205830,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216684,
+      "num": 216684,
+      "word": "澹台烬黎苏苏又要结婚了",
+      "onboard_time": 1683200009,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 216328,
@@ -1267,6 +1307,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 215871,
+      "num": 215871,
+      "word": "任敏古风珍珠妆",
+      "onboard_time": 1683205168,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212484,
       "num": 212484,
       "word": "许魏洲出发图是AI生成的",
@@ -1283,28 +1331,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211881,
-      "num": 211881,
-      "word": "第一次见这么不熟的家庭",
-      "onboard_time": 1683203968,
-      "rank": 30,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 211313,
       "num": 211313,
       "word": "霍汶希官宣回归乘风2023",
       "onboard_time": 1683173974,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211033,
-      "num": 211033,
-      "word": "澹台烬黎苏苏又要结婚了",
-      "onboard_time": 1683200009,
-      "rank": 31,
-      "category": "影视"
     },
     {
       "raw_hot": 210993,
@@ -1435,6 +1467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 188070,
+      "num": 188070,
+      "word": "蔡徐坤和碧梨MetGala合影",
+      "onboard_time": 1683204993,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186886,
       "num": 186886,
       "word": "湖北事业单位",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1683192270,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178377,
+      "num": 178377,
+      "word": "淄博烧烤新副本被发现了",
+      "onboard_time": 1683205471,
+      "rank": 33,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 177083,
@@ -1529,6 +1577,14 @@
       "onboard_time": 1683184888,
       "rank": 44,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 172045,
+      "num": 172045,
+      "word": "什么是婚姻废井",
+      "onboard_time": 1683205230,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 171699,
@@ -1603,6 +1659,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 159049,
+      "num": 159049,
+      "word": "小落 最强新人",
+      "onboard_time": 1683206191,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158436,
       "num": 158436,
       "word": "为什么有钱人也会在意电动车的电费",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1683127411,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155886,
+      "num": 155886,
+      "word": "答辩有啥好紧张的",
+      "onboard_time": 1683203787,
+      "rank": 47,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 154974,
@@ -1683,20 +1755,28 @@
       "category": "社会新闻,影视"
     },
     {
+      "raw_hot": 151316,
+      "num": 151316,
+      "word": "巴厘岛身亡两中国公民身份确认",
+      "onboard_time": 1683206132,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148359,
+      "num": 148359,
+      "word": "接吻要闭眼的原因找到了",
+      "onboard_time": 1683201807,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148075,
       "num": 148075,
       "word": "孙燕姿现场",
       "onboard_time": 1683120453,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 146962,
-      "num": 146962,
-      "word": "接吻要闭眼的原因找到了",
-      "onboard_time": 1683201807,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 146640,
@@ -1777,14 +1857,6 @@
       "onboard_time": 1683164425,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 132443,
-      "num": 132443,
-      "word": "答辩有啥好紧张的",
-      "onboard_time": 1683203787,
-      "rank": 47,
-      "category": "幽默,教育"
     },
     {
       "raw_hot": 130976,
@@ -2035,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91814,
+      "num": 958558,
+      "word": "藏在这场人从众里的世间温柔",
+      "onboard_time": 1683201028,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89709,
       "num": 89709,
       "word": "原来我的小说是被闺蜜买走了",
@@ -2073,14 +2153,6 @@
       "onboard_time": 1683130287,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 79596,
-      "num": 641973,
-      "word": "藏在这场人从众里的世间温柔",
-      "onboard_time": 1683201028,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78972,
