@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683167576266,
+  "endTime": 1683168152930,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1972656,
+      "num": 673994,
+      "word": "史航事件当事人小默",
+      "onboard_time": 1683156265,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1964096,
       "num": 1964096,
       "word": "新冠 查漏补缺",
@@ -19,16 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1962319,
-      "num": 673994,
-      "word": "史航事件当事人小默",
-      "onboard_time": 1683156265,
-      "rank": 10,
-      "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1681720,
-      "num": 1681720,
+      "raw_hot": 1711455,
+      "num": 1711455,
       "word": "当我和妈妈说离婚了",
       "onboard_time": 1683164309,
       "rank": 32,
@@ -83,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1092594,
-      "num": 1092594,
+      "raw_hot": 1149580,
+      "num": 1149580,
       "word": "四川宜宾地震",
       "onboard_time": 1683167187,
       "rank": 3,
@@ -187,12 +187,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 577212,
-      "num": 577212,
+      "raw_hot": 598085,
+      "num": 598085,
       "word": "史航",
       "onboard_time": 1683157587,
       "rank": 15,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 479650,
+      "num": 479650,
+      "word": "洗碗工用9年逆袭成新闻主播",
+      "onboard_time": 1683166286,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476795,
@@ -225,6 +233,14 @@
       "onboard_time": 1683163826,
       "rank": 20,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 425873,
+      "num": 425873,
+      "word": "张紫宁向粉丝道歉",
+      "onboard_time": 1683165026,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 413714,
@@ -281,14 +297,6 @@
       "onboard_time": 1683129689,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 365534,
-      "num": 365534,
-      "word": "洗碗工用9年逆袭成新闻主播",
-      "onboard_time": 1683166286,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365224,
@@ -361,14 +369,6 @@
       "onboard_time": 1683164127,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 307742,
-      "num": 307742,
-      "word": "张紫宁向粉丝道歉",
-      "onboard_time": 1683165026,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 306606,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234987,
+      "num": 234987,
+      "word": "00后特种兵整顿旅游宰客",
+      "onboard_time": 1683167007,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218291,
       "num": 218291,
       "word": "长月烬明特写镜头道具坏了",
@@ -475,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199570,
+      "num": 199570,
+      "word": "自贡地震",
+      "onboard_time": 1683167309,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196065,
       "num": 177113,
       "word": "美联储宣布加息25个基点",
@@ -489,14 +505,6 @@
       "onboard_time": 1683157886,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193935,
-      "num": 193935,
-      "word": "自贡地震",
-      "onboard_time": 1683167309,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193344,
@@ -523,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180362,
+      "num": 180362,
+      "word": "爱过你的女生 分手是蓄谋已久的",
+      "onboard_time": 1683167726,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177083,
       "num": 177083,
       "word": "护心定档海报拍摄花絮",
@@ -547,20 +563,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 171557,
+      "num": 171557,
+      "word": "塔图姆",
+      "onboard_time": 1683167249,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163577,
       "num": 163577,
       "word": "月薪三万你会不会裸辞",
       "onboard_time": 1683130225,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163527,
-      "num": 163527,
-      "word": "00后特种兵整顿旅游宰客",
-      "onboard_time": 1683167007,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162495,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 143959,
-      "num": 1398834,
+      "num": 1421634,
       "word": "这个五一274000000人次出游",
       "onboard_time": 1683117812,
       "rank": 2,
@@ -683,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132981,
+      "num": 173364,
+      "word": "爸妈的种草和我们的种草",
+      "onboard_time": 1683167668,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130976,
       "num": 285988,
       "word": "胡金秋受伤",
@@ -723,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121286,
+      "num": 121286,
+      "word": "历年热剧爆剧榜",
+      "onboard_time": 1683166769,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118250,
       "num": 118250,
       "word": "国宝表达喜欢都快把对方头皮薅秃了",
@@ -745,22 +777,6 @@
       "onboard_time": 1683118112,
       "rank": 37,
       "category": "社会新闻,国外要闻"
-    },
-    {
-      "raw_hot": 112283,
-      "num": 112283,
-      "word": "历年热剧爆剧榜",
-      "onboard_time": 1683166769,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 110041,
-      "num": 110041,
-      "word": "塔图姆",
-      "onboard_time": 1683167249,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 109486,
