@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683238576764,
+  "endTime": 1683239605374,
   "band_list": [
     {
       "raw_hot": 1280160,
@@ -91,6 +91,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 335936,
+      "num": 220313,
+      "word": "过半网友认为插队婆孙被当车贴合适",
+      "onboard_time": 1683229632,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326609,
       "num": 326609,
       "word": "养了三年的猫原主人想要回",
@@ -161,14 +169,6 @@
       "onboard_time": 1683198687,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220313,
-      "num": 220313,
-      "word": "过半网友认为插队婆孙被当车贴合适",
-      "onboard_time": 1683229632,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215587,
@@ -267,6 +267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154785,
+      "num": 154785,
+      "word": "杭州西湖水域不允许擅自下水",
+      "onboard_time": 1683236111,
+      "rank": 7,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 152513,
       "num": 152513,
       "word": "澹台烬为自己刻好了墓碑",
@@ -297,6 +305,22 @@
       "onboard_time": 1683217524,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127080,
+      "num": 127080,
+      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
+      "onboard_time": 1683227292,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126789,
+      "num": 105611,
+      "word": "男子头疼自己在家针灸扎破心脏",
+      "onboard_time": 1683235092,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120793,
@@ -345,22 +369,6 @@
       "onboard_time": 1683205471,
       "rank": 40,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 101545,
-      "num": 101545,
-      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
-      "onboard_time": 1683227292,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 101100,
-      "num": 68871,
-      "word": "男子头疼自己在家针灸扎破心脏",
-      "onboard_time": 1683235092,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101052,
@@ -419,14 +427,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 87354,
-      "num": 87354,
-      "word": "杭州西湖水域不允许擅自下水",
-      "onboard_time": 1683236111,
-      "rank": 7,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 75508,
       "num": 74166,
       "word": "上班挣的钱是窝囊费",
@@ -467,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48546,
+      "num": 48546,
+      "word": "韩总统称要懂得对美国感恩",
+      "onboard_time": 1683231191,
+      "rank": 26,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 48489,
       "num": 656857,
       "word": "藏在这场人从众里的世间温柔",
       "onboard_time": 1683201028,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48348,
+      "num": 48348,
+      "word": "人和香蕉的基因有50%相似",
+      "onboard_time": 1683228553,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 42009,
@@ -483,22 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 37402,
-      "num": 37402,
-      "word": "韩总统称要懂得对美国感恩",
-      "onboard_time": 1683231191,
-      "rank": 26,
-      "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 32931,
-      "num": 32931,
-      "word": "人和香蕉的基因有50%相似",
-      "onboard_time": 1683228553,
-      "rank": 44,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 32188,
       "num": 32188,
       "word": "蔡依林被问到新专辑的表情",
@@ -507,12 +507,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 26663,
-      "num": 27098,
+      "raw_hot": 31369,
+      "num": 32125,
       "word": "这是什么特种兵",
       "onboard_time": 1683208471,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 27402,
+      "num": 32100,
+      "word": "刘宇宁片场唱歌视频",
+      "onboard_time": 1683235452,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 23317,
@@ -521,14 +529,6 @@
       "onboard_time": 1683224416,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 21185,
-      "num": 26583,
-      "word": "刘宇宁片场唱歌视频",
-      "onboard_time": 1683235452,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 19611,
