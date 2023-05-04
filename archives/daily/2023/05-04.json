@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683195500256,
+  "endTime": 1683196424074,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2878992,
-      "num": 443736,
+      "num": 485889,
       "word": "唐嫣旁边是文章吗",
       "onboard_time": 1683191309,
       "rank": 10,
@@ -203,8 +203,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 963799,
-      "num": 963799,
+      "raw_hot": 997819,
+      "num": 997819,
       "word": "上海的垃圾桶到底在哪里",
       "onboard_time": 1683188968,
       "rank": 43,
@@ -212,11 +212,19 @@
     },
     {
       "raw_hot": 959798,
-      "num": 429694,
+      "num": 452865,
       "word": "于正说我捧的人都火了",
       "onboard_time": 1683188011,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 925495,
+      "num": 925495,
+      "word": "小说里刀削般的面容找到了",
+      "onboard_time": 1683193226,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 905424,
@@ -435,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 503841,
-      "num": 423534,
-      "word": "小说里刀削般的面容找到了",
-      "onboard_time": 1683193226,
-      "rank": 13,
-      "category": "幽默"
+      "raw_hot": 508266,
+      "num": 508266,
+      "word": "活该淄博爆火",
+      "onboard_time": 1683192868,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 498252,
@@ -523,14 +531,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 422563,
-      "num": 422563,
-      "word": "活该淄博爆火",
-      "onboard_time": 1683192868,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 413714,
       "num": 413714,
       "word": "48岁冻龄妈妈谈被家暴经历",
@@ -545,6 +545,14 @@
       "onboard_time": 1683172831,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402067,
+      "num": 402067,
+      "word": "丝芭传媒申请限消冯薪朵",
+      "onboard_time": 1683193167,
+      "rank": 16,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 395752,
@@ -584,6 +592,14 @@
       "word": "巴厘岛警方回应两中国游客酒店身亡",
       "onboard_time": 1683164309,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381695,
+      "num": 1001490,
+      "word": "7岁女孩为捐髓救母拼命吃到80斤",
+      "onboard_time": 1683187588,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -635,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361077,
-      "num": 361077,
-      "word": "丝芭传媒申请限消冯薪朵",
-      "onboard_time": 1683193167,
-      "rank": 16,
-      "category": "艺人,财经"
-    },
-    {
       "raw_hot": 351874,
       "num": 351874,
       "word": "白鹿男人风尚杂志封面",
@@ -673,14 +681,6 @@
       "onboard_time": 1683104970,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 343184,
-      "num": 1001490,
-      "word": "7岁女孩为捐髓救母拼命吃到80斤",
-      "onboard_time": 1683187588,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342209,
@@ -737,6 +737,14 @@
       "onboard_time": 1683173072,
       "rank": 23,
       "category": "自然,社会新闻"
+    },
+    {
+      "raw_hot": 325163,
+      "num": 888738,
+      "word": "90后姑娘帮上万名村民喝上安全的水",
+      "onboard_time": 1683193827,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 321396,
@@ -803,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295860,
+      "num": 295860,
+      "word": "王源有钱且浪漫",
+      "onboard_time": 1683195750,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 288989,
       "num": 288989,
       "word": "武庚纪官宣杀青",
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 282620,
-      "num": 258059,
+      "num": 271749,
       "word": "律师谈编剧史航被指性骚扰",
       "onboard_time": 1683189268,
       "rank": 22,
@@ -995,6 +1011,14 @@
       "category": "网红,动漫"
     },
     {
+      "raw_hot": 227483,
+      "num": 227483,
+      "word": "去没去过成都的都沉默了",
+      "onboard_time": 1683194547,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220763,
       "num": 220763,
       "word": "女明星花语",
@@ -1043,12 +1067,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 211326,
-      "num": 832575,
-      "word": "90后姑娘帮上万名村民喝上安全的水",
+      "raw_hot": 212484,
+      "num": 212484,
+      "word": "许魏洲出发图是AI生成的",
+      "onboard_time": 1683194787,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212015,
+      "num": 655614,
+      "word": "变音也能听出你努力忍住的哭腔",
       "onboard_time": 1683193827,
-      "rank": 4,
-      "category": "社会正能量"
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211313,
@@ -1155,14 +1187,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 191496,
-      "num": 191496,
-      "word": "去没去过成都的都沉默了",
-      "onboard_time": 1683194547,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 191248,
       "num": 191248,
       "word": "eso瘦子",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1683177332,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 188530,
-      "num": 622038,
-      "word": "变音也能听出你努力忍住的哭腔",
-      "onboard_time": 1683193827,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186886,
@@ -1281,14 +1297,6 @@
       "onboard_time": 1683102869,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 171695,
-      "num": 171695,
-      "word": "许魏洲出发图是AI生成的",
-      "onboard_time": 1683194787,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 170990,
@@ -1601,6 +1609,14 @@
       "onboard_time": 1683166769,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 118387,
+      "num": 118387,
+      "word": "听过领导最没水平的一句话",
+      "onboard_time": 1683196407,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 118250,
