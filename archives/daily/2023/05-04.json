@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683178412842,
+  "endTime": 1683181309163,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1282537,
+      "num": 1282537,
+      "word": "情侣产子后分手老人帮带娃8年",
+      "onboard_time": 1683178885,
+      "rank": 1,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 1282175,
       "num": 390085,
       "word": "阳了",
@@ -145,6 +153,14 @@
       "onboard_time": 1683101370,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 977698,
+      "num": 977698,
+      "word": "周杰伦申请限消痘博士",
+      "onboard_time": 1683178107,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 905424,
@@ -259,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 582049,
+      "num": 510279,
+      "word": "警方回应江苏江阴发生枪击事件",
+      "onboard_time": 1683180207,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561370,
       "num": 561370,
       "word": "阿根廷队确定6月份访华",
@@ -307,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 525359,
+      "num": 525359,
+      "word": "领事馆确认两中国公民在巴厘岛身亡",
+      "onboard_time": 1683177561,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 524853,
       "num": 524853,
       "word": "宁安如梦",
@@ -345,6 +377,14 @@
       "onboard_time": 1683115288,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 466646,
+      "num": 466646,
+      "word": "当cp粉被保安要求打开横幅",
+      "onboard_time": 1683176373,
+      "rank": 31,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 443653,
@@ -409,14 +449,6 @@
       "onboard_time": 1683164309,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381590,
-      "num": 381590,
-      "word": "当cp粉被保安要求打开横幅",
-      "onboard_time": 1683176373,
-      "rank": 31,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 379906,
@@ -659,12 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258501,
-      "num": 258501,
-      "word": "领事馆确认两中国公民在巴厘岛身亡",
-      "onboard_time": 1683177561,
-      "rank": 24,
-      "category": "国内要闻"
+      "raw_hot": 257809,
+      "num": 257809,
+      "word": "女子请年假因新入职不满一年被拒",
+      "onboard_time": 1683178589,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255614,
@@ -737,6 +769,22 @@
       "onboard_time": 1683107429,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228992,
+      "num": 228992,
+      "word": "秦昊老年妆把范伟吓一跳",
+      "onboard_time": 1683180688,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 228646,
+      "num": 228646,
+      "word": "不会真有公司五四不放假吧",
+      "onboard_time": 1683180207,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 220763,
@@ -827,14 +875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198416,
-      "num": 198416,
-      "word": "周杰伦申请限消痘博士",
-      "onboard_time": 1683178107,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196441,
       "num": 196441,
       "word": "上班第一天大家都不太清醒",
@@ -899,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180821,
+      "num": 180821,
+      "word": "eso瘦子",
+      "onboard_time": 1683180448,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177083,
       "num": 177083,
       "word": "护心定档海报拍摄花絮",
@@ -937,6 +985,14 @@
       "onboard_time": 1683102869,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165397,
+      "num": 165397,
+      "word": "kms",
+      "onboard_time": 1683178529,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163577,
@@ -1099,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128769,
+      "num": 128769,
+      "word": "不良人一盘棋下了两年",
+      "onboard_time": 1683180629,
+      "rank": 41,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 128071,
       "num": 128071,
       "word": "当燃青春五四开播",
@@ -1147,6 +1211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 120082,
+      "num": 120082,
+      "word": "天津音乐节",
+      "onboard_time": 1683178408,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118250,
       "num": 118250,
       "word": "国宝表达喜欢都快把对方头皮薅秃了",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1683108990,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106728,
+      "num": 106728,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1683181288,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 105311,
@@ -1323,6 +1403,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 61954,
+      "num": 364598,
+      "word": "寻找青春的纯与真",
+      "onboard_time": 1683180027,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61298,
       "num": 61298,
       "word": "沙丘2先导预告",
@@ -1377,6 +1465,14 @@
       "onboard_time": 1683135736,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30231,
+      "num": 135427,
+      "word": "那些耐得住不放弃的日子",
+      "onboard_time": 1683180027,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 13676,
