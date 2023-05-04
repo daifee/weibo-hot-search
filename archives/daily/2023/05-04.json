@@ -1,7 +1,15 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683156816815,
+  "endTime": 1683163314821,
   "band_list": [
+    {
+      "raw_hot": 3313921,
+      "num": 3313921,
+      "word": "五四放假通知",
+      "onboard_time": 1683160949,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1964096,
       "num": 1964096,
@@ -9,6 +17,22 @@
       "onboard_time": 1683130048,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1962319,
+      "num": 673994,
+      "word": "史航事件当事人小默",
+      "onboard_time": 1683156265,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1512931,
+      "num": 1512931,
+      "word": "工藤新一",
+      "onboard_time": 1683157045,
+      "rank": 1,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 1463595,
@@ -19,6 +43,22 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 1352435,
+      "num": 1352435,
+      "word": "旅行七天和老公吵了五次",
+      "onboard_time": 1683157886,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1338103,
+      "num": 673690,
+      "word": "2中国游客在印尼巴厘岛身亡",
+      "onboard_time": 1683161189,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1282175,
       "num": 390085,
       "word": "阳了",
@@ -27,12 +67,20 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1049030,
-      "num": 1049030,
+      "raw_hot": 1177781,
+      "num": 1177781,
       "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
       "onboard_time": 1683154941,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1021384,
+      "num": 1021384,
+      "word": "高铁上最好不要和邻座套近乎",
+      "onboard_time": 1683101370,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 905424,
@@ -43,20 +91,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 837770,
-      "num": 415462,
-      "word": "史航事件当事人小默",
-      "onboard_time": 1683156265,
-      "rank": 10,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 779474,
       "num": 779474,
       "word": "明天上班可能出现的症状",
       "onboard_time": 1683110071,
       "rank": 1,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 762849,
+      "num": 762849,
+      "word": "五四青年节",
+      "onboard_time": 1683156984,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 753152,
@@ -91,6 +139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 701908,
+      "num": 701908,
+      "word": "秦昊说杨幂会给你们不一样的惊喜",
+      "onboard_time": 1683161308,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 699800,
       "num": 382865,
       "word": "秦昊瘦身食谱",
@@ -99,12 +155,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 536459,
-      "num": 536459,
-      "word": "高铁上最好不要和邻座套近乎",
-      "onboard_time": 1683101370,
-      "rank": 4,
-      "category": "情感"
+      "raw_hot": 661929,
+      "num": 661929,
+      "word": "马嘉祺 漏气",
+      "onboard_time": 1683159869,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 577212,
+      "num": 577212,
+      "word": "史航",
+      "onboard_time": 1683157587,
+      "rank": 15,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 467027,
@@ -179,6 +243,14 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 349740,
+      "num": 220537,
+      "word": "插队",
+      "onboard_time": 1683159930,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346911,
       "num": 346911,
       "word": "高铁上碰到了一对情侣想换座",
@@ -211,12 +283,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299483,
+      "num": 299483,
+      "word": "Jennie CK全球代言人",
+      "onboard_time": 1683159209,
+      "rank": 18,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 297261,
+      "num": 297261,
+      "word": "没人会比EXO更爱EXO",
+      "onboard_time": 1683159811,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278924,
       "num": 391872,
       "word": "王博",
       "onboard_time": 1683121172,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267385,
+      "num": 267385,
+      "word": "困困困",
+      "onboard_time": 1683162870,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 266780,
@@ -227,12 +323,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250203,
+      "num": 250203,
+      "word": "林允儿李俊昊新剧预告",
+      "onboard_time": 1683161670,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 241652,
+      "num": 241652,
+      "word": "这届年轻人现状",
+      "onboard_time": 1683162328,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237976,
       "num": 237976,
       "word": "EXO",
       "onboard_time": 1683107429,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218291,
+      "num": 218291,
+      "word": "长月烬明特写镜头道具坏了",
+      "onboard_time": 1683158068,
+      "rank": 27,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 208818,
@@ -244,11 +364,27 @@
     },
     {
       "raw_hot": 196065,
-      "num": 132374,
+      "num": 177113,
       "word": "美联储宣布加息25个基点",
       "onboard_time": 1683155962,
       "rank": 30,
       "category": "财经,国外要闻"
+    },
+    {
+      "raw_hot": 195832,
+      "num": 195832,
+      "word": "为什么相爱还会分手",
+      "onboard_time": 1683157886,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 193344,
+      "num": 193344,
+      "word": "五四精神传承有我",
+      "onboard_time": 1683162090,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191629,
@@ -283,6 +419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163577,
+      "num": 163577,
+      "word": "月薪三万你会不会裸辞",
+      "onboard_time": 1683130225,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162495,
       "num": 162495,
       "word": "失眠",
@@ -305,6 +449,22 @@
       "onboard_time": 1683130525,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157273,
+      "num": 157273,
+      "word": "坏妈妈",
+      "onboard_time": 1683158426,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 157240,
+      "num": 157240,
+      "word": "朴树 上海草莓音乐节",
+      "onboard_time": 1683160469,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 156862,
@@ -331,12 +491,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143959,
+      "num": 1386013,
+      "word": "这个五一274000000人次出游",
+      "onboard_time": 1683117812,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143838,
       "num": 143838,
       "word": "久哲BO7的神",
       "onboard_time": 1683126571,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140264,
+      "num": 140264,
+      "word": "五四青年节主题说唱破晓",
+      "onboard_time": 1683162568,
+      "rank": 38,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 140092,
@@ -355,28 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131770,
-      "num": 1139906,
-      "word": "这个五一274000000人次出游",
-      "onboard_time": 1683117812,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131557,
-      "num": 131557,
-      "word": "月薪三万你会不会裸辞",
-      "onboard_time": 1683130225,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130976,
       "num": 285988,
       "word": "胡金秋受伤",
       "onboard_time": 1683122974,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130711,
+      "num": 130711,
+      "word": "不想上班",
+      "onboard_time": 1683159990,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 124512,
@@ -395,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118250,
+      "num": 118250,
+      "word": "国宝表达喜欢都快把对方头皮薅秃了",
+      "onboard_time": 1683160348,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115360,
       "num": 115360,
       "word": "时代少年团演唱会安检储存物被扔",
@@ -409,6 +585,22 @@
       "onboard_time": 1683118112,
       "rank": 37,
       "category": "社会新闻,国外要闻"
+    },
+    {
+      "raw_hot": 112115,
+      "num": 112115,
+      "word": "闹钟没响",
+      "onboard_time": 1683163168,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 111812,
+      "num": 111812,
+      "word": "cp29 汉末",
+      "onboard_time": 1683163228,
+      "rank": 47,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 109486,

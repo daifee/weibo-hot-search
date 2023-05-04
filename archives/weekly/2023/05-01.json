@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683156816815,
+  "endTime": 1683163314821,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1962319,
+      "num": 673994,
+      "word": "史航事件当事人小默",
+      "onboard_time": 1683156265,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1951901,
       "num": 1951901,
       "word": "陈晓毛晓彤十年前vs十年后",
@@ -427,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1512931,
+      "num": 1512931,
+      "word": "工藤新一",
+      "onboard_time": 1683157045,
+      "rank": 1,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 1471230,
       "num": 1235358,
       "word": "至少已有12名发声者指控史航性骚扰",
@@ -491,12 +507,28 @@
       "category": "幽默,旅游"
     },
     {
+      "raw_hot": 1352435,
+      "num": 1352435,
+      "word": "旅行七天和老公吵了五次",
+      "onboard_time": 1683157886,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1350820,
       "num": 938244,
       "word": "直升机坠落西安白鹿仓景区致3人亡",
       "onboard_time": 1683098612,
       "rank": 16,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 1338103,
+      "num": 673690,
+      "word": "2中国游客在印尼巴厘岛身亡",
+      "onboard_time": 1683161189,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1333040,
@@ -619,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1177781,
+      "num": 1177781,
+      "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
+      "onboard_time": 1683154941,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1147131,
       "num": 1147131,
       "word": "这是在攻打重庆吗",
@@ -705,14 +745,6 @@
       "onboard_time": 1683089014,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1049030,
-      "num": 1049030,
-      "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
-      "onboard_time": 1683154941,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1047003,
@@ -931,14 +963,6 @@
       "category": "幽默,影视"
     },
     {
-      "raw_hot": 837770,
-      "num": 415462,
-      "word": "史航事件当事人小默",
-      "onboard_time": 1683156265,
-      "rank": 10,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 834895,
       "num": 834895,
       "word": "克里姆林宫",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1682953709,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 762849,
+      "num": 762849,
+      "word": "五四青年节",
+      "onboard_time": 1683156984,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 757246,
@@ -1155,6 +1187,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 701908,
+      "num": 701908,
+      "word": "秦昊说杨幂会给你们不一样的惊喜",
+      "onboard_time": 1683161308,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 701545,
       "num": 701545,
       "word": "种地吧",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1682997927,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 661929,
+      "num": 661929,
+      "word": "马嘉祺 漏气",
+      "onboard_time": 1683159869,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 660976,
@@ -2387,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349740,
+      "num": 267736,
+      "word": "插队",
+      "onboard_time": 1682947890,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348881,
       "num": 348881,
       "word": "国产剧二五定律",
@@ -2835,6 +2891,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 299483,
+      "num": 299483,
+      "word": "Jennie CK全球代言人",
+      "onboard_time": 1683159209,
+      "rank": 18,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 298953,
       "num": 298953,
       "word": "程帅澎绝杀",
@@ -2857,6 +2921,14 @@
       "onboard_time": 1683094411,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 297261,
+      "num": 297261,
+      "word": "没人会比EXO更爱EXO",
+      "onboard_time": 1683159811,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 295812,
@@ -3147,14 +3219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267736,
-      "num": 267736,
-      "word": "插队",
-      "onboard_time": 1682947890,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267521,
       "num": 262652,
       "word": "明日方舟",
@@ -3169,6 +3233,14 @@
       "onboard_time": 1683113248,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267385,
+      "num": 267385,
+      "word": "困困困",
+      "onboard_time": 1683162870,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 267032,
@@ -3427,6 +3499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250203,
+      "num": 250203,
+      "word": "林允儿李俊昊新剧预告",
+      "onboard_time": 1683161670,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 249907,
       "num": 249907,
       "word": "转发这个五月天",
@@ -3585,6 +3665,14 @@
       "onboard_time": 1682910748,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 241652,
+      "num": 241652,
+      "word": "这届年轻人现状",
+      "onboard_time": 1683162328,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241319,
@@ -4105,6 +4193,14 @@
       "onboard_time": 1682926167,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218291,
+      "num": 218291,
+      "word": "长月烬明特写镜头道具坏了",
+      "onboard_time": 1683158068,
+      "rank": 27,
+      "category": "影视,幽默"
     },
     {
       "raw_hot": 218105,
@@ -4636,11 +4732,19 @@
     },
     {
       "raw_hot": 196065,
-      "num": 132374,
+      "num": 177113,
       "word": "美联储宣布加息25个基点",
       "onboard_time": 1683155962,
       "rank": 30,
       "category": "财经,国外要闻"
+    },
+    {
+      "raw_hot": 195832,
+      "num": 195832,
+      "word": "为什么相爱还会分手",
+      "onboard_time": 1683157886,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 195409,
@@ -4697,6 +4801,14 @@
       "onboard_time": 1682989108,
       "rank": 28,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 193344,
+      "num": 193344,
+      "word": "五四精神传承有我",
+      "onboard_time": 1683162090,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192943,
@@ -5547,6 +5659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163577,
+      "num": 163577,
+      "word": "月薪三万你会不会裸辞",
+      "onboard_time": 1683130225,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163555,
       "num": 163555,
       "word": "成都震感",
@@ -5737,6 +5857,22 @@
       "onboard_time": 1683024567,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157273,
+      "num": 157273,
+      "word": "坏妈妈",
+      "onboard_time": 1683158426,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 157240,
+      "num": 157240,
+      "word": "朴树 上海草莓音乐节",
+      "onboard_time": 1683160469,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 156862,
@@ -6035,6 +6171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140264,
+      "num": 140264,
+      "word": "五四青年节主题说唱破晓",
+      "onboard_time": 1683162568,
+      "rank": 38,
+      "category": "社会新闻,音乐"
+    },
+    {
       "raw_hot": 139967,
       "num": 139967,
       "word": "贺峻霖露背跳舞视频",
@@ -6171,14 +6315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131557,
-      "num": 131557,
-      "word": "月薪三万你会不会裸辞",
-      "onboard_time": 1683130225,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130884,
       "num": 130884,
       "word": "8岁男孩爱啃手被妈妈带去做美甲",
@@ -6201,6 +6337,14 @@
       "onboard_time": 1683095248,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130711,
+      "num": 130711,
+      "word": "不想上班",
+      "onboard_time": 1683159990,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 129812,
@@ -6507,6 +6651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118250,
+      "num": 118250,
+      "word": "国宝表达喜欢都快把对方头皮薅秃了",
+      "onboard_time": 1683160348,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117983,
       "num": 117983,
       "word": "一棵树容不下两只熊猫",
@@ -6601,6 +6753,22 @@
       "onboard_time": 1682958145,
       "rank": 29,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 112115,
+      "num": 112115,
+      "word": "闹钟没响",
+      "onboard_time": 1683163168,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 111812,
+      "num": 111812,
+      "word": "cp29 汉末",
+      "onboard_time": 1683163228,
+      "rank": 47,
+      "category": "动漫,网红"
     },
     {
       "raw_hot": 110660,
