@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683203575487,
+  "endTime": 1683204573893,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1465679,
+      "num": 357316,
+      "word": "小S摘隐形眼镜伤到眼睛",
+      "onboard_time": 1683198687,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1463595,
       "num": 1463595,
       "word": "常年不吃碳水的人怎么样了",
@@ -121,14 +129,6 @@
       "onboard_time": 1683157886,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1343421,
-      "num": 357316,
-      "word": "小S摘隐形眼镜伤到眼睛",
-      "onboard_time": 1683198687,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 1334706,
@@ -379,6 +379,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 695590,
+      "num": 695590,
+      "word": "2023四大女顶流",
+      "onboard_time": 1683202651,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683965,
       "num": 683965,
       "word": "刘诗诗将出席戛纳红毯",
@@ -393,6 +401,14 @@
       "onboard_time": 1683159869,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 594904,
+      "num": 594904,
+      "word": "北电教师评王一博深入角色",
+      "onboard_time": 1683199169,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 578230,
@@ -417,6 +433,14 @@
       "onboard_time": 1683169469,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 561291,
+      "num": 561291,
+      "word": "爱奇艺腾讯推出陈晓套餐",
+      "onboard_time": 1683200729,
+      "rank": 6,
+      "category": "影视"
     },
     {
       "raw_hot": 560569,
@@ -483,14 +507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 526940,
-      "num": 526940,
-      "word": "北电教师评王一博深入角色",
-      "onboard_time": 1683199169,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 525933,
       "num": 525933,
       "word": "活该淄博爆火",
@@ -515,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500561,
+      "num": 324240,
+      "word": "一天内经历了入职和辞职",
+      "onboard_time": 1683202589,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 498252,
       "num": 498252,
       "word": "李泰容将6月初solo出道",
@@ -528,6 +552,14 @@
       "word": "五四不放假要发加班费吗",
       "onboard_time": 1683185671,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487972,
+      "num": 487972,
+      "word": "婆孙插队被做成卡通车贴合适吗",
+      "onboard_time": 1683201450,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -545,6 +577,14 @@
       "onboard_time": 1683165449,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 471146,
+      "num": 322990,
+      "word": "友人称巴厘岛身亡两人已恋爱多年",
+      "onboard_time": 1683203729,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467027,
@@ -585,14 +625,6 @@
       "onboard_time": 1683163826,
       "rank": 20,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 427323,
-      "num": 427323,
-      "word": "爱奇艺腾讯推出陈晓套餐",
-      "onboard_time": 1683200729,
-      "rank": 6,
-      "category": "影视"
     },
     {
       "raw_hot": 423055,
@@ -739,14 +771,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 359638,
-      "num": 359638,
-      "word": "婆孙插队被做成卡通车贴合适吗",
-      "onboard_time": 1683201450,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 351874,
       "num": 351874,
       "word": "白鹿男人风尚杂志封面",
@@ -771,12 +795,12 @@
       "category": "旅游,幽默"
     },
     {
-      "raw_hot": 348685,
-      "num": 288503,
-      "word": "2023四大女顶流",
-      "onboard_time": 1683202651,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 347649,
+      "num": 318266,
+      "word": "你目前月薪存十万需要多久",
+      "onboard_time": 1683202528,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 346911,
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 237158,
-      "num": 216457,
+      "num": 232114,
       "word": "央视五四晚会",
       "onboard_time": 1683201088,
       "rank": 25,
@@ -1145,6 +1169,14 @@
       "onboard_time": 1683185550,
       "rank": 26,
       "category": "网红,动漫"
+    },
+    {
+      "raw_hot": 233528,
+      "num": 233528,
+      "word": "SEVENTEEN主打FML初舞台",
+      "onboard_time": 1683204210,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 230792,
@@ -1211,12 +1243,12 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 217074,
-      "num": 217074,
-      "word": "你目前月薪存十万需要多久",
-      "onboard_time": 1683202528,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 216920,
+      "num": 216920,
+      "word": "王楚然白裙油画少女",
+      "onboard_time": 1683204332,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216328,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1683193827,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211881,
+      "num": 211881,
+      "word": "第一次见这么不熟的家庭",
+      "onboard_time": 1683203968,
+      "rank": 30,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 211313,
@@ -1459,14 +1499,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 176722,
-      "num": 176722,
-      "word": "一天内经历了入职和辞职",
-      "onboard_time": 1683202589,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 176148,
       "num": 176148,
       "word": "承欢记组讯",
@@ -1539,6 +1571,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 167432,
+      "num": 167432,
+      "word": "CBA",
+      "onboard_time": 1683204088,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163577,
       "num": 163577,
       "word": "月薪三万你会不会裸辞",
@@ -1603,6 +1643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154348,
+      "num": 154348,
+      "word": "东北文学",
+      "onboard_time": 1683202709,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153442,
       "num": 153442,
       "word": "武庚纪全员发文期待再会",
@@ -1643,12 +1691,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147084,
-      "num": 147084,
-      "word": "东北文学",
-      "onboard_time": 1683202709,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 146962,
+      "num": 146962,
+      "word": "接吻要闭眼的原因找到了",
+      "onboard_time": 1683201807,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 146640,
@@ -1731,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132443,
+      "num": 132443,
+      "word": "答辩有啥好紧张的",
+      "onboard_time": 1683203787,
+      "rank": 47,
+      "category": "幽默,教育"
+    },
+    {
       "raw_hot": 130976,
       "num": 285988,
       "word": "胡金秋受伤",
@@ -1777,14 +1833,6 @@
       "onboard_time": 1683177508,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126533,
-      "num": 126533,
-      "word": "接吻要闭眼的原因找到了",
-      "onboard_time": 1683201807,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 126002,
@@ -2027,6 +2075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79596,
+      "num": 641973,
+      "word": "藏在这场人从众里的世间温柔",
+      "onboard_time": 1683201028,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78972,
       "num": 78972,
       "word": "李飞听完王浩唱歌后的反应",
@@ -2063,14 +2119,6 @@
       "num": 981650,
       "word": "对青春最好的致敬是成为更好的自己",
       "onboard_time": 1683186928,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69024,
-      "num": 570991,
-      "word": "藏在这场人从众里的世间温柔",
-      "onboard_time": 1683201028,
       "rank": 2,
       "category": "社会新闻"
     },

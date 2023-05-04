@@ -1,0 +1,410 @@
+{
+  "runTime": 1683204573893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260113,
+        "num": 1260113,
+        "word": "小说里刀削般的面容找到了",
+        "onboard_time": 1683193226,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 695590,
+        "num": 695590,
+        "word": "2023四大女顶流",
+        "onboard_time": 1683202651,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79596,
+        "num": 641973,
+        "word": "藏在这场人从众里的世间温柔",
+        "onboard_time": 1683201028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594904,
+        "num": 594904,
+        "word": "北电教师评王一博深入角色",
+        "onboard_time": 1683199169,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 561291,
+        "num": 561291,
+        "word": "爱奇艺腾讯推出陈晓套餐",
+        "onboard_time": 1683200729,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 547916,
+        "num": 547916,
+        "word": "中国游客透露巴厘岛命案细节",
+        "onboard_time": 1683199649,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520726,
+        "num": 520726,
+        "word": "上海的垃圾桶到底在哪里",
+        "onboard_time": 1683188968,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 487972,
+        "num": 487972,
+        "word": "婆孙插队被做成卡通车贴合适吗",
+        "onboard_time": 1683201450,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452701,
+        "num": 452701,
+        "word": "全员加速中",
+        "onboard_time": 1683184948,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330383,
+        "num": 330383,
+        "word": "久哲不握手",
+        "onboard_time": 1683201807,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1465679,
+        "num": 330016,
+        "word": "小S摘隐形眼镜伤到眼睛",
+        "onboard_time": 1683198687,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1384392,
+        "num": 329265,
+        "word": "巴厘岛命案",
+        "onboard_time": 1683198386,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1161254,
+        "num": 328238,
+        "word": "郭珍霓",
+        "onboard_time": 1683196768,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 982642,
+        "num": 326191,
+        "word": "唐嫣旁边是文章吗",
+        "onboard_time": 1683191309,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776875,
+        "num": 326065,
+        "word": "许嵩台上唱歌冯禧台下笑",
+        "onboard_time": 1683197726,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 500561,
+        "num": 324240,
+        "word": "一天内经历了入职和辞职",
+        "onboard_time": 1683202589,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 471146,
+        "num": 322990,
+        "word": "友人称巴厘岛身亡两人已恋爱多年",
+        "onboard_time": 1683203729,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396453,
+        "num": 322185,
+        "word": "因为我的原因妈妈被辞退了",
+        "onboard_time": 1683189449,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337102,
+        "num": 320793,
+        "word": "于正说我捧的人都火了",
+        "onboard_time": 1683188011,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320732,
+        "num": 320732,
+        "word": "王俊凯素颜彩排",
+        "onboard_time": 1683198207,
+        "rank": 19,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 347649,
+        "num": 318266,
+        "word": "你目前月薪存十万需要多久",
+        "onboard_time": 1683202528,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255718,
+        "num": 255718,
+        "word": "张学友探班周杰伦",
+        "onboard_time": 1683199709,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242821,
+        "num": 242821,
+        "word": "听过领导最没水平的一句话",
+        "onboard_time": 1683196407,
+        "rank": 22,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 242605,
+        "num": 242605,
+        "word": "王源有钱且浪漫",
+        "onboard_time": 1683195750,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236507,
+        "num": 236507,
+        "word": "情侣产子后分手老人帮带娃8年",
+        "onboard_time": 1683178885,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 233528,
+        "num": 233528,
+        "word": "SEVENTEEN主打FML初舞台",
+        "onboard_time": 1683204210,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232114,
+        "num": 232114,
+        "word": "央视五四晚会",
+        "onboard_time": 1683201088,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230129,
+        "num": 230129,
+        "word": "警方回应江苏江阴发生枪击事件",
+        "onboard_time": 1683180207,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216920,
+        "num": 216920,
+        "word": "王楚然白裙油画少女",
+        "onboard_time": 1683204332,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112284,
+        "num": 213193,
+        "word": "领事馆确认两中国公民在巴厘岛身亡",
+        "onboard_time": 1683177561,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 211881,
+        "num": 211881,
+        "word": "第一次见这么不熟的家庭",
+        "onboard_time": 1683203968,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 210630,
+        "num": 210630,
+        "word": "澹台烬黎苏苏又要结婚了",
+        "onboard_time": 1683200009,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 206142,
+        "num": 206142,
+        "word": "金晨也去吃淄博烧烤了",
+        "onboard_time": 1683198449,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196706,
+        "num": 196706,
+        "word": "提离职前一周被领导裁掉",
+        "onboard_time": 1683198626,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187769,
+        "num": 187769,
+        "word": "淄博烧烤老板从门洞露脸问人多不多",
+        "onboard_time": 1683174395,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 176249,
+        "num": 176249,
+        "word": "突然得知暗恋对象资产上亿",
+        "onboard_time": 1683170370,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174166,
+        "num": 174166,
+        "word": "Hero对战LGD",
+        "onboard_time": 1683203248,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169338,
+        "num": 169338,
+        "word": "李飞你中控了毛线",
+        "onboard_time": 1683198087,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168754,
+        "num": 168754,
+        "word": "飒蜜",
+        "onboard_time": 1683201088,
+        "rank": 38,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 167641,
+        "num": 167641,
+        "word": "种地吧成员开公司痛失艺名",
+        "onboard_time": 1683197306,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167432,
+        "num": 167432,
+        "word": "CBA",
+        "onboard_time": 1683204088,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154348,
+        "num": 154348,
+        "word": "东北文学",
+        "onboard_time": 1683202709,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152355,
+        "num": 152355,
+        "word": "江阴枪击案受害人家属发声",
+        "onboard_time": 1683197489,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151459,
+        "num": 151459,
+        "word": "赵丽颖一秒听出谢娜的声音",
+        "onboard_time": 1683173677,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151287,
+        "num": 151287,
+        "word": "万茜的裙子八级大风都吹不动",
+        "onboard_time": 1683201330,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146962,
+        "num": 146962,
+        "word": "接吻要闭眼的原因找到了",
+        "onboard_time": 1683201807,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134116,
+        "num": 134116,
+        "word": "常年不吃碳水的人怎么样了",
+        "onboard_time": 1683122072,
+        "rank": 46,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 132443,
+        "num": 132443,
+        "word": "答辩有啥好紧张的",
+        "onboard_time": 1683203787,
+        "rank": 47,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 115921,
+        "num": 115921,
+        "word": "长月烬明预告",
+        "onboard_time": 1683201690,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 106522,
+        "num": 112048,
+        "word": "淄博小吃便宜",
+        "onboard_time": 1683197608,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#青春中国#"
+    }
+  }
+}
