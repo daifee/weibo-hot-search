@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683189248526,
+  "endTime": 1683191825848,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -9,6 +9,14 @@
       "onboard_time": 1683160949,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2746616,
+      "num": 373946,
+      "word": "唐嫣旁边是文章吗",
+      "onboard_time": 1683191309,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2005249,
@@ -73,6 +81,14 @@
       "onboard_time": 1683184948,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1445784,
+      "num": 1445784,
+      "word": "领事馆确认两中国公民在巴厘岛身亡",
+      "onboard_time": 1683177561,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1384869,
@@ -179,20 +195,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1038886,
-      "num": 1038886,
-      "word": "领事馆确认两中国公民在巴厘岛身亡",
-      "onboard_time": 1683177561,
-      "rank": 24,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1021384,
       "num": 1021384,
       "word": "高铁上最好不要和邻座套近乎",
       "onboard_time": 1683101370,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 959798,
+      "num": 390011,
+      "word": "于正说我捧的人都火了",
+      "onboard_time": 1683188011,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 905424,
@@ -267,14 +283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 729815,
-      "num": 390011,
-      "word": "于正说我捧的人都火了",
-      "onboard_time": 1683188011,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 725796,
       "num": 725796,
       "word": "上海打雷",
@@ -329,6 +337,14 @@
       "onboard_time": 1683159869,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 650245,
+      "num": 650245,
+      "word": "上海的垃圾桶到底在哪里",
+      "onboard_time": 1683188968,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 578230,
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496237,
+      "num": 496237,
+      "word": "五四不放假要发加班费吗",
+      "onboard_time": 1683185671,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476795,
       "num": 476795,
       "word": "全红婵实现娃娃自由",
@@ -459,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 434150,
+      "num": 358401,
+      "word": "因为我的原因妈妈被辞退了",
+      "onboard_time": 1683189449,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 428105,
       "num": 267129,
       "word": "节后第一天你在做什么",
@@ -473,14 +505,6 @@
       "onboard_time": 1683172170,
       "rank": 18,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 414745,
-      "num": 414745,
-      "word": "五四不放假要发加班费吗",
-      "onboard_time": 1683185671,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413714,
@@ -531,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381266,
+      "num": 355111,
+      "word": "人民网评长空之王",
+      "onboard_time": 1683190168,
+      "rank": 15,
+      "category": "影视,国内要闻"
+    },
+    {
       "raw_hot": 379906,
       "num": 379906,
       "word": "宋亚轩 破音",
@@ -555,6 +587,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 377754,
+      "num": 377754,
+      "word": "张杰华晨宇首次合作",
+      "onboard_time": 1683187768,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376264,
       "num": 376264,
       "word": "网传江苏江阴发生枪击",
@@ -577,6 +617,14 @@
       "onboard_time": 1683159930,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351874,
+      "num": 351874,
+      "word": "白鹿男人风尚杂志封面",
+      "onboard_time": 1683189870,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 351872,
@@ -723,20 +771,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 288880,
-      "num": 288880,
-      "word": "张杰华晨宇首次合作",
-      "onboard_time": 1683187768,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284854,
       "num": 271258,
       "word": "杨洋同学会好嗨",
       "onboard_time": 1683169168,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282620,
+      "num": 258059,
+      "word": "律师谈编剧史航被指性骚扰",
+      "onboard_time": 1683189268,
+      "rank": 22,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 280388,
@@ -833,6 +881,14 @@
       "onboard_time": 1683171811,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253295,
+      "num": 253295,
+      "word": "长月烬明带动蚌埠五一旅游经济暴增",
+      "onboard_time": 1683189088,
+      "rank": 42,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 251355,
@@ -939,6 +995,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 217193,
+      "num": 217193,
+      "word": "7岁女孩为捐髓救母拼命吃到80斤",
+      "onboard_time": 1683187588,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216134,
       "num": 216134,
       "word": "不良人",
@@ -1011,14 +1075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196842,
-      "num": 196842,
-      "word": "7岁女孩为捐髓救母拼命吃到80斤",
-      "onboard_time": 1683187588,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196441,
       "num": 196441,
       "word": "上班第一天大家都不太清醒",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1683130407,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183109,
+      "num": 183109,
+      "word": "张小斐怼脸眼神杀",
+      "onboard_time": 1683191427,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 177083,
@@ -1227,14 +1291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155435,
-      "num": 155435,
-      "word": "长月烬明带动蚌埠五一旅游经济暴增",
-      "onboard_time": 1683189088,
-      "rank": 42,
-      "category": "影视,社会新闻"
-    },
-    {
       "raw_hot": 154974,
       "num": 154974,
       "word": "DRG晋级败者组半决赛",
@@ -1257,14 +1313,6 @@
       "onboard_time": 1683170549,
       "rank": 39,
       "category": "社会新闻,影视"
-    },
-    {
-      "raw_hot": 149879,
-      "num": 149879,
-      "word": "上海的垃圾桶到底在哪里",
-      "onboard_time": 1683188968,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 148075,
@@ -1451,6 +1499,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 119725,
+      "num": 119725,
+      "word": "罗云熙片场自己补妆",
+      "onboard_time": 1683191549,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 118250,
       "num": 118250,
       "word": "国宝表达喜欢都快把对方头皮薅秃了",
@@ -1496,6 +1552,14 @@
       "word": "湖南男子在西湖捞手机日入约一万",
       "onboard_time": 1683108990,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105890,
+      "num": 105890,
+      "word": "帅气警犬遇上漂亮萨摩耶",
+      "onboard_time": 1683191128,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70341,
+      "num": 895970,
+      "word": "对青春最好的致敬是成为更好的自己",
+      "onboard_time": 1683186928,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64044,
       "num": 161251,
       "word": "多公司假后晚到不计考勤",
@@ -1641,14 +1713,6 @@
       "onboard_time": 1683084629,
       "rank": 46,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 61453,
-      "num": 895970,
-      "word": "对青春最好的致敬是成为更好的自己",
-      "onboard_time": 1683186928,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61298,
