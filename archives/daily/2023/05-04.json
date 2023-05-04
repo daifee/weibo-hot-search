@@ -1,10 +1,10 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683209770711,
+  "endTime": 1683210797990,
   "band_list": [
     {
       "raw_hot": 3457258,
-      "num": 380782,
+      "num": 405425,
       "word": "文章 对是我",
       "onboard_time": 1683208174,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1568968,
+      "num": 1568968,
+      "word": "薛之谦又是站票回去的",
+      "onboard_time": 1683204691,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1512931,
       "num": 1512931,
       "word": "工藤新一",
@@ -99,16 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1478651,
-      "num": 1478651,
-      "word": "薛之谦又是站票回去的",
-      "onboard_time": 1683204691,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1465679,
-      "num": 404930,
+      "num": 436032,
       "word": "小S摘隐形眼镜伤到眼睛",
       "onboard_time": 1683198687,
       "rank": 38,
@@ -257,6 +257,14 @@
       "onboard_time": 1683197726,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1046536,
+      "num": 1046536,
+      "word": "宋茜人缘",
+      "onboard_time": 1683209196,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 1021384,
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502702,
+      "num": 502702,
+      "word": "淄博烧烤新副本被发现了",
+      "onboard_time": 1683205471,
+      "rank": 33,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 498252,
       "num": 498252,
       "word": "李泰容将6月初solo出道",
@@ -651,12 +667,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462988,
+      "num": 388524,
+      "word": "高铁上的一声姐姐花了我35元",
+      "onboard_time": 1683209855,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 447617,
+      "num": 447617,
+      "word": "裁判",
+      "onboard_time": 1683209974,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443653,
       "num": 443653,
       "word": "找工作一定要找双休的",
       "onboard_time": 1683124471,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 435035,
+      "num": 435035,
+      "word": "杭州高价打捞手机为自导自演",
+      "onboard_time": 1683207572,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428105,
@@ -755,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383452,
-      "num": 383452,
-      "word": "杭州高价打捞手机为自导自演",
-      "onboard_time": 1683207572,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 384472,
+      "num": 333998,
+      "word": "吃完榴莲千万别碰这些食物",
+      "onboard_time": 1683207453,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 382301,
@@ -867,14 +907,6 @@
       "category": "旅游,幽默"
     },
     {
-      "raw_hot": 350831,
-      "num": 333998,
-      "word": "吃完榴莲千万别碰这些食物",
-      "onboard_time": 1683207453,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 347768,
       "num": 347768,
       "word": "蔡徐坤和碧梨MetGala合影",
@@ -913,14 +945,6 @@
       "onboard_time": 1683199709,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340433,
-      "num": 340433,
-      "word": "淄博烧烤新副本被发现了",
-      "onboard_time": 1683205471,
-      "rank": 33,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 338110,
@@ -1011,14 +1035,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 317338,
-      "num": 317338,
-      "word": "宋茜人缘",
-      "onboard_time": 1683209196,
-      "rank": 22,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314016,
       "num": 263905,
       "word": "90后女孩留学4年返乡当渔民",
@@ -1043,8 +1059,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 298587,
-      "num": 298587,
+      "raw_hot": 300937,
+      "num": 300937,
       "word": "巴厘岛身亡两中国公民身份确认",
       "onboard_time": 1683206132,
       "rank": 42,
@@ -1187,6 +1203,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254485,
+      "num": 254485,
+      "word": "刘昱晗林志颖仲天骐出场对比",
+      "onboard_time": 1683208055,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254349,
       "num": 254349,
       "word": "徐若晗官宣签约和颂传媒",
@@ -1225,14 +1249,6 @@
       "onboard_time": 1683174758,
       "rank": 47,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 247172,
-      "num": 247172,
-      "word": "刘昱晗林志颖仲天骐出场对比",
-      "onboard_time": 1683208055,
-      "rank": 27,
-      "category": "影视"
     },
     {
       "raw_hot": 245442,
@@ -1411,6 +1427,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 215632,
+      "num": 215632,
+      "word": "浙江男篮晋级总决赛",
+      "onboard_time": 1683210457,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215145,
+      "num": 215145,
+      "word": "虞书欣谢可寅林小宅聚餐合照",
+      "onboard_time": 1683209734,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212484,
       "num": 212484,
       "word": "许魏洲出发图是AI生成的",
@@ -1475,6 +1507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200140,
+      "num": 232555,
+      "word": "巴厘岛命案涉事酒店用探测仪排雷",
+      "onboard_time": 1683206853,
+      "rank": 43,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 199570,
       "num": 199570,
       "word": "自贡地震",
@@ -1491,20 +1531,20 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 199258,
+      "num": 199258,
+      "word": "范丞丞张一山关晓彤剧宣主打一个真诚",
+      "onboard_time": 1683210336,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198879,
       "num": 198879,
       "word": "假如公司让你带薪休假一年",
       "onboard_time": 1683175176,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198578,
-      "num": 232555,
-      "word": "巴厘岛命案涉事酒店用探测仪排雷",
-      "onboard_time": 1683206853,
-      "rank": 43,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 198076,
@@ -1569,6 +1609,14 @@
       "onboard_time": 1683177332,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 187425,
+      "num": 187425,
+      "word": "同事登我电脑问密码是什么",
+      "onboard_time": 1683210275,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 186886,
@@ -1707,20 +1755,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168859,
+      "num": 168859,
+      "word": "接吻要闭眼的原因找到了",
+      "onboard_time": 1683201807,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167598,
       "num": 167598,
       "word": "罗云熙片场自己补妆",
       "onboard_time": 1683191549,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166332,
-      "num": 166332,
-      "word": "接吻要闭眼的原因找到了",
-      "onboard_time": 1683201807,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 163577,
@@ -2075,14 +2123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117418,
-      "num": 117418,
-      "word": "虞书欣谢可寅林小宅聚餐合照",
-      "onboard_time": 1683209734,
-      "rank": 49,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 116287,
       "num": 116287,
       "word": "俄方称两架无人机袭击克里姆林宫",
@@ -2204,7 +2244,7 @@
     },
     {
       "raw_hot": 91814,
-      "num": 958558,
+      "num": 1073955,
       "word": "藏在这场人从众里的世间温柔",
       "onboard_time": 1683201028,
       "rank": 2,
