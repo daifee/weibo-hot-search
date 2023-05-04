@@ -1,0 +1,410 @@
+{
+  "runTime": 1683232450085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 97160,
+        "num": 97160,
+        "word": "向佐 直播",
+        "onboard_time": 1683213753,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63205,
+        "num": 63205,
+        "word": "请撕下插队婆孙表情包",
+        "onboard_time": 1683220698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8172,
+        "num": 48638,
+        "word": "藏在这场人从众里的世间温柔",
+        "onboard_time": 1683201028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44358,
+        "num": 44358,
+        "word": "薛之谦又是站票回去的",
+        "onboard_time": 1683204691,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40477,
+        "num": 40477,
+        "word": "胡锡进说贴插队婆孙车贴很恶心",
+        "onboard_time": 1683217045,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40141,
+        "num": 40141,
+        "word": "巴厘岛身亡两中国公民身份确认",
+        "onboard_time": 1683206132,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39837,
+        "num": 39837,
+        "word": "养了三年的猫原主人想要回",
+        "onboard_time": 1683215850,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39354,
+        "num": 39354,
+        "word": "高铁上的一声姐姐花了我35元",
+        "onboard_time": 1683209855,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33185,
+        "num": 33185,
+        "word": "同事登我电脑问密码是什么",
+        "onboard_time": 1683210275,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31300,
+        "num": 31300,
+        "word": "点赞新时代青春力量",
+        "onboard_time": 1683218662,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93128,
+        "num": 31209,
+        "word": "女子刷短视频刷到老公和小三约会",
+        "onboard_time": 1683210937,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69839,
+        "num": 31048,
+        "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
+        "onboard_time": 1683227292,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45657,
+        "num": 30809,
+        "word": "好友称巴厘岛命案死者正环游世界",
+        "onboard_time": 1683216689,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42976,
+        "num": 30582,
+        "word": "姜思达播客",
+        "onboard_time": 1683211594,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33425,
+        "num": 30228,
+        "word": "巴厘岛命案",
+        "onboard_time": 1683198386,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30191,
+        "num": 30191,
+        "word": "你目前月薪存十万需要多久",
+        "onboard_time": 1683202528,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27018,
+        "num": 27018,
+        "word": "郭晓婷的发量",
+        "onboard_time": 1683213870,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26456,
+        "num": 26456,
+        "word": "男子被流浪狗咬伤后踩死4只幼崽",
+        "onboard_time": 1683222618,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25472,
+        "num": 25472,
+        "word": "卡琳娜",
+        "onboard_time": 1683208174,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25295,
+        "num": 25295,
+        "word": "郭珍霓",
+        "onboard_time": 1683196768,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151187,
+        "num": 25264,
+        "word": "文章 对是我",
+        "onboard_time": 1683208174,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41155,
+        "num": 25249,
+        "word": "过半网友认为插队婆孙被当车贴合适",
+        "onboard_time": 1683229632,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39122,
+        "num": 25239,
+        "word": "友人称巴厘岛身亡两人已恋爱多年",
+        "onboard_time": 1683203729,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24884,
+        "num": 24884,
+        "word": "Hero止步季后赛",
+        "onboard_time": 1683213692,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24997,
+        "num": 24294,
+        "word": "Jennie的肤色好辣",
+        "onboard_time": 1683211114,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23508,
+        "num": 23508,
+        "word": "小S摘隐形眼镜伤到眼睛",
+        "onboard_time": 1683198687,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23060,
+        "num": 23060,
+        "word": "结婚时不要看向你的好朋友",
+        "onboard_time": 1683214412,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 20690,
+        "num": 20690,
+        "word": "吃完榴莲千万别碰这些食物",
+        "onboard_time": 1683207453,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20471,
+        "num": 20471,
+        "word": "aespa新歌thirsty视频",
+        "onboard_time": 1683213992,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20071,
+        "num": 20071,
+        "word": "谢娜初舞台是给自己的礼物",
+        "onboard_time": 1683217524,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19842,
+        "num": 19842,
+        "word": "宋茜人缘",
+        "onboard_time": 1683209196,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19672,
+        "num": 19672,
+        "word": "为什么恋爱会越谈越累",
+        "onboard_time": 1683216689,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19642,
+        "num": 19642,
+        "word": "人和香蕉的基因有50%相似",
+        "onboard_time": 1683228553,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 19531,
+        "num": 19531,
+        "word": "陈晓太会亲了吧",
+        "onboard_time": 1683211177,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 19460,
+        "num": 19460,
+        "word": "杭州高价打捞手机为自导自演",
+        "onboard_time": 1683207572,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18842,
+        "num": 18842,
+        "word": "这是什么特种兵",
+        "onboard_time": 1683208471,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18807,
+        "num": 18807,
+        "word": "小说里刀削般的面容找到了",
+        "onboard_time": 1683193226,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18263,
+        "num": 18263,
+        "word": "无畏夏天见",
+        "onboard_time": 1683213870,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17671,
+        "num": 17671,
+        "word": "gemini",
+        "onboard_time": 1683214110,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16714,
+        "num": 16714,
+        "word": "上海的垃圾桶到底在哪里",
+        "onboard_time": 1683188968,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16341,
+        "num": 16341,
+        "word": "许嵩台上唱歌冯禧台下笑",
+        "onboard_time": 1683197726,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16235,
+        "num": 16235,
+        "word": "淄博烧烤新副本被发现了",
+        "onboard_time": 1683205471,
+        "rank": 41,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 16019,
+        "num": 16019,
+        "word": "虞书欣谢可寅林小宅聚餐合照",
+        "onboard_time": 1683209734,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15943,
+        "num": 15943,
+        "word": "北电教师评王一博深入角色",
+        "onboard_time": 1683199169,
+        "rank": 43,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 14188,
+        "num": 15941,
+        "word": "澹台烬为自己刻好了墓碑",
+        "onboard_time": 1683213212,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13890,
+        "num": 15941,
+        "word": "范丞丞张一山关晓彤剧宣主打一个真诚",
+        "onboard_time": 1683210336,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13795,
+        "num": 15936,
+        "word": "王楚然白裙油画少女",
+        "onboard_time": 1683204332,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13532,
+        "num": 15935,
+        "word": "健康的羞耻感",
+        "onboard_time": 1683216866,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13438,
+        "num": 15933,
+        "word": "王子奇把西装焊身上",
+        "onboard_time": 1683212914,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 13053,
+        "num": 15931,
+        "word": "LGD晋级败者组半决赛",
+        "onboard_time": 1683213454,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对青年提出的16字箴言#"
+    }
+  }
+}
