@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683184583119,
+  "endTime": 1683185610711,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1355225,
+      "num": 1355225,
+      "word": "周杰伦申请限消痘博士",
+      "onboard_time": 1683178107,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1352435,
       "num": 1352435,
       "word": "旅行七天和老公吵了五次",
@@ -123,14 +131,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1200963,
-      "num": 1200963,
-      "word": "周杰伦申请限消痘博士",
-      "onboard_time": 1683178107,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1177781,
       "num": 1177781,
       "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
@@ -177,6 +177,14 @@
       "onboard_time": 1683130646,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 882783,
+      "num": 882783,
+      "word": "领事馆确认两中国公民在巴厘岛身亡",
+      "onboard_time": 1683177561,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 862995,
@@ -235,14 +243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 737281,
-      "num": 737281,
-      "word": "领事馆确认两中国公民在巴厘岛身亡",
-      "onboard_time": 1683177561,
-      "rank": 24,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 725796,
       "num": 725796,
       "word": "上海打雷",
@@ -275,6 +275,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 699337,
+      "num": 699337,
+      "word": "报告称68.5%青年可付房款首付",
+      "onboard_time": 1683182549,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 683965,
       "num": 683965,
       "word": "刘诗诗将出席戛纳红毯",
@@ -289,6 +297,14 @@
       "onboard_time": 1683159869,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 578230,
+      "num": 578230,
+      "word": "不会真有公司五四不放假吧",
+      "onboard_time": 1683180207,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 561370,
@@ -329,14 +345,6 @@
       "onboard_time": 1683170909,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531245,
-      "num": 531245,
-      "word": "不会真有公司五四不放假吧",
-      "onboard_time": 1683180207,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 529382,
@@ -395,20 +403,20 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 464631,
+      "num": 464631,
+      "word": "巴厘岛",
+      "onboard_time": 1683183388,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443653,
       "num": 443653,
       "word": "找工作一定要找双休的",
       "onboard_time": 1683124471,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 441153,
-      "num": 441153,
-      "word": "报告称68.5%青年可付房款首付",
-      "onboard_time": 1683182549,
-      "rank": 12,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 428105,
@@ -499,6 +507,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 376264,
+      "num": 376264,
+      "word": "网传江苏江阴发生枪击",
+      "onboard_time": 1683181946,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372679,
       "num": 372679,
       "word": "缺爱之人才会对很普通的关系难舍难分",
@@ -587,12 +603,12 @@
       "category": "自然,社会新闻"
     },
     {
-      "raw_hot": 322360,
-      "num": 322360,
-      "word": "巴厘岛",
-      "onboard_time": 1683183388,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 321396,
+      "num": 296841,
+      "word": "男友视角下的关晓彤",
+      "onboard_time": 1683183449,
+      "rank": 22,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 320879,
@@ -611,12 +627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 317777,
-      "num": 197818,
-      "word": "网传江苏江阴发生枪击",
-      "onboard_time": 1683181946,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 320208,
+      "num": 306223,
+      "word": "李一桐重回狂飙拍摄地",
+      "onboard_time": 1683183927,
+      "rank": 21,
+      "category": "影视"
     },
     {
       "raw_hot": 314016,
@@ -643,14 +659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 306223,
-      "num": 306223,
-      "word": "李一桐重回狂飙拍摄地",
-      "onboard_time": 1683183927,
-      "rank": 21,
-      "category": "影视"
-    },
-    {
       "raw_hot": 297261,
       "num": 297261,
       "word": "没人会比EXO更爱EXO",
@@ -659,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296841,
-      "num": 296841,
-      "word": "男友视角下的关晓彤",
-      "onboard_time": 1683183449,
-      "rank": 22,
-      "category": "艺人,幽默"
+      "raw_hot": 291620,
+      "num": 291620,
+      "word": "全员加速中",
+      "onboard_time": 1683184948,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 288989,
@@ -833,6 +841,14 @@
       "onboard_time": 1683107429,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234497,
+      "num": 234497,
+      "word": "卡琳娜好帅",
+      "onboard_time": 1683185550,
+      "rank": 26,
+      "category": "网红,动漫"
     },
     {
       "raw_hot": 220763,
@@ -1019,6 +1035,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 177062,
+      "num": 177062,
+      "word": "王一博光明之路杀青",
+      "onboard_time": 1683182788,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176987,
       "num": 176987,
       "word": "五一档票房该不该算预售票房",
@@ -1049,14 +1073,6 @@
       "onboard_time": 1683178529,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173338,
-      "num": 173338,
-      "word": "王一博光明之路杀青",
-      "onboard_time": 1683182788,
-      "rank": 35,
-      "category": "影视"
     },
     {
       "raw_hot": 171699,
@@ -1131,6 +1147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153442,
+      "num": 153442,
+      "word": "武庚纪全员发文期待再会",
+      "onboard_time": 1683184529,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151892,
       "num": 152652,
       "word": "小挣青年",
@@ -1169,6 +1193,22 @@
       "onboard_time": 1683126571,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142297,
+      "num": 142297,
+      "word": "金牛座和射手座的边界感共鸣",
+      "onboard_time": 1683184888,
+      "rank": 44,
+      "category": "情感,网红"
+    },
+    {
+      "raw_hot": 141552,
+      "num": 141552,
+      "word": "什么样的青春才是鲜活的",
+      "onboard_time": 1683184107,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 140264,
@@ -1323,28 +1363,12 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 113585,
-      "num": 113585,
-      "word": "武庚纪全员发文期待再会",
-      "onboard_time": 1683184529,
-      "rank": 48,
-      "category": "影视"
-    },
-    {
       "raw_hot": 112878,
       "num": 112878,
       "word": "基辅出动两架无人机袭击克宫未遂",
       "onboard_time": 1683118112,
       "rank": 37,
       "category": "社会新闻,国外要闻"
-    },
-    {
-      "raw_hot": 112473,
-      "num": 132130,
-      "word": "什么样的青春才是鲜活的",
-      "onboard_time": 1683184107,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 109486,
@@ -1491,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64044,
+      "num": 161251,
+      "word": "多公司假后晚到不计考勤",
+      "onboard_time": 1683183629,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62999,
       "num": 79404,
       "word": "史航聊天记录",
@@ -1539,20 +1571,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 41777,
+      "num": 385210,
+      "word": "靠什么摆脱假期综合症",
+      "onboard_time": 1683184348,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41306,
       "num": 425871,
       "word": "刘德华谈过来人支持新人",
       "onboard_time": 1683169227,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38943,
-      "num": 155008,
-      "word": "多公司假后晚到不计考勤",
-      "onboard_time": 1683183629,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34078,
@@ -1577,14 +1609,6 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 12663,
-      "num": 385210,
-      "word": "靠什么摆脱假期综合症",
-      "onboard_time": 1683184348,
-      "rank": 14,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
