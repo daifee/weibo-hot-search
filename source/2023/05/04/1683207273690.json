@@ -1,0 +1,410 @@
+{
+  "runTime": 1683207273690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1931132,
+        "num": 1931132,
+        "word": "友人称巴厘岛身亡两人已恋爱多年",
+        "onboard_time": 1683203729,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1351439,
+        "num": 1351439,
+        "word": "薛之谦又是站票回去的",
+        "onboard_time": 1683204691,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85464,
+        "num": 847690,
+        "word": "藏在这场人从众里的世间温柔",
+        "onboard_time": 1683201028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783832,
+        "num": 783832,
+        "word": "小说里刀削般的面容找到了",
+        "onboard_time": 1683193226,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 671550,
+        "num": 671550,
+        "word": "你目前月薪存十万需要多久",
+        "onboard_time": 1683202528,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 608874,
+        "num": 608874,
+        "word": "爱奇艺腾讯推出陈晓套餐",
+        "onboard_time": 1683200729,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 537786,
+        "num": 537786,
+        "word": "一天内经历了入职和辞职",
+        "onboard_time": 1683202589,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 517801,
+        "num": 517801,
+        "word": "婆孙插队被做成卡通车贴合适吗",
+        "onboard_time": 1683201450,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414936,
+        "num": 414936,
+        "word": "北电教师评王一博深入角色",
+        "onboard_time": 1683199169,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 377939,
+        "num": 377939,
+        "word": "上海的垃圾桶到底在哪里",
+        "onboard_time": 1683188968,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1215152,
+        "num": 377167,
+        "word": "郭珍霓",
+        "onboard_time": 1683196768,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1210298,
+        "num": 374599,
+        "word": "巴厘岛命案",
+        "onboard_time": 1683198386,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939363,
+        "num": 371940,
+        "word": "小S摘隐形眼镜伤到眼睛",
+        "onboard_time": 1683198687,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838810,
+        "num": 369386,
+        "word": "唐嫣旁边是文章吗",
+        "onboard_time": 1683191309,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496327,
+        "num": 368245,
+        "word": "许嵩台上唱歌冯禧台下笑",
+        "onboard_time": 1683197726,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384250,
+        "num": 364898,
+        "word": "因为我的原因妈妈被辞退了",
+        "onboard_time": 1683189449,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363421,
+        "num": 363421,
+        "word": "任敏古风珍珠妆",
+        "onboard_time": 1683205168,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354811,
+        "num": 354811,
+        "word": "全员加速中",
+        "onboard_time": 1683184948,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311293,
+        "num": 311293,
+        "word": "肖战如梦之梦",
+        "onboard_time": 1683205894,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279851,
+        "num": 279851,
+        "word": "中国游客透露巴厘岛命案细节",
+        "onboard_time": 1683199649,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335005,
+        "num": 271461,
+        "word": "王楚然白裙油画少女",
+        "onboard_time": 1683204332,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 280733,
+        "num": 265068,
+        "word": "蔡徐坤和碧梨MetGala合影",
+        "onboard_time": 1683204993,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239489,
+        "num": 239489,
+        "word": "淄博烧烤新副本被发现了",
+        "onboard_time": 1683205471,
+        "rank": 22,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 231882,
+        "num": 231882,
+        "word": "第一次见这么不熟的家庭",
+        "onboard_time": 1683203968,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 217334,
+        "num": 217334,
+        "word": "情侣产子后分手老人帮带娃8年",
+        "onboard_time": 1683178885,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 258787,
+        "num": 216765,
+        "word": "于正说我捧的人都火了",
+        "onboard_time": 1683188011,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241862,
+        "num": 216476,
+        "word": "金钟仁将举行免费粉丝见面会",
+        "onboard_time": 1683205830,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219403,
+        "num": 214521,
+        "word": "澹台烬黎苏苏又要结婚了",
+        "onboard_time": 1683200009,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210846,
+        "num": 210846,
+        "word": "久哲不握手",
+        "onboard_time": 1683201807,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205025,
+        "num": 205025,
+        "word": "巴厘岛身亡两中国公民身份确认",
+        "onboard_time": 1683206132,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206793,
+        "num": 204915,
+        "word": "王源有钱且浪漫",
+        "onboard_time": 1683195750,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204805,
+        "num": 204805,
+        "word": "王俊凯素颜彩排",
+        "onboard_time": 1683198207,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 202811,
+        "num": 202811,
+        "word": "警方回应江苏江阴发生枪击事件",
+        "onboard_time": 1683180207,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176862,
+        "num": 176862,
+        "word": "央视五四晚会",
+        "onboard_time": 1683201088,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174049,
+        "num": 174049,
+        "word": "淄博烧烤老板从门洞露脸问人多不多",
+        "onboard_time": 1683174395,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 175978,
+        "num": 170292,
+        "word": "金晨也去吃淄博烧烤了",
+        "onboard_time": 1683198449,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175069,
+        "num": 168161,
+        "word": "什么是婚姻废井",
+        "onboard_time": 1683205230,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 164750,
+        "num": 164750,
+        "word": "突然得知暗恋对象资产上亿",
+        "onboard_time": 1683170370,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155296,
+        "num": 155296,
+        "word": "接吻要闭眼的原因找到了",
+        "onboard_time": 1683201807,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152102,
+        "num": 152102,
+        "word": "答辩有啥好紧张的",
+        "onboard_time": 1683203787,
+        "rank": 39,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 157914,
+        "num": 150658,
+        "word": "声生不息为时代少年团演唱会送花篮",
+        "onboard_time": 1683206732,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156108,
+        "num": 148574,
+        "word": "SEVENTEEN主打FML初舞台",
+        "onboard_time": 1683204210,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145828,
+        "num": 145828,
+        "word": "种地吧成员开公司痛失艺名",
+        "onboard_time": 1683197306,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142557,
+        "num": 142557,
+        "word": "巴厘岛命案涉事酒店用探测仪排雷",
+        "onboard_time": 1683206853,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 97168,
+        "num": 141191,
+        "word": "领事馆确认两中国公民在巴厘岛身亡",
+        "onboard_time": 1683177561,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 140508,
+        "num": 140508,
+        "word": "小落 最强新人",
+        "onboard_time": 1683206191,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135621,
+        "num": 135621,
+        "word": "CBA",
+        "onboard_time": 1683204088,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134037,
+        "num": 134037,
+        "word": "张学友探班周杰伦",
+        "onboard_time": 1683199709,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130311,
+        "num": 130311,
+        "word": "李飞你中控了毛线",
+        "onboard_time": 1683198087,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117190,
+        "num": 117190,
+        "word": "提离职前一周被领导裁掉",
+        "onboard_time": 1683198626,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#青春中国#"
+    }
+  }
+}

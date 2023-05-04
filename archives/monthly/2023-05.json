@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683206502810,
+  "endTime": 1683207273690,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -283,6 +283,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1931132,
+      "num": 1931132,
+      "word": "友人称巴厘岛身亡两人已恋爱多年",
+      "onboard_time": 1683203729,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1897707,
       "num": 612012,
       "word": "秦昊瘦身食谱",
@@ -417,14 +425,6 @@
       "onboard_time": 1682998288,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1666705,
-      "num": 1666705,
-      "word": "友人称巴厘岛身亡两人已恋爱多年",
-      "onboard_time": 1683203729,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1645310,
@@ -601,6 +601,14 @@
       "onboard_time": 1683157886,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1351439,
+      "num": 1351439,
+      "word": "薛之谦又是站票回去的",
+      "onboard_time": 1683204691,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1350820,
@@ -793,14 +801,6 @@
       "onboard_time": 1683154941,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1150661,
-      "num": 1150661,
-      "word": "薛之谦又是站票回去的",
-      "onboard_time": 1683204691,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1149580,
@@ -1531,6 +1531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 671550,
+      "num": 671550,
+      "word": "你目前月薪存十万需要多久",
+      "onboard_time": 1683202528,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 661929,
       "num": 661929,
       "word": "马嘉祺 漏气",
@@ -1641,14 +1649,6 @@
       "onboard_time": 1683006328,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 603481,
-      "num": 603481,
-      "word": "你目前月薪存十万需要多久",
-      "onboard_time": 1683202528,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 595131,
@@ -1875,8 +1875,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 535430,
-      "num": 535430,
+      "raw_hot": 537786,
+      "num": 537786,
       "word": "一天内经历了入职和辞职",
       "onboard_time": 1683202589,
       "rank": 36,
@@ -2939,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363421,
+      "num": 363421,
+      "word": "任敏古风珍珠妆",
+      "onboard_time": 1683205168,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 362845,
       "num": 362845,
       "word": "房价房租倒挂",
@@ -3163,20 +3171,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 335005,
+      "num": 271461,
+      "word": "王楚然白裙油画少女",
+      "onboard_time": 1683204332,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 334101,
       "num": 334101,
       "word": "蔡徐坤的扇子",
       "onboard_time": 1682990908,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 332886,
-      "num": 256579,
-      "word": "王楚然白裙油画少女",
-      "onboard_time": 1683204332,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 332824,
@@ -3777,6 +3785,14 @@
       "onboard_time": 1682907808,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 280733,
+      "num": 265068,
+      "word": "蔡徐坤和碧梨MetGala合影",
+      "onboard_time": 1683204993,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 280388,
@@ -4499,6 +4515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 241862,
+      "num": 218071,
+      "word": "金钟仁将举行免费粉丝见面会",
+      "onboard_time": 1683205830,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241652,
       "num": 241652,
       "word": "这届年轻人现状",
@@ -4545,6 +4569,14 @@
       "onboard_time": 1682942908,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239489,
+      "num": 239489,
+      "word": "淄博烧烤新副本被发现了",
+      "onboard_time": 1683205471,
+      "rank": 33,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 239288,
@@ -5083,6 +5115,14 @@
       "category": "情感,综艺"
     },
     {
+      "raw_hot": 219403,
+      "num": 216684,
+      "word": "澹台烬黎苏苏又要结婚了",
+      "onboard_time": 1683200009,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 218937,
       "num": 218937,
       "word": "战至巅峰",
@@ -5129,14 +5169,6 @@
       "onboard_time": 1682939008,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 218071,
-      "num": 218071,
-      "word": "金钟仁将举行免费粉丝见面会",
-      "onboard_time": 1683205830,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 217721,
@@ -5187,14 +5219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 216684,
-      "num": 216684,
-      "word": "澹台烬黎苏苏又要结婚了",
-      "onboard_time": 1683200009,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 216481,
       "num": 216481,
       "word": "沈梓捷",
@@ -5233,14 +5257,6 @@
       "onboard_time": 1682988868,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 215871,
-      "num": 215871,
-      "word": "任敏古风珍珠妆",
-      "onboard_time": 1683205168,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 214685,
@@ -5513,6 +5529,14 @@
       "onboard_time": 1682921009,
       "rank": 30,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 205025,
+      "num": 205025,
+      "word": "巴厘岛身亡两中国公民身份确认",
+      "onboard_time": 1683206132,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204990,
@@ -6043,14 +6067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188070,
-      "num": 188070,
-      "word": "蔡徐坤和碧梨MetGala合影",
-      "onboard_time": 1683204993,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 186920,
       "num": 167473,
       "word": "国外网友偶遇蔡徐坤",
@@ -6323,14 +6339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 178377,
-      "num": 178377,
-      "word": "淄博烧烤新副本被发现了",
-      "onboard_time": 1683205471,
-      "rank": 33,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 178324,
       "num": 178324,
       "word": "医生在工作时遇到的最离谱的谎言",
@@ -6491,6 +6499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175069,
+      "num": 172045,
+      "word": "什么是婚姻废井",
+      "onboard_time": 1683205230,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 174900,
       "num": 174900,
       "word": "李飞吴彤海口会面",
@@ -6592,14 +6608,6 @@
       "word": "王一博 飞驰人生2",
       "onboard_time": 1682859690,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 172045,
-      "num": 172045,
-      "word": "什么是婚姻废井",
-      "onboard_time": 1683205230,
-      "rank": 36,
       "category": "影视"
     },
     {
@@ -7059,6 +7067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157914,
+      "num": 150658,
+      "word": "声生不息为时代少年团演唱会送花篮",
+      "onboard_time": 1683206732,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157715,
       "num": 157715,
       "word": "苏醒说情况就是这么个情况",
@@ -7121,6 +7137,14 @@
       "onboard_time": 1683011426,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155296,
+      "num": 155296,
+      "word": "接吻要闭眼的原因找到了",
+      "onboard_time": 1683201807,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 154754,
@@ -7219,14 +7243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151316,
-      "num": 151316,
-      "word": "巴厘岛身亡两中国公民身份确认",
-      "onboard_time": 1683206132,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151287,
       "num": 151287,
       "word": "不要和斤斤计较的人一起旅游",
@@ -7313,14 +7329,6 @@
       "onboard_time": 1682992889,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148359,
-      "num": 148359,
-      "word": "接吻要闭眼的原因找到了",
-      "onboard_time": 1683201807,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 148190,
@@ -7417,6 +7425,14 @@
       "onboard_time": 1682956647,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142557,
+      "num": 142557,
+      "word": "巴厘岛命案涉事酒店用探测仪排雷",
+      "onboard_time": 1683206853,
+      "rank": 43,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 141552,
