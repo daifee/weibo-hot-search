@@ -1,0 +1,410 @@
+{
+  "runTime": 1683225207525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 216973,
+        "num": 216973,
+        "word": "向佐 直播",
+        "onboard_time": 1683213753,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181592,
+        "num": 181592,
+        "word": "请撕下插队婆孙表情包",
+        "onboard_time": 1683220698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11271,
+        "num": 152429,
+        "word": "藏在这场人从众里的世间温柔",
+        "onboard_time": 1683201028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132818,
+        "num": 132818,
+        "word": "胡锡进说贴插队婆孙车贴很恶心",
+        "onboard_time": 1683217045,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116421,
+        "num": 116421,
+        "word": "薛之谦又是站票回去的",
+        "onboard_time": 1683204691,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101943,
+        "num": 101943,
+        "word": "高铁上的一声姐姐花了我35元",
+        "onboard_time": 1683209855,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83922,
+        "num": 83922,
+        "word": "养了三年的猫原主人想要回",
+        "onboard_time": 1683215850,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80559,
+        "num": 80559,
+        "word": "同事登我电脑问密码是什么",
+        "onboard_time": 1683210275,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78718,
+        "num": 78718,
+        "word": "巴厘岛身亡两中国公民身份确认",
+        "onboard_time": 1683206132,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68455,
+        "num": 68455,
+        "word": "男子被流浪狗咬伤后踩死4只幼崽",
+        "onboard_time": 1683222618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241853,
+        "num": 68384,
+        "word": "女子刷短视频刷到老公和小三约会",
+        "onboard_time": 1683210937,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103274,
+        "num": 67542,
+        "word": "姜思达播客",
+        "onboard_time": 1683211594,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83618,
+        "num": 67087,
+        "word": "你目前月薪存十万需要多久",
+        "onboard_time": 1683202528,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77496,
+        "num": 66597,
+        "word": "Jennie的肤色好辣",
+        "onboard_time": 1683211114,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 74200,
+        "num": 66366,
+        "word": "巴厘岛命案",
+        "onboard_time": 1683198386,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73859,
+        "num": 65529,
+        "word": "好友称巴厘岛命案死者正环游世界",
+        "onboard_time": 1683216689,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65519,
+        "num": 65519,
+        "word": "郭珍霓",
+        "onboard_time": 1683196768,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64293,
+        "num": 64293,
+        "word": "郭晓婷的发量",
+        "onboard_time": 1683213870,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55428,
+        "num": 55428,
+        "word": "宋茜人缘",
+        "onboard_time": 1683209196,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 53494,
+        "num": 53494,
+        "word": "卡琳娜",
+        "onboard_time": 1683208174,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 394528,
+        "num": 53328,
+        "word": "文章 对是我",
+        "onboard_time": 1683208174,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103864,
+        "num": 53106,
+        "word": "友人称巴厘岛身亡两人已恋爱多年",
+        "onboard_time": 1683203729,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50280,
+        "num": 50280,
+        "word": "结婚时不要看向你的好朋友",
+        "onboard_time": 1683214412,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 50158,
+        "num": 50158,
+        "word": "小S摘隐形眼镜伤到眼睛",
+        "onboard_time": 1683198687,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48287,
+        "num": 48287,
+        "word": "为什么恋爱会越谈越累",
+        "onboard_time": 1683216689,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45476,
+        "num": 45476,
+        "word": "小说里刀削般的面容找到了",
+        "onboard_time": 1683193226,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42920,
+        "num": 42920,
+        "word": "gemini",
+        "onboard_time": 1683214110,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40892,
+        "num": 40892,
+        "word": "虞书欣谢可寅林小宅聚餐合照",
+        "onboard_time": 1683209734,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 40464,
+        "num": 40464,
+        "word": "陈晓太会亲了吧",
+        "onboard_time": 1683211177,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 38252,
+        "num": 38252,
+        "word": "许嵩台上唱歌冯禧台下笑",
+        "onboard_time": 1683197726,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38087,
+        "num": 38087,
+        "word": "谢娜初舞台是给自己的礼物",
+        "onboard_time": 1683217524,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37659,
+        "num": 37659,
+        "word": "吃完榴莲千万别碰这些食物",
+        "onboard_time": 1683207453,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 37448,
+        "num": 37448,
+        "word": "aespa新歌thirsty视频",
+        "onboard_time": 1683213992,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36951,
+        "num": 36951,
+        "word": "杭州高价打捞手机为自导自演",
+        "onboard_time": 1683207572,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32565,
+        "num": 32565,
+        "word": "健康的羞耻感",
+        "onboard_time": 1683216866,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31390,
+        "num": 31390,
+        "word": "王楚然白裙油画少女",
+        "onboard_time": 1683204332,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31252,
+        "num": 31252,
+        "word": "上海的垃圾桶到底在哪里",
+        "onboard_time": 1683188968,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30842,
+        "num": 30842,
+        "word": "无畏夏天见",
+        "onboard_time": 1683213870,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28739,
+        "num": 28739,
+        "word": "王子奇把西装焊身上",
+        "onboard_time": 1683212914,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 28408,
+        "num": 28408,
+        "word": "蔡依林被问到新专辑的表情",
+        "onboard_time": 1683222135,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27717,
+        "num": 27717,
+        "word": "北电教师评王一博深入角色",
+        "onboard_time": 1683199169,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 27250,
+        "num": 27250,
+        "word": "LGD晋级败者组半决赛",
+        "onboard_time": 1683213454,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27103,
+        "num": 27103,
+        "word": "SEVENTEEN演我生活状态",
+        "onboard_time": 1683219322,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25846,
+        "num": 27099,
+        "word": "淄博烧烤新副本被发现了",
+        "onboard_time": 1683205471,
+        "rank": 43,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 25227,
+        "num": 27098,
+        "word": "这是什么特种兵",
+        "onboard_time": 1683208471,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24632,
+        "num": 27090,
+        "word": "范丞丞张一山关晓彤剧宣主打一个真诚",
+        "onboard_time": 1683210336,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24540,
+        "num": 27089,
+        "word": "蔡徐坤和碧梨MetGala合影",
+        "onboard_time": 1683204993,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23308,
+        "num": 27084,
+        "word": "浙江深圳G5吹罚",
+        "onboard_time": 1683211056,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23218,
+        "num": 27079,
+        "word": "澹台烬为自己刻好了墓碑",
+        "onboard_time": 1683213212,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 23107,
+        "num": 27073,
+        "word": "任敏古风珍珠妆",
+        "onboard_time": 1683205168,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对青年提出的16字箴言#"
+    }
+  }
+}

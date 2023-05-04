@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683224446922,
+  "endTime": 1683225207525,
   "band_list": [
     {
       "raw_hot": 1280160,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 182907,
-      "num": 69232,
+      "num": 181592,
       "word": "请撕下插队婆孙表情包",
       "onboard_time": 1683220698,
       "rank": 31,
@@ -419,19 +419,19 @@
       "category": "影视"
     },
     {
+      "raw_hot": 68455,
+      "num": 68455,
+      "word": "男子被流浪狗咬伤后踩死4只幼崽",
+      "onboard_time": 1683222618,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59983,
       "num": 59983,
       "word": "点赞新时代青春力量",
       "onboard_time": 1683218662,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58819,
-      "num": 58819,
-      "word": "男子被流浪狗咬伤后踩死4只幼崽",
-      "onboard_time": 1683222618,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -457,6 +457,14 @@
       "onboard_time": 1683222135,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25227,
+      "num": 27098,
+      "word": "这是什么特种兵",
+      "onboard_time": 1683208471,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 23317,

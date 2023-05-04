@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/01 00:20:43 ~ 2023/05/05 02:20:46
+本榜单时间：2023/05/01 00:20:43 ~ 2023/05/05 02:33:27
 </p>
 </blockquote>
 <p>
@@ -6741,6 +6741,12 @@ CBA裁判（热度：109841）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%B5%81%E6%B5%AA%E7%8B%97%E5%92%AC%E4%BC%A4%E5%90%8E%E8%B8%A9%E6%AD%BB4%E5%8F%AA%E5%B9%BC%E5%B4%BD%23" target="weibo">
+男子被流浪狗咬伤后踩死4只幼崽（热度：68455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%A5%8B%E6%96%97%E7%9A%84%E4%BD%A0%E9%83%BD%E4%BA%86%E4%B8%8D%E8%B5%B7%23" target="weibo">
 每一个奋斗的你都了不起（热度：67499）
 </a>
@@ -6779,12 +6785,6 @@ CBA裁判（热度：109841）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%B5%9E%E6%96%B0%E6%97%B6%E4%BB%A3%E9%9D%92%E6%98%A5%E5%8A%9B%E9%87%8F%23" target="weibo">
 点赞新时代青春力量（热度：59983）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%B5%81%E6%B5%AA%E7%8B%97%E5%92%AC%E4%BC%A4%E5%90%8E%E8%B8%A9%E6%AD%BB4%E5%8F%AA%E5%B9%BC%E5%B4%BD%23" target="weibo">
-男子被流浪狗咬伤后踩死4只幼崽（热度：58819）
 </a>
 </li>
 
