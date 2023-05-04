@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683234906380,
+  "endTime": 1683236033132,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -8635,6 +8635,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 100963,
+      "num": 100963,
+      "word": "过半网友认为插队婆孙被当车贴合适",
+      "onboard_time": 1683229632,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100235,
       "num": 1589283,
       "word": "激扬青春",
@@ -8883,6 +8891,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 78540,
+      "num": 78540,
+      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
+      "onboard_time": 1683227292,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77880,
       "num": 77880,
       "word": "休宁巴伊叶因家人去世缺席活动",
@@ -8937,22 +8953,6 @@
       "onboard_time": 1682921968,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 74239,
-      "num": 28958,
-      "word": "过半网友认为插队婆孙被当车贴合适",
-      "onboard_time": 1683229632,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73579,
-      "num": 44040,
-      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
-      "onboard_time": 1683227292,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70985,
@@ -9307,6 +9307,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24659,
+      "num": 22539,
+      "word": "韩总统称要懂得对美国感恩",
+      "onboard_time": 1683231191,
+      "rank": 26,
+      "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 24265,
+      "num": 24265,
+      "word": "人和香蕉的基因有50%相似",
+      "onboard_time": 1683228553,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 23317,
       "num": 28468,
       "word": "自助跳楼机",
@@ -9315,20 +9331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22242,
-      "num": 22242,
-      "word": "人和香蕉的基因有50%相似",
-      "onboard_time": 1683228553,
-      "rank": 44,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 20911,
-      "num": 20911,
-      "word": "韩总统称要懂得对美国感恩",
-      "onboard_time": 1683231191,
+      "raw_hot": 21047,
+      "num": 21047,
+      "word": "男子头疼自己在家针灸扎破心脏",
+      "onboard_time": 1683235092,
       "rank": 26,
-      "category": "国外要闻,社会新闻"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19663,
@@ -9369,6 +9377,14 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11376,
+      "num": 17531,
+      "word": "刘宇宁片场唱歌视频",
+      "onboard_time": 1683235452,
+      "rank": 49,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
