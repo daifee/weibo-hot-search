@@ -1,0 +1,410 @@
+{
+  "runTime": 1683200013523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1151213,
+        "num": 1151213,
+        "word": "小说里刀削般的面容找到了",
+        "onboard_time": 1683193226,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313959,
+        "num": 786585,
+        "word": "90后姑娘帮上万名村民喝上安全的水",
+        "onboard_time": 1683193827,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 43542,
+        "num": 709891,
+        "word": "对青春最好的致敬是成为更好的自己",
+        "onboard_time": 1683186928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707646,
+        "num": 707646,
+        "word": "上海的垃圾桶到底在哪里",
+        "onboard_time": 1683188968,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202515,
+        "num": 608256,
+        "word": "7岁女孩为捐髓救母拼命吃到80斤",
+        "onboard_time": 1683187588,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575533,
+        "num": 575533,
+        "word": "因为我的原因妈妈被辞退了",
+        "onboard_time": 1683189449,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149730,
+        "num": 534440,
+        "word": "变音也能听出你努力忍住的哭腔",
+        "onboard_time": 1683193827,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530683,
+        "num": 530683,
+        "word": "听过领导最没水平的一句话",
+        "onboard_time": 1683196407,
+        "rank": 7,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 500574,
+        "num": 500574,
+        "word": "王源有钱且浪漫",
+        "onboard_time": 1683195750,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 384693,
+        "num": 384693,
+        "word": "全员加速中",
+        "onboard_time": 1683184948,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1610564,
+        "num": 379441,
+        "word": "巴厘岛命案",
+        "onboard_time": 1683198386,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289896,
+        "num": 377081,
+        "word": "郭珍霓",
+        "onboard_time": 1683196768,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1244844,
+        "num": 369225,
+        "word": "唐嫣旁边是文章吗",
+        "onboard_time": 1683191309,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1084877,
+        "num": 366186,
+        "word": "许嵩台上唱歌冯禧台下笑",
+        "onboard_time": 1683197726,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 778169,
+        "num": 357316,
+        "word": "小S摘隐形眼镜伤到眼睛",
+        "onboard_time": 1683198687,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530278,
+        "num": 353179,
+        "word": "于正说我捧的人都火了",
+        "onboard_time": 1683188011,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390005,
+        "num": 346807,
+        "word": "警方回应江苏江阴发生枪击事件",
+        "onboard_time": 1683180207,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346233,
+        "num": 346233,
+        "word": "活该淄博爆火",
+        "onboard_time": 1683192868,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 325964,
+        "num": 325964,
+        "word": "张学友探班周杰伦",
+        "onboard_time": 1683199709,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311013,
+        "num": 311013,
+        "word": "领事馆确认两中国公民在巴厘岛身亡",
+        "onboard_time": 1683177561,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 279344,
+        "num": 279344,
+        "word": "金晨也去吃淄博烧烤了",
+        "onboard_time": 1683198449,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270400,
+        "num": 270400,
+        "word": "王俊凯素颜彩排",
+        "onboard_time": 1683198207,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 264979,
+        "num": 264979,
+        "word": "种地吧成员开公司痛失艺名",
+        "onboard_time": 1683197306,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242967,
+        "num": 242967,
+        "word": "赵丽颖一秒听出谢娜的声音",
+        "onboard_time": 1683173677,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238451,
+        "num": 238451,
+        "word": "情侣产子后分手老人帮带娃8年",
+        "onboard_time": 1683178885,
+        "rank": 24,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 224519,
+        "num": 224519,
+        "word": "淄博烧烤老板从门洞露脸问人多不多",
+        "onboard_time": 1683174395,
+        "rank": 25,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 224513,
+        "num": 224513,
+        "word": "江阴枪击案受害人家属发声",
+        "onboard_time": 1683197489,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216328,
+        "num": 216328,
+        "word": "SEVENTEEN一位",
+        "onboard_time": 1683198989,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210219,
+        "num": 210219,
+        "word": "突然得知暗恋对象资产上亿",
+        "onboard_time": 1683170370,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205488,
+        "num": 205488,
+        "word": "丝芭传媒申请限消冯薪朵",
+        "onboard_time": 1683193167,
+        "rank": 29,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 287147,
+        "num": 201279,
+        "word": "提离职前一周被领导裁掉",
+        "onboard_time": 1683198626,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230792,
+        "num": 196827,
+        "word": "李飞你中控了毛线",
+        "onboard_time": 1683198087,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189827,
+        "num": 189827,
+        "word": "当我和妈妈说离婚了",
+        "onboard_time": 1683164309,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181754,
+        "num": 181754,
+        "word": "工藤新一",
+        "onboard_time": 1683157045,
+        "rank": 33,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 161657,
+        "num": 161657,
+        "word": "北电教师评王一博深入角色",
+        "onboard_time": 1683199169,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 157517,
+        "num": 157517,
+        "word": "许魏洲出发图是AI生成的",
+        "onboard_time": 1683194787,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146440,
+        "num": 146440,
+        "word": "亚运会 名单",
+        "onboard_time": 1683186210,
+        "rank": 36,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 136910,
+        "num": 136910,
+        "word": "中国游客透露巴厘岛命案细节",
+        "onboard_time": 1683199649,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134496,
+        "num": 134496,
+        "word": "媒体评插队婆孙被做成恶搞表情包",
+        "onboard_time": 1683169227,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131195,
+        "num": 131195,
+        "word": "人民网评长空之王",
+        "onboard_time": 1683190168,
+        "rank": 39,
+        "category": "影视,国内要闻"
+      },
+      {
+        "raw_hot": 131125,
+        "num": 131125,
+        "word": "常年不吃碳水的人怎么样了",
+        "onboard_time": 1683122072,
+        "rank": 40,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 131120,
+        "num": 131120,
+        "word": "卡琳娜好帅",
+        "onboard_time": 1683185550,
+        "rank": 41,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 124606,
+        "num": 124606,
+        "word": "律师谈编剧史航被指性骚扰",
+        "onboard_time": 1683189268,
+        "rank": 42,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 122337,
+        "num": 122337,
+        "word": "男友视角下的关晓彤",
+        "onboard_time": 1683183449,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 115330,
+        "num": 115330,
+        "word": "长月烬明带动蚌埠五一旅游经济暴增",
+        "onboard_time": 1683189088,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112835,
+        "num": 112835,
+        "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
+        "onboard_time": 1683154941,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110974,
+        "num": 110974,
+        "word": "史航事件当事人再发声",
+        "onboard_time": 1683175896,
+        "rank": 46,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 101090,
+        "num": 110971,
+        "word": "淄博小吃便宜",
+        "onboard_time": 1683197608,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96157,
+        "num": 110402,
+        "word": "宋茜新剧收视全时段卫视第一",
+        "onboard_time": 1683199888,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 93438,
+        "num": 110157,
+        "word": "旅行七天和老公吵了五次",
+        "onboard_time": 1683157886,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#青春中国#"
+    }
+  }
+}

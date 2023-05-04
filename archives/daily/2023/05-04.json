@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683198918526,
+  "endTime": 1683200013523,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -57,6 +57,14 @@
       "onboard_time": 1683174395,
       "rank": 36,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1610564,
+      "num": 492925,
+      "word": "巴厘岛命案",
+      "onboard_time": 1683198386,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1512931,
@@ -123,20 +131,20 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 1289896,
+      "num": 511650,
+      "word": "郭珍霓",
+      "onboard_time": 1683196768,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1282175,
       "num": 390085,
       "word": "阳了",
       "onboard_time": 1683115648,
       "rank": 10,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 1268981,
-      "num": 511650,
-      "word": "郭珍霓",
-      "onboard_time": 1683196768,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1236574,
@@ -208,6 +216,14 @@
       "word": "张紫宁向粉丝道歉",
       "onboard_time": 1683165026,
       "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 1084877,
+      "num": 592336,
+      "word": "许嵩台上唱歌冯禧台下笑",
+      "onboard_time": 1683197726,
+      "rank": 7,
       "category": "音乐"
     },
     {
@@ -283,12 +299,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 790481,
-      "num": 492925,
-      "word": "巴厘岛命案",
-      "onboard_time": 1683198386,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 778169,
+      "num": 357316,
+      "word": "小S摘隐形眼镜伤到眼睛",
+      "onboard_time": 1683198687,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 766124,
@@ -379,14 +395,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 592336,
-      "num": 592336,
-      "word": "许嵩台上唱歌冯禧台下笑",
-      "onboard_time": 1683197726,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 578230,
       "num": 578230,
       "word": "不会真有公司五四不放假吧",
@@ -451,6 +459,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 530683,
+      "num": 530683,
+      "word": "听过领导最没水平的一句话",
+      "onboard_time": 1683196407,
+      "rank": 47,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 529382,
       "num": 529382,
       "word": "爱过你的女生 分手是蓄谋已久的",
@@ -513,14 +529,6 @@
       "onboard_time": 1683165449,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 474737,
-      "num": 474737,
-      "word": "听过领导最没水平的一句话",
-      "onboard_time": 1683196407,
-      "rank": 47,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 467027,
@@ -779,6 +787,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 325964,
+      "num": 325964,
+      "word": "张学友探班周杰伦",
+      "onboard_time": 1683199709,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325458,
       "num": 325458,
       "word": "宝应地震",
@@ -859,6 +875,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287147,
+      "num": 201279,
+      "word": "提离职前一周被领导裁掉",
+      "onboard_time": 1683198626,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 284854,
       "num": 271258,
       "word": "杨洋同学会好嗨",
@@ -881,6 +905,14 @@
       "onboard_time": 1683165328,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 279344,
+      "num": 279344,
+      "word": "金晨也去吃淄博烧烤了",
+      "onboard_time": 1683198449,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 278924,
@@ -907,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270400,
+      "num": 270400,
+      "word": "王俊凯素颜彩排",
+      "onboard_time": 1683198207,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 269915,
       "num": 269915,
       "word": "上班第一天",
@@ -929,6 +969,14 @@
       "onboard_time": 1683120511,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264979,
+      "num": 264979,
+      "word": "种地吧成员开公司痛失艺名",
+      "onboard_time": 1683197306,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 261301,
@@ -1043,6 +1091,14 @@
       "category": "网红,动漫"
     },
     {
+      "raw_hot": 230792,
+      "num": 196827,
+      "word": "李飞你中控了毛线",
+      "onboard_time": 1683198087,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227483,
       "num": 227483,
       "word": "去没去过成都的都沉默了",
@@ -1051,12 +1107,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226131,
-      "num": 226131,
-      "word": "种地吧成员开公司痛失艺名",
-      "onboard_time": 1683197306,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 224513,
+      "num": 224513,
+      "word": "江阴枪击案受害人家属发声",
+      "onboard_time": 1683197489,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220763,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1683158068,
       "rank": 27,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 216328,
+      "num": 216328,
+      "word": "SEVENTEEN一位",
+      "onboard_time": 1683198989,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 216134,
@@ -1171,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199204,
-      "num": 186739,
-      "word": "江阴枪击案受害人家属发声",
-      "onboard_time": 1683197489,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198879,
       "num": 198879,
       "word": "假如公司让你带薪休假一年",
@@ -1219,28 +1275,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195370,
-      "num": 186640,
-      "word": "李飞你中控了毛线",
-      "onboard_time": 1683198087,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 193344,
       "num": 193344,
       "word": "五四精神传承有我",
       "onboard_time": 1683162090,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192399,
-      "num": 186316,
-      "word": "王俊凯素颜彩排",
-      "onboard_time": 1683198207,
-      "rank": 32,
-      "category": "影视"
     },
     {
       "raw_hot": 191629,
@@ -1265,14 +1305,6 @@
       "onboard_time": 1683177332,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 187477,
-      "num": 187477,
-      "word": "金晨也去吃淄博烧烤了",
-      "onboard_time": 1683198449,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 186886,
@@ -1419,20 +1451,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161657,
+      "num": 161657,
+      "word": "北电教师评王一博深入角色",
+      "onboard_time": 1683199169,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 160429,
       "num": 160429,
       "word": "俄乌局势新进展",
       "onboard_time": 1683131425,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 160194,
-      "num": 160194,
-      "word": "提离职前一周被领导裁掉",
-      "onboard_time": 1683198626,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 158436,
@@ -1473,14 +1505,6 @@
       "onboard_time": 1683127052,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154222,
-      "num": 154222,
-      "word": "小S摘隐形眼镜伤到眼睛",
-      "onboard_time": 1683198687,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 153442,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1683125131,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136910,
+      "num": 136910,
+      "word": "中国游客透露巴厘岛命案细节",
+      "onboard_time": 1683199649,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135217,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1683147431,
       "rank": 44,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 96157,
+      "num": 110402,
+      "word": "宋茜新剧收视全时段卫视第一",
+      "onboard_time": 1683199888,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 96032,
