@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683207273690,
+  "endTime": 1683209770711,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -40,6 +40,14 @@
       "word": "女演员晒裸照反击黑客勒索",
       "onboard_time": 1682917650,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3457258,
+      "num": 380782,
+      "word": "文章 对是我",
+      "onboard_time": 1683208174,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1478651,
+      "num": 1478651,
+      "word": "薛之谦又是站票回去的",
+      "onboard_time": 1683204691,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1471230,
       "num": 1235358,
       "word": "至少已有12名发声者指控史航性骚扰",
@@ -601,14 +617,6 @@
       "onboard_time": 1683157886,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1351439,
-      "num": 1351439,
-      "word": "薛之谦又是站票回去的",
-      "onboard_time": 1683204691,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1350820,
@@ -1651,6 +1659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 601101,
+      "num": 601101,
+      "word": "CBA",
+      "onboard_time": 1682942908,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 595131,
       "num": 431375,
       "word": "饥饿游戏女演员 女王行为",
@@ -1881,6 +1897,14 @@
       "onboard_time": 1683202589,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 535931,
+      "num": 535931,
+      "word": "任敏古风珍珠妆",
+      "onboard_time": 1683205168,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 531871,
@@ -2475,6 +2499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 420439,
+      "num": 420439,
+      "word": "肖战如梦之梦",
+      "onboard_time": 1683205894,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 418241,
       "num": 255021,
       "word": "6人吃了30盘自助小龙虾惊动店长",
@@ -2707,6 +2739,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394095,
+      "num": 334894,
+      "word": "卡琳娜",
+      "onboard_time": 1683008667,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 393805,
       "num": 393805,
       "word": "长沙夜生活导演谈排片惨淡",
@@ -2721,14 +2761,6 @@
       "onboard_time": 1683182609,
       "rank": 13,
       "category": "社会新闻,社会新闻"
-    },
-    {
-      "raw_hot": 390119,
-      "num": 390119,
-      "word": "肖战如梦之梦",
-      "onboard_time": 1683205894,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 388983,
@@ -2776,6 +2808,14 @@
       "word": "广州圣心大教堂石碑碎了",
       "onboard_time": 1682865334,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383452,
+      "num": 383452,
+      "word": "杭州高价打捞手机为自导自演",
+      "onboard_time": 1683207572,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2939,14 +2979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363421,
-      "num": 363421,
-      "word": "任敏古风珍珠妆",
-      "onboard_time": 1683205168,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 362845,
       "num": 362845,
       "word": "房价房租倒挂",
@@ -2977,6 +3009,14 @@
       "onboard_time": 1682849906,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354513,
+      "num": 354513,
+      "word": "王楚然白裙油画少女",
+      "onboard_time": 1683204332,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 351874,
@@ -3011,6 +3051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 350831,
+      "num": 333998,
+      "word": "吃完榴莲千万别碰这些食物",
+      "onboard_time": 1683207453,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 350208,
       "num": 350208,
       "word": "四川宜宾4.5级地震",
@@ -3025,6 +3073,14 @@
       "onboard_time": 1683014486,
       "rank": 17,
       "category": "影视"
+    },
+    {
+      "raw_hot": 347768,
+      "num": 347768,
+      "word": "蔡徐坤和碧梨MetGala合影",
+      "onboard_time": 1683204993,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 347415,
@@ -3107,6 +3163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340433,
+      "num": 340433,
+      "word": "淄博烧烤新副本被发现了",
+      "onboard_time": 1683205471,
+      "rank": 33,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 339177,
       "num": 339177,
       "word": "傅卫军 助听器是偷来的",
@@ -3169,14 +3233,6 @@
       "onboard_time": 1682946271,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 335005,
-      "num": 271461,
-      "word": "王楚然白裙油画少女",
-      "onboard_time": 1683204332,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 334101,
@@ -3387,6 +3443,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 317338,
+      "num": 317338,
+      "word": "宋茜人缘",
+      "onboard_time": 1683209196,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 316514,
       "num": 316514,
       "word": "宋亚轩肩上是破裤子吗",
@@ -3563,14 +3627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303208,
-      "num": 303208,
-      "word": "卡琳娜",
-      "onboard_time": 1683008667,
-      "rank": 24,
-      "category": "网红"
-    },
-    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "五一",
@@ -3593,6 +3649,14 @@
       "onboard_time": 1683036640,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298587,
+      "num": 298587,
+      "word": "巴厘岛身亡两中国公民身份确认",
+      "onboard_time": 1683206132,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298468,
@@ -3785,14 +3849,6 @@
       "onboard_time": 1682907808,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 280733,
-      "num": 265068,
-      "word": "蔡徐坤和碧梨MetGala合影",
-      "onboard_time": 1683204993,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 280388,
@@ -4387,6 +4443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247172,
+      "num": 247172,
+      "word": "刘昱晗林志颖仲天骐出场对比",
+      "onboard_time": 1683208055,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246782,
       "num": 246782,
       "word": "487",
@@ -4561,22 +4625,6 @@
       "onboard_time": 1683042930,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239621,
-      "num": 239621,
-      "word": "CBA",
-      "onboard_time": 1682942908,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 239489,
-      "num": 239489,
-      "word": "淄博烧烤新副本被发现了",
-      "onboard_time": 1683205471,
-      "rank": 33,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 239288,
@@ -4939,6 +4987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 226436,
+      "num": 226436,
+      "word": "这是什么特种兵",
+      "onboard_time": 1683208471,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226382,
       "num": 226382,
       "word": "白鹿黄霄雲合唱长月烬明主题曲",
@@ -4976,6 +5032,14 @@
       "word": "张新成演技",
       "onboard_time": 1682917708,
       "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 224323,
+      "num": 224323,
+      "word": "朱一龙最受大学生欢迎男演员",
+      "onboard_time": 1683207692,
+      "rank": 32,
       "category": "影视"
     },
     {
@@ -5531,14 +5595,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 205025,
-      "num": 205025,
-      "word": "巴厘岛身亡两中国公民身份确认",
-      "onboard_time": 1683206132,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204990,
       "num": 204990,
       "word": "五一快乐",
@@ -5729,6 +5785,14 @@
       "onboard_time": 1683175176,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198578,
+      "num": 232555,
+      "word": "巴厘岛命案涉事酒店用探测仪排雷",
+      "onboard_time": 1683206853,
+      "rank": 43,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 198303,
@@ -6795,6 +6859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166332,
+      "num": 166332,
+      "word": "接吻要闭眼的原因找到了",
+      "onboard_time": 1683201807,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166300,
       "num": 166300,
       "word": "陈晓云襄传帅不过3秒",
@@ -7131,20 +7203,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155662,
+      "num": 155662,
+      "word": "BLG对战GG",
+      "onboard_time": 1683207332,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155495,
       "num": 155495,
       "word": "王源流星也为你落下来了巡演舞台",
       "onboard_time": 1683011426,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 155296,
-      "num": 155296,
-      "word": "接吻要闭眼的原因找到了",
-      "onboard_time": 1683201807,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 154754,
@@ -7425,14 +7497,6 @@
       "onboard_time": 1682956647,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142557,
-      "num": 142557,
-      "word": "巴厘岛命案涉事酒店用探测仪排雷",
-      "onboard_time": 1683206853,
-      "rank": 43,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 141552,
@@ -8073,6 +8137,14 @@
       "onboard_time": 1682906130,
       "rank": 46,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 117418,
+      "num": 117418,
+      "word": "虞书欣谢可寅林小宅聚餐合照",
+      "onboard_time": 1683209734,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 116805,
