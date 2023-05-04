@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683185610711,
+  "endTime": 1683188493399,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -603,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1307290,
+      "num": 1307290,
+      "word": "全员加速中",
+      "onboard_time": 1683184948,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1298777,
       "num": 386107,
       "word": "工资3500突然变成了一万",
@@ -705,6 +713,14 @@
       "onboard_time": 1682911468,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1188795,
+      "num": 399628,
+      "word": "唐嫣中戏同学聚会",
+      "onboard_time": 1683186750,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1181137,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1682909789,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 794413,
+      "num": 794413,
+      "word": "亚运会 名单",
+      "onboard_time": 1683186210,
+      "rank": 4,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 788619,
@@ -2483,6 +2507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392660,
+      "num": 392660,
+      "word": "杨幂 酱园弄",
+      "onboard_time": 1683187168,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 390904,
       "num": 390904,
       "word": "雅安地震",
@@ -3355,14 +3387,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 291620,
-      "num": 291620,
-      "word": "全员加速中",
-      "onboard_time": 1683184948,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 290697,
       "num": 288334,
       "word": "言承旭徐若晗二搭",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1682943390,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289877,
+      "num": 289877,
+      "word": "于正说我捧的人都火了",
+      "onboard_time": 1683188011,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 289244,
@@ -3401,6 +3433,14 @@
       "onboard_time": 1682906789,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288803,
+      "num": 288803,
+      "word": "五四不放假要发加班费吗",
+      "onboard_time": 1683185671,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287974,
@@ -4947,6 +4987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 209669,
+      "num": 209669,
+      "word": "张杰华晨宇首次合作",
+      "onboard_time": 1683187768,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209296,
       "num": 209296,
       "word": "动车走一半超重停了",
@@ -6107,6 +6155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170744,
+      "num": 170744,
+      "word": "金牛座和射手座的边界感共鸣",
+      "onboard_time": 1683184888,
+      "rank": 44,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 170652,
       "num": 170652,
       "word": "朝俞",
@@ -6483,6 +6539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158742,
+      "num": 158742,
+      "word": "王嘉尔和粉丝十指相扣合照",
+      "onboard_time": 1683187408,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158726,
       "num": 158726,
       "word": "长沙YOLO",
@@ -6795,6 +6859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144600,
+      "num": 144600,
+      "word": "7岁女孩为捐髓救母拼命吃到80斤",
+      "onboard_time": 1683187588,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144534,
       "num": 144534,
       "word": "时代少年团演唱会安检储存物被扔",
@@ -6819,16 +6891,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 142297,
-      "num": 142297,
-      "word": "金牛座和射手座的边界感共鸣",
-      "onboard_time": 1683184888,
-      "rank": 44,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 141552,
-      "num": 141552,
+      "num": 369321,
       "word": "什么样的青春才是鲜活的",
       "onboard_time": 1683184107,
       "rank": 44,
@@ -7057,6 +7121,14 @@
       "onboard_time": 1683159990,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130362,
+      "num": 130362,
+      "word": "性骚扰取证有多难",
+      "onboard_time": 1683187649,
+      "rank": 46,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 129928,
@@ -8059,6 +8131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52216,
+      "num": 820520,
+      "word": "对青春最好的致敬是成为更好的自己",
+      "onboard_time": 1683186928,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52159,
       "num": 52159,
       "word": "郭顶现场",
@@ -8225,6 +8305,14 @@
       "onboard_time": 1682969413,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25381,
+      "num": 157424,
+      "word": "运动场上的青年说",
+      "onboard_time": 1683187228,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 19663,
