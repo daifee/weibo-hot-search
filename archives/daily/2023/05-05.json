@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683239605374,
+  "endTime": 1683242280478,
   "band_list": [
     {
       "raw_hot": 1280160,
@@ -51,20 +51,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 619409,
+      "num": 619409,
+      "word": "巴厘岛身亡两中国公民身份确认",
+      "onboard_time": 1683206132,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 523999,
+      "num": 523999,
+      "word": "高铁上的一声姐姐花了我35元",
+      "onboard_time": 1683209855,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 510989,
       "num": 510989,
       "word": "郭晓婷的发量",
       "onboard_time": 1683213870,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 442567,
-      "num": 442567,
-      "word": "高铁上的一声姐姐花了我35元",
-      "onboard_time": 1683209855,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 407392,
@@ -83,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 367466,
+      "num": 242670,
+      "word": "好友称巴厘岛命案死者正环游世界",
+      "onboard_time": 1683216689,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355236,
       "num": 314701,
       "word": "Jennie的肤色好辣",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 335936,
-      "num": 220313,
+      "num": 231278,
       "word": "过半网友认为插队婆孙被当车贴合适",
       "onboard_time": 1683229632,
       "rank": 22,
@@ -123,12 +139,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308878,
+      "num": 223669,
+      "word": "扒光男童上衣女幼师被拘留8天",
+      "onboard_time": 1683241280,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292301,
+      "num": 292301,
+      "word": "请撕下插队婆孙表情包",
+      "onboard_time": 1683220698,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291885,
       "num": 291885,
       "word": "宋茜人缘",
       "onboard_time": 1683209196,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 289609,
+      "num": 289609,
+      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
+      "onboard_time": 1683227292,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285624,
@@ -139,19 +179,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237614,
-      "num": 237614,
+      "raw_hot": 278596,
+      "num": 278596,
+      "word": "姜思达下架史航事件播客",
+      "onboard_time": 1683241880,
+      "rank": 8,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 255423,
+      "num": 255423,
       "word": "胡锡进说贴插队婆孙车贴很恶心",
       "onboard_time": 1683217045,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231708,
-      "num": 323292,
-      "word": "巴厘岛身亡两中国公民身份确认",
-      "onboard_time": 1683206132,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -171,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219043,
+      "num": 219043,
+      "word": "男子头疼自己在家针灸扎破心脏",
+      "onboard_time": 1683235092,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215587,
       "num": 215587,
       "word": "许嵩台上唱歌冯禧台下笑",
@@ -187,11 +235,19 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 196294,
-      "num": 177117,
-      "word": "好友称巴厘岛命案死者正环游世界",
-      "onboard_time": 1683216689,
-      "rank": 37,
+      "raw_hot": 201723,
+      "num": 201723,
+      "word": "杭州西湖水域不允许擅自下水",
+      "onboard_time": 1683236111,
+      "rank": 7,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 188419,
+      "num": 188419,
+      "word": "淄博鸭头小哥直播中气到落泪",
+      "onboard_time": 1683241280,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -203,19 +259,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182907,
-      "num": 181592,
-      "word": "请撕下插队婆孙表情包",
-      "onboard_time": 1683220698,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181475,
       "num": 181475,
       "word": "陈晓太会亲了吧",
       "onboard_time": 1683211177,
       "rank": 24,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 180014,
+      "num": 142564,
+      "word": "许晴如梦之梦顾香兰",
+      "onboard_time": 1683241460,
+      "rank": 20,
       "category": "影视"
     },
     {
@@ -267,14 +323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 154785,
-      "num": 154785,
-      "word": "杭州西湖水域不允许擅自下水",
-      "onboard_time": 1683236111,
-      "rank": 7,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 152513,
       "num": 152513,
       "word": "澹台烬为自己刻好了墓碑",
@@ -307,22 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127080,
-      "num": 127080,
-      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
-      "onboard_time": 1683227292,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126789,
-      "num": 105611,
-      "word": "男子头疼自己在家针灸扎破心脏",
-      "onboard_time": 1683235092,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120793,
       "num": 98554,
       "word": "健康的羞耻感",
@@ -337,6 +369,14 @@
       "onboard_time": 1683213454,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117595,
+      "num": 117595,
+      "word": "人和香蕉的基因有50%相似",
+      "onboard_time": 1683228553,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 115849,
@@ -369,6 +409,14 @@
       "onboard_time": 1683205471,
       "rank": 40,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 101147,
+      "num": 101147,
+      "word": "韩总统称要懂得对美国感恩",
+      "onboard_time": 1683231191,
+      "rank": 26,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 101052,
@@ -427,6 +475,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 79462,
+      "num": 79462,
+      "word": "男子被流浪狗咬伤后踩死4只幼崽",
+      "onboard_time": 1683222618,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76072,
+      "num": 76072,
+      "word": "那不勒斯夺得意甲冠军",
+      "onboard_time": 1683241639,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75508,
       "num": 74166,
       "word": "上班挣的钱是窝囊费",
@@ -451,11 +515,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 69823,
-      "num": 69823,
-      "word": "男子被流浪狗咬伤后踩死4只幼崽",
-      "onboard_time": 1683222618,
-      "rank": 22,
+      "raw_hot": 69990,
+      "num": 69990,
+      "word": "南京的雨是倒下来的水吧",
+      "onboard_time": 1683241280,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -467,12 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48546,
-      "num": 48546,
-      "word": "韩总统称要懂得对美国感恩",
-      "onboard_time": 1683231191,
-      "rank": 26,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 58895,
+      "num": 58895,
+      "word": "这是什么特种兵",
+      "onboard_time": 1683208471,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 58803,
+      "num": 58803,
+      "word": "布莱顿1比0曼联",
+      "onboard_time": 1683241762,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 48489,
@@ -481,14 +553,6 @@
       "onboard_time": 1683201028,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48348,
-      "num": 48348,
-      "word": "人和香蕉的基因有50%相似",
-      "onboard_time": 1683228553,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 42009,
@@ -505,14 +569,6 @@
       "onboard_time": 1683222135,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 31369,
-      "num": 32125,
-      "word": "这是什么特种兵",
-      "onboard_time": 1683208471,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 27402,
