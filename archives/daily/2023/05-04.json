@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683192832063,
+  "endTime": 1683195500256,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2878992,
-      "num": 373946,
+      "num": 443736,
       "word": "唐嫣旁边是文章吗",
       "onboard_time": 1683191309,
       "rank": 10,
@@ -203,8 +203,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 963799,
+      "num": 963799,
+      "word": "上海的垃圾桶到底在哪里",
+      "onboard_time": 1683188968,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 959798,
-      "num": 390011,
+      "num": 429694,
       "word": "于正说我捧的人都火了",
       "onboard_time": 1683188011,
       "rank": 17,
@@ -259,14 +267,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 783115,
-      "num": 783115,
-      "word": "上海的垃圾桶到底在哪里",
-      "onboard_time": 1683188968,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 766124,
       "num": 766124,
       "word": "秦昊说杨幂会给你们不一样的惊喜",
@@ -281,6 +281,14 @@
       "onboard_time": 1683156984,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 758366,
+      "num": 758366,
+      "word": "因为我的原因妈妈被辞退了",
+      "onboard_time": 1683189449,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 753152,
@@ -355,14 +363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 568946,
-      "num": 359370,
-      "word": "因为我的原因妈妈被辞退了",
-      "onboard_time": 1683189449,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 561370,
       "num": 561370,
       "word": "阿根廷队确定6月份访华",
@@ -433,6 +433,14 @@
       "onboard_time": 1683173192,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503841,
+      "num": 423534,
+      "word": "小说里刀削般的面容找到了",
+      "onboard_time": 1683193226,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 498252,
@@ -513,6 +521,14 @@
       "onboard_time": 1683172170,
       "rank": 18,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 422563,
+      "num": 422563,
+      "word": "活该淄博爆火",
+      "onboard_time": 1683192868,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 413714,
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 361077,
+      "num": 361077,
+      "word": "丝芭传媒申请限消冯薪朵",
+      "onboard_time": 1683193167,
+      "rank": 16,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 351874,
       "num": 351874,
       "word": "白鹿男人风尚杂志封面",
@@ -649,6 +673,14 @@
       "onboard_time": 1683104970,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343184,
+      "num": 1001490,
+      "word": "7岁女孩为捐髓救母拼命吃到80斤",
+      "onboard_time": 1683187588,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342209,
@@ -971,6 +1003,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 220758,
+      "num": 220758,
+      "word": "金晨郭麒麟想去淄博吃烧烤",
+      "onboard_time": 1683194066,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
       "raw_hot": 220455,
       "num": 220455,
       "word": "五月天什么时候开票",
@@ -995,20 +1035,20 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 217193,
-      "num": 217193,
-      "word": "7岁女孩为捐髓救母拼命吃到80斤",
-      "onboard_time": 1683187588,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216134,
       "num": 216134,
       "word": "不良人",
       "onboard_time": 1683168327,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 211326,
+      "num": 832575,
+      "word": "90后姑娘帮上万名村民喝上安全的水",
+      "onboard_time": 1683193827,
+      "rank": 4,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 211313,
@@ -1115,6 +1155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191496,
+      "num": 191496,
+      "word": "去没去过成都的都沉默了",
+      "onboard_time": 1683194547,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191248,
       "num": 191248,
       "word": "eso瘦子",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1683177332,
       "rank": 49,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188530,
+      "num": 622038,
+      "word": "变音也能听出你努力忍住的哭腔",
+      "onboard_time": 1683193827,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186886,
@@ -1153,6 +1209,14 @@
       "onboard_time": 1683191427,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180597,
+      "num": 180597,
+      "word": "周也男主运",
+      "onboard_time": 1683192270,
+      "rank": 33,
+      "category": "影视"
     },
     {
       "raw_hot": 177083,
@@ -1217,6 +1281,14 @@
       "onboard_time": 1683102869,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 171695,
+      "num": 171695,
+      "word": "许魏洲出发图是AI生成的",
+      "onboard_time": 1683194787,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170990,
@@ -1305,14 +1377,6 @@
       "onboard_time": 1683127052,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154231,
-      "num": 154231,
-      "word": "周也男主运",
-      "onboard_time": 1683192270,
-      "rank": 33,
-      "category": "影视"
     },
     {
       "raw_hot": 153442,
@@ -1724,7 +1788,7 @@
     },
     {
       "raw_hot": 70341,
-      "num": 895970,
+      "num": 981650,
       "word": "对青春最好的致敬是成为更好的自己",
       "onboard_time": 1683186928,
       "rank": 2,

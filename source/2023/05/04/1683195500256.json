@@ -1,0 +1,410 @@
+{
+  "runTime": 1683195500256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153671,
+        "num": 1153671,
+        "word": "领事馆确认两中国公民在巴厘岛身亡",
+        "onboard_time": 1683177561,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 343184,
+        "num": 1001490,
+        "word": "7岁女孩为捐髓救母拼命吃到80斤",
+        "onboard_time": 1683187588,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50334,
+        "num": 981650,
+        "word": "对青春最好的致敬是成为更好的自己",
+        "onboard_time": 1683186928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963799,
+        "num": 963799,
+        "word": "上海的垃圾桶到底在哪里",
+        "onboard_time": 1683188968,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211326,
+        "num": 832575,
+        "word": "90后姑娘帮上万名村民喝上安全的水",
+        "onboard_time": 1683193827,
+        "rank": 4,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 758366,
+        "num": 758366,
+        "word": "因为我的原因妈妈被辞退了",
+        "onboard_time": 1683189449,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188530,
+        "num": 622038,
+        "word": "变音也能听出你努力忍住的哭腔",
+        "onboard_time": 1683193827,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587774,
+        "num": 587774,
+        "word": "全员加速中",
+        "onboard_time": 1683184948,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461561,
+        "num": 461561,
+        "word": "人民网评长空之王",
+        "onboard_time": 1683190168,
+        "rank": 8,
+        "category": "影视,国内要闻"
+      },
+      {
+        "raw_hot": 445896,
+        "num": 445896,
+        "word": "亚运会 名单",
+        "onboard_time": 1683186210,
+        "rank": 9,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 2025257,
+        "num": 443736,
+        "word": "唐嫣旁边是文章吗",
+        "onboard_time": 1683191309,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1033233,
+        "num": 439810,
+        "word": "警方回应江苏江阴发生枪击事件",
+        "onboard_time": 1683180207,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647672,
+        "num": 429694,
+        "word": "于正说我捧的人都火了",
+        "onboard_time": 1683188011,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503841,
+        "num": 423534,
+        "word": "小说里刀削般的面容找到了",
+        "onboard_time": 1683193226,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422563,
+        "num": 422563,
+        "word": "活该淄博爆火",
+        "onboard_time": 1683192868,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 375353,
+        "num": 375353,
+        "word": "淄博烧烤老板从门洞露脸问人多不多",
+        "onboard_time": 1683174395,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 361077,
+        "num": 361077,
+        "word": "丝芭传媒申请限消冯薪朵",
+        "onboard_time": 1683193167,
+        "rank": 16,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 338366,
+        "num": 338366,
+        "word": "媒体评插队婆孙被做成恶搞表情包",
+        "onboard_time": 1683169227,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297719,
+        "num": 297719,
+        "word": "周杰伦申请限消痘博士",
+        "onboard_time": 1683178107,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272469,
+        "num": 272469,
+        "word": "突然得知暗恋对象资产上亿",
+        "onboard_time": 1683170370,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300300,
+        "num": 271130,
+        "word": "情侣产子后分手老人帮带娃8年",
+        "onboard_time": 1683178885,
+        "rank": 20,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 269783,
+        "num": 269783,
+        "word": "长月烬明带动蚌埠五一旅游经济暴增",
+        "onboard_time": 1683189088,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 245296,
+        "num": 245296,
+        "word": "赵丽颖一秒听出谢娜的声音",
+        "onboard_time": 1683173677,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244702,
+        "num": 244702,
+        "word": "当我和妈妈说离婚了",
+        "onboard_time": 1683164309,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228809,
+        "num": 228809,
+        "word": "律师谈编剧史航被指性骚扰",
+        "onboard_time": 1683189268,
+        "rank": 24,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 220758,
+        "num": 220758,
+        "word": "金晨郭麒麟想去淄博吃烧烤",
+        "onboard_time": 1683194066,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217812,
+        "num": 217812,
+        "word": "工藤新一",
+        "onboard_time": 1683157045,
+        "rank": 26,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 209594,
+        "num": 209594,
+        "word": "杨幂 酱园弄",
+        "onboard_time": 1683187168,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195057,
+        "num": 195057,
+        "word": "史航事件当事人再发声",
+        "onboard_time": 1683175896,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 191496,
+        "num": 191496,
+        "word": "去没去过成都的都沉默了",
+        "onboard_time": 1683194547,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186326,
+        "num": 186326,
+        "word": "男友视角下的关晓彤",
+        "onboard_time": 1683183449,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 186231,
+        "num": 186231,
+        "word": "张杰华晨宇首次合作",
+        "onboard_time": 1683187768,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180597,
+        "num": 180597,
+        "word": "周也男主运",
+        "onboard_time": 1683192270,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171695,
+        "num": 171695,
+        "word": "许魏洲出发图是AI生成的",
+        "onboard_time": 1683194787,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171467,
+        "num": 171467,
+        "word": "卡琳娜好帅",
+        "onboard_time": 1683185550,
+        "rank": 34,
+        "category": "网红,动漫"
+      },
+      {
+        "raw_hot": 171159,
+        "num": 171159,
+        "word": "常年不吃碳水的人怎么样了",
+        "onboard_time": 1683122072,
+        "rank": 35,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 162479,
+        "num": 162479,
+        "word": "五四不放假要发加班费吗",
+        "onboard_time": 1683185671,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152337,
+        "num": 152337,
+        "word": "新冠",
+        "onboard_time": 1683175472,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145391,
+        "num": 145391,
+        "word": "旅行七天和老公吵了五次",
+        "onboard_time": 1683157886,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143386,
+        "num": 143386,
+        "word": "帅气警犬遇上漂亮萨摩耶",
+        "onboard_time": 1683191128,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142167,
+        "num": 142167,
+        "word": "罗云熙片场自己补妆",
+        "onboard_time": 1683191549,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128945,
+        "num": 128945,
+        "word": "王嘉尔和粉丝十指相扣合照",
+        "onboard_time": 1683187408,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125358,
+        "num": 125358,
+        "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
+        "onboard_time": 1683154941,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121138,
+        "num": 121138,
+        "word": "巴厘岛",
+        "onboard_time": 1683183388,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117965,
+        "num": 117965,
+        "word": "女子请年假因新入职不满一年被拒",
+        "onboard_time": 1683178589,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115798,
+        "num": 115798,
+        "word": "网传江苏江阴发生枪击",
+        "onboard_time": 1683181946,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114664,
+        "num": 114664,
+        "word": "金牛座和射手座的边界感共鸣",
+        "onboard_time": 1683184888,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 111473,
+        "num": 111473,
+        "word": "广东专插本",
+        "onboard_time": 1683188667,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 105663,
+        "num": 105663,
+        "word": "五四放假通知",
+        "onboard_time": 1683160949,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104125,
+        "num": 104125,
+        "word": "当cp粉被保安要求打开横幅",
+        "onboard_time": 1683176373,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#青春中国#"
+    }
+  }
+}
