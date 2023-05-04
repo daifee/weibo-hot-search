@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683242280478,
+  "endTime": 1683243231322,
   "band_list": [
     {
       "raw_hot": 1280160,
@@ -19,12 +19,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 923242,
+      "num": 923242,
+      "word": "扒光男童上衣女幼师被拘留8天",
+      "onboard_time": 1683241280,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902493,
-      "num": 315158,
+      "num": 331799,
       "word": "女子刷短视频刷到老公和小三约会",
       "onboard_time": 1683210937,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 888060,
+      "num": 888060,
+      "word": "巴厘岛身亡两中国公民身份确认",
+      "onboard_time": 1683206132,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874821,
+      "num": 874821,
+      "word": "姜思达下架史航事件播客",
+      "onboard_time": 1683241880,
+      "rank": 8,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 817189,
@@ -51,16 +75,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 619409,
-      "num": 619409,
-      "word": "巴厘岛身亡两中国公民身份确认",
-      "onboard_time": 1683206132,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523999,
-      "num": 523999,
+      "raw_hot": 602675,
+      "num": 602675,
       "word": "高铁上的一声姐姐花了我35元",
       "onboard_time": 1683209855,
       "rank": 5,
@@ -73,6 +89,14 @@
       "onboard_time": 1683213870,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 413936,
+      "num": 413936,
+      "word": "淄博鸭头小哥直播中气到落泪",
+      "onboard_time": 1683241280,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407392,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 367466,
-      "num": 242670,
+      "num": 318140,
       "word": "好友称巴厘岛命案死者正环游世界",
       "onboard_time": 1683216689,
       "rank": 37,
@@ -108,10 +132,26 @@
     },
     {
       "raw_hot": 335936,
-      "num": 231278,
+      "num": 320782,
       "word": "过半网友认为插队婆孙被当车贴合适",
       "onboard_time": 1683229632,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333776,
+      "num": 333776,
+      "word": "请撕下插队婆孙表情包",
+      "onboard_time": 1683220698,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328622,
+      "num": 328622,
+      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
+      "onboard_time": 1683227292,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -139,22 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308878,
-      "num": 223669,
-      "word": "扒光男童上衣女幼师被拘留8天",
-      "onboard_time": 1683241280,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292301,
-      "num": 292301,
-      "word": "请撕下插队婆孙表情包",
-      "onboard_time": 1683220698,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291885,
       "num": 291885,
       "word": "宋茜人缘",
@@ -163,28 +187,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 289609,
-      "num": 289609,
-      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
-      "onboard_time": 1683227292,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285624,
       "num": 285624,
       "word": "郭珍霓",
       "onboard_time": 1683196768,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278596,
-      "num": 278596,
-      "word": "姜思达下架史航事件播客",
-      "onboard_time": 1683241880,
-      "rank": 8,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 255423,
@@ -241,14 +249,6 @@
       "onboard_time": 1683236111,
       "rank": 7,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 188419,
-      "num": 188419,
-      "word": "淄博鸭头小哥直播中气到落泪",
-      "onboard_time": 1683241280,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187606,
@@ -339,12 +339,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 143338,
+      "num": 143338,
+      "word": "人和香蕉的基因有50%相似",
+      "onboard_time": 1683228553,
+      "rank": 44,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 140936,
       "num": 140936,
       "word": "吃完榴莲千万别碰这些食物",
       "onboard_time": 1683207453,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 138639,
+      "num": 138639,
+      "word": "韩总统称要懂得对美国感恩",
+      "onboard_time": 1683231191,
+      "rank": 26,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 128864,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121856,
+      "num": 121856,
+      "word": "南京的雨是倒下来的水吧",
+      "onboard_time": 1683241280,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120793,
       "num": 98554,
       "word": "健康的羞耻感",
@@ -363,20 +387,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118974,
+      "num": 118974,
+      "word": "那不勒斯夺得意甲冠军",
+      "onboard_time": 1683241639,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117828,
       "num": 117828,
       "word": "LGD晋级败者组半决赛",
       "onboard_time": 1683213454,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117595,
-      "num": 117595,
-      "word": "人和香蕉的基因有50%相似",
-      "onboard_time": 1683228553,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 115849,
@@ -395,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113508,
+      "num": 113508,
+      "word": "央华版如梦之梦十周年",
+      "onboard_time": 1683243145,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111995,
       "num": 111995,
       "word": "Hero止步季后赛",
@@ -411,12 +443,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 101147,
-      "num": 101147,
-      "word": "韩总统称要懂得对美国感恩",
-      "onboard_time": 1683231191,
-      "rank": 26,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 101700,
+      "num": 101700,
+      "word": "男子被流浪狗咬伤后踩死4只幼崽",
+      "onboard_time": 1683222618,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101052,
@@ -451,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 90537,
+      "num": 90537,
+      "word": "为什么吃辣容易拉肚子",
+      "onboard_time": 1683242785,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 90409,
       "num": 90409,
       "word": "蔡徐坤和碧梨MetGala合影",
@@ -475,22 +515,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 79462,
-      "num": 79462,
-      "word": "男子被流浪狗咬伤后踩死4只幼崽",
-      "onboard_time": 1683222618,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76072,
-      "num": 76072,
-      "word": "那不勒斯夺得意甲冠军",
-      "onboard_time": 1683241639,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75508,
       "num": 74166,
       "word": "上班挣的钱是窝囊费",
@@ -507,20 +531,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72938,
+      "num": 72938,
+      "word": "布莱顿1比0曼联",
+      "onboard_time": 1683241762,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72048,
+      "num": 72048,
+      "word": "哪些明星是势头一下子跌下去了",
+      "onboard_time": 1683243145,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70985,
       "num": 70985,
       "word": "第30届大学生电影节红毯",
       "onboard_time": 1683219979,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 69990,
-      "num": 69990,
-      "word": "南京的雨是倒下来的水吧",
-      "onboard_time": 1683241280,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59983,
@@ -531,24 +563,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58895,
-      "num": 58895,
+      "raw_hot": 59626,
+      "num": 59626,
       "word": "这是什么特种兵",
       "onboard_time": 1683208471,
       "rank": 44,
       "category": "幽默"
     },
     {
-      "raw_hot": 58803,
-      "num": 58803,
-      "word": "布莱顿1比0曼联",
-      "onboard_time": 1683241762,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 48489,
-      "num": 656857,
+      "raw_hot": 59064,
+      "num": 877200,
       "word": "藏在这场人从众里的世间温柔",
       "onboard_time": 1683201028,
       "rank": 2,
