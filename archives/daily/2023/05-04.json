@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683181309163,
+  "endTime": 1683182097743,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -155,8 +155,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 977698,
-      "num": 977698,
+      "raw_hot": 1008588,
+      "num": 1008588,
       "word": "周杰伦申请限消痘博士",
       "onboard_time": 1683178107,
       "rank": 35,
@@ -168,6 +168,14 @@
       "word": "西安坠机航司称已联系遇难者家属",
       "onboard_time": 1683130646,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 884770,
+      "num": 884770,
+      "word": "警方回应江苏江阴发生枪击事件",
+      "onboard_time": 1683180207,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -267,20 +275,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 672051,
+      "num": 672051,
+      "word": "领事馆确认两中国公民在巴厘岛身亡",
+      "onboard_time": 1683177561,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 661929,
       "num": 661929,
       "word": "马嘉祺 漏气",
       "onboard_time": 1683159869,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 582049,
-      "num": 510279,
-      "word": "警方回应江苏江阴发生枪击事件",
-      "onboard_time": 1683180207,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 561370,
@@ -329,14 +337,6 @@
       "onboard_time": 1683167726,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 525359,
-      "num": 525359,
-      "word": "领事馆确认两中国公民在巴厘岛身亡",
-      "onboard_time": 1683177561,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 524853,
@@ -595,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305486,
+      "num": 305486,
+      "word": "女子请年假因新入职不满一年被拒",
+      "onboard_time": 1683178589,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297261,
       "num": 297261,
       "word": "没人会比EXO更爱EXO",
@@ -691,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257809,
-      "num": 257809,
-      "word": "女子请年假因新入职不满一年被拒",
-      "onboard_time": 1683178589,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255614,
       "num": 255614,
       "word": "长空之王成五一档总票房冠军",
@@ -747,12 +747,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 245442,
+      "num": 245442,
+      "word": "秦昊老年妆把范伟吓一跳",
+      "onboard_time": 1683180688,
+      "rank": 23,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244905,
       "num": 244905,
       "word": "周迅卓越与好友聚会",
       "onboard_time": 1683170255,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243089,
+      "num": 243089,
+      "word": "不会真有公司五四不放假吧",
+      "onboard_time": 1683180207,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 241652,
@@ -769,22 +785,6 @@
       "onboard_time": 1683107429,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228992,
-      "num": 228992,
-      "word": "秦昊老年妆把范伟吓一跳",
-      "onboard_time": 1683180688,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 228646,
-      "num": 228646,
-      "word": "不会真有公司五四不放假吧",
-      "onboard_time": 1683180207,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 220763,
@@ -827,8 +827,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209971,
-      "num": 209971,
+      "raw_hot": 210993,
+      "num": 210993,
       "word": "爸爸当家2官宣定档",
       "onboard_time": 1683175472,
       "rank": 36,
@@ -915,6 +915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 191248,
+      "num": 191248,
+      "word": "eso瘦子",
+      "onboard_time": 1683180448,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188603,
       "num": 188603,
       "word": "花戎",
@@ -937,14 +945,6 @@
       "onboard_time": 1683130407,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180821,
-      "num": 180821,
-      "word": "eso瘦子",
-      "onboard_time": 1683180448,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 177083,
@@ -979,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173486,
+      "num": 173486,
+      "word": "kms",
+      "onboard_time": 1683178529,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171699,
       "num": 171699,
       "word": "庆余年2真的要开机了",
@@ -987,12 +995,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 165397,
-      "num": 165397,
-      "word": "kms",
-      "onboard_time": 1683178529,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 168825,
+      "num": 168825,
+      "word": "网传江苏江阴发生枪击",
+      "onboard_time": 1683181946,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163577,
@@ -1155,8 +1163,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128769,
-      "num": 128769,
+      "raw_hot": 129928,
+      "num": 129928,
+      "word": "天津音乐节",
+      "onboard_time": 1683178408,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 129390,
+      "num": 129390,
       "word": "不良人一盘棋下了两年",
       "onboard_time": 1683180629,
       "rank": 41,
@@ -1169,6 +1185,14 @@
       "onboard_time": 1683177508,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125210,
+      "num": 125210,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1683181288,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 125129,
@@ -1211,14 +1235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 120082,
-      "num": 120082,
-      "word": "天津音乐节",
-      "onboard_time": 1683178408,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 118250,
       "num": 118250,
       "word": "国宝表达喜欢都快把对方头皮薅秃了",
@@ -1243,6 +1259,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 113582,
+      "num": 113582,
+      "word": "五月天什么时候开票",
+      "onboard_time": 1683181887,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 112878,
       "num": 112878,
       "word": "基辅出动两架无人机袭击克宫未遂",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1683108990,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106728,
-      "num": 106728,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1683181288,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 105311,
@@ -1387,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76811,
+      "num": 364598,
+      "word": "寻找青春的纯与真",
+      "onboard_time": 1683180027,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74905,
       "num": 74905,
       "word": "费曼 为了周杰伦我已阴",
@@ -1401,14 +1425,6 @@
       "onboard_time": 1683084629,
       "rank": 46,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 61954,
-      "num": 364598,
-      "word": "寻找青春的纯与真",
-      "onboard_time": 1683180027,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61298,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1683130582,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 49227,
+      "num": 139494,
+      "word": "那些耐得住不放弃的日子",
+      "onboard_time": 1683180027,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 46418,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1683135736,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 30231,
-      "num": 135427,
-      "word": "那些耐得住不放弃的日子",
-      "onboard_time": 1683180027,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 13676,
