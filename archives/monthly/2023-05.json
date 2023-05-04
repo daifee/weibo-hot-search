@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683213499479,
+  "endTime": 1683214422934,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 1465679,
-      "num": 436032,
+      "num": 438166,
       "word": "小S摘隐形眼镜伤到眼睛",
       "onboard_time": 1683198687,
       "rank": 38,
@@ -907,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1064088,
+      "num": 466706,
+      "word": "女子刷短视频刷到老公和小三约会",
+      "onboard_time": 1683210937,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1056730,
       "num": 661697,
       "word": "黄子韬一年瘦了40多斤",
@@ -947,6 +955,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1042970,
+      "num": 1042970,
+      "word": "高铁上的一声姐姐花了我35元",
+      "onboard_time": 1683209855,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1032685,
       "num": 1032685,
       "word": "胡锡进 把普通人这样发到网上太不应该",
@@ -969,14 +985,6 @@
       "onboard_time": 1683080791,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1025534,
-      "num": 1025534,
-      "word": "高铁上的一声姐姐花了我35元",
-      "onboard_time": 1683209855,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 1011057,
@@ -1017,14 +1025,6 @@
       "onboard_time": 1682991086,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 985411,
-      "num": 323543,
-      "word": "女子刷短视频刷到老公和小三约会",
-      "onboard_time": 1683210937,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 959798,
@@ -1619,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 630338,
+      "num": 274366,
+      "word": "无畏夏天见",
+      "onboard_time": 1683213870,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 627136,
       "num": 410765,
       "word": "杨洋组织同学会",
@@ -1723,12 +1731,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 587748,
+      "num": 463116,
+      "word": "Jennie的肤色好辣",
+      "onboard_time": 1683211114,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 583823,
       "num": 583823,
       "word": "i人已经要不行了",
       "onboard_time": 1683002371,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 583355,
+      "num": 583355,
+      "word": "姜思达播客",
+      "onboard_time": 1683211594,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 580238,
@@ -1755,12 +1779,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 573707,
-      "num": 318999,
-      "word": "Jennie的肤色好辣",
-      "onboard_time": 1683211114,
-      "rank": 12,
-      "category": "作品衍生,时尚"
+      "raw_hot": 572821,
+      "num": 572821,
+      "word": "同事登我电脑问密码是什么",
+      "onboard_time": 1683210275,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 569320,
@@ -1881,14 +1905,6 @@
       "onboard_time": 1683175472,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 547824,
-      "num": 547824,
-      "word": "姜思达播客",
-      "onboard_time": 1683211594,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 547353,
@@ -2195,14 +2211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 479016,
-      "num": 314939,
-      "word": "同事登我电脑问密码是什么",
-      "onboard_time": 1683210275,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 477862,
       "num": 477862,
       "word": "陈晓演2个糙汉奖励自己1部古装剧",
@@ -2251,6 +2259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 469171,
+      "num": 469171,
+      "word": "Hero止步季后赛",
+      "onboard_time": 1683213692,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 468592,
       "num": 468592,
       "word": "金珉奎小狗",
@@ -2297,6 +2313,14 @@
       "onboard_time": 1682986767,
       "rank": 13,
       "category": "影视"
+    },
+    {
+      "raw_hot": 458594,
+      "num": 458594,
+      "word": "向佐 直播",
+      "onboard_time": 1683213753,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 458073,
@@ -2444,7 +2468,7 @@
     },
     {
       "raw_hot": 435035,
-      "num": 435035,
+      "num": 468670,
       "word": "杭州高价打捞手机为自导自演",
       "onboard_time": 1683207572,
       "rank": 9,
@@ -2995,6 +3019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 370989,
+      "num": 245515,
+      "word": "澹台烬为自己刻好了墓碑",
+      "onboard_time": 1683213212,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369156,
       "num": 369156,
       "word": "五一假期2.74亿人次出游",
@@ -3052,7 +3084,7 @@
     },
     {
       "raw_hot": 363506,
-      "num": 271476,
+      "num": 273435,
       "word": "陈晓太会亲了吧",
       "onboard_time": 1683211177,
       "rank": 22,
@@ -3956,7 +3988,7 @@
     },
     {
       "raw_hot": 278401,
-      "num": 270204,
+      "num": 271445,
       "word": "虞书欣谢可寅林小宅聚餐合照",
       "onboard_time": 1683209734,
       "rank": 49,
@@ -4057,6 +4089,14 @@
       "onboard_time": 1683034057,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 271926,
+      "num": 245495,
+      "word": "郭晓婷的发量",
+      "onboard_time": 1683213870,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270736,
@@ -4185,6 +4225,14 @@
       "onboard_time": 1683011605,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265610,
+      "num": 265610,
+      "word": "LGD晋级败者组半决赛",
+      "onboard_time": 1683213454,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 264979,
@@ -4563,6 +4611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246117,
+      "num": 246117,
+      "word": "王子奇把西装焊身上",
+      "onboard_time": 1683212914,
+      "rank": 32,
+      "category": "影视"
+    },
+    {
       "raw_hot": 246092,
       "num": 246092,
       "word": "电影不敢这么拍",
@@ -4617,6 +4673,14 @@
       "onboard_time": 1683064273,
       "rank": 17,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 244463,
+      "num": 244463,
+      "word": "aespa新歌thirsty视频",
+      "onboard_time": 1683213992,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 243789,
@@ -5227,14 +5291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 220353,
-      "num": 220353,
-      "word": "王子奇把西装焊身上",
-      "onboard_time": 1683212914,
-      "rank": 32,
-      "category": "影视"
-    },
-    {
       "raw_hot": 219972,
       "num": 219972,
       "word": "二十多岁谈一场恋爱有多难",
@@ -5560,14 +5616,6 @@
       "word": "平凡之路今日开播",
       "onboard_time": 1683083613,
       "rank": 29,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 209582,
-      "num": 209582,
-      "word": "澹台烬为自己刻好了墓碑",
-      "onboard_time": 1683213212,
-      "rank": 34,
       "category": "影视"
     },
     {
@@ -6331,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184719,
+      "num": 184719,
+      "word": "gemini",
+      "onboard_time": 1683214110,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183799,
       "num": 183799,
       "word": "地铁上放屁引发的社死现场",
@@ -6779,6 +6835,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 172820,
+      "num": 172820,
+      "word": "丧偶式婚姻该坚持吗",
+      "onboard_time": 1683212794,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172740,
       "num": 172740,
       "word": "乌鸦扯下以色列国旗",
@@ -6848,14 +6912,6 @@
       "word": "第五人格COA6",
       "onboard_time": 1683008249,
       "rank": 42,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 170498,
-      "num": 170498,
-      "word": "LGD晋级败者组半决赛",
-      "onboard_time": 1683213454,
-      "rank": 44,
       "category": "游戏"
     },
     {
@@ -6937,14 +6993,6 @@
       "onboard_time": 1682896400,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168306,
-      "num": 168306,
-      "word": "丧偶式婚姻该坚持吗",
-      "onboard_time": 1683212794,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 167903,
@@ -7993,6 +8041,14 @@
       "onboard_time": 1682898265,
       "rank": 41,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 128110,
+      "num": 144854,
+      "word": "结婚时不要看向你的好朋友",
+      "onboard_time": 1683214412,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 128071,
