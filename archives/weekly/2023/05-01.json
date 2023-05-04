@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683225207525,
+  "endTime": 1683227629640,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -8955,6 +8955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69823,
+      "num": 69823,
+      "word": "男子被流浪狗咬伤后踩死4只幼崽",
+      "onboard_time": 1683222618,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68644,
       "num": 68644,
       "word": "黄圣依妈妈十五年国画缘",
@@ -8969,14 +8977,6 @@
       "onboard_time": 1683046104,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 68455,
-      "num": 68455,
-      "word": "男子被流浪狗咬伤后踩死4只幼崽",
-      "onboard_time": 1683222618,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67499,
@@ -9297,6 +9297,14 @@
       "onboard_time": 1683224416,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20484,
+      "num": 23492,
+      "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
+      "onboard_time": 1683227292,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19663,
