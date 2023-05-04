@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683177388475,
+  "endTime": 1683178412842,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -355,6 +355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1773167,
+      "num": 1773167,
+      "word": "淄博烧烤老板从门洞露脸问人多不多",
+      "onboard_time": 1683174395,
+      "rank": 36,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1762220,
       "num": 1762220,
       "word": "跑男 控牌",
@@ -635,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1240749,
-      "num": 1240749,
-      "word": "淄博烧烤老板从门洞露脸问人多不多",
-      "onboard_time": 1683174395,
-      "rank": 36,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 1233076,
       "num": 1233076,
       "word": "外滩",
@@ -667,20 +667,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1211315,
+      "num": 1193995,
+      "word": "史航事件当事人再发声",
+      "onboard_time": 1683175896,
+      "rank": 6,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1209155,
       "num": 1209155,
       "word": "史上最挤五一档却没带火电影院",
       "onboard_time": 1682911468,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1193995,
-      "num": 1193995,
-      "word": "史航事件当事人再发声",
-      "onboard_time": 1683175896,
-      "rank": 6,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1181137,
@@ -1603,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 550820,
+      "num": 550820,
+      "word": "新冠",
+      "onboard_time": 1683175472,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547353,
       "num": 547353,
       "word": "苦日子到头了",
@@ -2243,14 +2251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413150,
-      "num": 413150,
-      "word": "新冠",
-      "onboard_time": 1683175472,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413111,
       "num": 206361,
       "word": "青年节",
@@ -2497,6 +2497,14 @@
       "onboard_time": 1683087750,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381590,
+      "num": 381590,
+      "word": "当cp粉被保安要求打开横幅",
+      "onboard_time": 1683176373,
+      "rank": 31,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 379153,
@@ -2817,14 +2825,6 @@
       "onboard_time": 1683090211,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329759,
-      "num": 228095,
-      "word": "当cp粉被保安要求打开横幅",
-      "onboard_time": 1683176373,
-      "rank": 31,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 329087,
@@ -3283,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288989,
+      "num": 288989,
+      "word": "武庚纪官宣杀青",
+      "onboard_time": 1683177989,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 288889,
       "num": 243228,
       "word": "周也到底买了多少盲盒",
@@ -3689,6 +3697,14 @@
       "onboard_time": 1683167007,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258501,
+      "num": 258501,
+      "word": "领事馆确认两中国公民在巴厘岛身亡",
+      "onboard_time": 1683177561,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 258332,
@@ -5083,6 +5099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200438,
+      "num": 200438,
+      "word": "护心定档0510",
+      "onboard_time": 1683177390,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199461,
       "num": 199461,
       "word": "白背心就是纯欲天花板",
@@ -5105,6 +5129,14 @@
       "onboard_time": 1683175176,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198416,
+      "num": 198416,
+      "word": "周杰伦申请限消痘博士",
+      "onboard_time": 1683178107,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 198303,
@@ -5387,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188603,
+      "num": 188603,
+      "word": "花戎",
+      "onboard_time": 1683177332,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188486,
       "num": 188486,
       "word": "徐志胜婉拒谈上春晚",
@@ -5425,6 +5465,14 @@
       "onboard_time": 1682917347,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186886,
+      "num": 186886,
+      "word": "湖北事业单位",
+      "onboard_time": 1683177869,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 186771,
@@ -6771,14 +6819,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 133082,
-      "num": 133082,
-      "word": "花戎",
-      "onboard_time": 1683177332,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 133037,
       "num": 133037,
       "word": "76人1比0凯尔特人",
@@ -6929,6 +6969,14 @@
       "onboard_time": 1682898265,
       "rank": 41,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 128071,
+      "num": 128071,
+      "word": "当燃青春五四开播",
+      "onboard_time": 1683177508,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 127864,
@@ -7347,6 +7395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105311,
+      "num": 428953,
+      "word": "生活哪些事你想较个真",
+      "onboard_time": 1683176434,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104836,
       "num": 104836,
       "word": "尤长靖 大连音乐节",
@@ -7673,14 +7729,6 @@
       "onboard_time": 1682921968,
       "rank": 48,
       "category": "影视"
-    },
-    {
-      "raw_hot": 72558,
-      "num": 428953,
-      "word": "生活哪些事你想较个真",
-      "onboard_time": 1683176434,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 68644,

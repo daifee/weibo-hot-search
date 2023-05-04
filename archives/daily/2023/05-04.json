@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683177388475,
+  "endTime": 1683178412842,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -33,6 +33,14 @@
       "onboard_time": 1683130048,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1773167,
+      "num": 1773167,
+      "word": "淄博烧烤老板从门洞露脸问人多不多",
+      "onboard_time": 1683174395,
+      "rank": 36,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1512931,
@@ -83,14 +91,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 1240749,
-      "num": 1240749,
-      "word": "淄博烧烤老板从门洞露脸问人多不多",
-      "onboard_time": 1683174395,
-      "rank": 36,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 1228705,
       "num": 1228705,
       "word": "媒体评插队婆孙被做成恶搞表情包",
@@ -99,7 +99,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1193995,
+      "raw_hot": 1211315,
       "num": 1193995,
       "word": "史航事件当事人再发声",
       "onboard_time": 1683175896,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550820,
+      "num": 550820,
+      "word": "新冠",
+      "onboard_time": 1683175472,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545102,
       "num": 545102,
       "word": "女生每天被合租室友投喂一日三餐",
@@ -371,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413150,
-      "num": 413150,
-      "word": "新冠",
-      "onboard_time": 1683175472,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413111,
       "num": 206361,
       "word": "青年节",
@@ -409,6 +409,14 @@
       "onboard_time": 1683164309,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381590,
+      "num": 381590,
+      "word": "当cp粉被保安要求打开横幅",
+      "onboard_time": 1683176373,
+      "rank": 31,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 379906,
@@ -481,14 +489,6 @@
       "onboard_time": 1683172531,
       "rank": 24,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 329759,
-      "num": 228095,
-      "word": "当cp粉被保安要求打开横幅",
-      "onboard_time": 1683176373,
-      "rank": 31,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 329087,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288989,
+      "num": 288989,
+      "word": "武庚纪官宣杀青",
+      "onboard_time": 1683177989,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 284854,
       "num": 271258,
       "word": "杨洋同学会好嗨",
@@ -649,6 +657,14 @@
       "onboard_time": 1683167007,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258501,
+      "num": 258501,
+      "word": "领事馆确认两中国公民在巴厘岛身亡",
+      "onboard_time": 1683177561,
+      "rank": 24,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 255614,
@@ -787,6 +803,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 200438,
+      "num": 200438,
+      "word": "护心定档0510",
+      "onboard_time": 1683177390,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 199570,
       "num": 199570,
       "word": "自贡地震",
@@ -801,6 +825,14 @@
       "onboard_time": 1683175176,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198416,
+      "num": 198416,
+      "word": "周杰伦申请限消痘博士",
+      "onboard_time": 1683178107,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 196441,
@@ -841,6 +873,22 @@
       "onboard_time": 1683121231,
       "rank": 25,
       "category": "影视"
+    },
+    {
+      "raw_hot": 188603,
+      "num": 188603,
+      "word": "花戎",
+      "onboard_time": 1683177332,
+      "rank": 49,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 186886,
+      "num": 186886,
+      "word": "湖北事业单位",
+      "onboard_time": 1683177869,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 183799,
@@ -1035,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133082,
-      "num": 133082,
-      "word": "花戎",
-      "onboard_time": 1683177332,
-      "rank": 49,
-      "category": "影视"
-    },
-    {
       "raw_hot": 130976,
       "num": 285988,
       "word": "胡金秋受伤",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1683159990,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128071,
+      "num": 128071,
+      "word": "当燃青春五四开播",
+      "onboard_time": 1683177508,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 125129,
@@ -1145,6 +1193,14 @@
       "onboard_time": 1683108990,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105311,
+      "num": 428953,
+      "word": "生活哪些事你想较个真",
+      "onboard_time": 1683176434,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 102530,
@@ -1257,14 +1313,6 @@
       "onboard_time": 1683105151,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72558,
-      "num": 428953,
-      "word": "生活哪些事你想较个真",
-      "onboard_time": 1683176434,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 62999,
