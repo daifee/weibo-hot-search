@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683217942495,
+  "endTime": 1683218723737,
   "band_list": [
     {
       "raw_hot": 1280160,
@@ -91,20 +91,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 326609,
+      "num": 326609,
+      "word": "养了三年的猫原主人想要回",
+      "onboard_time": 1683215850,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326318,
       "num": 314423,
       "word": "巴厘岛命案",
       "onboard_time": 1683198386,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315683,
-      "num": 315683,
-      "word": "养了三年的猫原主人想要回",
-      "onboard_time": 1683215850,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 314242,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 231708,
-      "num": 315577,
+      "num": 323292,
       "word": "巴厘岛身亡两中国公民身份确认",
       "onboard_time": 1683206132,
       "rank": 8,
@@ -163,8 +163,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205011,
-      "num": 205011,
+      "raw_hot": 205468,
+      "num": 205468,
       "word": "结婚时不要看向你的好朋友",
       "onboard_time": 1683214412,
       "rank": 22,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 175281,
-      "num": 315258,
+      "num": 316418,
       "word": "杭州高价打捞手机为自导自演",
       "onboard_time": 1683207572,
       "rank": 9,
@@ -211,12 +211,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162789,
+      "num": 162789,
+      "word": "好友称巴厘岛命案死者正环游世界",
+      "onboard_time": 1683216689,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157433,
       "num": 157433,
       "word": "卡琳娜",
       "onboard_time": 1683208174,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 155351,
+      "num": 155351,
+      "word": "为什么恋爱会越谈越累",
+      "onboard_time": 1683216689,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 155169,
@@ -243,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 149751,
+      "num": 149751,
+      "word": "胡锡进说贴插队婆孙车贴很恶心",
+      "onboard_time": 1683217045,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140936,
       "num": 140936,
       "word": "吃完榴莲千万别碰这些食物",
@@ -251,20 +275,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 133625,
-      "num": 133625,
-      "word": "为什么恋爱会越谈越累",
-      "onboard_time": 1683216689,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 119145,
-      "num": 119145,
-      "word": "胡锡进说贴插队婆孙车贴很恶心",
-      "onboard_time": 1683217045,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 128864,
+      "num": 128864,
+      "word": "谢娜初舞台是给自己的礼物",
+      "onboard_time": 1683217524,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 117828,
@@ -281,22 +297,6 @@
       "onboard_time": 1683204332,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 114994,
-      "num": 114994,
-      "word": "谢娜初舞台是给自己的礼物",
-      "onboard_time": 1683217524,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 114567,
-      "num": 114567,
-      "word": "好友称巴厘岛命案死者正环游世界",
-      "onboard_time": 1683216689,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113916,
@@ -329,6 +329,14 @@
       "onboard_time": 1683216267,
       "rank": 41,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 98554,
+      "num": 98554,
+      "word": "健康的羞耻感",
+      "onboard_time": 1683216866,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 98011,
@@ -393,6 +401,14 @@
       "onboard_time": 1683211961,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 59983,
+      "num": 59983,
+      "word": "点赞新时代青春力量",
+      "onboard_time": 1683218662,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48489,
