@@ -1,0 +1,410 @@
+{
+  "runTime": 1683167576266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2907153,
+        "num": 2907153,
+        "word": "五四放假通知",
+        "onboard_time": 1683160949,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1681720,
+        "num": 1681720,
+        "word": "当我和妈妈说离婚了",
+        "onboard_time": 1683164309,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83666,
+        "num": 1222553,
+        "word": "这个五一274000000人次出游",
+        "onboard_time": 1683117812,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1092594,
+        "num": 1092594,
+        "word": "四川宜宾地震",
+        "onboard_time": 1683167187,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040256,
+        "num": 1040256,
+        "word": "工藤新一",
+        "onboard_time": 1683157045,
+        "rank": 4,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 1019641,
+        "num": 1019641,
+        "word": "旅行七天和老公吵了五次",
+        "onboard_time": 1683157886,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 916314,
+        "num": 916314,
+        "word": "2中国游客在印尼巴厘岛身亡",
+        "onboard_time": 1683161189,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826923,
+        "num": 826923,
+        "word": "泽连斯基称乌没有攻击普京或莫斯科",
+        "onboard_time": 1683165869,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 676569,
+        "num": 676569,
+        "word": "明天上班可能出现的症状",
+        "onboard_time": 1683110071,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 623303,
+        "num": 623303,
+        "word": "秦昊说杨幂会给你们不一样的惊喜",
+        "onboard_time": 1683161308,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 571497,
+        "num": 571497,
+        "word": "史航",
+        "onboard_time": 1683157587,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 553193,
+        "num": 553193,
+        "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
+        "onboard_time": 1683154941,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509532,
+        "num": 509532,
+        "word": "新冠 查漏补缺",
+        "onboard_time": 1683130048,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476795,
+        "num": 476795,
+        "word": "全红婵实现娃娃自由",
+        "onboard_time": 1683165449,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382301,
+        "num": 382301,
+        "word": "巴厘岛警方回应两中国游客酒店身亡",
+        "onboard_time": 1683164309,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381186,
+        "num": 381186,
+        "word": "常年不吃碳水的人怎么样了",
+        "onboard_time": 1683122072,
+        "rank": 15,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 372278,
+        "num": 372278,
+        "word": "高铁上最好不要和邻座套近乎",
+        "onboard_time": 1683101370,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365534,
+        "num": 365534,
+        "word": "洗碗工用9年逆袭成新闻主播",
+        "onboard_time": 1683166286,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307742,
+        "num": 307742,
+        "word": "张紫宁向粉丝道歉",
+        "onboard_time": 1683165026,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305111,
+        "num": 305111,
+        "word": "Jennie CK全球代言人",
+        "onboard_time": 1683159209,
+        "rank": 19,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 1919824,
+        "num": 301980,
+        "word": "史航事件当事人小默",
+        "onboard_time": 1683156265,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 329087,
+        "num": 300845,
+        "word": "特种兵旅游通宵不睡觉单日花费仅百元",
+        "onboard_time": 1683166769,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280388,
+        "num": 280388,
+        "word": "行李箱放在售票处结果丢了",
+        "onboard_time": 1683165328,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273477,
+        "num": 273477,
+        "word": "马嘉祺 漏气",
+        "onboard_time": 1683159869,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 267455,
+        "num": 267455,
+        "word": "57岁诗人在无人山顶上开书店",
+        "onboard_time": 1683164666,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256565,
+        "num": 256565,
+        "word": "赛琳娜靠美妆品牌成为亿万富翁",
+        "onboard_time": 1683126154,
+        "rank": 25,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 255614,
+        "num": 255614,
+        "word": "长空之王成五一档总票房冠军",
+        "onboard_time": 1683166408,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 240507,
+        "num": 240507,
+        "word": "五四青年节",
+        "onboard_time": 1683156984,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235257,
+        "num": 235257,
+        "word": "困困困",
+        "onboard_time": 1683162870,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194865,
+        "num": 194865,
+        "word": "龚俊说被顶流花花圈粉了",
+        "onboard_time": 1683126212,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213113,
+        "num": 194427,
+        "word": "西安坠机航司称已联系遇难者家属",
+        "onboard_time": 1683130646,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193935,
+        "num": 193935,
+        "word": "自贡地震",
+        "onboard_time": 1683167309,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180886,
+        "num": 180886,
+        "word": "闹钟没响",
+        "onboard_time": 1683163168,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178693,
+        "num": 178693,
+        "word": "淄博烧烤不涨价的最大底气",
+        "onboard_time": 1683130466,
+        "rank": 33,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 177083,
+        "num": 177083,
+        "word": "护心定档海报拍摄花絮",
+        "onboard_time": 1683166646,
+        "rank": 34,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 175991,
+        "num": 175991,
+        "word": "插队",
+        "onboard_time": 1683159930,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174109,
+        "num": 174109,
+        "word": "没人会比EXO更爱EXO",
+        "onboard_time": 1683159811,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163527,
+        "num": 163527,
+        "word": "00后特种兵整顿旅游宰客",
+        "onboard_time": 1683167007,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155940,
+        "num": 155940,
+        "word": "这届年轻人现状",
+        "onboard_time": 1683162328,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154551,
+        "num": 154551,
+        "word": "明星减肥有多狠",
+        "onboard_time": 1683126331,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152373,
+        "num": 152373,
+        "word": "林允儿李俊昊新剧预告",
+        "onboard_time": 1683161670,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 150488,
+        "num": 150488,
+        "word": "长月烬明特写镜头道具坏了",
+        "onboard_time": 1683158068,
+        "rank": 41,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 142014,
+        "num": 142014,
+        "word": "原来44岁以下都是青年",
+        "onboard_time": 1683154941,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128266,
+        "num": 128266,
+        "word": "cp29 汉末",
+        "onboard_time": 1683163228,
+        "rank": 43,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 122912,
+        "num": 122912,
+        "word": "76人vs凯尔特人",
+        "onboard_time": 1683165328,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119247,
+        "num": 119247,
+        "word": "为什么相爱还会分手",
+        "onboard_time": 1683157886,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119146,
+        "num": 119146,
+        "word": "阳了",
+        "onboard_time": 1683115648,
+        "rank": 46,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 112283,
+        "num": 112283,
+        "word": "历年热剧爆剧榜",
+        "onboard_time": 1683166769,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112193,
+        "num": 112193,
+        "word": "00后整顿高铁熊孩子",
+        "onboard_time": 1683125673,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110041,
+        "num": 110041,
+        "word": "塔图姆",
+        "onboard_time": 1683167249,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#青春中国#"
+    }
+  }
+}
