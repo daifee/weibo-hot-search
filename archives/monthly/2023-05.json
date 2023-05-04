@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683191825848,
+  "endTime": 1683192832063,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2878992,
+      "num": 373946,
+      "word": "唐嫣旁边是文章吗",
+      "onboard_time": 1683191309,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2812230,
       "num": 1231510,
       "word": "爽门",
       "onboard_time": 1682949099,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 2746616,
-      "num": 373946,
-      "word": "唐嫣旁边是文章吗",
-      "onboard_time": 1683191309,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2641650,
@@ -339,6 +339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1796635,
+      "num": 1796635,
+      "word": "领事馆确认两中国公民在巴厘岛身亡",
+      "onboard_time": 1683177561,
+      "rank": 24,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1795247,
       "num": 1795247,
       "word": "cp29 不检票",
@@ -505,14 +513,6 @@
       "onboard_time": 1683184948,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1445784,
-      "num": 1445784,
-      "word": "领事馆确认两中国公民在巴厘岛身亡",
-      "onboard_time": 1683177561,
-      "rank": 24,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 1437237,
@@ -1171,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783115,
+      "num": 783115,
+      "word": "上海的垃圾桶到底在哪里",
+      "onboard_time": 1683188968,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 777124,
       "num": 777124,
       "word": "今年五一这10大景区人最多",
@@ -1475,14 +1483,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 650245,
-      "num": 650245,
-      "word": "上海的垃圾桶到底在哪里",
-      "onboard_time": 1683188968,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 632654,
       "num": 632654,
       "word": "石川佳纯宣布退役",
@@ -1609,6 +1609,14 @@
       "onboard_time": 1683076409,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 568946,
+      "num": 359370,
+      "word": "因为我的原因妈妈被辞退了",
+      "onboard_time": 1683189449,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 567767,
@@ -1905,6 +1913,14 @@
       "onboard_time": 1683120511,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486663,
+      "num": 486663,
+      "word": "人民网评长空之王",
+      "onboard_time": 1683190168,
+      "rank": 15,
+      "category": "影视,国内要闻"
     },
     {
       "raw_hot": 485510,
@@ -2209,14 +2225,6 @@
       "onboard_time": 1683031530,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 434150,
-      "num": 358401,
-      "word": "因为我的原因妈妈被辞退了",
-      "onboard_time": 1683189449,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 433741,
@@ -2571,6 +2579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388717,
+      "num": 388717,
+      "word": "张杰华晨宇首次合作",
+      "onboard_time": 1683187768,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386853,
       "num": 386853,
       "word": "性骚扰事件 不用考虑直接告",
@@ -2643,14 +2659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381266,
-      "num": 355111,
-      "word": "人民网评长空之王",
-      "onboard_time": 1683190168,
-      "rank": 15,
-      "category": "影视,国内要闻"
-    },
-    {
       "raw_hot": 379683,
       "num": 379683,
       "word": "女子请年假因新入职不满一年被拒",
@@ -2673,14 +2681,6 @@
       "onboard_time": 1683159209,
       "rank": 18,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 377754,
-      "num": 377754,
-      "word": "张杰华晨宇首次合作",
-      "onboard_time": 1683187768,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 376264,
@@ -3041,6 +3041,14 @@
       "onboard_time": 1683039166,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 326185,
+      "num": 326185,
+      "word": "长月烬明带动蚌埠五一旅游经济暴增",
+      "onboard_time": 1683189088,
+      "rank": 42,
+      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 326160,
@@ -3985,14 +3993,6 @@
       "onboard_time": 1683171811,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 253295,
-      "num": 253295,
-      "word": "长月烬明带动蚌埠五一旅游经济暴增",
-      "onboard_time": 1683189088,
-      "rank": 42,
-      "category": "影视,社会新闻"
     },
     {
       "raw_hot": 252266,
@@ -6355,6 +6355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167598,
+      "num": 167598,
+      "word": "罗云熙片场自己补妆",
+      "onboard_time": 1683191549,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167511,
       "num": 167511,
       "word": "最美工作照",
@@ -6739,6 +6747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154231,
+      "num": 154231,
+      "word": "周也男主运",
+      "onboard_time": 1683192270,
+      "rank": 33,
+      "category": "影视"
+    },
+    {
       "raw_hot": 153510,
       "num": 139898,
       "word": "王嘉尔MetGala",
@@ -6769,6 +6785,22 @@
       "onboard_time": 1683012267,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 152490,
+      "num": 152490,
+      "word": "时代少年团海口演唱会舞台照",
+      "onboard_time": 1683192508,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 152143,
+      "num": 152143,
+      "word": "帅气警犬遇上漂亮萨摩耶",
+      "onboard_time": 1683191128,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151892,
@@ -7379,6 +7411,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 125138,
+      "num": 125138,
+      "word": "我眼中的青春",
+      "onboard_time": 1683192628,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125129,
       "num": 125129,
       "word": "美国CIA网络攻击他国调查报告发布",
@@ -7545,14 +7585,6 @@
       "onboard_time": 1683069379,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119725,
-      "num": 119725,
-      "word": "罗云熙片场自己补妆",
-      "onboard_time": 1683191549,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 119574,
@@ -7755,14 +7787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105890,
-      "num": 105890,
-      "word": "帅气警犬遇上漂亮萨摩耶",
-      "onboard_time": 1683191128,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105311,
       "num": 428953,
       "word": "生活哪些事你想较个真",
@@ -7873,6 +7897,14 @@
       "onboard_time": 1682959044,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95952,
+      "num": 95952,
+      "word": "淄博烧烤老板凌晨4点就出门抢购肉",
+      "onboard_time": 1683192808,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94471,
@@ -8507,6 +8539,9 @@
     },
     {
       "word": "#总书记对广大青年朋友的殷殷寄语#"
+    },
+    {
+      "word": "#总书记寄语广大青年#"
     }
   ]
 }
