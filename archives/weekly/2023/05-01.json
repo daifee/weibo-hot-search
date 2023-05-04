@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683170287670,
+  "endTime": 1683171231286,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -715,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1099269,
+      "num": 613702,
+      "word": "张紫宁向粉丝道歉",
+      "onboard_time": 1683165026,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1079555,
       "num": 1079555,
       "word": "王子奇王玉雯",
@@ -761,14 +769,6 @@
       "onboard_time": 1683089014,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1050650,
-      "num": 613702,
-      "word": "张紫宁向粉丝道歉",
-      "onboard_time": 1683165026,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 1047003,
@@ -1291,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 683965,
+      "num": 683965,
+      "word": "刘诗诗将出席戛纳红毯",
+      "onboard_time": 1683168205,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 679898,
       "num": 1873514,
       "word": "热心大哥高铁上怒斥熊孩子家长获喝彩",
@@ -1345,14 +1353,6 @@
       "onboard_time": 1682908948,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 632459,
-      "num": 632459,
-      "word": "刘诗诗将出席戛纳红毯",
-      "onboard_time": 1683168205,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 627136,
@@ -1579,6 +1579,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 529630,
+      "num": 529630,
+      "word": "阿根廷队确定6月份访华",
+      "onboard_time": 1683169469,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 529382,
+      "num": 529382,
+      "word": "爱过你的女生 分手是蓄谋已久的",
+      "onboard_time": 1683167726,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 527793,
       "num": 527793,
       "word": "湖南男子在西湖捞手机日入约一万",
@@ -1633,14 +1649,6 @@
       "onboard_time": 1682902890,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 512201,
-      "num": 512201,
-      "word": "爱过你的女生 分手是蓄谋已久的",
-      "onboard_time": 1683167726,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 511371,
@@ -1897,6 +1905,14 @@
       "onboard_time": 1683080972,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 448442,
+      "num": 275022,
+      "word": "突然得知暗恋对象资产上亿",
+      "onboard_time": 1683170370,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 446646,
@@ -2185,6 +2201,14 @@
       "onboard_time": 1683026068,
       "rank": 44,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 406589,
+      "num": 406589,
+      "word": "媒体评插队婆孙被做成恶搞表情包",
+      "onboard_time": 1683169227,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405553,
@@ -3171,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284854,
+      "num": 271258,
+      "word": "杨洋同学会好嗨",
+      "onboard_time": 1683169168,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283771,
       "num": 247985,
       "word": "赵丽颖五月行程",
@@ -3491,14 +3523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 262029,
-      "num": 262029,
-      "word": "媒体评插队婆孙被做成恶搞表情包",
-      "onboard_time": 1683169227,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260677,
       "num": 260677,
       "word": "挖呀挖呀挖",
@@ -3521,6 +3545,14 @@
       "onboard_time": 1683091172,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 258611,
+      "num": 258611,
+      "word": "00后特种兵整顿旅游宰客",
+      "onboard_time": 1683167007,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258332,
@@ -3547,28 +3579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 257141,
-      "num": 257141,
-      "word": "阿根廷队确定6月份访华",
-      "onboard_time": 1683169469,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257057,
       "num": 257057,
       "word": "等比例放大的花花",
       "onboard_time": 1683044249,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 257038,
-      "num": 257038,
-      "word": "00后特种兵整顿旅游宰客",
-      "onboard_time": 1683167007,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256255,
@@ -3665,14 +3681,6 @@
       "onboard_time": 1683167249,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251239,
-      "num": 251239,
-      "word": "杨洋同学会好嗨",
-      "onboard_time": 1683169168,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 251211,
@@ -3817,6 +3825,14 @@
       "onboard_time": 1682939727,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244905,
+      "num": 244905,
+      "word": "周迅卓越与好友聚会",
+      "onboard_time": 1683170255,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 244498,
@@ -6107,6 +6123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155935,
+      "num": 155935,
+      "word": "女生每天被合租室友投喂一日三餐",
+      "onboard_time": 1683170909,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155839,
       "num": 155839,
       "word": "侯明昊多穿背心我爱看",
@@ -6169,6 +6193,22 @@
       "onboard_time": 1683012267,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 151892,
+      "num": 152652,
+      "word": "小挣青年",
+      "onboard_time": 1683170549,
+      "rank": 39,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 151869,
+      "num": 151869,
+      "word": "承欢记组讯",
+      "onboard_time": 1683170968,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 151839,
@@ -6555,6 +6595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131099,
+      "num": 131099,
+      "word": "上班第一天大家都不太清醒",
+      "onboard_time": 1683170188,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130884,
       "num": 130884,
       "word": "8岁男孩爱啃手被妈妈带去做美甲",
@@ -6763,6 +6811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124304,
+      "num": 124304,
+      "word": "兵务厅否认金钟仁入伍规定变更",
+      "onboard_time": 1683171211,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124259,
       "num": 124259,
       "word": "猪鲤",
@@ -6952,14 +7008,6 @@
       "word": "Shownu亨源将小分队出道",
       "onboard_time": 1683081630,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 115363,
-      "num": 115363,
-      "word": "周迅卓越与好友聚会",
-      "onboard_time": 1683170255,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -7611,6 +7659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41306,
+      "num": 425871,
+      "word": "刘德华谈过来人支持新人",
+      "onboard_time": 1683169227,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40049,
       "num": 1124857,
       "word": "劳动是奋斗追梦的五光十色",
@@ -7673,14 +7729,6 @@
       "onboard_time": 1682887093,
       "rank": 35,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 29431,
-      "num": 419029,
-      "word": "刘德华谈过来人支持新人",
-      "onboard_time": 1683169227,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 28246,
@@ -7776,6 +7824,9 @@
     },
     {
       "word": "#青春中国#"
+    },
+    {
+      "word": "#总书记对广大青年朋友的殷殷寄语#"
     }
   ]
 }

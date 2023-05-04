@@ -1,6 +1,6 @@
 {
   "startTime": 1683130960500,
-  "endTime": 1683170287670,
+  "endTime": 1683171231286,
   "band_list": [
     {
       "raw_hot": 3313921,
@@ -91,7 +91,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1050650,
+      "raw_hot": 1099269,
       "num": 613702,
       "word": "张紫宁向粉丝道歉",
       "onboard_time": 1683165026,
@@ -131,6 +131,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 800044,
+      "num": 800044,
+      "word": "史航",
+      "onboard_time": 1683157587,
+      "rank": 15,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 766124,
       "num": 766124,
       "word": "秦昊说杨幂会给你们不一样的惊喜",
@@ -153,14 +161,6 @@
       "onboard_time": 1683112586,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 748020,
-      "num": 748020,
-      "word": "史航",
-      "onboard_time": 1683157587,
-      "rank": 15,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 725796,
@@ -195,20 +195,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 683965,
+      "num": 683965,
+      "word": "刘诗诗将出席戛纳红毯",
+      "onboard_time": 1683168205,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 661929,
       "num": 661929,
       "word": "马嘉祺 漏气",
       "onboard_time": 1683159869,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 632459,
-      "num": 632459,
-      "word": "刘诗诗将出席戛纳红毯",
-      "onboard_time": 1683168205,
-      "rank": 9,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 558801,
@@ -219,8 +219,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512201,
-      "num": 512201,
+      "raw_hot": 529630,
+      "num": 529630,
+      "word": "阿根廷队确定6月份访华",
+      "onboard_time": 1683169469,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 529382,
+      "num": 529382,
       "word": "爱过你的女生 分手是蓄谋已久的",
       "onboard_time": 1683167726,
       "rank": 34,
@@ -251,6 +259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 448442,
+      "num": 275022,
+      "word": "突然得知暗恋对象资产上亿",
+      "onboard_time": 1683170370,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 443653,
       "num": 443653,
       "word": "找工作一定要找双休的",
@@ -273,6 +289,14 @@
       "onboard_time": 1683094530,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406589,
+      "num": 406589,
+      "word": "媒体评插队婆孙被做成恶搞表情包",
+      "onboard_time": 1683169227,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395752,
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284854,
+      "num": 271258,
+      "word": "杨洋同学会好嗨",
+      "onboard_time": 1683169168,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280388,
       "num": 280388,
       "word": "行李箱放在售票处结果丢了",
@@ -475,24 +507,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262029,
-      "num": 262029,
-      "word": "媒体评插队婆孙被做成恶搞表情包",
-      "onboard_time": 1683169227,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257141,
-      "num": 257141,
-      "word": "阿根廷队确定6月份访华",
-      "onboard_time": 1683169469,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 257038,
-      "num": 257038,
+      "raw_hot": 258611,
+      "num": 258611,
       "word": "00后特种兵整顿旅游宰客",
       "onboard_time": 1683167007,
       "rank": 37,
@@ -515,20 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251239,
-      "num": 251239,
-      "word": "杨洋同学会好嗨",
-      "onboard_time": 1683169168,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250203,
       "num": 250203,
       "word": "林允儿李俊昊新剧预告",
       "onboard_time": 1683161670,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 244905,
+      "num": 244905,
+      "word": "周迅卓越与好友聚会",
+      "onboard_time": 1683170255,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 241652,
@@ -699,12 +715,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155935,
+      "num": 155935,
+      "word": "女生每天被合租室友投喂一日三餐",
+      "onboard_time": 1683170909,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154974,
       "num": 154974,
       "word": "DRG晋级败者组半决赛",
       "onboard_time": 1683127052,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151892,
+      "num": 152652,
+      "word": "小挣青年",
+      "onboard_time": 1683170549,
+      "rank": 39,
+      "category": "社会新闻,影视"
+    },
+    {
+      "raw_hot": 151869,
+      "num": 151869,
+      "word": "承欢记组讯",
+      "onboard_time": 1683170968,
+      "rank": 42,
+      "category": "影视"
     },
     {
       "raw_hot": 148075,
@@ -779,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131099,
+      "num": 131099,
+      "word": "上班第一天大家都不太清醒",
+      "onboard_time": 1683170188,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130976,
       "num": 285988,
       "word": "胡金秋受伤",
@@ -809,6 +857,14 @@
       "onboard_time": 1683130225,
       "rank": 33,
       "category": "影视"
+    },
+    {
+      "raw_hot": 124304,
+      "num": 124304,
+      "word": "兵务厅否认金钟仁入伍规定变更",
+      "onboard_time": 1683171211,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 122912,
@@ -849,14 +905,6 @@
       "onboard_time": 1683170009,
       "rank": 48,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 115363,
-      "num": 115363,
-      "word": "周迅卓越与好友聚会",
-      "onboard_time": 1683170255,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 115360,
@@ -1043,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 41306,
+      "num": 425871,
+      "word": "刘德华谈过来人支持新人",
+      "onboard_time": 1683169227,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34078,
       "num": 34078,
       "word": "秦昊演技",
@@ -1057,14 +1113,6 @@
       "onboard_time": 1683135736,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 29431,
-      "num": 419029,
-      "word": "刘德华谈过来人支持新人",
-      "onboard_time": 1683169227,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 13676,
@@ -1087,6 +1135,9 @@
     },
     {
       "word": "#中国青年五四奖章获奖名单#"
+    },
+    {
+      "word": "#总书记对广大青年朋友的殷殷寄语#"
     }
   ]
 }
