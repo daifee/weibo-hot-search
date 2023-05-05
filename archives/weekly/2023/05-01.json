@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683318815992,
+  "endTime": 1683321274580,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -11555,20 +11555,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 15606,
+      "num": 18896,
+      "word": "漫长的季节彩蛋",
+      "onboard_time": 1683318192,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 15438,
+      "num": 18882,
+      "word": "瓦格纳",
+      "onboard_time": 1683320712,
+      "rank": 42,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 15129,
       "num": 20927,
       "word": "金珉奎说粤语",
       "onboard_time": 1683060672,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14763,
-      "num": 16144,
-      "word": "漫长的季节彩蛋",
-      "onboard_time": 1683318192,
-      "rank": 47,
-      "category": "影视"
     },
     {
       "raw_hot": 14520,
