@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683297207960,
+  "endTime": 1683299856366,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -947,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1244972,
+      "num": 1244972,
+      "word": "秦霄贤受伤",
+      "onboard_time": 1683297631,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1243728,
       "num": 1243728,
       "word": "疑拉萨客栈杀人案受害者家属发声",
@@ -1339,6 +1347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 999294,
+      "num": 999294,
+      "word": "同事辟谣挖呀挖黄老师辞职",
+      "onboard_time": 1683294871,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 998690,
       "num": 998690,
       "word": "宋亚轩 小王子",
@@ -1417,14 +1433,6 @@
       "onboard_time": 1682902768,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 932485,
-      "num": 932485,
-      "word": "同事辟谣挖呀挖黄老师辞职",
-      "onboard_time": 1683294871,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 930914,
@@ -1691,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 793659,
+      "num": 793659,
+      "word": "中戏同学鼓励郭珍霓拍戏",
+      "onboard_time": 1683295411,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 788619,
       "num": 788619,
       "word": "顺丰53岁员工猝死家属称公司拒担责",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1682866892,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 742663,
+      "num": 742663,
+      "word": "黄老师",
+      "onboard_time": 1683298231,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 740857,
@@ -2043,12 +2067,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 667049,
-      "num": 667049,
-      "word": "中戏同学鼓励郭珍霓拍戏",
-      "onboard_time": 1683295411,
+      "raw_hot": 669568,
+      "num": 346221,
+      "word": "妖刀C麻了",
+      "onboard_time": 1683298771,
       "rank": 20,
-      "category": "艺人"
+      "category": "游戏"
     },
     {
       "raw_hot": 661929,
@@ -2212,7 +2236,7 @@
     },
     {
       "raw_hot": 601890,
-      "num": 839352,
+      "num": 864974,
       "word": "林一你换个发型吧",
       "onboard_time": 1683293311,
       "rank": 39,
@@ -2523,6 +2547,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 543100,
+      "num": 543100,
+      "word": "王石 田朴珺",
+      "onboard_time": 1683295830,
+      "rank": 28,
+      "category": "财经,艺人"
+    },
+    {
       "raw_hot": 541141,
       "num": 541141,
       "word": "景区租给游客的衣服有多脏",
@@ -2571,14 +2603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 534379,
-      "num": 534379,
-      "word": "王石 田朴珺",
-      "onboard_time": 1683295830,
-      "rank": 28,
-      "category": "财经,艺人"
-    },
-    {
       "raw_hot": 532547,
       "num": 532547,
       "word": "山西一地发生重大刑案",
@@ -2625,6 +2649,14 @@
       "onboard_time": 1683192868,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 525569,
+      "num": 478521,
+      "word": "Ella恋人未满听哭了",
+      "onboard_time": 1683294271,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 524921,
@@ -2801,6 +2833,14 @@
       "onboard_time": 1683120511,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488567,
+      "num": 488567,
+      "word": "为什么香飘飘卖不动了",
+      "onboard_time": 1683298771,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 488527,
@@ -3345,14 +3385,6 @@
       "onboard_time": 1683205894,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 420350,
-      "num": 389687,
-      "word": "Ella恋人未满听哭了",
-      "onboard_time": 1683294271,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 418241,
@@ -5099,6 +5131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279830,
+      "num": 279830,
+      "word": "银河护卫队3开分漫威最高",
+      "onboard_time": 1683298055,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 279344,
       "num": 279344,
       "word": "金晨也去吃淄博烧烤了",
@@ -5409,6 +5449,14 @@
       "onboard_time": 1682949030,
       "rank": 27,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 263504,
+      "num": 263504,
+      "word": "范丞丞说白鹿是在跟自己打架",
+      "onboard_time": 1683296193,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 263447,
@@ -6027,6 +6075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240261,
+      "num": 240261,
+      "word": "鹿晗周震南互相伤害",
+      "onboard_time": 1683299193,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239816,
       "num": 239816,
       "word": "情绪低落时的解压方式",
@@ -6275,6 +6331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233438,
+      "num": 231198,
+      "word": "周杰伦香港演唱会",
+      "onboard_time": 1683288149,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 233082,
       "num": 233082,
       "word": "淄博会如何影响中国的未来",
@@ -6313,14 +6377,6 @@
       "onboard_time": 1682947292,
       "rank": 31,
       "category": "影视"
-    },
-    {
-      "raw_hot": 231198,
-      "num": 231198,
-      "word": "周杰伦香港演唱会",
-      "onboard_time": 1683288149,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 230792,
@@ -6931,6 +6987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215291,
+      "num": 215291,
+      "word": "承重墙",
+      "onboard_time": 1683297814,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215136,
       "num": 215136,
       "word": "一只猫绝育前后的变化有多大",
@@ -7225,14 +7289,6 @@
       "onboard_time": 1683120632,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206271,
-      "num": 206271,
-      "word": "范丞丞说白鹿是在跟自己打架",
-      "onboard_time": 1683296193,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 206161,
@@ -7587,6 +7643,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 196901,
+      "num": 196901,
+      "word": "千万不要再趴着睡了",
+      "onboard_time": 1683297395,
+      "rank": 45,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 196772,
       "num": 207070,
       "word": "这个五一你去哪旅游了",
@@ -7683,6 +7747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194676,
+      "num": 194676,
+      "word": "楼明",
+      "onboard_time": 1683299671,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194170,
       "num": 194170,
       "word": "小矛盾是否值得成为全民讨论热点",
@@ -7756,7 +7828,7 @@
     },
     {
       "raw_hot": 191474,
-      "num": 191474,
+      "num": 192031,
       "word": "狼队晋级春季赛总决赛",
       "onboard_time": 1683297032,
       "rank": 41,
