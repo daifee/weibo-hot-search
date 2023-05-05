@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683311604260,
+  "endTime": 1683314014080,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -11499,6 +11499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 27098,
+      "num": 25826,
+      "word": "龚琳娜妈宝女",
+      "onboard_time": 1683312913,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25381,
       "num": 166260,
       "word": "运动场上的青年说",
@@ -11512,6 +11520,14 @@
       "word": "自助跳楼机",
       "onboard_time": 1683224416,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 23060,
+      "num": 24117,
+      "word": "年轻人的第一桶金怎么来的",
+      "onboard_time": 1683313814,
+      "rank": 46,
       "category": "幽默"
     },
     {
