@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683264814631,
+  "endTime": 1683267726028,
   "band_list": [
     {
       "raw_hot": 2256653,
@@ -75,6 +75,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1410217,
+      "num": 1410217,
+      "word": "朱珠好像圈外人",
+      "onboard_time": 1683262534,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1406483,
+      "num": 1406483,
+      "word": "谢娜综艺代表作没写快乐大本营",
+      "onboard_time": 1683264749,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1328585,
       "num": 973974,
       "word": "淄博鸭头小哥直播中气到落泪",
@@ -97,6 +113,14 @@
       "onboard_time": 1683208174,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1272516,
+      "num": 1272516,
+      "word": "男朋友28了还是离不开安抚巾",
+      "onboard_time": 1683263551,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 1259638,
@@ -187,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 936423,
-      "num": 466112,
-      "word": "谢娜综艺代表作没写快乐大本营",
-      "onboard_time": 1683264749,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 923242,
       "num": 923242,
       "word": "扒光男童上衣女幼师被拘留8天",
@@ -216,6 +232,14 @@
       "word": "巴厘岛身亡两中国公民身份确认",
       "onboard_time": 1683206132,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 873645,
+      "num": 873645,
+      "word": "一内地男子在澳门赌城酒店身亡",
+      "onboard_time": 1683264090,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -251,6 +275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 708491,
+      "num": 708491,
+      "word": "电竞国家集训队名单公布",
+      "onboard_time": 1683264989,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 676511,
       "num": 676511,
       "word": "俞敏洪建议24节气都放假",
@@ -265,14 +297,6 @@
       "onboard_time": 1683213870,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 662620,
-      "num": 453201,
-      "word": "朱珠好像圈外人",
-      "onboard_time": 1683262534,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 637359,
@@ -347,12 +371,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 550133,
+      "num": 372074,
+      "word": "张嘉倪门面",
+      "onboard_time": 1683264569,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 539760,
       "num": 539760,
       "word": "傅卫军 男人最好的医美",
       "onboard_time": 1683246935,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 514492,
+      "num": 350401,
+      "word": "瞿颖和公司解约的原因 捧太红了",
+      "onboard_time": 1683266248,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 510668,
+      "num": 282644,
+      "word": "六边形战士Amber",
+      "onboard_time": 1683264269,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 489779,
@@ -403,6 +451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 428733,
+      "num": 595626,
+      "word": "巴厘岛情侣",
+      "onboard_time": 1683265167,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407392,
       "num": 314832,
       "word": "你目前月薪存十万需要多久",
@@ -411,10 +467,10 @@
       "category": "情感"
     },
     {
-      "raw_hot": 394698,
-      "num": 394698,
-      "word": "一内地男子在澳门赌城酒店身亡",
-      "onboard_time": 1683264090,
+      "raw_hot": 399703,
+      "num": 399703,
+      "word": "澳门酒店凶杀案嫌犯在内地被捕",
+      "onboard_time": 1683265408,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -529,14 +585,6 @@
       "onboard_time": 1683251128,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 338175,
-      "num": 255609,
-      "word": "六边形战士Amber",
-      "onboard_time": 1683264269,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 336388,
@@ -667,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272006,
-      "num": 272006,
-      "word": "男朋友28了还是离不开安抚巾",
-      "onboard_time": 1683263551,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 271850,
+      "num": 271850,
+      "word": "背调不通过offer没了",
+      "onboard_time": 1683264390,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 263195,
@@ -739,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242067,
+      "num": 242067,
+      "word": "日本地震",
+      "onboard_time": 1683267266,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239804,
       "num": 239804,
       "word": "张若昀鸣龙少年新预告",
@@ -761,6 +817,14 @@
       "onboard_time": 1683259229,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233444,
+      "num": 191966,
+      "word": "乘风2023初舞台",
+      "onboard_time": 1683267025,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 230205,
@@ -883,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214923,
+      "num": 214923,
+      "word": "肖战五号清唱视频",
+      "onboard_time": 1683266728,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
       "raw_hot": 212073,
       "num": 212073,
       "word": "完美世界",
@@ -929,6 +1001,14 @@
       "onboard_time": 1683251966,
       "rank": 33,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 197409,
+      "num": 197409,
+      "word": "女子为见分手男友坐9小时顺风车",
+      "onboard_time": 1683265709,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195135,
@@ -1067,20 +1147,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173995,
-      "num": 173995,
-      "word": "张嘉倪门面",
-      "onboard_time": 1683264569,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171345,
       "num": 171345,
       "word": "上海的垃圾桶到底在哪里",
       "onboard_time": 1683188968,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170719,
+      "num": 170719,
+      "word": "年轻人开始用现金说明了什么",
+      "onboard_time": 1683267447,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 169363,
+      "num": 169363,
+      "word": "杭州亚运会",
+      "onboard_time": 1683267207,
+      "rank": 38,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 167773,
@@ -1425,6 +1513,14 @@
       "onboard_time": 1683219979,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 67560,
+      "num": 121877,
+      "word": "和平精英亚运版本国家集训队名单",
+      "onboard_time": 1683265288,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 59983,
