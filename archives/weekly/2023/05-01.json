@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683257616757,
+  "endTime": 1683260422919,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -755,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1277997,
+      "num": 1277997,
+      "word": "热带鱼 把水煮开了以后再养",
+      "onboard_time": 1683257008,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1271264,
       "num": 1271264,
       "word": "小说里刀削般的面容找到了",
@@ -851,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1180698,
+      "num": 1180698,
+      "word": "乘风4二公淘汰名单",
+      "onboard_time": 1683256531,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1177781,
       "num": 1177781,
       "word": "家长带4名孩子摸螺蛳3人不幸溺亡",
@@ -915,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1114299,
+      "num": 1114299,
+      "word": "黄子韬给鹿晗打电话",
+      "onboard_time": 1683258331,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1110513,
       "num": 1110513,
       "word": "狂飙后又迎来了漫长的季节",
@@ -929,6 +953,14 @@
       "onboard_time": 1683074788,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1104600,
+      "num": 1104600,
+      "word": "身亡情侣家属已赶赴巴厘岛",
+      "onboard_time": 1683246273,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1099269,
@@ -1107,20 +1139,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 990454,
-      "num": 990454,
-      "word": "乘风4二公淘汰名单",
-      "onboard_time": 1683256531,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 986647,
       "num": 986647,
       "word": "秦昊说观众牛逼",
       "onboard_time": 1682991086,
       "rank": 8,
       "category": "影视"
+    },
+    {
+      "raw_hot": 976979,
+      "num": 976979,
+      "word": "浓眉定律",
+      "onboard_time": 1683257430,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 959798,
@@ -1153,14 +1185,6 @@
       "onboard_time": 1682902768,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 931932,
-      "num": 931932,
-      "word": "身亡情侣家属已赶赴巴厘岛",
-      "onboard_time": 1683246273,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 930914,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1683170370,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 830992,
+      "num": 830992,
+      "word": "秋瓷炫初舞台唱无法原谅",
+      "onboard_time": 1683256830,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 828159,
@@ -1603,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 701034,
+      "num": 701034,
+      "word": "张继科奔跑吧被打码",
+      "onboard_time": 1683259110,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 700223,
       "num": 700223,
       "word": "克里姆林宫遭袭击画面",
@@ -1819,6 +1859,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 622955,
+      "num": 622955,
+      "word": "结婚时不要看向你的好朋友",
+      "onboard_time": 1683214412,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 622867,
       "num": 365810,
       "word": "月薪8500工作太闲要辞职吗",
@@ -1841,6 +1889,14 @@
       "onboard_time": 1682955688,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 613428,
+      "num": 613428,
+      "word": "苏群 湖人演过头",
+      "onboard_time": 1683258210,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 609542,
@@ -2007,6 +2063,14 @@
       "num": 559757,
       "word": "蒋奇明 丑帅",
       "onboard_time": 1682948790,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 559645,
+      "num": 559645,
+      "word": "甜小姐与冷先生定档",
+      "onboard_time": 1683259533,
       "rank": 15,
       "category": "影视"
     },
@@ -2259,6 +2323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 514738,
+      "num": 514738,
+      "word": "乘风2023",
+      "onboard_time": 1683081812,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511371,
       "num": 511371,
       "word": "普尔 库里",
@@ -2427,14 +2499,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 472972,
-      "num": 472972,
-      "word": "结婚时不要看向你的好朋友",
-      "onboard_time": 1683214412,
-      "rank": 49,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 472182,
       "num": 556242,
       "word": "金廷祐金敏雅是亲姐弟",
@@ -2497,6 +2561,14 @@
       "onboard_time": 1683183388,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462425,
+      "num": 462425,
+      "word": "谢娜乘风初舞台菠萝菠萝蜜",
+      "onboard_time": 1683256410,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 461026,
@@ -2777,14 +2849,6 @@
       "onboard_time": 1682963958,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423083,
-      "num": 423083,
-      "word": "谢娜乘风初舞台菠萝菠萝蜜",
-      "onboard_time": 1683256410,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 423055,
@@ -3092,7 +3156,7 @@
     },
     {
       "raw_hot": 388657,
-      "num": 355927,
+      "num": 379256,
       "word": "大熊猫花花已经火出国门了",
       "onboard_time": 1683254067,
       "rank": 36,
@@ -3209,14 +3273,6 @@
       "onboard_time": 1683126571,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 378287,
-      "num": 378287,
-      "word": "秋瓷炫初舞台唱无法原谅",
-      "onboard_time": 1683256830,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 378244,
@@ -3531,6 +3587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340775,
+      "num": 340775,
+      "word": "偷偷藏不住",
+      "onboard_time": 1683259953,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
       "raw_hot": 340525,
       "num": 340525,
       "word": "2023优酷片单",
@@ -3769,14 +3833,6 @@
       "onboard_time": 1683021029,
       "rank": 4,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 322905,
-      "num": 322905,
-      "word": "乘风2023",
-      "onboard_time": 1683081812,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 321396,
@@ -4123,12 +4179,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 294475,
+      "num": 294475,
+      "word": "金牛座隐藏的一面",
+      "onboard_time": 1683258630,
+      "rank": 27,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 293984,
       "num": 293984,
       "word": "郭艾伦笑了",
       "onboard_time": 1683125131,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293153,
+      "num": 293153,
+      "word": "难哄谁来演啊",
+      "onboard_time": 1683259894,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 292812,
@@ -4161,6 +4233,14 @@
       "onboard_time": 1682999128,
       "rank": 21,
       "category": "影视"
+    },
+    {
+      "raw_hot": 290697,
+      "num": 290697,
+      "word": "双胞胎不想上学爸爸校门口左拉右拽",
+      "onboard_time": 1683259171,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290201,
@@ -4369,14 +4449,6 @@
       "onboard_time": 1682932407,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 274096,
-      "num": 231753,
-      "word": "热带鱼 把水煮开了以后再养",
-      "onboard_time": 1683257008,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 273511,
@@ -4803,6 +4875,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 251627,
+      "num": 251627,
+      "word": "特斯拉中国上调ModelS全系车型售价",
+      "onboard_time": 1683255809,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 251447,
       "num": 260043,
       "word": "租户装修砸穿承重墙小区居民发声",
@@ -5043,14 +5123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 243955,
-      "num": 231370,
-      "word": "浓眉定律",
-      "onboard_time": 1683257430,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 243789,
       "num": 243789,
       "word": "周雨彤周也撞脸",
@@ -5089,6 +5161,14 @@
       "onboard_time": 1682943390,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242318,
+      "num": 242318,
+      "word": "勇士1比1湖人",
+      "onboard_time": 1683258692,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 241968,
@@ -5315,6 +5395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 234375,
+      "num": 237830,
+      "word": "货车司机深夜护送骑行小伙遭误会",
+      "onboard_time": 1683259229,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234001,
       "num": 234001,
       "word": "窦靖童现场",
@@ -5387,14 +5475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232260,
-      "num": 232260,
-      "word": "特斯拉中国上调ModelS全系车型售价",
-      "onboard_time": 1683255809,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 232113,
       "num": 232113,
       "word": "白鹿包场人生路不熟",
@@ -5459,6 +5539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228416,
+      "num": 228416,
+      "word": "异人之下",
+      "onboard_time": 1683258269,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 228351,
       "num": 228351,
       "word": "本人目前的状态 一不做二不休",
@@ -5473,6 +5561,14 @@
       "onboard_time": 1682909549,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 228147,
+      "num": 228147,
+      "word": "7月龄女婴突发呼吸急促患婴儿白血病",
+      "onboard_time": 1683257732,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228069,
@@ -5705,6 +5801,14 @@
       "onboard_time": 1683181887,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220279,
+      "num": 219170,
+      "word": "恋爱牛",
+      "onboard_time": 1683259471,
+      "rank": 44,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 219972,
@@ -6555,6 +6659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195109,
+      "num": 195109,
+      "word": "一人之下",
+      "onboard_time": 1683260014,
+      "rank": 46,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 194170,
       "num": 194170,
       "word": "小矛盾是否值得成为全民讨论热点",
@@ -6577,6 +6689,22 @@
       "onboard_time": 1683090151,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193945,
+      "num": 193945,
+      "word": "五天爬五岳小伙晒打卡计划表",
+      "onboard_time": 1683257850,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 193922,
+      "num": 291832,
+      "word": "李佳琦面试75岁奶奶主播",
+      "onboard_time": 1683258692,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 193641,
@@ -6953,6 +7081,14 @@
       "onboard_time": 1682953650,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181781,
+      "num": 181781,
+      "word": "异人之下官宣阵容",
+      "onboard_time": 1683257732,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 181549,
@@ -9348,7 +9484,7 @@
     },
     {
       "raw_hot": 91814,
-      "num": 1117552,
+      "num": 1220997,
       "word": "藏在这场人从众里的世间温柔",
       "onboard_time": 1683201028,
       "rank": 2,
