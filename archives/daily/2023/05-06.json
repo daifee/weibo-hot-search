@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683324940601,
+  "endTime": 1683326001773,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -139,12 +139,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 415291,
-      "num": 415291,
+      "raw_hot": 425617,
+      "num": 425617,
       "word": "挖呀挖走红的桃子老师称很焦虑",
       "onboard_time": 1683301651,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 357520,
+      "num": 279997,
+      "word": "巴厘岛遇害情侣系同事关系",
+      "onboard_time": 1683284667,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335267,
@@ -216,14 +224,6 @@
       "word": "承重墙",
       "onboard_time": 1683297814,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254179,
-      "num": 279997,
-      "word": "巴厘岛遇害情侣系同事关系",
-      "onboard_time": 1683284667,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172250,
+      "num": 172250,
+      "word": "小贝饿了带货因虚假宣传被罚46万",
+      "onboard_time": 1683291749,
+      "rank": 38,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 169934,
       "num": 156392,
       "word": "五月天团票",
@@ -345,14 +353,6 @@
       "onboard_time": 1683295830,
       "rank": 34,
       "category": "财经,艺人"
-    },
-    {
-      "raw_hot": 167447,
-      "num": 167447,
-      "word": "小贝饿了带货因虚假宣传被罚46万",
-      "onboard_time": 1683291749,
-      "rank": 38,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 158840,
@@ -451,7 +451,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56861,
+      "raw_hot": 75764,
+      "num": 75764,
+      "word": "大熊猫萌兰用新玩具越狱又失败了",
+      "onboard_time": 1683322633,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58247,
       "num": 56861,
       "word": "女孩给特警男友全队寄了一箱修眉刀",
       "onboard_time": 1683307642,
@@ -475,16 +483,8 @@
       "category": "科技"
     },
     {
-      "raw_hot": 46636,
-      "num": 37305,
-      "word": "大熊猫萌兰用新玩具越狱又失败了",
-      "onboard_time": 1683322633,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35940,
-      "num": 35940,
+      "raw_hot": 48732,
+      "num": 48732,
       "word": "瓦格纳",
       "onboard_time": 1683320712,
       "rank": 42,
@@ -507,7 +507,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17095,
+      "raw_hot": 23052,
       "num": 33084,
       "word": "蒋奇明天选陈铭生",
       "onboard_time": 1683324855,
