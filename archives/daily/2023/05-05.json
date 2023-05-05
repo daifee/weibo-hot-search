@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683253908605,
+  "endTime": 1683254514349,
   "band_list": [
     {
       "raw_hot": 2256653,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1266846,
+      "num": 973974,
+      "word": "淄博鸭头小哥直播中气到落泪",
+      "onboard_time": 1683241280,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1160855,
       "num": 1160855,
       "word": "刘亚仁男友被立案调查",
@@ -43,12 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1080511,
-      "num": 973974,
-      "word": "淄博鸭头小哥直播中气到落泪",
-      "onboard_time": 1683241280,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 1102767,
+      "num": 1102767,
+      "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
+      "onboard_time": 1683251727,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1086920,
+      "num": 580757,
+      "word": "割席",
+      "onboard_time": 1683250469,
+      "rank": 24,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1066442,
@@ -81,14 +97,6 @@
       "onboard_time": 1683246273,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 923803,
-      "num": 923803,
-      "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
-      "onboard_time": 1683251727,
-      "rank": 3,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 923242,
@@ -129,14 +137,6 @@
       "onboard_time": 1683245249,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 844333,
-      "num": 580757,
-      "word": "割席",
-      "onboard_time": 1683250469,
-      "rank": 24,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 820260,
@@ -259,12 +259,28 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 370502,
+      "num": 370502,
+      "word": "小日子阵容官宣",
+      "onboard_time": 1683254128,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 364875,
       "num": 364875,
       "word": "领证一年双方父母未见过面",
       "onboard_time": 1683246993,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 356046,
+      "num": 356046,
+      "word": "你姓氏中最有名的人",
+      "onboard_time": 1683250409,
+      "rank": 27,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 355236,
@@ -275,12 +291,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 341908,
-      "num": 341908,
-      "word": "你姓氏中最有名的人",
-      "onboard_time": 1683250409,
-      "rank": 27,
-      "category": "情感,幽默"
+      "raw_hot": 340525,
+      "num": 340525,
+      "word": "2023优酷片单",
+      "onboard_time": 1683251128,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 333776,
@@ -313,14 +329,6 @@
       "onboard_time": 1683198386,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316714,
-      "num": 316714,
-      "word": "2023优酷片单",
-      "onboard_time": 1683251128,
-      "rank": 23,
-      "category": "影视"
     },
     {
       "raw_hot": 314242,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263195,
+      "num": 263195,
+      "word": "乘风破浪",
+      "onboard_time": 1683253887,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255423,
       "num": 255423,
       "word": "胡锡进说贴插队婆孙车贴很恶心",
@@ -379,8 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249282,
-      "num": 249282,
+      "raw_hot": 249766,
+      "num": 249766,
       "word": "警方通报村民撞到村长狗被打",
       "onboard_time": 1683250767,
       "rank": 47,
@@ -401,6 +417,14 @@
       "onboard_time": 1683253110,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 231943,
+      "num": 231943,
+      "word": "那些不婚主义的人现在怎样了",
+      "onboard_time": 1683253287,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 229285,
@@ -443,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217203,
+      "num": 217203,
+      "word": "自助餐你会吃多少",
+      "onboard_time": 1683253528,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215587,
       "num": 215587,
       "word": "许嵩台上唱歌冯禧台下笑",
@@ -459,14 +491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213910,
-      "num": 213910,
-      "word": "自助餐你会吃多少",
-      "onboard_time": 1683253528,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201723,
       "num": 201723,
       "word": "杭州西湖水域不允许擅自下水",
@@ -475,12 +499,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 191251,
+      "num": 191251,
+      "word": "郭麒麟说别把我逼急了",
+      "onboard_time": 1683253826,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189504,
       "num": 189504,
       "word": "张真源全员加速中上班",
       "onboard_time": 1683250169,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189090,
+      "num": 189090,
+      "word": "蒋奇明真的帅",
+      "onboard_time": 1683252328,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 187606,
@@ -497,6 +537,14 @@
       "onboard_time": 1683231191,
       "rank": 26,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 183648,
+      "num": 183648,
+      "word": "大熊猫花花已经火出国门了",
+      "onboard_time": 1683254067,
+      "rank": 36,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 182805,
@@ -539,20 +587,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 178414,
-      "num": 178414,
-      "word": "蒋奇明真的帅",
-      "onboard_time": 1683252328,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 178391,
-      "num": 178391,
-      "word": "那些不婚主义的人现在怎样了",
-      "onboard_time": 1683253287,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 178142,
+      "num": 178142,
+      "word": "那不勒斯",
+      "onboard_time": 1683252508,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 176432,
@@ -563,12 +603,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 175689,
-      "num": 175689,
-      "word": "那不勒斯",
-      "onboard_time": 1683252508,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 176305,
+      "num": 176305,
+      "word": "小日子",
+      "onboard_time": 1683254488,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 175281,
@@ -585,6 +625,14 @@
       "onboard_time": 1683188968,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168002,
+      "num": 168002,
+      "word": "高圆圆晒图为贾静雯打call",
+      "onboard_time": 1683254307,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 167773,
@@ -707,24 +755,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 137934,
-      "num": 137934,
-      "word": "郭麒麟说别把我逼急了",
-      "onboard_time": 1683253826,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 134580,
-      "num": 134580,
-      "word": "乘风破浪",
-      "onboard_time": 1683253887,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 133902,
-      "num": 133902,
+      "raw_hot": 140609,
+      "num": 140609,
       "word": "德云社",
       "onboard_time": 1683253709,
       "rank": 47,

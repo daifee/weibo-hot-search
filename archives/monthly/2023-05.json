@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683253908605,
+  "endTime": 1683254514349,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -747,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1266846,
+      "num": 973974,
+      "word": "淄博鸭头小哥直播中气到落泪",
+      "onboard_time": 1683241280,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1254591,
       "num": 1084140,
       "word": "黄色笑话是一种服从性测试",
@@ -899,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1102767,
+      "num": 1102767,
+      "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
+      "onboard_time": 1683251727,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1099269,
       "num": 613702,
       "word": "张紫宁向粉丝道歉",
@@ -907,20 +923,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1086920,
+      "num": 580757,
+      "word": "割席",
+      "onboard_time": 1683250469,
+      "rank": 24,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1084877,
       "num": 592336,
       "word": "许嵩台上唱歌冯禧台下笑",
       "onboard_time": 1683197726,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1080511,
-      "num": 973974,
-      "word": "淄博鸭头小哥直播中气到落泪",
-      "onboard_time": 1683241280,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1079555,
@@ -1139,14 +1155,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 923803,
-      "num": 923803,
-      "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
-      "onboard_time": 1683251727,
-      "rank": 3,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 923242,
       "num": 923242,
       "word": "扒光男童上衣女幼师被拘留8天",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1683102869,
       "rank": 5,
       "category": "影视"
-    },
-    {
-      "raw_hot": 844333,
-      "num": 580757,
-      "word": "割席",
-      "onboard_time": 1683250469,
-      "rank": 24,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 842157,
@@ -3211,6 +3211,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 370502,
+      "num": 370502,
+      "word": "小日子阵容官宣",
+      "onboard_time": 1683254128,
+      "rank": 17,
+      "category": "影视"
+    },
+    {
       "raw_hot": 369156,
       "num": 369156,
       "word": "五一假期2.74亿人次出游",
@@ -3313,6 +3321,14 @@
       "onboard_time": 1682849906,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356046,
+      "num": 356046,
+      "word": "你姓氏中最有名的人",
+      "onboard_time": 1683250409,
+      "rank": 27,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 354513,
@@ -3443,14 +3459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341908,
-      "num": 341908,
-      "word": "你姓氏中最有名的人",
-      "onboard_time": 1683250409,
-      "rank": 27,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 341714,
       "num": 325964,
       "word": "张学友探班周杰伦",
@@ -3465,6 +3473,14 @@
       "onboard_time": 1682994448,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 340525,
+      "num": 340525,
+      "word": "2023优酷片单",
+      "onboard_time": 1683251128,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 339177,
@@ -3760,14 +3776,6 @@
       "word": "王一博让卜钰拉自己进试飞小队群",
       "onboard_time": 1683026728,
       "rank": 22,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 316714,
-      "num": 316714,
-      "word": "2023优酷片单",
-      "onboard_time": 1683251128,
-      "rank": 23,
       "category": "影视"
     },
     {
@@ -4499,6 +4507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263195,
+      "num": 263195,
+      "word": "乘风破浪",
+      "onboard_time": 1683253887,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262958,
       "num": 262958,
       "word": "一架直升机坠落西安白鹿仓景区",
@@ -4771,8 +4787,8 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 249282,
-      "num": 249282,
+      "raw_hot": 249766,
+      "num": 249766,
       "word": "警方通报村民撞到村长狗被打",
       "onboard_time": 1683250767,
       "rank": 47,
@@ -5275,6 +5291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231943,
+      "num": 231943,
+      "word": "那些不婚主义的人现在怎样了",
+      "onboard_time": 1683253287,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230792,
       "num": 207462,
       "word": "李飞你中控了毛线",
@@ -5699,6 +5723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217203,
+      "num": 217203,
+      "word": "自助餐你会吃多少",
+      "onboard_time": 1683253528,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216885,
       "num": 201260,
       "word": "马嘉祺灰色短袖造型",
@@ -5793,14 +5825,6 @@
       "onboard_time": 1682953469,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213910,
-      "num": 213910,
-      "word": "自助餐你会吃多少",
-      "onboard_time": 1683253528,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213652,
@@ -6475,6 +6499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191251,
+      "num": 191251,
+      "word": "郭麒麟说别把我逼急了",
+      "onboard_time": 1683253826,
+      "rank": 44,
+      "category": "影视"
+    },
+    {
       "raw_hot": 191248,
       "num": 191248,
       "word": "eso瘦子",
@@ -6545,6 +6577,14 @@
       "onboard_time": 1682991209,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189090,
+      "num": 189090,
+      "word": "蒋奇明真的帅",
+      "onboard_time": 1683252328,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 188822,
@@ -6713,6 +6753,14 @@
       "onboard_time": 1683130407,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183648,
+      "num": 183648,
+      "word": "大熊猫花花已经火出国门了",
+      "onboard_time": 1683254067,
+      "rank": 36,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 183260,
@@ -6939,28 +6987,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 178414,
-      "num": 178414,
-      "word": "蒋奇明真的帅",
-      "onboard_time": 1683252328,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 178391,
-      "num": 178391,
-      "word": "那些不婚主义的人现在怎样了",
-      "onboard_time": 1683253287,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178324,
       "num": 178324,
       "word": "医生在工作时遇到的最离谱的谎言",
       "onboard_time": 1682918008,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178142,
+      "num": 178142,
+      "word": "那不勒斯",
+      "onboard_time": 1683252508,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 178065,
@@ -7067,6 +7107,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 176305,
+      "num": 176305,
+      "word": "小日子",
+      "onboard_time": 1683254488,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 176148,
       "num": 176148,
       "word": "承欢记组讯",
@@ -7097,14 +7145,6 @@
       "onboard_time": 1682991327,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 175689,
-      "num": 175689,
-      "word": "那不勒斯",
-      "onboard_time": 1683252508,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 175641,
@@ -7369,6 +7409,14 @@
       "onboard_time": 1682896400,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168002,
+      "num": 168002,
+      "word": "高圆圆晒图为贾静雯打call",
+      "onboard_time": 1683254307,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 167903,
@@ -8179,6 +8227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 140609,
+      "num": 140609,
+      "word": "德云社",
+      "onboard_time": 1683253709,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140448,
       "num": 140448,
       "word": "温暖的甜蜜的今日开播",
@@ -8235,14 +8291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137934,
-      "num": 137934,
-      "word": "郭麒麟说别把我逼急了",
-      "onboard_time": 1683253826,
-      "rank": 44,
-      "category": "影视"
-    },
-    {
       "raw_hot": 136675,
       "num": 112801,
       "word": "国铁回应坐高铁像挤地铁",
@@ -8291,14 +8339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134580,
-      "num": 134580,
-      "word": "乘风破浪",
-      "onboard_time": 1683253887,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134515,
       "num": 134515,
       "word": "B太二刷许昌胖东来",
@@ -8321,14 +8361,6 @@
       "onboard_time": 1682957065,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133902,
-      "num": 133902,
-      "word": "德云社",
-      "onboard_time": 1683253709,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 133037,
