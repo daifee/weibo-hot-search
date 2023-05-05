@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683286408234,
+  "endTime": 1683289907148,
   "band_list": [
     {
       "raw_hot": 2860556,
@@ -9,6 +9,14 @@
       "onboard_time": 1683278128,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2384595,
+      "num": 1399051,
+      "word": "狗被确诊智障了",
+      "onboard_time": 1683287969,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2336203,
@@ -211,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1187450,
+      "num": 1053749,
+      "word": "法医回应情侣巴厘岛酒店遇害",
+      "onboard_time": 1683276569,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1180698,
       "num": 1180698,
       "word": "乘风4二公淘汰名单",
@@ -257,14 +273,6 @@
       "onboard_time": 1683241880,
       "rank": 8,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1053749,
-      "num": 1053749,
-      "word": "法医回应情侣巴厘岛酒店遇害",
-      "onboard_time": 1683276569,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1049134,
@@ -369,6 +377,14 @@
       "onboard_time": 1683282332,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 829293,
+      "num": 829293,
+      "word": "瞿颖的腿秒了",
+      "onboard_time": 1683284370,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 820260,
@@ -539,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 539264,
+      "num": 539264,
+      "word": "巴厘岛遇害情侣系同事关系",
+      "onboard_time": 1683284667,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532547,
       "num": 532547,
       "word": "山西一地发生重大刑案",
@@ -547,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 532334,
-      "num": 532334,
-      "word": "巴厘岛遇害情侣系同事关系",
-      "onboard_time": 1683284667,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 519776,
+      "num": 519776,
+      "word": "五月天团票",
+      "onboard_time": 1683288268,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 510668,
@@ -592,6 +616,14 @@
       "word": "黄晓明今天好累",
       "onboard_time": 1683260975,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 481060,
+      "num": 311318,
+      "word": "秋瓷炫叫凌潇肃哥哥",
+      "onboard_time": 1683287789,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -649,6 +681,14 @@
       "onboard_time": 1683281011,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431294,
+      "num": 431294,
+      "word": "去趟北京变成了雍和宫安检员",
+      "onboard_time": 1683286351,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 431207,
@@ -971,20 +1011,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 306588,
-      "num": 306588,
-      "word": "瞿颖的腿秒了",
-      "onboard_time": 1683284370,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301574,
       "num": 301574,
       "word": "方头明",
       "onboard_time": 1683249029,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 300123,
+      "num": 300123,
+      "word": "半影月食",
+      "onboard_time": 1683286709,
+      "rank": 21,
+      "category": "自然,社会新闻"
     },
     {
       "raw_hot": 299118,
@@ -1043,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289274,
+      "num": 289274,
+      "word": "CBA半决赛",
+      "onboard_time": 1683289228,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288195,
       "num": 272694,
       "word": "刘惜君 牛",
@@ -1099,12 +1147,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262491,
+      "num": 262491,
+      "word": "范伟是张起灵的可能性",
+      "onboard_time": 1683285808,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258039,
       "num": 258039,
       "word": "杭州亚运会",
       "onboard_time": 1683267207,
       "rank": 38,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 257785,
+      "num": 257785,
+      "word": "出差十五夜",
+      "onboard_time": 1683286408,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 255423,
@@ -1128,6 +1192,14 @@
       "word": "警方通报村民撞到村长狗被打",
       "onboard_time": 1683250767,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248816,
+      "num": 248816,
+      "word": "大熊猫圆梦将回国",
+      "onboard_time": 1683286649,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1193,14 +1265,6 @@
       "onboard_time": 1683278309,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236814,
-      "num": 227706,
-      "word": "范伟是张起灵的可能性",
-      "onboard_time": 1683285808,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 235331,
@@ -1419,6 +1483,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 209403,
+      "num": 184254,
+      "word": "小鬼唱爱如火",
+      "onboard_time": 1683289469,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209162,
       "num": 201033,
       "word": "唐嫣孙坚打卡中戏食堂",
@@ -1507,6 +1579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194736,
+      "num": 174825,
+      "word": "周杰伦香港演唱会",
+      "onboard_time": 1683288149,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190797,
       "num": 201193,
       "word": "西方人眼中的向往的生活",
@@ -1560,6 +1640,14 @@
       "word": "小日子",
       "onboard_time": 1683254488,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184363,
+      "num": 173183,
+      "word": "平凡之路",
+      "onboard_time": 1683288569,
+      "rank": 37,
       "category": "影视"
     },
     {
@@ -1635,12 +1723,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175773,
+      "num": 175773,
+      "word": "辽宁男篮vs广厦男篮",
+      "onboard_time": 1683288627,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175481,
+      "num": 154592,
+      "word": "长月烬明",
+      "onboard_time": 1683289828,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175281,
       "num": 316418,
       "word": "杭州高价打捞手机为自导自演",
       "onboard_time": 1683207572,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173586,
+      "num": 153774,
+      "word": "乘风",
+      "onboard_time": 1683287908,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 171345,
@@ -1801,6 +1913,14 @@
       "onboard_time": 1683250649,
       "rank": 40,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 147779,
+      "num": 147779,
+      "word": "京东上线到手价功能",
+      "onboard_time": 1683288569,
+      "rank": 44,
+      "category": "科技"
     },
     {
       "raw_hot": 145686,
@@ -1995,14 +2115,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 102636,
-      "num": 102636,
-      "word": "去趟北京变成了雍和宫安检员",
-      "onboard_time": 1683286351,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101052,
       "num": 101052,
       "word": "96年村医姑娘成为行走的120",
@@ -2057,6 +2169,14 @@
       "onboard_time": 1683212794,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 82133,
+      "num": 116433,
+      "word": "傲寒",
+      "onboard_time": 1683289469,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 75508,
@@ -2139,6 +2259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58590,
+      "num": 115842,
+      "word": "WB对战狼队",
+      "onboard_time": 1683286709,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47135,
       "num": 427829,
       "word": "米奇也是漫威粉",
@@ -2177,6 +2305,14 @@
       "onboard_time": 1683224416,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15154,
+      "num": 165627,
+      "word": "中国好声音将新增直播赛道",
+      "onboard_time": 1683288027,
+      "rank": 39,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1683289907148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1415169,
+        "num": 1415169,
+        "word": "普通人怎么拥有千万资产",
+        "onboard_time": 1683272427,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2384595,
+        "num": 1399051,
+        "word": "狗被确诊智障了",
+        "onboard_time": 1683287969,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77754,
+        "num": 1102469,
+        "word": "祝融号数据显示现代火星存在液态水",
+        "onboard_time": 1683279509,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 916703,
+        "num": 916703,
+        "word": "蚀骨危情",
+        "onboard_time": 1683279150,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1187450,
+        "num": 916532,
+        "word": "法医回应情侣巴厘岛酒店遇害",
+        "onboard_time": 1683276569,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141632,
+        "num": 911704,
+        "word": "蔡徐坤被判支付前东家300万违约金",
+        "onboard_time": 1683279570,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 890648,
+        "num": 890648,
+        "word": "谢娜回应被说好吵",
+        "onboard_time": 1683282452,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 829293,
+        "num": 829293,
+        "word": "瞿颖的腿秒了",
+        "onboard_time": 1683284370,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 747207,
+        "num": 747207,
+        "word": "吴倩 淘汰",
+        "onboard_time": 1683269308,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428550,
+        "num": 641224,
+        "word": "6岁女童检查异常医生强制报告",
+        "onboard_time": 1683275187,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1654716,
+        "num": 632758,
+        "word": "杨紫张一山",
+        "onboard_time": 1683278128,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619063,
+        "num": 619063,
+        "word": "全国都在咽喉炎吗",
+        "onboard_time": 1683272547,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540319,
+        "num": 540319,
+        "word": "田曦薇曾参加过一年级大学季",
+        "onboard_time": 1683282332,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 539264,
+        "num": 539264,
+        "word": "巴厘岛遇害情侣系同事关系",
+        "onboard_time": 1683284667,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519776,
+        "num": 519776,
+        "word": "五月天团票",
+        "onboard_time": 1683288268,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 443240,
+        "num": 443240,
+        "word": "大冰",
+        "onboard_time": 1683277048,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437290,
+        "num": 437290,
+        "word": "奔跑吧本期是撕名牌个人战",
+        "onboard_time": 1683283469,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431294,
+        "num": 431294,
+        "word": "去趟北京变成了雍和宫安检员",
+        "onboard_time": 1683286351,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353998,
+        "num": 353998,
+        "word": "山西一地发生重大刑案",
+        "onboard_time": 1683279269,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315797,
+        "num": 315797,
+        "word": "男朋友28了还是离不开安抚巾",
+        "onboard_time": 1683263551,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 481060,
+        "num": 311318,
+        "word": "秋瓷炫叫凌潇肃哥哥",
+        "onboard_time": 1683287789,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300123,
+        "num": 300123,
+        "word": "半影月食",
+        "onboard_time": 1683286709,
+        "rank": 21,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 289274,
+        "num": 289274,
+        "word": "CBA半决赛",
+        "onboard_time": 1683289228,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286477,
+        "num": 286477,
+        "word": "五月天官宣鸟巢连开六场",
+        "onboard_time": 1683274288,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270900,
+        "num": 270900,
+        "word": "因为150元和五年好友闹掰了",
+        "onboard_time": 1683278309,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262491,
+        "num": 262491,
+        "word": "范伟是张起灵的可能性",
+        "onboard_time": 1683285808,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257785,
+        "num": 257785,
+        "word": "出差十五夜",
+        "onboard_time": 1683286408,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248816,
+        "num": 248816,
+        "word": "大熊猫圆梦将回国",
+        "onboard_time": 1683286649,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246215,
+        "num": 246215,
+        "word": "朱珠好像圈外人",
+        "onboard_time": 1683262534,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188022,
+        "num": 188022,
+        "word": "腿干的像鱼鳞一样的原因",
+        "onboard_time": 1683281549,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243587,
+        "num": 185868,
+        "word": "五月天演唱会",
+        "onboard_time": 1683280411,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227312,
+        "num": 184305,
+        "word": "肖战i人误入e人聚会",
+        "onboard_time": 1683273748,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209403,
+        "num": 184254,
+        "word": "小鬼唱爱如火",
+        "onboard_time": 1683289469,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176168,
+        "num": 176168,
+        "word": "太想妈妈结果在高铁上哭了",
+        "onboard_time": 1683281251,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175773,
+        "num": 175773,
+        "word": "辽宁男篮vs广厦男篮",
+        "onboard_time": 1683288627,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206271,
+        "num": 175265,
+        "word": "薛之谦连云港演唱会",
+        "onboard_time": 1683285208,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194736,
+        "num": 174825,
+        "word": "周杰伦香港演唱会",
+        "onboard_time": 1683288149,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184363,
+        "num": 173183,
+        "word": "平凡之路",
+        "onboard_time": 1683288569,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171045,
+        "num": 171045,
+        "word": "7人吃自助4小时炫300多个螃蟹摆满桌",
+        "onboard_time": 1683244046,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15154,
+        "num": 165627,
+        "word": "中国好声音将新增直播赛道",
+        "onboard_time": 1683288027,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180602,
+        "num": 164613,
+        "word": "制片人说李明德是小人得志型艺人",
+        "onboard_time": 1683279390,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175481,
+        "num": 154592,
+        "word": "长月烬明",
+        "onboard_time": 1683289828,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173586,
+        "num": 153774,
+        "word": "乘风",
+        "onboard_time": 1683287908,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148124,
+        "num": 148124,
+        "word": "男子连续四年收到陌生汇款约24万元",
+        "onboard_time": 1683276747,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147779,
+        "num": 147779,
+        "word": "京东上线到手价功能",
+        "onboard_time": 1683288569,
+        "rank": 44,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 141040,
+        "num": 141040,
+        "word": "翻车后大家不约而同的这个动作太暖心",
+        "onboard_time": 1683281011,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116454,
+        "num": 116454,
+        "word": "韩国儿童节",
+        "onboard_time": 1683285991,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82133,
+        "num": 116433,
+        "word": "傲寒",
+        "onboard_time": 1683289469,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64076,
+        "num": 116173,
+        "word": "英雄联盟国家集训队名单",
+        "onboard_time": 1683274827,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58590,
+        "num": 115842,
+        "word": "WB对战狼队",
+        "onboard_time": 1683286709,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记给青年的回信#"
+    }
+  }
+}
