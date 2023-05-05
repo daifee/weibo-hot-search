@@ -1,0 +1,410 @@
+{
+  "runTime": 1683292811974,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2383992,
+        "num": 2383992,
+        "word": "吴倩张嘉倪",
+        "onboard_time": 1683291209,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1186496,
+        "num": 1186496,
+        "word": "浪姐4谢娜人气排第一",
+        "onboard_time": 1683292770,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67971,
+        "num": 1095314,
+        "word": "天舟五号撤离空间站",
+        "onboard_time": 1683291871,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2344481,
+        "num": 1095296,
+        "word": "狗被确诊智障了",
+        "onboard_time": 1683287969,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1094759,
+        "num": 1094759,
+        "word": "普通人怎么拥有千万资产",
+        "onboard_time": 1683272427,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1077374,
+        "num": 1077374,
+        "word": "瞿颖的腿秒了",
+        "onboard_time": 1683284370,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 874549,
+        "num": 874549,
+        "word": "蚀骨危情",
+        "onboard_time": 1683279150,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 755866,
+        "num": 755866,
+        "word": "蔡徐坤被判支付前东家300万违约金",
+        "onboard_time": 1683279570,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524921,
+        "num": 721790,
+        "word": "兴文地震",
+        "onboard_time": 1683290789,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413902,
+        "num": 714240,
+        "word": "6岁女童检查异常医生强制报告",
+        "onboard_time": 1683275187,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1619103,
+        "num": 713798,
+        "word": "杨紫张一山",
+        "onboard_time": 1683278128,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711337,
+        "num": 711337,
+        "word": "易烊千玺这么热还穿内搭",
+        "onboard_time": 1683291628,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 638404,
+        "num": 638404,
+        "word": "全国都在咽喉炎吗",
+        "onboard_time": 1683272547,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606265,
+        "num": 606265,
+        "word": "法医回应情侣巴厘岛酒店遇害",
+        "onboard_time": 1683276569,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604217,
+        "num": 604217,
+        "word": "田曦薇曾参加过一年级大学季",
+        "onboard_time": 1683282332,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556916,
+        "num": 556916,
+        "word": "五月天团票",
+        "onboard_time": 1683288268,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 477386,
+        "num": 477386,
+        "word": "去趟北京变成了雍和宫安检员",
+        "onboard_time": 1683286351,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 392525,
+        "num": 392525,
+        "word": "山西一地发生重大刑案",
+        "onboard_time": 1683279269,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388385,
+        "num": 388385,
+        "word": "巴厘岛遇害情侣系同事关系",
+        "onboard_time": 1683284667,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348538,
+        "num": 348538,
+        "word": "男朋友28了还是离不开安抚巾",
+        "onboard_time": 1683263551,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 483057,
+        "num": 339812,
+        "word": "秋瓷炫叫凌潇肃哥哥",
+        "onboard_time": 1683287789,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321170,
+        "num": 321170,
+        "word": "因为150元和五年好友闹掰了",
+        "onboard_time": 1683278309,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307806,
+        "num": 307806,
+        "word": "向往的生活",
+        "onboard_time": 1683291509,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302088,
+        "num": 302088,
+        "word": "孩子出生时vs孩子上学后",
+        "onboard_time": 1683290667,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 277533,
+        "num": 277533,
+        "word": "大冰",
+        "onboard_time": 1683277048,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261918,
+        "num": 261918,
+        "word": "五月天官宣鸟巢连开六场",
+        "onboard_time": 1683274288,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257872,
+        "num": 257872,
+        "word": "傲寒",
+        "onboard_time": 1683289469,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255115,
+        "num": 255115,
+        "word": "朱珠好像圈外人",
+        "onboard_time": 1683262534,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241707,
+        "num": 241707,
+        "word": "奔跑吧本期是撕名牌个人战",
+        "onboard_time": 1683283469,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234512,
+        "num": 234512,
+        "word": "出差十五夜",
+        "onboard_time": 1683286408,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221019,
+        "num": 221019,
+        "word": "五月天演唱会",
+        "onboard_time": 1683280411,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217317,
+        "num": 217317,
+        "word": "长月烬明",
+        "onboard_time": 1683289828,
+        "rank": 31,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215136,
+        "num": 215136,
+        "word": "一只猫绝育前后的变化有多大",
+        "onboard_time": 1683291268,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206720,
+        "num": 206720,
+        "word": "小贝饿了带货因虚假宣传被罚46万",
+        "onboard_time": 1683291749,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 204319,
+        "num": 204319,
+        "word": "辽宁男篮vs广厦男篮",
+        "onboard_time": 1683288627,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207302,
+        "num": 203855,
+        "word": "肖战i人误入e人聚会",
+        "onboard_time": 1683273748,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205428,
+        "num": 203586,
+        "word": "范伟是张起灵的可能性",
+        "onboard_time": 1683285808,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200445,
+        "num": 200445,
+        "word": "男子连续四年收到陌生汇款约24万元",
+        "onboard_time": 1683276747,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199062,
+        "num": 199062,
+        "word": "周杰伦香港演唱会",
+        "onboard_time": 1683288149,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188110,
+        "num": 188110,
+        "word": "腿干的像鱼鳞一样的原因",
+        "onboard_time": 1683281549,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177945,
+        "num": 177945,
+        "word": "大熊猫圆梦将回国",
+        "onboard_time": 1683286649,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176378,
+        "num": 176378,
+        "word": "天赐的声音",
+        "onboard_time": 1683292651,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174433,
+        "num": 174433,
+        "word": "哈哈哈哈哈",
+        "onboard_time": 1683288268,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172040,
+        "num": 172040,
+        "word": "太想妈妈结果在高铁上哭了",
+        "onboard_time": 1683281251,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171460,
+        "num": 171460,
+        "word": "7人吃自助4小时炫300多个螃蟹摆满桌",
+        "onboard_time": 1683244046,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162813,
+        "num": 162813,
+        "word": "薛之谦连云港演唱会",
+        "onboard_time": 1683285208,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151522,
+        "num": 151522,
+        "word": "卢靖姗乘风4带宝宝上班",
+        "onboard_time": 1683273568,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115559,
+        "num": 146492,
+        "word": "田朴珺否认与王石离婚",
+        "onboard_time": 1683292651,
+        "rank": 47,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 61998,
+        "num": 146457,
+        "word": "英雄联盟国家集训队名单",
+        "onboard_time": 1683274827,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60476,
+        "num": 146456,
+        "word": "WB对战狼队",
+        "onboard_time": 1683286709,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记给青年的回信#"
+    }
+  }
+}
