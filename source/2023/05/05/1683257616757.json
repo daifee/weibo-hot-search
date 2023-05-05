@@ -1,0 +1,410 @@
+{
+  "runTime": 1683257616757,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1661700,
+        "num": 1661700,
+        "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
+        "onboard_time": 1683244710,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1024175,
+        "num": 1024175,
+        "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
+        "onboard_time": 1683251727,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 17853,
+        "num": 991254,
+        "word": "藏在这场人从众里的世间温柔",
+        "onboard_time": 1683201028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2154103,
+        "num": 991181,
+        "word": "难哄",
+        "onboard_time": 1683254666,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 990454,
+        "num": 990454,
+        "word": "乘风4二公淘汰名单",
+        "onboard_time": 1683256531,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783722,
+        "num": 783722,
+        "word": "身亡情侣家属已赶赴巴厘岛",
+        "onboard_time": 1683246273,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695404,
+        "num": 695404,
+        "word": "7人吃自助4小时炫300多个螃蟹摆满桌",
+        "onboard_time": 1683244046,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660285,
+        "num": 660285,
+        "word": "与周立波互骂的唐爽被司法拘留十五日",
+        "onboard_time": 1683248015,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 585063,
+        "num": 585063,
+        "word": "高圆圆晒图为贾静雯打call",
+        "onboard_time": 1683254307,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533251,
+        "num": 533251,
+        "word": "湖人vs勇士",
+        "onboard_time": 1683250107,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1046594,
+        "num": 533202,
+        "word": "淄博鸭头小哥直播中气到落泪",
+        "onboard_time": 1683241280,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532653,
+        "num": 532653,
+        "word": "好友称巴厘岛命案死者正环游世界",
+        "onboard_time": 1683216689,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470003,
+        "num": 470003,
+        "word": "上车时身份证掉高铁轨道里了",
+        "onboard_time": 1683252147,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423083,
+        "num": 423083,
+        "word": "谢娜乘风初舞台菠萝菠萝蜜",
+        "onboard_time": 1683256410,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407816,
+        "num": 407816,
+        "word": "小日子阵容官宣",
+        "onboard_time": 1683254128,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 406446,
+        "num": 406446,
+        "word": "杨迪曾因简历照片错失工作机会",
+        "onboard_time": 1683245249,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381663,
+        "num": 381663,
+        "word": "女子刷短视频刷到老公和小三约会",
+        "onboard_time": 1683210937,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378287,
+        "num": 378287,
+        "word": "秋瓷炫初舞台唱无法原谅",
+        "onboard_time": 1683256830,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364469,
+        "num": 364469,
+        "word": "结婚时不要看向你的好朋友",
+        "onboard_time": 1683214412,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 359218,
+        "num": 359218,
+        "word": "说唱巅峰对决音乐节",
+        "onboard_time": 1683256590,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388657,
+        "num": 355927,
+        "word": "大熊猫花花已经火出国门了",
+        "onboard_time": 1683254067,
+        "rank": 20,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 327863,
+        "num": 327863,
+        "word": "傅卫军 男人最好的医美",
+        "onboard_time": 1683246935,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 308602,
+        "num": 308602,
+        "word": "那些不婚主义的人现在怎样了",
+        "onboard_time": 1683253287,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266356,
+        "num": 266356,
+        "word": "俞敏洪建议24节气都放假",
+        "onboard_time": 1683249270,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258933,
+        "num": 258933,
+        "word": "刘亚仁男友被立案调查",
+        "onboard_time": 1683244046,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583203,
+        "num": 257973,
+        "word": "割席",
+        "onboard_time": 1683250469,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 256212,
+        "num": 256212,
+        "word": "肖战抹眼泪",
+        "onboard_time": 1683246273,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 250042,
+        "num": 250042,
+        "word": "乘风2023",
+        "onboard_time": 1683253887,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246126,
+        "num": 246126,
+        "word": "高铁上的一声姐姐花了我35元",
+        "onboard_time": 1683209855,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232260,
+        "num": 232260,
+        "word": "特斯拉中国上调ModelS全系车型售价",
+        "onboard_time": 1683255809,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 274096,
+        "num": 231753,
+        "word": "热带鱼 把水煮开了以后再养",
+        "onboard_time": 1683257008,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243955,
+        "num": 231370,
+        "word": "浓眉定律",
+        "onboard_time": 1683257430,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229325,
+        "num": 229325,
+        "word": "薛之谦又是站票回去的",
+        "onboard_time": 1683204691,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223767,
+        "num": 223767,
+        "word": "郭晓婷的发量",
+        "onboard_time": 1683213870,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 215298,
+        "num": 215298,
+        "word": "塞尔达传说王国之泪",
+        "onboard_time": 1683256890,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1079402,
+        "num": 215235,
+        "word": "性同意文化",
+        "onboard_time": 1683245009,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213004,
+        "num": 213004,
+        "word": "郭麒麟说别把我逼急了",
+        "onboard_time": 1683253826,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212073,
+        "num": 212073,
+        "word": "完美世界",
+        "onboard_time": 1683256890,
+        "rank": 37,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 205415,
+        "num": 205415,
+        "word": "难哄首发概念海报",
+        "onboard_time": 1683254608,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 204174,
+        "num": 204174,
+        "word": "乘风2023初舞台剧照",
+        "onboard_time": 1683255990,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204909,
+        "num": 203940,
+        "word": "史航",
+        "onboard_time": 1683247470,
+        "rank": 40,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 202963,
+        "num": 202963,
+        "word": "最全痔疮手术流程攻略",
+        "onboard_time": 1683256289,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190797,
+        "num": 201193,
+        "word": "西方人眼中的向往的生活",
+        "onboard_time": 1683257488,
+        "rank": 42,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 200927,
+        "num": 200927,
+        "word": "你姓氏中最有名的人",
+        "onboard_time": 1683250409,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 200413,
+        "num": 200413,
+        "word": "2023优酷片单",
+        "onboard_time": 1683251128,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 195135,
+        "num": 195135,
+        "word": "鸣龙少年新预告没有李明德",
+        "onboard_time": 1683256590,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 171421,
+        "num": 171421,
+        "word": "警方通报村民撞到村长狗被打",
+        "onboard_time": 1683250767,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168844,
+        "num": 168844,
+        "word": "巴厘岛",
+        "onboard_time": 1683249449,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166299,
+        "num": 166299,
+        "word": "小日子",
+        "onboard_time": 1683254488,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91229,
+        "num": 166070,
+        "word": "MSI",
+        "onboard_time": 1683244467,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#激扬青春#"
+    }
+  }
+}

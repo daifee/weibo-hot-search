@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683256682719,
+  "endTime": 1683257616757,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -203,6 +203,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 2154103,
+      "num": 1931047,
+      "word": "难哄",
+      "onboard_time": 1683254666,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
       "raw_hot": 2139335,
       "num": 2139335,
       "word": "高铁上最好不要和邻座套近乎",
@@ -313,14 +321,6 @@
       "onboard_time": 1683203729,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1931047,
-      "num": 1931047,
-      "word": "难哄",
-      "onboard_time": 1683254666,
-      "rank": 0,
-      "category": "影视"
     },
     {
       "raw_hot": 1897707,
@@ -457,6 +457,14 @@
       "onboard_time": 1682998288,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1661700,
+      "num": 1661700,
+      "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
+      "onboard_time": 1683244710,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1645310,
@@ -1043,14 +1051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1037875,
-      "num": 1037875,
-      "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
-      "onboard_time": 1683244710,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1032685,
       "num": 1032685,
       "word": "胡锡进 把普通人这样发到网上太不应该",
@@ -1105,6 +1105,14 @@
       "onboard_time": 1683188968,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 990454,
+      "num": 990454,
+      "word": "乘风4二公淘汰名单",
+      "onboard_time": 1683256531,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 986647,
@@ -1891,6 +1899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 585063,
+      "num": 585063,
+      "word": "高圆圆晒图为贾静雯打call",
+      "onboard_time": 1683254307,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 583823,
       "num": 583823,
       "word": "i人已经要不行了",
@@ -2259,14 +2275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 506675,
-      "num": 475125,
-      "word": "高圆圆晒图为贾静雯打call",
-      "onboard_time": 1683254307,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 504598,
       "num": 504598,
       "word": "一诺状态",
@@ -2443,6 +2451,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 470003,
+      "num": 470003,
+      "word": "上车时身份证掉高铁轨道里了",
+      "onboard_time": 1683252147,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 469595,
       "num": 367389,
       "word": "肖战抹眼泪",
@@ -2513,14 +2529,6 @@
       "onboard_time": 1683100590,
       "rank": 17,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 457795,
-      "num": 457795,
-      "word": "上车时身份证掉高铁轨道里了",
-      "onboard_time": 1683252147,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 457483,
@@ -2769,6 +2777,14 @@
       "onboard_time": 1682963958,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 423083,
+      "num": 423083,
+      "word": "谢娜乘风初舞台菠萝菠萝蜜",
+      "onboard_time": 1683256410,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 423055,
@@ -3075,6 +3091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388657,
+      "num": 355927,
+      "word": "大熊猫花花已经火出国门了",
+      "onboard_time": 1683254067,
+      "rank": 36,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 386853,
       "num": 386853,
       "word": "性骚扰事件 不用考虑直接告",
@@ -3185,6 +3209,14 @@
       "onboard_time": 1683126571,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 378287,
+      "num": 378287,
+      "word": "秋瓷炫初舞台唱无法原谅",
+      "onboard_time": 1683256830,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 378244,
@@ -3339,6 +3371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359218,
+      "num": 359218,
+      "word": "说唱巅峰对决音乐节",
+      "onboard_time": 1683256590,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356046,
       "num": 356046,
       "word": "你姓氏中最有名的人",
@@ -3441,14 +3481,6 @@
       "onboard_time": 1683004111,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345980,
-      "num": 321791,
-      "word": "大熊猫花花已经火出国门了",
-      "onboard_time": 1683254067,
-      "rank": 36,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 344954,
@@ -3947,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308602,
+      "num": 308602,
+      "word": "那些不婚主义的人现在怎样了",
+      "onboard_time": 1683253287,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307753,
       "num": 307753,
       "word": "周深说额头见到大家很高兴",
@@ -4331,6 +4371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 274096,
+      "num": 231753,
+      "word": "热带鱼 把水煮开了以后再养",
+      "onboard_time": 1683257008,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273511,
       "num": 273511,
       "word": "闹钟没响",
@@ -4667,14 +4715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255701,
-      "num": 255701,
-      "word": "那些不婚主义的人现在怎样了",
-      "onboard_time": 1683253287,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 255614,
       "num": 255614,
       "word": "长空之王成五一档总票房冠军",
@@ -5001,6 +5041,14 @@
       "onboard_time": 1683213992,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 243955,
+      "num": 231370,
+      "word": "浓眉定律",
+      "onboard_time": 1683257430,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 243789,
@@ -5337,6 +5385,14 @@
       "onboard_time": 1683032972,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232260,
+      "num": 232260,
+      "word": "特斯拉中国上调ModelS全系车型售价",
+      "onboard_time": 1683255809,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 232113,
@@ -5859,6 +5915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215298,
+      "num": 215298,
+      "word": "塞尔达传说王国之泪",
+      "onboard_time": 1683256890,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214685,
       "num": 214685,
       "word": "范丞丞熟人云路演",
@@ -5923,6 +5987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212073,
+      "num": 212073,
+      "word": "完美世界",
+      "onboard_time": 1683256890,
+      "rank": 37,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 212015,
       "num": 655614,
       "word": "变音也能听出你努力忍住的哭腔",
@@ -5945,14 +6017,6 @@
       "onboard_time": 1683088412,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211596,
-      "num": 211596,
-      "word": "乘风4二公淘汰名单",
-      "onboard_time": 1683256531,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 211472,
@@ -6201,6 +6265,14 @@
       "onboard_time": 1683013707,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 202963,
+      "num": 202963,
+      "word": "最全痔疮手术流程攻略",
+      "onboard_time": 1683256289,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 202692,
@@ -6475,12 +6547,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194239,
-      "num": 194239,
-      "word": "谢娜乘风初舞台菠萝菠萝蜜",
-      "onboard_time": 1683256410,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 195135,
+      "num": 195135,
+      "word": "鸣龙少年新预告没有李明德",
+      "onboard_time": 1683256590,
+      "rank": 44,
+      "category": "影视"
     },
     {
       "raw_hot": 194170,
@@ -6601,6 +6673,14 @@
       "onboard_time": 1683007408,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190797,
+      "num": 201193,
+      "word": "西方人眼中的向往的生活",
+      "onboard_time": 1683257488,
+      "rank": 42,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 190453,
@@ -6897,14 +6977,6 @@
       "onboard_time": 1682899285,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 180900,
-      "num": 180900,
-      "word": "特斯拉中国上调ModelS全系车型售价",
-      "onboard_time": 1683255809,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 180597,
@@ -7283,14 +7355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 174191,
-      "num": 174191,
-      "word": "说唱巅峰对决音乐节",
-      "onboard_time": 1683256590,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173626,
       "num": 173626,
       "word": "卜钰问刘晓世自己跟王一博撞型吗",
@@ -7512,14 +7576,6 @@
       "word": "罗云熙片场自己补妆",
       "onboard_time": 1683191549,
       "rank": 45,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 167579,
-      "num": 167579,
-      "word": "鸣龙少年新预告没有李明德",
-      "onboard_time": 1683256590,
-      "rank": 44,
       "category": "影视"
     },
     {
@@ -7944,14 +8000,6 @@
       "word": "为什么恋爱会越谈越累",
       "onboard_time": 1683216689,
       "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 155032,
-      "num": 155032,
-      "word": "最全痔疮手术流程攻略",
-      "onboard_time": 1683256289,
-      "rank": 45,
       "category": "情感"
     },
     {
