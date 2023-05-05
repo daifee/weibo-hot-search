@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683326001773,
+  "endTime": 1683328657167,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 976962,
+      "num": 976962,
+      "word": "挖呀挖走红的桃子老师称很焦虑",
+      "onboard_time": 1683301651,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 923117,
       "num": 923117,
       "word": "浪4 有钱",
@@ -57,6 +65,14 @@
       "onboard_time": 1683291209,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 876873,
+      "num": 399501,
+      "word": "巴厘岛遇害情侣系同事关系",
+      "onboard_time": 1683284667,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 871282,
@@ -139,19 +155,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 425617,
-      "num": 425617,
-      "word": "挖呀挖走红的桃子老师称很焦虑",
-      "onboard_time": 1683301651,
-      "rank": 14,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 357520,
-      "num": 279997,
-      "word": "巴厘岛遇害情侣系同事关系",
-      "onboard_time": 1683284667,
-      "rank": 23,
+      "raw_hot": 388445,
+      "num": 388445,
+      "word": "107岁老人头上长犄角",
+      "onboard_time": 1683302128,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -195,12 +203,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 316292,
-      "num": 302998,
-      "word": "107岁老人头上长犄角",
-      "onboard_time": 1683302128,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 307753,
+      "num": 307753,
+      "word": "小贝饿了带货因虚假宣传被罚46万",
+      "onboard_time": 1683291749,
+      "rank": 38,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 302489,
@@ -323,6 +331,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 174088,
+      "num": 146792,
+      "word": "大熊猫萌兰用新玩具越狱又失败了",
+      "onboard_time": 1683322633,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173357,
       "num": 156433,
       "word": "张靓颖嗓子",
@@ -331,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172250,
-      "num": 172250,
-      "word": "小贝饿了带货因虚假宣传被罚46万",
-      "onboard_time": 1683291749,
-      "rank": 38,
-      "category": "社会新闻,网红"
+      "raw_hot": 172707,
+      "num": 100869,
+      "word": "学生五一前请假遭拒强行离校被处分",
+      "onboard_time": 1683327859,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 169934,
@@ -353,6 +369,14 @@
       "onboard_time": 1683295830,
       "rank": 34,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 161129,
+      "num": 100737,
+      "word": "女孩给特警男友全队寄了一箱修眉刀",
+      "onboard_time": 1683307642,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158840,
@@ -403,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122160,
+      "num": 100656,
+      "word": "私砸承重墙高楼楼层工人正在加固",
+      "onboard_time": 1683327859,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120292,
       "num": 120292,
       "word": "楼明",
@@ -419,6 +451,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 111154,
+      "num": 111154,
+      "word": "全员加速中南京",
+      "onboard_time": 1683328100,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105622,
       "num": 105622,
       "word": "6岁女童检查异常医生强制报告",
@@ -427,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104634,
+      "num": 104634,
+      "word": "祝绪丹给刘宇宁打电话",
+      "onboard_time": 1683326477,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102223,
       "num": 102223,
       "word": "瞿颖个人简介",
       "onboard_time": 1683307938,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100453,
+      "num": 100453,
+      "word": "广东河源发现全球罕见新物种",
+      "onboard_time": 1683328039,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85937,
@@ -444,27 +500,27 @@
     },
     {
       "raw_hot": 77546,
-      "num": 68235,
+      "num": 72324,
       "word": "向往的生活",
       "onboard_time": 1683291509,
       "rank": 41,
       "category": "综艺"
     },
     {
-      "raw_hot": 75764,
-      "num": 75764,
-      "word": "大熊猫萌兰用新玩具越狱又失败了",
-      "onboard_time": 1683322633,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 68899,
+      "num": 68899,
+      "word": "瓦格纳",
+      "onboard_time": 1683320712,
+      "rank": 42,
+      "category": "国外要闻"
     },
     {
-      "raw_hot": 58247,
-      "num": 56861,
-      "word": "女孩给特警男友全队寄了一箱修眉刀",
-      "onboard_time": 1683307642,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 65878,
+      "num": 65878,
+      "word": "美依礼芽御姐音",
+      "onboard_time": 1683328642,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 49764,
@@ -481,14 +537,6 @@
       "onboard_time": 1683291871,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 48732,
-      "num": 48732,
-      "word": "瓦格纳",
-      "onboard_time": 1683320712,
-      "rank": 42,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 27098,
