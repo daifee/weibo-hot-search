@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683267726028,
+  "endTime": 1683268484253,
   "band_list": [
     {
       "raw_hot": 2256653,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1666718,
+      "num": 1666718,
+      "word": "朱珠好像圈外人",
+      "onboard_time": 1683262534,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1661700,
       "num": 1661700,
       "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
@@ -75,20 +83,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1410217,
-      "num": 1410217,
-      "word": "朱珠好像圈外人",
-      "onboard_time": 1683262534,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1406483,
       "num": 1406483,
       "word": "谢娜综艺代表作没写快乐大本营",
       "onboard_time": 1683264749,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1397096,
+      "num": 1397096,
+      "word": "男朋友28了还是离不开安抚巾",
+      "onboard_time": 1683263551,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 1328585,
@@ -113,14 +121,6 @@
       "onboard_time": 1683208174,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1272516,
-      "num": 1272516,
-      "word": "男朋友28了还是离不开安抚巾",
-      "onboard_time": 1683263551,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 1259638,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 914395,
+      "num": 914395,
+      "word": "一内地男子在澳门赌城酒店身亡",
+      "onboard_time": 1683264090,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902493,
       "num": 649259,
       "word": "女子刷短视频刷到老公和小三约会",
@@ -232,14 +240,6 @@
       "word": "巴厘岛身亡两中国公民身份确认",
       "onboard_time": 1683206132,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 873645,
-      "num": 873645,
-      "word": "一内地男子在澳门赌城酒店身亡",
-      "onboard_time": 1683264090,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 609808,
+      "num": 577541,
+      "word": "瞿颖和公司解约的原因 捧太红了",
+      "onboard_time": 1683266248,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 586888,
       "num": 586888,
       "word": "偷偷藏不住",
@@ -352,6 +360,22 @@
       "word": "高圆圆晒图为贾静雯打call",
       "onboard_time": 1683254307,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 581047,
+      "num": 581047,
+      "word": "厦门机场",
+      "onboard_time": 1683267746,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569854,
+      "num": 569854,
+      "word": "张嘉倪门面",
+      "onboard_time": 1683264569,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -371,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 550133,
-      "num": 372074,
-      "word": "张嘉倪门面",
-      "onboard_time": 1683264569,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 539760,
       "num": 539760,
       "word": "傅卫军 男人最好的医美",
@@ -387,16 +403,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 514492,
-      "num": 350401,
-      "word": "瞿颖和公司解约的原因 捧太红了",
-      "onboard_time": 1683266248,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 510668,
-      "num": 282644,
+      "num": 320057,
       "word": "六边形战士Amber",
       "onboard_time": 1683264269,
       "rank": 26,
@@ -441,6 +449,14 @@
       "onboard_time": 1683256410,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 440329,
+      "num": 440329,
+      "word": "日本地震",
+      "onboard_time": 1683267266,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431207,
@@ -579,6 +595,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 342934,
+      "num": 308887,
+      "word": "年轻人开始用现金说明了什么",
+      "onboard_time": 1683267447,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 341290,
+      "num": 341290,
+      "word": "背调不通过offer没了",
+      "onboard_time": 1683264390,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340525,
       "num": 340525,
       "word": "2023优酷片单",
@@ -683,6 +715,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 290504,
+      "num": 253743,
+      "word": "听贾静雯唱歌 眼睛享福",
+      "onboard_time": 1683267926,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287002,
       "num": 243844,
       "word": "品如 战歌起",
@@ -713,14 +753,6 @@
       "onboard_time": 1683263071,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 271850,
-      "num": 271850,
-      "word": "背调不通过offer没了",
-      "onboard_time": 1683264390,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 263195,
@@ -785,14 +817,6 @@
       "onboard_time": 1683258692,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 242067,
-      "num": 242067,
-      "word": "日本地震",
-      "onboard_time": 1683267266,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239804,
@@ -969,6 +993,14 @@
       "onboard_time": 1683263371,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206595,
+      "num": 206595,
+      "word": "杭州亚运会",
+      "onboard_time": 1683267207,
+      "rank": 38,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 204763,
@@ -1155,22 +1187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170719,
-      "num": 170719,
-      "word": "年轻人开始用现金说明了什么",
-      "onboard_time": 1683267447,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 169363,
-      "num": 169363,
-      "word": "杭州亚运会",
-      "onboard_time": 1683267207,
-      "rank": 38,
-      "category": "体育,游戏"
-    },
-    {
       "raw_hot": 167773,
       "num": 167773,
       "word": "无BGM沉浸式感受夏天氛围",
@@ -1217,6 +1233,22 @@
       "onboard_time": 1683208174,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 156701,
+      "num": 146482,
+      "word": "曾可妮帅死了",
+      "onboard_time": 1683267865,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156446,
+      "num": 156446,
+      "word": "吴倩迪士尼在逃公主",
+      "onboard_time": 1683268169,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 156137,
@@ -1363,12 +1395,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116822,
+      "num": 116822,
+      "word": "我人生唯一组过的团",
+      "onboard_time": 1683268408,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115849,
       "num": 115849,
       "word": "王楚然白裙油画少女",
       "onboard_time": 1683204332,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 115159,
+      "num": 115159,
+      "word": "刘雅瑟 帅",
+      "onboard_time": 1683268045,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 113916,
@@ -1577,6 +1625,9 @@
     },
     {
       "word": "#激扬青春#"
+    },
+    {
+      "word": "#重温总书记给青年的回信#"
     }
   ]
 }

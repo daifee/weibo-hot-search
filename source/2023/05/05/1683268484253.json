@@ -1,0 +1,410 @@
+{
+  "runTime": 1683268484253,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1666718,
+        "num": 1666718,
+        "word": "朱珠好像圈外人",
+        "onboard_time": 1683262534,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1397096,
+        "num": 1397096,
+        "word": "男朋友28了还是离不开安抚巾",
+        "onboard_time": 1683263551,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55450,
+        "num": 1245307,
+        "word": "今天是马克思诞辰205周年",
+        "onboard_time": 1683262175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190152,
+        "num": 1190152,
+        "word": "谢娜综艺代表作没写快乐大本营",
+        "onboard_time": 1683264749,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 971187,
+        "num": 971187,
+        "word": "品如艾莉婚礼答谢宴",
+        "onboard_time": 1683261935,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 940096,
+        "num": 940096,
+        "word": "蔡少芬谢娜Ella好吵",
+        "onboard_time": 1683260915,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 914395,
+        "num": 914395,
+        "word": "一内地男子在澳门赌城酒店身亡",
+        "onboard_time": 1683264090,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830506,
+        "num": 830506,
+        "word": "乘风4二公淘汰名单",
+        "onboard_time": 1683256531,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 670250,
+        "num": 670250,
+        "word": "电竞国家集训队名单公布",
+        "onboard_time": 1683264989,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 581047,
+        "num": 581047,
+        "word": "厦门机场",
+        "onboard_time": 1683267746,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 736665,
+        "num": 581005,
+        "word": "张继科奔跑吧被打码",
+        "onboard_time": 1683259110,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609808,
+        "num": 577541,
+        "word": "瞿颖和公司解约的原因 捧太红了",
+        "onboard_time": 1683266248,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569854,
+        "num": 569854,
+        "word": "张嘉倪门面",
+        "onboard_time": 1683264569,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440329,
+        "num": 440329,
+        "word": "日本地震",
+        "onboard_time": 1683267266,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415278,
+        "num": 415278,
+        "word": "巴厘岛情侣",
+        "onboard_time": 1683265167,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516550,
+        "num": 411850,
+        "word": "黄子韬给鹿晗打电话",
+        "onboard_time": 1683258331,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509725,
+        "num": 410942,
+        "word": "难哄",
+        "onboard_time": 1683254666,
+        "rank": 16,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 389448,
+        "num": 389448,
+        "word": "热带鱼 把水煮开了以后再养",
+        "onboard_time": 1683257008,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353713,
+        "num": 353713,
+        "word": "澳门酒店凶杀案嫌犯在内地被捕",
+        "onboard_time": 1683265408,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341290,
+        "num": 341290,
+        "word": "背调不通过offer没了",
+        "onboard_time": 1683264390,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 486583,
+        "num": 327077,
+        "word": "秋瓷炫初舞台唱无法原谅",
+        "onboard_time": 1683256830,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419699,
+        "num": 320057,
+        "word": "六边形战士Amber",
+        "onboard_time": 1683264269,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342934,
+        "num": 308887,
+        "word": "年轻人开始用现金说明了什么",
+        "onboard_time": 1683267447,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291863,
+        "num": 291863,
+        "word": "一人之下",
+        "onboard_time": 1683260014,
+        "rank": 23,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 266018,
+        "num": 266018,
+        "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
+        "onboard_time": 1683251727,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 359393,
+        "num": 258764,
+        "word": "偷偷藏不住",
+        "onboard_time": 1683259953,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 290504,
+        "num": 253743,
+        "word": "听贾静雯唱歌 眼睛享福",
+        "onboard_time": 1683267926,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234922,
+        "num": 234922,
+        "word": "浓眉定律",
+        "onboard_time": 1683257430,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233472,
+        "num": 233472,
+        "word": "淄博鸭头小哥直播中气到落泪",
+        "onboard_time": 1683241280,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162861,
+        "num": 217853,
+        "word": "与周立波互骂的唐爽被司法拘留十五日",
+        "onboard_time": 1683248015,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 215159,
+        "num": 215159,
+        "word": "7人吃自助4小时炫300多个螃蟹摆满桌",
+        "onboard_time": 1683244046,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206595,
+        "num": 206595,
+        "word": "杭州亚运会",
+        "onboard_time": 1683267207,
+        "rank": 31,
+        "category": "体育,游戏"
+      },
+      {
+        "raw_hot": 199389,
+        "num": 199389,
+        "word": "多家机构不再与史航合作",
+        "onboard_time": 1683262470,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 197602,
+        "num": 197602,
+        "word": "身亡情侣家属已赶赴巴厘岛",
+        "onboard_time": 1683246273,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193879,
+        "num": 193879,
+        "word": "石墩子 花花女士的肚子",
+        "onboard_time": 1683261452,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193783,
+        "num": 193783,
+        "word": "肖战五号清唱视频",
+        "onboard_time": 1683266728,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 193816,
+        "num": 187400,
+        "word": "女子为见分手男友坐9小时顺风车",
+        "onboard_time": 1683265709,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170329,
+        "num": 170329,
+        "word": "全员加速中",
+        "onboard_time": 1683259712,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169697,
+        "num": 169697,
+        "word": "女子刷短视频刷到老公和小三约会",
+        "onboard_time": 1683210937,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156446,
+        "num": 156446,
+        "word": "吴倩迪士尼在逃公主",
+        "onboard_time": 1683268169,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152227,
+        "num": 152227,
+        "word": "好友称巴厘岛命案死者正环游世界",
+        "onboard_time": 1683216689,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146883,
+        "num": 146883,
+        "word": "难哄谁来演啊",
+        "onboard_time": 1683259894,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 156701,
+        "num": 146482,
+        "word": "曾可妮帅死了",
+        "onboard_time": 1683267865,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135783,
+        "num": 135783,
+        "word": "苏群 湖人演过头",
+        "onboard_time": 1683258210,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131154,
+        "num": 131154,
+        "word": "大熊猫花花已经火出国门了",
+        "onboard_time": 1683254067,
+        "rank": 44,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 127216,
+        "num": 127216,
+        "word": "李佳琦面试75岁奶奶主播",
+        "onboard_time": 1683258692,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126770,
+        "num": 126770,
+        "word": "金牛座隐藏的一面",
+        "onboard_time": 1683258630,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 116822,
+        "num": 116822,
+        "word": "我人生唯一组过的团",
+        "onboard_time": 1683268408,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115159,
+        "num": 115159,
+        "word": "刘雅瑟 帅",
+        "onboard_time": 1683268045,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56128,
+        "num": 112945,
+        "word": "和平精英亚运版本国家集训队名单",
+        "onboard_time": 1683265288,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记给青年的回信#"
+    }
+  }
+}
