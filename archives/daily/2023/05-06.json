@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683321274580,
+  "endTime": 1683322406273,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -491,20 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15606,
-      "num": 18896,
-      "word": "漫长的季节彩蛋",
-      "onboard_time": 1683318192,
-      "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 15438,
-      "num": 18882,
+      "raw_hot": 21106,
+      "num": 21106,
       "word": "瓦格纳",
       "onboard_time": 1683320712,
       "rank": 42,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 15606,
+      "num": 20952,
+      "word": "漫长的季节彩蛋",
+      "onboard_time": 1683318192,
+      "rank": 47,
+      "category": "影视"
     }
   ],
   "hotgov_list": [
