@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683274841383,
+  "endTime": 1683275597528,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -251,6 +251,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2096263,
+      "num": 2096263,
+      "word": "全国都在咽喉炎吗",
+      "onboard_time": 1683272547,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2067150,
       "num": 417330,
       "word": "毕滢",
@@ -409,14 +417,6 @@
       "onboard_time": 1683004651,
       "rank": 6,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1792593,
-      "num": 1792593,
-      "word": "全国都在咽喉炎吗",
-      "onboard_time": 1683272547,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1791477,
@@ -931,6 +931,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1205642,
+      "num": 1205642,
+      "word": "五月天官宣鸟巢连开六场",
+      "onboard_time": 1683274288,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1188795,
       "num": 407882,
       "word": "唐嫣中戏同学聚会",
@@ -1219,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 987470,
+      "num": 987470,
+      "word": "普通人怎么拥有千万资产",
+      "onboard_time": 1683272427,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 986647,
       "num": 986647,
       "word": "秦昊说观众牛逼",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1683257430,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 979214,
-      "num": 668953,
-      "word": "五月天官宣鸟巢连开六场",
-      "onboard_time": 1683274288,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 971296,
@@ -1667,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 716698,
-      "num": 716698,
-      "word": "普通人怎么拥有千万资产",
-      "onboard_time": 1683272427,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 715187,
       "num": 715187,
       "word": "向太直播将送百台车",
@@ -2049,6 +2049,14 @@
       "onboard_time": 1683006328,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 604010,
+      "num": 465113,
+      "word": "肖战i人误入e人聚会",
+      "onboard_time": 1683273748,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 601101,
@@ -2675,6 +2683,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 472972,
+      "num": 419721,
+      "word": "Ella回应好吵",
+      "onboard_time": 1683269969,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472182,
       "num": 556242,
       "word": "金廷祐金敏雅是亲姐弟",
@@ -2731,14 +2747,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 465113,
-      "num": 465113,
-      "word": "肖战i人误入e人聚会",
-      "onboard_time": 1683273748,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 464631,
       "num": 464631,
       "word": "巴厘岛",
@@ -2785,14 +2793,6 @@
       "onboard_time": 1683100590,
       "rank": 17,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 457543,
-      "num": 409245,
-      "word": "Ella回应好吵",
-      "onboard_time": 1683269969,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 457483,
@@ -3195,12 +3195,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 406663,
+      "num": 406663,
+      "word": "巴厘岛华人身亡案发酒店仍在营业",
+      "onboard_time": 1683271648,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405553,
       "num": 405553,
       "word": "五一档两部电影票房破五亿",
       "onboard_time": 1683100469,
       "rank": 19,
       "category": "影视"
+    },
+    {
+      "raw_hot": 404900,
+      "num": 404900,
+      "word": "彭昱畅竟然有6块腹肌",
+      "onboard_time": 1683272968,
+      "rank": 20,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 404774,
@@ -3507,14 +3523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 378700,
-      "num": 378700,
-      "word": "巴厘岛华人身亡案发酒店仍在营业",
-      "onboard_time": 1683271648,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378244,
       "num": 378244,
       "word": "Jennie CK全球代言人",
@@ -3601,14 +3609,6 @@
       "onboard_time": 1683085770,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 366827,
-      "num": 366827,
-      "word": "彭昱畅竟然有6块腹肌",
-      "onboard_time": 1683272968,
-      "rank": 20,
-      "category": "影视,动漫"
     },
     {
       "raw_hot": 366086,
@@ -4499,6 +4499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293423,
+      "num": 258839,
+      "word": "卢靖姗乘风4带宝宝上班",
+      "onboard_time": 1683273568,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293301,
       "num": 369308,
       "word": "山东71岁爷爷一年2次外出卖糖",
@@ -4753,14 +4761,6 @@
       "onboard_time": 1683094890,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276528,
-      "num": 187164,
-      "word": "卢靖姗乘风4带宝宝上班",
-      "onboard_time": 1683273568,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 275432,
@@ -6851,6 +6851,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 201867,
+      "num": 257775,
+      "word": "6岁女童检查异常医生强制报告",
+      "onboard_time": 1683275187,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201723,
       "num": 201723,
       "word": "杭州西湖水域不允许擅自下水",
@@ -6881,6 +6889,14 @@
       "onboard_time": 1683084213,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201033,
+      "num": 201033,
+      "word": "唐嫣孙坚打卡中戏食堂",
+      "onboard_time": 1683274948,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 200867,
@@ -7915,6 +7931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174531,
+      "num": 174531,
+      "word": "英雄联盟国家集训队名单",
+      "onboard_time": 1683274827,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174489,
       "num": 174489,
       "word": "中国第一位唢呐博士惊艳出圈",
@@ -8899,6 +8923,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 144333,
+      "num": 144333,
+      "word": "找不到双休的工作该不该将就",
+      "onboard_time": 1683274650,
+      "rank": 47,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 143308,
       "num": 143308,
       "word": "上海草莓到底有多少蜘蛛侠",
@@ -8913,6 +8945,14 @@
       "onboard_time": 1682956647,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141909,
+      "num": 141909,
+      "word": "蒋奇明和易烊千玺合作过",
+      "onboard_time": 1683274170,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 141552,
@@ -8977,14 +9017,6 @@
       "onboard_time": 1683101849,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 139889,
-      "num": 139889,
-      "word": "蒋奇明和易烊千玺合作过",
-      "onboard_time": 1683274170,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 139183,
@@ -9097,14 +9129,6 @@
       "onboard_time": 1683271949,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133222,
-      "num": 133222,
-      "word": "找不到双休的工作该不该将就",
-      "onboard_time": 1683274650,
-      "rank": 47,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 133037,
@@ -9665,14 +9689,6 @@
       "onboard_time": 1683170009,
       "rank": 48,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 116083,
-      "num": 116083,
-      "word": "英雄联盟国家集训队名单",
-      "onboard_time": 1683274827,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 115590,
