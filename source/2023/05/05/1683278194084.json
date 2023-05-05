@@ -1,0 +1,410 @@
+{
+  "runTime": 1683278194084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2336203,
+        "num": 2336203,
+        "word": "全国都在咽喉炎吗",
+        "onboard_time": 1683272547,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1674206,
+        "num": 1674206,
+        "word": "吴倩 淘汰",
+        "onboard_time": 1683269308,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45363,
+        "num": 1600155,
+        "word": "今天是马克思诞辰205周年",
+        "onboard_time": 1683262175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1550504,
+        "num": 1550504,
+        "word": "6岁女童检查异常医生强制报告",
+        "onboard_time": 1683275187,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1361873,
+        "num": 1361873,
+        "word": "普通人怎么拥有千万资产",
+        "onboard_time": 1683272427,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 955105,
+        "num": 955105,
+        "word": "男朋友28了还是离不开安抚巾",
+        "onboard_time": 1683263551,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 763123,
+        "num": 763123,
+        "word": "五月天官宣鸟巢连开六场",
+        "onboard_time": 1683274288,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 758276,
+        "num": 758276,
+        "word": "大冰",
+        "onboard_time": 1683277048,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 743345,
+        "num": 743345,
+        "word": "品如艾莉婚礼答谢宴",
+        "onboard_time": 1683261935,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689152,
+        "num": 689152,
+        "word": "朱珠好美啊",
+        "onboard_time": 1683261814,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 702357,
+        "num": 663847,
+        "word": "肖战i人误入e人聚会",
+        "onboard_time": 1683273748,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623762,
+        "num": 623762,
+        "word": "蔡少芬谢娜Ella好吵",
+        "onboard_time": 1683260915,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545126,
+        "num": 545126,
+        "word": "彭昱畅竟然有6块腹肌",
+        "onboard_time": 1683272968,
+        "rank": 12,
+        "category": "影视,动漫"
+      },
+      {
+        "raw_hot": 470279,
+        "num": 470279,
+        "word": "法医回应情侣巴厘岛酒店遇害",
+        "onboard_time": 1683276569,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415475,
+        "num": 415475,
+        "word": "热带鱼 把水煮开了以后再养",
+        "onboard_time": 1683257008,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 525306,
+        "num": 401923,
+        "word": "谢娜综艺代表作没写快乐大本营",
+        "onboard_time": 1683264749,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352765,
+        "num": 352765,
+        "word": "瞿颖和公司解约的原因 捧太红了",
+        "onboard_time": 1683266248,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313121,
+        "num": 313121,
+        "word": "英雄联盟国家集训队名单",
+        "onboard_time": 1683274827,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301333,
+        "num": 301333,
+        "word": "巴厘岛华人身亡案发酒店仍在营业",
+        "onboard_time": 1683271648,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229631,
+        "num": 276915,
+        "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
+        "onboard_time": 1683251727,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 348427,
+        "num": 274030,
+        "word": "黄子韬给鹿晗打电话",
+        "onboard_time": 1683258331,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315338,
+        "num": 273068,
+        "word": "年轻人开始用现金说明了什么",
+        "onboard_time": 1683267447,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269638,
+        "num": 269638,
+        "word": "Ella回应好吵",
+        "onboard_time": 1683269969,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267757,
+        "num": 267757,
+        "word": "卢靖姗乘风4带宝宝上班",
+        "onboard_time": 1683273568,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213198,
+        "num": 213198,
+        "word": "找不到双休的工作该不该将就",
+        "onboard_time": 1683274650,
+        "rank": 24,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 259872,
+        "num": 213147,
+        "word": "难哄",
+        "onboard_time": 1683254666,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 219456,
+        "num": 212989,
+        "word": "张嘉倪门面",
+        "onboard_time": 1683264569,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212110,
+        "num": 212110,
+        "word": "山东71岁爷爷一年2次外出卖糖",
+        "onboard_time": 1683268949,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201430,
+        "num": 201430,
+        "word": "7人吃自助4小时炫300多个螃蟹摆满桌",
+        "onboard_time": 1683244046,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200000,
+        "num": 200000,
+        "word": "巴厘岛情侣",
+        "onboard_time": 1683265167,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881140,
+        "num": 199734,
+        "word": "杨紫张一山",
+        "onboard_time": 1683278128,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379438,
+        "num": 199308,
+        "word": "男子连续四年收到陌生汇款约24万元",
+        "onboard_time": 1683276747,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209162,
+        "num": 198984,
+        "word": "唐嫣孙坚打卡中戏食堂",
+        "onboard_time": 1683274948,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198528,
+        "num": 198528,
+        "word": "乘风4二公淘汰名单",
+        "onboard_time": 1683256531,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189739,
+        "num": 189739,
+        "word": "背调不通过offer没了",
+        "onboard_time": 1683264390,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183918,
+        "num": 183918,
+        "word": "张继科奔跑吧被打码",
+        "onboard_time": 1683259110,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169718,
+        "num": 169718,
+        "word": "爸爸给我的爱在此刻变臭了",
+        "onboard_time": 1683269548,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168193,
+        "num": 168193,
+        "word": "一人之下",
+        "onboard_time": 1683260014,
+        "rank": 37,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 167593,
+        "num": 167593,
+        "word": "好友称巴厘岛命案死者正环游世界",
+        "onboard_time": 1683216689,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163330,
+        "num": 163330,
+        "word": "王一博杀青行李",
+        "onboard_time": 1683270448,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160028,
+        "num": 160028,
+        "word": "电竞国家集训队名单公布",
+        "onboard_time": 1683264989,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159861,
+        "num": 159861,
+        "word": "流水线公主",
+        "onboard_time": 1683269909,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156938,
+        "num": 156938,
+        "word": "日本地震",
+        "onboard_time": 1683267266,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154969,
+        "num": 154969,
+        "word": "来自婆婆的分寸感",
+        "onboard_time": 1683277470,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142064,
+        "num": 142064,
+        "word": "蒋奇明和易烊千玺合作过",
+        "onboard_time": 1683274170,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 134854,
+        "num": 134854,
+        "word": "河南一退役军人勇救落水女孩",
+        "onboard_time": 1683276869,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134821,
+        "num": 134821,
+        "word": "身亡情侣家属已赶赴巴厘岛",
+        "onboard_time": 1683246273,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133046,
+        "num": 133046,
+        "word": "偷偷藏不住暗恋独白片花",
+        "onboard_time": 1683270568,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 128101,
+        "num": 128101,
+        "word": "大学生只尝不买火车推销员幽默吐槽",
+        "onboard_time": 1683268828,
+        "rank": 48,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 116261,
+        "num": 116261,
+        "word": "一内地男子在澳门赌城酒店身亡",
+        "onboard_time": 1683264090,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记给青年的回信#"
+    }
+  }
+}
