@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683299856366,
+  "endTime": 1683300825350,
   "band_list": [
     {
       "raw_hot": 2860556,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1163266,
+      "num": 1163266,
+      "word": "极乐净土",
+      "onboard_time": 1683294812,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1160855,
       "num": 1160855,
       "word": "刘亚仁男友被立案调查",
@@ -307,20 +315,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1138413,
-      "num": 1138413,
-      "word": "极乐净土",
-      "onboard_time": 1683294812,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1129134,
       "num": 1129134,
       "word": "谢娜回应被说好吵",
       "onboard_time": 1683282452,
       "rank": 12,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 1123974,
+      "num": 1123974,
+      "word": "为什么香飘飘卖不动了",
+      "onboard_time": 1683298771,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1086920,
@@ -393,6 +401,14 @@
       "onboard_time": 1683267746,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954023,
+      "num": 954023,
+      "word": "黄老师",
+      "onboard_time": 1683298231,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 923242,
@@ -475,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785041,
+      "num": 721220,
+      "word": "谢娜初舞台制作人是张杰",
+      "onboard_time": 1683299852,
+      "rank": 11,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 743209,
       "num": 743209,
       "word": "薛之谦又是站票回去的",
       "onboard_time": 1683204691,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 742663,
-      "num": 742663,
-      "word": "黄老师",
-      "onboard_time": 1683298231,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 708491,
@@ -739,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 488567,
-      "num": 488567,
-      "word": "为什么香飘飘卖不动了",
-      "onboard_time": 1683298771,
-      "rank": 14,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 488527,
       "num": 340672,
       "word": "秋瓷炫叫凌潇肃哥哥",
@@ -809,6 +817,14 @@
       "onboard_time": 1683267447,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 454147,
+      "num": 454147,
+      "word": "唐伯虎 淘汰",
+      "onboard_time": 1683300334,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 449258,
@@ -1051,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 344681,
+      "num": 344681,
+      "word": "耳高于眉",
+      "onboard_time": 1683299613,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 340525,
       "num": 340525,
       "word": "2023优酷片单",
@@ -1107,6 +1131,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 331153,
+      "num": 331153,
+      "word": "韩庚",
+      "onboard_time": 1683300631,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 328622,
       "num": 328622,
       "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1683269788,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317088,
+      "num": 317088,
+      "word": "田曦薇古装",
+      "onboard_time": 1683300031,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 314242,
@@ -1232,6 +1272,14 @@
       "word": "唐九洲说在淄博看到了武艺",
       "onboard_time": 1683244647,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297623,
+      "num": 266328,
+      "word": "秋瓷炫李彩桦",
+      "onboard_time": 1683300690,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1321,6 +1369,14 @@
       "onboard_time": 1683295172,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280024,
+      "num": 257759,
+      "word": "鹿晗周震南互相伤害",
+      "onboard_time": 1683299193,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 279830,
@@ -1481,14 +1537,6 @@
       "onboard_time": 1683258692,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240261,
-      "num": 240261,
-      "word": "鹿晗周震南互相伤害",
-      "onboard_time": 1683299193,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 239804,
@@ -1851,6 +1899,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 198648,
+      "num": 198648,
+      "word": "楼明",
+      "onboard_time": 1683299671,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196901,
       "num": 196901,
       "word": "千万不要再趴着睡了",
@@ -1889,14 +1945,6 @@
       "onboard_time": 1683293849,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194676,
-      "num": 194676,
-      "word": "楼明",
-      "onboard_time": 1683299671,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 191474,

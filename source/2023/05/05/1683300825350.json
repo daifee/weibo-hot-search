@@ -1,0 +1,410 @@
+{
+  "runTime": 1683300825350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1654084,
+        "num": 1654084,
+        "word": "新冠疫情不再构成国际关注的突发公共卫生事件",
+        "onboard_time": 1683293489,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1496793,
+        "num": 1496793,
+        "word": "吴倩张嘉倪",
+        "onboard_time": 1683291209,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68008,
+        "num": 1451120,
+        "word": "天舟五号撤离空间站",
+        "onboard_time": 1683291871,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1451074,
+        "num": 1451074,
+        "word": "狗被确诊智障了",
+        "onboard_time": 1683287969,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1163266,
+        "num": 1163266,
+        "word": "极乐净土",
+        "onboard_time": 1683294812,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1123974,
+        "num": 1123974,
+        "word": "为什么香飘飘卖不动了",
+        "onboard_time": 1683298771,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1020918,
+        "num": 1020918,
+        "word": "宋雨琦把关晓彤挠下去了",
+        "onboard_time": 1683294153,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 976790,
+        "num": 976790,
+        "word": "秦霄贤受伤",
+        "onboard_time": 1683297631,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 954023,
+        "num": 954023,
+        "word": "黄老师",
+        "onboard_time": 1683298231,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 731139,
+        "num": 731139,
+        "word": "同事辟谣挖呀挖黄老师辞职",
+        "onboard_time": 1683294871,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1059099,
+        "num": 725988,
+        "word": "杨紫张一山",
+        "onboard_time": 1683278128,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 785041,
+        "num": 721220,
+        "word": "谢娜初舞台制作人是张杰",
+        "onboard_time": 1683299852,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 706400,
+        "num": 706400,
+        "word": "中戏同学鼓励郭珍霓拍戏",
+        "onboard_time": 1683295411,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485532,
+        "num": 485532,
+        "word": "王石 田朴珺",
+        "onboard_time": 1683295830,
+        "rank": 13,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 459649,
+        "num": 459649,
+        "word": "林一你换个发型吧",
+        "onboard_time": 1683293311,
+        "rank": 14,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 454227,
+        "num": 454227,
+        "word": "Ella恋人未满听哭了",
+        "onboard_time": 1683294271,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454147,
+        "num": 454147,
+        "word": "唐伯虎 淘汰",
+        "onboard_time": 1683300334,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380453,
+        "num": 380453,
+        "word": "6岁女童检查异常医生强制报告",
+        "onboard_time": 1683275187,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345887,
+        "num": 345887,
+        "word": "法医回应情侣巴厘岛酒店遇害",
+        "onboard_time": 1683276569,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344681,
+        "num": 344681,
+        "word": "耳高于眉",
+        "onboard_time": 1683299613,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426777,
+        "num": 342499,
+        "word": "谢娜回应被说好吵",
+        "onboard_time": 1683282452,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382037,
+        "num": 340869,
+        "word": "蔡徐坤被判支付前东家300万违约金",
+        "onboard_time": 1683279570,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336934,
+        "num": 336934,
+        "word": "张靓颖嗓子",
+        "onboard_time": 1683294569,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332920,
+        "num": 332920,
+        "word": "普通人怎么拥有千万资产",
+        "onboard_time": 1683272427,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312738,
+        "num": 331794,
+        "word": "巴厘岛遇害情侣系同事关系",
+        "onboard_time": 1683284667,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331153,
+        "num": 331153,
+        "word": "韩庚",
+        "onboard_time": 1683300631,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317088,
+        "num": 317088,
+        "word": "田曦薇古装",
+        "onboard_time": 1683300031,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291935,
+        "num": 291935,
+        "word": "妖刀C麻了",
+        "onboard_time": 1683298771,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274506,
+        "num": 274506,
+        "word": "男朋友28了还是离不开安抚巾",
+        "onboard_time": 1683263551,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270866,
+        "num": 270866,
+        "word": "巴厘岛",
+        "onboard_time": 1683295350,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307219,
+        "num": 268401,
+        "word": "蚀骨危情",
+        "onboard_time": 1683279150,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 297623,
+        "num": 266328,
+        "word": "秋瓷炫李彩桦",
+        "onboard_time": 1683300690,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297517,
+        "num": 262450,
+        "word": "瞿颖的腿秒了",
+        "onboard_time": 1683284370,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559789,
+        "num": 259539,
+        "word": "全国都在咽喉炎吗",
+        "onboard_time": 1683272547,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280024,
+        "num": 257759,
+        "word": "鹿晗周震南互相伤害",
+        "onboard_time": 1683299193,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256049,
+        "num": 256049,
+        "word": "朱珠好像圈外人",
+        "onboard_time": 1683262534,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226772,
+        "num": 226772,
+        "word": "山西一地发生重大刑案",
+        "onboard_time": 1683279269,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207337,
+        "num": 207337,
+        "word": "心疼孙铭徽",
+        "onboard_time": 1683295350,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205059,
+        "num": 205059,
+        "word": "承重墙",
+        "onboard_time": 1683297814,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200889,
+        "num": 200889,
+        "word": "小贝饿了带货因虚假宣传被罚46万",
+        "onboard_time": 1683291749,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 244160,
+        "num": 200758,
+        "word": "五月天团票",
+        "onboard_time": 1683288268,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238063,
+        "num": 200206,
+        "word": "银河护卫队3开分漫威最高",
+        "onboard_time": 1683298055,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 216708,
+        "num": 199547,
+        "word": "周杰伦香港演唱会",
+        "onboard_time": 1683288149,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211319,
+        "num": 199464,
+        "word": "大冰",
+        "onboard_time": 1683277048,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209747,
+        "num": 198924,
+        "word": "范丞丞说白鹿是在跟自己打架",
+        "onboard_time": 1683296193,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198648,
+        "num": 198648,
+        "word": "楼明",
+        "onboard_time": 1683299671,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195140,
+        "num": 195140,
+        "word": "千万不要再趴着睡了",
+        "onboard_time": 1683297395,
+        "rank": 46,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 181768,
+        "num": 181768,
+        "word": "挖呀挖呀挖",
+        "onboard_time": 1683295172,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127151,
+        "num": 177493,
+        "word": "狼队晋级春季赛总决赛",
+        "onboard_time": 1683297032,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 95071,
+        "num": 175963,
+        "word": "KPL",
+        "onboard_time": 1683298952,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记给青年的回信#"
+    }
+  }
+}

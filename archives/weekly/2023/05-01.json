@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683299856366,
+  "endTime": 1683300825350,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -1083,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1163266,
+      "num": 1163266,
+      "word": "极乐净土",
+      "onboard_time": 1683294812,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1160855,
       "num": 1160855,
       "word": "刘亚仁男友被立案调查",
@@ -1131,14 +1139,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 1138413,
-      "num": 1138413,
-      "word": "极乐净土",
-      "onboard_time": 1683294812,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1133149,
       "num": 1133149,
       "word": "景区2天内捡了23个娃",
@@ -1153,6 +1153,14 @@
       "onboard_time": 1683282452,
       "rank": 12,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 1123974,
+      "num": 1123974,
+      "word": "为什么香飘飘卖不动了",
+      "onboard_time": 1683298771,
+      "rank": 14,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1115494,
@@ -1409,6 +1417,14 @@
       "onboard_time": 1683267746,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 954023,
+      "num": 954023,
+      "word": "黄老师",
+      "onboard_time": 1683298231,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 944676,
@@ -1715,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785041,
+      "num": 721220,
+      "word": "谢娜初舞台制作人是张杰",
+      "onboard_time": 1683299852,
+      "rank": 11,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 777124,
       "num": 777124,
       "word": "今年五一这10大景区人最多",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1682866892,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 742663,
-      "num": 742663,
-      "word": "黄老师",
-      "onboard_time": 1683298231,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 740857,
@@ -2835,14 +2851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 488567,
-      "num": 488567,
-      "word": "为什么香飘飘卖不动了",
-      "onboard_time": 1683298771,
-      "rank": 14,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 488527,
       "num": 340672,
       "word": "秋瓷炫叫凌潇肃哥哥",
@@ -3105,6 +3113,14 @@
       "onboard_time": 1683267447,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 454147,
+      "num": 454147,
+      "word": "唐伯虎 淘汰",
+      "onboard_time": 1683300334,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 453538,
@@ -4187,6 +4203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 344681,
+      "num": 344681,
+      "word": "耳高于眉",
+      "onboard_time": 1683299613,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 344509,
       "num": 344509,
       "word": "易烊千玺新歌",
@@ -4361,6 +4385,14 @@
       "onboard_time": 1683201807,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 331153,
+      "num": 331153,
+      "word": "韩庚",
+      "onboard_time": 1683300631,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 331062,
@@ -4593,6 +4625,14 @@
       "onboard_time": 1683026728,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 317088,
+      "num": 317088,
+      "word": "田曦薇古装",
+      "onboard_time": 1683300031,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 316514,
@@ -4867,6 +4907,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 297623,
+      "num": 266328,
+      "word": "秋瓷炫李彩桦",
+      "onboard_time": 1683300690,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297615,
       "num": 269113,
       "word": "喻言个人巡演官宣",
@@ -5129,6 +5177,14 @@
       "onboard_time": 1683073946,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280024,
+      "num": 257759,
+      "word": "鹿晗周震南互相伤害",
+      "onboard_time": 1683299193,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 279830,
@@ -6073,14 +6129,6 @@
       "onboard_time": 1683102869,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240261,
-      "num": 240261,
-      "word": "鹿晗周震南互相伤害",
-      "onboard_time": 1683299193,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 239816,
@@ -7587,6 +7635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198648,
+      "num": 198648,
+      "word": "楼明",
+      "onboard_time": 1683299671,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198303,
       "num": 198303,
       "word": "吴世勋为拍MV剪短头发",
@@ -7745,14 +7801,6 @@
       "onboard_time": 1683293849,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194676,
-      "num": 194676,
-      "word": "楼明",
-      "onboard_time": 1683299671,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 194170,
