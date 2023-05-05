@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683268484253,
+  "endTime": 1683270925562,
   "band_list": [
     {
       "raw_hot": 2256653,
@@ -32,6 +32,14 @@
       "word": "蔡少芬谢娜Ella好吵",
       "onboard_time": 1683260915,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2000733,
+      "num": 2000733,
+      "word": "吴倩 淘汰",
+      "onboard_time": 1683269308,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -211,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 957254,
+      "num": 957254,
+      "word": "厦门机场",
+      "onboard_time": 1683267746,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 923242,
       "num": 923242,
       "word": "扒光男童上衣女幼师被拘留8天",
@@ -347,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 587660,
+      "num": 569854,
+      "word": "张嘉倪门面",
+      "onboard_time": 1683264569,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 586888,
       "num": 586888,
       "word": "偷偷藏不住",
@@ -360,22 +384,6 @@
       "word": "高圆圆晒图为贾静雯打call",
       "onboard_time": 1683254307,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 581047,
-      "num": 581047,
-      "word": "厦门机场",
-      "onboard_time": 1683267746,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 569854,
-      "num": 569854,
-      "word": "张嘉倪门面",
-      "onboard_time": 1683264569,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -409,6 +417,14 @@
       "onboard_time": 1683264269,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502503,
+      "num": 502503,
+      "word": "日本地震",
+      "onboard_time": 1683267266,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489779,
@@ -451,12 +467,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 440329,
-      "num": 440329,
-      "word": "日本地震",
-      "onboard_time": 1683267266,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 455478,
+      "num": 379366,
+      "word": "年轻人开始用现金说明了什么",
+      "onboard_time": 1683267447,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 431207,
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393233,
+      "num": 393233,
+      "word": "背调不通过offer没了",
+      "onboard_time": 1683264390,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 390441,
       "num": 390441,
       "word": "同事登我电脑问密码是什么",
@@ -505,6 +529,14 @@
       "onboard_time": 1683254067,
       "rank": 36,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 384419,
+      "num": 384419,
+      "word": "流水线公主",
+      "onboard_time": 1683269909,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 382878,
@@ -595,22 +627,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 342934,
-      "num": 308887,
-      "word": "年轻人开始用现金说明了什么",
-      "onboard_time": 1683267447,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 341290,
-      "num": 341290,
-      "word": "背调不通过offer没了",
-      "onboard_time": 1683264390,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 340525,
       "num": 340525,
       "word": "2023优酷片单",
@@ -664,6 +680,14 @@
       "word": "巴厘岛命案",
       "onboard_time": 1683198386,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 322132,
+      "num": 322132,
+      "word": "厦门机场一摆渡车撞进航站楼",
+      "onboard_time": 1683269788,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -723,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288466,
+      "num": 288466,
+      "word": "山东71岁爷爷一年2次外出卖糖",
+      "onboard_time": 1683268949,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287002,
       "num": 243844,
       "word": "品如 战歌起",
@@ -761,6 +793,14 @@
       "onboard_time": 1683253887,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258039,
+      "num": 258039,
+      "word": "杭州亚运会",
+      "onboard_time": 1683267207,
+      "rank": 38,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 255423,
@@ -825,6 +865,14 @@
       "onboard_time": 1683253110,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 238551,
+      "num": 238551,
+      "word": "大学生只尝不买火车推销员幽默吐槽",
+      "onboard_time": 1683268828,
+      "rank": 30,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 235331,
@@ -899,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227282,
+      "num": 227282,
+      "word": "厦门机场回应摆渡车撞进航站楼",
+      "onboard_time": 1683269733,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226443,
       "num": 226443,
       "word": "郭麒麟说别把我逼急了",
@@ -929,6 +985,14 @@
       "onboard_time": 1683235092,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218897,
+      "num": 218897,
+      "word": "王一博杀青行李",
+      "onboard_time": 1683270448,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 217932,
@@ -979,6 +1043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 213639,
+      "num": 213639,
+      "word": "女子为见分手男友坐9小时顺风车",
+      "onboard_time": 1683265709,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212073,
       "num": 212073,
       "word": "完美世界",
@@ -993,14 +1065,6 @@
       "onboard_time": 1683263371,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206595,
-      "num": 206595,
-      "word": "杭州亚运会",
-      "onboard_time": 1683267207,
-      "rank": 38,
-      "category": "体育,游戏"
     },
     {
       "raw_hot": 204763,
@@ -1027,6 +1091,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 200789,
+      "num": 200789,
+      "word": "爸爸给我的爱在此刻变臭了",
+      "onboard_time": 1683269548,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199981,
       "num": 199981,
       "word": "人大教授说红楼梦是当代生活指南",
@@ -1035,12 +1107,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 197409,
-      "num": 197409,
-      "word": "女子为见分手男友坐9小时顺风车",
-      "onboard_time": 1683265709,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 195681,
+      "num": 195681,
+      "word": "偷偷藏不住暗恋独白片花",
+      "onboard_time": 1683270568,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 195309,
+      "num": 171849,
+      "word": "51岁孙悦初舞台唱跳帅炸了",
+      "onboard_time": 1683270267,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 195135,
@@ -1171,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175344,
+      "num": 175344,
+      "word": "林更新 青簪行",
+      "onboard_time": 1683270809,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 175281,
       "num": 316418,
       "word": "杭州高价打捞手机为自导自演",
@@ -1185,6 +1273,14 @@
       "onboard_time": 1683188968,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168958,
+      "num": 168958,
+      "word": "华晨宇实体专辑预告片上线",
+      "onboard_time": 1683269608,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 167773,
@@ -1564,7 +1660,7 @@
     },
     {
       "raw_hot": 67560,
-      "num": 121877,
+      "num": 128375,
       "word": "和平精英亚运版本国家集训队名单",
       "onboard_time": 1683265288,
       "rank": 49,
@@ -1609,6 +1705,14 @@
       "onboard_time": 1683235452,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 26377,
+      "num": 427829,
+      "word": "米奇也是漫威粉",
+      "onboard_time": 1683270150,
+      "rank": 14,
+      "category": "旅游,影视"
     },
     {
       "raw_hot": 23317,
