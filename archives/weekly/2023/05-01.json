@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683278194084,
+  "endTime": 1683279198458,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -104,6 +104,14 @@
       "word": "唐嫣旁边是文章吗",
       "onboard_time": 1683191309,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2860556,
+      "num": 597701,
+      "word": "杨紫张一山",
+      "onboard_time": 1683278128,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -363,6 +371,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1846891,
+      "num": 1846891,
+      "word": "6岁女童检查异常医生强制报告",
+      "onboard_time": 1683275187,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1840454,
       "num": 1840454,
       "word": "EXO",
@@ -523,12 +539,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1639046,
+      "num": 1639046,
+      "word": "大冰",
+      "onboard_time": 1683277048,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1610564,
       "num": 492925,
       "word": "巴厘岛命案",
       "onboard_time": 1683198386,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1604125,
+      "num": 1604125,
+      "word": "普通人怎么拥有千万资产",
+      "onboard_time": 1683272427,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 1596157,
@@ -585,14 +617,6 @@
       "onboard_time": 1683104970,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1550504,
-      "num": 1550504,
-      "word": "6岁女童检查异常医生强制报告",
-      "onboard_time": 1683275187,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1539275,
@@ -721,14 +745,6 @@
       "onboard_time": 1682949452,
       "rank": 15,
       "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 1361873,
-      "num": 1361873,
-      "word": "普通人怎么拥有千万资产",
-      "onboard_time": 1683272427,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 1355225,
@@ -1403,14 +1419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 881140,
-      "num": 199734,
-      "word": "杨紫张一山",
-      "onboard_time": 1683278128,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 867730,
       "num": 974989,
       "word": "新娘互换手捧花发现是高中同学",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1683186210,
       "rank": 4,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 838504,
+      "num": 838504,
+      "word": "法医回应情侣巴厘岛酒店遇害",
+      "onboard_time": 1683276569,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838110,
@@ -1617,14 +1633,6 @@
       "onboard_time": 1683189449,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 758276,
-      "num": 758276,
-      "word": "大冰",
-      "onboard_time": 1683277048,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 757246,
@@ -2331,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 548989,
+      "num": 548989,
+      "word": "男子连续四年收到陌生汇款约24万元",
+      "onboard_time": 1683276747,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547353,
       "num": 547353,
       "word": "苦日子到头了",
@@ -2737,14 +2753,6 @@
       "onboard_time": 1683024387,
       "rank": 16,
       "category": "影视"
-    },
-    {
-      "raw_hot": 470279,
-      "num": 470279,
-      "word": "法医回应情侣巴厘岛酒店遇害",
-      "onboard_time": 1683276569,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470003,
@@ -3547,14 +3555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379438,
-      "num": 199308,
-      "word": "男子连续四年收到陌生汇款约24万元",
-      "onboard_time": 1683276747,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379153,
       "num": 379153,
       "word": "久哲BO7的神",
@@ -3769,6 +3769,14 @@
       "onboard_time": 1683204332,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 353974,
+      "num": 353974,
+      "word": "英雄联盟国家集训队名单",
+      "onboard_time": 1683274827,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 351874,
@@ -4323,14 +4331,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 313121,
-      "num": 313121,
-      "word": "英雄联盟国家集训队名单",
-      "onboard_time": 1683274827,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 313034,
       "num": 313034,
       "word": "杭州西湖捞哥是免费的",
@@ -4369,6 +4369,14 @@
       "onboard_time": 1682934447,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 310275,
+      "num": 310275,
+      "word": "因为150元和五年好友闹掰了",
+      "onboard_time": 1683278309,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 309824,
@@ -4548,7 +4556,7 @@
     },
     {
       "raw_hot": 293423,
-      "num": 267757,
+      "num": 268459,
       "word": "卢靖姗乘风4带宝宝上班",
       "onboard_time": 1683273568,
       "rank": 37,
@@ -4779,6 +4787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278136,
+      "num": 278136,
+      "word": "找不到双休的工作该不该将就",
+      "onboard_time": 1683274650,
+      "rank": 47,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 277565,
       "num": 277565,
       "word": "严浩翔演唱会造型",
@@ -4793,6 +4809,14 @@
       "onboard_time": 1682992408,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276683,
+      "num": 197472,
+      "word": "来自婆婆的分寸感",
+      "onboard_time": 1683277470,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 276531,
@@ -5667,6 +5691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237944,
+      "num": 195139,
+      "word": "丈夫判无期女子用假证明再婚获缓刑",
+      "onboard_time": 1683278309,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237618,
       "num": 237618,
       "word": "长空之王票房",
@@ -6529,14 +6561,6 @@
       "onboard_time": 1682954908,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213198,
-      "num": 213198,
-      "word": "找不到双休的工作该不该将就",
-      "onboard_time": 1683274650,
-      "rank": 47,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 213196,
@@ -8667,14 +8691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154969,
-      "num": 154969,
-      "word": "来自婆婆的分寸感",
-      "onboard_time": 1683277470,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 154754,
       "num": 154754,
       "word": "dou5",
@@ -9491,6 +9507,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 124608,
+      "num": 124608,
+      "word": "陈都灵 佛系生活三件套",
+      "onboard_time": 1683276989,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 124512,
       "num": 124512,
       "word": "陈妍希演的齐家宜好灵",
@@ -9521,6 +9545,14 @@
       "onboard_time": 1683105871,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123328,
+      "num": 123328,
+      "word": "蚀骨危情",
+      "onboard_time": 1683279150,
+      "rank": 48,
+      "category": "影视"
     },
     {
       "raw_hot": 122912,
@@ -10276,7 +10308,7 @@
     },
     {
       "raw_hot": 73341,
-      "num": 1622522,
+      "num": 1714387,
       "word": "今天是马克思诞辰205周年",
       "onboard_time": 1683262175,
       "rank": 2,
