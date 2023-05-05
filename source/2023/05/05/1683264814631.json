@@ -1,0 +1,410 @@
+{
+  "runTime": 1683264814631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1747424,
+        "num": 1747424,
+        "word": "蔡少芬谢娜Ella好吵",
+        "onboard_time": 1683260915,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1651762,
+        "num": 1651762,
+        "word": "张继科奔跑吧被打码",
+        "onboard_time": 1683259110,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73341,
+        "num": 1475579,
+        "word": "今天是马克思诞辰205周年",
+        "onboard_time": 1683262175,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1422354,
+        "num": 1422354,
+        "word": "朱珠好美啊",
+        "onboard_time": 1683261814,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1259638,
+        "num": 1259638,
+        "word": "品如艾莉婚礼答谢宴",
+        "onboard_time": 1683261935,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1085739,
+        "num": 1085739,
+        "word": "难哄",
+        "onboard_time": 1683254666,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 828383,
+        "num": 828383,
+        "word": "热带鱼 把水煮开了以后再养",
+        "onboard_time": 1683257008,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 553531,
+        "num": 553531,
+        "word": "一人之下",
+        "onboard_time": 1683260014,
+        "rank": 7,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 485024,
+        "num": 485024,
+        "word": "浓眉定律",
+        "onboard_time": 1683257430,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478358,
+        "num": 478358,
+        "word": "身亡情侣家属已赶赴巴厘岛",
+        "onboard_time": 1683246273,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936423,
+        "num": 466112,
+        "word": "谢娜综艺代表作没写快乐大本营",
+        "onboard_time": 1683264749,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 890712,
+        "num": 460488,
+        "word": "黄子韬给鹿晗打电话",
+        "onboard_time": 1683258331,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 827581,
+        "num": 457681,
+        "word": "秋瓷炫初舞台唱无法原谅",
+        "onboard_time": 1683256830,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401697,
+        "num": 401697,
+        "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
+        "onboard_time": 1683251727,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 394698,
+        "num": 394698,
+        "word": "一内地男子在澳门赌城酒店身亡",
+        "onboard_time": 1683264090,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579088,
+        "num": 391363,
+        "word": "乘风4二公淘汰名单",
+        "onboard_time": 1683256531,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412064,
+        "num": 390171,
+        "word": "黄晓明今天好累",
+        "onboard_time": 1683260975,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385997,
+        "num": 385997,
+        "word": "淄博鸭头小哥直播中气到落泪",
+        "onboard_time": 1683241280,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384087,
+        "num": 384087,
+        "word": "乘风2023",
+        "onboard_time": 1683253887,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366134,
+        "num": 366134,
+        "word": "7人吃自助4小时炫300多个螃蟹摆满桌",
+        "onboard_time": 1683244046,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371855,
+        "num": 355921,
+        "word": "贾静雯不会老吗",
+        "onboard_time": 1683264269,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336011,
+        "num": 336011,
+        "word": "多家机构不再与史航合作",
+        "onboard_time": 1683262470,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 279065,
+        "num": 279065,
+        "word": "女子刷短视频刷到老公和小三约会",
+        "onboard_time": 1683210937,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272006,
+        "num": 272006,
+        "word": "男朋友28了还是离不开安抚巾",
+        "onboard_time": 1683263551,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256783,
+        "num": 256783,
+        "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
+        "onboard_time": 1683244710,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338757,
+        "num": 256351,
+        "word": "偷偷藏不住",
+        "onboard_time": 1683259953,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 338175,
+        "num": 255609,
+        "word": "六边形战士Amber",
+        "onboard_time": 1683264269,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300440,
+        "num": 254862,
+        "word": "全员加速中",
+        "onboard_time": 1683259712,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266204,
+        "num": 253310,
+        "word": "甜小姐与冷先生定档",
+        "onboard_time": 1683259533,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 223334,
+        "num": 252570,
+        "word": "与周立波互骂的唐爽被司法拘留十五日",
+        "onboard_time": 1683248015,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 252224,
+        "num": 252224,
+        "word": "好友称巴厘岛命案死者正环游世界",
+        "onboard_time": 1683216689,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248304,
+        "num": 248304,
+        "word": "苏群 湖人演过头",
+        "onboard_time": 1683258210,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236755,
+        "num": 236755,
+        "word": "难哄谁来演啊",
+        "onboard_time": 1683259894,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 221094,
+        "num": 221094,
+        "word": "石墩子 花花女士的肚子",
+        "onboard_time": 1683261452,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200551,
+        "num": 200551,
+        "word": "李佳琦面试75岁奶奶主播",
+        "onboard_time": 1683258692,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197676,
+        "num": 197676,
+        "word": "双胞胎不想上学爸爸校门口左拉右拽",
+        "onboard_time": 1683259171,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189697,
+        "num": 189697,
+        "word": "巴厘岛",
+        "onboard_time": 1683249449,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189442,
+        "num": 189442,
+        "word": "颖儿为新剧剪掉20年长发",
+        "onboard_time": 1683261452,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 185971,
+        "num": 185971,
+        "word": "大熊猫花花已经火出国门了",
+        "onboard_time": 1683254067,
+        "rank": 38,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 334855,
+        "num": 184395,
+        "word": "Ella演唱出道曲恋人未满",
+        "onboard_time": 1683262412,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722616,
+        "num": 183431,
+        "word": "性同意文化",
+        "onboard_time": 1683245009,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179993,
+        "num": 179993,
+        "word": "结婚时不要看向你的好朋友",
+        "onboard_time": 1683214412,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 179376,
+        "num": 179376,
+        "word": "杨迪曾因简历照片错失工作机会",
+        "onboard_time": 1683245249,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323626,
+        "num": 176871,
+        "word": "李莎旻子麦甩飞了",
+        "onboard_time": 1683261994,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173995,
+        "num": 173995,
+        "word": "张嘉倪门面",
+        "onboard_time": 1683264569,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165267,
+        "num": 165267,
+        "word": "金牛座隐藏的一面",
+        "onboard_time": 1683258630,
+        "rank": 45,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 225347,
+        "num": 164590,
+        "word": "乘风 搞笑女",
+        "onboard_time": 1683263972,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160027,
+        "num": 160027,
+        "word": "瞿颖",
+        "onboard_time": 1683264627,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131953,
+        "num": 156268,
+        "word": "五天爬五岳小伙晒打卡计划表",
+        "onboard_time": 1683257850,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 107536,
+        "num": 154239,
+        "word": "完美世界",
+        "onboard_time": 1683256890,
+        "rank": 49,
+        "category": "动漫,影视"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对青年提出的16字箴言#"
+    }
+  }
+}

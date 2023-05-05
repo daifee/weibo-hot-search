@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683263779806,
+  "endTime": 1683264814631,
   "band_list": [
     {
       "raw_hot": 2256653,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1259638,
+      "num": 1259638,
+      "word": "品如艾莉婚礼答谢宴",
+      "onboard_time": 1683261935,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1220910,
       "num": 1104600,
       "word": "身亡情侣家属已赶赴巴厘岛",
@@ -163,14 +171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 994097,
-      "num": 551758,
-      "word": "品如艾莉婚礼答谢宴",
-      "onboard_time": 1683261935,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 980948,
       "num": 980948,
       "word": "浓眉定律",
@@ -184,6 +184,14 @@
       "word": "秋瓷炫初舞台唱无法原谅",
       "onboard_time": 1683256830,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 936423,
+      "num": 466112,
+      "word": "谢娜综艺代表作没写快乐大本营",
+      "onboard_time": 1683264749,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 481113,
-      "num": 352203,
+      "num": 390171,
       "word": "黄晓明今天好累",
       "onboard_time": 1683260975,
       "rank": 27,
@@ -403,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 394698,
+      "num": 394698,
+      "word": "一内地男子在澳门赌城酒店身亡",
+      "onboard_time": 1683264090,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390441,
       "num": 390441,
       "word": "同事登我电脑问密码是什么",
@@ -441,6 +457,14 @@
       "onboard_time": 1683247470,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 371855,
+      "num": 355921,
+      "word": "贾静雯不会老吗",
+      "onboard_time": 1683264269,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 369062,
@@ -505,6 +529,14 @@
       "onboard_time": 1683251128,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 338175,
+      "num": 255609,
+      "word": "六边形战士Amber",
+      "onboard_time": 1683264269,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 336388,
@@ -635,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272006,
+      "num": 272006,
+      "word": "男朋友28了还是离不开安抚巾",
+      "onboard_time": 1683263551,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263195,
       "num": 263195,
       "word": "乘风破浪",
@@ -707,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237352,
-      "num": 237352,
-      "word": "男朋友28了还是离不开安抚巾",
-      "onboard_time": 1683263551,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 235331,
       "num": 235331,
       "word": "颖儿为新剧剪掉20年长发",
@@ -785,6 +817,14 @@
       "onboard_time": 1683253826,
       "rank": 44,
       "category": "影视"
+    },
+    {
+      "raw_hot": 225347,
+      "num": 164590,
+      "word": "乘风 搞笑女",
+      "onboard_time": 1683263972,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 220907,
@@ -1027,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173995,
+      "num": 173995,
+      "word": "张嘉倪门面",
+      "onboard_time": 1683264569,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171345,
       "num": 171345,
       "word": "上海的垃圾桶到底在哪里",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1683209974,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160027,
+      "num": 160027,
+      "word": "瞿颖",
+      "onboard_time": 1683264627,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 159332,
@@ -1339,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73341,
+      "num": 1622522,
+      "word": "今天是马克思诞辰205周年",
+      "onboard_time": 1683262175,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72938,
       "num": 72938,
       "word": "布莱顿1比0曼联",
@@ -1361,14 +1425,6 @@
       "onboard_time": 1683219979,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 65556,
-      "num": 1622522,
-      "word": "今天是马克思诞辰205周年",
-      "onboard_time": 1683262175,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59983,
