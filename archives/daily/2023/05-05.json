@@ -1,9 +1,9 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683249400707,
+  "endTime": 1683250909140,
   "band_list": [
     {
-      "raw_hot": 2129107,
+      "raw_hot": 2256653,
       "num": 713390,
       "word": "性同意文化",
       "onboard_time": 1683245009,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931932,
+      "num": 931932,
+      "word": "身亡情侣家属已赶赴巴厘岛",
+      "onboard_time": 1683246273,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 923242,
       "num": 923242,
       "word": "扒光男童上衣女幼师被拘留8天",
@@ -115,16 +123,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 784939,
-      "num": 784939,
-      "word": "身亡情侣家属已赶赴巴厘岛",
-      "onboard_time": 1683246273,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770021,
-      "num": 770021,
+      "raw_hot": 775097,
+      "num": 775097,
       "word": "好友称巴厘岛命案死者正环游世界",
       "onboard_time": 1683216689,
       "rank": 37,
@@ -137,6 +137,22 @@
       "onboard_time": 1683204691,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 715855,
+      "num": 715855,
+      "word": "与周立波互骂的唐爽被司法拘留十五日",
+      "onboard_time": 1683248015,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 676511,
+      "num": 676511,
+      "word": "俞敏洪建议24节气都放假",
+      "onboard_time": 1683249270,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632388,
@@ -155,16 +171,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 514528,
-      "num": 514528,
-      "word": "与周立波互骂的唐爽被司法拘留十五日",
-      "onboard_time": 1683248015,
-      "rank": 14,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 492645,
-      "num": 492645,
+      "raw_hot": 539760,
+      "num": 539760,
       "word": "傅卫军 男人最好的医美",
       "onboard_time": 1683246935,
       "rank": 15,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301574,
+      "num": 301574,
+      "word": "方头明",
+      "onboard_time": 1683249029,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 299118,
       "num": 299118,
       "word": "唐九洲说在淄博看到了武艺",
@@ -297,6 +313,30 @@
       "onboard_time": 1683196768,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283162,
+      "num": 283162,
+      "word": "湖人vs勇士",
+      "onboard_time": 1683250107,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 272886,
+      "num": 272886,
+      "word": "巴厘岛",
+      "onboard_time": 1683249449,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255629,
+      "num": 255629,
+      "word": "割席",
+      "onboard_time": 1683250469,
+      "rank": 24,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 255423,
@@ -339,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223463,
+      "num": 223463,
+      "word": "你姓氏中最有名的人",
+      "onboard_time": 1683250409,
+      "rank": 27,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 220907,
       "num": 210994,
       "word": "在地铁上的脸算是丢完了",
@@ -371,20 +419,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205181,
-      "num": 205181,
-      "word": "俞敏洪建议24节气都放假",
-      "onboard_time": 1683249270,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201723,
       "num": 201723,
       "word": "杭州西湖水域不允许擅自下水",
       "onboard_time": 1683236111,
       "rank": 7,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 189504,
+      "num": 189504,
+      "word": "张真源全员加速中上班",
+      "onboard_time": 1683250169,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 187606,
@@ -401,6 +449,14 @@
       "onboard_time": 1683231191,
       "rank": 26,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 182805,
+      "num": 182805,
+      "word": "奚美娟最受大学生欢迎女演员",
+      "onboard_time": 1683246753,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 181475,
@@ -451,20 +507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 171173,
-      "num": 171173,
-      "word": "方头明",
-      "onboard_time": 1683249029,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 169393,
-      "num": 169393,
-      "word": "奚美娟最受大学生欢迎女演员",
-      "onboard_time": 1683246753,
-      "rank": 37,
-      "category": "影视"
+      "raw_hot": 167773,
+      "num": 167773,
+      "word": "无BGM沉浸式感受夏天氛围",
+      "onboard_time": 1683249989,
+      "rank": 35,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 167303,
@@ -547,12 +595,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148333,
+      "num": 148333,
+      "word": "四川文旅公布假期看花花人数",
+      "onboard_time": 1683250649,
+      "rank": 40,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 140936,
       "num": 140936,
       "word": "吃完榴莲千万别碰这些食物",
       "onboard_time": 1683207453,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137456,
+      "num": 137456,
+      "word": "王国之泪 偷跑",
+      "onboard_time": 1683248849,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 129726,
@@ -571,12 +635,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124990,
-      "num": 124990,
-      "word": "王国之泪 偷跑",
-      "onboard_time": 1683248849,
+      "raw_hot": 128592,
+      "num": 128592,
+      "word": "世界手卫生日",
+      "onboard_time": 1683250767,
       "rank": 46,
-      "category": "游戏"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128168,
+      "num": 128168,
+      "word": "警方通报村民撞到村长狗被打",
+      "onboard_time": 1683250767,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120793,
@@ -724,7 +796,7 @@
     },
     {
       "raw_hot": 74275,
-      "num": 992932,
+      "num": 999285,
       "word": "藏在这场人从众里的世间温柔",
       "onboard_time": 1683201028,
       "rank": 2,
