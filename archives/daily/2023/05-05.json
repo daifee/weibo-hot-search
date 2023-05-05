@@ -1,10 +1,10 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683279198458,
+  "endTime": 1683281910407,
   "band_list": [
     {
       "raw_hot": 2860556,
-      "num": 597701,
+      "num": 1215705,
       "word": "杨紫张一山",
       "onboard_time": 1683278128,
       "rank": 30,
@@ -57,6 +57,14 @@
       "onboard_time": 1683260915,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1931956,
+      "num": 1931956,
+      "word": "蔡徐坤被判支付前东家300万违约金",
+      "onboard_time": 1683279570,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1846891,
@@ -195,6 +203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1198273,
+      "num": 1198273,
+      "word": "蚀骨危情",
+      "onboard_time": 1683279150,
+      "rank": 48,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1180698,
       "num": 1180698,
       "word": "乘风4二公淘汰名单",
@@ -241,6 +257,14 @@
       "onboard_time": 1683241880,
       "rank": 8,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1053749,
+      "num": 1053749,
+      "word": "法医回应情侣巴厘岛酒店遇害",
+      "onboard_time": 1683276569,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1049134,
@@ -323,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 838504,
-      "num": 838504,
-      "word": "法医回应情侣巴厘岛酒店遇害",
-      "onboard_time": 1683276569,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 833317,
+      "num": 833317,
+      "word": "因为150元和五年好友闹掰了",
+      "onboard_time": 1683278309,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 820260,
@@ -515,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492898,
+      "num": 492898,
+      "word": "山西一地发生重大刑案",
+      "onboard_time": 1683279269,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489779,
       "num": 489779,
       "word": "全员加速中",
@@ -651,6 +683,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382707,
+      "num": 382707,
+      "word": "制片人说李明德是小人得志型艺人",
+      "onboard_time": 1683279390,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 381869,
+      "num": 381869,
+      "word": "考古版挖呀挖呀挖有多刺激",
+      "onboard_time": 1683280829,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380208,
       "num": 299060,
       "word": "Ella演唱出道曲恋人未满",
@@ -729,6 +777,14 @@
       "onboard_time": 1683259894,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354406,
+      "num": 354406,
+      "word": "曾可妮 我可能就是个零",
+      "onboard_time": 1683279869,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 353974,
@@ -811,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317000,
+      "num": 1720369,
+      "word": "山东71岁爷爷一年2次外出卖糖",
+      "onboard_time": 1683268949,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314242,
       "num": 314242,
       "word": "姜思达播客",
@@ -825,14 +889,6 @@
       "onboard_time": 1683270448,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310275,
-      "num": 310275,
-      "word": "因为150元和五年好友闹掰了",
-      "onboard_time": 1683278309,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 308602,
@@ -875,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293301,
-      "num": 369308,
-      "word": "山东71岁爷爷一年2次外出卖糖",
-      "onboard_time": 1683268949,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291885,
       "num": 291885,
       "word": "宋茜人缘",
@@ -897,6 +945,14 @@
       "onboard_time": 1683267926,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289546,
+      "num": 289546,
+      "word": "来自婆婆的分寸感",
+      "onboard_time": 1683277470,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 288195,
@@ -931,12 +987,12 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 276683,
-      "num": 197472,
-      "word": "来自婆婆的分寸感",
-      "onboard_time": 1683277470,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 276224,
+      "num": 276224,
+      "word": "汤系艺人",
+      "onboard_time": 1683280053,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272886,
@@ -977,6 +1033,14 @@
       "onboard_time": 1683217045,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252101,
+      "num": 252101,
+      "word": "五月天演唱会",
+      "onboard_time": 1683280411,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 251627,
@@ -1044,7 +1108,7 @@
     },
     {
       "raw_hot": 237944,
-      "num": 195139,
+      "num": 197878,
       "word": "丈夫判无期女子用假证明再婚获缓刑",
       "onboard_time": 1683278309,
       "rank": 31,
@@ -1227,6 +1291,22 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 211896,
+      "num": 211896,
+      "word": "你在简历上撒过什么谎",
+      "onboard_time": 1683279451,
+      "rank": 29,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 210303,
+      "num": 210303,
+      "word": "年轻人是懂省钱的",
+      "onboard_time": 1683281429,
+      "rank": 32,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 209162,
       "num": 201033,
       "word": "唐嫣孙坚打卡中戏食堂",
@@ -1283,6 +1363,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 198715,
+      "num": 198715,
+      "word": "我真的很想养它",
+      "onboard_time": 1683280951,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195309,
       "num": 171849,
       "word": "51岁孙悦初舞台唱跳帅炸了",
@@ -1329,6 +1417,14 @@
       "onboard_time": 1683193226,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186320,
+      "num": 187072,
+      "word": "强制报告",
+      "onboard_time": 1683280891,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185800,
@@ -1433,6 +1529,14 @@
       "onboard_time": 1683188968,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170121,
+      "num": 170121,
+      "word": "腿干的像鱼鳞一样的原因",
+      "onboard_time": 1683281549,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 168958,
@@ -1571,6 +1675,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 147290,
+      "num": 1390220,
+      "word": "翻车后大家不约而同的这个动作太暖心",
+      "onboard_time": 1683281011,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145938,
+      "num": 1647800,
+      "word": "祝融号数据显示现代火星存在液态水",
+      "onboard_time": 1683279509,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 145686,
       "num": 145686,
       "word": "詹姆斯三分",
@@ -1587,6 +1707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 141945,
+      "num": 1413796,
+      "word": "河南一退役军人勇救落水女孩",
+      "onboard_time": 1683276869,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141387,
       "num": 152038,
       "word": "王国之泪 偷跑",
@@ -1601,14 +1729,6 @@
       "onboard_time": 1683207453,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 134854,
-      "num": 134854,
-      "word": "河南一退役军人勇救落水女孩",
-      "onboard_time": 1683276869,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133458,
@@ -1651,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126718,
+      "num": 126718,
+      "word": "太想妈妈结果在高铁上哭了",
+      "onboard_time": 1683281251,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124656,
       "num": 124656,
       "word": "用手机接打电话影响血压吗",
@@ -1664,14 +1792,6 @@
       "word": "陈都灵 佛系生活三件套",
       "onboard_time": 1683276989,
       "rank": 47,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 123328,
-      "num": 123328,
-      "word": "蚀骨危情",
-      "onboard_time": 1683279150,
-      "rank": 48,
       "category": "影视"
     },
     {
