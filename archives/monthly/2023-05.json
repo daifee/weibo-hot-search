@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683317862216,
+  "endTime": 1683318815992,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -11561,6 +11561,14 @@
       "onboard_time": 1683060672,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14763,
+      "num": 16144,
+      "word": "漫长的季节彩蛋",
+      "onboard_time": 1683318192,
+      "rank": 47,
+      "category": "影视"
     },
     {
       "raw_hot": 14520,
