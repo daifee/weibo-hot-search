@@ -1,0 +1,410 @@
+{
+  "runTime": 1683261234457,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1708893,
+        "num": 1708893,
+        "word": "热带鱼 把水煮开了以后再养",
+        "onboard_time": 1683257008,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1298695,
+        "num": 1298695,
+        "word": "黄子韬给鹿晗打电话",
+        "onboard_time": 1683258331,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21665,
+        "num": 1103609,
+        "word": "藏在这场人从众里的世间温柔",
+        "onboard_time": 1683201028,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1682428,
+        "num": 1078099,
+        "word": "难哄",
+        "onboard_time": 1683254666,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1049442,
+        "num": 1049442,
+        "word": "乘风4二公淘汰名单",
+        "onboard_time": 1683256531,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1220910,
+        "num": 1041603,
+        "word": "身亡情侣家属已赶赴巴厘岛",
+        "onboard_time": 1683246273,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017226,
+        "num": 1017226,
+        "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
+        "onboard_time": 1683244710,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980948,
+        "num": 980948,
+        "word": "浓眉定律",
+        "onboard_time": 1683257430,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 949880,
+        "num": 949880,
+        "word": "秋瓷炫初舞台唱无法原谅",
+        "onboard_time": 1683256830,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 896343,
+        "num": 896343,
+        "word": "张继科奔跑吧被打码",
+        "onboard_time": 1683259110,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661341,
+        "num": 661341,
+        "word": "7人吃自助4小时炫300多个螃蟹摆满桌",
+        "onboard_time": 1683244046,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637359,
+        "num": 637359,
+        "word": "乘风2023",
+        "onboard_time": 1683253887,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586888,
+        "num": 586888,
+        "word": "偷偷藏不住",
+        "onboard_time": 1683259953,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 553779,
+        "num": 553779,
+        "word": "结婚时不要看向你的好朋友",
+        "onboard_time": 1683214412,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 539205,
+        "num": 539205,
+        "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
+        "onboard_time": 1683251727,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 524319,
+        "num": 524319,
+        "word": "淄博鸭头小哥直播中气到落泪",
+        "onboard_time": 1683241280,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514021,
+        "num": 514021,
+        "word": "苏群 湖人演过头",
+        "onboard_time": 1683258210,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489779,
+        "num": 489779,
+        "word": "全员加速中",
+        "onboard_time": 1683259712,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488935,
+        "num": 488935,
+        "word": "甜小姐与冷先生定档",
+        "onboard_time": 1683259533,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 440506,
+        "num": 440506,
+        "word": "谢娜乘风初舞台菠萝菠萝蜜",
+        "onboard_time": 1683256410,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397445,
+        "num": 397445,
+        "word": "一人之下",
+        "onboard_time": 1683260014,
+        "rank": 20,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 367881,
+        "num": 367881,
+        "word": "高圆圆晒图为贾静雯打call",
+        "onboard_time": 1683254307,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362837,
+        "num": 362837,
+        "word": "双胞胎不想上学爸爸校门口左拉右拽",
+        "onboard_time": 1683259171,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355151,
+        "num": 355151,
+        "word": "难哄谁来演啊",
+        "onboard_time": 1683259894,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 355048,
+        "num": 355048,
+        "word": "大熊猫花花已经火出国门了",
+        "onboard_time": 1683254067,
+        "rank": 24,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 351343,
+        "num": 351343,
+        "word": "女子刷短视频刷到老公和小三约会",
+        "onboard_time": 1683210937,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329545,
+        "num": 329545,
+        "word": "与周立波互骂的唐爽被司法拘留十五日",
+        "onboard_time": 1683248015,
+        "rank": 26,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 325003,
+        "num": 325003,
+        "word": "黄晓明今天好累",
+        "onboard_time": 1683260975,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312059,
+        "num": 312059,
+        "word": "好友称巴厘岛命案死者正环游世界",
+        "onboard_time": 1683216689,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210956,
+        "num": 284542,
+        "word": "李佳琦面试75岁奶奶主播",
+        "onboard_time": 1683258692,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274197,
+        "num": 274197,
+        "word": "蔡少芬谢娜Ella好吵",
+        "onboard_time": 1683260915,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268396,
+        "num": 268396,
+        "word": "杨迪曾因简历照片错失工作机会",
+        "onboard_time": 1683245249,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261100,
+        "num": 261100,
+        "word": "割席",
+        "onboard_time": 1683250469,
+        "rank": 32,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 248917,
+        "num": 248917,
+        "word": "金牛座隐藏的一面",
+        "onboard_time": 1683258630,
+        "rank": 33,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 239363,
+        "num": 239363,
+        "word": "湖人vs勇士",
+        "onboard_time": 1683250107,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236884,
+        "num": 236884,
+        "word": "那些不婚主义的人现在怎样了",
+        "onboard_time": 1683253287,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233420,
+        "num": 233420,
+        "word": "特斯拉中国上调ModelS全系车型售价",
+        "onboard_time": 1683255809,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230205,
+        "num": 230205,
+        "word": "恋爱牛",
+        "onboard_time": 1683259471,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 225684,
+        "num": 225684,
+        "word": "高铁上的一声姐姐花了我35元",
+        "onboard_time": 1683209855,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223894,
+        "num": 223894,
+        "word": "傅卫军 男人最好的医美",
+        "onboard_time": 1683246935,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 983450,
+        "num": 218828,
+        "word": "性同意文化",
+        "onboard_time": 1683245009,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236036,
+        "num": 213235,
+        "word": "史航",
+        "onboard_time": 1683247470,
+        "rank": 41,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 204763,
+        "num": 204763,
+        "word": "五天爬五岳小伙晒打卡计划表",
+        "onboard_time": 1683257850,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 201118,
+        "num": 201118,
+        "word": "上车时身份证掉高铁轨道里了",
+        "onboard_time": 1683252147,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201112,
+        "num": 201112,
+        "word": "7月龄女婴突发呼吸急促患婴儿白血病",
+        "onboard_time": 1683257732,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193871,
+        "num": 193871,
+        "word": "异人之下",
+        "onboard_time": 1683258269,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 191615,
+        "num": 191615,
+        "word": "刘亚仁男友被立案调查",
+        "onboard_time": 1683244046,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185820,
+        "num": 185820,
+        "word": "完美世界",
+        "onboard_time": 1683256890,
+        "rank": 47,
+        "category": "动漫,影视"
+      },
+      {
+        "raw_hot": 183425,
+        "num": 183425,
+        "word": "奔跑吧今晚谁是镜中人",
+        "onboard_time": 1683260793,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178479,
+        "num": 178479,
+        "word": "勇士1比1湖人",
+        "onboard_time": 1683258692,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对青年提出的16字箴言#"
+    }
+  }
+}

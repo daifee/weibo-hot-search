@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683260422919,
+  "endTime": 1683261234457,
   "band_list": [
     {
       "raw_hot": 2256653,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1708893,
+      "num": 1708893,
+      "word": "热带鱼 把水煮开了以后再养",
+      "onboard_time": 1683257008,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1661700,
       "num": 1661700,
       "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1298695,
+      "num": 1298695,
+      "word": "黄子韬给鹿晗打电话",
+      "onboard_time": 1683258331,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1280160,
       "num": 214732,
       "word": "文章 对是我",
@@ -59,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1277997,
-      "num": 1277997,
-      "word": "热带鱼 把水煮开了以后再养",
-      "onboard_time": 1683257008,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 1220910,
+      "num": 1104600,
+      "word": "身亡情侣家属已赶赴巴厘岛",
+      "onboard_time": 1683246273,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1180698,
@@ -89,22 +105,6 @@
       "onboard_time": 1683251727,
       "rank": 3,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1114299,
-      "num": 1114299,
-      "word": "黄子韬给鹿晗打电话",
-      "onboard_time": 1683258331,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1104600,
-      "num": 1104600,
-      "word": "身亡情侣家属已赶赴巴厘岛",
-      "onboard_time": 1683246273,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1086920,
@@ -139,12 +139,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 976979,
-      "num": 976979,
+      "raw_hot": 980948,
+      "num": 980948,
       "word": "浓眉定律",
       "onboard_time": 1683257430,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 949880,
+      "num": 949880,
+      "word": "秋瓷炫初舞台唱无法原谅",
+      "onboard_time": 1683256830,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 923242,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 896343,
+      "num": 896343,
+      "word": "张继科奔跑吧被打码",
+      "onboard_time": 1683259110,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 888060,
       "num": 888060,
       "word": "巴厘岛身亡两中国公民身份确认",
@@ -176,14 +192,6 @@
       "word": "杨迪曾因简历照片错失工作机会",
       "onboard_time": 1683245249,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 830992,
-      "num": 830992,
-      "word": "秋瓷炫初舞台唱无法原谅",
-      "onboard_time": 1683256830,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -211,14 +219,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 701034,
-      "num": 701034,
-      "word": "张继科奔跑吧被打码",
-      "onboard_time": 1683259110,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 676511,
       "num": 676511,
       "word": "俞敏洪建议24节气都放假",
@@ -233,6 +233,14 @@
       "onboard_time": 1683213870,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 637359,
+      "num": 637359,
+      "word": "乘风2023",
+      "onboard_time": 1683253887,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 632388,
@@ -257,6 +265,14 @@
       "onboard_time": 1683258210,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 586888,
+      "num": 586888,
+      "word": "偷偷藏不住",
+      "onboard_time": 1683259953,
+      "rank": 22,
+      "category": "影视"
     },
     {
       "raw_hot": 585063,
@@ -291,11 +307,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 514738,
-      "num": 514738,
-      "word": "乘风2023",
-      "onboard_time": 1683253887,
-      "rank": 19,
+      "raw_hot": 489779,
+      "num": 489779,
+      "word": "全员加速中",
+      "onboard_time": 1683184948,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -339,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 397445,
+      "num": 397445,
+      "word": "一人之下",
+      "onboard_time": 1683260014,
+      "rank": 46,
+      "category": "动漫,影视"
+    },
+    {
       "raw_hot": 390441,
       "num": 390441,
       "word": "同事登我电脑问密码是什么",
@@ -379,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362837,
+      "num": 362837,
+      "word": "双胞胎不想上学爸爸校门口左拉右拽",
+      "onboard_time": 1683259171,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359218,
       "num": 359218,
       "word": "说唱巅峰对决音乐节",
@@ -403,11 +435,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 340775,
-      "num": 340775,
-      "word": "偷偷藏不住",
-      "onboard_time": 1683259953,
-      "rank": 22,
+      "raw_hot": 355151,
+      "num": 355151,
+      "word": "难哄谁来演啊",
+      "onboard_time": 1683259894,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -435,14 +467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331069,
-      "num": 331069,
-      "word": "全员加速中",
-      "onboard_time": 1683184948,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 328622,
       "num": 328622,
       "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
@@ -465,6 +489,14 @@
       "onboard_time": 1683198386,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325003,
+      "num": 325003,
+      "word": "黄晓明今天好累",
+      "onboard_time": 1683260975,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 314242,
@@ -507,14 +539,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 293153,
-      "num": 293153,
-      "word": "难哄谁来演啊",
-      "onboard_time": 1683259894,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 291885,
       "num": 291885,
       "word": "宋茜人缘",
@@ -523,20 +547,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 290697,
-      "num": 290697,
-      "word": "双胞胎不想上学爸爸校门口左拉右拽",
-      "onboard_time": 1683259171,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285624,
       "num": 285624,
       "word": "郭珍霓",
       "onboard_time": 1683196768,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274197,
+      "num": 274197,
+      "word": "蔡少芬谢娜Ella好吵",
+      "onboard_time": 1683260915,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 272886,
@@ -619,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230205,
+      "num": 230205,
+      "word": "恋爱牛",
+      "onboard_time": 1683259471,
+      "rank": 44,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 229285,
       "num": 229285,
       "word": "aespa新歌thirsty视频",
@@ -675,14 +707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 220279,
-      "num": 219170,
-      "word": "恋爱牛",
-      "onboard_time": 1683259471,
-      "rank": 44,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 219043,
       "num": 219043,
       "word": "男子头疼自己在家针灸扎破心脏",
@@ -731,6 +755,22 @@
       "category": "动漫,影视"
     },
     {
+      "raw_hot": 210956,
+      "num": 291832,
+      "word": "李佳琦面试75岁奶奶主播",
+      "onboard_time": 1683258692,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204763,
+      "num": 204763,
+      "word": "五天爬五岳小伙晒打卡计划表",
+      "onboard_time": 1683257850,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 202963,
       "num": 202963,
       "word": "最全痔疮手术流程攻略",
@@ -761,30 +801,6 @@
       "onboard_time": 1683256590,
       "rank": 44,
       "category": "影视"
-    },
-    {
-      "raw_hot": 195109,
-      "num": 195109,
-      "word": "一人之下",
-      "onboard_time": 1683260014,
-      "rank": 46,
-      "category": "动漫,影视"
-    },
-    {
-      "raw_hot": 193945,
-      "num": 193945,
-      "word": "五天爬五岳小伙晒打卡计划表",
-      "onboard_time": 1683257850,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 193922,
-      "num": 291832,
-      "word": "李佳琦面试75岁奶奶主播",
-      "onboard_time": 1683258692,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 190797,
@@ -833,6 +849,14 @@
       "onboard_time": 1683254488,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 183425,
+      "num": 183425,
+      "word": "奔跑吧今晚谁是镜中人",
+      "onboard_time": 1683260793,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 182805,
