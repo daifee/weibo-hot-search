@@ -1,7 +1,23 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683243231322,
+  "endTime": 1683249400707,
   "band_list": [
+    {
+      "raw_hot": 2129107,
+      "num": 713390,
+      "word": "性同意文化",
+      "onboard_time": 1683245009,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 2020479,
+      "num": 2020479,
+      "word": "7人吃自助4小时炫300多个螃蟹摆满桌",
+      "onboard_time": 1683244046,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1280160,
       "num": 214732,
@@ -9,6 +25,22 @@
       "onboard_time": 1683208174,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1160855,
+      "num": 1160855,
+      "word": "刘亚仁男友被立案调查",
+      "onboard_time": 1683244046,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1066442,
+      "num": 899683,
+      "word": "姜思达下架史航事件播客",
+      "onboard_time": 1683241880,
+      "rank": 8,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1049134,
@@ -19,6 +51,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1016769,
+      "num": 705425,
+      "word": "高铁上的一声姐姐花了我35元",
+      "onboard_time": 1683209855,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 973974,
+      "num": 973974,
+      "word": "淄博鸭头小哥直播中气到落泪",
+      "onboard_time": 1683241280,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 923242,
       "num": 923242,
       "word": "扒光男童上衣女幼师被拘留8天",
@@ -27,8 +75,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 904379,
+      "num": 904379,
+      "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
+      "onboard_time": 1683244710,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 902493,
-      "num": 331799,
+      "num": 649259,
       "word": "女子刷短视频刷到老公和小三约会",
       "onboard_time": 1683210937,
       "rank": 10,
@@ -43,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 874821,
-      "num": 874821,
-      "word": "姜思达下架史航事件播客",
-      "onboard_time": 1683241880,
-      "rank": 8,
-      "category": "社会新闻,艺人"
+      "raw_hot": 863717,
+      "num": 863717,
+      "word": "杨迪曾因简历照片错失工作机会",
+      "onboard_time": 1683245249,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 817189,
@@ -59,6 +115,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 784939,
+      "num": 784939,
+      "word": "身亡情侣家属已赶赴巴厘岛",
+      "onboard_time": 1683246273,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 770021,
+      "num": 770021,
+      "word": "好友称巴厘岛命案死者正环游世界",
+      "onboard_time": 1683216689,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743209,
+      "num": 743209,
+      "word": "薛之谦又是站票回去的",
+      "onboard_time": 1683204691,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 632388,
       "num": 214276,
       "word": "友人称巴厘岛身亡两人已恋爱多年",
@@ -67,36 +147,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 629627,
-      "num": 629627,
-      "word": "薛之谦又是站票回去的",
-      "onboard_time": 1683204691,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 602675,
-      "num": 602675,
-      "word": "高铁上的一声姐姐花了我35元",
-      "onboard_time": 1683209855,
-      "rank": 5,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 510989,
-      "num": 510989,
+      "raw_hot": 540645,
+      "num": 540645,
       "word": "郭晓婷的发量",
       "onboard_time": 1683213870,
       "rank": 4,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 413936,
-      "num": 413936,
-      "word": "淄博鸭头小哥直播中气到落泪",
-      "onboard_time": 1683241280,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 514528,
+      "num": 514528,
+      "word": "与周立波互骂的唐爽被司法拘留十五日",
+      "onboard_time": 1683248015,
+      "rank": 14,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 492645,
+      "num": 492645,
+      "word": "傅卫军 男人最好的医美",
+      "onboard_time": 1683246935,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 472972,
+      "num": 472972,
+      "word": "结婚时不要看向你的好朋友",
+      "onboard_time": 1683214412,
+      "rank": 22,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 469595,
+      "num": 367389,
+      "word": "肖战抹眼泪",
+      "onboard_time": 1683246273,
+      "rank": 20,
+      "category": "影视"
     },
     {
       "raw_hot": 407392,
@@ -115,12 +203,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 367466,
-      "num": 318140,
-      "word": "好友称巴厘岛命案死者正环游世界",
-      "onboard_time": 1683216689,
-      "rank": 37,
+      "raw_hot": 382878,
+      "num": 382878,
+      "word": "过半网友认为插队婆孙被当车贴合适",
+      "onboard_time": 1683229632,
+      "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379034,
+      "num": 379034,
+      "word": "史航",
+      "onboard_time": 1683247470,
+      "rank": 18,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 364875,
+      "num": 364875,
+      "word": "领证一年双方父母未见过面",
+      "onboard_time": 1683246993,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 355236,
@@ -129,14 +233,6 @@
       "onboard_time": 1683211114,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 335936,
-      "num": 320782,
-      "word": "过半网友认为插队婆孙被当车贴合适",
-      "onboard_time": 1683229632,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333776,
@@ -179,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299118,
+      "num": 299118,
+      "word": "唐九洲说在淄博看到了武艺",
+      "onboard_time": 1683244647,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291885,
       "num": 291885,
       "word": "宋茜人缘",
@@ -203,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245468,
+      "num": 245468,
+      "word": "警犬执勤时被可爱耶耶吸引走了",
+      "onboard_time": 1683244530,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229285,
       "num": 229285,
       "word": "aespa新歌thirsty视频",
@@ -217,6 +329,22 @@
       "onboard_time": 1683198687,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228006,
+      "num": 228006,
+      "word": "唐嫣的旁边有李泽锋",
+      "onboard_time": 1683246574,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220907,
+      "num": 210994,
+      "word": "在地铁上的脸算是丢完了",
+      "onboard_time": 1683246993,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 219043,
@@ -235,12 +363,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205468,
-      "num": 205468,
-      "word": "结婚时不要看向你的好朋友",
-      "onboard_time": 1683214412,
-      "rank": 22,
-      "category": "情感,幽默"
+      "raw_hot": 215564,
+      "num": 215564,
+      "word": "MSI",
+      "onboard_time": 1683244467,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205181,
+      "num": 205181,
+      "word": "俞敏洪建议24节气都放假",
+      "onboard_time": 1683249270,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201723,
@@ -259,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 185800,
+      "num": 185800,
+      "word": "韩总统称要懂得对美国感恩",
+      "onboard_time": 1683231191,
+      "rank": 26,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 181475,
       "num": 181475,
       "word": "陈晓太会亲了吧",
@@ -273,6 +417,22 @@
       "onboard_time": 1683241460,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 178672,
+      "num": 178672,
+      "word": "为什么吃辣容易拉肚子",
+      "onboard_time": 1683242785,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 176432,
+      "num": 176432,
+      "word": "人和香蕉的基因有50%相似",
+      "onboard_time": 1683228553,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 175281,
@@ -291,6 +451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171173,
+      "num": 171173,
+      "word": "方头明",
+      "onboard_time": 1683249029,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 169393,
+      "num": 169393,
+      "word": "奚美娟最受大学生欢迎女演员",
+      "onboard_time": 1683246753,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 167303,
       "num": 167303,
       "word": "裁判",
@@ -299,12 +475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159332,
+      "num": 159332,
+      "word": "蜡像馆明星蜡像失真惨不忍睹",
+      "onboard_time": 1683243684,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 158909,
+      "num": 158909,
+      "word": "南京的雨是倒下来的水吧",
+      "onboard_time": 1683241280,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157433,
       "num": 157433,
       "word": "卡琳娜",
       "onboard_time": 1683208174,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 156137,
+      "num": 156137,
+      "word": "400万湖南人为何选择深圳",
+      "onboard_time": 1683245249,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155351,
@@ -331,20 +531,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 151503,
+      "num": 151503,
+      "word": "河南接待游客总量第一",
+      "onboard_time": 1683245552,
+      "rank": 41,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 150036,
       "num": 150036,
       "word": "王子奇把西装焊身上",
       "onboard_time": 1683212914,
       "rank": 30,
       "category": "影视"
-    },
-    {
-      "raw_hot": 143338,
-      "num": 143338,
-      "word": "人和香蕉的基因有50%相似",
-      "onboard_time": 1683228553,
-      "rank": 44,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 140936,
@@ -355,12 +555,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 138639,
-      "num": 138639,
-      "word": "韩总统称要懂得对美国感恩",
-      "onboard_time": 1683231191,
-      "rank": 26,
-      "category": "国外要闻,社会新闻"
+      "raw_hot": 129726,
+      "num": 129726,
+      "word": "暗恋到什么程度才能表白",
+      "onboard_time": 1683245070,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 128864,
@@ -371,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121856,
-      "num": 121856,
-      "word": "南京的雨是倒下来的水吧",
-      "onboard_time": 1683241280,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 124990,
+      "num": 124990,
+      "word": "王国之泪 偷跑",
+      "onboard_time": 1683248849,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 120793,
@@ -385,6 +585,14 @@
       "onboard_time": 1683216866,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119497,
+      "num": 119497,
+      "word": "男子被流浪狗咬伤后踩死4只幼崽",
+      "onboard_time": 1683222618,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118974,
@@ -443,14 +651,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 101700,
-      "num": 101700,
-      "word": "男子被流浪狗咬伤后踩死4只幼崽",
-      "onboard_time": 1683222618,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101052,
       "num": 101052,
       "word": "96年村医姑娘成为行走的120",
@@ -481,14 +681,6 @@
       "onboard_time": 1683205168,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 90537,
-      "num": 90537,
-      "word": "为什么吃辣容易拉肚子",
-      "onboard_time": 1683242785,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 90409,
@@ -531,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74275,
+      "num": 992932,
+      "word": "藏在这场人从众里的世间温柔",
+      "onboard_time": 1683201028,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72938,
       "num": 72938,
       "word": "布莱顿1比0曼联",
@@ -569,14 +769,6 @@
       "onboard_time": 1683208471,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 59064,
-      "num": 877200,
-      "word": "藏在这场人从众里的世间温柔",
-      "onboard_time": 1683201028,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42009,
