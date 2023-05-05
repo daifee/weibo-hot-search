@@ -1,0 +1,410 @@
+{
+  "runTime": 1683304648443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3264068,
+        "num": 3264068,
+        "word": "梅西道歉",
+        "onboard_time": 1683301112,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1386434,
+        "num": 1386434,
+        "word": "为什么香飘飘卖不动了",
+        "onboard_time": 1683298771,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 43035,
+        "num": 1333845,
+        "word": "天舟五号撤离空间站",
+        "onboard_time": 1683291871,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1324202,
+        "num": 1324202,
+        "word": "韩庚",
+        "onboard_time": 1683300631,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1047295,
+        "num": 1047295,
+        "word": "狗被确诊智障了",
+        "onboard_time": 1683287969,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 956291,
+        "num": 956291,
+        "word": "极乐净土",
+        "onboard_time": 1683294812,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 923117,
+        "num": 923117,
+        "word": "浪4 有钱",
+        "onboard_time": 1683301171,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 792076,
+        "num": 792076,
+        "word": "吴倩张嘉倪",
+        "onboard_time": 1683291209,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707061,
+        "num": 707061,
+        "word": "唐伯虎 淘汰",
+        "onboard_time": 1683300334,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674546,
+        "num": 674546,
+        "word": "新冠疫情不再构成国际关注的突发公共卫生事件",
+        "onboard_time": 1683293489,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753854,
+        "num": 662090,
+        "word": "杨紫张一山",
+        "onboard_time": 1683278128,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595333,
+        "num": 595333,
+        "word": "谢娜初舞台制作人是张杰",
+        "onboard_time": 1683299852,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 422502,
+        "num": 422502,
+        "word": "耳高于眉",
+        "onboard_time": 1683299613,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 580981,
+        "num": 420118,
+        "word": "浪姐4谢娜人气排第一",
+        "onboard_time": 1683292770,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415291,
+        "num": 415291,
+        "word": "挖呀挖走红的桃子老师称很焦虑",
+        "onboard_time": 1683301651,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 480289,
+        "num": 373314,
+        "word": "秦霄贤受伤",
+        "onboard_time": 1683297631,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438816,
+        "num": 344870,
+        "word": "黄老师",
+        "onboard_time": 1683298231,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 316390,
+        "num": 316390,
+        "word": "天狗吃月亮",
+        "onboard_time": 1683303867,
+        "rank": 17,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 302998,
+        "num": 302998,
+        "word": "107岁老人头上长犄角",
+        "onboard_time": 1683302128,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299826,
+        "num": 299826,
+        "word": "同事辟谣挖呀挖黄老师辞职",
+        "onboard_time": 1683294871,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377727,
+        "num": 294881,
+        "word": "宋雨琦把关晓彤挠下去了",
+        "onboard_time": 1683294153,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320383,
+        "num": 291873,
+        "word": "蔡徐坤被判支付前东家300万违约金",
+        "onboard_time": 1683279570,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286204,
+        "num": 286204,
+        "word": "普通人怎么拥有千万资产",
+        "onboard_time": 1683272427,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282227,
+        "num": 282227,
+        "word": "林一你换个发型吧",
+        "onboard_time": 1683293311,
+        "rank": 23,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 228056,
+        "num": 279997,
+        "word": "巴厘岛遇害情侣系同事关系",
+        "onboard_time": 1683284667,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278575,
+        "num": 278575,
+        "word": "中戏同学鼓励郭珍霓拍戏",
+        "onboard_time": 1683295411,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228286,
+        "num": 228286,
+        "word": "陈都灵看过杨幂的每部戏",
+        "onboard_time": 1683302429,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 225757,
+        "num": 225757,
+        "word": "秋瓷炫李彩桦",
+        "onboard_time": 1683300690,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197694,
+        "num": 197694,
+        "word": "承重墙",
+        "onboard_time": 1683297814,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117617,
+        "num": 197256,
+        "word": "山西一地发生重大刑案",
+        "onboard_time": 1683279269,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198543,
+        "num": 197243,
+        "word": "沙溢从婀娜多姿变痛苦面具只需一个周深",
+        "onboard_time": 1683304164,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197193,
+        "num": 197193,
+        "word": "法医回应情侣巴厘岛酒店遇害",
+        "onboard_time": 1683276569,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190327,
+        "num": 190327,
+        "word": "田曦薇古装",
+        "onboard_time": 1683300031,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185095,
+        "num": 185095,
+        "word": "Ella恋人未满听哭了",
+        "onboard_time": 1683294271,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150817,
+        "num": 165775,
+        "word": "小贝饿了带货因虚假宣传被罚46万",
+        "onboard_time": 1683291749,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 165471,
+        "num": 165471,
+        "word": "谢娜回应被说好吵",
+        "onboard_time": 1683282452,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160406,
+        "num": 160406,
+        "word": "鹿晗周震南互相伤害",
+        "onboard_time": 1683299193,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158754,
+        "num": 158754,
+        "word": "蚀骨危情",
+        "onboard_time": 1683279150,
+        "rank": 37,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 144930,
+        "num": 144930,
+        "word": "妖刀C麻了",
+        "onboard_time": 1683298771,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134359,
+        "num": 134359,
+        "word": "性格内向的朋友们狠狠共鸣",
+        "onboard_time": 1683303207,
+        "rank": 39,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 154210,
+        "num": 134201,
+        "word": "全圆佑肩宽58厘米",
+        "onboard_time": 1683304464,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152132,
+        "num": 133415,
+        "word": "银河护卫队3开分漫威最高",
+        "onboard_time": 1683298055,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 149451,
+        "num": 132958,
+        "word": "五月天团票",
+        "onboard_time": 1683288268,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131163,
+        "num": 132373,
+        "word": "王石 田朴珺",
+        "onboard_time": 1683295830,
+        "rank": 43,
+        "category": "财经,艺人"
+      },
+      {
+        "raw_hot": 132260,
+        "num": 132260,
+        "word": "巴厘岛",
+        "onboard_time": 1683295350,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149416,
+        "num": 132193,
+        "word": "瞿颖的腿秒了",
+        "onboard_time": 1683284370,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131879,
+        "num": 131879,
+        "word": "原神",
+        "onboard_time": 1683302369,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96419,
+        "num": 96419,
+        "word": "楼明",
+        "onboard_time": 1683299671,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87421,
+        "num": 87421,
+        "word": "千万不要再趴着睡了",
+        "onboard_time": 1683297395,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 46083,
+        "num": 87314,
+        "word": "狼队晋级春季赛总决赛",
+        "onboard_time": 1683297032,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设以实体经济为支撑的现代化产业体系#"
+    }
+  }
+}
