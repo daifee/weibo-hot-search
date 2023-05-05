@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683270925562,
+  "endTime": 1683272011775,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -195,6 +195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2179014,
+      "num": 2179014,
+      "word": "吴倩 淘汰",
+      "onboard_time": 1683269308,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2161870,
       "num": 2161870,
       "word": "我是当事人 我没有插队",
@@ -281,14 +289,6 @@
       "onboard_time": 1683164309,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2000733,
-      "num": 2000733,
-      "word": "吴倩 淘汰",
-      "onboard_time": 1683269308,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1972656,
@@ -603,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1481804,
+      "num": 1481804,
+      "word": "男朋友28了还是离不开安抚巾",
+      "onboard_time": 1683263551,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1471230,
       "num": 1235358,
       "word": "至少已有12名发声者指控史航性骚扰",
@@ -665,14 +673,6 @@
       "onboard_time": 1682997988,
       "rank": 18,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1397096,
-      "num": 1397096,
-      "word": "男朋友28了还是离不开安抚巾",
-      "onboard_time": 1683263551,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 1384869,
@@ -1153,6 +1153,14 @@
       "onboard_time": 1683012807,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1031127,
+      "num": 1031127,
+      "word": "林更新 青簪行",
+      "onboard_time": 1683270809,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 1030066,
@@ -2467,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 506429,
+      "num": 506429,
+      "word": "日本地震",
+      "onboard_time": 1683267266,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504598,
       "num": 504598,
       "word": "一诺状态",
@@ -2489,14 +2505,6 @@
       "onboard_time": 1683205471,
       "rank": 33,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 502503,
-      "num": 502503,
-      "word": "日本地震",
-      "onboard_time": 1683267266,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 498252,
@@ -2849,6 +2857,14 @@
       "onboard_time": 1683066195,
       "rank": 22,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 440099,
+      "num": 440099,
+      "word": "流水线公主",
+      "onboard_time": 1683269909,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 439438,
@@ -3275,6 +3291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 394557,
+      "num": 394557,
+      "word": "背调不通过offer没了",
+      "onboard_time": 1683264390,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 394095,
       "num": 334894,
       "word": "卡琳娜",
@@ -3289,14 +3313,6 @@
       "onboard_time": 1683072506,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 393233,
-      "num": 393233,
-      "word": "背调不通过offer没了",
-      "onboard_time": 1683264390,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 390904,
@@ -3339,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386622,
+      "num": 386622,
+      "word": "Ella回应好吵",
+      "onboard_time": 1683269969,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385908,
       "num": 385908,
       "word": "长月烬明预告",
@@ -3361,14 +3385,6 @@
       "onboard_time": 1683207453,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 384419,
-      "num": 384419,
-      "word": "流水线公主",
-      "onboard_time": 1683269909,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 383497,
@@ -4219,6 +4235,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 312810,
+      "num": 271382,
+      "word": "王一博杀青行李",
+      "onboard_time": 1683270448,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311721,
       "num": 296748,
       "word": "这就是陈都灵流鼻血那场戏啊",
@@ -4492,7 +4516,7 @@
     },
     {
       "raw_hot": 288466,
-      "num": 288466,
+      "num": 354387,
       "word": "山东71岁爷爷一年2次外出卖糖",
       "onboard_time": 1683268949,
       "rank": 26,
@@ -5403,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242450,
+      "num": 242450,
+      "word": "大学生只尝不买火车推销员幽默吐槽",
+      "onboard_time": 1683268828,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 242404,
       "num": 242404,
       "word": "难哄首发概念海报",
@@ -5515,19 +5547,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 238551,
-      "num": 238551,
-      "word": "大学生只尝不买火车推销员幽默吐槽",
-      "onboard_time": 1683268828,
-      "rank": 30,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 237618,
       "num": 237618,
       "word": "长空之王票房",
       "onboard_time": 1683013525,
       "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237509,
+      "num": 237509,
+      "word": "偷偷藏不住暗恋独白片花",
+      "onboard_time": 1683270568,
+      "rank": 38,
       "category": "影视"
     },
     {
@@ -6169,14 +6201,6 @@
       "onboard_time": 1682902289,
       "rank": 24,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 218897,
-      "num": 218897,
-      "word": "王一博杀青行李",
-      "onboard_time": 1683270448,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 218586,
@@ -6979,14 +7003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195681,
-      "num": 195681,
-      "word": "偷偷藏不住暗恋独白片花",
-      "onboard_time": 1683270568,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 195409,
       "num": 195409,
       "word": "这工位老板看到了都害怕",
@@ -7787,14 +7803,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 175344,
-      "num": 175344,
-      "word": "林更新 青簪行",
-      "onboard_time": 1683270809,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 175238,
       "num": 175238,
       "word": "感谢辛弃疾治好了我的焦虑",
@@ -8451,6 +8459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156996,
+      "num": 156996,
+      "word": "巴厘岛华人身亡案发酒店仍在营业",
+      "onboard_time": 1683271648,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156862,
       "num": 156862,
       "word": "萌兰手压麻了之后走路",
@@ -8795,6 +8811,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146006,
+      "num": 146006,
+      "word": "刘惜君 牛",
+      "onboard_time": 1683271710,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145686,
       "num": 145686,
       "word": "詹姆斯三分",
@@ -9009,6 +9033,14 @@
       "onboard_time": 1682957065,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 133458,
+      "num": 133458,
+      "word": "陈冰乘风初舞台高音",
+      "onboard_time": 1683271949,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 133037,
@@ -10315,6 +10347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47135,
+      "num": 427829,
+      "word": "米奇也是漫威粉",
+      "onboard_time": 1683270150,
+      "rank": 14,
+      "category": "旅游,影视"
+    },
+    {
       "raw_hot": 46418,
       "num": 55205,
       "word": "澹台烬黎苏苏双向奔赴",
@@ -10473,14 +10513,6 @@
       "onboard_time": 1683235452,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 26377,
-      "num": 427829,
-      "word": "米奇也是漫威粉",
-      "onboard_time": 1683270150,
-      "rank": 14,
-      "category": "旅游,影视"
     },
     {
       "raw_hot": 25381,
