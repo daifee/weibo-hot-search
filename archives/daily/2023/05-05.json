@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683261234457,
+  "endTime": 1683263779806,
   "band_list": [
     {
       "raw_hot": 2256653,
@@ -27,12 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2008498,
+      "num": 2008498,
+      "word": "蔡少芬谢娜Ella好吵",
+      "onboard_time": 1683260915,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1708893,
       "num": 1708893,
       "word": "热带鱼 把水煮开了以后再养",
       "onboard_time": 1683257008,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1708402,
+      "num": 1708402,
+      "word": "张继科奔跑吧被打码",
+      "onboard_time": 1683259110,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1661700,
@@ -49,6 +65,14 @@
       "onboard_time": 1683216689,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1539275,
+      "num": 1539275,
+      "word": "朱珠好美啊",
+      "onboard_time": 1683261814,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1328585,
@@ -139,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 994097,
+      "num": 551758,
+      "word": "品如艾莉婚礼答谢宴",
+      "onboard_time": 1683261935,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 980948,
       "num": 980948,
       "word": "浓眉定律",
@@ -147,7 +179,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 949880,
+      "raw_hot": 971296,
       "num": 949880,
       "word": "秋瓷炫初舞台唱无法原谅",
       "onboard_time": 1683256830,
@@ -169,14 +201,6 @@
       "onboard_time": 1683210937,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 896343,
-      "num": 896343,
-      "word": "张继科奔跑吧被打码",
-      "onboard_time": 1683259110,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 888060,
@@ -235,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 662620,
+      "num": 453201,
+      "word": "朱珠好像圈外人",
+      "onboard_time": 1683262534,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 637359,
       "num": 637359,
       "word": "乘风2023",
@@ -257,6 +289,14 @@
       "onboard_time": 1683214412,
       "rank": 22,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 619036,
+      "num": 619036,
+      "word": "一人之下",
+      "onboard_time": 1683260014,
+      "rank": 46,
+      "category": "动漫,影视"
     },
     {
       "raw_hot": 613428,
@@ -315,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 481113,
+      "num": 352203,
+      "word": "黄晓明今天好累",
+      "onboard_time": 1683260975,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470003,
       "num": 470003,
       "word": "上车时身份证掉高铁轨道里了",
@@ -355,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 397445,
-      "num": 397445,
-      "word": "一人之下",
-      "onboard_time": 1683260014,
-      "rank": 46,
-      "category": "动漫,影视"
-    },
-    {
       "raw_hot": 390441,
       "num": 390441,
       "word": "同事登我电脑问密码是什么",
@@ -387,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380208,
+      "num": 299060,
+      "word": "Ella演唱出道曲恋人未满",
+      "onboard_time": 1683262412,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379034,
       "num": 379034,
       "word": "史航",
       "onboard_time": 1683247470,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 369062,
+      "num": 292826,
+      "word": "李莎旻子麦甩飞了",
+      "onboard_time": 1683261994,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 364875,
@@ -451,6 +507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 336388,
+      "num": 336388,
+      "word": "多家机构不再与史航合作",
+      "onboard_time": 1683262470,
+      "rank": 22,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 335304,
       "num": 335304,
       "word": "乘风2023初舞台剧照",
@@ -489,14 +553,6 @@
       "onboard_time": 1683198386,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325003,
-      "num": 325003,
-      "word": "黄晓明今天好累",
-      "onboard_time": 1683260975,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 314242,
@@ -547,6 +603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 287002,
+      "num": 243844,
+      "word": "品如 战歌起",
+      "onboard_time": 1683262652,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285624,
       "num": 285624,
       "word": "郭珍霓",
@@ -555,20 +619,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274197,
-      "num": 274197,
-      "word": "蔡少芬谢娜Ella好吵",
-      "onboard_time": 1683260915,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272886,
       "num": 272886,
       "word": "巴厘岛",
       "onboard_time": 1683249449,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272278,
+      "num": 224477,
+      "word": "刘惜君清唱一生所爱",
+      "onboard_time": 1683263071,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 263195,
@@ -611,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243984,
+      "num": 243984,
+      "word": "石墩子 花花女士的肚子",
+      "onboard_time": 1683261452,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242404,
       "num": 242404,
       "word": "难哄首发概念海报",
@@ -632,6 +704,22 @@
       "word": "张若昀鸣龙少年新预告",
       "onboard_time": 1683253110,
       "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 237352,
+      "num": 237352,
+      "word": "男朋友28了还是离不开安抚巾",
+      "onboard_time": 1683263551,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 235331,
+      "num": 235331,
+      "word": "颖儿为新剧剪掉20年长发",
+      "onboard_time": 1683261452,
+      "rank": 39,
       "category": "影视"
     },
     {
@@ -715,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217932,
+      "num": 291832,
+      "word": "李佳琦面试75岁奶奶主播",
+      "onboard_time": 1683258692,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217203,
       "num": 217203,
       "word": "自助餐你会吃多少",
@@ -755,12 +851,12 @@
       "category": "动漫,影视"
     },
     {
-      "raw_hot": 210956,
-      "num": 291832,
-      "word": "李佳琦面试75岁奶奶主播",
-      "onboard_time": 1683258692,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 208592,
+      "num": 208592,
+      "word": "美依礼芽初舞台极乐净土",
+      "onboard_time": 1683263371,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 204763,
@@ -1083,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127573,
+      "num": 276369,
+      "word": "油混和插混怎么选",
+      "onboard_time": 1683261273,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120793,
       "num": 98554,
       "word": "健康的羞耻感",
@@ -1257,6 +1361,14 @@
       "onboard_time": 1683219979,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 65556,
+      "num": 1622522,
+      "word": "今天是马克思诞辰205周年",
+      "onboard_time": 1683262175,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59983,
