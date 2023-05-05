@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683296126414,
+  "endTime": 1683297207960,
   "band_list": [
     {
       "raw_hot": 2860556,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2008989,
+      "num": 2008989,
+      "word": "浪姐4谢娜人气排第一",
+      "onboard_time": 1683292770,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2008498,
       "num": 2008498,
       "word": "蔡少芬谢娜Ella好吵",
@@ -89,14 +97,6 @@
       "onboard_time": 1683293489,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1896457,
-      "num": 1896457,
-      "word": "浪姐4谢娜人气排第一",
-      "onboard_time": 1683292770,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1846891,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1183304,
+      "num": 1183304,
+      "word": "宋雨琦把关晓彤挠下去了",
+      "onboard_time": 1683294153,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1180698,
       "num": 1180698,
       "word": "乘风4二公淘汰名单",
@@ -289,6 +297,14 @@
       "onboard_time": 1683270809,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1138413,
+      "num": 1138413,
+      "word": "极乐净土",
+      "onboard_time": 1683294812,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 1129134,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932485,
+      "num": 932485,
+      "word": "同事辟谣挖呀挖黄老师辞职",
+      "onboard_time": 1683294871,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 923242,
       "num": 923242,
       "word": "扒光男童上衣女幼师被拘留8天",
@@ -399,14 +423,6 @@
       "num": 863717,
       "word": "杨迪曾因简历照片错失工作机会",
       "onboard_time": 1683245249,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 857519,
-      "num": 857519,
-      "word": "宋雨琦把关晓彤挠下去了",
-      "onboard_time": 1683294153,
       "rank": 6,
       "category": "综艺"
     },
@@ -483,12 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 647848,
-      "num": 647848,
-      "word": "同事辟谣挖呀挖黄老师辞职",
-      "onboard_time": 1683294871,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 667049,
+      "num": 667049,
+      "word": "中戏同学鼓励郭珍霓拍戏",
+      "onboard_time": 1683295411,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 637359,
@@ -539,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 601890,
+      "num": 839352,
+      "word": "林一你换个发型吧",
+      "onboard_time": 1683293311,
+      "rank": 39,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 587660,
       "num": 569854,
       "word": "张嘉倪门面",
@@ -563,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 584291,
-      "num": 656454,
-      "word": "林一你换个发型吧",
-      "onboard_time": 1683293311,
-      "rank": 39,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 583824,
       "num": 583824,
       "word": "五月天团票",
@@ -585,14 +601,6 @@
       "onboard_time": 1683259533,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 553104,
-      "num": 553104,
-      "word": "极乐净土",
-      "onboard_time": 1683294812,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 550631,
@@ -633,6 +641,14 @@
       "onboard_time": 1683284667,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534379,
+      "num": 534379,
+      "word": "王石 田朴珺",
+      "onboard_time": 1683295830,
+      "rank": 28,
+      "category": "财经,艺人"
     },
     {
       "raw_hot": 532547,
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420350,
+      "num": 389687,
+      "word": "Ella恋人未满听哭了",
+      "onboard_time": 1683294271,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409305,
       "num": 409305,
       "word": "制片人说李明德是小人得志型艺人",
@@ -811,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402657,
+      "num": 389145,
+      "word": "张靓颖嗓子",
+      "onboard_time": 1683294569,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399968,
       "num": 399968,
       "word": "辽宁男篮晋级总决赛",
@@ -825,14 +857,6 @@
       "onboard_time": 1683265408,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398973,
-      "num": 379021,
-      "word": "中戏同学鼓励郭珍霓拍戏",
-      "onboard_time": 1683295411,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 394557,
@@ -923,22 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366187,
-      "num": 366187,
-      "word": "Ella恋人未满听哭了",
-      "onboard_time": 1683294271,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 365450,
-      "num": 326153,
-      "word": "张靓颖嗓子",
-      "onboard_time": 1683294569,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 364875,
       "num": 364875,
       "word": "领证一年双方父母未见过面",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1683251128,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 339547,
+      "num": 339547,
+      "word": "王博",
+      "onboard_time": 1683294995,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 336488,
@@ -1107,14 +1123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324635,
-      "num": 324635,
-      "word": "王石 田朴珺",
-      "onboard_time": 1683295830,
-      "rank": 28,
-      "category": "财经,艺人"
-    },
-    {
       "raw_hot": 322132,
       "num": 322132,
       "word": "厦门机场一摆渡车撞进航站楼",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1683286709,
       "rank": 21,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 299816,
-      "num": 299816,
-      "word": "王博",
-      "onboard_time": 1683294995,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 299118,
@@ -1475,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231198,
+      "num": 231198,
+      "word": "周杰伦香港演唱会",
+      "onboard_time": 1683288149,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230205,
       "num": 230205,
       "word": "恋爱牛",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1683292651,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219722,
-      "num": 219722,
-      "word": "周杰伦香港演唱会",
-      "onboard_time": 1683288149,
-      "rank": 36,
-      "category": "音乐"
     },
     {
       "raw_hot": 219043,
@@ -1731,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206271,
+      "num": 206271,
+      "word": "范丞丞说白鹿是在跟自己打架",
+      "onboard_time": 1683296193,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204991,
       "num": 204991,
       "word": "爸爸给我的爱在此刻变臭了",
@@ -1779,6 +1787,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 196565,
+      "num": 196565,
+      "word": "WB对战狼队",
+      "onboard_time": 1683286709,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195309,
       "num": 171849,
       "word": "51岁孙悦初舞台唱跳帅炸了",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1683293849,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191474,
+      "num": 191474,
+      "word": "狼队晋级春季赛总决赛",
+      "onboard_time": 1683297032,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 190797,
@@ -2387,8 +2411,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 87900,
-      "num": 1739525,
+      "raw_hot": 89292,
+      "num": 1783354,
       "word": "天舟五号撤离空间站",
       "onboard_time": 1683291871,
       "rank": 2,
@@ -2449,14 +2473,6 @@
       "onboard_time": 1683241762,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72161,
-      "num": 152575,
-      "word": "WB对战狼队",
-      "onboard_time": 1683286709,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 72048,
