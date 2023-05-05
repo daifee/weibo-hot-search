@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683254514349,
+  "endTime": 1683256682719,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -313,6 +313,14 @@
       "onboard_time": 1683203729,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1931047,
+      "num": 1931047,
+      "word": "难哄",
+      "onboard_time": 1683254666,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 1897707,
@@ -675,6 +683,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1328585,
+      "num": 973974,
+      "word": "淄博鸭头小哥直播中气到落泪",
+      "onboard_time": 1683241280,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1318458,
       "num": 1318458,
       "word": "烧烤店老板为劝退游客自刷17个差评",
@@ -744,14 +760,6 @@
       "word": "云南保山5.2级地震",
       "onboard_time": 1683043651,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1266846,
-      "num": 973974,
-      "word": "淄博鸭头小哥直播中气到落泪",
-      "onboard_time": 1683241280,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -851,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1156444,
+      "num": 1156444,
+      "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
+      "onboard_time": 1683251727,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1149580,
       "num": 1149580,
       "word": "四川宜宾地震",
@@ -905,14 +921,6 @@
       "onboard_time": 1683074788,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1102767,
-      "num": 1102767,
-      "word": "四岁男童颅脑损伤监控显示曾被老师扔摔",
-      "onboard_time": 1683251727,
-      "rank": 3,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1099269,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1683209855,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1037875,
+      "num": 1037875,
+      "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
+      "onboard_time": 1683244710,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1032685,
@@ -1209,14 +1225,6 @@
       "onboard_time": 1683034299,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 904379,
-      "num": 904379,
-      "word": "蜜雪冰城回应顾客在饮品中喝到大蟑螂",
-      "onboard_time": 1683244710,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 891303,
@@ -2051,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550631,
+      "num": 550631,
+      "word": "湖人vs勇士",
+      "onboard_time": 1683250107,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 547353,
       "num": 547353,
       "word": "苦日子到头了",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1682895923,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 506675,
+      "num": 475125,
+      "word": "高圆圆晒图为贾静雯打call",
+      "onboard_time": 1683254307,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 504598,
@@ -2491,6 +2515,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 457795,
+      "num": 457795,
+      "word": "上车时身份证掉高铁轨道里了",
+      "onboard_time": 1683252147,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 457483,
       "num": 457483,
       "word": "涉事景区称插队事件自己也是受损方",
@@ -2561,14 +2593,6 @@
       "onboard_time": 1682994809,
       "rank": 45,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 443146,
-      "num": 443146,
-      "word": "上车时身份证掉高铁轨道里了",
-      "onboard_time": 1683252147,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 442403,
@@ -2705,6 +2729,14 @@
       "onboard_time": 1683100411,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431207,
+      "num": 431207,
+      "word": "小日子阵容官宣",
+      "onboard_time": 1683254128,
+      "rank": 17,
+      "category": "影视"
     },
     {
       "raw_hot": 428704,
@@ -2865,14 +2897,6 @@
       "onboard_time": 1682899226,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408683,
-      "num": 408683,
-      "word": "湖人vs勇士",
-      "onboard_time": 1683250107,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 407834,
@@ -3211,14 +3235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 370502,
-      "num": 370502,
-      "word": "小日子阵容官宣",
-      "onboard_time": 1683254128,
-      "rank": 17,
-      "category": "影视"
-    },
-    {
       "raw_hot": 369156,
       "num": 369156,
       "word": "五一假期2.74亿人次出游",
@@ -3427,6 +3443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345980,
+      "num": 321791,
+      "word": "大熊猫花花已经火出国门了",
+      "onboard_time": 1683254067,
+      "rank": 36,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 344954,
       "num": 344954,
       "word": "时代少年团演唱会彩带有玉米粒",
@@ -3545,6 +3569,14 @@
       "onboard_time": 1682946271,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 335304,
+      "num": 335304,
+      "word": "乘风2023初舞台剧照",
+      "onboard_time": 1683255990,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 334101,
@@ -3705,6 +3737,14 @@
       "onboard_time": 1683021029,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 322905,
+      "num": 322905,
+      "word": "乘风2023",
+      "onboard_time": 1683081812,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 321396,
@@ -4627,6 +4667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255701,
+      "num": 255701,
+      "word": "那些不婚主义的人现在怎样了",
+      "onboard_time": 1683253287,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255614,
       "num": 255614,
       "word": "长空之王成五一档总票房冠军",
@@ -4979,6 +5027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242404,
+      "num": 242404,
+      "word": "难哄首发概念海报",
+      "onboard_time": 1683254608,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242344,
       "num": 261728,
       "word": "女子情绪失控端火锅泼人邻桌遭殃",
@@ -5291,14 +5347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 231943,
-      "num": 231943,
-      "word": "那些不婚主义的人现在怎样了",
-      "onboard_time": 1683253287,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 230792,
       "num": 207462,
       "word": "李飞你中控了毛线",
@@ -5424,6 +5472,14 @@
       "word": "银河护卫队3",
       "onboard_time": 1683109050,
       "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 226443,
+      "num": 226443,
+      "word": "郭麒麟说别把我逼急了",
+      "onboard_time": 1683253826,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -5891,6 +5947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211596,
+      "num": 211596,
+      "word": "乘风4二公淘汰名单",
+      "onboard_time": 1683256531,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211472,
       "num": 211472,
       "word": "今晚看陈晓陈妍希",
@@ -6251,6 +6315,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 199981,
+      "num": 199981,
+      "word": "人大教授说红楼梦是当代生活指南",
+      "onboard_time": 1683251966,
+      "rank": 33,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 199521,
       "num": 214317,
       "word": "飒蜜",
@@ -6403,6 +6475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194239,
+      "num": 194239,
+      "word": "谢娜乘风初舞台菠萝菠萝蜜",
+      "onboard_time": 1683256410,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194170,
       "num": 194170,
       "word": "小矛盾是否值得成为全民讨论热点",
@@ -6497,14 +6577,6 @@
       "onboard_time": 1682953351,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191251,
-      "num": 191251,
-      "word": "郭麒麟说别把我逼急了",
-      "onboard_time": 1683253826,
-      "rank": 44,
-      "category": "影视"
     },
     {
       "raw_hot": 191248,
@@ -6747,20 +6819,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185073,
+      "num": 185073,
+      "word": "小日子",
+      "onboard_time": 1683254488,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 183799,
       "num": 183799,
       "word": "地铁上放屁引发的社死现场",
       "onboard_time": 1683130407,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183648,
-      "num": 183648,
-      "word": "大熊猫花花已经火出国门了",
-      "onboard_time": 1683254067,
-      "rank": 36,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 183260,
@@ -6827,12 +6899,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 180653,
-      "num": 180653,
-      "word": "乘风2023",
-      "onboard_time": 1683081812,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 180900,
+      "num": 180900,
+      "word": "特斯拉中国上调ModelS全系车型售价",
+      "onboard_time": 1683255809,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 180597,
@@ -6849,14 +6921,6 @@
       "onboard_time": 1683115887,
       "rank": 41,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 180182,
-      "num": 180182,
-      "word": "人大教授说红楼梦是当代生活指南",
-      "onboard_time": 1683251966,
-      "rank": 33,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 180084,
@@ -7107,14 +7171,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 176305,
-      "num": 176305,
-      "word": "小日子",
-      "onboard_time": 1683254488,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 176148,
       "num": 176148,
       "word": "承欢记组讯",
@@ -7137,6 +7193,14 @@
       "onboard_time": 1683106111,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175933,
+      "num": 175933,
+      "word": "德云社",
+      "onboard_time": 1683253709,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 175727,
@@ -7217,6 +7281,14 @@
       "onboard_time": 1683152656,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174191,
+      "num": 174191,
+      "word": "说唱巅峰对决音乐节",
+      "onboard_time": 1683256590,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 173626,
@@ -7411,14 +7483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168002,
-      "num": 168002,
-      "word": "高圆圆晒图为贾静雯打call",
-      "onboard_time": 1683254307,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167903,
       "num": 167903,
       "word": "长空之王最后一句台词",
@@ -7448,6 +7512,14 @@
       "word": "罗云熙片场自己补妆",
       "onboard_time": 1683191549,
       "rank": 45,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 167579,
+      "num": 167579,
+      "word": "鸣龙少年新预告没有李明德",
+      "onboard_time": 1683256590,
+      "rank": 44,
       "category": "影视"
     },
     {
@@ -7875,6 +7947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155032,
+      "num": 155032,
+      "word": "最全痔疮手术流程攻略",
+      "onboard_time": 1683256289,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154754,
       "num": 154754,
       "word": "dou5",
@@ -8225,14 +8305,6 @@
       "onboard_time": 1682844748,
       "rank": 32,
       "category": "影视"
-    },
-    {
-      "raw_hot": 140609,
-      "num": 140609,
-      "word": "德云社",
-      "onboard_time": 1683253709,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 140448,
