@@ -1,6 +1,6 @@
 {
   "startTime": 1683217942495,
-  "endTime": 1683272011775,
+  "endTime": 1683274841383,
   "band_list": [
     {
       "raw_hot": 2256653,
@@ -41,6 +41,14 @@
       "onboard_time": 1683260915,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1792593,
+      "num": 1792593,
+      "word": "全国都在咽喉炎吗",
+      "onboard_time": 1683272547,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1708893,
@@ -171,6 +179,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1154913,
+      "num": 1154913,
+      "word": "林更新 青簪行",
+      "onboard_time": 1683270809,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1086920,
       "num": 580757,
       "word": "割席",
@@ -195,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1031127,
-      "num": 1031127,
-      "word": "林更新 青簪行",
-      "onboard_time": 1683270809,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1016769,
       "num": 705425,
       "word": "高铁上的一声姐姐花了我35元",
@@ -217,6 +225,14 @@
       "onboard_time": 1683257430,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 979214,
+      "num": 668953,
+      "word": "五月天官宣鸟巢连开六场",
+      "onboard_time": 1683274288,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 971296,
@@ -297,6 +313,14 @@
       "onboard_time": 1683204691,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 716698,
+      "num": 716698,
+      "word": "普通人怎么拥有千万资产",
+      "onboard_time": 1683272427,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 708491,
@@ -443,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 485070,
+      "num": 485070,
+      "word": "流水线公主",
+      "onboard_time": 1683269909,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 481113,
       "num": 390171,
       "word": "黄晓明今天好累",
@@ -467,11 +499,27 @@
       "category": "影视"
     },
     {
+      "raw_hot": 465113,
+      "num": 465113,
+      "word": "肖战i人误入e人聚会",
+      "onboard_time": 1683273748,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462425,
       "num": 462425,
       "word": "谢娜乘风初舞台菠萝菠萝蜜",
       "onboard_time": 1683256410,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 457543,
+      "num": 409245,
+      "word": "Ella回应好吵",
+      "onboard_time": 1683269969,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -481,14 +529,6 @@
       "onboard_time": 1683267447,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 440099,
-      "num": 440099,
-      "word": "流水线公主",
-      "onboard_time": 1683269909,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 431207,
@@ -547,14 +587,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 386622,
-      "num": 386622,
-      "word": "Ella回应好吵",
-      "onboard_time": 1683269969,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 382878,
       "num": 382878,
       "word": "过半网友认为插队婆孙被当车贴合适",
@@ -579,6 +611,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 378700,
+      "num": 378700,
+      "word": "巴厘岛华人身亡案发酒店仍在营业",
+      "onboard_time": 1683271648,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371855,
       "num": 355921,
       "word": "贾静雯不会老吗",
@@ -593,6 +633,14 @@
       "onboard_time": 1683261994,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 366827,
+      "num": 366827,
+      "word": "彭昱畅竟然有6块腹肌",
+      "onboard_time": 1683272968,
+      "rank": 20,
+      "category": "影视,动漫"
     },
     {
       "raw_hot": 364875,
@@ -675,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332747,
+      "num": 272705,
+      "word": "偷偷藏不住暗恋独白片花",
+      "onboard_time": 1683270568,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 328622,
       "num": 328622,
       "word": "大妈将吃完的玉米芯扔给熊猫吃掉",
@@ -755,6 +811,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 293301,
+      "num": 369308,
+      "word": "山东71岁爷爷一年2次外出卖糖",
+      "onboard_time": 1683268949,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291885,
       "num": 291885,
       "word": "宋茜人缘",
@@ -771,12 +835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288466,
-      "num": 354387,
-      "word": "山东71岁爷爷一年2次外出卖糖",
-      "onboard_time": 1683268949,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 288195,
+      "num": 272694,
+      "word": "刘惜君 牛",
+      "onboard_time": 1683271710,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 287002,
@@ -793,6 +857,14 @@
       "onboard_time": 1683196768,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276528,
+      "num": 187164,
+      "word": "卢靖姗乘风4带宝宝上班",
+      "onboard_time": 1683273568,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 272886,
@@ -896,14 +968,6 @@
       "word": "张若昀鸣龙少年新预告",
       "onboard_time": 1683253110,
       "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 237509,
-      "num": 237509,
-      "word": "偷偷藏不住暗恋独白片花",
-      "onboard_time": 1683270568,
-      "rank": 38,
       "category": "影视"
     },
     {
@@ -1091,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204991,
+      "num": 204991,
+      "word": "爸爸给我的爱在此刻变臭了",
+      "onboard_time": 1683269548,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204763,
       "num": 204763,
       "word": "五天爬五岳小伙晒打卡计划表",
@@ -1113,14 +1185,6 @@
       "onboard_time": 1683236111,
       "rank": 7,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 200789,
-      "num": 200789,
-      "word": "爸爸给我的爱在此刻变臭了",
-      "onboard_time": 1683269548,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 199981,
@@ -1339,14 +1403,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 156996,
-      "num": 156996,
-      "word": "巴厘岛华人身亡案发酒店仍在营业",
-      "onboard_time": 1683271648,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156701,
       "num": 146482,
       "word": "曾可妮帅死了",
@@ -1427,14 +1483,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 146006,
-      "num": 146006,
-      "word": "刘惜君 牛",
-      "onboard_time": 1683271710,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145686,
       "num": 145686,
       "word": "詹姆斯三分",
@@ -1459,12 +1507,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 139889,
+      "num": 139889,
+      "word": "蒋奇明和易烊千玺合作过",
+      "onboard_time": 1683274170,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 133458,
       "num": 133458,
       "word": "陈冰乘风初舞台高音",
       "onboard_time": 1683271949,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133222,
+      "num": 133222,
+      "word": "找不到双休的工作该不该将就",
+      "onboard_time": 1683274650,
+      "rank": 47,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 129726,
@@ -1497,6 +1561,14 @@
       "onboard_time": 1683261273,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124656,
+      "num": 124656,
+      "word": "用手机接打电话影响血压吗",
+      "onboard_time": 1683273568,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 120793,
@@ -1537,6 +1609,14 @@
       "onboard_time": 1683268408,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116083,
+      "num": 116083,
+      "word": "英雄联盟国家集训队名单",
+      "onboard_time": 1683274827,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 115849,
