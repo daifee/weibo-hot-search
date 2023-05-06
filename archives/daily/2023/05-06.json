@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683362016754,
+  "endTime": 1683364523154,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -24,6 +24,14 @@
       "word": "承重墙被砸1.6亿赔款谁来出",
       "onboard_time": 1683337169,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2643184,
+      "num": 1338763,
+      "word": "巴厘岛女性死者胃部有大量液体",
+      "onboard_time": 1683361527,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -259,8 +267,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 972349,
-      "num": 972349,
+      "raw_hot": 999113,
+      "num": 999113,
       "word": "妲己为什么总喂纣王吃葡萄",
       "onboard_time": 1683354028,
       "rank": 47,
@@ -355,12 +363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 787181,
-      "num": 787181,
+      "raw_hot": 787844,
+      "num": 787844,
       "word": "奔跑吧回应收视率创新低",
       "onboard_time": 1683360150,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 769945,
+      "num": 502934,
+      "word": "为何穿了外衣却还要穿内衣",
+      "onboard_time": 1683361650,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 738648,
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 488179,
+      "num": 488179,
+      "word": "迪丽热巴或将演万渣朝凰",
+      "onboard_time": 1683363811,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 474099,
       "num": 474099,
       "word": "正版少爷和我",
@@ -555,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433106,
+      "num": 433106,
+      "word": "朱珠让给她文学",
+      "onboard_time": 1683362071,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433099,
       "num": 433099,
       "word": "耳高于眉",
@@ -569,6 +601,14 @@
       "onboard_time": 1683345514,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405737,
+      "num": 289226,
+      "word": "好朋友退出群聊了",
+      "onboard_time": 1683362123,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 398647,
@@ -675,19 +715,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335069,
+      "num": 335069,
+      "word": "乘风2023破四季最高收视纪录",
+      "onboard_time": 1683361470,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334286,
       "num": 334286,
       "word": "花花一口果果嚼了41下",
       "onboard_time": 1683353429,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333676,
-      "num": 333676,
-      "word": "巴厘岛女性死者胃部有大量液体",
-      "onboard_time": 1683361527,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -835,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271296,
+      "num": 271296,
+      "word": "叶舒华怼黑评",
+      "onboard_time": 1683363092,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270549,
       "num": 270549,
       "word": "张杰华晨宇安九舞台",
@@ -891,6 +939,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255619,
+      "num": 255619,
+      "word": "想念浪3",
+      "onboard_time": 1683361711,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 254461,
+      "num": 250499,
+      "word": "胡歌南京",
+      "onboard_time": 1683363150,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252782,
       "num": 252782,
       "word": "长空之王称王一博代言的眼镜侵权",
@@ -905,6 +969,14 @@
       "onboard_time": 1683350493,
       "rank": 31,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 251281,
+      "num": 251281,
+      "word": "孙悟空对女孩子真的很温柔",
+      "onboard_time": 1683362552,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 248805,
@@ -1043,12 +1115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214064,
-      "num": 214064,
-      "word": "为何穿了外衣却还要穿内衣",
-      "onboard_time": 1683361650,
-      "rank": 34,
-      "category": "情感,幽默"
+      "raw_hot": 213415,
+      "num": 213415,
+      "word": "巴厘岛女性死者系在校大学生",
+      "onboard_time": 1683361228,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209555,
@@ -1121,14 +1193,6 @@
       "onboard_time": 1683303207,
       "rank": 48,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 200631,
-      "num": 200631,
-      "word": "想念浪3",
-      "onboard_time": 1683361711,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 199077,
@@ -1315,6 +1379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 168498,
+      "num": 168498,
+      "word": "梁静茹演唱会武汉苏州官宣",
+      "onboard_time": 1683364228,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167632,
       "num": 167632,
       "word": "王石 田朴珺",
@@ -1331,12 +1403,28 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 164983,
+      "num": 164983,
+      "word": "如何把上厕所说的优雅一点",
+      "onboard_time": 1683362909,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161160,
       "num": 161160,
       "word": "爱情遇见达尔文",
       "onboard_time": 1683346653,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 160474,
+      "num": 160474,
+      "word": "什么是毫无分寸的发言",
+      "onboard_time": 1683361949,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 158840,
@@ -1451,6 +1539,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142020,
+      "num": 468917,
+      "word": "手机颜色会影响你的购买欲吗",
+      "onboard_time": 1683360026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139800,
+      "num": 139800,
+      "word": "大唐不夜城公孙离热",
+      "onboard_time": 1683364411,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 138368,
       "num": 138368,
       "word": "微暗之火",
@@ -1465,14 +1569,6 @@
       "onboard_time": 1683279269,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134832,
-      "num": 134832,
-      "word": "什么是毫无分寸的发言",
-      "onboard_time": 1683361949,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 131913,
@@ -1491,6 +1587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131648,
+      "num": 131648,
+      "word": "跑遍34个省区市收集了春天",
+      "onboard_time": 1683362971,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130519,
       "num": 130519,
       "word": "祝绪丹给刘宇宁打电话",
@@ -1499,12 +1603,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129545,
+      "num": 129545,
+      "word": "遇害情侣家属已抵达巴厘岛",
+      "onboard_time": 1683362123,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127528,
       "num": 127528,
       "word": "mbti",
       "onboard_time": 1683302192,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125724,
+      "num": 125724,
+      "word": "抢票攻略",
+      "onboard_time": 1683362552,
+      "rank": 49,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 120292,
@@ -1539,14 +1659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 108618,
-      "num": 468917,
-      "word": "手机颜色会影响你的购买欲吗",
-      "onboard_time": 1683360026,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107539,
       "num": 107539,
       "word": "被领导的搜索记录整破防了",
@@ -1577,6 +1689,14 @@
       "onboard_time": 1683307938,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93517,
+      "num": 1632276,
+      "word": "巩固消费回暖好势头",
+      "onboard_time": 1683361051,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 92466,
@@ -1633,14 +1753,6 @@
       "onboard_time": 1683291871,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 61755,
-      "num": 1632276,
-      "word": "巩固消费回暖好势头",
-      "onboard_time": 1683361051,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 49764,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683362016754,
+  "endTime": 1683364523154,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -144,6 +144,14 @@
       "word": "承重墙被砸1.6亿赔款谁来出",
       "onboard_time": 1683337169,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2643184,
+      "num": 1338763,
+      "word": "巴厘岛女性死者胃部有大量液体",
+      "onboard_time": 1683361527,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1595,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 999113,
+      "num": 999113,
+      "word": "妲己为什么总喂纣王吃葡萄",
+      "onboard_time": 1683354028,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 998690,
       "num": 998690,
       "word": "宋亚轩 小王子",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1683257430,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 972349,
-      "num": 972349,
-      "word": "妲己为什么总喂纣王吃葡萄",
-      "onboard_time": 1683354028,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 971296,
@@ -2035,8 +2043,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 787181,
-      "num": 787181,
+      "raw_hot": 787844,
+      "num": 787844,
       "word": "奔跑吧回应收视率创新低",
       "onboard_time": 1683360150,
       "rank": 16,
@@ -2057,6 +2065,14 @@
       "onboard_time": 1683016110,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769945,
+      "num": 502934,
+      "word": "为何穿了外衣却还要穿内衣",
+      "onboard_time": 1683361650,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 767021,
@@ -3243,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 488179,
+      "num": 488179,
+      "word": "迪丽热巴或将演万渣朝凰",
+      "onboard_time": 1683363811,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 486663,
       "num": 486663,
       "word": "人民网评长空之王",
@@ -3739,6 +3763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 433106,
+      "num": 433106,
+      "word": "朱珠让给她文学",
+      "onboard_time": 1683362071,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433099,
       "num": 433099,
       "word": "耳高于眉",
@@ -3985,6 +4017,14 @@
       "onboard_time": 1683345514,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 405737,
+      "num": 289226,
+      "word": "好朋友退出群聊了",
+      "onboard_time": 1683362123,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 405553,
@@ -4899,6 +4939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335069,
+      "num": 335069,
+      "word": "乘风2023破四季最高收视纪录",
+      "onboard_time": 1683361470,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334286,
       "num": 334286,
       "word": "花花一口果果嚼了41下",
@@ -4920,14 +4968,6 @@
       "word": "请撕下插队婆孙表情包",
       "onboard_time": 1683220698,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333676,
-      "num": 333676,
-      "word": "巴厘岛女性死者胃部有大量液体",
-      "onboard_time": 1683361527,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -6011,6 +6051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 271296,
+      "num": 271296,
+      "word": "叶舒华怼黑评",
+      "onboard_time": 1683363092,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270736,
       "num": 270736,
       "word": "DRG晋级败者组半决赛",
@@ -6379,6 +6427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 255619,
+      "num": 255619,
+      "word": "想念浪3",
+      "onboard_time": 1683361711,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255614,
       "num": 255614,
       "word": "长空之王成五一档总票房冠军",
@@ -6409,6 +6465,14 @@
       "onboard_time": 1683208055,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 254461,
+      "num": 250499,
+      "word": "胡歌南京",
+      "onboard_time": 1683363150,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 254444,
@@ -6521,6 +6585,14 @@
       "onboard_time": 1683167249,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251281,
+      "num": 251281,
+      "word": "孙悟空对女孩子真的很温柔",
+      "onboard_time": 1683362552,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 251211,
@@ -7923,14 +7995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214064,
-      "num": 214064,
-      "word": "为何穿了外衣却还要穿内衣",
-      "onboard_time": 1683361650,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 213652,
       "num": 213652,
       "word": "郭艾伦缺席G4",
@@ -7944,6 +8008,14 @@
       "word": "女子为见分手男友坐9小时顺风车",
       "onboard_time": 1683265709,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213415,
+      "num": 213415,
+      "word": "巴厘岛女性死者系在校大学生",
+      "onboard_time": 1683361228,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -8457,14 +8529,6 @@
       "onboard_time": 1683039400,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 200631,
-      "num": 200631,
-      "word": "想念浪3",
-      "onboard_time": 1683361711,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 200592,
@@ -9883,6 +9947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 168498,
+      "num": 168498,
+      "word": "梁静茹演唱会武汉苏州官宣",
+      "onboard_time": 1683364228,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 168362,
       "num": 151124,
       "word": "湖勇大战来了",
@@ -10001,6 +10073,14 @@
       "onboard_time": 1683111508,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164983,
+      "num": 164983,
+      "word": "如何把上厕所说的优雅一点",
+      "onboard_time": 1683362909,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 164748,
@@ -10177,6 +10257,14 @@
       "onboard_time": 1682943328,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160474,
+      "num": 160474,
+      "word": "什么是毫无分寸的发言",
+      "onboard_time": 1683361949,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 160429,
@@ -10819,6 +10907,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 142020,
+      "num": 468917,
+      "word": "手机颜色会影响你的购买欲吗",
+      "onboard_time": 1683360026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141552,
       "num": 369321,
       "word": "什么样的青春才是鲜活的",
@@ -10881,6 +10977,14 @@
       "onboard_time": 1683101849,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139800,
+      "num": 139800,
+      "word": "大唐不夜城公孙离热",
+      "onboard_time": 1683364411,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 139183,
@@ -10971,14 +11075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134832,
-      "num": 134832,
-      "word": "什么是毫无分寸的发言",
-      "onboard_time": 1683361949,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 134515,
       "num": 134515,
       "word": "B太二刷许昌胖东来",
@@ -11057,6 +11153,14 @@
       "onboard_time": 1683302369,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131648,
+      "num": 131648,
+      "word": "跑遍34个省区市收集了春天",
+      "onboard_time": 1683362971,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 131591,
@@ -11153,6 +11257,14 @@
       "onboard_time": 1683245070,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129545,
+      "num": 129545,
+      "word": "遇害情侣家属已抵达巴厘岛",
+      "onboard_time": 1683362123,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129390,
@@ -11305,6 +11417,14 @@
       "onboard_time": 1682958924,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125724,
+      "num": 125724,
+      "word": "抢票攻略",
+      "onboard_time": 1683362552,
+      "rank": 49,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 125210,
@@ -11795,14 +11915,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 108618,
-      "num": 468917,
-      "word": "手机颜色会影响你的购买欲吗",
-      "onboard_time": 1683360026,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107611,
       "num": 107611,
       "word": "这鸭子是在瘦腿吗",
@@ -11977,6 +12089,14 @@
       "onboard_time": 1682866830,
       "rank": 49,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 93517,
+      "num": 1632276,
+      "word": "巩固消费回暖好势头",
+      "onboard_time": 1683361051,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 93505,
@@ -12353,14 +12473,6 @@
       "onboard_time": 1683102990,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 61755,
-      "num": 1632276,
-      "word": "巩固消费回暖好势头",
-      "onboard_time": 1683361051,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 61298,

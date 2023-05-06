@@ -1,0 +1,410 @@
+{
+  "runTime": 1683364523154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1360794,
+        "num": 1360794,
+        "word": "墨香铜臭",
+        "onboard_time": 1683355650,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2643184,
+        "num": 1338763,
+        "word": "巴厘岛女性死者胃部有大量液体",
+        "onboard_time": 1683361527,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93517,
+        "num": 1051077,
+        "word": "巩固消费回暖好势头",
+        "onboard_time": 1683361051,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1635644,
+        "num": 1043092,
+        "word": "深圳山姆",
+        "onboard_time": 1683353789,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021961,
+        "num": 1021961,
+        "word": "于正用秦昊减肥食谱瘦了10斤",
+        "onboard_time": 1683353668,
+        "rank": 4,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 999113,
+        "num": 999113,
+        "word": "妲己为什么总喂纣王吃葡萄",
+        "onboard_time": 1683354028,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 787844,
+        "num": 787844,
+        "word": "奔跑吧回应收视率创新低",
+        "onboard_time": 1683360150,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533985,
+        "num": 533985,
+        "word": "未婚先孕六个月跟爸妈坦白",
+        "onboard_time": 1683337049,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 517560,
+        "num": 517560,
+        "word": "霉霉 有屁重录",
+        "onboard_time": 1683357028,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1459983,
+        "num": 513585,
+        "word": "跑男收视率创新低",
+        "onboard_time": 1683354387,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769945,
+        "num": 502934,
+        "word": "为何穿了外衣却还要穿内衣",
+        "onboard_time": 1683361650,
+        "rank": 10,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 620798,
+        "num": 497255,
+        "word": "巴厘岛凶案酒店称形象严重受损",
+        "onboard_time": 1683347975,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659236,
+        "num": 495027,
+        "word": "Jiejie女友",
+        "onboard_time": 1683357330,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 488179,
+        "num": 488179,
+        "word": "迪丽热巴或将演万渣朝凰",
+        "onboard_time": 1683363811,
+        "rank": 13,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 433106,
+        "num": 433106,
+        "word": "朱珠让给她文学",
+        "onboard_time": 1683362071,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432196,
+        "num": 432196,
+        "word": "网友癌症靶向药落在公交车被大妈捡走",
+        "onboard_time": 1683350132,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386181,
+        "num": 386181,
+        "word": "反感说虚岁 来医院才能看到周岁",
+        "onboard_time": 1683358588,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363061,
+        "num": 363061,
+        "word": "承重墙被砸1.6亿赔款谁来出",
+        "onboard_time": 1683337169,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335069,
+        "num": 335069,
+        "word": "乘风2023破四季最高收视纪录",
+        "onboard_time": 1683361470,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307061,
+        "num": 307061,
+        "word": "吴倩小心翼翼的样子好心疼",
+        "onboard_time": 1683338730,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405737,
+        "num": 289226,
+        "word": "好朋友退出群聊了",
+        "onboard_time": 1683362123,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271296,
+        "num": 271296,
+        "word": "叶舒华怼黑评",
+        "onboard_time": 1683363092,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268408,
+        "num": 268408,
+        "word": "三大平台的大男主剧",
+        "onboard_time": 1683359850,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 255619,
+        "num": 255619,
+        "word": "想念浪3",
+        "onboard_time": 1683361711,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251281,
+        "num": 251281,
+        "word": "孙悟空对女孩子真的很温柔",
+        "onboard_time": 1683362552,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254461,
+        "num": 250499,
+        "word": "胡歌南京",
+        "onboard_time": 1683363150,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254025,
+        "num": 249959,
+        "word": "美依礼芽翻译是谁",
+        "onboard_time": 1683353550,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249192,
+        "num": 249192,
+        "word": "巴厘岛凶案",
+        "onboard_time": 1683356609,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229539,
+        "num": 229539,
+        "word": "英国国王查尔斯三世今日加冕",
+        "onboard_time": 1683351572,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 228563,
+        "num": 228563,
+        "word": "月嫂拍嗝时打盹致22天婴儿头顶骨骨折",
+        "onboard_time": 1683346053,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221651,
+        "num": 221651,
+        "word": "安以轩老公赌场是如何运作的",
+        "onboard_time": 1683347975,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213415,
+        "num": 213415,
+        "word": "巴厘岛女性死者系在校大学生",
+        "onboard_time": 1683361228,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210539,
+        "num": 210539,
+        "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
+        "onboard_time": 1683340052,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207103,
+        "num": 207103,
+        "word": "一个人长期不社交会怎么样",
+        "onboard_time": 1683358288,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 195670,
+        "num": 195670,
+        "word": "巴厘岛女性死者生前可能曾遭勒颈",
+        "onboard_time": 1683354210,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189256,
+        "num": 189256,
+        "word": "花花一口果果嚼了41下",
+        "onboard_time": 1683353429,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168498,
+        "num": 168498,
+        "word": "梁静茹演唱会武汉苏州官宣",
+        "onboard_time": 1683364228,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164983,
+        "num": 164983,
+        "word": "如何把上厕所说的优雅一点",
+        "onboard_time": 1683362909,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160474,
+        "num": 160474,
+        "word": "什么是毫无分寸的发言",
+        "onboard_time": 1683361949,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 150115,
+        "num": 150115,
+        "word": "田曦薇李玉湖大婚造型",
+        "onboard_time": 1683356909,
+        "rank": 39,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 145878,
+        "num": 145878,
+        "word": "到底是谁在喜欢谢娜",
+        "onboard_time": 1683353131,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142639,
+        "num": 142639,
+        "word": "南昌咬人",
+        "onboard_time": 1683338130,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142290,
+        "num": 142290,
+        "word": "南风知我意",
+        "onboard_time": 1683346473,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 142020,
+        "num": 142020,
+        "word": "手机颜色会影响你的购买欲吗",
+        "onboard_time": 1683360026,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139800,
+        "num": 139800,
+        "word": "大唐不夜城公孙离热",
+        "onboard_time": 1683364411,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136317,
+        "num": 136317,
+        "word": "九尾清清参加奔跑吧",
+        "onboard_time": 1683352168,
+        "rank": 45,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 131648,
+        "num": 131648,
+        "word": "跑遍34个省区市收集了春天",
+        "onboard_time": 1683362971,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129674,
+        "num": 129674,
+        "word": "调休",
+        "onboard_time": 1683332792,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129545,
+        "num": 129545,
+        "word": "遇害情侣家属已抵达巴厘岛",
+        "onboard_time": 1683362123,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125724,
+        "num": 125724,
+        "word": "抢票攻略",
+        "onboard_time": 1683362552,
+        "rank": 49,
+        "category": "情感,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开二十届中央财经委员会第一次会议#"
+    }
+  }
+}
