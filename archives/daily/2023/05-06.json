@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683343066471,
+  "endTime": 1683344004183,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2666549,
-      "num": 2666549,
+      "raw_hot": 2784653,
+      "num": 2784653,
       "word": "承重墙被砸1.6亿赔款谁来出",
       "onboard_time": 1683337169,
       "rank": 37,
@@ -35,7 +35,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1741467,
+      "raw_hot": 1758559,
       "num": 1741467,
       "word": "南昌咬人",
       "onboard_time": 1683338130,
@@ -56,6 +56,14 @@
       "word": "咽喉炎",
       "onboard_time": 1683329422,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1661017,
+      "num": 1661017,
+      "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
+      "onboard_time": 1683340052,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -89,14 +97,6 @@
       "onboard_time": 1683338730,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1376948,
-      "num": 1376948,
-      "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
-      "onboard_time": 1683340052,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1324202,
@@ -147,6 +147,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 956077,
+      "num": 956077,
+      "word": "男性朋友抱怨 不敢调情",
+      "onboard_time": 1683341729,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 923117,
       "num": 923117,
       "word": "浪4 有钱",
@@ -195,6 +203,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 799017,
+      "num": 799017,
+      "word": "十年前迪丽热巴央视未播画面",
+      "onboard_time": 1683342568,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 793392,
       "num": 793392,
       "word": "唐伯虎 淘汰",
@@ -227,6 +243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 617502,
+      "num": 617502,
+      "word": "史航事件疑似受害者已增至26人",
+      "onboard_time": 1683343772,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 586070,
       "num": 373314,
       "word": "秦霄贤受伤",
@@ -249,14 +273,6 @@
       "onboard_time": 1683302128,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 576977,
-      "num": 576977,
-      "word": "男性朋友抱怨 不敢调情",
-      "onboard_time": 1683341729,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 572343,
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 460025,
-      "num": 290775,
+      "num": 348018,
       "word": "我的榴莲被同事偷偷吃完了",
       "onboard_time": 1683341310,
       "rank": 21,
@@ -339,12 +355,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 421354,
+      "num": 421354,
+      "word": "巴厘岛计划限制外国游客",
+      "onboard_time": 1683342211,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376777,
       "num": 376777,
       "word": "长空之王告王一博代言的眼镜",
       "onboard_time": 1683332729,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 351862,
+      "num": 351862,
+      "word": "李俊濠签约龙韬娱乐",
+      "onboard_time": 1683342931,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 335267,
@@ -369,6 +401,14 @@
       "onboard_time": 1683295411,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325843,
+      "num": 325843,
+      "word": "赵又廷张子枫新剧官宣",
+      "onboard_time": 1683343351,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 321603,
@@ -443,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283259,
-      "num": 241517,
-      "word": "巴厘岛计划限制外国游客",
-      "onboard_time": 1683342211,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 282349,
       "num": 282349,
       "word": "哈登状态",
       "onboard_time": 1683338551,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270549,
+      "num": 270549,
+      "word": "张杰华晨宇安九舞台",
+      "onboard_time": 1683343172,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 267524,
@@ -537,14 +577,6 @@
       "onboard_time": 1683335370,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 222958,
-      "num": 222958,
-      "word": "十年前迪丽热巴央视未播画面",
-      "onboard_time": 1683342568,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 222701,
@@ -643,6 +675,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198060,
+      "num": 198060,
+      "word": "想开个上四休三的公司",
+      "onboard_time": 1683343530,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197575,
       "num": 167597,
       "word": "鹿晗周震南互相伤害",
@@ -675,6 +715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 191605,
+      "num": 191605,
+      "word": "郎君不如意",
+      "onboard_time": 1683342811,
+      "rank": 39,
+      "category": "影视"
+    },
+    {
       "raw_hot": 189116,
       "num": 167594,
       "word": "蚀骨危情",
@@ -689,14 +737,6 @@
       "onboard_time": 1683298771,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187928,
-      "num": 187928,
-      "word": "郎君不如意",
-      "onboard_time": 1683342811,
-      "rank": 39,
-      "category": "影视"
     },
     {
       "raw_hot": 186736,
@@ -747,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174881,
+      "num": 174881,
+      "word": "灿烂灿烂熠熠闪光版海报",
+      "onboard_time": 1683342931,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 173357,
       "num": 156433,
       "word": "张靓颖嗓子",
@@ -763,28 +811,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 168342,
-      "num": 168342,
-      "word": "李俊濠签约龙韬娱乐",
-      "onboard_time": 1683342931,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167632,
       "num": 167632,
       "word": "王石 田朴珺",
       "onboard_time": 1683295830,
       "rank": 34,
       "category": "财经,艺人"
-    },
-    {
-      "raw_hot": 165718,
-      "num": 165718,
-      "word": "灿烂灿烂熠熠闪光版海报",
-      "onboard_time": 1683342931,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 158840,
@@ -868,7 +900,7 @@
     },
     {
       "raw_hot": 131913,
-      "num": 148433,
+      "num": 150927,
       "word": "立夏怎么吃",
       "onboard_time": 1683338972,
       "rank": 48,
@@ -971,20 +1003,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 51827,
+      "num": 1611399,
+      "word": "4K视频看立夏时节的中国大地",
+      "onboard_time": 1683342452,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49764,
       "num": 95592,
       "word": "狼队晋级春季赛总决赛",
       "onboard_time": 1683297032,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 48237,
-      "num": 1611399,
-      "word": "4K视频看立夏时节的中国大地",
-      "onboard_time": 1683342452,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27098,
