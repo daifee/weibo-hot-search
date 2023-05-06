@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683386174261,
+  "endTime": 1683387209401,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -435,20 +435,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1995815,
+      "num": 1971050,
+      "word": "婆婆直接把38.8万彩礼转我了",
+      "onboard_time": 1683383253,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1972656,
       "num": 673994,
       "word": "史航事件当事人小默",
       "onboard_time": 1683156265,
       "rank": 10,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1971050,
-      "num": 1971050,
-      "word": "婆婆直接把38.8万彩礼转我了",
-      "onboard_time": 1683383253,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 1964096,
@@ -2315,6 +2315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718515,
+      "num": 718515,
+      "word": "五迷抵制黄牛",
+      "onboard_time": 1683383555,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 718264,
       "num": 718264,
       "word": "73岁大爷头婚娶69岁大妈",
@@ -2563,6 +2571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 666979,
+      "num": 666979,
+      "word": "张角",
+      "onboard_time": 1683384932,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 661929,
       "num": 661929,
       "word": "马嘉祺 漏气",
@@ -2603,14 +2619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 641396,
-      "num": 641396,
-      "word": "五迷抵制黄牛",
-      "onboard_time": 1683383555,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 637535,
       "num": 637535,
       "word": "爱奇艺腾讯推出陈晓套餐",
@@ -2644,7 +2652,7 @@
     },
     {
       "raw_hot": 630457,
-      "num": 378658,
+      "num": 592465,
       "word": "龚俊 我真服了",
       "onboard_time": 1683383794,
       "rank": 11,
@@ -3027,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556753,
+      "num": 651923,
+      "word": "女子吃手剥笋发现内藏竹虫",
+      "onboard_time": 1683382297,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556295,
       "num": 556295,
       "word": "游客手机掉西湖被要1500元打捞费",
@@ -3088,14 +3104,6 @@
       "word": "男子连续四年收到陌生汇款约24万元",
       "onboard_time": 1683276747,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 547774,
-      "num": 547774,
-      "word": "女子吃手剥笋发现内藏竹虫",
-      "onboard_time": 1683382297,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4507,6 +4515,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 392766,
+      "num": 392766,
+      "word": "放弃了三十万年薪去了街道办",
+      "onboard_time": 1683385771,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391365,
       "num": 391365,
       "word": "向往的生活",
@@ -4577,14 +4593,6 @@
       "onboard_time": 1683031653,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 385286,
-      "num": 385286,
-      "word": "张角",
-      "onboard_time": 1683384932,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 384472,
@@ -4905,6 +4913,14 @@
       "onboard_time": 1682849906,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 360403,
+      "num": 360403,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1683385715,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 359874,
@@ -5875,6 +5891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305185,
+      "num": 245536,
+      "word": "鹿晗诺言MV里的吴倩",
+      "onboard_time": 1683374010,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "五一",
@@ -5889,6 +5913,14 @@
       "onboard_time": 1683249029,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 301561,
+      "num": 301561,
+      "word": "女子回应刷直播看到老公小三同游",
+      "onboard_time": 1683384630,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 301405,
@@ -5921,14 +5953,6 @@
       "onboard_time": 1683333328,
       "rank": 32,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 299574,
-      "num": 299574,
-      "word": "女子回应刷直播看到老公小三同游",
-      "onboard_time": 1683384630,
-      "rank": 23,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 299118,
@@ -7771,6 +7795,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 232724,
+      "num": 206587,
+      "word": "活死人不是丧尸",
+      "onboard_time": 1683386552,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232638,
       "num": 232638,
       "word": "女生假期景点摆摊单日收入3千元",
@@ -8267,14 +8299,6 @@
       "category": "情感,综艺"
     },
     {
-      "raw_hot": 219520,
-      "num": 217415,
-      "word": "声生不息宝岛季",
-      "onboard_time": 1683385715,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219403,
       "num": 216684,
       "word": "澹台烬黎苏苏又要结婚了",
@@ -8401,14 +8425,6 @@
       "onboard_time": 1683352950,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 216989,
-      "num": 216989,
-      "word": "鹿晗诺言MV里的吴倩",
-      "onboard_time": 1683374010,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 216885,
@@ -8833,6 +8849,14 @@
       "onboard_time": 1682997509,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 205744,
+      "num": 205744,
+      "word": "2023KPL春季赛",
+      "onboard_time": 1683386552,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 205425,
@@ -9707,14 +9731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187131,
-      "num": 187131,
-      "word": "放弃了三十万年薪去了街道办",
-      "onboard_time": 1683385771,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187085,
       "num": 187085,
       "word": "乘风2023COSMO肆意乘风大片",
@@ -10385,6 +10401,14 @@
       "onboard_time": 1683288268,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173712,
+      "num": 173712,
+      "word": "LGD巅峰对决DRG",
+      "onboard_time": 1683386312,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 173626,
