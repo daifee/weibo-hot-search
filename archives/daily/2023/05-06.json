@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683369220145,
+  "endTime": 1683371624243,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2746558,
+      "num": 2746558,
+      "word": "24人吃淄博烧烤花760元",
+      "onboard_time": 1683368189,
+      "rank": 47,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 2643184,
       "num": 1338763,
       "word": "巴厘岛女性死者胃部有大量液体",
@@ -49,6 +57,14 @@
       "onboard_time": 1683340052,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2146133,
+      "num": 2146133,
+      "word": "刘美含落选浪姐",
+      "onboard_time": 1683368851,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 2092927,
@@ -283,20 +299,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 977120,
-      "num": 977120,
-      "word": "24人吃淄博烧烤花760元",
-      "onboard_time": 1683368189,
-      "rank": 47,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 968772,
       "num": 968772,
       "word": "立夏",
       "onboard_time": 1683307097,
       "rank": 1,
       "category": "自然"
+    },
+    {
+      "raw_hot": 929673,
+      "num": 929673,
+      "word": "彩票中了1.7亿后该做什么",
+      "onboard_time": 1683369452,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 923117,
@@ -363,6 +379,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 846265,
+      "num": 846265,
+      "word": "IU认出了10年没见的粉丝",
+      "onboard_time": 1683368429,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 845822,
       "num": 845822,
       "word": "查尔斯加冕典礼",
@@ -377,6 +401,14 @@
       "onboard_time": 1683342931,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 813766,
+      "num": 720172,
+      "word": "总领馆回应2中国公民巴厘岛身亡案",
+      "onboard_time": 1683369932,
+      "rank": 11,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 807713,
@@ -444,7 +476,7 @@
     },
     {
       "raw_hot": 594746,
-      "num": 1484378,
+      "num": 2379165,
       "word": "狲思邈去世后现在的西野怎么样了",
       "onboard_time": 1683365192,
       "rank": 40,
@@ -555,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472319,
+      "num": 472319,
+      "word": "差点以18.8的彩礼嫁给发小",
+      "onboard_time": 1683370171,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 467135,
       "num": 467135,
       "word": "男孩掉入黄河被救家长抬羊登门拜谢",
@@ -651,22 +691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 426953,
-      "num": 426953,
-      "word": "刘美含落选浪姐",
-      "onboard_time": 1683368851,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 419936,
-      "num": 419936,
-      "word": "IU认出了10年没见的粉丝",
-      "onboard_time": 1683368429,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 405819,
       "num": 405819,
       "word": "我的大叔",
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 389386,
-      "num": 1136705,
+      "num": 1280127,
       "word": "爸爸以为孩子落水立马跳进水塘",
       "onboard_time": 1683366627,
       "rank": 4,
@@ -729,6 +753,14 @@
       "onboard_time": 1683332729,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 364452,
+      "num": 364452,
+      "word": "Uzi复播",
+      "onboard_time": 1683369268,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 359310,
@@ -811,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333481,
+      "num": 232163,
+      "word": "没药花园 巴厘岛情侣身亡",
+      "onboard_time": 1683370471,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 333004,
       "num": 333004,
       "word": "同事辟谣挖呀挖黄老师辞职",
@@ -833,6 +873,14 @@
       "onboard_time": 1683295411,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324624,
+      "num": 324624,
+      "word": "刘美含 努力争取不丢人",
+      "onboard_time": 1683369571,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 324202,
@@ -1163,12 +1211,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232296,
+      "num": 232296,
+      "word": "安九",
+      "onboard_time": 1683371132,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231614,
+      "num": 231614,
+      "word": "张艺兴舒淇电影 停拍",
+      "onboard_time": 1683371190,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 231565,
       "num": 231565,
       "word": "薛之谦庆祝火星情报局回归",
       "onboard_time": 1683361410,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231086,
+      "num": 231086,
+      "word": "广州宝马撞人案司机提起上诉",
+      "onboard_time": 1683370592,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224863,
+      "num": 224863,
+      "word": "胡歌现身南京德基广场",
+      "onboard_time": 1683369628,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 222701,
@@ -1307,6 +1387,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203124,
+      "num": 203124,
+      "word": "法老小精灵你们别太搞笑",
+      "onboard_time": 1683370771,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202703,
+      "num": 202703,
+      "word": "张杰安九海豚音",
+      "onboard_time": 1683370230,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201933,
       "num": 201933,
       "word": "性格内向的朋友们狠狠共鸣",
@@ -1369,6 +1465,14 @@
       "onboard_time": 1683356551,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195214,
+      "num": 195214,
+      "word": "说唱巅峰对决",
+      "onboard_time": 1683371253,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 195003,
@@ -1844,7 +1948,7 @@
     },
     {
       "raw_hot": 93517,
-      "num": 1632276,
+      "num": 2154813,
       "word": "巩固消费回暖好势头",
       "onboard_time": 1683361051,
       "rank": 2,
