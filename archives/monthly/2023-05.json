@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683361176329,
+  "endTime": 1683362016754,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1839410,
+      "num": 1839410,
+      "word": "墨香铜臭",
+      "onboard_time": 1683355650,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1832510,
       "num": 393038,
       "word": "肖战 空降",
@@ -649,14 +657,6 @@
       "onboard_time": 1683329422,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1669674,
-      "num": 1669674,
-      "word": "墨香铜臭",
-      "onboard_time": 1683355650,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1666718,
@@ -2033,6 +2033,14 @@
       "onboard_time": 1682985081,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787181,
+      "num": 787181,
+      "word": "奔跑吧回应收视率创新低",
+      "onboard_time": 1683360150,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 777124,
@@ -3627,6 +3635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 441634,
+      "num": 441634,
+      "word": "反感说虚岁 来医院才能看到周岁",
+      "onboard_time": 1683358588,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 441234,
       "num": 441234,
       "word": "eStar止步季后赛",
@@ -3657,14 +3673,6 @@
       "onboard_time": 1682935888,
       "rank": 21,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 439044,
-      "num": 439044,
-      "word": "奔跑吧回应收视率创新低",
-      "onboard_time": 1683360150,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 438138,
@@ -4155,14 +4163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 394268,
-      "num": 394268,
-      "word": "反感说虚岁 来医院才能看到周岁",
-      "onboard_time": 1683358588,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 394095,
       "num": 334894,
       "word": "卡琳娜",
@@ -4563,6 +4563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 359310,
+      "num": 359310,
+      "word": "三大平台的大男主剧",
+      "onboard_time": 1683359850,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
       "raw_hot": 359218,
       "num": 359218,
       "word": "说唱巅峰对决音乐节",
@@ -4771,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341397,
+      "num": 341397,
+      "word": "浪姐4 四季以来最高收视纪录",
+      "onboard_time": 1683361470,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340978,
       "num": 335897,
       "word": "被浙江农村的房子震惊到了",
@@ -4904,6 +4920,14 @@
       "word": "请撕下插队婆孙表情包",
       "onboard_time": 1683220698,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333676,
+      "num": 333676,
+      "word": "巴厘岛女性死者胃部有大量液体",
+      "onboard_time": 1683361527,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -5569,6 +5593,14 @@
       "onboard_time": 1683353668,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292825,
+      "num": 292825,
+      "word": "一个人长期不社交会怎么样",
+      "onboard_time": 1683358288,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 292812,
@@ -6243,14 +6275,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 260559,
-      "num": 260559,
-      "word": "三大平台的大男主剧",
-      "onboard_time": 1683359850,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 259721,
       "num": 259721,
       "word": "辽宁男篮",
@@ -6755,14 +6779,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 243833,
-      "num": 243833,
-      "word": "一个人长期不社交会怎么样",
-      "onboard_time": 1683358288,
-      "rank": 30,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 243789,
       "num": 243789,
       "word": "周雨彤周也撞脸",
@@ -7075,6 +7091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234537,
+      "num": 234537,
+      "word": "田曦薇李玉湖大婚造型",
+      "onboard_time": 1683356909,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 234497,
       "num": 234497,
       "word": "卡琳娜好帅",
@@ -7203,6 +7227,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 231565,
+      "num": 231565,
+      "word": "薛之谦庆祝火星情报局回归",
+      "onboard_time": 1683361410,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230792,
       "num": 207462,
       "word": "李飞你中控了毛线",
@@ -7217,14 +7249,6 @@
       "onboard_time": 1682842046,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230301,
-      "num": 230301,
-      "word": "田曦薇李玉湖大婚造型",
-      "onboard_time": 1683356909,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 230205,
@@ -7899,6 +7923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214064,
+      "num": 214064,
+      "word": "为何穿了外衣却还要穿内衣",
+      "onboard_time": 1683361650,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 213652,
       "num": 213652,
       "word": "郭艾伦缺席G4",
@@ -8425,6 +8457,14 @@
       "onboard_time": 1683039400,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200631,
+      "num": 200631,
+      "word": "想念浪3",
+      "onboard_time": 1683361711,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 200592,
@@ -10931,6 +10971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134832,
+      "num": 134832,
+      "word": "什么是毫无分寸的发言",
+      "onboard_time": 1683361949,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 134515,
       "num": 134515,
       "word": "B太二刷许昌胖东来",
@@ -11747,6 +11795,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 108618,
+      "num": 468917,
+      "word": "手机颜色会影响你的购买欲吗",
+      "onboard_time": 1683360026,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107611,
       "num": 107611,
       "word": "这鸭子是在瘦腿吗",
@@ -12299,12 +12355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61741,
-      "num": 468917,
-      "word": "手机颜色会影响你的购买欲吗",
-      "onboard_time": 1683360026,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 61755,
+      "num": 1632276,
+      "word": "巩固消费回暖好势头",
+      "onboard_time": 1683361051,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 61298,
@@ -12697,14 +12753,6 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 7131,
-      "num": 1619824,
-      "word": "巩固消费回暖好势头",
-      "onboard_time": 1683361051,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

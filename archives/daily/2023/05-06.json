@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683361176329,
+  "endTime": 1683362016754,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1839410,
+      "num": 1839410,
+      "word": "墨香铜臭",
+      "onboard_time": 1683355650,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1785632,
       "num": 1785632,
       "word": "网友癌症靶向药落在公交车被大妈捡走",
@@ -97,14 +105,6 @@
       "onboard_time": 1683329422,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1669674,
-      "num": 1669674,
-      "word": "墨香铜臭",
-      "onboard_time": 1683355650,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1600059,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 787181,
+      "num": 787181,
+      "word": "奔跑吧回应收视率创新低",
+      "onboard_time": 1683360150,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 738648,
       "num": 738648,
       "word": "浪姐4谢娜人气排第一",
@@ -531,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439044,
-      "num": 439044,
-      "word": "奔跑吧回应收视率创新低",
-      "onboard_time": 1683360150,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 441634,
+      "num": 441634,
+      "word": "反感说虚岁 来医院才能看到周岁",
+      "onboard_time": 1683358588,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 438138,
@@ -579,14 +587,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 394268,
-      "num": 394268,
-      "word": "反感说虚岁 来医院才能看到周岁",
-      "onboard_time": 1683358588,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 382607,
       "num": 382607,
       "word": "东莞东城回应连续8天安排核酸检测",
@@ -608,6 +608,14 @@
       "word": "长空之王告王一博代言的眼镜",
       "onboard_time": 1683332729,
       "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 359310,
+      "num": 359310,
+      "word": "三大平台的大男主剧",
+      "onboard_time": 1683359850,
+      "rank": 28,
       "category": "影视"
     },
     {
@@ -643,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341397,
+      "num": 341397,
+      "word": "浪姐4 四季以来最高收视纪录",
+      "onboard_time": 1683361470,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335267,
       "num": 291873,
       "word": "蔡徐坤被判支付前东家300万违约金",
@@ -664,6 +680,14 @@
       "word": "花花一口果果嚼了41下",
       "onboard_time": 1683353429,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333676,
+      "num": 333676,
+      "word": "巴厘岛女性死者胃部有大量液体",
+      "onboard_time": 1683361527,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -755,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292825,
+      "num": 292825,
+      "word": "一个人长期不社交会怎么样",
+      "onboard_time": 1683358288,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 291830,
       "num": 291830,
       "word": "挖呀挖黄老师回应质疑",
@@ -843,14 +875,6 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 260559,
-      "num": 260559,
-      "word": "三大平台的大男主剧",
-      "onboard_time": 1683359850,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
       "raw_hot": 258155,
       "num": 258155,
       "word": "yuyanjia确定复出",
@@ -907,14 +931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243833,
-      "num": 243833,
-      "word": "一个人长期不社交会怎么样",
-      "onboard_time": 1683358288,
-      "rank": 30,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 243274,
       "num": 228286,
       "word": "陈都灵看过杨幂的每部戏",
@@ -947,6 +963,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 234537,
+      "num": 234537,
+      "word": "田曦薇李玉湖大婚造型",
+      "onboard_time": 1683356909,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 232483,
       "num": 232483,
       "word": "杨晓培认领和赵露思的cp名",
@@ -955,12 +979,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 230301,
-      "num": 230301,
-      "word": "田曦薇李玉湖大婚造型",
-      "onboard_time": 1683356909,
-      "rank": 40,
-      "category": "影视"
+      "raw_hot": 231565,
+      "num": 231565,
+      "word": "薛之谦庆祝火星情报局回归",
+      "onboard_time": 1683361410,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 222701,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1683356009,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214064,
+      "num": 214064,
+      "word": "为何穿了外衣却还要穿内衣",
+      "onboard_time": 1683361650,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 209555,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1683303207,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 200631,
+      "num": 200631,
+      "word": "想念浪3",
+      "onboard_time": 1683361711,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 199077,
@@ -1427,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134832,
+      "num": 134832,
+      "word": "什么是毫无分寸的发言",
+      "onboard_time": 1683361949,
+      "rank": 47,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 131913,
       "num": 183315,
       "word": "立夏怎么吃",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1683358172,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108618,
+      "num": 468917,
+      "word": "手机颜色会影响你的购买欲吗",
+      "onboard_time": 1683360026,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107539,
@@ -1579,12 +1635,12 @@
       "category": "科技"
     },
     {
-      "raw_hot": 61741,
-      "num": 468917,
-      "word": "手机颜色会影响你的购买欲吗",
-      "onboard_time": 1683360026,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 61755,
+      "num": 1632276,
+      "word": "巩固消费回暖好势头",
+      "onboard_time": 1683361051,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 49764,
@@ -1633,14 +1689,6 @@
       "onboard_time": 1683318192,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 7131,
-      "num": 1619824,
-      "word": "巩固消费回暖好势头",
-      "onboard_time": 1683361051,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
