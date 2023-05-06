@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683405210158,
+  "endTime": 1683407684413,
   "band_list": [
     {
       "raw_hot": 2048424,
@@ -499,20 +499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19971,
+      "num": 19971,
+      "word": "全红婵207C满分完成",
+      "onboard_time": 1683404413,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19444,
       "num": 24541,
       "word": "吴倩张嘉倪",
       "onboard_time": 1683291209,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17519,
-      "num": 19294,
-      "word": "全红婵207C满分完成",
-      "onboard_time": 1683404413,
-      "rank": 43,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
