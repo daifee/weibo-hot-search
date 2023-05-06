@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683394409036,
+  "endTime": 1683397203781,
   "band_list": [
     {
       "raw_hot": 2048424,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178169,
+      "num": 178169,
+      "word": "巴厘岛命案警方排除第三人盗窃行凶可能",
+      "onboard_time": 1683394281,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177905,
       "num": 177905,
       "word": "家里介绍的男生质量还挺高",
@@ -459,12 +467,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47189,
-      "num": 61143,
-      "word": "巴厘岛命案警方排除第三人盗窃行凶可能",
-      "onboard_time": 1683394281,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 47209,
+      "num": 47209,
+      "word": "早安没吃饱",
+      "onboard_time": 1683394940,
+      "rank": 38,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
