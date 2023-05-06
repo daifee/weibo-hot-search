@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683358399556,
+  "endTime": 1683361176329,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1669674,
+      "num": 1669674,
+      "word": "墨香铜臭",
+      "onboard_time": 1683355650,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1666718,
       "num": 1666718,
       "word": "朱珠好像圈外人",
@@ -665,14 +673,6 @@
       "onboard_time": 1683244710,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1657946,
-      "num": 1657946,
-      "word": "墨香铜臭",
-      "onboard_time": 1683355650,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1645310,
@@ -1435,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1074147,
+      "num": 1074147,
+      "word": "Jiejie女友",
+      "onboard_time": 1683357330,
+      "rank": 14,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 1066442,
       "num": 899683,
       "word": "姜思达下架史航事件播客",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1683351572,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 874275,
+      "num": 874275,
+      "word": "霉霉 有屁重录",
+      "onboard_time": 1683357028,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 867730,
@@ -2443,14 +2459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 629388,
-      "num": 629388,
-      "word": "霉霉 有屁重录",
-      "onboard_time": 1683357028,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 627136,
       "num": 410765,
       "word": "杨洋组织同学会",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1682942908,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 596291,
+      "num": 596291,
+      "word": "巴厘岛凶案",
+      "onboard_time": 1683356609,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595131,
@@ -2995,14 +3011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 526170,
-      "num": 526170,
-      "word": "巴厘岛凶案",
-      "onboard_time": 1683356609,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 525933,
       "num": 525933,
       "word": "活该淄博爆火",
@@ -3217,14 +3225,6 @@
       "onboard_time": 1683354210,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 490095,
-      "num": 490095,
-      "word": "Jiejie女友",
-      "onboard_time": 1683357330,
-      "rank": 14,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 488527,
@@ -3657,6 +3657,14 @@
       "onboard_time": 1682935888,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 439044,
+      "num": 439044,
+      "word": "奔跑吧回应收视率创新低",
+      "onboard_time": 1683360150,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 438138,
@@ -4145,6 +4153,14 @@
       "onboard_time": 1683264390,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 394268,
+      "num": 394268,
+      "word": "反感说虚岁 来医院才能看到周岁",
+      "onboard_time": 1683358588,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 394095,
@@ -5891,6 +5907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 275369,
+      "num": 275369,
+      "word": "一张照片欢迎夏天",
+      "onboard_time": 1683360930,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 274300,
       "num": 274300,
       "word": "王一博说吾辈当自强",
@@ -6217,6 +6241,14 @@
       "onboard_time": 1683355948,
       "rank": 30,
       "category": "社会新闻,自然"
+    },
+    {
+      "raw_hot": 260559,
+      "num": 260559,
+      "word": "三大平台的大男主剧",
+      "onboard_time": 1683359850,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 259721,
@@ -6723,6 +6755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 243833,
+      "num": 243833,
+      "word": "一个人长期不社交会怎么样",
+      "onboard_time": 1683358288,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 243789,
       "num": 243789,
       "word": "周雨彤周也撞脸",
@@ -7177,6 +7217,14 @@
       "onboard_time": 1682842046,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230301,
+      "num": 230301,
+      "word": "田曦薇李玉湖大婚造型",
+      "onboard_time": 1683356909,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 230205,
@@ -8096,14 +8144,6 @@
       "word": "温暖的甜蜜的",
       "onboard_time": 1683120632,
       "rank": 35,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 206936,
-      "num": 206936,
-      "word": "田曦薇李玉湖大婚造型",
-      "onboard_time": 1683356909,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -10459,6 +10499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151548,
+      "num": 151548,
+      "word": "金晨郭麒麟新剧收视率",
+      "onboard_time": 1683357929,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151503,
       "num": 151503,
       "word": "河南接待游客总量第一",
@@ -10993,14 +11041,6 @@
       "onboard_time": 1683095248,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130724,
-      "num": 130724,
-      "word": "金晨郭麒麟新剧收视率",
-      "onboard_time": 1683357929,
-      "rank": 45,
-      "category": "影视"
     },
     {
       "raw_hot": 130711,
@@ -12107,6 +12147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76271,
+      "num": 147988,
+      "word": "李佳琦真的在教我直播",
+      "onboard_time": 1683359070,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 76057,
       "num": 45219,
       "word": "戴燕妮红衣造型",
@@ -12248,6 +12296,14 @@
       "word": "无人机视角看假期里的美丽中国",
       "onboard_time": 1683102990,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61741,
+      "num": 468917,
+      "word": "手机颜色会影响你的购买欲吗",
+      "onboard_time": 1683360026,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -12641,6 +12697,14 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 7131,
+      "num": 1619824,
+      "word": "巩固消费回暖好势头",
+      "onboard_time": 1683361051,
+      "rank": 2,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
