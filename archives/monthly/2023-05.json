@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683346786634,
+  "endTime": 1683347605945,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -451,6 +451,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1848025,
+      "num": 1741467,
+      "word": "南昌咬人",
+      "onboard_time": 1683338130,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1846891,
       "num": 1846891,
       "word": "6岁女童检查异常医生强制报告",
@@ -545,14 +553,6 @@
       "onboard_time": 1682910449,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1758559,
-      "num": 1741467,
-      "word": "南昌咬人",
-      "onboard_time": 1683338130,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1746452,
@@ -819,20 +819,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1437487,
+      "num": 1437487,
+      "word": "男性朋友抱怨 不敢调情",
+      "onboard_time": 1683341729,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1437237,
       "num": 1437237,
       "word": "破音",
       "onboard_time": 1683034361,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1421416,
-      "num": 1421416,
-      "word": "男性朋友抱怨 不敢调情",
-      "onboard_time": 1683341729,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 1416556,
@@ -1268,7 +1268,7 @@
     },
     {
       "raw_hot": 1131243,
-      "num": 920962,
+      "num": 948796,
       "word": "史航事件疑似受害者已增至26人",
       "onboard_time": 1683343772,
       "rank": 10,
@@ -1435,6 +1435,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1044295,
+      "num": 1044295,
+      "word": "南风知我意",
+      "onboard_time": 1683346473,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1042970,
       "num": 1042970,
       "word": "高铁上的一声姐姐花了我35元",
@@ -1491,6 +1499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1002456,
+      "num": 1002456,
+      "word": "十年前迪丽热巴央视未播画面",
+      "onboard_time": 1683342568,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 999294,
       "num": 999294,
       "word": "同事辟谣挖呀挖黄老师辞职",
@@ -1529,14 +1545,6 @@
       "onboard_time": 1683257430,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 975662,
-      "num": 975662,
-      "word": "十年前迪丽热巴央视未播画面",
-      "onboard_time": 1683342568,
-      "rank": 34,
-      "category": "影视"
     },
     {
       "raw_hot": 971296,
@@ -2371,6 +2379,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 624101,
+      "num": 624101,
+      "word": "月嫂拍嗝时打盹致22天婴儿头顶骨骨折",
+      "onboard_time": 1683346053,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622955,
       "num": 622955,
       "word": "结婚时不要看向你的好朋友",
@@ -3043,14 +3059,6 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 498767,
-      "num": 498767,
-      "word": "南风知我意",
-      "onboard_time": 1683346473,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 498252,
       "num": 498252,
       "word": "李泰容将6月初solo出道",
@@ -3411,6 +3419,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 449748,
+      "num": 449748,
+      "word": "想开个上四休三的公司",
+      "onboard_time": 1683343530,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 449258,
       "num": 449258,
       "word": "奔跑吧本期是撕名牌个人战",
@@ -3433,6 +3449,14 @@
       "onboard_time": 1682934267,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 445905,
+      "num": 445905,
+      "word": "巴厘岛计划限制外国游客",
+      "onboard_time": 1683342211,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445030,
@@ -3497,14 +3521,6 @@
       "onboard_time": 1682935888,
       "rank": 21,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 438355,
-      "num": 438355,
-      "word": "巴厘岛计划限制外国游客",
-      "onboard_time": 1683342211,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 438138,
@@ -3795,14 +3811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 409062,
-      "num": 409062,
-      "word": "想开个上四休三的公司",
-      "onboard_time": 1683343530,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 407834,
       "num": 407834,
       "word": "韦德蔡徐坤共进晚宴",
@@ -3817,6 +3825,14 @@
       "onboard_time": 1683271648,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405819,
+      "num": 405819,
+      "word": "我的大叔",
+      "onboard_time": 1683345514,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 405553,
@@ -4379,14 +4395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356404,
-      "num": 356404,
-      "word": "我的大叔",
-      "onboard_time": 1683345514,
-      "rank": 23,
-      "category": "影视"
-    },
-    {
       "raw_hot": 356046,
       "num": 356046,
       "word": "你姓氏中最有名的人",
@@ -4401,6 +4409,14 @@
       "onboard_time": 1683259894,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 354581,
+      "num": 354581,
+      "word": "男孩在外吃饭主动打包三片土豆片",
+      "onboard_time": 1683345754,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354513,
@@ -4425,6 +4441,14 @@
       "onboard_time": 1683274827,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 352757,
+      "num": 352757,
+      "word": "安乐传",
+      "onboard_time": 1683345631,
+      "rank": 27,
+      "category": "影视"
     },
     {
       "raw_hot": 351874,
@@ -4697,6 +4721,14 @@
       "onboard_time": 1683201807,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 332599,
+      "num": 332599,
+      "word": "凡人修仙传",
+      "onboard_time": 1683345394,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 331062,
@@ -5003,14 +5035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 314583,
-      "num": 314583,
-      "word": "安乐传",
-      "onboard_time": 1683345631,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 314512,
       "num": 314512,
       "word": "苏打绿 南京",
@@ -5168,22 +5192,6 @@
       "word": "装修砸承重墙致200户居民疏散",
       "onboard_time": 1682896642,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304409,
-      "num": 304409,
-      "word": "凡人修仙传",
-      "onboard_time": 1683345394,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 303051,
-      "num": 284925,
-      "word": "月嫂拍嗝时打盹致22天婴儿头顶骨骨折",
-      "onboard_time": 1683346053,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -5507,6 +5515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283571,
+      "num": 283571,
+      "word": "我去面试老爸却被看上了",
+      "onboard_time": 1683346894,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 283215,
       "num": 228774,
       "word": "易烊千玺手臂肌肉",
@@ -5553,14 +5569,6 @@
       "onboard_time": 1683165328,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 280243,
-      "num": 280243,
-      "word": "男孩在外吃饭主动打包三片土豆片",
-      "onboard_time": 1683345754,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280087,
@@ -6577,6 +6585,14 @@
       "onboard_time": 1683110968,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 240751,
+      "num": 240751,
+      "word": "沈月李嘉琦新综艺",
+      "onboard_time": 1683346354,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 240392,
@@ -7811,6 +7827,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206207,
+      "num": 206207,
+      "word": "史航事件双方为何都不报警",
+      "onboard_time": 1683346832,
+      "rank": 40,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 206161,
       "num": 206161,
       "word": "Hero对战LGD",
@@ -7905,6 +7929,14 @@
       "onboard_time": 1683096330,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204854,
+      "num": 204854,
+      "word": "好想拥有公司这种冷暴力",
+      "onboard_time": 1683347315,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 204763,
@@ -8345,14 +8377,6 @@
       "onboard_time": 1683340590,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194478,
-      "num": 194478,
-      "word": "沈月李嘉琦新综艺",
-      "onboard_time": 1683346354,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 194170,
@@ -9305,6 +9329,14 @@
       "onboard_time": 1683184888,
       "rank": 44,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 172940,
+      "num": 182177,
+      "word": "王凯初夏清爽大片",
+      "onboard_time": 1683345094,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172820,
@@ -10315,14 +10347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 144782,
-      "num": 160940,
-      "word": "王凯初夏清爽大片",
-      "onboard_time": 1683345094,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 144534,
       "num": 144534,
       "word": "时代少年团演唱会安检储存物被扔",
@@ -10572,7 +10596,7 @@
     },
     {
       "raw_hot": 131913,
-      "num": 161017,
+      "num": 183315,
       "word": "立夏怎么吃",
       "onboard_time": 1683338972,
       "rank": 48,
@@ -11323,6 +11347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106242,
+      "num": 187487,
+      "word": "成都蓝花楹太美了",
+      "onboard_time": 1683345693,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 105311,
       "num": 428953,
       "word": "生活哪些事你想较个真",
@@ -11513,14 +11545,6 @@
       "onboard_time": 1683201028,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91319,
-      "num": 161156,
-      "word": "成都蓝花楹太美了",
-      "onboard_time": 1683345693,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 90632,
@@ -11812,7 +11836,7 @@
     },
     {
       "raw_hot": 66189,
-      "num": 1650554,
+      "num": 1675757,
       "word": "4K视频看立夏时节的中国大地",
       "onboard_time": 1683342452,
       "rank": 2,

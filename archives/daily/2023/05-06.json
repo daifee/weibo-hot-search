@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683346786634,
+  "endTime": 1683347605945,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1758559,
+      "raw_hot": 1848025,
       "num": 1741467,
       "word": "南昌咬人",
       "onboard_time": 1683338130,
@@ -83,8 +83,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1421416,
-      "num": 1421416,
+      "raw_hot": 1437487,
+      "num": 1437487,
       "word": "男性朋友抱怨 不敢调情",
       "onboard_time": 1683341729,
       "rank": 12,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1131243,
-      "num": 920962,
+      "num": 948796,
       "word": "史航事件疑似受害者已增至26人",
       "onboard_time": 1683343772,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1044295,
+      "num": 1044295,
+      "word": "南风知我意",
+      "onboard_time": 1683346473,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1015051,
       "num": 1015051,
       "word": "小贝饿了带货因虚假宣传被罚46万",
@@ -163,8 +171,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 975662,
-      "num": 975662,
+      "raw_hot": 1002456,
+      "num": 1002456,
       "word": "十年前迪丽热巴央视未播画面",
       "onboard_time": 1683342568,
       "rank": 34,
@@ -267,6 +275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 624101,
+      "num": 624101,
+      "word": "月嫂拍嗝时打盹致22天婴儿头顶骨骨折",
+      "onboard_time": 1683346053,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 586070,
       "num": 373314,
       "word": "秦霄贤受伤",
@@ -323,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 498767,
-      "num": 498767,
-      "word": "南风知我意",
-      "onboard_time": 1683346473,
-      "rank": 15,
-      "category": "影视"
-    },
-    {
       "raw_hot": 495865,
       "num": 495865,
       "word": "肖战跳的极乐净土",
@@ -363,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 449748,
+      "num": 449748,
+      "word": "想开个上四休三的公司",
+      "onboard_time": 1683343530,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 447338,
       "num": 447338,
       "word": "新冠大流行迎来转折点",
@@ -371,8 +387,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438355,
-      "num": 438355,
+      "raw_hot": 445905,
+      "num": 445905,
       "word": "巴厘岛计划限制外国游客",
       "onboard_time": 1683342211,
       "rank": 30,
@@ -395,12 +411,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 409062,
-      "num": 409062,
-      "word": "想开个上四休三的公司",
-      "onboard_time": 1683343530,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 405819,
+      "num": 405819,
+      "word": "我的大叔",
+      "onboard_time": 1683345514,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 379983,
@@ -419,11 +435,19 @@
       "category": "影视"
     },
     {
-      "raw_hot": 356404,
-      "num": 356404,
-      "word": "我的大叔",
-      "onboard_time": 1683345514,
-      "rank": 23,
+      "raw_hot": 354581,
+      "num": 354581,
+      "word": "男孩在外吃饭主动打包三片土豆片",
+      "onboard_time": 1683345754,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352757,
+      "num": 352757,
+      "word": "安乐传",
+      "onboard_time": 1683345631,
+      "rank": 27,
       "category": "影视"
     },
     {
@@ -441,6 +465,14 @@
       "onboard_time": 1683294871,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332599,
+      "num": 332599,
+      "word": "凡人修仙传",
+      "onboard_time": 1683345394,
+      "rank": 28,
+      "category": "影视"
     },
     {
       "raw_hot": 331569,
@@ -475,36 +507,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 314583,
-      "num": 314583,
-      "word": "安乐传",
-      "onboard_time": 1683345631,
-      "rank": 27,
-      "category": "影视"
-    },
-    {
       "raw_hot": 312650,
       "num": 312650,
       "word": "向往的生活下期预告",
       "onboard_time": 1683331527,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304409,
-      "num": 304409,
-      "word": "凡人修仙传",
-      "onboard_time": 1683345394,
-      "rank": 28,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 303051,
-      "num": 284925,
-      "word": "月嫂拍嗝时打盹致22天婴儿头顶骨骨折",
-      "onboard_time": 1683346053,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302489,
@@ -547,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283571,
+      "num": 283571,
+      "word": "我去面试老爸却被看上了",
+      "onboard_time": 1683346894,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 282349,
       "num": 282349,
       "word": "哈登状态",
       "onboard_time": 1683338551,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 280243,
-      "num": 280243,
-      "word": "男孩在外吃饭主动打包三片土豆片",
-      "onboard_time": 1683345754,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270549,
@@ -643,6 +651,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 240751,
+      "num": 240751,
+      "word": "沈月李嘉琦新综艺",
+      "onboard_time": 1683346354,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232483,
       "num": 232483,
       "word": "杨晓培认领和赵露思的cp名",
@@ -691,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206207,
+      "num": 206207,
+      "word": "史航事件双方为何都不报警",
+      "onboard_time": 1683346832,
+      "rank": 40,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 205774,
       "num": 205774,
       "word": "今天周六 今天上班",
@@ -713,6 +737,14 @@
       "onboard_time": 1683333871,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204854,
+      "num": 204854,
+      "word": "好想拥有公司这种冷暴力",
+      "onboard_time": 1683347315,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 201933,
@@ -769,14 +801,6 @@
       "onboard_time": 1683340590,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 194478,
-      "num": 194478,
-      "word": "沈月李嘉琦新综艺",
-      "onboard_time": 1683346354,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 193095,
@@ -875,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172940,
+      "num": 182177,
+      "word": "王凯初夏清爽大片",
+      "onboard_time": 1683345094,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169934,
       "num": 156392,
       "word": "五月天团票",
@@ -963,14 +995,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 144782,
-      "num": 160940,
-      "word": "王凯初夏清爽大片",
-      "onboard_time": 1683345094,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 138368,
       "num": 138368,
       "word": "微暗之火",
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 131913,
-      "num": 161017,
+      "num": 183315,
       "word": "立夏怎么吃",
       "onboard_time": 1683338972,
       "rank": 48,
@@ -1043,6 +1067,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 106242,
+      "num": 187487,
+      "word": "成都蓝花楹太美了",
+      "onboard_time": 1683345693,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 105622,
       "num": 105622,
       "word": "6岁女童检查异常医生强制报告",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1683307938,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91319,
-      "num": 161156,
-      "word": "成都蓝花楹太美了",
-      "onboard_time": 1683345693,
-      "rank": 46,
-      "category": "旅游"
     },
     {
       "raw_hot": 85937,
@@ -1092,7 +1116,7 @@
     },
     {
       "raw_hot": 66189,
-      "num": 1650554,
+      "num": 1675757,
       "word": "4K视频看立夏时节的中国大地",
       "onboard_time": 1683342452,
       "rank": 2,
