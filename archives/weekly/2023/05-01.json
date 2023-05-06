@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683398007781,
+  "endTime": 1683400364432,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -13483,6 +13483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 51913,
+      "num": 51913,
+      "word": "魏大勋在最不该做好人的时候做好人",
+      "onboard_time": 1683398415,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51369,
       "num": 166027,
       "word": "五一所有人都去海边了",
@@ -13673,6 +13681,14 @@
       "onboard_time": 1682969413,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28127,
+      "num": 28127,
+      "word": "你好星期六",
+      "onboard_time": 1683399554,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 27402,
