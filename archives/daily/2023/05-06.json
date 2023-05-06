@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683344004183,
+  "endTime": 1683346786634,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -25,6 +25,14 @@
       "onboard_time": 1683337049,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2267391,
+      "num": 2267391,
+      "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
+      "onboard_time": 1683340052,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2092927,
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1661017,
-      "num": 1661017,
-      "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
-      "onboard_time": 1683340052,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1581186,
       "num": 1581186,
       "word": "为什么香飘飘卖不动了",
@@ -81,6 +81,14 @@
       "onboard_time": 1683340650,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1421416,
+      "num": 1421416,
+      "word": "男性朋友抱怨 不敢调情",
+      "onboard_time": 1683341729,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1416556,
@@ -131,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1131243,
+      "num": 920962,
+      "word": "史航事件疑似受害者已增至26人",
+      "onboard_time": 1683343772,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1097270,
+      "num": 1097270,
+      "word": "胡歌 镖人",
+      "onboard_time": 1683344731,
+      "rank": 8,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1015051,
       "num": 1015051,
       "word": "小贝饿了带货因虚假宣传被罚46万",
@@ -139,20 +163,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 975662,
+      "num": 975662,
+      "word": "十年前迪丽热巴央视未播画面",
+      "onboard_time": 1683342568,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 968772,
       "num": 968772,
       "word": "立夏",
       "onboard_time": 1683307097,
       "rank": 1,
       "category": "自然"
-    },
-    {
-      "raw_hot": 956077,
-      "num": 956077,
-      "word": "男性朋友抱怨 不敢调情",
-      "onboard_time": 1683341729,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 923117,
@@ -203,12 +227,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 799017,
-      "num": 799017,
-      "word": "十年前迪丽热巴央视未播画面",
-      "onboard_time": 1683342568,
-      "rank": 34,
-      "category": "影视"
+      "raw_hot": 819376,
+      "num": 819376,
+      "word": "李俊濠签约龙韬娱乐",
+      "onboard_time": 1683342931,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 793392,
@@ -241,14 +265,6 @@
       "onboard_time": 1683298231,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 617502,
-      "num": 617502,
-      "word": "史航事件疑似受害者已增至26人",
-      "onboard_time": 1683343772,
-      "rank": 10,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 586070,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498767,
+      "num": 498767,
+      "word": "南风知我意",
+      "onboard_time": 1683346473,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 495865,
       "num": 495865,
       "word": "肖战跳的极乐净土",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 460025,
-      "num": 348018,
+      "num": 381853,
       "word": "我的榴莲被同事偷偷吃完了",
       "onboard_time": 1683341310,
       "rank": 21,
@@ -347,6 +371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438355,
+      "num": 438355,
+      "word": "巴厘岛计划限制外国游客",
+      "onboard_time": 1683342211,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438138,
+      "num": 438138,
+      "word": "赵又廷张子枫新剧官宣",
+      "onboard_time": 1683343351,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 433099,
       "num": 433099,
       "word": "耳高于眉",
@@ -355,11 +395,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 421354,
-      "num": 421354,
-      "word": "巴厘岛计划限制外国游客",
-      "onboard_time": 1683342211,
-      "rank": 30,
+      "raw_hot": 409062,
+      "num": 409062,
+      "word": "想开个上四休三的公司",
+      "onboard_time": 1683343530,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 379983,
+      "num": 379983,
+      "word": "男子坐飞机遇气流空姐跪地半小时安抚",
+      "onboard_time": 1683344852,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -371,12 +419,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 351862,
-      "num": 351862,
-      "word": "李俊濠签约龙韬娱乐",
-      "onboard_time": 1683342931,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 356404,
+      "num": 356404,
+      "word": "我的大叔",
+      "onboard_time": 1683345514,
+      "rank": 23,
+      "category": "影视"
     },
     {
       "raw_hot": 335267,
@@ -403,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325843,
-      "num": 325843,
-      "word": "赵又廷张子枫新剧官宣",
-      "onboard_time": 1683343351,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 321603,
       "num": 321603,
       "word": "普通人怎么拥有千万资产",
@@ -435,12 +475,36 @@
       "category": "自然"
     },
     {
+      "raw_hot": 314583,
+      "num": 314583,
+      "word": "安乐传",
+      "onboard_time": 1683345631,
+      "rank": 27,
+      "category": "影视"
+    },
+    {
       "raw_hot": 312650,
       "num": 312650,
       "word": "向往的生活下期预告",
       "onboard_time": 1683331527,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304409,
+      "num": 304409,
+      "word": "凡人修仙传",
+      "onboard_time": 1683345394,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 303051,
+      "num": 284925,
+      "word": "月嫂拍嗝时打盹致22天婴儿头顶骨骨折",
+      "onboard_time": 1683346053,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302489,
@@ -489,6 +553,14 @@
       "onboard_time": 1683338551,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280243,
+      "num": 280243,
+      "word": "男孩在外吃饭主动打包三片土豆片",
+      "onboard_time": 1683345754,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270549,
@@ -675,14 +747,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 198060,
-      "num": 198060,
-      "word": "想开个上四休三的公司",
-      "onboard_time": 1683343530,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197575,
       "num": 167597,
       "word": "鹿晗周震南互相伤害",
@@ -705,6 +769,14 @@
       "onboard_time": 1683340590,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 194478,
+      "num": 194478,
+      "word": "沈月李嘉琦新综艺",
+      "onboard_time": 1683346354,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 193095,
@@ -819,6 +891,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 161160,
+      "num": 161160,
+      "word": "爱情遇见达尔文",
+      "onboard_time": 1683346653,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 158840,
       "num": 158840,
       "word": "巴厘岛",
@@ -883,6 +963,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 144782,
+      "num": 160940,
+      "word": "王凯初夏清爽大片",
+      "onboard_time": 1683345094,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 138368,
       "num": 138368,
       "word": "微暗之火",
@@ -900,7 +988,7 @@
     },
     {
       "raw_hot": 131913,
-      "num": 150927,
+      "num": 161017,
       "word": "立夏怎么吃",
       "onboard_time": 1683338972,
       "rank": 48,
@@ -971,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91319,
+      "num": 161156,
+      "word": "成都蓝花楹太美了",
+      "onboard_time": 1683345693,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 85937,
       "num": 85937,
       "word": "张晋一条腿也要教蔡少芬跳舞",
@@ -995,20 +1091,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 66189,
+      "num": 1650554,
+      "word": "4K视频看立夏时节的中国大地",
+      "onboard_time": 1683342452,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63414,
       "num": 1421685,
       "word": "天舟五号撤离空间站",
       "onboard_time": 1683291871,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 51827,
-      "num": 1611399,
-      "word": "4K视频看立夏时节的中国大地",
-      "onboard_time": 1683342452,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49764,

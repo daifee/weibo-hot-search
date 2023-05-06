@@ -1,0 +1,410 @@
+{
+  "runTime": 1683346786634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2343563,
+        "num": 2343563,
+        "word": "承重墙被砸1.6亿赔款谁来出",
+        "onboard_time": 1683337169,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2267391,
+        "num": 2267391,
+        "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
+        "onboard_time": 1683340052,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66189,
+        "num": 1650554,
+        "word": "4K视频看立夏时节的中国大地",
+        "onboard_time": 1683342452,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1603887,
+        "num": 1603887,
+        "word": "调休",
+        "onboard_time": 1683332792,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1421416,
+        "num": 1421416,
+        "word": "男性朋友抱怨 不敢调情",
+        "onboard_time": 1683341729,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1281602,
+        "num": 1281602,
+        "word": "未婚先孕六个月跟爸妈坦白",
+        "onboard_time": 1683337049,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1207895,
+        "num": 1207895,
+        "word": "优酷官宣杨紫要久久爱",
+        "onboard_time": 1683340650,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1106334,
+        "num": 1106334,
+        "word": "吴倩小心翼翼的样子好心疼",
+        "onboard_time": 1683338730,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1097270,
+        "num": 1097270,
+        "word": "胡歌 镖人",
+        "onboard_time": 1683344731,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 975662,
+        "num": 975662,
+        "word": "十年前迪丽热巴央视未播画面",
+        "onboard_time": 1683342568,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1740599,
+        "num": 928462,
+        "word": "南昌咬人",
+        "onboard_time": 1683338130,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1131243,
+        "num": 920962,
+        "word": "史航事件疑似受害者已增至26人",
+        "onboard_time": 1683343772,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 819376,
+        "num": 819376,
+        "word": "李俊濠签约龙韬娱乐",
+        "onboard_time": 1683342931,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522243,
+        "num": 522243,
+        "word": "杭州高空扔狗事件",
+        "onboard_time": 1683341371,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513803,
+        "num": 513803,
+        "word": "墨西哥一男子因性侵5岁女孩被杀害",
+        "onboard_time": 1683337709,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498767,
+        "num": 498767,
+        "word": "南风知我意",
+        "onboard_time": 1683346473,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 438355,
+        "num": 438355,
+        "word": "巴厘岛计划限制外国游客",
+        "onboard_time": 1683342211,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438138,
+        "num": 438138,
+        "word": "赵又廷张子枫新剧官宣",
+        "onboard_time": 1683343351,
+        "rank": 17,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 409062,
+        "num": 409062,
+        "word": "想开个上四休三的公司",
+        "onboard_time": 1683343530,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383839,
+        "num": 383839,
+        "word": "片仔癀涨价到每粒760元",
+        "onboard_time": 1683336569,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 455542,
+        "num": 382796,
+        "word": "咽喉炎",
+        "onboard_time": 1683329422,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441384,
+        "num": 381853,
+        "word": "我的榴莲被同事偷偷吃完了",
+        "onboard_time": 1683341310,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379983,
+        "num": 379983,
+        "word": "男子坐飞机遇气流空姐跪地半小时安抚",
+        "onboard_time": 1683344852,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356404,
+        "num": 356404,
+        "word": "我的大叔",
+        "onboard_time": 1683345514,
+        "rank": 23,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 337874,
+        "num": 337874,
+        "word": "优酷片单",
+        "onboard_time": 1683340827,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 331016,
+        "num": 331016,
+        "word": "巴厘岛遇害情侣系同事关系",
+        "onboard_time": 1683284667,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328915,
+        "num": 328915,
+        "word": "挖呀挖走红的桃子老师称很焦虑",
+        "onboard_time": 1683301651,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 314583,
+        "num": 314583,
+        "word": "安乐传",
+        "onboard_time": 1683345631,
+        "rank": 27,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 304409,
+        "num": 304409,
+        "word": "凡人修仙传",
+        "onboard_time": 1683345394,
+        "rank": 28,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285430,
+        "num": 285430,
+        "word": "梅西道歉",
+        "onboard_time": 1683301112,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303051,
+        "num": 284925,
+        "word": "月嫂拍嗝时打盹致22天婴儿头顶骨骨折",
+        "onboard_time": 1683346053,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280243,
+        "num": 280243,
+        "word": "男孩在外吃饭主动打包三片土豆片",
+        "onboard_time": 1683345754,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258738,
+        "num": 258738,
+        "word": "浪4 有钱",
+        "onboard_time": 1683301171,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238678,
+        "num": 238678,
+        "word": "学生五一前请假遭拒强行离校被处分",
+        "onboard_time": 1683327859,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 237415,
+        "num": 237415,
+        "word": "肖战跳的极乐净土",
+        "onboard_time": 1683330866,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223811,
+        "num": 223811,
+        "word": "狗被确诊智障了",
+        "onboard_time": 1683287969,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219744,
+        "num": 219744,
+        "word": "谢娜初舞台制作人是张杰",
+        "onboard_time": 1683299852,
+        "rank": 36,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 214195,
+        "num": 214195,
+        "word": "极乐净土",
+        "onboard_time": 1683294812,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211998,
+        "num": 211998,
+        "word": "店家回应7人吃自助炫300多个螃蟹",
+        "onboard_time": 1683335491,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 206695,
+        "num": 206695,
+        "word": "小贝饿了带货因虚假宣传被罚46万",
+        "onboard_time": 1683291749,
+        "rank": 39,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 194478,
+        "num": 194478,
+        "word": "沈月李嘉琦新综艺",
+        "onboard_time": 1683346354,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187155,
+        "num": 187155,
+        "word": "唐伯虎 淘汰",
+        "onboard_time": 1683300334,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186008,
+        "num": 186008,
+        "word": "五月天 任意门",
+        "onboard_time": 1683340531,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168703,
+        "num": 168703,
+        "word": "和相恋11年的男友分手了",
+        "onboard_time": 1683330386,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164093,
+        "num": 164093,
+        "word": "长空之王告王一博代言的眼镜",
+        "onboard_time": 1683332729,
+        "rank": 44,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 161160,
+        "num": 161160,
+        "word": "爱情遇见达尔文",
+        "onboard_time": 1683346653,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91319,
+        "num": 161156,
+        "word": "成都蓝花楹太美了",
+        "onboard_time": 1683345693,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 74210,
+        "num": 161080,
+        "word": "yuyanjia确定复出",
+        "onboard_time": 1683332127,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40474,
+        "num": 161017,
+        "word": "立夏怎么吃",
+        "onboard_time": 1683338972,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144782,
+        "num": 160940,
+        "word": "王凯初夏清爽大片",
+        "onboard_time": 1683345094,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国折射市场活力#"
+    }
+  }
+}
