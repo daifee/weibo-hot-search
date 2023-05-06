@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683371624243,
+  "endTime": 1683372817541,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -9,6 +9,14 @@
       "onboard_time": 1683301112,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3023178,
+      "num": 2746558,
+      "word": "24人吃淄博烧烤花760元",
+      "onboard_time": 1683368189,
+      "rank": 47,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 2937830,
@@ -25,14 +33,6 @@
       "onboard_time": 1683337169,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2746558,
-      "num": 2746558,
-      "word": "24人吃淄博烧烤花760元",
-      "onboard_time": 1683368189,
-      "rank": 47,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 2643184,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2146133,
-      "num": 2146133,
+      "raw_hot": 2263021,
+      "num": 2263021,
       "word": "刘美含落选浪姐",
       "onboard_time": 1683368851,
       "rank": 17,
@@ -169,6 +169,14 @@
       "onboard_time": 1683340650,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1522513,
+      "num": 1522513,
+      "word": "彩票中了1.7亿后该做什么",
+      "onboard_time": 1683369452,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 1437487,
@@ -291,6 +299,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1004707,
+      "num": 588705,
+      "word": "英国国王查尔斯三世和王后卡米拉加冕",
+      "onboard_time": 1683371791,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1002456,
       "num": 1002456,
       "word": "十年前迪丽热巴央视未播画面",
@@ -305,14 +321,6 @@
       "onboard_time": 1683307097,
       "rank": 1,
       "category": "自然"
-    },
-    {
-      "raw_hot": 929673,
-      "num": 929673,
-      "word": "彩票中了1.7亿后该做什么",
-      "onboard_time": 1683369452,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 923117,
@@ -337,6 +345,14 @@
       "onboard_time": 1683291209,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 889471,
+      "num": 889471,
+      "word": "IU认出了10年没见的粉丝",
+      "onboard_time": 1683368429,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 878274,
@@ -379,14 +395,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 846265,
-      "num": 846265,
-      "word": "IU认出了10年没见的粉丝",
-      "onboard_time": 1683368429,
-      "rank": 18,
-      "category": "影视"
-    },
-    {
       "raw_hot": 845822,
       "num": 845822,
       "word": "查尔斯加冕典礼",
@@ -417,6 +425,14 @@
       "onboard_time": 1683361650,
       "rank": 34,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 801493,
+      "num": 544264,
+      "word": "差点以18.8的彩礼嫁给发小",
+      "onboard_time": 1683370171,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 793392,
@@ -587,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472319,
-      "num": 472319,
-      "word": "差点以18.8的彩礼嫁给发小",
-      "onboard_time": 1683370171,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 467135,
       "num": 467135,
       "word": "男孩掉入黄河被救家长抬羊登门拜谢",
@@ -699,6 +707,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 400073,
+      "num": 400073,
+      "word": "张艺兴舒淇电影 停拍",
+      "onboard_time": 1683371190,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 399539,
       "num": 399539,
       "word": "孙悟空对女孩子真的很温柔",
@@ -721,6 +737,14 @@
       "onboard_time": 1683346894,
       "rank": 30,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 391526,
+      "num": 232163,
+      "word": "没药花园 巴厘岛情侣身亡",
+      "onboard_time": 1683370471,
+      "rank": 30,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 389386,
@@ -841,14 +865,6 @@
       "onboard_time": 1683353429,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333481,
-      "num": 232163,
-      "word": "没药花园 巴厘岛情侣身亡",
-      "onboard_time": 1683370471,
-      "rank": 30,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 333004,
@@ -1099,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 258093,
+      "num": 258093,
+      "word": "广州宝马撞人案司机提起上诉",
+      "onboard_time": 1683370592,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255656,
       "num": 255656,
       "word": "朱珠生完孩子3个月就拍平凡之路",
@@ -1115,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254193,
+      "num": 201009,
+      "word": "查尔斯三世戴上圣爱德华王冠",
+      "onboard_time": 1683372628,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 252782,
       "num": 252782,
       "word": "长空之王称王一博代言的眼镜侵权",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1683350493,
       "rank": 31,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 249163,
+      "num": 249163,
+      "word": "张杰男德满分",
+      "onboard_time": 1683371852,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 248805,
@@ -1219,28 +1259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231614,
-      "num": 231614,
-      "word": "张艺兴舒淇电影 停拍",
-      "onboard_time": 1683371190,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 231565,
       "num": 231565,
       "word": "薛之谦庆祝火星情报局回归",
       "onboard_time": 1683361410,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231086,
-      "num": 231086,
-      "word": "广州宝马撞人案司机提起上诉",
-      "onboard_time": 1683370592,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224863,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1683300031,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207860,
+      "num": 200927,
+      "word": "这样啊 那他是骗你的",
+      "onboard_time": 1683372151,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 206425,
@@ -1803,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141169,
+      "num": 141169,
+      "word": "Billkin青岛机场音乐节",
+      "onboard_time": 1683372748,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 138376,
       "num": 145224,
       "word": "沈梦溪KPL限定爆料",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1683362971,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130822,
+      "num": 130822,
+      "word": "辞职后靠摆摊月入五万",
+      "onboard_time": 1683372571,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130519,
