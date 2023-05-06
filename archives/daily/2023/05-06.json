@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683357337342,
+  "endTime": 1683358399556,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -11,20 +11,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2937830,
+      "num": 2937830,
+      "word": "跑男收视率创新低",
+      "onboard_time": 1683354387,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2784653,
       "num": 2784653,
       "word": "承重墙被砸1.6亿赔款谁来出",
       "onboard_time": 1683337169,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2533406,
-      "num": 2533406,
-      "word": "跑男收视率创新低",
-      "onboard_time": 1683354387,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 2294577,
@@ -59,11 +59,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1774917,
-      "num": 1774917,
+      "raw_hot": 1785632,
+      "num": 1785632,
       "word": "网友癌症靶向药落在公交车被大妈捡走",
       "onboard_time": 1683350132,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1772052,
+      "num": 1772052,
+      "word": "深圳山姆",
+      "onboard_time": 1683353789,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -91,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1647179,
-      "num": 1647179,
-      "word": "深圳山姆",
-      "onboard_time": 1683353789,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 1657946,
+      "num": 1657946,
+      "word": "墨香铜臭",
+      "onboard_time": 1683355650,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1600059,
@@ -121,14 +129,6 @@
       "onboard_time": 1683346053,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1559193,
-      "num": 1559193,
-      "word": "墨香铜臭",
-      "onboard_time": 1683355650,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1538886,
@@ -251,6 +251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 972349,
+      "num": 972349,
+      "word": "妲己为什么总喂纣王吃葡萄",
+      "onboard_time": 1683354028,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 968772,
       "num": 968772,
       "word": "立夏",
@@ -273,14 +281,6 @@
       "onboard_time": 1683337709,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 910504,
-      "num": 910504,
-      "word": "妲己为什么总喂纣王吃葡萄",
-      "onboard_time": 1683354028,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 895356,
@@ -371,6 +371,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 629388,
+      "num": 629388,
+      "word": "霉霉 有屁重录",
+      "onboard_time": 1683357028,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 586070,
       "num": 373314,
       "word": "秦霄贤受伤",
@@ -403,8 +411,8 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 549161,
-      "num": 549161,
+      "raw_hot": 549239,
+      "num": 549239,
       "word": "美依礼芽翻译是谁",
       "onboard_time": 1683353550,
       "rank": 35,
@@ -417,6 +425,14 @@
       "onboard_time": 1683330386,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 526170,
+      "num": 526170,
+      "word": "巴厘岛凶案",
+      "onboard_time": 1683356609,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521168,
@@ -449,6 +465,14 @@
       "onboard_time": 1683354210,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 490095,
+      "num": 490095,
+      "word": "Jiejie女友",
+      "onboard_time": 1683357330,
+      "rank": 14,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 474099,
@@ -489,6 +513,14 @@
       "onboard_time": 1683334771,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 447205,
+      "num": 447205,
+      "word": "最高检挂牌督办长峰医院火灾事故案",
+      "onboard_time": 1683357510,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 445905,
@@ -561,14 +593,6 @@
       "onboard_time": 1683332729,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 358385,
-      "num": 358385,
-      "word": "巴厘岛凶案",
-      "onboard_time": 1683356609,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354581,
@@ -747,14 +771,6 @@
       "category": "游戏,综艺"
     },
     {
-      "raw_hot": 282522,
-      "num": 282522,
-      "word": "霉霉 有屁重录",
-      "onboard_time": 1683357028,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 282349,
       "num": 282349,
       "word": "哈登状态",
@@ -793,6 +809,14 @@
       "onboard_time": 1683297814,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260726,
+      "num": 260726,
+      "word": "大熊猫白天被游客用激光笔照射",
+      "onboard_time": 1683355948,
+      "rank": 30,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 258155,
@@ -857,14 +881,6 @@
       "onboard_time": 1683302429,
       "rank": 27,
       "category": "影视"
-    },
-    {
-      "raw_hot": 242211,
-      "num": 242211,
-      "word": "大熊猫白天被游客用激光笔照射",
-      "onboard_time": 1683355948,
-      "rank": 30,
-      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 240751,
@@ -963,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206936,
+      "num": 206936,
+      "word": "田曦薇李玉湖大婚造型",
+      "onboard_time": 1683356909,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 206425,
       "num": 171052,
       "word": "谢娜回应被说好吵",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1683350850,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 204484,
+      "num": 204484,
+      "word": "摩登天空诉快乐大本营侵权获赔10万",
+      "onboard_time": 1683356669,
+      "rank": 34,
+      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 201933,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1683322633,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195707,
-      "num": 195707,
-      "word": "摩登天空诉快乐大本营侵权获赔10万",
-      "onboard_time": 1683356669,
-      "rank": 34,
-      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 195654,
@@ -1203,14 +1227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170128,
-      "num": 170128,
-      "word": "田曦薇李玉湖大婚造型",
-      "onboard_time": 1683356909,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 169934,
       "num": 156392,
       "word": "五月天团票",
@@ -1299,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151146,
+      "num": 151146,
+      "word": "他说真男人都不涂防晒霜",
+      "onboard_time": 1683358050,
+      "rank": 42,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 150920,
       "num": 150920,
       "word": "全员加速中南京",
@@ -1371,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 130724,
+      "num": 130724,
+      "word": "金晨郭麒麟新剧收视率",
+      "onboard_time": 1683357929,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 130519,
       "num": 130519,
       "word": "祝绪丹给刘宇宁打电话",
@@ -1409,6 +1441,22 @@
       "onboard_time": 1683297395,
       "rank": 45,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 111273,
+      "num": 111273,
+      "word": "胡锡进 钱只有是爱和责任的资源时才会来",
+      "onboard_time": 1683358172,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 107539,
+      "num": 107539,
+      "word": "被领导的搜索记录整破防了",
+      "onboard_time": 1683358348,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 106242,
@@ -1468,7 +1516,7 @@
     },
     {
       "raw_hot": 66189,
-      "num": 1694762,
+      "num": 1774510,
       "word": "4K视频看立夏时节的中国大地",
       "onboard_time": 1683342452,
       "rank": 2,
