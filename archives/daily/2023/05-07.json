@@ -1,7 +1,15 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683390063208,
+  "endTime": 1683390955138,
   "band_list": [
+    {
+      "raw_hot": 1308874,
+      "num": 1308874,
+      "word": "知情人称挖呀挖黄老师无教师证",
+      "onboard_time": 1683388528,
+      "rank": 12,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1237184,
       "num": 1237184,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1110160,
-      "num": 177588,
+      "num": 223745,
       "word": "巴厘岛女性死者胃部有大量液体",
       "onboard_time": 1683361527,
       "rank": 20,
@@ -35,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 888301,
-      "num": 175773,
+      "raw_hot": 888532,
+      "num": 215875,
       "word": "活死人",
       "onboard_time": 1683375451,
       "rank": 21,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 619108,
-      "num": 445761,
+      "num": 496695,
       "word": "彩票中了1.7亿后该做什么",
       "onboard_time": 1683369452,
       "rank": 10,
@@ -92,23 +100,15 @@
     },
     {
       "raw_hot": 583873,
-      "num": 442858,
+      "num": 491868,
       "word": "活死人不是丧尸",
       "onboard_time": 1683386552,
       "rank": 11,
       "category": "综艺"
     },
     {
-      "raw_hot": 574821,
-      "num": 439311,
-      "word": "知情人称挖呀挖黄老师无教师证",
-      "onboard_time": 1683388528,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 515729,
-      "num": 433035,
+      "raw_hot": 549927,
+      "num": 549927,
       "word": "庞博到底是谁",
       "onboard_time": 1683388169,
       "rank": 13,
@@ -147,20 +147,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 441130,
+      "num": 441130,
+      "word": "鹿晗诺言MV里的吴倩",
+      "onboard_time": 1683374010,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 428747,
       "num": 428747,
       "word": "张艺兴舒淇电影 停拍",
       "onboard_time": 1683371190,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 372664,
-      "num": 372664,
-      "word": "鹿晗诺言MV里的吴倩",
-      "onboard_time": 1683374010,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 349738,
@@ -179,20 +179,44 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 259482,
-      "num": 170411,
+      "raw_hot": 288687,
+      "num": 205284,
       "word": "谢娜嗑cp嗑到正主面前",
       "onboard_time": 1683388351,
       "rank": 22,
       "category": "综艺"
     },
     {
+      "raw_hot": 255278,
+      "num": 255278,
+      "word": "性格很单纯的人怎么在社会上生存",
+      "onboard_time": 1683389369,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 235446,
-      "num": 155979,
+      "num": 184223,
       "word": "路温评价王一博",
       "onboard_time": 1683380255,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192164,
+      "num": 192164,
+      "word": "全红婵",
+      "onboard_time": 1683389911,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190637,
+      "num": 190637,
+      "word": "工作5年终于存到了10万",
+      "onboard_time": 1683388469,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 188792,
@@ -227,12 +251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174080,
-      "num": 143383,
+      "raw_hot": 176991,
+      "num": 176991,
       "word": "深圳一公司年薪50万岗位优先李一桐粉丝",
       "onboard_time": 1683373170,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165341,
+      "num": 165341,
+      "word": "周传雄演唱会",
+      "onboard_time": 1683387869,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 163627,
@@ -251,14 +283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162052,
-      "num": 122029,
-      "word": "周传雄演唱会",
-      "onboard_time": 1683387869,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 159174,
       "num": 121128,
       "word": "金晨给朱珠送平凡暖心包",
@@ -267,16 +291,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 158252,
-      "num": 158252,
-      "word": "工作5年终于存到了10万",
-      "onboard_time": 1683388469,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156184,
-      "num": 103275,
+      "num": 143862,
       "word": "长月烬明网飞也是40集",
       "onboard_time": 1683375631,
       "rank": 40,
@@ -299,16 +315,8 @@
       "category": "影视"
     },
     {
-      "raw_hot": 141015,
-      "num": 141015,
-      "word": "性格很单纯的人怎么在社会上生存",
-      "onboard_time": 1683389369,
-      "rank": 33,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 137071,
-      "num": 102216,
+      "raw_hot": 142629,
+      "num": 109111,
       "word": "杨和苏",
       "onboard_time": 1683374968,
       "rank": 43,
@@ -347,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107502,
+      "num": 107502,
+      "word": "家里介绍的男生质量还挺高",
+      "onboard_time": 1683389609,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106697,
       "num": 101316,
       "word": "五月天吧",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 104539,
-      "num": 149016,
+      "num": 150024,
       "word": "英国国王查尔斯三世和王后卡米拉加冕",
       "onboard_time": 1683371791,
       "rank": 29,
@@ -372,14 +388,30 @@
     },
     {
       "raw_hot": 101125,
-      "num": 101125,
+      "num": 102945,
       "word": "总领馆回应2中国公民巴厘岛身亡案",
       "onboard_time": 1683369932,
       "rank": 47,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 67616,
+      "raw_hot": 92481,
+      "num": 99465,
+      "word": "苏醒晒来活了兄弟杀青照",
+      "onboard_time": 1683390808,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 79565,
+      "num": 99224,
+      "word": "已婚男子连删多个女生相关记录",
+      "onboard_time": 1683390864,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72305,
       "num": 101122,
       "word": "cp29场照被炼进AI模型",
       "onboard_time": 1683381093,
@@ -387,20 +419,20 @@
       "category": "动漫,网红"
     },
     {
-      "raw_hot": 63320,
-      "num": 910365,
-      "word": "当千里江山图遇上锦绣江苏",
-      "onboard_time": 1683379230,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54775,
+      "raw_hot": 64709,
       "num": 101006,
       "word": "炫舞15周年代言人王心凌",
       "onboard_time": 1683389486,
       "rank": 49,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 63320,
+      "num": 965656,
+      "word": "当千里江山图遇上锦绣江苏",
+      "onboard_time": 1683379230,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
