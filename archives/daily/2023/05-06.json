@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683376221501,
+  "endTime": 1683377157169,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2830367,
+      "num": 2830367,
+      "word": "彩票中了1.7亿后该做什么",
+      "onboard_time": 1683369452,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2784653,
       "num": 2784653,
       "word": "承重墙被砸1.6亿赔款谁来出",
@@ -41,14 +49,6 @@
       "onboard_time": 1683361527,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2621585,
-      "num": 2621585,
-      "word": "彩票中了1.7亿后该做什么",
-      "onboard_time": 1683369452,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 2294577,
@@ -291,7 +291,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1021125,
+      "raw_hot": 1041740,
       "num": 717734,
       "word": "英国国王查尔斯三世和王后卡米拉加冕",
       "onboard_time": 1683371791,
@@ -467,6 +467,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 691244,
+      "num": 691244,
+      "word": "这样啊 那他是骗你的",
+      "onboard_time": 1683372151,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 657744,
       "num": 657744,
       "word": "杭州高空扔狗事件",
@@ -481,14 +489,6 @@
       "onboard_time": 1683298231,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 630588,
-      "num": 630588,
-      "word": "这样啊 那他是骗你的",
-      "onboard_time": 1683372151,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 596291,
@@ -587,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511517,
+      "num": 484948,
+      "word": "凯特王妃",
+      "onboard_time": 1683373649,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 495865,
       "num": 495865,
       "word": "肖战跳的极乐净土",
@@ -611,11 +619,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 484948,
-      "num": 484948,
-      "word": "凯特王妃",
-      "onboard_time": 1683373649,
-      "rank": 12,
+      "raw_hot": 488358,
+      "num": 408884,
+      "word": "夏洛特公主",
+      "onboard_time": 1683375089,
+      "rank": 17,
       "category": "国外要闻"
     },
     {
@@ -723,6 +731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 426592,
+      "num": 426592,
+      "word": "张艺兴舒淇电影 停拍",
+      "onboard_time": 1683371190,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 409935,
       "num": 409935,
       "word": "张杰男德满分",
@@ -731,19 +747,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407870,
+      "num": 407870,
+      "word": "王一博长空之王综合票房破6亿",
+      "onboard_time": 1683376591,
+      "rank": 15,
+      "category": "影视"
+    },
+    {
       "raw_hot": 405819,
       "num": 405819,
       "word": "我的大叔",
       "onboard_time": 1683345514,
       "rank": 23,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 400837,
-      "num": 400837,
-      "word": "张艺兴舒淇电影 停拍",
-      "onboard_time": 1683371190,
-      "rank": 31,
       "category": "影视"
     },
     {
@@ -793,6 +809,14 @@
       "onboard_time": 1683344852,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376866,
+      "num": 376866,
+      "word": "活死人",
+      "onboard_time": 1683375451,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 376777,
@@ -859,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343420,
+      "num": 343420,
+      "word": "青春环游记",
+      "onboard_time": 1683375750,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341397,
       "num": 341397,
       "word": "浪姐4 四季以来最高收视纪录",
@@ -867,12 +899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339143,
-      "num": 339143,
-      "word": "夏洛特公主",
-      "onboard_time": 1683375089,
-      "rank": 17,
-      "category": "国外要闻"
+      "raw_hot": 338730,
+      "num": 329215,
+      "word": "深圳一公司年薪50万岗位优先李一桐粉丝",
+      "onboard_time": 1683373170,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 335267,
@@ -961,14 +993,6 @@
       "onboard_time": 1683372748,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 320305,
-      "num": 320305,
-      "word": "深圳一公司年薪50万岗位优先李一桐粉丝",
-      "onboard_time": 1683373170,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 318302,
@@ -1067,20 +1091,20 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 291987,
+      "num": 291987,
+      "word": "五月天吧",
+      "onboard_time": 1683373708,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 291830,
       "num": 291830,
       "word": "挖呀挖黄老师回应质疑",
       "onboard_time": 1683330024,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291710,
-      "num": 291710,
-      "word": "五月天吧",
-      "onboard_time": 1683373708,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 288533,
@@ -1203,8 +1227,8 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 259560,
-      "num": 259560,
+      "raw_hot": 259569,
+      "num": 259569,
       "word": "杨和苏",
       "onboard_time": 1683374968,
       "rank": 26,
@@ -1355,22 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228468,
-      "num": 228468,
-      "word": "青春环游记",
-      "onboard_time": 1683375750,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 225402,
-      "num": 225402,
-      "word": "活死人",
-      "onboard_time": 1683375451,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224863,
       "num": 224863,
       "word": "胡歌现身南京德基广场",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1683276569,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222121,
+      "num": 222121,
+      "word": "长月烬明网飞也是40集",
+      "onboard_time": 1683375631,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 222004,
@@ -1611,6 +1627,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 194335,
+      "num": 194335,
+      "word": "LGD大鹅",
+      "onboard_time": 1683376468,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193095,
       "num": 193095,
       "word": "上海等级考",
@@ -1681,14 +1705,6 @@
       "onboard_time": 1683375268,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184398,
-      "num": 184398,
-      "word": "长月烬明网飞也是40集",
-      "onboard_time": 1683375631,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 184221,
@@ -1867,6 +1883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153700,
+      "num": 153700,
+      "word": "Ella教张嘉倪哼唱",
+      "onboard_time": 1683376228,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152896,
       "num": 152896,
       "word": "长大后带家人旅行有多棒",
@@ -1880,6 +1904,14 @@
       "word": "乘风2023",
       "onboard_time": 1683349955,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151805,
+      "num": 151805,
+      "word": "艾热舞台",
+      "onboard_time": 1683375869,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1913,6 +1945,14 @@
       "onboard_time": 1683331527,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149022,
+      "num": 149022,
+      "word": "刘些宁戴牙套了",
+      "onboard_time": 1683376827,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 147929,
@@ -1971,20 +2011,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136351,
-      "num": 136351,
-      "word": "艾热舞台",
-      "onboard_time": 1683375869,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135661,
       "num": 135661,
       "word": "LGD对战DRG",
       "onboard_time": 1683374849,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134965,
+      "num": 134965,
+      "word": "机场停机坪上开音乐节",
+      "onboard_time": 1683372931,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 131913,
@@ -2033,6 +2073,14 @@
       "onboard_time": 1683362123,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129390,
+      "num": 129390,
+      "word": "威尔拿什么赢",
+      "onboard_time": 1683377069,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 129091,
@@ -2107,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104952,
+      "num": 184469,
+      "word": "00后淘宝卖扳手收入300万",
+      "onboard_time": 1683374428,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103359,
       "num": 103359,
       "word": "瞿颖个人简介",
@@ -2161,14 +2217,6 @@
       "onboard_time": 1683359070,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 73246,
-      "num": 184469,
-      "word": "00后淘宝卖扳手收入300万",
-      "onboard_time": 1683374428,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68899,
