@@ -1,0 +1,410 @@
+{
+  "runTime": 1683337288933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2092927,
+        "num": 2092927,
+        "word": "调休",
+        "onboard_time": 1683332792,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150887,
+        "num": 1150887,
+        "word": "极乐净土",
+        "onboard_time": 1683294812,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55808,
+        "num": 1118363,
+        "word": "天舟五号撤离空间站",
+        "onboard_time": 1683291871,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1116744,
+        "num": 1116744,
+        "word": "学生五一前请假遭拒强行离校被处分",
+        "onboard_time": 1683327859,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 972260,
+        "num": 972260,
+        "word": "挖呀挖走红的桃子老师称很焦虑",
+        "onboard_time": 1683301651,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1590829,
+        "num": 965655,
+        "word": "咽喉炎",
+        "onboard_time": 1683329422,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922931,
+        "num": 922931,
+        "word": "梅西道歉",
+        "onboard_time": 1683301112,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 914201,
+        "num": 914201,
+        "word": "立夏",
+        "onboard_time": 1683307097,
+        "rank": 7,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 824430,
+        "num": 824430,
+        "word": "小贝饿了带货因虚假宣传被罚46万",
+        "onboard_time": 1683291749,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 648188,
+        "num": 648188,
+        "word": "谢娜初舞台制作人是张杰",
+        "onboard_time": 1683299852,
+        "rank": 9,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 953864,
+        "num": 615442,
+        "word": "巴厘岛遇害情侣系同事关系",
+        "onboard_time": 1683284667,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580132,
+        "num": 580132,
+        "word": "狗被确诊智障了",
+        "onboard_time": 1683287969,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 494101,
+        "num": 494101,
+        "word": "吴倩张嘉倪",
+        "onboard_time": 1683291209,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474099,
+        "num": 474099,
+        "word": "正版少爷和我",
+        "onboard_time": 1683333087,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467135,
+        "num": 467135,
+        "word": "男孩掉入黄河被救家长抬羊登门拜谢",
+        "onboard_time": 1683333569,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439650,
+        "num": 439650,
+        "word": "新冠大流行迎来转折点",
+        "onboard_time": 1683334771,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422072,
+        "num": 422072,
+        "word": "唐伯虎 淘汰",
+        "onboard_time": 1683300334,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373848,
+        "num": 373848,
+        "word": "浪4 有钱",
+        "onboard_time": 1683301171,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351069,
+        "num": 351069,
+        "word": "杨紫张一山",
+        "onboard_time": 1683278128,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350976,
+        "num": 350976,
+        "word": "肖战跳的极乐净土",
+        "onboard_time": 1683330866,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 486468,
+        "num": 347949,
+        "word": "和相恋11年的男友分手了",
+        "onboard_time": 1683330386,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434775,
+        "num": 345827,
+        "word": "未婚先孕六个月跟爸妈坦白",
+        "onboard_time": 1683337049,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342833,
+        "num": 342833,
+        "word": "长空之王告王一博代言的眼镜",
+        "onboard_time": 1683332729,
+        "rank": 22,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 339248,
+        "num": 339248,
+        "word": "张文宏 大流行已经过去",
+        "onboard_time": 1683331166,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317932,
+        "num": 317932,
+        "word": "秋瓷炫和李彩桦住一个宿舍",
+        "onboard_time": 1683334291,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317104,
+        "num": 317104,
+        "word": "韩庚",
+        "onboard_time": 1683300631,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300079,
+        "num": 300079,
+        "word": "拍毕业照前千万别染头",
+        "onboard_time": 1683333328,
+        "rank": 26,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 273201,
+        "num": 273201,
+        "word": "片仔癀涨价到每粒760元",
+        "onboard_time": 1683336569,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 239222,
+        "num": 239222,
+        "word": "店家回应7人吃自助炫300多个螃蟹",
+        "onboard_time": 1683335491,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 236870,
+        "num": 236870,
+        "word": "yuyanjia确定复出",
+        "onboard_time": 1683332127,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233351,
+        "num": 233351,
+        "word": "向往的生活下期预告",
+        "onboard_time": 1683331527,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232483,
+        "num": 232483,
+        "word": "杨晓培认领和赵露思的cp名",
+        "onboard_time": 1683335370,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210535,
+        "num": 210535,
+        "word": "秦霄贤报平安",
+        "onboard_time": 1683334352,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198618,
+        "num": 198618,
+        "word": "挖呀挖黄老师回应质疑",
+        "onboard_time": 1683330024,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189074,
+        "num": 189074,
+        "word": "私砸承重墙高楼楼层工人正在加固",
+        "onboard_time": 1683327859,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188421,
+        "num": 188421,
+        "word": "107岁老人头上长犄角",
+        "onboard_time": 1683302128,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186919,
+        "num": 186919,
+        "word": "R1SE龙丹妮聚餐合照",
+        "onboard_time": 1683329605,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176001,
+        "num": 176001,
+        "word": "承重墙被砸1.6亿赔款谁来出",
+        "onboard_time": 1683337169,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163145,
+        "num": 163145,
+        "word": "大熊猫萌兰用新玩具越狱又失败了",
+        "onboard_time": 1683322633,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162047,
+        "num": 162047,
+        "word": "女孩给特警男友全队寄了一箱修眉刀",
+        "onboard_time": 1683307642,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168845,
+        "num": 161361,
+        "word": "唐山铁矿透水事故后县委书记牵头谎报",
+        "onboard_time": 1683331708,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156022,
+        "num": 156022,
+        "word": "长空之王 海伦凯勒",
+        "onboard_time": 1683333871,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 152896,
+        "num": 152896,
+        "word": "长大后带家人旅行有多棒",
+        "onboard_time": 1683336208,
+        "rank": 42,
+        "category": "情感,旅游"
+      },
+      {
+        "raw_hot": 151725,
+        "num": 151725,
+        "word": "宋丹丹叫黄磊爸爸",
+        "onboard_time": 1683336808,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148742,
+        "num": 148742,
+        "word": "巴厘岛",
+        "onboard_time": 1683295350,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147929,
+        "num": 147929,
+        "word": "银河护卫队3",
+        "onboard_time": 1683328942,
+        "rank": 45,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 147591,
+        "num": 147591,
+        "word": "广东河源发现全球罕见新物种",
+        "onboard_time": 1683328039,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146969,
+        "num": 146969,
+        "word": "陈都灵看过杨幂的每部戏",
+        "onboard_time": 1683302429,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 70180,
+        "num": 143218,
+        "word": "妖刀C麻了",
+        "onboard_time": 1683298771,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25851,
+        "num": 142399,
+        "word": "听见国乐音乐会",
+        "onboard_time": 1683333689,
+        "rank": 49,
+        "category": "游戏,音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#流动的中国折射市场活力#"
+    }
+  }
+}

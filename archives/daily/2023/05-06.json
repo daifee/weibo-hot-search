@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683335890091,
+  "endTime": 1683337288933,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -9,6 +9,14 @@
       "onboard_time": 1683301112,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2092927,
+      "num": 2092927,
+      "word": "调休",
+      "onboard_time": 1683332792,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1703424,
@@ -75,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1099063,
-      "num": 1099063,
-      "word": "调休",
-      "onboard_time": 1683332792,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 968772,
       "num": 968772,
       "word": "立夏",
@@ -131,20 +131,20 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 824430,
+      "num": 824430,
+      "word": "小贝饿了带货因虚假宣传被罚46万",
+      "onboard_time": 1683291749,
+      "rank": 38,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 793392,
       "num": 793392,
       "word": "唐伯虎 淘汰",
       "onboard_time": 1683300334,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 753577,
-      "num": 753577,
-      "word": "小贝饿了带货因虚假宣传被罚46万",
-      "onboard_time": 1683291749,
-      "rank": 38,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 738648,
@@ -211,12 +211,36 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 469374,
-      "num": 469374,
+      "raw_hot": 474099,
+      "num": 474099,
       "word": "正版少爷和我",
       "onboard_time": 1683333087,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467135,
+      "num": 467135,
+      "word": "男孩掉入黄河被救家长抬羊登门拜谢",
+      "onboard_time": 1683333569,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439650,
+      "num": 439650,
+      "word": "新冠大流行迎来转折点",
+      "onboard_time": 1683334771,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434775,
+      "num": 345827,
+      "word": "未婚先孕六个月跟爸妈坦白",
+      "onboard_time": 1683337049,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 433099,
@@ -227,28 +251,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 391582,
-      "num": 391582,
-      "word": "男孩掉入黄河被救家长抬羊登门拜谢",
-      "onboard_time": 1683333569,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376777,
       "num": 376777,
       "word": "长空之王告王一博代言的眼镜",
       "onboard_time": 1683332729,
       "rank": 22,
       "category": "影视"
-    },
-    {
-      "raw_hot": 338875,
-      "num": 248996,
-      "word": "新冠大流行迎来转折点",
-      "onboard_time": 1683334771,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335267,
@@ -283,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317932,
+      "num": 317932,
+      "word": "秋瓷炫和李彩桦住一个宿舍",
+      "onboard_time": 1683334291,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316390,
       "num": 316390,
       "word": "天狗吃月亮",
@@ -307,6 +323,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 300079,
+      "num": 300079,
+      "word": "拍毕业照前千万别染头",
+      "onboard_time": 1683333328,
+      "rank": 32,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 291830,
       "num": 291830,
       "word": "挖呀挖黄老师回应质疑",
@@ -315,20 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290514,
-      "num": 290514,
-      "word": "秋瓷炫和李彩桦住一个宿舍",
-      "onboard_time": 1683334291,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288495,
       "num": 288495,
       "word": "私砸承重墙高楼楼层工人正在加固",
       "onboard_time": 1683327859,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273201,
+      "num": 273201,
+      "word": "片仔癀涨价到每粒760元",
+      "onboard_time": 1683336569,
+      "rank": 27,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 267524,
@@ -371,20 +395,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244293,
-      "num": 244293,
-      "word": "拍毕业照前千万别染头",
-      "onboard_time": 1683333328,
-      "rank": 32,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 243274,
       "num": 228286,
       "word": "陈都灵看过杨幂的每部戏",
       "onboard_time": 1683302429,
       "rank": 27,
       "category": "影视"
+    },
+    {
+      "raw_hot": 239222,
+      "num": 239222,
+      "word": "店家回应7人吃自助炫300多个螃蟹",
+      "onboard_time": 1683335491,
+      "rank": 28,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 232483,
+      "num": 232483,
+      "word": "杨晓培认领和赵露思的cp名",
+      "onboard_time": 1683335370,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222701,
@@ -467,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196553,
-      "num": 196553,
-      "word": "杨晓培认领和赵露思的cp名",
-      "onboard_time": 1683335370,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195781,
       "num": 195781,
       "word": "大熊猫萌兰用新玩具越狱又失败了",
@@ -539,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176001,
+      "num": 176001,
+      "word": "承重墙被砸1.6亿赔款谁来出",
+      "onboard_time": 1683337169,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173357,
       "num": 156433,
       "word": "张靓颖嗓子",
@@ -587,6 +619,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152896,
+      "num": 152896,
+      "word": "长大后带家人旅行有多棒",
+      "onboard_time": 1683336208,
+      "rank": 42,
+      "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 151725,
+      "num": 151725,
+      "word": "宋丹丹叫黄磊爸爸",
+      "onboard_time": 1683336808,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150920,
       "num": 150920,
       "word": "全员加速中南京",
@@ -603,8 +651,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145381,
-      "num": 145381,
+      "raw_hot": 147929,
+      "num": 147929,
       "word": "银河护卫队3",
       "onboard_time": 1683328942,
       "rank": 38,
@@ -731,8 +779,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23081,
-      "num": 127284,
+      "raw_hot": 25851,
+      "num": 142399,
       "word": "听见国乐音乐会",
       "onboard_time": 1683333689,
       "rank": 49,
