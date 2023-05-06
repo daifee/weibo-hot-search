@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683377157169,
+  "endTime": 1683379089339,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -275,6 +275,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1096107,
+      "num": 1096107,
+      "word": "安庆地震",
+      "onboard_time": 1683377369,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1090970,
+      "num": 1090970,
+      "word": "活死人",
+      "onboard_time": 1683375451,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1074147,
       "num": 1074147,
       "word": "Jiejie女友",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 1041740,
-      "num": 717734,
+      "num": 734566,
       "word": "英国国王查尔斯三世和王后卡米拉加冕",
       "onboard_time": 1683371791,
       "rank": 11,
@@ -305,6 +321,14 @@
       "onboard_time": 1683291749,
       "rank": 38,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1008984,
+      "num": 1008984,
+      "word": "IU认出了10年没见的粉丝",
+      "onboard_time": 1683368429,
+      "rank": 18,
+      "category": "影视"
     },
     {
       "raw_hot": 1002456,
@@ -345,14 +369,6 @@
       "onboard_time": 1683291209,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 889471,
-      "num": 889471,
-      "word": "IU认出了10年没见的粉丝",
-      "onboard_time": 1683368429,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 878274,
@@ -491,6 +507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 625343,
+      "num": 625343,
+      "word": "没药花园 巴厘岛情侣身亡",
+      "onboard_time": 1683370471,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 596291,
       "num": 596291,
       "word": "巴厘岛凶案",
@@ -529,14 +553,6 @@
       "onboard_time": 1683302128,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580185,
-      "num": 580185,
-      "word": "没药花园 巴厘岛情侣身亡",
-      "onboard_time": 1683370471,
-      "rank": 30,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 572343,
@@ -611,20 +627,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 493950,
+      "num": 493950,
+      "word": "夏洛特公主",
+      "onboard_time": 1683375089,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 491157,
       "num": 491157,
       "word": "巴厘岛女性死者生前可能曾遭勒颈",
       "onboard_time": 1683354210,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 488358,
-      "num": 408884,
-      "word": "夏洛特公主",
-      "onboard_time": 1683375089,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 474099,
@@ -811,14 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376866,
-      "num": 376866,
-      "word": "活死人",
-      "onboard_time": 1683375451,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 376777,
       "num": 376777,
       "word": "长空之王告王一博代言的眼镜",
@@ -897,6 +905,14 @@
       "onboard_time": 1683361470,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339243,
+      "num": 339243,
+      "word": "五月天吧",
+      "onboard_time": 1683373708,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 338730,
@@ -1075,6 +1091,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 297937,
+      "num": 297937,
+      "word": "杨和苏",
+      "onboard_time": 1683374968,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292837,
       "num": 270602,
       "word": "女子瓦格纳雇佣兵本人辟谣",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1683358288,
       "rank": 30,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 291987,
-      "num": 291987,
-      "word": "五月天吧",
-      "onboard_time": 1683373708,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 291830,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1683337950,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285196,
+      "num": 285196,
+      "word": "黄晓明 0是啥意思",
+      "onboard_time": 1683378691,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 285091,
@@ -1227,12 +1251,12 @@
       "category": "社会新闻,自然"
     },
     {
-      "raw_hot": 259569,
-      "num": 259569,
-      "word": "杨和苏",
-      "onboard_time": 1683374968,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 260698,
+      "num": 260698,
+      "word": "刘些宁戴牙套了",
+      "onboard_time": 1683376827,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 258155,
@@ -1331,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238594,
+      "num": 238594,
+      "word": "长月烬明网飞也是40集",
+      "onboard_time": 1683375631,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237183,
       "num": 237183,
       "word": "永远会被东北的物价感动",
@@ -1363,6 +1395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232385,
+      "num": 224355,
+      "word": "Ella教张嘉倪哼唱",
+      "onboard_time": 1683376228,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232296,
       "num": 232296,
       "word": "安九",
@@ -1393,14 +1433,6 @@
       "onboard_time": 1683276569,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222121,
-      "num": 222121,
-      "word": "长月烬明网飞也是40集",
-      "onboard_time": 1683375631,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 222004,
@@ -1699,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186706,
+      "num": 186706,
+      "word": "金晨给朱珠送平凡暖心包",
+      "onboard_time": 1683378630,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185709,
       "num": 185709,
       "word": "街舞6你期待哪位队长回归",
@@ -1883,14 +1923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153700,
-      "num": 153700,
-      "word": "Ella教张嘉倪哼唱",
-      "onboard_time": 1683376228,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152896,
       "num": 152896,
       "word": "长大后带家人旅行有多棒",
@@ -1947,14 +1979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149022,
-      "num": 149022,
-      "word": "刘些宁戴牙套了",
-      "onboard_time": 1683376827,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147929,
       "num": 147929,
       "word": "银河护卫队3",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1683356309,
       "rank": 46,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 144164,
+      "num": 144164,
+      "word": "LGD再次绝境翻盘",
+      "onboard_time": 1683378271,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 144118,
@@ -2123,12 +2155,28 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 114150,
+      "num": 114150,
+      "word": "五星出东方 抄袭",
+      "onboard_time": 1683377310,
+      "rank": 47,
+      "category": "影视"
+    },
+    {
       "raw_hot": 111273,
       "num": 111273,
       "word": "胡锡进 钱只有是爱和责任的资源时才会来",
       "onboard_time": 1683358172,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110878,
+      "num": 184469,
+      "word": "00后淘宝卖扳手收入300万",
+      "onboard_time": 1683374428,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107539,
@@ -2152,14 +2200,6 @@
       "word": "6岁女童检查异常医生强制报告",
       "onboard_time": 1683275187,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104952,
-      "num": 184469,
-      "word": "00后淘宝卖扳手收入300万",
-      "onboard_time": 1683374428,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
