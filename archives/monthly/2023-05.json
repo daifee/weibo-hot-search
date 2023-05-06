@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683379089339,
+  "endTime": 1683380005208,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -1083,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1309236,
+      "num": 1309236,
+      "word": "活死人",
+      "onboard_time": 1683375451,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1298777,
       "num": 386107,
       "word": "工资3500突然变成了一万",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1683083071,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1248351,
+      "num": 1248351,
+      "word": "安庆地震",
+      "onboard_time": 1683377369,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1244972,
@@ -1371,6 +1387,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 1137689,
+      "num": 1137689,
+      "word": "黄晓明 0是啥意思",
+      "onboard_time": 1683378691,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1133149,
       "num": 1133149,
       "word": "景区2天内捡了23个娃",
@@ -1441,22 +1465,6 @@
       "onboard_time": 1683344731,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1096107,
-      "num": 1096107,
-      "word": "安庆地震",
-      "onboard_time": 1683377369,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1090970,
-      "num": 1090970,
-      "word": "活死人",
-      "onboard_time": 1683375451,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1086920,
@@ -2435,6 +2443,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 687956,
+      "num": 687956,
+      "word": "没药花园 巴厘岛情侣身亡",
+      "onboard_time": 1683370471,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 685337,
       "num": 409840,
       "word": "蔡少芬曾说张丹峰坏坏的",
@@ -2593,14 +2609,6 @@
       "onboard_time": 1682991928,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 625343,
-      "num": 625343,
-      "word": "没药花园 巴厘岛情侣身亡",
-      "onboard_time": 1683370471,
-      "rank": 30,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 624496,
@@ -3243,6 +3251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 518158,
+      "num": 518158,
+      "word": "夏洛特公主",
+      "onboard_time": 1683375089,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 511979,
       "num": 511979,
       "word": "张文宏 大流行已经过去",
@@ -3369,14 +3385,6 @@
       "onboard_time": 1683365370,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493950,
-      "num": 493950,
-      "word": "夏洛特公主",
-      "onboard_time": 1683375089,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 492091,
@@ -5755,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302599,
+      "num": 302599,
+      "word": "金晨给朱珠送平凡暖心包",
+      "onboard_time": 1683378630,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "五一",
@@ -6089,14 +6105,6 @@
       "onboard_time": 1683037241,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285196,
-      "num": 285196,
-      "word": "黄晓明 0是啥意思",
-      "onboard_time": 1683378691,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 285091,
@@ -6555,6 +6563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 264091,
+      "num": 264091,
+      "word": "刘些宁戴牙套了",
+      "onboard_time": 1683376827,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263757,
       "num": 263757,
       "word": "杨鸣 战术",
@@ -6649,14 +6665,6 @@
       "onboard_time": 1683355948,
       "rank": 30,
       "category": "社会新闻,自然"
-    },
-    {
-      "raw_hot": 260698,
-      "num": 260698,
-      "word": "刘些宁戴牙套了",
-      "onboard_time": 1683376827,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 259721,
@@ -6993,6 +7001,14 @@
       "onboard_time": 1683338551,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248766,
+      "num": 248766,
+      "word": "Ella教张嘉倪哼唱",
+      "onboard_time": 1683376228,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 248518,
@@ -7355,6 +7371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 238558,
+      "num": 238558,
+      "word": "白鹿片场行为",
+      "onboard_time": 1683379172,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 237944,
       "num": 197878,
       "word": "丈夫判无期女子用假证明再婚获缓刑",
@@ -7633,14 +7657,6 @@
       "onboard_time": 1683335370,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232385,
-      "num": 224355,
-      "word": "Ella教张嘉倪哼唱",
-      "onboard_time": 1683376228,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 232296,
@@ -9203,6 +9219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 195106,
+      "num": 195106,
+      "word": "和三年没联系的闺蜜和好了",
+      "onboard_time": 1683379531,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195027,
       "num": 195027,
       "word": "巴厘岛情侣遇害案警方仍未定性",
@@ -9491,6 +9515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188086,
+      "num": 166296,
+      "word": "腾讯综艺剧集自产自销了",
+      "onboard_time": 1683379473,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188078,
       "num": 188078,
       "word": "第三节的辽宁男篮",
@@ -9545,14 +9577,6 @@
       "onboard_time": 1683328039,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186706,
-      "num": 186706,
-      "word": "金晨给朱珠送平凡暖心包",
-      "onboard_time": 1683378630,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 186634,
@@ -12019,6 +12043,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 122679,
+      "num": 122679,
+      "word": "买车买房婚育能激励你努力工作吗",
+      "onboard_time": 1683376228,
+      "rank": 49,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 122515,
       "num": 122515,
       "word": "长空之王单日票房破亿",
@@ -12976,6 +13008,14 @@
       "word": "多公司假后晚到不计考勤",
       "onboard_time": 1683183629,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62373,
+      "num": 1327860,
+      "word": "当千里江山图遇上锦绣江苏",
+      "onboard_time": 1683379230,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
