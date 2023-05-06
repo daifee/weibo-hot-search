@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683329616174,
+  "endTime": 1683335890091,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -11,12 +11,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1703424,
+      "num": 1703424,
+      "word": "极乐净土",
+      "onboard_time": 1683294812,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1676294,
+      "num": 1090078,
+      "word": "咽喉炎",
+      "onboard_time": 1683329422,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1581186,
       "num": 1581186,
       "word": "为什么香飘飘卖不动了",
       "onboard_time": 1683298771,
       "rank": 1,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1416556,
+      "num": 1416556,
+      "word": "挖呀挖走红的桃子老师称很焦虑",
+      "onboard_time": 1683301651,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1324202,
@@ -27,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1190970,
+      "num": 1190970,
+      "word": "学生五一前请假遭拒强行离校被处分",
+      "onboard_time": 1683327859,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1181714,
       "num": 1181714,
       "word": "狗被确诊智障了",
@@ -35,28 +67,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1068835,
-      "num": 1068835,
-      "word": "极乐净土",
-      "onboard_time": 1683294812,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1013734,
-      "num": 465168,
+      "raw_hot": 1146949,
+      "num": 683032,
       "word": "巴厘岛遇害情侣系同事关系",
       "onboard_time": 1683284667,
       "rank": 23,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1006070,
-      "num": 1006070,
-      "word": "挖呀挖走红的桃子老师称很焦虑",
-      "onboard_time": 1683301651,
-      "rank": 14,
-      "category": "社会新闻,教育"
+      "raw_hot": 1099063,
+      "num": 1099063,
+      "word": "调休",
+      "onboard_time": 1683332792,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 968772,
+      "num": 968772,
+      "word": "立夏",
+      "onboard_time": 1683307097,
+      "rank": 1,
+      "category": "自然"
     },
     {
       "raw_hot": 923117,
@@ -91,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 852555,
+      "num": 852555,
+      "word": "谢娜初舞台制作人是张杰",
+      "onboard_time": 1683299852,
+      "rank": 13,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 793392,
       "num": 793392,
       "word": "唐伯虎 淘汰",
@@ -99,28 +139,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 753577,
+      "num": 753577,
+      "word": "小贝饿了带货因虚假宣传被罚46万",
+      "onboard_time": 1683291749,
+      "rank": 38,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 738648,
       "num": 738648,
       "word": "浪姐4谢娜人气排第一",
       "onboard_time": 1683292770,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 669969,
-      "num": 595333,
-      "word": "谢娜初舞台制作人是张杰",
-      "onboard_time": 1683299852,
-      "rank": 13,
-      "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 658617,
-      "num": 658617,
-      "word": "立夏",
-      "onboard_time": 1683307097,
-      "rank": 1,
-      "category": "自然"
     },
     {
       "raw_hot": 632434,
@@ -147,11 +179,43 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534075,
+      "num": 415618,
+      "word": "和相恋11年的男友分手了",
+      "onboard_time": 1683330386,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 521168,
       "num": 299944,
       "word": "宋雨琦把关晓彤挠下去了",
       "onboard_time": 1683294153,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 511979,
+      "num": 511979,
+      "word": "张文宏 大流行已经过去",
+      "onboard_time": 1683331166,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495865,
+      "num": 495865,
+      "word": "肖战跳的极乐净土",
+      "onboard_time": 1683330866,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 469374,
+      "num": 469374,
+      "word": "正版少爷和我",
+      "onboard_time": 1683333087,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -163,12 +227,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 399741,
-      "num": 399741,
-      "word": "学生五一前请假遭拒强行离校被处分",
-      "onboard_time": 1683327859,
+      "raw_hot": 391582,
+      "num": 391582,
+      "word": "男孩掉入黄河被救家长抬羊登门拜谢",
+      "onboard_time": 1683333569,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376777,
+      "num": 376777,
+      "word": "长空之王告王一博代言的眼镜",
+      "onboard_time": 1683332729,
+      "rank": 22,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 338875,
+      "num": 248996,
+      "word": "新冠大流行迎来转折点",
+      "onboard_time": 1683334771,
       "rank": 30,
-      "category": "教育,社会新闻"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335267,
@@ -195,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327535,
-      "num": 327535,
-      "word": "小贝饿了带货因虚假宣传被罚46万",
-      "onboard_time": 1683291749,
-      "rank": 38,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 321603,
       "num": 321603,
       "word": "普通人怎么拥有千万资产",
@@ -219,6 +291,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 312650,
+      "num": 312650,
+      "word": "向往的生活下期预告",
+      "onboard_time": 1683331527,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302489,
       "num": 302489,
       "word": "林一你换个发型吧",
@@ -227,12 +307,36 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 291830,
+      "num": 291830,
+      "word": "挖呀挖黄老师回应质疑",
+      "onboard_time": 1683330024,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290514,
+      "num": 290514,
+      "word": "秋瓷炫和李彩桦住一个宿舍",
+      "onboard_time": 1683334291,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288495,
       "num": 288495,
       "word": "私砸承重墙高楼楼层工人正在加固",
       "onboard_time": 1683327859,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267524,
+      "num": 267524,
+      "word": "秦霄贤报平安",
+      "onboard_time": 1683334352,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 263321,
@@ -249,6 +353,30 @@
       "onboard_time": 1683297814,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258155,
+      "num": 258155,
+      "word": "yuyanjia确定复出",
+      "onboard_time": 1683332127,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 245234,
+      "num": 245234,
+      "word": "R1SE龙丹妮聚餐合照",
+      "onboard_time": 1683329605,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 244293,
+      "num": 244293,
+      "word": "拍毕业照前千万别染头",
+      "onboard_time": 1683333328,
+      "rank": 32,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 243274,
@@ -291,12 +419,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205774,
+      "num": 205774,
+      "word": "今天周六 今天上班",
+      "onboard_time": 1683332792,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 205044,
+      "num": 205044,
+      "word": "长空之王 海伦凯勒",
+      "onboard_time": 1683333871,
+      "rank": 34,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201933,
       "num": 201933,
       "word": "性格内向的朋友们狠狠共鸣",
       "onboard_time": 1683303207,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 199077,
+      "num": 199077,
+      "word": "唐山铁矿透水事故后县委书记牵头谎报",
+      "onboard_time": 1683331708,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198543,
@@ -313,6 +465,14 @@
       "onboard_time": 1683299193,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196553,
+      "num": 196553,
+      "word": "杨晓培认领和赵露思的cp名",
+      "onboard_time": 1683335370,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195781,
@@ -339,8 +499,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 184657,
-      "num": 133401,
+      "raw_hot": 186736,
+      "num": 249105,
       "word": "广东河源发现全球罕见新物种",
       "onboard_time": 1683328039,
       "rank": 33,
@@ -361,6 +521,14 @@
       "onboard_time": 1683298055,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 180970,
+      "num": 180970,
+      "word": "女孩给特警男友全队寄了一箱修眉刀",
+      "onboard_time": 1683307642,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177748,
@@ -385,14 +553,6 @@
       "onboard_time": 1683288268,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 169876,
-      "num": 133349,
-      "word": "女孩给特警男友全队寄了一箱修眉刀",
-      "onboard_time": 1683307642,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167632,
@@ -427,20 +587,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 149535,
-      "num": 149535,
-      "word": "R1SE龙丹妮聚餐合照",
-      "onboard_time": 1683329605,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 145932,
-      "num": 145932,
+      "raw_hot": 150920,
+      "num": 150920,
       "word": "全员加速中南京",
       "onboard_time": 1683328100,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149941,
+      "num": 149941,
+      "word": "卢靖姗马甲线",
+      "onboard_time": 1683331527,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145381,
+      "num": 145381,
+      "word": "银河护卫队3",
+      "onboard_time": 1683328942,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 137359,
@@ -465,14 +633,6 @@
       "onboard_time": 1683326477,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128165,
-      "num": 128165,
-      "word": "咽喉炎",
-      "onboard_time": 1683329422,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127528,
@@ -515,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105383,
-      "num": 105383,
-      "word": "银河护卫队3",
-      "onboard_time": 1683328942,
-      "rank": 38,
-      "category": "影视"
-    },
-    {
       "raw_hot": 103359,
       "num": 103359,
       "word": "瞿颖个人简介",
@@ -555,6 +707,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 63414,
+      "num": 1419254,
+      "word": "天舟五号撤离空间站",
+      "onboard_time": 1683291871,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 49764,
       "num": 95592,
       "word": "狼队晋级春季赛总决赛",
@@ -563,20 +723,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 49718,
-      "num": 1419254,
-      "word": "天舟五号撤离空间站",
-      "onboard_time": 1683291871,
-      "rank": 2,
-      "category": "科技"
-    },
-    {
       "raw_hot": 27098,
       "num": 25826,
       "word": "龚琳娜妈宝女",
       "onboard_time": 1683312913,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23081,
+      "num": 127284,
+      "word": "听见国乐音乐会",
+      "onboard_time": 1683333689,
+      "rank": 49,
+      "category": "游戏,音乐"
     },
     {
       "raw_hot": 23060,
