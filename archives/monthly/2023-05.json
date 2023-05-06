@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683364523154,
+  "endTime": 1683365613820,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -1091,6 +1091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1287286,
+      "num": 1287286,
+      "word": "奔跑吧回应收视率创新低",
+      "onboard_time": 1683360150,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1281127,
       "num": 604449,
       "word": "诺一何炅撞脸",
@@ -1363,6 +1371,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 1116108,
+      "num": 1116108,
+      "word": "妲己为什么总喂纣王吃葡萄",
+      "onboard_time": 1683354028,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1115494,
       "num": 1115494,
       "word": "陈晓觉得陈妍希最适合拍戏",
@@ -1601,14 +1617,6 @@
       "onboard_time": 1683294871,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 999113,
-      "num": 999113,
-      "word": "妲己为什么总喂纣王吃葡萄",
-      "onboard_time": 1683354028,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 998690,
@@ -2011,6 +2019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 807713,
+      "num": 502934,
+      "word": "为何穿了外衣却还要穿内衣",
+      "onboard_time": 1683361650,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 800034,
       "num": 800034,
       "word": "范丞丞情商",
@@ -2043,14 +2059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 787844,
-      "num": 787844,
-      "word": "奔跑吧回应收视率创新低",
-      "onboard_time": 1683360150,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 777124,
       "num": 777124,
       "word": "今年五一这10大景区人最多",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1683016110,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 769945,
-      "num": 502934,
-      "word": "为何穿了外衣却还要穿内衣",
-      "onboard_time": 1683361650,
-      "rank": 34,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 767021,
@@ -2113,6 +2113,14 @@
       "onboard_time": 1682995347,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 750326,
+      "num": 750326,
+      "word": "迪丽热巴或将演万渣朝凰",
+      "onboard_time": 1683363811,
+      "rank": 13,
+      "category": "影视"
     },
     {
       "raw_hot": 749995,
@@ -3259,14 +3267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 488179,
-      "num": 488179,
-      "word": "迪丽热巴或将演万渣朝凰",
-      "onboard_time": 1683363811,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 486663,
       "num": 486663,
       "word": "人民网评长空之王",
@@ -3699,6 +3699,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 438703,
+      "num": 438703,
+      "word": "朱珠让给她文学",
+      "onboard_time": 1683362071,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438138,
       "num": 438138,
       "word": "赵又廷张子枫新剧官宣",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1682989406,
       "rank": 22,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 435937,
+      "num": 289226,
+      "word": "好朋友退出群聊了",
+      "onboard_time": 1683362123,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 435152,
@@ -3761,14 +3777,6 @@
       "onboard_time": 1682861010,
       "rank": 17,
       "category": "影视"
-    },
-    {
-      "raw_hot": 433106,
-      "num": 433106,
-      "word": "朱珠让给她文学",
-      "onboard_time": 1683362071,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 433099,
@@ -4017,14 +4025,6 @@
       "onboard_time": 1683345514,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 405737,
-      "num": 289226,
-      "word": "好朋友退出群聊了",
-      "onboard_time": 1683362123,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 405553,
@@ -4969,6 +4969,14 @@
       "onboard_time": 1683220698,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333655,
+      "num": 333655,
+      "word": "孙悟空对女孩子真的很温柔",
+      "onboard_time": 1683362552,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 332824,
@@ -6075,6 +6083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270549,
+      "num": 270549,
+      "word": "想念浪3",
+      "onboard_time": 1683361711,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270041,
       "num": 235264,
       "word": "澹台烬演魔神被识破",
@@ -6427,14 +6443,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 255619,
-      "num": 255619,
-      "word": "想念浪3",
-      "onboard_time": 1683361711,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255614,
       "num": 255614,
       "word": "长空之王成五一档总票房冠军",
@@ -6587,20 +6595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251281,
-      "num": 251281,
-      "word": "孙悟空对女孩子真的很温柔",
-      "onboard_time": 1683362552,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 251211,
       "num": 251211,
       "word": "黄景瑜说严浩翔误入歧途",
       "onboard_time": 1682928988,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251171,
+      "num": 251171,
+      "word": "山姆回应",
+      "onboard_time": 1683364889,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251015,
@@ -6936,6 +6944,14 @@
       "word": "这届年轻人现状",
       "onboard_time": 1683162328,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241571,
+      "num": 241571,
+      "word": "巴厘岛女性死者系在校大学生",
+      "onboard_time": 1683361228,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -7539,6 +7555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224471,
+      "num": 224471,
+      "word": "查尔斯加冕典礼",
+      "onboard_time": 1683365253,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 224453,
       "num": 132705,
       "word": "张新成演技",
@@ -7731,6 +7755,14 @@
       "category": "情感,综艺"
     },
     {
+      "raw_hot": 219552,
+      "num": 219552,
+      "word": "吃蒜薹一定要先焯水",
+      "onboard_time": 1683364591,
+      "rank": 33,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 219403,
       "num": 216684,
       "word": "澹台烬黎苏苏又要结婚了",
@@ -7801,6 +7833,14 @@
       "onboard_time": 1683258692,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217740,
+      "num": 217740,
+      "word": "大唐不夜城公孙离热",
+      "onboard_time": 1683364411,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 217721,
@@ -8008,14 +8048,6 @@
       "word": "女子为见分手男友坐9小时顺风车",
       "onboard_time": 1683265709,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 213415,
-      "num": 213415,
-      "word": "巴厘岛女性死者系在校大学生",
-      "onboard_time": 1683361228,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -9307,6 +9339,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 181220,
+      "num": 181220,
+      "word": "狲思邈去世后现在的西野怎么样了",
+      "onboard_time": 1683365192,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180970,
       "num": 180970,
       "word": "女孩给特警男友全队寄了一箱修眉刀",
@@ -9707,6 +9747,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 174677,
+      "num": 174677,
+      "word": "原来王一博也跳过极乐净土",
+      "onboard_time": 1683364831,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174630,
       "num": 178184,
       "word": "DRG巅峰对决eStar",
@@ -9721,6 +9769,14 @@
       "onboard_time": 1683115229,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174549,
+      "num": 174549,
+      "word": "如何把上厕所说的优雅一点",
+      "onboard_time": 1683362909,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 174489,
@@ -10075,14 +10131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 164983,
-      "num": 164983,
-      "word": "如何把上厕所说的优雅一点",
-      "onboard_time": 1683362909,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164748,
       "num": 164748,
       "word": "过敏原能有多离谱",
@@ -10193,6 +10241,14 @@
       "onboard_time": 1683155181,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162427,
+      "num": 162427,
+      "word": "易烊千玺自己请自己",
+      "onboard_time": 1683365370,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 162273,
@@ -10979,14 +11035,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139800,
-      "num": 139800,
-      "word": "大唐不夜城公孙离热",
-      "onboard_time": 1683364411,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 139183,
       "num": 139183,
       "word": "喜欢你我也是",
@@ -11219,6 +11267,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 130089,
+      "num": 130089,
+      "word": "抢票攻略",
+      "onboard_time": 1683362552,
+      "rank": 49,
+      "category": "情感,艺人"
+    },
+    {
       "raw_hot": 129928,
       "num": 129928,
       "word": "天津音乐节",
@@ -11417,14 +11473,6 @@
       "onboard_time": 1682958924,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125724,
-      "num": 125724,
-      "word": "抢票攻略",
-      "onboard_time": 1683362552,
-      "rank": 49,
-      "category": "情感,艺人"
     },
     {
       "raw_hot": 125210,
