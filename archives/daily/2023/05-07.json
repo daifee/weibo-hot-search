@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683408816172,
+  "endTime": 1683411317739,
   "band_list": [
     {
       "raw_hot": 2048424,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32411,
+      "num": 32411,
+      "word": "周深白鹿友情",
+      "onboard_time": 1683408552,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29884,
       "num": 29884,
       "word": "你好星期六",
@@ -499,8 +507,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 21998,
-      "num": 21998,
+      "raw_hot": 26380,
+      "num": 26380,
+      "word": "一只不爱睡觉的熊猫",
+      "onboard_time": 1683405612,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 25319,
+      "num": 25319,
       "word": "全红婵207C满分完成",
       "onboard_time": 1683404413,
       "rank": 43,
@@ -515,20 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13632,
-      "num": 19058,
-      "word": "周深白鹿友情",
-      "onboard_time": 1683408552,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 13277,
-      "num": 19053,
-      "word": "一只不爱睡觉的熊猫",
-      "onboard_time": 1683405612,
-      "rank": 48,
-      "category": "幽默,情感"
+      "raw_hot": 18849,
+      "num": 23341,
+      "word": "巴厘岛情侣",
+      "onboard_time": 1683265167,
+      "rank": 44,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
