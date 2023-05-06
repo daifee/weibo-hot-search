@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683350113265,
+  "endTime": 1683351216896,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1699432,
-      "num": 272277,
+      "num": 1334347,
       "word": "四川泸州地震",
       "onboard_time": 1683349955,
       "rank": 30,
@@ -123,12 +123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1328184,
+      "num": 1328184,
+      "word": "巴厘岛凶案酒店称形象严重受损",
+      "onboard_time": 1683347975,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1324202,
       "num": 1324202,
       "word": "韩庚",
       "onboard_time": 1683300631,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1295246,
+      "num": 1295246,
+      "word": "安以轩老公赌场是如何运作的",
+      "onboard_time": 1683347975,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1190970,
@@ -169,14 +185,6 @@
       "onboard_time": 1683344731,
       "rank": 8,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1053313,
-      "num": 1053313,
-      "word": "安以轩老公赌场是如何运作的",
-      "onboard_time": 1683347975,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 1044295,
@@ -259,14 +267,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 846106,
-      "num": 846106,
-      "word": "巴厘岛凶案酒店称形象严重受损",
-      "onboard_time": 1683347975,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 819376,
       "num": 819376,
       "word": "李俊濠签约龙韬娱乐",
@@ -339,6 +339,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 556261,
+      "num": 556261,
+      "word": "知否演员最新合照",
+      "onboard_time": 1683348696,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 534075,
       "num": 415618,
       "word": "和相恋11年的男友分手了",
@@ -353,14 +361,6 @@
       "onboard_time": 1683294153,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 515239,
-      "num": 515239,
-      "word": "知否演员最新合照",
-      "onboard_time": 1683348696,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 511979,
@@ -401,6 +401,14 @@
       "onboard_time": 1683341310,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 458987,
+      "num": 445963,
+      "word": "网友癌症靶向药落在公交车被大妈捡走",
+      "onboard_time": 1683350132,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449748,
@@ -459,6 +467,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 386954,
+      "num": 386954,
+      "word": "aespa向公司要求拍摄新专MV",
+      "onboard_time": 1683350014,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 382607,
       "num": 382607,
       "word": "东莞东城回应连续8天安排核酸检测",
@@ -513,6 +529,14 @@
       "onboard_time": 1683279570,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335177,
+      "num": 335177,
+      "word": "杜兰特状态",
+      "onboard_time": 1683349416,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 333004,
@@ -627,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269104,
-      "num": 269104,
-      "word": "杜兰特状态",
-      "onboard_time": 1683349416,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 267524,
       "num": 267524,
       "word": "秦霄贤报平安",
@@ -715,12 +731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239570,
+      "num": 239570,
+      "word": "挖呀挖",
+      "onboard_time": 1683350493,
+      "rank": 31,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 237183,
       "num": 237183,
       "word": "永远会被东北的物价感动",
       "onboard_time": 1683349234,
       "rank": 38,
       "category": "美食,情感"
+    },
+    {
+      "raw_hot": 236597,
+      "num": 236597,
+      "word": "史航事件双方为何都不报警",
+      "onboard_time": 1683346832,
+      "rank": 40,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 232483,
@@ -745,14 +777,6 @@
       "onboard_time": 1683339870,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 220406,
-      "num": 220406,
-      "word": "史航事件双方为何都不报警",
-      "onboard_time": 1683346832,
-      "rank": 40,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 217269,
@@ -819,6 +843,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 204648,
+      "num": 204648,
+      "word": "张艺凡新剧黑天鹅造型",
+      "onboard_time": 1683350850,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 201933,
       "num": 201933,
       "word": "性格内向的朋友们狠狠共鸣",
@@ -857,14 +889,6 @@
       "onboard_time": 1683299193,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197196,
-      "num": 197196,
-      "word": "aespa向公司要求拍摄新专MV",
-      "onboard_time": 1683350014,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 197165,
@@ -921,6 +945,14 @@
       "onboard_time": 1683298771,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187085,
+      "num": 187085,
+      "word": "乘风2023COSMO肆意乘风大片",
+      "onboard_time": 1683350429,
+      "rank": 44,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 186736,
@@ -1179,7 +1211,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 86360,
+      "raw_hot": 92466,
       "num": 759511,
       "word": "主播是吃年轻饭的职业吗",
       "onboard_time": 1683348215,

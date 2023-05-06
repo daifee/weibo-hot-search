@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683350113265,
+  "endTime": 1683351216896,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 1699432,
-      "num": 272277,
+      "num": 1334347,
       "word": "四川泸州地震",
       "onboard_time": 1683349955,
       "rank": 30,
@@ -971,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328184,
+      "num": 1328184,
+      "word": "巴厘岛凶案酒店称形象严重受损",
+      "onboard_time": 1683347975,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1324202,
       "num": 1324202,
       "word": "韩庚",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1683258331,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1295246,
+      "num": 1295246,
+      "word": "安以轩老公赌场是如何运作的",
+      "onboard_time": 1683347975,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1292098,
@@ -1419,14 +1435,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 1053313,
-      "num": 1053313,
-      "word": "安以轩老公赌场是如何运作的",
-      "onboard_time": 1683347975,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1052653,
       "num": 1052653,
       "word": "湖人1比0勇士",
@@ -1801,14 +1809,6 @@
       "onboard_time": 1683299852,
       "rank": 11,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 846106,
-      "num": 846106,
-      "word": "巴厘岛凶案酒店称形象严重受损",
-      "onboard_time": 1683347975,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 842605,
@@ -2739,6 +2739,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 556261,
+      "num": 556261,
+      "word": "知否演员最新合照",
+      "onboard_time": 1683348696,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 553685,
       "num": 553685,
       "word": "一位小哥在韩国受到了歧视",
@@ -3001,14 +3009,6 @@
       "onboard_time": 1682902890,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 515239,
-      "num": 515239,
-      "word": "知否演员最新合照",
-      "onboard_time": 1683348696,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 511979,
@@ -3369,6 +3369,14 @@
       "onboard_time": 1683019228,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 458987,
+      "num": 445963,
+      "word": "网友癌症靶向药落在公交车被大妈捡走",
+      "onboard_time": 1683350132,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 458758,
@@ -4091,6 +4099,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 386954,
+      "num": 386954,
+      "word": "aespa向公司要求拍摄新专MV",
+      "onboard_time": 1683350014,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 386853,
       "num": 386853,
       "word": "性骚扰事件 不用考虑直接告",
@@ -4737,6 +4753,14 @@
       "onboard_time": 1683255990,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335177,
+      "num": 335177,
+      "word": "杜兰特状态",
+      "onboard_time": 1683349416,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 334101,
@@ -5851,14 +5875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269104,
-      "num": 269104,
-      "word": "杜兰特状态",
-      "onboard_time": 1683349416,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 268961,
       "num": 268961,
       "word": "艺人和粉丝的关系",
@@ -6683,6 +6699,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 239570,
+      "num": 239570,
+      "word": "挖呀挖",
+      "onboard_time": 1683350493,
+      "rank": 31,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 239288,
       "num": 239288,
       "word": "当代年轻人是懂省钱看世界的",
@@ -6777,6 +6801,14 @@
       "onboard_time": 1683102689,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236597,
+      "num": 236597,
+      "word": "史航事件双方为何都不报警",
+      "onboard_time": 1683346832,
+      "rank": 40,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 236543,
@@ -7361,14 +7393,6 @@
       "onboard_time": 1683181887,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 220406,
-      "num": 220406,
-      "word": "史航事件双方为何都不报警",
-      "onboard_time": 1683346832,
-      "rank": 40,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 219972,
@@ -8019,6 +8043,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 204648,
+      "num": 204648,
+      "word": "张艺凡新剧黑天鹅造型",
+      "onboard_time": 1683350850,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 204568,
       "num": 204568,
       "word": "母亲给五一返程女儿塞80斤特产",
@@ -8321,14 +8353,6 @@
       "onboard_time": 1682944589,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 197196,
-      "num": 197196,
-      "word": "aespa向公司要求拍摄新专MV",
-      "onboard_time": 1683350014,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 197165,
@@ -8721,6 +8745,14 @@
       "onboard_time": 1683122314,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187085,
+      "num": 187085,
+      "word": "乘风2023COSMO肆意乘风大片",
+      "onboard_time": 1683350429,
+      "rank": 44,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 186920,
@@ -11619,6 +11651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 92466,
+      "num": 759511,
+      "word": "主播是吃年轻饭的职业吗",
+      "onboard_time": 1683348215,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91814,
       "num": 1220997,
       "word": "藏在这场人从众里的世间温柔",
@@ -11681,14 +11721,6 @@
       "onboard_time": 1682849127,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86360,
-      "num": 759511,
-      "word": "主播是吃年轻饭的职业吗",
-      "onboard_time": 1683348215,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85937,
