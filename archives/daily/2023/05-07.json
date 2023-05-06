@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683400364432,
+  "endTime": 1683401591213,
   "band_list": [
     {
       "raw_hot": 2048424,
@@ -483,11 +483,27 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28127,
-      "num": 28127,
+      "raw_hot": 29884,
+      "num": 29884,
       "word": "你好星期六",
       "onboard_time": 1683399554,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28995,
+      "num": 28995,
+      "word": "挖呀挖呀挖",
+      "onboard_time": 1683295172,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 19444,
+      "num": 24541,
+      "word": "吴倩张嘉倪",
+      "onboard_time": 1683291209,
+      "rank": 48,
       "category": "综艺"
     }
   ],

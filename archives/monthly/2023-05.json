@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683400364432,
+  "endTime": 1683401591213,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -13675,20 +13675,20 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 29884,
+      "num": 29884,
+      "word": "你好星期六",
+      "onboard_time": 1683399554,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28246,
       "num": 33241,
       "word": "歌剧演员四重唱一开口就是青春的模样",
       "onboard_time": 1682969413,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28127,
-      "num": 28127,
-      "word": "你好星期六",
-      "onboard_time": 1683399554,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 27402,
