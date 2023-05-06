@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683407684413,
+  "endTime": 1683408816172,
   "band_list": [
     {
       "raw_hot": 2048424,
@@ -499,8 +499,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 19971,
-      "num": 19971,
+      "raw_hot": 21998,
+      "num": 21998,
       "word": "全红婵207C满分完成",
       "onboard_time": 1683404413,
       "rank": 43,
@@ -513,6 +513,22 @@
       "onboard_time": 1683291209,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13632,
+      "num": 19058,
+      "word": "周深白鹿友情",
+      "onboard_time": 1683408552,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13277,
+      "num": 19053,
+      "word": "一只不爱睡觉的熊猫",
+      "onboard_time": 1683405612,
+      "rank": 48,
+      "category": "幽默,情感"
     }
   ],
   "hotgov_list": [
