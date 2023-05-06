@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683337288933,
+  "endTime": 1683340192115,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -11,11 +11,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2183502,
+      "num": 1266542,
+      "word": "未婚先孕六个月跟爸妈坦白",
+      "onboard_time": 1683337049,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2092927,
       "num": 2092927,
       "word": "调休",
       "onboard_time": 1683332792,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2082687,
+      "num": 2082687,
+      "word": "承重墙被砸1.6亿赔款谁来出",
+      "onboard_time": 1683337169,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -51,12 +67,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1348599,
+      "num": 1348599,
+      "word": "吴倩小心翼翼的样子好心疼",
+      "onboard_time": 1683338730,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1324202,
       "num": 1324202,
       "word": "韩庚",
       "onboard_time": 1683300631,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1244368,
+      "num": 1244368,
+      "word": "南昌咬人",
+      "onboard_time": 1683338130,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1190970,
@@ -83,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990785,
+      "num": 990785,
+      "word": "小贝饿了带货因虚假宣传被罚46万",
+      "onboard_time": 1683291749,
+      "rank": 38,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 968772,
       "num": 968772,
       "word": "立夏",
@@ -97,6 +137,14 @@
       "onboard_time": 1683301171,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 917899,
+      "num": 917899,
+      "word": "墨西哥一男子因性侵5岁女孩被杀害",
+      "onboard_time": 1683337709,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 895356,
@@ -129,14 +177,6 @@
       "onboard_time": 1683299852,
       "rank": 13,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 824430,
-      "num": 824430,
-      "word": "小贝饿了带货因虚假宣传被罚46万",
-      "onboard_time": 1683291749,
-      "rank": 38,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 793392,
@@ -177,6 +217,14 @@
       "onboard_time": 1683302128,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536875,
+      "num": 536875,
+      "word": "片仔癀涨价到每粒760元",
+      "onboard_time": 1683336569,
+      "rank": 27,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 534075,
@@ -227,20 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439650,
-      "num": 439650,
+      "raw_hot": 447338,
+      "num": 447338,
       "word": "新冠大流行迎来转折点",
       "onboard_time": 1683334771,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 434775,
-      "num": 345827,
-      "word": "未婚先孕六个月跟爸妈坦白",
-      "onboard_time": 1683337049,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 433099,
@@ -347,12 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273201,
-      "num": 273201,
-      "word": "片仔癀涨价到每粒760元",
-      "onboard_time": 1683336569,
-      "rank": 27,
-      "category": "财经,社会新闻"
+      "raw_hot": 282349,
+      "num": 282349,
+      "word": "哈登状态",
+      "onboard_time": 1683338551,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 273914,
+      "num": 273914,
+      "word": "复阳",
+      "onboard_time": 1683337950,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267524,
@@ -387,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247545,
+      "num": 247545,
+      "word": "店家回应7人吃自助炫300多个螃蟹",
+      "onboard_time": 1683335491,
+      "rank": 28,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 245234,
       "num": 245234,
       "word": "R1SE龙丹妮聚餐合照",
@@ -403,12 +459,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 239222,
-      "num": 239222,
-      "word": "店家回应7人吃自助炫300多个螃蟹",
-      "onboard_time": 1683335491,
-      "rank": 28,
-      "category": "社会新闻,美食"
+      "raw_hot": 237547,
+      "num": 237547,
+      "word": "瘫痪妻子因丈夫不放弃4年后站起来",
+      "onboard_time": 1683338551,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232483,
@@ -459,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205222,
+      "num": 205222,
+      "word": "女子偷卖闺蜜金手镯给男友买手机",
+      "onboard_time": 1683337950,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205044,
       "num": 205044,
       "word": "长空之王 海伦凯勒",
@@ -489,6 +553,14 @@
       "onboard_time": 1683304164,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198123,
+      "num": 198123,
+      "word": "花轿喜事首发预告",
+      "onboard_time": 1683339268,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 197575,
@@ -563,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176001,
-      "num": 176001,
-      "word": "承重墙被砸1.6亿赔款谁来出",
-      "onboard_time": 1683337169,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173357,
       "num": 156433,
       "word": "张靓颖嗓子",
@@ -595,12 +659,36 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 166565,
+      "num": 166565,
+      "word": "要久久爱手帐青春海报",
+      "onboard_time": 1683339870,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 161777,
+      "num": 161777,
+      "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
+      "onboard_time": 1683340052,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158840,
       "num": 158840,
       "word": "巴厘岛",
       "onboard_time": 1683295350,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157579,
+      "num": 157579,
+      "word": "宋丹丹叫黄磊爸爸",
+      "onboard_time": 1683336808,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 154987,
@@ -627,14 +715,6 @@
       "category": "情感,旅游"
     },
     {
-      "raw_hot": 151725,
-      "num": 151725,
-      "word": "宋丹丹叫黄磊爸爸",
-      "onboard_time": 1683336808,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150920,
       "num": 150920,
       "word": "全员加速中南京",
@@ -659,12 +739,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 138569,
+      "num": 138569,
+      "word": "不良执念清除师",
+      "onboard_time": 1683339930,
+      "rank": 45,
+      "category": "影视"
+    },
+    {
       "raw_hot": 137359,
       "num": 197256,
       "word": "山西一地发生重大刑案",
       "onboard_time": 1683279269,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131913,
+      "num": 131913,
+      "word": "立夏怎么吃",
+      "onboard_time": 1683338972,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 131879,
