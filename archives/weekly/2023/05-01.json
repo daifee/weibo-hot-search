@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683354034985,
+  "endTime": 1683354807460,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -611,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1692515,
+      "num": 1692515,
+      "word": "网友癌症靶向药落在公交车被大妈捡走",
+      "onboard_time": 1683350132,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1685404,
       "num": 1685404,
       "word": "VOGUE官方把蔡徐坤认成王嘉尔",
@@ -969,14 +977,6 @@
       "onboard_time": 1682932168,
       "rank": 20,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1330098,
-      "num": 1330098,
-      "word": "网友癌症靶向药落在公交车被大妈捡走",
-      "onboard_time": 1683350132,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1328585,
@@ -2067,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 736886,
+      "num": 736886,
+      "word": "知否演员最新合照",
+      "onboard_time": 1683348696,
+      "rank": 18,
+      "category": "影视"
+    },
+    {
       "raw_hot": 736124,
       "num": 736124,
       "word": "女子拍照时被小孩掀裙子摸大腿",
@@ -2307,6 +2315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 672003,
+      "num": 672003,
+      "word": "于正用秦昊减肥食谱瘦了10斤",
+      "onboard_time": 1683353668,
+      "rank": 24,
+      "category": "影视"
+    },
+    {
       "raw_hot": 671779,
       "num": 671779,
       "word": "王一博偷偷流泪",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1683298771,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 665613,
-      "num": 665613,
-      "word": "知否演员最新合照",
-      "onboard_time": 1683348696,
-      "rank": 18,
-      "category": "影视"
     },
     {
       "raw_hot": 661929,
@@ -3147,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490134,
+      "num": 490134,
+      "word": "深圳山姆",
+      "onboard_time": 1683353789,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488527,
       "num": 340672,
       "word": "秋瓷炫叫凌潇肃哥哥",
@@ -3747,6 +3763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 421576,
+      "num": 421576,
+      "word": "美依礼芽翻译是谁",
+      "onboard_time": 1683353550,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420439,
       "num": 420439,
       "word": "肖战如梦之梦",
@@ -3971,6 +3995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 398647,
+      "num": 398647,
+      "word": "aespa向公司要求拍摄新专MV",
+      "onboard_time": 1683350014,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 398428,
       "num": 398428,
       "word": "短短几秒白敬亭被整了十几次",
@@ -4105,14 +4137,6 @@
       "onboard_time": 1683254067,
       "rank": 36,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 386954,
-      "num": 386954,
-      "word": "aespa向公司要求拍摄新专MV",
-      "onboard_time": 1683350014,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 386853,
@@ -4464,6 +4488,14 @@
       "word": "说唱巅峰对决音乐节",
       "onboard_time": 1683256590,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 358050,
+      "num": 358050,
+      "word": "跑男收视率创新低",
+      "onboard_time": 1683354387,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -5195,6 +5227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311786,
+      "num": 311786,
+      "word": "妲己为什么总喂纣王吃葡萄",
+      "onboard_time": 1683354028,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311721,
       "num": 296748,
       "word": "这就是陈都灵流鼻血那场戏啊",
@@ -5427,14 +5467,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 294820,
-      "num": 294820,
-      "word": "于正用秦昊减肥食谱瘦了10斤",
-      "onboard_time": 1683353668,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 294475,
       "num": 294475,
       "word": "金牛座隐藏的一面",
@@ -5457,6 +5489,14 @@
       "onboard_time": 1683273568,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292837,
+      "num": 270602,
+      "word": "女子瓦格纳雇佣兵本人辟谣",
+      "onboard_time": 1683353668,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292812,
@@ -5665,6 +5705,14 @@
       "onboard_time": 1682907808,
       "rank": 31,
       "category": "影视"
+    },
+    {
+      "raw_hot": 282111,
+      "num": 282111,
+      "word": "巴厘岛女性死者生前可能曾遭勒颈",
+      "onboard_time": 1683354210,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281385,
@@ -6003,14 +6051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266034,
-      "num": 237323,
-      "word": "女子瓦格纳雇佣兵本人辟谣",
-      "onboard_time": 1683353668,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265610,
       "num": 265610,
       "word": "LGD晋级败者组半决赛",
@@ -6217,6 +6257,14 @@
       "onboard_time": 1683033093,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255656,
+      "num": 255656,
+      "word": "朱珠生完孩子3个月就拍平凡之路",
+      "onboard_time": 1683351509,
+      "rank": 38,
+      "category": "影视"
     },
     {
       "raw_hot": 255614,
@@ -6697,6 +6745,14 @@
       "onboard_time": 1683205830,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241832,
+      "num": 241832,
+      "word": "花花一口果果嚼了41下",
+      "onboard_time": 1683353429,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241652,
@@ -7883,14 +7939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 209409,
-      "num": 209409,
-      "word": "美依礼芽翻译是谁",
-      "onboard_time": 1683353550,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209296,
       "num": 209296,
       "word": "动车走一半超重停了",
@@ -8345,14 +8393,6 @@
       "onboard_time": 1683175176,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 198866,
-      "num": 198866,
-      "word": "朱珠生完孩子3个月就拍平凡之路",
-      "onboard_time": 1683351509,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 198648,
@@ -8891,14 +8931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186380,
-      "num": 186380,
-      "word": "深圳山姆",
-      "onboard_time": 1683353789,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186320,
       "num": 187072,
       "word": "强制报告",
@@ -9049,14 +9081,6 @@
       "onboard_time": 1683339930,
       "rank": 45,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181152,
-      "num": 181152,
-      "word": "花花一口果果嚼了41下",
-      "onboard_time": 1683353429,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180970,
@@ -10499,20 +10523,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 147385,
+      "num": 147385,
+      "word": "挖呀挖首发原创争论伤害了谁",
+      "onboard_time": 1683354749,
+      "rank": 47,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 147192,
       "num": 147192,
       "word": "太阳vs掘金",
       "onboard_time": 1683000091,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146731,
-      "num": 146731,
-      "word": "妲己为什么总喂纣王吃葡萄",
-      "onboard_time": 1683354028,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 146640,
