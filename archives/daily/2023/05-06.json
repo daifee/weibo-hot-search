@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683365613820,
+  "endTime": 1683368233724,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -147,6 +147,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1502769,
+      "num": 1502769,
+      "word": "奔跑吧回应收视率创新低",
+      "onboard_time": 1683360150,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1437487,
       "num": 1437487,
       "word": "男性朋友抱怨 不敢调情",
@@ -185,14 +193,6 @@
       "onboard_time": 1683347975,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1287286,
-      "num": 1287286,
-      "word": "奔跑吧回应收视率创新低",
-      "onboard_time": 1683360150,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1262947,
@@ -355,6 +355,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 845822,
+      "num": 845822,
+      "word": "查尔斯加冕典礼",
+      "onboard_time": 1683365253,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 819376,
       "num": 819376,
       "word": "李俊濠签约龙韬娱乐",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 807713,
-      "num": 502934,
+      "num": 648654,
       "word": "为何穿了外衣却还要穿内衣",
       "onboard_time": 1683361650,
       "rank": 34,
@@ -451,12 +459,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574049,
+      "num": 1484378,
+      "word": "狲思邈去世后现在的西野怎么样了",
+      "onboard_time": 1683365192,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572343,
       "num": 572343,
       "word": "片仔癀涨价到每粒760元",
       "onboard_time": 1683336569,
       "rank": 27,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 550686,
+      "num": 550686,
+      "word": "山姆回应",
+      "onboard_time": 1683364889,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 549239,
@@ -513,6 +537,14 @@
       "onboard_time": 1683333087,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 473499,
+      "num": 473499,
+      "word": "易烊千玺自己请自己",
+      "onboard_time": 1683365370,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 467135,
@@ -588,7 +620,7 @@
     },
     {
       "raw_hot": 435937,
-      "num": 289226,
+      "num": 332673,
       "word": "好朋友退出群聊了",
       "onboard_time": 1683362123,
       "rank": 20,
@@ -609,6 +641,14 @@
       "onboard_time": 1683345514,
       "rank": 23,
       "category": "影视"
+    },
+    {
+      "raw_hot": 399539,
+      "num": 399539,
+      "word": "孙悟空对女孩子真的很温柔",
+      "onboard_time": 1683362552,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 398647,
@@ -657,6 +697,14 @@
       "onboard_time": 1683359850,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 356898,
+      "num": 356898,
+      "word": "选男友最好的方式就是爬山",
+      "onboard_time": 1683366867,
+      "rank": 19,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 354581,
@@ -731,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 333655,
-      "num": 333655,
-      "word": "孙悟空对女孩子真的很温柔",
-      "onboard_time": 1683362552,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 333004,
       "num": 333004,
       "word": "同事辟谣挖呀挖黄老师辞职",
@@ -753,6 +793,14 @@
       "onboard_time": 1683345394,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 332244,
+      "num": 1136705,
+      "word": "爸爸以为孩子落水立马跳进水塘",
+      "onboard_time": 1683366627,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331569,
@@ -779,6 +827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318302,
+      "num": 318302,
+      "word": "吃蒜薹一定要先焯水",
+      "onboard_time": 1683364591,
+      "rank": 33,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 317932,
       "num": 317932,
       "word": "秋瓷炫和李彩桦住一个宿舍",
@@ -793,6 +849,14 @@
       "onboard_time": 1683303867,
       "rank": 17,
       "category": "自然"
+    },
+    {
+      "raw_hot": 314271,
+      "num": 314271,
+      "word": "巴厘岛 币圈",
+      "onboard_time": 1683365608,
+      "rank": 24,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 312650,
@@ -857,6 +921,14 @@
       "onboard_time": 1683337950,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285091,
+      "num": 285091,
+      "word": "原来王一博也跳过极乐净土",
+      "onboard_time": 1683364831,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 283594,
@@ -979,14 +1051,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 251171,
-      "num": 251171,
-      "word": "山姆回应",
-      "onboard_time": 1683364889,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248805,
       "num": 248805,
       "word": "瘫痪妻子因丈夫不放弃4年后站起来",
@@ -1075,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224471,
-      "num": 224471,
-      "word": "查尔斯加冕典礼",
-      "onboard_time": 1683365253,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 222701,
       "num": 222701,
       "word": "法医回应情侣巴厘岛酒店遇害",
@@ -1097,14 +1153,6 @@
       "onboard_time": 1683339870,
       "rank": 37,
       "category": "影视"
-    },
-    {
-      "raw_hot": 219552,
-      "num": 219552,
-      "word": "吃蒜薹一定要先焯水",
-      "onboard_time": 1683364591,
-      "rank": 33,
-      "category": "美食,幽默"
     },
     {
       "raw_hot": 217740,
@@ -1217,6 +1265,22 @@
       "onboard_time": 1683356669,
       "rank": 34,
       "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 204381,
+      "num": 204381,
+      "word": "种地吧",
+      "onboard_time": 1683366451,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 202960,
+      "num": 1003761,
+      "word": "派出所所长跳水救出5名落水群众",
+      "onboard_time": 1683366627,
+      "rank": 6,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 201933,
@@ -1339,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184967,
+      "num": 184967,
+      "word": "声生不息",
+      "onboard_time": 1683367828,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184221,
       "num": 167527,
       "word": "瞿颖的腿秒了",
@@ -1363,14 +1435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 181220,
-      "num": 181220,
-      "word": "狲思邈去世后现在的西野怎么样了",
-      "onboard_time": 1683365192,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180970,
       "num": 180970,
       "word": "女孩给特警男友全队寄了一箱修眉刀",
@@ -1393,14 +1457,6 @@
       "onboard_time": 1683342931,
       "rank": 43,
       "category": "影视"
-    },
-    {
-      "raw_hot": 174677,
-      "num": 174677,
-      "word": "原来王一博也跳过极乐净土",
-      "onboard_time": 1683364831,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 174549,
@@ -1451,20 +1507,20 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 167426,
+      "num": 167426,
+      "word": "杨紫胶卷风随拍",
+      "onboard_time": 1683368010,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165809,
       "num": 165809,
       "word": "挖呀挖首发原创争论伤害了谁",
       "onboard_time": 1683354749,
       "rank": 47,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 162427,
-      "num": 162427,
-      "word": "易烊千玺自己请自己",
-      "onboard_time": 1683365370,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 161160,
@@ -1539,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151570,
+      "num": 151570,
+      "word": "24人吃淄博烧烤花760元",
+      "onboard_time": 1683368189,
+      "rank": 47,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 151548,
       "num": 151548,
       "word": "金晨郭麒麟新剧收视率",
@@ -1601,6 +1665,14 @@
       "onboard_time": 1683360026,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138376,
+      "num": 145224,
+      "word": "沈梦溪KPL限定爆料",
+      "onboard_time": 1683366692,
+      "rank": 49,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 138368,
@@ -1841,6 +1913,14 @@
       "onboard_time": 1683324855,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 17859,
+      "num": 177207,
+      "word": "换季如何护肤",
+      "onboard_time": 1683367229,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 15606,
