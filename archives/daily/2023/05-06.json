@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683340192115,
+  "endTime": 1683340793399,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -11,8 +11,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2183502,
-      "num": 1266542,
+      "raw_hot": 2328576,
+      "num": 2328576,
+      "word": "承重墙被砸1.6亿赔款谁来出",
+      "onboard_time": 1683337169,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2294577,
+      "num": 1419119,
       "word": "未婚先孕六个月跟爸妈坦白",
       "onboard_time": 1683337049,
       "rank": 21,
@@ -24,14 +32,6 @@
       "word": "调休",
       "onboard_time": 1683332792,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2082687,
-      "num": 2082687,
-      "word": "承重墙被砸1.6亿赔款谁来出",
-      "onboard_time": 1683337169,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -59,6 +59,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1440727,
+      "num": 1440727,
+      "word": "南昌咬人",
+      "onboard_time": 1683338130,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1416556,
       "num": 1416556,
       "word": "挖呀挖走红的桃子老师称很焦虑",
@@ -67,8 +75,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1348599,
-      "num": 1348599,
+      "raw_hot": 1410753,
+      "num": 1410753,
       "word": "吴倩小心翼翼的样子好心疼",
       "onboard_time": 1683338730,
       "rank": 1,
@@ -81,14 +89,6 @@
       "onboard_time": 1683300631,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1244368,
-      "num": 1244368,
-      "word": "南昌咬人",
-      "onboard_time": 1683338130,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1190970,
@@ -115,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 990785,
-      "num": 990785,
+      "raw_hot": 1015051,
+      "num": 1015051,
       "word": "小贝饿了带货因虚假宣传被罚46万",
       "onboard_time": 1683291749,
       "rank": 38,
@@ -219,8 +219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 536875,
-      "num": 536875,
+      "raw_hot": 572343,
+      "num": 572343,
       "word": "片仔癀涨价到每粒760元",
       "onboard_time": 1683336569,
       "rank": 27,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328966,
+      "num": 244952,
+      "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
+      "onboard_time": 1683340052,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321603,
       "num": 321603,
       "word": "普通人怎么拥有千万资产",
@@ -387,20 +395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287008,
+      "num": 287008,
+      "word": "复阳",
+      "onboard_time": 1683337950,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282349,
       "num": 282349,
       "word": "哈登状态",
       "onboard_time": 1683338551,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273914,
-      "num": 273914,
-      "word": "复阳",
-      "onboard_time": 1683337950,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267524,
@@ -435,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248805,
+      "num": 248805,
+      "word": "瘫痪妻子因丈夫不放弃4年后站起来",
+      "onboard_time": 1683338551,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247545,
       "num": 247545,
       "word": "店家回应7人吃自助炫300多个螃蟹",
@@ -459,14 +475,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237547,
-      "num": 237547,
-      "word": "瘫痪妻子因丈夫不放弃4年后站起来",
-      "onboard_time": 1683338551,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232483,
       "num": 232483,
       "word": "杨晓培认领和赵露思的cp名",
@@ -475,12 +483,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229500,
+      "num": 229500,
+      "word": "优酷官宣杨紫要久久爱",
+      "onboard_time": 1683340650,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 222701,
       "num": 222701,
       "word": "法医回应情侣巴厘岛酒店遇害",
       "onboard_time": 1683276569,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222004,
+      "num": 222004,
+      "word": "要久久爱手帐青春海报",
+      "onboard_time": 1683339870,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 217269,
@@ -579,6 +603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195003,
+      "num": 195003,
+      "word": "要久久爱",
+      "onboard_time": 1683340590,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 193095,
+      "num": 193095,
+      "word": "上海等级考",
+      "onboard_time": 1683340531,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 189116,
       "num": 167594,
       "word": "蚀骨危情",
@@ -593,6 +633,14 @@
       "onboard_time": 1683298771,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187277,
+      "num": 187277,
+      "word": "五月天 任意门",
+      "onboard_time": 1683340531,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 186736,
@@ -616,6 +664,14 @@
       "word": "银河护卫队3开分漫威最高",
       "onboard_time": 1683298055,
       "rank": 40,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 181222,
+      "num": 181222,
+      "word": "不良执念清除师",
+      "onboard_time": 1683339930,
+      "rank": 45,
       "category": "影视"
     },
     {
@@ -657,22 +713,6 @@
       "onboard_time": 1683295830,
       "rank": 34,
       "category": "财经,艺人"
-    },
-    {
-      "raw_hot": 166565,
-      "num": 166565,
-      "word": "要久久爱手帐青春海报",
-      "onboard_time": 1683339870,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 161777,
-      "num": 161777,
-      "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
-      "onboard_time": 1683340052,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158840,
@@ -739,11 +779,11 @@
       "category": "影视"
     },
     {
-      "raw_hot": 138569,
-      "num": 138569,
-      "word": "不良执念清除师",
-      "onboard_time": 1683339930,
-      "rank": 45,
+      "raw_hot": 138368,
+      "num": 138368,
+      "word": "微暗之火",
+      "onboard_time": 1683340650,
+      "rank": 43,
       "category": "影视"
     },
     {
@@ -852,7 +892,7 @@
     },
     {
       "raw_hot": 63414,
-      "num": 1419254,
+      "num": 1421685,
       "word": "天舟五号撤离空间站",
       "onboard_time": 1683291871,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683340192115,
+  "endTime": 1683340793399,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2328576,
+      "num": 2328576,
+      "word": "承重墙被砸1.6亿赔款谁来出",
+      "onboard_time": 1683337169,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2303880,
       "num": 2303880,
       "word": "珠穆朗玛峰凌晨两点还在堵",
@@ -209,6 +217,14 @@
       "onboard_time": 1683070041,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2294577,
+      "num": 1419119,
+      "word": "未婚先孕六个月跟爸妈坦白",
+      "onboard_time": 1683337049,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 2282543,
@@ -232,14 +248,6 @@
       "word": "性同意文化",
       "onboard_time": 1683245009,
       "rank": 10,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 2183502,
-      "num": 1266542,
-      "word": "未婚先孕六个月跟爸妈坦白",
-      "onboard_time": 1683337049,
-      "rank": 21,
       "category": "情感"
     },
     {
@@ -304,14 +312,6 @@
       "word": "调休",
       "onboard_time": 1683332792,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2082687,
-      "num": 2082687,
-      "word": "承重墙被砸1.6亿赔款谁来出",
-      "onboard_time": 1683337169,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -795,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1440727,
+      "num": 1440727,
+      "word": "南昌咬人",
+      "onboard_time": 1683338130,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1437237,
       "num": 1437237,
       "word": "破音",
@@ -809,6 +817,14 @@
       "onboard_time": 1683301651,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1410753,
+      "num": 1410753,
+      "word": "吴倩小心翼翼的样子好心疼",
+      "onboard_time": 1683338730,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1406483,
@@ -881,14 +897,6 @@
       "onboard_time": 1683098612,
       "rank": 16,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 1348599,
-      "num": 1348599,
-      "word": "吴倩小心翼翼的样子好心疼",
-      "onboard_time": 1683338730,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1344837,
@@ -1033,14 +1041,6 @@
       "onboard_time": 1683297631,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1244368,
-      "num": 1244368,
-      "word": "南昌咬人",
-      "onboard_time": 1683338130,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1243728,
@@ -1427,6 +1427,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1015051,
+      "num": 1015051,
+      "word": "小贝饿了带货因虚假宣传被罚46万",
+      "onboard_time": 1683291749,
+      "rank": 33,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1011057,
       "num": 1011057,
       "word": "倪妮陈妍希",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1683188968,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 990785,
-      "num": 990785,
-      "word": "小贝饿了带货因虚假宣传被罚46万",
-      "onboard_time": 1683291749,
-      "rank": 33,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 986647,
@@ -2515,6 +2515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 572343,
+      "num": 572343,
+      "word": "片仔癀涨价到每粒760元",
+      "onboard_time": 1683336569,
+      "rank": 27,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 569320,
       "num": 569320,
       "word": "湖人对战勇士",
@@ -2737,14 +2745,6 @@
       "onboard_time": 1683202589,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 536875,
-      "num": 536875,
-      "word": "片仔癀涨价到每粒760元",
-      "onboard_time": 1683336569,
-      "rank": 27,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 535931,
@@ -4603,6 +4603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328966,
+      "num": 244952,
+      "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
+      "onboard_time": 1683340052,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328891,
       "num": 403500,
       "word": "淄博烧烤不涨价的最大底气",
@@ -5315,6 +5323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287008,
+      "num": 287008,
+      "word": "复阳",
+      "onboard_time": 1683337950,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 287002,
       "num": 243844,
       "word": "品如 战歌起",
@@ -5513,14 +5529,6 @@
       "onboard_time": 1682932407,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 273914,
-      "num": 273914,
-      "word": "复阳",
-      "onboard_time": 1683337950,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273511,
@@ -6115,6 +6123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248805,
+      "num": 248805,
+      "word": "瘫痪妻子因丈夫不放弃4年后站起来",
+      "onboard_time": 1683338551,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248518,
       "num": 232826,
       "word": "科学家称外星人或很快发现人类",
@@ -6467,14 +6483,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 237547,
-      "num": 237547,
-      "word": "瘫痪妻子因丈夫不放弃4年后站起来",
-      "onboard_time": 1683338551,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237416,
       "num": 1154160,
       "word": "00后旅游偶遇可爱爷爷涂鸦送画",
@@ -6745,6 +6753,14 @@
       "onboard_time": 1683259471,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 229500,
+      "num": 229500,
+      "word": "优酷官宣杨紫要久久爱",
+      "onboard_time": 1683340650,
+      "rank": 31,
+      "category": "影视"
     },
     {
       "raw_hot": 229190,
@@ -7041,6 +7057,14 @@
       "onboard_time": 1683081331,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 222004,
+      "num": 222004,
+      "word": "要久久爱手帐青春海报",
+      "onboard_time": 1683339870,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 221353,
@@ -8155,6 +8179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195003,
+      "num": 195003,
+      "word": "要久久爱",
+      "onboard_time": 1683340590,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 194170,
       "num": 194170,
       "word": "小矛盾是否值得成为全民讨论热点",
@@ -8193,6 +8225,14 @@
       "onboard_time": 1683162090,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193095,
+      "num": 193095,
+      "word": "上海等级考",
+      "onboard_time": 1683340531,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 192579,
@@ -8403,6 +8443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187277,
+      "num": 187277,
+      "word": "五月天 任意门",
+      "onboard_time": 1683340531,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186920,
       "num": 167473,
       "word": "国外网友偶遇蔡徐坤",
@@ -8601,6 +8649,14 @@
       "onboard_time": 1683046345,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181222,
+      "num": 181222,
+      "word": "不良执念清除师",
+      "onboard_time": 1683339930,
+      "rank": 45,
+      "category": "影视"
     },
     {
       "raw_hot": 180970,
@@ -9307,14 +9363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166565,
-      "num": 166565,
-      "word": "要久久爱手帐青春海报",
-      "onboard_time": 1683339870,
-      "rank": 37,
-      "category": "影视"
-    },
-    {
       "raw_hot": 166373,
       "num": 166373,
       "word": "告五人现场",
@@ -9481,14 +9529,6 @@
       "onboard_time": 1683016168,
       "rank": 44,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 161777,
-      "num": 161777,
-      "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
-      "onboard_time": 1683340052,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161288,
@@ -10211,11 +10251,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138569,
-      "num": 138569,
-      "word": "不良执念清除师",
-      "onboard_time": 1683339930,
-      "rank": 45,
+      "raw_hot": 138368,
+      "num": 138368,
+      "word": "微暗之火",
+      "onboard_time": 1683340650,
+      "rank": 43,
       "category": "影视"
     },
     {
