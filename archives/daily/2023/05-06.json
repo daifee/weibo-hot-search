@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683383595904,
+  "endTime": 1683386174261,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -97,6 +97,14 @@
       "onboard_time": 1683332792,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1971050,
+      "num": 1971050,
+      "word": "婆婆直接把38.8万彩礼转我了",
+      "onboard_time": 1683383253,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 1848025,
@@ -267,6 +275,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1182951,
+      "num": 1182951,
+      "word": "黄老师唱的挖呀挖或涉嫌侵权",
+      "onboard_time": 1683381752,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1181714,
       "num": 1181714,
       "word": "狗被确诊智障了",
@@ -304,6 +320,14 @@
       "word": "胡歌 镖人",
       "onboard_time": 1683344731,
       "rank": 8,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1088435,
+      "num": 1088435,
+      "word": "白鹿片场行为",
+      "onboard_time": 1683379172,
+      "rank": 29,
       "category": "影视"
     },
     {
@@ -361,14 +385,6 @@
       "onboard_time": 1683307097,
       "rank": 1,
       "category": "自然"
-    },
-    {
-      "raw_hot": 957945,
-      "num": 957945,
-      "word": "白鹿片场行为",
-      "onboard_time": 1683379172,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 923117,
@@ -491,14 +507,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 743296,
-      "num": 379553,
-      "word": "黄老师唱的挖呀挖或涉嫌侵权",
-      "onboard_time": 1683381752,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 739922,
       "num": 687956,
       "word": "没药花园 巴厘岛情侣身亡",
@@ -547,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641396,
+      "num": 641396,
+      "word": "五迷抵制黄牛",
+      "onboard_time": 1683383555,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 633253,
       "num": 633253,
       "word": "张艺兴舒淇电影 停拍",
@@ -561,6 +577,14 @@
       "onboard_time": 1683298231,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 630457,
+      "num": 378658,
+      "word": "龚俊 我真服了",
+      "onboard_time": 1683383794,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 596291,
@@ -625,6 +649,14 @@
       "onboard_time": 1683353550,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 547774,
+      "num": 547774,
+      "word": "女子吃手剥笋发现内藏竹虫",
+      "onboard_time": 1683382297,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534075,
@@ -859,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 398898,
+      "num": 337075,
+      "word": "鬓边不是海棠红",
+      "onboard_time": 1683384154,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 398647,
       "num": 398647,
       "word": "aespa向公司要求拍摄新专MV",
@@ -881,6 +921,14 @@
       "onboard_time": 1683366627,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385286,
+      "num": 385286,
+      "word": "张角",
+      "onboard_time": 1683384932,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 382607,
@@ -1051,14 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 327899,
-      "num": 350663,
-      "word": "女子吃手剥笋发现内藏竹虫",
-      "onboard_time": 1683382297,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 324624,
       "num": 324624,
       "word": "刘美含 努力争取不丢人",
@@ -1171,20 +1211,20 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 299574,
+      "num": 299574,
+      "word": "女子回应刷直播看到老公小三同游",
+      "onboard_time": 1683384630,
+      "rank": 23,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 297937,
       "num": 297937,
       "word": "杨和苏",
       "onboard_time": 1683374968,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 296571,
-      "num": 296571,
-      "word": "婆婆直接把38.8万彩礼转我了",
-      "onboard_time": 1683383253,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 292837,
@@ -1235,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285396,
+      "num": 268624,
+      "word": "卡琳娜 帅",
+      "onboard_time": 1683384513,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 285091,
       "num": 285091,
       "word": "原来王一博也跳过极乐净土",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1683338551,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282146,
+      "num": 282146,
+      "word": "哈尔滨承重墙",
+      "onboard_time": 1683383613,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278931,
@@ -1323,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263297,
+      "num": 255211,
+      "word": "长月烬明网飞也是40集",
+      "onboard_time": 1683375631,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 260861,
       "num": 260861,
       "word": "承重墙",
@@ -1352,14 +1416,6 @@
       "word": "朱珠生完孩子3个月就拍平凡之路",
       "onboard_time": 1683351509,
       "rank": 38,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 254503,
-      "num": 254503,
-      "word": "长月烬明网飞也是40集",
-      "onboard_time": 1683375631,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1547,6 +1603,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219761,
+      "num": 217626,
+      "word": "白鹿周深范丞丞组合名",
+      "onboard_time": 1683385469,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219520,
+      "num": 217415,
+      "word": "声生不息宝岛季",
+      "onboard_time": 1683385715,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217740,
       "num": 217740,
       "word": "大唐不夜城公孙离热",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1683352950,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216989,
+      "num": 216989,
+      "word": "鹿晗诺言MV里的吴倩",
+      "onboard_time": 1683374010,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 215704,
@@ -1843,6 +1923,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 187131,
+      "num": 187131,
+      "word": "放弃了三十万年薪去了街道办",
+      "onboard_time": 1683385771,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187085,
       "num": 187085,
       "word": "乘风2023COSMO肆意乘风大片",
@@ -1913,14 +2001,6 @@
       "onboard_time": 1683328642,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175768,
-      "num": 175768,
-      "word": "五迷抵制黄牛",
-      "onboard_time": 1683383555,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 174881,
@@ -2044,7 +2124,7 @@
     },
     {
       "raw_hot": 154560,
-      "num": 157989,
+      "num": 172773,
       "word": "cp29场照被炼进AI模型",
       "onboard_time": 1683381093,
       "rank": 43,
@@ -2324,7 +2404,7 @@
     },
     {
       "raw_hot": 108531,
-      "num": 1327860,
+      "num": 1558628,
       "word": "当千里江山图遇上锦绣江苏",
       "onboard_time": 1683379230,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1683386174261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1971050,
+        "num": 1971050,
+        "word": "婆婆直接把38.8万彩礼转我了",
+        "onboard_time": 1683383253,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1604635,
+        "num": 1604635,
+        "word": "黄晓明 0是啥意思",
+        "onboard_time": 1683378691,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86475,
+        "num": 1558628,
+        "word": "当千里江山图遇上锦绣江苏",
+        "onboard_time": 1683379230,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1546865,
+        "num": 1546865,
+        "word": "吴倩状态 刚回国的赵默笙",
+        "onboard_time": 1683382595,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1182951,
+        "num": 1182951,
+        "word": "黄老师唱的挖呀挖或涉嫌侵权",
+        "onboard_time": 1683381752,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088435,
+        "num": 1088435,
+        "word": "白鹿片场行为",
+        "onboard_time": 1683379172,
+        "rank": 5,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 987498,
+        "num": 987498,
+        "word": "刘美含落选浪姐",
+        "onboard_time": 1683368851,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641396,
+        "num": 641396,
+        "word": "五迷抵制黄牛",
+        "onboard_time": 1683383555,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 547774,
+        "num": 547774,
+        "word": "女子吃手剥笋发现内藏竹虫",
+        "onboard_time": 1683382297,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385286,
+        "num": 385286,
+        "word": "张角",
+        "onboard_time": 1683384932,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 746623,
+        "num": 382581,
+        "word": "彩票中了1.7亿后该做什么",
+        "onboard_time": 1683369452,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 630457,
+        "num": 378658,
+        "word": "龚俊 我真服了",
+        "onboard_time": 1683383794,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605322,
+        "num": 372871,
+        "word": "张艺兴舒淇电影 停拍",
+        "onboard_time": 1683371190,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 560239,
+        "num": 368734,
+        "word": "没药花园 巴厘岛情侣身亡",
+        "onboard_time": 1683370471,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 412480,
+        "num": 366380,
+        "word": "奔跑吧回应收视率创新低",
+        "onboard_time": 1683360150,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364414,
+        "num": 364414,
+        "word": "未婚先孕六个月跟爸妈坦白",
+        "onboard_time": 1683337049,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398898,
+        "num": 337075,
+        "word": "鬓边不是海棠红",
+        "onboard_time": 1683384154,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396845,
+        "num": 335616,
+        "word": "江阴枪击案嫌犯疑似逃进山",
+        "onboard_time": 1683380853,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386195,
+        "num": 325622,
+        "word": "路温评价王一博",
+        "onboard_time": 1683380255,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305085,
+        "num": 305085,
+        "word": "官方通报内蒙古一沙漠中埋有三角钉",
+        "onboard_time": 1683380193,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1443533,
+        "num": 302922,
+        "word": "巴厘岛女性死者胃部有大量液体",
+        "onboard_time": 1683361527,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1279593,
+        "num": 302598,
+        "word": "活死人",
+        "onboard_time": 1683375451,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358642,
+        "num": 301225,
+        "word": "墨香铜臭",
+        "onboard_time": 1683355650,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299574,
+        "num": 299574,
+        "word": "女子回应刷直播看到老公小三同游",
+        "onboard_time": 1683384630,
+        "rank": 23,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 282146,
+        "num": 282146,
+        "word": "哈尔滨承重墙",
+        "onboard_time": 1683383613,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316165,
+        "num": 281903,
+        "word": "吴倩小心翼翼的样子好心疼",
+        "onboard_time": 1683338730,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295274,
+        "num": 278731,
+        "word": "IU认出了10年没见的粉丝",
+        "onboard_time": 1683368429,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 285396,
+        "num": 268624,
+        "word": "卡琳娜 帅",
+        "onboard_time": 1683384513,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255604,
+        "num": 255604,
+        "word": "这样啊 那他是骗你的",
+        "onboard_time": 1683372151,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157713,
+        "num": 255285,
+        "word": "英国国王查尔斯三世和王后卡米拉加冕",
+        "onboard_time": 1683371791,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 263297,
+        "num": 255211,
+        "word": "长月烬明网飞也是40集",
+        "onboard_time": 1683375631,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 254987,
+        "num": 254987,
+        "word": "网友癌症靶向药落在公交车被大妈捡走",
+        "onboard_time": 1683350132,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254160,
+        "num": 254160,
+        "word": "刘些宁戴牙套了",
+        "onboard_time": 1683376827,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222226,
+        "num": 222226,
+        "word": "金晨给朱珠送平凡暖心包",
+        "onboard_time": 1683378630,
+        "rank": 33,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 217977,
+        "num": 217977,
+        "word": "砸承重墙居民楼加固后强度或高于设计值",
+        "onboard_time": 1683382471,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219761,
+        "num": 217626,
+        "word": "白鹿周深范丞丞组合名",
+        "onboard_time": 1683385469,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219520,
+        "num": 217415,
+        "word": "声生不息宝岛季",
+        "onboard_time": 1683385715,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216989,
+        "num": 216989,
+        "word": "鹿晗诺言MV里的吴倩",
+        "onboard_time": 1683374010,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211492,
+        "num": 211492,
+        "word": "深圳山姆",
+        "onboard_time": 1683353789,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207495,
+        "num": 207495,
+        "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
+        "onboard_time": 1683340052,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205355,
+        "num": 205355,
+        "word": "巴厘岛凶案酒店称形象严重受损",
+        "onboard_time": 1683347975,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203940,
+        "num": 203940,
+        "word": "妲己为什么总喂纣王吃葡萄",
+        "onboard_time": 1683354028,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200402,
+        "num": 200402,
+        "word": "安庆地震",
+        "onboard_time": 1683377369,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196251,
+        "num": 196251,
+        "word": "辞职后靠摆摊月入五万",
+        "onboard_time": 1683372571,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194104,
+        "num": 194104,
+        "word": "凯特王妃",
+        "onboard_time": 1683373649,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 191116,
+        "num": 191116,
+        "word": "徐明浩给沈月送花",
+        "onboard_time": 1683381214,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187131,
+        "num": 187131,
+        "word": "放弃了三十万年薪去了街道办",
+        "onboard_time": 1683385771,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175246,
+        "num": 175246,
+        "word": "于正用秦昊减肥食谱瘦了10斤",
+        "onboard_time": 1683353668,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 173485,
+        "num": 173485,
+        "word": "五月天吧",
+        "onboard_time": 1683373708,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129615,
+        "num": 172773,
+        "word": "cp29场照被炼进AI模型",
+        "onboard_time": 1683381093,
+        "rank": 49,
+        "category": "动漫,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#3个关键词把握五一后首场重磅会议#"
+    }
+  }
+}
