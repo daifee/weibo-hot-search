@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683354807460,
+  "endTime": 1683357337342,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -17,6 +17,14 @@
       "onboard_time": 1683337169,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2533406,
+      "num": 2533406,
+      "word": "跑男收视率创新低",
+      "onboard_time": 1683354387,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 2294577,
@@ -51,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1774917,
+      "num": 1774917,
+      "word": "网友癌症靶向药落在公交车被大妈捡走",
+      "onboard_time": 1683350132,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1703424,
       "num": 1703424,
       "word": "极乐净土",
@@ -67,19 +83,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1692515,
-      "num": 1692515,
-      "word": "网友癌症靶向药落在公交车被大妈捡走",
-      "onboard_time": 1683350132,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1676294,
       "num": 1090078,
       "word": "咽喉炎",
       "onboard_time": 1683329422,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1647179,
+      "num": 1647179,
+      "word": "深圳山姆",
+      "onboard_time": 1683353789,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -105,6 +121,14 @@
       "onboard_time": 1683346053,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1559193,
+      "num": 1559193,
+      "word": "墨香铜臭",
+      "onboard_time": 1683355650,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1538886,
@@ -153,6 +177,14 @@
       "onboard_time": 1683347975,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1262947,
+      "num": 1262947,
+      "word": "于正用秦昊减肥食谱瘦了10斤",
+      "onboard_time": 1683353668,
+      "rank": 24,
+      "category": "影视"
     },
     {
       "raw_hot": 1190970,
@@ -243,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 910504,
+      "num": 910504,
+      "word": "妲己为什么总喂纣王吃葡萄",
+      "onboard_time": 1683354028,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 895356,
       "num": 895356,
       "word": "吴倩张嘉倪",
@@ -315,14 +355,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 672003,
-      "num": 672003,
-      "word": "于正用秦昊减肥食谱瘦了10斤",
-      "onboard_time": 1683353668,
-      "rank": 24,
-      "category": "影视"
-    },
-    {
       "raw_hot": 657744,
       "num": 657744,
       "word": "杭州高空扔狗事件",
@@ -371,6 +403,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 549161,
+      "num": 549161,
+      "word": "美依礼芽翻译是谁",
+      "onboard_time": 1683353550,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534075,
       "num": 415618,
       "word": "和相恋11年的男友分手了",
@@ -403,11 +443,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 490134,
-      "num": 490134,
-      "word": "深圳山姆",
-      "onboard_time": 1683353789,
-      "rank": 40,
+      "raw_hot": 491157,
+      "num": 491157,
+      "word": "巴厘岛女性死者生前可能曾遭勒颈",
+      "onboard_time": 1683354210,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -475,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 421576,
-      "num": 421576,
-      "word": "美依礼芽翻译是谁",
-      "onboard_time": 1683353550,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 405819,
       "num": 405819,
       "word": "我的大叔",
@@ -531,12 +563,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 358050,
-      "num": 358050,
-      "word": "跑男收视率创新低",
-      "onboard_time": 1683354387,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 358385,
+      "num": 358385,
+      "word": "巴厘岛凶案",
+      "onboard_time": 1683356609,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354581,
@@ -585,6 +617,14 @@
       "onboard_time": 1683349416,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334286,
+      "num": 334286,
+      "word": "花花一口果果嚼了41下",
+      "onboard_time": 1683353429,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333004,
@@ -651,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311786,
-      "num": 311786,
-      "word": "妲己为什么总喂纣王吃葡萄",
-      "onboard_time": 1683354028,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 302489,
       "num": 302489,
       "word": "林一你换个发型吧",
@@ -715,20 +747,20 @@
       "category": "游戏,综艺"
     },
     {
+      "raw_hot": 282522,
+      "num": 282522,
+      "word": "霉霉 有屁重录",
+      "onboard_time": 1683357028,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 282349,
       "num": 282349,
       "word": "哈登状态",
       "onboard_time": 1683338551,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282111,
-      "num": 282111,
-      "word": "巴厘岛女性死者生前可能曾遭勒颈",
-      "onboard_time": 1683354210,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270549,
@@ -827,12 +859,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 241832,
-      "num": 241832,
-      "word": "花花一口果果嚼了41下",
-      "onboard_time": 1683353429,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 242211,
+      "num": 242211,
+      "word": "大熊猫白天被游客用激光笔照射",
+      "onboard_time": 1683355948,
+      "rank": 30,
+      "category": "社会新闻,自然"
     },
     {
       "raw_hot": 240751,
@@ -912,6 +944,14 @@
       "word": "程潇笑得衣服裂开了",
       "onboard_time": 1683352228,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 215106,
+      "num": 215106,
+      "word": "王栎鑫屋里打伞",
+      "onboard_time": 1683356009,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1025,6 +1065,22 @@
       "onboard_time": 1683322633,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195707,
+      "num": 195707,
+      "word": "摩登天空诉快乐大本营侵权获赔10万",
+      "onboard_time": 1683356669,
+      "rank": 34,
+      "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 195654,
+      "num": 195654,
+      "word": "蔡卓妍云南随拍",
+      "onboard_time": 1683356551,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 195003,
@@ -1147,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170128,
+      "num": 170128,
+      "word": "田曦薇李玉湖大婚造型",
+      "onboard_time": 1683356909,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169934,
       "num": 156392,
       "word": "五月天团票",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1683295830,
       "rank": 34,
       "category": "财经,艺人"
+    },
+    {
+      "raw_hot": 165809,
+      "num": 165809,
+      "word": "挖呀挖首发原创争论伤害了谁",
+      "onboard_time": 1683354749,
+      "rank": 47,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 161160,
@@ -1187,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155591,
+      "num": 155591,
+      "word": "北动回应游客用激光笔照射大熊猫",
+      "onboard_time": 1683355650,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154987,
       "num": 154987,
       "word": "周杰伦香港演唱会",
@@ -1209,6 +1289,14 @@
       "onboard_time": 1683336208,
       "rank": 42,
       "category": "情感,旅游"
+    },
+    {
+      "raw_hot": 152799,
+      "num": 152799,
+      "word": "乘风2023",
+      "onboard_time": 1683349955,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 150920,
@@ -1235,12 +1323,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 147385,
-      "num": 147385,
-      "word": "挖呀挖首发原创争论伤害了谁",
-      "onboard_time": 1683354749,
+      "raw_hot": 145514,
+      "num": 145514,
+      "word": "港星职场发疯文学",
+      "onboard_time": 1683356309,
+      "rank": 46,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 144118,
+      "num": 144118,
+      "word": "罗云熙章若楠新剧牵手海报",
+      "onboard_time": 1683357151,
       "rank": 47,
-      "category": "社会新闻,网红"
+      "category": "影视"
     },
     {
       "raw_hot": 138368,
@@ -1372,7 +1468,7 @@
     },
     {
       "raw_hot": 66189,
-      "num": 1675757,
+      "num": 1694762,
       "word": "4K视频看立夏时节的中国大地",
       "onboard_time": 1683342452,
       "rank": 2,
