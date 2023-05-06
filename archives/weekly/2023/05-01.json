@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683387209401,
+  "endTime": 1683390063208,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -1987,6 +1987,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 854561,
+      "num": 854561,
+      "word": "放弃了三十万年薪去了街道办",
+      "onboard_time": 1683385771,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 852555,
       "num": 852555,
       "word": "谢娜初舞台制作人是张杰",
@@ -2233,6 +2241,14 @@
       "onboard_time": 1682995347,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 755976,
+      "num": 755976,
+      "word": "龚俊 他坐第一排我坐第七排",
+      "onboard_time": 1683388950,
+      "rank": 5,
+      "category": "音乐,幽默"
     },
     {
       "raw_hot": 750326,
@@ -2859,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583873,
+      "num": 442858,
+      "word": "活死人不是丧尸",
+      "onboard_time": 1683386552,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 583824,
       "num": 583824,
       "word": "五月天团票",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1683180207,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 574821,
+      "num": 439311,
+      "word": "知情人称挖呀挖黄老师无教师证",
+      "onboard_time": 1683388528,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572821,
@@ -3337,6 +3369,14 @@
       "onboard_time": 1683375089,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 515729,
+      "num": 433035,
+      "word": "庞博到底是谁",
+      "onboard_time": 1683388169,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 511979,
@@ -4515,14 +4555,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 392766,
-      "num": 392766,
-      "word": "放弃了三十万年薪去了街道办",
-      "onboard_time": 1683385771,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 391365,
       "num": 391365,
       "word": "向往的生活",
@@ -4769,6 +4801,14 @@
       "onboard_time": 1683129689,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 372664,
+      "num": 372664,
+      "word": "鹿晗诺言MV里的吴倩",
+      "onboard_time": 1683374010,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 371855,
@@ -5064,6 +5104,14 @@
       "word": "四川宜宾4.5级地震",
       "onboard_time": 1683090455,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349738,
+      "num": 349738,
+      "word": "承重墙业主 还没有任何解决方案",
+      "onboard_time": 1683387272,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -5369,6 +5417,14 @@
       "onboard_time": 1683000028,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 330750,
+      "num": 330750,
+      "word": "女子回应刷直播看到老公小三同游",
+      "onboard_time": 1683384630,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 330313,
@@ -5891,14 +5947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 305185,
-      "num": 245536,
-      "word": "鹿晗诺言MV里的吴倩",
-      "onboard_time": 1683374010,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "五一",
@@ -5913,14 +5961,6 @@
       "onboard_time": 1683249029,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 301561,
-      "num": 301561,
-      "word": "女子回应刷直播看到老公小三同游",
-      "onboard_time": 1683384630,
-      "rank": 23,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 301405,
@@ -6833,6 +6873,14 @@
       "onboard_time": 1682949150,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 259482,
+      "num": 170411,
+      "word": "谢娜嗑cp嗑到正主面前",
+      "onboard_time": 1683388351,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 258691,
@@ -7793,14 +7841,6 @@
       "onboard_time": 1682860410,
       "rank": 15,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 232724,
-      "num": 206587,
-      "word": "活死人不是丧尸",
-      "onboard_time": 1683386552,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 232638,
@@ -10875,6 +10915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162052,
+      "num": 122029,
+      "word": "周传雄演唱会",
+      "onboard_time": 1683387869,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161829,
       "num": 161829,
       "word": "杭州动物园大量游客乱投喂",
@@ -11041,6 +11089,14 @@
       "onboard_time": 1683130525,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158252,
+      "num": 158252,
+      "word": "工作5年终于存到了10万",
+      "onboard_time": 1683388469,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 157914,
@@ -11641,6 +11697,14 @@
       "onboard_time": 1682965217,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141015,
+      "num": 141015,
+      "word": "性格很单纯的人怎么在社会上生存",
+      "onboard_time": 1683389369,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 140867,
@@ -12659,6 +12723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108824,
+      "num": 108824,
+      "word": "曼城vs利兹联",
+      "onboard_time": 1683389070,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108667,
       "num": 108667,
       "word": "王一博雷宇已开启换肤模式",
@@ -12737,6 +12809,14 @@
       "onboard_time": 1683307938,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103341,
+      "num": 103341,
+      "word": "巴菲特股东大会",
+      "onboard_time": 1683389188,
+      "rank": 39,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 102530,
@@ -13305,6 +13385,14 @@
       "onboard_time": 1683047901,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 54775,
+      "num": 101006,
+      "word": "炫舞15周年代言人王心凌",
+      "onboard_time": 1683389486,
+      "rank": 49,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 53686,

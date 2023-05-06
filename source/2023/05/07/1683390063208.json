@@ -1,0 +1,410 @@
+{
+  "runTime": 1683390063208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1237184,
+        "num": 1237184,
+        "word": "吴倩状态 刚回国的赵默笙",
+        "onboard_time": 1683382595,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 971397,
+        "num": 971397,
+        "word": "黄老师唱的挖呀挖或涉嫌侵权",
+        "onboard_time": 1683381752,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63320,
+        "num": 910365,
+        "word": "当千里江山图遇上锦绣江苏",
+        "onboard_time": 1683379230,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854561,
+        "num": 854561,
+        "word": "放弃了三十万年薪去了街道办",
+        "onboard_time": 1683385771,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 837605,
+        "num": 837605,
+        "word": "刘美含落选浪姐",
+        "onboard_time": 1683368851,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 755976,
+        "num": 755976,
+        "word": "龚俊 他坐第一排我坐第七排",
+        "onboard_time": 1683388950,
+        "rank": 5,
+        "category": "音乐,幽默"
+      },
+      {
+        "raw_hot": 730491,
+        "num": 730491,
+        "word": "白鹿片场行为",
+        "onboard_time": 1683379172,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 721961,
+        "num": 721961,
+        "word": "黄晓明 0是啥意思",
+        "onboard_time": 1683378691,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514869,
+        "num": 514869,
+        "word": "女子吃手剥笋发现内藏竹虫",
+        "onboard_time": 1683382297,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449101,
+        "num": 449101,
+        "word": "张角",
+        "onboard_time": 1683384932,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 619108,
+        "num": 445761,
+        "word": "彩票中了1.7亿后该做什么",
+        "onboard_time": 1683369452,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 583873,
+        "num": 442858,
+        "word": "活死人不是丧尸",
+        "onboard_time": 1683386552,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574821,
+        "num": 439311,
+        "word": "知情人称挖呀挖黄老师无教师证",
+        "onboard_time": 1683388528,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515729,
+        "num": 433035,
+        "word": "庞博到底是谁",
+        "onboard_time": 1683388169,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505388,
+        "num": 430101,
+        "word": "五迷抵制黄牛",
+        "onboard_time": 1683383555,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 428747,
+        "num": 428747,
+        "word": "张艺兴舒淇电影 停拍",
+        "onboard_time": 1683371190,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 372664,
+        "num": 372664,
+        "word": "鹿晗诺言MV里的吴倩",
+        "onboard_time": 1683374010,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 349738,
+        "num": 349738,
+        "word": "承重墙业主 还没有任何解决方案",
+        "onboard_time": 1683387272,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330750,
+        "num": 330750,
+        "word": "女子回应刷直播看到老公小三同游",
+        "onboard_time": 1683384630,
+        "rank": 18,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 183893,
+        "num": 183893,
+        "word": "凯特王妃",
+        "onboard_time": 1683373649,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1110160,
+        "num": 177588,
+        "word": "巴厘岛女性死者胃部有大量液体",
+        "onboard_time": 1683361527,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888301,
+        "num": 175773,
+        "word": "活死人",
+        "onboard_time": 1683375451,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259482,
+        "num": 170411,
+        "word": "谢娜嗑cp嗑到正主面前",
+        "onboard_time": 1683388351,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162674,
+        "num": 162674,
+        "word": "这样啊 那他是骗你的",
+        "onboard_time": 1683372151,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158252,
+        "num": 158252,
+        "word": "工作5年终于存到了10万",
+        "onboard_time": 1683388469,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 498791,
+        "num": 157551,
+        "word": "没药花园 巴厘岛情侣身亡",
+        "onboard_time": 1683370471,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 235446,
+        "num": 155979,
+        "word": "路温评价王一博",
+        "onboard_time": 1683380255,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188792,
+        "num": 152242,
+        "word": "鬓边不是海棠红",
+        "onboard_time": 1683384154,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186091,
+        "num": 150254,
+        "word": "卡琳娜 帅",
+        "onboard_time": 1683384513,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104539,
+        "num": 149016,
+        "word": "英国国王查尔斯三世和王后卡米拉加冕",
+        "onboard_time": 1683371791,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 182694,
+        "num": 146020,
+        "word": "奔跑吧回应收视率创新低",
+        "onboard_time": 1683360150,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174080,
+        "num": 143383,
+        "word": "深圳一公司年薪50万岗位优先李一桐粉丝",
+        "onboard_time": 1683373170,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163627,
+        "num": 142522,
+        "word": "墨香铜臭",
+        "onboard_time": 1683355650,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141015,
+        "num": 141015,
+        "word": "性格很单纯的人怎么在社会上生存",
+        "onboard_time": 1683389369,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 128509,
+        "num": 128509,
+        "word": "辞职后靠摆摊月入五万",
+        "onboard_time": 1683372571,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162052,
+        "num": 122029,
+        "word": "周传雄演唱会",
+        "onboard_time": 1683387869,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159174,
+        "num": 121128,
+        "word": "金晨给朱珠送平凡暖心包",
+        "onboard_time": 1683378630,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 112804,
+        "num": 112804,
+        "word": "哈尔滨承重墙",
+        "onboard_time": 1683383613,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108824,
+        "num": 108824,
+        "word": "曼城vs利兹联",
+        "onboard_time": 1683389070,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103341,
+        "num": 103341,
+        "word": "巴菲特股东大会",
+        "onboard_time": 1683389188,
+        "rank": 39,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 156184,
+        "num": 103275,
+        "word": "长月烬明网飞也是40集",
+        "onboard_time": 1683375631,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 155184,
+        "num": 102734,
+        "word": "白鹿周深范丞丞组合名",
+        "onboard_time": 1683385469,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143282,
+        "num": 102702,
+        "word": "IU认出了10年没见的粉丝",
+        "onboard_time": 1683368429,
+        "rank": 42,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 137071,
+        "num": 102216,
+        "word": "杨和苏",
+        "onboard_time": 1683374968,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1020077,
+        "num": 102047,
+        "word": "婆婆直接把38.8万彩礼转我了",
+        "onboard_time": 1683383253,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114820,
+        "num": 101468,
+        "word": "刘些宁戴牙套了",
+        "onboard_time": 1683376827,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106697,
+        "num": 101316,
+        "word": "五月天吧",
+        "onboard_time": 1683373708,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 101125,
+        "num": 101125,
+        "word": "总领馆回应2中国公民巴厘岛身亡案",
+        "onboard_time": 1683369932,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 67616,
+        "num": 101122,
+        "word": "cp29场照被炼进AI模型",
+        "onboard_time": 1683381093,
+        "rank": 48,
+        "category": "动漫,网红"
+      },
+      {
+        "raw_hot": 54775,
+        "num": 101006,
+        "word": "炫舞15周年代言人王心凌",
+        "onboard_time": 1683389486,
+        "rank": 49,
+        "category": "游戏,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开二十届中央财经委员会第一次会议#"
+    }
+  }
+}
