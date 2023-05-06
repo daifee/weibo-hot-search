@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683380005208,
+  "endTime": 1683382446756,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1901646,
+      "num": 1309236,
+      "word": "活死人",
+      "onboard_time": 1683375451,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1897707,
       "num": 612012,
       "word": "秦昊瘦身食谱",
@@ -529,6 +537,14 @@
       "onboard_time": 1682937088,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1823033,
+      "num": 1823033,
+      "word": "黄晓明 0是啥意思",
+      "onboard_time": 1683378691,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1812486,
@@ -1083,14 +1099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1309236,
-      "num": 1309236,
-      "word": "活死人",
-      "onboard_time": 1683375451,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1298777,
       "num": 386107,
       "word": "工资3500突然变成了一万",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1682862627,
       "rank": 4,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 1137689,
-      "num": 1137689,
-      "word": "黄晓明 0是啥意思",
-      "onboard_time": 1683378691,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 1133149,
@@ -1875,6 +1875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 897147,
+      "num": 897147,
+      "word": "白鹿片场行为",
+      "onboard_time": 1683379172,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 891303,
       "num": 891303,
       "word": "大伯二婚对象是我初恋的妈妈",
@@ -2243,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 739922,
+      "num": 687956,
+      "word": "没药花园 巴厘岛情侣身亡",
+      "onboard_time": 1683370471,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 736886,
       "num": 736886,
       "word": "知否演员最新合照",
@@ -2443,14 +2459,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 687956,
-      "num": 687956,
-      "word": "没药花园 巴厘岛情侣身亡",
-      "onboard_time": 1683370471,
-      "rank": 30,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 685337,
       "num": 409840,
       "word": "蔡少芬曾说张丹峰坏坏的",
@@ -2579,6 +2587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633253,
+      "num": 633253,
+      "word": "张艺兴舒淇电影 停拍",
+      "onboard_time": 1683371190,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632654,
       "num": 632654,
       "word": "石川佳纯宣布退役",
@@ -2609,6 +2625,14 @@
       "onboard_time": 1682991928,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 625645,
+      "num": 625645,
+      "word": "江阴枪击案嫌犯疑似逃进山",
+      "onboard_time": 1683380853,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 624496,
@@ -3515,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476282,
+      "num": 351466,
+      "word": "路温评价王一博",
+      "onboard_time": 1683380255,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474099,
       "num": 474099,
       "word": "正版少爷和我",
@@ -3641,6 +3673,14 @@
       "onboard_time": 1683019228,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 459246,
+      "num": 345509,
+      "word": "刘些宁戴牙套了",
+      "onboard_time": 1683376827,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 458758,
@@ -4011,14 +4051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 426592,
-      "num": 426592,
-      "word": "张艺兴舒淇电影 停拍",
-      "onboard_time": 1683371190,
-      "rank": 31,
-      "category": "影视"
-    },
-    {
       "raw_hot": 423474,
       "num": 279560,
       "word": "蔡文静社交账号评论区",
@@ -4104,6 +4136,14 @@
       "word": "朴彩英Met Gala",
       "onboard_time": 1682988868,
       "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415385,
+      "num": 308646,
+      "word": "金晨给朱珠送平凡暖心包",
+      "onboard_time": 1683378630,
+      "rank": 35,
       "category": "作品衍生"
     },
     {
@@ -4568,6 +4608,14 @@
       "word": "7岁女孩为捐髓救母拼命吃到80斤",
       "onboard_time": 1683187588,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380367,
+      "num": 380367,
+      "word": "官方通报内蒙古一沙漠中埋有三角钉",
+      "onboard_time": 1683380193,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -5763,14 +5811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302599,
-      "num": 302599,
-      "word": "金晨给朱珠送平凡暖心包",
-      "onboard_time": 1683378630,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 302294,
       "num": 302294,
       "word": "五一",
@@ -6227,6 +6267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278931,
+      "num": 278931,
+      "word": "徐明浩给沈月送花",
+      "onboard_time": 1683381214,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278802,
       "num": 278802,
       "word": "瑞幸咖啡一季度营业利润达6.78亿元",
@@ -6561,14 +6609,6 @@
       "onboard_time": 1682913507,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 264091,
-      "num": 264091,
-      "word": "刘些宁戴牙套了",
-      "onboard_time": 1683376827,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 263757,
@@ -7187,6 +7227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 244006,
+      "num": 238594,
+      "word": "长月烬明网飞也是40集",
+      "onboard_time": 1683375631,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243984,
       "num": 243984,
       "word": "石墩子 花花女士的肚子",
@@ -7355,28 +7403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238594,
-      "num": 238594,
-      "word": "长月烬明网飞也是40集",
-      "onboard_time": 1683375631,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 238581,
       "num": 238581,
       "word": "曾经看不起现在离不开的",
       "onboard_time": 1683022346,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 238558,
-      "num": 238558,
-      "word": "白鹿片场行为",
-      "onboard_time": 1683379172,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 237944,
@@ -7499,6 +7531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235594,
+      "num": 235594,
+      "word": "买车买房婚育能激励你努力工作吗",
+      "onboard_time": 1683376228,
+      "rank": 49,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 235557,
       "num": 235557,
       "word": "杨洋同学会跳舞视频",
@@ -7521,6 +7561,14 @@
       "onboard_time": 1683261452,
       "rank": 39,
       "category": "影视"
+    },
+    {
+      "raw_hot": 235264,
+      "num": 235264,
+      "word": "黄老师唱的挖呀挖或涉嫌侵权",
+      "onboard_time": 1683381752,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234794,
@@ -9009,6 +9057,14 @@
       "onboard_time": 1683175176,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198786,
+      "num": 198786,
+      "word": "GK",
+      "onboard_time": 1683382233,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 198648,
@@ -10987,6 +11043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154560,
+      "num": 157989,
+      "word": "cp29场照被炼进AI模型",
+      "onboard_time": 1683381093,
+      "rank": 43,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 154348,
       "num": 154348,
       "word": "东北文学",
@@ -11307,6 +11371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146120,
+      "num": 146120,
+      "word": "女子吃手剥笋发现内藏竹虫",
+      "onboard_time": 1683382297,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145686,
       "num": 145686,
       "word": "詹姆斯三分",
@@ -11545,6 +11617,14 @@
       "onboard_time": 1683374849,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135478,
+      "num": 135478,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1683381030,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 135217,
@@ -12043,14 +12123,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 122679,
-      "num": 122679,
-      "word": "买车买房婚育能激励你努力工作吗",
-      "onboard_time": 1683376228,
-      "rank": 49,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 122515,
       "num": 122515,
       "word": "长空之王单日票房破亿",
@@ -12449,6 +12521,14 @@
       "onboard_time": 1682904511,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 108531,
+      "num": 1327860,
+      "word": "当千里江山图遇上锦绣江苏",
+      "onboard_time": 1683379230,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107611,
@@ -13008,14 +13088,6 @@
       "word": "多公司假后晚到不计考勤",
       "onboard_time": 1683183629,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62373,
-      "num": 1327860,
-      "word": "当千里江山图遇上锦绣江苏",
-      "onboard_time": 1683379230,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

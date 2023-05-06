@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683380005208,
+  "endTime": 1683382446756,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1901646,
+      "num": 1309236,
+      "word": "活死人",
+      "onboard_time": 1683375451,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1848025,
       "num": 1741467,
       "word": "南昌咬人",
@@ -97,6 +105,14 @@
       "onboard_time": 1683355650,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1823033,
+      "num": 1823033,
+      "word": "黄晓明 0是啥意思",
+      "onboard_time": 1683378691,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1785632,
@@ -211,14 +227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1309236,
-      "num": 1309236,
-      "word": "活死人",
-      "onboard_time": 1683375451,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1295246,
       "num": 1295246,
       "word": "安以轩老公赌场是如何运作的",
@@ -265,14 +273,6 @@
       "onboard_time": 1683284667,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1137689,
-      "num": 1137689,
-      "word": "黄晓明 0是啥意思",
-      "onboard_time": 1683378691,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 1131243,
@@ -369,6 +369,14 @@
       "onboard_time": 1683337709,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 897147,
+      "num": 897147,
+      "word": "白鹿片场行为",
+      "onboard_time": 1683379172,
+      "rank": 29,
+      "category": "影视"
     },
     {
       "raw_hot": 895356,
@@ -475,6 +483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 739922,
+      "num": 687956,
+      "word": "没药花园 巴厘岛情侣身亡",
+      "onboard_time": 1683370471,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 738648,
       "num": 738648,
       "word": "浪姐4谢娜人气排第一",
@@ -499,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 687956,
-      "num": 687956,
-      "word": "没药花园 巴厘岛情侣身亡",
-      "onboard_time": 1683370471,
-      "rank": 30,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 657744,
       "num": 657744,
       "word": "杭州高空扔狗事件",
@@ -515,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 633253,
+      "num": 633253,
+      "word": "张艺兴舒淇电影 停拍",
+      "onboard_time": 1683371190,
+      "rank": 31,
+      "category": "影视"
+    },
+    {
       "raw_hot": 632434,
       "num": 374212,
       "word": "黄老师",
       "onboard_time": 1683298231,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 625645,
+      "num": 625645,
+      "word": "江阴枪击案嫌犯疑似逃进山",
+      "onboard_time": 1683380853,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596291,
@@ -651,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476282,
+      "num": 351466,
+      "word": "路温评价王一博",
+      "onboard_time": 1683380255,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474099,
       "num": 474099,
       "word": "正版少爷和我",
@@ -673,6 +705,14 @@
       "onboard_time": 1683341310,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 459246,
+      "num": 345509,
+      "word": "刘些宁戴牙套了",
+      "onboard_time": 1683376827,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 449748,
@@ -755,12 +795,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 426592,
-      "num": 426592,
-      "word": "张艺兴舒淇电影 停拍",
-      "onboard_time": 1683371190,
-      "rank": 31,
-      "category": "影视"
+      "raw_hot": 415385,
+      "num": 308646,
+      "word": "金晨给朱珠送平凡暖心包",
+      "onboard_time": 1683378630,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 409935,
@@ -824,6 +864,14 @@
       "word": "东莞东城回应连续8天安排核酸检测",
       "onboard_time": 1683348215,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380367,
+      "num": 380367,
+      "word": "官方通报内蒙古一沙漠中埋有三角钉",
+      "onboard_time": 1683380193,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1083,14 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302599,
-      "num": 302599,
-      "word": "金晨给朱珠送平凡暖心包",
-      "onboard_time": 1683378630,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 302489,
       "num": 302489,
       "word": "林一你换个发型吧",
@@ -1187,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278931,
+      "num": 278931,
+      "word": "徐明浩给沈月送花",
+      "onboard_time": 1683381214,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277185,
       "num": 277185,
       "word": "广州宝马撞人案司机提起上诉",
@@ -1233,14 +1281,6 @@
       "onboard_time": 1683334352,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 264091,
-      "num": 264091,
-      "word": "刘些宁戴牙套了",
-      "onboard_time": 1683376827,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 263321,
@@ -1347,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244006,
+      "num": 238594,
+      "word": "长月烬明网飞也是40集",
+      "onboard_time": 1683375631,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 243274,
       "num": 228286,
       "word": "陈都灵看过杨幂的每部戏",
@@ -1371,22 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238594,
-      "num": 238594,
-      "word": "长月烬明网飞也是40集",
-      "onboard_time": 1683375631,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 238558,
-      "num": 238558,
-      "word": "白鹿片场行为",
-      "onboard_time": 1683379172,
-      "rank": 29,
-      "category": "影视"
-    },
-    {
       "raw_hot": 237183,
       "num": 237183,
       "word": "永远会被东北的物价感动",
@@ -1401,6 +1433,22 @@
       "onboard_time": 1683346832,
       "rank": 40,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 235594,
+      "num": 235594,
+      "word": "买车买房婚育能激励你努力工作吗",
+      "onboard_time": 1683376228,
+      "rank": 49,
+      "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 235264,
+      "num": 235264,
+      "word": "黄老师唱的挖呀挖或涉嫌侵权",
+      "onboard_time": 1683381752,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234537,
@@ -1609,6 +1657,14 @@
       "onboard_time": 1683331708,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198786,
+      "num": 198786,
+      "word": "GK",
+      "onboard_time": 1683382233,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 198543,
@@ -1939,6 +1995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154560,
+      "num": 157989,
+      "word": "cp29场照被炼进AI模型",
+      "onboard_time": 1683381093,
+      "rank": 43,
+      "category": "动漫,网红"
+    },
+    {
       "raw_hot": 154210,
       "num": 134201,
       "word": "全圆佑肩宽58厘米",
@@ -2011,6 +2075,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 146120,
+      "num": 146120,
+      "word": "女子吃手剥笋发现内藏竹虫",
+      "onboard_time": 1683382297,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145514,
       "num": 145514,
       "word": "港星职场发疯文学",
@@ -2073,6 +2145,14 @@
       "onboard_time": 1683374849,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135478,
+      "num": 135478,
+      "word": "中国说唱巅峰对决",
+      "onboard_time": 1683381030,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 134965,
@@ -2155,14 +2235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122679,
-      "num": 122679,
-      "word": "买车买房婚育能激励你努力工作吗",
-      "onboard_time": 1683376228,
-      "rank": 49,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 120292,
       "num": 120292,
       "word": "楼明",
@@ -2208,6 +2280,14 @@
       "word": "00后淘宝卖扳手收入300万",
       "onboard_time": 1683374428,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108531,
+      "num": 1327860,
+      "word": "当千里江山图遇上锦绣江苏",
+      "onboard_time": 1683379230,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2313,14 +2393,6 @@
       "onboard_time": 1683291871,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 62373,
-      "num": 1327860,
-      "word": "当千里江山图遇上锦绣江苏",
-      "onboard_time": 1683379230,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49764,
