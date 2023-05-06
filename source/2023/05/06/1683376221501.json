@@ -1,0 +1,410 @@
+{
+  "runTime": 1683376221501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2621585,
+        "num": 2621585,
+        "word": "彩票中了1.7亿后该做什么",
+        "onboard_time": 1683369452,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2157547,
+        "num": 2157547,
+        "word": "刘美含落选浪姐",
+        "onboard_time": 1683368851,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38737,
+        "num": 1215961,
+        "word": "巩固消费回暖好势头",
+        "onboard_time": 1683361051,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 749412,
+        "num": 749412,
+        "word": "IU认出了10年没见的粉丝",
+        "onboard_time": 1683368429,
+        "rank": 3,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 802162,
+        "num": 744698,
+        "word": "差点以18.8的彩礼嫁给发小",
+        "onboard_time": 1683370171,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1021125,
+        "num": 717734,
+        "word": "英国国王查尔斯三世和王后卡米拉加冕",
+        "onboard_time": 1683371791,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 688483,
+        "num": 688483,
+        "word": "奔跑吧回应收视率创新低",
+        "onboard_time": 1683360150,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641186,
+        "num": 641186,
+        "word": "墨香铜臭",
+        "onboard_time": 1683355650,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 630588,
+        "num": 630588,
+        "word": "这样啊 那他是骗你的",
+        "onboard_time": 1683372151,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333377,
+        "num": 602031,
+        "word": "总领馆回应2中国公民巴厘岛身亡案",
+        "onboard_time": 1683369932,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1212040,
+        "num": 596741,
+        "word": "巴厘岛女性死者胃部有大量液体",
+        "onboard_time": 1683361527,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580185,
+        "num": 580185,
+        "word": "没药花园 巴厘岛情侣身亡",
+        "onboard_time": 1683370471,
+        "rank": 11,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 484948,
+        "num": 484948,
+        "word": "凯特王妃",
+        "onboard_time": 1683373649,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 409935,
+        "num": 409935,
+        "word": "张杰男德满分",
+        "onboard_time": 1683371852,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400837,
+        "num": 400837,
+        "word": "张艺兴舒淇电影 停拍",
+        "onboard_time": 1683371190,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 388966,
+        "num": 388966,
+        "word": "霉霉 有屁重录",
+        "onboard_time": 1683357028,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 353848,
+        "num": 353848,
+        "word": "虎牙",
+        "onboard_time": 1683373170,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339143,
+        "num": 339143,
+        "word": "夏洛特公主",
+        "onboard_time": 1683375089,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 321591,
+        "num": 321591,
+        "word": "Billkin青岛机场音乐节",
+        "onboard_time": 1683372748,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310337,
+        "num": 320439,
+        "word": "卡米拉",
+        "onboard_time": 1683372809,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 320305,
+        "num": 320305,
+        "word": "深圳一公司年薪50万岗位优先李一桐粉丝",
+        "onboard_time": 1683373170,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313923,
+        "num": 313923,
+        "word": "辞职后靠摆摊月入五万",
+        "onboard_time": 1683372571,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309807,
+        "num": 309807,
+        "word": "全圆佑 游戏",
+        "onboard_time": 1683375750,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291710,
+        "num": 291710,
+        "word": "五月天吧",
+        "onboard_time": 1683373708,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 277185,
+        "num": 277185,
+        "word": "广州宝马撞人案司机提起上诉",
+        "onboard_time": 1683370592,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260215,
+        "num": 260215,
+        "word": "未婚先孕六个月跟爸妈坦白",
+        "onboard_time": 1683337049,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259560,
+        "num": 259560,
+        "word": "杨和苏",
+        "onboard_time": 1683374968,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240980,
+        "num": 240980,
+        "word": "深圳山姆",
+        "onboard_time": 1683353789,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232444,
+        "num": 232444,
+        "word": "妲己为什么总喂纣王吃葡萄",
+        "onboard_time": 1683354028,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228468,
+        "num": 228468,
+        "word": "青春环游记",
+        "onboard_time": 1683375750,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1272384,
+        "num": 228318,
+        "word": "24人吃淄博烧烤花760元",
+        "onboard_time": 1683368189,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 225402,
+        "num": 225402,
+        "word": "活死人",
+        "onboard_time": 1683375451,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224034,
+        "num": 224034,
+        "word": "于正用秦昊减肥食谱瘦了10斤",
+        "onboard_time": 1683353668,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 212104,
+        "num": 212104,
+        "word": "好朋友退出群聊了",
+        "onboard_time": 1683362123,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211265,
+        "num": 211265,
+        "word": "网友癌症靶向药落在公交车被大妈捡走",
+        "onboard_time": 1683350132,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188036,
+        "num": 188036,
+        "word": "刘美含 努力争取不丢人",
+        "onboard_time": 1683369571,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187757,
+        "num": 187757,
+        "word": "选男友最好的方式就是爬山",
+        "onboard_time": 1683366867,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 185797,
+        "num": 185797,
+        "word": "巴厘岛凶案酒店称形象严重受损",
+        "onboard_time": 1683347975,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185709,
+        "num": 185709,
+        "word": "街舞6你期待哪位队长回归",
+        "onboard_time": 1683375268,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73246,
+        "num": 184469,
+        "word": "00后淘宝卖扳手收入300万",
+        "onboard_time": 1683374428,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184398,
+        "num": 184398,
+        "word": "长月烬明网飞也是40集",
+        "onboard_time": 1683375631,
+        "rank": 40,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 180686,
+        "num": 180686,
+        "word": "原来王一博也跳过极乐净土",
+        "onboard_time": 1683364831,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177033,
+        "num": 177033,
+        "word": "丈夫出轨被鹦鹉模仿露骨言语揭穿",
+        "onboard_time": 1683340052,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164057,
+        "num": 164057,
+        "word": "吴倩小心翼翼的样子好心疼",
+        "onboard_time": 1683338730,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160467,
+        "num": 160467,
+        "word": "安九",
+        "onboard_time": 1683371132,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149507,
+        "num": 149507,
+        "word": "Uzi复播",
+        "onboard_time": 1683369268,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136351,
+        "num": 136351,
+        "word": "艾热舞台",
+        "onboard_time": 1683375869,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135661,
+        "num": 135661,
+        "word": "LGD对战DRG",
+        "onboard_time": 1683374849,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135152,
+        "num": 135152,
+        "word": "爸爸以为孩子落水立马跳进水塘",
+        "onboard_time": 1683366627,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129091,
+        "num": 129091,
+        "word": "头发对人的情绪影响",
+        "onboard_time": 1683376169,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#3个关键词把握五一后首场重磅会议#"
+    }
+  }
+}
