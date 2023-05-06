@@ -1,6 +1,6 @@
 {
   "startTime": 1683303746238,
-  "endTime": 1683382446756,
+  "endTime": 1683383595904,
   "band_list": [
     {
       "raw_hot": 3264068,
@@ -51,12 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2514024,
+      "num": 2514024,
+      "word": "吴倩状态 刚回国的赵默笙",
+      "onboard_time": 1683382595,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2294577,
       "num": 1588241,
       "word": "未婚先孕六个月跟爸妈坦白",
       "onboard_time": 1683337049,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2272770,
+      "num": 1309236,
+      "word": "活死人",
+      "onboard_time": 1683375451,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 2267391,
@@ -81,14 +97,6 @@
       "onboard_time": 1683332792,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1901646,
-      "num": 1309236,
-      "word": "活死人",
-      "onboard_time": 1683375451,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1848025,
@@ -355,6 +363,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 957945,
+      "num": 957945,
+      "word": "白鹿片场行为",
+      "onboard_time": 1683379172,
+      "rank": 29,
+      "category": "影视"
+    },
+    {
       "raw_hot": 923117,
       "num": 923117,
       "word": "浪4 有钱",
@@ -369,14 +385,6 @@
       "onboard_time": 1683337709,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 897147,
-      "num": 897147,
-      "word": "白鹿片场行为",
-      "onboard_time": 1683379172,
-      "rank": 29,
-      "category": "影视"
     },
     {
       "raw_hot": 895356,
@@ -483,6 +491,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 743296,
+      "num": 379553,
+      "word": "黄老师唱的挖呀挖或涉嫌侵权",
+      "onboard_time": 1683381752,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739922,
       "num": 687956,
       "word": "没药花园 巴厘岛情侣身亡",
@@ -515,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 661362,
+      "num": 625645,
+      "word": "江阴枪击案嫌犯疑似逃进山",
+      "onboard_time": 1683380853,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 657744,
       "num": 657744,
       "word": "杭州高空扔狗事件",
@@ -537,14 +561,6 @@
       "onboard_time": 1683298231,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 625645,
-      "num": 625645,
-      "word": "江阴枪击案嫌犯疑似逃进山",
-      "onboard_time": 1683380853,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596291,
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 476282,
-      "num": 351466,
+      "num": 378404,
       "word": "路温评价王一博",
       "onboard_time": 1683380255,
       "rank": 11,
@@ -713,6 +729,14 @@
       "onboard_time": 1683376827,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455014,
+      "num": 455014,
+      "word": "官方通报内蒙古一沙漠中埋有三角钉",
+      "onboard_time": 1683380193,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449748,
@@ -796,7 +820,7 @@
     },
     {
       "raw_hot": 415385,
-      "num": 308646,
+      "num": 324629,
       "word": "金晨给朱珠送平凡暖心包",
       "onboard_time": 1683378630,
       "rank": 35,
@@ -864,14 +888,6 @@
       "word": "东莞东城回应连续8天安排核酸检测",
       "onboard_time": 1683348215,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380367,
-      "num": 380367,
-      "word": "官方通报内蒙古一沙漠中埋有三角钉",
-      "onboard_time": 1683380193,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1035,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327899,
+      "num": 350663,
+      "word": "女子吃手剥笋发现内藏竹虫",
+      "onboard_time": 1683382297,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324624,
       "num": 324624,
       "word": "刘美含 努力争取不丢人",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1683374968,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 296571,
+      "num": 296571,
+      "word": "婆婆直接把38.8万彩礼转我了",
+      "onboard_time": 1683383253,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 292837,
@@ -1323,6 +1355,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 254503,
+      "num": 254503,
+      "word": "长月烬明网飞也是40集",
+      "onboard_time": 1683375631,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 254461,
       "num": 250499,
       "word": "胡歌南京",
@@ -1387,14 +1427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244006,
-      "num": 238594,
-      "word": "长月烬明网飞也是40集",
-      "onboard_time": 1683375631,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 243274,
       "num": 228286,
       "word": "陈都灵看过杨幂的每部戏",
@@ -1419,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240441,
+      "num": 240441,
+      "word": "砸承重墙居民楼加固后强度或高于设计值",
+      "onboard_time": 1683382471,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237183,
       "num": 237183,
       "word": "永远会被东北的物价感动",
@@ -1441,14 +1481,6 @@
       "onboard_time": 1683376228,
       "rank": 49,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 235264,
-      "num": 235264,
-      "word": "黄老师唱的挖呀挖或涉嫌侵权",
-      "onboard_time": 1683381752,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234537,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1683339870,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 219834,
+      "num": 219834,
+      "word": "GK",
+      "onboard_time": 1683382233,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 217740,
@@ -1659,14 +1699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198786,
-      "num": 198786,
-      "word": "GK",
-      "onboard_time": 1683382233,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198543,
       "num": 197243,
       "word": "沙溢从婀娜多姿变痛苦面具只需一个周深",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1683340531,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 191967,
+      "num": 191967,
+      "word": "切尔西 进球",
+      "onboard_time": 1683383195,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 191605,
@@ -1873,6 +1913,14 @@
       "onboard_time": 1683328642,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175768,
+      "num": 175768,
+      "word": "五迷抵制黄牛",
+      "onboard_time": 1683383555,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 174881,
@@ -2073,14 +2121,6 @@
       "onboard_time": 1683328942,
       "rank": 38,
       "category": "影视"
-    },
-    {
-      "raw_hot": 146120,
-      "num": 146120,
-      "word": "女子吃手剥笋发现内藏竹虫",
-      "onboard_time": 1683382297,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145514,
