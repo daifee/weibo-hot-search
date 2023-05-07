@@ -1,0 +1,410 @@
+{
+  "runTime": 1683433198038,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1882503,
+        "num": 1882503,
+        "word": "男子在淄博吃完烧烤直接买房定居",
+        "onboard_time": 1683422425,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1118927,
+        "num": 1118927,
+        "word": "南京女大学生被害案罪犯洪峤被执行死刑",
+        "onboard_time": 1683429566,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36558,
+        "num": 853645,
+        "word": "天舟六号船箭垂直转运进发射区",
+        "onboard_time": 1683432928,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823817,
+        "num": 823817,
+        "word": "原来只打中文也能看出国籍",
+        "onboard_time": 1683416663,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 811595,
+        "num": 811595,
+        "word": "关晓彤玩游戏不敢提鹿晗",
+        "onboard_time": 1683428666,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 742182,
+        "num": 742182,
+        "word": "品如的苹果手机怎么是翻盖的",
+        "onboard_time": 1683425187,
+        "rank": 5,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 596915,
+        "num": 596915,
+        "word": "罗云熙白鹿的脸重叠是王鹤棣",
+        "onboard_time": 1683426447,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 519294,
+        "num": 519294,
+        "word": "沈月是来给张凌赫救场的吧",
+        "onboard_time": 1683431127,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431204,
+        "num": 431204,
+        "word": "吴倩状态 刚回国的赵默笙",
+        "onboard_time": 1683382595,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393508,
+        "num": 393508,
+        "word": "黄老师唱的挖呀挖或涉嫌侵权",
+        "onboard_time": 1683381752,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1612355,
+        "num": 391441,
+        "word": "手术室里开黄腔",
+        "onboard_time": 1683431967,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979357,
+        "num": 387499,
+        "word": "网友自称曾霸凌刘亦菲",
+        "onboard_time": 1683420684,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484204,
+        "num": 386124,
+        "word": "去男朋友家收到了30元红包",
+        "onboard_time": 1683427766,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443403,
+        "num": 381301,
+        "word": "巴厘岛命案警方排除第三人盗窃行凶可能",
+        "onboard_time": 1683394281,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435366,
+        "num": 378067,
+        "word": "董洁43岁身材",
+        "onboard_time": 1683416420,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377461,
+        "num": 377461,
+        "word": "奔跑吧一起运动吧",
+        "onboard_time": 1683431607,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351425,
+        "num": 351425,
+        "word": "seventeen 内地签售会",
+        "onboard_time": 1683425309,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339868,
+        "num": 339868,
+        "word": "张大大都带ab了杨幂还会远吗",
+        "onboard_time": 1683420264,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328180,
+        "num": 328180,
+        "word": "知情人称挖呀挖黄老师无教师证",
+        "onboard_time": 1683388528,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324219,
+        "num": 324219,
+        "word": "湖人2比1勇士",
+        "onboard_time": 1683429746,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497230,
+        "num": 320605,
+        "word": "巴厘岛女性死者胃部有大量液体",
+        "onboard_time": 1683361527,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302883,
+        "num": 302883,
+        "word": "NBA裁判",
+        "onboard_time": 1683426386,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300361,
+        "num": 300361,
+        "word": "女子吃手剥笋发现内藏竹虫",
+        "onboard_time": 1683382297,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297988,
+        "num": 297988,
+        "word": "为什么男生买东西要先问女生要不要",
+        "onboard_time": 1683428006,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 276250,
+        "num": 276250,
+        "word": "承重墙住户称干一辈子就弄这一套房",
+        "onboard_time": 1683423388,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261678,
+        "num": 261678,
+        "word": "迪丽热巴好白啊",
+        "onboard_time": 1683424827,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258300,
+        "num": 258300,
+        "word": "吴倩你好星期六",
+        "onboard_time": 1683419365,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256183,
+        "num": 256183,
+        "word": "老公出轨该及时挽回还是果断分开",
+        "onboard_time": 1683418044,
+        "rank": 27,
+        "category": "影视,情感"
+      },
+      {
+        "raw_hot": 255880,
+        "num": 255880,
+        "word": "还没入职就让我先把离职签了",
+        "onboard_time": 1683429026,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253824,
+        "num": 253824,
+        "word": "吴宣仪演技",
+        "onboard_time": 1683427826,
+        "rank": 29,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 247617,
+        "num": 247617,
+        "word": "事业单位",
+        "onboard_time": 1683418462,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237772,
+        "num": 237772,
+        "word": "一桌八个菜仅一荤卖528元",
+        "onboard_time": 1683432147,
+        "rank": 31,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 236529,
+        "num": 236529,
+        "word": "周杰伦沈月合照",
+        "onboard_time": 1683420806,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12789,
+        "num": 216479,
+        "word": "当千里江山图遇上锦绣江苏",
+        "onboard_time": 1683379230,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207335,
+        "num": 207335,
+        "word": "五月天 彩虹纸",
+        "onboard_time": 1683428428,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189165,
+        "num": 189165,
+        "word": "大英赛",
+        "onboard_time": 1683429627,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187599,
+        "num": 187599,
+        "word": "这程度可以报工伤了吧",
+        "onboard_time": 1683432328,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174048,
+        "num": 174048,
+        "word": "周杰伦香港演唱会盛况",
+        "onboard_time": 1683432514,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172950,
+        "num": 172950,
+        "word": "大英赛答案",
+        "onboard_time": 1683431548,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165313,
+        "num": 165313,
+        "word": "活死人",
+        "onboard_time": 1683375451,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161640,
+        "num": 161640,
+        "word": "中国人有自己的侃爷",
+        "onboard_time": 1683427407,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160300,
+        "num": 160300,
+        "word": "庞博到底是谁",
+        "onboard_time": 1683388169,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148025,
+        "num": 148025,
+        "word": "黄晓明 0是啥意思",
+        "onboard_time": 1683378691,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "看过但又不好意思承认看过的小说",
+        "onboard_time": 1683423207,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135116,
+        "num": 135116,
+        "word": "湖人罚球",
+        "onboard_time": 1683427166,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131246,
+        "num": 131246,
+        "word": "王源绿发怼脸镜头",
+        "onboard_time": 1683431068,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128954,
+        "num": 128954,
+        "word": "勇士vs湖人",
+        "onboard_time": 1683421047,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72512,
+        "num": 128948,
+        "word": "想买榴莲的有福了",
+        "onboard_time": 1683415880,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60791,
+        "num": 128942,
+        "word": "张角痛哭道歉",
+        "onboard_time": 1683420264,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39023,
+        "num": 128925,
+        "word": "Cat选手夏天见",
+        "onboard_time": 1683417082,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开二十届中央财经委员会第一次会议#"
+    }
+  }
+}
