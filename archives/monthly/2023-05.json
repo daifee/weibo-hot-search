@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683473605872,
+  "endTime": 1683476453649,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -337,6 +337,14 @@
       "onboard_time": 1683375451,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2270611,
+      "num": 2270611,
+      "word": "巴厘岛情侣 柬埔寨车牌",
+      "onboard_time": 1683472713,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2269037,
@@ -2955,14 +2963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 670404,
-      "num": 639080,
-      "word": "巴厘岛情侣 柬埔寨车牌",
-      "onboard_time": 1683472713,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 669568,
       "num": 346221,
       "word": "妖刀C麻了",
@@ -3769,6 +3769,14 @@
       "onboard_time": 1683196407,
       "rank": 47,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 529993,
+      "num": 529993,
+      "word": "给内娱一点二次元震撼",
+      "onboard_time": 1683473430,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 529382,
@@ -5243,6 +5251,14 @@
       "category": "社会新闻,社会新闻"
     },
     {
+      "raw_hot": 389490,
+      "num": 389490,
+      "word": "周扬青",
+      "onboard_time": 1683470554,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389386,
       "num": 1280127,
       "word": "爸爸以为孩子落水立马跳进水塘",
@@ -5681,6 +5697,14 @@
       "onboard_time": 1683284130,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 359767,
+      "num": 298965,
+      "word": "校方通报学生洗澡时晕倒身亡",
+      "onboard_time": 1683473792,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 359310,
@@ -10827,6 +10851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195072,
+      "num": 195072,
+      "word": "seventeen出差十五夜",
+      "onboard_time": 1683473491,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195027,
       "num": 195027,
       "word": "巴厘岛情侣遇害案警方仍未定性",
@@ -11193,14 +11225,6 @@
       "onboard_time": 1683177869,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 186842,
-      "num": 186842,
-      "word": "给内娱一点二次元震撼",
-      "onboard_time": 1683473430,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 186771,
@@ -12049,14 +12073,6 @@
       "onboard_time": 1683438749,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171248,
-      "num": 171248,
-      "word": "seventeen出差十五夜",
-      "onboard_time": 1683473491,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 171044,
@@ -13875,6 +13891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126873,
+      "num": 126873,
+      "word": "工作5年你能存多少钱",
+      "onboard_time": 1683475048,
+      "rank": 39,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 126694,
       "num": 126694,
       "word": "真的会被面包节试吃震惊",
@@ -14299,6 +14323,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113853,
+      "num": 113853,
+      "word": "陆虎杭州巡演",
+      "onboard_time": 1683475650,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 113665,
       "num": 113665,
       "word": "重庆一大桥桥墩发生火灾致1死2伤",
@@ -14313,6 +14345,14 @@
       "onboard_time": 1683243145,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 113243,
+      "num": 113243,
+      "word": "美依礼芽说谢谢大家的应援",
+      "onboard_time": 1683475947,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 112794,
@@ -14617,6 +14657,14 @@
       "onboard_time": 1683070524,
       "rank": 49,
       "category": "旅游,情感"
+    },
+    {
+      "raw_hot": 96701,
+      "num": 96701,
+      "word": "注视也是性骚扰的一种",
+      "onboard_time": 1683475650,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 96606,
