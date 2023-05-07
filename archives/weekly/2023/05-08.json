@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683480819192,
+  "endTime": 1683483575994,
   "band_list": [
     {
       "raw_hot": 2270611,
@@ -323,6 +323,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 126416,
+      "num": 126416,
+      "word": "警方回应网传男子找16岁怀孕女友",
+      "onboard_time": 1683478102,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126033,
       "num": 126033,
       "word": "TFBOYS庄达菲早期合影",
@@ -417,14 +425,6 @@
       "onboard_time": 1683476366,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92106,
-      "num": 92106,
-      "word": "警方回应网传男子找16岁怀孕女友",
-      "onboard_time": 1683478102,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84467,
