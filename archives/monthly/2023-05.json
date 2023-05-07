@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683488002815,
+  "endTime": 1683490628586,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -15321,6 +15321,14 @@
       "onboard_time": 1682916449,
       "rank": 27,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 51330,
+      "num": 23250,
+      "word": "因挖呀挖爆火老师身陷6大传闻",
+      "onboard_time": 1683488592,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 51061,
