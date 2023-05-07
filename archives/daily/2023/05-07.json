@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683468845001,
+  "endTime": 1683469997063,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -123,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1649425,
+      "num": 1649425,
+      "word": "生父再次离婚女儿选择和继母生活",
+      "onboard_time": 1683465393,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1609425,
       "num": 1609425,
       "word": "25岁的吴倩和23岁的吴世勋",
@@ -161,14 +169,6 @@
       "onboard_time": 1683447869,
       "rank": 4,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1451099,
-      "num": 1451099,
-      "word": "生父再次离婚女儿选择和继母生活",
-      "onboard_time": 1683465393,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1408208,
@@ -307,6 +307,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 895908,
+      "num": 895908,
+      "word": "蔡天凤被碎尸案明日将再度提讯",
+      "onboard_time": 1683462272,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 888532,
       "num": 309668,
       "word": "活死人",
@@ -321,14 +329,6 @@
       "onboard_time": 1683416663,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 882717,
-      "num": 882717,
-      "word": "蔡天凤被碎尸案明日将再度提讯",
-      "onboard_time": 1683462272,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 882126,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578784,
+      "num": 578784,
+      "word": "事业编和公务员哪个更难考",
+      "onboard_time": 1683467914,
+      "rank": 28,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 576533,
       "num": 576533,
       "word": "内娱顶级剧抛脸",
@@ -611,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505846,
+      "num": 505846,
+      "word": "MSI胜败分组赛抽签",
+      "onboard_time": 1683468452,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 505388,
       "num": 430101,
       "word": "五迷抵制黄牛",
@@ -683,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 452038,
+      "num": 452038,
+      "word": "杭州不定价咖啡馆试营业首日亏3500元",
+      "onboard_time": 1683468096,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 449101,
       "num": 449101,
       "word": "张角",
@@ -697,14 +721,6 @@
       "onboard_time": 1683371190,
       "rank": 15,
       "category": "影视"
-    },
-    {
-      "raw_hot": 422376,
-      "num": 422376,
-      "word": "MSI胜败分组赛抽签",
-      "onboard_time": 1683468452,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 421774,
@@ -769,6 +785,14 @@
       "onboard_time": 1683448951,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 378330,
+      "num": 378330,
+      "word": "17战队夺冠",
+      "onboard_time": 1683469413,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 377461,
@@ -1107,6 +1131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282879,
+      "num": 282879,
+      "word": "MSI",
+      "onboard_time": 1683469355,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281486,
       "num": 281486,
       "word": "一桌八个菜仅一荤卖528元",
@@ -1121,14 +1153,6 @@
       "onboard_time": 1683427407,
       "rank": 34,
       "category": "幽默,综艺"
-    },
-    {
-      "raw_hot": 268025,
-      "num": 268025,
-      "word": "事业编和公务员哪个更难考",
-      "onboard_time": 1683467914,
-      "rank": 28,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 265499,
@@ -1161,14 +1185,6 @@
       "onboard_time": 1683428428,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 261033,
-      "num": 261033,
-      "word": "杭州不定价咖啡馆试营业首日亏3500元",
-      "onboard_time": 1683468096,
-      "rank": 31,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 258933,
@@ -1227,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244476,
+      "num": 244476,
+      "word": "破事精英",
+      "onboard_time": 1683468873,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 242096,
       "num": 242096,
       "word": "徐克作品",
@@ -1275,6 +1299,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 235941,
+      "num": 235941,
+      "word": "鸟鸟cos安琪拉",
+      "onboard_time": 1683467372,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235446,
       "num": 184223,
       "word": "路温评价王一博",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1683455370,
       "rank": 41,
       "category": "影视"
+    },
+    {
+      "raw_hot": 233018,
+      "num": 233018,
+      "word": "乘风投票",
+      "onboard_time": 1683468631,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 229778,
@@ -1363,6 +1403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215197,
+      "num": 215197,
+      "word": "教资面试",
+      "onboard_time": 1683465570,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 213795,
       "num": 213795,
       "word": "李晨晒九尾合影",
@@ -1377,14 +1425,6 @@
       "onboard_time": 1683446069,
       "rank": 28,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 211403,
-      "num": 211403,
-      "word": "教资面试",
-      "onboard_time": 1683465570,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 211204,
@@ -1459,14 +1499,6 @@
       "category": "动漫,幽默"
     },
     {
-      "raw_hot": 203248,
-      "num": 203248,
-      "word": "鸟鸟cos安琪拉",
-      "onboard_time": 1683467372,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201855,
       "num": 201855,
       "word": "今天月亮好大",
@@ -1536,14 +1568,6 @@
       "word": "想看宋茜参加乘风2023",
       "onboard_time": 1683420866,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 184356,
-      "num": 184356,
-      "word": "乘风投票",
-      "onboard_time": 1683468631,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1787,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152479,
+      "num": 284886,
+      "word": "你多长时间换一次新手机",
+      "onboard_time": 1683468513,
+      "rank": 29,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 151815,
       "num": 151815,
       "word": "平凡之路受害者被荡妇羞辱",
@@ -1817,6 +1849,14 @@
       "onboard_time": 1683434732,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144331,
+      "num": 160173,
+      "word": "WB对战DRG",
+      "onboard_time": 1683459269,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 143282,
@@ -1905,14 +1945,6 @@
       "onboard_time": 1683372571,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117373,
-      "num": 160173,
-      "word": "WB对战DRG",
-      "onboard_time": 1683459269,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 114820,
@@ -2075,12 +2107,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 72932,
-      "num": 266622,
-      "word": "你多长时间换一次新手机",
-      "onboard_time": 1683468513,
-      "rank": 29,
-      "category": "科技,情感"
+      "raw_hot": 76005,
+      "num": 1695241,
+      "word": "航天员又要在太空拆快递了",
+      "onboard_time": 1683466712,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72305,
@@ -2097,14 +2129,6 @@
       "onboard_time": 1683405612,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 66969,
-      "num": 1574002,
-      "word": "航天员又要在太空拆快递了",
-      "onboard_time": 1683466712,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64709,

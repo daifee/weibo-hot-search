@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683468845001,
+  "endTime": 1683469997063,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -859,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1649425,
+      "num": 1649425,
+      "word": "生父再次离婚女儿选择和继母生活",
+      "onboard_time": 1683465393,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1645310,
       "num": 1645310,
       "word": "上淄博公厕配肠炎宁片和卫生巾",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1683184948,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1451099,
-      "num": 1451099,
-      "word": "生父再次离婚女儿选择和继母生活",
-      "onboard_time": 1683465393,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1437487,
@@ -2179,6 +2179,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 895908,
+      "num": 895908,
+      "word": "蔡天凤被碎尸案明日将再度提讯",
+      "onboard_time": 1683462272,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 891303,
       "num": 891303,
       "word": "大伯二婚对象是我初恋的妈妈",
@@ -2201,14 +2209,6 @@
       "onboard_time": 1683416663,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 882717,
-      "num": 882717,
-      "word": "蔡天凤被碎尸案明日将再度提讯",
-      "onboard_time": 1683462272,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 882126,
@@ -3355,6 +3355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 578784,
+      "num": 578784,
+      "word": "事业编和公务员哪个更难考",
+      "onboard_time": 1683467914,
+      "rank": 28,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 578230,
       "num": 578230,
       "word": "不会真有公司五四不放假吧",
@@ -3915,6 +3923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505846,
+      "num": 505846,
+      "word": "MSI胜败分组赛抽签",
+      "onboard_time": 1683468452,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 504598,
       "num": 504598,
       "word": "一诺状态",
@@ -4395,6 +4411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 452038,
+      "num": 452038,
+      "word": "杭州不定价咖啡馆试营业首日亏3500元",
+      "onboard_time": 1683468096,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 449869,
       "num": 449869,
       "word": "张婧仪孙千周也五一档票房实绩",
@@ -4705,14 +4729,6 @@
       "onboard_time": 1683172170,
       "rank": 18,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 422376,
-      "num": 422376,
-      "word": "MSI胜败分组赛抽签",
-      "onboard_time": 1683468452,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 422319,
@@ -5352,6 +5368,14 @@
       "word": "久哲BO7的神",
       "onboard_time": 1683126571,
       "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 378330,
+      "num": 378330,
+      "word": "17战队夺冠",
+      "onboard_time": 1683469413,
+      "rank": 23,
       "category": "游戏"
     },
     {
@@ -7235,6 +7259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 282879,
+      "num": 282879,
+      "word": "MSI",
+      "onboard_time": 1683042271,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282620,
       "num": 271749,
       "word": "律师谈编剧史航被指性骚扰",
@@ -7587,14 +7619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268025,
-      "num": 268025,
-      "word": "事业编和公务员哪个更难考",
-      "onboard_time": 1683467914,
-      "rank": 28,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 267524,
       "num": 267524,
       "word": "秦霄贤报平安",
@@ -7809,14 +7833,6 @@
       "onboard_time": 1683174275,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 261033,
-      "num": 261033,
-      "word": "杭州不定价咖啡馆试营业首日亏3500元",
-      "onboard_time": 1683468096,
-      "rank": 31,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 260861,
@@ -8403,6 +8419,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 244476,
+      "num": 244476,
+      "word": "破事精英",
+      "onboard_time": 1683468873,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
       "raw_hot": 244463,
       "num": 244463,
       "word": "aespa新歌thirsty视频",
@@ -8731,6 +8755,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 235941,
+      "num": 235941,
+      "word": "鸟鸟cos安琪拉",
+      "onboard_time": 1683467372,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235788,
       "num": 235788,
       "word": "无畏",
@@ -8889,6 +8921,14 @@
       "onboard_time": 1683044370,
       "rank": 47,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 233018,
+      "num": 233018,
+      "word": "乘风投票",
+      "onboard_time": 1683468631,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 232845,
@@ -9667,14 +9707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215564,
-      "num": 215564,
-      "word": "MSI",
-      "onboard_time": 1683042271,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 215456,
       "num": 215456,
       "word": "程潇笑得衣服裂开了",
@@ -9689,6 +9721,14 @@
       "onboard_time": 1683256890,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215197,
+      "num": 215197,
+      "word": "教资面试",
+      "onboard_time": 1683465570,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 215136,
@@ -9849,14 +9889,6 @@
       "onboard_time": 1682866593,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 211403,
-      "num": 211403,
-      "word": "教资面试",
-      "onboard_time": 1683465570,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 211348,
@@ -10257,14 +10289,6 @@
       "onboard_time": 1683013707,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 203248,
-      "num": 203248,
-      "word": "鸟鸟cos安琪拉",
-      "onboard_time": 1683467372,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 203124,
@@ -11185,14 +11209,6 @@
       "onboard_time": 1683254488,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 184356,
-      "num": 184356,
-      "word": "乘风投票",
-      "onboard_time": 1683468631,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 184190,
@@ -12763,6 +12779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152479,
+      "num": 284886,
+      "word": "你多长时间换一次新手机",
+      "onboard_time": 1683468513,
+      "rank": 29,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 152143,
       "num": 152143,
       "word": "帅气警犬遇上漂亮萨摩耶",
@@ -13081,6 +13105,14 @@
       "onboard_time": 1683120093,
       "rank": 49,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 144331,
+      "num": 160173,
+      "word": "WB对战DRG",
+      "onboard_time": 1683459269,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 144164,
@@ -14051,14 +14083,6 @@
       "category": "幽默,社会新闻"
     },
     {
-      "raw_hot": 117373,
-      "num": 160173,
-      "word": "WB对战DRG",
-      "onboard_time": 1683459269,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 116822,
       "num": 116822,
       "word": "我人生唯一组过的团",
@@ -14803,6 +14827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76005,
+      "num": 1695241,
+      "word": "航天员又要在太空拆快递了",
+      "onboard_time": 1683466712,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75825,
       "num": 413581,
       "word": "五一景区到处都是人从众",
@@ -14833,14 +14865,6 @@
       "onboard_time": 1683241762,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72932,
-      "num": 266622,
-      "word": "你多长时间换一次新手机",
-      "onboard_time": 1683468513,
-      "rank": 29,
-      "category": "科技,情感"
     },
     {
       "raw_hot": 72048,
@@ -14911,14 +14935,6 @@
       "num": 1630273,
       "word": "每一个奋斗的你都了不起",
       "onboard_time": 1682915127,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66969,
-      "num": 1574002,
-      "word": "航天员又要在太空拆快递了",
-      "onboard_time": 1683466712,
       "rank": 2,
       "category": "社会新闻"
     },
