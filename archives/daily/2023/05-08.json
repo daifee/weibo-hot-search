@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683479669507,
+  "endTime": 1683480819192,
   "band_list": [
     {
       "raw_hot": 2270611,
@@ -419,20 +419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92106,
+      "num": 92106,
+      "word": "警方回应网传男子找16岁怀孕女友",
+      "onboard_time": 1683478102,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84467,
       "num": 96696,
       "word": "WB对战DRG",
       "onboard_time": 1683459269,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84088,
-      "num": 84088,
-      "word": "警方回应网传男子找16岁怀孕女友",
-      "onboard_time": 1683478102,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61274,
