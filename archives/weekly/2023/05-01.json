@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683433198038,
+  "endTime": 1683433998010,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -160,6 +160,14 @@
       "word": "承重墙被砸1.6亿赔款谁来出",
       "onboard_time": 1683337169,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2724016,
+      "num": 418994,
+      "word": "手术室里开黄腔",
+      "onboard_time": 1683431967,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -777,14 +785,6 @@
       "onboard_time": 1683277048,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1612355,
-      "num": 391441,
-      "word": "手术室里开黄腔",
-      "onboard_time": 1683431967,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1610564,
@@ -1995,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 885437,
+      "num": 885437,
+      "word": "原来只打中文也能看出国籍",
+      "onboard_time": 1683416663,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 878925,
       "num": 878925,
       "word": "去男朋友家收到了30元红包",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1683165869,
       "rank": 7,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 823817,
-      "num": 823817,
-      "word": "原来只打中文也能看出国籍",
-      "onboard_time": 1683416663,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 821953,
@@ -4531,6 +4531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 405403,
+      "num": 405403,
+      "word": "张大大都带ab了杨幂还会远吗",
+      "onboard_time": 1683420264,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 404774,
       "num": 404774,
       "word": "85后单身女子买完房后降薪了",
@@ -5243,6 +5251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 352895,
+      "num": 352895,
+      "word": "seventeen 内地签售会",
+      "onboard_time": 1683425309,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352757,
       "num": 352757,
       "word": "安乐传",
@@ -5289,14 +5305,6 @@
       "onboard_time": 1683129986,
       "rank": 30,
       "category": "旅游,幽默"
-    },
-    {
-      "raw_hot": 351425,
-      "num": 351425,
-      "word": "seventeen 内地签售会",
-      "onboard_time": 1683425309,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 351408,
@@ -5449,14 +5457,6 @@
       "onboard_time": 1683251128,
       "rank": 23,
       "category": "影视"
-    },
-    {
-      "raw_hot": 339868,
-      "num": 339868,
-      "word": "张大大都带ab了杨幂还会远吗",
-      "onboard_time": 1683420264,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 339243,
@@ -6651,6 +6651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281486,
+      "num": 281486,
+      "word": "一桌八个菜仅一荤卖528元",
+      "onboard_time": 1683432147,
+      "rank": 31,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 281385,
       "num": 281385,
       "word": "挖呀挖呀挖",
@@ -7643,6 +7651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245624,
+      "num": 245624,
+      "word": "深圳暴雨",
+      "onboard_time": 1683433589,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245468,
       "num": 245468,
       "word": "警犬执勤时被可爱耶耶吸引走了",
@@ -7905,14 +7921,6 @@
       "onboard_time": 1683278309,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 237772,
-      "num": 237772,
-      "word": "一桌八个菜仅一荤卖528元",
-      "onboard_time": 1683432147,
-      "rank": 31,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 237618,
@@ -8313,6 +8321,14 @@
       "onboard_time": 1683087270,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 228218,
+      "num": 228218,
+      "word": "这程度可以报工伤了吧",
+      "onboard_time": 1683432328,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 228199,
@@ -9243,6 +9259,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 206452,
+      "num": 206452,
+      "word": "周杰伦香港演唱会盛况",
+      "onboard_time": 1683432514,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206161,
       "num": 206161,
       "word": "Hero对战LGD",
@@ -10155,14 +10179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187599,
-      "num": 187599,
-      "word": "这程度可以报工伤了吧",
-      "onboard_time": 1683432328,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187085,
       "num": 187085,
       "word": "乘风2023COSMO肆意乘风大片",
@@ -10849,14 +10865,6 @@
       "onboard_time": 1683288268,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174048,
-      "num": 174048,
-      "word": "周杰伦香港演唱会盛况",
-      "onboard_time": 1683432514,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 173712,
@@ -12123,6 +12131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141762,
+      "num": 141762,
+      "word": "鞠婧祎素衣好仙",
+      "onboard_time": 1683433828,
+      "rank": 43,
+      "category": "影视"
+    },
+    {
       "raw_hot": 141552,
       "num": 369321,
       "word": "什么样的青春才是鲜活的",
@@ -12443,8 +12459,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131246,
-      "num": 131246,
+      "raw_hot": 131521,
+      "num": 131521,
       "word": "王源绿发怼脸镜头",
       "onboard_time": 1683431068,
       "rank": 45,
@@ -13979,6 +13995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 56008,
+      "num": 890975,
+      "word": "天舟六号船箭垂直转运进发射区",
+      "onboard_time": 1683432928,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53686,
       "num": 63719,
       "word": "洪知秀给未来妻子的话",
@@ -14161,14 +14185,6 @@
       "onboard_time": 1683414139,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36558,
-      "num": 853645,
-      "word": "天舟六号船箭垂直转运进发射区",
-      "onboard_time": 1683432928,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33362,
