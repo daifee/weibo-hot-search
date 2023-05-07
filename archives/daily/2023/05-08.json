@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683495199753,
+  "endTime": 1683497721997,
   "band_list": [
     {
       "raw_hot": 2270611,
@@ -203,6 +203,14 @@
       "category": "网红,情感"
     },
     {
+      "raw_hot": 235290,
+      "num": 79156,
+      "word": "因挖呀挖爆火老师身陷6大传闻",
+      "onboard_time": 1683488592,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 230187,
       "num": 230187,
       "word": "梦岚",
@@ -363,12 +371,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117972,
-      "num": 45046,
-      "word": "因挖呀挖爆火老师身陷6大传闻",
-      "onboard_time": 1683488592,
-      "rank": 30,
-      "category": "社会新闻,教育"
+      "raw_hot": 116295,
+      "num": 116295,
+      "word": "校方回应男生被老师丈夫刺伤",
+      "onboard_time": 1683491591,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113853,
@@ -451,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54796,
-      "num": 54796,
-      "word": "校方回应男生被老师丈夫刺伤",
-      "onboard_time": 1683491591,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 60553,
+      "num": 55929,
+      "word": "全红婵再现断崖式领先",
+      "onboard_time": 1683496093,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 46070,

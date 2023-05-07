@@ -1,0 +1,410 @@
+{
+  "runTime": 1683497721997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 616660,
+        "num": 616660,
+        "word": "巴厘岛情侣 柬埔寨车牌",
+        "onboard_time": 1683472713,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216791,
+        "num": 216791,
+        "word": "儿时的发小因为生孩子去世了",
+        "onboard_time": 1683470734,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13511,
+        "num": 184706,
+        "word": "航天员又要在太空拆快递了",
+        "onboard_time": 1683466712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169407,
+        "num": 169407,
+        "word": "高铁上被掌掴女孩坚决不和解",
+        "onboard_time": 1683451410,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162127,
+        "num": 162127,
+        "word": "美依礼芽人气断层第一",
+        "onboard_time": 1683464071,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116295,
+        "num": 116295,
+        "word": "校方回应男生被老师丈夫刺伤",
+        "onboard_time": 1683491591,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102799,
+        "num": 102799,
+        "word": "ZARA被曝试衣间镜子比帘子长一截",
+        "onboard_time": 1683450629,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98149,
+        "num": 98149,
+        "word": "25岁的吴倩和23岁的吴世勋",
+        "onboard_time": 1683452668,
+        "rank": 7,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 91271,
+        "num": 91271,
+        "word": "朋友跟暧昧对象散了19公里步",
+        "onboard_time": 1683461910,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79177,
+        "num": 79177,
+        "word": "生父再次离婚女儿选择和继母生活",
+        "onboard_time": 1683465393,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235290,
+        "num": 79156,
+        "word": "因挖呀挖爆火老师身陷6大传闻",
+        "onboard_time": 1683488592,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 125063,
+        "num": 78273,
+        "word": "周扬青",
+        "onboard_time": 1683470554,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72229,
+        "num": 72229,
+        "word": "事业编和公务员哪个更难考",
+        "onboard_time": 1683467914,
+        "rank": 12,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 67419,
+        "num": 67419,
+        "word": "杭州不定价咖啡馆试营业首日亏3500元",
+        "onboard_time": 1683468096,
+        "rank": 13,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 66634,
+        "num": 66634,
+        "word": "关闭朋友圈一年后的变化",
+        "onboard_time": 1683455793,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65849,
+        "num": 65849,
+        "word": "肖战的女主运",
+        "onboard_time": 1683456031,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 64898,
+        "num": 64898,
+        "word": "黄晓明见到Amber第一句话提的宋茜",
+        "onboard_time": 1683456513,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59353,
+        "num": 59353,
+        "word": "警方回应网传男子找16岁怀孕女友",
+        "onboard_time": 1683478102,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59143,
+        "num": 59143,
+        "word": "男子1天吃10顿暴瘦110斤",
+        "onboard_time": 1683455253,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56181,
+        "num": 56181,
+        "word": "男子火车上被陌生人持刀杀害",
+        "onboard_time": 1683457172,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60553,
+        "num": 55929,
+        "word": "全红婵再现断崖式领先",
+        "onboard_time": 1683496093,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54157,
+        "num": 54157,
+        "word": "校方通报学生洗澡时晕倒身亡",
+        "onboard_time": 1683473792,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 52482,
+        "num": 52482,
+        "word": "秋瓷炫的中文是谈恋爱练的",
+        "onboard_time": 1683475528,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52082,
+        "num": 52082,
+        "word": "内娱顶级剧抛脸",
+        "onboard_time": 1683455670,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50622,
+        "num": 50622,
+        "word": "漫长的季节 封神",
+        "onboard_time": 1683473913,
+        "rank": 24,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 48330,
+        "num": 48330,
+        "word": "原来老公15岁就对我一见钟情了",
+        "onboard_time": 1683470134,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 47341,
+        "num": 47341,
+        "word": "姚晨说庄达菲出息了",
+        "onboard_time": 1683456031,
+        "rank": 26,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 44897,
+        "num": 44897,
+        "word": "一个宿舍各过各的",
+        "onboard_time": 1683466831,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39718,
+        "num": 39718,
+        "word": "注视也是性骚扰的一种",
+        "onboard_time": 1683475650,
+        "rank": 28,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 38549,
+        "num": 38549,
+        "word": "给内娱一点二次元震撼",
+        "onboard_time": 1683473430,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34562,
+        "num": 34562,
+        "word": "谢娜cos云缨",
+        "onboard_time": 1683464012,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29926,
+        "num": 29926,
+        "word": "张颂文被扔东西",
+        "onboard_time": 1683465994,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28992,
+        "num": 28992,
+        "word": "极乐净土",
+        "onboard_time": 1683465994,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28870,
+        "num": 28870,
+        "word": "女子生活照被陌生人盗用欲P成裸照",
+        "onboard_time": 1683483617,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28131,
+        "num": 28131,
+        "word": "你多长时间换一次新手机",
+        "onboard_time": 1683468513,
+        "rank": 34,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 26525,
+        "num": 26525,
+        "word": "恋爱谈了两天半就去结婚了",
+        "onboard_time": 1683464552,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25646,
+        "num": 25646,
+        "word": "谢娜跳了XG",
+        "onboard_time": 1683465271,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25428,
+        "num": 25428,
+        "word": "seventeen出差十五夜",
+        "onboard_time": 1683473491,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25129,
+        "num": 25129,
+        "word": "MSI胜败分组赛抽签",
+        "onboard_time": 1683468452,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23956,
+        "num": 23956,
+        "word": "美依礼芽说谢谢大家的应援",
+        "onboard_time": 1683475947,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22911,
+        "num": 22911,
+        "word": "BLACKPINK成员的背影照",
+        "onboard_time": 1683477144,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22378,
+        "num": 22378,
+        "word": "长月烬明预告",
+        "onboard_time": 1683462691,
+        "rank": 41,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 22309,
+        "num": 22309,
+        "word": "工作5年你能存多少钱",
+        "onboard_time": 1683475048,
+        "rank": 42,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 22043,
+        "num": 22043,
+        "word": "F1",
+        "onboard_time": 1683487632,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21744,
+        "num": 21744,
+        "word": "深圳大学",
+        "onboard_time": 1683461370,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21243,
+        "num": 21744,
+        "word": "白桃星座",
+        "onboard_time": 1683470495,
+        "rank": 45,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 20633,
+        "num": 21718,
+        "word": "DRG止步季后赛",
+        "onboard_time": 1683471631,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19346,
+        "num": 21700,
+        "word": "WB对战DRG",
+        "onboard_time": 1683459269,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18965,
+        "num": 21686,
+        "word": "Maybe复出",
+        "onboard_time": 1683471216,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18881,
+        "num": 21682,
+        "word": "乘风投票",
+        "onboard_time": 1683468631,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#空间站应用与发展阶段首次飞行任务#"
+    }
+  }
+}
