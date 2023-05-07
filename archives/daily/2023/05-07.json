@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683459200897,
+  "endTime": 1683462620352,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -155,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1396713,
+      "num": 1396713,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1683455793,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1329287,
       "num": 1329287,
       "word": "Lisa再破吉尼斯世界纪录",
@@ -203,14 +211,6 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 1064847,
-      "num": 1064847,
-      "word": "关闭朋友圈一年后的变化",
-      "onboard_time": 1683455793,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1020077,
       "num": 102047,
       "word": "婆婆直接把38.8万彩礼转我了",
@@ -249,6 +249,14 @@
       "onboard_time": 1683455253,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 892707,
+      "num": 892707,
+      "word": "黄晓明见到Amber第一句话提的宋茜",
+      "onboard_time": 1683456513,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 888532,
@@ -307,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 806695,
+      "num": 806695,
+      "word": "男子火车上被陌生人持刀杀害",
+      "onboard_time": 1683457172,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764182,
       "num": 477047,
       "word": "女子回应刷直播看到老公小三同游",
@@ -331,14 +347,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 750383,
-      "num": 750383,
-      "word": "黄晓明见到Amber第一句话提的宋茜",
-      "onboard_time": 1683456513,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 733074,
       "num": 608915,
       "word": "爸妈把群聊当私聊被我看到了",
@@ -353,6 +361,14 @@
       "onboard_time": 1683379172,
       "rank": 6,
       "category": "影视"
+    },
+    {
+      "raw_hot": 726452,
+      "num": 726452,
+      "word": "K435",
+      "onboard_time": 1683458553,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 721961,
@@ -459,20 +475,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 562933,
-      "num": 562933,
-      "word": "男子火车上被陌生人持刀杀害",
-      "onboard_time": 1683457172,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 551306,
       "num": 287472,
       "word": "射雕英雄传侠之大者官宣海报",
       "onboard_time": 1683443490,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 551030,
+      "num": 551030,
+      "word": "内娱顶级剧抛脸",
+      "onboard_time": 1683455670,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 549927,
@@ -523,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 501563,
+      "num": 501563,
+      "word": "被领导说明天不用来上班了",
+      "onboard_time": 1683459990,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 500150,
       "num": 463859,
       "word": "鹿晗诺言MV里的吴倩",
@@ -537,6 +561,14 @@
       "onboard_time": 1683370471,
       "rank": 25,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 483939,
+      "num": 483939,
+      "word": "深圳大学",
+      "onboard_time": 1683461370,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483416,
@@ -587,6 +619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 421774,
+      "num": 421774,
+      "word": "降价7折卖房昆山两项目被政府处罚",
+      "onboard_time": 1683457353,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 421140,
       "num": 253876,
       "word": "长月烬明玥烬情苏番外",
@@ -619,22 +659,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 402155,
-      "num": 402155,
-      "word": "内娱顶级剧抛脸",
-      "onboard_time": 1683455670,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 399875,
-      "num": 399875,
-      "word": "降价7折卖房昆山两项目被政府处罚",
-      "onboard_time": 1683457353,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 387733,
       "num": 387733,
       "word": "伴郎团接亲暴力破门而入新娘发怒",
@@ -657,6 +681,14 @@
       "onboard_time": 1683431607,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365068,
+      "num": 365068,
+      "word": "朋友跟暧昧对象散了19公里步",
+      "onboard_time": 1683461910,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 363458,
@@ -739,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346439,
+      "num": 346439,
+      "word": "TFBOYS庄达菲早期合影",
+      "onboard_time": 1683460469,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344185,
       "num": 344185,
       "word": "娜扎说自己是天生丽质",
@@ -809,6 +849,14 @@
       "onboard_time": 1683425494,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308363,
+      "num": 308363,
+      "word": "长月烬明",
+      "onboard_time": 1683458013,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 305777,
@@ -955,6 +1003,14 @@
       "category": "幽默,综艺"
     },
     {
+      "raw_hot": 271799,
+      "num": 271799,
+      "word": "性格开朗的原因",
+      "onboard_time": 1683460890,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265499,
       "num": 265499,
       "word": "湖人罚球",
@@ -969,14 +1025,6 @@
       "onboard_time": 1683446312,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262429,
-      "num": 262429,
-      "word": "长月烬明",
-      "onboard_time": 1683458013,
-      "rank": 25,
-      "category": "影视"
     },
     {
       "raw_hot": 262173,
@@ -1235,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206566,
-      "num": 206566,
-      "word": "K435",
-      "onboard_time": 1683458553,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206452,
       "num": 206452,
       "word": "周杰伦香港演唱会盛况",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1683360150,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181660,
+      "num": 239694,
+      "word": "阴阳师宣传曲极乐净土",
+      "onboard_time": 1683449128,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 181096,
@@ -1443,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166281,
-      "num": 239694,
-      "word": "阴阳师宣传曲极乐净土",
-      "onboard_time": 1683449128,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 165616,
       "num": 165616,
       "word": "女子深夜加班回家吃榴莲被丈夫指责",
@@ -1481,6 +1521,14 @@
       "onboard_time": 1683372151,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162350,
+      "num": 162350,
+      "word": "历代郭靖黄蓉一览",
+      "onboard_time": 1683460351,
+      "rank": 40,
+      "category": "影视"
     },
     {
       "raw_hot": 161961,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1683375631,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155687,
+      "num": 155687,
+      "word": "蔡天凤被碎尸案明日将再度提讯",
+      "onboard_time": 1683462272,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155184,
@@ -1651,12 +1707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129237,
+      "num": 129237,
+      "word": "女子称在NIKE试衣间4分钟被偷拍3次",
+      "onboard_time": 1683462510,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128509,
       "num": 128509,
       "word": "辞职后靠摆摊月入五万",
       "onboard_time": 1683372571,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117373,
+      "num": 128660,
+      "word": "WB对战DRG",
+      "onboard_time": 1683459269,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 114820,
