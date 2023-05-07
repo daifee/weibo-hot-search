@@ -1,14 +1,22 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683433998010,
+  "endTime": 1683436574327,
   "band_list": [
     {
-      "raw_hot": 2724016,
+      "raw_hot": 3217331,
       "num": 418994,
       "word": "手术室里开黄腔",
       "onboard_time": 1683431967,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2612182,
+      "num": 2612182,
+      "word": "事业单位",
+      "onboard_time": 1683418462,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 2048424,
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562431,
+      "num": 208672,
+      "word": "爸妈把群聊当私聊被我看到了",
+      "onboard_time": 1683434488,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 549927,
       "num": 549927,
       "word": "庞博到底是谁",
@@ -283,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 482148,
-      "num": 482148,
-      "word": "事业单位",
-      "onboard_time": 1683418462,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 475023,
       "num": 346210,
       "word": "日本巨头密集收购中国中药企业",
@@ -331,8 +339,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 405403,
-      "num": 405403,
+      "raw_hot": 405554,
+      "num": 405554,
       "word": "张大大都带ab了杨幂还会远吗",
       "onboard_time": 1683420264,
       "rank": 33,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 331247,
-      "num": 291437,
+      "num": 297939,
       "word": "老公出轨该及时挽回还是果断分开",
       "onboard_time": 1683418044,
       "rank": 22,
@@ -449,6 +457,14 @@
       "onboard_time": 1683429627,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 294189,
+      "num": 294189,
+      "word": "深圳暴雨",
+      "onboard_time": 1683433589,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292403,
@@ -507,12 +523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245624,
-      "num": 245624,
-      "word": "深圳暴雨",
-      "onboard_time": 1683433589,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 245097,
+      "num": 245097,
+      "word": "icon宝蓝录制奔跑吧",
+      "onboard_time": 1683434309,
+      "rank": 23,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 239038,
@@ -521,6 +537,14 @@
       "onboard_time": 1683389609,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238877,
+      "num": 238877,
+      "word": "鞠婧祎素衣好仙",
+      "onboard_time": 1683433828,
+      "rank": 43,
+      "category": "影视"
     },
     {
       "raw_hot": 235446,
@@ -561,6 +585,14 @@
       "onboard_time": 1683414919,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211676,
+      "num": 211676,
+      "word": "芝芙 明艳美女",
+      "onboard_time": 1683435869,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 210240,
@@ -667,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170711,
+      "num": 170711,
+      "word": "九尾清清互撕名牌整活",
+      "onboard_time": 1683434427,
+      "rank": 35,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 170404,
       "num": 170404,
       "word": "最食人间烟火色",
@@ -723,6 +763,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 158504,
+      "num": 145714,
+      "word": "活死人人类进化图",
+      "onboard_time": 1683435511,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156184,
       "num": 143862,
       "word": "长月烬明网飞也是40集",
@@ -755,6 +803,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 149157,
+      "num": 149157,
+      "word": "男生谈恋爱都逃不过这个劫",
+      "onboard_time": 1683434732,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143282,
       "num": 102702,
       "word": "IU认出了10年没见的粉丝",
@@ -769,14 +825,6 @@
       "onboard_time": 1683374968,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141762,
-      "num": 141762,
-      "word": "鞠婧祎素衣好仙",
-      "onboard_time": 1683433828,
-      "rank": 43,
-      "category": "影视"
     },
     {
       "raw_hot": 139213,
@@ -841,6 +889,14 @@
       "onboard_time": 1683372571,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120600,
+      "num": 120600,
+      "word": "周深都有时间秒回",
+      "onboard_time": 1683436527,
+      "rank": 46,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 114820,
@@ -1049,6 +1105,14 @@
       "onboard_time": 1683404413,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45632,
+      "num": 118786,
+      "word": "DRG晋级败者组决赛",
+      "onboard_time": 1683434732,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 38198,
