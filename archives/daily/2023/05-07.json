@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683416010091,
+  "endTime": 1683423269018,
   "band_list": [
     {
       "raw_hot": 2048424,
@@ -9,6 +9,14 @@
       "onboard_time": 1683388528,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1744158,
+      "num": 390600,
+      "word": "网友自称曾霸凌刘亦菲",
+      "onboard_time": 1683420684,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1404379,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1110160,
-      "num": 223745,
+      "num": 255012,
       "word": "巴厘岛女性死者胃部有大量液体",
       "onboard_time": 1683361527,
       "rank": 20,
@@ -43,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1000417,
+      "num": 1000417,
+      "word": "打工人怀孕怎么撑到生产",
+      "onboard_time": 1683421224,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 971397,
       "num": 971397,
       "word": "黄老师唱的挖呀挖或涉嫌侵权",
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 888532,
-      "num": 215875,
+      "num": 248855,
       "word": "活死人",
       "onboard_time": 1683375451,
       "rank": 21,
@@ -99,12 +115,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719883,
+      "num": 368316,
+      "word": "董洁43岁身材",
+      "onboard_time": 1683416420,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 697569,
+      "num": 477047,
+      "word": "女子回应刷直播看到老公小三同游",
+      "onboard_time": 1683384630,
+      "rank": 18,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 619108,
       "num": 496695,
       "word": "彩票中了1.7亿后该做什么",
       "onboard_time": 1683369452,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 602431,
+      "num": 602431,
+      "word": "巴厘岛命案警方排除第三人盗窃行凶可能",
+      "onboard_time": 1683394281,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583873,
@@ -121,6 +161,14 @@
       "onboard_time": 1683388169,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 519169,
+      "num": 359075,
+      "word": "原来只打中文也能看出国籍",
+      "onboard_time": 1683416663,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 514869,
@@ -147,12 +195,28 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 477047,
-      "num": 477047,
-      "word": "女子回应刷直播看到老公小三同游",
-      "onboard_time": 1683384630,
-      "rank": 18,
-      "category": "社会新闻,情感"
+      "raw_hot": 475023,
+      "num": 346210,
+      "word": "日本巨头密集收购中国中药企业",
+      "onboard_time": 1683415458,
+      "rank": 35,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 462872,
+      "num": 462872,
+      "word": "鹿晗诺言MV里的吴倩",
+      "onboard_time": 1683374010,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 454253,
+      "num": 437890,
+      "word": "吴倩你好星期六",
+      "onboard_time": 1683419365,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 449101,
@@ -161,14 +225,6 @@
       "onboard_time": 1683384932,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 441130,
-      "num": 441130,
-      "word": "鹿晗诺言MV里的吴倩",
-      "onboard_time": 1683374010,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 428747,
@@ -187,12 +243,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391223,
+      "num": 391223,
+      "word": "事业单位",
+      "onboard_time": 1683418462,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 349738,
       "num": 349738,
       "word": "承重墙业主 还没有任何解决方案",
       "onboard_time": 1683387272,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344185,
+      "num": 344185,
+      "word": "娜扎说自己是天生丽质",
+      "onboard_time": 1683420146,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 331247,
+      "num": 245988,
+      "word": "老公出轨该及时挽回还是果断分开",
+      "onboard_time": 1683418044,
+      "rank": 22,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 304221,
@@ -203,6 +283,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 299246,
+      "num": 209415,
+      "word": "男子在淄博吃完烧烤直接买房定居",
+      "onboard_time": 1683422425,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 288687,
       "num": 205284,
       "word": "谢娜嗑cp嗑到正主面前",
@@ -211,12 +299,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251436,
-      "num": 251436,
-      "word": "巴厘岛命案警方排除第三人盗窃行凶可能",
-      "onboard_time": 1683394281,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 273154,
+      "num": 225065,
+      "word": "周杰伦沈月合照",
+      "onboard_time": 1683420806,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239038,
+      "num": 239038,
+      "word": "家里介绍的男生质量还挺高",
+      "onboard_time": 1683389609,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 235446,
@@ -227,12 +323,60 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190637,
-      "num": 190637,
+      "raw_hot": 225498,
+      "num": 225498,
       "word": "工作5年终于存到了10万",
       "onboard_time": 1683388469,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222023,
+      "num": 222023,
+      "word": "被砸承重墙楼小区业主讲述现状",
+      "onboard_time": 1683419064,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218889,
+      "num": 218889,
+      "word": "骨折300多次的瓷娃娃收获美满爱情",
+      "onboard_time": 1683414919,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210654,
+      "num": 210654,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683421047,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 210240,
+      "num": 210240,
+      "word": "全红婵陈芋汐金牌",
+      "onboard_time": 1683419964,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208098,
+      "num": 208098,
+      "word": "五月天团票取消",
+      "onboard_time": 1683415580,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 206369,
+      "num": 206369,
+      "word": "欧阳靖目前只有一个rapper想超过",
+      "onboard_time": 1683419605,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 188792,
@@ -243,11 +387,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188378,
+      "num": 188378,
+      "word": "张大大都带ab了杨幂还会远吗",
+      "onboard_time": 1683420264,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186091,
       "num": 150254,
       "word": "卡琳娜 帅",
       "onboard_time": 1683384513,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186030,
+      "num": 186030,
+      "word": "想看宋茜参加乘风2023",
+      "onboard_time": 1683420866,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -275,20 +435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177905,
-      "num": 177905,
-      "word": "家里介绍的男生质量还挺高",
-      "onboard_time": 1683389609,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176991,
       "num": 176991,
       "word": "深圳一公司年薪50万岗位优先李一桐粉丝",
       "onboard_time": 1683373170,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170404,
+      "num": 170404,
+      "word": "最食人间烟火色",
+      "onboard_time": 1683418524,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 165341,
@@ -339,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151815,
+      "num": 151815,
+      "word": "平凡之路受害者被荡妇羞辱",
+      "onboard_time": 1683421706,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 143282,
       "num": 102702,
       "word": "IU认出了10年没见的粉丝",
@@ -355,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137986,
+      "num": 137986,
+      "word": "餐厅回应养观赏鲨鱼产下3条崽",
+      "onboard_time": 1683393142,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132280,
       "num": 132280,
       "word": "江西暴雨致29.3万人受灾",
@@ -363,19 +539,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131160,
+      "num": 131160,
+      "word": "张角痛哭道歉",
+      "onboard_time": 1683420264,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128509,
       "num": 128509,
       "word": "辞职后靠摆摊月入五万",
       "onboard_time": 1683372571,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118519,
-      "num": 118519,
-      "word": "骨折300多次的瓷娃娃收获美满爱情",
-      "onboard_time": 1683414919,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -411,14 +587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 105485,
-      "num": 96850,
-      "word": "餐厅回应养观赏鲨鱼产下3条崽",
-      "onboard_time": 1683393142,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104539,
       "num": 150024,
       "word": "英国国王查尔斯三世和王后卡米拉加冕",
@@ -451,6 +619,30 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 99608,
+      "num": 99608,
+      "word": "想买榴莲的有福了",
+      "onboard_time": 1683415880,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 96536,
+      "num": 96536,
+      "word": "NBA",
+      "onboard_time": 1683422668,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95661,
+      "num": 95661,
+      "word": "看过但又不好意思承认看过的小说",
+      "onboard_time": 1683423207,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95239,
       "num": 95239,
       "word": "浪漫医生金师傅",
@@ -475,14 +667,6 @@
       "category": "情感,社会新闻"
     },
     {
-      "raw_hot": 86281,
-      "num": 86281,
-      "word": "日本巨头密集收购中国中药企业",
-      "onboard_time": 1683415458,
-      "rank": 35,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 83548,
       "num": 83548,
       "word": "江阴枪击案嫌犯疑似逃进山",
@@ -497,14 +681,6 @@
       "onboard_time": 1683408552,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 72522,
-      "num": 72522,
-      "word": "五月天团票取消",
-      "onboard_time": 1683415580,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 72305,
@@ -547,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51061,
+      "num": 95456,
+      "word": "Cat选手夏天见",
+      "onboard_time": 1683417082,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 47209,
       "num": 47209,
       "word": "早安没吃饱",
@@ -561,14 +745,6 @@
       "onboard_time": 1683404413,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41212,
-      "num": 46187,
-      "word": "想买榴莲的有福了",
-      "onboard_time": 1683415880,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 38198,

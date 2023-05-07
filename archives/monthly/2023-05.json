@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683416010091,
+  "endTime": 1683423269018,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -665,6 +665,14 @@
       "onboard_time": 1683112586,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1744158,
+      "num": 390600,
+      "word": "网友自称曾霸凌刘亦菲",
+      "onboard_time": 1683420684,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1742679,
@@ -1723,6 +1731,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1000417,
+      "num": 1000417,
+      "word": "打工人怀孕怎么撑到生产",
+      "onboard_time": 1683421224,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 999294,
       "num": 999294,
       "word": "同事辟谣挖呀挖黄老师辞职",
@@ -2347,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719883,
+      "num": 368316,
+      "word": "董洁43岁身材",
+      "onboard_time": 1683416420,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 718515,
       "num": 718515,
       "word": "五迷抵制黄牛",
@@ -2473,6 +2497,14 @@
       "onboard_time": 1683182549,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 697569,
+      "num": 477047,
+      "word": "女子回应刷直播看到老公小三同游",
+      "onboard_time": 1683384630,
+      "rank": 23,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 696943,
@@ -2801,6 +2833,14 @@
       "onboard_time": 1683006328,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 602431,
+      "num": 602431,
+      "word": "巴厘岛命案警方排除第三人盗窃行凶可能",
+      "onboard_time": 1683394281,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601890,
@@ -3371,6 +3411,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 519169,
+      "num": 359075,
+      "word": "原来只打中文也能看出国籍",
+      "onboard_time": 1683416663,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 519021,
       "num": 519021,
       "word": "华晨宇的音乐是挑观众的",
@@ -3635,14 +3683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 477047,
-      "num": 477047,
-      "word": "女子回应刷直播看到老公小三同游",
-      "onboard_time": 1683384630,
-      "rank": 23,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 476795,
       "num": 476795,
       "word": "全红婵实现娃娃自由",
@@ -3657,6 +3697,14 @@
       "onboard_time": 1683380255,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 475023,
+      "num": 346210,
+      "word": "日本巨头密集收购中国中药企业",
+      "onboard_time": 1683415458,
+      "rank": 35,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 474099,
@@ -3755,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462872,
+      "num": 462872,
+      "word": "鹿晗诺言MV里的吴倩",
+      "onboard_time": 1683374010,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 462425,
       "num": 462425,
       "word": "谢娜乘风初舞台菠萝菠萝蜜",
@@ -3849,6 +3905,14 @@
       "onboard_time": 1683380193,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454253,
+      "num": 437890,
+      "word": "吴倩你好星期六",
+      "onboard_time": 1683419365,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 453538,
@@ -3977,14 +4041,6 @@
       "onboard_time": 1683127109,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 441130,
-      "num": 441130,
-      "word": "鹿晗诺言MV里的吴倩",
-      "onboard_time": 1683374010,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 440961,
@@ -4595,6 +4651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391223,
+      "num": 391223,
+      "word": "事业单位",
+      "onboard_time": 1683418462,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 390904,
       "num": 390904,
       "word": "雅安地震",
@@ -5203,6 +5267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 344185,
+      "num": 344185,
+      "word": "娜扎说自己是天生丽质",
+      "onboard_time": 1683420146,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343420,
       "num": 343420,
       "word": "青春环游记",
@@ -5433,6 +5505,14 @@
       "onboard_time": 1683345394,
       "rank": 28,
       "category": "影视"
+    },
+    {
+      "raw_hot": 331247,
+      "num": 245988,
+      "word": "老公出轨该及时挽回还是果断分开",
+      "onboard_time": 1683418044,
+      "rank": 22,
+      "category": "影视,情感"
     },
     {
       "raw_hot": 331062,
@@ -6019,6 +6099,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 299246,
+      "num": 209415,
+      "word": "男子在淄博吃完烧烤直接买房定居",
+      "onboard_time": 1683422425,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 299118,
       "num": 299118,
       "word": "唐九洲说在淄博看到了武艺",
@@ -6577,6 +6665,14 @@
       "onboard_time": 1683017187,
       "rank": 24,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 273154,
+      "num": 225065,
+      "word": "周杰伦沈月合照",
+      "onboard_time": 1683420806,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 272532,
@@ -7147,14 +7243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 251436,
-      "num": 251436,
-      "word": "巴厘岛命案警方排除第三人盗窃行凶可能",
-      "onboard_time": 1683394281,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251394,
       "num": 251394,
       "word": "易烊千玺夕阳与影共舞视频",
@@ -7601,6 +7689,14 @@
       "onboard_time": 1682904033,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239038,
+      "num": 239038,
+      "word": "家里介绍的男生质量还挺高",
+      "onboard_time": 1683389609,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 238581,
@@ -8123,6 +8219,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 225498,
+      "num": 225498,
+      "word": "工作5年终于存到了10万",
+      "onboard_time": 1683388469,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 225347,
       "num": 164590,
       "word": "乘风 搞笑女",
@@ -8249,6 +8353,14 @@
       "onboard_time": 1683081331,
       "rank": 31,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 222023,
+      "num": 222023,
+      "word": "被砸承重墙楼小区业主讲述现状",
+      "onboard_time": 1683419064,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222004,
@@ -8401,6 +8513,14 @@
       "onboard_time": 1682902289,
       "rank": 24,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 218889,
+      "num": 218889,
+      "word": "骨折300多次的瓷娃娃收获美满爱情",
+      "onboard_time": 1683414919,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218586,
@@ -8763,6 +8883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210654,
+      "num": 210654,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683421047,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210423,
       "num": 210423,
       "word": "贺峻霖演唱会后台视频",
@@ -8777,6 +8905,14 @@
       "onboard_time": 1683281429,
       "rank": 32,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 210240,
+      "num": 210240,
+      "word": "全红婵陈芋汐金牌",
+      "onboard_time": 1683419964,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 210008,
@@ -8843,6 +8979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208098,
+      "num": 208098,
+      "word": "五月天团票取消",
+      "onboard_time": 1683415580,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208058,
       "num": 208058,
       "word": "浓眉30分23篮板",
@@ -8889,6 +9033,14 @@
       "onboard_time": 1683120632,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 206369,
+      "num": 206369,
+      "word": "欧阳靖目前只有一个rapper想超过",
+      "onboard_time": 1683419605,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 206161,
@@ -9667,14 +9819,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 190637,
-      "num": 190637,
-      "word": "工作5年终于存到了10万",
-      "onboard_time": 1683388469,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190453,
       "num": 190453,
       "word": "五一最后1天假期",
@@ -9795,6 +9939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188378,
+      "num": 188378,
+      "word": "张大大都带ab了杨幂还会远吗",
+      "onboard_time": 1683420264,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188086,
       "num": 166296,
       "word": "腾讯综艺剧集自产自销了",
@@ -9889,6 +10041,14 @@
       "onboard_time": 1683085770,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186030,
+      "num": 186030,
+      "word": "想看宋茜参加乘风2023",
+      "onboard_time": 1683420866,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 186029,
@@ -10249,14 +10409,6 @@
       "onboard_time": 1683044068,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 177905,
-      "num": 177905,
-      "word": "家里介绍的男生质量还挺高",
-      "onboard_time": 1683389609,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 177748,
@@ -10633,6 +10785,14 @@
       "onboard_time": 1683008249,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170404,
+      "num": 170404,
+      "word": "最食人间烟火色",
+      "onboard_time": 1683418524,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 170162,
@@ -11411,6 +11571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151815,
+      "num": 151815,
+      "word": "平凡之路受害者被荡妇羞辱",
+      "onboard_time": 1683421706,
+      "rank": 37,
+      "category": "影视"
+    },
+    {
       "raw_hot": 151805,
       "num": 151805,
       "word": "艾热舞台",
@@ -11827,6 +11995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137986,
+      "num": 137986,
+      "word": "餐厅回应养观赏鲨鱼产下3条崽",
+      "onboard_time": 1683393142,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136675,
       "num": 112801,
       "word": "国铁回应坐高铁像挤地铁",
@@ -12000,6 +12176,14 @@
       "word": "久酷鲜奶",
       "onboard_time": 1682866353,
       "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 131160,
+      "num": 131160,
+      "word": "张角痛哭道歉",
+      "onboard_time": 1683420264,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -12555,14 +12739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118519,
-      "num": 118519,
-      "word": "骨折300多次的瓷娃娃收获美满爱情",
-      "onboard_time": 1683414919,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118477,
       "num": 150759,
       "word": "工作不开心时要不要离职",
@@ -12827,14 +13003,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 105485,
-      "num": 96850,
-      "word": "餐厅回应养观赏鲨鱼产下3条崽",
-      "onboard_time": 1683393142,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 105311,
       "num": 428953,
       "word": "生活哪些事你想较个真",
@@ -12939,6 +13107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99608,
+      "num": 99608,
+      "word": "想买榴莲的有福了",
+      "onboard_time": 1683415880,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 98376,
       "num": 98376,
       "word": "收1500捞手机者非西湖景区工作人员",
@@ -12993,6 +13169,14 @@
       "onboard_time": 1683192808,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95661,
+      "num": 95661,
+      "word": "看过但又不好意思承认看过的小说",
+      "onboard_time": 1683423207,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 95239,
@@ -13137,14 +13321,6 @@
       "onboard_time": 1682849127,
       "rank": 46,
       "category": "影视"
-    },
-    {
-      "raw_hot": 86281,
-      "num": 86281,
-      "word": "日本巨头密集收购中国中药企业",
-      "onboard_time": 1683415458,
-      "rank": 35,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 85937,
@@ -13337,14 +13513,6 @@
       "onboard_time": 1683241762,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72522,
-      "num": 72522,
-      "word": "五月天团票取消",
-      "onboard_time": 1683415580,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 72048,
@@ -13571,6 +13739,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 51061,
+      "num": 95456,
+      "word": "Cat选手夏天见",
+      "onboard_time": 1683417082,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 49227,
       "num": 139494,
       "word": "那些耐得住不放弃的日子",
@@ -13681,14 +13857,6 @@
       "onboard_time": 1683169227,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41212,
-      "num": 46187,
-      "word": "想买榴莲的有福了",
-      "onboard_time": 1683415880,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 40049,
