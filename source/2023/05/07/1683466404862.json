@@ -1,0 +1,410 @@
+{
+  "runTime": 1683466404862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2057007,
+        "num": 2057007,
+        "word": "关闭朋友圈一年后的变化",
+        "onboard_time": 1683455793,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1759049,
+        "num": 1759049,
+        "word": "朋友跟暧昧对象散了19公里步",
+        "onboard_time": 1683461910,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26350,
+        "num": 1600793,
+        "word": "天舟六号近日发射",
+        "onboard_time": 1683444750,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1589853,
+        "num": 1589853,
+        "word": "美依礼芽人气断层第一",
+        "onboard_time": 1683464071,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1282836,
+        "num": 1282836,
+        "word": "黄晓明见到Amber第一句话提的宋茜",
+        "onboard_time": 1683456513,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1035236,
+        "num": 1035236,
+        "word": "高铁上被掌掴女孩坚决不和解",
+        "onboard_time": 1683451410,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960870,
+        "num": 960870,
+        "word": "男子1天吃10顿暴瘦110斤",
+        "onboard_time": 1683455253,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958688,
+        "num": 958688,
+        "word": "张颂文被扔东西",
+        "onboard_time": 1683465994,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 893749,
+        "num": 893749,
+        "word": "深圳大学",
+        "onboard_time": 1683461370,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797397,
+        "num": 797397,
+        "word": "25岁的吴倩和23岁的吴世勋",
+        "onboard_time": 1683452668,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1328517,
+        "num": 794794,
+        "word": "27岁男子找16岁怀孕女友",
+        "onboard_time": 1683463893,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783066,
+        "num": 783066,
+        "word": "蔡天凤被碎尸案明日将再度提讯",
+        "onboard_time": 1683462272,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760946,
+        "num": 760946,
+        "word": "肖战的女主运",
+        "onboard_time": 1683456031,
+        "rank": 12,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 590925,
+        "num": 590925,
+        "word": "娜么正瀚",
+        "onboard_time": 1683448291,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 537547,
+        "num": 537547,
+        "word": "姚晨说庄达菲出息了",
+        "onboard_time": 1683456031,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 505622,
+        "num": 505622,
+        "word": "ZARA被曝试衣间镜子比帘子长一截",
+        "onboard_time": 1683450629,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503204,
+        "num": 503204,
+        "word": "谢娜跳了XG",
+        "onboard_time": 1683465271,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492130,
+        "num": 492130,
+        "word": "内娱顶级剧抛脸",
+        "onboard_time": 1683455670,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 484632,
+        "num": 484632,
+        "word": "谢娜cos云缨",
+        "onboard_time": 1683464012,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480362,
+        "num": 480362,
+        "word": "男子火车上被陌生人持刀杀害",
+        "onboard_time": 1683457172,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448401,
+        "num": 448401,
+        "word": "手术室里开黄腔",
+        "onboard_time": 1683431967,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431356,
+        "num": 431356,
+        "word": "女子称在NIKE试衣间4分钟被偷拍3次",
+        "onboard_time": 1683462510,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346902,
+        "num": 346902,
+        "word": "网传14岁女孩被迫结婚消息不实",
+        "onboard_time": 1683464252,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322710,
+        "num": 322710,
+        "word": "极乐净土",
+        "onboard_time": 1683465994,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315570,
+        "num": 315570,
+        "word": "赵丽颖玉兔公主",
+        "onboard_time": 1683440847,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315376,
+        "num": 315376,
+        "word": "平凡之路",
+        "onboard_time": 1683465994,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 299102,
+        "num": 299102,
+        "word": "刘昊然回应抠完脚闻手",
+        "onboard_time": 1683436829,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291872,
+        "num": 291872,
+        "word": "恋爱谈了两天半就去结婚了",
+        "onboard_time": 1683464552,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282751,
+        "num": 282751,
+        "word": "Lisa再破吉尼斯世界纪录",
+        "onboard_time": 1683447991,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94645,
+        "num": 272700,
+        "word": "建音乐厅的农民工受邀第1个去弹琴",
+        "onboard_time": 1683453030,
+        "rank": 29,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 436432,
+        "num": 272636,
+        "word": "生父再次离婚女儿选择和继母生活",
+        "onboard_time": 1683465393,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270974,
+        "num": 270974,
+        "word": "K435",
+        "onboard_time": 1683458553,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269414,
+        "num": 269414,
+        "word": "TFBOYS庄达菲早期合影",
+        "onboard_time": 1683460469,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265289,
+        "num": 265289,
+        "word": "阴阳师宣传曲极乐净土",
+        "onboard_time": 1683449128,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250760,
+        "num": 250760,
+        "word": "被领导说明天不用来上班了",
+        "onboard_time": 1683459990,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250253,
+        "num": 250253,
+        "word": "庄达菲古装",
+        "onboard_time": 1683447869,
+        "rank": 35,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 246152,
+        "num": 246152,
+        "word": "王思佳 假包",
+        "onboard_time": 1683442588,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238297,
+        "num": 238297,
+        "word": "花楼是不是被夺舍了",
+        "onboard_time": 1683463530,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220139,
+        "num": 220139,
+        "word": "性格开朗的原因",
+        "onboard_time": 1683460890,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218674,
+        "num": 218674,
+        "word": "爸妈把群聊当私聊被我看到了",
+        "onboard_time": 1683434488,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 204370,
+        "num": 204370,
+        "word": "降价7折卖房昆山两项目被政府处罚",
+        "onboard_time": 1683457353,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192929,
+        "num": 192929,
+        "word": "萌探探探案",
+        "onboard_time": 1683465694,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188017,
+        "num": 188017,
+        "word": "教资面试",
+        "onboard_time": 1683465570,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180777,
+        "num": 180777,
+        "word": "事业单位",
+        "onboard_time": 1683418462,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173334,
+        "num": 173334,
+        "word": "巴厘岛警方称已有15名证人接受调查",
+        "onboard_time": 1683448710,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170053,
+        "num": 170053,
+        "word": "刘诗诗 浙江",
+        "onboard_time": 1683453751,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169546,
+        "num": 169546,
+        "word": "巴厘岛",
+        "onboard_time": 1683448951,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166890,
+        "num": 166890,
+        "word": "长月烬明预告",
+        "onboard_time": 1683462691,
+        "rank": 47,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 165491,
+        "num": 165491,
+        "word": "银河护卫队",
+        "onboard_time": 1683457353,
+        "rank": 48,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 107506,
+        "num": 160173,
+        "word": "WB对战DRG",
+        "onboard_time": 1683459269,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#这就是祖国你永远可以相信她#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683465513355,
+  "endTime": 1683466404862,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -107,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1684278,
-      "num": 1684278,
+      "raw_hot": 1759049,
+      "num": 1759049,
       "word": "朋友跟暧昧对象散了19公里步",
       "onboard_time": 1683461910,
       "rank": 18,
@@ -128,6 +128,14 @@
       "word": "娜扎cos貂蝉好美",
       "onboard_time": 1683442466,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1589853,
+      "num": 1589853,
+      "word": "美依礼芽人气断层第一",
+      "onboard_time": 1683464071,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1328517,
+      "num": 794794,
+      "word": "27岁男子找16岁怀孕女友",
+      "onboard_time": 1683463893,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1252981,
       "num": 1190118,
       "word": "打工人怀孕怎么撑到生产",
@@ -235,14 +251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1001228,
-      "num": 560349,
-      "word": "27岁男子找16岁怀孕女友",
-      "onboard_time": 1683463893,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 987242,
       "num": 987242,
       "word": "深圳大学",
@@ -267,20 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 960870,
+      "num": 960870,
+      "word": "男子1天吃10顿暴瘦110斤",
+      "onboard_time": 1683455253,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 958688,
+      "num": 958688,
+      "word": "张颂文被扔东西",
+      "onboard_time": 1683465994,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 958020,
       "num": 958020,
       "word": "一些现代人开始断亲了",
       "onboard_time": 1683443068,
       "rank": 31,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 919244,
-      "num": 919244,
-      "word": "男子1天吃10顿暴瘦110斤",
-      "onboard_time": 1683455253,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 888532,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 783066,
+      "num": 783066,
+      "word": "蔡天凤被碎尸案明日将再度提讯",
+      "onboard_time": 1683462272,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764182,
       "num": 477047,
       "word": "女子回应刷直播看到老公小三同游",
@@ -369,22 +393,6 @@
       "onboard_time": 1683426447,
       "rank": 25,
       "category": "影视"
-    },
-    {
-      "raw_hot": 753804,
-      "num": 651821,
-      "word": "蔡天凤被碎尸案明日将再度提讯",
-      "onboard_time": 1683462272,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742817,
-      "num": 742817,
-      "word": "美依礼芽人气断层第一",
-      "onboard_time": 1683464071,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 741494,
@@ -587,6 +595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 503204,
+      "num": 503204,
+      "word": "谢娜跳了XG",
+      "onboard_time": 1683465271,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501563,
       "num": 501563,
       "word": "被领导说明天不用来上班了",
@@ -657,6 +673,14 @@
       "onboard_time": 1683384932,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 436432,
+      "num": 272636,
+      "word": "生父再次离婚女儿选择和继母生活",
+      "onboard_time": 1683465393,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 428747,
@@ -795,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 346902,
+      "num": 346902,
+      "word": "网传14岁女孩被迫结婚消息不实",
+      "onboard_time": 1683464252,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346814,
       "num": 346814,
       "word": "EXO时期鹿晗",
@@ -859,14 +891,6 @@
       "category": "影视,情感"
     },
     {
-      "raw_hot": 328291,
-      "num": 328291,
-      "word": "网传14岁女孩被迫结婚消息不实",
-      "onboard_time": 1683464252,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327152,
       "num": 327152,
       "word": "存款6万的我裸辞了",
@@ -891,12 +915,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 322710,
+      "num": 322710,
+      "word": "极乐净土",
+      "onboard_time": 1683465994,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318163,
       "num": 318163,
       "word": "买衣服时被老板说嫌贵别买",
       "onboard_time": 1683425494,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 315376,
+      "num": 315376,
+      "word": "平凡之路",
+      "onboard_time": 1683465994,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 308363,
@@ -1035,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291872,
+      "num": 291872,
+      "word": "恋爱谈了两天半就去结婚了",
+      "onboard_time": 1683464552,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288687,
       "num": 205284,
       "word": "谢娜嗑cp嗑到正主面前",
@@ -1067,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265289,
+      "num": 265289,
+      "word": "阴阳师宣传曲极乐净土",
+      "onboard_time": 1683449128,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264541,
       "num": 230862,
       "word": "徐怀钰唱功",
@@ -1097,14 +1153,6 @@
       "onboard_time": 1683454709,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251387,
-      "num": 251387,
-      "word": "恋爱谈了两天半就去结婚了",
-      "onboard_time": 1683464552,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 250512,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1683443068,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238297,
+      "num": 238297,
+      "word": "花楼是不是被夺舍了",
+      "onboard_time": 1683463530,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 237455,
@@ -1299,14 +1355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210576,
-      "num": 239694,
-      "word": "阴阳师宣传曲极乐净土",
-      "onboard_time": 1683449128,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 210240,
       "num": 210240,
       "word": "全红婵陈芋汐金牌",
@@ -1355,14 +1403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205896,
-      "num": 205896,
-      "word": "花楼是不是被夺舍了",
-      "onboard_time": 1683463530,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 205262,
       "num": 205262,
       "word": "对大学动漫宅的模仿",
@@ -1379,20 +1419,20 @@
       "category": "影视"
     },
     {
+      "raw_hot": 192929,
+      "num": 192929,
+      "word": "萌探探探案",
+      "onboard_time": 1683465694,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192606,
       "num": 192606,
       "word": "遇害女大学生父亲回应罪犯被执行死刑",
       "onboard_time": 1683437249,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191167,
-      "num": 191167,
-      "word": "谢娜跳了XG",
-      "onboard_time": 1683465271,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 191086,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1683384154,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188017,
+      "num": 188017,
+      "word": "教资面试",
+      "onboard_time": 1683465570,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 186642,
@@ -1715,14 +1763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 148545,
-      "num": 148545,
-      "word": "生父再次离婚女儿选择和继母生活",
-      "onboard_time": 1683465393,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143282,
       "num": 102702,
       "word": "IU认出了10年没见的粉丝",
@@ -1812,7 +1852,7 @@
     },
     {
       "raw_hot": 117373,
-      "num": 128660,
+      "num": 160173,
       "word": "WB对战DRG",
       "onboard_time": 1683459269,
       "rank": 49,
@@ -2121,6 +2161,9 @@
     },
     {
       "word": "#3个关键词把握五一后首场重磅会议#"
+    },
+    {
+      "word": "#这就是祖国你永远可以相信她#"
     }
   ]
 }
