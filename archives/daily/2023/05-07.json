@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683424350720,
+  "endTime": 1683427075692,
   "band_list": [
     {
       "raw_hot": 2048424,
@@ -27,20 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1399971,
+      "num": 1399971,
+      "word": "男子在淄博吃完烧烤直接买房定居",
+      "onboard_time": 1683422425,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1252981,
+      "num": 1190118,
+      "word": "打工人怀孕怎么撑到生产",
+      "onboard_time": 1683421224,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1237184,
       "num": 1237184,
       "word": "吴倩状态 刚回国的赵默笙",
       "onboard_time": 1683382595,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1190118,
-      "num": 1190118,
-      "word": "打工人怀孕怎么撑到生产",
-      "onboard_time": 1683421224,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 1110160,
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 813215,
+      "num": 813215,
+      "word": "品如的苹果手机怎么是翻盖的",
+      "onboard_time": 1683425187,
+      "rank": 1,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 764182,
       "num": 477047,
       "word": "女子回应刷直播看到老公小三同游",
@@ -129,14 +145,6 @@
       "onboard_time": 1683416420,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 628805,
-      "num": 337965,
-      "word": "男子在淄博吃完烧烤直接买房定居",
-      "onboard_time": 1683422425,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 619108,
@@ -195,12 +203,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 500150,
+      "num": 463859,
+      "word": "鹿晗诺言MV里的吴倩",
+      "onboard_time": 1683374010,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 498791,
       "num": 157551,
       "word": "没药花园 巴厘岛情侣身亡",
       "onboard_time": 1683370471,
       "rank": 25,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 483416,
+      "num": 483416,
+      "word": "迪丽热巴好白啊",
+      "onboard_time": 1683424827,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 482148,
@@ -227,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 462872,
-      "num": 462872,
-      "word": "鹿晗诺言MV里的吴倩",
-      "onboard_time": 1683374010,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 449101,
       "num": 449101,
       "word": "张角",
@@ -256,6 +272,22 @@
       "word": "全红婵",
       "onboard_time": 1683389911,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 360795,
+      "num": 360795,
+      "word": "NBA裁判",
+      "onboard_time": 1683426386,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 351951,
+      "num": 351951,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683421047,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -299,12 +331,52 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 302305,
+      "num": 302305,
+      "word": "看过但又不好意思承认看过的小说",
+      "onboard_time": 1683423207,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 292491,
+      "num": 266134,
+      "word": "seventeen 内地签售会",
+      "onboard_time": 1683425309,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288687,
       "num": 205284,
       "word": "谢娜嗑cp嗑到正主面前",
       "onboard_time": 1683388351,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281154,
+      "num": 281154,
+      "word": "买衣服时被老板说嫌贵别买",
+      "onboard_time": 1683425494,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 260510,
+      "num": 260510,
+      "word": "承重墙住户称干一辈子就弄这一套房",
+      "onboard_time": 1683423388,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244295,
+      "num": 244295,
+      "word": "罗云熙白鹿的脸重叠是王鹤棣",
+      "onboard_time": 1683426447,
+      "rank": 25,
+      "category": "影视"
     },
     {
       "raw_hot": 239038,
@@ -321,22 +393,6 @@
       "onboard_time": 1683380255,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232648,
-      "num": 232648,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683421047,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 228980,
-      "num": 228980,
-      "word": "看过但又不好意思承认看过的小说",
-      "onboard_time": 1683423207,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 225498,
@@ -451,20 +507,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 173668,
-      "num": 173668,
-      "word": "承重墙住户称干一辈子就弄这一套房",
-      "onboard_time": 1683423388,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170404,
       "num": 170404,
       "word": "最食人间烟火色",
       "onboard_time": 1683418524,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 165616,
+      "num": 165616,
+      "word": "女子深夜加班回家吃榴莲被丈夫指责",
+      "onboard_time": 1683423686,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165341,
@@ -523,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150384,
+      "num": 150384,
+      "word": "你还会相信婚姻和爱情吗",
+      "onboard_time": 1683424287,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143282,
       "num": 102702,
       "word": "IU认出了10年没见的粉丝",
@@ -539,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142342,
-      "num": 142342,
-      "word": "女子深夜加班回家吃榴莲被丈夫指责",
-      "onboard_time": 1683423686,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "张角痛哭道歉",
@@ -560,6 +616,14 @@
       "word": "餐厅回应养观赏鲨鱼产下3条崽",
       "onboard_time": 1683393142,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132330,
+      "num": 132330,
+      "word": "工人大哥怕踩脏地面脱鞋进银行",
+      "onboard_time": 1683425494,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -579,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121261,
-      "num": 121261,
-      "word": "你还会相信婚姻和爱情吗",
-      "onboard_time": 1683424287,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114820,
       "num": 101468,
       "word": "刘些宁戴牙套了",
@@ -601,6 +657,14 @@
       "onboard_time": 1683383613,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111388,
+      "num": 111388,
+      "word": "通过失望的声音分辨中日韩国人",
+      "onboard_time": 1683426265,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 108824,
@@ -748,7 +812,7 @@
     },
     {
       "raw_hot": 51061,
-      "num": 95456,
+      "num": 95933,
       "word": "Cat选手夏天见",
       "onboard_time": 1683417082,
       "rank": 49,
