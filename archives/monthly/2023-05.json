@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683436574327,
+  "endTime": 1683437603873,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -3043,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582934,
+      "num": 347942,
+      "word": "刘昊然回应扣完脚闻手",
+      "onboard_time": 1683436829,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 581418,
       "num": 581418,
       "word": "优酷片单",
@@ -3123,8 +3131,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 562431,
-      "num": 208672,
+      "raw_hot": 566027,
+      "num": 211487,
       "word": "爸妈把群聊当私聊被我看到了",
       "onboard_time": 1683434488,
       "rank": 30,
@@ -5115,6 +5123,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 363327,
+      "num": 363327,
+      "word": "芝芙 明艳美女",
+      "onboard_time": 1683435869,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362845,
       "num": 362845,
       "word": "房价房租倒挂",
@@ -5644,7 +5660,7 @@
     },
     {
       "raw_hot": 331247,
-      "num": 297939,
+      "num": 303531,
       "word": "老公出轨该及时挽回还是果断分开",
       "onboard_time": 1683418044,
       "rank": 22,
@@ -7491,6 +7507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 250811,
+      "num": 212799,
+      "word": "周深都有时间秒回",
+      "onboard_time": 1683436527,
+      "rank": 46,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 250326,
       "num": 250326,
       "word": "鹅厂五月大剧片单",
@@ -8483,6 +8507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225148,
+      "num": 212386,
+      "word": "萌探录制",
+      "onboard_time": 1683436648,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224863,
       "num": 224863,
       "word": "胡歌现身南京德基广场",
@@ -9081,14 +9113,6 @@
       "onboard_time": 1682914707,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 211676,
-      "num": 211676,
-      "word": "芝芙 明艳美女",
-      "onboard_time": 1683435869,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 211472,
@@ -10065,6 +10089,14 @@
       "onboard_time": 1683007408,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191086,
+      "num": 191086,
+      "word": "周也战损抬眸",
+      "onboard_time": 1683437011,
+      "rank": 35,
+      "category": "影视"
     },
     {
       "raw_hot": 190797,
@@ -11355,6 +11387,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 163420,
+      "num": 163420,
+      "word": "毛晓彤居然是88年的",
+      "onboard_time": 1683437369,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163300,
       "num": 163300,
       "word": "蒋奇明",
@@ -11425,6 +11465,14 @@
       "onboard_time": 1683016168,
       "rank": 44,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 161629,
+      "num": 161629,
+      "word": "杜馆长的发言稿",
+      "onboard_time": 1683436949,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 161288,
@@ -12251,6 +12299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139729,
+      "num": 139729,
+      "word": "遇害女大学生父亲回应罪犯被执行死刑",
+      "onboard_time": 1683437249,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "张角痛哭道歉",
@@ -12985,14 +13041,6 @@
       "onboard_time": 1683216866,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120600,
-      "num": 120600,
-      "word": "周深都有时间秒回",
-      "onboard_time": 1683436527,
-      "rank": 46,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 120338,
@@ -14107,6 +14155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49625,
+      "num": 118786,
+      "word": "DRG晋级败者组决赛",
+      "onboard_time": 1683434732,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 49227,
       "num": 139494,
       "word": "那些耐得住不放弃的日子",
@@ -14161,14 +14217,6 @@
       "onboard_time": 1683047243,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45632,
-      "num": 118786,
-      "word": "DRG晋级败者组决赛",
-      "onboard_time": 1683434732,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 45421,
