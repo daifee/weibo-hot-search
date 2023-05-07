@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683462620352,
+  "endTime": 1683463550540,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -595,6 +595,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1869915,
+      "num": 1869915,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1683455793,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1848025,
       "num": 1741467,
       "word": "南昌咬人",
@@ -1147,14 +1155,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1396713,
-      "num": 1396713,
-      "word": "关闭朋友圈一年后的变化",
-      "onboard_time": 1683455793,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1384869,
       "num": 1384869,
       "word": "王源 门票",
@@ -1539,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1171523,
+      "num": 1171523,
+      "word": "朋友跟暧昧对象散了19公里步",
+      "onboard_time": 1683461910,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1160855,
       "num": 1160855,
       "word": "刘亚仁男友被立案调查",
@@ -1835,6 +1843,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1036180,
+      "num": 1036180,
+      "word": "黄晓明见到Amber第一句话提的宋茜",
+      "onboard_time": 1683456513,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1032685,
       "num": 1032685,
       "word": "胡锡进 把普通人这样发到网上太不应该",
@@ -2123,14 +2139,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 892707,
-      "num": 892707,
-      "word": "黄晓明见到Amber第一句话提的宋茜",
-      "onboard_time": 1683456513,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 891303,
       "num": 891303,
       "word": "大伯二婚对象是我初恋的妈妈",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1683351572,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 876121,
+      "num": 876121,
+      "word": "深圳大学",
+      "onboard_time": 1683461370,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 874275,
@@ -2555,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 741494,
+      "num": 741494,
+      "word": "K435",
+      "onboard_time": 1683458553,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740857,
       "num": 740857,
       "word": "生二胎对女性身体的影响有多大",
@@ -2609,14 +2633,6 @@
       "onboard_time": 1682985262,
       "rank": 7,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 726452,
-      "num": 726452,
-      "word": "K435",
-      "onboard_time": 1683458553,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 725796,
@@ -2936,6 +2952,14 @@
       "word": "杭州高空扔狗事件",
       "onboard_time": 1683341371,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651821,
+      "num": 651821,
+      "word": "蔡天凤被碎尸案明日将再度提讯",
+      "onboard_time": 1683462272,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -3307,6 +3331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 576533,
+      "num": 576533,
+      "word": "内娱顶级剧抛脸",
+      "onboard_time": 1683455670,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 572821,
       "num": 572821,
       "word": "同事登我电脑问密码是什么",
@@ -3473,14 +3505,6 @@
       "onboard_time": 1682946271,
       "rank": 9,
       "category": "影视"
-    },
-    {
-      "raw_hot": 551030,
-      "num": 551030,
-      "word": "内娱顶级剧抛脸",
-      "onboard_time": 1683455670,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 550820,
@@ -3993,14 +4017,6 @@
       "onboard_time": 1682903850,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483939,
-      "num": 483939,
-      "word": "深圳大学",
-      "onboard_time": 1683461370,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483829,
@@ -5395,14 +5411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365068,
-      "num": 365068,
-      "word": "朋友跟暧昧对象散了19公里步",
-      "onboard_time": 1683461910,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 364875,
       "num": 364875,
       "word": "领证一年双方父母未见过面",
@@ -6563,6 +6571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308524,
+      "num": 210627,
+      "word": "女子称在NIKE试衣间4分钟被偷拍3次",
+      "onboard_time": 1683462510,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307753,
       "num": 307753,
       "word": "周深说额头见到大家很高兴",
@@ -6833,6 +6849,14 @@
       "onboard_time": 1683004531,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 294799,
+      "num": 294799,
+      "word": "性格开朗的原因",
+      "onboard_time": 1683460890,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 294475,
@@ -7385,14 +7409,6 @@
       "onboard_time": 1683034057,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 271799,
-      "num": 271799,
-      "word": "性格开朗的原因",
-      "onboard_time": 1683460890,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 271296,
@@ -9987,6 +10003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205262,
+      "num": 205262,
+      "word": "对大学动漫宅的模仿",
+      "onboard_time": 1683463232,
+      "rank": 31,
+      "category": "动漫,幽默"
+    },
+    {
       "raw_hot": 205222,
       "num": 205222,
       "word": "女子偷卖闺蜜金手镯给男友买手机",
@@ -10481,6 +10505,14 @@
       "onboard_time": 1683356551,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195449,
+      "num": 239694,
+      "word": "阴阳师宣传曲极乐净土",
+      "onboard_time": 1683449128,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 195409,
@@ -11105,14 +11137,6 @@
       "onboard_time": 1683257732,
       "rank": 49,
       "category": "影视"
-    },
-    {
-      "raw_hot": 181660,
-      "num": 239694,
-      "word": "阴阳师宣传曲极乐净土",
-      "onboard_time": 1683449128,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 181549,
@@ -11827,6 +11851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169280,
+      "num": 169280,
+      "word": "历代郭靖黄蓉一览",
+      "onboard_time": 1683460351,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 169206,
       "num": 169206,
       "word": "剧院魅影",
@@ -12147,14 +12179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162350,
-      "num": 162350,
-      "word": "历代郭靖黄蓉一览",
-      "onboard_time": 1683460351,
-      "rank": 40,
-      "category": "影视"
-    },
-    {
       "raw_hot": 162273,
       "num": 162273,
       "word": "Jennie朴彩英确认出席Metgala",
@@ -12465,14 +12489,6 @@
       "onboard_time": 1682994988,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155687,
-      "num": 155687,
-      "word": "蔡天凤被碎尸案明日将再度提讯",
-      "onboard_time": 1683462272,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155662,
@@ -13043,6 +13059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139414,
+      "num": 139414,
+      "word": "花楼是不是被夺舍了",
+      "onboard_time": 1683463530,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "张角痛哭道歉",
@@ -13433,14 +13457,6 @@
       "onboard_time": 1683377069,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129237,
-      "num": 129237,
-      "word": "女子称在NIKE试衣间4分钟被偷拍3次",
-      "onboard_time": 1683462510,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129153,

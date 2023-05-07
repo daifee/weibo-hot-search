@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683462620352,
+  "endTime": 1683463550540,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -83,6 +83,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1869915,
+      "num": 1869915,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1683455793,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1829079,
       "num": 658019,
       "word": "刘昊然回应抠完脚闻手",
@@ -155,14 +163,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1396713,
-      "num": 1396713,
-      "word": "关闭朋友圈一年后的变化",
-      "onboard_time": 1683455793,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1329287,
       "num": 1329287,
       "word": "Lisa再破吉尼斯世界纪录",
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1171523,
+      "num": 1171523,
+      "word": "朋友跟暧昧对象散了19公里步",
+      "onboard_time": 1683461910,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1118927,
       "num": 1118927,
       "word": "南京女大学生被害案罪犯洪峤被执行死刑",
@@ -209,6 +217,14 @@
       "onboard_time": 1683425187,
       "rank": 1,
       "category": "影视,幽默"
+    },
+    {
+      "raw_hot": 1036180,
+      "num": 1036180,
+      "word": "黄晓明见到Amber第一句话提的宋茜",
+      "onboard_time": 1683456513,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1020077,
@@ -251,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 892707,
-      "num": 892707,
-      "word": "黄晓明见到Amber第一句话提的宋茜",
-      "onboard_time": 1683456513,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 888532,
       "num": 309668,
       "word": "活死人",
@@ -289,6 +297,14 @@
       "onboard_time": 1683427766,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 876121,
+      "num": 876121,
+      "word": "深圳大学",
+      "onboard_time": 1683461370,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 854561,
@@ -347,6 +363,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 741494,
+      "num": 741494,
+      "word": "K435",
+      "onboard_time": 1683458553,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733074,
       "num": 608915,
       "word": "爸妈把群聊当私聊被我看到了",
@@ -363,14 +387,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 726452,
-      "num": 726452,
-      "word": "K435",
-      "onboard_time": 1683458553,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 721961,
       "num": 721961,
       "word": "黄晓明 0是啥意思",
@@ -385,6 +401,14 @@
       "onboard_time": 1683416420,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 651821,
+      "num": 651821,
+      "word": "蔡天凤被碎尸案明日将再度提讯",
+      "onboard_time": 1683462272,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 638365,
@@ -459,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 576533,
+      "num": 576533,
+      "word": "内娱顶级剧抛脸",
+      "onboard_time": 1683455670,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 570243,
       "num": 570243,
       "word": "美依礼芽2015年到底有多火",
@@ -481,14 +513,6 @@
       "onboard_time": 1683443490,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 551030,
-      "num": 551030,
-      "word": "内娱顶级剧抛脸",
-      "onboard_time": 1683455670,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 549927,
@@ -561,14 +585,6 @@
       "onboard_time": 1683370471,
       "rank": 25,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 483939,
-      "num": 483939,
-      "word": "深圳大学",
-      "onboard_time": 1683461370,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483416,
@@ -681,14 +697,6 @@
       "onboard_time": 1683431607,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365068,
-      "num": 365068,
-      "word": "朋友跟暧昧对象散了19公里步",
-      "onboard_time": 1683461910,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 363458,
@@ -851,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 308524,
+      "num": 210627,
+      "word": "女子称在NIKE试衣间4分钟被偷拍3次",
+      "onboard_time": 1683462510,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308363,
       "num": 308363,
       "word": "长月烬明",
@@ -947,6 +963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 294799,
+      "num": 294799,
+      "word": "性格开朗的原因",
+      "onboard_time": 1683460890,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294189,
       "num": 294189,
       "word": "深圳暴雨",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1683427407,
       "rank": 34,
       "category": "幽默,综艺"
-    },
-    {
-      "raw_hot": 271799,
-      "num": 271799,
-      "word": "性格开朗的原因",
-      "onboard_time": 1683460890,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 265499,
@@ -1291,12 +1307,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205262,
+      "num": 205262,
+      "word": "对大学动漫宅的模仿",
+      "onboard_time": 1683463232,
+      "rank": 31,
+      "category": "动漫,幽默"
+    },
+    {
       "raw_hot": 198793,
       "num": 198129,
       "word": "玥烬情苏",
       "onboard_time": 1683454593,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 195449,
+      "num": 239694,
+      "word": "阴阳师宣传曲极乐净土",
+      "onboard_time": 1683449128,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 192606,
@@ -1379,14 +1411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181660,
-      "num": 239694,
-      "word": "阴阳师宣传曲极乐净土",
-      "onboard_time": 1683449128,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 181096,
       "num": 1866192,
       "word": "全网最有爱心的挖呀挖呀挖",
@@ -1443,6 +1467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173940,
+      "num": 173940,
+      "word": "长月烬明预告",
+      "onboard_time": 1683462691,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 172950,
       "num": 172950,
       "word": "大英赛答案",
@@ -1472,6 +1504,14 @@
       "word": "最食人间烟火色",
       "onboard_time": 1683418524,
       "rank": 36,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 169280,
+      "num": 169280,
+      "word": "历代郭靖黄蓉一览",
+      "onboard_time": 1683460351,
+      "rank": 40,
       "category": "影视"
     },
     {
@@ -1521,14 +1561,6 @@
       "onboard_time": 1683372151,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162350,
-      "num": 162350,
-      "word": "历代郭靖黄蓉一览",
-      "onboard_time": 1683460351,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 161961,
@@ -1587,14 +1619,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 155687,
-      "num": 155687,
-      "word": "蔡天凤被碎尸案明日将再度提讯",
-      "onboard_time": 1683462272,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155184,
       "num": 102734,
       "word": "白鹿周深范丞丞组合名",
@@ -1651,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139414,
+      "num": 139414,
+      "word": "花楼是不是被夺舍了",
+      "onboard_time": 1683463530,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "张角痛哭道歉",
@@ -1705,14 +1737,6 @@
       "onboard_time": 1683428006,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129237,
-      "num": 129237,
-      "word": "女子称在NIKE试衣间4分钟被偷拍3次",
-      "onboard_time": 1683462510,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128509,
