@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683441218809,
+  "endTime": 1683443670227,
   "band_list": [
     {
       "raw_hot": 3217331,
@@ -44,11 +44,27 @@
     },
     {
       "raw_hot": 1829079,
-      "num": 232705,
+      "num": 266678,
       "word": "刘昊然回应抠完脚闻手",
       "onboard_time": 1683436829,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1732304,
+      "num": 1732304,
+      "word": "肖战庄达菲 徐克电影",
+      "onboard_time": 1683443068,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 1492196,
+      "num": 1492196,
+      "word": "赵丽颖玉兔公主",
+      "onboard_time": 1683440847,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 1404379,
@@ -99,6 +115,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1043322,
+      "num": 1043322,
+      "word": "王思佳 假包",
+      "onboard_time": 1683442588,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1020077,
       "num": 102047,
       "word": "婆婆直接把38.8万彩礼转我了",
@@ -137,6 +161,14 @@
       "onboard_time": 1683416663,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 882126,
+      "num": 882126,
+      "word": "韩国人有自己的抗日神剧",
+      "onboard_time": 1683438689,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 878925,
@@ -184,14 +216,6 @@
       "word": "罗云熙白鹿的脸重叠是王鹤棣",
       "onboard_time": 1683426447,
       "rank": 25,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 736174,
-      "num": 736174,
-      "word": "韩国人有自己的抗日神剧",
-      "onboard_time": 1683438689,
-      "rank": 4,
       "category": "影视"
     },
     {
@@ -267,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 570243,
+      "num": 570243,
+      "word": "美依礼芽2015年到底有多火",
+      "onboard_time": 1683439409,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566027,
       "num": 211487,
       "word": "爸妈把群聊当私聊被我看到了",
@@ -275,12 +307,12 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 556213,
-      "num": 556213,
-      "word": "美依礼芽2015年到底有多火",
-      "onboard_time": 1683439409,
+      "raw_hot": 561368,
+      "num": 561368,
+      "word": "中国人有自己的权志龙",
+      "onboard_time": 1683441808,
       "rank": 7,
-      "category": "综艺"
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 549927,
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 454430,
+      "num": 264338,
+      "word": "娜扎cos貂蝉好美",
+      "onboard_time": 1683442466,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 449101,
       "num": 449101,
       "word": "张角",
@@ -368,6 +408,14 @@
       "word": "张艺兴舒淇电影 停拍",
       "onboard_time": 1683371190,
       "rank": 15,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 421140,
+      "num": 253876,
+      "word": "长月烬明玥烬情苏番外",
+      "onboard_time": 1683438988,
+      "rank": 22,
       "category": "影视"
     },
     {
@@ -385,14 +433,6 @@
       "onboard_time": 1683420264,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 378090,
-      "num": 224728,
-      "word": "长月烬明玥烬情苏番外",
-      "onboard_time": 1683438988,
-      "rank": 22,
-      "category": "影视"
     },
     {
       "raw_hot": 377461,
@@ -587,6 +627,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250838,
+      "num": 250838,
+      "word": "不考虑cp本身最喜欢的cp名",
+      "onboard_time": 1683440909,
+      "rank": 48,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 250512,
+      "num": 174676,
+      "word": "你能接受明星私下形象邋遢吗",
+      "onboard_time": 1683440489,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245097,
       "num": 245097,
       "word": "icon宝蓝录制奔跑吧",
@@ -604,7 +660,7 @@
     },
     {
       "raw_hot": 242211,
-      "num": 188370,
+      "num": 208592,
       "word": "存款6万的我裸辞了",
       "onboard_time": 1683439049,
       "rank": 23,
@@ -675,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218843,
+      "num": 162193,
+      "word": "一些现代人开始断亲了",
+      "onboard_time": 1683443068,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 216601,
       "num": 180221,
       "word": "曾经很火却消失了的东西",
@@ -689,14 +753,6 @@
       "onboard_time": 1683419964,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209645,
-      "num": 177676,
-      "word": "赵丽颖玉兔公主",
-      "onboard_time": 1683440847,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 208923,
@@ -731,12 +787,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200714,
-      "num": 174676,
-      "word": "你能接受明星私下形象邋遢吗",
-      "onboard_time": 1683440489,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 201892,
+      "num": 161954,
+      "word": "男子停车遭开门杀后被女子连撞3次",
+      "onboard_time": 1683442710,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193654,
+      "num": 161889,
+      "word": "射雕英雄传",
+      "onboard_time": 1683443548,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 192606,
@@ -755,12 +819,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 190107,
+      "num": 161691,
+      "word": "射雕英雄传侠之大者官宣海报",
+      "onboard_time": 1683443490,
+      "rank": 36,
+      "category": "影视"
+    },
+    {
       "raw_hot": 188792,
       "num": 152242,
       "word": "鬓边不是海棠红",
       "onboard_time": 1683384154,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186834,
+      "num": 161805,
+      "word": "福建4名基层干部查看水情落水失联",
+      "onboard_time": 1683443068,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186091,
@@ -785,6 +865,14 @@
       "onboard_time": 1683373649,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 183122,
+      "num": 161636,
+      "word": "奔跑吧路透",
+      "onboard_time": 1683442826,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 182694,
@@ -891,6 +979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 161427,
+      "num": 161427,
+      "word": "漫长的季节",
+      "onboard_time": 1683442108,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 159174,
       "num": 121128,
       "word": "金晨给朱珠送平凡暖心包",
@@ -929,6 +1025,14 @@
       "onboard_time": 1683421706,
       "rank": 37,
       "category": "影视"
+    },
+    {
+      "raw_hot": 150492,
+      "num": 219918,
+      "word": "外卖能买房了",
+      "onboard_time": 1683439228,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150445,
@@ -1027,28 +1131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124251,
-      "num": 219918,
-      "word": "外卖能买房了",
-      "onboard_time": 1683439228,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114820,
       "num": 101468,
       "word": "刘些宁戴牙套了",
       "onboard_time": 1683376827,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112865,
-      "num": 112865,
-      "word": "不考虑cp本身最喜欢的cp名",
-      "onboard_time": 1683440909,
-      "rank": 48,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 112804,
@@ -1228,7 +1316,7 @@
     },
     {
       "raw_hot": 56008,
-      "num": 890975,
+      "num": 1369720,
       "word": "天舟六号船箭垂直转运进发射区",
       "onboard_time": 1683432928,
       "rank": 2,
@@ -1265,6 +1353,14 @@
       "onboard_time": 1683404413,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42930,
+      "num": 97479,
+      "word": "李九采访",
+      "onboard_time": 1683442108,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 38198,
