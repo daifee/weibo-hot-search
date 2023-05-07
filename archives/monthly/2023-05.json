@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683423269018,
+  "endTime": 1683424350720,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -443,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1999829,
+      "num": 390600,
+      "word": "网友自称曾霸凌刘亦菲",
+      "onboard_time": 1683420684,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1995815,
       "num": 1971050,
       "word": "婆婆直接把38.8万彩礼转我了",
@@ -665,14 +673,6 @@
       "onboard_time": 1683112586,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1744158,
-      "num": 390600,
-      "word": "网友自称曾霸凌刘亦菲",
-      "onboard_time": 1683420684,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1742679,
@@ -1323,6 +1323,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1190118,
+      "num": 1190118,
+      "word": "打工人怀孕怎么撑到生产",
+      "onboard_time": 1683421224,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1188795,
       "num": 407882,
       "word": "唐嫣中戏同学聚会",
@@ -1729,14 +1737,6 @@
       "onboard_time": 1683342568,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 1000417,
-      "num": 1000417,
-      "word": "打工人怀孕怎么撑到生产",
-      "onboard_time": 1683421224,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 999294,
@@ -2251,6 +2251,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 764182,
+      "num": 477047,
+      "word": "女子回应刷直播看到老公小三同游",
+      "onboard_time": 1683384630,
+      "rank": 23,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 762849,
       "num": 762849,
       "word": "五四青年节",
@@ -2499,14 +2507,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 697569,
-      "num": 477047,
-      "word": "女子回应刷直播看到老公小三同游",
-      "onboard_time": 1683384630,
-      "rank": 23,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 696943,
       "num": 511689,
       "word": "刘恋穿了品如的衣服",
@@ -2729,6 +2729,14 @@
       "onboard_time": 1683213870,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 628805,
+      "num": 337965,
+      "word": "男子在淄博吃完烧烤直接买房定居",
+      "onboard_time": 1683422425,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 627136,
@@ -3412,7 +3420,7 @@
     },
     {
       "raw_hot": 519169,
-      "num": 359075,
+      "num": 502710,
       "word": "原来只打中文也能看出国籍",
       "onboard_time": 1683416663,
       "rank": 14,
@@ -3643,6 +3651,14 @@
       "category": "幽默,作品衍生"
     },
     {
+      "raw_hot": 482148,
+      "num": 482148,
+      "word": "事业单位",
+      "onboard_time": 1683418462,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 481507,
       "num": 481507,
       "word": "杨紫琼宋慧乔同框",
@@ -3787,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466654,
+      "num": 466654,
+      "word": "吴倩你好星期六",
+      "onboard_time": 1683419365,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466646,
       "num": 466646,
       "word": "当cp粉被保安要求打开横幅",
@@ -3905,14 +3929,6 @@
       "onboard_time": 1683380193,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454253,
-      "num": 437890,
-      "word": "吴倩你好星期六",
-      "onboard_time": 1683419365,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 453538,
@@ -4649,14 +4665,6 @@
       "onboard_time": 1683291509,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 391223,
-      "num": 391223,
-      "word": "事业单位",
-      "onboard_time": 1683418462,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 390904,
@@ -5508,7 +5516,7 @@
     },
     {
       "raw_hot": 331247,
-      "num": 245988,
+      "num": 291437,
       "word": "老公出轨该及时挽回还是果断分开",
       "onboard_time": 1683418044,
       "rank": 22,
@@ -6035,6 +6043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305777,
+      "num": 305777,
+      "word": "周杰伦沈月合照",
+      "onboard_time": 1683420806,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305515,
       "num": 305515,
       "word": "装修砸承重墙致200户居民疏散",
@@ -6097,14 +6113,6 @@
       "onboard_time": 1683333328,
       "rank": 32,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 299246,
-      "num": 209415,
-      "word": "男子在淄博吃完烧烤直接买房定居",
-      "onboard_time": 1683422425,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 299118,
@@ -6665,14 +6673,6 @@
       "onboard_time": 1683017187,
       "rank": 24,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 273154,
-      "num": 225065,
-      "word": "周杰伦沈月合照",
-      "onboard_time": 1683420806,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 272532,
@@ -7971,6 +7971,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 232648,
+      "num": 232648,
+      "word": "勇士vs湖人",
+      "onboard_time": 1683421047,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232638,
       "num": 232638,
       "word": "女生假期景点摆摊单日收入3千元",
@@ -8055,6 +8063,14 @@
       "num": 229050,
       "word": "太想妈妈结果在高铁上哭了",
       "onboard_time": 1683281251,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 228980,
+      "num": 228980,
+      "word": "看过但又不好意思承认看过的小说",
+      "onboard_time": 1683423207,
       "rank": 48,
       "category": "情感"
     },
@@ -8425,6 +8441,14 @@
       "onboard_time": 1683181887,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220173,
+      "num": 220173,
+      "word": "张大大都带ab了杨幂还会远吗",
+      "onboard_time": 1683420264,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219972,
@@ -8883,14 +8907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210654,
-      "num": 210654,
-      "word": "勇士vs湖人",
-      "onboard_time": 1683421047,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210423,
       "num": 210423,
       "word": "贺峻霖演唱会后台视频",
@@ -8953,6 +8969,14 @@
       "onboard_time": 1683015684,
       "rank": 30,
       "category": "影视"
+    },
+    {
+      "raw_hot": 208923,
+      "num": 208923,
+      "word": "欧阳靖目前只有一个rapper想超过",
+      "onboard_time": 1683419605,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 208592,
@@ -9033,14 +9057,6 @@
       "onboard_time": 1683120632,
       "rank": 35,
       "category": "影视"
-    },
-    {
-      "raw_hot": 206369,
-      "num": 206369,
-      "word": "欧阳靖目前只有一个rapper想超过",
-      "onboard_time": 1683419605,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 206161,
@@ -9939,14 +9955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188378,
-      "num": 188378,
-      "word": "张大大都带ab了杨幂还会远吗",
-      "onboard_time": 1683420264,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 188086,
       "num": 166296,
       "word": "腾讯综艺剧集自产自销了",
@@ -10657,6 +10665,14 @@
       "onboard_time": 1683386312,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173668,
+      "num": 173668,
+      "word": "承重墙住户称干一辈子就弄这一套房",
+      "onboard_time": 1683423388,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173626,
@@ -11867,6 +11883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142342,
+      "num": 142342,
+      "word": "女子深夜加班回家吃榴莲被丈夫指责",
+      "onboard_time": 1683423686,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142064,
       "num": 142064,
       "word": "蒋奇明和易烊千玺合作过",
@@ -11945,6 +11969,14 @@
       "onboard_time": 1683101849,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139213,
+      "num": 139213,
+      "word": "张角痛哭道歉",
+      "onboard_time": 1683420264,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 139183,
@@ -12176,14 +12208,6 @@
       "word": "久酷鲜奶",
       "onboard_time": 1682866353,
       "rank": 34,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 131160,
-      "num": 131160,
-      "word": "张角痛哭道歉",
-      "onboard_time": 1683420264,
-      "rank": 39,
       "category": "游戏"
     },
     {
@@ -12609,6 +12633,14 @@
       "onboard_time": 1683166769,
       "rank": 47,
       "category": "影视"
+    },
+    {
+      "raw_hot": 121261,
+      "num": 121261,
+      "word": "你还会相信婚姻和爱情吗",
+      "onboard_time": 1683424287,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121222,
@@ -13169,14 +13201,6 @@
       "onboard_time": 1683192808,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95661,
-      "num": 95661,
-      "word": "看过但又不好意思承认看过的小说",
-      "onboard_time": 1683423207,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 95239,
