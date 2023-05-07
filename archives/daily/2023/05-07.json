@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683427603237,
+  "endTime": 1683429479496,
   "band_list": [
     {
       "raw_hot": 2048424,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1999829,
-      "num": 393905,
+      "num": 518768,
       "word": "网友自称曾霸凌刘亦菲",
       "onboard_time": 1683420684,
       "rank": 10,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1083093,
+      "num": 1083093,
+      "word": "品如的苹果手机怎么是翻盖的",
+      "onboard_time": 1683425187,
+      "rank": 1,
+      "category": "影视,幽默"
+    },
+    {
       "raw_hot": 1020077,
       "num": 102047,
       "word": "婆婆直接把38.8万彩礼转我了",
@@ -67,20 +75,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 981444,
-      "num": 981444,
-      "word": "品如的苹果手机怎么是翻盖的",
-      "onboard_time": 1683425187,
-      "rank": 1,
-      "category": "影视,幽默"
-    },
-    {
       "raw_hot": 971397,
       "num": 971397,
       "word": "黄老师唱的挖呀挖或涉嫌侵权",
       "onboard_time": 1683381752,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 890167,
+      "num": 890167,
+      "word": "关晓彤玩游戏不敢提鹿晗",
+      "onboard_time": 1683428666,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 888532,
@@ -123,6 +131,14 @@
       "category": "音乐,幽默"
     },
     {
+      "raw_hot": 739478,
+      "num": 739478,
+      "word": "去男朋友家收到了30元红包",
+      "onboard_time": 1683427766,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 730491,
       "num": 730491,
       "word": "白鹿片场行为",
@@ -140,11 +156,27 @@
     },
     {
       "raw_hot": 719883,
-      "num": 385587,
+      "num": 518552,
       "word": "董洁43岁身材",
       "onboard_time": 1683416420,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 645961,
+      "num": 645961,
+      "word": "罗云熙白鹿的脸重叠是王鹤棣",
+      "onboard_time": 1683426447,
+      "rank": 25,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 619371,
+      "num": 619371,
+      "word": "原来只打中文也能看出国籍",
+      "onboard_time": 1683416663,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 619108,
@@ -163,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595104,
+      "num": 595104,
+      "word": "NBA裁判",
+      "onboard_time": 1683426386,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 583873,
       "num": 491868,
       "word": "活死人不是丧尸",
@@ -177,14 +217,6 @@
       "onboard_time": 1683388169,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 519169,
-      "num": 502710,
-      "word": "原来只打中文也能看出国籍",
-      "onboard_time": 1683416663,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 514869,
@@ -217,14 +249,6 @@
       "onboard_time": 1683370471,
       "rank": 25,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 486878,
-      "num": 486878,
-      "word": "NBA裁判",
-      "onboard_time": 1683426386,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 483416,
@@ -283,11 +307,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 381474,
-      "num": 381474,
-      "word": "罗云熙白鹿的脸重叠是王鹤棣",
-      "onboard_time": 1683426447,
-      "rank": 25,
+      "raw_hot": 357197,
+      "num": 288756,
+      "word": "为什么男生买东西要先问女生要不要",
+      "onboard_time": 1683428006,
+      "rank": 21,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 356258,
+      "num": 356258,
+      "word": "吴宣仪演技",
+      "onboard_time": 1683427826,
+      "rank": 15,
       "category": "影视"
     },
     {
@@ -355,7 +387,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 292491,
+      "raw_hot": 300380,
       "num": 291001,
       "word": "seventeen 内地签售会",
       "onboard_time": 1683425309,
@@ -371,8 +403,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261415,
-      "num": 261415,
+      "raw_hot": 277930,
+      "num": 277930,
+      "word": "中国人有自己的侃爷",
+      "onboard_time": 1683427407,
+      "rank": 34,
+      "category": "幽默,综艺"
+    },
+    {
+      "raw_hot": 274899,
+      "num": 274899,
       "word": "承重墙住户称干一辈子就弄这一套房",
       "onboard_time": 1683423388,
       "rank": 36,
@@ -385,6 +425,14 @@
       "onboard_time": 1683389609,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236185,
+      "num": 236185,
+      "word": "五月天 彩虹纸",
+      "onboard_time": 1683428428,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 235446,
@@ -401,6 +449,14 @@
       "onboard_time": 1683388469,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224382,
+      "num": 224382,
+      "word": "湖人罚球",
+      "onboard_time": 1683427166,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 222023,
@@ -420,7 +476,7 @@
     },
     {
       "raw_hot": 218889,
-      "num": 218889,
+      "num": 228626,
       "word": "骨折300多次的瓷娃娃收获美满爱情",
       "onboard_time": 1683414919,
       "rank": 44,
@@ -451,20 +507,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 194132,
-      "num": 194132,
-      "word": "湖人罚球",
-      "onboard_time": 1683427166,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 190725,
-      "num": 190725,
-      "word": "中国人有自己的侃爷",
-      "onboard_time": 1683427407,
-      "rank": 34,
-      "category": "幽默,综艺"
+      "raw_hot": 207637,
+      "num": 207637,
+      "word": "催眠蚊子神曲",
+      "onboard_time": 1683428368,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 188792,
@@ -529,6 +577,14 @@
       "onboard_time": 1683418524,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166590,
+      "num": 166590,
+      "word": "还没入职就让我先把离职签了",
+      "onboard_time": 1683429026,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 165616,
@@ -603,6 +659,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 150445,
+      "num": 150445,
+      "word": "员工不转朋友圈被罚1万且开除",
+      "onboard_time": 1683427108,
+      "rank": 43,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 143282,
       "num": 102702,
       "word": "IU认出了10年没见的粉丝",
@@ -651,20 +715,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130408,
+      "num": 130408,
+      "word": "维金斯隔扣",
+      "onboard_time": 1683428006,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128509,
       "num": 128509,
       "word": "辞职后靠摆摊月入五万",
       "onboard_time": 1683372571,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125383,
-      "num": 125383,
-      "word": "员工不转朋友圈被罚1万且开除",
-      "onboard_time": 1683427108,
-      "rank": 43,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 114820,
@@ -697,6 +761,14 @@
       "onboard_time": 1683389070,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107523,
+      "num": 252837,
+      "word": "你和妈妈有时间差吗",
+      "onboard_time": 1683428067,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106697,
@@ -740,7 +812,7 @@
     },
     {
       "raw_hot": 99608,
-      "num": 104627,
+      "num": 129339,
       "word": "想买榴莲的有福了",
       "onboard_time": 1683415880,
       "rank": 48,
@@ -820,7 +892,7 @@
     },
     {
       "raw_hot": 63320,
-      "num": 965656,
+      "num": 982008,
       "word": "当千里江山图遇上锦绣江苏",
       "onboard_time": 1683379230,
       "rank": 2,
@@ -836,7 +908,7 @@
     },
     {
       "raw_hot": 51061,
-      "num": 101337,
+      "num": 125147,
       "word": "Cat选手夏天见",
       "onboard_time": 1683417082,
       "rank": 49,
