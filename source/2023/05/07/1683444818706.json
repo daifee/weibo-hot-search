@@ -1,0 +1,410 @@
+{
+  "runTime": 1683444818706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4791962,
+        "num": 4791962,
+        "word": "肖战庄达菲 徐克电影",
+        "onboard_time": 1683443068,
+        "rank": 0,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 1649807,
+        "num": 1649807,
+        "word": "王思佳 假包",
+        "onboard_time": 1683442588,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5993,
+        "num": 1417562,
+        "word": "天舟六号近日发射",
+        "onboard_time": 1683444750,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392932,
+        "num": 1392932,
+        "word": "赵丽颖玉兔公主",
+        "onboard_time": 1683440847,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1129857,
+        "num": 1129857,
+        "word": "事业单位",
+        "onboard_time": 1683418462,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1001075,
+        "num": 1001075,
+        "word": "娜扎cos貂蝉好美",
+        "onboard_time": 1683442466,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 646327,
+        "num": 646327,
+        "word": "韩国人有自己的抗日神剧",
+        "onboard_time": 1683438689,
+        "rank": 6,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 333840,
+        "num": 333840,
+        "word": "不考虑cp本身最喜欢的cp名",
+        "onboard_time": 1683440909,
+        "rank": 7,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 333411,
+        "num": 333411,
+        "word": "男子在淄博吃完烧烤直接买房定居",
+        "onboard_time": 1683422425,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 227262,
+        "num": 331198,
+        "word": "原来只打中文也能看出国籍",
+        "onboard_time": 1683416663,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2065830,
+        "num": 317410,
+        "word": "手术室里开黄腔",
+        "onboard_time": 1683431967,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1241348,
+        "num": 309620,
+        "word": "刘昊然回应抠完脚闻手",
+        "onboard_time": 1683436829,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44726,
+        "num": 304199,
+        "word": "天舟六号船箭垂直转运进发射区",
+        "onboard_time": 1683432928,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600244,
+        "num": 298780,
+        "word": "中国人有自己的权志龙",
+        "onboard_time": 1683441808,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 551306,
+        "num": 287472,
+        "word": "射雕英雄传侠之大者官宣海报",
+        "onboard_time": 1683443490,
+        "rank": 14,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 540832,
+        "num": 284039,
+        "word": "射雕英雄传侠之大者",
+        "onboard_time": 1683443729,
+        "rank": 15,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 514972,
+        "num": 270358,
+        "word": "一些现代人开始断亲了",
+        "onboard_time": 1683443068,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 507296,
+        "num": 266593,
+        "word": "美依礼芽2015年到底有多火",
+        "onboard_time": 1683439409,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259809,
+        "num": 259809,
+        "word": "知情人称挖呀挖黄老师无教师证",
+        "onboard_time": 1683388528,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255968,
+        "num": 255968,
+        "word": "巴厘岛命案警方排除第三人盗窃行凶可能",
+        "onboard_time": 1683394281,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404677,
+        "num": 255077,
+        "word": "射雕英雄传",
+        "onboard_time": 1683443548,
+        "rank": 20,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 363572,
+        "num": 252163,
+        "word": "长月烬明玥烬情苏番外",
+        "onboard_time": 1683438988,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 359173,
+        "num": 249666,
+        "word": "巴厘岛女性死者胃部有大量液体",
+        "onboard_time": 1683361527,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357886,
+        "num": 246955,
+        "word": "网友自称曾霸凌刘亦菲",
+        "onboard_time": 1683420684,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345523,
+        "num": 243931,
+        "word": "李维嘉现身录制萌探3",
+        "onboard_time": 1683443969,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336710,
+        "num": 241211,
+        "word": "品如的苹果手机怎么是翻盖的",
+        "onboard_time": 1683425187,
+        "rank": 25,
+        "category": "影视,幽默"
+      },
+      {
+        "raw_hot": 278555,
+        "num": 240753,
+        "word": "男子停车遭开门杀后被女子连撞3次",
+        "onboard_time": 1683442710,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238571,
+        "num": 238571,
+        "word": "福建4名基层干部查看水情落水失联",
+        "onboard_time": 1683443068,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186133,
+        "num": 186133,
+        "word": "黄老师唱的挖呀挖或涉嫌侵权",
+        "onboard_time": 1683381752,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185152,
+        "num": 185152,
+        "word": "存款6万的我裸辞了",
+        "onboard_time": 1683439049,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296994,
+        "num": 182482,
+        "word": "爸妈把群聊当私聊被我看到了",
+        "onboard_time": 1683434488,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 261431,
+        "num": 178608,
+        "word": "关晓彤玩游戏不敢提鹿晗",
+        "onboard_time": 1683428666,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246764,
+        "num": 177471,
+        "word": "宁毅到现代还是个赘婿",
+        "onboard_time": 1683444391,
+        "rank": 32,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 235713,
+        "num": 172804,
+        "word": "吴倩状态 刚回国的赵默笙",
+        "onboard_time": 1683382595,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208770,
+        "num": 169771,
+        "word": "你能接受明星私下形象邋遢吗",
+        "onboard_time": 1683440489,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208302,
+        "num": 165266,
+        "word": "icon宝蓝录制奔跑吧",
+        "onboard_time": 1683434309,
+        "rank": 35,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 165194,
+        "num": 165194,
+        "word": "动画还原巴厘岛命案细节",
+        "onboard_time": 1683443792,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148319,
+        "num": 148319,
+        "word": "曾经很火却消失了的东西",
+        "onboard_time": 1683440127,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133862,
+        "num": 133862,
+        "word": "为什么男生买东西要先问女生要不要",
+        "onboard_time": 1683428006,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 121674,
+        "num": 121674,
+        "word": "遇害女大学生父亲回应罪犯被执行死刑",
+        "onboard_time": 1683437249,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183206,
+        "num": 121613,
+        "word": "周深都有时间秒回",
+        "onboard_time": 1683436527,
+        "rank": 40,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 180536,
+        "num": 121441,
+        "word": "奔跑吧一起运动吧",
+        "onboard_time": 1683431607,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177434,
+        "num": 121346,
+        "word": "毛晓彤居然是88年的",
+        "onboard_time": 1683437369,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170074,
+        "num": 121120,
+        "word": "今天奔跑吧好多人啊",
+        "onboard_time": 1683444449,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148247,
+        "num": 120921,
+        "word": "董洁43岁身材",
+        "onboard_time": 1683416420,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169819,
+        "num": 120821,
+        "word": "奔跑吧路透",
+        "onboard_time": 1683442826,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140425,
+        "num": 120676,
+        "word": "庞博到底是谁",
+        "onboard_time": 1683388169,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101586,
+        "num": 120558,
+        "word": "张大仙瘦了",
+        "onboard_time": 1683438749,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74955,
+        "num": 120423,
+        "word": "南京女大学生被害案罪犯洪峤被执行死刑",
+        "onboard_time": 1683429566,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30277,
+        "num": 120216,
+        "word": "Cat选手夏天见",
+        "onboard_time": 1683417082,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开二十届中央财经委员会第一次会议#"
+    }
+  }
+}

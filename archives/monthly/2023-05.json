@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683443670227,
+  "endTime": 1683444818706,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -33,6 +33,14 @@
       "onboard_time": 1682897784,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4791962,
+      "num": 4791962,
+      "word": "肖战庄达菲 徐克电影",
+      "onboard_time": 1683443068,
+      "rank": 0,
+      "category": "影视"
     },
     {
       "raw_hot": 3760600,
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 1829079,
-      "num": 266678,
+      "num": 309620,
       "word": "刘昊然回应抠完脚闻手",
       "onboard_time": 1683436829,
       "rank": 11,
@@ -715,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1732304,
-      "num": 1732304,
-      "word": "肖战庄达菲 徐克电影",
-      "onboard_time": 1683443068,
-      "rank": 0,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1708893,
       "num": 1708893,
       "word": "热带鱼 把水煮开了以后再养",
@@ -793,6 +793,14 @@
       "onboard_time": 1683244710,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1649807,
+      "num": 1649807,
+      "word": "王思佳 假包",
+      "onboard_time": 1683442588,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1645310,
@@ -1723,14 +1731,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1043322,
-      "num": 1043322,
-      "word": "王思佳 假包",
-      "onboard_time": 1683442588,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1042970,
       "num": 1042970,
       "word": "高铁上的一声姐姐花了我35元",
@@ -1809,6 +1809,14 @@
       "onboard_time": 1683342568,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1001075,
+      "num": 1001075,
+      "word": "娜扎cos貂蝉好美",
+      "onboard_time": 1683442466,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 999294,
@@ -2979,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 600244,
+      "num": 561368,
+      "word": "中国人有自己的权志龙",
+      "onboard_time": 1683441808,
+      "rank": 7,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 596398,
       "num": 596398,
       "word": "周深都有时间秒回",
@@ -3203,14 +3219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 561368,
-      "num": 561368,
-      "word": "中国人有自己的权志龙",
-      "onboard_time": 1683441808,
-      "rank": 7,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 560569,
       "num": 560569,
       "word": "中国游客透露巴厘岛命案细节",
@@ -3297,6 +3305,14 @@
       "onboard_time": 1682919149,
       "rank": 43,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 551306,
+      "num": 287472,
+      "word": "射雕英雄传侠之大者官宣海报",
+      "onboard_time": 1683443490,
+      "rank": 36,
+      "category": "影视"
     },
     {
       "raw_hot": 551249,
@@ -3409,6 +3425,14 @@
       "onboard_time": 1683109350,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 540832,
+      "num": 284039,
+      "word": "射雕英雄传侠之大者",
+      "onboard_time": 1683443729,
+      "rank": 15,
+      "category": "影视"
     },
     {
       "raw_hot": 539760,
@@ -3593,6 +3617,14 @@
       "onboard_time": 1683375089,
       "rank": 17,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 514972,
+      "num": 270358,
+      "word": "一些现代人开始断亲了",
+      "onboard_time": 1683443068,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 511979,
@@ -4081,14 +4113,6 @@
       "onboard_time": 1683380193,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 454430,
-      "num": 264338,
-      "word": "娜扎cos貂蝉好美",
-      "onboard_time": 1683442466,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 453538,
@@ -4641,6 +4665,14 @@
       "onboard_time": 1683041316,
       "rank": 20,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 404677,
+      "num": 255077,
+      "word": "射雕英雄传",
+      "onboard_time": 1683443548,
+      "rank": 34,
+      "category": "影视"
     },
     {
       "raw_hot": 404402,
@@ -5483,6 +5515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345523,
+      "num": 243931,
+      "word": "李维嘉现身录制萌探3",
+      "onboard_time": 1683443969,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344954,
       "num": 344954,
       "word": "时代少年团演唱会彩带有玉米粒",
@@ -5697,6 +5737,14 @@
       "onboard_time": 1682990908,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333840,
+      "num": 333840,
+      "word": "不考虑cp本身最喜欢的cp名",
+      "onboard_time": 1683440909,
+      "rank": 48,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 333776,
@@ -6851,6 +6899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 278555,
+      "num": 240753,
+      "word": "男子停车遭开门杀后被女子连撞3次",
+      "onboard_time": 1683442710,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278432,
       "num": 278432,
       "word": "白术",
@@ -7595,14 +7651,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 250838,
-      "num": 250838,
-      "word": "不考虑cp本身最喜欢的cp名",
-      "onboard_time": 1683440909,
-      "rank": 48,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 250512,
       "num": 174676,
       "word": "你能接受明星私下形象邋遢吗",
@@ -7737,6 +7785,14 @@
       "onboard_time": 1683022887,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 246764,
+      "num": 177471,
+      "word": "宁毅到现代还是个赘婿",
+      "onboard_time": 1683444391,
+      "rank": 32,
+      "category": "影视"
     },
     {
       "raw_hot": 246668,
@@ -8073,6 +8129,14 @@
       "onboard_time": 1683022346,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238571,
+      "num": 238571,
+      "word": "福建4名基层干部查看水情落水失联",
+      "onboard_time": 1683443068,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237944,
@@ -8907,14 +8971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218843,
-      "num": 162193,
-      "word": "一些现代人开始断亲了",
-      "onboard_time": 1683443068,
-      "rank": 31,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 218586,
       "num": 218586,
       "word": "青年节快乐",
@@ -9707,14 +9763,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 201892,
-      "num": 161954,
-      "word": "男子停车遭开门杀后被女子连撞3次",
-      "onboard_time": 1683442710,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201723,
       "num": 201723,
       "word": "杭州西湖水域不允许擅自下水",
@@ -10107,14 +10155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193654,
-      "num": 161889,
-      "word": "射雕英雄传",
-      "onboard_time": 1683443548,
-      "rank": 34,
-      "category": "影视"
-    },
-    {
       "raw_hot": 193641,
       "num": 193641,
       "word": "蔡徐坤和猫咪对视",
@@ -10267,14 +10307,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 190107,
-      "num": 161691,
-      "word": "射雕英雄传侠之大者官宣海报",
-      "onboard_time": 1683443490,
-      "rank": 36,
-      "category": "影视"
-    },
-    {
       "raw_hot": 189944,
       "num": 189944,
       "word": "葬月组相约贝加尔湖钓鲑鱼",
@@ -10425,14 +10457,6 @@
       "onboard_time": 1683177869,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 186834,
-      "num": 161805,
-      "word": "福建4名基层干部查看水情落水失联",
-      "onboard_time": 1683443068,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186771,
@@ -11283,6 +11307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170074,
+      "num": 121120,
+      "word": "今天奔跑吧好多人啊",
+      "onboard_time": 1683444449,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169910,
       "num": 169910,
       "word": "焦虑的人都有一个共同特征",
@@ -11489,6 +11521,14 @@
       "onboard_time": 1683387869,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165194,
+      "num": 165194,
+      "word": "动画还原巴厘岛命案细节",
+      "onboard_time": 1683443792,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164991,
@@ -14681,6 +14721,14 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 5993,
+      "num": 1417562,
+      "word": "天舟六号近日发射",
+      "onboard_time": 1683444750,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
