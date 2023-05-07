@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683455601926,
+  "endTime": 1683457995189,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3156156,
-      "num": 816876,
+      "num": 832965,
       "word": "娜么正瀚",
       "onboard_time": 1683448291,
       "rank": 40,
@@ -48,6 +48,14 @@
       "word": "ZARA被曝试衣间镜子比帘子长一截",
       "onboard_time": 1683450629,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2241847,
+      "num": 851733,
+      "word": "14岁女孩 结婚",
+      "onboard_time": 1683455852,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1554909,
+      "num": 1554909,
+      "word": "25岁的吴倩和23岁的吴世勋",
+      "onboard_time": 1683452668,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1485190,
       "num": 1485190,
       "word": "黄蓉选角",
@@ -129,6 +145,14 @@
       "onboard_time": 1683390864,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1401574,
+      "num": 838580,
+      "word": "肖战的女主运",
+      "onboard_time": 1683456031,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1329287,
@@ -179,19 +203,19 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 1067339,
-      "num": 1067339,
-      "word": "25岁的吴倩和23岁的吴世勋",
-      "onboard_time": 1683452668,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1020077,
       "num": 102047,
       "word": "婆婆直接把38.8万彩礼转我了",
       "onboard_time": 1683383253,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 995081,
+      "num": 995081,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1683455793,
+      "rank": 7,
       "category": "情感"
     },
     {
@@ -259,12 +283,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 852637,
+      "num": 852637,
+      "word": "男子1天吃10顿暴瘦110斤",
+      "onboard_time": 1683455253,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 837605,
       "num": 837605,
       "word": "刘美含落选浪姐",
       "onboard_time": 1683368851,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 813923,
+      "num": 813923,
+      "word": "姚晨说庄达菲出息了",
+      "onboard_time": 1683456031,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 764182,
@@ -292,7 +332,7 @@
     },
     {
       "raw_hot": 733074,
-      "num": 499628,
+      "num": 608915,
       "word": "爸妈把群聊当私聊被我看到了",
       "onboard_time": 1683434488,
       "rank": 30,
@@ -483,6 +523,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 496553,
+      "num": 496553,
+      "word": "黄晓明见到Amber第一句话提的宋茜",
+      "onboard_time": 1683456513,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483416,
       "num": 483416,
       "word": "迪丽热巴好白啊",
@@ -585,6 +633,14 @@
       "onboard_time": 1683431607,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375898,
+      "num": 375898,
+      "word": "内娱顶级剧抛脸",
+      "onboard_time": 1683455670,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 363458,
@@ -795,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299953,
+      "num": 299953,
+      "word": "男子火车上被陌生人持刀杀害",
+      "onboard_time": 1683457172,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298535,
       "num": 298535,
       "word": "萌探探探案晒团体合照",
@@ -833,6 +897,14 @@
       "onboard_time": 1683433589,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293788,
+      "num": 293788,
+      "word": "奔跑吧",
+      "onboard_time": 1683457110,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 293576,
@@ -905,6 +977,14 @@
       "onboard_time": 1683429026,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 257401,
+      "num": 257401,
+      "word": "住户竟在小区花园放生蟑螂",
+      "onboard_time": 1683454709,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250512,
@@ -1003,6 +1083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222988,
+      "num": 222988,
+      "word": "降价7折卖房昆山两项目被政府处罚",
+      "onboard_time": 1683457353,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222064,
       "num": 183371,
       "word": "Lisa拥有7项吉尼斯纪录",
@@ -1035,12 +1123,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218714,
+      "num": 218714,
+      "word": "RNG队员参加Letme婚礼",
+      "onboard_time": 1683454593,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 218376,
+      "num": 218376,
+      "word": "女子遭掌掴还手被认定互殴",
+      "onboard_time": 1683456331,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216601,
       "num": 188910,
       "word": "曾经很火却消失了的东西",
       "onboard_time": 1683440127,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216378,
+      "num": 216378,
+      "word": "银河护卫队",
+      "onboard_time": 1683457353,
+      "rank": 35,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 213795,
+      "num": 213795,
+      "word": "李晨晒九尾合影",
+      "onboard_time": 1683456931,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 213258,
@@ -1057,6 +1177,14 @@
       "onboard_time": 1683451770,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210527,
+      "num": 210527,
+      "word": "长月烬明裳心悦凛番外",
+      "onboard_time": 1683455370,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 210240,
@@ -1131,14 +1259,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 189418,
-      "num": 189418,
-      "word": "男子1天吃10顿暴瘦110斤",
-      "onboard_time": 1683455253,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188792,
       "num": 152242,
       "word": "鬓边不是海棠红",
@@ -1171,28 +1291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185194,
-      "num": 185194,
-      "word": "长月烬明裳心悦凛番外",
-      "onboard_time": 1683455370,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 184190,
       "num": 184190,
       "word": "男子回应车撞入店瞬间抱紧女友",
       "onboard_time": 1683453392,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184153,
-      "num": 184153,
-      "word": "RNG队员参加Letme婚礼",
-      "onboard_time": 1683454593,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 183893,
@@ -1217,6 +1321,14 @@
       "onboard_time": 1683360150,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181096,
+      "num": 1866192,
+      "word": "全网最有爱心的挖呀挖呀挖",
+      "onboard_time": 1683453030,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180343,
@@ -1291,12 +1403,12 @@
       "category": "影视"
     },
     {
-      "raw_hot": 169615,
-      "num": 1866192,
-      "word": "全网最有爱心的挖呀挖呀挖",
-      "onboard_time": 1683453030,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 167164,
+      "num": 167164,
+      "word": "王鹤棣热出虚影",
+      "onboard_time": 1683456992,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 165616,
@@ -1313,14 +1425,6 @@
       "onboard_time": 1683387869,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 163972,
-      "num": 163972,
-      "word": "住户竟在小区花园放生蟑螂",
-      "onboard_time": 1683454709,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163627,
@@ -1473,6 +1577,14 @@
       "onboard_time": 1683420264,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138564,
+      "num": 1131843,
+      "word": "下班护士跪地救人20分钟膝盖淤青",
+      "onboard_time": 1683455971,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138480,

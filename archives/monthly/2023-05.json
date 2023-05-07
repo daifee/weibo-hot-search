@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683455601926,
+  "endTime": 1683457995189,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 3156156,
-      "num": 816876,
+      "num": 832965,
       "word": "娜么正瀚",
       "onboard_time": 1683448291,
       "rank": 40,
@@ -361,6 +361,14 @@
       "onboard_time": 1683245009,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2241847,
+      "num": 851733,
+      "word": "14岁女孩 结婚",
+      "onboard_time": 1683455852,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2179014,
@@ -963,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1554909,
+      "num": 1554909,
+      "word": "25岁的吴倩和23岁的吴世勋",
+      "onboard_time": 1683452668,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1539275,
       "num": 1539275,
       "word": "朱珠好美啊",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1683390864,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1401574,
+      "num": 838580,
+      "word": "肖战的女主运",
+      "onboard_time": 1683456031,
+      "rank": 11,
+      "category": "影视"
     },
     {
       "raw_hot": 1384869,
@@ -1707,14 +1731,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 1067339,
-      "num": 1067339,
-      "word": "25岁的吴倩和23岁的吴世勋",
-      "onboard_time": 1683452668,
-      "rank": 13,
-      "category": "影视"
-    },
-    {
       "raw_hot": 1066442,
       "num": 899683,
       "word": "姜思达下架史航事件播客",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1683188968,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 995081,
+      "num": 995081,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1683455793,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 986647,
@@ -2203,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 852637,
+      "num": 852637,
+      "word": "男子1天吃10顿暴瘦110斤",
+      "onboard_time": 1683455253,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 852555,
       "num": 852555,
       "word": "谢娜初舞台制作人是张杰",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1683214110,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 813923,
+      "num": 813923,
+      "word": "姚晨说庄达菲出息了",
+      "onboard_time": 1683456031,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 813766,
@@ -2540,7 +2580,7 @@
     },
     {
       "raw_hot": 733074,
-      "num": 499628,
+      "num": 608915,
       "word": "爸妈把群聊当私聊被我看到了",
       "onboard_time": 1683434488,
       "rank": 30,
@@ -3825,6 +3865,14 @@
       "onboard_time": 1683124471,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 496553,
+      "num": 496553,
+      "word": "黄晓明见到Amber第一句话提的宋茜",
+      "onboard_time": 1683456513,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 496237,
@@ -5201,6 +5249,14 @@
       "onboard_time": 1683181946,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375898,
+      "num": 375898,
+      "word": "内娱顶级剧抛脸",
+      "onboard_time": 1683455670,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 375682,
@@ -6603,6 +6659,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 299953,
+      "num": 299953,
+      "word": "男子火车上被陌生人持刀杀害",
+      "onboard_time": 1683457172,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 299118,
       "num": 299118,
       "word": "唐九洲说在淄博看到了武艺",
@@ -6745,6 +6809,14 @@
       "onboard_time": 1683125131,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 293788,
+      "num": 293788,
+      "word": "奔跑吧",
+      "onboard_time": 1683457110,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 293576,
@@ -7665,6 +7737,14 @@
       "onboard_time": 1683286408,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257401,
+      "num": 257401,
+      "word": "住户竟在小区花园放生蟑螂",
+      "onboard_time": 1683454709,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257057,
@@ -8987,6 +9067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222988,
+      "num": 222988,
+      "word": "降价7折卖房昆山两项目被政府处罚",
+      "onboard_time": 1683457353,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222908,
       "num": 222908,
       "word": "aespa回归",
@@ -9203,6 +9291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218714,
+      "num": 218714,
+      "word": "RNG队员参加Letme婚礼",
+      "onboard_time": 1683454593,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218586,
       "num": 218586,
       "word": "青年节快乐",
@@ -9217,6 +9313,14 @@
       "onboard_time": 1682926167,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 218376,
+      "num": 218376,
+      "word": "女子遭掌掴还手被认定互殴",
+      "onboard_time": 1683456331,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218291,
@@ -9451,6 +9555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213795,
+      "num": 213795,
+      "word": "李晨晒九尾合影",
+      "onboard_time": 1683456931,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213652,
       "num": 213652,
       "word": "郭艾伦缺席G4",
@@ -9585,6 +9697,14 @@
       "onboard_time": 1683451770,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210527,
+      "num": 210527,
+      "word": "长月烬明裳心悦凛番外",
+      "onboard_time": 1683455370,
+      "rank": 41,
+      "category": "影视"
     },
     {
       "raw_hot": 210423,
@@ -10611,14 +10731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189418,
-      "num": 189418,
-      "word": "男子1天吃10顿暴瘦110斤",
-      "onboard_time": 1683455253,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189263,
       "num": 189263,
       "word": "刘耀文演唱会银白发色饭拍",
@@ -10851,14 +10963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185194,
-      "num": 185194,
-      "word": "长月烬明裳心悦凛番外",
-      "onboard_time": 1683455370,
-      "rank": 41,
-      "category": "影视"
-    },
-    {
       "raw_hot": 185073,
       "num": 185073,
       "word": "小日子",
@@ -10873,14 +10977,6 @@
       "onboard_time": 1683453392,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184153,
-      "num": 184153,
-      "word": "RNG队员参加Letme婚礼",
-      "onboard_time": 1683454593,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 183799,
@@ -10977,6 +11073,14 @@
       "onboard_time": 1683339930,
       "rank": 45,
       "category": "影视"
+    },
+    {
+      "raw_hot": 181096,
+      "num": 1866192,
+      "word": "全网最有爱心的挖呀挖呀挖",
+      "onboard_time": 1683453030,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181090,
@@ -11659,14 +11763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169615,
-      "num": 1866192,
-      "word": "全网最有爱心的挖呀挖呀挖",
-      "onboard_time": 1683453030,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169206,
       "num": 169206,
       "word": "剧院魅影",
@@ -11787,6 +11883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167164,
+      "num": 167164,
+      "word": "王鹤棣热出虚影",
+      "onboard_time": 1683456992,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167114,
       "num": 167114,
       "word": "萌探探探案",
@@ -11889,14 +11993,6 @@
       "onboard_time": 1682867369,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 163972,
-      "num": 163972,
-      "word": "住户竟在小区花园放生蟑螂",
-      "onboard_time": 1683454709,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163859,
@@ -12905,6 +13001,14 @@
       "onboard_time": 1682897423,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138564,
+      "num": 1131843,
+      "word": "下班护士跪地救人20分钟膝盖淤青",
+      "onboard_time": 1683455971,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138480,
