@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683490628586,
+  "endTime": 1683491613332,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -15171,6 +15171,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 64276,
+      "num": 23250,
+      "word": "因挖呀挖爆火老师身陷6大传闻",
+      "onboard_time": 1683488592,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 64214,
       "num": 2270293,
       "word": "天舟六号近日发射",
@@ -15321,14 +15329,6 @@
       "onboard_time": 1682916449,
       "rank": 27,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 51330,
-      "num": 23250,
-      "word": "因挖呀挖爆火老师身陷6大传闻",
-      "onboard_time": 1683488592,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 51061,
@@ -15697,6 +15697,14 @@
       "onboard_time": 1683141673,
       "rank": 46,
       "category": "影视"
+    },
+    {
+      "raw_hot": 11913,
+      "num": 16374,
+      "word": "校方回应男生被老师丈夫刺伤",
+      "onboard_time": 1683491591,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

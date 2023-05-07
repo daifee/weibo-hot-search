@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683490628586,
+  "endTime": 1683491613332,
   "band_list": [
     {
       "raw_hot": 2270611,
@@ -435,20 +435,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64276,
+      "num": 23250,
+      "word": "因挖呀挖爆火老师身陷6大传闻",
+      "onboard_time": 1683488592,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 61274,
       "num": 61274,
       "word": "纽卡斯尔联vs阿森纳",
       "onboard_time": 1683479660,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51330,
-      "num": 23250,
-      "word": "因挖呀挖爆火老师身陷6大传闻",
-      "onboard_time": 1683488592,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 46070,
@@ -473,6 +473,14 @@
       "onboard_time": 1683487632,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11913,
+      "num": 16374,
+      "word": "校方回应男生被老师丈夫刺伤",
+      "onboard_time": 1683491591,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
