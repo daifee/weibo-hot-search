@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683476453649,
+  "endTime": 1683477331929,
   "band_list": [
     {
       "raw_hot": 2270611,
@@ -75,6 +75,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 553623,
+      "num": 475321,
+      "word": "周扬青",
+      "onboard_time": 1683470554,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 529993,
       "num": 529993,
       "word": "给内娱一点二次元震撼",
@@ -105,14 +113,6 @@
       "onboard_time": 1683467914,
       "rank": 13,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 389490,
-      "num": 389490,
-      "word": "周扬青",
-      "onboard_time": 1683470554,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 385213,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306693,
+      "num": 306693,
+      "word": "一个宿舍各过各的",
+      "onboard_time": 1683466831,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300524,
       "num": 300524,
       "word": "杭州不定价咖啡馆试营业首日亏3500元",
       "onboard_time": 1683468096,
       "rank": 19,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 286206,
-      "num": 286206,
-      "word": "一个宿舍各过各的",
-      "onboard_time": 1683466831,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 280578,
@@ -251,12 +251,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 164625,
-      "num": 164625,
+      "raw_hot": 175310,
+      "num": 175310,
       "word": "深圳大学",
       "onboard_time": 1683461370,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166923,
+      "num": 166923,
+      "word": "注视也是性骚扰的一种",
+      "onboard_time": 1683475650,
+      "rank": 48,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 164293,
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110907,
+      "num": 110907,
+      "word": "秋瓷炫的中文是谈恋爱练的",
+      "onboard_time": 1683475528,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108264,
       "num": 108264,
       "word": "音胖 跑路",
@@ -379,12 +395,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96701,
-      "num": 96701,
-      "word": "注视也是性骚扰的一种",
-      "onboard_time": 1683475650,
-      "rank": 48,
-      "category": "情感,社会新闻"
+      "raw_hot": 96802,
+      "num": 96802,
+      "word": "赵丽颖孙千学手势舞",
+      "onboard_time": 1683476366,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95982,
+      "num": 95982,
+      "word": "BLACKPINK成员的背影照",
+      "onboard_time": 1683477144,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88946,
+      "num": 88946,
+      "word": "再也不用下床关灯了",
+      "onboard_time": 1683476068,
+      "rank": 49,
+      "category": "幽默,科技"
     },
     {
       "raw_hot": 84467,

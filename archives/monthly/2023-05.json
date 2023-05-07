@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683476453649,
+  "endTime": 1683477331929,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -3555,6 +3555,14 @@
       "category": "幽默,社会新闻"
     },
     {
+      "raw_hot": 553623,
+      "num": 475321,
+      "word": "周扬青",
+      "onboard_time": 1683470554,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551306,
       "num": 287472,
       "word": "射雕英雄传侠之大者官宣海报",
@@ -5249,14 +5257,6 @@
       "onboard_time": 1683182609,
       "rank": 13,
       "category": "社会新闻,社会新闻"
-    },
-    {
-      "raw_hot": 389490,
-      "num": 389490,
-      "word": "周扬青",
-      "onboard_time": 1683470554,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 389386,
@@ -12307,6 +12307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166923,
+      "num": 166923,
+      "word": "注视也是性骚扰的一种",
+      "onboard_time": 1683475650,
+      "rank": 48,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 166775,
       "num": 175639,
       "word": "无畏切C的大刀有40米长",
@@ -14395,6 +14403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110907,
+      "num": 110907,
+      "word": "秋瓷炫的中文是谈恋爱练的",
+      "onboard_time": 1683475528,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110878,
       "num": 184469,
       "word": "00后淘宝卖扳手收入300万",
@@ -14659,12 +14675,12 @@
       "category": "旅游,情感"
     },
     {
-      "raw_hot": 96701,
-      "num": 96701,
-      "word": "注视也是性骚扰的一种",
-      "onboard_time": 1683475650,
-      "rank": 48,
-      "category": "情感,社会新闻"
+      "raw_hot": 96802,
+      "num": 96802,
+      "word": "赵丽颖孙千学手势舞",
+      "onboard_time": 1683476366,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 96606,
@@ -14681,6 +14697,14 @@
       "onboard_time": 1683199888,
       "rank": 48,
       "category": "影视"
+    },
+    {
+      "raw_hot": 95982,
+      "num": 95982,
+      "word": "BLACKPINK成员的背影照",
+      "onboard_time": 1683477144,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95952,
@@ -14817,6 +14841,14 @@
       "onboard_time": 1682957965,
       "rank": 47,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 88946,
+      "num": 88946,
+      "word": "再也不用下床关灯了",
+      "onboard_time": 1683476068,
+      "rank": 49,
+      "category": "幽默,科技"
     },
     {
       "raw_hot": 88882,
