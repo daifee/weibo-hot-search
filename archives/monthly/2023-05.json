@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683447553389,
+  "endTime": 1683448418715,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3217331,
-      "num": 679161,
+      "num": 724768,
       "word": "手术室里开黄腔",
       "onboard_time": 1683431967,
       "rank": 10,
@@ -979,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1485190,
+      "num": 1485190,
+      "word": "黄蓉选角",
+      "onboard_time": 1683446491,
+      "rank": 7,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1481804,
       "num": 1481804,
       "word": "男朋友28了还是离不开安抚巾",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1683034361,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1427117,
+      "num": 1427117,
+      "word": "庄达菲古装",
+      "onboard_time": 1683447869,
+      "rank": 4,
+      "category": "影视"
     },
     {
       "raw_hot": 1416556,
@@ -1891,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 958020,
+      "num": 958020,
+      "word": "一些现代人开始断亲了",
+      "onboard_time": 1683443068,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 957254,
       "num": 957254,
       "word": "厦门机场",
@@ -1921,14 +1945,6 @@
       "onboard_time": 1682925688,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 940815,
-      "num": 940815,
-      "word": "一些现代人开始断亲了",
-      "onboard_time": 1683443068,
-      "rank": 31,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 940002,
@@ -2385,14 +2401,6 @@
       "onboard_time": 1683156984,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 758763,
-      "num": 758763,
-      "word": "黄蓉选角",
-      "onboard_time": 1683446491,
-      "rank": 7,
-      "category": "影视"
     },
     {
       "raw_hot": 758366,
@@ -3220,7 +3228,7 @@
     },
     {
       "raw_hot": 566027,
-      "num": 211487,
+      "num": 349893,
       "word": "爸妈把群聊当私聊被我看到了",
       "onboard_time": 1683434488,
       "rank": 30,
@@ -5531,6 +5539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347172,
+      "num": 371738,
+      "word": "动画还原巴厘岛命案细节",
+      "onboard_time": 1683443792,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346814,
+      "num": 346814,
+      "word": "EXO时期鹿晗",
+      "onboard_time": 1683445348,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346703,
       "num": 346703,
       "word": "李维嘉现身录制萌探3",
@@ -5569,14 +5593,6 @@
       "onboard_time": 1683420146,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343962,
-      "num": 343962,
-      "word": "EXO时期鹿晗",
-      "onboard_time": 1683445348,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 343420,
@@ -5780,7 +5796,7 @@
     },
     {
       "raw_hot": 333840,
-      "num": 724807,
+      "num": 769109,
       "word": "不考虑cp本身最喜欢的cp名",
       "onboard_time": 1683440909,
       "rank": 48,
@@ -6387,6 +6403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305351,
+      "num": 298755,
+      "word": "今天奔跑吧好多人啊",
+      "onboard_time": 1683444449,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304221,
       "num": 304221,
       "word": "性格很单纯的人怎么在社会上生存",
@@ -6488,14 +6512,6 @@
       "word": "杨和苏",
       "onboard_time": 1683374968,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 297634,
-      "num": 297634,
-      "word": "今天奔跑吧好多人啊",
-      "onboard_time": 1683444449,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -6777,14 +6793,6 @@
       "onboard_time": 1683262652,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286912,
-      "num": 371738,
-      "word": "动画还原巴厘岛命案细节",
-      "onboard_time": 1683443792,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286173,
@@ -7299,6 +7307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 264541,
+      "num": 205007,
+      "word": "徐怀钰唱功",
+      "onboard_time": 1683446312,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263757,
       "num": 263757,
       "word": "杨鸣 战术",
@@ -7547,6 +7563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254600,
+      "num": 204195,
+      "word": "奔跑吧全员晒团队合照",
+      "onboard_time": 1683447092,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254485,
       "num": 254485,
       "word": "刘昱晗林志颖仲天骐出场对比",
@@ -7691,14 +7715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 251147,
-      "num": 181811,
-      "word": "徐怀钰唱功",
-      "onboard_time": 1683446312,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251015,
       "num": 216173,
       "word": "王鹤棣崩溃哭戏动图",
@@ -7753,6 +7769,14 @@
       "onboard_time": 1683174758,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 248878,
+      "num": 172432,
+      "word": "Lisa再破吉尼斯世界纪录",
+      "onboard_time": 1683447991,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 248816,
@@ -8188,7 +8212,7 @@
     },
     {
       "raw_hot": 238571,
-      "num": 238571,
+      "num": 299307,
       "word": "福建4名基层干部查看水情落水失联",
       "onboard_time": 1683443068,
       "rank": 35,
@@ -8681,14 +8705,6 @@
       "onboard_time": 1683030209,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 226696,
-      "num": 178119,
-      "word": "奔跑吧全员晒团队合照",
-      "onboard_time": 1683447092,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 226533,
@@ -9267,6 +9283,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 214812,
+      "num": 144618,
+      "word": "娜么正瀚",
+      "onboard_time": 1683448291,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214685,
       "num": 214685,
       "word": "范丞丞熟人云路演",
@@ -9569,6 +9593,14 @@
       "onboard_time": 1682998108,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207140,
+      "num": 132129,
+      "word": "周深说我们队真的差大家的助力",
+      "onboard_time": 1683447331,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 206948,
@@ -11075,6 +11107,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 176381,
+      "num": 176381,
+      "word": "原来小熊猫也是顶流",
+      "onboard_time": 1683444150,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176148,
       "num": 176148,
       "word": "承欢记组讯",
@@ -11249,14 +11289,6 @@
       "onboard_time": 1683178529,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173304,
-      "num": 107291,
-      "word": "周深说我们队真的差大家的助力",
-      "onboard_time": 1683447331,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 173094,
@@ -11793,6 +11825,14 @@
       "onboard_time": 1683368733,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160772,
+      "num": 160772,
+      "word": "温州一网红奶茶杯身印方言粗话",
+      "onboard_time": 1683446790,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160723,
@@ -12353,14 +12393,6 @@
       "onboard_time": 1682947230,
       "rank": 47,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 148862,
-      "num": 148862,
-      "word": "原来小熊猫也是顶流",
-      "onboard_time": 1683444150,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 148578,
@@ -13563,6 +13595,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 113084,
+      "num": 113084,
+      "word": "放在商场没人玩的东西遇到大学生",
+      "onboard_time": 1683448351,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112794,
       "num": 112794,
       "word": "LGD急什么",
@@ -13697,14 +13737,6 @@
       "onboard_time": 1683358348,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107057,
-      "num": 107057,
-      "word": "温州一网红奶茶杯身印方言粗话",
-      "onboard_time": 1683446790,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106242,
