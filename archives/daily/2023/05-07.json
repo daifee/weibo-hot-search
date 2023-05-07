@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683454636775,
+  "endTime": 1683455601926,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3217331,
-      "num": 724768,
+      "num": 747569,
       "word": "手术室里开黄腔",
       "onboard_time": 1683431967,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3156156,
-      "num": 662841,
+      "num": 816876,
       "word": "娜么正瀚",
       "onboard_time": 1683448291,
       "rank": 40,
@@ -35,16 +35,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2279407,
-      "num": 2279407,
+      "raw_hot": 2591644,
+      "num": 2591644,
       "word": "高铁上被掌掴女孩坚决不和解",
       "onboard_time": 1683451410,
       "rank": 18,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2245782,
-      "num": 2245782,
+      "raw_hot": 2269037,
+      "num": 2269037,
       "word": "ZARA被曝试衣间镜子比帘子长一截",
       "onboard_time": 1683450629,
       "rank": 45,
@@ -179,6 +179,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1067339,
+      "num": 1067339,
+      "word": "25岁的吴倩和23岁的吴世勋",
+      "onboard_time": 1683452668,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1020077,
       "num": 102047,
       "word": "婆婆直接把38.8万彩礼转我了",
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 733074,
-      "num": 479416,
+      "num": 499628,
       "word": "爸妈把群聊当私聊被我看到了",
       "onboard_time": 1683434488,
       "rank": 30,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638365,
+      "num": 638365,
+      "word": "刘诗诗 浙江",
+      "onboard_time": 1683453751,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 632529,
       "num": 516926,
       "word": "庄达菲资源",
@@ -337,14 +353,6 @@
       "onboard_time": 1683369452,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 607813,
-      "num": 607813,
-      "word": "25岁的吴倩和23岁的吴世勋",
-      "onboard_time": 1683452668,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 602431,
@@ -425,14 +433,6 @@
       "onboard_time": 1683448710,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542309,
-      "num": 542309,
-      "word": "刘诗诗 浙江",
-      "onboard_time": 1683453751,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 540832,
@@ -563,6 +563,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 387733,
+      "num": 387733,
+      "word": "伴郎团接亲暴力破门而入新娘发怒",
+      "onboard_time": 1683450570,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382076,
       "num": 382076,
       "word": "巴厘岛",
@@ -577,14 +585,6 @@
       "onboard_time": 1683431607,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 374699,
-      "num": 374699,
-      "word": "伴郎团接亲暴力破门而入新娘发怒",
-      "onboard_time": 1683450570,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363458,
@@ -755,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305144,
+      "num": 305144,
+      "word": "iKON集体离开YG后一起活动的原因",
+      "onboard_time": 1683453990,
+      "rank": 27,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 304221,
       "num": 304221,
       "word": "性格很单纯的人怎么在社会上生存",
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293576,
+      "num": 306373,
+      "word": "letme婚礼",
+      "onboard_time": 1683453211,
+      "rank": 24,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 292403,
       "num": 292403,
       "word": "承重墙住户称干一辈子就弄这一套房",
@@ -835,28 +851,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289625,
-      "num": 306373,
-      "word": "letme婚礼",
-      "onboard_time": 1683453211,
-      "rank": 24,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 288687,
       "num": 205284,
       "word": "谢娜嗑cp嗑到正主面前",
       "onboard_time": 1683388351,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284367,
-      "num": 284367,
-      "word": "iKON集体离开YG后一起活动的原因",
-      "onboard_time": 1683453990,
-      "rank": 27,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 281486,
@@ -913,6 +913,14 @@
       "onboard_time": 1683440489,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248840,
+      "num": 2362236,
+      "word": "建音乐厅的农民工受邀第1个去弹琴",
+      "onboard_time": 1683453030,
+      "rank": 1,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 246764,
@@ -1019,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219215,
-      "num": 2252640,
-      "word": "建音乐厅的农民工受邀第1个去弹琴",
-      "onboard_time": 1683453030,
-      "rank": 1,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 218889,
       "num": 228626,
       "word": "骨折300多次的瓷娃娃收获美满爱情",
@@ -1107,6 +1107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198793,
+      "num": 198129,
+      "word": "玥烬情苏",
+      "onboard_time": 1683454593,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 192606,
       "num": 192606,
       "word": "遇害女大学生父亲回应罪犯被执行死刑",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1683437011,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 189418,
+      "num": 189418,
+      "word": "男子1天吃10顿暴瘦110斤",
+      "onboard_time": 1683455253,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188792,
@@ -1155,6 +1171,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185194,
+      "num": 185194,
+      "word": "长月烬明裳心悦凛番外",
+      "onboard_time": 1683455370,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 184190,
+      "num": 184190,
+      "word": "男子回应车撞入店瞬间抱紧女友",
+      "onboard_time": 1683453392,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184153,
+      "num": 184153,
+      "word": "RNG队员参加Letme婚礼",
+      "onboard_time": 1683454593,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183893,
       "num": 183893,
       "word": "凯特王妃",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1683414798,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178471,
+      "num": 1589068,
+      "word": "江西抗洪紧急救援现场",
+      "onboard_time": 1683453271,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177867,
@@ -1243,6 +1291,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 169615,
+      "num": 1866192,
+      "word": "全网最有爱心的挖呀挖呀挖",
+      "onboard_time": 1683453030,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165616,
       "num": 165616,
       "word": "女子深夜加班回家吃榴莲被丈夫指责",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1683387869,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163972,
+      "num": 163972,
+      "word": "住户竟在小区花园放生蟑螂",
+      "onboard_time": 1683454709,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163627,
@@ -1323,12 +1387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158323,
+      "num": 158323,
+      "word": "亚洲人最爱打折",
+      "onboard_time": 1683455549,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156184,
       "num": 143862,
       "word": "长月烬明网飞也是40集",
       "onboard_time": 1683375631,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 155378,
+      "num": 155378,
+      "word": "极乐净土 二次元最炫民族风",
+      "onboard_time": 1683455430,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 155184,
@@ -1387,22 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141200,
-      "num": 1866192,
-      "word": "全网最有爱心的挖呀挖呀挖",
-      "onboard_time": 1683453030,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139690,
-      "num": 139690,
-      "word": "玥烬情苏",
-      "onboard_time": 1683454593,
-      "rank": 46,
-      "category": "影视"
-    },
-    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "张角痛哭道歉",
@@ -1424,14 +1488,6 @@
       "word": "餐厅回应养观赏鲨鱼产下3条崽",
       "onboard_time": 1683393142,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137058,
-      "num": 137058,
-      "word": "男子回应车撞入店瞬间抱紧女友",
-      "onboard_time": 1683453392,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1472,14 +1528,6 @@
       "word": "辞职后靠摆摊月入五万",
       "onboard_time": 1683372571,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121226,
-      "num": 1185451,
-      "word": "江西抗洪紧急救援现场",
-      "onboard_time": 1683453271,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1668,7 +1716,7 @@
     },
     {
       "raw_hot": 64214,
-      "num": 2248754,
+      "num": 2270293,
       "word": "天舟六号近日发射",
       "onboard_time": 1683444750,
       "rank": 2,
@@ -1681,14 +1729,6 @@
       "onboard_time": 1683379230,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60259,
-      "num": 135851,
-      "word": "RNG队员参加Letme婚礼",
-      "onboard_time": 1683454593,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 56786,

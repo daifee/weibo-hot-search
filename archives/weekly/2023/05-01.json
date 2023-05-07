@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683454636775,
+  "endTime": 1683455601926,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3217331,
-      "num": 724768,
+      "num": 747569,
       "word": "手术室里开黄腔",
       "onboard_time": 1683431967,
       "rank": 10,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 3156156,
-      "num": 662841,
+      "num": 816876,
       "word": "娜么正瀚",
       "onboard_time": 1683448291,
       "rank": 40,
@@ -227,6 +227,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 2591644,
+      "num": 2591644,
+      "word": "高铁上被掌掴女孩坚决不和解",
+      "onboard_time": 1683451410,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2514024,
       "num": 2514024,
       "word": "吴倩状态 刚回国的赵默笙",
@@ -307,20 +315,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2279407,
-      "num": 2279407,
-      "word": "高铁上被掌掴女孩坚决不和解",
-      "onboard_time": 1683451410,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2272770,
       "num": 1309236,
       "word": "活死人",
       "onboard_time": 1683375451,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2269037,
+      "num": 2269037,
+      "word": "ZARA被曝试衣间镜子比帘子长一截",
+      "onboard_time": 1683450629,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2267391,
@@ -353,14 +361,6 @@
       "onboard_time": 1683245009,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2245782,
-      "num": 2245782,
-      "word": "ZARA被曝试衣间镜子比帘子长一截",
-      "onboard_time": 1683450629,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2179014,
@@ -1707,6 +1707,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 1067339,
+      "num": 1067339,
+      "word": "25岁的吴倩和23岁的吴世勋",
+      "onboard_time": 1683452668,
+      "rank": 13,
+      "category": "影视"
+    },
+    {
       "raw_hot": 1066442,
       "num": 899683,
       "word": "姜思达下架史航事件播客",
@@ -2532,7 +2540,7 @@
     },
     {
       "raw_hot": 733074,
-      "num": 479416,
+      "num": 499628,
       "word": "爸妈把群聊当私聊被我看到了",
       "onboard_time": 1683434488,
       "rank": 30,
@@ -2867,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638365,
+      "num": 638365,
+      "word": "刘诗诗 浙江",
+      "onboard_time": 1683453751,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 637535,
       "num": 637535,
       "word": "爱奇艺腾讯推出陈晓套餐",
@@ -3025,14 +3041,6 @@
       "onboard_time": 1683201450,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 607813,
-      "num": 607813,
-      "word": "25岁的吴倩和23岁的吴世勋",
-      "onboard_time": 1683452668,
-      "rank": 13,
-      "category": "影视"
     },
     {
       "raw_hot": 606499,
@@ -3505,14 +3513,6 @@
       "onboard_time": 1683295830,
       "rank": 28,
       "category": "财经,艺人"
-    },
-    {
-      "raw_hot": 542309,
-      "num": 542309,
-      "word": "刘诗诗 浙江",
-      "onboard_time": 1683453751,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 541141,
@@ -5011,6 +5011,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 387733,
+      "num": 387733,
+      "word": "伴郎团接亲暴力破门而入新娘发怒",
+      "onboard_time": 1683450570,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386853,
       "num": 386853,
       "word": "性骚扰事件 不用考虑直接告",
@@ -5209,14 +5217,6 @@
       "onboard_time": 1683005726,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 374699,
-      "num": 374699,
-      "word": "伴郎团接亲暴力破门而入新娘发怒",
-      "onboard_time": 1683450570,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372679,
@@ -6515,6 +6515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305144,
+      "num": 305144,
+      "word": "iKON集体离开YG后一起活动的原因",
+      "onboard_time": 1683453990,
+      "rank": 27,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 304221,
       "num": 304221,
       "word": "性格很单纯的人怎么在社会上生存",
@@ -6739,6 +6747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293576,
+      "num": 306373,
+      "word": "letme婚礼",
+      "onboard_time": 1683453211,
+      "rank": 24,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 293423,
       "num": 268459,
       "word": "卢靖姗乘风4带宝宝上班",
@@ -6825,14 +6841,6 @@
       "onboard_time": 1682943390,
       "rank": 28,
       "category": "影视"
-    },
-    {
-      "raw_hot": 289625,
-      "num": 306373,
-      "word": "letme婚礼",
-      "onboard_time": 1683453211,
-      "rank": 24,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 289546,
@@ -6969,14 +6977,6 @@
       "onboard_time": 1683169168,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284367,
-      "num": 284367,
-      "word": "iKON集体离开YG后一起活动的原因",
-      "onboard_time": 1683453990,
-      "rank": 27,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 283771,
@@ -7913,6 +7913,14 @@
       "onboard_time": 1683174758,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 248840,
+      "num": 2362236,
+      "word": "建音乐厅的农民工受邀第1个去弹琴",
+      "onboard_time": 1683453030,
+      "rank": 1,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 248816,
@@ -9163,14 +9171,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 219215,
-      "num": 2252640,
-      "word": "建音乐厅的农民工受邀第1个去弹琴",
-      "onboard_time": 1683453030,
-      "rank": 1,
-      "category": "社会新闻,音乐"
-    },
-    {
       "raw_hot": 219043,
       "num": 219043,
       "word": "男子头疼自己在家针灸扎破心脏",
@@ -10147,6 +10147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198793,
+      "num": 198129,
+      "word": "玥烬情苏",
+      "onboard_time": 1683454593,
+      "rank": 46,
+      "category": "影视"
+    },
+    {
       "raw_hot": 198648,
       "num": 198648,
       "word": "楼明",
@@ -10603,6 +10611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189418,
+      "num": 189418,
+      "word": "男子1天吃10顿暴瘦110斤",
+      "onboard_time": 1683455253,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189263,
       "num": 189263,
       "word": "刘耀文演唱会银白发色饭拍",
@@ -10835,12 +10851,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185194,
+      "num": 185194,
+      "word": "长月烬明裳心悦凛番外",
+      "onboard_time": 1683455370,
+      "rank": 41,
+      "category": "影视"
+    },
+    {
       "raw_hot": 185073,
       "num": 185073,
       "word": "小日子",
       "onboard_time": 1683254488,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 184190,
+      "num": 184190,
+      "word": "男子回应车撞入店瞬间抱紧女友",
+      "onboard_time": 1683453392,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184153,
+      "num": 184153,
+      "word": "RNG队员参加Letme婚礼",
+      "onboard_time": 1683454593,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 183799,
@@ -11121,6 +11161,14 @@
       "onboard_time": 1683112227,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178471,
+      "num": 1589068,
+      "word": "江西抗洪紧急救援现场",
+      "onboard_time": 1683453271,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178324,
@@ -11611,6 +11659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169615,
+      "num": 1866192,
+      "word": "全网最有爱心的挖呀挖呀挖",
+      "onboard_time": 1683453030,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169206,
       "num": 169206,
       "word": "剧院魅影",
@@ -11833,6 +11889,14 @@
       "onboard_time": 1682867369,
       "rank": 26,
       "category": "影视"
+    },
+    {
+      "raw_hot": 163972,
+      "num": 163972,
+      "word": "住户竟在小区花园放生蟑螂",
+      "onboard_time": 1683454709,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163859,
@@ -12131,6 +12195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158323,
+      "num": 158323,
+      "word": "亚洲人最爱打折",
+      "onboard_time": 1683455549,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157914,
       "num": 150658,
       "word": "声生不息为时代少年团演唱会送花篮",
@@ -12249,6 +12321,14 @@
       "onboard_time": 1683011426,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155378,
+      "num": 155378,
+      "word": "极乐净土 二次元最炫民族风",
+      "onboard_time": 1683455430,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 155351,
@@ -12763,14 +12843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141200,
-      "num": 1866192,
-      "word": "全网最有爱心的挖呀挖呀挖",
-      "onboard_time": 1683453030,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140867,
       "num": 140867,
       "word": "伊能静回应和秦昊不互动",
@@ -12801,14 +12873,6 @@
       "onboard_time": 1683101849,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 139690,
-      "num": 139690,
-      "word": "玥烬情苏",
-      "onboard_time": 1683454593,
-      "rank": 46,
-      "category": "影视"
     },
     {
       "raw_hot": 139213,
@@ -12880,14 +12944,6 @@
       "word": "餐厅回应养观赏鲨鱼产下3条崽",
       "onboard_time": 1683393142,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137058,
-      "num": 137058,
-      "word": "男子回应车撞入店瞬间抱紧女友",
-      "onboard_time": 1683453392,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -13513,14 +13569,6 @@
       "onboard_time": 1683166769,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 121226,
-      "num": 1185451,
-      "word": "江西抗洪紧急救援现场",
-      "onboard_time": 1683453271,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121222,
@@ -14548,7 +14596,7 @@
     },
     {
       "raw_hot": 64214,
-      "num": 2248754,
+      "num": 2270293,
       "word": "天舟六号近日发射",
       "onboard_time": 1683444750,
       "rank": 2,
@@ -14585,14 +14633,6 @@
       "onboard_time": 1683149712,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60259,
-      "num": 135851,
-      "word": "RNG队员参加Letme婚礼",
-      "onboard_time": 1683454593,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 59983,
