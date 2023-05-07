@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683469997063,
+  "endTime": 1683472598418,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1798293,
+      "num": 1798293,
+      "word": "生父再次离婚女儿选择和继母生活",
+      "onboard_time": 1683465393,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1792374,
       "num": 1792374,
       "word": "王思佳 假包",
@@ -121,14 +129,6 @@
       "onboard_time": 1683461910,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1649425,
-      "num": 1649425,
-      "word": "生父再次离婚女儿选择和继母生活",
-      "onboard_time": 1683465393,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1609425,
@@ -251,6 +251,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1065476,
+      "num": 1065476,
+      "word": "儿时的发小因为生孩子去世了",
+      "onboard_time": 1683470734,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1045638,
       "num": 1045638,
       "word": "男子1天吃10顿暴瘦110斤",
@@ -313,6 +321,14 @@
       "onboard_time": 1683462272,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895424,
+      "num": 895424,
+      "word": "事业编和公务员哪个更难考",
+      "onboard_time": 1683467914,
+      "rank": 28,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 888532,
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641820,
+      "num": 641820,
+      "word": "杭州不定价咖啡馆试营业首日亏3500元",
+      "onboard_time": 1683468096,
+      "rank": 31,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 638365,
       "num": 638365,
       "word": "刘诗诗 浙江",
@@ -523,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578784,
-      "num": 578784,
-      "word": "事业编和公务员哪个更难考",
-      "onboard_time": 1683467914,
-      "rank": 28,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 576533,
       "num": 576533,
       "word": "内娱顶级剧抛脸",
@@ -585,6 +601,14 @@
       "onboard_time": 1683443729,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 536429,
+      "num": 536429,
+      "word": "DRG止步季后赛",
+      "onboard_time": 1683471631,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 534211,
@@ -683,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 464189,
+      "num": 464189,
+      "word": "白桃星座",
+      "onboard_time": 1683470495,
+      "rank": 19,
+      "category": "网红,情感"
+    },
+    {
       "raw_hot": 453905,
       "num": 453905,
       "word": "女子称在NIKE试衣间4分钟被偷拍3次",
@@ -697,14 +729,6 @@
       "onboard_time": 1683445890,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 452038,
-      "num": 452038,
-      "word": "杭州不定价咖啡馆试营业首日亏3500元",
-      "onboard_time": 1683468096,
-      "rank": 31,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 449101,
@@ -739,12 +763,28 @@
       "category": "影视"
     },
     {
+      "raw_hot": 418756,
+      "num": 418756,
+      "word": "Maybe复出",
+      "onboard_time": 1683471216,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 418358,
       "num": 418358,
       "word": "一个宿舍各过各的",
       "onboard_time": 1683466831,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 410371,
+      "num": 410371,
+      "word": "原来老公15岁就对我一见钟情了",
+      "onboard_time": 1683470134,
+      "rank": 22,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 406198,
@@ -769,6 +809,14 @@
       "onboard_time": 1683443548,
       "rank": 34,
       "category": "影视"
+    },
+    {
+      "raw_hot": 403934,
+      "num": 403934,
+      "word": "WB对战DRG",
+      "onboard_time": 1683459269,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 387733,
@@ -801,6 +849,14 @@
       "onboard_time": 1683431607,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370878,
+      "num": 370878,
+      "word": "周扬青复阳",
+      "onboard_time": 1683470554,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 363458,
@@ -1171,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 265099,
+      "num": 328378,
+      "word": "你多长时间换一次新手机",
+      "onboard_time": 1683468513,
+      "rank": 29,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 264541,
       "num": 230862,
       "word": "徐怀钰唱功",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1683454709,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256925,
+      "num": 256925,
+      "word": "WB晋级春季赛总决赛",
+      "onboard_time": 1683471096,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 250512,
@@ -1315,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234304,
+      "num": 234304,
+      "word": "KPL",
+      "onboard_time": 1683472295,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233207,
       "num": 233207,
       "word": "长月烬明裳心悦凛番外",
@@ -1353,6 +1433,14 @@
       "onboard_time": 1683388469,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 225329,
+      "num": 225329,
+      "word": "DRG季后赛全巅",
+      "onboard_time": 1683471155,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 222064,
@@ -1515,6 +1603,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 198566,
+      "num": 198566,
+      "word": "花楼bp",
+      "onboard_time": 1683471394,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192929,
       "num": 192929,
       "word": "萌探探探案",
@@ -1667,6 +1763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 171801,
+      "num": 171801,
+      "word": "梦岚",
+      "onboard_time": 1683472471,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171340,
       "num": 205871,
       "word": "张大仙瘦了",
@@ -1811,14 +1915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152479,
-      "num": 284886,
-      "word": "你多长时间换一次新手机",
-      "onboard_time": 1683468513,
-      "rank": 29,
-      "category": "科技,情感"
-    },
-    {
       "raw_hot": 151815,
       "num": 151815,
       "word": "平凡之路受害者被荡妇羞辱",
@@ -1849,14 +1945,6 @@
       "onboard_time": 1683434732,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144331,
-      "num": 160173,
-      "word": "WB对战DRG",
-      "onboard_time": 1683459269,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 143282,

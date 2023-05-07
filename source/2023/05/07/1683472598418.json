@@ -1,0 +1,410 @@
+{
+  "runTime": 1683472598418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2147381,
+        "num": 2147381,
+        "word": "美依礼芽人气断层第一",
+        "onboard_time": 1683464071,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1798293,
+        "num": 1798293,
+        "word": "生父再次离婚女儿选择和继母生活",
+        "onboard_time": 1683465393,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71416,
+        "num": 1612279,
+        "word": "航天员又要在太空拆快递了",
+        "onboard_time": 1683466712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1465038,
+        "num": 1465038,
+        "word": "朋友跟暧昧对象散了19公里步",
+        "onboard_time": 1683461910,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1097634,
+        "num": 1097634,
+        "word": "黄晓明见到Amber第一句话提的宋茜",
+        "onboard_time": 1683456513,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1065476,
+        "num": 1065476,
+        "word": "儿时的发小因为生孩子去世了",
+        "onboard_time": 1683470734,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 968869,
+        "num": 968869,
+        "word": "高铁上被掌掴女孩坚决不和解",
+        "onboard_time": 1683451410,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895424,
+        "num": 895424,
+        "word": "事业编和公务员哪个更难考",
+        "onboard_time": 1683467914,
+        "rank": 7,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 793744,
+        "num": 793744,
+        "word": "关闭朋友圈一年后的变化",
+        "onboard_time": 1683455793,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 725132,
+        "num": 725132,
+        "word": "25岁的吴倩和23岁的吴世勋",
+        "onboard_time": 1683452668,
+        "rank": 9,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 757587,
+        "num": 717916,
+        "word": "肖战的女主运",
+        "onboard_time": 1683456031,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 701732,
+        "num": 701732,
+        "word": "蔡天凤被碎尸案明日将再度提讯",
+        "onboard_time": 1683462272,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641820,
+        "num": 641820,
+        "word": "杭州不定价咖啡馆试营业首日亏3500元",
+        "onboard_time": 1683468096,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 605401,
+        "num": 605401,
+        "word": "手术室里开黄腔",
+        "onboard_time": 1683431967,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536429,
+        "num": 536429,
+        "word": "DRG止步季后赛",
+        "onboard_time": 1683471631,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 533445,
+        "num": 533445,
+        "word": "男子火车上被陌生人持刀杀害",
+        "onboard_time": 1683457172,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492580,
+        "num": 492580,
+        "word": "男子1天吃10顿暴瘦110斤",
+        "onboard_time": 1683455253,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480426,
+        "num": 480426,
+        "word": "ZARA被曝试衣间镜子比帘子长一截",
+        "onboard_time": 1683450629,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474483,
+        "num": 474483,
+        "word": "娜么正瀚",
+        "onboard_time": 1683448291,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 464189,
+        "num": 464189,
+        "word": "白桃星座",
+        "onboard_time": 1683470495,
+        "rank": 19,
+        "category": "网红,情感"
+      },
+      {
+        "raw_hot": 454275,
+        "num": 454275,
+        "word": "张颂文被扔东西",
+        "onboard_time": 1683465994,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418756,
+        "num": 418756,
+        "word": "Maybe复出",
+        "onboard_time": 1683471216,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410371,
+        "num": 410371,
+        "word": "原来老公15岁就对我一见钟情了",
+        "onboard_time": 1683470134,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 408232,
+        "num": 408232,
+        "word": "谢娜跳了XG",
+        "onboard_time": 1683465271,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403934,
+        "num": 403934,
+        "word": "WB对战DRG",
+        "onboard_time": 1683459269,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 371408,
+        "num": 371408,
+        "word": "一个宿舍各过各的",
+        "onboard_time": 1683466831,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370878,
+        "num": 370878,
+        "word": "周扬青复阳",
+        "onboard_time": 1683470554,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336961,
+        "num": 336961,
+        "word": "内娱顶级剧抛脸",
+        "onboard_time": 1683455670,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329461,
+        "num": 329461,
+        "word": "极乐净土",
+        "onboard_time": 1683465994,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265099,
+        "num": 328378,
+        "word": "你多长时间换一次新手机",
+        "onboard_time": 1683468513,
+        "rank": 29,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 327810,
+        "num": 327810,
+        "word": "姚晨说庄达菲出息了",
+        "onboard_time": 1683456031,
+        "rank": 30,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 281648,
+        "num": 281648,
+        "word": "Lisa再破吉尼斯世界纪录",
+        "onboard_time": 1683447991,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279057,
+        "num": 279057,
+        "word": "刘昊然回应抠完脚闻手",
+        "onboard_time": 1683436829,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258836,
+        "num": 258836,
+        "word": "谢娜cos云缨",
+        "onboard_time": 1683464012,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256925,
+        "num": 256925,
+        "word": "WB晋级春季赛总决赛",
+        "onboard_time": 1683471096,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253114,
+        "num": 253114,
+        "word": "深圳大学",
+        "onboard_time": 1683461370,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251802,
+        "num": 251802,
+        "word": "MSI胜败分组赛抽签",
+        "onboard_time": 1683468452,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234304,
+        "num": 234304,
+        "word": "KPL",
+        "onboard_time": 1683472295,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231649,
+        "num": 231649,
+        "word": "17战队夺冠",
+        "onboard_time": 1683469413,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225907,
+        "num": 225907,
+        "word": "乘风投票",
+        "onboard_time": 1683468631,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225329,
+        "num": 225329,
+        "word": "DRG季后赛全巅",
+        "onboard_time": 1683471155,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220965,
+        "num": 220965,
+        "word": "王思佳 假包",
+        "onboard_time": 1683442588,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218614,
+        "num": 218614,
+        "word": "赵丽颖玉兔公主",
+        "onboard_time": 1683440847,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198566,
+        "num": 198566,
+        "word": "花楼bp",
+        "onboard_time": 1683471394,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196949,
+        "num": 196949,
+        "word": "TFBOYS庄达菲早期合影",
+        "onboard_time": 1683460469,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196706,
+        "num": 196706,
+        "word": "爸妈把群聊当私聊被我看到了",
+        "onboard_time": 1683434488,
+        "rank": 45,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 188313,
+        "num": 188313,
+        "word": "鸟鸟cos安琪拉",
+        "onboard_time": 1683467372,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187923,
+        "num": 187923,
+        "word": "恋爱谈了两天半就去结婚了",
+        "onboard_time": 1683464552,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181048,
+        "num": 181048,
+        "word": "女子称在NIKE试衣间4分钟被偷拍3次",
+        "onboard_time": 1683462510,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171801,
+        "num": 171801,
+        "word": "梦岚",
+        "onboard_time": 1683472471,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#空间站应用与发展阶段首次飞行任务#"
+    }
+  }
+}
