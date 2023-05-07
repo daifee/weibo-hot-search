@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/05/01 00:20:43 ~ 2023/05/08 06:15:21
+本榜单时间：2023/05/01 00:20:43 ~ 2023/05/08 06:33:32
 </p>
 </blockquote>
 <p>
@@ -4479,6 +4479,12 @@ TFBOYS庄达菲早期合影（热度：346439）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%8C%96%E5%91%80%E6%8C%96%E7%88%86%E7%81%AB%E8%80%81%E5%B8%88%E8%BA%AB%E9%99%B76%E5%A4%A7%E4%BC%A0%E9%97%BB%23" target="weibo">
+因挖呀挖爆火老师身陷6大传闻（热度：346293）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%238%E5%90%8D%E5%86%85%E5%9C%B0%E8%B5%8C%E5%AE%A2%E5%9C%A8%E6%BE%B3%E9%97%A8%E8%B5%8C%E5%9C%BA%E6%8A%A1%E6%A4%85%E6%89%93%E6%96%97%E8%A2%AB%E6%8D%95%23" target="weibo">
 8名内地赌客在澳门赌场抡椅打斗被捕（热度：346017）
 </a>
@@ -6005,12 +6011,6 @@ KPL（热度：258332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23yuyanjia%E7%A1%AE%E5%AE%9A%E5%A4%8D%E5%87%BA%23" target="weibo">
 yuyanjia确定复出（热度：258155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23" target="weibo">
-杭州亚运会（热度：258039）
 </a>
 </li>
 
