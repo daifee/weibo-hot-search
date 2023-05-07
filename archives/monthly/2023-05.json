@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683450947383,
+  "endTime": 1683452002240,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 3156156,
-      "num": 381709,
+      "num": 516860,
       "word": "娜么正瀚",
       "onboard_time": 1683448291,
       "rank": 40,
@@ -907,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1566320,
+      "num": 1566320,
+      "word": "赵丽颖玉兔公主",
+      "onboard_time": 1683440847,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1565743,
       "num": 1565743,
       "word": "月收入一万真的简单吗",
@@ -977,14 +985,6 @@
       "onboard_time": 1683161189,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1492196,
-      "num": 1492196,
-      "word": "赵丽颖玉兔公主",
-      "onboard_time": 1683440847,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 1485190,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1682932168,
       "rank": 20,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1329287,
+      "num": 1329287,
+      "word": "Lisa再破吉尼斯世界纪录",
+      "onboard_time": 1683447991,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 1328585,
@@ -1481,14 +1489,6 @@
       "onboard_time": 1683154941,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1166452,
-      "num": 344655,
-      "word": "Lisa再破吉尼斯世界纪录",
-      "onboard_time": 1683447991,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 1160855,
@@ -2516,7 +2516,7 @@
     },
     {
       "raw_hot": 733074,
-      "num": 349893,
+      "num": 456349,
       "word": "爸妈把群聊当私聊被我看到了",
       "onboard_time": 1683434488,
       "rank": 30,
@@ -2811,6 +2811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 665189,
+      "num": 474761,
+      "word": "ZARA被曝试衣间镜子比帘子长一截",
+      "onboard_time": 1683450629,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661929,
       "num": 661929,
       "word": "马嘉祺 漏气",
@@ -2881,6 +2889,14 @@
       "onboard_time": 1682908948,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 632529,
+      "num": 451385,
+      "word": "庄达菲资源",
+      "onboard_time": 1683449672,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 630457,
@@ -3249,14 +3265,6 @@
       "onboard_time": 1683195750,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 564552,
-      "num": 321087,
-      "word": "庄达菲资源",
-      "onboard_time": 1683449672,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 564251,
@@ -5395,6 +5403,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 355714,
+      "num": 355714,
+      "word": "高铁上被掌掴女孩坚决不和解",
+      "onboard_time": 1683451410,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355151,
       "num": 355151,
       "word": "难哄谁来演啊",
@@ -5963,6 +5979,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 327152,
+      "num": 327152,
+      "word": "存款6万的我裸辞了",
+      "onboard_time": 1683439049,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326626,
       "num": 326626,
       "word": "辽宁男篮vs广厦男篮",
@@ -6329,14 +6353,6 @@
       "onboard_time": 1683074548,
       "rank": 21,
       "category": "影视"
-    },
-    {
-      "raw_hot": 310503,
-      "num": 310503,
-      "word": "存款6万的我裸辞了",
-      "onboard_time": 1683439049,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 310495,
@@ -8611,6 +8627,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230627,
+      "num": 215068,
+      "word": "伴郎团接亲暴力破门而入新娘发怒",
+      "onboard_time": 1683450570,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230466,
       "num": 230466,
       "word": "周杰伦问已经是第一名的人要怎么变",
@@ -10659,6 +10683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186642,
+      "num": 272027,
+      "word": "温州一网红奶茶杯身印方言粗话",
+      "onboard_time": 1683446790,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186634,
       "num": 186634,
       "word": "脑子还没转过弯来就被挟持了",
@@ -11067,6 +11099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 177867,
+      "num": 148930,
+      "word": "何与cos后羿",
+      "onboard_time": 1683450391,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177748,
       "num": 177748,
       "word": "美依礼芽御姐音",
@@ -11353,6 +11393,14 @@
       "onboard_time": 1683178529,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173338,
+      "num": 147741,
+      "word": "丁真cos李元芳",
+      "onboard_time": 1683451770,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 173094,
@@ -11649,14 +11697,6 @@
       "onboard_time": 1683035498,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166415,
-      "num": 272027,
-      "word": "温州一网红奶茶杯身印方言粗话",
-      "onboard_time": 1683446790,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166373,
@@ -12891,14 +12931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133428,
-      "num": 208043,
-      "word": "ZARA被曝试衣间镜子比帘子长一截",
-      "onboard_time": 1683450629,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133037,
       "num": 133037,
       "word": "76人1比0凯尔特人",
@@ -13539,14 +13571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 118722,
-      "num": 207129,
-      "word": "伴郎团接亲暴力破门而入新娘发怒",
-      "onboard_time": 1683450570,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118477,
       "num": 150759,
       "word": "工作不开心时要不要离职",
@@ -13737,6 +13761,14 @@
       "onboard_time": 1682940749,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110084,
+      "num": 145320,
+      "word": "在义乌的创业有多简单",
+      "onboard_time": 1683446731,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 109841,

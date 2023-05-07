@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683450947383,
+  "endTime": 1683452002240,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3156156,
-      "num": 381709,
+      "num": 516860,
       "word": "娜么正瀚",
       "onboard_time": 1683448291,
       "rank": 40,
@@ -83,8 +83,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1492196,
-      "num": 1492196,
+      "raw_hot": 1566320,
+      "num": 1566320,
       "word": "赵丽颖玉兔公主",
       "onboard_time": 1683440847,
       "rank": 29,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1329287,
+      "num": 1329287,
+      "word": "Lisa再破吉尼斯世界纪录",
+      "onboard_time": 1683447991,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1252981,
       "num": 1190118,
       "word": "打工人怀孕怎么撑到生产",
@@ -129,14 +137,6 @@
       "onboard_time": 1683382595,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1166452,
-      "num": 344655,
-      "word": "Lisa再破吉尼斯世界纪录",
-      "onboard_time": 1683447991,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 1118927,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 733074,
-      "num": 349893,
+      "num": 456349,
       "word": "爸妈把群聊当私聊被我看到了",
       "onboard_time": 1683434488,
       "rank": 30,
@@ -297,6 +297,22 @@
       "onboard_time": 1683416420,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 665189,
+      "num": 474761,
+      "word": "ZARA被曝试衣间镜子比帘子长一截",
+      "onboard_time": 1683450629,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632529,
+      "num": 451385,
+      "word": "庄达菲资源",
+      "onboard_time": 1683449672,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 626489,
@@ -361,14 +377,6 @@
       "onboard_time": 1683439409,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 564552,
-      "num": 321087,
-      "word": "庄达菲资源",
-      "onboard_time": 1683449672,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 564251,
@@ -571,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355714,
+      "num": 355714,
+      "word": "高铁上被掌掴女孩坚决不和解",
+      "onboard_time": 1683451410,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352895,
       "num": 352895,
       "word": "seventeen 内地签售会",
@@ -659,6 +675,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 327152,
+      "num": 327152,
+      "word": "存款6万的我裸辞了",
+      "onboard_time": 1683439049,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324219,
       "num": 324219,
       "word": "湖人2比1勇士",
@@ -680,14 +704,6 @@
       "word": "买衣服时被老板说嫌贵别买",
       "onboard_time": 1683425494,
       "rank": 19,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 310503,
-      "num": 310503,
-      "word": "存款6万的我裸辞了",
-      "onboard_time": 1683439049,
-      "rank": 23,
       "category": "情感"
     },
     {
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230627,
+      "num": 215068,
+      "word": "伴郎团接亲暴力破门而入新娘发怒",
+      "onboard_time": 1683450570,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228218,
       "num": 228218,
       "word": "这程度可以报工伤了吧",
@@ -1051,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186642,
+      "num": 272027,
+      "word": "温州一网红奶茶杯身印方言粗话",
+      "onboard_time": 1683446790,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186091,
       "num": 150254,
       "word": "卡琳娜 帅",
@@ -1099,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177867,
+      "num": 148930,
+      "word": "何与cos后羿",
+      "onboard_time": 1683450391,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176991,
       "num": 176991,
       "word": "深圳一公司年薪50万岗位优先李一桐粉丝",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1683444150,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173338,
+      "num": 147741,
+      "word": "丁真cos李元芳",
+      "onboard_time": 1683451770,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 172950,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1683418524,
       "rank": 36,
       "category": "影视"
-    },
-    {
-      "raw_hot": 166415,
-      "num": 272027,
-      "word": "温州一网红奶茶杯身印方言粗话",
-      "onboard_time": 1683446790,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165616,
@@ -1331,14 +1371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 133428,
-      "num": 208043,
-      "word": "ZARA被曝试衣间镜子比帘子长一截",
-      "onboard_time": 1683450629,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132280,
       "num": 132280,
       "word": "江西暴雨致29.3万人受灾",
@@ -1371,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118722,
-      "num": 207129,
-      "word": "伴郎团接亲暴力破门而入新娘发怒",
-      "onboard_time": 1683450570,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 114820,
       "num": 101468,
       "word": "刘些宁戴牙套了",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1683426265,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110084,
+      "num": 145320,
+      "word": "在义乌的创业有多简单",
+      "onboard_time": 1683446731,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 108824,
