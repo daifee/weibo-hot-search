@@ -1,0 +1,410 @@
+{
+  "runTime": 1683502407254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1769280,
+        "num": 1769280,
+        "word": "巴厘岛情侣 柬埔寨车牌",
+        "onboard_time": 1683472713,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964203,
+        "num": 964203,
+        "word": "儿时的发小因为生孩子去世了",
+        "onboard_time": 1683470734,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43748,
+        "num": 943191,
+        "word": "航天员又要在太空拆快递了",
+        "onboard_time": 1683466712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926380,
+        "num": 926380,
+        "word": "李亚鹏在别墅小院种菜被警告",
+        "onboard_time": 1683500960,
+        "rank": 3,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 860184,
+        "num": 860184,
+        "word": "因挖呀挖爆火老师身陷6大传闻",
+        "onboard_time": 1683488592,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 701705,
+        "num": 701705,
+        "word": "高铁上被掌掴女孩坚决不和解",
+        "onboard_time": 1683451410,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594676,
+        "num": 594676,
+        "word": "美依礼芽人气断层第一",
+        "onboard_time": 1683464071,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471755,
+        "num": 471755,
+        "word": "哈登绝杀凯尔特人",
+        "onboard_time": 1683500720,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363963,
+        "num": 363963,
+        "word": "25岁的吴倩和23岁的吴世勋",
+        "onboard_time": 1683452668,
+        "rank": 8,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 360156,
+        "num": 360156,
+        "word": "事业编和公务员哪个更难考",
+        "onboard_time": 1683467914,
+        "rank": 9,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 1197936,
+        "num": 353285,
+        "word": "周扬青",
+        "onboard_time": 1683470554,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344763,
+        "num": 344763,
+        "word": "徐克终于出山了",
+        "onboard_time": 1683500960,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 332771,
+        "num": 332771,
+        "word": "巴厘岛情侣",
+        "onboard_time": 1683501321,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330469,
+        "num": 330469,
+        "word": "全红婵再现断崖式领先",
+        "onboard_time": 1683496093,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327030,
+        "num": 327030,
+        "word": "朋友跟暧昧对象散了19公里步",
+        "onboard_time": 1683461910,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308635,
+        "num": 308635,
+        "word": "生父再次离婚女儿选择和继母生活",
+        "onboard_time": 1683465393,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290935,
+        "num": 290935,
+        "word": "ZARA被曝试衣间镜子比帘子长一截",
+        "onboard_time": 1683450629,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264320,
+        "num": 264320,
+        "word": "男子1天吃10顿暴瘦110斤",
+        "onboard_time": 1683455253,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259083,
+        "num": 259083,
+        "word": "黄晓明见到Amber第一句话提的宋茜",
+        "onboard_time": 1683456513,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206402,
+        "num": 206402,
+        "word": "杭州不定价咖啡馆试营业首日亏3500元",
+        "onboard_time": 1683468096,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 198846,
+        "num": 198846,
+        "word": "关闭朋友圈一年后的变化",
+        "onboard_time": 1683455793,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191124,
+        "num": 191124,
+        "word": "肖战的女主运",
+        "onboard_time": 1683456031,
+        "rank": 21,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 166659,
+        "num": 166659,
+        "word": "秋瓷炫的中文是谈恋爱练的",
+        "onboard_time": 1683475528,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149420,
+        "num": 149420,
+        "word": "一个宿舍各过各的",
+        "onboard_time": 1683466831,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145479,
+        "num": 145479,
+        "word": "校方回应男生被老师丈夫刺伤",
+        "onboard_time": 1683491591,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141882,
+        "num": 141882,
+        "word": "漫长的季节 封神",
+        "onboard_time": 1683473913,
+        "rank": 25,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 139387,
+        "num": 139387,
+        "word": "内娱顶级剧抛脸",
+        "onboard_time": 1683455670,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135088,
+        "num": 135088,
+        "word": "原来老公15岁就对我一见钟情了",
+        "onboard_time": 1683470134,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 129478,
+        "num": 129478,
+        "word": "男子火车上被陌生人持刀杀害",
+        "onboard_time": 1683457172,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129265,
+        "num": 129265,
+        "word": "警方回应火车上一男子被持刀杀害",
+        "onboard_time": 1683501923,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128426,
+        "num": 128426,
+        "word": "周杰伦说华流才是最屌的",
+        "onboard_time": 1683501801,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120572,
+        "num": 120572,
+        "word": "校方通报学生洗澡时晕倒身亡",
+        "onboard_time": 1683473792,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 102917,
+        "num": 102917,
+        "word": "注视也是性骚扰的一种",
+        "onboard_time": 1683475650,
+        "rank": 32,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 98935,
+        "num": 98935,
+        "word": "谢娜cos云缨",
+        "onboard_time": 1683464012,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95009,
+        "num": 95009,
+        "word": "张颂文被扔东西",
+        "onboard_time": 1683465994,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94707,
+        "num": 94707,
+        "word": "警方回应网传男子找16岁怀孕女友",
+        "onboard_time": 1683478102,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91082,
+        "num": 91082,
+        "word": "姚晨说庄达菲出息了",
+        "onboard_time": 1683456031,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 86739,
+        "num": 86739,
+        "word": "76人2比2凯尔特人",
+        "onboard_time": 1683500840,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86619,
+        "num": 86619,
+        "word": "给内娱一点二次元震撼",
+        "onboard_time": 1683473430,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83392,
+        "num": 83392,
+        "word": "日本游 住寺庙",
+        "onboard_time": 1683500960,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 83189,
+        "num": 83189,
+        "word": "女子生活照被陌生人盗用欲P成裸照",
+        "onboard_time": 1683483617,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79220,
+        "num": 79220,
+        "word": "谢娜跳了XG",
+        "onboard_time": 1683465271,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78818,
+        "num": 78818,
+        "word": "恋爱谈了两天半就去结婚了",
+        "onboard_time": 1683464552,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78683,
+        "num": 78683,
+        "word": "大学生在消防喷淋上挂衣服水淹酒店",
+        "onboard_time": 1683501501,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78489,
+        "num": 78489,
+        "word": "极乐净土",
+        "onboard_time": 1683465994,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74373,
+        "num": 74373,
+        "word": "工作5年你能存多少钱",
+        "onboard_time": 1683475048,
+        "rank": 45,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 73338,
+        "num": 73338,
+        "word": "古茗回应店员上班偷吃西瓜",
+        "onboard_time": 1683502284,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68288,
+        "num": 68288,
+        "word": "曼联",
+        "onboard_time": 1683502224,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62894,
+        "num": 66015,
+        "word": "MSI胜败分组赛抽签",
+        "onboard_time": 1683468452,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43375,
+        "num": 65883,
+        "word": "Maybe复出",
+        "onboard_time": 1683471216,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#空间站应用与发展阶段首次飞行任务#"
+    }
+  }
+}

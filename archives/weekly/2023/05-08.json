@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683501369770,
+  "endTime": 1683502407254,
   "band_list": [
     {
       "raw_hot": 2270611,
@@ -19,12 +19,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1197936,
+      "num": 475321,
+      "word": "周扬青",
+      "onboard_time": 1683470554,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1009876,
       "num": 1009876,
       "word": "儿时的发小因为生孩子去世了",
       "onboard_time": 1683470734,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 926380,
+      "num": 926380,
+      "word": "李亚鹏在别墅小院种菜被警告",
+      "onboard_time": 1683500960,
+      "rank": 14,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 917675,
@@ -43,12 +59,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 740059,
-      "num": 475321,
-      "word": "周扬青",
-      "onboard_time": 1683470554,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 860184,
+      "num": 860184,
+      "word": "因挖呀挖爆火老师身陷6大传闻",
+      "onboard_time": 1683488592,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 701705,
+      "num": 701705,
+      "word": "高铁上被掌掴女孩坚决不和解",
+      "onboard_time": 1683451410,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689690,
@@ -57,22 +81,6 @@
       "onboard_time": 1683461910,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 668948,
-      "num": 668948,
-      "word": "高铁上被掌掴女孩坚决不和解",
-      "onboard_time": 1683451410,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643009,
-      "num": 643009,
-      "word": "因挖呀挖爆火老师身陷6大传闻",
-      "onboard_time": 1683488592,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 629378,
@@ -105,6 +113,14 @@
       "onboard_time": 1683450629,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471755,
+      "num": 471755,
+      "word": "哈登绝杀凯尔特人",
+      "onboard_time": 1683500720,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 433883,
@@ -155,12 +171,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 320254,
-      "num": 320254,
-      "word": "哈登绝杀凯尔特人",
-      "onboard_time": 1683500720,
-      "rank": 11,
-      "category": "体育"
+      "raw_hot": 344763,
+      "num": 344763,
+      "word": "徐克终于出山了",
+      "onboard_time": 1683500960,
+      "rank": 28,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 332771,
+      "num": 332771,
+      "word": "巴厘岛情侣",
+      "onboard_time": 1683501321,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314551,
@@ -201,14 +225,6 @@
       "onboard_time": 1683455670,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 269322,
-      "num": 269322,
-      "word": "李亚鹏在别墅小院种菜被警告",
-      "onboard_time": 1683500960,
-      "rank": 14,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 257525,
@@ -299,20 +315,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166659,
+      "num": 166659,
+      "word": "秋瓷炫的中文是谈恋爱练的",
+      "onboard_time": 1683475528,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164293,
       "num": 164293,
       "word": "蔡天凤被碎尸案明日将再度提讯",
       "onboard_time": 1683462272,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162518,
-      "num": 162518,
-      "word": "秋瓷炫的中文是谈恋爱练的",
-      "onboard_time": 1683475528,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 159548,
@@ -323,16 +339,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 151540,
-      "num": 151540,
-      "word": "巴厘岛情侣",
-      "onboard_time": 1683501321,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144777,
-      "num": 144777,
+      "raw_hot": 145479,
+      "num": 145479,
       "word": "校方回应男生被老师丈夫刺伤",
       "onboard_time": 1683491591,
       "rank": 49,
@@ -363,12 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129971,
-      "num": 129971,
-      "word": "徐克终于出山了",
-      "onboard_time": 1683500960,
-      "rank": 28,
-      "category": "影视"
+      "raw_hot": 129265,
+      "num": 129265,
+      "word": "警方回应火车上一男子被持刀杀害",
+      "onboard_time": 1683501923,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128426,
+      "num": 128426,
+      "word": "周杰伦说华流才是最屌的",
+      "onboard_time": 1683501801,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 126873,
@@ -499,12 +515,44 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 74459,
-      "num": 74459,
+      "raw_hot": 83392,
+      "num": 83392,
+      "word": "日本游 住寺庙",
+      "onboard_time": 1683500960,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 83189,
+      "num": 83189,
       "word": "女子生活照被陌生人盗用欲P成裸照",
       "onboard_time": 1683483617,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78683,
+      "num": 78683,
+      "word": "大学生在消防喷淋上挂衣服水淹酒店",
+      "onboard_time": 1683501501,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73338,
+      "num": 73338,
+      "word": "古茗回应店员上班偷吃西瓜",
+      "onboard_time": 1683502284,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68288,
+      "num": 68288,
+      "word": "曼联",
+      "onboard_time": 1683502224,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 61274,
@@ -515,7 +563,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43603,
+      "raw_hot": 43748,
       "num": 1212423,
       "word": "航天员又要在太空拆快递了",
       "onboard_time": 1683466712,
