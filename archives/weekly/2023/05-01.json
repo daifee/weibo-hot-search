@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683463550540,
+  "endTime": 1683465513355,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -395,6 +395,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 2152135,
+      "num": 2152135,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1683455793,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2139335,
       "num": 2139335,
       "word": "高铁上最好不要和邻座套近乎",
@@ -593,14 +601,6 @@
       "onboard_time": 1683422425,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1869915,
-      "num": 1869915,
-      "word": "关闭朋友圈一年后的变化",
-      "onboard_time": 1683455793,
-      "rank": 7,
-      "category": "情感"
     },
     {
       "raw_hot": 1848025,
@@ -817,6 +817,14 @@
       "onboard_time": 1682998288,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1684278,
+      "num": 1684278,
+      "word": "朋友跟暧昧对象散了19公里步",
+      "onboard_time": 1683461910,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 1676294,
@@ -1120,6 +1128,14 @@
       "word": "吴倩小心翼翼的样子好心疼",
       "onboard_time": 1683338730,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1408208,
+      "num": 1408208,
+      "word": "黄晓明见到Amber第一句话提的宋茜",
+      "onboard_time": 1683456513,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -1539,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1171523,
-      "num": 1171523,
-      "word": "朋友跟暧昧对象散了19公里步",
-      "onboard_time": 1683461910,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1160855,
       "num": 1160855,
       "word": "刘亚仁男友被立案调查",
@@ -1843,14 +1851,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1036180,
-      "num": 1036180,
-      "word": "黄晓明见到Amber第一句话提的宋茜",
-      "onboard_time": 1683456513,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1032685,
       "num": 1032685,
       "word": "胡锡进 把普通人这样发到网上太不应该",
@@ -1915,6 +1915,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1001228,
+      "num": 560349,
+      "word": "27岁男子找16岁怀孕女友",
+      "onboard_time": 1683463893,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999294,
       "num": 999294,
       "word": "同事辟谣挖呀挖黄老师辞职",
@@ -1937,6 +1945,14 @@
       "onboard_time": 1683188968,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 987242,
+      "num": 987242,
+      "word": "深圳大学",
+      "onboard_time": 1683461370,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 986647,
@@ -2185,14 +2201,6 @@
       "onboard_time": 1683351572,
       "rank": 5,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 876121,
-      "num": 876121,
-      "word": "深圳大学",
-      "onboard_time": 1683461370,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 874275,
@@ -2547,6 +2555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 753804,
+      "num": 651821,
+      "word": "蔡天凤被碎尸案明日将再度提讯",
+      "onboard_time": 1683462272,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 750326,
       "num": 750326,
       "word": "迪丽热巴或将演万渣朝凰",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1682866892,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 742817,
+      "num": 742817,
+      "word": "美依礼芽人气断层第一",
+      "onboard_time": 1683464071,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 741494,
@@ -2952,14 +2976,6 @@
       "word": "杭州高空扔狗事件",
       "onboard_time": 1683341371,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 651821,
-      "num": 651821,
-      "word": "蔡天凤被碎尸案明日将再度提讯",
-      "onboard_time": 1683462272,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -3763,6 +3779,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522318,
+      "num": 522318,
+      "word": "谢娜cos云缨",
+      "onboard_time": 1683464012,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521073,
       "num": 463334,
       "word": "坐高铁碰到同座位的票",
@@ -4304,6 +4328,14 @@
       "word": "官方通报内蒙古一沙漠中埋有三角钉",
       "onboard_time": 1683380193,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453905,
+      "num": 453905,
+      "word": "女子称在NIKE试衣间4分钟被偷拍3次",
+      "onboard_time": 1683462510,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6123,6 +6155,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 328291,
+      "num": 328291,
+      "word": "网传14岁女孩被迫结婚消息不实",
+      "onboard_time": 1683464252,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327996,
       "num": 327996,
       "word": "孩子出生时vs孩子上学后",
@@ -6569,14 +6609,6 @@
       "onboard_time": 1683253287,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 308524,
-      "num": 210627,
-      "word": "女子称在NIKE试衣间4分钟被偷拍3次",
-      "onboard_time": 1683462510,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307753,
@@ -7993,6 +8025,14 @@
       "onboard_time": 1683004111,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251387,
+      "num": 251387,
+      "word": "恋爱谈了两天半就去结婚了",
+      "onboard_time": 1683464552,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 251355,
@@ -9771,6 +9811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210576,
+      "num": 239694,
+      "word": "阴阳师宣传曲极乐净土",
+      "onboard_time": 1683449128,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210423,
       "num": 210423,
       "word": "贺峻霖演唱会后台视频",
@@ -9952,6 +10000,14 @@
       "word": "Hero对战LGD",
       "onboard_time": 1683203248,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 205896,
+      "num": 205896,
+      "word": "花楼是不是被夺舍了",
+      "onboard_time": 1683463530,
+      "rank": 46,
       "category": "游戏"
     },
     {
@@ -10507,14 +10563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195449,
-      "num": 239694,
-      "word": "阴阳师宣传曲极乐净土",
-      "onboard_time": 1683449128,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 195409,
       "num": 195409,
       "word": "这工位老板看到了都害怕",
@@ -10745,6 +10793,14 @@
       "onboard_time": 1683007408,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191167,
+      "num": 191167,
+      "word": "谢娜跳了XG",
+      "onboard_time": 1683465271,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 191086,
@@ -11763,6 +11819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171044,
+      "num": 171044,
+      "word": "历代郭靖黄蓉一览",
+      "onboard_time": 1683460351,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170990,
       "num": 170990,
       "word": "王嘉尔和粉丝十指相扣合照",
@@ -11849,14 +11913,6 @@
       "onboard_time": 1682997448,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 169280,
-      "num": 169280,
-      "word": "历代郭靖黄蓉一览",
-      "onboard_time": 1683460351,
-      "rank": 40,
-      "category": "影视"
     },
     {
       "raw_hot": 169206,
@@ -12827,6 +12883,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 148545,
+      "num": 148545,
+      "word": "生父再次离婚女儿选择和继母生活",
+      "onboard_time": 1683465393,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148480,
       "num": 148480,
       "word": "NBA",
@@ -13059,14 +13123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139414,
-      "num": 139414,
-      "word": "花楼是不是被夺舍了",
-      "onboard_time": 1683463530,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "张角痛哭道歉",
@@ -13177,6 +13233,14 @@
       "onboard_time": 1683374849,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135546,
+      "num": 135546,
+      "word": "平凡之路金晨人设",
+      "onboard_time": 1683463710,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 135478,

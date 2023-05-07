@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683463550540,
+  "endTime": 1683465513355,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2152135,
+      "num": 2152135,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1683455793,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2048424,
       "num": 1308874,
       "word": "知情人称挖呀挖黄老师无教师证",
@@ -83,14 +91,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1869915,
-      "num": 1869915,
-      "word": "关闭朋友圈一年后的变化",
-      "onboard_time": 1683455793,
-      "rank": 7,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1829079,
       "num": 658019,
       "word": "刘昊然回应抠完脚闻手",
@@ -105,6 +105,14 @@
       "onboard_time": 1683442588,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1684278,
+      "num": 1684278,
+      "word": "朋友跟暧昧对象散了19公里步",
+      "onboard_time": 1683461910,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 1609425,
@@ -147,6 +155,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1408208,
+      "num": 1408208,
+      "word": "黄晓明见到Amber第一句话提的宋茜",
+      "onboard_time": 1683456513,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1404379,
       "num": 1404379,
       "word": "已婚男子连删多个女生相关记录",
@@ -187,14 +203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1171523,
-      "num": 1171523,
-      "word": "朋友跟暧昧对象散了19公里步",
-      "onboard_time": 1683461910,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1118927,
       "num": 1118927,
       "word": "南京女大学生被害案罪犯洪峤被执行死刑",
@@ -219,20 +227,28 @@
       "category": "影视,幽默"
     },
     {
-      "raw_hot": 1036180,
-      "num": 1036180,
-      "word": "黄晓明见到Amber第一句话提的宋茜",
-      "onboard_time": 1683456513,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1020077,
       "num": 102047,
       "word": "婆婆直接把38.8万彩礼转我了",
       "onboard_time": 1683383253,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1001228,
+      "num": 560349,
+      "word": "27岁男子找16岁怀孕女友",
+      "onboard_time": 1683463893,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 987242,
+      "num": 987242,
+      "word": "深圳大学",
+      "onboard_time": 1683461370,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 977816,
@@ -299,14 +315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 876121,
-      "num": 876121,
-      "word": "深圳大学",
-      "onboard_time": 1683461370,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 854561,
       "num": 854561,
       "word": "放弃了三十万年薪去了街道办",
@@ -363,6 +371,22 @@
       "category": "影视"
     },
     {
+      "raw_hot": 753804,
+      "num": 651821,
+      "word": "蔡天凤被碎尸案明日将再度提讯",
+      "onboard_time": 1683462272,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 742817,
+      "num": 742817,
+      "word": "美依礼芽人气断层第一",
+      "onboard_time": 1683464071,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 741494,
       "num": 741494,
       "word": "K435",
@@ -401,14 +425,6 @@
       "onboard_time": 1683416420,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 651821,
-      "num": 651821,
-      "word": "蔡天凤被碎尸案明日将再度提讯",
-      "onboard_time": 1683462272,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638365,
@@ -539,6 +555,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 522318,
+      "num": 522318,
+      "word": "谢娜cos云缨",
+      "onboard_time": 1683464012,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519294,
       "num": 519294,
       "word": "沈月是来给张凌赫救场的吧",
@@ -609,6 +633,14 @@
       "onboard_time": 1683419365,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453905,
+      "num": 453905,
+      "word": "女子称在NIKE试衣间4分钟被偷拍3次",
+      "onboard_time": 1683462510,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 452980,
@@ -827,6 +859,14 @@
       "category": "影视,情感"
     },
     {
+      "raw_hot": 328291,
+      "num": 328291,
+      "word": "网传14岁女孩被迫结婚消息不实",
+      "onboard_time": 1683464252,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327152,
       "num": 327152,
       "word": "存款6万的我裸辞了",
@@ -857,14 +897,6 @@
       "onboard_time": 1683425494,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 308524,
-      "num": 210627,
-      "word": "女子称在NIKE试衣间4分钟被偷拍3次",
-      "onboard_time": 1683462510,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 308363,
@@ -1067,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251387,
+      "num": 251387,
+      "word": "恋爱谈了两天半就去结婚了",
+      "onboard_time": 1683464552,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250512,
       "num": 174676,
       "word": "你能接受明星私下形象邋遢吗",
@@ -1259,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210576,
+      "num": 239694,
+      "word": "阴阳师宣传曲极乐净土",
+      "onboard_time": 1683449128,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210240,
       "num": 210240,
       "word": "全红婵陈芋汐金牌",
@@ -1307,6 +1355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205896,
+      "num": 205896,
+      "word": "花楼是不是被夺舍了",
+      "onboard_time": 1683463530,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205262,
       "num": 205262,
       "word": "对大学动漫宅的模仿",
@@ -1323,20 +1379,20 @@
       "category": "影视"
     },
     {
-      "raw_hot": 195449,
-      "num": 239694,
-      "word": "阴阳师宣传曲极乐净土",
-      "onboard_time": 1683449128,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 192606,
       "num": 192606,
       "word": "遇害女大学生父亲回应罪犯被执行死刑",
       "onboard_time": 1683437249,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191167,
+      "num": 191167,
+      "word": "谢娜跳了XG",
+      "onboard_time": 1683465271,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 191086,
@@ -1491,6 +1547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171044,
+      "num": 171044,
+      "word": "历代郭靖黄蓉一览",
+      "onboard_time": 1683460351,
+      "rank": 40,
+      "category": "影视"
+    },
+    {
       "raw_hot": 170711,
       "num": 170711,
       "word": "九尾清清互撕名牌整活",
@@ -1504,14 +1568,6 @@
       "word": "最食人间烟火色",
       "onboard_time": 1683418524,
       "rank": 36,
-      "category": "影视"
-    },
-    {
-      "raw_hot": 169280,
-      "num": 169280,
-      "word": "历代郭靖黄蓉一览",
-      "onboard_time": 1683460351,
-      "rank": 40,
       "category": "影视"
     },
     {
@@ -1659,6 +1715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148545,
+      "num": 148545,
+      "word": "生父再次离婚女儿选择和继母生活",
+      "onboard_time": 1683465393,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143282,
       "num": 102702,
       "word": "IU认出了10年没见的粉丝",
@@ -1673,14 +1737,6 @@
       "onboard_time": 1683374968,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139414,
-      "num": 139414,
-      "word": "花楼是不是被夺舍了",
-      "onboard_time": 1683463530,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 139213,
@@ -1705,6 +1761,14 @@
       "onboard_time": 1683393142,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135546,
+      "num": 135546,
+      "word": "平凡之路金晨人设",
+      "onboard_time": 1683463710,
+      "rank": 49,
+      "category": "影视"
     },
     {
       "raw_hot": 133535,
