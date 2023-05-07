@@ -1,0 +1,410 @@
+{
+  "runTime": 1683468845001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2904035,
+        "num": 2904035,
+        "word": "美依礼芽人气断层第一",
+        "onboard_time": 1683464071,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1625322,
+        "num": 1625322,
+        "word": "朋友跟暧昧对象散了19公里步",
+        "onboard_time": 1683461910,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66969,
+        "num": 1574002,
+        "word": "航天员又要在太空拆快递了",
+        "onboard_time": 1683466712,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1546161,
+        "num": 1546161,
+        "word": "关闭朋友圈一年后的变化",
+        "onboard_time": 1683455793,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1451099,
+        "num": 1451099,
+        "word": "生父再次离婚女儿选择和继母生活",
+        "onboard_time": 1683465393,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045638,
+        "num": 1045638,
+        "word": "男子1天吃10顿暴瘦110斤",
+        "onboard_time": 1683455253,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026028,
+        "num": 1026028,
+        "word": "高铁上被掌掴女孩坚决不和解",
+        "onboard_time": 1683451410,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 916288,
+        "num": 916288,
+        "word": "黄晓明见到Amber第一句话提的宋茜",
+        "onboard_time": 1683456513,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 882717,
+        "num": 882717,
+        "word": "蔡天凤被碎尸案明日将再度提讯",
+        "onboard_time": 1683462272,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754844,
+        "num": 754844,
+        "word": "张颂文被扔东西",
+        "onboard_time": 1683465994,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 925161,
+        "num": 739570,
+        "word": "肖战的女主运",
+        "onboard_time": 1683456031,
+        "rank": 10,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 693166,
+        "num": 693166,
+        "word": "25岁的吴倩和23岁的吴世勋",
+        "onboard_time": 1683452668,
+        "rank": 11,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 631110,
+        "num": 631110,
+        "word": "极乐净土",
+        "onboard_time": 1683465994,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603339,
+        "num": 603339,
+        "word": "男子火车上被陌生人持刀杀害",
+        "onboard_time": 1683457172,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544426,
+        "num": 544426,
+        "word": "手术室里开黄腔",
+        "onboard_time": 1683431967,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534211,
+        "num": 534211,
+        "word": "谢娜跳了XG",
+        "onboard_time": 1683465271,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498562,
+        "num": 498562,
+        "word": "娜么正瀚",
+        "onboard_time": 1683448291,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 440649,
+        "num": 440649,
+        "word": "深圳大学",
+        "onboard_time": 1683461370,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439363,
+        "num": 439363,
+        "word": "姚晨说庄达菲出息了",
+        "onboard_time": 1683456031,
+        "rank": 18,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 429244,
+        "num": 429244,
+        "word": "ZARA被曝试衣间镜子比帘子长一截",
+        "onboard_time": 1683450629,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422376,
+        "num": 422376,
+        "word": "MSI胜败分组赛抽签",
+        "onboard_time": 1683468452,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 418358,
+        "num": 418358,
+        "word": "一个宿舍各过各的",
+        "onboard_time": 1683466831,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386322,
+        "num": 386322,
+        "word": "内娱顶级剧抛脸",
+        "onboard_time": 1683455670,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379317,
+        "num": 379317,
+        "word": "谢娜cos云缨",
+        "onboard_time": 1683464012,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293908,
+        "num": 293908,
+        "word": "Lisa再破吉尼斯世界纪录",
+        "onboard_time": 1683447991,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282283,
+        "num": 282283,
+        "word": "女子称在NIKE试衣间4分钟被偷拍3次",
+        "onboard_time": 1683462510,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280895,
+        "num": 280895,
+        "word": "刘昊然回应抠完脚闻手",
+        "onboard_time": 1683436829,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280299,
+        "num": 280299,
+        "word": "赵丽颖玉兔公主",
+        "onboard_time": 1683440847,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268025,
+        "num": 268025,
+        "word": "事业编和公务员哪个更难考",
+        "onboard_time": 1683467914,
+        "rank": 28,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 72932,
+        "num": 266622,
+        "word": "你多长时间换一次新手机",
+        "onboard_time": 1683468513,
+        "rank": 29,
+        "category": "科技,情感"
+      },
+      {
+        "raw_hot": 266545,
+        "num": 266545,
+        "word": "恋爱谈了两天半就去结婚了",
+        "onboard_time": 1683464552,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261033,
+        "num": 261033,
+        "word": "杭州不定价咖啡馆试营业首日亏3500元",
+        "onboard_time": 1683468096,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 249352,
+        "num": 249352,
+        "word": "王思佳 假包",
+        "onboard_time": 1683442588,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235850,
+        "num": 235850,
+        "word": "TFBOYS庄达菲早期合影",
+        "onboard_time": 1683460469,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227683,
+        "num": 227683,
+        "word": "网传14岁女孩被迫结婚消息不实",
+        "onboard_time": 1683464252,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211403,
+        "num": 211403,
+        "word": "教资面试",
+        "onboard_time": 1683465570,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211204,
+        "num": 211204,
+        "word": "长月烬明预告",
+        "onboard_time": 1683462691,
+        "rank": 36,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 210076,
+        "num": 210076,
+        "word": "阴阳师宣传曲极乐净土",
+        "onboard_time": 1683449128,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209213,
+        "num": 209213,
+        "word": "庄达菲古装",
+        "onboard_time": 1683447869,
+        "rank": 38,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 203248,
+        "num": 203248,
+        "word": "鸟鸟cos安琪拉",
+        "onboard_time": 1683467372,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201855,
+        "num": 201855,
+        "word": "今天月亮好大",
+        "onboard_time": 1683467556,
+        "rank": 40,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 188289,
+        "num": 188289,
+        "word": "爸妈把群聊当私聊被我看到了",
+        "onboard_time": 1683434488,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 187006,
+        "num": 187006,
+        "word": "花楼是不是被夺舍了",
+        "onboard_time": 1683463530,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184356,
+        "num": 184356,
+        "word": "乘风投票",
+        "onboard_time": 1683468631,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182554,
+        "num": 182554,
+        "word": "K435",
+        "onboard_time": 1683458553,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165252,
+        "num": 165252,
+        "word": "降价7折卖房昆山两项目被政府处罚",
+        "onboard_time": 1683457353,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158133,
+        "num": 158133,
+        "word": "长月烬明裳心悦凛番外",
+        "onboard_time": 1683455370,
+        "rank": 46,
+        "category": "影视"
+      },
+      {
+        "raw_hot": 158069,
+        "num": 158069,
+        "word": "巴厘岛警方称已有15名证人接受调查",
+        "onboard_time": 1683448710,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154634,
+        "num": 154634,
+        "word": "被领导说明天不用来上班了",
+        "onboard_time": 1683459990,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152099,
+        "num": 152099,
+        "word": "事业单位",
+        "onboard_time": 1683418462,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#空间站应用与发展阶段首次飞行任务#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683466404862,
+  "endTime": 1683468845001,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -25,6 +25,14 @@
       "onboard_time": 1683448291,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2904035,
+      "num": 2904035,
+      "word": "美依礼芽人气断层第一",
+      "onboard_time": 1683464071,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 2740155,
@@ -131,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1589853,
-      "num": 1589853,
-      "word": "美依礼芽人气断层第一",
-      "onboard_time": 1683464071,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1566320,
       "num": 1566320,
       "word": "赵丽颖玉兔公主",
@@ -161,6 +161,14 @@
       "onboard_time": 1683447869,
       "rank": 4,
       "category": "影视"
+    },
+    {
+      "raw_hot": 1451099,
+      "num": 1451099,
+      "word": "生父再次离婚女儿选择和继母生活",
+      "onboard_time": 1683465393,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1408208,
@@ -243,6 +251,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1045638,
+      "num": 1045638,
+      "word": "男子1天吃10顿暴瘦110斤",
+      "onboard_time": 1683455253,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1020077,
       "num": 102047,
       "word": "婆婆直接把38.8万彩礼转我了",
@@ -272,14 +288,6 @@
       "word": "黄老师唱的挖呀挖或涉嫌侵权",
       "onboard_time": 1683381752,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 960870,
-      "num": 960870,
-      "word": "男子1天吃10顿暴瘦110斤",
-      "onboard_time": 1683455253,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -313,6 +321,14 @@
       "onboard_time": 1683416663,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 882717,
+      "num": 882717,
+      "word": "蔡天凤被碎尸案明日将再度提讯",
+      "onboard_time": 1683462272,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 882126,
@@ -360,14 +376,6 @@
       "word": "男子火车上被陌生人持刀杀害",
       "onboard_time": 1683457172,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 783066,
-      "num": 783066,
-      "word": "蔡天凤被碎尸案明日将再度提讯",
-      "onboard_time": 1683462272,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -449,6 +457,14 @@
       "onboard_time": 1683449672,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 631110,
+      "num": 631110,
+      "word": "极乐净土",
+      "onboard_time": 1683465994,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 626489,
@@ -563,6 +579,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 534211,
+      "num": 534211,
+      "word": "谢娜跳了XG",
+      "onboard_time": 1683465271,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 522318,
       "num": 522318,
       "word": "谢娜cos云缨",
@@ -593,14 +617,6 @@
       "onboard_time": 1683383555,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 503204,
-      "num": 503204,
-      "word": "谢娜跳了XG",
-      "onboard_time": 1683465271,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 501563,
@@ -675,20 +691,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 436432,
-      "num": 272636,
-      "word": "生父再次离婚女儿选择和继母生活",
-      "onboard_time": 1683465393,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 428747,
       "num": 428747,
       "word": "张艺兴舒淇电影 停拍",
       "onboard_time": 1683371190,
       "rank": 15,
       "category": "影视"
+    },
+    {
+      "raw_hot": 422376,
+      "num": 422376,
+      "word": "MSI胜败分组赛抽签",
+      "onboard_time": 1683468452,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 421774,
@@ -705,6 +721,14 @@
       "onboard_time": 1683438988,
       "rank": 22,
       "category": "影视"
+    },
+    {
+      "raw_hot": 418358,
+      "num": 418358,
+      "word": "一个宿舍各过各的",
+      "onboard_time": 1683466831,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 406198,
@@ -915,14 +939,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 322710,
-      "num": 322710,
-      "word": "极乐净土",
-      "onboard_time": 1683465994,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 318163,
       "num": 318163,
       "word": "买衣服时被老板说嫌贵别买",
@@ -1107,6 +1123,14 @@
       "category": "幽默,综艺"
     },
     {
+      "raw_hot": 268025,
+      "num": 268025,
+      "word": "事业编和公务员哪个更难考",
+      "onboard_time": 1683467914,
+      "rank": 28,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 265499,
       "num": 265499,
       "word": "湖人罚球",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1683428428,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 261033,
+      "num": 261033,
+      "word": "杭州不定价咖啡馆试营业首日亏3500元",
+      "onboard_time": 1683468096,
+      "rank": 31,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 258933,
@@ -1347,6 +1379,22 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 211403,
+      "num": 211403,
+      "word": "教资面试",
+      "onboard_time": 1683465570,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 211204,
+      "num": 211204,
+      "word": "长月烬明预告",
+      "onboard_time": 1683462691,
+      "rank": 38,
+      "category": "影视"
+    },
+    {
       "raw_hot": 210683,
       "num": 210683,
       "word": "丁真cos李元芳",
@@ -1411,6 +1459,22 @@
       "category": "动漫,幽默"
     },
     {
+      "raw_hot": 203248,
+      "num": 203248,
+      "word": "鸟鸟cos安琪拉",
+      "onboard_time": 1683467372,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201855,
+      "num": 201855,
+      "word": "今天月亮好大",
+      "onboard_time": 1683467556,
+      "rank": 40,
+      "category": "自然"
+    },
+    {
       "raw_hot": 198793,
       "num": 198129,
       "word": "玥烬情苏",
@@ -1451,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188017,
-      "num": 188017,
-      "word": "教资面试",
-      "onboard_time": 1683465570,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 186642,
       "num": 272027,
       "word": "温州一网红奶茶杯身印方言粗话",
@@ -1480,6 +1536,14 @@
       "word": "想看宋茜参加乘风2023",
       "onboard_time": 1683420866,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184356,
+      "num": 184356,
+      "word": "乘风投票",
+      "onboard_time": 1683468631,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1569,14 +1633,6 @@
       "onboard_time": 1683444150,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173940,
-      "num": 173940,
-      "word": "长月烬明预告",
-      "onboard_time": 1683462691,
-      "rank": 38,
-      "category": "影视"
     },
     {
       "raw_hot": 172950,
@@ -2019,6 +2075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72932,
+      "num": 266622,
+      "word": "你多长时间换一次新手机",
+      "onboard_time": 1683468513,
+      "rank": 29,
+      "category": "科技,情感"
+    },
+    {
       "raw_hot": 72305,
       "num": 101122,
       "word": "cp29场照被炼进AI模型",
@@ -2033,6 +2097,14 @@
       "onboard_time": 1683405612,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 66969,
+      "num": 1574002,
+      "word": "航天员又要在太空拆快递了",
+      "onboard_time": 1683466712,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64709,
@@ -2164,6 +2236,9 @@
     },
     {
       "word": "#这就是祖国你永远可以相信她#"
+    },
+    {
+      "word": "#空间站应用与发展阶段首次飞行任务#"
     }
   ]
 }
