@@ -1,6 +1,6 @@
 {
   "startTime": 1683390063208,
-  "endTime": 1683448418715,
+  "endTime": 1683450947383,
   "band_list": [
     {
       "raw_hot": 4791962,
@@ -17,6 +17,14 @@
       "onboard_time": 1683431967,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3156156,
+      "num": 381709,
+      "word": "娜么正瀚",
+      "onboard_time": 1683448291,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 2612182,
@@ -91,7 +99,7 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1427117,
+      "raw_hot": 1467422,
       "num": 1427117,
       "word": "庄达菲古装",
       "onboard_time": 1683447869,
@@ -121,6 +129,14 @@
       "onboard_time": 1683382595,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1166452,
+      "num": 344655,
+      "word": "Lisa再破吉尼斯世界纪录",
+      "onboard_time": 1683447991,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 1118927,
@@ -251,6 +267,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 733074,
+      "num": 349893,
+      "word": "爸妈把群聊当私聊被我看到了",
+      "onboard_time": 1683434488,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 730491,
       "num": 730491,
       "word": "白鹿片场行为",
@@ -339,12 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 566027,
-      "num": 349893,
-      "word": "爸妈把群聊当私聊被我看到了",
-      "onboard_time": 1683434488,
-      "rank": 30,
-      "category": "幽默,情感"
+      "raw_hot": 564552,
+      "num": 321087,
+      "word": "庄达菲资源",
+      "onboard_time": 1683449672,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 564251,
@@ -369,6 +393,14 @@
       "onboard_time": 1683388169,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 549759,
+      "num": 549759,
+      "word": "巴厘岛警方称已有15名证人接受调查",
+      "onboard_time": 1683448710,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 540832,
@@ -499,6 +531,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 382076,
+      "num": 382076,
+      "word": "巴厘岛",
+      "onboard_time": 1683448951,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 377461,
       "num": 377461,
       "word": "奔跑吧一起运动吧",
@@ -587,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335695,
+      "num": 310047,
+      "word": "众星为娜扎想口号",
+      "onboard_time": 1683449429,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 335422,
       "num": 335422,
       "word": "男子停车遭开门杀后被女子连撞3次",
@@ -619,11 +667,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 323058,
+      "num": 309959,
+      "word": "吴宣仪进组狐妖小红娘",
+      "onboard_time": 1683448591,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
       "raw_hot": 318163,
       "num": 318163,
       "word": "买衣服时被老板说嫌贵别买",
       "onboard_time": 1683425494,
       "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 310503,
+      "num": 310503,
+      "word": "存款6万的我裸辞了",
+      "onboard_time": 1683439049,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -651,6 +715,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 302806,
+      "num": 302806,
+      "word": "杨洋在KTV吃面",
+      "onboard_time": 1683449070,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302763,
       "num": 302763,
       "word": "看过但又不好意思承认看过的小说",
@@ -665,6 +737,30 @@
       "onboard_time": 1683437369,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298535,
+      "num": 298535,
+      "word": "萌探探探案晒团体合照",
+      "onboard_time": 1683449792,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 297560,
+      "num": 297560,
+      "word": "奔跑吧全员晒团队合照",
+      "onboard_time": 1683447092,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 296565,
+      "num": 296565,
+      "word": "放在商场没人玩的东西遇到大学生",
+      "onboard_time": 1683448351,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 296221,
@@ -724,7 +820,7 @@
     },
     {
       "raw_hot": 264541,
-      "num": 205007,
+      "num": 230862,
       "word": "徐怀钰唱功",
       "onboard_time": 1683446312,
       "rank": 32,
@@ -747,27 +843,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 254600,
-      "num": 204195,
-      "word": "奔跑吧全员晒团队合照",
-      "onboard_time": 1683447092,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250512,
       "num": 174676,
       "word": "你能接受明星私下形象邋遢吗",
       "onboard_time": 1683440489,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 248878,
-      "num": 172432,
-      "word": "Lisa再破吉尼斯世界纪录",
-      "onboard_time": 1683447991,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -795,12 +875,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242211,
-      "num": 208592,
-      "word": "存款6万的我裸辞了",
-      "onboard_time": 1683439049,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 242096,
+      "num": 242096,
+      "word": "徐克作品",
+      "onboard_time": 1683450452,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 239038,
@@ -889,14 +969,6 @@
       "onboard_time": 1683440127,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214812,
-      "num": 144618,
-      "word": "娜么正瀚",
-      "onboard_time": 1683448291,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 213258,
@@ -1036,7 +1108,7 @@
     },
     {
       "raw_hot": 176381,
-      "num": 176381,
+      "num": 207360,
       "word": "原来小熊猫也是顶流",
       "onboard_time": 1683444150,
       "rank": 37,
@@ -1052,7 +1124,7 @@
     },
     {
       "raw_hot": 171340,
-      "num": 171340,
+      "num": 205871,
       "word": "张大仙瘦了",
       "onboard_time": 1683438749,
       "rank": 39,
@@ -1073,6 +1145,14 @@
       "onboard_time": 1683418524,
       "rank": 36,
       "category": "影视"
+    },
+    {
+      "raw_hot": 166415,
+      "num": 272027,
+      "word": "温州一网红奶茶杯身印方言粗话",
+      "onboard_time": 1683446790,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165616,
@@ -1129,14 +1209,6 @@
       "onboard_time": 1683442108,
       "rank": 40,
       "category": "影视"
-    },
-    {
-      "raw_hot": 160772,
-      "num": 160772,
-      "word": "温州一网红奶茶杯身印方言粗话",
-      "onboard_time": 1683446790,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159174,
@@ -1219,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141189,
+      "num": 239694,
+      "word": "阴阳师宣传曲极乐净土",
+      "onboard_time": 1683449128,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139213,
       "num": 139213,
       "word": "张角痛哭道歉",
@@ -1248,6 +1328,14 @@
       "word": "工人大哥怕踩脏地面脱鞋进银行",
       "onboard_time": 1683425494,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133428,
+      "num": 208043,
+      "word": "ZARA被曝试衣间镜子比帘子长一截",
+      "onboard_time": 1683450629,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1283,20 +1371,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118722,
+      "num": 207129,
+      "word": "伴郎团接亲暴力破门而入新娘发怒",
+      "onboard_time": 1683450570,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114820,
       "num": 101468,
       "word": "刘些宁戴牙套了",
       "onboard_time": 1683376827,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113084,
-      "num": 113084,
-      "word": "放在商场没人玩的东西遇到大学生",
-      "onboard_time": 1683448351,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 112804,
@@ -1436,7 +1524,7 @@
     },
     {
       "raw_hot": 77302,
-      "num": 100485,
+      "num": 206149,
       "word": "2023KPL春季赛",
       "onboard_time": 1683447930,
       "rank": 47,
