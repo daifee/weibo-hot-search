@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683559086894,
+  "endTime": 1683560026480,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -2115,6 +2115,14 @@
       "category": "影视,幽默"
     },
     {
+      "raw_hot": 1082474,
+      "num": 1082474,
+      "word": "瘦了二十斤后手部的变化",
+      "onboard_time": 1683557013,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1079555,
       "num": 1079555,
       "word": "王子奇王玉雯",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1683443068,
       "rank": 31,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 957410,
-      "num": 957410,
-      "word": "瘦了二十斤后手部的变化",
-      "onboard_time": 1683557013,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 957254,
@@ -3027,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 759072,
+      "num": 759072,
+      "word": "杨洋一番爆剧",
+      "onboard_time": 1683557914,
+      "rank": 14,
+      "category": "影视"
+    },
+    {
       "raw_hot": 758366,
       "num": 758366,
       "word": "因为我的原因妈妈被辞退了",
@@ -3601,14 +3609,6 @@
       "onboard_time": 1683449672,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 630716,
-      "num": 630716,
-      "word": "杨洋一番爆剧",
-      "onboard_time": 1683557914,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 630457,
@@ -4531,20 +4531,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 518199,
+      "num": 518199,
+      "word": "36岁常青藤毕业确诊癌症后反而很开心",
+      "onboard_time": 1683555392,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 518158,
       "num": 518158,
       "word": "夏洛特公主",
       "onboard_time": 1683375089,
       "rank": 17,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 517257,
-      "num": 517257,
-      "word": "36岁常青藤毕业确诊癌症后反而很开心",
-      "onboard_time": 1683555392,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 511979,
@@ -5249,6 +5249,14 @@
       "onboard_time": 1683281011,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442566,
+      "num": 386852,
+      "word": "他叫李飞",
+      "onboard_time": 1683558453,
+      "rank": 26,
+      "category": "影视"
     },
     {
       "raw_hot": 442403,
@@ -6179,14 +6187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 383093,
-      "num": 311251,
-      "word": "他叫李飞",
-      "onboard_time": 1683558453,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 382918,
       "num": 382918,
       "word": "演唱会激光导致手机摄像头报废",
@@ -6633,6 +6633,14 @@
       "onboard_time": 1683256590,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356567,
+      "num": 356567,
+      "word": "反正她会成功的",
+      "onboard_time": 1683557614,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 356046,
@@ -7841,14 +7849,6 @@
       "onboard_time": 1683253287,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 308569,
-      "num": 308569,
-      "word": "反正她会成功的",
-      "onboard_time": 1683557614,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 307753,
@@ -9707,6 +9707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247307,
+      "num": 247307,
+      "word": "五月天明天抢票",
+      "onboard_time": 1683556173,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 247022,
       "num": 247022,
       "word": "周深一开口宿命感",
@@ -9904,14 +9912,6 @@
       "word": "btob",
       "onboard_time": 1683022586,
       "rank": 42,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 242593,
-      "num": 237424,
-      "word": "五月天明天抢票",
-      "onboard_time": 1683556173,
-      "rank": 39,
       "category": "音乐"
     },
     {
@@ -10297,6 +10297,14 @@
       "onboard_time": 1682863593,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234648,
+      "num": 207524,
+      "word": "张嘉倪初夏珍珠蜜桃妆",
+      "onboard_time": 1683558812,
+      "rank": 43,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 234537,
@@ -11403,14 +11411,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 212865,
-      "num": 207524,
-      "word": "张嘉倪初夏珍珠蜜桃妆",
-      "onboard_time": 1683558812,
-      "rank": 43,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 212484,
       "num": 212484,
       "word": "许魏洲出发图是AI生成的",
@@ -11449,6 +11449,14 @@
       "onboard_time": 1682914707,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 211588,
+      "num": 247415,
+      "word": "什么叫男凝",
+      "onboard_time": 1683559052,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 211472,
@@ -12833,14 +12841,6 @@
       "onboard_time": 1683350429,
       "rank": 44,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 187028,
-      "num": 187028,
-      "word": "什么叫男凝",
-      "onboard_time": 1683559052,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 186920,
@@ -17451,7 +17451,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35270,
+      "raw_hot": 36600,
       "num": 1319553,
       "word": "天舟六号船箭组合体垂直转运美图",
       "onboard_time": 1683555871,
@@ -17751,6 +17751,9 @@
     },
     {
       "word": "#高质量发展调研行#"
+    },
+    {
+      "word": "#习近平会见第十届世界华侨华人社团联谊大会代表#"
     }
   ]
 }

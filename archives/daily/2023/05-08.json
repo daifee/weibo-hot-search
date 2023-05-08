@@ -1,6 +1,6 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683559086894,
+  "endTime": 1683560026480,
   "band_list": [
     {
       "raw_hot": 11036411,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1082474,
+      "num": 1082474,
+      "word": "瘦了二十斤后手部的变化",
+      "onboard_time": 1683557013,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1026355,
       "num": 858291,
       "word": "肖战作品疑似被恶意评分",
@@ -417,14 +425,6 @@
       "onboard_time": 1683554732,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 957410,
-      "num": 957410,
-      "word": "瘦了二十斤后手部的变化",
-      "onboard_time": 1683557013,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 923281,
@@ -505,6 +505,14 @@
       "onboard_time": 1683539429,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759072,
+      "num": 759072,
+      "word": "杨洋一番爆剧",
+      "onboard_time": 1683557914,
+      "rank": 14,
+      "category": "影视"
     },
     {
       "raw_hot": 744463,
@@ -601,14 +609,6 @@
       "onboard_time": 1683537869,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 630716,
-      "num": 630716,
-      "word": "杨洋一番爆剧",
-      "onboard_time": 1683557914,
-      "rank": 14,
-      "category": "影视"
     },
     {
       "raw_hot": 629378,
@@ -723,8 +723,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 517257,
-      "num": 517257,
+      "raw_hot": 518199,
+      "num": 518199,
       "word": "36岁常青藤毕业确诊癌症后反而很开心",
       "onboard_time": 1683555392,
       "rank": 32,
@@ -815,6 +815,14 @@
       "num": 269826,
       "word": "朱珠产后拍戏到浪姐瘦了20斤",
       "onboard_time": 1683527975,
+      "rank": 26,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 442566,
+      "num": 386852,
+      "word": "他叫李飞",
+      "onboard_time": 1683558453,
       "rank": 26,
       "category": "影视"
     },
@@ -963,14 +971,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 383093,
-      "num": 311251,
-      "word": "他叫李飞",
-      "onboard_time": 1683558453,
-      "rank": 26,
-      "category": "影视"
-    },
-    {
       "raw_hot": 379384,
       "num": 379384,
       "word": "美依礼芽想和周深合作",
@@ -1065,6 +1065,14 @@
       "onboard_time": 1683505287,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356567,
+      "num": 356567,
+      "word": "反正她会成功的",
+      "onboard_time": 1683557614,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 355984,
@@ -1249,14 +1257,6 @@
       "onboard_time": 1683455253,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 308569,
-      "num": 308569,
-      "word": "反正她会成功的",
-      "onboard_time": 1683557614,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 306693,
@@ -1531,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247307,
+      "num": 247307,
+      "word": "五月天明天抢票",
+      "onboard_time": 1683556173,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 247022,
       "num": 247022,
       "word": "周深一开口宿命感",
@@ -1555,14 +1563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242593,
-      "num": 237424,
-      "word": "五月天明天抢票",
-      "onboard_time": 1683556173,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 241332,
       "num": 241332,
       "word": "浙江男篮vs辽宁男篮",
@@ -1585,6 +1585,14 @@
       "onboard_time": 1683535172,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234648,
+      "num": 207524,
+      "word": "张嘉倪初夏珍珠蜜桃妆",
+      "onboard_time": 1683558812,
+      "rank": 43,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 231784,
@@ -1715,12 +1723,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 212865,
-      "num": 207524,
-      "word": "张嘉倪初夏珍珠蜜桃妆",
-      "onboard_time": 1683558812,
-      "rank": 43,
-      "category": "艺人,美妆"
+      "raw_hot": 211588,
+      "num": 247415,
+      "word": "什么叫男凝",
+      "onboard_time": 1683559052,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 211056,
@@ -1921,14 +1929,6 @@
       "onboard_time": 1683507211,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187028,
-      "num": 187028,
-      "word": "什么叫男凝",
-      "onboard_time": 1683559052,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 186194,
@@ -2491,7 +2491,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35270,
+      "raw_hot": 36600,
       "num": 1319553,
       "word": "天舟六号船箭组合体垂直转运美图",
       "onboard_time": 1683555871,
@@ -2535,6 +2535,9 @@
     },
     {
       "word": "#高质量发展调研行#"
+    },
+    {
+      "word": "#习近平会见第十届世界华侨华人社团联谊大会代表#"
     }
   ]
 }
