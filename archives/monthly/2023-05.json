@@ -1,6 +1,6 @@
 {
   "startTime": 1682871643535,
-  "endTime": 1683524006846,
+  "endTime": 1683526940886,
   "band_list": [
     {
       "raw_hot": 7993540,
@@ -9,6 +9,14 @@
       "onboard_time": 1682998108,
       "rank": 31,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 6618791,
+      "num": 6618791,
+      "word": "杨幂官宣与嘉行解约",
+      "onboard_time": 1683525990,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 6528594,
@@ -121,6 +129,14 @@
       "onboard_time": 1683368189,
       "rank": 47,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 3000781,
+      "num": 3000781,
+      "word": "赵今麦 插队",
+      "onboard_time": 1683525090,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2937830,
@@ -401,6 +417,14 @@
       "onboard_time": 1683245009,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2228363,
+      "num": 2228363,
+      "word": "全世界都知道赵丽颖被淘汰了",
+      "onboard_time": 1683522333,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2179014,
@@ -859,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1739797,
-      "num": 1739797,
-      "word": "全世界都知道赵丽颖被淘汰了",
-      "onboard_time": 1683522333,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1708893,
       "num": 1708893,
       "word": "热带鱼 把水煮开了以后再养",
@@ -1211,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1455376,
+      "num": 1455376,
+      "word": "12306回应男子在火车上被持刀杀害",
+      "onboard_time": 1683525749,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1437487,
       "num": 1437487,
       "word": "男性朋友抱怨 不敢调情",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1682989469,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1308422,
+      "num": 1308422,
+      "word": "TFBOYS演唱会",
+      "onboard_time": 1683524488,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1298777,
@@ -2059,6 +2091,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 1026355,
+      "num": 858291,
+      "word": "肖战作品疑似被恶意评分",
+      "onboard_time": 1683523829,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1015051,
       "num": 1015051,
       "word": "小贝饿了带货因虚假宣传被罚46万",
@@ -2267,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 922212,
+      "num": 841354,
+      "word": "万玛才旦",
+      "onboard_time": 1683525329,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 919662,
       "num": 919662,
       "word": "Angelababy定制礼服腰围改小11.5厘米",
@@ -2465,14 +2513,6 @@
       "onboard_time": 1683385771,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 854246,
-      "num": 641885,
-      "word": "肖战作品疑似被恶意评分",
-      "onboard_time": 1683523829,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 852555,
@@ -2945,6 +2985,14 @@
       "onboard_time": 1683126154,
       "rank": 18,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 707136,
+      "num": 707136,
+      "word": "杨幂换头像",
+      "onboard_time": 1683526291,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 703161,
@@ -3971,6 +4019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 532765,
+      "num": 532765,
+      "word": "那英说热情的台湾人让她感觉到家了",
+      "onboard_time": 1683521019,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 532547,
       "num": 532547,
       "word": "山西一地发生重大刑案",
@@ -4305,14 +4361,6 @@
       "onboard_time": 1683354210,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 488609,
-      "num": 488609,
-      "word": "那英说热情的台湾人让她感觉到家了",
-      "onboard_time": 1683521019,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 488527,
@@ -5017,6 +5065,14 @@
       "onboard_time": 1683470554,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424232,
+      "num": 424232,
+      "word": "买饭时女孩突然把头靠在我肩上",
+      "onboard_time": 1683524610,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 423748,
@@ -5849,6 +5905,14 @@
       "onboard_time": 1683264269,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371772,
+      "num": 269529,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1683526050,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 370989,
@@ -7963,6 +8027,14 @@
       "category": "幽默,综艺"
     },
     {
+      "raw_hot": 277676,
+      "num": 245414,
+      "word": "aespa新歌SpicyMV",
+      "onboard_time": 1683522032,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 277565,
       "num": 277565,
       "word": "严浩翔演唱会造型",
@@ -8313,6 +8385,14 @@
       "onboard_time": 1682913507,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264697,
+      "num": 264697,
+      "word": "在一起八年分手了是什么体验",
+      "onboard_time": 1683523771,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 264541,
@@ -9209,6 +9289,14 @@
       "onboard_time": 1683090992,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240368,
+      "num": 240368,
+      "word": "iPhone15",
+      "onboard_time": 1683525691,
+      "rank": 33,
+      "category": "科技"
     },
     {
       "raw_hot": 240267,
@@ -10184,6 +10272,14 @@
       "word": "男子头疼自己在家针灸扎破心脏",
       "onboard_time": 1683235092,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218972,
+      "num": 230375,
+      "word": "多位网友分享巴厘岛惊险历程",
+      "onboard_time": 1683526533,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -11177,14 +11273,6 @@
       "onboard_time": 1683177390,
       "rank": 34,
       "category": "影视"
-    },
-    {
-      "raw_hot": 200219,
-      "num": 200219,
-      "word": "aespa新歌SpicyMV",
-      "onboard_time": 1683522032,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 200140,
@@ -12393,6 +12481,14 @@
       "onboard_time": 1683044068,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177889,
+      "num": 177889,
+      "word": "张雨绮沙漠红裙",
+      "onboard_time": 1683524010,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177867,
@@ -14371,6 +14467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133009,
+      "num": 146087,
+      "word": "一梦江湖",
+      "onboard_time": 1683524131,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132555,
       "num": 132555,
       "word": "Hero晋级败者组第三轮",
@@ -15979,6 +16083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66938,
+      "num": 145493,
+      "word": "刀剑进击篇战斗开启版预告",
+      "onboard_time": 1683525691,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 66189,
       "num": 1774510,
       "word": "4K视频看立夏时节的中国大地",
@@ -16020,7 +16132,7 @@
     },
     {
       "raw_hot": 63131,
-      "num": 1806703,
+      "num": 2393442,
       "word": "100秒回顾天舟五号撤离全过程",
       "onboard_time": 1683514226,
       "rank": 2,
@@ -16217,6 +16329,14 @@
       "onboard_time": 1683404413,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46836,
+      "num": 660831,
+      "word": "乘风2023下车杀好美",
+      "onboard_time": 1683525630,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 46418,

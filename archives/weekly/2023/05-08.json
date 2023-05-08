@@ -1,7 +1,23 @@
 {
   "startTime": 1683476453649,
-  "endTime": 1683524006846,
+  "endTime": 1683526940886,
   "band_list": [
+    {
+      "raw_hot": 6618791,
+      "num": 6618791,
+      "word": "杨幂官宣与嘉行解约",
+      "onboard_time": 1683525990,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3000781,
+      "num": 3000781,
+      "word": "赵今麦 插队",
+      "onboard_time": 1683525090,
+      "rank": 1,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2696352,
       "num": 2696352,
@@ -25,6 +41,14 @@
       "onboard_time": 1683472713,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2228363,
+      "num": 2228363,
+      "word": "全世界都知道赵丽颖被淘汰了",
+      "onboard_time": 1683522333,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2140321,
@@ -67,14 +91,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 1739797,
-      "num": 1739797,
-      "word": "全世界都知道赵丽颖被淘汰了",
-      "onboard_time": 1683522333,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 1625979,
       "num": 1625979,
       "word": "中奖五千万你会立刻离职吗",
@@ -107,6 +123,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1455376,
+      "num": 1455376,
+      "word": "12306回应男子在火车上被持刀杀害",
+      "onboard_time": 1683525749,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1432075,
       "num": 1432075,
       "word": "美依礼芽人气断层第一",
@@ -121,6 +145,14 @@
       "onboard_time": 1683516088,
       "rank": 6,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 1308422,
+      "num": 1308422,
+      "word": "TFBOYS演唱会",
+      "onboard_time": 1683524488,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1292529,
@@ -163,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1026355,
+      "num": 858291,
+      "word": "肖战作品疑似被恶意评分",
+      "onboard_time": 1683523829,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1009876,
       "num": 1009876,
       "word": "儿时的发小因为生孩子去世了",
       "onboard_time": 1683470734,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 922212,
+      "num": 841354,
+      "word": "万玛才旦",
+      "onboard_time": 1683525329,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 919662,
@@ -195,14 +243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 854246,
-      "num": 641885,
-      "word": "肖战作品疑似被恶意评分",
-      "onboard_time": 1683523829,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 738388,
       "num": 738388,
       "word": "因为性格内向结果被辞退了",
@@ -225,6 +265,14 @@
       "onboard_time": 1683508648,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707136,
+      "num": 707136,
+      "word": "杨幂换头像",
+      "onboard_time": 1683526291,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 689690,
@@ -299,6 +347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 532765,
+      "num": 532765,
+      "word": "那英说热情的台湾人让她感觉到家了",
+      "onboard_time": 1683521019,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529993,
       "num": 529993,
       "word": "给内娱一点二次元震撼",
@@ -321,14 +377,6 @@
       "onboard_time": 1683512728,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 488609,
-      "num": 488609,
-      "word": "那英说热情的台湾人让她感觉到家了",
-      "onboard_time": 1683521019,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 471755,
@@ -369,6 +417,14 @@
       "onboard_time": 1683501923,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424232,
+      "num": 424232,
+      "word": "买饭时女孩突然把头靠在我肩上",
+      "onboard_time": 1683524610,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 423748,
@@ -457,6 +513,14 @@
       "onboard_time": 1683519212,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371772,
+      "num": 269529,
+      "word": "易烊千玺演唱会",
+      "onboard_time": 1683526050,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 362498,
@@ -659,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 277676,
+      "num": 245414,
+      "word": "aespa新歌SpicyMV",
+      "onboard_time": 1683522032,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 272679,
       "num": 272679,
       "word": "店主买下打错彩票中了30万",
@@ -681,6 +753,14 @@
       "onboard_time": 1683509609,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264697,
+      "num": 264697,
+      "word": "在一起八年分手了是什么体验",
+      "onboard_time": 1683523771,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 260578,
@@ -739,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240368,
+      "num": 240368,
+      "word": "iPhone15",
+      "onboard_time": 1683525691,
+      "rank": 33,
+      "category": "科技"
+    },
+    {
       "raw_hot": 236410,
       "num": 236410,
       "word": "白桃星座",
@@ -793,6 +881,14 @@
       "onboard_time": 1683514827,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218972,
+      "num": 230375,
+      "word": "多位网友分享巴厘岛惊险历程",
+      "onboard_time": 1683526533,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217797,
@@ -865,14 +961,6 @@
       "onboard_time": 1683515488,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200219,
-      "num": 200219,
-      "word": "aespa新歌SpicyMV",
-      "onboard_time": 1683522032,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 199586,
@@ -969,6 +1057,14 @@
       "onboard_time": 1683507211,
       "rank": 38,
       "category": "影视"
+    },
+    {
+      "raw_hot": 177889,
+      "num": 177889,
+      "word": "张雨绮沙漠红裙",
+      "onboard_time": 1683524010,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 176210,
@@ -1139,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133009,
+      "num": 146087,
+      "word": "一梦江湖",
+      "onboard_time": 1683524131,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 126873,
       "num": 126873,
       "word": "工作5年你能存多少钱",
@@ -1307,8 +1411,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66938,
+      "num": 145493,
+      "word": "刀剑进击篇战斗开启版预告",
+      "onboard_time": 1683525691,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 63131,
-      "num": 1806703,
+      "num": 2393442,
       "word": "100秒回顾天舟五号撤离全过程",
       "onboard_time": 1683514226,
       "rank": 2,
@@ -1321,6 +1433,14 @@
       "onboard_time": 1683479660,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46836,
+      "num": 660831,
+      "word": "乘风2023下车杀好美",
+      "onboard_time": 1683525630,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 34319,
